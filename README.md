@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Sandman TV series has a trailer worth dreaming about](https://www.polygon.com/sdcc/23273180/sandman-trailer-netflix-dc-comics-neil-gaiman-tom-sturridge)
- - [Interview with a Vampire gives fans first bite of the new series with a trailer](https://www.polygon.com/sdcc/23220434/interview-with-a-vampire-trailer-tv-sdcc-release-date)
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)<!-- GAME:END -->
+ - [Here’s the official slate for Marvel’s Phase 5 and 6](https://www.polygon.com/sdcc/23275835/marvel-mcu-phase-5-schedule-calendar-upcoming-ant-man)
+ - [Marvel announces a Fantastic Four movie release date](https://www.polygon.com/sdcc/23272901/comic-con-fantastic-four-revealed-release-date)
+ - [Guardians of the Galaxy Vol. 3 will be the ‘end of this team’](https://www.polygon.com/20702317/guardians-of-the-galaxy-vol-3-adam-warlock-trailer-james-gunn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
