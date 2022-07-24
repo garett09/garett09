@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
- - 🚯 [That happens when a cement truck has to stop quickly](http://9gag.com/gag/aGz4dKZ)
- - 🚯 [The wisdom of the ages:](http://9gag.com/gag/aVxy7O8)<!-- MEMES:END -->
+ - 🚖 [English is weird](http://9gag.com/gag/ay9jeLy)
+ - 🚯 [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
+ - 🚯 [That\u2019s it](http://9gag.com/gag/aLv7pnP)<!-- MEMES:END -->
 
 --- 
 
