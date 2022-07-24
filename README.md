@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple, Amazon, and Google are trying to secure live sports streaming rights, working to convince leagues to switch from traditional TV and cable networks &lpar;New York Times&rpar;](http://www.techmeme.com/220724/p5#a220724p5)
  - [One America News gets dumped by Verizon, the only major carrier it had left](https://www.theverge.com/2022/7/24/23276366/one-america-news-verizon-fios-dumped-major-carriers-oan)
- - [Synology built a Wi-Fi router for the connected home, and I love it](https://www.androidauthority.com/synology-rt6600ax-router-review-3177220/)
- - [Get up to $200 in Samsung credit to preorder upcoming Galaxy Fold, Watch devices](https://appleinsider.com/articles/22/07/20/get-up-to-200-in-samsung-credit-to-preorder-upcoming-galaxy-fold-watch-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Synology built a Wi-Fi router for the connected home, and I love it](https://www.androidauthority.com/synology-rt6600ax-router-review-3177220/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
