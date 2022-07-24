@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can tell this is Japan cuz no one shoved him out after the 2nd time.](http://9gag.com/gag/awzWyNx)
- - 🚯 [I am Chorizo.](http://9gag.com/gag/avAKWgO)
+ - 🚖 [Cat](http://9gag.com/gag/a81xA4V)
+ - 🚯 [I totally agree](http://9gag.com/gag/avAKymZ)
  - 🚯 [Wakanda 3000](http://9gag.com/gag/avAKyMW)<!-- MEMES:END -->
 
 --- 
