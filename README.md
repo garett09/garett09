@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pardon me](http://9gag.com/gag/a61YqP8)
- - 🚯 [Owls are the cats of the air](http://9gag.com/gag/aM4MEX6)
- - 🚯 [Society sucks - where are we heading to ..](http://9gag.com/gag/a0Zy4bB)<!-- MEMES:END -->
+ - 🚖 [Society sucks - where are we heading to ..](http://9gag.com/gag/a0Zy4bB)
+ - 🚯 [Don&#39;t stick pp in crazy](http://9gag.com/gag/abgnArv)
+ - 🚯 [My mom saved this swift chick from cats, feeding him with insects, waiting for him to be strong enough to set him free.](http://9gag.com/gag/aKmoGgZ)<!-- MEMES:END -->
 
 --- 
 
