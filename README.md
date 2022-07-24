@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Society sucks - where are we heading to ..](http://9gag.com/gag/a0Zy4bB)
- - 🚯 [Don&#39;t stick pp in crazy](http://9gag.com/gag/abgnArv)
- - 🚯 [My mom saved this swift chick from cats, feeding him with insects, waiting for him to be strong enough to set him free.](http://9gag.com/gag/aKmoGgZ)<!-- MEMES:END -->
+ - 🚖 [Cat](http://9gag.com/gag/a81xA4V)
+ - 🚯 [Praise be to God!](http://9gag.com/gag/aYrXQWq)
+ - 🚯 [You can tell this is Japan cuz no one shoved him out after the 2nd time.](http://9gag.com/gag/awzWyNx)<!-- MEMES:END -->
 
 --- 
 
