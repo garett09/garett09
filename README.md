@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: new &quot;Pro&quot; Apple Watch will have about 7% larger screen, a new design, and a case with a more durable formulation of titanium to make it extra rugged &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220724/p4#a220724p4)
- - [When Google Maps struggles, Citymapper comes to my rescue](https://www.androidauthority.com/citymapper-vs-google-maps-3189239/)
- - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)<!-- TECH:END -->
+ - [One America News gets dumped by Verizon, the only major carrier it had left](https://www.theverge.com/2022/7/24/23276366/one-america-news-verizon-fios-dumped-major-carriers-oan)
+ - [Synology built a Wi-Fi router for the connected home, and I love it](https://www.androidauthority.com/synology-rt6600ax-router-review-3177220/)
+ - [Get up to $200 in Samsung credit to preorder upcoming Galaxy Fold, Watch devices](https://appleinsider.com/articles/22/07/20/get-up-to-200-in-samsung-credit-to-preorder-upcoming-galaxy-fold-watch-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
