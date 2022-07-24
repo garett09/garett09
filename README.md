@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s traumatize an entire generation](http://9gag.com/gag/aVxyxyw)
- - 🚯 [Ghanaian musician Moussa Diarra demonstrating how to play the kush-kosh](http://9gag.com/gag/a61Y1Pb)
- - 🚯 [Pardon me](http://9gag.com/gag/a61YqP8)<!-- MEMES:END -->
+ - 🚖 [Pardon me](http://9gag.com/gag/a61YqP8)
+ - 🚯 [Owls are the cats of the air](http://9gag.com/gag/aM4MEX6)
+ - 🚯 [Society sucks - where are we heading to ..](http://9gag.com/gag/a0Zy4bB)<!-- MEMES:END -->
 
 --- 
 
