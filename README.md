@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mini clubbing](http://9gag.com/gag/avAKAmW)
- - 🚯 [Oh boy..](http://9gag.com/gag/aDDeDgd)
- - 🚯 [Old Hollywood Bloopers](http://9gag.com/gag/a61Y1q9)<!-- MEMES:END -->
+ - 🚖 [Blue Jay](http://9gag.com/gag/aWg3GO6)
+ - 🚯 [Mini clubbing](http://9gag.com/gag/avAKAmW)
+ - 🚯 [Let&#39;s traumatize an entire generation](http://9gag.com/gag/aVxyxyw)<!-- MEMES:END -->
 
 --- 
 
