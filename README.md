@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [... it appeals to the male fantasy.](http://9gag.com/gag/arn7m1d)
- - 🚯 [Inherited this beauty from my father. Only 67000 km. Complete history intact. Now fully serviced ready to travel.](http://9gag.com/gag/aM4M4DG)
- - 🚯 [Techno on one acoustic guitar](http://9gag.com/gag/a0ZyZ3v)<!-- MEMES:END -->
+ - 🚖 [Techno on one acoustic guitar](http://9gag.com/gag/a0ZyZ3v)
+ - 🚯 [Germany has come for you](http://9gag.com/gag/aogQK0m)
+ - 🚯 [France in anime VS reality](http://9gag.com/gag/apgZ9P9)<!-- MEMES:END -->
 
 --- 
 
