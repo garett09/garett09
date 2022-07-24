@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s it](http://9gag.com/gag/aLv7pnP)
- - 🚯 [The Feeler: My truth](http://9gag.com/gag/a0ZyZOB)
- - 🚯 [I&#39;m not saying you&#39;re good, I&#39;m just saying you&#39;re not THAT bad](http://9gag.com/gag/aE8mpZM)<!-- MEMES:END -->
+ - 🚖 [Mini clubbing](http://9gag.com/gag/avAKAmW)
+ - 🚯 [Oh boy..](http://9gag.com/gag/aDDeDgd)
+ - 🚯 [Old Hollywood Bloopers](http://9gag.com/gag/a61Y1q9)<!-- MEMES:END -->
 
 --- 
 
