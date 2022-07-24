@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blue Jay](http://9gag.com/gag/aWg3GO6)
- - 🚯 [Mini clubbing](http://9gag.com/gag/avAKAmW)
- - 🚯 [Let&#39;s traumatize an entire generation](http://9gag.com/gag/aVxyxyw)<!-- MEMES:END -->
+ - 🚖 [... it appeals to the male fantasy.](http://9gag.com/gag/arn7m1d)
+ - 🚯 [The Feeler: My truth](http://9gag.com/gag/a0ZyZOB)
+ - 🚯 [Inherited this beauty from my father. Only 67000 km. Complete history intact. Now fully serviced ready to travel.](http://9gag.com/gag/aM4M4DG)<!-- MEMES:END -->
 
 --- 
 
