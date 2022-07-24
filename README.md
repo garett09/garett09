@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat](http://9gag.com/gag/a81xA4V)
- - 🚯 [I totally agree](http://9gag.com/gag/avAKymZ)
- - 🚯 [Wakanda 3000](http://9gag.com/gag/avAKyMW)<!-- MEMES:END -->
+ - 🚖 [Train to Rangpur: The zombie train in Bangladesh.](http://9gag.com/gag/avAKWmE)
+ - 🚯 [Little monster](http://9gag.com/gag/a91gyMj)
+ - 🚯 [YES](http://9gag.com/gag/abgneLX)<!-- MEMES:END -->
 
 --- 
 
