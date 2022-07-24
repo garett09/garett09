@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: new &quot;Pro&quot; Apple Watch will have about 7% larger screen, a new design, and a case with a more durable formulation of titanium to make it extra rugged &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220724/p4#a220724p4)
  - [When Google Maps struggles, Citymapper comes to my rescue](https://www.androidauthority.com/citymapper-vs-google-maps-3189239/)
- - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)
- - [Novavax: Everything You Should Know About the Newest COVID-19 Vaccine     - CNET](https://www.cnet.com/health/medical/novavax-everything-you-should-know-about-the-newest-covid-19-vaccine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
