@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)
- - 🚯 [Broke as always](http://9gag.com/gag/aqGoQx7)
- - 🚯 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)<!-- MEMES:END -->
+ - 🚖 [Got deleted...wtf](http://9gag.com/gag/aWg3vg6)
+ - 🚯 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)
+ - 🚯 [Have you ever killed man, Peter ?](http://9gag.com/gag/a1132ow)<!-- MEMES:END -->
 
 --- 
 
