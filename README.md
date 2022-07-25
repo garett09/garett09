@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)
- - 🚯 [Collect today 20 kg of garbage. Total is 1320kg. I keep going until people don\u2019t litter at all, even if it takes my whole live.](http://9gag.com/gag/aeg8ZPm)
- - 🚯 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)<!-- MEMES:END -->
+ - 🚖 [You can&#39;t cheat on someone and then say you love them](http://9gag.com/gag/aogQR1m)
+ - 🚯 [Silly design](http://9gag.com/gag/aKmovm1)
+ - 🚯 [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)<!-- MEMES:END -->
 
 --- 
 
