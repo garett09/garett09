@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smooth](http://9gag.com/gag/a41OAo1)
+ - 🚖 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)
  - 🚯 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)
- - 🚯 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)<!-- MEMES:END -->
+ - 🚯 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
 
 --- 
 
