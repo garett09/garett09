@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tactics Ogre: Reborn leak shows some big changes to one of the best strategy RPGs ever](https://www.pcgamer.com/tactics-ogre-reborn-leak-shows-some-big-changes-to-one-of-the-best-strategy-rpgs-ever)
- - [World of Warcraft: Wrath of the Lich King Classic is coming on September 26](https://www.pcgamer.com/world-of-warcraft-wrath-of-the-lich-king-classic-is-coming-on-september-26)
- - [One of the best games of 2013 is getting a mobile port](https://www.polygon.com/23277667/papers-please-mobile-game-release)<!-- GAME:END -->
+ - [Nier: Automata player stumbles onto a secret that&#39;s remained hidden for 5 years](https://www.pcgamer.com/nier-automata-player-stumbles-onto-a-secret-thats-remained-hidden-for-5-years)
+ - [Pokémon Go’s free new daily item is just what many players need](https://www.polygon.com/23268513/pokemon-go-daily-adventure-incense-new-item-rural-players)
+ - [Booting Up Your Xbox Series X/S Just Got A Little Quicker](https://kotaku.com/xbox-series-x-s-boot-speed-next-gen-console-war-1849328585)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
