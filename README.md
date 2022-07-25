@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We just want Borgir !!](http://9gag.com/gag/a91g6XL)
- - 🚯 [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)
- - 🚯 [Alright ... Enough Internet for Today !!](http://9gag.com/gag/a81x6K3)<!-- MEMES:END -->
+ - 🚖 [Sometimes, people don&#39;t just wanna watch the world burn....](http://9gag.com/gag/aogQVPg)
+ - 🚯 [Alright ... Enough Internet for Today !!](http://9gag.com/gag/a81x6K3)
+ - 🚯 [You people disgust me](http://9gag.com/gag/aRrqZ95)<!-- MEMES:END -->
 
 --- 
 
