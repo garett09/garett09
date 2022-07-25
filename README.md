@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These classic creature features prove you don’t need a shark for a great Jaws movie](https://www.polygon.com/what-to-watch/23272697/piranha-orca-alligator-movies-like-jaws)
- - [Apex Legends accident might have leaked Season 14&#39;s new character Vantage](https://www.pcgamer.com/apex-legends-accident-might-have-leaked-season-14s-new-character-vantage)
- - [MultiVersus players are extremely salty about Taz, the Tasmanian Devil](https://www.pcgamer.com/multiversus-players-are-extremely-salty-about-taz-the-tasmanian-devil)<!-- GAME:END -->
+ - [Mod Turns The Cat From Stray Into CJ From San Andreas](https://kotaku.com/stray-cat-mod-gta-cj-san-andreas-pc-horse-1849325755)
+ - [GameStop took down an NFT based on a 9/11 victim](https://www.pcgamer.com/gamestop-took-down-an-nft-based-on-a-911-victim)
+ - [The Incredible Story Of Mario Kart: Double Dash&#39;s Hidden Shortcuts](https://kotaku.com/mario-kart-double-dash-speedrun-shortcut-nintendo-1849325683)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
