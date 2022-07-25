@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
- - 🚯 [My father, classic Doom player, watching me buying a game where you play as a cat:](http://9gag.com/gag/aggzQYK)
- - 🚯 [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)<!-- MEMES:END -->
+ - 🚖 [German scientists after WW2](http://9gag.com/gag/ay9j3Mq)
+ - 🚯 [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)
+ - 🚯 [Alright ... Enough Internet for Today !!](http://9gag.com/gag/a81x6K3)<!-- MEMES:END -->
 
 --- 
 
