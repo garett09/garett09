@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)
- - [ASRock prepares to enter the gaming monitor market](https://www.pcgamer.com/asrock-prepares-to-enter-the-gaming-monitor-market)
- - [Overclocker gives Intel&#39;s Arc A380 GPU more power and sees huge gains](https://www.pcgamer.com/overclocker-gives-intels-arc-a380-gpu-more-power-and-sees-huge-gains)<!-- GAME:END -->
+ - [The best gaming TV in 2022](https://www.pcgamer.com/best-4k-tv-for-gaming)
+ - [2K has quietly delisted almost all of the WWE games on Steam](https://www.pcgamer.com/2k-has-quietly-delisted-almost-all-of-the-wwe-games-on-steam)
+ - [Stray modders are putting their own four-legged friends in the game](https://www.pcgamer.com/stray-modders-are-putting-their-own-four-legged-friends-in-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
