@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s absolutely ZERO chance to find a vampire in that area.](http://9gag.com/gag/a81x0LV)
- - 🚯 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)
- - 🚯 [Woke people, making people more racist and divided than ever](http://9gag.com/gag/a61Y9Yq)<!-- MEMES:END -->
+ - 🚖 [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)
+ - 🚯 [Wikipedia at it again:](http://9gag.com/gag/a31Xy5r)
+ - 🚯 [That&#39;s how you do it](http://9gag.com/gag/aRrqMYj)<!-- MEMES:END -->
 
 --- 
 
