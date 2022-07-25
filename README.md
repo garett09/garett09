@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s $2.5 billion investment in affordable housing is building new communities](https://appleinsider.com/articles/22/07/25/apples-25-billion-investment-in-affordable-housing-is-building-new-communities?utm_medium=rss)
- - [GM wants to answer all your burning questions about electric vehicles](https://www.theverge.com/2022/7/25/23274176/gm-ev-live-electric-vehicle-education-questions)
- - [Poll: When do you charge your wearable?](https://www.androidauthority.com/when-charge-wearable-smartwatch-tracker-poll-3190011/)<!-- TECH:END -->
+ - [Analysis: between 2000 and June 1, 2022, Apple applied for and published 248 automobile-related patents, most related to communication and navigation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220725/p16#a220725p16)
+ - [White House to hold summit on next-gen COVID-19 vaccines](https://www.theverge.com/2022/7/25/23277121/covid-vaccine-next-gen-white-house-nasal-spray-universal)
+ - [Why I’m &lpar;reluctantly&rpar; ditching my Pixel 6 Pro](https://www.androidauthority.com/im-ditching-pixel-6-pro-3188012/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
