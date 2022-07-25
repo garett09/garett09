@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord of the Rings: Gollum gets another delay, precious](https://www.polygon.com/23277541/the-lord-of-the-rings-gollum-delay-new-release-date)
- - [Stray’s Secret Weapon: A PR Campaign Unlike Any Other In Gaming](https://kotaku.com/stray-annapurna-interactive-meow-parlour-travel-cat-1849327602)
- - [The Lord of the Rings: Gollum has been delayed &#39;by a few months&#39;](https://www.pcgamer.com/the-lord-of-the-rings-gollum-has-been-delayed-by-a-few-months)<!-- GAME:END -->
+ - [Tactics Ogre: Reborn leak shows some big changes to one of the best strategy RPGs ever](https://www.pcgamer.com/tactics-ogre-reborn-leak-shows-some-big-changes-to-one-of-the-best-strategy-rpgs-ever)
+ - [World of Warcraft: Wrath of the Lich King Classic is coming on September 26](https://www.pcgamer.com/world-of-warcraft-wrath-of-the-lich-king-classic-is-coming-on-september-26)
+ - [One of the best games of 2013 is getting a mobile port](https://www.polygon.com/23277667/papers-please-mobile-game-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
