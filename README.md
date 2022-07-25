@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)
- - 🚯 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)
- - 🚯 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
+ - 🚖 [Bike Proof Bridge](http://9gag.com/gag/aogQ8z2)
+ - 🚯 [Horologist](http://9gag.com/gag/aRrqvrq)
+ - 🚯 [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)<!-- MEMES:END -->
 
 --- 
 
