@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming TV in 2022](https://www.pcgamer.com/best-4k-tv-for-gaming)
- - [2K has quietly delisted almost all of the WWE games on Steam](https://www.pcgamer.com/2k-has-quietly-delisted-almost-all-of-the-wwe-games-on-steam)
- - [Stray modders are putting their own four-legged friends in the game](https://www.pcgamer.com/stray-modders-are-putting-their-own-four-legged-friends-in-the-game)<!-- GAME:END -->
+ - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)
+ - [Some of Nope’s enigmas are better left unsolved](https://www.polygon.com/23274697/jordan-peele-nope-ending-explained)
+ - [How Digimon Survive’s Karma system impacts your Digimon and story, out July 29](https://blog.playstation.com/2022/07/25/how-digimon-survives-karma-system-impacts-your-digimon-and-story-out-july-29/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
