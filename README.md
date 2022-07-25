@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perhaps I&#39;m not ready to be a father](http://9gag.com/gag/aNPEVDG)
- - 🚯 [Just in case you missed it. These are the c**ts that tell you to use less energy, save on your spendings and all that shit and just granted themselves an 8.5% pay increase a few days ago!](http://9gag.com/gag/arn7X05)
- - 🚯 [Typical](http://9gag.com/gag/aLv7A9z)<!-- MEMES:END -->
+ - 🚖 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)
+ - 🚯 [Hats off good sir.](http://9gag.com/gag/a81xDG6)
+ - 🚯 [Broke as always](http://9gag.com/gag/aqGoQx7)<!-- MEMES:END -->
 
 --- 
 
