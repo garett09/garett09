@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram&#39;s new TikTok-like UI, which has only partially rolled out, lifts some dark patterns from TikTok, like no longer being able to quickly mute videos &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220725/p23#a220725p23)
- - [Teenagers spotted the largest gas pipeline spill in US history](https://www.theverge.com/2022/7/25/23277804/largest-gas-pipeline-spill-us-history-colonial-north-carolina)
- - [Anti-vax dating site exposed data for 3,500 users through ‘debug mode’ bug](https://www.theverge.com/2022/7/25/23277788/unjected-anti-vax-dating-debug-mode-data-covid)<!-- TECH:END -->
+ - [Apple reaches a deal to settle a patent case with Koss, which in 2020 alleged that the AirPods violate five Koss&#39; patents; terms of the deal were not disclosed &lpar;Kelcee Griffis/Bloomberg Law&rpar;](http://www.techmeme.com/220725/p24#a220725p24)
+ - [Amazon’s best-selling new charcoal grill is... the Pixel Buds Pro?](https://www.theverge.com/tldr/2022/7/25/23278082/amazon-pixel-buds-pro-grill)
+ - [Dell is getting out of the phone syncing game](https://www.theverge.com/2022/7/25/23278047/dell-mobile-connect-discontinued-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
