@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel plans to manufacture chips for Taiwanese chip designer MediaTek, the first major partnership for Intel Foundry Services; MediaTek will still use TSMC &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220725/p7#a220725p7)
- - [Can Ring Vaccination Contain Monkeypox in the US?](https://www.wired.com/story/ring-vaccination-beat-smallpox-could-it-work-for-monkeypox/)
- - [Interstate Travel Post-Roe Isn’t as Secure as You May Think](https://www.wired.com/story/insterstate-travel-abortion-post-roe/)<!-- TECH:END -->
+ - [Apple announces a rare retail discount for the iPhone 13 Pro series, select AirPods, and Watches in China between July 29 and August 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220725/p12#a220725p12)
+ - [Talking iPad for digital planning and creativity with KDigitalStudio on the AppleInsider podcast](https://appleinsider.com/articles/22/07/25/talking-ipad-for-digital-planning-and-creativity-with-kdigitalstudio-on-the-appleinsider-podcast?utm_medium=rss)
+ - [London-based Altruistiq, which offers SaaS tools to help companies analyze and reduce their carbon emissions, raised a &amp;pound;15M seed led by Molten Ventures &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220725/p11#a220725p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
