@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play celebrates its first decade with a new promo and a new logo](https://www.androidauthority.com/google-play-new-logo-3190117/)
- - [How to format and partition an external hard drive on Windows](https://www.androidauthority.com/format-partition-external-hard-drive-windows-3184818/)
- - [The ten keyboard shortcuts that make using your Mac faster](https://appleinsider.com/inside/macos/tips/the-ten-keyboard-shortcuts-that-make-using-your-mac-faster?utm_medium=rss)<!-- TECH:END -->
+ - [iPad Pro with OLED may be more expensive because of dry etching](https://appleinsider.com/articles/22/07/25/ipad-pro-with-oled-may-be-more-expensive-because-of-dry-etching?utm_medium=rss)
+ - [Anker’s new GaNPrime chargers are more powerful and slightly smaller](https://www.theverge.com/2022/7/25/23277347/anker-ganprime-fast-charging-usb-c-747)
+ - [Overwatch League team loses tournament in embarrassingly hilarious way](https://www.theverge.com/2022/7/25/23277168/overwatch-league-midseason-madness-tournament-san-francisco-shock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
