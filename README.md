@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ready or not, the Glassholes are coming back](https://www.theverge.com/2022/7/25/23054367/google-ar-glasses-glassholes-coming-back)
- - [Facebook will give you ad revenue for putting Post Malone’s music in your videos](https://www.theverge.com/2022/7/25/23277839/facebook-post-malone-meta-youtube-music)
- - [Lego’s new Minifigure Factory lets you create a $12 minifig of yourself](https://www.theverge.com/2022/7/25/23277421/lego-minifigure-factory-tool-customize)<!-- TECH:END -->
+ - [Meta, Google, Microsoft, Amazon join NIST in calling for an end of the leap second, which keeps clocks in sync with the Earth&#39;s rotation but can cause glitches &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/220725/p22#a220725p22)
+ - [Android 13 Beta 4.1 for Pixel fixes some bugs](https://www.androidauthority.com/android-13-beta-4-1-3190150/)
+ - [US resurrects green energy loan program that helped put Tesla on the map](https://www.theverge.com/2022/7/25/23277838/doe-atvm-loan-gm-lg-battery-joint-venture)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
