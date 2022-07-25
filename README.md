@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She seems fun at parties](http://9gag.com/gag/aogQ3b2)
+ - 🚖 [I want to join](http://9gag.com/gag/aE8mVQp)
  - 🚯 [Woman practicing Beryozka dancing.](http://9gag.com/gag/aAGzE52)
- - 🚯 [Homelander trying to act as Antony Starr](http://9gag.com/gag/aRrq4xq)<!-- MEMES:END -->
+ - 🚯 [How new housing?](http://9gag.com/gag/a41Oz0p)<!-- MEMES:END -->
 
 --- 
 
