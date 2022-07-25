@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Google, Microsoft, Amazon join NIST in calling for an end of the leap second, which keeps clocks in sync with the Earth&#39;s rotation but can cause glitches &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/220725/p22#a220725p22)
- - [Android 13 Beta 4.1 for Pixel fixes some bugs](https://www.androidauthority.com/android-13-beta-4-1-3190150/)
- - [US resurrects green energy loan program that helped put Tesla on the map](https://www.theverge.com/2022/7/25/23277838/doe-atvm-loan-gm-lg-battery-joint-venture)<!-- TECH:END -->
+ - [Instagram&#39;s new TikTok-like UI, which has only partially rolled out, lifts some dark patterns from TikTok, like no longer being able to quickly mute videos &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220725/p23#a220725p23)
+ - [Teenagers spotted the largest gas pipeline spill in US history](https://www.theverge.com/2022/7/25/23277804/largest-gas-pipeline-spill-us-history-colonial-north-carolina)
+ - [Anti-vax dating site exposed data for 3,500 users through ‘debug mode’ bug](https://www.theverge.com/2022/7/25/23277788/unjected-anti-vax-dating-debug-mode-data-covid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
