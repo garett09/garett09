@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix-2022/#ftag=CAD590a51e)
- - [The Girl in the Picture on Netflix: Where is Franklin Floyd? All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-on-netflix-where-is-franklin-floyd-all-your-questions-answered/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Netflix You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-best-sci-fi-movies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [European investing app Shares, which debuted in the UK two months ago and has 150K+ users, raises $40M led by Valar Ventures, bringing its total raised to $90M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220724/p8#a220724p8)
+ - [Netflix rolls out a button for iOS and iPadOS users to take them directly to its site to sign up, which avoids the App Store cut via an API for &quot;reader apps&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220724/p7#a220724p7)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-flicks-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
