@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes, people don&#39;t just wanna watch the world burn....](http://9gag.com/gag/aogQVPg)
- - 🚯 [Alright ... Enough Internet for Today !!](http://9gag.com/gag/a81x6K3)
- - 🚯 [You people disgust me](http://9gag.com/gag/aRrqZ95)<!-- MEMES:END -->
+ - 🚖 [Crocodiles swim way faster than you think.](http://9gag.com/gag/aggzO1g)
+ - 🚯 [How new housing?](http://9gag.com/gag/a41Oz0p)
+ - 🚯 [I want to join](http://9gag.com/gag/aE8mVQp)<!-- MEMES:END -->
 
 --- 
 
