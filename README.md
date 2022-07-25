@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Falls Into The Usual Orientalism Pitfalls Of The Cyberpunk Genre](https://kotaku.com/stray-game-annapurna-interactive-cat-cyberpunk-1849328820)
- - [Into The Breach’s Massive Free Update Feels Like A Sequel](https://kotaku.com/into-the-breach-advanced-edition-best-squads-switch-pc-1849328891)
- - [Roller Champions is not cancelled, but Ubisoft is delaying the next season](https://www.pcgamer.com/roller-champions-is-not-cancelled-but-ubisoft-is-delaying-the-next-season)<!-- GAME:END -->
+ - [If Starfield takes one thing from Elite Dangerous, I hope it&#39;s bus driving](https://www.pcgamer.com/if-starfield-takes-one-thing-from-elite-dangerous-i-hope-its-bus-driving)
+ - [Thanks to a modder, the cat in Stray now hates Mondays and loves lasagna](https://www.pcgamer.com/stray-mods)
+ - [Somebody decoded Stray&#39;s mystery language](https://www.pcgamer.com/somebody-decoded-strays-mystery-language)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
