@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)
  - [ASRock prepares to enter the gaming monitor market](https://www.pcgamer.com/asrock-prepares-to-enter-the-gaming-monitor-market)
- - [Overclocker gives Intel&#39;s Arc A380 GPU more power and sees huge gains](https://www.pcgamer.com/overclocker-gives-intels-arc-a380-gpu-more-power-and-sees-huge-gains)
- - [Today&#39;s Wordle answer #401: Monday, July 25](https://www.pcgamer.com/wordle-today-july-25-401-answer-hint)<!-- GAME:END -->
+ - [Overclocker gives Intel&#39;s Arc A380 GPU more power and sees huge gains](https://www.pcgamer.com/overclocker-gives-intels-arc-a380-gpu-more-power-and-sees-huge-gains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
