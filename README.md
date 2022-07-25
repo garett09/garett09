@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Thor franchise sums up the entire history of the Marvel Cinematic Universe](https://www.polygon.com/23273390/thor-movies-dark-world-ragnarok-love-and-thunder)
- - [World of Warships: Legends Anniversary Update has Arrived](https://news.xbox.com/en-us/2022/07/25/world-of-warships-legends-anniversary-update-has-arrived/)
- - [Chess Robot Breaks Seven Year Old&#39;s Finger, Tourney Official Blames Kid](https://kotaku.com/chess-robot-skynet-russian-federation-grandmaster-1849327491)<!-- GAME:END -->
+ - [The Lord of the Rings: Gollum gets another delay, precious](https://www.polygon.com/23277541/the-lord-of-the-rings-gollum-delay-new-release-date)
+ - [Stray’s Secret Weapon: A PR Campaign Unlike Any Other In Gaming](https://kotaku.com/stray-annapurna-interactive-meow-parlour-travel-cat-1849327602)
+ - [The Lord of the Rings: Gollum has been delayed &#39;by a few months&#39;](https://www.pcgamer.com/the-lord-of-the-rings-gollum-has-been-delayed-by-a-few-months)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
