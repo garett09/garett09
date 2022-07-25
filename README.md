@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Master iOS 15 with this new AppleInsider book](https://appleinsider.com/articles/22/07/11/master-ios-15-with-this-new-appleinsider-book?utm_medium=rss)
- - [The latest Apple TV 4K streaming box is $50 off](https://www.theverge.com/good-deals/2022/7/25/23277088/apple-tv-4k-streaming-macbook-air-m1-beats-fit-pro-samsung-galaxy-flip-3-elgato-camlink-deal-sale)
- - [Internal docs from 2017 show Roblox&#39;s plan for China expansion: censorship compliance, expecting to be hacked and copied by partners like Tencent, and more &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220725/p18#a220725p18)<!-- TECH:END -->
+ - [Google Play celebrates its first decade with a new promo and a new logo](https://www.androidauthority.com/google-play-new-logo-3190117/)
+ - [How to format and partition an external hard drive on Windows](https://www.androidauthority.com/format-partition-external-hard-drive-windows-3184818/)
+ - [The ten keyboard shortcuts that make using your Mac faster](https://appleinsider.com/inside/macos/tips/the-ten-keyboard-shortcuts-that-make-using-your-mac-faster?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
