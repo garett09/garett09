@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: between 2000 and June 1, 2022, Apple applied for and published 248 automobile-related patents, most related to communication and navigation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220725/p16#a220725p16)
- - [White House to hold summit on next-gen COVID-19 vaccines](https://www.theverge.com/2022/7/25/23277121/covid-vaccine-next-gen-white-house-nasal-spray-universal)
- - [Why I’m &lpar;reluctantly&rpar; ditching my Pixel 6 Pro](https://www.androidauthority.com/im-ditching-pixel-6-pro-3188012/)<!-- TECH:END -->
+ - [Hunting for asteroids at twilight is turning up space rocks we normally wouldn’t see](https://www.theverge.com/2022/7/25/23272751/asteroid-hunting-twilight-blanco-4-telescope)
+ - [The Samsung Galaxy Z Fold 4 and Flip 4 may use batteries from three companies](https://www.androidauthority.com/galaxy-z-fold-4-and-flip-4-batteries-3190052/)
+ - [The Chip Shortage is Easing—But Only For Some](https://www.wired.com/story/the-chip-shortage-is-easing-but-only-for-some/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
