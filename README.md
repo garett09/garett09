@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Courage: The capability to hide fear](http://9gag.com/gag/a31XGj7)
- - 🚯 [German scientists after WW2](http://9gag.com/gag/ay9j3Mq)
- - 🚯 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)<!-- MEMES:END -->
+ - 🚖 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
+ - 🚯 [My father, classic Doom player, watching me buying a game where you play as a cat:](http://9gag.com/gag/aggzQYK)
+ - 🚯 [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)<!-- MEMES:END -->
 
 --- 
 
