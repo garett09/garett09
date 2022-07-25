@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix’s Tactics Ogre remake leaks again, coming this November](https://www.polygon.com/23277160/tactics-ogre-reborn-ps4-ps5-let-us-cling-together-remake-release-date)
- - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)
- - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)<!-- GAME:END -->
+ - [Welcome to the Computer Lab](https://www.polygon.com/23268686/computer-lab-week-2022)
+ - [Type to Learn became a battle royale in our computer lab](https://www.polygon.com/23270747/type-to-learn-computer-lab-retrospective)
+ - [I watched iPods take over my school’s computer lab](https://www.polygon.com/23269653/school-computer-lab-ipod-touch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
