@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)
- - [Some of Nope’s enigmas are better left unsolved](https://www.polygon.com/23274697/jordan-peele-nope-ending-explained)
- - [How Digimon Survive’s Karma system impacts your Digimon and story, out July 29](https://blog.playstation.com/2022/07/25/how-digimon-survives-karma-system-impacts-your-digimon-and-story-out-july-29/)<!-- GAME:END -->
+ - [Square Enix’s Tactics Ogre remake leaks again, coming this November](https://www.polygon.com/23277160/tactics-ogre-reborn-ps4-ps5-let-us-cling-together-remake-release-date)
+ - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)
+ - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
