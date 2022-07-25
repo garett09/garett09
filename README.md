@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to the Computer Lab](https://www.polygon.com/23268686/computer-lab-week-2022)
- - [Type to Learn became a battle royale in our computer lab](https://www.polygon.com/23270747/type-to-learn-computer-lab-retrospective)
- - [I watched iPods take over my school’s computer lab](https://www.polygon.com/23269653/school-computer-lab-ipod-touch)<!-- GAME:END -->
+ - [Halo Infinite campaign co-op won’t offer online matchmaking](https://www.polygon.com/23277315/halo-infinite-campaign-multiplayer-co-op-matchmaking-discord)
+ - [GameStop 9/11 NFT Pulled After Selling Dozens Of Times](https://kotaku.com/gamestop-nft-9-11-falling-man-stock-split-gme-1849327049)
+ - [PS5 Stock - Live: PS Direct and Very restocks are now available, here&#39;s how to get the console](https://game-rant-2022.blogspot.com/2022/07/ps5-stock-live-ps-direct-and-very.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
