@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hunting for asteroids at twilight is turning up space rocks we normally wouldn’t see](https://www.theverge.com/2022/7/25/23272751/asteroid-hunting-twilight-blanco-4-telescope)
- - [The Samsung Galaxy Z Fold 4 and Flip 4 may use batteries from three companies](https://www.androidauthority.com/galaxy-z-fold-4-and-flip-4-batteries-3190052/)
- - [The Chip Shortage is Easing—But Only For Some](https://www.wired.com/story/the-chip-shortage-is-easing-but-only-for-some/)<!-- TECH:END -->
+ - [Master iOS 15 with this new AppleInsider book](https://appleinsider.com/articles/22/07/11/master-ios-15-with-this-new-appleinsider-book?utm_medium=rss)
+ - [The latest Apple TV 4K streaming box is $50 off](https://www.theverge.com/good-deals/2022/7/25/23277088/apple-tv-4k-streaming-macbook-air-m1-beats-fit-pro-samsung-galaxy-flip-3-elgato-camlink-deal-sale)
+ - [Internal docs from 2017 show Roblox&#39;s plan for China expansion: censorship compliance, expecting to be hacked and copied by partners like Tencent, and more &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220725/p18#a220725p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
