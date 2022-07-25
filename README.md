@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China successfully launches Wentian module as space station nears completion](https://www.theverge.com/2022/7/24/23276578/china-launches-wentian-module-tiangong-space-station)
- - [Elon Musk reportedly had an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)
- - [You Don&#39;t Need Cable TV to Watch All Your Favorite Live Channels     - CNET](https://www.cnet.com/tech/services-and-software/where-to-stream-all-top-100-live-tv-channels-no-cable-required/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix-2022/#ftag=CAD590a51e)
+ - [The Girl in the Picture on Netflix: Where is Franklin Floyd? All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-on-netflix-where-is-franklin-floyd-all-your-questions-answered/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-best-sci-fi-movies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
