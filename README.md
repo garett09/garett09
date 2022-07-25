@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google employees, kept in the dark about firm&#39;s sale of advanced AI tools to Israel, say it could bolster Israel&#39;s ongoing military occupation of Palestine &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/220725/p6#a220725p6)
- - [Dystopian document thriller Papers, Please is coming to iOS and Android on August 5th](https://www.theverge.com/2022/7/25/23277003/papers-please-mobile-port-app-ios-android-release-date-august-5)
- - [New Zealand&#39;s internet safety group Netsafe says Meta, Google, Amazon, TikTok, and Twitter have agreed to self-regulate to reduce harmful content in the country &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/220725/p5#a220725p5)<!-- TECH:END -->
+ - [Intel plans to manufacture chips for Taiwanese chip designer MediaTek, the first major partnership for Intel Foundry Services; MediaTek will still use TSMC &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220725/p7#a220725p7)
+ - [Can Ring Vaccination Contain Monkeypox in the US?](https://www.wired.com/story/ring-vaccination-beat-smallpox-could-it-work-for-monkeypox/)
+ - [Interstate Travel Post-Roe Isn’t as Secure as You May Think](https://www.wired.com/story/insterstate-travel-abortion-post-roe/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
