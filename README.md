@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)
- - 🚯 [Hats off good sir.](http://9gag.com/gag/a81xDG6)
- - 🚯 [Broke as always](http://9gag.com/gag/aqGoQx7)<!-- MEMES:END -->
+ - 🚖 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)
+ - 🚯 [Broke as always](http://9gag.com/gag/aqGoQx7)
+ - 🚯 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)<!-- MEMES:END -->
 
 --- 
 
