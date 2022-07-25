@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On Vice City in particular](http://9gag.com/gag/abgnOmv)
- - 🚯 [How new housing?](http://9gag.com/gag/a41Oz0p)
- - 🚯 [Collect today 20 kg of garbage. Total is 1320kg. I keep going until people don\u2019t litter at all, even if it takes my whole live.](http://9gag.com/gag/aeg8ZPm)<!-- MEMES:END -->
+ - 🚖 [Leaving work on friday](http://9gag.com/gag/aVxyKEO)
+ - 🚯 [Italian police delivering a donor kidney travels 490 kilometers in two hours from Rome to Padua in a Lamborghini Huracan. His average speed during the trip was 233km/h &lpar;145mph&rpar;. The trip normally takes 6 hours.](http://9gag.com/gag/amg4GD6)
+ - 🚯 [There&#39;s absolutely ZERO chance to find a vampire in that area.](http://9gag.com/gag/a81x0LV)<!-- MEMES:END -->
 
 --- 
 
