@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leaving work on friday](http://9gag.com/gag/aVxyKEO)
- - 🚯 [Italian police delivering a donor kidney travels 490 kilometers in two hours from Rome to Padua in a Lamborghini Huracan. His average speed during the trip was 233km/h &lpar;145mph&rpar;. The trip normally takes 6 hours.](http://9gag.com/gag/amg4GD6)
- - 🚯 [There&#39;s absolutely ZERO chance to find a vampire in that area.](http://9gag.com/gag/a81x0LV)<!-- MEMES:END -->
+ - 🚖 [There&#39;s absolutely ZERO chance to find a vampire in that area.](http://9gag.com/gag/a81x0LV)
+ - 🚯 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)
+ - 🚯 [Woke people, making people more racist and divided than ever](http://9gag.com/gag/a61Y9Yq)<!-- MEMES:END -->
 
 --- 
 
