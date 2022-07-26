@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [\u25cf_\u25cf](http://9gag.com/gag/aZrOdxV)
- - 🚯 [Excuse me?](http://9gag.com/gag/azep40q)
- - 🚯 [Damn bruh, chill](http://9gag.com/gag/azepB3m)<!-- MEMES:END -->
+ - 🚯 [Flat earth rocket prototype.](http://9gag.com/gag/a91gBGW)
+ - 🚯 [This is a cat appreciation post. Show off your cats.](http://9gag.com/gag/apgZ8nE)<!-- MEMES:END -->
 
 --- 
 
