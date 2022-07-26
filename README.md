@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is raising Prime prices in Europe by up to 43 percent a year](https://www.theverge.com/2022/7/26/23278510/amazon-prime-price-increase-europe-uk)
- - [Logitech’s new ‘gender-inclusive’ PC gaming accessories come with the pink tax](https://www.theverge.com/2022/7/26/23271625/logitech-g-aurora-collection-g735-g715-g705-headset-keyboard-mouse-price-features)
- - [JWST Might Have Already Smashed the Record for Most Distant Galaxy Ever Seen     - CNET](https://www.cnet.com/science/space/jwst-might-have-already-smashed-the-record-for-most-distant-galaxy-ever-seen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kylie Jenner and Kim Kardashian post Stories sharing a petition to &quot;Make Instagram Instagram Again&quot; and &quot;stop trying to be TikTok&quot; that has 100K+ signatures &lpar;Travis Clark/Insider&rpar;](http://www.techmeme.com/220726/p6#a220726p6)
+ - [From Pixel 7 to Pixel foldable: Upcoming Pixel cameras may have leaked](https://www.androidauthority.com/google-pixel-phones-camera-leak-3189956/)
+ - [How to record internal and external audio on your Android device](https://www.androidauthority.com/record-audio-android-3188243/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
