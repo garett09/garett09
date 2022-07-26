@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good new everyone!](http://9gag.com/gag/a81xzqV)
- - 🚯 [The real enemy of the boys](http://9gag.com/gag/aAGzZgp)
- - 🚯 [Flat earth rocket prototype.](http://9gag.com/gag/a91gBGW)<!-- MEMES:END -->
+ - 🚖 [Farm video games getting realistic](http://9gag.com/gag/aNPEjXK)
+ - 🚯 [1993](http://9gag.com/gag/aeg8drQ)
+ - 🚯 [Beaten, equipped, level up](http://9gag.com/gag/adgDbZQ)<!-- MEMES:END -->
 
 --- 
 
