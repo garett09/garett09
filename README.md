@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I define myself as a dog](http://9gag.com/gag/aggzKKn)
- - 🚯 [They are not leaders....](http://9gag.com/gag/arn72ZV)
- - 🚯 [Wtf](http://9gag.com/gag/aggzKZw)<!-- MEMES:END -->
+ - 🚖 [The Harry Poter reboot](http://9gag.com/gag/aAGzZKd)
+ - 🚯 [Wtf](http://9gag.com/gag/aggzKZw)
+ - 🚯 [Streaming Services : you&#39;ll have to pay us exorbitant sums of money if you want to continue watching our shows &amp; movies](http://9gag.com/gag/arn78wK)<!-- MEMES:END -->
 
 --- 
 
