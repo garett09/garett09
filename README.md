@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Logic](http://9gag.com/gag/aBnBO3Z)
- - 🚯 [Yup](http://9gag.com/gag/aQXW2wq)
- - 🚯 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
+ - 🚖 [Cool](http://9gag.com/gag/aqGoWw7)
+ - 🚯 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)
+ - 🚯 [Kid is going places](http://9gag.com/gag/a0ZyEbZ)<!-- MEMES:END -->
 
 --- 
 
