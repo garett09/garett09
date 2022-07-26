@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, it’s weird for the two-year-old Meta Quest 2 to go up in price](https://www.theverge.com/2022/7/26/23279624/meta-quest-2-price-raise-hike-weird-oculus)
- - [YouTube&#39;s ad revenue in Q2 grew 4.8% YoY to $7.34B, under expectations of a 7% increase to $7.49B; it was YouTube&#39;s slowest growth in more than two years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220726/p28#a220726p28)
- - [Shopify Cuts 10% of Workforce Amid Slowing Growth     - CNET](https://www.cnet.com/news/shopify-cuts-10-of-workforce-amid-slowing-growth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft&#39;s Q4 Surface revenue increased 10% YoY, driven by commercial PC sales, as Windows OEM revenue declined 2% YoY due to PC production shutdowns in China &lpar;Daniel Rubino/Windows Central&rpar;](http://www.techmeme.com/220726/p32#a220726p32)
+ - [Microsoft reports Q4 gaming revenue down 7% YoY to $259M, impacted by an 11% YoY revenue drop for Xbox hardware and a 6% YoY drop for Xbox content and services &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/220726/p33#a220726p33)
+ - [Mini’s Aceman EV Is Built for Urban Adventures](https://www.wired.com/story/mini-aceman-ev-concept/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
