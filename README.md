@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s new with Activity, Workouts, and fitness in watchOS 9 for Apple Watch](https://appleinsider.com/articles/22/07/26/whats-new-with-activity-workouts-and-fitness-in-watchos-9-for-apple-watch?utm_medium=rss)
- - [Fired cable news hosts Cuomo and Olbermann plot podcast comebacks](https://www.theverge.com/2022/7/26/23279369/cuomo-olberman-podcast-facebook-spotify-siriusxm)
- - [Here’s where to buy the Meta Quest 2 before it costs $100 more](https://www.theverge.com/2022/7/26/23279286/meta-quest-2-oculus-vr-headset-deal-sale)<!-- TECH:END -->
+ - [Alphabet Announces Second Quarter 2022 Results &lpar;Alphabet - Investor Relations&rpar;](http://www.techmeme.com/220726/p27#a220726p27)
+ - [Microsoft Cloud Strength Drives Fourth Quarter Results &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/220726/p26#a220726p26)
+ - [Senators Toomey and Sinema introduce a bill to exempt crypto users from being taxed on transactions of under $50, similar to a bipartisan bill in the House &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/220726/p25#a220726p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
