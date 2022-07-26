@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool](http://9gag.com/gag/aqGoWw7)
- - 🚯 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)
- - 🚯 [Kid is going places](http://9gag.com/gag/a0ZyEbZ)<!-- MEMES:END -->
+ - 🚖 [Kid is going places](http://9gag.com/gag/a0ZyEbZ)
+ - 🚯 [Actors and their movies](http://9gag.com/gag/aXr6KAV)
+ - 🚯 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)<!-- MEMES:END -->
 
 --- 
 
