@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify is laying off 1,000 employees](https://www.theverge.com/2022/7/26/23278873/shopify-lay-off-1000-employees)
- - [Chinese display maker CSOT wants to make screens for iPad, MacBook](https://appleinsider.com/articles/22/07/26/chinese-display-maker-csot-wants-to-make-screens-for-ipad-macbook?utm_medium=rss)
- - [FDA warnings aren’t stopping illicit weight-loss supplements](https://www.theverge.com/2022/7/26/23277753/supplements-fda-warning-letters-stimulants)<!-- TECH:END -->
+ - [Google Pixel 6A review: midrange parts, Tensor smarts](https://www.theverge.com/23272042/google-pixel-6a-review-screen-price-specs-battery-camera)
+ - [Netflix adds Before Your Eyes to its mobile game lineup](https://www.theverge.com/2022/7/26/23278826/netflix-before-your-eyes-mobile-exclusive)
+ - [How to recover data from a hard drive on Windows or a Mac](https://www.androidauthority.com/recover-data-hard-drive-windows-mac-3183217/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
