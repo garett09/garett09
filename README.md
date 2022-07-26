@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xenoblade Chronicles 3 Reviews Praise Everything But The Filler](https://kotaku.com/xenoblade-chronicles-3-nintendo-switch-review-jrpg-mmo-1849332190)
- - [Glaciered is an aquatic action game set 65 million years in the future where you play an ass-kicking ninja fish-bird](https://www.pcgamer.com/glaciered-is-an-aquatic-action-game-set-65-million-years-in-the-future-where-you-play-an-ass-kicking-ninja-fish-bird)
- - [Corsair RM750x &lpar;2021&rpar;](https://www.pcgamer.com/corsair-rm750x-2021-power-supply-review)<!-- GAME:END -->
+ - [Avatar: The Last Airbender is starting a new story arc — read a full chapter here](https://www.polygon.com/23277853/avatar-the-last-airbender-dawn-of-yangchen-free-chapter-fc-yee)
+ - [New Logitech PC gear is a pastel lover’s dream](https://www.polygon.com/23278966/logitech-g-aurora-collection-keyboard-mouse-cloud-wrist-rest-yeti-mic)
+ - [Summer Spotlight 2022: Tis the Season for the Greatest Games](https://news.xbox.com/en-us/2022/07/26/summer-spotlight-2022-season-for-greatest-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
