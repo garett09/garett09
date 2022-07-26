@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Early look at the user experience for PlayStation VR2](https://blog.playstation.com/2022/07/26/early-look-at-the-user-experience-for-playstation-vr2/)
- - [How EcoQuest brought Wikipedia into my childhood in 1993](https://www.polygon.com/23271065/ecoquest-sierra-text-adventure-ecorder)
- - [Exploring gender and femininity with computer lab dress-up games](https://www.polygon.com/23271844/dress-up-games-roiworld-retrospective)<!-- GAME:END -->
+ - [PlayStation VR2 has a new broadcast feature that looks great](https://www.polygon.com/23278844/psvr2-playstation-vr2-ps5-vr-see-through-view-streaming-mode-specs)
+ - [DreamsCom ‘22 starts today](https://blog.playstation.com/2022/07/26/dreamscom-22-starts-today/)
+ - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
