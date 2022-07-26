@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a bipartisan bill to curb potential risks posed by stablecoins has been delayed by US House lawmakers until at least September &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220725/p30#a220725p30)
- - [Binance CEO sues Bloomberg Businessweek&#39;s Hong Kong publisher for defamation over a June 23 profile, claiming it depicted him as running a Ponzi scheme &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220725/p29#a220725p29)
- - [An &#39;Eragon&#39; TV Show Is Now in Development at Disney Plus, Author Reacts     - CNET](https://www.cnet.com/culture/entertainment/an-eragon-tv-show-is-now-in-development-at-disney-plus-author-reacts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to boost a Discord server](https://www.androidauthority.com/how-to-boost-a-discord-server-3189905/)
+ - [Congress plans to vote on a bill to ban firms that sell spyware from working with the US government; experts say the surveillance market will be hard to curtail &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/220726/p1#a220726p1)
+ - [Sources: US House lawmakers delayed a tentative July 27 vote on a bipartisan bill to curb potential risks posed by stablecoins until at least September 2022 &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220725/p30#a220725p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
