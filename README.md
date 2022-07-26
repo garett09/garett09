@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s purchase of One Medical is likely cheaper than unionization would be, and could be used as a tool to fight against unionization of employees &lpar;Nikhil Krishnan/Out-of-Pocket&rpar;](http://www.techmeme.com/220726/p11#a220726p11)
- - [Apple offers rare iPhone, Apple Watch SE, AirPods discount in China](https://appleinsider.com/articles/22/07/26/apple-offers-rare-iphone-apple-watch-se-airpods-discount-in-china?utm_medium=rss)
- - [The High-Stakes Race to Engineer New Psychedelic Drugs](https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/)<!-- TECH:END -->
+ - [France&#39;s Eutelsat and UK satellite internet company OneWeb agree to merge in an all-stock deal valuing OneWeb at $3.4B, in a bid to compete with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p12#a220726p12)
+ - [Your Final Resting Place Could Be a Coffin Made of Mushrooms](https://www.wired.com/story/mycelium-coffins-loop/)
+ - [EV Makers Think They’ve Figured Out What Women Want](https://www.wired.com/story/women-evs-ford/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
