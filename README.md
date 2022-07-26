@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender is starting a new story arc — read a full chapter here](https://www.polygon.com/23277853/avatar-the-last-airbender-dawn-of-yangchen-free-chapter-fc-yee)
- - [New Logitech PC gear is a pastel lover’s dream](https://www.polygon.com/23278966/logitech-g-aurora-collection-keyboard-mouse-cloud-wrist-rest-yeti-mic)
- - [Summer Spotlight 2022: Tis the Season for the Greatest Games](https://news.xbox.com/en-us/2022/07/26/summer-spotlight-2022-season-for-greatest-games/)<!-- GAME:END -->
+ - [Eragon is getting a Disney Plus series](https://www.polygon.com/23279199/eragon-disney-plus-tv-series-adaptation-inheritance-cycle)
+ - [Razer Enki Pro](https://www.pcgamer.com/razer-enki-pro-gaming-chair-review)
+ - [Every WoW Classic server: How to pick the realm for you](https://www.pcgamer.com/wow-classic-servers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
