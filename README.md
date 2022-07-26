@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bike Proof Bridge](http://9gag.com/gag/aogQ8z2)
- - 🚯 [Horologist](http://9gag.com/gag/aRrqvrq)
- - 🚯 [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)<!-- MEMES:END -->
+ - 🚖 [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)
+ - 🚯 [Typical](http://9gag.com/gag/aLv7A9z)
+ - 🚯 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
 
 --- 
 
