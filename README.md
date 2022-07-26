@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you friendly?](http://9gag.com/gag/a0ZyM0d)
- - 🚯 [Disney announces new marvel movies. Me:](http://9gag.com/gag/aNPEOPG)
- - 🚯 [Chicago\u2019s gonna be quite the experiment, huh](http://9gag.com/gag/angPrY5)<!-- MEMES:END -->
+ - 🚖 [Foxes are dogs but ok](http://9gag.com/gag/aVxyV5v)
+ - 🚯 [Are you friendly?](http://9gag.com/gag/a0ZyM0d)
+ - 🚯 [Jif](http://9gag.com/gag/aLv7dWV)<!-- MEMES:END -->
 
 --- 
 
