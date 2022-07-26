@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Q4 Surface revenue increased 10% YoY, driven by commercial PC sales, as Windows OEM revenue declined 2% YoY due to PC production shutdowns in China &lpar;Daniel Rubino/Windows Central&rpar;](http://www.techmeme.com/220726/p32#a220726p32)
- - [Microsoft reports Q4 gaming revenue down 7% YoY to $259M, impacted by an 11% YoY revenue drop for Xbox hardware and a 6% YoY drop for Xbox content and services &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/220726/p33#a220726p33)
- - [Mini’s Aceman EV Is Built for Urban Adventures](https://www.wired.com/story/mini-aceman-ev-concept/)<!-- TECH:END -->
+ - [Facebook expecting to fight Apple for metaverse dominance](https://appleinsider.com/articles/22/07/26/facebook-expecting-to-fight-apple-for-metaverse-dominance?utm_medium=rss)
+ - [Google Earnings Miss Expectations as Tech Industry Shows Weakness     - CNET](https://www.cnet.com/tech/google-earnings-miss-expectations-as-tech-industry-shows-weakness/#ftag=CAD590a51e)
+ - [The Star Wars: Knights of the Old Republic remake is reportedly on pause](https://www.theverge.com/2022/7/26/23279810/star-wars-knights-of-the-old-republic-kotor-remake-development-on-pause)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
