@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music commands a fifth of UK music streaming market](https://appleinsider.com/articles/22/07/26/apple-music-commands-a-fifth-of-uk-music-streaming-market?utm_medium=rss)
- - [Meta’s private messaging app for couples is shutting down](https://www.theverge.com/2022/7/26/23278767/meta-tuned-social-app-couples-shutting-down-date)
- - [See Apple&#39;s VR headset on your desk using augmented reality](https://appleinsider.com/articles/22/07/26/see-apples-vr-headset-on-your-desk-using-augmented-reality?utm_medium=rss)<!-- TECH:END -->
+ - [Shopify is laying off 1,000 employees](https://www.theverge.com/2022/7/26/23278873/shopify-lay-off-1000-employees)
+ - [Chinese display maker CSOT wants to make screens for iPad, MacBook](https://appleinsider.com/articles/22/07/26/chinese-display-maker-csot-wants-to-make-screens-for-ipad-macbook?utm_medium=rss)
+ - [FDA warnings aren’t stopping illicit weight-loss supplements](https://www.theverge.com/2022/7/26/23277753/supplements-fda-warning-letters-stimulants)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
