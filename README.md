@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple purchased gold from supplier linked to illegal mining in Brazil](https://appleinsider.com/articles/22/07/26/apple-purchased-gold-from-supplier-linked-to-illegal-mining-in-brazil?utm_medium=rss)
- - [Instagram Faces More Allegations That It&#39;s &#39;Addictive&#39; And &#39;Harmful&#39;     - CNET](https://www.cnet.com/news/social-media/instagram-faces-more-allegations-that-its-addictive-and-harmful/#ftag=CAD590a51e)
- - [The Jaw-Dropping Sci-Fi Video Game Everyone Needs to Play Once     - CNET](https://www.cnet.com/tech/gaming/the-jaw-dropping-sci-fi-video-game-everyone-needs-to-play-once/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: a bipartisan bill to curb potential risks posed by stablecoins has been delayed by US House lawmakers until at least September &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220725/p30#a220725p30)
+ - [Binance CEO sues Bloomberg Businessweek&#39;s Hong Kong publisher for defamation over a June 23 profile, claiming it depicted him as running a Ponzi scheme &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220725/p29#a220725p29)
+ - [An &#39;Eragon&#39; TV Show Is Now in Development at Disney Plus, Author Reacts     - CNET](https://www.cnet.com/culture/entertainment/an-eragon-tv-show-is-now-in-development-at-disney-plus-author-reacts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
