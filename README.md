@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Logic](http://9gag.com/gag/aBnBO3Z)
+ - 🚖 [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)
  - 🚯 [Are you friendly?](http://9gag.com/gag/a0ZyM0d)
  - 🚯 [Jif](http://9gag.com/gag/aLv7dWV)<!-- MEMES:END -->
 
