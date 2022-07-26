@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation VR2 has a new broadcast feature that looks great](https://www.polygon.com/23278844/psvr2-playstation-vr2-ps5-vr-see-through-view-streaming-mode-specs)
- - [DreamsCom ‘22 starts today](https://blog.playstation.com/2022/07/26/dreamscom-22-starts-today/)
- - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)<!-- GAME:END -->
+ - [Xenoblade Chronicles 3 Reviews Praise Everything But The Filler](https://kotaku.com/xenoblade-chronicles-3-nintendo-switch-review-jrpg-mmo-1849332190)
+ - [Glaciered is an aquatic action game set 65 million years in the future where you play an ass-kicking ninja fish-bird](https://www.pcgamer.com/glaciered-is-an-aquatic-action-game-set-65-million-years-in-the-future-where-you-play-an-ass-kicking-ninja-fish-bird)
+ - [Corsair RM750x &lpar;2021&rpar;](https://www.pcgamer.com/corsair-rm750x-2021-power-supply-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
