@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kylie Jenner and Kim Kardashian post Stories sharing a petition to &quot;Make Instagram Instagram Again&quot; and &quot;stop trying to be TikTok&quot; that has 100K+ signatures &lpar;Travis Clark/Insider&rpar;](http://www.techmeme.com/220726/p6#a220726p6)
- - [From Pixel 7 to Pixel foldable: Upcoming Pixel cameras may have leaked](https://www.androidauthority.com/google-pixel-phones-camera-leak-3189956/)
- - [How to record internal and external audio on your Android device](https://www.androidauthority.com/record-audio-android-3188243/)<!-- TECH:END -->
+ - [KPMG: VC investments in China fell to $9.1B in Q2 2022, down from $18.1B in Q1 2022, the lowest quarterly investment since Q4 2014, when $5.5B was invested &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/220726/p9#a220726p9)
+ - [Sources: Alibaba&#39;s US B2B arm, which has been hit by staff departures in its NY office, has slashed its target of signing up 1M SMBs to just 2,000 each year &lpar;Financial Times&rpar;](http://www.techmeme.com/220726/p8#a220726p8)
+ - [Google&#39;s Pixel Fold Rumors: Will It Arrive This Year?     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-fold-rumors-will-it-arrive-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
