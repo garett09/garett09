@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess, she is talking about distance from ceiling.](http://9gag.com/gag/apgZjGp)
- - 🚯 [Beaten, equipped, level up](http://9gag.com/gag/adgDbZQ)
+ - 🚖 [I was a heavy beer drinker for almost 27 years, now I have stopped drinking, began building lego sets and started a youtube channel.](http://9gag.com/gag/aogQq13)
+ - 🚯 [Some people in this world.](http://9gag.com/gag/aKmoL8W)
  - 🚯 [This is a cat appreciation post. Show off your cats.](http://9gag.com/gag/apgZ8nE)<!-- MEMES:END -->
 
 --- 
