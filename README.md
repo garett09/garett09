@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u25cf_\u25cf](http://9gag.com/gag/aZrOdxV)
- - 🚯 [Flat earth rocket prototype.](http://9gag.com/gag/a91gBGW)
+ - 🚖 [I guess, she is talking about distance from ceiling.](http://9gag.com/gag/apgZjGp)
+ - 🚯 [Beaten, equipped, level up](http://9gag.com/gag/adgDbZQ)
  - 🚯 [This is a cat appreciation post. Show off your cats.](http://9gag.com/gag/apgZ8nE)<!-- MEMES:END -->
 
 --- 
