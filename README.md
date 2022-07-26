@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [VRChat is being review bombed to hell and back after anti-cheat announcement](https://www.pcgamer.com/vrchat-is-being-review-bombed-to-hell-and-back-after-anti-cheat-announcement)
- - [This cursed mod replaces The Stanley Parable&#39;s narrator with TikTok&#39;s female text-to-speech voice](https://www.pcgamer.com/this-cursed-mod-replaces-the-stanley-parables-narrator-with-tiktoks-female-text-to-speech-voice)
- - [The best full-tower case in 2022](https://www.pcgamer.com/best-full-tower-case)<!-- GAME:END -->
+ - [Early look at the user experience for PlayStation VR2](https://blog.playstation.com/2022/07/26/early-look-at-the-user-experience-for-playstation-vr2/)
+ - [How EcoQuest brought Wikipedia into my childhood in 1993](https://www.polygon.com/23271065/ecoquest-sierra-text-adventure-ecorder)
+ - [Exploring gender and femininity with computer lab dress-up games](https://www.polygon.com/23271844/dress-up-games-roiworld-retrospective)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
