@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of the Xbox planned a sequel to Trespasser that eventually became Jurassic World](https://www.pcgamer.com/the-creator-of-the-xbox-planned-a-sequel-to-trespasser-that-eventually-became-jurassic-world)
- - [Best Wireless Keyboards for PS5](https://game-rant-2022.blogspot.com/2022/07/best-wireless-keyboards-for-ps5.html)
- - [Contact Customer Service](https://game-rant-2022.blogspot.com/2022/07/contact-customer-service_25.html)<!-- GAME:END -->
+ - [VRChat is being review bombed to hell and back after anti-cheat announcement](https://www.pcgamer.com/vrchat-is-being-review-bombed-to-hell-and-back-after-anti-cheat-announcement)
+ - [This cursed mod replaces The Stanley Parable&#39;s narrator with TikTok&#39;s female text-to-speech voice](https://www.pcgamer.com/this-cursed-mod-replaces-the-stanley-parables-narrator-with-tiktoks-female-text-to-speech-voice)
+ - [The best full-tower case in 2022](https://www.pcgamer.com/best-full-tower-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
