@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to farm clay in Minecraft](https://www.polygon.com/minecraft-guides/23277961/clay-farm-infinite-dripstone-dirt-mud-brick-terracotta-glazed)
- - [How to get infinite lava in Minecraft](https://www.polygon.com/minecraft-guides/23277177/lava-infinite-farm-dripstone-obsidian-cobblestone-fuel)
- - [How to farm dripstone in Minecraft](https://www.polygon.com/minecraft-guides/23272797/dripstone-block-pointed-stalactite-stalagmite-cave-farm-grow-infinite)<!-- GAME:END -->
+ - [Chinese Steam Users Get Around National Porn Ban With Wallpaper App](https://kotaku.com/steam-porn-wallpaper-app-chinese-censors-anime-1849334942)
+ - [Avengers: The Kang Dynasty will be directed by Shang-Chi’s Destin Daniel Cretton](https://www.polygon.com/23279383/avengers-kang-dynasty-destin-daniel-cretton-marvel-phase-5-6-director)
+ - [Minecraft SpongeBob SquarePants DLC Now Available in Minecraft Marketplace](https://news.xbox.com/en-us/2022/07/26/minecraft-spongebob-squarepants-dlc-now-available-in-minecraft-marketplace/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
