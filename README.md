@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aggzKZw)
- - 🚯 [Foxes are dogs but ok](http://9gag.com/gag/aVxyV5v)
- - 🚯 [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)<!-- MEMES:END -->
+ - 🚖 [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)
+ - 🚯 [Wtf](http://9gag.com/gag/aggzKZw)
+ - 🚯 [I define myself as a dog](http://9gag.com/gag/aggzKKn)<!-- MEMES:END -->
 
 --- 
 
