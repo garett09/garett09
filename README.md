@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jif](http://9gag.com/gag/aLv7dWV)
- - 🚯 [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)
- - 🚯 [Have a nice day guys!](http://9gag.com/gag/ajgeW7G)<!-- MEMES:END -->
+ - 🚖 [Have a nice day guys!](http://9gag.com/gag/ajgeW7G)
+ - 🚯 [I&#39;ve done this a few times](http://9gag.com/gag/aKmoOpj)
+ - 🚯 [See that guy. Don&#39;t be that guy just move](http://9gag.com/gag/abgnQQL)<!-- MEMES:END -->
 
 --- 
 
