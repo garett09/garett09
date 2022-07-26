@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reaches a deal to settle a patent case with Koss, which in 2020 alleged that the AirPods violate five Koss&#39; patents; terms of the deal were not disclosed &lpar;Kelcee Griffis/Bloomberg Law&rpar;](http://www.techmeme.com/220725/p24#a220725p24)
- - [Amazon’s best-selling new charcoal grill is... the Pixel Buds Pro?](https://www.theverge.com/tldr/2022/7/25/23278082/amazon-pixel-buds-pro-grill)
- - [Dell is getting out of the phone syncing game](https://www.theverge.com/2022/7/25/23278047/dell-mobile-connect-discontinued-2023)<!-- TECH:END -->
+ - [Apple purchased gold from supplier linked to illegal mining in Brazil](https://appleinsider.com/articles/22/07/26/apple-purchased-gold-from-supplier-linked-to-illegal-mining-in-brazil?utm_medium=rss)
+ - [Instagram Faces More Allegations That It&#39;s &#39;Addictive&#39; And &#39;Harmful&#39;     - CNET](https://www.cnet.com/news/social-media/instagram-faces-more-allegations-that-its-addictive-and-harmful/#ftag=CAD590a51e)
+ - [The Jaw-Dropping Sci-Fi Video Game Everyone Needs to Play Once     - CNET](https://www.cnet.com/tech/gaming/the-jaw-dropping-sci-fi-video-game-everyone-needs-to-play-once/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
