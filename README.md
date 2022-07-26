@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chinese Steam Users Get Around National Porn Ban With Wallpaper App](https://kotaku.com/steam-porn-wallpaper-app-chinese-censors-anime-1849334942)
- - [Avengers: The Kang Dynasty will be directed by Shang-Chi’s Destin Daniel Cretton](https://www.polygon.com/23279383/avengers-kang-dynasty-destin-daniel-cretton-marvel-phase-5-6-director)
- - [Minecraft SpongeBob SquarePants DLC Now Available in Minecraft Marketplace](https://news.xbox.com/en-us/2022/07/26/minecraft-spongebob-squarepants-dlc-now-available-in-minecraft-marketplace/)<!-- GAME:END -->
+ - [NFT Gaming Debate Puts Enjin Coin &lpar;ENJ-USD&rpar; In ​​The Spotlight](https://game-rant-2022.blogspot.com/2022/07/nft-gaming-debate-puts-enjin-coin-enj.html)
+ - [Report: Star Wars: Knights Of The Old Republic Remake In Serious Trouble](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-remake-hold-1849335104)
+ - [Knights of the Old Republic remake is &#39;delayed indefinitely,&#39; according to report](https://www.pcgamer.com/knights-of-the-old-republic-remake-is-delayed-indefinitely-according-to-report)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
