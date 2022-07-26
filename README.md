@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers: The Kang Dynasty will be directed by Shang-Chi’s Destin Daniel Cretton](https://www.polygon.com/23279383/avengers-the-kang-dynasty-director-dustin-daniel-cretton-marvel-phase-5-6-secret-wars)
- - [John Cena Joins Fortnite, Won’t Actually Be Invisible](https://kotaku.com/fortnite-wwe-john-cena-epic-rocket-league-fall-guys-dlc-1849333456)
- - [Facebook Jacks Up Price Of The One Affordable VR Headset](https://kotaku.com/facebook-meta-quest-2-price-tiktok-mark-zuckerberg-1849333729)<!-- GAME:END -->
+ - [How to farm dripstone in Minecraft](https://www.polygon.com/minecraft-guides/23272797/dripstone-block-pointed-stalactite-stalagmite-cave-farm-grow-infinite)
+ - [The Sims 4 gets a big free patch ahead of new High School Years expansion](https://www.polygon.com/23279486/the-sims-4-high-school-years-patch-notes-free-update)
+ - [5 Hot Tips To Survive The Fiery New Skating Shooter From OlliOlli World Devs](https://kotaku.com/rollerdrome-preview-skate-olli-olli-world-shooter-steam-1849334148)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
