@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid is going places](http://9gag.com/gag/a0ZyEbZ)
- - 🚯 [Actors and their movies](http://9gag.com/gag/aXr6KAV)
- - 🚯 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)<!-- MEMES:END -->
+ - 🚖 [Are you friendly?](http://9gag.com/gag/a0ZyM0d)
+ - 🚯 [Disney announces new marvel movies. Me:](http://9gag.com/gag/aNPEOPG)
+ - 🚯 [Chicago\u2019s gonna be quite the experiment, huh](http://9gag.com/gag/angPrY5)<!-- MEMES:END -->
 
 --- 
 
