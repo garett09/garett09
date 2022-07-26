@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Harry Poter reboot](http://9gag.com/gag/aAGzZKd)
- - 🚯 [Wtf](http://9gag.com/gag/aggzKZw)
- - 🚯 [Streaming Services : you&#39;ll have to pay us exorbitant sums of money if you want to continue watching our shows &amp; movies](http://9gag.com/gag/arn78wK)<!-- MEMES:END -->
+ - 🚖 [Good new everyone!](http://9gag.com/gag/a81xzqV)
+ - 🚯 [The real enemy of the boys](http://9gag.com/gag/aAGzZgp)
+ - 🚯 [Flat earth rocket prototype.](http://9gag.com/gag/a91gBGW)<!-- MEMES:END -->
 
 --- 
 
