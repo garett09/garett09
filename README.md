@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6A review: midrange parts, Tensor smarts](https://www.theverge.com/23272042/google-pixel-6a-review-screen-price-specs-battery-camera)
- - [Netflix adds Before Your Eyes to its mobile game lineup](https://www.theverge.com/2022/7/26/23278826/netflix-before-your-eyes-mobile-exclusive)
- - [How to recover data from a hard drive on Windows or a Mac](https://www.androidauthority.com/recover-data-hard-drive-windows-mac-3183217/)<!-- TECH:END -->
+ - [Tel Aviv-based Balance, which offers one-click checkout tools for B2B marketplaces, raised a $56M Series B led by Ribbit Capital, valuing the company at $356M &lpar;Emily Mason/Forbes&rpar;](http://www.techmeme.com/220726/p22#a220726p22)
+ - [MultiVersus, WB’s free-to-play crossover brawler, launches in open beta](https://www.theverge.com/2022/7/26/23279073/multiversus-open-beta-wb-games-smash-bros)
+ - [Titanium Blockchain CEO pleads guilty to $21 million crypto fundraising scam](https://www.theverge.com/2022/7/26/23278995/titanium-blockchain-ceo-michael-stollery-guilty-plea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
