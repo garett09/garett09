@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram leader: we’re gonna keep adding more video](https://www.theverge.com/2022/7/26/23278763/instagram-video-adam-mosseri-photos-jenner-petition)
- - [Xenoblade Chronicles 3 is as enjoyable as it is inscrutable](https://www.theverge.com/23277681/xenoblade-chronicles-3-review-nintendo-switch)
- - [Am I an Idiot for Wanting a Dumber Phone?](https://www.wired.com/story/am-i-an-idiot-for-wanting-a-dumber-phone/)<!-- TECH:END -->
+ - [Apple Music commands a fifth of UK music streaming market](https://appleinsider.com/articles/22/07/26/apple-music-commands-a-fifth-of-uk-music-streaming-market?utm_medium=rss)
+ - [Meta’s private messaging app for couples is shutting down](https://www.theverge.com/2022/7/26/23278767/meta-tuned-social-app-couples-shutting-down-date)
+ - [See Apple&#39;s VR headset on your desk using augmented reality](https://appleinsider.com/articles/22/07/26/see-apples-vr-headset-on-your-desk-using-augmented-reality?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
