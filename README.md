@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)
- - 🚯 [Typical](http://9gag.com/gag/aLv7A9z)
+ - 🚖 [Logic](http://9gag.com/gag/aBnBO3Z)
+ - 🚯 [Yup](http://9gag.com/gag/aQXW2wq)
  - 🚯 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
 
 --- 
