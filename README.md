@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Balance, which offers one-click checkout tools for B2B marketplaces, raised a $56M Series B led by Ribbit Capital, valuing the company at $356M &lpar;Emily Mason/Forbes&rpar;](http://www.techmeme.com/220726/p22#a220726p22)
- - [MultiVersus, WB’s free-to-play crossover brawler, launches in open beta](https://www.theverge.com/2022/7/26/23279073/multiversus-open-beta-wb-games-smash-bros)
- - [Titanium Blockchain CEO pleads guilty to $21 million crypto fundraising scam](https://www.theverge.com/2022/7/26/23278995/titanium-blockchain-ceo-michael-stollery-guilty-plea)<!-- TECH:END -->
+ - [Meta is raising Quest 2 headset prices by $100 next month](https://www.theverge.com/2022/7/26/23279272/meta-quest-2-occulus-100-price-increase)
+ - [You can finally send friend requests from the Nintendo Switch Online app](https://www.theverge.com/2022/7/26/23278812/nintendo-switch-online-friend-requests-qr-code)
+ - [Crypto exchange Coinbase is reportedly facing an SEC investigation over securities](https://www.theverge.com/2022/7/26/23279013/coinbase-cryptocurrency-exchange-sec-investigation-securities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
