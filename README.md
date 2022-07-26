@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: everything you need to know about the online game](https://game-rant-2022.blogspot.com/2022/07/fortnite-everything-you-need-to-know.html)
- - [&#39;The Ultimate Steam Deck&#39; Is Customised Overkill](https://kotaku.com/valve-steam-deck-linus-tech-tips-customise-mod-1849330322)
- - [Best video game towns and cities to explore if you like historical settings](https://game-rant-2022.blogspot.com/2022/07/best-video-game-towns-and-cities-to.html)<!-- GAME:END -->
+ - [I just found out what Wi-Fi means and it&#39;s sending me](https://www.pcgamer.com/i-just-found-out-what-wi-fi-means-and-its-sending-me)
+ - [AMD invests in a new CPU R&amp;D facility in New York](https://www.pcgamer.com/amd-invests-in-a-new-cpu-randd-facility-in-new-york)
+ - [Could you also speed up my Windows PC&#39;s boot time, Microsoft?](https://www.pcgamer.com/could-you-also-speed-up-my-windows-pcs-boot-time-microsoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
