@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s Eutelsat and UK satellite internet company OneWeb agree to merge in an all-stock deal valuing OneWeb at $3.4B, in a bid to compete with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p12#a220726p12)
- - [Your Final Resting Place Could Be a Coffin Made of Mushrooms](https://www.wired.com/story/mycelium-coffins-loop/)
- - [EV Makers Think They’ve Figured Out What Women Want](https://www.wired.com/story/women-evs-ford/)<!-- TECH:END -->
+ - [Leap seconds cause chaos for computers — so Meta wants to get rid of them](https://www.theverge.com/2022/7/26/23278718/leap-second-computer-chaos-meta-backs-campaign-to-end-it)
+ - [Shining some light on Apple&#39;s True Tone and Night Shift](https://appleinsider.com/articles/22/07/26/shining-some-light-on-true-tone-and-night-shift?utm_medium=rss)
+ - [[Thread] A look at Helium, a network of 500K+ crypto mining hotspots, which raised $365M from a16z and others and generates an estimated $6.5K/month in revenue &lpar;Liron Shapira/@liron&rpar;](http://www.techmeme.com/220726/p15#a220726p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
