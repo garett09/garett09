@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam now supports Nintendo’s classic controllers for Switch Online](https://www.theverge.com/2022/7/27/23281422/valve-steam-nintendo-classic-controllers-switch-online-nes-snes-n64-sega-genesis)
- - [Etsy reports Q2 revenue up 10.6% YoY to $585M, vs. $556M est., and net income down 25.6% YoY to $73.1M; stock up ~8% after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220727/p37#a220727p37)
- - [Gmail rolls out new integrated design with Chat, Spaces, and Meet apps](https://www.androidauthority.com/gmail-new-integrated-design-3190952/)<!-- TECH:END -->
+ - [London paid a record price for electricity during its heatwave](https://www.theverge.com/2022/7/27/23280640/london-uk-electricity-blackouts-heatwave-import)
+ - [The best routers under $75 for iPhone, iPad, and Mac owners](https://appleinsider.com/articles/22/07/25/the-best-routers-under-75-for-iphone-ipad-and-mac-owners?utm_medium=rss)
+ - [Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to &quot;steadily reduce headcount growth over the next year&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220727/p38#a220727p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
