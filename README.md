@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf Jesse](http://9gag.com/gag/aM4M6r6)
- - 🚯 [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
- - 🚯 [Man also matter](http://9gag.com/gag/a1138zD)<!-- MEMES:END -->
+ - 🚖 [Them AGAIN................ oh wait](http://9gag.com/gag/a51096L)
+ - 🚯 [Everyday](http://9gag.com/gag/ajgejZg)
+ - 🚯 [Opossums are friends.](http://9gag.com/gag/a61YzPq)<!-- MEMES:END -->
 
 --- 
 
