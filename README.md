@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nash, which aggregates delivery providers for businesses, has raised a $20M Series A led by Andreessen Horowitz, bringing its total raised to $27.8M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220726/p37#a220726p37)
- - [Kaspersky researchers have unpacked a malicious UEFI-based rootkit used in the wild since 2016 which can survive an OS reinstall and a hard drive replacement &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220726/p36#a220726p36)
- - [Google, like Amazon, will let police see your video without a warrant](https://www.theverge.com/2022/7/26/23279562/arlo-apple-wyze-eufy-google-ring-security-camera-foortage-warrant)<!-- TECH:END -->
+ - [A researcher finds messaging and calling app JusTalk left exposed a database with millions of users&#39; conversations and call logs in plaintext since January 2022 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220726/p39#a220726p39)
+ - [Sony reveals more PlayStation VR2 details, including a see-through view, a broadcast mode for filming gameplay, and a cinematic mode for non-VR games and media &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220726/p38#a220726p38)
+ - [Best Cheap Car Insurance Companies for August 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
