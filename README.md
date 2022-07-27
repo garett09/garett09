@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hair cut](http://9gag.com/gag/aggz6vx)
- - 🚯 [Ultra pride](http://9gag.com/gag/axBqQd1)
- - 🚯 [Props for making it realistic](http://9gag.com/gag/aLv7VXx)<!-- MEMES:END -->
+ - 🚖 [Car headlights](http://9gag.com/gag/aAGzq5Z)
+ - 🚯 [Rate my Setup](http://9gag.com/gag/a216A51)
+ - 🚯 [Australian farmer celebrates rain falling on farm for first time in months after the Australian bushfires, 2020](http://9gag.com/gag/aNPEGd0)<!-- MEMES:END -->
 
 --- 
 
