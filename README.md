@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US CFPB Director Rohit Chopra says the agency would &quot;have to take a very careful look&quot; at Big Tech entering the buy now, pay later, after Apple&#39;s BNPL debut &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/220727/p3#a220727p3)
  - [Sources: Senate Majority Leader Chuck Schumer told donors at a fundraiser that the AICO Act to pare back the power of big tech companies is unlikely to pass &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220727/p2#a220727p2)
- - [How to delete your Strava account](https://www.androidauthority.com/delete-strava-account-3190297/)
- - [Unit 42: hackers typically scan for vulnerabilities within 15 minutes of a new CVE disclosure with the first active exploitation attempts observed within hours &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220727/p1#a220727p1)<!-- TECH:END -->
+ - [How to delete your Strava account](https://www.androidauthority.com/delete-strava-account-3190297/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
