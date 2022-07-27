@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Banned A Month After Making Threats, Flashing Gun On Camera](https://kotaku.com/twitch-gun-violence-streaming-terms-of-service-abuse-g5-1849339248)
- - [A Sims 4 bug is making Sims speedrun the aging process](https://www.pcgamer.com/a-sims-4-bug-is-making-sims-speedrun-the-aging-process)
- - [Riot Suspends Valorant Pros Over Teabagging Controversy](https://kotaku.com/valorant-riot-teabagging-esports-galorant-dawn-risorah-1849338854)<!-- GAME:END -->
+ - [Hitman 3 Just Got A Free New Level, Which Rules](https://kotaku.com/hitman-3-year-two-ambrose-island-free-level-agent-47-1849339605)
+ - [Stray Strikes Down God Of War As Steam’s Best-Reviewed Game](https://kotaku.com/stray-steam-cat-game-god-of-war-powerwash-simulator-1849339513)
+ - [Ark: Survival Evolved cheats and console commands](https://www.pcgamer.com/ark-cheats)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
