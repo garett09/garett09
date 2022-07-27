@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farm automation](http://9gag.com/gag/angPZrE)
- - 🚯 [Opossums are friends.](http://9gag.com/gag/a61YzPq)
+ - 🚖 [Smile](http://9gag.com/gag/angPwQz)
+ - 🚯 [You&#39;re fine](http://9gag.com/gag/aDDe9MK)
  - 🚯 [I&#39;ve just watched it yesterday, why is it again recommended??](http://9gag.com/gag/aXr61gz)<!-- MEMES:END -->
 
 --- 
