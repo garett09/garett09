@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A researcher finds messaging and calling app JusTalk left exposed a database with millions of users&#39; conversations and call logs in plaintext since January 2022 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220726/p39#a220726p39)
- - [Sony reveals more PlayStation VR2 details, including a see-through view, a broadcast mode for filming gameplay, and a cinematic mode for non-VR games and media &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220726/p38#a220726p38)
- - [Best Cheap Car Insurance Companies for August 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Senate Majority Leader Chuck Schumer told donors at a fundraiser that the AICO Act to pare back the power of big tech companies is unlikely to pass &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220727/p2#a220727p2)
+ - [How to delete your Strava account](https://www.androidauthority.com/delete-strava-account-3190297/)
+ - [Unit 42: hackers typically scan for vulnerabilities within 15 minutes of a new CVE disclosure with the first active exploitation attempts observed within hours &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220727/p1#a220727p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
