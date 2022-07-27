@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Props for making it realistic](http://9gag.com/gag/aLv7VXx)
+ - 🚖 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)
  - 🚯 [Mira Sorvino won Best Supporting Actress for Mighty Aphrodite and took a moment yo thank her father, Paul Sorvino, who was visually moved. Mira is a Harvard graduate.](http://9gag.com/gag/a510yBE)
- - 🚯 [This a damn trap](http://9gag.com/gag/ay9jZ1r)<!-- MEMES:END -->
+ - 🚯 [Rate my Setup](http://9gag.com/gag/a216A51)<!-- MEMES:END -->
 
 --- 
 
