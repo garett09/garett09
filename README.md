@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)
- - 🚯 [Mira Sorvino won Best Supporting Actress for Mighty Aphrodite and took a moment yo thank her father, Paul Sorvino, who was visually moved. Mira is a Harvard graduate.](http://9gag.com/gag/a510yBE)
- - 🚯 [Rate my Setup](http://9gag.com/gag/a216A51)<!-- MEMES:END -->
+ - 🚖 [Rate my Setup](http://9gag.com/gag/a216A51)
+ - 🚯 [I love it when people collectively decide to be silly](http://9gag.com/gag/aGz46Wz)
+ - 🚯 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)<!-- MEMES:END -->
 
 --- 
 
