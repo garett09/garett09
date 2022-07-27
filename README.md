@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s Wednesday mah dudes!](http://9gag.com/gag/aQXWK4r)
- - 🚯 [And I\u2019m not even 30](http://9gag.com/gag/azepzON)
- - 🚯 [You&#39;re fine](http://9gag.com/gag/aDDe9MK)<!-- MEMES:END -->
+ - 🚖 [Farm automation](http://9gag.com/gag/angPZrE)
+ - 🚯 [My goldfish is a better pet..](http://9gag.com/gag/a61YzLm)
+ - 🚯 [Opossums are friends.](http://9gag.com/gag/a61YzPq)<!-- MEMES:END -->
 
 --- 
 
