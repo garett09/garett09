@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook expecting to fight Apple for metaverse dominance](https://appleinsider.com/articles/22/07/26/facebook-expecting-to-fight-apple-for-metaverse-dominance?utm_medium=rss)
- - [Google Earnings Miss Expectations as Tech Industry Shows Weakness     - CNET](https://www.cnet.com/tech/google-earnings-miss-expectations-as-tech-industry-shows-weakness/#ftag=CAD590a51e)
- - [The Star Wars: Knights of the Old Republic remake is reportedly on pause](https://www.theverge.com/2022/7/26/23279810/star-wars-knights-of-the-old-republic-kotor-remake-development-on-pause)<!-- TECH:END -->
+ - [Nash, which aggregates delivery providers for businesses, has raised a $20M Series A led by Andreessen Horowitz, bringing its total raised to $27.8M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220726/p37#a220726p37)
+ - [Kaspersky researchers have unpacked a malicious UEFI-based rootkit used in the wild since 2016 which can survive an OS reinstall and a hard drive replacement &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220726/p36#a220726p36)
+ - [Google, like Amazon, will let police see your video without a warrant](https://www.theverge.com/2022/7/26/23279562/arlo-apple-wyze-eufy-google-ring-security-camera-foortage-warrant)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
