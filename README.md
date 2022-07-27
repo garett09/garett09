@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rate my Setup](http://9gag.com/gag/a216A51)
- - 🚯 [I love it when people collectively decide to be silly](http://9gag.com/gag/aGz46Wz)
- - 🚯 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)<!-- MEMES:END -->
+ - 🚖 [Every morning](http://9gag.com/gag/ajge37g)
+ - 🚯 [Man also matter](http://9gag.com/gag/a1138zD)
+ - 🚯 [It\u2019s my birthday and Wednesday my dudes!!!!!](http://9gag.com/gag/avAK4N5)<!-- MEMES:END -->
 
 --- 
 
