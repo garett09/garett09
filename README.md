@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every morning](http://9gag.com/gag/ajge37g)
- - 🚯 [Oh no...](http://9gag.com/gag/aeg8qBb)
- - 🚯 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)<!-- MEMES:END -->
+ - 🚖 [Wtf Jesse](http://9gag.com/gag/aM4M6r6)
+ - 🚯 [20 famous riffs on the stylophone](http://9gag.com/gag/aAGz7Dg)
+ - 🚯 [Half empty or half full? XD](http://9gag.com/gag/aXr6znd)<!-- MEMES:END -->
 
 --- 
 
