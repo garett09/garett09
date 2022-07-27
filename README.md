@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say cybercriminals are leveraging the automation features, like bots, inside Discord and Telegram to host, distribute, and execute malware schemes &lpar;Intel471&rpar;](http://www.techmeme.com/220727/p6#a220727p6)
- - [Redmi flagship leak promises a 200MP powerhouse](https://www.androidauthority.com/redmi-k50s-pro-specs-3190745/)
- - [Google is adding Flyover-like aerial views to Maps](https://www.theverge.com/2022/7/27/23279880/google-maps-aerial-views-immersive-cycling-directions-location-sharing-notifications)<!-- TECH:END -->
+ - [AMD releases its own noise suppression tool to take on Nvidia’s RTX Broadcast](https://www.theverge.com/2022/7/27/23280287/amd-noise-suppression-software-release-rtx-broadcast-voice)
+ - [Daily Authority: 📦 Amazon Prime’s big EU price hike](https://www.androidauthority.com/daily-authority-july-27-2022-3190310/)
+ - [An interview with Pablo Galindo, one of the five members of the Python Steering Council who vet all revisions and additions to the programming language &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/220727/p7#a220727p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
