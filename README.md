@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DC League of Super-Pets crams every second with satirical superhero &lpar;and pet&rpar; humor](https://www.polygon.com/reviews/23279544/dc-league-of-super-pets-review)
- - [Drakania Awakening Has Descended!](https://news.xbox.com/en-us/2022/07/27/drakania-awakening-has-descended/)
- - [Eight Yakuza games coming to PlayStation Plus in 2022, beginning in August](https://www.polygon.com/23280836/playstation-plus-yakuza-series-like-a-dragon-release-2022)<!-- GAME:END -->
+ - [Riders Republic Season 3: Summer Break Coming July 27](https://news.xbox.com/en-us/2022/07/27/riders-republic-season-3-summer-break-coming-july-27/)
+ - [GTA 6’s Female Protagonist Won’t Actually Be The Series’ First](https://kotaku.com/gta-6-first-woman-female-playable-protagonists-gta2-1849338804)
+ - [Live A Live: The Kotaku Review](https://kotaku.com/live-a-live-nintendo-switch-review-remake-square-enix-1849338456)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
