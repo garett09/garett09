@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Every morning](http://9gag.com/gag/ajge37g)
- - 🚯 [Man also matter](http://9gag.com/gag/a1138zD)
- - 🚯 [It\u2019s my birthday and Wednesday my dudes!!!!!](http://9gag.com/gag/avAK4N5)<!-- MEMES:END -->
+ - 🚯 [Oh no...](http://9gag.com/gag/aeg8qBb)
+ - 🚯 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)<!-- MEMES:END -->
 
 --- 
 
