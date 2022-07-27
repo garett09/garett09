@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kioxia&#39;s new enterprise drives already near the limits of a PCIe 5.0 x4 interface](https://www.pcgamer.com/kioxias-new-enterprise-drives-already-near-the-limits-of-a-pcie-50-x4-interface)
  - [Today&#39;s Wordle answer #403: Wednesday, July 27](https://www.pcgamer.com/wordle-today-answer-hint)
- - [Our Favorite Cosplay From Anime Expo 2022](https://kotaku.com/cosplay-photos-gallery-video-anime-expo-lacc-la-1849336093)
- - [RIP Roblox&#39;s Famous &#39;Oof&#39; Sound, Which Has Been Removed](https://kotaku.com/roblox-oof-sound-death-removed-licensing-tallarico-1849335787)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Anime Expo 2022](https://kotaku.com/cosplay-photos-gallery-video-anime-expo-lacc-la-1849336093)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
