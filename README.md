@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Marvel movie release set for 2022 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
- - [Sniper Elite 5 Reloads with a Free Multiplayer Map and the Landing Force Mission and Weapon Pack](https://news.xbox.com/en-us/2022/07/27/185322/)
- - [Sylvester Stallone takes out the trash in aging superhero movie Samaritan](https://www.polygon.com/23279681/sylvester-stallone-samaritan-trailer-streaming-release-amazon-prime-video)<!-- GAME:END -->
+ - [Netflix’s live-action Winx Club returns this fall](https://www.polygon.com/23280574/fate-the-winx-saga-season-2-netflix-release-date)
+ - [The realism of FIFA 23’s new motion capture technology](https://blog.playstation.com/2022/07/27/the-realism-of-fifa-23s-new-motion-capture-technology/)
+ - [Rank Up, Hold Your Ground and Join Forces in Aliens: Fireteam Elite Season 4](https://news.xbox.com/en-us/2022/07/27/rank-up-hold-your-ground-and-join-forces-in-aliens-fireteam-elite-season-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
