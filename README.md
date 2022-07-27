@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Them AGAIN................ oh wait](http://9gag.com/gag/a51096L)
+ - 🚖 [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
  - 🚯 [Everyday](http://9gag.com/gag/ajgejZg)
- - 🚯 [Opossums are friends.](http://9gag.com/gag/a61YzPq)<!-- MEMES:END -->
+ - 🚯 [I just realized, but I am actually fine with that](http://9gag.com/gag/amg4Qoo)<!-- MEMES:END -->
 
 --- 
 
