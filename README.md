@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
- - 🚯 [Everyday](http://9gag.com/gag/ajgejZg)
- - 🚯 [It\u2019s Wednesday mah dudes!](http://9gag.com/gag/aQXWK4r)<!-- MEMES:END -->
+ - 🚖 [It\u2019s Wednesday mah dudes!](http://9gag.com/gag/aQXWK4r)
+ - 🚯 [And I\u2019m not even 30](http://9gag.com/gag/azepzON)
+ - 🚯 [You&#39;re fine](http://9gag.com/gag/aDDe9MK)<!-- MEMES:END -->
 
 --- 
 
