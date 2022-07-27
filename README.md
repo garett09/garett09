@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk remake, Yakuza: Like a Dragon hit PlayStation Plus in August](https://www.polygon.com/23280765/playstation-plus-august-2022-free-games-ps5-ps4)
- - [Brawlhalla’s Assassin’s Creed Epic Crossover is Here](https://news.xbox.com/en-us/2022/07/27/brawlhallas-assassins-creed-epic-crossover-is-here/)
- - [Elden Ring quests: How to start NPC storylines](https://www.pcgamer.com/all-elden-ring-quests-side-best)<!-- GAME:END -->
+ - [DC League of Super-Pets crams every second with satirical superhero &lpar;and pet&rpar; humor](https://www.polygon.com/reviews/23279544/dc-league-of-super-pets-review)
+ - [Drakania Awakening Has Descended!](https://news.xbox.com/en-us/2022/07/27/drakania-awakening-has-descended/)
+ - [Eight Yakuza games coming to PlayStation Plus in 2022, beginning in August](https://www.polygon.com/23280836/playstation-plus-yakuza-series-like-a-dragon-release-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
