@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD releases its own noise suppression tool to take on Nvidia’s RTX Broadcast](https://www.theverge.com/2022/7/27/23280287/amd-noise-suppression-software-release-rtx-broadcast-voice)
- - [Daily Authority: 📦 Amazon Prime’s big EU price hike](https://www.androidauthority.com/daily-authority-july-27-2022-3190310/)
- - [An interview with Pablo Galindo, one of the five members of the Python Steering Council who vet all revisions and additions to the programming language &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/220727/p7#a220727p7)<!-- TECH:END -->
+ - [US finance regulator plans &#39;very careful look&#39; at Apple Pay Later, similar services](https://appleinsider.com/articles/22/07/27/us-finance-regulator-plans-very-careful-look-at-apple-pay-later-similar-services?utm_medium=rss)
+ - [Acronis, which offers enterprise cybersecurity and data protection tools, raised $250M at a $3.5B+ valuation, up from $2.5B in May 2021 after raising $250M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p12#a220727p12)
+ - [Mark Zuckerberg tells employees Meta and Apple are in a &quot;very deep, philosophical competition&quot; to build AR and VR devices and determine the internet&#39;s direction &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220727/p11#a220727p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
