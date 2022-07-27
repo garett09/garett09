@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nostalgia for the &quot;old&quot;, chronological Instagram makes sense but belies changing norms around online sharing, communication, privacy, and engaging content &lpar;Taylor Lorenz/Taylor Lorenz&#39;s Newsletter&rpar;](http://www.techmeme.com/220727/p25#a220727p25)
- - [Android Auto is so bad it made me switch back to the iPhone](https://www.androidauthority.com/android-auto-apple-carplay-3185189/)
- - [Memo: Twitter plans to reduce its office space in San Francisco, New York, Sydney, Seoul, Tokyo, and other major markets, in a bid to cut costs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220727/p24#a220727p24)<!-- TECH:END -->
+ - [Human Security, an enterprise bot mitigation and fraud prevention service, merges with PerimeterX, which helps protect web apps; terms were not disclosed &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220727/p27#a220727p27)
+ - [Google Maps gets closer to its immersive view feature with its latest update](https://www.androidauthority.com/google-maps-immersive-3190819/)
+ - [GTA VI could finally let you blow up Miami as a woman in 2024](https://www.theverge.com/2022/7/27/23280496/gta6-gta-vi-miami-female-protagonist-2024-release-date-development-crunch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
