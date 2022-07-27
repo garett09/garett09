@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Senate passes the Chips and Science Act, including $52B+ for US chipmakers as well as tax credits to encourage investment; the bill now heads to the House &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/220727/p29#a220727p29)
- - [Apple seeds fourth developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/07/27/apple-seeds-fourth-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)
- - [Apple releases fourth tvOS 16 beta for developer testing](https://appleinsider.com/articles/22/07/27/apple-releases-fourth-tvos-16-beta-for-developer-testing?utm_medium=rss)<!-- TECH:END -->
+ - [FTC files to block Meta&#39;s acquisition of VR company Within, saying Meta &quot;chose to buy&quot; instead of competing, the first antitrust lawsuit filed under Lina Khan &lpar;New York Times&rpar;](http://www.techmeme.com/220727/p30#a220727p30)
+ - [Joe Biden’s new plan: solar power for everyone, not just the rich](https://www.theverge.com/2022/7/27/23280446/community-solar-power-biden-energy-bills-clean-electricity)
+ - [Gmail’s new search tweaks will make sure you’re emailing the right person](https://www.theverge.com/2022/7/27/23280860/gmail-search-update-emailing-right-person)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
