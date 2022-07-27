@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smile](http://9gag.com/gag/angPwQz)
- - 🚯 [You&#39;re fine](http://9gag.com/gag/aDDe9MK)
+ - 🚖 [She is a super hero](http://9gag.com/gag/aYrX5D2)
+ - 🚯 [Smile](http://9gag.com/gag/angPwQz)
  - 🚯 [I&#39;ve just watched it yesterday, why is it again recommended??](http://9gag.com/gag/aXr61gz)<!-- MEMES:END -->
 
 --- 
