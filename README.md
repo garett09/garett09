@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US CFPB Director Rohit Chopra says the agency would &quot;have to take a very careful look&quot; at Big Tech entering the buy now, pay later, after Apple&#39;s BNPL debut &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/220727/p3#a220727p3)
- - [Sources: Senate Majority Leader Chuck Schumer told donors at a fundraiser that the AICO Act to pare back the power of big tech companies is unlikely to pass &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220727/p2#a220727p2)
- - [How to delete your Strava account](https://www.androidauthority.com/delete-strava-account-3190297/)<!-- TECH:END -->
+ - [Nigerian payments startup Flutterwave, which is valued at $3B, is facing allegations of a money laundering scheme worth up to $215M in Kenya &lpar;Abubakar Idris/Rest of World&rpar;](http://www.techmeme.com/220727/p4#a220727p4)
+ - [Get ready to pay a lot more for Amazon Prime if you live in these regions](https://www.androidauthority.com/amazon-prime-price-hike-europe-uk-3190718/)
+ - [US CFPB Director Rohit Chopra says the agency should &quot;take a very careful look&quot; at Big Tech entering the buy now, pay later space, after Apple&#39;s BNPL debut &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/220727/p3#a220727p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
