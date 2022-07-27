@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US finance regulator plans &#39;very careful look&#39; at Apple Pay Later, similar services](https://appleinsider.com/articles/22/07/27/us-finance-regulator-plans-very-careful-look-at-apple-pay-later-similar-services?utm_medium=rss)
- - [Acronis, which offers enterprise cybersecurity and data protection tools, raised $250M at a $3.5B+ valuation, up from $2.5B in May 2021 after raising $250M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p12#a220727p12)
- - [Mark Zuckerberg tells employees Meta and Apple are in a &quot;very deep, philosophical competition&quot; to build AR and VR devices and determine the internet&#39;s direction &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220727/p11#a220727p11)<!-- TECH:END -->
+ - [Internal TikTok PR documents suggest responses to difficult questions, including downplaying AI, links to ByteDance, and &quot;the China association&quot; &lpar;Chris Stokel-Walker/Gizmodo&rpar;](http://www.techmeme.com/220727/p16#a220727p16)
+ - [Carbon Offsets Alone Won’t Make Flying Climate-Friendly](https://www.wired.com/story/carbon-offsets-alone-wont-make-flying-climate-friendly/)
+ - [Don’t Call the New Federal Gun Law a Gun Law](https://www.wired.com/story/federal-gun-law-2022-cdc-data/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
