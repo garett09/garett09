@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Human Security, an enterprise bot mitigation and fraud prevention service, merges with PerimeterX, which helps protect web apps; terms were not disclosed &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220727/p27#a220727p27)
- - [Google Maps gets closer to its immersive view feature with its latest update](https://www.androidauthority.com/google-maps-immersive-3190819/)
- - [GTA VI could finally let you blow up Miami as a woman in 2024](https://www.theverge.com/2022/7/27/23280496/gta6-gta-vi-miami-female-protagonist-2024-release-date-development-crunch)<!-- TECH:END -->
+ - [Manfrotto CFexpress card reader review: A photographer&#39;s Mac and iPad companion](https://appleinsider.com/articles/22/07/27/manfrotto-cfexpress-card-reader-review-a-photographers-mac-and-ipad-companion?utm_medium=rss)
+ - [Vergecast: Instagram is TikTok now, BeReal is everywhere, and the return of our hotline](https://www.theverge.com/2022/7/27/23280540/instagram-video-changes-tiktok-bereal-podcast-vergecast)
+ - [Chromebooks will get new Google Photos movie editor and more this fall](https://www.androidauthority.com/chromebooks-google-photos-new-features-3190721/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
