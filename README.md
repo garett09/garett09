@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal TikTok PR documents suggest responses to difficult questions, including downplaying AI, links to ByteDance, and &quot;the China association&quot; &lpar;Chris Stokel-Walker/Gizmodo&rpar;](http://www.techmeme.com/220727/p16#a220727p16)
- - [Carbon Offsets Alone Won’t Make Flying Climate-Friendly](https://www.wired.com/story/carbon-offsets-alone-wont-make-flying-climate-friendly/)
- - [Don’t Call the New Federal Gun Law a Gun Law](https://www.wired.com/story/federal-gun-law-2022-cdc-data/)<!-- TECH:END -->
+ - [California Wants to Make Cheap Insulin. Here’s How It Could Work](https://www.wired.com/story/california-wants-to-make-cheap-insulin-heres-how-it-could-work/)
+ - [How to flip screen orientation on a smartwatch](https://www.theverge.com/23279212/smartwatch-screen-orientation-how-to)
+ - [Shopify misses as Q2 revenue grew 16% YoY to $1.3B and GMV reached $46.9B, up 11% YoY; SHOP drops 6%+, after crashing 14% on Tuesday due to layoffs &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220727/p18#a220727p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
