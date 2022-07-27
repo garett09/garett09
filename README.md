@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All animals are equal, but some animals are more equal than others](http://9gag.com/gag/aWg3N13)
- - 🚯 [I love it when people collectively decide to be silly](http://9gag.com/gag/aGz46Wz)
- - 🚯 [This a damn trap](http://9gag.com/gag/ay9jZ1r)<!-- MEMES:END -->
+ - 🚖 [The hair cut](http://9gag.com/gag/aggz6vx)
+ - 🚯 [Ultra pride](http://9gag.com/gag/axBqQd1)
+ - 🚯 [Props for making it realistic](http://9gag.com/gag/aLv7VXx)<!-- MEMES:END -->
 
 --- 
 
