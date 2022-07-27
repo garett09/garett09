@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinocchio’s first proper trailer shows Guillermo del Toro’s new take on the classic](https://www.theverge.com/23280393/guillermo-del-toro-pinocchio-netflix-trailer)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-27-2022-3190086/)
- - [Interviews with 20+ people describe GTA developer Rockstar&#39;s attempts to change its male-heavy workplace culture, starting in 2018, after complaints and burnout &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/220727/p21#a220727p21)<!-- TECH:END -->
+ - [Nostalgia for the &quot;old&quot;, chronological Instagram makes sense but belies changing norms around online sharing, communication, privacy, and engaging content &lpar;Taylor Lorenz/Taylor Lorenz&#39;s Newsletter&rpar;](http://www.techmeme.com/220727/p25#a220727p25)
+ - [Android Auto is so bad it made me switch back to the iPhone](https://www.androidauthority.com/android-auto-apple-carplay-3185189/)
+ - [Memo: Twitter plans to reduce its office space in San Francisco, New York, Sydney, Seoul, Tokyo, and other major markets, in a bid to cut costs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220727/p24#a220727p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
