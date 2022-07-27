@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zombies return to Call of Duty: Warzone in a new limited-time mode](https://www.pcgamer.com/zombies-return-to-call-of-duty-warzone-in-a-new-limited-time-mode)
- - [Oof, the iconic Roblox death noise has been replaced with a way uglier sound](https://www.pcgamer.com/oof-the-iconic-roblox-death-noise-has-been-replaced-with-a-way-uglier-sound)
- - [New study finds gaming is &#39;unlikely&#39; to affect well-being](https://www.pcgamer.com/new-study-finds-gaming-is-unlikely-to-affect-well-being)<!-- GAME:END -->
+ - [Artists somehow keep making masterpieces with Kid Pix and MS Paint](https://www.polygon.com/23273561/kid-pix-ms-paint-masterpieces)
+ - [Cuphead: The Delicious Last Course Boss Pulls BS Trick &lpar;And It&#39;s Pretty Great&rpar;](https://kotaku.com/cuphead-dlc-studio-mdhr-sekiro-shadows-die-twice-1849329503)
+ - [Square Enix’s HD-2D style lets classic games be themselves](https://www.polygon.com/23278977/live-a-live-hd-2d-remake-square-enix-jrpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
