@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Wants to Make Cheap Insulin. Here’s How It Could Work](https://www.wired.com/story/california-wants-to-make-cheap-insulin-heres-how-it-could-work/)
- - [How to flip screen orientation on a smartwatch](https://www.theverge.com/23279212/smartwatch-screen-orientation-how-to)
- - [Shopify misses as Q2 revenue grew 16% YoY to $1.3B and GMV reached $46.9B, up 11% YoY; SHOP drops 6%+, after crashing 14% on Tuesday due to layoffs &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220727/p18#a220727p18)<!-- TECH:END -->
+ - [Pinocchio’s first proper trailer shows Guillermo del Toro’s new take on the classic](https://www.theverge.com/23280393/guillermo-del-toro-pinocchio-netflix-trailer)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-27-2022-3190086/)
+ - [Interviews with 20+ people describe GTA developer Rockstar&#39;s attempts to change its male-heavy workplace culture, starting in 2018, after complaints and burnout &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/220727/p21#a220727p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
