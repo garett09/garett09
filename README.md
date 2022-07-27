@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Reports Second Quarter 2022 Results &lpar;Meta - Investor Relations&rpar;](http://www.techmeme.com/220727/p32#a220727p32)
- - [Tesla’s ‘unlimited’ connectivity plan, including navigation, now expires after eight years](https://www.theverge.com/2022/7/27/23281022/tesla-standard-data-connectivity-navigation-limited-eight-years)
- - [Microsoft says it caught an Austrian spyware group using previously unknown Windows exploits](https://www.theverge.com/2022/7/27/23281215/microsoft-austrian-commercial-spyware-dsirf-knotweed-intelligence-committee)<!-- TECH:END -->
+ - [AT&amp;T is not building a cloud gaming business — but it might be angling for a cut](https://www.theverge.com/2022/7/27/23281073/att-no-cloud-gaming-business-matthew-wallace-qos)
+ - [Rivian is laying off 6 percent of its employees](https://www.theverge.com/2022/7/11/23204199/rivian-electric-vehicles-layoffs-planned-manufacturing)
+ - [Facebook reports drop in revenue for the first time](https://www.theverge.com/2022/7/27/23281294/facebook-meta-revenue-declines-for-first-time)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
