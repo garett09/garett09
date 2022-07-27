@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Wtf Jesse](http://9gag.com/gag/aM4M6r6)
- - 🚯 [20 famous riffs on the stylophone](http://9gag.com/gag/aAGz7Dg)
- - 🚯 [Half empty or half full? XD](http://9gag.com/gag/aXr6znd)<!-- MEMES:END -->
+ - 🚯 [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
+ - 🚯 [Man also matter](http://9gag.com/gag/a1138zD)<!-- MEMES:END -->
 
 --- 
 
