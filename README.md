@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s live-action Winx Club returns this fall](https://www.polygon.com/23280574/fate-the-winx-saga-season-2-netflix-release-date)
- - [The realism of FIFA 23’s new motion capture technology](https://blog.playstation.com/2022/07/27/the-realism-of-fifa-23s-new-motion-capture-technology/)
- - [Rank Up, Hold Your Ground and Join Forces in Aliens: Fireteam Elite Season 4](https://news.xbox.com/en-us/2022/07/27/rank-up-hold-your-ground-and-join-forces-in-aliens-fireteam-elite-season-4/)<!-- GAME:END -->
+ - [Tony Hawk remake, Yakuza: Like a Dragon hit PlayStation Plus in August](https://www.polygon.com/23280765/playstation-plus-august-2022-free-games-ps5-ps4)
+ - [Brawlhalla’s Assassin’s Creed Epic Crossover is Here](https://news.xbox.com/en-us/2022/07/27/brawlhallas-assassins-creed-epic-crossover-is-here/)
+ - [Elden Ring quests: How to start NPC storylines](https://www.pcgamer.com/all-elden-ring-quests-side-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
