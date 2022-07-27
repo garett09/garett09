@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car headlights](http://9gag.com/gag/aAGzq5Z)
- - 🚯 [Rate my Setup](http://9gag.com/gag/a216A51)
- - 🚯 [Australian farmer celebrates rain falling on farm for first time in months after the Australian bushfires, 2020](http://9gag.com/gag/aNPEGd0)<!-- MEMES:END -->
+ - 🚖 [Props for making it realistic](http://9gag.com/gag/aLv7VXx)
+ - 🚯 [Mira Sorvino won Best Supporting Actress for Mighty Aphrodite and took a moment yo thank her father, Paul Sorvino, who was visually moved. Mira is a Harvard graduate.](http://9gag.com/gag/a510yBE)
+ - 🚯 [This a damn trap](http://9gag.com/gag/ay9jZ1r)<!-- MEMES:END -->
 
 --- 
 
