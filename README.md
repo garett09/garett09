@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manfrotto CFexpress card reader review: A photographer&#39;s Mac and iPad companion](https://appleinsider.com/articles/22/07/27/manfrotto-cfexpress-card-reader-review-a-photographers-mac-and-ipad-companion?utm_medium=rss)
- - [Vergecast: Instagram is TikTok now, BeReal is everywhere, and the return of our hotline](https://www.theverge.com/2022/7/27/23280540/instagram-video-changes-tiktok-bereal-podcast-vergecast)
- - [Chromebooks will get new Google Photos movie editor and more this fall](https://www.androidauthority.com/chromebooks-google-photos-new-features-3190721/)<!-- TECH:END -->
+ - [US Senate passes the Chips and Science Act, including $52B+ for US chipmakers as well as tax credits to encourage investment; the bill now heads to the House &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/220727/p29#a220727p29)
+ - [Apple seeds fourth developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/07/27/apple-seeds-fourth-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)
+ - [Apple releases fourth tvOS 16 beta for developer testing](https://appleinsider.com/articles/22/07/27/apple-releases-fourth-tvos-16-beta-for-developer-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
