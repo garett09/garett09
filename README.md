@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn bruh, chill](http://9gag.com/gag/azepB3m)
- - 🚯 [Surely they don&#39;t help.](http://9gag.com/gag/aKmoNOj)
- - 🚯 [All animals are equal, but some animals are more equal than others](http://9gag.com/gag/aWg3N13)<!-- MEMES:END -->
+ - 🚖 [All animals are equal, but some animals are more equal than others](http://9gag.com/gag/aWg3N13)
+ - 🚯 [I love it when people collectively decide to be silly](http://9gag.com/gag/aGz46Wz)
+ - 🚯 [This a damn trap](http://9gag.com/gag/ay9jZ1r)<!-- MEMES:END -->
 
 --- 
 
