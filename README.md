@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riders Republic Season 3: Summer Break Coming July 27](https://news.xbox.com/en-us/2022/07/27/riders-republic-season-3-summer-break-coming-july-27/)
- - [GTA 6’s Female Protagonist Won’t Actually Be The Series’ First](https://kotaku.com/gta-6-first-woman-female-playable-protagonists-gta2-1849338804)
- - [Live A Live: The Kotaku Review](https://kotaku.com/live-a-live-nintendo-switch-review-remake-square-enix-1849338456)<!-- GAME:END -->
+ - [Twitch Streamer Banned A Month After Making Threats, Flashing Gun On Camera](https://kotaku.com/twitch-gun-violence-streaming-terms-of-service-abuse-g5-1849339248)
+ - [A Sims 4 bug is making Sims speedrun the aging process](https://www.pcgamer.com/a-sims-4-bug-is-making-sims-speedrun-the-aging-process)
+ - [Riot Suspends Valorant Pros Over Teabagging Controversy](https://kotaku.com/valorant-riot-teabagging-esports-galorant-dawn-risorah-1849338854)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
