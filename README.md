@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good. Stay that way](http://9gag.com/gag/aVxyANd)
- - 🚯 [If in doubt, always DNA test.](http://9gag.com/gag/a510OWg)
- - 🚯 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)<!-- MEMES:END -->
+ - 🚖 [One of the perks pf being an adult](http://9gag.com/gag/aXr65xD)
+ - 🚯 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
+ - 🚯 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
 
 --- 
 
