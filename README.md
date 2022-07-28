@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The banners are up. Sooooo looking forward to finally having a festival again!](http://9gag.com/gag/aqGo0m7)
- - 🚯 [I do adore redheads](http://9gag.com/gag/adgDEj9)
- - 🚯 [Online](http://9gag.com/gag/aBnBAON)<!-- MEMES:END -->
+ - 🚖 [Hope is restored. A legend and his queen.](http://9gag.com/gag/aDDeKPK)
+ - 🚯 [Online](http://9gag.com/gag/aBnBAON)
+ - 🚯 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
 
 --- 
 
