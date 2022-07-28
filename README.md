@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists reanimate dead spiders as robot gripping claws](https://www.theverge.com/2022/7/28/23282023/dead-spiders-robot-grippers-necrobotics-research-rice-university)
- - [Poll: Would you buy a phone with ads if it were cheaper?](https://www.androidauthority.com/buy-phone-ads-cheaper-poll-3191250/)
- - [Mass email from iTunes Connect about banking info was sent in error](https://appleinsider.com/articles/22/07/28/mass-email-from-itunes-connect-about-banking-info-was-sent-in-error?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Spotify bought Findaway for &amp;euro;117M, Sonantic for &amp;euro;91M, and Chartable and Podsights for &amp;euro;83M, with a possible extra payment of &amp;euro;21M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220728/p22#a220728p22)
+ - [Asus Zenfone 9 announced, packing lots of high-end hardware in a small phone](https://www.androidauthority.com/asus-zenfone-9-announced-3190445/)
+ - [Asus’ compact Zenfone 9 comes with incredible gimbal-like camera stabilization](https://www.theverge.com/2022/7/28/23280728/asus-zenfone-9-screen-camera-specs-price-ois-gimbal-stabilization-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
