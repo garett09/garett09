@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We have all been there](http://9gag.com/gag/aKmooAj)
- - 🚯 [Might be a good plan.](http://9gag.com/gag/aKmoQej)
+ - 🚖 [Hope is restored. A legend and his queen.](http://9gag.com/gag/aDDeKPK)
+ - 🚯 [Road construction during the Roman Empire](http://9gag.com/gag/a2163zd)
  - 🚯 [Sounds about right](http://9gag.com/gag/aggzD7w)<!-- MEMES:END -->
 
 --- 
