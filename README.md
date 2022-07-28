@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Online](http://9gag.com/gag/aBnBAON)
- - 🚯 [I wish she was my science teacher in school](http://9gag.com/gag/aBnBpGO)
- - 🚯 [Might be a good plan.](http://9gag.com/gag/aKmoQej)<!-- MEMES:END -->
+ - 🚖 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
+ - 🚯 [White People why are you like this](http://9gag.com/gag/aDDeKZw)
+ - 🚯 [If in doubt, always DNA test.](http://9gag.com/gag/a510OWg)<!-- MEMES:END -->
 
 --- 
 
