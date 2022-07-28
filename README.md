@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say it is not clear whether generative art made by AI systems trained on copyrighted data, like OpenAI&#39;s DALL-E 2, can be considered as fair use &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/220728/p9#a220728p9)
- - [We’re still in July but the Galaxy S22 series just got the August 2022 update](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Twitter goes full circle with Status feature test](https://www.theverge.com/2022/7/28/23281956/twitter-status-feature-test)<!-- TECH:END -->
+ - [Sources: Jack Ma plans to relinquish control of Alibaba&#39;s Ant Group, potentially pushing back Ant&#39;s IPO for a year or more; regulators approve of the change &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220728/p12#a220728p12)
+ - [Daniel Radcliffe’s Weird Al biopic gets November release date](https://www.theverge.com/2022/7/28/23281996/weird-al-yankovic-release-date-roku-originals-channel)
+ - [The Big Business of Burying Carbon](https://www.wired.com/story/big-business-burying-carbon-dioxide-capture-storage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
