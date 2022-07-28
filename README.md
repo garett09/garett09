@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True true](http://9gag.com/gag/aAGz9BL)
- - 🚯 [Mexican captains assemble, is this true?](http://9gag.com/gag/arn7wY6)
- - 🚯 [Garlic butter sauce](http://9gag.com/gag/azep3yj)<!-- MEMES:END -->
+ - 🚖 [Garlic butter sauce](http://9gag.com/gag/azep3yj)
+ - 🚯 [Manga is destroying comics. I wonder why...](http://9gag.com/gag/aogQwGX)
+ - 🚯 [We have all been there](http://9gag.com/gag/aKmooAj)<!-- MEMES:END -->
 
 --- 
 
