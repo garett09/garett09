@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s got another queue to buy the PS5, and it’s open now](https://www.theverge.com/2022/7/28/23282807/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)
- - [Amazon reports Q2 revenue up 7% YoY to $121.2B, $2B net loss vs. $7.8B net income in Q2 2021, and AWS revenue up 33% YoY; stock is up 10%+ after hours &lpar;Business Wire&rpar;](http://www.techmeme.com/220728/p39#a220728p39)
- - [Harber London Nomad Organiser review: Stylish, but pricey](https://appleinsider.com/articles/22/07/28/harber-london-nomad-organiser-review-stylish-but-pricey?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says Mac sales are getting hit hard by supply constraints](https://www.theverge.com/2022/7/28/23282776/apple-q3-2022-earnings-iphone-services-mac)
+ - [People aren’t buying as many PCs — and Intel is feeling the multibillion-dollar burn](https://www.theverge.com/2022/7/28/23282849/intel-q2-2022-earnings-pc-industry-sales)
+ - [Roku misses with Q2 revenue up 18% YoY to $764M, vs. $805.2M estimated, and reaches 63.1M active accounts, up 1.8M QoQ; stock down ~26% after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p44#a220728p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
