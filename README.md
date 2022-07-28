@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happened to the left?](http://9gag.com/gag/aXr65qd)
- - 🚯 [One of the perks pf being an adult](http://9gag.com/gag/aXr65xD)
- - 🚯 [Revenge is sweet](http://9gag.com/gag/azepn2z)<!-- MEMES:END -->
+ - 🚖 [I wish she was my science teacher in school](http://9gag.com/gag/aBnBpGO)
+ - 🚯 [Remarkable voice!](http://9gag.com/gag/aVxyAYP)
+ - 🚯 [Fermented fruit is the BEST....whoaaa....whoaaaaa](http://9gag.com/gag/axBqxgp)<!-- MEMES:END -->
 
 --- 
 
