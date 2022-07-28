@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 3 has halted production because of a new Covid-19 outbreak](https://www.pcgamer.com/the-witcher-season-3-has-halted-production-because-of-a-new-covid-19-outbreak)
- - [Fixating on player counts and &#39;dead games&#39; is making gaming worse](https://www.pcgamer.com/fixating-on-player-counts-and-dead-games-is-making-gaming-worse)
- - [Every Mainline Yakuza Game Is Coming To PlayStation Plus](https://kotaku.com/yakuza-like-a-dragon-sony-playstation-plus-sega-kazuma-1849340218)<!-- GAME:END -->
+ - [The hidden Nier: Automata church mystery keeps getting weirder and weirder](https://www.pcgamer.com/the-hidden-nier-automata-church-mystery-keeps-getting-weirder-and-weirder)
+ - [The new Dwarf Fortress animal people look beautiful](https://www.pcgamer.com/the-new-dwarf-fortress-animal-people-look-beautiful)
+ - [One of Warhammer 40,000&#39;s best games is adding even more demons](https://www.pcgamer.com/one-of-warhammer-40000s-best-games-is-adding-even-more-demons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
