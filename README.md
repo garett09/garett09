@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes, there was just one TV in the living room.](http://9gag.com/gag/aqGoPNj)
- - 🚯 [Two Karens prevent delivery driver from leaving](http://9gag.com/gag/ay9jj8W)
- - 🚯 [Otters messing with an orangutan](http://9gag.com/gag/arn7QRy)<!-- MEMES:END -->
+ - 🚖 [We have all been there](http://9gag.com/gag/aKmooAj)
+ - 🚯 [Might be a good plan.](http://9gag.com/gag/aKmoQej)
+ - 🚯 [Sounds about right](http://9gag.com/gag/aggzD7w)<!-- MEMES:END -->
 
 --- 
 
