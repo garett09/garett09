@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope is restored. A legend and his queen.](http://9gag.com/gag/aDDeKPK)
- - 🚯 [Road construction during the Roman Empire](http://9gag.com/gag/a2163zd)
- - 🚯 [Sounds about right](http://9gag.com/gag/aggzD7w)<!-- MEMES:END -->
+ - 🚖 [The banners are up. Sooooo looking forward to finally having a festival again!](http://9gag.com/gag/aqGo0m7)
+ - 🚯 [I do adore redheads](http://9gag.com/gag/adgDEj9)
+ - 🚯 [Online](http://9gag.com/gag/aBnBAON)<!-- MEMES:END -->
 
 --- 
 
