@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS5 Beta introduces 1440p support, Gamelists, and more](https://blog.playstation.com/2022/07/28/ps5-beta-introduces-1440p-support-gamelists-and-more/)
  - [Micron starts bleeding edge 232-layer NAND production](https://www.pcgamer.com/micron-starts-bleeding-edge-232-layer-nand-production)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [There is so, so much weird shit in Lost Ark](https://www.pcgamer.com/there-is-so-so-much-weird-shit-in-lost-ark)<!-- GAME:END -->
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
