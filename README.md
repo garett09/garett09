@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
- - 🚯 [White People why are you like this](http://9gag.com/gag/aDDeKZw)
- - 🚯 [If in doubt, always DNA test.](http://9gag.com/gag/a510OWg)<!-- MEMES:END -->
+ - 🚖 [Good. Stay that way](http://9gag.com/gag/aVxyANd)
+ - 🚯 [If in doubt, always DNA test.](http://9gag.com/gag/a510OWg)
+ - 🚯 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)<!-- MEMES:END -->
 
 --- 
 
