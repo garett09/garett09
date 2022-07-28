@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jack Ma plans to relinquish control of Alibaba&#39;s Ant Group, potentially pushing back Ant&#39;s IPO for a year or more; regulators approve of the change &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220728/p12#a220728p12)
- - [Daniel Radcliffe’s Weird Al biopic gets November release date](https://www.theverge.com/2022/7/28/23281996/weird-al-yankovic-release-date-roku-originals-channel)
- - [The Big Business of Burying Carbon](https://www.wired.com/story/big-business-burying-carbon-dioxide-capture-storage/)<!-- TECH:END -->
+ - [Chinese grocery delivery startup Missfresh tells employees it has run out of money; Missfresh was valued at $3B after raising ~$300M in its June 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/220728/p15#a220728p15)
+ - [It’s Not Just Loot Boxes: Predatory Monetization Is Everywhere](https://www.wired.com/story/loot-boxes-predatory-monetization-games/)
+ - [The Fallout From Apple’s Bizarre, Dogged Union-Busting Campaign](https://www.wired.com/story/apples-union-busting-campaign-caused-a-bad-fallout/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
