@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoulCycle dangles free classes to Peloton users who trade in their bikes](https://www.theverge.com/2022/7/28/23282384/soulcycle-peloton-free-classes-bike-exchange-fitness)
- - [US senator grills Apple &amp; Google about fraudulent crypto apps](https://appleinsider.com/articles/22/07/28/us-senator-grills-apple-google-about-fraudulent-crypto-apps?utm_medium=rss)
- - [This Stamp-Sized Ultrasound Patch Can Image Internal Organs](https://www.wired.com/story/this-stamp-sized-ultrasound-patch-can-image-internal-organs/)<!-- TECH:END -->
+ - [Democrats revive the fight for net neutrality](https://www.theverge.com/2022/7/28/23282483/net-neutrality-ed-markey-bill-fcc-regulations-telecom-broadband-internet)
+ - [Best monitor for MacBook Pro in 2022: which to buy from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
+ - [Hours before Sky Mavis told users it was hacked, CEO Trung Nguyen moved about $3M worth of Axie Infinity&#39;s main token AXS; Sky Mavis says it was to help users &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/220728/p34#a220728p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
