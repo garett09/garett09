@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese grocery delivery startup Missfresh tells employees it has run out of money; Missfresh was valued at $3B after raising ~$300M in its June 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/220728/p15#a220728p15)
- - [It’s Not Just Loot Boxes: Predatory Monetization Is Everywhere](https://www.wired.com/story/loot-boxes-predatory-monetization-games/)
- - [The Fallout From Apple’s Bizarre, Dogged Union-Busting Campaign](https://www.wired.com/story/apples-union-busting-campaign-caused-a-bad-fallout/)<!-- TECH:END -->
+ - [Scientists reanimate dead spiders as robot gripping claws](https://www.theverge.com/2022/7/28/23282023/dead-spiders-robot-grippers-necrobotics-research-rice-university)
+ - [Poll: Would you buy a phone with ads if it were cheaper?](https://www.androidauthority.com/buy-phone-ads-cheaper-poll-3191250/)
+ - [Mass email from iTunes Connect about banking info was sent in error](https://appleinsider.com/articles/22/07/28/mass-email-from-itunes-connect-about-banking-info-was-sent-in-error?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
