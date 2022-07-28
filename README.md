@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [What happened to the left?](http://9gag.com/gag/aXr65qd)
- - 🚯 [Be the change you want to see in this world](http://9gag.com/gag/aqGo39P)
- - 🚯 [Good. Stay that way](http://9gag.com/gag/aVxyANd)<!-- MEMES:END -->
+ - 🚯 [One of the perks pf being an adult](http://9gag.com/gag/aXr65xD)
+ - 🚯 [Revenge is sweet](http://9gag.com/gag/azepn2z)<!-- MEMES:END -->
 
 --- 
 
