@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Spotify bought Findaway for &amp;euro;117M, Sonantic for &amp;euro;91M, and Chartable and Podsights for &amp;euro;83M, with a possible extra payment of &amp;euro;21M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220728/p22#a220728p22)
- - [Asus Zenfone 9 announced, packing lots of high-end hardware in a small phone](https://www.androidauthority.com/asus-zenfone-9-announced-3190445/)
- - [Asus’ compact Zenfone 9 comes with incredible gimbal-like camera stabilization](https://www.theverge.com/2022/7/28/23280728/asus-zenfone-9-screen-camera-specs-price-ois-gimbal-stabilization-video)<!-- TECH:END -->
+ - [How to use Clock app in iOS 15 to help you sleep, and wake up better](https://appleinsider.com/inside/ios-15/tips/how-to-use-clock-app-in-ios-15-to-help-you-sleep-and-wake-up-better?utm_medium=rss)
+ - [Sources: Meta begins telling its 50 US news partners that it will no longer pay for content to run on Facebook&#39;s News Tab, ending a three-year deal from 2019 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220728/p23#a220728p23)
+ - [What is Gboard – everything you need to know](https://www.androidauthority.com/what-is-gboard-3189999/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
