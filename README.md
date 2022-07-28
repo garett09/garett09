@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Human beings](http://9gag.com/gag/aE8mmRp)
+ - 🚖 [Yes, there was just one TV in the living room.](http://9gag.com/gag/aqGoPNj)
  - 🚯 [Hope Americans still asleep but this is annoying](http://9gag.com/gag/aE8mmeN)
- - 🚯 [Road construction during the Roman Empire](http://9gag.com/gag/a2163zd)<!-- MEMES:END -->
+ - 🚯 [Okay](http://9gag.com/gag/angPP2E)<!-- MEMES:END -->
 
 --- 
 
