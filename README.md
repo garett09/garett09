@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope is restored. A legend and his queen.](http://9gag.com/gag/aDDeKPK)
- - 🚯 [Online](http://9gag.com/gag/aBnBAON)
- - 🚯 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
+ - 🚖 [Online](http://9gag.com/gag/aBnBAON)
+ - 🚯 [I wish she was my science teacher in school](http://9gag.com/gag/aBnBpGO)
+ - 🚯 [Might be a good plan.](http://9gag.com/gag/aKmoQej)<!-- MEMES:END -->
 
 --- 
 
