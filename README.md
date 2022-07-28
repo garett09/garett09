@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of 2022’s best books includes a Red Dead Redemption 2 review](https://www.polygon.com/23279214/red-dead-redemption-2-book-homesickness)
- - [Sims 4 Update Accidentally Adds Incest](https://kotaku.com/sims-4-family-dating-bug-new-update-incest-ea-fix-1849343888)
- - [Grand Theft Auto 5: A 2022 re-review](https://www.polygon.com/reviews/23281268/grand-theft-auto-5-re-review-gta-online-playstation-5-xbox-series-x-pc-steam-rockstar-games)<!-- GAME:END -->
+ - [Strange new Philip K. Dick biopic sounds like something Philip K. Dick would write](https://www.polygon.com/23282619/philip-k-dick-alternate-history-movie-jane-amazon-charlize-theron)
+ - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)
+ - [Sims 4 update adds incest bug, kills off rapidly aging Sims](https://www.polygon.com/23282517/the-sims-4-aging-bug-incest-high-school-years-base-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
