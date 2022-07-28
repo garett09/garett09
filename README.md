@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Annapurna Interactive Showcase](https://www.polygon.com/23279700/how-to-watch-annapurna-interactive-showcase-indie-announcements)
- - [Pokémon cards worth $500K stolen, collector says](https://www.polygon.com/23282208/pokemon-trading-card-tcg-stolen-police-collectibles)
- - [Shots Fired At Facebook’s VR Monopoly](https://kotaku.com/facebook-meta-vr-monopoly-ftc-activision-lawsuit-1849343185)<!-- GAME:END -->
+ - [Goat Simulator 3 promises a ‘Digital Downgrade’ edition,  exciting ‘Pre-Udder’ content](https://www.polygon.com/23282493/goat-simulator-3-release-date-preorder-details)
+ - [Warhammer 40k: Darktide has been delayed to the end of fall](https://www.pcgamer.com/warhammer-40k-darktide-has-been-delayed-to-the-end-of-fall)
+ - [Mario Kart 8 Deluxe&#39;s DLC Will Have Brand-New Race Track Amid Returning Courses](https://kotaku.com/mario-kart-8-nintendo-sky-high-sundae-switch-1849343547)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
