@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange new Philip K. Dick biopic sounds like something Philip K. Dick would write](https://www.polygon.com/23282619/philip-k-dick-alternate-history-movie-jane-amazon-charlize-theron)
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)
- - [Sims 4 update adds incest bug, kills off rapidly aging Sims](https://www.polygon.com/23282517/the-sims-4-aging-bug-incest-high-school-years-base-update)<!-- GAME:END -->
+ - [GMing for over 100,000 Players in Citizen Sleeper’s First Free Episode](https://news.xbox.com/en-us/2022/07/28/gming-in-citizen-sleepers-first-free-episode/)
+ - [Elden Ring&#39;s Turtle Pope Wins All-Out Death Battle By Doing Absolutely Nothing](https://kotaku.com/elden-ring-miriel-turtle-pope-fromsoftware-youtube-1849344582)
+ - [Katamari Damacy creator teases his next game, which is a total mystery](https://www.polygon.com/23282597/annapurna-interactive-keita-takahashi-new-game-uvula)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
