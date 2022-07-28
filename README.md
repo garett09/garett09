@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Democrats revive the fight for net neutrality](https://www.theverge.com/2022/7/28/23282483/net-neutrality-ed-markey-bill-fcc-regulations-telecom-broadband-internet)
- - [Best monitor for MacBook Pro in 2022: which to buy from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
- - [Hours before Sky Mavis told users it was hacked, CEO Trung Nguyen moved about $3M worth of Axie Infinity&#39;s main token AXS; Sky Mavis says it was to help users &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/220728/p34#a220728p34)<!-- TECH:END -->
+ - [Sony’s got another queue to buy the PS5, and it’s open now](https://www.theverge.com/2022/7/28/23282807/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)
+ - [Amazon reports Q2 revenue up 7% YoY to $121.2B, $2B net loss vs. $7.8B net income in Q2 2021, and AWS revenue up 33% YoY; stock is up 10%+ after hours &lpar;Business Wire&rpar;](http://www.techmeme.com/220728/p39#a220728p39)
+ - [Harber London Nomad Organiser review: Stylish, but pricey](https://appleinsider.com/articles/22/07/28/harber-london-nomad-organiser-review-stylish-but-pricey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
