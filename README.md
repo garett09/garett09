@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)
- - 🚯 [The council of man approves](http://9gag.com/gag/aOQLgqy)
- - 🚯 [Fermented fruit is the BEST....whoaaa....whoaaaaa](http://9gag.com/gag/axBqxgp)<!-- MEMES:END -->
+ - 🚖 [New fear unlocked](http://9gag.com/gag/aggzMBw)
+ - 🚯 [Words of wisdom](http://9gag.com/gag/angPpdL)
+ - 🚯 [*Jeff Bezos laughing noise*](http://9gag.com/gag/aVxyNrO)<!-- MEMES:END -->
 
 --- 
 
