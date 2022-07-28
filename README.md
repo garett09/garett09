@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Yes, there was just one TV in the living room.](http://9gag.com/gag/aqGoPNj)
- - 🚯 [Hope Americans still asleep but this is annoying](http://9gag.com/gag/aE8mmeN)
- - 🚯 [Okay](http://9gag.com/gag/angPP2E)<!-- MEMES:END -->
+ - 🚯 [Two Karens prevent delivery driver from leaving](http://9gag.com/gag/ay9jj8W)
+ - 🚯 [Otters messing with an orangutan](http://9gag.com/gag/arn7QRy)<!-- MEMES:END -->
 
 --- 
 
