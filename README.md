@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Limit Theory dev releases source code of the cancelled space sim, officially ends project](https://www.pcgamer.com/limit-theory-dev-releases-source-code-of-the-cancelled-space-sim-officially-ends-project)
- - [Corsair Xeneon 32UHD144](https://www.pcgamer.com/corsair-xeneon-32uhd144-gaming-monitor-review)
- - [Cookie Run: Kingdom’s adorable Disney crossover is here](https://www.polygon.com/23279487/disney-cookie-run-kingdom-mickey-mouse)<!-- GAME:END -->
+ - [Seasonic TX-1000](https://www.pcgamer.com/seasonic-tx-1000-power-supply-review)
+ - [Wildly ambitious Half-Life 2 mod sees you play as a Combine soldier with a Portal turret companion](https://www.pcgamer.com/wildly-ambitious-half-life-2-mod-sees-you-play-as-a-combine-soldier-with-a-portal-turret-companion)
+ - [You won&#39;t upgrade your legendary gear in WoW Shadowlands Season 4](https://www.pcgamer.com/you-wont-upgrade-your-legendary-gear-in-wow-shadowlands-season-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
