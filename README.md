@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases second public beta for iOS 16, iPadOS 16, macOS Ventura](https://appleinsider.com/articles/22/07/28/apple-releases-second-public-beta-for-ios-16-ipados-16-macos-ventura?utm_medium=rss)
- - [Google Pixel Buds Pro review: good ANC and battery, improved sound, and no frequent audio dropouts but transparency mode, audio fidelity, and mic need work &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220728/p30#a220728p30)
- - [MrBallen is YouTube’s big podcast breakout](https://www.theverge.com/2022/7/28/23282464/podcast-mrballen-spotify-youtube-apple-rogan)<!-- TECH:END -->
+ - [SoulCycle dangles free classes to Peloton users who trade in their bikes](https://www.theverge.com/2022/7/28/23282384/soulcycle-peloton-free-classes-bike-exchange-fitness)
+ - [US senator grills Apple &amp; Google about fraudulent crypto apps](https://appleinsider.com/articles/22/07/28/us-senator-grills-apple-google-about-fraudulent-crypto-apps?utm_medium=rss)
+ - [This Stamp-Sized Ultrasound Patch Can Image Internal Organs](https://www.wired.com/story/this-stamp-sized-ultrasound-patch-can-image-internal-organs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
