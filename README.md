@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The nuclear war origins behind some of the earliest computer lab games](https://www.polygon.com/23278536/rand-corporation-nuclear-wargames-computer-lab)
- - [GTA Online Reacts To Hated, OP Jetbike Finally Getting Nerfed](https://kotaku.com/gta-online-jetbike-oppressor-mk-ii-nerf-big-update-1849340269)
- - [B.J. Novak’s thriller satire Vengeance could use a few more sharp edges](https://www.polygon.com/reviews/23281343/vengeance-review-bj-novak-podcast-thriller)<!-- GAME:END -->
+ - [Free Play Days – WWE 2K22, Generation Zero, and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2022/07/28/free-play-days-wwe-2k22-generation-zero-and-naruto-to-boruto-shinobi-striker/)
+ - [Bear and Breakfast finds the magic in woodland resort management](https://www.polygon.com/reviews/23281125/bear-and-breakfast-gummy-cat-review-pc-steam-animal-crossing)
+ - [Intel Arc GPUs don&#39;t natively support HDMI 2.1](https://www.pcgamer.com/intel-arc-gpus-dont-natively-support-hdmi-21)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
