@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says Mac sales are getting hit hard by supply constraints](https://www.theverge.com/2022/7/28/23282776/apple-q3-2022-earnings-iphone-services-mac)
- - [People aren’t buying as many PCs — and Intel is feeling the multibillion-dollar burn](https://www.theverge.com/2022/7/28/23282849/intel-q2-2022-earnings-pc-industry-sales)
- - [Roku misses with Q2 revenue up 18% YoY to $764M, vs. $805.2M estimated, and reaches 63.1M active accounts, up 1.8M QoQ; stock down ~26% after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p44#a220728p44)<!-- TECH:END -->
+ - [Instagram&#39;s new feature Dual copies BeReal&#39;s front and back camera capture quirk, but misses that people like BeReal because it&#39;s non-addictive by design &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220728/p46#a220728p46)
+ - [Apple added more than 30 million paid subscriptions in 2022](https://appleinsider.com/articles/22/07/28/apple-has-added-more-than-30-million-paid-subscriptions-in-2022?utm_medium=rss)
+ - [Harber London Nomad Organiser review: Stylish, but pricey](https://appleinsider.com/articles/22/07/28/harber-london-nomad-organiser-review-stylish-but-pricey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
