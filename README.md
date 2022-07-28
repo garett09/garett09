@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the perks pf being an adult](http://9gag.com/gag/aXr65xD)
- - 🚯 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
- - 🚯 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
+ - 🚖 [What happened to the left?](http://9gag.com/gag/aXr65qd)
+ - 🚯 [Be the change you want to see in this world](http://9gag.com/gag/aqGo39P)
+ - 🚯 [Good. Stay that way](http://9gag.com/gag/aVxyANd)<!-- MEMES:END -->
 
 --- 
 
