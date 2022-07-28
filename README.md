@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Backbone One – PlayStation Edition, an officially licensed controller for PlayStation](https://blog.playstation.com/2022/07/28/introducing-backbone-one-playstation-edition-an-officially-licensed-controller-for-playstation/)
- - [New Games with Gold for August 2022](https://news.xbox.com/en-us/2022/07/28/new-games-with-gold-for-august-2022/)
- - [Citizen Sleeper’s first DLC recontextualizes the RPG’s tough decisions](https://www.polygon.com/reviews/23279722/citizen-sleeper-flux-episode-one-dlc-review-cyberpunk-rpg-tabletop)<!-- GAME:END -->
+ - [How to watch the Annapurna Interactive Showcase](https://www.polygon.com/23279700/how-to-watch-annapurna-interactive-showcase-indie-announcements)
+ - [Pokémon cards worth $500K stolen, collector says](https://www.polygon.com/23282208/pokemon-trading-card-tcg-stolen-police-collectibles)
+ - [Shots Fired At Facebook’s VR Monopoly](https://kotaku.com/facebook-meta-vr-monopoly-ftc-activision-lawsuit-1849343185)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
