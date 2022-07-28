@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Garlic butter sauce](http://9gag.com/gag/azep3yj)
- - 🚯 [Manga is destroying comics. I wonder why...](http://9gag.com/gag/aogQwGX)
- - 🚯 [We have all been there](http://9gag.com/gag/aKmooAj)<!-- MEMES:END -->
+ - 🚯 [This book for babies is on another level\u2026](http://9gag.com/gag/a81xO3Z)
+ - 🚯 [Dat backflip](http://9gag.com/gag/a91gGYo)<!-- MEMES:END -->
 
 --- 
 
