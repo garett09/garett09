@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London paid a record price for electricity during its heatwave](https://www.theverge.com/2022/7/27/23280640/london-uk-electricity-blackouts-heatwave-import)
- - [The best routers under $75 for iPhone, iPad, and Mac owners](https://appleinsider.com/articles/22/07/25/the-best-routers-under-75-for-iphone-ipad-and-mac-owners?utm_medium=rss)
- - [Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to &quot;steadily reduce headcount growth over the next year&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220727/p38#a220727p38)<!-- TECH:END -->
+ - [New Ford Mustang Will Debut on Sept. 14 at Detroit Auto Show     - CNET](https://www.cnet.com/roadshow/news/ford-mustang-detroit-auto-show-debut/#ftag=CAD590a51e)
+ - [Samsung Q2: operating profit up 12% YoY to ~$10.8B, revenue up 21.3% YoY to ~$59B, and chip division revenue of ~$22B, citing strong demand and strong US dollar &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/220727/p41#a220727p41)
+ - [Samsung&#39;s Second-Quarter Profit Up 12% on Strong Chip Sales     - CNET](https://www.cnet.com/tech/mobile/samsungs-second-quarter-profit-up-12-on-strong-chip-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
