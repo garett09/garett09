@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram will start asking some users for their race or ethnicity](https://www.theverge.com/2022/7/28/23282148/instagram-race-ethnicity-survey-researchers-you-gov)
- - [Frontegg, a user management service for B2B SaaS providers, has raised a $40M Series B led by Stripes and Insight Partners, bringing its total funding to $70M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220728/p28#a220728p28)
- - [Audio format guide: MP3, M4A, AAC, FLAC, and more](https://www.androidauthority.com/audio-format-guide-mp3-m4a-aac-flac-3190468/)<!-- TECH:END -->
+ - [Apple releases second public beta for iOS 16, iPadOS 16, macOS Ventura](https://appleinsider.com/articles/22/07/28/apple-releases-second-public-beta-for-ios-16-ipados-16-macos-ventura?utm_medium=rss)
+ - [Google Pixel Buds Pro review: good ANC and battery, improved sound, and no frequent audio dropouts but transparency mode, audio fidelity, and mic need work &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220728/p30#a220728p30)
+ - [MrBallen is YouTube’s big podcast breakout](https://www.theverge.com/2022/7/28/23282464/podcast-mrballen-spotify-youtube-apple-rogan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
