@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seasonic TX-1000](https://www.pcgamer.com/seasonic-tx-1000-power-supply-review)
- - [Wildly ambitious Half-Life 2 mod sees you play as a Combine soldier with a Portal turret companion](https://www.pcgamer.com/wildly-ambitious-half-life-2-mod-sees-you-play-as-a-combine-soldier-with-a-portal-turret-companion)
- - [You won&#39;t upgrade your legendary gear in WoW Shadowlands Season 4](https://www.pcgamer.com/you-wont-upgrade-your-legendary-gear-in-wow-shadowlands-season-4)<!-- GAME:END -->
+ - [The nuclear war origins behind some of the earliest computer lab games](https://www.polygon.com/23278536/rand-corporation-nuclear-wargames-computer-lab)
+ - [GTA Online Reacts To Hated, OP Jetbike Finally Getting Nerfed](https://kotaku.com/gta-online-jetbike-oppressor-mk-ii-nerf-big-update-1849340269)
+ - [B.J. Novak’s thriller satire Vengeance could use a few more sharp edges](https://www.polygon.com/reviews/23281343/vengeance-review-bj-novak-podcast-thriller)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
