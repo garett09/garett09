@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Goat Simulator 3 promises a ‘Digital Downgrade’ edition,  exciting ‘Pre-Udder’ content](https://www.polygon.com/23282493/goat-simulator-3-release-date-preorder-details)
- - [Warhammer 40k: Darktide has been delayed to the end of fall](https://www.pcgamer.com/warhammer-40k-darktide-has-been-delayed-to-the-end-of-fall)
- - [Mario Kart 8 Deluxe&#39;s DLC Will Have Brand-New Race Track Amid Returning Courses](https://kotaku.com/mario-kart-8-nintendo-sky-high-sundae-switch-1849343547)<!-- GAME:END -->
+ - [One of 2022’s best books includes a Red Dead Redemption 2 review](https://www.polygon.com/23279214/red-dead-redemption-2-book-homesickness)
+ - [Sims 4 Update Accidentally Adds Incest](https://kotaku.com/sims-4-family-dating-bug-new-update-incest-ea-fix-1849343888)
+ - [Grand Theft Auto 5: A 2022 re-review](https://www.polygon.com/reviews/23281268/grand-theft-auto-5-re-review-gta-online-playstation-5-xbox-series-x-pc-steam-rockstar-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
