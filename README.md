@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Ford Mustang Will Debut on Sept. 14 at Detroit Auto Show     - CNET](https://www.cnet.com/roadshow/news/ford-mustang-detroit-auto-show-debut/#ftag=CAD590a51e)
- - [Samsung Q2: operating profit up 12% YoY to ~$10.8B, revenue up 21.3% YoY to ~$59B, and chip division revenue of ~$22B, citing strong demand and strong US dollar &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/220727/p41#a220727p41)
- - [Samsung&#39;s Second-Quarter Profit Up 12% on Strong Chip Sales     - CNET](https://www.cnet.com/tech/mobile/samsungs-second-quarter-profit-up-12-on-strong-chip-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Former US national security officials form Open Source Intelligence Foundation to promote analysis of public data like social media posts for intel-gathering &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p44#a220727p44)
+ - [Fantasy sports app Underdog has raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado next year &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p43#a220727p43)
+ - [Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p42#a220727p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
