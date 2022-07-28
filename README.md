@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish she was my science teacher in school](http://9gag.com/gag/aBnBpGO)
- - 🚯 [Remarkable voice!](http://9gag.com/gag/aVxyAYP)
+ - 🚖 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)
+ - 🚯 [The council of man approves](http://9gag.com/gag/aOQLgqy)
  - 🚯 [Fermented fruit is the BEST....whoaaa....whoaaaaa](http://9gag.com/gag/axBqxgp)<!-- MEMES:END -->
 
 --- 
