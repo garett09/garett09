@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cookie Run: Kingdom’s adorable Disney crossover is here](https://www.polygon.com/23279487/disney-cookie-run-kingdom-mickey-mouse)
  - [PS5 Beta introduces 1440p support, Gamelists, and more](https://blog.playstation.com/2022/07/28/ps5-beta-introduces-1440p-support-gamelists-and-more/)
- - [Micron starts bleeding edge 232-layer NAND production](https://www.pcgamer.com/micron-starts-bleeding-edge-232-layer-nand-production)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)<!-- GAME:END -->
+ - [PS5 Beta introduces 1440p support, Gamelists, and more](https://blog.playstation.com/2022/07/28/ps5-beta-introduces-1440p-support-gamelists-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
