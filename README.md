@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From chip to battery: Motorola confirms several Razr 2022 specs &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-2022-design-specs-3191155/)
- - [Just bought a Google Pixel 6a? The first update is here](https://www.androidauthority.com/google-pixel-6a-update-3191678/)
- - [Samsung won’t discontinue Exynos, but what’s next? &lpar;Updated: Qualcomm deal&rpar;](https://www.androidauthority.com/samsung-exynos-business-discontinue-denial-3191172/)<!-- TECH:END -->
+ - [New Samsung feature will ensure you rest easy while your phone’s out for repairs](https://www.androidauthority.com/samsung-repair-mode-3191685/)
+ - [Motorola Razr 2022: Everything we know so far &lpar;Updated: July 29&rpar;](https://www.androidauthority.com/motorola-razr-2022-3079713/)
+ - [From chip to battery: Motorola confirms several Razr 2022 specs &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-2022-design-specs-3191155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
