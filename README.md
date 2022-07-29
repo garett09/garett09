@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap announces Sounds Creator Fund to provide monthly grants of up to $100K to artists who are distributing music on Snapchat via DistroKid, starting in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p55#a220728p55)
- - [Amazon&#39;s direct workforce declined by 99K in Q2 to 1.52M, a record QoQ drop, mainly due to attrition in its warehouses following pandemic-driven expansion &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220728/p54#a220728p54)
- - [The Best Fantasy TV Shows You Should Watch On Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-you-should-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US banking regulators order Voyager Digital to stop making &quot;false and misleading&quot; claims that its customers&#39; funds were FDIC insured &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/220729/p1#a220729p1)
+ - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)
+ - [Snap launches a Sounds Creator Fund, awarding up to $100K per month to artists distributing songs on Snapchat via DistroKid, or $5K per song, starting in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p55#a220728p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
