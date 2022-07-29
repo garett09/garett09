@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grazie mille](http://9gag.com/gag/ajgzQP1)
- - 🚯 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)
- - 🚯 [What\u2019s the counter argument?](http://9gag.com/gag/axBqpp1)<!-- MEMES:END -->
+ - 🚖 [We are waiting](http://9gag.com/gag/aogvm0n)
+ - 🚯 [Those were simple day](http://9gag.com/gag/avAM2QM)
+ - 🚯 [Grazie mille](http://9gag.com/gag/ajgzQP1)<!-- MEMES:END -->
 
 --- 
 
