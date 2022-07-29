@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Robinhood CEO Vlad Tenev on the company&#39;s post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more &lpar;Annie Massa/Bloomberg&rpar;](http://www.techmeme.com/220729/p18#a220729p18)
- - [The Best Office Chairs, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-office-chairs-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
- - [The Best Desks: According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-desks-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Latest VMWare Fusion tech preview brings Windows 11 to Apple Silicon Macs](https://appleinsider.com/articles/22/07/29/latest-vmware-fusion-tech-preview-brings-windows-11-to-apple-silicon-macs?utm_medium=rss)
+ - [Best Buy&#39;s epic MacBook, iPad sale knocks up to $350 off Apple products, deals as low as $399](https://appleinsider.com/articles/22/07/29/best-buys-epic-macbook-ipad-sale-knocks-up-to-350-off-apple-products-deals-as-low-as-399?utm_medium=rss)
+ - [Is that a birthday greeting or are you just trying to sell me something?](https://www.theverge.com/2022/7/29/23284214/birthday-emails-automated-corporate-brands-unsubscribe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
