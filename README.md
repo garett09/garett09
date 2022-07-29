@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to Brazil, drug dealers put vegetable oil on asphalt to prevent special forces from advancing](http://9gag.com/gag/aogvz43)
- - 🚯 [5 minutes craft](http://9gag.com/gag/aNP7eQ3)
+ - 🚖 [What is love?](http://9gag.com/gag/aPZEyKV)
+ - 🚯 [Do science they said .. `it&#39;s fun` They said](http://9gag.com/gag/ay9b5mr)
  - 🚯 [Ghosting?](http://9gag.com/gag/aNP7oZ6)<!-- MEMES:END -->
 
 --- 
