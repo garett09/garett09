@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: Tandem t:slim X2&#39;s iPhone connected insulin delivery feature](https://appleinsider.com/articles/22/07/29/hands-on-tandem-tslim-x2s-iphone-connected-insulin-delivery-feature?utm_medium=rss)
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
- - [How to use Steam’s FPS counter](https://www.theverge.com/23283921/steam-fps-counter-how-to)<!-- TECH:END -->
+ - [An interview with Robinhood CEO Vlad Tenev on the company&#39;s post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more &lpar;Annie Massa/Bloomberg&rpar;](http://www.techmeme.com/220729/p18#a220729p18)
+ - [The Best Office Chairs, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-office-chairs-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
+ - [The Best Desks: According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-desks-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
