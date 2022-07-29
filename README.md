@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 1 to 5](https://news.xbox.com/en-us/2022/07/29/next-week-on-xbox-new-games-for-august-1-to-5/)
- - [The Best Indie Sex Games On The ‘Unspeakable’ Itch.io](https://kotaku.com/best-nsfw-sex-video-games-itch-1849345409)
- - [DC League of Super-Pets’ director explains its startling post-credits scene](https://www.polygon.com/23282604/dc-league-of-super-pets-post-credits-scene-black-adam)<!-- GAME:END -->
+ - [Analogue Pocket gets a long-awaited update — here’s what is and isn’t included](https://www.polygon.com/23283645/analogue-pocket-firmware-jailbreak-os-update)
+ - [Paper Girls is acutely aware of how much growing up sucks, time war or no](https://www.polygon.com/23274934/paper-girls-review-season-1)
+ - [Bungie admits over half of Destiny 2&#39;s Control PvP matches are decided &#39;before a single shot is fired&#39;](https://www.pcgamer.com/bungie-admits-over-half-of-destiny-2s-control-pvp-matches-are-decided-before-a-single-shot-is-fired)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
