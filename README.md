@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter says it had ~60K legal demands globally in H2 2021 and it complied fully with ~40% of requests; the US accounted for 20% of account information requests &lpar;Amanda Seitz/Associated Press&rpar;](http://www.techmeme.com/220729/p11#a220729p11)
- - [Kylie Jenner can’t save Instagram forever](https://www.theverge.com/2022/7/29/23282330/instagram-reels-backlash-tiktok-adam-mosseri)
- - [Analogue releases video game from 1962 on the Pocket](https://www.theverge.com/2022/7/29/23282660/analogue-pocket-spacewar-1962)<!-- TECH:END -->
+ - [Is Beyoncé’s Renaissance a Sign of the Apocalypse?](https://www.wired.com/story/beyonce-conspiracy-theories-revelation/)
+ - [As Congress debated the $280B CHIPS Act for 13 months, China&#39;s semiconductor industry surged ahead, producing an advanced 7nm chip to rival those made in Taiwan &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/220729/p12#a220729p12)
+ - [Escaping Gravity Takes a Brutally Honest Look at NASA](https://www.wired.com/2022/07/geeks-guide-escaping-gravity-nasa/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
