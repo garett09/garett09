@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega, Please Let Us Play The Yakuza Samurai Spin-Offs](https://kotaku.com/yakuza-kenzan-ishi-spinoff-ps5-sega-samurai-release-1849341080)
- - [Blizzard Screws Up Overwatch Comp Rules, Teams &#39;Strike&#39; In Protest](https://kotaku.com/overwatch-league-blizzard-esports-scandal-ruling-1849346036)
- - [Ex-Zodiac could almost pass for a lost &#39;90s Star Fox](https://www.pcgamer.com/ex-zodiac-could-almost-pass-for-a-lost-90s-star-fox)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Steam bans award logos and review scores in key art images](https://www.pcgamer.com/steam-bans-award-logos-and-review-scores-in-key-art-images)
+ - [Sega, Please Let Us Play The Yakuza Samurai Spin-Offs](https://kotaku.com/yakuza-kenzan-ishi-spinoff-ps5-sega-samurai-release-1849341080)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
