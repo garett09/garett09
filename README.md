@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Welcome to Brazil, drug dealers put vegetable oil on asphalt to prevent special forces from advancing](http://9gag.com/gag/aogvz43)
- - 🚯 [Please! Puuuullleeeeeeeeaaaze don&#39;t buy into this micro transaction bullshit! BMW and tesla are doing it already. Charging you for stuff you paid for already.. If any of you pay, it will be here forever!](http://9gag.com/gag/ajgz6P8)
- - 🚯 [5 minutes craft](http://9gag.com/gag/aNP7eQ3)<!-- MEMES:END -->
+ - 🚯 [5 minutes craft](http://9gag.com/gag/aNP7eQ3)
+ - 🚯 [Ghosting?](http://9gag.com/gag/aNP7oZ6)<!-- MEMES:END -->
 
 --- 
 
