@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn off Instagram’s feed recommendations for an entire month](https://www.theverge.com/23283844/how-to-snooze-instagram-recommendations-suggested-posts)
- - [Canadian coffee giant Tim Hortons proposes offering customers a free hot drink and baked good as settlement for tracking their location data for over a year &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220729/p14#a220729p14)
- - [Valve says you’re getting your Steam Deck by the end of the year](https://www.theverge.com/2022/7/29/23283839/steam-deck-pre-order-reservation-valve)<!-- TECH:END -->
+ - [AT&amp;T is about to get away with its bogus $1.99 ‘administrative fee’](https://www.theverge.com/2022/5/12/23069156/att-vianu-lawsuit-class-action-administrative-fee)
+ - [Apple testing new App Store ad placements very soon](https://appleinsider.com/articles/22/07/29/apple-testing-new-app-store-ad-placements-very-soon?utm_medium=rss)
+ - [Google Play Store will throw the ban hammer on copycat apps and some in-app ads](https://www.androidauthority.com/google-play-store-copycat-apps-3191920/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
