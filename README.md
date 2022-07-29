@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Analogue Pocket gets a long-awaited update — here’s what is and isn’t included](https://www.polygon.com/23283645/analogue-pocket-firmware-jailbreak-os-update)
- - [Paper Girls is acutely aware of how much growing up sucks, time war or no](https://www.polygon.com/23274934/paper-girls-review-season-1)
- - [Bungie admits over half of Destiny 2&#39;s Control PvP matches are decided &#39;before a single shot is fired&#39;](https://www.pcgamer.com/bungie-admits-over-half-of-destiny-2s-control-pvp-matches-are-decided-before-a-single-shot-is-fired)<!-- GAME:END -->
+ - [Valve’s New Art Rules Will Change How Games Catch Your Eye](https://kotaku.com/valve-steam-pc-games-developers-reviews-awards-1849348260)
+ - [Share of the Week: Stray](https://blog.playstation.com/2022/07/29/share-of-the-week-stray/)
+ - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
