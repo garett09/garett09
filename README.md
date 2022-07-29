@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gonna need a bigger boat](http://9gag.com/gag/a31X9om)
+ - 🚖 [Slow clap](http://9gag.com/gag/aDDeBq7)
  - 🚯 [Please somebody give this man a beer](http://9gag.com/gag/aGz43B5)
- - 🚯 [Burn baby Burn](http://9gag.com/gag/aE8me2p)<!-- MEMES:END -->
+ - 🚯 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)<!-- MEMES:END -->
 
 --- 
 
