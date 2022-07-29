@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New fear unlocked](http://9gag.com/gag/aggzMBw)
- - 🚯 [Words of wisdom](http://9gag.com/gag/angPpdL)
- - 🚯 [*Jeff Bezos laughing noise*](http://9gag.com/gag/aVxyNrO)<!-- MEMES:END -->
+ - 🚖 [Words of wisdom](http://9gag.com/gag/angPpdL)
+ - 🚯 [Gonna need a bigger boat](http://9gag.com/gag/a31X9om)
+ - 🚯 [Be the change you want to see in this world](http://9gag.com/gag/aqGo39P)<!-- MEMES:END -->
 
 --- 
 
