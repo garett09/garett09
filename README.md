@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to run iOS apps on macOS Monterey in 2022](https://appleinsider.com/inside/macos-monterey/tips/how-to-run-ios-apps-on-macos-monterey-in-2022?utm_medium=rss)
- - [After Going Solar, I Felt the Bliss of Sudden Abundance](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
- - [Thread is Matter’s secret sauce for a better smart home](https://www.theverge.com/23165855/thread-smart-home-protocol-matter-apple-google-interview)<!-- TECH:END -->
+ - [Twitter v. Elon Musk trial date set to start October 17th](https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware)
+ - [Daily deals July 29: $240 Insignia 50-inch 4K TV, 33% off 1TB microSDXC card, $220 off Eufy RoboVac, more](https://appleinsider.com/articles/22/07/29/daily-deals-july-29-240-insignia-50-inch-4k-tv-33-off-1tb-microsdxc-card-220-off-eufy-robovac-more?utm_medium=rss)
+ - [Here are the best accessories for your new PlayStation 5](https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
