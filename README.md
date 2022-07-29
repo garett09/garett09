@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter v. Elon Musk trial date set to start October 17th](https://www.theverge.com/2022/7/29/23283577/elon-musk-twitter-lawsuit-trial-start-date-delaware)
- - [Daily deals July 29: $240 Insignia 50-inch 4K TV, 33% off 1TB microSDXC card, $220 off Eufy RoboVac, more](https://appleinsider.com/articles/22/07/29/daily-deals-july-29-240-insignia-50-inch-4k-tv-33-off-1tb-microsdxc-card-220-off-eufy-robovac-more?utm_medium=rss)
- - [Here are the best accessories for your new PlayStation 5](https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony)<!-- TECH:END -->
+ - [The macOS Monterey user&#39;s guide to Keychain Access password management](https://appleinsider.com/inside/macos-ventura/tips/the-macos-monterey-users-guide-to-keychain-access-password-management?utm_medium=rss)
+ - [Apple TV Plus’ new thriller Surface keeps you completely in the dark](https://www.theverge.com/23282239/surface-review-apple-tv-plus)
+ - [Eve Motion 2 Review: New capabilities make up for a boring design](https://appleinsider.com/articles/22/07/29/eve-motion-2-review-new-capabilities-make-up-for-a-boring-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
