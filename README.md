@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve’s New Art Rules Will Change How Games Catch Your Eye](https://kotaku.com/valve-steam-pc-games-developers-reviews-awards-1849348260)
- - [Share of the Week: Stray](https://blog.playstation.com/2022/07/29/share-of-the-week-stray/)
- - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)<!-- GAME:END -->
+ - [Will Smith after The Slap: ‘This is probably irreparable’](https://www.polygon.com/23283913/will-smith-slap-apology-video-youtube-oscars)
+ - [How to beat Malenia in Elden Ring](https://www.pcgamer.com/hand-of-malenia-elden-ring-location-miquella)
+ - [Tomb Raider’s movie rights are up for grabs, which could mean another reboot](https://www.polygon.com/23283651/tomb-raider-movie-reboot-lara-croft-rights-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
