@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US banking regulators order Voyager Digital to stop making &quot;false and misleading&quot; claims that its customers&#39; funds were FDIC insured &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/220729/p1#a220729p1)
- - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)
- - [Snap launches a Sounds Creator Fund, awarding up to $100K per month to artists distributing songs on Snapchat via DistroKid, or $5K per song, starting in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p55#a220728p55)<!-- TECH:END -->
+ - [Battle-royale game BGMI, with 16.5M MAUs in India, delisted from iOS and Android app stores after Indian government ban, two years after a ban of Krafton&#39;s PUBG &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220729/p2#a220729p2)
+ - [US banking regulators order Voyager Digital to cease and desist from making &quot;false and misleading&quot; claims that its customers&#39; funds were insured by the FDIC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/220729/p1#a220729p1)
+ - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
