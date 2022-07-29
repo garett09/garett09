@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bring the Empire back](http://9gag.com/gag/a610rOe)
- - 🚯 [Liberals protesters and their spirit animals](http://9gag.com/gag/a0Zrv1X)
- - 🚯 [Don&#39;t be stupid](http://9gag.com/gag/aKmQw96)<!-- MEMES:END -->
+ - 🚖 [Unnecessarily high quality](http://9gag.com/gag/angmepV)
+ - 🚯 [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
+ - 🚯 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)<!-- MEMES:END -->
 
 --- 
 
