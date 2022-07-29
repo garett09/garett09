@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unnecessarily high quality](http://9gag.com/gag/angmepV)
- - 🚯 [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
+ - 🚖 [If only.](http://9gag.com/gag/aKmQwXb)
+ - 🚯 [Just a normal day in RJ](http://9gag.com/gag/a91xdd0)
  - 🚯 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)<!-- MEMES:END -->
 
 --- 
