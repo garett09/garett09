@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those were simple day](http://9gag.com/gag/avAM2QM)
- - 🚯 [How do you call this trick?](http://9gag.com/gag/aNPEyx0)
+ - 🚖 [PSA](http://9gag.com/gag/angmepL)
+ - 🚯 [Women..](http://9gag.com/gag/axBLEXW)
  - 🚯 [Grazie mille](http://9gag.com/gag/ajgzQP1)<!-- MEMES:END -->
 
 --- 
