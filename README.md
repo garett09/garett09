@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone made P.T. inside Halo Infinite&#39;s leaked Forge mode](https://www.pcgamer.com/someone-made-pt-inside-halo-infinites-leaked-forge-mode)
- - [You Gotta Check Out This Stylish, Gender-Swapped Scott Pilgrim-Like RPG](https://kotaku.com/thirsty-suitors-annapurna-outerloop-games-rpg-1849345581)
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
+ - [Sega, Please Let Us Play The Yakuza Samurai Spin-Offs](https://kotaku.com/yakuza-kenzan-ishi-spinoff-ps5-sega-samurai-release-1849341080)
+ - [Blizzard Screws Up Overwatch Comp Rules, Teams &#39;Strike&#39; In Protest](https://kotaku.com/overwatch-league-blizzard-esports-scandal-ruling-1849346036)
+ - [Ex-Zodiac could almost pass for a lost &#39;90s Star Fox](https://www.pcgamer.com/ex-zodiac-could-almost-pass-for-a-lost-90s-star-fox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
