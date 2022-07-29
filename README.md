@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are waiting](http://9gag.com/gag/aogvm0n)
- - 🚯 [You got any more of these?](http://9gag.com/gag/awzWRAB)
- - 🚯 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)<!-- MEMES:END -->
+ - 🚖 [Slow clap](http://9gag.com/gag/aDDeBq7)
+ - 🚯 [US vs EU](http://9gag.com/gag/aDDepzx)
+ - 🚯 [What\u2019s the counter argument?](http://9gag.com/gag/axBqpp1)<!-- MEMES:END -->
 
 --- 
 
