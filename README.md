@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slow clap](http://9gag.com/gag/aDDeBq7)
- - 🚯 [Please somebody give this man a beer](http://9gag.com/gag/aGz43B5)
+ - 🚖 [We are waiting](http://9gag.com/gag/aogvm0n)
+ - 🚯 [You got any more of these?](http://9gag.com/gag/awzWRAB)
  - 🚯 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)<!-- MEMES:END -->
 
 --- 
