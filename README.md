@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [So Far, The Dungeons And Dragons&#39; Movie Chooses Marvel Over Everything That Makes D&amp;D Great](https://kotaku.com/dnd-movie-honor-among-thieves-trailer-marvel-1849345237)
- - [How developers are using PS5’s DualSense controller and 3D Audio to make their games more immersive](https://blog.playstation.com/2022/07/29/how-developers-are-using-ps5s-dualsense-controller-and-3d-audio-to-make-their-games-more-immersive/)
- - [The fear of the early internet, as seen through ’90s TV shows](https://www.polygon.com/23278131/reboot-superhuman-samurai-syber-squad-analysis-retrospective)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 1 to 5](https://news.xbox.com/en-us/2022/07/29/next-week-on-xbox-new-games-for-august-1-to-5/)
+ - [The Best Indie Sex Games On The ‘Unspeakable’ Itch.io](https://kotaku.com/best-nsfw-sex-video-games-itch-1849345409)
+ - [DC League of Super-Pets’ director explains its startling post-credits scene](https://www.polygon.com/23282604/dc-league-of-super-pets-post-credits-scene-black-adam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
