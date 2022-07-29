@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grounded gets official 1.0 launch date, will be &#39;biggest update ever&#39;](https://www.pcgamer.com/grounded-gets-official-10-launch-date-will-be-biggest-update-ever)
- - [Intel&#39;s faltering GPU launch has only made matters worse as it reports rare loss](https://www.pcgamer.com/intels-faltering-gpu-launch-has-only-made-matters-worse-as-it-reports-rare-loss)
- - [Intense Half-Life: Alyx mod &#39;Incursion&#39; launches on Steam Workshop](https://www.pcgamer.com/intense-half-life-alyx-mod-incursion-launches-on-steam-workshop)<!-- GAME:END -->
+ - [Ben Affleck will return as Batman in Aquaman 2](https://www.polygon.com/23283494/ben-affleck-batman-aquaman-2-the-flash-cast)
+ - [The Sims 4 prom: How to make this most of the High School Years event](https://www.pcgamer.com/sims-4-prom)
+ - [A heroic artist has immortalised the Choco Taco as a 3D asset](https://www.pcgamer.com/a-heroic-artist-has-immortalised-the-choco-taco-as-a-3d-asset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
