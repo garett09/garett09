@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The macOS Monterey user&#39;s guide to Keychain Access password management](https://appleinsider.com/inside/macos-ventura/tips/the-macos-monterey-users-guide-to-keychain-access-password-management?utm_medium=rss)
- - [Apple TV Plus’ new thriller Surface keeps you completely in the dark](https://www.theverge.com/23282239/surface-review-apple-tv-plus)
- - [Eve Motion 2 Review: New capabilities make up for a boring design](https://appleinsider.com/articles/22/07/29/eve-motion-2-review-new-capabilities-make-up-for-a-boring-design?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter says it had ~60K legal demands globally in H2 2021 and it complied fully with ~40% of requests; the US accounted for 20% of account information requests &lpar;Amanda Seitz/Associated Press&rpar;](http://www.techmeme.com/220729/p11#a220729p11)
+ - [Kylie Jenner can’t save Instagram forever](https://www.theverge.com/2022/7/29/23282330/instagram-reels-backlash-tiktok-adam-mosseri)
+ - [Analogue releases video game from 1962 on the Pocket](https://www.theverge.com/2022/7/29/23282660/analogue-pocket-spacewar-1962)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
