@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If only.](http://9gag.com/gag/aKmQwXb)
- - 🚯 [Just a normal day in RJ](http://9gag.com/gag/a91xdd0)
- - 🚯 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)<!-- MEMES:END -->
+ - 🚖 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)
+ - 🚯 [I like her, she seems unstable](http://9gag.com/gag/aVxpjL8)
+ - 🚯 [If only.](http://9gag.com/gag/aKmQwXb)<!-- MEMES:END -->
 
 --- 
 
