@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Harry Potter Movies Are Leaving HBO Max for Peacock     - CNET](https://www.cnet.com/tech/home-entertainment/the-harry-potter-movies-are-leaving-hbo-max-for-peacock/#ftag=CAD590a51e)
- - [Intel is winding down its Optane memory business, incurring a $559M inventory impairment; it&#39;s Intel&#39;s sixth non-core business sold under CEO Pat Gelsinger &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220728/p48#a220728p48)
- - [Spotify&#39;s &#39;Friends Mix&#39; Adds Automatic Mixtapes From Your Friends List     - CNET](https://www.cnet.com/culture/entertainment/spotify-adds-new-way-to-get-recommendations-from-your-friends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Twitter Blue subscription is getting more expensive](https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99)
+ - [A look at Apple&#39;s union-busting campaign, as some retail workers ask management to stop inflicting &quot;traumatic&quot; pressure on other workers trying to unionize &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220728/p52#a220728p52)
+ - [More People Should Watch The Best Kids TV Show on the Planet     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-kids-tv-show-on-the-planet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
