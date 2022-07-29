@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
- - 🚯 [What a fairy tail](http://9gag.com/gag/aRrbw77)
- - 🚯 [How to do pull ups in home](http://9gag.com/gag/a41X4j6)<!-- MEMES:END -->
+ - 🚖 [Look, there are the good billionaires and the bad billionaires OK.](http://9gag.com/gag/ajgzrGG)
+ - 🚯 [Don&#39;t be stupid](http://9gag.com/gag/aKmQw96)
+ - 🚯 [Ghosting?](http://9gag.com/gag/aNP7oZ6)<!-- MEMES:END -->
 
 --- 
 
