@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Words of wisdom](http://9gag.com/gag/angPpdL)
- - 🚯 [Gonna need a bigger boat](http://9gag.com/gag/a31X9om)
- - 🚯 [Be the change you want to see in this world](http://9gag.com/gag/aqGo39P)<!-- MEMES:END -->
+ - 🚖 [Gonna need a bigger boat](http://9gag.com/gag/a31X9om)
+ - 🚯 [Please somebody give this man a beer](http://9gag.com/gag/aGz43B5)
+ - 🚯 [Burn baby Burn](http://9gag.com/gag/aE8me2p)<!-- MEMES:END -->
 
 --- 
 
