@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU is considering creating a new directorate headed by two top antitrust officials, amid concerns EU competition watchdog may struggle to enforce DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220729/p5#a220729p5)
- - [Daily Authority: ⚰️ Exynos extinction?](https://www.androidauthority.com/daily-authority-july-29-2022-3191701/)
- - [Samsung Galaxy Buds 2 Pro: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-release-date-rumors-specs-price-features-3191330/)<!-- TECH:END -->
+ - [How to Prevent Another European Transport Meltdown](https://www.wired.com/story/europe-transport-heat-wave-solutions/)
+ - [Drone Contraband Deliveries Are Rampant at US Prisons](https://www.wired.com/story/drone-contraband-deliveries-prisons-united-states/)
+ - [The Secret Weapon of the New Climate Bill? Tax Credits](https://www.wired.com/story/the-secret-weapon-of-the-new-climate-bill-tax-credits/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
