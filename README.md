@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do science they said .. `it&#39;s fun` They said](http://9gag.com/gag/ay9b5mr)
- - 🚯 [If only.](http://9gag.com/gag/aKmQwXb)
- - 🚯 [5 minutes craft](http://9gag.com/gag/aNP7eQ3)<!-- MEMES:END -->
+ - 🚖 [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
+ - 🚯 [What a fairy tail](http://9gag.com/gag/aRrbw77)
+ - 🚯 [How to do pull ups in home](http://9gag.com/gag/a41X4j6)<!-- MEMES:END -->
 
 --- 
 
