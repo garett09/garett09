@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Twitter Blue subscription is getting more expensive](https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99)
- - [A look at Apple&#39;s union-busting campaign, as some retail workers ask management to stop inflicting &quot;traumatic&quot; pressure on other workers trying to unionize &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220728/p52#a220728p52)
- - [More People Should Watch The Best Kids TV Show on the Planet     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-kids-tv-show-on-the-planet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snap announces Sounds Creator Fund to provide monthly grants of up to $100K to artists who are distributing music on Snapchat via DistroKid, starting in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p55#a220728p55)
+ - [Amazon&#39;s direct workforce declined by 99K in Q2 to 1.52M, a record QoQ drop, mainly due to attrition in its warehouses following pandemic-driven expansion &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220728/p54#a220728p54)
+ - [The Best Fantasy TV Shows You Should Watch On Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-you-should-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
