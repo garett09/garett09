@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazilian prosecutors ask WhatsApp to delay its Communities feature launch in Brazil until January to avoid spreading misinformation around the October election &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/220729/p20#a220729p20)
- - [Apple is planning to put ads right in the App Store’s Today tab](https://www.theverge.com/2022/7/29/23284272/apple-app-store-ads-today-tab-page-search)
- - [Samsung has a new feature that will hide your pics during a phone repair](https://www.theverge.com/2022/7/29/23284292/samsung-repair-mode-protect-personal-data-accounts-messages-pictures-korea-galaxy-s21)<!-- TECH:END -->
+ - [Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220729/p22#a220729p22)
+ - [How to change your YouTube channel URL](https://www.androidauthority.com/change-youtube-channel-url-3191995/)
+ - [$7 billion verdict awarded after Charter Spectrum tried to forge documents in a murder case](https://www.theverge.com/2022/7/29/23282522/charter-spectrum-customer-murder-forged-terms-of-service)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
