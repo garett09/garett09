@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony beats estimates with Q1 operating profit of $2.3B, PS5 sales of 2.4M, up from 2.3M YoY, cuts profit outlook from $8.7B to $8.3B for FY ending March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220729/p4#a220729p4)
- - [See exactly what Samsung’s next foldables look like in leaked marketing renders](https://www.theverge.com/2022/7/29/23283431/samsung-galaxy-z-flip-fold-4-press-images-leak-evan-blass-colors)
- - [As inflation rises and the economy contracts, some US Twitch streamers are losing promotional deals, forcing them to rely on meager ad earnings from the service &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220729/p3#a220729p3)<!-- TECH:END -->
+ - [Sources: EU is considering creating a new directorate headed by two top antitrust officials, amid concerns EU competition watchdog may struggle to enforce DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220729/p5#a220729p5)
+ - [Daily Authority: ⚰️ Exynos extinction?](https://www.androidauthority.com/daily-authority-july-29-2022-3191701/)
+ - [Samsung Galaxy Buds 2 Pro: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-release-date-rumors-specs-price-features-3191330/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
