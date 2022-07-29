@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Prevent Another European Transport Meltdown](https://www.wired.com/story/europe-transport-heat-wave-solutions/)
- - [Drone Contraband Deliveries Are Rampant at US Prisons](https://www.wired.com/story/drone-contraband-deliveries-prisons-united-states/)
- - [The Secret Weapon of the New Climate Bill? Tax Credits](https://www.wired.com/story/the-secret-weapon-of-the-new-climate-bill-tax-credits/)<!-- TECH:END -->
+ - [How to run iOS apps on macOS Monterey in 2022](https://appleinsider.com/inside/macos-monterey/tips/how-to-run-ios-apps-on-macos-monterey-in-2022?utm_medium=rss)
+ - [After Going Solar, I Felt the Bliss of Sudden Abundance](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
+ - [Thread is Matter’s secret sauce for a better smart home](https://www.theverge.com/23165855/thread-smart-home-protocol-matter-apple-google-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
