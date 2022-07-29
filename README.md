@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hitting the high note](http://9gag.com/gag/abgnjNE)
- - 🚯 [When a German visits the States for the first time](http://9gag.com/gag/aE8me1x)
- - 🚯 [Getting drunk tonight](http://9gag.com/gag/axBqpzn)<!-- MEMES:END -->
+ - 🚖 [Grazie mille](http://9gag.com/gag/ajgzQP1)
+ - 🚯 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)
+ - 🚯 [What\u2019s the counter argument?](http://9gag.com/gag/axBqpp1)<!-- MEMES:END -->
 
 --- 
 
