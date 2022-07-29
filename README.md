@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are waiting](http://9gag.com/gag/aogvm0n)
- - 🚯 [Those were simple day](http://9gag.com/gag/avAM2QM)
+ - 🚖 [Those were simple day](http://9gag.com/gag/avAM2QM)
+ - 🚯 [How do you call this trick?](http://9gag.com/gag/aNPEyx0)
  - 🚯 [Grazie mille](http://9gag.com/gag/ajgzQP1)<!-- MEMES:END -->
 
 --- 
