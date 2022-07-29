@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like her, she seems unstable](http://9gag.com/gag/aVxpjL8)
- - 🚯 [Reason as an absolute](http://9gag.com/gag/aQXLPWW)
- - 🚯 [How to do pull ups in home](http://9gag.com/gag/a41X4j6)<!-- MEMES:END -->
+ - 🚖 [Do science they said .. `it&#39;s fun` They said](http://9gag.com/gag/ay9b5mr)
+ - 🚯 [If only.](http://9gag.com/gag/aKmQwXb)
+ - 🚯 [5 minutes craft](http://9gag.com/gag/aNP7eQ3)<!-- MEMES:END -->
 
 --- 
 
