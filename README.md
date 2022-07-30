@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never satisfied](http://9gag.com/gag/aQXLnBd)
- - 🚯 [Freiburg, Germany](http://9gag.com/gag/adgGYnB)
- - 🚯 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
+ - 🚯 [Fxcking b*tch](http://9gag.com/gag/aYr3WNv)
+ - 🚯 [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)<!-- MEMES:END -->
 
 --- 
 
