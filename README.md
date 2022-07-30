@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise and fall of Bird, now a penny stock with a public market cap under $140M, as valuations in its sector collapse &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220730/p9#a220730p9)
- - [Indonesia bans access to Steam, Epic Games, PayPal, and more](https://www.theverge.com/2022/7/30/23285091/indonesia-bans-access-steam-epic-games-paypal-yahoo)
- - [I’ve been on 12 trips in one year — these are my 10 favorite travel products](https://www.androidauthority.com/favorite-travel-products-3189594/)<!-- TECH:END -->
+ - [Tim Hortons offers free coffee to settle mobile app class action lawsuits](https://appleinsider.com/articles/22/07/30/tim-hortons-offers-free-coffee-to-settle-mobile-app-class-action-lawsuits?utm_medium=rss)
+ - [Biden Again Tests Positive for COVID, in a &#39;Rebound&#39; Case     - CNET](https://www.cnet.com/health/biden-again-tests-positive-for-covid-in-a-rebound-case/#ftag=CAD590a51e)
+ - [China’s uncontrolled rocket crashes over the Indian Ocean](https://www.theverge.com/2022/7/30/23285239/china-uncontrolled-rocket-crashes-down-indian-ocean-long-march-5b-borneo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
