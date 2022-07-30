@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
- - 🚯 [Fxcking b*tch](http://9gag.com/gag/aYr3WNv)
+ - 🚖 [Making friends with strangers](http://9gag.com/gag/aM4oQgA)
+ - 🚯 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
  - 🚯 [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)<!-- MEMES:END -->
 
 --- 
