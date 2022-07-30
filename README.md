@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)
- - 🚯 [Literally me now, sometimes i feel like a god, sometimes i feel like a looser](http://9gag.com/gag/aqGPLYj)
- - 🚯 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
+ - 🚖 [German is super easy, trust me](http://9gag.com/gag/angm1xE)
+ - 🚯 [Drunk dude pepper sprays 3 people after his phone gets slapped to the ground](http://9gag.com/gag/a91x7D0)
+ - 🚯 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)<!-- MEMES:END -->
 
 --- 
 
