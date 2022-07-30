@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chuck Berry&#39;s reaction to Yoko Ono screaming while playing John Lennon in 1972](http://9gag.com/gag/aXryE66)
- - 🚯 [There must be a better way bro.](http://9gag.com/gag/aqGPZqv)
- - 🚯 [What is love?](http://9gag.com/gag/aPZEyKV)<!-- MEMES:END -->
+ - 🚖 [There must be a better way bro.](http://9gag.com/gag/aqGPZqv)
+ - 🚯 [What is love?](http://9gag.com/gag/aPZEyKV)
+ - 🚯 [Cats are not from this world...](http://9gag.com/gag/abgNqbB)<!-- MEMES:END -->
 
 --- 
 
