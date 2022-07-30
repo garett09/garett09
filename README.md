@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There must be a better way bro.](http://9gag.com/gag/aqGPZqv)
- - 🚯 [What is love?](http://9gag.com/gag/aPZEyKV)
- - 🚯 [Cats are not from this world...](http://9gag.com/gag/abgNqbB)<!-- MEMES:END -->
+ - 🚖 [Imagine modern karens being introduced to kids from the 90&#39;s](http://9gag.com/gag/aM4orZ6)
+ - 🚯 [And they&#39;ll come](http://9gag.com/gag/a610yEN)
+ - 🚯 [Man surprises his lock down host with a visit.](http://9gag.com/gag/aVxpXQK)<!-- MEMES:END -->
 
 --- 
 
