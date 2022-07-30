@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Selfish.](http://9gag.com/gag/axBLj9K)
- - 🚯 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)
+ - 🚖 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)
+ - 🚯 [German is super easy, trust me](http://9gag.com/gag/angm1xE)
  - 🚯 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
 
 --- 
