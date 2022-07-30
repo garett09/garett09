@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sapiens wants to take you from Stone Age huts to Medieval castles](https://www.pcgamer.com/sapiens-wants-to-take-you-from-stone-age-huts-to-medieval-castles)
  - [The creator of Disco Elysium is looking for artists with &#39;a love of sci-fi and space&#39;](https://www.pcgamer.com/the-creator-of-disco-elysium-is-looking-for-artists-with-a-love-of-sci-fi-and-space)
- - [7 Windows settings we recommend](https://www.pcgamer.com/7-windows-settings-we-recommend)
- - [Artist alleges Call of Duty plagiarized a military dog skin](https://www.pcgamer.com/artist-alleges-call-of-duty-plagiarized-a-military-dog-skin)<!-- GAME:END -->
+ - [7 Windows settings we recommend](https://www.pcgamer.com/7-windows-settings-we-recommend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
