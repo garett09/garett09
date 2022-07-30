@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)
- - 🚯 [Bean](http://9gag.com/gag/aOQMV6r)
+ - 🚖 [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)
+ - 🚯 [Literally me now, sometimes i feel like a god, sometimes i feel like a looser](http://9gag.com/gag/aqGPLYj)
  - 🚯 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
 
 --- 
