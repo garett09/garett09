@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There Is Some Good in &#39;No-Recipe&#39; Cookbooks](https://www.wired.com/story/no-recipe-recipes/)
- - [14 Great Deals on Laptops, Phones, and TVs](https://www.wired.com/story/weekend-deals-july-30-2022/)
- - [Goodbye to the BMW i3—an Icon of the 21st Century](https://www.wired.com/story/goodbye-bmw-i3-21st-century-icon/)<!-- TECH:END -->
+ - [How Modi&#39;s government is increasingly skirting India&#39;s own internet rules to crack down on free speech and dissent on social media, under a &quot;fake news&quot; pretext &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220730/p4#a220730p4)
+ - [Forget in-display, this is the golden age of side-mounted fingerprint scanners](https://www.androidauthority.com/side-mounted-fingerprint-scanners-2022-3190791/)
+ - [What Is Google Play Pass? Should You Subscribe?](https://www.wired.com/story/what-is-google-play-pass/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
