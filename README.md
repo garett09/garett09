@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Apparently` civil airplane going to Taiwan.](http://9gag.com/gag/a3167Z8)
- - 🚯 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)
- - 🚯 [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)<!-- MEMES:END -->
+ - 🚖 [Gumball was the last good cartoon](http://9gag.com/gag/azeW8Mq)
+ - 🚯 [My pants would be drooling with poop](http://9gag.com/gag/a316qjN)
+ - 🚯 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)<!-- MEMES:END -->
 
 --- 
 
