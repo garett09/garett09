@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making friends with strangers](http://9gag.com/gag/aM4oQgA)
- - 🚯 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
- - 🚯 [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)<!-- MEMES:END -->
+ - 🚖 [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)
+ - 🚯 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)
+ - 🚯 [A wise man once said, `If you can&#39;t beat them, join them`](http://9gag.com/gag/abgN00E)<!-- MEMES:END -->
 
 --- 
 
