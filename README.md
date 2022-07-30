@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)
- - 🚯 [I just realized that if everybody continues to move into these overpriced cities, the prices there will continue to grow](http://9gag.com/gag/aE897oo)
- - 🚯 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)<!-- MEMES:END -->
+ - 🚖 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)
+ - 🚯 [Bean](http://9gag.com/gag/aOQMV6r)
+ - 🚯 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
 
 --- 
 
