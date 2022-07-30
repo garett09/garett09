@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German is super easy, trust me](http://9gag.com/gag/angm1xE)
- - 🚯 [Drunk dude pepper sprays 3 people after his phone gets slapped to the ground](http://9gag.com/gag/a91x7D0)
- - 🚯 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)<!-- MEMES:END -->
+ - 🚖 [Selfish.](http://9gag.com/gag/axBLj9K)
+ - 🚯 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)
+ - 🚯 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
 
 --- 
 
