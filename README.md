@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)
- - 🚯 [Her friends ain&#39;t gonna believe..](http://9gag.com/gag/a81RjDd)
- - 🚯 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)<!-- MEMES:END -->
+ - 🚖 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)
+ - 🚯 [I just realized that if everybody continues to move into these overpriced cities, the prices there will continue to grow](http://9gag.com/gag/aE897oo)
+ - 🚯 [...](http://9gag.com/gag/a41XYm6)<!-- MEMES:END -->
 
 --- 
 
