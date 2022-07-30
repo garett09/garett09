@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Modi&#39;s government is increasingly skirting India&#39;s own internet rules to crack down on free speech and dissent on social media, under a &quot;fake news&quot; pretext &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220730/p4#a220730p4)
- - [Forget in-display, this is the golden age of side-mounted fingerprint scanners](https://www.androidauthority.com/side-mounted-fingerprint-scanners-2022-3190791/)
- - [What Is Google Play Pass? Should You Subscribe?](https://www.wired.com/story/what-is-google-play-pass/)<!-- TECH:END -->
+ - [The Best Cheap Phones for Almost Every Budget](https://www.wired.com/story/best-cheap-phones/)
+ - [You Pay More When Companies Get Hacked](https://www.wired.com/story/cyber-tax-data-breach-cost-security-roundup/)
+ - [Google Maps Gets More Bike-Friendly](https://www.wired.com/story/google-maps-adds-more-bike-directions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
