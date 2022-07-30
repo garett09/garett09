@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And they&#39;ll come](http://9gag.com/gag/a610yEN)
- - 🚯 [How are we gonna do this?](http://9gag.com/gag/arnQeqK)
+ - 🚖 [Never satisfied](http://9gag.com/gag/aQXLnBd)
+ - 🚯 [Freiburg, Germany](http://9gag.com/gag/adgGYnB)
  - 🚯 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)<!-- MEMES:END -->
 
 --- 
