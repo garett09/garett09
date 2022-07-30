@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber will start showing drivers how much they’ll be paid for accepting a trip](https://www.theverge.com/2022/7/29/23284543/uber-driver-app-pay-information-trip-radar)
- - [Samsung announces a feature that keeps users&#39; data secure during a phone repair, starting with the Galaxy S21 series in South Korea &lpar;Sagar Naresh/SamMobile&rpar;](http://www.techmeme.com/220729/p23#a220729p23)
- - [Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220729/p22#a220729p22)<!-- TECH:END -->
+ - [PriceLabs, which uses AI to help owners and managers of vacation homes and short-term rentals automate dynamic pricing, has raised $30M from Summit Partners &lpar;The Economic Times&rpar;](http://www.techmeme.com/220729/p27#a220729p27)
+ - [RPA Supervisor, which lets companies integrate and manage their robotic process automation tools, has raised a $20M Series A led by Dawn Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220729/p26#a220729p26)
+ - [Best Car Loans and Lenders for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-car-loans-and-lenders/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
