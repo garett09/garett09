@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220729/p22#a220729p22)
- - [How to change your YouTube channel URL](https://www.androidauthority.com/change-youtube-channel-url-3191995/)
- - [$7 billion verdict awarded after Charter Spectrum tried to forge documents in a murder case](https://www.theverge.com/2022/7/29/23282522/charter-spectrum-customer-murder-forged-terms-of-service)<!-- TECH:END -->
+ - [Uber will start showing drivers how much they’ll be paid for accepting a trip](https://www.theverge.com/2022/7/29/23284543/uber-driver-app-pay-information-trip-radar)
+ - [Samsung announces a feature that keeps users&#39; data secure during a phone repair, starting with the Galaxy S21 series in South Korea &lpar;Sagar Naresh/SamMobile&rpar;](http://www.techmeme.com/220729/p23#a220729p23)
+ - [Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220729/p22#a220729p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
