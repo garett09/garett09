@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iOS 15.6 Update: Everything New on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/apples-ios-15-6-update-everything-new-on-your-iphone/#ftag=CAD590a51e)
- - [Apple TV Plus: Every New TV Show Arriving in July     - CNET](https://www.cnet.com/culture/entertainment/apple-tv-plus-every-new-tv-show-arriving-this-july/#ftag=CAD590a51e)
- - [Some streamers on Twitch, a more intimate platform than others, endure threats and stalkers and say Twitch gives limited support when dangerous situations arise &lpar;New York Times&rpar;](http://www.techmeme.com/220730/p3#a220730p3)<!-- TECH:END -->
+ - [There Is Some Good in &#39;No-Recipe&#39; Cookbooks](https://www.wired.com/story/no-recipe-recipes/)
+ - [14 Great Deals on Laptops, Phones, and TVs](https://www.wired.com/story/weekend-deals-july-30-2022/)
+ - [Goodbye to the BMW i3—an Icon of the 21st Century](https://www.wired.com/story/goodbye-bmw-i3-21st-century-icon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
