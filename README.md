@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)
- - 🚯 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)
- - 🚯 [A wise man once said, `If you can&#39;t beat them, join them`](http://9gag.com/gag/abgN00E)<!-- MEMES:END -->
+ - 🚖 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)
+ - 🚯 [Her friends ain&#39;t gonna believe..](http://9gag.com/gag/a81RjDd)
+ - 🚯 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)<!-- MEMES:END -->
 
 --- 
 
