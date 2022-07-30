@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Literally me now, sometimes i feel like a god, sometimes i feel like a looser](http://9gag.com/gag/aqGPLYj)
- - 🚯 [For all the city people that never seen a cow\u2019s nest.](http://9gag.com/gag/aWgr82n)
- - 🚯 [Danish](http://9gag.com/gag/aLvZMXz)<!-- MEMES:END -->
+ - 🚖 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)
+ - 🚯 [Danish](http://9gag.com/gag/aLvZMXz)
+ - 🚯 [For all the city people that never seen a cow\u2019s nest.](http://9gag.com/gag/aWgr82n)<!-- MEMES:END -->
 
 --- 
 
