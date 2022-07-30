@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
- - 🚯 [And they&#39;ll come](http://9gag.com/gag/a610yEN)
- - 🚯 [How are we gonna do this?](http://9gag.com/gag/arnQeqK)<!-- MEMES:END -->
+ - 🚖 [And they&#39;ll come](http://9gag.com/gag/a610yEN)
+ - 🚯 [How are we gonna do this?](http://9gag.com/gag/arnQeqK)
+ - 🚯 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)<!-- MEMES:END -->
 
 --- 
 
