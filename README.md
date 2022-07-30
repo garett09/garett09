@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Indonesia says it has blocked PayPal, Yahoo, Steam, Epic Games, and other websites for failure to comply with licensing rules introduced in November 2020 &lpar;Gayatri Suroyo/Reuters&rpar;](http://www.techmeme.com/220730/p7#a220730p7)
- - [The Google Pixel’s squeeze for assistant was a button without a button](https://www.theverge.com/2022/7/30/23278192/google-pixel-2-active-edge-squeeze-sides-button-control)
- - [Google’s latest multiplayer Doodle lets you play a round of pétanque with your friends](https://www.theverge.com/2022/7/30/23284432/google-doodle-multiplayer-game-petanque)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-443-3191843/)
+ - [The Google Pixel’s squeeze for assistant was a button without a button](https://www.theverge.com/2022/7/30/23278192/google-pixel-2-active-edge-squeeze-sides-button-control)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
