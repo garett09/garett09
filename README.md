@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)
- - 🚯 [Danish](http://9gag.com/gag/aLvZMXz)
- - 🚯 [For all the city people that never seen a cow\u2019s nest.](http://9gag.com/gag/aWgr82n)<!-- MEMES:END -->
+ - 🚖 [`Apparently` civil airplane going to Taiwan.](http://9gag.com/gag/a3167Z8)
+ - 🚯 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)
+ - 🚯 [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)<!-- MEMES:END -->
 
 --- 
 
