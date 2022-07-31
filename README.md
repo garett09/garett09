@@ -181,7 +181,7 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s the greatest length you&#39;ve gone to get a game to run?](https://www.pcgamer.com/whats-the-greatest-length-youve-gone-to-get-a-game-to-run)
+ - [What&#39;s the greatest length you&#39;ve gone to just to run a game?](https://www.pcgamer.com/whats-the-greatest-length-youve-gone-to-get-a-game-to-run)
  - [Before FEAR and No One Lives Forever, Monolith made an action game where Ice-T played a psychic](https://www.pcgamer.com/saturday-crapshoot-sanity-aikens-artifact)
  - [Counter-Strike&#39;s famous Door Stuck video has been hijacked by copyright fraud](https://www.pcgamer.com/counter-strikes-famous-door-stuck-video-has-been-hijacked-by-copyright-fraud)<!-- GAME:END -->
 
