@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best investment of my life, bye bye migraines](http://9gag.com/gag/aAG8eKd)
- - 🚯 [Sirens are sounding in Kosovo, the tension is high. Serbian President Vu\u010di\u0107: Kosovo army plans to attack northern Serbia at midnight&#39;&#39;](http://9gag.com/gag/aDDK4wB)
+ - 🚖 [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)
+ - 🚯 [Do you remember when this was the dumbest President ever?](http://9gag.com/gag/aBnAmNO)
  - 🚯 [Remove the red dot](http://9gag.com/gag/a91xRZ6)<!-- MEMES:END -->
 
 --- 
