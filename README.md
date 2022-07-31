@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This working GameBoy phone case is the ultimate time and money waster](https://www.androidauthority.com/gameboy-samsung-case-3188863/)
- - [Daily deals July 31: $120 Apple TV 4K, $159 Bose Home Speaker 300, $125 Cuisinart Smoker, more](https://appleinsider.com/articles/22/07/31/daily-deals-july-31-120-apple-tv-4k-159-bose-home-speaker-300-125-cuisinart-smoker-more?utm_medium=rss)
- - [Home Equity Line of Credit: HELOC Rates for August 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The next Tomb Raider film will feature a new Lara Croft](https://www.theverge.com/2022/7/31/23285976/tomb-raider-film-new-lara-croft-amazon-mgm-lose-rights-alicia-vikander)
+ - [This app does only one thing: splitting meal bills](https://www.theverge.com/23282726/tab-app-bill-splitting-review)
+ - [High-end M2 MacBook Pros, Mac mini still tipped for late 2022 release](https://appleinsider.com/articles/22/07/31/high-end-m2-macbook-pros-mac-mini-still-tipped-for-late-2022-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
