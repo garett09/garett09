@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All I’ve Worn This Summer Are Technical Jorts](https://www.wired.com/story/i-love-technical-jorts/)
- - [VR Still Stinks Because It Doesn’t Smell](https://www.wired.com/story/vr-still-stinks-because-it-doesnt-smell/)
- - [What to Know About IP Ratings Before Getting Your Phone Wet](https://www.wired.com/story/ip-ratings-explained/)<!-- TECH:END -->
+ - [Crime blotter: Apple Store thefts, driving while using an iPad](https://appleinsider.com/articles/22/07/31/crime-blotter-apple-store-thefts-driving-while-using-an-ipad?utm_medium=rss)
+ - [Should Google make a Tensor Lite processor for its Pixel A series?](https://www.androidauthority.com/google-mid-range-tensor-lite-processor-opinion-3188856/)
+ - [The Samsung QN90B Is the Best TV for Bright Rooms](https://www.wired.com/review/samsung-qn90b/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
