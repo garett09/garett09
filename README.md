@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pack your things](http://9gag.com/gag/a11yoZv)
- - 🚯 [A just born Alpaca](http://9gag.com/gag/a91xpY0)
- - 🚯 [I&#39;m getting sick of it](http://9gag.com/gag/angmjAE)<!-- MEMES:END -->
+ - 🚖 [Using discarded human hair to clean up oil spills seems a little unorthodox but man is it effective](http://9gag.com/gag/a610oQN)
+ - 🚯 [How things changes](http://9gag.com/gag/aBnAxED)
+ - 🚯 [Guilty](http://9gag.com/gag/axBLz22)<!-- MEMES:END -->
 
 --- 
 
