@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Using discarded human hair to clean up oil spills seems a little unorthodox but man is it effective](http://9gag.com/gag/a610oQN)
+ - 🚖 [Homelander most probable outcome](http://9gag.com/gag/a0ZrQPv)
  - 🚯 [How things changes](http://9gag.com/gag/aBnAxED)
  - 🚯 [Guilty](http://9gag.com/gag/axBLz22)<!-- MEMES:END -->
 
