@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [That scream](http://9gag.com/gag/a610O12)
- - 🚯 [Guilty](http://9gag.com/gag/axBLz22)
- - 🚯 [You&#39;re fired](http://9gag.com/gag/a610OWR)<!-- MEMES:END -->
+ - 🚯 [Been too long since this was posted](http://9gag.com/gag/awzEX64)
+ - 🚯 [Meanwhile in Fluoridia....](http://9gag.com/gag/a610O28)<!-- MEMES:END -->
 
 --- 
 
