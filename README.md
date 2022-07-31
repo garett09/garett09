@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Things are looking good for the Matter smart home standard &lpar;knock on wood&rpar;](https://www.androidauthority.com/matter-smart-home-getting-closer-3189590/)
- - [The next Tomb Raider film will feature a new Lara Croft](https://www.theverge.com/2022/7/31/23285976/tomb-raider-film-new-lara-croft-amazon-mgm-lose-rights-alicia-vikander)
- - [This app does only one thing: splitting meal bills](https://www.theverge.com/23282726/tab-app-bill-splitting-review)<!-- TECH:END -->
+ - [OtterBox 2-in-1 Charging Station with MagSafe review: Compact fast charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/22/07/31/otterbox-2-in-1-charging-station-with-magsafe-review-compact-fast-charging-for-iphone-apple-watch?utm_medium=rss)
+ - [Best Business Credit Cards for August 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-business-credit-card/#ftag=CAD590a51e)
+ - [The Pixel 6A is getting an immediate update to make sure it’s moddable](https://www.theverge.com/2022/7/31/23286119/google-pixel-6a-update-moddable-unlocked-bootloader-rooting-custom-roms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
