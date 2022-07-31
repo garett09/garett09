@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homelander most probable outcome](http://9gag.com/gag/a0ZrQPv)
- - 🚯 [How things changes](http://9gag.com/gag/aBnAxED)
- - 🚯 [Guilty](http://9gag.com/gag/axBLz22)<!-- MEMES:END -->
+ - 🚖 [That scream](http://9gag.com/gag/a610O12)
+ - 🚯 [What did one of your teachers tell you, that stayed with you for life, my dudes?](http://9gag.com/gag/aegnM1O)
+ - 🚯 [From starlight to 99-cent storelight](http://9gag.com/gag/aOQMrmy)<!-- MEMES:END -->
 
 --- 
 
