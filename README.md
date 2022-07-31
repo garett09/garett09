@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the mod fits perfect](http://9gag.com/gag/aZr6mGn)
- - 🚯 [`Someone has been caused anxiety based on your social media post, that\u2019s why you\u2019ve being arrested`](http://9gag.com/gag/a51OZ0o)
- - 🚯 [DOND!](http://9gag.com/gag/angmjWb)<!-- MEMES:END -->
+ - 🚖 [A just born Alpaca](http://9gag.com/gag/a91xpY0)
+ - 🚯 [He effed around and found out](http://9gag.com/gag/a610VML)
+ - 🚯 [Just a reminder that this exists - Yuri Bezmenov Explaining 4 Stages to Bring Down a Country &lpar;09:43&rpar;](http://9gag.com/gag/aVxpMoy)<!-- MEMES:END -->
 
 --- 
 
