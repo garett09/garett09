@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Been too long since this was posted](http://9gag.com/gag/awzEX64)
- - 🚯 [Whenever i see myself in the mirror](http://9gag.com/gag/adgGK7D)
- - 🚯 [Thats a wierd dogo](http://9gag.com/gag/aGzmjz6)<!-- MEMES:END -->
+ - 🚖 [Pack your things](http://9gag.com/gag/a11yoZv)
+ - 🚯 [A just born Alpaca](http://9gag.com/gag/a91xpY0)
+ - 🚯 [I&#39;m getting sick of it](http://9gag.com/gag/angmjAE)<!-- MEMES:END -->
 
 --- 
 
