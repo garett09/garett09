@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [That scream](http://9gag.com/gag/a610O12)
- - 🚯 [What did one of your teachers tell you, that stayed with you for life, my dudes?](http://9gag.com/gag/aegnM1O)
- - 🚯 [From starlight to 99-cent storelight](http://9gag.com/gag/aOQMrmy)<!-- MEMES:END -->
+ - 🚯 [Guilty](http://9gag.com/gag/axBLz22)
+ - 🚯 [You&#39;re fired](http://9gag.com/gag/a610OWR)<!-- MEMES:END -->
 
 --- 
 
