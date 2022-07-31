@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chris Evans Wants the iPhone&#39;s Home Button Back -- Here&#39;s Why That&#39;s Important     - CNET](https://www.cnet.com/tech/mobile/chris-evans-wants-the-iphones-home-button-back-heres-why-thats-important/#ftag=CAD590a51e)
- - [A look at the supply chain resilience myth, as efforts to replicate the chipmaking process inside single countries or regions reveal and exacerbate bottlenecks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220731/p2#a220731p2)
- - [Best Phone Under $200: Cheaper Phones for the Essentials     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All I’ve Worn This Summer Are Technical Jorts](https://www.wired.com/story/i-love-technical-jorts/)
+ - [VR Still Stinks Because It Doesn’t Smell](https://www.wired.com/story/vr-still-stinks-because-it-doesnt-smell/)
+ - [What to Know About IP Ratings Before Getting Your Phone Wet](https://www.wired.com/story/ip-ratings-explained/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
