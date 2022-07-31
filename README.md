@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Things are looking good for the Matter smart home standard &lpar;knock on wood&rpar;](https://www.androidauthority.com/matter-smart-home-getting-closer-3189590/)
  - [The next Tomb Raider film will feature a new Lara Croft](https://www.theverge.com/2022/7/31/23285976/tomb-raider-film-new-lara-croft-amazon-mgm-lose-rights-alicia-vikander)
- - [This app does only one thing: splitting meal bills](https://www.theverge.com/23282726/tab-app-bill-splitting-review)
- - [High-end M2 MacBook Pros, Mac mini still tipped for late 2022 release](https://appleinsider.com/articles/22/07/31/high-end-m2-macbook-pros-mac-mini-still-tipped-for-late-2022-release?utm_medium=rss)<!-- TECH:END -->
+ - [This app does only one thing: splitting meal bills](https://www.theverge.com/23282726/tab-app-bill-splitting-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
