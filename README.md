@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prey director Dan Trachtenberg walks us through the Predator’s scary new look](https://www.polygon.com/entertainment/23283732/prey-new-predator-director-interview)
- - [10 WWE Studios movies that are actually worth your time](https://www.polygon.com/what-to-watch/23270454/wwe-movies-best-list-watch-streaming)
- - [Today&#39;s Wordle answer #407: Sunday, July 31](https://www.pcgamer.com/wordle-today-answer-hint)<!-- GAME:END -->
+ - [Indonesia has blocked Steam, Epic Games, PayPal, and more](https://www.pcgamer.com/indonesia-has-blocked-steam-epic-games-paypal-and-more)
+ - [Henry Cavill has PC hardware issues just like you or me](https://www.pcgamer.com/henry-cavill-has-pc-hardware-issues-just-like-you-or-me)
+ - [Prey director Dan Trachtenberg walks us through the Predator’s scary new look](https://www.polygon.com/entertainment/23283732/prey-new-predator-director-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
