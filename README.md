@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Prey director Dan Trachtenberg walks us through the Predator’s scary new look](https://www.polygon.com/entertainment/23283732/prey-new-predator-director-interview)
  - [10 WWE Studios movies that are actually worth your time](https://www.polygon.com/what-to-watch/23270454/wwe-movies-best-list-watch-streaming)
- - [Today&#39;s Wordle answer #407: Sunday, July 31](https://www.pcgamer.com/wordle-today-answer-hint)
- - [Dr. Disrespect&#39;s game is called Deadrop, watch some early gameplay footage](https://www.pcgamer.com/dr-disrespects-game-is-called-deadrop-watch-some-early-gameplay-footage)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #407: Sunday, July 31](https://www.pcgamer.com/wordle-today-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
