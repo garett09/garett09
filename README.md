@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A just born Alpaca](http://9gag.com/gag/a91xpY0)
- - 🚯 [He effed around and found out](http://9gag.com/gag/a610VML)
- - 🚯 [Just a reminder that this exists - Yuri Bezmenov Explaining 4 Stages to Bring Down a Country &lpar;09:43&rpar;](http://9gag.com/gag/aVxpMoy)<!-- MEMES:END -->
+ - 🚖 [He effed around and found out](http://9gag.com/gag/a610VML)
+ - 🚯 [Just a reminder that this exists - Yuri Bezmenov Explaining 4 Stages to Bring Down a Country &lpar;09:43&rpar;](http://9gag.com/gag/aVxpMoy)
+ - 🚯 [Put it right back in the oven for another 5hrs.](http://9gag.com/gag/aNP7zWr)<!-- MEMES:END -->
 
 --- 
 
