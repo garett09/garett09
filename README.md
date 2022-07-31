@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Store thefts, driving while using an iPad](https://appleinsider.com/articles/22/07/31/crime-blotter-apple-store-thefts-driving-while-using-an-ipad?utm_medium=rss)
- - [Should Google make a Tensor Lite processor for its Pixel A series?](https://www.androidauthority.com/google-mid-range-tensor-lite-processor-opinion-3188856/)
- - [The Samsung QN90B Is the Best TV for Bright Rooms](https://www.wired.com/review/samsung-qn90b/)<!-- TECH:END -->
+ - [Daily deals July 31: $120 Apple TV 4K, $159 Bose Home Speaker 300, $125 Cuisinart Smoker, more](https://appleinsider.com/articles/22/07/31/daily-deals-july-31-120-apple-tv-4k-159-bose-home-speaker-300-125-cuisinart-smoker-more?utm_medium=rss)
+ - [5 Great Features You Only Get in Samsung’s Version of Android](https://www.wired.com/story/5-features-samsung-android-only/)
+ - [Step Away From Screens With the 20 Best Family Board Games](https://www.wired.com/gallery/best-family-board-games/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
