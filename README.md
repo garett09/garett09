@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyberattack on Illuminate Education, exposing information on 1M+ students, highlights the dangers of stockpiling sensitive info on millions of school children &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220731/p5#a220731p5)
  - [OtterBox 2-in-1 Charging Station with MagSafe review: Compact fast charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/22/07/31/otterbox-2-in-1-charging-station-with-magsafe-review-compact-fast-charging-for-iphone-apple-watch?utm_medium=rss)
- - [Best Business Credit Cards for August 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-business-credit-card/#ftag=CAD590a51e)
- - [The Pixel 6A is getting an immediate update to make sure it’s moddable](https://www.theverge.com/2022/7/31/23286119/google-pixel-6a-update-moddable-unlocked-bootloader-rooting-custom-roms)<!-- TECH:END -->
+ - [Best Business Credit Cards for August 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-business-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
