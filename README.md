@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s not an easy task.](http://9gag.com/gag/a0ZrRMd)
- - 🚯 [You&#39;re fired](http://9gag.com/gag/a610OWR)
- - 🚯 [How do you eat this?](http://9gag.com/gag/aggDnnq)<!-- MEMES:END -->
+ - 🚖 [Sirens are sounding in Kosovo, the tension is high. Serbian President Vu\u010di\u0107: Kosovo army plans to attack northern Serbia at midnight&#39;&#39;](http://9gag.com/gag/aDDK4wB)
+ - 🚯 [Gotcha!](http://9gag.com/gag/apg45Z9)
+ - 🚯 [You&#39;re fired](http://9gag.com/gag/a610OWR)<!-- MEMES:END -->
 
 --- 
 
