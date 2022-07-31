@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gumball was the last good cartoon](http://9gag.com/gag/azeW8Mq)
- - 🚯 [My pants would be drooling with poop](http://9gag.com/gag/a316qjN)
- - 🚯 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)<!-- MEMES:END -->
+ - 🚖 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)
+ - 🚯 [Earlier today, china deployed heavy military equipment to the coastal area closest to Taiwan, while Taiwan did one of the biggest military drills in the island&#39;s history &lpar;war is coming&rpar;](http://9gag.com/gag/awzE5M1)
+ - 🚯 [My pants would be drooling with poop](http://9gag.com/gag/a316qjN)<!-- MEMES:END -->
 
 --- 
 
