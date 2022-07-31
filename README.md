@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That scream](http://9gag.com/gag/a610O12)
- - 🚯 [Been too long since this was posted](http://9gag.com/gag/awzEX64)
+ - 🚖 [Mountain view](http://9gag.com/gag/aBnA04Z)
+ - 🚯 [Remove the red dot](http://9gag.com/gag/a91xRZ6)
  - 🚯 [Meanwhile in Fluoridia....](http://9gag.com/gag/a610O28)<!-- MEMES:END -->
 
 --- 
