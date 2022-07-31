@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mountain view](http://9gag.com/gag/aBnA04Z)
- - 🚯 [Remove the red dot](http://9gag.com/gag/a91xRZ6)
- - 🚯 [Meanwhile in Fluoridia....](http://9gag.com/gag/a610O28)<!-- MEMES:END -->
+ - 🚖 [It\u2019s not an easy task.](http://9gag.com/gag/a0ZrRMd)
+ - 🚯 [You&#39;re fired](http://9gag.com/gag/a610OWR)
+ - 🚯 [How do you eat this?](http://9gag.com/gag/aggDnnq)<!-- MEMES:END -->
 
 --- 
 
