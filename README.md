@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)
- - 🚯 [Magic tricks debunked](http://9gag.com/gag/aAG80ed)
- - 🚯 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)<!-- MEMES:END -->
+ - 🚖 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)
+ - 🚯 [Is This Legal](http://9gag.com/gag/aYr3rZ0)
+ - 🚯 [Good joke &lpar;post again&rpar;](http://9gag.com/gag/ay9b27p)<!-- MEMES:END -->
 
 --- 
 
