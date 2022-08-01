@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie and show coming to Disney Plus in August](https://www.polygon.com/23271377/disney-plus-new-movies-tv-watch-august-2022)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)
- - [A Red Dead Online bug is turning the game into a ghost town](https://www.pcgamer.com/a-red-dead-online-bug-is-turning-the-game-into-a-ghost-town)<!-- GAME:END -->
+ - [Pokémon Presents stream coming Aug. 3 with new details on Pokémon Scarlet and Violet](https://www.polygon.com/23286984/pokemon-scarlet-violet-presents-august-2022-livestream-date-time)
+ - [Follow the best of Evo 2022 with PlayStation Tournaments: Evo Lounge live show](https://blog.playstation.com/2022/08/01/follow-the-best-of-evo-2022-with-playstation-tournaments-evo-lounge-live-show/)
+ - [The Impossible Quiz made me rage quit — and learn to collaborate](https://www.polygon.com/23280242/the-impossible-quiz-retrospective)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
