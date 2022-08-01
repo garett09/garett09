@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India generates ~$19B from auctioning airwaves, including for 5G; Reliance Jio spent $11B+ on 24,740 megahertz, followed by Bharti Airtel and Vodafone &lpar;Bloomberg&rpar;](http://www.techmeme.com/220801/p9#a220801p9)
- - [Linus Torvalds uses M2 MacBook Air to release Linux 5.19](https://appleinsider.com/articles/22/08/01/linus-torvalds-uses-m2-macbook-air-to-release-linux-519?utm_medium=rss)
- - [New on Paramount Plus in August: Beavis and Butt-Head, Star Trek, and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)<!-- TECH:END -->
+ - [iPhone 14 Pro will get better OLED screen than iPhone 14](https://appleinsider.com/articles/22/08/01/iphone-14-pro-will-get-better-oled-screen-than-iphone-14?utm_medium=rss)
+ - [Now you can rewatch Game of Thrones in 4K on HBO Max](https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august)
+ - [The Nvidia Shield TV is the exception to the disposable technology rule](https://www.androidauthority.com/nvidia-shield-tv-3191182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
