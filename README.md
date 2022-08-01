@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Cyberpunk 2077 Anime Looks More Breathtaking Than The Game](https://kotaku.com/cyberpunk-2077-edgerunners-trigger-anime-netflix-1849356662)
- - [Terraria devs still had &#39;unfinished business&#39; that inspired latest update](https://www.pcgamer.com/terraria-devs-still-had-unfinished-business-that-inspired-latest-update)
- - [Destiny 2 Chat Shut Off After Players Abuse It To Crash Games](https://kotaku.com/destiny-2-bungie-exploit-crash-text-chat-offline-1849356581)<!-- GAME:END -->
+ - [Someone Built A Gaming PC Into A Working Toilet](https://kotaku.com/basicallyhomeless-gaming-pc-toilet-youtuber-poop-csgo-1849357080)
+ - [The best MultiVersus players in the world are playing the same character](https://www.pcgamer.com/the-best-multiversus-players-in-the-world-are-playing-the-same-character)
+ - [Blizzard wants to know how much people will pay for Overwatch skins](https://www.pcgamer.com/blizzard-wants-to-know-how-much-people-will-pay-for-overwatch-skins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
