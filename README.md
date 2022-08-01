@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoshi’s Island is the Super Mario series’ loveliest detour](https://www.polygon.com/sub-gems/23283668/yoshis-island-super-mario-world-2-nintendo-switch-online-sub-gems)
- - [Riot&#39;s League of Legends fighting game will of course be free-to-play](https://www.pcgamer.com/riots-league-of-legends-fighting-game-will-of-course-be-free-to-play)
- - [10 Things Every GTA Online Player Trying The Giant New Update Should Do](https://kotaku.com/gta-online-criminal-enterprises-new-update-tips-1849355831)<!-- GAME:END -->
+ - [Polygon is finally on TikTok!](https://www.polygon.com/videos/23270233/polygon-video-games-tiktok)
+ - [Apex Legends&#39; first map gets its biggest update yet](https://www.polygon.com/23287399/apex-legends-kings-canyon-reforged)
+ - [Yoshi’s Island is the Super Mario series’ loveliest detour](https://www.polygon.com/sub-gems/23283668/yoshis-island-super-mario-world-2-nintendo-switch-online-sub-gems)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
