@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Makes me smile every time](http://9gag.com/gag/a51OQXy)
- - 🚯 [Look Honey! I can explain. It is not what it looks like](http://9gag.com/gag/aZr6DjX)
- - 🚯 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
+ - 🚯 [An adult human female](http://9gag.com/gag/aBnAZgA)
+ - 🚯 [If Dying Light was in real life](http://9gag.com/gag/axBLorY)<!-- MEMES:END -->
 
 --- 
 
