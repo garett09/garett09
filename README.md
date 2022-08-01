@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [El Hopaness](http://9gag.com/gag/awzEyq8)
- - 🚯 [If Dying Light was in real life](http://9gag.com/gag/axBLorY)
- - 🚯 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
+ - 🚖 [I like Otters.](http://9gag.com/gag/aQXLzOe)
+ - 🚯 [How to annoy and wake up your entire neighborhood at midnight](http://9gag.com/gag/aegn9Aq)
+ - 🚯 [Dude wtf xD](http://9gag.com/gag/aLvZ1qP)<!-- MEMES:END -->
 
 --- 
 
