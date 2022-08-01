@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro will get better OLED screen than iPhone 14](https://appleinsider.com/articles/22/08/01/iphone-14-pro-will-get-better-oled-screen-than-iphone-14?utm_medium=rss)
- - [Now you can rewatch Game of Thrones in 4K on HBO Max](https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august)
- - [The Nvidia Shield TV is the exception to the disposable technology rule](https://www.androidauthority.com/nvidia-shield-tv-3191182/)<!-- TECH:END -->
+ - [Spotify’s paying customers will soon get separate play and shuffle buttons](https://www.theverge.com/2022/8/1/23287075/spotify-premium-individual-play-shuffle-announced)
+ - [SmartMi Air Purifier 2 &amp; Eve Motion reviews, plus more on HomeKit Insider](https://appleinsider.com/articles/22/08/01/smartmi-air-purifier-2-eve-motion-reviews-plus-more-on-homekit-insider?utm_medium=rss)
+ - [Rumor roundup: What to expect from the iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/03/30/rumor-roundup-what-to-expect-from-the-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
