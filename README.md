@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lower your expectations](http://9gag.com/gag/axBLWoK)
- - 🚯 [How to annoy and wake up your entire neighborhood at midnight](http://9gag.com/gag/aegn9Aq)
- - 🚯 [Oh f**k....](http://9gag.com/gag/a81RAqY)<!-- MEMES:END -->
+ - 🚖 [Oh f**k....](http://9gag.com/gag/a81RAqY)
+ - 🚯 [118 kg and counting](http://9gag.com/gag/avAMWR5)
+ - 🚯 [Lower your expectations](http://9gag.com/gag/axBLWoK)<!-- MEMES:END -->
 
 --- 
 
