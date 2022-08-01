@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes me smile every time](http://9gag.com/gag/a51OQXy)
- - 🚯 [An adult human female](http://9gag.com/gag/aBnAZgA)
- - 🚯 [If Dying Light was in real life](http://9gag.com/gag/axBLorY)<!-- MEMES:END -->
+ - 🚖 [El Hopaness](http://9gag.com/gag/awzEyq8)
+ - 🚯 [If Dying Light was in real life](http://9gag.com/gag/axBLorY)
+ - 🚯 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
 
 --- 
 
