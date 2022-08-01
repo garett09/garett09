@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #408: Monday, August 1](https://www.pcgamer.com/wordle-today-answer-hint)
- - [CHIPS act passes US Congress](https://www.pcgamer.com/chips-act-passes-us-congress)
- - [Fans are bringing back tactics card game Duelyst](https://www.pcgamer.com/fans-are-bringing-back-tactics-card-game-duelyst)<!-- GAME:END -->
+ - [Best mouse pads for gaming in 2022](https://www.pcgamer.com/best-mouse-pad-for-gaming)
+ - [How to complete the Dung Eater quest in Elden Ring](https://www.pcgamer.com/elden-ring-dung-eater-quest)
+ - [Today&#39;s Wordle answer #408: Monday, August 1](https://www.pcgamer.com/wordle-today-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
