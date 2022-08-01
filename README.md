@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s paying customers will soon get separate play and shuffle buttons](https://www.theverge.com/2022/8/1/23287075/spotify-premium-individual-play-shuffle-announced)
- - [SmartMi Air Purifier 2 &amp; Eve Motion reviews, plus more on HomeKit Insider](https://appleinsider.com/articles/22/08/01/smartmi-air-purifier-2-eve-motion-reviews-plus-more-on-homekit-insider?utm_medium=rss)
- - [Rumor roundup: What to expect from the iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/03/30/rumor-roundup-what-to-expect-from-the-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [What 21 billion Facebook friendships say about the economic ladder in the US](https://www.theverge.com/2022/8/1/23287026/facebook-data-economic-mobility-open-access)
+ - [An update on review scoring](https://www.theverge.com/23286429/review-score-update-processes)
+ - [Pets get wearable fans to beat Japan’s heatwave](https://www.theverge.com/2022/8/1/23286986/cats-dogs-wearable-fan-japan-heat-wave)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
