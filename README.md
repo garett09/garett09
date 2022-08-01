@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CHIPS Act&#39;s financial aid is unlikely to cover all giant projects, meaning the Department of Commerce will face difficult choices in who gets the money &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220801/p8#a220801p8)
- - [Apple Brompton Road architects discuss store&#39;s &#39;calm oasis&#39;](https://appleinsider.com/articles/22/08/01/apple-brompton-road-architects-discuss-stores-calm-oasis?utm_medium=rss)
- - [I Never Want to Take Off the Garmin Instinct 2S Solar](https://www.wired.com/review/garmin-instinct-2s-solar/)<!-- TECH:END -->
+ - [India generates ~$19B from auctioning airwaves, including for 5G; Reliance Jio spent $11B+ on 24,740 megahertz, followed by Bharti Airtel and Vodafone &lpar;Bloomberg&rpar;](http://www.techmeme.com/220801/p9#a220801p9)
+ - [Linus Torvalds uses M2 MacBook Air to release Linux 5.19](https://appleinsider.com/articles/22/08/01/linus-torvalds-uses-m2-macbook-air-to-release-linux-519?utm_medium=rss)
+ - [New on Paramount Plus in August: Beavis and Butt-Head, Star Trek, and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
