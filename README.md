@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Apple TV 4K now on sale for $119.99 at Amazon, Best Buy](https://appleinsider.com/articles/22/08/01/price-war-apple-tv-4k-now-on-sale-for-11999-at-amazon-best-buy?utm_medium=rss)
- - [Compared: M2 MacBook Air vs M1 12.9-inch iPad Pro](https://appleinsider.com/articles/22/08/01/compared-m2-macbook-air-vs-m1-129-inch-ipad-pro?utm_medium=rss)
- - [Acer Chromebook Spin 513 &lpar;2H&rpar; review: Reworking the basics](https://www.androidauthority.com/acer-chromebook-spin-513-2h-review-3187542/)<!-- TECH:END -->
+ - [Apple&#39;s iOS 15.6: iPhone Update Fixes Bugs, Boosts Security     - CNET](https://www.cnet.com/tech/services-and-software/apples-ios-15-6-iphone-update-fixes-bugs-boosts-security/#ftag=CAD590a51e)
+ - [PSA: Check your email — Amazon is sending out invites to buy a PS5 or Xbox Series X](https://www.theverge.com/2022/8/1/23287546/sony-playstation-5-ps5-microsoft-xbox-series-x-amazon-invite-only-console-restock-emails)
+ - [Meet Cyberpunk: Edgerunners&#39; quirky cast of characters in this new trailer](https://www.theverge.com/2022/8/1/23287260/cyberpunk-netflix-anime-studio-trigger-gurren-lagann-kill-la-kill-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
