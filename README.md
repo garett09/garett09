@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Westworld season 4 worth watching? Depends on what you came to Westworld for](https://www.polygon.com/23283744/westworld-season-4-mid-season-review-explainer)
- - [Big Pokémon Presents Info Dump Announced Amid Alleged Leaks](https://kotaku.com/pokemon-presents-scarlet-violet-gen-9-evolutions-1849354647)
- - [Pokémon Presents stream coming Aug. 3 with new details on Pokémon Scarlet and Violet](https://www.polygon.com/23286984/pokemon-scarlet-violet-presents-august-2022-livestream-date-time)<!-- GAME:END -->
+ - [Sega’s Genesis Mini 2 will have ‘one-tenth’ the supply, Sega says](https://www.polygon.com/23286985/sega-genesis-mini-2-games-release-date-how-to-order-amazon)
+ - [The PS5’s Accolades feature is being killed, because no one used it](https://www.polygon.com/23287092/sony-ps5-playstation-5-accolades-discontinued)
+ - [Sony says it’s ramping up PS5 production for the holidays](https://www.polygon.com/23287030/sony-playstation-5-ps5-console-restock-2022-holiday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
