@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser Momentum 4 leak reveals a drastic design change and a lower price tag](https://www.theverge.com/2022/8/1/23287327/sennheiser-momentum-4-wireless-headphones-leak-price)
  - [Price war: Apple TV 4K now on sale for $119.99 at Amazon, Best Buy](https://appleinsider.com/articles/22/08/01/price-war-apple-tv-4k-now-on-sale-for-11999-at-amazon-best-buy?utm_medium=rss)
- - [Nichelle Nichols, Original Uhura on &#39;Star Trek,&#39; Dies at 89     - CNET](https://www.cnet.com/culture/entertainment/nichelle-nichols-original-uhura-on-star-trek-star-dies-at-89/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: M2 MacBook Air vs M1 12.9-inch iPad Pro](https://appleinsider.com/articles/22/08/01/compared-m2-macbook-air-vs-m1-129-inch-ipad-pro?utm_medium=rss)
+ - [Acer Chromebook Spin 513 &lpar;2H&rpar; review: Reworking the basics](https://www.androidauthority.com/acer-chromebook-spin-513-2h-review-3187542/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
