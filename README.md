@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like Otters.](http://9gag.com/gag/aQXLzOe)
+ - 🚖 [Lower your expectations](http://9gag.com/gag/axBLWoK)
  - 🚯 [How to annoy and wake up your entire neighborhood at midnight](http://9gag.com/gag/aegn9Aq)
- - 🚯 [Dude wtf xD](http://9gag.com/gag/aLvZ1qP)<!-- MEMES:END -->
+ - 🚯 [Oh f**k....](http://9gag.com/gag/a81RAqY)<!-- MEMES:END -->
 
 --- 
 
