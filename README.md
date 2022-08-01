@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Ruined](http://9gag.com/gag/aAG8GO0)
- - 🚯 [Still growing strong: 700lbs and gaining 49lbs a day](http://9gag.com/gag/ajgzg91)
- - 🚯 [Is This Legal](http://9gag.com/gag/aYr3rZ0)<!-- MEMES:END -->
+ - 🚯 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)
+ - 🚯 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)<!-- MEMES:END -->
 
 --- 
 
