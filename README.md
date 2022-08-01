@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Par for the course.](http://9gag.com/gag/aE898WM)
- - 🚯 [Come back please](http://9gag.com/gag/aM4o4wP)
- - 🚯 [Hitmonchan knucklesandwich](http://9gag.com/gag/a81R1Gd)<!-- MEMES:END -->
+ - 🚖 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)
+ - 🚯 [Earthquake clears a swimming pool](http://9gag.com/gag/aWgrgQA)
+ - 🚯 [Par for the course.](http://9gag.com/gag/aE898WM)<!-- MEMES:END -->
 
 --- 
 
