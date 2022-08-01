@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Satisfying](http://9gag.com/gag/aPZE32P)
- - 🚯 [Guys don\u2019t put your piemeltje in crazy girls](http://9gag.com/gag/a51ORYy)
- - 🚯 [Still growing strong: 700lbs and gaining 49lbs a day](http://9gag.com/gag/ajgzg91)<!-- MEMES:END -->
+ - 🚖 [High Tech Gaming Chair](http://9gag.com/gag/avAMAgq)
+ - 🚯 [Rest in Peace, Lieutenant Uhura. Channels closed.](http://9gag.com/gag/aM4ox4R)
+ - 🚯 [Sometimes I go blind for 5 min after watching a modern day fight scene with all the jump cuts and shakey cam....](http://9gag.com/gag/angmQYB)<!-- MEMES:END -->
 
 --- 
 
