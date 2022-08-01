@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High Tech Gaming Chair](http://9gag.com/gag/avAMAgq)
- - 🚯 [Rest in Peace, Lieutenant Uhura. Channels closed.](http://9gag.com/gag/aM4ox4R)
- - 🚯 [Sometimes I go blind for 5 min after watching a modern day fight scene with all the jump cuts and shakey cam....](http://9gag.com/gag/angmQYB)<!-- MEMES:END -->
+ - 🚖 [Par for the course.](http://9gag.com/gag/aE898WM)
+ - 🚯 [Come back please](http://9gag.com/gag/aM4o4wP)
+ - 🚯 [Hitmonchan knucklesandwich](http://9gag.com/gag/a81R1Gd)<!-- MEMES:END -->
 
 --- 
 
