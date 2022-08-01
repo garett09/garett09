@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans are bringing back tactics card game Duelyst](https://www.pcgamer.com/fans-are-bringing-back-tactics-card-game-duelyst)
- - [Indonesian Government Blocks Steam, Epic &amp; Nintendo For 270 Million People](https://kotaku.com/indonesia-government-block-steam-epic-vpn-laws-1849354178)
- - [There are of course nude Sephiroth mods for Final Fantasy 7 Remake](https://www.pcgamer.com/there-are-of-course-nude-sephiroth-mods-for-final-fantasy-7-remake)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #408: Monday, August 1](https://www.pcgamer.com/wordle-today-answer-hint)
+ - [CHIPS act passes US Congress](https://www.pcgamer.com/chips-act-passes-us-congress)
+ - [Fans are bringing back tactics card game Duelyst](https://www.pcgamer.com/fans-are-bringing-back-tactics-card-game-duelyst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
