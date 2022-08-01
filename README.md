@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a neat Minecraft model restoring a ruined castle to its former glory](https://www.pcgamer.com/heres-a-neat-minecraft-model-restoring-a-ruined-castle-to-its-former-glory)
- - [Destiny 2 disables text chat due to game breaking exploit](https://www.pcgamer.com/destiny-2-disables-text-chat-due-to-game-breaking-exploit)
- - [Indonesia has blocked Steam, Epic Games, PayPal, and more](https://www.pcgamer.com/indonesia-has-blocked-steam-epic-games-paypal-and-more)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 1, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-1-2022)
+ - [Great moments in PC gaming: Editing rules.ini to make Red Alert guns shoot lightning](https://www.pcgamer.com/great-moments-in-pc-gaming-editing-rulesini-to-make-red-alert-guns-shoot-lightning)
+ - [The internet&#39;s GTA 6 takes are so bad they brought Shitty Gamer Takes back from death](https://www.pcgamer.com/the-internets-gta-6-takes-are-so-bad-they-brought-shitty-gamer-takes-back-from-death)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
