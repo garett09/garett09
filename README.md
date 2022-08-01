@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ruined](http://9gag.com/gag/aAG8GO0)
- - 🚯 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)
- - 🚯 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)<!-- MEMES:END -->
+ - 🚖 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)
+ - 🚯 [Magic tricks debunked](http://9gag.com/gag/aAG80ed)
+ - 🚯 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)<!-- MEMES:END -->
 
 --- 
 
