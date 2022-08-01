@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Built A Gaming PC Into A Working Toilet](https://kotaku.com/basicallyhomeless-gaming-pc-toilet-youtuber-poop-csgo-1849357080)
- - [The best MultiVersus players in the world are playing the same character](https://www.pcgamer.com/the-best-multiversus-players-in-the-world-are-playing-the-same-character)
- - [Blizzard wants to know how much people will pay for Overwatch skins](https://www.pcgamer.com/blizzard-wants-to-know-how-much-people-will-pay-for-overwatch-skins)<!-- GAME:END -->
+ - [Here&#39;s The Shooter That Dr. Disrespect Says Will Blow Away Call Of Duty](https://kotaku.com/dr-disrespect-midnight-society-deadrop-call-of-duty-nft-1849357256)
+ - [Cars finally gets what it’s always been missing: Mad Max content](https://www.polygon.com/23287753/cars-on-the-road-mad-max-fury-road-trailer)
+ - [Half-Life 2&#39;s gravity gun meets Stalker&#39;s exclusion zone in this sci-fi FPS](https://www.pcgamer.com/half-life-2s-gravity-gun-meets-stalkers-exclusion-zone-in-this-sci-fi-fps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
