@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves players can now be the captains of their own ship](https://www.polygon.com/23287209/sea-of-thieves-season-seven-captaincy-update-news-details)
- - [Riot’s fighting game Project L will be free to play, have ‘respectful’ monetization](https://www.polygon.com/23287174/riot-games-project-l-fighting-game-f2p-illaoi)
- - [New Limited-Time Terminator Bundles for Call of Duty: Vanguard and Warzone](https://news.xbox.com/en-us/2022/08/01/new-call-of-duty-terminator-bundles/)<!-- GAME:END -->
+ - [New Cyberpunk: Edgerunners trailer is an absolute sensory overload](https://www.polygon.com/23287273/cyberpunk-edgerunners-second-trailer-new-netflix)
+ - [Blizzard Asks Overwatch Players If They&#39;d Pay $45 For A Skin](https://kotaku.com/overwatch-2-beta-survey-blizzard-loot-box-skin-1849355724)
+ - [Leviathan-class steampunk miniatures will compete with Star Wars X-Wing, Armada](https://www.polygon.com/23279771/leviathans-kickstarter-miniatures-battletech-catalyst-preview-gencon-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
