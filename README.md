@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What does Tim Hortons think your data is worth? A coffee and donut, apparently](https://www.theverge.com/2022/8/1/23286824/tim-hortons-location-tracking-proposed-class-action-settlement-data-privacy-coffee-donut)
- - [The 8 best Android phones to spend your money on &lpar;August 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
- - [Apple brings Apple TV gift card offer to international sites](https://appleinsider.com/articles/22/08/01/apple-brings-apple-tv-gift-card-offer-to-international-sites?utm_medium=rss)<!-- TECH:END -->
+ - [You told us: You definitely won’t buy a phone with ads if it were cheaper](https://www.androidauthority.com/buy-phone-ads-cheaper-poll-results-3192117/)
+ - [A look at Samsung&#39;s mounting semiconductor problems: reportedly losing Qualcomm and Nvidia&#39;s business to TSMC, Galaxy S22 lagging iPhone 13&#39;s chips, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/220801/p5#a220801p5)
+ - [Samsung Galaxy Z Fold 4: Everything we know so far &lpar;Updated: August 1&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-4-release-date-rumors-specs-price-features-3172983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
