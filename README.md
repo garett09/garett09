@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunny Optical becomes main iPhone 14 lens supplier, says Kuo](https://appleinsider.com/articles/22/08/01/sunny-optical-becomes-main-iphone-14-lens-supplier-says-kuo?utm_medium=rss)
- - [As the US passes its CHIPS+ Act, China plans to invest ~$150B+ through 2030 on chips, South Korea eyes $260B in chip investments by 2027, and the EU plans $40B &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/220801/p3#a220801p3)
- - [Nothing Phone 1 update brings better third-party charger support, more](https://www.androidauthority.com/nothing-phone-1-update-3188419/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5G gains August 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
+ - [Researchers say Meta is failing to moderate dangerous content in Kenya on Facebook, citing failures in AI, as well as linguistic and cultural expertise gaps &lpar;Neha Wadekar/Washington Post&rpar;](http://www.techmeme.com/220801/p4#a220801p4)
+ - [Sunny Optical becomes main iPhone 14 lens supplier, says Kuo](https://appleinsider.com/articles/22/08/01/sunny-optical-becomes-main-iphone-14-lens-supplier-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
