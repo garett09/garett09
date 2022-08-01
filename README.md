@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [T-1000](http://9gag.com/gag/axBLo8M)
- - 🚯 [Where are my glasses?!](http://9gag.com/gag/a71YqKb)
- - 🚯 [France peeping at the corner](http://9gag.com/gag/a71YoLw)<!-- MEMES:END -->
+ - 🚖 [Aaaand it&#39;s fixed](http://9gag.com/gag/aAG80KR)
+ - 🚯 [France peeping at the corner](http://9gag.com/gag/a71YoLw)
+ - 🚯 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
 
 --- 
 
