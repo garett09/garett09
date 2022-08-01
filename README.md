@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord overhauls its Android app so you won’t have to wait for new features](https://www.theverge.com/2022/8/1/23286860/discord-react-native-android-new-app-ios-new-updates-features)
- - [Apple YouTube video answers often-asked iPhone switching queries](https://appleinsider.com/articles/22/08/01/apple-youtube-video-answers-often-asked-iphone-switching-queries?utm_medium=rss)
- - [How to share your Wi-Fi password using your iPhone](https://www.androidauthority.com/share-wi-fi-password-iphone-3192182/)<!-- TECH:END -->
+ - [Sennheiser Momentum 4 leak reveals a drastic design change and a lower price tag](https://www.theverge.com/2022/8/1/23287327/sennheiser-momentum-4-wireless-headphones-leak-price)
+ - [Price war: Apple TV 4K now on sale for $119.99 at Amazon, Best Buy](https://appleinsider.com/articles/22/08/01/price-war-apple-tv-4k-now-on-sale-for-11999-at-amazon-best-buy?utm_medium=rss)
+ - [Nichelle Nichols, Original Uhura on &#39;Star Trek,&#39; Dies at 89     - CNET](https://www.cnet.com/culture/entertainment/nichelle-nichols-original-uhura-on-star-trek-star-dies-at-89/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
