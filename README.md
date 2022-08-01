@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bolt Mobility, co-founded by Usain Bolt, seems to have ceased operations and vanished from at least five US cities, leaving unusable e-bikes; Bolt raised $40.2M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220801/p7#a220801p7)
- - [Gig Workers Are Losing Their Hard-Won Rights](https://www.wired.com/story/gig-workers-rights-rollback-france/)
- - [There’s a Monkeypox Testing Bottleneck](https://www.wired.com/story/theres-a-monkeypox-testing-bottleneck/)<!-- TECH:END -->
+ - [The US CHIPS Act&#39;s financial aid is unlikely to cover all giant projects, meaning the Department of Commerce will face difficult choices in who gets the money &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220801/p8#a220801p8)
+ - [Apple Brompton Road architects discuss store&#39;s &#39;calm oasis&#39;](https://appleinsider.com/articles/22/08/01/apple-brompton-road-architects-discuss-stores-calm-oasis?utm_medium=rss)
+ - [I Never Want to Take Off the Garmin Instinct 2S Solar](https://www.wired.com/review/garmin-instinct-2s-solar/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
