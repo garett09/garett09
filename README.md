@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aaaand it&#39;s fixed](http://9gag.com/gag/aAG80KR)
- - 🚯 [France peeping at the corner](http://9gag.com/gag/a71YoLw)
+ - 🚖 [Makes me smile every time](http://9gag.com/gag/a51OQXy)
+ - 🚯 [Look Honey! I can explain. It is not what it looks like](http://9gag.com/gag/aZr6DjX)
  - 🚯 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
 
 --- 
