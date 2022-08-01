@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega’s Genesis Mini 2 will have ‘one-tenth’ the supply, Sega says](https://www.polygon.com/23286985/sega-genesis-mini-2-games-release-date-how-to-order-amazon)
- - [The PS5’s Accolades feature is being killed, because no one used it](https://www.polygon.com/23287092/sony-ps5-playstation-5-accolades-discontinued)
- - [Sony says it’s ramping up PS5 production for the holidays](https://www.polygon.com/23287030/sony-playstation-5-ps5-console-restock-2022-holiday)<!-- GAME:END -->
+ - [Sea of Thieves players can now be the captains of their own ship](https://www.polygon.com/23287209/sea-of-thieves-season-seven-captaincy-update-news-details)
+ - [Riot’s fighting game Project L will be free to play, have ‘respectful’ monetization](https://www.polygon.com/23287174/riot-games-project-l-fighting-game-f2p-illaoi)
+ - [New Limited-Time Terminator Bundles for Call of Duty: Vanguard and Warzone](https://news.xbox.com/en-us/2022/08/01/new-call-of-duty-terminator-bundles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
