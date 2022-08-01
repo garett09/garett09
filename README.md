@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Cyberpunk: Edgerunners trailer is an absolute sensory overload](https://www.polygon.com/23287273/cyberpunk-edgerunners-second-trailer-new-netflix)
- - [Blizzard Asks Overwatch Players If They&#39;d Pay $45 For A Skin](https://kotaku.com/overwatch-2-beta-survey-blizzard-loot-box-skin-1849355724)
- - [Leviathan-class steampunk miniatures will compete with Star Wars X-Wing, Armada](https://www.polygon.com/23279771/leviathans-kickstarter-miniatures-battletech-catalyst-preview-gencon-2022)<!-- GAME:END -->
+ - [Yoshi’s Island is the Super Mario series’ loveliest detour](https://www.polygon.com/sub-gems/23283668/yoshis-island-super-mario-world-2-nintendo-switch-online-sub-gems)
+ - [Riot&#39;s League of Legends fighting game will of course be free-to-play](https://www.pcgamer.com/riots-league-of-legends-fighting-game-will-of-course-be-free-to-play)
+ - [10 Things Every GTA Online Player Trying The Giant New Update Should Do](https://kotaku.com/gta-online-criminal-enterprises-new-update-tips-1849355831)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
