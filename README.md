@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple takes down online Apple Store for &#39;updates&#39;](https://appleinsider.com/articles/22/08/01/apple-takes-down-online-apple-store-for-updates?utm_medium=rss)
- - [An analysis of music NFT secondary sales and trading activity from late 2021 to mid-2022, to provide a more in-depth and nuanced understanding of NFT markets &lpar;Water &amp; Music&rpar;](http://www.techmeme.com/220801/p2#a220801p2)
- - [Jake Paul vs. Hasim Rahman Jr. Has Been Cancelled     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-has-been-cancelled/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sunny Optical becomes main iPhone 14 lens supplier, says Kuo](https://appleinsider.com/articles/22/08/01/sunny-optical-becomes-main-iphone-14-lens-supplier-says-kuo?utm_medium=rss)
+ - [As the US passes its CHIPS+ Act, China plans to invest ~$150B+ through 2030 on chips, South Korea eyes $260B in chip investments by 2027, and the EU plans $40B &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/220801/p3#a220801p3)
+ - [Nothing Phone 1 update brings better third-party charger support, more](https://www.androidauthority.com/nothing-phone-1-update-3188419/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
