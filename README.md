@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this movie rly that good?](http://9gag.com/gag/aOQM0n6)
- - 🚯 [20-40 grams of fiber a day](http://9gag.com/gag/aogv572)
+ - 🚖 [A huge piece of space junk, believed to be from the first manned SpaceX mission to the International Space Station, has landed on an Australian farm.](http://9gag.com/gag/a213RQZ)
+ - 🚯 [Ah the 90skids](http://9gag.com/gag/aYr3ob0)
  - 🚯 [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)<!-- MEMES:END -->
 
 --- 
