@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)
- - 🚯 [Do you remember when this was the dumbest President ever?](http://9gag.com/gag/aBnAmNO)
- - 🚯 [Remove the red dot](http://9gag.com/gag/a91xRZ6)<!-- MEMES:END -->
+ - 🚖 [Is this movie rly that good?](http://9gag.com/gag/aOQM0n6)
+ - 🚯 [20-40 grams of fiber a day](http://9gag.com/gag/aogv572)
+ - 🚯 [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)<!-- MEMES:END -->
 
 --- 
 
