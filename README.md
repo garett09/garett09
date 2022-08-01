@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWE SummerSlam 2022 Results: Biggest Winners and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-results-biggest-winners-and-match-ratings/#ftag=CAD590a51e)
- - [In iOS 16 beta 4, Apple Pay finally works in non-Safari browsers like Chrome and Edge, a move that may be in response to the EU&#39;s Digital Markets Act &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220731/p8#a220731p8)
- - [Tiffany and Co. Is Selling NFTs for $50,000 Each     - CNET](https://www.cnet.com/personal-finance/tiffany-and-co-is-selling-nfts-for-50000-each/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple takes down online Apple Store for &#39;updates&#39;](https://appleinsider.com/articles/22/08/01/apple-takes-down-online-apple-store-for-updates?utm_medium=rss)
+ - [An analysis of music NFT secondary sales and trading activity from late 2021 to mid-2022, to provide a more in-depth and nuanced understanding of NFT markets &lpar;Water &amp; Music&rpar;](http://www.techmeme.com/220801/p2#a220801p2)
+ - [Jake Paul vs. Hasim Rahman Jr. Has Been Cancelled     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-has-been-cancelled/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
