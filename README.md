@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh f**k....](http://9gag.com/gag/a81RAqY)
- - 🚯 [118 kg and counting](http://9gag.com/gag/avAMWR5)
- - 🚯 [Lower your expectations](http://9gag.com/gag/axBLWoK)<!-- MEMES:END -->
+ - 🚖 [118 kg and counting](http://9gag.com/gag/avAMWR5)
+ - 🚯 [Lower your expectations](http://9gag.com/gag/axBLWoK)
+ - 🚯 [Maybe the US sees an opportunity to get rid of China too](http://9gag.com/gag/aM4odpW)<!-- MEMES:END -->
 
 --- 
 
