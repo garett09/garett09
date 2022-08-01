@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Presents stream coming Aug. 3 with new details on Pokémon Scarlet and Violet](https://www.polygon.com/23286984/pokemon-scarlet-violet-presents-august-2022-livestream-date-time)
- - [Follow the best of Evo 2022 with PlayStation Tournaments: Evo Lounge live show](https://blog.playstation.com/2022/08/01/follow-the-best-of-evo-2022-with-playstation-tournaments-evo-lounge-live-show/)
- - [The Impossible Quiz made me rage quit — and learn to collaborate](https://www.polygon.com/23280242/the-impossible-quiz-retrospective)<!-- GAME:END -->
+ - [Is Westworld season 4 worth watching? Depends on what you came to Westworld for](https://www.polygon.com/23283744/westworld-season-4-mid-season-review-explainer)
+ - [Big Pokémon Presents Info Dump Announced Amid Alleged Leaks](https://kotaku.com/pokemon-presents-scarlet-violet-gen-9-evolutions-1849354647)
+ - [Pokémon Presents stream coming Aug. 3 with new details on Pokémon Scarlet and Violet](https://www.polygon.com/23286984/pokemon-scarlet-violet-presents-august-2022-livestream-date-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
