@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What 21 billion Facebook friendships say about the economic ladder in the US](https://www.theverge.com/2022/8/1/23287026/facebook-data-economic-mobility-open-access)
- - [An update on review scoring](https://www.theverge.com/23286429/review-score-update-processes)
- - [Pets get wearable fans to beat Japan’s heatwave](https://www.theverge.com/2022/8/1/23286986/cats-dogs-wearable-fan-japan-heat-wave)<!-- TECH:END -->
+ - [Discord overhauls its Android app so you won’t have to wait for new features](https://www.theverge.com/2022/8/1/23286860/discord-react-native-android-new-app-ios-new-updates-features)
+ - [Apple YouTube video answers often-asked iPhone switching queries](https://appleinsider.com/articles/22/08/01/apple-youtube-video-answers-often-asked-iphone-switching-queries?utm_medium=rss)
+ - [How to share your Wi-Fi password using your iPhone](https://www.androidauthority.com/share-wi-fi-password-iphone-3192182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
