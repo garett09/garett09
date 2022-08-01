@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good joke &lpar;post again&rpar;](http://9gag.com/gag/ay9b27p)
- - 🚯 [Why though?](http://9gag.com/gag/aRrbEEA)
- - 🚯 [I&#39;ll Do It AGAIN](http://9gag.com/gag/azeWe4B)<!-- MEMES:END -->
+ - 🚖 [Where are my glasses?!](http://9gag.com/gag/a71YqKb)
+ - 🚯 [The Choir Teacher](http://9gag.com/gag/aegngLp)
+ - 🚯 [Silence and money](http://9gag.com/gag/aZr6rjz)<!-- MEMES:END -->
 
 --- 
 
