@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deals: save $150 on Apple&#39;s 2022 M2 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/22/08/01/flash-deals-save-150-on-apples-2022-m2-macbook-pro-with-16gb-ram?utm_medium=rss)
- - [Apple opens applications for next Entrepreneur Camp in October](https://appleinsider.com/articles/22/08/01/apple-opens-applications-for-next-entrepreneur-camp-in-october?utm_medium=rss)
- - [Activision Blizzard Q2: revenue of $1.64B, down from $2.3B YoY, vs $1.57B est., net income of $280M, down from $876M YoY, and MAUs of 361M, down from 408M YoY &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/220801/p15#a220801p15)<!-- TECH:END -->
+ - [All signs point to Android 13 launch in September 2022](https://www.androidauthority.com/android-13-launch-3192300/)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Flash deals: save $150 on Apple&#39;s 2022 M2 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/22/08/01/flash-deals-save-150-on-apples-2022-m2-macbook-pro-with-16gb-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
