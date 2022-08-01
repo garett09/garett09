@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s The Shooter That Dr. Disrespect Says Will Blow Away Call Of Duty](https://kotaku.com/dr-disrespect-midnight-society-deadrop-call-of-duty-nft-1849357256)
- - [Cars finally gets what it’s always been missing: Mad Max content](https://www.polygon.com/23287753/cars-on-the-road-mad-max-fury-road-trailer)
- - [Half-Life 2&#39;s gravity gun meets Stalker&#39;s exclusion zone in this sci-fi FPS](https://www.pcgamer.com/half-life-2s-gravity-gun-meets-stalkers-exclusion-zone-in-this-sci-fi-fps)<!-- GAME:END -->
+ - [The world&#39;s first syndicated game journalist was an 11-year-old kid](https://www.pcgamer.com/the-worlds-first-syndicated-game-journalist-was-an-11-year-old-kid)
+ - [I can&#39;t believe an esports mockumentary made me feel things](https://www.pcgamer.com/i-cant-believe-an-esports-mockumentary-made-me-feel-things)
+ - [You&#39;ll never guess what you can do at a funeral in Don&#39;t Ruin A Funeral](https://www.pcgamer.com/youll-never-guess-what-you-can-do-at-a-funeral-in-dont-ruin-a-funeral)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
