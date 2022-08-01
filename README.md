@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where are my glasses?!](http://9gag.com/gag/a71YqKb)
- - 🚯 [The Choir Teacher](http://9gag.com/gag/aegngLp)
- - 🚯 [Silence and money](http://9gag.com/gag/aZr6rjz)<!-- MEMES:END -->
+ - 🚖 [T-1000](http://9gag.com/gag/axBLo8M)
+ - 🚯 [Where are my glasses?!](http://9gag.com/gag/a71YqKb)
+ - 🚯 [France peeping at the corner](http://9gag.com/gag/a71YoLw)<!-- MEMES:END -->
 
 --- 
 
