@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A huge piece of space junk, believed to be from the first manned SpaceX mission to the International Space Station, has landed on an Australian farm.](http://9gag.com/gag/a213RQZ)
- - 🚯 [Ah the 90skids](http://9gag.com/gag/aYr3ob0)
- - 🚯 [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)<!-- MEMES:END -->
+ - 🚖 [Satisfying](http://9gag.com/gag/aPZE32P)
+ - 🚯 [Guys don\u2019t put your piemeltje in crazy girls](http://9gag.com/gag/a51ORYy)
+ - 🚯 [Still growing strong: 700lbs and gaining 49lbs a day](http://9gag.com/gag/ajgzg91)<!-- MEMES:END -->
 
 --- 
 
