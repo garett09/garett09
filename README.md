@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You definitely won’t buy a phone with ads if it were cheaper](https://www.androidauthority.com/buy-phone-ads-cheaper-poll-results-3192117/)
- - [A look at Samsung&#39;s mounting semiconductor problems: reportedly losing Qualcomm and Nvidia&#39;s business to TSMC, Galaxy S22 lagging iPhone 13&#39;s chips, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/220801/p5#a220801p5)
- - [Samsung Galaxy Z Fold 4: Everything we know so far &lpar;Updated: August 1&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-4-release-date-rumors-specs-price-features-3172983/)<!-- TECH:END -->
+ - [Bolt Mobility, co-founded by Usain Bolt, seems to have ceased operations and vanished from at least five US cities, leaving unusable e-bikes; Bolt raised $40.2M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220801/p7#a220801p7)
+ - [Gig Workers Are Losing Their Hard-Won Rights](https://www.wired.com/story/gig-workers-rights-rollback-france/)
+ - [There’s a Monkeypox Testing Bottleneck](https://www.wired.com/story/theres-a-monkeypox-testing-bottleneck/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
