@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)
- - 🚯 [Earthquake clears a swimming pool](http://9gag.com/gag/aWgrgQA)
- - 🚯 [Par for the course.](http://9gag.com/gag/aE898WM)<!-- MEMES:END -->
+ - 🚖 [Ruined](http://9gag.com/gag/aAG8GO0)
+ - 🚯 [Still growing strong: 700lbs and gaining 49lbs a day](http://9gag.com/gag/ajgzg91)
+ - 🚯 [Is This Legal](http://9gag.com/gag/aYr3rZ0)<!-- MEMES:END -->
 
 --- 
 
