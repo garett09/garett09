@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;August 1, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-1-2022)
- - [Great moments in PC gaming: Editing rules.ini to make Red Alert guns shoot lightning](https://www.pcgamer.com/great-moments-in-pc-gaming-editing-rulesini-to-make-red-alert-guns-shoot-lightning)
- - [The internet&#39;s GTA 6 takes are so bad they brought Shitty Gamer Takes back from death](https://www.pcgamer.com/the-internets-gta-6-takes-are-so-bad-they-brought-shitty-gamer-takes-back-from-death)<!-- GAME:END -->
+ - [There are of course nude Sephiroth mods for Final Fantasy 7 Remake](https://www.pcgamer.com/there-are-of-course-nude-sephiroth-mods-for-final-fantasy-7-remake)
+ - [Tony Hawk Makes Surprise Appearance For Tony Hawk&#39;s Pro Skater Cover Band](https://kotaku.com/tony-hawk-pro-skater-cover-band-music-soundtrack-1849353902)
+ - [Five new Steam games you probably missed &lpar;August 1, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-1-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
