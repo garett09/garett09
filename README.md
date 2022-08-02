@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [118 kg and counting](http://9gag.com/gag/avAMWR5)
- - 🚯 [Lower your expectations](http://9gag.com/gag/axBLWoK)
- - 🚯 [Maybe the US sees an opportunity to get rid of China too](http://9gag.com/gag/aM4odpW)<!-- MEMES:END -->
+ - 🚖 [Lower your expectations](http://9gag.com/gag/axBLWoK)
+ - 🚯 [I don&#39;t really care about the battle between &#39;&#39;feminists&#39;&#39; and &#39;&#39;men&#39;&#39;, but god damn this lady is lost.](http://9gag.com/gag/a31650N)
+ - 🚯 [Some of you may remember my post about buying a truck and starting a company well today I finally picked up my truck and my &lpar;rental&rpar; trailer and I will pick up my first load this Friday! A year in preparation and now it&#39;s time to take charge and make some money!](http://9gag.com/gag/aBnAyGz)<!-- MEMES:END -->
 
 --- 
 
