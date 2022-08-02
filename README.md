@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old times](http://9gag.com/gag/aegnZYv)
- - 🚯 [Now that&#39;s Deep](http://9gag.com/gag/azeWPnK)
- - 🚯 [Surprise](http://9gag.com/gag/a2138p9)<!-- MEMES:END -->
+ - 🚖 [Water puppy morning routine](http://9gag.com/gag/ay9b4Vb)
+ - 🚯 [Surprise](http://9gag.com/gag/a2138p9)
+ - 🚯 [Fox puzzle of different animal shapes](http://9gag.com/gag/aBnAV6P)<!-- MEMES:END -->
 
 --- 
 
