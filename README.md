@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 3 gets August security patch ahead of Unpacked](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [New ‘wireless’ Google device turns up on FCC. What could it be?](https://www.androidauthority.com/google-wireless-device-fcc-3192347/)
- - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: August 2&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)<!-- TECH:END -->
+ - [Daily Authority: 👆 Side-mounted scanners for the win](https://www.androidauthority.com/daily-authority-august-2-2022-3192161/)
+ - [Google’s brand new Pixel 6A can now install the somewhat new Android 13 beta](https://www.theverge.com/2022/8/2/23288385/google-pixel-6a-android-13-beta-4-1-released)
+ - [Logitech announces a dedicated cloud gaming handheld that supports Xbox Cloud Gaming and more](https://www.theverge.com/2022/8/2/23288386/logitech-g-cloud-gaming-handheld-xbox-cloud-gaming-nvidia-geforce-now)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
