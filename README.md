@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Falling to your death](http://9gag.com/gag/angmn3o)
- - 🚯 [Meow](http://9gag.com/gag/azeWKDp)
+ - 🚖 [Meow](http://9gag.com/gag/azeWKDp)
+ - 🚯 [Tough choice](http://9gag.com/gag/aqGP6Gj)
  - 🚯 [If I had a nickel for every time this woman was almost hit by a tram, I&#39;d have two nickels. Which isn&#39;t a lot, but it&#39;s weird that it happened twice.](http://9gag.com/gag/aOQMZwr)<!-- MEMES:END -->
 
 --- 
