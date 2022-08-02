@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This world gets weirder every day!](http://9gag.com/gag/angm280)
- - 🚯 [Fuijan,China. Meanwhile al the flights departing from the city have been canceled.](http://9gag.com/gag/aGzm8Wz)
- - 🚯 [Meow](http://9gag.com/gag/azeWKDp)<!-- MEMES:END -->
+ - 🚖 [Falling to your death](http://9gag.com/gag/angmn3o)
+ - 🚯 [Meow](http://9gag.com/gag/azeWKDp)
+ - 🚯 [If I had a nickel for every time this woman was almost hit by a tram, I&#39;d have two nickels. Which isn&#39;t a lot, but it&#39;s weird that it happened twice.](http://9gag.com/gag/aOQMZwr)<!-- MEMES:END -->
 
 --- 
 
