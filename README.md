@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Changes Sims 4 Paid Mod Rules After Fan Backlash](https://kotaku.com/ea-paid-mods-early-access-sims-4-rule-changes-maxis-1849362416)
- - [Elden Ring modder chops down giant Erdtree for a performance boost](https://www.pcgamer.com/elden-ring-modder-chops-down-giant-erdtree-for-a-performance-boost)
- - [After popularizing self-revive in battle royale, Apex Legends is getting rid of it](https://www.pcgamer.com/after-popularizing-self-revive-in-battle-royale-apex-legends-is-getting-rid-of-it)<!-- GAME:END -->
+ - [Malcolm McDowell announces Gloomwood delay: &#39;For God&#39;s sake, you can wait&#39;](https://www.pcgamer.com/malcolm-mcdowell-announces-gloomwood-delay-for-gods-sake-you-can-wait)
+ - [Fallout 4 modder performs miracle, creates working ladders](https://www.pcgamer.com/fallout-4-modder-performs-miracle-creates-working-ladders)
+ - [EA Changes Sims 4 Paid Mod Rules After Fan Backlash](https://kotaku.com/ea-paid-mods-early-access-sims-4-rule-changes-maxis-1849362416)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
