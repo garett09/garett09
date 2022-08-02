@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OpenCAPI consortium&#39;s assets and standards will be transferred to the CXL consortium, making CXL the dominant server CPU-to-device interconnect standard &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220801/p20#a220801p20)
- - [Hackers drain nearly all of the ~$190M in crypto from the Nomad token bridge, which is backed by Coinbase and OpenSea, over a long series of transactions &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220801/p19#a220801p19)
- - [Apple lifts mask mandate for corporate employees](https://appleinsider.com/articles/22/08/02/apple-lifts-mask-mandate-for-corporate-employees?utm_medium=rss)<!-- TECH:END -->
+ - [You can now get the Android 13 beta on Pixel 6a](https://www.androidauthority.com/android-13-beta-google-pixel-6a-3191160/)
+ - [Leaked Roblox documents show how the platform handles grooming, automatic image scanning, and mass shooting simulators; Roblox says it has over 2,600 moderators &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220802/p3#a220802p3)
+ - [As TikTok grows in the Middle East and North Africa, its regional content moderators complain of psychological distress and pay of around $2 to $3 per hour &lpar;Insider&rpar;](http://www.techmeme.com/220802/p2#a220802p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
