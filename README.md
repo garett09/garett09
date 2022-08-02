@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parafin, which helps companies build financing arms to lend to SMBs, raised a $60M Series B led by GIC, bringing its valuation to $520M and total raised to $94M &lpar;Shubham Saharan/Bloomberg&rpar;](http://www.techmeme.com/220802/p16#a220802p16)
- - [Robinhood Crypto fined $30 million for alleged regulatory violations in NY](https://www.theverge.com/2022/8/2/23288631/robinhood-cryptocurrency-fined-30-million-alleged-regulatory-violations-new-york)
- - [The Philips Hue four-bulb starter kit is 50 percent off](https://www.theverge.com/good-deals/2022/8/2/23287263/philips-hue-smart-bulbs-apple-ipad-jabra-elite-7-active-nintendo-switch-google-chromecast-deal-sale)<!-- TECH:END -->
+ - [European iPhone shipments grow despite overall decline in smartphone market](https://appleinsider.com/articles/22/08/02/european-iphone-shipments-grow-despite-overall-decline-in-smartphone-market?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Logitech will launch a handheld cloud gaming device in 2022](https://www.androidauthority.com/logitech-handheld-cloud-gaming-3192595/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
