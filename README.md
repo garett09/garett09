@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Problem solved](http://9gag.com/gag/aogv4Nw)
- - 🚯 [Man down.](http://9gag.com/gag/axBLb2D)
+ - 🚖 [Sweet and Sour](http://9gag.com/gag/a316843)
+ - 🚯 [More PLA military equipment and military personnel are being drawn to the beaches of the Fujian province closest to Taiwan.](http://9gag.com/gag/a91x5OL)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
