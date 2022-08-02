@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👆 Side-mounted scanners for the win](https://www.androidauthority.com/daily-authority-august-2-2022-3192161/)
- - [Google’s brand new Pixel 6A can now install the somewhat new Android 13 beta](https://www.theverge.com/2022/8/2/23288385/google-pixel-6a-android-13-beta-4-1-released)
- - [Logitech announces a dedicated cloud gaming handheld that supports Xbox Cloud Gaming and more](https://www.theverge.com/2022/8/2/23288386/logitech-g-cloud-gaming-handheld-xbox-cloud-gaming-nvidia-geforce-now)<!-- TECH:END -->
+ - [Apple confirms Studio Display speaker fault, offers workaround](https://appleinsider.com/articles/22/08/02/apple-confirms-studio-display-speaker-fault-offers-workaround?utm_medium=rss)
+ - [Fitbit Sense 2: Everything we know and what we want to see &lpar;Updated: August 2&rpar;](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)
+ - [Daily Authority: 👆 Side-mounted scanners for the win](https://www.androidauthority.com/daily-authority-august-2-2022-3192161/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
