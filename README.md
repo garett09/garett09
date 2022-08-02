@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2 Refugee Crises—and Their Dark Lessons for the Coming Famine](https://www.wired.com/story/ukraine-poland-refugees-disinformation-famine-politics/)
- - [The Kia EV6 GT Swaps Range for Speed, Sadly](https://www.wired.com/story/kia-ev6-gt-review/)
- - [This $400 Touchscreen Toaster Is a Waste of Your Dough](https://www.wired.com/review/revolution-cooking-instaglo-r270-toaster/)<!-- TECH:END -->
+ - [Which Adobe Creative Cloud pricing tier is best for you](https://appleinsider.com/articles/22/08/02/which-adobe-creative-cloud-pricing-tier-is-best-for-you?utm_medium=rss)
+ - [New York-based Arena, which uses AI to help businesses make decisions in &quot;uncertain&quot; environments, raised a $32M Series A led by Initialized and Goldcrest &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220802/p12#a220802p12)
+ - [Samsung launches its repair program in partnership with iFixit, covering Galaxy S20, S21, and Tab S7+; S22 flagships are not supported and repairs are limited &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220802/p11#a220802p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
