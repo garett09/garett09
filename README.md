@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which Adobe Creative Cloud pricing tier is best for you](https://appleinsider.com/articles/22/08/02/which-adobe-creative-cloud-pricing-tier-is-best-for-you?utm_medium=rss)
- - [New York-based Arena, which uses AI to help businesses make decisions in &quot;uncertain&quot; environments, raised a $32M Series A led by Initialized and Goldcrest &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220802/p12#a220802p12)
- - [Samsung launches its repair program in partnership with iFixit, covering Galaxy S20, S21, and Tab S7+; S22 flagships are not supported and repairs are limited &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220802/p11#a220802p11)<!-- TECH:END -->
+ - [Uber’s seeing positive cash flow for the first time ever](https://www.theverge.com/2022/8/2/23287945/uber-positive-cash-flow-q2-2022-earnings)
+ - [Apple TV+ &#39;Luck&#39; is John Lasseter&#39;s post-Pixar redemption arc](https://appleinsider.com/articles/22/08/02/apple-tv-luck-is-john-lasseters-post-pixar-redemption-arc?utm_medium=rss)
+ - [Uber receipt emails are crashing Microsoft Outlook](https://www.theverge.com/2022/8/2/23288589/microsoft-outlook-app-crash-uber-email-receipts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
