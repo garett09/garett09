@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tiffany is selling custom CryptoPunk pendants for $50,000](https://www.theverge.com/2022/8/1/23287775/tiffany-custom-cryptopunk-pendants-nfts-nftiff)
- - [Kenya’s Threat to Ban Facebook Could Backfire](https://www.wired.com/story/kenya-facebook-elections-hate-speech-ban/)
- - [Global Payments plans to acquire fintech peer EVO Payments for nearly $4B, a 24% premium on EVO&#39;s last closing price, and expects the deal to close by Q1 2023 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/220801/p16#a220801p16)<!-- TECH:END -->
+ - [The Best Anime on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-on-netflix-you-absolutely-need-to-watch/#ftag=CAD590a51e)
+ - [Roku has a problem — its buttons aren’t printing enough money](https://www.theverge.com/2022/8/1/23283008/roku-button-revenue-earnings-q2-2022)
+ - [&#39;Lightyear&#39;: When Will the Pixar Flick Be Available on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-when-will-the-pixar-flick-be-available-on-disney-plus-toy-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
