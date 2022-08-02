@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft made this WNBA court look like an Xbox loading screen](https://www.theverge.com/2022/8/2/23288879/microsoft-wnba-court-new-york-liberty-roblox)
- - [&#39;Stranger Things 4&#39; Didn&#39;t Beat &#39;Squid Game&#39; as Netflix&#39;s Biggest Hit Ever     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-didnt-beat-squid-game-as-netflixs-biggest-hit-ever/#ftag=CAD590a51e)
- - [Big Bang Residue Reveals Dark Matter From &#39;Earliest Moments of the Universe&#39;     - CNET](https://www.cnet.com/science/space/big-bang-residue-reveals-dark-matter-from-earliest-moments-of-the-universe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s new Home app in iOS 16 is better but still half-baked](https://www.theverge.com/23279283/apple-homekit-home-app-ios16-preview)
+ - [How to customize the new Home app in iOS 16](https://www.theverge.com/23289078/how-to-customize-homekit-home-app-ios-16)
+ - [Netflix’s limited-edition Cowboy Bebop vinyl is a very good boy](https://www.theverge.com/2022/8/2/23289149/netflix-cowboy-bebop-soundtrack-vinyl-yoko-kanno-the-seatbelts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
