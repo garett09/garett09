@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise](http://9gag.com/gag/a2138p9)
+ - 🚖 [Good old times](http://9gag.com/gag/aegnZYv)
  - 🚯 [Now that&#39;s Deep](http://9gag.com/gag/azeWPnK)
- - 🚯 [An average husky next to a grey wolf](http://9gag.com/gag/aOQM43y)<!-- MEMES:END -->
+ - 🚯 [Surprise](http://9gag.com/gag/a2138p9)<!-- MEMES:END -->
 
 --- 
 
