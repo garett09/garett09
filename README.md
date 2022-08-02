@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European iPhone shipments grow despite overall decline in smartphone market](https://appleinsider.com/articles/22/08/02/european-iphone-shipments-grow-despite-overall-decline-in-smartphone-market?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Logitech will launch a handheld cloud gaming device in 2022](https://www.androidauthority.com/logitech-handheld-cloud-gaming-3192595/)<!-- TECH:END -->
+ - [TwitchCon San Diego will not require masks or vaccinations](https://www.theverge.com/2022/8/2/23288652/twitchcon-san-diego-covid-19-vaccination-masks-monkeypox)
+ - [LA-based MarqVision, which uses AI to monitor marketplaces for counterfeits, including of NFTs, raised a $20M Series A led by DST Global and Atinum Investment &lpar;TechCrunch&rpar;](http://www.techmeme.com/220802/p19#a220802p19)
+ - [Will TikTok Music be the next big podcast platform?](https://www.theverge.com/2022/8/2/23289038/tiktok-music-podcast-spotify-acast-audacy-snap-distrokid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
