@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Anime on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-on-netflix-you-absolutely-need-to-watch/#ftag=CAD590a51e)
- - [Roku has a problem — its buttons aren’t printing enough money](https://www.theverge.com/2022/8/1/23283008/roku-button-revenue-earnings-q2-2022)
- - [&#39;Lightyear&#39;: When Will the Pixar Flick Be Available on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-when-will-the-pixar-flick-be-available-on-disney-plus-toy-story/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The OpenCAPI consortium&#39;s assets and standards will be transferred to the CXL consortium, making CXL the dominant server CPU-to-device interconnect standard &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220801/p20#a220801p20)
+ - [Hackers drain nearly all of the ~$190M in crypto from the Nomad token bridge, which is backed by Coinbase and OpenSea, over a long series of transactions &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220801/p19#a220801p19)
+ - [Apple lifts mask mandate for corporate employees](https://appleinsider.com/articles/22/08/02/apple-lifts-mask-mandate-for-corporate-employees?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
