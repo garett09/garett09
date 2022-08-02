@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Water puppy morning routine](http://9gag.com/gag/ay9b4Vb)
- - 🚯 [Surprise](http://9gag.com/gag/a2138p9)
- - 🚯 [Fox puzzle of different animal shapes](http://9gag.com/gag/aBnAV6P)<!-- MEMES:END -->
+ - 🚖 [This world gets weirder every day!](http://9gag.com/gag/angm280)
+ - 🚯 [Fuijan,China. Meanwhile al the flights departing from the city have been canceled.](http://9gag.com/gag/aGzm8Wz)
+ - 🚯 [Meow](http://9gag.com/gag/azeWKDp)<!-- MEMES:END -->
 
 --- 
 
