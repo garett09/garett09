@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new Home app in iOS 16 is better but still half-baked](https://www.theverge.com/23279283/apple-homekit-home-app-ios16-preview)
- - [How to customize the new Home app in iOS 16](https://www.theverge.com/23289078/how-to-customize-homekit-home-app-ios-16)
- - [Netflix’s limited-edition Cowboy Bebop vinyl is a very good boy](https://www.theverge.com/2022/8/2/23289149/netflix-cowboy-bebop-soundtrack-vinyl-yoko-kanno-the-seatbelts)<!-- TECH:END -->
+ - [Robinhood reports Q2 revenue down 44% YoY to $318M, vs $321M est., a $295M net loss, down from $502M YoY, and MAUs down 1.9M QoQ to 14M in June 2022 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220802/p26#a220802p26)
+ - [EA reports Q1 revenue up 14% YoY to $1.77B, vs. $1.26B est., and net income up 52% YoY to $311M, vs. $101.6M est., but gives Q2 guidance below projections &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p25#a220802p25)
+ - [Justice Department Files First Lawsuit Against Abortion Ban After Roe v. Wade Overturned     - CNET](https://www.cnet.com/health/medical/justice-department-files-first-lawsuit-against-abortion-ban-after-roe-v-wade-overturned/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
