@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which game did it right?](http://9gag.com/gag/aAG84OE)
- - 🚯 [Problem solved](http://9gag.com/gag/aogv4Nw)
- - 🚯 [Man down.](http://9gag.com/gag/axBLb2D)<!-- MEMES:END -->
+ - 🚖 [Problem solved](http://9gag.com/gag/aogv4Nw)
+ - 🚯 [Man down.](http://9gag.com/gag/axBLb2D)
+ - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
 
