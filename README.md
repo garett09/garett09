@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Hisuian Voltorb be Shiny?](https://www.polygon.com/pokemon-go-guide/23288999/can-hisuian-voltorb-be-shiny-spotlight-hour-august)
- - [New Predator Film’s Composer Got The Job After Director Heard Her Work In Assassin’s Creed](https://kotaku.com/predator-prey-assassin-s-creed-valhalla-composer-anthem-1849360545)
- - [Netflix’s Bastard!! reboot shows how fantasy anime has changed over the years](https://www.polygon.com/23283727/netflix-bastard-anime-fantasy)<!-- GAME:END -->
+ - [Warhammer 40K’s 9 best video games, ranked](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)
+ - [The Sims 4 High School Years Expansion Pack is Here](https://news.xbox.com/en-us/2022/08/02/the-sims-4-high-school-years-expansion-pack-is-here/)
+ - [Hitman 3’s new pirate map has a Monkey Island Easter egg](https://www.polygon.com/23288998/hitman-3-pirate-island-map-monkey-island-easter-egg-how-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
