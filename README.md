@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The world&#39;s first syndicated game journalist was an 11-year-old kid](https://www.pcgamer.com/the-worlds-first-syndicated-game-journalist-was-an-11-year-old-kid)
- - [I can&#39;t believe an esports mockumentary made me feel things](https://www.pcgamer.com/i-cant-believe-an-esports-mockumentary-made-me-feel-things)
- - [You&#39;ll never guess what you can do at a funeral in Don&#39;t Ruin A Funeral](https://www.pcgamer.com/youll-never-guess-what-you-can-do-at-a-funeral-in-dont-ruin-a-funeral)<!-- GAME:END -->
+ - [Activision Blizzard&#39;s quarterly revenue steeply declines, but Call of Duty will come to the rescue](https://www.pcgamer.com/activision-blizzards-quarterly-revenue-steeply-declines-but-call-of-duty-will-come-to-the-rescue)
+ - [Battlefield 2042 Update Is Going To Give Everyone Beards](https://kotaku.com/battlefield-2042-update-1-2-patch-dice-ea-beards-1849358015)
+ - [MultiVersus already has millions of players](https://www.pcgamer.com/multiversus-player-count)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
