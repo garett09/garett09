@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber’s seeing positive cash flow for the first time ever](https://www.theverge.com/2022/8/2/23287945/uber-positive-cash-flow-q2-2022-earnings)
- - [Apple TV+ &#39;Luck&#39; is John Lasseter&#39;s post-Pixar redemption arc](https://appleinsider.com/articles/22/08/02/apple-tv-luck-is-john-lasseters-post-pixar-redemption-arc?utm_medium=rss)
- - [Uber receipt emails are crashing Microsoft Outlook](https://www.theverge.com/2022/8/2/23288589/microsoft-outlook-app-crash-uber-email-receipts)<!-- TECH:END -->
+ - [Source: Uber plans to sell its 7.8% stake in Indian food delivery firm Zomato for $350M+, after assuming an unrealized loss of $707M on the investment in Q2 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220802/p15#a220802p15)
+ - [Microsoft’s new Outlook Lite app is now available on Android](https://www.theverge.com/2022/8/2/23288708/microsoft-outlook-lite-android-app-available)
+ - [Apple should have followed Google’s Pixel 6A playbook with the iPhone SE](https://www.theverge.com/23288604/apple-iphone-se-versus-google-pixel-6a-screen-camera-night-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
