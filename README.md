@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Uber plans to sell its 7.8% stake in Indian food delivery firm Zomato for $350M+, after assuming an unrealized loss of $707M on the investment in Q2 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220802/p15#a220802p15)
- - [Microsoft’s new Outlook Lite app is now available on Android](https://www.theverge.com/2022/8/2/23288708/microsoft-outlook-lite-android-app-available)
- - [Apple should have followed Google’s Pixel 6A playbook with the iPhone SE](https://www.theverge.com/23288604/apple-iphone-se-versus-google-pixel-6a-screen-camera-night-mode)<!-- TECH:END -->
+ - [Parafin, which helps companies build financing arms to lend to SMBs, raised a $60M Series B led by GIC, bringing its valuation to $520M and total raised to $94M &lpar;Shubham Saharan/Bloomberg&rpar;](http://www.techmeme.com/220802/p16#a220802p16)
+ - [Robinhood Crypto fined $30 million for alleged regulatory violations in NY](https://www.theverge.com/2022/8/2/23288631/robinhood-cryptocurrency-fined-30-million-alleged-regulatory-violations-new-york)
+ - [The Philips Hue four-bulb starter kit is 50 percent off](https://www.theverge.com/good-deals/2022/8/2/23287263/philips-hue-smart-bulbs-apple-ipad-jabra-elite-7-active-nintendo-switch-google-chromecast-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
