@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TwitchCon San Diego will not require masks or vaccinations](https://www.theverge.com/2022/8/2/23288652/twitchcon-san-diego-covid-19-vaccination-masks-monkeypox)
- - [LA-based MarqVision, which uses AI to monitor marketplaces for counterfeits, including of NFTs, raised a $20M Series A led by DST Global and Atinum Investment &lpar;TechCrunch&rpar;](http://www.techmeme.com/220802/p19#a220802p19)
- - [Will TikTok Music be the next big podcast platform?](https://www.theverge.com/2022/8/2/23289038/tiktok-music-podcast-spotify-acast-audacy-snap-distrokid)<!-- TECH:END -->
+ - [Microsoft made this WNBA court look like an Xbox loading screen](https://www.theverge.com/2022/8/2/23288879/microsoft-wnba-court-new-york-liberty-roblox)
+ - [&#39;Stranger Things 4&#39; Didn&#39;t Beat &#39;Squid Game&#39; as Netflix&#39;s Biggest Hit Ever     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-didnt-beat-squid-game-as-netflixs-biggest-hit-ever/#ftag=CAD590a51e)
+ - [Big Bang Residue Reveals Dark Matter From &#39;Earliest Moments of the Universe&#39;     - CNET](https://www.cnet.com/science/space/big-bang-residue-reveals-dark-matter-from-earliest-moments-of-the-universe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
