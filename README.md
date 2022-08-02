@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Surprisingly, Xenoblade Chronicles 3 Won Me Over In The First Few Hours](https://kotaku.com/xenoblade-chronicles-3-nintendo-switch-jrpg-impressions-1849357306)
  - [Activision Blizzard&#39;s quarterly revenue steeply declines, but Call of Duty will come to the rescue](https://www.pcgamer.com/activision-blizzards-quarterly-revenue-steeply-declines-but-call-of-duty-will-come-to-the-rescue)
- - [Battlefield 2042 Update Is Going To Give Everyone Beards](https://kotaku.com/battlefield-2042-update-1-2-patch-dice-ea-beards-1849358015)
- - [MultiVersus already has millions of players](https://www.pcgamer.com/multiversus-player-count)<!-- GAME:END -->
+ - [Battlefield 2042 Update Is Going To Give Everyone Beards](https://kotaku.com/battlefield-2042-update-1-2-patch-dice-ea-beards-1849358015)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
