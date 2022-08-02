@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood reports Q2 revenue down 44% YoY to $318M, vs $321M est., a $295M net loss, down from $502M YoY, and MAUs down 1.9M QoQ to 14M in June 2022 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220802/p26#a220802p26)
- - [EA reports Q1 revenue up 14% YoY to $1.77B, vs. $1.26B est., and net income up 52% YoY to $311M, vs. $101.6M est., but gives Q2 guidance below projections &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p25#a220802p25)
- - [Justice Department Files First Lawsuit Against Abortion Ban After Roe v. Wade Overturned     - CNET](https://www.cnet.com/health/medical/justice-department-files-first-lawsuit-against-abortion-ban-after-roe-v-wade-overturned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chevy is offering up to $6,000 Bolt rebates — with a big asterisk](https://www.theverge.com/2022/8/2/23289219/chevy-bolt-goodwill-rebate-6000-dollars-barred-lawsuits)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial](https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
