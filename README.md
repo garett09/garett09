@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After admitting their MMO &#39;sucks,&#39; developer reworks the entire game](https://www.pcgamer.com/after-admitting-their-mmo-sucks-developer-reworks-the-entire-game)
- - [Some Neopets users are locked out of their accounts following data breach](https://www.polygon.com/23289144/neopets-data-breach-password-reset-disaster)
- - [Game of Thrones upgraded to 4K HDR on HBO Max, not ‘too dark’ anymore](https://www.polygon.com/23287801/game-of-thrones-house-of-the-dragon-4k-hdr-hbo-max-dolby-atmos-vision)<!-- GAME:END -->
+ - [Alan Wake 2: Everything we know about Remedy&#39;s survival horror sequel](https://www.pcgamer.com/alan-wake-2-release-date-trailers-gameplay)
+ - [Marvel&#39;s new card game is scrapping its unpopular monetization scheme](https://www.pcgamer.com/marvels-new-card-game-is-scrapping-its-unpopular-monetization-scheme)
+ - [Fire Emblem Fans Should Give This Steam Hit A Try](https://kotaku.com/fire-emblem-triangle-strategy-steam-best-seller-rpg-1849361857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
