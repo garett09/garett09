@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2: Everything we know about Remedy&#39;s survival horror sequel](https://www.pcgamer.com/alan-wake-2-release-date-trailers-gameplay)
- - [Marvel&#39;s new card game is scrapping its unpopular monetization scheme](https://www.pcgamer.com/marvels-new-card-game-is-scrapping-its-unpopular-monetization-scheme)
- - [Fire Emblem Fans Should Give This Steam Hit A Try](https://kotaku.com/fire-emblem-triangle-strategy-steam-best-seller-rpg-1849361857)<!-- GAME:END -->
+ - [EA Changes Sims 4 Paid Mod Rules After Fan Backlash](https://kotaku.com/ea-paid-mods-early-access-sims-4-rule-changes-maxis-1849362416)
+ - [Elden Ring modder chops down giant Erdtree for a performance boost](https://www.pcgamer.com/elden-ring-modder-chops-down-giant-erdtree-for-a-performance-boost)
+ - [After popularizing self-revive in battle royale, Apex Legends is getting rid of it](https://www.pcgamer.com/after-popularizing-self-revive-in-battle-royale-apex-legends-is-getting-rid-of-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
