@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now that&#39;s Deep](http://9gag.com/gag/azeWPnK)
- - 🚯 [I don&#39;t really care about the battle between &#39;&#39;feminists&#39;&#39; and &#39;&#39;men&#39;&#39;, but god damn this lady is lost.](http://9gag.com/gag/a31650N)
- - 🚯 [CHINA&#39;S LAST WARNING ! &lpar;For those who are worrying&rpar;](http://9gag.com/gag/a81R6B3)<!-- MEMES:END -->
+ - 🚖 [Surprise](http://9gag.com/gag/a2138p9)
+ - 🚯 [Now that&#39;s Deep](http://9gag.com/gag/azeWPnK)
+ - 🚯 [An average husky next to a grey wolf](http://9gag.com/gag/aOQM43y)<!-- MEMES:END -->
 
 --- 
 
