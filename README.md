@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classics never dies](http://9gag.com/gag/aQXLvG7)
- - 🚯 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)
- - 🚯 [I shall play you the song of my people](http://9gag.com/gag/aM4omK6)<!-- MEMES:END -->
+ - 🚖 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)
+ - 🚯 [Classics never dies](http://9gag.com/gag/aQXLvG7)
+ - 🚯 [Constantly mass producing content to keep fans hyped](http://9gag.com/gag/aogv302)<!-- MEMES:END -->
 
 --- 
 
