@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sweet and Sour](http://9gag.com/gag/a316843)
- - 🚯 [Situation right now](http://9gag.com/gag/adgGxRM)
+ - 🚖 [What&#39;s happening right now in one meme](http://9gag.com/gag/aVxpLvn)
+ - 🚯 [Winnie Pooh after Pelosi landed in Taiwan](http://9gag.com/gag/aegnmWb)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
