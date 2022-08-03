@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously like how?](http://9gag.com/gag/awzEYOR)
+ - 🚖 [Better than erasing it](http://9gag.com/gag/amgeVAv)
  - 🚯 [Blocking the exit to pack groceries because it\u2019s raining](http://9gag.com/gag/aLvZdpz)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
