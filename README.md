@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches its Luna game streaming service on Samsung&#39;s 2022 smart TVs and monitors as part of the Samsung Gaming Hub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220803/p23#a220803p23)
- - [Striking Graphs That Show Humanity’s Domination of the Earth](https://www.wired.com/story/striking-graphs-that-show-humanitys-domination-of-the-earth/)
- - [The Pigs Died. Then Scientists Revived Their Cells](https://www.wired.com/story/the-pigs-died-then-scientists-revived-their-cells/)<!-- TECH:END -->
+ - [Steve Jobs&#39; hero Buckminster Fuller thought Apple II was a toy](https://appleinsider.com/articles/22/08/03/steve-jobss-hero-buckminster-fuller-thought-apple-ii-was-a-toy?utm_medium=rss)
+ - [13 Great Deals on Ebikes, Escooters, and Bike Accessories](https://www.wired.com/story/ebike-escooter-bike-accessory-deals-august-3-2022/)
+ - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
