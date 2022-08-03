@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk’s creators and star voice support for VFX unions over ‘rushed’ work](https://www.polygon.com/23291038/she-hulk-creators-disney-vfx-union)
- - [Konami’s new Bomberman tries to get creative with a classic formula](https://www.polygon.com/23291148/amazing-bomberman-release-date-trailer-konami-apple-arcade)
- - [I know it&#39;s a bad idea, but I want this PC gaming fish tank](https://www.pcgamer.com/i-know-its-a-bad-idea-but-i-want-this-pc-gaming-fish-tank)<!-- GAME:END -->
+ - [Diablo Devs Say Activision Back To Its Old ‘Union-Busting’ Tricks](https://kotaku.com/diablo-call-duty-activision-blizzard-union-busting-1849368397)
+ - [Dead by Daylight publisher reveals a new co-op puzzle game coming in 2023](https://www.pcgamer.com/dead-by-daylight-publisher-reveals-a-new-co-op-puzzle-game-coming-in-2023)
+ - [The Sims 4 patch reminds Sims they don&#39;t want to have sex with family members](https://www.pcgamer.com/the-sims-4-patch-reminds-sims-they-dont-want-to-have-sex-with-family-members)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
