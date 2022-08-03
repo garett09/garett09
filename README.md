@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago-based investment research service Tegus has acquired financial data and analytics startup Canalyst, sources say for between CAD$400M and CAD$500M &lpar;BetaKit&rpar;](http://www.techmeme.com/220802/p32#a220802p32)
- - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
- - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Nick Clegg is partly relocating to London for personal reasons, splitting his time between California and the UK, as Meta embraces remote leadership &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p38#a220802p38)
+ - [Virginia-based RegScale, which provides continuous compliance automation software to companies, has raised a $20M Series A led by SYN Ventures &lpar;Michaela Althouse/Technical.ly&rpar;](http://www.techmeme.com/220802/p37#a220802p37)
+ - [Equifax says it fixed a &quot;technological coding issue&quot; that sources say sent lenders faulty credit scores on millions of US consumers from mid-March-early April &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220802/p36#a220802p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
