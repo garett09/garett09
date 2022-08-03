@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cable bus](http://9gag.com/gag/a81RVAO)
- - 🚯 [The floor is slicc but he thicc](http://9gag.com/gag/aM4oO6M)
+ - 🚖 [The ugly truth](http://9gag.com/gag/ajgzRWg)
+ - 🚯 [They are extremely angry](http://9gag.com/gag/azeWYrm)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
