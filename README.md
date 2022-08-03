@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robbery victim tracks thief with AirTag, gets broken nose](https://appleinsider.com/articles/22/08/03/robbery-victim-tracks-thief-with-airtag-gets-broken-nose?utm_medium=rss)
- - [No One Cares About My Framed NFT Art](https://www.wired.com/story/no-one-cares-about-my-framed-nft-art/)
- - [What Twitter’s Move to Shutter Offices Signals for Big Tech](https://www.wired.com/story/twitter-cuts-spell-trouble-for-big-office-boom/)<!-- TECH:END -->
+ - [How to find &lpar;and delete&rpar; your TikTok history](https://www.theverge.com/23289267/tiktok-history-find-delete-how-to)
+ - [AppleCare+ adds theft and loss coverage to more European countries](https://appleinsider.com/articles/22/08/03/applecare-adds-theft-and-loss-coverage-to-more-european-countries?utm_medium=rss)
+ - [In a U-turn, the UK&#39;s CMA provisionally agrees to the $8B merger between Avast and NortonLifeLock, citing &quot;significant competition&quot; from McAfee and others &lpar;Kate Beioley/Financial Times&rpar;](http://www.techmeme.com/220803/p16#a220803p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
