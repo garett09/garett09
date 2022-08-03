@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard side-eyed as Activision reports deep slide in player numbers](https://www.polygon.com/23290616/activision-call-of-duty-active-users-quarterly-earnings-report)
- - [Blizzard reportedly cans WoW spinoff MMO that spent three years in development](https://www.pcgamer.com/blizzard-reportedly-cans-wow-spinoff-mmo-that-spent-three-years-in-development)
- - [A World of Warcraft bug has caused big nerfs to some classes in Fated raids](https://www.pcgamer.com/a-world-of-warcraft-bug-has-caused-big-nerfs-to-some-classes-in-fated-raids)<!-- GAME:END -->
+ - [Hooked on You is the Dead by Daylight dating sims fans have demanded](https://www.polygon.com/23075061/dead-by-daylight-dating-sim-hooked-on-you-romance-options)
+ - [Meet Your Maker: Designing Destruction in Behaviour Interactive’s New Building-and-Raiding Game](https://news.xbox.com/en-us/2022/08/03/meet-your-maker-preview/)
+ - [One of BoardGameGeek&#39;s top games now has a Steam version](https://www.pcgamer.com/one-of-boardgamegeeks-top-games-now-has-a-steam-version)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
