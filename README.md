@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Assassins Creed: Chicago](http://9gag.com/gag/aggDjAq)
- - 🚯 [Just in case](http://9gag.com/gag/a316nGr)
+ - 🚖 [Uno reverse](http://9gag.com/gag/azeWBqx)
+ - 🚯 [Could we just skip this filter?](http://9gag.com/gag/azeW4Np)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
