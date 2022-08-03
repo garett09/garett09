@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber partners with Berlin-based travel service Omio to test train and coach bookings via its app in the UK, using Omio&#39;s inventory across 1,000+ providers &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220803/p10#a220803p10)
- - [Ford says it delivered the sold-out F-150 Lightning to customers in all 50 states](https://www.theverge.com/2022/8/3/23289378/ford-f150-lightning-delivery-50-states-ev)
- - [Daily Authority: ⚒️ Self-repair your Samsung phones](https://www.androidauthority.com/daily-authority-august-3-2022-3192758/)<!-- TECH:END -->
+ - [Robbery victim tracks thief with AirTag, gets broken nose](https://appleinsider.com/articles/22/08/03/robbery-victim-tracks-thief-with-airtag-gets-broken-nose?utm_medium=rss)
+ - [No One Cares About My Framed NFT Art](https://www.wired.com/story/no-one-cares-about-my-framed-nft-art/)
+ - [What Twitter’s Move to Shutter Offices Signals for Big Tech](https://www.wired.com/story/twitter-cuts-spell-trouble-for-big-office-boom/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
