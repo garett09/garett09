@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
- - 🚯 [Hold my beer](http://9gag.com/gag/aLvZrrV)
+ - 🚖 [All Fifa games](http://9gag.com/gag/a81Rn4Y)
+ - 🚯 [Imagine u r an astronaut and still couldn&#39;t pay off ur college debt](http://9gag.com/gag/avAMmpO)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
