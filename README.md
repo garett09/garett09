@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Pokémon Scarlet And Violet’s Legendaries](https://kotaku.com/pokemon-scarlet-violet-legendaries-koraidon-miraidon-le-1849001183)
- - [HeroQuest expansion leans into replayability, giving players more characters to explore](https://www.polygon.com/tabletop-games/23289425/heroquest-expansion-rogue-heir-of-elethorn-announcement-release-date-price)
- - [Pokémon Scarlet and Violet co-op could change everything](https://www.polygon.com/23290366/pokemon-scarlet-and-violet-co-op-multiplayer-open-world-rpg)<!-- GAME:END -->
+ - [Call of Duty: Vanguard side-eyed as Activision reports deep slide in player numbers](https://www.polygon.com/23290616/activision-call-of-duty-active-users-quarterly-earnings-report)
+ - [Blizzard reportedly cans WoW spinoff MMO that spent three years in development](https://www.pcgamer.com/blizzard-reportedly-cans-wow-spinoff-mmo-that-spent-three-years-in-development)
+ - [A World of Warcraft bug has caused big nerfs to some classes in Fated raids](https://www.pcgamer.com/a-world-of-warcraft-bug-has-caused-big-nerfs-to-some-classes-in-fated-raids)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
