@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon Go&#39;s Bug Out Event Adds Mega Scizor, Shiny Venipede and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-bug-out-event-mega-scizor-shiny-venipede-and-more/#ftag=CAD590a51e)
- - [Biden&#39;s Second Executive Order on Abortion Supports Interstate Travel     - CNET](https://www.cnet.com/news/politics/bidens-second-executive-order-on-abortion-supports-interstate-travel/#ftag=CAD590a51e)
- - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: European Commission antitrust enforcers are investigating Google&#39;s Play Store rules; rivals received questionnaires on billing terms and developer fees &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/220803/p30#a220803p30)
+ - [SoftBank raised $22B in cash from deals that would sharply reduce its stake in Alibaba in the future; SoftBank holds a 23.9% stake in Alibaba as of mid-July &lpar;Financial Times&rpar;](http://www.techmeme.com/220803/p29#a220803p29)
+ - [Spain bans setting the AC below 27 degrees Celsius](https://www.theverge.com/2022/8/3/23291066/spain-bans-setting-air-conditioning-below-27-degrees-celsius)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
