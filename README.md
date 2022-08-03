@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
- - 🚯 [Imagine u r an astronaut and still couldn&#39;t pay off ur college debt](http://9gag.com/gag/avAMmpO)
+ - 🚯 [Hold my beer](http://9gag.com/gag/aLvZrrV)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
