@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the new Pokémon Presents showcase](https://www.polygon.com/23289016/pokemon-presents-2022-time-scarlet-and-violet)
- - [AMD&#39;s record $6.6B revenue keeps &#39;high-end&#39; RDNA 3 GPUs and Ryzen 7000 CPUs on track for launch this year](https://www.pcgamer.com/amds-record-dollar66b-revenue-keeps-high-end-rdna-3-gpus-and-ryzen-7000-cpus-on-track-for-launch-this-year)
- - [Today&#39;s Wordle answer #410: Wednesday, August 3](https://www.pcgamer.com/wordle-today-answer-hint)<!-- GAME:END -->
+ - [The Steam Deck will now warn you when it is too hot or too cold to play](https://www.pcgamer.com/steam-deck-temperature-warning)
+ - [Where to find Crash Pads in Fortnite](https://www.pcgamer.com/fortnite-crash-pads)
+ - [Watch the new Pokémon Presents showcase](https://www.polygon.com/23289016/pokemon-presents-2022-time-scarlet-and-violet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
