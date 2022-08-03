@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Switch Features Most People Forget About](https://kotaku.com/nintendo-switch-features-remove-news-app-voice-chat-1849362089)
- - [New Pokémon Scarlet and Violet trailer shows open-world exploration in new Paldea region](https://www.polygon.com/23289343/pokemon-scarlet-violet-paldea-region-trailer-pokemon-presents)
- - [Pokemon Scarlet, Violet&#39;s Legendaries Are Goddamn Motorcycles, Here&#39;s The Open World You&#39;ll Explore](https://kotaku.com/pokemon-scarlet-violet-legendaries-motorcycle-switch-1849362675)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet get two new Pokémon](https://www.polygon.com/23290261/pokemon-scarlet-violet-fidough-cetitan-new-pokemon-trailer-wooper)
+ - [NBA 2K23’s gameplay overhaul reemphasizes attacking the basket](https://www.polygon.com/23289201/nba-2k23-preview-gameplay-new-controls-release-date)
+ - [Where to buy the Vessel of Profound Possibilities in WoW Shadowlands](https://www.pcgamer.com/world-of-warcraft-wow-vessel-of-profound-possibilities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
