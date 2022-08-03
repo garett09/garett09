@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Zomato appoints four CEOs to lead each of its key business units Zomato, Blinkit, Hyperpure, and Feeding India and plans to rename itself Eternal &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220803/p4#a220803p4)
- - [AT&amp;T’s 3G shutdown catches blame for a major election headache in Michigan](https://www.theverge.com/2022/8/3/23289999/att-3g-shutdown-michigan-wayne-county-election-midterms)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: August 3&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [Nansen: users spent ~$2.7B worth of ether to mint NFTs in H1 2022; 50.7% of the ETH raised stayed with the NFT projects and 45.7% went to non-entity wallets &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/220803/p5#a220803p5)
+ - [Deals: Sam&#39;s Club membership on sale for $14.99, plus free $10 gift card](https://appleinsider.com/articles/22/08/03/deals-sams-club-membership-on-sale-for-1499-plus-free-10-gift-card?utm_medium=rss)
+ - [Internal memo: Zomato appoints four CEOs to lead each of its key business units Zomato, Blinkit, Hyperpure, and Feeding India and plans to rename itself Eternal &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220803/p4#a220803p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
