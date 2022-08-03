@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; hero Buckminster Fuller thought Apple II was a toy](https://appleinsider.com/articles/22/08/03/steve-jobss-hero-buckminster-fuller-thought-apple-ii-was-a-toy?utm_medium=rss)
- - [13 Great Deals on Ebikes, Escooters, and Bike Accessories](https://www.wired.com/story/ebike-escooter-bike-accessory-deals-august-3-2022/)
- - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)<!-- TECH:END -->
+ - [Go read this investigation into major methane leaks in Texas and New Mexico](https://www.theverge.com/2022/8/3/23287271/methane-leaks-texas-permian-basin-oil-gas)
+ - [Microsoft Teams is now fully optimized for Macs with M1 or M2 chips](https://www.theverge.com/2022/8/3/23290572/microsoft-teams-apple-silicon-native-app-m1-m2-macs-performance-boost)
+ - [Back in stock: the best ever $279 Apple Watch Series 7 deal returns to Amazon](https://appleinsider.com/articles/22/08/02/the-best-ever-279-apple-watch-series-7-deal-is-back-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
