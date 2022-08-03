@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gorogoa is still one of the best puzzle games I’ve ever played](https://www.polygon.com/dear-polygon/23289079/gorogoa-dear-polygon-puzzle-game-recommendation)
- - [Destiny 2 streamer finds galaxy-brained use for 11 Stadia accounts running simultaneously](https://www.pcgamer.com/destiny-2-streamer-finds-galaxy-brained-use-for-11-stadia-accounts-running-simultaneously)
- - [Let’s Talk About Stray’s Weird Bummer Of An Ending](https://kotaku.com/stray-ending-explained-b12-bluetwelve-cat-annapurna-1849366887)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s New Gym Leader Makes Fans Sexually Confused](https://kotaku.com/pokemon-scarlet-violet-grusha-gym-leader-man-1849367433)
+ - [This Steam Chart Topper Is A Perfect Twist On GOTY Contender Vampire Survivors](https://kotaku.com/vampire-survivors-bullet-hell-roguelike-steam-hit-1849367325)
+ - [Raiden IV x Mikado Remix is Soaring to Xbox in Early 2023](https://news.xbox.com/en-us/2022/08/03/raiden-mikado-remix-soaring-to-xbox-in-early-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
