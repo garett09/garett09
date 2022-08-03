@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s see how many wokes are here.](http://9gag.com/gag/aAG8vjg)
- - 🚯 [What is a woman?](http://9gag.com/gag/avAM9pq)
+ - 🚖 [Then &amp; Now](http://9gag.com/gag/a51O5XE)
+ - 🚯 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
