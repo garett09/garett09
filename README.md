@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latin American e-commerce site MercadoLibre beats with Q2 net sales up 53% YoY to $2.6B vs. $2.5B est., and operating margins of 9.6% vs. 7% est.; stock up 13%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220803/p32#a220803p32)
- - [Spain bans setting the AC below 27 degrees Celsius](https://www.theverge.com/2022/8/3/23291066/spain-bans-setting-air-conditioning-below-27-degrees-celsius)
- - [How to unhide columns in Excel](https://www.androidauthority.com/how-to-unhide-columns-in-excel-3193105/)<!-- TECH:END -->
+ - [Meta says it will shut down its Facebook Live Shopping feature on October 1 as it shifts its focus to Reels on Facebook and Instagram &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220803/p33#a220803p33)
+ - [A leaked Tomb Raider script is looking pretty legit now that Square Enix DMCA’d it](https://www.theverge.com/2022/8/3/23269421/tomb-raider-leaked-script-square-enix-dmca-patreon-colin-moriarty)
+ - [One of the most enduring shows on TV is getting put behind a Peacock paywall](https://www.theverge.com/2022/8/3/23291225/days-of-our-lives-nbc-peacock-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
