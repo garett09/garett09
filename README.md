@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pulled a record 439K apps in Q2, including abandonware](https://appleinsider.com/articles/22/08/03/apple-pulled-a-record-439k-apps-in-q2-including-abandonware?utm_medium=rss)
- - [How to take astronomy photos with just your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-take-astronomy-photos-with-just-your-iphone?utm_medium=rss)
- - [Interviews with two dozen Triller creators and others show that the TikTok rival missed payments after promising Black creators $4K monthly, with half in equity &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220803/p27#a220803p27)<!-- TECH:END -->
+ - [Pokemon Go&#39;s Bug Out Event Adds Mega Scizor, Shiny Venipede and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-bug-out-event-mega-scizor-shiny-venipede-and-more/#ftag=CAD590a51e)
+ - [Biden&#39;s Second Executive Order on Abortion Supports Interstate Travel     - CNET](https://www.cnet.com/news/politics/bidens-second-executive-order-on-abortion-supports-interstate-travel/#ftag=CAD590a51e)
+ - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
