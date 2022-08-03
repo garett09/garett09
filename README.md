@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dan Trachtenberg tells us why Prey is like a sports movie](https://www.polygon.com/23287742/prey-predator-prequel-dan-trachtenberg-sports-movie)
- - [Everything we know about Pokémon Scarlet and Violet](https://www.polygon.com/pokemon/23149987/pokemon-scarlet-violet-nintendo-switch)
- - [Players’ Choice: Vote for July 2022’s best new game](https://blog.playstation.com/2022/08/03/players-choice-vote-for-july-2022s-best-new-game/)<!-- GAME:END -->
+ - [Everything We Know About Pokémon Scarlet And Violet’s Legendaries](https://kotaku.com/pokemon-scarlet-violet-legendaries-koraidon-miraidon-le-1849001183)
+ - [HeroQuest expansion leans into replayability, giving players more characters to explore](https://www.polygon.com/tabletop-games/23289425/heroquest-expansion-rogue-heir-of-elethorn-announcement-release-date-price)
+ - [Pokémon Scarlet and Violet co-op could change everything](https://www.polygon.com/23290366/pokemon-scarlet-and-violet-co-op-multiplayer-open-world-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
