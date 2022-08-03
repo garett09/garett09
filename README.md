@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now TikTok can sell you tickets to see Demi Lovato or the WWE](https://www.theverge.com/2022/8/3/23290490/tiktok-ticketmaster-buy-tickets-demi-lovato-wwe-onerepublic-usher-backstreet-boys)
- - [iPadOS 16 may be delayed until new iPads ship](https://appleinsider.com/articles/22/08/03/ipados-16-may-be-delayed-until-new-ipads-ship?utm_medium=rss)
- - [Apple might delay iPadOS 16 launch](https://www.theverge.com/2022/8/3/23290747/apple-ipad-ipados-16-delay-launch-october)<!-- TECH:END -->
+ - [Apple pulled a record 439K apps in Q2, including abandonware](https://appleinsider.com/articles/22/08/03/apple-pulled-a-record-439k-apps-in-q2-including-abandonware?utm_medium=rss)
+ - [How to take astronomy photos with just your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-take-astronomy-photos-with-just-your-iphone?utm_medium=rss)
+ - [Interviews with two dozen Triller creators and others show that the TikTok rival missed payments after promising Black creators $4K monthly, with half in equity &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220803/p27#a220803p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
