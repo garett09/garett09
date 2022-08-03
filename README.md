@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this investigation into major methane leaks in Texas and New Mexico](https://www.theverge.com/2022/8/3/23287271/methane-leaks-texas-permian-basin-oil-gas)
- - [Microsoft Teams is now fully optimized for Macs with M1 or M2 chips](https://www.theverge.com/2022/8/3/23290572/microsoft-teams-apple-silicon-native-app-m1-m2-macs-performance-boost)
- - [Back in stock: the best ever $279 Apple Watch Series 7 deal returns to Amazon](https://appleinsider.com/articles/22/08/02/the-best-ever-279-apple-watch-series-7-deal-is-back-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Now TikTok can sell you tickets to see Demi Lovato or the WWE](https://www.theverge.com/2022/8/3/23290490/tiktok-ticketmaster-buy-tickets-demi-lovato-wwe-onerepublic-usher-backstreet-boys)
+ - [iPadOS 16 may be delayed until new iPads ship](https://appleinsider.com/articles/22/08/03/ipados-16-may-be-delayed-until-new-ipads-ship?utm_medium=rss)
+ - [Apple might delay iPadOS 16 launch](https://www.theverge.com/2022/8/3/23290747/apple-ipad-ipados-16-delay-launch-october)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
