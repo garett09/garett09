@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: European Commission antitrust enforcers are investigating Google&#39;s Play Store rules; rivals received questionnaires on billing terms and developer fees &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/220803/p30#a220803p30)
- - [SoftBank raised $22B in cash from deals that would sharply reduce its stake in Alibaba in the future; SoftBank holds a 23.9% stake in Alibaba as of mid-July &lpar;Financial Times&rpar;](http://www.techmeme.com/220803/p29#a220803p29)
- - [Spain bans setting the AC below 27 degrees Celsius](https://www.theverge.com/2022/8/3/23291066/spain-bans-setting-air-conditioning-below-27-degrees-celsius)<!-- TECH:END -->
+ - [Latin American e-commerce site MercadoLibre beats with Q2 net sales up 53% YoY to $2.6B vs. $2.5B est., and operating margins of 9.6% vs. 7% est.; stock up 13%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220803/p32#a220803p32)
+ - [Spain bans setting the AC below 27 degrees Celsius](https://www.theverge.com/2022/8/3/23291066/spain-bans-setting-air-conditioning-below-27-degrees-celsius)
+ - [How to unhide columns in Excel](https://www.androidauthority.com/how-to-unhide-columns-in-excel-3193105/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
