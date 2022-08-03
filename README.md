@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [The Verge’s favorite tools to stay organized](https://www.theverge.com/22882328/organization-tools-todo-notes-journals)
- - [Textbook publisher Pearson plans to turn its e-books into NFTs so the company can profit from secondhand sales &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/220803/p19#a220803p19)<!-- TECH:END -->
+ - [The Most Surveilled Place in America](https://www.theverge.com/c/23203881/border-patrol-wall-surveillance-tech)
+ - [Alec Baldwin shouting ‘Patriot Act’ in The Departed: a close reading](https://www.theverge.com/c/23280403/the-departed-patriot-act-alec-baldwin-close-reading)
+ - [Fitbit Sense 2: Everything we know and what we want to see &lpar;Updated: August 3&rpar;](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
