@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uno reverse](http://9gag.com/gag/azeWBqx)
- - 🚯 [Could we just skip this filter?](http://9gag.com/gag/azeW4Np)
+ - 🚖 [Wing man](http://9gag.com/gag/aLvZrjA)
+ - 🚯 [*Happy dancing noise*](http://9gag.com/gag/a61031A)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
