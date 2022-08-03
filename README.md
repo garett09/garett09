@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck will now warn you when it is too hot or too cold to play](https://www.pcgamer.com/steam-deck-temperature-warning)
- - [Where to find Crash Pads in Fortnite](https://www.pcgamer.com/fortnite-crash-pads)
- - [Watch the new Pokémon Presents showcase](https://www.polygon.com/23289016/pokemon-presents-2022-time-scarlet-and-violet)<!-- GAME:END -->
+ - [The Nintendo Switch Features Most People Forget About](https://kotaku.com/nintendo-switch-features-remove-news-app-voice-chat-1849362089)
+ - [New Pokémon Scarlet and Violet trailer shows open-world exploration in new Paldea region](https://www.polygon.com/23289343/pokemon-scarlet-violet-paldea-region-trailer-pokemon-presents)
+ - [Pokemon Scarlet, Violet&#39;s Legendaries Are Goddamn Motorcycles, Here&#39;s The Open World You&#39;ll Explore](https://kotaku.com/pokemon-scarlet-violet-legendaries-motorcycle-switch-1849362675)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
