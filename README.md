@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s New Gym Leader Makes Fans Sexually Confused](https://kotaku.com/pokemon-scarlet-violet-grusha-gym-leader-man-1849367433)
- - [This Steam Chart Topper Is A Perfect Twist On GOTY Contender Vampire Survivors](https://kotaku.com/vampire-survivors-bullet-hell-roguelike-steam-hit-1849367325)
- - [Raiden IV x Mikado Remix is Soaring to Xbox in Early 2023](https://news.xbox.com/en-us/2022/08/03/raiden-mikado-remix-soaring-to-xbox-in-early-2023/)<!-- GAME:END -->
+ - [The Batgirl movie may never be released, even though it’s already done](https://www.polygon.com/23289406/batgirl-movie-canceled)
+ - [Prey strips the Predator formula down to basics, but finds some room for style](https://www.polygon.com/reviews/23287600/prey-review-predator-hulu)
+ - [23 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
