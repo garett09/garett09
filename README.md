@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All Fifa games](http://9gag.com/gag/a81Rn4Y)
- - 🚯 [Imagine u r an astronaut and still couldn&#39;t pay off ur college debt](http://9gag.com/gag/avAMmpO)
+ - 🚖 [Assassins Creed: Chicago](http://9gag.com/gag/aggDjAq)
+ - 🚯 [Just in case](http://9gag.com/gag/a316nGr)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
