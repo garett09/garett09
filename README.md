@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Malcolm McDowell announces Gloomwood delay: &#39;For God&#39;s sake, you can wait&#39;](https://www.pcgamer.com/malcolm-mcdowell-announces-gloomwood-delay-for-gods-sake-you-can-wait)
- - [Fallout 4 modder performs miracle, creates working ladders](https://www.pcgamer.com/fallout-4-modder-performs-miracle-creates-working-ladders)
- - [EA Changes Sims 4 Paid Mod Rules After Fan Backlash](https://kotaku.com/ea-paid-mods-early-access-sims-4-rule-changes-maxis-1849362416)<!-- GAME:END -->
+ - [It&#39;s wild that mobile game ripoffs this bad are allowed to exist](https://www.pcgamer.com/its-wild-that-mobile-game-ripoffs-this-bad-are-allowed-to-exist)
+ - [Esports Owner Wanted By Cops After $33 Million Drug Bust](https://kotaku.com/bernard-bren-chong-philippines-esports-drugs-manhunt-1849363134)
+ - [This parody of Bo Burnham&#39;s &#39;Welcome to the internet&#39; is better than it has any right to be](https://www.pcgamer.com/this-parody-of-bo-burnhams-welcome-to-the-internet-is-better-than-it-has-any-right-to-be)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
