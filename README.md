@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet get two new Pokémon](https://www.polygon.com/23290261/pokemon-scarlet-violet-fidough-cetitan-new-pokemon-trailer-wooper)
- - [NBA 2K23’s gameplay overhaul reemphasizes attacking the basket](https://www.polygon.com/23289201/nba-2k23-preview-gameplay-new-controls-release-date)
- - [Where to buy the Vessel of Profound Possibilities in WoW Shadowlands](https://www.pcgamer.com/world-of-warcraft-wow-vessel-of-profound-possibilities)<!-- GAME:END -->
+ - [Dan Trachtenberg tells us why Prey is like a sports movie](https://www.polygon.com/23287742/prey-predator-prequel-dan-trachtenberg-sports-movie)
+ - [Everything we know about Pokémon Scarlet and Violet](https://www.polygon.com/pokemon/23149987/pokemon-scarlet-violet-nintendo-switch)
+ - [Players’ Choice: Vote for July 2022’s best new game](https://blog.playstation.com/2022/08/03/players-choice-vote-for-july-2022s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
