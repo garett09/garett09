@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chevy is offering up to $6,000 Bolt rebates — with a big asterisk](https://www.theverge.com/2022/8/2/23289219/chevy-bolt-goodwill-rebate-6000-dollars-barred-lawsuits)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial](https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/)<!-- TECH:END -->
+ - [Chicago-based investment research service Tegus has acquired financial data and analytics startup Canalyst, sources say for between CAD$400M and CAD$500M &lpar;BetaKit&rpar;](http://www.techmeme.com/220802/p32#a220802p32)
+ - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
+ - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
