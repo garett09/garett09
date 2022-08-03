@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That toast is Suger Free](http://9gag.com/gag/amgebA6)
- - 🚯 [Just cheking _daandg hipothesis](http://9gag.com/gag/arnQr7B)
+ - 🚖 [China when Pelosi touched down](http://9gag.com/gag/a213xwZ)
+ - 🚯 [Brb gotta jettison 100 million gallons of fish blood into the waterway](http://9gag.com/gag/a71Y62m)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
