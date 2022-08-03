@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Semiconductor maker Semtech Corp. to acquire Sierra Wireless in an all-cash deal valuing the Canadian company at $1.2B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/220803/p2#a220803p2)
+ - [Internal memo: Zomato appoints four CEOs to lead each of its key business units Zomato, Blinkit, Hyperpure, and Feeding India and plans to rename itself Eternal &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220803/p4#a220803p4)
  - [AT&amp;T’s 3G shutdown catches blame for a major election headache in Michigan](https://www.theverge.com/2022/8/3/23289999/att-3g-shutdown-michigan-wayne-county-election-midterms)
- - [NPD Group: US consumer spending on video game products fell 13% YoY to $12.35B in Q2 2022; non-mobile subscription content was Q2&#39;s only growth category &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220803/p1#a220803p1)<!-- TECH:END -->
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: August 3&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
