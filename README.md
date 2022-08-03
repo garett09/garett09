@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Surveilled Place in America](https://www.theverge.com/c/23203881/border-patrol-wall-surveillance-tech)
- - [Alec Baldwin shouting ‘Patriot Act’ in The Departed: a close reading](https://www.theverge.com/c/23280403/the-departed-patriot-act-alec-baldwin-close-reading)
- - [Fitbit Sense 2: Everything we know and what we want to see &lpar;Updated: August 3&rpar;](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)<!-- TECH:END -->
+ - [Amazon launches its Luna game streaming service on Samsung&#39;s 2022 smart TVs and monitors as part of the Samsung Gaming Hub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220803/p23#a220803p23)
+ - [Striking Graphs That Show Humanity’s Domination of the Earth](https://www.wired.com/story/striking-graphs-that-show-humanitys-domination-of-the-earth/)
+ - [The Pigs Died. Then Scientists Revived Their Cells](https://www.wired.com/story/the-pigs-died-then-scientists-revived-their-cells/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
