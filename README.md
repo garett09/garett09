@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;s happening right now in one meme](http://9gag.com/gag/aVxpLvn)
- - 🚯 [Situation right now](http://9gag.com/gag/adgGxRM)
+ - 🚖 [Situation right now](http://9gag.com/gag/adgGxRM)
+ - 🚯 [China: The US will pay the price it they go to Taiwan! *go to Taiwan anyway* The world:](http://9gag.com/gag/aegnxmq)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
