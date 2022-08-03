@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Situation right now](http://9gag.com/gag/adgGxRM)
- - 🚯 [China: The US will pay the price it they go to Taiwan! *go to Taiwan anyway* The world:](http://9gag.com/gag/aegnxmq)
+ - 🚖 [That day, for no particular reason I decided to go for a little run. So I run to Taiwan.](http://9gag.com/gag/aVxpZKO)
+ - 🚯 [Forged in the heart of a dying star](http://9gag.com/gag/aBnAXdx)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
