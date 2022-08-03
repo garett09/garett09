@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batgirl movie may never be released, even though it’s already done](https://www.polygon.com/23289406/batgirl-movie-canceled)
- - [Prey strips the Predator formula down to basics, but finds some room for style](https://www.polygon.com/reviews/23287600/prey-review-predator-hulu)
- - [23 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
+ - [She-Hulk’s creators and star voice support for VFX unions over ‘rushed’ work](https://www.polygon.com/23291038/she-hulk-creators-disney-vfx-union)
+ - [Konami’s new Bomberman tries to get creative with a classic formula](https://www.polygon.com/23291148/amazing-bomberman-release-date-trailer-konami-apple-arcade)
+ - [I know it&#39;s a bad idea, but I want this PC gaming fish tank](https://www.pcgamer.com/i-know-its-a-bad-idea-but-i-want-this-pc-gaming-fish-tank)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
