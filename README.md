@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wing man](http://9gag.com/gag/aLvZrjA)
- - 🚯 [*Happy dancing noise*](http://9gag.com/gag/a61031A)
+ - 🚖 [That toast is Suger Free](http://9gag.com/gag/amgebA6)
+ - 🚯 [Just cheking _daandg hipothesis](http://9gag.com/gag/arnQr7B)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
