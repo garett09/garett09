@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find &lpar;and delete&rpar; your TikTok history](https://www.theverge.com/23289267/tiktok-history-find-delete-how-to)
- - [AppleCare+ adds theft and loss coverage to more European countries](https://appleinsider.com/articles/22/08/03/applecare-adds-theft-and-loss-coverage-to-more-european-countries?utm_medium=rss)
- - [In a U-turn, the UK&#39;s CMA provisionally agrees to the $8B merger between Avast and NortonLifeLock, citing &quot;significant competition&quot; from McAfee and others &lpar;Kate Beioley/Financial Times&rpar;](http://www.techmeme.com/220803/p16#a220803p16)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [The Verge’s favorite tools to stay organized](https://www.theverge.com/22882328/organization-tools-todo-notes-journals)
+ - [Textbook publisher Pearson plans to turn its e-books into NFTs so the company can profit from secondhand sales &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/220803/p19#a220803p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
