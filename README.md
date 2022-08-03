@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hooked on You is the Dead by Daylight dating sims fans have demanded](https://www.polygon.com/23075061/dead-by-daylight-dating-sim-hooked-on-you-romance-options)
- - [Meet Your Maker: Designing Destruction in Behaviour Interactive’s New Building-and-Raiding Game](https://news.xbox.com/en-us/2022/08/03/meet-your-maker-preview/)
- - [One of BoardGameGeek&#39;s top games now has a Steam version](https://www.pcgamer.com/one-of-boardgamegeeks-top-games-now-has-a-steam-version)<!-- GAME:END -->
+ - [Gorogoa is still one of the best puzzle games I’ve ever played](https://www.polygon.com/dear-polygon/23289079/gorogoa-dear-polygon-puzzle-game-recommendation)
+ - [Destiny 2 streamer finds galaxy-brained use for 11 Stadia accounts running simultaneously](https://www.pcgamer.com/destiny-2-streamer-finds-galaxy-brained-use-for-11-stadia-accounts-running-simultaneously)
+ - [Let’s Talk About Stray’s Weird Bummer Of An Ending](https://kotaku.com/stray-ending-explained-b12-bluetwelve-cat-annapurna-1849366887)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
