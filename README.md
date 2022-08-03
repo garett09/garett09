@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ugly truth](http://9gag.com/gag/ajgzRWg)
- - 🚯 [They are extremely angry](http://9gag.com/gag/azeWYrm)
+ - 🚖 [Let&#39;s see how many wokes are here.](http://9gag.com/gag/aAG8vjg)
+ - 🚯 [What is a woman?](http://9gag.com/gag/avAM9pq)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
