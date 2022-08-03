@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to kick someone off your Wi-Fi](https://www.androidauthority.com/kick-people-off-wi-fi-3183857/)
- - [Sales of Nintendo’s Switch dip as chip shortage continues to bite](https://www.theverge.com/2022/8/3/23290085/nintendo-switch-q1-2023-earnings-sales-software-hardware-down-semiconductor-shortage)
- - [US House Speaker Nancy Pelosi meets with TSMC chairman Mark Liu and others to discuss implementation of the Chips and Science Act during her Taiwan visit &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220803/p6#a220803p6)<!-- TECH:END -->
+ - [Uber partners with Berlin-based travel service Omio to test train and coach bookings via its app in the UK, using Omio&#39;s inventory across 1,000+ providers &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220803/p10#a220803p10)
+ - [Ford says it delivered the sold-out F-150 Lightning to customers in all 50 states](https://www.theverge.com/2022/8/3/23289378/ford-f150-lightning-delivery-50-states-ev)
+ - [Daily Authority: ⚒️ Self-repair your Samsung phones](https://www.androidauthority.com/daily-authority-august-3-2022-3192758/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
