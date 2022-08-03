@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously like how?](http://9gag.com/gag/awzEYOR)
- - 🚯 [Just in case](http://9gag.com/gag/aBnAO8O)
+ - 🚖 [Cable bus](http://9gag.com/gag/a81RVAO)
+ - 🚯 [The floor is slicc but he thicc](http://9gag.com/gag/aM4oO6M)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
