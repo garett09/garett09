@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio reports Q2 revenue of $943.4M, up 41% YoY, a loss of $311.9M from operations, and 275K active customer accounts; stock down 8%+ on a weak Q3 forecast &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/220804/p29#a220804p29)
- - [HBO Max will be replaced next year by a new service combined with Discovery Plus](https://www.theverge.com/2022/8/4/23292742/hbo-max-discovery-plus-combo-streaming-app)
- - [Filing: Twitter responds to Elon Musk&#39;s counterclaims, saying they are inaccurate, insufficient, and irrelevant and don&#39;t justify his plan to end the deal &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220804/p28#a220804p28)<!-- TECH:END -->
+ - [Apple adds new Mophie Powerstation Pro, GaN charger to online store](https://appleinsider.com/articles/22/08/04/apple-adds-new-mophie-powerstation-pro-gan-charger-to-online-store?utm_medium=rss)
+ - [Mark Zuckerberg’s custom Little League baseball card is getting turned into an NFT](https://www.theverge.com/2022/8/4/23292066/instagram-nft-mark-zuckerberg-baseball-card-metaverse)
+ - [Block reports Q2 revenue down 6.6% YoY to $4.4B, $2.62B net revenue excluding bitcoin, and Cash App bitcoin revenue down 34% YoY to $1.79B; stock is down 5%+ &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220804/p31#a220804p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
