@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Xbox Series S Is Getting A Small Performance Boost](https://kotaku.com/xbox-series-s-memory-boost-performance-microsoft-1849373552)
- - [Here Are Pokémon Scarlet And Violet’s Exclusives &lpar;So Far&rpar;](https://kotaku.com/pokemon-scarlet-violet-version-exclusives-which-to-buy-1849373320)
- - [Alex Jones&#39; &#39;Perjury&#39; Revelation Is Even Better With Phoenix Wright](https://kotaku.com/alex-jones-sandy-hook-trial-perjury-text-phoenix-wright-1849373199)<!-- GAME:END -->
+ - [Management Sim Bear And Breakfast Isn&#39;t Animal Crossing, So Don&#39;t Expect That](https://kotaku.com/bear-and-breakfast-hotel-sim-review-animal-crossing-1849373828)
+ - [Vampire Survivors’ Latest Patch Adds A Cheat Menu, New Characters, And More](https://kotaku.com/vampire-survivors-patch-notes-not-one-roguelike-cheats-1849373684)
+ - [Your Xbox Series S Is Getting A Small Performance Boost](https://kotaku.com/xbox-series-s-memory-boost-performance-microsoft-1849373552)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
