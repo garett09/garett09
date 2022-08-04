@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Buds Pro review: Now with noise-cancelling](https://www.androidauthority.com/google-pixel-buds-pro-review-3192612/)
- - [Daily deals August 4: AirPods Pro for $180, $70 off Apple Watch Series 7, more](https://appleinsider.com/articles/22/08/04/daily-deals-august-4-airpods-pro-for-180-70-off-apple-watch-series-7-more?utm_medium=rss)
- - [The best new streaming movies this week on Hulu, Apple TV Plus Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Source: Meta is selling US corporate bonds for the first time, possibly between $8B and $10B in as many as four parts &lpar;Bloomberg&rpar;](http://www.techmeme.com/220804/p17#a220804p17)
+ - [The US-made 2023 Volkswagen ID.4 will start at $37,495](https://www.theverge.com/2022/8/4/23291919/vw-id4-2023-price-ev-electric-crossover-specs)
+ - [Twitter now lets businesses tell you where to find them](https://www.theverge.com/2022/8/4/23291070/twitter-business-location-spotlight-professional-business-module)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
