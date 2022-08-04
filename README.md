@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All people when they go to Mexico](http://9gag.com/gag/aegnq0q)
+ - 🚖 [Don&#39;t Confuse Tourism with Immigration...](http://9gag.com/gag/a213AWD)
  - 🚯 [People have a proper meme](http://9gag.com/gag/aAG8LV0)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
