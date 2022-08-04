@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The masterminds behind the Nier: Automata church mystery explain how it &#39;got out of hand&#39;](https://www.pcgamer.com/the-masterminds-behind-the-nier-automata-church-mystery-explain-how-it-got-out-of-hand)
  - [Diablo Devs Say Activision Back To Its Old ‘Union-Busting’ Tricks](https://kotaku.com/diablo-call-duty-activision-blizzard-union-busting-1849368397)
- - [Dead by Daylight publisher reveals a new co-op puzzle game coming in 2023](https://www.pcgamer.com/dead-by-daylight-publisher-reveals-a-new-co-op-puzzle-game-coming-in-2023)
- - [The Sims 4 patch reminds Sims they don&#39;t want to have sex with family members](https://www.pcgamer.com/the-sims-4-patch-reminds-sims-they-dont-want-to-have-sex-with-family-members)<!-- GAME:END -->
+ - [Dead by Daylight publisher reveals a new co-op puzzle game coming in 2023](https://www.pcgamer.com/dead-by-daylight-publisher-reveals-a-new-co-op-puzzle-game-coming-in-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
