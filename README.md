@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce says it is closing its office in Hong Kong and &quot;accelerating&quot; its strategic partnership with Alibaba &quot;to better serve the Greater China Region&quot; &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220803/p37#a220803p37)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-stream-on-prime-video-now/#ftag=CAD590a51e)
- - [Beauty Sleep: The Toll Poor Sleep Takes on Your Appearance and Health     - CNET](https://www.cnet.com/health/sleep/beauty-sleep-the-toll-poor-sleep-takes-on-your-appearance-and-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with 15 current and former female Apple staff reveal apathy or retaliation in seven departments across six US states in the face of misconduct claims &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220804/p2#a220804p2)
+ - [Complaints claiming unethical behavior by Indian edtech companies, which raised $4.7B last year and are largely unregulated, can be found all over social media &lpar;Adnan Bhat/Rest of World&rpar;](http://www.techmeme.com/220804/p1#a220804p1)
+ - [Marvel and the MCU Phase 5 and Phase 6: All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/marvel-and-the-mcu-phase-5-and-phase-6-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
