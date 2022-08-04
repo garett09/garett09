@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [How to fix a Toshiba E-Studio 450 multifunctional printer.](http://9gag.com/gag/aVxp4Ew)
- - 🚯 [Trump said it right to EU](http://9gag.com/gag/a81RnVe)
+ - 🚯 [Before you judge someone else&#39;s life, watch this and always remind yourself how good your life actually is](http://9gag.com/gag/angmW7E)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
