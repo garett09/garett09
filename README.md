@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [An invasion of Taiwan would shut down global chip production as &#39;nobody can control TSMC by force.&#39;](https://www.pcgamer.com/an-invasion-of-taiwan-would-shut-down-global-chip-production-as-nobody-can-control-tsmc-by-force)
  - [Today&#39;s Wordle hint and answer: Thursday, August 4 &lpar;#411&rpar;](https://www.pcgamer.com/wordle-today-answer-hint)
- - [Samsung&#39;s next-gen 990 Pro PCIe 5.0 SSD spotted](https://www.pcgamer.com/samsungs-next-gen-990-pro-pcie-50-ssd-spotted)
- - [MultiVersus season 1 has been delayed](https://www.pcgamer.com/multiversus-season-1-has-been-delayed)<!-- GAME:END -->
+ - [Samsung&#39;s next-gen 990 Pro PCIe 5.0 SSD spotted](https://www.pcgamer.com/samsungs-next-gen-990-pro-pcie-50-ssd-spotted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
