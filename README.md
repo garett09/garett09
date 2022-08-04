@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you build your own PC or just give up and buy one?](https://www.polygon.com/23289192/pc-gaming-build-customize-parts-tutorial-recommendation)
- - [Intel&#39;s Arc GPU launch appears to have gone from headache to migraine](https://www.pcgamer.com/intels-arc-gpu-launch-appears-to-have-gone-from-headache-to-migraine)
- - [Blizzard probably isn&#39;t going to charge you $45 for an Overwatch 2 skin](https://www.pcgamer.com/blizzard-probably-isnt-going-to-charge-you-dollar45-for-an-overwatch-2-skin)<!-- GAME:END -->
+ - [You&#39;ve got until 2025 to upgrade to Wi-Fi 6 before it&#39;s yesterday&#39;s news](https://www.pcgamer.com/wi-fi-7-intel-double-speeds)
+ - [Celebrities and the PC games they love](https://www.pcgamer.com/celebrities-and-the-pc-games-they-love)
+ - [Two Point Campus review](https://www.pcgamer.com/two-point-campus-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
