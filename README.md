@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite ways to relieve stress](https://www.theverge.com/23287708/stress-run-exercise-yoga-garden)
- - [Apex Legends’ new character comes with a cute sidekick and a big sniper rifle](https://www.theverge.com/2022/8/4/23291830/apex-legends-hunted-vantage-battle-royale)
- - [New Galaxy Buds 2 Pro leak claims it will have “intelligent” noise cancellation](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-leaks-3193329/)<!-- TECH:END -->
+ - [TuSimple reportedly tried to pass off a self-driving truck crash as ‘human error’](https://www.theverge.com/2022/8/4/23288794/tusimple-self-driving-truck-crash-investigation)
+ - [How to use Universal Control to supercharge your study sessions](https://appleinsider.com/inside/mac/tips/how-to-use-universal-control-to-supercharge-your-study-sessions?utm_medium=rss)
+ - [As Nancy Pelosi visited Taiwan, cyberattacks increased there, likely from China; some 7-11 store TVs displayed the words &quot;Warmonger Pelosi, get out of Taiwan!&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220804/p19#a220804p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
