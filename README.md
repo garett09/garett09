@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer: Thursday, August 4 &lpar;#411&rpar;](https://www.pcgamer.com/wordle-today-answer-hint)
  - [Samsung&#39;s next-gen 990 Pro PCIe 5.0 SSD spotted](https://www.pcgamer.com/samsungs-next-gen-990-pro-pcie-50-ssd-spotted)
- - [MultiVersus season 1 has been delayed](https://www.pcgamer.com/multiversus-season-1-has-been-delayed)
- - [Someone finally beat the $20,000 Halo 2 challenge](https://www.pcgamer.com/someone-finally-beat-the-dollar20000-halo-2-challenge)<!-- GAME:END -->
+ - [MultiVersus season 1 has been delayed](https://www.pcgamer.com/multiversus-season-1-has-been-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
