@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the implosion of Zilingo, valued at $1.2B five months ago, as interviews suggest the fashion marketplace struggled under CEO Ankiti Bose for years &lpar;Bloomberg&rpar;](http://www.techmeme.com/220804/p4#a220804p4)
  - [Deals: M2 MacBook Air gets $100 discount, Apple MacBook Pros are up to $354 off](https://appleinsider.com/articles/22/08/04/deals-m2-macbook-air-gets-100-discount-apple-macbook-pros-are-up-to-354-off?utm_medium=rss)
- - [OnePlus may have secretly launched another phone after the OnePlus 10T](https://www.androidauthority.com/oneplus-nord-n20-se-3193200/)
- - [Best Multivitamins for Men for 2022     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus may have secretly launched another phone after the OnePlus 10T](https://www.androidauthority.com/oneplus-nord-n20-se-3193200/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
