@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Microsoft starts testing an Xbox Game Pass family plan in Colombia and Ireland, letting users add up to four people in the same country to their subscription &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220804/p24#a220804p24)
- - [US Declares Monkeypox a Public Health Emergency     - CNET](https://www.cnet.com/health/medical/us-declares-monkeypox-a-public-health-emergency/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple adds new Mophie Powerstation Pro, GaN charger to online store](https://appleinsider.com/articles/22/08/04/apple-adds-new-mophie-powerstation-pro-gan-charger-to-online-store?utm_medium=rss)
+ - [How calculate age in Excel](https://www.androidauthority.com/calculate-age-in-excel-3193473/)
+ - [SoundCloud is firing 20 percent of its global workforce](https://www.theverge.com/2022/8/4/23292362/soundcloud-firing-20-percent-workforce-layoffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
