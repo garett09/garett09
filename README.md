@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bear building a house](http://9gag.com/gag/aGzm6zn)
- - 🚯 [It&#39;s still there guys](http://9gag.com/gag/abgNLvv)
+ - 🚖 [All people when they go to Mexico](http://9gag.com/gag/aegnq0q)
+ - 🚯 [People have a proper meme](http://9gag.com/gag/aAG8LV0)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
