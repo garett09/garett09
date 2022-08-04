@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hero](http://9gag.com/gag/aZr64Rz)
+ - 🚖 [Night shift was the only open shift\u2026but I\u2019m now a licensed forklift operator.](http://9gag.com/gag/aPZEVbK)
  - 🚯 [Don&#39;t Confuse Tourism with Immigration...](http://9gag.com/gag/a213AWD)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
