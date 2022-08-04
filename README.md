@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the implosion of Zilingo, valued at $1.2B five months ago, as interviews suggest the fashion marketplace struggled under CEO Ankiti Bose for years &lpar;Bloomberg&rpar;](http://www.techmeme.com/220804/p4#a220804p4)
- - [Deals: M2 MacBook Air gets $100 discount, Apple MacBook Pros are up to $354 off](https://appleinsider.com/articles/22/08/04/deals-m2-macbook-air-gets-100-discount-apple-macbook-pros-are-up-to-354-off?utm_medium=rss)
- - [OnePlus may have secretly launched another phone after the OnePlus 10T](https://www.androidauthority.com/oneplus-nord-n20-se-3193200/)<!-- TECH:END -->
+ - [Joaquin Phoenix’s Joker sequel planned for release in October 2024](https://www.theverge.com/2022/8/4/23291705/joker-sequel-folie-a-deux-todd-phillips-joaquin-phoenix-october-2024)
+ - [Kuo backs up rumors that Apple is diversifying suppliers in China](https://appleinsider.com/articles/22/08/04/kuo-backs-up-rumors-that-apple-is-diversifying-suppliers-in-china?utm_medium=rss)
+ - [Investor letter: Tiger Global&#39;s long-only fund ended Q2 down 63.6% and its flagship fund dropped 50% in H1, after it &quot;underestimated the impact&quot; of inflation &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/220804/p5#a220804p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
