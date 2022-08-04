@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus wants to bring back the alert slider on future devices](https://www.androidauthority.com/oneplus-alert-slider-future-3193186/)
  - [The Best Spider-Man Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-spider-man-movies-ranked/#ftag=CAD590a51e)
- - [The Best Pixar Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-pixar-movies-ranked/#ftag=CAD590a51e)
- - [The Best Anime You Need to Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-you-need-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Pixar Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-pixar-movies-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
