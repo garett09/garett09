@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple under fire for how HR handles women who complain about abuse](https://appleinsider.com/articles/22/08/04/apple-under-fire-for-how-hr-handles-women-who-complain-about-abuse?utm_medium=rss)
- - [Alibaba beats with Q1 revenue flat YoY to $30.68B, as Cloud revenue rose 10% YoY to $2.6B, and $3.3B net income; NYSE-listed stock rises 5%+ &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220804/p7#a220804p7)
- - [What to Do With Your Old PlayStation 4](https://www.wired.com/story/what-to-do-old-playstation-4/)<!-- TECH:END -->
+ - [Here&#39;s how much money you can save with an Apple One services bundle](https://appleinsider.com/articles/20/09/15/heres-how-much-money-you-can-save-with-an-apple-one-services-bundle?utm_medium=rss)
+ - [SoundCloud cuts its global workforce by ~20% &quot;due to a significant company transformation and the challenging economic and financial environment&quot; &lpar;Elias Leight/Billboard&rpar;](http://www.techmeme.com/220804/p10#a220804p10)
+ - [The Dell XPS 13 Plus Gets a Futuristic Facelift](https://www.wired.com/review/dell-xps-13-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
