@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tree planting](http://9gag.com/gag/aBnAMRO)
- - 🚯 [Taiwan or Japan... WTF China?](http://9gag.com/gag/aBnAMqx)
- - 🚯 [Bro saw the 1-2 and backed out. Wise bro](http://9gag.com/gag/aM4o79M)<!-- MEMES:END -->
+ - 🚖 [Wakeup call](http://9gag.com/gag/arnQEGB)
+ - 🚯 [Welcome in the hood](http://9gag.com/gag/aDDK9OB)
+ - 🚯 [Grinding a batch of chilli](http://9gag.com/gag/aqGPO3P)<!-- MEMES:END -->
 
 --- 
 
