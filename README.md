@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pendragon RPG blends the mysticism of The Green Knight with Crusader Kings](https://www.polygon.com/23290932/pendragon-6th-edition-preview-the-green-knight-crusader-kings)
- - [Sail as Captains of Adventure in Sea of Thieves Season Seven](https://news.xbox.com/en-us/2022/08/04/sail-as-captains-of-adventure-in-sea-of-thieves-season-seven/)
- - [This Doom modder is sending Max Payne to Mars in &#39;Doom Payne&#39;](https://www.pcgamer.com/this-doom-modder-is-sending-max-payne-to-mars-in-doom-payne)<!-- GAME:END -->
+ - [In praise of the train fight scene, a timeless action movie staple](https://www.polygon.com/what-to-watch/23279231/best-action-scenes-train-fights-watch)
+ - [Turbo Golf Racing Tees Off Today for Xbox Game Preview and Game Pass](https://news.xbox.com/en-us/2022/08/04/turbo-golf-racing-tees-off-today-for-xbox-game-preview-and-game-pass/)
+ - [QuakeCon 2022 will feature dirty keyboards and Skryim sweet rolls](https://www.pcgamer.com/quakecon-2022-will-feature-dirty-keyboards-and-skryim-sweet-rolls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
