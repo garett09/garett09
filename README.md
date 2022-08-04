@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 15 current and former female Apple staff reveal apathy or retaliation in seven departments across six US states in the face of misconduct claims &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220804/p2#a220804p2)
- - [Complaints claiming unethical behavior by Indian edtech companies, which raised $4.7B last year and are largely unregulated, can be found all over social media &lpar;Adnan Bhat/Rest of World&rpar;](http://www.techmeme.com/220804/p1#a220804p1)
- - [Marvel and the MCU Phase 5 and Phase 6: All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/marvel-and-the-mcu-phase-5-and-phase-6-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Spider-Man Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-spider-man-movies-ranked/#ftag=CAD590a51e)
+ - [The Best Pixar Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-pixar-movies-ranked/#ftag=CAD590a51e)
+ - [The Best Anime You Need to Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-you-need-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
