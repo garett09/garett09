@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to fix a Toshiba E-Studio 450 multifunctional printer.](http://9gag.com/gag/aVxp4Ew)
- - 🚯 [Before you judge someone else&#39;s life, watch this and always remind yourself how good your life actually is](http://9gag.com/gag/angmW7E)
+ - 🚖 [Bear building a house](http://9gag.com/gag/aGzm6zn)
+ - 🚯 [It&#39;s still there guys](http://9gag.com/gag/abgNLvv)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
