@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will shut down its Facebook Live Shopping feature on October 1 as it shifts its focus to Reels on Facebook and Instagram &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220803/p33#a220803p33)
- - [A leaked Tomb Raider script is looking pretty legit now that Square Enix DMCA’d it](https://www.theverge.com/2022/8/3/23269421/tomb-raider-leaked-script-square-enix-dmca-patreon-colin-moriarty)
- - [One of the most enduring shows on TV is getting put behind a Peacock paywall](https://www.theverge.com/2022/8/3/23291225/days-of-our-lives-nbc-peacock-streaming)<!-- TECH:END -->
+ - [The Rotom Phone is finally getting a second camera](https://www.theverge.com/tldr/2022/8/3/23291273/pokemon-scarlet-violet-rotom-phone-second-camera)
+ - [How to add cells in Excel](https://www.androidauthority.com/how-to-add-cells-in-excel-3193127/)
+ - [Filing: the SEC has been probing Robinhood&#39;s compliance with short selling rules since October 2021 and requested more information from the company in Q2 2022 &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220803/p36#a220803p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
