@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An invasion of Taiwan would shut down global chip production as &#39;nobody can control TSMC by force.&#39;](https://www.pcgamer.com/an-invasion-of-taiwan-would-shut-down-global-chip-production-as-nobody-can-control-tsmc-by-force)
- - [Today&#39;s Wordle hint and answer: Thursday, August 4 &lpar;#411&rpar;](https://www.pcgamer.com/wordle-today-answer-hint)
- - [Samsung&#39;s next-gen 990 Pro PCIe 5.0 SSD spotted](https://www.pcgamer.com/samsungs-next-gen-990-pro-pcie-50-ssd-spotted)<!-- GAME:END -->
+ - [Intel&#39;s Arc GPU launch appears to have gone from headache to migraine](https://www.pcgamer.com/intels-arc-gpu-launch-appears-to-have-gone-from-headache-to-migraine)
+ - [Blizzard probably isn&#39;t going to charge you $45 for an Overwatch 2 skin](https://www.pcgamer.com/blizzard-probably-isnt-going-to-charge-you-dollar45-for-an-overwatch-2-skin)
+ - [You knew the first recorded computer bug was a literal bug, right?](https://www.pcgamer.com/first-actual-computer-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
