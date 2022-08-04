@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I shot my nephew in this solo dev&#39;s love letter to Final Fantasy Tactics](https://www.pcgamer.com/i-shot-my-nephew-in-this-solo-devs-love-letter-to-final-fantasy-tactics)
- - [Naraka: Bladepoint’s New Campaign Mode, Showdown, Arrives August 5](https://news.xbox.com/en-us/2022/08/04/naraka-bladepoint-new-campaign-mode-arrives-august-5/)
- - [The Banshees of Inisherin trailer has Colin Farrell wondering, ‘Am I the asshole?’](https://www.polygon.com/23292185/banshees-of-inisherin-trailer-colin-farrell-brendan-gleeson)<!-- GAME:END -->
+ - [A New Class Wakes in Phantasy Star Online 2: New Genesis](https://news.xbox.com/en-us/2022/08/04/a-new-class-wakes-in-phantasy-star-online-2-new-genesis/)
+ - [Assassin’s Creed Valhalla Leaks Tease An Iron Man Crossover](https://kotaku.com/assassin-s-creed-valhalla-iron-man-marvel-1849372256)
+ - [Apex Legends’ new character, Vantage, is a sniper with an affinity for heights](https://www.polygon.com/23292166/apex-legends-new-character-vantage-kit-abilities-passive-ultimate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
