@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg is minting an NFT of his Little League baseball card for some reason](https://www.theverge.com/2022/8/4/23292066/instagram-nft-mark-zuckerberg-baseball-card-metaverse)
- - [Monkeypox can’t use the same at-home testing playbook as COVID-19](https://www.theverge.com/2022/8/4/23292267/monkeypox-home-testing-saliva-lesions-covid)
- - [One of the best Google search hacks is getting even better](https://www.theverge.com/2022/8/4/23292180/google-search-hack-quoted-phrases-better)<!-- TECH:END -->
+ - [Goldman Sachs credit card practices under investigation by US watchdog](https://appleinsider.com/articles/22/08/04/goldman-sachs-credit-card-practices-under-investigation-by-us-watchdog?utm_medium=rss)
+ - [Microsoft gives Xbox Series S devs more memory to improve graphics performance](https://www.theverge.com/2022/8/4/23292391/microsoft-xbox-series-s-more-memory-game-development-performance)
+ - [Pixel 6 phones get small bug patch; all Pixels still waiting for August update](https://www.androidauthority.com/pixel-6-phones-bug-patch-3192207/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
