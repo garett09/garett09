@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wakeup call](http://9gag.com/gag/arnQEGB)
- - 🚯 [Welcome in the hood](http://9gag.com/gag/aDDK9OB)
- - 🚯 [Grinding a batch of chilli](http://9gag.com/gag/aqGPO3P)<!-- MEMES:END -->
+ - 🚖 [Hard truths.](http://9gag.com/gag/aAG873o)
+ - 🚯 [The future is now old man](http://9gag.com/gag/avAMVdX)
+ - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
 
