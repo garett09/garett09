@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus wants to bring back the alert slider on future devices](https://www.androidauthority.com/oneplus-alert-slider-future-3193186/)
- - [The Best Spider-Man Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-spider-man-movies-ranked/#ftag=CAD590a51e)
- - [The Best Pixar Movies, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-pixar-movies-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data.ai: users spend 4+ hours in mobile apps daily in 13 markets, including the US, the UK, Japan, and India, and 5+ hours in Indonesia, Singapore, and Brazil &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220804/p3#a220804p3)
+ - [Does the OnePlus 10T have an IP rating? Well, it’s complicated.](https://www.androidauthority.com/oneplus-10t-ip-rating-3193187/)
+ - [OnePlus wants to bring back the alert slider on future devices](https://www.androidauthority.com/oneplus-alert-slider-future-3193186/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
