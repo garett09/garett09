@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Class Wakes in Phantasy Star Online 2: New Genesis](https://news.xbox.com/en-us/2022/08/04/a-new-class-wakes-in-phantasy-star-online-2-new-genesis/)
- - [Assassin’s Creed Valhalla Leaks Tease An Iron Man Crossover](https://kotaku.com/assassin-s-creed-valhalla-iron-man-marvel-1849372256)
- - [Apex Legends’ new character, Vantage, is a sniper with an affinity for heights](https://www.polygon.com/23292166/apex-legends-new-character-vantage-kit-abilities-passive-ultimate)<!-- GAME:END -->
+ - [Burncycle promises an action-packed robot Ocean’s 11, but at times it feels like drudgery](https://www.polygon.com/23291283/burncycle-board-game-review-impressions)
+ - [Crypt of the Necrodancer studio stealth-reveals a sequel](https://www.pcgamer.com/crypt-of-the-necrodancer-studio-stealth-reveals-a-sequel)
+ - [New Mario Kart 8 DLC fixes Coconut Mall’s stalled Shy Guys](https://www.polygon.com/23292348/mario-kart-8-dlc-booster-course-pass-wave-2-fixes-coconut-mall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
