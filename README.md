@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best entry for 2022 no doubt](http://9gag.com/gag/a316per)
- - 🚯 [Japan did it again](http://9gag.com/gag/abgNm9L)
+ - 🚖 [How to fix a Toshiba E-Studio 450 multifunctional printer.](http://9gag.com/gag/aVxp4Ew)
+ - 🚯 [Trump said it right to EU](http://9gag.com/gag/a81RnVe)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
