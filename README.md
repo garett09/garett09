@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did you know that back in the 1930s we used 3D printing technology to build concrete structures?](http://9gag.com/gag/apg4XpM)
- - 🚯 [It&#39;s still there guys](http://9gag.com/gag/abgNLvv)
- - 🚯 [Grinding a batch of chilli](http://9gag.com/gag/aqGPO3P)<!-- MEMES:END -->
+ - 🚖 [Taiwan or Japan... WTF China?](http://9gag.com/gag/aBnAMqx)
+ - 🚯 [Grinding a batch of chilli](http://9gag.com/gag/aqGPO3P)
+ - 🚯 [Deep of the Deep](http://9gag.com/gag/a11ynKb)<!-- MEMES:END -->
 
 --- 
 
