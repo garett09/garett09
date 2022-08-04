@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman Sachs credit card practices under investigation by US watchdog](https://appleinsider.com/articles/22/08/04/goldman-sachs-credit-card-practices-under-investigation-by-us-watchdog?utm_medium=rss)
- - [Microsoft gives Xbox Series S devs more memory to improve graphics performance](https://www.theverge.com/2022/8/4/23292391/microsoft-xbox-series-s-more-memory-game-development-performance)
- - [Pixel 6 phones get small bug patch; all Pixels still waiting for August update](https://www.androidauthority.com/pixel-6-phones-bug-patch-3192207/)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Microsoft starts testing an Xbox Game Pass family plan in Colombia and Ireland, letting users add up to four people in the same country to their subscription &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220804/p24#a220804p24)
+ - [US Declares Monkeypox a Public Health Emergency     - CNET](https://www.cnet.com/health/medical/us-declares-monkeypox-a-public-health-emergency/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
