@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Management Sim Bear And Breakfast Isn&#39;t Animal Crossing, So Don&#39;t Expect That](https://kotaku.com/bear-and-breakfast-hotel-sim-review-animal-crossing-1849373828)
- - [Vampire Survivors’ Latest Patch Adds A Cheat Menu, New Characters, And More](https://kotaku.com/vampire-survivors-patch-notes-not-one-roguelike-cheats-1849373684)
- - [Your Xbox Series S Is Getting A Small Performance Boost](https://kotaku.com/xbox-series-s-memory-boost-performance-microsoft-1849373552)<!-- GAME:END -->
+ - [What you need to know about mobile game controllers](https://game-rant-2022.blogspot.com/2022/08/what-you-need-to-know-about-mobile-game.html)
+ - [Jurassic World Alive, Cookie Jam developer lays off 200 workers](https://www.polygon.com/23292595/jam-city-ludia-jurassic-world-alive-montreal-layoffs)
+ - [10 Video Game Franchises Begging For A VR Title](https://game-rant-2022.blogspot.com/2022/08/10-video-game-franchises-begging-for-vr.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
