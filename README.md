@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its not okay, its necessary](http://9gag.com/gag/angmwAq)
- - 🚯 [Winamp 5.9 RC1 Released - 26.07.2022 - It&#39;s alive!](http://9gag.com/gag/angmw0L)
+ - 🚖 [It\u2019s Sugma time](http://9gag.com/gag/a51OYoo)
+ - 🚯 [Its not okay, its necessary](http://9gag.com/gag/angmwAq)
  - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
