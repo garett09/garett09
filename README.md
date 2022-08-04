@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christoph waltz](http://9gag.com/gag/a610zdL)
- - 🚯 [H-cuppu](http://9gag.com/gag/ajgz3NR)
+ - 🚖 [It&#39;s still there guys](http://9gag.com/gag/abgNLvv)
+ - 🚯 [Deep of the Deep](http://9gag.com/gag/a11ynKb)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
