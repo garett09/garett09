@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Should you build your own PC or just give up and buy one?](https://www.polygon.com/23289192/pc-gaming-build-customize-parts-tutorial-recommendation)
  - [Intel&#39;s Arc GPU launch appears to have gone from headache to migraine](https://www.pcgamer.com/intels-arc-gpu-launch-appears-to-have-gone-from-headache-to-migraine)
- - [Blizzard probably isn&#39;t going to charge you $45 for an Overwatch 2 skin](https://www.pcgamer.com/blizzard-probably-isnt-going-to-charge-you-dollar45-for-an-overwatch-2-skin)
- - [You knew the first recorded computer bug was a literal bug, right?](https://www.pcgamer.com/first-actual-computer-bug)<!-- GAME:END -->
+ - [Blizzard probably isn&#39;t going to charge you $45 for an Overwatch 2 skin](https://www.pcgamer.com/blizzard-probably-isnt-going-to-charge-you-dollar45-for-an-overwatch-2-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
