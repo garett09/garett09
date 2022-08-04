@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multimillion-dollar Solana crypto theft linked to Slope mobile wallet](https://www.theverge.com/2022/8/4/23291180/solana-cryptocurrency-slope-phantom-wallet-theft-supply-chain-attack)
- - [Twitter tests an update to Spaces that introduces thematic audio stations and a personalized digest; an official announcement is some way off &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220804/p15#a220804p15)
- - [Daily deals August 3: $90 HomePod mini, AirPods 2 with wireless charging for $100, more](https://appleinsider.com/articles/22/08/03/daily-deals-august-3-90-homepod-mini-airpods-2-with-wireless-charging-for-100-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Buds Pro review: Now with noise-cancelling](https://www.androidauthority.com/google-pixel-buds-pro-review-3192612/)
+ - [Daily deals August 4: AirPods Pro for $180, $70 off Apple Watch Series 7, more](https://appleinsider.com/articles/22/08/04/daily-deals-august-4-airpods-pro-for-180-70-off-apple-watch-series-7-more?utm_medium=rss)
+ - [The best new streaming movies this week on Hulu, Apple TV Plus Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
