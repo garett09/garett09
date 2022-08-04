@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joaquin Phoenix’s Joker sequel planned for release in October 2024](https://www.theverge.com/2022/8/4/23291705/joker-sequel-folie-a-deux-todd-phillips-joaquin-phoenix-october-2024)
- - [Kuo backs up rumors that Apple is diversifying suppliers in China](https://appleinsider.com/articles/22/08/04/kuo-backs-up-rumors-that-apple-is-diversifying-suppliers-in-china?utm_medium=rss)
- - [Investor letter: Tiger Global&#39;s long-only fund ended Q2 down 63.6% and its flagship fund dropped 50% in H1, after it &quot;underestimated the impact&quot; of inflation &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/220804/p5#a220804p5)<!-- TECH:END -->
+ - [Apple under fire for how HR handles women who complain about abuse](https://appleinsider.com/articles/22/08/04/apple-under-fire-for-how-hr-handles-women-who-complain-about-abuse?utm_medium=rss)
+ - [Alibaba beats with Q1 revenue flat YoY to $30.68B, as Cloud revenue rose 10% YoY to $2.6B, and $3.3B net income; NYSE-listed stock rises 5%+ &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220804/p7#a220804p7)
+ - [What to Do With Your Old PlayStation 4](https://www.wired.com/story/what-to-do-old-playstation-4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
