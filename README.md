@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard truths.](http://9gag.com/gag/aAG873o)
- - 🚯 [The future is now old man](http://9gag.com/gag/avAMVdX)
+ - 🚖 [Ufffff](http://9gag.com/gag/avAMV55)
+ - 🚯 [Really ?](http://9gag.com/gag/aWgrADK)
  - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
