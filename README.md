@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rotom Phone is finally getting a second camera](https://www.theverge.com/tldr/2022/8/3/23291273/pokemon-scarlet-violet-rotom-phone-second-camera)
- - [How to add cells in Excel](https://www.androidauthority.com/how-to-add-cells-in-excel-3193127/)
- - [Filing: the SEC has been probing Robinhood&#39;s compliance with short selling rules since October 2021 and requested more information from the company in Q2 2022 &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220803/p36#a220803p36)<!-- TECH:END -->
+ - [Salesforce says it is closing its office in Hong Kong and &quot;accelerating&quot; its strategic partnership with Alibaba &quot;to better serve the Greater China Region&quot; &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220803/p37#a220803p37)
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-stream-on-prime-video-now/#ftag=CAD590a51e)
+ - [Beauty Sleep: The Toll Poor Sleep Takes on Your Appearance and Health     - CNET](https://www.cnet.com/health/sleep/beauty-sleep-the-toll-poor-sleep-takes-on-your-appearance-and-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
