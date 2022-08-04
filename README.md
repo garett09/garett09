@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In praise of the train fight scene, a timeless action movie staple](https://www.polygon.com/what-to-watch/23279231/best-action-scenes-train-fights-watch)
- - [Turbo Golf Racing Tees Off Today for Xbox Game Preview and Game Pass](https://news.xbox.com/en-us/2022/08/04/turbo-golf-racing-tees-off-today-for-xbox-game-preview-and-game-pass/)
- - [QuakeCon 2022 will feature dirty keyboards and Skryim sweet rolls](https://www.pcgamer.com/quakecon-2022-will-feature-dirty-keyboards-and-skryim-sweet-rolls)<!-- GAME:END -->
+ - [I shot my nephew in this solo dev&#39;s love letter to Final Fantasy Tactics](https://www.pcgamer.com/i-shot-my-nephew-in-this-solo-devs-love-letter-to-final-fantasy-tactics)
+ - [Naraka: Bladepoint’s New Campaign Mode, Showdown, Arrives August 5](https://news.xbox.com/en-us/2022/08/04/naraka-bladepoint-new-campaign-mode-arrives-august-5/)
+ - [The Banshees of Inisherin trailer has Colin Farrell wondering, ‘Am I the asshole?’](https://www.polygon.com/23292185/banshees-of-inisherin-trailer-colin-farrell-brendan-gleeson)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
