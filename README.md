@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Burncycle promises an action-packed robot Ocean’s 11, but at times it feels like drudgery](https://www.polygon.com/23291283/burncycle-board-game-review-impressions)
- - [Crypt of the Necrodancer studio stealth-reveals a sequel](https://www.pcgamer.com/crypt-of-the-necrodancer-studio-stealth-reveals-a-sequel)
- - [New Mario Kart 8 DLC fixes Coconut Mall’s stalled Shy Guys](https://www.polygon.com/23292348/mario-kart-8-dlc-booster-course-pass-wave-2-fixes-coconut-mall)<!-- GAME:END -->
+ - [Alex Jones&#39; &#39;Perjury&#39; Revelation Is Even Better With Phoenix Wright](https://kotaku.com/alex-jones-sandy-hook-trial-perjury-text-phoenix-wright-1849373199)
+ - [No more Overwatch 2 betas, Blizzard confirms](https://www.pcgamer.com/no-more-overwatch-2-betas-blizzard-confirms)
+ - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
