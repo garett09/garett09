@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta is selling US corporate bonds for the first time, possibly between $8B and $10B in as many as four parts &lpar;Bloomberg&rpar;](http://www.techmeme.com/220804/p17#a220804p17)
- - [The US-made 2023 Volkswagen ID.4 will start at $37,495](https://www.theverge.com/2022/8/4/23291919/vw-id4-2023-price-ev-electric-crossover-specs)
- - [Twitter now lets businesses tell you where to find them](https://www.theverge.com/2022/8/4/23291070/twitter-business-location-spotlight-professional-business-module)<!-- TECH:END -->
+ - [The Verge’s favorite ways to relieve stress](https://www.theverge.com/23287708/stress-run-exercise-yoga-garden)
+ - [Apex Legends’ new character comes with a cute sidekick and a big sniper rifle](https://www.theverge.com/2022/8/4/23291830/apex-legends-hunted-vantage-battle-royale)
+ - [New Galaxy Buds 2 Pro leak claims it will have “intelligent” noise cancellation](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-leaks-3193329/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
