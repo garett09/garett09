@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alex Jones&#39; &#39;Perjury&#39; Revelation Is Even Better With Phoenix Wright](https://kotaku.com/alex-jones-sandy-hook-trial-perjury-text-phoenix-wright-1849373199)
- - [No more Overwatch 2 betas, Blizzard confirms](https://www.pcgamer.com/no-more-overwatch-2-betas-blizzard-confirms)
- - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)<!-- GAME:END -->
+ - [Your Xbox Series S Is Getting A Small Performance Boost](https://kotaku.com/xbox-series-s-memory-boost-performance-microsoft-1849373552)
+ - [Here Are Pokémon Scarlet And Violet’s Exclusives &lpar;So Far&rpar;](https://kotaku.com/pokemon-scarlet-violet-version-exclusives-which-to-buy-1849373320)
+ - [Alex Jones&#39; &#39;Perjury&#39; Revelation Is Even Better With Phoenix Wright](https://kotaku.com/alex-jones-sandy-hook-trial-perjury-text-phoenix-wright-1849373199)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
