@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ufffff](http://9gag.com/gag/avAMV55)
- - 🚯 [Really ?](http://9gag.com/gag/aWgrADK)
+ - 🚖 [Really ?](http://9gag.com/gag/aWgrADK)
+ - 🚯 [Couldn&#39;t be more true](http://9gag.com/gag/a11yjK6)
  - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
