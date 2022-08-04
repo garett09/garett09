@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The masterminds behind the Nier: Automata church mystery explain how it &#39;got out of hand&#39;](https://www.pcgamer.com/the-masterminds-behind-the-nier-automata-church-mystery-explain-how-it-got-out-of-hand)
- - [Diablo Devs Say Activision Back To Its Old ‘Union-Busting’ Tricks](https://kotaku.com/diablo-call-duty-activision-blizzard-union-busting-1849368397)
- - [Dead by Daylight publisher reveals a new co-op puzzle game coming in 2023](https://www.pcgamer.com/dead-by-daylight-publisher-reveals-a-new-co-op-puzzle-game-coming-in-2023)<!-- GAME:END -->
+ - [MultiVersus season 1 has been delayed](https://www.pcgamer.com/multiversus-season-1-has-been-delayed)
+ - [Someone finally beat the $20,000 Halo 2 challenge](https://www.pcgamer.com/someone-finally-beat-the-dollar20000-halo-2-challenge)
+ - [The masterminds behind the Nier: Automata church mystery explain how it &#39;got out of hand&#39;](https://www.pcgamer.com/the-masterminds-behind-the-nier-automata-church-mystery-explain-how-it-got-out-of-hand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
