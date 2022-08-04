@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll think about this while I eat my steak](http://9gag.com/gag/aZr65yX)
- - 🚯 [Couldn&#39;t be more true](http://9gag.com/gag/a11yjK6)
+ - 🚖 [FFS](http://9gag.com/gag/aM4o53G)
+ - 🚯 [Becoming the bigger beast](http://9gag.com/gag/a316rpv)
  - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
