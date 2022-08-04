@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t Confuse Tourism with Immigration...](http://9gag.com/gag/a213AWD)
- - 🚯 [People have a proper meme](http://9gag.com/gag/aAG8LV0)
+ - 🚖 [WHO Official Asked if the Organization Would Consider Taiwan Becoming a Member The official pretends to not hear and then leaves the meeting when asked a second time.](http://9gag.com/gag/aRrbN42)
+ - 🚯 [Top physicists displayed at college.](http://9gag.com/gag/aegnyLW)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
