@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [China when Pelosi touched down](http://9gag.com/gag/a213xwZ)
- - 🚯 [Brb gotta jettison 100 million gallons of fish blood into the waterway](http://9gag.com/gag/a71Y62m)
+ - 🚖 [Best entry for 2022 no doubt](http://9gag.com/gag/a316per)
+ - 🚯 [Japan did it again](http://9gag.com/gag/abgNm9L)
  - 🚯 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 --- 
