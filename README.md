@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s how much money you can save with an Apple One services bundle](https://appleinsider.com/articles/20/09/15/heres-how-much-money-you-can-save-with-an-apple-one-services-bundle?utm_medium=rss)
- - [SoundCloud cuts its global workforce by ~20% &quot;due to a significant company transformation and the challenging economic and financial environment&quot; &lpar;Elias Leight/Billboard&rpar;](http://www.techmeme.com/220804/p10#a220804p10)
- - [The Dell XPS 13 Plus Gets a Futuristic Facelift](https://www.wired.com/review/dell-xps-13-plus/)<!-- TECH:END -->
+ - [Multimillion-dollar Solana crypto theft linked to Slope mobile wallet](https://www.theverge.com/2022/8/4/23291180/solana-cryptocurrency-slope-phantom-wallet-theft-supply-chain-attack)
+ - [Twitter tests an update to Spaces that introduces thematic audio stations and a personalized digest; an official announcement is some way off &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220804/p15#a220804p15)
+ - [Daily deals August 3: $90 HomePod mini, AirPods 2 with wireless charging for $100, more](https://appleinsider.com/articles/22/08/03/daily-deals-august-3-90-homepod-mini-airpods-2-with-wireless-charging-for-100-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
