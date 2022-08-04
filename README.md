@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taiwan or Japan... WTF China?](http://9gag.com/gag/aBnAMqx)
- - 🚯 [Grinding a batch of chilli](http://9gag.com/gag/aqGPO3P)
- - 🚯 [Deep of the Deep](http://9gag.com/gag/a11ynKb)<!-- MEMES:END -->
+ - 🚖 [Tree planting](http://9gag.com/gag/aBnAMRO)
+ - 🚯 [Taiwan or Japan... WTF China?](http://9gag.com/gag/aBnAMqx)
+ - 🚯 [Bro saw the 1-2 and backed out. Wise bro](http://9gag.com/gag/aM4o79M)<!-- MEMES:END -->
 
 --- 
 
