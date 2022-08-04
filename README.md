@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data.ai: users spend 4+ hours in mobile apps daily in 13 markets, including the US, the UK, Japan, and India, and 5+ hours in Indonesia, Singapore, and Brazil &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220804/p3#a220804p3)
- - [Does the OnePlus 10T have an IP rating? Well, it’s complicated.](https://www.androidauthority.com/oneplus-10t-ip-rating-3193187/)
- - [OnePlus wants to bring back the alert slider on future devices](https://www.androidauthority.com/oneplus-alert-slider-future-3193186/)<!-- TECH:END -->
+ - [Deals: M2 MacBook Air gets $100 discount, Apple MacBook Pros are up to $354 off](https://appleinsider.com/articles/22/08/04/deals-m2-macbook-air-gets-100-discount-apple-macbook-pros-are-up-to-354-off?utm_medium=rss)
+ - [OnePlus may have secretly launched another phone after the OnePlus 10T](https://www.androidauthority.com/oneplus-nord-n20-se-3193200/)
+ - [Best Multivitamins for Men for 2022     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
