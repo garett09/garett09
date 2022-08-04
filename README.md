@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FFS](http://9gag.com/gag/aM4o53G)
- - 🚯 [Becoming the bigger beast](http://9gag.com/gag/a316rpv)
+ - 🚖 [Its not okay, its necessary](http://9gag.com/gag/angmwAq)
+ - 🚯 [Winamp 5.9 RC1 Released - 26.07.2022 - It&#39;s alive!](http://9gag.com/gag/angmw0L)
  - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
