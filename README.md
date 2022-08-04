@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ve got until 2025 to upgrade to Wi-Fi 6 before it&#39;s yesterday&#39;s news](https://www.pcgamer.com/wi-fi-7-intel-double-speeds)
- - [Celebrities and the PC games they love](https://www.pcgamer.com/celebrities-and-the-pc-games-they-love)
- - [Two Point Campus review](https://www.pcgamer.com/two-point-campus-review)<!-- GAME:END -->
+ - [Pendragon RPG blends the mysticism of The Green Knight with Crusader Kings](https://www.polygon.com/23290932/pendragon-6th-edition-preview-the-green-knight-crusader-kings)
+ - [Sail as Captains of Adventure in Sea of Thieves Season Seven](https://news.xbox.com/en-us/2022/08/04/sail-as-captains-of-adventure-in-sea-of-thieves-season-seven/)
+ - [This Doom modder is sending Max Payne to Mars in &#39;Doom Payne&#39;](https://www.pcgamer.com/this-doom-modder-is-sending-max-payne-to-mars-in-doom-payne)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
