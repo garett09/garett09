@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TuSimple reportedly tried to pass off a self-driving truck crash as ‘human error’](https://www.theverge.com/2022/8/4/23288794/tusimple-self-driving-truck-crash-investigation)
- - [How to use Universal Control to supercharge your study sessions](https://appleinsider.com/inside/mac/tips/how-to-use-universal-control-to-supercharge-your-study-sessions?utm_medium=rss)
- - [As Nancy Pelosi visited Taiwan, cyberattacks increased there, likely from China; some 7-11 store TVs displayed the words &quot;Warmonger Pelosi, get out of Taiwan!&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220804/p19#a220804p19)<!-- TECH:END -->
+ - [Mark Zuckerberg is minting an NFT of his Little League baseball card for some reason](https://www.theverge.com/2022/8/4/23292066/instagram-nft-mark-zuckerberg-baseball-card-metaverse)
+ - [Monkeypox can’t use the same at-home testing playbook as COVID-19](https://www.theverge.com/2022/8/4/23292267/monkeypox-home-testing-saliva-lesions-covid)
+ - [One of the best Google search hacks is getting even better](https://www.theverge.com/2022/8/4/23292180/google-search-hack-quoted-phrases-better)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
