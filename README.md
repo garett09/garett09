@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds new Mophie Powerstation Pro, GaN charger to online store](https://appleinsider.com/articles/22/08/04/apple-adds-new-mophie-powerstation-pro-gan-charger-to-online-store?utm_medium=rss)
- - [Mark Zuckerberg’s custom Little League baseball card is getting turned into an NFT](https://www.theverge.com/2022/8/4/23292066/instagram-nft-mark-zuckerberg-baseball-card-metaverse)
- - [Block reports Q2 revenue down 6.6% YoY to $4.4B, $2.62B net revenue excluding bitcoin, and Cash App bitcoin revenue down 34% YoY to $1.79B; stock is down 5%+ &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220804/p31#a220804p31)<!-- TECH:END -->
+ - [A New York judge allows Voyager Digital to return $270M in customer cash deposits, settling one of the company&#39;s larger issues after filing for bankruptcy &lpar;Soma Biswas/Wall Street Journal&rpar;](http://www.techmeme.com/220804/p35#a220804p35)
+ - [Visa and Mastercard end ties with the ad arm of Pornhub owner MindGeek, after a court ruled Visa must face a lawsuit alleging it is liable for CSAM distribution &lpar;Michelle Price/Reuters&rpar;](http://www.techmeme.com/220804/p34#a220804p34)
+ - [A staff member from Senator Cynthia Lummis&#39; office says the SEC is investigating Binance and every US crypto exchange, including Coinbase &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/220804/p33#a220804p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
