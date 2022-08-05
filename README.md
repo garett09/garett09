@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What you need to know about mobile game controllers](https://game-rant-2022.blogspot.com/2022/08/what-you-need-to-know-about-mobile-game.html)
- - [Jurassic World Alive, Cookie Jam developer lays off 200 workers](https://www.polygon.com/23292595/jam-city-ludia-jurassic-world-alive-montreal-layoffs)
- - [10 Video Game Franchises Begging For A VR Title](https://game-rant-2022.blogspot.com/2022/08/10-video-game-franchises-begging-for-vr.html)<!-- GAME:END -->
+ - [Fire Commander Is A Firefighting Game That Doesn&#39;t Suck](https://kotaku.com/fire-commander-pc-firefighter-video-game-review-1849358289)
+ - [To simulate a stress dream, play Rocket League for 1,300 hours and then try this car golf game](https://www.pcgamer.com/to-simulate-a-stress-dream-play-rocket-league-for-1300-hours-and-then-try-this-car-golf-game)
+ - [Breath of the Wild 2 Could Improve Its Open World Design](https://game-rant-2022.blogspot.com/2022/08/breath-of-wild-2-could-improve-its-open.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
