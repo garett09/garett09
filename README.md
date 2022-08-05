@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [​​Netflix’s The Sandman is a great ad for the Sandman comics](https://www.polygon.com/reviews/23292287/the-sandman-season-1-2022-netflix-review)
  - [Super Mario 64 Becomes A First-Person Horror Game](https://kotaku.com/super-mario-64-turned-into-a-first-person-horror-game-1849374887)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Another PlayStation Game Quietly Comes To The PC](https://kotaku.com/steam-pc-ps4-ps3-vita-sony-hohokum-ghostly-tycho-1849374773)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
