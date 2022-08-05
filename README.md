@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel Fold might have a unique camera position](https://www.androidauthority.com/google-pixel-fold-foldable-design-3193593/)
- - [&#39;The Sandman&#39; Review: Netflix&#39;s Dark Fantasy Is a Dream Come True     - CNET](https://www.cnet.com/culture/entertainment/the-sandman-review-netflixs-dark-fantasy-is-a-dream-come-true/#ftag=CAD590a51e)
- - [Best Car Backup Cameras for 2022     - CNET](https://www.cnet.com/roadshow/news/best-backup-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steve Jobs&#39; hero Buckminster Fuller thought Apple II was a toy](https://appleinsider.com/articles/22/08/03/steve-jobss-hero-buckminster-fuller-thought-apple-ii-was-a-toy?utm_medium=rss)
+ - [Google updates search results for queries with quotes to show where the phrase appears in the results snippet instead of an overall description of the page &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/220805/p2#a220805p2)
+ - [The Google Pixel Fold might have a unique camera position](https://www.androidauthority.com/google-pixel-fold-foldable-design-3193593/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
