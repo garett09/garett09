@@ -182,8 +182,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [​​Netflix’s The Sandman is a great ad for the Sandman comics](https://www.polygon.com/reviews/23292287/the-sandman-season-1-2022-netflix-review)
- - [Super Mario 64 Becomes A First-Person Horror Game](https://kotaku.com/super-mario-64-turned-into-a-first-person-horror-game-1849374887)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [AMD and partners show off premium AM5 motherboards for upcoming Ryzen 7000 CPUs](https://www.pcgamer.com/amd-and-partners-show-off-premium-am5-motherboards-for-upcoming-ryzen-7000-cpus)
+ - [Super Mario 64 Becomes A First-Person Horror Game](https://kotaku.com/super-mario-64-turned-into-a-first-person-horror-game-1849374887)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
