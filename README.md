@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [These bastards lied to me](http://9gag.com/gag/awzEWwR)
+ - 🚯 [When you&#39;re a civil engineer..... in Texas](http://9gag.com/gag/aegnnQq)
  - 🚯 [Hmmm](http://9gag.com/gag/aAG8z4g)<!-- MEMES:END -->
 
 --- 
