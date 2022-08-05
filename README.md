@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Nowadays everyone has an opinion](http://9gag.com/gag/aOQMLy2)
- - 🚯 [That&#39;s pretty cool](http://9gag.com/gag/a91xgz0)
- - 🚯 [The sign has a point?](http://9gag.com/gag/aKmQoPN)<!-- MEMES:END -->
+ - 🚯 [The sign has a point?](http://9gag.com/gag/aKmQoPN)
+ - 🚯 [How girls get into cars:&rpar;](http://9gag.com/gag/aVxp6R2)<!-- MEMES:END -->
 
 --- 
 
