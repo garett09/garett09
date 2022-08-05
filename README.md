@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to keep your kids busy while you work from home](https://www.theverge.com/23278781/work-from-home-kids-children-back-to-school)
- - [Amazon acquires Roomba robot vacuum makers iRobot for $1.7 billion](https://www.theverge.com/2022/8/5/23293349/amazon-acquires-irobot-roomba-robot-vacuums)
- - [Amazon plans to acquire Roomba maker iRobot for $1.7B in an all-cash deal; Colin Angle will remain as iRobot CEO &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220805/p9#a220805p9)<!-- TECH:END -->
+ - [Amazon buying iRobot in a $1.7 billion all-cash deal](https://appleinsider.com/articles/22/08/05/amazon-to-acquire-irobot-in-a-17-billion-all-cash-deal?utm_medium=rss)
+ - [As SoftBank Vision Fund managing partners Yanni Pipilis and Munish Varma leave, the fund has lost 10+ top execs since 2020, putting pressure on Masayoshi Son &lpar;Bloomberg&rpar;](http://www.techmeme.com/220805/p13#a220805p13)
+ - [Netflix’s Carter puts action above all else](https://www.theverge.com/23292424/carter-review-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
