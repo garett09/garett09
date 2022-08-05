@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChromeOS 104 is rolling out with a new dark theme, and automatic transitions](https://www.theverge.com/2022/8/5/23293471/google-chromeos-104-dark-mode-update)
- - [The Galaxy S22 One UI 5 beta starts rolling out &lpar;Update: List of markets&rpar;](https://www.androidauthority.com/galaxy-s22-series-one-ui-5-beta-3193677/)
- - [Sony’s ultra-comfy LinkBuds S are on sale for just $148](https://www.theverge.com/good-deals/2022/8/5/23293676/sony-linkbuds-s-true-wireless-earbuds-usbc-ldac-noise-canceling-anc-deal-sale)<!-- TECH:END -->
+ - [HomeKit smart bulb maker Lifx acquired by Feit Electric](https://appleinsider.com/articles/22/08/05/homekit-smart-bulb-maker-lifx-acquired-by-feit-electric?utm_medium=rss)
+ - [We Interviewed Meta’s New AI Chatbot About … Itself](https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/)
+ - [How to separate first and last name in Excel](https://www.androidauthority.com/seperate-first-last-name-excel-3193803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
