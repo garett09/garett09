@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Please don’t do it’: Everything Neil Gaiman has said about adapting Sandman through the years](https://www.polygon.com/23280715/the-sandman-2022-neil-gaiman-adaptation-movie)
- - [SK Hynix&#39;s first 238-layer memory boasts 50% faster SSD speeds, but c&#39;mon it&#39;s not really 4D is it?](https://www.pcgamer.com/sk-hynix-238-layer-4d-nand-flash-announcement)
- - [Twitch streamers are making millions from crypto gambling sites while their audience goes bankrupt](https://www.pcgamer.com/twitch-streamers-are-making-millions-from-crypto-gambling-sites-while-their-audience-goes-bankrupt)<!-- GAME:END -->
+ - [Warhammer 40K’s newest tabletop RPG embraces the series’ pulp-fiction roots](https://www.polygon.com/23293019/40k-imperium-maledictum-d100-gencon-2022)
+ - [Chainsaw Man’s new trailer rips and tears into action, confirms October premiere](https://www.polygon.com/23220258/chainsaw-man-anime-release-date-trailer-part-1)
+ - [Nvidia RTX 4080 and RTX 4070 rumours suggest we&#39;re still a while away from a genuine launch](https://www.pcgamer.com/nvidia-rtx-4080-and-rtx-4070-rumours-suggest-were-still-a-while-away-from-a-genuine-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
