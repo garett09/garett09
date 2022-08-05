@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer: Friday, August 5 &lpar;412&rpar;](https://www.pcgamer.com/wordle-today-answer-hint)
- - [​​Netflix’s The Sandman is a great ad for the Sandman comics](https://www.polygon.com/reviews/23292287/the-sandman-season-1-2022-netflix-review)
- - [AMD and partners show off premium AM5 motherboards for upcoming Ryzen 7000 CPUs](https://www.pcgamer.com/amd-and-partners-show-off-premium-am5-motherboards-for-upcoming-ryzen-7000-cpus)<!-- GAME:END -->
+ - [‘Please don’t do it’: Everything Neil Gaiman has said about adapting Sandman through the years](https://www.polygon.com/23280715/the-sandman-2022-neil-gaiman-adaptation-movie)
+ - [SK Hynix&#39;s first 238-layer memory boasts 50% faster SSD speeds, but c&#39;mon it&#39;s not really 4D is it?](https://www.pcgamer.com/sk-hynix-238-layer-4d-nand-flash-announcement)
+ - [Twitch streamers are making millions from crypto gambling sites while their audience goes bankrupt](https://www.pcgamer.com/twitch-streamers-are-making-millions-from-crypto-gambling-sites-while-their-audience-goes-bankrupt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
