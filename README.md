@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SolForge Fusion wants to be the next generation of tabletop deck building](https://www.polygon.com/tabletop-games/23291211/solforge-fusion-tabletop-deck-building-preview-gencon-2022)
- - [The Best And Worst Parts About Every Borderlands Game](https://kotaku.com/best-worst-borderlands-tiny-tina-wonderlands-gearbox-1849377174)
- - [All Vampire Survivors cheats and how they work](https://www.pcgamer.com/vampire-survivors-cheats-secrets)<!-- GAME:END -->
+ - [Destiny 2 Xur location and items, Aug. 5-9](https://www.polygon.com/destiny-2-guide-walkthrough/2022/8/5/23293771/destiny-2-xur-location-items-july-29-aug-2-this-week)
+ - [Lawyer To Pay Activision For Not Playing Call Of Duty, Judge Decrees](https://kotaku.com/call-of-duty-cod-infinite-warfare-sean-brooks-lawsuit-1849377479)
+ - [Crunchyroll bought a leading anime store, and now you can’t buy hentai there anymore](https://www.polygon.com/23292677/crunchyroll-right-stuf-new-store-erotic-content-hentai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
