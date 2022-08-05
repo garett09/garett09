@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Enforcement Directorate freezes assets worth ~$8.16M of Binance-owned crypto exchange WazirX, citing suspected foreign exchange rule violations &lpar;Nupur Anand/Reuters&rpar;](http://www.techmeme.com/220805/p14#a220805p14)
- - [The Best VR Headsets and Games to Explore the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)
- - [The Twitter v. Elon trial pregame heats up](https://www.theverge.com/2022/8/5/23293415/elon-musk-twitter-lawsuit-subpoenas-countersuit)<!-- TECH:END -->
+ - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)
+ - [Afresh, which uses AI to help grocery stores reduce food waste, raised a $115M Series B led by Spark Capital, bringing its total funding to $148M &lpar;Deena Shanker/Bloomberg&rpar;](http://www.techmeme.com/220805/p16#a220805p16)
+ - [Meta is putting its latest AI chatbot on the web for anyone to talk to](https://www.theverge.com/2022/8/5/23293281/meta-ai-chatbot-blenderbot-3-web-access-research-safety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
