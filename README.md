@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Lightyear&#39; Finally Hit Disney Plus. Here&#39;s Why It Took 6 Weeks to Get There     - CNET](https://www.cnet.com/tech/home-entertainment/lightyear-finally-hit-disney-plus-heres-why-it-took-6-weeks-to-get-there/#ftag=CAD590a51e)
- - [Galaxy Z Fold 4 Pops Up in Amazon Listing Ahead of Samsung Unpacked     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-fold-4-pops-up-in-amazon-listing-ahead-of-samsung-unpacked/#ftag=CAD590a51e)
- - [NASA Shares Game Plan for Late August Artemis I Lunar Launch     - CNET](https://www.cnet.com/science/space/nasa-shares-game-plan-for-late-august-artemis-i-lunar-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Loved &#39;No Time to Die&#39;? This James Bond Movie Is the One You Should Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/james-bond-movie-to-watch-right-now/#ftag=CAD590a51e)
+ - [Intel denies Meteor Lake is delayed to 2024, says consumer chips will launch in 2023](https://www.theverge.com/23294064/intel-deny-meteor-lake-delay-2023-2024)
+ - [&#39;The Sandman&#39; Review: Netflix&#39;s Dark Fantasy Is a Dream Come True     - CNET](https://www.cnet.com/culture/entertainment/the-sandman-review-netflixs-dark-fantasy-is-a-dream-come-true/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
