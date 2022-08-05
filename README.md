@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [Turn something traditional and something modern into something awesome](http://9gag.com/gag/avAMYQM)
- - 🚯 [Today&#39;s rap](http://9gag.com/gag/aGzmX7z)<!-- MEMES:END -->
+ - 🚯 [What does the serval say to the pincher?](http://9gag.com/gag/a11yGAb)
+ - 🚯 [Ukrainium armor coming](http://9gag.com/gag/aVxpN5d)<!-- MEMES:END -->
 
 --- 
 
