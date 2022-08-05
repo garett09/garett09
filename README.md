@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Xur location and items, Aug. 5-9](https://www.polygon.com/destiny-2-guide-walkthrough/2022/8/5/23293771/destiny-2-xur-location-items-july-29-aug-2-this-week)
- - [Lawyer To Pay Activision For Not Playing Call Of Duty, Judge Decrees](https://kotaku.com/call-of-duty-cod-infinite-warfare-sean-brooks-lawsuit-1849377479)
- - [Crunchyroll bought a leading anime store, and now you can’t buy hentai there anymore](https://www.polygon.com/23292677/crunchyroll-right-stuf-new-store-erotic-content-hentai)<!-- GAME:END -->
+ - [Digimon Survive Is A Painfully Boring Tactical RPG](https://kotaku.com/digimon-survive-rpg-visual-novel-review-1849377900)
+ - [Vampire Survivors cheat code list and Forbidden Scrolls of Morbane guide](https://www.polygon.com/23293701/vampire-survivors-cheat-codes-spells-forbidden-scrolls-morbane-secrets-bone-zone)
+ - [Sonic Frontiers: Everything we know about open world Sonic](https://www.pcgamer.com/sonic-frontiers-release-date-trailer-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
