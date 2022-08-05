@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loved &#39;No Time to Die&#39;? This James Bond Movie Is the One You Should Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/james-bond-movie-to-watch-right-now/#ftag=CAD590a51e)
- - [Intel denies Meteor Lake is delayed to 2024, says consumer chips will launch in 2023](https://www.theverge.com/23294064/intel-deny-meteor-lake-delay-2023-2024)
- - [&#39;The Sandman&#39; Review: Netflix&#39;s Dark Fantasy Is a Dream Come True     - CNET](https://www.cnet.com/culture/entertainment/the-sandman-review-netflixs-dark-fantasy-is-a-dream-come-true/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s iRobot Deal Would Give It Maps Inside Millions of Homes](https://www.wired.com/story/amazon-irobot-roomba-acquisition-data-privacy/)
+ - [TikTok moderators say they were shown child sexual abuse videos during training](https://www.theverge.com/2022/8/5/23294017/tiktok-teleperformance-employees-shown-csam-moderation-report)
+ - [Code in the Google TV app suggests 50 free TV channels are coming](https://www.theverge.com/2022/8/5/23294075/google-tv-free-live-streaming-channels-rumor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
