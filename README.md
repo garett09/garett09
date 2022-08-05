@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ film &#39;Luck&#39; takes over Apple&#39;s homepage](https://appleinsider.com/articles/22/08/05/apple-tv-film-luck-takes-over-apples-homepage?utm_medium=rss)
- - [India will make iPhone 14 from launch, says Kuo](https://appleinsider.com/articles/22/08/05/india-will-make-iphone-14-from-launch-says-kuo?utm_medium=rss)
- - [Crypto bridge Nomad says anyone returning at least 90% of stolen tokens will be viewed as a white-hat hacker and the remaining 10% will become the reward &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220805/p3#a220805p3)<!-- TECH:END -->
+ - [Berlin-based LiveEO, which offers analytics tools for geospatial data from satellites, raised &amp;euro;19M led by MMC Ventures, following a &amp;euro;5.25M Series A in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220805/p5#a220805p5)
+ - [How to force an iPhone or iPad to stay on all the time](https://appleinsider.com/inside/ipad/tips/how-to-force-an-iphone-or-ipad-to-stay-on-all-the-time?utm_medium=rss)
+ - [Retweets Ruined Twitter. Here&#39;s How to Get Rid of Them](https://www.wired.com/story/how-to-mute-all-retweets-twitter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
