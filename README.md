@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [Ukrainium armor coming](http://9gag.com/gag/aVxpN5d)
- - 🚯 [Am sure this will upset some environmentalists](http://9gag.com/gag/a71YzwL)<!-- MEMES:END -->
+ - 🚯 [What is that creature?](http://9gag.com/gag/aGzmWOZ)
+ - 🚯 [*Ight imma put the dust back in*](http://9gag.com/gag/a71Yzox)<!-- MEMES:END -->
 
 --- 
 
