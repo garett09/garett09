@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [What is that creature?](http://9gag.com/gag/aGzmWOZ)
- - 🚯 [*Ight imma put the dust back in*](http://9gag.com/gag/a71Yzox)<!-- MEMES:END -->
+ - 🚯 [Turn something traditional and something modern into something awesome](http://9gag.com/gag/avAMYQM)
+ - 🚯 [Today&#39;s rap](http://9gag.com/gag/aGzmX7z)<!-- MEMES:END -->
 
 --- 
 
