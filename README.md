@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [When you&#39;re a civil engineer..... in Texas](http://9gag.com/gag/aegnnQq)
- - 🚯 [Hmmm](http://9gag.com/gag/aAG8z4g)<!-- MEMES:END -->
+ - 🚯 [Using the time wisely..](http://9gag.com/gag/a81RZ4Q)
+ - 🚯 [Bottles everywhere\u2026](http://9gag.com/gag/azeWngq)<!-- MEMES:END -->
 
 --- 
 
