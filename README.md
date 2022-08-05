@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Digimon Survive Is A Painfully Boring Tactical RPG](https://kotaku.com/digimon-survive-rpg-visual-novel-review-1849377900)
- - [Vampire Survivors cheat code list and Forbidden Scrolls of Morbane guide](https://www.polygon.com/23293701/vampire-survivors-cheat-codes-spells-forbidden-scrolls-morbane-secrets-bone-zone)
- - [Sonic Frontiers: Everything we know about open world Sonic](https://www.pcgamer.com/sonic-frontiers-release-date-trailer-gameplay)<!-- GAME:END -->
+ - [The biggest questions we have for The Sandman season 2](https://www.polygon.com/23292441/the-sandman-ending-explained-season-1)
+ - [This Week on Xbox: New Games, Upcoming Releases and Updates](https://news.xbox.com/en-us/2022/08/05/this-week-on-xbox-new-games-upcoming-releases-and-updates/)
+ - [I can&#39;t choose between these sweet Green Hill Zone and Dreamcast keyboards](https://www.pcgamer.com/i-cant-choose-between-these-sweet-green-hill-zone-and-dreamcast-keyboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
