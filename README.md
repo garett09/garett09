@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nowadays everyone has an opinion](http://9gag.com/gag/aOQMLy2)
- - 🚯 [The sign has a point?](http://9gag.com/gag/aKmQoPN)
- - 🚯 [How girls get into cars:&rpar;](http://9gag.com/gag/aVxp6R2)<!-- MEMES:END -->
+ - 🚖 [The perfect earrings don&#39;t exi...](http://9gag.com/gag/aDDKKYO)
+ - 🚯 [Hits just right](http://9gag.com/gag/aRrbbmM)
+ - 🚯 [Hmmm](http://9gag.com/gag/aAG8z4g)<!-- MEMES:END -->
 
 --- 
 
