@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon buying iRobot in a $1.7 billion all-cash deal](https://appleinsider.com/articles/22/08/05/amazon-to-acquire-irobot-in-a-17-billion-all-cash-deal?utm_medium=rss)
- - [As SoftBank Vision Fund managing partners Yanni Pipilis and Munish Varma leave, the fund has lost 10+ top execs since 2020, putting pressure on Masayoshi Son &lpar;Bloomberg&rpar;](http://www.techmeme.com/220805/p13#a220805p13)
- - [Netflix’s Carter puts action above all else](https://www.theverge.com/23292424/carter-review-netflix)<!-- TECH:END -->
+ - [India&#39;s Enforcement Directorate freezes assets worth ~$8.16M of Binance-owned crypto exchange WazirX, citing suspected foreign exchange rule violations &lpar;Nupur Anand/Reuters&rpar;](http://www.techmeme.com/220805/p14#a220805p14)
+ - [The Best VR Headsets and Games to Explore the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)
+ - [The Twitter v. Elon trial pregame heats up](https://www.theverge.com/2022/8/5/23293415/elon-musk-twitter-lawsuit-subpoenas-countersuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
