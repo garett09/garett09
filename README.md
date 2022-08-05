@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York judge allows Voyager Digital to return $270M in customer cash deposits, settling one of the company&#39;s larger issues after filing for bankruptcy &lpar;Soma Biswas/Wall Street Journal&rpar;](http://www.techmeme.com/220804/p35#a220804p35)
- - [Visa and Mastercard end ties with the ad arm of Pornhub owner MindGeek, after a court ruled Visa must face a lawsuit alleging it is liable for CSAM distribution &lpar;Michelle Price/Reuters&rpar;](http://www.techmeme.com/220804/p34#a220804p34)
- - [A staff member from Senator Cynthia Lummis&#39; office says the SEC is investigating Binance and every US crypto exchange, including Coinbase &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/220804/p33#a220804p33)<!-- TECH:END -->
+ - [YouTube is testing pinch to zoom with its Premium subscribers, allowing users to zoom into a video on-screen, even in landscape mode &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/220804/p38#a220804p38)
+ - [Even Beyond the Disease, COVID Has Impacted Our Heart Health     - CNET](https://www.cnet.com/health/medical/even-beyond-the-disease-covid-has-impacted-our-heart-health/#ftag=CAD590a51e)
+ - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/best-netflix-documentaries-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
