@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Car Backup Cameras for 2022     - CNET](https://www.cnet.com/roadshow/news/best-backup-camera/#ftag=CAD590a51e)
- - [Best Direct-to-Consumer Cookware for 2022: Made In, Caraway, Field Company and More     - CNET](https://www.cnet.com/news/best-direct-to-consumer-cookware/#ftag=CAD590a51e)
- - [Oppo Watch 3 series renders leak online: A curved Apple Watch?](https://www.androidauthority.com/oppo-watch-3-design-3193574/)<!-- TECH:END -->
+ - [The Google Pixel Fold might have a unique camera position](https://www.androidauthority.com/google-pixel-fold-foldable-design-3193593/)
+ - [&#39;The Sandman&#39; Review: Netflix&#39;s Dark Fantasy Is a Dream Come True     - CNET](https://www.cnet.com/culture/entertainment/the-sandman-review-netflixs-dark-fantasy-is-a-dream-come-true/#ftag=CAD590a51e)
+ - [Best Car Backup Cameras for 2022     - CNET](https://www.cnet.com/roadshow/news/best-backup-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
