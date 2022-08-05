@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Senate gets one precious step closer to approving Big Tech antitrust bill](https://www.theverge.com/2022/8/5/23293678/american-innovation-amazon-apple-google-facebook-antitrust-schumer-senate-vote)
- - [Amazon bought iRobot to see inside your home](https://www.theverge.com/23293687/amazon-irobot-acquisition-purchase-smarthome-intelligence-privacy-analysis)
- - [The Verge Review of Animals: Bibi the hippo](https://www.theverge.com/2022/8/5/23293427/bibi-hippo-baby-review-animals)<!-- TECH:END -->
+ - [ChromeOS 104 is rolling out with a new dark theme, and automatic transitions](https://www.theverge.com/2022/8/5/23293471/google-chromeos-104-dark-mode-update)
+ - [The Galaxy S22 One UI 5 beta starts rolling out &lpar;Update: List of markets&rpar;](https://www.androidauthority.com/galaxy-s22-series-one-ui-5-beta-3193677/)
+ - [Sony’s ultra-comfy LinkBuds S are on sale for just $148](https://www.theverge.com/good-deals/2022/8/5/23293676/sony-linkbuds-s-true-wireless-earbuds-usbc-ldac-noise-canceling-anc-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
