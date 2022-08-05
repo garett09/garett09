@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K’s newest tabletop RPG embraces the series’ pulp-fiction roots](https://www.polygon.com/23293019/40k-imperium-maledictum-d100-gencon-2022)
- - [Chainsaw Man’s new trailer rips and tears into action, confirms October premiere](https://www.polygon.com/23220258/chainsaw-man-anime-release-date-trailer-part-1)
- - [Nvidia RTX 4080 and RTX 4070 rumours suggest we&#39;re still a while away from a genuine launch](https://www.pcgamer.com/nvidia-rtx-4080-and-rtx-4070-rumours-suggest-were-still-a-while-away-from-a-genuine-launch)<!-- GAME:END -->
+ - [5 Crucial Tips To Surviving The Sims 4: High School Years Expansion Pack](https://kotaku.com/sims-4-high-school-years-expansion-guide-1849376039)
+ - [Next Week on Xbox: August 8 to 12](https://news.xbox.com/en-us/2022/08/05/next-week-on-xbox-august-8-to-12/)
+ - [One of the best roguelikes ever is getting a 3D remake with a rewind function](https://www.pcgamer.com/one-of-the-best-roguelikes-ever-is-getting-a-3d-remake-with-a-rewind-function)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
