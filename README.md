@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based LiveEO, which offers analytics tools for geospatial data from satellites, raised &amp;euro;19M led by MMC Ventures, following a &amp;euro;5.25M Series A in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220805/p5#a220805p5)
- - [How to force an iPhone or iPad to stay on all the time](https://appleinsider.com/inside/ipad/tips/how-to-force-an-iphone-or-ipad-to-stay-on-all-the-time?utm_medium=rss)
- - [Retweets Ruined Twitter. Here&#39;s How to Get Rid of Them](https://www.wired.com/story/how-to-mute-all-retweets-twitter/)<!-- TECH:END -->
+ - [How to keep your kids busy while you work from home](https://www.theverge.com/23278781/work-from-home-kids-children-back-to-school)
+ - [Amazon acquires Roomba robot vacuum makers iRobot for $1.7 billion](https://www.theverge.com/2022/8/5/23293349/amazon-acquires-irobot-roomba-robot-vacuums)
+ - [Amazon plans to acquire Roomba maker iRobot for $1.7B in an all-cash deal; Colin Angle will remain as iRobot CEO &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220805/p9#a220805p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
