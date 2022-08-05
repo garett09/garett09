@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest questions we have for The Sandman season 2](https://www.polygon.com/23292441/the-sandman-ending-explained-season-1)
- - [This Week on Xbox: New Games, Upcoming Releases and Updates](https://news.xbox.com/en-us/2022/08/05/this-week-on-xbox-new-games-upcoming-releases-and-updates/)
- - [I can&#39;t choose between these sweet Green Hill Zone and Dreamcast keyboards](https://www.pcgamer.com/i-cant-choose-between-these-sweet-green-hill-zone-and-dreamcast-keyboards)<!-- GAME:END -->
+ - [League of Legends’ Udyr channels animal spirits in rework trailer](https://www.polygon.com/23294092/league-of-legends-udyr-rework-gameplay-trailer)
+ - [Gen Con 2022: All the best board games, RPGs, and card games from Indianapolis](https://www.polygon.com/23294080/gen-con-2022-event-best-board-games-rpg-ccg-indianapolis)
+ - [Activision Blizzard earned more on mobile games last quarter than PC and consoles combined](https://www.pcgamer.com/activision-blizzard-earned-more-on-mobile-games-last-quarter-than-pc-and-consoles-combined)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
