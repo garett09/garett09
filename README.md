@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming routers in 2022](https://www.pcgamer.com/best-gaming-routers)
- - [Elden Ring guide: Everything you need to survive the Lands Between](https://www.pcgamer.com/elden-ring-guide)
- - [Mario Kart 8 DLC Leaks Hint At Rest Of New Courses](https://kotaku.com/mario-kart-8-dlc-tour-new-courses-datamine-leak-switch-1849376331)<!-- GAME:END -->
+ - [Stardew Valley-Like Final Fantasy Sim Reveals Horny Produce](https://kotaku.com/stardew-valley-runescape-farming-sim-harvestella-1849376860)
+ - [Paper Girls lets its teens actually confront — and live with — death](https://www.polygon.com/23292033/paper-girls-dies-season-1)
+ - [YouTube needs to get serious about small streamers if it wants to rival Twitch](https://www.pcgamer.com/youtube-needs-to-get-serious-about-small-streamers-if-it-wants-to-rival-twitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
