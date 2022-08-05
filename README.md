@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A true friend](http://9gag.com/gag/aAG8zd0)
+ - 🚖 [The sign has a point?](http://9gag.com/gag/aKmQoPN)
  - 🚯 [Becoming the bigger beast](http://9gag.com/gag/a316rpv)
  - 🚯 [You don&#39;t say?](http://9gag.com/gag/aOQM52N)<!-- MEMES:END -->
 
