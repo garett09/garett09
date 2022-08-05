@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s iRobot Deal Would Give It Maps Inside Millions of Homes](https://www.wired.com/story/amazon-irobot-roomba-acquisition-data-privacy/)
- - [TikTok moderators say they were shown child sexual abuse videos during training](https://www.theverge.com/2022/8/5/23294017/tiktok-teleperformance-employees-shown-csam-moderation-report)
- - [Code in the Google TV app suggests 50 free TV channels are coming](https://www.theverge.com/2022/8/5/23294075/google-tv-free-live-streaming-channels-rumor)<!-- TECH:END -->
+ - [A look at Japan&#39;s efforts to counter supply chain disruptions, including investing in domestic production and seeking to form a coalition with the US and the EU &lpar;New York Times&rpar;](http://www.techmeme.com/220805/p21#a220805p21)
+ - [Alex Jones hit with $45.2 million defamation verdict — but could pay much less](https://www.theverge.com/2022/8/5/23293411/alex-jones-punitive-damages-verdict-sandy-hook-defamation)
+ - [A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years](https://www.wired.com/story/slack-hashed-passwords-exposed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
