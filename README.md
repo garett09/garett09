@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot throws bricks at dogs and gets mauled](http://9gag.com/gag/azeW3BN)
+ - 🚖 [A true friend](http://9gag.com/gag/aAG8zd0)
  - 🚯 [Becoming the bigger beast](http://9gag.com/gag/a316rpv)
- - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
+ - 🚯 [You don&#39;t say?](http://9gag.com/gag/aOQM52N)<!-- MEMES:END -->
 
 --- 
 
