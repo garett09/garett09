@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max and Discovery+ will merge into one streaming service with ad-supported tier](https://appleinsider.com/articles/22/08/05/hbo-max-and-discovery-will-merge-into-one-streaming-service-with-ad-supported-tier?utm_medium=rss)
- - [YouTube is testing pinch to zoom with its Premium subscribers, allowing users to zoom into a video on-screen, even in landscape mode &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/220804/p38#a220804p38)
- - [Even Beyond the Disease, COVID Has Impacted Our Heart Health     - CNET](https://www.cnet.com/health/medical/even-beyond-the-disease-covid-has-impacted-our-heart-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo Watch 3 series renders leak online: A curved Apple Watch?](https://www.androidauthority.com/oppo-watch-3-design-3193574/)
+ - [Sources: EU-based hedge fund Brevan Howard has raised $1B+ from institutional investors for its crypto unit BH Digital, in the largest crypto hedge fund launch &lpar;Michael Bodley/Blockworks&rpar;](http://www.techmeme.com/220805/p1#a220805p1)
+ - [HBO Max and Discovery+ will merge into one streaming service with ad-supported tier](https://appleinsider.com/articles/22/08/05/hbo-max-and-discovery-will-merge-into-one-streaming-service-with-ad-supported-tier?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
