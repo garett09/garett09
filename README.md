@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; hero Buckminster Fuller thought Apple II was a toy](https://appleinsider.com/articles/22/08/03/steve-jobss-hero-buckminster-fuller-thought-apple-ii-was-a-toy?utm_medium=rss)
- - [Google updates search results for queries with quotes to show where the phrase appears in the results snippet instead of an overall description of the page &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/220805/p2#a220805p2)
- - [The Google Pixel Fold might have a unique camera position](https://www.androidauthority.com/google-pixel-fold-foldable-design-3193593/)<!-- TECH:END -->
+ - [Apple TV+ film &#39;Luck&#39; takes over Apple&#39;s homepage](https://appleinsider.com/articles/22/08/05/apple-tv-film-luck-takes-over-apples-homepage?utm_medium=rss)
+ - [India will make iPhone 14 from launch, says Kuo](https://appleinsider.com/articles/22/08/05/india-will-make-iphone-14-from-launch-says-kuo?utm_medium=rss)
+ - [Crypto bridge Nomad says anyone returning at least 90% of stolen tokens will be viewed as a white-hat hacker and the remaining 10% will become the reward &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220805/p3#a220805p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
