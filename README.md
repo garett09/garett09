@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Spent Six Years Remastering An Unreleased Warcraft Game](https://kotaku.com/warcraft-adventure-game-remastered-blizzard-point-click-1849378845)
- - [Zenless Zone Zero&#39;s first beta shows off its roguelike city](https://www.pcgamer.com/zenless-zone-zeros-first-beta-is-showing-off-its-roguelike-city)
- - [Crunchyroll bought a leading anime store, and now you can’t buy hentai there anymore](https://www.polygon.com/23292677/crunchyroll-right-stuf-new-store-erotic-content-hentai)<!-- GAME:END -->
+ - [Tiny MMO Book of Travels lays out big plans for the future](https://www.pcgamer.com/tiny-mmo-book-of-travels-lays-out-big-plans-for-the-future)
+ - [Crunchyroll Bought A Popular Anime Video Store, Removed Its Hentai](https://kotaku.com/crunchyroll-right-stuf-fakku-anime-merger-hentai-manga-1849378887)
+ - [Prey, Uncharted, and every other new movie you can stream from home this weekend](https://www.polygon.com/23285357/new-movies-watch-prey-lightyear-minions-netflix-uncharted-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
