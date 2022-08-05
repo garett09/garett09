@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you love me? Bird:](http://9gag.com/gag/avAMMpM)
+ - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
  - 🚯 [These bastards lied to me](http://9gag.com/gag/awzEWwR)
  - 🚯 [Hmmm](http://9gag.com/gag/aAG8z4g)<!-- MEMES:END -->
 
