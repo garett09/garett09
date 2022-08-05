@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s Sugma time](http://9gag.com/gag/a51OYoo)
- - 🚯 [Its not okay, its necessary](http://9gag.com/gag/angmwAq)
+ - 🚖 [Idiot throws bricks at dogs and gets mauled](http://9gag.com/gag/azeW3BN)
+ - 🚯 [Becoming the bigger beast](http://9gag.com/gag/a316rpv)
  - 🚯 [What&#39;s inside your fridge?](http://9gag.com/gag/avAMqBX)<!-- MEMES:END -->
 
 --- 
