@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley-Like Final Fantasy Sim Reveals Horny Produce](https://kotaku.com/stardew-valley-runescape-farming-sim-harvestella-1849376860)
- - [Paper Girls lets its teens actually confront — and live with — death](https://www.polygon.com/23292033/paper-girls-dies-season-1)
- - [YouTube needs to get serious about small streamers if it wants to rival Twitch](https://www.pcgamer.com/youtube-needs-to-get-serious-about-small-streamers-if-it-wants-to-rival-twitch)<!-- GAME:END -->
+ - [SolForge Fusion wants to be the next generation of tabletop deck building](https://www.polygon.com/tabletop-games/23291211/solforge-fusion-tabletop-deck-building-preview-gencon-2022)
+ - [The Best And Worst Parts About Every Borderlands Game](https://kotaku.com/best-worst-borderlands-tiny-tina-wonderlands-gearbox-1849377174)
+ - [All Vampire Survivors cheats and how they work](https://www.pcgamer.com/vampire-survivors-cheats-secrets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
