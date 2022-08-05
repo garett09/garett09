@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [What is that creature?](http://9gag.com/gag/aGzmWOZ)
+ - 🚯 [2,500 year old tattoos of a Siberian princess.](http://9gag.com/gag/aqGP3BM)
  - 🚯 [Plot twist](http://9gag.com/gag/angmpnL)<!-- MEMES:END -->
 
 --- 
