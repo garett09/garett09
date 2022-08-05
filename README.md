@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer: Friday, August 5 &lpar;412&rpar;](https://www.pcgamer.com/wordle-today-answer-hint)
  - [​​Netflix’s The Sandman is a great ad for the Sandman comics](https://www.polygon.com/reviews/23292287/the-sandman-season-1-2022-netflix-review)
- - [AMD and partners show off premium AM5 motherboards for upcoming Ryzen 7000 CPUs](https://www.pcgamer.com/amd-and-partners-show-off-premium-am5-motherboards-for-upcoming-ryzen-7000-cpus)
- - [Super Mario 64 Becomes A First-Person Horror Game](https://kotaku.com/super-mario-64-turned-into-a-first-person-horror-game-1849374887)<!-- GAME:END -->
+ - [AMD and partners show off premium AM5 motherboards for upcoming Ryzen 7000 CPUs](https://www.pcgamer.com/amd-and-partners-show-off-premium-am5-motherboards-for-upcoming-ryzen-7000-cpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
