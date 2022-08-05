@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect earrings don&#39;t exi...](http://9gag.com/gag/aDDKKYO)
- - 🚯 [Hits just right](http://9gag.com/gag/aRrbbmM)
+ - 🚖 [Do you love me? Bird:](http://9gag.com/gag/avAMMpM)
+ - 🚯 [These bastards lied to me](http://9gag.com/gag/awzEWwR)
  - 🚯 [Hmmm](http://9gag.com/gag/aAG8z4g)<!-- MEMES:END -->
 
 --- 
