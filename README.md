@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare Pegasus screenshots depict NSO Group&#39;s spyware capabilities](https://appleinsider.com/articles/22/08/05/rare-pegasus-screenshots-depict-nso-groups-spyware-capabilities?utm_medium=rss)
- - [Mario Kart 8 Deluxe DLC - Booster Course Pass Price, Wave 2 Release Date, and More     - CNET](https://www.cnet.com/tech/gaming/mario-kart-8-deluxe-dlc-booster-course-pass-price-new-courses-and-more/#ftag=CAD590a51e)
- - [Best SUV Tires for 2022     - CNET](https://www.cnet.com/roadshow/news/best-suv-tires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Senate gets one precious step closer to approving Big Tech antitrust bill](https://www.theverge.com/2022/8/5/23293678/american-innovation-amazon-apple-google-facebook-antitrust-schumer-senate-vote)
+ - [Amazon bought iRobot to see inside your home](https://www.theverge.com/23293687/amazon-irobot-acquisition-purchase-smarthome-intelligence-privacy-analysis)
+ - [The Verge Review of Animals: Bibi the hippo](https://www.theverge.com/2022/8/5/23293427/bibi-hippo-baby-review-animals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
