@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ Udyr channels animal spirits in rework trailer](https://www.polygon.com/23294092/league-of-legends-udyr-rework-gameplay-trailer)
- - [Gen Con 2022: All the best board games, RPGs, and card games from Indianapolis](https://www.polygon.com/23294080/gen-con-2022-event-best-board-games-rpg-ccg-indianapolis)
- - [Activision Blizzard earned more on mobile games last quarter than PC and consoles combined](https://www.pcgamer.com/activision-blizzard-earned-more-on-mobile-games-last-quarter-than-pc-and-consoles-combined)<!-- GAME:END -->
+ - [Someone Spent Six Years Remastering An Unreleased Warcraft Game](https://kotaku.com/warcraft-adventure-game-remastered-blizzard-point-click-1849378845)
+ - [Zenless Zone Zero&#39;s first beta shows off its roguelike city](https://www.pcgamer.com/zenless-zone-zeros-first-beta-is-showing-off-its-roguelike-city)
+ - [Crunchyroll bought a leading anime store, and now you can’t buy hentai there anymore](https://www.polygon.com/23292677/crunchyroll-right-stuf-new-store-erotic-content-hentai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
