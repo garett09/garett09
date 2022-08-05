@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomeKit smart bulb maker Lifx acquired by Feit Electric](https://appleinsider.com/articles/22/08/05/homekit-smart-bulb-maker-lifx-acquired-by-feit-electric?utm_medium=rss)
- - [We Interviewed Meta’s New AI Chatbot About … Itself](https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/)
- - [How to separate first and last name in Excel](https://www.androidauthority.com/seperate-first-last-name-excel-3193803/)<!-- TECH:END -->
+ - [&#39;Lightyear&#39; Finally Hit Disney Plus. Here&#39;s Why It Took 6 Weeks to Get There     - CNET](https://www.cnet.com/tech/home-entertainment/lightyear-finally-hit-disney-plus-heres-why-it-took-6-weeks-to-get-there/#ftag=CAD590a51e)
+ - [Galaxy Z Fold 4 Pops Up in Amazon Listing Ahead of Samsung Unpacked     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-fold-4-pops-up-in-amazon-listing-ahead-of-samsung-unpacked/#ftag=CAD590a51e)
+ - [NASA Shares Game Plan for Late August Artemis I Lunar Launch     - CNET](https://www.cnet.com/science/space/nasa-shares-game-plan-for-late-august-artemis-i-lunar-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
