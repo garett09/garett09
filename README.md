@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Commander Is A Firefighting Game That Doesn&#39;t Suck](https://kotaku.com/fire-commander-pc-firefighter-video-game-review-1849358289)
- - [To simulate a stress dream, play Rocket League for 1,300 hours and then try this car golf game](https://www.pcgamer.com/to-simulate-a-stress-dream-play-rocket-league-for-1300-hours-and-then-try-this-car-golf-game)
- - [Breath of the Wild 2 Could Improve Its Open World Design](https://game-rant-2022.blogspot.com/2022/08/breath-of-wild-2-could-improve-its-open.html)<!-- GAME:END -->
+ - [Super Mario 64 Becomes A First-Person Horror Game](https://kotaku.com/super-mario-64-turned-into-a-first-person-horror-game-1849374887)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Another PlayStation Game Quietly Comes To The PC](https://kotaku.com/steam-pc-ps4-ps3-vita-sony-hohokum-ghostly-tycho-1849374773)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
