@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Foxconn will begin production of at least one iPhone 14 model &quot;almost simultaneously&quot; in India and China, the first time this will happen for a new iPhone &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220806/p1#a220806p1)
- - [Binance CEO Changpeng Zhao claims it doesn&#39;t own Indian crypto exchange WazirX despite disclosing the acquisition in 2019; WazirX founder disputes Zhao&#39;s claims &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220805/p24#a220805p24)
- - [Voyager will begin processing customer cash withdrawals on August 11 after getting court approval on August 4; customers can withdraw up to $100K each 24 hours &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220805/p23#a220805p23)<!-- TECH:END -->
+ - [A brief history of AI and why some AI researchers believe the technology they have built is sentient or conscious despite no evidence &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220806/p4#a220806p4)
+ - [Indonesia restored access to PayPal, Yahoo, and Valve services in the country after companies signed up to licensing rules introduced in 2020 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220806/p3#a220806p3)
+ - [The California DMV accuses Tesla of falsely advertising Autopilot and FSD features, in a pair of July 28 filings with the CA&#39;s Office of Administrative Hearings &lpar;Russ Mitchell/Los Angeles Times&rpar;](http://www.techmeme.com/220806/p2#a220806p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
