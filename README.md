@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10T vs Google Pixel 6: Which should you buy?](https://www.androidauthority.com/oneplus-10t-vs-google-pixel-6-3193172/)
- - [OnePlus Nord N20 5G Review: A $300 Value Pick That&#39;s Missing a Spark     - CNET](https://www.cnet.com/tech/mobile/oneplus-nord-n20-5g-review-a-300-value-pick-thats-missing-a-spark/#ftag=CAD590a51e)
- - [Akamai: web application attacks on the gaming industry increased 167% YoY from May 2021-April 2022, and 37% of all DDoS attacks were against the gaming sector &lpar;Leigh Mc Gowran/Silicon Republic&rpar;](http://www.techmeme.com/220806/p5#a220806p5)<!-- TECH:END -->
+ - [Smiling Friends Is a Paean to the Internet’s Unruly Past](https://www.wired.com/story/smiling-friends-flash-animation/)
+ - [The Maeving RM1 Electric Motorcycle Is a Stylish Urban Steed](https://www.wired.com/review/maeving-rm1/)
+ - [NFTs Are Conquering Soccer](https://www.wired.com/story/nfts-conquering-soccer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
