@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Answer and hint for Saturday, August 6](https://www.pcgamer.com/wordle-today-answer-hint)
  - [GameStop&#39;s NFT marketplace sold stolen indie games](https://www.pcgamer.com/gamestops-nft-marketplace-sold-stolen-indie-games)
- - [Valorant dev tackles smurfing paranoia: &#39;smurfs are less common than players think&#39;](https://www.pcgamer.com/valorant-dev-tackles-smurfing-paranoia-smurfs-are-less-common-than-players-think)<!-- GAME:END -->
+ - [Valorant dev tackles smurfing paranoia: &#39;smurfs are less common than players think&#39;](https://www.pcgamer.com/valorant-dev-tackles-smurfing-paranoia-smurfs-are-less-common-than-players-think)
+ - [Tiny MMO Book of Travels lays out big plans for the future](https://www.pcgamer.com/tiny-mmo-book-of-travels-lays-out-big-plans-for-the-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
