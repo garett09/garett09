@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen moment](http://9gag.com/gag/avAN0gO)
- - 🚯 [Great for licking stamps too!!!](http://9gag.com/gag/azenL9x)
- - 🚯 [My longtime hobby is woodcarving, and I love owls:&rpar; Rate it please.](http://9gag.com/gag/aWgzZOA)<!-- MEMES:END -->
+ - 🚖 [Needed to be said](http://9gag.com/gag/aE83GBM)
+ - 🚯 [80&#39;s Guy x 00&#39;s Guys](http://9gag.com/gag/a41v9jp)
+ - 🚯 [Chinese Explorer Zheng He\u2019s Ship Compared To Christopher Columbus\u2019 Santa Maria. They Both Lived In The Same Era.](http://9gag.com/gag/ay9G5YM)<!-- MEMES:END -->
 
 --- 
 
