@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Power Bank for iPhone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [I really want my next phone to have a 10x periscope camera](https://www.androidauthority.com/next-phone-10x-periscope-camera-3193599/)
- - [This weekend&#39;s best Apple deals: $119 Apple TV 4K, $299 iPad, $179 AirPods Pro, $354 off Mac](https://appleinsider.com/articles/22/08/06/this-weekends-best-apple-deals-119-apple-tv-4k-299-ipad-179-airpods-pro-354-off-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk challenges Twitter CEO to a ‘public debate’ about bots](https://www.theverge.com/2022/8/6/23294852/elon-musk-challenges-twitter-ceo-public-debate-bots-parag-agrawal)
+ - [Inside the cottage industry around &quot;YouTube automation&quot; that is dubiously persuading people to spend thousands of dollars to create video businesses on YouTube &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/220806/p10#a220806p10)
+ - [Biden Tests Negative for COVID After &#39;Rebound&#39; Case     - CNET](https://www.cnet.com/health/biden-tests-negative-for-covid-after-rebound-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
