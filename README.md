@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smiling Friends Is a Paean to the Internet’s Unruly Past](https://www.wired.com/story/smiling-friends-flash-animation/)
- - [The Maeving RM1 Electric Motorcycle Is a Stylish Urban Steed](https://www.wired.com/review/maeving-rm1/)
- - [NFTs Are Conquering Soccer](https://www.wired.com/story/nfts-conquering-soccer/)<!-- TECH:END -->
+ - [Pop quiz: How much do you know about foldables?](https://www.androidauthority.com/foldable-phone-quiz-3193589/)
+ - [Extreme Heat Is Becoming More Dangerous for Farmworkers](https://www.wired.com/story/extreme-heat-is-becoming-more-dangerous-for-farmworkers/)
+ - [Insta360&#39;s New 360 Edition Has Insanely High Video Quality](https://www.wired.com/review/insta360-one-rs-1-inch-360-edition/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
