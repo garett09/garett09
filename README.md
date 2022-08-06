@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kurwa](http://9gag.com/gag/aNPNrYv)
- - 🚯 [That\u2019s how it\u2019s done](http://9gag.com/gag/aPZ5w3P)
- - 🚯 [Karen moment](http://9gag.com/gag/avAN0gO)<!-- MEMES:END -->
+ - 🚖 [Nature is something else](http://9gag.com/gag/aOQwKW3)
+ - 🚯 [Beautiful first date](http://9gag.com/gag/aNPNrPr)
+ - 🚯 [Cycle tour winner prank](http://9gag.com/gag/aM4g2yA)<!-- MEMES:END -->
 
 --- 
 
