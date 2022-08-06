@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nature is something else](http://9gag.com/gag/aOQwKW3)
- - 🚯 [Beautiful first date](http://9gag.com/gag/aNPNrPr)
- - 🚯 [Cycle tour winner prank](http://9gag.com/gag/aM4g2yA)<!-- MEMES:END -->
+ - 🚖 [Beautiful first date](http://9gag.com/gag/aNPNrPr)
+ - 🚯 [A woman motherf**ker ,would you name it!](http://9gag.com/gag/aXrB0pV)
+ - 🚯 [Nature is something else](http://9gag.com/gag/aOQwKW3)<!-- MEMES:END -->
 
 --- 
 
