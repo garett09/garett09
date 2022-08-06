@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Ascent&#39;s DLC adds glowing neon melee weapons](https://www.pcgamer.com/the-ascents-dlc-adds-glowing-neon-melee-weapons)
  - [The best Sandman stories to read after watching the Netflix series](https://www.polygon.com/23273386/best-sandman-stories-netflix)
- - [The Sandman star is glad the show isn’t a ‘CGI orgy’](https://www.polygon.com/23289366/the-sandman-netflix-cgi-effects-tom-sturridge)
- - [In Time Flies, life is meaningless, do what you can before death takes you](https://www.polygon.com/23294001/time-flies-preview-michael-frei)<!-- GAME:END -->
+ - [The Sandman star is glad the show isn’t a ‘CGI orgy’](https://www.polygon.com/23289366/the-sandman-netflix-cgi-effects-tom-sturridge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
