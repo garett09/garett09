@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m not familiar with this dog breed, can someone tell me what it&#39;s called?](http://9gag.com/gag/adgE6MZ)
+ - 🚖 [Offensive jokes](http://9gag.com/gag/aogXZZx)
  - 🚯 [80&#39;s Guy x 00&#39;s Guys](http://9gag.com/gag/a41v9jp)
- - 🚯 [If i stay up until i hear birds chirping for another night imma lose my shit](http://9gag.com/gag/a0ZBPBQ)<!-- MEMES:END -->
+ - 🚯 [Germany invading France 1940 colorized](http://9gag.com/gag/a91od9m)<!-- MEMES:END -->
 
 --- 
 
