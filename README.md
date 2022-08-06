@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To the hairdresser: I don&#39;t want sex for a while... say no more](http://9gag.com/gag/aDDyReZ)
- - 🚯 [Big no no](http://9gag.com/gag/a61Prpe)
- - 🚯 [He missed the airport track](http://9gag.com/gag/aGzXKxX)<!-- MEMES:END -->
+ - 🚖 [He missed the airport track](http://9gag.com/gag/aGzXKxX)
+ - 🚯 [That\u2019s how it\u2019s done](http://9gag.com/gag/aPZ5w3P)
+ - 🚯 [Beautiful first date](http://9gag.com/gag/aNPNrPr)<!-- MEMES:END -->
 
 --- 
 
