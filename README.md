@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [Plot twist](http://9gag.com/gag/angmpnL)
- - 🚯 [It&#39;s all so tiresome](http://9gag.com/gag/aYr32dq)<!-- MEMES:END -->
+ - 🚯 [When its over 1000 on a Gigabit connection](http://9gag.com/gag/a213Qge)
+ - 🚯 [And if you pirated it... At least you pay for your internet. Probably.](http://9gag.com/gag/angmAXb)<!-- MEMES:END -->
 
 --- 
 
