@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Galaxy Z Fold 4 Rumors: Possible Amazon Leak Reveals Foldable Phone Details     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-rumors/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 5 Rumors: Faster Charger, Updated Design     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-rumors-faster-charger-updated-design/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reolink Go PT Plus review: Feature packed, completely wireless security camera](https://appleinsider.com/articles/22/08/06/reolink-go-pt-plus-review-feature-packed-completely-wireless-security-camera?utm_medium=rss)
+ - [[Thread] How Apple&#39;s App Tracking Transparency blew up the digital ad ecosystem, bolstering Apple&#39;s ads business while positioning it as a privacy champion &lpar;Eric Seufert/@eric_seufert&rpar;](http://www.techmeme.com/220806/p11#a220806p11)
+ - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
