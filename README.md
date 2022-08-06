@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk challenges Twitter CEO to a ‘public debate’ about bots](https://www.theverge.com/2022/8/6/23294852/elon-musk-challenges-twitter-ceo-public-debate-bots-parag-agrawal)
- - [Inside the cottage industry around &quot;YouTube automation&quot; that is dubiously persuading people to spend thousands of dollars to create video businesses on YouTube &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/220806/p10#a220806p10)
- - [Biden Tests Negative for COVID After &#39;Rebound&#39; Case     - CNET](https://www.cnet.com/health/biden-tests-negative-for-covid-after-rebound-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
+ - [Galaxy Z Fold 4 Rumors: Possible Amazon Leak Reveals Foldable Phone Details     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-rumors/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 5 Rumors: Faster Charger, Updated Design     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-rumors-faster-charger-updated-design/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
