@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass vs.  PlayStation Plus: Which One Is For You?](https://game-rant-2022.blogspot.com/2022/08/xbox-game-pass-vs-playstation-plus.html)
- - [PS5 improvements that Sony should implement in updates](https://game-rant-2022.blogspot.com/2022/08/ps5-improvements-that-sony-should.html)
- - [10 TTRPGs From The 90s That Have Been Forgotten](https://game-rant-2022.blogspot.com/2022/08/10-ttrpgs-from-90s-that-have-been.html)<!-- GAME:END -->
+ - [GameStop&#39;s NFT marketplace sold stolen indie games](https://www.pcgamer.com/gamestops-nft-marketplace-sold-stolen-indie-games)
+ - [Valorant dev tackles smurfing paranoia: &#39;smurfs are less common than players think&#39;](https://www.pcgamer.com/valorant-dev-tackles-smurfing-paranoia-smurfs-are-less-common-than-players-think)
+ - [Tiny MMO Book of Travels lays out big plans for the future](https://www.pcgamer.com/tiny-mmo-book-of-travels-lays-out-big-plans-for-the-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
