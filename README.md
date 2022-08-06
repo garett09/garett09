@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram tries to please photographers by testing fullscreen images](https://appleinsider.com/articles/22/08/06/instagram-tries-to-please-photographers-by-testing-fullscreen-images?utm_medium=rss)
- - [Samsung One UI 5 beta begins rollout to Galaxy S22 phones in the US](https://www.androidauthority.com/samsung-one-ui-5-beta-us-3193946/)
- - [IOGear Dock Pro 6-in-1 4K Dock Stand review: reliable ports and unconventional stand suited for smaller laptops](https://appleinsider.com/articles/22/08/06/iogear-dock-pro-6-in-1-4k-dock-stand-review-reliable-ports-and-unconventional-stand-suited-for-smaller-laptops?utm_medium=rss)<!-- TECH:END -->
+ - [Best Power Bank for iPhone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [I really want my next phone to have a 10x periscope camera](https://www.androidauthority.com/next-phone-10x-periscope-camera-3193599/)
+ - [This weekend&#39;s best Apple deals: $119 Apple TV 4K, $299 iPad, $179 AirPods Pro, $354 off Mac](https://appleinsider.com/articles/22/08/06/this-weekends-best-apple-deals-119-apple-tv-4k-299-ipad-179-airpods-pro-354-off-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
