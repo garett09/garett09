@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
+ - 🚖 [To the hairdresser: I don&#39;t want sex for a while... say no more](http://9gag.com/gag/aDDyReZ)
  - 🚯 [Big no no](http://9gag.com/gag/a61Prpe)
- - 🚯 [Life is unfair](http://9gag.com/gag/a21eER1)<!-- MEMES:END -->
+ - 🚯 [He missed the airport track](http://9gag.com/gag/aGzXKxX)<!-- MEMES:END -->
 
 --- 
 
