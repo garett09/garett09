@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 TTRPGs From The 90s That Have Been Forgotten](https://game-rant-2022.blogspot.com/2022/08/10-ttrpgs-from-90s-that-have-been.html)
- - [Video games with tragic beginnings and opening order](https://game-rant-2022.blogspot.com/2022/08/video-games-with-tragic-beginnings-and.html)
- - [8 Darkest Anime Girls, Ranked](https://game-rant-2022.blogspot.com/2022/08/8-darkest-anime-girls-ranked.html)<!-- GAME:END -->
+ - [Xbox Game Pass vs.  PlayStation Plus: Which One Is For You?](https://game-rant-2022.blogspot.com/2022/08/xbox-game-pass-vs-playstation-plus.html)
+ - [PS5 improvements that Sony should implement in updates](https://game-rant-2022.blogspot.com/2022/08/ps5-improvements-that-sony-should.html)
+ - [10 TTRPGs From The 90s That Have Been Forgotten](https://game-rant-2022.blogspot.com/2022/08/10-ttrpgs-from-90s-that-have-been.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
