@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California DMV accuses Tesla of making false claims about Autopilot and Full-Self Driving](https://www.theverge.com/2022/8/6/23294658/california-dmv-accuses-tesla-false-claims-autopilot-full-self-driving-autonomous-vehicles)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-444-3193569/)
- - [Capture Everything With This Discounted Beginner Drone -- Just $85 Right Now     - CNET](https://www.cnet.com/deals/capture-everything-with-this-discounted-beginner-drone-just-85-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram tries to please photographers by testing fullscreen images](https://appleinsider.com/articles/22/08/06/instagram-tries-to-please-photographers-by-testing-fullscreen-images?utm_medium=rss)
+ - [Samsung One UI 5 beta begins rollout to Galaxy S22 phones in the US](https://www.androidauthority.com/samsung-one-ui-5-beta-us-3193946/)
+ - [IOGear Dock Pro 6-in-1 4K Dock Stand review: reliable ports and unconventional stand suited for smaller laptops](https://appleinsider.com/articles/22/08/06/iogear-dock-pro-6-in-1-4k-dock-stand-review-reliable-ports-and-unconventional-stand-suited-for-smaller-laptops?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
