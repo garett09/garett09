@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Congrats @hulkstark on being the winner of the Pooping Cat Contest. Yea we know how you feel about the contest, thanks for shitting on us \ud83d\udca9](http://9gag.com/gag/aQXLLY8)
- - 🚯 [When its over 1000 on a Gigabit connection](http://9gag.com/gag/a213Qge)
- - 🚯 [Biker gives cop the finger and takes off](http://9gag.com/gag/adgEyv9)<!-- MEMES:END -->
+ - 🚯 [Big no no](http://9gag.com/gag/a61Prpe)
+ - 🚯 [Wife installs child locks on drawers](http://9gag.com/gag/aYr9jyO)<!-- MEMES:END -->
 
 --- 
 
