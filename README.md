@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals August 6: $49 Meta Portal, Half-Price Arris Surfboard Max Router, $200 31.5-inch Acer Monitor](https://appleinsider.com/articles/22/08/06/daily-deals-august-6-49-meta-portal-half-price-arris-surfboard-max-router-200-315-inch-acer-monitor?utm_medium=rss)
- - [Monkeypox: What Gay and Bisexual Men Need to Know     - CNET](https://www.cnet.com/health/monkeypox-what-gay-and-bisexual-men-need-to-know/#ftag=CAD590a51e)
- - [Samsung’s New Phone Repair Kits Are Better Than Nothing](https://www.wired.com/story/samsungs-galaxy-repair-kits-better-than-nothing/)<!-- TECH:END -->
+ - [Proprietary USB-C fast charging was once a necessary evil, now it’s just evil](https://www.androidauthority.com/proprietary-fast-charging-3192175/)
+ - [Microsoft Surface Laptop Go 2 review: a little laptop for light work](https://www.theverge.com/23293491/microsoft-surface-laptop-go-2-review)
+ - [Daily deals August 6: $49 Meta Portal, Half-Price Arris Surfboard Max Router, $200 31.5-inch Acer Monitor](https://appleinsider.com/articles/22/08/06/daily-deals-august-6-49-meta-portal-half-price-arris-surfboard-max-router-200-315-inch-acer-monitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
