@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop&#39;s NFT marketplace sold stolen indie games](https://www.pcgamer.com/gamestops-nft-marketplace-sold-stolen-indie-games)
- - [Valorant dev tackles smurfing paranoia: &#39;smurfs are less common than players think&#39;](https://www.pcgamer.com/valorant-dev-tackles-smurfing-paranoia-smurfs-are-less-common-than-players-think)
- - [Tiny MMO Book of Travels lays out big plans for the future](https://www.pcgamer.com/tiny-mmo-book-of-travels-lays-out-big-plans-for-the-future)<!-- GAME:END -->
+ - [10 TTRPGs From The 90s That Have Been Forgotten](https://game-rant-2022.blogspot.com/2022/08/10-ttrpgs-from-90s-that-have-been.html)
+ - [Video games with tragic beginnings and opening order](https://game-rant-2022.blogspot.com/2022/08/video-games-with-tragic-beginnings-and.html)
+ - [8 Darkest Anime Girls, Ranked](https://game-rant-2022.blogspot.com/2022/08/8-darkest-anime-girls-ranked.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
