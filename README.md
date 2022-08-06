@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proprietary USB-C fast charging was once a necessary evil, now it’s just evil](https://www.androidauthority.com/proprietary-fast-charging-3192175/)
- - [Microsoft Surface Laptop Go 2 review: a little laptop for light work](https://www.theverge.com/23293491/microsoft-surface-laptop-go-2-review)
- - [Daily deals August 6: $49 Meta Portal, Half-Price Arris Surfboard Max Router, $200 31.5-inch Acer Monitor](https://appleinsider.com/articles/22/08/06/daily-deals-august-6-49-meta-portal-half-price-arris-surfboard-max-router-200-315-inch-acer-monitor?utm_medium=rss)<!-- TECH:END -->
+ - [Capture Everything With This Discounted Beginner Drone -- Just $85 Right Now     - CNET](https://www.cnet.com/deals/capture-everything-with-this-discounted-beginner-drone-just-85-right-now/#ftag=CAD590a51e)
+ - [This Time Machine Takes You Back to When Phones Were a Shared Experience     - CNET](https://www.cnet.com/tech/mobile/this-time-machine-takes-you-back-to-when-phones-were-a-shared-experience/#ftag=CAD590a51e)
+ - [You can play through Far Cry 6 for free this weekend](https://www.theverge.com/good-deals/2022/8/6/23293492/far-cry-6-pc-ps5-xbox-series-x-free-trial-weekend-kindle-paperwhite-apple-tv-pencil-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
