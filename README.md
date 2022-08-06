@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pop quiz: How much do you know about foldables?](https://www.androidauthority.com/foldable-phone-quiz-3193589/)
- - [Extreme Heat Is Becoming More Dangerous for Farmworkers](https://www.wired.com/story/extreme-heat-is-becoming-more-dangerous-for-farmworkers/)
- - [Insta360&#39;s New 360 Edition Has Insanely High Video Quality](https://www.wired.com/review/insta360-one-rs-1-inch-360-edition/)<!-- TECH:END -->
+ - [Daily deals August 6: $49 Meta Portal, Half-Price Arris Surfboard Max Router, $200 31.5-inch Acer Monitor](https://appleinsider.com/articles/22/08/06/daily-deals-august-6-49-meta-portal-half-price-arris-surfboard-max-router-200-315-inch-acer-monitor?utm_medium=rss)
+ - [Monkeypox: What Gay and Bisexual Men Need to Know     - CNET](https://www.cnet.com/health/monkeypox-what-gay-and-bisexual-men-need-to-know/#ftag=CAD590a51e)
+ - [Samsung’s New Phone Repair Kits Are Better Than Nothing](https://www.wired.com/story/samsungs-galaxy-repair-kits-better-than-nothing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
