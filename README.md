@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Good news: Every Predator movie is worth watching](https://www.polygon.com/what-to-watch/23287245/predator-movie-list-best-ranked-watch-streaming)
- - [Wordle today: Answer and hint for Saturday, August 6](https://www.pcgamer.com/wordle-today-answer-hint)
- - [GameStop&#39;s NFT marketplace sold stolen indie games](https://www.pcgamer.com/gamestops-nft-marketplace-sold-stolen-indie-games)<!-- GAME:END -->
+ - [In The Sandman, Neil Gaiman drew from comics history to create his own](https://www.polygon.com/23276573/sandman-comic-netflix-history-graphic-novel)
+ - [Dead By Daylight Devs’ New Game Is Fortnite Meets Doom](https://kotaku.com/meet-your-maker-dead-by-daylight-ps4-ps5-xbox-pc-1849377062)
+ - [Game Pass Vs. The New PS Plus, The Comparison We Had To Make](https://kotaku.com/game-pass-vs-the-new-ps-plus-the-comparison-we-had-to-1849378829)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
