@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [A brief history of AI and why some AI researchers believe the technology they have built is sentient or conscious despite no evidence &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220806/p4#a220806p4)
- - [Indonesia restored access to PayPal, Yahoo, and Valve services in the country after companies signed up to licensing rules introduced in 2020 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220806/p3#a220806p3)
- - [The California DMV accuses Tesla of falsely advertising Autopilot and FSD features, in a pair of July 28 filings with the CA&#39;s Office of Administrative Hearings &lpar;Russ Mitchell/Los Angeles Times&rpar;](http://www.techmeme.com/220806/p2#a220806p2)<!-- TECH:END -->
+ - [The Most Exciting Samsung Gadgets We Want in 2022 and Beyond     - CNET](https://www.cnet.com/tech/mobile/most-exciting-samsung-gadgets-we-want-in-2022-and-beyond/#ftag=CAD590a51e)
+ - [Indonesia restored access to PayPal, Yahoo, and Valve services in the country after companies signed up to licensing rules introduced in 2020 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220806/p3#a220806p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
