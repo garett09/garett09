@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He missed the airport track](http://9gag.com/gag/aGzXKxX)
- - 🚯 [That\u2019s how it\u2019s done](http://9gag.com/gag/aPZ5w3P)
- - 🚯 [Beautiful first date](http://9gag.com/gag/aNPNrPr)<!-- MEMES:END -->
+ - 🚖 [Biker gives cop the finger and takes off](http://9gag.com/gag/adgEyv9)
+ - 🚯 [Bender, Fry or Professor?](http://9gag.com/gag/aqG09KL)
+ - 🚯 [Kurwa](http://9gag.com/gag/aNPNrYv)<!-- MEMES:END -->
 
 --- 
 
