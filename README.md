@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doctor visiting a Lake as a tourist saved the life of a boy who was considered dead.](http://9gag.com/gag/apgOEz8)
- - 🚯 [So, i&#39;m superior..](http://9gag.com/gag/aKmRwzW)
- - 🚯 [Chinese Explorer Zheng He\u2019s Ship Compared To Christopher Columbus\u2019 Santa Maria. They Both Lived In The Same Era.](http://9gag.com/gag/ay9G5YM)<!-- MEMES:END -->
+ - 🚖 [Offensive jokes](http://9gag.com/gag/aogXZZx)
+ - 🚯 [Nature is something else](http://9gag.com/gag/aOQwKW3)
+ - 🚯 [What fo you think should happen here](http://9gag.com/gag/apgOENn)<!-- MEMES:END -->
 
 --- 
 
