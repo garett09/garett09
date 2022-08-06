@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Japan&#39;s efforts to counter supply chain disruptions, including investing in domestic production and seeking to form a coalition with the US and the EU &lpar;New York Times&rpar;](http://www.techmeme.com/220805/p21#a220805p21)
- - [Alex Jones hit with $45.2 million defamation verdict — but could pay much less](https://www.theverge.com/2022/8/5/23293411/alex-jones-punitive-damages-verdict-sandy-hook-defamation)
- - [A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years](https://www.wired.com/story/slack-hashed-passwords-exposed/)<!-- TECH:END -->
+ - [Prey: Ending, Post-Credits Tease and Predator Easter Egg Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-post-credits-tease-and-predator-easter-egg-explained/#ftag=CAD590a51e)
+ - [How to Get More From Your iPhone Storage Without Spending a Dime     - CNET](https://www.cnet.com/tech/mobile/how-to-get-more-from-your-iphone-storage-without-spending-a-dime/#ftag=CAD590a51e)
+ - [&#39;Prey&#39; Review: The Predator Movie We&#39;ve Been Praying For     - CNET](https://www.cnet.com/culture/entertainment/prey-review-the-predator-movie-weve-been-praying-for/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
