@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance CEO Changpeng Zhao claims it doesn&#39;t own Indian crypto exchange WazirX despite disclosing the acquisition in 2019; WazirX founder disputes Zhao&#39;s claims &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220805/p24#a220805p24)
  - [Voyager will begin processing customer cash withdrawals on August 11 after getting court approval on August 4; customers can withdraw up to $100K each 24 hours &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220805/p23#a220805p23)
- - [The US DOJ says Alexander Vinnik, founder of BTC-e, a crypto exchange alleged to have laundered $4B+ in proceeds, was extradited from Greece to the US &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220805/p22#a220805p22)
- - [Prey: Ending, Post-Credits Tease and Predator Easter Egg Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-post-credits-tease-and-predator-easter-egg-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOJ says Alexander Vinnik, founder of BTC-e, a crypto exchange alleged to have laundered $4B+ in proceeds, was extradited from Greece to the US &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220805/p22#a220805p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
