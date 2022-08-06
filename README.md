@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great for licking stamps too!!!](http://9gag.com/gag/azenL9x)
- - 🚯 [Offensive jokes](http://9gag.com/gag/aogXZZx)
- - 🚯 [A simple and functional mouse trap](http://9gag.com/gag/aQXGPwK)<!-- MEMES:END -->
+ - 🚖 [Karen moment](http://9gag.com/gag/avAN0gO)
+ - 🚯 [Great for licking stamps too!!!](http://9gag.com/gag/azenL9x)
+ - 🚯 [My longtime hobby is woodcarving, and I love owls:&rpar; Rate it please.](http://9gag.com/gag/aWgzZOA)<!-- MEMES:END -->
 
 --- 
 
