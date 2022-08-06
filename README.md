@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bender, Fry or Professor?](http://9gag.com/gag/aqG09KL)
- - 🚯 [Ahh yes, the good old days](http://9gag.com/gag/awzw0ry)
- - 🚯 [Kurwa](http://9gag.com/gag/aNPNrYv)<!-- MEMES:END -->
+ - 🚖 [Kurwa](http://9gag.com/gag/aNPNrYv)
+ - 🚯 [That\u2019s how it\u2019s done](http://9gag.com/gag/aPZ5w3P)
+ - 🚯 [Karen moment](http://9gag.com/gag/avAN0gO)<!-- MEMES:END -->
 
 --- 
 
