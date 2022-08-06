@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biker gives cop the finger and takes off](http://9gag.com/gag/adgEyv9)
- - 🚯 [Bender, Fry or Professor?](http://9gag.com/gag/aqG09KL)
+ - 🚖 [Bender, Fry or Professor?](http://9gag.com/gag/aqG09KL)
+ - 🚯 [Ahh yes, the good old days](http://9gag.com/gag/awzw0ry)
  - 🚯 [Kurwa](http://9gag.com/gag/aNPNrYv)<!-- MEMES:END -->
 
 --- 
