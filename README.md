@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Needed to be said](http://9gag.com/gag/aE83GBM)
+ - 🚖 [I&#39;m not familiar with this dog breed, can someone tell me what it&#39;s called?](http://9gag.com/gag/adgE6MZ)
  - 🚯 [80&#39;s Guy x 00&#39;s Guys](http://9gag.com/gag/a41v9jp)
- - 🚯 [Chinese Explorer Zheng He\u2019s Ship Compared To Christopher Columbus\u2019 Santa Maria. They Both Lived In The Same Era.](http://9gag.com/gag/ay9G5YM)<!-- MEMES:END -->
+ - 🚯 [If i stay up until i hear birds chirping for another night imma lose my shit](http://9gag.com/gag/a0ZBPBQ)<!-- MEMES:END -->
 
 --- 
 
