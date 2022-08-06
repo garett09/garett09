@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capture Everything With This Discounted Beginner Drone -- Just $85 Right Now     - CNET](https://www.cnet.com/deals/capture-everything-with-this-discounted-beginner-drone-just-85-right-now/#ftag=CAD590a51e)
- - [This Time Machine Takes You Back to When Phones Were a Shared Experience     - CNET](https://www.cnet.com/tech/mobile/this-time-machine-takes-you-back-to-when-phones-were-a-shared-experience/#ftag=CAD590a51e)
- - [You can play through Far Cry 6 for free this weekend](https://www.theverge.com/good-deals/2022/8/6/23293492/far-cry-6-pc-ps5-xbox-series-x-free-trial-weekend-kindle-paperwhite-apple-tv-pencil-deal-sale)<!-- TECH:END -->
+ - [California DMV accuses Tesla of making false claims about Autopilot and Full-Self Driving](https://www.theverge.com/2022/8/6/23294658/california-dmv-accuses-tesla-false-claims-autopilot-full-self-driving-autonomous-vehicles)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-444-3193569/)
+ - [Capture Everything With This Discounted Beginner Drone -- Just $85 Right Now     - CNET](https://www.cnet.com/deals/capture-everything-with-this-discounted-beginner-drone-just-85-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
