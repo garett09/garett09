@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny MMO Book of Travels lays out big plans for the future](https://www.pcgamer.com/tiny-mmo-book-of-travels-lays-out-big-plans-for-the-future)
- - [Crunchyroll Bought A Popular Anime Video Store, Removed Its Hentai](https://kotaku.com/crunchyroll-right-stuf-fakku-anime-merger-hentai-manga-1849378887)
- - [Prey, Uncharted, and every other new movie you can stream from home this weekend](https://www.polygon.com/23285357/new-movies-watch-prey-lightyear-minions-netflix-uncharted-streaming)<!-- GAME:END -->
+ - [GameStop&#39;s NFT marketplace sold stolen indie games](https://www.pcgamer.com/gamestops-nft-marketplace-sold-stolen-indie-games)
+ - [Valorant dev tackles smurfing paranoia: &#39;smurfs are less common than players think&#39;](https://www.pcgamer.com/valorant-dev-tackles-smurfing-paranoia-smurfs-are-less-common-than-players-think)
+ - [Tiny MMO Book of Travels lays out big plans for the future](https://www.pcgamer.com/tiny-mmo-book-of-travels-lays-out-big-plans-for-the-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
