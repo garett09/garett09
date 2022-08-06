@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Offensive jokes](http://9gag.com/gag/aogXZZx)
- - 🚯 [Nature is something else](http://9gag.com/gag/aOQwKW3)
- - 🚯 [What fo you think should happen here](http://9gag.com/gag/apgOENn)<!-- MEMES:END -->
+ - 🚖 [Great for licking stamps too!!!](http://9gag.com/gag/azenL9x)
+ - 🚯 [Offensive jokes](http://9gag.com/gag/aogXZZx)
+ - 🚯 [A simple and functional mouse trap](http://9gag.com/gag/aQXGPwK)<!-- MEMES:END -->
 
 --- 
 
