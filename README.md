@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reolink Go PT Plus review: Feature packed, completely wireless security camera](https://appleinsider.com/articles/22/08/06/reolink-go-pt-plus-review-feature-packed-completely-wireless-security-camera?utm_medium=rss)
- - [[Thread] How Apple&#39;s App Tracking Transparency blew up the digital ad ecosystem, bolstering Apple&#39;s ads business while positioning it as a privacy champion &lpar;Eric Seufert/@eric_seufert&rpar;](http://www.techmeme.com/220806/p11#a220806p11)
- - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Netflix scrambling to build an ad business and revive its subscriber growth; sources: Reed Hastings expects Netflix could charge ~$80 per 1,000 views &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220806/p12#a220806p12)
+ - [Fitbit will soon no longer let you transfer music from your PC](https://www.theverge.com/2022/8/6/23294990/fitbit-ending-support-music-transfers-pcs-and-macs-connect-versa-ionic)
+ - [Reolink Go PT Plus review: Feature packed, completely wireless security camera](https://appleinsider.com/articles/22/08/06/reolink-go-pt-plus-review-feature-packed-completely-wireless-security-camera?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
