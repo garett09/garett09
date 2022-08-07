@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If i stay up until i hear birds chirping for another night imma lose my shit](http://9gag.com/gag/a0ZBPBQ)
- - 🚯 [Racoons](http://9gag.com/gag/a0ZBLZz)
- - 🚯 [Something with the teeth maybe](http://9gag.com/gag/ay9GpxY)<!-- MEMES:END -->
+ - 🚖 [Behold The Big Wind, created by Hungarian engineers using an old T-34 tank and two MiG-21 jet engines, used to fight the Kuwait oil fires in 1991. It blew out air at 1200 km/h, mixed with 800 liters of waters per second. You almost feel sorry for the fire.](http://9gag.com/gag/aXrBpz6)
+ - 🚯 [Woman harasses and insults police officer because he is an Mexican.](http://9gag.com/gag/aNPNo7w)
+ - 🚯 [Facts!](http://9gag.com/gag/avANZdW)<!-- MEMES:END -->
 
 --- 
 
