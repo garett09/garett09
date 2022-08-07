@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [First MultiVersus tournament ends in $10k upset as underdogs break Bugs/Velma meta](https://www.pcgamer.com/first-multiversus-tournament-ends-in-dollar10k-upset-as-underdogs-break-bugsvelma-meta)
  - [Our favorite Neil Gaiman books, comics, and more](https://www.polygon.com/23289362/neil-gaiman-books-list-best)
- - [Multiversus is getting a coop arcade mode &quot;very soon&quot; in Season 1](https://www.pcgamer.com/multiversus-is-getting-a-coop-arcade-mode-very-soon-in-season-1)
- - [Lightyear’s producer thinks Sox’s texture is hilarious](https://www.polygon.com/23280773/lightyear-sox-disney-plus-release)<!-- GAME:END -->
+ - [Multiversus is getting a coop arcade mode &quot;very soon&quot; in Season 1](https://www.pcgamer.com/multiversus-is-getting-a-coop-arcade-mode-very-soon-in-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
