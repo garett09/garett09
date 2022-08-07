@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Netflix scrambling to build an ad business and revive its subscriber growth; sources: Reed Hastings expects Netflix could charge ~$80 per 1,000 views &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220806/p12#a220806p12)
- - [Fitbit will soon no longer let you transfer music from your PC](https://www.theverge.com/2022/8/6/23294990/fitbit-ending-support-music-transfers-pcs-and-macs-connect-versa-ionic)
- - [Reolink Go PT Plus review: Feature packed, completely wireless security camera](https://appleinsider.com/articles/22/08/06/reolink-go-pt-plus-review-feature-packed-completely-wireless-security-camera?utm_medium=rss)<!-- TECH:END -->
+ - [Tom Alberg, an early Amazon investor and Madrona Venture Group co-founder, who was a key figure in shaping the Pacific Northwest&#39;s tech economy, dies at 82 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220806/p13#a220806p13)
+ - [Prey: Ending, Post-Credits Tease and Classic Predator Easter Egg Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-post-credits-tease-and-classic-predator-easter-egg-explained/#ftag=CAD590a51e)
+ - [&#39;Prey&#39; Review: The Predator Movie We&#39;ve Prayed For     - CNET](https://www.cnet.com/culture/entertainment/prey-review-the-predator-movie-weve-prayed-for/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
