@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ascent&#39;s DLC adds glowing neon melee weapons](https://www.pcgamer.com/the-ascents-dlc-adds-glowing-neon-melee-weapons)
- - [The best Sandman stories to read after watching the Netflix series](https://www.polygon.com/23273386/best-sandman-stories-netflix)
- - [The Sandman star is glad the show isn’t a ‘CGI orgy’](https://www.polygon.com/23289366/the-sandman-netflix-cgi-effects-tom-sturridge)<!-- GAME:END -->
+ - [What&#39;s your favorite PC Gamer magazine cover?](https://www.pcgamer.com/whats-your-favorite-pc-gamer-magazine-cover)
+ - [Clever KBRD is a breakout where you bounce balls with your keyboard skills](https://www.pcgamer.com/clever-kbrd-is-a-breakout-where-you-bounce-balls-with-your-keyboard-skills)
+ - [X-Men: The Ravages of Apocalypse really was an X-Men game about killing the X-Men](https://www.pcgamer.com/saturday-crapshoot-x-men-the-ravages-of-apocalypse-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
