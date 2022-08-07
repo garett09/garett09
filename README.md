@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online crypto casinos like Stake are luring gamers, in some cases to the point of bankruptcy, by using celebrity endorsements and sponsored streams on Twitch &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220807/p3#a220807p3)
- - [On its Q2 2022 earnings call, Warner Bros. Discovery announced plans to launch a combined HBO Max and Discovery+ streaming service in the US in summer 2023 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220807/p2#a220807p2)
- - [UK-based Cera, whose app uses data analytics and AI to manage at-home health care, has raised $320M split equally between debt and equity led by Kairos HQ &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220807/p1#a220807p1)<!-- TECH:END -->
+ - [At least four top executives associated with a Chinese state-run semiconductor fund, which has invested $30B in total, have been arrested on corruption charges &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220807/p4#a220807p4)
+ - [The best OnePlus 10T alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/oneplus-10t-alternatives-3191749/)
+ - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
