@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tom Alberg, an early Amazon investor and Madrona Venture Group co-founder, who was a key figure in shaping the Pacific Northwest&#39;s tech economy, dies at 82 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220806/p13#a220806p13)
- - [Prey: Ending, Post-Credits Tease and Classic Predator Easter Egg Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-post-credits-tease-and-classic-predator-easter-egg-explained/#ftag=CAD590a51e)
- - [&#39;Prey&#39; Review: The Predator Movie We&#39;ve Prayed For     - CNET](https://www.cnet.com/culture/entertainment/prey-review-the-predator-movie-weve-prayed-for/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seamless, which provides cross-border digital remittances and cashless payments services, agrees to go public via a SPAC merger at an implied $400M valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220806/p15#a220806p15)
+ - [Illinois-based Sibel Health, which offers wearable sensors, AI-enabled data analytics, and cloud software for remote patient monitoring, raised a $33M Series B &lpar;Sean Whooley/MassDevice&rpar;](http://www.techmeme.com/220806/p14#a220806p14)
+ - [Tom Alberg, an early Amazon investor and Madrona Venture Group co-founder, who was a key figure in shaping the Pacific Northwest&#39;s tech economy, dies at 82 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220806/p13#a220806p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
