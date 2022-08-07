@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On its Q2 2022 earnings call, Warner Bros. Discovery announced plans to launch a combined HBO Max and Discovery+ streaming service in the US in summer 2023 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220807/p2#a220807p2)
  - [UK-based Cera, whose app uses data analytics and AI to manage at-home health care, has raised $320M split equally between debt and equity led by Kairos HQ &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220807/p1#a220807p1)
- - [Seamless, which provides cross-border digital remittances and cashless payments services, agrees to go public via a SPAC merger at an implied $400M valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220806/p15#a220806p15)
- - [Illinois-based Sibel Health, which offers wearable sensors, AI-enabled data analytics, and cloud software for remote patient monitoring, raised a $33M Series B &lpar;Sean Whooley/MassDevice&rpar;](http://www.techmeme.com/220806/p14#a220806p14)<!-- TECH:END -->
+ - [Seamless, which provides cross-border digital remittances and cashless payments services, agrees to go public via a SPAC merger at an implied $400M valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220806/p15#a220806p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
