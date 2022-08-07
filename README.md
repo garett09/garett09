@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman harasses and insults police officer because he is an Mexican.](http://9gag.com/gag/aNPNo7w)
- - 🚯 [Ooof](http://9gag.com/gag/aE83GYM)
- - 🚯 [Life roulette](http://9gag.com/gag/aGzXRw5)<!-- MEMES:END -->
+ - 🚖 [Ooof](http://9gag.com/gag/aE83GYM)
+ - 🚯 [Racoons](http://9gag.com/gag/a0ZBLZz)
+ - 🚯 [Whos gonna believe them?](http://9gag.com/gag/aNPNKw0)<!-- MEMES:END -->
 
 --- 
 
