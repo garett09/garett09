@@ -182,8 +182,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [Lightyear’s producer thinks Sox’s texture is hilarious](https://www.polygon.com/23280773/lightyear-sox-disney-plus-release)
- - [The Corinthian in Netflix’s Sandman had to be sexy — even with those eyes](https://www.polygon.com/23291990/the-sandman-netflix-2022-corinthian)
- - [Today&#39;s Wordle: Answer and hint for Sunday, August 7](https://www.pcgamer.com/wordle-today-answer-hint)<!-- GAME:END -->
+ - [An Elden Ring Wandering Mausoleum made of LEGO is glorious](https://www.pcgamer.com/an-elden-ring-wandering-mausoleum-made-of-lego-is-glorious)
+ - [The Corinthian in Netflix’s Sandman had to be sexy — even with those eyes](https://www.polygon.com/23291990/the-sandman-netflix-2022-corinthian)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
