@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Laptop for College 2022     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)
  - [Fitbit will end desktop syncing for PC and macOS in October, moving file transfers to its smartphone app, and local music and playlists to Deezer and Pandora &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220807/p7#a220807p7)
- - [Hackers might have figured out your secret Twitter accounts](https://www.theverge.com/2022/8/7/23295873/hackers-secret-twitter-accounts-security-flaw-vulnerability)
- - [Withings Scanwatch Horizon review: Diving into luxury](https://www.androidauthority.com/withings-scanwatch-horizon-review-3181460/)<!-- TECH:END -->
+ - [Hackers might have figured out your secret Twitter accounts](https://www.theverge.com/2022/8/7/23295873/hackers-secret-twitter-accounts-security-flaw-vulnerability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
