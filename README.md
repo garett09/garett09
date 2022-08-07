@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrong mama](http://9gag.com/gag/azenjdb)
+ - 🚖 [Ahh the childhood](http://9gag.com/gag/aggWVR6)
  - 🚯 [Calm down honey. -Her...](http://9gag.com/gag/a21emAw)
- - 🚯 [Why men&#39;s lives are shorter than women&#39;s](http://9gag.com/gag/aWgz6WA)<!-- MEMES:END -->
+ - 🚯 [`What will happen if all arabs will disappear from the face of the earth?` - An arab monologue](http://9gag.com/gag/aLvx2qv)<!-- MEMES:END -->
 
 --- 
 
