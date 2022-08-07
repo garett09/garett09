@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheesegrater Mac Pro is 16 year old, and still the best Mac ever made -- for now](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
- - [Updated HomePod, new HomePod mini rumored for early 2023](https://appleinsider.com/articles/22/08/07/updated-homepod-homepod-mini-refresh-expected-by-early-2023?utm_medium=rss)
- - [Fresh out of the box: 10 ways to make your Google Pixel 6a better](https://www.androidauthority.com/google-pixel-6a-tips-tricks-3192577/)<!-- TECH:END -->
+ - [Samsung, the Galaxy Z Fold &amp; Flip Could Be Even Better     - CNET](https://www.cnet.com/tech/mobile/samsung-the-galaxy-z-fold-flip-could-be-even-better/#ftag=CAD590a51e)
+ - [5 Fitness Supplements That Are Proven to Work     - CNET](https://www.cnet.com/health/nutrition/fitness-supplements-that-work/#ftag=CAD590a51e)
+ - [DeWalt gave my power tool battery the power of USB-C](https://www.theverge.com/23287770/dewalt-dcb094-usb-c-pd-charging-kit-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
