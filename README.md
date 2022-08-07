@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the camera doesn&#39;t show](http://9gag.com/gag/a31mj67)
- - 🚯 [A knight in shining armor is a knight who has never had his metal truly tested](http://9gag.com/gag/adgEXBN)
- - 🚯 [`What will happen if all arabs will disappear from the face of the earth?` - An arab monologue](http://9gag.com/gag/aLvx2qv)<!-- MEMES:END -->
+ - 🚖 [Random anime convention attende the speaker of truth](http://9gag.com/gag/aOQwdKy)
+ - 🚯 [`What will happen if all arabs will disappear from the face of the earth?` - An arab monologue](http://9gag.com/gag/aLvx2qv)
+ - 🚯 [A knight in shining armor is a knight who has never had his metal truly tested](http://9gag.com/gag/adgEXBN)<!-- MEMES:END -->
 
 --- 
 
