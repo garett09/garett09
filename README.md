@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [100 seconds Bid\u00e9n, enjoy.](http://9gag.com/gag/aM4gG7A)
- - 🚯 [Some voices never die.](http://9gag.com/gag/azenrvm)
- - 🚯 [Hitman 2 : Biological Wh**efare](http://9gag.com/gag/a41vZKw)<!-- MEMES:END -->
+ - 🚖 [Hitman 2 : Biological Wh**efare](http://9gag.com/gag/a41vZKw)
+ - 🚯 [Psycho dad](http://9gag.com/gag/aKmR2LQ)
+ - 🚯 [Simple Analogy](http://9gag.com/gag/aNPNWw6)<!-- MEMES:END -->
 
 --- 
 
