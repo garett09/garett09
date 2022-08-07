@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It do be like that](http://9gag.com/gag/aRrnAj2)
- - 🚯 [Just otter](http://9gag.com/gag/aKmRqwN)
- - 🚯 [Do-it-yourself wheel replacement](http://9gag.com/gag/aogX9E0)<!-- MEMES:END -->
+ - 🚖 [Just otter](http://9gag.com/gag/aKmRqwN)
+ - 🚯 [Relation: - Do you have a pool? Me: - No](http://9gag.com/gag/avANPWn)
+ - 🚯 [Nice day of riding, I dont get it how those without full helmets ride in summer.](http://9gag.com/gag/aegLpLQ)<!-- MEMES:END -->
 
 --- 
 
