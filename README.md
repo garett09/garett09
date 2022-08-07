@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you ever seen a chair\u2026 sitting?](http://9gag.com/gag/aYr9wBw)
- - 🚯 [Happened in my country. Guy sits in the womens reserved seats on the bus and his response when this angry lady confronted him was `i can be a woman if i want`](http://9gag.com/gag/aYr9wvw)
- - 🚯 [There&#39;s no line](http://9gag.com/gag/aqG0NGQ)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s fix one thing in our lives.](http://9gag.com/gag/aDDy3Dw)
+ - 🚯 [Have you ever seen a chair\u2026 sitting?](http://9gag.com/gag/aYr9wBw)
+ - 🚯 [A man of culture](http://9gag.com/gag/aOQwbG3)<!-- MEMES:END -->
 
 --- 
 
