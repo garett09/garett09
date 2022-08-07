@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle: Answer and hint for Sunday, August 7](https://www.pcgamer.com/wordle-today-answer-hint)
  - [PC screenshots of Spider-Man Remastered have leaked](https://www.pcgamer.com/pc-screenshots-of-spider-man-remastered-have-leaked)
- - [What&#39;s your favorite PC Gamer magazine cover?](https://www.pcgamer.com/whats-your-favorite-pc-gamer-magazine-cover)
- - [Clever KBRD is a breakout where you bounce balls with your keyboard skills](https://www.pcgamer.com/clever-kbrd-is-a-breakout-where-you-bounce-balls-with-your-keyboard-skills)<!-- GAME:END -->
+ - [What&#39;s your favorite PC Gamer magazine cover?](https://www.pcgamer.com/whats-your-favorite-pc-gamer-magazine-cover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
