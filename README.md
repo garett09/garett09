@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung, the Galaxy Z Fold &amp; Flip Could Be Even Better     - CNET](https://www.cnet.com/tech/mobile/samsung-the-galaxy-z-fold-flip-could-be-even-better/#ftag=CAD590a51e)
- - [5 Fitness Supplements That Are Proven to Work     - CNET](https://www.cnet.com/health/nutrition/fitness-supplements-that-work/#ftag=CAD590a51e)
- - [DeWalt gave my power tool battery the power of USB-C](https://www.theverge.com/23287770/dewalt-dcb094-usb-c-pd-charging-kit-review)<!-- TECH:END -->
+ - [There’s never been a better time for fans to buy the OnePlus 9 Pro](https://www.androidauthority.com/oneplus-9-pro-2022-3192652/)
+ - [Sources: employees at many Apple stores continue to discuss unionization, Apple started to record September event; opinion: iPadOS delay was probably worth it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220807/p5#a220807p5)
+ - [Samsung, the Galaxy Z Fold &amp; Flip Could Be Even Better     - CNET](https://www.cnet.com/tech/mobile/samsung-the-galaxy-z-fold-flip-could-be-even-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
