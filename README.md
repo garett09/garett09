@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At least four top executives associated with a Chinese state-run semiconductor fund, which has invested $30B in total, have been arrested on corruption charges &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220807/p4#a220807p4)
- - [The best OnePlus 10T alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/oneplus-10t-alternatives-3191749/)
- - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Friendly reminder: Your phone’s water resistance rating doesn’t mean much](https://www.androidauthority.com/water-resistant-phone-warning-3192071/)
+ - [The Best Ebook Readers](https://www.wired.com/gallery/best-ereaders/)
+ - [The Hidden Chaos That Lurks in Ecosystems](https://www.wired.com/story/the-hidden-chaos-that-lurks-in-ecosystems/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
