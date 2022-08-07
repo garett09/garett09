@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Leather Link long term review: Still holds up after almost two years](https://appleinsider.com/articles/22/08/07/apple-leather-link-long-term-review-still-holds-up-after-almost-two-years?utm_medium=rss)
- - [The Samsung Galaxy Z Flip 3 convinced me that clamshells are the best foldables](https://www.androidauthority.com/galaxy-z-flip-3-clamshell-best-foldable-3193495/)
- - [Meta is shutting down one of its biggest VR games — but only for Quest 1 owners](https://www.theverge.com/2022/8/7/23295691/meta-quest-1-population-one-shutting-down-biggest-vr-game-virtual-reality-battle-royale)<!-- TECH:END -->
+ - [Withings Scanwatch Horizon review: Diving into luxury](https://www.androidauthority.com/withings-scanwatch-horizon-review-3181460/)
+ - [Updated 2022 iPad Pro models could use four-pin Smart Connectors](https://appleinsider.com/articles/22/08/07/updated-2022-ipad-pro-models-could-use-four-pin-smart-connectors?utm_medium=rss)
+ - [The Galaxy Z Fold &amp; Flip 4 Aren&#39;t the Only Foldables That May Be on the Way     - CNET](https://www.cnet.com/tech/mobile/the-galaxy-z-fold-flip-4-arent-the-only-foldables-that-may-be-on-the-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
