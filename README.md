@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bought a dress, looks like anus](http://9gag.com/gag/a81ZyLV)
- - 🚯 [So exited I can&#39;t sleep](http://9gag.com/gag/aqG0bjv)
- - 🚯 [O&#39;Hare airport &lpar;Aug 6 2022&rpar;](http://9gag.com/gag/amg3rn4)<!-- MEMES:END -->
+ - 🚖 [O&#39;Hare airport &lpar;Aug 6 2022&rpar;](http://9gag.com/gag/amg3rn4)
+ - 🚯 [Story keeps going](http://9gag.com/gag/aOQwzPr)
+ - 🚯 [Women \u2615](http://9gag.com/gag/awzw5qx)<!-- MEMES:END -->
 
 --- 
 
