@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Laptop for College 2022     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)
- - [Fitbit will end desktop syncing for PC and macOS in October, moving file transfers to its smartphone app, and local music and playlists to Deezer and Pandora &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220807/p7#a220807p7)
- - [Hackers might have figured out your secret Twitter accounts](https://www.theverge.com/2022/8/7/23295873/hackers-secret-twitter-accounts-security-flaw-vulnerability)<!-- TECH:END -->
+ - [Atlas 6 Dual-Band mesh review: a beginner-friendly way to add mesh networking to your home](https://appleinsider.com/articles/22/08/07/atlas-6-dual-band-mesh-review-a-beginner-friendly-way-to-add-mesh-networking-to-your-home?utm_medium=rss)
+ - [Call of Duty: Modern Warfare II beta is coming in September](https://www.theverge.com/2022/8/7/23296069/call-of-duty-modern-warfare-2-beta-coming-september-playstation-xbox-pc)
+ - [Best Laptop for College 2022     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
