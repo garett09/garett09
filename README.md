@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Random anime convention attende the speaker of truth](http://9gag.com/gag/aOQwdKy)
- - 🚯 [`What will happen if all arabs will disappear from the face of the earth?` - An arab monologue](http://9gag.com/gag/aLvx2qv)
- - 🚯 [A knight in shining armor is a knight who has never had his metal truly tested](http://9gag.com/gag/adgEXBN)<!-- MEMES:END -->
+ - 🚖 [100 seconds Bid\u00e9n, enjoy.](http://9gag.com/gag/aM4gG7A)
+ - 🚯 [Some voices never die.](http://9gag.com/gag/azenrvm)
+ - 🚯 [Hitman 2 : Biological Wh**efare](http://9gag.com/gag/a41vZKw)<!-- MEMES:END -->
 
 --- 
 
