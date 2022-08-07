@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC gaming: Updating your graphics drivers without rebooting](https://www.pcgamer.com/great-moments-in-pc-gaming-updating-your-graphics-drivers-without-rebooting)
  - [Go listen to the first-ever gaming concert at the BBC Proms, a landmark event](https://www.pcgamer.com/go-listen-to-the-first-ever-gaming-concert-at-the-bbc-proms-a-landmark-event)
- - [First MultiVersus tournament ends in $10K upset as underdogs break Bugs/Velma meta](https://www.pcgamer.com/first-multiversus-tournament-ends-in-dollar10k-upset-as-underdogs-break-bugsvelma-meta)
- - [Our favorite Neil Gaiman books, comics, and more](https://www.polygon.com/23289362/neil-gaiman-books-list-best)<!-- GAME:END -->
+ - [First MultiVersus tournament ends in $10K upset as underdogs break Bugs/Velma meta](https://www.pcgamer.com/first-multiversus-tournament-ends-in-dollar10k-upset-as-underdogs-break-bugsvelma-meta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
