@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals August 7: $99 Beats Studio Buds, $849 M1 MacBook Air, $51 Netgear router, more](https://appleinsider.com/articles/22/08/07/daily-deals-august-7-99-beats-studio-buds-849-m1-macbook-air-51-netgear-router-more?utm_medium=rss)
- - [The Best Crossplay Games for Consoles and PC](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)
- - [How to Share Your Wi-Fi Password](https://www.wired.com/story/how-to-share-wi-fi-password/)<!-- TECH:END -->
+ - [The cheesegrater Mac Pro is 16 year old, and still the best Mac ever made -- for now](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
+ - [Updated HomePod, new HomePod mini rumored for early 2023](https://appleinsider.com/articles/22/08/07/updated-homepod-homepod-mini-refresh-expected-by-early-2023?utm_medium=rss)
+ - [Fresh out of the box: 10 ways to make your Google Pixel 6a better](https://www.androidauthority.com/google-pixel-6a-tips-tricks-3192577/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
