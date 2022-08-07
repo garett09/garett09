@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friendly reminder: Your phone’s water resistance rating doesn’t mean much](https://www.androidauthority.com/water-resistant-phone-warning-3192071/)
- - [The Best Ebook Readers](https://www.wired.com/gallery/best-ereaders/)
- - [The Hidden Chaos That Lurks in Ecosystems](https://www.wired.com/story/the-hidden-chaos-that-lurks-in-ecosystems/)<!-- TECH:END -->
+ - [Daily deals August 7: $99 Beats Studio Buds, $849 M1 MacBook Air, $51 Netgear router, more](https://appleinsider.com/articles/22/08/07/daily-deals-august-7-99-beats-studio-buds-849-m1-macbook-air-51-netgear-router-more?utm_medium=rss)
+ - [The Best Crossplay Games for Consoles and PC](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)
+ - [How to Share Your Wi-Fi Password](https://www.wired.com/story/how-to-share-wi-fi-password/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
