@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is this even a question](http://9gag.com/gag/avANPod)
- - 🚯 [Do-it-yourself wheel replacement](http://9gag.com/gag/aogX9E0)
- - 🚯 [I do mis this a little](http://9gag.com/gag/abg7b7E)<!-- MEMES:END -->
+ - 🚖 [No wood](http://9gag.com/gag/aVxAX8v)
+ - 🚯 [I do mis this a little](http://9gag.com/gag/abg7b7E)
+ - 🚯 [Teach me your favorite dance move.. Great experience..](http://9gag.com/gag/amg3934)<!-- MEMES:END -->
 
 --- 
 
