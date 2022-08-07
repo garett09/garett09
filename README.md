@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC screenshots of Spider-Man Remastered have leaked](https://www.pcgamer.com/pc-screenshots-of-spider-man-remastered-have-leaked)
  - [What&#39;s your favorite PC Gamer magazine cover?](https://www.pcgamer.com/whats-your-favorite-pc-gamer-magazine-cover)
- - [Clever KBRD is a breakout where you bounce balls with your keyboard skills](https://www.pcgamer.com/clever-kbrd-is-a-breakout-where-you-bounce-balls-with-your-keyboard-skills)
- - [X-Men: The Ravages of Apocalypse really was an X-Men game about killing the X-Men](https://www.pcgamer.com/saturday-crapshoot-x-men-the-ravages-of-apocalypse-2)<!-- GAME:END -->
+ - [Clever KBRD is a breakout where you bounce balls with your keyboard skills](https://www.pcgamer.com/clever-kbrd-is-a-breakout-where-you-bounce-balls-with-your-keyboard-skills)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
