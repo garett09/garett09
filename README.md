@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First MultiVersus tournament ends in $10k upset as underdogs break Bugs/Velma meta](https://www.pcgamer.com/first-multiversus-tournament-ends-in-dollar10k-upset-as-underdogs-break-bugsvelma-meta)
- - [Our favorite Neil Gaiman books, comics, and more](https://www.polygon.com/23289362/neil-gaiman-books-list-best)
- - [Multiversus is getting a coop arcade mode &quot;very soon&quot; in Season 1](https://www.pcgamer.com/multiversus-is-getting-a-coop-arcade-mode-very-soon-in-season-1)<!-- GAME:END -->
+ - [Go listen to the first-ever gaming concert at the BBC Proms, a landmark event](https://www.pcgamer.com/go-listen-to-the-first-ever-gaming-concert-at-the-bbc-proms-a-landmark-event)
+ - [First MultiVersus tournament ends in $10K upset as underdogs break Bugs/Velma meta](https://www.pcgamer.com/first-multiversus-tournament-ends-in-dollar10k-upset-as-underdogs-break-bugsvelma-meta)
+ - [Our favorite Neil Gaiman books, comics, and more](https://www.polygon.com/23289362/neil-gaiman-books-list-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
