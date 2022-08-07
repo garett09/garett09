@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aAGjpwE)
- - 🚯 [Elephants come running when they hear their old caretaker calling them](http://9gag.com/gag/a91oPWm)
- - 🚯 [Whos gonna believe them?](http://9gag.com/gag/aNPNKw0)<!-- MEMES:END -->
+ - 🚖 [Have you ever seen a chair\u2026 sitting?](http://9gag.com/gag/aYr9wBw)
+ - 🚯 [Happened in my country. Guy sits in the womens reserved seats on the bus and his response when this angry lady confronted him was `i can be a woman if i want`](http://9gag.com/gag/aYr9wvw)
+ - 🚯 [There&#39;s no line](http://9gag.com/gag/aqG0NGQ)<!-- MEMES:END -->
 
 --- 
 
