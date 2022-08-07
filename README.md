@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s fix one thing in our lives.](http://9gag.com/gag/aDDy3Dw)
- - 🚯 [Have you ever seen a chair\u2026 sitting?](http://9gag.com/gag/aYr9wBw)
- - 🚯 [A man of culture](http://9gag.com/gag/aOQwbG3)<!-- MEMES:END -->
+ - 🚖 [It do be like that](http://9gag.com/gag/aRrnAj2)
+ - 🚯 [Just otter](http://9gag.com/gag/aKmRqwN)
+ - 🚯 [Do-it-yourself wheel replacement](http://9gag.com/gag/aogX9E0)<!-- MEMES:END -->
 
 --- 
 
