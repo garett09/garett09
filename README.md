@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is recording the iPhone 14 &amp; Apple Watch Series 8 event now](https://appleinsider.com/articles/22/08/07/apple-starts-work-on-iphone-14-apple-watch-series-8-event-video?utm_medium=rss)
- - [Ditch the NyQuil. Here Are 6 Natural Sleep Aids for Insomnia     - CNET](https://www.cnet.com/health/sleep/ditch-the-nyquil-here-are-6-natural-sleep-aids-for-insomnia/#ftag=CAD590a51e)
- - [These $269 Noise Cancelling Sleep Earbuds Provide a Nearly Silent Slumber     - CNET](https://www.cnet.com/tech/mobile/these-269-noise-cancelling-sleep-earbuds-provide-a-nearly-silent-slumber/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Samsung Galaxy Z Flip 3 convinced me that clamshells are the best foldables](https://www.androidauthority.com/galaxy-z-flip-3-clamshell-best-foldable-3193495/)
+ - [Meta is shutting down one of its biggest VR games — but only for Quest 1 owners](https://www.theverge.com/2022/8/7/23295691/meta-quest-1-population-one-shutting-down-biggest-vr-game-virtual-reality-battle-royale)
+ - [Apple Leather Link long term review: Still holds up after almost two years](https://appleinsider.com/articles/22/08/07/apple-leather-link-long-term-review-still-holds-up-after-almost-two-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
