@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Behold The Big Wind, created by Hungarian engineers using an old T-34 tank and two MiG-21 jet engines, used to fight the Kuwait oil fires in 1991. It blew out air at 1200 km/h, mixed with 800 liters of waters per second. You almost feel sorry for the fire.](http://9gag.com/gag/aXrBpz6)
- - 🚯 [Woman harasses and insults police officer because he is an Mexican.](http://9gag.com/gag/aNPNo7w)
- - 🚯 [Facts!](http://9gag.com/gag/avANZdW)<!-- MEMES:END -->
+ - 🚖 [Woman harasses and insults police officer because he is an Mexican.](http://9gag.com/gag/aNPNo7w)
+ - 🚯 [Ooof](http://9gag.com/gag/aE83GYM)
+ - 🚯 [Life roulette](http://9gag.com/gag/aGzXRw5)<!-- MEMES:END -->
 
 --- 
 
