@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s never been a better time for fans to buy the OnePlus 9 Pro](https://www.androidauthority.com/oneplus-9-pro-2022-3192652/)
- - [Sources: employees at many Apple stores continue to discuss unionization, Apple started to record September event; opinion: iPadOS delay was probably worth it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220807/p5#a220807p5)
- - [Samsung, the Galaxy Z Fold &amp; Flip Could Be Even Better     - CNET](https://www.cnet.com/tech/mobile/samsung-the-galaxy-z-fold-flip-could-be-even-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is recording the iPhone 14 &amp; Apple Watch Series 8 event now](https://appleinsider.com/articles/22/08/07/apple-starts-work-on-iphone-14-apple-watch-series-8-event-video?utm_medium=rss)
+ - [Ditch the NyQuil. Here Are 6 Natural Sleep Aids for Insomnia     - CNET](https://www.cnet.com/health/sleep/ditch-the-nyquil-here-are-6-natural-sleep-aids-for-insomnia/#ftag=CAD590a51e)
+ - [These $269 Noise Cancelling Sleep Earbuds Provide a Nearly Silent Slumber     - CNET](https://www.cnet.com/tech/mobile/these-269-noise-cancelling-sleep-earbuds-provide-a-nearly-silent-slumber/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
