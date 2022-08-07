@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hitman 2 : Biological Wh**efare](http://9gag.com/gag/a41vZKw)
- - 🚯 [Psycho dad](http://9gag.com/gag/aKmR2LQ)
- - 🚯 [Simple Analogy](http://9gag.com/gag/aNPNWw6)<!-- MEMES:END -->
+ - 🚖 [Women \u2615](http://9gag.com/gag/awzw5qx)
+ - 🚯 [Simple Analogy](http://9gag.com/gag/aNPNWw6)
+ - 🚯 [O&#39;Hare airport &lpar;Aug 6 2022&rpar;](http://9gag.com/gag/amg3rn4)<!-- MEMES:END -->
 
 --- 
 
