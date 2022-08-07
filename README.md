@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Cera, whose app uses data analytics and AI to manage at-home health care, has raised $320M split equally between debt and equity led by Kairos HQ &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220807/p1#a220807p1)
  - [Seamless, which provides cross-border digital remittances and cashless payments services, agrees to go public via a SPAC merger at an implied $400M valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220806/p15#a220806p15)
- - [Illinois-based Sibel Health, which offers wearable sensors, AI-enabled data analytics, and cloud software for remote patient monitoring, raised a $33M Series B &lpar;Sean Whooley/MassDevice&rpar;](http://www.techmeme.com/220806/p14#a220806p14)
- - [Tom Alberg, an early Amazon investor and Madrona Venture Group co-founder, who was a key figure in shaping the Pacific Northwest&#39;s tech economy, dies at 82 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220806/p13#a220806p13)<!-- TECH:END -->
+ - [Illinois-based Sibel Health, which offers wearable sensors, AI-enabled data analytics, and cloud software for remote patient monitoring, raised a $33M Series B &lpar;Sean Whooley/MassDevice&rpar;](http://www.techmeme.com/220806/p14#a220806p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
