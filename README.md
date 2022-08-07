@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ooof](http://9gag.com/gag/aE83GYM)
- - 🚯 [Racoons](http://9gag.com/gag/a0ZBLZz)
+ - 🚖 [True](http://9gag.com/gag/aAGjpwE)
+ - 🚯 [Elephants come running when they hear their old caretaker calling them](http://9gag.com/gag/a91oPWm)
  - 🚯 [Whos gonna believe them?](http://9gag.com/gag/aNPNKw0)<!-- MEMES:END -->
 
 --- 
