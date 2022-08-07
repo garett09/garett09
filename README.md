@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No wood](http://9gag.com/gag/aVxAX8v)
- - 🚯 [I do mis this a little](http://9gag.com/gag/abg7b7E)
- - 🚯 [Teach me your favorite dance move.. Great experience..](http://9gag.com/gag/amg3934)<!-- MEMES:END -->
+ - 🚖 [Wrong mama](http://9gag.com/gag/azenjdb)
+ - 🚯 [Calm down honey. -Her...](http://9gag.com/gag/a21emAw)
+ - 🚯 [Why men&#39;s lives are shorter than women&#39;s](http://9gag.com/gag/aWgz6WA)<!-- MEMES:END -->
 
 --- 
 
