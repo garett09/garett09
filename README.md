@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lightyear’s producer thinks Sox’s texture is hilarious](https://www.polygon.com/23280773/lightyear-sox-disney-plus-release)
- - [An Elden Ring Wandering Mausoleum made of LEGO is glorious](https://www.pcgamer.com/an-elden-ring-wandering-mausoleum-made-of-lego-is-glorious)
- - [The Corinthian in Netflix’s Sandman had to be sexy — even with those eyes](https://www.polygon.com/23291990/the-sandman-netflix-2022-corinthian)<!-- GAME:END -->
+ - [Our favorite Neil Gaiman books, comics, and more](https://www.polygon.com/23289362/neil-gaiman-books-list-best)
+ - [Multiversus is getting a coop arcade mode &quot;very soon&quot; in Season 1](https://www.pcgamer.com/multiversus-is-getting-a-coop-arcade-mode-very-soon-in-season-1)
+ - [Lightyear’s producer thinks Sox’s texture is hilarious](https://www.polygon.com/23280773/lightyear-sox-disney-plus-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
