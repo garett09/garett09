@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked video shows DJI’s rumored cinewhoop FPV drone in action](https://www.theverge.com/2022/8/8/23296454/dji-avata-first-person-fpv-drone-cinewhoop-leaked-video-photos)
- - [A look at potential Ethereum forks, led by some miners, after the shift to a proof-of-stake model, called the Merge, expected as early as September &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220808/p3#a220808p3)
- - [After the draft ruling reversing Roe, location data company Tapestri says two companies asked to buy device data revealing users who visited abortion clinics &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/220808/p2#a220808p2)<!-- TECH:END -->
+ - [Google sues Sonos over smart speaker and voice control tech](https://www.theverge.com/2022/8/8/23293927/google-sonos-lawsuit-smart-speaker-voice-control)
+ - [AI systems can’t patent inventions, US federal circuit court confirms](https://www.theverge.com/2022/8/8/23293353/ai-patent-legal-status-us-federal-circuit-court-rules-thaler-dabus)
+ - [Leaked video shows DJI’s rumored cinewhoop FPV drone in action](https://www.theverge.com/2022/8/8/23296454/dji-avata-first-person-fpv-drone-cinewhoop-leaked-video-photos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
