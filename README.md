@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Updating your graphics drivers without rebooting](https://www.pcgamer.com/great-moments-in-pc-gaming-updating-your-graphics-drivers-without-rebooting)
- - [Go listen to the first-ever gaming concert at the BBC Proms, a landmark event](https://www.pcgamer.com/go-listen-to-the-first-ever-gaming-concert-at-the-bbc-proms-a-landmark-event)
- - [First MultiVersus tournament ends in $10K upset as underdogs break Bugs/Velma meta](https://www.pcgamer.com/first-multiversus-tournament-ends-in-dollar10k-upset-as-underdogs-break-bugsvelma-meta)<!-- GAME:END -->
+ - [A New Fatal Fury Game Is In Development](https://kotaku.com/fatal-fury-garou-wolves-snk-fighting-game-evo-2022-1849383107)
+ - [We tracked down the Dark Souls fashion police](https://www.pcgamer.com/we-tracked-down-the-dark-souls-fashion-police)
+ - [Rollback Netcode Announcements Made For Multiple Fighting Games At EVO 2022](https://kotaku.com/dragon-ball-fighterz-samurai-showdown-rollback-netcode-1849383042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
