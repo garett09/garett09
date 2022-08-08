@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take responsibility for your actions](http://9gag.com/gag/aOQwBBE)
- - 🚯 [Good times, good days.](http://9gag.com/gag/aAGjDRp)
+ - 🚖 [A gift from a friend](http://9gag.com/gag/aM4gjEP)
+ - 🚯 [Don&#39;t go to England for the food](http://9gag.com/gag/a41vbyZ)
  - 🚯 [One cup of water being poured on grease fire.](http://9gag.com/gag/abg7z9b)<!-- MEMES:END -->
 
 --- 
