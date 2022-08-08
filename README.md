@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dusk Diver 2’s high-octane combat explained, out on PS5 &amp; PS4 August 30](https://blog.playstation.com/2022/08/08/dusk-diver-2s-high-octane-combat-explained-out-on-ps5-ps4-august-30/)
- - [Dusk Diver 2’s high-octane combat explained, out on PS5 &amp; PS4 August 30](https://blog.playstation.com/2022/08/08/dusk-diver-2s-high-octane-combat-explained-out-on-ps5-ps4-august-30/)
- - [Modern Warfare 2 beta is coming in September with a frustratingly complicated schedule](https://www.pcgamer.com/modern-warfare-2-beta-dates)<!-- GAME:END -->
+ - [Diablo IV Leaks Send Blizzard Into Damage Control](https://kotaku.com/diablo-iv-blizzard-leaks-beta-test-1849384904)
+ - [Bloodstained: Curse of the Moon developer reveals an adorable co-op Castlevania-like](https://www.polygon.com/23296748/grim-guardians-demon-purge-bloodstained-castlevania-trailer-details)
+ - [How to complete the Ranni quest in Elden Ring](https://www.pcgamer.com/elden-ring-ranni-quest-nokron)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
