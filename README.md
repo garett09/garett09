@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sick prank PATRIK!!](http://9gag.com/gag/aPZ5RbP)
+ - 🚖 [His happy face for running alongside the Bolt without caring if he will win or not](http://9gag.com/gag/a61PN62)
  - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)
  - 🚯 [Sigma and alphas males fighting the neomarxists Soros woke BS](http://9gag.com/gag/a31mQO1)<!-- MEMES:END -->
 
