@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Unpacked: How to Watch the Rumored Galaxy Z Fold &amp; Flip 4 Reveal     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-rumored-galaxy-z-fold-flip-4-reveal/#ftag=CAD590a51e)
- - [Every &#39;Predator&#39; Movie Ranked, From &#39;Prey&#39; To &#39;Requiem&#39;     - CNET](https://www.cnet.com/culture/entertainment/every-predator-movie-ranked-from-prey-to-requiem/#ftag=CAD590a51e)
- - [Someone stole Cameo CEO&#39;s Bored Ape NFT and Sold it for $130k     - CNET](https://www.cnet.com/personal-finance/crypto/someone-stole-cameo-ceos-bored-ape-nft-and-sold-it-for-130k/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s some bad news for those of you who own older Fitbits](https://www.androidauthority.com/fitbit-transfer-music-pc-3194008/)
+ - [SoftBank Vision Fund posts a ~$17.23B loss in the April-June quarter as the value of its tech portfolio, including SenseTime Group and Uber, fell &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220808/p1#a220808p1)
+ - [Motorola Razr 2022, X30 Pro launch is back on. Specs confirmed.](https://www.androidauthority.com/moto-razr-2022-x30-pro-new-launch-date-specs-3194000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
