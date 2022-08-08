@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sues Sonos over smart speaker and voice control tech](https://www.theverge.com/2022/8/8/23293927/google-sonos-lawsuit-smart-speaker-voice-control)
- - [AI systems can’t patent inventions, US federal circuit court confirms](https://www.theverge.com/2022/8/8/23293353/ai-patent-legal-status-us-federal-circuit-court-rules-thaler-dabus)
- - [Leaked video shows DJI’s rumored cinewhoop FPV drone in action](https://www.theverge.com/2022/8/8/23296454/dji-avata-first-person-fpv-drone-cinewhoop-leaked-video-photos)<!-- TECH:END -->
+ - [Apple-1 &#39;prototype&#39; history questioned as auction continues](https://appleinsider.com/articles/22/08/08/apple-1-prototype-history-questioned-as-auction-continues?utm_medium=rss)
+ - [How Clean is ‘Clean’ Hydrogen?](https://www.wired.com/story/how-clean-is-clean-hydrogen/)
+ - [The Chaotic Monkeypox Vaccine Pipeline Is Leaving Everyone Short](https://www.wired.com/story/monkeypox-vaccine-supply-chain/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
