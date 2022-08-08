@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His happy face for running alongside the Bolt without caring if he will win or not](http://9gag.com/gag/a61PN62)
- - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)
- - 🚯 [Sigma and alphas males fighting the neomarxists Soros woke BS](http://9gag.com/gag/a31mQO1)<!-- MEMES:END -->
+ - 🚖 [Sigma and alphas males fighting the neomarxists Soros woke BS](http://9gag.com/gag/a31mQO1)
+ - 🚯 [Corona? War in Europe? What are you talking about? Let&#39;s go for another round of Mario 64](http://9gag.com/gag/aegLD7b)
+ - 🚯 [Sieg](http://9gag.com/gag/aDDy4zG)<!-- MEMES:END -->
 
 --- 
 
