@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser Momentum 4 headphones review: less cool, more comfortable](https://www.theverge.com/23297129/sennheiser-momentum-4-wireless-headphones-review)
- - [Sennheiser announces Momentum 4 headphones with new design and 60-hour battery life](https://www.theverge.com/2022/8/8/23297347/sennheiser-momentum-4-headphones-announced-features-price)
- - [Battery percentage finally returns to iOS 16 and it’s hideous](https://www.theverge.com/2022/8/8/23297253/apple-battery-percentage-ios-16-beta)<!-- TECH:END -->
+ - [Crypto.com says it has secured registrations to operate as a virtual asset service provider in South Korea, acquires two local startups for undisclosed amounts &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220808/p21#a220808p21)
+ - [You now have two days to delete that embarrassing WhatsApp message](https://www.theverge.com/2022/8/8/23297405/whatsapp-delete-texts-for-everyone-meta-apple-imessage)
+ - [Samsung Galaxy Z Flip 4: What we know so far and what we want to see &lpar;August 8&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-4-release-date-rumors-specs-price-features-3175642/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
