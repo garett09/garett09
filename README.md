@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel launches Arc Pro GPUs that are designed for workstations and pro apps](https://www.theverge.com/2022/8/8/23296836/intel-arc-pro-gpu-workstations-mobile-specs)
- - [No electric vehicles on the market today qualify for the new EV tax credit](https://www.theverge.com/2022/8/8/23296678/ev-tax-credit-qualify-battery-supply-chain-china)
- - [Nvidia Q2 gaming revenue falls short of 2021’s mark by over a billion dollars](https://www.theverge.com/2022/8/8/23296717/nvidia-earnings-q2-2022-gpu-gaming-cryptocurrency)<!-- TECH:END -->
+ - [Apple issues fifth watchOS 9 developer beta to testers](https://appleinsider.com/articles/22/08/08/apple-issues-fifth-watchos-9-developer-beta-to-testers?utm_medium=rss)
+ - [Apple seeds fifth developer beta of tvOS 16](https://appleinsider.com/articles/22/08/08/apple-seeds-fifth-developer-beta-of-tvos-16?utm_medium=rss)
+ - [Apple issues fourth developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/08/08/apple-issues-fourth-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
