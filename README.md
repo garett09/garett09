@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a bunch of clowns calling themselves teachers](http://9gag.com/gag/aXrBjbV)
- - 🚯 [We are taxed too much. Average taxation rate in Belgium : 54%](http://9gag.com/gag/a21eR3Y)
- - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)<!-- MEMES:END -->
+ - 🚖 [Sick prank PATRIK!!](http://9gag.com/gag/aPZ5RbP)
+ - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)
+ - 🚯 [Sigma and alphas males fighting the neomarxists Soros woke BS](http://9gag.com/gag/a31mQO1)<!-- MEMES:END -->
 
 --- 
 
