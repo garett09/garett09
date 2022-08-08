@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pac-Man Live-Action Film In The Works, For Some Reason](https://kotaku.com/pac-man-live-action-film-sonic-bandai-namco-sega-1849387079)
- - [Fan Fave Bridget Joins Guilty Gear Strive, Comes Out As Trans](https://kotaku.com/guilty-gear-strive-evo-2022-bridget-dlc-trans-rights-1849386887)
- - [My most anticipated shooter of 2022 just got delayed](https://www.pcgamer.com/my-most-anticipated-shooter-of-2022-just-got-delayed)<!-- GAME:END -->
+ - [How David can be even more terrifying than before](https://game-rant-2022.blogspot.com/2022/08/how-david-can-be-even-more-terrifying.html)
+ - [&#39;Winter could be longer&#39; because unicorns won&#39;t accept down rounds, says SoftBank leader - TechCrunch](https://game-rant-2022.blogspot.com/2022/08/winter-could-be-longer-because-unicorns.html)
+ - [Video game characters whose pain was turned into a meme](https://game-rant-2022.blogspot.com/2022/08/video-game-characters-whose-pain-was.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
