@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An omnipresent AI runs Tencent&#39;s RGB-fueled nightmare esports hotel](https://www.pcgamer.com/an-omnipresent-ai-runs-tencents-rgb-fueled-nightmare-esports-hotel)
- - [Splatoon 3 Deep-Dive Is Nintendo&#39;s Next Direct](https://kotaku.com/splatoon-3-nintendo-direct-switch-oled-pre-order-bonus-1849384053)
- - [Call of Duty: Modern Warfare 2 beta and reveal event set for September](https://www.polygon.com/23296623/call-of-duty-modern-warfare-2-beta-dates-multiplayer-cross-play-maps)<!-- GAME:END -->
+ - [Dusk Diver 2’s high-octane combat explained, out on PS5 &amp; PS4 August 30](https://blog.playstation.com/2022/08/08/dusk-diver-2s-high-octane-combat-explained-out-on-ps5-ps4-august-30/)
+ - [Dusk Diver 2’s high-octane combat explained, out on PS5 &amp; PS4 August 30](https://blog.playstation.com/2022/08/08/dusk-diver-2s-high-octane-combat-explained-out-on-ps5-ps4-august-30/)
+ - [Modern Warfare 2 beta is coming in September with a frustratingly complicated schedule](https://www.pcgamer.com/modern-warfare-2-beta-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
