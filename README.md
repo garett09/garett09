@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate International Cat Day with this trailer for a cat noir detective game](https://www.polygon.com/23297050/nine-noir-lives-trailer-release-date)
- - [15 Things I Wish I Knew Before Starting Xenoblade Chronicles 3](https://kotaku.com/xenoblade-chronicles-3-tips-tricks-best-classes-guide-1849385493)
- - [EVO 2022&#39;s Hypest Moment Was Everyone Losing Their Minds During Dragon Ball FighterZ](https://kotaku.com/dragon-ball-fighter-cell-yell-evo-shanks-legendaryypred-1849385165)<!-- GAME:END -->
+ - [12 Black sci-fi and fantasy comics to read](https://www.polygon.com/23283652/black-sci-fi-fantasy-comics-best-list)
+ - [Netflix Has Some Great Games But Nobody&#39;s Playing Them](https://kotaku.com/netflix-games-into-the-breach-subscribers-1-percent-1849385928)
+ - [New Pac-Man movie will be live action, somehow](https://www.polygon.com/23297171/pac-man-movie-bandai-namco-wayfarer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
