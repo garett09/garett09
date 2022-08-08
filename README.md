@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Much Will Apple&#39;s iPhone 14 Cost? Here&#39;s What Rumors Say     - CNET](https://www.cnet.com/tech/mobile/how-much-will-apples-iphone-14-cost-heres-what-rumors-say/#ftag=CAD590a51e)
  - [Here’s some bad news for those of you who own older Fitbits](https://www.androidauthority.com/fitbit-transfer-music-pc-3194008/)
- - [SoftBank Vision Fund posts a ~$17.23B loss in the April-June quarter as the value of its tech portfolio, including SenseTime Group and Uber, fell &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220808/p1#a220808p1)
- - [Motorola Razr 2022, X30 Pro launch is back on. Specs confirmed.](https://www.androidauthority.com/moto-razr-2022-x30-pro-new-launch-date-specs-3194000/)<!-- TECH:END -->
+ - [SoftBank Vision Fund posts a ~$17.23B loss in the April-June quarter as the value of its tech portfolio, including SenseTime Group and Uber, fell &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220808/p1#a220808p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
