@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVGA slashes RTX 3090 Ti price by $1000 to just $1149](https://www.pcgamer.com/evga-slashes-rtx-3090-ti-price-by-dollar1000-to-just-dollar1149)
- - [Today&#39;s Wordle 415 answer and hint: Monday, August 8](https://www.pcgamer.com/todays-wordle-415-answer-hint)
- - [Street Fighter 6&#39;s Next Characters Are Juri And The All-New Kimberly](https://kotaku.com/street-fighter-6-juri-kimberley-new-character-revealed-1849383396)<!-- GAME:END -->
+ - [&#39;Epic has been great for many indies&#39;, says X-COM and Phoenix Point creator](https://www.pcgamer.com/epic-has-been-great-for-many-indies-says-x-com-and-phoenix-point-creator)
+ - [Faster GDDR6X memory likely headed to Nvidia RTX 40-series is now in production](https://www.pcgamer.com/micron-gddr6x-24gbps-memory-nvidia-rtx-40-titan)
+ - [Street Fighter 6 shows off new fighter Kimberley and the return of Juri](https://www.pcgamer.com/street-fighter-6-shows-off-new-fighter-kimberley-and-the-return-of-juri)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
