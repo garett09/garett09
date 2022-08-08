@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. World Record Now Just A Half-Second Short Of A Perfect Run](https://kotaku.com/super-mario-bros-speedrunner-world-record-niftski-1849386352)
- - [The Little League World Series is back — and so is its video game](https://www.polygon.com/23167466/little-league-world-series-baseball-2022-release-date)
- - [12 Black sci-fi and fantasy comics to read](https://www.polygon.com/23283652/black-sci-fi-fantasy-comics-best-list)<!-- GAME:END -->
+ - [Marvel&#39;s Midnight Suns is delayed, Wolverine&#39;s claws retract slightly](https://www.pcgamer.com/marvels-midnight-suns-is-delayed-wolverines-claws-retract-slightly)
+ - [Marvel’s Midnight Suns gets delayed, now has a staggered platform release](https://www.polygon.com/23297371/marvels-midnight-suns-release-date-delay-take-two-firaxis)
+ - [Netflix has great mobile games — here’s how to play them](https://www.polygon.com/23297266/netflix-games-mobile-how-to-download-play-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
