@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apptopia: Netflix&#39;s games have 23.3M total downloads and average 1.7M DAUs, less than 1% of its subscribers; Netflix plans to reach 50 games by the end of 2022 &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220808/p10#a220808p10)
- - [Apple increases supplier order for iPhone 14 to 95M units](https://appleinsider.com/articles/22/08/08/apple-increases-supplier-order-for-iphone-14-to-95m-units?utm_medium=rss)
- - [The Bachelorette Is Taking Woman vs. Woman Drama to New Extremes. It Sucks.     - CNET](https://www.cnet.com/culture/entertainment/the-bachelorette-is-taking-woman-vs-woman-drama-to-new-extremes-it-sucks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple radically cuts down on acquiring firms for technology and talent](https://appleinsider.com/articles/22/08/08/apple-radically-cuts-down-on-acquiring-firms-for-technology-and-talent?utm_medium=rss)
+ - [Daily deals August 8: $180 AirPods Pro, $225 Elgato Stream Deck XL, Eve smart home discounts, more](https://appleinsider.com/articles/22/08/08/daily-deals-august-8-180-airpods-pro-225-elgato-stream-deck-xl-eve-smart-home-discounts-more?utm_medium=rss)
+ - [A profile of Celsius CEO Alex Mashinsky, as the company goes bankrupt; sources say he is a brash entrepreneur with a history of unhappy investors and colleagues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220808/p12#a220808p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
