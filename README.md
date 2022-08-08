@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6&#39;s Next Characters Are Juri And The All-New Kimberly](https://kotaku.com/street-fighter-6-juri-kimberley-new-character-revealed-1849383396)
- - [How Capcom designed Kimberly and Juri for Street Fighter 6](https://blog.playstation.com/2022/08/07/how-capcom-designed-kimberly-and-juri-for-street-fighter-6/)
- - [How Capcom designed Kimberly and Juri for Street Fighter 6](https://blog.playstation.com/2022/08/07/how-capcom-designed-kimberly-and-juri-for-street-fighter-6/)<!-- GAME:END -->
+ - [EVGA slashes RTX 3090 Ti price by $1000 to just $1149](https://www.pcgamer.com/evga-slashes-rtx-3090-ti-price-by-dollar1000-to-just-dollar1149)
+ - [Today&#39;s Wordle 415 answer and hint: Monday, August 8](https://www.pcgamer.com/todays-wordle-415-answer-hint)
+ - [Street Fighter 6&#39;s Next Characters Are Juri And The All-New Kimberly](https://kotaku.com/street-fighter-6-juri-kimberley-new-character-revealed-1849383396)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
