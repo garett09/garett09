@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [iOS 16 beta 5 returns battery percentage to the status bar](https://appleinsider.com/articles/22/08/08/ios-16-beta-5-returns-battery-percentage-to-the-status-bar?utm_medium=rss)
- - [Mario Kart 8’s new DLC tracks are more &lpar;or less&rpar; of a good thing](https://www.theverge.com/2022/8/8/23296909/mario-kart-8-deluxes-wave-2-second-tracks-dlc-impressions)<!-- TECH:END -->
+ - [How to mount ISO in Windows](https://www.androidauthority.com/mount-iso-windows-3190358/)
+ - [Apple adds option to show battery percentage in the status bar on select iPhones in iOS 16 beta 5, after removing it for models with notches at iPhone X&#39;s debut &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220808/p19#a220808p19)
+ - [iOS 16 beta 5 returns battery percentage to the status bar](https://appleinsider.com/articles/22/08/08/ios-16-beta-5-returns-battery-percentage-to-the-status-bar?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
