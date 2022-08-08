@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Fatal Fury Game Is In Development](https://kotaku.com/fatal-fury-garou-wolves-snk-fighting-game-evo-2022-1849383107)
- - [We tracked down the Dark Souls fashion police](https://www.pcgamer.com/we-tracked-down-the-dark-souls-fashion-police)
- - [Rollback Netcode Announcements Made For Multiple Fighting Games At EVO 2022](https://kotaku.com/dragon-ball-fighterz-samurai-showdown-rollback-netcode-1849383042)<!-- GAME:END -->
+ - [Wind Waker Completely Rewritten By Fan, It&#39;s Like A Whole New Game](https://kotaku.com/legend-zelda-wind-waker-rewritten-mod-fan-dialogue-1849383263)
+ - [Five new Steam games you probably missed &lpar;August 8, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-8-2022)
+ - [Teaser shown at EVO suggests Tekken 8 may be on the way](https://www.pcgamer.com/teaser-shown-at-evo-suggests-tekken-8-may-be-on-the-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
