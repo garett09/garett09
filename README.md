@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post title...](http://9gag.com/gag/ang69Oo)
- - 🚯 [Feels](http://9gag.com/gag/avANORW)
- - 🚯 [How](http://9gag.com/gag/aGzXZBw)<!-- MEMES:END -->
+ - 🚖 [Took a while to sniff her out](http://9gag.com/gag/arnYg07)
+ - 🚯 [Post title...](http://9gag.com/gag/ang69Oo)
+ - 🚯 [Wire remote control of Komatsu Truck](http://9gag.com/gag/aBnp0Px)<!-- MEMES:END -->
 
 --- 
 
