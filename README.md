@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Much Will Apple&#39;s iPhone 14 Cost? Here&#39;s What Rumors Say     - CNET](https://www.cnet.com/tech/mobile/how-much-will-apples-iphone-14-cost-heres-what-rumors-say/#ftag=CAD590a51e)
- - [Here’s some bad news for those of you who own older Fitbits](https://www.androidauthority.com/fitbit-transfer-music-pc-3194008/)
- - [SoftBank Vision Fund posts a ~$17.23B loss in the April-June quarter as the value of its tech portfolio, including SenseTime Group and Uber, fell &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220808/p1#a220808p1)<!-- TECH:END -->
+ - [Leaked video shows DJI’s rumored cinewhoop FPV drone in action](https://www.theverge.com/2022/8/8/23296454/dji-avata-first-person-fpv-drone-cinewhoop-leaked-video-photos)
+ - [A look at potential Ethereum forks, led by some miners, after the shift to a proof-of-stake model, called the Merge, expected as early as September &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220808/p3#a220808p3)
+ - [After the draft ruling reversing Roe, location data company Tapestri says two companies asked to buy device data revealing users who visited abortion clinics &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/220808/p2#a220808p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
