@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This M2 MacBook Air with 512GB SSD is $100 off, plus $40 off AppleCare](https://appleinsider.com/articles/22/08/08/this-m2-macbook-air-with-512gb-ssd-is-100-off-plus-40-off-applecare?utm_medium=rss)
- - [99 percent of Netflix subscribers haven’t tried its games yet](https://www.theverge.com/2022/8/8/23296545/netflix-games-1-percent-subscribers)
- - [Apple&#39;s AR headset could use LG Display&#39;s new super-high resolution screens](https://appleinsider.com/articles/22/08/08/apples-ar-headset-could-use-lg-displays-new-super-high-resolution-screens?utm_medium=rss)<!-- TECH:END -->
+ - [Intel launches Arc Pro GPUs that are designed for workstations and pro apps](https://www.theverge.com/2022/8/8/23296836/intel-arc-pro-gpu-workstations-mobile-specs)
+ - [No electric vehicles on the market today qualify for the new EV tax credit](https://www.theverge.com/2022/8/8/23296678/ev-tax-credit-qualify-battery-supply-chain-china)
+ - [Nvidia Q2 gaming revenue falls short of 2021’s mark by over a billion dollars](https://www.theverge.com/2022/8/8/23296717/nvidia-earnings-q2-2022-gpu-gaming-cryptocurrency)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
