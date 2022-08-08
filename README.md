@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVO 2022&#39;s Hypest Moment Was Everyone Losing Their Minds During Dragon Ball FighterZ](https://kotaku.com/dragon-ball-fighter-cell-yell-evo-shanks-legendaryypred-1849385165)
- - [Jujutsu Kaisen 0, Akira, and more exciting anime movies are heading to Crunchyroll](https://www.polygon.com/23296945/jujutsu-kaisen-0-akira-crunchyroll-anime-movies)
- - [The DC super-pets that didn’t make it into the movie &lpar;but should have&rpar;](https://www.polygon.com/23291000/dc-super-pets-movie-characters-comics-list)<!-- GAME:END -->
+ - [Celebrate International Cat Day with this trailer for a cat noir detective game](https://www.polygon.com/23297050/nine-noir-lives-trailer-release-date)
+ - [15 Things I Wish I Knew Before Starting Xenoblade Chronicles 3](https://kotaku.com/xenoblade-chronicles-3-tips-tricks-best-classes-guide-1849385493)
+ - [EVO 2022&#39;s Hypest Moment Was Everyone Losing Their Minds During Dragon Ball FighterZ](https://kotaku.com/dragon-ball-fighter-cell-yell-evo-shanks-legendaryypred-1849385165)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
