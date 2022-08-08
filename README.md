@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Samsung&#39;s Unpacked event on August 10: the Galaxy Z Fold 4, Galaxy Z Flip 4, Galaxy Watch 5, Galaxy Buds Pro 2, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220808/p15#a220808p15)
- - [The email from Slack to reset passwords is legit](https://appleinsider.com/articles/22/08/08/the-email-from-slack-to-reset-passwords-is-legit?utm_medium=rss)
- - [Qualcomm and GlobalFoundries sign a multi-billion dollar revenue agreement to double long-term production, including expanding GlobalFoundries&#39; New York plant &lpar;Reuters&rpar;](http://www.techmeme.com/220808/p14#a220808p14)<!-- TECH:END -->
+ - [This M2 MacBook Air with 512GB SSD is $100 off, plus $40 off AppleCare](https://appleinsider.com/articles/22/08/08/this-m2-macbook-air-with-512gb-ssd-is-100-off-plus-40-off-applecare?utm_medium=rss)
+ - [99 percent of Netflix subscribers haven’t tried its games yet](https://www.theverge.com/2022/8/8/23296545/netflix-games-1-percent-subscribers)
+ - [Apple&#39;s AR headset could use LG Display&#39;s new super-high resolution screens](https://appleinsider.com/articles/22/08/08/apples-ar-headset-could-use-lg-displays-new-super-high-resolution-screens?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
