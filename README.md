@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumb!](http://9gag.com/gag/aLvxjpg)
+ - 🚖 [Hypocrisy at its finest!](http://9gag.com/gag/awzwXM8)
  - 🚯 [Thank you and RIP](http://9gag.com/gag/aAGjxx0)
- - 🚯 [Himym](http://9gag.com/gag/aqG01YQ)<!-- MEMES:END -->
+ - 🚯 [Feels](http://9gag.com/gag/avANORW)<!-- MEMES:END -->
 
 --- 
 
