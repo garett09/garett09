@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball FighterZ and Samurai Shodown are getting rollback netcode](https://www.pcgamer.com/dragon-ball-fighterz-and-samurai-shodown-are-getting-rollback-netcode)
- - [Wind Waker Completely Rewritten By Fan, It&#39;s Like A Whole New Game](https://kotaku.com/legend-zelda-wind-waker-rewritten-mod-fan-dialogue-1849383263)
- - [Five new Steam games you probably missed &lpar;August 8, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-8-2022)<!-- GAME:END -->
+ - [Street Fighter 6&#39;s Next Characters Are Juri And The All-New Kimberly](https://kotaku.com/street-fighter-6-juri-kimberley-new-character-revealed-1849383396)
+ - [How Capcom designed Kimberly and Juri for Street Fighter 6](https://blog.playstation.com/2022/08/07/how-capcom-designed-kimberly-and-juri-for-street-fighter-6/)
+ - [How Capcom designed Kimberly and Juri for Street Fighter 6](https://blog.playstation.com/2022/08/07/how-capcom-designed-kimberly-and-juri-for-street-fighter-6/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
