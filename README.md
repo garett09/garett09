@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Took a while to sniff her out](http://9gag.com/gag/arnYg07)
- - 🚯 [Post title...](http://9gag.com/gag/ang69Oo)
- - 🚯 [Wire remote control of Komatsu Truck](http://9gag.com/gag/aBnp0Px)<!-- MEMES:END -->
+ - 🚖 [What a bunch of clowns calling themselves teachers](http://9gag.com/gag/aXrBjbV)
+ - 🚯 [Lets make that the law](http://9gag.com/gag/a119QE2)
+ - 🚯 [How](http://9gag.com/gag/aGzXZBw)<!-- MEMES:END -->
 
 --- 
 
