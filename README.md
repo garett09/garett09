@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Epic has been great for many indies&#39;, says X-COM and Phoenix Point creator](https://www.pcgamer.com/epic-has-been-great-for-many-indies-says-x-com-and-phoenix-point-creator)
- - [Faster GDDR6X memory likely headed to Nvidia RTX 40-series is now in production](https://www.pcgamer.com/micron-gddr6x-24gbps-memory-nvidia-rtx-40-titan)
- - [Street Fighter 6 shows off new fighter Kimberley and the return of Juri](https://www.pcgamer.com/street-fighter-6-shows-off-new-fighter-kimberley-and-the-return-of-juri)<!-- GAME:END -->
+ - [Street Fighter 6 brings back Juri, welcomes newcomer Kimberly to roster](https://www.polygon.com/23296571/street-fighter-6-juri-kimberly-roster-update-evo-capcom)
+ - [Forgery accusations against longtime retro game seller leave collectors shaken](https://www.polygon.com/2022/8/8/23293600/retro-vintage-pc-games-collecting-forgery-enrico-ricciardi)
+ - [How to humble Ake in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/ac-valhalla-ake-flyting-sigrblot-festival)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
