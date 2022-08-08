@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A gift from a friend](http://9gag.com/gag/aM4gjEP)
- - 🚯 [Don&#39;t go to England for the food](http://9gag.com/gag/a41vbyZ)
- - 🚯 [One cup of water being poured on grease fire.](http://9gag.com/gag/abg7z9b)<!-- MEMES:END -->
+ - 🚖 [Dumb!](http://9gag.com/gag/aLvxjpg)
+ - 🚯 [Thank you and RIP](http://9gag.com/gag/aAGjxx0)
+ - 🚯 [Himym](http://9gag.com/gag/aqG01YQ)<!-- MEMES:END -->
 
 --- 
 
