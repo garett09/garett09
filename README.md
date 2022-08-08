@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sigma and alphas males fighting the neomarxists Soros woke BS](http://9gag.com/gag/a31mQO1)
- - 🚯 [Corona? War in Europe? What are you talking about? Let&#39;s go for another round of Mario 64](http://9gag.com/gag/aegLD7b)
+ - 🚖 [When you&#39;re playing Call of Cthulhu but your mate brought his DnD barbarian sheet](http://9gag.com/gag/aAGjeyR)
+ - 🚯 [Sick prank PATRIK!!](http://9gag.com/gag/aPZ5RbP)
  - 🚯 [Sieg](http://9gag.com/gag/aDDy4zG)<!-- MEMES:END -->
 
 --- 
