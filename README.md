@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [O&#39;Hare airport &lpar;Aug 6 2022&rpar;](http://9gag.com/gag/amg3rn4)
- - 🚯 [Story keeps going](http://9gag.com/gag/aOQwzPr)
- - 🚯 [Women \u2615](http://9gag.com/gag/awzw5qx)<!-- MEMES:END -->
+ - 🚖 [`WOMAN`](http://9gag.com/gag/abg7pm8)
+ - 🚯 [Since then, priest is missing](http://9gag.com/gag/aLvxMbv)
+ - 🚯 [Emotional damage](http://9gag.com/gag/ajgpXK0)<!-- MEMES:END -->
 
 --- 
 
