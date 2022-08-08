@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect casting doesn&#39;t exis...](http://9gag.com/gag/a21eode)
- - 🚯 [It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron.](http://9gag.com/gag/aLvxgL6)
- - 🚯 [Old School](http://9gag.com/gag/arnYgMy)<!-- MEMES:END -->
+ - 🚖 [Post title...](http://9gag.com/gag/ang69Oo)
+ - 🚯 [Feels](http://9gag.com/gag/avANORW)
+ - 🚯 [How](http://9gag.com/gag/aGzXZBw)<!-- MEMES:END -->
 
 --- 
 
