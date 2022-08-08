@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional damage](http://9gag.com/gag/ajgpXK0)
+ - 🚖 [The perfect earrings don&#39;t exi...](http://9gag.com/gag/a119Kjv)
  - 🚯 [Take responsibility for your actions](http://9gag.com/gag/aOQwBBE)
- - 🚯 [The perfect earrings don&#39;t exi...](http://9gag.com/gag/a119Kjv)<!-- MEMES:END -->
+ - 🚯 [GOLD](http://9gag.com/gag/a514bjV)<!-- MEMES:END -->
 
 --- 
 
