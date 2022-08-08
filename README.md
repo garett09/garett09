@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Midnight Suns is delayed, Wolverine&#39;s claws retract slightly](https://www.pcgamer.com/marvels-midnight-suns-is-delayed-wolverines-claws-retract-slightly)
- - [Marvel’s Midnight Suns gets delayed, now has a staggered platform release](https://www.polygon.com/23297371/marvels-midnight-suns-release-date-delay-take-two-firaxis)
- - [Netflix has great mobile games — here’s how to play them](https://www.polygon.com/23297266/netflix-games-mobile-how-to-download-play-find)<!-- GAME:END -->
+ - [Pac-Man Live-Action Film In The Works, For Some Reason](https://kotaku.com/pac-man-live-action-film-sonic-bandai-namco-sega-1849387079)
+ - [Fan Fave Bridget Joins Guilty Gear Strive, Comes Out As Trans](https://kotaku.com/guilty-gear-strive-evo-2022-bridget-dlc-trans-rights-1849386887)
+ - [My most anticipated shooter of 2022 just got delayed](https://www.pcgamer.com/my-most-anticipated-shooter-of-2022-just-got-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
