@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Coolers for 2022: Cabela, Magellan Outdoors, Yeti, RTIC and More     - CNET](https://www.cnet.com/news/best-coolers/#ftag=CAD590a51e)
- - [The Biggest Galaxy Z Fold 4 Rumors Ahead of Samsung&#39;s Unpacked Event     - CNET](https://www.cnet.com/tech/mobile/biggest-galaxy-z-fold-4-rumors-ahead-of-samsung-unpacked-event/#ftag=CAD590a51e)
- - [Best Vegetarian and Vegan Meal Delivery Services     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sennheiser Momentum 4 headphones review: less cool, more comfortable](https://www.theverge.com/23297129/sennheiser-momentum-4-wireless-headphones-review)
+ - [Sennheiser announces Momentum 4 headphones with new design and 60-hour battery life](https://www.theverge.com/2022/8/8/23297347/sennheiser-momentum-4-headphones-announced-features-price)
+ - [Battery percentage finally returns to iOS 16 and it’s hideous](https://www.theverge.com/2022/8/8/23297253/apple-battery-percentage-ios-16-beta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
