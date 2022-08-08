@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kim memesible](http://9gag.com/gag/azen9Nx)
- - 🚯 [It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron.](http://9gag.com/gag/aLvxgL6)
- - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)<!-- MEMES:END -->
+ - 🚖 [What the f**kety f**k...](http://9gag.com/gag/aM4gY1A)
+ - 🚯 [Man in his underwear protects family from Seattle robbers 3 times in one week](http://9gag.com/gag/azen1oK)
+ - 🚯 [What a bunch of clowns calling themselves teachers](http://9gag.com/gag/aXrBjbV)<!-- MEMES:END -->
 
 --- 
 
