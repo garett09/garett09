@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`WOMAN`](http://9gag.com/gag/abg7pm8)
- - 🚯 [Take responsibility for your actions](http://9gag.com/gag/aOQwBBE)
- - 🚯 [Unnecessary but I want one...](http://9gag.com/gag/a119KNY)<!-- MEMES:END -->
+ - 🚖 [Take responsibility for your actions](http://9gag.com/gag/aOQwBBE)
+ - 🚯 [Good times, good days.](http://9gag.com/gag/aAGjDRp)
+ - 🚯 [One cup of water being poured on grease fire.](http://9gag.com/gag/abg7z9b)<!-- MEMES:END -->
 
 --- 
 
