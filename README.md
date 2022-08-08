@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hypocrisy at its finest!](http://9gag.com/gag/awzwXM8)
- - 🚯 [Thank you and RIP](http://9gag.com/gag/aAGjxx0)
- - 🚯 [Feels](http://9gag.com/gag/avANORW)<!-- MEMES:END -->
+ - 🚖 [It&#39;s a start](http://9gag.com/gag/ang6Mrn)
+ - 🚯 [Just do it](http://9gag.com/gag/azenqNb)
+ - 🚯 [Thank you and RIP](http://9gag.com/gag/aAGjxx0)<!-- MEMES:END -->
 
 --- 
 
