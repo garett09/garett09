@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 brings back Juri, welcomes newcomer Kimberly to roster](https://www.polygon.com/23296571/street-fighter-6-juri-kimberly-roster-update-evo-capcom)
- - [Forgery accusations against longtime retro game seller leave collectors shaken](https://www.polygon.com/2022/8/8/23293600/retro-vintage-pc-games-collecting-forgery-enrico-ricciardi)
- - [How to humble Ake in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/ac-valhalla-ake-flyting-sigrblot-festival)<!-- GAME:END -->
+ - [An omnipresent AI runs Tencent&#39;s RGB-fueled nightmare esports hotel](https://www.pcgamer.com/an-omnipresent-ai-runs-tencents-rgb-fueled-nightmare-esports-hotel)
+ - [Splatoon 3 Deep-Dive Is Nintendo&#39;s Next Direct](https://kotaku.com/splatoon-3-nintendo-direct-switch-oled-pre-order-bonus-1849384053)
+ - [Call of Duty: Modern Warfare 2 beta and reveal event set for September](https://www.polygon.com/23296623/call-of-duty-modern-warfare-2-beta-dates-multiplayer-cross-play-maps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
