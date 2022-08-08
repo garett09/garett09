@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a bunch of clowns calling themselves teachers](http://9gag.com/gag/aXrBjbV)
- - 🚯 [Lets make that the law](http://9gag.com/gag/a119QE2)
- - 🚯 [How](http://9gag.com/gag/aGzXZBw)<!-- MEMES:END -->
+ - 🚖 [Kim memesible](http://9gag.com/gag/azen9Nx)
+ - 🚯 [It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron.](http://9gag.com/gag/aLvxgL6)
+ - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)<!-- MEMES:END -->
 
 --- 
 
