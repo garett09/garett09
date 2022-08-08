@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone stole Cameo CEO&#39;s Bored Ape NFT and Sold it for $130k     - CNET](https://www.cnet.com/personal-finance/crypto/someone-stole-cameo-ceos-bored-ape-nft-and-sold-it-for-130k/#ftag=CAD590a51e)
  - [China&#39;s Baidu secures permits for a fully driverless commercial robotaxi service in Chongqing and Wuhan that will operate largely in zones with revamped roads &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220807/p8#a220807p8)
- - [Samsung One UI 5 beta now rolling out in the US &lpar;Updated: Official details&rpar;](https://www.androidauthority.com/samsung-one-ui-5-beta-us-3193946/)
- - [&#39;Westworld&#39; Season 4, Episode 7 Recap: &#39;Metanoia&#39;     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-7-recap-metanoia/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung One UI 5 beta now rolling out in the US &lpar;Updated: Official details&rpar;](https://www.androidauthority.com/samsung-one-ui-5-beta-us-3193946/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
