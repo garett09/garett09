@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`WOMAN`](http://9gag.com/gag/abg7pm8)
- - 🚯 [Since then, priest is missing](http://9gag.com/gag/aLvxMbv)
- - 🚯 [Emotional damage](http://9gag.com/gag/ajgpXK0)<!-- MEMES:END -->
+ - 🚖 [Close call](http://9gag.com/gag/avANGKn)
+ - 🚯 [`WOMAN`](http://9gag.com/gag/abg7pm8)
+ - 🚯 [Story keeps going](http://9gag.com/gag/aOQwzPr)<!-- MEMES:END -->
 
 --- 
 
