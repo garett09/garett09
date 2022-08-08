@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a start](http://9gag.com/gag/ang6Mrn)
- - 🚯 [Just do it](http://9gag.com/gag/azenqNb)
+ - 🚖 [R.I.P Carlo Bonomi, the original voice of Pingu. 1937-2022](http://9gag.com/gag/axB5102)
+ - 🚯 [Yep](http://9gag.com/gag/avANOdW)
  - 🚯 [Thank you and RIP](http://9gag.com/gag/aAGjxx0)<!-- MEMES:END -->
 
 --- 
