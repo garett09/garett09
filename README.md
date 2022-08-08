@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG‘s latest earbuds include head-tracking spatial audio](https://www.theverge.com/2022/8/7/23295905/lg-tone-free-t90-tf8-announced-features)
- - [Prey: Ending, Post-Credits Tease and Old School Predator Easter Egg Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-post-credits-tease-and-old-school-predator-easter-egg-explained/#ftag=CAD590a51e)
- - [The Best Netflix Sci-Fi Movies You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-sci-fi-movies-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s Baidu secures permits for a fully driverless commercial robotaxi service in Chongqing and Wuhan that will operate largely in zones with revamped roads &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220807/p8#a220807p8)
+ - [Samsung One UI 5 beta now rolling out in the US &lpar;Updated: Official details&rpar;](https://www.androidauthority.com/samsung-one-ui-5-beta-us-3193946/)
+ - [&#39;Westworld&#39; Season 4, Episode 7 Recap: &#39;Metanoia&#39;     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-7-recap-metanoia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
