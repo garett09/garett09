@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Leaks Send Blizzard Into Damage Control](https://kotaku.com/diablo-iv-blizzard-leaks-beta-test-1849384904)
- - [Bloodstained: Curse of the Moon developer reveals an adorable co-op Castlevania-like](https://www.polygon.com/23296748/grim-guardians-demon-purge-bloodstained-castlevania-trailer-details)
- - [How to complete the Ranni quest in Elden Ring](https://www.pcgamer.com/elden-ring-ranni-quest-nokron)<!-- GAME:END -->
+ - [EVO 2022&#39;s Hypest Moment Was Everyone Losing Their Minds During Dragon Ball FighterZ](https://kotaku.com/dragon-ball-fighter-cell-yell-evo-shanks-legendaryypred-1849385165)
+ - [Jujutsu Kaisen 0, Akira, and more exciting anime movies are heading to Crunchyroll](https://www.polygon.com/23296945/jujutsu-kaisen-0-akira-crunchyroll-anime-movies)
+ - [The DC super-pets that didn’t make it into the movie &lpar;but should have&rpar;](https://www.polygon.com/23291000/dc-super-pets-movie-characters-comics-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
