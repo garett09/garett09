@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues fifth watchOS 9 developer beta to testers](https://appleinsider.com/articles/22/08/08/apple-issues-fifth-watchos-9-developer-beta-to-testers?utm_medium=rss)
- - [Apple seeds fifth developer beta of tvOS 16](https://appleinsider.com/articles/22/08/08/apple-seeds-fifth-developer-beta-of-tvos-16?utm_medium=rss)
- - [Apple issues fourth developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/08/08/apple-issues-fourth-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [iOS 16 beta 5 returns battery percentage to the status bar](https://appleinsider.com/articles/22/08/08/ios-16-beta-5-returns-battery-percentage-to-the-status-bar?utm_medium=rss)
+ - [Mario Kart 8’s new DLC tracks are more &lpar;or less&rpar; of a good thing](https://www.theverge.com/2022/8/8/23296909/mario-kart-8-deluxes-wave-2-second-tracks-dlc-impressions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
