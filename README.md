@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlas 6 Dual-Band mesh review: a beginner-friendly way to add mesh networking to your home](https://appleinsider.com/articles/22/08/07/atlas-6-dual-band-mesh-review-a-beginner-friendly-way-to-add-mesh-networking-to-your-home?utm_medium=rss)
- - [Call of Duty: Modern Warfare II beta is coming in September](https://www.theverge.com/2022/8/7/23296069/call-of-duty-modern-warfare-2-beta-coming-september-playstation-xbox-pc)
- - [Best Laptop for College 2022     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG‘s latest earbuds include head-tracking spatial audio](https://www.theverge.com/2022/8/7/23295905/lg-tone-free-t90-tf8-announced-features)
+ - [Prey: Ending, Post-Credits Tease and Old School Predator Easter Egg Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-post-credits-tease-and-old-school-predator-easter-egg-explained/#ftag=CAD590a51e)
+ - [The Best Netflix Sci-Fi Movies You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-sci-fi-movies-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
