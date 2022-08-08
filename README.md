@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up sleep schedules in iOS](https://www.theverge.com/23296761/sleep-schedules-ios-health-app-how-to)
- - [Lewis Hamilton Almost Played a Fighter Pilot in &#39;Top Gun: Maverick&#39;     - CNET](https://www.cnet.com/roadshow/news/lewis-hamilton-top-gun-maverick-fighter-pilot-vanity-fair-interview/#ftag=CAD590a51e)
- - [Analyst Says Apple Will Ship 1.5 Million AR/VR Headsets in 2023 at $2,000     - CNET](https://www.cnet.com/tech/computing/analyst-says-apple-will-ship-1-5-million-arvr-headsets-in-2023-at-2000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Coolers for 2022: Cabela, Magellan Outdoors, Yeti, RTIC and More     - CNET](https://www.cnet.com/news/best-coolers/#ftag=CAD590a51e)
+ - [The Biggest Galaxy Z Fold 4 Rumors Ahead of Samsung&#39;s Unpacked Event     - CNET](https://www.cnet.com/tech/mobile/biggest-galaxy-z-fold-4-rumors-ahead-of-samsung-unpacked-event/#ftag=CAD590a51e)
+ - [Best Vegetarian and Vegan Meal Delivery Services     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
