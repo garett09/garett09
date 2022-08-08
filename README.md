@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Close call](http://9gag.com/gag/avANGKn)
- - 🚯 [`WOMAN`](http://9gag.com/gag/abg7pm8)
- - 🚯 [Story keeps going](http://9gag.com/gag/aOQwzPr)<!-- MEMES:END -->
+ - 🚖 [Emotional damage](http://9gag.com/gag/ajgpXK0)
+ - 🚯 [Take responsibility for your actions](http://9gag.com/gag/aOQwBBE)
+ - 🚯 [The perfect earrings don&#39;t exi...](http://9gag.com/gag/a119Kjv)<!-- MEMES:END -->
 
 --- 
 
