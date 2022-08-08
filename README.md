@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple radically cuts down on acquiring firms for technology and talent](https://appleinsider.com/articles/22/08/08/apple-radically-cuts-down-on-acquiring-firms-for-technology-and-talent?utm_medium=rss)
- - [Daily deals August 8: $180 AirPods Pro, $225 Elgato Stream Deck XL, Eve smart home discounts, more](https://appleinsider.com/articles/22/08/08/daily-deals-august-8-180-airpods-pro-225-elgato-stream-deck-xl-eve-smart-home-discounts-more?utm_medium=rss)
- - [A profile of Celsius CEO Alex Mashinsky, as the company goes bankrupt; sources say he is a brash entrepreneur with a history of unhappy investors and colleagues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220808/p12#a220808p12)<!-- TECH:END -->
+ - [What to expect from Samsung&#39;s Unpacked event on August 10: the Galaxy Z Fold 4, Galaxy Z Flip 4, Galaxy Watch 5, Galaxy Buds Pro 2, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220808/p15#a220808p15)
+ - [The email from Slack to reset passwords is legit](https://appleinsider.com/articles/22/08/08/the-email-from-slack-to-reset-passwords-is-legit?utm_medium=rss)
+ - [Qualcomm and GlobalFoundries sign a multi-billion dollar revenue agreement to double long-term production, including expanding GlobalFoundries&#39; New York plant &lpar;Reuters&rpar;](http://www.techmeme.com/220808/p14#a220808p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
