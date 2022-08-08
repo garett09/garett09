@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f**kety f**k...](http://9gag.com/gag/aM4gY1A)
- - 🚯 [Man in his underwear protects family from Seattle robbers 3 times in one week](http://9gag.com/gag/azen1oK)
- - 🚯 [What a bunch of clowns calling themselves teachers](http://9gag.com/gag/aXrBjbV)<!-- MEMES:END -->
+ - 🚖 [What a bunch of clowns calling themselves teachers](http://9gag.com/gag/aXrBjbV)
+ - 🚯 [We are taxed too much. Average taxation rate in Belgium : 54%](http://9gag.com/gag/a21eR3Y)
+ - 🚯 [Insert **You Guys Are Getting Paid?**](http://9gag.com/gag/aBnp0DN)<!-- MEMES:END -->
 
 --- 
 
