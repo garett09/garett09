@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Black sci-fi and fantasy comics to read](https://www.polygon.com/23283652/black-sci-fi-fantasy-comics-best-list)
- - [Netflix Has Some Great Games But Nobody&#39;s Playing Them](https://kotaku.com/netflix-games-into-the-breach-subscribers-1-percent-1849385928)
- - [New Pac-Man movie will be live action, somehow](https://www.polygon.com/23297171/pac-man-movie-bandai-namco-wayfarer)<!-- GAME:END -->
+ - [Super Mario Bros. World Record Now Just A Half-Second Short Of A Perfect Run](https://kotaku.com/super-mario-bros-speedrunner-world-record-niftski-1849386352)
+ - [The Little League World Series is back — and so is its video game](https://www.polygon.com/23167466/little-league-world-series-baseball-2022-release-date)
+ - [12 Black sci-fi and fantasy comics to read](https://www.polygon.com/23283652/black-sci-fi-fantasy-comics-best-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
