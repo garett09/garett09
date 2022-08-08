@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect earrings don&#39;t exi...](http://9gag.com/gag/a119Kjv)
+ - 🚖 [`WOMAN`](http://9gag.com/gag/abg7pm8)
  - 🚯 [Take responsibility for your actions](http://9gag.com/gag/aOQwBBE)
- - 🚯 [GOLD](http://9gag.com/gag/a514bjV)<!-- MEMES:END -->
+ - 🚯 [Unnecessary but I want one...](http://9gag.com/gag/a119KNY)<!-- MEMES:END -->
 
 --- 
 
