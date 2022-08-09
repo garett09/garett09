@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Tis the season for foldables: Xiaomi announces Mix Fold 2 arrival](https://www.androidauthority.com/xiaomi-mix-fold-2-launch-3194575/)
- - [Amazon&#39;s planned acquisitions of Roomba and One Medical are emblematic of Andy Jassy&#39;s hunt for a so-called fourth &quot;pillar,&quot; beyond AWS, Prime, and Marketplace &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/220809/p2#a220809p2)
- - [Snapchat introduces parental controls through a new Family Center feature, letting parents see who teens are talking to but not view the content of the messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220809/p1#a220809p1)<!-- TECH:END -->
+ - [Default visibility settings of Amazon registries for weddings, new babies, and more are public, making sensitive personal data accessible to identity thieves &lpar;Nikita Mazurov/The Intercept&rpar;](http://www.techmeme.com/220809/p3#a220809p3)
+ - [Burger King just emailed everyone a blank receipt in a whopper of a mistake](https://www.theverge.com/2022/8/9/23297891/burger-king-blank-email-order-receipt)
+ - [‘Tis the season for foldables: Xiaomi announces Mix Fold 2 arrival](https://www.androidauthority.com/xiaomi-mix-fold-2-launch-3194575/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
