@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is reorganizing its app to better separate podcasts and music](https://www.theverge.com/2022/8/9/23298679/spotify-app-redesign-podcasts-music)
- - [Audi’s custom electric S1 ‘Hoonitron’ will visit the states for Monterey Car Week](https://www.theverge.com/2022/8/9/23298474/audi-electric-s1-quattro-etron-hoonitron-monterey-car-week-elektrikhana)
- - [Walmart is trying to build a streaming service, again](https://www.theverge.com/2022/8/9/23298617/walmart-streaming-service-tv-movies)<!-- TECH:END -->
+ - [Coinbase misses with Q2 revenue down 64% YoY to $808.3M, vs. $832.2M est., a $1.1B net loss, trading volume down 53% YoY to $217B, and 9M MTUs; stock falls ~5% &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220809/p30#a220809p30)
+ - [Here’s what iOS 16’s new battery percent indicator should have looked like](https://www.theverge.com/tldr/2022/8/9/23298785/apple-ios-16-better-battery-percent-indicator-mockup)
+ - [Final Cut Pro &amp; iMovie updates have fix for export &amp; playback bug](https://appleinsider.com/articles/22/08/09/final-cut-pro-imovie-updates-have-fix-for-export-playback-bug?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
