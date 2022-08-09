@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon: Arceus Chronicles is a new Pokémon special coming to Netflix](https://www.polygon.com/23298195/pokemon-arceus-chronicles-netflix-special-anime-ash-dawn-brock)
- - [Playground and Duos mode revealed for Rumbleverse launch, out August 11](https://blog.playstation.com/2022/08/09/playground-and-duos-mode-revealed-for-rumbleverse-launch-out-august-11/)
- - [One of League of Legends’ oldest champions finally has his rework](https://www.polygon.com/23296625/league-of-legends-udyr-rework-ability-kit-ultimate-passive-lol-riot-games)<!-- GAME:END -->
+ - [Master the Machine with Train Sim World 3 Launching  September 6](https://news.xbox.com/en-us/2022/08/09/master-the-machine-with-train-sim-world-3-launching-september-6/)
+ - [Netflix’s Do Revenge looks like Heathers for 2022](https://www.polygon.com/23298298/do-revenge-netflix-trailer-maya-hawke-camila-mendes)
+ - [Turtle Beach is in a race to find a buyer or else risk total upheaval](https://www.pcgamer.com/turtle-beach-acquisition-board-members)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
