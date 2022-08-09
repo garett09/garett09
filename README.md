@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals August 9: $247 LG 27-inch UHD Monitor, $230 3D Printer, Arlo discounts, more](https://appleinsider.com/articles/22/08/09/daily-deals-august-9-247-lg-27-inch-uhd-monitor-230-3d-printer-arlo-discounts-more?utm_medium=rss)
- - [A breakdown of the $7.6B+ in ETH that Tornado Cash received since 2019 shows 49.6% was from DeFi, 17.7% was from sanctioned entities, and 10.5% was stolen funds &lpar;Chainalysis&rpar;](http://www.techmeme.com/220809/p16#a220809p16)
- - [If you&#39;re having problems with Google search, you&#39;re not alone](https://appleinsider.com/articles/22/08/09/if-youre-having-problems-with-google-search-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
+ - [Should you buy a Snapdragon 8 Plus Gen 1 phone?](https://www.androidauthority.com/snapdragon-8-plus-gen-1-vs-8-gen-1-3191343/)
+ - [DNC wants influencers to make their midterm message go viral](https://www.theverge.com/2022/8/9/23298040/dnc-democrats-midterms-elections-tiktok-instagram-influencers)
+ - [AirPods will get USB-C charging cases in 2023, Kuo says](https://appleinsider.com/articles/22/08/09/airpods-will-get-usb-c-charging-cases-in-2023-kuo-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
