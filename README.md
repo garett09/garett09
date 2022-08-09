@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat introduces parental controls through a new Family Center feature, letting parents see who teens are talking to but not view the content of the messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220809/p1#a220809p1)
- - [Parallels Desktop 18 improves Windows app support &amp; gaming on Apple Silicon](https://appleinsider.com/articles/22/08/09/parallels-desktop-18-improves-windows-app-support-gaming-on-apple-silicon?utm_medium=rss)
- - [Playing PC Games on Mac Should Get Better With Parallels 18     - CNET](https://www.cnet.com/tech/services-and-software/playing-pc-games-on-mac-should-get-better-with-parallels-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Tis the season for foldables: Xiaomi announces Mix Fold 2 arrival](https://www.androidauthority.com/xiaomi-mix-fold-2-launch-3194575/)
+ - [Amazon&#39;s planned acquisitions of Roomba and One Medical are emblematic of Andy Jassy&#39;s hunt for a so-called fourth &quot;pillar,&quot; beyond AWS, Prime, and Marketplace &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/220809/p2#a220809p2)
+ - [Snapchat introduces parental controls through a new Family Center feature, letting parents see who teens are talking to but not view the content of the messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220809/p1#a220809p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
