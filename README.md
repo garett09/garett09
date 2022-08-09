@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 tips for keeping your villagers alive in survival city builder Farthest Frontier](https://www.pcgamer.com/farthest-frontier-tips-guide)
- - [Subnautica studio will reveal its new sci-fi strategy game at Gamescom](https://www.pcgamer.com/subnautica-studio-will-reveal-its-new-sci-fi-strategy-game-at-gamescom)
- - [Overwatch will stop selling loot boxes this month](https://www.pcgamer.com/overwatch-will-stop-selling-loot-boxes-this-month)<!-- GAME:END -->
+ - [Crossfire: Legion brings back the RTS genre while offering something for newcomers too](https://www.pcgamer.com/crossfire-legion-brings-back-the-rts-genre-while-offering-something-for-newcomers-too)
+ - [This Gorgeous B&amp;W 1950s B-Movie Shooter Doesn&#39;t Need Any Colors](https://kotaku.com/squad-51-vs-the-flying-saucers-trailer-switch-pc-ps4-1849391220)
+ - [Destiny 2 fans jump on leak as evidence that a new &#39;poison&#39; subclass coming](https://www.pcgamer.com/destiny-2-fans-jump-on-leak-as-evidence-that-a-new-poison-subclass-coming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
