@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto lender Hodlnaut follows other firms in freezing withdrawals](https://www.theverge.com/2022/8/9/23298057/cryptocurrency-lender-hodlnaut-freezes-withdrawals)
- - [Arlo’s wire-free video doorbell with smart alerts and a siren is on sale for $149](https://www.theverge.com/good-deals/2022/8/9/23298038/arlo-doorbell-floodlight-nvidia-microsoft-logitech-g435-deal-sale)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Street Fighter 6 is bringing the ‘80s &lpar;and feet&rpar; back](https://www.theverge.com/2022/8/9/23298235/street-fighter-6-kimberly-juri-reveal-trailer-capcom)
+ - [If you&#39;re having problems with Google search, you&#39;re not alone](https://appleinsider.com/articles/22/08/09/if-youre-having-problems-with-google-search-youre-not-alone?utm_medium=rss)
+ - [How to set up automatic wallpapers in iOS 16 and macOS Monterey](https://appleinsider.com/inside/ios-16/tips/how-to-set-up-automatic-wallpapers-in-ios-16-and-macos-monterey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
