@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Rare and exotic Rainbow Boa](http://9gag.com/gag/a119rN2)
- - 🚯 [You are ALL GUILTY of doing at least b one of these things.](http://9gag.com/gag/a31m1RN)
- - 🚯 [Marvel is made for children. Don&#39;t forget that.](http://9gag.com/gag/amg3PZy)<!-- MEMES:END -->
+ - 🚖 [You are ALL GUILTY of doing at least b one of these things.](http://9gag.com/gag/a31m1RN)
+ - 🚯 [Classy](http://9gag.com/gag/aAGjbqp)
+ - 🚯 [The Promise - Roger Federer surprises young fan with a match 5 years later](http://9gag.com/gag/aM4g4mP)<!-- MEMES:END -->
 
 --- 
 
