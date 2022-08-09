@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh this is gonna be good](http://9gag.com/gag/aqG0G3Z)
- - 🚯 [Kate Beckinsale in Van Helsing](http://9gag.com/gag/aOQwQgr)
- - 🚯 [Well thats f**ken stupid](http://9gag.com/gag/avANAzO)<!-- MEMES:END -->
+ - 🚖 [Karen inconvenienced by ambulance attending to a stabbing victim](http://9gag.com/gag/a41vonQ)
+ - 🚯 [I play cause my broke ass can&#39;t afford new pc](http://9gag.com/gag/aAGjGmg)
+ - 🚯 [This dude is a complete mess](http://9gag.com/gag/a31m1M1)<!-- MEMES:END -->
 
 --- 
 
