@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crossfire: Legion brings back the RTS genre while offering something for newcomers too](https://www.pcgamer.com/crossfire-legion-brings-back-the-rts-genre-while-offering-something-for-newcomers-too)
- - [This Gorgeous B&amp;W 1950s B-Movie Shooter Doesn&#39;t Need Any Colors](https://kotaku.com/squad-51-vs-the-flying-saucers-trailer-switch-pc-ps4-1849391220)
- - [Destiny 2 fans jump on leak as evidence that a new &#39;poison&#39; subclass coming](https://www.pcgamer.com/destiny-2-fans-jump-on-leak-as-evidence-that-a-new-poison-subclass-coming)<!-- GAME:END -->
+ - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
+ - [Prey is a different beast than most recent franchise blockbusters](https://www.polygon.com/23298437/prey-predator-hulu-legacy-franchise-prequel)
+ - [The Destiny 2 Burnout Is Real Right Now](https://kotaku.com/destiny-2-witch-deepsight-resonance-crafting-solstice-1849392326)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
