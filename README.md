@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Help, my teen Sims are trapped in a vicious cycle of misery and crushes](https://www.polygon.com/23297046/sims-4-high-school-years-teen-crushes-disaster)
- - [This Optimistic New Manga Is Why I Subscribe To Shonen Jump](https://kotaku.com/shonen-jump-akane-banashi-one-piece-manga-evangelion-1849391135)
- - [Overwatch Anniversary Remix Vol. 3 skins finally gives us ‘Ultraman Genji’](https://www.polygon.com/23298566/overwatch-anniversary-remix-vol-3-dates-skins)<!-- GAME:END -->
+ - [9 tips for keeping your villagers alive in survival city builder Farthest Frontier](https://www.pcgamer.com/farthest-frontier-tips-guide)
+ - [Subnautica studio will reveal its new sci-fi strategy game at Gamescom](https://www.pcgamer.com/subnautica-studio-will-reveal-its-new-sci-fi-strategy-game-at-gamescom)
+ - [Overwatch will stop selling loot boxes this month](https://www.pcgamer.com/overwatch-will-stop-selling-loot-boxes-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
