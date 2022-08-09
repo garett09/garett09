@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen inconvenienced by ambulance attending to a stabbing victim](http://9gag.com/gag/a41vonQ)
- - 🚯 [I play cause my broke ass can&#39;t afford new pc](http://9gag.com/gag/aAGjGmg)
- - 🚯 [This dude is a complete mess](http://9gag.com/gag/a31m1M1)<!-- MEMES:END -->
+ - 🚖 [Kate Beckinsale in Van Helsing](http://9gag.com/gag/aOQwQgr)
+ - 🚯 [Parkour](http://9gag.com/gag/aE83qRG)
+ - 🚯 [Something got out...](http://9gag.com/gag/aQXGEKe)<!-- MEMES:END -->
 
 --- 
 
