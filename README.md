@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`You teabagged my kid in Elden Ring for the last time, you little shit.`](http://9gag.com/gag/a119PyP)
- - 🚯 [Something got out...](http://9gag.com/gag/aQXGEKe)
- - 🚯 [Tru dat](http://9gag.com/gag/ang67nn)<!-- MEMES:END -->
+ - 🚖 [You can all argue where your country ranks. Im not getting involved](http://9gag.com/gag/awzwyex)
+ - 🚯 [Tru dat](http://9gag.com/gag/ang67nn)
+ - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
 --- 
 
