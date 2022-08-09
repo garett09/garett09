@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
- - [Prey is a different beast than most recent franchise blockbusters](https://www.polygon.com/23298437/prey-predator-hulu-legacy-franchise-prequel)
- - [The Destiny 2 Burnout Is Real Right Now](https://kotaku.com/destiny-2-witch-deepsight-resonance-crafting-solstice-1849392326)<!-- GAME:END -->
+ - [The best PC games for kids](https://game-rant-2022.blogspot.com/2022/08/the-best-pc-games-for-kids.html)
+ - [Trans streamer Keffals swatted and arrested in her home](https://www.polygon.com/23298726/keffals-swatted-twitch-streamer-london-ontario-police)
+ - [Halo Infinite Just Got Its Biggest Update Of The Summer](https://kotaku.com/halo-infinite-august-2022-patch-team-snipers-cross-core-1849392694)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
