@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy a Snapdragon 8 Plus Gen 1 phone?](https://www.androidauthority.com/snapdragon-8-plus-gen-1-vs-8-gen-1-3191343/)
- - [DNC wants influencers to make their midterm message go viral](https://www.theverge.com/2022/8/9/23298040/dnc-democrats-midterms-elections-tiktok-instagram-influencers)
- - [AirPods will get USB-C charging cases in 2023, Kuo says](https://appleinsider.com/articles/22/08/09/airpods-will-get-usb-c-charging-cases-in-2023-kuo-says?utm_medium=rss)<!-- TECH:END -->
+ - [Android amps up campaign to push Apple into adopting RCS](https://appleinsider.com/articles/22/08/09/android-pushes-apple-to-adopt-rcs?utm_medium=rss)
+ - [Google directly attacks Apple again over ‘green bubble’ nonsense](https://www.androidauthority.com/google-green-bubble-interview-3194383/)
+ - [Google tries publicly shaming Apple into adopting RCS](https://www.theverge.com/2022/8/9/23297951/google-apple-rcs-adoption-campaign-getthemessage-blue-green-messages)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
