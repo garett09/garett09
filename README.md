@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Could Keep Climate Change From Becoming Catastrophic?](https://www.wired.com/story/what-interventions-could-keep-climate-change-from-becoming-catastrophic/)
- - [11 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
- - [This Laser-Firing Truck Could Help Make Hot Cities More Livable](https://www.wired.com/story/this-laser-firing-truck-could-help-make-hot-cities-more-livable/)<!-- TECH:END -->
+ - [Fisher-Price reveals collectible &#39;Ted Lasso&#39; figure set](https://appleinsider.com/articles/22/08/09/fisher-price-reveals-collectible-ted-lasso-figure-set?utm_medium=rss)
+ - [Sonic’s gotta go fast for a third cinematic outing in December 2024](https://www.theverge.com/2022/8/9/23297992/sonic-the-hedgehog-3-live-action-movie-december-2024-release-date)
+ - [Micron plans to spend $40B by 2030 to expand US chip manufacturing capacity, aided by government grants and credits, and expects to begin production after 2025 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/220809/p13#a220809p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
