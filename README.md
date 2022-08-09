@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kate Beckinsale in Van Helsing](http://9gag.com/gag/aOQwQgr)
- - 🚯 [Parkour](http://9gag.com/gag/aE83qRG)
- - 🚯 [Something got out...](http://9gag.com/gag/aQXGEKe)<!-- MEMES:END -->
+ - 🚖 [Some day you&#39;ll find your dream job. Never don&#39;t give up](http://9gag.com/gag/amg3oN2)
+ - 🚯 [`You teabagged my kid in Elden Ring for the last time, you little shit.`](http://9gag.com/gag/a119PyP)
+ - 🚯 [Ezra Miller is A-train](http://9gag.com/gag/awzwZ91)<!-- MEMES:END -->
 
 --- 
 
