@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego builder recreates Elden Ring’s Wandering Mausoleum in astonishing detail](https://www.polygon.com/23297283/elden-ring-lego-wandering-mausoleum)
- - [Prey is the perfect blueprint for a killer Predator game](https://www.pcgamer.com/prey-is-the-perfect-blueprint-for-a-killer-predator-game)
- - [Researchers find way to shrink a VR headset down to normal glasses size](https://www.pcgamer.com/researchers-find-way-to-shrink-a-vr-headset-down-to-normal-glasses-size)<!-- GAME:END -->
+ - [Help, my teen Sims are trapped in a vicious cycle of misery and crushes](https://www.polygon.com/23297046/sims-4-high-school-years-teen-crushes-disaster)
+ - [This Optimistic New Manga Is Why I Subscribe To Shonen Jump](https://kotaku.com/shonen-jump-akane-banashi-one-piece-manga-evangelion-1849391135)
+ - [Overwatch Anniversary Remix Vol. 3 skins finally gives us ‘Ultraman Genji’](https://www.polygon.com/23298566/overwatch-anniversary-remix-vol-3-dates-skins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
