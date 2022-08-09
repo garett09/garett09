@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 416 answer and hint: Tuesday, August 9](https://www.pcgamer.com/todays-wordle-416-answer-hint)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 8&rpar;](https://news.xbox.com/en-us/2022/08/08/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-8/)
- - [Marvel&#39;s XCOM Game Delayed Once Again](https://kotaku.com/marvel-xcom-firaxis-midnight-suns-delay-delayed-2023-1849387832)<!-- GAME:END -->
+ - [Sonic’s third movie has a release date, but will Jim Carrey return?](https://www.polygon.com/23297955/sonic-the-hedgehog-3-movie-release-date-jim-carrey)
+ - [The X-COM itch &#39;never goes away&#39;, says X-COM creator Julian Gollop](https://www.pcgamer.com/the-x-com-itch-never-goes-away-says-x-com-creator-julian-gollop)
+ - [Today&#39;s Wordle 416 answer and hint: Tuesday, August 9](https://www.pcgamer.com/todays-wordle-416-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
