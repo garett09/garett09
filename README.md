@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some day you&#39;ll find your dream job. Never don&#39;t give up](http://9gag.com/gag/amg3oN2)
+ - 🚖 [Monthly reminder](http://9gag.com/gag/a41vo91)
  - 🚯 [`You teabagged my kid in Elden Ring for the last time, you little shit.`](http://9gag.com/gag/a119PyP)
- - 🚯 [Ezra Miller is A-train](http://9gag.com/gag/awzwZ91)<!-- MEMES:END -->
+ - 🚯 [Karen inconvenienced by ambulance attending to a stabbing victim](http://9gag.com/gag/a41vonQ)<!-- MEMES:END -->
 
 --- 
 
