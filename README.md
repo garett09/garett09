@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android amps up campaign to push Apple into adopting RCS](https://appleinsider.com/articles/22/08/09/android-pushes-apple-to-adopt-rcs?utm_medium=rss)
- - [Google directly attacks Apple again over ‘green bubble’ nonsense](https://www.androidauthority.com/google-green-bubble-interview-3194383/)
- - [Google tries publicly shaming Apple into adopting RCS](https://www.theverge.com/2022/8/9/23297951/google-apple-rcs-adoption-campaign-getthemessage-blue-green-messages)<!-- TECH:END -->
+ - [Crypto lender Hodlnaut follows other firms in freezing withdrawals](https://www.theverge.com/2022/8/9/23298057/cryptocurrency-lender-hodlnaut-freezes-withdrawals)
+ - [Arlo’s wire-free video doorbell with smart alerts and a siren is on sale for $149](https://www.theverge.com/good-deals/2022/8/9/23298038/arlo-doorbell-floodlight-nvidia-microsoft-logitech-g435-deal-sale)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
