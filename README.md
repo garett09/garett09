@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring patch nerfs the infamous Rivers of Blood, expands summoning](https://www.polygon.com/23298064/elden-ring-patch-106-rivers-of-blood-corpse-piler-varre-quest)
  - [This Skyrim bard magic mod lets you use your Spice Girls collection to smite enemies](https://www.pcgamer.com/this-skyrim-bard-magic-mod-lets-you-use-your-spice-girls-collection-to-smite-enemies)
- - [Luck, John Lasseter’s return to animation, feels like Pixar gone wrong](https://www.polygon.com/23297359/luck-review-john-lasseter-skydance-animation)
- - [Read your future with 22 videogame interpretations of the Tarot](https://www.pcgamer.com/read-your-future-with-22-videogame-interpretations-of-the-tarot)<!-- GAME:END -->
+ - [Luck, John Lasseter’s return to animation, feels like Pixar gone wrong](https://www.polygon.com/23297359/luck-review-john-lasseter-skydance-animation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
