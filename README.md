@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Master the Machine with Train Sim World 3 Launching  September 6](https://news.xbox.com/en-us/2022/08/09/master-the-machine-with-train-sim-world-3-launching-september-6/)
- - [Netflix’s Do Revenge looks like Heathers for 2022](https://www.polygon.com/23298298/do-revenge-netflix-trailer-maya-hawke-camila-mendes)
- - [Turtle Beach is in a race to find a buyer or else risk total upheaval](https://www.pcgamer.com/turtle-beach-acquisition-board-members)<!-- GAME:END -->
+ - [Lego builder recreates Elden Ring’s Wandering Mausoleum in astonishing detail](https://www.polygon.com/23297283/elden-ring-lego-wandering-mausoleum)
+ - [Prey is the perfect blueprint for a killer Predator game](https://www.pcgamer.com/prey-is-the-perfect-blueprint-for-a-killer-predator-game)
+ - [Researchers find way to shrink a VR headset down to normal glasses size](https://www.pcgamer.com/researchers-find-way-to-shrink-a-vr-headset-down-to-normal-glasses-size)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
