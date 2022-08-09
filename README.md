@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is your least favorite?](http://9gag.com/gag/aZre78z)
- - 🚯 [Corona? War in Europe? What are you talking about? Let&#39;s go for another round of Mario 64](http://9gag.com/gag/aegLD7b)
- - 🚯 [We are taxed too much. Average taxation rate in Belgium : 54%](http://9gag.com/gag/a21eR3Y)<!-- MEMES:END -->
+ - 🚖 [Gwailou](http://9gag.com/gag/amg3Pb2)
+ - 🚯 [Body positivity or something](http://9gag.com/gag/aWgzEA6)
+ - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/abg7Vdp)<!-- MEMES:END -->
 
 --- 
 
