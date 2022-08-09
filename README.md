@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring patch nerfs the infamous Rivers of Blood, expands summoning](https://www.polygon.com/23298064/elden-ring-patch-106-rivers-of-blood-corpse-piler-varre-quest)
- - [This Skyrim bard magic mod lets you use your Spice Girls collection to smite enemies](https://www.pcgamer.com/this-skyrim-bard-magic-mod-lets-you-use-your-spice-girls-collection-to-smite-enemies)
- - [Luck, John Lasseter’s return to animation, feels like Pixar gone wrong](https://www.polygon.com/23297359/luck-review-john-lasseter-skydance-animation)<!-- GAME:END -->
+ - [Pokémon: Arceus Chronicles is a new Pokémon special coming to Netflix](https://www.polygon.com/23298195/pokemon-arceus-chronicles-netflix-special-anime-ash-dawn-brock)
+ - [Playground and Duos mode revealed for Rumbleverse launch, out August 11](https://blog.playstation.com/2022/08/09/playground-and-duos-mode-revealed-for-rumbleverse-launch-out-august-11/)
+ - [One of League of Legends’ oldest champions finally has his rework](https://www.polygon.com/23296625/league-of-legends-udyr-rework-ability-kit-ultimate-passive-lol-riot-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
