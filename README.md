@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How David can be even more terrifying than before](https://game-rant-2022.blogspot.com/2022/08/how-david-can-be-even-more-terrifying.html)
- - [&#39;Winter could be longer&#39; because unicorns won&#39;t accept down rounds, says SoftBank leader - TechCrunch](https://game-rant-2022.blogspot.com/2022/08/winter-could-be-longer-because-unicorns.html)
- - [Video game characters whose pain was turned into a meme](https://game-rant-2022.blogspot.com/2022/08/video-game-characters-whose-pain-was.html)<!-- GAME:END -->
+ - [Take-Two&#39;s Q1 Shaped by Zynga Acquisition, Recession](https://game-rant-2022.blogspot.com/2022/08/take-twos-q1-shaped-by-zynga.html)
+ - [Have a Nice Death Dev Talks How Fast Food Update Highlights Dangers of Processed Foods](https://game-rant-2022.blogspot.com/2022/08/have-nice-death-dev-talks-how-fast-food.html)
+ - [This Skyrim mod recreates the best part of Shadow of Mordor: the nemesis system](https://game-rant-2022.blogspot.com/2022/08/this-skyrim-mod-recreates-best-part-of.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
