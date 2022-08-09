@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two&#39;s Q1 Shaped by Zynga Acquisition, Recession](https://game-rant-2022.blogspot.com/2022/08/take-twos-q1-shaped-by-zynga.html)
- - [Have a Nice Death Dev Talks How Fast Food Update Highlights Dangers of Processed Foods](https://game-rant-2022.blogspot.com/2022/08/have-nice-death-dev-talks-how-fast-food.html)
- - [This Skyrim mod recreates the best part of Shadow of Mordor: the nemesis system](https://game-rant-2022.blogspot.com/2022/08/this-skyrim-mod-recreates-best-part-of.html)<!-- GAME:END -->
+ - [Marvel&#39;s XCOM Game Delayed Once Again](https://kotaku.com/marvel-xcom-firaxis-midnight-suns-delay-delayed-2023-1849387832)
+ - [GTA 6 will set creative bars &#39;for all entertainment,&#39; declares publisher](https://www.pcgamer.com/gta-6-will-set-creative-bars-for-all-entertainment-declares-publisher)
+ - [Super Punch-Out!!&#39;s Secret Two-Player Mode Has Been Found After 28 Years](https://kotaku.com/super-punch-out-two-2-player-cheat-mode-snes-nintendo-1849387561)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
