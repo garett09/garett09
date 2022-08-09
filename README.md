@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These Minecraft ancient city redesigns are gloriously green](https://www.pcgamer.com/minecraft-ancient-city-redesigns)
  - [The best PC games for kids](https://game-rant-2022.blogspot.com/2022/08/the-best-pc-games-for-kids.html)
- - [Trans streamer Keffals swatted and arrested in her home](https://www.polygon.com/23298726/keffals-swatted-twitch-streamer-london-ontario-police)
- - [Halo Infinite Just Got Its Biggest Update Of The Summer](https://kotaku.com/halo-infinite-august-2022-patch-team-snipers-cross-core-1849392694)<!-- GAME:END -->
+ - [Trans streamer Keffals swatted and arrested in her home](https://www.polygon.com/23298726/keffals-swatted-twitch-streamer-london-ontario-police)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
