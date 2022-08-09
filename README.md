@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is where they are](http://9gag.com/gag/abg7A19)
- - 🚯 [You can all argue where your country ranks. Im not getting involved](http://9gag.com/gag/awzwyex)
+ - 🚖 [But of course my religion is the real one.](http://9gag.com/gag/aXrBMA9)
+ - 🚯 [Rest on bedding](http://9gag.com/gag/a514Q8g)
  - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
 --- 
