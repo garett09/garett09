@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Street Fighter 6 is bringing the ‘80s &lpar;and feet&rpar; back](https://www.theverge.com/2022/8/9/23298235/street-fighter-6-kimberly-juri-reveal-trailer-capcom)
- - [If you&#39;re having problems with Google search, you&#39;re not alone](https://appleinsider.com/articles/22/08/09/if-youre-having-problems-with-google-search-youre-not-alone?utm_medium=rss)
- - [How to set up automatic wallpapers in iOS 16 and macOS Monterey](https://appleinsider.com/inside/ios-16/tips/how-to-set-up-automatic-wallpapers-in-ios-16-and-macos-monterey?utm_medium=rss)<!-- TECH:END -->
+ - [CreatorDAO, a DAO providing capital and operational support to creators for a cut of future earnings, raised a $20M seed led by a16z and Initialized Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220809/p24#a220809p24)
+ - [How to fast-forward through a TikTok video](https://www.theverge.com/22565619/tiktok-video-fast-forward)
+ - [Spotify now includes separate feeds for Music and Podcasts &amp; Shows on the home screen of its Android app to better highlight recommendations; coming to iOS soon &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220809/p23#a220809p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
