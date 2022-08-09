@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase misses with Q2 revenue down 64% YoY to $808.3M, vs. $832.2M est., a $1.1B net loss, trading volume down 53% YoY to $217B, and 9M MTUs; stock falls ~5% &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220809/p30#a220809p30)
- - [Here’s what iOS 16’s new battery percent indicator should have looked like](https://www.theverge.com/tldr/2022/8/9/23298785/apple-ios-16-better-battery-percent-indicator-mockup)
- - [Final Cut Pro &amp; iMovie updates have fix for export &amp; playback bug](https://appleinsider.com/articles/22/08/09/final-cut-pro-imovie-updates-have-fix-for-export-playback-bug?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Walmart has held talks with Paramount, Disney, and Comcast, as the retailer explores bundling a streaming service into its Walmart+ membership program &lpar;New York Times&rpar;](http://www.techmeme.com/220809/p34#a220809p34)
+ - [Dozens of Whole Foods stores will soon let you pay with just a scan of your palm](https://www.theverge.com/2022/8/9/23298684/amazon-one-expanding-palm-print-reading-technology-california-whole-foods)
+ - [Ex-Twitter employee convicted of spying for Saudi Arabia](https://www.theverge.com/2022/8/9/23298841/former-twitter-employee-convicted-spying-saudi-arabia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
