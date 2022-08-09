@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/abg7Vdp)
- - 🚯 [See you in heaven, Rest In Peace Olivia Newton-John](http://9gag.com/gag/aDDydzO)
- - 🚯 [The Rare and exotic Rainbow Boa](http://9gag.com/gag/a119rN2)<!-- MEMES:END -->
+ - 🚖 [The Rare and exotic Rainbow Boa](http://9gag.com/gag/a119rN2)
+ - 🚯 [You are ALL GUILTY of doing at least b one of these things.](http://9gag.com/gag/a31m1RN)
+ - 🚯 [Marvel is made for children. Don&#39;t forget that.](http://9gag.com/gag/amg3PZy)<!-- MEMES:END -->
 
 --- 
 
