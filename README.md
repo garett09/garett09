@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tru dat](http://9gag.com/gag/ang67nn)
+ - 🚖 [This is where they are](http://9gag.com/gag/abg7A19)
  - 🚯 [You can all argue where your country ranks. Im not getting involved](http://9gag.com/gag/awzwyex)
  - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
