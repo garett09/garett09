@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s BlenderBot 3 chatbot, released in the US on August 5, repeats antisemitic stereotypes, claims Donald Trump is the current US president, and more &lpar;Katherine Tangalakis-Lippert/Insider&rpar;](http://www.techmeme.com/220809/p6#a220809p6)
  - [WhatsApp rolls out privacy features to let users leave Groups silently, choose who can see when they are online, and block screenshots of View Once messages &lpar;WABetaInfo&rpar;](http://www.techmeme.com/220809/p5#a220809p5)
- - [ByteDance acquired Amcare Healthcare, one of China&#39;s largest private hospital chains, source says for about $1.5B, deepening its foray into health care &lpar;Bloomberg&rpar;](http://www.techmeme.com/220809/p4#a220809p4)
- - [WhatsApp’s new update makes it easier to avoid your friends](https://www.theverge.com/2022/8/9/23297350/whatsapp-privacy-update-hide-online-status-quietly-leave-group-chats)<!-- TECH:END -->
+ - [ByteDance acquired Amcare Healthcare, one of China&#39;s largest private hospital chains, source says for about $1.5B, deepening its foray into health care &lpar;Bloomberg&rpar;](http://www.techmeme.com/220809/p4#a220809p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
