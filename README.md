@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Fans Rejoice As Dreaded Bloodhound Step Nerfed In Enormous Gameplay Update](https://kotaku.com/elden-ring-update-bloodhound-step-corpse-piler-blood-1849388686)
- - [Micron&#39;s investing $40B so your next SSD, RAM, or GPU memory chips might be made in the USA](https://www.pcgamer.com/microns-investing-dollar40b-so-your-next-ssd-ram-or-gpu-memory-chips-might-be-made-in-the-usa)
- - [This city builder that lives on my desktop has turned me into the world&#39;s worst landlord](https://www.pcgamer.com/this-city-builder-that-lives-on-my-desktop-has-turned-me-into-the-worlds-worst-landlord)<!-- GAME:END -->
+ - [This Skyrim bard magic mod lets you use your Spice Girls collection to smite enemies](https://www.pcgamer.com/this-skyrim-bard-magic-mod-lets-you-use-your-spice-girls-collection-to-smite-enemies)
+ - [Luck, John Lasseter’s return to animation, feels like Pixar gone wrong](https://www.polygon.com/23297359/luck-review-john-lasseter-skydance-animation)
+ - [Read your future with 22 videogame interpretations of the Tarot](https://www.pcgamer.com/read-your-future-with-22-videogame-interpretations-of-the-tarot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
