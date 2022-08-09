@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: Oppo’s Color OS 13 is launching next week](https://www.androidauthority.com/color-os-13-launch-3194593/)
- - [Daily Authority: 📱 OnePlus and Oppo’s German ousting](https://www.androidauthority.com/daily-authority-august-9-2022-3194087/)
- - [Meta&#39;s BlenderBot 3 chatbot, released in the US on August 5, repeats antisemitic stereotypes, claims Donald Trump is the current US president, and more &lpar;Katherine Tangalakis-Lippert/Insider&rpar;](http://www.techmeme.com/220809/p6#a220809p6)<!-- TECH:END -->
+ - [Sources: Beijing has grown frustrated with a years-long failure to develop semiconductors that can replace US chips, capped by anti-graft probes into top execs &lpar;Bloomberg&rpar;](http://www.techmeme.com/220809/p9#a220809p9)
+ - [The Double Life of the Bloodsucking Sea Lamprey](https://www.wired.com/story/the-double-life-of-invasive-sea-lampreys/)
+ - [Apple Pay launches in Malaysia after false start](https://appleinsider.com/articles/22/08/09/apple-pay-launches-in-malaysia-after-false-start?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
