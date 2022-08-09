@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [1950 Studebaker XF58 Ice Princess](http://9gag.com/gag/aGzXzO7)
- - 🚯 [Monthly reminder](http://9gag.com/gag/a41vo91)
- - 🚯 [Off with his bread \ud83e\udd56](http://9gag.com/gag/aPZ5Z9w)<!-- MEMES:END -->
+ - 🚯 [Off with his bread \ud83e\udd56](http://9gag.com/gag/aPZ5Z9w)
+ - 🚯 [Oh yes, the Czech streets](http://9gag.com/gag/a71Q1wq)<!-- MEMES:END -->
 
 --- 
 
