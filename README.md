@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap is planning to lay off employees](https://www.theverge.com/2022/8/8/23297637/snap-snapchat-layoff-plans-weak-q2-earnings)
- - [The Hilarious British TV Show Everyone Needs to Watch     - CNET](https://www.cnet.com/culture/entertainment/my-favorite-streaming-show-is-about-a-giant-sweaty-crime-scene-cleaner/#ftag=CAD590a51e)
- - [Here&#39;s When House of the Dragon Hits in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-house-of-the-dragon-hits-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp lets users delete a private or group chat message up to two days and 12 hours after sending it; previously, users were allowed a little over an hour &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220808/p24#a220808p24)
+ - [It&#39;s Time to Ditch the Leap Second: The Devastating Effect of Adding Just One Second     - CNET](https://www.cnet.com/tech/computing/its-time-to-ditch-the-leap-second-the-devastating-effect-of-adding-just-one-second/#ftag=CAD590a51e)
+ - [Oppo and OnePlus have halted sales in Germany after a court found the two companies were using 5G technology without paying for appropriate patents from Nokia &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/220808/p23#a220808p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
