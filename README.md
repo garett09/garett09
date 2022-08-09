@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp lets users delete a private or group chat message up to two days and 12 hours after sending it; previously, users were allowed a little over an hour &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220808/p24#a220808p24)
- - [It&#39;s Time to Ditch the Leap Second: The Devastating Effect of Adding Just One Second     - CNET](https://www.cnet.com/tech/computing/its-time-to-ditch-the-leap-second-the-devastating-effect-of-adding-just-one-second/#ftag=CAD590a51e)
- - [Oppo and OnePlus have halted sales in Germany after a court found the two companies were using 5G technology without paying for appropriate patents from Nokia &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/220808/p23#a220808p23)<!-- TECH:END -->
+ - [Snapchat introduces parental controls through a new Family Center feature, letting parents see who teens are talking to but not view the content of the messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220809/p1#a220809p1)
+ - [Parallels Desktop 18 improves Windows app support &amp; gaming on Apple Silicon](https://appleinsider.com/articles/22/08/09/parallels-desktop-18-improves-windows-app-support-gaming-on-apple-silicon?utm_medium=rss)
+ - [Playing PC Games on Mac Should Get Better With Parallels 18     - CNET](https://www.cnet.com/tech/services-and-software/playing-pc-games-on-mac-should-get-better-with-parallels-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
