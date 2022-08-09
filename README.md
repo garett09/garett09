@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can all argue where your country ranks. Im not getting involved](http://9gag.com/gag/awzwyex)
- - 🚯 [Tru dat](http://9gag.com/gag/ang67nn)
+ - 🚖 [Tru dat](http://9gag.com/gag/ang67nn)
+ - 🚯 [You can all argue where your country ranks. Im not getting involved](http://9gag.com/gag/awzwyex)
  - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
 --- 
