@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fisher-Price reveals collectible &#39;Ted Lasso&#39; figure set](https://appleinsider.com/articles/22/08/09/fisher-price-reveals-collectible-ted-lasso-figure-set?utm_medium=rss)
- - [Sonic’s gotta go fast for a third cinematic outing in December 2024](https://www.theverge.com/2022/8/9/23297992/sonic-the-hedgehog-3-live-action-movie-december-2024-release-date)
- - [Micron plans to spend $40B by 2030 to expand US chip manufacturing capacity, aided by government grants and credits, and expects to begin production after 2025 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/220809/p13#a220809p13)<!-- TECH:END -->
+ - [Daily deals August 9: $247 LG 27-inch UHD Monitor, $230 3D Printer, Arlo discounts, more](https://appleinsider.com/articles/22/08/09/daily-deals-august-9-247-lg-27-inch-uhd-monitor-230-3d-printer-arlo-discounts-more?utm_medium=rss)
+ - [A breakdown of the $7.6B+ in ETH that Tornado Cash received since 2019 shows 49.6% was from DeFi, 17.7% was from sanctioned entities, and 10.5% was stolen funds &lpar;Chainalysis&rpar;](http://www.techmeme.com/220809/p16#a220809p16)
+ - [If you&#39;re having problems with Google search, you&#39;re not alone](https://appleinsider.com/articles/22/08/09/if-youre-having-problems-with-google-search-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
