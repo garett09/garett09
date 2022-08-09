@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic’s third movie has a release date, but will Jim Carrey return?](https://www.polygon.com/23297955/sonic-the-hedgehog-3-movie-release-date-jim-carrey)
- - [The X-COM itch &#39;never goes away&#39;, says X-COM creator Julian Gollop](https://www.pcgamer.com/the-x-com-itch-never-goes-away-says-x-com-creator-julian-gollop)
- - [Today&#39;s Wordle 416 answer and hint: Tuesday, August 9](https://www.pcgamer.com/todays-wordle-416-answer-hint)<!-- GAME:END -->
+ - [Elden Ring Fans Rejoice As Dreaded Bloodhound Step Nerfed In Enormous Gameplay Update](https://kotaku.com/elden-ring-update-bloodhound-step-corpse-piler-blood-1849388686)
+ - [Micron&#39;s investing $40B so your next SSD, RAM, or GPU memory chips might be made in the USA](https://www.pcgamer.com/microns-investing-dollar40b-so-your-next-ssd-ram-or-gpu-memory-chips-might-be-made-in-the-usa)
+ - [This city builder that lives on my desktop has turned me into the world&#39;s worst landlord](https://www.pcgamer.com/this-city-builder-that-lives-on-my-desktop-has-turned-me-into-the-worlds-worst-landlord)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
