@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 8&rpar;](https://news.xbox.com/en-us/2022/08/08/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-8/)
  - [Marvel&#39;s XCOM Game Delayed Once Again](https://kotaku.com/marvel-xcom-firaxis-midnight-suns-delay-delayed-2023-1849387832)
- - [GTA 6 will set creative bars &#39;for all entertainment,&#39; declares publisher](https://www.pcgamer.com/gta-6-will-set-creative-bars-for-all-entertainment-declares-publisher)
- - [Super Punch-Out!!&#39;s Secret Two-Player Mode Has Been Found After 28 Years](https://kotaku.com/super-punch-out-two-2-player-cheat-mode-snes-nintendo-1849387561)<!-- GAME:END -->
+ - [GTA 6 will set creative bars &#39;for all entertainment,&#39; declares publisher](https://www.pcgamer.com/gta-6-will-set-creative-bars-for-all-entertainment-declares-publisher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
