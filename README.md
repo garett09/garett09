@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Walmart has held talks with Paramount, Disney, and Comcast, as the retailer explores bundling a streaming service into its Walmart+ membership program &lpar;New York Times&rpar;](http://www.techmeme.com/220809/p34#a220809p34)
- - [Dozens of Whole Foods stores will soon let you pay with just a scan of your palm](https://www.theverge.com/2022/8/9/23298684/amazon-one-expanding-palm-print-reading-technology-california-whole-foods)
- - [Ex-Twitter employee convicted of spying for Saudi Arabia](https://www.theverge.com/2022/8/9/23298841/former-twitter-employee-convicted-spying-saudi-arabia)<!-- TECH:END -->
+ - [Court and financial docs show a complex relationship between Voyager and Sam Bankman-Fried&#39;s Alameda, including a possible $1.6B crypto asset loan from Voyager &lpar;CNBC&rpar;](http://www.techmeme.com/220809/p36#a220809p36)
+ - [One of 5G&#39;s Biggest Features Is a Security Minefield](https://www.wired.com/story/5g-api-flaws/)
+ - [Microsoft celebrates 15 years of OneDrive with a redesign and new features](https://www.theverge.com/2022/8/9/23298562/microsoft-15-years-onedrive-home-redesign-new-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
