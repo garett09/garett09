@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen inconvenienced by ambulance attending to a stabbing victim](http://9gag.com/gag/a41vonQ)
- - 🚯 [And WB chose to fire Depp over him](http://9gag.com/gag/a21eK29)
- - 🚯 [Ezra Miller](http://9gag.com/gag/aegLQ35)<!-- MEMES:END -->
+ - 🚖 [Ezra Miller is A-train](http://9gag.com/gag/awzwZ91)
+ - 🚯 [`You teabagged my kid in Elden Ring for the last time, you little shit.`](http://9gag.com/gag/a119PyP)
+ - 🚯 [This is where they are](http://9gag.com/gag/abg7A19)<!-- MEMES:END -->
 
 --- 
 
