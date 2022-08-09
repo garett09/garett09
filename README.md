@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ezra Miller is A-train](http://9gag.com/gag/awzwZ91)
- - 🚯 [`You teabagged my kid in Elden Ring for the last time, you little shit.`](http://9gag.com/gag/a119PyP)
- - 🚯 [This is where they are](http://9gag.com/gag/abg7A19)<!-- MEMES:END -->
+ - 🚖 [`You teabagged my kid in Elden Ring for the last time, you little shit.`](http://9gag.com/gag/a119PyP)
+ - 🚯 [Something got out...](http://9gag.com/gag/aQXGEKe)
+ - 🚯 [Tru dat](http://9gag.com/gag/ang67nn)<!-- MEMES:END -->
 
 --- 
 
