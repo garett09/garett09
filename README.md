@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;re playing Call of Cthulhu but your mate brought his DnD barbarian sheet](http://9gag.com/gag/aAGjeyR)
- - 🚯 [Sick prank PATRIK!!](http://9gag.com/gag/aPZ5RbP)
- - 🚯 [Sieg](http://9gag.com/gag/aDDy4zG)<!-- MEMES:END -->
+ - 🚖 [Sieg](http://9gag.com/gag/aDDy4zG)
+ - 🚯 [And if a guy did that he&#39;d be labeled a creep, a weirdo perv, list goes on.](http://9gag.com/gag/aAGjeqo)
+ - 🚯 [See you in heaven, Rest In Peace Olivia Newton-John](http://9gag.com/gag/aDDydzO)<!-- MEMES:END -->
 
 --- 
 
