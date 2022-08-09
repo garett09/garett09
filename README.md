@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CreatorDAO, a DAO providing capital and operational support to creators for a cut of future earnings, raised a $20M seed led by a16z and Initialized Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220809/p24#a220809p24)
- - [How to fast-forward through a TikTok video](https://www.theverge.com/22565619/tiktok-video-fast-forward)
- - [Spotify now includes separate feeds for Music and Podcasts &amp; Shows on the home screen of its Android app to better highlight recommendations; coming to iOS soon &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220809/p23#a220809p23)<!-- TECH:END -->
+ - [Column, a public benefit company that provides software to streamline the placement of public notices in newspapers, raised a $30M Series A led by Lux Capital &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220809/p27#a220809p27)
+ - [Big Takeaways From the FBI&#39;s Mar-a-Lago Raid](https://www.wired.com/story/trump-fbi-raid-mar-a-lago/)
+ - [Unity announces it has struck a deal to create Unity China, a joint venture valued at $1B, with partners including Alibaba, China Mobile, Oppo, and Douyin Group &lpar;Reuters&rpar;](http://www.techmeme.com/220809/p26#a220809p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
