@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto.com says it has secured registrations to operate as a virtual asset service provider in South Korea, acquires two local startups for undisclosed amounts &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220808/p21#a220808p21)
- - [You now have two days to delete that embarrassing WhatsApp message](https://www.theverge.com/2022/8/8/23297405/whatsapp-delete-texts-for-everyone-meta-apple-imessage)
- - [Samsung Galaxy Z Flip 4: What we know so far and what we want to see &lpar;August 8&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-4-release-date-rumors-specs-price-features-3175642/)<!-- TECH:END -->
+ - [Snap is planning to lay off employees](https://www.theverge.com/2022/8/8/23297637/snap-snapchat-layoff-plans-weak-q2-earnings)
+ - [The Hilarious British TV Show Everyone Needs to Watch     - CNET](https://www.cnet.com/culture/entertainment/my-favorite-streaming-show-is-about-a-giant-sweaty-crime-scene-cleaner/#ftag=CAD590a51e)
+ - [Here&#39;s When House of the Dragon Hits in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-house-of-the-dragon-hits-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
