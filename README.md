@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But of course my religion is the real one.](http://9gag.com/gag/aXrBMA9)
- - 🚯 [You have mama\u2019d your last mia](http://9gag.com/gag/aQXGgKW)
+ - 🚖 [This song turned 10 this year... Damn.](http://9gag.com/gag/aNPN9G0)
+ - 🚯 [Had an accident, helicopter transport plus 2 weeks of ICU, total amount to pay, thanks european healthcare system](http://9gag.com/gag/amg3oX6)
  - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
 --- 
