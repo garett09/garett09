@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are ALL GUILTY of doing at least b one of these things.](http://9gag.com/gag/a31m1RN)
- - 🚯 [Classy](http://9gag.com/gag/aAGjbqp)
- - 🚯 [The Promise - Roger Federer surprises young fan with a match 5 years later](http://9gag.com/gag/aM4g4mP)<!-- MEMES:END -->
+ - 🚖 [1950 Studebaker XF58 Ice Princess](http://9gag.com/gag/aGzXzO7)
+ - 🚯 [Monthly reminder](http://9gag.com/gag/a41vo91)
+ - 🚯 [Off with his bread \ud83e\udd56](http://9gag.com/gag/aPZ5Z9w)<!-- MEMES:END -->
 
 --- 
 
