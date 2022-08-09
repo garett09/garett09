@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 416 answer and hint: Tuesday, August 9](https://www.pcgamer.com/todays-wordle-416-answer-hint)
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 8&rpar;](https://news.xbox.com/en-us/2022/08/08/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-8/)
- - [Marvel&#39;s XCOM Game Delayed Once Again](https://kotaku.com/marvel-xcom-firaxis-midnight-suns-delay-delayed-2023-1849387832)
- - [GTA 6 will set creative bars &#39;for all entertainment,&#39; declares publisher](https://www.pcgamer.com/gta-6-will-set-creative-bars-for-all-entertainment-declares-publisher)<!-- GAME:END -->
+ - [Marvel&#39;s XCOM Game Delayed Once Again](https://kotaku.com/marvel-xcom-firaxis-midnight-suns-delay-delayed-2023-1849387832)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
