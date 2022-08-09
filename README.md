@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Column, a public benefit company that provides software to streamline the placement of public notices in newspapers, raised a $30M Series A led by Lux Capital &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220809/p27#a220809p27)
- - [Big Takeaways From the FBI&#39;s Mar-a-Lago Raid](https://www.wired.com/story/trump-fbi-raid-mar-a-lago/)
- - [Unity announces it has struck a deal to create Unity China, a joint venture valued at $1B, with partners including Alibaba, China Mobile, Oppo, and Douyin Group &lpar;Reuters&rpar;](http://www.techmeme.com/220809/p26#a220809p26)<!-- TECH:END -->
+ - [Spotify is reorganizing its app to better separate podcasts and music](https://www.theverge.com/2022/8/9/23298679/spotify-app-redesign-podcasts-music)
+ - [Audi’s custom electric S1 ‘Hoonitron’ will visit the states for Monterey Car Week](https://www.theverge.com/2022/8/9/23298474/audi-electric-s1-quattro-etron-hoonitron-monterey-car-week-elektrikhana)
+ - [Walmart is trying to build a streaming service, again](https://www.theverge.com/2022/8/9/23298617/walmart-streaming-service-tv-movies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
