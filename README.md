@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1950 Studebaker XF58 Ice Princess](http://9gag.com/gag/aGzXzO7)
- - 🚯 [Off with his bread \ud83e\udd56](http://9gag.com/gag/aPZ5Z9w)
- - 🚯 [Oh yes, the Czech streets](http://9gag.com/gag/a71Q1wq)<!-- MEMES:END -->
+ - 🚖 [Oh this is gonna be good](http://9gag.com/gag/aqG0G3Z)
+ - 🚯 [Kate Beckinsale in Van Helsing](http://9gag.com/gag/aOQwQgr)
+ - 🚯 [Well thats f**ken stupid](http://9gag.com/gag/avANAzO)<!-- MEMES:END -->
 
 --- 
 
