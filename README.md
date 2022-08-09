@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Beijing has grown frustrated with a years-long failure to develop semiconductors that can replace US chips, capped by anti-graft probes into top execs &lpar;Bloomberg&rpar;](http://www.techmeme.com/220809/p9#a220809p9)
- - [The Double Life of the Bloodsucking Sea Lamprey](https://www.wired.com/story/the-double-life-of-invasive-sea-lampreys/)
- - [Apple Pay launches in Malaysia after false start](https://appleinsider.com/articles/22/08/09/apple-pay-launches-in-malaysia-after-false-start?utm_medium=rss)<!-- TECH:END -->
+ - [What Could Keep Climate Change From Becoming Catastrophic?](https://www.wired.com/story/what-interventions-could-keep-climate-change-from-becoming-catastrophic/)
+ - [11 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
+ - [This Laser-Firing Truck Could Help Make Hot Cities More Livable](https://www.wired.com/story/this-laser-firing-truck-could-help-make-hot-cities-more-livable/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
