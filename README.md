@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigabyte begins seeding its X670E motherboards](https://www.pcgamer.com/gigabyte-begins-seeding-its-x670e-motherboards)
  - [Spider-Man Remastered PC launch times are here](https://www.pcgamer.com/spider-man-pc-launch-time)
- - [Tokyo Stories Looks Very Cool](https://kotaku.com/tokyo-stories-pixel-art-3d-indie-japanese-game-1849393527)
- - [Overwatch&#39;s Paid Loot Boxes Are Finally Going Away](https://kotaku.com/overwatch-loot-box-dead-gone-rip-blizzard-dlc-1849393465)<!-- GAME:END -->
+ - [Tokyo Stories Looks Very Cool](https://kotaku.com/tokyo-stories-pixel-art-3d-indie-japanese-game-1849393527)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
