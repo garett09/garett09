@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS, Splunk, IBM, CrowdStrike, Cloudflare, Okta, and 12 others announce the Open Cybersecurity Schema Framework to help monitor hacking attempts &lpar;Kim S. Nash/Wall Street Journal&rpar;](http://www.techmeme.com/220810/p7#a220810p7)
- - [Best 4K Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sloppy Use of Machine Learning is Causing a ‘Reproducibility Crisis’ in Science](https://www.wired.com/story/machine-learning-reproducibility-crisis/)
+ - [Three Possible Futures of the Monkeypox Epidemic](https://www.wired.com/story/three-possible-futures-of-the-monkeypox-epidemic/)
+ - [Facebook turns over mother and daughter’s chat history to police resulting in abortion charges](https://www.theverge.com/2022/8/10/23299502/facebook-chat-messenger-history-nebraska-teen-abortion-case)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
