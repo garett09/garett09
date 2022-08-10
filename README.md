@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to humble Ake in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/ac-valhalla-ake-flyting-sigrblot-festival)
- - [Turns Out The Afterlife Is Bullet Hell In Stylish Upcoming HD-2D Adventure](https://kotaku.com/restless-soul-switch-pc-bullet-hell-fuz-games-1849395439)
- - [Microsoft is bringing Minecraft Legends, Lies of P, and a whole bunch more to Gamescom](https://www.pcgamer.com/microsoft-is-bringing-minecraft-legends-lies-of-p-and-a-whole-bunch-more-to-gamescom)<!-- GAME:END -->
+ - [The PS Plus Library Keeps Getting Bigger—And Keeps Forgetting The Classics](https://kotaku.com/ps-plus-extra-premium-bugsnax-yakuza-ps4-ps5-1849395972)
+ - [What if Avatar: The Last Airbender was a spy thriller?](https://www.polygon.com/23298721/avatar-the-last-airbender-dawn-of-yangchen-fc-yee-author-interview)
+ - [Gen Con organizers ‘deeply troubled’ over Indiana’s abortion ban, some vendors back out](https://www.polygon.com/23298755/gencon-abortion-indiana-conservative-near-total-ban-protest-moving-new-venue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
