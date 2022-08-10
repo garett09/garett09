@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balkan bro moment](http://9gag.com/gag/adgEe19)
+ - 🚖 [Your daughter will love it...](http://9gag.com/gag/aqG0WWY)
  - 🚯 [Crimean anti air gone with the wind &lpar;top left&rpar;](http://9gag.com/gag/amg3xbd)
- - 🚯 [Geniune advice](http://9gag.com/gag/a1195D6)<!-- MEMES:END -->
+ - 🚯 [Yep! It is addicting](http://9gag.com/gag/a31m8KN)<!-- MEMES:END -->
 
 --- 
 
