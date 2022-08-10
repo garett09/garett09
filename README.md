@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Galaxy Unpacked: Catch the Galaxy Z Fold 4 reveal and more!](https://www.androidauthority.com/watch-galaxy-unpacked-august-2022-3194751/)
- - [Las Vegas-based Fortress Blockchain Technologies, which is building financial, regulatory, and tech B2B infrastructure for Web3 companies, raised a $22.5M seed &lpar;JD Alois/Crowdfund Insider&rpar;](http://www.techmeme.com/220810/p4#a220810p4)
- - [Download these new Google Pixel wallpapers inspired by Indigenous Day](https://www.androidauthority.com/download-google-august-wallpapers-3195026/)<!-- TECH:END -->
+ - [Urbanista brings solar-powered headphone tech to true wireless earbuds](https://www.theverge.com/2022/8/10/23299492/urbanista-phoenix-solar-powered-true-wireless-earbuds-charging-case-exeger-powerfoyle)
+ - [WhatsApp adds a critical security feature to view once messages](https://www.androidauthority.com/whatsapp-new-features-august-3195040/)
+ - [Best Over-Ear Headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
