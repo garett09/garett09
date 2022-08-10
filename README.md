@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sometimes the old is better then the new.](http://9gag.com/gag/ajgpx0G)
- - 🚯 [I didn&#39;t hear no bell !](http://9gag.com/gag/aBnpPwN)
- - 🚯 [Good edit](http://9gag.com/gag/aPZ585n)<!-- MEMES:END -->
+ - 🚯 [Good edit](http://9gag.com/gag/aPZ585n)
+ - 🚯 [Crimean anti air gone with the wind &lpar;top left&rpar;](http://9gag.com/gag/amg3xbd)<!-- MEMES:END -->
 
 --- 
 
