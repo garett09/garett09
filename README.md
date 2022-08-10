@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tower of Fantasy’s character creator is perfect for making Genshin Impact characters](https://www.polygon.com/23300394/tower-of-fantasy-launch-genshin-impact)
  - [With guns drawn, police raid home of trans Twitch streamer Clara &#39;Keffals&#39; Sorrenti in latest swatting debacle](https://www.pcgamer.com/keffals-swatting)
- - [Cards Against Humanity to donate sales from ‘forced-birth Republican hellholes’ to abortion funds](https://www.polygon.com/23300475/cards-against-humanity-abortion-funds-new-packs)
- - [$30 Humble Bundle Bags You A Shitton Of Resident Evil Games](https://kotaku.com/humble-bundle-resident-evil-leon-village-lady-d-zombies-1849397498)<!-- GAME:END -->
+ - [Cards Against Humanity to donate sales from ‘forced-birth Republican hellholes’ to abortion funds](https://www.polygon.com/23300475/cards-against-humanity-abortion-funds-new-packs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
