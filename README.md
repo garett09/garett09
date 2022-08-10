@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court and financial docs show a complex relationship between Voyager and Sam Bankman-Fried&#39;s Alameda, including a possible $1.6B crypto asset loan from Voyager &lpar;CNBC&rpar;](http://www.techmeme.com/220809/p36#a220809p36)
- - [One of 5G&#39;s Biggest Features Is a Security Minefield](https://www.wired.com/story/5g-api-flaws/)
- - [Microsoft celebrates 15 years of OneDrive with a redesign and new features](https://www.theverge.com/2022/8/9/23298562/microsoft-15-years-onedrive-home-redesign-new-features)<!-- TECH:END -->
+ - [Biden adviser Tim Wu denies reports of him leaving the White House, saying &quot;I&#39;m not leaving anytime soon - still have lots of work to do&quot; &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220809/p38#a220809p38)
+ - [Watch SpaceX Teams Guide Starship Booster in Place By Hand For Key Test Firing     - CNET](https://www.cnet.com/science/space/watch-spacex-teams-guide-starship-booster-in-place-by-hand-for-key-test-firing/#ftag=CAD590a51e)
+ - [Nebraska Police Obtained Facebook Messages About Teen&#39;s Alleged Abortion     - CNET](https://www.cnet.com/news/social-media/nebraska-police-obtained-facebook-messages-about-teens-alleged-abortion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
