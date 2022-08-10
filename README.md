@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your daughter will love it...](http://9gag.com/gag/aqG0WWY)
- - 🚯 [Crimean anti air gone with the wind &lpar;top left&rpar;](http://9gag.com/gag/amg3xbd)
- - 🚯 [Yep! It is addicting](http://9gag.com/gag/a31m8KN)<!-- MEMES:END -->
+ - 🚖 [Best Marriage Ever](http://9gag.com/gag/a81Z20V)
+ - 🚯 [Step in the right direction](http://9gag.com/gag/aBnpGNz)
+ - 🚯 [Just kidding](http://9gag.com/gag/ay9G1LM)<!-- MEMES:END -->
 
 --- 
 
