@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A dead Father buys his son a guitar. Parents are amazing. -](http://9gag.com/gag/apgOAv8)
- - 🚯 [Best Marriage Ever](http://9gag.com/gag/a81Z20V)
- - 🚯 [Step in the right direction](http://9gag.com/gag/aBnpGNz)<!-- MEMES:END -->
+ - 🚖 [&#39;sup?](http://9gag.com/gag/a41vqbw)
+ - 🚯 [Step in the right direction](http://9gag.com/gag/aBnpGNz)
+ - 🚯 [Your daughter will love it...](http://9gag.com/gag/aqG0WWY)<!-- MEMES:END -->
 
 --- 
 
