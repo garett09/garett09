@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT startup Dapper Labs hires Nick Grudin, formerly Meta&#39;s Head of Content Partnerships for 12 years, as chief business officer &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220810/p28#a220810p28)
- - [Samsung&#39;s New Galaxy Z Flip 4 Evolves Its Design: How It&#39;s Changed Since the Flip 3     - CNET](https://www.cnet.com/tech/mobile/samsung-new-galaxy-z-flip-4-evolves-its-design-how-its-changed/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 5 Pro Specs vs. Watch 5, Watch 4: Comparing the New Watches     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-specs-vs-watch-5-watch-4-comparing-the-new-watches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How an iPhone battery works and how to manage its health](https://appleinsider.com/articles/22/08/10/how-an-iphone-battery-works-and-how-to-manage-its-health?utm_medium=rss)
+ - [Ralph Nader urges regulators to recall Tesla’s ‘manslaughtering’ Full Self-Driving vehicles](https://www.theverge.com/2022/8/10/23299973/ralph-nader-tesla-fsd-recall-nhtsa-autopilot-crash)
+ - [Apple TV+ now includes everyone and Jon Hamm](https://appleinsider.com/articles/22/08/10/apple-tv-now-includes-everyone-and-jon-hamm?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
