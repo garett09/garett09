@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to spot hidden cameras in AirBnbs and hotel rooms to protect your privacy](http://9gag.com/gag/a119DzG)
- - 🚯 [There is skills, and then there is this!](http://9gag.com/gag/aPZ5mpP)
- - 🚯 [`It&#39;s just a baby. It&#39;s just a baby. Can&#39;t kill little human. Just breathe` - cat probably](http://9gag.com/gag/aDDy8xN)<!-- MEMES:END -->
+ - 🚖 [Man gifts fianc\u00e9 with lost childhood teddy bear](http://9gag.com/gag/aBnpVd2)
+ - 🚯 [Louis Rossmann on Right to Repair- $1500 vs $12 to fix your MacBook.](http://9gag.com/gag/a21e8OE)
+ - 🚯 [How to spot hidden cameras in AirBnbs and hotel rooms to protect your privacy](http://9gag.com/gag/a119DzG)<!-- MEMES:END -->
 
 --- 
 
