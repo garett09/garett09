@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden adviser Tim Wu denies reports of him leaving the White House, saying &quot;I&#39;m not leaving anytime soon - still have lots of work to do&quot; &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220809/p38#a220809p38)
- - [Watch SpaceX Teams Guide Starship Booster in Place By Hand For Key Test Firing     - CNET](https://www.cnet.com/science/space/watch-spacex-teams-guide-starship-booster-in-place-by-hand-for-key-test-firing/#ftag=CAD590a51e)
- - [Nebraska Police Obtained Facebook Messages About Teen&#39;s Alleged Abortion     - CNET](https://www.cnet.com/news/social-media/nebraska-police-obtained-facebook-messages-about-teens-alleged-abortion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to expand its Amazon One palm-recognition payment system to 65+ Whole Foods across California in the coming weeks, marking its first broad rollout &lpar;Russell Redman/Supermarket News&rpar;](http://www.techmeme.com/220809/p40#a220809p40)
+ - [Sources: Taiwan&#39;s national security officials want Foxconn to unwind its $800M stake in Chinese chip company Tsinghua Unigroup, which was announced last month &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/220809/p39#a220809p39)
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
