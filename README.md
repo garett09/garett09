@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamescom 2022 schedule: all the shows and reveals you can watch this year](https://www.pcgamer.com/gamescom-2022-schedule-dates)
- - [People are dragging Forspoken’s dialogue-stuffed trailer](https://www.polygon.com/23300007/forspoken-trailer-dialogue-voiceover-meme-joss-whedon)
- - [Mortal Kombat’s new animated movie is for the hardcore Kenshi fans](https://www.polygon.com/23300029/mortal-kombat-snow-blind-animated-movie-trailer-release-date)<!-- GAME:END -->
+ - [Only A Computer Could Do This Super Mario Bros. Trick—Until Now](https://kotaku.com/super-mario-bros-speedrun-frame-rule-4-2-world-record-1849396620)
+ - [After nearly 30 years, Elite Dangerous and Planet Coaster studio CEO David Braben steps down](https://www.pcgamer.com/after-nearly-30-years-elite-dangerous-and-planet-coaster-studio-ceo-david-braben-steps-down)
+ - [$30 will get you Resident Evil 0 through 7 in new Humble Bundle](https://www.polygon.com/23299977/resident-evil-humble-bundle-sale-steam-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
