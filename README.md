@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Only A Computer Could Do This Super Mario Bros. Trick—Until Now](https://kotaku.com/super-mario-bros-speedrun-frame-rule-4-2-world-record-1849396620)
- - [After nearly 30 years, Elite Dangerous and Planet Coaster studio CEO David Braben steps down](https://www.pcgamer.com/after-nearly-30-years-elite-dangerous-and-planet-coaster-studio-ceo-david-braben-steps-down)
- - [$30 will get you Resident Evil 0 through 7 in new Humble Bundle](https://www.polygon.com/23299977/resident-evil-humble-bundle-sale-steam-pc)<!-- GAME:END -->
+ - [Now You Can Play Stray From The Cat&#39;s Purr-Spective](https://kotaku.com/stray-fp-mod-pc-first-person-view-perspective-cat-game-1849397012)
+ - [Activision Pulls Cute But Stolen Call Of Duty Skin, Apologizes For ‘Misstep’](https://kotaku.com/call-of-duty-activision-sail-lin-loyal-samoyed-stolen-1849396914)
+ - [Nintendo Faces A Second Labor Complaint Amid Worker Frustrations](https://kotaku.com/nintendo-switch-labor-complaint-nlrb-lawsuit-union-1849396722)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
