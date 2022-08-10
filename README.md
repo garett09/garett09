@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For 15 years, Max has been scared of vacuum cleaners. Recently we got a new one and he seemed quite interested in it, so I decided to try vacuuming him. I think he actually enjoyed it... The amount of fur that got out is hilarious](http://9gag.com/gag/ajgpB7q)
+ - 🚖 [`Just be confident, bro`](http://9gag.com/gag/a1195zR)
  - 🚯 [Express delivery to the ground floor!](http://9gag.com/gag/avANEjZ)
- - 🚯 [Good edit](http://9gag.com/gag/aPZ585n)<!-- MEMES:END -->
+ - 🚯 [Love the truth](http://9gag.com/gag/avANEvb)<!-- MEMES:END -->
 
 --- 
 
