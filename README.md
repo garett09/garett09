@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Invisv&#39;s Pretty Good Phone Privacy mobile data service, available in beta on Android, which is designed to separate users from specific identifiers &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220810/p27#a220810p27)
- - [Hyper announces &#39;world&#39;s first&#39; 245W GaN charger, portable battery pack](https://appleinsider.com/articles/22/08/10/hyper-announces-worlds-first-245w-gan-charger-portable-battery-pack?utm_medium=rss)
- - [The Steam Deck makes PlayStation’s biggest games portable](https://www.theverge.com/2022/8/10/23298962/steam-deck-marvels-spider-man-remastered-playstation-portable-games)<!-- TECH:END -->
+ - [NFT startup Dapper Labs hires Nick Grudin, formerly Meta&#39;s Head of Content Partnerships for 12 years, as chief business officer &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220810/p28#a220810p28)
+ - [Samsung&#39;s New Galaxy Z Flip 4 Evolves Its Design: How It&#39;s Changed Since the Flip 3     - CNET](https://www.cnet.com/tech/mobile/samsung-new-galaxy-z-flip-4-evolves-its-design-how-its-changed/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 5 Pro Specs vs. Watch 5, Watch 4: Comparing the New Watches     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-specs-vs-watch-5-watch-4-comparing-the-new-watches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
