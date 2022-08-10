@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These Cult of the Lamb beginner tips will help you build your flock](https://www.pcgamer.com/cult-of-the-lamb-tips-guide)
- - [Cult of the Lamb followers guide: How to help your flock thrive](https://www.pcgamer.com/cult-of-the-lamb-followers)
- - [Here&#39;s every doctrine you can unlock in Cult of the Lamb](https://www.pcgamer.com/cult-of-the-lamb-doctrines)<!-- GAME:END -->
+ - [How to humble Ake in Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/ac-valhalla-ake-flyting-sigrblot-festival)
+ - [Turns Out The Afterlife Is Bullet Hell In Stylish Upcoming HD-2D Adventure](https://kotaku.com/restless-soul-switch-pc-bullet-hell-fuz-games-1849395439)
+ - [Microsoft is bringing Minecraft Legends, Lies of P, and a whole bunch more to Gamescom](https://www.pcgamer.com/microsoft-is-bringing-minecraft-legends-lies-of-p-and-a-whole-bunch-more-to-gamescom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
