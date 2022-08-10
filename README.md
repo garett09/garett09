@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Guerrilla created Vegas in Horizon Forbidden West](https://blog.playstation.com/2022/08/10/how-guerrilla-created-vegas-in-horizon-forbidden-west/)
- - [How Guerrilla created Vegas in Horizon Forbidden West](https://blog.playstation.com/2022/08/10/how-guerrilla-created-vegas-in-horizon-forbidden-west/)
- - [Xbox at gamescom 2022](https://news.xbox.com/en-us/2022/08/10/xbox-at-gamescom-2022/)<!-- GAME:END -->
+ - [A mobile ad tech company wants to buy Unity for $17.5B](https://www.pcgamer.com/a-mobile-ad-tech-company-wants-to-buy-unity-for-dollar175b)
+ - [Everything new in Splatoon 3 from today’s Nintendo Direct](https://www.polygon.com/23299655/splatoon-3-nintendo-direct-news-announcements-video)
+ - [Splatoon’s Splatfest returns with a 4v2v2 twist in Splatoon 3](https://www.polygon.com/23299627/splatoon-3-splatfest-theme-demo-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
