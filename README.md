@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult of the Lamb review](https://www.pcgamer.com/cult-of-the-lamb-review)
- - [Surreal Apex Legends bug is doing a switcheroo on character abilities](https://www.pcgamer.com/surreal-apex-legends-bug-is-doing-a-switcheroo-on-character-abilities)
- - [After years of &#39;development hell&#39;, the Half-Life 2 VR mod is finally getting a public beta](https://www.pcgamer.com/after-years-of-development-hell-the-half-life-2-vr-mod-is-finally-getting-a-public-beta)<!-- GAME:END -->
+ - [How Guerrilla created Vegas in Horizon Forbidden West](https://blog.playstation.com/2022/08/10/how-guerrilla-created-vegas-in-horizon-forbidden-west/)
+ - [How Guerrilla created Vegas in Horizon Forbidden West](https://blog.playstation.com/2022/08/10/how-guerrilla-created-vegas-in-horizon-forbidden-west/)
+ - [Xbox at gamescom 2022](https://news.xbox.com/en-us/2022/08/10/xbox-at-gamescom-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
