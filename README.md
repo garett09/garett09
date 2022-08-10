@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 14 may cost more than you’d expect](https://www.theverge.com/2022/8/10/23300000/iphone-14-more-expensive-cost-iphone-13-pro-max-apple-rumors)
- - [Microsoft makes its 1,538 3D emoji library available in open source on GitHub and Figma, allowing creators to remix and customize them for free &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220810/p29#a220810p29)
- - [How to Play Netflix Games like Into the Breach and Krispee Street](https://www.wired.com/story/how-to-play-netflix-games/)<!-- TECH:END -->
+ - [Meta’s Portal finds new life as a productivity tool](https://www.theverge.com/2022/8/10/23299937/meta-portal-duet-display-companion-app-second-screen-mac-pc)
+ - [How to take pictures on BeReal](https://www.theverge.com/23299821/bereal-download-take-photo-how-to)
+ - [How the FBI’s Mar-a-Lago Raid Could Expose Trump’s Secrets](https://www.wired.com/story/trump-mar-a-lago-raid-fbi-privacy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
