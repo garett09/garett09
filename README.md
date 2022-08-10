@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Never Have I Ever season 3 is racing toward the end](https://www.polygon.com/23296868/never-have-i-ever-season-3-review)
- - [Gigabyte begins seeding its X670E motherboards](https://www.pcgamer.com/gigabyte-begins-seeding-its-x670e-motherboards)
- - [Spider-Man Remastered PC launch times are here](https://www.pcgamer.com/spider-man-pc-launch-time)<!-- GAME:END -->
+ - [Windows 11 used with modern CPUs could lead to encrypted data corruption](https://www.pcgamer.com/windows-11-ready-cpus-may-be-susceptible-to-encrypted-data-corruption)
+ - [Today&#39;s Wordle 417 answer and hint: Wednesday, August 10](https://www.pcgamer.com/todays-wordle-417-answer-hint)
+ - [Never Have I Ever season 3 is racing toward the end](https://www.polygon.com/23296868/never-have-i-ever-season-3-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
