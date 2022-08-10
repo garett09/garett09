@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches Get The Message publicity campaign to pressure Apple to support RCS over SMS/MMS, highlights problems like low-res photos/videos, no e2ee, more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220810/p2#a220810p2)
  - [Meta says the warrants in Nebraska case didn&#39;t mention abortion, only the burning and burial of a stillborn, came before Roe&#39;s reversal, and had a gag order &lpar;Meta&rpar;](http://www.techmeme.com/220810/p1#a220810p1)
- - [Elon Musk changes plans, sells $6.9 billion in Tesla shares with Twitter trial looming](https://www.theverge.com/2022/8/9/23299343/elon-musk-tesla-stock-sells-twitter-trial)
- - [Cloudflare says its employees fell victim to an SMS phishing scam but the company&#39;s use of hardware MFA keys stopped hackers from accessing its internal network &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220809/p42#a220809p42)<!-- TECH:END -->
+ - [2024 Hyundai Ioniq 6 Prototype First Drive Review: Replicating Success     - CNET](https://www.cnet.com/roadshow/news/2024-hyundai-ioniq-6-ev-prototype-first-drive-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
