@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Never Have I Ever season 3 is racing toward the end](https://www.polygon.com/23296868/never-have-i-ever-season-3-review)
  - [Gigabyte begins seeding its X670E motherboards](https://www.pcgamer.com/gigabyte-begins-seeding-its-x670e-motherboards)
- - [Spider-Man Remastered PC launch times are here](https://www.pcgamer.com/spider-man-pc-launch-time)
- - [Tokyo Stories Looks Very Cool](https://kotaku.com/tokyo-stories-pixel-art-3d-indie-japanese-game-1849393527)<!-- GAME:END -->
+ - [Spider-Man Remastered PC launch times are here](https://www.pcgamer.com/spider-man-pc-launch-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
