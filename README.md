@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Now You Can Play Stray From The Cat&#39;s Purr-Spective](https://kotaku.com/stray-fp-mod-pc-first-person-view-perspective-cat-game-1849397012)
- - [Activision Pulls Cute But Stolen Call Of Duty Skin, Apologizes For ‘Misstep’](https://kotaku.com/call-of-duty-activision-sail-lin-loyal-samoyed-stolen-1849396914)
- - [Nintendo Faces A Second Labor Complaint Amid Worker Frustrations](https://kotaku.com/nintendo-switch-labor-complaint-nlrb-lawsuit-union-1849396722)<!-- GAME:END -->
+ - [$30 Humble Bundle Bags You A Shitton Of Resident Evil Games](https://kotaku.com/humble-bundle-resident-evil-leon-village-lady-d-zombies-1849397498)
+ - [He wanted faster internet, Comcast wanted $50,000, so he made his own ISP](https://www.pcgamer.com/he-wanted-faster-internet-comcast-wanted-dollar50000-so-he-made-his-own-isp)
+ - [Destiny 2 Plug One Adept god roll: The best weapon perks to get](https://www.pcgamer.com/destiny-2-plug-one-adept-god-roll)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
