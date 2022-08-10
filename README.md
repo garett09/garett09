@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This song turned 10 this year... Damn.](http://9gag.com/gag/aNPN9G0)
- - 🚯 [Had an accident, helicopter transport plus 2 weeks of ICU, total amount to pay, thanks european healthcare system](http://9gag.com/gag/amg3oX6)
+ - 🚖 [Kids vs. Tesla...](http://9gag.com/gag/aDDy7xO)
+ - 🚯 [Dude messed with the wrong person](http://9gag.com/gag/a514BRE)
  - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
 --- 
