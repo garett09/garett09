@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Elon Musk sold around 7.9M Tesla shares, worth nearly $7B, between Friday and Tuesday, likely to preempt a judge forcing his Twitter acquisition &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/220810/p5#a220810p5)
- - [Urbanista brings solar-powered headphone tech to true wireless earbuds](https://www.theverge.com/2022/8/10/23299492/urbanista-phoenix-solar-powered-true-wireless-earbuds-charging-case-exeger-powerfoyle)
- - [Best Cases for iPhone 12 and iPhone 12 Pro     - CNET](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS, Splunk, IBM, CrowdStrike, Cloudflare, Okta, and 12 others announce the Open Cybersecurity Schema Framework to help monitor hacking attempts &lpar;Kim S. Nash/Wall Street Journal&rpar;](http://www.techmeme.com/220810/p7#a220810p7)
+ - [Best 4K Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
