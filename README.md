@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to expand its Amazon One palm-recognition payment system to 65+ Whole Foods across California in the coming weeks, marking its first broad rollout &lpar;Russell Redman/Supermarket News&rpar;](http://www.techmeme.com/220809/p40#a220809p40)
- - [Sources: Taiwan&#39;s national security officials want Foxconn to unwind its $800M stake in Chinese chip company Tsinghua Unigroup, which was announced last month &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/220809/p39#a220809p39)
- - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta says the warrants in Nebraska case didn&#39;t mention abortion, only the burning and burial of a stillborn, came before Roe&#39;s reversal, and had a gag order &lpar;Meta&rpar;](http://www.techmeme.com/220810/p1#a220810p1)
+ - [Elon Musk changes plans, sells $6.9 billion in Tesla shares with Twitter trial looming](https://www.theverge.com/2022/8/9/23299343/elon-musk-tesla-stock-sells-twitter-trial)
+ - [Cloudflare says its employees fell victim to an SMS phishing scam but the company&#39;s use of hardware MFA keys stopped hackers from accessing its internal network &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220809/p42#a220809p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
