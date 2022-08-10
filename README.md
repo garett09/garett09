@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils new Galaxy Fold 4, Galaxy Flip 4 &amp; More](https://appleinsider.com/articles/22/08/10/samsung-unveils-new-galaxy-fold-4-galaxy-flip-4-more?utm_medium=rss)
- - [Samsung announces the Galaxy Z Flip 4, featuring the same 1.9&quot; and 6.7&quot; displays alongside battery and camera upgrades and Snapdragon 8+ Gen 1, starting at $999 &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/220810/p20#a220810p20)
- - [What to expect from the iPhone 14 and iPhone 14 Max](https://appleinsider.com/articles/22/04/08/rumor-roundup-what-to-expect-from-the-iphone-14-and-iphone-14-max?utm_medium=rss)<!-- TECH:END -->
+ - [A report from Iran&#39;s Tasnim agency says the country paid for its first import order using cryptocurrency this week, worth $10M, helping circumvent US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/220810/p24#a220810p24)
+ - [The Hacking of Starlink Terminals Has Begun](https://www.wired.com/story/starlink-internet-dish-hack/)
+ - [Layer 1 blockchain Injective, which focuses on DeFi, raised $40M in a private token sale led by Jump Crypto &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220810/p23#a220810p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
