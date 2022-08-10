@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS Plus Library Keeps Getting Bigger—And Keeps Forgetting The Classics](https://kotaku.com/ps-plus-extra-premium-bugsnax-yakuza-ps4-ps5-1849395972)
- - [What if Avatar: The Last Airbender was a spy thriller?](https://www.polygon.com/23298721/avatar-the-last-airbender-dawn-of-yangchen-fc-yee-author-interview)
- - [Gen Con organizers ‘deeply troubled’ over Indiana’s abortion ban, some vendors back out](https://www.polygon.com/23298755/gencon-abortion-indiana-conservative-near-total-ban-protest-moving-new-venue)<!-- GAME:END -->
+ - [Gamescom 2022 schedule: all the shows and reveals you can watch this year](https://www.pcgamer.com/gamescom-2022-schedule-dates)
+ - [People are dragging Forspoken’s dialogue-stuffed trailer](https://www.polygon.com/23300007/forspoken-trailer-dialogue-voiceover-meme-joss-whedon)
+ - [Mortal Kombat’s new animated movie is for the hardcore Kenshi fans](https://www.polygon.com/23300029/mortal-kombat-snow-blind-animated-movie-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
