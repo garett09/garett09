@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep! It is addicting](http://9gag.com/gag/a31m8KN)
- - 🚯 [Be honest fellas. big spoon or lil spoon?](http://9gag.com/gag/aAGj4R2)
- - 🚯 [`Just be confident, bro`](http://9gag.com/gag/a1195zR)<!-- MEMES:END -->
+ - 🚖 [Sometimes the old is better then the new.](http://9gag.com/gag/ajgpx0G)
+ - 🚯 [I didn&#39;t hear no bell !](http://9gag.com/gag/aBnpPwN)
+ - 🚯 [Good edit](http://9gag.com/gag/aPZ585n)<!-- MEMES:END -->
 
 --- 
 
