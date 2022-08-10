@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an iPhone battery works and how to manage its health](https://appleinsider.com/articles/22/08/10/how-an-iphone-battery-works-and-how-to-manage-its-health?utm_medium=rss)
- - [Ralph Nader urges regulators to recall Tesla’s ‘manslaughtering’ Full Self-Driving vehicles](https://www.theverge.com/2022/8/10/23299973/ralph-nader-tesla-fsd-recall-nhtsa-autopilot-crash)
- - [Apple TV+ now includes everyone and Jon Hamm](https://appleinsider.com/articles/22/08/10/apple-tv-now-includes-everyone-and-jon-hamm?utm_medium=rss)<!-- TECH:END -->
+ - [The iPhone 14 may cost more than you’d expect](https://www.theverge.com/2022/8/10/23300000/iphone-14-more-expensive-cost-iphone-13-pro-max-apple-rumors)
+ - [Microsoft makes its 1,538 3D emoji library available in open source on GitHub and Figma, allowing creators to remix and customize them for free &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220810/p29#a220810p29)
+ - [How to Play Netflix Games like Into the Breach and Krispee Street](https://www.wired.com/story/how-to-play-netflix-games/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
