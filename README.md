@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dang naggit](http://9gag.com/gag/aAGjKE9)
- - 🚯 [Got any more dad jokes to add?](http://9gag.com/gag/adgEnPV)
- - 🚯 [Boys grow old but never grow up. Stay happy, stay childish.](http://9gag.com/gag/a31m01r)<!-- MEMES:END -->
+ - 🚖 [For 15 years, Max has been scared of vacuum cleaners. Recently we got a new one and he seemed quite interested in it, so I decided to try vacuuming him. I think he actually enjoyed it... The amount of fur that got out is hilarious](http://9gag.com/gag/ajgpB7q)
+ - 🚯 [Prosciutto in it\u2019s natural habitat before italians harvest it from the sea](http://9gag.com/gag/a31my4Q)
+ - 🚯 [Hon hon hon minshalla](http://9gag.com/gag/azenGjx)<!-- MEMES:END -->
 
 --- 
 
