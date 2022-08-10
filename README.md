@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Portal finds new life as a productivity tool](https://www.theverge.com/2022/8/10/23299937/meta-portal-duet-display-companion-app-second-screen-mac-pc)
- - [How to take pictures on BeReal](https://www.theverge.com/23299821/bereal-download-take-photo-how-to)
- - [How the FBI’s Mar-a-Lago Raid Could Expose Trump’s Secrets](https://www.wired.com/story/trump-mar-a-lago-raid-fbi-privacy/)<!-- TECH:END -->
+ - [The FCC rejects SpaceX&#39;s application for a $885M subsidy to provide Starlink broadband to rural America over 10 years, after tentatively approving it in 2020 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220810/p30#a220810p30)
+ - [Hackers and fraudsters used crypto bridge RenBridge to launder $540 million, says report](https://www.theverge.com/2022/8/10/23299841/crypto-bridge-renbridge-used-launder-money-russia-north-korea-ransomware-report)
+ - [Facebook&#39;s Message Encryption Was Built to Fail](https://www.wired.com/story/facebook-message-encryption-abortion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
