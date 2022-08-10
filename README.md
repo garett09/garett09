@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These Minecraft ancient city redesigns are gloriously green](https://www.pcgamer.com/minecraft-ancient-city-redesigns)
- - [The best PC games for kids](https://game-rant-2022.blogspot.com/2022/08/the-best-pc-games-for-kids.html)
- - [Trans streamer Keffals swatted and arrested in her home](https://www.polygon.com/23298726/keffals-swatted-twitch-streamer-london-ontario-police)<!-- GAME:END -->
+ - [Ukrainian refugee finally plays Elden Ring after funding a new PC with VTuber models](https://www.pcgamer.com/ukrainian-refugee-finally-plays-elden-ring-after-funding-a-new-pc-with-vtuber-models)
+ - [How to play Netflix&#39;s free mobile games if you&#39;re a subscriber](https://game-rant-2022.blogspot.com/2022/08/how-to-play-netflixs-free-mobile-games.html)
+ - [Being a bear who runs a B&amp;B is no picnic](https://www.pcgamer.com/being-a-bear-who-runs-a-bandb-is-no-picnic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
