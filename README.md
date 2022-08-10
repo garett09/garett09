@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids vs. Tesla...](http://9gag.com/gag/aDDy7xO)
- - 🚯 [Dude messed with the wrong person](http://9gag.com/gag/a514BRE)
+ - 🚖 [Go away pls!](http://9gag.com/gag/aogXV2e)
+ - 🚯 [Mum keeps buying new knives every other week and complains they never keep their edge. She finally showed me her `sharpener`](http://9gag.com/gag/aQXGgbW)
  - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
 
 --- 
