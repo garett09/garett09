@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go away pls!](http://9gag.com/gag/aogXV2e)
- - 🚯 [Mum keeps buying new knives every other week and complains they never keep their edge. She finally showed me her `sharpener`](http://9gag.com/gag/aQXGgbW)
- - 🚯 [BLURRY](http://9gag.com/gag/ay9Gq4W)<!-- MEMES:END -->
+ - 🚖 [Mum keeps buying new knives every other week and complains they never keep their edge. She finally showed me her `sharpener`](http://9gag.com/gag/aQXGgbW)
+ - 🚯 [Go away pls!](http://9gag.com/gag/aogXV2e)
+ - 🚯 [Beautiful times!](http://9gag.com/gag/aegLO9b)<!-- MEMES:END -->
 
 --- 
 
