@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Man gifts fianc\u00e9 with lost childhood teddy bear](http://9gag.com/gag/aBnpVd2)
  - 🚯 [This chonker weight loss transformation](http://9gag.com/gag/a0ZB0Wn)
- - 🚯 [Iook at this](http://9gag.com/gag/a61P55q)<!-- MEMES:END -->
+ - 🚯 [Dang naggit](http://9gag.com/gag/aAGjKE9)<!-- MEMES:END -->
 
 --- 
 
