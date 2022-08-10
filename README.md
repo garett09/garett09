@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf is she supposed to do ? That&#39;s what you do when you have a Family, you love them, you take care of them, you don&#39;t see that as a job, Wtf is wrong with these people ?](http://9gag.com/gag/a61PBv9)
- - 🚯 [`Just be confident, bro`](http://9gag.com/gag/a1195zR)
- - 🚯 [Crimean anti air gone with the wind &lpar;top left&rpar;](http://9gag.com/gag/amg3xbd)<!-- MEMES:END -->
+ - 🚖 [Balkan bro moment](http://9gag.com/gag/adgEe19)
+ - 🚯 [Crimean anti air gone with the wind &lpar;top left&rpar;](http://9gag.com/gag/amg3xbd)
+ - 🚯 [Geniune advice](http://9gag.com/gag/a1195D6)<!-- MEMES:END -->
 
 --- 
 
