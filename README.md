@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Just be confident, bro`](http://9gag.com/gag/a1195zR)
- - 🚯 [Express delivery to the ground floor!](http://9gag.com/gag/avANEjZ)
- - 🚯 [Love the truth](http://9gag.com/gag/avANEvb)<!-- MEMES:END -->
+ - 🚖 [Yep! It is addicting](http://9gag.com/gag/a31m8KN)
+ - 🚯 [Be honest fellas. big spoon or lil spoon?](http://9gag.com/gag/aAGj4R2)
+ - 🚯 [`Just be confident, bro`](http://9gag.com/gag/a1195zR)<!-- MEMES:END -->
 
 --- 
 
