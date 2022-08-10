@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC rejects SpaceX&#39;s application for a $885M subsidy to provide Starlink broadband to rural America over 10 years, after tentatively approving it in 2020 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220810/p30#a220810p30)
- - [Hackers and fraudsters used crypto bridge RenBridge to launder $540 million, says report](https://www.theverge.com/2022/8/10/23299841/crypto-bridge-renbridge-used-launder-money-russia-north-korea-ransomware-report)
- - [Facebook&#39;s Message Encryption Was Built to Fail](https://www.wired.com/story/facebook-message-encryption-abortion/)<!-- TECH:END -->
+ - [How to change your name on TikTok](https://www.theverge.com/22585579/tiktok-name-username-change-how-to)
+ - [Final Fantasy VII Remake unofficially comes to VR with this PC mod](https://www.theverge.com/2022/8/10/23300463/ffvii-remake-intergrade-pc-vr-luke-ross-mod)
+ - [Nightfall AI, which provides cloud data loss prevention services, announces a $40M Series B led by WestBridge Capital, bringing its total funding to $60M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220810/p33#a220810p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
