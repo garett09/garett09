@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sloppy Use of Machine Learning is Causing a ‘Reproducibility Crisis’ in Science](https://www.wired.com/story/machine-learning-reproducibility-crisis/)
- - [Three Possible Futures of the Monkeypox Epidemic](https://www.wired.com/story/three-possible-futures-of-the-monkeypox-epidemic/)
- - [Facebook turns over mother and daughter’s chat history to police resulting in abortion charges](https://www.theverge.com/2022/8/10/23299502/facebook-chat-messenger-history-nebraska-teen-abortion-case)<!-- TECH:END -->
+ - [After suffering huge losses, SoftBank plans to reduce its Alibaba stake from 23.7% as of June 30 to 14.6%, raising around $34B in the current quarter &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/220810/p15#a220810p15)
+ - [Snap launches Snapchat+ in India for ~$0.62 per month, offering exclusive, experimental, and pre-release features; the service costs $3.99/month in the US &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/220810/p14#a220810p14)
+ - [Samsung Unpacked August 2022 Live Blog: Galaxy Z Fold 4, Z Flip 4 Reveals To Come     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-august-2022-live-blog-galaxy-z-fold-4-z-flip-4-reveals-to-come/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
