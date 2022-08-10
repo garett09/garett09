@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ukrainian refugee finally plays Elden Ring after funding a new PC with VTuber models](https://www.pcgamer.com/ukrainian-refugee-finally-plays-elden-ring-after-funding-a-new-pc-with-vtuber-models)
- - [How to play Netflix&#39;s free mobile games if you&#39;re a subscriber](https://game-rant-2022.blogspot.com/2022/08/how-to-play-netflixs-free-mobile-games.html)
- - [Being a bear who runs a B&amp;B is no picnic](https://www.pcgamer.com/being-a-bear-who-runs-a-bandb-is-no-picnic)<!-- GAME:END -->
+ - [Tokyo Stories Looks Very Cool](https://kotaku.com/tokyo-stories-pixel-art-3d-indie-japanese-game-1849393527)
+ - [Overwatch&#39;s Paid Loot Boxes Are Finally Going Away](https://kotaku.com/overwatch-loot-box-dead-gone-rip-blizzard-dlc-1849393465)
+ - [Ukrainian refugee finally plays Elden Ring after funding a new PC with VTuber models](https://www.pcgamer.com/ukrainian-refugee-finally-plays-elden-ring-after-funding-a-new-pc-with-vtuber-models)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
