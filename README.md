@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Spider-Man Remastered PC launch times are here](https://www.pcgamer.com/spider-man-pc-launch-time)
  - [Tokyo Stories Looks Very Cool](https://kotaku.com/tokyo-stories-pixel-art-3d-indie-japanese-game-1849393527)
- - [Overwatch&#39;s Paid Loot Boxes Are Finally Going Away](https://kotaku.com/overwatch-loot-box-dead-gone-rip-blizzard-dlc-1849393465)
- - [Ukrainian refugee finally plays Elden Ring after funding a new PC with VTuber models](https://www.pcgamer.com/ukrainian-refugee-finally-plays-elden-ring-after-funding-a-new-pc-with-vtuber-models)<!-- GAME:END -->
+ - [Overwatch&#39;s Paid Loot Boxes Are Finally Going Away](https://kotaku.com/overwatch-loot-box-dead-gone-rip-blizzard-dlc-1849393465)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
