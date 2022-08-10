@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [$30 Humble Bundle Bags You A Shitton Of Resident Evil Games](https://kotaku.com/humble-bundle-resident-evil-leon-village-lady-d-zombies-1849397498)
- - [He wanted faster internet, Comcast wanted $50,000, so he made his own ISP](https://www.pcgamer.com/he-wanted-faster-internet-comcast-wanted-dollar50000-so-he-made-his-own-isp)
- - [Destiny 2 Plug One Adept god roll: The best weapon perks to get](https://www.pcgamer.com/destiny-2-plug-one-adept-god-roll)<!-- GAME:END -->
+ - [With guns drawn, police raid home of trans Twitch streamer Clara &#39;Keffals&#39; Sorrenti in latest swatting debacle](https://www.pcgamer.com/keffals-swatting)
+ - [Cards Against Humanity to donate sales from ‘forced-birth Republican hellholes’ to abortion funds](https://www.polygon.com/23300475/cards-against-humanity-abortion-funds-new-packs)
+ - [$30 Humble Bundle Bags You A Shitton Of Resident Evil Games](https://kotaku.com/humble-bundle-resident-evil-leon-village-lady-d-zombies-1849397498)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
