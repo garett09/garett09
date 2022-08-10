@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 used with modern CPUs could lead to encrypted data corruption](https://www.pcgamer.com/windows-11-ready-cpus-may-be-susceptible-to-encrypted-data-corruption)
- - [Today&#39;s Wordle 417 answer and hint: Wednesday, August 10](https://www.pcgamer.com/todays-wordle-417-answer-hint)
- - [Never Have I Ever season 3 is racing toward the end](https://www.polygon.com/23296868/never-have-i-ever-season-3-review)<!-- GAME:END -->
+ - [Cult of the Lamb review](https://www.pcgamer.com/cult-of-the-lamb-review)
+ - [Surreal Apex Legends bug is doing a switcheroo on character abilities](https://www.pcgamer.com/surreal-apex-legends-bug-is-doing-a-switcheroo-on-character-abilities)
+ - [After years of &#39;development hell&#39;, the Half-Life 2 VR mod is finally getting a public beta](https://www.pcgamer.com/after-years-of-development-hell-the-half-life-2-vr-mod-is-finally-getting-a-public-beta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
