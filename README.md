@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Original podcasts will get bulked up through deal with Futuro Studios](https://appleinsider.com/articles/22/08/10/apple-original-podcasts-will-get-bulked-up-through-deal-with-futuro-studios?utm_medium=rss)
- - [Sonos has delayed the release of its next product — likely the Sub Mini](https://www.theverge.com/2022/8/10/23300377/sonos-new-product-delayed-sub-mini)
- - [Disney hits 221.1M global streaming subscribers in Q3, surpassing Netflix&#39;s 220.7M; Disney+ had 152.1M subscribers, Hulu had 46.2M, and ESPN+ had 22.8M &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220810/p35#a220810p35)<!-- TECH:END -->
+ - [Bumble reports Q2 revenue up 18% YoY to $220.5M, vs. $219.4 est., a net loss of $6.4M, vs. $2.6M est., and a Q3 guidance below estimates; shares fall 10%+ &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220810/p36#a220810p36)
+ - [Companies Must Prepare for Future Cyber Threats, Former CISA Director Says     - CNET](https://www.cnet.com/tech/services-and-software/companies-must-prepare-for-future-cyber-threats-former-cisa-director-says/#ftag=CAD590a51e)
+ - [Best OBD2 Scanners for 2022     - CNET](https://www.cnet.com/roadshow/news/best-obd2-scanners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
