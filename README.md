@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Get The Message publicity campaign to pressure Apple to support RCS over SMS/MMS, highlights problems like low-res photos/videos, no e2ee, more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220810/p2#a220810p2)
- - [Meta says the warrants in Nebraska case didn&#39;t mention abortion, only the burning and burial of a stillborn, came before Roe&#39;s reversal, and had a gag order &lpar;Meta&rpar;](http://www.techmeme.com/220810/p1#a220810p1)
- - [2024 Hyundai Ioniq 6 Prototype First Drive Review: Replicating Success     - CNET](https://www.cnet.com/roadshow/news/2024-hyundai-ioniq-6-ev-prototype-first-drive-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Download these new Google Pixel wallpapers inspired by Indigenous Day](https://www.androidauthority.com/download-google-august-wallpapers-3195026/)
+ - [TikTok Is ‘Shadow-Promoting’ Banned Content in Russia](https://www.wired.com/story/tiktok-russia-shadow-promotion/)
+ - [Forage, which provides software for grocers to accept online SNAP food stamp payments, has raised a $22M Series A led by Nyca Partners at a ~$100M valuation &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/220810/p3#a220810p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
