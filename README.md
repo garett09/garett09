@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Man gifts fianc\u00e9 with lost childhood teddy bear](http://9gag.com/gag/aBnpVd2)
- - 🚯 [Louis Rossmann on Right to Repair- $1500 vs $12 to fix your MacBook.](http://9gag.com/gag/a21e8OE)
- - 🚯 [How to spot hidden cameras in AirBnbs and hotel rooms to protect your privacy](http://9gag.com/gag/a119DzG)<!-- MEMES:END -->
+ - 🚯 [This chonker weight loss transformation](http://9gag.com/gag/a0ZB0Wn)
+ - 🚯 [Iook at this](http://9gag.com/gag/a61P55q)<!-- MEMES:END -->
 
 --- 
 
