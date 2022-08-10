@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go away pls!](http://9gag.com/gag/aogXV2e)
- - 🚯 [Beautiful times!](http://9gag.com/gag/aegLO9b)
+ - 🚖 [My new slippers\uff0cnice design](http://9gag.com/gag/aQXG73w)
+ - 🚯 [When she sees you eat a lot of pineapples.](http://9gag.com/gag/aZrewbn)
  - 🚯 [If they only know how expensive cheese actually is](http://9gag.com/gag/aBnpL4x)<!-- MEMES:END -->
 
 --- 
