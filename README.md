@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man gifts fianc\u00e9 with lost childhood teddy bear](http://9gag.com/gag/aBnpVd2)
- - 🚯 [This chonker weight loss transformation](http://9gag.com/gag/a0ZB0Wn)
- - 🚯 [Dang naggit](http://9gag.com/gag/aAGjKE9)<!-- MEMES:END -->
+ - 🚖 [Dang naggit](http://9gag.com/gag/aAGjKE9)
+ - 🚯 [Got any more dad jokes to add?](http://9gag.com/gag/adgEnPV)
+ - 🚯 [Boys grow old but never grow up. Stay happy, stay childish.](http://9gag.com/gag/a31m01r)<!-- MEMES:END -->
 
 --- 
 
