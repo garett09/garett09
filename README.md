@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these new Google Pixel wallpapers inspired by Indigenous Day](https://www.androidauthority.com/download-google-august-wallpapers-3195026/)
- - [TikTok Is ‘Shadow-Promoting’ Banned Content in Russia](https://www.wired.com/story/tiktok-russia-shadow-promotion/)
- - [Forage, which provides software for grocers to accept online SNAP food stamp payments, has raised a $22M Series A led by Nyca Partners at a ~$100M valuation &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/220810/p3#a220810p3)<!-- TECH:END -->
+ - [Watch Galaxy Unpacked: Catch the Galaxy Z Fold 4 reveal and more!](https://www.androidauthority.com/watch-galaxy-unpacked-august-2022-3194751/)
+ - [Las Vegas-based Fortress Blockchain Technologies, which is building financial, regulatory, and tech B2B infrastructure for Web3 companies, raised a $22.5M seed &lpar;JD Alois/Crowdfund Insider&rpar;](http://www.techmeme.com/220810/p4#a220810p4)
+ - [Download these new Google Pixel wallpapers inspired by Indigenous Day](https://www.androidauthority.com/download-google-august-wallpapers-3195026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
