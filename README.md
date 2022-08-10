@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report from Iran&#39;s Tasnim agency says the country paid for its first import order using cryptocurrency this week, worth $10M, helping circumvent US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/220810/p24#a220810p24)
- - [The Hacking of Starlink Terminals Has Begun](https://www.wired.com/story/starlink-internet-dish-hack/)
- - [Layer 1 blockchain Injective, which focuses on DeFi, raised $40M in a private token sale led by Jump Crypto &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220810/p23#a220810p23)<!-- TECH:END -->
+ - [A look at Invisv&#39;s Pretty Good Phone Privacy mobile data service, available in beta on Android, which is designed to separate users from specific identifiers &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220810/p27#a220810p27)
+ - [Hyper announces &#39;world&#39;s first&#39; 245W GaN charger, portable battery pack](https://appleinsider.com/articles/22/08/10/hyper-announces-worlds-first-245w-gan-charger-portable-battery-pack?utm_medium=rss)
+ - [The Steam Deck makes PlayStation’s biggest games portable](https://www.theverge.com/2022/8/10/23298962/steam-deck-marvels-spider-man-remastered-playstation-portable-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
