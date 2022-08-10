@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes the old is better then the new.](http://9gag.com/gag/ajgpx0G)
- - 🚯 [Good edit](http://9gag.com/gag/aPZ585n)
+ - 🚖 [Wtf is she supposed to do ? That&#39;s what you do when you have a Family, you love them, you take care of them, you don&#39;t see that as a job, Wtf is wrong with these people ?](http://9gag.com/gag/a61PBv9)
+ - 🚯 [`Just be confident, bro`](http://9gag.com/gag/a1195zR)
  - 🚯 [Crimean anti air gone with the wind &lpar;top left&rpar;](http://9gag.com/gag/amg3xbd)<!-- MEMES:END -->
 
 --- 
