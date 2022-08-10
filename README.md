@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your name on TikTok](https://www.theverge.com/22585579/tiktok-name-username-change-how-to)
- - [Final Fantasy VII Remake unofficially comes to VR with this PC mod](https://www.theverge.com/2022/8/10/23300463/ffvii-remake-intergrade-pc-vr-luke-ross-mod)
- - [Nightfall AI, which provides cloud data loss prevention services, announces a $40M Series B led by WestBridge Capital, bringing its total funding to $60M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220810/p33#a220810p33)<!-- TECH:END -->
+ - [Apple Original podcasts will get bulked up through deal with Futuro Studios](https://appleinsider.com/articles/22/08/10/apple-original-podcasts-will-get-bulked-up-through-deal-with-futuro-studios?utm_medium=rss)
+ - [Sonos has delayed the release of its next product — likely the Sub Mini](https://www.theverge.com/2022/8/10/23300377/sonos-new-product-delayed-sub-mini)
+ - [Disney hits 221.1M global streaming subscribers in Q3, surpassing Netflix&#39;s 220.7M; Disney+ had 152.1M subscribers, Hulu had 46.2M, and ESPN+ had 22.8M &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220810/p35#a220810p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
