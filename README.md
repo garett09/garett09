@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A mobile ad tech company wants to buy Unity for $17.5B](https://www.pcgamer.com/a-mobile-ad-tech-company-wants-to-buy-unity-for-dollar175b)
- - [Everything new in Splatoon 3 from today’s Nintendo Direct](https://www.polygon.com/23299655/splatoon-3-nintendo-direct-news-announcements-video)
- - [Splatoon’s Splatfest returns with a 4v2v2 twist in Splatoon 3](https://www.polygon.com/23299627/splatoon-3-splatfest-theme-demo-nintendo-switch)<!-- GAME:END -->
+ - [These Cult of the Lamb beginner tips will help you build your flock](https://www.pcgamer.com/cult-of-the-lamb-tips-guide)
+ - [Cult of the Lamb followers guide: How to help your flock thrive](https://www.pcgamer.com/cult-of-the-lamb-followers)
+ - [Here&#39;s every doctrine you can unlock in Cult of the Lamb](https://www.pcgamer.com/cult-of-the-lamb-doctrines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
