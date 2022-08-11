@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&#39;sup?](http://9gag.com/gag/a41vqbw)
- - 🚯 [Step in the right direction](http://9gag.com/gag/aBnpGNz)
- - 🚯 [Your daughter will love it...](http://9gag.com/gag/aqG0WWY)<!-- MEMES:END -->
+ - 🚖 [Wtf is she supposed to do ? That&#39;s what you do when you have a Family, you love them, you take care of them, you don&#39;t see that as a job, Wtf is wrong with these people ?](http://9gag.com/gag/a61PBv9)
+ - 🚯 [Your daughter will love it...](http://9gag.com/gag/aqG0WWY)
+ - 🚯 [What are you doing bro?](http://9gag.com/gag/aXrB2vb)<!-- MEMES:END -->
 
 --- 
 
