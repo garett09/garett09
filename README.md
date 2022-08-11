@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 418 answer and hint: Thursday, August 11](https://www.pcgamer.com/todays-wordle-418-answer-hint)
- - [Your SSD is fast, but it&#39;s got a dirty side](https://www.pcgamer.com/your-ssd-is-fast-but-its-got-a-dirty-side)
- - [AMD&#39;s Zen 4 CPUs should perform well with DDR5-6000 memory](https://www.pcgamer.com/amds-zen-4-cpus-should-perform-well-with-ddr5-6000-memory)<!-- GAME:END -->
+ - [Is your TV mounted too high? This 80,000+ user subreddit will be the judge](https://www.pcgamer.com/is-your-tv-mounted-too-high-this-80000-user-subreddit-will-be-the-judge)
+ - [Dead by Daylight and Bugsnax join first wave of Yakuza games on PlayStation Plus this August](https://www.polygon.com/23301246/playstation-plus-game-catalog-extra-premium-games-august)
+ - [Here&#39;s when Cult of the Lamb unlocks in your timezone](https://www.pcgamer.com/cult-of-the-lamb-release-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
