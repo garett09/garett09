@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA 23 will bring back loot boxes, EA confirms as it defends the practice](https://www.pcgamer.com/fifa-23-will-bring-back-loot-boxes-ea-confirms-as-it-defends-the-practice)
- - [These simple keyboard shortcuts broke the brains of my Gen Z coworkers](https://www.pcgamer.com/ctrl-shift-arrow-key-keyboard-shortcut)
- - [Meta chatbot claims Mark Zuckerberg is &#39;cooler than Dragon Age,&#39; but can we trust it?](https://www.pcgamer.com/meta-chatbot-claims-mark-zuckerberg-is-cooler-than-dragon-age-but-can-we-trust-it)<!-- GAME:END -->
+ - [This Undertale mod adds local co-op, but playing online requires some extra work](https://www.pcgamer.com/this-undertale-mod-adds-local-co-op-but-playing-online-requires-some-extra-work)
+ - [The FCC rejects Starlink&#39;s $885M internet proposal because its speeds are too slow](https://www.pcgamer.com/the-fcc-rejects-starlinks-dollar885m-internet-proposal-because-its-speeds-are-too-slow)
+ - [Nightingale, the fantasy survival game from former BioWare developers, is delayed](https://www.pcgamer.com/nightingale-the-fantasy-survival-game-from-former-bioware-developers-is-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
