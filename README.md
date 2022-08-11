@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Air Purifier of 2022: Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [Best Wireless Bluetooth Boom Boxes for 2022: Portable Pool and Beach Speakers, Ranked     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft and CISA warn users about DogWalk, a now-patched actively exploited RCE vulnerability in Windows 7, 10, 11, and Server 2008 through 2022 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220811/p5#a220811p5)
+ - [Best Continuous Glucose Monitors for 2022     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-for-2022/#ftag=CAD590a51e)
+ - [Best Air Purifier of 2022: Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
