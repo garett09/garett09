@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They really don\u2019t](http://9gag.com/gag/aQXGrRe)
- - 🚯 [Ball on target](http://9gag.com/gag/arnYzy7)
+ - 🚖 [Well that must have being an awkward moment](http://9gag.com/gag/a61PxgN)
+ - 🚯 [The best defender](http://9gag.com/gag/a514DxG)
  - 🚯 [Ironic](http://9gag.com/gag/aegLd1v)<!-- MEMES:END -->
 
 --- 
