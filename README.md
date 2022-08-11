@@ -182,8 +182,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [AMD&#39;s Zen 4 CPUs should perform well with DDR5-6000 memory](https://www.pcgamer.com/amds-zen-4-cpus-should-perform-well-with-ddr5-6000-memory)
- - [10 Best Food Themed Levels in Video Games](https://game-rant-2022.blogspot.com/2022/08/10-best-food-themed-levels-in-video.html)
- - [Half-Life 2 Will Soon Be Playable In VR](https://kotaku.com/half-life-2-vr-virtual-reality-hl2-mod-pc-valve-oculus-1849398635)<!-- GAME:END -->
+ - [Half-Life 2 Will Soon Be Playable In VR](https://kotaku.com/half-life-2-vr-virtual-reality-hl2-mod-pc-valve-oculus-1849398635)
+ - [The internet won&#39;t stop roasting this new Forspoken trailer](https://www.pcgamer.com/the-internet-wont-stop-roasting-this-new-forspoken-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
