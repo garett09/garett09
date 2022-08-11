@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO claims Apple is delaying update that will &#39;revolutionize&#39; messaging](https://appleinsider.com/articles/22/08/11/telegram-ceo-claims-apple-is-delaying-update-that-will-revolutionize-messaging?utm_medium=rss)
- - [The Best Pizza Ovens to Make the Perfect Slice](https://www.wired.com/gallery/best-pizza-ovens/)
- - [iRobot’s excellent Roomba i3 EVO is available refurbished for $170 off today](https://www.theverge.com/good-deals/2022/8/11/23300375/irobot-roomba-i3-evo-apple-pencil-anker-usb-c-charger-resident-evil-kindle-paperwhite-deal-sale)<!-- TECH:END -->
+ - [How to block and report spam calls and texts on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-block-and-report-spam-calls-and-texts-on-iphone?utm_medium=rss)
+ - [Deal alert: Apple AirPods dip down to $99 at Amazon](https://appleinsider.com/articles/22/08/11/deal-alert-apple-airpods-dip-down-to-99-at-amazon?utm_medium=rss)
+ - [A Bioengineered Cornea Shows It Can Improve People’s Sight](https://www.wired.com/story/a-bioengineered-cornea-shows-it-can-improve-peoples-sight/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
