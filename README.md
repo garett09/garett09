@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NBA 2K23 brings back The Jordan Challenge, sparing no expense](https://www.polygon.com/23300992/nba-2k23-the-jordan-challenge-2-list-of-moments)
- - [All 15 games of NBA 2K23’s new Jordan Challenge](https://www.polygon.com/23299903/nba-2k23-jordan-challenge-games-list)
- - [Kirby can wear a Kirby car cake hat in Kirby’s Dream Buffet](https://www.polygon.com/23301379/kirbys-dream-buffet-release-date-gameplay-modes-trailer)<!-- GAME:END -->
+ - [Read an exclusive excerpt from R.A. Salvatore’s new Drizzt novel, Glacier’s Edge](https://www.polygon.com/23300262/new-drizzt-novel-excerpt-dnd-glaciers-edge-salvatore-way-of-the-drow)
+ - [Apex Legends Shatters Records As Players Urge Fans To Stop Playing Apex Legends](https://kotaku.com/no-apex-august-apex-legends-ea-respawn-season-14-1849400447)
+ - [Prepare for Rollerdrome with dev combat tips, out August 16](https://blog.playstation.com/2022/08/11/prepare-for-rollerdrome-with-dev-combat-tips-out-august-16/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
