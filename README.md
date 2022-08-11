@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ironic](http://9gag.com/gag/aegLd1v)
- - 🚯 [K-pop bands](http://9gag.com/gag/aAGjZQ0)
- - 🚯 [This has been in my mind for a long long time though, rose leslie as aloy?](http://9gag.com/gag/aNPN3DK)<!-- MEMES:END -->
+ - 🚖 [They really don\u2019t](http://9gag.com/gag/aQXGrRe)
+ - 🚯 [Ball on target](http://9gag.com/gag/arnYzy7)
+ - 🚯 [Ironic](http://9gag.com/gag/aegLd1v)<!-- MEMES:END -->
 
 --- 
 
