@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some companies are hiring B2B influencers, mostly on LinkedIn, to pitch to other companies; LinkedIn says 11M+ users have enabled &quot;creator mode&quot; as of July 2022 &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220811/p23#a220811p23)
- - [20 Best Buys From Best Buy’s Anniversary Sale](https://www.wired.com/story/best-buy-anniversary-deals-2022/)
- - [Heat pumps: what they do and why they’re hot now](https://www.theverge.com/23301515/heat-pump-faq-guide-heating-cooling)<!-- TECH:END -->
+ - [Go read this report on ByteDance employees with ties to Chinese state media](https://www.theverge.com/2022/8/11/23301724/go-read-this-bytedance-tiktok-employees-chinese-state-media-propaganda-connections)
+ - [Google appears to be testing a feature to let users launch cloud games from Stadia, Amazon Luna, Xbox Cloud Gaming, and Nvidia&#39;s GeForce Now from search results &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220811/p24#a220811p24)
+ - [Telegram founder blames Apple for holding back a major update](https://www.theverge.com/2022/8/11/23301864/telegram-founder-pavel-durov-blames-apple-holding-back-major-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
