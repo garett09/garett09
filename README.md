@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon finally added a good slideshow feature to the Echo Show](https://www.theverge.com/2022/8/11/23302051/echo-show-fire-tv-new-photo-frame-mode)
- - [Apple asks suppliers to make 90 million iPhone 14 units](https://appleinsider.com/articles/22/08/11/apple-asks-suppliers-to-make-90-million-iphone-14-units?utm_medium=rss)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
+ - [LinkedIn rolls out new features to court creators, including a clickable link on images, templates for posts, and the ability to mix images and videos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220811/p27#a220811p27)
+ - [Ring’s new TV show sounds like a dystopian America’s Funniest Home Videos](https://www.theverge.com/2022/8/11/23302145/ring-nation-wanda-sykes-mgm-big-fish-entertainment)
+ - [Frankfurt-based AAA games studio Gunzilla Games has raised $46M led by Republic Capital and plans to include in-game item trading with NFTs in an upcoming title &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220811/p26#a220811p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
