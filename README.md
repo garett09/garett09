@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Skin black as ebony, hair white as snow, or was it the other way around?](http://9gag.com/gag/axB5Yvp)
- - 🚯 [He was the best meme of all times. RIP](http://9gag.com/gag/ang6GeL)
- - 🚯 [Maximino the Opera Cat](http://9gag.com/gag/aAGjvyd)<!-- MEMES:END -->
+ - 🚖 [K-pop bands](http://9gag.com/gag/aAGjZQ0)
+ - 🚯 [Maximino the Opera Cat](http://9gag.com/gag/aAGjvyd)
+ - 🚯 [This has been in my mind for a long long time though, rose leslie as aloy?](http://9gag.com/gag/aNPN3DK)<!-- MEMES:END -->
 
 --- 
 
