@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rick and Morty are getting into the podcast game in first season 6 trailer](https://www.theverge.com/2022/8/11/23301497/rick-and-morty-season-six-trailer-adult-swim)
- - [Mailchimp co-founder and CEO Ben Chestnut plans to step down after 21 years and transition to a founder-advisor role; Intuit&#39;s Rania Succar will take over &lpar;Eric Mandel/Atlanta Business Journal&rpar;](http://www.techmeme.com/220811/p20#a220811p20)
- - [The FEC approves a proposal from Google to keep campaign emails from being marked as spam, after GOP lawmakers said Gmail was censoring right-wing emails &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220811/p19#a220811p19)<!-- TECH:END -->
+ - [Ethereum network sets a target date for the big proof-of-stake switch](https://www.theverge.com/2022/8/11/23301638/ethereum-crypto-blockchain-proof-of-stake-environment)
+ - [Acura’s first electric SUV will have one of the brightest EV grilles yet](https://www.theverge.com/2022/8/11/23301658/acura-precision-ev-tease-honda-grille)
+ - [NASA Says Restless Red Giant Star Betelgeuse Had an Unprecedented Explosion     - CNET](https://www.cnet.com/science/space/nasa-says-restless-red-giant-star-betelgeuse-had-an-unprecedented-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
