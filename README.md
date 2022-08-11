@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Tina’s Wonderlands: Shattering Spectreglass is Out Now for Xbox](https://news.xbox.com/en-us/2022/08/11/tiny-tinas-wonderlands-shattering-spectreglass-is-out-now-for-xbox/)
- - [Texas paid this company to mine bitcoin during an ongoing energy crisis](https://www.pcgamer.com/texas-paid-this-company-to-mine-bitcoin-during-an-ongoing-energy-crisis)
- - [Sea of Thieves’ Captaincy update is the dolly dress-up I’ve craved](https://www.polygon.com/23300122/sea-of-thieves-captaincy-update-details-role-playing-season-7)<!-- GAME:END -->
+ - [Write for PC Gamer](https://www.pcgamer.com/write-for-pc-gamer)
+ - [Dive into a Floating Platformer – Ynglet is out Now on Xbox](https://news.xbox.com/en-us/2022/08/11/dive-into-a-floating-platformer-ynglet-is-out-now-on-xbox/)
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
