@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search will stop telling you when Snoopy assassinated Abe Lincoln](https://www.theverge.com/2022/8/11/23300668/google-search-featured-snippets-update-false-premises-consensus-results)
- - [Sources: Elon Musk&#39;s lawyers have asked the judge to compel Twitter to hand over the names of employees responsible for counting spam and bot accounts &lpar;Bloomberg&rpar;](http://www.techmeme.com/220810/p44#a220810p44)
- - [Disney lowers its forecast for Disney+ subscribers and separates Disney+ Hotstar subscriptions in guidance, after losing Indian Premier League streaming rights &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/220810/p43#a220810p43)<!-- TECH:END -->
+ - [India&#39;s central bank releases guidelines for digital lending, which is projected to reach $350B in India by 2023, after complaints over harsh recovery tactics &lpar;Malavika Kaur Makol/Bloomberg&rpar;](http://www.techmeme.com/220811/p2#a220811p2)
+ - [Hong Kong-based Insilico, which uses machine learning to identify potential drug targets, raised $35M from Prosperity7, bringing its total Series D to $95M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220811/p1#a220811p1)
+ - [Google Search will stop telling you when Snoopy assassinated Abe Lincoln](https://www.theverge.com/2022/8/11/23300668/google-search-featured-snippets-update-false-premises-consensus-results)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
