@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell is going on with the effects](http://9gag.com/gag/aVxARBK)
+ - 🚖 [Ironic](http://9gag.com/gag/aegLd1v)
  - 🚯 [K-pop bands](http://9gag.com/gag/aAGjZQ0)
  - 🚯 [This has been in my mind for a long long time though, rose leslie as aloy?](http://9gag.com/gag/aNPN3DK)<!-- MEMES:END -->
 
