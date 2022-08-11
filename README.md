@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Undertale mod adds local co-op, but playing online requires some extra work](https://www.pcgamer.com/this-undertale-mod-adds-local-co-op-but-playing-online-requires-some-extra-work)
- - [The FCC rejects Starlink&#39;s $885M internet proposal because its speeds are too slow](https://www.pcgamer.com/the-fcc-rejects-starlinks-dollar885m-internet-proposal-because-its-speeds-are-too-slow)
- - [Nightingale, the fantasy survival game from former BioWare developers, is delayed](https://www.pcgamer.com/nightingale-the-fantasy-survival-game-from-former-bioware-developers-is-delayed)<!-- GAME:END -->
+ - [Unity Signs Multi-Million Dollar Contract To Help U.S. Army And Defense Agencies](https://kotaku.com/unity-new-contract-us-government-military-army-engine-1849403118)
+ - [Dragon Ball Z is now available in the original Japanese on Crunchyroll](https://www.polygon.com/23302189/dragon-ball-z-crunchyroll-subbed-japanese)
+ - [Tower of Fantasy player discovers upsetting bug](https://www.pcgamer.com/tower-of-fantasy-player-discovers-upsetting-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
