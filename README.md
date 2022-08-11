@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is your TV mounted too high? This 80,000+ user subreddit will be the judge](https://www.pcgamer.com/is-your-tv-mounted-too-high-this-80000-user-subreddit-will-be-the-judge)
- - [Dead by Daylight and Bugsnax join first wave of Yakuza games on PlayStation Plus this August](https://www.polygon.com/23301246/playstation-plus-game-catalog-extra-premium-games-august)
- - [Here&#39;s when Cult of the Lamb unlocks in your timezone](https://www.pcgamer.com/cult-of-the-lamb-release-time)<!-- GAME:END -->
+ - [Secret Headquarters works best when Owen Wilson is a dad, not a superhero](https://www.polygon.com/reviews/23300309/owen-wilson-secret-headquarters-review-paramount-plus)
+ - [Doom and Quake are being cleaned up for newcomers in time for QuakeCon](https://www.pcgamer.com/doom-and-quake-are-being-cleaned-up-for-newcomers-in-time-for-quakecon)
+ - [This is almost the sci-fi gaming desk of my dreams yet I am not worthy](https://www.pcgamer.com/sci-fi-gaming-desk-lumina)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
