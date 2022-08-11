@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Neighbors...](http://9gag.com/gag/adgER0D)
- - 🚯 [Prehistoric 80 million year old shark also known as \u201dthe frilled shark\u201d discovered in Awashima, Japan.](http://9gag.com/gag/aAGjX5L)
- - 🚯 [I am pushing still!](http://9gag.com/gag/amg3pGo)<!-- MEMES:END -->
+ - 🚖 [Tubs gets pets :D](http://9gag.com/gag/a81ZKn1)
+ - 🚯 [Maximino the Opera Cat](http://9gag.com/gag/aAGjvyd)
+ - 🚯 [Blame it on the millennials](http://9gag.com/gag/aLvxdeW)<!-- MEMES:END -->
 
 --- 
 
