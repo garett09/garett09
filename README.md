@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [The US Offers a $10M Bounty for Intel on Conti Ransomware Gang](https://www.wired.com/story/conti-group-ransomware-members-reward-target/)
- - [Compared: Samsung Galaxy Z Flip 4 versus iPhone 13 &amp; iPhone 13 Pro](https://appleinsider.com/inside/iphone-13/vs/compared-samsung-galaxy-z-flip-4-versus-iphone-13-iphone-13-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Some companies are hiring B2B influencers, mostly on LinkedIn, to pitch to other companies; LinkedIn says 11M+ users have enabled &quot;creator mode&quot; as of July 2022 &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220811/p23#a220811p23)
+ - [20 Best Buys From Best Buy’s Anniversary Sale](https://www.wired.com/story/best-buy-anniversary-deals-2022/)
+ - [Heat pumps: what they do and why they’re hot now](https://www.theverge.com/23301515/heat-pump-faq-guide-heating-cooling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
