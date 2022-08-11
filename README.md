@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K-pop bands](http://9gag.com/gag/aAGjZQ0)
- - 🚯 [Maximino the Opera Cat](http://9gag.com/gag/aAGjvyd)
- - 🚯 [This has been in my mind for a long long time though, rose leslie as aloy?](http://9gag.com/gag/aNPN3DK)<!-- MEMES:END -->
+ - 🚖 [The best defender](http://9gag.com/gag/a514DxG)
+ - 🚯 [Duck](http://9gag.com/gag/aOQwpn2)
+ - 🚯 [Ball on target](http://9gag.com/gag/arnYzy7)<!-- MEMES:END -->
 
 --- 
 
