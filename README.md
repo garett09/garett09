@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum&#39;s third and final proof-of-stake test merge goes live on the Goerli test network, a dress rehearsal for the mainnet merge planned for September 2022 &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220811/p4#a220811p4)
- - [The 2022 Motorola Razr Arrives in China With a Bigger Screen, Second Camera     - CNET](https://www.cnet.com/tech/mobile/the-2022-motorola-razr-arrives-in-china-with-a-bigger-screen-second-camera/#ftag=CAD590a51e)
- - [Los Angeles-based Boulevard, whose tools let beauty and wellness salons book appointments, message clients, and accept payments, has raised a $70M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220811/p3#a220811p3)<!-- TECH:END -->
+ - [Best Air Purifier of 2022: Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [Best Wireless Bluetooth Boom Boxes for 2022: Portable Pool and Beach Speakers, Ranked     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
