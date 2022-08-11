@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Japan, traffic stops for schoolgirl. Schoolgirl thanks traffic as only the Japanese can...](http://9gag.com/gag/ay9GV4r)
- - 🚯 [Ironic](http://9gag.com/gag/aegLd1v)
- - 🚯 [Well that must have being an awkward moment](http://9gag.com/gag/a61PxgN)<!-- MEMES:END -->
+ - 🚖 [Easy, just work harder](http://9gag.com/gag/aXrBdXz)
+ - 🚯 [Well that must have being an awkward moment](http://9gag.com/gag/a61PxgN)
+ - 🚯 [The longest river in france dried up today](http://9gag.com/gag/ajgpyox)<!-- MEMES:END -->
 
 --- 
 
