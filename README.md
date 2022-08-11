@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boulevard, which provides digital tools for beauty and wellness salons to book appointments, message clients, and accept payments, has raised a $70M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220811/p3#a220811p3)
  - [India&#39;s central bank releases guidelines for digital lending, which is projected to reach $350B in India by 2023, after complaints over harsh recovery tactics &lpar;Malavika Kaur Makol/Bloomberg&rpar;](http://www.techmeme.com/220811/p2#a220811p2)
- - [Hong Kong-based Insilico, which uses machine learning to identify potential drug targets, raised $35M from Prosperity7, bringing its total Series D to $95M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220811/p1#a220811p1)
- - [Google Search will stop telling you when Snoopy assassinated Abe Lincoln](https://www.theverge.com/2022/8/11/23300668/google-search-featured-snippets-update-false-premises-consensus-results)<!-- TECH:END -->
+ - [Hong Kong-based Insilico, which uses machine learning to identify potential drug targets, raised $35M from Prosperity7, bringing its total Series D to $95M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220811/p1#a220811p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
