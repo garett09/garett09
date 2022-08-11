@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum network sets a target date for the big proof-of-stake switch](https://www.theverge.com/2022/8/11/23301638/ethereum-crypto-blockchain-proof-of-stake-environment)
- - [Acura’s first electric SUV will have one of the brightest EV grilles yet](https://www.theverge.com/2022/8/11/23301658/acura-precision-ev-tease-honda-grille)
- - [NASA Says Restless Red Giant Star Betelgeuse Had an Unprecedented Explosion     - CNET](https://www.cnet.com/science/space/nasa-says-restless-red-giant-star-betelgeuse-had-an-unprecedented-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [The US Offers a $10M Bounty for Intel on Conti Ransomware Gang](https://www.wired.com/story/conti-group-ransomware-members-reward-target/)
+ - [Compared: Samsung Galaxy Z Flip 4 versus iPhone 13 &amp; iPhone 13 Pro](https://appleinsider.com/inside/iphone-13/vs/compared-samsung-galaxy-z-flip-4-versus-iphone-13-iphone-13-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
