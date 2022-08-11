@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Foot-hand](http://9gag.com/gag/aRrn2WA)
+ - 🚖 [Neighbors...](http://9gag.com/gag/adgER0D)
  - 🚯 [Prehistoric 80 million year old shark also known as \u201dthe frilled shark\u201d discovered in Awashima, Japan.](http://9gag.com/gag/aAGjX5L)
- - 🚯 [Tubs gets pets :D](http://9gag.com/gag/a81ZKn1)<!-- MEMES:END -->
+ - 🚯 [I am pushing still!](http://9gag.com/gag/amg3pGo)<!-- MEMES:END -->
 
 --- 
 
