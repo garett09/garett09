@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tubs gets pets :D](http://9gag.com/gag/a81ZKn1)
- - 🚯 [Maximino the Opera Cat](http://9gag.com/gag/aAGjvyd)
- - 🚯 [Blame it on the millennials](http://9gag.com/gag/aLvxdeW)<!-- MEMES:END -->
+ - 🚖 [I am pushing still!](http://9gag.com/gag/amg3pGo)
+ - 🚯 [Blame it on the millennials](http://9gag.com/gag/aLvxdeW)
+ - 🚯 [Cooking diaries](http://9gag.com/gag/aKmRKDb)<!-- MEMES:END -->
 
 --- 
 
