@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and CISA warn users about DogWalk, a now-patched actively exploited RCE vulnerability in Windows 7, 10, 11, and Server 2008 through 2022 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220811/p5#a220811p5)
- - [Best Continuous Glucose Monitors for 2022     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors-for-2022/#ftag=CAD590a51e)
- - [Best Air Purifier of 2022: Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Americans See Misleading Info Daily in Search Results. So Google is Making Changes     - CNET](https://www.cnet.com/news/misinformation/americans-see-misleading-info-daily-in-search-results-so-google-is-making-changes/#ftag=CAD590a51e)
+ - [Best Portable AC Units of 2022     - CNET](https://www.cnet.com/news/best-portable-ac-units/#ftag=CAD590a51e)
+ - [Docs and sources detail how two men in Phoenix, Arizona ran one of the largest known YouTube music royalty scams, leading to a wire fraud indictment and more &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/220811/p6#a220811p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
