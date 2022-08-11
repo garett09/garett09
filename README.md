@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Americans See Misleading Info Daily in Search Results. So Google is Making Changes     - CNET](https://www.cnet.com/news/misinformation/americans-see-misleading-info-daily-in-search-results-so-google-is-making-changes/#ftag=CAD590a51e)
- - [Best Portable AC Units of 2022     - CNET](https://www.cnet.com/news/best-portable-ac-units/#ftag=CAD590a51e)
- - [Docs and sources detail how two men in Phoenix, Arizona ran one of the largest known YouTube music royalty scams, leading to a wire fraud indictment and more &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/220811/p6#a220811p6)<!-- TECH:END -->
+ - [Apple celebrates 40 years in Australia with new energy and education initiatives](https://appleinsider.com/articles/22/08/11/apple-celebrates-40-years-in-australia-with-new-energy-and-education-initiatives?utm_medium=rss)
+ - [Meta Just Happens to Expand Messenger&#39;s End-to-End Encryption](https://www.wired.com/story/meta-messenger-encryption-nebraska-abortion/)
+ - [Swarms of Mini Robots Could Dig the Tunnels of the Future](https://www.wired.com/story/swarms-of-mini-robots-could-dig-the-tunnels-of-the-future/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
