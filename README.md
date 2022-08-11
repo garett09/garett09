@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [A dead Father buys his son a guitar. Parents are amazing. -](http://9gag.com/gag/apgOAv8)
- - 🚯 [Living Fence](http://9gag.com/gag/aGzXOA6)
+ - 🚯 [One last meal before going back to the city driving 7 hours home](http://9gag.com/gag/amg3MO9)
  - 🚯 [Foot-hand](http://9gag.com/gag/aRrn2WA)<!-- MEMES:END -->
 
 --- 
