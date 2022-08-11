@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [James Franco chosen to impersonate Fidel Castro makes Latinos cry, but when Ana de Arma plays Marilyn Monroe with a cuban accent it&#39;s a great improvement](http://9gag.com/gag/aQXGmw8)
- - 🚯 [What are you doing bro?](http://9gag.com/gag/aXrB2vb)
- - 🚯 [Rules for thee and not for me](http://9gag.com/gag/arnYqe6)<!-- MEMES:END -->
+ - 🚖 [A dead Father buys his son a guitar. Parents are amazing. -](http://9gag.com/gag/apgOAv8)
+ - 🚯 [Living Fence](http://9gag.com/gag/aGzXOA6)
+ - 🚯 [Foot-hand](http://9gag.com/gag/aRrn2WA)<!-- MEMES:END -->
 
 --- 
 
