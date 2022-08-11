@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this report on ByteDance employees with ties to Chinese state media](https://www.theverge.com/2022/8/11/23301724/go-read-this-bytedance-tiktok-employees-chinese-state-media-propaganda-connections)
- - [Google appears to be testing a feature to let users launch cloud games from Stadia, Amazon Luna, Xbox Cloud Gaming, and Nvidia&#39;s GeForce Now from search results &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220811/p24#a220811p24)
- - [Telegram founder blames Apple for holding back a major update](https://www.theverge.com/2022/8/11/23301864/telegram-founder-pavel-durov-blames-apple-holding-back-major-update)<!-- TECH:END -->
+ - [Chinese chipmaker SMIC reports Q2 revenue rose 41.6% YoY to $1.9B vs. $1.89B est., but net profit fell 25% YoY to $514M, amid lockdowns and harsher US sanctions &lpar;South China Morning Post&rpar;](http://www.techmeme.com/220811/p25#a220811p25)
+ - [Apple Watch Series 8: Everything we know so far &lpar;Updated: Aug 11&rpar;](https://www.androidauthority.com/apple-watch-series-8-3162710/)
+ - [Rivian reports more losses in the second quarter of 2022](https://www.theverge.com/2022/8/11/23301444/rivian-q2-2022-earnings-ev-r1t-r1s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
