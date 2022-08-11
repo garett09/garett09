@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apply milk of poppy to the burnt area](http://9gag.com/gag/a91oDBD)
- - 🚯 [She&#39;s a keeper](http://9gag.com/gag/avAN9XX)
- - 🚯 [The bear too much eat `ac\u0131` honey and this kind of honey gives a shock effect when you eat too much](http://9gag.com/gag/awzwepx)<!-- MEMES:END -->
+ - 🚖 [Skin black as ebony, hair white as snow, or was it the other way around?](http://9gag.com/gag/axB5Yvp)
+ - 🚯 [He was the best meme of all times. RIP](http://9gag.com/gag/ang6GeL)
+ - 🚯 [Maximino the Opera Cat](http://9gag.com/gag/aAGjvyd)<!-- MEMES:END -->
 
 --- 
 
