@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read an exclusive excerpt from R.A. Salvatore’s new Drizzt novel, Glacier’s Edge](https://www.polygon.com/23300262/new-drizzt-novel-excerpt-dnd-glaciers-edge-salvatore-way-of-the-drow)
- - [Apex Legends Shatters Records As Players Urge Fans To Stop Playing Apex Legends](https://kotaku.com/no-apex-august-apex-legends-ea-respawn-season-14-1849400447)
- - [Prepare for Rollerdrome with dev combat tips, out August 16](https://blog.playstation.com/2022/08/11/prepare-for-rollerdrome-with-dev-combat-tips-out-august-16/)<!-- GAME:END -->
+ - [Elden Ring’s Burping Basilisks Are Simply The Worst](https://kotaku.com/elden-ring-dark-souls-basilisks-worst-enemies-1849398653)
+ - [Rumbleverse is Available Today for Xbox](https://news.xbox.com/en-us/2022/08/11/rumbleverse-is-available-today-for-xbox/)
+ - [Overwatch League Team Apologizes To Support Player For Firing Him Via A Damn Tweet](https://kotaku.com/overwatch-league-owl-myunb0ng-fired-tweet-excelsior-1849400856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
