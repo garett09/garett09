@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble reports Q2 revenue up 18% YoY to $220.5M, vs. $219.4 est., a net loss of $6.4M, vs. $2.6M est., and a Q3 guidance below estimates; shares fall 10%+ &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220810/p36#a220810p36)
- - [Companies Must Prepare for Future Cyber Threats, Former CISA Director Says     - CNET](https://www.cnet.com/tech/services-and-software/companies-must-prepare-for-future-cyber-threats-former-cisa-director-says/#ftag=CAD590a51e)
- - [Best OBD2 Scanners for 2022     - CNET](https://www.cnet.com/roadshow/news/best-obd2-scanners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cisco says it was hacked by the Yanluowang ransomware group in May 2022; Yanluowang claims 2.75GB of data consisting of ~3.1K files, including NDAs, was stolen &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220810/p38#a220810p38)
+ - [Percentage of Teens Who Say They&#39;re &#39;Almost Constantly&#39; On Social Media Has Doubled in Survey     - CNET](https://www.cnet.com/news/social-media/percentage-of-teens-who-say-theyre-almost-constantly-on-social-media-has-doubled-in-survey/#ftag=CAD590a51e)
+ - [Meta&#39;s New AI-Powered Chatbot Isn&#39;t &#39;Crazy&#39; About Facebook     - CNET](https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
