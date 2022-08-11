@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid : **chuckle* I&#39;m in danger**](http://9gag.com/gag/a41vV9v)
- - 🚯 [Sister: I&#39;m not even mad, that&#39;s amazing.](http://9gag.com/gag/azenQRq)
- - 🚯 [Ball on target](http://9gag.com/gag/arnYzy7)<!-- MEMES:END -->
+ - 🚖 [Why there&#39;s no cure for ugly *sad noises*](http://9gag.com/gag/aM4gq3A)
+ - 🚯 [Easy, just work harder](http://9gag.com/gag/aXrBdXz)
+ - 🚯 [K-pop bands](http://9gag.com/gag/aAGjZQ0)<!-- MEMES:END -->
 
 --- 
 
