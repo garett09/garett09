@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates 40 years in Australia with new energy and education initiatives](https://appleinsider.com/articles/22/08/11/apple-celebrates-40-years-in-australia-with-new-energy-and-education-initiatives?utm_medium=rss)
- - [Meta Just Happens to Expand Messenger&#39;s End-to-End Encryption](https://www.wired.com/story/meta-messenger-encryption-nebraska-abortion/)
- - [Swarms of Mini Robots Could Dig the Tunnels of the Future](https://www.wired.com/story/swarms-of-mini-robots-could-dig-the-tunnels-of-the-future/)<!-- TECH:END -->
+ - [Epic Games versus Apple appeals to be heard on October 21](https://appleinsider.com/articles/22/08/11/epic-games-versus-apple-appeals-to-be-heard-on-october-21?utm_medium=rss)
+ - [As Nigerian payments startup Flutterwave prepares for an IPO, it faces allegations of financial impropriety, a culture of harassment and bullying, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220811/p13#a220811p13)
+ - [This Mac hacker’s code is so good, corporations keep stealing it](https://www.theverge.com/2022/8/11/23301130/patrick-wardle-mac-code-corporations-stealing-black-hat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
