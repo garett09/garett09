@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcade Paradise – Tips to Help You Build the Ultimate Games Arcade!](https://news.xbox.com/en-us/2022/08/11/arcade-paradise-tips-to-help-you-build-the-ultimate-games-arcade/)
- - [Tower of Fantasy beginner’s guide, tips, and tricks](https://www.polygon.com/guides/23301557/tower-of-fantasy-beginners-guide-tips-tricks-chest-nucleus-simulcra-reset-level-cap)
- - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)<!-- GAME:END -->
+ - [FIFA 23 will bring back loot boxes, EA confirms as it defends the practice](https://www.pcgamer.com/fifa-23-will-bring-back-loot-boxes-ea-confirms-as-it-defends-the-practice)
+ - [These simple keyboard shortcuts broke the brains of my Gen Z coworkers](https://www.pcgamer.com/ctrl-shift-arrow-key-keyboard-shortcut)
+ - [Meta chatbot claims Mark Zuckerberg is &#39;cooler than Dragon Age,&#39; but can we trust it?](https://www.pcgamer.com/meta-chatbot-claims-mark-zuckerberg-is-cooler-than-dragon-age-but-can-we-trust-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
