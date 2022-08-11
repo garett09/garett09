@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Point Campus, Now On Game Pass, Is A Chill Time For Everyone](https://kotaku.com/two-point-campus-hospital-game-pass-review-pc-sim-1849397889)
- - [Overwatch pro has no idea he&#39;s been fired, finds out at the same time as the rest of the world](https://www.pcgamer.com/overwatch-pro-has-no-idea-hes-been-fired-finds-out-at-the-same-time-as-the-rest-of-the-world)
- - [Why video game horses are so hard to animate](https://www.polygon.com/videos/23296728/video-game-horses-animation-video-alice-ruppert)<!-- GAME:END -->
+ - [NBA 2K23 brings back The Jordan Challenge, sparing no expense](https://www.polygon.com/23300992/nba-2k23-the-jordan-challenge-2-list-of-moments)
+ - [All 15 games of NBA 2K23’s new Jordan Challenge](https://www.polygon.com/23299903/nba-2k23-jordan-challenge-games-list)
+ - [Kirby can wear a Kirby car cake hat in Kirby’s Dream Buffet](https://www.polygon.com/23301379/kirbys-dream-buffet-release-date-gameplay-modes-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
