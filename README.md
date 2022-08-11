@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best defender](http://9gag.com/gag/a514DxG)
- - 🚯 [Duck](http://9gag.com/gag/aOQwpn2)
+ - 🚖 [Kid : **chuckle* I&#39;m in danger**](http://9gag.com/gag/a41vV9v)
+ - 🚯 [Sister: I&#39;m not even mad, that&#39;s amazing.](http://9gag.com/gag/azenQRq)
  - 🚯 [Ball on target](http://9gag.com/gag/arnYzy7)<!-- MEMES:END -->
 
 --- 
