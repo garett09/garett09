@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am pushing still!](http://9gag.com/gag/amg3pGo)
- - 🚯 [Blame it on the millennials](http://9gag.com/gag/aLvxdeW)
- - 🚯 [Cooking diaries](http://9gag.com/gag/aKmRKDb)<!-- MEMES:END -->
+ - 🚖 [With the autumn and holidays seasons looming](http://9gag.com/gag/a41vwP1)
+ - 🚯 [Cooking diaries](http://9gag.com/gag/aKmRKDb)
+ - 🚯 [What the f**k!?](http://9gag.com/gag/aqG0YjP)<!-- MEMES:END -->
 
 --- 
 
