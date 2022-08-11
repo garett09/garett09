@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why there&#39;s no cure for ugly *sad noises*](http://9gag.com/gag/aM4gq3A)
- - 🚯 [Easy, just work harder](http://9gag.com/gag/aXrBdXz)
- - 🚯 [K-pop bands](http://9gag.com/gag/aAGjZQ0)<!-- MEMES:END -->
+ - 🚖 [What the hell is going on with the effects](http://9gag.com/gag/aVxARBK)
+ - 🚯 [K-pop bands](http://9gag.com/gag/aAGjZQ0)
+ - 🚯 [This has been in my mind for a long long time though, rose leslie as aloy?](http://9gag.com/gag/aNPN3DK)<!-- MEMES:END -->
 
 --- 
 
