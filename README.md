@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco says it was hacked by the Yanluowang ransomware group in May 2022; Yanluowang claims 2.75GB of data consisting of ~3.1K files, including NDAs, was stolen &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220810/p38#a220810p38)
- - [Percentage of Teens Who Say They&#39;re &#39;Almost Constantly&#39; On Social Media Has Doubled in Survey     - CNET](https://www.cnet.com/news/social-media/percentage-of-teens-who-say-theyre-almost-constantly-on-social-media-has-doubled-in-survey/#ftag=CAD590a51e)
- - [Meta&#39;s New AI-Powered Chatbot Isn&#39;t &#39;Crazy&#39; About Facebook     - CNET](https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase disclosed in its latest quarterly report that the SEC is investigating its token listing processes, staking programs, and yield-generating products &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220810/p42#a220810p42)
+ - [Beijing-based Geek+, a warehouse robotics and automation company, has raised a $100M Series E1 from Intel Capital, Vertex Growth, and others at a $2B valuation &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220810/p41#a220810p41)
+ - [Omaha, Nebraska-based Pinata, which provides NFT media infrastructure and support for marketplaces and other crypto projects, raised a $21.5M seed and Series A &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220810/p40#a220810p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
