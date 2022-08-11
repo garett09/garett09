@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boulevard, which provides digital tools for beauty and wellness salons to book appointments, message clients, and accept payments, has raised a $70M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220811/p3#a220811p3)
- - [India&#39;s central bank releases guidelines for digital lending, which is projected to reach $350B in India by 2023, after complaints over harsh recovery tactics &lpar;Malavika Kaur Makol/Bloomberg&rpar;](http://www.techmeme.com/220811/p2#a220811p2)
- - [Hong Kong-based Insilico, which uses machine learning to identify potential drug targets, raised $35M from Prosperity7, bringing its total Series D to $95M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220811/p1#a220811p1)<!-- TECH:END -->
+ - [Ethereum&#39;s third and final proof-of-stake test merge goes live on the Goerli test network, a dress rehearsal for the mainnet merge planned for September 2022 &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220811/p4#a220811p4)
+ - [The 2022 Motorola Razr Arrives in China With a Bigger Screen, Second Camera     - CNET](https://www.cnet.com/tech/mobile/the-2022-motorola-razr-arrives-in-china-with-a-bigger-screen-second-camera/#ftag=CAD590a51e)
+ - [Los Angeles-based Boulevard, whose tools let beauty and wellness salons book appointments, message clients, and accept payments, has raised a $70M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220811/p3#a220811p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
