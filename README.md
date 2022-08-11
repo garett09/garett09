@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With the autumn and holidays seasons looming](http://9gag.com/gag/a41vwP1)
- - 🚯 [Cooking diaries](http://9gag.com/gag/aKmRKDb)
- - 🚯 [What the f**k!?](http://9gag.com/gag/aqG0YjP)<!-- MEMES:END -->
+ - 🚖 [Apply milk of poppy to the burnt area](http://9gag.com/gag/a91oDBD)
+ - 🚯 [She&#39;s a keeper](http://9gag.com/gag/avAN9XX)
+ - 🚯 [The bear too much eat `ac\u0131` honey and this kind of honey gives a shock effect when you eat too much](http://9gag.com/gag/awzwepx)<!-- MEMES:END -->
 
 --- 
 
