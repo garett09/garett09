@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to block and report spam calls and texts on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-block-and-report-spam-calls-and-texts-on-iphone?utm_medium=rss)
- - [Deal alert: Apple AirPods dip down to $99 at Amazon](https://appleinsider.com/articles/22/08/11/deal-alert-apple-airpods-dip-down-to-99-at-amazon?utm_medium=rss)
- - [A Bioengineered Cornea Shows It Can Improve People’s Sight](https://www.wired.com/story/a-bioengineered-cornea-shows-it-can-improve-peoples-sight/)<!-- TECH:END -->
+ - [Rick and Morty are getting into the podcast game in first season 6 trailer](https://www.theverge.com/2022/8/11/23301497/rick-and-morty-season-six-trailer-adult-swim)
+ - [Mailchimp co-founder and CEO Ben Chestnut plans to step down after 21 years and transition to a founder-advisor role; Intuit&#39;s Rania Succar will take over &lpar;Eric Mandel/Atlanta Business Journal&rpar;](http://www.techmeme.com/220811/p20#a220811p20)
+ - [The FEC approves a proposal from Google to keep campaign emails from being marked as spam, after GOP lawmakers said Gmail was censoring right-wing emails &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220811/p19#a220811p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
