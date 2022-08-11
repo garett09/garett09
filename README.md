@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A dead Father buys his son a guitar. Parents are amazing. -](http://9gag.com/gag/apgOAv8)
- - 🚯 [One last meal before going back to the city driving 7 hours home](http://9gag.com/gag/amg3MO9)
- - 🚯 [Foot-hand](http://9gag.com/gag/aRrn2WA)<!-- MEMES:END -->
+ - 🚖 [Foot-hand](http://9gag.com/gag/aRrn2WA)
+ - 🚯 [Prehistoric 80 million year old shark also known as \u201dthe frilled shark\u201d discovered in Awashima, Japan.](http://9gag.com/gag/aAGjX5L)
+ - 🚯 [Tubs gets pets :D](http://9gag.com/gag/a81ZKn1)<!-- MEMES:END -->
 
 --- 
 
