@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Write for PC Gamer](https://www.pcgamer.com/write-for-pc-gamer)
- - [Dive into a Floating Platformer – Ynglet is out Now on Xbox](https://news.xbox.com/en-us/2022/08/11/dive-into-a-floating-platformer-ynglet-is-out-now-on-xbox/)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
+ - [Arcade Paradise – Tips to Help You Build the Ultimate Games Arcade!](https://news.xbox.com/en-us/2022/08/11/arcade-paradise-tips-to-help-you-build-the-ultimate-games-arcade/)
+ - [Tower of Fantasy beginner’s guide, tips, and tricks](https://www.polygon.com/guides/23301557/tower-of-fantasy-beginners-guide-tips-tricks-chest-nucleus-simulcra-reset-level-cap)
+ - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
