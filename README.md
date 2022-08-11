@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games versus Apple appeals to be heard on October 21](https://appleinsider.com/articles/22/08/11/epic-games-versus-apple-appeals-to-be-heard-on-october-21?utm_medium=rss)
- - [As Nigerian payments startup Flutterwave prepares for an IPO, it faces allegations of financial impropriety, a culture of harassment and bullying, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220811/p13#a220811p13)
- - [This Mac hacker’s code is so good, corporations keep stealing it](https://www.theverge.com/2022/8/11/23301130/patrick-wardle-mac-code-corporations-stealing-black-hat)<!-- TECH:END -->
+ - [Daily deals August 11: $50 off iPad Air 5, 16GB Mac mini for $799, $300 off 16-inch MacBook Pro, more](https://appleinsider.com/articles/22/08/11/daily-deals-august-11-50-off-ipad-air-5-16gb-mac-mini-for-799-300-off-16-inch-macbook-pro-more?utm_medium=rss)
+ - [Bricked Epson printers make a strong case for user repairability](https://www.theverge.com/2022/8/11/23301272/epson-ink-pad-right-to-repair)
+ - [Twitter outlines its election integrity plans ahead of the US midterms, including redesigned tweet labels and &quot;prebunks&quot; for misleading narratives &lpar;Twitter&rpar;](http://www.techmeme.com/220811/p17#a220811p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
