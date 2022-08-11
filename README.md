@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tower of Fantasy’s character creator is perfect for making Genshin Impact characters](https://www.polygon.com/23300394/tower-of-fantasy-launch-genshin-impact)
- - [With guns drawn, police raid home of trans Twitch streamer Clara &#39;Keffals&#39; Sorrenti in latest swatting debacle](https://www.pcgamer.com/keffals-swatting)
- - [Cards Against Humanity to donate sales from ‘forced-birth Republican hellholes’ to abortion funds](https://www.polygon.com/23300475/cards-against-humanity-abortion-funds-new-packs)<!-- GAME:END -->
+ - [The internet won&#39;t stop roasting this new Forspoken trailer](https://www.pcgamer.com/the-internet-wont-stop-roasting-this-new-forspoken-trailer)
+ - [Farthest Frontier crop rotation guide: Getting the most out of your farms](https://www.pcgamer.com/farthest-frontier-crop-rotation-guide)
+ - [Very Bad Forspoken Ad Gets Absolutely Roasted](https://kotaku.com/forspoken-square-enix-trailer-bad-roasted-ps5-xbox-1849398320)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
