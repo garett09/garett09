@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals August 11: $50 off iPad Air 5, 16GB Mac mini for $799, $300 off 16-inch MacBook Pro, more](https://appleinsider.com/articles/22/08/11/daily-deals-august-11-50-off-ipad-air-5-16gb-mac-mini-for-799-300-off-16-inch-macbook-pro-more?utm_medium=rss)
- - [Bricked Epson printers make a strong case for user repairability](https://www.theverge.com/2022/8/11/23301272/epson-ink-pad-right-to-repair)
- - [Twitter outlines its election integrity plans ahead of the US midterms, including redesigned tweet labels and &quot;prebunks&quot; for misleading narratives &lpar;Twitter&rpar;](http://www.techmeme.com/220811/p17#a220811p17)<!-- TECH:END -->
+ - [Telegram CEO claims Apple is delaying update that will &#39;revolutionize&#39; messaging](https://appleinsider.com/articles/22/08/11/telegram-ceo-claims-apple-is-delaying-update-that-will-revolutionize-messaging?utm_medium=rss)
+ - [The Best Pizza Ovens to Make the Perfect Slice](https://www.wired.com/gallery/best-pizza-ovens/)
+ - [iRobot’s excellent Roomba i3 EVO is available refurbished for $170 off today](https://www.theverge.com/good-deals/2022/8/11/23300375/irobot-roomba-i3-evo-apple-pencil-anker-usb-c-charger-resident-evil-kindle-paperwhite-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
