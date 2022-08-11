@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Headquarters works best when Owen Wilson is a dad, not a superhero](https://www.polygon.com/reviews/23300309/owen-wilson-secret-headquarters-review-paramount-plus)
- - [Doom and Quake are being cleaned up for newcomers in time for QuakeCon](https://www.pcgamer.com/doom-and-quake-are-being-cleaned-up-for-newcomers-in-time-for-quakecon)
- - [This is almost the sci-fi gaming desk of my dreams yet I am not worthy](https://www.pcgamer.com/sci-fi-gaming-desk-lumina)<!-- GAME:END -->
+ - [Two Point Campus, Now On Game Pass, Is A Chill Time For Everyone](https://kotaku.com/two-point-campus-hospital-game-pass-review-pc-sim-1849397889)
+ - [Overwatch pro has no idea he&#39;s been fired, finds out at the same time as the rest of the world](https://www.pcgamer.com/overwatch-pro-has-no-idea-hes-been-fired-finds-out-at-the-same-time-as-the-rest-of-the-world)
+ - [Why video game horses are so hard to animate](https://www.polygon.com/videos/23296728/video-game-horses-animation-video-alice-ruppert)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
