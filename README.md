@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase disclosed in its latest quarterly report that the SEC is investigating its token listing processes, staking programs, and yield-generating products &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220810/p42#a220810p42)
- - [Beijing-based Geek+, a warehouse robotics and automation company, has raised a $100M Series E1 from Intel Capital, Vertex Growth, and others at a $2B valuation &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/220810/p41#a220810p41)
- - [Omaha, Nebraska-based Pinata, which provides NFT media infrastructure and support for marketplaces and other crypto projects, raised a $21.5M seed and Series A &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220810/p40#a220810p40)<!-- TECH:END -->
+ - [Google Search will stop telling you when Snoopy assassinated Abe Lincoln](https://www.theverge.com/2022/8/11/23300668/google-search-featured-snippets-update-false-premises-consensus-results)
+ - [Sources: Elon Musk&#39;s lawyers have asked the judge to compel Twitter to hand over the names of employees responsible for counting spam and bot accounts &lpar;Bloomberg&rpar;](http://www.techmeme.com/220810/p44#a220810p44)
+ - [Disney lowers its forecast for Disney+ subscribers and separates Disney+ Hotstar subscriptions in guidance, after losing Indian Premier League streaming rights &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/220810/p43#a220810p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
