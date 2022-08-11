@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese chipmaker SMIC reports Q2 revenue rose 41.6% YoY to $1.9B vs. $1.89B est., but net profit fell 25% YoY to $514M, amid lockdowns and harsher US sanctions &lpar;South China Morning Post&rpar;](http://www.techmeme.com/220811/p25#a220811p25)
- - [Apple Watch Series 8: Everything we know so far &lpar;Updated: Aug 11&rpar;](https://www.androidauthority.com/apple-watch-series-8-3162710/)
- - [Rivian reports more losses in the second quarter of 2022](https://www.theverge.com/2022/8/11/23301444/rivian-q2-2022-earnings-ev-r1t-r1s)<!-- TECH:END -->
+ - [Amazon finally added a good slideshow feature to the Echo Show](https://www.theverge.com/2022/8/11/23302051/echo-show-fire-tv-new-photo-frame-mode)
+ - [Apple asks suppliers to make 90 million iPhone 14 units](https://appleinsider.com/articles/22/08/11/apple-asks-suppliers-to-make-90-million-iphone-14-units?utm_medium=rss)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
