@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 418 answer and hint: Thursday, August 11](https://www.pcgamer.com/todays-wordle-418-answer-hint)
  - [Your SSD is fast, but it&#39;s got a dirty side](https://www.pcgamer.com/your-ssd-is-fast-but-its-got-a-dirty-side)
- - [AMD&#39;s Zen 4 CPUs should perform well with DDR5-6000 memory](https://www.pcgamer.com/amds-zen-4-cpus-should-perform-well-with-ddr5-6000-memory)
- - [Half-Life 2 Will Soon Be Playable In VR](https://kotaku.com/half-life-2-vr-virtual-reality-hl2-mod-pc-valve-oculus-1849398635)<!-- GAME:END -->
+ - [AMD&#39;s Zen 4 CPUs should perform well with DDR5-6000 memory](https://www.pcgamer.com/amds-zen-4-cpus-should-perform-well-with-ddr5-6000-memory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
