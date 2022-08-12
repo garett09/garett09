@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s always a bigger fish.](http://9gag.com/gag/a0ZBW6d)
- - 🚯 [In Japan, traffic stops for schoolgirl. Schoolgirl thanks traffic as only the Japanese can...](http://9gag.com/gag/ay9GV4r)
- - 🚯 [Sure is a nice stick](http://9gag.com/gag/aPZ5zbq)<!-- MEMES:END -->
+ - 🚖 [I have a lot of patients who come to me in the morning after their graveyard shifts. After treatment when they leave I often say `goodnight` and it sure gets some laughs.](http://9gag.com/gag/aWgzenx)
+ - 🚯 [Yummi cream](http://9gag.com/gag/aqG0VxY)
+ - 🚯 [10 years ago I made my first cosplay: Hector, the mascot for the band HammerFall, whom have been my heroes for 22 years. This year I wore a newer version and joined the band on stage in front of 15.000 people and they invited me to pose as their mascot again in early September.](http://9gag.com/gag/avAN48E)<!-- MEMES:END -->
 
 --- 
 
