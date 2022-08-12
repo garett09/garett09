@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to kickstart your miniature Jeff Goldblum collection](https://www.polygon.com/23303030/jeff-goldblum-miniatures-unmatched-dark-dice-podcast-dnd-actual-play)
- - [Destiny 2 Xur location and items, Aug. 12-16](https://www.polygon.com/destiny-2-guide-walkthrough/2022/8/12/23303212/destiny-2-xur-location-items-aug-12-16-this-week)
- - [Netflix’s vampire movie Day Shift adds real bite to a classic action throwback](https://www.polygon.com/reviews/23301934/day-shift-review-netflix-vampire-movie-jamie-foxx-scott-adkins)<!-- GAME:END -->
+ - [Alone in the Dark returns](https://blog.playstation.com/2022/08/12/alone-in-the-dark-returns/)
+ - [Official PlayStation Podcast Episode 437: Fully Indoctrinated](https://blog.playstation.com/2022/08/12/official-playstation-podcast-episode-437-fully-indoctrinated/)
+ - [Wifelike walks a narrow line around sci-fi sleaze](https://www.polygon.com/reviews/23301818/wifelike-review-sci-fi-sexbots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
