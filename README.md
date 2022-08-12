@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have a lot of patients who come to me in the morning after their graveyard shifts. After treatment when they leave I often say `goodnight` and it sure gets some laughs.](http://9gag.com/gag/aWgzenx)
- - 🚯 [A true legend](http://9gag.com/gag/aBnpj3O)
- - 🚯 [There&#39;s no escaping it!](http://9gag.com/gag/ang68oE)<!-- MEMES:END -->
+ - 🚖 [Good idea?](http://9gag.com/gag/aLvx3R6)
+ - 🚯 [TET\u042fIS](http://9gag.com/gag/aZre496)
+ - 🚯 [I dont even know if that\u2019s stupid or a genius\u2019 move](http://9gag.com/gag/a71QmRb)<!-- MEMES:END -->
 
 --- 
 
