@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll take her step mother please..](http://9gag.com/gag/aGzXoBK)
- - 🚯 [I wanna have what he has](http://9gag.com/gag/aKmRng3)
- - 🚯 [Big momy milkers](http://9gag.com/gag/aZreooW)<!-- MEMES:END -->
+ - 🚖 [I wanna have what he has](http://9gag.com/gag/aKmRng3)
+ - 🚯 [There&#39;s always a bigger fish.](http://9gag.com/gag/a0ZBW6d)
+ - 🚯 [In Japan, traffic stops for schoolgirl. Schoolgirl thanks traffic as only the Japanese can...](http://9gag.com/gag/ay9GV4r)<!-- MEMES:END -->
 
 --- 
 
