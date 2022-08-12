@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I always assume right](http://9gag.com/gag/avANqzM)
- - 🚯 [Hola](http://9gag.com/gag/aE83K1N)
- - 🚯 [Houston, we have a good boy](http://9gag.com/gag/azenznm)<!-- MEMES:END -->
+ - 🚖 [Idiot driver weaves through traffic and crashes](http://9gag.com/gag/aKmRZjg)
+ - 🚯 [This guy&#39;s balls are made of steel](http://9gag.com/gag/awzwjoQ)
+ - 🚯 [Hola](http://9gag.com/gag/aE83K1N)<!-- MEMES:END -->
 
 --- 
 
