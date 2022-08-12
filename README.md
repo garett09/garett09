@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [A California bill targeting social media companies for features that could addict minors dies in legislature, after Meta, Twitter, and Snap lobbied against it &lpar;Sarah Donaldson/Wall Street Journal&rpar;](http://www.techmeme.com/220812/p1#a220812p1)
- - [OnePlus 10T gets first update squashing bugs and improving camera experience](https://www.androidauthority.com/oneplus-10-update-3148114/)
- - [We asked, you told us: You still want to buy this old OnePlus flagship](https://www.androidauthority.com/oneplus-phone-poll-3195994/)<!-- TECH:END -->
+ - [Xiaomi launches super-slim foldable phone, the Mi Mix Fold 2     - CNET](https://www.cnet.com/tech/mobile/xiaomi-launches-super-slim-foldable-phone-the-mi-mix-fold-2/#ftag=CAD590a51e)
+ - [OnePlus 10T gets first update squashing bugs and improving camera experience](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
