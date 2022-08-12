@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MultiVersus season 1 kicks off next week following delay](https://www.theverge.com/2022/8/11/23302367/multiversus-season-1-launch-date-rick-and-morty)
- - [Critical Infrastructure Attacks Remain a Major Threat, Top Security Writer Warns     - CNET](https://www.cnet.com/tech/services-and-software/critical-infrastructure-attacks-remain-a-major-threat-top-security-writer-warns/#ftag=CAD590a51e)
- - [People of the Same Weight Can Look Different Based on These Factors     - CNET](https://www.cnet.com/health/why-the-same-weight-looks-different-on-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s Jay Y. Lee, in prison for bribery charges, has received pardon from South Korean President affective August 15, allowing him to work at Samsung again &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220811/p30#a220811p30)
+ - [Best Smart Home Deals: Discounts on Smart Lights, Plugs, Speakers, Appliances and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Sources: SK Hynix to select a US site for its chip packaging plant, which would qualify for CHIPS Act funding, by Q1 2023 and enter mass production by 2025-2026 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/220811/p29#a220811p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
