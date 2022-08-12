@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arcade Paradise is a love letter to management sims and ’90s arcades](https://www.polygon.com/23301231/arcade-paradise-review-impressions)
  - [The real cost of running Crysis in 2007, upgrade by upgrade](https://www.pcgamer.com/the-real-cost-of-running-crysis-in-2007-upgrade-by-upgrade)
- - [The &#39;micro-RPGs&#39; offering new perspectives on the genre&#39;s overstuffed epics](https://www.pcgamer.com/the-micro-rpgs-offering-new-perspectives-on-the-genres-overstuffed-epics)
- - [Game engine developer Unity signs lucrative contract with US Defence](https://www.pcgamer.com/game-engine-developer-unity-signs-lucrative-contract-with-us-defence)<!-- GAME:END -->
+ - [The &#39;micro-RPGs&#39; offering new perspectives on the genre&#39;s overstuffed epics](https://www.pcgamer.com/the-micro-rpgs-offering-new-perspectives-on-the-genres-overstuffed-epics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
