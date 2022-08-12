@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously...it&#39;s not even funny anymore...](http://9gag.com/gag/a41v8Yw)
+ - 🚖 [I always assume right](http://9gag.com/gag/avANqzM)
  - 🚯 [Hola](http://9gag.com/gag/aE83K1N)
  - 🚯 [Houston, we have a good boy](http://9gag.com/gag/azenznm)<!-- MEMES:END -->
 
