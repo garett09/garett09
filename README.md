@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Rings of Power&#39;: All the Terminology You Need to Know Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-terminology-pronunciation-harfoot-helcaraxe-khazad-dum/#ftag=CAD590a51e)
- - [&#39;She-Hulk&#39; Tatiana Maslany On Marvel Publicity and Mark Ruffalo&#39;s Ad Libs     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-tatiana-maslany-on-marvel-publicity-and-mark-ruffalos-ad-libs/#ftag=CAD590a51e)
- - [Anne Heche Dies at 53 Following Car Wreck     - CNET](https://www.cnet.com/culture/entertainment/anne-heche-dies-at-53-following-car-wreck/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zoom installer flaw can give attackers root access to your Mac](https://appleinsider.com/articles/22/08/12/researcher-discovers-zoom-flaw-that-could-give-attackers-root-on-your-mac?utm_medium=rss)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Hands-on with iOS 16&#39;s Lockdown Mode, which aims to protect against highly targeted attacks by disabling link previews in messages, limiting FaceTime, and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220812/p13#a220812p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
