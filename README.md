@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The real cost of running Crysis in 2007, upgrade by upgrade](https://www.pcgamer.com/the-real-cost-of-running-crysis-in-2007-upgrade-by-upgrade)
  - [The &#39;micro-RPGs&#39; offering new perspectives on the genre&#39;s overstuffed epics](https://www.pcgamer.com/the-micro-rpgs-offering-new-perspectives-on-the-genres-overstuffed-epics)
- - [Game engine developer Unity signs lucrative contract with US Defence](https://www.pcgamer.com/game-engine-developer-unity-signs-lucrative-contract-with-us-defence)
- - [Today&#39;s Wordle 419 answer and hint: Friday, August 12](https://www.pcgamer.com/todays-wordle-419-answer-hint)<!-- GAME:END -->
+ - [Game engine developer Unity signs lucrative contract with US Defence](https://www.pcgamer.com/game-engine-developer-unity-signs-lucrative-contract-with-us-defence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
