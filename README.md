@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superheroes walk among us](http://9gag.com/gag/a51437q)
- - 🚯 [Idiot driver weaves through traffic and crashes](http://9gag.com/gag/aKmRZjg)
- - 🚯 [Bill Paxton was the only actor to have been killed by an Alien &lpar;Xenomorph&rpar;, a Terminator and a Predator.](http://9gag.com/gag/awzwjD8)<!-- MEMES:END -->
+ - 🚖 [Bill Paxton was the only actor to have been killed by an Alien &lpar;Xenomorph&rpar;, a Terminator and a Predator.](http://9gag.com/gag/awzwjD8)
+ - 🚯 [Here&#39;s an ear-worm to keep you going this weekend](http://9gag.com/gag/ay9Gw2V)
+ - 🚯 [If you live in a place where such door is needed, the entrance isn&#39;t your biggest problem...](http://9gag.com/gag/aogX6d3)<!-- MEMES:END -->
 
 --- 
 
