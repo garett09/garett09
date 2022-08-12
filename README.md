@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung heir gets pardoned because South Korea’s economy depends on him](https://www.androidauthority.com/samsung-heir-pardoned-3196273/)
- - [Samsung Galaxy Buds 2 Pro vs Google Pixel Buds Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-vs-google-pixel-buds-pro-3194817/)
- - [California ban on ‘addictive’ social media fails](https://www.theverge.com/2022/8/12/23302990/california-ab2408-social-media-children-addiction-bill)<!-- TECH:END -->
+ - [Apple, Facebook said to have discussed &#39;revenue-sharing agreements&#39; years ago](https://appleinsider.com/articles/22/08/12/apple-facebook-said-to-have-discussed-revenue-sharing-agreements-years-ago?utm_medium=rss)
+ - [How to use Flex Mode on the Galaxy Z Flip and Z Fold](https://www.theverge.com/23303069/galaxy-z-flip-fold-flex-mode-panel-touchpad-how-to-use)
+ - [Pokemon Go August Community Day: Galarian Zigzagoon, Event Move and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-august-community-day-galarian-zigzagoon-event-move-and-bonuses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
