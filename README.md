@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Facebook said to have discussed &#39;revenue-sharing agreements&#39; years ago](https://appleinsider.com/articles/22/08/12/apple-facebook-said-to-have-discussed-revenue-sharing-agreements-years-ago?utm_medium=rss)
- - [How to use Flex Mode on the Galaxy Z Flip and Z Fold](https://www.theverge.com/23303069/galaxy-z-flip-fold-flex-mode-panel-touchpad-how-to-use)
- - [Pokemon Go August Community Day: Galarian Zigzagoon, Event Move and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-august-community-day-galarian-zigzagoon-event-move-and-bonuses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-stream-on-hbo-max-this-evening/#ftag=CAD590a51e)
+ - [The Rings of Power: All the Terminology You Need to Know Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-terminology-pronunciation-harfoot-helcaraxe-khazad-dum/#ftag=CAD590a51e)
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
