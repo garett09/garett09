@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus season 1 release date announced, along with Morty’s debut](https://www.polygon.com/23302834/multiversus-season-1-release-date-rick-and-morty-leaked-character-roster)
- - [Anime’s wildest creator is back with the ecstatic, rebellious rock opera Inu-Oh](https://www.polygon.com/23301629/inu-oh-review-anime-masaaki-yuasa)
- - [PC Gamer roasts 15 of the most beloved games](https://www.pcgamer.com/roast-part-1)<!-- GAME:END -->
+ - [PlayStation Store: July 2022’s top downloads](https://blog.playstation.com/2022/08/12/playstation-store-july-2022s-top-downloads/)
+ - [PlayStation Store: July 2022’s top downloads](https://blog.playstation.com/2022/08/12/playstation-store-july-2022s-top-downloads/)
+ - [Next Week on Xbox: New Games for August 15 to 19](https://news.xbox.com/en-us/2022/08/12/next-week-on-xbox-new-games-for-august-15-to-19/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
