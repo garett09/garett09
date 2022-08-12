@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung says its foldable phones will overtake the Galaxy S series by 2025](https://www.androidauthority.com/samsung-foldable-phones-outlook-3196047/)
  - [A California bill targeting social media companies for features that could addict minors dies in legislature, after Meta, Twitter, and Snap lobbied against it &lpar;Sarah Donaldson/Wall Street Journal&rpar;](http://www.techmeme.com/220812/p1#a220812p1)
- - [Xiaomi launches super-slim foldable phone, the Mi Mix Fold 2     - CNET](https://www.cnet.com/tech/mobile/xiaomi-launches-super-slim-foldable-phone-the-mi-mix-fold-2/#ftag=CAD590a51e)
- - [OnePlus 10T gets first update squashing bugs and improving camera experience](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
+ - [Xiaomi Unveils Super Slim Foldable Phone, the Mi Mix Fold 2     - CNET](https://www.cnet.com/tech/mobile/xiaomi-launches-super-slim-foldable-phone-the-mi-mix-fold-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
