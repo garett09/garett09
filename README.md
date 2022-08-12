@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a nice guy](http://9gag.com/gag/aPZ50bP)
- - 🚯 [Houston, we have a good boy](http://9gag.com/gag/azenznm)
- - 🚯 [Seriously...it&#39;s not even funny anymore...](http://9gag.com/gag/a41v8Yw)<!-- MEMES:END -->
+ - 🚖 [Seriously...it&#39;s not even funny anymore...](http://9gag.com/gag/a41v8Yw)
+ - 🚯 [Hola](http://9gag.com/gag/aE83K1N)
+ - 🚯 [Houston, we have a good boy](http://9gag.com/gag/azenznm)<!-- MEMES:END -->
 
 --- 
 
