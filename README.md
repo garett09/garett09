@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom installer flaw can give attackers root access to your Mac](https://appleinsider.com/articles/22/08/12/researcher-discovers-zoom-flaw-that-could-give-attackers-root-on-your-mac?utm_medium=rss)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Hands-on with iOS 16&#39;s Lockdown Mode, which aims to protect against highly targeted attacks by disabling link previews in messages, limiting FaceTime, and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220812/p13#a220812p13)<!-- TECH:END -->
+ - [With the Inflation Reduction Act, the US brings climate goals within reach](https://www.theverge.com/2022/8/12/23302050/inflation-reduction-act-house-vote-climate-change-clean-energy)
+ - [Apple shares first look at &#39;Lessons in Chemistry&#39;](https://appleinsider.com/articles/22/08/12/apple-shares-first-look-at-lessons-in-chemistry?utm_medium=rss)
+ - [Zoom installer flaw can give attackers root access to your Mac](https://appleinsider.com/articles/22/08/12/researcher-discovers-zoom-flaw-that-could-give-attackers-root-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
