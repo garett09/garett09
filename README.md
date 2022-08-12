@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well that must have being an awkward moment](http://9gag.com/gag/a61PxgN)
- - 🚯 [Apparently there is a bank run going on in china and some believe chinese economy is about to collapse soon](http://9gag.com/gag/aGzXNZw)
- - 🚯 [The guy is a motherflippin&#39; pro](http://9gag.com/gag/a119x36)<!-- MEMES:END -->
+ - 🚖 [The guy is a motherflippin&#39; pro](http://9gag.com/gag/a119x36)
+ - 🚯 [Kim Jong-Un announced victory over Covid in North Korea](http://9gag.com/gag/ay9GzBW)
+ - 🚯 [I wanna have what he has](http://9gag.com/gag/aKmRng3)<!-- MEMES:END -->
 
 --- 
 
