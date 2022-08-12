@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-stream-on-hbo-max-this-evening/#ftag=CAD590a51e)
- - [The Rings of Power: All the Terminology You Need to Know Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-terminology-pronunciation-harfoot-helcaraxe-khazad-dum/#ftag=CAD590a51e)
- - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Rings of Power&#39;: All the Terminology You Need to Know Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-terminology-pronunciation-harfoot-helcaraxe-khazad-dum/#ftag=CAD590a51e)
+ - [&#39;She-Hulk&#39; Tatiana Maslany On Marvel Publicity and Mark Ruffalo&#39;s Ad Libs     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-tatiana-maslany-on-marvel-publicity-and-mark-ruffalos-ad-libs/#ftag=CAD590a51e)
+ - [Anne Heche Dies at 53 Following Car Wreck     - CNET](https://www.cnet.com/culture/entertainment/anne-heche-dies-at-53-following-car-wreck/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
