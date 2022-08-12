@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good idea?](http://9gag.com/gag/aLvx3R6)
- - 🚯 [As someone who wears glasses, this one hit close to home](http://9gag.com/gag/aVxA9rK)
- - 🚯 [TET\u042fIS](http://9gag.com/gag/aZre496)<!-- MEMES:END -->
+ - 🚖 [Complete parts of the car](http://9gag.com/gag/ang60w0)
+ - 🚯 [System of a Down. India version](http://9gag.com/gag/aPZ5VLV)
+ - 🚯 [Good](http://9gag.com/gag/aogX6ee)<!-- MEMES:END -->
 
 --- 
 
