@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well...I guess bad luck..](http://9gag.com/gag/aM4g5EP)
- - 🚯 [Are new cartoons sh*t or am i just getting old?](http://9gag.com/gag/aQXG50z)
- - 🚯 [Nice view. Sorry for the music.](http://9gag.com/gag/aDDy5jw)<!-- MEMES:END -->
+ - 🚖 [Nice view. Sorry for the music.](http://9gag.com/gag/aDDy5jw)
+ - 🚯 [If only](http://9gag.com/gag/aAGj55Z)
+ - 🚯 [Are new cartoons sh*t or am i just getting old?](http://9gag.com/gag/aQXG50z)<!-- MEMES:END -->
 
 --- 
 
