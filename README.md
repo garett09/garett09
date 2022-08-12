@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcade Paradise is a love letter to management sims and ’90s arcades](https://www.polygon.com/23301231/arcade-paradise-review-impressions)
- - [The real cost of running Crysis in 2007, upgrade by upgrade](https://www.pcgamer.com/the-real-cost-of-running-crysis-in-2007-upgrade-by-upgrade)
- - [The &#39;micro-RPGs&#39; offering new perspectives on the genre&#39;s overstuffed epics](https://www.pcgamer.com/the-micro-rpgs-offering-new-perspectives-on-the-genres-overstuffed-epics)<!-- GAME:END -->
+ - [MultiVersus season 1 release date announced, along with Morty’s debut](https://www.polygon.com/23302834/multiversus-season-1-release-date-rick-and-morty-leaked-character-roster)
+ - [Anime’s wildest creator is back with the ecstatic, rebellious rock opera Inu-Oh](https://www.polygon.com/23301629/inu-oh-review-anime-masaaki-yuasa)
+ - [PC Gamer roasts 15 of the most beloved games](https://www.pcgamer.com/roast-part-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
