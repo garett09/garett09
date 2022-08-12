@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Timer App Is the Answer to Your Focus Woes     - CNET](https://www.cnet.com/tech/services-and-software/this-timer-app-is-the-answer-to-your-focus-woes/#ftag=CAD590a51e)
- - [Best 55-Inch TV for 2022: Top Features and Brands for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Why You Should Be Using Google Chrome&#39;s Enhanced Safe Browsing Mode     - CNET](https://www.cnet.com/tech/services-and-software/why-you-should-be-using-google-chromes-enhanced-safe-browsing-mode/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: meditation app Calm lays of 20% of its staff; sources say Calm employed ~400 people and approximately 90 were laid off; Calm was valued at $2B in 2020 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/220812/p6#a220812p6)
+ - [How Elon Musk’s attempt to drag out the Twitter trial could backfire](https://www.theverge.com/2022/8/12/23301932/elon-musk-twitter-tesla-shares-money-negotiation-leverage)
+ - [The Quest 2 Is More Expensive, But It&#39;s Still the Best VR Headset For Now     - CNET](https://www.cnet.com/tech/gaming/facebook-oculus-quest-2-vr-review-one-of-my-favorite-game-consoles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
