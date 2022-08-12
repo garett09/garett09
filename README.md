@@ -183,7 +183,7 @@ No Activity Tracked This Week
 <!-- GAME:START -->
  - [THQ Nordic Digital Showcase Recap](https://news.xbox.com/en-us/2022/08/12/thq-nordic-digital-showcase-recap/)
  - [Stay Alive if You Can, with the ID@Xbox Survival Sale](https://news.xbox.com/en-us/2022/08/12/stay-alive-with-the-idxbox-survival-sale/)
- - [This Week on Xbox: New Game Pass Additions, Updates, and Events](https://news.xbox.com/en-us/2022/08/12/this-week-on-xbox-new-game-pass-additions-updates-and-events/)<!-- GAME:END -->
+ - [SpongeBob Squarepants: The Cosmic Shake announced](https://blog.playstation.com/2022/08/12/spongebob-squarepants-the-cosmic-shake-announced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
