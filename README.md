@@ -188,7 +188,7 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Jay Y. Lee, in prison for bribery charges, has received pardon from South Korean President affective August 15, allowing him to work at Samsung again &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220811/p30#a220811p30)
+ - [Samsung&#39;s Jay Y. Lee, in prison for bribery charges, has received pardon from South Korean President effective August 15, allowing him to work at Samsung again &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220811/p30#a220811p30)
  - [Best Smart Home Deals: Discounts on Smart Lights, Plugs, Speakers, Appliances and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
  - [Sources: SK Hynix to select a US site for its chip packaging plant, which would qualify for CHIPS Act funding, by Q1 2023 and enter mass production by 2025-2026 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/220811/p29#a220811p29)<!-- TECH:END -->
 
