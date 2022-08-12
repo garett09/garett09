@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good idea?](http://9gag.com/gag/aLvx3R6)
- - 🚯 [TET\u042fIS](http://9gag.com/gag/aZre496)
- - 🚯 [I dont even know if that\u2019s stupid or a genius\u2019 move](http://9gag.com/gag/a71QmRb)<!-- MEMES:END -->
+ - 🚖 [TET\u042fIS](http://9gag.com/gag/aZre496)
+ - 🚯 [Good idea?](http://9gag.com/gag/aLvx3R6)
+ - 🚯 [How many brush can you find?](http://9gag.com/gag/aVxA98M)<!-- MEMES:END -->
 
 --- 
 
