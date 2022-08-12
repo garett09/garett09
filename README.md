@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About The Weird New Tiny Tina&#39;s Wonderlands Class](https://kotaku.com/tiny-tinas-wonderlands-blightcaller-class-dlc-4-1849405692)
- - [The tense crime drama Emily the Criminal gives Aubrey Plaza the perfect platform](https://www.polygon.com/23301906/emily-the-criminal-review-aubrey-plaza)
- - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)<!-- GAME:END -->
+ - [Netflix’s vampire movie Day Shift adds real bite to a classic action throwback](https://www.polygon.com/reviews/23301934/day-shift-review-netflix-vampire-movie-jamie-foxx-scott-adkins)
+ - [Challenge Yourself in Horizon Chase Turbo’s New Game Mode: Adventures](https://news.xbox.com/en-us/2022/08/12/horizon-chase-turbos-new-game-mode-adventures/)
+ - [Frogun, the game about a frog that&#39;s a gun, might be a speedrunner&#39;s dream](https://www.pcgamer.com/frogun-the-game-about-a-frog-thats-a-gun-might-be-a-speedrunners-dream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
