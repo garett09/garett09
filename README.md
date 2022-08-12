@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: July 2022’s top downloads](https://blog.playstation.com/2022/08/12/playstation-store-july-2022s-top-downloads/)
- - [PlayStation Store: July 2022’s top downloads](https://blog.playstation.com/2022/08/12/playstation-store-july-2022s-top-downloads/)
- - [Next Week on Xbox: New Games for August 15 to 19](https://news.xbox.com/en-us/2022/08/12/next-week-on-xbox-new-games-for-august-15-to-19/)<!-- GAME:END -->
+ - [The Anime Series With Better Metaverses Than Meta, AKA Facebook](https://kotaku.com/meta-metaverse-anime-ghost-in-the-shell-psycho-pass-1849392524)
+ - [Marvel’s Spider-Man Remastered swings onto PC today](https://blog.playstation.com/2022/08/12/marvels-spider-man-remastered-swings-onto-pc-today/)
+ - [Marvel’s Spider-Man Remastered swings onto PC today](https://blog.playstation.com/2022/08/12/marvels-spider-man-remastered-swings-onto-pc-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
