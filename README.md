@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: You still want to buy this old OnePlus flagship](https://www.androidauthority.com/oneplus-phone-poll-3195994/)
  - [Samsung Leader Jay Y. Lee Granted Presidential Pardon     - CNET](https://www.cnet.com/tech/mobile/samsung-leader-jay-y-lee-granted-presidential-pardon/#ftag=CAD590a51e)
- - [Samsung&#39;s Jay Y. Lee, in prison for bribery charges, has received pardon from South Korean President effective August 15, allowing him to work at Samsung again &lpar;Bloomberg&rpar;](http://www.techmeme.com/220811/p30#a220811p30)
- - [Best Smart Home Deals: Discounts on Smart Lights, Plugs, Speakers, Appliances and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s Jay Y. Lee, who spent 18 months in prison for bribery, wins a pardon from South Korea&#39;s President, letting him regain his leadership role at Samsung &lpar;Bloomberg&rpar;](http://www.techmeme.com/220811/p30#a220811p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
