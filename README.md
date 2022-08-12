@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Superheroes walk among us](http://9gag.com/gag/a51437q)
- - 🚯 [This is the perfect example on why the trilogy is awesome. Awesome action, OST and comedy all in one scene](http://9gag.com/gag/a61PzR2)
- - 🚯 [Idiot driver weaves through traffic and crashes](http://9gag.com/gag/aKmRZjg)<!-- MEMES:END -->
+ - 🚯 [Idiot driver weaves through traffic and crashes](http://9gag.com/gag/aKmRZjg)
+ - 🚯 [Bill Paxton was the only actor to have been killed by an Alien &lpar;Xenomorph&rpar;, a Terminator and a Predator.](http://9gag.com/gag/awzwjD8)<!-- MEMES:END -->
 
 --- 
 
