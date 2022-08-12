@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The guy is a motherflippin&#39; pro](http://9gag.com/gag/a119x36)
- - 🚯 [Kim Jong-Un announced victory over Covid in North Korea](http://9gag.com/gag/ay9GzBW)
- - 🚯 [I wanna have what he has](http://9gag.com/gag/aKmRng3)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll take her step mother please..](http://9gag.com/gag/aGzXoBK)
+ - 🚯 [I wanna have what he has](http://9gag.com/gag/aKmRng3)
+ - 🚯 [Big momy milkers](http://9gag.com/gag/aZreooW)<!-- MEMES:END -->
 
 --- 
 
