@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here&#39;s an ear-worm to keep you going this weekend](http://9gag.com/gag/ay9Gw2V)
- - 🚯 [This guy&#39;s balls are made of steel](http://9gag.com/gag/awzwjoQ)
- - 🚯 [Well...I guess bad luck..](http://9gag.com/gag/aM4g5EP)<!-- MEMES:END -->
+ - 🚖 [Well...I guess bad luck..](http://9gag.com/gag/aM4g5EP)
+ - 🚯 [Are new cartoons sh*t or am i just getting old?](http://9gag.com/gag/aQXG50z)
+ - 🚯 [Nice view. Sorry for the music.](http://9gag.com/gag/aDDy5jw)<!-- MEMES:END -->
 
 --- 
 
