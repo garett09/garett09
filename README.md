@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor roundup: Apple&#39;s 10th-generation iPad could see a significant redesign](https://appleinsider.com/articles/22/08/12/rumor-roundup-apples-10th-generation-ipad-could-see-a-significant-redesign?utm_medium=rss)
- - [Want to Run on the Beach? Start With the Right Shoes](https://www.wired.com/gallery/best-beach-running-shoes/)
- - [CalDigit’s TS4 is the new king of Thunderbolt docks](https://www.theverge.com/22957456/caldigit-ts4-thunderbolt-4-dock-review)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;She-Hulk: Attorney at Law&#39;: Everything You Need to Know     - CNET](https://www.cnet.com/culture/entertainment/marvels-she-hulk-attorney-at-law-has-a-hilarious-new-trailer-and-release-date/#ftag=CAD590a51e)
+ - [Best Memory Foam Mattress of 2022     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
+ - [Vergecast: Samsung’s newest foldables and Disney’s prices go up](https://www.theverge.com/2022/8/12/23302109/samsung-galaxy-unpacked-z-fold-4-flip-disney-plus-streaming-podcast-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
