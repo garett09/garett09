@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn rolls out new features to court creators, including a clickable link on images, templates for posts, and the ability to mix images and videos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220811/p27#a220811p27)
- - [Ring’s new TV show sounds like a dystopian America’s Funniest Home Videos](https://www.theverge.com/2022/8/11/23302145/ring-nation-wanda-sykes-mgm-big-fish-entertainment)
- - [Frankfurt-based AAA games studio Gunzilla Games has raised $46M led by Republic Capital and plans to include in-game item trading with NFTs in an upcoming title &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220811/p26#a220811p26)<!-- TECH:END -->
+ - [MultiVersus season 1 kicks off next week following delay](https://www.theverge.com/2022/8/11/23302367/multiversus-season-1-launch-date-rick-and-morty)
+ - [Critical Infrastructure Attacks Remain a Major Threat, Top Security Writer Warns     - CNET](https://www.cnet.com/tech/services-and-software/critical-infrastructure-attacks-remain-a-major-threat-top-security-writer-warns/#ftag=CAD590a51e)
+ - [People of the Same Weight Can Look Different Based on These Factors     - CNET](https://www.cnet.com/health/why-the-same-weight-looks-different-on-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
