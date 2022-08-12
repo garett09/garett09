@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TET\u042fIS](http://9gag.com/gag/aZre496)
- - 🚯 [Good idea?](http://9gag.com/gag/aLvx3R6)
- - 🚯 [How many brush can you find?](http://9gag.com/gag/aVxA98M)<!-- MEMES:END -->
+ - 🚖 [Good idea?](http://9gag.com/gag/aLvx3R6)
+ - 🚯 [As someone who wears glasses, this one hit close to home](http://9gag.com/gag/aVxA9rK)
+ - 🚯 [TET\u042fIS](http://9gag.com/gag/aZre496)<!-- MEMES:END -->
 
 --- 
 
