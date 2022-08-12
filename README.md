@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bill Paxton was the only actor to have been killed by an Alien &lpar;Xenomorph&rpar;, a Terminator and a Predator.](http://9gag.com/gag/awzwjD8)
- - 🚯 [Here&#39;s an ear-worm to keep you going this weekend](http://9gag.com/gag/ay9Gw2V)
- - 🚯 [If you live in a place where such door is needed, the entrance isn&#39;t your biggest problem...](http://9gag.com/gag/aogX6d3)<!-- MEMES:END -->
+ - 🚖 [Here&#39;s an ear-worm to keep you going this weekend](http://9gag.com/gag/ay9Gw2V)
+ - 🚯 [This guy&#39;s balls are made of steel](http://9gag.com/gag/awzwjoQ)
+ - 🚯 [Well...I guess bad luck..](http://9gag.com/gag/aM4g5EP)<!-- MEMES:END -->
 
 --- 
 
