@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How do AirTags work? AirTag, Tile, and Galaxy SmartTag Tracking, Explained](https://www.androidauthority.com/how-do-airtags-work-3182923/)
- - [Best Car Backup Cameras for 2022     - CNET](https://www.cnet.com/roadshow/news/best-backup-camera/#ftag=CAD590a51e)
- - [Culture - Geek&#39;s Guide to the Galaxy](https://www.wired.com/2022/08/geeks-guide-kings-quest-creators/)<!-- TECH:END -->
+ - [Samsung heir gets pardoned because South Korea’s economy depends on him](https://www.androidauthority.com/samsung-heir-pardoned-3196273/)
+ - [Samsung Galaxy Buds 2 Pro vs Google Pixel Buds Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-vs-google-pixel-buds-pro-3194817/)
+ - [California ban on ‘addictive’ social media fails](https://www.theverge.com/2022/8/12/23302990/california-ab2408-social-media-children-addiction-bill)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
