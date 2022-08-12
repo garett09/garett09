@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel&#39;s &#39;She-Hulk: Attorney at Law&#39;: Everything You Need to Know     - CNET](https://www.cnet.com/culture/entertainment/marvels-she-hulk-attorney-at-law-has-a-hilarious-new-trailer-and-release-date/#ftag=CAD590a51e)
- - [Best Memory Foam Mattress of 2022     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
- - [Vergecast: Samsung’s newest foldables and Disney’s prices go up](https://www.theverge.com/2022/8/12/23302109/samsung-galaxy-unpacked-z-fold-4-flip-disney-plus-streaming-podcast-vergecast)<!-- TECH:END -->
+ - [How do AirTags work? AirTag, Tile, and Galaxy SmartTag Tracking, Explained](https://www.androidauthority.com/how-do-airtags-work-3182923/)
+ - [Best Car Backup Cameras for 2022     - CNET](https://www.cnet.com/roadshow/news/best-backup-camera/#ftag=CAD590a51e)
+ - [Culture - Geek&#39;s Guide to the Galaxy](https://www.wired.com/2022/08/geeks-guide-kings-quest-creators/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
