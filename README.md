@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s vampire movie Day Shift adds real bite to a classic action throwback](https://www.polygon.com/reviews/23301934/day-shift-review-netflix-vampire-movie-jamie-foxx-scott-adkins)
- - [Challenge Yourself in Horizon Chase Turbo’s New Game Mode: Adventures](https://news.xbox.com/en-us/2022/08/12/horizon-chase-turbos-new-game-mode-adventures/)
- - [Frogun, the game about a frog that&#39;s a gun, might be a speedrunner&#39;s dream](https://www.pcgamer.com/frogun-the-game-about-a-frog-thats-a-gun-might-be-a-speedrunners-dream)<!-- GAME:END -->
+ - [How to kickstart your miniature Jeff Goldblum collection](https://www.polygon.com/23303030/jeff-goldblum-miniatures-unmatched-dark-dice-podcast-dnd-actual-play)
+ - [Destiny 2 Xur location and items, Aug. 12-16](https://www.polygon.com/destiny-2-guide-walkthrough/2022/8/12/23303212/destiny-2-xur-location-items-aug-12-16-this-week)
+ - [Netflix’s vampire movie Day Shift adds real bite to a classic action throwback](https://www.polygon.com/reviews/23301934/day-shift-review-netflix-vampire-movie-jamie-foxx-scott-adkins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
