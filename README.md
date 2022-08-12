@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [No, Elden Ring And GTA V Are Not On Game Pass &lpar;Yet&rpar;](https://kotaku.com/elden-ring-gta-v-grand-theft-auto-v-game-pass-cloud-1849403731)
  - [Mod makes Halo&#39;s Master Chief into a Yakuza enforcer](https://www.pcgamer.com/mod-makes-halos-master-chief-into-a-yakuza-enforcer)
- - [Unity Signs Multi-Million Dollar Contract To Help U.S. Army And Defense Agencies](https://kotaku.com/unity-new-contract-us-government-military-army-engine-1849403118)
- - [Dragon Ball Z is now available in the original Japanese on Crunchyroll](https://www.polygon.com/23302189/dragon-ball-z-crunchyroll-subbed-japanese)<!-- GAME:END -->
+ - [Unity Signs Multi-Million Dollar Contract To Help U.S. Army And Defense Agencies](https://kotaku.com/unity-new-contract-us-government-military-army-engine-1849403118)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
