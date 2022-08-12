@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [TwitchCon about-face now requires masks and more for 2022 in San Diego](https://www.pcgamer.com/twitchcon-about-face-now-requires-masks-and-more-for-2022-in-san-diego)
  - [Fortnite Creative is flexible enough to make a convincing tribute to Bioshock&#39;s Rapture](https://www.pcgamer.com/fortnite-creative-is-flexible-enough-to-make-a-convincing-tribute-to-bioshocks-rapture)
- - [This Week on Xbox: New Game Pass Additions, Updates, and Events](https://news.xbox.com/en-us/2022/08/12/this-week-on-xbox-new-game-pass-additions-updates-and-events/)
- - [Elvis, Netflix’s Day Shift, and every other new movie you can stream from home this weekend](https://www.polygon.com/23296917/new-movies-watch-elvis-netflix-day-shift-streaming)<!-- GAME:END -->
+ - [This Week on Xbox: New Game Pass Additions, Updates, and Events](https://news.xbox.com/en-us/2022/08/12/this-week-on-xbox-new-game-pass-additions-updates-and-events/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
