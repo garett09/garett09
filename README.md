@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alone in the Dark returns](https://blog.playstation.com/2022/08/12/alone-in-the-dark-returns/)
- - [Official PlayStation Podcast Episode 437: Fully Indoctrinated](https://blog.playstation.com/2022/08/12/official-playstation-podcast-episode-437-fully-indoctrinated/)
- - [Wifelike walks a narrow line around sci-fi sleaze](https://www.polygon.com/reviews/23301818/wifelike-review-sci-fi-sexbots)<!-- GAME:END -->
+ - [THQ Nordic Digital Showcase Recap](https://news.xbox.com/en-us/2022/08/12/thq-nordic-digital-showcase-recap/)
+ - [Stay Alive if You Can, with the ID@Xbox Survival Sale](https://news.xbox.com/en-us/2022/08/12/stay-alive-with-the-idxbox-survival-sale/)
+ - [This Week on Xbox: New Game Pass Additions, Updates, and Events](https://news.xbox.com/en-us/2022/08/12/this-week-on-xbox-new-game-pass-additions-updates-and-events/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
