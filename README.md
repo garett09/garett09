@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Anime Series With Better Metaverses Than Meta, AKA Facebook](https://kotaku.com/meta-metaverse-anime-ghost-in-the-shell-psycho-pass-1849392524)
- - [Marvel’s Spider-Man Remastered swings onto PC today](https://blog.playstation.com/2022/08/12/marvels-spider-man-remastered-swings-onto-pc-today/)
- - [Marvel’s Spider-Man Remastered swings onto PC today](https://blog.playstation.com/2022/08/12/marvels-spider-man-remastered-swings-onto-pc-today/)<!-- GAME:END -->
+ - [Everything You Need To Know About The Weird New Tiny Tina&#39;s Wonderlands Class](https://kotaku.com/tiny-tinas-wonderlands-blightcaller-class-dlc-4-1849405692)
+ - [The tense crime drama Emily the Criminal gives Aubrey Plaza the perfect platform](https://www.polygon.com/23301906/emily-the-criminal-review-aubrey-plaza)
+ - [The best Skyrim Special Edition mods](https://www.pcgamer.com/best-skyrim-special-edition-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
