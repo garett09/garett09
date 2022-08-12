@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot driver weaves through traffic and crashes](http://9gag.com/gag/aKmRZjg)
- - 🚯 [This guy&#39;s balls are made of steel](http://9gag.com/gag/awzwjoQ)
- - 🚯 [Hola](http://9gag.com/gag/aE83K1N)<!-- MEMES:END -->
+ - 🚖 [Rejection](http://9gag.com/gag/a514Avo)
+ - 🚯 [Bill Paxton was the only actor to have been killed by an Alien &lpar;Xenomorph&rpar;, a Terminator and a Predator.](http://9gag.com/gag/awzwjD8)
+ - 🚯 [Idiot driver weaves through traffic and crashes](http://9gag.com/gag/aKmRZjg)<!-- MEMES:END -->
 
 --- 
 
