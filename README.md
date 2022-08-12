@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: meditation app Calm lays of 20% of its staff; sources say Calm employed ~400 people and approximately 90 were laid off; Calm was valued at $2B in 2020 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/220812/p6#a220812p6)
- - [How Elon Musk’s attempt to drag out the Twitter trial could backfire](https://www.theverge.com/2022/8/12/23301932/elon-musk-twitter-tesla-shares-money-negotiation-leverage)
- - [The Quest 2 Is More Expensive, But It&#39;s Still the Best VR Headset For Now     - CNET](https://www.cnet.com/tech/gaming/facebook-oculus-quest-2-vr-review-one-of-my-favorite-game-consoles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 M1 Max MacBook Pros with 64GB RAM are in stock &amp; up to $300 off](https://appleinsider.com/articles/22/08/12/9-m1-max-macbook-pros-with-64gb-ram-are-in-stock-up-to-300-off?utm_medium=rss)
+ - [India seizes assets worth $46.4M from the local entity of crypto exchange Vauld for allegedly facilitating &quot;crime-derived&quot; proceeds from predatory lending firms &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220812/p7#a220812p7)
+ - [Why it’s taking so long to encrypt Facebook Messenger](https://www.theverge.com/2022/8/12/23302807/facebook-messenger-encryption-abortion-kansas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
