@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As someone who wears glasses, this one hit close to home](http://9gag.com/gag/aVxA9rK)
- - 🚯 [I have a lot of patients who come to me in the morning after their graveyard shifts. After treatment when they leave I often say `goodnight` and it sure gets some laughs.](http://9gag.com/gag/aWgzenx)
- - 🚯 [Sure is a nice stick](http://9gag.com/gag/aPZ5zbq)<!-- MEMES:END -->
+ - 🚖 [I have a lot of patients who come to me in the morning after their graveyard shifts. After treatment when they leave I often say `goodnight` and it sure gets some laughs.](http://9gag.com/gag/aWgzenx)
+ - 🚯 [A true legend](http://9gag.com/gag/aBnpj3O)
+ - 🚯 [There&#39;s no escaping it!](http://9gag.com/gag/ang68oE)<!-- MEMES:END -->
 
 --- 
 
