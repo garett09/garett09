@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 cheat maker claims it hasn&#39;t harmed the game, says Bungie should work with it](https://www.pcgamer.com/destiny-2-cheat-maker-claims-it-hasnt-harmed-the-game-says-bungie-should-work-with-it)
- - [No, Elden Ring And GTA V Are Not On Game Pass &lpar;Yet&rpar;](https://kotaku.com/elden-ring-gta-v-grand-theft-auto-v-game-pass-cloud-1849403731)
- - [Mod makes Halo&#39;s Master Chief into a Yakuza enforcer](https://www.pcgamer.com/mod-makes-halos-master-chief-into-a-yakuza-enforcer)<!-- GAME:END -->
+ - [The &#39;micro-RPGs&#39; offering new perspectives on the genre&#39;s overstuffed epics](https://www.pcgamer.com/the-micro-rpgs-offering-new-perspectives-on-the-genres-overstuffed-epics)
+ - [Game engine developer Unity signs lucrative contract with US Defence](https://www.pcgamer.com/game-engine-developer-unity-signs-lucrative-contract-with-us-defence)
+ - [Today&#39;s Wordle 419 answer and hint: Friday, August 12](https://www.pcgamer.com/todays-wordle-419-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
