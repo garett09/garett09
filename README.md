@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 M1 Max MacBook Pros with 64GB RAM are in stock &amp; up to $300 off](https://appleinsider.com/articles/22/08/12/9-m1-max-macbook-pros-with-64gb-ram-are-in-stock-up-to-300-off?utm_medium=rss)
- - [India seizes assets worth $46.4M from the local entity of crypto exchange Vauld for allegedly facilitating &quot;crime-derived&quot; proceeds from predatory lending firms &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220812/p7#a220812p7)
- - [Why it’s taking so long to encrypt Facebook Messenger](https://www.theverge.com/2022/8/12/23302807/facebook-messenger-encryption-abortion-kansas)<!-- TECH:END -->
+ - [Rumor roundup: Apple&#39;s 10th-generation iPad could see a significant redesign](https://appleinsider.com/articles/22/08/12/rumor-roundup-apples-10th-generation-ipad-could-see-a-significant-redesign?utm_medium=rss)
+ - [Want to Run on the Beach? Start With the Right Shoes](https://www.wired.com/gallery/best-beach-running-shoes/)
+ - [CalDigit’s TS4 is the new king of Thunderbolt docks](https://www.theverge.com/22957456/caldigit-ts4-thunderbolt-4-dock-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
