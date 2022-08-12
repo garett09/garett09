@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Colleges Are Already Ditching Income-Share Agreements](https://www.wired.com/story/income-share-agreements-hechinger-report/)
- - [Google’s Pixel 6a display can run at 90Hz if you’re willing to mod it](https://www.theverge.com/2022/8/12/23302678/google-pixel-6a-display-90hz-refresh-rate-mod-hack)
- - [Samsung heir pardoned for crimes, just like his father](https://www.theverge.com/2022/8/12/23302676/samsung-heir-presidential-pardon-lee-jae-yong)<!-- TECH:END -->
+ - [This Timer App Is the Answer to Your Focus Woes     - CNET](https://www.cnet.com/tech/services-and-software/this-timer-app-is-the-answer-to-your-focus-woes/#ftag=CAD590a51e)
+ - [Best 55-Inch TV for 2022: Top Features and Brands for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [Why You Should Be Using Google Chrome&#39;s Enhanced Safe Browsing Mode     - CNET](https://www.cnet.com/tech/services-and-software/why-you-should-be-using-google-chromes-enhanced-safe-browsing-mode/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
