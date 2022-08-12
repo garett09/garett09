@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the Inflation Reduction Act, the US brings climate goals within reach](https://www.theverge.com/2022/8/12/23302050/inflation-reduction-act-house-vote-climate-change-clean-energy)
- - [Apple shares first look at &#39;Lessons in Chemistry&#39;](https://appleinsider.com/articles/22/08/12/apple-shares-first-look-at-lessons-in-chemistry?utm_medium=rss)
- - [Zoom installer flaw can give attackers root access to your Mac](https://appleinsider.com/articles/22/08/12/researcher-discovers-zoom-flaw-that-could-give-attackers-root-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [A Single Flaw Broke Every Layer of Security in MacOS](https://www.wired.com/story/a-single-flaw-broke-every-layer-of-security-in-macos/)
+ - [Sources: YouTube plans to launch a &quot;channel store&quot; for streaming services as early as this fall and is talking with partners about subscription revenue splits &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220812/p14#a220812p14)
+ - [Get $300 extra credit on the new Galaxy foldables, and more phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
