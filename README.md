@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says its foldable phones will overtake the Galaxy S series by 2025](https://www.androidauthority.com/samsung-foldable-phones-outlook-3196047/)
- - [A California bill targeting social media companies for features that could addict minors dies in legislature, after Meta, Twitter, and Snap lobbied against it &lpar;Sarah Donaldson/Wall Street Journal&rpar;](http://www.techmeme.com/220812/p1#a220812p1)
- - [Xiaomi Unveils Super Slim Foldable Phone, the Mi Mix Fold 2     - CNET](https://www.cnet.com/tech/mobile/xiaomi-launches-super-slim-foldable-phone-the-mi-mix-fold-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Colleges Are Already Ditching Income-Share Agreements](https://www.wired.com/story/income-share-agreements-hechinger-report/)
+ - [Google’s Pixel 6a display can run at 90Hz if you’re willing to mod it](https://www.theverge.com/2022/8/12/23302678/google-pixel-6a-display-90hz-refresh-rate-mod-hack)
+ - [Samsung heir pardoned for crimes, just like his father](https://www.theverge.com/2022/8/12/23302676/samsung-heir-presidential-pardon-lee-jae-yong)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
