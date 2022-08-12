@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Complete parts of the car](http://9gag.com/gag/ang60w0)
- - 🚯 [System of a Down. India version](http://9gag.com/gag/aPZ5VLV)
- - 🚯 [Good](http://9gag.com/gag/aogX6ee)<!-- MEMES:END -->
+ - 🚖 [Such a nice guy](http://9gag.com/gag/aPZ50bP)
+ - 🚯 [Houston, we have a good boy](http://9gag.com/gag/azenznm)
+ - 🚯 [Seriously...it&#39;s not even funny anymore...](http://9gag.com/gag/a41v8Yw)<!-- MEMES:END -->
 
 --- 
 
