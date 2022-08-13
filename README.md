@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cheap Fidget Toys for Anxiety for 2022     - CNET](https://www.cnet.com/health/mental/best-cheap-fidget-toys-for-anxiety-for-2022/#ftag=CAD590a51e)
  - [Google May Add Home Workouts to Its Smart TV Offerings](https://www.wired.com/story/google-tv-home-workouts/)
- - [10 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops/)
- - [Our Favorite Paper Planners for Crossing Tasks Off Your List](https://www.wired.com/gallery/our-favorite-paper-planners/)<!-- TECH:END -->
+ - [10 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
