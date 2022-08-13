@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)
+ - 🚖 [1 Billion dollars are truly showing](http://9gag.com/gag/aKmRr33)
  - 🚯 [South Park live intro](http://9gag.com/gag/aQXGwqz)
- - 🚯 [1 Billion dollars are truly showing](http://9gag.com/gag/aKmRr33)<!-- MEMES:END -->
+ - 🚯 [Outta nowhere!](http://9gag.com/gag/apgOW68)<!-- MEMES:END -->
 
 --- 
 
