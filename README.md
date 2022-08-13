@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Fold is the showcase, but the Flip still has all the sex appeal](https://www.androidauthority.com/samsung-galaxy-z-fold-4-vs-z-flip-4-appeal-3195811/)
- - [Marvel Cinematic Universe: Here Are All the Phase 5 and 6 Release Dates     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-here-are-all-the-phase-5-and-6-release-dates/#ftag=CAD590a51e)
- - [Samsung&#39;s $1,800 Galaxy Z Fold 4 Seems Out of Reach -- and That&#39;s the Point     - CNET](https://www.cnet.com/tech/mobile/samsungs-1800-galaxy-z-fold-4-seems-out-of-reach-and-thats-the-point/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google May Add Home Workouts to Its Smart TV Offerings](https://www.wired.com/story/google-tv-home-workouts/)
+ - [10 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops/)
+ - [Our Favorite Paper Planners for Crossing Tasks Off Your List](https://www.wired.com/gallery/our-favorite-paper-planners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
