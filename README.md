@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#39;re doing it right](http://9gag.com/gag/aDDy5yK)
- - 🚯 [Are new cartoons sh*t or am i just getting old?](http://9gag.com/gag/aQXG50z)
- - 🚯 [Lord of the Stinks - The Rings of Woke](http://9gag.com/gag/a91og7m)<!-- MEMES:END -->
+ - 🚖 [Unsuccessful attempt to rob the driver](http://9gag.com/gag/ang6P4n)
+ - 🚯 [NoWoke NoBroke](http://9gag.com/gag/azenw2q)
+ - 🚯 [Rhino calf birth yesterday at Care For Wild Sanctuary in South Africa](http://9gag.com/gag/aM4gLO1)<!-- MEMES:END -->
 
 --- 
 
