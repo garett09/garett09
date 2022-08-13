@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [South Park live intro](http://9gag.com/gag/aQXGwqz)
- - 🚯 [The FBI just revealed what they found in Trump\u2019s safe\u2026](http://9gag.com/gag/aqG03Kp)
- - 🚯 [Life goals](http://9gag.com/gag/aPZ5N9B)<!-- MEMES:END -->
+ - 🚖 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)
+ - 🚯 [South Park live intro](http://9gag.com/gag/aQXGwqz)
+ - 🚯 [1 Billion dollars are truly showing](http://9gag.com/gag/aKmRr33)<!-- MEMES:END -->
 
 --- 
 
