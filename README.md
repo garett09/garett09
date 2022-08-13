@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice Day for a drive](http://9gag.com/gag/aqG0P8v)
- - 🚯 [Bernadette is hot](http://9gag.com/gag/azenWEx)
+ - 🚖 [Think I will call Dopinder instead](http://9gag.com/gag/aXrBBgV)
+ - 🚯 [Why do so many people accept this blatant hypocrisy?](http://9gag.com/gag/aWgzrdZ)
  - 🚯 [Well that fast....](http://9gag.com/gag/awzwEDR)<!-- MEMES:END -->
 
 --- 
