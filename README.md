@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In Manhunter: New York, alien eyeballs conquered the Earth and it was your job to help them](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york)
  - [Hogwarts Legacy delayed into 2023, but with a firm release date](https://www.pcgamer.com/hogwarts-legacy-delayed-into-2023-but-with-a-firm-release-date)
- - [The best games to show off your fancy new graphics card](https://www.pcgamer.com/the-best-games-to-show-off-your-brand-new-graphics-card)
- - [PUBG picks up 80,000 extra players daily now that it&#39;s free](https://www.pcgamer.com/pubg-picks-up-80000-extra-players-daily-now-that-its-free)<!-- GAME:END -->
+ - [The best games to show off your fancy new graphics card](https://www.pcgamer.com/the-best-games-to-show-off-your-brand-new-graphics-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
