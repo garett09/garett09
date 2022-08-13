@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava tried to make me go to Prehab…](https://www.androidauthority.com/strava-recovery-pre-hab-3192242/)
- - [Uber is shutting down its free loyalty program later this year](https://www.theverge.com/2022/8/13/23304267/uber-shutting-down-rewards-loyalty-program-this-year-one-subscription)
- - [Pokemon Go August Community Day: Galarian Zigzagoon, Event Move and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-august-community-day-galarian-zigzagoon-event-move-and-bonuses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-check-out-on-netflix-this-weekend/#ftag=CAD590a51e)
+ - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-films-to-view-on-apple-tv-plus-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
