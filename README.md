@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lord of the Stinks - The Rings of Woke](http://9gag.com/gag/a91og7m)
- - 🚯 [Kidd has bright future](http://9gag.com/gag/a31m6Z8)
- - 🚯 [Sneak 100](http://9gag.com/gag/aqG0oYj)<!-- MEMES:END -->
+ - 🚖 [Sneak 100](http://9gag.com/gag/aqG0oYj)
+ - 🚯 [I swear they look like 2 different people](http://9gag.com/gag/a71QYex)
+ - 🚯 [Just do it](http://9gag.com/gag/aBnpBzQ)<!-- MEMES:END -->
 
 --- 
 
