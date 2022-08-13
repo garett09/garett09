@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sneak 100](http://9gag.com/gag/aqG0oYj)
- - 🚯 [I swear they look like 2 different people](http://9gag.com/gag/a71QYex)
- - 🚯 [Just do it](http://9gag.com/gag/aBnpBzQ)<!-- MEMES:END -->
+ - 🚖 [Nice Day for a drive](http://9gag.com/gag/aqG0P8v)
+ - 🚯 [Look at my pillow, you like it?](http://9gag.com/gag/aegLnrm)
+ - 🚯 [Why do so many people accept this blatant hypocrisy?](http://9gag.com/gag/aWgzrdZ)<!-- MEMES:END -->
 
 --- 
 
