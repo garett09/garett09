@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Sport Slim Band review: a better sport Apple Watchband](https://appleinsider.com/articles/22/08/13/nomad-sport-slim-band-review-a-better-sport-apple-watchband?utm_medium=rss)
- - [Apple and Samsung smartwatches need more buttons if they want more athletes](https://www.theverge.com/2022/8/13/23302966/apple-samsung-outdoor-smartwatches-physical-controls)
- - [iRobot’s poop-avoiding Roomba j7 vacuum is on sale for $200 off today](https://www.theverge.com/good-deals/2022/8/13/23302903/irobot-roomba-j7-robot-vacuum-i3-plus-evo-lg-c2-oled-marvels-spiderman-remastered-deal-sale)<!-- TECH:END -->
+ - [The DCEU has become a crisis of Warner Bros.’ own making](https://www.theverge.com/2022/8/13/23300237/dceu-ezra-miller-the-flashbatgirl-black-adam-david-zaslav)
+ - [A look at Sam Bankman-Fried&#39;s US lobbying, seeking to make CFTC, not SEC, oversee crypto markets and change how commodity futures markets operate in the US &lpar;Freddy Brewster/Los Angeles Times&rpar;](http://www.techmeme.com/220813/p4#a220813p4)
+ - [Nomad Sport Slim Band review: a better sport Apple Watchband](https://appleinsider.com/articles/22/08/13/nomad-sport-slim-band-review-a-better-sport-apple-watchband?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
