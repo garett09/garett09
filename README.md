@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold up, my dude Terry Crews is also an artist??](http://9gag.com/gag/aVxA6Qd)
- - 🚯 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
- - 🚯 [Salman Rushdie stabbed on Stage in New York](http://9gag.com/gag/aOQw5B6)<!-- MEMES:END -->
+ - 🚖 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
+ - 🚯 [Look at my pillow, you like it?](http://9gag.com/gag/aegLnrm)
+ - 🚯 [100% True](http://9gag.com/gag/aQXGjG2)<!-- MEMES:END -->
 
 --- 
 
