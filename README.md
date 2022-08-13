@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The beloved, bucolic My Summer Vacation series breaks free from Japan](https://www.polygon.com/23303138/my-summer-vacation-english-shin-chan-nintendo-switch-ps4-pc)
- - [Our favorite baseball movies and TV episodes to watch](https://www.polygon.com/what-to-watch/23298251/best-baseball-movies-tv-episodes-to-watch-streaming)
- - [Why Day Shift’s vampires move like that, and what the director’s stunt background brought to Netflix’s new action comedy](https://www.polygon.com/23301720/day-shift-vampires-netflix-contortionists-jamie-foxx-jj-perry)<!-- GAME:END -->
+ - [Here&#39;s Total War: Warhammer 3&#39;s shockingly large Immortal Empires map](https://www.pcgamer.com/heres-total-war-warhammer-3s-shockingly-large-immortal-empires-map)
+ - [5 hidden gems you may have missed in 2022](https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022)
+ - [The beloved, bucolic My Summer Vacation series breaks free from Japan](https://www.polygon.com/23303138/my-summer-vacation-english-shin-chan-nintendo-switch-ps4-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
