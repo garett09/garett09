@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hogwarts Legacy delayed into 2023, but with a firm release date](https://www.pcgamer.com/hogwarts-legacy-delayed-into-2023-but-with-a-firm-release-date)
  - [The best games to show off your fancy new graphics card](https://www.pcgamer.com/the-best-games-to-show-off-your-brand-new-graphics-card)
- - [PUBG picks up 80,000 extra players daily now that it&#39;s free](https://www.pcgamer.com/pubg-picks-up-80000-extra-players-daily-now-that-its-free)
- - [If you liked Netflix’s Day Shift, watch these 4 movies that also combine action, horror, and comedy](https://www.polygon.com/what-to-watch/23301622/action-horror-comedy-movies-like-day-shift-watch-streaming)<!-- GAME:END -->
+ - [PUBG picks up 80,000 extra players daily now that it&#39;s free](https://www.pcgamer.com/pubg-picks-up-80000-extra-players-daily-now-that-its-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
