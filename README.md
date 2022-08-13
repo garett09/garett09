@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-check-out-on-netflix-this-weekend/#ftag=CAD590a51e)
- - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-films-to-view-on-apple-tv-plus-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Razer Kishi V2 review: Still the best Android gamepad &lpar;for now&rpar;](https://www.androidauthority.com/razer-kishi-v2-review-3195421/)
+ - [Flaw in the VA Medical Records Platform May Put Patients at Risk](https://www.wired.com/story/va-vista-medical-records-flaw/)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
