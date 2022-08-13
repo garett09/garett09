@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 4 vs. Galaxy Z Fold 4: Every Big Difference You Should Know About     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-4-vs-galaxy-z-fold-4-every-big-difference-you-know-about/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Fold 4 vs. Galaxy Z Fold 3 vs. Galaxy Z Fold 2: A Spec-by-Spec Comparison     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-vs-galaxy-z-fold-3-vs-galaxy-z-fold-2-spec-by-spec-comparison/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Flip 4 vs. Z Flip 3 vs. Z Flip &lpar;2020&rpar;: Comparing the Foldables     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-4-vs-z-flip-3-vs-z-flip-2020-comparing-foldables/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These New MacOS Ventura Tricks Make Your Mac Much Better     - CNET](https://www.cnet.com/tech/computing/the-3-best-new-features-in-macos-ventura/#ftag=CAD590a51e)
+ - [iPhone SE 2022 vs. iPhone 11: How Apple&#39;s Cheap Phones Stack Up     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-vs-iphone-11-how-apples-cheap-phones-stack-up/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Flip 4 vs. Galaxy Z Fold 4: Every Big Difference You Should Know About     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-4-vs-galaxy-z-fold-4-every-big-difference-you-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
