@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch authorities arrest a Tornado Cash developer suspected of financial crimes through the crypto mixer, two days after the US sanctioned the service &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220812/p15#a220812p15)
  - [New Apple ad says that Apple One bundle offers &#39;the best of Apple&#39; in one place](https://appleinsider.com/articles/22/08/12/new-apple-ad-says-that-apple-one-bundle-offers-the-best-of-apple-in-one-place?utm_medium=rss)
- - [Telegram app update was held up over iOS-inspired animated emoji](https://appleinsider.com/articles/22/08/12/telegram-app-update-was-held-up-over-ios-inspired-animated-emoji?utm_medium=rss)<!-- TECH:END -->
+ - [6 Natural Sleep Aids to Beat Insomnia and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/6-natural-sleep-aids-to-beat-insomnia-and-sleep-well-tonight/#ftag=CAD590a51e)
+ - [Dutch authorities arrest a Tornado Cash developer suspected of involvement in concealing money laundering, two days after the US sanctioned the crypto mixer &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220812/p15#a220812p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
