@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Think I will call Dopinder instead](http://9gag.com/gag/aXrBBgV)
- - 🚯 [Why do so many people accept this blatant hypocrisy?](http://9gag.com/gag/aWgzrdZ)
- - 🚯 [Well that fast....](http://9gag.com/gag/awzwEDR)<!-- MEMES:END -->
+ - 🚖 [Sthap daddy](http://9gag.com/gag/a1199ew)
+ - 🚯 [Well that fast....](http://9gag.com/gag/awzwEDR)
+ - 🚯 [A street artist draws cartoon version of a girl](http://9gag.com/gag/amg33Rd)<!-- MEMES:END -->
 
 --- 
 
