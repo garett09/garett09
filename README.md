@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yes, You Can Use The Steam Deck As A Computer &lpar;Here’s How&rpar;](https://kotaku.com/valve-steam-deck-pc-steamos-linux-jsaux-games-desktop-1849407251)
  - [For All Mankind season 3 showed how hard Star Trek’s utopia is to achieve](https://www.polygon.com/23294222/for-all-mankind-season-3-review-episodes-finale)
- - [All Genshin Impact codes from the version 3.0 livestream](https://www.pcgamer.com/genshin-impact-codes-3-0-livestream)
- - [Watch Hoyoverse’s Genshin Impact stream for Sumeru](https://www.polygon.com/23302955/genshin-impact-watch-sumeru-stream-hoyoverse)<!-- GAME:END -->
+ - [All Genshin Impact codes from the version 3.0 livestream](https://www.pcgamer.com/genshin-impact-codes-3-0-livestream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
