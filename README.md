@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you liked Netflix’s Day Shift, watch these 4 movies that also combine action, horror, and comedy](https://www.polygon.com/what-to-watch/23301622/action-horror-comedy-movies-like-day-shift-watch-streaming)
  - [Here&#39;s Total War: Warhammer 3&#39;s shockingly large Immortal Empires map](https://www.pcgamer.com/heres-total-war-warhammer-3s-shockingly-large-immortal-empires-map)
- - [5 hidden gems you may have missed in 2022](https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022)
- - [The beloved, bucolic My Summer Vacation series breaks free from Japan](https://www.polygon.com/23303138/my-summer-vacation-english-shin-chan-nintendo-switch-ps4-pc)<!-- GAME:END -->
+ - [5 hidden gems you may have missed in 2022](https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
