@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A street artist draws cartoon version of a girl](http://9gag.com/gag/amg33Rd)
- - 🚯 [Bionicle made life better](http://9gag.com/gag/aKmR061)
- - 🚯 [Now you know](http://9gag.com/gag/amg3E7j)<!-- MEMES:END -->
+ - 🚖 [South Park live intro](http://9gag.com/gag/aQXGwqz)
+ - 🚯 [The FBI just revealed what they found in Trump\u2019s safe\u2026](http://9gag.com/gag/aqG03Kp)
+ - 🚯 [Life goals](http://9gag.com/gag/aPZ5N9B)<!-- MEMES:END -->
 
 --- 
 
