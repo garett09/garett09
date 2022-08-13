@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cheap Fidget Toys for Anxiety for 2022     - CNET](https://www.cnet.com/health/mental/best-cheap-fidget-toys-for-anxiety-for-2022/#ftag=CAD590a51e)
- - [Google May Add Home Workouts to Its Smart TV Offerings](https://www.wired.com/story/google-tv-home-workouts/)
- - [10 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [Telegram app update was held up over iOS-inspired animated emoji [u]](https://appleinsider.com/articles/22/08/12/telegram-app-update-was-held-up-over-ios-inspired-animated-emoji?utm_medium=rss)
+ - [Samsung Galaxy Z Fold 4: $1,800 Foldable Phone Returns With New Design, Software Tweaks     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-1800-foldable-phone-returns-new-design-software/#ftag=CAD590a51e)
+ - [Years Into the Pandemic, Long COVID Patients Are Still Searching for Answers     - CNET](https://www.cnet.com/health/medical/years-into-the-pandemic-long-covid-patients-are-still-search-for-answers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
