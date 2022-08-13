@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice Day for a drive](http://9gag.com/gag/aqG0P8v)
- - 🚯 [Look at my pillow, you like it?](http://9gag.com/gag/aegLnrm)
- - 🚯 [Why do so many people accept this blatant hypocrisy?](http://9gag.com/gag/aWgzrdZ)<!-- MEMES:END -->
+ - 🚖 [Look at my pillow, you like it?](http://9gag.com/gag/aegLnrm)
+ - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aVxAp3P)
+ - 🚯 [Bernadette is hot](http://9gag.com/gag/azenWEx)<!-- MEMES:END -->
 
 --- 
 
