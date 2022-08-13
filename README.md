@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice view. Sorry for the music.](http://9gag.com/gag/aDDy5jw)
- - 🚯 [If only](http://9gag.com/gag/aAGj55Z)
- - 🚯 [Are new cartoons sh*t or am i just getting old?](http://9gag.com/gag/aQXG50z)<!-- MEMES:END -->
+ - 🚖 [They&#39;re doing it right](http://9gag.com/gag/aDDy5yK)
+ - 🚯 [Are new cartoons sh*t or am i just getting old?](http://9gag.com/gag/aQXG50z)
+ - 🚯 [Lord of the Stinks - The Rings of Woke](http://9gag.com/gag/a91og7m)<!-- MEMES:END -->
 
 --- 
 
