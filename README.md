@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sthap daddy](http://9gag.com/gag/a1199ew)
- - 🚯 [Well that fast....](http://9gag.com/gag/awzwEDR)
- - 🚯 [A street artist draws cartoon version of a girl](http://9gag.com/gag/amg33Rd)<!-- MEMES:END -->
+ - 🚖 [Yeah me too](http://9gag.com/gag/a61PPn2)
+ - 🚯 [Nigerian Fire Service presenting a public demo on extinguishing fire](http://9gag.com/gag/aggWDD1)
+ - 🚯 [....](http://9gag.com/gag/aVxAp8P)<!-- MEMES:END -->
 
 --- 
 
