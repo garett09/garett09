@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Some of your old favs show up in a new Jagged Alliance 3 gameplay trailer](https://www.pcgamer.com/some-of-your-old-favs-show-up-in-a-new-jagged-alliance-3-gameplay-trailer)
  - [TwitchCon about-face now requires masks and more for 2022 in San Diego](https://www.pcgamer.com/twitchcon-about-face-now-requires-masks-and-more-for-2022-in-san-diego)
- - [Fortnite Creative is flexible enough to make a convincing tribute to Bioshock&#39;s Rapture](https://www.pcgamer.com/fortnite-creative-is-flexible-enough-to-make-a-convincing-tribute-to-bioshocks-rapture)
- - [This Week on Xbox: New Game Pass Additions, Updates, and Events](https://news.xbox.com/en-us/2022/08/12/this-week-on-xbox-new-game-pass-additions-updates-and-events/)<!-- GAME:END -->
+ - [Fortnite Creative is flexible enough to make a convincing tribute to Bioshock&#39;s Rapture](https://www.pcgamer.com/fortnite-creative-is-flexible-enough-to-make-a-convincing-tribute-to-bioshocks-rapture)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
