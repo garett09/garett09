@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram app update was held up over iOS-inspired animated emoji [u]](https://appleinsider.com/articles/22/08/12/telegram-app-update-was-held-up-over-ios-inspired-animated-emoji?utm_medium=rss)
- - [Samsung Galaxy Z Fold 4: $1,800 Foldable Phone Returns With New Design, Software Tweaks     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-1800-foldable-phone-returns-new-design-software/#ftag=CAD590a51e)
- - [Years Into the Pandemic, Long COVID Patients Are Still Searching for Answers     - CNET](https://www.cnet.com/health/medical/years-into-the-pandemic-long-covid-patients-are-still-search-for-answers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nomad Sport Slim Band review: a better sport Apple Watchband](https://appleinsider.com/articles/22/08/13/nomad-sport-slim-band-review-a-better-sport-apple-watchband?utm_medium=rss)
+ - [Apple and Samsung smartwatches need more buttons if they want more athletes](https://www.theverge.com/2022/8/13/23302966/apple-samsung-outdoor-smartwatches-physical-controls)
+ - [iRobot’s poop-avoiding Roomba j7 vacuum is on sale for $200 off today](https://www.theverge.com/good-deals/2022/8/13/23302903/irobot-roomba-j7-robot-vacuum-i3-plus-evo-lg-c2-oled-marvels-spiderman-remastered-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
