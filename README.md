@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold 4 vs. Galaxy Z Fold 3 vs. Galaxy Z Fold 2: A Spec-by-Spec Comparison     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-vs-galaxy-z-fold-3-vs-galaxy-z-fold-2-spec-by-spec-comparison/#ftag=CAD590a51e)
  - [Samsung Galaxy Z Flip 4 vs. Z Flip 3 vs. Z Flip &lpar;2020&rpar;: Comparing the Foldables     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-4-vs-z-flip-3-vs-z-flip-2020-comparing-foldables/#ftag=CAD590a51e)
- - [Amazon&#39;s new reality show Ring Nation featuring footage from its Ring home security cameras is the company&#39;s latest effort to normalize its surveillance network &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220813/p1#a220813p1)
- - [New Apple ad says that Apple One bundle offers &#39;the best of Apple&#39; in one place](https://appleinsider.com/articles/22/08/12/new-apple-ad-says-that-apple-one-bundle-offers-the-best-of-apple-in-one-place?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s new reality show Ring Nation featuring footage from its Ring home security cameras is the company&#39;s latest effort to normalize its surveillance network &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220813/p1#a220813p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
