@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Single Flaw Broke Every Layer of Security in MacOS](https://www.wired.com/story/a-single-flaw-broke-every-layer-of-security-in-macos/)
- - [Sources: YouTube plans to launch a &quot;channel store&quot; for streaming services as early as this fall and is talking with partners about subscription revenue splits &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220812/p14#a220812p14)
- - [Get $300 extra credit on the new Galaxy foldables, and more phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Dutch authorities arrest a Tornado Cash developer suspected of financial crimes through the crypto mixer, two days after the US sanctioned the service &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220812/p15#a220812p15)
+ - [New Apple ad says that Apple One bundle offers &#39;the best of Apple&#39; in one place](https://appleinsider.com/articles/22/08/12/new-apple-ad-says-that-apple-one-bundle-offers-the-best-of-apple-in-one-place?utm_medium=rss)
+ - [Telegram app update was held up over iOS-inspired animated emoji](https://appleinsider.com/articles/22/08/12/telegram-app-update-was-held-up-over-ios-inspired-animated-emoji?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
