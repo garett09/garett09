@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s new reality show Ring Nation featuring footage from its Ring home security cameras is the company&#39;s latest effort to normalize its surveillance network &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220813/p1#a220813p1)
  - [New Apple ad says that Apple One bundle offers &#39;the best of Apple&#39; in one place](https://appleinsider.com/articles/22/08/12/new-apple-ad-says-that-apple-one-bundle-offers-the-best-of-apple-in-one-place?utm_medium=rss)
- - [6 Natural Sleep Aids to Beat Insomnia and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/6-natural-sleep-aids-to-beat-insomnia-and-sleep-well-tonight/#ftag=CAD590a51e)
- - [Dutch authorities arrest a Tornado Cash developer suspected of involvement in concealing money laundering, two days after the US sanctioned the crypto mixer &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220812/p15#a220812p15)<!-- TECH:END -->
+ - [6 Natural Sleep Aids to Beat Insomnia and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/6-natural-sleep-aids-to-beat-insomnia-and-sleep-well-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
