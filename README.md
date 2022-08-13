@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rhino calf birth yesterday at Care For Wild Sanctuary in South Africa](http://9gag.com/gag/aM4gLO1)
+ - 🚖 [Hold up, my dude Terry Crews is also an artist??](http://9gag.com/gag/aVxA6Qd)
  - 🚯 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
- - 🚯 [Highs and lows of a rollercoaster](http://9gag.com/gag/aGzX4Q0)<!-- MEMES:END -->
+ - 🚯 [Salman Rushdie stabbed on Stage in New York](http://9gag.com/gag/aOQw5B6)<!-- MEMES:END -->
 
 --- 
 
