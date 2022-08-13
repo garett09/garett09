@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DCEU has become a crisis of Warner Bros.’ own making](https://www.theverge.com/2022/8/13/23300237/dceu-ezra-miller-the-flashbatgirl-black-adam-david-zaslav)
- - [A look at Sam Bankman-Fried&#39;s US lobbying, seeking to make CFTC, not SEC, oversee crypto markets and change how commodity futures markets operate in the US &lpar;Freddy Brewster/Los Angeles Times&rpar;](http://www.techmeme.com/220813/p4#a220813p4)
- - [Nomad Sport Slim Band review: a better sport Apple Watchband](https://appleinsider.com/articles/22/08/13/nomad-sport-slim-band-review-a-better-sport-apple-watchband?utm_medium=rss)<!-- TECH:END -->
+ - [Strava tried to make me go to Prehab…](https://www.androidauthority.com/strava-recovery-pre-hab-3192242/)
+ - [Uber is shutting down its free loyalty program later this year](https://www.theverge.com/2022/8/13/23304267/uber-shutting-down-rewards-loyalty-program-this-year-one-subscription)
+ - [Pokemon Go August Community Day: Galarian Zigzagoon, Event Move and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-august-community-day-galarian-zigzagoon-event-move-and-bonuses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
