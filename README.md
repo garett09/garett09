@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Day Shift’s vampires move like that, and what the director’s stunt background brought to Netflix’s new action comedy](https://www.polygon.com/23301720/day-shift-vampires-netflix-contortionists-jamie-foxx-jj-perry)
- - [Yes, You Can Use The Steam Deck As A Computer &lpar;Here’s How&rpar;](https://kotaku.com/valve-steam-deck-pc-steamos-linux-jsaux-games-desktop-1849407251)
- - [For All Mankind season 3 showed how hard Star Trek’s utopia is to achieve](https://www.polygon.com/23294222/for-all-mankind-season-3-review-episodes-finale)<!-- GAME:END -->
+ - [The beloved, bucolic My Summer Vacation series breaks free from Japan](https://www.polygon.com/23303138/my-summer-vacation-english-shin-chan-nintendo-switch-ps4-pc)
+ - [Our favorite baseball movies and TV episodes to watch](https://www.polygon.com/what-to-watch/23298251/best-baseball-movies-tv-episodes-to-watch-streaming)
+ - [Why Day Shift’s vampires move like that, and what the director’s stunt background brought to Netflix’s new action comedy](https://www.polygon.com/23301720/day-shift-vampires-netflix-contortionists-jamie-foxx-jj-perry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
