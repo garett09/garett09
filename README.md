@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unsuccessful attempt to rob the driver](http://9gag.com/gag/ang6P4n)
- - 🚯 [NoWoke NoBroke](http://9gag.com/gag/azenw2q)
- - 🚯 [Rhino calf birth yesterday at Care For Wild Sanctuary in South Africa](http://9gag.com/gag/aM4gLO1)<!-- MEMES:END -->
+ - 🚖 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
+ - 🚯 [Rhino calf birth yesterday at Care For Wild Sanctuary in South Africa](http://9gag.com/gag/aM4gLO1)
+ - 🚯 [Just do it](http://9gag.com/gag/aBnpBzQ)<!-- MEMES:END -->
 
 --- 
 
