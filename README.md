@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Watch Hoyoverse’s Genshin Impact stream for Sumeru](https://www.polygon.com/23302955/genshin-impact-watch-sumeru-stream-hoyoverse)
  - [Today&#39;s Wordle 420 answer and hint: Saturday, August 13](https://www.pcgamer.com/todays-wordle-420-answer-hint)
- - [Some of your old favs show up in a new Jagged Alliance 3 gameplay trailer](https://www.pcgamer.com/some-of-your-old-favs-show-up-in-a-new-jagged-alliance-3-gameplay-trailer)
- - [TwitchCon about-face now requires masks and more for 2022 in San Diego](https://www.pcgamer.com/twitchcon-about-face-now-requires-masks-and-more-for-2022-in-san-diego)<!-- GAME:END -->
+ - [Some of your old favs show up in a new Jagged Alliance 3 gameplay trailer](https://www.pcgamer.com/some-of-your-old-favs-show-up-in-a-new-jagged-alliance-3-gameplay-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
