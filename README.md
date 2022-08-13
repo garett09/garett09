@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [South Park live intro](http://9gag.com/gag/aQXGwqz)
- - 🚯 [Edison at least invented the filament for the modern light bulb.](http://9gag.com/gag/aRrnnPM)
- - 🚯 [EA: refuses to make a new C&amp;C. THQ Nordic: Fine, I&#39;ll do it myself.](http://9gag.com/gag/aAGjjDZ)<!-- MEMES:END -->
+ - 🚖 [A street artist draws cartoon version of a girl](http://9gag.com/gag/amg33Rd)
+ - 🚯 [Bionicle made life better](http://9gag.com/gag/aKmR061)
+ - 🚯 [Now you know](http://9gag.com/gag/amg3E7j)<!-- MEMES:END -->
 
 --- 
 
