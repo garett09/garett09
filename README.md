@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
- - 🚯 [Look at my pillow, you like it?](http://9gag.com/gag/aegLnrm)
- - 🚯 [100% True](http://9gag.com/gag/aQXGjG2)<!-- MEMES:END -->
+ - 🚖 [Lord of the Stinks - The Rings of Woke](http://9gag.com/gag/a91og7m)
+ - 🚯 [Kidd has bright future](http://9gag.com/gag/a31m6Z8)
+ - 🚯 [Sneak 100](http://9gag.com/gag/aqG0oYj)<!-- MEMES:END -->
 
 --- 
 
