@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happened here?](http://9gag.com/gag/ajgppoR)
- - 🚯 [Yeah me too](http://9gag.com/gag/a61PPn2)
- - 🚯 [....](http://9gag.com/gag/aVxAp8P)<!-- MEMES:END -->
+ - 🚖 [Yeah me too](http://9gag.com/gag/a61PPn2)
+ - 🚯 [What happened here?](http://9gag.com/gag/ajgppoR)
+ - 🚯 [Think I will call Dopinder instead](http://9gag.com/gag/aXrBBgV)<!-- MEMES:END -->
 
 --- 
 
