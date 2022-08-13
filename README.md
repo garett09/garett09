@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s internet watchdog publishes a list of 30 algorithms used in popular apps, including Wechat, Taobao, and Douyin, with brief descriptions of their use &lpar;Reuters&rpar;](http://www.techmeme.com/220813/p6#a220813p6)
- - [Razer Kishi V2 review: Still the best Android gamepad &lpar;for now&rpar;](https://www.androidauthority.com/razer-kishi-v2-review-3195421/)
- - [Flaw in the VA Medical Records Platform May Put Patients at Risk](https://www.wired.com/story/va-vista-medical-records-flaw/)<!-- TECH:END -->
+ - [Elon Musk pitches lofty goals in a magazine run by China’s internet censorship agency](https://www.theverge.com/2022/8/13/23304250/elon-musk-pitch-magazine-china-cyberspace-cac-censorship-agency-tesla-spacex-neuralink)
+ - [What to expect from Apple&#39;s September iPhone 14 event](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
+ - [Uber closing rewards program in favor of pushing Uber One subscription](https://appleinsider.com/articles/22/08/13/uber-closing-rewards-program-in-favor-of-pushing-uber-one-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
