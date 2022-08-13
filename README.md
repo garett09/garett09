@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Watch 5 alternatives you can buy](https://www.androidauthority.com/samsung-galaxy-watch-5-alternatives-3195050/)
- - [30 Best Back-to-School Deals on Laptops, Headphones, and More](https://www.wired.com/story/back-to-school-deals-2022/)
- - [Ask Farnoosh: Can I Afford Having a Baby in a Recession?     - CNET](https://www.cnet.com/personal-finance/ask-farnoosh-can-i-afford-having-a-baby-in-a-recession/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s Fold is the showcase, but the Flip still has all the sex appeal](https://www.androidauthority.com/samsung-galaxy-z-fold-4-vs-z-flip-4-appeal-3195811/)
+ - [Marvel Cinematic Universe: Here Are All the Phase 5 and 6 Release Dates     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-here-are-all-the-phase-5-and-6-release-dates/#ftag=CAD590a51e)
+ - [Samsung&#39;s $1,800 Galaxy Z Fold 4 Seems Out of Reach -- and That&#39;s the Point     - CNET](https://www.cnet.com/tech/mobile/samsungs-1800-galaxy-z-fold-4-seems-out-of-reach-and-thats-the-point/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
