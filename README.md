@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah me too](http://9gag.com/gag/a61PPn2)
- - 🚯 [Nigerian Fire Service presenting a public demo on extinguishing fire](http://9gag.com/gag/aggWDD1)
+ - 🚖 [What happened here?](http://9gag.com/gag/ajgppoR)
+ - 🚯 [Yeah me too](http://9gag.com/gag/a61PPn2)
  - 🚯 [....](http://9gag.com/gag/aVxAp8P)<!-- MEMES:END -->
 
 --- 
