@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Hoyoverse’s Genshin Impact stream for Sumeru](https://www.polygon.com/23302955/genshin-impact-watch-sumeru-stream-hoyoverse)
- - [Today&#39;s Wordle 420 answer and hint: Saturday, August 13](https://www.pcgamer.com/todays-wordle-420-answer-hint)
- - [Some of your old favs show up in a new Jagged Alliance 3 gameplay trailer](https://www.pcgamer.com/some-of-your-old-favs-show-up-in-a-new-jagged-alliance-3-gameplay-trailer)<!-- GAME:END -->
+ - [For All Mankind season 3 showed how hard Star Trek’s utopia is to achieve](https://www.polygon.com/23294222/for-all-mankind-season-3-review-episodes-finale)
+ - [All Genshin Impact codes from the version 3.0 livestream](https://www.pcgamer.com/genshin-impact-codes-3-0-livestream)
+ - [Watch Hoyoverse’s Genshin Impact stream for Sumeru](https://www.polygon.com/23302955/genshin-impact-watch-sumeru-stream-hoyoverse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
