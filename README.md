@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
- - 🚯 [Rhino calf birth yesterday at Care For Wild Sanctuary in South Africa](http://9gag.com/gag/aM4gLO1)
- - 🚯 [Just do it](http://9gag.com/gag/aBnpBzQ)<!-- MEMES:END -->
+ - 🚖 [Rhino calf birth yesterday at Care For Wild Sanctuary in South Africa](http://9gag.com/gag/aM4gLO1)
+ - 🚯 [I don\u2019t care about either side, I thought it was funny.](http://9gag.com/gag/a71QRVz)
+ - 🚯 [Highs and lows of a rollercoaster](http://9gag.com/gag/aGzX4Q0)<!-- MEMES:END -->
 
 --- 
 
