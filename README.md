@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These New MacOS Ventura Tricks Make Your Mac Much Better     - CNET](https://www.cnet.com/tech/computing/the-3-best-new-features-in-macos-ventura/#ftag=CAD590a51e)
- - [iPhone SE 2022 vs. iPhone 11: How Apple&#39;s Cheap Phones Stack Up     - CNET](https://www.cnet.com/tech/mobile/iphone-se-2022-vs-iphone-11-how-apples-cheap-phones-stack-up/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Flip 4 vs. Galaxy Z Fold 4: Every Big Difference You Should Know About     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-4-vs-galaxy-z-fold-4-every-big-difference-you-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Samsung Galaxy Watch 5 alternatives you can buy](https://www.androidauthority.com/samsung-galaxy-watch-5-alternatives-3195050/)
+ - [30 Best Back-to-School Deals on Laptops, Headphones, and More](https://www.wired.com/story/back-to-school-deals-2022/)
+ - [Ask Farnoosh: Can I Afford Having a Baby in a Recession?     - CNET](https://www.cnet.com/personal-finance/ask-farnoosh-can-i-afford-having-a-baby-in-a-recession/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
