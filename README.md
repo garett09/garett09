@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A post](http://9gag.com/gag/arnjpjV)
- - 🚯 [This feels like a Scooby-Doo episode](http://9gag.com/gag/aLvyK9P)
- - 🚯 [I fish therefore i lie](http://9gag.com/gag/ay9O5GM)<!-- MEMES:END -->
+ - 🚖 [Understood, have a nice day](http://9gag.com/gag/ajgo691)
+ - 🚯 [\ud83c\udfce\ufe0f\ud83d\ude97\ud83d\ude98\ud83d\ude94](http://9gag.com/gag/aQX0qrw)
+ - 🚯 [Nobel Prize incoming...](http://9gag.com/gag/awz6bOW)<!-- MEMES:END -->
 
 --- 
 
