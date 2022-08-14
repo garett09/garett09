@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Good N95, KF94, and KN95 Face Masks to Buy Right Now](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
- - [To Fix Tech, Democracy Needs to Grow Up](https://www.wired.com/story/collective-intelligence-democracy/)
- - [How to Create a Secure Folder on Your Phone](https://www.wired.com/story/how-to-create-secure-folder-phone/)<!-- TECH:END -->
+ - [AirTag catches airport baggage handler stealing luggage](https://appleinsider.com/articles/22/08/14/airtag-catches-airport-baggage-handler-stealing-luggage?utm_medium=rss)
+ - [While moving, I realized that saving my tech product boxes was useless](https://www.androidauthority.com/saving-tech-packaging-boxes-3195379/)
+ - [6 Great WIRED-Tested Monitors Under $500](https://www.wired.com/gallery/best-monitors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
