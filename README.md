@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City-based Kumospace, which offers video chat and remote work tools to organizations, has raised a $21M Series A led by Lightspeed Venture Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220814/p7#a220814p7)
- - [Reddit partners with crypto exchange FTX to help users manage community points](https://www.theverge.com/2022/8/14/23305354/reddit-partners-ftx-cryptocurrency-exchange-community-points-sam-bankman-fried-sbf)
- - [Zoom updates macOS app to patch root access exploit](https://appleinsider.com/articles/22/08/14/zoom-updates-macos-app-to-patch-root-access-exploit?utm_medium=rss)<!-- TECH:END -->
+ - [New York City-based Kumospace, which offers video chat and remote work tools with a &quot;virtual office&quot; feel, has raised a $21M Series A led by Lightspeed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220814/p7#a220814p7)
+ - [&#39;Raising Kanan&#39; Season 2 Will See Raq &#39;Unsettled,&#39; Says Star Patina Miller     - CNET](https://www.cnet.com/culture/entertainment/raising-kanan-season-2-will-see-raq-sweating-says-patina-miller/#ftag=CAD590a51e)
+ - [Reddit partners with crypto exchange FTX to help users manage community points](https://www.theverge.com/2022/8/14/23305354/reddit-partners-ftx-cryptocurrency-exchange-community-points-sam-bankman-fried-sbf)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
