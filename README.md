@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zombie Apocalypse Thomas The Tank Engine sculpture](http://9gag.com/gag/aKmR0ZQ)
- - 🚯 [Golf is stupid anyway](http://9gag.com/gag/aZreAOX)
- - 🚯 [That white dude didn&#39;t kill himself](http://9gag.com/gag/a31VvR5)<!-- MEMES:END -->
+ - 🚖 [Fun fact the city of Barcelona was founded by Hannibal &lpar;on the left&rpar;](http://9gag.com/gag/azen6Gp)
+ - 🚯 [The hero we need](http://9gag.com/gag/azen63K)
+ - 🚯 [With friends like these](http://9gag.com/gag/aLvy6ZA)<!-- MEMES:END -->
 
 --- 
 
