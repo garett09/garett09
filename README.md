@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life goals](http://9gag.com/gag/aPZ5N9B)
+ - 🚖 [RIP Lisa Robin Kelly, hilarious scene.](http://9gag.com/gag/ay9Gydq)
  - 🚯 [I just feel the need of it](http://9gag.com/gag/amg3Dq2)
  - 🚯 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)<!-- MEMES:END -->
 
