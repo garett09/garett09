@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally some backlash on these woke movies](http://9gag.com/gag/a61ArnR)
- - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)
+ - 🚖 [Firefighters, south of France](http://9gag.com/gag/axBXNdL)
+ - 🚯 [I have just two.](http://9gag.com/gag/aAGoRL9)
  - 🚯 [27 hours train travel in Tanzania](http://9gag.com/gag/aPZK6bG)<!-- MEMES:END -->
 
 --- 
