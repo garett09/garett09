@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 421 answer and hint: Sunday, August 14](https://www.pcgamer.com/todays-wordle-421-answer-hint)
  - [How &#39;90s interior design software laid the foundation for today&#39;s life sims](https://www.pcgamer.com/how-90s-interior-design-software-laid-the-foundation-for-todays-life-sims)
- - [You can be Master Chief in Yakuza 0 because mods are magical](https://www.pcgamer.com/you-can-be-master-chief-in-yakuza-0-because-mods-are-magical)
- - [What should boomer shooters be called?](https://www.pcgamer.com/what-should-boomer-shooters-be-called)<!-- GAME:END -->
+ - [You can be Master Chief in Yakuza 0 because mods are magical](https://www.pcgamer.com/you-can-be-master-chief-in-yakuza-0-because-mods-are-magical)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
