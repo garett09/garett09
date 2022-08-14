@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FlexiSpot Q8 Standing Desk review: Safe and smart standing while you work](https://appleinsider.com/articles/22/08/13/flexispot-q8-standing-desk-review-safe-and-smart-standing-while-you-work?utm_medium=rss)
- - [Uber will end its free loyalty program Uber Rewards on November 1, 2022, to focus on its new Uber One membership program &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220813/p7#a220813p7)
- - [Elon Musk pitches lofty goals in a magazine run by China’s internet censorship agency](https://www.theverge.com/2022/8/13/23304250/elon-musk-pitch-magazine-china-cyberspace-cac-censorship-agency-tesla-spacex-neuralink)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s September iPhone 14 event](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
+ - [Best iPhone 11 and 11 Pro Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-iphone-11-and-11-pro-cases/#ftag=CAD590a51e)
+ - [FlexiSpot Q8 Standing Desk review: Safe and smart standing while you work](https://appleinsider.com/articles/22/08/13/flexispot-q8-standing-desk-review-safe-and-smart-standing-while-you-work?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
