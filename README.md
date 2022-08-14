@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud83c\udfce\ufe0f\ud83d\ude97\ud83d\ude98\ud83d\ude94](http://9gag.com/gag/aQX0qrw)
- - 🚯 [I like how he rubs his head to cool it down](http://9gag.com/gag/aOQXy03)
- - 🚯 [Oh yeah, yeah, yeah...](http://9gag.com/gag/aqGqmLL)<!-- MEMES:END -->
+ - 🚖 [I won&#39;t need this anymore](http://9gag.com/gag/a0Z2P3Z)
+ - 🚯 [Damn dude, leave some girls for the rest of us.](http://9gag.com/gag/aAGoVng)
+ - 🚯 [The painting is so amazing.](http://9gag.com/gag/aYr2pbN)<!-- MEMES:END -->
 
 --- 
 
