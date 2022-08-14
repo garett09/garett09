@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 Billion dollars are truly showing](http://9gag.com/gag/aKmRr33)
- - 🚯 [South Park live intro](http://9gag.com/gag/aQXGwqz)
- - 🚯 [Outta nowhere!](http://9gag.com/gag/apgOW68)<!-- MEMES:END -->
+ - 🚖 [Some Instagram shii...](http://9gag.com/gag/abg7PDv)
+ - 🚯 [I just feel the need of it](http://9gag.com/gag/amg3Dq2)
+ - 🚯 [Single Mom Syndrome](http://9gag.com/gag/aegLvoq)<!-- MEMES:END -->
 
 --- 
 
