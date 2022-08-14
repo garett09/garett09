@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxygen OS 13 beta hands on: A dash of color](https://www.androidauthority.com/oxygen-os-13-hands-on-3195686/)
- - [Your iPhone may soon have more ads](https://www.theverge.com/2022/8/14/23305200/iphone-more-ads-advertising-apple-maps-podcasts-books-mark-gurman-rumors)
- - [Some computational neuroscientists say self-supervised AI learning models have shown a closer correspondence to brain function than supervised-learning models &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/220814/p5#a220814p5)<!-- TECH:END -->
+ - [Big investment firms, including Abrdn, BlackRock, and Charles Schwab, are embracing digital assets despite the crypto crash, as consumer groups raise concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/220814/p6#a220814p6)
+ - [Seagate Expansion 8TB external hard drive review: No frills storage in need of USB-C](https://appleinsider.com/articles/22/08/14/seagate-expansion-8tb-external-hard-drive-review-no-frills-storage-in-need-of-usb-c?utm_medium=rss)
+ - [How to remove and delete a credit card from Amazon](https://www.androidauthority.com/remove-credit-card-amazon-3195958/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
