@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Lisa Robin Kelly, hilarious scene.](http://9gag.com/gag/ay9Gydq)
- - 🚯 [I just feel the need of it](http://9gag.com/gag/amg3Dq2)
- - 🚯 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)<!-- MEMES:END -->
+ - 🚖 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)
+ - 🚯 [Manchester United fans new kit](http://9gag.com/gag/a81ZPM6)
+ - 🚯 [Bionicle made life better](http://9gag.com/gag/aKmR061)<!-- MEMES:END -->
 
 --- 
 
