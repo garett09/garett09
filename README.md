@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spigen Enzo leather case review: Luxury iPhone 13 protection at a price](https://appleinsider.com/articles/22/08/14/spigen-enzo-leather-case-review-luxury-iphone-13-protection-at-a-price?utm_medium=rss)
- - [Zoom’s latest update on Mac includes a fix for a dangerous security flaw](https://www.theverge.com/2022/8/14/23305548/zoom-update-macos-fix-dangerous-security-flaw-hackers)
- - [Save Up to 52% On Vacuum-Insulated Reduce Tumblers Today Only at Amazon     - CNET](https://www.cnet.com/deals/save-up-to-52-on-vacuum-insulated-reduce-tumblers-today-only-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every &#39;Predator&#39; Movie Ranked: From &#39;Prey&#39; To &#39;Requiem&#39;     - CNET](https://www.cnet.com/culture/entertainment/every-predator-movie-ranked-from-prey-to-requiem/#ftag=CAD590a51e)
+ - [A look at the growing bipartisan scrutiny of TikTok in the US; email: House officials told staff they did not recommend using the app, citing security concerns &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/220814/p8#a220814p8)
+ - [Sleep Better Tonight With These 6 Natural Insomnia Remedies     - CNET](https://www.cnet.com/health/sleep/sleep-better-tonight-with-these-6-natural-insomnia-remedies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
