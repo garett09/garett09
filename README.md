@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)
- - 🚯 [Manchester United fans new kit](http://9gag.com/gag/a81ZPM6)
- - 🚯 [Bionicle made life better](http://9gag.com/gag/aKmR061)<!-- MEMES:END -->
+ - 🚖 [Zombie Apocalypse Thomas The Tank Engine sculpture](http://9gag.com/gag/aKmR0ZQ)
+ - 🚯 [Golf is stupid anyway](http://9gag.com/gag/aZreAOX)
+ - 🚯 [That white dude didn&#39;t kill himself](http://9gag.com/gag/a31VvR5)<!-- MEMES:END -->
 
 --- 
 
