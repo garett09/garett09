@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of COO Javier Olivan, who has become Meta&#39;s &quot;unofficial fixer&quot; and has had a hand in all of the company&#39;s major competitive battles and acquisitions &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220814/p2#a220814p2)
  - [D-Wave completed its planned SPAC merger last week, the third quantum computing startup, after Rigetti and IonQ, to go public via SPAC within the last year &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/220814/p1#a220814p1)
- - [Central Payments, a payments tech and card-issuing platform for banks, has raised $30M in a deal that spins out the company from the Central Bank of Kansas City &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220813/p8#a220813p8)
- - [A New Tractor Jailbreak Rides the Right-to-Repair Wave](https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/)<!-- TECH:END -->
+ - [Central Payments, a payments tech and card-issuing platform for banks, has raised $30M in a deal that spins out the company from the Central Bank of Kansas City &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220813/p8#a220813p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
