@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Soccer Story is a fantastical RPG about playing that beautiful game](https://www.pcgamer.com/soccer-story-is-a-fantastical-rpg-about-playing-that-beautiful-game)
  - [Squirrel with a Gun is a game about exactly what it sounds like](https://www.pcgamer.com/squirrel-with-a-gun-is-a-game-about-exactly-what-it-sounds-like)
- - [12 great movies directed by former stunt people you can watch at home](https://www.polygon.com/what-to-watch/23298426/action-movies-by-stunt-people-best-list)
- - [Today&#39;s Wordle 421 answer and hint: Sunday, August 14](https://www.pcgamer.com/todays-wordle-421-answer-hint)<!-- GAME:END -->
+ - [12 great movies directed by former stunt people you can watch at home](https://www.polygon.com/what-to-watch/23298426/action-movies-by-stunt-people-best-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
