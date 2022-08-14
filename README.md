@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big investment firms, including Abrdn, BlackRock, and Charles Schwab, are embracing digital assets despite the crypto crash, as consumer groups raise concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/220814/p6#a220814p6)
- - [Save Hundreds on TVs, Smart Watches and More at Woot&#39;s One-Day Samsung Sale     - CNET](https://www.cnet.com/deals/save-hundreds-on-tvs-smart-watches-and-more-at-woots-one-day-samsung-sale/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 5 and 5 Pro: How Do They Compare to the Galaxy Watch 4?     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-and-5-pro-how-do-they-compare-to-the-galaxy-watch-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New York City-based Kumospace, which offers video chat and remote work tools to organizations, has raised a $21M Series A led by Lightspeed Venture Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220814/p7#a220814p7)
+ - [Reddit partners with crypto exchange FTX to help users manage community points](https://www.theverge.com/2022/8/14/23305354/reddit-partners-ftx-cryptocurrency-exchange-community-points-sam-bankman-fried-sbf)
+ - [Zoom updates macOS app to patch root access exploit](https://appleinsider.com/articles/22/08/14/zoom-updates-macos-app-to-patch-root-access-exploit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
