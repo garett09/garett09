@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some Instagram shii...](http://9gag.com/gag/abg7PDv)
+ - 🚖 [Life goals](http://9gag.com/gag/aPZ5N9B)
  - 🚯 [I just feel the need of it](http://9gag.com/gag/amg3Dq2)
- - 🚯 [Single Mom Syndrome](http://9gag.com/gag/aegLvoq)<!-- MEMES:END -->
+ - 🚯 [Dewey was a genius in this series](http://9gag.com/gag/aKmR0eZ)<!-- MEMES:END -->
 
 --- 
 
