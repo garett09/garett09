@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag catches airport baggage handler stealing luggage](https://appleinsider.com/articles/22/08/14/airtag-catches-airport-baggage-handler-stealing-luggage?utm_medium=rss)
- - [Daily deals August 14: $60 off Apple TV 4K, $15 off Magic Trackpad, $200 off Mac Studio, more](https://appleinsider.com/articles/22/08/14/daily-deals-august-14-60-off-apple-tv-4k-15-off-magic-trackpad-200-off-mac-studio-more?utm_medium=rss)
- - [Analysis: Tencent and Alibaba, whose stocks have dropped 60% and 65% respectively since February 2021, have lost more market value than any other stock globally &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/220814/p4#a220814p4)<!-- TECH:END -->
+ - [6 things you should always consider before buying a smart speaker](https://www.androidauthority.com/6-things-before-buying-a-smart-speaker-3194747/)
+ - [Halo system link still holds up more than 20 years later](https://www.theverge.com/2022/8/14/23303392/halo-combat-evolved-system-link-xbox-multiplayer-still-holds-up)
+ - [Crime blotter: Shots fired near Fifth Avenue &#39;Cube&#39;](https://appleinsider.com/articles/22/08/14/crime-blotter-shots-fired-near-fifth-avenue-cube?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
