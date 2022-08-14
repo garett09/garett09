@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Squirrel with a Gun is a game about exactly what it sounds like](https://www.pcgamer.com/squirrel-with-a-gun-is-a-game-about-exactly-what-it-sounds-like)
  - [12 great movies directed by former stunt people you can watch at home](https://www.polygon.com/what-to-watch/23298426/action-movies-by-stunt-people-best-list)
- - [Today&#39;s Wordle 421 answer and hint: Sunday, August 14](https://www.pcgamer.com/todays-wordle-421-answer-hint)
- - [How &#39;90s interior design software laid the foundation for today&#39;s life sims](https://www.pcgamer.com/how-90s-interior-design-software-laid-the-foundation-for-todays-life-sims)<!-- GAME:END -->
+ - [Today&#39;s Wordle 421 answer and hint: Sunday, August 14](https://www.pcgamer.com/todays-wordle-421-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
