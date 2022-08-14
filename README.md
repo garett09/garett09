@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understood, have a nice day](http://9gag.com/gag/ajgo691)
- - 🚯 [\ud83c\udfce\ufe0f\ud83d\ude97\ud83d\ude98\ud83d\ude94](http://9gag.com/gag/aQX0qrw)
- - 🚯 [Nobel Prize incoming...](http://9gag.com/gag/awz6bOW)<!-- MEMES:END -->
+ - 🚖 [\ud83c\udfce\ufe0f\ud83d\ude97\ud83d\ude98\ud83d\ude94](http://9gag.com/gag/aQX0qrw)
+ - 🚯 [I like how he rubs his head to cool it down](http://9gag.com/gag/aOQXy03)
+ - 🚯 [Oh yeah, yeah, yeah...](http://9gag.com/gag/aqGqmLL)<!-- MEMES:END -->
 
 --- 
 
