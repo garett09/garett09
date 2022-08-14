@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How &#39;90s interior design software laid the foundation for today&#39;s life sims](https://www.pcgamer.com/how-90s-interior-design-software-laid-the-foundation-for-todays-life-sims)
  - [You can be Master Chief in Yakuza 0 because mods are magical](https://www.pcgamer.com/you-can-be-master-chief-in-yakuza-0-because-mods-are-magical)
- - [What should boomer shooters be called?](https://www.pcgamer.com/what-should-boomer-shooters-be-called)
- - [In Manhunter: New York, alien eyeballs conquered the Earth and it was your job to help them](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york)<!-- GAME:END -->
+ - [What should boomer shooters be called?](https://www.pcgamer.com/what-should-boomer-shooters-be-called)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
