@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of COO Javier Olivan, who has become Meta&#39;s &quot;unofficial fixer&quot; and has had a hand in all of the company&#39;s major competitive battles and acquisitions &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220814/p2#a220814p2)
- - [D-Wave completed its planned SPAC merger last week, the third quantum computing startup, after Rigetti and IonQ, to go public via SPAC within the last year &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/220814/p1#a220814p1)
- - [Central Payments, a payments tech and card-issuing platform for banks, has raised $30M in a deal that spins out the company from the Central Bank of Kansas City &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220813/p8#a220813p8)<!-- TECH:END -->
+ - [Source: China has blocked Tencent-backed health platform DXY from posting on Weibo, WeChat, and Douyin amid its criticism of China&#39;s efforts to fight COVID-19 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220814/p3#a220814p3)
+ - [Apple&#39;s iPhone 14 Max Could Finally Give Us a Big Screen for Less     - CNET](https://www.cnet.com/tech/mobile/apples-rumored-iphone-14-max-could-be-the-big-screened-phone-ive-been-waiting-for/#ftag=CAD590a51e)
+ - [A profile of COO Javier Olivan, who has become Meta&#39;s &quot;unofficial fixer&quot; and has had a hand in all of the company&#39;s major competitive battles and acquisitions &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220814/p2#a220814p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
