@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fun fact the city of Barcelona was founded by Hannibal &lpar;on the left&rpar;](http://9gag.com/gag/azen6Gp)
- - 🚯 [The hero we need](http://9gag.com/gag/azen63K)
- - 🚯 [With friends like these](http://9gag.com/gag/aLvy6ZA)<!-- MEMES:END -->
+ - 🚖 [Parry This You Filthy Casual](http://9gag.com/gag/a21nErd)
+ - 🚯 [Sigma Female \ud83d\udd25](http://9gag.com/gag/aM432GM)
+ - 🚯 [Can you please stop embarrassing me?](http://9gag.com/gag/aDDERnB)<!-- MEMES:END -->
 
 --- 
 
