@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Parry This You Filthy Casual](http://9gag.com/gag/a21nErd)
- - 🚯 [Sigma Female \ud83d\udd25](http://9gag.com/gag/aM432GM)
- - 🚯 [Can you please stop embarrassing me?](http://9gag.com/gag/aDDERnB)<!-- MEMES:END -->
+ - 🚖 [I tried to animate a horse, I did many mistakes but maybe you&#39;ll like it](http://9gag.com/gag/aAGoB7Z)
+ - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)
+ - 🚯 [Have you seen your parents lately?](http://9gag.com/gag/aYr2jAx)<!-- MEMES:END -->
 
 --- 
 
