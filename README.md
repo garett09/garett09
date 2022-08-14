@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Firefighters, south of France](http://9gag.com/gag/axBXNdL)
- - 🚯 [I have just two.](http://9gag.com/gag/aAGoRL9)
- - 🚯 [27 hours train travel in Tanzania](http://9gag.com/gag/aPZK6bG)<!-- MEMES:END -->
+ - 🚖 [Life crisis](http://9gag.com/gag/a61Amd2)
+ - 🚯 [With friends like these](http://9gag.com/gag/aLvy6ZA)
+ - 🚯 [I have just two.](http://9gag.com/gag/aAGoRL9)<!-- MEMES:END -->
 
 --- 
 
