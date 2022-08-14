@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cosmic horror abounds in Doom 2 mod Divine Frequency](https://www.pcgamer.com/cosmic-horror-abounds-in-doom-2-mod-divine-frequency)
  - [Steam lets you add free stuff easily now and it is absolutely majestic](https://www.pcgamer.com/steam-lets-you-add-free-stuff-easily-now-and-it-is-absolutely-majestic)
- - [Soccer Story is a fantastical RPG about playing that beautiful game](https://www.pcgamer.com/soccer-story-is-a-fantastical-rpg-about-playing-that-beautiful-game)
- - [Squirrel with a Gun is a game about exactly what it sounds like](https://www.pcgamer.com/squirrel-with-a-gun-is-a-game-about-exactly-what-it-sounds-like)<!-- GAME:END -->
+ - [Soccer Story is a fantastical RPG about playing that beautiful game](https://www.pcgamer.com/soccer-story-is-a-fantastical-rpg-about-playing-that-beautiful-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
