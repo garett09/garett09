@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are not touched for so long](http://9gag.com/gag/a61AmD9)
- - 🚯 [Finally some backlash on these woke movies](http://9gag.com/gag/a61ArnR)
- - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)<!-- MEMES:END -->
+ - 🚖 [Finally some backlash on these woke movies](http://9gag.com/gag/a61ArnR)
+ - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)
+ - 🚯 [27 hours train travel in Tanzania](http://9gag.com/gag/aPZK6bG)<!-- MEMES:END -->
 
 --- 
 
