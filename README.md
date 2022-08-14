@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: China has blocked Tencent-backed health platform DXY from posting on Weibo, WeChat, and Douyin amid its criticism of China&#39;s efforts to fight COVID-19 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220814/p3#a220814p3)
- - [Apple&#39;s iPhone 14 Max Could Finally Give Us a Big Screen for Less     - CNET](https://www.cnet.com/tech/mobile/apples-rumored-iphone-14-max-could-be-the-big-screened-phone-ive-been-waiting-for/#ftag=CAD590a51e)
- - [A profile of COO Javier Olivan, who has become Meta&#39;s &quot;unofficial fixer&quot; and has had a hand in all of the company&#39;s major competitive battles and acquisitions &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220814/p2#a220814p2)<!-- TECH:END -->
+ - [15 Good N95, KF94, and KN95 Face Masks to Buy Right Now](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
+ - [To Fix Tech, Democracy Needs to Grow Up](https://www.wired.com/story/collective-intelligence-democracy/)
+ - [How to Create a Secure Folder on Your Phone](https://www.wired.com/story/how-to-create-secure-folder-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
