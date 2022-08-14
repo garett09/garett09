@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s September iPhone 14 event](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
- - [Best iPhone 11 and 11 Pro Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-iphone-11-and-11-pro-cases/#ftag=CAD590a51e)
- - [FlexiSpot Q8 Standing Desk review: Safe and smart standing while you work](https://appleinsider.com/articles/22/08/13/flexispot-q8-standing-desk-review-safe-and-smart-standing-while-you-work?utm_medium=rss)<!-- TECH:END -->
+ - [A New Tractor Jailbreak Rides the Right-to-Repair Wave](https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/)
+ - [Best Noise-Canceling Headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [What to expect from Apple&#39;s September iPhone 14 event](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
