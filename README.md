@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I tried to animate a horse, I did many mistakes but maybe you&#39;ll like it](http://9gag.com/gag/aAGoB7Z)
+ - 🚖 [Have you seen your parents lately?](http://9gag.com/gag/aYr2jAx)
  - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)
- - 🚯 [Have you seen your parents lately?](http://9gag.com/gag/aYr2jAx)<!-- MEMES:END -->
+ - 🚯 [A cool method to find the name of your baby](http://9gag.com/gag/ajgoYqQ)<!-- MEMES:END -->
 
 --- 
 
