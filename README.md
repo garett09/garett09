@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some computational neuroscientists say self-supervised AI learning models have shown a closer correspondence to brain function than supervised-learning models &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/220814/p5#a220814p5)
- - [Animal Crossing Fireworks Guide: How Long Do Fireworks Last and More     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-fireworks-guide-how-long-do-fireworks-last-and-more/#ftag=CAD590a51e)
- - [Daily deals August 14: $200 off Mac Studio, $60 off Apple TV 4K, $15 off Magic Trackpad, more](https://appleinsider.com/articles/22/08/14/daily-deals-august-14-60-off-apple-tv-4k-15-off-magic-trackpad-200-off-mac-studio-more?utm_medium=rss)<!-- TECH:END -->
+ - [Oxygen OS 13 beta hands on: A dash of color](https://www.androidauthority.com/oxygen-os-13-hands-on-3195686/)
+ - [Your iPhone may soon have more ads](https://www.theverge.com/2022/8/14/23305200/iphone-more-ads-advertising-apple-maps-podcasts-books-mark-gurman-rumors)
+ - [Some computational neuroscientists say self-supervised AI learning models have shown a closer correspondence to brain function than supervised-learning models &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/220814/p5#a220814p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
