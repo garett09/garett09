@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Big investment firms, including Abrdn, BlackRock, and Charles Schwab, are embracing digital assets despite the crypto crash, as consumer groups raise concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/220814/p6#a220814p6)
- - [Seagate Expansion 8TB external hard drive review: No frills storage in need of USB-C](https://appleinsider.com/articles/22/08/14/seagate-expansion-8tb-external-hard-drive-review-no-frills-storage-in-need-of-usb-c?utm_medium=rss)
- - [How to remove and delete a credit card from Amazon](https://www.androidauthority.com/remove-credit-card-amazon-3195958/)<!-- TECH:END -->
+ - [Save Hundreds on TVs, Smart Watches and More at Woot&#39;s One-Day Samsung Sale     - CNET](https://www.cnet.com/deals/save-hundreds-on-tvs-smart-watches-and-more-at-woots-one-day-samsung-sale/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 5 and 5 Pro: How Do They Compare to the Galaxy Watch 4?     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-and-5-pro-how-do-they-compare-to-the-galaxy-watch-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
