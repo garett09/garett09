@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks like a fun game](http://9gag.com/gag/amgENOj)
- - 🚯 [Launching a ball of fire using a mighty trebuchet in Germany](http://9gag.com/gag/a919b4D)
- - 🚯 [Sigma Female \ud83d\udd25](http://9gag.com/gag/aM432GM)<!-- MEMES:END -->
+ - 🚖 [Launching a ball of fire using a mighty trebuchet in Germany](http://9gag.com/gag/a919b4D)
+ - 🚯 [Gas gas gas, gona steppp on gasssss!](http://9gag.com/gag/abg95E8)
+ - 🚯 [A cool method to find the name of your baby](http://9gag.com/gag/ajgoYqQ)<!-- MEMES:END -->
 
 --- 
 
