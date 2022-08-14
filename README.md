@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Launching a ball of fire using a mighty trebuchet in Germany](http://9gag.com/gag/a919b4D)
- - 🚯 [Gas gas gas, gona steppp on gasssss!](http://9gag.com/gag/abg95E8)
- - 🚯 [A cool method to find the name of your baby](http://9gag.com/gag/ajgoYqQ)<!-- MEMES:END -->
+ - 🚖 [2023 is Near](http://9gag.com/gag/aogbz7w)
+ - 🚯 [I have just two.](http://9gag.com/gag/aAGoRL9)
+ - 🚯 [A post](http://9gag.com/gag/arnjpjV)<!-- MEMES:END -->
 
 --- 
 
