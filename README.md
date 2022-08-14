@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you seen your parents lately?](http://9gag.com/gag/aYr2jAx)
- - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)
- - 🚯 [A cool method to find the name of your baby](http://9gag.com/gag/ajgoYqQ)<!-- MEMES:END -->
+ - 🚖 [When you are not touched for so long](http://9gag.com/gag/a61AmD9)
+ - 🚯 [Finally some backlash on these woke movies](http://9gag.com/gag/a61ArnR)
+ - 🚯 [Life crisis](http://9gag.com/gag/a61Amd2)<!-- MEMES:END -->
 
 --- 
 
