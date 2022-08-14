@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2023 is Near](http://9gag.com/gag/aogbz7w)
- - 🚯 [I have just two.](http://9gag.com/gag/aAGoRL9)
- - 🚯 [A post](http://9gag.com/gag/arnjpjV)<!-- MEMES:END -->
+ - 🚖 [A post](http://9gag.com/gag/arnjpjV)
+ - 🚯 [This feels like a Scooby-Doo episode](http://9gag.com/gag/aLvyK9P)
+ - 🚯 [I fish therefore i lie](http://9gag.com/gag/ay9O5GM)<!-- MEMES:END -->
 
 --- 
 
