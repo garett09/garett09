@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Manhunter: New York, alien eyeballs conquered the Earth and it was your job to help them](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york)
- - [Hogwarts Legacy delayed into 2023, but with a firm release date](https://www.pcgamer.com/hogwarts-legacy-delayed-into-2023-but-with-a-firm-release-date)
- - [The best games to show off your fancy new graphics card](https://www.pcgamer.com/the-best-games-to-show-off-your-brand-new-graphics-card)<!-- GAME:END -->
+ - [You can be Master Chief in Yakuza 0 because mods are magical](https://www.pcgamer.com/you-can-be-master-chief-in-yakuza-0-because-mods-are-magical)
+ - [What should boomer shooters be called?](https://www.pcgamer.com/what-should-boomer-shooters-be-called)
+ - [In Manhunter: New York, alien eyeballs conquered the Earth and it was your job to help them](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
