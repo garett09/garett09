@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Up to 52% On Vacuum-Insulated Reduce Tumblers Today Only at Amazon     - CNET](https://www.cnet.com/deals/save-up-to-52-on-vacuum-insulated-reduce-tumblers-today-only-at-amazon/#ftag=CAD590a51e)
- - [New York City-based Kumospace, which offers video chat and remote work tools with a &quot;virtual office&quot; feel, has raised a $21M Series A led by Lightspeed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220814/p7#a220814p7)
- - [&#39;Raising Kanan&#39; Season 2 Will See Raq &#39;Unsettled,&#39; Says Star Patina Miller     - CNET](https://www.cnet.com/culture/entertainment/raising-kanan-season-2-will-see-raq-sweating-says-patina-miller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spigen Enzo leather case review: Luxury iPhone 13 protection at a price](https://appleinsider.com/articles/22/08/14/spigen-enzo-leather-case-review-luxury-iphone-13-protection-at-a-price?utm_medium=rss)
+ - [Zoom’s latest update on Mac includes a fix for a dangerous security flaw](https://www.theverge.com/2022/8/14/23305548/zoom-update-macos-fix-dangerous-security-flaw-hackers)
+ - [Save Up to 52% On Vacuum-Insulated Reduce Tumblers Today Only at Amazon     - CNET](https://www.cnet.com/deals/save-up-to-52-on-vacuum-insulated-reduce-tumblers-today-only-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
