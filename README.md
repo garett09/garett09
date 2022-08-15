@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of digital productivity monitoring for white collar jobs in the US, sometimes used to assign workers scores, determine pay, and more &lpar;New York Times&rpar;](http://www.techmeme.com/220815/p14#a220815p14)
- - [Even the best under-display cameras are garbage, here’s the proof](https://www.androidauthority.com/under-display-selfie-camera-budget-phones-shootout-3192551/)
- - [6 Best Fidget Toys for Anxiety     - CNET](https://www.cnet.com/health/mental/6-best-fidget-toys-for-anxiety/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapchat’s paid subscription is already a hit](https://www.theverge.com/2022/8/15/23306268/snapchat-plus-subscription-one-million-users-new-features)
+ - [The Zoom installer let a researcher hack his way to root access on macOS](https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle)
+ - [TikTok rolls out a text-to-image &quot;AI greenscreen&quot;, letting users create a basic background for videos from a text prompt &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220815/p16#a220815p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
