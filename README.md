@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google wants YouTube to be your streaming hub of choice](https://www.androidauthority.com/youtube-channel-store-3196502/)
  - [Best Wi-Fi 6 Routers of 2022     - CNET](https://www.cnet.com/news/the-best-wi-fi-6-routers-of-2022/#ftag=CAD590a51e)
- - [Apple could take a page out of Android’s playbook with iPhone ad plans](https://www.androidauthority.com/apple-iphone-first-party-ads-3196480/)
- - [&#39;Westworld&#39; Season 4, Episode 8 Recap: &#39;Que Será, Será&#39;     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-8-recap-que-sera-sera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple could take a page out of Android’s playbook with iPhone ad plans](https://www.androidauthority.com/apple-iphone-first-party-ads-3196480/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
