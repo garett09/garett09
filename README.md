@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying an EV is about to be a pain in the ass, thanks to stricter tax credits](https://www.theverge.com/2022/8/15/23306417/ev-tax-credit-binding-contract-electric-vehicle)
- - [Data recovery is now possible from Apple Silicon systems - at a cost](https://appleinsider.com/articles/22/08/15/data-recovery-is-now-possible-from-apple-silicon-systems---at-a-cost?utm_medium=rss)
- - [Eve Aqua &lpar;3rd-gen&rpar; review: Upgrades all around for this Thread-enabled spigot](https://appleinsider.com/articles/22/08/15/eve-aqua-3rd-gen-review-upgrades-all-around-for-this-thread-enabled-spigot?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases sixth developer beta for tvOS 16](https://appleinsider.com/articles/22/08/15/apple-releases-sixth-developer-beta-for-tvos-16?utm_medium=rss)
+ - [Apple seeds sixth iOS 16, iPadOS 16 developer betas](https://appleinsider.com/articles/22/08/15/apple-seeds-sixth-ios-16-ipados-16-developer-betas?utm_medium=rss)
+ - [Apple introduces sixth watchOS 9 developer beta](https://appleinsider.com/articles/22/08/15/apple-introduces-sixth-watchos-9-developer-beta-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
