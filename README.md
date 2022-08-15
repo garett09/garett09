@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#39;ve come so far](http://9gag.com/gag/ay9O0zY)
+ - 🚖 [Now I Am Become Cat, Destroyer of birthday parties](http://9gag.com/gag/aXr5pvv)
  - 🚯 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
  - 🚯 [One with the stars](http://9gag.com/gag/avA3LLW)<!-- MEMES:END -->
 
