@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Grabbing that first Draft win in Magic Arena](https://www.pcgamer.com/great-moments-in-pc-gaming-grabbing-that-first-draft-win-in-magic-arena)
- - [How Strange Horticulture&#39;s devs went from Flash to one of the best games of the year](https://www.pcgamer.com/how-strange-horticultures-devs-went-from-flash-to-one-of-the-best-games-of-the-year)
- - [The 10 Best Predator Games, Ranked](https://game-rant-2022.blogspot.com/2022/08/the-10-best-predator-games-ranked.html)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [The Le Mans was Fanatec&#39;s first ever wheel](https://game-rant-2022.blogspot.com/2022/08/the-le-mans-was-fanatecs-first-ever.html)
+ - [Great moments in PC gaming: Grabbing that first Draft win in Magic Arena](https://www.pcgamer.com/great-moments-in-pc-gaming-grabbing-that-first-draft-win-in-magic-arena)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
