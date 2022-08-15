@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spigen Enzo leather case review: Luxury iPhone 13 protection at a price](https://appleinsider.com/articles/22/08/14/spigen-enzo-leather-case-review-luxury-iphone-13-protection-at-a-price?utm_medium=rss)
  - [UFC 278 Usman vs. Edwards: Start Time, How to Watch Online, Everything to Know     - CNET](https://www.cnet.com/culture/sports/ufc-278-usman-vs-edwards-start-time-how-to-watch-online-everything-to-know/#ftag=CAD590a51e)
- - [Ahead of US midterms, a look at TikTok&#39;s struggles to keep misinformation off of its platform during foreign elections, like in Australia and France this year &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/220814/p11#a220814p11)
- - [&#39;House of the Dragon&#39; Release Date: When You Can Watch in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-release-date-when-you-can-watch-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ahead of US midterms, a look at TikTok&#39;s struggles to keep misinformation off of its platform during foreign elections, like in Australia and France this year &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/220814/p11#a220814p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
