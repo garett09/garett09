@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Got Doom Running On A Farm Tractor](https://kotaku.com/doom-mod-farm-tractor-pc-hack-defcon-2022-id-fps-1849414342)
- - [Diablo III Season 27 – The Light’s Calling Begins August 26](https://news.xbox.com/en-us/2022/08/15/diablo-iii-season-27-the-lights-calling-begins-august-26/)
- - [The Anime Dream Team Behind Chainsaw Man](https://kotaku.com/chainsaw-man-anime-mappa-jujutsu-kaisen-black-clover-1849413564)<!-- GAME:END -->
+ - [Great anime with unnecessary harems](https://game-rant-2022.blogspot.com/2022/08/great-anime-with-unnecessary-harems.html)
+ - [Innovative deckbuilder Nadir paints a beautiful portrait of Hell](https://www.pcgamer.com/innovative-deckbuilder-nadir-paints-a-beautiful-portrait-of-hell)
+ - [Don&#39;t worry, Steam Deck clones are coming](https://game-rant-2022.blogspot.com/2022/08/dont-worry-steam-deck-clones-are-coming.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
