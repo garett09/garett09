@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now I Am Become Cat, Destroyer of birthday parties](http://9gag.com/gag/aXr5pvv)
- - 🚯 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
- - 🚯 [One with the stars](http://9gag.com/gag/avA3LLW)<!-- MEMES:END -->
+ - 🚖 [I want some](http://9gag.com/gag/aKmrBn1)
+ - 🚯 [The nostalgia](http://9gag.com/gag/aXr5XmP)
+ - 🚯 [This made me smile](http://9gag.com/gag/aegvpPW)<!-- MEMES:END -->
 
 --- 
 
