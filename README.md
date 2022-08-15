@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men will be Men](http://9gag.com/gag/amgEr02)
- - 🚯 [This is some good news](http://9gag.com/gag/ay9OdgY)
- - 🚯 [Solid](http://9gag.com/gag/aAGoP20)<!-- MEMES:END -->
+ - 🚖 [Very easy to use](http://9gag.com/gag/a31V7Qe)
+ - 🚯 [Activate those neurons](http://9gag.com/gag/awz65ny)
+ - 🚯 [German Autobahn](http://9gag.com/gag/a9197ZL)<!-- MEMES:END -->
 
 --- 
 
