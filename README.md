@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [20 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [NFL Blitz comes back, without the late hits, in an arcade cabinet](https://www.polygon.com/23306194/nfl-blitz-arcade-cabinet-release-date-price-arcade1up)
- - [Wii Sports supervillain Matt can now crush you in Switch Sports](https://www.polygon.com/23306387/nintendo-switch-sports-matt-wii-meme-input-code)<!-- GAME:END -->
+ - [How To Calculate A Game&#39;s True Value From Its Price And Length](https://kotaku.com/game-length-price-ubisoft-cult-of-the-lamb-far-cry-1849412617)
+ - [Richard Garriott&#39;s NFT MMO entreats you to &#39;buy land in the realm of Lord British&#39;](https://www.pcgamer.com/richard-garriotts-nft-mmo-entreats-you-to-buy-land-in-the-realm-of-lord-british)
+ - [Owlboy Dev&#39;s New Game Is Pure Pixel Art Pandemonium](https://kotaku.com/vikings-on-trampolines-owlboy-d-pad-studio-steam-pc-1849412523)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
