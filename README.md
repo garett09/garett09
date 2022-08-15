@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want some](http://9gag.com/gag/aKmrBn1)
- - 🚯 [The nostalgia](http://9gag.com/gag/aXr5XmP)
- - 🚯 [This made me smile](http://9gag.com/gag/aegvpPW)<!-- MEMES:END -->
+ - 🚖 [I thought that was Teletubbies&#39; home](http://9gag.com/gag/aDDEmpK)
+ - 🚯 [This made me smile](http://9gag.com/gag/aegvpPW)
+ - 🚯 [I want some](http://9gag.com/gag/aKmrBn1)<!-- MEMES:END -->
 
 --- 
 
