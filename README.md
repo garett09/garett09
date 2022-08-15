@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very easy to use](http://9gag.com/gag/a31V7Qe)
- - 🚯 [Activate those neurons](http://9gag.com/gag/awz65ny)
- - 🚯 [German Autobahn](http://9gag.com/gag/a9197ZL)<!-- MEMES:END -->
+ - 🚖 [It\u2019s now illegal to park there](http://9gag.com/gag/a11GX7P)
+ - 🚯 [Why is this so hard???](http://9gag.com/gag/a919W81)
+ - 🚯 [Random compliments and questions in public compilation](http://9gag.com/gag/aWgw874)<!-- MEMES:END -->
 
 --- 
 
