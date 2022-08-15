@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft finally admits Xbox One sales were less than half of the PS4](https://www.theverge.com/2022/8/15/23306068/microsoft-xbox-one-sales-lifetime-versus-ps4-sales)
- - [Daily Authority: 🍳 The Google account nightmare](https://www.androidauthority.com/daily-authority-august-15-2022-3196475/)
- - [&#39;Severance&#39; and &#39;Ted Lasso&#39; clean up at the Hollywood Critics awards](https://appleinsider.com/articles/22/08/15/severance-and-ted-lasso-clean-up-at-the-hollywood-critics-awards?utm_medium=rss)<!-- TECH:END -->
+ - [How the Apple Watch Saved My Life -- and Could Rescue You     - CNET](https://www.cnet.com/health/medical/the-apple-watch-has-life-saving-features/#ftag=CAD590a51e)
+ - [How To Factory Reset a Nintendo Switch Before Selling or Regifting It     - CNET](https://www.cnet.com/tech/gaming/how-to-factory-reset-a-nintendo-switch-before-selling-or-regifting-it/#ftag=CAD590a51e)
+ - [Here’s Where to Get Discounts With a Student Email Address](https://www.wired.com/story/best-student-discounts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
