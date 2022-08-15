@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Someone Got Doom Running On A Farm Tractor](https://kotaku.com/doom-mod-farm-tractor-pc-hack-defcon-2022-id-fps-1849414342)
  - [Diablo III Season 27 – The Light’s Calling Begins August 26](https://news.xbox.com/en-us/2022/08/15/diablo-iii-season-27-the-lights-calling-begins-august-26/)
- - [The Anime Dream Team Behind Chainsaw Man](https://kotaku.com/chainsaw-man-anime-mappa-jujutsu-kaisen-black-clover-1849413564)
- - [John Wick prequel show set to debut on Peacock in 2023](https://www.polygon.com/23306881/john-wick-the-continental-prequel-series-peacock-2023)<!-- GAME:END -->
+ - [The Anime Dream Team Behind Chainsaw Man](https://kotaku.com/chainsaw-man-anime-mappa-jujutsu-kaisen-black-clover-1849413564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
