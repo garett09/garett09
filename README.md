@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being a dad is hard, unappreciated, unseen hero](http://9gag.com/gag/angLNMb)
- - 🚯 [Have a good night!](http://9gag.com/gag/aKmrq2Q)
- - 🚯 [Haha](http://9gag.com/gag/ajgoAD1)<!-- MEMES:END -->
+ - 🚖 [Lays](http://9gag.com/gag/a41DYq1)
+ - 🚯 [The Snake in its ultimate form](http://9gag.com/gag/avA3PWE)
+ - 🚯 [Always the overweight ugly ones...](http://9gag.com/gag/a31VB1N)<!-- MEMES:END -->
 
 --- 
 
