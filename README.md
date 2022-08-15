@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat’s paid subscription is already a hit](https://www.theverge.com/2022/8/15/23306268/snapchat-plus-subscription-one-million-users-new-features)
- - [The Zoom installer let a researcher hack his way to root access on macOS](https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle)
- - [TikTok rolls out a text-to-image &quot;AI greenscreen&quot;, letting users create a basic background for videos from a text prompt &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220815/p16#a220815p16)<!-- TECH:END -->
+ - [Buying an EV is about to be a pain in the ass, thanks to stricter tax credits](https://www.theverge.com/2022/8/15/23306417/ev-tax-credit-binding-contract-electric-vehicle)
+ - [Data recovery is now possible from Apple Silicon systems - at a cost](https://appleinsider.com/articles/22/08/15/data-recovery-is-now-possible-from-apple-silicon-systems---at-a-cost?utm_medium=rss)
+ - [Eve Aqua &lpar;3rd-gen&rpar; review: Upgrades all around for this Thread-enabled spigot](https://appleinsider.com/articles/22/08/15/eve-aqua-3rd-gen-review-upgrades-all-around-for-this-thread-enabled-spigot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
