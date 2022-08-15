@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4moms Recalls Some MamaRoo Swings, RockaRoo Rockers Over Strangulation Hazard     - CNET](https://www.cnet.com/health/parenting/4moms-recalls-some-mamaroo-swings-rockaroo-rockers-over-strangulation-hazard/#ftag=CAD590a51e)
- - [Buying a New iPhone Now? You Couldn&#39;t Pick a Worse Time     - CNET](https://www.cnet.com/tech/mobile/buying-a-new-iphone-now-you-couldnt-pick-a-worse-time/#ftag=CAD590a51e)
- - [Best iPad for 2022     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Google Nest router with Wi-Fi 6E, Thread, and Bluetooth LE pops up in FCC filings](https://www.theverge.com/2022/8/15/23306716/google-wifi-6e-router-nest-fcc-thread-bluetooth)
+ - [Berkshire Hathaway added 3.9M more Apple shares in Q2 2022](https://appleinsider.com/articles/22/08/15/berkshire-hathaway-added-39m-more-apple-shares-in-q2-2022?utm_medium=rss)
+ - [Walmart partners with Paramount to include the $4.99/month ad-supported tier of the Paramount+ streaming service as part of its Walmart+ subscription &lpar;Reuters&rpar;](http://www.techmeme.com/220815/p20#a220815p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
