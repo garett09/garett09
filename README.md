@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s now illegal to park there](http://9gag.com/gag/a11GX7P)
- - 🚯 [Weird to begin with](http://9gag.com/gag/aE8L759)
- - 🚯 [Damn!!!](http://9gag.com/gag/aNP6nMr)<!-- MEMES:END -->
+ - 🚖 [Weird to begin with](http://9gag.com/gag/aE8L759)
+ - 🚯 [USA has BLMs. Europe has these:](http://9gag.com/gag/aggPVV1)
+ - 🚯 [Their only problem is deciding what pronouns to use next day](http://9gag.com/gag/aze0j2j)<!-- MEMES:END -->
 
 --- 
 
