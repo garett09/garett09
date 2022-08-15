@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keep The Unreal Engine 5 Showcases Coming, Please](https://kotaku.com/unreal-engine-5-showcase-video-airborn-studios-1849411183)
- - [Alone In The Dark Is Back For ANOTHER Reboot](https://kotaku.com/alone-in-the-dark-reboot-thq-nordic-remake-1849411114)
- - [Cosmic horror abounds in Doom 2 mod Divine Frequency](https://www.pcgamer.com/cosmic-horror-abounds-in-doom-2-mod-divine-frequency)<!-- GAME:END -->
+ - [Great moments in PC gaming: Grabbing that first Draft win in Magic Arena](https://www.pcgamer.com/great-moments-in-pc-gaming-grabbing-that-first-draft-win-in-magic-arena)
+ - [How Strange Horticulture&#39;s devs went from Flash to one of the best games of the year](https://www.pcgamer.com/how-strange-horticultures-devs-went-from-flash-to-one-of-the-best-games-of-the-year)
+ - [The 10 Best Predator Games, Ranked](https://game-rant-2022.blogspot.com/2022/08/the-10-best-predator-games-ranked.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
