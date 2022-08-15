@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Calculate A Game&#39;s True Value From Its Price And Length](https://kotaku.com/game-length-price-ubisoft-cult-of-the-lamb-far-cry-1849412617)
- - [Richard Garriott&#39;s NFT MMO entreats you to &#39;buy land in the realm of Lord British&#39;](https://www.pcgamer.com/richard-garriotts-nft-mmo-entreats-you-to-buy-land-in-the-realm-of-lord-british)
- - [Owlboy Dev&#39;s New Game Is Pure Pixel Art Pandemonium](https://kotaku.com/vikings-on-trampolines-owlboy-d-pad-studio-steam-pc-1849412523)<!-- GAME:END -->
+ - [Super Smash Bros. Ultimate Competitive Community Really Hates Steve From Minecraft](https://kotaku.com/super-smash-bros-ultimate-minecraft-ban-steve-sora-onin-1849413171)
+ - [Watch a comic book artist make a Final Fantasy-inspired game in real time](https://www.polygon.com/23300098/comic-book-artist-final-fantasy-rpg)
+ - [New Lord of the Rings game coming from Take-Two and a company that helped make the movies](https://www.polygon.com/23306663/private-division-lord-of-the-rings-weta-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
