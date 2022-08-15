@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases sixth developer beta for tvOS 16](https://appleinsider.com/articles/22/08/15/apple-releases-sixth-developer-beta-for-tvos-16?utm_medium=rss)
- - [Apple seeds sixth iOS 16, iPadOS 16 developer betas](https://appleinsider.com/articles/22/08/15/apple-seeds-sixth-ios-16-ipados-16-developer-betas?utm_medium=rss)
- - [Apple introduces sixth watchOS 9 developer beta](https://appleinsider.com/articles/22/08/15/apple-introduces-sixth-watchos-9-developer-beta-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [A new Lord of the Rings game is in the works from Weta Workshop](https://www.theverge.com/2022/8/15/23306569/lord-of-the-rings-game-weta-workshop-private-division-take-two)
+ - [Android 13 arrives for Pixel phones starting today](https://www.theverge.com/2022/8/15/23306058/android-13-release-date-pixel-devices-features)
+ - [Xenoblade Chronicles 3 DLC Guide: Expansion Pass Price, New Content and More     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-dlc-guide-expansion-pass-price-new-content-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
