@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I won&#39;t need this anymore](http://9gag.com/gag/a0Z2P3Z)
- - 🚯 [Damn dude, leave some girls for the rest of us.](http://9gag.com/gag/aAGoVng)
- - 🚯 [The painting is so amazing.](http://9gag.com/gag/aYr2pbN)<!-- MEMES:END -->
+ - 🚖 [I fish therefore i lie](http://9gag.com/gag/ay9O5GM)
+ - 🚯 [I think we landed](http://9gag.com/gag/aDDE3RZ)
+ - 🚯 [Nobel Prize incoming...](http://9gag.com/gag/awz6bOW)<!-- MEMES:END -->
 
 --- 
 
