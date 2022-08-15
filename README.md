@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I thought that was Teletubbies&#39; home](http://9gag.com/gag/aDDEmpK)
- - 🚯 [This made me smile](http://9gag.com/gag/aegvpPW)
- - 🚯 [I want some](http://9gag.com/gag/aKmrBn1)<!-- MEMES:END -->
+ - 🚖 [Dinosaurs - Behind The Scenes &lpar;1991&rpar;](http://9gag.com/gag/aZrGMx9)
+ - 🚯 [Haha](http://9gag.com/gag/ajgoAD1)
+ - 🚯 [So relatable](http://9gag.com/gag/adgmpbj)<!-- MEMES:END -->
 
 --- 
 
