@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinosaurs - Behind The Scenes &lpar;1991&rpar;](http://9gag.com/gag/aZrGMx9)
- - 🚯 [Haha](http://9gag.com/gag/ajgoAD1)
- - 🚯 [So relatable](http://9gag.com/gag/adgmpbj)<!-- MEMES:END -->
+ - 🚖 [Being a dad is hard, unappreciated, unseen hero](http://9gag.com/gag/angLNMb)
+ - 🚯 [Have a good night!](http://9gag.com/gag/aKmrq2Q)
+ - 🚯 [Haha](http://9gag.com/gag/ajgoAD1)<!-- MEMES:END -->
 
 --- 
 
