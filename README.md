@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google Nest router with Wi-Fi 6E, Thread, and Bluetooth LE pops up in FCC filings](https://www.theverge.com/2022/8/15/23306716/google-wifi-6e-router-nest-fcc-thread-bluetooth)
- - [Berkshire Hathaway added 3.9M more Apple shares in Q2 2022](https://appleinsider.com/articles/22/08/15/berkshire-hathaway-added-39m-more-apple-shares-in-q2-2022?utm_medium=rss)
- - [Walmart partners with Paramount to include the $4.99/month ad-supported tier of the Paramount+ streaming service as part of its Walmart+ subscription &lpar;Reuters&rpar;](http://www.techmeme.com/220815/p20#a220815p20)<!-- TECH:END -->
+ - [The Verge’s 2022 back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)
+ - [You can’t revert from Android 13 to Android 12 on Pixel 6 devices](https://www.theverge.com/2022/8/15/23306798/android-13-roll-back-android-12-pixel-6-tensor-bootloader)
+ - [Walmart Plus subscribers are about to get a lot of streaming content for free](https://www.theverge.com/2022/8/15/23307055/walmart-plus-subscribers-free-streaming-content-paramount-plus-amazon-prime)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
