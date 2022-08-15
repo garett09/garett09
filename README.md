@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants YouTube to be your streaming hub of choice](https://www.androidauthority.com/youtube-channel-store-3196502/)
- - [Best Wi-Fi 6 Routers of 2022     - CNET](https://www.cnet.com/news/the-best-wi-fi-6-routers-of-2022/#ftag=CAD590a51e)
- - [Apple could take a page out of Android’s playbook with iPhone ad plans](https://www.androidauthority.com/apple-iphone-first-party-ads-3196480/)<!-- TECH:END -->
+ - [Microsoft finally admits Xbox One sales were less than half of the PS4](https://www.theverge.com/2022/8/15/23306068/microsoft-xbox-one-sales-lifetime-versus-ps4-sales)
+ - [Daily Authority: 🍳 The Google account nightmare](https://www.androidauthority.com/daily-authority-august-15-2022-3196475/)
+ - [&#39;Severance&#39; and &#39;Ted Lasso&#39; clean up at the Hollywood Critics awards](https://appleinsider.com/articles/22/08/15/severance-and-ted-lasso-clean-up-at-the-hollywood-critics-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
