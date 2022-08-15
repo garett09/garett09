@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z invests in Adam Neumann&#39;s residential real estate management startup Flow, sources say ~$350M at a $1B+ valuation, the firm&#39;s largest-ever individual check &lpar;New York Times&rpar;](http://www.techmeme.com/220815/p8#a220815p8)
- - [Daily Deals August 15: Refurbished M1 iMacs, $110 off Apple Watch Series 7, $70 Blue Yeti Nano, more](https://appleinsider.com/articles/22/08/15/daily-deals-august-15-refurbished-m1-imacs-110-off-apple-watch-series-7-70-blue-yeti-nano-more?utm_medium=rss)
- - [TikTok now offers a very basic text-to-image AI generator directly in the app](https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream)<!-- TECH:END -->
+ - [Eve Aqua review, LifX lives, and Sonos mini sub is delayed on HomeKit Insider](https://appleinsider.com/articles/22/08/15/eve-aqua-review-lifx-lives-and-sonos-mini-sub-is-delayed-on-homekit-insider?utm_medium=rss)
+ - [Thinking bold: A peek into the future through vivo’s 5G innovation](https://www.androidauthority.com/vivo-5g-and-beyond-3194077/)
+ - [Gorgias, which offers AI-powered customer service tools for e-commerce, raised a $30M Series C at a $710M valuation led by Transpose Platform and Shopify &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220815/p12#a220815p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
