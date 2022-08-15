@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One with the stars](http://9gag.com/gag/avA3LLW)
+ - 🚖 [We&#39;ve come so far](http://9gag.com/gag/ay9O0zY)
  - 🚯 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
- - 🚯 [We&#39;ve come so far](http://9gag.com/gag/ay9O0zY)<!-- MEMES:END -->
+ - 🚯 [One with the stars](http://9gag.com/gag/avA3LLW)<!-- MEMES:END -->
 
 --- 
 
