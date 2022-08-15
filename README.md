@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity rejects proposed takeover by AppLovin](https://www.pcgamer.com/unity-rejects-proposed-takeover-by-applovin)
- - [MultiVersus adds new characters, balance improvements in season 1 patch notes](https://www.polygon.com/23306239/multiversus-season-1-patch-notes-balance-characters-morty-rick-black-adam-stripe)
- - [John Wick director wants to make his Ghost of Tsushima movie in Japanese](https://www.polygon.com/23306212/sony-ghost-of-tsushima-movie-japanese-cast-chad-stahelski)<!-- GAME:END -->
+ - [20 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [NFL Blitz comes back, without the late hits, in an arcade cabinet](https://www.polygon.com/23306194/nfl-blitz-arcade-cabinet-release-date-price-arcade1up)
+ - [Wii Sports supervillain Matt can now crush you in Switch Sports](https://www.polygon.com/23306387/nintendo-switch-sports-matt-wii-meme-input-code)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
