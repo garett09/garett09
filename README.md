@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jump into Madden NFL 23 Early with EA Play](https://news.xbox.com/en-us/2022/08/15/jump-into-madden-nfl-23-early-with-ea-play/)
- - [Super Smash Bros. Ultimate Competitive Community Really Hates Steve From Minecraft](https://kotaku.com/super-smash-bros-ultimate-minecraft-ban-steve-sora-onin-1849413171)
- - [Watch a comic book artist make a Final Fantasy-inspired game in real time](https://www.polygon.com/23300098/comic-book-artist-final-fantasy-rpg)<!-- GAME:END -->
+ - [Diablo III Season 27 – The Light’s Calling Begins August 26](https://news.xbox.com/en-us/2022/08/15/diablo-iii-season-27-the-lights-calling-begins-august-26/)
+ - [The Anime Dream Team Behind Chainsaw Man](https://kotaku.com/chainsaw-man-anime-mappa-jujutsu-kaisen-black-clover-1849413564)
+ - [John Wick prequel show set to debut on Peacock in 2023](https://www.polygon.com/23306881/john-wick-the-continental-prequel-series-peacock-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
