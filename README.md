@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [MultiVersus’ next fighters, Black Adam and Stripe, revealed](https://www.polygon.com/23303139/multiversus-season-1-characters-black-adam-stripe-gremlins)
  - [Story details you need to know before playing God of War Ragnarök](https://blog.playstation.com/2022/08/15/story-details-you-need-to-know-before-playing-god-of-war-ragnarok/)
- - [Why Nuclear Throne is still the best roguelike around](https://www.pcgamer.com/why-nuclear-throne-is-still-the-best-roguelike-around)
- - [FTL meets Don&#39;t Starve in cooperative seafaring caper Ship of Fools, launching November 22](https://www.pcgamer.com/ftl-meets-dont-starve-in-cooperative-seafaring-caper-ship-of-fools-launching-november-22)<!-- GAME:END -->
+ - [Story details you need to know before playing God of War Ragnarök](https://blog.playstation.com/2022/08/15/story-details-you-need-to-know-before-playing-god-of-war-ragnarok/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
