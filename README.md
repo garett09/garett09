@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eve Aqua review, LifX lives, and Sonos mini sub is delayed on HomeKit Insider](https://appleinsider.com/articles/22/08/15/eve-aqua-review-lifx-lives-and-sonos-mini-sub-is-delayed-on-homekit-insider?utm_medium=rss)
- - [Thinking bold: A peek into the future through vivo’s 5G innovation](https://www.androidauthority.com/vivo-5g-and-beyond-3194077/)
- - [Gorgias, which offers AI-powered customer service tools for e-commerce, raised a $30M Series C at a $710M valuation led by Transpose Platform and Shopify &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220815/p12#a220815p12)<!-- TECH:END -->
+ - [A look at the rise of digital productivity monitoring for white collar jobs in the US, sometimes used to assign workers scores, determine pay, and more &lpar;New York Times&rpar;](http://www.techmeme.com/220815/p14#a220815p14)
+ - [Even the best under-display cameras are garbage, here’s the proof](https://www.androidauthority.com/under-display-selfie-camera-budget-phones-shootout-3192551/)
+ - [6 Best Fidget Toys for Anxiety     - CNET](https://www.cnet.com/health/mental/6-best-fidget-toys-for-anxiety/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
