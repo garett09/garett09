@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Jump into Madden NFL 23 Early with EA Play](https://news.xbox.com/en-us/2022/08/15/jump-into-madden-nfl-23-early-with-ea-play/)
  - [Super Smash Bros. Ultimate Competitive Community Really Hates Steve From Minecraft](https://kotaku.com/super-smash-bros-ultimate-minecraft-ban-steve-sora-onin-1849413171)
- - [Watch a comic book artist make a Final Fantasy-inspired game in real time](https://www.polygon.com/23300098/comic-book-artist-final-fantasy-rpg)
- - [New Lord of the Rings game coming from Take-Two and a company that helped make the movies](https://www.polygon.com/23306663/private-division-lord-of-the-rings-weta-game)<!-- GAME:END -->
+ - [Watch a comic book artist make a Final Fantasy-inspired game in real time](https://www.polygon.com/23300098/comic-book-artist-final-fantasy-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
