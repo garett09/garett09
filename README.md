@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [The Le Mans was Fanatec&#39;s first ever wheel](https://game-rant-2022.blogspot.com/2022/08/the-le-mans-was-fanatecs-first-ever.html)
- - [Great moments in PC gaming: Grabbing that first Draft win in Magic Arena](https://www.pcgamer.com/great-moments-in-pc-gaming-grabbing-that-first-draft-win-in-magic-arena)<!-- GAME:END -->
+ - [JUMANJI: The Curse Returns Review |  GameGrin](https://game-rant-2022.blogspot.com/2022/08/jumanji-curse-returns-review-gamegrin.html)
+ - [Westworld Season 4 Finale: Is Anyone Actually Dead?](https://game-rant-2022.blogspot.com/2022/08/westworld-season-4-finale-is-anyone.html)
+ - [Best Artifacts in Marvel Future Fight](https://game-rant-2022.blogspot.com/2022/08/best-artifacts-in-marvel-future-fight.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
