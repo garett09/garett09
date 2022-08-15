@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny voice-over from husband. Covered the emoji for you whiners](http://9gag.com/gag/aqGqLVP)
- - 🚯 [Random compliments and questions in public compilation](http://9gag.com/gag/aWgw874)
+ - 🚖 [Random compliments and questions in public compilation](http://9gag.com/gag/aWgw874)
+ - 🚯 [Proud nauseum](http://9gag.com/gag/apgWrZ8)
  - 🚯 [Why is this so hard???](http://9gag.com/gag/a919W81)<!-- MEMES:END -->
 
 --- 
