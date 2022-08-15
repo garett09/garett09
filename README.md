@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza 0&#39;s hostess club made me a manager with a heart](https://www.pcgamer.com/yakuza-0s-hostess-club-made-me-a-manager-with-a-heart)
- - [Today&#39;s Wordle 422 answer and hint: Monday, August 15](https://www.pcgamer.com/todays-wordle-422-answer-hint)
- - [Spider-Man mods are here, you can already play as Black Cat or Stan Lee and wear the symbiote suit](https://www.pcgamer.com/spider-man-mods-are-here-you-can-already-play-as-black-cat-or-stan-lee-and-wear-the-symbiote-suit)<!-- GAME:END -->
+ - [How Larian broke out of the B-tier to master the RPG](https://www.pcgamer.com/how-larian-broke-out-of-the-b-tier-to-master-the-rpg)
+ - [MultiVersus Season 1 patch notes confirm Morty release date, Batman and Arya as free playable characters](https://www.pcgamer.com/multiversus-season-1-patch-notes-confirm-morty-release-date-batman-and-arya-as-free-playable-characters)
+ - [Yakuza 0&#39;s hostess club made me a manager with a heart](https://www.pcgamer.com/yakuza-0s-hostess-club-made-me-a-manager-with-a-heart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
