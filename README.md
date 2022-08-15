@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yakuza 0&#39;s hostess club made me a manager with a heart](https://www.pcgamer.com/yakuza-0s-hostess-club-made-me-a-manager-with-a-heart)
  - [Today&#39;s Wordle 422 answer and hint: Monday, August 15](https://www.pcgamer.com/todays-wordle-422-answer-hint)
- - [Spider-Man mods are here, you can already play as Black Cat or Stan Lee and wear the symbiote suit](https://www.pcgamer.com/spider-man-mods-are-here-you-can-already-play-as-black-cat-or-stan-lee-and-wear-the-symbiote-suit)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Spider-Man mods are here, you can already play as Black Cat or Stan Lee and wear the symbiote suit](https://www.pcgamer.com/spider-man-mods-are-here-you-can-already-play-as-black-cat-or-stan-lee-and-wear-the-symbiote-suit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
