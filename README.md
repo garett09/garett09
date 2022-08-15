@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I fish therefore i lie](http://9gag.com/gag/ay9O5GM)
- - 🚯 [I think we landed](http://9gag.com/gag/aDDE3RZ)
- - 🚯 [Nobel Prize incoming...](http://9gag.com/gag/awz6bOW)<!-- MEMES:END -->
+ - 🚖 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
+ - 🚯 [Got betrayed](http://9gag.com/gag/a71zK12)
+ - 🚯 [Damn dude, leave some girls for the rest of us.](http://9gag.com/gag/aAGoVng)<!-- MEMES:END -->
 
 --- 
 
