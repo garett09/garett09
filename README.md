@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn dude, leave some girls for the rest of us.](http://9gag.com/gag/aAGoVng)
+ - 🚖 [One with the stars](http://9gag.com/gag/avA3LLW)
  - 🚯 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
  - 🚯 [We&#39;ve come so far](http://9gag.com/gag/ay9O0zY)<!-- MEMES:END -->
 
