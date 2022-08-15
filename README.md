@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus’ next fighters, Black Adam and Stripe, revealed](https://www.polygon.com/23303139/multiversus-season-1-characters-black-adam-stripe-gremlins)
- - [Story details you need to know before playing God of War Ragnarök](https://blog.playstation.com/2022/08/15/story-details-you-need-to-know-before-playing-god-of-war-ragnarok/)
- - [Story details you need to know before playing God of War Ragnarök](https://blog.playstation.com/2022/08/15/story-details-you-need-to-know-before-playing-god-of-war-ragnarok/)<!-- GAME:END -->
+ - [Unity rejects proposed takeover by AppLovin](https://www.pcgamer.com/unity-rejects-proposed-takeover-by-applovin)
+ - [MultiVersus adds new characters, balance improvements in season 1 patch notes](https://www.polygon.com/23306239/multiversus-season-1-patch-notes-balance-characters-morty-rick-black-adam-stripe)
+ - [John Wick director wants to make his Ghost of Tsushima movie in Japanese](https://www.polygon.com/23306212/sony-ghost-of-tsushima-movie-japanese-cast-chad-stahelski)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
