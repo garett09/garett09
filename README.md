@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-week/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Netflix You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)
- - [The Best Netflix Documentaries You Should Absolutely Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-should-absolutely-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ahead of US midterms, a look at TikTok&#39;s struggles to keep misinformation off of its platform during foreign elections, like in Australia and France this year &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/220814/p11#a220814p11)
+ - [&#39;House of the Dragon&#39; Release Date: When You Can Watch in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-release-date-when-you-can-watch-in-your-time-zone/#ftag=CAD590a51e)
+ - [This Segway Ninebot Max Might Just Be the Best Electric Scooter Deal Right now     - CNET](https://www.cnet.com/roadshow/news/this-segway-ninebot-max-might-just-be-the-best-electric-scooter-deal-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
