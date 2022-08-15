@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn!!!](http://9gag.com/gag/aNP6nMr)
- - 🚯 [Weird to begin with](http://9gag.com/gag/aE8L759)
- - 🚯 [Always the overweight ugly ones...](http://9gag.com/gag/a31VB1N)<!-- MEMES:END -->
+ - 🚖 [Weird to begin with](http://9gag.com/gag/aE8L759)
+ - 🚯 [Sleep is for the Weak....](http://9gag.com/gag/ajgoA5Q)
+ - 🚯 [Damn!!!](http://9gag.com/gag/aNP6nMr)<!-- MEMES:END -->
 
 --- 
 
