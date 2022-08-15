@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Apple Watch Saved My Life -- and Could Rescue You     - CNET](https://www.cnet.com/health/medical/the-apple-watch-has-life-saving-features/#ftag=CAD590a51e)
- - [How To Factory Reset a Nintendo Switch Before Selling or Regifting It     - CNET](https://www.cnet.com/tech/gaming/how-to-factory-reset-a-nintendo-switch-before-selling-or-regifting-it/#ftag=CAD590a51e)
- - [Here’s Where to Get Discounts With a Student Email Address](https://www.wired.com/story/best-student-discounts/)<!-- TECH:END -->
+ - [a16z invests in Adam Neumann&#39;s residential real estate management startup Flow, sources say ~$350M at a $1B+ valuation, the firm&#39;s largest-ever individual check &lpar;New York Times&rpar;](http://www.techmeme.com/220815/p8#a220815p8)
+ - [Daily Deals August 15: Refurbished M1 iMacs, $110 off Apple Watch Series 7, $70 Blue Yeti Nano, more](https://appleinsider.com/articles/22/08/15/daily-deals-august-15-refurbished-m1-imacs-110-off-apple-watch-series-7-70-blue-yeti-nano-more?utm_medium=rss)
+ - [TikTok now offers a very basic text-to-image AI generator directly in the app](https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
