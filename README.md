@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 422 answer and hint: Monday, August 15](https://www.pcgamer.com/todays-wordle-422-answer-hint)
  - [Spider-Man mods are here, you can already play as Black Cat or Stan Lee and wear the symbiote suit](https://www.pcgamer.com/spider-man-mods-are-here-you-can-already-play-as-black-cat-or-stan-lee-and-wear-the-symbiote-suit)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Great moments in PC gaming: Grabbing that first Draft win in Magic Arena](https://www.pcgamer.com/great-moments-in-pc-gaming-grabbing-that-first-draft-win-in-magic-arena)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
