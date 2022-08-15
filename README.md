@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lays](http://9gag.com/gag/a41DYq1)
- - 🚯 [The Snake in its ultimate form](http://9gag.com/gag/avA3PWE)
+ - 🚖 [Damn!!!](http://9gag.com/gag/aNP6nMr)
+ - 🚯 [Weird to begin with](http://9gag.com/gag/aE8L759)
  - 🚯 [Always the overweight ugly ones...](http://9gag.com/gag/a31VB1N)<!-- MEMES:END -->
 
 --- 
