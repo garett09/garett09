@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird to begin with](http://9gag.com/gag/aE8L759)
- - 🚯 [Sleep is for the Weak....](http://9gag.com/gag/ajgoA5Q)
+ - 🚖 [It\u2019s now illegal to park there](http://9gag.com/gag/a11GX7P)
+ - 🚯 [Weird to begin with](http://9gag.com/gag/aE8L759)
  - 🚯 [Damn!!!](http://9gag.com/gag/aNP6nMr)<!-- MEMES:END -->
 
 --- 
