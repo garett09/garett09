@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
- - 🚯 [Got betrayed](http://9gag.com/gag/a71zK12)
- - 🚯 [Damn dude, leave some girls for the rest of us.](http://9gag.com/gag/aAGoVng)<!-- MEMES:END -->
+ - 🚖 [Damn dude, leave some girls for the rest of us.](http://9gag.com/gag/aAGoVng)
+ - 🚯 [Bobby is a true artist](http://9gag.com/gag/aLvyB6P)
+ - 🚯 [We&#39;ve come so far](http://9gag.com/gag/ay9O0zY)<!-- MEMES:END -->
 
 --- 
 
