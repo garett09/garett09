@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2022 back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)
- - [You can’t revert from Android 13 to Android 12 on Pixel 6 devices](https://www.theverge.com/2022/8/15/23306798/android-13-roll-back-android-12-pixel-6-tensor-bootloader)
- - [Walmart Plus subscribers are about to get a lot of streaming content for free](https://www.theverge.com/2022/8/15/23307055/walmart-plus-subscribers-free-streaming-content-paramount-plus-amazon-prime)<!-- TECH:END -->
+ - [A judge orders Twitter to give Elon Musk documents from a former Twitter executive Musk said was a key witness but denies Musk&#39;s similar request for 21 others &lpar;Bloomberg&rpar;](http://www.techmeme.com/220815/p21#a220815p21)
+ - [Apple employees will return to the office in September under hybrid model](https://www.theverge.com/2022/8/15/23307268/apple-hybrid-working-model-return-to-office-september)
+ - [Windows 10 and Chrome are about to make switching default browsers even less painful](https://www.theverge.com/2022/8/15/23307162/windows-11-chrome-default-browser-one-click-22h2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
