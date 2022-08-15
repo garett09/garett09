@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird to begin with](http://9gag.com/gag/aE8L759)
- - 🚯 [USA has BLMs. Europe has these:](http://9gag.com/gag/aggPVV1)
- - 🚯 [Their only problem is deciding what pronouns to use next day](http://9gag.com/gag/aze0j2j)<!-- MEMES:END -->
+ - 🚖 [`Mom was right, i can&#39;t do anything right`](http://9gag.com/gag/a919YK0)
+ - 🚯 [Damn!!!](http://9gag.com/gag/aNP6nMr)
+ - 🚯 [Solid](http://9gag.com/gag/aAGoP20)<!-- MEMES:END -->
 
 --- 
 
