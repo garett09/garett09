@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Lord of the Rings game is in the works from Weta Workshop](https://www.theverge.com/2022/8/15/23306569/lord-of-the-rings-game-weta-workshop-private-division-take-two)
- - [Android 13 arrives for Pixel phones starting today](https://www.theverge.com/2022/8/15/23306058/android-13-release-date-pixel-devices-features)
- - [Xenoblade Chronicles 3 DLC Guide: Expansion Pass Price, New Content and More     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-dlc-guide-expansion-pass-price-new-content-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge approves Apple&#39;s $30M employee bag check lawsuit settlement](https://appleinsider.com/articles/22/08/15/judge-approves-apples-30m-employee-bag-check-lawsuit-settlement?utm_medium=rss)
+ - [Apps don’t make at-home blood pressure monitoring better](https://www.theverge.com/2022/8/15/23306368/home-blood-pressure-apps-cuff)
+ - [John Wick’s prequel is coming to Peacock in 2023](https://www.theverge.com/2022/8/15/23306687/john-wick-prequel-the-continental-peacock-2023-nbc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
