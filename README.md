@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great anime with unnecessary harems](https://game-rant-2022.blogspot.com/2022/08/great-anime-with-unnecessary-harems.html)
- - [Innovative deckbuilder Nadir paints a beautiful portrait of Hell](https://www.pcgamer.com/innovative-deckbuilder-nadir-paints-a-beautiful-portrait-of-hell)
- - [Don&#39;t worry, Steam Deck clones are coming](https://game-rant-2022.blogspot.com/2022/08/dont-worry-steam-deck-clones-are-coming.html)<!-- GAME:END -->
+ - [Half-Life Fans Rally And Set New Player Count Record On Steam](https://kotaku.com/half-life-valve-steam-gordon-freeman-gman-new-record-1849414767)
+ - [Owlboy devs unveil Vikings on Trampolines](https://www.pcgamer.com/owlboy-devs-unveil-vikings-on-trampolines)
+ - [Great anime with unnecessary harems](https://game-rant-2022.blogspot.com/2022/08/great-anime-with-unnecessary-harems.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
