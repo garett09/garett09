@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every &#39;Predator&#39; Movie Ranked: From &#39;Prey&#39; To &#39;Requiem&#39;     - CNET](https://www.cnet.com/culture/entertainment/every-predator-movie-ranked-from-prey-to-requiem/#ftag=CAD590a51e)
- - [A look at the growing bipartisan scrutiny of TikTok in the US; email: House officials told staff they did not recommend using the app, citing security concerns &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/220814/p8#a220814p8)
- - [Sleep Better Tonight With These 6 Natural Insomnia Remedies     - CNET](https://www.cnet.com/health/sleep/sleep-better-tonight-with-these-6-natural-insomnia-remedies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-week/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)
+ - [The Best Netflix Documentaries You Should Absolutely Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-should-absolutely-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
