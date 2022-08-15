@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [JUMANJI: The Curse Returns Review |  GameGrin](https://game-rant-2022.blogspot.com/2022/08/jumanji-curse-returns-review-gamegrin.html)
- - [Westworld Season 4 Finale: Is Anyone Actually Dead?](https://game-rant-2022.blogspot.com/2022/08/westworld-season-4-finale-is-anyone.html)
- - [Best Artifacts in Marvel Future Fight](https://game-rant-2022.blogspot.com/2022/08/best-artifacts-in-marvel-future-fight.html)<!-- GAME:END -->
+ - [Spider-Man mods are here, you can already play as Black Cat or Stan Lee and wear the symbiote suit](https://www.pcgamer.com/spider-man-mods-are-here-you-can-already-play-as-black-cat-or-stan-lee-and-wear-the-symbiote-suit)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Great moments in PC gaming: Grabbing that first Draft win in Magic Arena](https://www.pcgamer.com/great-moments-in-pc-gaming-grabbing-that-first-draft-win-in-magic-arena)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
