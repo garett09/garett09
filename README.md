@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge approves Apple&#39;s $30M employee bag check lawsuit settlement](https://appleinsider.com/articles/22/08/15/judge-approves-apples-30m-employee-bag-check-lawsuit-settlement?utm_medium=rss)
- - [Apps don’t make at-home blood pressure monitoring better](https://www.theverge.com/2022/8/15/23306368/home-blood-pressure-apps-cuff)
- - [John Wick’s prequel is coming to Peacock in 2023](https://www.theverge.com/2022/8/15/23306687/john-wick-prequel-the-continental-peacock-2023-nbc)<!-- TECH:END -->
+ - [4moms Recalls Some MamaRoo Swings, RockaRoo Rockers Over Strangulation Hazard     - CNET](https://www.cnet.com/health/parenting/4moms-recalls-some-mamaroo-swings-rockaroo-rockers-over-strangulation-hazard/#ftag=CAD590a51e)
+ - [Buying a New iPhone Now? You Couldn&#39;t Pick a Worse Time     - CNET](https://www.cnet.com/tech/mobile/buying-a-new-iphone-now-you-couldnt-pick-a-worse-time/#ftag=CAD590a51e)
+ - [Best iPad for 2022     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
