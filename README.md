@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Mom was right, i can&#39;t do anything right`](http://9gag.com/gag/a919YK0)
- - 🚯 [Damn!!!](http://9gag.com/gag/aNP6nMr)
+ - 🚖 [Men will be Men](http://9gag.com/gag/amgEr02)
+ - 🚯 [This is some good news](http://9gag.com/gag/ay9OdgY)
  - 🚯 [Solid](http://9gag.com/gag/aAGoP20)<!-- MEMES:END -->
 
 --- 
