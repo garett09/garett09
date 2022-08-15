@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cosmic horror abounds in Doom 2 mod Divine Frequency](https://www.pcgamer.com/cosmic-horror-abounds-in-doom-2-mod-divine-frequency)
- - [Steam lets you add free stuff easily now and it is absolutely majestic](https://www.pcgamer.com/steam-lets-you-add-free-stuff-easily-now-and-it-is-absolutely-majestic)
- - [Soccer Story is a fantastical RPG about playing that beautiful game](https://www.pcgamer.com/soccer-story-is-a-fantastical-rpg-about-playing-that-beautiful-game)<!-- GAME:END -->
+ - [Keep The Unreal Engine 5 Showcases Coming, Please](https://kotaku.com/unreal-engine-5-showcase-video-airborn-studios-1849411183)
+ - [Alone In The Dark Is Back For ANOTHER Reboot](https://kotaku.com/alone-in-the-dark-reboot-thq-nordic-remake-1849411114)
+ - [Cosmic horror abounds in Doom 2 mod Divine Frequency](https://www.pcgamer.com/cosmic-horror-abounds-in-doom-2-mod-divine-frequency)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
