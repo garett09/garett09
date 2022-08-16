@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s Tmall reintroduces H&amp;M products, after a boycott started in March 2021 over Xinjiang comments; H&amp;M stores don&#39;t yet appear on Apple Maps or Baidu Maps &lpar;Daniela Wei/Bloomberg&rpar;](http://www.techmeme.com/220816/p17#a220816p17)
- - [Das Keyboard MacTigr Review: Mac minimalism in mechanical keyboard form](https://appleinsider.com/articles/22/08/16/das-keyboard-mactigr-review-mac-minimalism-in-mechanical-keyboard-form?utm_medium=rss)
- - [The apps and services you need to dominate in fantasy football](https://www.theverge.com/2022/8/16/23306667/best-fantasy-football-apps-websites)<!-- TECH:END -->
+ - [TwelveSouth&#39;s Curve Flex stand raises your MacBook Pro to eye-level](https://appleinsider.com/articles/22/08/16/twelvesouths-curve-flex-stand-raises-your-macbook-pro-to-eye-level?utm_medium=rss)
+ - [Google’s New Robot Learned to Take Orders by Scraping the Web](https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/)
+ - [Google adds AI language skills to its helper robots to better understand humans](https://www.theverge.com/2022/8/16/23307730/google-everyday-robots-project-ai-language-skills-palm-saycan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
