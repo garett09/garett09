@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds 2 Pro Review: Improved Design Pays Dividends     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-2-pro-review/#ftag=CAD590a51e)
- - [Apple’s new M2-powered MacBook Air is on sale for the first time today](https://www.theverge.com/good-deals/2022/8/16/23306352/apple-m2-macbook-air-amazon-kindle-echo-show-robot-vacuum-deal-sale)
- - [How Selena Gomez’s Rare Beauty goes viral, with CMO Katie Welch](https://www.theverge.com/23307449/selena-gomez-rare-beauty-marketing-katie-welch)<!-- TECH:END -->
+ - [Yes — monitors can in fact get weirder](https://www.theverge.com/2022/8/16/23308009/geminos-folding-monitor-kickstarter-mobile-pixels)
+ - [Best Back-to-School Student Internet Deals and Discounts     - CNET](https://www.cnet.com/deals/student-internet-deals-and-discounts/#ftag=CAD590a51e)
+ - [My Favorite Quest 2 Head Strap is Just $15 Right Now     - CNET](https://www.cnet.com/deals/my-favorite-quest-2-head-strap-is-just-15-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
