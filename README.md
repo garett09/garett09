@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goku is flying into Fortnite in an epic Dragon Ball event](https://www.theverge.com/2022/8/16/23307300/fortnite-dragon-ball-event-island-collaboration-crossover-goku-vegeta)
- - [Weird Pixel update issue gives users Android 12 instead of Android 13](https://www.androidauthority.com/pixel-android-13-update-issue-3196963/)
- - [Filing: Amazon accuses the FTC of harassing its top executives, including Jeff Bezos and Andy Jassy, as part of its investigation into Prime membership &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220816/p3#a220816p3)<!-- TECH:END -->
+ - [Signal says attackers accessed the phone numbers and SMS verification codes for around 1,900 users as part of the recent Twilio breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220816/p5#a220816p5)
+ - [Sources: Tencent plans to sell all or a bulk of its 17% stake in Chinese food delivery company Meituan, worth ~$24B, to placate regulators and realize its gains &lpar;Reuters&rpar;](http://www.techmeme.com/220816/p4#a220816p4)
+ - [Samsung silently splits Galaxy Z Flip 3 trade-in value for Flip 4 buyers](https://www.androidauthority.com/galaxy-z-flip-4-trade-in-3196996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
