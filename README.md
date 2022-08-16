@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Curious Afterlife of a Brain Trauma Survivor](https://www.wired.com/story/the-curious-afterlife-of-a-brain-trauma-survivor/)
- - [Microsoft Dev Box now ready for developers to try cloud-powered workstations](https://www.theverge.com/2022/8/16/23307742/microsoft-dev-box-preview-cloud-workstations)
- - [Hyper’s 245W charger and battery pack now available to all](https://www.theverge.com/2022/8/16/23307739/hyper-hyperjuice-245w-gan-desktop-charger-usb-c-battery-pack)<!-- TECH:END -->
+ - [Arc, which offers debt funding and digital banking services to SaaS startups, raised a $20M Series A, after raising an $11M seed and $150M debt in January 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220816/p11#a220816p11)
+ - [Polestar 6 Electric Roadster Slated for 2026 Production, Based on the O2 Concept     - CNET](https://www.cnet.com/roadshow/news/polestar-6-electric-convertible-2026-production/#ftag=CAD590a51e)
+ - [Doctors Are Pioneering a Better Way to Perform Autopsies on Kids](https://www.wired.com/story/better-way-to-autopsy-kids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
