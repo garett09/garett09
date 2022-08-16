@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Nothing last forever, even love](http://9gag.com/gag/a81BGp3)
- - 🚯 [US insurance company InsurAAAnce invited Rick Astley to advertise, and re-recorded `Never Gonna Give You Up`.](http://9gag.com/gag/aM43ZPM)
+ - 🚯 [Insane Brazilian Police Motorcycle chase](http://9gag.com/gag/a21nWo1)
  - 🚯 [Mine is spinosaurus. Not that you even care.](http://9gag.com/gag/a11GRWD)<!-- MEMES:END -->
 
 --- 
