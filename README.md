@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals August 16: $300 off 16-inch MacBook Pro, $50 off 11-inch iPad Pro, WD storage discounts, more](https://appleinsider.com/articles/22/08/16/daily-deals-august-16-300-off-16-inch-macbook-pro-50-off-11-inch-ipad-pro-wd-storage-discounts-more?utm_medium=rss)
- - [Xiaomi’s CyberOne robot shows us what to expect from Tesla’s promised Optimus bot](https://www.theverge.com/2022/8/16/23307808/xiaomi-cyberone-humanoid-robot-tesla-optimus-bot-specs-comparison)
- - [As Wildfires Get More Extreme, Observatories Are at Greater Risk](https://www.wired.com/story/as-wildfires-get-more-extreme-observatories-are-at-greater-risk/)<!-- TECH:END -->
+ - [Alibaba&#39;s Tmall reintroduces H&amp;M products, after a boycott started in March 2021 over Xinjiang comments; H&amp;M stores don&#39;t yet appear on Apple Maps or Baidu Maps &lpar;Daniela Wei/Bloomberg&rpar;](http://www.techmeme.com/220816/p17#a220816p17)
+ - [Das Keyboard MacTigr Review: Mac minimalism in mechanical keyboard form](https://appleinsider.com/articles/22/08/16/das-keyboard-mactigr-review-mac-minimalism-in-mechanical-keyboard-form?utm_medium=rss)
+ - [The apps and services you need to dominate in fantasy football](https://www.theverge.com/2022/8/16/23306667/best-fantasy-football-apps-websites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
