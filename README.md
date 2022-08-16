@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roadwarden feels just like cracking open a huge fantasy novel](https://www.pcgamer.com/roadwarden-feels-just-like-cracking-open-a-huge-fantasy-novel)
- - [She Convinced Men On Tinder To Buy Nier: Automata And Then Ghosted Them, She Says](https://kotaku.com/she-convinced-men-on-tinder-to-buy-nier-automata-and-t-1849419343)
- - [Overwatch account merging goes live to prep for Overwatch 2 cross-progression](https://www.polygon.com/23308428/overwatch-2-cross-progression-account-merge-cosmetics)<!-- GAME:END -->
+ - [Call of Duty accused of swiping another skin, this time from a former employee](https://www.polygon.com/23308630/call-of-duty-skin-malware-tracer-pack)
+ - [Your Power is Unleashed! Goku Powers Up Fortnite x Dragon Ball](https://news.xbox.com/en-us/2022/08/16/goku-powers-fortnite-x-dragon-ball/)
+ - [Activision accused of ripping off Dr Disrespect&#39;s game for a $20 Call of Duty skin](https://www.pcgamer.com/activision-accused-of-ripping-off-dr-disrespects-game-for-a-dollar20-call-of-duty-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
