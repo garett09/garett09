@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [RKO outta nowhere](http://9gag.com/gag/abg9YXp)
- - 🚯 [The level of Honesty](http://9gag.com/gag/aKmrjvb)
- - 🚯 [I&#39;ll keep that in mind](http://9gag.com/gag/aAGo3Do)<!-- MEMES:END -->
+ - 🚯 [It\u2019s always fun to travel, explore and get new experience\u2019s but please don\u2019t get too gullible and trusting in others because they will take advantage of you.](http://9gag.com/gag/amgE7Wj)
+ - 🚯 [IT stuff](http://9gag.com/gag/a0Z2Q3q)<!-- MEMES:END -->
 
 --- 
 
