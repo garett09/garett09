@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2022 Doodle for Google Winner Cares for Herself by Not Going It Alone     - CNET](https://www.cnet.com/culture/internet/2022-doodle-for-google-winner-cares-for-herself-by-not-going-it-alone/#ftag=CAD590a51e)
  - [Sources: Apple has laid off about 100 recruiter contractors in a rare move in the past week as part of a push to rein in hiring and spending &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220815/p26#a220815p26)
- - [B&amp;H launches back-to-school Apple sale, with discounts up to $300 off](https://appleinsider.com/articles/22/08/15/bh-launches-back-to-school-apple-sale-with-discounts-up-to-300-off?utm_medium=rss)
- - [Idaho-based Kochava sues the FTC, claiming the agency is threatening to sue it for marketing geolocation data that might be used to track abortion clinic visits &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/220815/p25#a220815p25)<!-- TECH:END -->
+ - [B&amp;H launches back-to-school Apple sale, with discounts up to $300 off](https://appleinsider.com/articles/22/08/15/bh-launches-back-to-school-apple-sale-with-discounts-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
