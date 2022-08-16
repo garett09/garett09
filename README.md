@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian tourism in action. Zemfira Suleymanova &lpar;25 yo&rpar;, the Russian propagandist from RT [Russia Today] TV channel, died as a result of an anti-personnel mine explosion in Donetsk.](http://9gag.com/gag/apgWmZW)
- - 🚯 [Family](http://9gag.com/gag/aPZKYdq)
- - 🚯 [IT stuff](http://9gag.com/gag/a0Z2Q3q)<!-- MEMES:END -->
+ - 🚖 [BANG BANG!!!](http://9gag.com/gag/a81B5XO)
+ - 🚯 [IT stuff](http://9gag.com/gag/a0Z2Q3q)
+ - 🚯 [Mine is spinosaurus. Not that you even care.](http://9gag.com/gag/a11GRWD)<!-- MEMES:END -->
 
 --- 
 
