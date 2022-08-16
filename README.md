@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch Joy-Con controllers are $25 off for today only at Adorama](https://www.theverge.com/good-deals/2022/8/16/23308249/nintendo-switch-joy-con-controllers-neon-red-blue-dotd-deal-sale)
- - [Get lifetime access to Microsoft Office for Mac Home &amp; Business 2021 for just $54.99](https://appleinsider.com/articles/22/08/16/get-lifetime-access-to-microsoft-office-for-mac-home-business-2021-for-just-5499?utm_medium=rss)
- - [Analysis: of the US exports to China that required a license in 2020, the Commerce Department approved 94%, or 2,652, applications for tech exports &lpar;Kate O&#39;Keeffe/Wall Street Journal&rpar;](http://www.techmeme.com/220816/p21#a220816p21)<!-- TECH:END -->
+ - [The line between headphones and hearing aids is about to get way blurrier](https://www.theverge.com/2022/8/16/23307974/hearing-aids-over-counter-fda-apple-bose)
+ - [Fortnite’s Dragon Ball event lets me live out my dreams of being a Super Saiyan](https://www.theverge.com/2022/8/16/23308205/fortnite-dragon-ball-event-super-saiyan-goku)
+ - [AMD is holding a launch event for its Ryzen 7000 CPUs this month](https://www.theverge.com/2022/8/16/23308320/amd-ryzen-7000-zen-4-livestream-august)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
