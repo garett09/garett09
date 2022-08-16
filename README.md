@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US insurance company InsurAAAnce invited Rick Astley to advertise, and re-recorded `Never Gonna Give You Up`.](http://9gag.com/gag/aM43ZPM)
+ - 🚖 [RKO outta nowhere](http://9gag.com/gag/abg9YXp)
  - 🚯 [The level of Honesty](http://9gag.com/gag/aKmrjvb)
- - 🚯 [Not in my house!](http://9gag.com/gag/a21no5E)<!-- MEMES:END -->
+ - 🚯 [I&#39;ll keep that in mind](http://9gag.com/gag/aAGo3Do)<!-- MEMES:END -->
 
 --- 
 
