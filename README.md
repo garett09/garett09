@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Saints Row Is Showing Off More Of Its Silly Side](https://kotaku.com/saints-row-volition-reboot-story-trailer-3rd-street-1849419045)
- - [Sony may be working on its own PC game launcher](https://www.pcgamer.com/sony-may-be-working-on-its-own-pc-game-launcher)
- - [NFL legend Jerry Rice just found out just how good he was in Tecmo Bowl](https://www.polygon.com/23308299/nfl-blitz-legends-jerry-rice-tecmo-bowl-bo-jackson)<!-- GAME:END -->
+ - [Roadwarden feels just like cracking open a huge fantasy novel](https://www.pcgamer.com/roadwarden-feels-just-like-cracking-open-a-huge-fantasy-novel)
+ - [She Convinced Men On Tinder To Buy Nier: Automata And Then Ghosted Them, She Says](https://kotaku.com/she-convinced-men-on-tinder-to-buy-nier-automata-and-t-1849419343)
+ - [Overwatch account merging goes live to prep for Overwatch 2 cross-progression](https://www.polygon.com/23308428/overwatch-2-cross-progression-account-merge-cosmetics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
