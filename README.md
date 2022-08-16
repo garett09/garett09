@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arc, which offers debt funding and digital banking services to SaaS startups, raised a $20M Series A, after raising an $11M seed and $150M debt in January 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220816/p11#a220816p11)
- - [Polestar 6 Electric Roadster Slated for 2026 Production, Based on the O2 Concept     - CNET](https://www.cnet.com/roadshow/news/polestar-6-electric-convertible-2026-production/#ftag=CAD590a51e)
- - [Doctors Are Pioneering a Better Way to Perform Autopsies on Kids](https://www.wired.com/story/better-way-to-autopsy-kids/)<!-- TECH:END -->
+ - [Daily Deals August 16: $300 off 16-inch MacBook Pro, $50 off 11-inch iPad Pro, WD storage discounts, more](https://appleinsider.com/articles/22/08/16/daily-deals-august-16-300-off-16-inch-macbook-pro-50-off-11-inch-ipad-pro-wd-storage-discounts-more?utm_medium=rss)
+ - [Xiaomi’s CyberOne robot shows us what to expect from Tesla’s promised Optimus bot](https://www.theverge.com/2022/8/16/23307808/xiaomi-cyberone-humanoid-robot-tesla-optimus-bot-specs-comparison)
+ - [As Wildfires Get More Extreme, Observatories Are at Greater Risk](https://www.wired.com/story/as-wildfires-get-more-extreme-observatories-are-at-greater-risk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
