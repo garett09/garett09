@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jet ski racing classic Wave Race 64 splashing onto Nintendo Switch Online](https://www.polygon.com/23307950/wave-race-64-nintendo-switch-online-expansion-pack)
- - [Upcoming AI image generator will run on an RTX 3080](https://www.pcgamer.com/ai-image-generator-stability-ai-stable-diffusion)
- - [Intel taps Microsoft to take care of older DX9 game support with its Arc GPUs](https://www.pcgamer.com/intel-taps-microsoft-to-take-care-of-older-dx9-game-support-with-its-arc-gpus)<!-- GAME:END -->
+ - [Hacker jailbreaks control unit that stops farmers repairing their tractors, then runs Doom on it](https://www.pcgamer.com/hacker-jailbreaks-control-unit-that-stops-farmers-repairing-their-tractors-then-runs-doom-on-it)
+ - [8 Books That’ll Challenge, Deepen, And Change Everything You Know About Video Games](https://kotaku.com/best-video-game-books-summer-reading-doom-okami-1849414579)
+ - [Another MultiVersus leak says Beetlejuice and the Wicked Witch are on the way](https://www.polygon.com/23308015/multiversus-beetlejuice-wicked-witch-leaked-roster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
