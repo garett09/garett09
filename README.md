@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ shares first trailer for Sidney Poitier documentary](https://appleinsider.com/articles/22/08/16/apple-tv-shares-first-trailer-for-sidney-poitier-documentary?utm_medium=rss)
- - [The new USB Rubber Ducky is more dangerous than ever](https://www.theverge.com/23308394/usb-rubber-ducky-review-hack5-defcon-duckyscript)
- - [Celebrate National Parks with Apple&#39;s latest Activity Challenge on August 27](https://appleinsider.com/articles/22/08/16/celebrate-national-parks-with-apples-latest-activity-challenge-on-august-27?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: Sam&#39;s Club membership on sale for $14.99, plus free $10 gift card](https://appleinsider.com/articles/22/08/03/deals-sams-club-membership-on-sale-for-1499-plus-free-10-gift-card?utm_medium=rss)
+ - [How the Huge New US Climate Bill Will Save You Money](https://www.wired.com/story/how-inflation-reduction-act-climate-bill-save-you-money/)
+ - [Another sign of post-pandemic podcast fatigue](https://www.theverge.com/2022/8/16/23308570/podcast-latinos-libsyn-edison-spotify-shakira)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
