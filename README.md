@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal says attackers accessed the phone numbers and SMS verification codes for around 1,900 users as part of the recent Twilio breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220816/p5#a220816p5)
- - [Sources: Tencent plans to sell all or a bulk of its 17% stake in Chinese food delivery company Meituan, worth ~$24B, to placate regulators and realize its gains &lpar;Reuters&rpar;](http://www.techmeme.com/220816/p4#a220816p4)
- - [Samsung silently splits Galaxy Z Flip 3 trade-in value for Flip 4 buyers](https://www.androidauthority.com/galaxy-z-flip-4-trade-in-3196996/)<!-- TECH:END -->
+ - [The Curious Afterlife of a Brain Trauma Survivor](https://www.wired.com/story/the-curious-afterlife-of-a-brain-trauma-survivor/)
+ - [Microsoft Dev Box now ready for developers to try cloud-powered workstations](https://www.theverge.com/2022/8/16/23307742/microsoft-dev-box-preview-cloud-workstations)
+ - [Hyper’s 245W charger and battery pack now available to all](https://www.theverge.com/2022/8/16/23307739/hyper-hyperjuice-245w-gan-desktop-charger-usb-c-battery-pack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
