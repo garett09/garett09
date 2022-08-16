@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Antenna: 19% of US streaming users canceled 3+ subscriptions from June 2020-June 2022; average monthly customer defections were 5.46% in July, up from 4.46% YoY &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/220816/p1#a220816p1)
- - [2022 Doodle for Google Winner Cares for Herself by Not Going It Alone     - CNET](https://www.cnet.com/culture/internet/2022-doodle-for-google-winner-cares-for-herself-by-not-going-it-alone/#ftag=CAD590a51e)
- - [Sources: Apple has laid off about 100 recruiter contractors in a rare move in the past week as part of a push to rein in hiring and spending &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220815/p26#a220815p26)<!-- TECH:END -->
+ - [More People Should Watch the 2nd Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-2nd-best-show-on-netflix/#ftag=CAD590a51e)
+ - [Doodle for Google Winner Cares for Herself by Not Going It Alone     - CNET](https://www.cnet.com/culture/internet/doodle-for-google-winner-cares-for-herself-by-not-going-it-alone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
