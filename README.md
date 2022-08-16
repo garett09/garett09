@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Goldie](http://9gag.com/gag/aegveWB)
- - 🚯 [Sorry for the tweet, I know it goes against the rules.](http://9gag.com/gag/a11GobR)
- - 🚯 [Can you keep your head down for 5 freaking seconds?](http://9gag.com/gag/aWgwqEq)<!-- MEMES:END -->
+ - 🚖 [Emotional damage](http://9gag.com/gag/aGzWjy6)
+ - 🚯 [Dutch woman in Japan](http://9gag.com/gag/aZrGmoW)
+ - 🚯 [3 minutes of history according to Muricans](http://9gag.com/gag/aDDEzPN)<!-- MEMES:END -->
 
 --- 
 
