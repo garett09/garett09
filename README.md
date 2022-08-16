@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/avA3GPX)
- - 🚯 [Learn something new every day](http://9gag.com/gag/aZrGg5X)
- - 🚯 [RIP Goldie](http://9gag.com/gag/aegveWB)<!-- MEMES:END -->
+ - 🚖 [RIP Goldie](http://9gag.com/gag/aegveWB)
+ - 🚯 [Sorry for the tweet, I know it goes against the rules.](http://9gag.com/gag/a11GobR)
+ - 🚯 [Can you keep your head down for 5 freaking seconds?](http://9gag.com/gag/aWgwqEq)<!-- MEMES:END -->
 
 --- 
 
