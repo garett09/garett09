@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Elliott Management sold all of its 10M shares in Twitter in Q2 amid Musk&#39;s takeover bid; the hedge fund had no common stock in Twitter as of June 30 &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/220815/p23#a220815p23)
- - [Sources: Apple sets a return-to-office deadline of September 5, for Tuesdays, Thursdays, and a regular third day that will be determined by individual teams &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220815/p22#a220815p22)
- - [Apple ups in-person work to three days a week for corporate employees](https://appleinsider.com/articles/22/08/15/apple-ups-in-person-work-to-three-days-a-week-for-corporate-employees?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple has laid off about 100 recruiter contractors in a rare move in the past week as part of a push to rein in hiring and spending &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220815/p26#a220815p26)
+ - [B&amp;H launches back-to-school Apple sale, with discounts up to $300 off](https://appleinsider.com/articles/22/08/15/bh-launches-back-to-school-apple-sale-with-discounts-up-to-300-off?utm_medium=rss)
+ - [Idaho-based Kochava sues the FTC, claiming the agency is threatening to sue it for marketing geolocation data that might be used to track abortion clinic visits &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/220815/p25#a220815p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
