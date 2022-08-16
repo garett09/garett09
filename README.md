@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Memes are immortals](http://9gag.com/gag/aVxNqNy)
- - 🚯 [IRS be like](http://9gag.com/gag/aQX09WW)
+ - 🚖 [RIP Goldie](http://9gag.com/gag/aegveWB)
+ - 🚯 [Hunger games 1, 2, 3, 4, 5.](http://9gag.com/gag/awz6n8B)
  - 🚯 [I don&#39;t even know why am I still alive.](http://9gag.com/gag/aDDEz7O)<!-- MEMES:END -->
 
 --- 
