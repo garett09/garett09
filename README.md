@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A judge orders Twitter to give Elon Musk documents from a former Twitter executive Musk said was a key witness but denies Musk&#39;s similar request for 21 others &lpar;Bloomberg&rpar;](http://www.techmeme.com/220815/p21#a220815p21)
- - [Apple employees will return to the office in September under hybrid model](https://www.theverge.com/2022/8/15/23307268/apple-hybrid-working-model-return-to-office-september)
- - [Windows 10 and Chrome are about to make switching default browsers even less painful](https://www.theverge.com/2022/8/15/23307162/windows-11-chrome-default-browser-one-click-22h2)<!-- TECH:END -->
+ - [Filing: Elliott Management sold all of its 10M shares in Twitter in Q2 amid Musk&#39;s takeover bid; the hedge fund had no common stock in Twitter as of June 30 &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/220815/p23#a220815p23)
+ - [Sources: Apple sets a return-to-office deadline of September 5, for Tuesdays, Thursdays, and a regular third day that will be determined by individual teams &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220815/p22#a220815p22)
+ - [Apple ups in-person work to three days a week for corporate employees](https://appleinsider.com/articles/22/08/15/apple-ups-in-person-work-to-three-days-a-week-for-corporate-employees?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
