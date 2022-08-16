@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Albedo’s thigh has set the Genshin Impact fandom on fire](https://www.polygon.com/23307997/genshin-impact-albedo-official-art-thigh-thirst)
- - [The campaign pre-order perk for Call of Duty: Modern Warfare 2 is pretty good](https://www.polygon.com/23308316/call-of-duty-modern-warfare-2-preorder-campaign-early-access)
- - [Goku hits the Griddy, changing Fortnite forever](https://www.polygon.com/23308196/fortnite-goku-dragon-ball-super-emote-dance)<!-- GAME:END -->
+ - [The New Saints Row Is Showing Off More Of Its Silly Side](https://kotaku.com/saints-row-volition-reboot-story-trailer-3rd-street-1849419045)
+ - [Sony may be working on its own PC game launcher](https://www.pcgamer.com/sony-may-be-working-on-its-own-pc-game-launcher)
+ - [NFL legend Jerry Rice just found out just how good he was in Tecmo Bowl](https://www.polygon.com/23308299/nfl-blitz-legends-jerry-rice-tecmo-bowl-bo-jackson)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
