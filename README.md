@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Sam&#39;s Club membership on sale for $14.99, plus free $10 gift card](https://appleinsider.com/articles/22/08/03/deals-sams-club-membership-on-sale-for-1499-plus-free-10-gift-card?utm_medium=rss)
- - [How the Huge New US Climate Bill Will Save You Money](https://www.wired.com/story/how-inflation-reduction-act-climate-bill-save-you-money/)
- - [Another sign of post-pandemic podcast fatigue](https://www.theverge.com/2022/8/16/23308570/podcast-latinos-libsyn-edison-spotify-shakira)<!-- TECH:END -->
+ - [Many of Apple&#39;s iCloud services are currently experiencing an outage](https://appleinsider.com/articles/22/08/16/many-of-apples-icloud-services-are-currently-experiencing-an-outage?utm_medium=rss)
+ - [Sources: for years, the SEC and CFTC were hindered by banks&#39; usage of messaging apps like WhatsApp to skirt archiving rules; ~10 banks may be fined ~$2B total &lpar;Bloomberg&rpar;](http://www.techmeme.com/220816/p23#a220816p23)
+ - [Deals: Sam&#39;s Club membership on sale for $14.99, plus free $10 gift card](https://appleinsider.com/articles/22/08/03/deals-sams-club-membership-on-sale-for-1499-plus-free-10-gift-card?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
