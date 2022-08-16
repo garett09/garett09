@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty accused of swiping another skin, this time from a former employee](https://www.polygon.com/23308630/call-of-duty-skin-malware-tracer-pack)
- - [Your Power is Unleashed! Goku Powers Up Fortnite x Dragon Ball](https://news.xbox.com/en-us/2022/08/16/goku-powers-fortnite-x-dragon-ball/)
- - [Activision accused of ripping off Dr Disrespect&#39;s game for a $20 Call of Duty skin](https://www.pcgamer.com/activision-accused-of-ripping-off-dr-disrespects-game-for-a-dollar20-call-of-duty-skin)<!-- GAME:END -->
+ - [All your Overwatch skins and cosmetics carry into Overwatch 2, Blizzard reaffirms](https://www.pcgamer.com/all-your-overwatch-skins-and-cosmetics-carry-into-overwatch-2-blizzard-reaffirms)
+ - [Tower of Fantasy has cut down on server queue times, promises unnamed &#39;punishments&#39; for cheaters](https://www.pcgamer.com/tower-of-fantasy-has-cut-down-on-server-queue-times-promises-unnamed-punishments-for-cheaters)
+ - [Which edition of Madden NFL 23 should you buy?](https://www.polygon.com/deals/23308783/madden-23-all-madden-edition-bonus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
