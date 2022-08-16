@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antenna: 19% of US streaming users canceled 3+ subscriptions from June 2020-June 2022; average monthly customer defections were 5.46% in July, up from 4.46% YoY &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/220816/p1#a220816p1)
- - [More People Should Watch the 2nd Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-2nd-best-show-on-netflix/#ftag=CAD590a51e)
- - [Doodle for Google Winner Cares for Herself by Not Going It Alone     - CNET](https://www.cnet.com/culture/internet/doodle-for-google-winner-cares-for-herself-by-not-going-it-alone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Weird Pixel update issue gives users Android 12 instead of Android 13](https://www.androidauthority.com/pixel-android-13-update-issue-3196963/)
+ - [Amazon has accused the FTC of harassing its top executives, including Jeff Bezos and Andy Jassy, as part of its probe into Prime membership scheme &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220816/p3#a220816p3)
+ - [Experts say the chip market is facing an &quot;inventory correction&quot;, which could be the worst downturn in a decade, as the global economy weakens and demand fades &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/220816/p2#a220816p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
