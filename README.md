@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hacker jailbreaks control unit that stops farmers repairing their tractors, then runs Doom on it](https://www.pcgamer.com/hacker-jailbreaks-control-unit-that-stops-farmers-repairing-their-tractors-then-runs-doom-on-it)
- - [8 Books That’ll Challenge, Deepen, And Change Everything You Know About Video Games](https://kotaku.com/best-video-game-books-summer-reading-doom-okami-1849414579)
- - [Another MultiVersus leak says Beetlejuice and the Wicked Witch are on the way](https://www.polygon.com/23308015/multiversus-beetlejuice-wicked-witch-leaked-roster)<!-- GAME:END -->
+ - [Secret Headquarters directors wanted to make a new type of superhero movie](https://www.polygon.com/23306439/secret-headquarters-directors-ariel-schulman-henry-joost-owen-wilson-marvel)
+ - [Genshin Impact ‘The Final Treasure’ world quest guide](https://www.polygon.com/genshin-impact-guides/23308170/the-final-treasure-world-quest-prerequisites-miitoboru-reward)
+ - [A deeper look at the gameplay and soundtrack of Serial Cleaners](https://blog.playstation.com/2022/08/16/a-deeper-look-at-the-gameplay-and-soundtrack-of-serial-cleaners/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
