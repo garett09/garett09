@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BANG BANG!!!](http://9gag.com/gag/a81B5XO)
- - 🚯 [IT stuff](http://9gag.com/gag/a0Z2Q3q)
- - 🚯 [Mine is spinosaurus. Not that you even care.](http://9gag.com/gag/a11GRWD)<!-- MEMES:END -->
+ - 🚖 [Nothing last forever, even love](http://9gag.com/gag/a81BGp3)
+ - 🚯 [This is my good boy, he is 10 years old and still with me. I just wanted to share a post where my boy is alive and happy rather than the usual rip posts. Hopefully he makes you smile!](http://9gag.com/gag/aBn7m1Q)
+ - 🚯 [US insurance company InsurAAAnce invited Rick Astley to advertise, and re-recorded `Never Gonna Give You Up`.](http://9gag.com/gag/aM43ZPM)<!-- MEMES:END -->
 
 --- 
 
