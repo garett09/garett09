@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional damage](http://9gag.com/gag/aGzWjy6)
- - 🚯 [Dutch woman in Japan](http://9gag.com/gag/aZrGmoW)
- - 🚯 [3 minutes of history according to Muricans](http://9gag.com/gag/aDDEzPN)<!-- MEMES:END -->
+ - 🚖 [Except warcraft 3](http://9gag.com/gag/aze0qKN)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aGzWjy6)
+ - 🚯 [Hide me](http://9gag.com/gag/aPZKj4G)<!-- MEMES:END -->
 
 --- 
 
