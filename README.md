@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many of Apple&#39;s iCloud services are currently experiencing an outage](https://appleinsider.com/articles/22/08/16/many-of-apples-icloud-services-are-currently-experiencing-an-outage?utm_medium=rss)
- - [Sources: for years, the SEC and CFTC were hindered by banks&#39; usage of messaging apps like WhatsApp to skirt archiving rules; ~10 banks may be fined ~$2B total &lpar;Bloomberg&rpar;](http://www.techmeme.com/220816/p23#a220816p23)
- - [Deals: Sam&#39;s Club membership on sale for $14.99, plus free $10 gift card](https://appleinsider.com/articles/22/08/03/deals-sams-club-membership-on-sale-for-1499-plus-free-10-gift-card?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon warehouse workers in Albany have filed to unionize](https://www.theverge.com/2022/8/16/23308851/amazon-warehouse-workers-albany-union-petition-nlrb-alb1)
+ - [Several iCloud services were down for two hours on Tuesday](https://appleinsider.com/articles/22/08/16/many-of-apples-icloud-services-are-currently-experiencing-an-outage?utm_medium=rss)
+ - [Israel-based Pliops, which makes chips for data centers that boost the performance of databases and other apps that run on flash memory, raised a $100M Series D &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220816/p24#a220816p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
