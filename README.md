@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deliveryman decided to just leave everything on the stairs](http://9gag.com/gag/angLyq0)
+ - 🚖 [Why is this so hard???](http://9gag.com/gag/a919W81)
  - 🚯 [The faces of Egyptian kings and queens as created by AI](http://9gag.com/gag/awz65r4)
  - 🚯 [Very easy to use](http://9gag.com/gag/a31V7Qe)<!-- MEMES:END -->
 
