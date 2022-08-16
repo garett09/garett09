@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Digimon Survive lost its way](https://www.polygon.com/reviews/23306551/digimon-survive-review-platforms-visual-novel-ps4-xbox-one-windows-pc-nintendo-switch)
- - [Rollerdrome review](https://www.pcgamer.com/rollerdrome-review)
- - [Weird FIFA Marvel crossover turns footballers into B-list superheroes](https://www.pcgamer.com/weird-fifa-marvel-crossover-turns-footballers-into-b-list-superheroes)<!-- GAME:END -->
+ - [Jet ski racing classic Wave Race 64 splashing onto Nintendo Switch Online](https://www.polygon.com/23307950/wave-race-64-nintendo-switch-online-expansion-pack)
+ - [Upcoming AI image generator will run on an RTX 3080](https://www.pcgamer.com/ai-image-generator-stability-ai-stable-diffusion)
+ - [Intel taps Microsoft to take care of older DX9 game support with its Arc GPUs](https://www.pcgamer.com/intel-taps-microsoft-to-take-care-of-older-dx9-game-support-with-its-arc-gpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
