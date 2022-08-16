@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Headquarters directors wanted to make a new type of superhero movie](https://www.polygon.com/23306439/secret-headquarters-directors-ariel-schulman-henry-joost-owen-wilson-marvel)
- - [Genshin Impact ‘The Final Treasure’ world quest guide](https://www.polygon.com/genshin-impact-guides/23308170/the-final-treasure-world-quest-prerequisites-miitoboru-reward)
- - [A deeper look at the gameplay and soundtrack of Serial Cleaners](https://blog.playstation.com/2022/08/16/a-deeper-look-at-the-gameplay-and-soundtrack-of-serial-cleaners/)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare II Campaign Early Access &amp; MP Beta details](https://blog.playstation.com/2022/08/16/call-of-duty-modern-warfare-ii-campaign-early-access-mp-beta-details/)
+ - [Get Up to One-Week Early Campaign Access for Call of Duty: Modern Warfare II Digital Preorders](https://news.xbox.com/en-us/2022/08/16/get-up-to-one-week-early-campaign-access-for-call-of-duty-modern-warfare-ii-digital-preorders/)
+ - [Everything we know about Genshin Impact&#39;s Tighnari](https://www.pcgamer.com/genshin-impact-tighnari-build-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
