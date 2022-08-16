@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boy George](http://9gag.com/gag/aVxN3g8)
- - 🚯 [We got you, bro](http://9gag.com/gag/adgmKzD)
- - 🚯 [Emotional damage](http://9gag.com/gag/aGzWjy6)<!-- MEMES:END -->
+ - 🚖 [US insurance company InsurAAAnce invited Rick Astley to advertise, and re-recorded `Never Gonna Give You Up`.](http://9gag.com/gag/aM43ZPM)
+ - 🚯 [The level of Honesty](http://9gag.com/gag/aKmrjvb)
+ - 🚯 [Not in my house!](http://9gag.com/gag/a21no5E)<!-- MEMES:END -->
 
 --- 
 
