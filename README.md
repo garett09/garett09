@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RKO outta nowhere](http://9gag.com/gag/abg9YXp)
- - 🚯 [It\u2019s always fun to travel, explore and get new experience\u2019s but please don\u2019t get too gullible and trusting in others because they will take advantage of you.](http://9gag.com/gag/amgE7Wj)
- - 🚯 [IT stuff](http://9gag.com/gag/a0Z2Q3q)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll keep that in mind](http://9gag.com/gag/aAGo3Do)
+ - 🚯 [A Swiss ambassador traveled to Argentina and our local chancellor received him with a Danish flag instead of the Swiss one. My country is a joke.](http://9gag.com/gag/aze09gp)
+ - 🚯 [Family](http://9gag.com/gag/aPZKYdq)<!-- MEMES:END -->
 
 --- 
 
