@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marvel will CGI anything these days](http://9gag.com/gag/aYr2KMx)
+ - 🚖 [Memes are immortals](http://9gag.com/gag/aVxNqNy)
  - 🚯 [IRS be like](http://9gag.com/gag/aQX09WW)
- - 🚯 [Memes are immortals](http://9gag.com/gag/aVxNqNy)<!-- MEMES:END -->
+ - 🚯 [I don&#39;t even know why am I still alive.](http://9gag.com/gag/aDDEz7O)<!-- MEMES:END -->
 
 --- 
 
