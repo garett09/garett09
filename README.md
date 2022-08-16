@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The line between headphones and hearing aids is about to get way blurrier](https://www.theverge.com/2022/8/16/23307974/hearing-aids-over-counter-fda-apple-bose)
- - [Fortnite’s Dragon Ball event lets me live out my dreams of being a Super Saiyan](https://www.theverge.com/2022/8/16/23308205/fortnite-dragon-ball-event-super-saiyan-goku)
- - [AMD is holding a launch event for its Ryzen 7000 CPUs this month](https://www.theverge.com/2022/8/16/23308320/amd-ryzen-7000-zen-4-livestream-august)<!-- TECH:END -->
+ - [Apple TV+ shares first trailer for Sidney Poitier documentary](https://appleinsider.com/articles/22/08/16/apple-tv-shares-first-trailer-for-sidney-poitier-documentary?utm_medium=rss)
+ - [The new USB Rubber Ducky is more dangerous than ever](https://www.theverge.com/23308394/usb-rubber-ducky-review-hack5-defcon-duckyscript)
+ - [Celebrate National Parks with Apple&#39;s latest Activity Challenge on August 27](https://appleinsider.com/articles/22/08/16/celebrate-national-parks-with-apples-latest-activity-challenge-on-august-27?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
