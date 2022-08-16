@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Except warcraft 3](http://9gag.com/gag/aze0qKN)
- - 🚯 [Emotional damage](http://9gag.com/gag/aGzWjy6)
- - 🚯 [Hide me](http://9gag.com/gag/aPZKj4G)<!-- MEMES:END -->
+ - 🚖 [Good boy George](http://9gag.com/gag/aVxN3g8)
+ - 🚯 [Sorry for the tweet, I know it goes against the rules.](http://9gag.com/gag/a11GobR)
+ - 🚯 [Hope everyone has a good week!](http://9gag.com/gag/aKmrj26)<!-- MEMES:END -->
 
 --- 
 
