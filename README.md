@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now hiring!](http://9gag.com/gag/aPZKYww)
- - 🚯 [Never Gonna Give You Up 1987 vs 2022](http://9gag.com/gag/aYr27vv)
- - 🚯 [I&#39;m prepared](http://9gag.com/gag/a81B32O)<!-- MEMES:END -->
+ - 🚖 [Russian tourism in action. Zemfira Suleymanova &lpar;25 yo&rpar;, the Russian propagandist from RT [Russia Today] TV channel, died as a result of an anti-personnel mine explosion in Donetsk.](http://9gag.com/gag/apgWmZW)
+ - 🚯 [Family](http://9gag.com/gag/aPZKYdq)
+ - 🚯 [IT stuff](http://9gag.com/gag/a0Z2Q3q)<!-- MEMES:END -->
 
 --- 
 
