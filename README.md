@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Goku powers up Fortnite x Dragon Ball, live today](https://blog.playstation.com/2022/08/16/goku-powers-up-fortnite-x-dragon-ball-live-today/)
  - [Fortnite’s big Dragon Ball event brings skins, quests, anime episodes, and much more](https://www.polygon.com/fortnite/23307775/fortnite-x-dragon-ball-super-event-trailer-gameplay-details)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 15&rpar;](https://news.xbox.com/en-us/2022/08/15/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-15/)
- - [Five new Steam games you probably missed &lpar;August 15, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-15-2022)<!-- GAME:END -->
+ - [Today&#39;s Wordle 423 answer and hint: Tuesday, August 16](https://www.pcgamer.com/todays-wordle-423-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
