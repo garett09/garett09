@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare II Campaign Early Access &amp; MP Beta details](https://blog.playstation.com/2022/08/16/call-of-duty-modern-warfare-ii-campaign-early-access-mp-beta-details/)
- - [Get Up to One-Week Early Campaign Access for Call of Duty: Modern Warfare II Digital Preorders](https://news.xbox.com/en-us/2022/08/16/get-up-to-one-week-early-campaign-access-for-call-of-duty-modern-warfare-ii-digital-preorders/)
- - [Everything we know about Genshin Impact&#39;s Tighnari](https://www.pcgamer.com/genshin-impact-tighnari-build-banner)<!-- GAME:END -->
+ - [Albedo’s thigh has set the Genshin Impact fandom on fire](https://www.polygon.com/23307997/genshin-impact-albedo-official-art-thigh-thirst)
+ - [The campaign pre-order perk for Call of Duty: Modern Warfare 2 is pretty good](https://www.polygon.com/23308316/call-of-duty-modern-warfare-2-preorder-campaign-early-access)
+ - [Goku hits the Griddy, changing Fortnite forever](https://www.polygon.com/23308196/fortnite-goku-dragon-ball-super-emote-dance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
