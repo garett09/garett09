@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TwelveSouth&#39;s Curve Flex stand raises your MacBook Pro to eye-level](https://appleinsider.com/articles/22/08/16/twelvesouths-curve-flex-stand-raises-your-macbook-pro-to-eye-level?utm_medium=rss)
- - [Google’s New Robot Learned to Take Orders by Scraping the Web](https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/)
- - [Google adds AI language skills to its helper robots to better understand humans](https://www.theverge.com/2022/8/16/23307730/google-everyday-robots-project-ai-language-skills-palm-saycan)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 2 Pro Review: Improved Design Pays Dividends     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-2-pro-review/#ftag=CAD590a51e)
+ - [Apple’s new M2-powered MacBook Air is on sale for the first time today](https://www.theverge.com/good-deals/2022/8/16/23306352/apple-m2-macbook-air-amazon-kindle-echo-show-robot-vacuum-deal-sale)
+ - [How Selena Gomez’s Rare Beauty goes viral, with CMO Katie Welch](https://www.theverge.com/23307449/selena-gomez-rare-beauty-marketing-katie-welch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
