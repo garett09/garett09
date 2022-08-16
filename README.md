@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Good boy George](http://9gag.com/gag/aVxN3g8)
- - 🚯 [Sorry for the tweet, I know it goes against the rules.](http://9gag.com/gag/a11GobR)
- - 🚯 [Hope everyone has a good week!](http://9gag.com/gag/aKmrj26)<!-- MEMES:END -->
+ - 🚯 [We got you, bro](http://9gag.com/gag/adgmKzD)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aGzWjy6)<!-- MEMES:END -->
 
 --- 
 
