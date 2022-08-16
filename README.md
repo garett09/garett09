@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon warehouse workers in Albany have filed to unionize](https://www.theverge.com/2022/8/16/23308851/amazon-warehouse-workers-albany-union-petition-nlrb-alb1)
- - [Several iCloud services were down for two hours on Tuesday](https://appleinsider.com/articles/22/08/16/many-of-apples-icloud-services-are-currently-experiencing-an-outage?utm_medium=rss)
- - [Israel-based Pliops, which makes chips for data centers that boost the performance of databases and other apps that run on flash memory, raised a $100M Series D &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220816/p24#a220816p24)<!-- TECH:END -->
+ - [Apple will start collecting &#39;Netflix tax&#39; in September](https://appleinsider.com/articles/22/08/16/apple-will-start-collecting-netflix-tax-in-september?utm_medium=rss)
+ - [Now WhatsApp has a native app on Windows that works standalone](https://www.theverge.com/2022/8/16/23308672/whatsapp-windows-refresh-linked-devices-desktop-meta)
+ - [Here&#39;s What to Know if You Get Monkeypox     - CNET](https://www.cnet.com/health/medical/heres-what-to-know-if-you-get-monkeypox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
