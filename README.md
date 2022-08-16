@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life Fans Rally And Set New Player Count Record On Steam](https://kotaku.com/half-life-valve-steam-gordon-freeman-gman-new-record-1849414767)
- - [Owlboy devs unveil Vikings on Trampolines](https://www.pcgamer.com/owlboy-devs-unveil-vikings-on-trampolines)
- - [Great anime with unnecessary harems](https://game-rant-2022.blogspot.com/2022/08/great-anime-with-unnecessary-harems.html)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 15, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-15-2022)
+ - [NBA Star Says &#39;80%&#39; Of Players Are Into Anime](https://kotaku.com/anime-dragon-ball-nba-zion-williamson-slam-dunk-naruto-1849415248)
+ - [Fire Breaks Out At Nintendo Headquarters](https://kotaku.com/nintendo-office-headquarters-fire-kyoto-japan-1849415034)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
