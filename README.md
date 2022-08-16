@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite’s big Dragon Ball event brings skins, quests, anime episodes, and much more](https://www.polygon.com/fortnite/23307775/fortnite-x-dragon-ball-super-event-trailer-gameplay-details)
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 15&rpar;](https://news.xbox.com/en-us/2022/08/15/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-15/)
- - [Five new Steam games you probably missed &lpar;August 15, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-15-2022)
- - [NBA Star Says &#39;80%&#39; Of Players Are Into Anime](https://kotaku.com/anime-dragon-ball-nba-zion-williamson-slam-dunk-naruto-1849415248)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 15, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-15-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
