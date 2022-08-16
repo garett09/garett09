@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Goku is flying into Fortnite in an epic Dragon Ball event](https://www.theverge.com/2022/8/16/23307300/fortnite-dragon-ball-event-island-collaboration-crossover-goku-vegeta)
  - [Weird Pixel update issue gives users Android 12 instead of Android 13](https://www.androidauthority.com/pixel-android-13-update-issue-3196963/)
- - [Amazon has accused the FTC of harassing its top executives, including Jeff Bezos and Andy Jassy, as part of its probe into Prime membership scheme &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220816/p3#a220816p3)
- - [Experts say the chip market is facing an &quot;inventory correction&quot;, which could be the worst downturn in a decade, as the global economy weakens and demand fades &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/220816/p2#a220816p2)<!-- TECH:END -->
+ - [Filing: Amazon accuses the FTC of harassing its top executives, including Jeff Bezos and Andy Jassy, as part of its investigation into Prime membership &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220816/p3#a220816p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
