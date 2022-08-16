@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All your Overwatch skins and cosmetics carry into Overwatch 2, Blizzard reaffirms](https://www.pcgamer.com/all-your-overwatch-skins-and-cosmetics-carry-into-overwatch-2-blizzard-reaffirms)
- - [Tower of Fantasy has cut down on server queue times, promises unnamed &#39;punishments&#39; for cheaters](https://www.pcgamer.com/tower-of-fantasy-has-cut-down-on-server-queue-times-promises-unnamed-punishments-for-cheaters)
- - [Which edition of Madden NFL 23 should you buy?](https://www.polygon.com/deals/23308783/madden-23-all-madden-edition-bonus)<!-- GAME:END -->
+ - [The Story Of Nike&#39;s Street Fighter Sneaker And Its Botched Release](https://kotaku.com/nike-air-force-1-fgc-street-fighter-daigo-sneakers-1849415832)
+ - [Call of Duty: Modern Warfare 2 has three release dates now](https://www.pcgamer.com/call-of-duty-modern-warfare-2-has-three-release-dates-now)
+ - [All your Overwatch skins and cosmetics carry into Overwatch 2, Blizzard reaffirms](https://www.pcgamer.com/all-your-overwatch-skins-and-cosmetics-carry-into-overwatch-2-blizzard-reaffirms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
