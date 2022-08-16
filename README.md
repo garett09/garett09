@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll keep that in mind](http://9gag.com/gag/aAGo3Do)
- - 🚯 [A Swiss ambassador traveled to Argentina and our local chancellor received him with a Danish flag instead of the Swiss one. My country is a joke.](http://9gag.com/gag/aze09gp)
- - 🚯 [Family](http://9gag.com/gag/aPZKYdq)<!-- MEMES:END -->
+ - 🚖 [Pick Pocket](http://9gag.com/gag/aDDExzN)
+ - 🚯 [I&#39;ll keep that in mind](http://9gag.com/gag/aAGo3Do)
+ - 🚯 [Russian tourism in action. Zemfira Suleymanova &lpar;25 yo&rpar;, the Russian propagandist from RT [Russia Today] TV channel, died as a result of an anti-personnel mine explosion in Donetsk.](http://9gag.com/gag/apgWmZW)<!-- MEMES:END -->
 
 --- 
 
