@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IRS be like](http://9gag.com/gag/aQX09WW)
- - 🚯 [Proud nauseum](http://9gag.com/gag/apgWrZ8)
+ - 🚖 [Marvel will CGI anything these days](http://9gag.com/gag/aYr2KMx)
+ - 🚯 [IRS be like](http://9gag.com/gag/aQX09WW)
  - 🚯 [Memes are immortals](http://9gag.com/gag/aVxNqNy)<!-- MEMES:END -->
 
 --- 
