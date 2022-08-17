@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will start collecting &#39;Netflix tax&#39; in September](https://appleinsider.com/articles/22/08/16/apple-will-start-collecting-netflix-tax-in-september?utm_medium=rss)
- - [Now WhatsApp has a native app on Windows that works standalone](https://www.theverge.com/2022/8/16/23308672/whatsapp-windows-refresh-linked-devices-desktop-meta)
- - [Here&#39;s What to Know if You Get Monkeypox     - CNET](https://www.cnet.com/health/medical/heres-what-to-know-if-you-get-monkeypox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wordle: Your Best Starter Words, Strategies, Tips and Tricks To Win     - CNET](https://www.cnet.com/culture/wordle-your-best-starter-words-strategies-tips-and-tricks-to-win/#ftag=CAD590a51e)
+ - [AtoB, which offers a payment system specially designed for truckers, raised a $155M Series B led by Elad Gil and General Catalyst, valuing the company at $800M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220816/p26#a220816p26)
+ - [Amazon Labor Union Files for Election at Upstate New York Warehouse     - CNET](https://www.cnet.com/tech/services-and-software/amazon-labor-union-files-for-election-at-upstate-new-york-warehouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
