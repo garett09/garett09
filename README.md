@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too tight or too loose](http://9gag.com/gag/ay9ONy8)
- - 🚯 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)
- - 🚯 [Ice cream and chocolate are NOT your friends](http://9gag.com/gag/a0Z2e3X)<!-- MEMES:END -->
+ - 🚖 [All remember](http://9gag.com/gag/arnjmdV)
+ - 🚯 [Greetings from the Balkan](http://9gag.com/gag/aogby1w)
+ - 🚯 [Too tight or too loose](http://9gag.com/gag/ay9ONy8)<!-- MEMES:END -->
 
 --- 
 
