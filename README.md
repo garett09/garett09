@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo of America Testers Allege Sexual Harassment, Report Says     - CNET](https://www.cnet.com/tech/gaming/nintendo-of-america-testers-allege-sexual-harassment-report-says/#ftag=CAD590a51e)
- - [Reddit announces a developer portal, offering tools and other resources to build third-party extensions and bots, currently in beta &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220817/p26#a220817p26)
- - [Visible Is Updating Its Plans, But Party Pay Is Going Away     - CNET](https://www.cnet.com/tech/mobile/visible-is-updating-its-plans-but-party-pay-is-going-away/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to avoid AirTag batteries dying now that Apple isn&#39;t showing life remaining](https://appleinsider.com/articles/22/08/17/how-to-avoid-airtag-batteries-dying-now-that-apple-isnt-showing-life-remaining?utm_medium=rss)
+ - [Apple aiming for Sept. 7 to unveil iPhone 14, Apple Watch Series 8](https://appleinsider.com/articles/22/08/17/apple-aiming-for-sept-7-to-unveil-iphone-14-apple-watch-series-8?utm_medium=rss)
+ - [Source: Amazon is testing a feature, reportedly called Inspire, in its app that would show users a TikTok-style feed of product photos and videos &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/220817/p29#a220817p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
