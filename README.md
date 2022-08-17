@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s high court says Google is not a publisher, reversing a lower court decision that said Google was liable for a defamatory article in search results &lpar;Australian Associated Press&rpar;](http://www.techmeme.com/220817/p1#a220817p1)
- - [Sources: Apple is in talks with its suppliers to mass produce Apple Watch and MacBooks in Vietnam for the first time &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220816/p30#a220816p30)
- - [Pomelo, an international money transfer service which lets US senders offer credit cards to recipients in the Philippines, emerges from stealth with a $20M seed &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220816/p29#a220816p29)<!-- TECH:END -->
+ - [Did you get Android 12 instead of Android 13? Google says it wasn’t a mistake.](https://www.androidauthority.com/google-pixel-android-12-android-13-statement-3196476/)
+ - [Weird Pixel update issue gives users Android 12 instead of Android 13 &lpar;Updated&rpar;](https://www.androidauthority.com/pixel-android-13-update-issue-3196963/)
+ - [Google says it is using its most powerful large language model PaLM to help robots from Alphabet X spinout Everyday Robots understand complex human commands &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/220817/p2#a220817p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
