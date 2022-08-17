@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old statistics ...](http://9gag.com/gag/aDDEdxB)
- - 🚯 [Insane Brazilian Police Motorcycle chase](http://9gag.com/gag/a21nWo1)
- - 🚯 [Streets of Philadelphia, Kensington Avenue.](http://9gag.com/gag/aOQX0qM)<!-- MEMES:END -->
+ - 🚖 [Agree?](http://9gag.com/gag/aNP6gE4)
+ - 🚯 [Kate Beckinsale nearly 50](http://9gag.com/gag/aDDEgN9)
+ - 🚯 [My cat has passed away today. I will miss him and grieve but I wanted to share a picture of him so other people know that he existed. His name was Sam, my best friend.](http://9gag.com/gag/angL5Vn)<!-- MEMES:END -->
 
 --- 
 
