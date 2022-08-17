@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I haven\u2018t posted for a long time](http://9gag.com/gag/a919q3m)
- - 🚯 [Greetings from the Balkan](http://9gag.com/gag/aogby1w)
+ - 🚖 [This granddaughter and grandfather who have 97 years between them share a moment together.](http://9gag.com/gag/avA3Qb5)
+ - 🚯 [Guys I&#39;m not sure but I think I have a flat tire](http://9gag.com/gag/aYr2VEw)
  - 🚯 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)<!-- MEMES:END -->
 
 --- 
