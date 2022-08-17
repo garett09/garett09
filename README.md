@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s high court says Google is not a publisher, reversing a lower court decision that said Google was liable for a defamatory article in search results &lpar;Australian Associated Press&rpar;](http://www.techmeme.com/220817/p1#a220817p1)
  - [Sources: Apple is in talks with its suppliers to mass produce Apple Watch and MacBooks in Vietnam for the first time &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220816/p30#a220816p30)
- - [Pomelo, an international money transfer service which lets US senders offer credit cards to recipients in the Philippines, emerges from stealth with a $20M seed &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220816/p29#a220816p29)
- - [TrendForce: DRAM bit growth, a key barometer for chip market demand that refers to the amount of memory produced, to rise 8.3% in 2023, the weakest on record &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220816/p28#a220816p28)<!-- TECH:END -->
+ - [Pomelo, an international money transfer service which lets US senders offer credit cards to recipients in the Philippines, emerges from stealth with a $20M seed &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220816/p29#a220816p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
