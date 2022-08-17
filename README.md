@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Xbox Adaptive Controller support is coming to Linux](https://www.pcgamer.com/linux-microsoft-adaptive-controller-support-drivers)
- - [There&#39;s A Huge PlayStation &#39;Games Under $20&#39; Sale Right Now](https://kotaku.com/playstation-store-sale-assassins-creed-call-of-duty-1849422980)
- - [Raiden From Metal Gear Solid Can Now Take Over Your Desktop &lpar;And Your Heart&rpar;](https://kotaku.com/raiden-shimeji-metal-gear-solid-pc-desktop-mascot-mod-1849422750)<!-- GAME:END -->
+ - [Genshin Impact ‘Evermotion Mechanical Painting’ event guide](https://www.polygon.com/genshin-impact-guides/2022/8/15/23306484/evermotion-mechanical-painting-event-solution-gears-1-2-3-4)
+ - [Many existing PCIe 4.0 SSDs should work okay with DirectStorage says Phison](https://www.pcgamer.com/phison-io-plus-technology-directstorage)
+ - [Extraordinary Attorney Woo is autistic representation at its best and its worst](https://www.polygon.com/23308322/extraordinary-attorney-woo-netflix-autistic-representation-episode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
