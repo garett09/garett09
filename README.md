@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$100 off the Samsung Chromebook 4, and more of the best Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [Microsoft is rolling out widget notifications on the Windows 11 taskbar, with live updates from widgets such as weather, finance, sports, and breaking news &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220817/p34#a220817p34)
- - [Cisco beats estimates with Q4 revenue flat YoY at $13.1B, vs. $12.8B est., and a fiscal year 2023 guidance of 4% to 6% revenue growth YoY, vs. 2.3% est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220817/p33#a220817p33)<!-- TECH:END -->
+ - [Adam Neumann&#39;s real estate startup Flow plans to launch a digital wallet for crypto and fiat currencies and may offer a tokenized rewards program &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/220817/p36#a220817p36)
+ - [Collective NFT ownership service Fractional raised a $20M Series A led by Paradigm and is rebranding to Tessera &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/220817/p35#a220817p35)
+ - [Yes, the new electric vehicle tax credits are really confusing, but we can help](https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
