@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019m sorry Ms. Jackson](http://9gag.com/gag/aDDEdvB)
- - 🚯 [Hehe](http://9gag.com/gag/aggPBw6)
- - 🚯 [Female Tourists Harassed in Pakistan](http://9gag.com/gag/axBXM4L)<!-- MEMES:END -->
+ - 🚖 [It&#39;s my birthday, but most importantly, it&#39;s Wednesday my dudes.](http://9gag.com/gag/ajgom81)
+ - 🚯 [Nobody really cares about Predator&#39;s feels.....](http://9gag.com/gag/angLgwB)
+ - 🚯 [Sweet Home Alabama](http://9gag.com/gag/a21n1wY)<!-- MEMES:END -->
 
 --- 
 
