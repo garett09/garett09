@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That awkward moment](http://9gag.com/gag/aLvyvPV)
- - 🚯 [I\u2019m sorry Ms. Jackson](http://9gag.com/gag/aDDEdvB)
- - 🚯 [Hehe](http://9gag.com/gag/aggPBw6)<!-- MEMES:END -->
+ - 🚖 [I\u2019m sorry Ms. Jackson](http://9gag.com/gag/aDDEdvB)
+ - 🚯 [Hehe](http://9gag.com/gag/aggPBw6)
+ - 🚯 [Female Tourists Harassed in Pakistan](http://9gag.com/gag/axBXM4L)<!-- MEMES:END -->
 
 --- 
 
