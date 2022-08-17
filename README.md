@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Agree?](http://9gag.com/gag/aNP6gE4)
- - 🚯 [Kate Beckinsale nearly 50](http://9gag.com/gag/aDDEgN9)
- - 🚯 [My cat has passed away today. I will miss him and grieve but I wanted to share a picture of him so other people know that he existed. His name was Sam, my best friend.](http://9gag.com/gag/angL5Vn)<!-- MEMES:END -->
+ - 🚖 [I\u2019m sorry Ms. Jackson](http://9gag.com/gag/aDDEdvB)
+ - 🚯 [HeroCat Masha](http://9gag.com/gag/adgmV39)
+ - 🚯 [9gag in a nutshell](http://9gag.com/gag/a0Z276v)<!-- MEMES:END -->
 
 --- 
 
