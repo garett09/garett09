@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 424 answer and hint: Wednesday, August 17](https://www.pcgamer.com/todays-wordle-424-answer-hint)
- - [The best Skyrim mods](https://www.pcgamer.com/best-skyrim-mods)
- - [The Art Of Rollerdrome](https://kotaku.com/rollerdrome-concept-art-gallery-roll7-pc-ps5-xbox-1849415661)<!-- GAME:END -->
+ - [Intel&#39;s Arc A380 GPU should go on sale in the US for the first time this month](https://www.pcgamer.com/intels-arc-a380-gpu-should-go-on-sale-in-the-us-for-the-first-time-this-month)
+ - [Wrath of the Lich King Classic&#39;s pre-patch arrives later this month](https://www.pcgamer.com/wrath-of-the-lich-king-classics-pre-patch-arrives-later-this-month)
+ - [Today&#39;s Wordle 424 answer and hint: Wednesday, August 17](https://www.pcgamer.com/todays-wordle-424-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
