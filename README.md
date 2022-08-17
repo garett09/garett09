@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)
- - 🚯 [At least bacon exists.](http://9gag.com/gag/aggPoO1)
- - 🚯 [Repairing my own mistake before backup arrives](http://9gag.com/gag/aZrGrYV)<!-- MEMES:END -->
+ - 🚖 [I haven\u2018t posted for a long time](http://9gag.com/gag/a919q3m)
+ - 🚯 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)
+ - 🚯 [Not easy](http://9gag.com/gag/aGzWE9n)<!-- MEMES:END -->
 
 --- 
 
