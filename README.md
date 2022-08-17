@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ve obliterated my Fortnite foes with Dragon Ball’s Kamehameha and now I can’t go back](https://www.polygon.com/23308603/fortnite-dragon-ball-z-kamehameha-nimbus-cloud-goku)
- - [Discover the Power of the Cosmos in the Latest Paladins Update](https://news.xbox.com/en-us/2022/08/17/discover-the-power-of-the-cosmos-in-the-latest-paladins-update/)
- - [Spider-Man Remastered Modder Banned For Letting Players Remove The Pride Flag](https://kotaku.com/nexus-mods-ban-spiderman-remastered-pride-flag-1849423931)<!-- GAME:END -->
+ - [Final Fantasy Producer Naoki Yoshida Says The Series Is ‘Struggling’](https://kotaku.com/final-fantasy-xiv-ffxiv-ffxvi-naoki-yoshida-yoshi-p-1849424593)
+ - [World of Warcraft: Wrath of the Lich King Classic’s pre-patch events are on the way](https://www.polygon.com/23310013/world-of-warcraft-wrath-of-the-lich-classic-expansion-pre-patch-details)
+ - [Better Call Saul was always more than the sum of its Breaking Bad parts](https://www.polygon.com/23309861/better-call-saul-season-6-series-finale-episode-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
