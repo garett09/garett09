@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 424 answer and hint: Wednesday, August 17](https://www.pcgamer.com/todays-wordle-424-answer-hint)
  - [The best Skyrim mods](https://www.pcgamer.com/best-skyrim-mods)
- - [The Art Of Rollerdrome](https://kotaku.com/rollerdrome-concept-art-gallery-roll7-pc-ps5-xbox-1849415661)
- - [Our Favorite Cosplay From San Diego Comic-Con 2022](https://kotaku.com/comic-con-2022-san-diego-cosplay-best-photos-video-1849421032)<!-- GAME:END -->
+ - [The Art Of Rollerdrome](https://kotaku.com/rollerdrome-concept-art-gallery-roll7-pc-ps5-xbox-1849415661)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
