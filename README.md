@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact ‘Evermotion Mechanical Painting’ event guide](https://www.polygon.com/genshin-impact-guides/2022/8/15/23306484/evermotion-mechanical-painting-event-solution-gears-1-2-3-4)
- - [Many existing PCIe 4.0 SSDs should work okay with DirectStorage says Phison](https://www.pcgamer.com/phison-io-plus-technology-directstorage)
- - [Extraordinary Attorney Woo is autistic representation at its best and its worst](https://www.polygon.com/23308322/extraordinary-attorney-woo-netflix-autistic-representation-episode)<!-- GAME:END -->
+ - [I’ve obliterated my Fortnite foes with Dragon Ball’s Kamehameha and now I can’t go back](https://www.polygon.com/23308603/fortnite-dragon-ball-z-kamehameha-nimbus-cloud-goku)
+ - [Discover the Power of the Cosmos in the Latest Paladins Update](https://news.xbox.com/en-us/2022/08/17/discover-the-power-of-the-cosmos-in-the-latest-paladins-update/)
+ - [Spider-Man Remastered Modder Banned For Letting Players Remove The Pride Flag](https://kotaku.com/nexus-mods-ban-spiderman-remastered-pride-flag-1849423931)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
