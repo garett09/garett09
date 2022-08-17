@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Just Cause Devs Spent Nearly Two Years Working On A Canceled Iron Man Game](https://kotaku.com/just-cause-iron-man-canceled-disney-marvel-minnmax-1849425958)
- - [The Sims 4 cheats: Every cheat code and life hack you need](https://www.pcgamer.com/sims-4-cheats)
- - [&#39;90s strategy king MicroProse is back with a Cold War blend of wargaming and RTS](https://www.pcgamer.com/90s-strategy-king-microprose-is-back-with-a-cold-war-blend-of-wargaming-and-rts)<!-- GAME:END -->
+ - [Mark Zuckerberg spent $10B on the metaverse and all he got was this stupid selfie](https://www.pcgamer.com/mark-zuckerberg-spent-dollar10b-on-the-metaverse-and-all-he-got-was-this-stupid-selfie)
+ - [Fallout TV Show Set Leaks Look Really Authentic, Actually](https://kotaku.com/fallout-tv-show-amazon-bethesda-xbox-76-new-vegas-1849426276)
+ - [Wing Commander IV: Remastered revitalizes a PC gaming classic](https://www.pcgamer.com/wing-commander-iv-remastered-revitalizes-a-pc-gaming-classic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
