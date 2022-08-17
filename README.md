@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you get Android 12 instead of Android 13? Google says it wasn’t a mistake.](https://www.androidauthority.com/google-pixel-android-12-android-13-statement-3196476/)
- - [Weird Pixel update issue gives users Android 12 instead of Android 13 &lpar;Updated&rpar;](https://www.androidauthority.com/pixel-android-13-update-issue-3196963/)
- - [Google says it is using its most powerful large language model PaLM to help robots from Alphabet X spinout Everyday Robots understand complex human commands &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/220817/p2#a220817p2)<!-- TECH:END -->
+ - [Logitech’s Chorus open-back headphones slide onto the Quest 2](https://www.theverge.com/2022/8/17/23308098/logitech-chorus-meta-oculus-quest-2-speakers-headphones-accessory-snap-on)
+ - [Ultimate Ears Wonderboom 3 improves on a good thing](https://www.theverge.com/2022/8/17/23307765/ue-wonderboom-3-ultimate-ears-price-specs-date)
+ - [Report: Alphabet has invested $1.5B in blockchain companies between September 2021 and June 2022, most by any public company, followed by BlackRock&#39;s $1.17B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/220817/p3#a220817p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
