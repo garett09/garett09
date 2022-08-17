@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Producer Naoki Yoshida Says The Series Is ‘Struggling’](https://kotaku.com/final-fantasy-xiv-ffxiv-ffxvi-naoki-yoshida-yoshi-p-1849424593)
- - [World of Warcraft: Wrath of the Lich King Classic’s pre-patch events are on the way](https://www.polygon.com/23310013/world-of-warcraft-wrath-of-the-lich-classic-expansion-pre-patch-details)
- - [Better Call Saul was always more than the sum of its Breaking Bad parts](https://www.polygon.com/23309861/better-call-saul-season-6-series-finale-episode-review)<!-- GAME:END -->
+ - [Luxury dice dominate at Gen Con](https://www.polygon.com/tabletop-games/23308011/luxury-dice-gen-con-2022-dispel-level-up-ow-ow-ow-this-is-worse-than-a-lego-omg)
+ - [Mark Zuckerberg&#39;s Soulless Metaverse Avatar Has Me Worried About Our Digital Future](https://kotaku.com/metaverse-meta-facebook-selfie-vr-zuckerberg-ugly-1849424613)
+ - [Boyfriend Dungeon gets a new dungeon and three new weapons to date](https://www.polygon.com/2022/8/17/23310039/boyfriend-dungeon-secret-weapons-update-leah-dr-holmes-jonah)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
