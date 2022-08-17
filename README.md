@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s my birthday, but most importantly, it&#39;s Wednesday my dudes.](http://9gag.com/gag/ajgom81)
- - 🚯 [Nobody really cares about Predator&#39;s feels.....](http://9gag.com/gag/angLgwB)
- - 🚯 [Sweet Home Alabama](http://9gag.com/gag/a21n1wY)<!-- MEMES:END -->
+ - 🚖 [Fungal Intelligence](http://9gag.com/gag/amgEgMj)
+ - 🚯 [Fast Reflexes](http://9gag.com/gag/a21n1Gd)
+ - 🚯 [Not mine but I remember those times.](http://9gag.com/gag/a11G1NY)<!-- MEMES:END -->
 
 --- 
 
