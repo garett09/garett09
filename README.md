@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite players can&#39;t get enough of DBZ&#39;s absurd finisher](https://www.pcgamer.com/fortnite-players-cant-get-enough-of-dbzs-absurd-finisher)
- - [Before House of the Dragon premieres, catch up on Targaryen history](https://www.polygon.com/23303192/house-of-the-dragon-targaryen-family-tree-explained)
- - [Get a Closer Look at Planet of Lana, Ahead of its gamescom 2022 Debut Next Week](https://news.xbox.com/en-us/2022/08/17/planet-of-lana-game-pass-announce/)<!-- GAME:END -->
+ - [Microsoft Xbox Adaptive Controller support is coming to Linux](https://www.pcgamer.com/linux-microsoft-adaptive-controller-support-drivers)
+ - [There&#39;s A Huge PlayStation &#39;Games Under $20&#39; Sale Right Now](https://kotaku.com/playstation-store-sale-assassins-creed-call-of-duty-1849422980)
+ - [Raiden From Metal Gear Solid Can Now Take Over Your Desktop &lpar;And Your Heart&rpar;](https://kotaku.com/raiden-shimeji-metal-gear-solid-pc-desktop-mascot-mod-1849422750)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
