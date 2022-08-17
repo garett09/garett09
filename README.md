@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ice cream and chocolate are NOT your friends](http://9gag.com/gag/a0Z2e3X)
- - 🚯 [He really pulled a gun out for this?](http://9gag.com/gag/angLO1z)
+ - 🚖 [Lmao](http://9gag.com/gag/a518Vqy)
+ - 🚯 [Even trailer parks are becoming unaffordable as Corporate slumlords buy them up. Fun times ahead](http://9gag.com/gag/arnjWwX)
  - 🚯 [What&#39;s the weirdest dish your parents have made?](http://9gag.com/gag/a81BA1O)<!-- MEMES:END -->
 
 --- 
