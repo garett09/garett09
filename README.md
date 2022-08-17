@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle: Your Best Starter Words, Strategies, Tips and Tricks To Win     - CNET](https://www.cnet.com/culture/wordle-your-best-starter-words-strategies-tips-and-tricks-to-win/#ftag=CAD590a51e)
- - [AtoB, which offers a payment system specially designed for truckers, raised a $155M Series B led by Elad Gil and General Catalyst, valuing the company at $800M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220816/p26#a220816p26)
- - [Amazon Labor Union Files for Election at Upstate New York Warehouse     - CNET](https://www.cnet.com/tech/services-and-software/amazon-labor-union-files-for-election-at-upstate-new-york-warehouse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is in talks with its suppliers to mass produce Apple Watch and MacBooks in Vietnam for the first time &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220816/p30#a220816p30)
+ - [Pomelo, an international money transfer service which lets US senders offer credit cards to recipients in the Philippines, emerges from stealth with a $20M seed &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220816/p29#a220816p29)
+ - [TrendForce: DRAM bit growth, a key barometer for chip market demand that refers to the amount of memory produced, to rise 8.3% in 2023, the weakest on record &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220816/p28#a220816p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
