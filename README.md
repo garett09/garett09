@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kim Kardashian Beats edition sells out in US, most countries](https://appleinsider.com/articles/22/08/17/kim-kardashian-beats-edition-sells-out-in-us-most-countries?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Aug. 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-17-2022-3196745/)
- - [What’s on your desk, Alex Heath?](https://www.theverge.com/23303545/wfh-desk-setup-tech-airpods-thunderbolt)<!-- TECH:END -->
+ - [Nick Clegg says Meta will not move up its January 2023 timeframe for reviewing its decision to suspend Donald Trump, even if he becomes a presidential candidate &lpar;Politico&rpar;](http://www.techmeme.com/220817/p20#a220817p20)
+ - [Beats Fit Pro x Kim Kardashian are in stock at Amazon right now](https://appleinsider.com/articles/22/08/17/beats-fit-pro-x-kim-kardashian-are-in-stock-at-amazon-right-now?utm_medium=rss)
+ - [GarageBand adds new Katy Perry, Seventeen &#39;Remix Sessions&#39;](https://appleinsider.com/articles/22/08/17/garageband-adds-new-katy-perry-seventeen-remix-sessions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
