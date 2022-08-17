@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reveals how Australia&#39;s national swim team relies on iPad, Apple Watch](https://appleinsider.com/articles/22/08/17/apple-reveals-how-australias-national-swim-team-relies-on-ipad-apple-watch?utm_medium=rss)
- - [After booming demand during the pandemic and a rapid inventory build-up in 2022, Intel, Nvidia, SMIC, and TSMC face a sudden downturn, perplexing analysts &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220817/p17#a220817p17)
- - [The Best Laptops and Tablets for College Students](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)<!-- TECH:END -->
+ - [Kim Kardashian Beats edition sells out in US, most countries](https://appleinsider.com/articles/22/08/17/kim-kardashian-beats-edition-sells-out-in-us-most-countries?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Aug. 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-17-2022-3196745/)
+ - [What’s on your desk, Alex Heath?](https://www.theverge.com/23303545/wfh-desk-setup-tech-airpods-thunderbolt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
