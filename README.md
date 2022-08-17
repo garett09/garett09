@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All remember](http://9gag.com/gag/arnjmdV)
- - 🚯 [Greetings from the Balkan](http://9gag.com/gag/aogby1w)
- - 🚯 [Too tight or too loose](http://9gag.com/gag/ay9ONy8)<!-- MEMES:END -->
+ - 🚖 [Cycles be like](http://9gag.com/gag/a21nKxO)
+ - 🚯 [He really pulled a gun out for this?](http://9gag.com/gag/angLO1z)
+ - 🚯 [What&#39;s the weirdest dish your parents have made?](http://9gag.com/gag/a81BA1O)<!-- MEMES:END -->
 
 --- 
 
