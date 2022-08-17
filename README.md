@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Period and pregnancy tracking apps have bad privacy protections, report finds](https://www.theverge.com/2022/8/17/23306570/period-tracking-apps-privacy)
- - [The Pixel 6 Pro gains a long-overdue display feature with new mod](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-mod-3197391/)
- - [Logitech’s Chorus open-back headphones slide onto the Quest 2](https://www.theverge.com/2022/8/17/23308098/logitech-chorus-meta-oculus-quest-2-speakers-headphones-accessory-snap-on)<!-- TECH:END -->
+ - [Tencent misses with Q2 revenue down 3% YoY to ~$19.78B, its first-ever quarterly decline, due to China&#39;s COVID-19 lockdowns and strict gaming regulations &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220817/p5#a220817p5)
+ - [Airbnb introduces &quot;anti-party technology&quot; in the US and Canada to automatically block reservations at a high risk of leading to unauthorized parties &lpar;Jessica Bursztynsky/Fast Company&rpar;](http://www.techmeme.com/220817/p4#a220817p4)
+ - [Best Rural Internet Providers of 2022: Wired and Wireless     - CNET](https://www.cnet.com/news/best-rural-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
