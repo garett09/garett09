@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Musician turns Windows 95 into a chiptune album on an actual Sega Genesis cart](https://www.pcgamer.com/musician-turns-windows-95-into-a-chiptune-album-on-an-actual-sega-genesis-cart)
- - [Polygon’s entire merch store is on sale](https://www.polygon.com/2022/8/17/23309754/polygon-merch-store-on-sale-shirts-pins-stickers)
- - [Luxury dice dominate at Gen Con](https://www.polygon.com/tabletop-games/23308011/luxury-dice-gen-con-2022-dispel-level-up-ow-ow-ow-this-is-worse-than-a-lego-omg)<!-- GAME:END -->
+ - [The Sims 4 cheats: Every cheat code and life hack you need](https://www.pcgamer.com/sims-4-cheats)
+ - [&#39;90s strategy king MicroProse is back with a Cold War blend of wargaming and RTS](https://www.pcgamer.com/90s-strategy-king-microprose-is-back-with-a-cold-war-blend-of-wargaming-and-rts)
+ - [Arc 3.0 comes to Destiny 2 next week, giving Hunters a new Super and Titans a dash](https://www.polygon.com/23308874/destiny-2-arc-3-0-abilities-aspects-fragments-hunter-titan-warlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
