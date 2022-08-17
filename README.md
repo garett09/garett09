@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fungal Intelligence](http://9gag.com/gag/amgEgMj)
- - 🚯 [Not mine but I remember those times.](http://9gag.com/gag/a11G1NY)
- - 🚯 [GTA: Juan Andr\u00e9s](http://9gag.com/gag/avA3AWW)<!-- MEMES:END -->
+ - 🚖 [The Human Spider](http://9gag.com/gag/aqGqGoP)
+ - 🚯 [Fast Reflexes](http://9gag.com/gag/a21n1Gd)
+ - 🚯 [At least bacon exists.](http://9gag.com/gag/aggPoO1)<!-- MEMES:END -->
 
 --- 
 
