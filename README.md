@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to enable end-to-end encryption on Facebook Messenger](https://www.theverge.com/23307995/facebook-messenger-end-to-end-encryption-how-to)
- - [Get three months of Apple TV Plus for free at Best Buy](https://www.theverge.com/good-deals/2022/8/17/23309504/apple-tv-plus-streaming-free-macbook-air-m1-evga-rtx-3070ti-gpu-samsung-neo-g9-monitor-deal-sale)
- - [As part of its ban on political ads, TikTok will remove paid political posts by influencers; election-related posts will be reviewed and could be throttled &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/220817/p22#a220817p22)<!-- TECH:END -->
+ - [Nintendo of America Testers Allege Sexual Harassment, Report Says     - CNET](https://www.cnet.com/tech/gaming/nintendo-of-america-testers-allege-sexual-harassment-report-says/#ftag=CAD590a51e)
+ - [Reddit announces a developer portal, offering tools and other resources to build third-party extensions and bots, currently in beta &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220817/p26#a220817p26)
+ - [Visible Is Updating Its Plans, But Party Pay Is Going Away     - CNET](https://www.cnet.com/tech/mobile/visible-is-updating-its-plans-but-party-pay-is-going-away/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
