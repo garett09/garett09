@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seven years later, Apple was right to kill off the 3.5mm headphone jack](https://appleinsider.com/articles/22/08/17/seven-years-later-apple-was-right-to-kill-off-the-35mm-headphone-jack?utm_medium=rss)
- - [Adidas will now sell you a pair of solar-powered headphones](https://www.theverge.com/2022/8/17/23310136/adidas-solar-powered-headphones-rpt-02-sol-blue-tiger)
- - [Sony has opened another public queue to buy the PlayStation 5](https://www.theverge.com/2022/8/17/23310313/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)<!-- TECH:END -->
+ - [Code in the Netflix app suggests the ad-supported version may have a drawback](https://www.theverge.com/2022/8/17/23310288/netflix-ad-supported-offline-downloads-code)
+ - [China’s heatwave closes factories that supply parts to Tesla, Intel, and Toyota](https://www.theverge.com/2022/8/17/23310205/china-sichuan-heatwave-intel-tesla-apple-foxconn-toyota-electric-cars-catl)
+ - [Samsung Galaxy S23 series: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
