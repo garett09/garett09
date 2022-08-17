@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tests production of Apple Watch, MacBook Pro in Vietnam](https://appleinsider.com/articles/22/08/17/apple-tests-production-of-apple-watch-macbook-pro-in-vietnam?utm_medium=rss)
- - [TikTok preps for midterm misinformation chaos](https://www.theverge.com/2022/8/17/23308917/tiktok-bytedance-midterm-elections-facebook-twitter-instagram)
- - [Singapore-based gaming and e-commerce firm Sea reports Q2 sales rose 29% YoY to $2.9B, its slowest growth in five years, and a $931M net loss; stock drops 14%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220817/p8#a220817p8)<!-- TECH:END -->
+ - [TikTok makes its Elections Center available in the US, offering state-by-state info ahead of the midterms, and details its misinformation policies &lpar;TechCrunch&rpar;](http://www.techmeme.com/220817/p10#a220817p10)
+ - [Is Oxygen the Answer to Long Covid?](https://www.wired.com/story/is-oxygen-the-answer-to-long-covid/)
+ - [This Man Set the Record for Wearing a Brain-Computer Interface](https://www.wired.com/story/this-man-set-the-record-for-wearing-a-brain-computer-interface/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
