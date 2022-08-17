@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Plant Milk Recall Expanded: Protein Shakes, Coffee Drinks, Pretzel Buns and More     - CNET](https://www.cnet.com/health/nutrition/beverage-and-food-recall-expanded-oat-milks-coffee-drinks-pretzel-buns-and-more/#ftag=CAD590a51e)
- - [Best Resume Writing Service for 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-resume-writing-service/#ftag=CAD590a51e)
- - [NASA Outlines Game Plan for Upcoming Artemis I Lunar Launch     - CNET](https://www.cnet.com/science/space/nasa-outlines-game-plan-for-upcoming-artemis-i-lunar-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s take on Wednesday Addams is the ultimate transfer student in series’ new trailer](https://www.theverge.com/2022/8/17/23309948/netflix-wednesday-trailer-tim-burton)
+ - [HyperTrack, a logistics startup that offers APIs for freight order planning, assignment, and tracking, announces a $25M Series A led by WestBridge Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220817/p30#a220817p30)
+ - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
