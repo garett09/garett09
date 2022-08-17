@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Arc A380 GPU should go on sale in the US for the first time this month](https://www.pcgamer.com/intels-arc-a380-gpu-should-go-on-sale-in-the-us-for-the-first-time-this-month)
- - [Wrath of the Lich King Classic&#39;s pre-patch arrives later this month](https://www.pcgamer.com/wrath-of-the-lich-king-classics-pre-patch-arrives-later-this-month)
- - [Today&#39;s Wordle 424 answer and hint: Wednesday, August 17](https://www.pcgamer.com/todays-wordle-424-answer-hint)<!-- GAME:END -->
+ - [How to use Qurious Crafting in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-qurious-crafting)
+ - [Spelljammer is for losers](https://www.polygon.com/23308644/dnd-spelljammer-review-losers)
+ - [How to find Capsule Corp drops and unlock the Kamehameha in Fortnite](https://www.pcgamer.com/fortnite-where-to-find-capsule-corps-drops-kamehameha)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
