@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Human Spider](http://9gag.com/gag/aqGqGoP)
- - 🚯 [Fast Reflexes](http://9gag.com/gag/a21n1Gd)
- - 🚯 [At least bacon exists.](http://9gag.com/gag/aggPoO1)<!-- MEMES:END -->
+ - 🚖 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)
+ - 🚯 [At least bacon exists.](http://9gag.com/gag/aggPoO1)
+ - 🚯 [Repairing my own mistake before backup arrives](http://9gag.com/gag/aZrGrYV)<!-- MEMES:END -->
 
 --- 
 
