@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing last forever, even love](http://9gag.com/gag/a81BGp3)
+ - 🚖 [Good old statistics ...](http://9gag.com/gag/aDDEdxB)
  - 🚯 [Insane Brazilian Police Motorcycle chase](http://9gag.com/gag/a21nWo1)
- - 🚯 [Mine is spinosaurus. Not that you even care.](http://9gag.com/gag/a11GRWD)<!-- MEMES:END -->
+ - 🚯 [Streets of Philadelphia, Kensington Avenue.](http://9gag.com/gag/aOQX0qM)<!-- MEMES:END -->
 
 --- 
 
