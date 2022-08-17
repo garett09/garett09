@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent misses with Q2 revenue down 3% YoY to ~$19.78B, its first-ever quarterly decline, due to China&#39;s COVID-19 lockdowns and strict gaming regulations &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220817/p5#a220817p5)
- - [Airbnb introduces &quot;anti-party technology&quot; in the US and Canada to automatically block reservations at a high risk of leading to unauthorized parties &lpar;Jessica Bursztynsky/Fast Company&rpar;](http://www.techmeme.com/220817/p4#a220817p4)
- - [Best Rural Internet Providers of 2022: Wired and Wireless     - CNET](https://www.cnet.com/news/best-rural-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple tests production of Apple Watch, MacBook Pro in Vietnam](https://appleinsider.com/articles/22/08/17/apple-tests-production-of-apple-watch-macbook-pro-in-vietnam?utm_medium=rss)
+ - [TikTok preps for midterm misinformation chaos](https://www.theverge.com/2022/8/17/23308917/tiktok-bytedance-midterm-elections-facebook-twitter-instagram)
+ - [Singapore-based gaming and e-commerce firm Sea reports Q2 sales rose 29% YoY to $2.9B, its slowest growth in five years, and a $931M net loss; stock drops 14%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220817/p8#a220817p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
