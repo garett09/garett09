@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok makes its Elections Center available in the US, offering state-by-state info ahead of the midterms, and details its misinformation policies &lpar;TechCrunch&rpar;](http://www.techmeme.com/220817/p10#a220817p10)
- - [Is Oxygen the Answer to Long Covid?](https://www.wired.com/story/is-oxygen-the-answer-to-long-covid/)
- - [This Man Set the Record for Wearing a Brain-Computer Interface](https://www.wired.com/story/this-man-set-the-record-for-wearing-a-brain-computer-interface/)<!-- TECH:END -->
+ - [Apple reveals how Australia&#39;s national swim team relies on iPad, Apple Watch](https://appleinsider.com/articles/22/08/17/apple-reveals-how-australias-national-swim-team-relies-on-ipad-apple-watch?utm_medium=rss)
+ - [After booming demand during the pandemic and a rapid inventory build-up in 2022, Intel, Nvidia, SMIC, and TSMC face a sudden downturn, perplexing analysts &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220817/p17#a220817p17)
+ - [The Best Laptops and Tablets for College Students](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
