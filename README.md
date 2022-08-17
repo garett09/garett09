@@ -182,8 +182,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [The best Skyrim mods](https://www.pcgamer.com/best-skyrim-mods)
- - [MLB roundup: Arozarena&#39;s early homer sends Rays past slipping Yankees, 3-1](https://game-rant-2022.blogspot.com/2022/08/mlb-roundup-arozarenas-early-homer.html)
- - [10 video games with the most unique art styles](https://game-rant-2022.blogspot.com/2022/08/10-video-games-with-most-unique-art.html)<!-- GAME:END -->
+ - [The Art Of Rollerdrome](https://kotaku.com/rollerdrome-concept-art-gallery-roll7-pc-ps5-xbox-1849415661)
+ - [Our Favorite Cosplay From San Diego Comic-Con 2022](https://kotaku.com/comic-con-2022-san-diego-cosplay-best-photos-video-1849421032)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
