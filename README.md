@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s Chorus open-back headphones slide onto the Quest 2](https://www.theverge.com/2022/8/17/23308098/logitech-chorus-meta-oculus-quest-2-speakers-headphones-accessory-snap-on)
- - [Ultimate Ears Wonderboom 3 improves on a good thing](https://www.theverge.com/2022/8/17/23307765/ue-wonderboom-3-ultimate-ears-price-specs-date)
- - [Report: Alphabet has invested $1.5B in blockchain companies between September 2021 and June 2022, most by any public company, followed by BlackRock&#39;s $1.17B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/220817/p3#a220817p3)<!-- TECH:END -->
+ - [Period and pregnancy tracking apps have bad privacy protections, report finds](https://www.theverge.com/2022/8/17/23306570/period-tracking-apps-privacy)
+ - [The Pixel 6 Pro gains a long-overdue display feature with new mod](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-mod-3197391/)
+ - [Logitech’s Chorus open-back headphones slide onto the Quest 2](https://www.theverge.com/2022/8/17/23308098/logitech-chorus-meta-oculus-quest-2-speakers-headphones-accessory-snap-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
