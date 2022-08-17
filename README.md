@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Just Cause Devs Spent Nearly Two Years Working On A Canceled Iron Man Game](https://kotaku.com/just-cause-iron-man-canceled-disney-marvel-minnmax-1849425958)
  - [The Sims 4 cheats: Every cheat code and life hack you need](https://www.pcgamer.com/sims-4-cheats)
- - [&#39;90s strategy king MicroProse is back with a Cold War blend of wargaming and RTS](https://www.pcgamer.com/90s-strategy-king-microprose-is-back-with-a-cold-war-blend-of-wargaming-and-rts)
- - [Arc 3.0 comes to Destiny 2 next week, giving Hunters a new Super and Titans a dash](https://www.polygon.com/23308874/destiny-2-arc-3-0-abilities-aspects-fragments-hunter-titan-warlock)<!-- GAME:END -->
+ - [&#39;90s strategy king MicroProse is back with a Cold War blend of wargaming and RTS](https://www.pcgamer.com/90s-strategy-king-microprose-is-back-with-a-cold-war-blend-of-wargaming-and-rts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
