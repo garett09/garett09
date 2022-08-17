@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [I haven\u2018t posted for a long time](http://9gag.com/gag/a919q3m)
- - 🚯 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)
- - 🚯 [Not easy](http://9gag.com/gag/aGzWE9n)<!-- MEMES:END -->
+ - 🚯 [Greetings from the Balkan](http://9gag.com/gag/aogby1w)
+ - 🚯 [Kate Beckinsale](http://9gag.com/gag/apgW9j5)<!-- MEMES:END -->
 
 --- 
 
