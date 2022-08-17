@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use Qurious Crafting in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-qurious-crafting)
- - [Spelljammer is for losers](https://www.polygon.com/23308644/dnd-spelljammer-review-losers)
- - [How to find Capsule Corp drops and unlock the Kamehameha in Fortnite](https://www.pcgamer.com/fortnite-where-to-find-capsule-corps-drops-kamehameha)<!-- GAME:END -->
+ - [Fortnite Is A Dragon Ball Z Anime Shitstorm Right Now &lpar;And I Love It&rpar;](https://kotaku.com/dragon-ball-z-goku-fortnite-vegeta-anime-update-dbz-1849420484)
+ - [6 Trending Cooking Sims On Steam That’ll Keep You Fed ‘Til The Bear Season Two](https://kotaku.com/cooking-sim-video-games-steam-overcooked-hulu-the-bear-1849420068)
+ - [10 books worth buying at the annual Barnes &amp; Noble Book Haul sale](https://www.polygon.com/23306406/barnes-noble-book-haul-sale-what-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
