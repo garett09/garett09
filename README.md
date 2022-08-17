@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cycles be like](http://9gag.com/gag/a21nKxO)
+ - 🚖 [Ice cream and chocolate are NOT your friends](http://9gag.com/gag/a0Z2e3X)
  - 🚯 [He really pulled a gun out for this?](http://9gag.com/gag/angLO1z)
  - 🚯 [What&#39;s the weirdest dish your parents have made?](http://9gag.com/gag/a81BA1O)<!-- MEMES:END -->
 
