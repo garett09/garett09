@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fungal Intelligence](http://9gag.com/gag/amgEgMj)
- - 🚯 [Fast Reflexes](http://9gag.com/gag/a21n1Gd)
- - 🚯 [Not mine but I remember those times.](http://9gag.com/gag/a11G1NY)<!-- MEMES:END -->
+ - 🚖 [Wokies are getting played and have no idea. &lpar;Got autodeleted, hope it&#39;s still legible after modifying it&rpar;](http://9gag.com/gag/aVxNxRw)
+ - 🚯 [Fungal Intelligence](http://9gag.com/gag/amgEgMj)
+ - 🚯 [The Human Spider](http://9gag.com/gag/aqGqGoP)<!-- MEMES:END -->
 
 --- 
 
