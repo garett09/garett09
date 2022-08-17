@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Clegg says Meta will not move up its January 2023 timeframe for reviewing its decision to suspend Donald Trump, even if he becomes a presidential candidate &lpar;Politico&rpar;](http://www.techmeme.com/220817/p20#a220817p20)
- - [Beats Fit Pro x Kim Kardashian are in stock at Amazon right now](https://appleinsider.com/articles/22/08/17/beats-fit-pro-x-kim-kardashian-are-in-stock-at-amazon-right-now?utm_medium=rss)
- - [GarageBand adds new Katy Perry, Seventeen &#39;Remix Sessions&#39;](https://appleinsider.com/articles/22/08/17/garageband-adds-new-katy-perry-seventeen-remix-sessions?utm_medium=rss)<!-- TECH:END -->
+ - [How to enable end-to-end encryption on Facebook Messenger](https://www.theverge.com/23307995/facebook-messenger-end-to-end-encryption-how-to)
+ - [Get three months of Apple TV Plus for free at Best Buy](https://www.theverge.com/good-deals/2022/8/17/23309504/apple-tv-plus-streaming-free-macbook-air-m1-evga-rtx-3070ti-gpu-samsung-neo-g9-monitor-deal-sale)
+ - [As part of its ban on political ads, TikTok will remove paid political posts by influencers; election-related posts will be reviewed and could be throttled &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/220817/p22#a220817p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
