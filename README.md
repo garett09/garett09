@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao](http://9gag.com/gag/a518Vqy)
- - 🚯 [Even trailer parks are becoming unaffordable as Corporate slumlords buy them up. Fun times ahead](http://9gag.com/gag/arnjWwX)
- - 🚯 [69 focus](http://9gag.com/gag/a61AZPA)<!-- MEMES:END -->
+ - 🚖 [Medal of Honor times.](http://9gag.com/gag/angLR2n)
+ - 🚯 [69 focus](http://9gag.com/gag/a61AZPA)
+ - 🚯 [Even trailer parks are becoming unaffordable as Corporate slumlords buy them up. Fun times ahead](http://9gag.com/gag/arnjWwX)<!-- MEMES:END -->
 
 --- 
 
