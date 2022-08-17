@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Code in the Netflix app suggests the ad-supported version may have a drawback](https://www.theverge.com/2022/8/17/23310288/netflix-ad-supported-offline-downloads-code)
- - [China’s heatwave closes factories that supply parts to Tesla, Intel, and Toyota](https://www.theverge.com/2022/8/17/23310205/china-sichuan-heatwave-intel-tesla-apple-foxconn-toyota-electric-cars-catl)
- - [Samsung Galaxy S23 series: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
+ - [$100 off the Samsung Chromebook 4, and more of the best Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [Microsoft is rolling out widget notifications on the Windows 11 taskbar, with live updates from widgets such as weather, finance, sports, and breaking news &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220817/p34#a220817p34)
+ - [Cisco beats estimates with Q4 revenue flat YoY at $13.1B, vs. $12.8B est., and a fiscal year 2023 guidance of 4% to 6% revenue growth YoY, vs. 2.3% est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220817/p33#a220817p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
