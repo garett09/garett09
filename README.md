@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Story Of Nike&#39;s Street Fighter Sneaker And Its Botched Release](https://kotaku.com/nike-air-force-1-fgc-street-fighter-daigo-sneakers-1849415832)
- - [Call of Duty: Modern Warfare 2 has three release dates now](https://www.pcgamer.com/call-of-duty-modern-warfare-2-has-three-release-dates-now)
- - [All your Overwatch skins and cosmetics carry into Overwatch 2, Blizzard reaffirms](https://www.pcgamer.com/all-your-overwatch-skins-and-cosmetics-carry-into-overwatch-2-blizzard-reaffirms)<!-- GAME:END -->
+ - [Our Favorite Cosplay From San Diego Comic-Con 2022](https://kotaku.com/comic-con-2022-san-diego-cosplay-best-photos-video-1849421032)
+ - [Welp, I built Saudi Arabia&#39;s stupid skinny city in Cities: Skylines](https://www.pcgamer.com/welp-i-built-saudi-arabias-stupid-skinny-city-in-cities-skylines)
+ - [How marketers are preparing for the future of in-game advertising](https://game-rant-2022.blogspot.com/2022/08/how-marketers-are-preparing-for-future.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
