@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s take on Wednesday Addams is the ultimate transfer student in series’ new trailer](https://www.theverge.com/2022/8/17/23309948/netflix-wednesday-trailer-tim-burton)
- - [HyperTrack, a logistics startup that offers APIs for freight order planning, assignment, and tracking, announces a $25M Series A led by WestBridge Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220817/p30#a220817p30)
- - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)<!-- TECH:END -->
+ - [Seven years later, Apple was right to kill off the 3.5mm headphone jack](https://appleinsider.com/articles/22/08/17/seven-years-later-apple-was-right-to-kill-off-the-35mm-headphone-jack?utm_medium=rss)
+ - [Adidas will now sell you a pair of solar-powered headphones](https://www.theverge.com/2022/8/17/23310136/adidas-solar-powered-headphones-rpt-02-sol-blue-tiger)
+ - [Sony has opened another public queue to buy the PlayStation 5](https://www.theverge.com/2022/8/17/23310313/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
