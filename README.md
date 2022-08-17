@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Luxury dice dominate at Gen Con](https://www.polygon.com/tabletop-games/23308011/luxury-dice-gen-con-2022-dispel-level-up-ow-ow-ow-this-is-worse-than-a-lego-omg)
- - [Mark Zuckerberg&#39;s Soulless Metaverse Avatar Has Me Worried About Our Digital Future](https://kotaku.com/metaverse-meta-facebook-selfie-vr-zuckerberg-ugly-1849424613)
- - [Boyfriend Dungeon gets a new dungeon and three new weapons to date](https://www.polygon.com/2022/8/17/23310039/boyfriend-dungeon-secret-weapons-update-leah-dr-holmes-jonah)<!-- GAME:END -->
+ - [Musician turns Windows 95 into a chiptune album on an actual Sega Genesis cart](https://www.pcgamer.com/musician-turns-windows-95-into-a-chiptune-album-on-an-actual-sega-genesis-cart)
+ - [Polygon’s entire merch store is on sale](https://www.polygon.com/2022/8/17/23309754/polygon-merch-store-on-sale-shirts-pins-stickers)
+ - [Luxury dice dominate at Gen Con](https://www.polygon.com/tabletop-games/23308011/luxury-dice-gen-con-2022-dispel-level-up-ow-ow-ow-this-is-worse-than-a-lego-omg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
