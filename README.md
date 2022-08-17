@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Is A Dragon Ball Z Anime Shitstorm Right Now &lpar;And I Love It&rpar;](https://kotaku.com/dragon-ball-z-goku-fortnite-vegeta-anime-update-dbz-1849420484)
- - [6 Trending Cooking Sims On Steam That’ll Keep You Fed ‘Til The Bear Season Two](https://kotaku.com/cooking-sim-video-games-steam-overcooked-hulu-the-bear-1849420068)
- - [10 books worth buying at the annual Barnes &amp; Noble Book Haul sale](https://www.polygon.com/23306406/barnes-noble-book-haul-sale-what-to-buy)<!-- GAME:END -->
+ - [Fortnite players can&#39;t get enough of DBZ&#39;s absurd finisher](https://www.pcgamer.com/fortnite-players-cant-get-enough-of-dbzs-absurd-finisher)
+ - [Before House of the Dragon premieres, catch up on Targaryen history](https://www.polygon.com/23303192/house-of-the-dragon-targaryen-family-tree-explained)
+ - [Get a Closer Look at Planet of Lana, Ahead of its gamescom 2022 Debut Next Week](https://news.xbox.com/en-us/2022/08/17/planet-of-lana-game-pass-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
