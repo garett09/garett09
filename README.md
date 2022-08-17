@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to avoid AirTag batteries dying now that Apple isn&#39;t showing life remaining](https://appleinsider.com/articles/22/08/17/how-to-avoid-airtag-batteries-dying-now-that-apple-isnt-showing-life-remaining?utm_medium=rss)
- - [Apple aiming for Sept. 7 to unveil iPhone 14, Apple Watch Series 8](https://appleinsider.com/articles/22/08/17/apple-aiming-for-sept-7-to-unveil-iphone-14-apple-watch-series-8?utm_medium=rss)
- - [Source: Amazon is testing a feature, reportedly called Inspire, in its app that would show users a TikTok-style feed of product photos and videos &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/220817/p29#a220817p29)<!-- TECH:END -->
+ - [Big Plant Milk Recall Expanded: Protein Shakes, Coffee Drinks, Pretzel Buns and More     - CNET](https://www.cnet.com/health/nutrition/beverage-and-food-recall-expanded-oat-milks-coffee-drinks-pretzel-buns-and-more/#ftag=CAD590a51e)
+ - [Best Resume Writing Service for 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-resume-writing-service/#ftag=CAD590a51e)
+ - [NASA Outlines Game Plan for Upcoming Artemis I Lunar Launch     - CNET](https://www.cnet.com/science/space/nasa-outlines-game-plan-for-upcoming-artemis-i-lunar-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
