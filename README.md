@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Time enjoyed is never time wasted](http://9gag.com/gag/aNP6Vm3)
- - 🚯 [He&#39;s been waiting for this his whole life](http://9gag.com/gag/aAGoKoZ)
+ - 🚯 [Two former Pennsylvania judges who orchestrated a scheme to send children to for-profit jails in exchange for kickbacks were ordered to pay more than $200 million to hundreds of people they victimized in one of the worst judicial scandals in U.S. history.](http://9gag.com/gag/avA36Qq)
  - 🚯 [Tolkienally accurate she-dwarf](http://9gag.com/gag/a0Z26Pq)<!-- MEMES:END -->
 
 --- 
