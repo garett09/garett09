@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MythBusters](http://9gag.com/gag/aQX0mAq)
- - 🚯 [That\u2019s gorgeous!](http://9gag.com/gag/awz6O8y)
- - 🚯 [I want this car too](http://9gag.com/gag/a0Z26Vv)<!-- MEMES:END -->
+ - 🚖 [This is what happens when you can&#39;t grab to anything in 0 gravity](http://9gag.com/gag/aNP6VP4)
+ - 🚯 [Switch between good and bad!](http://9gag.com/gag/aggPxdg)
+ - 🚯 [Well, you let a snake out of a zoo so...there&#39;s that](http://9gag.com/gag/a0Z26WL)<!-- MEMES:END -->
 
 --- 
 
