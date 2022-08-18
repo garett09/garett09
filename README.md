@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The happiest part of any fireman&#39;s day has to be smashing the windows of idiots who park next to fire hydrants.](http://9gag.com/gag/aLvy4jM)
- - 🚯 [Making some tea](http://9gag.com/gag/a0Z2Vrn)
- - 🚯 [Lol France](http://9gag.com/gag/aYr2DYv)<!-- MEMES:END -->
+ - 🚖 [Wait, what?](http://9gag.com/gag/aLvy4NW)
+ - 🚯 [Lol France](http://9gag.com/gag/aYr2DYv)
+ - 🚯 [Having a waifu, Japan](http://9gag.com/gag/a41DzXd)<!-- MEMES:END -->
 
 --- 
 
