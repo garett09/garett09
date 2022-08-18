@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what happens when you can&#39;t grab to anything in 0 gravity](http://9gag.com/gag/aNP6VP4)
- - 🚯 [Switch between good and bad!](http://9gag.com/gag/aggPxdg)
- - 🚯 [Well, you let a snake out of a zoo so...there&#39;s that](http://9gag.com/gag/a0Z26WL)<!-- MEMES:END -->
+ - 🚖 [Keep the faith. Boys be boys!](http://9gag.com/gag/aRrYvYy)
+ - 🚯 [Why all the hate around here? Not wanting something is not a phobia...smh](http://9gag.com/gag/aVxNmWP)
+ - 🚯 [Dutch Prime Minister Mark Rutte criticized for leaked party video!](http://9gag.com/gag/aVxNZzO)<!-- MEMES:END -->
 
 --- 
 
