@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The happiest part of any fireman&#39;s day has to be smashing the windows of idiots who park next to fire hydrants.](http://9gag.com/gag/aLvy4jM)
- - 🚯 [One Punch Man Season 3 Announced](http://9gag.com/gag/abg9OKO)
+ - 🚯 [Making some tea](http://9gag.com/gag/a0Z2Vrn)
  - 🚯 [Lol France](http://9gag.com/gag/aYr2DYv)<!-- MEMES:END -->
 
 --- 
