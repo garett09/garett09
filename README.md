@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Around the block](http://9gag.com/gag/aYr2PM7)
- - 🚯 [I&#39;ve made a game all by myself and I love the 9GAG community so I&#39;ll be giving away some Steam keys to people who comment :D! The game is called Lone Fungus and it&#39;s something I&#39;ve been working on for almost three years now!](http://9gag.com/gag/aQX07BK)
- - 🚯 [The end is nead my dudees](http://9gag.com/gag/a0Z2nZO)<!-- MEMES:END -->
+ - 🚖 [MythBusters](http://9gag.com/gag/aQX0mAq)
+ - 🚯 [That\u2019s gorgeous!](http://9gag.com/gag/awz6O8y)
+ - 🚯 [I want this car too](http://9gag.com/gag/a0Z26Vv)<!-- MEMES:END -->
 
 --- 
 
