@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Embracer Group’s game buying spree includes rights to Lord of the Rings and Hobbit](https://www.theverge.com/2022/8/18/23311082/embracer-group-acquisition-lord-of-the-rings-hobbit-limited-run-games-tripwire)
  - [A coalition of 70 TikTok stars, with a combined 51M+ followers, pledges to cease work with Amazon until the company meets the demands of the Amazon Labor Union &lpar;Washington Post&rpar;](http://www.techmeme.com/220818/p4#a220818p4)
- - [South Korea plans to block domestic access and launch a probe into 16 foreign crypto exchanges lacking operational permit including KuCoin, MEXC, and more &lpar;Hooyeon Kim/Bloomberg&rpar;](http://www.techmeme.com/220818/p3#a220818p3)
- - [VideoLan, which develops VLC, says Indian telecom operators have been blocking its website since February 2022; India has 10% of VLC users worldwide &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220818/p2#a220818p2)<!-- TECH:END -->
+ - [Apple Watch Fitness Tracking Is Good Enough for Olympic Athletes     - CNET](https://www.cnet.com/tech/mobile/apple-watch-fitness-tracking-is-good-enough-for-olympic-athletes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
