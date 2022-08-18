@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK October Issue: Monkeying around](https://www.pcgamer.com/pc-gamer-uk-october-issue-monkeying-around)
- - [Janet Jackson&#39;s Rhythm Nation is a form of cyberattack](https://www.pcgamer.com/janet-jacksons-rhythm-nation-is-a-form-of-cyberattack)
- - [Early X670E motherboard pricing looks totally wild](https://www.pcgamer.com/x670e-asus-pricing-leak)<!-- GAME:END -->
+ - [Only the strong survive — how Amicia and Hugo’s abilities will change in A Plague Tale: Requiem](https://blog.playstation.com/2022/08/18/only-the-strong-survive-how-amicia-and-hugos-abilities-will-change-in-a-plague-tale-requiem/)
+ - [Cursed to Golf has history’s hardest video game golf course](https://www.polygon.com/reviews/23308582/cursed-to-golf-impressions-review-ps4-ps5-xbox-one-series-x-windows-pc-nintendo-switch)
+ - [The Lord of the Rings has a new rights owner. What does that mean?](https://www.polygon.com/23311153/the-lord-of-the-rings-the-hobbit-film-game-rights-embracer-group)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
