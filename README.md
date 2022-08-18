@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This breakthrough tech allows Wi-Fi signals to literally break through walls](https://www.pcgamer.com/this-breakthrough-tech-allows-wi-fi-signals-to-literally-break-through-walls)
  - [Chrome&#39;s new update patches yet another major exploited vulnerability](https://www.pcgamer.com/chromes-new-update-patches-yet-another-major-exploited-vulnerability)
- - [We Have All Been Bob Hoskins Contemplating Life And The Super Mario Bros. Movie](https://kotaku.com/super-mario-bros-movie-bob-hoskins-nintendo-film-1849427022)
- - [Dead Island 2 is alive and coming in February](https://www.pcgamer.com/dead-island-2-is-alive-and-coming-in-february)<!-- GAME:END -->
+ - [We Have All Been Bob Hoskins Contemplating Life And The Super Mario Bros. Movie](https://kotaku.com/super-mario-bros-movie-bob-hoskins-nintendo-film-1849427022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
