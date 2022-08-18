@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This breakthrough tech allows Wi-Fi signals to literally break through walls](https://www.pcgamer.com/this-breakthrough-tech-allows-wi-fi-signals-to-literally-break-through-walls)
- - [Chrome&#39;s new update patches yet another major exploited vulnerability](https://www.pcgamer.com/chromes-new-update-patches-yet-another-major-exploited-vulnerability)
- - [We Have All Been Bob Hoskins Contemplating Life And The Super Mario Bros. Movie](https://kotaku.com/super-mario-bros-movie-bob-hoskins-nintendo-film-1849427022)<!-- GAME:END -->
+ - [Lord Of The Rings, The Hobbit Rights Bought By Video Game Super-Publisher](https://kotaku.com/lord-rings-hobbit-rights-tv-film-games-sold-embracer-1849427377)
+ - [Embracer goes on spending spree: buys Lord of the Rings IP rights, Tripwire Interactive, and more](https://www.pcgamer.com/embracer-goes-on-spending-spree-buys-lord-of-the-rings-ip-rights-tripwire-interactive-and-more)
+ - [This breakthrough tech allows Wi-Fi signals to literally break through walls](https://www.pcgamer.com/this-breakthrough-tech-allows-wi-fi-signals-to-literally-break-through-walls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
