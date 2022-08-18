@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg spent $10B on the metaverse and all he got was this stupid selfie](https://www.pcgamer.com/mark-zuckerberg-spent-dollar10b-on-the-metaverse-and-all-he-got-was-this-stupid-selfie)
- - [Fallout TV Show Set Leaks Look Really Authentic, Actually](https://kotaku.com/fallout-tv-show-amazon-bethesda-xbox-76-new-vegas-1849426276)
- - [Wing Commander IV: Remastered revitalizes a PC gaming classic](https://www.pcgamer.com/wing-commander-iv-remastered-revitalizes-a-pc-gaming-classic)<!-- GAME:END -->
+ - [Another crypto game crashes and burns, won&#39;t issue refunds to backers because there&#39;s no money left](https://www.pcgamer.com/another-crypto-game-crashes-and-burns-wont-issue-refunds-to-backers-because-theres-no-money-left)
+ - [Here are the games joining and leaving PC Game Pass in August](https://www.pcgamer.com/here-are-the-games-joining-and-leaving-pc-game-pass-in-august)
+ - [The current MultiVersus meta is all about cheese](https://www.pcgamer.com/multiversus-tier-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
