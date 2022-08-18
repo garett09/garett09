@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto.com laid off 260 employees — then quietly let go of hundreds more](https://www.theverge.com/2022/8/18/23309439/crypto-com-layoffs-unannounced-july-august-bear-market)
- - [Don’t fret foldable fragility, everything will be fine… probably](https://www.androidauthority.com/foldable-phone-durable-reliable-fragile-fears-3196250/)
- - [Apple’s new podcast charts show Amazon at the top](https://www.theverge.com/2022/8/18/23311290/apple-top-subscription-podcast-charts-amazon-wondery-smartless)<!-- TECH:END -->
+ - [Verizon’s Visible is ending its incredible Party Pay deal](https://www.theverge.com/2022/8/18/23310640/verizon-visible-party-pay-plan-changes)
+ - [Apple Card issuer Goldman Sachs ranks first in credit card satisfaction survey](https://appleinsider.com/articles/22/08/18/apple-card-issuer-goldman-sachs-ranks-first-in-credit-card-satisfaction-survey?utm_medium=rss)
+ - [Corsair’s first gaming laptop is the start of something good](https://www.theverge.com/23311640/corsair-voyager-a1600-gaming-laptop-review-amd-stream-deck-elgato)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
