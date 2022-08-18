@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China criticizes the $52B CHIPS Act, saying the legislation violates fair market principles and targets Beijing&#39;s efforts to boost its domestic chip industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/220818/p6#a220818p6)
- - [A look at Netflix&#39;s gaming initiative: experimenting with ways to surface games to subscribers, hiring for a cloud gaming service, acquiring studios, and more &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220818/p5#a220818p5)
- - [Inside NASA&#39;s Mission to Snatch Pieces of Mars and Bring Them Back to Earth     - CNET](https://www.cnet.com/science/space/inside-nasas-mission-to-snatch-pieces-of-mars-and-bring-them-back-to-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The OnePlus 10T fares little better than OnePlus 10 Pro in bend test](https://www.androidauthority.com/oneplus-10t-bend-test-3197919/)
+ - [The Family That Mined the Pentagon&#39;s Data for Profit](https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/)
+ - [Grab, Foodpanda, and Deliveroo form the Digital Platforms Industry Association in Singapore, seeking to influence gig economy guidelines &lpar;Bloomberg&rpar;](http://www.techmeme.com/220818/p8#a220818p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
