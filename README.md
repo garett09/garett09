@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This friendly dark ass tunnel](http://9gag.com/gag/aBn7LZz)
- - 🚯 [Kids for cash](http://9gag.com/gag/a21n81E)
+ - 🚖 [Kids for cash](http://9gag.com/gag/a21n81E)
+ - 🚯 [Not mine...but made me think about inflation at the moment](http://9gag.com/gag/a919vdD)
  - 🚯 [EMPunch](http://9gag.com/gag/aE8LVAp)<!-- MEMES:END -->
 
 --- 
