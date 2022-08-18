@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 10T fares little better than OnePlus 10 Pro in bend test](https://www.androidauthority.com/oneplus-10t-bend-test-3197919/)
- - [The Family That Mined the Pentagon&#39;s Data for Profit](https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/)
- - [Grab, Foodpanda, and Deliveroo form the Digital Platforms Industry Association in Singapore, seeking to influence gig economy guidelines &lpar;Bloomberg&rpar;](http://www.techmeme.com/220818/p8#a220818p8)<!-- TECH:END -->
+ - [Pixelmator Photo switches to subscription for new users](https://appleinsider.com/articles/22/08/18/pixelmator-photo-switches-to-subscription-for-new-users?utm_medium=rss)
+ - [Oppo launches Color OS 13, hitting Oppo Find X5 series today](https://www.androidauthority.com/oppo-color-os-13-3197942/)
+ - [Oppo’s ColorOS 13 update has a built-in pixelation feature for message screenshots](https://www.theverge.com/2022/8/18/23309709/oppo-coloros-13-release-date-news-features-supported-devices-find-x5-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
