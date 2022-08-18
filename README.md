@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo of America President Doug Bowser tells staff the company is &quot;actively investigating&quot; claims that female contractors were sexually harassed &lpar;Sisi Jiang/Kotaku&rpar;](http://www.techmeme.com/220818/p17#a220818p17)
- - [The best new streaming movies this week on Netflix, Hulu, Shudder, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Nvidia&#39;s GeForce Now game streaming service adds 1440p support at 120fps in Chrome or Edge browsers using the $19.99/month RTX 3080 tier &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220818/p16#a220818p16)<!-- TECH:END -->
+ - [Crypto can’t fix carbon offsets — but crypto fans are trying anyway](https://www.theverge.com/2022/8/18/23310254/carbon-offset-credits-crypto-tokens-adam-neumann-wework)
+ - [How to Stop Robots From Becoming Racist](https://www.wired.com/story/how-to-stop-robots-becoming-racist/)
+ - [The Best Ebook Subscription Services for Every Kind of Reader](https://www.wired.com/gallery/best-ebook-subscription-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
