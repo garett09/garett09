@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk digs into Steve Rogers’ sex life, but it doesn’t penetrate deep enough](https://www.polygon.com/23308219/she-hulk-captain-america-sex-shipping-mcu)
- - [Nintendo was working on its own cross-platform version of the Xbox Adaptive Controller](https://www.pcgamer.com/nintendo-xac-cross-platform-controller)
- - [Elden Ring&#39;s sold just under 17 million copies in six months](https://www.pcgamer.com/elden-rings-sold-just-under-17-million-copies-in-six-months)<!-- GAME:END -->
+ - [Riot&#39;s new LoL trophy is being designed by fricking Tiffany &amp; Co.](https://www.pcgamer.com/riots-new-lol-trophy-is-being-designed-by-fricking-tiffany-and-co)
+ - [Meet the four-legged cast of Them’s Fightin’ Herds, out October 18](https://blog.playstation.com/2022/08/18/meet-the-four-legged-cast-of-thems-fightin-herds-out-october-18/)
+ - [NBA 2K23 overhauls its franchise mode by sending everyone back in time](https://www.polygon.com/23310207/nba-2k23-franchise-mode-preview-mynba-eras-starting-points)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
