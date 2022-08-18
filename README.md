@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inkulinati is Coming to Game Preview and Will be Available with Xbox Game Pass!](https://news.xbox.com/en-us/2022/08/18/inkulinati-is-coming-to-game-preview-and-will-be-available-with-xbox-game-pass/)
- - [Call of Duty: Vanguard and Call of Duty: Warzone: Last Stand launches August 24](https://blog.playstation.com/2022/08/18/call-of-duty-vanguard-and-call-of-duty-warzone-last-stand-launches-august-24/)
- - [PC Game Pass just got a bunch of retro titles from id Software and Bethesda](https://www.polygon.com/23311611/pc-game-pass-retro-gaming-bethesda-id-quake-wolfenstein-elder-scrolls)<!-- GAME:END -->
+ - [Thermaltake&#39;s swappable fans solve a problem no one has](https://www.pcgamer.com/thermaltakes-swappable-fans-solve-a-problem-no-one-has)
+ - [She-Hulk reminds us that Bruce Banner and Tony Stark were friends, actually](https://www.polygon.com/23309900/she-hulk-bruce-banner-tony-stark-science-bros-mcu)
+ - [Play The Elder Scrolls Online for Free and Save Big on Crown Packs, Base Game, and High Isle during QuakeCon 2022](https://news.xbox.com/en-us/2022/08/18/play-the-elder-scrolls-online-for-free-and-save-big-on-crown-packs-base-game-and-high-isle-during-quakecon-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
