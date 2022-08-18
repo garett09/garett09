@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me you&#39;re expendable without telling me...](http://9gag.com/gag/aze0PbZ)
- - 🚯 [Unexpected.](http://9gag.com/gag/angLn4o)
- - 🚯 [EMPunch](http://9gag.com/gag/aE8LVAp)<!-- MEMES:END -->
+ - 🚖 [The happiest part of any fireman&#39;s day has to be smashing the windows of idiots who park next to fire hydrants.](http://9gag.com/gag/aLvy4jM)
+ - 🚯 [One Punch Man Season 3 Announced](http://9gag.com/gag/abg9OKO)
+ - 🚯 [Lol France](http://9gag.com/gag/aYr2DYv)<!-- MEMES:END -->
 
 --- 
 
