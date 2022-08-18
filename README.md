@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thermaltake&#39;s swappable fans solve a problem no one has](https://www.pcgamer.com/thermaltakes-swappable-fans-solve-a-problem-no-one-has)
- - [She-Hulk reminds us that Bruce Banner and Tony Stark were friends, actually](https://www.polygon.com/23309900/she-hulk-bruce-banner-tony-stark-science-bros-mcu)
- - [Play The Elder Scrolls Online for Free and Save Big on Crown Packs, Base Game, and High Isle during QuakeCon 2022](https://news.xbox.com/en-us/2022/08/18/play-the-elder-scrolls-online-for-free-and-save-big-on-crown-packs-base-game-and-high-isle-during-quakecon-2022/)<!-- GAME:END -->
+ - [The Xbox Features Most People Forget About](https://kotaku.com/xbox-features-bad-pin-to-home-skype-xbox-assist-1849430567)
+ - [How to get into fighting games without losing your mind](https://www.polygon.com/23311587/fighting-games-beginners-guide)
+ - [Thermaltake&#39;s swappable fans solve a problem no one has](https://www.pcgamer.com/thermaltakes-swappable-fans-solve-a-problem-no-one-has)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
