@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Available Today with PC Game Pass: Quake 4, Wolfenstein 3D, and More](https://news.xbox.com/en-us/2022/08/18/available-today-with-pc-game-pass-quake-4-wolfenstein-3d-and-more/)
- - [The worst Elder Scrolls game is now on Game Pass](https://www.pcgamer.com/the-worst-elder-scrolls-game-is-now-on-game-pass)
- - [It&#39;s Only Money is a &#39;lowlife simulator&#39; that looks like an indie GTA Online with silly mini-games](https://www.pcgamer.com/its-only-money-is-a-lowlife-simulator-that-looks-like-an-indie-gta-online-with-silly-mini-games)<!-- GAME:END -->
+ - [Detroit: Become Human becomes 2½ times better when you edit in Leslie Nielsen](https://www.pcgamer.com/detroit-become-human-becomes-2-times-better-when-you-edit-in-leslie-nielsen)
+ - [Metal Gear Solid VR Mod Would Break Even Hideo Kojima’s Brain](https://kotaku.com/metal-gear-solid-mod-vr-boneworks-vr-solid-snake-kojima-1849431217)
+ - [That tactics game about farting donkey doodles is coming this winter](https://www.pcgamer.com/that-tactics-game-about-farting-donkey-doodles-is-coming-this-winter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
