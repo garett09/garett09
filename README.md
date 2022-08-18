@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another crypto game crashes and burns, won&#39;t issue refunds to backers because there&#39;s no money left](https://www.pcgamer.com/another-crypto-game-crashes-and-burns-wont-issue-refunds-to-backers-because-theres-no-money-left)
- - [Here are the games joining and leaving PC Game Pass in August](https://www.pcgamer.com/here-are-the-games-joining-and-leaving-pc-game-pass-in-august)
- - [The current MultiVersus meta is all about cheese](https://www.pcgamer.com/multiversus-tier-list)<!-- GAME:END -->
+ - [Chrome&#39;s new update patches yet another major exploited vulnerability](https://www.pcgamer.com/chromes-new-update-patches-yet-another-major-exploited-vulnerability)
+ - [We Have All Been Bob Hoskins Contemplating Life And The Super Mario Bros. Movie](https://kotaku.com/super-mario-bros-movie-bob-hoskins-nintendo-film-1849427022)
+ - [Dead Island 2 is alive and coming in February](https://www.pcgamer.com/dead-island-2-is-alive-and-coming-in-february)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
