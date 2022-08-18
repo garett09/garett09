@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get the lowdown on Fallout 76’s Expeditions before entering The Pitt](https://blog.playstation.com/2022/08/18/get-the-lowdown-on-fallout-76s-expeditions-before-entering-the-pitt/)
- - [Pokémon-like Ooblets Out For Switch In September, Leaves Early Access](https://kotaku.com/ooblets-early-access-switch-september-release-date-1849431109)
- - [We Are OFK review](https://www.pcgamer.com/we-are-ofk-review)<!-- GAME:END -->
+ - [Available Today with PC Game Pass: Quake 4, Wolfenstein 3D, and More](https://news.xbox.com/en-us/2022/08/18/available-today-with-pc-game-pass-quake-4-wolfenstein-3d-and-more/)
+ - [The worst Elder Scrolls game is now on Game Pass](https://www.pcgamer.com/the-worst-elder-scrolls-game-is-now-on-game-pass)
+ - [It&#39;s Only Money is a &#39;lowlife simulator&#39; that looks like an indie GTA Online with silly mini-games](https://www.pcgamer.com/its-only-money-is-a-lowlife-simulator-that-looks-like-an-indie-gta-online-with-silly-mini-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
