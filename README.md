@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids for cash](http://9gag.com/gag/a21n81E)
- - 🚯 [Not mine...but made me think about inflation at the moment](http://9gag.com/gag/a919vdD)
+ - 🚖 [Tell me you&#39;re expendable without telling me...](http://9gag.com/gag/aze0PbZ)
+ - 🚯 [Unexpected.](http://9gag.com/gag/angLn4o)
  - 🚯 [EMPunch](http://9gag.com/gag/aE8LVAp)<!-- MEMES:END -->
 
 --- 
