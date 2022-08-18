@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Medal of Honor times.](http://9gag.com/gag/angLR2n)
- - 🚯 [69 focus](http://9gag.com/gag/a61AZPA)
- - 🚯 [Even trailer parks are becoming unaffordable as Corporate slumlords buy them up. Fun times ahead](http://9gag.com/gag/arnjWwX)<!-- MEMES:END -->
+ - 🚖 [Even trailer parks are becoming unaffordable as Corporate slumlords buy them up. Fun times ahead](http://9gag.com/gag/arnjWwX)
+ - 🚯 [Burn them!](http://9gag.com/gag/abg91Kr)
+ - 🚯 [Well, this is award AND, I guess, a friendship as ended](http://9gag.com/gag/a919zOj)<!-- MEMES:END -->
 
 --- 
 
