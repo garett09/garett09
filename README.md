@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox Features Most People Forget About](https://kotaku.com/xbox-features-bad-pin-to-home-skype-xbox-assist-1849430567)
- - [How to get into fighting games without losing your mind](https://www.polygon.com/23311587/fighting-games-beginners-guide)
- - [Thermaltake&#39;s swappable fans solve a problem no one has](https://www.pcgamer.com/thermaltakes-swappable-fans-solve-a-problem-no-one-has)<!-- GAME:END -->
+ - [Get the lowdown on Fallout 76’s Expeditions before entering The Pitt](https://blog.playstation.com/2022/08/18/get-the-lowdown-on-fallout-76s-expeditions-before-entering-the-pitt/)
+ - [Pokémon-like Ooblets Out For Switch In September, Leaves Early Access](https://kotaku.com/ooblets-early-access-switch-september-release-date-1849431109)
+ - [We Are OFK review](https://www.pcgamer.com/we-are-ofk-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
