@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peruse the Largest Webb Space Telescope Image Taken to Date     - CNET](https://www.cnet.com/science/space/peruse-the-largest-webb-space-telescope-image-taken-to-date/#ftag=CAD590a51e)
- - [Google Chrome Update Patches Multiple Security Bugs     - CNET](https://www.cnet.com/tech/services-and-software/google-chrome-update-patches-multiple-security-bugs/#ftag=CAD590a51e)
- - [Verizon&#39;s Visible Ends Its Family Plan for New Users     - CNET](https://www.cnet.com/tech/mobile/verizons-visible-ends-its-family-plan-for-new-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rivian customers ‘enraged’ after company cancels its most affordable electric truck](https://www.theverge.com/2022/8/18/23312081/rivian-r1t-r1s-price-increase-explore-package-discontinued)
+ - [Spyware Hunters Are Expanding Their Toolset](https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/)
+ - [A look at Watch Duty, a free, nonprofit, unofficial service and app run by volunteers that lets anyone track active wildfires throughout California &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/220818/p26#a220818p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
