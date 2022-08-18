@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The classes of Two Point Campus take their silliness very seriously](https://www.pcgamer.com/the-classes-of-two-point-campus-take-their-silliness-very-seriously)
  - [Today&#39;s Wordle 425 answer and hint: Thursday, August 18](https://www.pcgamer.com/todays-wordle-425-answer-hint)
- - [Lord Of The Rings, The Hobbit Rights Bought By Video Game Super-Publisher](https://kotaku.com/lord-rings-hobbit-rights-tv-film-games-sold-embracer-1849427377)
- - [Embracer goes on spending spree: buys Lord of the Rings IP rights, Tripwire Interactive, and more](https://www.pcgamer.com/embracer-goes-on-spending-spree-buys-lord-of-the-rings-ip-rights-tripwire-interactive-and-more)<!-- GAME:END -->
+ - [Lord Of The Rings, The Hobbit Rights Bought By Video Game Super-Publisher](https://kotaku.com/lord-rings-hobbit-rights-tv-film-games-sold-embracer-1849427377)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
