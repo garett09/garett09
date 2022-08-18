@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected.](http://9gag.com/gag/angLn4o)
- - 🚯 [Rampaging In McDonald&#39;s](http://9gag.com/gag/a21nw99)
- - 🚯 [Not mine...but made me think about inflation at the moment](http://9gag.com/gag/a919vdD)<!-- MEMES:END -->
+ - 🚖 [Maybe not a great first impression on a date, but come on. It made a metal bang sound and everything.](http://9gag.com/gag/aAGoEMg)
+ - 🚯 [Medal of Honor times.](http://9gag.com/gag/angLR2n)
+ - 🚯 [Unexpected.](http://9gag.com/gag/angLn4o)<!-- MEMES:END -->
 
 --- 
 
