@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian customers ‘enraged’ after company cancels its most affordable electric truck](https://www.theverge.com/2022/8/18/23312081/rivian-r1t-r1s-price-increase-explore-package-discontinued)
- - [Spyware Hunters Are Expanding Their Toolset](https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/)
- - [A look at Watch Duty, a free, nonprofit, unofficial service and app run by volunteers that lets anyone track active wildfires throughout California &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/220818/p26#a220818p26)<!-- TECH:END -->
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-asus-deal-sale)
+ - [Samsung Galaxy Z Flip 4 review: an iterative upgrade with excellent performance, improved but not great battery life, and a slightly more useful cover screen &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220818/p27#a220818p27)
+ - [Here’s what Embracer Group can &lpar;and can’t&rpar; do with Lord of the Rings](https://www.theverge.com/2022/8/18/23311815/heres-what-embracer-group-can-and-cant-do-with-lord-of-the-rings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
