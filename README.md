@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best secure note apps for iOS, iPadOS, and macOS to keep your thoughts private](https://appleinsider.com/articles/22/08/18/the-best-secure-note-apps-for-ios-ipados-and-macos-to-keep-your-thoughts-private?utm_medium=rss)
- - [Move over cable: Streaming takes cable’s throne for the first time in US](https://www.androidauthority.com/streaming-surpasses-cable-3198051/)
- - [Instagram gets mean about sending video clips to TikTok](https://www.theverge.com/2022/8/18/23311715/instagram-reels-tiktok-edit-mute-download-no-audio)<!-- TECH:END -->
+ - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: August 18&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)
+ - [Sources: Crypto.com has quietly let go of hundreds more employees since announcing it was laying off around 260 employees, or 5% of its workforce, in June &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220818/p24#a220818p24)
+ - [Apple adds new charts to Podcasts tracking subscription shows &amp; channels](https://appleinsider.com/articles/22/08/18/apple-adds-new-charts-to-podcasts-tracking-subscription-shows-channels?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
