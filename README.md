@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Custom made `hand` axe &lpar;credit Crafty Panda&rpar;](http://9gag.com/gag/a21n2YO)
- - 🚯 [Switch between good and bad!](http://9gag.com/gag/aggPxdg)
- - 🚯 [Finnish prime minister Sanna Marin / catlady is facing critisism for her leaked party videos](http://9gag.com/gag/a31V055)<!-- MEMES:END -->
+ - 🚯 [That\u2019s gorgeous!](http://9gag.com/gag/awz6O8y)
+ - 🚯 [Well, I mean..](http://9gag.com/gag/aNP6B3w)<!-- MEMES:END -->
 
 --- 
 
