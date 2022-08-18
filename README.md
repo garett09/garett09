@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s been waiting for this his whole life](http://9gag.com/gag/aAGoKoZ)
- - 🚯 [Wait, what?](http://9gag.com/gag/aLvy4NW)
- - 🚯 [Having a waifu, Japan](http://9gag.com/gag/a41DzXd)<!-- MEMES:END -->
+ - 🚖 [Time enjoyed is never time wasted](http://9gag.com/gag/aNP6Vm3)
+ - 🚯 [He&#39;s been waiting for this his whole life](http://9gag.com/gag/aAGoKoZ)
+ - 🚯 [Tolkienally accurate she-dwarf](http://9gag.com/gag/a0Z26Pq)<!-- MEMES:END -->
 
 --- 
 
