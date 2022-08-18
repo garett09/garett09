@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is rolling out a new sharing feature to let users publish their TikTok Stories to Reddit, Facebook, and Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220817/p37#a220817p37)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-see-on-hbo-max-now/#ftag=CAD590a51e)
- - [Wordle’s upgraded Wordlebot has a new recommended starting word](https://www.theverge.com/2022/8/17/23310620/wordle-recommended-suggested-starting-word-wordlebot-2-0-slate-crane)<!-- TECH:END -->
+ - [ThreatX, which offers API protection, bot and DDoS mitigation, and web application firewalls for first- and third-party web apps, has raised a $30M Series B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220817/p42#a220817p42)
+ - [LA-based GrayMatter Robotics, which makes AI-powered robots for automating tedious or ergonomically challenging factory tasks for humans, raised a $20M Series A &lpar;Samson Amore/dot.LA&rpar;](http://www.techmeme.com/220817/p41#a220817p41)
+ - [Massachusetts-based Modulate, which scans voice chat using machine learning to find toxic players in online games, raised a $30M Series A led by Lakestar &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220817/p40#a220817p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
