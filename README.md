@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Husband knows how to trigger wife](http://9gag.com/gag/a31V2we)
- - 🚯 [Custom made `hand` axe &lpar;credit Crafty Panda&rpar;](http://9gag.com/gag/a21n2YO)
- - 🚯 [Keep the faith. Boys be boys!](http://9gag.com/gag/aRrYvYy)<!-- MEMES:END -->
+ - 🚖 [Custom made `hand` axe &lpar;credit Crafty Panda&rpar;](http://9gag.com/gag/a21n2YO)
+ - 🚯 [Switch between good and bad!](http://9gag.com/gag/aggPxdg)
+ - 🚯 [Finnish prime minister Sanna Marin / catlady is facing critisism for her leaked party videos](http://9gag.com/gag/a31V055)<!-- MEMES:END -->
 
 --- 
 
