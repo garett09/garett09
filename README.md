@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe not a great first impression on a date, but come on. It made a metal bang sound and everything.](http://9gag.com/gag/aAGoEMg)
- - 🚯 [Medal of Honor times.](http://9gag.com/gag/angLR2n)
- - 🚯 [Unexpected.](http://9gag.com/gag/angLn4o)<!-- MEMES:END -->
+ - 🚖 [This friendly dark ass tunnel](http://9gag.com/gag/aBn7LZz)
+ - 🚯 [Kids for cash](http://9gag.com/gag/a21n81E)
+ - 🚯 [EMPunch](http://9gag.com/gag/aE8LVAp)<!-- MEMES:END -->
 
 --- 
 
