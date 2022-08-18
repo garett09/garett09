@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even trailer parks are becoming unaffordable as Corporate slumlords buy them up. Fun times ahead](http://9gag.com/gag/arnjWwX)
- - 🚯 [Burn them!](http://9gag.com/gag/abg91Kr)
- - 🚯 [Well, this is award AND, I guess, a friendship as ended](http://9gag.com/gag/a919zOj)<!-- MEMES:END -->
+ - 🚖 [Unexpected.](http://9gag.com/gag/angLn4o)
+ - 🚯 [Rampaging In McDonald&#39;s](http://9gag.com/gag/a21nw99)
+ - 🚯 [Not mine...but made me think about inflation at the moment](http://9gag.com/gag/a919vdD)<!-- MEMES:END -->
 
 --- 
 
