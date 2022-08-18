@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep the faith. Boys be boys!](http://9gag.com/gag/aRrYvYy)
- - 🚯 [Why all the hate around here? Not wanting something is not a phobia...smh](http://9gag.com/gag/aVxNmWP)
- - 🚯 [Dutch Prime Minister Mark Rutte criticized for leaked party video!](http://9gag.com/gag/aVxNZzO)<!-- MEMES:END -->
+ - 🚖 [Husband knows how to trigger wife](http://9gag.com/gag/a31V2we)
+ - 🚯 [Custom made `hand` axe &lpar;credit Crafty Panda&rpar;](http://9gag.com/gag/a21n2YO)
+ - 🚯 [Keep the faith. Boys be boys!](http://9gag.com/gag/aRrYvYy)<!-- MEMES:END -->
 
 --- 
 
