@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: August 18&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)
- - [Sources: Crypto.com has quietly let go of hundreds more employees since announcing it was laying off around 260 employees, or 5% of its workforce, in June &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220818/p24#a220818p24)
- - [Apple adds new charts to Podcasts tracking subscription shows &amp; channels](https://appleinsider.com/articles/22/08/18/apple-adds-new-charts-to-podcasts-tracking-subscription-shows-channels?utm_medium=rss)<!-- TECH:END -->
+ - [Sony’s back with another PS5 restock](https://www.theverge.com/2022/8/17/23310313/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)
+ - [Koibanx, which wants to provide blockchain infrastructure and build payment systems for financial institutions in Central America, has raised a $22M Series A &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/220818/p25#a220818p25)
+ - [John Fetterman’s Senate campaign has officially joined TikTok](https://www.theverge.com/2022/8/18/23311931/tiktok-john-fetterman-crudite-dr-mehmet-oz-pennsylvania-senate-election-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
