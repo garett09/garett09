@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait, what?](http://9gag.com/gag/aLvy4NW)
- - 🚯 [Lol France](http://9gag.com/gag/aYr2DYv)
+ - 🚖 [He&#39;s been waiting for this his whole life](http://9gag.com/gag/aAGoKoZ)
+ - 🚯 [Wait, what?](http://9gag.com/gag/aLvy4NW)
  - 🚯 [Having a waifu, Japan](http://9gag.com/gag/a41DzXd)<!-- MEMES:END -->
 
 --- 
