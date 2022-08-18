@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Photo switches to subscription for new users](https://appleinsider.com/articles/22/08/18/pixelmator-photo-switches-to-subscription-for-new-users?utm_medium=rss)
- - [Oppo launches Color OS 13, hitting Oppo Find X5 series today](https://www.androidauthority.com/oppo-color-os-13-3197942/)
- - [Oppo’s ColorOS 13 update has a built-in pixelation feature for message screenshots](https://www.theverge.com/2022/8/18/23309709/oppo-coloros-13-release-date-news-features-supported-devices-find-x5-pro)<!-- TECH:END -->
+ - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)
+ - [A researcher says iOS devices do not fully route all network traffic through VPNs, leading to data leaks; ProtonVPN first publicized the issue in March 2020 &lpar;Michael Horowitz&rpar;](http://www.techmeme.com/220818/p12#a220818p12)
+ - [How a Hacked Tractor Added Fuel to the Right-to-Repair Movement](https://www.wired.com/story/gadget-lab-podcast-562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
