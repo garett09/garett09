@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s Visible is ending its incredible Party Pay deal](https://www.theverge.com/2022/8/18/23310640/verizon-visible-party-pay-plan-changes)
- - [Apple Card issuer Goldman Sachs ranks first in credit card satisfaction survey](https://appleinsider.com/articles/22/08/18/apple-card-issuer-goldman-sachs-ranks-first-in-credit-card-satisfaction-survey?utm_medium=rss)
- - [Corsair’s first gaming laptop is the start of something good](https://www.theverge.com/23311640/corsair-voyager-a1600-gaming-laptop-review-amd-stream-deck-elgato)<!-- TECH:END -->
+ - [The best secure note apps for iOS, iPadOS, and macOS to keep your thoughts private](https://appleinsider.com/articles/22/08/18/the-best-secure-note-apps-for-ios-ipados-and-macos-to-keep-your-thoughts-private?utm_medium=rss)
+ - [Move over cable: Streaming takes cable’s throne for the first time in US](https://www.androidauthority.com/streaming-surpasses-cable-3198051/)
+ - [Instagram gets mean about sending video clips to TikTok](https://www.theverge.com/2022/8/18/23311715/instagram-reels-tiktok-edit-mute-download-no-audio)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
