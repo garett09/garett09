@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Neumann&#39;s real estate startup Flow plans to launch a digital wallet for crypto and fiat currencies and may offer a tokenized rewards program &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/220817/p36#a220817p36)
- - [Collective NFT ownership service Fractional raised a $20M Series A led by Paradigm and is rebranding to Tessera &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/220817/p35#a220817p35)
- - [Yes, the new electric vehicle tax credits are really confusing, but we can help](https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to)<!-- TECH:END -->
+ - [TikTok is rolling out a new sharing feature to let users publish their TikTok Stories to Reddit, Facebook, and Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220817/p37#a220817p37)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-see-on-hbo-max-now/#ftag=CAD590a51e)
+ - [Wordle’s upgraded Wordlebot has a new recommended starting word](https://www.theverge.com/2022/8/17/23310620/wordle-recommended-suggested-starting-word-wordlebot-2-0-slate-crane)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
