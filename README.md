@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto can’t fix carbon offsets — but crypto fans are trying anyway](https://www.theverge.com/2022/8/18/23310254/carbon-offset-credits-crypto-tokens-adam-neumann-wework)
- - [How to Stop Robots From Becoming Racist](https://www.wired.com/story/how-to-stop-robots-becoming-racist/)
- - [The Best Ebook Subscription Services for Every Kind of Reader](https://www.wired.com/gallery/best-ebook-subscription-services/)<!-- TECH:END -->
+ - [Crypto.com laid off 260 employees — then quietly let go of hundreds more](https://www.theverge.com/2022/8/18/23309439/crypto-com-layoffs-unannounced-july-august-bear-market)
+ - [Don’t fret foldable fragility, everything will be fine… probably](https://www.androidauthority.com/foldable-phone-durable-reliable-fragile-fears-3196250/)
+ - [Apple’s new podcast charts show Amazon at the top](https://www.theverge.com/2022/8/18/23311290/apple-top-subscription-podcast-charts-amazon-wondery-smartless)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
