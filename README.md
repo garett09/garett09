@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)
- - [A researcher says iOS devices do not fully route all network traffic through VPNs, leading to data leaks; ProtonVPN first publicized the issue in March 2020 &lpar;Michael Horowitz&rpar;](http://www.techmeme.com/220818/p12#a220818p12)
- - [How a Hacked Tractor Added Fuel to the Right-to-Repair Movement](https://www.wired.com/story/gadget-lab-podcast-562/)<!-- TECH:END -->
+ - [Nintendo of America President Doug Bowser tells staff the company is &quot;actively investigating&quot; claims that female contractors were sexually harassed &lpar;Sisi Jiang/Kotaku&rpar;](http://www.techmeme.com/220818/p17#a220818p17)
+ - [The best new streaming movies this week on Netflix, Hulu, Shudder, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Nvidia&#39;s GeForce Now game streaming service adds 1440p support at 120fps in Chrome or Edge browsers using the $19.99/month RTX 3080 tier &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220818/p16#a220818p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
