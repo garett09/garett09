@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s back with another PS5 restock](https://www.theverge.com/2022/8/17/23310313/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)
- - [Koibanx, which wants to provide blockchain infrastructure and build payment systems for financial institutions in Central America, has raised a $22M Series A &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/220818/p25#a220818p25)
- - [John Fetterman’s Senate campaign has officially joined TikTok](https://www.theverge.com/2022/8/18/23311931/tiktok-john-fetterman-crudite-dr-mehmet-oz-pennsylvania-senate-election-twitter)<!-- TECH:END -->
+ - [Peruse the Largest Webb Space Telescope Image Taken to Date     - CNET](https://www.cnet.com/science/space/peruse-the-largest-webb-space-telescope-image-taken-to-date/#ftag=CAD590a51e)
+ - [Google Chrome Update Patches Multiple Security Bugs     - CNET](https://www.cnet.com/tech/services-and-software/google-chrome-update-patches-multiple-security-bugs/#ftag=CAD590a51e)
+ - [Verizon&#39;s Visible Ends Its Family Plan for New Users     - CNET](https://www.cnet.com/tech/mobile/verizons-visible-ends-its-family-plan-for-new-users/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
