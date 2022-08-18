@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Only the strong survive — how Amicia and Hugo’s abilities will change in A Plague Tale: Requiem](https://blog.playstation.com/2022/08/18/only-the-strong-survive-how-amicia-and-hugos-abilities-will-change-in-a-plague-tale-requiem/)
- - [Cursed to Golf has history’s hardest video game golf course](https://www.polygon.com/reviews/23308582/cursed-to-golf-impressions-review-ps4-ps5-xbox-one-series-x-windows-pc-nintendo-switch)
- - [The Lord of the Rings has a new rights owner. What does that mean?](https://www.polygon.com/23311153/the-lord-of-the-rings-the-hobbit-film-game-rights-embracer-group)<!-- GAME:END -->
+ - [She-Hulk digs into Steve Rogers’ sex life, but it doesn’t penetrate deep enough](https://www.polygon.com/23308219/she-hulk-captain-america-sex-shipping-mcu)
+ - [Nintendo was working on its own cross-platform version of the Xbox Adaptive Controller](https://www.pcgamer.com/nintendo-xac-cross-platform-controller)
+ - [Elden Ring&#39;s sold just under 17 million copies in six months](https://www.pcgamer.com/elden-rings-sold-just-under-17-million-copies-in-six-months)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
