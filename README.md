@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Embracer Group’s game buying spree includes rights to Lord of the Rings and Hobbit](https://www.theverge.com/2022/8/18/23311082/embracer-group-acquisition-lord-of-the-rings-hobbit-limited-run-games-tripwire)
- - [A coalition of 70 TikTok stars, with a combined 51M+ followers, pledges to cease work with Amazon until the company meets the demands of the Amazon Labor Union &lpar;Washington Post&rpar;](http://www.techmeme.com/220818/p4#a220818p4)
- - [Apple Watch Fitness Tracking Is Good Enough for Olympic Athletes     - CNET](https://www.cnet.com/tech/mobile/apple-watch-fitness-tracking-is-good-enough-for-olympic-athletes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China criticizes the $52B CHIPS Act, saying the legislation violates fair market principles and targets Beijing&#39;s efforts to boost its domestic chip industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/220818/p6#a220818p6)
+ - [A look at Netflix&#39;s gaming initiative: experimenting with ways to surface games to subscribers, hiring for a cloud gaming service, acquiring studios, and more &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220818/p5#a220818p5)
+ - [Inside NASA&#39;s Mission to Snatch Pieces of Mars and Bring Them Back to Earth     - CNET](https://www.cnet.com/science/space/inside-nasas-mission-to-snatch-pieces-of-mars-and-bring-them-back-to-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
