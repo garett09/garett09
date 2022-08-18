@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based fintech unicorn Razorpay acquires Ezetap, which offers POS terminals and payments software to merchants, sources say for $150M in cash and stock &lpar;The Economic Times&rpar;](http://www.techmeme.com/220818/p1#a220818p1)
- - [ThreatX, which offers API protection, bot and DDoS mitigation, and web application firewalls for first- and third-party web apps, has raised a $30M Series B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220817/p42#a220817p42)
- - [LA-based GrayMatter Robotics, which makes AI-powered robots for automating tedious or ergonomically challenging factory tasks for humans, raised a $20M Series A &lpar;Samson Amore/dot.LA&rpar;](http://www.techmeme.com/220817/p41#a220817p41)<!-- TECH:END -->
+ - [South Korea plans to block domestic access and launch a probe into 16 foreign crypto exchanges lacking operational permit including KuCoin, MEXC, and more &lpar;Hooyeon Kim/Bloomberg&rpar;](http://www.techmeme.com/220818/p3#a220818p3)
+ - [VideoLan, which develops VLC, says Indian telecom operators have been blocking its website since February 2022; India has 10% of VLC users worldwide &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220818/p2#a220818p2)
+ - [Apple iPhone 14 series launch date tipped: Under a month to go](https://www.androidauthority.com/apple-iphone-14-series-launch-date-3197882/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
