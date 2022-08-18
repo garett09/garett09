@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The classes of Two Point Campus take their silliness very seriously](https://www.pcgamer.com/the-classes-of-two-point-campus-take-their-silliness-very-seriously)
- - [Today&#39;s Wordle 425 answer and hint: Thursday, August 18](https://www.pcgamer.com/todays-wordle-425-answer-hint)
- - [Lord Of The Rings, The Hobbit Rights Bought By Video Game Super-Publisher](https://kotaku.com/lord-rings-hobbit-rights-tv-film-games-sold-embracer-1849427377)<!-- GAME:END -->
+ - [PC Gamer UK October Issue: Monkeying around](https://www.pcgamer.com/pc-gamer-uk-october-issue-monkeying-around)
+ - [Janet Jackson&#39;s Rhythm Nation is a form of cyberattack](https://www.pcgamer.com/janet-jacksons-rhythm-nation-is-a-form-of-cyberattack)
+ - [Early X670E motherboard pricing looks totally wild](https://www.pcgamer.com/x670e-asus-pricing-leak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
