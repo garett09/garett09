@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular PC mod sites ban homophobic mods for Insomniac’s Spider-Man](https://www.polygon.com/23311318/marvels-spider-man-pc-mod-pride-flag-ban-nexus-mods-moddb)
- - [Pokémon Sword And Shield Is Giving Out Free Rare Victini Mythicals](https://kotaku.com/pokemon-world-championships-victini-sword-shield-1849428702)
- - [She-Hulk’s top rival is her most toxic fan](https://www.polygon.com/23308279/she-hulk-titania-explainer-comic-marvel-tv)<!-- GAME:END -->
+ - [Call of Duty: Vanguard and Call of Duty: Warzone: Last Stand launches August 24](https://blog.playstation.com/2022/08/18/call-of-duty-vanguard-and-call-of-duty-warzone-last-stand-launches-august-24/)
+ - [PC Game Pass just got a bunch of retro titles from id Software and Bethesda](https://www.polygon.com/23311611/pc-game-pass-retro-gaming-bethesda-id-quake-wolfenstein-elder-scrolls)
+ - [Here’s why Magic: The Gathering fans are so damn excited about the new ‘pain lands’](https://www.polygon.com/23311281/mtg-pain-lands-reprint-dominaria-united-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
