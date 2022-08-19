@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Custom made `hand` axe &lpar;credit Crafty Panda&rpar;](http://9gag.com/gag/a21n2YO)
- - 🚯 [That\u2019s gorgeous!](http://9gag.com/gag/awz6O8y)
- - 🚯 [Well, I mean..](http://9gag.com/gag/aNP6B3w)<!-- MEMES:END -->
+ - 🚖 [Budgeh](http://9gag.com/gag/a61A238)
+ - 🚯 [If you ever wondered how Superman ejaculate. Well here it is](http://9gag.com/gag/angLDXL)
+ - 🚯 [Husband knows how to trigger wife](http://9gag.com/gag/a31V2we)<!-- MEMES:END -->
 
 --- 
 
