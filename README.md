@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomorrow Is in Your Hands: Death Stranding Available August 23 with PC Game Pass](https://news.xbox.com/en-us/2022/08/19/death-stranding-available-august-23-with-pc-game-pass/)
- - [Saints Row full PC system requirements revealed](https://www.pcgamer.com/saints-row-full-pc-system-requirements-revealed)
- - [Spending two weeks behind enemy lines in Metal Gear Solid 5](https://www.pcgamer.com/spending-two-weeks-behind-enemy-lines-in-metal-gear-solid-5)<!-- GAME:END -->
+ - [Death Stranding is coming to Game Pass](https://www.pcgamer.com/death-stranding-is-coming-to-game-pass)
+ - [Inside the thankless, quietly imaginative task of developing for low-spec gaming](https://www.pcgamer.com/inside-the-thankless-quietly-imaginative-task-of-developing-for-low-spec-gaming)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
