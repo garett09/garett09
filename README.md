@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-asus-deal-sale)
- - [Samsung Galaxy Z Flip 4 review: an iterative upgrade with excellent performance, improved but not great battery life, and a slightly more useful cover screen &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220818/p27#a220818p27)
- - [Here’s what Embracer Group can &lpar;and can’t&rpar; do with Lord of the Rings](https://www.theverge.com/2022/8/18/23311815/heres-what-embracer-group-can-and-cant-do-with-lord-of-the-rings)<!-- TECH:END -->
+ - [TikTok monitors everything users type when using in-app browser](https://appleinsider.com/articles/22/08/19/tiktok-monitors-everything-users-type-when-using-in-app-browser?utm_medium=rss)
+ - [TikTok introduces &quot;Shopping Ads&quot;, letting brands place shoppable videos on the For You page, promote catalog listings, and direct users to live shopping events &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220818/p28#a220818p28)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
