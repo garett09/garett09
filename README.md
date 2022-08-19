@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Husband knows how to trigger wife](http://9gag.com/gag/a31V2we)
- - 🚯 [The raccoons under the stairs](http://9gag.com/gag/ay9ORoq)
- - 🚯 [Daily reminder](http://9gag.com/gag/arnjB9p)<!-- MEMES:END -->
+ - 🚖 [Talent](http://9gag.com/gag/aqGqYrR)
+ - 🚯 [Daily reminder](http://9gag.com/gag/arnjB9p)
+ - 🚯 [Stunt 101](http://9gag.com/gag/aWgw2MK)<!-- MEMES:END -->
 
 --- 
 
