@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wireless charging has stopped for some Pixel owners after Android 13 update](https://www.androidauthority.com/wireless-charging-android-13-3198736/)
- - [Are you more excited for House of the Dragon of The Rings of Power?](https://www.androidauthority.com/house-of-the-dragon-vs-the-rings-of-power-3198116/)
- - [TikTok&#39;s In-App Browser Can Monitor Your Keystrokes, Researcher Says     - CNET](https://www.cnet.com/tech/services-and-software/tiktoks-in-app-browser-can-monitor-your-keystrokes-researcher-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elon Musk approached brain-computer interface developer Synchron about a potential investment, after expressing frustration with Neuralink&#39;s progress &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/220819/p14#a220819p14)
+ - [Trump&#39;s Truth Social Sees Uptick in Users After FBI&#39;s Mar-a-Lago Search     - CNET](https://www.cnet.com/news/politics/trumps-truth-social-sees-uptick-in-users-after-fbis-mar-a-lago-search/#ftag=CAD590a51e)
+ - [Wireless charging has stopped for some Pixel owners after Android 13 update](https://www.androidauthority.com/wireless-charging-android-13-3198736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
