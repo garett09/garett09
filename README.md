@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding is coming to Game Pass](https://www.pcgamer.com/death-stranding-is-coming-to-game-pass)
- - [Inside the thankless, quietly imaginative task of developing for low-spec gaming](https://www.pcgamer.com/inside-the-thankless-quietly-imaginative-task-of-developing-for-low-spec-gaming)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Talking with the Creative Force Behind the Upcoming Gungrave G.O.R.E.](https://news.xbox.com/en-us/2022/08/19/talking-with-the-creative-force-behind-the-upcoming-gungrave-g-o-r-e/)
+ - [Sega Genesis Mini 2’s full game lineup revealed](https://www.polygon.com/23312308/sega-genesis-mini-2-full-games-list-release-date)
+ - [Death Stranding comes to PC Game Pass next week](https://www.polygon.com/23312815/death-stranding-xbox-game-pass-pc-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
