@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Budgeh](http://9gag.com/gag/a61A238)
- - 🚯 [If you ever wondered how Superman ejaculate. Well here it is](http://9gag.com/gag/angLDXL)
- - 🚯 [Husband knows how to trigger wife](http://9gag.com/gag/a31V2we)<!-- MEMES:END -->
+ - 🚖 [Husband knows how to trigger wife](http://9gag.com/gag/a31V2we)
+ - 🚯 [The raccoons under the stairs](http://9gag.com/gag/ay9ORoq)
+ - 🚯 [Daily reminder](http://9gag.com/gag/arnjB9p)<!-- MEMES:END -->
 
 --- 
 
