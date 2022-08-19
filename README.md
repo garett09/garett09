@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Releases, Updates, and Games](https://news.xbox.com/en-us/2022/08/19/this-week-on-xbox-new-releases-updates-and-games/)
- - [Ooblets is oobing its full 1.00B release in Septoobler](https://www.pcgamer.com/ooblets-is-oobing-its-full-100b-release-in-septoobler)
- - [Netflix’s multiverse fantasy Look Both Ways has the exact wrong message for the moment](https://www.polygon.com/reviews/23310459/look-both-ways-review-netflix-multiverse-fantasy-lili-reinhart)<!-- GAME:END -->
+ - [Mark Zuckerberg Responds To Graphics Backlash, Promises Metaverse Won&#39;t Be Depressing To Look At](https://kotaku.com/meta-mark-zuckerberg-facebook-horizon-worlds-graphics-1849435467)
+ - [The Black Phone, Orphan: First Kill, and every other new movie you can stream from home this weekend](https://www.polygon.com/23308264/new-movies-watch-black-phone-orphan-first-kill-netflix-look-both-ways-vikram-streaming)
+ - [Dragon Ball Z Voice Actor Accused Of Sexual Harassment May Have To Pay More Legal Costs Now](https://kotaku.com/vic-mignogna-lawsuit-dragon-ball-z-funimation-court-1849435479)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
