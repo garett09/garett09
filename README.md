@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum&#39;s core developers have set September 15 as the tentative date for the long-awaited proof-of-stake Merge upgrade &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220819/p1#a220819p1)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: August 19&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [The Pixel Watch could be Google Fi’s first supported smartwatch](https://www.androidauthority.com/google-fi-pixel-watch-3198290/)<!-- TECH:END -->
+ - [Flash deal: get Microsoft Office for Mac Home &amp; Business 2021 for $39.99 &lpar;88% off&rpar;](https://appleinsider.com/articles/22/08/19/flash-deal-get-microsoft-office-for-mac-home-business-2021-for-3999-88-off?utm_medium=rss)
+ - [We asked, you told us: You keep at least some of your tech product boxes](https://www.androidauthority.com/tech-product-boxes-poll-results-3198304/)
+ - [Ethereum&#39;s core developers have set September 15 as the tentative date for the long-awaited proof-of-stake Merge upgrade &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220819/p1#a220819p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
