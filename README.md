@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sega reveals every game coming to the Genesis Mini 2, including the controversial Night Trap](https://www.theverge.com/2022/8/19/23313151/sega-genesis-mini-2-game-list-night-trap-sonic)
- - [Twitter bans Florida Republican for encouraging the killing of federal agents](https://www.theverge.com/2022/8/19/23313161/luis-miguel-florida-republican-twitter-ban-threats-fbi-irs-incitement)
- - [Save $160 on the Galaxy Tab S8 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
+ - [Controversial Apple-1 said to be owned by Steve Jobs sells for small fortune](https://appleinsider.com/articles/22/08/19/controversial-apple-1-said-to-be-owned-by-steve-jobs-sells-for-small-fortune?utm_medium=rss)
+ - [Asus recalls 10,000 Z690 Hero motherboards because of a backward capacitor](https://www.theverge.com/2022/8/19/23313300/asus-z690-hero-recall-cpsc)
+ - [The high-resolution smartphone sensors are coming](https://www.theverge.com/2022/8/19/23313155/samsung-galaxy-s23-ultra-rumor-camera-200mp-sensor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
