@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok monitors everything users type when using in-app browser](https://appleinsider.com/articles/22/08/19/tiktok-monitors-everything-users-type-when-using-in-app-browser?utm_medium=rss)
- - [Zuckerberg responds to the mockery of the Horizon Worlds selfie, saying it was taken quickly to celebrate a launch and promises major updates to avatar graphics &lpar;Patricia Hernandez/Kotaku&rpar;](http://www.techmeme.com/220819/p13#a220819p13)
- - [Mark Zuckerberg has responded to the metaverse memes](https://www.theverge.com/2022/8/19/23313469/mark-zuckerberg-horizon-worlds-screenshot-memes-response-upgrades)<!-- TECH:END -->
+ - [Wireless charging has stopped for some Pixel owners after Android 13 update](https://www.androidauthority.com/wireless-charging-android-13-3198736/)
+ - [Are you more excited for House of the Dragon of The Rings of Power?](https://www.androidauthority.com/house-of-the-dragon-vs-the-rings-of-power-3198116/)
+ - [TikTok&#39;s In-App Browser Can Monitor Your Keystrokes, Researcher Says     - CNET](https://www.cnet.com/tech/services-and-software/tiktoks-in-app-browser-can-monitor-your-keystrokes-researcher-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
