@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death Stranding arrives on Microsoft’s PC Game Pass service next week](https://www.theverge.com/2022/8/19/23311503/death-stranding-microsoft-pc-game-pass-release)
- - [How Long Droughts Make Flooding Worse](https://www.wired.com/story/drought-causing-floods/)
- - [Ads Are Taking Over Streaming, and I Can’t Afford to Look Away](https://www.wired.com/story/advertising-services-devices-rant/)<!-- TECH:END -->
+ - [Architectural honeycomb Serena Shades by Lutron review: A great HomeKit addition](https://appleinsider.com/articles/22/08/19/architectural-honeycomb-serena-shades-by-lutron-review-a-great-homekit-addition?utm_medium=rss)
+ - [&#39;The Sandman&#39; Ending Explained: The Vortex, Surprise Episodes and Season 2     - CNET](https://www.cnet.com/culture/entertainment/the-sandman-ending-explained-vortex-season-2-episode-11/#ftag=CAD590a51e)
+ - [Patent Attorney Breaks Down Apple&#39;s Car Patents &lpar;VIDEO&rpar;     - CNET](https://www.cnet.com/tech/patent-attorney-breaks-down-apples-car-patents-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
