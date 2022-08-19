@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s put a smile on that face.](http://9gag.com/gag/aAGoZq0)
- - 🚯 [Rate my setup](http://9gag.com/gag/aLvyrEg)
- - 🚯 [One Year of opening my Dream Project in Yemen](http://9gag.com/gag/angLdmE)<!-- MEMES:END -->
+ - 🚖 [Rate my setup](http://9gag.com/gag/aLvyrEg)
+ - 🚯 [This tree at a cemetery \ud83d\ude2e](http://9gag.com/gag/angLVOV)
+ - 🚯 [Gravity b*tch](http://9gag.com/gag/a61A8o9)<!-- MEMES:END -->
 
 --- 
 
