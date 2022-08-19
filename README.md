@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Talent](http://9gag.com/gag/aqGqYrR)
- - 🚯 [Daily reminder](http://9gag.com/gag/arnjB9p)
- - 🚯 [Stunt 101](http://9gag.com/gag/aWgw2MK)<!-- MEMES:END -->
+ - 🚖 [Daily reminder](http://9gag.com/gag/arnjB9p)
+ - 🚯 [Stunt 101](http://9gag.com/gag/aWgw2MK)
+ - 🚯 [If you ever wondered how Superman ejaculate. Well here it is](http://9gag.com/gag/angLDXL)<!-- MEMES:END -->
 
 --- 
 
