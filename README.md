@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Controversial Apple-1 said to be owned by Steve Jobs sells for small fortune](https://appleinsider.com/articles/22/08/19/controversial-apple-1-said-to-be-owned-by-steve-jobs-sells-for-small-fortune?utm_medium=rss)
- - [Asus recalls 10,000 Z690 Hero motherboards because of a backward capacitor](https://www.theverge.com/2022/8/19/23313300/asus-z690-hero-recall-cpsc)
- - [The high-resolution smartphone sensors are coming](https://www.theverge.com/2022/8/19/23313155/samsung-galaxy-s23-ultra-rumor-camera-200mp-sensor)<!-- TECH:END -->
+ - [Fitbit Pay’s days might be numbered](https://www.theverge.com/2022/8/19/23313335/fitbit-sense-2-versa-4-google-wallet)
+ - [Wayfair lays off 870 people, about 5 percent of its global workforce](https://www.theverge.com/2022/8/19/23313103/wayfair-870-layoffs-boston-retail-furniture-home)
+ - [What to watch this weekend &lpar;if you like Pokémon&rpar;](https://www.theverge.com/2022/8/19/23312917/pokemon-worlds-2022-what-to-watch-this-weekend-esports-flame-fatales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
