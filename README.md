@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok monitors everything users type when using in-app browser](https://appleinsider.com/articles/22/08/19/tiktok-monitors-everything-users-type-when-using-in-app-browser?utm_medium=rss)
- - [TikTok introduces &quot;Shopping Ads&quot;, letting brands place shoppable videos on the For You page, promote catalog listings, and direct users to live shopping events &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220818/p28#a220818p28)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israel-based Agora, which helps real estate investment companies automate back-office processes, has raised a $20M Series A led by Insight Partners &lpar;Philip Russo/Commercial Observer&rpar;](http://www.techmeme.com/220818/p29#a220818p29)
+ - [&#39;The Rehearsal&#39; on HBO: Is the Show Real or Scripted?     - CNET](https://www.cnet.com/culture/entertainment/the-rehearsal-on-hbo-is-the-show-real-or-scripted/#ftag=CAD590a51e)
+ - [2024 Acura ZDX Will Be the Brand&#39;s First EV     - CNET](https://www.cnet.com/roadshow/news/2024-acura-zdx-type-s-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
