@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rate my setup](http://9gag.com/gag/aLvyrEg)
- - 🚯 [This tree at a cemetery \ud83d\ude2e](http://9gag.com/gag/angLVOV)
- - 🚯 [Gravity b*tch](http://9gag.com/gag/a61A8o9)<!-- MEMES:END -->
+ - 🚖 [The fellowship of the brewery](http://9gag.com/gag/aqGqd6P)
+ - 🚯 [New G\u00f3mez is not what they expected to be, but it&#39;s a legendary actor, always rejected for his looks. He deserves this character. Plus, in Addams family, we always saw what she perceived. Surely, to Morticia&#39;s eyes is perfect. Women saying he&#39;s not hot... Go and check yourselves](http://9gag.com/gag/a81Bz03)
+ - 🚯 [Is this allowed?](http://9gag.com/gag/amgEdzd)<!-- MEMES:END -->
 
 --- 
 
