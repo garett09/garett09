@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rate my setup](http://9gag.com/gag/aLvyrEg)
- - 🚯 [Pettson &amp; Findus](http://9gag.com/gag/amgEnry)
- - 🚯 [Let&#39;s put a smile on that face.](http://9gag.com/gag/aAGoZq0)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s put a smile on that face.](http://9gag.com/gag/aAGoZq0)
+ - 🚯 [Rate my setup](http://9gag.com/gag/aLvyrEg)
+ - 🚯 [One Year of opening my Dream Project in Yemen](http://9gag.com/gag/angLdmE)<!-- MEMES:END -->
 
 --- 
 
