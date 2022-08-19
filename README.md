@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tom Hanks son `Chet Hanks` just reacts the best possible way to some woke smoothbrain question.](http://9gag.com/gag/a919XAo)
+ - 🚖 [The hate runs deep](http://9gag.com/gag/aE8LOyG)
  - 🚯 [Or Presidents room](http://9gag.com/gag/a71zpPL)
- - 🚯 [Talent](http://9gag.com/gag/aqGqYrR)<!-- MEMES:END -->
+ - 🚯 [Custom card XD :&rpar;&rpar;](http://9gag.com/gag/aBn7OLZ)<!-- MEMES:END -->
 
 --- 
 
