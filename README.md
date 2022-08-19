@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [25 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Share of the Week: Animals](https://blog.playstation.com/2022/08/19/share-of-the-week-animals-2/)
- - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)<!-- GAME:END -->
+ - [She-Hulk can’t quite meet its feminist ideals yet](https://www.polygon.com/23311686/she-hulk-feminism-cgi-body-image)
+ - [Trans Twitch Streamer Keffals Now ‘In Hiding’ After Second Dox Attack](https://kotaku.com/keffals-clara-sorrenti-twitch-streamer-trans-doxxing-1849434714)
+ - [HBO renews The Rehearsal, admits it doesn’t know what we’re in for](https://www.polygon.com/23313230/the-rehearsal-season-2-renewed-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
