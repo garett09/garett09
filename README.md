@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds 2 Pro review: to the loyal go the spoils](https://www.theverge.com/23312192/samsung-galaxy-buds-2-pro-review)
- - [Vergecast: Android 13 arrives, Galaxy Watch 5 review, and Instagram gets competitive](https://www.theverge.com/2022/8/19/23312885/android-13-samsung-galaxy-z-fold-4-watch-5-tiktok-instagram-competition-vergecast-podcast)
- - [Six ex-Amazon Care employees criticize the company&#39;s fast and frugal ways, including prioritizing pleasing patients over providing the best standard of care &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/220819/p6#a220819p6)<!-- TECH:END -->
+ - [Nintendo Switch Online Adds Wave Race 64 This Week     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-online-is-adding-wave-race-64-this-week/#ftag=CAD590a51e)
+ - [Best Credit Cards for Shopping on Amazon     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-amazon/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39; Post-Credits Scenes, Loki in Valhalla, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-loki-in-valhalla-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
