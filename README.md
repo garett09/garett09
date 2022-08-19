@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This tree at a cemetery \ud83d\ude2e](http://9gag.com/gag/angLVOV)
- - 🚯 [Me: Everything reminds me of her. Friends: Just take a vacation . The vacation :](http://9gag.com/gag/a919DxL)
- - 🚯 [Pettson &amp; Findus](http://9gag.com/gag/amgEnry)<!-- MEMES:END -->
+ - 🚖 [Child killer](http://9gag.com/gag/ay9OPRp)
+ - 🚯 [Pettson &amp; Findus](http://9gag.com/gag/amgEnry)
+ - 🚯 [Choose wisely](http://9gag.com/gag/avA394Z)<!-- MEMES:END -->
 
 --- 
 
