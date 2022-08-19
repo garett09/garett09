@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Pay’s days might be numbered](https://www.theverge.com/2022/8/19/23313335/fitbit-sense-2-versa-4-google-wallet)
- - [Wayfair lays off 870 people, about 5 percent of its global workforce](https://www.theverge.com/2022/8/19/23313103/wayfair-870-layoffs-boston-retail-furniture-home)
- - [What to watch this weekend &lpar;if you like Pokémon&rpar;](https://www.theverge.com/2022/8/19/23312917/pokemon-worlds-2022-what-to-watch-this-weekend-esports-flame-fatales)<!-- TECH:END -->
+ - [TikTok monitors everything users type when using in-app browser](https://appleinsider.com/articles/22/08/19/tiktok-monitors-everything-users-type-when-using-in-app-browser?utm_medium=rss)
+ - [Zuckerberg responds to the mockery of the Horizon Worlds selfie, saying it was taken quickly to celebrate a launch and promises major updates to avatar graphics &lpar;Patricia Hernandez/Kotaku&rpar;](http://www.techmeme.com/220819/p13#a220819p13)
+ - [Mark Zuckerberg has responded to the metaverse memes](https://www.theverge.com/2022/8/19/23313469/mark-zuckerberg-horizon-worlds-screenshot-memes-response-upgrades)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
