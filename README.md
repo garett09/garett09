@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: get Microsoft Office for Mac Home &amp; Business 2021 for $39.99 &lpar;88% off&rpar;](https://appleinsider.com/articles/22/08/19/flash-deal-get-microsoft-office-for-mac-home-business-2021-for-3999-88-off?utm_medium=rss)
- - [We asked, you told us: You keep at least some of your tech product boxes](https://www.androidauthority.com/tech-product-boxes-poll-results-3198304/)
- - [Ethereum&#39;s core developers have set September 15 as the tentative date for the long-awaited proof-of-stake Merge upgrade &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220819/p1#a220819p1)<!-- TECH:END -->
+ - [Transcription service Otter is making free users pay to access older recordings](https://www.theverge.com/2022/8/19/23312700/otter-transcription-service-free-paid-plans-september-27-changes-features)
+ - [O No, Lenovo doesn’t like Framework’s circular power button](https://www.theverge.com/2022/8/19/23312697/lenovo-framework-laptop-power-button-trademark-infringement)
+ - [Best Gas Can for 2022     - CNET](https://www.cnet.com/roadshow/news/best-gas-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
