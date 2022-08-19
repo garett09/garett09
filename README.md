@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch Online Adds Wave Race 64 This Week     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-online-is-adding-wave-race-64-this-week/#ftag=CAD590a51e)
- - [Best Credit Cards for Shopping on Amazon     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-amazon/#ftag=CAD590a51e)
- - [&#39;Thor: Love and Thunder&#39; Post-Credits Scenes, Loki in Valhalla, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-loki-in-valhalla-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jurassic World is making Peacock its dominion](https://www.theverge.com/2022/8/19/23313100/jurassic-world-dominion-peacock-streaming-exclusive)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [3-Motor Lucid Air Sapphire Super-Sports EV Debuts With Over 1,200 HP     - CNET](https://www.cnet.com/roadshow/news/lucid-air-sapphire-three-motor-ev-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
