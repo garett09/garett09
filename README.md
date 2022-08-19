@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TechCrunch debuts a tool to check if an Android device is one of hundreds of thousands hacked by one of several spyware apps, after its probe into TheTruthSpy &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220819/p2#a220819p2)
- - [Transcription service Otter is making free users pay to access older recordings](https://www.theverge.com/2022/8/19/23312700/otter-transcription-service-free-paid-plans-september-27-changes-features)
- - [Xbox Game Pass Ultimate Review: The Best Content Deal in Gaming     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-review-the-best-content-deal-in-gaming-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Death Stranding arrives on Microsoft’s PC Game Pass service next week](https://www.theverge.com/2022/8/19/23311503/death-stranding-microsoft-pc-game-pass-release)
+ - [How Long Droughts Make Flooding Worse](https://www.wired.com/story/drought-causing-floods/)
+ - [Ads Are Taking Over Streaming, and I Can’t Afford to Look Away](https://www.wired.com/story/advertising-services-devices-rant/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
