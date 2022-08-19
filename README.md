@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hate runs deep](http://9gag.com/gag/aE8LOyG)
- - 🚯 [Or Presidents room](http://9gag.com/gag/a71zpPL)
- - 🚯 [Custom card XD :&rpar;&rpar;](http://9gag.com/gag/aBn7OLZ)<!-- MEMES:END -->
+ - 🚖 [YouTube when realise it.](http://9gag.com/gag/aLvydzV)
+ - 🚯 [Tik to the tok, I got your log](http://9gag.com/gag/aGzW7KK)
+ - 🚯 [Cosplaying on the job](http://9gag.com/gag/aAGoO5g)<!-- MEMES:END -->
 
 --- 
 
