@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold, quickest victim card ever](http://9gag.com/gag/aAGo2Mg)
- - 🚯 [I took mine](http://9gag.com/gag/a21nbPp)
- - 🚯 [So beautiful](http://9gag.com/gag/a919OKD)<!-- MEMES:END -->
+ - 🚖 [Hypertron fights hard](http://9gag.com/gag/ajgoKPg)
+ - 🚯 [So beautiful](http://9gag.com/gag/a919OKD)
+ - 🚯 [Custom card XD :&rpar;&rpar;](http://9gag.com/gag/aBn7OLZ)<!-- MEMES:END -->
 
 --- 
 
