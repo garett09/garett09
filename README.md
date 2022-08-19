@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beast brings back the short, sharp, well-crafted creature feature](https://www.polygon.com/reviews/23311656/beast-review-idris-elba)
- - [Mario Kart Tour goes to Bowser’s castle for its next Tour event](https://www.polygon.com/23312948/mario-kart-tour-bowser-castle-3-event-dates-track)
- - [Details revealed for Kena’s free Anniversary Update, out September 27](https://blog.playstation.com/2022/08/19/details-revealed-for-kenas-free-anniversary-update-out-september-27/)<!-- GAME:END -->
+ - [25 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Share of the Week: Animals](https://blog.playstation.com/2022/08/19/share-of-the-week-animals-2/)
+ - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
