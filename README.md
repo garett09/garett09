@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel Watch could be Google Fi’s first supported smartwatch](https://www.androidauthority.com/google-fi-pixel-watch-3198290/)
  - [Israel-based Agora, which helps real estate investment companies automate back-office processes, has raised a $20M Series A led by Insight Partners &lpar;Philip Russo/Commercial Observer&rpar;](http://www.techmeme.com/220818/p29#a220818p29)
- - [&#39;The Rehearsal&#39; on HBO: Is the Show Real or Scripted?     - CNET](https://www.cnet.com/culture/entertainment/the-rehearsal-on-hbo-is-the-show-real-or-scripted/#ftag=CAD590a51e)
- - [2024 Acura ZDX Will Be the Brand&#39;s First EV     - CNET](https://www.cnet.com/roadshow/news/2024-acura-zdx-type-s-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Rehearsal&#39; on HBO: Is the Show Real or Scripted?     - CNET](https://www.cnet.com/culture/entertainment/the-rehearsal-on-hbo-is-the-show-real-or-scripted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
