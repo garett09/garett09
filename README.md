@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hypertron fights hard](http://9gag.com/gag/ajgoKPg)
- - 🚯 [So beautiful](http://9gag.com/gag/a919OKD)
- - 🚯 [Custom card XD :&rpar;&rpar;](http://9gag.com/gag/aBn7OLZ)<!-- MEMES:END -->
+ - 🚖 [Tom Hanks son `Chet Hanks` just reacts the best possible way to some woke smoothbrain question.](http://9gag.com/gag/a919XAo)
+ - 🚯 [Or Presidents room](http://9gag.com/gag/a71zpPL)
+ - 🚯 [Talent](http://9gag.com/gag/aqGqYrR)<!-- MEMES:END -->
 
 --- 
 
