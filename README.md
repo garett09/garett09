@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daily reminder](http://9gag.com/gag/arnjB9p)
- - 🚯 [Stunt 101](http://9gag.com/gag/aWgw2MK)
- - 🚯 [If you ever wondered how Superman ejaculate. Well here it is](http://9gag.com/gag/angLDXL)<!-- MEMES:END -->
+ - 🚖 [Old but gold, quickest victim card ever](http://9gag.com/gag/aAGo2Mg)
+ - 🚯 [I took mine](http://9gag.com/gag/a21nbPp)
+ - 🚯 [So beautiful](http://9gag.com/gag/a919OKD)<!-- MEMES:END -->
 
 --- 
 
