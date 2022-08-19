@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to prepare for Genshin Impact’s big Sumeru update](https://www.polygon.com/genshin-impact-guides/23311910/update-sumeru-how-to-prepare-hoyoverse)
- - [Apex Legends Casuals Think Pros Are Ruining The Game](https://kotaku.com/apex-legends-casuals-pros-busted-matchmaking-season-14-1849433684)
- - [World of Warcraft&#39;s fated raids fit the &#39;end of expansion&#39; feel perfectly](https://www.pcgamer.com/world-of-warcraft-fated-raids-fit-the-end-of-expansion-feel-perfectly)<!-- GAME:END -->
+ - [Beast brings back the short, sharp, well-crafted creature feature](https://www.polygon.com/reviews/23311656/beast-review-idris-elba)
+ - [Mario Kart Tour goes to Bowser’s castle for its next Tour event](https://www.polygon.com/23312948/mario-kart-tour-bowser-castle-3-event-dates-track)
+ - [Details revealed for Kena’s free Anniversary Update, out September 27](https://blog.playstation.com/2022/08/19/details-revealed-for-kenas-free-anniversary-update-out-september-27/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
