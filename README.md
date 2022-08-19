@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kickstarter Game Goes Bust Gambling On Crypto, Can&#39;t Refund Backers](https://kotaku.com/untamed-isles-pokemon-crypto-kickstarter-refund-1849431961)
- - [Embracer report suggests the KOTOR remake isn&#39;t delayed after all](https://www.pcgamer.com/embracer-report-suggests-the-kotor-remake-isnt-delayed-after-all)
- - [Farthest Frontier: How to get heavy tools in the new survival city builder](https://www.pcgamer.com/farthest-frontier-heavy-tools-guide)<!-- GAME:END -->
+ - [Today&#39;s Wordle 426 answer and hint: Friday, August 19](https://www.pcgamer.com/todays-wordle-426-answer-hint)
+ - [Surprise! Netflix’s The Sandman adapted your favorite issue &lpar;and you can watch it now&rpar;](https://www.polygon.com/23289083/sandman-2022-netflix-eleventh-episode-secret)
+ - [Kickstarter Game Goes Bust Gambling On Crypto, Can&#39;t Refund Backers](https://kotaku.com/untamed-isles-pokemon-crypto-kickstarter-refund-1849431961)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
