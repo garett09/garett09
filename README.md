@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/apgWVr8)
- - 🚯 [Cosplaying on the job](http://9gag.com/gag/aAGoO5g)
- - 🚯 [Drought on the Yangtze](http://9gag.com/gag/aze0YpZ)<!-- MEMES:END -->
+ - 🚖 [One of the best watch with less dialogues and a lot of action and expressions, Mel Gibson, good work](http://9gag.com/gag/aYr2R22)
+ - 🚯 [Choose wisely](http://9gag.com/gag/avA394Z)
+ - 🚯 [Take a joke, fellow dimwits](http://9gag.com/gag/aPZKrQQ)<!-- MEMES:END -->
 
 --- 
 
