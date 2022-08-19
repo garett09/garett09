@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg Responds To Graphics Backlash, Promises Metaverse Won&#39;t Be Depressing To Look At](https://kotaku.com/meta-mark-zuckerberg-facebook-horizon-worlds-graphics-1849435467)
- - [The Black Phone, Orphan: First Kill, and every other new movie you can stream from home this weekend](https://www.polygon.com/23308264/new-movies-watch-black-phone-orphan-first-kill-netflix-look-both-ways-vikram-streaming)
- - [Dragon Ball Z Voice Actor Accused Of Sexual Harassment May Have To Pay More Legal Costs Now](https://kotaku.com/vic-mignogna-lawsuit-dragon-ball-z-funimation-court-1849435479)<!-- GAME:END -->
+ - [Mark Zuckerberg updates his metaverse avatar to look slightly more human](https://www.polygon.com/23313564/mark-zuckerberg-metaverse-horizon-worlds-graphics-update)
+ - [A retro publisher is updating Ikki, which literally defined the bad yet fun game](https://www.pcgamer.com/a-retro-publisher-is-updating-ikki-which-literally-defined-the-bad-yet-fun-game)
+ - [Mark Zuckerberg Responds To Graphics Backlash, Promises Metaverse Won&#39;t Be Depressing To Look At](https://kotaku.com/meta-mark-zuckerberg-facebook-horizon-worlds-graphics-1849435467)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
