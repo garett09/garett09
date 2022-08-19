@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spending two weeks behind enemy lines in Metal Gear Solid 5](https://www.pcgamer.com/spending-two-weeks-behind-enemy-lines-in-metal-gear-solid-5)
- - [Quake Champions has left Steam Early Access](https://www.pcgamer.com/quake-champions-has-left-steam-early-access)
- - [Today&#39;s Wordle 426 answer and hint: Friday, August 19](https://www.pcgamer.com/todays-wordle-426-answer-hint)<!-- GAME:END -->
+ - [Tomorrow Is in Your Hands: Death Stranding Available August 23 with PC Game Pass](https://news.xbox.com/en-us/2022/08/19/death-stranding-available-august-23-with-pc-game-pass/)
+ - [Saints Row full PC system requirements revealed](https://www.pcgamer.com/saints-row-full-pc-system-requirements-revealed)
+ - [Spending two weeks behind enemy lines in Metal Gear Solid 5](https://www.pcgamer.com/spending-two-weeks-behind-enemy-lines-in-metal-gear-solid-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
