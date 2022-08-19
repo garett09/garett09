@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Power Up Anywhere With the Best Travel Adapters](https://www.wired.com/gallery/best-travel-adapters/)
- - [How to reprogram the Samsung Galaxy Watch 5’s buttons](https://www.theverge.com/23311271/samsung-galaxy-watch-5-bixby-google-assistant-how-to)
- - [Just Eat sells its 33% stake in Latin American joint venture iFood to Prosus for $1.8B; Prosus will now fully own the Brazilian food delivery company &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220819/p5#a220819p5)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 2 Pro review: to the loyal go the spoils](https://www.theverge.com/23312192/samsung-galaxy-buds-2-pro-review)
+ - [Vergecast: Android 13 arrives, Galaxy Watch 5 review, and Instagram gets competitive](https://www.theverge.com/2022/8/19/23312885/android-13-samsung-galaxy-z-fold-4-watch-5-tiktok-instagram-competition-vergecast-podcast)
+ - [Six ex-Amazon Care employees criticize the company&#39;s fast and frugal ways, including prioritizing pleasing patients over providing the best standard of care &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/220819/p6#a220819p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
