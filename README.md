@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Architectural honeycomb Serena Shades by Lutron review: A great HomeKit addition](https://appleinsider.com/articles/22/08/19/architectural-honeycomb-serena-shades-by-lutron-review-a-great-homekit-addition?utm_medium=rss)
- - [&#39;The Sandman&#39; Ending Explained: The Vortex, Surprise Episodes and Season 2     - CNET](https://www.cnet.com/culture/entertainment/the-sandman-ending-explained-vortex-season-2-episode-11/#ftag=CAD590a51e)
- - [Patent Attorney Breaks Down Apple&#39;s Car Patents &lpar;VIDEO&rpar;     - CNET](https://www.cnet.com/tech/patent-attorney-breaks-down-apples-car-patents-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals August 19: Apple Magic Keyboard for $75, $150 off M2 MacBook Pro, 88% off Microsoft Office, more](https://appleinsider.com/articles/22/08/19/daily-deals-august-19-apple-magic-keyboard-for-75-150-off-m2-macbook-pro-88-off-microsoft-office-more?utm_medium=rss)
+ - [How a viral NFT project survived the crypto crash](https://www.theverge.com/23312790/loot-dom-hofmann-nft-project-developer-community)
+ - [Amazon’s Fire TV Stick 4K Max is nearly matching its Prime Day pricing](https://www.theverge.com/good-deals/2022/8/19/23311387/amazon-fire-tv-stick-4k-max-echo-buds-hbo-streaming-ring-alarm-pro-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
