@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mining at home](http://9gag.com/gag/aRrYDwj)
- - 🚯 [Facts](http://9gag.com/gag/a71znZe)
- - 🚯 [Back in the days when auditions were weird](http://9gag.com/gag/aPZKrvq)<!-- MEMES:END -->
+ - 🚖 [This tree at a cemetery \ud83d\ude2e](http://9gag.com/gag/angLVOV)
+ - 🚯 [Me: Everything reminds me of her. Friends: Just take a vacation . The vacation :](http://9gag.com/gag/a919DxL)
+ - 🚯 [Pettson &amp; Findus](http://9gag.com/gag/amgEnry)<!-- MEMES:END -->
 
 --- 
 
