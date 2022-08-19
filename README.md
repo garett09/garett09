@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [YouTube when realise it.](http://9gag.com/gag/aLvydzV)
- - 🚯 [Tik to the tok, I got your log](http://9gag.com/gag/aGzW7KK)
- - 🚯 [Cosplaying on the job](http://9gag.com/gag/aAGoO5g)<!-- MEMES:END -->
+ - 🚖 [Cool guy](http://9gag.com/gag/aDDEOXG)
+ - 🚯 [Cosplaying on the job](http://9gag.com/gag/aAGoO5g)
+ - 🚯 [Drought on the Yangtze](http://9gag.com/gag/aze0YpZ)<!-- MEMES:END -->
 
 --- 
 
