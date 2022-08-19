@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Detroit: Become Human becomes 2½ times better when you edit in Leslie Nielsen](https://www.pcgamer.com/detroit-become-human-becomes-2-times-better-when-you-edit-in-leslie-nielsen)
- - [Metal Gear Solid VR Mod Would Break Even Hideo Kojima’s Brain](https://kotaku.com/metal-gear-solid-mod-vr-boneworks-vr-solid-snake-kojima-1849431217)
- - [That tactics game about farting donkey doodles is coming this winter](https://www.pcgamer.com/that-tactics-game-about-farting-donkey-doodles-is-coming-this-winter)<!-- GAME:END -->
+ - [Kickstarter Game Goes Bust Gambling On Crypto, Can&#39;t Refund Backers](https://kotaku.com/untamed-isles-pokemon-crypto-kickstarter-refund-1849431961)
+ - [Embracer report suggests the KOTOR remake isn&#39;t delayed after all](https://www.pcgamer.com/embracer-report-suggests-the-kotor-remake-isnt-delayed-after-all)
+ - [Farthest Frontier: How to get heavy tools in the new survival city builder](https://www.pcgamer.com/farthest-frontier-heavy-tools-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
