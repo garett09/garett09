@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the best watch with less dialogues and a lot of action and expressions, Mel Gibson, good work](http://9gag.com/gag/aYr2R22)
- - 🚯 [Choose wisely](http://9gag.com/gag/avA394Z)
- - 🚯 [Take a joke, fellow dimwits](http://9gag.com/gag/aPZKrQQ)<!-- MEMES:END -->
+ - 🚖 [Me: Everything reminds me of her. Friends: Just take a vacation . The vacation :](http://9gag.com/gag/a919DxL)
+ - 🚯 [Take a joke, fellow dimwits](http://9gag.com/gag/aPZKrQQ)
+ - 🚯 [Duck woke.](http://9gag.com/gag/aggPKvg)<!-- MEMES:END -->
 
 --- 
 
