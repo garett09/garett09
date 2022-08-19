@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Naraka: Bladepoint Rolls Out Huge Updates Including a New Map and Hero](https://news.xbox.com/en-us/2022/08/19/naraka-bladepoint-rolls-out-huge-updates-including-a-new-map-and-hero/)
- - [Boneraiser Minions gives the Diablo Necromancer fantasy a roguelike twist](https://www.pcgamer.com/boneraiser-minions-gives-the-diablo-necromancer-fantasy-a-roguelike-twist)
- - [She-Hulk can’t quite meet its feminist ideals yet](https://www.polygon.com/23311686/she-hulk-feminism-cgi-body-image)<!-- GAME:END -->
+ - [This Week on Xbox: New Releases, Updates, and Games](https://news.xbox.com/en-us/2022/08/19/this-week-on-xbox-new-releases-updates-and-games/)
+ - [Ooblets is oobing its full 1.00B release in Septoobler](https://www.pcgamer.com/ooblets-is-oobing-its-full-100b-release-in-septoobler)
+ - [Netflix’s multiverse fantasy Look Both Ways has the exact wrong message for the moment](https://www.polygon.com/reviews/23310459/look-both-ways-review-netflix-multiverse-fantasy-lili-reinhart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
