@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg updates his metaverse avatar to look slightly more human](https://www.polygon.com/23313564/mark-zuckerberg-metaverse-horizon-worlds-graphics-update)
- - [A retro publisher is updating Ikki, which literally defined the bad yet fun game](https://www.pcgamer.com/a-retro-publisher-is-updating-ikki-which-literally-defined-the-bad-yet-fun-game)
- - [Mark Zuckerberg Responds To Graphics Backlash, Promises Metaverse Won&#39;t Be Depressing To Look At](https://kotaku.com/meta-mark-zuckerberg-facebook-horizon-worlds-graphics-1849435467)<!-- GAME:END -->
+ - [It&#39;s probably already too late to clean up your gaming habits for Steam&#39;s upcoming &#39;year in review&#39;](https://www.pcgamer.com/its-probably-already-too-late-to-clean-up-your-gaming-habits-for-steams-upcoming-year-in-review)
+ - [The new Dragon Ball Super movie flashes back to the series’ classic era](https://www.polygon.com/reviews/23191578/dragon-ball-super-super-hero-review-piccolo-gohan)
+ - [Kena: Bridge of Spirits Steam release will include a big anniversary update](https://www.pcgamer.com/kena-bridge-of-spirits-steam-release-includes-big-anniversary-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
