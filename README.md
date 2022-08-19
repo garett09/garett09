@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool guy](http://9gag.com/gag/aDDEOXG)
+ - 🚖 [Facts](http://9gag.com/gag/apgWVr8)
  - 🚯 [Cosplaying on the job](http://9gag.com/gag/aAGoO5g)
  - 🚯 [Drought on the Yangtze](http://9gag.com/gag/aze0YpZ)<!-- MEMES:END -->
 
