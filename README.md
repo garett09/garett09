@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me: Everything reminds me of her. Friends: Just take a vacation . The vacation :](http://9gag.com/gag/a919DxL)
- - 🚯 [Take a joke, fellow dimwits](http://9gag.com/gag/aPZKrQQ)
- - 🚯 [Duck woke.](http://9gag.com/gag/aggPKvg)<!-- MEMES:END -->
+ - 🚖 [Mining at home](http://9gag.com/gag/aRrYDwj)
+ - 🚯 [Facts](http://9gag.com/gag/a71znZe)
+ - 🚯 [Back in the days when auditions were weird](http://9gag.com/gag/aPZKrvq)<!-- MEMES:END -->
 
 --- 
 
