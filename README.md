@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch could be Google Fi’s first supported smartwatch](https://www.androidauthority.com/google-fi-pixel-watch-3198290/)
- - [Israel-based Agora, which helps real estate investment companies automate back-office processes, has raised a $20M Series A led by Insight Partners &lpar;Philip Russo/Commercial Observer&rpar;](http://www.techmeme.com/220818/p29#a220818p29)
- - [&#39;The Rehearsal&#39; on HBO: Is the Show Real or Scripted?     - CNET](https://www.cnet.com/culture/entertainment/the-rehearsal-on-hbo-is-the-show-real-or-scripted/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ethereum&#39;s core developers have set September 15 as the tentative date for the long-awaited proof-of-stake Merge upgrade &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220819/p1#a220819p1)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: August 19&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [The Pixel Watch could be Google Fi’s first supported smartwatch](https://www.androidauthority.com/google-fi-pixel-watch-3198290/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
