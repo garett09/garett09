@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals August 19: Apple Magic Keyboard for $75, $150 off M2 MacBook Pro, 88% off Microsoft Office, more](https://appleinsider.com/articles/22/08/19/daily-deals-august-19-apple-magic-keyboard-for-75-150-off-m2-macbook-pro-88-off-microsoft-office-more?utm_medium=rss)
- - [How a viral NFT project survived the crypto crash](https://www.theverge.com/23312790/loot-dom-hofmann-nft-project-developer-community)
- - [Amazon’s Fire TV Stick 4K Max is nearly matching its Prime Day pricing](https://www.theverge.com/good-deals/2022/8/19/23311387/amazon-fire-tv-stick-4k-max-echo-buds-hbo-streaming-ring-alarm-pro-deal-sale)<!-- TECH:END -->
+ - [Power Up Anywhere With the Best Travel Adapters](https://www.wired.com/gallery/best-travel-adapters/)
+ - [How to reprogram the Samsung Galaxy Watch 5’s buttons](https://www.theverge.com/23311271/samsung-galaxy-watch-5-bixby-google-assistant-how-to)
+ - [Just Eat sells its 33% stake in Latin American joint venture iFood to Prosus for $1.8B; Prosus will now fully own the Brazilian food delivery company &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220819/p5#a220819p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
