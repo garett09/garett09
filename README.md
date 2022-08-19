@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jurassic World is making Peacock its dominion](https://www.theverge.com/2022/8/19/23313100/jurassic-world-dominion-peacock-streaming-exclusive)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [3-Motor Lucid Air Sapphire Super-Sports EV Debuts With Over 1,200 HP     - CNET](https://www.cnet.com/roadshow/news/lucid-air-sapphire-three-motor-ev-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sega reveals every game coming to the Genesis Mini 2, including the controversial Night Trap](https://www.theverge.com/2022/8/19/23313151/sega-genesis-mini-2-game-list-night-trap-sonic)
+ - [Twitter bans Florida Republican for encouraging the killing of federal agents](https://www.theverge.com/2022/8/19/23313161/luis-miguel-florida-republican-twitter-ban-threats-fbi-irs-incitement)
+ - [Save $160 on the Galaxy Tab S8 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
