@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Child killer](http://9gag.com/gag/ay9OPRp)
- - 🚯 [Pettson &amp; Findus](http://9gag.com/gag/amgEnry)
- - 🚯 [Choose wisely](http://9gag.com/gag/avA394Z)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s put a smile on that face.](http://9gag.com/gag/aAGoZq0)
+ - 🚯 [Choose wisely](http://9gag.com/gag/avA394Z)
+ - 🚯 [What an amazing transformation.](http://9gag.com/gag/aggPjeK)<!-- MEMES:END -->
 
 --- 
 
