@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Talking with the Creative Force Behind the Upcoming Gungrave G.O.R.E.](https://news.xbox.com/en-us/2022/08/19/talking-with-the-creative-force-behind-the-upcoming-gungrave-g-o-r-e/)
- - [Sega Genesis Mini 2’s full game lineup revealed](https://www.polygon.com/23312308/sega-genesis-mini-2-full-games-list-release-date)
- - [Death Stranding comes to PC Game Pass next week](https://www.polygon.com/23312815/death-stranding-xbox-game-pass-pc-release-date)<!-- GAME:END -->
+ - [Embalming corpses in The Mortuary Assistant is oddly satisfying](https://www.pcgamer.com/embalming-corpses-in-the-mortuary-assistant-is-oddly-satisfying)
+ - [The evolution of the Yakuza series](https://blog.playstation.com/2022/08/19/the-evolution-of-the-yakuza-series/)
+ - [The evolution of the Yakuza series](https://blog.playstation.com/2022/08/19/the-evolution-of-the-yakuza-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
