@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk can’t quite meet its feminist ideals yet](https://www.polygon.com/23311686/she-hulk-feminism-cgi-body-image)
- - [Trans Twitch Streamer Keffals Now ‘In Hiding’ After Second Dox Attack](https://kotaku.com/keffals-clara-sorrenti-twitch-streamer-trans-doxxing-1849434714)
- - [HBO renews The Rehearsal, admits it doesn’t know what we’re in for](https://www.polygon.com/23313230/the-rehearsal-season-2-renewed-hbo)<!-- GAME:END -->
+ - [Naraka: Bladepoint Rolls Out Huge Updates Including a New Map and Hero](https://news.xbox.com/en-us/2022/08/19/naraka-bladepoint-rolls-out-huge-updates-including-a-new-map-and-hero/)
+ - [Boneraiser Minions gives the Diablo Necromancer fantasy a roguelike twist](https://www.pcgamer.com/boneraiser-minions-gives-the-diablo-necromancer-fantasy-a-roguelike-twist)
+ - [She-Hulk can’t quite meet its feminist ideals yet](https://www.polygon.com/23311686/she-hulk-feminism-cgi-body-image)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
