@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Embalming corpses in The Mortuary Assistant is oddly satisfying](https://www.pcgamer.com/embalming-corpses-in-the-mortuary-assistant-is-oddly-satisfying)
- - [The evolution of the Yakuza series](https://blog.playstation.com/2022/08/19/the-evolution-of-the-yakuza-series/)
- - [The evolution of the Yakuza series](https://blog.playstation.com/2022/08/19/the-evolution-of-the-yakuza-series/)<!-- GAME:END -->
+ - [How to prepare for Genshin Impact’s big Sumeru update](https://www.polygon.com/genshin-impact-guides/23311910/update-sumeru-how-to-prepare-hoyoverse)
+ - [Apex Legends Casuals Think Pros Are Ruining The Game](https://kotaku.com/apex-legends-casuals-pros-busted-matchmaking-season-14-1849433684)
+ - [World of Warcraft&#39;s fated raids fit the &#39;end of expansion&#39; feel perfectly](https://www.pcgamer.com/world-of-warcraft-fated-raids-fit-the-end-of-expansion-feel-perfectly)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
