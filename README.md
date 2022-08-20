@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group COO and CFO Gary Swidler says sign-ups on Tinder &quot;have not returned back to pre-pandemic levels&quot; and &quot;new users remain a challenge&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220820/p2#a220820p2)
  - [The House Oversight Committee demands data from eight social media firms about their response to online threats against law enforcement after Mar-a-Lago search &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220820/p1#a220820p1)
- - [iPhone 14 vs. iPhone 13: Selfie Cameras May Get Biggest Overhaul in Years     - CNET](https://www.cnet.com/tech/mobile/iphone-14-vs-iphone-13-selfie-cameras-may-get-biggest-overhaul-in-years/#ftag=CAD590a51e)
- - [The US House approved a budget amendment in July requiring the DoD to disclose smartphone or web browsing data purchases; Senate still needs to approve it &lpar;Dell Cameron/Gizmodo&rpar;](http://www.techmeme.com/220819/p16#a220819p16)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Review: It&#39;ll Let You Love &#39;GoT&#39; Again     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-review-itll-let-you-love-got-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
