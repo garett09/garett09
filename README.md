@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eyes on the work please](http://9gag.com/gag/avA34Vd)
- - 🚯 [The prequels were great, hate if you want](http://9gag.com/gag/aBn7jjx)
- - 🚯 [Cheating on your barber](http://9gag.com/gag/a81BvWO)<!-- MEMES:END -->
+ - 🚖 [The prequels were great, hate if you want](http://9gag.com/gag/aBn7jjx)
+ - 🚯 [Eyes on the work please](http://9gag.com/gag/avA34Vd)
+ - 🚯 [Resist!](http://9gag.com/gag/aze0vPm)<!-- MEMES:END -->
 
 --- 
 
