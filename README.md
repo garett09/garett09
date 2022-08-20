@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What an amazing transformation.](http://9gag.com/gag/aggPjeK)
- - 🚯 [Rick Raptorolled Use it with caution](http://9gag.com/gag/a11GqRP)
- - 🚯 [It&#39;s the best way to be](http://9gag.com/gag/a21nxYY)<!-- MEMES:END -->
+ - 🚖 [Any sax fans out there?](http://9gag.com/gag/a71z6Pw)
+ - 🚯 [Never forgot what&#39;s really important in your life!](http://9gag.com/gag/apgWjN5)
+ - 🚯 [He can&#39;t keep getting away with it !](http://9gag.com/gag/aDDErdx)<!-- MEMES:END -->
 
 --- 
 
