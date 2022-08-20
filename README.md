@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Y&#39;all seen this fashion police game where you shoot people with a sewing machine?](https://www.pcgamer.com/yall-seen-this-fashion-police-game-where-you-shoot-people-with-a-sewing-machine)
  - [Our favorite dragons from movies and TV](https://www.polygon.com/entertainment/23308296/best-dragons-movies-tv-anime-list)
- - [The Fake Game Taking Over The Batman Arkham Fandom, Explained](https://kotaku.com/batman-arkham-world-spider-man-gotham-knights-wb-1849436007)
- - [One day consoles will have a &#39;giant AI chip and all the games will be dreams&#39;](https://www.pcgamer.com/ai-image-generator-discord-bot-midjourney-founder-interview)<!-- GAME:END -->
+ - [The Fake Game Taking Over The Batman Arkham Fandom, Explained](https://kotaku.com/batman-arkham-world-spider-man-gotham-knights-wb-1849436007)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
