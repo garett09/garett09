@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reported Days Gone movie in the works, starring the guy from Outlander](https://www.pcgamer.com/reported-days-gone-movie-in-the-works-starring-the-guy-from-outlander)
  - [Which animals make the best movie monsters?](https://www.polygon.com/what-to-watch/23306746/animal-movies-horror-thriller-list-best-creature-features)
- - [The DioField Chronicle is a tactical RPG that goes off the grid](https://www.polygon.com/23313097/square-enix-diofield-chronicle-demo-preview)<!-- GAME:END -->
+ - [The DioField Chronicle is a tactical RPG that goes off the grid](https://www.polygon.com/23313097/square-enix-diofield-chronicle-demo-preview)
+ - [Y&#39;all seen this fashion police game where you shoot people with a sewing machine?](https://www.pcgamer.com/yall-seen-this-fashion-police-game-where-you-shoot-people-with-a-sewing-machine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
