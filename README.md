@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eyes on the work please](http://9gag.com/gag/avA34Vd)
- - 🚯 [Choo choo motherf**kers](http://9gag.com/gag/aze0v7p)
- - 🚯 [Puyol loved the game](http://9gag.com/gag/aQX0B8z)<!-- MEMES:END -->
+ - 🚖 [Cheating on your barber](http://9gag.com/gag/a81BvWO)
+ - 🚯 [He can&#39;t keep getting away with it !](http://9gag.com/gag/aDDErdx)
+ - 🚯 [Eyes on the work please](http://9gag.com/gag/avA34Vd)<!-- MEMES:END -->
 
 --- 
 
