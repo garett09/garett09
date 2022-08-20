@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 tips and tricks: 7 things you didn’t know the PlayStation 5 could do](https://www.androidauthority.com/ps5-tips-and-tricks-3193338/)
- - [FTX’s money isn’t insured, FDIC says](https://www.theverge.com/2022/8/20/23314401/ftx-money-isnt-insured-fdic-sam-bankman-fried-crypto-cease-and-desist)
- - [JPMorgan: Tether, Circle, and other stablecoin issuers now hold $80b of short-term US government debt, accounting for 2% of the Treasury bills market as of May &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220820/p10#a220820p10)<!-- TECH:END -->
+ - [How Georgia State University and other schools are using apps and AI chatbots to help attract students, guide them through graduation, and launch their careers &lpar;Beth DeCarbo/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p11#a220820p11)
+ - [Apple CFO Luca Maestri sells shares worth $16.9M](https://appleinsider.com/articles/22/08/20/apple-cfo-luca-maestri-sells-shares-worth-169m?utm_medium=rss)
+ - [PS5 tips and tricks: 7 things you didn’t know the PlayStation 5 could do](https://www.androidauthority.com/ps5-tips-and-tricks-3193338/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
