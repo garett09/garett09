@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan: Tether, Circle, and other stablecoin issuers now hold $80b of short-term US government debt, accounting for 2% of the Treasury bills market as of May &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220820/p10#a220820p10)
- - [Samsung Galaxy Watch 5 Pro review: Ready for adventure](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-review-3196465/)
- - [Bask in the Ludicrousness of the McLaren Solus GT     - CNET](https://www.cnet.com/roadshow/pictures/mclaren-solus-gt-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PS5 tips and tricks: 7 things you didn’t know the PlayStation 5 could do](https://www.androidauthority.com/ps5-tips-and-tricks-3193338/)
+ - [FTX’s money isn’t insured, FDIC says](https://www.theverge.com/2022/8/20/23314401/ftx-money-isnt-insured-fdic-sam-bankman-fried-crypto-cease-and-desist)
+ - [JPMorgan: Tether, Circle, and other stablecoin issuers now hold $80b of short-term US government debt, accounting for 2% of the Treasury bills market as of May &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220820/p10#a220820p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
