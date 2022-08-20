@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thinly sliced cucumber](http://9gag.com/gag/aVxN4DP)
- - 🚯 [No offense](http://9gag.com/gag/aRrY9jA)
- - 🚯 [Is funny because is true](http://9gag.com/gag/aGzW6w5)<!-- MEMES:END -->
+ - 🚖 [Eyes on the work please](http://9gag.com/gag/avA34Vd)
+ - 🚯 [Choo choo motherf**kers](http://9gag.com/gag/aze0v7p)
+ - 🚯 [Puyol loved the game](http://9gag.com/gag/aQX0B8z)<!-- MEMES:END -->
 
 --- 
 
