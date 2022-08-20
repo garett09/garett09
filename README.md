@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s probably already too late to clean up your gaming habits for Steam&#39;s upcoming &#39;year in review&#39;](https://www.pcgamer.com/its-probably-already-too-late-to-clean-up-your-gaming-habits-for-steams-upcoming-year-in-review)
- - [The new Dragon Ball Super movie flashes back to the series’ classic era](https://www.polygon.com/reviews/23191578/dragon-ball-super-super-hero-review-piccolo-gohan)
- - [Kena: Bridge of Spirits Steam release will include a big anniversary update](https://www.pcgamer.com/kena-bridge-of-spirits-steam-release-includes-big-anniversary-update)<!-- GAME:END -->
+ - [This lo-fi horror game basically has you playing an extra in the X-Files](https://www.pcgamer.com/this-lo-fi-horror-game-basically-has-you-playing-an-extra-in-the-x-files)
+ - [The least likable developer on Steam may have hit the limit of its permissive moderation](https://www.pcgamer.com/the-least-likable-developer-on-steam-may-have-hit-the-limit-of-its-permissive-moderation)
+ - [It&#39;s probably already too late to clean up your gaming habits for Steam&#39;s upcoming &#39;year in review&#39;](https://www.pcgamer.com/its-probably-already-too-late-to-clean-up-your-gaming-habits-for-steams-upcoming-year-in-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
