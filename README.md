@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Any sax fans out there?](http://9gag.com/gag/a71z6Pw)
- - 🚯 [Never forgot what&#39;s really important in your life!](http://9gag.com/gag/apgWjN5)
- - 🚯 [He can&#39;t keep getting away with it !](http://9gag.com/gag/aDDErdx)<!-- MEMES:END -->
+ - 🚯 [Back when the MCU wasn&#39;t just jokes and farts and actually made you care about the characters](http://9gag.com/gag/a919NRD)
+ - 🚯 [Is funny because is true](http://9gag.com/gag/aGzW6w5)<!-- MEMES:END -->
 
 --- 
 
