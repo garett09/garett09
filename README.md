@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked financials: FTX had revenue of $1.02B in 2021, up from $89M in 2020; operating income grew from $14M to $272M; US accounted for less than 5% of revenue &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/220820/p9#a220820p9)
- - [DoorDash won’t deliver Walmart’s groceries starting next month](https://www.theverge.com/2022/8/20/23314257/doordash-walmart-groceries-end-partnership-deliveries)
- - [UK&#39;s ruling Conservative Party is offering its 160K members the option to vote online in a leadership election to decide the country&#39;s next prime minister &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p8#a220820p8)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 Pro review: Ready for adventure](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-review-3196465/)
+ - [Lululook iPad mini 6 Magnetic Keyboard Case review: Tough typing can&#39;t be offset by miniature novelty](https://appleinsider.com/articles/22/08/20/lululook-ipad-mini-6-magnetic-keyboard-case-review-tough-typing-cant-be-offset-by-miniature-novelty?utm_medium=rss)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
