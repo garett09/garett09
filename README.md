@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 427 answer and hint: Saturday, August 20](https://www.pcgamer.com/todays-wordle-427-answer-hint)
- - [This lo-fi horror game basically has you playing an extra in the X-Files](https://www.pcgamer.com/this-lo-fi-horror-game-basically-has-you-playing-an-extra-in-the-x-files)
- - [The least likable developer on Steam may have hit the limit of its permissive moderation](https://www.pcgamer.com/the-least-likable-developer-on-steam-may-have-hit-the-limit-of-its-permissive-moderation)<!-- GAME:END -->
+ - [Our favorite dragons from movies and TV](https://www.polygon.com/entertainment/23308296/best-dragons-movies-tv-anime-list)
+ - [The Fake Game Taking Over The Batman Arkham Fandom, Explained](https://kotaku.com/batman-arkham-world-spider-man-gotham-knights-wb-1849436007)
+ - [One day consoles will have a &#39;giant AI chip and all the games will be dreams&#39;](https://www.pcgamer.com/ai-image-generator-discord-bot-midjourney-founder-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
