@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Apple retail employee auctions &#39;Sam Sung&#39; business card for charity](https://appleinsider.com/articles/22/08/20/former-apple-retail-employee-auctions-sam-sung-business-card-for-charity?utm_medium=rss)
- - [YouTube removes video that tests Tesla’s Full Self-Driving beta against real kids](https://www.theverge.com/2022/8/20/23314117/youtube-tesla-removes-video-full-self-driving-beta-real-kids)
- - [Save $300 on a 14-inch Chromebook From HP, Bringing the Price to Just $399     - CNET](https://www.cnet.com/deals/save-300-on-a-14-inch-chromebook-from-hp-bringing-the-price-to-just-399/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DoorDash won’t deliver Walmart’s groceries starting next month](https://www.theverge.com/2022/8/20/23314257/doordash-walmart-groceries-end-partnership-deliveries)
+ - [UK&#39;s ruling Conservative Party is offering its 160K members the option to vote online in a leadership election to decide the country&#39;s next prime minister &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p8#a220820p8)
+ - [What is Amazon Music? Here’s everything you need to know in 2022](https://www.androidauthority.com/what-is-amazon-music-3196266/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
