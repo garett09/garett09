@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop using BeReal like Instagram](https://www.theverge.com/2022/8/20/23313295/bereal-instagram-app-curation-change)
- - [Daily deals August 20: $60 off Apple TV 4K, $100 off Samsung M8 32-inch Smart Monitor, $140 off SanDisk 1TB Extreme Portable SSD, more](https://appleinsider.com/articles/22/08/20/daily-deals-august-20-60-off-apple-tv-4k-100-off-samsung-m8-32-inch-smart-monitor-140-off-sandisk-1tb-extreme-portable-ssd-more?utm_medium=rss)
- - [A decade later, Samsung deserves to be the “face of Android”](https://www.androidauthority.com/samsung-android-3195237/)<!-- TECH:END -->
+ - [YouTube removes video that tests Tesla’s Full Self-Driving beta against real kids](https://www.theverge.com/2022/8/20/23314117/youtube-tesla-removes-video-full-self-driving-beta-real-kids)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-446-3198175/)
+ - [Lloyd&#39;s of London will require insurer groups in its global marketplace to exclude state-backed hacks from stand-alone cyber insurance policies starting in 2023 &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p7#a220820p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
