@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [He was talking shit about the police on Chinese social media. He was arrested and interrogated. Be thankful for your freedom.](http://9gag.com/gag/aOQXOqM)
- - 🚯 [It&#39;s all connected](http://9gag.com/gag/aggPbpx)
+ - 🚯 [Dude become Electro with a little blessing from Jesus](http://9gag.com/gag/aLvy3Bx)
  - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)<!-- MEMES:END -->
 
 --- 
