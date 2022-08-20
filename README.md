@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daddy chill](http://9gag.com/gag/aGzWr80)
- - 🚯 [He was talking shit about the police on Chinese social media. He was arrested and interrogated. Be thankful for your freedom.](http://9gag.com/gag/aOQXOqM)
+ - 🚖 [He was talking shit about the police on Chinese social media. He was arrested and interrogated. Be thankful for your freedom.](http://9gag.com/gag/aOQXOqM)
+ - 🚯 [It&#39;s all connected](http://9gag.com/gag/aggPbpx)
  - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)<!-- MEMES:END -->
 
 --- 
