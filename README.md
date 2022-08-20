@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheating on your barber](http://9gag.com/gag/a81BvWO)
- - 🚯 [He can&#39;t keep getting away with it !](http://9gag.com/gag/aDDErdx)
- - 🚯 [Eyes on the work please](http://9gag.com/gag/avA34Vd)<!-- MEMES:END -->
+ - 🚖 [Eyes on the work please](http://9gag.com/gag/avA34Vd)
+ - 🚯 [The prequels were great, hate if you want](http://9gag.com/gag/aBn7jjx)
+ - 🚯 [Cheating on your barber](http://9gag.com/gag/a81BvWO)<!-- MEMES:END -->
 
 --- 
 
