@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheating on your barber](http://9gag.com/gag/a81BvWO)
- - 🚯 [Good question](http://9gag.com/gag/aM4300R)
- - 🚯 [Kyiv expo from another angle](http://9gag.com/gag/aQX0D58)<!-- MEMES:END -->
+ - 🚖 [I have found her! Not expected that place tho](http://9gag.com/gag/aRrY8YA)
+ - 🚯 [He was talking shit about the police on Chinese social media. He was arrested and interrogated. Be thankful for your freedom.](http://9gag.com/gag/aOQXOqM)
+ - 🚯 [Thanks brotha](http://9gag.com/gag/aVxN9WO)<!-- MEMES:END -->
 
 --- 
 
