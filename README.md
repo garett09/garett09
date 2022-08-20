@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Choo choo motherf**kers](http://9gag.com/gag/aze0v7p)
- - 🚯 [Japanese Commercial of DnD](http://9gag.com/gag/angL83z)
- - 🚯 [Cheating on your barber](http://9gag.com/gag/a81BvWO)<!-- MEMES:END -->
+ - 🚖 [Cheating on your barber](http://9gag.com/gag/a81BvWO)
+ - 🚯 [Good question](http://9gag.com/gag/aM4300R)
+ - 🚯 [Kyiv expo from another angle](http://9gag.com/gag/aQX0D58)<!-- MEMES:END -->
 
 --- 
 
