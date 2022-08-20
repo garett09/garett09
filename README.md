@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But I have to watch it. I don&#39;t care that much about human rights.](http://9gag.com/gag/amgEQYo)
+ - 🚖 [Asdfghjkl](http://9gag.com/gag/aOQXEg6)
  - 🚯 [Old Games](http://9gag.com/gag/aZrG51W)
- - 🚯 [What a f**king joke](http://9gag.com/gag/angLwrE)<!-- MEMES:END -->
+ - 🚯 [Headline: Finnish prime minister is doing ordinary human things. Not ok says experts.](http://9gag.com/gag/aBn7MVz)<!-- MEMES:END -->
 
 --- 
 
