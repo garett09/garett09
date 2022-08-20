@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Sunrise Alarms to Help You Rise and Shine](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [15 Great Deals on Phones, Tablets, and Hair Tools](https://www.wired.com/story/weekend-deals-august-20-2022/)
- - [Space Nerds at the Beach: A Dispatch From the Aerospace Games](https://www.wired.com/story/space-nerds-at-the-beach-aerospace-games/)<!-- TECH:END -->
+ - [New DeLorean Unveiled and Here&#39;s Our First Look     - CNET](https://www.cnet.com/roadshow/news/new-delorean-unveiled-and-heres-our-first-look/#ftag=CAD590a51e)
+ - [36 Hours on a Train: Spectacular Views, Tight Quarters and Limited Internet     - CNET](https://www.cnet.com/roadshow/news/36-hours-on-a-train-spectacular-views-worth-the-lack-of-internet-access/#ftag=CAD590a51e)
+ - [&#39;She-Hulk&#39; on Disney Plus: What&#39;s Up With That Origin Story?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-on-disney-plus-whats-up-with-that-origin-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
