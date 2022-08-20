@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the challenges ahead for China&#39;s digital yuan, as e-CNY total transaction volume reached $12.3B in May and ~4.6M merchants across China now accept it &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220820/p5#a220820p5)
  - [Dealogic: July 2022 was the first month in five years that no new SPACs raised money, after SPAC IPOs peaked in March 2021 with over $36B raised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220820/p4#a220820p4)
- - [Twitter CFO Ned Segal told employees in an email that they might receive only half of their annual bonuses as the company grapples with economic uncertainty &lpar;New York Times&rpar;](http://www.techmeme.com/220820/p3#a220820p3)
- - [Match Group COO and CFO Gary Swidler says sign-ups on Tinder &quot;have not returned back to pre-pandemic levels&quot; and &quot;new users remain a challenge&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220820/p2#a220820p2)<!-- TECH:END -->
+ - [Twitter CFO Ned Segal told employees in an email that they might receive only half of their annual bonuses as the company grapples with economic uncertainty &lpar;New York Times&rpar;](http://www.techmeme.com/220820/p3#a220820p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
