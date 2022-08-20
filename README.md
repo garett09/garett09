@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*keep calm, don&#39;t forget about camera...](http://9gag.com/gag/a71zBXA)
+ - 🚖 [China has no time to waste](http://9gag.com/gag/aE8Lb19)
  - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)
- - 🚯 [China has no time to waste](http://9gag.com/gag/aE8Lb19)<!-- MEMES:END -->
+ - 🚯 [The friction on a rope when a cowboy lassos a bull](http://9gag.com/gag/aggP9mv)<!-- MEMES:END -->
 
 --- 
 
