@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Range Rover SV Carmel Edition Comes With Custom Golf Clubs     - CNET](https://www.cnet.com/roadshow/pictures/2022-range-rover-sv-carmel-edition-monterey-debut/#ftag=CAD590a51e)
- - [The Traeger Timberline Makes Smoking Ribs Easy](https://www.wired.com/review/traeger-timberline-2022/)
- - [Janet Jackson’s ‘Rhythm Nation’ Can Crash Old Hard Drives](https://www.wired.com/story/janet-jackson-rhythm-nation-crash-hard-drives/)<!-- TECH:END -->
+ - [Daily deals August 20: $60 off Apple TV 4K, $100 off Samsung M8 32-inch Smart Monitor, $140 off SanDisk 1TB Extreme Portable SSD, more](https://appleinsider.com/articles/22/08/20/daily-deals-august-20-60-off-apple-tv-4k-100-off-samsung-m8-32-inch-smart-monitor-140-off-sandisk-1tb-extreme-portable-ssd-more?utm_medium=rss)
+ - [A decade later, Samsung deserves to be the “face of Android”](https://www.androidauthority.com/samsung-android-3195237/)
+ - [Hue’s new smart switch is for the superusers](https://www.theverge.com/2022/8/20/23311283/philips-hue-tap-dial-switch-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
