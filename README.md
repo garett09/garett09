@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New DeLorean Unveiled and Here&#39;s Our First Look     - CNET](https://www.cnet.com/roadshow/news/new-delorean-unveiled-and-heres-our-first-look/#ftag=CAD590a51e)
- - [36 Hours on a Train: Spectacular Views, Tight Quarters and Limited Internet     - CNET](https://www.cnet.com/roadshow/news/36-hours-on-a-train-spectacular-views-worth-the-lack-of-internet-access/#ftag=CAD590a51e)
- - [&#39;She-Hulk&#39; on Disney Plus: What&#39;s Up With That Origin Story?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-on-disney-plus-whats-up-with-that-origin-story/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Range Rover SV Carmel Edition Comes With Custom Golf Clubs     - CNET](https://www.cnet.com/roadshow/pictures/2022-range-rover-sv-carmel-edition-monterey-debut/#ftag=CAD590a51e)
+ - [The Traeger Timberline Makes Smoking Ribs Easy](https://www.wired.com/review/traeger-timberline-2022/)
+ - [Janet Jackson’s ‘Rhythm Nation’ Can Crash Old Hard Drives](https://www.wired.com/story/janet-jackson-rhythm-nation-crash-hard-drives/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
