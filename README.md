@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk approached brain-computer interface developer Synchron about a potential investment, after expressing frustration with Neuralink&#39;s progress &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/220819/p14#a220819p14)
- - [Trump&#39;s Truth Social Sees Uptick in Users After FBI&#39;s Mar-a-Lago Search     - CNET](https://www.cnet.com/news/politics/trumps-truth-social-sees-uptick-in-users-after-fbis-mar-a-lago-search/#ftag=CAD590a51e)
- - [Wireless charging has stopped for some Pixel owners after Android 13 update](https://www.androidauthority.com/wireless-charging-android-13-3198736/)<!-- TECH:END -->
+ - [Twitter tests a special tag to highlight phone number-verified accounts](https://www.theverge.com/2022/8/19/23313757/twitter-phone-number-verified-label-bots-privacy-security)
+ - [Keen Technologies, an artificial general intelligence startup from ex-Oculus CTO John Carmack, raised $20M led by ex-GitHub CEO Nat Friedman and Daniel Gross &lpar;TechCrunch&rpar;](http://www.techmeme.com/220819/p15#a220819p15)
+ - [First season of &#39;See&#39; available for free on Apple TV+ ahead of season 3 premiere](https://appleinsider.com/articles/22/08/20/first-season-of-see-available-for-free-on-apple-tv-ahead-of-season-3-premiere?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
