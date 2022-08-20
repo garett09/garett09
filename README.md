@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Which animals make the best movie monsters?](https://www.polygon.com/what-to-watch/23306746/animal-movies-horror-thriller-list-best-creature-features)
  - [The DioField Chronicle is a tactical RPG that goes off the grid](https://www.polygon.com/23313097/square-enix-diofield-chronicle-demo-preview)
- - [Y&#39;all seen this fashion police game where you shoot people with a sewing machine?](https://www.pcgamer.com/yall-seen-this-fashion-police-game-where-you-shoot-people-with-a-sewing-machine)
- - [Our favorite dragons from movies and TV](https://www.polygon.com/entertainment/23308296/best-dragons-movies-tv-anime-list)<!-- GAME:END -->
+ - [Y&#39;all seen this fashion police game where you shoot people with a sewing machine?](https://www.pcgamer.com/yall-seen-this-fashion-police-game-where-you-shoot-people-with-a-sewing-machine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
