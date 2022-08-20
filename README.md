@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter tests a special tag to highlight phone number-verified accounts](https://www.theverge.com/2022/8/19/23313757/twitter-phone-number-verified-label-bots-privacy-security)
- - [Keen Technologies, an artificial general intelligence startup from ex-Oculus CTO John Carmack, raised $20M led by ex-GitHub CEO Nat Friedman and Daniel Gross &lpar;TechCrunch&rpar;](http://www.techmeme.com/220819/p15#a220819p15)
- - [First season of &#39;See&#39; available for free on Apple TV+ ahead of season 3 premiere](https://appleinsider.com/articles/22/08/20/first-season-of-see-available-for-free-on-apple-tv-ahead-of-season-3-premiere?utm_medium=rss)<!-- TECH:END -->
+ - [The US House approved a budget amendment in July requiring the DoD to disclose smartphone or web browsing data purchases; Senate still needs to approve it &lpar;Dell Cameron/Gizmodo&rpar;](http://www.techmeme.com/220819/p16#a220819p16)
+ - [&#39;Prey&#39; Ending and Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-post-credits-predator-tease-explained/#ftag=CAD590a51e)
+ - [Aston Martin V12 Vantage Roadster Is an Open-Air Swan Song     - CNET](https://www.cnet.com/roadshow/news/aston-martin-v12-vantage-roadster-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
