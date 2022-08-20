@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House approved a budget amendment in July requiring the DoD to disclose smartphone or web browsing data purchases; Senate still needs to approve it &lpar;Dell Cameron/Gizmodo&rpar;](http://www.techmeme.com/220819/p16#a220819p16)
- - [&#39;Prey&#39; Ending and Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-post-credits-predator-tease-explained/#ftag=CAD590a51e)
- - [Aston Martin V12 Vantage Roadster Is an Open-Air Swan Song     - CNET](https://www.cnet.com/roadshow/news/aston-martin-v12-vantage-roadster-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The House Oversight Committee demands data from eight social media firms about their response to online threats against law enforcement after Mar-a-Lago search &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220820/p1#a220820p1)
+ - [iPhone 14 vs. iPhone 13: Selfie Cameras May Get Biggest Overhaul in Years     - CNET](https://www.cnet.com/tech/mobile/iphone-14-vs-iphone-13-selfie-cameras-may-get-biggest-overhaul-in-years/#ftag=CAD590a51e)
+ - [The US House approved a budget amendment in July requiring the DoD to disclose smartphone or web browsing data purchases; Senate still needs to approve it &lpar;Dell Cameron/Gizmodo&rpar;](http://www.techmeme.com/220819/p16#a220819p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
