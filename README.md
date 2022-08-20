@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He was talking shit about the police on Chinese social media. He was arrested and interrogated. Be thankful for your freedom.](http://9gag.com/gag/aOQXOqM)
- - 🚯 [Dude become Electro with a little blessing from Jesus](http://9gag.com/gag/aLvy3Bx)
+ - 🚖 [Today collected 20kg of garbage. Total is 1370kg. At least 20 people tell me they start the same. I\u2019m so inspiring that you involved saving planet. Love all of you! Your Cleaning Guy.](http://9gag.com/gag/angL3Rz)
+ - 🚯 [*keep calm, don&#39;t forget about camera...](http://9gag.com/gag/a71zBXA)
  - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)<!-- MEMES:END -->
 
 --- 
