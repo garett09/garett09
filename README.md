@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this allowed?](http://9gag.com/gag/amgEdzd)
- - 🚯 [The fellowship of the brewery](http://9gag.com/gag/aqGqd6P)
- - 🚯 [What an amazing transformation.](http://9gag.com/gag/aggPjeK)<!-- MEMES:END -->
+ - 🚖 [What an amazing transformation.](http://9gag.com/gag/aggPjeK)
+ - 🚯 [Rick Raptorolled Use it with caution](http://9gag.com/gag/a11GqRP)
+ - 🚯 [It&#39;s the best way to be](http://9gag.com/gag/a21nxYY)<!-- MEMES:END -->
 
 --- 
 
