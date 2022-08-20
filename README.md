@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked financials: FTX had revenue of $1.02B in 2021, up from $89M in 2020; operating income grew from $14M to $272M; US accounted for less than 5% of revenue &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/220820/p9#a220820p9)
  - [DoorDash won’t deliver Walmart’s groceries starting next month](https://www.theverge.com/2022/8/20/23314257/doordash-walmart-groceries-end-partnership-deliveries)
- - [UK&#39;s ruling Conservative Party is offering its 160K members the option to vote online in a leadership election to decide the country&#39;s next prime minister &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p8#a220820p8)
- - [What is Amazon Music? Here’s everything you need to know in 2022](https://www.androidauthority.com/what-is-amazon-music-3196266/)<!-- TECH:END -->
+ - [UK&#39;s ruling Conservative Party is offering its 160K members the option to vote online in a leadership election to decide the country&#39;s next prime minister &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p8#a220820p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
