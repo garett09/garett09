@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 427 answer and hint: Saturday, August 20](https://www.pcgamer.com/todays-wordle-427-answer-hint)
  - [This lo-fi horror game basically has you playing an extra in the X-Files](https://www.pcgamer.com/this-lo-fi-horror-game-basically-has-you-playing-an-extra-in-the-x-files)
- - [The least likable developer on Steam may have hit the limit of its permissive moderation](https://www.pcgamer.com/the-least-likable-developer-on-steam-may-have-hit-the-limit-of-its-permissive-moderation)
- - [It&#39;s probably already too late to clean up your gaming habits for Steam&#39;s upcoming &#39;year in review&#39;](https://www.pcgamer.com/its-probably-already-too-late-to-clean-up-your-gaming-habits-for-steams-upcoming-year-in-review)<!-- GAME:END -->
+ - [The least likable developer on Steam may have hit the limit of its permissive moderation](https://www.pcgamer.com/the-least-likable-developer-on-steam-may-have-hit-the-limit-of-its-permissive-moderation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
