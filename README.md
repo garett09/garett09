@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group COO and CFO Gary Swidler says sign-ups on Tinder &quot;have not returned back to pre-pandemic levels&quot; and &quot;new users remain a challenge&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220820/p2#a220820p2)
- - [The House Oversight Committee demands data from eight social media firms about their response to online threats against law enforcement after Mar-a-Lago search &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220820/p1#a220820p1)
- - [&#39;House of the Dragon&#39; Review: It&#39;ll Let You Love &#39;GoT&#39; Again     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-review-itll-let-you-love-got-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dealogic: July 2022 was the first month in five years that no new SPACs raised money, after SPAC IPOs peaked in March 2021 with over $36B raised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220820/p4#a220820p4)
+ - [Twitter CFO Ned Segal told employees in an email that they might receive only half of their annual bonuses as the company grapples with economic uncertainty &lpar;New York Times&rpar;](http://www.techmeme.com/220820/p3#a220820p3)
+ - [Match Group COO and CFO Gary Swidler says sign-ups on Tinder &quot;have not returned back to pre-pandemic levels&quot; and &quot;new users remain a challenge&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220820/p2#a220820p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
