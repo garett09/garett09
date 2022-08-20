@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Apple retail employee auctions &#39;Sam Sung&#39; business card for charity](https://appleinsider.com/articles/22/08/20/former-apple-retail-employee-auctions-sam-sung-business-card-for-charity?utm_medium=rss)
  - [YouTube removes video that tests Tesla’s Full Self-Driving beta against real kids](https://www.theverge.com/2022/8/20/23314117/youtube-tesla-removes-video-full-self-driving-beta-real-kids)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-446-3198175/)
- - [Lloyd&#39;s of London will require insurer groups in its global marketplace to exclude state-backed hacks from stand-alone cyber insurance policies starting in 2023 &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p7#a220820p7)<!-- TECH:END -->
+ - [Save $300 on a 14-inch Chromebook From HP, Bringing the Price to Just $399     - CNET](https://www.cnet.com/deals/save-300-on-a-14-inch-chromebook-from-hp-bringing-the-price-to-just-399/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
