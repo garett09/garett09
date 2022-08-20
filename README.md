@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have found her! Not expected that place tho](http://9gag.com/gag/aRrY8YA)
+ - 🚖 [Daddy chill](http://9gag.com/gag/aGzWr80)
  - 🚯 [He was talking shit about the police on Chinese social media. He was arrested and interrogated. Be thankful for your freedom.](http://9gag.com/gag/aOQXOqM)
- - 🚯 [Thanks brotha](http://9gag.com/gag/aVxN9WO)<!-- MEMES:END -->
+ - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)<!-- MEMES:END -->
 
 --- 
 
