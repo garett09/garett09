@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today collected 20kg of garbage. Total is 1370kg. At least 20 people tell me they start the same. I\u2019m so inspiring that you involved saving planet. Love all of you! Your Cleaning Guy.](http://9gag.com/gag/angL3Rz)
- - 🚯 [*keep calm, don&#39;t forget about camera...](http://9gag.com/gag/a71zBXA)
- - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)<!-- MEMES:END -->
+ - 🚖 [*keep calm, don&#39;t forget about camera...](http://9gag.com/gag/a71zBXA)
+ - 🚯 [Karen want to rent a Yacht.. I place that have no yacht](http://9gag.com/gag/aE8Lb2N)
+ - 🚯 [China has no time to waste](http://9gag.com/gag/aE8Lb19)<!-- MEMES:END -->
 
 --- 
 
