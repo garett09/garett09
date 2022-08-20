@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any sax fans out there?](http://9gag.com/gag/a71z6Pw)
- - 🚯 [Back when the MCU wasn&#39;t just jokes and farts and actually made you care about the characters](http://9gag.com/gag/a919NRD)
+ - 🚖 [6000001](http://9gag.com/gag/a61A42A)
+ - 🚯 [No offense](http://9gag.com/gag/aRrY9jA)
  - 🚯 [Is funny because is true](http://9gag.com/gag/aGzW6w5)<!-- MEMES:END -->
 
 --- 
