@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [6000001](http://9gag.com/gag/a61A42A)
+ - 🚖 [Thinly sliced cucumber](http://9gag.com/gag/aVxN4DP)
  - 🚯 [No offense](http://9gag.com/gag/aRrY9jA)
  - 🚯 [Is funny because is true](http://9gag.com/gag/aGzW6w5)<!-- MEMES:END -->
 
