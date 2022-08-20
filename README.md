@@ -182,8 +182,8 @@ No Activity Tracked This Week
 
 <!-- GAME:START -->
  - [The DioField Chronicle is a tactical RPG that goes off the grid](https://www.polygon.com/23313097/square-enix-diofield-chronicle-demo-preview)
- - [Our favorite dragons from movies and TV](https://www.polygon.com/entertainment/23308296/best-dragons-movies-tv-anime-list)
- - [The Fake Game Taking Over The Batman Arkham Fandom, Explained](https://kotaku.com/batman-arkham-world-spider-man-gotham-knights-wb-1849436007)<!-- GAME:END -->
+ - [Y&#39;all seen this fashion police game where you shoot people with a sewing machine?](https://www.pcgamer.com/yall-seen-this-fashion-police-game-where-you-shoot-people-with-a-sewing-machine)
+ - [Our favorite dragons from movies and TV](https://www.polygon.com/entertainment/23308296/best-dragons-movies-tv-anime-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
