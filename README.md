@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The friction on a rope when a cowboy lassos a bull](http://9gag.com/gag/aggP9mv)
- - 🚯 [It&#39;s all connected](http://9gag.com/gag/aggPbpx)
- - 🚯 [This is the Superman we all want. I won&#39;t say MoS and BvS was perfect. But Cavill is born to play this role. We 90s people can say we got the perfect superman.](http://9gag.com/gag/aRrYd6Q)<!-- MEMES:END -->
+ - 🚖 [But I have to watch it. I don&#39;t care that much about human rights.](http://9gag.com/gag/amgEQYo)
+ - 🚯 [Old Games](http://9gag.com/gag/aZrG51W)
+ - 🚯 [What a f**king joke](http://9gag.com/gag/angLwrE)<!-- MEMES:END -->
 
 --- 
 
