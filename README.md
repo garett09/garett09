@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JPMorgan: Tether, Circle, and other stablecoin issuers now hold $80b of short-term US government debt, accounting for 2% of the Treasury bills market as of May &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220820/p10#a220820p10)
  - [Samsung Galaxy Watch 5 Pro review: Ready for adventure](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-review-3196465/)
- - [Lululook iPad mini 6 Magnetic Keyboard Case review: Tough typing can&#39;t be offset by miniature novelty](https://appleinsider.com/articles/22/08/20/lululook-ipad-mini-6-magnetic-keyboard-case-review-tough-typing-cant-be-offset-by-miniature-novelty?utm_medium=rss)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bask in the Ludicrousness of the McLaren Solus GT     - CNET](https://www.cnet.com/roadshow/pictures/mclaren-solus-gt-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
