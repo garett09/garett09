@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The prequels were great, hate if you want](http://9gag.com/gag/aBn7jjx)
- - 🚯 [Eyes on the work please](http://9gag.com/gag/avA34Vd)
- - 🚯 [Resist!](http://9gag.com/gag/aze0vPm)<!-- MEMES:END -->
+ - 🚖 [Choo choo motherf**kers](http://9gag.com/gag/aze0v7p)
+ - 🚯 [Japanese Commercial of DnD](http://9gag.com/gag/angL83z)
+ - 🚯 [Cheating on your barber](http://9gag.com/gag/a81BvWO)<!-- MEMES:END -->
 
 --- 
 
