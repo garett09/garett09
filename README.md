@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Full-Self Driving software is going up in price again](https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk)
- - [After six months with a robot vacuum, I’m never going back](https://www.androidauthority.com/six-months-roborock-robot-vacuum-3192423/)
- - [iOS 16 development wrapped up, macOS Ventura &amp; iPadOS 16 coming in October](https://appleinsider.com/articles/22/08/21/apple-finishes-ios-16-development-for-september-release?utm_medium=rss)<!-- TECH:END -->
+ - [NSO Group CEO is stepping down as the company restructures to focus on NATO countries; source: NSO is also cutting 100 posts out of its 750-strong workforce &lpar;Reuters&rpar;](http://www.techmeme.com/220821/p7#a220821p7)
+ - [The best NAS drives you can buy in 2022](https://www.androidauthority.com/best-nas-drives-3193214/)
+ - [Woot&#39;s Audio Sale Knocks Hundreds Off Top-Rated Headphones, Speakers and More     - CNET](https://www.cnet.com/deals/woots-audio-sale-knocks-hundreds-off-top-rated-headphones-speakers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
