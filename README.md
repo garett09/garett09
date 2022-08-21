@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which animals make the best movie monsters?](https://www.polygon.com/what-to-watch/23306746/animal-movies-horror-thriller-list-best-creature-features)
- - [The DioField Chronicle is a tactical RPG that goes off the grid](https://www.polygon.com/23313097/square-enix-diofield-chronicle-demo-preview)
- - [Y&#39;all seen this fashion police game where you shoot people with a sewing machine?](https://www.pcgamer.com/yall-seen-this-fashion-police-game-where-you-shoot-people-with-a-sewing-machine)<!-- GAME:END -->
+ - [What&#39;s your favorite thing a unit in a strategy game says when you click on them?](https://www.pcgamer.com/whats-your-favorite-thing-a-unit-in-a-strategy-game-says-when-you-click-on-them)
+ - [Half heist-simulator, half adventure game, The Clue! was an unusual crime game even for its time](https://www.pcgamer.com/saturday-crapshoot-the-clue)
+ - [Indie developer Rob Hale has died, posthumously making their games free to enjoy](https://www.pcgamer.com/indie-developer-rob-hale-has-died-posthumously-making-their-games-free-to-enjoy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
