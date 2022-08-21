@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese game makers, facing slowing domestic user growth and fewer game approvals amid the regulatory crackdown, are rushing into overseas markets like the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220821/p5#a220821p5)
  - [Daily deals August 21: $200 off iPad mini, $300 off Pro Display XDR, $120 off Polk bookshelf speakers, more](https://appleinsider.com/articles/22/08/21/daily-deals-august-21-200-off-ipad-mini-300-off-pro-display-xdr-120-off-polk-bookshelf-speakers-more?utm_medium=rss)
- - [The Best Multi-Tools for Any Task](https://www.wired.com/gallery/best-multi-tools/)
- - [Siri vs Alexa vs Google Assistant vs Bixby: Which one reigns supreme?](https://www.androidauthority.com/siri-vs-alexa-vs-google-assistant-vs-bixby-3192996/)<!-- TECH:END -->
+ - [iOS 16 development wrapped up, macOS Ventura &amp; iPadOS 16 coming in October](https://appleinsider.com/articles/22/08/21/apple-finishes-ios-16-development-for-september-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
