@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oeplay MusicStar5 review: Fantastic audio quality with some significant issues in the design](https://appleinsider.com/articles/22/08/19/oeplay-musicstar5-review-fantastic-audio-quality-with-some-significant-issues-in-the-design?utm_medium=rss)
- - [I Redesigned the iPhone 14 Camera So Apple Doesn&#39;t Have To     - CNET](https://www.cnet.com/tech/mobile/i-redesigned-the-iphone-14-camera-so-apple-doesnt-have-to/#ftag=CAD590a51e)
- - [How Georgia State University and other schools are using apps and AI chatbots to help attract students, guide them through graduation, and launch their careers &lpar;Beth DeCarbo/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p11#a220820p11)<!-- TECH:END -->
+ - [$2M Coachbuilt Mulliner Batur Previews Bentley&#39;s EV Design Future     - CNET](https://www.cnet.com/roadshow/news/bentley-mulliner-batur-coachbuilt-w12-coupe-ev-design-monterey/#ftag=CAD590a51e)
+ - [Bentley Mulliner Batur Coupe Was Inspired by Crouching Tigers     - CNET](https://www.cnet.com/roadshow/pictures/bentley-mulliner-batur-coachbuilt-coupe/#ftag=CAD590a51e)
+ - [Dear Streamers, Not Every TV Show Needs a Whole Series     - CNET](https://www.cnet.com/culture/entertainment/dear-streamers-not-every-tv-show-needs-a-whole-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
