@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Destiny 2 and Fortnite crossover leaked ahead of Bungie event](https://www.theverge.com/2022/8/21/23314871/destiny-2-fortnite-skins-crossover-rumors-bungie-event)
  - [Find My and other location-sharing apps have become a staple in some young people&#39;s friendships, ostensibly for safety while blurring lines of privacy &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/220821/p3#a220821p3)
- - [An overview of electronic design automation software used for designing chips, as the US Commerce Department announces export controls on certain EDA tools &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220821/p2#a220821p2)
- - [SEC chair says recent market events show why it is critical for companies offering crypto lending to comply with federal securities laws to protect investors &lpar;Gary Gensler/Wall Street Journal&rpar;](http://www.techmeme.com/220821/p1#a220821p1)<!-- TECH:END -->
+ - [An overview of electronic design automation software used for designing chips, as the US Commerce Department announces export controls on certain EDA tools &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220821/p2#a220821p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
