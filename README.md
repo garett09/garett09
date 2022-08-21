@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asdfghjkl](http://9gag.com/gag/aOQXEg6)
- - 🚯 [Old Games](http://9gag.com/gag/aZrG51W)
- - 🚯 [Headline: Finnish prime minister is doing ordinary human things. Not ok says experts.](http://9gag.com/gag/aBn7MVz)<!-- MEMES:END -->
+ - 🚖 [Dr. Michio Kuka 11 years ago, on a debate about US educational system.](http://9gag.com/gag/aAGo5zR)
+ - 🚯 [That Execution...](http://9gag.com/gag/aegvwEm)
+ - 🚯 [Old Games](http://9gag.com/gag/aZrG51W)<!-- MEMES:END -->
 
 --- 
 
