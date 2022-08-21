@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too many female coworker](http://9gag.com/gag/a81BZEe)
- - 🚯 [Balkan women be like](http://9gag.com/gag/aYr29vw)
- - 🚯 [Nice catch](http://9gag.com/gag/aAGo8mR)<!-- MEMES:END -->
+ - 🚖 [Never tell me the odds](http://9gag.com/gag/aGzWWRZ)
+ - 🚯 [Viktor Orban has become the fattest dictator in the world.](http://9gag.com/gag/aPZKKXR)
+ - 🚯 [Bro really thought smart water that smart](http://9gag.com/gag/avA3NVM)<!-- MEMES:END -->
 
 --- 
 
