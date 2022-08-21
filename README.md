@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps could serve advertising to users in 2023](https://appleinsider.com/articles/22/08/21/apple-maps-could-serve-advertising-to-users-in-2023?utm_medium=rss)
- - [Elon Musk says price of FSD will rise from $12K to $15K in September when Tesla rolls out Beta 10.69.2, which lets drivers test new features on public roads &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220821/p8#a220821p8)
- - [NSO Group CEO is stepping down as the company restructures to focus on NATO countries; source: NSO is also cutting 100 posts out of its 750-strong workforce &lpar;Reuters&rpar;](http://www.techmeme.com/220821/p7#a220821p7)<!-- TECH:END -->
+ - [Lululook iPad mini 6 Magnetic Keyboard Case review: Tough typing can&#39;t be offset by miniature novelty](https://appleinsider.com/articles/22/08/20/lululook-ipad-mini-6-magnetic-keyboard-case-review-tough-typing-cant-be-offset-by-miniature-novelty?utm_medium=rss)
+ - [How to share song lyrics from Apple Music with your friends](https://appleinsider.com/articles/21/07/20/how-to-share-song-lyrics-from-apple-music-with-your-friends?utm_medium=rss)
+ - [What is Deezer? Here’s everything you need to know in 2022](https://www.androidauthority.com/what-is-deezer-3193523/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
