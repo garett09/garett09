@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Holy heck, there are a lot of strategy RPGs on PC now](https://www.pcgamer.com/holy-heck-there-are-a-lot-of-strategy-rpgs-on-pc-now)
  - [What&#39;s your favorite thing a unit in a strategy game says when you click on them?](https://www.pcgamer.com/whats-your-favorite-thing-a-unit-in-a-strategy-game-says-when-you-click-on-them)
- - [Half heist-simulator, half adventure game, The Clue! was an unusual crime game even for its time](https://www.pcgamer.com/saturday-crapshoot-the-clue)
- - [Indie developer Rob Hale has died, posthumously making their games free to enjoy](https://www.pcgamer.com/indie-developer-rob-hale-has-died-posthumously-making-their-games-free-to-enjoy)<!-- GAME:END -->
+ - [Half heist-simulator, half adventure game, The Clue! was an unusual crime game even for its time](https://www.pcgamer.com/saturday-crapshoot-the-clue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
