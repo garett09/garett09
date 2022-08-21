@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Be a remarkably bad cop in remarkably good Half-Life 2 mod Entropy: Zero 2](https://www.pcgamer.com/be-a-remarkably-bad-cop-in-remarkably-good-half-life-2-mod-entropy-zero-2)
  - [Shhhh, here&#39;s a Hearthstone Battlegrounds reveal](https://www.pcgamer.com/shhhh-heres-a-hearthstone-battlegrounds-reveal)
- - [Destiny x Fortnite crossover datamined](https://www.pcgamer.com/destiny-x-fortnite-crossover-datamined)
- - [The 13 hardest PC games, according to the PC Gamer staff](https://www.pcgamer.com/hardest-pc-games)<!-- GAME:END -->
+ - [Destiny x Fortnite crossover datamined](https://www.pcgamer.com/destiny-x-fortnite-crossover-datamined)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
