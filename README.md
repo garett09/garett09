@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Cowork Remotely With Friends—or Strangers](https://www.wired.com/story/how-to-cowork-remotely/)
- - [How to Use Snapchat’s Family Center With Your Kids](https://www.wired.com/story/how-to-use-snapchat-family-center/)
- - [The Low Threshold for Face Recognition in New Delhi](https://www.wired.com/story/delhi-police-facial-recognition/)<!-- TECH:END -->
+ - [Siri vs Alexa vs Google Assistant vs Bixby: Which one reigns supreme?](https://www.androidauthority.com/siri-vs-alexa-vs-google-assistant-vs-bixby-3192996/)
+ - [The Therabody TheraFace Pro Is a Versatile Tool](https://www.wired.com/review/therabody-theraface-pro/)
+ - [At Long Last, Mathematical Proof That Black Holes Are Stable](https://www.wired.com/story/at-long-last-mathematical-proof-that-black-holes-are-stable/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
