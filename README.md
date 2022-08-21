@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Build giant monsters out of parts and battle them in Kaiju Klash](https://www.pcgamer.com/build-giant-monsters-out-of-parts-and-battle-them-in-kaiju-klash)
  - [Original GTA creator reports Rockstar put copyright strikes on his prototype videos](https://www.pcgamer.com/gta-creator-reports-rockstar-put-copyright-strikes-on-his-prototype-videos)
- - [We like how you can watch dancing in PUBG&#39;s 19.1 patch](https://www.pcgamer.com/we-like-how-you-can-watch-dancing-in-pubgs-191-patch)
- - [Be a remarkably bad cop in remarkably good Half-Life 2 mod Entropy: Zero 2](https://www.pcgamer.com/be-a-remarkably-bad-cop-in-remarkably-good-half-life-2-mod-entropy-zero-2)<!-- GAME:END -->
+ - [We like how you can watch dancing in PUBG&#39;s 19.1 patch](https://www.pcgamer.com/we-like-how-you-can-watch-dancing-in-pubgs-191-patch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
