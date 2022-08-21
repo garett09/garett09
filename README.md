@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ scraps &#39;My Glory Was I Had Such Friends&#39; after Jennifer Garner leaves project](https://appleinsider.com/articles/22/08/21/apple-tv-scraps-my-glory-was-i-had-such-friends-after-jennifer-garner-leaves-project?utm_medium=rss)
  - [The demand for AR beauty filters on Instagram remains high, despite evidence of harmful effects on users&#39; mental health and Meta&#39;s efforts to ban some filters &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/220821/p9#a220821p9)
- - [Lenovo&#39;s Back to School Sale Offers Big Savings on Laptops and Tech Sitewide     - CNET](https://www.cnet.com/deals/lenovos-back-to-school-sale-offers-big-savings-on-laptops-and-tech-sitewide/#ftag=CAD590a51e)
- - [Lululook iPad mini 6 Magnetic Keyboard Case review: Tough typing can&#39;t be offset by miniature novelty](https://appleinsider.com/articles/22/08/20/lululook-ipad-mini-6-magnetic-keyboard-case-review-tough-typing-cant-be-offset-by-miniature-novelty?utm_medium=rss)<!-- TECH:END -->
+ - [Lenovo&#39;s Back to School Sale Offers Big Savings on Laptops and Tech Sitewide     - CNET](https://www.cnet.com/deals/lenovos-back-to-school-sale-offers-big-savings-on-laptops-and-tech-sitewide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
