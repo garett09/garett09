@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cringiest decline of a civilization in history](http://9gag.com/gag/a71zXvz)
- - 🚯 [Rising in the charts](http://9gag.com/gag/aZrGYOV)
+ - 🚖 [Are you sure about that](http://9gag.com/gag/avA3j85)
+ - 🚯 [That Execution...](http://9gag.com/gag/aegvwEm)
  - 🚯 [Dr. Michio Kuka 11 years ago, on a debate about US educational system.](http://9gag.com/gag/aAGo5zR)<!-- MEMES:END -->
 
 --- 
