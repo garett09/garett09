@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 19 best roguelikes](https://www.polygon.com/what-to-play/23313023/best-roguelikes-on-nintendo-switch-steam-playstation-xbox-pc)
  - [Today&#39;s Wordle 428 answer and hint: Sunday, August 21](https://www.pcgamer.com/todays-wordle-428-answer-hint)
- - [You might have missed Hell Pie, a gross-out 3D platformer that spits in God&#39;s face](https://www.pcgamer.com/hell-pie-is-a-gross-out-3d-platformer-that-spits-in-gods-face-you-might-have-missed)
- - [Holy heck, there are a lot of strategy RPGs on PC now](https://www.pcgamer.com/holy-heck-there-are-a-lot-of-strategy-rpgs-on-pc-now)<!-- GAME:END -->
+ - [You might have missed Hell Pie, a gross-out 3D platformer that spits in God&#39;s face](https://www.pcgamer.com/hell-pie-is-a-gross-out-3d-platformer-that-spits-in-gods-face-you-might-have-missed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
