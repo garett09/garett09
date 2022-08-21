@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 13 hardest PC games, according to the PC Gamer staff](https://www.pcgamer.com/hardest-pc-games)
- - [It’s a good time to revisit The Ghost and the Darkness, the Beast movie of the 1990s](https://www.polygon.com/23313397/watch-ghost-and-the-darkness-lion-attack-movie-beast-val-kilmer-streaming)
- - [Pro athletes and wealthy gamers are spending thousands on these custom racing rigs](https://www.pcgamer.com/pro-athletes-and-wealthy-gamers-are-spending-thousands-on-these-custom-racing-rigs)<!-- GAME:END -->
+ - [Shhhh, here&#39;s a Hearthstone Battlegrounds reveal](https://www.pcgamer.com/shhhh-heres-a-hearthstone-battlegrounds-reveal)
+ - [Destiny x Fortnite crossover datamined](https://www.pcgamer.com/destiny-x-fortnite-crossover-datamined)
+ - [The 13 hardest PC games, according to the PC Gamer staff](https://www.pcgamer.com/hardest-pc-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
