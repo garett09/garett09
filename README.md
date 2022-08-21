@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TXOne Networks, which builds and sells tech for securing industrial IoT environments, has raised a $70M Series B led by TGVest Capital &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/220820/p12#a220820p12)
  - [$2M Coachbuilt Mulliner Batur Previews Bentley&#39;s EV Design Future     - CNET](https://www.cnet.com/roadshow/news/bentley-mulliner-batur-coachbuilt-w12-coupe-ev-design-monterey/#ftag=CAD590a51e)
- - [Bentley Mulliner Batur Coupe Was Inspired by Crouching Tigers     - CNET](https://www.cnet.com/roadshow/pictures/bentley-mulliner-batur-coachbuilt-coupe/#ftag=CAD590a51e)
- - [Dear Streamers, Not Every TV Show Needs a Whole Series     - CNET](https://www.cnet.com/culture/entertainment/dear-streamers-not-every-tv-show-needs-a-whole-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bentley Mulliner Batur Coupe Was Inspired by Crouching Tigers     - CNET](https://www.cnet.com/roadshow/pictures/bentley-mulliner-batur-coachbuilt-coupe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
