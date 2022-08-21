@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Party](http://9gag.com/gag/a61APVN)
- - 🚯 [Not surprising for California](http://9gag.com/gag/apgWOV9)
- - 🚯 [Petition to use the old memes again](http://9gag.com/gag/ay9ObMY)<!-- MEMES:END -->
+ - 🚖 [Would love to go there for a try!](http://9gag.com/gag/arnjYQ0)
+ - 🚯 [Party](http://9gag.com/gag/a61APVN)
+ - 🚯 [Ban all Persian &lpar;Iranian&rpar; names immediately....](http://9gag.com/gag/a919xB0)<!-- MEMES:END -->
 
 --- 
 
