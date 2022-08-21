@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [121 years ago](http://9gag.com/gag/a71zxLb)
- - 🚯 [Guilty](http://9gag.com/gag/aRrYpdq)
- - 🚯 [What a f**king joke](http://9gag.com/gag/angLwrE)<!-- MEMES:END -->
+ - 🚖 [How Daft Punk made One More Time](http://9gag.com/gag/angLoE0)
+ - 🚯 [Ger youe greencards](http://9gag.com/gag/ajgoenQ)
+ - 🚯 [Jump the counter and attack the employee? Get rekt](http://9gag.com/gag/abg9nVr)<!-- MEMES:END -->
 
 --- 
 
