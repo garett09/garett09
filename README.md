@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A dad who sent Android photos of his baby&#39;s groin to a doctor says Google disabled his account and police probed him after Google flagged the photos as CSAM &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220821/p6#a220821p6)
- - [A YouTuber just uncovered lost footage of the American Sailor Moon](https://www.theverge.com/2022/8/21/23315156/youtuber-ray-mona-uncovered-lost-footage-american-saban-sailor-moon-pilot)
- - [How Fitbit is changing the way we think about sleep](https://www.androidauthority.com/fitbit-sleep-tracking-profiles-3197208/)<!-- TECH:END -->
+ - [After six months with a robot vacuum, I’m never going back](https://www.androidauthority.com/six-months-roborock-robot-vacuum-3192423/)
+ - [iOS 16 development wrapped up, macOS Ventura &amp; iPadOS 16 coming in October](https://appleinsider.com/articles/22/08/21/apple-finishes-ios-16-development-for-september-release?utm_medium=rss)
+ - [Daily deals August 21: $200 off iPad mini, $300 off Pro Display XDR, $120 off Polk bookshelf speakers, more](https://appleinsider.com/articles/22/08/21/daily-deals-august-21-200-off-ipad-mini-300-off-pro-display-xdr-120-off-polk-bookshelf-speakers-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
