@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ger youe greencards](http://9gag.com/gag/ajgoenQ)
- - 🚯 [Riiiiight](http://9gag.com/gag/aggPzoW)
- - 🚯 [Staying up till morning and waking up early is the icing on the cake](http://9gag.com/gag/aPZKq0G)<!-- MEMES:END -->
+ - 🚖 [Non-Binary Hulk](http://9gag.com/gag/avA3KWd)
+ - 🚯 [1st generation cartoon network was the best](http://9gag.com/gag/apgWZxD)
+ - 🚯 [Jump the counter and attack the employee? Get rekt](http://9gag.com/gag/abg9nVr)<!-- MEMES:END -->
 
 --- 
 
