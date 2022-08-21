@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s just a prank, until it\u2019s not.](http://9gag.com/gag/a31V6Yv)
- - 🚯 [Petition to use the old memes again](http://9gag.com/gag/ay9ObMY)
- - 🚯 [How to start a fire](http://9gag.com/gag/aAGozAp)<!-- MEMES:END -->
+ - 🚖 [Bully the wrong guy](http://9gag.com/gag/aE8L9XK)
+ - 🚯 [How to start a fire](http://9gag.com/gag/aAGozAp)
+ - 🚯 [It\u2019s just a prank, until it\u2019s not.](http://9gag.com/gag/a31V6Yv)<!-- MEMES:END -->
 
 --- 
 
