@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Babe it&#39;s because of your gene. I would never cheat on you`](http://9gag.com/gag/aWgwzRx)
- - 🚯 [Bro really thought smart water that smart](http://9gag.com/gag/avA3NVM)
- - 🚯 [How can one person be this good at accents ?](http://9gag.com/gag/aegvn2m)<!-- MEMES:END -->
+ - 🚖 [Too many female coworker](http://9gag.com/gag/a81BZEe)
+ - 🚯 [Balkan women be like](http://9gag.com/gag/aYr29vw)
+ - 🚯 [Nice catch](http://9gag.com/gag/aAGo8mR)<!-- MEMES:END -->
 
 --- 
 
