@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Daft Punk made One More Time](http://9gag.com/gag/angLoE0)
- - 🚯 [Ger youe greencards](http://9gag.com/gag/ajgoenQ)
- - 🚯 [Jump the counter and attack the employee? Get rekt](http://9gag.com/gag/abg9nVr)<!-- MEMES:END -->
+ - 🚖 [Ger youe greencards](http://9gag.com/gag/ajgoenQ)
+ - 🚯 [Riiiiight](http://9gag.com/gag/aggPzoW)
+ - 🚯 [Staying up till morning and waking up early is the icing on the cake](http://9gag.com/gag/aPZKq0G)<!-- MEMES:END -->
 
 --- 
 
