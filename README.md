@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where would you time travel?](http://9gag.com/gag/aNP667A)
- - 🚯 [Bro really thought smart water that smart](http://9gag.com/gag/avA3NVM)
- - 🚯 [Viktor Orban has become the fattest dictator in the world.](http://9gag.com/gag/aPZKKXR)<!-- MEMES:END -->
+ - 🚖 [Viktor Orban has become the fattest dictator in the world.](http://9gag.com/gag/aPZKKXR)
+ - 🚯 [I\u2019m this old](http://9gag.com/gag/aZrGAMW)
+ - 🚯 [A new washing machine model for Europeans for the Fall-Winter 2022 season!](http://9gag.com/gag/aVxNAEO)<!-- MEMES:END -->
 
 --- 
 
