@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You might have missed Hell Pie, a gross-out 3D platformer that spits in God&#39;s face](https://www.pcgamer.com/hell-pie-is-a-gross-out-3d-platformer-that-spits-in-gods-face-you-might-have-missed)
  - [Holy heck, there are a lot of strategy RPGs on PC now](https://www.pcgamer.com/holy-heck-there-are-a-lot-of-strategy-rpgs-on-pc-now)
- - [What&#39;s your favorite thing a unit in a strategy game says when you click on them?](https://www.pcgamer.com/whats-your-favorite-thing-a-unit-in-a-strategy-game-says-when-you-click-on-them)
- - [Half heist-simulator, half adventure game, The Clue! was an unusual crime game even for its time](https://www.pcgamer.com/saturday-crapshoot-the-clue)<!-- GAME:END -->
+ - [What&#39;s your favorite thing a unit in a strategy game says when you click on them?](https://www.pcgamer.com/whats-your-favorite-thing-a-unit-in-a-strategy-game-says-when-you-click-on-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
