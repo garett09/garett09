@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you sure about that](http://9gag.com/gag/avA3j85)
- - 🚯 [That Execution...](http://9gag.com/gag/aegvwEm)
- - 🚯 [Dr. Michio Kuka 11 years ago, on a debate about US educational system.](http://9gag.com/gag/aAGo5zR)<!-- MEMES:END -->
+ - 🚖 [121 years ago](http://9gag.com/gag/a71zxLb)
+ - 🚯 [Guilty](http://9gag.com/gag/aRrYpdq)
+ - 🚯 [What a f**king joke](http://9gag.com/gag/angLwrE)<!-- MEMES:END -->
 
 --- 
 
