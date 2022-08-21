@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 428 answer and hint: Sunday, August 21](https://www.pcgamer.com/todays-wordle-428-answer-hint)
  - [You might have missed Hell Pie, a gross-out 3D platformer that spits in God&#39;s face](https://www.pcgamer.com/hell-pie-is-a-gross-out-3d-platformer-that-spits-in-gods-face-you-might-have-missed)
- - [Holy heck, there are a lot of strategy RPGs on PC now](https://www.pcgamer.com/holy-heck-there-are-a-lot-of-strategy-rpgs-on-pc-now)
- - [What&#39;s your favorite thing a unit in a strategy game says when you click on them?](https://www.pcgamer.com/whats-your-favorite-thing-a-unit-in-a-strategy-game-says-when-you-click-on-them)<!-- GAME:END -->
+ - [Holy heck, there are a lot of strategy RPGs on PC now](https://www.pcgamer.com/holy-heck-there-are-a-lot-of-strategy-rpgs-on-pc-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
