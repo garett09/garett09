@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bully the wrong guy](http://9gag.com/gag/aE8L9XK)
- - 🚯 [How to start a fire](http://9gag.com/gag/aAGozAp)
- - 🚯 [It\u2019s just a prank, until it\u2019s not.](http://9gag.com/gag/a31V6Yv)<!-- MEMES:END -->
+ - 🚖 [How to start a fire](http://9gag.com/gag/aAGozAp)
+ - 🚯 [UA will be the first army in the world to be equipped with Vulcano 155mm GPS guided ammunition, media reports `The longest ranging 155mm artillery shells available on the market`. Able to guarantee a one-meter point target engagement at distances of up to 70 km on moving targets](http://9gag.com/gag/aNP6E24)
+ - 🚯 [How can one person be this good at accents ?](http://9gag.com/gag/aegvn2m)<!-- MEMES:END -->
 
 --- 
 
