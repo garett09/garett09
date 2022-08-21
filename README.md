@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Non-Binary Hulk](http://9gag.com/gag/avA3KWd)
+ - 🚖 [How to start a fire](http://9gag.com/gag/aAGozAp)
  - 🚯 [1st generation cartoon network was the best](http://9gag.com/gag/apgWZxD)
- - 🚯 [Jump the counter and attack the employee? Get rekt](http://9gag.com/gag/abg9nVr)<!-- MEMES:END -->
+ - 🚯 [Yeah no](http://9gag.com/gag/aBn7BRQ)<!-- MEMES:END -->
 
 --- 
 
