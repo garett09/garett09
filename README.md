@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NSO Group CEO is stepping down as the company restructures to focus on NATO countries; source: NSO is also cutting 100 posts out of its 750-strong workforce &lpar;Reuters&rpar;](http://www.techmeme.com/220821/p7#a220821p7)
- - [The best NAS drives you can buy in 2022](https://www.androidauthority.com/best-nas-drives-3193214/)
- - [Woot&#39;s Audio Sale Knocks Hundreds Off Top-Rated Headphones, Speakers and More     - CNET](https://www.cnet.com/deals/woots-audio-sale-knocks-hundreds-off-top-rated-headphones-speakers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Maps could serve advertising to users in 2023](https://appleinsider.com/articles/22/08/21/apple-maps-could-serve-advertising-to-users-in-2023?utm_medium=rss)
+ - [Elon Musk says price of FSD will rise from $12K to $15K in September when Tesla rolls out Beta 10.69.2, which lets drivers test new features on public roads &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220821/p8#a220821p8)
+ - [NSO Group CEO is stepping down as the company restructures to focus on NATO countries; source: NSO is also cutting 100 posts out of its 750-strong workforce &lpar;Reuters&rpar;](http://www.techmeme.com/220821/p7#a220821p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
