@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [This is the Superman we all want. I won&#39;t say MoS and BvS was perfect. But Cavill is born to play this role. We 90s people can say we got the perfect superman.](http://9gag.com/gag/aRrYd6Q)
- - 🚯 [Are you sure about that](http://9gag.com/gag/avA3j85)
- - 🚯 [Eminem destroys Afrojack](http://9gag.com/gag/a919GzL)<!-- MEMES:END -->
+ - 🚯 [Go green - from mold on your body I suppose](http://9gag.com/gag/avA3wzn)
+ - 🚯 [Are you sure about that](http://9gag.com/gag/avA3j85)<!-- MEMES:END -->
 
 --- 
 
