@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to start a fire](http://9gag.com/gag/aAGozAp)
- - 🚯 [1st generation cartoon network was the best](http://9gag.com/gag/apgWZxD)
- - 🚯 [Yeah no](http://9gag.com/gag/aBn7BRQ)<!-- MEMES:END -->
+ - 🚖 [It\u2019s just a prank, until it\u2019s not.](http://9gag.com/gag/a31V6Yv)
+ - 🚯 [Petition to use the old memes again](http://9gag.com/gag/ay9ObMY)
+ - 🚯 [How to start a fire](http://9gag.com/gag/aAGozAp)<!-- MEMES:END -->
 
 --- 
 
