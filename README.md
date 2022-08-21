@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri vs Alexa vs Google Assistant vs Bixby: Which one reigns supreme?](https://www.androidauthority.com/siri-vs-alexa-vs-google-assistant-vs-bixby-3192996/)
- - [The Therabody TheraFace Pro Is a Versatile Tool](https://www.wired.com/review/therabody-theraface-pro/)
- - [At Long Last, Mathematical Proof That Black Holes Are Stable](https://www.wired.com/story/at-long-last-mathematical-proof-that-black-holes-are-stable/)<!-- TECH:END -->
+ - [Daily deals August 21: $200 off iPad mini, $300 off Pro Display XDR, $120 off Polk bookshelf speakers, more](https://appleinsider.com/articles/22/08/21/daily-deals-august-21-200-off-ipad-mini-300-off-pro-display-xdr-120-off-polk-bookshelf-speakers-more?utm_medium=rss)
+ - [The Best Multi-Tools for Any Task](https://www.wired.com/gallery/best-multi-tools/)
+ - [Siri vs Alexa vs Google Assistant vs Bixby: Which one reigns supreme?](https://www.androidauthority.com/siri-vs-alexa-vs-google-assistant-vs-bixby-3192996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
