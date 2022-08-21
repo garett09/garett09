@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Destiny 2 and Fortnite crossover leaked ahead of Bungie event](https://www.theverge.com/2022/8/21/23314871/destiny-2-fortnite-skins-crossover-rumors-bungie-event)
- - [Find My and other location-sharing apps have become a staple in some young people&#39;s friendships, ostensibly for safety while blurring lines of privacy &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/220821/p3#a220821p3)
- - [An overview of electronic design automation software used for designing chips, as the US Commerce Department announces export controls on certain EDA tools &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220821/p2#a220821p2)<!-- TECH:END -->
+ - [SoftBank CFO says the company sold a large part of its stake in Alibaba to &quot;instantly show&quot; investors its finances were solid after a $23B quarterly loss &lpar;Financial Times&rpar;](http://www.techmeme.com/220821/p4#a220821p4)
+ - [Xiaomi is the best and the worst thing to happen to Android](https://www.androidauthority.com/xiaomi-11-years-3197446/)
+ - [Destiny 2 and Fortnite crossover leaked ahead of Bungie event](https://www.theverge.com/2022/8/21/23314871/destiny-2-fortnite-skins-crossover-rumors-bungie-event)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
