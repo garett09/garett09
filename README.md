@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC chair says recent market events show why it is critical for companies offering crypto lending to comply with federal securities laws to protect investors &lpar;Gary Gensler/Wall Street Journal&rpar;](http://www.techmeme.com/220821/p1#a220821p1)
  - [TXOne Networks, which builds and sells tech for securing industrial IoT environments, has raised a $70M Series B led by TGVest Capital &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/220820/p12#a220820p12)
- - [$2M Coachbuilt Mulliner Batur Previews Bentley&#39;s EV Design Future     - CNET](https://www.cnet.com/roadshow/news/bentley-mulliner-batur-coachbuilt-w12-coupe-ev-design-monterey/#ftag=CAD590a51e)
- - [Bentley Mulliner Batur Coupe Was Inspired by Crouching Tigers     - CNET](https://www.cnet.com/roadshow/pictures/bentley-mulliner-batur-coachbuilt-coupe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [$2M Coachbuilt Mulliner Batur Previews Bentley&#39;s EV Design Future     - CNET](https://www.cnet.com/roadshow/news/bentley-mulliner-batur-coachbuilt-w12-coupe-ev-design-monterey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
