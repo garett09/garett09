@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the Superman we all want. I won&#39;t say MoS and BvS was perfect. But Cavill is born to play this role. We 90s people can say we got the perfect superman.](http://9gag.com/gag/aRrYd6Q)
- - 🚯 [Go green - from mold on your body I suppose](http://9gag.com/gag/avA3wzn)
- - 🚯 [Are you sure about that](http://9gag.com/gag/avA3j85)<!-- MEMES:END -->
+ - 🚖 [The cringiest decline of a civilization in history](http://9gag.com/gag/a71zXvz)
+ - 🚯 [Rising in the charts](http://9gag.com/gag/aZrGYOV)
+ - 🚯 [Dr. Michio Kuka 11 years ago, on a debate about US educational system.](http://9gag.com/gag/aAGo5zR)<!-- MEMES:END -->
 
 --- 
 
