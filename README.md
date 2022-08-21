@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank CFO says the company sold a large part of its stake in Alibaba to &quot;instantly show&quot; investors its finances were solid after a $23B quarterly loss &lpar;Financial Times&rpar;](http://www.techmeme.com/220821/p4#a220821p4)
- - [Xiaomi is the best and the worst thing to happen to Android](https://www.androidauthority.com/xiaomi-11-years-3197446/)
- - [Destiny 2 and Fortnite crossover leaked ahead of Bungie event](https://www.theverge.com/2022/8/21/23314871/destiny-2-fortnite-skins-crossover-rumors-bungie-event)<!-- TECH:END -->
+ - [How to Cowork Remotely With Friends—or Strangers](https://www.wired.com/story/how-to-cowork-remotely/)
+ - [How to Use Snapchat’s Family Center With Your Kids](https://www.wired.com/story/how-to-use-snapchat-family-center/)
+ - [The Low Threshold for Face Recognition in New Delhi](https://www.wired.com/story/delhi-police-facial-recognition/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
