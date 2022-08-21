@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to keep the seat next to you empty](http://9gag.com/gag/aqGqoB7)
- - 🚯 [It\u2019s just a prank, until it\u2019s not.](http://9gag.com/gag/a31V6Yv)
- - 🚯 [I love italians!](http://9gag.com/gag/aDDEyjN)<!-- MEMES:END -->
+ - 🚖 [Party](http://9gag.com/gag/a61APVN)
+ - 🚯 [Not surprising for California](http://9gag.com/gag/apgWOV9)
+ - 🚯 [Petition to use the old memes again](http://9gag.com/gag/ay9ObMY)<!-- MEMES:END -->
 
 --- 
 
