@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Georgia State University and other schools are using apps and AI chatbots to help attract students, guide them through graduation, and launch their careers &lpar;Beth DeCarbo/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p11#a220820p11)
- - [Apple CFO Luca Maestri sells shares worth $16.9M](https://appleinsider.com/articles/22/08/20/apple-cfo-luca-maestri-sells-shares-worth-169m?utm_medium=rss)
- - [PS5 tips and tricks: 7 things you didn’t know the PlayStation 5 could do](https://www.androidauthority.com/ps5-tips-and-tricks-3193338/)<!-- TECH:END -->
+ - [Oeplay MusicStar5 review: Fantastic audio quality with some significant issues in the design](https://appleinsider.com/articles/22/08/19/oeplay-musicstar5-review-fantastic-audio-quality-with-some-significant-issues-in-the-design?utm_medium=rss)
+ - [I Redesigned the iPhone 14 Camera So Apple Doesn&#39;t Have To     - CNET](https://www.cnet.com/tech/mobile/i-redesigned-the-iphone-14-camera-so-apple-doesnt-have-to/#ftag=CAD590a51e)
+ - [How Georgia State University and other schools are using apps and AI chatbots to help attract students, guide them through graduation, and launch their careers &lpar;Beth DeCarbo/Wall Street Journal&rpar;](http://www.techmeme.com/220820/p11#a220820p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
