@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Original GTA creator reports Rockstar put copyright strikes on his prototype videos](https://www.pcgamer.com/gta-creator-reports-rockstar-put-copyright-strikes-on-his-prototype-videos)
  - [We like how you can watch dancing in PUBG&#39;s 19.1 patch](https://www.pcgamer.com/we-like-how-you-can-watch-dancing-in-pubgs-191-patch)
- - [Be a remarkably bad cop in remarkably good Half-Life 2 mod Entropy: Zero 2](https://www.pcgamer.com/be-a-remarkably-bad-cop-in-remarkably-good-half-life-2-mod-entropy-zero-2)
- - [Shhhh, here&#39;s a Hearthstone Battlegrounds reveal](https://www.pcgamer.com/shhhh-heres-a-hearthstone-battlegrounds-reveal)<!-- GAME:END -->
+ - [Be a remarkably bad cop in remarkably good Half-Life 2 mod Entropy: Zero 2](https://www.pcgamer.com/be-a-remarkably-bad-cop-in-remarkably-good-half-life-2-mod-entropy-zero-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
