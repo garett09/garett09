@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would love to go there for a try!](http://9gag.com/gag/arnjYQ0)
- - 🚯 [Party](http://9gag.com/gag/a61APVN)
- - 🚯 [Ban all Persian &lpar;Iranian&rpar; names immediately....](http://9gag.com/gag/a919xB0)<!-- MEMES:END -->
+ - 🚖 [`Babe it&#39;s because of your gene. I would never cheat on you`](http://9gag.com/gag/aWgwzRx)
+ - 🚯 [Bro really thought smart water that smart](http://9gag.com/gag/avA3NVM)
+ - 🚯 [How can one person be this good at accents ?](http://9gag.com/gag/aegvn2m)<!-- MEMES:END -->
 
 --- 
 
