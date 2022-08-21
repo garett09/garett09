@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never tell me the odds](http://9gag.com/gag/aGzWWRZ)
- - 🚯 [Viktor Orban has become the fattest dictator in the world.](http://9gag.com/gag/aPZKKXR)
- - 🚯 [Bro really thought smart water that smart](http://9gag.com/gag/avA3NVM)<!-- MEMES:END -->
+ - 🚖 [Where would you time travel?](http://9gag.com/gag/aNP667A)
+ - 🚯 [Bro really thought smart water that smart](http://9gag.com/gag/avA3NVM)
+ - 🚯 [Viktor Orban has become the fattest dictator in the world.](http://9gag.com/gag/aPZKKXR)<!-- MEMES:END -->
 
 --- 
 
