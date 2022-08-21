@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [The demand for AR beauty filters on Instagram remains high, despite evidence of harmful effects on users&#39; mental health and Meta&#39;s efforts to ban some filters &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/220821/p9#a220821p9)
- - [Lululook iPad mini 6 Magnetic Keyboard Case review: Tough typing can&#39;t be offset by miniature novelty](https://appleinsider.com/articles/22/08/20/lululook-ipad-mini-6-magnetic-keyboard-case-review-tough-typing-cant-be-offset-by-miniature-novelty?utm_medium=rss)
- - [How to share song lyrics from Apple Music with your friends](https://appleinsider.com/articles/21/07/20/how-to-share-song-lyrics-from-apple-music-with-your-friends?utm_medium=rss)<!-- TECH:END -->
+ - [Lenovo&#39;s Back to School Sale Offers Big Savings on Laptops and Tech Sitewide     - CNET](https://www.cnet.com/deals/lenovos-back-to-school-sale-offers-big-savings-on-laptops-and-tech-sitewide/#ftag=CAD590a51e)
+ - [Lululook iPad mini 6 Magnetic Keyboard Case review: Tough typing can&#39;t be offset by miniature novelty](https://appleinsider.com/articles/22/08/20/lululook-ipad-mini-6-magnetic-keyboard-case-review-tough-typing-cant-be-offset-by-miniature-novelty?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
