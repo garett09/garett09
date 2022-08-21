@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [How to keep the seat next to you empty](http://9gag.com/gag/aqGqoB7)
  - 🚯 [It\u2019s just a prank, until it\u2019s not.](http://9gag.com/gag/a31V6Yv)
- - 🚯 [Ban all Persian &lpar;Iranian&rpar; names immediately....](http://9gag.com/gag/a919xB0)<!-- MEMES:END -->
+ - 🚯 [I love italians!](http://9gag.com/gag/aDDEyjN)<!-- MEMES:END -->
 
 --- 
 
