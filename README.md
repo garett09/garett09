@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pro athletes and wealthy gamers are spending thousands on these custom racing rigs](https://www.pcgamer.com/pro-athletes-and-wealthy-gamers-are-spending-thousands-on-these-custom-racing-rigs)
- - [The 19 best roguelikes](https://www.polygon.com/what-to-play/23313023/best-roguelikes-on-nintendo-switch-steam-playstation-xbox-pc)
- - [Today&#39;s Wordle 428 answer and hint: Sunday, August 21](https://www.pcgamer.com/todays-wordle-428-answer-hint)<!-- GAME:END -->
+ - [The 13 hardest PC games, according to the PC Gamer staff](https://www.pcgamer.com/hardest-pc-games)
+ - [It’s a good time to revisit The Ghost and the Darkness, the Beast movie of the 1990s](https://www.polygon.com/23313397/watch-ghost-and-the-darkness-lion-attack-movie-beast-val-kilmer-streaming)
+ - [Pro athletes and wealthy gamers are spending thousands on these custom racing rigs](https://www.pcgamer.com/pro-athletes-and-wealthy-gamers-are-spending-thousands-on-these-custom-racing-rigs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
