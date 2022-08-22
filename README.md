@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally experiencing the demanding RTS I could only dream of running in 2007](https://www.pcgamer.com/finally-playing-the-demanding-rts-i-could-only-dream-of-running-in-2007)
- - [Slime Rancher 2 wrangles its way onto PC next month](https://www.pcgamer.com/slime-rancher-2-wrangles-its-way-onto-pc-next-month)
- - [House of the Dragon is trying to take the pain of its women seriously](https://www.polygon.com/23315490/house-of-the-dragon-episode-1-review)<!-- GAME:END -->
+ - [House of the Dragon’s sex scenes kick off with Matt Smith as the saddest boy at the orgy](https://www.polygon.com/23310439/house-of-the-dragon-sex-scenes-matt-smith-interview)
+ - [It took owning a Steam Deck to finally understand its appeal](https://www.pcgamer.com/steam-deck-is-great)
+ - [Finally experiencing the demanding RTS I could only dream of running in 2007](https://www.pcgamer.com/finally-playing-the-demanding-rts-i-could-only-dream-of-running-in-2007)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
