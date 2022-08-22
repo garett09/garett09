@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands its Self Service Repair offerings to cover the M1 MacBook Air and M1 MacBook Pros; the repair kit is available to rent for $49 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220822/p11#a220822p11)
- - [Lincoln’s new concept car is an autonomous EV that runs on vibes](https://www.theverge.com/2022/8/22/23316583/lincoln-l100-concept-car-ev-autonomous-ford)
- - [How to connect and reconnect your PlayStation 4 or PlayStation 5 controller](https://www.theverge.com/23316422/sony-ps4-dualshock-ps5-dualsense-controller-connect-troubleshooting-how-to)<!-- TECH:END -->
+ - [Elon Musk subpoenas former Twitter CEO Jack Dorsey, ahead of his trial with Twitter set to begin on October 17 in the Delaware Court of Chancery &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220822/p12#a220822p12)
+ - [YouTube launches a dedicated page for podcasts](https://www.theverge.com/2022/8/22/23316907/youtube-podcast-page-spotify-apple)
+ - [The Game Awards sets a date: December 8th](https://www.theverge.com/2022/8/22/23316711/the-game-awards-date-geoff-keighley-december-8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
