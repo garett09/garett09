@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u200e\u200e \u200e\u200e](http://9gag.com/gag/adgZyPd)
+ - 🚖 [God has seen enough its time to commence the Purge](http://9gag.com/gag/abgPX0X)
  - 🚯 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)
- - 🚯 [Yep](http://9gag.com/gag/aYr8jbq)<!-- MEMES:END -->
+ - 🚯 [Trashed](http://9gag.com/gag/a71zjjz)<!-- MEMES:END -->
 
 --- 
 
