@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nathan Fielder’s The Rehearsal is getting a second season](https://www.theverge.com/2022/8/22/23316109/the-rehearsal-nathan-fielder-hbo-second-season-announced)
- - [You told us: The Xiaomi Mix Fold 2 is indeed a hot foldable](https://www.androidauthority.com/xiaomi-mix-fold-2-hot-not-poll-results-3198888/)
- - [South Korean chipmakers, historically reluctant to takes sides in the US-China rivalry, are tilting toward the US due to their dependence on Western IP and tech &lpar;Financial Times&rpar;](http://www.techmeme.com/220822/p2#a220822p2)<!-- TECH:END -->
+ - [Some neobanks have struggled to uphold lofty promises to consumers as VC funding in the sector declines and traditional banks improve their tech offerings &lpar;Bloomberg&rpar;](http://www.techmeme.com/220822/p4#a220822p4)
+ - [Daily Authority: ⛰️ Samsung’s watch for trekkers](https://www.androidauthority.com/daily-authority-august-22-2022-3198872/)
+ - [South Korean car-sharing startup Socar falls after its Seoul market debut, from ~$21 to $19.50, giving the company a ~$642M market cap &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220822/p3#a220822p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
