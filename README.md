@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some neobanks have struggled to uphold lofty promises to consumers as VC funding in the sector declines and traditional banks improve their tech offerings &lpar;Bloomberg&rpar;](http://www.techmeme.com/220822/p4#a220822p4)
- - [Daily Authority: ⛰️ Samsung’s watch for trekkers](https://www.androidauthority.com/daily-authority-august-22-2022-3198872/)
- - [South Korean car-sharing startup Socar falls after its Seoul market debut, from ~$21 to $19.50, giving the company a ~$642M market cap &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220822/p3#a220822p3)<!-- TECH:END -->
+ - [Police in Delhi, India, who use facial recognition to identify protesters, say they consider 80%+ accuracy a &quot;positive&quot; match, raising concerns among activists &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/220822/p5#a220822p5)
+ - [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
+ - [These Trees Are Spreading North in Alaska. That’s Not Good](https://www.wired.com/story/these-trees-are-spreading-north-in-alaska-thats-not-good/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
