@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel will bring &quot;chiplet&quot; packaging to its Meteor Lake chips in 2023 and Arrow Lake and Lunar Lake chips slated for 2024, to better compete with Apple silicon &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/220822/p10#a220822p10)
- - [Thor: Love and Thunder is coming to Disney Plus in just a few weeks](https://www.theverge.com/2022/8/22/23316645/thor-love-and-thunder-disney-plus-streaming-september)
- - [Clip Studio Paint announces subscription plan, angering the online artist community](https://www.theverge.com/2022/8/22/23316413/clip-studio-paint-subscription-plan-angry-artists-digital-illustration)<!-- TECH:END -->
+ - [Apple expands its Self Service Repair offerings to cover the M1 MacBook Air and M1 MacBook Pros; the repair kit is available to rent for $49 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220822/p11#a220822p11)
+ - [Lincoln’s new concept car is an autonomous EV that runs on vibes](https://www.theverge.com/2022/8/22/23316583/lincoln-l100-concept-car-ev-autonomous-ford)
+ - [How to connect and reconnect your PlayStation 4 or PlayStation 5 controller](https://www.theverge.com/23316422/sony-ps4-dualshock-ps5-dualsense-controller-connect-troubleshooting-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
