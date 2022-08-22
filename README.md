@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prmouns](http://9gag.com/gag/aqGqvpp)
- - 🚯 [Karma is Amber heard](http://9gag.com/gag/aogbr7X)
- - 🚯 [Hard to argue with](http://9gag.com/gag/a9193Ko)<!-- MEMES:END -->
+ - 🚖 [Hard to argue with](http://9gag.com/gag/a9193Ko)
+ - 🚯 [Trashed](http://9gag.com/gag/a71zjjz)
+ - 🚯 [Prmouns](http://9gag.com/gag/aqGqvpp)<!-- MEMES:END -->
 
 --- 
 
