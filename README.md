@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Knights of the Old Republic remake reportedly moves to a new developer](https://www.polygon.com/23317279/star-wars-knights-of-the-old-ps5-remake-saber-interactive)
- - [Tekken 7 Player Competes In Tournament With Big-Ass Buster Sword Controller](https://kotaku.com/tekken-7-final-fantasy-cloud-buster-sword-controller-1849443262)
- - [Railway Empire 2 takes the train simulation cross-continental](https://www.pcgamer.com/railway-empire-2-takes-the-train-simulation-cross-continental)<!-- GAME:END -->
+ - [Total War: Warhammer III: Immortal Empires Is The Best Total War Campaign In Years](https://kotaku.com/total-war-warhammer-iii-immortal-empires-review-kotaku-1849432160)
+ - [Stardew Valley creator teases boss fight, music for upcoming project Haunted Chocolatier](https://www.pcgamer.com/stardew-valley-creator-teases-boss-fight-music-for-upcoming-project-haunted-chocolatier)
+ - [Star Wars: Knights of the Old Republic remake reportedly moves to a new developer](https://www.polygon.com/23317279/star-wars-knights-of-the-old-ps5-remake-saber-interactive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
