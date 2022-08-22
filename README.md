@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When will Android 13 come to Nothing Phone 1? Don’t ask Carl Pei.](https://www.androidauthority.com/nothing-phone-1-android-13-carl-pei-3198867/)
- - [&#39;House of the Dragon&#39; Episode 1 Recap: Everything You Might Have Missed     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-1-recap-everything-you-might-have-missed/#ftag=CAD590a51e)
- - [&#39;House of the Dragon&#39;: When The Next Episode Lands in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-the-next-episode-lands-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When was the first iPhone released?](https://www.androidauthority.com/first-iphone-release-date-3198284/)
+ - [The post-Leica Huawei Mate 50 series is officially launching next month](https://www.androidauthority.com/huawei-mate-50-series-launch-3198882/)
+ - [The Incredible TV Show That Made Me Subscribe to BritBox     - CNET](https://www.cnet.com/culture/entertainment/the-incredible-tv-show-that-made-me-subscribe-to-britbox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
