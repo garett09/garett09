@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revisiting Binary Domain, a burly shooter with an infectious combat loop](https://www.pcgamer.com/revisiting-binary-domain-a-burly-shooter-with-an-infectious-combat-loop)
- - [Today&#39;s Wordle 429 answer and hint: Monday, August 22](https://www.pcgamer.com/todays-wordle-429-answer-hint)
- - [Bitcoin mining company recoups $67M in debt selling 26,200 old rigs](https://www.pcgamer.com/bitcoin-mining-company-recoups-dollar67m-in-debt-selling-26200-old-rigs)<!-- GAME:END -->
+ - [Slime Rancher 2 wrangles its way onto PC next month](https://www.pcgamer.com/slime-rancher-2-wrangles-its-way-onto-pc-next-month)
+ - [House of the Dragon is trying to take the pain of its women seriously](https://www.polygon.com/23315490/house-of-the-dragon-episode-1-review)
+ - [MultiVersus was July&#39;s biggest-selling game, ousting Elden Ring from the top spot](https://www.pcgamer.com/multiversus-was-julys-biggest-selling-game-ousting-elden-ring-from-the-top-spot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
