@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Real-Life Black Hole Sounds Like A Mass Effect Reaper](https://kotaku.com/nasa-black-hole-perseus-cluster-outer-wilds-mass-effect-1849441782)
- - [The Next Big D&amp;D Experience Looks Like A Video Game, And That&#39;s A Problem](https://kotaku.com/dnd-dungeons-and-dragons-3d-tools-vtt-official-unreal-1849441802)
- - [MoviePass returns with a new model and without the iconic red card](https://www.polygon.com/23316773/moviepass-relaunch-return-beta-waitlist-details)<!-- GAME:END -->
+ - [Saints Row’s Red Faction Easter egg reads like a condemnation of crunch](https://www.polygon.com/23308347/saints-rows-easter-egg-red-faction)
+ - [Realm Royale Is Now Reforged](https://news.xbox.com/en-us/2022/08/22/realm-royale-is-now-reforged/)
+ - [The New Saints Row Is Getting Trashed By Critics](https://kotaku.com/saints-row-review-roundup-ps4-ps5-xbox-pc-1849442127)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
