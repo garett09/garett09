@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God has seen enough its time to commence the Purge](http://9gag.com/gag/abgPX0X)
- - 🚯 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)
- - 🚯 [Trashed](http://9gag.com/gag/a71zjjz)<!-- MEMES:END -->
+ - 🚖 [One last ride](http://9gag.com/gag/aNPxrQ0)
+ - 🚯 [When you\u2019re a pharmacist but raves are your life !](http://9gag.com/gag/aKm04EN)
+ - 🚯 [This is just toxic.](http://9gag.com/gag/axBxE2L)<!-- MEMES:END -->
 
 --- 
 
