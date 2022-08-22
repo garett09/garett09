@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And a diet coke please](http://9gag.com/gag/a81BPw3)
- - 🚯 [Not surprising for California](http://9gag.com/gag/apgWOV9)
- - 🚯 [I\u2019m this old](http://9gag.com/gag/aZrGAMW)<!-- MEMES:END -->
+ - 🚖 [Not the dream he had in mind](http://9gag.com/gag/amgEj3X)
+ - 🚯 [I\u2019m this old](http://9gag.com/gag/aZrGAMW)
+ - 🚯 [Gee\u2019s golden langur. Researchers have said that this monkey works hard to avoid human interactions, making them extremely difficult to observe in the wild](http://9gag.com/gag/aRrYYL5)<!-- MEMES:END -->
 
 --- 
 
