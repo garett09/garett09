@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk subpoenas former Twitter CEO Jack Dorsey, ahead of his trial with Twitter set to begin on October 17 in the Delaware Court of Chancery &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220822/p12#a220822p12)
- - [YouTube launches a dedicated page for podcasts](https://www.theverge.com/2022/8/22/23316907/youtube-podcast-page-spotify-apple)
- - [The Game Awards sets a date: December 8th](https://www.theverge.com/2022/8/22/23316711/the-game-awards-date-geoff-keighley-december-8)<!-- TECH:END -->
+ - [France is giving €4,000 to people who trade in their car for an e-bike](https://www.theverge.com/2022/8/22/23316962/france-ebike-car-trade-subsidy-climate-change)
+ - [NFT copyright is still a total mess, says report](https://www.theverge.com/2022/8/22/23316723/nft-copyright-galaxy-report-crypto-ip-rights-licensing-ownership)
+ - [How to search for images you can &lpar;legally&rpar; use for free](https://www.theverge.com/23308003/image-search-free-legal-use-how-to-wikimedia-creative-commons)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
