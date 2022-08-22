@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the back of your iPhone as a button in iOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-use-the-back-of-your-iphone-as-a-button-in-ios-15?utm_medium=rss)
- - [Zoom reports Q2 revenue up 8% YoY to $1.1B, vs. $1.12B est., Enterprise customers up 18% YoY to 204.1K, and Q3 guidance below estimates; stock is down 7%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220822/p13#a220822p13)
- - [eBay is acquiring TCGplayer, one of the largest trading card marketplaces](https://www.theverge.com/2022/8/22/23316958/ebay-tcgplayer-acquiring-trading-card-games-collectibles)<!-- TECH:END -->
+ - [Sources: in Q2 Instacart&#39;s revenue rose 39% YoY to $621M, orders increased 25% YoY to 60M+, and order volume rose 21% YoY to $7.1B, as the company plans its IPO &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/220822/p14#a220822p14)
+ - [Get ready: Some of Samsung’s very old phones are about to get updates](https://www.androidauthority.com/samsung-updates-older-phones-3199208/)
+ - [Watch this laser-guided knife throwing machine nail 10 in a row](https://www.theverge.com/2022/8/22/23310138/knife-throwing-machine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
