@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hormones](http://9gag.com/gag/amgjNwv)
- - 🚯 [Do you know how much I colonised!?](http://9gag.com/gag/aRr5Q4B)
- - 🚯 [My wife got me a magnet bracelet for holding on to screws as I fix things](http://9gag.com/gag/amgjN1o)<!-- MEMES:END -->
+ - 🚖 [My wife got me a magnet bracelet for holding on to screws as I fix things](http://9gag.com/gag/amgjN1o)
+ - 🚯 [This should be top priority my dudes](http://9gag.com/gag/avAYZLn)
+ - 🚯 [Do you know how much I colonised!?](http://9gag.com/gag/aRr5Q4B)<!-- MEMES:END -->
 
 --- 
 
