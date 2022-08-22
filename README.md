@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Build giant monsters out of parts and battle them in Kaiju Klash](https://www.pcgamer.com/build-giant-monsters-out-of-parts-and-battle-them-in-kaiju-klash)
- - [Original GTA creator reports Rockstar put copyright strikes on his prototype videos](https://www.pcgamer.com/gta-creator-reports-rockstar-put-copyright-strikes-on-his-prototype-videos)
- - [We like how you can watch dancing in PUBG&#39;s 19.1 patch](https://www.pcgamer.com/we-like-how-you-can-watch-dancing-in-pubgs-191-patch)<!-- GAME:END -->
+ - [House of the Dragon’s pilot is playing the long game](https://www.polygon.com/23287745/house-of-the-dragon-pilot-game-of-thrones-hbo-fire-and-blood)
+ - [HBO shows first footage of The Last of Us series](https://www.polygon.com/23315724/the-last-of-us-hbo-teaser-trailer-cast-release-date)
+ - [First Footage From The Last Of US TV Show Released](https://kotaku.com/the-last-of-us-hbo-max-tv-series-show-trailer-first-1849439621)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
