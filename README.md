@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The years I spent playing old fantasy MMOs helped me to finally understand Destiny 2](https://www.pcgamer.com/the-years-i-spent-playing-old-fantasy-mmos-helped-me-to-finally-understand-destiny-2)
- - [Thor: Love and Thunder hits Disney Plus on Sept. 8 for Disney Plus Day](https://www.polygon.com/23316326/thor-love-and-thunder-disney-plus-release-date-marvel)
- - [Here&#39;s a glimpse of HBO&#39;s The Last of Us TV show](https://www.pcgamer.com/heres-a-glimpse-of-hbos-the-last-of-us-tv-show)<!-- GAME:END -->
+ - [Destiny 2 Lightfall details, reprised raid, and season 18 name leak ahead of Bungie showcase](https://www.polygon.com/23316493/destiny-2-showcase-leaks-lightfall-strand-raid-season-18-plunder-kings-fall)
+ - [Rockstar Forced Takedown Of GTA Prototype Footage, Original Dev Says](https://kotaku.com/gta-5-online-prototype-youtube-copyright-strike-creator-1849441183)
+ - [The Game Awards’ trailer onslaught returns this December](https://www.polygon.com/23312906/the-game-awards-2022-date-trailers-categories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
