@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pegasus iPhone spyware firm CEO steps down in corporate reshuffle](https://appleinsider.com/articles/22/08/22/pegasus-iphone-spyware-firm-ceo-steps-down-in-corporate-reshuffle?utm_medium=rss)
  - [M1 MacBook Pro, MacBook Air added to Apple Self Repair Program](https://appleinsider.com/articles/22/08/22/m1-macbook-pro-macbook-air-added-to-apple-self-repair-program?utm_medium=rss)
- - [Thor: Love and Thunder Hits Disney Plus on Sept. 8     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-hits-disney-plus-on-sept-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Computer Services, which offers payment processing and compliance tools, agrees to be acquired by Centerbridge and Bridgeport for $1.6B in cash &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220822/p7#a220822p7)
+ - [With no real competition, Samsung is already coasting on its foldable lineup](https://www.androidauthority.com/samsung-foldable-fatigue-3196629/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
