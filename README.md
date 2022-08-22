@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you even read the original cartoons ?](http://9gag.com/gag/aBn7DB1)
- - 🚯 [Think outside the box](http://9gag.com/gag/aPZN6wG)
- - 🚯 [Even with a full time job it feels like forever.](http://9gag.com/gag/aAGonEo)<!-- MEMES:END -->
+ - 🚖 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)
+ - 🚯 [When taking breath starting to be expensive](http://9gag.com/gag/aBn7DbO)
+ - 🚯 [Shit I lose my head](http://9gag.com/gag/a714vob)<!-- MEMES:END -->
 
 --- 
 
