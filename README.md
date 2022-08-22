@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold your skirts, lads. It\u2019s not wokeness - it\u2019s the original source material.](http://9gag.com/gag/aKm0zqb)
- - 🚯 [One last ride](http://9gag.com/gag/aNPxrQ0)
- - 🚯 [God has seen enough its time to commence the Purge](http://9gag.com/gag/abgPX0X)<!-- MEMES:END -->
+ - 🚖 [10 years ago today, we lost a piece of art, but won a masterpiece. The number of tourists visiting the town had increased from 6,000 in 2012, to 300,000 in 2019, and they made nearly 500K Euros from Souvenirs.](http://9gag.com/gag/aYr8NMO)
+ - 🚯 [Hormones](http://9gag.com/gag/amgjNwv)
+ - 🚯 [Old but gold, somehow true in so many ways... remember lads it&#39;s always your fault in the end....](http://9gag.com/gag/aM4R14P)<!-- MEMES:END -->
 
 --- 
 
