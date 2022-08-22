@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google AI flagged parents’ accounts for potential abuse over nude photos of their sick kids](https://www.theverge.com/2022/8/21/23315513/google-photos-csam-scanning-account-deletion-investigation)
- - [Watch the First Trailer for HBO Max&#39;s &#39;The Last of Us&#39;     - CNET](https://www.cnet.com/culture/entertainment/watch-the-very-first-trailer-for-the-last-of-us-on-hbo-max/#ftag=CAD590a51e)
- - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-see-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SoftBank&#39;s 2021 corporate income tax was zero despite a &quot;SoftBank tax rule&quot; debuting in 2020 and the group reporting record profits for a Japanese company &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220821/p12#a220821p12)
+ - [The Best Anime Shows in Netflix&#39;s Surprising Awesome Line-Up     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-shows-in-netflixs-surprising-awesome-line-up/#ftag=CAD590a51e)
+ - [Our first glimpse of HBO’s The Last of Us TV show is here](https://www.theverge.com/2022/8/21/23315908/the-last-of-us-hbo-sony-streaming-teaser)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
