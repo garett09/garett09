@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s sex scenes kick off with Matt Smith as the saddest boy at the orgy](https://www.polygon.com/23310439/house-of-the-dragon-sex-scenes-matt-smith-interview)
- - [It took owning a Steam Deck to finally understand its appeal](https://www.pcgamer.com/steam-deck-is-great)
- - [Finally experiencing the demanding RTS I could only dream of running in 2007](https://www.pcgamer.com/finally-playing-the-demanding-rts-i-could-only-dream-of-running-in-2007)<!-- GAME:END -->
+ - [Destiny 2 Fortnite Skins Leak Ahead Of Big Lightfall Reveal](https://kotaku.com/destiny-2-fortnite-drift-omega-skin-leak-lightfall-1849440549)
+ - [Saints Row reboots the series with a rage-fueled take on the gig economy](https://www.polygon.com/reviews/23313069/saints-row-review-reboot-release-date-playstation-xbox-series-x-windows-pc)
+ - [Is new Pokémon Cyclizar related to Scarlet and Violet’s legendaries? Here’s the theory](https://www.polygon.com/pokemon/23316266/pokemon-scarlet-violet-legendaries-koraidon-miraidon-paradox-cyclizar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
