@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a joke](http://9gag.com/gag/aLvYKY5)
- - 🚯 [Seriously I don&#39;t deserve my salary](http://9gag.com/gag/aQXwP5r)
- - 🚯 [Do you know how much I colonised!?](http://9gag.com/gag/aRr5Q4B)<!-- MEMES:END -->
+ - 🚖 [Footage from Mar&#39;inka, Donetsk oblast. Unknown from when. This is Thermite it&#39;s temperature is about 2200 degrees Celsius. Just imagine being there,hell on earth.](http://9gag.com/gag/a21BP4O)
+ - 🚯 [What a joke](http://9gag.com/gag/aLvYKY5)
+ - 🚯 [The birth of a newborn Dolphin](http://9gag.com/gag/aRr5w5y)<!-- MEMES:END -->
 
 --- 
 
