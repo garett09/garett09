@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police in Delhi, India, who use facial recognition to identify protesters, say they consider 80%+ accuracy a &quot;positive&quot; match, raising concerns among activists &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/220822/p5#a220822p5)
- - [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
- - [These Trees Are Spreading North in Alaska. That’s Not Good](https://www.wired.com/story/these-trees-are-spreading-north-in-alaska-thats-not-good/)<!-- TECH:END -->
+ - [Funny Business: TikTok Is Putting a New Spin on Standup Comedy     - CNET](https://www.cnet.com/culture/internet/funny-business-tiktok-is-putting-a-new-spin-on-standup-comedy/#ftag=CAD590a51e)
+ - [If Humans Went Extinct, Would a Similar Species Evolve?](https://www.wired.com/story/longtermism-technology-evolution/)
+ - [The Best Espresso Machines for the Home Barista](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
