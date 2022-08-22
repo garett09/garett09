@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard to argue with](http://9gag.com/gag/a9193Ko)
- - 🚯 [Trashed](http://9gag.com/gag/a71zjjz)
- - 🚯 [Prmouns](http://9gag.com/gag/aqGqvpp)<!-- MEMES:END -->
+ - 🚖 [That&#39;s why you never hear `f**k the fire fighters!`](http://9gag.com/gag/arn61O5)
+ - 🚯 [It&#39;s coming...](http://9gag.com/gag/aRrYx0G)
+ - 🚯 [This is just toxic.](http://9gag.com/gag/axBxE2L)<!-- MEMES:END -->
 
 --- 
 
