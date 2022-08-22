@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Viktor Orban has become the fattest dictator in the world.](http://9gag.com/gag/aPZKKXR)
- - 🚯 [I\u2019m this old](http://9gag.com/gag/aZrGAMW)
- - 🚯 [A new washing machine model for Europeans for the Fall-Winter 2022 season!](http://9gag.com/gag/aVxNAEO)<!-- MEMES:END -->
+ - 🚖 [A new washing machine model for Europeans for the Fall-Winter 2022 season!](http://9gag.com/gag/aVxNAEO)
+ - 🚯 [How to open a wine bottle.](http://9gag.com/gag/aXr559v)
+ - 🚯 [Would love to go there for a try!](http://9gag.com/gag/arnjYQ0)<!-- MEMES:END -->
 
 --- 
 
