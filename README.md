@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ambitious Shonen Jump Game Teams You Up With Heroes From Spy x Family, Kaiju No. 8, More](https://kotaku.com/captain-velvet-meteor-shonen-jump-spy-family-manga-rpg-1849442319)
- - [Rollerdrome is a blast if you don’t think too hard about it](https://www.polygon.com/reviews/23316679/rollerdrome-review-ps4-ps5-pc)
- - [Saints Row’s Red Faction Easter egg reads like a condemnation of crunch](https://www.polygon.com/23308347/saints-rows-easter-egg-red-faction)<!-- GAME:END -->
+ - [Valve Bans Steam Dev From Forums After &#39;Abusive&#39; Behavior](https://kotaku.com/steam-dolphin-barn-incorporated-domina-valve-1849442963)
+ - [The Mystery Of Elden Ring&#39;s Most Enigmatic Character Reaches An Absurd Conclusion](https://kotaku.com/elden-ring-goldmask-cut-dialogue-ryan-morris-youtube-1849442736)
+ - [Work, Life, And Sex All Revolve Around Video Games In This Devastating Fiction Book](https://kotaku.com/gabrielle-zevin-video-game-design-fiction-novel-review-1849442689)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
