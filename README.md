@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the dream he had in mind](http://9gag.com/gag/amgEj3X)
- - 🚯 [I\u2019m this old](http://9gag.com/gag/aZrGAMW)
- - 🚯 [Gee\u2019s golden langur. Researchers have said that this monkey works hard to avoid human interactions, making them extremely difficult to observe in the wild](http://9gag.com/gag/aRrYYL5)<!-- MEMES:END -->
+ - 🚖 [If your parents paid for your college and your room and board, it\u2019s the same.](http://9gag.com/gag/aKmr00g)
+ - 🚯 [Makes perfect sense](http://9gag.com/gag/aDDEp3Z)
+ - 🚯 [Our expectations for you were low.. But holy f**k.](http://9gag.com/gag/aVxNnjM)<!-- MEMES:END -->
 
 --- 
 
