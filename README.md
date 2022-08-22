@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gravity Rush movie floats into development](https://www.polygon.com/23316652/gravity-rush-movie-adaptation-playstation-vita)
- - [PlayStation Hit By $5.9 Billion Lawsuit For ‘Ripping People Off’ On Digital Games](https://kotaku.com/playstation-sony-lawsuit-digital-store-ripping-off-1849441245)
- - [Destiny 2 Lightfall details, reprised raid, and season 18 name leak ahead of Bungie showcase](https://www.polygon.com/23316493/destiny-2-showcase-leaks-lightfall-strand-raid-season-18-plunder-kings-fall)<!-- GAME:END -->
+ - [Real-Life Black Hole Sounds Like A Mass Effect Reaper](https://kotaku.com/nasa-black-hole-perseus-cluster-outer-wilds-mass-effect-1849441782)
+ - [The Next Big D&amp;D Experience Looks Like A Video Game, And That&#39;s A Problem](https://kotaku.com/dnd-dungeons-and-dragons-3d-tools-vtt-official-unreal-1849441802)
+ - [MoviePass returns with a new model and without the iconic red card](https://www.polygon.com/23316773/moviepass-relaunch-return-beta-waitlist-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
