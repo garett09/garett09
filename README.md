@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row’s Red Faction Easter egg reads like a condemnation of crunch](https://www.polygon.com/23308347/saints-rows-easter-egg-red-faction)
- - [Realm Royale Is Now Reforged](https://news.xbox.com/en-us/2022/08/22/realm-royale-is-now-reforged/)
- - [The New Saints Row Is Getting Trashed By Critics](https://kotaku.com/saints-row-review-roundup-ps4-ps5-xbox-pc-1849442127)<!-- GAME:END -->
+ - [Ambitious Shonen Jump Game Teams You Up With Heroes From Spy x Family, Kaiju No. 8, More](https://kotaku.com/captain-velvet-meteor-shonen-jump-spy-family-manga-rpg-1849442319)
+ - [Rollerdrome is a blast if you don’t think too hard about it](https://www.polygon.com/reviews/23316679/rollerdrome-review-ps4-ps5-pc)
+ - [Saints Row’s Red Faction Easter egg reads like a condemnation of crunch](https://www.polygon.com/23308347/saints-rows-easter-egg-red-faction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
