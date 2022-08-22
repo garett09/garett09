@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M1 MacBook Pro, MacBook Air added to Apple Self Repair Program](https://appleinsider.com/articles/22/08/22/m1-macbook-pro-macbook-air-added-to-apple-self-repair-program?utm_medium=rss)
- - [Computer Services, which offers payment processing and compliance tools, agrees to be acquired by Centerbridge and Bridgeport for $1.6B in cash &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220822/p7#a220822p7)
- - [With no real competition, Samsung is already coasting on its foldable lineup](https://www.androidauthority.com/samsung-foldable-fatigue-3196629/)<!-- TECH:END -->
+ - [Compared: Pixel Buds Pro versus AirPods 3 &amp; AirPods Pro](https://appleinsider.com/articles/22/05/15/compared-pixel-buds-pro-versus-airpods-3-airpods-pro?utm_medium=rss)
+ - [Serena Shades review, testing the Pela Lomi, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/08/22/serena-shades-review-testing-the-pela-lomi-more-on-homekit-insider?utm_medium=rss)
+ - [Electrical currents to the brain improve memory for older adults, study finds](https://www.theverge.com/23316230/brain-stimulation-memory-short-long-alzheimers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
