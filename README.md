@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Fortnite Skins Leak Ahead Of Big Lightfall Reveal](https://kotaku.com/destiny-2-fortnite-drift-omega-skin-leak-lightfall-1849440549)
- - [Saints Row reboots the series with a rage-fueled take on the gig economy](https://www.polygon.com/reviews/23313069/saints-row-review-reboot-release-date-playstation-xbox-series-x-windows-pc)
- - [Is new Pokémon Cyclizar related to Scarlet and Violet’s legendaries? Here’s the theory](https://www.polygon.com/pokemon/23316266/pokemon-scarlet-violet-legendaries-koraidon-miraidon-paradox-cyclizar)<!-- GAME:END -->
+ - [The years I spent playing old fantasy MMOs helped me to finally understand Destiny 2](https://www.pcgamer.com/the-years-i-spent-playing-old-fantasy-mmos-helped-me-to-finally-understand-destiny-2)
+ - [Thor: Love and Thunder hits Disney Plus on Sept. 8 for Disney Plus Day](https://www.polygon.com/23316326/thor-love-and-thunder-disney-plus-release-date-marvel)
+ - [Here&#39;s a glimpse of HBO&#39;s The Last of Us TV show](https://www.pcgamer.com/heres-a-glimpse-of-hbos-the-last-of-us-tv-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
