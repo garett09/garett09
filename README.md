@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If your parents paid for your college and your room and board, it\u2019s the same.](http://9gag.com/gag/aKmr00g)
- - 🚯 [Makes perfect sense](http://9gag.com/gag/aDDEp3Z)
- - 🚯 [Our expectations for you were low.. But holy f**k.](http://9gag.com/gag/aVxNnjM)<!-- MEMES:END -->
+ - 🚖 [Everyone\u2019s pointing something at everyone](http://9gag.com/gag/aAGonvL)
+ - 🚯 [The way this bird teaches its little ones to hunt for worms](http://9gag.com/gag/adgm3nN)
+ - 🚯 [My man speaks Mandarin and understands the gossip what happens follows](http://9gag.com/gag/axBXxBL)<!-- MEMES:END -->
 
 --- 
 
