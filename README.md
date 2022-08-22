@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Exclusive Magic: The Gathering card reveal: Coalition Skyknight](https://www.pcgamer.com/exclusive-magic-the-gathering-card-reveal-coalition-skyknight)
  - [More Sega movies are coming, with Space Channel 5 and Comix Zone adaptations in the works](https://www.pcgamer.com/more-sega-movies-are-coming-with-space-channel-5-and-comix-zone-adaptations-in-the-works)
- - [House of the Dragon revealed some of Game of Thrones’ most important lore in its premiere episode](https://www.polygon.com/game-of-thrones/23289499/house-of-the-dragon-aegon-conqueror-prophecy-ice-and-fire-game-of-thrones)
- - [House of the Dragon’s pilot is playing the long game](https://www.polygon.com/23287745/house-of-the-dragon-pilot-game-of-thrones-hbo-fire-and-blood)<!-- GAME:END -->
+ - [House of the Dragon revealed some of Game of Thrones’ most important lore in its premiere episode](https://www.polygon.com/game-of-thrones/23289499/house-of-the-dragon-aegon-conqueror-prophecy-ice-and-fire-game-of-thrones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
