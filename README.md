@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Pixel Buds Pro versus AirPods 3 &amp; AirPods Pro](https://appleinsider.com/articles/22/05/15/compared-pixel-buds-pro-versus-airpods-3-airpods-pro?utm_medium=rss)
- - [Serena Shades review, testing the Pela Lomi, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/08/22/serena-shades-review-testing-the-pela-lomi-more-on-homekit-insider?utm_medium=rss)
- - [Electrical currents to the brain improve memory for older adults, study finds](https://www.theverge.com/23316230/brain-stimulation-memory-short-long-alzheimers)<!-- TECH:END -->
+ - [Apple&#39;s upcoming MacBook Pro models could retain 5nm-built chips](https://appleinsider.com/articles/22/08/22/apples-upcoming-macbook-pro-models-could-retain-5nm-built-chips?utm_medium=rss)
+ - [There&#39;s hope that older Macs will be able to run macOS Ventura](https://appleinsider.com/articles/22/08/22/theres-hope-that-older-macs-will-be-able-to-run-macos-ventura?utm_medium=rss)
+ - [Ford is laying off 3,000 employees](https://www.theverge.com/2022/8/22/23316491/ford-layoffs-3000-workers-employees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
