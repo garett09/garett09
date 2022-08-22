@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest Windows security update is locking users out of their PCs](https://www.pcgamer.com/latest-windows-security-update-is-locking-users-out-of-their-pcs)
- - [Exclusive Magic: The Gathering card reveal: Coalition Skyknight](https://www.pcgamer.com/exclusive-magic-the-gathering-card-reveal-coalition-skyknight)
- - [More Sega movies are coming, with Space Channel 5 and Comix Zone adaptations in the works](https://www.pcgamer.com/more-sega-movies-are-coming-with-space-channel-5-and-comix-zone-adaptations-in-the-works)<!-- GAME:END -->
+ - [Today&#39;s Wordle 429 answer and hint: Monday, August 22](https://www.pcgamer.com/todays-wordle-429-answer-hint)
+ - [Bitcoin mining company recoups $67M in debt selling 26,200 old rigs](https://www.pcgamer.com/bitcoin-mining-company-recoups-dollar67m-in-debt-selling-26200-old-rigs)
+ - [Latest Windows security update is locking users out of their PCs](https://www.pcgamer.com/latest-windows-security-update-is-locking-users-out-of-their-pcs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
