@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Latest Windows security update is locking users out of their PCs](https://www.pcgamer.com/latest-windows-security-update-is-locking-users-out-of-their-pcs)
  - [Exclusive Magic: The Gathering card reveal: Coalition Skyknight](https://www.pcgamer.com/exclusive-magic-the-gathering-card-reveal-coalition-skyknight)
- - [More Sega movies are coming, with Space Channel 5 and Comix Zone adaptations in the works](https://www.pcgamer.com/more-sega-movies-are-coming-with-space-channel-5-and-comix-zone-adaptations-in-the-works)
- - [House of the Dragon revealed some of Game of Thrones’ most important lore in its premiere episode](https://www.polygon.com/game-of-thrones/23289499/house-of-the-dragon-aegon-conqueror-prophecy-ice-and-fire-game-of-thrones)<!-- GAME:END -->
+ - [More Sega movies are coming, with Space Channel 5 and Comix Zone adaptations in the works](https://www.pcgamer.com/more-sega-movies-are-coming-with-space-channel-5-and-comix-zone-adaptations-in-the-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
