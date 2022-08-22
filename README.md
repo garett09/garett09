@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 years ago today, we lost a piece of art, but won a masterpiece. The number of tourists visiting the town had increased from 6,000 in 2012, to 300,000 in 2019, and they made nearly 500K Euros from Souvenirs.](http://9gag.com/gag/aYr8NMO)
- - 🚯 [Hormones](http://9gag.com/gag/amgjNwv)
- - 🚯 [Old but gold, somehow true in so many ways... remember lads it&#39;s always your fault in the end....](http://9gag.com/gag/aM4R14P)<!-- MEMES:END -->
+ - 🚖 [Hormones](http://9gag.com/gag/amgjNwv)
+ - 🚯 [Do you know how much I colonised!?](http://9gag.com/gag/aRr5Q4B)
+ - 🚯 [My wife got me a magnet bracelet for holding on to screws as I fix things](http://9gag.com/gag/amgjN1o)<!-- MEMES:END -->
 
 --- 
 
