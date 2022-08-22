@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Revisiting Binary Domain, a burly shooter with an infectious combat loop](https://www.pcgamer.com/revisiting-binary-domain-a-burly-shooter-with-an-infectious-combat-loop)
  - [Today&#39;s Wordle 429 answer and hint: Monday, August 22](https://www.pcgamer.com/todays-wordle-429-answer-hint)
- - [Bitcoin mining company recoups $67M in debt selling 26,200 old rigs](https://www.pcgamer.com/bitcoin-mining-company-recoups-dollar67m-in-debt-selling-26200-old-rigs)
- - [Latest Windows security update is locking users out of their PCs](https://www.pcgamer.com/latest-windows-security-update-is-locking-users-out-of-their-pcs)<!-- GAME:END -->
+ - [Bitcoin mining company recoups $67M in debt selling 26,200 old rigs](https://www.pcgamer.com/bitcoin-mining-company-recoups-dollar67m-in-debt-selling-26200-old-rigs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
