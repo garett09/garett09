@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Add more](http://9gag.com/gag/aegvXZj)
- - 🚯 [What happens when you call a professional locksmith. CT @84locksmith](http://9gag.com/gag/aXrDZQb)
- - 🚯 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)<!-- MEMES:END -->
+ - 🚖 [\u200e\u200e \u200e\u200e](http://9gag.com/gag/adgZyPd)
+ - 🚯 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)
+ - 🚯 [Yep](http://9gag.com/gag/aYr8jbq)<!-- MEMES:END -->
 
 --- 
 
