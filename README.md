@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My wife got me a magnet bracelet for holding on to screws as I fix things](http://9gag.com/gag/amgjN1o)
- - 🚯 [This should be top priority my dudes](http://9gag.com/gag/avAYZLn)
+ - 🚖 [What a joke](http://9gag.com/gag/aLvYKY5)
+ - 🚯 [Seriously I don&#39;t deserve my salary](http://9gag.com/gag/aQXwP5r)
  - 🚯 [Do you know how much I colonised!?](http://9gag.com/gag/aRr5Q4B)<!-- MEMES:END -->
 
 --- 
