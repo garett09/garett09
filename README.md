@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A new washing machine model for Europeans for the Fall-Winter 2022 season!](http://9gag.com/gag/aVxNAEO)
- - 🚯 [How to open a wine bottle.](http://9gag.com/gag/aXr559v)
- - 🚯 [Would love to go there for a try!](http://9gag.com/gag/arnjYQ0)<!-- MEMES:END -->
+ - 🚖 [And a diet coke please](http://9gag.com/gag/a81BPw3)
+ - 🚯 [Not surprising for California](http://9gag.com/gag/apgWOV9)
+ - 🚯 [I\u2019m this old](http://9gag.com/gag/aZrGAMW)<!-- MEMES:END -->
 
 --- 
 
