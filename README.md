@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)
- - 🚯 [When taking breath starting to be expensive](http://9gag.com/gag/aBn7DbO)
- - 🚯 [Shit I lose my head](http://9gag.com/gag/a714vob)<!-- MEMES:END -->
+ - 🚖 [Add more](http://9gag.com/gag/aegvXZj)
+ - 🚯 [What happens when you call a professional locksmith. CT @84locksmith](http://9gag.com/gag/aXrDZQb)
+ - 🚯 [Aubrey breaking character is priceless](http://9gag.com/gag/a11zp1P)<!-- MEMES:END -->
 
 --- 
 
