@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s why you never hear `f**k the fire fighters!`](http://9gag.com/gag/arn61O5)
- - 🚯 [It&#39;s coming...](http://9gag.com/gag/aRrYx0G)
- - 🚯 [This is just toxic.](http://9gag.com/gag/axBxE2L)<!-- MEMES:END -->
+ - 🚖 [Have you even read the original cartoons ?](http://9gag.com/gag/aBn7DB1)
+ - 🚯 [Think outside the box](http://9gag.com/gag/aPZN6wG)
+ - 🚯 [Even with a full time job it feels like forever.](http://9gag.com/gag/aAGonEo)<!-- MEMES:END -->
 
 --- 
 
