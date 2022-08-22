@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s upcoming MacBook Pro models could retain 5nm-built chips](https://appleinsider.com/articles/22/08/22/apples-upcoming-macbook-pro-models-could-retain-5nm-built-chips?utm_medium=rss)
- - [There&#39;s hope that older Macs will be able to run macOS Ventura](https://appleinsider.com/articles/22/08/22/theres-hope-that-older-macs-will-be-able-to-run-macos-ventura?utm_medium=rss)
- - [Ford is laying off 3,000 employees](https://www.theverge.com/2022/8/22/23316491/ford-layoffs-3000-workers-employees)<!-- TECH:END -->
+ - [Intel will bring &quot;chiplet&quot; packaging to its Meteor Lake chips in 2023 and Arrow Lake and Lunar Lake chips slated for 2024, to better compete with Apple silicon &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/220822/p10#a220822p10)
+ - [Thor: Love and Thunder is coming to Disney Plus in just a few weeks](https://www.theverge.com/2022/8/22/23316645/thor-love-and-thunder-disney-plus-streaming-september)
+ - [Clip Studio Paint announces subscription plan, angering the online artist community](https://www.theverge.com/2022/8/22/23316413/clip-studio-paint-subscription-plan-angry-artists-digital-illustration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
