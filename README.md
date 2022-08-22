@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One last ride](http://9gag.com/gag/aNPxrQ0)
- - 🚯 [When you\u2019re a pharmacist but raves are your life !](http://9gag.com/gag/aKm04EN)
- - 🚯 [This is just toxic.](http://9gag.com/gag/axBxE2L)<!-- MEMES:END -->
+ - 🚖 [What happens when you call a professional locksmith. CT @84locksmith](http://9gag.com/gag/aXrDZQb)
+ - 🚯 [One last ride](http://9gag.com/gag/aNPxrQ0)
+ - 🚯 [Shit I lose my head](http://9gag.com/gag/a714vob)<!-- MEMES:END -->
 
 --- 
 
