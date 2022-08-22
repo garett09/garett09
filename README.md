@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone\u2019s pointing something at everyone](http://9gag.com/gag/aAGonvL)
- - 🚯 [The way this bird teaches its little ones to hunt for worms](http://9gag.com/gag/adgm3nN)
- - 🚯 [My man speaks Mandarin and understands the gossip what happens follows](http://9gag.com/gag/axBXxBL)<!-- MEMES:END -->
+ - 🚖 [Prmouns](http://9gag.com/gag/aqGqvpp)
+ - 🚯 [Karma is Amber heard](http://9gag.com/gag/aogbr7X)
+ - 🚯 [Hard to argue with](http://9gag.com/gag/a9193Ko)<!-- MEMES:END -->
 
 --- 
 
