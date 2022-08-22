@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Bans Steam Dev From Forums After &#39;Abusive&#39; Behavior](https://kotaku.com/steam-dolphin-barn-incorporated-domina-valve-1849442963)
- - [The Mystery Of Elden Ring&#39;s Most Enigmatic Character Reaches An Absurd Conclusion](https://kotaku.com/elden-ring-goldmask-cut-dialogue-ryan-morris-youtube-1849442736)
- - [Work, Life, And Sex All Revolve Around Video Games In This Devastating Fiction Book](https://kotaku.com/gabrielle-zevin-video-game-design-fiction-novel-review-1849442689)<!-- GAME:END -->
+ - [Star Wars: Knights of the Old Republic remake reportedly moves to a new developer](https://www.polygon.com/23317279/star-wars-knights-of-the-old-ps5-remake-saber-interactive)
+ - [Tekken 7 Player Competes In Tournament With Big-Ass Buster Sword Controller](https://kotaku.com/tekken-7-final-fantasy-cloud-buster-sword-controller-1849443262)
+ - [Railway Empire 2 takes the train simulation cross-continental](https://www.pcgamer.com/railway-empire-2-takes-the-train-simulation-cross-continental)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
