@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in Q2 Instacart&#39;s revenue rose 39% YoY to $621M, orders increased 25% YoY to 60M+, and order volume rose 21% YoY to $7.1B, as the company plans its IPO &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/220822/p14#a220822p14)
- - [Get ready: Some of Samsung’s very old phones are about to get updates](https://www.androidauthority.com/samsung-updates-older-phones-3199208/)
- - [Watch this laser-guided knife throwing machine nail 10 in a row](https://www.theverge.com/2022/8/22/23310138/knife-throwing-machine)<!-- TECH:END -->
+ - [HBO calls House of the Dragon its biggest premiere ever, with nearly 10 million US viewers](https://www.theverge.com/hbo/2022/8/22/23317333/hbo-max-house-of-the-dragon-game-of-thrones-biggest-premiere-ever)
+ - [Sony says the PlayStation VR2 is coming in early 2023](https://www.theverge.com/2022/8/22/23317342/sony-playstation-ps-vr2-release-date-early-2023)
+ - [LockBit ransomware&#39;s leak sites suffer a DDoS attack after it claimed responsibility for breaching Entrust in June; LockBit blames Entrust for the DDoS attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220822/p15#a220822p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
