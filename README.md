@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funny Business: TikTok Is Putting a New Spin on Standup Comedy     - CNET](https://www.cnet.com/culture/internet/funny-business-tiktok-is-putting-a-new-spin-on-standup-comedy/#ftag=CAD590a51e)
- - [If Humans Went Extinct, Would a Similar Species Evolve?](https://www.wired.com/story/longtermism-technology-evolution/)
- - [The Best Espresso Machines for the Home Barista](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
+ - [Pegasus iPhone spyware firm CEO steps down in corporate reshuffle](https://appleinsider.com/articles/22/08/22/pegasus-iphone-spyware-firm-ceo-steps-down-in-corporate-reshuffle?utm_medium=rss)
+ - [M1 MacBook Pro, MacBook Air added to Apple Self Repair Program](https://appleinsider.com/articles/22/08/22/m1-macbook-pro-macbook-air-added-to-apple-self-repair-program?utm_medium=rss)
+ - [Thor: Love and Thunder Hits Disney Plus on Sept. 8     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-hits-disney-plus-on-sept-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
