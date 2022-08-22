@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happens when you call a professional locksmith. CT @84locksmith](http://9gag.com/gag/aXrDZQb)
+ - 🚖 [Hold your skirts, lads. It\u2019s not wokeness - it\u2019s the original source material.](http://9gag.com/gag/aKm0zqb)
  - 🚯 [One last ride](http://9gag.com/gag/aNPxrQ0)
- - 🚯 [Shit I lose my head](http://9gag.com/gag/a714vob)<!-- MEMES:END -->
+ - 🚯 [God has seen enough its time to commence the Purge](http://9gag.com/gag/abgPX0X)<!-- MEMES:END -->
 
 --- 
 
