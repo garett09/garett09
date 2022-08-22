@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Lightfall details, reprised raid, and season 18 name leak ahead of Bungie showcase](https://www.polygon.com/23316493/destiny-2-showcase-leaks-lightfall-strand-raid-season-18-plunder-kings-fall)
- - [Rockstar Forced Takedown Of GTA Prototype Footage, Original Dev Says](https://kotaku.com/gta-5-online-prototype-youtube-copyright-strike-creator-1849441183)
- - [The Game Awards’ trailer onslaught returns this December](https://www.polygon.com/23312906/the-game-awards-2022-date-trailers-categories)<!-- GAME:END -->
+ - [Gravity Rush movie floats into development](https://www.polygon.com/23316652/gravity-rush-movie-adaptation-playstation-vita)
+ - [PlayStation Hit By $5.9 Billion Lawsuit For ‘Ripping People Off’ On Digital Games](https://kotaku.com/playstation-sony-lawsuit-digital-store-ripping-off-1849441245)
+ - [Destiny 2 Lightfall details, reprised raid, and season 18 name leak ahead of Bungie showcase](https://www.polygon.com/23316493/destiny-2-showcase-leaks-lightfall-strand-raid-season-18-plunder-kings-fall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
