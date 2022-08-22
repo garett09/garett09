@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When was the first iPhone released?](https://www.androidauthority.com/first-iphone-release-date-3198284/)
- - [The post-Leica Huawei Mate 50 series is officially launching next month](https://www.androidauthority.com/huawei-mate-50-series-launch-3198882/)
- - [The Incredible TV Show That Made Me Subscribe to BritBox     - CNET](https://www.cnet.com/culture/entertainment/the-incredible-tv-show-that-made-me-subscribe-to-britbox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nathan Fielder’s The Rehearsal is getting a second season](https://www.theverge.com/2022/8/22/23316109/the-rehearsal-nathan-fielder-hbo-second-season-announced)
+ - [You told us: The Xiaomi Mix Fold 2 is indeed a hot foldable](https://www.androidauthority.com/xiaomi-mix-fold-2-hot-not-poll-results-3198888/)
+ - [South Korean chipmakers, historically reluctant to takes sides in the US-China rivalry, are tilting toward the US due to their dependence on Western IP and tech &lpar;Financial Times&rpar;](http://www.techmeme.com/220822/p2#a220822p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
