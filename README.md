@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter tests displaying a label on a user&#39;s profile that indicates if the user has verified their phone number, according to researcher Jane Manchun Wong &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220822/p1#a220822p1)
  - [SoftBank&#39;s 2021 corporate income tax was zero despite a &quot;SoftBank tax rule&quot; debuting in 2020 and the group reporting record profits for a Japanese company &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220821/p12#a220821p12)
- - [The Best Anime Shows in Netflix&#39;s Surprising Awesome Line-Up     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-shows-in-netflixs-surprising-awesome-line-up/#ftag=CAD590a51e)
- - [Our first glimpse of HBO’s The Last of Us TV show is here](https://www.theverge.com/2022/8/21/23315908/the-last-of-us-hbo-sony-streaming-teaser)<!-- TECH:END -->
+ - [The Best Anime Shows in Netflix&#39;s Surprising Awesome Line-Up     - CNET](https://www.cnet.com/culture/entertainment/the-best-anime-shows-in-netflixs-surprising-awesome-line-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
