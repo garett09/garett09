@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally experiencing the demanding RTS I could only dream of running in 2007](https://www.pcgamer.com/finally-playing-the-demanding-rts-i-could-only-dream-of-running-in-2007)
  - [Slime Rancher 2 wrangles its way onto PC next month](https://www.pcgamer.com/slime-rancher-2-wrangles-its-way-onto-pc-next-month)
- - [House of the Dragon is trying to take the pain of its women seriously](https://www.polygon.com/23315490/house-of-the-dragon-episode-1-review)
- - [MultiVersus was July&#39;s biggest-selling game, ousting Elden Ring from the top spot](https://www.pcgamer.com/multiversus-was-julys-biggest-selling-game-ousting-elden-ring-from-the-top-spot)<!-- GAME:END -->
+ - [House of the Dragon is trying to take the pain of its women seriously](https://www.polygon.com/23315490/house-of-the-dragon-episode-1-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
