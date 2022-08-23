@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds seventh developer beta of tvOS 16](https://appleinsider.com/articles/22/08/23/apple-seeds-seventh-developer-beta-of-tvos-16?utm_medium=rss)
- - [Apple introduces seventh iOS 16 and iPadOS 16 developer betas](https://appleinsider.com/articles/22/08/23/apple-introduces-seventh-ios-16-and-ipados-16-developer-betas?utm_medium=rss)
- - [Apple issues seventh watchOS 9 developer beta](https://appleinsider.com/articles/22/08/23/apple-issues-seventh-watchos-9-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Ginza in Tokyo opening in new eco-friendly building on Aug. 30](https://appleinsider.com/articles/22/08/23/apple-ginza-in-tokyo-opening-in-new-eco-friendly-building-on-aug-30?utm_medium=rss)
+ - [Quest VR owners have new Meta logins to use instead of Facebook](https://www.theverge.com/2022/8/23/23318359/meta-quest-vr-account-login-facebook-oculus)
+ - [Flow&#39;s Adam Neumann seems to have a conflict of interest given he is the largest investor in real estate tech startup Alfred and had board seats there until May &lpar;Forbes&rpar;](http://www.techmeme.com/220823/p25#a220823p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
