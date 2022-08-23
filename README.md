@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealogic: the IPO market in 2022 is the lowest since 2009; companies have raised $5.1B in IPOs this year so far, compared to $100B+ at the same time last year &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/220822/p19#a220822p19)
- - [Former Apple engineer accepts plea deal, pleads guilty to stealing trade secrets](https://appleinsider.com/articles/22/08/23/former-apple-engineer-accepts-plea-deal-pleads-guilty-to-stealing-trade-secrets?utm_medium=rss)
- - [Engineer admits he stole trade secrets while working on the Apple Car](https://www.theverge.com/2022/8/22/23317502/xiaolang-zhang-pleads-guilty-trade-secret-theft-xpeng-self-driving-car)<!-- TECH:END -->
+ - [Sources: Apple to begin manufacturing the iPhone 14 in India about two months after its China release, shortening the production gap between the two countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/220823/p1#a220823p1)
+ - [The Best Heating Pads: According the CNET Staff That Use Them     - CNET](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
+ - [Dealogic: the IPO market in 2022 is the lowest since 2009; companies have raised $5.1B in IPOs this year so far, compared to $100B+ at the same time last year &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/220822/p19#a220822p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
