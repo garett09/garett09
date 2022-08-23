@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Egg and Sperm Donors Could Be Required to Share Medical Records](https://www.wired.com/story/sharing-egg-sperm-donor-medical-history/)
- - [The Joy of Playing the Same Sims Family for Years](https://www.wired.com/story/joy-playing-same-sims-family-for-years/)
- - [At Some Colleges, the Fall of Roe Will Weaken Student Health Care](https://www.wired.com/story/at-some-colleges-the-fall-of-roe-will-weaken-student-health-care/)<!-- TECH:END -->
+ - [DigitalOcean plans to acquire web hosting company Cloudways for $350M in cash; around half of Cloudways&#39; clients already use DigitalOcean &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220823/p14#a220823p14)
+ - [Daily deals August 23: $299 iPad, $336 off 49-inch Samsung Curved 120Hz Monitor, $700 off EVGA GeForce RTX 3090 Ti, more](https://appleinsider.com/articles/22/08/23/daily-deals-august-23-299-ipad-336-off-49-inch-samsung-curved-120hz-monitor-700-off-evga-geforce-rtx-3090-ti-more?utm_medium=rss)
+ - [You told us: You’re split over adjusting your phone’s display resolution](https://www.androidauthority.com/adjust-phone-display-resolution-poll-results-3199557/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
