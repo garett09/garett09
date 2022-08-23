@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Footage from Mar&#39;inka, Donetsk oblast. Unknown from when. This is Thermite it&#39;s temperature is about 2200 degrees Celsius. Just imagine being there,hell on earth.](http://9gag.com/gag/a21BP4O)
- - 🚯 [What a joke](http://9gag.com/gag/aLvYKY5)
- - 🚯 [The birth of a newborn Dolphin](http://9gag.com/gag/aRr5w5y)<!-- MEMES:END -->
+ - 🚖 [What a joke](http://9gag.com/gag/aLvYKY5)
+ - 🚯 [My dog is Vegetarian. She prefers it. She was happier that way.` / `Cool, shall we test it then?](http://9gag.com/gag/angpqwz)
+ - 🚯 [It&#39;s cheap and that&#39;s all I can afford..](http://9gag.com/gag/a319dON)<!-- MEMES:END -->
 
 --- 
 
