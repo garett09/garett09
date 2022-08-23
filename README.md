@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Pretty Good Phone Privacy, a data service for Android that aims to give users an additional layer of privacy when using mobile phone networks &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220823/p3#a220823p3)
  - [Here’s what OnePlus has to say about OnePlus 10T bend test](https://www.androidauthority.com/oneplus-10t-bend-test-response-3199428/)
- - [A look at video streaming sites thriving on misinfo and hate speech like BitChute with 514M visits in 2021 and Odysee with 292M, according to Similarweb &lpar;Reuters&rpar;](http://www.techmeme.com/220823/p2#a220823p2)
- - [&#39;House of the Dragon&#39; Creators Break Down &#39;Extreme&#39; Childbirth Scene     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-creators-break-down-extreme-childbirth-scene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at video streaming sites thriving on misinfo and hate speech like BitChute with 514M visits in 2021 and Odysee with 292M, according to Similarweb &lpar;Reuters&rpar;](http://www.techmeme.com/220823/p2#a220823p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
