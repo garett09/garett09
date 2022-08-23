@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deck 13 explores new combat territory in upcoming action-rpg Atlas Fallen](https://blog.playstation.com/2022/08/23/deck-13-explores-new-combat-territory-in-upcoming-action-rpg-atlas-fallen/)
- - [Goat Simulator 3 gameplay trailer simulates more goats than ever](https://www.pcgamer.com/goat-simulator-3-gameplay-trailer-simulates-more-goats-than-ever)
- - [New fantasy action-RPG Atlas Fallen looks like Dune meets Destiny](https://www.polygon.com/23318446/atlas-fallen-release-date-trailer-deck13-gamescom)<!-- GAME:END -->
+ - [Dead Island 2’s developer wants to make zombies fun again](https://www.polygon.com/23316478/dead-island-2-interview-zombies-fun-again)
+ - [Get your first look at Dead Island 2, launching February 3 on PS4 &amp; PS5](https://blog.playstation.com/2022/08/23/get-your-first-look-at-dead-island-2-launching-february-3-on-ps4-ps5/)
+ - [Dead Island 2 returns, and it’s like the last 10 years never happened](https://www.polygon.com/23317809/dead-island-2-reveal-impressions-release-date-gamescom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
