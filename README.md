@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to break your nuts on the floor](http://9gag.com/gag/aRr5VqB)
- - 🚯 [You can run but you can&#39;t hide!! Beach!!](http://9gag.com/gag/a81Pjr3)
+ - 🚖 [How the ancient greek knew the earth was round](http://9gag.com/gag/aQXw8yq)
+ - 🚯 [Ok, have a good day!](http://9gag.com/gag/a41eY31)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
