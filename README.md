@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t connect your phone to Android Auto? You’re definitely not alone.](https://www.androidauthority.com/android-auto-phone-connection-issue-3199433/)
- - [Best Cases for iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
- - [Best Portable Mini Bluetooth Speakers for 2022: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony faces a UK class action lawsuit, seeking up to &amp;pound;5B, over claims it breached competition laws by overcharging PlayStation customers, covering 8.9M gamers &lpar;Jane Croft/Financial Times&rpar;](http://www.techmeme.com/220823/p5#a220823p5)
+ - [Microsoft might finally simplify its Windows 11 update names](https://www.theverge.com/2022/8/23/23317795/microsoft-windows-11-2022-update-naming)
+ - [Instagram is prototyping a BeReal murder clone](https://www.theverge.com/2022/8/23/23317802/instagram-ig-candid-prototype-bereal-murder-clone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
