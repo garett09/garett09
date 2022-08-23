@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple continuing full-court press against retail unionization efforts](https://appleinsider.com/articles/22/08/19/apple-continuing-full-court-press-against-retail-unionization-efforts?utm_medium=rss)
- - [Democrats and Republicans in Congress are investigating Twitter whistleblower Peiter Zatko&#39;s claims and seeking a meeting for further information &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220823/p20#a220823p20)
- - [Twitch lifts its long-standing partner exclusivity requirement, letting partners stream on YouTube, Facebook Live, and other platforms with some conditions &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220823/p19#a220823p19)<!-- TECH:END -->
+ - [Waterfield introduces new crossbody pouch made for iPad mini](https://appleinsider.com/articles/22/08/23/waterfield-introduces-new-crossbody-pouch-made-for-ipad-mini?utm_medium=rss)
+ - [Apple is now taking orders for MacBook Pro &amp; MacBook Air repair parts](https://appleinsider.com/articles/22/08/23/apple-is-now-taking-orders-for-macbook-pro-macbook-air-repair-parts?utm_medium=rss)
+ - [Samsung Galaxy Book 2 Pro review: Ultra-light delight](https://www.androidauthority.com/samsung-galaxy-book-2-pro-review-3191303/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
