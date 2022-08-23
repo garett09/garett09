@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to back up your Google account](https://www.theverge.com/21324801/gmail-download-data-back-up-save-email)
- - [Mini made a Pokémon concept car that you can hook up a game console to](https://www.theverge.com/2022/8/23/23318787/mini-pokemon-aceman-concept-car-game-console-pikachu-ev-gamescon-2022)
- - [Hideo Kojima’s new Spotify podcast launches in September](https://www.theverge.com/2022/8/23/23318748/hideo-kojima-podcast-brain-structure-spotify-september-eight)<!-- TECH:END -->
+ - [TikTok is testing a new &quot;Nearby&quot; feed with select users in Southeast Asia that displays local content to users, alongside a location tag feature for creators &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220823/p28#a220823p28)
+ - [The best Nintendo Switch cases you can buy](https://www.theverge.com/23034290/nintendo-switch-cases-best-recommendations)
+ - [Elon Musk and the $44 billion Twitter buyout he’s trying to terminate](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
