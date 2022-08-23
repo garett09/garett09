@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2, Fortnite, &amp; Fall Guys; an Epic Collaboration](https://blog.playstation.com/2022/08/23/destiny-2-fortnite-an-epic-collaboration/)
- - [Subnautica Devs And Fantasy Author Brandon Sanderson Team Up In Cool-Looking Miniatures Battle Game](https://kotaku.com/subnautica-unknown-worlds-brandon-sanderson-d-d-miniatu-1849448478)
- - [How Blackbird Interactive Crafted an Immersive Future for Hardspace: Shipbreaker](https://news.xbox.com/en-us/2022/08/23/how-blackbird-interactive-crafted-an-immersive-future-for-hardspace-shipbreaker/)<!-- GAME:END -->
+ - [&#39;80s cult classic Killer Klowns from Outer Space is becoming a multiplayer horror game](https://www.pcgamer.com/80s-cult-classic-killer-klowns-from-outer-space-is-becoming-a-multiplayer-horror-game)
+ - [Alan Wake 2 is a sequel to Alan Wake](https://www.pcgamer.com/alan-wake-2-is-a-sequel-to-alan-wake)
+ - [The game based on The Expanse looks pretty decent, especially the zero-G bits](https://www.pcgamer.com/the-expanse-telltale-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
