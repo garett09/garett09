@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fate: The Winx Saga trailer is full of magic and smooching](https://www.polygon.com/23316618/fate-the-winx-saga-season-2-trailer-netflix-release-date)
- - [Saudi Arabia first country to approve Microsoft&#39;s acquisition of Activision](https://www.pcgamer.com/saudi-arabia-first-country-to-approve-microsofts-acquisition-of-activision)
- - [Twitch finally allows partners to stream elsewhere](https://www.pcgamer.com/twitch-finally-allows-partners-to-stream-elsewhere)<!-- GAME:END -->
+ - [JBL Quantum TWS](https://www.pcgamer.com/jbl-quantum-tws-wireless-earbuds-review)
+ - [Destiny 2: Lightfall adds the game’s next Darkness subclass and a grappling hook](https://www.polygon.com/23308479/destiny-2-lightfall-showcase-trailer-strand-subclass-darkness-raid-destination-reveal-details)
+ - [Destiny 2 Lightfall Reveal Shows Crap Is Going To Hit The Fan](https://kotaku.com/destiny-2-lightfall-exotics-release-date-season-18-1849445652)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
