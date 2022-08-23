@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big dick problems](http://9gag.com/gag/a319778)
- - 🚯 [Hero](http://9gag.com/gag/a714Z1b)
+ - 🚖 [Hero](http://9gag.com/gag/a714Z1b)
+ - 🚯 [Yap](http://9gag.com/gag/a0ZAjon)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
