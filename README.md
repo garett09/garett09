@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2 Is Finally Coming After A Decade Of Development Hell](https://kotaku.com/dead-island-2-release-date-gameplay-dismemberment-coop-1849448038)
- - [I&#39;m psyched about Pinocchiosouls](https://www.pcgamer.com/im-psyched-about-pinocchiosouls)
- - [The next Outlast will traumatise up to four players at once](https://www.pcgamer.com/the-next-outlast-will-traumatise-up-to-four-players-at-once)<!-- GAME:END -->
+ - [Destiny 2, Fortnite, &amp; Fall Guys; an Epic Collaboration](https://blog.playstation.com/2022/08/23/destiny-2-fortnite-an-epic-collaboration/)
+ - [Subnautica Devs And Fantasy Author Brandon Sanderson Team Up In Cool-Looking Miniatures Battle Game](https://kotaku.com/subnautica-unknown-worlds-brandon-sanderson-d-d-miniatu-1849448478)
+ - [How Blackbird Interactive Crafted an Immersive Future for Hardspace: Shipbreaker](https://news.xbox.com/en-us/2022/08/23/how-blackbird-interactive-crafted-an-immersive-future-for-hardspace-shipbreaker/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
