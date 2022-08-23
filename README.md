@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamescom 2022 Opening Night Live: Watch it here this afternoon](https://www.polygon.com/23316789/gamescom-opening-night-live-geoff-keighley-start-time-date-trailers)
- - [This new display standard aims to demystify motion blur in gaming monitors](https://www.pcgamer.com/vesa-clearmr-motion-blur-certification)
- - [Intel says Meteor Lake is still &#39;on schedule&#39; for 2023 despite delay rumours](https://www.pcgamer.com/intel-says-meteor-lake-is-still-on-schedule-for-2023-despite-delay-rumours)<!-- GAME:END -->
+ - [Total War: Warhammer 3’s Immortal Empires redefines ‘sandbox’ video games](https://www.polygon.com/reviews/23317183/immortal-empires-review-total-war-warhammer-3-warriors-of-chaos-dlc)
+ - [A new subclass, destination, and info on the next season have seemingly leaked before today&#39;s Destiny 2 showcase](https://www.pcgamer.com/a-new-subclass-destination-and-pirate-themed-season-have-seemingly-leaked-before-todays-destiny-2-showcase)
+ - [Taking on Spa in new F1 Manager 2022 gameplay, out August 25](https://blog.playstation.com/2022/08/23/taking-on-spa-in-new-f1-manager-2022-gameplay-out-august-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
