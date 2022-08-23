@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s last security chief blasts service over &#39;grossly negligent&#39; security](https://appleinsider.com/articles/22/08/23/twitters-last-security-chief-blasts-service-over-grossly-negligent-security?utm_medium=rss)
- - [What is WordPress and should you use it?](https://www.androidauthority.com/what-is-wordpress-3199470/)
- - [SteelSeries Arctis Nova 1 Gaming Headset Review: The Software Makes It     - CNET](https://www.cnet.com/tech/computing/steelseries-arctis-nova-1-gaming-headset-review-the-software-makes-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple continuing full-court press against retail unionization efforts](https://appleinsider.com/articles/22/08/19/apple-continuing-full-court-press-against-retail-unionization-efforts?utm_medium=rss)
+ - [Democrats and Republicans in Congress are investigating Twitter whistleblower Peiter Zatko&#39;s claims and seeking a meeting for further information &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220823/p20#a220823p20)
+ - [Twitch lifts its long-standing partner exclusivity requirement, letting partners stream on YouTube, Facebook Live, and other platforms with some conditions &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220823/p19#a220823p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
