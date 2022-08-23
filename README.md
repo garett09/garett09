@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is putting more ads in Outlook for iOS and Android for users of its free services; ads appear at the top of inbox and look like real emails &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220822/p18#a220822p18)
- - [Amazon is fixing the AC at a warehouse where a worker died on Prime Day](https://www.theverge.com/2022/8/22/23317209/amazon-ac-ewr9-warehouse-worker-death-osha-investigations)
- - [Xiaolang Zhang, a former Apple employee accused of stealing Apple&#39;s car project trade secrets, pleads guilty and faces up to 10 years in prison and a $250K fine &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220822/p17#a220822p17)<!-- TECH:END -->
+ - [Dealogic: the IPO market in 2022 is the lowest since 2009; companies have raised $5.1B in IPOs this year so far, compared to $100B+ at the same time last year &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/220822/p19#a220822p19)
+ - [Former Apple engineer accepts plea deal, pleads guilty to stealing trade secrets](https://appleinsider.com/articles/22/08/23/former-apple-engineer-accepts-plea-deal-pleads-guilty-to-stealing-trade-secrets?utm_medium=rss)
+ - [Engineer admits he stole trade secrets while working on the Apple Car](https://www.theverge.com/2022/8/22/23317502/xiaolang-zhang-pleads-guilty-trade-secret-theft-xpeng-self-driving-car)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
