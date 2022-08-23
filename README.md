@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old days](http://9gag.com/gag/aOQgVwE)
- - 🚯 [Daily English lesson for those that mix these up.](http://9gag.com/gag/aegoGmW)
+ - 🚖 [NEW - Biologist, Nobel laureate Christiane N\u00fcsslein-Volhard on trans ideology: `Boys have different sex characteristics than girls, and this cannot be undone. People retain their gender for life.`](http://9gag.com/gag/a61vQxR)
+ - 🚯 [She\u2019s the one](http://9gag.com/gag/aM4R9BP)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
