@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer III: Immortal Empires Is The Best Total War Campaign In Years](https://kotaku.com/total-war-warhammer-iii-immortal-empires-review-kotaku-1849432160)
- - [Stardew Valley creator teases boss fight, music for upcoming project Haunted Chocolatier](https://www.pcgamer.com/stardew-valley-creator-teases-boss-fight-music-for-upcoming-project-haunted-chocolatier)
- - [Star Wars: Knights of the Old Republic remake reportedly moves to a new developer](https://www.polygon.com/23317279/star-wars-knights-of-the-old-ps5-remake-saber-interactive)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 23, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2022)
+ - [Vintage Nintendo Unboxing Ends In Tragedy](https://kotaku.com/nintendo-unboxing-tragedy-cards-kyoto-collector-1849443892)
+ - [Sounds Like The KOTOR Remake Is In Even Bigger Trouble](https://kotaku.com/star-wars-kotor-aspyr-saber-trouble-switch-embracer-1849443705)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
