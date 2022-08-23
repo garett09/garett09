@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress is investigating Twitter whistleblower claims](https://www.theverge.com/2022/8/23/23318794/twitter-mudge-zatko-cybersecurity-whistleblower-markey-durbin-blumenthal)
- - [Design the iPhone 14 of your dreams -- or your nightmares -- with this site](https://appleinsider.com/articles/22/08/23/design-the-iphone-14-of-your-dreams----or-your-nightmares----with-this-site?utm_medium=rss)
- - [Snap agrees to $35 million settlement over privacy lawsuit](https://www.theverge.com/2022/8/23/23318545/illinois-snapchat-biometric-privacy-lawsuit-settlement-facebook-location-tracking)<!-- TECH:END -->
+ - [How to back up your Google account](https://www.theverge.com/21324801/gmail-download-data-back-up-save-email)
+ - [Mini made a Pokémon concept car that you can hook up a game console to](https://www.theverge.com/2022/8/23/23318787/mini-pokemon-aceman-concept-car-game-console-pikachu-ev-gamescon-2022)
+ - [Hideo Kojima’s new Spotify podcast launches in September](https://www.theverge.com/2022/8/23/23318748/hideo-kojima-podcast-brain-structure-spotify-september-eight)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
