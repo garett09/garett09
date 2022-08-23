@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waterfield introduces new crossbody pouch made for iPad mini](https://appleinsider.com/articles/22/08/23/waterfield-introduces-new-crossbody-pouch-made-for-ipad-mini?utm_medium=rss)
- - [Apple is now taking orders for MacBook Pro &amp; MacBook Air repair parts](https://appleinsider.com/articles/22/08/23/apple-is-now-taking-orders-for-macbook-pro-macbook-air-repair-parts?utm_medium=rss)
- - [Samsung Galaxy Book 2 Pro review: Ultra-light delight](https://www.androidauthority.com/samsung-galaxy-book-2-pro-review-3191303/)<!-- TECH:END -->
+ - [Destiny 2: Lightfall is a battle of light vs. dark in a cyberpunk world](https://www.theverge.com/2022/8/23/23317872/destiny-2-lightfall-bungie-strand-subclass-content-release-date)
+ - [Apple TV+ shares first trailer for &#39;Central Park&#39; season 3](https://appleinsider.com/articles/22/08/23/apple-tv-shares-first-trailer-for-central-park-season-3?utm_medium=rss)
+ - [SanDisk Professional G-Drive range overhauled with 10Gbit USB 3.2 Type-C](https://appleinsider.com/articles/22/08/23/sandisk-professional-g-drive-range-overhauled-with-10gbit-usb-32-type-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
