@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a joke](http://9gag.com/gag/aLvYKY5)
- - 🚯 [My dog is Vegetarian. She prefers it. She was happier that way.` / `Cool, shall we test it then?](http://9gag.com/gag/angpqwz)
- - 🚯 [It&#39;s cheap and that&#39;s all I can afford..](http://9gag.com/gag/a319dON)<!-- MEMES:END -->
+ - 🚖 [Respact weman!](http://9gag.com/gag/arn6e0p)
+ - 🚯 [You can win if you don&#39;t have money. You don&#39;t have money if you are not corrupt.](http://9gag.com/gag/aQXw468)
+ - 🚯 [Maybe it\u2019s just me, but I couldn\u2019t stop thinking about it the whole episode.](http://9gag.com/gag/a81Pbye)<!-- MEMES:END -->
 
 --- 
 
