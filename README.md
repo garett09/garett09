@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What If You Tried to Swallow a Whole Cloud?](https://www.wired.com/story/swallow-whole-cloud-what-if/)
- - [A look at &quot;DentureTok&quot; on TikTok, made up of women with dentures, as they fight the stigma and campaign for better dental care access; #dentures has 1B+ views &lpar;Jessica Lucas/Input&rpar;](http://www.techmeme.com/220823/p7#a220823p7)
- - [Bengaluru-based health care app Mojocare, which offers consultations and a marketplace for products, raised a $20.6M Series A led by B Capital &lpar;Manuel Baigorri/Bloomberg&rpar;](http://www.techmeme.com/220823/p6#a220823p6)<!-- TECH:END -->
+ - [Egg and Sperm Donors Could Be Required to Share Medical Records](https://www.wired.com/story/sharing-egg-sperm-donor-medical-history/)
+ - [The Joy of Playing the Same Sims Family for Years](https://www.wired.com/story/joy-playing-same-sims-family-for-years/)
+ - [At Some Colleges, the Fall of Roe Will Weaken Student Health Care](https://www.wired.com/story/at-some-colleges-the-fall-of-roe-will-weaken-student-health-care/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
