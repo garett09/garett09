@@ -119,51 +119,12 @@ while(dev.isCoding() && dev.isStuck())
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   32.08% 
-🌃 Evening    254 commits    █████████░░░░░░░░░░░░░░░░   38.08% 
-🌙 Night      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Tuesday      132 commits    █████░░░░░░░░░░░░░░░░░░░░   19.79% 
-Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Friday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Saturday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
-Sunday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.34%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2022 01:07:07 UTC
+ Last Updated on 23/08/2022 01:15:57 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
