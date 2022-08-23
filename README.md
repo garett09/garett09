@@ -157,7 +157,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Good old days](http://9gag.com/gag/aOQgVwE)
- - 🚯 [Women!](http://9gag.com/gag/a81PM3Z)
+ - 🚯 [Daily English lesson for those that mix these up.](http://9gag.com/gag/aegoGmW)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
