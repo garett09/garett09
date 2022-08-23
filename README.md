@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Destiny 2: Lightfall is a battle of light vs. dark in a cyberpunk world](https://www.theverge.com/2022/8/23/23317872/destiny-2-lightfall-bungie-strand-subclass-content-release-date)
- - [Apple TV+ shares first trailer for &#39;Central Park&#39; season 3](https://appleinsider.com/articles/22/08/23/apple-tv-shares-first-trailer-for-central-park-season-3?utm_medium=rss)
- - [SanDisk Professional G-Drive range overhauled with 10Gbit USB 3.2 Type-C](https://appleinsider.com/articles/22/08/23/sandisk-professional-g-drive-range-overhauled-with-10gbit-usb-32-type-c?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds seventh developer beta of tvOS 16](https://appleinsider.com/articles/22/08/23/apple-seeds-seventh-developer-beta-of-tvos-16?utm_medium=rss)
+ - [Apple introduces seventh iOS 16 and iPadOS 16 developer betas](https://appleinsider.com/articles/22/08/23/apple-introduces-seventh-ios-16-and-ipados-16-developer-betas?utm_medium=rss)
+ - [Apple issues seventh watchOS 9 developer beta](https://appleinsider.com/articles/22/08/23/apple-issues-seventh-watchos-9-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
