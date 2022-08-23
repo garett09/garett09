@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;August 23, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2022)
- - [Vintage Nintendo Unboxing Ends In Tragedy](https://kotaku.com/nintendo-unboxing-tragedy-cards-kyoto-collector-1849443892)
- - [Sounds Like The KOTOR Remake Is In Even Bigger Trouble](https://kotaku.com/star-wars-kotor-aspyr-saber-trouble-switch-embracer-1849443705)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 22&rpar;](https://news.xbox.com/en-us/2022/08/22/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-22/)
+ - [Battlefield 2042 Goes Back To The Drawing Board, Will Bring Back Classes](https://kotaku.com/battlefield-2042-class-classes-specialists-dice-ea-1849444151)
+ - [Five new Steam games you probably missed &lpar;August 23, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
