@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [JBL Quantum TWS](https://www.pcgamer.com/jbl-quantum-tws-wireless-earbuds-review)
- - [Destiny 2: Lightfall adds the game’s next Darkness subclass and a grappling hook](https://www.polygon.com/23308479/destiny-2-lightfall-showcase-trailer-strand-subclass-darkness-raid-destination-reveal-details)
- - [Destiny 2 Lightfall Reveal Shows Crap Is Going To Hit The Fan](https://kotaku.com/destiny-2-lightfall-exotics-release-date-season-18-1849445652)<!-- GAME:END -->
+ - [Destiny 2 2022 Showcase: All the news and announcements](https://www.polygon.com/23308700/destiny-2-lightfall-season-plunder-darkness-subclass-kings-fall-raid-fortnite-epic-recap)
+ - [Super Smash Bros. Ultimate Director Stops Posting Daily Screens, Ending An Era](https://kotaku.com/super-smash-bros-ultimate-sakurai-screens-twitter-end-1849446223)
+ - [Hearthstone Battlegrounds is adding Quests and a Season Track in a big update coming next week](https://www.pcgamer.com/hearthstones-battlegrounds-is-adding-quests-in-a-big-update-coming-next-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
