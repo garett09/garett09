@@ -157,7 +157,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Pandemic boredom, Newton](http://9gag.com/gag/a3193GN)
- - 🚯 [Fair enough](http://9gag.com/gag/angpXnB)
+ - 🚯 [When neither side wants you](http://9gag.com/gag/aAGWrNE)
  - 🚯 [It&#39;s cheap and that&#39;s all I can afford..](http://9gag.com/gag/a319dON)<!-- MEMES:END -->
 
 --- 
