@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony faces a UK class action lawsuit, seeking up to &amp;pound;5B, over claims it breached competition laws by overcharging PlayStation customers, covering 8.9M gamers &lpar;Jane Croft/Financial Times&rpar;](http://www.techmeme.com/220823/p5#a220823p5)
- - [Microsoft might finally simplify its Windows 11 update names](https://www.theverge.com/2022/8/23/23317795/microsoft-windows-11-2022-update-naming)
- - [Instagram is prototyping a BeReal murder clone](https://www.theverge.com/2022/8/23/23317802/instagram-ig-candid-prototype-bereal-murder-clone)<!-- TECH:END -->
+ - [What If You Tried to Swallow a Whole Cloud?](https://www.wired.com/story/swallow-whole-cloud-what-if/)
+ - [A look at &quot;DentureTok&quot; on TikTok, made up of women with dentures, as they fight the stigma and campaign for better dental care access; #dentures has 1B+ views &lpar;Jessica Lucas/Input&rpar;](http://www.techmeme.com/220823/p7#a220823p7)
+ - [Bengaluru-based health care app Mojocare, which offers consultations and a marketplace for products, raised a $20.6M Series A led by B Capital &lpar;Manuel Baigorri/Bloomberg&rpar;](http://www.techmeme.com/220823/p6#a220823p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
