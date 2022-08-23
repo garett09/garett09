@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO calls House of the Dragon its biggest premiere ever, with nearly 10 million US viewers](https://www.theverge.com/hbo/2022/8/22/23317333/hbo-max-house-of-the-dragon-game-of-thrones-biggest-premiere-ever)
- - [Sony says the PlayStation VR2 is coming in early 2023](https://www.theverge.com/2022/8/22/23317342/sony-playstation-ps-vr2-release-date-early-2023)
- - [LockBit ransomware&#39;s leak sites suffer a DDoS attack after it claimed responsibility for breaching Entrust in June; LockBit blames Entrust for the DDoS attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220822/p15#a220822p15)<!-- TECH:END -->
+ - [Microsoft is putting more ads in Outlook for iOS and Android for users of its free services; ads appear at the top of inbox and look like real emails &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220822/p18#a220822p18)
+ - [Amazon is fixing the AC at a warehouse where a worker died on Prime Day](https://www.theverge.com/2022/8/22/23317209/amazon-ac-ewr9-warehouse-worker-death-osha-investigations)
+ - [Xiaolang Zhang, a former Apple employee accused of stealing Apple&#39;s car project trade secrets, pleads guilty and faces up to 10 years in prison and a $250K fine &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220822/p17#a220822p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
