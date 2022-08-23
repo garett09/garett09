@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3’s Immortal Empires redefines ‘sandbox’ video games](https://www.polygon.com/reviews/23317183/immortal-empires-review-total-war-warhammer-3-warriors-of-chaos-dlc)
- - [A new subclass, destination, and info on the next season have seemingly leaked before today&#39;s Destiny 2 showcase](https://www.pcgamer.com/a-new-subclass-destination-and-pirate-themed-season-have-seemingly-leaked-before-todays-destiny-2-showcase)
- - [Taking on Spa in new F1 Manager 2022 gameplay, out August 25](https://blog.playstation.com/2022/08/23/taking-on-spa-in-new-f1-manager-2022-gameplay-out-august-25/)<!-- GAME:END -->
+ - [Inside the tremendous Soviet masterpiece MST3K got wrong](https://www.polygon.com/23312264/the-sword-and-the-dragon-1956-mst3k-4k-restoration)
+ - [Saints Row Now Available for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/08/23/saints-row-now-available/)
+ - [How to watch the Destiny 2 showcase](https://www.pcgamer.com/destiny-2-showcase-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
