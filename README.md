@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pandemic boredom, Newton](http://9gag.com/gag/a3193GN)
- - 🚯 [When neither side wants you](http://9gag.com/gag/aAGWrNE)
- - 🚯 [It&#39;s cheap and that&#39;s all I can afford..](http://9gag.com/gag/a319dON)<!-- MEMES:END -->
+ - 🚖 [Matt Walsh on She-Hulk](http://9gag.com/gag/aZrAW5W)
+ - 🚯 [How about a magic trick?](http://9gag.com/gag/aego0LW)
+ - 🚯 [When neither side wants you](http://9gag.com/gag/aAGWrNE)<!-- MEMES:END -->
 
 --- 
 
