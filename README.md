@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like Sonic Frontiers is speeding towards a November launch](https://www.pcgamer.com/it-looks-like-sonic-frontiers-is-speeding-towards-a-november-launch)
- - [How to watch the 2022 Destiny 2 Showcase livestream for Lightfall and season 18](https://www.polygon.com/2022/8/23/23308724/destiny-2-2022-showcase-livestream-event-lightfall-season-18-raid)
- - [Respect to the Ukrainian sound engineer who worked on Star Wars voices between air raid sirens](https://www.pcgamer.com/star-wars-voice-ai-respeecher-ukraine)<!-- GAME:END -->
+ - [Gamescom 2022 Opening Night Live: Watch it here this afternoon](https://www.polygon.com/23316789/gamescom-opening-night-live-geoff-keighley-start-time-date-trailers)
+ - [This new display standard aims to demystify motion blur in gaming monitors](https://www.pcgamer.com/vesa-clearmr-motion-blur-certification)
+ - [Intel says Meteor Lake is still &#39;on schedule&#39; for 2023 despite delay rumours](https://www.pcgamer.com/intel-says-meteor-lake-is-still-on-schedule-for-2023-despite-delay-rumours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
