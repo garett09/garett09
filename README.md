@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Ginza in Tokyo opening in new eco-friendly building on Aug. 30](https://appleinsider.com/articles/22/08/23/apple-ginza-in-tokyo-opening-in-new-eco-friendly-building-on-aug-30?utm_medium=rss)
- - [Quest VR owners have new Meta logins to use instead of Facebook](https://www.theverge.com/2022/8/23/23318359/meta-quest-vr-account-login-facebook-oculus)
- - [Flow&#39;s Adam Neumann seems to have a conflict of interest given he is the largest investor in real estate tech startup Alfred and had board seats there until May &lpar;Forbes&rpar;](http://www.techmeme.com/220823/p25#a220823p25)<!-- TECH:END -->
+ - [Sonic Frontiers arrives November 8th](https://www.theverge.com/2022/8/23/23318217/sonic-frontiers-release-date-story-trailer-sega)
+ - [Gearbox’s New Tales from the Borderlands launches in October](https://www.theverge.com/2022/8/23/23318597/gearbox-new-tales-from-the-borderlands-release-date)
+ - [The Twitter Whistleblower Plays Right Into Elon Musk’s Hands](https://www.wired.com/story/has-twitters-whistleblower-tanked-elon-musks-takeover/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
