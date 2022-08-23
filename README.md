@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamescom Opening Night Live 2022: All the news and announcements](https://www.polygon.com/23318201/gamescom-2022-onl-news-announcements-opening-night-live)
- - [Grid Legends Brings Action Packed Racing to EA Play This September](https://news.xbox.com/en-us/2022/08/23/grid-legends-brings-action-packed-racing-to-ea-play-this-september/)
- - [Hearthstone Battlegrounds reveal: All remaining quests and two new heroes](https://www.pcgamer.com/shhhh-heres-a-hearthstone-battlegrounds-reveal)<!-- GAME:END -->
+ - [Deck 13 explores new combat territory in upcoming action-rpg Atlas Fallen](https://blog.playstation.com/2022/08/23/deck-13-explores-new-combat-territory-in-upcoming-action-rpg-atlas-fallen/)
+ - [Goat Simulator 3 gameplay trailer simulates more goats than ever](https://www.pcgamer.com/goat-simulator-3-gameplay-trailer-simulates-more-goats-than-ever)
+ - [New fantasy action-RPG Atlas Fallen looks like Dune meets Destiny](https://www.polygon.com/23318446/atlas-fallen-release-date-trailer-deck13-gamescom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
