@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 2022 Showcase: All the news and announcements](https://www.polygon.com/23308700/destiny-2-lightfall-season-plunder-darkness-subclass-kings-fall-raid-fortnite-epic-recap)
- - [Super Smash Bros. Ultimate Director Stops Posting Daily Screens, Ending An Era](https://kotaku.com/super-smash-bros-ultimate-sakurai-screens-twitter-end-1849446223)
- - [Hearthstone Battlegrounds is adding Quests and a Season Track in a big update coming next week](https://www.pcgamer.com/hearthstones-battlegrounds-is-adding-quests-in-a-big-update-coming-next-week)<!-- GAME:END -->
+ - [Gamescom Opening Night Live 2022: All the news and announcements](https://www.polygon.com/23318201/gamescom-2022-onl-news-announcements-opening-night-live)
+ - [Grid Legends Brings Action Packed Racing to EA Play This September](https://news.xbox.com/en-us/2022/08/23/grid-legends-brings-action-packed-racing-to-ea-play-this-september/)
+ - [Hearthstone Battlegrounds reveal: All remaining quests and two new heroes](https://www.pcgamer.com/shhhh-heres-a-hearthstone-battlegrounds-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
