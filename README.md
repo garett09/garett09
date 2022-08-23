@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Gamescom Opening Night Live 2022](https://www.pcgamer.com/gamescom-opening-night-live-how-to-watch-2022)
- - [Today&#39;s Wordle 430 answer and hint: Tuesday, August 23](https://www.pcgamer.com/todays-wordle-430-answer-hint)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 22&rpar;](https://news.xbox.com/en-us/2022/08/22/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-22/)<!-- GAME:END -->
+ - [It looks like Sonic Frontiers is speeding towards a November launch](https://www.pcgamer.com/it-looks-like-sonic-frontiers-is-speeding-towards-a-november-launch)
+ - [How to watch the 2022 Destiny 2 Showcase livestream for Lightfall and season 18](https://www.polygon.com/2022/8/23/23308724/destiny-2-2022-showcase-livestream-event-lightfall-season-18-raid)
+ - [Respect to the Ukrainian sound engineer who worked on Star Wars voices between air raid sirens](https://www.pcgamer.com/star-wars-voice-ai-respeecher-ukraine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
