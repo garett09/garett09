@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is testing a new &quot;Nearby&quot; feed with select users in Southeast Asia that displays local content to users, alongside a location tag feature for creators &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220823/p28#a220823p28)
- - [The best Nintendo Switch cases you can buy](https://www.theverge.com/23034290/nintendo-switch-cases-best-recommendations)
- - [Elon Musk and the $44 billion Twitter buyout he’s trying to terminate](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)
+ - [George Lopez is the latest comedian to sue Pandora for copyright infringement](https://www.theverge.com/2022/8/23/23318930/george-lopez-comedian-sues-pandora-siriusxm-lewis-black-spotify)
+ - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-view-on-apple-tv-plus-through-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
