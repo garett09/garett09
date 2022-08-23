@@ -157,8 +157,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Electric scooter with swappable batteries in Taiwan](http://9gag.com/gag/a61vLwA)
- - 🚯 [Lads! After 1 year of saving i finally got myself my first pc that can play games at age of 29. i never played any big hits or next gen games before. Can you recommend me some games i should check. &lpar; Rpgs / story pref &rpar;](http://9gag.com/gag/abgPqvX)
- - 🚯 [Well, hello, Clarice...](http://9gag.com/gag/aogr0Pw)<!-- MEMES:END -->
+ - 🚯 [Well, hello, Clarice...](http://9gag.com/gag/aogr0Pw)
+ - 🚯 [When neither side wants you](http://9gag.com/gag/aAGWrNE)<!-- MEMES:END -->
 
 --- 
 
