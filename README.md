@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 430 answer and hint: Tuesday, August 23](https://www.pcgamer.com/todays-wordle-430-answer-hint)
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 22&rpar;](https://news.xbox.com/en-us/2022/08/22/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-22/)
- - [Battlefield 2042 Goes Back To The Drawing Board, Will Bring Back Classes](https://kotaku.com/battlefield-2042-class-classes-specialists-dice-ea-1849444151)<!-- GAME:END -->
+ - [Battlefield 2042 Goes Back To The Drawing Board, Will Bring Back Classes](https://kotaku.com/battlefield-2042-class-classes-specialists-dice-ea-1849444151)
+ - [Five new Steam games you probably missed &lpar;August 23, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
