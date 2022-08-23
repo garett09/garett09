@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coffeine](http://9gag.com/gag/aGz3wvX)
- - 🚯 [Replaced the air filter, boss. But car won&#39;t start now..](http://9gag.com/gag/a61vLZR)
+ - 🚖 [Chubby Belly](http://9gag.com/gag/angpBn0)
+ - 🚯 [Cats vs dogs](http://9gag.com/gag/aAGWp2p)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
