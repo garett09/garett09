@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple to begin manufacturing the iPhone 14 in India about two months after its China release, shortening the production gap between the two countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/220823/p1#a220823p1)
- - [The Best Heating Pads: According the CNET Staff That Use Them     - CNET](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)
- - [Dealogic: the IPO market in 2022 is the lowest since 2009; companies have raised $5.1B in IPOs this year so far, compared to $100B+ at the same time last year &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/220822/p19#a220822p19)<!-- TECH:END -->
+ - [Here’s what OnePlus has to say about OnePlus 10T bend test](https://www.androidauthority.com/oneplus-10t-bend-test-response-3199428/)
+ - [A look at video streaming sites thriving on misinfo and hate speech like BitChute with 514M visits in 2021 and Odysee with 292M, according to Similarweb &lpar;Reuters&rpar;](http://www.techmeme.com/220823/p2#a220823p2)
+ - [&#39;House of the Dragon&#39; Creators Break Down &#39;Extreme&#39; Childbirth Scene     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-creators-break-down-extreme-childbirth-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
