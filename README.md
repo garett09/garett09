@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok, have a good day!](http://9gag.com/gag/a41eY31)
- - 🚯 [Inspired by a poll post.](http://9gag.com/gag/ajgbA08)
+ - 🚖 [Good old days](http://9gag.com/gag/aOQgVwE)
+ - 🚯 [Women!](http://9gag.com/gag/a81PM3Z)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
