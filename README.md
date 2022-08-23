@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the tremendous Soviet masterpiece MST3K got wrong](https://www.polygon.com/23312264/the-sword-and-the-dragon-1956-mst3k-4k-restoration)
- - [Saints Row Now Available for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/08/23/saints-row-now-available/)
- - [How to watch the Destiny 2 showcase](https://www.pcgamer.com/destiny-2-showcase-time)<!-- GAME:END -->
+ - [New Fate: The Winx Saga trailer is full of magic and smooching](https://www.polygon.com/23316618/fate-the-winx-saga-season-2-trailer-netflix-release-date)
+ - [Saudi Arabia first country to approve Microsoft&#39;s acquisition of Activision](https://www.pcgamer.com/saudi-arabia-first-country-to-approve-microsofts-acquisition-of-activision)
+ - [Twitch finally allows partners to stream elsewhere](https://www.pcgamer.com/twitch-finally-allows-partners-to-stream-elsewhere)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
