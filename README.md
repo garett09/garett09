@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the ancient greek knew the earth was round](http://9gag.com/gag/aQXw8yq)
- - 🚯 [Ok, have a good day!](http://9gag.com/gag/a41eY31)
+ - 🚖 [Ok, have a good day!](http://9gag.com/gag/a41eY31)
+ - 🚯 [Inspired by a poll post.](http://9gag.com/gag/ajgbA08)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
