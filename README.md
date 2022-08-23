@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2’s developer wants to make zombies fun again](https://www.polygon.com/23316478/dead-island-2-interview-zombies-fun-again)
- - [Get your first look at Dead Island 2, launching February 3 on PS4 &amp; PS5](https://blog.playstation.com/2022/08/23/get-your-first-look-at-dead-island-2-launching-february-3-on-ps4-ps5/)
- - [Dead Island 2 returns, and it’s like the last 10 years never happened](https://www.polygon.com/23317809/dead-island-2-reveal-impressions-release-date-gamescom)<!-- GAME:END -->
+ - [Dead Island 2 Is Finally Coming After A Decade Of Development Hell](https://kotaku.com/dead-island-2-release-date-gameplay-dismemberment-coop-1849448038)
+ - [I&#39;m psyched about Pinocchiosouls](https://www.pcgamer.com/im-psyched-about-pinocchiosouls)
+ - [The next Outlast will traumatise up to four players at once](https://www.pcgamer.com/the-next-outlast-will-traumatise-up-to-four-players-at-once)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
