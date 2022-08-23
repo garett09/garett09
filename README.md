@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to break your nuts on the floor](http://9gag.com/gag/aRr5VqB)
- - 🚯 [Cats vs dogs](http://9gag.com/gag/aAGWp2p)
+ - 🚖 [Cats vs dogs](http://9gag.com/gag/aAGWp2p)
+ - 🚯 [How to break your nuts on the floor](http://9gag.com/gag/aRr5VqB)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
