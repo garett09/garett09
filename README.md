@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Pretty Good Phone Privacy, a data service for Android that aims to give users an additional layer of privacy when using mobile phone networks &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220823/p3#a220823p3)
- - [Here’s what OnePlus has to say about OnePlus 10T bend test](https://www.androidauthority.com/oneplus-10t-bend-test-response-3199428/)
- - [A look at video streaming sites thriving on misinfo and hate speech like BitChute with 514M visits in 2021 and Odysee with 292M, according to Similarweb &lpar;Reuters&rpar;](http://www.techmeme.com/220823/p2#a220823p2)<!-- TECH:END -->
+ - [Can’t connect your phone to Android Auto? You’re definitely not alone.](https://www.androidauthority.com/android-auto-phone-connection-issue-3199433/)
+ - [Best Cases for iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
+ - [Best Portable Mini Bluetooth Speakers for 2022: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
