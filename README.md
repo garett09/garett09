@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart mood ring is supposed to monitor mental health — without changing colors](https://www.theverge.com/2022/8/24/23318664/happy-ring-smart-ring-wearables-mental-health)
- - [Discover offering 5% cash back on Apple Pay, digital wallet purchases](https://appleinsider.com/articles/22/08/24/discover-offering-5-cash-back-on-apple-pay-digital-wallet-purchases?utm_medium=rss)
- - [iPhone shipments in Vietnam more than doubled over the last year](https://appleinsider.com/articles/22/08/24/iphone-shipments-from-vietnam-saw-major-growth-in-q2-2022?utm_medium=rss)<!-- TECH:END -->
+ - [EV prices are going in the wrong direction](https://www.theverge.com/2022/8/24/23319794/ev-price-increase-used-cars-analysis-iseecars)
+ - [Check out The Last of Us Part 1 remake’s launch trailer](https://www.theverge.com/2022/8/24/23319829/the-last-of-us-part-1-launch-trailer-naughty-dog-ps5)
+ - [Galaxy Buds 2 Pro take the fight to Sony to be the king of noise-cancelling buds](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-anc-3199415/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
