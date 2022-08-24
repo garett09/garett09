@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This new &#39;rhythm fighting&#39; game looks like Guitar Hero mashed up with Street Fighter](https://www.pcgamer.com/this-new-rhythm-fighting-game-looks-like-guitar-hero-mashed-up-with-street-fighter)
- - [Here&#39;s The Next Hilarious Netflix Anime You Should Watch](https://kotaku.com/uncle-from-another-world-netflix-anime-impressions-1849453170)
- - [Welcome to The World’s Fair hotel with amenities to die for!](https://blog.playstation.com/2022/08/24/welcome-to-the-worlds-fair-hotel-with-amenities-to-die-for/)<!-- GAME:END -->
+ - [Here&#39;s why Wii U emulator Cemu going open source is a big deal for emulation—and for the Steam Deck](https://www.pcgamer.com/heres-why-wii-u-emulator-cemu-going-open-source-is-a-big-deal-for-emulationand-for-the-steam-deck)
+ - [RIP! Destiny 2&#39;s best heavy grenade launchers have been disabled due to a massive bug](https://www.pcgamer.com/rip-destiny-2s-best-heavy-grenade-launchers-have-been-disabled-due-to-a-massive-bug)
+ - [Rift of the Necrodancer reveals a wild, rhythmic spinoff in its debut gameplay trailer](https://www.pcgamer.com/rift-of-the-necrodancer-reveals-a-wild-rhythmic-spinoff-in-its-debut-gameplay-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
