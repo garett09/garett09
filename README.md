@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paddy Considine knows his House of the Dragon king is no Ned Stark](https://www.polygon.com/23289594/house-of-the-dragon-viserys-ned-stark)
- - [How to get map fragments in Destiny 2&#39;s Season of Plunder](https://www.pcgamer.com/destiny-2-map-fragments)
- - [Plex data breach crashed the service as users flocked to change their passwords](https://www.pcgamer.com/plex-data-breach-crashed-the-service-as-users-flocked-to-change-their-passwords)<!-- GAME:END -->
+ - [Can You Tell The Difference Between These Two Upcoming Magical Action-RPGs?](https://kotaku.com/atlas-fallen-forspoken-square-enix-deck-13-ps5-pc-1849447716)
+ - [Splatoon 3 looks like a lot more of a good thing](https://www.polygon.com/23316774/splatoon-3-preview-nintendo-switch)
+ - [Gran Turismo 7 FREE August Update 1.20 delivers four new vehicles, new layout to Circuit de Barcelona-Catalunya and Café Extra Menus](https://blog.playstation.com/2022/08/24/gran-turismo-7-free-august-update-1-20-delivers-four-new-vehicles-new-layout-to-circuit-de-barcelona-catalunya-and-cafe-extra-menus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
