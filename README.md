@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being a loyal customer](http://9gag.com/gag/aZrALA0)
- - 🚯 [A video older than most tiktokers](http://9gag.com/gag/aGz3g9G)
- - 🚯 [Let&#39;s admit it. We&#39;ll never have our flying cars...](http://9gag.com/gag/aDDp107)<!-- MEMES:END -->
+ - 🚖 [True dat](http://9gag.com/gag/aBnqgLA)
+ - 🚯 [Marriage material lvl yes.](http://9gag.com/gag/ay9gXqV)
+ - 🚯 [A video older than most tiktokers](http://9gag.com/gag/aGz3g9G)<!-- MEMES:END -->
 
 --- 
 
