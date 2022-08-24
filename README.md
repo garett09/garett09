@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit announces the entry-level $100 Inspire 3, with claimed 10-day battery life, alongside the $230 Versa 4 and $300 Sense 2; none run Google&#39;s Wear OS 3 &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/220824/p10#a220824p10)
- - [Fitbit launches Sense 2, Versa 4, and Inspire 3, all available for pre-order now](https://www.androidauthority.com/fitbit-sense-2-launch-3199663/)
- - [The Best Coffee Grinders to Amp Up Your Morning Brew](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
+ - [This smart mood ring is supposed to monitor mental health — without changing colors](https://www.theverge.com/2022/8/24/23318664/happy-ring-smart-ring-wearables-mental-health)
+ - [Discover offering 5% cash back on Apple Pay, digital wallet purchases](https://appleinsider.com/articles/22/08/24/discover-offering-5-cash-back-on-apple-pay-digital-wallet-purchases?utm_medium=rss)
+ - [iPhone shipments in Vietnam more than doubled over the last year](https://appleinsider.com/articles/22/08/24/iphone-shipments-from-vietnam-saw-major-growth-in-q2-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
