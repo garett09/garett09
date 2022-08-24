@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Twitter plans to combine its platform health experience team, working on reducing toxic content, and Twitter service team, working on spam bots &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220824/p7#a220824p7)
- - [Mumbai-based Servify, which offers after-sales support for 75+ consumer electronics brands, raised a $65M Series D, bringing its total funding to $110M+ &lpar;TechCrunch&rpar;](http://www.techmeme.com/220824/p6#a220824p6)
- - [Samsung’s new gaming monitors include easy access to Xbox Cloud Gaming, Stadia, and more](https://www.theverge.com/2022/8/24/23319565/samsung-odyssey-g70b-g65b-gaming-monitors-hub-cloud-gaming)<!-- TECH:END -->
+ - [The Biggest Threat to Humanity? Black Goo](https://www.wired.com/story/biggest-threat-to-humanity-black-goo/)
+ - [Email Doesn&#39;t Suck. It&#39;s Email Clients That Need Improving](https://www.wired.com/story/email-clients-are-bad-so-use-vivaldi-mail/)
+ - [This Giant Sprinkler System Can Protect Cities from Wildfires](https://www.wired.com/story/spanish-wildfire-defenses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
