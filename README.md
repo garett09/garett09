@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Was Wrong About Fortnite     - CNET](https://www.cnet.com/culture/i-was-wrong-about-fortnite/#ftag=CAD590a51e)
  - [Capitol Music Group severs ties with FN Meka, a virtual &quot;robot rapper&quot; powered partly by AI with 10M+ TikTok followers, after backlash over racial stereotypes &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/220823/p32#a220823p32)
- - [A profile of Peiter Zatko, who worked at DARPA, Google, and Stripe before working at Twitter, and was a member of hacker groups L0pht and Cult of the Dead Cow &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220823/p31#a220823p31)
- - [FTC Drops Mark Zuckerberg as Defendant in Antitrust Lawsuit     - CNET](https://www.cnet.com/news/social-media/ftc-drops-mark-zuckerberg-as-defendant-in-antitrust-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Peiter Zatko, who worked at DARPA, Google, and Stripe before working at Twitter, and was a member of hacker groups L0pht and Cult of the Dead Cow &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220823/p31#a220823p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
