@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook removed a Planned Parenthood post sharing information about abortion pills](https://www.theverge.com/2022/8/24/23319916/facebook-planned-parenthood-abortion-pill-post-removal-roe-v-wade-moderation)
- - [The Nintendo Switch is Denuvo’s next DRM target](https://www.theverge.com/2022/8/24/23319847/nintendo-switch-denuvo-drm-anti-cheat-software-emulated-games-pc)
- - [Obsidian’s old-timey Pentiment gets a November release date](https://www.theverge.com/2022/8/24/23319985/pentiment-xbox-pc-release-date-game-pass-obsidian-microsoft)<!-- TECH:END -->
+ - [California is ready to drag the rest of the US into the EV age](https://www.theverge.com/2022/8/24/23320148/california-gas-car-ban-2035-ev-climate-change)
+ - [The government’s student loan sites are crashing after debt relief announcement](https://www.theverge.com/2022/8/24/23320250/student-aid-fafsa-sites-down-debt-relief-announcement)
+ - [Tinder parent company files antitrust lawsuit against Apple in India](https://appleinsider.com/articles/22/08/24/tinder-parent-company-files-antitrust-lawsuit-against-apple-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
