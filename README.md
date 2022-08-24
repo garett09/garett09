@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s fall iPhone 14 and Apple Watch Series 8 event is on September 7](https://appleinsider.com/articles/22/08/24/apples-fall-iphone-14-and-apple-watch-series-8-event-is-on-september-7?utm_medium=rss)
- - [Tom Clancy’s Ghost Recon Wildlands is silly multiplayer fun](https://www.theverge.com/23318442/tom-clancys-ghost-recon-wildlands-xbox-game-pass)
- - [Cover Screen OS makes the Galaxy Z Flip’s front display better and worse](https://www.theverge.com/2022/8/24/23320180/cover-screen-os-galaxy-z-flip-4-widgets-keyboard-app-drawer)<!-- TECH:END -->
+ - [In a declining smartphone market, iPhone shipments in North America grew 3%](https://appleinsider.com/articles/22/08/24/in-a-declining-smartphone-market-iphone-shipments-in-north-america-grew-3?utm_medium=rss)
+ - [There’s a wonky number at the core of Elon Musk’s case against Twitter](https://www.theverge.com/2022/8/24/23320461/twitter-mdau-mudge-zatko-elon-musk-discovery)
+ - [How India runs on WhatsApp](https://www.theverge.com/23320306/whatsapp-india-messaging-business-privacy-land-of-the-giants)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
