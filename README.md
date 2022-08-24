@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a declining smartphone market, iPhone shipments in North America grew 3%](https://appleinsider.com/articles/22/08/24/in-a-declining-smartphone-market-iphone-shipments-in-north-america-grew-3?utm_medium=rss)
- - [There’s a wonky number at the core of Elon Musk’s case against Twitter](https://www.theverge.com/2022/8/24/23320461/twitter-mdau-mudge-zatko-elon-musk-discovery)
- - [How India runs on WhatsApp](https://www.theverge.com/23320306/whatsapp-india-messaging-business-privacy-land-of-the-giants)<!-- TECH:END -->
+ - [Next-day streaming of NBC shows like Law &amp; Order and SNL jumps from Hulu to Peacock next month](https://www.theverge.com/2022/8/24/23320338/nbc-shows-peacock-next-day-streaming-law-and-order-snl-hulu-september)
+ - [New online tool lets you see how far iPhone cameras have come in 15 years](https://appleinsider.com/articles/22/08/24/new-online-tool-lets-you-see-how-far-iphone-cameras-have-come-in-15-years?utm_medium=rss)
+ - [Nvidia reports Q2 revenue up 3% YoY to $6.7B vs. $8.1B est., gaming department revenue down 33% YoY to $2.04B, and Q3 revenue guidance of $5.9B, vs. $6.95B est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220824/p19#a220824p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
