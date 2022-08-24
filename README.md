@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There Are So Many Space Games, Even NASA Has Noticed](https://kotaku.com/nasa-astronaut-space-games-gamescom-opening-night-live-1849448299)
- - [Obsidian’s medieval mystery RPG Pentiment comes to Xbox, PC this November](https://www.polygon.com/23319778/obsidian-entertainment-pentiment-release-date-pc-xbox-game-pass)
- - [Label Drops AI Rapper With Music Project From Fortnite Pro, Apologizing To Black Community](https://kotaku.com/fn-meka-ai-rapper-fortnite-gaming-clix-tiktok-capitol-1849449619)<!-- GAME:END -->
+ - [Sonic Frontiers Speeds onto Xbox and Windows PCs on November 8 – Pre-order Today](https://news.xbox.com/en-us/2022/08/24/sonic-frontiers-speeds-onto-xbox-and-windows-pcs-on-november-8-pre-order-today/)
+ - [NHL 23 puts two of hockey’s brightest stars on the cover](https://www.polygon.com/23316470/nhl-23-cover-athletes-ps5-xbox-series-x-one-ps4)
+ - [Game Devs Accuse Publisher Of Exploiting Their Identity For Diversity Funding, Then Never Seeing A Dime](https://kotaku.com/space-for-the-unbound-game-delay-pqube-diversity-grant-1849450881)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
