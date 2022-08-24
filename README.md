@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Plex data breach crashed the service as users flocked to change their passwords](https://www.pcgamer.com/plex-data-breach-crashed-the-service-as-users-flocked-to-change-their-passwords)
- - [Scars Above looks eerie, alien, and pyramidal](https://www.pcgamer.com/scars-above-looks-eerie-alien-and-pyramidal)
- - [How to get to Sumeru in Genshin Impact](https://www.pcgamer.com/how-to-get-to-genshin-impact-sumeru-quest)<!-- GAME:END -->
+ - [Paddy Considine knows his House of the Dragon king is no Ned Stark](https://www.polygon.com/23289594/house-of-the-dragon-viserys-ned-stark)
+ - [How to get map fragments in Destiny 2&#39;s Season of Plunder](https://www.pcgamer.com/destiny-2-map-fragments)
+ - [Plex data breach crashed the service as users flocked to change their passwords](https://www.pcgamer.com/plex-data-breach-crashed-the-service-as-users-flocked-to-change-their-passwords)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
