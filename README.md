@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ooh ooh here she comes.](http://9gag.com/gag/axBx7rW)
- - 🚯 [A video older than most tiktokers](http://9gag.com/gag/aGz3g9G)
- - 🚯 [Mothers demand that a teacher be fired because of her body. They say that she is `distracting to students\u201d](http://9gag.com/gag/aGz3gW0)<!-- MEMES:END -->
+ - 🚖 [What a joke](http://9gag.com/gag/a41e34p)
+ - 🚯 [Ooh ooh here she comes.](http://9gag.com/gag/axBx7rW)
+ - 🚯 [For IT people who who hates when their TEAMS status goes to `Away`](http://9gag.com/gag/aBnqgON)<!-- MEMES:END -->
 
 --- 
 
