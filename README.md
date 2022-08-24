@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s why Wii U emulator Cemu going open source is a big deal for emulation—and for the Steam Deck](https://www.pcgamer.com/heres-why-wii-u-emulator-cemu-going-open-source-is-a-big-deal-for-emulationand-for-the-steam-deck)
- - [RIP! Destiny 2&#39;s best heavy grenade launchers have been disabled due to a massive bug](https://www.pcgamer.com/rip-destiny-2s-best-heavy-grenade-launchers-have-been-disabled-due-to-a-massive-bug)
- - [Rift of the Necrodancer reveals a wild, rhythmic spinoff in its debut gameplay trailer](https://www.pcgamer.com/rift-of-the-necrodancer-reveals-a-wild-rhythmic-spinoff-in-its-debut-gameplay-trailer)<!-- GAME:END -->
+ - [Destiny 2 Disables Heavy Grenade Launchers After Glitch Makes Them OP](https://kotaku.com/destiny-2-exotic-grenade-launcher-disabled-season-18-1849453985)
+ - [Xbox Boss Says Exclusives Aren’t The Future While Company Buys Up Exclusives](https://kotaku.com/phil-spencer-xbox-activision-blizzard-console-exclusive-1849454139)
+ - [Age of Empires 4 is free to play this week on Steam](https://www.pcgamer.com/age-of-empires-4-is-free-to-play-this-week-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
