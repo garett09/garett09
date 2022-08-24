@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When this boy got separated from his father this man put the boy on his shoulders to help the boy look above the crowd while the band and the crowd sang the father\u2019s name, Eduardo, hoping that the father would hear them and be reunited with his son.](http://9gag.com/gag/aYr8gvO)
- - 🚯 [I&#39;d f**k her.](http://9gag.com/gag/aNPxzxA)
+ - 🚖 [Let&#39;s admit it. We&#39;ll never have our flying cars...](http://9gag.com/gag/aDDp107)
+ - 🚯 [Today collected 15kg of garbage.Total is 1385kg.Your Cleaning Guy.](http://9gag.com/gag/a41e78p)
  - 🚯 [The one](http://9gag.com/gag/angpj3E)<!-- MEMES:END -->
 
 --- 
