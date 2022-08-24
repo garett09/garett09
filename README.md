@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What does the Dendro element do in Genshin Impact?](https://www.polygon.com/genshin-impact-guides/23313210/dendro-elemental-reaction-resonance-quicken-bloom-hydro-electro)
- - [Our Favorite Photos From Japan Expo 2022, Europe&#39;s Biggest Cosplay Show](https://kotaku.com/cosplay-photos-gallery-japan-expo-2022-paris-france-1849444247)
- - [The Pilot Episode Of America&#39;s Bizarre Sailor Moon Remake Has Been Found](https://kotaku.com/sailor-moon-saban-anime-america-1995-90s-found-footage-1849449208)<!-- GAME:END -->
+ - [A24’s Funny Pages takes the Ghost World formula into comics fandom](https://www.polygon.com/reviews/23317142/funny-pages-review-a24-ghost-world-comics)
+ - [Hearthstone is introducing premium currency and a Battlegrounds season pass, players are unimpressed](https://www.pcgamer.com/hearthstone-is-introducing-premium-currency-and-a-battlegrounds-season-pass-players-are-unimpressed)
+ - [What does the Dendro element do in Genshin Impact?](https://www.polygon.com/genshin-impact-guides/23313210/dendro-elemental-reaction-resonance-quicken-bloom-hydro-electro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
