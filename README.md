@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can You Tell The Difference Between These Two Upcoming Magical Action-RPGs?](https://kotaku.com/atlas-fallen-forspoken-square-enix-deck-13-ps5-pc-1849447716)
- - [Splatoon 3 looks like a lot more of a good thing](https://www.polygon.com/23316774/splatoon-3-preview-nintendo-switch)
- - [Gran Turismo 7 FREE August Update 1.20 delivers four new vehicles, new layout to Circuit de Barcelona-Catalunya and Café Extra Menus](https://blog.playstation.com/2022/08/24/gran-turismo-7-free-august-update-1-20-delivers-four-new-vehicles-new-layout-to-circuit-de-barcelona-catalunya-and-cafe-extra-menus/)<!-- GAME:END -->
+ - [There Are So Many Space Games, Even NASA Has Noticed](https://kotaku.com/nasa-astronaut-space-games-gamescom-opening-night-live-1849448299)
+ - [Obsidian’s medieval mystery RPG Pentiment comes to Xbox, PC this November](https://www.polygon.com/23319778/obsidian-entertainment-pentiment-release-date-pc-xbox-game-pass)
+ - [Label Drops AI Rapper With Music Project From Fortnite Pro, Apologizing To Black Community](https://kotaku.com/fn-meka-ai-rapper-fortnite-gaming-clix-tiktok-capitol-1849449619)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
