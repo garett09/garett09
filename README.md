@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biggest Threat to Humanity? Black Goo](https://www.wired.com/story/biggest-threat-to-humanity-black-goo/)
- - [Email Doesn&#39;t Suck. It&#39;s Email Clients That Need Improving](https://www.wired.com/story/email-clients-are-bad-so-use-vivaldi-mail/)
- - [This Giant Sprinkler System Can Protect Cities from Wildfires](https://www.wired.com/story/spanish-wildfire-defenses/)<!-- TECH:END -->
+ - [Apple expands annual AppleCare+ option to Mac users in more countries](https://appleinsider.com/articles/22/08/24/apple-expands-annual-applecare-option-to-mac-users-in-more-countries?utm_medium=rss)
+ - [Daily Authority: 🎭 Twitter drama!](https://www.androidauthority.com/daily-authority-august-24-2022-3200173/)
+ - [Boycotting Russian Scientists Is a Hollow Victory](https://www.wired.com/story/russia-ukraine-science-collaboration/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
