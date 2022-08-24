@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is broken and spamming celebrity comments everywhere](https://www.theverge.com/2022/8/24/23319552/facebook-bug-celebrity-spam-memes-carnage)
- - [Best Over-Ear Headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Report: Snap settles an Illinois class action lawsuit for $35M, which accused Snapchat&#39;s filters and lenses of violating the Biometric Information Privacy Act &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220824/p1#a220824p1)<!-- TECH:END -->
+ - [Apple says iPadOS will &quot;ship after iOS&quot; this fall as version 16.1, skipping iPadOS 16, a break from releasing iOS and iPadOS updates concurrently &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220824/p4#a220824p4)
+ - [iPadOS 16.1 beta code indicates that iOS 16.1 could let users delete the Wallet app, following EU antitrust concerns over Apple Pay &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220824/p3#a220824p3)
+ - [Facebook appears to be experiencing a bizarre bug that fills user feeds with endless posts from celebrity accounts, ongoing for over two hours &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220824/p2#a220824p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
