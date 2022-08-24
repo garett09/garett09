@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For comparison: Earth next to Jupiters giant red spot.](http://9gag.com/gag/a61vMe2)
- - 🚯 [I think we are all agree with that](http://9gag.com/gag/aPZNBGG)
+ - 🚖 [Dont mind me bro](http://9gag.com/gag/apgypxb)
+ - 🚯 [RC Car Parkour](http://9gag.com/gag/aE8rBzM)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
