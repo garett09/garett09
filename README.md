@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Snap settles an Illinois class action lawsuit for $35M, which accused Snapchat&#39;s filters and lenses of violating the Biometric Information Privacy Act &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220824/p1#a220824p1)
- - [You should change your Plex password right now due to potential breach](https://www.androidauthority.com/plex-breach-change-password-3200147/)
- - [A $1,200 phone was the most popular Android phone in North America in Q2 2022](https://www.androidauthority.com/most-popular-android-phone-north-america-q2-2022-3197881/)<!-- TECH:END -->
+ - [Facebook is broken and spamming celebrity comments everywhere](https://www.theverge.com/2022/8/24/23319552/facebook-bug-celebrity-spam-memes-carnage)
+ - [Best Over-Ear Headphones for 2022     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
+ - [Report: Snap settles an Illinois class action lawsuit for $35M, which accused Snapchat&#39;s filters and lenses of violating the Biometric Information Privacy Act &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220824/p1#a220824p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
