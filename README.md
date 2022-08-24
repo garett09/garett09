@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California is ready to drag the rest of the US into the EV age](https://www.theverge.com/2022/8/24/23320148/california-gas-car-ban-2035-ev-climate-change)
- - [The government’s student loan sites are crashing after debt relief announcement](https://www.theverge.com/2022/8/24/23320250/student-aid-fafsa-sites-down-debt-relief-announcement)
- - [Tinder parent company files antitrust lawsuit against Apple in India](https://appleinsider.com/articles/22/08/24/tinder-parent-company-files-antitrust-lawsuit-against-apple-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s fall iPhone 14 and Apple Watch Series 8 event is on September 7](https://appleinsider.com/articles/22/08/24/apples-fall-iphone-14-and-apple-watch-series-8-event-is-on-september-7?utm_medium=rss)
+ - [Tom Clancy’s Ghost Recon Wildlands is silly multiplayer fun](https://www.theverge.com/23318442/tom-clancys-ghost-recon-wildlands-xbox-game-pass)
+ - [Cover Screen OS makes the Galaxy Z Flip’s front display better and worse](https://www.theverge.com/2022/8/24/23320180/cover-screen-os-galaxy-z-flip-4-widgets-keyboard-app-drawer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
