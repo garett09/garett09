@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Disables Heavy Grenade Launchers After Glitch Makes Them OP](https://kotaku.com/destiny-2-exotic-grenade-launcher-disabled-season-18-1849453985)
- - [Xbox Boss Says Exclusives Aren’t The Future While Company Buys Up Exclusives](https://kotaku.com/phil-spencer-xbox-activision-blizzard-console-exclusive-1849454139)
- - [Age of Empires 4 is free to play this week on Steam](https://www.pcgamer.com/age-of-empires-4-is-free-to-play-this-week-on-steam)<!-- GAME:END -->
+ - [You can &lpar;sorta&rpar; play Destiny 2 Crucible inside Fortnite, and it&#39;s cool as heck](https://www.pcgamer.com/you-can-sorta-play-destiny-2-crucible-inside-fortnite-and-its-cool-as-heck)
+ - [What Your Mass Effect Romance Says About You: Brutal Callout Post Edition](https://kotaku.com/mass-effect-romance-liara-garrus-miranda-lawson-love-1849454114)
+ - [Pinocchio definitely isn’t a real boy in his movie’s new Disney Plus trailer](https://www.polygon.com/23320508/pinocchio-disney-plus-tom-hanks-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
