@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [25 of the best comedy movies to watch on Netflix](https://www.polygon.com/what-to-watch/23316473/best-comedies-netflix-movies-list-watch)
- - [The Intense and Minimalistic Action of Flat Heroes Lands on Xbox This August](https://news.xbox.com/en-us/2022/08/24/flat-heroes-lands-on-xbox-this-august/)
- - [Teslagrad 2 reveals its debut trailer, will be out in 2023](https://www.pcgamer.com/teslagrad-2-reveals-its-debut-trailer-will-be-out-in-2023)<!-- GAME:END -->
+ - [This new &#39;rhythm fighting&#39; game looks like Guitar Hero mashed up with Street Fighter](https://www.pcgamer.com/this-new-rhythm-fighting-game-looks-like-guitar-hero-mashed-up-with-street-fighter)
+ - [Here&#39;s The Next Hilarious Netflix Anime You Should Watch](https://kotaku.com/uncle-from-another-world-netflix-anime-impressions-1849453170)
+ - [Welcome to The World’s Fair hotel with amenities to die for!](https://blog.playstation.com/2022/08/24/welcome-to-the-worlds-fair-hotel-with-amenities-to-die-for/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
