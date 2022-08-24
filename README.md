@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will shut down Amazon Care on December 31st](https://www.theverge.com/2022/8/24/23320768/amazon-care-shut-down-virtual-care-telehealth)
- - [Nvidia says it built too many GPUs — expect sales while it works on something ‘new’](https://www.theverge.com/2022/8/24/23320758/nvidia-gpu-supply-demand-inventory-q2-2022)
- - [Snowflake reports Q2 revenue of $497M vs. $467M est., up 83% YoY, and anticipates product revenue to be between $500M and $505M in Q3; stock up 17%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220824/p21#a220824p21)<!-- TECH:END -->
+ - [Wordle snags a place inside the New York Times Crossword app](https://www.theverge.com/2022/8/24/23320567/wordle-word-game-new-york-times-crossword-app)
+ - [Google Play Games opens its beta to let more users play Android games on PC](https://www.androidauthority.com/google-play-games-on-pc-3199923/)
+ - [Google Play Games beta opens outside the US](https://www.theverge.com/2022/8/24/23320014/google-play-games-beta-korea-australia-hong-kong-taiwan-thailand)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
