@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands annual AppleCare+ option to Mac users in more countries](https://appleinsider.com/articles/22/08/24/apple-expands-annual-applecare-option-to-mac-users-in-more-countries?utm_medium=rss)
- - [Daily Authority: 🎭 Twitter drama!](https://www.androidauthority.com/daily-authority-august-24-2022-3200173/)
- - [Boycotting Russian Scientists Is a Hollow Victory](https://www.wired.com/story/russia-ukraine-science-collaboration/)<!-- TECH:END -->
+ - [Fitbit announces the entry-level $100 Inspire 3, with claimed 10-day battery life, alongside the $230 Versa 4 and $300 Sense 2; none run Google&#39;s Wear OS 3 &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/220824/p10#a220824p10)
+ - [Fitbit launches Sense 2, Versa 4, and Inspire 3, all available for pre-order now](https://www.androidauthority.com/fitbit-sense-2-launch-3199663/)
+ - [The Best Coffee Grinders to Amp Up Your Morning Brew](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
