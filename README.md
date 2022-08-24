@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Frontiers Speeds onto Xbox and Windows PCs on November 8 – Pre-order Today](https://news.xbox.com/en-us/2022/08/24/sonic-frontiers-speeds-onto-xbox-and-windows-pcs-on-november-8-pre-order-today/)
- - [NHL 23 puts two of hockey’s brightest stars on the cover](https://www.polygon.com/23316470/nhl-23-cover-athletes-ps5-xbox-series-x-one-ps4)
- - [Game Devs Accuse Publisher Of Exploiting Their Identity For Diversity Funding, Then Never Seeing A Dime](https://kotaku.com/space-for-the-unbound-game-delay-pqube-diversity-grant-1849450881)<!-- GAME:END -->
+ - [In Obsidan&#39;s murder mystery Pentiment, don&#39;t expect to know if you ID&#39;d the right killer](https://www.pcgamer.com/in-obsidans-murder-mystery-pentiment-dont-expect-to-know-if-you-idd-the-right-killer)
+ - [CrossfireX: Enter the Massive Babylon Update](https://news.xbox.com/en-us/2022/08/24/crossfirex-enter-the-massive-babylon-update/)
+ - [Obsidian’s Pentiment is a murder mystery, but it’s the fonts that I’m obsessed with](https://www.polygon.com/23319825/obsidian-pentiment-preview-xbox-game-pass-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
