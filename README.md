@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Obsidan&#39;s murder mystery Pentiment, don&#39;t expect to know if you ID&#39;d the right killer](https://www.pcgamer.com/in-obsidans-murder-mystery-pentiment-dont-expect-to-know-if-you-idd-the-right-killer)
- - [CrossfireX: Enter the Massive Babylon Update](https://news.xbox.com/en-us/2022/08/24/crossfirex-enter-the-massive-babylon-update/)
- - [Obsidian’s Pentiment is a murder mystery, but it’s the fonts that I’m obsessed with](https://www.polygon.com/23319825/obsidian-pentiment-preview-xbox-game-pass-pc)<!-- GAME:END -->
+ - [Game studio says publisher exploited them to get a ‘diversity fund,’ and kept the money](https://www.polygon.com/23320146/a-space-for-the-unbound-toge-productions-mojiken-studio-pqube-games)
+ - [As Twitch Streamer Flees, Pressure Mounts On Cloudflare To Stop Protecting Controversial Kiwi Farms Site](https://kotaku.com/twitter-drop-kiwi-farms-hashtag-cloudflare-keffals-1849451829)
+ - [Ishtar Backflips into Smite Along with an Exciting New Odyssey Event](https://news.xbox.com/en-us/2022/08/24/ishtar-backflips-into-smite-along-with-an-exciting-new-odyssey-event/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
