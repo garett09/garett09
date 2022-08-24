@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pentiment Releasing on November 15](https://news.xbox.com/en-us/2022/08/24/pentiment-releasing-on-november-15/)
  - [Today&#39;s Wordle 431 answer and hint: Wednesday, August 24](https://www.pcgamer.com/todays-wordle-431-answer-hint)
- - [A24’s Funny Pages takes the Ghost World formula into comics fandom](https://www.polygon.com/reviews/23317142/funny-pages-review-a24-ghost-world-comics)
- - [Hearthstone is introducing premium currency and a Battlegrounds season pass, players are unimpressed](https://www.pcgamer.com/hearthstone-is-introducing-premium-currency-and-a-battlegrounds-season-pass-players-are-unimpressed)<!-- GAME:END -->
+ - [A24’s Funny Pages takes the Ghost World formula into comics fandom](https://www.polygon.com/reviews/23317142/funny-pages-review-a24-ghost-world-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
