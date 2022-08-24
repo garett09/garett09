@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [*heart breaking sounds](http://9gag.com/gag/a11zKGR)
- - 🚯 [I&#39;m something of an artist myself.](http://9gag.com/gag/a61vVGq)
- - 🚯 [Happy married on wife material](http://9gag.com/gag/aAGWxeZ)<!-- MEMES:END -->
+ - 🚯 [I&#39;d f**k her.](http://9gag.com/gag/aNPxzxA)
+ - 🚯 [The one](http://9gag.com/gag/angpj3E)<!-- MEMES:END -->
 
 --- 
 
