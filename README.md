@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My favorite new Jane Austen adaptation is an elaborate game of Dungeons &amp; Dragons](https://www.polygon.com/reviews/23318857/dnd-dimension-20-court-of-fey-and-flowers-review-aabria-iyengar-good-society)
- - [Live-service games need to respect their dedicated players more](https://www.polygon.com/23320004/destiny-2-lightfall-season-of-plunder-sea-of-thieves-captaincy-update-pc-ps5-xbox-series-x)
- - [The Epic Destiny 2, Fortnite, and Fall Guys Crossover We’ve All Been Waiting for Is Here](https://news.xbox.com/en-us/2022/08/24/the-epic-destiny-2-fortnite-and-fall-guys-crossover-weve-all-been-waiting-for-is-here/)<!-- GAME:END -->
+ - [25 of the best comedy movies to watch on Netflix](https://www.polygon.com/what-to-watch/23316473/best-comedies-netflix-movies-list-watch)
+ - [The Intense and Minimalistic Action of Flat Heroes Lands on Xbox This August](https://news.xbox.com/en-us/2022/08/24/flat-heroes-lands-on-xbox-this-august/)
+ - [Teslagrad 2 reveals its debut trailer, will be out in 2023](https://www.pcgamer.com/teslagrad-2-reveals-its-debut-trailer-will-be-out-in-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
