@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s admit it. We&#39;ll never have our flying cars...](http://9gag.com/gag/aDDp107)
- - 🚯 [Today collected 15kg of garbage.Total is 1385kg.Your Cleaning Guy.](http://9gag.com/gag/a41e78p)
- - 🚯 [The one](http://9gag.com/gag/angpj3E)<!-- MEMES:END -->
+ - 🚖 [Thank you excel](http://9gag.com/gag/a91QKy6)
+ - 🚯 [Dude just found out that W in BMW doesn\u2019t mean Waterproof](http://9gag.com/gag/aWgKq32)
+ - 🚯 [I never understood how someone could forget to eat. That&#39;s like forgetting to breathe for me. Must breathe, must eat.](http://9gag.com/gag/a0ZAK9O)<!-- MEMES:END -->
 
 --- 
 
