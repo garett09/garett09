@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [*heart breaking sounds](http://9gag.com/gag/a11zKGR)
- - 🚯 [I never understood how someone could forget to eat. That&#39;s like forgetting to breathe for me. Must breathe, must eat.](http://9gag.com/gag/a0ZAK9O)
- - 🚯 [No one has them anymore..](http://9gag.com/gag/aGz3eLX)<!-- MEMES:END -->
+ - 🚯 [I&#39;m something of an artist myself.](http://9gag.com/gag/a61vVGq)
+ - 🚯 [Happy married on wife material](http://9gag.com/gag/aAGWxeZ)<!-- MEMES:END -->
 
 --- 
 
