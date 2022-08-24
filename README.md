@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A $1,200 phone was the most popular Android phone in North America in Q2 2022](https://www.androidauthority.com/most-popular-android-phone-north-america-q2-2022-3197881/)
  - [I Was Wrong About Fortnite     - CNET](https://www.cnet.com/culture/i-was-wrong-about-fortnite/#ftag=CAD590a51e)
- - [Capitol Music Group severs ties with FN Meka, a virtual &quot;robot rapper&quot; powered partly by AI with 10M+ TikTok followers, after backlash over racial stereotypes &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/220823/p32#a220823p32)
- - [A profile of Peiter Zatko, who worked at DARPA, Google, and Stripe before working at Twitter, and was a member of hacker groups L0pht and Cult of the Dead Cow &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/220823/p31#a220823p31)<!-- TECH:END -->
+ - [Capitol Music Group severs ties with FN Meka, a virtual &quot;robot rapper&quot; powered partly by AI with 10M+ TikTok followers, after backlash over racial stereotypes &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/220823/p32#a220823p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
