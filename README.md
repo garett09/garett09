@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True dat](http://9gag.com/gag/aBnqgLA)
- - 🚯 [Marriage material lvl yes.](http://9gag.com/gag/ay9gXqV)
+ - 🚖 [Thank you excel](http://9gag.com/gag/a91QKy6)
+ - 🚯 [For IT people who who hates when their TEAMS status goes to `Away`](http://9gag.com/gag/aBnqgON)
  - 🚯 [A video older than most tiktokers](http://9gag.com/gag/aGz3g9G)<!-- MEMES:END -->
 
 --- 
