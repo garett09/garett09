@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A decade after its announcement, Mount and Blade 2 releases in full this October](https://www.pcgamer.com/a-decade-after-its-announcement-mount-and-blade-2-releases-in-full-this-october)
  - [Pentiment Releasing on November 15](https://news.xbox.com/en-us/2022/08/24/pentiment-releasing-on-november-15/)
- - [Today&#39;s Wordle 431 answer and hint: Wednesday, August 24](https://www.pcgamer.com/todays-wordle-431-answer-hint)
- - [A24’s Funny Pages takes the Ghost World formula into comics fandom](https://www.polygon.com/reviews/23317142/funny-pages-review-a24-ghost-world-comics)<!-- GAME:END -->
+ - [Today&#39;s Wordle 431 answer and hint: Wednesday, August 24](https://www.pcgamer.com/todays-wordle-431-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
