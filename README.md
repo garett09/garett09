@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game studio says publisher exploited them to get a ‘diversity fund,’ and kept the money](https://www.polygon.com/23320146/a-space-for-the-unbound-toge-productions-mojiken-studio-pqube-games)
- - [As Twitch Streamer Flees, Pressure Mounts On Cloudflare To Stop Protecting Controversial Kiwi Farms Site](https://kotaku.com/twitter-drop-kiwi-farms-hashtag-cloudflare-keffals-1849451829)
- - [Ishtar Backflips into Smite Along with an Exciting New Odyssey Event](https://news.xbox.com/en-us/2022/08/24/ishtar-backflips-into-smite-along-with-an-exciting-new-odyssey-event/)<!-- GAME:END -->
+ - [My favorite new Jane Austen adaptation is an elaborate game of Dungeons &amp; Dragons](https://www.polygon.com/reviews/23318857/dnd-dimension-20-court-of-fey-and-flowers-review-aabria-iyengar-good-society)
+ - [Live-service games need to respect their dedicated players more](https://www.polygon.com/23320004/destiny-2-lightfall-season-of-plunder-sea-of-thieves-captaincy-update-pc-ps5-xbox-series-x)
+ - [The Epic Destiny 2, Fortnite, and Fall Guys Crossover We’ve All Been Waiting for Is Here](https://news.xbox.com/en-us/2022/08/24/the-epic-destiny-2-fortnite-and-fall-guys-crossover-weve-all-been-waiting-for-is-here/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
