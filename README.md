@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;80s cult classic Killer Klowns from Outer Space is becoming a multiplayer horror game](https://www.pcgamer.com/80s-cult-classic-killer-klowns-from-outer-space-is-becoming-a-multiplayer-horror-game)
- - [Alan Wake 2 is a sequel to Alan Wake](https://www.pcgamer.com/alan-wake-2-is-a-sequel-to-alan-wake)
- - [The game based on The Expanse looks pretty decent, especially the zero-G bits](https://www.pcgamer.com/the-expanse-telltale-game)<!-- GAME:END -->
+ - [The Pilot Episode Of America&#39;s Bizarre Sailor Moon Remake Has Been Found](https://kotaku.com/sailor-moon-saban-anime-america-1995-90s-found-footage-1849449208)
+ - [This PC-only RPG looks like Assassin&#39;s Creed: China, except you can put your sword down and get a normal job](https://www.pcgamer.com/where-winds-meet-announcement)
+ - [Microsoft&#39;s exclusive competitive FPS is still trapped on consoles](https://www.pcgamer.com/microsofts-exclusive-fps-is-still-trapped-on-consoles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
