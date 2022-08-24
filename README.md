@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)
- - [George Lopez is the latest comedian to sue Pandora for copyright infringement](https://www.theverge.com/2022/8/23/23318930/george-lopez-comedian-sues-pandora-siriusxm-lewis-black-spotify)
- - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-view-on-apple-tv-plus-through-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acer’s Vero 514 brings its ‘eco-conscious’ concept to a Chromebook](https://www.theverge.com/2022/8/23/23318956/acer-chromebook-vero-514-eco-conscious-laptop-recycling)
+ - [Original sealed in plastic iPhone commands $35K at auction](https://appleinsider.com/articles/22/08/24/original-sealed-in-plastic-iphone-commands-35k-at-auction?utm_medium=rss)
+ - [More People Need To Watch The Trippiest Sci-Fi Gem on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-trippiest-sci-fi-gem-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
