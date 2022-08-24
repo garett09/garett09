@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hola Papi](http://9gag.com/gag/abgPz1v)
- - 🚯 [The one](http://9gag.com/gag/angpj3E)
- - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
+ - 🚖 [*heart breaking sounds](http://9gag.com/gag/a11zKGR)
+ - 🚯 [I never understood how someone could forget to eat. That&#39;s like forgetting to breathe for me. Must breathe, must eat.](http://9gag.com/gag/a0ZAK9O)
+ - 🚯 [No one has them anymore..](http://9gag.com/gag/aGz3eLX)<!-- MEMES:END -->
 
 --- 
 
