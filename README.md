@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s fall iPhone 14 and Apple Watch Series 8 event is on September 7](https://appleinsider.com/articles/22/08/24/apples-fall-iphone-14-and-apple-watch-series-8-event-is-on-september-7?utm_medium=rss)
- - [Apple announces an event on September 7 at 10am PT, called &quot;Far Out&quot;, where it is expected to announce the iPhone 14 lineup, Watch Series 8, and more &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220824/p13#a220824p13)
- - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)<!-- TECH:END -->
+ - [Facebook removed a Planned Parenthood post sharing information about abortion pills](https://www.theverge.com/2022/8/24/23319916/facebook-planned-parenthood-abortion-pill-post-removal-roe-v-wade-moderation)
+ - [The Nintendo Switch is Denuvo’s next DRM target](https://www.theverge.com/2022/8/24/23319847/nintendo-switch-denuvo-drm-anti-cheat-software-emulated-games-pc)
+ - [Obsidian’s old-timey Pentiment gets a November release date](https://www.theverge.com/2022/8/24/23319985/pentiment-xbox-pc-release-date-game-pass-obsidian-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
