@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Proceeds to go on and on about how God doesn&#39;t exist*](http://9gag.com/gag/amgjB0V)
+ - 🚖 [African Pygmy Falcon](http://9gag.com/gag/aE8r2qM)
  - 🚯 [Thanks for the AC installation guys](http://9gag.com/gag/a319Ko5)
  - 🚯 [Happy married on wife material](http://9gag.com/gag/aAGWxeZ)<!-- MEMES:END -->
 
