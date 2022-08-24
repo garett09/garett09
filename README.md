@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*heart breaking sounds](http://9gag.com/gag/a11zKGR)
+ - 🚖 [When this boy got separated from his father this man put the boy on his shoulders to help the boy look above the crowd while the band and the crowd sang the father\u2019s name, Eduardo, hoping that the father would hear them and be reunited with his son.](http://9gag.com/gag/aYr8gvO)
  - 🚯 [I&#39;d f**k her.](http://9gag.com/gag/aNPxzxA)
  - 🚯 [The one](http://9gag.com/gag/angpj3E)<!-- MEMES:END -->
 
