@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why you wear a hairnet](http://9gag.com/gag/aDDpW89)
- - 🚯 [No one has them anymore..](http://9gag.com/gag/aGz3eLX)
+ - 🚖 [Or maybe nobody&#39;s getting married because of cooties](http://9gag.com/gag/awzRQY4)
+ - 🚯 [Hola Papi](http://9gag.com/gag/abgPz1v)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
