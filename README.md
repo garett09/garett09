@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you excel](http://9gag.com/gag/a91QKy6)
- - 🚯 [Dude just found out that W in BMW doesn\u2019t mean Waterproof](http://9gag.com/gag/aWgKq32)
- - 🚯 [I never understood how someone could forget to eat. That&#39;s like forgetting to breathe for me. Must breathe, must eat.](http://9gag.com/gag/a0ZAK9O)<!-- MEMES:END -->
+ - 🚖 [*Proceeds to go on and on about how God doesn&#39;t exist*](http://9gag.com/gag/amgjB0V)
+ - 🚯 [Thanks for the AC installation guys](http://9gag.com/gag/a319Ko5)
+ - 🚯 [Happy married on wife material](http://9gag.com/gag/aAGWxeZ)<!-- MEMES:END -->
 
 --- 
 
