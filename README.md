@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 431 answer and hint: Wednesday, August 24](https://www.pcgamer.com/todays-wordle-431-answer-hint)
  - [A24’s Funny Pages takes the Ghost World formula into comics fandom](https://www.polygon.com/reviews/23317142/funny-pages-review-a24-ghost-world-comics)
- - [Hearthstone is introducing premium currency and a Battlegrounds season pass, players are unimpressed](https://www.pcgamer.com/hearthstone-is-introducing-premium-currency-and-a-battlegrounds-season-pass-players-are-unimpressed)
- - [What does the Dendro element do in Genshin Impact?](https://www.polygon.com/genshin-impact-guides/23313210/dendro-elemental-reaction-resonance-quicken-bloom-hydro-electro)<!-- GAME:END -->
+ - [Hearthstone is introducing premium currency and a Battlegrounds season pass, players are unimpressed](https://www.pcgamer.com/hearthstone-is-introducing-premium-currency-and-a-battlegrounds-season-pass-players-are-unimpressed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
