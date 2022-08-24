@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hero](http://9gag.com/gag/a714Z1b)
- - 🚯 [Yap](http://9gag.com/gag/a0ZAjon)
+ - 🚖 [I think we are all agree with that](http://9gag.com/gag/aPZNBGG)
+ - 🚯 [After years the snail finally found me, guess that&#39;s the end.](http://9gag.com/gag/aGz319Z)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
