@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont mind me bro](http://9gag.com/gag/apgypxb)
- - 🚯 [RC Car Parkour](http://9gag.com/gag/aE8rBzM)
+ - 🚖 [This is why you wear a hairnet](http://9gag.com/gag/aDDpW89)
+ - 🚯 [No one has them anymore..](http://9gag.com/gag/aGz3eLX)
  - 🚯 [So many feels and let&#39;s keep them coming. Watch the Honkai Impact 3rd Dreamy Euphony Online Concert, premieres this Saturday Aug 27!](http://9gag.com/gag/a81Br6Z)<!-- MEMES:END -->
 
 --- 
