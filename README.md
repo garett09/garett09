@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [African Pygmy Falcon](http://9gag.com/gag/aE8r2qM)
- - 🚯 [Thanks for the AC installation guys](http://9gag.com/gag/a319Ko5)
- - 🚯 [Happy married on wife material](http://9gag.com/gag/aAGWxeZ)<!-- MEMES:END -->
+ - 🚖 [Being a loyal customer](http://9gag.com/gag/aZrALA0)
+ - 🚯 [A video older than most tiktokers](http://9gag.com/gag/aGz3g9G)
+ - 🚯 [Let&#39;s admit it. We&#39;ll never have our flying cars...](http://9gag.com/gag/aDDp107)<!-- MEMES:END -->
 
 --- 
 
