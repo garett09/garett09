@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says iPadOS will &quot;ship after iOS&quot; this fall as version 16.1, skipping iPadOS 16, a break from releasing iOS and iPadOS updates concurrently &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220824/p4#a220824p4)
- - [iPadOS 16.1 beta code indicates that iOS 16.1 could let users delete the Wallet app, following EU antitrust concerns over Apple Pay &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220824/p3#a220824p3)
- - [Facebook appears to be experiencing a bizarre bug that fills user feeds with endless posts from celebrity accounts, ongoing for over two hours &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220824/p2#a220824p2)<!-- TECH:END -->
+ - [Internal memo: Twitter plans to combine its platform health experience team, working on reducing toxic content, and Twitter service team, working on spam bots &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220824/p7#a220824p7)
+ - [Mumbai-based Servify, which offers after-sales support for 75+ consumer electronics brands, raised a $65M Series D, bringing its total funding to $110M+ &lpar;TechCrunch&rpar;](http://www.techmeme.com/220824/p6#a220824p6)
+ - [Samsung’s new gaming monitors include easy access to Xbox Cloud Gaming, Stadia, and more](https://www.theverge.com/2022/8/24/23319565/samsung-odyssey-g70b-g65b-gaming-monitors-hub-cloud-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
