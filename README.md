@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [You will own nothing](http://9gag.com/gag/a61v1wm)
  - 🚯 [I mean, It&#39;s true](http://9gag.com/gag/aXrDrXg)
- - 🚯 [Don&#39;t be geh](http://9gag.com/gag/a41eEqZ)<!-- MEMES:END -->
+ - 🚯 [Well, Let Me Tell You Something, Brother!](http://9gag.com/gag/apgygqW)<!-- MEMES:END -->
 
 --- 
 
