@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s new Four-Leaf Sigil makes me feel like Spider-Man](https://www.polygon.com/23322368/genshin-impact-sumeru-four-leaf-sigil-hoyoverse-spider-man)
- - [The ‘Blue Hair And Pronouns’ Game Has Its Heart In The Right Place But Lacks Teeth](https://kotaku.com/i-was-a-teenage-exocolonist-playstation-5-1849458988)
- - [Despite PS5 Price Hike, Microsoft And Nintendo Won&#39;t Be Raising Console Prices For Now](https://kotaku.com/xbox-series-x-s-price-increase-nintendo-sony-ps5-1849459253)<!-- GAME:END -->
+ - [&#39;The galaxy won&#39;t be the same&#39; after Elite Dangerous Update 14, say devs](https://www.pcgamer.com/the-galaxy-wont-be-the-same-after-elite-dangerous-update-14-say-devs)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Genshin Impact’s new Four-Leaf Sigil makes me feel like Spider-Man](https://www.polygon.com/23322368/genshin-impact-sumeru-four-leaf-sigil-hoyoverse-spider-man)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
