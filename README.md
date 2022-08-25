@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [IPhone 14](http://9gag.com/gag/ay9gMWX)
  - 🚯 [Yessss cry yessssss](http://9gag.com/gag/apgyNr5)
- - 🚯 [Logic.](http://9gag.com/gag/arn6Mjy)<!-- MEMES:END -->
+ - 🚯 [Well, Let Me Tell You Something, Brother!](http://9gag.com/gag/apgygqW)<!-- MEMES:END -->
 
 --- 
 
