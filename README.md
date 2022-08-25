@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s secure Lockdown Mode may reduce web browsing anonymity](https://appleinsider.com/articles/22/08/25/apples-secure-lockdown-mode-may-reduce-web-browsing-anonymity?utm_medium=rss)
- - [MyFitnessPal’s barcode scanner made counting calories easy — now it’s being paywalled](https://www.theverge.com/2022/8/25/23321408/myfitnesspal-weight-loss-app-barcode-scanning-premium-paywall)
- - [What’s new on Hulu in September 2022: The Handmaid’s Tale, Atlanta, and more](https://www.androidauthority.com/new-on-hulu-939207/)<!-- TECH:END -->
+ - [NASA’s megarocket is about to blast off toward the Moon](https://www.theverge.com/23321544/nasa-artemis-sls-orion-explained)
+ - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
+ - [New patent shows Google’s foldable phone with a bezel camera](https://www.androidauthority.com/patent-shows-googles-foldable-3200859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
