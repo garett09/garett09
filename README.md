@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I mean, It&#39;s true](http://9gag.com/gag/aXrDrXg)
- - 🚯 [You will own nothing](http://9gag.com/gag/a61v1wm)
- - 🚯 [Well, Let Me Tell You Something, Brother!](http://9gag.com/gag/apgygqW)<!-- MEMES:END -->
+ - 🚖 [How do you do fellow kids?](http://9gag.com/gag/aqG3GQj)
+ - 🚯 [Abbey, The Dog From &#39;I Am Legend&#39;, Is Now 15 And Living Her Best Life!](http://9gag.com/gag/ajgbmWG)
+ - 🚯 [At last ! He&#39;s good !](http://9gag.com/gag/a81P1w6)<!-- MEMES:END -->
 
 --- 
 
