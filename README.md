@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Nilou in Genshin Impact](https://www.pcgamer.com/genshin-impact-nilou-build-banner)
- - [Sony is raising the price of the PS5](https://www.polygon.com/23321445/sony-playstation-5-ps5-price-increase)
- - [Local Legend 6, the Junkers F 13, Available Today in Microsoft Flight Simulator](https://news.xbox.com/en-us/2022/08/25/local-legend-6-junkers-f13-available-today-microsoft-flight-simulator/)<!-- GAME:END -->
+ - [The Umbrella Academy will end with season four](https://www.polygon.com/23321494/the-umbrella-academy-final-season-netflix)
+ - [F1 Manager 2022: 5 Key Decisions for Team Principals to Make](https://news.xbox.com/en-us/2022/08/25/f1-manager-2022-available-now/)
+ - [True crime and Chicago’s ‘murder castle’ fuel the new Dark Pictures game, The Devil in Me](https://www.polygon.com/23320303/dark-pictures-devil-in-me-preview-saw-holmes-murder-hotel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
