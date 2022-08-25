@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knockout City’s Seventh Season, Mutant Mutiny!, Arrives on August 30th](https://news.xbox.com/en-us/2022/08/25/knockout-citys-seventh-season-mutant-mutiny-arrives-on-august-30th/)
- - [How to tame three animals during a single match in Fortnite](https://www.pcgamer.com/fortnite-tame-wildlife-in-a-single-match)
- - [Super Smash Bros. Director Is A YouTuber Now, And I Love It](https://kotaku.com/super-smash-bros-masahiro-sakurai-game-design-youtube-1849457235)<!-- GAME:END -->
+ - [Adam Driver plays a Hitler studies professor surviving the apocalypse in Noah Baumbach’s White Noise](https://www.polygon.com/23322001/netflix-white-noise-adam-driver-first-trailer)
+ - [Phil Spencer says Microsoft really wants Activision for mobile and PC games](https://www.pcgamer.com/phil-spencer-says-microsoft-really-wants-activision-for-mobile-and-pc-games)
+ - [The First Paid DLC for Dying Light 2 Stay Human Comes with a Whole New Location, Weapon Type, and More](https://news.xbox.com/en-us/2022/08/25/the-first-paid-dlc-for-dying-light-2-stay-human-comes-with-a-whole-new-location-weapon-type-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
