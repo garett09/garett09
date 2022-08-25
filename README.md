@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Umbrella Academy will end with season four](https://www.polygon.com/23321494/the-umbrella-academy-final-season-netflix)
- - [F1 Manager 2022: 5 Key Decisions for Team Principals to Make](https://news.xbox.com/en-us/2022/08/25/f1-manager-2022-available-now/)
- - [True crime and Chicago’s ‘murder castle’ fuel the new Dark Pictures game, The Devil in Me](https://www.polygon.com/23320303/dark-pictures-devil-in-me-preview-saw-holmes-murder-hotel)<!-- GAME:END -->
+ - [NBA 2K23’s exclusive PlayStation MyTEAM Challenges revealed](https://blog.playstation.com/2022/08/25/nba-2k23s-exclusive-playstation-myteam-challenges-revealed/)
+ - [Free Play Days – Bloodstained: Ritual of the Night, Destiny 2 Expansions, and The Elder Scrolls Online](https://news.xbox.com/en-us/2022/08/25/free-play-days-bloodstained-ritual-of-the-night-destiny-2-expansions-and-the-elder-scrolls-online/)
+ - [NHL 23’s new features could make some longtime fans very happy](https://www.polygon.com/23318907/nhl-23-preview-release-date-ea-sports-nurse-zegras-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
