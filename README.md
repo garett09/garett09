@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lucky bastard](http://9gag.com/gag/a51mX0g)
- - 🚯 [Miss him for the memes](http://9gag.com/gag/a21BKP9)
- - 🚯 [Security guard of the month](http://9gag.com/gag/aggMoz6)<!-- MEMES:END -->
+ - 🚖 [Read it as many times as you need. I&#39;m a leave it right here.](http://9gag.com/gag/angp7D0)
+ - 🚯 [Mens Fashion is ridiculous](http://9gag.com/gag/aGz3EYG)
+ - 🚯 [How to fire a civil war matchlock musket](http://9gag.com/gag/a11zmXD)<!-- MEMES:END -->
 
 --- 
 
