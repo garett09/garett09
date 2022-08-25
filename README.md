@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a joke](http://9gag.com/gag/a41e34p)
- - 🚯 [For IT people who who hates when their TEAMS status goes to `Away`](http://9gag.com/gag/aBnqgON)
- - 🚯 [True kings](http://9gag.com/gag/aggM556)<!-- MEMES:END -->
+ - 🚖 [Verbal Fu Jitsu - avoid the fight](http://9gag.com/gag/a319Ev8)
+ - 🚯 [Influencers and good content!](http://9gag.com/gag/aGz3gGZ)
+ - 🚯 [Molecular Biologist on trans `women`](http://9gag.com/gag/avAY8DM)<!-- MEMES:END -->
 
 --- 
 
