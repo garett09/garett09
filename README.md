@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Will Start Paying Some Employees With Meme Stock](https://kotaku.com/gamestop-meme-stock-raise-managers-shares-workers-1849454800)
- - [Valve is testing a new Steam mobile app](https://www.pcgamer.com/valve-is-testing-a-new-steam-mobile-app)
- - [The three clever murder mysteries in this game demo made me hungry for more](https://www.pcgamer.com/the-three-clever-murder-mysteries-in-this-game-demo-made-me-hungry-for-more)<!-- GAME:END -->
+ - [You absolutely shouldn&#39;t buy this Ryzen 7000 sample CPU](https://www.pcgamer.com/you-absolutely-shouldnt-buy-this-ryzen-7000-sample-cpu)
+ - [Cyber criminals demand $10M ransom to release French hospital](https://www.pcgamer.com/cyber-criminals-demand-dollar10m-ransom-to-release-french-hospital)
+ - [GameStop Will Start Paying Some Employees With Meme Stock](https://kotaku.com/gamestop-meme-stock-raise-managers-shares-workers-1849454800)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
