@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You absolutely shouldn&#39;t buy this Ryzen 7000 sample CPU](https://www.pcgamer.com/you-absolutely-shouldnt-buy-this-ryzen-7000-sample-cpu)
- - [Cyber criminals demand $10M ransom to release French hospital](https://www.pcgamer.com/cyber-criminals-demand-dollar10m-ransom-to-release-french-hospital)
- - [GameStop Will Start Paying Some Employees With Meme Stock](https://kotaku.com/gamestop-meme-stock-raise-managers-shares-workers-1849454800)<!-- GAME:END -->
+ - [Today&#39;s Wordle 432 answer and hint: Thursday, August 25](https://www.pcgamer.com/todays-wordle-432-answer-hint)
+ - [PS5 price to increase in select markets due to global economic environment, including high inflation rates](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/)
+ - [You absolutely shouldn&#39;t buy this Ryzen 7000 sample CPU](https://www.pcgamer.com/you-absolutely-shouldnt-buy-this-ryzen-7000-sample-cpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
