@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s megarocket is about to blast off toward the Moon](https://www.theverge.com/23321544/nasa-artemis-sls-orion-explained)
- - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
- - [New patent shows Google’s foldable phone with a bezel camera](https://www.androidauthority.com/patent-shows-googles-foldable-3200859/)<!-- TECH:END -->
+ - [Apple issues sixth developer beta of macOS Ventura](https://appleinsider.com/articles/22/08/25/apple-issues-sixth-developer-beta-of-macos-ventura?utm_medium=rss)
+ - [Praise the sun! Dark Souls 3’s PC servers are back up](https://www.theverge.com/2022/8/25/23321483/dark-souls-3-pc-pvp-servers-rce-exploit-restored)
+ - [The O․MG Elite cable is a scarily stealthy hacker tool](https://www.theverge.com/23321517/omg-elite-cable-hacker-tool-review-defcon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
