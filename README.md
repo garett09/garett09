@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Expecto Patronum: `I await a patron/guardian`](http://9gag.com/gag/apgyRA5)
- - 🚯 [The hug was personal](http://9gag.com/gag/aqG3e6Q)
- - 🚯 [Just why?? Lol](http://9gag.com/gag/adgZBxB)<!-- MEMES:END -->
+ - 🚖 [Just why?? Lol](http://9gag.com/gag/adgZBxB)
+ - 🚯 [You don&#39;t say](http://9gag.com/gag/azeN2eZ)
+ - 🚯 [Donut](http://9gag.com/gag/a7148Zq)<!-- MEMES:END -->
 
 --- 
 
