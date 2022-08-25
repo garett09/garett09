@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Braindead people in a safari park](http://9gag.com/gag/aZrADw0)
- - 🚯 [Understandable Alex](http://9gag.com/gag/amgjgg2)
- - 🚯 [That escalated quickly...](http://9gag.com/gag/axBxoo1)<!-- MEMES:END -->
+ - 🚖 [What a fine culture](http://9gag.com/gag/aRr5rG5)
+ - 🚯 [Poor Lawernce...](http://9gag.com/gag/aGz3E6z)
+ - 🚯 [Understandable Alex](http://9gag.com/gag/amgjgg2)<!-- MEMES:END -->
 
 --- 
 
