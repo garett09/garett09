@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Adam Driver plays a Hitler studies professor surviving the apocalypse in Noah Baumbach’s White Noise](https://www.polygon.com/23322001/netflix-white-noise-adam-driver-first-trailer)
- - [Phil Spencer says Microsoft really wants Activision for mobile and PC games](https://www.pcgamer.com/phil-spencer-says-microsoft-really-wants-activision-for-mobile-and-pc-games)
- - [The First Paid DLC for Dying Light 2 Stay Human Comes with a Whole New Location, Weapon Type, and More](https://news.xbox.com/en-us/2022/08/25/the-first-paid-dlc-for-dying-light-2-stay-human-comes-with-a-whole-new-location-weapon-type-and-more/)<!-- GAME:END -->
+ - [Shazam! and Aquaman sequel delays could be good for DC movies](https://www.polygon.com/23321261/shazam-fury-of-the-gods-aquaman-2-delays-release-dates-dc-movies-schedule)
+ - [Greater Together in EA Sports NHL 23](https://news.xbox.com/en-us/2022/08/25/greater-together-in-ea-sports-nhl-23/)
+ - [Amazon Prime’s New Free Games Include The Best Assassin’s Creed, Lord Of The Rings, And More](https://kotaku.com/amazon-prime-free-games-september-assassin-s-creed-pc-1849458067)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
