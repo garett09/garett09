@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [21 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
- - [The Left 4 Dead-inspired Aliens game is finally getting a boss battle](https://www.polygon.com/23321593/aliens-fireteam-elite-pathogen-release-date-xenomorph-queen-boss-battle)
- - [Skull and Bones PC system requirements and special features revealed](https://www.pcgamer.com/skull-and-bones-pc-system-requirements)<!-- GAME:END -->
+ - [Try Your Luck in Richman 10, a Classic Asian Monopoly Game](https://news.xbox.com/en-us/2022/08/25/richman-10-a-classic-asian-monopoly-game-out-now-on-xbox/)
+ - [Microsoft won’t raise Xbox prices after PlayStation 5 price hike](https://www.pcgamer.com/microsoft-wont-raise-xbox-prices-after-playstation-5-price-hike)
+ - [The Internet Is Kicking Toxic Jerk Andrew Tate Off The Funniest Places](https://kotaku.com/andrew-tate-ban-meme-twitter-youtube-tiktok-facebook-1849458856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
