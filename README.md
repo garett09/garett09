@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You will own nothing](http://9gag.com/gag/a61v1wm)
- - 🚯 [I mean, It&#39;s true](http://9gag.com/gag/aXrDrXg)
+ - 🚖 [I mean, It&#39;s true](http://9gag.com/gag/aXrDrXg)
+ - 🚯 [You will own nothing](http://9gag.com/gag/a61v1wm)
  - 🚯 [Well, Let Me Tell You Something, Brother!](http://9gag.com/gag/apgygqW)<!-- MEMES:END -->
 
 --- 
