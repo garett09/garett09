@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Read it as many times as you need. I&#39;m a leave it right here.](http://9gag.com/gag/angp7D0)
- - 🚯 [Mens Fashion is ridiculous](http://9gag.com/gag/aGz3EYG)
+ - 🚖 [Mens Fashion is ridiculous](http://9gag.com/gag/aGz3EYG)
+ - 🚯 [Please don&#39;t kill yourself](http://9gag.com/gag/a21BKY9)
  - 🚯 [How to fire a civil war matchlock musket](http://9gag.com/gag/a11zmXD)<!-- MEMES:END -->
 
 --- 
