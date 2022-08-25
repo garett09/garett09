@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor 70 arrives in the UK on September 2nd for £480](https://www.theverge.com/2022/8/25/23321302/honor-70-uk-release-date-price-specs-details-cameras-solo-cut-mode)
- - [Harvestella turns Stardew Valley into a Square Enix RPG](https://www.theverge.com/2022/8/25/23322036/harvestella-nintendo-treehouse-live-square-enix-rpg-stardew-valley)
- - [What to expect from the iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/03/30/rumor-roundup-what-to-expect-from-the-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [Sources: Binance and FTX are among at least 22 investors trying to buy the assets of Voyager Digital; source: Coinbase evaluated a deal but withdrew &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220825/p21#a220825p21)
+ - [Mark Zuckerberg confirms new Meta VR headset will launch in October](https://www.theverge.com/2022/8/25/23322159/mark-zuckerberg-joe-rogan-meta-quest-cambria-headset-launch-date-october)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
