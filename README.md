@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a fine culture](http://9gag.com/gag/aRr5rG5)
- - 🚯 [Poor Lawernce...](http://9gag.com/gag/aGz3E6z)
- - 🚯 [Understandable Alex](http://9gag.com/gag/amgjgg2)<!-- MEMES:END -->
+ - 🚖 [Lucky bastard](http://9gag.com/gag/a51mX0g)
+ - 🚯 [Miss him for the memes](http://9gag.com/gag/a21BKP9)
+ - 🚯 [Security guard of the month](http://9gag.com/gag/aggMoz6)<!-- MEMES:END -->
 
 --- 
 
