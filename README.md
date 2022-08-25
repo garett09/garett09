@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PlayStation 5 Just Got More Expensive In Most Markets](https://kotaku.com/ps5-playstation-5-price-rise-raising-hike-increase-sony-1849455516)
- - [Today&#39;s Wordle 432 answer and hint: Thursday, August 25](https://www.pcgamer.com/todays-wordle-432-answer-hint)
- - [PS5 price to increase in select markets due to global economic environment, including high inflation rates](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/)<!-- GAME:END -->
+ - [Logitech G735 gaming headset](https://www.pcgamer.com/logitech-g735-gaming-headset-review)
+ - [After 7 months, Dark Souls 3 is back online](https://www.pcgamer.com/after-7-months-dark-souls-3-is-back-online)
+ - [Nvidia to unveil its next-gen GPU architecture in September at GTC](https://www.pcgamer.com/nvidia-gtc-lovelace-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
