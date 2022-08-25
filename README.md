@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just why?? Lol](http://9gag.com/gag/adgZBxB)
+ - 🚖 [How to fire a civil war matchlock musket](http://9gag.com/gag/a11zmXD)
  - 🚯 [Germany launched a fleet of 14 Hydrogen powered trains on 8/24/2022, replacing 15 diesel units that are now retired. The byproduct of Hydrogen fuel is water vapor, thus reducing carbon emissions. A train can run up to 1000 km on a tank, which is roughly 1 day of use.](http://9gag.com/gag/aBnqZQO)
- - 🚯 [How to fire a civil war matchlock musket](http://9gag.com/gag/a11zmXD)<!-- MEMES:END -->
+ - 🚯 [Yep](http://9gag.com/gag/avAYWqE)<!-- MEMES:END -->
 
 --- 
 
