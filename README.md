@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite huge ad campaigns by crypto companies, a Pew survey of US adults shows those trading crypto has stayed flat at 16% from September 2021 to July 2022 &lpar;Steven Zeitchik/Washington Post&rpar;](http://www.techmeme.com/220825/p12#a220825p12)
- - [How to Make the Most of the New US Climate Tax Credits](https://www.wired.com/story/gadget-lab-podcast-563/)
- - [Samsung’s Buds2 Pro Are Smaller and Sound Better](https://www.wired.com/review/samsung-galaxy-buds2-pro/)<!-- TECH:END -->
+ - [The best new streaming movies this week on HBO Max, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Apple launches second &#39;Impact Accelerator&#39; to train minority-owned businesses](https://appleinsider.com/articles/22/08/25/apple-launches-second-impact-accelerator-to-train-minority-owned-businesses?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 4 review: Happy as a clamshell](https://www.androidauthority.com/samsung-galaxy-z-flip-4-review-3198938/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
