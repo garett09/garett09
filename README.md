@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Sources: Binance and FTX are among at least 22 investors trying to buy the assets of Voyager Digital; source: Coinbase evaluated a deal but withdrew &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220825/p21#a220825p21)
- - [Mark Zuckerberg confirms new Meta VR headset will launch in October](https://www.theverge.com/2022/8/25/23322159/mark-zuckerberg-joe-rogan-meta-quest-cambria-headset-launch-date-october)<!-- TECH:END -->
+ - [Judge rejects Elon Musk’s ‘absurdly broad’ data requests](https://www.theverge.com/2022/8/25/23322234/twitter-v-elon-musk-discovery-mdau-bot-data)
+ - [Judge orders Twitter to give Elon Musk data of 9,000 accounts sampled in Q4 to estimate spam account numbers but rejects other Musk demands as &quot;absurdly broad&quot; &lpar;Tom Hals/Reuters&rpar;](http://www.techmeme.com/220825/p24#a220825p24)
+ - [FTX Ventures absorbed the VC operations of Alameda Research, with the transition beginning in January, when FTX Ventures raised $2B &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220825/p23#a220825p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
