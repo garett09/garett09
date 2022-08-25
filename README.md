@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech G735 gaming headset](https://www.pcgamer.com/logitech-g735-gaming-headset-review)
- - [After 7 months, Dark Souls 3 is back online](https://www.pcgamer.com/after-7-months-dark-souls-3-is-back-online)
- - [Nvidia to unveil its next-gen GPU architecture in September at GTC](https://www.pcgamer.com/nvidia-gtc-lovelace-announcement)<!-- GAME:END -->
+ - [She-Hulk brings back the second Marvel Cinematic Universe villain ever](https://www.polygon.com/23318890/she-hulk-abomination-tim-roth-emil-blonsky-backstory)
+ - [What Dead Island 2 lacks in surprises it makes up for with great zombie fights](https://www.pcgamer.com/what-dead-island-2-lacks-in-surprises-it-makes-up-for-with-great-zombie-fights)
+ - [New Forspoken trailer downplays the jokes to show off the open world](https://www.pcgamer.com/new-forspoken-trailer-downplays-the-jokes-to-show-off-the-open-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
