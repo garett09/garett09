@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now even Redmi Note phones might skip the bundled charger](https://www.androidauthority.com/xiaomi-redmi-note-bundled-charger-3200141/)
- - [Starlink lowers monthly subscription prices for many](https://www.theverge.com/2022/8/25/23321262/starlink-discount-price-drop)
- - [A look at YouTube&#39;s Argos, its in-house designed custom chip for transcoding videos, now in its second generation and deployed to thousands of servers globally &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220825/p2#a220825p2)<!-- TECH:END -->
+ - [Sony hikes price of PS5 in Europe, Japan, and more](https://www.theverge.com/2022/8/25/23321301/sony-ps5-price-increase-europe-uk-japan-china-australia-mexico-canada)
+ - [More People Should Watch the Absolute Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-absolute-best-show-on-netflix/#ftag=CAD590a51e)
+ - [Now even Redmi Note phones might skip the bundled charger](https://www.androidauthority.com/xiaomi-redmi-note-bundled-charger-3200141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
