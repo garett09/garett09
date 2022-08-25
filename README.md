@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mens Fashion is ridiculous](http://9gag.com/gag/aGz3EYG)
- - 🚯 [Please don&#39;t kill yourself](http://9gag.com/gag/a21BKY9)
- - 🚯 [How to fire a civil war matchlock musket](http://9gag.com/gag/a11zmXD)<!-- MEMES:END -->
+ - 🚖 [Please don&#39;t kill yourself](http://9gag.com/gag/a21BKY9)
+ - 🚯 [The hug was personal](http://9gag.com/gag/aqG3e6Q)
+ - 🚯 [I offered a triple salary to that guy if he works as hard as that first day, but he refused, and looks scared shitless. The f**k is happening...](http://9gag.com/gag/aAGWG92)<!-- MEMES:END -->
 
 --- 
 
