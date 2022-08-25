@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony hikes price of PS5 in Europe, Japan, and more](https://www.theverge.com/2022/8/25/23321301/sony-ps5-price-increase-europe-uk-japan-china-australia-mexico-canada)
- - [More People Should Watch the Absolute Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-absolute-best-show-on-netflix/#ftag=CAD590a51e)
- - [Now even Redmi Note phones might skip the bundled charger](https://www.androidauthority.com/xiaomi-redmi-note-bundled-charger-3200141/)<!-- TECH:END -->
+ - [The PS5 just got a price hike in Canada, Europe, more regions](https://www.androidauthority.com/ps5-price-increase-2022-3200745/)
+ - [Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors](https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022)
+ - [ByteDance quietly launches its Wukong search engine in China, promising no ads in its results, days after Tencent shut down its Sogou search app &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/220825/p3#a220825p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
