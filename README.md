@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PlayStation 5 Just Got More Expensive In Most Markets](https://kotaku.com/ps5-playstation-5-price-rise-raising-hike-increase-sony-1849455516)
  - [Today&#39;s Wordle 432 answer and hint: Thursday, August 25](https://www.pcgamer.com/todays-wordle-432-answer-hint)
- - [PS5 price to increase in select markets due to global economic environment, including high inflation rates](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/)
- - [You absolutely shouldn&#39;t buy this Ryzen 7000 sample CPU](https://www.pcgamer.com/you-absolutely-shouldnt-buy-this-ryzen-7000-sample-cpu)<!-- GAME:END -->
+ - [PS5 price to increase in select markets due to global economic environment, including high inflation rates](https://blog.playstation.com/2022/08/25/ps5-price-to-increase-in-select-markets-due-to-global-economic-environment-including-high-inflation-rates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
