@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My iPhone is calling to me with a different voice](https://www.theverge.com/tldr/2022/8/24/23320873/iphone-ios-16-find-my-alert-sounds-changed-siri-carplay)
- - [Masahiro Sakurai might already be my favorite YouTuber](https://www.theverge.com/2022/8/24/23320915/masahiro-sakurai-youtube-channel-creating-games)
- - [&#39;House of the Dragon&#39; vs. &#39;Lord of the Rings&#39; vs. &#39;Star Wars&#39; vs. &#39;She-Hulk&#39;     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-vs-lord-of-the-rings-vs-star-wars-vs-she-hulk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea-based Tridge, which matches food agriculture buyers and sellers, raised a ~$37M Series D at a $2.7B post-money valuation, up from $500M in July 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220824/p27#a220824p27)
+ - [Microsoft&#39;s Phil Spencer says he&#39;s encouraged by progress toward Activision Blizzard deal approval and believes exclusive games made for one platform are fading &lpar;Bloomberg&rpar;](http://www.techmeme.com/220824/p26#a220824p26)
+ - [More People Need to Watch This Slick Sci-Fi Gem on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-slick-sci-fi-gem-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
