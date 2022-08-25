@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thirdweb, which makes a development toolkit to build and launch Web3 products, raises $24M at a $160M valuation from Haun Ventures, Shopify, and Coinbase &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220825/p1#a220825p1)
- - [Val Kilmer Says He Would Like to Play Batman Again     - CNET](https://www.cnet.com/culture/entertainment/val-kilmer-says-he-would-like-to-play-batman-again/#ftag=CAD590a51e)
- - [South Korea-based Tridge, which matches food agriculture buyers and sellers, raised a ~$37M Series D at a $2.7B post-money valuation, up from $500M in July 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220824/p27#a220824p27)<!-- TECH:END -->
+ - [Now even Redmi Note phones might skip the bundled charger](https://www.androidauthority.com/xiaomi-redmi-note-bundled-charger-3200141/)
+ - [Starlink lowers monthly subscription prices for many](https://www.theverge.com/2022/8/25/23321262/starlink-discount-price-drop)
+ - [A look at YouTube&#39;s Argos, its in-house designed custom chip for transcoding videos, now in its second generation and deployed to thousands of servers globally &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220825/p2#a220825p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
