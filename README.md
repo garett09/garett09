@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge rejects Elon Musk’s ‘absurdly broad’ data requests](https://www.theverge.com/2022/8/25/23322234/twitter-v-elon-musk-discovery-mdau-bot-data)
- - [Judge orders Twitter to give Elon Musk data of 9,000 accounts sampled in Q4 to estimate spam account numbers but rejects other Musk demands as &quot;absurdly broad&quot; &lpar;Tom Hals/Reuters&rpar;](http://www.techmeme.com/220825/p24#a220825p24)
- - [FTX Ventures absorbed the VC operations of Alameda Research, with the transition beginning in January, when FTX Ventures raised $2B &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220825/p23#a220825p23)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta&#39;s next VR headset will debut in October with improved eye- and facial-tracking features to bolster users&#39; feeling of &quot;social presence&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220825/p26#a220825p26)
+ - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)
+ - [The US government got caught using sock puppets to spread propaganda on social media](https://www.theverge.com/2022/8/25/23322214/us-government-propaganda-campaign-twitter-facebook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
