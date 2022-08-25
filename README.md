@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)
- - [20 Early Labor Day Deals on Tech, Games, and Mattresses](https://www.wired.com/story/early-labor-day-deals-2022/)
- - [Get Used to Startups Trying to Reinvent Housing](https://www.wired.com/story/get-used-to-startups-trying-to-reinvent-housing/)<!-- TECH:END -->
+ - [Despite huge ad campaigns by crypto companies, a Pew survey of US adults shows those trading crypto has stayed flat at 16% from September 2021 to July 2022 &lpar;Steven Zeitchik/Washington Post&rpar;](http://www.techmeme.com/220825/p12#a220825p12)
+ - [How to Make the Most of the New US Climate Tax Credits](https://www.wired.com/story/gadget-lab-podcast-563/)
+ - [Samsung’s Buds2 Pro Are Smaller and Sound Better](https://www.wired.com/review/samsung-galaxy-buds2-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
