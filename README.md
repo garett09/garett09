@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Verbal Fu Jitsu - avoid the fight](http://9gag.com/gag/a319Ev8)
- - 🚯 [Influencers and good content!](http://9gag.com/gag/aGz3gGZ)
- - 🚯 [Molecular Biologist on trans `women`](http://9gag.com/gag/avAY8DM)<!-- MEMES:END -->
+ - 🚖 [Capybara made his day](http://9gag.com/gag/a0ZA7vO)
+ - 🚯 [Yessss cry yessssss](http://9gag.com/gag/apgyNr5)
+ - 🚯 [Mothers demand that a teacher be fired because of her body. They say that she is `distracting to students\u201d](http://9gag.com/gag/aGz3gW0)<!-- MEMES:END -->
 
 --- 
 
