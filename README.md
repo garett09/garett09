@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shazam! and Aquaman sequel delays could be good for DC movies](https://www.polygon.com/23321261/shazam-fury-of-the-gods-aquaman-2-delays-release-dates-dc-movies-schedule)
- - [Greater Together in EA Sports NHL 23](https://news.xbox.com/en-us/2022/08/25/greater-together-in-ea-sports-nhl-23/)
- - [Amazon Prime’s New Free Games Include The Best Assassin’s Creed, Lord Of The Rings, And More](https://kotaku.com/amazon-prime-free-games-september-assassin-s-creed-pc-1849458067)<!-- GAME:END -->
+ - [21 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
+ - [The Left 4 Dead-inspired Aliens game is finally getting a boss battle](https://www.polygon.com/23321593/aliens-fireteam-elite-pathogen-release-date-xenomorph-queen-boss-battle)
+ - [Skull and Bones PC system requirements and special features revealed](https://www.pcgamer.com/skull-and-bones-pc-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
