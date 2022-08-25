@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IPhone 14](http://9gag.com/gag/ay9gMWX)
- - 🚯 [Yessss cry yessssss](http://9gag.com/gag/apgyNr5)
- - 🚯 [Well, Let Me Tell You Something, Brother!](http://9gag.com/gag/apgygqW)<!-- MEMES:END -->
+ - 🚖 [You will own nothing](http://9gag.com/gag/a61v1wm)
+ - 🚯 [I mean, It&#39;s true](http://9gag.com/gag/aXrDrXg)
+ - 🚯 [Don&#39;t be geh](http://9gag.com/gag/a41eEqZ)<!-- MEMES:END -->
 
 --- 
 
