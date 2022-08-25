@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NBA 2K23’s exclusive PlayStation MyTEAM Challenges revealed](https://blog.playstation.com/2022/08/25/nba-2k23s-exclusive-playstation-myteam-challenges-revealed/)
- - [Free Play Days – Bloodstained: Ritual of the Night, Destiny 2 Expansions, and The Elder Scrolls Online](https://news.xbox.com/en-us/2022/08/25/free-play-days-bloodstained-ritual-of-the-night-destiny-2-expansions-and-the-elder-scrolls-online/)
- - [NHL 23’s new features could make some longtime fans very happy](https://www.polygon.com/23318907/nhl-23-preview-release-date-ea-sports-nurse-zegras-trailer)<!-- GAME:END -->
+ - [The YouTubers and TikTokers embracing cringe to explain everything](https://www.polygon.com/23316905/neopets-omegaverse-onceler-fanfiction-youtube-tiktok-cringe)
+ - [Strategy Puzzler Absolute Tactics scratches my XCOM itch, until the characters start talking](https://www.pcgamer.com/strategy-puzzler-absolute-tactics-scratches-my-xcom-itch-until-the-characters-start-talking)
+ - [Making the perfect campus in Two Point Campus](https://www.pcgamer.com/making-the-perfect-campus-in-two-point-campus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
