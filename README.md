@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues sixth developer beta of macOS Ventura](https://appleinsider.com/articles/22/08/25/apple-issues-sixth-developer-beta-of-macos-ventura?utm_medium=rss)
- - [Praise the sun! Dark Souls 3’s PC servers are back up](https://www.theverge.com/2022/8/25/23321483/dark-souls-3-pc-pvp-servers-rce-exploit-restored)
- - [The O․MG Elite cable is a scarily stealthy hacker tool](https://www.theverge.com/23321517/omg-elite-cable-hacker-tool-review-defcon)<!-- TECH:END -->
+ - [iPhone shipments in Vietnam more than doubled over the last year](https://appleinsider.com/articles/22/08/24/iphone-shipments-from-vietnam-saw-major-growth-in-q2-2022?utm_medium=rss)
+ - [Peloton CEO thinks losing $1.2 billion is a sign of ‘substantial progress’](https://www.theverge.com/2022/8/25/23321488/peloton-q4-earnings-barry-mccarthy-fitness)
+ - [Twitter is integrating podcasts into its redesigned Spaces Tab, starting with some English-speaking users globally, on iOS and Android &lpar;Twitter&rpar;](http://www.techmeme.com/220825/p18#a220825p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
