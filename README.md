@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you do fellow kids?](http://9gag.com/gag/aqG3GQj)
- - 🚯 [Abbey, The Dog From &#39;I Am Legend&#39;, Is Now 15 And Living Her Best Life!](http://9gag.com/gag/ajgbmWG)
+ - 🚖 [Unironically true](http://9gag.com/gag/arn6n00)
+ - 🚯 [School bad bad](http://9gag.com/gag/abgPgVO)
  - 🚯 [At last ! He&#39;s good !](http://9gag.com/gag/a81P1w6)<!-- MEMES:END -->
 
 --- 
