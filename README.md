@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Miss him for the memes](http://9gag.com/gag/a21BKP9)
- - 🚯 [What a fine culture](http://9gag.com/gag/aRr5rG5)
+ - 🚖 [Braindead people in a safari park](http://9gag.com/gag/aZrADw0)
+ - 🚯 [Understandable Alex](http://9gag.com/gag/amgjgg2)
  - 🚯 [That escalated quickly...](http://9gag.com/gag/axBxoo1)<!-- MEMES:END -->
 
 --- 
