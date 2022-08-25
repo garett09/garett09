@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can &lpar;sorta&rpar; play Destiny 2 Crucible inside Fortnite, and it&#39;s cool as heck](https://www.pcgamer.com/you-can-sorta-play-destiny-2-crucible-inside-fortnite-and-its-cool-as-heck)
- - [What Your Mass Effect Romance Says About You: Brutal Callout Post Edition](https://kotaku.com/mass-effect-romance-liara-garrus-miranda-lawson-love-1849454114)
- - [Pinocchio definitely isn’t a real boy in his movie’s new Disney Plus trailer](https://www.polygon.com/23320508/pinocchio-disney-plus-tom-hanks-trailer-release-date)<!-- GAME:END -->
+ - [GameStop Will Start Paying Some Employees With Meme Stock](https://kotaku.com/gamestop-meme-stock-raise-managers-shares-workers-1849454800)
+ - [Valve is testing a new Steam mobile app](https://www.pcgamer.com/valve-is-testing-a-new-steam-mobile-app)
+ - [The three clever murder mysteries in this game demo made me hungry for more](https://www.pcgamer.com/the-three-clever-murder-mysteries-in-this-game-demo-made-me-hungry-for-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
