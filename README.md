@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unironically true](http://9gag.com/gag/arn6n00)
- - 🚯 [School bad bad](http://9gag.com/gag/abgPgVO)
- - 🚯 [At last ! He&#39;s good !](http://9gag.com/gag/a81P1w6)<!-- MEMES:END -->
+ - 🚖 [Miss him for the memes](http://9gag.com/gag/a21BKP9)
+ - 🚯 [What a fine culture](http://9gag.com/gag/aRr5rG5)
+ - 🚯 [That escalated quickly...](http://9gag.com/gag/axBxoo1)<!-- MEMES:END -->
 
 --- 
 
