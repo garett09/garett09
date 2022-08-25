@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle snags a place inside the New York Times Crossword app](https://www.theverge.com/2022/8/24/23320567/wordle-word-game-new-york-times-crossword-app)
- - [Google Play Games opens its beta to let more users play Android games on PC](https://www.androidauthority.com/google-play-games-on-pc-3199923/)
- - [Google Play Games beta opens outside the US](https://www.theverge.com/2022/8/24/23320014/google-play-games-beta-korea-australia-hong-kong-taiwan-thailand)<!-- TECH:END -->
+ - [My iPhone is calling to me with a different voice](https://www.theverge.com/tldr/2022/8/24/23320873/iphone-ios-16-find-my-alert-sounds-changed-siri-carplay)
+ - [Masahiro Sakurai might already be my favorite YouTuber](https://www.theverge.com/2022/8/24/23320915/masahiro-sakurai-youtube-channel-creating-games)
+ - [&#39;House of the Dragon&#39; vs. &#39;Lord of the Rings&#39; vs. &#39;Star Wars&#39; vs. &#39;She-Hulk&#39;     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-vs-lord-of-the-rings-vs-star-wars-vs-she-hulk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
