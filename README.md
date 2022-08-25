@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PS5 just got a price hike in Canada, Europe, more regions](https://www.androidauthority.com/ps5-price-increase-2022-3200745/)
- - [Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors](https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022)
- - [ByteDance quietly launches its Wukong search engine in China, promising no ads in its results, days after Tencent shut down its Sogou search app &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/220825/p3#a220825p3)<!-- TECH:END -->
+ - [At a hearing seeking more data on bots from Twitter, Elon Musk&#39;s lawyers cite whistleblower Peiter Zatko&#39;s claims; Twitter says spam counts are merely estimates &lpar;Washington Post&rpar;](http://www.techmeme.com/220825/p7#a220825p7)
+ - [Sayaka Murata Inhabits a Planet of Her Own](https://www.wired.com/story/writer-sayaka-murata-inhabits-a-planet-of-her-own/)
+ - [Ethereum’s long-awaited proof-of-stake transition set to start on September 6th](https://www.theverge.com/2022/8/25/23321312/ethereum-merge-date-start-september-6-bellatrix-upgrade)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
