@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [What a joke](http://9gag.com/gag/a41e34p)
- - 🚯 [Ooh ooh here she comes.](http://9gag.com/gag/axBx7rW)
- - 🚯 [For IT people who who hates when their TEAMS status goes to `Away`](http://9gag.com/gag/aBnqgON)<!-- MEMES:END -->
+ - 🚯 [For IT people who who hates when their TEAMS status goes to `Away`](http://9gag.com/gag/aBnqgON)
+ - 🚯 [True kings](http://9gag.com/gag/aggM556)<!-- MEMES:END -->
 
 --- 
 
