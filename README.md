@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Try Your Luck in Richman 10, a Classic Asian Monopoly Game](https://news.xbox.com/en-us/2022/08/25/richman-10-a-classic-asian-monopoly-game-out-now-on-xbox/)
- - [Microsoft won’t raise Xbox prices after PlayStation 5 price hike](https://www.pcgamer.com/microsoft-wont-raise-xbox-prices-after-playstation-5-price-hike)
- - [The Internet Is Kicking Toxic Jerk Andrew Tate Off The Funniest Places](https://kotaku.com/andrew-tate-ban-meme-twitter-youtube-tiktok-facebook-1849458856)<!-- GAME:END -->
+ - [Genshin Impact’s new Four-Leaf Sigil makes me feel like Spider-Man](https://www.polygon.com/23322368/genshin-impact-sumeru-four-leaf-sigil-hoyoverse-spider-man)
+ - [The ‘Blue Hair And Pronouns’ Game Has Its Heart In The Right Place But Lacks Teeth](https://kotaku.com/i-was-a-teenage-exocolonist-playstation-5-1849458988)
+ - [Despite PS5 Price Hike, Microsoft And Nintendo Won&#39;t Be Raising Console Prices For Now](https://kotaku.com/xbox-series-x-s-price-increase-nintendo-sony-ps5-1849459253)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
