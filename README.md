@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Meta&#39;s next VR headset will debut in October with improved eye- and facial-tracking features to bolster users&#39; feeling of &quot;social presence&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220825/p26#a220825p26)
- - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)
- - [The US government got caught using sock puppets to spread propaganda on social media](https://www.theverge.com/2022/8/25/23322214/us-government-propaganda-campaign-twitter-facebook)<!-- TECH:END -->
+ - [Affirm reports Q4 revenue up 39% YoY to $364.1M, vs. $354.8M est., but a Q1 2023 revenue outlook of $345M to $365M, vs. $386M est.; stock falls 13%+ after hours &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220825/p28#a220825p28)
+ - [Meta made 68 &quot;newsworthiness allowances&quot; from June 2021 to June 2022 for posts that may have violated its standards, letting them stay on Facebook or Instagram &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220825/p27#a220825p27)
+ - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
