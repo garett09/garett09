@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea-based Tridge, which matches food agriculture buyers and sellers, raised a ~$37M Series D at a $2.7B post-money valuation, up from $500M in July 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220824/p27#a220824p27)
- - [Microsoft&#39;s Phil Spencer says he&#39;s encouraged by progress toward Activision Blizzard deal approval and believes exclusive games made for one platform are fading &lpar;Bloomberg&rpar;](http://www.techmeme.com/220824/p26#a220824p26)
- - [More People Need to Watch This Slick Sci-Fi Gem on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-slick-sci-fi-gem-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thirdweb, which makes a development toolkit to build and launch Web3 products, raises $24M at a $160M valuation from Haun Ventures, Shopify, and Coinbase &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220825/p1#a220825p1)
+ - [Val Kilmer Says He Would Like to Play Batman Again     - CNET](https://www.cnet.com/culture/entertainment/val-kilmer-says-he-would-like-to-play-batman-again/#ftag=CAD590a51e)
+ - [South Korea-based Tridge, which matches food agriculture buyers and sellers, raised a ~$37M Series D at a $2.7B post-money valuation, up from $500M in July 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220824/p27#a220824p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
