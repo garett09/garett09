@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a hearing seeking more data on bots from Twitter, Elon Musk&#39;s lawyers cite whistleblower Peiter Zatko&#39;s claims; Twitter says spam counts are merely estimates &lpar;Washington Post&rpar;](http://www.techmeme.com/220825/p7#a220825p7)
- - [Sayaka Murata Inhabits a Planet of Her Own](https://www.wired.com/story/writer-sayaka-murata-inhabits-a-planet-of-her-own/)
- - [Ethereum’s long-awaited proof-of-stake transition set to start on September 6th](https://www.theverge.com/2022/8/25/23321312/ethereum-merge-date-start-september-6-bellatrix-upgrade)<!-- TECH:END -->
+ - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)
+ - [20 Early Labor Day Deals on Tech, Games, and Mattresses](https://www.wired.com/story/early-labor-day-deals-2022/)
+ - [Get Used to Startups Trying to Reinvent Housing](https://www.wired.com/story/get-used-to-startups-trying-to-reinvent-housing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
