@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The YouTubers and TikTokers embracing cringe to explain everything](https://www.polygon.com/23316905/neopets-omegaverse-onceler-fanfiction-youtube-tiktok-cringe)
- - [Strategy Puzzler Absolute Tactics scratches my XCOM itch, until the characters start talking](https://www.pcgamer.com/strategy-puzzler-absolute-tactics-scratches-my-xcom-itch-until-the-characters-start-talking)
- - [Making the perfect campus in Two Point Campus](https://www.pcgamer.com/making-the-perfect-campus-in-two-point-campus)<!-- GAME:END -->
+ - [Knockout City’s Seventh Season, Mutant Mutiny!, Arrives on August 30th](https://news.xbox.com/en-us/2022/08/25/knockout-citys-seventh-season-mutant-mutiny-arrives-on-august-30th/)
+ - [How to tame three animals during a single match in Fortnite](https://www.pcgamer.com/fortnite-tame-wildlife-in-a-single-match)
+ - [Super Smash Bros. Director Is A YouTuber Now, And I Love It](https://kotaku.com/super-smash-bros-masahiro-sakurai-game-design-youtube-1849457235)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
