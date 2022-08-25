@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook talks Apple innovation, health, and Steve Jobs in candid interview](https://appleinsider.com/articles/22/08/25/tim-cook-talks-apple-innovation-health-and-steve-jobs-in-candid-interview?utm_medium=rss)
- - [Interns at Big Tech companies remain hopeful amid economic downturns](https://appleinsider.com/articles/22/08/25/interns-at-big-tech-companies-remain-hopeful-amid-economic-downturns?utm_medium=rss)
- - [Twitter is a mess — but in the Elon Musk trial, it might not matter](https://www.theverge.com/2022/8/25/23321477/elon-musk-twitter-mudge-zatko-leaks-court-effects)<!-- TECH:END -->
+ - [Apple&#39;s secure Lockdown Mode may reduce web browsing anonymity](https://appleinsider.com/articles/22/08/25/apples-secure-lockdown-mode-may-reduce-web-browsing-anonymity?utm_medium=rss)
+ - [MyFitnessPal’s barcode scanner made counting calories easy — now it’s being paywalled](https://www.theverge.com/2022/8/25/23321408/myfitnesspal-weight-loss-app-barcode-scanning-premium-paywall)
+ - [What’s new on Hulu in September 2022: The Handmaid’s Tale, Atlanta, and more](https://www.androidauthority.com/new-on-hulu-939207/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
