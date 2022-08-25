@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk brings back the second Marvel Cinematic Universe villain ever](https://www.polygon.com/23318890/she-hulk-abomination-tim-roth-emil-blonsky-backstory)
- - [What Dead Island 2 lacks in surprises it makes up for with great zombie fights](https://www.pcgamer.com/what-dead-island-2-lacks-in-surprises-it-makes-up-for-with-great-zombie-fights)
- - [New Forspoken trailer downplays the jokes to show off the open world](https://www.pcgamer.com/new-forspoken-trailer-downplays-the-jokes-to-show-off-the-open-world)<!-- GAME:END -->
+ - [Everything we know about Nilou in Genshin Impact](https://www.pcgamer.com/genshin-impact-nilou-build-banner)
+ - [Sony is raising the price of the PS5](https://www.polygon.com/23321445/sony-playstation-5-ps5-price-increase)
+ - [Local Legend 6, the Junkers F 13, Available Today in Microsoft Flight Simulator](https://news.xbox.com/en-us/2022/08/25/local-legend-6-junkers-f13-available-today-microsoft-flight-simulator/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
