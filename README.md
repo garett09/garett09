@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on HBO Max, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Apple launches second &#39;Impact Accelerator&#39; to train minority-owned businesses](https://appleinsider.com/articles/22/08/25/apple-launches-second-impact-accelerator-to-train-minority-owned-businesses?utm_medium=rss)
- - [Samsung Galaxy Z Flip 4 review: Happy as a clamshell](https://www.androidauthority.com/samsung-galaxy-z-flip-4-review-3198938/)<!-- TECH:END -->
+ - [Tim Cook talks Apple innovation, health, and Steve Jobs in candid interview](https://appleinsider.com/articles/22/08/25/tim-cook-talks-apple-innovation-health-and-steve-jobs-in-candid-interview?utm_medium=rss)
+ - [Interns at Big Tech companies remain hopeful amid economic downturns](https://appleinsider.com/articles/22/08/25/interns-at-big-tech-companies-remain-hopeful-amid-economic-downturns?utm_medium=rss)
+ - [Twitter is a mess — but in the Elon Musk trial, it might not matter](https://www.theverge.com/2022/8/25/23321477/elon-musk-twitter-mudge-zatko-leaks-court-effects)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
