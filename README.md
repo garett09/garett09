@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone shipments in Vietnam more than doubled over the last year](https://appleinsider.com/articles/22/08/24/iphone-shipments-from-vietnam-saw-major-growth-in-q2-2022?utm_medium=rss)
- - [Peloton CEO thinks losing $1.2 billion is a sign of ‘substantial progress’](https://www.theverge.com/2022/8/25/23321488/peloton-q4-earnings-barry-mccarthy-fitness)
- - [Twitter is integrating podcasts into its redesigned Spaces Tab, starting with some English-speaking users globally, on iOS and Android &lpar;Twitter&rpar;](http://www.techmeme.com/220825/p18#a220825p18)<!-- TECH:END -->
+ - [Honor 70 arrives in the UK on September 2nd for £480](https://www.theverge.com/2022/8/25/23321302/honor-70-uk-release-date-price-specs-details-cameras-solo-cut-mode)
+ - [Harvestella turns Stardew Valley into a Square Enix RPG](https://www.theverge.com/2022/8/25/23322036/harvestella-nintendo-treehouse-live-square-enix-rpg-stardew-valley)
+ - [What to expect from the iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/03/30/rumor-roundup-what-to-expect-from-the-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
