@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Capybara made his day](http://9gag.com/gag/a0ZA7vO)
+ - 🚖 [IPhone 14](http://9gag.com/gag/ay9gMWX)
  - 🚯 [Yessss cry yessssss](http://9gag.com/gag/apgyNr5)
- - 🚯 [Mothers demand that a teacher be fired because of her body. They say that she is `distracting to students\u201d](http://9gag.com/gag/aGz3gW0)<!-- MEMES:END -->
+ - 🚯 [Logic.](http://9gag.com/gag/arn6Mjy)<!-- MEMES:END -->
 
 --- 
 
