@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The galaxy won&#39;t be the same&#39; after Elite Dangerous Update 14, say devs](https://www.pcgamer.com/the-galaxy-wont-be-the-same-after-elite-dangerous-update-14-say-devs)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Genshin Impact’s new Four-Leaf Sigil makes me feel like Spider-Man](https://www.polygon.com/23322368/genshin-impact-sumeru-four-leaf-sigil-hoyoverse-spider-man)<!-- GAME:END -->
+ - [Final Fantasy 14 players are already grinding the hell out of its new relaxing farming mode](https://www.pcgamer.com/final-fantasy-14-players-are-already-grinding-the-hell-out-of-its-new-relaxing-farming-mode)
+ - [Most of the Hogwarts Legacy Collector&#39;s Edition&#39;s $300 price tag is tied up in an electromagnetic floating wand](https://www.pcgamer.com/most-of-the-hogwarts-legacy-collectors-editions-dollar300-price-tag-is-tied-up-in-an-electromagnetic-floating-wand)
+ - [AI Creating &#39;Art&#39; Is An Ethical And Copyright Nightmare](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
