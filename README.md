@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm reports Q4 revenue up 39% YoY to $364.1M, vs. $354.8M est., but a Q1 2023 revenue outlook of $345M to $365M, vs. $386M est.; stock falls 13%+ after hours &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220825/p28#a220825p28)
- - [Meta made 68 &quot;newsworthiness allowances&quot; from June 2021 to June 2022 for posts that may have violated its standards, letting them stay on Facebook or Instagram &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220825/p27#a220825p27)
- - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [T-Mobile and SpaceX partner to let customers in areas lacking any T-Mobile service use Starlink for MMS and &quot;select messaging apps&quot; in some markets next year &lpar;The Verge&rpar;](http://www.techmeme.com/220825/p31#a220825p31)
+ - [T-Mobile and SpaceX Starlink say your 5G phone will connect to satellites next year](https://www.theverge.com/2022/8/25/23320722/spacex-starlink-t-mobile-satellite-internet-mobile-messaging)
+ - [T-Mobile, SpaceX Partner to Boost Connectivity in Areas With No Cellular Coverage     - CNET](https://www.cnet.com/tech/mobile/t-mobile-spacex-partner-to-boost-connectivity-in-areas-with-no-cellular-coverage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
