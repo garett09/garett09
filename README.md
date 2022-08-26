@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Xbox One Adult Games 2022 You Can Play Right Now](https://game-rant-2022.blogspot.com/2022/08/best-xbox-one-adult-games-2022-you-can.html)
- - [Fortnite TikTok Creator Explains How He Used DBZ To Troll The Internet](https://kotaku.com/fortnite-dbz-goku-tiktok-youtube-troll-meme-1849463584)
- - [[Madden 23 crashing] Madden 22 crashes problem is acknowledged](https://game-rant-2022.blogspot.com/2022/08/madden-23-crashing-madden-22-crashes.html)<!-- GAME:END -->
+ - [The 9 defunct video game services we miss the most](https://game-rant-2022.blogspot.com/2022/08/the-9-defunct-video-game-services-we.html)
+ - [Kill The Justice League shouldn&#39;t completely abandon the serious tone of the Arkham series](https://game-rant-2022.blogspot.com/2022/08/kill-justice-league-shouldnt-completely.html)
+ - [Jigging, pumping, and other fun terms I learned from this co-op fishing sim trailer](https://www.pcgamer.com/jigging-pumping-and-other-fun-terms-i-learned-from-this-co-op-fishing-sim-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
