@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The spider appears to have flower on its head. But its actually the reflection of the flower in a drop of water. Pic: David Narv\u00e1ez](http://9gag.com/gag/angpnyz)
- - 🚯 [Name a movie that people said it was bad, but you enjoyed it anyway, i&#39;ll start : Jumper](http://9gag.com/gag/apgyRb5)
- - 🚯 [Charles Bronson ...One Ripped MF... Old School Cool](http://9gag.com/gag/aQXwv78)<!-- MEMES:END -->
+ - 🚖 [Reduces cursing by 87%](http://9gag.com/gag/aZrAwNn)
+ - 🚯 [Right burner gang](http://9gag.com/gag/a21B8mE)
+ - 🚯 [Someone pretended to be Tom Cruise in a small chicken shop in North Eastern Thailand and is now remembered there forever.](http://9gag.com/gag/a0ZAVnv)<!-- MEMES:END -->
 
 --- 
 
