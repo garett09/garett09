@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time flies](http://9gag.com/gag/a714e1x)
- - 🚯 [A sightseeing bus in Iceland](http://9gag.com/gag/a714eBL)
- - 🚯 [Throwback to this post. It&#39;s a good message](http://9gag.com/gag/aGz38bw)<!-- MEMES:END -->
+ - 🚖 [A sightseeing bus in Iceland](http://9gag.com/gag/a714eBL)
+ - 🚯 [Throwback to this post. It&#39;s a good message](http://9gag.com/gag/aGz38bw)
+ - 🚯 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)<!-- MEMES:END -->
 
 --- 
 
