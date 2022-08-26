@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s VP of Horizon is leaving the company](https://www.theverge.com/2022/8/26/23323975/meta-vp-horizon-social-vr-vivek-sharma-leaving)
- - [Meta’s next Quest VR headset gets an October launch date](https://www.androidauthority.com/quest-vr-headset-october-launch-3201529/)
- - [Twitter shopping features could lead to ‘individual or societal harm,’ according to leaked memo](https://www.theverge.com/2022/8/26/23323737/twitter-shopping-features-leaked-memo-content-moderation)<!-- TECH:END -->
+ - [Sources: Netflix plans to charge $7-$9/month for its ad-supported tier in the US, with ~4 minutes of ads/hour, and may launch it in 2022 in a half dozen markets &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220826/p24#a220826p24)
+ - [Meta&#39;s VP of Horizon, Vivek Sharma, is leaving the company after six years; the Horizon team will report directly to Meta&#39;s VP of Metaverse, Vishal Shah &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220826/p23#a220826p23)
+ - [TikTok has cut jobs in its US advertising department as part of a restructuring, offering affected employees the chance to find roles in other units &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/220826/p22#a220826p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
