@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 9 defunct video game services we miss the most](https://game-rant-2022.blogspot.com/2022/08/the-9-defunct-video-game-services-we.html)
- - [Kill The Justice League shouldn&#39;t completely abandon the serious tone of the Arkham series](https://game-rant-2022.blogspot.com/2022/08/kill-justice-league-shouldnt-completely.html)
- - [Jigging, pumping, and other fun terms I learned from this co-op fishing sim trailer](https://www.pcgamer.com/jigging-pumping-and-other-fun-terms-i-learned-from-this-co-op-fishing-sim-trailer)<!-- GAME:END -->
+ - [Best First Person Shooter Games to Play](https://game-rant-2022.blogspot.com/2022/08/best-first-person-shooter-games-to-play.html)
+ - [Humble&#39;s Summer Sale&#39;s Best Deals](https://game-rant-2022.blogspot.com/2022/08/humbles-summer-sales-best-deals.html)
+ - [Games about making coffee](https://game-rant-2022.blogspot.com/2022/08/games-about-making-coffee.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
