@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google brought back Duo &lpar;kind of&rpar; because its Meet transition is so confusing](https://www.theverge.com/2022/8/26/23323541/google-meet-duo-icon-confusion)
- - [Sources: the US DOJ is in the early stages of drafting a potential antitrust complaint against Apple but has not decided whether or when to sue the company &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/220826/p17#a220826p17)
- - [Verizon’s Visible customers are missing calls, texts, and data after ‘upgrades’](https://www.theverge.com/2022/8/26/23322458/visible-verizon-new-plans-upgrade-troubles-no-data-support)<!-- TECH:END -->
+ - [Feds are thinking about an antitrust case against Apple](https://www.theverge.com/2022/8/26/23323631/apple-antitrust-lawsuit-department-of-justice-case)
+ - [Apple releases fourth macOS Ventura public beta](https://appleinsider.com/articles/22/08/26/apple-releases-fourth-macos-ventura-public-beta?utm_medium=rss)
+ - [Apple&#39;s CSAM detection system may not be perfect, but it is inevitable](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
