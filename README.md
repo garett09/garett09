@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No more paywalls for public research, says White House](https://www.theverge.com/2022/8/26/23322194/white-house-ostp-open-access-federal-research-policy-update)
- - [Twilio says accounts of 93 individual users of its 2FA app Authy and devices registered to their accounts were compromised as part of its recent breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220826/p14#a220826p14)
- - [Nintendo says it has ‘no plans’ to increase Switch prices](https://www.theverge.com/2022/8/26/23323138/nintendo-switch-console-price-increase-inflation-no-plans)<!-- TECH:END -->
+ - [The Xbox Series S comes with a free game at Best Buy](https://www.theverge.com/2022/8/26/23322207/xbox-series-s-free-game-hp-x360-lenovo-legion-laptop-gaming-deal-sale)
+ - [How to manage Apple Mail previous recipients on iOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-manage-apple-mail-previous-recipients-on-ios-15?utm_medium=rss)
+ - [Vergecast: Apple Watch rumors, Twitter whistleblowing, and this week in streaming](https://www.theverge.com/2022/8/26/23323242/apple-far-out-event-sports-watch-rumors-vergecast-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
