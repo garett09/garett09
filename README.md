@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reduces cursing by 87%](http://9gag.com/gag/aZrAwNn)
- - 🚯 [Right burner gang](http://9gag.com/gag/a21B8mE)
- - 🚯 [Someone pretended to be Tom Cruise in a small chicken shop in North Eastern Thailand and is now remembered there forever.](http://9gag.com/gag/a0ZAVnv)<!-- MEMES:END -->
+ - 🚖 [Good times](http://9gag.com/gag/a21B85Z)
+ - 🚯 [I wanna be as half happy as this dog](http://9gag.com/gag/aAGWEXZ)
+ - 🚯 [Oh not again Dave.](http://9gag.com/gag/aDDpnqN)<!-- MEMES:END -->
 
 --- 
 
