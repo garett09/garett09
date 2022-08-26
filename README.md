@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan reports Q2 revenue up 16% YoY to ~$7.4B and a ~$163.5M net loss, as its &quot;core local commerce&quot; business, including food delivery, rose 9.2% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/220826/p8#a220826p8)
- - [Apple TV+ wins first Edinburgh Television Festival award with &#39;Pachinko&#39;](https://appleinsider.com/articles/22/08/26/apple-tv-wins-first-edinburgh-television-festival-award-with-pachinko?utm_medium=rss)
- - [You told us: Here’s how much you’re willing to spend on a phone](https://www.androidauthority.com/how-much-spend-smartphone-poll-results-3201109/)<!-- TECH:END -->
+ - [Apple&#39;s talent scouting Platoon firm launches app for artists](https://appleinsider.com/articles/22/08/26/apples-talent-scouting-platoon-firm-launches-app-for-artists?utm_medium=rss)
+ - [George Miller Knows the Power of a Great Story](https://www.wired.com/story/george-miller-three-thousand-years-of-longing-q-a/)
+ - [Their Photos Were Posted Online. Then They Were Bombed](https://www.wired.com/story/wagner-group-osint-russia-ukraine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
