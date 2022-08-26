@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Truth Social&#39;s content moderation issues: inconsistent decisions, filtering innocuous posts, and calls to violence after the FBI&#39;s Mar-a-Lago search &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/220826/p5#a220826p5)
  - [Emaar Malls, a unit of Dubai&#39;s largest publicly-traded property developer, to sell online fashion retailer Namshi to e-commerce company Noon for about $335M &lpar;Deepthi Nair/The National&rpar;](http://www.techmeme.com/220826/p4#a220826p4)
- - [T-Mobile is bringing Starlink satellite coverage to users &lpar;with a big catch&rpar;](https://www.androidauthority.com/t-mobile-starlink-spacex-satellite-coverage-3201085/)
- - [DoorDash says hackers accessed some of its internal tools and customer information after compromising a third-party vendor as part of the recent Twilio breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220826/p3#a220826p3)<!-- TECH:END -->
+ - [T-Mobile is bringing Starlink satellite coverage to users &lpar;with a big catch&rpar;](https://www.androidauthority.com/t-mobile-starlink-spacex-satellite-coverage-3201085/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
