@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xbox Series S comes with a free game at Best Buy](https://www.theverge.com/2022/8/26/23322207/xbox-series-s-free-game-hp-x360-lenovo-legion-laptop-gaming-deal-sale)
- - [How to manage Apple Mail previous recipients on iOS 15](https://appleinsider.com/inside/ios-15/tips/how-to-manage-apple-mail-previous-recipients-on-ios-15?utm_medium=rss)
- - [Vergecast: Apple Watch rumors, Twitter whistleblowing, and this week in streaming](https://www.theverge.com/2022/8/26/23323242/apple-far-out-event-sports-watch-rumors-vergecast-podcast)<!-- TECH:END -->
+ - [TSMC&#39;s 3nm chips won&#39;t be ready in time for 2022 MacBook Pros, Kuo says](https://appleinsider.com/articles/22/08/26/tsmcs-3nm-chips-wont-be-ready-in-time-for-2022-macbook-pros-kuo-says?utm_medium=rss)
+ - [New Hue bulbs have leaked and they look amazing](https://www.theverge.com/23323232/philips-hue-lightguide-smart-led-bulbs-new-pricing-availability)
+ - [The Last of Us remake on PS5 will have extensive accessibility options](https://www.theverge.com/2022/8/26/23323411/the-last-of-us-part-i-1-ps5-remake-accessibility-options-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
