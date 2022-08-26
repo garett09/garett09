@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep](http://9gag.com/gag/avAYWqE)
- - 🚯 [Why are you angry?](http://9gag.com/gag/aRr5485)
- - 🚯 [The sound of the 80s](http://9gag.com/gag/aWgK42q)<!-- MEMES:END -->
+ - 🚖 [The spider appears to have flower on its head. But its actually the reflection of the flower in a drop of water. Pic: David Narv\u00e1ez](http://9gag.com/gag/angpnyz)
+ - 🚯 [Time flies](http://9gag.com/gag/a714e1x)
+ - 🚯 [Hold this, let me goooo](http://9gag.com/gag/aogr3Ow)<!-- MEMES:END -->
 
 --- 
 
