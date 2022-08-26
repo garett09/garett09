@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foreign automakers are big mad about the new EV tax credit](https://www.theverge.com/2022/8/26/23323115/ev-tax-credit-foreign-automaker-hyundai-wto-discriminate)
- - [Dallas-based SmartMoving, which provides software to companies offering moving services, has raised $41.5M from private equity firm Mainsail Partners &lpar;Dallas Innovates&rpar;](http://www.techmeme.com/220826/p13#a220826p13)
- - [Reddit’s CEO explains why he’s still big on the blockchain](https://www.theverge.com/23323098/reddit-steve-huffman-interview-blockchain-avatars)<!-- TECH:END -->
+ - [No more paywalls for public research, says White House](https://www.theverge.com/2022/8/26/23322194/white-house-ostp-open-access-federal-research-policy-update)
+ - [Twilio says accounts of 93 individual users of its 2FA app Authy and devices registered to their accounts were compromised as part of its recent breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220826/p14#a220826p14)
+ - [Nintendo says it has ‘no plans’ to increase Switch prices](https://www.theverge.com/2022/8/26/23323138/nintendo-switch-console-price-increase-inflation-no-plans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
