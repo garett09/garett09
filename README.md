@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samaritan drains all the fun out of an unbreakable superhero story](https://www.polygon.com/reviews/23320750/samaritan-review-sylvester-stallone-unbreakable)
- - [Embracer now owns Crystal Dynamics, Eidos-Montréal, and Square Enix Montréal](https://www.pcgamer.com/embracer-group-now-owns-crystal-dynamics-eidos-montreal-and-square-enix-montreal)
- - [The Last of Us Part I: full list of accessibility features](https://blog.playstation.com/2022/08/26/the-last-of-us-part-i-full-list-of-accessibility-features/)<!-- GAME:END -->
+ - [Madden NFL 23 review: The 10 best yards of your life](https://www.polygon.com/reviews/23322026/madden-nfl-23-review-fieldsense-new-features-passing-running)
+ - [Quicksilver Storm is my favorite Destiny 2 Exotic in years, but it’s locked behind an expensive pre-order](https://www.polygon.com/23322256/lightfall-quicksilver-storm-exotic-auto-rifle-worth-it-annual-pass-pre-order)
+ - [Phantasy Star Online 2: New Genesis comes to PS4 on August 31](https://blog.playstation.com/2022/08/26/phantasy-star-online-2-new-genesis-comes-to-ps4-on-august-31/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
