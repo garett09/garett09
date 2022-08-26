@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Megan Thee Stallion had a great time at Japan’s Super Mario World](https://www.polygon.com/23323393/megan-thee-stallion-super-mario-world-japan-cosplay-hot-girl)
- - [Pac-Man World is Back](https://news.xbox.com/en-us/2022/08/26/pac-man-world-is-back/)
- - [Wo Long&#39;s first gameplay blows its pre-rendered teaser out of the water](https://www.pcgamer.com/wo-longs-first-gameplay-blows-its-pre-rendered-teaser-out-of-the-water)<!-- GAME:END -->
+ - [Soul Hackers 2 Launches Today! 3 Reasons Why You Should Give It a Look](https://news.xbox.com/en-us/2022/08/26/soul-hackers-2-launches-today/)
+ - [One of the biggest password managers manages to get hacked](https://www.pcgamer.com/one-of-the-biggest-password-managers-manages-to-get-hacked)
+ - [Minecraft Legends &#39;brings down the tempo&#39; of typical strategy games, Mojang says](https://www.pcgamer.com/minecraft-legends-brings-down-the-tempo-of-typical-strategy-games-mojang-says)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
