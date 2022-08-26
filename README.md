@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it removed over 2,000 personal loan apps on Play Store in India from January to July 2022, after they were found to be in violation of its policies &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220826/p6#a220826p6)
- - [Now Lastpass confirms a security breach, but there’s good news](https://www.androidauthority.com/lastpass-security-breach-3201095/)
- - [Best Minimalist Wallet for 2022     - CNET](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a series of tweets, Jack Dorsey expresses regret that Twitter became a company, saying the service should be a &quot;protocol&quot;, not owned by a state or company &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220826/p7#a220826p7)
+ - [LG’s latest OLED monitor has a super-quick 240Hz refresh rate](https://www.theverge.com/2022/8/26/23322956/lg-ultragear-45gr95qe-240hz-oled-ultrawide-gaming-monitor)
+ - [Google says it removed over 2,000 personal loan apps on Play Store in India from January to July 2022, after they were found to be in violation of its policies &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220826/p6#a220826p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
