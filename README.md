@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds are thinking about an antitrust case against Apple](https://www.theverge.com/2022/8/26/23323631/apple-antitrust-lawsuit-department-of-justice-case)
- - [Apple releases fourth macOS Ventura public beta](https://appleinsider.com/articles/22/08/26/apple-releases-fourth-macos-ventura-public-beta?utm_medium=rss)
- - [Apple&#39;s CSAM detection system may not be perfect, but it is inevitable](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s CSAM detection system may not be perfect, but it is inevitable](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable?utm_medium=rss)
+ - [Why the Twilio Breach Cuts So Deep](https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/)
+ - [IRCTC, which has a monopoly on online train ticket booking in India, scraps plans to monetize customer data following uproar when its plans were uncovered &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220826/p19#a220826p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
