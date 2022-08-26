@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Player instantly recovers after Italy score](http://9gag.com/gag/avAYEoq)
- - 🚯 [Rough...](http://9gag.com/gag/apgyPoE)
- - 🚯 [Now that She-Hulk is out...](http://9gag.com/gag/ajgbBLq)<!-- MEMES:END -->
+ - 🚖 [:\u2019&rpar; Im Fine. Hope you all fine too ~](http://9gag.com/gag/azeNOOq)
+ - 🚯 [Now that She-Hulk is out...](http://9gag.com/gag/ajgbBLq)
+ - 🚯 [An iridescent pileus cloud](http://9gag.com/gag/aGz3G4K)<!-- MEMES:END -->
 
 --- 
 
