@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Bandcamp Fridays are coming back](https://www.theverge.com/2022/8/26/23323894/bandcamp-fridays-coming-back-september-2022-music-psa)
- - [LastPass confirms attackers stole some source code](https://www.theverge.com/2022/8/26/23323738/lastpass-security-incident-source-code)
- - [Some Google staff say they are getting a lot of COVID-19 exposure notifications after returning to office; unvaccinated staff ask Google to drop vaccine mandate &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220826/p20#a220826p20)<!-- TECH:END -->
+ - [Meta’s VP of Horizon is leaving the company](https://www.theverge.com/2022/8/26/23323975/meta-vp-horizon-social-vr-vivek-sharma-leaving)
+ - [Meta’s next Quest VR headset gets an October launch date](https://www.androidauthority.com/quest-vr-headset-october-launch-3201529/)
+ - [Twitter shopping features could lead to ‘individual or societal harm,’ according to leaked memo](https://www.theverge.com/2022/8/26/23323737/twitter-shopping-features-leaked-memo-content-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
