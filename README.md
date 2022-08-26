@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The spider appears to have flower on its head. But its actually the reflection of the flower in a drop of water. Pic: David Narv\u00e1ez](http://9gag.com/gag/angpnyz)
- - 🚯 [Time flies](http://9gag.com/gag/a714e1x)
- - 🚯 [Hold this, let me goooo](http://9gag.com/gag/aogr3Ow)<!-- MEMES:END -->
+ - 🚯 [Name a movie that people said it was bad, but you enjoyed it anyway, i&#39;ll start : Jumper](http://9gag.com/gag/apgyRb5)
+ - 🚯 [Charles Bronson ...One Ripped MF... Old School Cool](http://9gag.com/gag/aQXwv78)<!-- MEMES:END -->
 
 --- 
 
