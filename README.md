@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show this to kids](http://9gag.com/gag/aBnqPOO)
- - 🚯 [Gen Xers listening to the radio today](http://9gag.com/gag/amgj6md)
- - 🚯 [Player instantly recovers after Italy score](http://9gag.com/gag/avAYEoq)<!-- MEMES:END -->
+ - 🚖 [Working in service industry be like](http://9gag.com/gag/aGz3MrK)
+ - 🚯 [B!tch please](http://9gag.com/gag/aVxnZxw)
+ - 🚯 [&lpar;G&rpar;old](http://9gag.com/gag/aQXw7rW)<!-- MEMES:END -->
 
 --- 
 
