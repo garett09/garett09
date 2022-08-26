@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [:\u2019&rpar; Im Fine. Hope you all fine too ~](http://9gag.com/gag/azeNOOq)
- - 🚯 [She&#39;s so into it](http://9gag.com/gag/aGz3GN0)
- - 🚯 [An iridescent pileus cloud](http://9gag.com/gag/aGz3G4K)<!-- MEMES:END -->
+ - 🚖 [Tesla is sending cease and desist letters to remove videos of their self-driving cars hitting child-sized mannequins, so in the interest of Elon Musk&#39;s advocacy for free speech, here&#39;s a clip of a self-driving Tesla hitting child-sized mannequins](http://9gag.com/gag/angpxxB)
+ - 🚯 [Resident Evil has been cancelled after just one season!](http://9gag.com/gag/adgZeAD)
+ - 🚯 [Another happy ending.](http://9gag.com/gag/amgjM4o)<!-- MEMES:END -->
 
 --- 
 
