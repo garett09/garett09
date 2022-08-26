@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foreign automakers are big mad about the new EV tax credit](https://www.theverge.com/2022/8/26/23323115/ev-tax-credit-foreign-automaker-hyundai-wto-discriminate)
  - [Dallas-based SmartMoving, which provides software to companies offering moving services, has raised $41.5M from private equity firm Mainsail Partners &lpar;Dallas Innovates&rpar;](http://www.techmeme.com/220826/p13#a220826p13)
- - [Reddit’s CEO explains why he’s still big on the blockchain](https://www.theverge.com/23323098/reddit-steve-huffman-interview-blockchain-avatars)
- - [iPhone 14 Event, iPadOS 16.1 Delays, and Mac Self-Service Repair on the AppleInsider Podcast](https://appleinsider.com/articles/22/08/26/iphone-14-event-ipados-161-delays-and-mac-self-service-repair-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Reddit’s CEO explains why he’s still big on the blockchain](https://www.theverge.com/23323098/reddit-steve-huffman-interview-blockchain-avatars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
