@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teburu could be the digital board game system that finally catches on](https://www.polygon.com/23318302/teburu-digital-board-game-console-preview-gencon-2022)
- - [Destiny 2 Xur location and items, Aug. 26-30](https://www.polygon.com/destiny-2-guide-walkthrough/2022/8/26/23323664/destiny-2-xur-location-items-aug-26-30)
- - [The Callisto Protocol’s mutants will stalk you through vents like a Xenomorph](https://www.pcgamer.com/the-callisto-protocols-mutants-will-stalk-you-through-vents-like-a-xenomorph)<!-- GAME:END -->
+ - [This Week on Xbox: 50 New Games, Reveals, and Updates](https://news.xbox.com/en-us/2022/08/26/this-week-on-xbox-50-new-games-reveals-and-updates/)
+ - [Cult Of The Lamb’s Take On Resurrection Is Total Nightmare Fuel](https://kotaku.com/cult-of-the-lamb-resurrect-followers-cannibalism-ritual-1849463276)
+ - [Warframe&#39;s first-ever anime reveals its 50th warframe, free for all players](https://www.pcgamer.com/warframes-first-ever-anime-reveals-its-50th-warframe-free-for-all-players)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
