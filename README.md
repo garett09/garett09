@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 433 answer and hint: Friday, August 26](https://www.pcgamer.com/todays-wordle-433-answer-hint)
  - [Final Fantasy 14 players are already grinding the hell out of its new relaxing farming mode](https://www.pcgamer.com/final-fantasy-14-players-are-already-grinding-the-hell-out-of-its-new-relaxing-farming-mode)
- - [Most of the Hogwarts Legacy Collector&#39;s Edition&#39;s $300 price tag is tied up in an electromagnetic floating wand](https://www.pcgamer.com/most-of-the-hogwarts-legacy-collectors-editions-dollar300-price-tag-is-tied-up-in-an-electromagnetic-floating-wand)
- - [AI Creating &#39;Art&#39; Is An Ethical And Copyright Nightmare](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060)<!-- GAME:END -->
+ - [Most of the Hogwarts Legacy Collector&#39;s Edition&#39;s $300 price tag is tied up in an electromagnetic floating wand](https://www.pcgamer.com/most-of-the-hogwarts-legacy-collectors-editions-dollar300-price-tag-is-tied-up-in-an-electromagnetic-floating-wand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
