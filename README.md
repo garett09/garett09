@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC&#39;s 3nm chips won&#39;t be ready in time for 2022 MacBook Pros, Kuo says](https://appleinsider.com/articles/22/08/26/tsmcs-3nm-chips-wont-be-ready-in-time-for-2022-macbook-pros-kuo-says?utm_medium=rss)
- - [New Hue bulbs have leaked and they look amazing](https://www.theverge.com/23323232/philips-hue-lightguide-smart-led-bulbs-new-pricing-availability)
- - [The Last of Us remake on PS5 will have extensive accessibility options](https://www.theverge.com/2022/8/26/23323411/the-last-of-us-part-i-1-ps5-remake-accessibility-options-features)<!-- TECH:END -->
+ - [Google brought back Duo &lpar;kind of&rpar; because its Meet transition is so confusing](https://www.theverge.com/2022/8/26/23323541/google-meet-duo-icon-confusion)
+ - [Sources: the US DOJ is in the early stages of drafting a potential antitrust complaint against Apple but has not decided whether or when to sue the company &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/220826/p17#a220826p17)
+ - [Verizon’s Visible customers are missing calls, texts, and data after ‘upgrades’](https://www.theverge.com/2022/8/26/23322458/visible-verizon-new-plans-upgrade-troubles-no-data-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
