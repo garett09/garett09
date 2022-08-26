@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Working in service industry be like](http://9gag.com/gag/aGz3MrK)
- - 🚯 [B!tch please](http://9gag.com/gag/aVxnZxw)
- - 🚯 [&lpar;G&rpar;old](http://9gag.com/gag/aQXw7rW)<!-- MEMES:END -->
+ - 🚖 [Tesla is sending cease and desist letters to remove videos of their self-driving cars hitting child-sized mannequins, so in the interest of Elon Musk&#39;s advocacy for free speech, here&#39;s a clip of a self-driving Tesla hitting child-sized mannequins](http://9gag.com/gag/angpxxB)
+ - 🚯 [&lpar;G&rpar;old](http://9gag.com/gag/aQXw7rW)
+ - 🚯 [Wtf](http://9gag.com/gag/apgy66E)<!-- MEMES:END -->
 
 --- 
 
