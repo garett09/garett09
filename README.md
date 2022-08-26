@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Soul Hackers 2 Launches Today! 3 Reasons Why You Should Give It a Look](https://news.xbox.com/en-us/2022/08/26/soul-hackers-2-launches-today/)
- - [One of the biggest password managers manages to get hacked](https://www.pcgamer.com/one-of-the-biggest-password-managers-manages-to-get-hacked)
- - [Minecraft Legends &#39;brings down the tempo&#39; of typical strategy games, Mojang says](https://www.pcgamer.com/minecraft-legends-brings-down-the-tempo-of-typical-strategy-games-mojang-says)<!-- GAME:END -->
+ - [Teburu could be the digital board game system that finally catches on](https://www.polygon.com/23318302/teburu-digital-board-game-console-preview-gencon-2022)
+ - [Destiny 2 Xur location and items, Aug. 26-30](https://www.polygon.com/destiny-2-guide-walkthrough/2022/8/26/23323664/destiny-2-xur-location-items-aug-26-30)
+ - [The Callisto Protocol’s mutants will stalk you through vents like a Xenomorph](https://www.pcgamer.com/the-callisto-protocols-mutants-will-stalk-you-through-vents-like-a-xenomorph)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
