@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash says hackers accessed some of its internal tools and customer information after compromising a third-party vendor as part of the recent Twilio breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220826/p3#a220826p3)
- - [iPhone&#39;s Lockdown Mode disables a number of features, like loading custom fonts, which makes it easy for websites to identify that a visitor is using the mode &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220826/p2#a220826p2)
- - [Duolingo has math now &lpar;and it’s kind of hard&rpar;](https://www.theverge.com/2022/8/26/23319398/duolingo-math-app-beta-launch-duocon-2022)<!-- TECH:END -->
+ - [Emaar Malls, a unit of Dubai&#39;s largest publicly-traded property developer, to sell online fashion retailer Namshi to e-commerce company Noon for about $335M &lpar;Deepthi Nair/The National&rpar;](http://www.techmeme.com/220826/p4#a220826p4)
+ - [T-Mobile is bringing Starlink satellite coverage to users &lpar;with a big catch&rpar;](https://www.androidauthority.com/t-mobile-starlink-spacex-satellite-coverage-3201085/)
+ - [DoorDash says hackers accessed some of its internal tools and customer information after compromising a third-party vendor as part of the recent Twilio breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220826/p3#a220826p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
