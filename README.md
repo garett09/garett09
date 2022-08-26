@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good ol days when cancel culture didnt exist](http://9gag.com/gag/angpnp0)
+ - 🚖 [Time flies](http://9gag.com/gag/a714e1x)
  - 🚯 [A sightseeing bus in Iceland](http://9gag.com/gag/a714eBL)
- - 🚯 [Only some will understand](http://9gag.com/gag/ay9g4Wb)<!-- MEMES:END -->
+ - 🚯 [Throwback to this post. It&#39;s a good message](http://9gag.com/gag/aGz38bw)<!-- MEMES:END -->
 
 --- 
 
