@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good times](http://9gag.com/gag/a21B85Z)
- - 🚯 [I wanna be as half happy as this dog](http://9gag.com/gag/aAGWEXZ)
- - 🚯 [Oh not again Dave.](http://9gag.com/gag/aDDpnqN)<!-- MEMES:END -->
+ - 🚖 [Good ol days when cancel culture didnt exist](http://9gag.com/gag/angpnp0)
+ - 🚯 [A sightseeing bus in Iceland](http://9gag.com/gag/a714eBL)
+ - 🚯 [Only some will understand](http://9gag.com/gag/ay9g4Wb)<!-- MEMES:END -->
 
 --- 
 
