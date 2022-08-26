@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a series of tweets, Jack Dorsey expresses regret that Twitter became a company, saying the service should be a &quot;protocol&quot;, not owned by a state or company &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220826/p7#a220826p7)
- - [LG’s latest OLED monitor has a super-quick 240Hz refresh rate](https://www.theverge.com/2022/8/26/23322956/lg-ultragear-45gr95qe-240hz-oled-ultrawide-gaming-monitor)
- - [Google says it removed over 2,000 personal loan apps on Play Store in India from January to July 2022, after they were found to be in violation of its policies &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220826/p6#a220826p6)<!-- TECH:END -->
+ - [Meituan reports Q2 revenue up 16% YoY to ~$7.4B and a ~$163.5M net loss, as its &quot;core local commerce&quot; business, including food delivery, rose 9.2% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/220826/p8#a220826p8)
+ - [Apple TV+ wins first Edinburgh Television Festival award with &#39;Pachinko&#39;](https://appleinsider.com/articles/22/08/26/apple-tv-wins-first-edinburgh-television-festival-award-with-pachinko?utm_medium=rss)
+ - [You told us: Here’s how much you’re willing to spend on a phone](https://www.androidauthority.com/how-much-spend-smartphone-poll-results-3201109/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
