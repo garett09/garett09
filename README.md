@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile and SpaceX partner to let customers in areas lacking any T-Mobile service use Starlink for MMS and &quot;select messaging apps&quot; in some markets next year &lpar;The Verge&rpar;](http://www.techmeme.com/220825/p31#a220825p31)
- - [T-Mobile and SpaceX Starlink say your 5G phone will connect to satellites next year](https://www.theverge.com/2022/8/25/23320722/spacex-starlink-t-mobile-satellite-internet-mobile-messaging)
- - [T-Mobile, SpaceX Partner to Boost Connectivity in Areas With No Cellular Coverage     - CNET](https://www.cnet.com/tech/mobile/t-mobile-spacex-partner-to-boost-connectivity-in-areas-with-no-cellular-coverage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says Tesla cars will connect to Starlink’s new cellular-broadcasting satellites](https://www.theverge.com/2022/8/25/23322757/tesla-connectivity-lte-5g-starlink-t-mobile)
+ - [Twitter admits &quot;mistakes&quot; over the past week after adding misinformation labels to COVID-19 tweets from doctors and scientists as well as suspending accounts &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220825/p33#a220825p33)
+ - [Apple&#39;s iPhone 14 May Be More Expensive Than We Thought     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-may-be-more-expensive-than-we-thought/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
