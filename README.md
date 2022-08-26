@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Tesla cars will connect to Starlink’s new cellular-broadcasting satellites](https://www.theverge.com/2022/8/25/23322757/tesla-connectivity-lte-5g-starlink-t-mobile)
- - [Twitter admits &quot;mistakes&quot; over the past week after adding misinformation labels to COVID-19 tweets from doctors and scientists as well as suspending accounts &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220825/p33#a220825p33)
- - [Apple&#39;s iPhone 14 May Be More Expensive Than We Thought     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-may-be-more-expensive-than-we-thought/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DoorDash says hackers accessed some of its internal tools and customer information after compromising a third-party vendor as part of the recent Twilio breach &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220826/p3#a220826p3)
+ - [iPhone&#39;s Lockdown Mode disables a number of features, like loading custom fonts, which makes it easy for websites to identify that a visitor is using the mode &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/220826/p2#a220826p2)
+ - [Duolingo has math now &lpar;and it’s kind of hard&rpar;](https://www.theverge.com/2022/8/26/23319398/duolingo-math-app-beta-launch-duocon-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
