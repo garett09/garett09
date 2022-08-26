@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Learn how the DualSense controller helps bring some of Inscryption’s deepest secrets to life](https://blog.playstation.com/2022/08/26/learn-how-the-dualsense-controller-helps-bring-some-of-inscryptions-deepest-secrets-to-life/)
- - [How to get Nilotpala Lotus in Genshin Impact](https://www.pcgamer.com/genshin-impact-nilotpala-lotus-locations)
- - [Today&#39;s Wordle 433 answer and hint: Friday, August 26](https://www.pcgamer.com/todays-wordle-433-answer-hint)<!-- GAME:END -->
+ - [Samaritan drains all the fun out of an unbreakable superhero story](https://www.polygon.com/reviews/23320750/samaritan-review-sylvester-stallone-unbreakable)
+ - [Embracer now owns Crystal Dynamics, Eidos-Montréal, and Square Enix Montréal](https://www.pcgamer.com/embracer-group-now-owns-crystal-dynamics-eidos-montreal-and-square-enix-montreal)
+ - [The Last of Us Part I: full list of accessibility features](https://blog.playstation.com/2022/08/26/the-last-of-us-part-i-full-list-of-accessibility-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
