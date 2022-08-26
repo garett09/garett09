@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)
- - 🚯 [Sauce](http://9gag.com/gag/amgj606)
- - 🚯 [Gen Xers listening to the radio today](http://9gag.com/gag/amgj6md)<!-- MEMES:END -->
+ - 🚯 [Germany Frankfurt](http://9gag.com/gag/azeNPpb)
+ - 🚯 [It be like this sometimes](http://9gag.com/gag/arn6AZ7)<!-- MEMES:END -->
 
 --- 
 
