@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: 50 New Games, Reveals, and Updates](https://news.xbox.com/en-us/2022/08/26/this-week-on-xbox-50-new-games-reveals-and-updates/)
- - [Cult Of The Lamb’s Take On Resurrection Is Total Nightmare Fuel](https://kotaku.com/cult-of-the-lamb-resurrect-followers-cannibalism-ritual-1849463276)
- - [Warframe&#39;s first-ever anime reveals its 50th warframe, free for all players](https://www.pcgamer.com/warframes-first-ever-anime-reveals-its-50th-warframe-free-for-all-players)<!-- GAME:END -->
+ - [Best Xbox One Adult Games 2022 You Can Play Right Now](https://game-rant-2022.blogspot.com/2022/08/best-xbox-one-adult-games-2022-you-can.html)
+ - [Fortnite TikTok Creator Explains How He Used DBZ To Troll The Internet](https://kotaku.com/fortnite-dbz-goku-tiktok-youtube-troll-meme-1849463584)
+ - [[Madden 23 crashing] Madden 22 crashes problem is acknowledged](https://game-rant-2022.blogspot.com/2022/08/madden-23-crashing-madden-22-crashes.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
