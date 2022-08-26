@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s talent scouting Platoon firm launches app for artists](https://appleinsider.com/articles/22/08/26/apples-talent-scouting-platoon-firm-launches-app-for-artists?utm_medium=rss)
- - [George Miller Knows the Power of a Great Story](https://www.wired.com/story/george-miller-three-thousand-years-of-longing-q-a/)
- - [Their Photos Were Posted Online. Then They Were Bombed](https://www.wired.com/story/wagner-group-osint-russia-ukraine/)<!-- TECH:END -->
+ - [California&#39;s AG says Sephora will pay $1.2M after failing to tell customers that it was selling their data, marking the start of CCPA privacy law enforcement &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220826/p11#a220826p11)
+ - [MultiVersus Guide: Gameplay, Perks and Every Playable Character     - CNET](https://www.cnet.com/tech/gaming/multiversus-guide-gameplay-perks-and-every-playable-character/#ftag=CAD590a51e)
+ - [Where Do High-Energy Cosmic Rays Come From? A Star’s Last Gasp](https://www.wired.com/story/where-do-high-energy-cosmic-rays-come-from-a-stars-last-gasp/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
