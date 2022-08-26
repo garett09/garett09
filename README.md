@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It be like this sometimes](http://9gag.com/gag/arn6AZ7)
- - 🚯 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)
+ - 🚖 [When everyone talks about `house of the dragon` but you know that dragons are living in caves and not in houses](http://9gag.com/gag/aPZNoRn)
+ - 🚯 [Player instantly recovers after Italy score](http://9gag.com/gag/avAYEoq)
  - 🚯 [Stunting on the road](http://9gag.com/gag/ajgbLvR)<!-- MEMES:END -->
 
 --- 
