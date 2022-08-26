@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s CSAM detection system may not be perfect, but it is inevitable](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable?utm_medium=rss)
- - [Why the Twilio Breach Cuts So Deep](https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/)
- - [IRCTC, which has a monopoly on online train ticket booking in India, scraps plans to monetize customer data following uproar when its plans were uncovered &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220826/p19#a220826p19)<!-- TECH:END -->
+ - [PSA: Bandcamp Fridays are coming back](https://www.theverge.com/2022/8/26/23323894/bandcamp-fridays-coming-back-september-2022-music-psa)
+ - [LastPass confirms attackers stole some source code](https://www.theverge.com/2022/8/26/23323738/lastpass-security-incident-source-code)
+ - [Some Google staff say they are getting a lot of COVID-19 exposure notifications after returning to office; unvaccinated staff ask Google to drop vaccine mandate &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220826/p20#a220826p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
