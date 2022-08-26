@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Homeworld 3 is a little fishy, but that’s only because of the coral reefs](https://www.polygon.com/23321478/gameplay-in-homeworld-3-preview-coral-reef-fish)
- - [Homeworld 3 is a space RTS about the terrain of space](https://www.pcgamer.com/homeworld-3-is-a-space-rts-about-the-terrain-of-space)
- - [Madden 23 Is So Bad, Even NFL Pros Are Dragging It](https://kotaku.com/madden-23-reviews-nfl-title-update-fix-broken-ps5-1849462010)<!-- GAME:END -->
+ - [Megan Thee Stallion had a great time at Japan’s Super Mario World](https://www.polygon.com/23323393/megan-thee-stallion-super-mario-world-japan-cosplay-hot-girl)
+ - [Pac-Man World is Back](https://news.xbox.com/en-us/2022/08/26/pac-man-world-is-back/)
+ - [Wo Long&#39;s first gameplay blows its pre-rendered teaser out of the water](https://www.pcgamer.com/wo-longs-first-gameplay-blows-its-pre-rendered-teaser-out-of-the-water)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
