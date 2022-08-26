@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When everyone talks about `house of the dragon` but you know that dragons are living in caves and not in houses](http://9gag.com/gag/aPZNoRn)
- - 🚯 [Player instantly recovers after Italy score](http://9gag.com/gag/avAYEoq)
- - 🚯 [Stunting on the road](http://9gag.com/gag/ajgbLvR)<!-- MEMES:END -->
+ - 🚖 [Whats a movie that you went to watch without any hype and it blew your mind? Mine&#39;s this.](http://9gag.com/gag/aQXwAG8)
+ - 🚯 [Its 2005 and somebody needs to Install it](http://9gag.com/gag/aAGWKGL)
+ - 🚯 [Gen Xers listening to the radio today](http://9gag.com/gag/amgj6md)<!-- MEMES:END -->
 
 --- 
 
