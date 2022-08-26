@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sightseeing bus in Iceland](http://9gag.com/gag/a714eBL)
- - 🚯 [Throwback to this post. It&#39;s a good message](http://9gag.com/gag/aGz38bw)
- - 🚯 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)<!-- MEMES:END -->
+ - 🚖 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)
+ - 🚯 [Sauce](http://9gag.com/gag/amgj606)
+ - 🚯 [Gen Xers listening to the radio today](http://9gag.com/gag/amgj6md)<!-- MEMES:END -->
 
 --- 
 
