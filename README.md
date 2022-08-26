@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Learn how the DualSense controller helps bring some of Inscryption’s deepest secrets to life](https://blog.playstation.com/2022/08/26/learn-how-the-dualsense-controller-helps-bring-some-of-inscryptions-deepest-secrets-to-life/)
  - [How to get Nilotpala Lotus in Genshin Impact](https://www.pcgamer.com/genshin-impact-nilotpala-lotus-locations)
- - [Today&#39;s Wordle 433 answer and hint: Friday, August 26](https://www.pcgamer.com/todays-wordle-433-answer-hint)
- - [Final Fantasy 14 players are already grinding the hell out of its new relaxing farming mode](https://www.pcgamer.com/final-fantasy-14-players-are-already-grinding-the-hell-out-of-its-new-relaxing-farming-mode)<!-- GAME:END -->
+ - [Today&#39;s Wordle 433 answer and hint: Friday, August 26](https://www.pcgamer.com/todays-wordle-433-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
