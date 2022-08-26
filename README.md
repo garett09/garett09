@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve confirms there will be next-gen Steam Decks &#39;more open and more capable than the first version&#39;](https://www.pcgamer.com/valve-confirms-there-will-be-next-gen-steam-decks-more-open-and-more-capable-than-the-first-version)
- - [This tech brand&#39;s anime series made me turn in my weeb badge](https://www.pcgamer.com/adata-xpg-anime-xtreme-saga-mera-nft-web3)
- - [Three Thousand Years of Longing tells a lush story about all stories](https://www.polygon.com/reviews/23321766/three-thousand-years-of-longing-review-george-miller-mad-max-fury-road)<!-- GAME:END -->
+ - [Homeworld 3 is a little fishy, but that’s only because of the coral reefs](https://www.polygon.com/23321478/gameplay-in-homeworld-3-preview-coral-reef-fish)
+ - [Homeworld 3 is a space RTS about the terrain of space](https://www.pcgamer.com/homeworld-3-is-a-space-rts-about-the-terrain-of-space)
+ - [Madden 23 Is So Bad, Even NFL Pros Are Dragging It](https://kotaku.com/madden-23-reviews-nfl-title-update-fix-broken-ps5-1849462010)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
