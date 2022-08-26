@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Madden NFL 23 review: The 10 best yards of your life](https://www.polygon.com/reviews/23322026/madden-nfl-23-review-fieldsense-new-features-passing-running)
- - [Quicksilver Storm is my favorite Destiny 2 Exotic in years, but it’s locked behind an expensive pre-order](https://www.polygon.com/23322256/lightfall-quicksilver-storm-exotic-auto-rifle-worth-it-annual-pass-pre-order)
- - [Phantasy Star Online 2: New Genesis comes to PS4 on August 31](https://blog.playstation.com/2022/08/26/phantasy-star-online-2-new-genesis-comes-to-ps4-on-august-31/)<!-- GAME:END -->
+ - [Valve confirms there will be next-gen Steam Decks &#39;more open and more capable than the first version&#39;](https://www.pcgamer.com/valve-confirms-there-will-be-next-gen-steam-decks-more-open-and-more-capable-than-the-first-version)
+ - [This tech brand&#39;s anime series made me turn in my weeb badge](https://www.pcgamer.com/adata-xpg-anime-xtreme-saga-mera-nft-web3)
+ - [Three Thousand Years of Longing tells a lush story about all stories](https://www.polygon.com/reviews/23321766/three-thousand-years-of-longing-review-george-miller-mad-max-fury-road)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
