@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla is sending cease and desist letters to remove videos of their self-driving cars hitting child-sized mannequins, so in the interest of Elon Musk&#39;s advocacy for free speech, here&#39;s a clip of a self-driving Tesla hitting child-sized mannequins](http://9gag.com/gag/angpxxB)
- - 🚯 [&lpar;G&rpar;old](http://9gag.com/gag/aQXw7rW)
- - 🚯 [Wtf](http://9gag.com/gag/apgy66E)<!-- MEMES:END -->
+ - 🚖 [Player instantly recovers after Italy score](http://9gag.com/gag/avAYEoq)
+ - 🚯 [Rough...](http://9gag.com/gag/apgyPoE)
+ - 🚯 [Now that She-Hulk is out...](http://9gag.com/gag/ajgbBLq)<!-- MEMES:END -->
 
 --- 
 
