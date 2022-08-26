@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)
- - 🚯 [Germany Frankfurt](http://9gag.com/gag/azeNPpb)
- - 🚯 [It be like this sometimes](http://9gag.com/gag/arn6AZ7)<!-- MEMES:END -->
+ - 🚖 [It be like this sometimes](http://9gag.com/gag/arn6AZ7)
+ - 🚯 [How should we name our cafe? Hold my beer\u2026](http://9gag.com/gag/aGz3Bp7)
+ - 🚯 [Stunting on the road](http://9gag.com/gag/ajgbLvR)<!-- MEMES:END -->
 
 --- 
 
