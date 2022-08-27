@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it should be!!](http://9gag.com/gag/adgZoyj)
- - 🚯 [Simple recipe garlic bread](http://9gag.com/gag/aWgKDdq)
- - 🚯 [AWESOME The moment a retired British Royal Marine with Parkinson&#39;s disease sees his life change in seconds, thanks to the advanced technique of Deep Brain Stimulation &lpar;DBS&rpar;](http://9gag.com/gag/aGz325w)<!-- MEMES:END -->
+ - 🚖 [Simple recipe garlic bread](http://9gag.com/gag/aWgKDdq)
+ - 🚯 [Welcome to Reality](http://9gag.com/gag/aLvYdAW)
+ - 🚯 [This should be posted weekly until people understand what the media is. Julian Assange: \u201cNearly every war that has started in the past 50 years has been a result of media lies.\u201d](http://9gag.com/gag/aGz3OOn)<!-- MEMES:END -->
 
 --- 
 
