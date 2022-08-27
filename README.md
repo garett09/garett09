@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Yellow Power Ranger&#39;s Power Daggers Are Now a $132 Collectible     - CNET](https://www.cnet.com/culture/entertainment/the-yellow-power-rangers-power-daggers-are-now-a-132-collectible/#ftag=CAD590a51e)
- - [El Salvador appears to be heading deeper into an economic crisis with funding sources drying up, one year after it adopted bitcoin as legal tender &lpar;Daniel Alvarenga/Rolling Stone&rpar;](http://www.techmeme.com/220827/p4#a220827p4)
- - [Shuffles, Pinterest&#39;s invite-only collage-making iOS app that launched in late July, is going viral on TikTok; Sensor Tower estimates the app has ~338K installs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220827/p3#a220827p3)<!-- TECH:END -->
+ - [Gartner: global spending on tech, including cloud services, is expected to rise ~3% in 2022, well below the 10% annual growth in 2021 and the nearly 7% in 2020 &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220827/p5#a220827p5)
+ - [Apple&#39;s iPhone 14 Pro Max Will Need to Justify its Higher Price. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-pro-max-will-need-to-justify-its-higher-price-heres-why/#ftag=CAD590a51e)
+ - [These Technologies Could Play a Big Role in the iPhone&#39;s Future     - CNET](https://www.cnet.com/tech/mobile/features/these-technologies-could-play-a-big-role-in-the-iphones-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
