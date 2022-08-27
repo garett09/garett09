@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch NASA’s Artemis I SLS megarocket launch](https://www.theverge.com/2022/8/27/23318116/nasa-artemis-i-sls-megarocket-launch-orion-how-to-watch)
- - [Analysis of carrier data sent to FCC: 10 of the top 15 US carriers collect geolocation data and don&#39;t let users opt out; most keep data for two years on average &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/220827/p6#a220827p6)
- - [9 shows like House of the Dragon for Game of Thrones fans](https://www.androidauthority.com/shows-like-house-of-the-dragon-hbo-max-3200438/)<!-- TECH:END -->
+ - [Netflix is working on gamertags](https://www.theverge.com/2022/8/27/23324515/netflix-gamertags-game-handles-mobile-gaming-community)
+ - [Audi Dives Into New Territory With Formula 1 Announcement     - CNET](https://www.cnet.com/roadshow/pictures/audi-2026-formula-1-announcement/#ftag=CAD590a51e)
+ - [iPhone 14 vs. iPhone 13: Apple May Reveal New Changes on Sept. 7     - CNET](https://www.cnet.com/tech/mobile/iphone-14-vs-iphone-13-apple-may-reveal-new-changes-on-sept-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
