@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [15 BookTok creators whose SFF recommendations will shake up your reading list](https://www.polygon.com/23318855/booktok-books-recommendations-creators-sff-science-fiction-fantasy-list-tiktok)
  - [Coming Soon to Game Pass: Midnight Fight Express, Prodeus, Ghost Song, and More From Humble Games](https://news.xbox.com/en-us/2022/08/27/coming-soon-to-game-pass-humble-games/)
- - [This Great Analog Keyboard Made Me Better At Shooters](https://kotaku.com/wooting-60he-keyboard-mechanical-analog-pc-gaming-1849463199)
- - [8 Fantastic Back-To-School Video Games To Close Out Your Summer](https://kotaku.com/sims-persona-school-college-back-to-school-video-games-1849463190)<!-- GAME:END -->
+ - [This Great Analog Keyboard Made Me Better At Shooters](https://kotaku.com/wooting-60he-keyboard-mechanical-analog-pc-gaming-1849463199)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
