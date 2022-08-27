@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla is sending cease and desist letters to remove videos of their self-driving cars hitting child-sized mannequins, so in the interest of Elon Musk&#39;s advocacy for free speech, here&#39;s a clip of a self-driving Tesla hitting child-sized mannequins](http://9gag.com/gag/angpxxB)
- - 🚯 [Resident Evil has been cancelled after just one season!](http://9gag.com/gag/adgZeAD)
- - 🚯 [Another happy ending.](http://9gag.com/gag/amgjM4o)<!-- MEMES:END -->
+ - 🚖 [What a surprise! After only one season, Netflix canceled RE!](http://9gag.com/gag/arn6qYp)
+ - 🚯 [Me too, well said.](http://9gag.com/gag/a91Q21D)
+ - 🚯 [People who regret the trans operation &lpar;1/3&rpar;](http://9gag.com/gag/azeNOwp)<!-- MEMES:END -->
 
 --- 
 
