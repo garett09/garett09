@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 great movies leaving Netflix, Hulu, and HBO Max at the end of August 2022](https://www.polygon.com/what-to-watch/23316733/best-movies-netflix-amazon-hulu-hbo-leaving-august-2022)
- - [Most frustrating missions in the Metal Gear franchise](https://game-rant-2022.blogspot.com/2022/08/most-frustrating-missions-in-metal-gear.html)
- - [&#39;Burgeoning&#39; Scottish gaming sector attracts agency to Edinburgh](https://game-rant-2022.blogspot.com/2022/08/burgeoning-scottish-gaming-sector.html)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Midnight Fight Express, Prodeus, Ghost Song, and More From Humble Games](https://news.xbox.com/en-us/2022/08/27/coming-soon-to-game-pass-humble-games/)
+ - [This Great Analog Keyboard Made Me Better At Shooters](https://kotaku.com/wooting-60he-keyboard-mechanical-analog-pc-gaming-1849463199)
+ - [8 Fantastic Back-To-School Video Games To Close Out Your Summer](https://kotaku.com/sims-persona-school-college-back-to-school-video-games-1849463190)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
