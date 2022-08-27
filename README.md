@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t tell her](http://9gag.com/gag/aggMKWv)
- - 🚯 [Aaaaaand my garden looks like the African savannah](http://9gag.com/gag/abgPRx8)
- - 🚯 [\u201cI will inflict the greatest insult an enemy can suffer\u2026\u2026 to be ignored.\u201d](http://9gag.com/gag/a81PKXY)<!-- MEMES:END -->
+ - 🚖 [Aaaaaand my garden looks like the African savannah](http://9gag.com/gag/abgPRx8)
+ - 🚯 [Watershed moment perhaps?](http://9gag.com/gag/aggMjY6)
+ - 🚯 [Chubby animals grabbing supplies](http://9gag.com/gag/adgZbpV)<!-- MEMES:END -->
 
 --- 
 
