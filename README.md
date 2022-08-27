@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a surprise! After only one season, Netflix canceled RE!](http://9gag.com/gag/arn6qYp)
- - 🚯 [Me too, well said.](http://9gag.com/gag/a91Q21D)
- - 🚯 [People who regret the trans operation &lpar;1/3&rpar;](http://9gag.com/gag/azeNOwp)<!-- MEMES:END -->
+ - 🚖 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)
+ - 🚯 [What a surprise! After only one season, Netflix canceled RE!](http://9gag.com/gag/arn6qYp)
+ - 🚯 [Resident Evil has been cancelled after just one season!](http://9gag.com/gag/adgZeAD)<!-- MEMES:END -->
 
 --- 
 
