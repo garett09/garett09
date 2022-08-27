@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 of the easiest trophies in PS5 games, ranked](https://game-rant-2022.blogspot.com/2022/08/10-of-easiest-trophies-in-ps5-games.html)
- - [Biggest Video Game News of the Week &lpar;August 20&rpar;](https://game-rant-2022.blogspot.com/2022/08/biggest-video-game-news-of-week-august.html)
- - [5 X-Men Facts You Won&#39;t Learn From The Movies](https://game-rant-2022.blogspot.com/2022/08/5-x-men-facts-you-wont-learn-from-movies.html)<!-- GAME:END -->
+ - [Hades Is Proof That Art Direction Can Help Boost Character Development](https://game-rant-2022.blogspot.com/2022/08/hades-is-proof-that-art-direction-can.html)
+ - [LA Lakers News Roundup: Darvin Ham Points to Similarities Between LeBron James and Giannis Antetokounmpo, Jeanie Buss Repays Hacking Victim &amp; More](https://game-rant-2022.blogspot.com/2022/08/la-lakers-news-roundup-darvin-ham.html)
+ - [Is there enough to do in Mobile?  Question looms over Topgolf vote](https://game-rant-2022.blogspot.com/2022/08/is-there-enough-to-do-in-mobile.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
