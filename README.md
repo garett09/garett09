@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Pro with iPhone 13 design cues rumored for Sept. event](https://appleinsider.com/articles/22/08/27/apple-watch-pro-with-flat-screen-and-iphone-13-pro-like-casing-may-launch-this-fall?utm_medium=rss)
- - [Sony Pumps Up PS5 Prices](https://www.wired.com/story/sony-pumps-up-ps5-prices/)
- - [The Best Travel Bags for Wherever You’re Headed](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)<!-- TECH:END -->
+ - [How to watch NASA’s Artemis I SLS megarocket launch](https://www.theverge.com/2022/8/27/23318116/nasa-artemis-i-sls-megarocket-launch-orion-how-to-watch)
+ - [Analysis of carrier data sent to FCC: 10 of the top 15 US carriers collect geolocation data and don&#39;t let users opt out; most keep data for two years on average &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/220827/p6#a220827p6)
+ - [9 shows like House of the Dragon for Game of Thrones fans](https://www.androidauthority.com/shows-like-house-of-the-dragon-hbo-max-3200438/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
