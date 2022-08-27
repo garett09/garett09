@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Twitter whistleblower Peiter Zatko; some current and former Twitter employees suggest some of his allegations are misleading or overblown &lpar;TIME&rpar;](http://www.techmeme.com/220827/p1#a220827p1)
  - [Netflix is testing &quot;game handles&quot; in some mobile games, and code suggests it&#39;s developing other social gaming features like the ability to invite others to play &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220826/p26#a220826p26)
- - [Mark Zuckerberg and Sheryl Sandberg won’t be deposed over the Cambridge Analytica scandal](https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook)
- - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg and Sheryl Sandberg won’t be deposed over the Cambridge Analytica scandal](https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
