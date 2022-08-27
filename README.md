@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Twitter whistleblower Peiter Zatko; some current and former Twitter employees suggest some of his allegations are misleading or overblown &lpar;TIME&rpar;](http://www.techmeme.com/220827/p1#a220827p1)
- - [Netflix is testing &quot;game handles&quot; in some mobile games, and code suggests it&#39;s developing other social gaming features like the ability to invite others to play &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220826/p26#a220826p26)
- - [Mark Zuckerberg and Sheryl Sandberg won’t be deposed over the Cambridge Analytica scandal](https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook)<!-- TECH:END -->
+ - [Shuffles, Pinterest&#39;s invite-only collage-making iOS app that launched in late July, is going viral on TikTok; Sensor Tower estimates the app has ~338K installs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220827/p3#a220827p3)
+ - [Kaspersky details how the North Korean APT Kimsuky is using a multi-stage validation scheme to ensure their malware is only downloaded by specific targets &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220827/p2#a220827p2)
+ - [An interview with Twitter whistleblower Peiter Zatko; some current and former Twitter employees suggest some of his allegations are misleading or overblown &lpar;TIME&rpar;](http://www.techmeme.com/220827/p1#a220827p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
