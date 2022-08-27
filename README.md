@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s CSAM detection system may not be perfect, but it is inevitable](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable?utm_medium=rss)
- - [Apple has never been against advertising -- it&#39;s against invasive data collection](https://appleinsider.com/articles/22/08/27/apple-has-never-been-against-advertising----its-against-invasive-data-collection?utm_medium=rss)
- - [Daily deals Aug. 27: Up to $310 off M1 Pro 16-inch MacBook Pro, $150 off 75-inch LG 4K Smart TV, $25 gift card with Beats Fit Pro, more!](https://appleinsider.com/articles/22/08/27/daily-deals-aug-27-up-to-310-off-m1-pro-16-inch-macbook-pro-150-off-75-inch-lg-4k-smart-tv-25-gift-card-with-beats-fit-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Pro with iPhone 13 design cues rumored for Sept. event](https://appleinsider.com/articles/22/08/27/apple-watch-pro-with-flat-screen-and-iphone-13-pro-like-casing-may-launch-this-fall?utm_medium=rss)
+ - [Sony Pumps Up PS5 Prices](https://www.wired.com/story/sony-pumps-up-ps5-prices/)
+ - [The Best Travel Bags for Wherever You’re Headed](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
