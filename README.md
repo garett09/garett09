@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peiter Zatko&#39;s whistleblowing report is framed as though it supports Musk&#39;s claims that Twitter is lying about spam, but the details actually show the opposite &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220827/p8#a220827p8)
- - [Apple&#39;s Midnight M2 MacBook Air is in stock for $1,099 &lpar;$100 off&rpar;, plus $40 off AppleCare](https://appleinsider.com/articles/22/08/24/apples-midnight-m2-macbook-air-is-in-stock-for-1099-100-off-plus-40-off-applecare?utm_medium=rss)
- - [Hands on with the Moft Snap System for iPad](https://appleinsider.com/articles/22/08/27/hands-on-with-the-moft-snap-system-for-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches Cross device SDK to let developers build experiences across Android phones and tablets, coming later to other Android and non-Android devices &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220827/p9#a220827p9)
+ - [How to use Spotlight in iOS 16](https://appleinsider.com/articles/22/08/27/how-to-use-spotlight-in-ios-16?utm_medium=rss)
+ - [Paralyzed mountain biker credits Apple Watch with saving his life](https://appleinsider.com/articles/22/08/27/paralyzed-mountain-biker-credits-apple-watch-with-saving-his-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
