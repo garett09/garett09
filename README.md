@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [El Salvador appears to be heading deeper into an economic crisis with funding sources drying up, one year after it adopted bitcoin as legal tender &lpar;Daniel Alvarenga/Rolling Stone&rpar;](http://www.techmeme.com/220827/p4#a220827p4)
  - [Shuffles, Pinterest&#39;s invite-only collage-making iOS app that launched in late July, is going viral on TikTok; Sensor Tower estimates the app has ~338K installs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220827/p3#a220827p3)
- - [Kaspersky details how the North Korean APT Kimsuky is using a multi-stage validation scheme to ensure their malware is only downloaded by specific targets &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220827/p2#a220827p2)
- - [An interview with Twitter whistleblower Peiter Zatko; some current and former Twitter employees suggest some of his allegations are misleading or overblown &lpar;TIME&rpar;](http://www.techmeme.com/220827/p1#a220827p1)<!-- TECH:END -->
+ - [Kaspersky details how the North Korean APT Kimsuky is using a multi-stage validation scheme to ensure their malware is only downloaded by specific targets &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220827/p2#a220827p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
