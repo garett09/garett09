@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Netflix plans to charge $7-$9/month for its ad-supported tier in the US, with ~4 minutes of ads/hour, and may launch it in 2022 in a half dozen markets &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220826/p24#a220826p24)
- - [Meta&#39;s VP of Horizon, Vivek Sharma, is leaving the company after six years; the Horizon team will report directly to Meta&#39;s VP of Metaverse, Vishal Shah &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220826/p23#a220826p23)
- - [TikTok has cut jobs in its US advertising department as part of a restructuring, offering affected employees the chance to find roles in other units &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/220826/p22#a220826p22)<!-- TECH:END -->
+ - [Meta settles Cambridge Analytica lawsuit in time to avoid Mark Zuckerberg and Sheryl Sandberg’s depositions](https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook)
+ - [Netflix to charge $7 to $9 for ad-supported tier](https://appleinsider.com/articles/22/08/27/netflix-to-charge-7-to-9-for-ad-supported-tier?utm_medium=rss)
+ - [Facebook agrees in principle to settle a lawsuit alleging it violated consumer privacy laws by sharing user data with 3rd parties, including Cambridge Analytica &lpar;Reuters&rpar;](http://www.techmeme.com/220826/p25#a220826p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
