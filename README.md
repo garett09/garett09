@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta settles Cambridge Analytica lawsuit in time to avoid Mark Zuckerberg and Sheryl Sandberg’s depositions](https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook)
- - [Netflix to charge $7 to $9 for ad-supported tier](https://appleinsider.com/articles/22/08/27/netflix-to-charge-7-to-9-for-ad-supported-tier?utm_medium=rss)
- - [Facebook agrees in principle to settle a lawsuit alleging it violated consumer privacy laws by sharing user data with 3rd parties, including Cambridge Analytica &lpar;Reuters&rpar;](http://www.techmeme.com/220826/p25#a220826p25)<!-- TECH:END -->
+ - [Netflix is testing &quot;game handles&quot; in some mobile games, and code suggests it&#39;s developing other social gaming features like the ability to invite others to play &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220826/p26#a220826p26)
+ - [Mark Zuckerberg and Sheryl Sandberg won’t be deposed over the Cambridge Analytica scandal](https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook)
+ - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
