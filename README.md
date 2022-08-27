@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)
- - 🚯 [What a surprise! After only one season, Netflix canceled RE!](http://9gag.com/gag/arn6qYp)
- - 🚯 [Resident Evil has been cancelled after just one season!](http://9gag.com/gag/adgZeAD)<!-- MEMES:END -->
+ - 🚖 [Resident Evil has been cancelled after just one season!](http://9gag.com/gag/adgZeAD)
+ - 🚯 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)
+ - 🚯 [How it should be!!](http://9gag.com/gag/adgZoyj)<!-- MEMES:END -->
 
 --- 
 
