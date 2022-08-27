@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embrace the ranger fantasy in this bow hunting FPS where the creatures hunt you back](https://www.pcgamer.com/embrace-the-ranger-fantasy-in-this-bow-hunting-fps-where-the-creatures-hunt-you-back)
  - [Hades Is Proof That Art Direction Can Help Boost Character Development](https://game-rant-2022.blogspot.com/2022/08/hades-is-proof-that-art-direction-can.html)
- - [LA Lakers News Roundup: Darvin Ham Points to Similarities Between LeBron James and Giannis Antetokounmpo, Jeanie Buss Repays Hacking Victim &amp; More](https://game-rant-2022.blogspot.com/2022/08/la-lakers-news-roundup-darvin-ham.html)
- - [Is there enough to do in Mobile?  Question looms over Topgolf vote](https://game-rant-2022.blogspot.com/2022/08/is-there-enough-to-do-in-mobile.html)<!-- GAME:END -->
+ - [LA Lakers News Roundup: Darvin Ham Points to Similarities Between LeBron James and Giannis Antetokounmpo, Jeanie Buss Repays Hacking Victim &amp; More](https://game-rant-2022.blogspot.com/2022/08/la-lakers-news-roundup-darvin-ham.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
