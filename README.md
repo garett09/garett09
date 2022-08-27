@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The one true hero](http://9gag.com/gag/angpGQ5)
- - 🚯 [Still better though](http://9gag.com/gag/angpV3L)
+ - 🚖 [Fake air vent built into a bunker in Normandy. Grenade surprise!](http://9gag.com/gag/axBxm7K)
+ - 🚯 [Based kid](http://9gag.com/gag/aM4RWbR)
  - 🚯 [I&#39;ve been told that my kneecaps look like trapped baby faces](http://9gag.com/gag/a714Abm)<!-- MEMES:END -->
 
 --- 
