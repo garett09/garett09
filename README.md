@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Great Deals on Coffee Gear, Grills, Fire Pits, and Sex Toys](https://www.wired.com/story/weekend-deals-august-27-2022/)
- - [Gartner: global spending on tech, including cloud services, is expected to rise ~3% in 2022, well below the 10% annual growth in 2021 and the nearly 7% in 2020 &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220827/p5#a220827p5)
- - [Apple&#39;s iPhone 14 Pro Max Will Need to Justify its Higher Price. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-pro-max-will-need-to-justify-its-higher-price-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s CSAM detection system may not be perfect, but it is inevitable](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable?utm_medium=rss)
+ - [Apple has never been against advertising -- it&#39;s against invasive data collection](https://appleinsider.com/articles/22/08/27/apple-has-never-been-against-advertising----its-against-invasive-data-collection?utm_medium=rss)
+ - [Daily deals Aug. 27: Up to $310 off M1 Pro 16-inch MacBook Pro, $150 off 75-inch LG 4K Smart TV, $25 gift card with Beats Fit Pro, more!](https://appleinsider.com/articles/22/08/27/daily-deals-aug-27-up-to-310-off-m1-pro-16-inch-macbook-pro-150-off-75-inch-lg-4k-smart-tv-25-gift-card-with-beats-fit-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
