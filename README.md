@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friends forever](http://9gag.com/gag/aBnqO92)
- - 🚯 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aDDpVo7)
+ - 🚖 [10 years later...](http://9gag.com/gag/aBnqGox)
+ - 🚯 [This is so stupid that I love it](http://9gag.com/gag/a714pZA)
  - 🚯 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)<!-- MEMES:END -->
 
 --- 
