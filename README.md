@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Yellow Power Ranger&#39;s Power Daggers Are Now a $132 Collectible     - CNET](https://www.cnet.com/culture/entertainment/the-yellow-power-rangers-power-daggers-are-now-a-132-collectible/#ftag=CAD590a51e)
  - [El Salvador appears to be heading deeper into an economic crisis with funding sources drying up, one year after it adopted bitcoin as legal tender &lpar;Daniel Alvarenga/Rolling Stone&rpar;](http://www.techmeme.com/220827/p4#a220827p4)
- - [Shuffles, Pinterest&#39;s invite-only collage-making iOS app that launched in late July, is going viral on TikTok; Sensor Tower estimates the app has ~338K installs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220827/p3#a220827p3)
- - [Kaspersky details how the North Korean APT Kimsuky is using a multi-stage validation scheme to ensure their malware is only downloaded by specific targets &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220827/p2#a220827p2)<!-- TECH:END -->
+ - [Shuffles, Pinterest&#39;s invite-only collage-making iOS app that launched in late July, is going viral on TikTok; Sensor Tower estimates the app has ~338K installs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220827/p3#a220827p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
