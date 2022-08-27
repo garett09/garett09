@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If wrestling is fake. Explain this.](http://9gag.com/gag/a0ZAMNn)
- - 🚯 [And a diet coke please](http://9gag.com/gag/aGz32pX)
- - 🚯 [What a clever little bish](http://9gag.com/gag/aogrYj0)<!-- MEMES:END -->
+ - 🚖 [Congratulation my boy Keanu Reeves, he found not just girlfriend but also a soul mate](http://9gag.com/gag/azeNY7m)
+ - 🚯 [What a clever little bish](http://9gag.com/gag/aogrYj0)
+ - 🚯 [If wrestling is fake. Explain this.](http://9gag.com/gag/a0ZAMNn)<!-- MEMES:END -->
 
 --- 
 
