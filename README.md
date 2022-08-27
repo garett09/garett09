@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Embrace the ranger fantasy in this bow hunting FPS where the creatures hunt you back](https://www.pcgamer.com/embrace-the-ranger-fantasy-in-this-bow-hunting-fps-where-the-creatures-hunt-you-back)
- - [Hades Is Proof That Art Direction Can Help Boost Character Development](https://game-rant-2022.blogspot.com/2022/08/hades-is-proof-that-art-direction-can.html)
- - [LA Lakers News Roundup: Darvin Ham Points to Similarities Between LeBron James and Giannis Antetokounmpo, Jeanie Buss Repays Hacking Victim &amp; More](https://game-rant-2022.blogspot.com/2022/08/la-lakers-news-roundup-darvin-ham.html)<!-- GAME:END -->
+ - [How long do you spend in character creators?](https://www.pcgamer.com/how-long-do-you-spend-in-character-creators)
+ - [The Fawlty Towers videogame was multimedia hotel hell](https://www.pcgamer.com/saturday-crapshoot-fawlty-towers)
+ - [10 game characters trapped in armor](https://game-rant-2022.blogspot.com/2022/08/10-game-characters-trapped-in-armor.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
