@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Resident Evil has been cancelled after just one season!](http://9gag.com/gag/adgZeAD)
- - 🚯 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)
- - 🚯 [How it should be!!](http://9gag.com/gag/adgZoyj)<!-- MEMES:END -->
+ - 🚖 [Friends forever](http://9gag.com/gag/aBnqO92)
+ - 🚯 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aDDpVo7)
+ - 🚯 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)<!-- MEMES:END -->
 
 --- 
 
