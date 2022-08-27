@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You should be using these iPad features](https://game-rant-2022.blogspot.com/2022/08/you-should-be-using-these-ipad-features.html)
- - [10 memes that perfectly sum up Bethesda](https://game-rant-2022.blogspot.com/2022/08/10-memes-that-perfectly-sum-up-bethesda.html)
- - [Best Hygge Games](https://game-rant-2022.blogspot.com/2022/08/best-hygge-games.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 434 answer and hint: Saturday, August 27](https://www.pcgamer.com/todays-wordle-434-answer-hint)
+ - [Creal leads Dragons to comeback victory in Quad Cities, 6-4](https://game-rant-2022.blogspot.com/2022/08/creal-leads-dragons-to-comeback-victory.html)
+ - [what does Mark Zuckerberg&#39;s metaverse actually look like, and who&#39;s asking for it?](https://game-rant-2022.blogspot.com/2022/08/what-does-mark-zuckerbergs-metaverse.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
