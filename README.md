@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 years later...](http://9gag.com/gag/aBnqGox)
- - 🚯 [This is so stupid that I love it](http://9gag.com/gag/a714pZA)
- - 🚯 [Vegan vs Chad tractor man](http://9gag.com/gag/avAYv1W)<!-- MEMES:END -->
+ - 🚖 [If wrestling is fake. Explain this.](http://9gag.com/gag/a0ZAMNn)
+ - 🚯 [And a diet coke please](http://9gag.com/gag/aGz32pX)
+ - 🚯 [What a clever little bish](http://9gag.com/gag/aogrYj0)<!-- MEMES:END -->
 
 --- 
 
