@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 434 answer and hint: Saturday, August 27](https://www.pcgamer.com/todays-wordle-434-answer-hint)
- - [Creal leads Dragons to comeback victory in Quad Cities, 6-4](https://game-rant-2022.blogspot.com/2022/08/creal-leads-dragons-to-comeback-victory.html)
- - [what does Mark Zuckerberg&#39;s metaverse actually look like, and who&#39;s asking for it?](https://game-rant-2022.blogspot.com/2022/08/what-does-mark-zuckerbergs-metaverse.html)<!-- GAME:END -->
+ - [How to find all the weapon blueprints in Sumeru - Genshin Impact guide](https://www.polygon.com/genshin-impact-guides/23322177/sumeru-weapon-blueprint-locations-quest-bow-claymore-sword-polearm-catalyst-unlock)
+ - [6 games that caught our attention at Gamescom 2022](https://www.pcgamer.com/gamescom-2022-games-surprises)
+ - [Former Gears of War and Fortnite pro Xcells killed in shooting](https://www.pcgamer.com/former-gears-of-war-and-fortnite-pro-xcells-killed-in-shooting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
