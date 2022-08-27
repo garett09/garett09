@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fake air vent built into a bunker in Normandy. Grenade surprise!](http://9gag.com/gag/axBxm7K)
- - 🚯 [Based kid](http://9gag.com/gag/aM4RWbR)
+ - 🚖 [Goodbye knees officer](http://9gag.com/gag/a0ZAwmz)
+ - 🚯 [This is gold](http://9gag.com/gag/a61v8W8)
  - 🚯 [I&#39;ve been told that my kneecaps look like trapped baby faces](http://9gag.com/gag/a714Abm)<!-- MEMES:END -->
 
 --- 
