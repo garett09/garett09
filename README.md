@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aaaaaand my garden looks like the African savannah](http://9gag.com/gag/abgPRx8)
- - 🚯 [Watershed moment perhaps?](http://9gag.com/gag/aggMjY6)
- - 🚯 [Chubby animals grabbing supplies](http://9gag.com/gag/adgZbpV)<!-- MEMES:END -->
+ - 🚖 [The one true hero](http://9gag.com/gag/angpGQ5)
+ - 🚯 [Still better though](http://9gag.com/gag/angpV3L)
+ - 🚯 [I&#39;ve been told that my kneecaps look like trapped baby faces](http://9gag.com/gag/a714Abm)<!-- MEMES:END -->
 
 --- 
 
