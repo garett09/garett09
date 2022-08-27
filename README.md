@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If wrestling is fake. Explain this.](http://9gag.com/gag/a0ZAMNn)
- - 🚯 [Friends forever](http://9gag.com/gag/aBnqO92)
- - 🚯 [\u201cI will inflict the greatest insult an enemy can suffer\u2026\u2026 to be ignored.\u201d](http://9gag.com/gag/a81PKXY)<!-- MEMES:END -->
+ - 🚖 [Austrian fencing champion](http://9gag.com/gag/aWgKD9q)
+ - 🚯 [Smile it&#39;s monday!](http://9gag.com/gag/aAGWO8o)
+ - 🚯 [How it should be!!](http://9gag.com/gag/adgZoyj)<!-- MEMES:END -->
 
 --- 
 
