@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paralyzed mountain biker credits Apple Watch with saving his life](https://appleinsider.com/articles/22/08/27/paralyzed-mountain-biker-credits-apple-watch-with-saving-his-life?utm_medium=rss)
- - [Nikon Z 30 review: The social media &amp; video creator&#39;s camera](https://appleinsider.com/articles/22/08/27/nikon-z-30-review-the-social-media-video-creators-camera?utm_medium=rss)
- - [Samsung Galaxy Buds 2 Pro vs Galaxy Buds 2: What’s the difference?](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-vs-galaxy-buds-2-whats-the-difference-3200000/)<!-- TECH:END -->
+ - [How to use Shared with You on iOS 15](https://appleinsider.com/articles/21/08/05/how-to-use-shared-with-you-on-ios-15?utm_medium=rss)
+ - [Netflix’s Resident Evil has already been canceled](https://www.theverge.com/2022/8/27/23324830/netflix-resident-evil-canceled-after-season-one)
+ - [Best Gifts for Cyclists That Gearheads Will Actually Use     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-cyclists-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
