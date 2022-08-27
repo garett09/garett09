@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to watch The Lord of the Rings before the debut of The Rings of Power](https://www.androidauthority.com/where-to-watch-the-lord-of-the-rings-3200915/)
- - [Google launches Cross device SDK to let developers build experiences across Android phones and tablets, coming later to other Android and non-Android devices &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220827/p9#a220827p9)
- - [How to use Spotlight in iOS 16](https://appleinsider.com/articles/22/08/27/how-to-use-spotlight-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Tether, which has promised an audit since at least 2017, says one is &quot;likely months&quot; away; former SEC exec: it needs an audit &quot;akin to a corporate colonoscopy&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220827/p10#a220827p10)
+ - [Satellite-to-phone companies are thrilled about SpaceX and T-Mobile, actually](https://www.theverge.com/2022/8/27/23324128/t-mobile-spacex-satellite-to-phone-technology-ast-lynk-industry-reactions-apple)
+ - [Netflix is working on gamertags](https://www.theverge.com/2022/8/27/23324515/netflix-gamertags-game-handles-mobile-gaming-community)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
