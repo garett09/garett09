@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is working on gamertags](https://www.theverge.com/2022/8/27/23324515/netflix-gamertags-game-handles-mobile-gaming-community)
- - [Audi Dives Into New Territory With Formula 1 Announcement     - CNET](https://www.cnet.com/roadshow/pictures/audi-2026-formula-1-announcement/#ftag=CAD590a51e)
- - [iPhone 14 vs. iPhone 13: Apple May Reveal New Changes on Sept. 7     - CNET](https://www.cnet.com/tech/mobile/iphone-14-vs-iphone-13-apple-may-reveal-new-changes-on-sept-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Spotlight in iOS 16](https://appleinsider.com/articles/22/08/27/how-to-use-spotlight-in-ios-16?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-447-3201446/)
+ - [Xbox Game Pass ‘Friends &amp; Family’ leak suggests you can share with friends](https://www.theverge.com/2022/8/27/23324623/microsoft-xbox-game-pass-friends-family-subscription-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
