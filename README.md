@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Austrian fencing champion](http://9gag.com/gag/aWgKD9q)
- - 🚯 [Smile it&#39;s monday!](http://9gag.com/gag/aAGWO8o)
- - 🚯 [How it should be!!](http://9gag.com/gag/adgZoyj)<!-- MEMES:END -->
+ - 🚖 [How it should be!!](http://9gag.com/gag/adgZoyj)
+ - 🚯 [Simple recipe garlic bread](http://9gag.com/gag/aWgKDdq)
+ - 🚯 [AWESOME The moment a retired British Royal Marine with Parkinson&#39;s disease sees his life change in seconds, thanks to the advanced technique of Deep Brain Stimulation &lpar;DBS&rpar;](http://9gag.com/gag/aGz325w)<!-- MEMES:END -->
 
 --- 
 
