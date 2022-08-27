@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 great movies leaving Netflix, Hulu, and HBO Max at the end of August 2022](https://www.polygon.com/what-to-watch/23316733/best-movies-netflix-amazon-hulu-hbo-leaving-august-2022)
  - [Most frustrating missions in the Metal Gear franchise](https://game-rant-2022.blogspot.com/2022/08/most-frustrating-missions-in-metal-gear.html)
- - [&#39;Burgeoning&#39; Scottish gaming sector attracts agency to Edinburgh](https://game-rant-2022.blogspot.com/2022/08/burgeoning-scottish-gaming-sector.html)
- - [Video game movie adaptations, ranked](https://game-rant-2022.blogspot.com/2022/08/video-game-movie-adaptations-ranked.html)<!-- GAME:END -->
+ - [&#39;Burgeoning&#39; Scottish gaming sector attracts agency to Edinburgh](https://game-rant-2022.blogspot.com/2022/08/burgeoning-scottish-gaming-sector.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
