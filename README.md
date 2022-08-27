@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Spotlight in iOS 16](https://appleinsider.com/articles/22/08/27/how-to-use-spotlight-in-ios-16?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-447-3201446/)
- - [Xbox Game Pass ‘Friends &amp; Family’ leak suggests you can share with friends](https://www.theverge.com/2022/8/27/23324623/microsoft-xbox-game-pass-friends-family-subscription-leak)<!-- TECH:END -->
+ - [Peiter Zatko&#39;s whistleblowing report is framed as though it supports Musk&#39;s claims that Twitter is lying about spam, but the details actually show the opposite &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220827/p8#a220827p8)
+ - [Apple&#39;s Midnight M2 MacBook Air is in stock for $1,099 &lpar;$100 off&rpar;, plus $40 off AppleCare](https://appleinsider.com/articles/22/08/24/apples-midnight-m2-macbook-air-is-in-stock-for-1099-100-off-plus-40-off-applecare?utm_medium=rss)
+ - [Hands on with the Moft Snap System for iPad](https://appleinsider.com/articles/22/08/27/hands-on-with-the-moft-snap-system-for-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
