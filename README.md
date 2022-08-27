@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy&#39;s system specs seem pretty reasonable for what&#39;s on offer](https://www.pcgamer.com/hogwarts-legacys-system-specs-seem-pretty-reasonable-for-whats-on-offer)
- - [The BookTok creators whose sci-fi recommendations will shake up your reading list](https://www.polygon.com/23318855/booktok-books-recommendations-creators-sff-science-fiction-fantasy-list-tiktok)
- - [Coming Soon to Game Pass: Midnight Fight Express, Prodeus, Ghost Song, and More From Humble Games](https://news.xbox.com/en-us/2022/08/27/coming-soon-to-game-pass-humble-games/)<!-- GAME:END -->
+ - [10 of the easiest trophies in PS5 games, ranked](https://game-rant-2022.blogspot.com/2022/08/10-of-easiest-trophies-in-ps5-games.html)
+ - [Biggest Video Game News of the Week &lpar;August 20&rpar;](https://game-rant-2022.blogspot.com/2022/08/biggest-video-game-news-of-week-august.html)
+ - [5 X-Men Facts You Won&#39;t Learn From The Movies](https://game-rant-2022.blogspot.com/2022/08/5-x-men-facts-you-wont-learn-from-movies.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
