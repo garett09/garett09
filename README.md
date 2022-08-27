@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether, which has promised an audit since at least 2017, says one is &quot;likely months&quot; away; former SEC exec: it needs an audit &quot;akin to a corporate colonoscopy&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220827/p10#a220827p10)
- - [Satellite-to-phone companies are thrilled about SpaceX and T-Mobile, actually](https://www.theverge.com/2022/8/27/23324128/t-mobile-spacex-satellite-to-phone-technology-ast-lynk-industry-reactions-apple)
- - [Netflix is working on gamertags](https://www.theverge.com/2022/8/27/23324515/netflix-gamertags-game-handles-mobile-gaming-community)<!-- TECH:END -->
+ - [Paralyzed mountain biker credits Apple Watch with saving his life](https://appleinsider.com/articles/22/08/27/paralyzed-mountain-biker-credits-apple-watch-with-saving-his-life?utm_medium=rss)
+ - [Nikon Z 30 review: The social media &amp; video creator&#39;s camera](https://appleinsider.com/articles/22/08/27/nikon-z-30-review-the-social-media-video-creators-camera?utm_medium=rss)
+ - [Samsung Galaxy Buds 2 Pro vs Galaxy Buds 2: What’s the difference?](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-vs-galaxy-buds-2-whats-the-difference-3200000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
