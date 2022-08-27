@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unlike PlayStation, Microsoft will not increase the price of its Xbox Series X and Series S &amp; More. Latest news here](https://game-rant-2022.blogspot.com/2022/08/unlike-playstation-microsoft-will-not.html)
- - [KitGuru Games: Insomniac&#39;s Spider-Man Reaches New Heights on PC](https://game-rant-2022.blogspot.com/2022/08/kitguru-games-insomniacs-spider-man.html)
- - [7 Sonic games to make](https://game-rant-2022.blogspot.com/2022/08/7-sonic-games-to-make.html)<!-- GAME:END -->
+ - [You should be using these iPad features](https://game-rant-2022.blogspot.com/2022/08/you-should-be-using-these-ipad-features.html)
+ - [10 memes that perfectly sum up Bethesda](https://game-rant-2022.blogspot.com/2022/08/10-memes-that-perfectly-sum-up-bethesda.html)
+ - [Best Hygge Games](https://game-rant-2022.blogspot.com/2022/08/best-hygge-games.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
