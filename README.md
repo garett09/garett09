@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything getting so expensive...](http://9gag.com/gag/aXrDRvP)
- - 🚯 [This should be posted weekly until people understand what the media is. Julian Assange: \u201cNearly every war that has started in the past 50 years has been a result of media lies.\u201d](http://9gag.com/gag/aGz3OOn)
- - 🚯 [The one true hero](http://9gag.com/gag/angpGQ5)<!-- MEMES:END -->
+ - 🚖 [Aaaaaand my garden looks like the African savannah](http://9gag.com/gag/abgPRx8)
+ - 🚯 [Belgian coal miners with their white privileges,1900s](http://9gag.com/gag/aOQgRDR)
+ - 🚯 [Smile it&#39;s monday!](http://9gag.com/gag/aAGWO8o)<!-- MEMES:END -->
 
 --- 
 
