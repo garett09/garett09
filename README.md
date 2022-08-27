@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congratulation my boy Keanu Reeves, he found not just girlfriend but also a soul mate](http://9gag.com/gag/azeNY7m)
- - 🚯 [What a clever little bish](http://9gag.com/gag/aogrYj0)
- - 🚯 [If wrestling is fake. Explain this.](http://9gag.com/gag/a0ZAMNn)<!-- MEMES:END -->
+ - 🚖 [If wrestling is fake. Explain this.](http://9gag.com/gag/a0ZAMNn)
+ - 🚯 [Friends forever](http://9gag.com/gag/aBnqO92)
+ - 🚯 [\u201cI will inflict the greatest insult an enemy can suffer\u2026\u2026 to be ignored.\u201d](http://9gag.com/gag/a81PKXY)<!-- MEMES:END -->
 
 --- 
 
