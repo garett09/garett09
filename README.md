@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goodbye knees officer](http://9gag.com/gag/a0ZAwmz)
- - 🚯 [This is gold](http://9gag.com/gag/a61v8W8)
- - 🚯 [I&#39;ve been told that my kneecaps look like trapped baby faces](http://9gag.com/gag/a714Abm)<!-- MEMES:END -->
+ - 🚖 [I need that doormat](http://9gag.com/gag/a81Pn5Q)
+ - 🚯 [You won&#39;t](http://9gag.com/gag/aegodMm)
+ - 🚯 [Could you imagine the horror?](http://9gag.com/gag/amgjn16)<!-- MEMES:END -->
 
 --- 
 
