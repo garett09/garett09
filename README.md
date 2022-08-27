@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find all the weapon blueprints in Sumeru - Genshin Impact guide](https://www.polygon.com/genshin-impact-guides/23322177/sumeru-weapon-blueprint-locations-quest-bow-claymore-sword-polearm-catalyst-unlock)
- - [6 games that caught our attention at Gamescom 2022](https://www.pcgamer.com/gamescom-2022-games-surprises)
- - [Former Gears of War and Fortnite pro Xcells killed in shooting](https://www.pcgamer.com/former-gears-of-war-and-fortnite-pro-xcells-killed-in-shooting)<!-- GAME:END -->
+ - [Unlike PlayStation, Microsoft will not increase the price of its Xbox Series X and Series S &amp; More. Latest news here](https://game-rant-2022.blogspot.com/2022/08/unlike-playstation-microsoft-will-not.html)
+ - [KitGuru Games: Insomniac&#39;s Spider-Man Reaches New Heights on PC](https://game-rant-2022.blogspot.com/2022/08/kitguru-games-insomniacs-spider-man.html)
+ - [7 Sonic games to make](https://game-rant-2022.blogspot.com/2022/08/7-sonic-games-to-make.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
