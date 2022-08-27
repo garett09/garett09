@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Males are more attractive](http://9gag.com/gag/a0ZAxZO)
- - 🚯 [I need that doormat](http://9gag.com/gag/a81Pn5Q)
- - 🚯 [700% bigger flood in Pakistan this year. Dam opened and this happened](http://9gag.com/gag/aegodLp)<!-- MEMES:END -->
+ - 🚖 [Sleep is key](http://9gag.com/gag/aogrdR0)
+ - 🚯 [You won&#39;t](http://9gag.com/gag/aegodMm)
+ - 🚯 [Males are more attractive](http://9gag.com/gag/a0ZAxZO)<!-- MEMES:END -->
 
 --- 
 
