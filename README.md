@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think I&#39;m very clear in what am asking...kills me every time.](http://9gag.com/gag/aqG3BGZ)
- - 🚯 [Finally found a place to stay after much time.Been living homeless. Hooe to find a job and thus can hv good meals.One step at a time :&rpar;](http://9gag.com/gag/aNPx2E3)
+ - 🚖 [Do i look like a fking clown to you?](http://9gag.com/gag/aBnqbRx)
+ - 🚯 [Flying car](http://9gag.com/gag/a51m9RE)
  - 🚯 [Good luck](http://9gag.com/gag/aegoyqv)<!-- MEMES:END -->
 
 --- 
