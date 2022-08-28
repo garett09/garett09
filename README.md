@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon is interested in EA, iPhone 14 launches on September 7, here&#39;s the &#39;of the week&#39; roundup](https://game-rant-2022.blogspot.com/2022/08/amazon-is-interested-in-ea-iphone-14.html)
- - [Michael Schreiber of Comcast builds a sports advertising beast on the Main Line.](https://game-rant-2022.blogspot.com/2022/08/michael-schreiber-of-comcast-builds.html)
- - [The &#39;gamification&#39; of love: why dating apps have become addictive |  Society](https://game-rant-2022.blogspot.com/2022/08/the-gamification-of-love-why-dating.html)<!-- GAME:END -->
+ - [Battlefront&#39;s Galactic Conquest Deserves Its Own Game](https://game-rant-2022.blogspot.com/2022/08/battlefronts-galactic-conquest-deserves.html)
+ - [Things the game needs to get out of San Andreas](https://game-rant-2022.blogspot.com/2022/08/things-game-needs-to-get-out-of-san.html)
+ - [Amazon is interested in EA, iPhone 14 launches on September 7, here&#39;s the &#39;of the week&#39; roundup](https://game-rant-2022.blogspot.com/2022/08/amazon-is-interested-in-ea-iphone-14.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
