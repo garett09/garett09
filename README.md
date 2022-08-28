@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tribune Publishing says disabling Google&#39;s AMP led to very little impact on mobile search referrals, as year-long drops mostly aligned to broader search trends &lpar;Kurt Gessler&rpar;](http://www.techmeme.com/220828/p1#a220828p1)
  - [Dell says it ceased all Russian operations after closing its offices in mid-August; it had suspended sales in Russia, Belarus, and parts of Ukraine in February &lpar;Reuters&rpar;](http://www.techmeme.com/220827/p12#a220827p12)
- - [&#39;Prey&#39; Ending and Cool Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-cool-post-credits-predator-tease-explained/#ftag=CAD590a51e)
- - [Facebook Parent Meta to Settle Cambridge Analytica Lawsuit     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-to-settle-cambridge-analytica-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Prey&#39; Ending and Cool Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-cool-post-credits-predator-tease-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
