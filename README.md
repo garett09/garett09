@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 4 review: A 12L-evated experience](https://www.androidauthority.com/samsung-galaxy-z-fold-4-review-3200207/)
- - [Crime blotter: 24 months for iPhone fraud conspirator](https://appleinsider.com/articles/22/08/28/crime-blotter-24-months-for-iphone-fraud-conspirator?utm_medium=rss)
- - [How the Physics of Nothing Underlies Everything](https://www.wired.com/story/how-the-physics-of-nothing-underlies-everything/)<!-- TECH:END -->
+ - [How to Use the Emergency SOS Feature on Your Smartphone](https://www.wired.com/story/how-to-use-emergency-sos-smartphone/)
+ - [SwitchBot Lock review: a tiny robot hand that unlocks your door](https://www.theverge.com/23323597/switchbot-lock-review-smart-door-lock)
+ - [Daily deals Aug. 28: $160 off Apple Watch Series 7, $1,500 off 85-inch Samsung QLED TV, $200 Anker 521 Power Station, more!](https://appleinsider.com/articles/22/08/28/daily-deals-aug-28-160-off-apple-watch-series-7-1500-off-85-inch-samsung-qled-tv-200-anker-521-power-station-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
