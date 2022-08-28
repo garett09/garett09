@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet is stealing Zoom’s trick to easily unmute](https://www.theverge.com/2022/8/28/23325575/google-meet-stealing-zoom-trick-easily-unmute-push-to-talk)
- - [How to get merchandise for Ted Lasso, For All Mankind &amp; other Apple TV+ shows](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-get-merchandise-for-ted-lasso-for-all-mankind-other-apple-tv-shows?utm_medium=rss)
- - [Turn that old iPod wireless with these ingenious earbuds](https://www.androidauthority.com/lg-tone-free-fp9-3200736/)<!-- TECH:END -->
+ - [A look at FWB Fest, dubbed the &quot;crypto Woodstock&quot;, attended by Friends With Benefits social club members hoping to change the way people use blockchain tech &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220828/p5#a220828p5)
+ - [The M1 model might be a better deal, but the MacBook Air M2 is the better laptop](https://www.androidauthority.com/apple-macbook-air-m2-review-3198914/)
+ - [Why Apple&#39;s iPhone 14 Pro Max May Be a Tough Sell     - CNET](https://www.cnet.com/tech/mobile/why-apples-iphone-14-pro-max-may-be-a-tough-sell/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
