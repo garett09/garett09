@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How long do you spend in character creators?](https://www.pcgamer.com/how-long-do-you-spend-in-character-creators)
- - [The Fawlty Towers videogame was multimedia hotel hell](https://www.pcgamer.com/saturday-crapshoot-fawlty-towers)
- - [10 game characters trapped in armor](https://game-rant-2022.blogspot.com/2022/08/10-game-characters-trapped-in-armor.html)<!-- GAME:END -->
+ - [Best Video Game Characters With French Accents](https://game-rant-2022.blogspot.com/2022/08/best-video-game-characters-with-french.html)
+ - [How long do you spend in character creators?](https://game-rant-2022.blogspot.com/2022/08/how-long-do-you-spend-in-character.html)
+ - [Microsoft Weekly: Windows 11 secrets, MFA exploits and ad infestations](https://game-rant-2022.blogspot.com/2022/08/microsoft-weekly-windows-11-secrets-mfa.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
