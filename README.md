@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do i look like a fking clown to you?](http://9gag.com/gag/aBnqbRx)
- - 🚯 [Flying car](http://9gag.com/gag/a51m9RE)
- - 🚯 [Good luck](http://9gag.com/gag/aegoyqv)<!-- MEMES:END -->
+ - 🚖 [LA RUMBA !](http://9gag.com/gag/aRr58Qq)
+ - 🚯 [Good luck](http://9gag.com/gag/aegoyqv)
+ - 🚯 [Do i look like a fking clown to you?](http://9gag.com/gag/aBnqbRx)<!-- MEMES:END -->
 
 --- 
 
