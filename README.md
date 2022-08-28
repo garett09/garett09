@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me too buddy, me too](http://9gag.com/gag/angpWY0)
- - 🚯 [This Jamie Foxx impression of Trump is the best I&#39;ve heard so far](http://9gag.com/gag/azeNBDN)
- - 🚯 [Whell, this is a problem....](http://9gag.com/gag/aggMZBW)<!-- MEMES:END -->
+ - 🚖 [Farmer&#39;s best friend](http://9gag.com/gag/angpWwo)
+ - 🚯 [Now I&#39;m sad](http://9gag.com/gag/a21Bjqe)
+ - 🚯 [Based kid](http://9gag.com/gag/aM4RWbR)<!-- MEMES:END -->
 
 --- 
 
