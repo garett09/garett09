@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 shows like Manifest to watch before the fourth season drops on Netflix Nov. 4](https://www.androidauthority.com/shows-like-manifest-3201280/)
- - [MacBook Pro price war: $400 off 14-inch &amp; 16-inch models, 13-inch prices as low as $899](https://appleinsider.com/articles/22/08/28/macbook-pro-price-war-400-off-14-inch-16-inch-models-13-inch-prices-as-low-as-899?utm_medium=rss)
- - [The Verge staff talk about their favorite backpacks and other bags](https://www.theverge.com/22630435/laptop-bag-messenger-backpack-tote-favorite)<!-- TECH:END -->
+ - [Prime Video: The 28 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-28-absolute-best-films-to-stream-now/#ftag=CAD590a51e)
+ - [Best Balance Transfer Credit Cards for September 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)
+ - [Profile of Kim Choong-Ki, a professor at the Korea Advanced Institute of Science and Technology, who is revered as the godfather of South Korea&#39;s chip industry &lpar;Dong-Won Kim/IEEE Spectrum&rpar;](http://www.techmeme.com/220828/p7#a220828p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
