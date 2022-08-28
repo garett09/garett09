@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taken from a fishing boat in Antarctica](http://9gag.com/gag/aAGW7dd)
- - 🚯 [Euro to the Dollar nearing 30-year lows. Imagine knowing what could cause that.](http://9gag.com/gag/aGz3qrw)
- - 🚯 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)<!-- MEMES:END -->
+ - 🚖 [This should be interesting](http://9gag.com/gag/a41e8Mm)
+ - 🚯 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)
+ - 🚯 [Greeeeeeeece](http://9gag.com/gag/aGz3qLn)<!-- MEMES:END -->
 
 --- 
 
