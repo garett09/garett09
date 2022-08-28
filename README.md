@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scott Parker and Bournemouth &#39;shocked&#39; after Liverpool&#39;s 9-0 loss |  Liverpool and more latest news here](https://game-rant-2022.blogspot.com/2022/08/scott-parker-and-bournemouth-shocked.html)
- - [After &#39;Three Thousand Years of Desire&#39;, Idris Elba has stories to tell](https://game-rant-2022.blogspot.com/2022/08/after-three-thousand-years-of-desire.html)
- - [8 BEST Soul Hackers 2 Foods: Improvements &amp; Debuffs](https://game-rant-2022.blogspot.com/2022/08/8-best-soul-hackers-2-foods.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 435 answer and hint: Sunday, August 28](https://www.pcgamer.com/todays-wordle-435-answer-hint)
+ - [Total War: Warhammer 3 player numbers went up tenfold after Immortal Empires released](https://www.pcgamer.com/total-war-warhammer-3-player-numbers-went-up-tenfold-after-immortal-empires-released)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
