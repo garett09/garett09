@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the clues Apple event names provided in the past, and what &quot;Far Out&quot; might hint at: satellite connectivity, astrophotography mode, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220828/p6#a220828p6)
- - [Nichelle Nichols’ ashes will get sent off to space aboard a Vulcan rocket](https://www.theverge.com/2022/8/28/23325680/nichelle-nichols-star-trek-ashes-space-vulcan-centaur-celestis)
- - [A look at FWB Fest, dubbed the &quot;crypto Woodstock&quot;, attended by Friends With Benefits social club members hoping to change the way people use blockchain tech &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220828/p5#a220828p5)<!-- TECH:END -->
+ - [The Verge staff talk about their favorite backpacks and other bags](https://www.theverge.com/22630435/laptop-bag-messenger-backpack-tote-favorite)
+ - [Best Credit Cards for Good Credit Scores for September 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-good-credit/#ftag=CAD590a51e)
+ - [A look at the clues Apple event invites provided in the past, and what &quot;Far Out&quot; might hint at: satellite connectivity, astrophotography mode, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220828/p6#a220828p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
