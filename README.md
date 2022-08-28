@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of launch of passkeys, which requires users to have two-factor authentication, Apple says 95%+ of active iCloud users have 2FA enabled on their accounts &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220827/p11#a220827p11)
- - [Best 2-in-1 Laptop for 2022     - CNET](https://www.cnet.com/tech/computing/best-2-in-1-laptop/#ftag=CAD590a51e)
- - [How to use Shared with You on iOS 15](https://appleinsider.com/articles/21/08/05/how-to-use-shared-with-you-on-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Prey&#39; Ending and Cool Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-cool-post-credits-predator-tease-explained/#ftag=CAD590a51e)
+ - [Facebook Parent Meta to Settle Cambridge Analytica Lawsuit     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-to-settle-cambridge-analytica-lawsuit/#ftag=CAD590a51e)
+ - [Ahead of launch of passkeys, which requires users to have two-factor authentication, Apple says 95%+ of active iCloud users have 2FA enabled on their accounts &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220827/p11#a220827p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
