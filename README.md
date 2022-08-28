@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Three-City Problem of Modern Life](https://www.wired.com/story/technology-philosophy-three-city-problem/)
- - [How to Use YouTube Music’s Offline Mixtape](https://www.wired.com/story/youtube-music-offline-mixtape/)
- - [The bubble that Masayoshi Son blamed for SoftBank&#39;s $23B loss last quarter is one that he helped create through Vision Fund, which distorted the VC market &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220828/p3#a220828p3)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 review: A 12L-evated experience](https://www.androidauthority.com/samsung-galaxy-z-fold-4-review-3200207/)
+ - [Crime blotter: 24 months for iPhone fraud conspirator](https://appleinsider.com/articles/22/08/28/crime-blotter-24-months-for-iphone-fraud-conspirator?utm_medium=rss)
+ - [How the Physics of Nothing Underlies Everything](https://www.wired.com/story/how-the-physics-of-nothing-underlies-everything/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
