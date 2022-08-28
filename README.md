@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell says it ceased all Russian operations after closing its offices in mid-August; it had suspended sales in Russia, Belarus, and parts of Ukraine in February &lpar;Reuters&rpar;](http://www.techmeme.com/220827/p12#a220827p12)
  - [&#39;Prey&#39; Ending and Cool Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-cool-post-credits-predator-tease-explained/#ftag=CAD590a51e)
- - [Facebook Parent Meta to Settle Cambridge Analytica Lawsuit     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-to-settle-cambridge-analytica-lawsuit/#ftag=CAD590a51e)
- - [Ahead of launch of passkeys, which requires users to have two-factor authentication, Apple says 95%+ of active iCloud users have 2FA enabled on their accounts &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220827/p11#a220827p11)<!-- TECH:END -->
+ - [Facebook Parent Meta to Settle Cambridge Analytica Lawsuit     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-to-settle-cambridge-analytica-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
