@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alonso grilling Hamilton LOL](http://9gag.com/gag/aAGW7YZ)
+ - 🚖 [Dang, Disney!](http://9gag.com/gag/ay9grA8)
  - 🚯 [Mental health issues](http://9gag.com/gag/aqG3MLM)
  - 🚯 [Still sends shivers down my spine](http://9gag.com/gag/aE8rbrO)<!-- MEMES:END -->
 
