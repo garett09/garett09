@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer&#39;s best friend](http://9gag.com/gag/angpWwo)
- - 🚯 [Now I&#39;m sad](http://9gag.com/gag/a21Bjqe)
- - 🚯 [Based kid](http://9gag.com/gag/aM4RWbR)<!-- MEMES:END -->
+ - 🚖 [Now I&#39;m sad](http://9gag.com/gag/a21Bjqe)
+ - 🚯 [Whell, this is a problem....](http://9gag.com/gag/aggMZBW)
+ - 🚯 [Farmer&#39;s best friend](http://9gag.com/gag/angpWwo)<!-- MEMES:END -->
 
 --- 
 
