@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at FWB Fest, dubbed the &quot;crypto Woodstock&quot;, attended by Friends With Benefits social club members hoping to change the way people use blockchain tech &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220828/p5#a220828p5)
- - [The M1 model might be a better deal, but the MacBook Air M2 is the better laptop](https://www.androidauthority.com/apple-macbook-air-m2-review-3198914/)
- - [Why Apple&#39;s iPhone 14 Pro Max May Be a Tough Sell     - CNET](https://www.cnet.com/tech/mobile/why-apples-iphone-14-pro-max-may-be-a-tough-sell/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the clues Apple event names provided in the past, and what &quot;Far Out&quot; might hint at: satellite connectivity, astrophotography mode, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220828/p6#a220828p6)
+ - [Nichelle Nichols’ ashes will get sent off to space aboard a Vulcan rocket](https://www.theverge.com/2022/8/28/23325680/nichelle-nichols-star-trek-ashes-space-vulcan-centaur-celestis)
+ - [A look at FWB Fest, dubbed the &quot;crypto Woodstock&quot;, attended by Friends With Benefits social club members hoping to change the way people use blockchain tech &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220828/p5#a220828p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
