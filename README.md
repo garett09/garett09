@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Expansion full of bees and mini-golf coming to Nobody Saves the World](https://www.pcgamer.com/expansion-full-of-bees-and-mini-golf-coming-to-nobody-saves-the-world)
- - [Review: Sword and Fairy: Together Forever](https://game-rant-2022.blogspot.com/2022/08/review-sword-and-fairy-together-forever.html)
- - [Here&#39;s gameplay from that goofy physics-based Mars delivery robot simulator](https://www.pcgamer.com/heres-gameplay-from-that-goofy-physics-based-mars-delivery-robot-simulator)<!-- GAME:END -->
+ - [9 apps and websites you can use to download games](https://game-rant-2022.blogspot.com/2022/08/9-apps-and-websites-you-can-use-to.html)
+ - [Spider-Man Fan Adds Neversoft&#39;s PS1 Model To The Game](https://game-rant-2022.blogspot.com/2022/08/spider-man-fan-adds-neversofts-ps1.html)
+ - [Amid much confusion, Hogwarts Legacy is trying to calm fans down regarding pre-orders](https://game-rant-2022.blogspot.com/2022/08/amid-much-confusion-hogwarts-legacy-is.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
