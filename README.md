@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 435 answer and hint: Sunday, August 28](https://www.pcgamer.com/todays-wordle-435-answer-hint)
- - [Total War: Warhammer 3 player numbers went up tenfold after Immortal Empires released](https://www.pcgamer.com/total-war-warhammer-3-player-numbers-went-up-tenfold-after-immortal-empires-released)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Best Android Card Game 2022: TCGs and More](https://game-rant-2022.blogspot.com/2022/08/best-android-card-game-2022-tcgs-and.html)
+ - [Human-level AI is a huge risk.  Why do we entrust its development to tech CEOs?](https://game-rant-2022.blogspot.com/2022/08/human-level-ai-is-huge-risk-why-do-we.html)
+ - [Most Frustrating Missions in the Grand Theft Auto Franchise](https://game-rant-2022.blogspot.com/2022/08/most-frustrating-missions-in-grand.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
