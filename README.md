@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LA RUMBA !](http://9gag.com/gag/aRr58Qq)
- - 🚯 [Good luck](http://9gag.com/gag/aegoyqv)
- - 🚯 [Who needs a bus when you can have a bike!](http://9gag.com/gag/azeNvEK)<!-- MEMES:END -->
+ - 🚖 [Johnny Cash - Hurt](http://9gag.com/gag/aBnqbZZ)
+ - 🚯 [Who needs a bus when you can have a bike!](http://9gag.com/gag/azeNvEK)
+ - 🚯 [Do i look like a fking clown to you?](http://9gag.com/gag/aBnqbRx)<!-- MEMES:END -->
 
 --- 
 
