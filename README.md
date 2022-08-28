@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get merchandise for Ted Lasso, For All Mankind &amp; other Apple TV+ shows](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-get-merchandise-for-ted-lasso-for-all-mankind-other-apple-tv-shows?utm_medium=rss)
- - [Apple applies for more &#39;Reality&#39; trademarks for AR, VR headset](https://appleinsider.com/articles/22/08/28/apple-applies-for-more-reality-trademarks-for-ar-vr-headset?utm_medium=rss)
- - [Best Car Wash Sponges for 2022     - CNET](https://www.cnet.com/roadshow/news/best-car-wash-sponge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trademark filings point to ‘Reality’ branding for Apple’s mixed reality headset](https://www.theverge.com/2022/8/28/23326041/apple-trademark-filings-reality-branding-virtual-ar-vr-mixed-headset)
+ - [Apple Is Reserving Names for AR Headset, Trademarks Filings Suggest     - CNET](https://www.cnet.com/tech/mobile/apple-is-reserving-names-for-ar-headset-trademarks-filings-suggest/#ftag=CAD590a51e)
+ - [Best Wheel Brush for 2022     - CNET](https://www.cnet.com/roadshow/news/best-wheel-brush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
