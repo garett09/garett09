@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now I&#39;m sad](http://9gag.com/gag/a21Bjqe)
- - 🚯 [Whell, this is a problem....](http://9gag.com/gag/aggMZBW)
- - 🚯 [Farmer&#39;s best friend](http://9gag.com/gag/angpWwo)<!-- MEMES:END -->
+ - 🚖 [Very true](http://9gag.com/gag/aM4RDdA)
+ - 🚯 [This is pleasant](http://9gag.com/gag/aQXwBeq)
+ - 🚯 [700% bigger flood in Pakistan this year. Dam opened and this happened](http://9gag.com/gag/aegodLp)<!-- MEMES:END -->
 
 --- 
 
