@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to get merchandise for Ted Lasso, For All Mankind &amp; other Apple TV+ shows](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-get-merchandise-for-ted-lasso-for-all-mankind-other-apple-tv-shows?utm_medium=rss)
  - [Apple applies for more &#39;Reality&#39; trademarks for AR, VR headset](https://appleinsider.com/articles/22/08/28/apple-applies-for-more-reality-trademarks-for-ar-vr-headset?utm_medium=rss)
- - [Trademark filings suggest Apple is considering the names Reality One, Reality Pro for its mixed-reality headset, and Reality Processor for the chip in the set &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220828/p8#a220828p8)
- - [Best Screwdriver Sets for 2022     - CNET](https://www.cnet.com/roadshow/news/best-screwdriver-set/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Car Wash Sponges for 2022     - CNET](https://www.cnet.com/roadshow/news/best-car-wash-sponge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
