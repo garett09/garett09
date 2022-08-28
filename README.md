@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 apps and websites you can use to download games](https://game-rant-2022.blogspot.com/2022/08/9-apps-and-websites-you-can-use-to.html)
- - [Spider-Man Fan Adds Neversoft&#39;s PS1 Model To The Game](https://game-rant-2022.blogspot.com/2022/08/spider-man-fan-adds-neversofts-ps1.html)
- - [Amid much confusion, Hogwarts Legacy is trying to calm fans down regarding pre-orders](https://game-rant-2022.blogspot.com/2022/08/amid-much-confusion-hogwarts-legacy-is.html)<!-- GAME:END -->
+ - [Sony shares data on PS5 and PS4 users&#39; habits on free-to-play, multiplayer, DLC, physical vs digital and more](https://game-rant-2022.blogspot.com/2022/08/sony-shares-data-on-ps5-and-ps4-users.html)
+ - [Soul Hackers 2 Review - Cheating Death with Soul Hack](https://game-rant-2022.blogspot.com/2022/08/soul-hackers-2-review-cheating-death.html)
+ - [The most iconic gaming henchmen ever](https://game-rant-2022.blogspot.com/2022/08/the-most-iconic-gaming-henchmen-ever.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
