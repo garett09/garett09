@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What you need to know for 2022](https://game-rant-2022.blogspot.com/2022/08/what-you-need-to-know-for-2022.html)
- - [7 Humble Games titles to launch on Game Pass Day 1](https://game-rant-2022.blogspot.com/2022/08/7-humble-games-titles-to-launch-on-game.html)
- - [5 horror movies set in prisons](https://game-rant-2022.blogspot.com/2022/08/5-horror-movies-set-in-prisons.html)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Cyberpunk RPG platformer Dex is free on GOG for a limited time](https://www.pcgamer.com/cyberpunk-rpg-platformer-dex-is-free-on-gog-for-a-limited-time)
+ - [BC Lions fall for Saskatchewan Roughriders](https://game-rant-2022.blogspot.com/2022/08/bc-lions-fall-for-saskatchewan.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
