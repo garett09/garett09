@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Video Game Characters With French Accents](https://game-rant-2022.blogspot.com/2022/08/best-video-game-characters-with-french.html)
- - [How long do you spend in character creators?](https://game-rant-2022.blogspot.com/2022/08/how-long-do-you-spend-in-character.html)
- - [Microsoft Weekly: Windows 11 secrets, MFA exploits and ad infestations](https://game-rant-2022.blogspot.com/2022/08/microsoft-weekly-windows-11-secrets-mfa.html)<!-- GAME:END -->
+ - [What you need to know for 2022](https://game-rant-2022.blogspot.com/2022/08/what-you-need-to-know-for-2022.html)
+ - [7 Humble Games titles to launch on Game Pass Day 1](https://game-rant-2022.blogspot.com/2022/08/7-humble-games-titles-to-launch-on-game.html)
+ - [5 horror movies set in prisons](https://game-rant-2022.blogspot.com/2022/08/5-horror-movies-set-in-prisons.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
