@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)
- - 🚯 [Greeeeeeeece](http://9gag.com/gag/aGz3qLn)
- - 🚯 [Amen](http://9gag.com/gag/ajgbjqR)<!-- MEMES:END -->
+ - 🚖 [Alonso grilling Hamilton LOL](http://9gag.com/gag/aAGW7YZ)
+ - 🚯 [Mental health issues](http://9gag.com/gag/aqG3MLM)
+ - 🚯 [Still sends shivers down my spine](http://9gag.com/gag/aE8rbrO)<!-- MEMES:END -->
 
 --- 
 
