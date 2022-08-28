@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Disney Magic is Abundant](https://game-rant-2022.blogspot.com/2022/08/the-disney-magic-is-abundant.html)
- - [Total War: Warhammer 3 player numbers went up tenfold after Immortal Empires released](https://www.pcgamer.com/total-war-warhammer-3-player-numbers-went-up-tenfold-after-immortal-empires-released)
- - [10 Must-Play Video Games For Prey Fans &lpar;2022&rpar;](https://game-rant-2022.blogspot.com/2022/08/10-must-play-video-games-for-prey-fans.html)<!-- GAME:END -->
+ - [Scott Parker and Bournemouth &#39;shocked&#39; after Liverpool&#39;s 9-0 loss |  Liverpool and more latest news here](https://game-rant-2022.blogspot.com/2022/08/scott-parker-and-bournemouth-shocked.html)
+ - [After &#39;Three Thousand Years of Desire&#39;, Idris Elba has stories to tell](https://game-rant-2022.blogspot.com/2022/08/after-three-thousand-years-of-desire.html)
+ - [8 BEST Soul Hackers 2 Foods: Improvements &amp; Debuffs](https://game-rant-2022.blogspot.com/2022/08/8-best-soul-hackers-2-foods.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
