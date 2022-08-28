@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The reality](http://9gag.com/gag/adgZWwj)
- - 🚯 [Greeeeeeeece](http://9gag.com/gag/aGz3qLn)
+ - 🚖 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)
+ - 🚯 [My 3\u20ac bargain from the flea market. Even with the original recipe. 3 Cds, a map and a nicely designed user manual instead of a code for crappy online stuff.](http://9gag.com/gag/aggMpPx)
  - 🚯 [Taken from a fishing boat in Antarctica](http://9gag.com/gag/aAGW7dd)<!-- MEMES:END -->
 
 --- 
