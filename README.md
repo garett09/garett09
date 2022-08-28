@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)
- - 🚯 [My 3\u20ac bargain from the flea market. Even with the original recipe. 3 Cds, a map and a nicely designed user manual instead of a code for crappy online stuff.](http://9gag.com/gag/aggMpPx)
- - 🚯 [Taken from a fishing boat in Antarctica](http://9gag.com/gag/aAGW7dd)<!-- MEMES:END -->
+ - 🚖 [Taken from a fishing boat in Antarctica](http://9gag.com/gag/aAGW7dd)
+ - 🚯 [Euro to the Dollar nearing 30-year lows. Imagine knowing what could cause that.](http://9gag.com/gag/aGz3qrw)
+ - 🚯 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)<!-- MEMES:END -->
 
 --- 
 
