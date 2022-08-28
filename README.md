@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now I&#39;m sad](http://9gag.com/gag/a21Bjqe)
- - 🚯 [This is gold](http://9gag.com/gag/a61v8W8)
- - 🚯 [Me too buddy, me too](http://9gag.com/gag/angpWY0)<!-- MEMES:END -->
+ - 🚖 [Me too buddy, me too](http://9gag.com/gag/angpWY0)
+ - 🚯 [Smart move](http://9gag.com/gag/aggMZpv)
+ - 🚯 [This Jamie Foxx impression of Trump is the best I&#39;ve heard so far](http://9gag.com/gag/azeNBDN)<!-- MEMES:END -->
 
 --- 
 
