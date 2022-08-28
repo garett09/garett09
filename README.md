@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well at least he is not black](http://9gag.com/gag/aAGWNL0)
+ - 🚖 [Very true](http://9gag.com/gag/aM4RDdA)
  - 🚯 [I think I&#39;m very clear in what am asking...kills me every time.](http://9gag.com/gag/aqG3BGZ)
- - 🚯 [Smart move](http://9gag.com/gag/aggMZpv)<!-- MEMES:END -->
+ - 🚯 [Cat enjoying lunch](http://9gag.com/gag/aAGWqd9)<!-- MEMES:END -->
 
 --- 
 
