@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use the Emergency SOS Feature on Your Smartphone](https://www.wired.com/story/how-to-use-emergency-sos-smartphone/)
- - [SwitchBot Lock review: a tiny robot hand that unlocks your door](https://www.theverge.com/23323597/switchbot-lock-review-smart-door-lock)
- - [Daily deals Aug. 28: $160 off Apple Watch Series 7, $1,500 off 85-inch Samsung QLED TV, $200 Anker 521 Power Station, more!](https://appleinsider.com/articles/22/08/28/daily-deals-aug-28-160-off-apple-watch-series-7-1500-off-85-inch-samsung-qled-tv-200-anker-521-power-station-more?utm_medium=rss)<!-- TECH:END -->
+ - [Turn that old iPod wireless with these ingenious earbuds](https://www.androidauthority.com/lg-tone-free-fp9-3200736/)
+ - [Ampere: Apple TV+, Amazon Prime, Disney+, HBO Max, and Netflix will spend $23B+ in 2023 on original content, up 10% YoY and more than twice the spending of 2019 &lpar;Financial Times&rpar;](http://www.techmeme.com/220828/p4#a220828p4)
+ - [WNBA Playoffs 2022: How to Watch Game 1 of Storm vs. Aces, Sun vs. Sky Tonight     - CNET](https://www.cnet.com/tech/services-and-software/wnba-playoffs-2022-how-to-watch-game-1-of-storm-vs-aces-sun-vs-sky-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
