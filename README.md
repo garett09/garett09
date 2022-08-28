@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very true](http://9gag.com/gag/aM4RDdA)
- - 🚯 [I think I&#39;m very clear in what am asking...kills me every time.](http://9gag.com/gag/aqG3BGZ)
- - 🚯 [Cat enjoying lunch](http://9gag.com/gag/aAGWqd9)<!-- MEMES:END -->
+ - 🚖 [I think I&#39;m very clear in what am asking...kills me every time.](http://9gag.com/gag/aqG3BGZ)
+ - 🚯 [Finally found a place to stay after much time.Been living homeless. Hooe to find a job and thus can hv good meals.One step at a time :&rpar;](http://9gag.com/gag/aNPx2E3)
+ - 🚯 [Good luck](http://9gag.com/gag/aegoyqv)<!-- MEMES:END -->
 
 --- 
 
