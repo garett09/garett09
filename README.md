@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This should be interesting](http://9gag.com/gag/a41e8Mm)
- - 🚯 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)
- - 🚯 [Greeeeeeeece](http://9gag.com/gag/aGz3qLn)<!-- MEMES:END -->
+ - 🚖 [How to clean sand from your car](http://9gag.com/gag/azeNzDN)
+ - 🚯 [Greeeeeeeece](http://9gag.com/gag/aGz3qLn)
+ - 🚯 [Amen](http://9gag.com/gag/ajgbjqR)<!-- MEMES:END -->
 
 --- 
 
