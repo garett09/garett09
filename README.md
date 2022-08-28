@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: The 28 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-28-absolute-best-films-to-stream-now/#ftag=CAD590a51e)
- - [Best Balance Transfer Credit Cards for September 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)
- - [Profile of Kim Choong-Ki, a professor at the Korea Advanced Institute of Science and Technology, who is revered as the godfather of South Korea&#39;s chip industry &lpar;Dong-Won Kim/IEEE Spectrum&rpar;](http://www.techmeme.com/220828/p7#a220828p7)<!-- TECH:END -->
+ - [Apple applies for more &#39;Reality&#39; trademarks for AR, VR headset](https://appleinsider.com/articles/22/08/28/apple-applies-for-more-reality-trademarks-for-ar-vr-headset?utm_medium=rss)
+ - [Trademark filings suggest Apple is considering the names Reality One, Reality Pro for its mixed-reality headset, and Reality Processor for the chip in the set &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220828/p8#a220828p8)
+ - [Best Screwdriver Sets for 2022     - CNET](https://www.cnet.com/roadshow/news/best-screwdriver-set/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
