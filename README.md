@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sleep is key](http://9gag.com/gag/aogrdR0)
- - 🚯 [You won&#39;t](http://9gag.com/gag/aegodMm)
- - 🚯 [Males are more attractive](http://9gag.com/gag/a0ZAxZO)<!-- MEMES:END -->
+ - 🚖 [Now I&#39;m sad](http://9gag.com/gag/a21Bjqe)
+ - 🚯 [This is gold](http://9gag.com/gag/a61v8W8)
+ - 🚯 [Me too buddy, me too](http://9gag.com/gag/angpWY0)<!-- MEMES:END -->
 
 --- 
 
