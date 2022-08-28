@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s gameplay from that goofy physics-based Mars delivery robot simulator](https://www.pcgamer.com/heres-gameplay-from-that-goofy-physics-based-mars-delivery-robot-simulator)
  - [Twin Peaks: Fire Walk With Me finally has the reputation it deserved](https://www.polygon.com/23298759/twin-peaks-movie-fire-walk-with-me-anniversary-criterion)
- - [Battlefront&#39;s Galactic Conquest Deserves Its Own Game](https://game-rant-2022.blogspot.com/2022/08/battlefronts-galactic-conquest-deserves.html)
- - [Things the game needs to get out of San Andreas](https://game-rant-2022.blogspot.com/2022/08/things-game-needs-to-get-out-of-san.html)<!-- GAME:END -->
+ - [Battlefront&#39;s Galactic Conquest Deserves Its Own Game](https://game-rant-2022.blogspot.com/2022/08/battlefronts-galactic-conquest-deserves.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
