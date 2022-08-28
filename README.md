@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony shares data on PS5 and PS4 users&#39; habits on free-to-play, multiplayer, DLC, physical vs digital and more](https://game-rant-2022.blogspot.com/2022/08/sony-shares-data-on-ps5-and-ps4-users.html)
- - [Soul Hackers 2 Review - Cheating Death with Soul Hack](https://game-rant-2022.blogspot.com/2022/08/soul-hackers-2-review-cheating-death.html)
- - [The most iconic gaming henchmen ever](https://game-rant-2022.blogspot.com/2022/08/the-most-iconic-gaming-henchmen-ever.html)<!-- GAME:END -->
+ - [Fortnite is doing an &#39;I Have a Dream&#39; anniversary event, again](https://www.pcgamer.com/fortnite-is-doing-an-i-have-a-dream-anniversary-event-again)
+ - [An extremely loud bug is jumpscaring the snot out of Destiny players](https://www.pcgamer.com/an-extremely-loud-bug-is-jumpscaring-the-snot-out-of-destiny-players)
+ - [Sony shares data on PS5 and PS4 users&#39; habits on free-to-play, multiplayer, DLC, physical vs digital and more](https://game-rant-2022.blogspot.com/2022/08/sony-shares-data-on-ps5-and-ps4-users.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
