@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Me too buddy, me too](http://9gag.com/gag/angpWY0)
- - 🚯 [Smart move](http://9gag.com/gag/aggMZpv)
- - 🚯 [This Jamie Foxx impression of Trump is the best I&#39;ve heard so far](http://9gag.com/gag/azeNBDN)<!-- MEMES:END -->
+ - 🚯 [This Jamie Foxx impression of Trump is the best I&#39;ve heard so far](http://9gag.com/gag/azeNBDN)
+ - 🚯 [Whell, this is a problem....](http://9gag.com/gag/aggMZBW)<!-- MEMES:END -->
 
 --- 
 
