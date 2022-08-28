@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dang, Disney!](http://9gag.com/gag/ay9grA8)
- - 🚯 [Mental health issues](http://9gag.com/gag/aqG3MLM)
- - 🚯 [Still sends shivers down my spine](http://9gag.com/gag/aE8rbrO)<!-- MEMES:END -->
+ - 🚖 [Routine, repeated repeatedly](http://9gag.com/gag/amgjwLo)
+ - 🚯 [Scots burn electricity bills outside Glasgow energy regulator headquarters: `We don&#39;t pay!`](http://9gag.com/gag/ajgbj91)
+ - 🚯 [Jeez you cant do that in a country without healthcare](http://9gag.com/gag/a81PNZp)<!-- MEMES:END -->
 
 --- 
 
