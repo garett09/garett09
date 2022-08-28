@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge staff talk about their favorite backpacks and other bags](https://www.theverge.com/22630435/laptop-bag-messenger-backpack-tote-favorite)
- - [Best Credit Cards for Good Credit Scores for September 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-good-credit/#ftag=CAD590a51e)
- - [A look at the clues Apple event invites provided in the past, and what &quot;Far Out&quot; might hint at: satellite connectivity, astrophotography mode, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220828/p6#a220828p6)<!-- TECH:END -->
+ - [7 shows like Manifest to watch before the fourth season drops on Netflix Nov. 4](https://www.androidauthority.com/shows-like-manifest-3201280/)
+ - [MacBook Pro price war: $400 off 14-inch &amp; 16-inch models, 13-inch prices as low as $899](https://appleinsider.com/articles/22/08/28/macbook-pro-price-war-400-off-14-inch-16-inch-models-13-inch-prices-as-low-as-899?utm_medium=rss)
+ - [The Verge staff talk about their favorite backpacks and other bags](https://www.theverge.com/22630435/laptop-bag-messenger-backpack-tote-favorite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
