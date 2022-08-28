@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Android Card Game 2022: TCGs and More](https://game-rant-2022.blogspot.com/2022/08/best-android-card-game-2022-tcgs-and.html)
- - [Human-level AI is a huge risk.  Why do we entrust its development to tech CEOs?](https://game-rant-2022.blogspot.com/2022/08/human-level-ai-is-huge-risk-why-do-we.html)
- - [Most Frustrating Missions in the Grand Theft Auto Franchise](https://game-rant-2022.blogspot.com/2022/08/most-frustrating-missions-in-grand.html)<!-- GAME:END -->
+ - [Games are beginning to understand that wild animals are more than hunting](https://game-rant-2022.blogspot.com/2022/08/games-are-beginning-to-understand-that.html)
+ - [The Best Modern Neo-Noir Movies &lpar;and Where to Watch Them&rpar;](https://game-rant-2022.blogspot.com/2022/08/the-best-modern-neo-noir-movies-and.html)
+ - [The purchase of the Xbox 7 is the last mistake for the Sony and the PlayStation Readers Feature](https://game-rant-2022.blogspot.com/2022/08/the-purchase-of-xbox-7-is-last-mistake.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
