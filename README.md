@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mobile commerce, one-click checkouts, and short-form video have enabled &quot;drops&quot; to spread beyond the fashion world, turning product launches into marquee events &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220828/p2#a220828p2)
  - [Tribune Publishing says disabling Google&#39;s AMP led to very little impact on mobile search referrals, as year-long drops mostly aligned to broader search trends &lpar;Kurt Gessler&rpar;](http://www.techmeme.com/220828/p1#a220828p1)
- - [Dell says it ceased all Russian operations after closing its offices in mid-August; it had suspended sales in Russia, Belarus, and parts of Ukraine in February &lpar;Reuters&rpar;](http://www.techmeme.com/220827/p12#a220827p12)
- - [&#39;Prey&#39; Ending and Cool Post-Credits Predator Tease Explained     - CNET](https://www.cnet.com/culture/entertainment/prey-ending-and-cool-post-credits-predator-tease-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dell says it ceased all Russian operations after closing its offices in mid-August; it had suspended sales in Russia, Belarus, and parts of Ukraine in February &lpar;Reuters&rpar;](http://www.techmeme.com/220827/p12#a220827p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
