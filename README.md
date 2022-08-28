@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The bubble that Masayoshi Son blamed for SoftBank&#39;s $23B loss last quarter is one that he helped create through Vision Fund, which distorted the VC market &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220828/p3#a220828p3)
  - [Mobile commerce, one-click checkouts, and short-form video have enabled &quot;drops&quot; to spread beyond the fashion world, turning product launches into marquee events &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220828/p2#a220828p2)
- - [Formula 1 2022: How to Watch the Belgian Grand Prix Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-belgian-grand-prix-today/#ftag=CAD590a51e)
- - [Tribune Publishing says disabling Google&#39;s AMP led to very little impact on mobile search referrals, as year-long drops mostly aligned to broader search trends &lpar;Kurt Gessler&rpar;](http://www.techmeme.com/220828/p1#a220828p1)<!-- TECH:END -->
+ - [Formula 1 2022: How to Watch the Belgian Grand Prix Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-belgian-grand-prix-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
