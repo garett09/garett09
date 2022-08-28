@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny Cash - Hurt](http://9gag.com/gag/aBnqbZZ)
- - 🚯 [Who needs a bus when you can have a bike!](http://9gag.com/gag/azeNvEK)
- - 🚯 [Do i look like a fking clown to you?](http://9gag.com/gag/aBnqbRx)<!-- MEMES:END -->
+ - 🚖 [Who needs a bus when you can have a bike!](http://9gag.com/gag/azeNvEK)
+ - 🚯 [Facts to your face](http://9gag.com/gag/aDDpqqB)
+ - 🚯 [Difficult choice](http://9gag.com/gag/aZrAoR3)<!-- MEMES:END -->
 
 --- 
 
