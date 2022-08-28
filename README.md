@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who needs a bus when you can have a bike!](http://9gag.com/gag/azeNvEK)
- - 🚯 [Facts to your face](http://9gag.com/gag/aDDpqqB)
- - 🚯 [Difficult choice](http://9gag.com/gag/aZrAoR3)<!-- MEMES:END -->
+ - 🚖 [The reality](http://9gag.com/gag/adgZWwj)
+ - 🚯 [Greeeeeeeece](http://9gag.com/gag/aGz3qLn)
+ - 🚯 [Taken from a fishing boat in Antarctica](http://9gag.com/gag/aAGW7dd)<!-- MEMES:END -->
 
 --- 
 
