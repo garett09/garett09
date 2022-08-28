@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very true](http://9gag.com/gag/aM4RDdA)
- - 🚯 [This is pleasant](http://9gag.com/gag/aQXwBeq)
- - 🚯 [700% bigger flood in Pakistan this year. Dam opened and this happened](http://9gag.com/gag/aegodLp)<!-- MEMES:END -->
+ - 🚖 [Well at least he is not black](http://9gag.com/gag/aAGWNL0)
+ - 🚯 [I think I&#39;m very clear in what am asking...kills me every time.](http://9gag.com/gag/aqG3BGZ)
+ - 🚯 [Smart move](http://9gag.com/gag/aggMZpv)<!-- MEMES:END -->
 
 --- 
 
