@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Cyberpunk RPG platformer Dex is free on GOG for a limited time](https://www.pcgamer.com/cyberpunk-rpg-platformer-dex-is-free-on-gog-for-a-limited-time)
- - [BC Lions fall for Saskatchewan Roughriders](https://game-rant-2022.blogspot.com/2022/08/bc-lions-fall-for-saskatchewan.html)<!-- GAME:END -->
+ - [The Disney Magic is Abundant](https://game-rant-2022.blogspot.com/2022/08/the-disney-magic-is-abundant.html)
+ - [Total War: Warhammer 3 player numbers went up tenfold after Immortal Empires released](https://www.pcgamer.com/total-war-warhammer-3-player-numbers-went-up-tenfold-after-immortal-empires-released)
+ - [10 Must-Play Video Games For Prey Fans &lpar;2022&rpar;](https://game-rant-2022.blogspot.com/2022/08/10-must-play-video-games-for-prey-fans.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
