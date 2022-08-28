@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turn that old iPod wireless with these ingenious earbuds](https://www.androidauthority.com/lg-tone-free-fp9-3200736/)
- - [Ampere: Apple TV+, Amazon Prime, Disney+, HBO Max, and Netflix will spend $23B+ in 2023 on original content, up 10% YoY and more than twice the spending of 2019 &lpar;Financial Times&rpar;](http://www.techmeme.com/220828/p4#a220828p4)
- - [WNBA Playoffs 2022: How to Watch Game 1 of Storm vs. Aces, Sun vs. Sky Tonight     - CNET](https://www.cnet.com/tech/services-and-software/wnba-playoffs-2022-how-to-watch-game-1-of-storm-vs-aces-sun-vs-sky-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Meet is stealing Zoom’s trick to easily unmute](https://www.theverge.com/2022/8/28/23325575/google-meet-stealing-zoom-trick-easily-unmute-push-to-talk)
+ - [How to get merchandise for Ted Lasso, For All Mankind &amp; other Apple TV+ shows](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-get-merchandise-for-ted-lasso-for-all-mankind-other-apple-tv-shows?utm_medium=rss)
+ - [Turn that old iPod wireless with these ingenious earbuds](https://www.androidauthority.com/lg-tone-free-fp9-3200736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
