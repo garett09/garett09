@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NBC launches &#39;Dateline Premium&#39; true crime series on Apple Podcasts](https://appleinsider.com/articles/22/08/29/nbc-launches-dateline-premium-true-crime-series-on-apple-podcasts?utm_medium=rss)
- - [MacBook Pro price war: $400 off 14-inch &amp; 16-inch models, 13-inch prices as low as $949](https://appleinsider.com/articles/22/08/28/macbook-pro-price-war-400-off-14-inch-16-inch-models-13-inch-prices-as-low-as-899?utm_medium=rss)
- - [The best Samsung Galaxy Z Fold 4 cases](https://www.androidauthority.com/best-samsung-galaxy-z-fold-4-cases-3194634/)<!-- TECH:END -->
+ - [iPhone 14 may gain 30W fast charging](https://appleinsider.com/articles/22/08/29/iphone-14-may-gain-30w-fast-charging?utm_medium=rss)
+ - [T-Mobile will give away full Apple TV Plus subscription to certain subscribers](https://www.androidauthority.com/t-mobile-apple-tv-plus-3201874/)
+ - [Apple Watch Pro may be incompatible with older Watch bands](https://appleinsider.com/articles/22/08/29/apple-watch-pro-may-be-incompatible-with-older-watch-bands?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
