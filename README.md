@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I hope Ravenbound actually pulls off its open world roguelite mashup](https://www.pcgamer.com/i-hope-ravenbound-actually-pulls-off-its-open-world-roguelite-mashup)
- - [Every George Miller movie is a Mad Max movie](https://www.polygon.com/23321917/george-miller-mad-max-three-thousand-years-of-longing)
- - [Clean up the streets and grab some new clients as Saul Goodman in this Marvel&#39;s Spider-Man mod](https://www.pcgamer.com/clean-up-the-streets-and-grab-some-new-clients-as-saul-goodman-in-this-marvels-spider-man-mod)<!-- GAME:END -->
+ - [Diablo Immortal&#39;s Legendary Crests are being redesigned](https://www.pcgamer.com/diablo-immortals-legendary-crests-are-being-redesigned)
+ - [All the houses in House of the Dragon — and the characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)
+ - [I hope Ravenbound actually pulls off its open world roguelite mashup](https://www.pcgamer.com/i-hope-ravenbound-actually-pulls-off-its-open-world-roguelite-mashup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
