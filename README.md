@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon takes cues from Cloverfield in these great found-footage horror shorts](https://www.polygon.com/23326929/pokemon-go-ultra-beast-horror-shorts)
- - [Rebuilding The Last of Us Part I: A deep dive into combat, animation, audio and visual changes with Naughty Dog](https://blog.playstation.com/2022/08/29/rebuilding-the-last-of-us-part-i-a-deep-dive-into-combat-animation-audio-and-visual-changes-with-naughty-dog/)
- - [After Years Of Disappointment, Pokémon Go Fest Finally Gave Me The Magic I&#39;ve Been Missing](https://kotaku.com/pokemon-go-fest-2022-niantic-pheromosa-buzzwole-1849468616)<!-- GAME:END -->
+ - [The Weird Al biopic appropriately spoofs real music biopics](https://www.polygon.com/23326987/weird-al-movie-biopic-parody-yankovic-streaming-roku)
+ - [All-women speedrunning event Flame Fatales raises $135K for charity](https://www.pcgamer.com/all-women-speedrunning-event-flame-fatales-raises-dollar135k-for-charity)
+ - [Dwarf Fortress&#39; Steam release is coming &#39;sooner than you might think&#39;](https://www.pcgamer.com/dwarf-fortress-steam-release-is-coming-sooner-than-you-might-think)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
