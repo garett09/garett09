@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Twitter whistleblower just got a subpoena from Elon Musk](https://www.theverge.com/2022/8/29/23327036/elon-musk-zatko-mudge-subpoena-twitter-trial-documents-bots)
- - [Conflicting rumors say Apple Watch Pro may be incompatible with older bands](https://appleinsider.com/articles/22/08/29/apple-watch-pro-may-be-incompatible-with-older-watch-bands?utm_medium=rss)
- - [Snapchat rolls out its BeReal-esque dual camera feature](https://www.theverge.com/2022/8/29/23326795/snapchat-dual-camera-mode-bereal)<!-- TECH:END -->
+ - [What is an amp, and do you need one?](https://www.androidauthority.com/what-is-an-amp-3193395/)
+ - [T-Mobile Magenta Max now includes Apple TV+ for free](https://appleinsider.com/articles/22/08/29/t-mobile-magenta-max-now-includes-apple-tv-for-free?utm_medium=rss)
+ - [Conflicting rumors battle over Apple Watch Pro band backwards compatibility](https://appleinsider.com/articles/22/08/29/apple-watch-pro-may-be-incompatible-with-older-watch-bands?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
