@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Parkour Parkour](http://9gag.com/gag/aogrvKm)
- - 🚯 [Me: I won\u2018t get in trouble anymore. Me again:](http://9gag.com/gag/ay9gbL8)
- - 🚯 [The price was unnecessary!](http://9gag.com/gag/aggMz8w)<!-- MEMES:END -->
+ - 🚖 [Me: I won\u2018t get in trouble anymore. Me again:](http://9gag.com/gag/ay9gbL8)
+ - 🚯 [Life is hard....](http://9gag.com/gag/aego88p)
+ - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
 
