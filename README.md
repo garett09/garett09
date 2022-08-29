@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clean up the streets and grab some new clients as Saul Goodman in this Marvel&#39;s Spider-Man mod](https://www.pcgamer.com/clean-up-the-streets-and-grab-some-new-clients-as-saul-goodman-in-this-marvels-spider-man-mod)
- - [Classification Society Forced to Release Files on Manhunt&#39;s 2003 Ban](https://game-rant-2022.blogspot.com/2022/08/classification-society-forced-to.html)
- - [BenQ MOBIUZ EX2710U - Best 4K 144Hz Gaming Monitor for Console and PC 2022](https://game-rant-2022.blogspot.com/2022/08/benq-mobiuz-ex2710u-best-4k-144hz.html)<!-- GAME:END -->
+ - [I hope Ravenbound actually pulls off its open world roguelite mashup](https://www.pcgamer.com/i-hope-ravenbound-actually-pulls-off-its-open-world-roguelite-mashup)
+ - [Every George Miller movie is a Mad Max movie](https://www.polygon.com/23321917/george-miller-mad-max-three-thousand-years-of-longing)
+ - [Clean up the streets and grab some new clients as Saul Goodman in this Marvel&#39;s Spider-Man mod](https://www.pcgamer.com/clean-up-the-streets-and-grab-some-new-clients-as-saul-goodman-in-this-marvels-spider-man-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
