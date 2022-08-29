@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you hate what they are doing to Lord of the rings, just cancel your prime subscription on september 2nd. Losing money hurts them the most.](http://9gag.com/gag/aPZNbZP)
- - 🚯 [The price was unnecessary!](http://9gag.com/gag/aggMz8w)
- - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aWgKXyd)<!-- MEMES:END -->
+ - 🚖 [Men, when they receive a compliment](http://9gag.com/gag/aAGWzMp)
+ - 🚯 [After watching Sandman and seeing Death, I can&#39;t help but be reminded of Supernatural&#39;s Death](http://9gag.com/gag/aWgK3DZ)
+ - 🚯 [Life is hard....](http://9gag.com/gag/aego88p)<!-- MEMES:END -->
 
 --- 
 
