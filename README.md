@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unlike DALL-E 2, Stable Diffusion is open source and can run on high-end consumer GPUs, while its CreativeML Open RAIL-M license &quot;strives for&quot; &quot;responsible&quot; use &lpar;Alberto Romero/The Algorithmic Bridge&rpar;](http://www.techmeme.com/220828/p9#a220828p9)
- - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;The Rogue Prince&#39;     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-the-rogue-prince/#ftag=CAD590a51e)
- - [MTV VMAs: Eminem and Snoop Dogg Perform From Bored Ape Metaverse     - CNET](https://www.cnet.com/culture/entertainment/mtv-vmas-eminem-and-snoop-dogg-perform-from-bored-ape-metaverse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapdragon 6 Gen 1 leaks: A big step forward for budget phones?](https://www.androidauthority.com/snapdragon-6-gen-1-leak-3201714/)
+ - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-see-this-week/#ftag=CAD590a51e)
+ - [Unlike DALL-E 2, Stable Diffusion is open source and can run on high-end consumer GPUs, while its CreativeML Open RAIL-M license &quot;strives for&quot; &quot;responsible&quot; use &lpar;Alberto Romero/The Algorithmic Bridge&rpar;](http://www.techmeme.com/220828/p9#a220828p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
