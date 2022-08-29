@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 6 Gen 1 leaks: A big step forward for budget phones?](https://www.androidauthority.com/snapdragon-6-gen-1-leak-3201714/)
- - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-see-this-week/#ftag=CAD590a51e)
- - [Unlike DALL-E 2, Stable Diffusion is open source and can run on high-end consumer GPUs, while its CreativeML Open RAIL-M license &quot;strives for&quot; &quot;responsible&quot; use &lpar;Alberto Romero/The Algorithmic Bridge&rpar;](http://www.techmeme.com/220828/p9#a220828p9)<!-- TECH:END -->
+ - [The next Galaxy S22 series update is all about the camera](https://www.androidauthority.com/galaxy-s22-camera-update-august-3201723/)
+ - [A look at the &quot;Palantir Pack&quot;, a group of Palantir alumni who have founded companies and VC firms like Affirm, Anduril, OpenSea, Handshake, Ironclad, and 8VC &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220829/p1#a220829p1)
+ - [OnePlus 10T gets more improvements in latest update](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
