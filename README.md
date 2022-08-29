@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cleveland Guardians at Seattle Mariners Opportunities, Choices and Predictions](https://game-rant-2022.blogspot.com/2022/08/cleveland-guardians-at-seattle-mariners.html)
- - [10 films with inventive tricks that challenged the cinema as we know it](https://game-rant-2022.blogspot.com/2022/08/10-films-with-inventive-tricks-that.html)
- - [Seemingly small decisions that affect the end of a game](https://game-rant-2022.blogspot.com/2022/08/seemingly-small-decisions-that-affect.html)<!-- GAME:END -->
+ - [US Open 2022 live stream: how to watch tennis online anywhere – schedule, results, draw](https://game-rant-2022.blogspot.com/2022/08/us-open-2022-live-stream-how-to-watch.html)
+ - [Teenage Mutant Ninja Turtles: The Cowabunga Collection Review &lpar;PS5&rpar;](https://game-rant-2022.blogspot.com/2022/08/teenage-mutant-ninja-turtles-cowabunga.html)
+ - [Upcoming skins, heroes and more](https://game-rant-2022.blogspot.com/2022/08/upcoming-skins-heroes-and-more.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
