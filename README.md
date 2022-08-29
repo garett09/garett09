@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Live as NASA&#39;s Artemis I Launches to the Moon     - CNET](https://www.cnet.com/science/space/how-to-watch-live-as-nasas-artemis-i-launches-to-the-moon/#ftag=CAD590a51e)
- - [The next Galaxy S22 series update is all about the camera &lpar;Updated: Out now&rpar;](https://www.androidauthority.com/galaxy-s22-camera-update-august-3201723/)
- - [A look at the &quot;Palantir Pack&quot;, a group of Palantir alumni who have founded companies and VC firms like Affirm, Anduril, OpenSea, Handshake, Ironclad, and 8VC &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220829/p1#a220829p1)<!-- TECH:END -->
+ - [Elon Musk and T-Mobile try beating Apple with satellite vaporware](https://appleinsider.com/articles/22/08/26/elon-musk-and-t-mobile-try-beating-apple-with-satellite-vaporware?utm_medium=rss)
+ - [The Galaxy S22 series is now getting a camera-focused update](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
+ - [How to Watch Live as NASA&#39;s Artemis I Launches to the Moon     - CNET](https://www.cnet.com/science/space/how-to-watch-live-as-nasas-artemis-i-launches-to-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
