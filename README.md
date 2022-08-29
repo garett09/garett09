@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love you Geralt](http://9gag.com/gag/a319O78)
- - 🚯 [It&#39;s pronounced GIF](http://9gag.com/gag/amgj4Ad)
- - 🚯 [I&#39;m happy too if I get to hold a bacon](http://9gag.com/gag/a91QGXK)<!-- MEMES:END -->
+ - 🚖 [My dog](http://9gag.com/gag/aYr809O)
+ - 🚯 [SARS Wars &lpar;HD version&rpar;](http://9gag.com/gag/a0ZA3Eq)
+ - 🚯 [...](http://9gag.com/gag/a91QgPj)<!-- MEMES:END -->
 
 --- 
 
