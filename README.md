@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice try](http://9gag.com/gag/aOQgW9D)
- - 🚯 [...](http://9gag.com/gag/a91QgPj)
- - 🚯 [Relax take it easy](http://9gag.com/gag/aM4RLdW)<!-- MEMES:END -->
+ - 🚖 [I love you Geralt](http://9gag.com/gag/a319O78)
+ - 🚯 [It&#39;s pronounced GIF](http://9gag.com/gag/amgj4Ad)
+ - 🚯 [I&#39;m happy too if I get to hold a bacon](http://9gag.com/gag/a91QGXK)<!-- MEMES:END -->
 
 --- 
 
