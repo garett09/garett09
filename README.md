@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta partners with JioMart, an e-commerce venture between Reliance Retail and Jio Platforms, to launch a grocery shopping service on WhatsApp in India &lpar;TechCrunch&rpar;](http://www.techmeme.com/220829/p2#a220829p2)
- - [Daily Authority: 👏 Samsung’s marvelous multitasker](https://www.androidauthority.com/daily-authority-august-29-2022-3201717/)
- - [Apple TV+ halts &#39;Lady in the Lake&#39; filming after threats of violence](https://appleinsider.com/articles/22/08/29/apple-tv-halts-lady-in-the-lake-filming-after-threats-of-violence?utm_medium=rss)<!-- TECH:END -->
+ - [How New CGI Made House of the Dragon’s Beasts More Real](https://www.wired.com/story/house-of-the-dragon-cgi/)
+ - [A New Approach to Car Batteries Is About to Transform EVs](https://www.wired.com/story/cell-to-chassis-batteries-electric-vehicles/)
+ - [Driving Toward the Automobile’s Electric, Autonomous Future](https://www.wired.com/story/gms-president-on-the-automobiles-electric-autonomous-future/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
