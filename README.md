@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is an amp, and do you need one?](https://www.androidauthority.com/what-is-an-amp-3193395/)
- - [T-Mobile Magenta Max now includes Apple TV+ for free](https://appleinsider.com/articles/22/08/29/t-mobile-magenta-max-now-includes-apple-tv-for-free?utm_medium=rss)
- - [Conflicting rumors battle over Apple Watch Pro band backwards compatibility](https://appleinsider.com/articles/22/08/29/apple-watch-pro-may-be-incompatible-with-older-watch-bands?utm_medium=rss)<!-- TECH:END -->
+ - [The best Apple Watch bands to suit any style](https://appleinsider.com/inside/apple-watch/best/the-best-apple-watch-bands-you-should-wear?utm_medium=rss)
+ - [You might not be able to use older straps with the Apple Watch Pro](https://www.theverge.com/2022/8/29/23326839/apple-watch-pro-rumors-band-compatibility-wearables)
+ - [Apple TV+&#39;s fall kids lineup includes more Peanuts and Wolfboy](https://appleinsider.com/articles/22/08/29/apple-tvs-fall-kids-lineup-includes-more-peanuts-and-wolfboy?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
