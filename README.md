@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ohio State-Notre Dame, Kansas Betting Launch](https://game-rant-2022.blogspot.com/2022/08/ohio-state-notre-dame-kansas-betting.html)
- - [Pokemon Legends Arceus Memes That Make You Laugh](https://game-rant-2022.blogspot.com/2022/08/pokemon-legends-arceus-memes-that-make.html)
- - [‘All-new’ Mafia game will join the Hangar 13 family](https://www.polygon.com/23327396/mafia-game-hangar-13-take-two-interactive)<!-- GAME:END -->
+ - [The Marvel universe’s future is suddenly in the hands of Thanos’ kid brother](https://www.polygon.com/2022/8/29/23326781/marvel-eros-starfox-comics-harry-styles-eternals)
+ - [Xenoblade Chronicles 3’s Britishisms Are Corrupting My American Dialect](https://kotaku.com/xenoblade-chronicles-3-british-swears-eunie-lanz-slang-1849470308)
+ - [Metaverse game CEO loses $2M in bad trades, promises to pay it back](https://www.pcgamer.com/metaverse-game-ceo-loses-dollar2m-in-bad-trades-promises-to-pay-it-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
