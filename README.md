@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Existing Pokemon Type Combinations And Which Pokemon They Have](https://game-rant-2022.blogspot.com/2022/08/best-existing-pokemon-type-combinations.html)
- - [Five New Steam Games You Probably Missed &lpar;August 29, 2022&rpar;](https://game-rant-2022.blogspot.com/2022/08/five-new-steam-games-you-probably_28.html)
- - [10 Best Easter Eggs to Find in Santo Ileso](https://game-rant-2022.blogspot.com/2022/08/10-best-easter-eggs-to-find-in-santo.html)<!-- GAME:END -->
+ - [LG&#39;s new UltraGear curved OLED uses the same panel it supplied for Corsair&#39;s bendy screen](https://www.pcgamer.com/lgs-new-ultragear-curved-oled-uses-the-same-panel-it-supplied-for-corsairs-bendy-screen)
+ - [CSGO Kart is CSGO with go-karts](https://www.pcgamer.com/gsgo-kart-is-csgo-with-go-karts)
+ - [The Last Starfighter has deconstructed the wish-fulfillment of science fiction movies](https://game-rant-2022.blogspot.com/2022/08/the-last-starfighter-has-deconstructed.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
