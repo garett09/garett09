@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Galaxy S22 series update is all about the camera](https://www.androidauthority.com/galaxy-s22-camera-update-august-3201723/)
- - [A look at the &quot;Palantir Pack&quot;, a group of Palantir alumni who have founded companies and VC firms like Affirm, Anduril, OpenSea, Handshake, Ironclad, and 8VC &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220829/p1#a220829p1)
- - [OnePlus 10T gets more improvements in latest update](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
+ - [How to Watch Live as NASA&#39;s Artemis I Launches to the Moon     - CNET](https://www.cnet.com/science/space/how-to-watch-live-as-nasas-artemis-i-launches-to-the-moon/#ftag=CAD590a51e)
+ - [The next Galaxy S22 series update is all about the camera &lpar;Updated: Out now&rpar;](https://www.androidauthority.com/galaxy-s22-camera-update-august-3201723/)
+ - [A look at the &quot;Palantir Pack&quot;, a group of Palantir alumni who have founded companies and VC firms like Affirm, Anduril, OpenSea, Handshake, Ironclad, and 8VC &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220829/p1#a220829p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
