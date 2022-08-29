@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Euro to the Dollar nearing 30-year lows. Imagine knowing what could cause that.](http://9gag.com/gag/aGz3qrw)
- - 🚯 [Social experiment on `influencers`](http://9gag.com/gag/awzRDLW)
- - 🚯 [Dang, Disney!](http://9gag.com/gag/ay9grA8)<!-- MEMES:END -->
+ - 🚖 [Stop it, get some help](http://9gag.com/gag/aAGW590)
+ - 🚯 [Time is time](http://9gag.com/gag/aQXwjpr)
+ - 🚯 [I love you Geralt](http://9gag.com/gag/a319O78)<!-- MEMES:END -->
 
 --- 
 
