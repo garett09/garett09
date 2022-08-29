@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk and T-Mobile try beating Apple with satellite vaporware](https://appleinsider.com/articles/22/08/26/elon-musk-and-t-mobile-try-beating-apple-with-satellite-vaporware?utm_medium=rss)
- - [The Galaxy S22 series is now getting a camera-focused update](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [How to Watch Live as NASA&#39;s Artemis I Launches to the Moon     - CNET](https://www.cnet.com/science/space/how-to-watch-live-as-nasas-artemis-i-launches-to-the-moon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta partners with JioMart, an e-commerce venture between Reliance Retail and Jio Platforms, to launch a grocery shopping service on WhatsApp in India &lpar;TechCrunch&rpar;](http://www.techmeme.com/220829/p2#a220829p2)
+ - [Daily Authority: 👏 Samsung’s marvelous multitasker](https://www.androidauthority.com/daily-authority-august-29-2022-3201717/)
+ - [Apple TV+ halts &#39;Lady in the Lake&#39; filming after threats of violence](https://appleinsider.com/articles/22/08/29/apple-tv-halts-lady-in-the-lake-filming-after-threats-of-violence?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
