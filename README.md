@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [How many bananas is too many bananas?](http://9gag.com/gag/aWgKrX2)
- - 🚯 [Adult life](http://9gag.com/gag/axBxq5p)
+ - 🚯 [Buffet](http://9gag.com/gag/awzREKW)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
