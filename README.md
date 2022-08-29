@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comedian surprised by the Queen on Denmark who he was parodying](http://9gag.com/gag/aKm0rD3)
- - 🚯 [I thank you for Daft Punk](http://9gag.com/gag/aWgKroK)
+ - 🚖 [Good Times](http://9gag.com/gag/aKm0R0Z)
+ - 🚯 [Comedian surprised by the Queen on Denmark who he was parodying](http://9gag.com/gag/aKm0rD3)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
