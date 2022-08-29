@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cult of the Lamb is a baaaalm in Gilead](https://www.theverge.com/23320287/cult-of-the-lamb-review-steam-deck)
- - [iPhone 14 may gain 30W fast charging](https://appleinsider.com/articles/22/08/29/iphone-14-may-gain-30w-fast-charging?utm_medium=rss)
- - [WhatsApp’s super app ambitions are starting to come true in India](https://www.theverge.com/2022/8/29/23326687/whatsapp-jiomart-india-super-app-grocery-shopping)<!-- TECH:END -->
+ - [NBC launches &#39;Dateline Premium&#39; true crime series on Apple Podcasts](https://appleinsider.com/articles/22/08/29/nbc-launches-dateline-premium-true-crime-series-on-apple-podcasts?utm_medium=rss)
+ - [MacBook Pro price war: $400 off 14-inch &amp; 16-inch models, 13-inch prices as low as $949](https://appleinsider.com/articles/22/08/28/macbook-pro-price-war-400-off-14-inch-16-inch-models-13-inch-prices-as-low-as-899?utm_medium=rss)
+ - [The best Samsung Galaxy Z Fold 4 cases](https://www.androidauthority.com/best-samsung-galaxy-z-fold-4-cases-3194634/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
