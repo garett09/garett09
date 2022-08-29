@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight: Resident Evil: Project W — perk process explained](https://blog.playstation.com/2022/08/29/dead-by-daylight-resident-evil-project-w-perk-process-explained/)
- - [The 17 most exciting video game releases of fall 2022](https://www.polygon.com/gaming/23323215/video-games-release-dates-2022-holidays-god-of-war-ragnarok-bayonetta-3)
- - [Polygon’s rest-of-2022 preview](https://www.polygon.com/23321927/polygon-2022-fall-preview-movies-tv-games-books-comics)<!-- GAME:END -->
+ - [Pokémon takes cues from Cloverfield in these great found-footage horror shorts](https://www.polygon.com/23326929/pokemon-go-ultra-beast-horror-shorts)
+ - [Rebuilding The Last of Us Part I: A deep dive into combat, animation, audio and visual changes with Naughty Dog](https://blog.playstation.com/2022/08/29/rebuilding-the-last-of-us-part-i-a-deep-dive-into-combat-animation-audio-and-visual-changes-with-naughty-dog/)
+ - [After Years Of Disappointment, Pokémon Go Fest Finally Gave Me The Magic I&#39;ve Been Missing](https://kotaku.com/pokemon-go-fest-2022-niantic-pheromosa-buzzwole-1849468616)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
