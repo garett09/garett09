@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LG&#39;s new UltraGear curved OLED uses the same panel it supplied for Corsair&#39;s bendy screen](https://www.pcgamer.com/lgs-new-ultragear-curved-oled-uses-the-same-panel-it-supplied-for-corsairs-bendy-screen)
- - [CSGO Kart is CSGO with go-karts](https://www.pcgamer.com/gsgo-kart-is-csgo-with-go-karts)
- - [The Last Starfighter has deconstructed the wish-fulfillment of science fiction movies](https://game-rant-2022.blogspot.com/2022/08/the-last-starfighter-has-deconstructed.html)<!-- GAME:END -->
+ - [Cleveland Guardians at Seattle Mariners Opportunities, Choices and Predictions](https://game-rant-2022.blogspot.com/2022/08/cleveland-guardians-at-seattle-mariners.html)
+ - [10 films with inventive tricks that challenged the cinema as we know it](https://game-rant-2022.blogspot.com/2022/08/10-films-with-inventive-tricks-that.html)
+ - [Seemingly small decisions that affect the end of a game](https://game-rant-2022.blogspot.com/2022/08/seemingly-small-decisions-that-affect.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
