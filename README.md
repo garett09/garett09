@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US Open 2022 live stream: how to watch tennis online anywhere – schedule, results, draw](https://game-rant-2022.blogspot.com/2022/08/us-open-2022-live-stream-how-to-watch.html)
- - [Teenage Mutant Ninja Turtles: The Cowabunga Collection Review &lpar;PS5&rpar;](https://game-rant-2022.blogspot.com/2022/08/teenage-mutant-ninja-turtles-cowabunga.html)
- - [Upcoming skins, heroes and more](https://game-rant-2022.blogspot.com/2022/08/upcoming-skins-heroes-and-more.html)<!-- GAME:END -->
+ - [Clean up the streets and grab some new clients as Saul Goodman in this Marvel&#39;s Spider-Man mod](https://www.pcgamer.com/clean-up-the-streets-and-grab-some-new-clients-as-saul-goodman-in-this-marvels-spider-man-mod)
+ - [Classification Society Forced to Release Files on Manhunt&#39;s 2003 Ban](https://game-rant-2022.blogspot.com/2022/08/classification-society-forced-to.html)
+ - [BenQ MOBIUZ EX2710U - Best 4K 144Hz Gaming Monitor for Console and PC 2022](https://game-rant-2022.blogspot.com/2022/08/benq-mobiuz-ex2710u-best-4k-144hz.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
