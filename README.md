@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many bananas is too many bananas?](http://9gag.com/gag/aWgKrX2)
- - 🚯 [Buffet](http://9gag.com/gag/awzREKW)
+ - 🚖 [Deez nuts](http://9gag.com/gag/abgPN1v)
+ - 🚯 [Jeff Bezos is one Alexa away from using prison labors.](http://9gag.com/gag/a714QZb)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
