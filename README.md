@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time is time](http://9gag.com/gag/aQXwjpr)
- - 🚯 [Nice try](http://9gag.com/gag/aOQgW9D)
- - 🚯 [This ain\u2019t right](http://9gag.com/gag/aBnq5e1)<!-- MEMES:END -->
+ - 🚖 [This ain\u2019t right](http://9gag.com/gag/aBnq5e1)
+ - 🚯 [My dog](http://9gag.com/gag/aYr809O)
+ - 🚯 [Nice try](http://9gag.com/gag/aOQgW9D)<!-- MEMES:END -->
 
 --- 
 
