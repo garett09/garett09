@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch bands to suit any style](https://appleinsider.com/inside/apple-watch/best/the-best-apple-watch-bands-you-should-wear?utm_medium=rss)
- - [You might not be able to use older straps with the Apple Watch Pro](https://www.theverge.com/2022/8/29/23326839/apple-watch-pro-rumors-band-compatibility-wearables)
- - [Apple TV+&#39;s fall kids lineup includes more Peanuts and Wolfboy](https://appleinsider.com/articles/22/08/29/apple-tvs-fall-kids-lineup-includes-more-peanuts-and-wolfboy?utm_medium=rss)<!-- TECH:END -->
+ - [How to edit, delete, and restore a Facebook post](https://www.theverge.com/23326842/facebook-instagram-edit-post-how-to)
+ - [Instagram fixes sound issue that hindered TikTok exports](https://www.theverge.com/2022/8/29/23327404/instagram-reels-sound-export-tiktok-bug-fix)
+ - [Pixel Watch’s price leaked, sits right between Apple Watch and Galaxy Watch](https://www.androidauthority.com/google-pixel-watch-price-3202072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
