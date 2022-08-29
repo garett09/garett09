@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal&#39;s Legendary Crests are being redesigned](https://www.pcgamer.com/diablo-immortals-legendary-crests-are-being-redesigned)
- - [All the houses in House of the Dragon — and the characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)
- - [I hope Ravenbound actually pulls off its open world roguelite mashup](https://www.pcgamer.com/i-hope-ravenbound-actually-pulls-off-its-open-world-roguelite-mashup)<!-- GAME:END -->
+ - [Dead by Daylight: Resident Evil: Project W — perk process explained](https://blog.playstation.com/2022/08/29/dead-by-daylight-resident-evil-project-w-perk-process-explained/)
+ - [The 17 most exciting video game releases of fall 2022](https://www.polygon.com/gaming/23323215/video-games-release-dates-2022-holidays-god-of-war-ragnarok-bayonetta-3)
+ - [Polygon’s rest-of-2022 preview](https://www.polygon.com/23321927/polygon-2022-fall-preview-movies-tv-games-books-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
