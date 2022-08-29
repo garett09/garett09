@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Chungus may be coming to MultiVersus](https://www.pcgamer.com/big-chungus-may-be-coming-to-multiversus)
- - [343 Still Not Sure If It Will Add Microtransactions To Halo Master Chief Collection](https://kotaku.com/halo-master-chief-collection-mtx-343-xbox-one-1849470603)
- - [Dinner and… – City view](https://game-rant-2022.blogspot.com/2022/08/dinner-and-city-view.html)<!-- GAME:END -->
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
+ - [The Week In Games: Remake Mania](https://kotaku.com/the-last-of-us-part-1-destroy-all-humans-immortality-1849469945)
+ - [15 must-watch anime to look out for in the fall 2022 season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
