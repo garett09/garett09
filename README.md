@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Times](http://9gag.com/gag/aKm0R0Z)
- - 🚯 [Comedian surprised by the Queen on Denmark who he was parodying](http://9gag.com/gag/aKm0rD3)
+ - 🚖 [I&#39;d laugh more if it wasn&#39;t so sad](http://9gag.com/gag/a319V8e)
+ - 🚯 [Valuable lesson](http://9gag.com/gag/amgj3no)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
