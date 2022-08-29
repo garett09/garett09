@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My dog](http://9gag.com/gag/aYr809O)
- - 🚯 [SARS Wars &lpar;HD version&rpar;](http://9gag.com/gag/a0ZA3Eq)
- - 🚯 [...](http://9gag.com/gag/a91QgPj)<!-- MEMES:END -->
+ - 🚖 [If you hate what they are doing to Lord of the rings, just cancel your prime subscription on september 2nd. Losing money hurts them the most.](http://9gag.com/gag/aPZNbZP)
+ - 🚯 [The price was unnecessary!](http://9gag.com/gag/aggMz8w)
+ - 🚯 [I was there 3000 years ago](http://9gag.com/gag/aWgKXyd)<!-- MEMES:END -->
 
 --- 
 
