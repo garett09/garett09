@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Marvel universe’s future is suddenly in the hands of Thanos’ kid brother](https://www.polygon.com/2022/8/29/23326781/marvel-eros-starfox-comics-harry-styles-eternals)
- - [Xenoblade Chronicles 3’s Britishisms Are Corrupting My American Dialect](https://kotaku.com/xenoblade-chronicles-3-british-swears-eunie-lanz-slang-1849470308)
- - [Metaverse game CEO loses $2M in bad trades, promises to pay it back](https://www.pcgamer.com/metaverse-game-ceo-loses-dollar2m-in-bad-trades-promises-to-pay-it-back)<!-- GAME:END -->
+ - [Big Chungus may be coming to MultiVersus](https://www.pcgamer.com/big-chungus-may-be-coming-to-multiversus)
+ - [343 Still Not Sure If It Will Add Microtransactions To Halo Master Chief Collection](https://kotaku.com/halo-master-chief-collection-mtx-343-xbox-one-1849470603)
+ - [Dinner and… – City view](https://game-rant-2022.blogspot.com/2022/08/dinner-and-city-view.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
