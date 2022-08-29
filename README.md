@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What liking anime or video games looked like years ago](http://9gag.com/gag/aggMze1)
- - 🚯 [After watching Sandman and seeing Death, I can&#39;t help but be reminded of Supernatural&#39;s Death](http://9gag.com/gag/aWgK3DZ)
- - 🚯 [Life is hard....](http://9gag.com/gag/aego88p)<!-- MEMES:END -->
+ - 🚖 [Parkour Parkour](http://9gag.com/gag/aogrvKm)
+ - 🚯 [Me: I won\u2018t get in trouble anymore. Me again:](http://9gag.com/gag/ay9gbL8)
+ - 🚯 [The price was unnecessary!](http://9gag.com/gag/aggMz8w)<!-- MEMES:END -->
 
 --- 
 
