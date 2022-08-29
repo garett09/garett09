@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Routine, repeated repeatedly](http://9gag.com/gag/amgjwLo)
- - 🚯 [Scots burn electricity bills outside Glasgow energy regulator headquarters: `We don&#39;t pay!`](http://9gag.com/gag/ajgbj91)
- - 🚯 [Jeez you cant do that in a country without healthcare](http://9gag.com/gag/a81PNZp)<!-- MEMES:END -->
+ - 🚖 [Euro to the Dollar nearing 30-year lows. Imagine knowing what could cause that.](http://9gag.com/gag/aGz3qrw)
+ - 🚯 [Social experiment on `influencers`](http://9gag.com/gag/awzRDLW)
+ - 🚯 [Dang, Disney!](http://9gag.com/gag/ay9grA8)<!-- MEMES:END -->
 
 --- 
 
