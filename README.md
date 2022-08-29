@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to repair a burnt LED light bulb](http://9gag.com/gag/aAGW5q9)
- - 🚯 [Time is time](http://9gag.com/gag/aQXwjpr)
- - 🚯 [SARS Wars &lpar;HD version&rpar;](http://9gag.com/gag/a0ZA3Eq)<!-- MEMES:END -->
+ - 🚖 [Time is time](http://9gag.com/gag/aQXwjpr)
+ - 🚯 [Nice try](http://9gag.com/gag/aOQgW9D)
+ - 🚯 [This ain\u2019t right](http://9gag.com/gag/aBnq5e1)<!-- MEMES:END -->
 
 --- 
 
