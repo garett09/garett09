@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop it, get some help](http://9gag.com/gag/aAGW590)
+ - 🚖 [How to repair a burnt LED light bulb](http://9gag.com/gag/aAGW5q9)
  - 🚯 [Time is time](http://9gag.com/gag/aQXwjpr)
- - 🚯 [I love you Geralt](http://9gag.com/gag/a319O78)<!-- MEMES:END -->
+ - 🚯 [SARS Wars &lpar;HD version&rpar;](http://9gag.com/gag/a0ZA3Eq)<!-- MEMES:END -->
 
 --- 
 
