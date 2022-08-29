@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally happening. After using minorities from all over the republics as cannon fodder. Recruiting has begun in Moscow. The desperation is increasing.](http://9gag.com/gag/azeN0Vz)
- - 🚯 [This aged like fine wine.](http://9gag.com/gag/aBnqpKQ)
+ - 🚖 [Comedian surprised by the Queen on Denmark who he was parodying](http://9gag.com/gag/aKm0rD3)
+ - 🚯 [I thank you for Daft Punk](http://9gag.com/gag/aWgKroK)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
