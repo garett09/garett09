@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Weird Al biopic appropriately spoofs real music biopics](https://www.polygon.com/23326987/weird-al-movie-biopic-parody-yankovic-streaming-roku)
- - [All-women speedrunning event Flame Fatales raises $135K for charity](https://www.pcgamer.com/all-women-speedrunning-event-flame-fatales-raises-dollar135k-for-charity)
- - [Dwarf Fortress&#39; Steam release is coming &#39;sooner than you might think&#39;](https://www.pcgamer.com/dwarf-fortress-steam-release-is-coming-sooner-than-you-might-think)<!-- GAME:END -->
+ - [Genshin Impact’s New Region Is A Marvel Of Open-World Design](https://kotaku.com/genshin-impact-hoyoverse-sumeru-3-0-botw-1849469550)
+ - [Snoop Dogg, Eminem&#39;s NFT Performance At VMAs Looks Like Bad Instagram Filter](https://kotaku.com/snoop-dogg-eminem-bored-ape-ntfs-vmas-roblox-1849469244)
+ - [Saints Row Is Less A Trainwreck And More A Messy, Fun Car Crash](https://kotaku.com/saints-row-5-review-impressions-gta-bugs-open-world-1849469323)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
