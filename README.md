@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DappRadar: OpenSea processed nearly $5M of NFT transactions on August 28, down ~99% from a $405.75M high on May 1; Bored Ape Yacht Club&#39;s floor price fell 53% &lpar;Yashu Gola/Cointelegraph&rpar;](http://www.techmeme.com/220829/p18#a220829p18)
- - [Google’s making it easier to add emoji in Docs](https://www.theverge.com/2022/8/29/23327566/google-docs-add-emoji-shortcut)
- - [New Apple Watch study aims to cut blood thinner use by AFib patients](https://appleinsider.com/articles/22/08/29/new-apple-watch-study-aims-to-cut-blood-thinner-use-by-afib-patients?utm_medium=rss)<!-- TECH:END -->
+ - [French tax authorities, using aerial photos and AI software developed by Google and Capgemini, identify 20K+ unregistered pools, leading to ~&amp;euro;10M more in taxes &lpar;Kim Willsher/The Guardian&rpar;](http://www.techmeme.com/220829/p19#a220829p19)
+ - [Apple seeds eighth iOS 16 beta to developers](https://appleinsider.com/articles/22/08/29/apple-seeds-eighth-ios-16-beta-to-developers?utm_medium=rss)
+ - [New Mafia Game Is in the Works by Hanger 13     - CNET](https://www.cnet.com/tech/gaming/new-mafia-game-is-in-the-works-by-hanger-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
