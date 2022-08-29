@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Watch study aims to cut blood thinner use by AFib patients](https://appleinsider.com/articles/22/08/29/new-apple-watch-study-aims-to-cut-blood-thinner-use-by-afib-patients?utm_medium=rss)
- - [HP’s new 4K business webcam uses AI to keep your whole team in the frame](https://www.theverge.com/2022/8/29/23321571/hp-business-965-4k-webcam-ai-follow-sony-starvis)
- - [Amazon is doing something called ‘Android Days’ with a great price on the Pixel 6A](https://www.theverge.com/2022/8/29/23327527/amazon-android-days-google-pixel-6a-sale-price-oneplus-motorola)<!-- TECH:END -->
+ - [DappRadar: OpenSea processed nearly $5M of NFT transactions on August 28, down ~99% from a $405.75M high on May 1; Bored Ape Yacht Club&#39;s floor price fell 53% &lpar;Yashu Gola/Cointelegraph&rpar;](http://www.techmeme.com/220829/p18#a220829p18)
+ - [Google’s making it easier to add emoji in Docs](https://www.theverge.com/2022/8/29/23327566/google-docs-add-emoji-shortcut)
+ - [New Apple Watch study aims to cut blood thinner use by AFib patients](https://appleinsider.com/articles/22/08/29/new-apple-watch-study-aims-to-cut-blood-thinner-use-by-afib-patients?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
