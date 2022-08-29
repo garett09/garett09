@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trademark filings point to ‘Reality’ branding for Apple’s mixed reality headset](https://www.theverge.com/2022/8/28/23326041/apple-trademark-filings-reality-branding-virtual-ar-vr-mixed-headset)
- - [Apple Is Reserving Names for AR Headset, Trademarks Filings Suggest     - CNET](https://www.cnet.com/tech/mobile/apple-is-reserving-names-for-ar-headset-trademarks-filings-suggest/#ftag=CAD590a51e)
- - [Best Wheel Brush for 2022     - CNET](https://www.cnet.com/roadshow/news/best-wheel-brush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix/#ftag=CAD590a51e)
+ - [NASA&#39;s Artemis I Moon Launch: Watch Live as SLS Blasts Off     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-moon-launch-watch-live-as-sls-blasts-off/#ftag=CAD590a51e)
+ - [&#39;The Umbrella Academy&#39; Season 3: Ending Explained, Every Lingering Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-ending-explained-every-lingering-question-answered-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
