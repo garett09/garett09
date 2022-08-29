@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to edit, delete, and restore a Facebook post](https://www.theverge.com/23326842/facebook-instagram-edit-post-how-to)
- - [Instagram fixes sound issue that hindered TikTok exports](https://www.theverge.com/2022/8/29/23327404/instagram-reels-sound-export-tiktok-bug-fix)
- - [Pixel Watch’s price leaked, sits right between Apple Watch and Galaxy Watch](https://www.androidauthority.com/google-pixel-watch-price-3202072/)<!-- TECH:END -->
+ - [New Apple Watch study aims to cut blood thinner use by AFib patients](https://appleinsider.com/articles/22/08/29/new-apple-watch-study-aims-to-cut-blood-thinner-use-by-afib-patients?utm_medium=rss)
+ - [HP’s new 4K business webcam uses AI to keep your whole team in the frame](https://www.theverge.com/2022/8/29/23321571/hp-business-965-4k-webcam-ai-follow-sony-starvis)
+ - [Amazon is doing something called ‘Android Days’ with a great price on the Pixel 6A](https://www.theverge.com/2022/8/29/23327527/amazon-android-days-google-pixel-6a-sale-price-oneplus-motorola)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
