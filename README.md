@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
- - [The Week In Games: Remake Mania](https://kotaku.com/the-last-of-us-part-1-destroy-all-humans-immortality-1849469945)
- - [15 must-watch anime to look out for in the fall 2022 season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
+ - [Hogwarts Legacy has a PlayStation-exclusive quest as if it were still 2010](https://www.pcgamer.com/hogwarts-legacy-has-a-playstation-exclusive-quest-as-if-it-were-still-2010)
+ - [Paradox is looking for testers for a new game but it won&#39;t say what the new game is](https://www.pcgamer.com/paradox-is-looking-for-testers-for-a-new-game-but-it-wont-say-what-the-new-game-is)
+ - [This game adds what&#39;s always been missing from tennis: teleportation and bullet-time](https://www.pcgamer.com/this-game-adds-whats-always-been-missing-from-tennis-teleportation-and-bullet-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
