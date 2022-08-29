@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to turn a normal TV into a Smart TV](https://game-rant-2022.blogspot.com/2022/08/how-to-turn-normal-tv-into-smart-tv.html)
- - [Fan recreates the iconic Hogwarts castle in Minecraft in six years!](https://game-rant-2022.blogspot.com/2022/08/fan-recreates-iconic-hogwarts-castle-in.html)
- - [Playtika Holding Corp.  &lpar;NASDAQ:PLTK&rpar; Sees Huge Drop in Short-Term Interest Rates](https://game-rant-2022.blogspot.com/2022/08/playtika-holding-corp-nasdaqpltk-sees_28.html)<!-- GAME:END -->
+ - [Best Existing Pokemon Type Combinations And Which Pokemon They Have](https://game-rant-2022.blogspot.com/2022/08/best-existing-pokemon-type-combinations.html)
+ - [Five New Steam Games You Probably Missed &lpar;August 29, 2022&rpar;](https://game-rant-2022.blogspot.com/2022/08/five-new-steam-games-you-probably_28.html)
+ - [10 Best Easter Eggs to Find in Santo Ileso](https://game-rant-2022.blogspot.com/2022/08/10-best-easter-eggs-to-find-in-santo.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
