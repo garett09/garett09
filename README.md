@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix/#ftag=CAD590a51e)
- - [NASA&#39;s Artemis I Moon Launch: Watch Live as SLS Blasts Off     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-moon-launch-watch-live-as-sls-blasts-off/#ftag=CAD590a51e)
- - [&#39;The Umbrella Academy&#39; Season 3: Ending Explained, Every Lingering Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-ending-explained-every-lingering-question-answered-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unlike DALL-E 2, Stable Diffusion is open source and can run on high-end consumer GPUs, while its CreativeML Open RAIL-M license &quot;strives for&quot; &quot;responsible&quot; use &lpar;Alberto Romero/The Algorithmic Bridge&rpar;](http://www.techmeme.com/220828/p9#a220828p9)
+ - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;The Rogue Prince&#39;     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-the-rogue-prince/#ftag=CAD590a51e)
+ - [MTV VMAs: Eminem and Snoop Dogg Perform From Bored Ape Metaverse     - CNET](https://www.cnet.com/culture/entertainment/mtv-vmas-eminem-and-snoop-dogg-perform-from-bored-ape-metaverse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
