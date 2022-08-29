@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me: I won\u2018t get in trouble anymore. Me again:](http://9gag.com/gag/ay9gbL8)
- - 🚯 [Life is hard....](http://9gag.com/gag/aego88p)
+ - 🚖 [How many bananas is too many bananas?](http://9gag.com/gag/aWgKrX2)
+ - 🚯 [Adult life](http://9gag.com/gag/axBxq5p)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
