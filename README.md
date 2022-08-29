@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French tax authorities, using aerial photos and AI software developed by Google and Capgemini, identify 20K+ unregistered pools, leading to ~&amp;euro;10M more in taxes &lpar;Kim Willsher/The Guardian&rpar;](http://www.techmeme.com/220829/p19#a220829p19)
- - [Apple seeds eighth iOS 16 beta to developers](https://appleinsider.com/articles/22/08/29/apple-seeds-eighth-ios-16-beta-to-developers?utm_medium=rss)
- - [New Mafia Game Is in the Works by Hanger 13     - CNET](https://www.cnet.com/tech/gaming/new-mafia-game-is-in-the-works-by-hanger-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [StarTree, which offers a real-time analytics service powered by the Apache Pinot database, has raised a $47M Series B and plans to open an office in India &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220829/p20#a220829p20)
+ - [Samsung’s Z Fold 4 passes durability tests, but how will it hold up long term?](https://www.theverge.com/2022/8/29/23327570/samsung-z-fold-4-passes-durability-tests-long-term-jerryrigeverything)
+ - [French tax authorities, using aerial photos and AI software developed by Google and Capgemini, identify 20K+ unregistered pools, leading to ~&amp;euro;10M more in taxes &lpar;Kim Willsher/The Guardian&rpar;](http://www.techmeme.com/220829/p19#a220829p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
