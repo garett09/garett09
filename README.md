@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 may gain 30W fast charging](https://appleinsider.com/articles/22/08/29/iphone-14-may-gain-30w-fast-charging?utm_medium=rss)
- - [T-Mobile will give away full Apple TV Plus subscription to certain subscribers](https://www.androidauthority.com/t-mobile-apple-tv-plus-3201874/)
- - [Apple Watch Pro may be incompatible with older Watch bands](https://appleinsider.com/articles/22/08/29/apple-watch-pro-may-be-incompatible-with-older-watch-bands?utm_medium=rss)<!-- TECH:END -->
+ - [The Twitter whistleblower just got a subpoena from Elon Musk](https://www.theverge.com/2022/8/29/23327036/elon-musk-zatko-mudge-subpoena-twitter-trial-documents-bots)
+ - [Conflicting rumors say Apple Watch Pro may be incompatible with older bands](https://appleinsider.com/articles/22/08/29/apple-watch-pro-may-be-incompatible-with-older-watch-bands?utm_medium=rss)
+ - [Snapchat rolls out its BeReal-esque dual camera feature](https://www.theverge.com/2022/8/29/23326795/snapchat-dual-camera-mode-bereal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
