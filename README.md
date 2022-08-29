@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This ain\u2019t right](http://9gag.com/gag/aBnq5e1)
- - 🚯 [My dog](http://9gag.com/gag/aYr809O)
- - 🚯 [Nice try](http://9gag.com/gag/aOQgW9D)<!-- MEMES:END -->
+ - 🚖 [Nice try](http://9gag.com/gag/aOQgW9D)
+ - 🚯 [...](http://9gag.com/gag/a91QgPj)
+ - 🚯 [Relax take it easy](http://9gag.com/gag/aM4RLdW)<!-- MEMES:END -->
 
 --- 
 
