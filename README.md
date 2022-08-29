@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s New Region Is A Marvel Of Open-World Design](https://kotaku.com/genshin-impact-hoyoverse-sumeru-3-0-botw-1849469550)
- - [Snoop Dogg, Eminem&#39;s NFT Performance At VMAs Looks Like Bad Instagram Filter](https://kotaku.com/snoop-dogg-eminem-bored-ape-ntfs-vmas-roblox-1849469244)
- - [Saints Row Is Less A Trainwreck And More A Messy, Fun Car Crash](https://kotaku.com/saints-row-5-review-impressions-gta-bugs-open-world-1849469323)<!-- GAME:END -->
+ - [Ohio State-Notre Dame, Kansas Betting Launch](https://game-rant-2022.blogspot.com/2022/08/ohio-state-notre-dame-kansas-betting.html)
+ - [Pokemon Legends Arceus Memes That Make You Laugh](https://game-rant-2022.blogspot.com/2022/08/pokemon-legends-arceus-memes-that-make.html)
+ - [‘All-new’ Mafia game will join the Hangar 13 family](https://www.polygon.com/23327396/mafia-game-hangar-13-take-two-interactive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
