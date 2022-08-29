@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s &#39;Android Days&#39; Promo Brings All-Time Low Pricing to Pixel, Chromebooks and More     - CNET](https://www.cnet.com/deals/amazons-android-days-promo-brings-all-time-low-pricing-to-pixel-chromebooks-and-more/#ftag=CAD590a51e)
- - [What is Windows Sonic?](https://www.androidauthority.com/what-is-windows-sonic-3195404/)
- - [Eminem and Snoop Dogg performed at MTV&#39;s Video Music Awards in Yuga Labs&#39; game Otherside, using Bored Yacht Ape NFT avatars that they own &lpar;Daniel Van Boom/CNET&rpar;](http://www.techmeme.com/220829/p5#a220829p5)<!-- TECH:END -->
+ - [Cult of the Lamb is a baaaalm in Gilead](https://www.theverge.com/23320287/cult-of-the-lamb-review-steam-deck)
+ - [iPhone 14 may gain 30W fast charging](https://appleinsider.com/articles/22/08/29/iphone-14-may-gain-30w-fast-charging?utm_medium=rss)
+ - [WhatsApp’s super app ambitions are starting to come true in India](https://www.theverge.com/2022/8/29/23326687/whatsapp-jiomart-india-super-app-grocery-shopping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
