@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Snap is planning to lay off ~20% of its 6,400+ employees; the layoffs are set to begin on Wednesday &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220830/p27#a220830p27)
- - [Snap plans to lay off 20 percent of employees](https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat)
- - [Virginia judge shuts down demand to ban book sales to minors](https://www.theverge.com/2022/8/30/23329075/virginia-judge-dismisses-gender-queer-obscenity-minors-case-aclu)<!-- TECH:END -->
+ - [Snap’s chief business officer is leaving to run ads at Netflix](https://www.theverge.com/2022/8/30/23329583/snaps-chief-business-officer-is-leaving-to-run-ads-at-netflix)
+ - [HPE reports Q3 revenue of $7B, up 1% YoY, Intelligent Edge revenue of $941M, up 8% YoY, HPC &amp; AI rev. of $830M, up 12% YoY, and Compute rev. of $3B, down 3% YoY &lpar;Eric J. Savitz/Barron&#39;s Online&rpar;](http://www.techmeme.com/220830/p30#a220830p30)
+ - [Kevin Rose&#39;s NFT startup Proof announces a $50M Series A led by a16z, upcoming NFT project Moonbirds Mythics, and a DAO to handle licensing of Moonbirds&#39; name &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220830/p29#a220830p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
