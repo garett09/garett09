@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC CEO C. C. Wei says an endemic shortage of low-end chips costing $0.50 to $10 is holding up production in key segments of the global supply chain &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220830/p5#a220830p5)
  - [Social media &quot;war rooms&quot; that are set up to fight misinformation and reported on by the media ahead of the US midterms are nothing more than theater &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220830/p4#a220830p4)
- - [Logitech G Gaming Handheld leaks: A slick Android handheld for cloud gaming](https://www.androidauthority.com/logitech-g-gaming-handheld-leaks-3202279/)
- - [Google tells us when the first Android 14 beta would land](https://www.androidauthority.com/android-14-beta-3202280/)<!-- TECH:END -->
+ - [Logitech G Gaming Handheld leaks: A slick Android handheld for cloud gaming](https://www.androidauthority.com/logitech-g-gaming-handheld-leaks-3202279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
