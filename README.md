@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pin articles and videos sent over Messages in iOS 16 and iPadOS 16.1](https://appleinsider.com/inside/ios-16/tips/how-to-pin-articles-and-videos-sent-over-messages-in-ios-16-and-ipados-161?utm_medium=rss)
- - [Now everyone can use Twitter Circle to keep certain posts private](https://www.theverge.com/2022/8/30/23328616/twitter-circle-now-available-everyone-limit-tweets-privacy)
- - [A US Freight Rail Crisis Threatens More Supply-Chain Chaos](https://www.wired.com/story/a-us-freight-rail-crisis-threatens-more-supply-chain-chaos/)<!-- TECH:END -->
+ - [Last call: save $300 on Apple&#39;s M1 Max MacBook Pro 16-inch with 64GB RAM](https://appleinsider.com/articles/22/08/30/last-call-save-300-on-apples-m1-max-macbook-pro-16-inch-with-64gb-ram?utm_medium=rss)
+ - [The Apple Watch Series 8 could come in a new shade of &lpar;PRODUCT&rpar;RED](https://appleinsider.com/articles/22/08/30/the-apple-watch-series-8-could-come-in-a-new-shade-of-productred?utm_medium=rss)
+ - [In a first, school districts in Texas, New York, and California are creating permanent, full-time virtual schools, seeking to help vulnerable children &lpar;Ben Chapman/Wall Street Journal&rpar;](http://www.techmeme.com/220830/p23#a220830p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
