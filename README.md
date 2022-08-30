@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights must have variety in its side missions](https://game-rant-2022.blogspot.com/2022/08/gotham-knights-must-have-variety-in-its.html)
- - [Delightful Steam Game Lets You Run A Spa For Capybaras](https://kotaku.com/capybara-spa-steam-game-hot-springs-management-sim-1849476144)
- - [Forspoken is yet another victim of Square Enix&#39;s poor marketing](https://game-rant-2022.blogspot.com/2022/08/forspoken-is-yet-another-victim-of.html)<!-- GAME:END -->
+ - [Max Q: Scrubbed – TechCrunch](https://game-rant-2022.blogspot.com/2022/08/max-q-scrubbed-techcrunch.html)
+ - [Must-Play video games for fans of Stray](https://game-rant-2022.blogspot.com/2022/08/must-play-video-games-for-fans-of-stray.html)
+ - [Games that started developing as other projects](https://game-rant-2022.blogspot.com/2022/08/games-that-started-developing-as-other.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
