@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No politics no drama just some good music](http://9gag.com/gag/aDDBRQZ)
- - 🚯 [Hahaha that look](http://9gag.com/gag/aYrzN5x)
- - 🚯 [What\u2019s your favorite font?](http://9gag.com/gag/a61WwMm)<!-- MEMES:END -->
+ - 🚖 [I&#39;ve already put some money aside to cover my electricity bill here in Germany.](http://9gag.com/gag/awzqrq4)
+ - 🚯 [What\u2019s your favorite font?](http://9gag.com/gag/a61WwMm)
+ - 🚯 [It\u2019s true. It all went downhill from there.](http://9gag.com/gag/apgeqgE)<!-- MEMES:END -->
 
 --- 
 
