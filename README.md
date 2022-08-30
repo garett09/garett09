@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A hands-free telephone headset ad, 1993](http://9gag.com/gag/aM4RpQW)
- - 🚯 [Jordan Peterson in person.](http://9gag.com/gag/arn6655)
+ - 🚖 [Hi, I want two of those and a diet coke, pls.](http://9gag.com/gag/a91QQE1)
+ - 🚯 [Too classy](http://9gag.com/gag/aegoX6q)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
