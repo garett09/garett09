@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL’s new earbud charging case has a touchscreen so you can ditch the phone](https://www.theverge.com/2022/8/30/23328582/jbl-touchscreen-tour-pro-2-charging-case-one-m2-features)
- - [JBL launches more soundbars with detachable rear speakers](https://www.theverge.com/2022/8/30/23323398/jbl-2022-soundbar-lineup-bar-1000-800-500-300-dolby-atmos)
- - [California&#39;s State Senate passes an online safety bill for under 18s, requiring services to increase protection for children; Gov. Newsom must approve the bill &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220830/p20#a220830p20)<!-- TECH:END -->
+ - [How to pin articles and videos sent over Messages in iOS 16 and iPadOS 16.1](https://appleinsider.com/inside/ios-16/tips/how-to-pin-articles-and-videos-sent-over-messages-in-ios-16-and-ipados-161?utm_medium=rss)
+ - [Now everyone can use Twitter Circle to keep certain posts private](https://www.theverge.com/2022/8/30/23328616/twitter-circle-now-available-everyone-limit-tweets-privacy)
+ - [A US Freight Rail Crisis Threatens More Supply-Chain Chaos](https://www.wired.com/story/a-us-freight-rail-crisis-threatens-more-supply-chain-chaos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
