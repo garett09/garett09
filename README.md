@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can’t get Immortality’s slow, neurotic mystery out of my head](https://www.polygon.com/reviews/23327003/immortality-review-game-pass-netflix-sam-barlow-her-story-pc-xbox-series-x-mac-ios-android)
- - [Today&#39;s Wordle 437 answer and hint: Tuesday, August 30](https://www.pcgamer.com/todays-wordle-437-answer-hint)
- - [It&#39;s not just a matter of finding their own Kevin Feige](https://game-rant-2022.blogspot.com/2022/08/its-not-just-matter-of-finding-their.html)<!-- GAME:END -->
+ - [Everything announced in the latest quarterly update](https://game-rant-2022.blogspot.com/2022/08/everything-announced-in-latest.html)
+ - [Logitech G502X Plus Review |  MMORPG.com](https://game-rant-2022.blogspot.com/2022/08/logitech-g502x-plus-review-mmorpgcom.html)
+ - [Shows: Xbox Optimized to Next-Gen Sale Started with a Next-Gen Offer Deal](https://game-rant-2022.blogspot.com/2022/08/shows-xbox-optimized-to-next-gen-sale.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
