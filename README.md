@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips and tricks to enjoy Temtem to the fullest, out September 6](https://blog.playstation.com/2022/08/30/tips-and-tricks-to-enjoy-temtem-to-the-fullest-out-september-6/)
- - [New Games with Gold for September 2022](https://news.xbox.com/en-us/2022/08/30/new-games-with-gold-for-september-2022/)
- - [Galadriel’s fearless, untold story comes to life in The Lord of the Rings: The Rings of Power](https://www.polygon.com/23327568/galadriel-the-rings-of-power-actor-lord-of-the-rings)<!-- GAME:END -->
+ - [Andor is ‘the most grounded Star Wars you can get,’ says Diego Luna](https://www.polygon.com/23311750/andor-star-wars-diego-luna-interview-preview)
+ - [Xbox Games With Gold retires its Xbox 360 games with Portal 2](https://www.polygon.com/23328925/xbox-free-games-with-gold-september-2022-xbox-one-xbox-360-portal-2)
+ - [Here&#39;s The Latest Game That Captures The Classic Zelda Magic](https://kotaku.com/legend-zelda-nintendo-link-past-games-like-tunic-okami-1849473704)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
