@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok, Rate This\u2026 G&lpar;old&rpar;](http://9gag.com/gag/aBnqqDA)
- - 🚯 [Snakey boi](http://9gag.com/gag/a11z46v)
+ - 🚖 [Second heart surgery tomorrow. Doctors says 50/50 to wake up. If i dont thanks for all the laughts boys, i&#39;ll suck dicks in heaven.](http://9gag.com/gag/a81PPD1)
+ - 🚯 [What would the world say about this one...](http://9gag.com/gag/amgDqr2)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
