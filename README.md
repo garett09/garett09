@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC CEO C. C. Wei says an endemic shortage of low-end chips costing $0.50 to $10 is holding up production in key segments of the global supply chain &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/220830/p5#a220830p5)
- - [Social media &quot;war rooms&quot; that are set up to fight misinformation and reported on by the media ahead of the US midterms are nothing more than theater &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220830/p4#a220830p4)
- - [Logitech G Gaming Handheld leaks: A slick Android handheld for cloud gaming](https://www.androidauthority.com/logitech-g-gaming-handheld-leaks-3202279/)<!-- TECH:END -->
+ - [Logitech’s cloud gaming handheld leaks with Android apps and Switch-like UI](https://www.theverge.com/2022/8/30/23328440/logitech-g-gaming-handheld-google-play-cloud-gaming)
+ - [A book excerpt details YouTube&#39;s efforts to remove Islamic extremist content and how the platform mostly failed to address other forms of political extremism &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220830/p8#a220830p8)
+ - [Indian buy now, pay later startup EarlySalary raised a $110M Series D led by TPG&#39;s The Rise Fund and Norwest at a $300M valuation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220830/p7#a220830p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
