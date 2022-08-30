@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d laugh more if it wasn&#39;t so sad](http://9gag.com/gag/a319V8e)
- - 🚯 [Valuable lesson](http://9gag.com/gag/amgj3no)
+ - 🚖 [Finally happening. After using minorities from all over the republics as cannon fodder. Recruiting has begun in Moscow. The desperation is increasing.](http://9gag.com/gag/azeN0Vz)
+ - 🚯 [Battle of the Teutoburg Forest](http://9gag.com/gag/aAGWjZ2)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
