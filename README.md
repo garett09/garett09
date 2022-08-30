@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The major movie releases arriving before the end of the year](https://www.polygon.com/23317910/2022-new-movies-release-schedule-upcoming-preview)
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [John Carpenter quit Red Dead because he &#39;couldn&#39;t get on the damn horse&#39;](https://www.pcgamer.com/john-carpenter-quit-red-dead-because-he-couldnt-get-on-the-damn-horse)<!-- GAME:END -->
+ - [Tips and tricks to enjoy Temtem to the fullest, out September 6](https://blog.playstation.com/2022/08/30/tips-and-tricks-to-enjoy-temtem-to-the-fullest-out-september-6/)
+ - [New Games with Gold for September 2022](https://news.xbox.com/en-us/2022/08/30/new-games-with-gold-for-september-2022/)
+ - [Galadriel’s fearless, untold story comes to life in The Lord of the Rings: The Rings of Power](https://www.polygon.com/23327568/galadriel-the-rings-of-power-actor-lord-of-the-rings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
