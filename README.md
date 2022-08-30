@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Doom 2 mod is crammed so full of effects it challenges modern PCs](https://www.pcgamer.com/this-doom-2-mod-is-crammed-so-full-of-effects-it-challenges-modern-pcs)
- - [The Aliens: Fireteam Elite Pathogen Expansion Is Available Now](https://news.xbox.com/en-us/2022/08/30/the-aliens-fireteam-elite-pathogen-expansion-is-available-now/)
- - [Kickstarter’s new director of games will fight the growing lack of trust in the platform](https://www.polygon.com/23328798/kickstarter-new-director-of-games-interview-blockchain)<!-- GAME:END -->
+ - [F1 Manager 22 is the perfect game for all types of Formula 1 obsessives](https://www.polygon.com/reviews/23327635/f1-manager-22-review-windows-pc-ps4-ps5-xbox-one-series-x-formula-1)
+ - [Everything You Need to Know about Floppy Knights Free DLC](https://news.xbox.com/en-us/2022/08/30/everything-you-need-to-know-about-floppy-knights-free-dlc/)
+ - [Paradox Interactive&#39;s &#39;ultimate society simulator&#39; arrives in October](https://www.pcgamer.com/paradox-interactives-ultimate-society-simulator-arrives-in-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
