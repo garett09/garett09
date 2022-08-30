@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snakey boi](http://9gag.com/gag/a11z46v)
- - 🚯 [Boss did not want to get his feet wet](http://9gag.com/gag/aogBmzx)
+ - 🚖 [Boss did not want to get his feet wet](http://9gag.com/gag/aogBmzx)
+ - 🚯 [Meanwhile during the Kherson operation in another reality where sanctions don&#39;t work and everything is affordable.....](http://9gag.com/gag/aAGnBv2)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
