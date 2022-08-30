@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Here is some meaningless old-school Charlie Sheen humor even might be not that funny. You welcome my fellow oldie, who lived an era without wokeness.](http://9gag.com/gag/azeNNxp)
- - 🚯 [You cant make this stuff up](http://9gag.com/gag/a714z2e)
+ - 🚯 [Jordan Peterson in person.](http://9gag.com/gag/arn6655)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
