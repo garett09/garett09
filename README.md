@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What would the world say about this one...](http://9gag.com/gag/amgDqr2)
- - 🚯 [This technology was created by a Pole, Bartek Lotys. The laser beam removes 98% of pollutants, being fully ecological because it does not use any chemical compounds. Pure physics. The cleaned material determines the exact parameters of the laser.](http://9gag.com/gag/aDDBRPZ)
- - 🚯 [Well...he logged off](http://9gag.com/gag/aYrzjX7)<!-- MEMES:END -->
+ - 🚖 [Well...he logged off](http://9gag.com/gag/aYrzjX7)
+ - 🚯 [Hahaha that look](http://9gag.com/gag/aYrzN5x)
+ - 🚯 [How many inch punches is this?](http://9gag.com/gag/a61Wm6L)<!-- MEMES:END -->
 
 --- 
 
