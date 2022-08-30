@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coraline’s director made a new movie — but Jordan Peele worried Get Out would kill it](https://www.polygon.com/23327310/wendell-and-wild-cast-jordan-peele-henry-selick)
- - [Kermit in Spider-Man is anything but a muppet](https://www.pcgamer.com/kermit-in-spider-man-is-anything-but-a-muppet)
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
+ - [The major movie releases arriving before the end of the year](https://www.polygon.com/23317910/2022-new-movies-release-schedule-upcoming-preview)
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [John Carpenter quit Red Dead because he &#39;couldn&#39;t get on the damn horse&#39;](https://www.pcgamer.com/john-carpenter-quit-red-dead-because-he-couldnt-get-on-the-damn-horse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
