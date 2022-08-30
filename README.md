@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Aug. 30: $450 off Hisense Mini LED TVs, $300 off AnyCubic resin 3D printer, $100 off WD Elements 2TB Portable SSD, more!](https://appleinsider.com/articles/22/08/30/daily-deals-aug-30-450-off-hisense-mini-led-tvs-300-off-anycubic-resin-3d-printer-100-off-wd-elements-2tb-portable-ssd-more?utm_medium=rss)
- - [Apple&#39;s features graveyard: Once heavily marketed, now gone](https://appleinsider.com/articles/22/08/30/apples-features-graveyard-once-heavily-marketed-now-gone?utm_medium=rss)
- - [In a SEC filing, Elon Musk adds Peiter Zatko&#39;s allegations as a reason to terminate the $44B takeover bid, saying Twitter is in &quot;material noncompliance&quot; &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220830/p13#a220830p13)<!-- TECH:END -->
+ - [The wild keyboard and headphone designs of Angry Miao](https://www.theverge.com/23312108/angry-miao-cyberblade-anc-earbuds-am-hatsu-mechanical-keyboards-arthouse-design-tech)
+ - [Rivian&#39;s R1T and R1S Are Our New Favorite Off-Road EVs](https://www.wired.com/review/rivian-r1t-and-r1s/)
+ - [Next iPhone SE rumored to look about the same as the iPhone XR](https://appleinsider.com/articles/22/08/30/next-iphone-se-rumored-to-look-about-the-same-as-the-iphone-xr?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
