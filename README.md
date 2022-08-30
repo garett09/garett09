@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hi, I want two of those and a diet coke, pls.](http://9gag.com/gag/a91QQE1)
- - 🚯 [Too classy](http://9gag.com/gag/aegoX6q)
+ - 🚖 [Fleet of metal ball appeared after a 7.3 magnitude earthquake in Philippines - August 2022](http://9gag.com/gag/aggMR3x)
+ - 🚯 [A random guy sends his vocals to deadmau5 - gets signed immediately and the song became an instant hit](http://9gag.com/gag/angpA5z)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
