@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Worth playing |  &#39;PGA Tour 2K23&#39; Reveals Full List of Licensed Courses](https://game-rant-2022.blogspot.com/2022/08/worth-playing-pga-tour-2k23-reveals.html)
- - [New Half-Life 2: Episode Three Concept Art Reveals What Could Have Been](https://kotaku.com/half-life-2-episode-three-valve-leak-concept-art-hl3-1849475834)
- - [Deeper Dive: The Metaverse: Episode 2 – When will it arrive?](https://game-rant-2022.blogspot.com/2022/08/deeper-dive-metaverse-episode-2-when.html)<!-- GAME:END -->
+ - [Gotham Knights must have variety in its side missions](https://game-rant-2022.blogspot.com/2022/08/gotham-knights-must-have-variety-in-its.html)
+ - [Delightful Steam Game Lets You Run A Spa For Capybaras](https://kotaku.com/capybara-spa-steam-game-hot-springs-management-sim-1849476144)
+ - [Forspoken is yet another victim of Square Enix&#39;s poor marketing](https://game-rant-2022.blogspot.com/2022/08/forspoken-is-yet-another-victim-of.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
