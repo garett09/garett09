@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta links Instagram’s NFT posts to Facebook as the market for ‘digital collectibles’ tanks](https://www.theverge.com/2022/8/29/23327128/nft-instagram-facebook-meta-blockchain-wallet-opensea)
- - [AMD unveils its Ryzen 7000 CPU lineup, from the six-core 7600X for $299 to the 16-core 7950X for $699, launching on September 27 alongside its AM5 motherboards &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220829/p21#a220829p21)
- - [More People Should Watch The Most Underrated Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-most-underrated-sci-fi-show-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rakuten founder Hiroshi Mikitani, whose mobile business is bleeding cash, defends his reputation with investors ahead of a planned IPO of Rakuten&#39;s online bank &lpar;Financial Times&rpar;](http://www.techmeme.com/220829/p23#a220829p23)
+ - [As Ericsson and Nokia announce plans to exit Russia, the country&#39;s mobile operators will become more dependent on Chinese companies such as Huawei and ZTE &lpar;Reuters&rpar;](http://www.techmeme.com/220829/p22#a220829p22)
+ - [iPhone 14 Pro expected to have better low-light performance than iPhone 13 Pro](https://appleinsider.com/articles/22/08/30/iphone-14-pro-expected-to-have-better-low-light-performance-than-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
