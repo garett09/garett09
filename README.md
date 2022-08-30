@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tells us when the first Android 14 beta would land](https://www.androidauthority.com/android-14-beta-3202280/)
- - [YouTube Chief Business Officer Robert Kyncl plans to leave in early 2023 after 12+ years as a senior executive; Google veteran Mary Ellen Coe will replace him &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220830/p3#a220830p3)
- - [Cloudflare is facing growing pressure for providing services to Kiwi Farms, a forum with a long history of harassment; Cloudflare remains silent on the matter &lpar;Tom Krazit/Protocol&rpar;](http://www.techmeme.com/220830/p2#a220830p2)<!-- TECH:END -->
+ - [Social media &quot;war rooms&quot; that are set up to fight misinformation and reported on by the media ahead of the US midterms are nothing more than theater &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220830/p4#a220830p4)
+ - [Logitech G Gaming Handheld leaks: A slick Android handheld for cloud gaming](https://www.androidauthority.com/logitech-g-gaming-handheld-leaks-3202279/)
+ - [Google tells us when the first Android 14 beta would land](https://www.androidauthority.com/android-14-beta-3202280/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
