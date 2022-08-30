@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [StarTree, which offers a real-time analytics service powered by the Apache Pinot database, has raised a $47M Series B and plans to open an office in India &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220829/p20#a220829p20)
- - [Samsung’s Z Fold 4 passes durability tests, but how will it hold up long term?](https://www.theverge.com/2022/8/29/23327570/samsung-z-fold-4-passes-durability-tests-long-term-jerryrigeverything)
- - [French tax authorities, using aerial photos and AI software developed by Google and Capgemini, identify 20K+ unregistered pools, leading to ~&amp;euro;10M more in taxes &lpar;Kim Willsher/The Guardian&rpar;](http://www.techmeme.com/220829/p19#a220829p19)<!-- TECH:END -->
+ - [Meta links Instagram’s NFT posts to Facebook as the market for ‘digital collectibles’ tanks](https://www.theverge.com/2022/8/29/23327128/nft-instagram-facebook-meta-blockchain-wallet-opensea)
+ - [AMD unveils its Ryzen 7000 CPU lineup, from the six-core 7600X for $299 to the 16-core 7950X for $699, launching on September 27 alongside its AM5 motherboards &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220829/p21#a220829p21)
+ - [More People Should Watch The Most Underrated Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-most-underrated-sci-fi-show-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
