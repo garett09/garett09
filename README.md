@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameOn Files Q2 Financials &amp; Provides Company Update](https://game-rant-2022.blogspot.com/2022/08/gameon-files-q2-financials-provides.html)
- - [Roberta Williams describes her love for Colossal Cave:](https://game-rant-2022.blogspot.com/2022/08/roberta-williams-describes-her-love-for.html)
- - [best noir anime](https://game-rant-2022.blogspot.com/2022/08/best-noir-anime.html)<!-- GAME:END -->
+ - [It&#39;s not just a matter of finding their own Kevin Feige](https://game-rant-2022.blogspot.com/2022/08/its-not-just-matter-of-finding-their.html)
+ - [Gala Games Announces Spider Tanks Launch Date](https://game-rant-2022.blogspot.com/2022/08/gala-games-announces-spider-tanks_53.html)
+ - [Opinion: Netflix&#39;s BioShock Movie Should Be a Prequel, Not an Adaptation](https://game-rant-2022.blogspot.com/2022/08/opinion-netflixs-bioshock-movie-should.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
