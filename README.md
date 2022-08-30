@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is there a pay gap](http://9gag.com/gag/aDDpByN)
- - 🚯 [Well...he logged off](http://9gag.com/gag/aYrzjX7)
- - 🚯 [Movies and TV shows nowadays](http://9gag.com/gag/angAeVn)<!-- MEMES:END -->
+ - 🚖 [Well...he logged off](http://9gag.com/gag/aYrzjX7)
+ - 🚯 [This technology was created by a Pole, Bartek Lotys. The laser beam removes 98% of pollutants, being fully ecological because it does not use any chemical compounds. Pure physics. The cleaned material determines the exact parameters of the laser.](http://9gag.com/gag/aDDBRPZ)
+ - 🚯 [What would the world say about this one...](http://9gag.com/gag/amgDqr2)<!-- MEMES:END -->
 
 --- 
 
