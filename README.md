@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wild keyboard and headphone designs of Angry Miao](https://www.theverge.com/23312108/angry-miao-cyberblade-anc-earbuds-am-hatsu-mechanical-keyboards-arthouse-design-tech)
- - [Rivian&#39;s R1T and R1S Are Our New Favorite Off-Road EVs](https://www.wired.com/review/rivian-r1t-and-r1s/)
- - [Next iPhone SE rumored to look about the same as the iPhone XR](https://appleinsider.com/articles/22/08/30/next-iphone-se-rumored-to-look-about-the-same-as-the-iphone-xr?utm_medium=rss)<!-- TECH:END -->
+ - [JBL’s new earbud charging case has a touchscreen so you can ditch the phone](https://www.theverge.com/2022/8/30/23328582/jbl-touchscreen-tour-pro-2-charging-case-one-m2-features)
+ - [JBL launches more soundbars with detachable rear speakers](https://www.theverge.com/2022/8/30/23323398/jbl-2022-soundbar-lineup-bar-1000-800-500-300-dolby-atmos)
+ - [California&#39;s State Senate passes an online safety bill for under 18s, requiring services to increase protection for children; Gov. Newsom must approve the bill &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220830/p20#a220830p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
