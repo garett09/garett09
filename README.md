@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: save $300 on Apple&#39;s M1 Max MacBook Pro 16-inch with 64GB RAM](https://appleinsider.com/articles/22/08/30/last-call-save-300-on-apples-m1-max-macbook-pro-16-inch-with-64gb-ram?utm_medium=rss)
- - [The Apple Watch Series 8 could come in a new shade of &lpar;PRODUCT&rpar;RED](https://appleinsider.com/articles/22/08/30/the-apple-watch-series-8-could-come-in-a-new-shade-of-productred?utm_medium=rss)
- - [In a first, school districts in Texas, New York, and California are creating permanent, full-time virtual schools, seeking to help vulnerable children &lpar;Ben Chapman/Wall Street Journal&rpar;](http://www.techmeme.com/220830/p23#a220830p23)<!-- TECH:END -->
+ - [Google announces a bug bounty program for open source software, offering pay outs of up to $31,337, one of the first open source-specific vulnerability programs &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220830/p24#a220830p24)
+ - [The Sense75 is Drop’s take on the popular 75 percent keyboard](https://www.theverge.com/2022/8/30/23326555/drop-sense75-gasket-mount-75-percent-mechanical-keyboard-volume-knob)
+ - [Some Dell XPS 13 Plus screens have a glue problem](https://www.theverge.com/2022/8/30/23328681/dell-xps-13-plus-oled-display-problems)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
