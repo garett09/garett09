@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking down AMD&#39;s claims for a 13% Zen 4 IPC increase](https://www.pcgamer.com/amd-zen-4-performance-breakdown)
- - [AMD plans to support the new AM5 socket through 2025 and beyond](https://www.pcgamer.com/amd-am5-support-thru-2025)
- - [Dr. Lisa Su: &#39;With our launch of Zen 4 we don&#39;t expect any supply constraints.&#39;](https://www.pcgamer.com/amd-zen-4-supply-constraints)<!-- GAME:END -->
+ - [GameOn Files Q2 Financials &amp; Provides Company Update](https://game-rant-2022.blogspot.com/2022/08/gameon-files-q2-financials-provides.html)
+ - [Roberta Williams describes her love for Colossal Cave:](https://game-rant-2022.blogspot.com/2022/08/roberta-williams-describes-her-love-for.html)
+ - [best noir anime](https://game-rant-2022.blogspot.com/2022/08/best-noir-anime.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
