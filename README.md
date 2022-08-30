@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s cloud gaming handheld leaks with Android apps and Switch-like UI](https://www.theverge.com/2022/8/30/23328440/logitech-g-gaming-handheld-google-play-cloud-gaming)
- - [A book excerpt details YouTube&#39;s efforts to remove Islamic extremist content and how the platform mostly failed to address other forms of political extremism &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220830/p8#a220830p8)
- - [Indian buy now, pay later startup EarlySalary raised a $110M Series D led by TPG&#39;s The Rise Fund and Norwest at a $300M valuation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220830/p7#a220830p7)<!-- TECH:END -->
+ - [French government uses AI to spot undeclared swimming pools — and tax them](https://www.theverge.com/2022/8/30/23328442/france-ai-swimming-pool-tax-aerial-photos)
+ - [New Apple Watch study aims to cut blood thinner use by AFib patients](https://appleinsider.com/articles/22/08/29/new-apple-watch-study-aims-to-cut-blood-thinner-use-by-afib-patients?utm_medium=rss)
+ - [Inside the Shadow Evacuation of Kabul](https://www.wired.com/story/inside-shadow-evacuation-kabul-afghanistan/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
