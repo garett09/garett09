@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil’s Wesker, Ada, and Rebecca join Dead by Daylight](https://www.polygon.com/23287703/dead-by-daylight-resident-evil-project-w-chapter-wesker-ada-wong-rebecca-chambers)
- - [TMNT: The Cowabunga Collection: 5 hidden gems you should play](https://www.polygon.com/23328635/tmnt-cowabunga-collection-best-games-hidden-gems-ninja-turtles)
- - [Autumn Update for World of Warships: Legends is Here and Rolling](https://news.xbox.com/en-us/2022/08/30/autumn-update-for-world-of-warships-legends-is-here-and-rolling/)<!-- GAME:END -->
+ - [Worth playing |  &#39;PGA Tour 2K23&#39; Reveals Full List of Licensed Courses](https://game-rant-2022.blogspot.com/2022/08/worth-playing-pga-tour-2k23-reveals.html)
+ - [New Half-Life 2: Episode Three Concept Art Reveals What Could Have Been](https://kotaku.com/half-life-2-episode-three-valve-leak-concept-art-hl3-1849475834)
+ - [Deeper Dive: The Metaverse: Episode 2 – When will it arrive?](https://game-rant-2022.blogspot.com/2022/08/deeper-dive-metaverse-episode-2-when.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
