@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything announced in the latest quarterly update](https://game-rant-2022.blogspot.com/2022/08/everything-announced-in-latest.html)
- - [Logitech G502X Plus Review |  MMORPG.com](https://game-rant-2022.blogspot.com/2022/08/logitech-g502x-plus-review-mmorpgcom.html)
- - [Shows: Xbox Optimized to Next-Gen Sale Started with a Next-Gen Offer Deal](https://game-rant-2022.blogspot.com/2022/08/shows-xbox-optimized-to-next-gen-sale.html)<!-- GAME:END -->
+ - [Immortality review](https://www.pcgamer.com/immortality-review)
+ - [Free keys here for the first dynamic, open-world player-created MMO](https://www.pcgamer.com/free-keys-here-for-the-first-dynamic-open-world-player-created-mmo)
+ - [Everything announced in the latest quarterly update](https://game-rant-2022.blogspot.com/2022/08/everything-announced-in-latest.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
