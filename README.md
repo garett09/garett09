@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy has a PlayStation-exclusive quest as if it were still 2010](https://www.pcgamer.com/hogwarts-legacy-has-a-playstation-exclusive-quest-as-if-it-were-still-2010)
- - [Paradox is looking for testers for a new game but it won&#39;t say what the new game is](https://www.pcgamer.com/paradox-is-looking-for-testers-for-a-new-game-but-it-wont-say-what-the-new-game-is)
- - [This game adds what&#39;s always been missing from tennis: teleportation and bullet-time](https://www.pcgamer.com/this-game-adds-whats-always-been-missing-from-tennis-teleportation-and-bullet-time)<!-- GAME:END -->
+ - [Breaking down AMD&#39;s claims for a 13% Zen 4 IPC increase](https://www.pcgamer.com/amd-zen-4-performance-breakdown)
+ - [AMD plans to support the new AM5 socket through 2025 and beyond](https://www.pcgamer.com/amd-am5-support-thru-2025)
+ - [Dr. Lisa Su: &#39;With our launch of Zen 4 we don&#39;t expect any supply constraints.&#39;](https://www.pcgamer.com/amd-zen-4-supply-constraints)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
