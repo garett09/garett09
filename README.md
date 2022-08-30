@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 Manager 22 is the perfect game for all types of Formula 1 obsessives](https://www.polygon.com/reviews/23327635/f1-manager-22-review-windows-pc-ps4-ps5-xbox-one-series-x-formula-1)
- - [Everything You Need to Know about Floppy Knights Free DLC](https://news.xbox.com/en-us/2022/08/30/everything-you-need-to-know-about-floppy-knights-free-dlc/)
- - [Paradox Interactive&#39;s &#39;ultimate society simulator&#39; arrives in October](https://www.pcgamer.com/paradox-interactives-ultimate-society-simulator-arrives-in-october)<!-- GAME:END -->
+ - [Battlefield 2042 Season 2 Update PATCH NOTES, Master of Arms Release Time and NEW Content |  Gaming |  entertainment](https://game-rant-2022.blogspot.com/2022/08/battlefield-2042-season-2-update-patch.html)
+ - [Cyberpunk: Edgerunners’ NSFW trailer feels like every tweet ever posted shooting you in the face](https://www.polygon.com/23329216/cyberpunk-edgerunners-release-date-nsfw-trailer-netflix)
+ - [Rocket League x Ferrari: The Long-Awaited Collab](https://news.xbox.com/en-us/2022/08/30/rocket-league-x-ferrari-the-long-awaited-collab/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
