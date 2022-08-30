@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor is ‘the most grounded Star Wars you can get,’ says Diego Luna](https://www.polygon.com/23311750/andor-star-wars-diego-luna-interview-preview)
- - [Xbox Games With Gold retires its Xbox 360 games with Portal 2](https://www.polygon.com/23328925/xbox-free-games-with-gold-september-2022-xbox-one-xbox-360-portal-2)
- - [Here&#39;s The Latest Game That Captures The Classic Zelda Magic](https://kotaku.com/legend-zelda-nintendo-link-past-games-like-tunic-okami-1849473704)<!-- GAME:END -->
+ - [This Doom 2 mod is crammed so full of effects it challenges modern PCs](https://www.pcgamer.com/this-doom-2-mod-is-crammed-so-full-of-effects-it-challenges-modern-pcs)
+ - [The Aliens: Fireteam Elite Pathogen Expansion Is Available Now](https://news.xbox.com/en-us/2022/08/30/the-aliens-fireteam-elite-pathogen-expansion-is-available-now/)
+ - [Kickstarter’s new director of games will fight the growing lack of trust in the platform](https://www.polygon.com/23328798/kickstarter-new-director-of-games-interview-blockchain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
