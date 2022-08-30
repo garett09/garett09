@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s new G502 X gaming mice have clicky optical buttons](https://www.theverge.com/2022/8/30/23328970/logitech-g502-x-lightspeed-plus-gaming-mouse-mice-optical-buttons-usb-c)
- - [The Sony WH-1000XM5 headphones just got their first discount at Woot](https://www.theverge.com/good-deals/2022/8/30/23327362/sony-wh-1000xm5-headphones-xbox-series-s-google-pixel-phone-samsung-watch-earbuds-deal-sale)
- - [Google’s open-source bug bounty aims to clamp down on supply chain attacks](https://www.theverge.com/2022/8/30/23328977/google-open-source-bug-bounty-supply-chain-hacks-dependencies)<!-- TECH:END -->
+ - [Sources: Snap is planning to lay off ~20% of its 6,400+ employees; the layoffs are set to begin on Wednesday &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220830/p27#a220830p27)
+ - [Snap plans to lay off 20 percent of employees](https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat)
+ - [Virginia judge shuts down demand to ban book sales to minors](https://www.theverge.com/2022/8/30/23329075/virginia-judge-dismisses-gender-queer-obscenity-minors-case-aclu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
