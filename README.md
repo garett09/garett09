@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rakuten founder Hiroshi Mikitani, whose mobile business is bleeding cash, defends his reputation with investors ahead of a planned IPO of Rakuten&#39;s online bank &lpar;Financial Times&rpar;](http://www.techmeme.com/220829/p23#a220829p23)
- - [As Ericsson and Nokia announce plans to exit Russia, the country&#39;s mobile operators will become more dependent on Chinese companies such as Huawei and ZTE &lpar;Reuters&rpar;](http://www.techmeme.com/220829/p22#a220829p22)
- - [iPhone 14 Pro expected to have better low-light performance than iPhone 13 Pro](https://appleinsider.com/articles/22/08/30/iphone-14-pro-expected-to-have-better-low-light-performance-than-iphone-13?utm_medium=rss)<!-- TECH:END -->
+ - [Google tells us when the first Android 14 beta would land](https://www.androidauthority.com/android-14-beta-3202280/)
+ - [YouTube Chief Business Officer Robert Kyncl plans to leave in early 2023 after 12+ years as a senior executive; Google veteran Mary Ellen Coe will replace him &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220830/p3#a220830p3)
+ - [Cloudflare is facing growing pressure for providing services to Kiwi Farms, a forum with a long history of harassment; Cloudflare remains silent on the matter &lpar;Tom Krazit/Protocol&rpar;](http://www.techmeme.com/220830/p2#a220830p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
