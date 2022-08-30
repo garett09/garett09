@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Immortality review](https://www.pcgamer.com/immortality-review)
- - [Free keys here for the first dynamic, open-world player-created MMO](https://www.pcgamer.com/free-keys-here-for-the-first-dynamic-open-world-player-created-mmo)
- - [Everything announced in the latest quarterly update](https://game-rant-2022.blogspot.com/2022/08/everything-announced-in-latest.html)<!-- GAME:END -->
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
+ - [Disney will launch a new card game to go up against Magic: The Gathering and Pokémon](https://www.polygon.com/tabletop-games/23322262/disney-lorcana-ccg-trading-card-game-announcement-release-date-price)
+ - [How to get Touch of Malice in Destiny 2](https://www.pcgamer.com/destiny-2-touch-of-malice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
