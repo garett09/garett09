@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces a bug bounty program for open source software, offering pay outs of up to $31,337, one of the first open source-specific vulnerability programs &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220830/p24#a220830p24)
- - [The Sense75 is Drop’s take on the popular 75 percent keyboard](https://www.theverge.com/2022/8/30/23326555/drop-sense75-gasket-mount-75-percent-mechanical-keyboard-volume-knob)
- - [Some Dell XPS 13 Plus screens have a glue problem](https://www.theverge.com/2022/8/30/23328681/dell-xps-13-plus-oled-display-problems)<!-- TECH:END -->
+ - [California passes bill that requires online &#39;guardrails&#39; to protect children](https://appleinsider.com/articles/22/08/30/california-passes-bill-to-require-guardrails-to-protect-children-online?utm_medium=rss)
+ - [The Android 13 beta is finally here for the Galaxy S21](https://www.androidauthority.com/android-13-galaxy-s21-3202460/)
+ - [IFA 2022: all the news from Berlin’s big tech show](https://www.theverge.com/2022/8/30/23326789/ifa-2022-tech-news-updates-highlights-products-berlin)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
