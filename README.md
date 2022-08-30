@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap’s chief business officer is leaving to run ads at Netflix](https://www.theverge.com/2022/8/30/23329583/snaps-chief-business-officer-is-leaving-to-run-ads-at-netflix)
- - [HPE reports Q3 revenue of $7B, up 1% YoY, Intelligent Edge revenue of $941M, up 8% YoY, HPC &amp; AI rev. of $830M, up 12% YoY, and Compute rev. of $3B, down 3% YoY &lpar;Eric J. Savitz/Barron&#39;s Online&rpar;](http://www.techmeme.com/220830/p30#a220830p30)
- - [Kevin Rose&#39;s NFT startup Proof announces a $50M Series A led by a16z, upcoming NFT project Moonbirds Mythics, and a DAO to handle licensing of Moonbirds&#39; name &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220830/p29#a220830p29)<!-- TECH:END -->
+ - [Royal Caribbean Cruises partners with SpaceX&#39;s Starlink to offer onboard internet across all its ships, with installation scheduled to be completed early 2023 &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220830/p33#a220830p33)
+ - [Xcode Cloud subscriptions now available for developers](https://appleinsider.com/articles/22/08/30/xcode-cloud-subscriptions-now-available-for-developers?utm_medium=rss)
+ - [CrowdStrike reports Q2 revenue up 58% YoY to $535.2M, subscription revenue up 60% YoY to $506.2M, and subscription customers up 51% YoY to 19,686 &lpar;Jeffrey T. Lewis/MarketWatch&rpar;](http://www.techmeme.com/220830/p32#a220830p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
