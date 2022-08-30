@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin&#39;s Boost Charge Pro charges an iPhone 13 to half in 20 minutes](https://appleinsider.com/articles/22/08/30/belkins-boost-charge-pro-charges-an-iphone-13-to-half-in-20-minutes?utm_medium=rss)
- - [This is the last week to get free rapid COVID-19 tests from the US government](https://www.theverge.com/2022/8/30/23329080/covid-test-free-white-house-website)
- - [Elon Musk pushes to delay the Twitter trial while citing whistleblower’s testimony](https://www.theverge.com/2022/8/30/23329134/elon-musk-twitter-lawsuit-delay-whistleblower-testimony)<!-- TECH:END -->
+ - [Logitech’s new G502 X gaming mice have clicky optical buttons](https://www.theverge.com/2022/8/30/23328970/logitech-g502-x-lightspeed-plus-gaming-mouse-mice-optical-buttons-usb-c)
+ - [The Sony WH-1000XM5 headphones just got their first discount at Woot](https://www.theverge.com/good-deals/2022/8/30/23327362/sony-wh-1000xm5-headphones-xbox-series-s-google-pixel-phone-samsung-watch-earbuds-deal-sale)
+ - [Google’s open-source bug bounty aims to clamp down on supply chain attacks](https://www.theverge.com/2022/8/30/23328977/google-open-source-bug-bounty-supply-chain-hacks-dependencies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
