@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
- - [Disney will launch a new card game to go up against Magic: The Gathering and Pokémon](https://www.polygon.com/tabletop-games/23322262/disney-lorcana-ccg-trading-card-game-announcement-release-date-price)
- - [How to get Touch of Malice in Destiny 2](https://www.pcgamer.com/destiny-2-touch-of-malice)<!-- GAME:END -->
+ - [Coraline’s director made a new movie — but Jordan Peele worried Get Out would kill it](https://www.polygon.com/23327310/wendell-and-wild-cast-jordan-peele-henry-selick)
+ - [Kermit in Spider-Man is anything but a muppet](https://www.pcgamer.com/kermit-in-spider-man-is-anything-but-a-muppet)
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
