@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Royal Caribbean Cruises partners with SpaceX&#39;s Starlink to offer onboard internet across all its ships, with installation scheduled to be completed early 2023 &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220830/p33#a220830p33)
- - [Xcode Cloud subscriptions now available for developers](https://appleinsider.com/articles/22/08/30/xcode-cloud-subscriptions-now-available-for-developers?utm_medium=rss)
- - [CrowdStrike reports Q2 revenue up 58% YoY to $535.2M, subscription revenue up 60% YoY to $506.2M, and subscription customers up 51% YoY to 19,686 &lpar;Jeffrey T. Lewis/MarketWatch&rpar;](http://www.techmeme.com/220830/p32#a220830p32)<!-- TECH:END -->
+ - [Apple says developers can now purchase Xcode Cloud subscriptions; the plan with 25 compute hours will be free until the end of 2023 and $15/month after that &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220830/p34#a220830p34)
+ - [Samsung adds more free channels and content to its TV Plus lineup](https://www.theverge.com/2022/8/30/23329219/samsung-tv-plus-adds-more-free-channels-content-fast-streaming)
+ - [Royal Caribbean is putting SpaceX’s Starlink on its cruise ships](https://www.theverge.com/2022/8/30/23329610/royal-caribbean-spacex-starlink-cruise-ships-celebrity-silversea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
