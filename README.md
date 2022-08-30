@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French government uses AI to spot undeclared swimming pools — and tax them](https://www.theverge.com/2022/8/30/23328442/france-ai-swimming-pool-tax-aerial-photos)
- - [New Apple Watch study aims to cut blood thinner use by AFib patients](https://appleinsider.com/articles/22/08/29/new-apple-watch-study-aims-to-cut-blood-thinner-use-by-afib-patients?utm_medium=rss)
- - [Inside the Shadow Evacuation of Kabul](https://www.wired.com/story/inside-shadow-evacuation-kabul-afghanistan/)<!-- TECH:END -->
+ - [Daily deals Aug. 30: $450 off Hisense Mini LED TVs, $300 off AnyCubic resin 3D printer, $100 off WD Elements 2TB Portable SSD, more!](https://appleinsider.com/articles/22/08/30/daily-deals-aug-30-450-off-hisense-mini-led-tvs-300-off-anycubic-resin-3d-printer-100-off-wd-elements-2tb-portable-ssd-more?utm_medium=rss)
+ - [Apple&#39;s features graveyard: Once heavily marketed, now gone](https://appleinsider.com/articles/22/08/30/apples-features-graveyard-once-heavily-marketed-now-gone?utm_medium=rss)
+ - [In a SEC filing, Elon Musk adds Peiter Zatko&#39;s allegations as a reason to terminate the $44B takeover bid, saying Twitter is in &quot;material noncompliance&quot; &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220830/p13#a220830p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
