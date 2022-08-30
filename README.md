@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well...he logged off](http://9gag.com/gag/aYrzjX7)
+ - 🚖 [No politics no drama just some good music](http://9gag.com/gag/aDDBRQZ)
  - 🚯 [Hahaha that look](http://9gag.com/gag/aYrzN5x)
- - 🚯 [How many inch punches is this?](http://9gag.com/gag/a61Wm6L)<!-- MEMES:END -->
+ - 🚯 [What\u2019s your favorite font?](http://9gag.com/gag/a61WwMm)<!-- MEMES:END -->
 
 --- 
 
