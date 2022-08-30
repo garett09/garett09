@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Season 2 Update PATCH NOTES, Master of Arms Release Time and NEW Content |  Gaming |  entertainment](https://game-rant-2022.blogspot.com/2022/08/battlefield-2042-season-2-update-patch.html)
- - [Cyberpunk: Edgerunners’ NSFW trailer feels like every tweet ever posted shooting you in the face](https://www.polygon.com/23329216/cyberpunk-edgerunners-release-date-nsfw-trailer-netflix)
- - [Rocket League x Ferrari: The Long-Awaited Collab](https://news.xbox.com/en-us/2022/08/30/rocket-league-x-ferrari-the-long-awaited-collab/)<!-- GAME:END -->
+ - [Resident Evil’s Wesker, Ada, and Rebecca join Dead by Daylight](https://www.polygon.com/23287703/dead-by-daylight-resident-evil-project-w-chapter-wesker-ada-wong-rebecca-chambers)
+ - [TMNT: The Cowabunga Collection: 5 hidden gems you should play](https://www.polygon.com/23328635/tmnt-cowabunga-collection-best-games-hidden-gems-ninja-turtles)
+ - [Autumn Update for World of Warships: Legends is Here and Rolling](https://news.xbox.com/en-us/2022/08/30/autumn-update-for-world-of-warships-legends-is-here-and-rolling/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
