@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California passes bill that requires online &#39;guardrails&#39; to protect children](https://appleinsider.com/articles/22/08/30/california-passes-bill-to-require-guardrails-to-protect-children-online?utm_medium=rss)
- - [The Android 13 beta is finally here for the Galaxy S21](https://www.androidauthority.com/android-13-galaxy-s21-3202460/)
- - [IFA 2022: all the news from Berlin’s big tech show](https://www.theverge.com/2022/8/30/23326789/ifa-2022-tech-news-updates-highlights-products-berlin)<!-- TECH:END -->
+ - [Belkin&#39;s Boost Charge Pro charges an iPhone 13 to half in 20 minutes](https://appleinsider.com/articles/22/08/30/belkins-boost-charge-pro-charges-an-iphone-13-to-half-in-20-minutes?utm_medium=rss)
+ - [This is the last week to get free rapid COVID-19 tests from the US government](https://www.theverge.com/2022/8/30/23329080/covid-test-free-white-house-website)
+ - [Elon Musk pushes to delay the Twitter trial while citing whistleblower’s testimony](https://www.theverge.com/2022/8/30/23329134/elon-musk-twitter-lawsuit-delay-whistleblower-testimony)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
