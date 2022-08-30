@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Meanwhile during the Kherson operation in another reality where sanctions don&#39;t work and everything is affordable.....](http://9gag.com/gag/aAGnBv2)
- - 🚯 [Man protecting his bees from hornets](http://9gag.com/gag/aKm0b66)
+ - 🚯 [Well...he logged off](http://9gag.com/gag/aYrzjX7)
  - 🚯 [Show me your derpy cat](http://9gag.com/gag/aNPxKqw)<!-- MEMES:END -->
 
 --- 
