@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t stick pp in crazy... but](http://9gag.com/gag/awzqxr8)
- - 🚯 [11-year old girl was raped by 4 guys in Kosovo, Prishtine. The whole city is out to demand justice and castrate those sob.](http://9gag.com/gag/a31oBjv)
- - 🚯 [The brits are becoming the Karens of Europe](http://9gag.com/gag/a81rjAZ)<!-- MEMES:END -->
+ - 🚖 [The brits are becoming the Karens of Europe](http://9gag.com/gag/a81rjAZ)
+ - 🚯 [After complaining about crying babies the woman slapped two passengers, forcing the flight to divert to Vienna so she could be dropped](http://9gag.com/gag/aNPyZ5K)
+ - 🚯 [Agreed.](http://9gag.com/gag/aNPynzG)<!-- MEMES:END -->
 
 --- 
 
