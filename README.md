@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber insurers are failing to reduce companies&#39; cyber risk exposure and to cover breached firms&#39; costs after state-sponsored cyberattacks that fall short of war &lpar;Josephine Wolff/Wired&rpar;](http://www.techmeme.com/220831/p8#a220831p8)
- - [Researchers: self-harm posts are on the rise on Twitter, including graphic photos and high engagement; one hashtag grew to 30,000 tweets by July 2022 &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/220831/p7#a220831p7)
- - [Daily Authority: 👋 Guten Tag from Berlin](https://www.androidauthority.com/daily-authority-august-31-2022-3202813/)<!-- TECH:END -->
+ - [Meta closing down Facebook Gaming iOS app in October](https://appleinsider.com/articles/22/08/31/meta-closing-down-facebook-gaming-ios-app-in-october?utm_medium=rss)
+ - [The Best Grills to Up Your Cookout Game](https://www.wired.com/gallery/best-grills/)
+ - [For Some Patients, Long Covid Symptoms Mask Something Else](https://www.wired.com/story/for-some-patients-long-covid-symptoms-mask-something-else/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
