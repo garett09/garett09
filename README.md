@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hole](http://9gag.com/gag/a114ey8)
+ - 🚖 [Pretty much](http://9gag.com/gag/a21QYde)
  - 🚯 [LeTs Do a HoLdOr MaNoVer....](http://9gag.com/gag/a51LKZN)
- - 🚯 [Pretty much](http://9gag.com/gag/a21QYde)<!-- MEMES:END -->
+ - 🚯 [The silence never bothered me, until it was the silence you left behind. You will be missed always, dear friend.](http://9gag.com/gag/ajg20RQ)<!-- MEMES:END -->
 
 --- 
 
