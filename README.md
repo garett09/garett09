@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta closing down Facebook Gaming iOS app in October](https://appleinsider.com/articles/22/08/31/meta-closing-down-facebook-gaming-ios-app-in-october?utm_medium=rss)
- - [The Best Grills to Up Your Cookout Game](https://www.wired.com/gallery/best-grills/)
- - [For Some Patients, Long Covid Symptoms Mask Something Else](https://www.wired.com/story/for-some-patients-long-covid-symptoms-mask-something-else/)<!-- TECH:END -->
+ - [Asus Zenbook 17 Fold review: foldable OLED display with a comfortable keyboard and professional look, but $3,500 is expensive and there are software glitches &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220831/p11#a220831p11)
+ - [You could get two Galaxy Folds for the price of Asus’ foldable laptop](https://www.androidauthority.com/asus-zenbook-17-fold-oled-3202872/)
+ - [An Inside Look at Asus&#39; First Laptop With a Foldable Screen](https://www.wired.com/story/asus-zenbook-17-fold-oled-exclusive-look/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
