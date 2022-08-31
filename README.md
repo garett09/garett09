@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Internet fight vs. real life](http://9gag.com/gag/axBpNzn)
- - 🚯 [Show me a more disturbing ending of a movie without spoilering it. My favorite is `the mist`.](http://9gag.com/gag/aAGnRZL)
- - 🚯 [Let&#39;s just say that this is a very good attitude when dealing with great source material...](http://9gag.com/gag/a21QN9Z)<!-- MEMES:END -->
+ - 🚖 [It\u2019s true. It all went downhill from there.](http://9gag.com/gag/apgeqgE)
+ - 🚯 [Let&#39;s just say that this is a very good attitude when dealing with great source material...](http://9gag.com/gag/a21QN9Z)
+ - 🚯 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aRrxgOG)<!-- MEMES:END -->
 
 --- 
 
