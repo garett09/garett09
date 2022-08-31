@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Norwegian Way](http://9gag.com/gag/a81rj9e)
- - 🚯 [A customer complained that her PC shuts down early after cleaning and reassembling it.](http://9gag.com/gag/a61W7m9)
- - 🚯 [When your frontal lobe is fully developed..](http://9gag.com/gag/aGzPx36)<!-- MEMES:END -->
+ - 🚖 [Agreed.](http://9gag.com/gag/aNPynzG)
+ - 🚯 [German farmers rise up. Ministry of Agriculture in Stuttgart blocked. Protests are underway in several of German cities.](http://9gag.com/gag/aBnD1xP)
+ - 🚯 [11-year old girl was raped by 4 guys in Kosovo, Prishtine. The whole city is out to demand justice and castrate those sob.](http://9gag.com/gag/a31oBjv)<!-- MEMES:END -->
 
 --- 
 
