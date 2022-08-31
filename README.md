@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legends of Runeterra’s new expansion is the start of a deadly saga](https://www.polygon.com/23330910/league-of-legends-darkin-saga-awakening-expansion)
- - [Zine Quest 4: Tiny indie games about outlaws, outer space, and an animal drag race](https://www.polygon.com/tabletop-games/23317981/zine-quest-4-best-ttrpg-games-independent)
- - [Jet Set Radio tribute Bomb Rush Cyberfunk delayed to next year](https://www.polygon.com/2022/8/31/23330718/bomb-rush-cyberfunk-delayed-release-date)<!-- GAME:END -->
+ - [How I Was a Teenage Exocolonist built a better content warning system](https://www.polygon.com/gaming/23328815/teenage-exocolonist-finji-northway-games-content-warnings)
+ - [Fortnite Leak Suggests A Lady Gaga Concert Is On The Horizon](https://kotaku.com/fortnite-leak-rainbow-royale-lady-gaga-concert-1849479441)
+ - [All the accessibility settings in The Last of Us Part 1](https://www.polygon.com/guides/23330275/the-last-of-us-part-1-accessibility-setting-list-features-customization-options)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
