@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everywhere isn&#39;t a metaverse, it&#39;s Roblox for grown-ups](https://www.pcgamer.com/everywhere-isnt-a-metaverse-its-roblox-for-grown-ups)
- - [Ubisoft pauses &#39;decommissioning&#39; of old games, reverses course on DLC deactivation](https://www.pcgamer.com/ubisoft-pauses-decommissioning-of-old-games-reverses-course-on-dlc-deactivation)
- - [Rocksmith Plus, a guitar practice tool, arrives on PC on Sept. 6](https://www.polygon.com/23331165/rocksmith-plus-pc-release-date-launch-ubisoft-september-subscription-details)<!-- GAME:END -->
+ - [D&amp;D’s attempts to root out racism in its books have taken a step backward](https://www.polygon.com/23330621/dnd-spelljammer-hadozee-racist)
+ - [Sekiro God&#39;s No-Damage Run Was Three Years In Making](https://kotaku.com/sekiro-all-enemies-no-hit-challenge-speedrun-urban-orb-1849480657)
+ - [Elden Ring is the new Skyrim](https://www.pcgamer.com/elden-ring-is-the-new-skyrim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
