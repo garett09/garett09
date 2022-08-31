@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact ‘Aranyaka’ world quest guide](https://www.polygon.com/genshin-impact-guides/23330838/aranyaka-world-quest-location-woodland-encounter-dream-nursery-lost-end-forest-will-remember)
- - [Bethesda forced Arkane to call its game Prey, which studio founder says was &#39;very, very hurtful&#39;](https://www.pcgamer.com/bethesda-forced-arkane-to-call-its-game-prey-which-studio-founder-says-was-very-very-hurtful)
- - [The Best And Worst Parts Of Every Mainline Pokémon Game](https://kotaku.com/best-worst-pokemon-games-nintendo-switch-ds-game-boy-1849480688)<!-- GAME:END -->
+ - [The Last Of Us Part I Reviews Praise The Visuals, But The Misery Porn Remains](https://kotaku.com/the-last-of-us-part-one-i-reviews-playstation-naughty-d-1849481601)
+ - [The Original Mafia Will Be Free On Steam For Its 20th Anniversary](https://kotaku.com/mafia-steam-free-original-limited-time-anniversary-1849481501)
+ - [Deathloop joins PlayStation Plus Extra’s library in September](https://www.polygon.com/23331759/playstation-plus-games-for-september-2022-extra-premium-deathloop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
