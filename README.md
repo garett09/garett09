@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Semiconductor shipments from South Korean chipmakers fell 22.7% YoY in July, the first drop in almost three years according to the national statistics office &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220830/p39#a220830p39)
- - [Indonesia&#39;s largest tech company GoTo posts a ~$955M net loss for H1 2022 and announces the acquisition of local crypto exchange Kripto Maksima Koin for $8.4M &lpar;Arno Maierbrugger/Investvine&rpar;](http://www.techmeme.com/220830/p38#a220830p38)
- - [Jeff Bezos Thanks &#39;The Lord of the Rings&#39; Showrunners For &#39;Ignoring&#39; His Notes     - CNET](https://www.cnet.com/culture/entertainment/jeff-bezos-thanks-the-lord-of-the-rings-showrunners-for-ignoring-his-notes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Variable aperture smartphone cameras will make a comeback next week](https://www.androidauthority.com/variable-aperture-smartphone-camera-huawei-3200727/)
+ - [Semiconductor shipments from South Korean chipmakers fell 22.7% YoY in July 2022, the first drop in almost three years per the national statistics office &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220830/p39#a220830p39)
+ - [Indonesia&#39;s largest tech company GoTo posts a ~$955M net loss for H1 2022 and announces the acquisition of local crypto exchange Kripto Maksima Koin for $8.4M &lpar;Arno Maierbrugger/Investvine&rpar;](http://www.techmeme.com/220830/p38#a220830p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
