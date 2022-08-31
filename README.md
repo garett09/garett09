@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoft looks set to publish its own games after share deal with Sony and Tencent](https://www.pcgamer.com/fromsoft-looks-set-to-publish-its-own-games-after-share-deal-with-sony-and-tencent)
- - [Rick and Morty season 6 promises more multiverses after blowing one up](https://www.polygon.com/23322442/rick-morty-season-6-episodes-preview)
- - [Intel Arc will soon deliver &#39;a card that&#39;s faster than the [RTX] 3060 at prices that are lower&#39;](https://www.pcgamer.com/intel-arc-a770-a750-rtx-3060-performance)<!-- GAME:END -->
+ - [Indies coming to PS4 &amp; PS5 in September 2022](https://blog.playstation.com/2022/08/31/indies-coming-to-ps4-ps5-in-september-2022/)
+ - [The Rings of Power’s first episodes only skim the surface of Lord of the Rings](https://www.polygon.com/23329258/lord-rings-power-review-episode-release)
+ - [Pokémon GO TikTok Seems To Say The Quiet Part: People Are DTF Pokémon](https://kotaku.com/pokemon-go-niantic-nintendo-pheromosa-tiktok-dtf-1849477754)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
