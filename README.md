@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is planning more paid features for Facebook and Instagram](https://www.theverge.com/2022/8/31/23331342/meta-plans-paid-features-facebook-instagram-whatsapp)
- - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)
- - [Arm sets up legal showdown with Qualcomm and Nuvia](https://www.androidauthority.com/arm-sues-qualcomm-and-nuvia-3203367/)<!-- TECH:END -->
+ - [Qualcomm’s server and laptop ambitions may be in trouble](https://www.theverge.com/2022/8/31/23331493/arm-qualcomm-nuvia-lawsuit-architecture-license-servers-desktops)
+ - [Internal memo: Meta is setting up a New Monetization Experiences division to identify and build &quot;possible paid features&quot; for Facebook, Instagram, and WhatsApp &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220831/p25#a220831p25)
+ - [Behind Google Worker Protests of an Israeli Government Cloud Deal](https://www.wired.com/story/inside-google-worker-protests-of-an-israeli-government-cloud-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
