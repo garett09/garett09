@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Zenbook 17 Fold review: foldable OLED display with a comfortable keyboard and professional look, but $3,500 is expensive and there are software glitches &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220831/p11#a220831p11)
- - [You could get two Galaxy Folds for the price of Asus’ foldable laptop](https://www.androidauthority.com/asus-zenbook-17-fold-oled-3202872/)
- - [An Inside Look at Asus&#39; First Laptop With a Foldable Screen](https://www.wired.com/story/asus-zenbook-17-fold-oled-exclusive-look/)<!-- TECH:END -->
+ - [Ticketmaster&#39;s Live Nation partners with Dapper Labs to release ticket NFTs on the Flow blockchain and expands its NFL partnership for NFTs to 100 games &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220831/p14#a220831p14)
+ - [The open elevator door button puts kindness at our fingertips](https://www.theverge.com/2022/8/31/23318937/open-elevator-door-button-kindness)
+ - [Memo: on top of cutting 20% of its staff, Snap is canceling its original shows, in-app games, and several other projects; layoffs could save $500M annually &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220831/p13#a220831p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
