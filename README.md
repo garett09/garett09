@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s attempts to root out racism in its books have taken a step backward](https://www.polygon.com/23330621/dnd-spelljammer-hadozee-racist)
- - [Sekiro God&#39;s No-Damage Run Was Three Years In Making](https://kotaku.com/sekiro-all-enemies-no-hit-challenge-speedrun-urban-orb-1849480657)
- - [Elden Ring is the new Skyrim](https://www.pcgamer.com/elden-ring-is-the-new-skyrim)<!-- GAME:END -->
+ - [Genshin Impact ‘Aranyaka’ world quest guide](https://www.polygon.com/genshin-impact-guides/23330838/aranyaka-world-quest-location-woodland-encounter-dream-nursery-lost-end-forest-will-remember)
+ - [Bethesda forced Arkane to call its game Prey, which studio founder says was &#39;very, very hurtful&#39;](https://www.pcgamer.com/bethesda-forced-arkane-to-call-its-game-prey-which-studio-founder-says-was-very-very-hurtful)
+ - [The Best And Worst Parts Of Every Mainline Pokémon Game](https://kotaku.com/best-worst-pokemon-games-nintendo-switch-ds-game-boy-1849480688)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
