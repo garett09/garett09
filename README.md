@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After an outcry over offering services to transphobic forum Kiwi Farms, Cloudflare says withholding services because of &quot;despicable&quot; content is the wrong policy &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220831/p17#a220831p17)
- - [A ‘high severity’ TikTok vulnerability allowed one-click account hijacking](https://www.theverge.com/2022/8/31/23329662/tiktok-vulnerability-microsoft-one-click-exploit-high-severity)
- - [Google Nest’s fall-themed ringtones are coming even earlier this year](https://www.theverge.com/2022/8/31/23329855/google-nest-doorbell-fall-ringtones-halloween-oktoberfest-diwali)<!-- TECH:END -->
+ - [Apple releases iOS 12.5.6 for older iPhones](https://appleinsider.com/articles/22/08/31/apple-releases-ios-1256-for-older-iphones?utm_medium=rss)
+ - [The shift to electric vehicles is about to overwhelm meager US mining operations](https://www.theverge.com/2022/8/31/23330537/ev-battery-mineral-shortage-us-tax-credits)
+ - [T-Mobile will let you try its network free for three months](https://www.theverge.com/2022/8/31/23329133/t-mobile-app-network-pass-easy-switch-esim)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
