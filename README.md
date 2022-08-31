@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grammatically -Yes Technically -No.](http://9gag.com/gag/a31oLEm)
- - 🚯 [The silence never bothered me, until it was the silence you left behind. You will be missed always, dear friend.](http://9gag.com/gag/ajg20RQ)
- - 🚯 [He dont like that pride mic](http://9gag.com/gag/aze6Ewx)<!-- MEMES:END -->
+ - 🚖 [Brrrrrrrrrrrrrrrrrrrrrrr. Fuk me is that the time.](http://9gag.com/gag/aPZOG1K)
+ - 🚯 [Grammatically -Yes Technically -No.](http://9gag.com/gag/a31oLEm)
+ - 🚯 [LeTs Do a HoLdOr MaNoVer....](http://9gag.com/gag/a51LKZN)<!-- MEMES:END -->
 
 --- 
 
