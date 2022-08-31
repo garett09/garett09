@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jet Set Radio tribute Bomb Rush Cyberfunk delayed to next year](https://www.polygon.com/2022/8/31/23330718/bomb-rush-cyberfunk-delayed-release-date)
- - [Dwarf Fortress has a new soundtrack, including Dwarfish lyrics for the first time](https://www.polygon.com/23330833/dwarf-fortress-soundtrack-adam-swerwer-dabu)
- - [Pokémon Scarlet And Violet’s Preorder Bonuses Are So Terrible, They&#39;re Getting Mocked](https://kotaku.com/pokemon-scarlet-violet-preorder-bonuses-nintendo-1849479057)<!-- GAME:END -->
+ - [Legends of Runeterra’s new expansion is the start of a deadly saga](https://www.polygon.com/23330910/league-of-legends-darkin-saga-awakening-expansion)
+ - [Zine Quest 4: Tiny indie games about outlaws, outer space, and an animal drag race](https://www.polygon.com/tabletop-games/23317981/zine-quest-4-best-ttrpg-games-independent)
+ - [Jet Set Radio tribute Bomb Rush Cyberfunk delayed to next year](https://www.polygon.com/2022/8/31/23330718/bomb-rush-cyberfunk-delayed-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
