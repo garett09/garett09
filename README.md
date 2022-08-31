@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Chris McKillop, former director of engineering for Google&#39;s Fuchsia project, on the past, present, and future of the OS, failures of Nexus Q, and more &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220831/p19#a220831p19)
  - [Apple releases iOS 12.5.6 for older iPhones](https://appleinsider.com/articles/22/08/31/apple-releases-ios-1256-for-older-iphones?utm_medium=rss)
- - [The shift to electric vehicles is about to overwhelm meager US mining operations](https://www.theverge.com/2022/8/31/23330537/ev-battery-mineral-shortage-us-tax-credits)
- - [T-Mobile will let you try its network free for three months](https://www.theverge.com/2022/8/31/23329133/t-mobile-app-network-pass-easy-switch-esim)<!-- TECH:END -->
+ - [Don’t expect to get a charger with your Oppo phone next year](https://www.androidauthority.com/oppo-phone-no-charger-3203108/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
