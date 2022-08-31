@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at 12M+ of the 2.3B images used to train Stable Diffusion reveals ~47% came from only 100 domains; the largest number or 8.5% originated from Pinterest &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/220830/p35#a220830p35)
- - [Apple privacy exec Jane Horvath departing for law firm](https://appleinsider.com/articles/22/08/31/apple-privacy-exec-jane-horvath-departing-for-law-firm?utm_medium=rss)
- - [Samsung Labor Day Sale: up to $1,500 off TVs &amp; Bespoke refrigerators, plus free Galaxy Fold credit](https://appleinsider.com/articles/22/08/31/samsung-labor-day-sale-up-to-1500-off-tvs-bespoke-refrigerators-plus-free-galaxy-fold-credit?utm_medium=rss)<!-- TECH:END -->
+ - [Semiconductor shipments from South Korean chipmakers fell 22.7% YoY in July, the first drop in almost three years according to the national statistics office &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220830/p39#a220830p39)
+ - [Indonesia&#39;s largest tech company GoTo posts a ~$955M net loss for H1 2022 and announces the acquisition of local crypto exchange Kripto Maksima Koin for $8.4M &lpar;Arno Maierbrugger/Investvine&rpar;](http://www.techmeme.com/220830/p38#a220830p38)
+ - [Jeff Bezos Thanks &#39;The Lord of the Rings&#39; Showrunners For &#39;Ignoring&#39; His Notes     - CNET](https://www.cnet.com/culture/entertainment/jeff-bezos-thanks-the-lord-of-the-rings-showrunners-for-ignoring-his-notes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
