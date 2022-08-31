@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roper Technologies agrees to buy Frontline Education, which makes administration software for K-12 education, from PE firm Thoma Bravo in a ~$3.7B all-cash deal &lpar;Reuters&rpar;](http://www.techmeme.com/220831/p2#a220831p2)
- - [Best Printer for 2022     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Best Engine Oil for 2022     - CNET](https://www.cnet.com/roadshow/news/best-engine-oil/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s VP of Corporate Development Adrian Perica has quietly left Didi&#39;s board; Perica joined the board in 2016 after Apple&#39;s $1B investment in Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/220831/p6#a220831p6)
+ - [Crypto.com sues an Australian woman after erroneously sending her $10.5M in May 2021 after she requested a $100 refund; the woman allegedly purchased a house &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220831/p5#a220831p5)
+ - [Japan&#39;s digital minister Taro Kono pledges to rip up rules that require floppy disks and CD-ROMs to be used when sending data to the government &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/220831/p4#a220831p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
