@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Frontiers is a positive step forward that still needs work](https://game-rant-2022.blogspot.com/2022/08/sonic-frontiers-is-positive-step.html)
- - [Why they help, which games to play?](https://game-rant-2022.blogspot.com/2022/08/why-they-help-which-games-to-play.html)
- - [10 Most Valuable Nintendo Games](https://game-rant-2022.blogspot.com/2022/08/10-most-valuable-nintendo-games.html)<!-- GAME:END -->
+ - [5 Best Video Games For Taxi Driver Fans](https://game-rant-2022.blogspot.com/2022/08/5-best-video-games-for-taxi-driver-fans.html)
+ - [Best female outfits to unlock in the game so far](https://game-rant-2022.blogspot.com/2022/08/best-female-outfits-to-unlock-in-game.html)
+ - [Best game computer |  WRIC ABC 8News](https://game-rant-2022.blogspot.com/2022/08/best-game-computer-wric-abc-8news.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
