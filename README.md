@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I played The Last of Us for the first time in 2022](https://www.polygon.com/reviews/23329135/the-last-of-us-part-1-ps5-review-release-date-naughty-dog)
- - [How to unlock the King&#39;s Fall red border weapon chest in Destiny 2](https://www.pcgamer.com/destiny-2-kings-fall-red-border-weapon-chest)
- - [The Pinocchio Action Game Is A Love Letter To FromSoftware, Not A Bloodborne Clone](https://kotaku.com/lies-of-p-bloodborne-sekiro-dark-souls-fromsoftware-1849478264)<!-- GAME:END -->
+ - [Jet Set Radio tribute Bomb Rush Cyberfunk delayed to next year](https://www.polygon.com/2022/8/31/23330718/bomb-rush-cyberfunk-delayed-release-date)
+ - [Dwarf Fortress has a new soundtrack, including Dwarfish lyrics for the first time](https://www.polygon.com/23330833/dwarf-fortress-soundtrack-adam-swerwer-dabu)
+ - [Pokémon Scarlet And Violet’s Preorder Bonuses Are So Terrible, They&#39;re Getting Mocked](https://kotaku.com/pokemon-scarlet-violet-preorder-bonuses-nintendo-1849479057)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
