@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [11-year old girl was raped by 4 guys in Kosovo, Prishtine. The whole city is out to demand justice and castrate those sob.](http://9gag.com/gag/a31oBjv)
- - 🚯 [1.5 years in jail and license lost for life for motorbiker doing 263 kph in 80 zone in Norway](http://9gag.com/gag/aRrxAmB)
- - 🚯 [When your frontal lobe is fully developed..](http://9gag.com/gag/aGzPx36)<!-- MEMES:END -->
+ - 🚖 [Haha ~ when generations collide.](http://9gag.com/gag/angA1Rn)
+ - 🚯 [When your frontal lobe is fully developed..](http://9gag.com/gag/aGzPx36)
+ - 🚯 [25 years old...](http://9gag.com/gag/a81r4x6)<!-- MEMES:END -->
 
 --- 
 
