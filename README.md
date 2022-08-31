@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says developers can now purchase Xcode Cloud subscriptions; the plan with 25 compute hours will be free until the end of 2023 and $15/month after that &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220830/p34#a220830p34)
- - [Samsung adds more free channels and content to its TV Plus lineup](https://www.theverge.com/2022/8/30/23329219/samsung-tv-plus-adds-more-free-channels-content-fast-streaming)
- - [Royal Caribbean is putting SpaceX’s Starlink on its cruise ships](https://www.theverge.com/2022/8/30/23329610/royal-caribbean-spacex-starlink-cruise-ships-celebrity-silversea)<!-- TECH:END -->
+ - [A look at 12M+ of the 2.3B images used to train Stable Diffusion reveals ~47% came from only 100 domains; the largest number or 8.5% originated from Pinterest &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/220830/p35#a220830p35)
+ - [Apple privacy exec Jane Horvath departing for law firm](https://appleinsider.com/articles/22/08/31/apple-privacy-exec-jane-horvath-departing-for-law-firm?utm_medium=rss)
+ - [Samsung Labor Day Sale: up to $1,500 off TVs &amp; Bespoke refrigerators, plus free Galaxy Fold credit](https://appleinsider.com/articles/22/08/31/samsung-labor-day-sale-up-to-1500-off-tvs-bespoke-refrigerators-plus-free-galaxy-fold-credit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
