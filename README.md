@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Haha ~ when generations collide.](http://9gag.com/gag/angA1Rn)
- - 🚯 [When your frontal lobe is fully developed..](http://9gag.com/gag/aGzPx36)
- - 🚯 [25 years old...](http://9gag.com/gag/a81r4x6)<!-- MEMES:END -->
+ - 🚖 [When your frontal lobe is fully developed..](http://9gag.com/gag/aGzPx36)
+ - 🚯 [Scruff Mcgruff says:](http://9gag.com/gag/angANVB)
+ - 🚯 [Leonardo DiCaprio every time one of his girlfriends turn 25](http://9gag.com/gag/angABpE)<!-- MEMES:END -->
 
 --- 
 
