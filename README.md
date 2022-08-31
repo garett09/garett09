@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s VP of Corporate Development Adrian Perica has quietly left Didi&#39;s board; Perica joined the board in 2016 after Apple&#39;s $1B investment in Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/220831/p6#a220831p6)
- - [Crypto.com sues an Australian woman after erroneously sending her $10.5M in May 2021 after she requested a $100 refund; the woman allegedly purchased a house &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220831/p5#a220831p5)
- - [Japan&#39;s digital minister Taro Kono pledges to rip up rules that require floppy disks and CD-ROMs to be used when sending data to the government &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/220831/p4#a220831p4)<!-- TECH:END -->
+ - [Cyber insurers are failing to reduce companies&#39; cyber risk exposure and to cover breached firms&#39; costs after state-sponsored cyberattacks that fall short of war &lpar;Josephine Wolff/Wired&rpar;](http://www.techmeme.com/220831/p8#a220831p8)
+ - [Researchers: self-harm posts are on the rise on Twitter, including graphic photos and high engagement; one hashtag grew to 30,000 tweets by July 2022 &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/220831/p7#a220831p7)
+ - [Daily Authority: 👋 Guten Tag from Berlin](https://www.androidauthority.com/daily-authority-august-31-2022-3202813/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
