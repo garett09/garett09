@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Variable aperture smartphone cameras will make a comeback next week](https://www.androidauthority.com/variable-aperture-smartphone-camera-huawei-3200727/)
- - [Semiconductor shipments from South Korean chipmakers fell 22.7% YoY in July 2022, the first drop in almost three years per the national statistics office &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220830/p39#a220830p39)
- - [Indonesia&#39;s largest tech company GoTo posts a ~$955M net loss for H1 2022 and announces the acquisition of local crypto exchange Kripto Maksima Koin for $8.4M &lpar;Arno Maierbrugger/Investvine&rpar;](http://www.techmeme.com/220830/p38#a220830p38)<!-- TECH:END -->
+ - [Q&amp;A with Facebook app head Tom Alison on the needs of young adults, changes to the Feed, TikTok&#39;s influence, recommendation systems, political content, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220831/p1#a220831p1)
+ - [Logitech G Gaming Handheld leaks online &lpar;Updated: Budget specs&rpar;](https://www.androidauthority.com/logitech-g-gaming-handheld-leaks-3202279/)
+ - [Rocket Mortgage Review for September 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/rocket-mortgage-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
