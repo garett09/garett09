@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Top %1 conspiracy](http://9gag.com/gag/aAGnr4R)
- - 🚯 [Hol up...](http://9gag.com/gag/a41Mdnw)
- - 🚯 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aRrxgOG)<!-- MEMES:END -->
+ - 🚯 [R.I.P. Mikhail Gorbachev](http://9gag.com/gag/aGzPVzX)
+ - 🚯 [Pretty much](http://9gag.com/gag/a21QYde)<!-- MEMES:END -->
 
 --- 
 
