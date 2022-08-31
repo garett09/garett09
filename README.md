@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower](https://www.pcgamer.com/vmware-vsphere-8-ai-metaverse-server)
- - [Zordix Announces God of Rock, Afterimage, Teslagrad 2 and More at Gamescom 2022](https://game-rant-2022.blogspot.com/2022/08/zordix-announces-god-of-rock-afterimage.html)
- - [Can Valve release a console that competes with PS5 and the Xbox?](https://game-rant-2022.blogspot.com/2022/08/can-valve-release-console-that-competes.html)<!-- GAME:END -->
+ - [AMD&#39;s Lisa Su confirms chiplet-based RDNA 3 GPU architecture](https://www.pcgamer.com/amds-lisa-su-confirms-chiplet-based-rdna-3-gpu-architecture)
+ - [Chinese tech titan NetEase acquires Detroit: Become Human dev Quantic Dream](https://www.pcgamer.com/chinese-tech-titan-netease-acquires-detroit-become-human-dev-quantic-dream)
+ - [The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower](https://www.pcgamer.com/vmware-vsphere-8-ai-metaverse-server)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
