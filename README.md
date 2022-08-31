@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Top %1 conspiracy](http://9gag.com/gag/aAGnr4R)
- - 🚯 [R.I.P. Mikhail Gorbachev](http://9gag.com/gag/aGzPVzX)
+ - 🚖 [The hole](http://9gag.com/gag/a114ey8)
+ - 🚯 [LeTs Do a HoLdOr MaNoVer....](http://9gag.com/gag/a51LKZN)
  - 🚯 [Pretty much](http://9gag.com/gag/a21QYde)<!-- MEMES:END -->
 
 --- 
