@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Part I Reviews Praise The Visuals, But The Misery Porn Remains](https://kotaku.com/the-last-of-us-part-one-i-reviews-playstation-naughty-d-1849481601)
- - [The Original Mafia Will Be Free On Steam For Its 20th Anniversary](https://kotaku.com/mafia-steam-free-original-limited-time-anniversary-1849481501)
- - [Deathloop joins PlayStation Plus Extra’s library in September](https://www.polygon.com/23331759/playstation-plus-games-for-september-2022-extra-premium-deathloop)<!-- GAME:END -->
+ - [Wrath of the Lich King Classic&#39;s new group finder tool is a mess](https://www.pcgamer.com/wrath-of-the-lich-king-classics-new-group-finder-tool-is-a-mess)
+ - [Lady Gaga may soon be holding a virtual concert in Fortnite](https://www.pcgamer.com/lady-gaga-may-soon-be-holding-a-virtual-concert-in-fortnite)
+ - [House of the Dragon’s Miguel Sapochnik is stepping down as co-showrunner](https://www.polygon.com/23331775/house-of-the-dragon-miguel-sapochnik-leaving-showrunner-alan-taylor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
