@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketing service SeatGeek raised a $238M Series E at a ~$1.2B valuation after terminating a SPAC deal with Forbes in early June &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/220831/p23#a220831p23)
- - [iPhone 14 camera cutout may not be the shape that&#39;s expected](https://appleinsider.com/articles/22/08/31/iphone-camera-cutout-may-not-be-the-shape-thats-expected?utm_medium=rss)
- - [Tim Cook promises donations to flood relief efforts in Pakistan](https://appleinsider.com/articles/22/08/31/tim-cook-promises-donations-to-flood-relief-efforts-in-pakistan?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is planning more paid features for Facebook and Instagram](https://www.theverge.com/2022/8/31/23331342/meta-plans-paid-features-facebook-instagram-whatsapp)
+ - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)
+ - [Arm sets up legal showdown with Qualcomm and Nuvia](https://www.androidauthority.com/arm-sues-qualcomm-and-nuvia-3203367/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
