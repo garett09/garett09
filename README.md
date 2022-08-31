@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s true. It all went downhill from there.](http://9gag.com/gag/apgeqgE)
- - 🚯 [Let&#39;s just say that this is a very good attitude when dealing with great source material...](http://9gag.com/gag/a21QN9Z)
- - 🚯 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aRrxgOG)<!-- MEMES:END -->
+ - 🚖 [Missing out!](http://9gag.com/gag/a41M9Qw)
+ - 🚯 [It&#39;s fine !](http://9gag.com/gag/a61WwWq)
+ - 🚯 [Dog lovers](http://9gag.com/gag/aYrzWj2)<!-- MEMES:END -->
 
 --- 
 
