@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Facebook app head Tom Alison on the needs of young adults, changes to the Feed, TikTok&#39;s influence, recommendation systems, political content, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220831/p1#a220831p1)
- - [Logitech G Gaming Handheld leaks online &lpar;Updated: Budget specs&rpar;](https://www.androidauthority.com/logitech-g-gaming-handheld-leaks-3202279/)
- - [Rocket Mortgage Review for September 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/rocket-mortgage-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roper Technologies agrees to buy Frontline Education, which makes administration software for K-12 education, from PE firm Thoma Bravo in a ~$3.7B all-cash deal &lpar;Reuters&rpar;](http://www.techmeme.com/220831/p2#a220831p2)
+ - [Best Printer for 2022     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Best Engine Oil for 2022     - CNET](https://www.cnet.com/roadshow/news/best-engine-oil/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
