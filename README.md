@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Max Q: Scrubbed – TechCrunch](https://game-rant-2022.blogspot.com/2022/08/max-q-scrubbed-techcrunch.html)
- - [Must-Play video games for fans of Stray](https://game-rant-2022.blogspot.com/2022/08/must-play-video-games-for-fans-of-stray.html)
- - [Games that started developing as other projects](https://game-rant-2022.blogspot.com/2022/08/games-that-started-developing-as-other.html)<!-- GAME:END -->
+ - [Developer suspects negative Steam reviews were written by vengeful scammers](https://www.pcgamer.com/developer-suspects-negative-steam-reviews-were-written-by-vengeful-scammers)
+ - [Nickelodeon All-Star Brawl was supposed to be like Multiversus](https://game-rant-2022.blogspot.com/2022/08/nickelodeon-all-star-brawl-was-supposed.html)
+ - [Q&amp;A: Tobias Madden, author of &#39;Take a Bow, Noah Mitchell&#39;](https://game-rant-2022.blogspot.com/2022/08/q-tobias-madden-author-of-take-bow-noah.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
