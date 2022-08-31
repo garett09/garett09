@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indies coming to PS4 &amp; PS5 in September 2022](https://blog.playstation.com/2022/08/31/indies-coming-to-ps4-ps5-in-september-2022/)
- - [The Rings of Power’s first episodes only skim the surface of Lord of the Rings](https://www.polygon.com/23329258/lord-rings-power-review-episode-release)
- - [Pokémon GO TikTok Seems To Say The Quiet Part: People Are DTF Pokémon](https://kotaku.com/pokemon-go-niantic-nintendo-pheromosa-tiktok-dtf-1849477754)<!-- GAME:END -->
+ - [I played The Last of Us for the first time in 2022](https://www.polygon.com/reviews/23329135/the-last-of-us-part-1-ps5-review-release-date-naughty-dog)
+ - [How to unlock the King&#39;s Fall red border weapon chest in Destiny 2](https://www.pcgamer.com/destiny-2-kings-fall-red-border-weapon-chest)
+ - [The Pinocchio Action Game Is A Love Letter To FromSoftware, Not A Bloodborne Clone](https://kotaku.com/lies-of-p-bloodborne-sekiro-dark-souls-fromsoftware-1849478264)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
