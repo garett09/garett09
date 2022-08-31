@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn on Walking Steadiness notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-turn-on-walking-steadiness-notifications-in-ios-16?utm_medium=rss)
- - [Arm sues Qualcomm and its subsidiary Nuvia for using licenses without approval, asking Qualcomm to destroy designs developed under Nuvia&#39;s agreements with Arm &lpar;Reuters&rpar;](http://www.techmeme.com/220831/p22#a220831p22)
- - [The best Labor Day deals happening now](https://www.theverge.com/23330512/best-labor-day-sales-2022-tech-deals-macbook-laptops-earbuds-smart-home-tablets)<!-- TECH:END -->
+ - [Ticketing service SeatGeek raised a $238M Series E at a ~$1.2B valuation after terminating a SPAC deal with Forbes in early June &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/220831/p23#a220831p23)
+ - [iPhone 14 camera cutout may not be the shape that&#39;s expected](https://appleinsider.com/articles/22/08/31/iphone-camera-cutout-may-not-be-the-shape-thats-expected?utm_medium=rss)
+ - [Tim Cook promises donations to flood relief efforts in Pakistan](https://appleinsider.com/articles/22/08/31/tim-cook-promises-donations-to-flood-relief-efforts-in-pakistan?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
