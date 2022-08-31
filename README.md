@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Lisa Su confirms chiplet-based RDNA 3 GPU architecture](https://www.pcgamer.com/amds-lisa-su-confirms-chiplet-based-rdna-3-gpu-architecture)
- - [Chinese tech titan NetEase acquires Detroit: Become Human dev Quantic Dream](https://www.pcgamer.com/chinese-tech-titan-netease-acquires-detroit-become-human-dev-quantic-dream)
- - [The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower](https://www.pcgamer.com/vmware-vsphere-8-ai-metaverse-server)<!-- GAME:END -->
+ - [FromSoft looks set to publish its own games after share deal with Sony and Tencent](https://www.pcgamer.com/fromsoft-looks-set-to-publish-its-own-games-after-share-deal-with-sony-and-tencent)
+ - [Rick and Morty season 6 promises more multiverses after blowing one up](https://www.polygon.com/23322442/rick-morty-season-6-episodes-preview)
+ - [Intel Arc will soon deliver &#39;a card that&#39;s faster than the [RTX] 3060 at prices that are lower&#39;](https://www.pcgamer.com/intel-arc-a770-a750-rtx-3060-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
