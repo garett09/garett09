@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How I Was a Teenage Exocolonist built a better content warning system](https://www.polygon.com/gaming/23328815/teenage-exocolonist-finji-northway-games-content-warnings)
- - [Fortnite Leak Suggests A Lady Gaga Concert Is On The Horizon](https://kotaku.com/fortnite-leak-rainbow-royale-lady-gaga-concert-1849479441)
- - [All the accessibility settings in The Last of Us Part 1](https://www.polygon.com/guides/23330275/the-last-of-us-part-1-accessibility-setting-list-features-customization-options)<!-- GAME:END -->
+ - [Everywhere isn&#39;t a metaverse, it&#39;s Roblox for grown-ups](https://www.pcgamer.com/everywhere-isnt-a-metaverse-its-roblox-for-grown-ups)
+ - [Ubisoft pauses &#39;decommissioning&#39; of old games, reverses course on DLC deactivation](https://www.pcgamer.com/ubisoft-pauses-decommissioning-of-old-games-reverses-course-on-dlc-deactivation)
+ - [Rocksmith Plus, a guitar practice tool, arrives on PC on Sept. 6](https://www.polygon.com/23331165/rocksmith-plus-pc-release-date-launch-ubisoft-september-subscription-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
