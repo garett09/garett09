@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Developer suspects negative Steam reviews were written by vengeful scammers](https://www.pcgamer.com/developer-suspects-negative-steam-reviews-were-written-by-vengeful-scammers)
- - [Nickelodeon All-Star Brawl was supposed to be like Multiversus](https://game-rant-2022.blogspot.com/2022/08/nickelodeon-all-star-brawl-was-supposed.html)
- - [Q&amp;A: Tobias Madden, author of &#39;Take a Bow, Noah Mitchell&#39;](https://game-rant-2022.blogspot.com/2022/08/q-tobias-madden-author-of-take-bow-noah.html)<!-- GAME:END -->
+ - [Sonic Frontiers is a positive step forward that still needs work](https://game-rant-2022.blogspot.com/2022/08/sonic-frontiers-is-positive-step.html)
+ - [Why they help, which games to play?](https://game-rant-2022.blogspot.com/2022/08/why-they-help-which-games-to-play.html)
+ - [10 Most Valuable Nintendo Games](https://game-rant-2022.blogspot.com/2022/08/10-most-valuable-nintendo-games.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
