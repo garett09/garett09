@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yesterday in La Bisbal d&#39;Empord\u00e0](http://9gag.com/gag/a41MZ7y)
+ - 🚖 [Re watched this beauty](http://9gag.com/gag/aVxGDbP)
  - 🚯 [German farmers rise up. Ministry of Agriculture in Stuttgart blocked. Protests are underway in several of German cities.](http://9gag.com/gag/aBnD1xP)
- - 🚯 [A rule is a rule](http://9gag.com/gag/a913Wr6)<!-- MEMES:END -->
+ - 🚯 [Yesterday in La Bisbal d&#39;Empord\u00e0](http://9gag.com/gag/a41MZ7y)<!-- MEMES:END -->
 
 --- 
 
