@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brrrrrrrrrrrrrrrrrrrrrrr. Fuk me is that the time.](http://9gag.com/gag/aPZOG1K)
- - 🚯 [Grammatically -Yes Technically -No.](http://9gag.com/gag/a31oLEm)
- - 🚯 [LeTs Do a HoLdOr MaNoVer....](http://9gag.com/gag/a51LKZN)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t stick pp in crazy... but](http://9gag.com/gag/awzqxr8)
+ - 🚯 [11-year old girl was raped by 4 guys in Kosovo, Prishtine. The whole city is out to demand justice and castrate those sob.](http://9gag.com/gag/a31oBjv)
+ - 🚯 [The brits are becoming the Karens of Europe](http://9gag.com/gag/a81rjAZ)<!-- MEMES:END -->
 
 --- 
 
