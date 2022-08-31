@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Chris McKillop, former director of engineering for Google&#39;s Fuchsia project, on the past, present, and future of the OS, failures of Nexus Q, and more &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220831/p19#a220831p19)
- - [Apple releases iOS 12.5.6 for older iPhones](https://appleinsider.com/articles/22/08/31/apple-releases-ios-1256-for-older-iphones?utm_medium=rss)
- - [Don’t expect to get a charger with your Oppo phone next year](https://www.androidauthority.com/oppo-phone-no-charger-3203108/)<!-- TECH:END -->
+ - [Samsung’s first OLED gaming monitor doesn’t need a PC or console attached](https://www.theverge.com/2022/8/31/23330877/samsung-oled-gaming-monitor-odyssey-g8-quantum-dot)
+ - [Is the Psychedelic Therapy Bubble About to Burst?](https://www.wired.com/story/psychedelic-hype-bubble/)
+ - [Chinese tech giant buys Detroit: Become Human developer Quantic Dream](https://www.theverge.com/2022/8/31/23330961/chinese-tech-giant-netease-quantic-dream-detroit-become-human-developer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
