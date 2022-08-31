@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Missing out!](http://9gag.com/gag/a41M9Qw)
- - 🚯 [It&#39;s fine !](http://9gag.com/gag/a61WwWq)
- - 🚯 [Dog lovers](http://9gag.com/gag/aYrzWj2)<!-- MEMES:END -->
+ - 🚖 [Top %1 conspiracy](http://9gag.com/gag/aAGnr4R)
+ - 🚯 [Hol up...](http://9gag.com/gag/a41Mdnw)
+ - 🚯 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aRrxgOG)<!-- MEMES:END -->
 
 --- 
 
