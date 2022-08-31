@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After complaining about crying babies the woman slapped two passengers, forcing the flight to divert to Vienna so she could be dropped](http://9gag.com/gag/aNPyZ5K)
- - 🚯 [Agreed.](http://9gag.com/gag/aNPynzG)
- - 🚯 [Don&#39;t stick pp in crazy... but](http://9gag.com/gag/awzqxr8)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t stick pp in crazy... but](http://9gag.com/gag/awzqxr8)
+ - 🚯 [Scruff Mcgruff says:](http://9gag.com/gag/angANVB)
+ - 🚯 [Agreed.](http://9gag.com/gag/aNPynzG)<!-- MEMES:END -->
 
 --- 
 
