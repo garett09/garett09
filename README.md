@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto.com mistakenly sent a customer $7.2 million instead of a $68 refund](https://www.theverge.com/2022/8/31/23330458/crypto-dot-com-typo-mistake-refund-audit)
- - [Amazon’s The Lord of the Rings: The Rings of Power is small-screen high fantasy done right](https://www.theverge.com/23329415/the-lord-of-the-rings-of-power-review-amazon-prime)
- - [The Humiliating History of the TSA](https://www.theverge.com/c/23311333/tsa-history-airport-security-theater-homeland)<!-- TECH:END -->
+ - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
+ - [The Last of Us’ PS5 remake makes it feel like a modern game](https://www.theverge.com/23329531/the-last-of-us-part-1-review-ps5-remake)
+ - [Benks Grand Pro Headphone Stand review: show off AirPods Max with a minimal stand](https://appleinsider.com/articles/22/08/31/benks-grand-pro-headphone-stand-review-show-off-airpods-max-with-a-minimal-stand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
