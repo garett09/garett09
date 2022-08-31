@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketmaster&#39;s Live Nation partners with Dapper Labs to release ticket NFTs on the Flow blockchain and expands its NFL partnership for NFTs to 100 games &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220831/p14#a220831p14)
- - [The open elevator door button puts kindness at our fingertips](https://www.theverge.com/2022/8/31/23318937/open-elevator-door-button-kindness)
- - [Memo: on top of cutting 20% of its staff, Snap is canceling its original shows, in-app games, and several other projects; layoffs could save $500M annually &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220831/p13#a220831p13)<!-- TECH:END -->
+ - [Crypto.com mistakenly sent a customer $7.2 million instead of a $68 refund](https://www.theverge.com/2022/8/31/23330458/crypto-dot-com-typo-mistake-refund-audit)
+ - [Amazon’s The Lord of the Rings: The Rings of Power is small-screen high fantasy done right](https://www.theverge.com/23329415/the-lord-of-the-rings-of-power-review-amazon-prime)
+ - [The Humiliating History of the TSA](https://www.theverge.com/c/23311333/tsa-history-airport-security-theater-homeland)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
