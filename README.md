@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t stick pp in crazy... but](http://9gag.com/gag/awzqxr8)
- - 🚯 [Scruff Mcgruff says:](http://9gag.com/gag/angANVB)
- - 🚯 [Agreed.](http://9gag.com/gag/aNPynzG)<!-- MEMES:END -->
+ - 🚖 [The Norwegian Way](http://9gag.com/gag/a81rj9e)
+ - 🚯 [A customer complained that her PC shuts down early after cleaning and reassembling it.](http://9gag.com/gag/a61W7m9)
+ - 🚯 [When your frontal lobe is fully developed..](http://9gag.com/gag/aGzPx36)<!-- MEMES:END -->
 
 --- 
 
