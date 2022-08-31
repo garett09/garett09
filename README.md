@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower](https://www.pcgamer.com/vmware-vsphere-8-ai-metaverse-server)
  - [The Xbox Stream is Back for Tokyo Game Show 2022](https://news.xbox.com/en-us/2022/08/31/xbox-stream-is-back-tokyo-game-show-2022/)
- - [Sneak Energy Drinks add Breakfast Collection to their loadout](https://www.pcgamer.com/sneak-energy-drinks-add-breakfast-collection-to-their-loadout)
- - [5 Best Video Games For Taxi Driver Fans](https://game-rant-2022.blogspot.com/2022/08/5-best-video-games-for-taxi-driver-fans.html)<!-- GAME:END -->
+ - [Sneak Energy Drinks add Breakfast Collection to their loadout](https://www.pcgamer.com/sneak-energy-drinks-add-breakfast-collection-to-their-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
