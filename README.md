@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s first OLED gaming monitor doesn’t need a PC or console attached](https://www.theverge.com/2022/8/31/23330877/samsung-oled-gaming-monitor-odyssey-g8-quantum-dot)
- - [Is the Psychedelic Therapy Bubble About to Burst?](https://www.wired.com/story/psychedelic-hype-bubble/)
- - [Chinese tech giant buys Detroit: Become Human developer Quantic Dream](https://www.theverge.com/2022/8/31/23330961/chinese-tech-giant-netease-quantic-dream-detroit-become-human-developer)<!-- TECH:END -->
+ - [How to turn on Walking Steadiness notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-turn-on-walking-steadiness-notifications-in-ios-16?utm_medium=rss)
+ - [Arm sues Qualcomm and its subsidiary Nuvia for using licenses without approval, asking Qualcomm to destroy designs developed under Nuvia&#39;s agreements with Arm &lpar;Reuters&rpar;](http://www.techmeme.com/220831/p22#a220831p22)
+ - [The best Labor Day deals happening now](https://www.theverge.com/23330512/best-labor-day-sales-2022-tech-deals-macbook-laptops-earbuds-smart-home-tablets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
