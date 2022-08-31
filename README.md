@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
- - [The Last of Us’ PS5 remake makes it feel like a modern game](https://www.theverge.com/23329531/the-last-of-us-part-1-review-ps5-remake)
- - [Benks Grand Pro Headphone Stand review: show off AirPods Max with a minimal stand](https://appleinsider.com/articles/22/08/31/benks-grand-pro-headphone-stand-review-show-off-airpods-max-with-a-minimal-stand?utm_medium=rss)<!-- TECH:END -->
+ - [After an outcry over offering services to transphobic forum Kiwi Farms, Cloudflare says withholding services because of &quot;despicable&quot; content is the wrong policy &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220831/p17#a220831p17)
+ - [A ‘high severity’ TikTok vulnerability allowed one-click account hijacking](https://www.theverge.com/2022/8/31/23329662/tiktok-vulnerability-microsoft-one-click-exploit-high-severity)
+ - [Google Nest’s fall-themed ringtones are coming even earlier this year](https://www.theverge.com/2022/8/31/23329855/google-nest-doorbell-fall-ringtones-halloween-oktoberfest-diwali)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
