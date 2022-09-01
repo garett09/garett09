@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s server and laptop ambitions may be in trouble](https://www.theverge.com/2022/8/31/23331493/arm-qualcomm-nuvia-lawsuit-architecture-license-servers-desktops)
- - [Internal memo: Meta is setting up a New Monetization Experiences division to identify and build &quot;possible paid features&quot; for Facebook, Instagram, and WhatsApp &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220831/p25#a220831p25)
- - [Behind Google Worker Protests of an Israeli Government Cloud Deal](https://www.wired.com/story/inside-google-worker-protests-of-an-israeli-government-cloud-deal/)<!-- TECH:END -->
+ - [An interview with Medium CEO Tony Stubblebine: writers with subscribers should be paid more and thinking &quot;Medium was going to shine&quot; in journalism was a mistake &lpar;Casey Newton/Nieman Lab&rpar;](http://www.techmeme.com/220831/p27#a220831p27)
+ - [WWE Clash at the Castle: How To Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-clash-at-the-castle-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)
+ - [Every Moving Coming to Netflix Through 2022: The Full List     - CNET](https://www.cnet.com/culture/entertainment/every-moving-coming-to-netflix-through-2022-the-full-list/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
