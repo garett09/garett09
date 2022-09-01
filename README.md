@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple settles lawsuit with developer over App Store scam apps](https://appleinsider.com/articles/22/09/01/apple-settles-lawsuit-with-developer-over-app-store-scam-apps?utm_medium=rss)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Facebook will shutter Neighborhoods, its Nextdoor-like product to help neighbors connect and share local information, in October, after launching it in May 2021 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220901/p32#a220901p32)<!-- TECH:END -->
+ - [Microsoft confirms new Xbox Game Pass Friends &amp; Family plan and its pricing](https://www.theverge.com/2022/9/1/23333605/microsoft-xbox-game-pass-friends-family-pricing-confirmed)
+ - [A Delaware jury says Shopify owes $40M to patent holder Express Mobile for infringing three patents related to software for providing content to mobile devices &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220901/p33#a220901p33)
+ - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
