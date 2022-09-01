@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Re watched this beauty](http://9gag.com/gag/aVxGDbP)
- - 🚯 [Just a good prank without harming people](http://9gag.com/gag/a51LZgr)
- - 🚯 [Yesterday in La Bisbal d&#39;Empord\u00e0](http://9gag.com/gag/a41MZ7y)<!-- MEMES:END -->
+ - 🚖 [Yesterday in La Bisbal d&#39;Empord\u00e0](http://9gag.com/gag/a41MZ7y)
+ - 🚯 [25 years old...](http://9gag.com/gag/a81r4x6)
+ - 🚯 [Coffee coffee coffee](http://9gag.com/gag/aLvqM56)<!-- MEMES:END -->
 
 --- 
 
