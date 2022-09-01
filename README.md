@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yesterday in La Bisbal d&#39;Empord\u00e0](http://9gag.com/gag/a41MZ7y)
- - 🚯 [25 years old...](http://9gag.com/gag/a81r4x6)
- - 🚯 [Coffee coffee coffee](http://9gag.com/gag/aLvqM56)<!-- MEMES:END -->
+ - 🚖 [Mildly interesting](http://9gag.com/gag/aegX6op)
+ - 🚯 [Mikhail Gorbachev latest documentary by Netflix](http://9gag.com/gag/aegX6pq)
+ - 🚯 [Just a good prank without harming people](http://9gag.com/gag/a51LZgr)<!-- MEMES:END -->
 
 --- 
 
