@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in September](https://www.polygon.com/23319836/new-netflix-movies-tv-shows-watch-september-2022)
- - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
- - [Jet Set Radio spiritual successor Bomb Rush Cyberfunk hit with another delay](https://www.pcgamer.com/jet-set-radio-spiritual-successor-bomb-rush-cyberfunk-hit-with-another-delay)<!-- GAME:END -->
+ - [She-Hulk’s latest cameo was a gift to star Tatiana Maslany](https://www.polygon.com/23327902/megan-thee-stallion-she-hulk-cameo)
+ - [What’s hitting Disney Plus in September](https://www.polygon.com/entertainment/23318713/disney-plus-new-movies-tv-watch-september-2022)
+ - [AMD predicts DDR5 could hit DDR4 pricing levels by mid-2023](https://www.pcgamer.com/amd-ddr5-pricing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
