@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says the US agreed to let it continue developing its H100 enterprise AI chip in China; Nvidia stock is down 11%+ after warning about export restrictions &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220901/p26#a220901p26)
- - [OnlyFans says revenue for the year ending November 2021 rose 160% YoY to $932M and number of creators rose 34% to 2.1M, earning ~$4B, with fans up 128% to 188M &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/220901/p25#a220901p25)
- - [House of the Dragon co-showrunner Miguel Sapochnik has left the show](https://www.theverge.com/2022/9/1/23332807/house-of-the-dragon-miguel-sapochnik-exit)<!-- TECH:END -->
+ - [Research firm says Shopify is warning its merchants not to use Amazon&#39;s checkout service Buy with Prime, saying it is a security risk and violates Shopify ToS &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220901/p28#a220901p28)
+ - [USB Promoter Group says USB 4 version 2 will enable speeds up to 80Gbps, using existing 40Gbps USB Type-C passive cables and new 80Gbps USB Type-C active cables &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220901/p27#a220901p27)
+ - [We&#39;re Giving Away One of Our Favorite TVs](https://www.wired.com/story/tcl-6-series-65-inch-8k-giveaway-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
