@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fly you fools..](http://9gag.com/gag/aNPy1oK)
- - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)
- - 🚯 [Look at the crowd&#39;s faces when they find out that Frankie Lymon is Black.](http://9gag.com/gag/aBnDW5A)<!-- MEMES:END -->
+ - 🚖 [Old but gold](http://9gag.com/gag/angAj60)
+ - 🚯 [Bullied everyday in the office being fat. Today I finally decided to make some changes. Wish me luck](http://9gag.com/gag/apgeQK9)
+ - 🚯 [Someone posted here street Fast Guy. I give you HighwayToHell lunatic &lpar;km/h&rpar;.](http://9gag.com/gag/aegXePB)<!-- MEMES:END -->
 
 --- 
 
