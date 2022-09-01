@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot.](http://9gag.com/gag/aDDBx6Z)
- - 🚯 [Oh hell yeah... Windows XP](http://9gag.com/gag/adg3KKV)
- - 🚯 [BlyaT](http://9gag.com/gag/avAbO8M)<!-- MEMES:END -->
+ - 🚖 [BlyaT](http://9gag.com/gag/avAbO8M)
+ - 🚯 [Brazilian Police arresting a criminal for stabbing a relative. Criminal kicks journalist&#39;s balls](http://9gag.com/gag/ajg2E3R)
+ - 🚯 [Idiot.](http://9gag.com/gag/aDDBx6Z)<!-- MEMES:END -->
 
 --- 
 
