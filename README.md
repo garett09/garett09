@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those kids would be mad if they could read](http://9gag.com/gag/axBpV1b)
- - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)
- - 🚯 [Disney land](http://9gag.com/gag/arnP5pd)<!-- MEMES:END -->
+ - 🚖 [Disney land](http://9gag.com/gag/arnP5pd)
+ - 🚯 [Headshot!](http://9gag.com/gag/arnP5Mp)
+ - 🚯 [Comfortable pillow](http://9gag.com/gag/aYrz4qq)<!-- MEMES:END -->
 
 --- 
 
