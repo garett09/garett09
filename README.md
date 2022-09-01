@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 years on, GTA Online is a fantastic theme park of crime](https://www.polygon.com/23331515/gta-online-2022-re-review-game-modes-story-campaigns)
- - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)
- - [Steelrising combat System breakdown](https://blog.playstation.com/2022/09/01/steelrising-combat-system-breakdown/)<!-- GAME:END -->
+ - [Best mechanical keyboards in 2022](https://www.pcgamer.com/best-mechanical-keyboard)
+ - [She-Hulk’s Wrecking Crew has a loopy connection to Thor and the Avengers](https://www.polygon.com/23328511/she-hulk-wrecking-crew-episode-3-ending-explained)
+ - [Attention PS4 &amp; PS5 virtual photographers – Red Bull Capture Point is back](https://blog.playstation.com/2022/09/01/attention-ps4-ps5-virtual-photographers-red-bull-capture-point-is-back/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
