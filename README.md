@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US music publishers settle on 15.35% for 2023 to 2027 mechanical streaming rates, avoiding costly legal fights with Amazon, Apple, Google, Pandora, and Spotify &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/220901/p5#a220901p5)
- - [California Assembly passes a bill requiring crypto firms in the state to obtain a license and that stablecoins be issued by a bank; Governor Newsom must sign it &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220901/p4#a220901p4)
- - [What’s new on Disney Plus in September 2022: Hocus Pocus 2, Andor, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
+ - [The Sony Xperia 5 IV puts powerful features in all three rear cameras](https://www.theverge.com/2022/9/1/23331266/sony-xperia-5-mark-iv-price-cameras-screen-specs)
+ - [Sony announces the Xperia 5 IV: A little less phone for a lot less cash](https://www.androidauthority.com/sony-announces-xperia-5-iv-3202111/)
+ - [You might soon have a super easy way to silence incoming calls on your Pixels](https://www.androidauthority.com/google-pixel-silence-calls-3203572/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
