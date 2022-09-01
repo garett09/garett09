@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research firm says Shopify is warning its merchants not to use Amazon&#39;s checkout service Buy with Prime, saying it is a security risk and violates Shopify ToS &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220901/p28#a220901p28)
- - [USB Promoter Group says USB 4 version 2 will enable speeds up to 80Gbps, using existing 40Gbps USB Type-C passive cables and new 80Gbps USB Type-C active cables &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220901/p27#a220901p27)
- - [We&#39;re Giving Away One of Our Favorite TVs](https://www.wired.com/story/tcl-6-series-65-inch-8k-giveaway-2022/)<!-- TECH:END -->
+ - [Google announces $20M in new commitments to expand computer science education in the US and expects the funds to improve educational access for 11M+ students &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220901/p29#a220901p29)
+ - [Lenovo’s Glasses T1 let you bring a private big screen display with you](https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa)
+ - [Android 14 will bring direct satellite support to smartphones](https://www.androidauthority.com/android-14-satellite-support-3204024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
