@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jet Set Radio spiritual successor Bomb Rush Cyberfunk hit with another delay](https://www.pcgamer.com/jet-set-radio-spiritual-successor-bomb-rush-cyberfunk-hit-with-another-delay)
- - [Pac-Man World Re-Pac Review](https://game-rant-2022.blogspot.com/2022/09/pac-man-world-re-pac-review.html)
- - [Top 5 Free Fire Emulator Players to Watch in 2022](https://game-rant-2022.blogspot.com/2022/09/top-5-free-fire-emulator-players-to.html)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in September](https://www.polygon.com/23319836/new-netflix-movies-tv-shows-watch-september-2022)
+ - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
+ - [Jet Set Radio spiritual successor Bomb Rush Cyberfunk hit with another delay](https://www.pcgamer.com/jet-set-radio-spiritual-successor-bomb-rush-cyberfunk-hit-with-another-delay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
