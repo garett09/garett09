@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US music publishers settle on 15.35% for 2023 to 2027 mechanical streaming rates, avoiding costly legal fights with Amazon, Apple, Google, Pandora, and Spotify &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/220901/p5#a220901p5)
  - [California Assembly passes a bill requiring crypto firms in the state to obtain a license and that stablecoins be issued by a bank; Governor Newsom must sign it &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220901/p4#a220901p4)
- - [The Best Prime Video Fantasy Movies You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-prime-video-fantasy-movies-you-need-to-watch/#ftag=CAD590a51e)
- - [Source: the space between the iPhone 14 Pro display&#39;s pill and hole-shaped cutouts will be bridged by software and show microphone and camera privacy indicators &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220901/p3#a220901p3)<!-- TECH:END -->
+ - [What’s new on Disney Plus in September 2022: Hocus Pocus 2, Andor, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
