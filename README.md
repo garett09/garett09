@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world we live in](http://9gag.com/gag/aNPyYe0)
- - 🚯 [Accurate](http://9gag.com/gag/aAGn3Y2)
- - 🚯 [BlyaT](http://9gag.com/gag/avAbO8M)<!-- MEMES:END -->
+ - 🚖 [BlyaT](http://9gag.com/gag/avAbO8M)
+ - 🚯 [If you know, you know](http://9gag.com/gag/aqGv1zj)
+ - 🚯 [Happy alligator](http://9gag.com/gag/aNPy1Ev)<!-- MEMES:END -->
 
 --- 
 
