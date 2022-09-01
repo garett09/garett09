@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass brings indie titles you don&#39;t want to miss](https://game-rant-2022.blogspot.com/2022/08/xbox-game-pass-brings-indie-titles-you.html)
- - [Square Enix Announces TGS 2022 Lineup, Schedule](https://game-rant-2022.blogspot.com/2022/08/square-enix-announces-tgs-2022-lineup.html)
- - [New Mexico State vs.  Gophers: Randy Johnson&#39;s Game Prediction](https://game-rant-2022.blogspot.com/2022/08/new-mexico-state-vs-gophers-randy.html)<!-- GAME:END -->
+ - [Microsoft&#39;s Activision Blizzard deal is under scrutiny worldwide](https://game-rant-2022.blogspot.com/2022/08/microsofts-activision-blizzard-deal-is_25.html)
+ - [The best free superhero games](https://game-rant-2022.blogspot.com/2022/08/the-best-free-superhero-games.html)
+ - [Microsoft&#39;s Activision Blizzard deal is under scrutiny worldwide](https://game-rant-2022.blogspot.com/2022/08/microsofts-activision-blizzard-deal-is_31.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
