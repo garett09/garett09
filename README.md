@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Second world milirary claim to destroy 44 himars, twice as much as UA have&lpar;20&rpar;. Thats 220% eff](http://9gag.com/gag/aze618p)
- - 🚯 [And it&#39;s working](http://9gag.com/gag/axBpzmb)
- - 🚯 [Another normal day in 2023](http://9gag.com/gag/a21QZxe)<!-- MEMES:END -->
+ - 🚖 [Accurate](http://9gag.com/gag/aAGn3Y2)
+ - 🚯 [Another normal day in 2023](http://9gag.com/gag/a21QZxe)
+ - 🚯 [Good trip](http://9gag.com/gag/aBnDgdD)<!-- MEMES:END -->
 
 --- 
 
