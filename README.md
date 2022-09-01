@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer unveils new Kishi gaming controller for iPhone](https://appleinsider.com/articles/22/09/01/razer-unveils-new-kishi-gaming-controller-for-iphone?utm_medium=rss)
- - [Jabra’s new $150 Elite 3 earbuds could be the sweet spot of its lineup](https://www.theverge.com/2022/9/1/23331888/jabra-elite-5-earbuds-announced-features-price)
- - [Withings’ new smart scale measures your nerve and artery health](https://www.theverge.com/2022/9/1/23330920/withings-body-comp-health-plus-artery-nerve-ifa-2022)<!-- TECH:END -->
+ - [Nvidia says the US agreed to let it continue developing its H100 enterprise AI chip in China; Nvidia stock is down 11%+ after warning about export restrictions &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220901/p26#a220901p26)
+ - [OnlyFans says revenue for the year ending November 2021 rose 160% YoY to $932M and number of creators rose 34% to 2.1M, earning ~$4B, with fans up 128% to 188M &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/220901/p25#a220901p25)
+ - [House of the Dragon co-showrunner Miguel Sapochnik has left the show](https://www.theverge.com/2022/9/1/23332807/house-of-the-dragon-miguel-sapochnik-exit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
