@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Edge’s new sidebar banishes recipe stories, shows you email](https://www.theverge.com/2022/9/1/23333091/microsoft-edge-sidebar-widgets-search-email-recipes)
- - [Court filings: Apple settled with FlickType developer Kosta Eleftheriou; the lawsuit alleged Apple rejected his Watch app and then approved rip-offs of the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220901/p30#a220901p30)
- - [GM&#39;s Cruise Recalls Self-Driving Software Involved in June Crash](https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/)<!-- TECH:END -->
+ - [Sennheiser’s more-affordable soundbar is still a premium-sounding beast](https://www.theverge.com/2022/9/1/23333189/sennheiser-ambeo-soundbar-plus-hands-on-first-impressions-listening-experience)
+ - [The best T-Mobile deals: Try T-Mobile for free for three months](https://www.androidauthority.com/best-t-mobile-deals-836582/)
+ - [USB4 Version 2.0 to offer up to 80 Gbps data transfer](https://appleinsider.com/articles/22/09/01/usb4-version-20-to-offer-up-to-80-gbps-data-transfer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
