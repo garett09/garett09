@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tennessee&#39;s New Mobile Football Tickets: Here&#39;s How They Work](https://game-rant-2022.blogspot.com/2022/09/tennessees-new-mobile-football-tickets.html)
- - [Chaos Theory aims to transform the world of &#39;serious games&#39;](https://game-rant-2022.blogspot.com/2022/09/chaos-theory-aims-to-transform-world-of.html)
- - [How does black clover tackle prejudice and inequality?](https://game-rant-2022.blogspot.com/2022/09/how-does-black-clover-tackle-prejudice.html)<!-- GAME:END -->
+ - [Worth playing |  PS4/PS5 Review - &#39;Surviving Digimon&#39;](https://game-rant-2022.blogspot.com/2022/09/worth-playing-ps4ps5-review-surviving.html)
+ - [How to Download on PC and Mobile](https://game-rant-2022.blogspot.com/2022/09/how-to-download-on-pc-and-mobile.html)
+ - [Lamentations about getting stuck in a video game - Destructoid](https://game-rant-2022.blogspot.com/2022/09/lamentations-about-getting-stuck-in.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
