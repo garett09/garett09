@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Lord of the Rings Middle-earth map can help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)
- - [Conan Exiles Adds Dark Sorcery to Savage Survival](https://news.xbox.com/en-us/2022/09/01/conan-exiles-adds-dark-sorcery-to-savage-survival/)
- - [Tell us about how you play games for a chance to win a $250 Amazon voucher](https://www.pcgamer.com/tell-us-about-how-you-play-games-for-a-chance-to-win-a-dollar250-amazon-voucher)<!-- GAME:END -->
+ - [How to dress for work if you’re a She-Hulk sometimes](https://www.polygon.com/23327033/she-hulk-costume-interview-marvel)
+ - [Smash Boxer Set for Rumbleverse Now Available as a Perk for Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/09/01/smash-boxer-set-for-rumbleverse-now-available-as-a-perk-for-game-pass-ultimate-members/)
+ - [This Lord of the Rings Middle-earth map can help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
