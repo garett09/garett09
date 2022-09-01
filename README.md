@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hopefully Fortnite&#39;s Fantastic New Destiny 2 Crossover Mode Sticks Around](https://kotaku.com/fortnite-destiny-2-legends-light-dark-control-mode-1849487326)
- - [Physically, not emotionally toxic: Our favorite space strategy game is adding an entire species of Nasty Little Guys](https://www.pcgamer.com/physically-not-emotionally-toxic-our-favorite-space-strategy-game-is-adding-an-entire-species-of-nasty-little-guys)
- - [One Piece and Ye’s ‘Dark Fantasy’ are the foundation for this NSFW meme](https://www.polygon.com/23333279/one-piece-ye-kaye-west-meme-dark-fantasy-patrick-fabian-nsfw)<!-- GAME:END -->
+ - [Pokimane isn’t quitting streaming, but she’ll be on Twitch less in the future](https://www.polygon.com/23333512/pokimane-twitch-streaming-announcment-instragram-tiktok)
+ - [What&#39;s going on with Metal Gear Solid remasters, exactly?](https://www.pcgamer.com/whats-going-on-with-metal-gear-solid-remasters-exactly)
+ - [Upcoming WWII RTS delayed by the Russian invasion of Ukraine](https://www.pcgamer.com/upcoming-wwii-rts-delayed-by-the-russian-invasion-of-ukraine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
