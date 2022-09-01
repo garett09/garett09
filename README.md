@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft pleads for its Activision Blizzard deal as UK regulator signals in-depth review](https://www.theverge.com/2022/9/1/23332451/microsoft-activision-blizzard-deal-uk-cma-comments)
- - [LaCie Mobile Drive HDD line launches with hardware encryption](https://appleinsider.com/articles/22/09/01/lacie-mobile-drive-hdd-line-launches-with-hardware-encryption?utm_medium=rss)
- - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter is testing an Edit Tweet feature](https://appleinsider.com/articles/22/09/01/twitter-is-testing-an-edit-tweet-feature?utm_medium=rss)
+ - [Twitter Tests Edit Button, Promises We&#39;ll &#39;Be Okay&#39;     - CNET](https://www.cnet.com/news/social-media/twitter-tests-edit-button-promises-well-be-okay/#ftag=CAD590a51e)
+ - [Motorola Edge &lpar;2022&rpar; review: Edge-appropriate](https://www.androidauthority.com/motorola-edge-2022-review-3202899/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
