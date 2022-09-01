@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Medium CEO Tony Stubblebine: writers with subscribers should be paid more and thinking &quot;Medium was going to shine&quot; in journalism was a mistake &lpar;Casey Newton/Nieman Lab&rpar;](http://www.techmeme.com/220831/p27#a220831p27)
- - [WWE Clash at the Castle: How To Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-clash-at-the-castle-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)
- - [Every Moving Coming to Netflix Through 2022: The Full List     - CNET](https://www.cnet.com/culture/entertainment/every-moving-coming-to-netflix-through-2022-the-full-list/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo’s second-gen X1 Fold could be the game-changer the first one wasn’t](https://www.theverge.com/2022/9/1/23331619/lenovo-thinkpad-x1-fold-gen-2-announced-features-specs-price)
+ - [Landa, whose app lets users invest in rental properties for as little as $5 via fractional ownership, emerges from stealth with an $8M seed and $25M Series A &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220831/p32#a220831p32)
+ - [Faruk Fatih &amp;Ouml;zer, CEO of defunct Turkish crypto exchange Thodex who is accused of a rug pull, was arrested in Albania; Thodex&#39;s losses may be as high as $2.52B &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/220831/p31#a220831p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
