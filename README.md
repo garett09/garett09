@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least she is honest](http://9gag.com/gag/amgDv7o)
- - 🚯 [Trying oyster for first time.](http://9gag.com/gag/a51LWEq)
- - 🚯 [Good trip](http://9gag.com/gag/aBnDgdD)<!-- MEMES:END -->
+ - 🚖 [Is Richard ok?](http://9gag.com/gag/amgDvPj)
+ - 🚯 [Cleaning up the mangroves of bali](http://9gag.com/gag/aAGn39o)
+ - 🚯 [To me she is the only true Galadriel. We shall all love her and despair.](http://9gag.com/gag/aVxGwen)<!-- MEMES:END -->
 
 --- 
 
