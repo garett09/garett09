@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Soul Hackers 2 is a grim look into a future without privacy](https://www.polygon.com/23331391/soul-hackers-2-jrpg-doppelganger-shin-megami-tensei-persona-5-pc-ps4-ps5-xbox)
- - [The 29 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [The 19 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)<!-- GAME:END -->
+ - [How to find Rare Island Sanctuary Animals Animals in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23328804/rare-animals-island-sanctuary-location-time-weather-size)
+ - [MultiVersus teases Gremlins’ Stripe and Gizmo coming soon](https://www.polygon.com/23333028/gizmo-gremlins-stripe-multiversus-dlc-character)
+ - [Dredge hooked me with its uncanny blend of fishing and eldritch horror](https://www.polygon.com/23331297/dredge-lovecraft-fishing-rpg-preview-release-date-pc-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
