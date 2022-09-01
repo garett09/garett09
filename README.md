@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mildly interesting](http://9gag.com/gag/aegX6op)
- - 🚯 [Mikhail Gorbachev latest documentary by Netflix](http://9gag.com/gag/aegX6pq)
- - 🚯 [Just a good prank without harming people](http://9gag.com/gag/a51LZgr)<!-- MEMES:END -->
+ - 🚖 [Those kids would be mad if they could read](http://9gag.com/gag/axBpV1b)
+ - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)
+ - 🚯 [Disney land](http://9gag.com/gag/arnP5pd)<!-- MEMES:END -->
 
 --- 
 
