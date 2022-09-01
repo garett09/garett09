@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s new Pokémon was inspired by a real painted forest](https://www.polygon.com/pokemon/23332539/new-pokemon-grafaiai-painted-forest-oma-real-life)
- - [This brutal open world survival game just got its biggest free update in 4 years](https://www.pcgamer.com/this-brutal-open-world-survival-game-just-got-its-biggest-free-update-in-4-years)
- - [For NBA 2K23’s next MyCareer story, everyone hates you](https://www.polygon.com/23331423/nba-2k23-preview-mycareer-story-player-draft-team)<!-- GAME:END -->
+ - [9 years on, GTA Online is a fantastic theme park of crime](https://www.polygon.com/23331515/gta-online-2022-re-review-game-modes-story-campaigns)
+ - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)
+ - [Steelrising combat System breakdown](https://blog.playstation.com/2022/09/01/steelrising-combat-system-breakdown/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
