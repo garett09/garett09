@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world we live in](http://9gag.com/gag/aNPyYe0)
- - 🚯 [The balls on this guy. &lpar;Miles Routledge&rpar;](http://9gag.com/gag/a31oRON)
+ - 🚖 [At least she is honest](http://9gag.com/gag/amgDv7o)
+ - 🚯 [Trying oyster for first time.](http://9gag.com/gag/a51LWEq)
  - 🚯 [Good trip](http://9gag.com/gag/aBnDgdD)<!-- MEMES:END -->
 
 --- 
