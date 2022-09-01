@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s Activision Blizzard deal is under scrutiny worldwide](https://game-rant-2022.blogspot.com/2022/08/microsofts-activision-blizzard-deal-is_25.html)
- - [The best free superhero games](https://game-rant-2022.blogspot.com/2022/08/the-best-free-superhero-games.html)
- - [Microsoft&#39;s Activision Blizzard deal is under scrutiny worldwide](https://game-rant-2022.blogspot.com/2022/08/microsofts-activision-blizzard-deal-is_31.html)<!-- GAME:END -->
+ - [Tennessee&#39;s New Mobile Football Tickets: Here&#39;s How They Work](https://game-rant-2022.blogspot.com/2022/09/tennessees-new-mobile-football-tickets.html)
+ - [Chaos Theory aims to transform the world of &#39;serious games&#39;](https://game-rant-2022.blogspot.com/2022/09/chaos-theory-aims-to-transform-world-of.html)
+ - [How does black clover tackle prejudice and inequality?](https://game-rant-2022.blogspot.com/2022/09/how-does-black-clover-tackle-prejudice.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
