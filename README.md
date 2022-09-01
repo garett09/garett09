@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Rare Island Sanctuary Animals Animals in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23328804/rare-animals-island-sanctuary-location-time-weather-size)
- - [MultiVersus teases Gremlins’ Stripe and Gizmo coming soon](https://www.polygon.com/23333028/gizmo-gremlins-stripe-multiversus-dlc-character)
- - [Dredge hooked me with its uncanny blend of fishing and eldritch horror](https://www.polygon.com/23331297/dredge-lovecraft-fishing-rpg-preview-release-date-pc-nintendo-switch)<!-- GAME:END -->
+ - [This Lord of the Rings Middle-earth map can help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)
+ - [Conan Exiles Adds Dark Sorcery to Savage Survival](https://news.xbox.com/en-us/2022/09/01/conan-exiles-adds-dark-sorcery-to-savage-survival/)
+ - [Tell us about how you play games for a chance to win a $250 Amazon voucher](https://www.pcgamer.com/tell-us-about-how-you-play-games-for-a-chance-to-win-a-dollar250-amazon-voucher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
