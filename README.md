@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best racing games for kids](https://game-rant-2022.blogspot.com/2022/08/the-best-racing-games-for-kids.html)
- - [Beginner Tips for Pac-Man World Re-PAC](https://game-rant-2022.blogspot.com/2022/08/beginner-tips-for-pac-man-world-re-pac.html)
- - [Pocket Gamer Connects Jordan is THE conference to attend in November!](https://game-rant-2022.blogspot.com/2022/08/pocket-gamer-connects-jordan-is.html)<!-- GAME:END -->
+ - [Xbox Game Pass brings indie titles you don&#39;t want to miss](https://game-rant-2022.blogspot.com/2022/08/xbox-game-pass-brings-indie-titles-you.html)
+ - [Square Enix Announces TGS 2022 Lineup, Schedule](https://game-rant-2022.blogspot.com/2022/08/square-enix-announces-tgs-2022-lineup.html)
+ - [New Mexico State vs.  Gophers: Randy Johnson&#39;s Game Prediction](https://game-rant-2022.blogspot.com/2022/08/new-mexico-state-vs-gophers-randy.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
