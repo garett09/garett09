@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s second-gen X1 Fold could be the game-changer the first one wasn’t](https://www.theverge.com/2022/9/1/23331619/lenovo-thinkpad-x1-fold-gen-2-announced-features-specs-price)
- - [Landa, whose app lets users invest in rental properties for as little as $5 via fractional ownership, emerges from stealth with an $8M seed and $25M Series A &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220831/p32#a220831p32)
- - [Faruk Fatih &amp;Ouml;zer, CEO of defunct Turkish crypto exchange Thodex who is accused of a rug pull, was arrested in Albania; Thodex&#39;s losses may be as high as $2.52B &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/220831/p31#a220831p31)<!-- TECH:END -->
+ - [California Assembly passes a bill requiring crypto firms in the state to obtain a license and that stablecoins be issued by a bank; Governor Newsom must sign it &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220901/p4#a220901p4)
+ - [The Best Prime Video Fantasy Movies You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-prime-video-fantasy-movies-you-need-to-watch/#ftag=CAD590a51e)
+ - [Source: the space between the iPhone 14 Pro display&#39;s pill and hole-shaped cutouts will be bridged by software and show microphone and camera privacy indicators &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220901/p3#a220901p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
