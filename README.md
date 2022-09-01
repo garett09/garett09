@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk’s latest cameo was a gift to star Tatiana Maslany](https://www.polygon.com/23327902/megan-thee-stallion-she-hulk-cameo)
- - [What’s hitting Disney Plus in September](https://www.polygon.com/entertainment/23318713/disney-plus-new-movies-tv-watch-september-2022)
- - [AMD predicts DDR5 could hit DDR4 pricing levels by mid-2023](https://www.pcgamer.com/amd-ddr5-pricing)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s new Pokémon was inspired by a real painted forest](https://www.polygon.com/pokemon/23332539/new-pokemon-grafaiai-painted-forest-oma-real-life)
+ - [This brutal open world survival game just got its biggest free update in 4 years](https://www.pcgamer.com/this-brutal-open-world-survival-game-just-got-its-biggest-free-update-in-4-years)
+ - [For NBA 2K23’s next MyCareer story, everyone hates you](https://www.polygon.com/23331423/nba-2k23-preview-mycareer-story-player-draft-team)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
