@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comfortable pillow](http://9gag.com/gag/aYrz4qq)
+ - 🚖 [Fly you fools..](http://9gag.com/gag/aNPy1oK)
  - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)
- - 🚯 [What do the homies think about this?](http://9gag.com/gag/apgeQDM)<!-- MEMES:END -->
+ - 🚯 [Look at the crowd&#39;s faces when they find out that Frankie Lymon is Black.](http://9gag.com/gag/aBnDW5A)<!-- MEMES:END -->
 
 --- 
 
