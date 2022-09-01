@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another normal day in 2023](http://9gag.com/gag/a21QZxe)
+ - 🚖 [CloWn World](http://9gag.com/gag/aQXY3E7)
  - 🚯 [Happy alligator](http://9gag.com/gag/aNPy1Ev)
- - 🚯 [And it&#39;s working](http://9gag.com/gag/axBpzmb)<!-- MEMES:END -->
+ - 🚯 [Tofu cat.](http://9gag.com/gag/aYrz7Kx)<!-- MEMES:END -->
 
 --- 
 
