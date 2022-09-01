@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser’s more-affordable soundbar is still a premium-sounding beast](https://www.theverge.com/2022/9/1/23333189/sennheiser-ambeo-soundbar-plus-hands-on-first-impressions-listening-experience)
- - [The best T-Mobile deals: Try T-Mobile for free for three months](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [USB4 Version 2.0 to offer up to 80 Gbps data transfer](https://appleinsider.com/articles/22/09/01/usb4-version-20-to-offer-up-to-80-gbps-data-transfer?utm_medium=rss)<!-- TECH:END -->
+ - [Apple settles lawsuit with developer over App Store scam apps](https://appleinsider.com/articles/22/09/01/apple-settles-lawsuit-with-developer-over-app-store-scam-apps?utm_medium=rss)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Facebook will shutter Neighborhoods, its Nextdoor-like product to help neighbors connect and share local information, in October, after launching it in May 2021 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220901/p32#a220901p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
