@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wrath of the Lich King Classic&#39;s new group finder tool is a mess](https://www.pcgamer.com/wrath-of-the-lich-king-classics-new-group-finder-tool-is-a-mess)
- - [Lady Gaga may soon be holding a virtual concert in Fortnite](https://www.pcgamer.com/lady-gaga-may-soon-be-holding-a-virtual-concert-in-fortnite)
- - [House of the Dragon’s Miguel Sapochnik is stepping down as co-showrunner](https://www.polygon.com/23331775/house-of-the-dragon-miguel-sapochnik-leaving-showrunner-alan-taylor)<!-- GAME:END -->
+ - [Sons of the Forest delayed again, but new gameplay footage sure looks nice](https://www.pcgamer.com/sons-of-the-forest-delayed-again-but-new-gameplay-footage-sure-looks-nice)
+ - [The Golf Afterlife - Cursed to Golf Review](https://game-rant-2022.blogspot.com/2022/08/the-golf-afterlife-cursed-to-golf-review.html)
+ - [10 PlayStation Games That Are Worse When You&#39;re An Adult](https://game-rant-2022.blogspot.com/2022/08/10-playstation-games-that-are-worse.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
