@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces $20M in new commitments to expand computer science education in the US and expects the funds to improve educational access for 11M+ students &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220901/p29#a220901p29)
- - [Lenovo’s Glasses T1 let you bring a private big screen display with you](https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa)
- - [Android 14 will bring direct satellite support to smartphones](https://www.androidauthority.com/android-14-satellite-support-3204024/)<!-- TECH:END -->
+ - [Microsoft Edge’s new sidebar banishes recipe stories, shows you email](https://www.theverge.com/2022/9/1/23333091/microsoft-edge-sidebar-widgets-search-email-recipes)
+ - [Court filings: Apple settled with FlickType developer Kosta Eleftheriou; the lawsuit alleged Apple rejected his Watch app and then approved rip-offs of the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220901/p30#a220901p30)
+ - [GM&#39;s Cruise Recalls Self-Driving Software Involved in June Crash](https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
