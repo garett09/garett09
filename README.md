@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pew survey of 24,525 people from 19 countries shows 70% rate misinformation as a &quot;major threat&quot;, compared to 75% for climate change and 67% for cyberattacks &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/220901/p13#a220901p13)
- - [HMD wants to ‘redefine mobile phone ownership’ with a new subscription service](https://www.androidauthority.com/nokia-circular-subscription-3202303/)
- - [Careless Errors in Hundreds of Apps Could Expose Troves of Data](https://www.wired.com/story/mobile-apps-cloud-credentials-exposed/)<!-- TECH:END -->
+ - [Brian Krebs apologizes to IoT manufacturer Ubiquiti after posting now-removed articles on a &quot;breach&quot; based on a &quot;sole source&quot; currently under federal indictment &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220901/p15#a220901p15)
+ - [Garmin beefs up battery for new Venu Sq 2](https://www.theverge.com/2022/9/1/23330694/garmin-venu-sq-2-black-panther-vivofit-jr-3-ifa-2022)
+ - [Japan finally hopes to ditch floppy discs 24 years after Apple did](https://appleinsider.com/articles/22/09/01/japan-finally-hopes-to-ditch-floppy-discs-24-years-after-apple-did?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
