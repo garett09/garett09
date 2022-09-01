@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do the homies think about this?](http://9gag.com/gag/apgeQDM)
- - 🚯 [1988 Seoul Olympic legends grilled pigeons](http://9gag.com/gag/awzqn6x)
- - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)<!-- MEMES:END -->
+ - 🚖 [Comfortable pillow](http://9gag.com/gag/aYrz4qq)
+ - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)
+ - 🚯 [What do the homies think about this?](http://9gag.com/gag/apgeQDM)<!-- MEMES:END -->
 
 --- 
 
