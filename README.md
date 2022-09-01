@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 439 answer and hint: Thursday, September 1](https://www.pcgamer.com/todays-wordle-439-answer-hint)
- - [Starfield: Everything we know about Bethesda&#39;s next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
- - [Sons of the Forest delayed again, but new gameplay footage sure looks nice](https://www.pcgamer.com/sons-of-the-forest-delayed-again-but-new-gameplay-footage-sure-looks-nice)<!-- GAME:END -->
+ - [Jet Set Radio spiritual successor Bomb Rush Cyberfunk hit with another delay](https://www.pcgamer.com/jet-set-radio-spiritual-successor-bomb-rush-cyberfunk-hit-with-another-delay)
+ - [Pac-Man World Re-Pac Review](https://game-rant-2022.blogspot.com/2022/09/pac-man-world-re-pac-review.html)
+ - [Top 5 Free Fire Emulator Players to Watch in 2022](https://game-rant-2022.blogspot.com/2022/09/top-5-free-fire-emulator-players-to.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
