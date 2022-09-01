@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Animator: Jean Nguyen](http://9gag.com/gag/aze6qdj)
- - 🚯 [Someone posted here street Fast Guy. I give you HighwayToHell lunatic &lpar;km/h&rpar;.](http://9gag.com/gag/aegXePB)
- - 🚯 [CloWn World](http://9gag.com/gag/aQXY3E7)<!-- MEMES:END -->
+ - 🚖 [Idiot.](http://9gag.com/gag/aDDBx6Z)
+ - 🚯 [Oh hell yeah... Windows XP](http://9gag.com/gag/adg3KKV)
+ - 🚯 [BlyaT](http://9gag.com/gag/avAbO8M)<!-- MEMES:END -->
 
 --- 
 
