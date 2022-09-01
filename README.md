@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brian Krebs apologizes to IoT manufacturer Ubiquiti after posting now-removed articles on a &quot;breach&quot; based on a &quot;sole source&quot; currently under federal indictment &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220901/p15#a220901p15)
- - [Garmin beefs up battery for new Venu Sq 2](https://www.theverge.com/2022/9/1/23330694/garmin-venu-sq-2-black-panther-vivofit-jr-3-ifa-2022)
- - [Japan finally hopes to ditch floppy discs 24 years after Apple did](https://appleinsider.com/articles/22/09/01/japan-finally-hopes-to-ditch-floppy-discs-24-years-after-apple-did?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft pleads for its Activision Blizzard deal as UK regulator signals in-depth review](https://www.theverge.com/2022/9/1/23332451/microsoft-activision-blizzard-deal-uk-cma-comments)
+ - [LaCie Mobile Drive HDD line launches with hardware encryption](https://appleinsider.com/articles/22/09/01/lacie-mobile-drive-hdd-line-launches-with-hardware-encryption?utm_medium=rss)
+ - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
