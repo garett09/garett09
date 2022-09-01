@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony Xperia 5 IV puts powerful features in all three rear cameras](https://www.theverge.com/2022/9/1/23331266/sony-xperia-5-mark-iv-price-cameras-screen-specs)
- - [Sony announces the Xperia 5 IV: A little less phone for a lot less cash](https://www.androidauthority.com/sony-announces-xperia-5-iv-3202111/)
- - [You might soon have a super easy way to silence incoming calls on your Pixels](https://www.androidauthority.com/google-pixel-silence-calls-3203572/)<!-- TECH:END -->
+ - [An investigation details local US law enforcement using the &quot;Fog Reveal&quot; phone tracking tool, at times without warrants, to search records from 250M+ devices &lpar;Associated Press&rpar;](http://www.techmeme.com/220901/p7#a220901p7)
+ - [Ring’s latest gadget makes your apartment intercom smart](https://www.theverge.com/2022/9/1/23330456/ring-intercom-smart-doorbell-apartment-price-specs)
+ - [Unlocked Galaxy S22 models are now getting the One UI 4.1.1 update](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
