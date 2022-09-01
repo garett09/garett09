@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Fog Data Science, which purchases raw geolocation data collected by mobile apps and sells it to law enforcement agencies for a subscription fee &lpar;Bennett Cyphers/Electronic Frontier ...&rpar;](http://www.techmeme.com/220901/p9#a220901p9)
- - [Eve gets an Android app and launches a Thread version of its smart switch](https://www.theverge.com/2022/9/1/23331803/eve-homekit-android-app-smart-light-switch-matter)
- - [Sources: Tencent plans to divest $14.5B of its $88B listed equity portfolio in 2022 to help reduce pressure from investors and China&#39;s anti-monopoly regulator &lpar;Financial Times&rpar;](http://www.techmeme.com/220901/p8#a220901p8)<!-- TECH:END -->
+ - [Pew survey of 24,525 people from 19 countries shows 70% rate misinformation as a &quot;major threat&quot;, compared to 75% for climate change and 67% for cyberattacks &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/220901/p13#a220901p13)
+ - [HMD wants to ‘redefine mobile phone ownership’ with a new subscription service](https://www.androidauthority.com/nokia-circular-subscription-3202303/)
+ - [Careless Errors in Hundreds of Apps Could Expose Troves of Data](https://www.wired.com/story/mobile-apps-cloud-credentials-exposed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
