@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disney land](http://9gag.com/gag/arnP5pd)
- - 🚯 [Headshot!](http://9gag.com/gag/arnP5Mp)
- - 🚯 [Comfortable pillow](http://9gag.com/gag/aYrz4qq)<!-- MEMES:END -->
+ - 🚖 [What do the homies think about this?](http://9gag.com/gag/apgeQDM)
+ - 🚯 [1988 Seoul Olympic legends grilled pigeons](http://9gag.com/gag/awzqn6x)
+ - 🚯 [Girls drifting](http://9gag.com/gag/aOQ6BBR)<!-- MEMES:END -->
 
 --- 
 
