@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit acquires contextual advertising company Spiketrap to improve its ad quality scoring and boost prediction models for auto-bidding &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220901/p22#a220901p22)
- - [Mophie&#39;s new GaN &amp; wireless chargers arrive ahead of iPhone 14 launch](https://appleinsider.com/articles/22/09/01/mophies-new-gan-wireless-chargers-arrive-ahead-of-iphone-14-launch?utm_medium=rss)
- - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)<!-- TECH:END -->
+ - [Lenovo’s 120Hz Chromebook promises a smooth scroll](https://www.theverge.com/2022/9/1/23332594/lenovo-ideapad-5i-chromebook-tab-p11-pro-ifa-2022)
+ - [How to get the most from the Calendar app in iOS](https://appleinsider.com/inside/ios/tips/how-to-get-the-most-from-the-calendar-app-in-ios?utm_medium=rss)
+ - [No console or PC? Samsung’s first OLED gaming monitor doesn’t need ’em.](https://www.androidauthority.com/samsungs-first-oled-gaming-monitor-3203835/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
