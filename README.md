@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold](http://9gag.com/gag/angAj60)
- - 🚯 [Bullied everyday in the office being fat. Today I finally decided to make some changes. Wish me luck](http://9gag.com/gag/apgeQK9)
- - 🚯 [Someone posted here street Fast Guy. I give you HighwayToHell lunatic &lpar;km/h&rpar;.](http://9gag.com/gag/aegXePB)<!-- MEMES:END -->
+ - 🚖 [Animator: Jean Nguyen](http://9gag.com/gag/aze6qdj)
+ - 🚯 [Someone posted here street Fast Guy. I give you HighwayToHell lunatic &lpar;km/h&rpar;.](http://9gag.com/gag/aegXePB)
+ - 🚯 [CloWn World](http://9gag.com/gag/aQXY3E7)<!-- MEMES:END -->
 
 --- 
 
