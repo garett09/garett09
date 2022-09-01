@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [House of The Dragon not even once](http://9gag.com/gag/adg3KpQ)
- - 🚯 [Cleaning up the mangroves of bali](http://9gag.com/gag/aAGn39o)
- - 🚯 [Fly you fools..](http://9gag.com/gag/aNPy1oK)<!-- MEMES:END -->
+ - 🚖 [Another normal day in 2023](http://9gag.com/gag/a21QZxe)
+ - 🚯 [Happy alligator](http://9gag.com/gag/aNPy1Ev)
+ - 🚯 [And it&#39;s working](http://9gag.com/gag/axBpzmb)<!-- MEMES:END -->
 
 --- 
 
