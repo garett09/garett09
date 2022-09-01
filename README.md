@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CloWn World](http://9gag.com/gag/aQXY3E7)
- - 🚯 [Happy alligator](http://9gag.com/gag/aNPy1Ev)
- - 🚯 [Tofu cat.](http://9gag.com/gag/aYrz7Kx)<!-- MEMES:END -->
+ - 🚖 [Second world milirary claim to destroy 44 himars, twice as much as UA have&lpar;20&rpar;. Thats 220% eff](http://9gag.com/gag/aze618p)
+ - 🚯 [And it&#39;s working](http://9gag.com/gag/axBpzmb)
+ - 🚯 [Another normal day in 2023](http://9gag.com/gag/a21QZxe)<!-- MEMES:END -->
 
 --- 
 
