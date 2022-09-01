@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details local US law enforcement using the &quot;Fog Reveal&quot; phone tracking tool, at times without warrants, to search records from 250M+ devices &lpar;Associated Press&rpar;](http://www.techmeme.com/220901/p7#a220901p7)
- - [Ring’s latest gadget makes your apartment intercom smart](https://www.theverge.com/2022/9/1/23330456/ring-intercom-smart-doorbell-apartment-price-specs)
- - [Unlocked Galaxy S22 models are now getting the One UI 4.1.1 update](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
+ - [A profile of Fog Data Science, which purchases raw geolocation data collected by mobile apps and sells it to law enforcement agencies for a subscription fee &lpar;Bennett Cyphers/Electronic Frontier ...&rpar;](http://www.techmeme.com/220901/p9#a220901p9)
+ - [Eve gets an Android app and launches a Thread version of its smart switch](https://www.theverge.com/2022/9/1/23331803/eve-homekit-android-app-smart-light-switch-matter)
+ - [Sources: Tencent plans to divest $14.5B of its $88B listed equity portfolio in 2022 to help reduce pressure from investors and China&#39;s anti-monopoly regulator &lpar;Financial Times&rpar;](http://www.techmeme.com/220901/p8#a220901p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
