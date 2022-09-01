@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s 120Hz Chromebook promises a smooth scroll](https://www.theverge.com/2022/9/1/23332594/lenovo-ideapad-5i-chromebook-tab-p11-pro-ifa-2022)
- - [How to get the most from the Calendar app in iOS](https://appleinsider.com/inside/ios/tips/how-to-get-the-most-from-the-calendar-app-in-ios?utm_medium=rss)
- - [No console or PC? Samsung’s first OLED gaming monitor doesn’t need ’em.](https://www.androidauthority.com/samsungs-first-oled-gaming-monitor-3203835/)<!-- TECH:END -->
+ - [Razer unveils new Kishi gaming controller for iPhone](https://appleinsider.com/articles/22/09/01/razer-unveils-new-kishi-gaming-controller-for-iphone?utm_medium=rss)
+ - [Jabra’s new $150 Elite 3 earbuds could be the sweet spot of its lineup](https://www.theverge.com/2022/9/1/23331888/jabra-elite-5-earbuds-announced-features-price)
+ - [Withings’ new smart scale measures your nerve and artery health](https://www.theverge.com/2022/9/1/23330920/withings-body-comp-health-plus-artery-nerve-ifa-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
