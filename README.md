@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accurate](http://9gag.com/gag/aAGn3Y2)
- - 🚯 [Another normal day in 2023](http://9gag.com/gag/a21QZxe)
+ - 🚖 [Clown world we live in](http://9gag.com/gag/aNPyYe0)
+ - 🚯 [The balls on this guy. &lpar;Miles Routledge&rpar;](http://9gag.com/gag/a31oRON)
  - 🚯 [Good trip](http://9gag.com/gag/aBnDgdD)<!-- MEMES:END -->
 
 --- 
