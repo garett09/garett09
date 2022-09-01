@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sons of the Forest delayed again, but new gameplay footage sure looks nice](https://www.pcgamer.com/sons-of-the-forest-delayed-again-but-new-gameplay-footage-sure-looks-nice)
- - [The Golf Afterlife - Cursed to Golf Review](https://game-rant-2022.blogspot.com/2022/08/the-golf-afterlife-cursed-to-golf-review.html)
- - [10 PlayStation Games That Are Worse When You&#39;re An Adult](https://game-rant-2022.blogspot.com/2022/08/10-playstation-games-that-are-worse.html)<!-- GAME:END -->
+ - [The best racing games for kids](https://game-rant-2022.blogspot.com/2022/08/the-best-racing-games-for-kids.html)
+ - [Beginner Tips for Pac-Man World Re-PAC](https://game-rant-2022.blogspot.com/2022/08/beginner-tips-for-pac-man-world-re-pac.html)
+ - [Pocket Gamer Connects Jordan is THE conference to attend in November!](https://game-rant-2022.blogspot.com/2022/08/pocket-gamer-connects-jordan-is.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
