@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BlyaT](http://9gag.com/gag/avAbO8M)
- - 🚯 [If you know, you know](http://9gag.com/gag/aqGv1zj)
- - 🚯 [Happy alligator](http://9gag.com/gag/aNPy1Ev)<!-- MEMES:END -->
+ - 🚖 [House of The Dragon not even once](http://9gag.com/gag/adg3KpQ)
+ - 🚯 [Cleaning up the mangroves of bali](http://9gag.com/gag/aAGn39o)
+ - 🚯 [Fly you fools..](http://9gag.com/gag/aNPy1oK)<!-- MEMES:END -->
 
 --- 
 
