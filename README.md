@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to dress for work if you’re a She-Hulk sometimes](https://www.polygon.com/23327033/she-hulk-costume-interview-marvel)
- - [Smash Boxer Set for Rumbleverse Now Available as a Perk for Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/09/01/smash-boxer-set-for-rumbleverse-now-available-as-a-perk-for-game-pass-ultimate-members/)
- - [This Lord of the Rings Middle-earth map can help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)<!-- GAME:END -->
+ - [What Your Witcher 3 Romance Says About You: Brutal Callout Post Edition](https://kotaku.com/the-witcher-3-geralt-yennefer-triss-kiera-romance-love-1849487104)
+ - [When Lord of the Rings: The Rings of Power premieres and where to watch it](https://www.polygon.com/23308109/lord-of-the-rings-amazon-series-the-rings-of-power-release-date-time)
+ - [Shadow Of The Tomb Raider &lpar;And More&rpar; Is Free On PC Right Now](https://kotaku.com/shadow-tomb-raider-epic-pc-knockout-city-submerged-1849486944)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
