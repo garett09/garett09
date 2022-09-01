@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best mechanical keyboards in 2022](https://www.pcgamer.com/best-mechanical-keyboard)
- - [She-Hulk’s Wrecking Crew has a loopy connection to Thor and the Avengers](https://www.polygon.com/23328511/she-hulk-wrecking-crew-episode-3-ending-explained)
- - [Attention PS4 &amp; PS5 virtual photographers – Red Bull Capture Point is back](https://blog.playstation.com/2022/09/01/attention-ps4-ps5-virtual-photographers-red-bull-capture-point-is-back/)<!-- GAME:END -->
+ - [Soul Hackers 2 is a grim look into a future without privacy](https://www.polygon.com/23331391/soul-hackers-2-jrpg-doppelganger-shin-megami-tensei-persona-5-pc-ps4-ps5-xbox)
+ - [The 29 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [The 19 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
