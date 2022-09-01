@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is testing an Edit Tweet feature](https://appleinsider.com/articles/22/09/01/twitter-is-testing-an-edit-tweet-feature?utm_medium=rss)
- - [Twitter Tests Edit Button, Promises We&#39;ll &#39;Be Okay&#39;     - CNET](https://www.cnet.com/news/social-media/twitter-tests-edit-button-promises-well-be-okay/#ftag=CAD590a51e)
- - [Motorola Edge &lpar;2022&rpar; review: Edge-appropriate](https://www.androidauthority.com/motorola-edge-2022-review-3202899/)<!-- TECH:END -->
+ - [Reddit acquires contextual advertising company Spiketrap to improve its ad quality scoring and boost prediction models for auto-bidding &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220901/p22#a220901p22)
+ - [Mophie&#39;s new GaN &amp; wireless chargers arrive ahead of iPhone 14 launch](https://appleinsider.com/articles/22/09/01/mophies-new-gan-wireless-chargers-arrive-ahead-of-iphone-14-launch?utm_medium=rss)
+ - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
