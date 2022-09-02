@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How get iMessage on Android or Windows &lpar;via Beeper&rpar;](https://www.androidauthority.com/how-imessage-on-android-or-windows-3204254/)
- - [ChromeOS tests keyboard controls for touchscreen-only Android games](https://www.theverge.com/2022/9/2/23333400/google-chromeos-touch-android-games-keyboard-controls)
- - [Sources: ByteDance CFO told staff that it has no plans to go public; report: CEO Liang said the company plans to reduce input into noncore businesses &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/220902/p12#a220902p12)<!-- TECH:END -->
+ - [Industry group: India to pilot parallel testing of new electronic devices to speed up approvals and reduce time to certification from the current 16 to 21 weeks &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220902/p13#a220902p13)
+ - [The Best iPad to Buy &lpar;and a Few to Avoid&rpar;](https://www.wired.com/gallery/the-best-ipad/)
+ - [So you just discovered BTS](https://www.theverge.com/23332916/bts-how-to-members-weverse-social-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
