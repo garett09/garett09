@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2022 back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)
- - [Twitter had a new plan to fight extremism — then Elon arrived](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)
- - [The US Army starts accepting some of the 5,000 sets of HoloLens goggles, citing encouraging results from field testing, after putting the order on hold in 2021 &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/220902/p15#a220902p15)<!-- TECH:END -->
+ - [How to get Apple&#39;s iPhone user manual](https://appleinsider.com/inside/iphone/tips/how-to-get-apples-iphone-user-manual?utm_medium=rss)
+ - [Withings Body Comp scale and Health Plus promises to help you break bad habits](https://www.androidauthority.com/withings-body-comp-scale-3204388/)
+ - [Samsung says some customer data, including names, contact info, and product registration info, was compromised in a breach of its US systems in late July &lpar;TechCrunch&rpar;](http://www.techmeme.com/220902/p17#a220902p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
