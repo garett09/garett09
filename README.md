@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [JRPG Soul Hackers 2 Is An Eerie Parable About The Surveillance State](https://game-rant-2022.blogspot.com/2022/09/jrpg-soul-hackers-2-is-eerie-parable.html)
- - [Interview: Hussy Hicks on “Capitulation” and on making their own mobile gaming app](https://game-rant-2022.blogspot.com/2022/09/interview-hussy-hicks-on-capitulation.html)
- - [The 10 Best Video Games Ever Made, According to Reddit](https://game-rant-2022.blogspot.com/2022/09/the-10-best-video-games-ever-made.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 440 answer and hint: Friday, September 2](https://www.pcgamer.com/todays-wordle-440-answer-hint)
+ - [Everything The Rings of Power revisits from the Lord of the Rings trilogy &lpar;so far&rpar;](https://www.polygon.com/23332776/lord-rings-power-similarities)
+ - [The Stranger in Lord of the Rings: Rings of Power isn’t who you think](https://www.polygon.com/23327884/rings-power-meteor-stranger-who-is-character-lord-rings-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
