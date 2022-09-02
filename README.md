@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industry group: India to pilot parallel testing of new electronic devices to speed up approvals and reduce time to certification from the current 16 to 21 weeks &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220902/p13#a220902p13)
- - [The Best iPad to Buy &lpar;and a Few to Avoid&rpar;](https://www.wired.com/gallery/the-best-ipad/)
- - [So you just discovered BTS](https://www.theverge.com/23332916/bts-how-to-members-weverse-social-media)<!-- TECH:END -->
+ - [Judge agrees Musk’s buddy David Sacks is fighting a subpoena for podcast clout](https://www.theverge.com/2022/9/2/23334338/elon-musk-twitter-david-sacks-subpoena-all-in-podcast)
+ - [Apple TV+ reveals streaming dates for &#39;Causeway&#39; and &#39;Black &amp; Blues&#39;](https://appleinsider.com/articles/22/09/02/apple-tv-reveals-streaming-dates-for-causeway-and-black-blues?utm_medium=rss)
+ - [iPhones overtake Android phones in the US for the first time ever](https://www.androidauthority.com/iphone-beats-android-2022-3204421/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
