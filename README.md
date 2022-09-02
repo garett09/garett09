@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\](http://9gag.com/gag/aRrxrwj)
- - 🚯 [Can&#39;t touch this](http://9gag.com/gag/a41MEZ1)
- - 🚯 [Someone has the full vid? Now iam curious](http://9gag.com/gag/aWgVjgd)<!-- MEMES:END -->
+ - 🚖 [You might call him crazy, I&#39;d call him a hero x 2](http://9gag.com/gag/apgeNWn)
+ - 🚯 [Someone has the full vid? Now iam curious](http://9gag.com/gag/aWgVjgd)
+ - 🚯 [Haha, women](http://9gag.com/gag/aPZOZ6V)<!-- MEMES:END -->
 
 --- 
 
