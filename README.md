@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokimane isn’t quitting streaming, but she’ll be on Twitch less in the future](https://www.polygon.com/23333512/pokimane-twitch-streaming-announcment-instragram-tiktok)
- - [What&#39;s going on with Metal Gear Solid remasters, exactly?](https://www.pcgamer.com/whats-going-on-with-metal-gear-solid-remasters-exactly)
- - [Upcoming WWII RTS delayed by the Russian invasion of Ukraine](https://www.pcgamer.com/upcoming-wwii-rts-delayed-by-the-russian-invasion-of-ukraine)<!-- GAME:END -->
+ - [What really happened in Middle-earth’s war against Morgoth, in under 1,000 words](https://www.polygon.com/23330717/morgoth-rings-of-power-war-lord-rings-silmarillion)
+ - [The September PC game releases and updates you should know about](https://www.pcgamer.com/september-pc-game-releases)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
