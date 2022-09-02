@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The soul](http://9gag.com/gag/aKmbGYg)
- - 🚯 [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)
- - 🚯 [MCU going strong](http://9gag.com/gag/aKmbG8Z)<!-- MEMES:END -->
+ - 🚖 [MCU going strong](http://9gag.com/gag/aKmbG8Z)
+ - 🚯 [Someone give her a medal...](http://9gag.com/gag/a1147zY)
+ - 🚯 [Ohhh look... another one of those posts](http://9gag.com/gag/a114meR)<!-- MEMES:END -->
 
 --- 
 
