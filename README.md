@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All MultiVersus characters, including leaked and upcoming fighters](https://www.pcgamer.com/multiversus-characters-list)
- - [Xbox’s Multiple-Account Game Pass Plan Sounds Like A Great Deal](https://kotaku.com/xbox-game-pass-friends-family-plan-pricing-release-1849490068)
- - [Cash in with Sea of Thieves’ Talk Like a Pirate-themed Community Day on September 17!](https://news.xbox.com/en-us/2022/09/02/cash-in-with-sea-of-thieves-talk-like-a-pirate-themed-community-day-on-september-17/)<!-- GAME:END -->
+ - [Share of the Week: Duality](https://blog.playstation.com/2022/09/02/share-of-the-week-duality/)
+ - [Dwarves bring the party that The Rings of Power badly needs](https://www.polygon.com/23330685/rings-of-power-dwarves-rock-lord-lotr-moria)
+ - [Starfield composer says Bethesda&#39;s space RPG is &#39;huge&#39; and &#39;philosophical&#39;](https://www.pcgamer.com/starfield-composer-says-bethesdas-space-rpg-is-huge-and-philosophical)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
