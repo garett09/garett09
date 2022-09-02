@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amid Criticism, Wizards Of The Coast Quietly Removes Racist Lore From Dungeons &amp; Dragons](https://kotaku.com/dnd-dungeons-dragons-spelljammer-hadozee-wizards-coast-1849491335)
- - [Official PlayStation Podcast Episode 438: Precious Platinum](https://blog.playstation.com/2022/09/02/official-playstation-podcast-episode-438-precious-platinum/)
- - [Gord is a fascinating knot of complex survival systems and Slavic lore](https://www.polygon.com/23333178/gord-preview-survival-adventure-game)<!-- GAME:END -->
+ - [Steam Bans Scammers After Dev Reveals Potential Shady Game Reselling](https://kotaku.com/steam-ban-scammers-curators-brok-cowcat-scam-1849491621)
+ - [This Week on Xbox: New Games, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/02/this-week-on-xbox-new-games-upcoming-releases-and-updates-2/)
+ - [Genshin Impact Shakes Up The JRPG Formula With Its New NPCs](https://kotaku.com/genshin-impact-sumeru-dunyarzad-3-0-npc-playable-vision-1849491938)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
