@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 440 answer and hint: Friday, September 2](https://www.pcgamer.com/todays-wordle-440-answer-hint)
- - [Everything The Rings of Power revisits from the Lord of the Rings trilogy &lpar;so far&rpar;](https://www.polygon.com/23332776/lord-rings-power-similarities)
- - [The Stranger in Lord of the Rings: Rings of Power isn’t who you think](https://www.polygon.com/23327884/rings-power-meteor-stranger-who-is-character-lord-rings-explained)<!-- GAME:END -->
+ - [I hope this new RTX 4080 leak is fake or we&#39;re going to need a bigger PC](https://www.pcgamer.com/nvidia-rtx-4080-vs-rtx-3090-alleged-images)
+ - [I can&#39;t wait for Assassin&#39;s Creed to be Assassin&#39;s Creed again](https://www.pcgamer.com/i-cant-wait-for-assassins-creed-to-be-assassins-creed-again)
+ - [The streamer who beat Elden Ring with one hand is now doing it on a dance pad](https://www.pcgamer.com/the-streamer-who-beat-elden-ring-with-one-hand-is-now-doing-it-on-a-dance-pad)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
