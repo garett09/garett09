@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get Apple&#39;s iPhone user manual](https://appleinsider.com/inside/iphone/tips/how-to-get-apples-iphone-user-manual?utm_medium=rss)
- - [Withings Body Comp scale and Health Plus promises to help you break bad habits](https://www.androidauthority.com/withings-body-comp-scale-3204388/)
- - [Samsung says some customer data, including names, contact info, and product registration info, was compromised in a breach of its US systems in late July &lpar;TechCrunch&rpar;](http://www.techmeme.com/220902/p17#a220902p17)<!-- TECH:END -->
+ - [In Q2, the global premium smartphone average selling price rose 8% YoY to $780, driven by growth in $1,000+ devices; Apple captured 57% of the premium market &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/220902/p19#a220902p19)
+ - [How to use Shared with You in iOS 16 and macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-shared-with-you-in-ios-16-and-macos-ventura?utm_medium=rss)
+ - [The Apple Car is highly rated by possible buyers before it exists](https://appleinsider.com/articles/22/09/02/the-apple-car-is-highly-rated-by-possible-buyers-before-it-exists?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
