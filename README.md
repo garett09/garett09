@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for August 2022’s best new game](https://blog.playstation.com/2022/09/02/players-choice-vote-for-august-2022s-best-new-game/)
- - [Next Week on Xbox: New Games for September 5 to 9](https://news.xbox.com/en-us/2022/09/02/next-week-on-xbox-new-games-for-september-5-to-9/)
- - [9 Farming Games To Fall In Love With After Stardew Valley](https://kotaku.com/stardew-valley-games-like-farming-sim-cozy-harvestella-1849487513)<!-- GAME:END -->
+ - [All MultiVersus characters, including leaked and upcoming fighters](https://www.pcgamer.com/multiversus-characters-list)
+ - [Xbox’s Multiple-Account Game Pass Plan Sounds Like A Great Deal](https://kotaku.com/xbox-game-pass-friends-family-plan-pricing-release-1849490068)
+ - [Cash in with Sea of Thieves’ Talk Like a Pirate-themed Community Day on September 17!](https://news.xbox.com/en-us/2022/09/02/cash-in-with-sea-of-thieves-talk-like-a-pirate-themed-community-day-on-september-17/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
