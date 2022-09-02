@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To stop this guy from skating in order to `protect her city`.](http://9gag.com/gag/aqGvgoM)
- - 🚯 [To me she is the only true Galadriel. We shall all love her and despair.](http://9gag.com/gag/aVxGwen)
- - 🚯 [At least she is honest](http://9gag.com/gag/amgDv7o)<!-- MEMES:END -->
+ - 🚖 [At least she is honest](http://9gag.com/gag/amgDv7o)
+ - 🚯 [Prepare for standards, make it double](http://9gag.com/gag/a61WKB9)
+ - 🚯 [Those movies will never be topped in the fantasy genre.](http://9gag.com/gag/aVxGwRP)<!-- MEMES:END -->
 
 --- 
 
