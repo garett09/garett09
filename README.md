@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to cancel Amazon Music Unlimited](https://www.androidauthority.com/how-to-cancel-amazon-music-unlimited-3196925/)
- - [Best Clothing Subscription Boxes of 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)
- - [Best Xbox Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google extends third-party in-app billing to India, Australia, Indonesia, Japan, and the European Economic Area; non-gaming developers globally can participate &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/220902/p4#a220902p4)
+ - [Binance CEO Changpeng Zhao says Binance is not a Chinese company and rejects suggestions of it being secretly run by a Chinese national, Guangying Chen &lpar;Binance Blog&rpar;](http://www.techmeme.com/220902/p3#a220902p3)
+ - [How to cancel Amazon Music Unlimited](https://www.androidauthority.com/how-to-cancel-amazon-music-unlimited-3196925/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
