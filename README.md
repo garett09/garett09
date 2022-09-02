@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft confirms new Xbox Game Pass Friends &amp; Family plan and its pricing](https://www.theverge.com/2022/9/1/23333605/microsoft-xbox-game-pass-friends-family-pricing-confirmed)
- - [A Delaware jury says Shopify owes $40M to patent holder Express Mobile for infringing three patents related to software for providing content to mobile devices &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/220901/p33#a220901p33)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)<!-- TECH:END -->
+ - [Lyft faces 17 lawsuits across 11 states from drivers and passengers accusing the company of failing to protect its users from sexual and physical assault &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220901/p35#a220901p35)
+ - [Hear Images From NASA&#39;s James Webb Telescope Turned Into Haunting Music     - CNET](https://www.cnet.com/science/space/hear-images-from-nasas-james-webb-telescope-turned-into-haunting-music/#ftag=CAD590a51e)
+ - [&#39;The Lord of the Rings: The Rings of Power&#39;: Everything You Need to Know Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-everything-you-need-to-know-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
