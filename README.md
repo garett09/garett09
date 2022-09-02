@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where my reparations at?](http://9gag.com/gag/a71j1Gq)
- - 🚯 [Mom will you please...](http://9gag.com/gag/ay9y9NX)
- - 🚯 [Haha, women](http://9gag.com/gag/aPZOZ6V)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t forget](http://9gag.com/gag/angAgr0)
+ - 🚯 [Your food was successfully delivered](http://9gag.com/gag/ay9yMgr)
+ - 🚯 [It is friday my dudes](http://9gag.com/gag/amgDgpj)<!-- MEMES:END -->
 
 --- 
 
