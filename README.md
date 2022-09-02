@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He even found place with only with sky or grass photo](http://9gag.com/gag/aAGn0vg)
- - 🚯 [Hello](http://9gag.com/gag/aWgV4md)
+ - 🚖 [Hello](http://9gag.com/gag/aWgV4md)
+ - 🚯 [That&#39;s just how it is.](http://9gag.com/gag/adg3vK2)
  - 🚯 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)<!-- MEMES:END -->
 
 --- 
