@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello](http://9gag.com/gag/aWgV4md)
- - 🚯 [That&#39;s just how it is.](http://9gag.com/gag/adg3vK2)
- - 🚯 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)<!-- MEMES:END -->
+ - 🚖 [Forget the Rings of Power BS, this is about the Real LOTR](http://9gag.com/gag/a114PWb)
+ - 🚯 [A finalist of Miss England finalist has become the first contestant to compete without wearing any makeup in the pageant&#39;s 94 years of history.](http://9gag.com/gag/aegX4rB)
+ - 🚯 [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)<!-- MEMES:END -->
 
 --- 
 
