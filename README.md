@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Duality](https://blog.playstation.com/2022/09/02/share-of-the-week-duality/)
- - [Dwarves bring the party that The Rings of Power badly needs](https://www.polygon.com/23330685/rings-of-power-dwarves-rock-lord-lotr-moria)
- - [Starfield composer says Bethesda&#39;s space RPG is &#39;huge&#39; and &#39;philosophical&#39;](https://www.pcgamer.com/starfield-composer-says-bethesdas-space-rpg-is-huge-and-philosophical)<!-- GAME:END -->
+ - [Take a Stand or Strike a Pose – JoJo’s Bizarre Adventure: All-Star Battle R is Out Now](https://news.xbox.com/en-us/2022/09/02/jojos-bizarre-adventure-all-star-battle-out-now/)
+ - [Is Ninja&#39;s dramatic &#39;break from Twitch&#39; just a setup?](https://www.pcgamer.com/is-ninjas-dramatic-break-from-twitch-just-a-setup)
+ - [The return of the &#39;90s: That game you love is coming back](https://www.pcgamer.com/the-return-of-the-90s-that-game-you-love-is-coming-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
