@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t forget](http://9gag.com/gag/angAgr0)
- - 🚯 [Your food was successfully delivered](http://9gag.com/gag/ay9yMgr)
+ - 🚖 [Sometime Nature isn&#39;t quite supportive](http://9gag.com/gag/aDDBYdO)
+ - 🚯 [Don&#39;t forget](http://9gag.com/gag/angAgr0)
  - 🚯 [It is friday my dudes](http://9gag.com/gag/amgDgpj)<!-- MEMES:END -->
 
 --- 
