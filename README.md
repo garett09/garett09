@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friends right? Friends.](http://9gag.com/gag/aOQ63dE)
+ - 🚖 [\u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\](http://9gag.com/gag/aRrxrwj)
  - 🚯 [Is Richard ok?](http://9gag.com/gag/amgDvPj)
- - 🚯 [Someone has the full vid? Now iam curious](http://9gag.com/gag/aWgVjgd)<!-- MEMES:END -->
+ - 🚯 [Can&#39;t touch this](http://9gag.com/gag/a41MEZ1)<!-- MEMES:END -->
 
 --- 
 
