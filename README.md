@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The reaction, grief and questions of the family just hit different. So guys, if you are having dark thoughts please talk to someone. You have no idea what you to to the ones left behind.](http://9gag.com/gag/avAbAjZ)
+ - 🚖 [He even found place with only with sky or grass photo](http://9gag.com/gag/aAGn0vg)
  - 🚯 [Hello](http://9gag.com/gag/aWgV4md)
- - 🚯 [Must&#39;ve been holy water](http://9gag.com/gag/aogBKK2)<!-- MEMES:END -->
+ - 🚯 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)<!-- MEMES:END -->
 
 --- 
 
