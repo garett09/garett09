@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I hope this new RTX 4080 leak is fake or we&#39;re going to need a bigger PC](https://www.pcgamer.com/nvidia-rtx-4080-vs-rtx-3090-alleged-images)
- - [I can&#39;t wait for Assassin&#39;s Creed to be Assassin&#39;s Creed again](https://www.pcgamer.com/i-cant-wait-for-assassins-creed-to-be-assassins-creed-again)
- - [The streamer who beat Elden Ring with one hand is now doing it on a dance pad](https://www.pcgamer.com/the-streamer-who-beat-elden-ring-with-one-hand-is-now-doing-it-on-a-dance-pad)<!-- GAME:END -->
+ - [Someone&#39;s Made A New Game For The Donkey Kong Bongo Controllers In 2022](https://kotaku.com/bull-beat-donkey-kong-jungle-beat-dk-bongo-controllers-1849487307)
+ - [Dall-E 2 AI image generator is a surprisingly great fashion designer](https://www.pcgamer.com/dalle-e-2-ai-image-generator-fashion-cheng)
+ - [How Naughty Dog aimed to improve a classic with The Last of Us Part I, out now](https://blog.playstation.com/2022/09/02/how-naughty-dog-aimed-to-improve-a-classic-with-the-last-of-us-part-i-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
