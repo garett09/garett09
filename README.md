@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple settles copyright suit with Tin Pan Alley music heirs](https://appleinsider.com/articles/22/09/02/apple-settles-copyright-suit-with-tin-pan-alley-music-heirs?utm_medium=rss)
- - [Google expands Play Store billing altneratives to many countries](https://www.theverge.com/2022/9/2/23334102/google-play-third-party-payment-fee-countries)
- - [Apple, Meta, AMD, Qualcomm, and other US and EU companies attend the annual World AI Conference in Shanghai, despite the US distancing itself from China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220902/p5#a220902p5)<!-- TECH:END -->
+ - [Labor Day weekend deals: $400 off MacBook Pro, $1,000 off LG monitor, free Disney Plus offer](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
+ - [Best of 2000 AD Proves Why the Comics Are Classic](https://www.wired.com/story/best-of-2000-ad-review/)
+ - [Why DeepMind Is Sending AI Humanoids to Soccer Camp](https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
