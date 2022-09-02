@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge agrees Musk’s buddy David Sacks is fighting a subpoena for podcast clout](https://www.theverge.com/2022/9/2/23334338/elon-musk-twitter-david-sacks-subpoena-all-in-podcast)
- - [Apple TV+ reveals streaming dates for &#39;Causeway&#39; and &#39;Black &amp; Blues&#39;](https://appleinsider.com/articles/22/09/02/apple-tv-reveals-streaming-dates-for-causeway-and-black-blues?utm_medium=rss)
- - [iPhones overtake Android phones in the US for the first time ever](https://www.androidauthority.com/iphone-beats-android-2022-3204421/)<!-- TECH:END -->
+ - [The Verge’s 2022 back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)
+ - [Twitter had a new plan to fight extremism — then Elon arrived](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)
+ - [The US Army starts accepting some of the 5,000 sets of HoloLens goggles, citing encouraging results from field testing, after putting the order on hold in 2021 &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/220902/p15#a220902p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
