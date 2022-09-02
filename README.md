@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What really happened in Middle-earth’s war against Morgoth, in under 1,000 words](https://www.polygon.com/23330717/morgoth-rings-of-power-war-lord-rings-silmarillion)
- - [The September PC game releases and updates you should know about](https://www.pcgamer.com/september-pc-game-releases)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [[A Glimpse Into Gamescom 2022] Experience the next era of gaming through the all-new Odyssey range – Samsung Global Newsroom](https://game-rant-2022.blogspot.com/2022/09/a-glimpse-into-gamescom-2022-experience.html)
+ - [Explaining the importance of Tess in The Last of Us](https://game-rant-2022.blogspot.com/2022/09/explaining-importance-of-tess-in-last.html)
+ - [When is the best time to buy a laptop?  Tip: it&#39;s in November](https://game-rant-2022.blogspot.com/2022/09/when-is-best-time-to-buy-laptop-tip-its.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
