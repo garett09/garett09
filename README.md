@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Lord of the Rings: The Rings of Power&#39; Premiere Recap: Strange Skies     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-premiere-recap-strange-skies/#ftag=CAD590a51e)
- - [oVice, which offers collaboration and talent management software for hybrid and remote workplaces, raised a $32M Series B, bringing its total raised to $45M &lpar;FinSMEs&rpar;](http://www.techmeme.com/220901/p38#a220901p38)
- - [&#39;The Rings of Power&#39; Episode 2 Recap: The Orcs Are Back and Elrond Goes Underground     - CNET](https://www.cnet.com/culture/entertainment/rings-of-power-episode-2-recap-the-orcs-are-back-and-elrond-goes-underground/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Delhi&#39;s high court orders Telegram to reveal phone numbers, emails, IP addresses, and more details about users who allegedly shared copyrighted study material &lpar;Sofi Ahsan/The Indian Express&rpar;](http://www.techmeme.com/220902/p1#a220902p1)
+ - [Best Online Will Makers     - CNET](https://www.cnet.com/personal-finance/the-best-online-will-maker/#ftag=CAD590a51e)
+ - [&#39;The Lord of the Rings: The Rings of Power&#39; Premiere Recap: Strange Skies     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-premiere-recap-strange-skies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
