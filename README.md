@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [\u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\](http://9gag.com/gag/aRrxrwj)
- - 🚯 [Is Richard ok?](http://9gag.com/gag/amgDvPj)
- - 🚯 [Can&#39;t touch this](http://9gag.com/gag/a41MEZ1)<!-- MEMES:END -->
+ - 🚯 [Can&#39;t touch this](http://9gag.com/gag/a41MEZ1)
+ - 🚯 [Someone has the full vid? Now iam curious](http://9gag.com/gag/aWgVjgd)<!-- MEMES:END -->
 
 --- 
 
