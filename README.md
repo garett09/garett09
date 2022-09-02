@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometime Nature isn&#39;t quite supportive](http://9gag.com/gag/aDDBYdO)
- - 🚯 [Don&#39;t forget](http://9gag.com/gag/angAgr0)
- - 🚯 [It is friday my dudes](http://9gag.com/gag/amgDgpj)<!-- MEMES:END -->
+ - 🚖 [Must&#39;ve been holy water](http://9gag.com/gag/aogBKK2)
+ - 🚯 [Sometime Nature isn&#39;t quite supportive](http://9gag.com/gag/aDDBYdO)
+ - 🚯 [Everyone is so quick to judge. At least let him explain himself and hear his side of the story.](http://9gag.com/gag/amgDgD4)<!-- MEMES:END -->
 
 --- 
 
