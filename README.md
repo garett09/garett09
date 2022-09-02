@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal players are facing massive &#39;orb debt&#39; after Blizzard cracks down on resellers](https://www.pcgamer.com/diablo-immortal-players-are-facing-massive-orb-debt-after-blizzard-cracks-down-on-resellers)
- - [How Gearbox designed New Tales from the Borderlands as a spiritual successor](https://blog.playstation.com/2022/09/02/how-gearbox-designed-new-tales-from-the-borderlands-as-a-spiritual-successor/)
- - [New Tales from the Borderlands demo shows off adjustable QTE difficulty that won&#39;t affect your story](https://www.pcgamer.com/new-tales-from-the-borderlands-demo-shows-off-adjustable-qte-difficulty-that-wont-affect-your-story)<!-- GAME:END -->
+ - [The current MultiVersus meta is all about cheese](https://www.pcgamer.com/multiversus-tier-list)
+ - [Elvis, Jurassic World Dominion, and every other new movie you can stream from home this weekend](https://www.polygon.com/23326758/new-movies-watch-elvis-hbo-jurassic-world-dominion-netflix-i-came-by)
+ - [Everyone is using their Steam Deck like a better Nintendo Switch](https://www.pcgamer.com/everyone-is-using-their-steam-deck-like-a-better-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
