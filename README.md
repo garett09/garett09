@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s MoodUp is a fridge that’s as flashy on the outside as I feel on the inside](https://www.theverge.com/2022/9/2/23334150/lg-moodup-fridge-led-rgb-lighting-bluetooth-speaker-music-mood)
- - [More USB-C speed won&#39;t fix users&#39; problems with cables](https://appleinsider.com/articles/22/09/02/more-usb-c-speed-wont-fix-users-problems-with-cables?utm_medium=rss)
- - [Sources: Netflix&#39;s ad-supported tier may debut on Nov. 1 in markets including Canada, France, Germany, UK, and US; the date was moved to beat Disney+&#39;s Dec. 8 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220902/p11#a220902p11)<!-- TECH:END -->
+ - [How get iMessage on Android or Windows &lpar;via Beeper&rpar;](https://www.androidauthority.com/how-imessage-on-android-or-windows-3204254/)
+ - [ChromeOS tests keyboard controls for touchscreen-only Android games](https://www.theverge.com/2022/9/2/23333400/google-chromeos-touch-android-games-keyboard-controls)
+ - [Sources: ByteDance CFO told staff that it has no plans to go public; report: CEO Liang said the company plans to reduce input into noncore businesses &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/220902/p12#a220902p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
