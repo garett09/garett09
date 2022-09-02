@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is Richard ok?](http://9gag.com/gag/amgDvPj)
- - 🚯 [Cleaning up the mangroves of bali](http://9gag.com/gag/aAGn39o)
- - 🚯 [To me she is the only true Galadriel. We shall all love her and despair.](http://9gag.com/gag/aVxGwen)<!-- MEMES:END -->
+ - 🚖 [To stop this guy from skating in order to `protect her city`.](http://9gag.com/gag/aqGvgoM)
+ - 🚯 [To me she is the only true Galadriel. We shall all love her and despair.](http://9gag.com/gag/aVxGwen)
+ - 🚯 [At least she is honest](http://9gag.com/gag/amgDv7o)<!-- MEMES:END -->
 
 --- 
 
