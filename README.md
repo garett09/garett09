@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least she is honest](http://9gag.com/gag/amgDv7o)
- - 🚯 [Prepare for standards, make it double](http://9gag.com/gag/a61WKB9)
- - 🚯 [Those movies will never be topped in the fantasy genre.](http://9gag.com/gag/aVxGwRP)<!-- MEMES:END -->
+ - 🚖 [Friends right? Friends.](http://9gag.com/gag/aOQ63dE)
+ - 🚯 [Is Richard ok?](http://9gag.com/gag/amgDvPj)
+ - 🚯 [Someone has the full vid? Now iam curious](http://9gag.com/gag/aWgVjgd)<!-- MEMES:END -->
 
 --- 
 
