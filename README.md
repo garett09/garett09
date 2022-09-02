@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone&#39;s Made A New Game For The Donkey Kong Bongo Controllers In 2022](https://kotaku.com/bull-beat-donkey-kong-jungle-beat-dk-bongo-controllers-1849487307)
- - [Dall-E 2 AI image generator is a surprisingly great fashion designer](https://www.pcgamer.com/dalle-e-2-ai-image-generator-fashion-cheng)
- - [How Naughty Dog aimed to improve a classic with The Last of Us Part I, out now](https://blog.playstation.com/2022/09/02/how-naughty-dog-aimed-to-improve-a-classic-with-the-last-of-us-part-i-out-now/)<!-- GAME:END -->
+ - [Players’ Choice: Vote for August 2022’s best new game](https://blog.playstation.com/2022/09/02/players-choice-vote-for-august-2022s-best-new-game/)
+ - [Next Week on Xbox: New Games for September 5 to 9](https://news.xbox.com/en-us/2022/09/02/next-week-on-xbox-new-games-for-september-5-to-9/)
+ - [9 Farming Games To Fall In Love With After Stardew Valley](https://kotaku.com/stardew-valley-games-like-farming-sim-cozy-harvestella-1849487513)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
