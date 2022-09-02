@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Q2, the global premium smartphone average selling price rose 8% YoY to $780, driven by growth in $1,000+ devices; Apple captured 57% of the premium market &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/220902/p19#a220902p19)
- - [How to use Shared with You in iOS 16 and macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-shared-with-you-in-ios-16-and-macos-ventura?utm_medium=rss)
- - [The Apple Car is highly rated by possible buyers before it exists](https://appleinsider.com/articles/22/09/02/the-apple-car-is-highly-rated-by-possible-buyers-before-it-exists?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft will keep Call of Duty on PlayStation for ‘several more years’ beyond existing deal](https://www.theverge.com/2022/9/2/23334619/microsoft-sony-call-of-duty-playstation-letter-commitment-activision-blizzard)
+ - [Cyberattack on Samsung compromises personal information of US users](https://www.androidauthority.com/cyberattck-samsung-personal-info-3204521/)
+ - [In Q2, the global premium smartphone average selling price rose 8% YoY to $780, driven by growth in $1,000+ devices; Apple captured 57% of the premium market &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/220902/p19#a220902p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
