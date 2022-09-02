@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google extends third-party in-app billing to India, Australia, Indonesia, Japan, and the European Economic Area; non-gaming developers globally can participate &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/220902/p4#a220902p4)
- - [Binance CEO Changpeng Zhao says Binance is not a Chinese company and rejects suggestions of it being secretly run by a Chinese national, Guangying Chen &lpar;Binance Blog&rpar;](http://www.techmeme.com/220902/p3#a220902p3)
- - [How to cancel Amazon Music Unlimited](https://www.androidauthority.com/how-to-cancel-amazon-music-unlimited-3196925/)<!-- TECH:END -->
+ - [Apple settles copyright suit with Tin Pan Alley music heirs](https://appleinsider.com/articles/22/09/02/apple-settles-copyright-suit-with-tin-pan-alley-music-heirs?utm_medium=rss)
+ - [Google expands Play Store billing altneratives to many countries](https://www.theverge.com/2022/9/2/23334102/google-play-third-party-payment-fee-countries)
+ - [Apple, Meta, AMD, Qualcomm, and other US and EU companies attend the annual World AI Conference in Shanghai, despite the US distancing itself from China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220902/p5#a220902p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
