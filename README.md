@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delhi&#39;s high court orders Telegram to reveal phone numbers, emails, IP addresses, and more details about users who allegedly shared copyrighted study material &lpar;Sofi Ahsan/The Indian Express&rpar;](http://www.techmeme.com/220902/p1#a220902p1)
- - [Best Online Will Makers     - CNET](https://www.cnet.com/personal-finance/the-best-online-will-maker/#ftag=CAD590a51e)
- - [&#39;The Lord of the Rings: The Rings of Power&#39; Premiere Recap: Strange Skies     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-premiere-recap-strange-skies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung attacks iPhone 14 series before launch](https://www.androidauthority.com/samsung-mock-apple-iphone-video-3204208/)
+ - [Global PC shipments are expected to drop 12.8% to 305.3M in 2022 while tablet shipments will fall 6.8% to 156.8M; combined PC/tablet market to fall 2.6% in 2023 &lpar;IDC&rpar;](http://www.techmeme.com/220902/p2#a220902p2)
+ - [Delhi&#39;s high court orders Telegram to reveal phone numbers, emails, IP addresses, and more details about users who allegedly shared copyrighted study material &lpar;Sofi Ahsan/The Indian Express&rpar;](http://www.techmeme.com/220902/p1#a220902p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
