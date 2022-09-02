@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate dev is leaving &#39;Halo with portals&#39; behind to make its next shooter](https://www.pcgamer.com/splitgate-dev-is-leaving-halo-with-portals-behind-to-make-its-next-shooter)
- - [The first episodes of The Rings of Power have a real &#39;unskippable cutscene&#39; vibe](https://www.pcgamer.com/the-first-episodes-of-the-rings-of-power-have-a-real-unskippable-cutscene-vibe)
- - [Steam Bans Scammers After Dev Reveals Potential Shady Game Reselling](https://kotaku.com/steam-ban-scammers-curators-brok-cowcat-scam-1849491621)<!-- GAME:END -->
+ - [Diablo Immortal players are facing massive &#39;orb debt&#39; after Blizzard cracks down on resellers](https://www.pcgamer.com/diablo-immortal-players-are-facing-massive-orb-debt-after-blizzard-cracks-down-on-resellers)
+ - [How Gearbox designed New Tales from the Borderlands as a spiritual successor](https://blog.playstation.com/2022/09/02/how-gearbox-designed-new-tales-from-the-borderlands-as-a-spiritual-successor/)
+ - [New Tales from the Borderlands demo shows off adjustable QTE difficulty that won&#39;t affect your story](https://www.pcgamer.com/new-tales-from-the-borderlands-demo-shows-off-adjustable-qte-difficulty-that-wont-affect-your-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
