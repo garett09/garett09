@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft faces 17 lawsuits across 11 states from drivers and passengers accusing the company of failing to protect its users from sexual and physical assault &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220901/p35#a220901p35)
- - [Hear Images From NASA&#39;s James Webb Telescope Turned Into Haunting Music     - CNET](https://www.cnet.com/science/space/hear-images-from-nasas-james-webb-telescope-turned-into-haunting-music/#ftag=CAD590a51e)
- - [&#39;The Lord of the Rings: The Rings of Power&#39;: Everything You Need to Know Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-everything-you-need-to-know-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Lord of the Rings: The Rings of Power&#39; Premiere Recap: Strange Skies     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-premiere-recap-strange-skies/#ftag=CAD590a51e)
+ - [oVice, which offers collaboration and talent management software for hybrid and remote workplaces, raised a $32M Series B, bringing its total raised to $45M &lpar;FinSMEs&rpar;](http://www.techmeme.com/220901/p38#a220901p38)
+ - [&#39;The Rings of Power&#39; Episode 2 Recap: The Orcs Are Back and Elrond Goes Underground     - CNET](https://www.cnet.com/culture/entertainment/rings-of-power-episode-2-recap-the-orcs-are-back-and-elrond-goes-underground/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
