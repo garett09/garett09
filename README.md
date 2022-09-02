@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom will you please...](http://9gag.com/gag/ay9y9NX)
- - 🚯 [\u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\](http://9gag.com/gag/aRrxrwj)
+ - 🚖 [Where my reparations at?](http://9gag.com/gag/a71j1Gq)
+ - 🚯 [Mom will you please...](http://9gag.com/gag/ay9y9NX)
  - 🚯 [Haha, women](http://9gag.com/gag/aPZOZ6V)<!-- MEMES:END -->
 
 --- 
