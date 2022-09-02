@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You might call him crazy, I&#39;d call him a hero x 2](http://9gag.com/gag/apgeNWn)
- - 🚯 [Someone has the full vid? Now iam curious](http://9gag.com/gag/aWgVjgd)
- - 🚯 [Haha, women](http://9gag.com/gag/aPZOZ6V)<!-- MEMES:END -->
+ - 🚖 [\u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\u200e \u200e\u200e\u200e\u200e\u200e\](http://9gag.com/gag/aRrxrwj)
+ - 🚯 [This AI generated video is flat out terrifying.](http://9gag.com/gag/aWgVjnq)
+ - 🚯 [France, 3 14yo knocked a 89yo lady to steal her purse](http://9gag.com/gag/a71j12x)<!-- MEMES:END -->
 
 --- 
 
