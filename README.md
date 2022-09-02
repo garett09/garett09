@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forget the Rings of Power BS, this is about the Real LOTR](http://9gag.com/gag/a114PWb)
- - 🚯 [A finalist of Miss England finalist has become the first contestant to compete without wearing any makeup in the pageant&#39;s 94 years of history.](http://9gag.com/gag/aegX4rB)
- - 🚯 [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)<!-- MEMES:END -->
+ - 🚖 [The soul](http://9gag.com/gag/aKmbGYg)
+ - 🚯 [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)
+ - 🚯 [MCU going strong](http://9gag.com/gag/aKmbG8Z)<!-- MEMES:END -->
 
 --- 
 
