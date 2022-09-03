@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)
- - 🚯 [And turning down the volume.](http://9gag.com/gag/a1140Y2)
- - 🚯 [Man in Jordan acquired a unique English accent, that he obtained by talking to tourists.](http://9gag.com/gag/amgD6ro)<!-- MEMES:END -->
+ - 🚖 [Gandalf the Rave](http://9gag.com/gag/ajg2Lmx)
+ - 🚯 [Man in Jordan acquired a unique English accent, that he obtained by talking to tourists.](http://9gag.com/gag/amgD6ro)
+ - 🚯 [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)<!-- MEMES:END -->
 
 --- 
 
