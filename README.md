@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Always-on iPhone 14 Pro display will feature most lock screen elements](https://appleinsider.com/articles/22/09/03/always-on-iphone-14-pro-display-will-feature-most-lock-screen-elements?utm_medium=rss)
- - [PlayStation Studios Is Getting Into Mobile Games](https://www.wired.com/story/playstation-studios-mobile-games/)
- - [The Best Wi-Fi Routers](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [The iPhone is the only uncompromising flat flagship and I’m tired of the envy](https://www.androidauthority.com/flat-display-android-phones-3202042/)
+ - [India&#39;s Enforcement Directorate searched the offices of Paytm, Razorpay, and Cashfree on Friday as part of an investigation into fraudulent Chinese loan apps &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220903/p6#a220903p6)
+ - [Always-on iPhone 14 Pro display will feature most lock screen elements](https://appleinsider.com/articles/22/09/03/always-on-iphone-14-pro-display-will-feature-most-lock-screen-elements?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
