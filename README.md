@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Splatoon series can do more with its broadcast format](https://game-rant-2022.blogspot.com/2022/09/the-splatoon-series-can-do-more-with.html)
- - [The best CSGO launch options start in 2022](https://game-rant-2022.blogspot.com/2022/09/the-best-csgo-launch-options-start-in.html)
- - [Midnight School Walk Review |  TheXboxHub](https://game-rant-2022.blogspot.com/2022/09/midnight-school-walk-review-thexboxhub.html)<!-- GAME:END -->
+ - [Shockingly, Batman Forever made a bad videogame](https://www.pcgamer.com/saturday-crapshoot-batman-forever)
+ - [Do some imperial space politics, don&#39;t get deposed in Alliance of the Sacred Suns](https://www.pcgamer.com/do-some-imperial-space-politics-dont-get-deposed-in-alliance-of-the-sacred-suns)
+ - [The Splatoon series can do more with its broadcast format](https://game-rant-2022.blogspot.com/2022/09/the-splatoon-series-can-do-more-with.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
