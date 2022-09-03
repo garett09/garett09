@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take me Back To The Simple Things.](http://9gag.com/gag/aWgV79n)
- - 🚯 [Picked up today 13 kg of garbage. Total is 1488 kg. Some people hate me for daily updates, some people love. I love you all no matter you love me or hate. Hope we clean nature. Your cleaning Guy.](http://9gag.com/gag/a31oG1r)
- - 🚯 [Same here](http://9gag.com/gag/aegX1OQ)<!-- MEMES:END -->
+ - 🚖 [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
+ - 🚯 [Same here](http://9gag.com/gag/aegX1OQ)
+ - 🚯 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)<!-- MEMES:END -->
 
 --- 
 
