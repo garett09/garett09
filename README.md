@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ninja cat](http://9gag.com/gag/a31oAx3)
- - 🚯 [Saving it for later I guess](http://9gag.com/gag/ay9y4Bb)
+ - 🚖 [This is an elf](http://9gag.com/gag/aWgV7z3)
+ - 🚯 [Probably the best meme I&#39;ve seen this far regarding the Rings of Power.](http://9gag.com/gag/axBpvEn)
  - 🚯 [Miss England Finalist Makes History By Competing Without Makeup](http://9gag.com/gag/a41MPQm)<!-- MEMES:END -->
 
 --- 
