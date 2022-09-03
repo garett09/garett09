@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
- - 🚯 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)
- - 🚯 [Same here](http://9gag.com/gag/aegX1OQ)<!-- MEMES:END -->
+ - 🚖 [Someone give her a medal...](http://9gag.com/gag/a1147zY)
+ - 🚯 [Great actor](http://9gag.com/gag/aBnD6L2)
+ - 🚯 [Ninja cat](http://9gag.com/gag/a31oAx3)<!-- MEMES:END -->
 
 --- 
 
