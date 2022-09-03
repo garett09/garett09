@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL unveils Tour Pro 2 wireless earbuds, with customizable ANC and a charging case with a 1.45&quot; touchscreen, available for &amp;euro;249 outside the US in January 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/220903/p8#a220903p8)
- - [Twitter’s edit button is a big test for the platform’s future](https://www.theverge.com/2022/9/3/23335692/twitter-edit-button-platform-bluesky)
- - [The 35 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)<!-- TECH:END -->
+ - [JBL unveils the Tour Pro 2 wireless earbuds: customizable ANC and a charging case with a 1.45&quot; touchscreen, available for &amp;euro;249 outside the US in January 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/220903/p8#a220903p8)
+ - [Best Cheap Car Insurance Companies for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
