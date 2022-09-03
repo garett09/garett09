@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros.  Discovery Stock is a buy, but not for the reason you think](https://game-rant-2022.blogspot.com/2022/09/warner-bros-discovery-stock-is-buy-but.html)
- - [5 Underrated Japanese Science Fiction Movies](https://game-rant-2022.blogspot.com/2022/09/5-underrated-japanese-science-fiction.html)
- - [Asus Zenbook 17 Fold OLED hands-on review: not &lpar;yet&rpar; the future](https://game-rant-2022.blogspot.com/2022/09/asus-zenbook-17-fold-oled-hands-on.html)<!-- GAME:END -->
+ - [Guide to Game Day: UNC – The Appalachian](https://game-rant-2022.blogspot.com/2022/09/guide-to-game-day-unc-appalachian.html)
+ - [10 best 2D Mario games, ranked by Metacritic](https://game-rant-2022.blogspot.com/2022/09/10-best-2d-mario-games-ranked-by.html)
+ - [Best underrated zombie games on Steam](https://game-rant-2022.blogspot.com/2022/09/best-underrated-zombie-games-on-steam.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
