@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gandalf the Rave](http://9gag.com/gag/ajg2Lmx)
- - 🚯 [Man in Jordan acquired a unique English accent, that he obtained by talking to tourists.](http://9gag.com/gag/amgD6ro)
- - 🚯 [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)<!-- MEMES:END -->
+ - 🚖 [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
+ - 🚯 [What else they expected equality to be?](http://9gag.com/gag/aze6GgB)
+ - 🚯 [Time to go to work, so I can afford to go to work](http://9gag.com/gag/aE8eAox)<!-- MEMES:END -->
 
 --- 
 
