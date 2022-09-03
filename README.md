@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s been a while, still hurts..](http://9gag.com/gag/abgj47O)
- - 🚯 [We love you Japan, never change.](http://9gag.com/gag/avAb6vd)
- - 🚯 [Protecting little kiddos.](http://9gag.com/gag/aze6Gjq)<!-- MEMES:END -->
+ - 🚖 [Protecting little kiddos.](http://9gag.com/gag/aze6Gjq)
+ - 🚯 [Just started watching the show Lucifer, it has quite funny moments](http://9gag.com/gag/aqGvQzZ)
+ - 🚯 [Noodz](http://9gag.com/gag/avAbEAX)<!-- MEMES:END -->
 
 --- 
 
