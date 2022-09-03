@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
- - 🚯 [Same here](http://9gag.com/gag/aegX1OQ)
- - 🚯 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)<!-- MEMES:END -->
+ - 🚯 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)
+ - 🚯 [Same here](http://9gag.com/gag/aegX1OQ)<!-- MEMES:END -->
 
 --- 
 
