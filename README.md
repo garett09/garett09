@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Verizon subscribers may get Apple One at iPhone 14 launch](https://appleinsider.com/articles/22/09/03/verizon-to-offer-apple-one-as-a-free-perk-at-iphone-14-launch?utm_medium=rss)
- - [Pinduoduo launched US shopping site Temu on September 1, the Chinese e-commerce giant&#39;s first major push overseas, following online fast fashion retailer Shein &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220902/p23#a220902p23)
- - [Apple&#39;s iPhone 14 Pro Max Needs More to Stand Out in 2022     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-pro-max-needs-more-to-stand-out-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yandex confirms hackers created a traffic jam in Moscow on September 1 by ordering dozens of taxis from Yandex Taxi to converge on the same location &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220902/p25#a220902p25)
+ - [Compare Jumbo Mortgage Rates for September 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/compare-jumbo-mortgage-rates/#ftag=CAD590a51e)
+ - [Tuft &amp; Needle Mint Mattress Review: Affordable, Soft Foam Bed     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-mint-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
