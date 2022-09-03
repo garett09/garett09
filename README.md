@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dayyyyyyymmmmmnnnnnnn!](http://9gag.com/gag/aKmb9P3)
- - 🚯 [Comparison to Thranduil. Why does new elf look like he can be smeagol](http://9gag.com/gag/a0ZmX8X)
- - 🚯 [Ninja cat](http://9gag.com/gag/a31oAx3)<!-- MEMES:END -->
+ - 🚖 [Ninja cat](http://9gag.com/gag/a31oAx3)
+ - 🚯 [Saving it for later I guess](http://9gag.com/gag/ay9y4Bb)
+ - 🚯 [Miss England Finalist Makes History By Competing Without Makeup](http://9gag.com/gag/a41MPQm)<!-- MEMES:END -->
 
 --- 
 
