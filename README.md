@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A source details the behavior of iPhone 14 Pro&#39;s always-on display, including Widgets fading in and out to prevent OLED burn-in and customizable visual elements &lpar;MacRumors&rpar;](http://www.techmeme.com/220903/p10#a220903p10)
- - [A profile of Kiwi Farms, a forum owned and operated by former 8chan admin Josh Moon, that has become synonymous with doxxing, swatting, and harassment campaigns &lpar;NBC News&rpar;](http://www.techmeme.com/220903/p9#a220903p9)
- - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA Orders a Second Delay for the Artemis Moon-bound Rocket](https://www.wired.com/story/nasas-giant-moon-bound-rocket-is-grounded-for-repairs/)
+ - [Moscow traffic chaos caused by ride-hailing app hack](https://appleinsider.com/articles/22/09/03/moscow-traffic-chaos-caused-by-ride-hailing-app-hack?utm_medium=rss)
+ - [Allstate Car Insurance Review for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/allstate-auto-insurance-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
