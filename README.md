@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power does something new with orcs by going full Alien](https://www.polygon.com/23329806/rings-power-orcs-lord-rings-episode-release)
- - [Goat Simulator 3: Still a silly game about being a really annoying goat](https://www.polygon.com/23333263/goat-simulator-3-preview-release-date-gamescom)
- - [John Williams, forever a legend, just went ahead and debuted new Indiana Jones 5 music way early](https://www.polygon.com/23335548/indiana-jones-5-music-john-williams-helenas-theme)<!-- GAME:END -->
+ - [Best Tech Deals for Labor Day 2022: Apple Devices, TVs, Laptops, and More](https://game-rant-2022.blogspot.com/2022/09/best-tech-deals-for-labor-day-2022.html)
+ - [Everything video game fans can expect from Tokyo Game Show 2022](https://game-rant-2022.blogspot.com/2022/09/everything-video-game-fans-can-expect.html)
+ - [September 20 will be a big day for PS Plus](https://game-rant-2022.blogspot.com/2022/09/september-20-will-be-big-day-for-ps-plus.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
