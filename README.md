@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone give her a medal...](http://9gag.com/gag/a1147zY)
- - 🚯 [Great actor](http://9gag.com/gag/aBnD6L2)
+ - 🚖 [Dayyyyyyymmmmmnnnnnnn!](http://9gag.com/gag/aKmb9P3)
+ - 🚯 [Comparison to Thranduil. Why does new elf look like he can be smeagol](http://9gag.com/gag/a0ZmX8X)
  - 🚯 [Ninja cat](http://9gag.com/gag/a31oAx3)<!-- MEMES:END -->
 
 --- 
