@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL unveils the Tour Pro 2 wireless earbuds: customizable ANC and a charging case with a 1.45&quot; touchscreen, available for &amp;euro;249 outside the US in January 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/220903/p8#a220903p8)
- - [Best Cheap Car Insurance Companies for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Updated Omicron Boosters Are Here: What to Know About COVID Vaccines This Fall     - CNET](https://www.cnet.com/health/medical/updated-omicron-boosters-are-here-what-to-know-about-covid-vaccines-this-fall/#ftag=CAD590a51e)
+ - [Hackers caused a massive traffic jam in Moscow using a ride-hailing app](https://www.theverge.com/2022/9/3/23335694/hackers-traffic-jam-russia-moscow-ride-hailing-app-yandex-taxi)
+ - [&#39;Nope&#39; Won&#39;t Be Streaming For Weeks &lpar;and It&#39;s $3 in Theaters Today Only&rpar;     - CNET](https://www.cnet.com/tech/home-entertainment/nope-wont-be-streaming-for-weeks-and-its-3-in-theaters-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
