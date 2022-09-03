@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice neighbours you got there](http://9gag.com/gag/aWgVoAx)
- - 🚯 [Whenever you feel dumb](http://9gag.com/gag/ay9yWyp)
- - 🚯 [Every time I check the news](http://9gag.com/gag/aOQ6PD3)<!-- MEMES:END -->
+ - 🚖 [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
+ - 🚯 [Shall I continue to do so?](http://9gag.com/gag/aPZOexB)
+ - 🚯 [Start to finish, pretty cool!](http://9gag.com/gag/ajg2ZVR)<!-- MEMES:END -->
 
 --- 
 
