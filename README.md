@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is an elf](http://9gag.com/gag/aWgV7z3)
- - 🚯 [Probably the best meme I&#39;ve seen this far regarding the Rings of Power.](http://9gag.com/gag/axBpvEn)
- - 🚯 [Miss England Finalist Makes History By Competing Without Makeup](http://9gag.com/gag/a41MPQm)<!-- MEMES:END -->
+ - 🚖 [The purest thing I&#39;ve seen all day](http://9gag.com/gag/aBnDLbA)
+ - 🚯 [That equipment is more expensive than any car there](http://9gag.com/gag/apgeDAD)
+ - 🚯 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)<!-- MEMES:END -->
 
 --- 
 
