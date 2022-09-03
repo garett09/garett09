@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
- - 🚯 [Shall I continue to do so?](http://9gag.com/gag/aPZOexB)
- - 🚯 [Start to finish, pretty cool!](http://9gag.com/gag/ajg2ZVR)<!-- MEMES:END -->
+ - 🚖 [Shall I continue to do so?](http://9gag.com/gag/aPZOexB)
+ - 🚯 [These are not conversations but interviews](http://9gag.com/gag/a81reVY)
+ - 🚯 [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)<!-- MEMES:END -->
 
 --- 
 
