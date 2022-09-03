@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stupid driver](http://9gag.com/gag/aXr87bd)
- - 🚯 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)
- - 🚯 [What else they expected equality to be?](http://9gag.com/gag/aze6GgB)<!-- MEMES:END -->
+ - 🚖 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)
+ - 🚯 [The Termite Queen](http://9gag.com/gag/angAx5z)
+ - 🚯 [Dying with the bois](http://9gag.com/gag/aE8eWLG)<!-- MEMES:END -->
 
 --- 
 
