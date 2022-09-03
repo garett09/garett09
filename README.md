@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Protecting little kiddos.](http://9gag.com/gag/aze6Gjq)
- - 🚯 [Just started watching the show Lucifer, it has quite funny moments](http://9gag.com/gag/aqGvQzZ)
- - 🚯 [Noodz](http://9gag.com/gag/avAbEAX)<!-- MEMES:END -->
+ - 🚖 [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)
+ - 🚯 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)
+ - 🚯 [Stupid driver](http://9gag.com/gag/aXr87bd)<!-- MEMES:END -->
 
 --- 
 
