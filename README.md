@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)
+ - 🚖 [Stupid driver](http://9gag.com/gag/aXr87bd)
  - 🚯 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)
- - 🚯 [Stupid driver](http://9gag.com/gag/aXr87bd)<!-- MEMES:END -->
+ - 🚯 [What else they expected equality to be?](http://9gag.com/gag/aze6GgB)<!-- MEMES:END -->
 
 --- 
 
