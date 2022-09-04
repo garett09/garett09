@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a chunky new Homeworld 3 gameplay trailer about an ambush](https://www.pcgamer.com/heres-a-chunky-new-homeworld-3-gameplay-trailer-about-an-ambush)
- - [Red Dead Online: A fond farewell to Rockstar&#39;s multiplayer Western](https://game-rant-2022.blogspot.com/2022/09/red-dead-online-fond-farewell-to.html)
- - [Interview with Teenage Mutant Ninja Turtles: The Cowabunga Collection](https://game-rant-2022.blogspot.com/2022/09/interview-with-teenage-mutant-ninja.html)<!-- GAME:END -->
+ - [Labor Day TV Sale 2022: The Best Deals You Can Buy Today](https://game-rant-2022.blogspot.com/2022/09/labor-day-tv-sale-2022-best-deals-you.html)
+ - [Can the last-gen consoles handle Saints Row?](https://game-rant-2022.blogspot.com/2022/09/can-last-gen-consoles-handle-saints-row.html)
+ - [Forspoken&#39;s open world sounds lonely](https://game-rant-2022.blogspot.com/2022/09/forspokens-open-world-sounds-lonely.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
