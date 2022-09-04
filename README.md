@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Rumors: All of the New Phone Details We Expect at Apple&#39;s Event     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors-all-of-the-new-phone-details-we-expect-at-apples-event/#ftag=CAD590a51e)
- - [What to expect from Apple&#39;s Far Out event: iPhone 14 lineup, including Pro models with a revamped notch, new AirPods Pro, a rugged Apple Watch Pro, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220904/p5#a220904p5)
- - [Prime Video: The 28 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-28-absolute-best-movies-you-can-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare blocks Kiwi Farms due to an ‘immediate threat to human life’](https://www.theverge.com/2022/9/4/23336772/cloudflare-blocks-kiwifarms-immediate-threat-human-life)
+ - [Pop quiz: How well do you know your dead Google apps?](https://www.androidauthority.com/dead-google-app-quiz-3202905/)
+ - [Dear Streaming Services, Not Every TV Show Deserves to Be a TV Show     - CNET](https://www.cnet.com/culture/entertainment/dear-streaming-services-not-every-tv-show-deserves-a-whole-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
