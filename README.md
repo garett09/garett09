@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taylor Hawkins&#39; son playing My Hero](http://9gag.com/gag/aogB8e0)
- - 🚯 [Appreciate that](http://9gag.com/gag/aZr9zE6)
- - 🚯 [Death Dorito](http://9gag.com/gag/angADWL)<!-- MEMES:END -->
+ - 🚖 [Probably unpopular opinion](http://9gag.com/gag/aBnDO5Q)
+ - 🚯 [Death Dorito](http://9gag.com/gag/angADWL)
+ - 🚯 [She is Too Calm](http://9gag.com/gag/amgDVDy)<!-- MEMES:END -->
 
 --- 
 
