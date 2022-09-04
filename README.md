@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Probably unpopular opinion](http://9gag.com/gag/aBnDO5Q)
- - 🚯 [Death Dorito](http://9gag.com/gag/angADWL)
- - 🚯 [She is Too Calm](http://9gag.com/gag/amgDVDy)<!-- MEMES:END -->
+ - 🚖 [She is Too Calm](http://9gag.com/gag/amgDVDy)
+ - 🚯 [Some things never change](http://9gag.com/gag/adg3oZB)
+ - 🚯 [TRUST ISSUES?](http://9gag.com/gag/aKmbYRb)<!-- MEMES:END -->
 
 --- 
 
