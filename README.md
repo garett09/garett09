@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was probably the last decent series of a Marvel character that sadly got cancelled and did not got enough spotlight despite the amazing work and story potential...](http://9gag.com/gag/aGzP7PX)
- - 🚯 [No guys, there is no mafia-run state in the EU. Bulgaria is innocent..](http://9gag.com/gag/aogBnDn)
- - 🚯 [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)<!-- MEMES:END -->
+ - 🚖 [What if you&#39;re wrong..](http://9gag.com/gag/aRrxRBy)
+ - 🚯 [Some things will never change](http://9gag.com/gag/angAVXn)
+ - 🚯 [20 years and Im still learning new things about this movies. That is what attention to details gets you. Fans lasting for decades](http://9gag.com/gag/aze64WK)<!-- MEMES:END -->
 
 --- 
 
