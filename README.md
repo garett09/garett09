@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you were a videogame, what kind of game would you be and why?](https://www.pcgamer.com/if-you-were-a-videogame-what-kind-of-game-would-you-be-and-why)
- - [Aborting the AL Central race](https://game-rant-2022.blogspot.com/2022/09/aborting-al-central-race.html)
- - [How many video games are in development?](https://game-rant-2022.blogspot.com/2022/09/how-many-video-games-are-in-development.html)<!-- GAME:END -->
+ - [Forgotten PS2 Party Games](https://game-rant-2022.blogspot.com/2022/09/forgotten-ps2-party-games.html)
+ - [Pentiment is an intriguing medieval manuscript adventure](https://game-rant-2022.blogspot.com/2022/09/pentiment-is-intriguing-medieval.html)
+ - [7 video game characters you should avoid at all costs](https://game-rant-2022.blogspot.com/2022/09/7-video-game-characters-you-should.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
