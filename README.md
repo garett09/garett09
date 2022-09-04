@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What if you&#39;re wrong..](http://9gag.com/gag/aRrxRBy)
- - 🚯 [Some things will never change](http://9gag.com/gag/angAVXn)
- - 🚯 [20 years and Im still learning new things about this movies. That is what attention to details gets you. Fans lasting for decades](http://9gag.com/gag/aze64WK)<!-- MEMES:END -->
+ - 🚖 [Funny coz](http://9gag.com/gag/avAbD5O)
+ - 🚯 [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)
+ - 🚯 [Introverts at parties](http://9gag.com/gag/aDDBP4w)<!-- MEMES:END -->
 
 --- 
 
