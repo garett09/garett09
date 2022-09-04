@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Rumors: All of the New Phone Details We Expect at Apple&#39;s Event     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors-all-of-the-new-phone-details-we-expect-at-apples-event/#ftag=CAD590a51e)
  - [What to expect from Apple&#39;s Far Out event: iPhone 14 lineup, including Pro models with a revamped notch, new AirPods Pro, a rugged Apple Watch Pro, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220904/p5#a220904p5)
- - [Save $40 on a Pair of Amazon&#39;s Flagship Noise-Canceling Echo Earbuds     - CNET](https://www.cnet.com/deals/amazons-echo-buds-are-down-to-just-50-a-new-all-time-low/#ftag=CAD590a51e)
- - [Listening to B&amp;O’s $8,000 soundbar made me think about Mother Earth](https://www.androidauthority.com/bang-olufsen-beosound-theatre-impressions-3204998/)<!-- TECH:END -->
+ - [Prime Video: The 28 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-28-absolute-best-movies-you-can-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
