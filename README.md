@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says The Rings of Power&#39;s first two episodes drew 25M viewers globally in its first day, revealing viewership for a Prime Video series for the first time &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/220903/p15#a220903p15)
- - [China says automakers now require licenses for &quot;smart cars&quot; collecting mapping data, which could further complicate the local operations of companies like Tesla &lpar;Reuters&rpar;](http://www.techmeme.com/220903/p14#a220903p14)
- - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;Succession,&#39; But With Dragons     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-succession-but-with-dragons/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amid mass layoffs, Snap says Web3 is not a priority since it doesn&#39;t directly contribute to the company&#39;s AR efforts, in sharp contrast to moves by rival Meta &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220904/p1#a220904p1)
+ - [Best Soundbars to Fix Muffled TV Speech     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-to-enhance-tv-dialogue/#ftag=CAD590a51e)
+ - [Giant Ice Planets Throughout the Galaxy May Be Raining Diamonds     - CNET](https://www.cnet.com/science/giant-ice-planets-throughout-the-galaxy-may-be-raining-diamonds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
