@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare blocks Kiwi Farms due to an ‘immediate threat to human life’](https://www.theverge.com/2022/9/4/23336772/cloudflare-blocks-kiwifarms-immediate-threat-human-life)
- - [Pop quiz: How well do you know your dead Google apps?](https://www.androidauthority.com/dead-google-app-quiz-3202905/)
- - [Dear Streaming Services, Not Every TV Show Deserves to Be a TV Show     - CNET](https://www.cnet.com/culture/entertainment/dear-streaming-services-not-every-tv-show-deserves-a-whole-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Pro could have a $900 price tag at launch](https://appleinsider.com/articles/22/09/04/apple-watch-pro-could-have-a-900-price-tag-at-launch?utm_medium=rss)
+ - [How Does &#39;Rings of Power&#39; Differ From Tolkien&#39;s Works? A Full Breakdown By Episode     - CNET](https://www.cnet.com/culture/entertainment/how-does-rings-of-power-differ-from-tolkiens-works-a-full-breakdown-by-episode/#ftag=CAD590a51e)
+ - [Cloudflare blocks Kiwi Farms due to an ‘immediate threat to human life’](https://www.theverge.com/2022/9/4/23336772/cloudflare-blocks-kiwifarms-immediate-threat-human-life)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
