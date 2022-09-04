@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)
- - 🚯 [Vibing~](http://9gag.com/gag/aBnDX9P)
- - 🚯 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)<!-- MEMES:END -->
+ - 🚖 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
+ - 🚯 [Every time I check the news](http://9gag.com/gag/aOQ6PD3)
+ - 🚯 [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)<!-- MEMES:END -->
 
 --- 
 
