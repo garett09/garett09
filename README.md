@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft News Roundup: Surface Pro and X Lines Merge, Surface Duo 2 Out of Stock, AMD Ryzen 7000, Two Foldable PCs, and More](https://game-rant-2022.blogspot.com/2022/09/microsoft-news-roundup-surface-pro-and.html)
- - [Why a Wolverine Cameo Makes So Much Sense?](https://game-rant-2022.blogspot.com/2022/09/why-wolverine-cameo-makes-so-much-sense.html)
- - [Wizards of the Coast apologizes for and removes racist elements of Spelljammer](https://www.pcgamer.com/wizards-of-the-coast-apologizes-for-and-removes-racist-elements-of-spelljammer)<!-- GAME:END -->
+ - [Today&#39;s Wordle 442 answer and hint: Sunday, September 4](https://www.pcgamer.com/todays-wordle-442-answer-hint)
+ - [TechNigeria: A Weekly Recap of What Happened in Nigeria&#39;s Tech Space](https://game-rant-2022.blogspot.com/2022/09/technigeria-weekly-recap-of-what.html)
+ - [Halo Infinite Leaving split-screen co-op will hurt the game and the fans](https://game-rant-2022.blogspot.com/2022/09/halo-infinite-leaving-split-screen-co.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
