@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged Google Pixel 7 Pro appears in unboxing video ahead of launch](https://www.theverge.com/2022/9/3/23336007/google-pixel-7-pro-unboxing-video-launch-leak-rumors)
- - [Cloudflare says it has blocked Kiwi Farms, citing &quot;an unprecedented emergency and immediate threat to human life&quot; after a recent rise in targeted threats &lpar;Washington Post&rpar;](http://www.techmeme.com/220903/p11#a220903p11)
- - [Travelers Car Insurance Review for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/travelers-car-insurance-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US officials say sanctioned countries are increasingly manipulating the GPS-based automatic identification systems, or AIS, of ships to evade international law &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/220903/p13#a220903p13)
+ - [Amazon quietly introduces a 72-hour delay for all user reviews posted to Prime Video to determine whether the review is genuine or created by a bot or a troll &lpar;Variety&rpar;](http://www.techmeme.com/220903/p12#a220903p12)
+ - [Alleged Google Pixel 7 Pro appears in unboxing video ahead of launch](https://www.theverge.com/2022/9/3/23336007/google-pixel-7-pro-unboxing-video-launch-leak-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
