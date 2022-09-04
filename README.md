@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
- - 🚯 [Every time I check the news](http://9gag.com/gag/aOQ6PD3)
- - 🚯 [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)<!-- MEMES:END -->
+ - 🚯 [Nailed that one](http://9gag.com/gag/a21Qbee)
+ - 🚯 [Wish i knew this answer back in my school time..im an idiot](http://9gag.com/gag/aogB8Dm)<!-- MEMES:END -->
 
 --- 
 
