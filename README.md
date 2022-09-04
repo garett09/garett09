@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
- - 🚯 [Nailed that one](http://9gag.com/gag/a21Qbee)
- - 🚯 [Wish i knew this answer back in my school time..im an idiot](http://9gag.com/gag/aogB8Dm)<!-- MEMES:END -->
+ - 🚖 [This is all we need to know](http://9gag.com/gag/aOQ61Y2)
+ - 🚯 [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)
+ - 🚯 [Taylor Hawkins&#39; son playing My Hero](http://9gag.com/gag/aogB8e0)<!-- MEMES:END -->
 
 --- 
 
