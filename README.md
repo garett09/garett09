@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [By the power of god](http://9gag.com/gag/aVxGREK)
- - 🚯 [No guys, there is no mafia-run state in the EU. Bulgaria is innocent..](http://9gag.com/gag/aogBnDn)
- - 🚯 [Satisfying](http://9gag.com/gag/avAb9Wn)<!-- MEMES:END -->
+ - 🚖 [Dinosaur \ud83e\udd95](http://9gag.com/gag/awzqYdy)
+ - 🚯 [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)
+ - 🚯 [Huh, what ?](http://9gag.com/gag/aze6YDK)<!-- MEMES:END -->
 
 --- 
 
