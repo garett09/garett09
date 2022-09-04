@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Bouncer&#39;s Take on the Best Street Brawler Games](https://www.wired.com/story/a-bouncer-reviews-street-brawler-games/)
  - [IFA has convinced me: Foldable laptops make more sense than foldable phones](https://www.androidauthority.com/foldable-laptops-vs-foldable-phones-3204822/)
- - [An investor group led by Swiss Life and others agree to pay $1.5B for a 35% stake in DataBank, which owns 65+ data centers and 20 interconnection hubs in the US &lpar;David Seeley/Dallas Innovates&rpar;](http://www.techmeme.com/220904/p3#a220904p3)
- - [Best of IFA 2022 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2022-awards-3204861/)<!-- TECH:END -->
+ - [Apple&#39;s September Event Invite May Provide Clues About the iPhone 14     - CNET](https://www.cnet.com/tech/mobile/apple-september-event-invite-may-provide-clues-about-the-iphone-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
