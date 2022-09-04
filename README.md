@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Funny coz](http://9gag.com/gag/avAbD5O)
- - 🚯 [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)
- - 🚯 [Introverts at parties](http://9gag.com/gag/aDDBP4w)<!-- MEMES:END -->
+ - 🚯 [Introverts at parties](http://9gag.com/gag/aDDBP4w)
+ - 🚯 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)<!-- MEMES:END -->
 
 --- 
 
