@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Labor Day TV Sale 2022: The Best Deals You Can Buy Today](https://game-rant-2022.blogspot.com/2022/09/labor-day-tv-sale-2022-best-deals-you.html)
- - [Can the last-gen consoles handle Saints Row?](https://game-rant-2022.blogspot.com/2022/09/can-last-gen-consoles-handle-saints-row.html)
- - [Forspoken&#39;s open world sounds lonely](https://game-rant-2022.blogspot.com/2022/09/forspokens-open-world-sounds-lonely.html)<!-- GAME:END -->
+ - [10 best games if you like MultiVersus](https://game-rant-2022.blogspot.com/2022/09/10-best-games-if-you-like-multiversus.html)
+ - [[SPOILERS] Deaths were their only possible end](https://game-rant-2022.blogspot.com/2022/09/spoilers-deaths-were-their-only.html)
+ - [7 Games To Play If You Like The Last Of Us Part 1](https://game-rant-2022.blogspot.com/2022/09/7-games-to-play-if-you-like-last-of-us.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
