@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`do it for her`](http://9gag.com/gag/ajg2R4p)
- - 🚯 [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)
- - 🚯 [He forgot to drink his espresso after lunch... Thats why he forgot the tire](http://9gag.com/gag/avAbm2n)<!-- MEMES:END -->
+ - 🚖 [This was probably the last decent series of a Marvel character that sadly got cancelled and did not got enough spotlight despite the amazing work and story potential...](http://9gag.com/gag/aGzP7PX)
+ - 🚯 [No guys, there is no mafia-run state in the EU. Bulgaria is innocent..](http://9gag.com/gag/aogBnDn)
+ - 🚯 [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)<!-- MEMES:END -->
 
 --- 
 
