@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NC A&amp;T Takeaways from the Duke&#39;s Mayo Classic](https://game-rant-2022.blogspot.com/2022/09/nc-takeaways-from-dukes-mayo-classic.html)
- - [10 best games that will make Xbox One a worthy console in 2022](https://game-rant-2022.blogspot.com/2022/09/10-best-games-that-will-make-xbox-one.html)
- - [Total War: Warhammer 3 - How to Play Valkia The Bloody](https://game-rant-2022.blogspot.com/2022/09/total-war-warhammer-3-how-to-play.html)<!-- GAME:END -->
+ - [Top 10 Tips and Tricks](https://game-rant-2022.blogspot.com/2022/09/top-10-tips-and-tricks.html)
+ - [The Top 10 Android Party Games](https://game-rant-2022.blogspot.com/2022/09/the-top-10-android-party-games.html)
+ - [Terrariums: the best mountains, ranked](https://game-rant-2022.blogspot.com/2022/09/terrariums-best-mountains-ranked.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
