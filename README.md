@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny coz](http://9gag.com/gag/avAbD5O)
- - 🚯 [Introverts at parties](http://9gag.com/gag/aDDBP4w)
- - 🚯 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)<!-- MEMES:END -->
+ - 🚖 [Makes you think.](http://9gag.com/gag/aVxG1j2)
+ - 🚯 [Funny coz](http://9gag.com/gag/avAbD5O)
+ - 🚯 [Polish for beginners.](http://9gag.com/gag/aQXYrmr)<!-- MEMES:END -->
 
 --- 
 
