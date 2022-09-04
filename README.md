@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What&#39;s new in FIFA 23?  |  Every new FIFA 23 gameplay feature](https://game-rant-2022.blogspot.com/2022/09/whats-new-in-fifa-23-every-new-fifa-23.html)
  - [Today&#39;s Wordle 442 answer and hint: Sunday, September 4](https://www.pcgamer.com/todays-wordle-442-answer-hint)
- - [TechNigeria: A Weekly Recap of What Happened in Nigeria&#39;s Tech Space](https://game-rant-2022.blogspot.com/2022/09/technigeria-weekly-recap-of-what.html)
- - [Halo Infinite Leaving split-screen co-op will hurt the game and the fans](https://game-rant-2022.blogspot.com/2022/09/halo-infinite-leaving-split-screen-co.html)<!-- GAME:END -->
+ - [TechNigeria: A Weekly Recap of What Happened in Nigeria&#39;s Tech Space](https://game-rant-2022.blogspot.com/2022/09/technigeria-weekly-recap-of-what.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
