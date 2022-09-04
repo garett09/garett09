@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
  - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)
- - [In August 2022, Beijing&#39;s municipal government unveiled plans to regulate the &quot;Digital Human Industry&quot;, which covers digital assistants and virtual influencers &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/220904/p6#a220904p6)
- - [Best USB-C Hub in 2022     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In August 2022, Beijing&#39;s municipal government unveiled plans to regulate the &quot;Digital Human Industry&quot;, which covers digital assistants and virtual influencers &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/220904/p6#a220904p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
