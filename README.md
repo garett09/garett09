@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New AirPods Pro coming at iPhone 14 Apple Event](https://appleinsider.com/articles/22/09/04/new-airpods-pro-coming-at-iphone-14-apple-event?utm_medium=rss)
- - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches/)
- - [What to expect from the &#39;iPhone Fold&#39;](https://appleinsider.com/articles/22/01/03/apples-folding-iphone---what-to-expect-from-the-iphone-fold?utm_medium=rss)<!-- TECH:END -->
+ - [Apple reportedly working on at least three AR, VR headsets](https://appleinsider.com/articles/22/09/04/apple-reportedly-working-on-at-least-three-ar-vr-headsets?utm_medium=rss)
+ - [New Apple Watch SE rumored to appear at Apple Event](https://appleinsider.com/articles/22/09/04/new-apple-watch-se-rumored-to-appear-at-apple-event?utm_medium=rss)
+ - [Nokia’s Circular eco-subscription wrestles with the smartphone waste problem](https://www.androidauthority.com/nokia-circular-eco-subscription-service-3202847/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
