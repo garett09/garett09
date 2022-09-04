@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)
- - 🚯 [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
- - 🚯 [Taylor Hawkins&#39; son playing My Hero](http://9gag.com/gag/aogB8e0)<!-- MEMES:END -->
+ - 🚖 [Start to finish, pretty cool!](http://9gag.com/gag/ajg2ZVR)
+ - 🚯 [Leo..](http://9gag.com/gag/a61WpOq)
+ - 🚯 [Vibing~](http://9gag.com/gag/aBnDX9P)<!-- MEMES:END -->
 
 --- 
 
