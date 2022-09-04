@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Bouncer&#39;s Take on the Best Street Brawler Games](https://www.wired.com/story/a-bouncer-reviews-street-brawler-games/)
- - [IFA has convinced me: Foldable laptops make more sense than foldable phones](https://www.androidauthority.com/foldable-laptops-vs-foldable-phones-3204822/)
- - [Apple&#39;s September Event Invite May Provide Clues About the iPhone 14     - CNET](https://www.cnet.com/tech/mobile/apple-september-event-invite-may-provide-clues-about-the-iphone-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This company electrifying ‘80s-era motorcycles is my personal IFA highlight](https://www.androidauthority.com/second-ride-ifa-2022-3204976/)
+ - [Skarper’s Clip-On Motor Turns a Regular Bike Into an Ebike](https://www.wired.com/story/skarper-ebike-first-ride-impressions/)
+ - [Electric Fish Genomes Reveal How Evolution Repeats Itself](https://www.wired.com/story/electric-fish-genomes-reveal-how-evolution-repeats-itself/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
