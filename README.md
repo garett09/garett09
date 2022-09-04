@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly working on at least three AR, VR headsets](https://appleinsider.com/articles/22/09/04/apple-reportedly-working-on-at-least-three-ar-vr-headsets?utm_medium=rss)
- - [New Apple Watch SE rumored to appear at Apple Event](https://appleinsider.com/articles/22/09/04/new-apple-watch-se-rumored-to-appear-at-apple-event?utm_medium=rss)
- - [Nokia’s Circular eco-subscription wrestles with the smartphone waste problem](https://www.androidauthority.com/nokia-circular-eco-subscription-service-3202847/)<!-- TECH:END -->
+ - [Listening to B&amp;O’s $8,000 soundbar made me think about Mother Earth](https://www.androidauthority.com/bang-olufsen-beosound-theatre-impressions-3204998/)
+ - [Amazon’s putting a three-day pause on reviews for The Rings of Power](https://www.theverge.com/2022/9/4/23336624/amazon-prime-video-three-day-pause-rings-of-power-review-bombing)
+ - [Apple Watch Pro could have a $900 price tag at launch](https://appleinsider.com/articles/22/09/04/apple-watch-pro-could-have-a-900-price-tag-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
