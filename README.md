@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This company electrifying ‘80s-era motorcycles is my personal IFA highlight](https://www.androidauthority.com/second-ride-ifa-2022-3204976/)
- - [Skarper’s Clip-On Motor Turns a Regular Bike Into an Ebike](https://www.wired.com/story/skarper-ebike-first-ride-impressions/)
- - [Electric Fish Genomes Reveal How Evolution Repeats Itself](https://www.wired.com/story/electric-fish-genomes-reveal-how-evolution-repeats-itself/)<!-- TECH:END -->
+ - [New AirPods Pro coming at iPhone 14 Apple Event](https://appleinsider.com/articles/22/09/04/new-airpods-pro-coming-at-iphone-14-apple-event?utm_medium=rss)
+ - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches/)
+ - [What to expect from the &#39;iPhone Fold&#39;](https://appleinsider.com/articles/22/01/03/apples-folding-iphone---what-to-expect-from-the-iphone-fold?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
