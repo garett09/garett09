@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best of IFA 2022 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2022-awards-3204861/)
- - [Ring showed us how it’s making the humble intercom smarter](https://www.androidauthority.com/ring-intercom-3204937/)
- - [A look at the privacy concerns raised by OpenAI&#39;s GPT-3, Google&#39;s LaMDA, Meta&#39;s OPT-175B, and other large language models trained on troves of personal data &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220904/p2#a220904p2)<!-- TECH:END -->
+ - [IFA has convinced me: Foldable laptops make more sense than foldable phones](https://www.androidauthority.com/foldable-laptops-vs-foldable-phones-3204822/)
+ - [An investor group led by Swiss Life and others agree to pay $1.5B for a 35% stake in DataBank, which owns 65+ data centers and 20 interconnection hubs in the US &lpar;David Seeley/Dallas Innovates&rpar;](http://www.techmeme.com/220904/p3#a220904p3)
+ - [Best of IFA 2022 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2022-awards-3204861/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
