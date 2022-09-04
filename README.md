@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is Too Calm](http://9gag.com/gag/amgDVDy)
- - 🚯 [Some things never change](http://9gag.com/gag/adg3oZB)
- - 🚯 [TRUST ISSUES?](http://9gag.com/gag/aKmbYRb)<!-- MEMES:END -->
+ - 🚖 [Probably unpopular opinion](http://9gag.com/gag/aBnDO5Q)
+ - 🚯 [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)
+ - 🚯 [What if you&#39;re wrong..](http://9gag.com/gag/aRrxRBy)<!-- MEMES:END -->
 
 --- 
 
