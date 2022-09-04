@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
- - [Best Mattress for Stomach Sleepers 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
- - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)<!-- TECH:END -->
+ - [When Is &#39;House of the Dragon&#39; Episode 3 Released in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-is-house-of-the-dragon-episode-3-released-in-your-time-zone/#ftag=CAD590a51e)
+ - [Cloudflare Blocks Kiwi Farms Due to &#39;Immediate Threat&#39;: What to Know     - CNET](https://www.cnet.com/culture/internet/cloudflare-blocks-kiwi-farms-due-to-immediate-threat-what-to-know/#ftag=CAD590a51e)
+ - [Best High-Tech Ski Gear for 2022     - CNET](https://www.cnet.com/tech/mobile/best-high-tech-ski-gear-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
