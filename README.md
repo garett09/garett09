@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Top 10 Tips and Tricks](https://game-rant-2022.blogspot.com/2022/09/top-10-tips-and-tricks.html)
- - [The Top 10 Android Party Games](https://game-rant-2022.blogspot.com/2022/09/the-top-10-android-party-games.html)
- - [Terrariums: the best mountains, ranked](https://game-rant-2022.blogspot.com/2022/09/terrariums-best-mountains-ranked.html)<!-- GAME:END -->
+ - [The Rings of Power’s elf servants fucked me all the way up](https://www.polygon.com/23331245/rings-power-lord-elf-heaven-boat-explained)
+ - [5 easy tips to manage notifications on your Android phone](https://game-rant-2022.blogspot.com/2022/09/5-easy-tips-to-manage-notifications-on.html)
+ - [10 Best Comic Book Related Content Creators To Follow On TikTok](https://game-rant-2022.blogspot.com/2022/09/10-best-comic-book-related-content.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
