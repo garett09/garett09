@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinosaur \ud83e\udd95](http://9gag.com/gag/awzqYdy)
- - 🚯 [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)
- - 🚯 [Huh, what ?](http://9gag.com/gag/aze6YDK)<!-- MEMES:END -->
+ - 🚖 [He forgot to drink his espresso after lunch... Thats why he forgot the tire](http://9gag.com/gag/avAbm2n)
+ - 🚯 [`do it for her`](http://9gag.com/gag/ajg2R4p)
+ - 🚯 [This was probably the last decent series of a Marvel character that sadly got cancelled and did not got enough spotlight despite the amazing work and story potential...](http://9gag.com/gag/aGzP7PX)<!-- MEMES:END -->
 
 --- 
 
