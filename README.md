@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US officials say sanctioned countries are increasingly manipulating the GPS-based automatic identification systems, or AIS, of ships to evade international law &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/220903/p13#a220903p13)
- - [Amazon quietly introduces a 72-hour delay for all user reviews posted to Prime Video to determine whether the review is genuine or created by a bot or a troll &lpar;Variety&rpar;](http://www.techmeme.com/220903/p12#a220903p12)
- - [Alleged Google Pixel 7 Pro appears in unboxing video ahead of launch](https://www.theverge.com/2022/9/3/23336007/google-pixel-7-pro-unboxing-video-launch-leak-rumors)<!-- TECH:END -->
+ - [Amazon says The Rings of Power&#39;s first two episodes drew 25M viewers globally in its first day, revealing viewership for a Prime Video series for the first time &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/220903/p15#a220903p15)
+ - [China says automakers now require licenses for &quot;smart cars&quot; collecting mapping data, which could further complicate the local operations of companies like Tesla &lpar;Reuters&rpar;](http://www.techmeme.com/220903/p14#a220903p14)
+ - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;Succession,&#39; But With Dragons     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-succession-but-with-dragons/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
