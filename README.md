@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shockingly, Batman Forever made a bad videogame](https://www.pcgamer.com/saturday-crapshoot-batman-forever)
- - [Do some imperial space politics, don&#39;t get deposed in Alliance of the Sacred Suns](https://www.pcgamer.com/do-some-imperial-space-politics-dont-get-deposed-in-alliance-of-the-sacred-suns)
- - [The Splatoon series can do more with its broadcast format](https://game-rant-2022.blogspot.com/2022/09/the-splatoon-series-can-do-more-with.html)<!-- GAME:END -->
+ - [If you were a videogame, what kind of game would you be and why?](https://www.pcgamer.com/if-you-were-a-videogame-what-kind-of-game-would-you-be-and-why)
+ - [Aborting the AL Central race](https://game-rant-2022.blogspot.com/2022/09/aborting-al-central-race.html)
+ - [How many video games are in development?](https://game-rant-2022.blogspot.com/2022/09/how-many-video-games-are-in-development.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
