@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance will stop supporting the world&#39;s second biggest stablecoin USDC and convert users&#39; USDC, USDP, and TUSD into its own stablecoin BUSD on September 29 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220905/p14#a220905p14)
- - [Instagram was fined $402 million for mishandling teens’ data in the EU](https://www.theverge.com/2022/9/5/23338081/instagram-eu-fine-ireland-kids-data)
- - [Save $100 on the Apple Watch SE, and more of the best fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
+ - [Jaws is a box office hit again, 47 years after it first hit theaters](https://www.theverge.com/2022/9/5/23338141/national-cinema-day-jaws-box-office)
+ - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Marvel Return Is a Disappointing Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-marvel-return-is-a-disappointing-encore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
