@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft will keep Call of Duty on PlayStation for ‘years’ beyond existing deal](https://www.polygon.com/23337826/microsoft-activision-call-of-duty-on-playstation-years-phil-spencer)
- - [2K&#39;s &#39;quality of life&#39; change for BioShock is that Linux users can&#39;t play it anymore](https://www.pcgamer.com/2ks-quality-of-life-change-for-bioshock-is-that-linux-users-cant-play-it-anymore)
- - [Watch Rick and Morty roleplay as Kratos and son in this God of War ad](https://www.polygon.com/23337745/rick-and-morty-god-of-war-ragnarok-ad)<!-- GAME:END -->
+ - [Best AIO cooler for CPUs](https://www.pcgamer.com/best-aio-cooler-for-cpus)
+ - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
+ - [Dwarf Fortress Steam Edition threatens to make it playable for just about anyone](https://www.pcgamer.com/take-a-good-long-look-at-how-accessible-dwarf-fortress-steam-edition-will-be)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
