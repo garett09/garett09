@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
- - [Jaws is a box office hit again, 47 years after it first hit theaters](https://www.theverge.com/2022/9/5/23338141/national-cinema-day-jaws-box-office)
- - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Marvel Return Is a Disappointing Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-marvel-return-is-a-disappointing-encore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 40 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
+ - [Apple iPhone 14: Everything we know so far &lpar;Updated: September 5&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)
+ - [The best AT&amp;T deals: Save $1,000 on the Galaxy Z series with trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
