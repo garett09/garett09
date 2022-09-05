@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes you think.](http://9gag.com/gag/aVxG1j2)
- - 🚯 [Funny coz](http://9gag.com/gag/avAbD5O)
- - 🚯 [Polish for beginners.](http://9gag.com/gag/aQXYrmr)<!-- MEMES:END -->
+ - 🚖 [After saving money, i bought my first car. It aint much but its honnest work](http://9gag.com/gag/aegXWo5)
+ - 🚯 [Keep calm and use your brains.](http://9gag.com/gag/aze6QpN)
+ - 🚯 [This food made me smile &lpar;enjoy&rpar;](http://9gag.com/gag/axBp4K2)<!-- MEMES:END -->
 
 --- 
 
