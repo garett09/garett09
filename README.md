@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 443 answer and hint: Monday, September 5](https://www.pcgamer.com/todays-wordle-443-answer-hint)
  - [The Last of Us Part 1: All Workbench Locations](https://game-rant-2022.blogspot.com/2022/09/the-last-of-us-part-1-all-workbench.html)
- - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)
- - [I just tried Focus mode on iOS 16 - and it&#39;s a game changer](https://game-rant-2022.blogspot.com/2022/09/i-just-tried-focus-mode-on-ios-16-and.html)<!-- GAME:END -->
+ - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
