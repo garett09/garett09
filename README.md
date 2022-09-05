@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG is bringing NFTs to its smart TVs](https://www.theverge.com/2022/9/4/23336997/lg-bringing-nfts-smart-tvs-cryptocurrency)
- - [The Best Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
- - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $100 on these Apple Watch models ahead of the Apple Event](https://appleinsider.com/articles/22/09/05/save-100-on-these-apple-watch-models-ahead-of-the-apple-event?utm_medium=rss)
+ - [&#39;I Came By&#39; on Netflix: That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/i-came-by-on-netflix-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Q&amp;A with Vitalik Buterin on proof of work vs. proof of stake, the recent crypto crash, crypto security, decentralized governance, &quot;startup societies&quot;, and more &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/220904/p8#a220904p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
