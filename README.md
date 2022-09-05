@@ -103,7 +103,7 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
@@ -119,51 +119,12 @@ while(dev.isCoding() && dev.isStuck())
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
-🌆 Daytime    154 commits    ███████░░░░░░░░░░░░░░░░░░   29.56% 
-🌃 Evening    195 commits    █████████░░░░░░░░░░░░░░░░   37.43% 
-🌙 Night      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-Tuesday      119 commits    █████░░░░░░░░░░░░░░░░░░░░   22.84% 
-Wednesday    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
-Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-Saturday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-Sunday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 01:08:33 UTC
+ Last Updated on 05/09/2022 01:23:03 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
