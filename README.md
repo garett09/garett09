@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [USB4 Version 2.0 with 80Gbps speeds is coming](https://www.pcgamer.com/usb4-version-20-with-80gbps-speeds-is-coming)
- - [D&amp;D&#39;s new Spelljammer books don&#39;t include a lot of new rules, and that&#39;s OK](https://www.pcgamer.com/dandds-new-spelljammer-books-dont-include-a-lot-of-new-rules-and-thats-ok)
- - [10 Mistakes That Still Haunt Bandai Namco](https://game-rant-2022.blogspot.com/2022/09/10-mistakes-that-still-haunt-bandai.html)<!-- GAME:END -->
+ - [The Last of Us Part 1: All Workbench Locations](https://game-rant-2022.blogspot.com/2022/09/the-last-of-us-part-1-all-workbench.html)
+ - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)
+ - [I just tried Focus mode on iOS 16 - and it&#39;s a game changer](https://game-rant-2022.blogspot.com/2022/09/i-just-tried-focus-mode-on-ios-16-and.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
