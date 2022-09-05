@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 40 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
- - [Apple iPhone 14: Everything we know so far &lpar;Updated: September 5&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)
- - [The best AT&amp;T deals: Save $1,000 on the Galaxy Z series with trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)<!-- TECH:END -->
+ - [Leaked Apple Watch Pro case accessory shows two extra buttons](https://appleinsider.com/articles/22/09/05/leaked-apple-watch-pro-case-accessory-shows-two-extra-buttons?utm_medium=rss)
+ - [Apple Watch Pro renders illustrate Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
+ - [Apple may revive &#39;Plus&#39; name for larger iPhone 14 model](https://appleinsider.com/articles/22/09/05/apple-may-revive-plus-name-for-larger-iphone-14-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
