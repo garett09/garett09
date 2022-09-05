@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok denies reports that it’s been hacked](https://www.theverge.com/2022/9/5/23338051/tiktok-denies-reports-hacked-data-breach)
- - [Poolin, one of the world&#39;s biggest bitcoin mining pools, suspends withdrawals from its wallet service, citing liquidity issues &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/220905/p13#a220905p13)
- - [The GoPro Hero11 Black will reportedly have a new sensor and an old design](https://www.theverge.com/2022/9/5/23338023/gopro-hero-11-black-design-sensor)<!-- TECH:END -->
+ - [Binance will stop supporting the world&#39;s second biggest stablecoin USDC and convert users&#39; USDC, USDP, and TUSD into its own stablecoin BUSD on September 29 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220905/p14#a220905p14)
+ - [Instagram was fined $402 million for mishandling teens’ data in the EU](https://www.theverge.com/2022/9/5/23338081/instagram-eu-fine-ireland-kids-data)
+ - [Save $100 on the Apple Watch SE, and more of the best fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
