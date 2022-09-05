@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple appears to be expanding its ad platform team, currently around 250 strong, per LinkedIn; Apple&#39;s career page lists 216 roles, up from 56 in late 2020 &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220905/p8#a220905p8)
+ - [How to watch Apple’s ‘Far Out’ event](https://www.theverge.com/2022/9/5/23311764/apple-iphone-14-event-far-out-2022-live-stream-watch-start-time-how-to)
  - [Apple Watch Pro renders illustrate Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
- - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may revive &#39;Plus&#39; name for larger iPhone 14 model](https://appleinsider.com/articles/22/09/05/apple-may-revive-plus-name-for-larger-iphone-14-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
