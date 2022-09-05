@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants LG &amp; Samsung to make foldable iPhone screens that won&#39;t crumple](https://appleinsider.com/articles/22/09/05/apple-wants-lg-samsung-to-make-foldable-iphone-screens-that-wont-crumple?utm_medium=rss)
- - [Voyager 1 and 2, Humanity’s Interstellar Envoys, Soldier On at 45](https://www.wired.com/story/voyager-1-and-2-humanitys-interstellar-envoys-soldier-on-at-45/)
- - [An Old Casio Keyboard Changed Everything for Julia Jacklin](https://www.wired.com/story/casio-keyboard-julia-jacklin/)<!-- TECH:END -->
+ - [Apple appears to be expanding its ad platform team, currently around 250 strong, per LinkedIn; Apple&#39;s career page lists 216 roles, up from 56 in late 2020 &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220905/p8#a220905p8)
+ - [Apple Watch Pro renders illustrate Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
+ - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
