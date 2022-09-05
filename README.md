@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)
- - 🚯 [Why woman live longer](http://9gag.com/gag/aVxG9d8)
- - 🚯 [Annoying type of f**ker](http://9gag.com/gag/aLvqo1M)<!-- MEMES:END -->
+ - 🚖 [Annoying type of f**ker](http://9gag.com/gag/aLvqo1M)
+ - 🚯 [She seems nice](http://9gag.com/gag/aGzP5RG)
+ - 🚯 [It&#39;s happening!](http://9gag.com/gag/aKmbZyQ)<!-- MEMES:END -->
 
 --- 
 
