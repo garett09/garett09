@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Good Vibes Only&#39;: Raleigh and Kirby Emerge in Spotless Week for M&#39;s](https://game-rant-2022.blogspot.com/2022/09/good-vibes-only-raleigh-and-kirby.html)
- - [10 most iconic outfits in gaming](https://game-rant-2022.blogspot.com/2022/09/10-most-iconic-outfits-in-gaming.html)
- - [These modders are reconstructing the Duke Nukem Forever of the Good Timeline](https://www.pcgamer.com/these-modders-are-reconstructing-the-duke-nukem-forever-of-the-good-timeline)<!-- GAME:END -->
+ - [10 Mistakes That Still Haunt Bandai Namco](https://game-rant-2022.blogspot.com/2022/09/10-mistakes-that-still-haunt-bandai.html)
+ - [World Of Warcraft WotLK Pre-Patch Details](https://game-rant-2022.blogspot.com/2022/09/world-of-warcraft-wotlk-pre-patch.html)
+ - [How to play past Wordle quizzes](https://game-rant-2022.blogspot.com/2022/09/how-to-play-past-wordle-quizzes.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
