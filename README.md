@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)
- - 🚯 [Great offer](http://9gag.com/gag/aVxGrRP)
- - 🚯 [Brendan Fraser getting a 6 minute standing ovation in Venice](http://9gag.com/gag/aze6vRm)<!-- MEMES:END -->
+ - 🚖 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)
+ - 🚯 [Why woman live longer](http://9gag.com/gag/aVxG9d8)
+ - 🚯 [Annoying type of f**ker](http://9gag.com/gag/aLvqo1M)<!-- MEMES:END -->
 
 --- 
 
