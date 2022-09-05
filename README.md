@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple’s ‘Far Out’ event](https://www.theverge.com/2022/9/5/23311764/apple-iphone-14-event-far-out-2022-live-stream-watch-start-time-how-to)
- - [Apple Watch Pro renders illustrate Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
- - [Apple may revive &#39;Plus&#39; name for larger iPhone 14 model](https://appleinsider.com/articles/22/09/05/apple-may-revive-plus-name-for-larger-iphone-14-model?utm_medium=rss)<!-- TECH:END -->
+ - [Psssstt…you can watch House of the Dragon for free on YouTube right now](https://www.theverge.com/2022/9/5/23337730/watch-house-of-the-dragon-free-youtube-now-hbo-max)
+ - [New Hue bulbs, Eve Thread switch &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/09/05/new-hue-bulbs-eve-thread-switch-more-on-homekit-insider?utm_medium=rss)
+ - [What’s the future of headphones, you ask? An OS in your ear](https://www.androidauthority.com/headphones-future-cosmos-3204971/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
