@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking the 7 best Warhammer fantasy video games](https://www.polygon.com/what-to-play/23333078/best-warhammer-fantasy-video-games-total-war-warhammer-3-vermintide-2)
- - [Xbox&#39;s Matt Booty Dreams About Using AI To Do QA Testing](https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926)
- - [Fans are getting excited about a Suikoden announcement, but they might be in for disappointment](https://www.pcgamer.com/fans-are-getting-excited-about-a-suikoden-announcement-but-they-might-be-in-for-disappointment)<!-- GAME:END -->
+ - [Rick and Morty’s creators to internet: You might be overthinking the canon stuff](https://www.polygon.com/23332777/rick-morty-season-6-premiere-recap-interview-release)
+ - [Arcane becomes the first gaming show to win an Emmy](https://www.pcgamer.com/arcane-becomes-the-first-gaming-show-to-win-an-emmy)
+ - [Former Sledgehammer Boss Clumsily Walks Back Pro-Crunch Comments](https://kotaku.com/striking-distance-callisto-protocol-schofield-crunch-1849497041)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
