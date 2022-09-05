@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What happened to DriveClub Developer Evolution Studios?](https://game-rant-2022.blogspot.com/2022/09/what-happened-to-driveclub-developer.html)
- - [How online casinos continue to grow](https://game-rant-2022.blogspot.com/2022/09/how-online-casinos-continue-to-grow.html)
- - [10 Best Hand-Drawn Video Games, According to Metacritic](https://game-rant-2022.blogspot.com/2022/09/10-best-hand-drawn-video-games.html)<!-- GAME:END -->
+ - [&#39;Good Vibes Only&#39;: Raleigh and Kirby Emerge in Spotless Week for M&#39;s](https://game-rant-2022.blogspot.com/2022/09/good-vibes-only-raleigh-and-kirby.html)
+ - [10 most iconic outfits in gaming](https://game-rant-2022.blogspot.com/2022/09/10-most-iconic-outfits-in-gaming.html)
+ - [These modders are reconstructing the Duke Nukem Forever of the Good Timeline](https://www.pcgamer.com/these-modders-are-reconstructing-the-duke-nukem-forever-of-the-good-timeline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
