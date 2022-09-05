@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Mike Fahey, beloved ‘big kid’ of video games journalism, dies at 49](https://www.polygon.com/23338208/mike-fahey-kotaku-obituary)
- - [What we can do to make our PCs kinder on our energy bills](https://www.pcgamer.com/what-we-can-do-to-make-our-pcs-kinder-on-our-energy-bills)
- - [Proprivex becomes a game changer in Blockchain technology, such as Avalanche and FTX Token](https://game-rant-2022.blogspot.com/2022/09/proprivex-becomes-game-changer-in.html)<!-- GAME:END -->
+ - [Co-Optimus - Community Blog - How Do Video Games Affect Dating Culture?](https://game-rant-2022.blogspot.com/2022/09/co-optimus-community-blog-how-do-video.html)
+ - [Things that can be improved](https://game-rant-2022.blogspot.com/2022/09/things-that-can-be-improved.html)
+ - [Spark The Electric Jester 3 refines Sonic-style 3D platforming into an art](https://game-rant-2022.blogspot.com/2022/09/spark-electric-jester-3-refines-sonic.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
