@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
- - [AEW All Out 2022: Results, MJF Return, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/aew-all-out-2022-results-mjf-return-full-recap-and-analysis/#ftag=CAD590a51e)
- - [How Amtrak&#39;s Viral One-Word Tweet Inspired a Huge Twitter Trend     - CNET](https://www.cnet.com/culture/internet/how-amtraks-viral-one-word-tweet-inspired-the-latest-big-twitter-trend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG launches LG Art Lab which lets US users buy, sell, and trade NFTs on its smart TVs, partners with Hedera to enable purchases via LG&#39;s crypto wallet, Wallypto &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220905/p1#a220905p1)
+ - [Your Android phone could soon get snore and cough detection abilities &lpar;Updated&rpar;](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)
+ - [No Google, no worry: Huawei brings new phones and more to IFA 2022 &lpar;Updated&rpar;](https://www.androidauthority.com/huawei-ifa-2022-3204276/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
