@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🌟 The stars of IFA 2022](https://www.androidauthority.com/daily-authority-september-5-2022-3205105/)
- - [How the North Atlantic Fellas Organization, or NAFO, a group of national security experts and ordinary Twitter users, is using memes to fight Russian propaganda &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220905/p2#a220905p2)
- - [EU wants to enforce 5 years of security and 3 years of OS updates for all phones](https://www.androidauthority.com/eu-smartphone-updates-rules-3205112/)<!-- TECH:END -->
+ - [Binance and Nigeria are in talks to establish a digital economic zone in the country, &quot;similar to the Dubai virtual free zone&quot;, to help blockchain developers &lpar;Emele Onu/Bloomberg&rpar;](http://www.techmeme.com/220905/p5#a220905p5)
+ - [Apple TV+ wins five Creative Arts Emmys](https://appleinsider.com/articles/22/09/05/apple-tv-wins-five-creative-arts-emmys?utm_medium=rss)
+ - [Instagram removes PornHub’s account as pressure from campaigners grows](https://www.theverge.com/2022/9/5/23337535/instagram-removes-pornhub-official-account)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
