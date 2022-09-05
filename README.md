@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m the Captain of the Airplane.. That&#39;s where it&#39;s POSTED!](http://9gag.com/gag/a61We8q)
- - 🚯 [Annoying type of f**ker](http://9gag.com/gag/aLvqo1M)
- - 🚯 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)<!-- MEMES:END -->
+ - 🚖 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)
+ - 🚯 [Great offer](http://9gag.com/gag/aVxGrRP)
+ - 🚯 [Brendan Fraser getting a 6 minute standing ovation in Venice](http://9gag.com/gag/aze6vRm)<!-- MEMES:END -->
 
 --- 
 
