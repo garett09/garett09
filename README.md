@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You see, hooman, it&#39;s THAT simple!](http://9gag.com/gag/aggRbMg)
- - 🚯 [I&#39;m the Captain of the Airplane.. That&#39;s where it&#39;s POSTED!](http://9gag.com/gag/a61We8q)
- - 🚯 [Let&#39;s support this man by any means necessary, for all the great memories he made for us over the years. He was and he always will be my favorite actor.](http://9gag.com/gag/amgDQ0V)<!-- MEMES:END -->
+ - 🚖 [I&#39;m the Captain of the Airplane.. That&#39;s where it&#39;s POSTED!](http://9gag.com/gag/a61We8q)
+ - 🚯 [Annoying type of f**ker](http://9gag.com/gag/aLvqo1M)
+ - 🚯 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)<!-- MEMES:END -->
 
 --- 
 
