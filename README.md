@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now this is a great movie. You can&#39;t tell what&#39;s real and what&#39;s not.](http://9gag.com/gag/aGzPryz)
- - 🚯 [Dark elf is already taken, and wood elf lives in the wood. What about Hood elf then?](http://9gag.com/gag/a9134ym)
- - 🚯 [Stay strong dudes, it&#39;s only Monday](http://9gag.com/gag/apgenN8)<!-- MEMES:END -->
+ - 🚖 [Stay strong dudes, it&#39;s only Monday](http://9gag.com/gag/apgenN8)
+ - 🚯 [Jesse, thats not a woman](http://9gag.com/gag/amgDO3X)
+ - 🚯 [It started as a solo hobby project and in the last few months it all changed. I found a publisher, quit my job and set up a small indie dev team. We were displayed at Gamescom last week. Here is our new trailer](http://9gag.com/gag/avAb4jd)<!-- MEMES:END -->
 
 --- 
 
