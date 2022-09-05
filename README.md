@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance and Nigeria are in talks to establish a digital economic zone in the country, &quot;similar to the Dubai virtual free zone&quot;, to help blockchain developers &lpar;Emele Onu/Bloomberg&rpar;](http://www.techmeme.com/220905/p5#a220905p5)
- - [Apple TV+ wins five Creative Arts Emmys](https://appleinsider.com/articles/22/09/05/apple-tv-wins-five-creative-arts-emmys?utm_medium=rss)
- - [Instagram removes PornHub’s account as pressure from campaigners grows](https://www.theverge.com/2022/9/5/23337535/instagram-removes-pornhub-official-account)<!-- TECH:END -->
+ - [Apple wants LG &amp; Samsung to make foldable iPhone screens that won&#39;t crumple](https://appleinsider.com/articles/22/09/05/apple-wants-lg-samsung-to-make-foldable-iphone-screens-that-wont-crumple?utm_medium=rss)
+ - [Voyager 1 and 2, Humanity’s Interstellar Envoys, Soldier On at 45](https://www.wired.com/story/voyager-1-and-2-humanitys-interstellar-envoys-soldier-on-at-45/)
+ - [An Old Casio Keyboard Changed Everything for Julia Jacklin](https://www.wired.com/story/casio-keyboard-julia-jacklin/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
