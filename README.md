@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may revive &#39;Plus&#39; name for larger iPhone 14 model](https://appleinsider.com/articles/22/09/05/apple-may-revive-plus-name-for-larger-iphone-14-model?utm_medium=rss)
- - [A utility company locked thousands of customers out of their smart thermostats in Colorado](https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-colorado-heatwave)
- - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)<!-- TECH:END -->
+ - [TikTok denies reports that it’s been hacked](https://www.theverge.com/2022/9/5/23338051/tiktok-denies-reports-hacked-data-breach)
+ - [Poolin, one of the world&#39;s biggest bitcoin mining pools, suspends withdrawals from its wallet service, citing liquidity issues &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/220905/p13#a220905p13)
+ - [The GoPro Hero11 Black will reportedly have a new sensor and an old design](https://www.theverge.com/2022/9/5/23338023/gopro-hero-11-black-design-sensor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
