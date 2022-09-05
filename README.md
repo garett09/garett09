@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Puzzle composed of different animal shapes](http://9gag.com/gag/aZr9V6X)
- - 🚯 [This photo looks like a shot from SNL Elf parody sketch.](http://9gag.com/gag/avAbX8W)
- - 🚯 [I Work 14 hours a day and managed to buy my mom a house 4 hours away from me, I pay the mortgage so she can live without working, she&#39;s had a hard life and got us out of a shit country and into a great one. Visited my mom for the first time in a year, this is our slav breakfast.](http://9gag.com/gag/aXr8Q9v)<!-- MEMES:END -->
+ - 🚖 [Europa &amp; Io moons orbiting Jupiter, captured by the Cassini space probe](http://9gag.com/gag/a71jPZr)
+ - 🚯 [Protect her at all costs.](http://9gag.com/gag/a0ZmWnQ)
+ - 🚯 [Brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of &#39;the whale&#39;](http://9gag.com/gag/ajg2Mw1)<!-- MEMES:END -->
 
 --- 
 
