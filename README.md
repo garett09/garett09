@@ -157,8 +157,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Now this is a great movie. You can&#39;t tell what&#39;s real and what&#39;s not.](http://9gag.com/gag/aGzPryz)
- - 🚯 [The good old day](http://9gag.com/gag/aNPy8Nv)
- - 🚯 [Dark elf is already taken, and wood elf lives in the wood. What about Hood elf then?](http://9gag.com/gag/a9134ym)<!-- MEMES:END -->
+ - 🚯 [Dark elf is already taken, and wood elf lives in the wood. What about Hood elf then?](http://9gag.com/gag/a9134ym)
+ - 🚯 [Stay strong dudes, it&#39;s only Monday](http://9gag.com/gag/apgenN8)<!-- MEMES:END -->
 
 --- 
 
