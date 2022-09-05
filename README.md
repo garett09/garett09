@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best AIO cooler for CPUs](https://www.pcgamer.com/best-aio-cooler-for-cpus)
- - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
- - [Dwarf Fortress Steam Edition threatens to make it playable for just about anyone](https://www.pcgamer.com/take-a-good-long-look-at-how-accessible-dwarf-fortress-steam-edition-will-be)<!-- GAME:END -->
+ - [Batman: The Animated Series opened my world and changed my life](https://www.polygon.com/23328910/batman-the-animated-series-btas-cartoon-essay)
+ - [Xbox Games Studios boss says artificial intelligence QA is his &#39;dream&#39;](https://www.pcgamer.com/xbox-games-studios-boss-says-artificial-intelligence-qa-is-his-dream)
+ - [PC gaming&#39;s most beloved and most obscure shared universes](https://www.pcgamer.com/pc-gamings-most-beloved-and-most-obscure-shared-universes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
