@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay strong dudes, it&#39;s only Monday](http://9gag.com/gag/apgenN8)
- - 🚯 [Jesse, thats not a woman](http://9gag.com/gag/amgDO3X)
- - 🚯 [It started as a solo hobby project and in the last few months it all changed. I found a publisher, quit my job and set up a small indie dev team. We were displayed at Gamescom last week. Here is our new trailer](http://9gag.com/gag/avAb4jd)<!-- MEMES:END -->
+ - 🚖 [Jesse, thats not a woman](http://9gag.com/gag/amgDO3X)
+ - 🚯 [Yes this project is very interesting](http://9gag.com/gag/a114n5v)
+ - 🚯 [I have her since I was a child, it would destroy me...](http://9gag.com/gag/avAbBqq)<!-- MEMES:END -->
 
 --- 
 
