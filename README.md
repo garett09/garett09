@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jesse, thats not a woman](http://9gag.com/gag/amgDO3X)
- - 🚯 [Yes this project is very interesting](http://9gag.com/gag/a114n5v)
- - 🚯 [I have her since I was a child, it would destroy me...](http://9gag.com/gag/avAbBqq)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s support this man by any means necessary, for all the great memories he made for us over the years. He was and he always will be my favorite actor.](http://9gag.com/gag/amgDQ0V)
+ - 🚯 [I have her since I was a child, it would destroy me...](http://9gag.com/gag/avAbBqq)
+ - 🚯 [I&#39;m the Captain of the Airplane.. That&#39;s where it&#39;s POSTED!](http://9gag.com/gag/a61We8q)<!-- MEMES:END -->
 
 --- 
 
