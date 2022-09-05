@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After saving money, i bought my first car. It aint much but its honnest work](http://9gag.com/gag/aegXWo5)
- - 🚯 [Keep calm and use your brains.](http://9gag.com/gag/aze6QpN)
- - 🚯 [This food made me smile &lpar;enjoy&rpar;](http://9gag.com/gag/axBp4K2)<!-- MEMES:END -->
+ - 🚖 [Puzzle composed of different animal shapes](http://9gag.com/gag/aZr9V6X)
+ - 🚯 [This photo looks like a shot from SNL Elf parody sketch.](http://9gag.com/gag/avAbX8W)
+ - 🚯 [I Work 14 hours a day and managed to buy my mom a house 4 hours away from me, I pay the mortgage so she can live without working, she&#39;s had a hard life and got us out of a shit country and into a great one. Visited my mom for the first time in a year, this is our slav breakfast.](http://9gag.com/gag/aXr8Q9v)<!-- MEMES:END -->
 
 --- 
 
