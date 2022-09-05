@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The boys...](http://9gag.com/gag/awzqPL4)
- - 🚯 [Painting the highbeam tail lights](http://9gag.com/gag/aYrzZOx)
- - 🚯 [What a chad](http://9gag.com/gag/aAGnNwL)<!-- MEMES:END -->
+ - 🚖 [Everyone can use a bit of help sometimes](http://9gag.com/gag/aze6ozq)
+ - 🚯 [The boys...](http://9gag.com/gag/awzqPL4)
+ - 🚯 [Painting the highbeam tail lights](http://9gag.com/gag/aYrzZOx)<!-- MEMES:END -->
 
 --- 
 
