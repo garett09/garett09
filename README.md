@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When Is &#39;House of the Dragon&#39; Episode 3 Released in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-is-house-of-the-dragon-episode-3-released-in-your-time-zone/#ftag=CAD590a51e)
- - [Cloudflare Blocks Kiwi Farms Due to &#39;Immediate Threat&#39;: What to Know     - CNET](https://www.cnet.com/culture/internet/cloudflare-blocks-kiwi-farms-due-to-immediate-threat-what-to-know/#ftag=CAD590a51e)
- - [Best High-Tech Ski Gear for 2022     - CNET](https://www.cnet.com/tech/mobile/best-high-tech-ski-gear-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG is bringing NFTs to its smart TVs](https://www.theverge.com/2022/9/4/23336997/lg-bringing-nfts-smart-tvs-cryptocurrency)
+ - [The Best Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
+ - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
