@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate developer announces new follow-up to the indie shooter hit](https://www.polygon.com/23339731/splitgate-1047-games-developer-announcement-shooter)
- - [This little life sim is about a teen witch who totally doesn&#39;t want to be here](https://www.pcgamer.com/this-little-life-sim-is-about-a-teen-witch-who-totally-doesnt-want-to-be-here)
- - [Cyberpunk 2077 update adds transmog and cat pictures](https://www.pcgamer.com/cyberpunk-2077-update-adds-transmog-and-cat-pictures)<!-- GAME:END -->
+ - [A new Sandman comic pits the Corinthian against the angel who invented Mormonism](https://www.polygon.com/2022/9/6/23333365/sandman-corinthian-mormon-angel-dc-comics-james-tynion)
+ - [The Week In Games: Enter The Splatlands](https://kotaku.com/splatoon-3-steelrising-jack-move-temtem-nba-2k23-1849502030)
+ - [Splitgate developer announces new follow-up to the indie shooter hit](https://www.polygon.com/23339731/splitgate-1047-games-developer-announcement-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
