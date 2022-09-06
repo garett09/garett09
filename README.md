@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There was a TikTok Android app exploit that let hackers hijack accounts with one click](https://www.pcgamer.com/there-was-a-tiktok-android-app-exploit-that-let-hackers-hijack-accounts-with-one-click)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 05&rpar;](https://news.xbox.com/en-us/2022/09/05/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-05/)
- - [NASA&#39;s 3D space exploration tool Eyes on the Solar system now works in browser](https://www.pcgamer.com/nasas-3d-space-exploration-tool-eyes-on-the-solar-system-now-works-in-browser)<!-- GAME:END -->
+ - [The 9 coolest games of PAX West 2022](https://game-rant-2022.blogspot.com/2022/09/the-9-coolest-games-of-pax-west-2022.html)
+ - [Wemade Updates Dragon Artifact for MIR4](https://game-rant-2022.blogspot.com/2022/09/wemade-updates-dragon-artifact-for-mir4.html)
+ - [Review: Video Game Fables - Movies, Games and Technology](https://game-rant-2022.blogspot.com/2022/09/review-video-game-fables-movies-games.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
