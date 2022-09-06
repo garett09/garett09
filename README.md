@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So that\u2019s what it means](http://9gag.com/gag/aAGn8Vd)
- - 🚯 [Lets hear what consumers think of this would you like to be in a fight with your customer service rep?](http://9gag.com/gag/aze6WVK)
+ - 🚖 [Police forgets capsicum sprays are flammable](http://9gag.com/gag/abgjnEE)
+ - 🚯 [Best way to wake up](http://9gag.com/gag/awzqE4R)
  - 🚯 [Interesting](http://9gag.com/gag/aLvqZMv)<!-- MEMES:END -->
 
 --- 
