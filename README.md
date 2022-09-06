@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony releasing gray camo PS5 so you can joke about not having to see your PS5](https://www.polygon.com/23339096/ps5-gray-camouflage-console-dualsense-headset)
- - [Revealing the evolution of the Firewall franchise for PlayStation VR2](https://blog.playstation.com/2022/09/06/revealing-the-evolution-of-the-firewall-franchise-for-playstation-vr2/)
- - [If you thought the chip shortage was bad let me tell you about the capacitor plague](https://www.pcgamer.com/the-capacitor-plague-of-the-early-2000s)<!-- GAME:END -->
+ - [Cyberpunk 2077 Getting First Expansion Next Year, Keanu Reeves To Return](https://kotaku.com/cyberpunk-2077-phantom-liberty-expansion-keanu-reeves-1849500306)
+ - [SIE’s Social Justice Fund and PlayStation Career Pathways awards scholarships and welcomes new partners](https://blog.playstation.com/2022/09/06/sies-social-justice-fund-and-playstation-career-pathways-awards-scholarships-and-welcomes-new-partners/)
+ - [Dredge is a gorgeous Lovecraftian fishing RPG that deserves your attention](https://www.pcgamer.com/dredge-is-a-gorgeous-lovecraftian-fishing-rpg-that-deserves-your-attention)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
