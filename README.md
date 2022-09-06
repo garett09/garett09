@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;House of the Dragon&#39; Episode 3 Recap: Daemon Targaryen Has a Big Day     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-3-recap-daemon-targaryen-has-a-big-day/#ftag=CAD590a51e)
- - [When Is &#39;House of the Dragon&#39; Episode 4 Released in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-is-house-of-the-dragon-episode-4-released-in-your-time-zone/#ftag=CAD590a51e)
- - [Utility company Xcel locked 22,000 Colorado users in an energy saving program out of their smart thermostats for hours on August 30 citing an &quot;energy emergency&quot; &lpar;Jaclyn Allen/TheDenverChannel.com&rpar;](http://www.techmeme.com/220905/p16#a220905p16)<!-- TECH:END -->
+ - [CM Punk&#39;s Explosive AEW Press Conference Comments Explained     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-explosive-aew-press-conference-comments-explained/#ftag=CAD590a51e)
+ - [Huge Ice Planets Throughout the Galaxy May Be Raining Diamonds     - CNET](https://www.cnet.com/science/huge-ice-planets-may-be-raining-diamonds/#ftag=CAD590a51e)
+ - [US public school districts in seven states are piloting or have introduced Starlink internet access to rural students&#39; homes, as some question the affordability &lpar;NBC News&rpar;](http://www.techmeme.com/220905/p18#a220905p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
