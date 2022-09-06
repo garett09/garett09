@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andreessen Horowitz wants to fix NFT copyright with its ‘Can’t Be Evil’ license](https://www.theverge.com/2022/9/6/23331591/andreessen-horowitz-a16z-nft-cant-be-evil-copyright-creative-commons-licenses)
+ - [A book excerpt details how YouTube&#39;s love affair with PewDiePie soured in 2017, before he stopped pushing boundaries and signed a livestreaming deal in 2020 &lpar;Mark Bergen/The Verge&rpar;](http://www.techmeme.com/220906/p26#a220906p26)
  - [OWC buys trade-in company SellYourMac.com](https://appleinsider.com/articles/22/09/06/owc-buys-trade-in-company-sellyourmaccom?utm_medium=rss)
- - [Anker 30W Nano 3 USB-C charger is as colorful as the iPhone](https://appleinsider.com/articles/22/09/06/anker-30w-nano-3-usb-c-charger-is-as-colorful-as-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy Tab S8 and S8 Plus are $100 off at Best Buy today](https://www.theverge.com/good-deals/2022/9/6/23339030/samsung-galaxy-tab-s8-logitech-gaming-headset-anker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
