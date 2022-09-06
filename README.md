@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad!](http://9gag.com/gag/angAm1V)
- - 🚯 [So that\u2019s what it means](http://9gag.com/gag/aAGn8Vd)
- - 🚯 [Lets hear what consumers think of this would you like to be in a fight with your customer service rep?](http://9gag.com/gag/aze6WVK)<!-- MEMES:END -->
+ - 🚖 [So that\u2019s what it means](http://9gag.com/gag/aAGn8Vd)
+ - 🚯 [Lets hear what consumers think of this would you like to be in a fight with your customer service rep?](http://9gag.com/gag/aze6WVK)
+ - 🚯 [Interesting](http://9gag.com/gag/aLvqZMv)<!-- MEMES:END -->
 
 --- 
 
