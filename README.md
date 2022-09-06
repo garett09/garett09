@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CM Punk&#39;s Explosive AEW Press Conference Comments Explained     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-explosive-aew-press-conference-comments-explained/#ftag=CAD590a51e)
- - [Huge Ice Planets Throughout the Galaxy May Be Raining Diamonds     - CNET](https://www.cnet.com/science/huge-ice-planets-may-be-raining-diamonds/#ftag=CAD590a51e)
- - [US public school districts in seven states are piloting or have introduced Starlink internet access to rural students&#39; homes, as some question the affordability &lpar;NBC News&rpar;](http://www.techmeme.com/220905/p18#a220905p18)<!-- TECH:END -->
+ - [As Chinese consumers become thrifty amid an economic slowdown, Insider Intelligence forecasts just 9.1% increase in e-commerce sales in 2022, lowest since 2008 &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p3#a220906p3)
+ - [Apple Watch Series 8: Everything we know so far &lpar;Updated: Sep 6&rpar;](https://www.androidauthority.com/apple-watch-series-8-3162710/)
+ - [Apple Watch Pro leaks with mysterious new button](https://www.androidauthority.com/apple-watch-pro-new-button-3205440/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
