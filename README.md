@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Getting First Expansion Next Year, Keanu Reeves To Return](https://kotaku.com/cyberpunk-2077-phantom-liberty-expansion-keanu-reeves-1849500306)
- - [SIE’s Social Justice Fund and PlayStation Career Pathways awards scholarships and welcomes new partners](https://blog.playstation.com/2022/09/06/sies-social-justice-fund-and-playstation-career-pathways-awards-scholarships-and-welcomes-new-partners/)
- - [Dredge is a gorgeous Lovecraftian fishing RPG that deserves your attention](https://www.pcgamer.com/dredge-is-a-gorgeous-lovecraftian-fishing-rpg-that-deserves-your-attention)<!-- GAME:END -->
+ - [Tencent Bets $297 Million On Assassin&#39;s Creed Machine](https://kotaku.com/assassins-creed-tencent-acquisition-far-cry-delay-1849500726)
+ - [Edgerunners Update Available for Cyberpunk 2077 on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/09/06/edgerunners-update-available-for-cyberpunk-2077-on-xbox-series-xs-and-xbox-one/)
+ - [Thor: Love and Thunder deleted scene expands the Thor and Guardians’ story](https://www.polygon.com/23333106/thor-love-thunder-deleted-scene-guardians-hemsworth-pratt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
