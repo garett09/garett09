@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tuesday](http://9gag.com/gag/aBnDedP)
+ - 🚖 [He really do be wantsing it.](http://9gag.com/gag/aPZObvB)
  - 🚯 [US of A](http://9gag.com/gag/aqGvE3P)
- - 🚯 [He really do be wantsing it.](http://9gag.com/gag/aPZObvB)<!-- MEMES:END -->
+ - 🚯 [Police forgets capsicum sprays are flammable](http://9gag.com/gag/abgjnEE)<!-- MEMES:END -->
 
 --- 
 
