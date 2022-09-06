@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting](http://9gag.com/gag/aLvqZMv)
- - 🚯 [Best way to wake up](http://9gag.com/gag/awzqE4R)
+ - 🚖 [Best way to wake up](http://9gag.com/gag/awzqE4R)
+ - 🚯 [For the Europeans during the winter.](http://9gag.com/gag/aLvqx4M)
  - 🚯 [Inauguration of a bridge in the Democratic Republic of Congo. There is no denying that Africa is doing much better since decolonization...](http://9gag.com/gag/aegX8Bb)<!-- MEMES:END -->
 
 --- 
