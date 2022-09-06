@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destroy All Humans 2 All Human Cattle Hidden Beehive Locations](https://game-rant-2022.blogspot.com/2022/09/destroy-all-humans-2-all-human-cattle.html)
- - [Mobile Music Rhythm Games Market Business Analysis 2022 by CAGR, Share, Revenue and Prominent Key Players to 2028](https://game-rant-2022.blogspot.com/2022/09/mobile-music-rhythm-games-market.html)
- - [Ohio State shows no cause for concern about victory |  News, Sports, Jobs](https://game-rant-2022.blogspot.com/2022/09/ohio-state-shows-no-cause-for-concern.html)<!-- GAME:END -->
+ - [River City Ransom creator dies](https://www.pcgamer.com/river-city-ransom-creator-dies)
+ - [Ohio State showed toughness in victory over Notre Dame |  News, Sports, Jobs](https://game-rant-2022.blogspot.com/2022/09/ohio-state-showed-toughness-in-victory.html)
+ - [Anos Voldigoad&#39;s strongest skills, ranked](https://game-rant-2022.blogspot.com/2022/09/anos-voldigoads-strongest-skills-ranked.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
