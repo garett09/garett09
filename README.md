@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t hate on him because he was the first to announce what pronouns he prefers](http://9gag.com/gag/aLvq7Kv)
- - 🚯 [Yo air-driver, take me to space. ,62 miles &lpar;100km&rpar; ain&#39;t that far.](http://9gag.com/gag/aQXYWqe)
- - 🚯 [Should&#39;ve asked for more](http://9gag.com/gag/aPZOb9w)<!-- MEMES:END -->
+ - 🚖 [Should&#39;ve asked for more](http://9gag.com/gag/aPZOb9w)
+ - 🚯 [Elvish bathing water](http://9gag.com/gag/aNPyEOG)
+ - 🚯 [They/Them is Right You Know](http://9gag.com/gag/aM4pM21)<!-- MEMES:END -->
 
 --- 
 
