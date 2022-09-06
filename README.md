@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RTX 4080 might be subject to as many memory switcheroos as its forebearer](https://www.pcgamer.com/the-rtx-4080-might-be-subject-to-as-many-memory-switcheroos-as-its-forebearer)
- - [TikTok&#39;s gaming efforts have fallen prey to China&#39;s tech crackdown](https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown)
- - [Here&#39;s when Disney Dreamlight Valley unlocks in your timezone](https://www.pcgamer.com/disney-dreamlight-valley-release-time-unlock)<!-- GAME:END -->
+ - [Game Pass adds Disney Dreamlight Valley, Metal: Hellsinger, and more in September](https://www.polygon.com/23338990/xbox-game-pass-september-2022-new-games-leaving)
+ - [Stephen King movies are practically impossible to get right and always will be](https://www.polygon.com/23329162/stephen-king-movies-shows-based-on-books-challenge)
+ - [Disney Dreamlight Valley: Where to find and how to use all the Royal Tools](https://www.pcgamer.com/disney-dreamlight-valley-royal-tools)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
