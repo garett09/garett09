@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A book excerpt details how YouTube&#39;s love affair with PewDiePie soured in 2017, before he stopped pushing boundaries and signed a livestreaming deal in 2020 &lpar;Mark Bergen/The Verge&rpar;](http://www.techmeme.com/220906/p26#a220906p26)
- - [OWC buys trade-in company SellYourMac.com](https://appleinsider.com/articles/22/09/06/owc-buys-trade-in-company-sellyourmaccom?utm_medium=rss)
- - [Samsung’s Galaxy Tab S8 and S8 Plus are $100 off at Best Buy today](https://www.theverge.com/good-deals/2022/9/6/23339030/samsung-galaxy-tab-s8-logitech-gaming-headset-anker-deal-sale)<!-- TECH:END -->
+ - [New and returning customers can get $60 off a three-month Hulu with Live TV subscription](https://www.theverge.com/good-deals/2022/9/6/23339557/hulu-live-tv-subscription)
+ - [New charging cradle is Samsung’s answer to the Watch 5 Pro’s design flaw](https://www.androidauthority.com/watch-5-pro-charging-cradle-3205663/)
+ - [Pay just $399 for the OnePlus 9, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
