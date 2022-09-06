@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent plans to invest &amp;euro;200M in Ubisoft to increase its stake from 4.5% to 9.99%, alongside a further investment &amp;euro;100M in the company &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/220906/p22#a220906p22)
- - [Apple&#39;s privacy features enabled its ad sales to rise as Meta&#39;s fall](https://appleinsider.com/articles/22/09/06/apples-privacy-features-enabled-its-ad-sales-to-rise-to-half-of-metas?utm_medium=rss)
- - [HyperJuice 140W PD 3.1 USB-C Charger offers big charge in a small package](https://appleinsider.com/articles/22/09/06/hyperjuice-140w-pd-31-usb-c-charger-offers-big-charge-in-a-small-package?utm_medium=rss)<!-- TECH:END -->
+ - [Andreessen Horowitz wants to fix NFT copyright with its ‘Can’t Be Evil’ license](https://www.theverge.com/2022/9/6/23331591/andreessen-horowitz-a16z-nft-cant-be-evil-copyright-creative-commons-licenses)
+ - [OWC buys trade-in company SellYourMac.com](https://appleinsider.com/articles/22/09/06/owc-buys-trade-in-company-sellyourmaccom?utm_medium=rss)
+ - [Anker 30W Nano 3 USB-C charger is as colorful as the iPhone](https://appleinsider.com/articles/22/09/06/anker-30w-nano-3-usb-c-charger-is-as-colorful-as-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
