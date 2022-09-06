@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 9 coolest games of PAX West 2022](https://game-rant-2022.blogspot.com/2022/09/the-9-coolest-games-of-pax-west-2022.html)
- - [Wemade Updates Dragon Artifact for MIR4](https://game-rant-2022.blogspot.com/2022/09/wemade-updates-dragon-artifact-for-mir4.html)
- - [Review: Video Game Fables - Movies, Games and Technology](https://game-rant-2022.blogspot.com/2022/09/review-video-game-fables-movies-games.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 444 answer and hint: Tuesday, September 6](https://www.pcgamer.com/todays-wordle-444-answer-hint)
+ - [Librarian combines loves for comics, games](https://game-rant-2022.blogspot.com/2022/09/librarian-combines-loves-for-comics.html)
+ - [Plot holes introduced by the anime&#39;s filler arcs](https://game-rant-2022.blogspot.com/2022/09/plot-holes-introduced-by-animes-filler.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
