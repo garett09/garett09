@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony announced camouflaged PS5 accessories, but I can’t see them](https://www.theverge.com/2022/9/6/23339078/sony-gray-camouflage-ps5-controllers-accessories-dualsense-pulse-3d-console-covers-preorder)
- - [Signal names Google walkout organizer as new company president](https://www.theverge.com/2022/9/6/23339064/signal-president-meredith-whittaker-tech-critic-google)
- - [Snapdragon 4 Gen 1, 6 Gen 1 announced: Premium features trickle down](https://www.androidauthority.com/snapdragon-4-gen-1-snapdragon-6-gen-1-3205443/)<!-- TECH:END -->
+ - [Tencent plans to invest &amp;euro;200M in Ubisoft to increase its stake from 4.5% to 9.99%, alongside a further investment &amp;euro;100M in the company &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/220906/p22#a220906p22)
+ - [Apple&#39;s privacy features enabled its ad sales to rise as Meta&#39;s fall](https://appleinsider.com/articles/22/09/06/apples-privacy-features-enabled-its-ad-sales-to-rise-to-half-of-metas?utm_medium=rss)
+ - [HyperJuice 140W PD 3.1 USB-C Charger offers big charge in a small package](https://appleinsider.com/articles/22/09/06/hyperjuice-140w-pd-31-usb-c-charger-offers-big-charge-in-a-small-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
