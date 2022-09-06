@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New and returning customers can get $60 off a three-month Hulu with Live TV subscription](https://www.theverge.com/good-deals/2022/9/6/23339557/hulu-live-tv-subscription)
- - [New charging cradle is Samsung’s answer to the Watch 5 Pro’s design flaw](https://www.androidauthority.com/watch-5-pro-charging-cradle-3205663/)
- - [Pay just $399 for the OnePlus 9, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [AMC Plus’ Pantheon is a haunting  hyperproductivity nightmare that shouldn’t feel so real](https://www.theverge.com/2022/9/6/23333055/amc-pantheon-review)
+ - [Twitter tells judge that Peiter Zatko never raised concerns about spam until he filed his whistleblower complaint and &quot;started parroting&quot; Musk&#39;s allegations &lpar;Bloomberg&rpar;](http://www.techmeme.com/220906/p28#a220906p28)
+ - [Apple Podcasts Connect email misfire may hint at event surprise](https://appleinsider.com/articles/22/09/06/apple-podcasts-connect-email-misfire-may-hint-at-event-surprise?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
