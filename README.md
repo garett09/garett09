@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should&#39;ve asked for more](http://9gag.com/gag/aPZOb9w)
- - 🚯 [Elvish bathing water](http://9gag.com/gag/aNPyEOG)
- - 🚯 [They/Them is Right You Know](http://9gag.com/gag/aM4pM21)<!-- MEMES:END -->
+ - 🚖 [You know](http://9gag.com/gag/abgjNZb)
+ - 🚯 [Am I an old man?](http://9gag.com/gag/aggRzE6)
+ - 🚯 [Elvish bathing water](http://9gag.com/gag/aNPyEOG)<!-- MEMES:END -->
 
 --- 
 
