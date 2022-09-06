@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CVS Health plans to acquire Signify Health, which offers analytics and tech to help 10,000 doctors provide in-home care to 2.5M US patients, for around $8B &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/220906/p6#a220906p6)
  - [Samsung Galaxy Z Flip 3 starts getting One UI 4.1.1 based on Android 12L](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [Samsung Galaxy Z Fold 3 starts receiving the Android 12L update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [Leaked Apple Watch Pro case looks big at 49mm](https://www.theverge.com/2022/9/6/23338794/apple-watch-pro-size-comparison-leak)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 3 starts receiving the Android 12L update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
