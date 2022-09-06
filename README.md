@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass adds Disney Dreamlight Valley, Metal: Hellsinger, and more in September](https://www.polygon.com/23338990/xbox-game-pass-september-2022-new-games-leaving)
- - [Stephen King movies are practically impossible to get right and always will be](https://www.polygon.com/23329162/stephen-king-movies-shows-based-on-books-challenge)
- - [Disney Dreamlight Valley: Where to find and how to use all the Royal Tools](https://www.pcgamer.com/disney-dreamlight-valley-royal-tools)<!-- GAME:END -->
+ - [Welcome to Disney Dreamlight Valley!](https://news.xbox.com/en-us/2022/09/06/welcome-to-disney-dreamlight-valley/)
+ - [Kill Team: Into the Dark is just the beginning of an epic new storyline in the 40K universe](https://www.polygon.com/23331402/warhammer-40k-kill-team-into-the-dark-space-hulk-review)
+ - [Game Pass adds Disney Dreamlight Valley, Metal: Hellsinger, and more in September](https://www.polygon.com/23338990/xbox-game-pass-september-2022-new-games-leaving)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
