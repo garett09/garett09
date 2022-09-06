@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Shit his pants](http://9gag.com/gag/a9130Km)
- - 🚯 [Let\u2019s make this one happen](http://9gag.com/gag/aogB6eg)
- - 🚯 [She seems nice](http://9gag.com/gag/aGzP5RG)<!-- MEMES:END -->
+ - 🚯 [Let&#39;s support this man by any means necessary, for all the great memories he made for us over the years. He was and he always will be my favorite actor.](http://9gag.com/gag/amgDQ0V)
+ - 🚯 [It&#39;s happening!](http://9gag.com/gag/aKmbZyQ)<!-- MEMES:END -->
 
 --- 
 
