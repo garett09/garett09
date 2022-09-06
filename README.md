@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s next healthcare venture may be in Japan](https://www.theverge.com/2022/9/6/23338942/amazon-pharmacies-japan-medication-delivery)
  - [Brazil stops iPhone sales until Apple includes an AC charger](https://appleinsider.com/articles/22/09/06/brazil-stops-iphone-sales-until-apple-includes-an-ac-charger?utm_medium=rss)
- - [Apple&#39;s privacy features enabled its ad sales to rise as Meta&#39;s falls](https://appleinsider.com/articles/22/09/06/apples-privacy-features-enabled-its-ad-sales-to-rise-to-half-of-metas?utm_medium=rss)
- - [The US Commerce Department releases its plan for the $50B CHIPS Act: $28B for grants and loans, $10B for expanded manufacturing, and $11B for R&amp;D &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/220906/p18#a220906p18)<!-- TECH:END -->
+ - [Deals: snag the iPad mini 6 for $399 &lpar;$100 off&rpar; before the Apple Event](https://appleinsider.com/articles/22/09/06/deals-snag-the-ipad-mini-6-for-399-100-off-before-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
