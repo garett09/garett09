@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shit his pants](http://9gag.com/gag/a9130Km)
- - 🚯 [Let&#39;s support this man by any means necessary, for all the great memories he made for us over the years. He was and he always will be my favorite actor.](http://9gag.com/gag/amgDQ0V)
- - 🚯 [It&#39;s happening!](http://9gag.com/gag/aKmbZyQ)<!-- MEMES:END -->
+ - 🚖 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)
+ - 🚯 [Love physics...!!!](http://9gag.com/gag/amgDZpj)
+ - 🚯 [Nice](http://9gag.com/gag/aDDB557)<!-- MEMES:END -->
 
 --- 
 
