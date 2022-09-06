@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty much](http://9gag.com/gag/apge4PB)
+ - 🚖 [A friendly cat on a morning walk](http://9gag.com/gag/awzq6dB)
  - 🚯 [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)
- - 🚯 [Nuestros hermanos](http://9gag.com/gag/a0ZmB2B)<!-- MEMES:END -->
+ - 🚯 [That\u2019s what i like to see !](http://9gag.com/gag/aBnDpxz)<!-- MEMES:END -->
 
 --- 
 
