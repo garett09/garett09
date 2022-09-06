@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best way to wake up](http://9gag.com/gag/awzqE4R)
- - 🚯 [For the Europeans during the winter.](http://9gag.com/gag/aLvqx4M)
- - 🚯 [Inauguration of a bridge in the Democratic Republic of Congo. There is no denying that Africa is doing much better since decolonization...](http://9gag.com/gag/aegX8Bb)<!-- MEMES:END -->
+ - 🚖 [The British......................................................](http://9gag.com/gag/aDDBKjB)
+ - 🚯 [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)
+ - 🚯 [That&#39;s more impressive imo](http://9gag.com/gag/aPZOEnn)<!-- MEMES:END -->
 
 --- 
 
