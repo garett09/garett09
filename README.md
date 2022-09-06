@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss startup 21.co, which runs the 21Shares crypto investment platform, raised $25M led by Marshall Wace at a $2B post-money valuation &lpar;Reuters&rpar;](http://www.techmeme.com/220906/p15#a220906p15)
- - [A look at Russia&#39;s scramble to access semiconductors, transformers, and other high-tech parts for weapons, many of which are sanctioned, for the Ukraine war &lpar;Politico&rpar;](http://www.techmeme.com/220906/p14#a220906p14)
- - [Apple Fitness+ loses two prominent trainers](https://appleinsider.com/articles/22/09/06/apple-fitness-loses-two-prominent-trainers?utm_medium=rss)<!-- TECH:END -->
+ - [Brazil stops iPhone sales until Apple includes an AC charger](https://appleinsider.com/articles/22/09/06/brazil-stops-iphone-sales-until-apple-includes-an-ac-charger?utm_medium=rss)
+ - [Apple&#39;s privacy features enabled its ad sales to rise as Meta&#39;s falls](https://appleinsider.com/articles/22/09/06/apples-privacy-features-enabled-its-ad-sales-to-rise-to-half-of-metas?utm_medium=rss)
+ - [The US Commerce Department releases its plan for the $50B CHIPS Act: $28B for grants and loans, $10B for expanded manufacturing, and $11B for R&amp;D &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/220906/p18#a220906p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
