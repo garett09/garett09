@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don\u2019t care if its fake this is too good](http://9gag.com/gag/aYrz96w)
+ - 🚖 [Pretty much](http://9gag.com/gag/apge4PB)
  - 🚯 [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)
- - 🚯 [Pretty much](http://9gag.com/gag/apge4PB)<!-- MEMES:END -->
+ - 🚯 [Nuestros hermanos](http://9gag.com/gag/a0ZmB2B)<!-- MEMES:END -->
 
 --- 
 
