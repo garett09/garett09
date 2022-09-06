@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tough economy will hit Apple Watch more than iPhone 14, analyst says](https://appleinsider.com/articles/22/09/06/tough-economy-will-hit-apple-watch-more-than-iphone-14-analyst-says?utm_medium=rss)
- - [This Follicle-Hacking Drug Could One Day Treat Baldness](https://www.wired.com/story/new-baldness-treatments/)
- - [It’s Time to Get Real About TikTok’s Risks](https://www.wired.com/story/tiktok-nationa-security-threat-why/)<!-- TECH:END -->
+ - [Swiss startup 21.co, which runs the 21Shares crypto investment platform, raised $25M led by Marshall Wace at a $2B post-money valuation &lpar;Reuters&rpar;](http://www.techmeme.com/220906/p15#a220906p15)
+ - [A look at Russia&#39;s scramble to access semiconductors, transformers, and other high-tech parts for weapons, many of which are sanctioned, for the Ukraine war &lpar;Politico&rpar;](http://www.techmeme.com/220906/p14#a220906p14)
+ - [Apple Fitness+ loses two prominent trainers](https://appleinsider.com/articles/22/09/06/apple-fitness-loses-two-prominent-trainers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
