@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Omg. Stay still stay still stay still](http://9gag.com/gag/aze63Rm)
- - 🚯 [2022](http://9gag.com/gag/a81rOGQ)
- - 🚯 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t hate on him because he was the first to announce what pronouns he prefers](http://9gag.com/gag/aLvq7Kv)
+ - 🚯 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)
+ - 🚯 [Yo air-driver, take me to space. ,62 miles &lpar;100km&rpar; ain&#39;t that far.](http://9gag.com/gag/aQXYWqe)<!-- MEMES:END -->
 
 --- 
 
