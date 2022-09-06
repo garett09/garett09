@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Almost Feels Like A Finished Video Game](https://kotaku.com/battlefield-2042-bf2042-season-2-two-02-impressions-dlc-1849496591)
- - [Hate Forum Kiwi Farms Practically Dead As Owner Posts Conspiracy-Laden Rant](https://kotaku.com/kiwi-farms-dead-closed-rip-shut-down-russia-telegram-1849498373)
- - [In RPGs, I prefer reading books to slaying dragons](https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons)<!-- GAME:END -->
+ - [There was a TikTok Android app exploit that let hackers hijack accounts with one click](https://www.pcgamer.com/there-was-a-tiktok-android-app-exploit-that-let-hackers-hijack-accounts-with-one-click)
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 05&rpar;](https://news.xbox.com/en-us/2022/09/05/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-05/)
+ - [NASA&#39;s 3D space exploration tool Eyes on the Solar system now works in browser](https://www.pcgamer.com/nasas-3d-space-exploration-tool-eyes-on-the-solar-system-now-works-in-browser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
