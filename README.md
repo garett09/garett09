@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The British......................................................](http://9gag.com/gag/aDDBKjB)
- - 🚯 [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)
- - 🚯 [That&#39;s more impressive imo](http://9gag.com/gag/aPZOEnn)<!-- MEMES:END -->
+ - 🚯 [That&#39;s more impressive imo](http://9gag.com/gag/aPZOEnn)
+ - 🚯 [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)<!-- MEMES:END -->
 
 --- 
 
