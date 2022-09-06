@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoPro ‘Mini’ leaks in a nod to the Session cameras of yesterday](https://www.theverge.com/2022/9/6/23338926/gopro-hero11-black-mini-leaks-session-cameras-rumors)
- - [Amazon’s next healthcare venture may be in Japan](https://www.theverge.com/2022/9/6/23338942/amazon-pharmacies-japan-medication-delivery)
- - [Brazil stops iPhone sales until Apple includes an AC charger](https://appleinsider.com/articles/22/09/06/brazil-stops-iphone-sales-until-apple-includes-an-ac-charger?utm_medium=rss)<!-- TECH:END -->
+ - [Sony announced camouflaged PS5 accessories, but I can’t see them](https://www.theverge.com/2022/9/6/23339078/sony-gray-camouflage-ps5-controllers-accessories-dualsense-pulse-3d-console-covers-preorder)
+ - [Signal names Google walkout organizer as new company president](https://www.theverge.com/2022/9/6/23339064/signal-president-meredith-whittaker-tech-critic-google)
+ - [Snapdragon 4 Gen 1, 6 Gen 1 announced: Premium features trickle down](https://www.androidauthority.com/snapdragon-4-gen-1-snapdragon-6-gen-1-3205443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
