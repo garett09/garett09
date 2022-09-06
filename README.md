@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should&#39;ve asked for more](http://9gag.com/gag/aPZOb9w)
+ - 🚖 [Tuesday](http://9gag.com/gag/aBnDedP)
  - 🚯 [US of A](http://9gag.com/gag/aqGvE3P)
- - 🚯 [Love physics...!!!](http://9gag.com/gag/amgDZpj)<!-- MEMES:END -->
+ - 🚯 [He really do be wantsing it.](http://9gag.com/gag/aPZObvB)<!-- MEMES:END -->
 
 --- 
 
