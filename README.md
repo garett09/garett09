@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police forgets capsicum sprays are flammable](http://9gag.com/gag/abgjnEE)
+ - 🚖 [Interesting](http://9gag.com/gag/aLvqZMv)
  - 🚯 [Best way to wake up](http://9gag.com/gag/awzqE4R)
- - 🚯 [Interesting](http://9gag.com/gag/aLvqZMv)<!-- MEMES:END -->
+ - 🚯 [Inauguration of a bridge in the Democratic Republic of Congo. There is no denying that Africa is doing much better since decolonization...](http://9gag.com/gag/aegX8Bb)<!-- MEMES:END -->
 
 --- 
 
