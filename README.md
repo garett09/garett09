@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)
- - 🚯 [Love physics...!!!](http://9gag.com/gag/amgDZpj)
- - 🚯 [Nice](http://9gag.com/gag/aDDB557)<!-- MEMES:END -->
+ - 🚖 [Omg. Stay still stay still stay still](http://9gag.com/gag/aze63Rm)
+ - 🚯 [2022](http://9gag.com/gag/a81rOGQ)
+ - 🚯 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)<!-- MEMES:END -->
 
 --- 
 
