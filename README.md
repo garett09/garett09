@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Disney Dreamlight Valley!](https://news.xbox.com/en-us/2022/09/06/welcome-to-disney-dreamlight-valley/)
- - [Kill Team: Into the Dark is just the beginning of an epic new storyline in the 40K universe](https://www.polygon.com/23331402/warhammer-40k-kill-team-into-the-dark-space-hulk-review)
- - [Disney Dreamlight Valley: How to access the Star Path and claim your rewards](https://www.pcgamer.com/disney-dreamlight-valley-battle-pass-how-to)<!-- GAME:END -->
+ - [Sony releasing gray camo PS5 so you can joke about not having to see your PS5](https://www.polygon.com/23339096/ps5-gray-camouflage-console-dualsense-headset)
+ - [Revealing the evolution of the Firewall franchise for PlayStation VR2](https://blog.playstation.com/2022/09/06/revealing-the-evolution-of-the-firewall-franchise-for-playstation-vr2/)
+ - [If you thought the chip shortage was bad let me tell you about the capacitor plague](https://www.pcgamer.com/the-capacitor-plague-of-the-early-2000s)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
