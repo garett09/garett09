@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Newly formed natural spring](http://9gag.com/gag/a4op46w)
- - 🚯 [Innovation!](http://9gag.com/gag/az27L7q)
+ - 🚯 [God bless him](http://9gag.com/gag/aPg6vzw)
  - 🚯 [She&#39;d be a perfect Bean](http://9gag.com/gag/avQ20wE)<!-- MEMES:END -->
 
 --- 
