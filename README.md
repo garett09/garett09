@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Play Immortality with a controller](https://www.polygon.com/gaming/23341158/immortality-game-controller-horror-jump-scare-sam-barlow)
- - [Mangasplaining is the podcast that turned me into a big bad manga boy](https://www.polygon.com/23340915/mangasplaining-podcast-review)
- - [Twitch Is Removing Its ‘Host Mode’ Feature And Everyone’s Upset](https://kotaku.com/twitch-update-host-mode-raids-streaming-feature-removed-1849506776)<!-- GAME:END -->
+ - [Odd Taxi’s infectious opening is a hip-hop-infused journey into the mind of a grumpy walrus](https://www.polygon.com/23327683/odd-taxi-anime-opening)
+ - [The voice of GlaDOS says she dreams about murdering people](https://www.pcgamer.com/the-voice-of-glados-says-she-dreams-about-murdering-people)
+ - [Games Done Quick scraps Florida event, citing state’s COVID and anti-LGBTQ policies](https://www.polygon.com/23341281/awesome-games-done-quick-online-dates-florida-cancellation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
