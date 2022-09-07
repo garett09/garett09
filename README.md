@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how economy works](http://9gag.com/gag/aNwmmrK)
- - 🚯 [Whenthe](http://9gag.com/gag/awZN0oR)
- - 🚯 [LIVE action theatre](http://9gag.com/gag/aKE44OW)<!-- MEMES:END -->
+ - 🚖 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)
+ - 🚯 [Titanic 2022](http://9gag.com/gag/a7qvLqL)
+ - 🚯 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)<!-- MEMES:END -->
 
 --- 
 
