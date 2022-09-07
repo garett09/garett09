@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Pokémon Scarlet and Violet](https://www.polygon.com/pokemon/23149987/pokemon-scarlet-violet-nintendo-switch)
- - [Humankind&#39;s first big expansion is about winning friends and influencing people](https://www.pcgamer.com/humankinds-first-big-expansion-is-about-winning-friends-and-influencing-people)
- - [The Last of Us Part I: Photo Mode detailed](https://blog.playstation.com/2022/09/07/the-last-of-us-part-i-photo-mode-detailed/)<!-- GAME:END -->
+ - [Fuel the Music in Metal: Hellsinger](https://news.xbox.com/en-us/2022/09/07/fuel-the-music-in-metal-hellsinger/)
+ - [League of Legends’ Ruination novel is better than it has any right to be](https://www.polygon.com/reviews/23333430/league-of-legends-ruination-novel-review-viego-kalista-hecarim)
+ - [There’s a revised PS5 that’s lighter and more power efficient](https://www.polygon.com/23340800/new-ps5-model-1200-lighter-less-power)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
