@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are in a serious situation but your English makes you laugh](http://9gag.com/gag/aDYRAMw)
- - 🚯 [Because I can](http://9gag.com/gag/aeQKj6O)
- - 🚯 [My choice](http://9gag.com/gag/avQ20DX)<!-- MEMES:END -->
+ - 🚖 [She&#39;d be a perfect Bean](http://9gag.com/gag/avQ20wE)
+ - 🚯 [New UK health minister](http://9gag.com/gag/ay2E5mM)
+ - 🚯 [Titanic 2022](http://9gag.com/gag/a7qvLqL)<!-- MEMES:END -->
 
 --- 
 
