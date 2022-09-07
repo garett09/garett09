@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got me in the first half, not gonna lie.](http://9gag.com/gag/aA0BRdZ)
- - 🚯 [Today collected 32kg of garbage. Total is 1570kg.You ask me about help of my neighbors they not, only my wife. Others thought I\u2019m lunatic and made stupid things. Your Cleaning Lady&amp;Guy.](http://9gag.com/gag/a04vvYn)
- - 🚯 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)<!-- MEMES:END -->
+ - 🚖 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)
+ - 🚯 [I made this game by myself, and the 9GAG community has been so supportive. I want to return the favor by giving away Steam keys to people who comment. Game is Zapling Bygone, and it released last month.](http://9gag.com/gag/avQ2pK5)
+ - 🚯 [When you are in a serious situation but your English makes you laugh](http://9gag.com/gag/aDYRAMw)<!-- MEMES:END -->
 
 --- 
 
