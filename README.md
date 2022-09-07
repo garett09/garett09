@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at PC gaming-related cyberthreats from July 2021 to June 2022: 384K users encountered malware, mostly via Minecraft, Roblox, Need for Speed, GTA, and COD &lpar;Securelist&rpar;](http://www.techmeme.com/220907/p22#a220907p22)
- - [Nintendo announces a new Pokémon Scarlet and Violet-flavored Switch OLED](https://www.theverge.com/2022/9/7/23340762/pokemon-scarlet-violet-nintendo-switch-oled-special-edition-trailer)
- - [How OPPO’s upgraded OS will change how you use your smartphone](https://www.androidauthority.com/oppo-coloros-13-changes-3204005/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 Pro review: longer battery life, looks nice, and improved bezel, but misleading specs, quite thick, and uncomfortable for petite users &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220907/p25#a220907p25)
+ - [PSA: If you have an original Eero router, it’s time to upgrade](https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade)
+ - [Filing: Vermont says Celsius CEO Alex Mashinsky repeatedly misled investors about the lender&#39;s finances and used its own CEL token to bolster its balance sheet &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220907/p24#a220907p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
