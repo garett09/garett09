@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple drops the starting prices of the iPhone 12 and iPhone 13 mini to $599 and of the iPhone 13 to $699, and stops selling the iPhone 11 and the iPhone 12 mini &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220907/p44#a220907p44)
  - [Apple Watch Ultra is compatible with 45mm bands](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-is-compatible-with-45mm-bands?utm_medium=rss)
- - [Verizon&#39;s One Unlimited for iPhone plan includes Apple One subscription](https://appleinsider.com/articles/22/09/07/verizons-one-unlimited-for-iphone-plan-includes-apple-one-subscription?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s late 2022 iPhone lineup ranges from $429 to $1,599](https://appleinsider.com/articles/22/09/07/apples-late-2022-iphone-lineup-ranges-from-429-to-1599?utm_medium=rss)
+ - [UK Prime Minister Liz Truss confirms she wants to dilute the draft Online Safety Bill, focusing on protecting minors while making sure free speech is allowed &lpar;Financial Times&rpar;](http://www.techmeme.com/220907/p46#a220907p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
