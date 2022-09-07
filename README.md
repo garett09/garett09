@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5 Pro review: longer battery life, looks nice, and improved bezel, but misleading specs, quite thick, and uncomfortable for petite users &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220907/p25#a220907p25)
- - [PSA: If you have an original Eero router, it’s time to upgrade](https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade)
- - [Filing: Vermont says Celsius CEO Alex Mashinsky repeatedly misled investors about the lender&#39;s finances and used its own CEL token to bolster its balance sheet &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220907/p24#a220907p24)<!-- TECH:END -->
+ - [Former Conti ransomware gang members helped target Ukraine, Google says](https://www.theverge.com/2022/9/7/23341045/former-conti-ransomware-gang-target-ukraine-google)
+ - [Ahead of the US midterms, Twitter expands its Birdwatch fact-checking tool, adding 1,000 contributors weekly, each assigned a &quot;rating impact&quot; score out of five &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220907/p27#a220907p27)
+ - [Twitter is expanding its experimental community moderation system](https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
