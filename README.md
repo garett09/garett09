@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Dominion’s extended edition is half fluff, half repair job](https://www.polygon.com/23339787/jurassic-world-dominion-directors-cut-extended-version-changes-deleted-scenes)
- - [Xbox Update Might Finally Shut Up Annoying Background Chat Noises Like Eating, Music](https://kotaku.com/xbox-series-console-update-party-chat-noise-suppression-1849505695)
- - [Gungrave G.O.R.E. Launching Day One with Xbox Game Pass on November 22](https://news.xbox.com/en-us/2022/09/07/gungrave-gore-launching-day-one-with-game-pass/)<!-- GAME:END -->
+ - [Pokémon Go’s September Community Day is all about Roggenrola](https://www.polygon.com/23341177/pokemon-go-community-day-september-2022-date-roggenrola)
+ - [Rocket League Heads to Sovereign Heights for Season 8](https://news.xbox.com/en-us/2022/09/07/rocket-league-heads-to-sovereign-heights-for-season-8/)
+ - [The US puts an end to any plans Intel may have to make more chips in China](https://www.pcgamer.com/the-us-puts-an-end-to-any-plans-intel-may-have-to-make-more-chips-in-china)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
