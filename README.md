@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vodeo Games and its history-making union close up shop](https://www.polygon.com/23341542/vodeo-games-beast-breaker-union-closed)
- - [Splatoon 3 Review Round-Up: Nice New Polish, Same Old Gameplay](https://kotaku.com/splatoon-3-review-roundup-nintendo-switch-inkling-squid-1849507731)
- - [Twitch is eliminating Host Mode, leaving streamers and viewers baffled](https://www.polygon.com/23341398/twitch-remove-host-mode-autohost-suggested-channel-raid)<!-- GAME:END -->
+ - [AEW’s Messiness Is Making WWE Look Downright Tame](https://kotaku.com/all-elite-wrestling-aew-cm-punk-kenny-omega-young-bucks-1849508099)
+ - [This New Action RPG Is Practically Berserk Cosplay](https://kotaku.com/soulstice-berserk-modus-studios-xbox-series-x-ps5-pc-1849507710)
+ - [The console dads are bickering about Call of Duty](https://www.pcgamer.com/the-console-dads-are-bickering-about-call-of-duty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
