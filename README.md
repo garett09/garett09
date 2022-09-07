@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces a new Apple Watch SE](https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date)
- - [Apple launches new Apple Watch SE with focus on family sharing](https://appleinsider.com/articles/22/09/07/apple-launches-new-apple-watch-se-with-focus-on-family-sharing?utm_medium=rss)
- - [Apple Watch Series 8 debuts with new sensors &amp; focus on health](https://appleinsider.com/articles/22/09/07/apple-watch-series-8-debuts-with-new-sensors-focus-on-health?utm_medium=rss)<!-- TECH:END -->
+ - [Apple unveils iPhone 14 Pro &amp; iPhone 14 Pro Max with pill cutout](https://appleinsider.com/articles/22/09/07/apple-unveils-iphone-14-pro-iphone-14-pro-max-with-pill-cutout?utm_medium=rss)
+ - [Apple makes eSIM the only way to authenticate wireless carriers for the iPhone 14 series in the US, working with T-Mobile, Verizon, and AT&amp;T &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220907/p37#a220907p37)
+ - [Deals: save 84% on Microsoft Office for Mac](https://appleinsider.com/articles/22/09/07/deals-save-84-on-microsoft-office-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
