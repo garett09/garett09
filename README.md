@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never stick your dick in crazy...ever](http://9gag.com/gag/aggRMNr)
+ - 🚖 [Nuestros hermanos](http://9gag.com/gag/a0ZmB2B)
  - 🚯 [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)
- - 🚯 [I can&#39;t argue.](http://9gag.com/gag/aXr8Br6)<!-- MEMES:END -->
+ - 🚯 [Including Reels, Facebook shorts, Youtube Shorts](http://9gag.com/gag/avAbMmd)<!-- MEMES:END -->
 
 --- 
 
