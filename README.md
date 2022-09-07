@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sydney-based Morse Micro, a fabless developer of Wi-Fi chips, raised a $140M Series B led by Japanese SoC developer MegaChips &lpar;Richard Chirgwin/iTnews&rpar;](http://www.techmeme.com/220907/p8#a220907p8)
- - [Daily Authority: 🎁 Unwrap new Google hardware](https://www.androidauthority.com/daily-authority-september-7-2022-3205990/)
- - [OnePlus could reveal a Snapdragon 8 Gen 2 phone at the end of the year](https://www.androidauthority.com/oneplus-snapdragon-8-gen-2-3206019/)<!-- TECH:END -->
+ - [How Minecraft&#39;s ban on NFTs impacted the play-to-earn Critterz NFT community, some of whom bought in for thousands of dollars and earned hundreds per month &lpar;Neirin Gray Desai/Rest of World&rpar;](http://www.techmeme.com/220907/p12#a220907p12)
+ - [How Drought and War Are Really Affecting the Global Food Supply](https://www.wired.com/story/how-drought-and-war-are-really-affecting-the-global-food-supply/)
+ - [Banning Phones in Class? Not So Fast](https://www.wired.com/story/cell-phone-bans-school/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
