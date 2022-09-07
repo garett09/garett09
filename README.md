@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
- - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)
- - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)<!-- GAME:END -->
+ - [The best full-tower case in 2022](https://www.pcgamer.com/best-full-tower-case)
+ - [What is the Iron Banner daily challenge in Destiny 2?](https://www.pcgamer.com/destiny-2-iron-banner-daily-challenge)
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
