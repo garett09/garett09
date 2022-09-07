@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFT Psycho Advocates Turning Players From &#39;Developing&#39; Nations Into NPCs](https://kotaku.com/nft-crypto-blockchain-slavery-play-to-earn-minecraft-1849503776)
- - [The city builder where you build on a giant animal&#39;s back has a release date](https://www.pcgamer.com/the-city-builder-where-you-build-on-a-giant-animals-back-has-a-release-date)
- - [Undertale successor Deltarune won&#39;t get a new chapter in 2022](https://www.pcgamer.com/undertale-successor-deltarune-wont-get-a-new-chapter-in-2022)<!-- GAME:END -->
+ - [Essential Google Chrome update thwarts security vulnerability](https://www.pcgamer.com/essential-google-chrome-update-thwarts-security-vulnerability)
+ - [Grab our favourite gaming keyboard of the year before it&#39;s out of stock](https://www.pcgamer.com/grab-our-favourite-gaming-keyboard-of-the-year-before-its-out-of-stock)
+ - [Intel&#39;s Core i5 13400 is shaping up to be a killer budget gaming chip](https://www.pcgamer.com/intels-core-i5-13400-is-shaping-up-to-be-a-killer-budget-gaming-chip)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
