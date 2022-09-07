@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fuel the Music in Metal: Hellsinger](https://news.xbox.com/en-us/2022/09/07/fuel-the-music-in-metal-hellsinger/)
- - [League of Legends’ Ruination novel is better than it has any right to be](https://www.polygon.com/reviews/23333430/league-of-legends-ruination-novel-review-viego-kalista-hecarim)
- - [There’s a revised PS5 that’s lighter and more power efficient](https://www.polygon.com/23340800/new-ps5-model-1200-lighter-less-power)<!-- GAME:END -->
+ - [Jurassic World Dominion’s extended edition is half fluff, half repair job](https://www.polygon.com/23339787/jurassic-world-dominion-directors-cut-extended-version-changes-deleted-scenes)
+ - [Xbox Update Might Finally Shut Up Annoying Background Chat Noises Like Eating, Music](https://kotaku.com/xbox-series-console-update-party-chat-noise-suppression-1849505695)
+ - [Gungrave G.O.R.E. Launching Day One with Xbox Game Pass on November 22](https://news.xbox.com/en-us/2022/09/07/gungrave-gore-launching-day-one-with-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
