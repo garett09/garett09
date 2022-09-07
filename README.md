@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Season of Plunder exotic weapons, raid chests and more](https://www.pcgamer.com/destiny-2-season-of-plunder-exotic-weapons-raid-chests-and-more)
- - [Tencent&#39;s latest deal will help Ubisoft fend off takeover bids from larger corporations—like Tencent](https://www.pcgamer.com/tencents-latest-deal-will-help-ubisoft-fend-off-takeover-bids-from-larger-corporationslike-tencent)
- - [AI image generator births the horrific &#39;first cryptid of the latent space&#39;](https://www.pcgamer.com/ai-image-generaotr-loab-cryptid-supercomposite)<!-- GAME:END -->
+ - [This Twitch Streamer Just Became The First Person To Beat Every N64 Game](https://kotaku.com/nintendo-64-twitch-youtube-mario-zelda-acegamersam-1849504688)
+ - [Pokémon Scarlet and Violet adds 2 new version-exclusive Pokémon, 1 very cute crab](https://www.polygon.com/23340721/pokemon-scarlet-violet-new-pokemon-armarouge-ceruledge-klawf)
+ - [Pokémon Scarlet And Violet’s Villains Are The Bad School Kids, New Switch Hardware Coming](https://kotaku.com/pokemon-scarlet-violet-team-star-mela-klawf-switch-oled-1849502947)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
