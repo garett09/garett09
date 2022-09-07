@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Twitch Streamer Just Became The First Person To Beat Every N64 Game](https://kotaku.com/nintendo-64-twitch-youtube-mario-zelda-acegamersam-1849504688)
- - [Pokémon Scarlet and Violet adds 2 new version-exclusive Pokémon, 1 very cute crab](https://www.polygon.com/23340721/pokemon-scarlet-violet-new-pokemon-armarouge-ceruledge-klawf)
- - [Pokémon Scarlet And Violet’s Villains Are The Bad School Kids, New Switch Hardware Coming](https://kotaku.com/pokemon-scarlet-violet-team-star-mela-klawf-switch-oled-1849502947)<!-- GAME:END -->
+ - [Everything we know about Pokémon Scarlet and Violet](https://www.polygon.com/pokemon/23149987/pokemon-scarlet-violet-nintendo-switch)
+ - [Humankind&#39;s first big expansion is about winning friends and influencing people](https://www.pcgamer.com/humankinds-first-big-expansion-is-about-winning-friends-and-influencing-people)
+ - [The Last of Us Part I: Photo Mode detailed](https://blog.playstation.com/2022/09/07/the-last-of-us-part-i-photo-mode-detailed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
