@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, Cyberpunk 2077&#39;s broken police will get a &#39;complete overhaul&#39;](https://www.pcgamer.com/finally-cyberpunk-2077s-broken-police-will-get-a-complete-overhaul)
- - [NFT expert imagines a hopeful future where poor people serve as &#39;real-life NPCs&#39; in games](https://www.pcgamer.com/nft-expert-imagines-a-hopeful-future-where-poor-people-serve-as-real-life-npcs-in-games)
- - [PAX West Matt Booty Recap](https://news.xbox.com/en-us/2022/09/06/pax-west-matt-booty-recap/)<!-- GAME:END -->
+ - [Please Appreciate The Graphics On The Latest Witcher Game](https://kotaku.com/the-witcher-3-new-game-release-announced-mobile-2077-1849503437)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Elden Ring multiplayer mod guide: How to play in seamless co-op](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
