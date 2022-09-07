@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does that mean God Loves China with its own space station?](http://9gag.com/gag/aegXo3Q)
- - 🚯 [The good old days](http://9gag.com/gag/aze6Nzp)
- - 🚯 [Opossums are your friend &lt;3](http://9gag.com/gag/aGzPPe0)<!-- MEMES:END -->
+ - 🚖 [I bet her name was Karen.](http://9gag.com/gag/a41Me61)
+ - 🚯 [Portugal=Shithole](http://9gag.com/gag/a61Wv8R)
+ - 🚯 [Meanwhile in Berlin](http://9gag.com/gag/a913QYD)<!-- MEMES:END -->
 
 --- 
 
