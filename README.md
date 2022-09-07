@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best full-tower case in 2022](https://www.pcgamer.com/best-full-tower-case)
- - [What is the Iron Banner daily challenge in Destiny 2?](https://www.pcgamer.com/destiny-2-iron-banner-daily-challenge)
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
+ - [Destiny 2: Season of Plunder exotic weapons, raid chests and more](https://www.pcgamer.com/destiny-2-season-of-plunder-exotic-weapons-raid-chests-and-more)
+ - [Tencent&#39;s latest deal will help Ubisoft fend off takeover bids from larger corporations—like Tencent](https://www.pcgamer.com/tencents-latest-deal-will-help-ubisoft-fend-off-takeover-bids-from-larger-corporationslike-tencent)
+ - [AI image generator births the horrific &#39;first cryptid of the latent space&#39;](https://www.pcgamer.com/ai-image-generaotr-loab-cryptid-supercomposite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
