@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 14 won’t have a SIM tray](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)
- - [How to preorder the Apple Watch Series 8, Watch Ultra, and Watch SE](https://www.theverge.com/23322152/apple-watch-series-8-ultra-se-preorder-buy-price-release-date)
- - [Apple ditches physical SIM cards from all US iPhone 14 models](https://appleinsider.com/articles/22/09/07/apple-ditches-physical-sim-cards-from-all-us-iphone-14-models?utm_medium=rss)<!-- TECH:END -->
+ - [Apple drops the starting prices of the iPhone 12 and iPhone 13 mini to $599 and of the iPhone 13 to $699, and stops selling the iPhone 11 and the iPhone 12 mini &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220907/p44#a220907p44)
+ - [Apple Watch Ultra is compatible with 45mm bands](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-is-compatible-with-45mm-bands?utm_medium=rss)
+ - [Verizon&#39;s One Unlimited for iPhone plan includes Apple One subscription](https://appleinsider.com/articles/22/09/07/verizons-one-unlimited-for-iphone-plan-includes-apple-one-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
