@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go’s September Community Day is all about Roggenrola](https://www.polygon.com/23341177/pokemon-go-community-day-september-2022-date-roggenrola)
- - [Rocket League Heads to Sovereign Heights for Season 8](https://news.xbox.com/en-us/2022/09/07/rocket-league-heads-to-sovereign-heights-for-season-8/)
- - [The US puts an end to any plans Intel may have to make more chips in China](https://www.pcgamer.com/the-us-puts-an-end-to-any-plans-intel-may-have-to-make-more-chips-in-china)<!-- GAME:END -->
+ - [PSA: Play Immortality with a controller](https://www.polygon.com/gaming/23341158/immortality-game-controller-horror-jump-scare-sam-barlow)
+ - [Mangasplaining is the podcast that turned me into a big bad manga boy](https://www.polygon.com/23340915/mangasplaining-podcast-review)
+ - [Twitch Is Removing Its ‘Host Mode’ Feature And Everyone’s Upset](https://kotaku.com/twitch-update-host-mode-raids-streaming-feature-removed-1849506776)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
