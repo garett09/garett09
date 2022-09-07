@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As gambling becomes legitimized across the US, a look at the rise of gambling on smartphones, leading some to financial catastrophe and addiction &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/220907/p15#a220907p15)
- - [How to watch Apple&#39;s iPhone 14 launch event](https://appleinsider.com/inside/iphone-14/tips/how-to-watch-apples-iphone-14-launch-event?utm_medium=rss)
- - [Octopus Energy Is the Answer to a Broken, Inefficient Market](https://www.wired.com/story/octopus-energy-rave/)<!-- TECH:END -->
+ - [Tesla Model Y earns five-star rating from European safety agency](https://www.theverge.com/2022/9/7/23340725/tesla-model-y-five-star-safety-euro-ncap)
+ - [QA Wolf, a cloud-based service to detect software bugs, exits stealth with $20M from Inspired Capital, Thiel Capital, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220907/p20#a220907p20)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Sep. 07&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-07-2022-3205320/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
