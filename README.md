@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils iPhone 14 Pro &amp; iPhone 14 Pro Max with pill cutout](https://appleinsider.com/articles/22/09/07/apple-unveils-iphone-14-pro-iphone-14-pro-max-with-pill-cutout?utm_medium=rss)
- - [Apple makes eSIM the only way to authenticate wireless carriers for the iPhone 14 series in the US, working with T-Mobile, Verizon, and AT&amp;T &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220907/p37#a220907p37)
- - [Deals: save 84% on Microsoft Office for Mac](https://appleinsider.com/articles/22/09/07/deals-save-84-on-microsoft-office-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [The iPhone 14 won’t have a SIM tray](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)
+ - [How to preorder the Apple Watch Series 8, Watch Ultra, and Watch SE](https://www.theverge.com/23322152/apple-watch-series-8-ultra-se-preorder-buy-price-release-date)
+ - [Apple ditches physical SIM cards from all US iPhone 14 models](https://appleinsider.com/articles/22/09/07/apple-ditches-physical-sim-cards-from-all-us-iphone-14-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
