@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s how I see it](http://9gag.com/gag/aE8eeNG)
- - 🚯 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)
- - 🚯 [Do you watch anime ?](http://9gag.com/gag/aKmbb8Z)<!-- MEMES:END -->
+ - 🚖 [We require more minerals](http://9gag.com/gag/a913366)
+ - 🚯 [`Cat Knight`, by AI](http://9gag.com/gag/aeQKKzB)
+ - 🚯 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)<!-- MEMES:END -->
 
 --- 
 
