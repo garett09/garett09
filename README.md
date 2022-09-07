@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)
- - 🚯 [I made this game by myself, and the 9GAG community has been so supportive. I want to return the favor by giving away Steam keys to people who comment. Game is Zapling Bygone, and it released last month.](http://9gag.com/gag/avQ2pK5)
- - 🚯 [When you are in a serious situation but your English makes you laugh](http://9gag.com/gag/aDYRAMw)<!-- MEMES:END -->
+ - 🚖 [When you are in a serious situation but your English makes you laugh](http://9gag.com/gag/aDYRAMw)
+ - 🚯 [Bloody.....](http://9gag.com/gag/aWGBBwd)
+ - 🚯 [I made this game by myself, and the 9GAG community has been so supportive. I want to return the favor by giving away Steam keys to people who comment. Game is Zapling Bygone, and it released last month.](http://9gag.com/gag/avQ2pK5)<!-- MEMES:END -->
 
 --- 
 
