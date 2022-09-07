@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lucky mothertrucker](http://9gag.com/gag/avQ2p7Z)
- - 🚯 [I could do that](http://9gag.com/gag/aeQKKDp)
- - 🚯 [This is how economy works](http://9gag.com/gag/aNwmmrK)<!-- MEMES:END -->
+ - 🚖 [This is how economy works](http://9gag.com/gag/aNwmmrK)
+ - 🚯 [Whenthe](http://9gag.com/gag/awZN0oR)
+ - 🚯 [LIVE action theatre](http://9gag.com/gag/aKE44OW)<!-- MEMES:END -->
 
 --- 
 
