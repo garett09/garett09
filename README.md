@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the iPhone 14 livestream event right here](https://www.androidauthority.com/iphone-14-livestream-3205630/)
- - [Google Maps can now tune its eco-friendly navigation for gas, diesel, and electrified vehicles](https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types)
- - [State Farm will invest $1.2B in ADT for a ~15% stake, and $300M more for product innovation; Google invests $150M toward new products, pledges $150M more &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p34#a220906p34)<!-- TECH:END -->
+ - [Here is the confirmed Pixel 7 launch date and other info](https://www.androidauthority.com/google-pixel-7-launch-3205657/)
+ - [Samsung Galaxy S20 FE gets September 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
+ - [US Senator Amy Klobuchar, the AICO&#39;s primary sponsor, says an &quot;incredible onslaught of money&quot; to fund ads against the bill has been an obstacle to passing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/220907/p3#a220907p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
