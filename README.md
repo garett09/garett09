@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Odd Taxi’s infectious opening is a hip-hop-infused journey into the mind of a grumpy walrus](https://www.polygon.com/23327683/odd-taxi-anime-opening)
- - [The voice of GlaDOS says she dreams about murdering people](https://www.pcgamer.com/the-voice-of-glados-says-she-dreams-about-murdering-people)
- - [Games Done Quick scraps Florida event, citing state’s COVID and anti-LGBTQ policies](https://www.polygon.com/23341281/awesome-games-done-quick-online-dates-florida-cancellation)<!-- GAME:END -->
+ - [Vodeo Games and its history-making union close up shop](https://www.polygon.com/23341542/vodeo-games-beast-breaker-union-closed)
+ - [Splatoon 3 Review Round-Up: Nice New Polish, Same Old Gameplay](https://kotaku.com/splatoon-3-review-roundup-nintendo-switch-inkling-squid-1849507731)
+ - [Twitch is eliminating Host Mode, leaving streamers and viewers baffled](https://www.polygon.com/23341398/twitch-remove-host-mode-autohost-suggested-channel-raid)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
