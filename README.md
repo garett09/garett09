@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nuestros hermanos](http://9gag.com/gag/a0ZmB2B)
- - 🚯 [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)
- - 🚯 [Including Reels, Facebook shorts, Youtube Shorts](http://9gag.com/gag/avAbMmd)<!-- MEMES:END -->
+ - 🚖 [Does that mean God Loves China with its own space station?](http://9gag.com/gag/aegXo3Q)
+ - 🚯 [The good old days](http://9gag.com/gag/aze6Nzp)
+ - 🚯 [Opossums are your friend &lt;3](http://9gag.com/gag/aGzPPe0)<!-- MEMES:END -->
 
 --- 
 
