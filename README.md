@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Model Y earns five-star rating from European safety agency](https://www.theverge.com/2022/9/7/23340725/tesla-model-y-five-star-safety-euro-ncap)
- - [QA Wolf, a cloud-based service to detect software bugs, exits stealth with $20M from Inspired Capital, Thiel Capital, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220907/p20#a220907p20)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Sep. 07&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-07-2022-3205320/)<!-- TECH:END -->
+ - [A look at PC gaming-related cyberthreats from July 2021 to June 2022: 384K users encountered malware, mostly via Minecraft, Roblox, Need for Speed, GTA, and COD &lpar;Securelist&rpar;](http://www.techmeme.com/220907/p22#a220907p22)
+ - [Nintendo announces a new Pokémon Scarlet and Violet-flavored Switch OLED](https://www.theverge.com/2022/9/7/23340762/pokemon-scarlet-violet-nintendo-switch-oled-special-edition-trailer)
+ - [How OPPO’s upgraded OS will change how you use your smartphone](https://www.androidauthority.com/oppo-coloros-13-changes-3204005/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
