@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Podcasts Connect email misfire may hint at event surprise](https://appleinsider.com/articles/22/09/06/apple-podcasts-connect-email-misfire-may-hint-at-event-surprise?utm_medium=rss)
- - [Sundar Pichai, live at the Code Conference](https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog)
- - [In a text exchange on May 8, Elon Musk suggested slowing down the Twitter deal ahead of a speech by Putin to see if &quot;we&#39;re heading into World War III&quot; &lpar;Kevin T. Dugan/New York Magazine&rpar;](http://www.techmeme.com/220906/p31#a220906p31)<!-- TECH:END -->
+ - [Watch the iPhone 14 livestream event right here](https://www.androidauthority.com/iphone-14-livestream-3205630/)
+ - [Google Maps can now tune its eco-friendly navigation for gas, diesel, and electrified vehicles](https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types)
+ - [State Farm will invest $1.2B in ADT for a ~15% stake, and $300M more for product innovation; Google invests $150M toward new products, pledges $150M more &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p34#a220906p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
