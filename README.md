@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Minecraft&#39;s ban on NFTs impacted the play-to-earn Critterz NFT community, some of whom bought in for thousands of dollars and earned hundreds per month &lpar;Neirin Gray Desai/Rest of World&rpar;](http://www.techmeme.com/220907/p12#a220907p12)
- - [How Drought and War Are Really Affecting the Global Food Supply](https://www.wired.com/story/how-drought-and-war-are-really-affecting-the-global-food-supply/)
- - [Banning Phones in Class? Not So Fast](https://www.wired.com/story/cell-phone-bans-school/)<!-- TECH:END -->
+ - [As gambling becomes legitimized across the US, a look at the rise of gambling on smartphones, leading some to financial catastrophe and addiction &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/220907/p15#a220907p15)
+ - [How to watch Apple&#39;s iPhone 14 launch event](https://appleinsider.com/inside/iphone-14/tips/how-to-watch-apples-iphone-14-launch-event?utm_medium=rss)
+ - [Octopus Energy Is the Answer to a Broken, Inefficient Market](https://www.wired.com/story/octopus-energy-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
