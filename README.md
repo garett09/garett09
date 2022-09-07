@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Conti ransomware gang members helped target Ukraine, Google says](https://www.theverge.com/2022/9/7/23341045/former-conti-ransomware-gang-target-ukraine-google)
- - [Ahead of the US midterms, Twitter expands its Birdwatch fact-checking tool, adding 1,000 contributors weekly, each assigned a &quot;rating impact&quot; score out of five &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220907/p27#a220907p27)
- - [Twitter is expanding its experimental community moderation system](https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon)<!-- TECH:END -->
+ - [Apple announces a new Apple Watch SE](https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date)
+ - [Apple launches new Apple Watch SE with focus on family sharing](https://appleinsider.com/articles/22/09/07/apple-launches-new-apple-watch-se-with-focus-on-family-sharing?utm_medium=rss)
+ - [Apple Watch Series 8 debuts with new sensors &amp; focus on health](https://appleinsider.com/articles/22/09/07/apple-watch-series-8-debuts-with-new-sensors-focus-on-health?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
