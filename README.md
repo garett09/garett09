@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiter removes fish bones.](http://9gag.com/gag/a0Zmm0Q)
- - 🚯 [Do you watch anime ?](http://9gag.com/gag/aKmbb8Z)
- - 🚯 [I like the idea of small scale political and economic experiments.](http://9gag.com/gag/awzqRZ8)<!-- MEMES:END -->
+ - 🚖 [I like the idea of small scale political and economic experiments.](http://9gag.com/gag/awzqRZ8)
+ - 🚯 [Opossums are your friend &lt;3](http://9gag.com/gag/aGzPPe0)
+ - 🚯 [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)<!-- MEMES:END -->
 
 --- 
 
