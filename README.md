@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here is the confirmed Pixel 7 launch date and other info](https://www.androidauthority.com/google-pixel-7-launch-3205657/)
- - [Samsung Galaxy S20 FE gets September 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [US Senator Amy Klobuchar, the AICO&#39;s primary sponsor, says an &quot;incredible onslaught of money&quot; to fund ads against the bill has been an obstacle to passing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/220907/p3#a220907p3)<!-- TECH:END -->
+ - [Google is also launching new smart home hardware on October 6](https://www.androidauthority.com/google-nest-launch-october-6-3206013/)
+ - [As Spotify and YouTube&#39;s rivalry heats up, some worry the podcasting industry&#39;s pivot to video could risk ruining what makes the audio format so satisfying &lpar;Laurie Clarke/The Guardian&rpar;](http://www.techmeme.com/220907/p6#a220907p6)
+ - [A cheaper Chromecast for Google TV model could be around the corner](https://www.androidauthority.com/cheaper-chromecast-for-google-tv-3206003/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
