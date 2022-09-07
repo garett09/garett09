@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is also launching new smart home hardware on October 6](https://www.androidauthority.com/google-nest-launch-october-6-3206013/)
- - [As Spotify and YouTube&#39;s rivalry heats up, some worry the podcasting industry&#39;s pivot to video could risk ruining what makes the audio format so satisfying &lpar;Laurie Clarke/The Guardian&rpar;](http://www.techmeme.com/220907/p6#a220907p6)
- - [A cheaper Chromecast for Google TV model could be around the corner](https://www.androidauthority.com/cheaper-chromecast-for-google-tv-3206003/)<!-- TECH:END -->
+ - [How to ensure that headphones last as long as possible](https://www.androidauthority.com/prolong-headphones-live-3203439/)
+ - [Google announces October 6th event to launch the Pixel Watch, Pixel 7, and new Nest devices](https://www.theverge.com/2022/9/6/23339303/pixel-7-pro-pixel-watch-made-by-google-hardware-event-october-6th)
+ - [Google is also launching new smart home hardware on October 6](https://www.androidauthority.com/google-nest-launch-october-6-3206013/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
