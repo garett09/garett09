@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We require more minerals](http://9gag.com/gag/a913366)
- - 🚯 [`Cat Knight`, by AI](http://9gag.com/gag/aeQKKzB)
- - 🚯 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)<!-- MEMES:END -->
+ - 🚖 [Lucky mothertrucker](http://9gag.com/gag/avQ2p7Z)
+ - 🚯 [I could do that](http://9gag.com/gag/aeQKKDp)
+ - 🚯 [This is how economy works](http://9gag.com/gag/aNwmmrK)<!-- MEMES:END -->
 
 --- 
 
