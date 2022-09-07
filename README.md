@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)
- - 🚯 [Titanic 2022](http://9gag.com/gag/a7qvLqL)
- - 🚯 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)<!-- MEMES:END -->
+ - 🚖 [Got me in the first half, not gonna lie.](http://9gag.com/gag/aA0BRdZ)
+ - 🚯 [Today collected 32kg of garbage. Total is 1570kg.You ask me about help of my neighbors they not, only my wife. Others thought I\u2019m lunatic and made stupid things. Your Cleaning Lady&amp;Guy.](http://9gag.com/gag/a04vvYn)
+ - 🚯 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)<!-- MEMES:END -->
 
 --- 
 
