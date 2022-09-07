@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bet her name was Karen.](http://9gag.com/gag/a41Me61)
- - 🚯 [Portugal=Shithole](http://9gag.com/gag/a61Wv8R)
- - 🚯 [Meanwhile in Berlin](http://9gag.com/gag/a913QYD)<!-- MEMES:END -->
+ - 🚖 [Waiter removes fish bones.](http://9gag.com/gag/a0Zmm0Q)
+ - 🚯 [Do you watch anime ?](http://9gag.com/gag/aKmbb8Z)
+ - 🚯 [I like the idea of small scale political and economic experiments.](http://9gag.com/gag/awzqRZ8)<!-- MEMES:END -->
 
 --- 
 
