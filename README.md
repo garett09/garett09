@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms the Pixel 7 and Pixel 7 Pro will run on a new &quot;Tensor G2&quot; SoC &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220906/p30#a220906p30)
- - [T-Mobile 5G Home Internet is now available in parts of NYC, Boston, and Philadelphia](https://www.theverge.com/2022/9/6/23339117/t-mobile-5g-home-internet-north-east-new-york-new-jersey)
- - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Podcasts Connect email misfire may hint at event surprise](https://appleinsider.com/articles/22/09/06/apple-podcasts-connect-email-misfire-may-hint-at-event-surprise?utm_medium=rss)
+ - [Sundar Pichai, live at the Code Conference](https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog)
+ - [In a text exchange on May 8, Elon Musk suggested slowing down the Twitter deal ahead of a speech by Putin to see if &quot;we&#39;re heading into World War III&quot; &lpar;Kevin T. Dugan/New York Magazine&rpar;](http://www.techmeme.com/220906/p31#a220906p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
