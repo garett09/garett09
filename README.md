@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Essential Google Chrome update thwarts security vulnerability](https://www.pcgamer.com/essential-google-chrome-update-thwarts-security-vulnerability)
- - [Grab our favourite gaming keyboard of the year before it&#39;s out of stock](https://www.pcgamer.com/grab-our-favourite-gaming-keyboard-of-the-year-before-its-out-of-stock)
- - [Intel&#39;s Core i5 13400 is shaping up to be a killer budget gaming chip](https://www.pcgamer.com/intels-core-i5-13400-is-shaping-up-to-be-a-killer-budget-gaming-chip)<!-- GAME:END -->
+ - [Today&#39;s Wordle 445 answer and hint: Wednesday, September 7](https://www.pcgamer.com/todays-wordle-445-answer-hint)
+ - [This New Soulslike Proves Easy Mode Isn&#39;t Just Possible, It Makes Everything Better](https://kotaku.com/steelrising-spiders-soulslike-dark-souls-elden-ring-1849487023)
+ - [Essential Google Chrome update thwarts security vulnerability](https://www.pcgamer.com/essential-google-chrome-update-thwarts-security-vulnerability)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
