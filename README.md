@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bear Grylls](http://9gag.com/gag/a3ZvLM5)
- - 🚯 [Somebody](http://9gag.com/gag/a04vYoO)
- - 🚯 [Karma hits hard](http://9gag.com/gag/adPyYbM)<!-- MEMES:END -->
+ - 🚖 [Somebody](http://9gag.com/gag/a04vYoO)
+ - 🚯 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
+ - 🚯 [1/1](http://9gag.com/gag/aVbjX7v)<!-- MEMES:END -->
 
 --- 
 
