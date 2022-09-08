@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moment launches new lens-mounting cases for iPhone 14](https://appleinsider.com/articles/22/09/08/moment-launches-new-lens-mounting-cases-for-iphone-14?utm_medium=rss)
- - [iOS 16 will help you identify counterfeit AirPods](https://appleinsider.com/articles/22/09/08/ios-16-will-help-you-identify-counterfeit-airpods?utm_medium=rss)
- - [Apple’s low power mode isn’t just for the new watches](https://www.theverge.com/2022/9/7/23342001/apple-watch-low-power-mode-series-4-watchos-9)<!-- TECH:END -->
+ - [Tim Cook says ‘buy your mom an iPhone’ if you want to end green bubbles](https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility)
+ - [Steve Jobs’ friends and family just launched an archive to celebrate his life](https://www.theverge.com/2022/9/7/23342222/steve-jobs-archive-website-launch)
+ - [Apple&#39;s iPhone 14 Lineup Has a Notable Improvement: Longer Battery Life     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-lineup-has-a-notable-improvement-longer-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
