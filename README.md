@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Community Labs, which is building crypto projects on blockchain data storage platform Arweave, has raised $30M led by Lightspeed Venture Partners &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220908/p33#a220908p33)
- - [Nearby Share will soon start working automatically when sharing with yourself](https://www.androidauthority.com/nearby-share-automatically-share-3206763/)
- - [New accessibility and sharing features are coming to Android devices](https://www.theverge.com/2022/9/8/23342451/android-new-accessibility-sharing-features-tablets-emoji)<!-- TECH:END -->
+ - [PopSockets launches iPhone 14 cases -- made out of plants](https://appleinsider.com/articles/22/09/08/popsockets-launches-iphone-14-cases----made-out-of-plants?utm_medium=rss)
+ - [Amazon, Nike, Best Buy, Twitch, and other big brands removed the ability to sign in with Facebook in recent years, some executives say due to privacy concerns &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220908/p36#a220908p36)
+ - [Some Withings products are about to get more expensive](https://www.theverge.com/2022/9/8/23342804/withings-price-increase-expensive-health-smart-scales-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
