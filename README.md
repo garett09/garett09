@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Queen Elizabeth II](http://9gag.com/gag/a6qrMG9)
+ - 🚖 [God save the King](http://9gag.com/gag/aZDqmA3)
  - 🚯 [The Queen when Meghan Markle comes to say her goodbyes](http://9gag.com/gag/aMEe9oV)
- - 🚯 [Prince Charles meanwhile](http://9gag.com/gag/aZDqm5n)<!-- MEMES:END -->
+ - 🚯 [They are together again](http://9gag.com/gag/aNwmd7r)<!-- MEMES:END -->
 
 --- 
 
