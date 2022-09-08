@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google signed News Showcase deals with Bloomberg Media and The Texas Tribune, but the feature is late to launch as other US outlets balk at the terms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220908/p7#a220908p7)
- - [Compared: Apple Watch Ultra vs. Apple Watch Series 8 &amp; Series 7](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-ultra-vs-apple-watch-series-8-series-7?utm_medium=rss)
- - [&#39;Pinocchio&#39; Review: Disney CG Reboot Makes a Bizarre Fairy Tale Even Weirder     - CNET](https://www.cnet.com/culture/entertainment/pinocchio-review-disney-reboot-bizarre-fairy-tale-even-weirder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook says ‘buy your mom an iPhone’ when asked about RCS &lpar;Updated&rpar;](https://www.androidauthority.com/tim-cook-rcs-iphone-3206620/)
+ - [Byju&#39;s has missed its own deadlines to file audited financials for the year ending March 2021 by nearly 18 months; Indian government demands an explanation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220908/p9#a220908p9)
+ - [Answering a question on iMessage-RCS interoperability at Code, Tim Cook suggests &quot;[buying] your mom an iPhone&quot; to end green bubbles &lpar;The Verge&rpar;](http://www.techmeme.com/220908/p8#a220908p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
