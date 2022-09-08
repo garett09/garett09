@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: The Wrath of Khan is getting an official prequel — in podcast form](https://www.polygon.com/23342481/star-trek-the-wrath-of-khan-podcast-prequel)
- - [Disney Dreamlight Valley is the Animal Crossing on PC we&#39;ve been waiting for](https://www.pcgamer.com/disney-dreamlight-valley-is-the-animal-crossing-on-pc-weve-been-waiting-for)
- - [Billy Mitchell Says His Doctor Won&#39;t See Him Because Of Donkey Kong Cheating Allegations](https://kotaku.com/billy-mitchell-donkey-kong-cheating-doctor-twin-1849511774)<!-- GAME:END -->
+ - [This Paper Mario-inspired indie looks like a GBA classic time forgot](https://www.pcgamer.com/this-paper-mario-inspired-indie-looks-like-a-gba-classic-time-forgot)
+ - [Congratulations to Monty Python fans, there is finally an RPG for you](https://www.polygon.com/gaming/23343373/monty-python-holy-grail-rpg)
+ - [Overwatch 2 new hero cinematic leaks: Meet Kiriko](https://www.pcgamer.com/overwatch-2-new-hero-cinematic-leaks-meet-kiriko)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
