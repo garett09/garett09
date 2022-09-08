@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook made it clear that Apple won&#39;t adopt RCS any time soon](https://appleinsider.com/articles/22/09/08/tim-cook-made-it-clear-that-apple-wont-adopt-rcs-any-time-soon?utm_medium=rss)
- - [This Clever Anti-Censorship Tool Lets Russians Read Blocked News](https://www.wired.com/story/russia-internet-censorship-samizdat-online/)
- - [How Does a Variant-Specific Covid Booster Work?](https://www.wired.com/story/how-does-a-variant-specific-covid-booster-work/)<!-- TECH:END -->
+ - [Web3 gaming and VC firm Animoca Brands raised $110M via convertible notes led by Temasek, Boyu Capital, and GGV, after raising $434M in 2022 &lpar;Lucy Harley-McKeown/The Block&rpar;](http://www.techmeme.com/220908/p22#a220908p22)
+ - [Google plans a one-year pilot in India to allow daily fantasy sports apps and rummy games but bars the use of Google&#39;s billing for IAPs, starting September 28 &lpar;TechCrunch&rpar;](http://www.techmeme.com/220908/p21#a220908p21)
+ - [Mysten Labs, which is developing the Sui blockchain, raised a $300M Series B led by FTX at a $2B+ valuation; all five founders worked at Meta&#39;s crypto unit &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/220908/p20#a220908p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
