@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Going back to work](http://9gag.com/gag/aDYRmBB)
- - 🚯 [The upmost disrespect](http://9gag.com/gag/a1PpMnG)
- - 🚯 [What&#39;s going on here?](http://9gag.com/gag/awZNxKB)<!-- MEMES:END -->
+ - 🚖 [A truly amazing man.](http://9gag.com/gag/aoKm9on)
+ - 🚯 [Two Japan Coast Guard vessels JCG Muzuki &lpar;PS-11&rpar; &amp; JCG Nobaru &lpar;PS-16&rpar; ramming a Chinese boat piloted by activists who had placed a Chinese flag on Uotsuri Island &lpar;15/8/2012&rpar;](http://9gag.com/gag/a2KE5Qd)
+ - 🚯 [Apple&#39;s printer is running out of cyan](http://9gag.com/gag/aqe42YQ)<!-- MEMES:END -->
 
 --- 
 
