@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Reigns Over the Seven Kingdoms with Latest House of the Dragon Custom Console](https://news.xbox.com/en-us/2022/09/08/xbox-reigns-over-the-seven-kingdoms-with-latest-house-of-the-dragon-custom-console/)
- - [All I want to do is put down little rails to help these little trains get home in this delightful little puzzle game](https://www.pcgamer.com/all-i-want-to-do-is-put-down-little-rails-to-help-these-little-trains-get-home-in-this-delightful-little-puzzle-game)
- - [Thor: Love and Thunder barely cracked the best Thor villain of our age](https://www.polygon.com/23341637/thor-love-thunder-disney-plus-gorr-necrosword-marvel-comics)<!-- GAME:END -->
+ - [Evil Wesley Crusher is coming to the Star Trek MMO](https://www.polygon.com/23342629/star-trek-online-mirror-universe-wesley-crusher-terran-emperor)
+ - [Star Trek: Picard season 3 teaser reunites the Next Generation crew for one more mission](https://www.polygon.com/23342447/star-trek-picard-season-3-trailer-teaser-release-date)
+ - [Battlefield is getting a &#39;narrative campaign&#39; from Halo co-creator&#39;s new studio](https://www.pcgamer.com/battlefield-is-getting-a-narrative-campaign-from-halo-co-creators-new-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
