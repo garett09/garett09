@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anxious about regulators, Naspers, SoftBank, Berkshire, and other early investors in Chinese tech giants are selling; $7.6B in Tencent shares could be sold &lpar;Bloomberg&rpar;](http://www.techmeme.com/220908/p15#a220908p15)
- - [Hands-on with Apple Watch Ultra: the large, flat 49mm display, which can reach 2,000 nits, is in a class of its own and the device is lighter than expected &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220908/p14#a220908p14)
- - [Daily Authority: 🍎 All of Apple’s major announcements](https://www.androidauthority.com/daily-authority-september-8-2022-3206625/)<!-- TECH:END -->
+ - [Tim Cook made it clear that Apple won&#39;t adopt RCS any time soon](https://appleinsider.com/articles/22/09/08/tim-cook-made-it-clear-that-apple-wont-adopt-rcs-any-time-soon?utm_medium=rss)
+ - [This Clever Anti-Censorship Tool Lets Russians Read Blocked News](https://www.wired.com/story/russia-internet-censorship-samizdat-online/)
+ - [How Does a Variant-Specific Covid Booster Work?](https://www.wired.com/story/how-does-a-variant-specific-covid-booster-work/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
