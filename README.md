@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says ‘buy your mom an iPhone’ if you want to end green bubbles](https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility)
- - [Steve Jobs’ friends and family just launched an archive to celebrate his life](https://www.theverge.com/2022/9/7/23342222/steve-jobs-archive-website-launch)
- - [Apple&#39;s iPhone 14 Lineup Has a Notable Improvement: Longer Battery Life     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-lineup-has-a-notable-improvement-longer-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berlin-based Latana, which offers brand tracking and consumer insights tools, raised a &amp;euro;36M Series B led by Oxx, with participation from Balderton and Kreos &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220908/p4#a220908p4)
+ - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
+ - [Apple partners with satellite company Globalstar on Emergency SOS, agreeing to pay 95% of the approved capital expenditure to deploy new Globalstar satellites &lpar;Reuters&rpar;](http://www.techmeme.com/220908/p3#a220908p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
