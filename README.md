@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Newly formed natural spring](http://9gag.com/gag/a4op46w)
- - 🚯 [God bless him](http://9gag.com/gag/aPg6vzw)
- - 🚯 [She&#39;d be a perfect Bean](http://9gag.com/gag/avQ20wE)<!-- MEMES:END -->
+ - 🚖 [Man Eater](http://9gag.com/gag/agor0j1)
+ - 🚯 [The nerve of some people](http://9gag.com/gag/aRE6Q77)
+ - 🚯 [Marry her](http://9gag.com/gag/adPy6d2)<!-- MEMES:END -->
 
 --- 
 
