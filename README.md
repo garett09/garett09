@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bannon surrenders to New York prosecutors over border wall crowdfunding campaign](https://www.theverge.com/2022/9/8/23342729/steve-bannon-crowdfunding-we-build-the-wall-us-mexico-border-fraud)
- - [Apple Watch Ultra debuts as a giant &amp; rugged titanium model](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-debuts-as-a-giant-rugged-titanium-model?utm_medium=rss)
- - [Razor EcoSmart Cargo blurs the line between e-bike and scooter, costs $1,099](https://www.androidauthority.com/razor-ecosmart-cargo-3206760/)<!-- TECH:END -->
+ - [Community Labs, which is building crypto projects on blockchain data storage platform Arweave, has raised $30M led by Lightspeed Venture Partners &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220908/p33#a220908p33)
+ - [Nearby Share will soon start working automatically when sharing with yourself](https://www.androidauthority.com/nearby-share-automatically-share-3206763/)
+ - [New accessibility and sharing features are coming to Android devices](https://www.theverge.com/2022/9/8/23342451/android-new-accessibility-sharing-features-tablets-emoji)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
