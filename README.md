@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feels like the end of an era\u2026](http://9gag.com/gag/axoEV8Y)
- - 🚯 [Long live the Queen](http://9gag.com/gag/axoEgLp)
- - 🚯 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)<!-- MEMES:END -->
+ - 🚖 [RIP Queen Elizabeth II](http://9gag.com/gag/a6qrMG9)
+ - 🚯 [The Queen when Meghan Markle comes to say her goodbyes](http://9gag.com/gag/aMEe9oV)
+ - 🚯 [Prince Charles meanwhile](http://9gag.com/gag/aZDqm5n)<!-- MEMES:END -->
 
 --- 
 
