@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knives Out 2 trailer winds up another mystery for Daniel Craig](https://www.polygon.com/23316305/glass-onion-knives-out-2-trailer-cast-release-date)
- - [How to destroy structures with Kamehameha in Fortnite](https://www.pcgamer.com/fortnite-kamehameha-destroy-structures)
- - [How to catch a Zero Point Fish in Fortnite](https://www.pcgamer.com/fortnite-catch-zero-point-fish)<!-- GAME:END -->
+ - [The Marvel Universe actually sucks for stage magicians](https://www.polygon.com/23340785/she-hulk-magician-donny-blaze-ghost-rider-marvel-comics)
+ - [Free Play Days – Conan Exiles, Madden NFL 23, Hunt: Showdown, and Riders Republic](https://news.xbox.com/en-us/2022/09/08/free-play-days-conan-exiles-madden-nfl-23-hunt-showdown-and-riders-republic/)
+ - [Knives Out 2 trailer winds up another mystery for Daniel Craig](https://www.polygon.com/23316305/glass-onion-knives-out-2-trailer-cast-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
