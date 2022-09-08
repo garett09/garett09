@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man Eater](http://9gag.com/gag/agor0j1)
- - 🚯 [The nerve of some people](http://9gag.com/gag/aRE6Q77)
- - 🚯 [Marry her](http://9gag.com/gag/adPy6d2)<!-- MEMES:END -->
+ - 🚖 [I am this old](http://9gag.com/gag/aBd9QqZ)
+ - 🚯 [New UK health minister](http://9gag.com/gag/ay2E5mM)
+ - 🚯 [Bugs found inside ketchup dispenser at McDonald&#39;s, Cheltenham - UK](http://9gag.com/gag/a3ZvYyQ)<!-- MEMES:END -->
 
 --- 
 
