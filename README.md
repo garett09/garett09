@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything Apple didn’t announce at its iPhone 14 event](https://www.theverge.com/2022/9/7/23341609/apple-iphone-14-far-out-event-missing-announcements)
- - [Compared: Apple Watch Ultra vs. Apple Watch Series 8 &amp; Series 7](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-ultra-vs-apple-watch-series-8-series-7?utm_medium=rss)
- - [Compared: iPhone 14 &amp; iPhone 14 Plus vs. iPhone 13 &amp; iPhone 13 mini](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-iphone-14-plus-vs-iphone-13-iphone-13-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Moment launches new lens-mounting cases for iPhone 14](https://appleinsider.com/articles/22/09/08/moment-launches-new-lens-mounting-cases-for-iphone-14?utm_medium=rss)
+ - [iOS 16 will help you identify counterfeit AirPods](https://appleinsider.com/articles/22/09/08/ios-16-will-help-you-identify-counterfeit-airpods?utm_medium=rss)
+ - [Apple’s low power mode isn’t just for the new watches](https://www.theverge.com/2022/9/7/23342001/apple-watch-low-power-mode-series-4-watchos-9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
