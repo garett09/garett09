@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)
- - 🚯 [Innovation!](http://9gag.com/gag/az27L7q)
- - 🚯 [Marry her](http://9gag.com/gag/adPy6d2)<!-- MEMES:END -->
+ - 🚖 [These grandkids planned to surprise grandma at the airport dressing as T-Rex but she heard about it and planned her own surprise.](http://9gag.com/gag/a4opdem)
+ - 🚯 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)
+ - 🚯 [Karma hits hard](http://9gag.com/gag/adPyYbM)<!-- MEMES:END -->
 
 --- 
 
