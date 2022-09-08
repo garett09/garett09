@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interview with an Apple employee regarding iPhone 14 release](http://9gag.com/gag/aVbjWv8)
- - 🚯 [The two party system is tearing my country apart.](http://9gag.com/gag/aOxobOy)
- - 🚯 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)<!-- MEMES:END -->
+ - 🚖 [Father of the year nominee doesn&#39;t wait for the tooth fairy, and does it himself.](http://9gag.com/gag/anzeNqb)
+ - 🚯 [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
+ - 🚯 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
 
 --- 
 
