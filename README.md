@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Cow Culture This Is Considered a Dick Move](http://9gag.com/gag/arm1Kmd)
- - 🚯 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
+ - 🚖 [A good samaritan](http://9gag.com/gag/aDYRonN)
+ - 🚯 [A truly amazing man.](http://9gag.com/gag/aoKm9on)
  - 🚯 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
 
 --- 
