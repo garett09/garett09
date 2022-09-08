@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Latana, which offers brand tracking and consumer insights tools, raised a &amp;euro;36M Series B led by Oxx, with participation from Balderton and Kreos &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220908/p4#a220908p4)
- - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
- - [Apple partners with satellite company Globalstar on Emergency SOS, agreeing to pay 95% of the approved capital expenditure to deploy new Globalstar satellites &lpar;Reuters&rpar;](http://www.techmeme.com/220908/p3#a220908p3)<!-- TECH:END -->
+ - [After India&#39;s TikTok ban, Meta and Google are battling for the lead in the country&#39;s short-video app economy that could generate up to $19B in sales by 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220908/p6#a220908p6)
+ - [Prices slashed: save up to $500 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
+ - [Laurene Powell Jobs, Jony Ive, and Tim Cook team up to launch the Steve Jobs Archive, which features emails, videos, and historical materials related to Jobs &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220908/p5#a220908p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
