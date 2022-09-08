@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Father of the year nominee doesn&#39;t wait for the tooth fairy, and does it himself.](http://9gag.com/gag/anzeNqb)
  - 🚯 [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
- - 🚯 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
+ - 🚯 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)<!-- MEMES:END -->
 
 --- 
 
