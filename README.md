@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Plague Tale: Requiem ups the stakes of its indie darling predecessor](https://www.polygon.com/23341545/plague-tale-reqiuem-platforms-release-date-ps5-xbox-one-series-x-pc-switch)
- - [Today&#39;s Wordle 446 answer and hint: Thursday, September 8](https://www.pcgamer.com/todays-wordle-446-answer-hint)
- - [Nvidia tweets &#39;ProjectBeyond&#39; and it&#39;s surely a teaser for the RTX 40 series](https://www.pcgamer.com/nvidia-tweets-projectbeyond-and-its-surely-a-teaser-for-the-rtx-40-series)<!-- GAME:END -->
+ - [Gravastar Sirius Pro](https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review)
+ - [Asus ROG Cetra True Wireless](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)
+ - [Tronsmart Onyx Ace Pro](https://www.pcgamer.com/tronsmart-onyx-ace-pro-wireless-earbuds-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
