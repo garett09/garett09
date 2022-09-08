@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 28 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Velma from Scooby-Doo will no longer call the cops on folks in MultiVersus](https://www.polygon.com/23342664/velma-multiversus-cops-police-mystery-machine-update)
- - [Don’t Miss the /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/08/dont-miss-the-twitchgaming-idxbox-fall-showcase/)<!-- GAME:END -->
+ - [Hideo Kojima’s New Podcast Is Messy, But Damn If We’re Not Going To Listen Anyway](https://kotaku.com/hideo-kojima-metal-gear-death-stranding-podcast-1849511970)
+ - [The second largest cryptocurrency will ditch GPU mining in a matter of weeks, if not days](https://www.pcgamer.com/the-second-largest-cryptocurrency-will-ditch-gpu-mining-in-a-matter-of-weeks-if-not-days)
+ - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
