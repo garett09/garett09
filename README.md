@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am this old](http://9gag.com/gag/aBd9QqZ)
- - 🚯 [New UK health minister](http://9gag.com/gag/ay2E5mM)
- - 🚯 [Bugs found inside ketchup dispenser at McDonald&#39;s, Cheltenham - UK](http://9gag.com/gag/a3ZvYyQ)<!-- MEMES:END -->
+ - 🚖 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)
+ - 🚯 [Innovation!](http://9gag.com/gag/az27L7q)
+ - 🚯 [Marry her](http://9gag.com/gag/adPy6d2)<!-- MEMES:END -->
 
 --- 
 
