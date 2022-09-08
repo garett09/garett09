@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You&#39;ll need an iPhone 14 to see all of AT&amp;T&#39;s 5G network](https://appleinsider.com/articles/22/09/08/youll-need-an-iphone-14-to-see-all-of-atts-5g-network?utm_medium=rss)
- - [Tim Cook revealed the real reason Apple won’t fix green bubbles](https://www.theverge.com/2022/9/8/23343336/apple-tim-cook-imessage-blue-green-bubbles-texting-rcs)
- - [You can currently get a PlayStation 5 bundle from Sony without standing in line](https://www.theverge.com/2022/9/8/23320934/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)<!-- TECH:END -->
+ - [Up to $900 off the Galaxy Z series, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [Instagram says it&#39;s exploring the ability to repost other users&#39; posts in Feed and plans to test the feature &quot;soon with a small number of people&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220908/p44#a220908p44)
+ - [Apple’s Emergency SOS link puts it into the satellite fight with SpaceX and more](https://www.theverge.com/2022/9/8/23342908/apple-satellite-sos-globalstar-business-ast-lynk-spacex)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
