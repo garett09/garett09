@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apple when no one asks questions about USB-C](http://9gag.com/gag/awZN7n8)
- - 🚯 [Elizabeth right now](http://9gag.com/gag/a3ZvjB8)
- - 🚯 [Going back to work](http://9gag.com/gag/aDYRmBB)<!-- MEMES:END -->
+ - 🚖 [Going back to work](http://9gag.com/gag/aDYRmBB)
+ - 🚯 [The upmost disrespect](http://9gag.com/gag/a1PpMnG)
+ - 🚯 [What&#39;s going on here?](http://9gag.com/gag/awZNxKB)<!-- MEMES:END -->
 
 --- 
 
