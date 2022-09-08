@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
  - [Gravastar Sirius Pro](https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review)
- - [Asus ROG Cetra True Wireless](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)
- - [Tronsmart Onyx Ace Pro](https://www.pcgamer.com/tronsmart-onyx-ace-pro-wireless-earbuds-review)<!-- GAME:END -->
+ - [Asus ROG Cetra True Wireless](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
