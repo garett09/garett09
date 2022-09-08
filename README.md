@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God save the King](http://9gag.com/gag/a8qdpQ6)
- - 🚯 [God save the king](http://9gag.com/gag/a8qdyGQ)
- - 🚯 [Wikipedia editors right now](http://9gag.com/gag/a2KE52E)<!-- MEMES:END -->
+ - 🚖 [Feels like the end of an era\u2026](http://9gag.com/gag/axoEV8Y)
+ - 🚯 [Long live the Queen](http://9gag.com/gag/axoEgLp)
+ - 🚯 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)<!-- MEMES:END -->
 
 --- 
 
