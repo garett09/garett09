@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Up to $900 off the Galaxy Z series, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Instagram says it&#39;s exploring the ability to repost other users&#39; posts in Feed and plans to test the feature &quot;soon with a small number of people&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220908/p44#a220908p44)
- - [Apple’s Emergency SOS link puts it into the satellite fight with SpaceX and more](https://www.theverge.com/2022/9/8/23342908/apple-satellite-sos-globalstar-business-ast-lynk-spacex)<!-- TECH:END -->
+ - [DocuSign reports Q2 revenue up 22% YoY to $622.2M, vs. $602.7M est., and a full-year billings forecast of $2.55B to $2.57B, vs. $2.53B est.; stock jumps 18%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220908/p46#a220908p46)
+ - [A survey of ~4,000 Indian gig workers on Swiggy, Zomato, Uber, Amazon, and others: 42% say their income is flat, 47% have no insurance, and 51% can&#39;t save money &lpar;The Economic Times&rpar;](http://www.techmeme.com/220908/p45#a220908p45)
+ - [How the iPhone 14 and 14 Plus compare to the Pro models — and the iPhone 13](https://www.theverge.com/23319085/iphone-14-vs-13-plus-pro-max-mini-comparison-specs-price-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
