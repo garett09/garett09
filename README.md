@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six people, including Coinbase employees and prominent crypto developers, sue the US Treasury, Janet Yellen, and officials in Texas over Tornado Cash sanctions &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/220908/p25#a220908p25)
- - [Guns are also out in the first trailer for Glass Onion: A Knives Out Mystery](https://www.theverge.com/23342571/glass-onion-a-knives-out-mystery-teaser-trailer)
- - [Nvidia teases RTX 40-series announcement with ‘GeForce Beyond’ event](https://www.theverge.com/2022/9/8/23342579/nvidia-rtx-40-series-gpu-geforce-beyond-event-date)<!-- TECH:END -->
+ - [Humble is bundling several great PC games for just $16](https://www.theverge.com/good-deals/2022/9/8/23342522/humble-bundle-borderlands-bioshock-apple-ipad-disney-plus-asus-laptop-deal-sale)
+ - [Arize AI, a service for machine learning operations, or MLOps, raised a $38M Series B led by TCV, bringing its total funding to $62M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220908/p27#a220908p27)
+ - [All iPhone 14 &amp; iPhone 14 Pro models come with 6GB of RAM](https://appleinsider.com/articles/22/09/08/all-iphone-14-iphone-14-pro-models-come-with-6gb-of-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
