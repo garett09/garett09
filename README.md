@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A good samaritan](http://9gag.com/gag/aDYRonN)
- - 🚯 [A truly amazing man.](http://9gag.com/gag/aoKm9on)
- - 🚯 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
+ - 🚖 [Apple when no one asks questions about USB-C](http://9gag.com/gag/awZN7n8)
+ - 🚯 [Elizabeth right now](http://9gag.com/gag/a3ZvjB8)
+ - 🚯 [Going back to work](http://9gag.com/gag/aDYRmBB)<!-- MEMES:END -->
 
 --- 
 
