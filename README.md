@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1/1](http://9gag.com/gag/aVbjX7v)
- - 🚯 [These grandkids planned to surprise grandma at the airport dressing as T-Rex but she heard about it and planned her own surprise.](http://9gag.com/gag/a4opdem)
+ - 🚖 [Bear Grylls](http://9gag.com/gag/a3ZvLM5)
+ - 🚯 [Somebody](http://9gag.com/gag/a04vYoO)
  - 🚯 [Karma hits hard](http://9gag.com/gag/adPyYbM)<!-- MEMES:END -->
 
 --- 
