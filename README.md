@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima’s New Podcast Is Messy, But Damn If We’re Not Going To Listen Anyway](https://kotaku.com/hideo-kojima-metal-gear-death-stranding-podcast-1849511970)
- - [The second largest cryptocurrency will ditch GPU mining in a matter of weeks, if not days](https://www.pcgamer.com/the-second-largest-cryptocurrency-will-ditch-gpu-mining-in-a-matter-of-weeks-if-not-days)
- - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)<!-- GAME:END -->
+ - [Pokémon Scarlet And Violet Introduce Auto Battle, Which Will Cut Back The Grind](https://kotaku.com/pokemon-scarlet-violet-auto-battle-lets-go-grind-switch-1849512520)
+ - [WALL-E will be the first Disney film in the Criterion Collection](https://www.polygon.com/23343003/wall-e-pixar-disney-criterion-collection)
+ - [Squid Game star Lee Jung-Jae joins Star Wars series The Acolyte](https://www.polygon.com/23343002/squid-game-star-star-wars-the-acolyte-series-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
