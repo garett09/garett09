@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Father of the year nominee doesn&#39;t wait for the tooth fairy, and does it himself.](http://9gag.com/gag/anzeNqb)
- - 🚯 [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
- - 🚯 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)<!-- MEMES:END -->
+ - 🚖 [In Cow Culture This Is Considered a Dick Move](http://9gag.com/gag/arm1Kmd)
+ - 🚯 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
+ - 🚯 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
 
 --- 
 
