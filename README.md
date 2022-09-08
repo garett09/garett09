@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 446 answer and hint: Thursday, September 8](https://www.pcgamer.com/todays-wordle-446-answer-hint)
  - [Nvidia tweets &#39;ProjectBeyond&#39; and it&#39;s surely a teaser for the RTX 40 series](https://www.pcgamer.com/nvidia-tweets-projectbeyond-and-its-surely-a-teaser-for-the-rtx-40-series)
- - [Awesome Games Done Quick Abandons Live Event Because Florida Is &#39;Not A Safe Place For Our Community&#39;](https://kotaku.com/agdq-games-done-quick-florida-covid-lgbtq-law-desantis-1849509866)
- - [Nvidia GPUs continue to dominate according to Steam&#39;s latest hardware survey](https://www.pcgamer.com/nvidia-gpus-continue-to-dominate-according-to-steams-latest-hardware-survey)<!-- GAME:END -->
+ - [Awesome Games Done Quick Abandons Live Event Because Florida Is &#39;Not A Safe Place For Our Community&#39;](https://kotaku.com/agdq-games-done-quick-florida-covid-lgbtq-law-desantis-1849509866)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
