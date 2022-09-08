@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus Patch Might Stop Velma From Calling The Cops, Being A Karen](https://kotaku.com/multiversus-velma-scooby-doo-mystery-inc-1849511145)
- - [Announcing Stray Reactions, a pet-loving photo event supporting the ASPCA®](https://blog.playstation.com/2022/09/08/announcing-stray-reactions-a-pet-loving-photo-event-supporting-the-aspca/)
- - [MultiVersus patch 1.02 adds Gizmo, hitbox updates, and more](https://www.polygon.com/23342649/multiversus-1-02-patch-notes-gizmo-hitbox-projectile-velma-update)<!-- GAME:END -->
+ - [The 28 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Velma from Scooby-Doo will no longer call the cops on folks in MultiVersus](https://www.polygon.com/23342664/velma-multiversus-cops-police-mystery-machine-update)
+ - [Don’t Miss the /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/08/dont-miss-the-twitchgaming-idxbox-fall-showcase/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
