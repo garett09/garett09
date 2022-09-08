@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebody](http://9gag.com/gag/a04vYoO)
- - 🚯 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
- - 🚯 [1/1](http://9gag.com/gag/aVbjX7v)<!-- MEMES:END -->
+ - 🚖 [Interview with an Apple employee regarding iPhone 14 release](http://9gag.com/gag/aVbjWv8)
+ - 🚯 [The two party system is tearing my country apart.](http://9gag.com/gag/aOxobOy)
+ - 🚯 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)<!-- MEMES:END -->
 
 --- 
 
