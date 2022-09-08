@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [Gravastar Sirius Pro](https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review)
- - [Asus ROG Cetra True Wireless](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)<!-- GAME:END -->
+ - [Knives Out 2 trailer winds up another mystery for Daniel Craig](https://www.polygon.com/23316305/glass-onion-knives-out-2-trailer-cast-release-date)
+ - [How to destroy structures with Kamehameha in Fortnite](https://www.pcgamer.com/fortnite-kamehameha-destroy-structures)
+ - [How to catch a Zero Point Fish in Fortnite](https://www.pcgamer.com/fortnite-catch-zero-point-fish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
