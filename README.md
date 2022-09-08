@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DocuSign reports Q2 revenue up 22% YoY to $622.2M, vs. $602.7M est., and a full-year billings forecast of $2.55B to $2.57B, vs. $2.53B est.; stock jumps 18%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220908/p46#a220908p46)
- - [A survey of ~4,000 Indian gig workers on Swiggy, Zomato, Uber, Amazon, and others: 42% say their income is flat, 47% have no insurance, and 51% can&#39;t save money &lpar;The Economic Times&rpar;](http://www.techmeme.com/220908/p45#a220908p45)
- - [How the iPhone 14 and 14 Plus compare to the Pro models — and the iPhone 13](https://www.theverge.com/23319085/iphone-14-vs-13-plus-pro-max-mini-comparison-specs-price-apple)<!-- TECH:END -->
+ - [Microsoft is testing its tablet-friendly taskbar again in Windows 11](https://www.theverge.com/2022/9/8/23343358/microsoft-taskbar-windows-11-2-in-1-tablet)
+ - [New AirPods Pro available for preorder from Amazon](https://appleinsider.com/articles/22/09/08/new-airpods-pro-available-for-preorder-from-amazon?utm_medium=rss)
+ - [Presidents, Rock Stars, Astronauts Remember Queen Elizabeth II     - CNET](https://www.cnet.com/culture/presidents-prime-ministers-rock-stars-remember-queen-elizabeth-ii-saddest-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
