@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humble is bundling several great PC games for just $16](https://www.theverge.com/good-deals/2022/9/8/23342522/humble-bundle-borderlands-bioshock-apple-ipad-disney-plus-asus-laptop-deal-sale)
- - [Arize AI, a service for machine learning operations, or MLOps, raised a $38M Series B led by TCV, bringing its total funding to $62M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220908/p27#a220908p27)
- - [All iPhone 14 &amp; iPhone 14 Pro models come with 6GB of RAM](https://appleinsider.com/articles/22/09/08/all-iphone-14-iphone-14-pro-models-come-with-6gb-of-ram?utm_medium=rss)<!-- TECH:END -->
+ - [Bannon surrenders to New York prosecutors over border wall crowdfunding campaign](https://www.theverge.com/2022/9/8/23342729/steve-bannon-crowdfunding-we-build-the-wall-us-mexico-border-fraud)
+ - [Apple Watch Ultra debuts as a giant &amp; rugged titanium model](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-debuts-as-a-giant-rugged-titanium-model?utm_medium=rss)
+ - [Razor EcoSmart Cargo blurs the line between e-bike and scooter, costs $1,099](https://www.androidauthority.com/razor-ecosmart-cargo-3206760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
