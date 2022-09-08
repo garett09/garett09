@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Marvel Universe actually sucks for stage magicians](https://www.polygon.com/23340785/she-hulk-magician-donny-blaze-ghost-rider-marvel-comics)
- - [Free Play Days – Conan Exiles, Madden NFL 23, Hunt: Showdown, and Riders Republic](https://news.xbox.com/en-us/2022/09/08/free-play-days-conan-exiles-madden-nfl-23-hunt-showdown-and-riders-republic/)
- - [Knives Out 2 trailer winds up another mystery for Daniel Craig](https://www.polygon.com/23316305/glass-onion-knives-out-2-trailer-cast-release-date)<!-- GAME:END -->
+ - [MultiVersus Patch Might Stop Velma From Calling The Cops, Being A Karen](https://kotaku.com/multiversus-velma-scooby-doo-mystery-inc-1849511145)
+ - [Announcing Stray Reactions, a pet-loving photo event supporting the ASPCA®](https://blog.playstation.com/2022/09/08/announcing-stray-reactions-a-pet-loving-photo-event-supporting-the-aspca/)
+ - [MultiVersus patch 1.02 adds Gizmo, hitbox updates, and more](https://www.polygon.com/23342649/multiversus-1-02-patch-notes-gizmo-hitbox-projectile-velma-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
