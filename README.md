@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says ‘buy your mom an iPhone’ when asked about RCS &lpar;Updated&rpar;](https://www.androidauthority.com/tim-cook-rcs-iphone-3206620/)
- - [Byju&#39;s has missed its own deadlines to file audited financials for the year ending March 2021 by nearly 18 months; Indian government demands an explanation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220908/p9#a220908p9)
- - [Answering a question on iMessage-RCS interoperability at Code, Tim Cook suggests &quot;[buying] your mom an iPhone&quot; to end green bubbles &lpar;The Verge&rpar;](http://www.techmeme.com/220908/p8#a220908p8)<!-- TECH:END -->
+ - [Anxious about regulators, Naspers, SoftBank, Berkshire, and other early investors in Chinese tech giants are selling; $7.6B in Tencent shares could be sold &lpar;Bloomberg&rpar;](http://www.techmeme.com/220908/p15#a220908p15)
+ - [Hands-on with Apple Watch Ultra: the large, flat 49mm display, which can reach 2,000 nits, is in a class of its own and the device is lighter than expected &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220908/p14#a220908p14)
+ - [Daily Authority: 🍎 All of Apple’s major announcements](https://www.androidauthority.com/daily-authority-september-8-2022-3206625/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
