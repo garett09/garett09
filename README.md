@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In stock: save $100 on Apple&#39;s 2022 MacBook Air &lpar;M2, 16GB, 1TB&rpar;, plus $40 off AppleCare](https://appleinsider.com/articles/22/09/07/in-stock-save-100-on-apples-2022-macbook-air-m2-16gb-1tb-plus-40-off-applecare?utm_medium=rss)
- - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
- - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)<!-- TECH:END -->
+ - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)
+ - [Quentin Tarantino and Miramax settle their copyright infringement lawsuit over Pulp Fiction NFTs and say they may collaborate on more NFTs &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220909/p10#a220909p10)
+ - [Hands-on with Fujifilm’s new 40.2-megapixel X-H2 camera](https://www.theverge.com/23344081/fujifilm-xh2-xh2s-mirrorless-camera-xf50mm-gf2035mm-lens-hands-on-impressions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
