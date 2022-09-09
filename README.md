@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)
- - 🚯 [I&#39;ve never seen more frustrated croc before](http://9gag.com/gag/a8qdEBV)
- - 🚯 [Sieg](http://9gag.com/gag/az27e9m)<!-- MEMES:END -->
+ - 🚖 [Sieg](http://9gag.com/gag/az27e9m)
+ - 🚯 [Algerians casually summon a gate to hell during football match](http://9gag.com/gag/a9qjqjW)
+ - 🚯 [Minnesota Vikings Gjallarhorn](http://9gag.com/gag/a8qd1Y6)<!-- MEMES:END -->
 
 --- 
 
