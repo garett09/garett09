@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
- - 🚯 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
- - 🚯 [Romania](http://9gag.com/gag/aDYRgAw)<!-- MEMES:END -->
+ - 🚖 [Coming soon](http://9gag.com/gag/aGEKdK0)
+ - 🚯 [Iphone designer](http://9gag.com/gag/ap9KGRW)
+ - 🚯 [Since we&#39;re all sharing, this is my fav meme of the Queen so far](http://9gag.com/gag/a2KERjw)<!-- MEMES:END -->
 
 --- 
 
