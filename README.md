@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines invests $15 million in electric aviation startup, orders 200 air taxis](https://www.theverge.com/2022/9/9/23342981/united-airlines-eve-air-mobililty-investment-taxi-evtol)
- - [India&#39;s largest conglomerate wants a piece of iPhone assembly](https://appleinsider.com/articles/22/09/09/indias-largest-conglomerate-wants-a-piece-of-iphone-assembly?utm_medium=rss)
- - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro Max already backordered, amidst Apple Store issues](https://appleinsider.com/articles/22/09/09/iphone-14-pro-max-already-backordered-despite-apple-store-issues?utm_medium=rss)
+ - [In Apple’s world, you’ll die without its watch](https://www.theverge.com/2022/9/9/23344306/apple-watch-series-8-emergency-health-heart-monitor)
+ - [How to uninstall apps from a Chromebook](https://www.theverge.com/23344325/chromebook-chrome-os-android-app-uninstall-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
