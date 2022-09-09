@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first Zen 4 motherboard BIOS fixes are already here and the platform isn&#39;t even out yet](https://www.pcgamer.com/the-first-zen-4-motherboard-bios-fixes-are-already-here-and-the-platform-isnt-even-out-yet)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Today&#39;s Wordle 447 answer and hint: Friday, September 9](https://www.pcgamer.com/todays-wordle-447-answer-hint)
- - [Why Lord of the Rings never went to Númenor before](https://www.polygon.com/23343469/lord-rings-power-numenor-explained)<!-- GAME:END -->
+ - [Today&#39;s Wordle 447 answer and hint: Friday, September 9](https://www.pcgamer.com/todays-wordle-447-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
