@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
  - [Today&#39;s Wordle 447 answer and hint: Friday, September 9](https://www.pcgamer.com/todays-wordle-447-answer-hint)
- - [Why Lord of the Rings never went to Númenor before](https://www.polygon.com/23343469/lord-rings-power-numenor-explained)
- - [The Rings of Power’s latest mystery is a master of orcs](https://www.polygon.com/23343338/rings-of-power-who-is-adar-in-lord-rings-tolkien)<!-- GAME:END -->
+ - [Why Lord of the Rings never went to Númenor before](https://www.polygon.com/23343469/lord-rings-power-numenor-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
