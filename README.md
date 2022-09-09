@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)
- - 🚯 [Only on Africa](http://9gag.com/gag/a1PpR92)
+ - 🚖 [Accurate af](http://9gag.com/gag/a2KE7jY)
+ - 🚯 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)
  - 🚯 [Can you see this?](http://9gag.com/gag/avQ2z0X)<!-- MEMES:END -->
 
 --- 
