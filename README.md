@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola brings its 200MP camera flagship to global markets](https://www.androidauthority.com/motorola-edge-30-ultra-specs-price-features-availability-3207043/)
- - [2022 Emmys: How to Watch or Stream, Start Time, Host and All the Nominees     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-how-to-watch-or-stream-start-time-host-and-all-the-nominees/#ftag=CAD590a51e)
- - [TigerEye, an enterprise sales tools startup founded by Tracy Young who previously founded PlanGrid, raised a $30M Series A led by Initialized Capital and Next47 &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/220909/p1#a220909p1)<!-- TECH:END -->
+ - [Pixel Tablet with charging dock appears in latest Android 13 beta](https://www.androidauthority.com/google-pixel-tablet-charging-dock-3207048/)
+ - [Used car marketplace Cazoo plans to wind down European operations and focus on the UK, cutting 750 jobs; Cazoo expects the move to save &amp;pound;100M by the end of 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/220909/p2#a220909p2)
+ - [Camera details for a second Pixel foldable may have leaked](https://www.androidauthority.com/google-pixel-foldable-felix-cameras-3207045/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
