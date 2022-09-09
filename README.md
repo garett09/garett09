@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ahsoka show will bring Rebels’ beloved Jedi Ezra to live-action](https://www.polygon.com/star-wars/23345033/ahsoka-cast-ezra-eman-esfandi-star-wars)
- - [Marvel’s Take On XCOM Gets Release Date Again, Plus Some Nice Animated Promos](https://kotaku.com/marvel-s-take-on-xcom-gets-release-date-again-plus-som-1849517088)
- - [Destiny 2 Xur location and items, Sept. 9-13](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/9/23344875/destiny-2-xur-location-and-items-sept-9-13)<!-- GAME:END -->
+ - [Steam Deck May Be The Best Way To Play Disney Dreamlight Valley &lpar;With Some Tweaks&rpar;](https://kotaku.com/disney-dreamlight-valley-steam-deck-review-settings-1849518908)
+ - [Prepare to Journey to Beacon Pines Where a Single Word Can Change Everything](https://news.xbox.com/en-us/2022/09/09/prepare-to-journey-to-beacon-pines-where-a-single-word-can-change-everything/)
+ - [Marvel is getting an AR game from the makers of Pokémon Go](https://www.polygon.com/23345116/marvel-world-of-heroes-ar-game-mobile-trailer-pokemon-go)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
