@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store is down ahead of iPhone 14, AirPods Pro 2 preorders](https://appleinsider.com/articles/22/09/09/apple-store-is-down-ahead-of-iphone-14-airpods-pro-2-preorders?utm_medium=rss)
- - [Apple will increase feature gap iPhone 15 models, says Kuo](https://appleinsider.com/articles/22/09/09/apple-will-increase-feature-gap-iphone-15-models-says-kuo?utm_medium=rss)
- - [Streaming television is going through an existential crisis as users cancel services and creators fear having their show or movie deleted on an executive&#39;s whim &lpar;Travis M. Andrews/Washington Post&rpar;](http://www.techmeme.com/220909/p5#a220909p5)<!-- TECH:END -->
+ - [How to use Apple Maps Multi-Stop to plan routes in iOS 16](https://appleinsider.com/articles/22/09/09/how-to-use-apple-maps-multi-stop-to-plan-routes-in-ios-16?utm_medium=rss)
+ - [India says its central bank will prepare a whitelist of legal loan apps and the IT ministry plans to ensure that only approved apps are hosted on app stores &lpar;TechCrunch&rpar;](http://www.techmeme.com/220909/p6#a220909p6)
+ - [The Legendary Frank Drake Shaped the Search for Alien Life](https://www.wired.com/story/the-legendary-frank-drake-shaped-the-search-for-alien-life/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
