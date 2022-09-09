@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
- - 🚯 [RU BMP sinks after the unit expected it to float over the river.](http://9gag.com/gag/anzegXB)
- - 🚯 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)<!-- MEMES:END -->
+ - 🚖 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)
+ - 🚯 [Always loved the queen reacting to cows as everyone should react to cows.](http://9gag.com/gag/a04vNrn)
+ - 🚯 [I&#39;ve never seen more frustrated croc before](http://9gag.com/gag/a8qdEBV)<!-- MEMES:END -->
 
 --- 
 
