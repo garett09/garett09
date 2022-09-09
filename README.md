@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accurate af](http://9gag.com/gag/a2KE7jY)
- - 🚯 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)
- - 🚯 [Can you see this?](http://9gag.com/gag/avQ2z0X)<!-- MEMES:END -->
+ - 🚖 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
+ - 🚯 [RU BMP sinks after the unit expected it to float over the river.](http://9gag.com/gag/anzegXB)
+ - 🚯 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)<!-- MEMES:END -->
 
 --- 
 
