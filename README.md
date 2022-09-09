@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quentin Tarantino settles NFT lawsuit with Miramax](https://www.theverge.com/2022/9/9/23344441/quentin-tarantino-pulp-fiction-nft-miramax-lawsuit-settled)
- - [Acer’s Vero 514 brings its ‘eco-conscious’ concept to a Chromebook](https://www.theverge.com/2022/8/23/23318956/acer-chromebook-vero-514-eco-conscious-laptop-recycling)
- - [Call of Duty Next event will showcase the future of the franchise](https://www.theverge.com/2022/9/9/23344547/call-of-duty-next-activision-warzone-2-modern-warfare-2)<!-- TECH:END -->
+ - [Apple releases macOS Ventura developer beta 7](https://appleinsider.com/articles/22/09/09/apple-releases-macos-ventura-developer-beta-7?utm_medium=rss)
+ - [Roblox is ready to grow up](https://www.theverge.com/2022/9/9/23343459/roblox-age-guidelines-metaverse-ads-developer-conference-announcements)
+ - [Intel reveals the specs of its new Arc graphics cards](https://www.theverge.com/2022/9/9/23344263/intel-arc-graphics-cards-desktop-gaming-gpu-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
