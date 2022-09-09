@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro Max already backordered, amidst Apple Store issues](https://appleinsider.com/articles/22/09/09/iphone-14-pro-max-already-backordered-despite-apple-store-issues?utm_medium=rss)
- - [In Apple’s world, you’ll die without its watch](https://www.theverge.com/2022/9/9/23344306/apple-watch-series-8-emergency-health-heart-monitor)
- - [How to uninstall apps from a Chromebook](https://www.theverge.com/23344325/chromebook-chrome-os-android-app-uninstall-how-to)<!-- TECH:END -->
+ - [Quentin Tarantino settles NFT lawsuit with Miramax](https://www.theverge.com/2022/9/9/23344441/quentin-tarantino-pulp-fiction-nft-miramax-lawsuit-settled)
+ - [Acer’s Vero 514 brings its ‘eco-conscious’ concept to a Chromebook](https://www.theverge.com/2022/8/23/23318956/acer-chromebook-vero-514-eco-conscious-laptop-recycling)
+ - [Call of Duty Next event will showcase the future of the franchise](https://www.theverge.com/2022/9/9/23344547/call-of-duty-next-activision-warzone-2-modern-warfare-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
