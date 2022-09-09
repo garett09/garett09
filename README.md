@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best wireless gaming earbuds](https://www.pcgamer.com/best-wireless-gaming-earbuds)
- - [PlayStation Store: August 2022’s top downloads](https://blog.playstation.com/2022/09/09/playstation-store-august-2022s-top-downloads/)
- - [The Black Adam trailer reveals an actual villain for the antihero](https://www.polygon.com/23344160/black-adam-trailer-2-justice-society-amanda-waller-sabbac)<!-- GAME:END -->
+ - [Report: New Marvel Game Stars Captain America And Black Panther...In World War II](https://kotaku.com/marvel-disney-d23-captain-america-black-panther-amy-1849516169)
+ - [God of War Ragnarök Family Portrait Series featuring guest artists announced](https://blog.playstation.com/2022/09/09/god-of-war-ragnarok-family-portrait-series-featuring-guest-artists-announced/)
+ - [The Rings of Power’s ‘Adar’ gets closer to the ideal Lord of the Rings show](https://www.polygon.com/23343049/lord-rings-power-episode-3-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
