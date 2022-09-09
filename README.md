@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God Save The King](http://9gag.com/gag/aDYRW7x)
+ - 🚖 [God save the King](http://9gag.com/gag/aZDqmA3)
  - 🚯 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)
- - 🚯 [Prince Charles meanwhile](http://9gag.com/gag/aZDqm5n)<!-- MEMES:END -->
+ - 🚯 [God save the king](http://9gag.com/gag/a8qdyGQ)<!-- MEMES:END -->
 
 --- 
 
