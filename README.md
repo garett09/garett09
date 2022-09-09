@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/23342901/splatoon-3-beginners-guide-tips-tricks-ink-weapons-daily-reset)
- - [Tinykin review](https://www.pcgamer.com/tinykin-review)
- - [Railbound Is A Beautiful Puzzle Game About Dogs And Trains](https://kotaku.com/railbound-pc-mac-ios-impressions-dog-train-puzzle-1849515242)<!-- GAME:END -->
+ - [Why Lord of the Rings never went to Númenor before](https://www.polygon.com/23343469/lord-rings-power-numenor-explained)
+ - [The Rings of Power’s latest mystery is a master of orcs](https://www.polygon.com/23343338/rings-of-power-who-is-adar-in-lord-rings-tolkien)
+ - [Intel and Broadcom demonstrate next generation Wi-Fi 7 products](https://www.pcgamer.com/intel-and-broadcom-demonstrate-next-generation-wi-fi-7-products)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
