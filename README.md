@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That Rings of Power character didn’t really die in the Lord of the Rings universe](https://www.polygon.com/23343347/lord-rings-power-elf-death-episode-3)
- - [How to watch D23’s Marvel and Disney Games Showcase](https://www.polygon.com/23343491/marvel-disney-games-showcase-d23-black-panther-amy-hennig-iron-man-game)
- - [Gigabyte M32UC](https://www.pcgamer.com/gigabyte-m32uc-gaming-monitor-review)<!-- GAME:END -->
+ - [The must-read comics of the rest of 2022](https://www.polygon.com/2022/9/9/23341203/new-comics-2022-fall-preview)
+ - [Deep Rock Galactic Is Now Optimized for Xbox Series X|S](https://news.xbox.com/en-us/2022/09/09/deep-rock-galactic-is-now-optimized-for-xbox-series-xs/)
+ - [That Rings of Power character didn’t really die in the Lord of the Rings universe](https://www.polygon.com/23343347/lord-rings-power-elf-death-episode-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
