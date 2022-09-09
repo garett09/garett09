@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)
- - [Quentin Tarantino and Miramax settle their copyright infringement lawsuit over Pulp Fiction NFTs and say they may collaborate on more NFTs &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220909/p10#a220909p10)
- - [Hands-on with Fujifilm’s new 40.2-megapixel X-H2 camera](https://www.theverge.com/23344081/fujifilm-xh2-xh2s-mirrorless-camera-xf50mm-gf2035mm-lens-hands-on-impressions)<!-- TECH:END -->
+ - [United Airlines invests $15 million in electric aviation startup, orders 200 air taxis](https://www.theverge.com/2022/9/9/23342981/united-airlines-eve-air-mobililty-investment-taxi-evtol)
+ - [India&#39;s largest conglomerate wants a piece of iPhone assembly](https://appleinsider.com/articles/22/09/09/indias-largest-conglomerate-wants-a-piece-of-iphone-assembly?utm_medium=rss)
+ - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
