@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you, Goku](http://9gag.com/gag/anze95b)
+ - 🚖 [Queen Elizabeth II giggling as she walks past her husband Prince Philip in his full uniform.](http://9gag.com/gag/a3ZvK6N)
  - 🚯 [Queen is Pepsi, long lived the queen](http://9gag.com/gag/aBd98Vz)
- - 🚯 [Queen Elizabeth II giggling as she walks past her husband Prince Philip in his full uniform.](http://9gag.com/gag/a3ZvK6N)<!-- MEMES:END -->
+ - 🚯 [Tire duelers, masters of combat](http://9gag.com/gag/axoEzVW)<!-- MEMES:END -->
 
 --- 
 
