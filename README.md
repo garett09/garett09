@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streaming television is going through an existential crisis as users cancel services and creators fear having their show or movie deleted on an executive&#39;s whim &lpar;Travis M. Andrews/Washington Post&rpar;](http://www.techmeme.com/220909/p5#a220909p5)
- - [Apple&#39;s iPhone 14 Pro, Samsung Galaxy Z Fold Are Rethinking How Phones Work     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-pro-samsung-galaxy-z-fold-are-rethinking-how-phones-work/#ftag=CAD590a51e)
- - [UFC 279 Nate Diaz vs. Khamzat Chimaev: Start Times, How to Watch and That Press Conference     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-khamzat-chimaev-start-times-how-to-watch-and-that-press-conference/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Store is down ahead of iPhone 14, AirPods Pro 2 preorders](https://appleinsider.com/articles/22/09/09/apple-store-is-down-ahead-of-iphone-14-airpods-pro-2-preorders?utm_medium=rss)
+ - [Apple will increase feature gap iPhone 15 models, says Kuo](https://appleinsider.com/articles/22/09/09/apple-will-increase-feature-gap-iphone-15-models-says-kuo?utm_medium=rss)
+ - [Streaming television is going through an existential crisis as users cancel services and creators fear having their show or movie deleted on an executive&#39;s whim &lpar;Travis M. Andrews/Washington Post&rpar;](http://www.techmeme.com/220909/p5#a220909p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
