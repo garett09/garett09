@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Zen 4 motherboard BIOS fixes are already here and the platform isn&#39;t even out yet](https://www.pcgamer.com/the-first-zen-4-motherboard-bios-fixes-are-already-here-and-the-platform-isnt-even-out-yet)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Today&#39;s Wordle 447 answer and hint: Friday, September 9](https://www.pcgamer.com/todays-wordle-447-answer-hint)<!-- GAME:END -->
+ - [The best wireless gaming earbuds](https://www.pcgamer.com/best-wireless-gaming-earbuds)
+ - [PlayStation Store: August 2022’s top downloads](https://blog.playstation.com/2022/09/09/playstation-store-august-2022s-top-downloads/)
+ - [The Black Adam trailer reveals an actual villain for the antihero](https://www.polygon.com/23344160/black-adam-trailer-2-justice-society-amanda-waller-sabbac)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
