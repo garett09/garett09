@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out Interview with the Vampire’s newest trailer](https://www.theverge.com/2022/9/9/23344749/interview-with-the-vampire-trailer-anne-rice)
- - [You can still get a PlayStation 5 bundle from Sony and Walmart without standing in line](https://www.theverge.com/2022/9/8/23320934/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)
- - [Google’s HD Chromecast will probably look a lot like the 4K one](https://www.theverge.com/2022/9/9/23344611/google-chromecast-1080p-design-leak)<!-- TECH:END -->
+ - [Alphabet&#39;s Verily raised $1B led by Alphabet; founder and CEO Andy Conrad will become executive chairman and President Stephen Gillett will become CEO &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/220909/p17#a220909p17)
+ - [AirPods Pro 2 Hands-On: Crisper Sound, Better Noise Canceling     - CNET](https://www.cnet.com/tech/mobile/airpods-pro-2-hands-on-crisper-sound-better-noise-canceling/#ftag=CAD590a51e)
+ - [Pokemon Go Psychic Spectacular: Shiny Elgyem, Mega Alakazam, Bonuses and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-psychic-spectacular-mega-alakazam-shiny-elgyem-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
