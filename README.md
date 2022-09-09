@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rare Pepe](http://9gag.com/gag/az271vN)
- - 🚯 [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
- - 🚯 [This will always be my favourite photo of the queen](http://9gag.com/gag/avQ2OqX)<!-- MEMES:END -->
+ - 🚖 [Driving through the night in France](http://9gag.com/gag/aeQKrW5)
+ - 🚯 [Rare Pepe](http://9gag.com/gag/az271vN)
+ - 🚯 [Can you see this?](http://9gag.com/gag/avQ2z0X)<!-- MEMES:END -->
 
 --- 
 
