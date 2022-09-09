@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dramatic music crescendos! Hans, get the piano!](http://9gag.com/gag/aGEKjqn)
- - 🚯 [God save the king](http://9gag.com/gag/a8qdyGQ)
- - 🚯 [`My whole life whether it be long or short shall be devoted to your service` - Elizabeth Alexandra Mary &lpar;1926 - 2022&rpar;](http://9gag.com/gag/aEqdRWe)<!-- MEMES:END -->
+ - 🚖 [Thank you, Goku](http://9gag.com/gag/anze95b)
+ - 🚯 [Queen is Pepsi, long lived the queen](http://9gag.com/gag/aBd98Vz)
+ - 🚯 [Queen Elizabeth II giggling as she walks past her husband Prince Philip in his full uniform.](http://9gag.com/gag/a3ZvK6N)<!-- MEMES:END -->
 
 --- 
 
