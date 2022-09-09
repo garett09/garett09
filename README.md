@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WaterField Designs debuts two new holster cases for iPhone 14](https://appleinsider.com/articles/22/09/09/waterfield-designs-debuts-two-new-holster-cases-for-iphone-14?utm_medium=rss)
- - [Apple Watch Ultra repairs could be ultra-expensive](https://www.theverge.com/2022/9/8/23343752/apple-watch-ultra-repair-price-battery-replacement)
- - [New Black Adam trailer hints he could end up as a hero after all](https://www.theverge.com/2022/9/8/23343755/black-adam-new-trailer-dwayne-johnson-hero)<!-- TECH:END -->
+ - [Intel reveals specifications for its Arc desktop GPUs for demanding, budget, and casual gamers; top of the line GPU will have 32 Xe cores and 16GB of GDDR6 RAM &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220908/p49#a220908p49)
+ - [CM Punk&#39;s AEW Championship Vacated After Backstage Fight     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-aew-championship-vacated-after-backstage-fight/#ftag=CAD590a51e)
+ - [All &#39;The Rings of Power&#39; Tolkien Terminology Explained     - CNET](https://www.cnet.com/culture/entertainment/all-the-rings-of-power-tolkien-terminology-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
