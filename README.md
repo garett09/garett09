@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God bless you bro](http://9gag.com/gag/aKE4xbN)
- - 🚯 [The Komodo 3000](http://9gag.com/gag/aBd9gnQ)
- - 🚯 [It\u2019s always good to help others](http://9gag.com/gag/arm1Gzd)<!-- MEMES:END -->
+ - 🚖 [Rare Pepe](http://9gag.com/gag/az271vN)
+ - 🚯 [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
+ - 🚯 [This will always be my favourite photo of the queen](http://9gag.com/gag/avQ2OqX)<!-- MEMES:END -->
 
 --- 
 
