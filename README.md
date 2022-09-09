@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk trailer shows Daredevil &lpar;and Matt Murdock&rpar; out and about in the MCU](https://www.polygon.com/23344884/marvel-daredevil-new-costume-she-hulk-charlie-cox)
- - [Rainbow Six Siege: Operation Brutal Swarm Brings a New Operator with Robot Bees](https://news.xbox.com/en-us/2022/09/09/rainbow-six-siege-operation-brutal-swarm/)
- - [The first cards for Lorcana, Disney’s answer to Magic: The Gathering, are spectacular](https://www.polygon.com/23342656/mtg-lorcana-disney-tcg-ccg-first-cards-mickey-stitch-elsa-robinhood-maleficent)<!-- GAME:END -->
+ - [Ahsoka show will bring Rebels’ beloved Jedi Ezra to live-action](https://www.polygon.com/star-wars/23345033/ahsoka-cast-ezra-eman-esfandi-star-wars)
+ - [Marvel’s Take On XCOM Gets Release Date Again, Plus Some Nice Animated Promos](https://kotaku.com/marvel-s-take-on-xcom-gets-release-date-again-plus-som-1849517088)
+ - [Destiny 2 Xur location and items, Sept. 9-13](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/9/23344875/destiny-2-xur-location-and-items-sept-9-13)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
