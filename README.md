@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best curved monitors for gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
- - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)
- - [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)<!-- GAME:END -->
+ - [Battlefield Is Going Back To A &#39;Narrative Campaign&#39;](https://kotaku.com/battlefield-narrative-campaign-singleplayer-ea-1849515049)
+ - [The first cards for Lorcana, Disney’s answer to Magic: The Gathering, are spectacular](https://www.polygon.com/23342656/mtg-lorcana-disney-tcg-ccg-first-cards-mickey-stitch-elsa-robinhood-maleficent)
+ - [It&#39;s a good time to be a goth in Magic: The Gathering](https://www.pcgamer.com/its-a-good-time-to-be-a-goth-in-magic-the-gathering)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
