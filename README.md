@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 Manager 2022 review](https://www.pcgamer.com/f1-manager-2022-review)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
- - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)<!-- GAME:END -->
+ - [That Rings of Power character didn’t really die in the Lord of the Rings universe](https://www.polygon.com/23343347/lord-rings-power-elf-death-episode-3)
+ - [How to watch D23’s Marvel and Disney Games Showcase](https://www.polygon.com/23343491/marvel-disney-games-showcase-d23-black-panther-amy-hennig-iron-man-game)
+ - [Gigabyte M32UC](https://www.pcgamer.com/gigabyte-m32uc-gaming-monitor-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
