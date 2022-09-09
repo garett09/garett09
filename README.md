@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)
- - [Sources: Stability AI, the startup behind Stable Diffusion, is in talks to raise $100M; Coatue proposed a $500M valuation, Lightspeed discussed a $1B valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/220909/p18#a220909p18)
- - [Instagram begins testing ‘reposts’](https://www.theverge.com/2022/9/9/23344560/instagram-reposting-share-retweet-feature)<!-- TECH:END -->
+ - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)
+ - [Vergecast: iPhone 14 event and our first impressions](https://www.theverge.com/2022/9/9/23344587/apple-iphone-14-pro-event-podcast-roundtable-vergecast)
+ - [Compared: New AirPods Pro versus original AirPods Pro](https://appleinsider.com/inside/airpods-pro/vs/compared-new-airpods-pro-versus-original-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
