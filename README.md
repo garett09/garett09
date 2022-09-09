@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing its tablet-friendly taskbar again in Windows 11](https://www.theverge.com/2022/9/8/23343358/microsoft-taskbar-windows-11-2-in-1-tablet)
- - [New AirPods Pro available for preorder from Amazon](https://appleinsider.com/articles/22/09/08/new-airpods-pro-available-for-preorder-from-amazon?utm_medium=rss)
- - [Presidents, Rock Stars, Astronauts Remember Queen Elizabeth II     - CNET](https://www.cnet.com/culture/presidents-prime-ministers-rock-stars-remember-queen-elizabeth-ii-saddest-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WaterField Designs debuts two new holster cases for iPhone 14](https://appleinsider.com/articles/22/09/09/waterfield-designs-debuts-two-new-holster-cases-for-iphone-14?utm_medium=rss)
+ - [Apple Watch Ultra repairs could be ultra-expensive](https://www.theverge.com/2022/9/8/23343752/apple-watch-ultra-repair-price-battery-replacement)
+ - [New Black Adam trailer hints he could end up as a hero after all](https://www.theverge.com/2022/9/8/23343755/black-adam-new-trailer-dwayne-johnson-hero)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
