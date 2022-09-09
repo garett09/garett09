@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
- - 🚯 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
+ - 🚖 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
+ - 🚯 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
  - 🚯 [Romania](http://9gag.com/gag/aDYRgAw)<!-- MEMES:END -->
 
 --- 
