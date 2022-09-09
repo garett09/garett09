@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)
- - [Vergecast: iPhone 14 event and our first impressions](https://www.theverge.com/2022/9/9/23344587/apple-iphone-14-pro-event-podcast-roundtable-vergecast)
- - [Compared: New AirPods Pro versus original AirPods Pro](https://appleinsider.com/inside/airpods-pro/vs/compared-new-airpods-pro-versus-original-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [iCloud Shared Photo Library won’t launch with iOS 16](https://www.theverge.com/2022/9/9/23345000/icloud-shared-photo-library-delayed-ios-16)
+ - [Google introduces 24 hour review delay for the Google Play Store](https://www.androidauthority.com/google-play-store-review-delay-3207351/)
+ - [The biggest announcements and trailers from Disney and Marvel’s games showcase](https://www.theverge.com/2022/9/9/23345058/disney-marvel-games-showcase-d23-captain-america-tron-black-panther)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
