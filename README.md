@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Apple Maps Multi-Stop to plan routes in iOS 16](https://appleinsider.com/articles/22/09/09/how-to-use-apple-maps-multi-stop-to-plan-routes-in-ios-16?utm_medium=rss)
- - [India says its central bank will prepare a whitelist of legal loan apps and the IT ministry plans to ensure that only approved apps are hosted on app stores &lpar;TechCrunch&rpar;](http://www.techmeme.com/220909/p6#a220909p6)
- - [The Legendary Frank Drake Shaped the Search for Alien Life](https://www.wired.com/story/the-legendary-frank-drake-shaped-the-search-for-alien-life/)<!-- TECH:END -->
+ - [In stock: save $100 on Apple&#39;s 2022 MacBook Air &lpar;M2, 16GB, 1TB&rpar;, plus $40 off AppleCare](https://appleinsider.com/articles/22/09/07/in-stock-save-100-on-apples-2022-macbook-air-m2-16gb-1tb-plus-40-off-applecare?utm_medium=rss)
+ - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
+ - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
