@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-read comics of the rest of 2022](https://www.polygon.com/2022/9/9/23341203/new-comics-2022-fall-preview)
- - [Deep Rock Galactic Is Now Optimized for Xbox Series X|S](https://news.xbox.com/en-us/2022/09/09/deep-rock-galactic-is-now-optimized-for-xbox-series-xs/)
- - [That Rings of Power character didn’t really die in the Lord of the Rings universe](https://www.polygon.com/23343347/lord-rings-power-elf-death-episode-3)<!-- GAME:END -->
+ - [She-Hulk trailer shows Daredevil &lpar;and Matt Murdock&rpar; out and about in the MCU](https://www.polygon.com/23344884/marvel-daredevil-new-costume-she-hulk-charlie-cox)
+ - [Rainbow Six Siege: Operation Brutal Swarm Brings a New Operator with Robot Bees](https://news.xbox.com/en-us/2022/09/09/rainbow-six-siege-operation-brutal-swarm/)
+ - [The first cards for Lorcana, Disney’s answer to Magic: The Gathering, are spectacular](https://www.polygon.com/23342656/mtg-lorcana-disney-tcg-ccg-first-cards-mickey-stitch-elsa-robinhood-maleficent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
