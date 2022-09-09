@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God save the King](http://9gag.com/gag/aZDqmA3)
- - 🚯 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)
- - 🚯 [God save the king](http://9gag.com/gag/a8qdyGQ)<!-- MEMES:END -->
+ - 🚖 [Dramatic music crescendos! Hans, get the piano!](http://9gag.com/gag/aGEKjqn)
+ - 🚯 [God save the king](http://9gag.com/gag/a8qdyGQ)
+ - 🚯 [`My whole life whether it be long or short shall be devoted to your service` - Elizabeth Alexandra Mary &lpar;1926 - 2022&rpar;](http://9gag.com/gag/aEqdRWe)<!-- MEMES:END -->
 
 --- 
 
