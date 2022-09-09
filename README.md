@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prince Charles tomorrow getting up to work for the 1st time at 73 years old:](http://9gag.com/gag/aWGBYzK)
- - 🚯 [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
- - 🚯 [Savage!](http://9gag.com/gag/a7qv3mL)<!-- MEMES:END -->
+ - 🚖 [Savage!](http://9gag.com/gag/a7qv3mL)
+ - 🚯 [Prince Charles tomorrow getting up to work for the 1st time at 73 years old:](http://9gag.com/gag/aWGBYzK)
+ - 🚯 [Hold up](http://9gag.com/gag/aDYRg7x)<!-- MEMES:END -->
 
 --- 
 
