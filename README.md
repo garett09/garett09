@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coming soon](http://9gag.com/gag/aGEKdK0)
- - 🚯 [Iphone designer](http://9gag.com/gag/ap9KGRW)
- - 🚯 [Since we&#39;re all sharing, this is my fav meme of the Queen so far](http://9gag.com/gag/a2KERjw)<!-- MEMES:END -->
+ - 🚖 [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)
+ - 🚯 [Always loved the queen reacting to cows as everyone should react to cows.](http://9gag.com/gag/a04vNrn)
+ - 🚯 [Only on Africa](http://9gag.com/gag/a1PpR92)<!-- MEMES:END -->
 
 --- 
 
