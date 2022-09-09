@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: New Marvel Game Stars Captain America And Black Panther...In World War II](https://kotaku.com/marvel-disney-d23-captain-america-black-panther-amy-1849516169)
- - [God of War Ragnarök Family Portrait Series featuring guest artists announced](https://blog.playstation.com/2022/09/09/god-of-war-ragnarok-family-portrait-series-featuring-guest-artists-announced/)
- - [The Rings of Power’s ‘Adar’ gets closer to the ideal Lord of the Rings show](https://www.polygon.com/23343049/lord-rings-power-episode-3-review)<!-- GAME:END -->
+ - [Elden Ring composer Tsukasa Saito on creating the game’s score and his favorite track](https://blog.playstation.com/2022/09/09/elden-ring-composer-tsukasa-saito-on-creating-the-games-score-and-his-favorite-track/)
+ - [Store Says Man Stole Pokémon Cards, Then Tried To Sell Them Back](https://kotaku.com/pokemon-tcg-magic-the-gathering-cards-thief-stolen-1849516418)
+ - [Barbarian’s layered secrets make it horror-movie catnip](https://www.polygon.com/reviews/23342834/barbarian-review-horror-twists)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
