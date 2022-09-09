@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring composer Tsukasa Saito on creating the game’s score and his favorite track](https://blog.playstation.com/2022/09/09/elden-ring-composer-tsukasa-saito-on-creating-the-games-score-and-his-favorite-track/)
- - [Store Says Man Stole Pokémon Cards, Then Tried To Sell Them Back](https://kotaku.com/pokemon-tcg-magic-the-gathering-cards-thief-stolen-1849516418)
- - [Barbarian’s layered secrets make it horror-movie catnip](https://www.polygon.com/reviews/23342834/barbarian-review-horror-twists)<!-- GAME:END -->
+ - [F1 Manager 2022 review](https://www.pcgamer.com/f1-manager-2022-review)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
+ - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
