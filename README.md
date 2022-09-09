@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud Shared Photo Library won’t launch with iOS 16](https://www.theverge.com/2022/9/9/23345000/icloud-shared-photo-library-delayed-ios-16)
- - [Google introduces 24 hour review delay for the Google Play Store](https://www.androidauthority.com/google-play-store-review-delay-3207351/)
- - [The biggest announcements and trailers from Disney and Marvel’s games showcase](https://www.theverge.com/2022/9/9/23345058/disney-marvel-games-showcase-d23-captain-america-tron-black-panther)<!-- TECH:END -->
+ - [Isovalent, the creator of open-source networking and security solution for cloud environments Cilium, has raised a $40M Series B led by Thomvest Ventures &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/220909/p20#a220909p20)
+ - [Elon Musk sends yet another notice trying to terminate the Twitter deal](https://www.theverge.com/2022/9/9/23345286/elon-musk-twitter-third-termination-notice-letter-deal-acquisition)
+ - [Prices slashed: save up to $550 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
