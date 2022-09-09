@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Driving through the night in France](http://9gag.com/gag/aeQKrW5)
- - 🚯 [Rare Pepe](http://9gag.com/gag/az271vN)
- - 🚯 [Can you see this?](http://9gag.com/gag/avQ2z0X)<!-- MEMES:END -->
+ - 🚖 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
+ - 🚯 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
+ - 🚯 [Romania](http://9gag.com/gag/aDYRgAw)<!-- MEMES:END -->
 
 --- 
 
