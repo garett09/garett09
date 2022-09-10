@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Isovalent, the creator of open-source networking and security solution for cloud environments Cilium, has raised a $40M Series B led by Thomvest Ventures &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/220909/p20#a220909p20)
- - [Elon Musk sends yet another notice trying to terminate the Twitter deal](https://www.theverge.com/2022/9/9/23345286/elon-musk-twitter-third-termination-notice-letter-deal-acquisition)
- - [Prices slashed: save up to $550 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)<!-- TECH:END -->
+ - [Pixar Announces &#39;Inside Out 2&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/pixar-announces-inside-out-2-at-d23/#ftag=CAD590a51e)
+ - [Disney&#39;s Live-Action &#39;The Little Mermaid&#39; Teaser Trailer Drops at D23     - CNET](https://www.cnet.com/culture/entertainment/disneys-live-action-the-little-mermaid-teaser-trailer-drops-at-d23/#ftag=CAD590a51e)
+ - [Disney Unveils &#39;Mufasa: The Lion King&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/disney-unveils-mufasa-the-lion-king-at-d23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
