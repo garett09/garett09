@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every introvert dream](http://9gag.com/gag/ajVQPw0)
- - 🚯 [Fun fact: he also played Morla in The Neverending Story](http://9gag.com/gag/anze7dq)
- - 🚯 [Weebs, weebs everywhere](http://9gag.com/gag/a1Pp7dP)<!-- MEMES:END -->
+ - 🚖 [Majestic and chonky AF](http://9gag.com/gag/ap9K1R9)
+ - 🚯 [Weebs, weebs everywhere](http://9gag.com/gag/a1Pp7dP)
+ - 🚯 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)<!-- MEMES:END -->
 
 --- 
 
