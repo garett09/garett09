@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Halloween special brings werewolves to the MCU](https://www.polygon.com/23220537/marvel-halloween-special-disney-plus-werewolf-by-night-d23)
- - [Marvel’s Secret Invasion trailer brings a war to Earth that only Samuel L. Jackson can stop](https://www.polygon.com/23341283/secret-invasion-trailer-marvel-disney-plus)
- - [All the Star Wars trailers and news out of this year’s D23](https://www.polygon.com/star-wars/23346003/star-wars-trailers-news-announcements-d23)<!-- GAME:END -->
+ - [The Division Heartland ramps up in 2022 with closed alpha tests](https://www.polygon.com/23346149/the-division-heartland-test-registration-closed-alpha-sign-up)
+ - [Ubisoft Forward: Skull and Bones Previews Ship Customization and Smuggling Networks](https://news.xbox.com/en-us/2022/09/10/skull-and-bones-ship-customization-preview/)
+ - [Assassin’s Creed Is Back After Two Years Away, See It In Action In First Trailer](https://kotaku.com/assassins-creed-mirage-leak-ubisoft-basim-valhalla-1849508724)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
