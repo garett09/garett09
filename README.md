@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)
- - 🚯 [I?m proud too](http://9gag.com/gag/agorQXw)
- - 🚯 [Wth the whole ,,tears in the rain,, monolog.](http://9gag.com/gag/axoEWbD)<!-- MEMES:END -->
+ - 🚖 [This is the purge in real life starting in January 2023](http://9gag.com/gag/arm1WpX)
+ - 🚯 [Don&#39;t let the Roomba-industrial Complex tell us otherwise](http://9gag.com/gag/a3Zv511)
+ - 🚯 [NO lets make `THEM` eat the bugs](http://9gag.com/gag/aVbjo78)<!-- MEMES:END -->
 
 --- 
 
