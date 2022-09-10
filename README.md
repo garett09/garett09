@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And they call this Man king of incell?](http://9gag.com/gag/avQ2Q0E)
- - 🚯 [We\u2019ve been friends on Xbox for 10 years. Today we finally met](http://9gag.com/gag/aVbjvLM)
- - 🚯 [Milkshake](http://9gag.com/gag/amAqoo4)<!-- MEMES:END -->
+ - 🚖 [When the locals see the soldiers are Ukrainian \u2026](http://9gag.com/gag/a2KEMv9)
+ - 🚯 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)
+ - 🚯 [I?m proud too](http://9gag.com/gag/agorQXw)<!-- MEMES:END -->
 
 --- 
 
