@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Weekend Deals on Headphones, Camp Stoves, and More](https://www.wired.com/story/weekend-deals-september-10-2022/)
- - [EcoFlow Delta Pro battery review: maximum solar power for an uncertain world](https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price)
- - [Apple&#39;s iPhone 14 eSIM Change Has Small Carriers Hopeful Switching Will Be Easier     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-esim-change-has-small-carriers-hopeful-switching-will-be-easier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tyler &quot;Ninja&quot; Blevins says he will be simultaneously streaming on Twitch, YouTube, Facebook, TikTok, Instagram, and Twitter &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220910/p5#a220910p5)
+ - [Master of Nothing: Carl Pei on the business of hype, and building an ecosystem](https://www.androidauthority.com/carl-pei-nothing-phone-1-interview-3202840/)
+ - [As the Planet Warms, Canada Faces an Influx of Climate Refugees](https://www.wired.com/story/as-the-planet-warms-canada-faces-an-influx-of-climate-refugees/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
