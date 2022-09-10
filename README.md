@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Regal, an outbound call and text messaging tools provider to brands, raised a $38.5M Series A led by Emergence Capital at a $350M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220909/p24#a220909p24)
- - [Middle Eastern on-demand trucking platform TruKKer, which matches shippers and freight carriers, raised $100M from Investcorp and others ahead of a planned IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/220909/p23#a220909p23)
- - [One-click checkout service Bolt is no longer buying crypto payments service Wyre; the deal was worth about $1.5B &lpar;Axios&rpar;](http://www.techmeme.com/220909/p22#a220909p22)<!-- TECH:END -->
+ - [In a letter to Twitter, Musk&#39;s legal team cited Twitter&#39;s ~$7M settlement with Peiter Zatko as a violation of the merger agreement and a reason to end the deal &lpar;The Verge&rpar;](http://www.techmeme.com/220910/p1#a220910p1)
+ - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Times, How to Watch, Weigh-In Madness     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-times-how-to-watch-weigh-in-madness/#ftag=CAD590a51e)
+ - [NYC-based Regal, an outbound call and text messaging tools provider to brands, raised a $38.5M Series A led by Emergence Capital at a $350M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220909/p24#a220909p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
