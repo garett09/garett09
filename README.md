@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel foldable and a ‘Pro’ tablet hinted at in Android 13 code](https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors)
- - [The best iPhone 14 series alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-14-alternatives-3206124/)
- - [Small US carriers say Apple making eSIM the only option for iPhone 14 models in the US &quot;democratizes connectivity&quot; by letting users switch networks easily &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/220910/p6#a220910p6)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-449-3207213/)
+ - [Apple’s latest iPad Mini is $100 off right now at Amazon and Best Buy](https://www.theverge.com/good-deals/2022/9/10/23344682/apple-ipad-mini-2021-macbook-pro-m2-samsung-frame-tv-amazon-fire-stick-4k-razer-chair-deal-sale)
+ - [Google Pixel foldable and a ‘Pro’ tablet hinted at in Android 13 code](https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
