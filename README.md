@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Raw](http://9gag.com/gag/amAqo14)
- - 🚯 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
- - 🚯 [Best job.](http://9gag.com/gag/adPyP52)<!-- MEMES:END -->
+ - 🚖 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
+ - 🚯 [Every introvert dream](http://9gag.com/gag/ajVQPw0)
+ - 🚯 [She will be missed](http://9gag.com/gag/aXnZrKz)<!-- MEMES:END -->
 
 --- 
 
