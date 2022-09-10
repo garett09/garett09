@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man draws perfect circle before having a seizure](http://9gag.com/gag/ap9KDv9)
- - 🚯 [This has to be scripted, right? it is, right?](http://9gag.com/gag/aWGBLx4)
- - 🚯 [Rabbit can swim](http://9gag.com/gag/aoKm33n)<!-- MEMES:END -->
+ - 🚖 [Who did it better?](http://9gag.com/gag/ap9KDn8)
+ - 🚯 [Blacks will say he&#39;s a paid actor.](http://9gag.com/gag/adPy1Kj)
+ - 🚯 [Don&#39;t let the Roomba-industrial Complex tell us otherwise](http://9gag.com/gag/a3Zv511)<!-- MEMES:END -->
 
 --- 
 
