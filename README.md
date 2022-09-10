@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tyler &quot;Ninja&quot; Blevins says he will be simultaneously streaming on Twitch, YouTube, Facebook, TikTok, Instagram, and Twitter &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220910/p5#a220910p5)
- - [Master of Nothing: Carl Pei on the business of hype, and building an ecosystem](https://www.androidauthority.com/carl-pei-nothing-phone-1-interview-3202840/)
- - [As the Planet Warms, Canada Faces an Influx of Climate Refugees](https://www.wired.com/story/as-the-planet-warms-canada-faces-an-influx-of-climate-refugees/)<!-- TECH:END -->
+ - [Hackers Target Los Angeles School District With Ransomware](https://www.wired.com/story/la-school-district-ransomware-albania-iran-security-roundup/)
+ - [Apple Messages Won’t Play Nice With Android Anytime Soon](https://www.wired.com/story/android-iphone-rcs-tim-cook-green-bubbles/)
+ - [Let me watch TV on the Apple Watch Ultra](https://www.theverge.com/23342927/apple-watch-ultra-tv-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
