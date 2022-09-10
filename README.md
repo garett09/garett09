@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This trucker had a pretty good day](http://9gag.com/gag/aA0BQmg)
- - 🚯 [Oopsie daisy](http://9gag.com/gag/aoKm39m)
- - 🚯 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)<!-- MEMES:END -->
+ - 🚖 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)
+ - 🚯 [I?m proud too](http://9gag.com/gag/agorQXw)
+ - 🚯 [Wth the whole ,,tears in the rain,, monolog.](http://9gag.com/gag/axoEWbD)<!-- MEMES:END -->
 
 --- 
 
