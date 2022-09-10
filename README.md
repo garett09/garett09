@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys reaction on Rimac Nevera acceleration from 0-350 km/h in less then 30 seconds&lpar;0-100 km/h is 1.9 seconds&rpar;.](http://9gag.com/gag/agorOA6)
- - 🚯 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
- - 🚯 [Facts](http://9gag.com/gag/ajVQ1Vx)<!-- MEMES:END -->
+ - 🚖 [Losing Shoes](http://9gag.com/gag/aEqdAVp)
+ - 🚯 [Sheesh](http://9gag.com/gag/a5Xpw9r)
+ - 🚯 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)<!-- MEMES:END -->
 
 --- 
 
