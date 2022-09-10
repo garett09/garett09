@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)
- - 🚯 [Every introvert dream](http://9gag.com/gag/ajVQPw0)
- - 🚯 [Balls](http://9gag.com/gag/az27x7Z)<!-- MEMES:END -->
+ - 🚖 [Every introvert dream](http://9gag.com/gag/ajVQPw0)
+ - 🚯 [Fun fact: he also played Morla in The Neverending Story](http://9gag.com/gag/anze7dq)
+ - 🚯 [Weebs, weebs everywhere](http://9gag.com/gag/a1Pp7dP)<!-- MEMES:END -->
 
 --- 
 
