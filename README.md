@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meme legend still sticking Paddington into other movies and TV shows](https://www.polygon.com/23311556/paddington-photoshop-into-movies-tv-meme)
- - [How to watch the Marvel and Star Wars presentation at D23 2022](https://www.polygon.com/23344726/d23-2022-marvel-lucasfilm-disney-star-wars-livestream-schedule)
- - [Daniel Radcliffe commits to the bit 10,000% in Weird: The Al Yankovic Story](https://www.polygon.com/reviews/23345217/weird-the-al-yankovic-story-review-daniel-radcliffe)<!-- GAME:END -->
+ - [The Mandalorian season 3 trailer reunites Mando and Grogu](https://www.polygon.com/star-wars/23143079/mandalorian-season-3-trailer-release-date-disney-plus)
+ - [First trailer for Star Wars’ anthology Tales of the Jedi centers on Ahsoka and more prequel faves](https://www.polygon.com/star-wars/23346030/tales-jedi-trailer-star-wars-release-date)
+ - [Lucasfilm’s revival of Willow looks fun as hell](https://www.polygon.com/23345999/willow-disney-plus-trailer-release-date-cast-d23-expo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
