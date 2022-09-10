@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Ubisoft Forward livestream](https://www.pcgamer.com/ubisoft-forward-how-to-watch-september-2022)
- - [Today&#39;s Wordle 448 answer and hint: Saturday, September 10](https://www.pcgamer.com/todays-wordle-448-answer-hint)
- - [All the big Disney and Pixar trailers and news out of D23 2022](https://www.polygon.com/23345421/disney-pixar-animation-panel-d23-2022-biggest-trailers-announcements)<!-- GAME:END -->
+ - [Daniel Radcliffe commits to the bit 10,000% in Weird: The Al Yankovic Story](https://www.polygon.com/reviews/23345217/weird-the-al-yankovic-story-review-daniel-radcliffe)
+ - [How to watch Ubisoft Forward and Assassin’s Creed’s 15th birthday celebration](https://www.polygon.com/23344185/ubisoft-forward-date-what-time-assassins-creed-division-heartland)
+ - [How to watch the Ubisoft Forward livestream](https://www.pcgamer.com/ubisoft-forward-how-to-watch-september-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
