@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is over it is done..](http://9gag.com/gag/a3Zv585)
- - 🚯 [Rabbit can swim](http://9gag.com/gag/aoKm33n)
- - 🚯 [Food... now](http://9gag.com/gag/aDYR7VN)<!-- MEMES:END -->
+ - 🚖 [Food... now](http://9gag.com/gag/aDYR7VN)
+ - 🚯 [When the locals see the soldiers are Ukrainian \u2026](http://9gag.com/gag/a2KEMv9)
+ - 🚯 [It is over it is done..](http://9gag.com/gag/a3Zv585)<!-- MEMES:END -->
 
 --- 
 
