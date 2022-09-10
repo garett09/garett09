@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
- - 🚯 [Every introvert dream](http://9gag.com/gag/ajVQPw0)
- - 🚯 [She will be missed](http://9gag.com/gag/aXnZrKz)<!-- MEMES:END -->
+ - 🚖 [And they call this Man king of incell?](http://9gag.com/gag/avQ2Q0E)
+ - 🚯 [We\u2019ve been friends on Xbox for 10 years. Today we finally met](http://9gag.com/gag/aVbjvLM)
+ - 🚯 [Milkshake](http://9gag.com/gag/amAqoo4)<!-- MEMES:END -->
 
 --- 
 
