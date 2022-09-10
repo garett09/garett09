@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Shown At Disney And Marvel&#39;s D23 Event](https://kotaku.com/disney-d23-marvel-captain-america-mickey-mouse-1849519773)
- - [Minecraft Live Broadcast on October 15](https://news.xbox.com/en-us/2022/09/09/minecraft-live-broadcast-on-october-15/)
- - [Lowkey, This Nintendo Switch Mickey Mouse Game Was The Coolest Thing At Disney’s Showcase](https://kotaku.com/disney-marvel-d23-illusion-island-mickey-switch-cartoon-1849519731)<!-- GAME:END -->
+ - [10 Best Video Game Side Quests](https://game-rant-2022.blogspot.com/2022/09/10-best-video-game-side-quests.html)
+ - [Most cinematic war games](https://game-rant-2022.blogspot.com/2022/09/most-cinematic-war-games.html)
+ - [Champions League Fantasy Football: what the numbers say |  UEFA Champions League](https://game-rant-2022.blogspot.com/2022/09/champions-league-fantasy-football-what_9.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
