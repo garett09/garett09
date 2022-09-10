@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-449-3207213/)
- - [Apple’s latest iPad Mini is $100 off right now at Amazon and Best Buy](https://www.theverge.com/good-deals/2022/9/10/23344682/apple-ipad-mini-2021-macbook-pro-m2-samsung-frame-tv-amazon-fire-stick-4k-razer-chair-deal-sale)
- - [Google Pixel foldable and a ‘Pro’ tablet hinted at in Android 13 code](https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors)<!-- TECH:END -->
+ - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
+ - [Here’s how the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs)
+ - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
