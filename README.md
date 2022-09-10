@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d kick it in the ding-dong.](http://9gag.com/gag/awZNmey)
+ - 🚖 [Beware! The real deal is here!](http://9gag.com/gag/a1Pp0Zw)
  - 🚯 [Dad gets it](http://9gag.com/gag/awZNmby)
- - 🚯 [NO lets make `THEM` eat the bugs](http://9gag.com/gag/aVbjo78)<!-- MEMES:END -->
+ - 🚯 [The Golden Age \uff3c\u2060&lpar;\u2060\u25ce\u2060o\u2060\u25ce\u2060&rpar;\u2060\uff0f](http://9gag.com/gag/aA0BKR2)<!-- MEMES:END -->
 
 --- 
 
