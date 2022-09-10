@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sieg](http://9gag.com/gag/az27e9m)
- - 🚯 [Converting an abandoned chapel](http://9gag.com/gag/aKE4Ex6)
- - 🚯 [Minnesota Vikings Gjallarhorn](http://9gag.com/gag/a8qd1Y6)<!-- MEMES:END -->
+ - 🚖 [Let the shit posting begin](http://9gag.com/gag/aA0BGG9)
+ - 🚯 [A cat named `Pusur` decided to follow a group of hikers all the way up a VERY steep 1700m mountain and made them carry him back down.](http://9gag.com/gag/aNwmwQ4)
+ - 🚯 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)<!-- MEMES:END -->
 
 --- 
 
