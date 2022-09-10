@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixar Announces &#39;Inside Out 2&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/pixar-announces-inside-out-2-at-d23/#ftag=CAD590a51e)
- - [Disney&#39;s Live-Action &#39;The Little Mermaid&#39; Teaser Trailer Drops at D23     - CNET](https://www.cnet.com/culture/entertainment/disneys-live-action-the-little-mermaid-teaser-trailer-drops-at-d23/#ftag=CAD590a51e)
- - [Disney Unveils &#39;Mufasa: The Lion King&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/disney-unveils-mufasa-the-lion-king-at-d23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Regal, an outbound call and text messaging tools provider to brands, raised a $38.5M Series A led by Emergence Capital at a $350M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220909/p24#a220909p24)
+ - [Middle Eastern on-demand trucking platform TruKKer, which matches shippers and freight carriers, raised $100M from Investcorp and others ahead of a planned IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/220909/p23#a220909p23)
+ - [One-click checkout service Bolt is no longer buying crypto payments service Wyre; the deal was worth about $1.5B &lpar;Axios&rpar;](http://www.techmeme.com/220909/p22#a220909p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
