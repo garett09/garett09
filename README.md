@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Majestic and chonky AF](http://9gag.com/gag/ap9K1R9)
- - 🚯 [Weebs, weebs everywhere](http://9gag.com/gag/a1Pp7dP)
+ - 🚖 [This trucker had a pretty good day](http://9gag.com/gag/aA0BQmg)
+ - 🚯 [Oopsie daisy](http://9gag.com/gag/aoKm39m)
  - 🚯 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)<!-- MEMES:END -->
 
 --- 
