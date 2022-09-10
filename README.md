@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to Twitter, Musk&#39;s legal team cited Twitter&#39;s ~$7M settlement with Peiter Zatko as a violation of the merger agreement and a reason to end the deal &lpar;The Verge&rpar;](http://www.techmeme.com/220910/p1#a220910p1)
- - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Times, How to Watch, Weigh-In Madness     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-times-how-to-watch-weigh-in-madness/#ftag=CAD590a51e)
- - [NYC-based Regal, an outbound call and text messaging tools provider to brands, raised a $38.5M Series A led by Emergence Capital at a $350M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220909/p24#a220909p24)<!-- TECH:END -->
+ - [Meta unveils Pseudonymized Facebook Identifiers, which combine timestamps and Facebook Identifiers, to deter unauthorized data scraping &lpar;Matthew S. Burriesci/Meta&rpar;](http://www.techmeme.com/220910/p3#a220910p3)
+ - [CEO Dave Baszucki says Roblox sees 2M+ daily active users in Russia, while competitors like EA, Nintendo, and Ubisoft have slowed or ceased sales in the country &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220910/p2#a220910p2)
+ - [In a letter to Twitter, Musk&#39;s legal team cited Twitter&#39;s ~$7M settlement with Peiter Zatko as a violation of the merger agreement and a reason to end the deal &lpar;The Verge&rpar;](http://www.techmeme.com/220910/p1#a220910p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
