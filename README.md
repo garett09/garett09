@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Sieg](http://9gag.com/gag/az27e9m)
- - 🚯 [Algerians casually summon a gate to hell during football match](http://9gag.com/gag/a9qjqjW)
+ - 🚯 [Converting an abandoned chapel](http://9gag.com/gag/aKE4Ex6)
  - 🚯 [Minnesota Vikings Gjallarhorn](http://9gag.com/gag/a8qd1Y6)<!-- MEMES:END -->
 
 --- 
