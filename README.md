@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who did it better?](http://9gag.com/gag/ap9KDn8)
- - 🚯 [Blacks will say he&#39;s a paid actor.](http://9gag.com/gag/adPy1Kj)
- - 🚯 [Don&#39;t let the Roomba-industrial Complex tell us otherwise](http://9gag.com/gag/a3Zv511)<!-- MEMES:END -->
+ - 🚖 [I&#39;d kick it in the ding-dong.](http://9gag.com/gag/awZNmey)
+ - 🚯 [Dad gets it](http://9gag.com/gag/awZNmby)
+ - 🚯 [NO lets make `THEM` eat the bugs](http://9gag.com/gag/aVbjo78)<!-- MEMES:END -->
 
 --- 
 
