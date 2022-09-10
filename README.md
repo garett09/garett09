@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian season 3 trailer reunites Mando and Grogu](https://www.polygon.com/star-wars/23143079/mandalorian-season-3-trailer-release-date-disney-plus)
- - [First trailer for Star Wars’ anthology Tales of the Jedi centers on Ahsoka and more prequel faves](https://www.polygon.com/star-wars/23346030/tales-jedi-trailer-star-wars-release-date)
- - [Lucasfilm’s revival of Willow looks fun as hell](https://www.polygon.com/23345999/willow-disney-plus-trailer-release-date-cast-d23-expo)<!-- GAME:END -->
+ - [Marvel’s Halloween special brings werewolves to the MCU](https://www.polygon.com/23220537/marvel-halloween-special-disney-plus-werewolf-by-night-d23)
+ - [Marvel’s Secret Invasion trailer brings a war to Earth that only Samuel L. Jackson can stop](https://www.polygon.com/23341283/secret-invasion-trailer-marvel-disney-plus)
+ - [All the Star Wars trailers and news out of this year’s D23](https://www.polygon.com/star-wars/23346003/star-wars-trailers-news-announcements-d23)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
