@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Losing Shoes](http://9gag.com/gag/aEqdAVp)
- - 🚯 [Sheesh](http://9gag.com/gag/a5Xpw9r)
- - 🚯 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)<!-- MEMES:END -->
+ - 🚖 [Sheesh](http://9gag.com/gag/a5Xpw9r)
+ - 🚯 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
+ - 🚯 [Losing Shoes](http://9gag.com/gag/aEqdAVp)<!-- MEMES:END -->
 
 --- 
 
