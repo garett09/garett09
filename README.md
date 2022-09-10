@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers Target Los Angeles School District With Ransomware](https://www.wired.com/story/la-school-district-ransomware-albania-iran-security-roundup/)
- - [Apple Messages Won’t Play Nice With Android Anytime Soon](https://www.wired.com/story/android-iphone-rcs-tim-cook-green-bubbles/)
- - [Let me watch TV on the Apple Watch Ultra](https://www.theverge.com/23342927/apple-watch-ultra-tv-watch)<!-- TECH:END -->
+ - [Brand new iPhone features that Android already has](https://www.theverge.com/23319739/apple-iphone-ios-16-android-features-google-apps-comparison)
+ - [Apple just invented picture cropping with the iPhone 14 Pro series](https://www.androidauthority.com/apple-invented-picture-cropping-opinion-3206737/)
+ - [WALL-E is rolling his way into the Criterion Collection](https://www.theverge.com/2022/9/10/23345385/wall-e-criterion-collection-4k-blu-ray)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
