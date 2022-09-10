@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Andor trailer gives us a glimpse at the Star Wars spinoff ahead of its premiere](https://www.theverge.com/2022/9/10/23346019/andor-trailer-star-wars-spinoff-rogue-one-disney-plus-premiere)
- - [Should I buy new smart home devices now or wait for Matter?](https://www.androidauthority.com/wait-for-matter-smart-home-3200366/)
- - [Compared: iPhone 14 Plus vs. iPhone 14 Pro Max](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-plus-vs-iphone-14-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [The Mandalorian season three teaser trailer collects all of our old friends](https://www.theverge.com/2022/9/10/23346053/the-mandalorian-s3-trailer-star-wars-disney-plus)
+ - [D23 Expo 22 So Far: &#39;Mandalorian&#39; Season 3 Trailer, More Star Wars, Marvel News     - CNET](https://www.cnet.com/culture/entertainment/d23-expo-2022-disney-reveals-so-far-and-marvel-star-wars-updates-to-expect/#ftag=CAD590a51e)
+ - [Latest Andor trailer gives us a glimpse at the Star Wars spinoff ahead of its premiere](https://www.theverge.com/2022/9/10/23346019/andor-trailer-star-wars-spinoff-rogue-one-disney-plus-premiere)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
