@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Best Video Game Side Quests](https://game-rant-2022.blogspot.com/2022/09/10-best-video-game-side-quests.html)
- - [Most cinematic war games](https://game-rant-2022.blogspot.com/2022/09/most-cinematic-war-games.html)
- - [Champions League Fantasy Football: what the numbers say |  UEFA Champions League](https://game-rant-2022.blogspot.com/2022/09/champions-league-fantasy-football-what_9.html)<!-- GAME:END -->
+ - [All the big Disney and Pixar trailers and news out of D23 2022](https://www.polygon.com/23345421/disney-pixar-animation-panel-d23-2022-biggest-trailers-announcements)
+ - [Disney’s new animated musical is about the Star its heroes are always wishing upon](https://www.polygon.com/23345431/wish-disney-animation-release-date-music)
+ - [Pan-African entertainment studio Kugali vowed to kick Disney’s butt — and Disney was into it](https://www.polygon.com/animation-cartoons/22537536/iwaju-disney-kugali-studio-annecy-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
