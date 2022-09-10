@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the locals see the soldiers are Ukrainian \u2026](http://9gag.com/gag/a2KEMv9)
- - 🚯 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)
- - 🚯 [I?m proud too](http://9gag.com/gag/agorQXw)<!-- MEMES:END -->
+ - 🚖 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)
+ - 🚯 [Every introvert dream](http://9gag.com/gag/ajVQPw0)
+ - 🚯 [Balls](http://9gag.com/gag/az27x7Z)<!-- MEMES:END -->
 
 --- 
 
