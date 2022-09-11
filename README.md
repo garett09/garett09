@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Sept. 11 - $400 off 16-inch MacBook Pro, $17 off Philips Hue Downlight, $250 off Radeon RX 6700 XT, more!](https://appleinsider.com/articles/22/09/11/daily-deals-sept-11---400-off-16-inch-macbook-pro-17-off-philips-hue-downlight-250-off-radeon-rx-6700-xt-more?utm_medium=rss)
- - [Sources: Sea, whose market cap has gone from $200B+ to ~$28B since Oct. 2021, shuts some Latin American operations and cuts hundreds of gaming jobs in Shanghai &lpar;Reuters&rpar;](http://www.techmeme.com/220911/p4#a220911p4)
- - [This itsy bitsy Bluetooth speaker is super loud and charges over USB-C or Qi](https://www.androidauthority.com/boompods-zero-3206880/)<!-- TECH:END -->
+ - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
+ - [Samsung Galaxy S22 Ultra revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-revisited-3203729/)
+ - [The Best Video Doorbell Cameras](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
