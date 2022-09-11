@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 vs Watch SE 2: Which should you buy?](https://www.androidauthority.com/apple-watch-series-8-vs-watch-se-2-3207055/)
- - [Best 2022 Advent Calendars for Kids     - CNET](https://www.cnet.com/health/parenting/best-advent-calendars-for-kids/#ftag=CAD590a51e)
- - [HBO Max: The 28 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-28-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
+ - [Compared: iPhone 13 Pro &amp; iPhone 13 Pro Max vs iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/09/11/compared-iphone-13-pro-iphone-13-pro-max-vs-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)
+ - [Report: ransomware gangs are using intermittent encryption, where files are partly encrypted, to evade detection tools looking for intense file I/O operations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220911/p6#a220911p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
