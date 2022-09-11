@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who did it better?](http://9gag.com/gag/ap9KDn8)
- - 🚯 [Empathy is everything](http://9gag.com/gag/awZNLy8)
- - 🚯 [The Golden Age \uff3c\u2060&lpar;\u2060\u25ce\u2060o\u2060\u25ce\u2060&rpar;\u2060\uff0f](http://9gag.com/gag/aA0BKR2)<!-- MEMES:END -->
+ - 🚖 [A true king](http://9gag.com/gag/agor8MK)
+ - 🚯 [Healthy relationship](http://9gag.com/gag/aA0B4d9)
+ - 🚯 [Insane driving skills](http://9gag.com/gag/a3Zv878)<!-- MEMES:END -->
 
 --- 
 
