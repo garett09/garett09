@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like looking in the mirror](http://9gag.com/gag/aqe4WGp)
- - 🚯 [Team of German scientists have developed tattoos that change color according to the body&#39;s levels of glucose and albumin or its pH. This would allow patients with diabetes or kidney disease keep track of their health without having to take constant blood samples.](http://9gag.com/gag/aL16X5g)
- - 🚯 [Three targets - and three hits](http://9gag.com/gag/aoKmL6A)<!-- MEMES:END -->
+ - 🚖 [ONE people](http://9gag.com/gag/adPy2od)
+ - 🚯 [Plain and simple](http://9gag.com/gag/aA0B2zR)
+ - 🚯 [Team of German scientists have developed tattoos that change color according to the body&#39;s levels of glucose and albumin or its pH. This would allow patients with diabetes or kidney disease keep track of their health without having to take constant blood samples.](http://9gag.com/gag/aL16X5g)<!-- MEMES:END -->
 
 --- 
 
