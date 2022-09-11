@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This has to be scripted, right? it is, right?](http://9gag.com/gag/aWGBLx4)
- - 🚯 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
- - 🚯 [Sheesh](http://9gag.com/gag/a5Xpw9r)<!-- MEMES:END -->
+ - 🚖 [Who did it better?](http://9gag.com/gag/ap9KDn8)
+ - 🚯 [Empathy is everything](http://9gag.com/gag/awZNLy8)
+ - 🚯 [The Golden Age \uff3c\u2060&lpar;\u2060\u25ce\u2060o\u2060\u25ce\u2060&rpar;\u2060\uff0f](http://9gag.com/gag/aA0BKR2)<!-- MEMES:END -->
 
 --- 
 
