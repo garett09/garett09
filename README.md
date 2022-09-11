@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ohoooo Canada, eer home and native land](http://9gag.com/gag/avQ2xyO)
- - 🚯 [The servant must clear my desk for me. I can&#39;t be expected to move things.](http://9gag.com/gag/a04v04L)
- - 🚯 [Ke Huy Quan and Harrison Ford 40 years apart](http://9gag.com/gag/ap9KPwb)<!-- MEMES:END -->
+ - 🚖 [What a drag](http://9gag.com/gag/aqe4xWY)
+ - 🚯 [Have you ever seen the Royal Guards take off their hats?](http://9gag.com/gag/a3ZvyW8)
+ - 🚯 [Ohoooo Canada, eer home and native land](http://9gag.com/gag/avQ2xyO)<!-- MEMES:END -->
 
 --- 
 
