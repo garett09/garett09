@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rage quit](http://9gag.com/gag/axoER1W)
- - 🚯 [This road in Australia](http://9gag.com/gag/aOxoPLR)
- - 🚯 [The best Ad ever](http://9gag.com/gag/anzex8L)<!-- MEMES:END -->
+ - 🚖 [The best Ad ever](http://9gag.com/gag/anzex8L)
+ - 🚯 [Rusbots have been very quiet lately. This is why](http://9gag.com/gag/anzeDxn)
+ - 🚯 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)<!-- MEMES:END -->
 
 --- 
 
