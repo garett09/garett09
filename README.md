@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Godspeed](http://9gag.com/gag/a9qjOO1)
- - 🚯 [After FC Magdeburg went 5 games without scoring](http://9gag.com/gag/agorEx1)
- - 🚯 [The scale of a marble quarry can be so huge that an excavator might look like a toy](http://9gag.com/gag/a6qrj3L)<!-- MEMES:END -->
+ - 🚖 [American Healthcare system is a JOKE!](http://9gag.com/gag/a8qdwwO)
+ - 🚯 [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)
+ - 🚯 [Why 99% of all movies and TV series today are garbage. - spitting facts.](http://9gag.com/gag/az27YeN)<!-- MEMES:END -->
 
 --- 
 
