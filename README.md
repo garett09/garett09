@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ONE people](http://9gag.com/gag/adPy2od)
- - 🚯 [Plain and simple](http://9gag.com/gag/aA0B2zR)
- - 🚯 [Team of German scientists have developed tattoos that change color according to the body&#39;s levels of glucose and albumin or its pH. This would allow patients with diabetes or kidney disease keep track of their health without having to take constant blood samples.](http://9gag.com/gag/aL16X5g)<!-- MEMES:END -->
+ - 🚖 [Team of German scientists have developed tattoos that change color according to the body&#39;s levels of glucose and albumin or its pH. This would allow patients with diabetes or kidney disease keep track of their health without having to take constant blood samples.](http://9gag.com/gag/aL16X5g)
+ - 🚯 [Guy books and AirBnB in Wales. Opens the door to this.](http://9gag.com/gag/aOxo1BD)
+ - 🚯 [Why 99% of all movies and TV series today are garbage. - spitting facts.](http://9gag.com/gag/az27YeN)<!-- MEMES:END -->
 
 --- 
 
