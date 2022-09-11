@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Keyboard Tips for Your Phone](https://www.wired.com/story/7-phone-keyboard-tips/)
- - [An overview of trends from YC&#39;s Demo Day for Summer 2022: enterprise made up the bulk at 39% of the 223 startups in the batch, followed by fintech and dev tools &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220911/p3#a220911p3)
- - [The US SEC will set up the &quot;Office of Crypto Assets&quot; to deal with corporate disclosure filings related to the crypto industry &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220911/p2#a220911p2)<!-- TECH:END -->
+ - [Daily deals Sept. 11 - $400 off 16-inch MacBook Pro, $17 off Philips Hue Downlight, $250 off Radeon RX 6700 XT, more!](https://appleinsider.com/articles/22/09/11/daily-deals-sept-11---400-off-16-inch-macbook-pro-17-off-philips-hue-downlight-250-off-radeon-rx-6700-xt-more?utm_medium=rss)
+ - [Sources: Sea, whose market cap has gone from $200B+ to ~$28B since Oct. 2021, shuts some Latin American operations and cuts hundreds of gaming jobs in Shanghai &lpar;Reuters&rpar;](http://www.techmeme.com/220911/p4#a220911p4)
+ - [This itsy bitsy Bluetooth speaker is super loud and charges over USB-C or Qi](https://www.androidauthority.com/boompods-zero-3206880/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
