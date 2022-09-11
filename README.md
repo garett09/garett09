@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Insane driving skills](http://9gag.com/gag/a3Zv878)
- - 🚯 [Truck](http://9gag.com/gag/aA0BM5g)
+ - 🚖 [Stormtroopers 9/11](http://9gag.com/gag/anzexPn)
+ - 🚯 [Rage quit](http://9gag.com/gag/axoER1W)
  - 🚯 [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)<!-- MEMES:END -->
 
 --- 
