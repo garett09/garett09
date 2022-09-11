@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [When you drag a captured tank with another captured tank...](http://9gag.com/gag/a8qd2VV)
- - 🚯 [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)
- - 🚯 [What a drag](http://9gag.com/gag/aqe4xWY)<!-- MEMES:END -->
+ - 🚯 [Spaghetti with ketchup](http://9gag.com/gag/aBd9EbQ)
+ - 🚯 [Rage quit](http://9gag.com/gag/axoER1W)<!-- MEMES:END -->
 
 --- 
 
