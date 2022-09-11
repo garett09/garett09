@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)
- - 🚯 [Nasa................................](http://9gag.com/gag/ajVQK6x)
- - 🚯 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aL16XXM)<!-- MEMES:END -->
+ - 🚖 [American Healthcare system is a JOKE!](http://9gag.com/gag/a8qdwwO)
+ - 🚯 [This road in Australia](http://9gag.com/gag/aOxoPLR)
+ - 🚯 [Like looking in the mirror](http://9gag.com/gag/aqe4WGp)<!-- MEMES:END -->
 
 --- 
 
