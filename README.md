@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matternet’s delivery drone design has been approved by the FAA](https://www.theverge.com/2022/9/11/23347199/matternet-delivery-drone-model-m2-design-approved-faa)
- - [Apple isn&#39;t done with 2022 -- here&#39;s what&#39;s still coming](https://appleinsider.com/articles/22/09/08/apple-isnt-done-with-2022----heres-whats-still-coming?utm_medium=rss)
- - [Apple&#39;s iPhone subscription may still arrive in 2022](https://appleinsider.com/articles/22/09/11/apples-iphone-subscription-may-still-arrive-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Series 8 vs Watch SE 2: Which should you buy?](https://www.androidauthority.com/apple-watch-series-8-vs-watch-se-2-3207055/)
+ - [Best 2022 Advent Calendars for Kids     - CNET](https://www.cnet.com/health/parenting/best-advent-calendars-for-kids/#ftag=CAD590a51e)
+ - [HBO Max: The 28 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-28-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
