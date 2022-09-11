@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
- - [Compared: iPhone 13 Pro &amp; iPhone 13 Pro Max vs iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/09/11/compared-iphone-13-pro-iphone-13-pro-max-vs-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)
- - [Report: ransomware gangs are using intermittent encryption, where files are partly encrypted, to evade detection tools looking for intense file I/O operations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220911/p6#a220911p6)<!-- TECH:END -->
+ - [Daily deals Sept. 11 - $400 off 16-inch MacBook Pro, $17 off Philips Hue Downlight, $250 off Radeon RX 6700 XT, more!](https://appleinsider.com/articles/22/09/11/daily-deals-sept-11---400-off-16-inch-macbook-pro-17-off-philips-hue-downlight-250-off-radeon-rx-6700-xt-more?utm_medium=rss)
+ - [Apple taking 85% of Globalstar network for Emergency SOS](https://appleinsider.com/articles/22/09/09/apple-taking-85-of-globalstar-network-for-emergency-sos?utm_medium=rss)
+ - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
