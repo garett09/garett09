@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [6 years old me after learning about other planets and moon&#39;s.](http://9gag.com/gag/avQ2xXM)
- - 🚯 [I know a few guys in my office like this\u2026specially in purchasing for some reason](http://9gag.com/gag/aRE6vEG)
- - 🚯 [When will you learn, old man!](http://9gag.com/gag/a2KEyB9)<!-- MEMES:END -->
+ - 🚖 [Insane driving skills](http://9gag.com/gag/a3Zv878)
+ - 🚯 [Truck](http://9gag.com/gag/aA0BM5g)
+ - 🚯 [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)<!-- MEMES:END -->
 
 --- 
 
