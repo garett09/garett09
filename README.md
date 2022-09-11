@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you drag a captured tank with another captured tank...](http://9gag.com/gag/a8qd2VV)
- - 🚯 [Spaghetti with ketchup](http://9gag.com/gag/aBd9EbQ)
- - 🚯 [Rage quit](http://9gag.com/gag/axoER1W)<!-- MEMES:END -->
+ - 🚖 [Rage quit](http://9gag.com/gag/axoER1W)
+ - 🚯 [This road in Australia](http://9gag.com/gag/aOxoPLR)
+ - 🚯 [The best Ad ever](http://9gag.com/gag/anzex8L)<!-- MEMES:END -->
 
 --- 
 
