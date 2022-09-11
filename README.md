@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A true king](http://9gag.com/gag/agor8MK)
- - 🚯 [Healthy relationship](http://9gag.com/gag/aA0B4d9)
- - 🚯 [Insane driving skills](http://9gag.com/gag/a3Zv878)<!-- MEMES:END -->
+ - 🚖 [Ohoooo Canada, eer home and native land](http://9gag.com/gag/avQ2xyO)
+ - 🚯 [The servant must clear my desk for me. I can&#39;t be expected to move things.](http://9gag.com/gag/a04v04L)
+ - 🚯 [Ke Huy Quan and Harrison Ford 40 years apart](http://9gag.com/gag/ap9KPwb)<!-- MEMES:END -->
 
 --- 
 
