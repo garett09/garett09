@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
- - [Samsung Galaxy S22 Ultra revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-revisited-3203729/)
- - [The Best Video Doorbell Cameras](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone subscription may still arrive in 2022](https://appleinsider.com/articles/22/09/11/apples-iphone-subscription-may-still-arrive-in-2022?utm_medium=rss)
+ - [Researchers discover a new strain of Linux malware called Shikitega that infects servers and IoT devices with stealth and sophistication, making detection tough &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220911/p5#a220911p5)
+ - [My temporary Apple envy is back, and it’s all about female health this time](https://www.androidauthority.com/apple-watch-female-health-3206829/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
