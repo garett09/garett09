@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best Ad ever](http://9gag.com/gag/anzex8L)
- - 🚯 [Rusbots have been very quiet lately. This is why](http://9gag.com/gag/anzeDxn)
- - 🚯 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)<!-- MEMES:END -->
+ - 🚖 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)
+ - 🚯 [Nasa................................](http://9gag.com/gag/ajVQK6x)
+ - 🚯 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aL16XXM)<!-- MEMES:END -->
 
 --- 
 
