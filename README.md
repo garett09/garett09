@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a drag](http://9gag.com/gag/aqe4xWY)
- - 🚯 [Have you ever seen the Royal Guards take off their hats?](http://9gag.com/gag/a3ZvyW8)
- - 🚯 [Ohoooo Canada, eer home and native land](http://9gag.com/gag/avQ2xyO)<!-- MEMES:END -->
+ - 🚖 [6 years old me after learning about other planets and moon&#39;s.](http://9gag.com/gag/avQ2xXM)
+ - 🚯 [I know a few guys in my office like this\u2026specially in purchasing for some reason](http://9gag.com/gag/aRE6vEG)
+ - 🚯 [When will you learn, old man!](http://9gag.com/gag/a2KEyB9)<!-- MEMES:END -->
 
 --- 
 
