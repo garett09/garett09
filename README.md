@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price: Apple M2 MacBook Air with 16GB RAM, 10-core GPU dips to $1,349](https://appleinsider.com/articles/22/09/12/lowest-price-apple-m2-macbook-air-with-16gb-ram-10-core-gpu-dips-to-1349?utm_medium=rss)
- - [iOS 16 &amp; iOS 15.7 updaters hit with App Store terms &amp; conditions bug](https://appleinsider.com/articles/22/09/12/ios-16-ios-156-updaters-hit-with-app-store-terms-conditions-bug?utm_medium=rss)
- - [These features are not in the initial release of iOS 16](https://appleinsider.com/articles/22/08/23/these-features-wont-be-in-the-release-of-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [How to capture text from a video on your Android phone](https://www.theverge.com/23349002/android-capture-text-google-how-to)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [How to generate AI art with Stable Diffusion on a Mac](https://appleinsider.com/inside/macos/tips/how-to-generate-ai-art-with-stable-diffusion-on-a-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
