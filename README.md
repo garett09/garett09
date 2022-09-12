@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)
- - 🚯 [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)
- - 🚯 [No one. Rhaenyra during the whole show.](http://9gag.com/gag/axoEnw2)<!-- MEMES:END -->
+ - 🚖 [Not OC but relevant](http://9gag.com/gag/avQ2BzW)
+ - 🚯 [Evil twin ? but who ?](http://9gag.com/gag/arm1DV0)
+ - 🚯 [Daily reminder](http://9gag.com/gag/ay2EA88)<!-- MEMES:END -->
 
 --- 
 
