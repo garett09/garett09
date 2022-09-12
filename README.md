@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starbucks announces Starbucks Odyssey, a loyalty program and NFT community built on the Polygon blockchain, launching broadly sometime in 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220912/p10#a220912p10)
- - [Daily deals Sept. 12 - 23% off Apple Watch Series 7, $200 off M2 MacBook Air, 24% off Level Bolt Smart Lock, more!](https://appleinsider.com/articles/22/09/12/daily-deals-sept-12---23-off-apple-watch-series-7-200-off-m2-macbook-air-24-off-level-bolt-smart-lock-more?utm_medium=rss)
- - [Twitter rejects Elon Musk&#39;s claim that a $7.75M severance payment to Peiter Zatko violated the acquisition deal, ahead of a shareholder vote on September 13 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220912/p9#a220912p9)<!-- TECH:END -->
+ - [In an interview, Zoom CEO Eric Yuan details the company&#39;s decision to rebrand Zoom Chat as Team Chat, seeking to better compete with Slack, Teams, and others &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/220912/p14#a220912p14)
+ - [Roku updates its $30 Roku Express streaming player, launches the $130 Roku Wireless Bass subwoofer, and details Roku OS 11.5, including a short-form content hub &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220912/p13#a220912p13)
+ - [Ling Ma’s Bliss Montage Peels Back a Different Kind of Fantasy](https://www.wired.com/story/ling-ma-bliss-montage-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
