@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman’s alternate personality with terrible fashion sense is back with a vengeance](https://www.polygon.com/2022/9/12/23348920/batman-comics-identity-zur-en-arrh)
- - [The Perfect Dark reboot needs to remember one important thing: it&#39;s much more than a spy game](https://game-rant-2022.blogspot.com/2022/09/the-perfect-dark-reboot-needs-to.html)
- - [Little Orpheus Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/little-orpheus-review-niche-gamer.html)<!-- GAME:END -->
+ - [The Witcher S3 reportedly wraps filming, bringing us one step closer to Geralt&#39;s next adventure](https://www.pcgamer.com/the-witcher-s3-reportedly-wraps-filming-bringing-us-one-step-closer-to-geralts-next-adventure)
+ - [In the early days of EverQuest, a cheater and designer waged a secret war from a San Diego gaming store](https://www.pcgamer.com/in-the-early-days-of-everquest-a-cheater-and-designer-waged-a-secret-war-from-a-san-diego-gaming-store)
+ - [I&#39;ve been playing this lo-fi Stardew Valley soundtrack as obsessively as the game](https://www.pcgamer.com/ive-been-playing-this-lo-fi-stardew-valley-soundtrack-as-obsessively-as-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
