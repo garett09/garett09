@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s 13th Gen 13600 and below to be based on the older Alder Lake architecture](https://www.pcgamer.com/intels-13th-gen-13600-and-below-to-be-based-on-the-older-alder-lake-architecture)
- - [US military set to get first delivery from $22 billion Microsoft HoloLens deal](https://www.pcgamer.com/us-military-set-to-get-first-delivery-from-dollar22-billion-microsoft-hololens-deal)
- - [Daemon’s House of the Dragon arc is patterned after a pivotal Targaryen tyrant](https://www.polygon.com/23343681/daemon-house-dragon-maegor-westeros-history-martin-explained)<!-- GAME:END -->
+ - [GIFs in Microsoft Teams not just annoying, actively dangerous](https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous)
+ - [Castlevania characters coming to Brawlhalla](https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla)
+ - [Intel&#39;s 13th Gen 13600 and below to be based on the older Alder Lake architecture](https://www.pcgamer.com/intels-13th-gen-13600-and-below-to-be-based-on-the-older-alder-lake-architecture)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
