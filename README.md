@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
  - [Today&#39;s Wordle 450 answer and hint: Monday, September 12](https://www.pcgamer.com/todays-wordle-450-answer-hint)
- - [GIFs in Microsoft Teams not just annoying, actively dangerous](https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous)
- - [Castlevania characters coming to Brawlhalla](https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla)<!-- GAME:END -->
+ - [GIFs in Microsoft Teams not just annoying, actively dangerous](https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
