@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
- - [Disneyland Expands Avengers Campus With &#39;King Thanos&#39; Multiverse Ride     - CNET](https://www.cnet.com/culture/entertainment/disneyland-expands-avengers-campus-with-king-thanos-multiverse-ride/#ftag=CAD590a51e)
- - [Best Adjustable Dumbbells for Strength Training at Home     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [D23: All the Marvel, Star Wars, Disney Trailers, Parks News and More     - CNET](https://www.cnet.com/culture/entertainment/d23-all-the-marvel-star-wars-disney-trailers-and-more/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies You Need To Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-you-need-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
