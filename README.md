@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You ungrateful bastard](http://9gag.com/gag/aOxoAb3)
- - 🚯 [Yep. string allallow](http://9gag.com/gag/aMEeNEP)
- - 🚯 [Why not both?](http://9gag.com/gag/aBd9NjA)<!-- MEMES:END -->
+ - 🚖 [Someone is gonna do this to the entire movie and upload it to the torrent](http://9gag.com/gag/aRE6NQ5)
+ - 🚯 [The moment he realized....](http://9gag.com/gag/abv3L5r)
+ - 🚯 [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)<!-- MEMES:END -->
 
 --- 
 
