@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [One Piece Gets Every Volume Merged Into One Long, 21,450 Page...Piece](https://kotaku.com/one-piece-art-eiichiro-oda-ilan-manouach-books-order-1849526104)
- - [Assassin’s Creed Mirage isn’t actually rated Adults Only, won’t have ‘real gambling’](https://www.polygon.com/23349244/assassins-creed-mirage-rating-adults-only-gambling-microtransactions)<!-- GAME:END -->
+ - [Batman’s alternate personality with terrible fashion sense is back with a vengeance](https://www.polygon.com/2022/9/12/23348920/batman-comics-identity-zur-en-arrh)
+ - [The Perfect Dark reboot needs to remember one important thing: it&#39;s much more than a spy game](https://game-rant-2022.blogspot.com/2022/09/the-perfect-dark-reboot-needs-to.html)
+ - [Little Orpheus Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/little-orpheus-review-niche-gamer.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
