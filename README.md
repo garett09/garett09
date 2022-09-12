@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insider Intelligence projects US online sales to rise just 9.4% to $1T in 2022, the first single-digit YoY growth, including slower Amazon sales, up 9% to $400B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220912/p1#a220912p1)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch/#ftag=CAD590a51e)
- - [iPhone 14 vs. iPhone 13: What&#39;s Changed With Apple&#39;s Newest iPhone Line     - CNET](https://www.cnet.com/tech/mobile/iphone-14-vs-iphone-13-whats-changed-with-apples-newest-iphone-line/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The new Google Chromecast HD might have a big advantage over its predecessor](https://www.androidauthority.com/google-chromecast-hd-specs-3207563/)
+ - [Everything Announced at D23: Marvel, Star Wars, Disney and More     - CNET](https://www.cnet.com/culture/entertainment/everything-announced-at-d23-marvel-star-wars-disney-and-more/#ftag=CAD590a51e)
+ - [Insider Intelligence projects US online sales to rise just 9.4% to $1T in 2022, the first single-digit YoY growth, including slower Amazon sales, up 9% to $400B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220912/p1#a220912p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
