@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone is gonna do this to the entire movie and upload it to the torrent](http://9gag.com/gag/aRE6NQ5)
- - 🚯 [The moment he realized....](http://9gag.com/gag/abv3L5r)
- - 🚯 [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)<!-- MEMES:END -->
+ - 🚖 [Tired of life? Chill a bit...](http://9gag.com/gag/amAqKg2)
+ - 🚯 [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)
+ - 🚯 [My LEGO IDEAS project `Sewer Heroes: Fighting the Fatberg` is dedicated to all water &amp; wastewater professionals, turning the spotlight on the urban underground in a way never seen before in LEGO form. The model needs 10,000 supporters for a chance of becoming a real LEGO set.](http://9gag.com/gag/abv3mNX)<!-- MEMES:END -->
 
 --- 
 
