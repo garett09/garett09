@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World&#39;s 2nd army](http://9gag.com/gag/a2KEj5O)
- - 🚯 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)
- - 🚯 [This really cool system to take a picture with your favorite players](http://9gag.com/gag/aXnZdyb)<!-- MEMES:END -->
+ - 🚖 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)
+ - 🚯 [Why not both?](http://9gag.com/gag/aBd9NjA)
+ - 🚯 [This Japanese guy traveled from Japan to England to watch Arsenal at the week the queen died.](http://9gag.com/gag/aeQKPNQ)<!-- MEMES:END -->
 
 --- 
 
