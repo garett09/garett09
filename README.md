@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New One Piece movie Red will sail its way to theaters in November](https://www.polygon.com/23349175/one-piece-film-red-release-date)
- - [I didn&#39;t expect to love Corsair&#39;s bendable OLED screen this much](https://www.pcgamer.com/corsair-xeneon-flex-oled-gaming-monitor-hands-on)
- - [Disney Dreamlight Valley: How to get seaweed](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)<!-- GAME:END -->
+ - [Diablo Immortal Community Faces New Unrest Over Ill-Gotten Orbs, Lack Of Bans](https://kotaku.com/diablo-immortal-buy-cheap-eternal-orbs-scam-ban-1849525793)
+ - [Disney aims to reshape Disneyland, World, and beyond with new attractions](https://www.polygon.com/23348758/disneyland-disney-world-parks-news-announcements-d23)
+ - [Head Of Halo Infinite Studio Is The Latest To Leave](https://kotaku.com/halo-infinite-343-industries-bonnie-ross-winter-update-1849525694)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
