@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh. That\u2019s ok then.](http://9gag.com/gag/amAqpjX)
- - 🚯 [Sweden goes to the polls for the general elections. Streets of Sweden:](http://9gag.com/gag/aL16Wpz)
- - 🚯 [Reminds me of something](http://9gag.com/gag/ap9KV45)<!-- MEMES:END -->
+ - 🚖 [Lucky girl](http://9gag.com/gag/aQE6r2q)
+ - 🚯 [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)
+ - 🚯 [Tarzan should be next](http://9gag.com/gag/az27QRB)<!-- MEMES:END -->
 
 --- 
 
