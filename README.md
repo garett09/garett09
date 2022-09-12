@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wall Street firms are gaining ground in the talent war as hiring freezes impact Silicon Valley and computer engineers move from big tech and crypto to finance &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/220912/p3#a220912p3)
- - [Daily Authority: 🍎 iPhone haves and have-nots](https://www.androidauthority.com/daily-authority-september-12-2022-3207588/)
- - [Poll: How often do you upgrade your tablet?](https://www.androidauthority.com/tablet-upgrade-poll-3207604/)<!-- TECH:END -->
+ - [Analysis: Amazon is projected to spend ~$15B on programming including sports in 2022, ahead of Netflix&#39;s $13.6B, Disney+&#39;s $9.5B, and Apple&#39;s $6B &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220912/p6#a220912p6)
+ - [You told us: You certainly don’t have multiple users on your phones](https://www.androidauthority.com/multiple-users-phone-poll-results-3207627/)
+ - [Digital World Acquisition Corp., seeking to take Truth Social public via a SPAC, fails to gain shareholder approval and sets an October 10 deadline for a vote &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220912/p5#a220912p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
