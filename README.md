@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lucky girl](http://9gag.com/gag/aQE6r2q)
- - 🚯 [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)
- - 🚯 [Tarzan should be next](http://9gag.com/gag/az27QRB)<!-- MEMES:END -->
+ - 🚖 [Explain this, my Dutch friends](http://9gag.com/gag/aDYRPDN)
+ - 🚯 [Only 2 after death](http://9gag.com/gag/awZN8N4)
+ - 🚯 [Stuntpeople demonstrate how camera angles, well time choreography, and selling the hit makes this blow look real.](http://9gag.com/gag/axoEAYK)<!-- MEMES:END -->
 
 --- 
 
