@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to capture text from a video on your Android phone](https://www.theverge.com/23349002/android-capture-text-google-how-to)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [How to generate AI art with Stable Diffusion on a Mac](https://appleinsider.com/inside/macos/tips/how-to-generate-ai-art-with-stable-diffusion-on-a-mac?utm_medium=rss)<!-- TECH:END -->
+ - [There’s a plan for Google’s failed balloon-based internet, and it involves lasers](https://www.theverge.com/2022/9/12/23349291/alphabet-google-project-loon-aalyria-lasers-communication)
+ - [Disney’s CEO teases a ‘hard bundle’ of Disney Plus and Hulu](https://www.theverge.com/2022/9/12/23349569/disney-hulu-hard-bundle-bob-chapek-d23)
+ - [Apple plans to add a Clean Energy Charging feature to iOS 16 in 2022, optimizing iPhone charging times for when the power grid is using cleaner energy sources &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220912/p23#a220912p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
