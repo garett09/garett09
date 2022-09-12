@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New attack can unlock and start a Tesla Model Y in seconds, say researchers](https://www.theverge.com/2022/9/12/23348765/tesla-model-y-unlock-drive-car-thief-nfc-relay-attack)
- - [The Top New Features in Apple&#39;s WatchOS 9](https://www.wired.com/story/apple-watchos-9-new-features/)
- - [Five years ago, the iPhone X set the table for what&#39;s come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)<!-- TECH:END -->
+ - [Lowest price: Apple M2 MacBook Air with 16GB RAM, 10-core GPU dips to $1,349](https://appleinsider.com/articles/22/09/12/lowest-price-apple-m2-macbook-air-with-16gb-ram-10-core-gpu-dips-to-1349?utm_medium=rss)
+ - [iOS 16 &amp; iOS 15.7 updaters hit with App Store terms &amp; conditions bug](https://appleinsider.com/articles/22/09/12/ios-16-ios-156-updaters-hit-with-app-store-terms-conditions-bug?utm_medium=rss)
+ - [These features are not in the initial release of iOS 16](https://appleinsider.com/articles/22/08/23/these-features-wont-be-in-the-release-of-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
