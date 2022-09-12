@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect knife throwing machine](http://9gag.com/gag/aYVjRQN)
- - 🚯 [Why 99% of all movies and TV series today are garbage. - spitting facts.](http://9gag.com/gag/az27YeN)
- - 🚯 [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)<!-- MEMES:END -->
+ - 🚖 [Me downloading a torrent after I installed fiber optics, realizing what I&#39;ve been missing all these years](http://9gag.com/gag/a7qvnB2)
+ - 🚯 [Perfect knife throwing machine](http://9gag.com/gag/aYVjRQN)
+ - 🚯 [It is like that](http://9gag.com/gag/aeQKWp5)<!-- MEMES:END -->
 
 --- 
 
