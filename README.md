@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Battlefield Series Is Now 20 Years Old](https://kotaku.com/battlefield-20-20th-anniversary-birthday-dice-ea-1849523492)
- - [1995 Gargoyles Game Is Getting A Remaster](https://kotaku.com/gargoyles-sega-genesis-remaster-remake-disney-pc-1849523414)
- - [It&#39;s all a bit Event Horizon meets Aliens in the demo for this sci-fi horror roguelike](https://www.pcgamer.com/its-all-a-bit-event-horizon-meets-aliens-in-the-demo-for-this-sci-fi-horror-roguelike)<!-- GAME:END -->
+ - [Intel&#39;s 13th Gen 13600 and below to be based on the older Alder Lake architecture](https://www.pcgamer.com/intels-13th-gen-13600-and-below-to-be-based-on-the-older-alder-lake-architecture)
+ - [US military set to get first delivery from $22 billion Microsoft HoloLens deal](https://www.pcgamer.com/us-military-set-to-get-first-delivery-from-dollar22-billion-microsoft-hololens-deal)
+ - [Daemon’s House of the Dragon arc is patterned after a pivotal Targaryen tyrant](https://www.polygon.com/23343681/daemon-house-dragon-maegor-westeros-history-martin-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
