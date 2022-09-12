@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra &amp; Series 8 savings: save $200 on 2 or up to 20% off AppleCare](https://appleinsider.com/articles/22/09/12/apple-watch-ultra-series-8-savings-save-200-on-2-or-up-to-20-off-applecare?utm_medium=rss)
- - [No buyouts for Chevy dealers who don’t want to sell electric vehicles](https://www.theverge.com/2022/9/12/23344878/chevy-dealer-buyout-electric-ev-scott-bell)
- - [Samsung S95B TV review, Sonos rumors, Netatmo lock, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/09/12/samsung-s95b-tv-review-sonos-rumors-netatmo-lock-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Undocumented Workers Protest Uber Eats Crackdown](https://www.wired.com/story/uber-eats-paris-protests/)
+ - [For the next three hours, you can get a Galaxy Watch 4 for just $129](https://www.theverge.com/2022/9/12/23348910/samsung-discover-galaxy-watch-4-40mm-44mm-wearable-smartwatch-deal-sale)
+ - [How to use split view on a MacBook](https://www.theverge.com/23348868/apple-macbook-macos-split-view-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
