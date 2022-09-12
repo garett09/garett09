@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep. string allallow](http://9gag.com/gag/aMEeNEP)
- - 🚯 [Falling down](http://9gag.com/gag/aZDqVgz)
- - 🚯 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)<!-- MEMES:END -->
+ - 🚖 [My LEGO IDEAS project `Sewer Heroes: Fighting the Fatberg` is dedicated to all water &amp; wastewater professionals, turning the spotlight on the urban underground in a way never seen before in LEGO form. The model needs 10,000 supporters for a chance of becoming a real LEGO set.](http://9gag.com/gag/abv3mNX)
+ - 🚯 [Teacher says something so controversial and yet so brave in front of liberal school district](http://9gag.com/gag/aA0BmgE)
+ - 🚯 [World&#39;s 2nd army](http://9gag.com/gag/a2KEj5O)<!-- MEMES:END -->
 
 --- 
 
