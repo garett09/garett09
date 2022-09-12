@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal Community Faces New Unrest Over Ill-Gotten Orbs, Lack Of Bans](https://kotaku.com/diablo-immortal-buy-cheap-eternal-orbs-scam-ban-1849525793)
- - [Disney aims to reshape Disneyland, World, and beyond with new attractions](https://www.polygon.com/23348758/disneyland-disney-world-parks-news-announcements-d23)
- - [Head Of Halo Infinite Studio Is The Latest To Leave](https://kotaku.com/halo-infinite-343-industries-bonnie-ross-winter-update-1849525694)<!-- GAME:END -->
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
+ - [One Piece Gets Every Volume Merged Into One Long, 21,450 Page...Piece](https://kotaku.com/one-piece-art-eiichiro-oda-ilan-manouach-books-order-1849526104)
+ - [Assassin’s Creed Mirage isn’t actually rated Adults Only, won’t have ‘real gambling’](https://www.polygon.com/23349244/assassins-creed-mirage-rating-adults-only-gambling-microtransactions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
