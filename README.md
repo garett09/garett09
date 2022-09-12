@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Undocumented Workers Protest Uber Eats Crackdown](https://www.wired.com/story/uber-eats-paris-protests/)
- - [For the next three hours, you can get a Galaxy Watch 4 for just $129](https://www.theverge.com/2022/9/12/23348910/samsung-discover-galaxy-watch-4-40mm-44mm-wearable-smartwatch-deal-sale)
- - [How to use split view on a MacBook](https://www.theverge.com/23348868/apple-macbook-macos-split-view-how-to)<!-- TECH:END -->
+ - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)
+ - [iOS 15.7, macOS 12.6 now available for older devices](https://appleinsider.com/articles/22/09/12/ios-157-macos-126-now-available-for-older-devices?utm_medium=rss)
+ - [OnePlus 11 Pro leaks show an alert slider and a massive camera redesign](https://www.theverge.com/2022/9/12/23349247/oneplus-11-pro-leaks-alert-slider-camera-redesign-features-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
