@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)
- - 🚯 [Why not both?](http://9gag.com/gag/aBd9NjA)
- - 🚯 [This Japanese guy traveled from Japan to England to watch Arsenal at the week the queen died.](http://9gag.com/gag/aeQKPNQ)<!-- MEMES:END -->
+ - 🚖 [You ungrateful bastard](http://9gag.com/gag/aOxoAb3)
+ - 🚯 [Yep. string allallow](http://9gag.com/gag/aMEeNEP)
+ - 🚯 [Why not both?](http://9gag.com/gag/aBd9NjA)<!-- MEMES:END -->
 
 --- 
 
