@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Google Chromecast HD might have a big advantage over its predecessor](https://www.androidauthority.com/google-chromecast-hd-specs-3207563/)
- - [Everything Announced at D23: Marvel, Star Wars, Disney and More     - CNET](https://www.cnet.com/culture/entertainment/everything-announced-at-d23-marvel-star-wars-disney-and-more/#ftag=CAD590a51e)
- - [Insider Intelligence projects US online sales to rise just 9.4% to $1T in 2022, the first single-digit YoY growth, including slower Amazon sales, up 9% to $400B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220912/p1#a220912p1)<!-- TECH:END -->
+ - [It had to happen: Someone just added a Dynamic Island on an Android phone](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)
+ - [Deere, which will roll out self-driving tractors this year, expects that by the end of the decade 10% of its revenue will come from software fees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220912/p2#a220912p2)
+ - [Xperia Stream launched: A full-featured cooling system](https://www.androidauthority.com/sony-xperia-stream-3205480/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
