@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happens when California made this legal](http://9gag.com/gag/a4opmPy)
+ - 🚖 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)
  - 🚯 [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)
- - 🚯 [Security needing security](http://9gag.com/gag/aDYRrMN)<!-- MEMES:END -->
+ - 🚯 [No one. Rhaenyra during the whole show.](http://9gag.com/gag/axoEnw2)<!-- MEMES:END -->
 
 --- 
 
