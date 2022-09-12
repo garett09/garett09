@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher S3 reportedly wraps filming, bringing us one step closer to Geralt&#39;s next adventure](https://www.pcgamer.com/the-witcher-s3-reportedly-wraps-filming-bringing-us-one-step-closer-to-geralts-next-adventure)
- - [In the early days of EverQuest, a cheater and designer waged a secret war from a San Diego gaming store](https://www.pcgamer.com/in-the-early-days-of-everquest-a-cheater-and-designer-waged-a-secret-war-from-a-san-diego-gaming-store)
- - [I&#39;ve been playing this lo-fi Stardew Valley soundtrack as obsessively as the game](https://www.pcgamer.com/ive-been-playing-this-lo-fi-stardew-valley-soundtrack-as-obsessively-as-the-game)<!-- GAME:END -->
+ - [State of Play returns tomorrow, September 13](https://blog.playstation.com/2022/09/12/state-of-play-returns-tomorrow-september-13/)
+ - [Future Assassin&#39;s Creed Games Are Ditching Modern Day Stuff, And That&#39;s Disappointing](https://kotaku.com/assassin-s-creed-modern-day-story-meta-infinity-ubisoft-1849526855)
+ - [Secretlab’s Fortnite Battle Bus Chair Is Comfy, If A Little Big](https://kotaku.com/secretlab-s-fortnite-battle-bus-chair-is-comfy-if-a-li-1849527193)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
