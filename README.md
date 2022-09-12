@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Amazon is projected to spend ~$15B on programming including sports in 2022, ahead of Netflix&#39;s $13.6B, Disney+&#39;s $9.5B, and Apple&#39;s $6B &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/220912/p6#a220912p6)
- - [You told us: You certainly don’t have multiple users on your phones](https://www.androidauthority.com/multiple-users-phone-poll-results-3207627/)
- - [Digital World Acquisition Corp., seeking to take Truth Social public via a SPAC, fails to gain shareholder approval and sets an October 10 deadline for a vote &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220912/p5#a220912p5)<!-- TECH:END -->
+ - [North Carolina-based Diveplane, which helps create synthetic data to train AI systems and find anomalies, raised a $25M Series A led by Shield Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220912/p7#a220912p7)
+ - [Intel says one of its 13th Gen CPUs will hit 6GHz out of the box](https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked)
+ - [The Mystery of Why Some People Don’t Get Covid](https://www.wired.com/story/the-mystery-of-why-some-people-dont-get-covid/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
