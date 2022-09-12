@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arials on acoustic guitar](http://9gag.com/gag/aA0BZbg)
- - 🚯 [It is like that](http://9gag.com/gag/aeQKWp5)
- - 🚯 [This is how 70cc motorcycle engine is assembled](http://9gag.com/gag/ajVQRBg)<!-- MEMES:END -->
+ - 🚖 [Oh. That\u2019s ok then.](http://9gag.com/gag/amAqpjX)
+ - 🚯 [Sweden goes to the polls for the general elections. Streets of Sweden:](http://9gag.com/gag/aL16Wpz)
+ - 🚯 [Reminds me of something](http://9gag.com/gag/ap9KV45)<!-- MEMES:END -->
 
 --- 
 
