@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Nintendo Direct is coming on Sept. 13](https://www.polygon.com/23338976/nintendo-direct-september-2022-date-time)
- - [A brand new island is coming to Toem](https://blog.playstation.com/2022/09/12/a-brand-new-island-is-coming-to-toem/)
- - [Metal: Hellsinger puts on one hell of a show](https://www.polygon.com/reviews/23348738/metal-hellsinger-review-rhythm-based-fps-game-pass-windows-pc-xbox-series-x-ps5-release-date)<!-- GAME:END -->
+ - [The future of tabletop](https://www.polygon.com/23339810/the-future-of-tabletop-games)
+ - [Long live the friendly local tabletop game store](https://www.polygon.com/23343318/friendly-local-game-stores-tabletop-retailers)
+ - [The fork in the road facing third-party tabletop RPGs](https://www.polygon.com/23344107/dungeons-and-dragons-third-party-licensing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
