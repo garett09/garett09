@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am convinced that I would be the perfect stepfather](http://9gag.com/gag/adPydd9)
- - 🚯 [If I fits I sits](http://9gag.com/gag/aOxojMy)
- - 🚯 [This dude demonstrates how he breaks a lock](http://9gag.com/gag/abv3ddL)<!-- MEMES:END -->
+ - 🚖 [World&#39;s 2nd army](http://9gag.com/gag/a2KEj5O)
+ - 🚯 [I am convinced that I would be the perfect stepfather](http://9gag.com/gag/adPydd9)
+ - 🚯 [Autobots transform!](http://9gag.com/gag/agordWq)<!-- MEMES:END -->
 
 --- 
 
