@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Autobots transform!](http://9gag.com/gag/agordWq)
- - 🚯 [If I fits I sits](http://9gag.com/gag/aOxojMy)
- - 🚯 [This dude demonstrates how he breaks a lock](http://9gag.com/gag/abv3ddL)<!-- MEMES:END -->
+ - 🚖 [Yep. string allallow](http://9gag.com/gag/aMEeNEP)
+ - 🚯 [Falling down](http://9gag.com/gag/aZDqVgz)
+ - 🚯 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)<!-- MEMES:END -->
 
 --- 
 
