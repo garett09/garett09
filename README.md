@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Frostbrood Proto-Wyrm mount in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-frostbrood-proto-wyrm-mount)
- - [How to get Kalpalata Lotus in Genshin Impact](https://www.pcgamer.com/genshin-impact-kalpalata-lotus-locations)
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
+ - [F1 Manager 2022 tips: Use your brains to become the next Brawn in Frontier’s new F1 sim](https://www.pcgamer.com/f1-manager-2022-tips)
+ - [F1 Manager 2022: The best teams and drivers](https://www.pcgamer.com/f1-manager-2022-best-teams-drivers)
+ - [All the houses in House of the Dragon — and the characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
