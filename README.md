@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)
- - [iOS 15.7, macOS 12.6 now available for older devices](https://appleinsider.com/articles/22/09/12/ios-157-macos-126-now-available-for-older-devices?utm_medium=rss)
- - [OnePlus 11 Pro leaks show an alert slider and a massive camera redesign](https://www.theverge.com/2022/9/12/23349247/oneplus-11-pro-leaks-alert-slider-camera-redesign-features-rumors)<!-- TECH:END -->
+ - [New attack can unlock and start a Tesla Model Y in seconds, say researchers](https://www.theverge.com/2022/9/12/23348765/tesla-model-y-unlock-drive-car-thief-nfc-relay-attack)
+ - [The Top New Features in Apple&#39;s WatchOS 9](https://www.wired.com/story/apple-watchos-9-new-features/)
+ - [Five years ago, the iPhone X set the table for what&#39;s come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
