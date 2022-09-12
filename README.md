@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me downloading a torrent after I installed fiber optics, realizing what I&#39;ve been missing all these years](http://9gag.com/gag/a7qvnB2)
- - 🚯 [Perfect knife throwing machine](http://9gag.com/gag/aYVjRQN)
- - 🚯 [It is like that](http://9gag.com/gag/aeQKWp5)<!-- MEMES:END -->
+ - 🚖 [Arials on acoustic guitar](http://9gag.com/gag/aA0BZbg)
+ - 🚯 [It is like that](http://9gag.com/gag/aeQKWp5)
+ - 🚯 [This is how 70cc motorcycle engine is assembled](http://9gag.com/gag/ajVQRBg)<!-- MEMES:END -->
 
 --- 
 
