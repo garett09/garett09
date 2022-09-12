@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Explain this, my Dutch friends](http://9gag.com/gag/aDYRPDN)
- - 🚯 [Only 2 after death](http://9gag.com/gag/awZN8N4)
- - 🚯 [Stuntpeople demonstrate how camera angles, well time choreography, and selling the hit makes this blow look real.](http://9gag.com/gag/axoEAYK)<!-- MEMES:END -->
+ - 🚖 [I am convinced that I would be the perfect stepfather](http://9gag.com/gag/adPydd9)
+ - 🚯 [If I fits I sits](http://9gag.com/gag/aOxojMy)
+ - 🚯 [This dude demonstrates how he breaks a lock](http://9gag.com/gag/abv3ddL)<!-- MEMES:END -->
 
 --- 
 
