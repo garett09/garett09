@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces Direct showcase for tomorrow morning](https://www.theverge.com/2022/9/12/23348876/nintendo-direct-showcase-date-time-games-breath-of-the-wild)
- - [iPhone 14 battery replacements cost $30 more than previous generations](https://www.theverge.com/2022/9/12/23348705/iphone-14-apple-battery-replacement-price)
- - [Lutron’s new smart light switches go back to basics](https://www.theverge.com/2022/9/12/23348659/lutron-caseta-new-diva-smart-dimmer-switch-price-release-date)<!-- TECH:END -->
+ - [Apple Watch Ultra &amp; Series 8 savings: save $200 on 2 or up to 20% off AppleCare](https://appleinsider.com/articles/22/09/12/apple-watch-ultra-series-8-savings-save-200-on-2-or-up-to-20-off-applecare?utm_medium=rss)
+ - [No buyouts for Chevy dealers who don’t want to sell electric vehicles](https://www.theverge.com/2022/9/12/23344878/chevy-dealer-buyout-electric-ev-scott-bell)
+ - [Samsung S95B TV review, Sonos rumors, Netatmo lock, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/09/12/samsung-s95b-tv-review-sonos-rumors-netatmo-lock-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
