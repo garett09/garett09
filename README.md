@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 Manager 2022 tips: Use your brains to become the next Brawn in Frontier’s new F1 sim](https://www.pcgamer.com/f1-manager-2022-tips)
- - [F1 Manager 2022: The best teams and drivers](https://www.pcgamer.com/f1-manager-2022-best-teams-drivers)
- - [All the houses in House of the Dragon — and the characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
+ - [A new Nintendo Direct is coming on Sept. 13](https://www.polygon.com/23338976/nintendo-direct-september-2022-date-time)
+ - [A brand new island is coming to Toem](https://blog.playstation.com/2022/09/12/a-brand-new-island-is-coming-to-toem/)
+ - [Metal: Hellsinger puts on one hell of a show](https://www.polygon.com/reviews/23348738/metal-hellsinger-review-rhythm-based-fps-game-pass-windows-pc-xbox-series-x-ps5-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
