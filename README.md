@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viral internet documentary series Channel 5 is getting the HBO treatment](https://www.theverge.com/2022/9/13/23351338/andrew-callaghan-channel-5-documentary-january-6-insurrection-hbo-a24-deal)
- - [GoldenEye 007 Is Coming to Nintendo Switch With Online Multiplayer, Xbox With 4K Visuals     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-is-coming-to-nintendo-switch-with-online-multiplayer/#ftag=CAD590a51e)
- - [These New iPhone 14 Features Have Been on Android for Years     - CNET](https://www.cnet.com/tech/mobile/these-new-iphone-14-features-have-been-on-android-for-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [The best third-party widgets for your iOS 16 Lock Screen](https://appleinsider.com/inside/ios-16/best/the-best-third-party-widgets-for-your-ios-16-lock-screen?utm_medium=rss)
+ - [Facebook and Messenger take a hint from Discord for new Community Chats](https://www.theverge.com/2022/9/13/23351094/facebook-community-chats-launch-messenger-groups)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
