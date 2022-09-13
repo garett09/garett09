@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch today’s Nintendo Direct](https://www.polygon.com/23349605/what-time-nintendo-direct-when-september-2022)
- - [EA and the developer of Dynasty Warriors team up to take on Monster Hunter](https://www.polygon.com/23350545/ea-koei-tecmo-omega-force-monster-hunter-rival-announcement)
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
+ - [The Woman King has a fierce fire in its belly](https://www.polygon.com/reviews/23349229/the-woman-king-review)
+ - [Square Enix Shutting Down PS5&#39;s Worst Game Before It&#39;s Even A Year Old](https://kotaku.com/babylons-fall-ps5-square-enix-platinum-games-anthem-1849529078)
+ - [Babylon&#39;s Fall to close after less than a year live](https://www.pcgamer.com/babylons-fall-to-close-after-less-than-a-year-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
