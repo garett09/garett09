@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The legal system if Rigged if you have a D!ck](http://9gag.com/gag/arm1ErV)
- - 🚯 [This bottle was turned into 3D printer filament](http://9gag.com/gag/aA0BAnE)
- - 🚯 [Bout to score\u2026and then](http://9gag.com/gag/anzewbn)<!-- MEMES:END -->
+ - 🚖 [Modern society is built by Man and maintain by Man](http://9gag.com/gag/aA0B5QZ)
+ - 🚯 [Why not?](http://9gag.com/gag/aOxoEdN)
+ - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
 
