@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern society is built by Man and maintain by Man](http://9gag.com/gag/aA0B5QZ)
- - 🚯 [Lol](http://9gag.com/gag/aDYRvVK)
+ - 🚖 [Bonjour](http://9gag.com/gag/a7qvRbz)
+ - 🚯 [Current brazilian government is killing the amazon : / no banana for scale unfortunatelly](http://9gag.com/gag/ap9KZjB)
  - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
