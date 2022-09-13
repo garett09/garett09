@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian soldier surprise his son](http://9gag.com/gag/arm1wj7)
- - 🚯 [Better trilogy than star wars](http://9gag.com/gag/avQ2wBX)
+ - 🚖 [Dreams](http://9gag.com/gag/aOxoLq6)
+ - 🚯 [Happy for this man](http://9gag.com/gag/adPywbD)
  - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
