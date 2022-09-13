@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [343 Industries founder leaves company due to family medical issue](https://www.pcgamer.com/343-industries-founder-leaves-company-due-to-family-medical-issue)
- - [Metal Gear Solid 3 Could Have Had A Boss Battle That Would Take Two Weeks To Finish](https://kotaku.com/hideo-kojima-metal-gear-boss-battle-solid-3-1849527921)
- - [The 19-year evolution of Steam](https://www.pcgamer.com/steam-versions)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 12&rpar;](https://news.xbox.com/en-us/2022/09/12/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-12/)
+ - [Those coffin office chairs aren&#39;t real, but they should be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)
+ - [Zotac&#39;s RTX 4090 smiles for the camera](https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
