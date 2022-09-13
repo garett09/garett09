@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)
- - 🚯 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
- - 🚯 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)<!-- MEMES:END -->
+ - 🚖 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
+ - 🚯 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)
+ - 🚯 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)<!-- MEMES:END -->
 
 --- 
 
