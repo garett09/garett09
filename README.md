@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
- - 🚯 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)
+ - 🚖 [Like that\u2019s ever gonna happen](http://9gag.com/gag/az27ngz)
+ - 🚯 [Dreams](http://9gag.com/gag/aOxoLq6)
  - 🚯 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)<!-- MEMES:END -->
 
 --- 
