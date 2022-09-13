@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Northzone, the European VC firm that backed Spotify and Klarna, has raised a &amp;euro;1B fund, its largest to date, and will allocate ~40% to later-stage investments &lpar;Hasan Chowdhury/Insider&rpar;](http://www.techmeme.com/220913/p2#a220913p2)
- - [A look how Apple&#39;s Cooperative R&amp;D Agreement on digital IDs with the TSA in March 2019 could disadvantage its rivals in developing mobile identity credentials &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/220913/p1#a220913p1)
- - [iOS 16 Is Available Now: New Lock Screen, Editable Messages and Every Other Change     - CNET](https://www.cnet.com/tech/mobile/apples-ios-16-is-available-now-new-lock-screen-editable-messages-every-other-change/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 13&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [You told us: You’re split over your phones’ camera zoom quality](https://www.androidauthority.com/phone-camera-zoom-quality-poll-results-3207565/)
+ - [iOS 16 has an option to remove Rapid Security Responses, security fixes that don&#39;t require a full iOS update and by default are installed automatically &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220913/p3#a220913p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
