@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Buncha Square Enix JRPG Classics Are Headed To Switch](https://kotaku.com/nintendo-direct-final-fantasy-crisis-core-square-switch-1849532112)
- - [4 Easy Disney Dreamlight Valley Tips To Level Friendship Fast](https://kotaku.com/disney-dreamlight-valley-level-friendship-fast-farm-sim-1849532140)
- - [Everything We Saw During The Nintendo Direct Blowout](https://kotaku.com/nintendo-direct-trailer-zelda-tears-kingdom-switch-1849531647)<!-- GAME:END -->
+ - [Tekken 8 revealed and everyone looks ripped](https://www.polygon.com/23351984/tekken-8-announced-release-date-trailer)
+ - [Demeo reinvents game night on PlayStation in 2023](https://blog.playstation.com/2022/09/13/demeo-reinvents-game-night-on-playstation-in-2023/)
+ - [Become a hero on PlayStation VR2 in Star Wars: Tales from the Galaxy’s Edge – Enhanced Edition](https://blog.playstation.com/2022/09/13/become-a-hero-on-playstation-vr2-in-star-wars-tales-from-the-galaxys-edge-enhanced-edition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
