@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boo!!! Hahahahahhaa stupidity at it hottest, I mean at it&#39;s finest.](http://9gag.com/gag/arm1E07)
- - 🚯 [Sounds familiar, whites?](http://9gag.com/gag/aPg6LNg)
+ - 🚖 [Better trilogy than star wars](http://9gag.com/gag/avQ2wBX)
+ - 🚯 [How a Neurosurgeon drills through your skull and doesn\u2019t damage your brain \ud83e\udde0. CT@cam0wens](http://9gag.com/gag/aBd95LD)
  - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
