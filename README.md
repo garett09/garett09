@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fire Emblem game lets you summon old heroes in battle](https://www.polygon.com/23350751/fire-emblem-engage-release-date-nintendo-switch)
- - [Nintendo Direct September 2022: The biggest news, reveals, and trailers](https://www.polygon.com/23350784/nintendo-direct-september-2022-news-announcements-trailers)
- - [A New Fire Emblem Is Coming To Switch, And Marth&#39;s Back](https://kotaku.com/fire-emblem-engage-nintendo-switch-trailer-direct-1849529563)<!-- GAME:END -->
+ - [Harvestella free demo available now for Nintendo Switch](https://www.polygon.com/23350946/harvestella-free-demo-nintendo-switch-eshop-square-enix)
+ - [James Bond Returns as GoldenEye 007 Sets Its Sights on Xbox Game Pass](https://news.xbox.com/en-us/2022/09/13/james-bond-returns-goldeneye-007-on-game-pass/)
+ - [Octopath Traveler has a sequel, due early next year](https://www.polygon.com/23350895/octopath-traveler-2-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
