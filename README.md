@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nikhil Wahi, the brother of Coinbase PM Ishan Wahi, pleaded guilty to a wire fraud charge in an ongoing insider trading case, the first of its kind in crypto &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/220913/p12#a220913p12)
- - [When the Big One Hits Portland, Cargo Bikers Will Save You](https://www.wired.com/story/when-the-big-one-hits-portland-cargo-bikers-will-save-you/)
- - [Indian conglomerate Vedanta and Foxconn sign a $20B deal to build a semiconductor unit in the coastal Gujarat state, home to Prime Minister Narendra Modi &lpar;TechCrunch&rpar;](http://www.techmeme.com/220913/p11#a220913p11)<!-- TECH:END -->
+ - [Linux Foundation plans to form the OpenWallet Foundation, developing open-source interoperability for digital wallets, supported by Okta, Accenture, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220913/p16#a220913p16)
+ - [Europe’s Drought Might Force Acceptance of Gene-Edited Crops](https://www.wired.com/story/europe-drought-gene-editing/)
+ - [How Whistleblowers Navigate a Security Minefield](https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
