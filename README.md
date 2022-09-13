@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot Pod Summit is back at On Air LA Annex 2022!](https://www.theverge.com/23348881/hot-pod-summit-on-air-fext-la-annex-2022-kcrw)
- - [Tel Aviv-based Zesty, which helps cut cloud costs by automatically scaling resources to demand, raised a $75M Series B led by B Capital and Sapphire Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p35#a220913p35)
- - [How to enable the haptic keyboard in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-enable-the-the-haptic-keyboard-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Viral internet documentary series Channel 5 is getting the HBO treatment](https://www.theverge.com/2022/9/13/23351338/andrew-callaghan-channel-5-documentary-january-6-insurrection-hbo-a24-deal)
+ - [GoldenEye 007 Is Coming to Nintendo Switch With Online Multiplayer, Xbox With 4K Visuals     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-is-coming-to-nintendo-switch-with-online-multiplayer/#ftag=CAD590a51e)
+ - [These New iPhone 14 Features Have Been on Android for Years     - CNET](https://www.cnet.com/tech/mobile/these-new-iphone-14-features-have-been-on-android-for-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
