@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [The best third-party widgets for your iOS 16 Lock Screen](https://appleinsider.com/inside/ios-16/best/the-best-third-party-widgets-for-your-ios-16-lock-screen?utm_medium=rss)
- - [Facebook and Messenger take a hint from Discord for new Community Chats](https://www.theverge.com/2022/9/13/23351094/facebook-community-chats-launch-messenger-groups)<!-- TECH:END -->
+ - [Elon Musk’s SpaceX and Tesla emails are for his eyes only](https://www.theverge.com/2022/9/13/23351798/elon-musk-emails-spacex-tesla-ruling-privacy)
+ - [Google signs a cooperative research and development agreement with the NIST to develop new nanotechnology and semiconductor devices with open-source designs &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/220913/p40#a220913p40)
+ - [Meta will start testing Discord-like &quot;Community Chats&quot; in Messenger and Facebook Groups, bringing categories, audio and video channels, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220913/p39#a220913p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
