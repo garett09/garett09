@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a save!](http://9gag.com/gag/aKE4oBW)
- - 🚯 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
- - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
+ - 🚖 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)
+ - 🚯 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
+ - 🚯 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)<!-- MEMES:END -->
 
 --- 
 
