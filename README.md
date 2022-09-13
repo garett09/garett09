@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her enthusiasm makes this infinitely better](http://9gag.com/gag/aoKm6bm)
- - 🚯 [Bro calls out Prince Andrew sick old man, right or wrong place?](http://9gag.com/gag/az27ybm)
- - 🚯 [Sounds familiar, whites?](http://9gag.com/gag/aPg6LNg)<!-- MEMES:END -->
+ - 🚖 [The legal system if Rigged if you have a D!ck](http://9gag.com/gag/arm1ErV)
+ - 🚯 [This bottle was turned into 3D printer filament](http://9gag.com/gag/aA0BAnE)
+ - 🚯 [Bout to score\u2026and then](http://9gag.com/gag/anzewbn)<!-- MEMES:END -->
 
 --- 
 
