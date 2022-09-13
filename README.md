@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk: Edgerunners blows past Cyberpunk 2077 to be its own visually ecstatic ride](https://www.polygon.com/reviews/23349865/cyberpunk-edgerunners-netflix-review-2077)
- - [Stealth Games Like This New Sneak &#39;Em Up Are A Rare Breed](https://kotaku.com/gloomwood-new-blood-stealth-immersive-sim-thief-dusk-1849526617)
- - [The Woman King has a fierce fire in its belly](https://www.polygon.com/reviews/23349229/the-woman-king-review)<!-- GAME:END -->
+ - [New Fire Emblem game lets you summon old heroes in battle](https://www.polygon.com/23350751/fire-emblem-engage-release-date-nintendo-switch)
+ - [Nintendo Direct September 2022: The biggest news, reveals, and trailers](https://www.polygon.com/23350784/nintendo-direct-september-2022-news-announcements-trailers)
+ - [A New Fire Emblem Is Coming To Switch, And Marth&#39;s Back](https://kotaku.com/fire-emblem-engage-nintendo-switch-trailer-direct-1849529563)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
