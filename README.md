@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s SpaceX and Tesla emails are for his eyes only](https://www.theverge.com/2022/9/13/23351798/elon-musk-emails-spacex-tesla-ruling-privacy)
- - [Google signs a cooperative research and development agreement with the NIST to develop new nanotechnology and semiconductor devices with open-source designs &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/220913/p40#a220913p40)
- - [Meta will start testing Discord-like &quot;Community Chats&quot; in Messenger and Facebook Groups, bringing categories, audio and video channels, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220913/p39#a220913p39)<!-- TECH:END -->
+ - [NASA has a new launch date for its Artemis I megarocket](https://www.theverge.com/2022/9/13/23351703/nasa-artemis-i-megarocket-new-launch-date)
+ - [In an email to developers, Apple says that new App Store ad placements will be available for the holiday season &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220913/p42#a220913p42)
+ - [EA announces kernel-level anti-cheat system for PC games](https://www.theverge.com/2022/9/13/23351900/ea-kernel-level-anti-cheat-system-fifa-23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
