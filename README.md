@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bonjour](http://9gag.com/gag/a7qvRbz)
- - 🚯 [Current brazilian government is killing the amazon : / no banana for scale unfortunatelly](http://9gag.com/gag/ap9KZjB)
+ - 🚖 [F**k the IT guy](http://9gag.com/gag/a4opO1Z)
+ - 🚯 [What a save!](http://9gag.com/gag/aKE4oBW)
  - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
