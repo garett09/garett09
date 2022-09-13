@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to enable the haptic keyboard in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-enable-the-the-haptic-keyboard-in-ios-16?utm_medium=rss)
- - [Twitter says that shareholders have voted to approve Elon Musk&#39;s proposed $44B buyout &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220913/p34#a220913p34)
- - [Here are the biggest announcements from Nintendo’s latest Direct](https://www.theverge.com/2022/9/13/23350975/nintendo-direct-switch-fire-emblem-legend-of-zelda-tears-of-the-kingdom)<!-- TECH:END -->
+ - [Hot Pod Summit is back at On Air LA Annex 2022!](https://www.theverge.com/23348881/hot-pod-summit-on-air-fext-la-annex-2022-kcrw)
+ - [Tel Aviv-based Zesty, which helps cut cloud costs by automatically scaling resources to demand, raised a $75M Series B led by B Capital and Sapphire Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p35#a220913p35)
+ - [How to enable the haptic keyboard in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-enable-the-the-haptic-keyboard-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
