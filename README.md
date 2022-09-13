@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like that\u2019s ever gonna happen](http://9gag.com/gag/az27ngz)
- - 🚯 [Dreams](http://9gag.com/gag/aOxoLq6)
+ - 🚖 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
+ - 🚯 [Harsh reality](http://9gag.com/gag/aBd9pnN)
  - 🚯 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)<!-- MEMES:END -->
 
 --- 
