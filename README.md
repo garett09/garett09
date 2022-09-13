@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alongside iOS 16, Apple releases iOS and iPadOS 15.7, macOS Monterey 12.6, and macOS Big Sur 11.7 to fix the eighth actively exploited 0-day since January 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220913/p6#a220913p6)
- - [Sony’s latest smartphone accessory is pretty cool](https://www.theverge.com/2022/9/13/23350504/sony-xperia-stream-smartphone-cooling-fan-usb-hub-ethernet-hdmi-3-5mm)
- - [HBO and HBO Max won 37 awards in the 74th Emmy Awards, while Netflix won 26, Hulu eight, Apple TV+ seven, NBC seven, Disney+ six, and Amazon Prime Video six &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/220913/p5#a220913p5)<!-- TECH:END -->
+ - [Nikhil Wahi, the brother of Coinbase PM Ishan Wahi, pleaded guilty to a wire fraud charge in an ongoing insider trading case, the first of its kind in crypto &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/220913/p12#a220913p12)
+ - [When the Big One Hits Portland, Cargo Bikers Will Save You](https://www.wired.com/story/when-the-big-one-hits-portland-cargo-bikers-will-save-you/)
+ - [Indian conglomerate Vedanta and Foxconn sign a $20B deal to build a semiconductor unit in the coastal Gujarat state, home to Prime Minister Narendra Modi &lpar;TechCrunch&rpar;](http://www.techmeme.com/220913/p11#a220913p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
