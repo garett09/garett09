@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No naps allowed, what&#39;s your solution for migraine ?](http://9gag.com/gag/a04vD9n)
- - 🚯 [Her enthusiasm makes this infinitely better](http://9gag.com/gag/aoKm6bm)
- - 🚯 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)<!-- MEMES:END -->
+ - 🚖 [Bro calls out Prince Andrew sick old man, right or wrong place?](http://9gag.com/gag/az27ybm)
+ - 🚯 [I\u2019ll pay millions to see Disney transform Tarzan into a black man that lives on trees and has monkeys as his buddies](http://9gag.com/gag/avQ2qmX)
+ - 🚯 [Brendan Fraser wins TIFF performance award](http://9gag.com/gag/agorbLK)<!-- MEMES:END -->
 
 --- 
 
