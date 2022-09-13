@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy’s Crisis Core remake launches in December](https://www.polygon.com/23351297/crisis-core-final-fantasy-vii-reunion-remake-remaster-release-date-announced)
- - [Enter The Pitt Now with Fallout 76’s Expeditions Update](https://news.xbox.com/en-us/2022/09/13/enter-the-pitt-now-with-fallout-76s-expeditions-update/)
- - [How to end a tabletop campaign with karaoke](https://www.polygon.com/23329746/world-ending-game-everest-pipkin-tabletop-rpg-karaoke)<!-- GAME:END -->
+ - [Darren Aronofsky’s The Whale is an act of hate disguised as tough love](https://www.polygon.com/reviews/23351261/the-whale-review-brendan-fraser)
+ - [Nobody Saves the World — Frozen Hearth DLC is out Now](https://news.xbox.com/en-us/2022/09/13/nobody-saves-the-world-frozen-hearth-dlc-is-out-now/)
+ - [Netflix’s Cyberpunk: Edgerunners Tells The Story I Wished For In Cyberpunk 2077](https://kotaku.com/cyberpunk-edgerunners-netflix-review-anime-trigger-2077-1849530790)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
