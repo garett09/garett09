@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Woman King has a fierce fire in its belly](https://www.polygon.com/reviews/23349229/the-woman-king-review)
- - [Square Enix Shutting Down PS5&#39;s Worst Game Before It&#39;s Even A Year Old](https://kotaku.com/babylons-fall-ps5-square-enix-platinum-games-anthem-1849529078)
- - [Babylon&#39;s Fall to close after less than a year live](https://www.pcgamer.com/babylons-fall-to-close-after-less-than-a-year-live)<!-- GAME:END -->
+ - [Cyberpunk: Edgerunners blows past Cyberpunk 2077 to be its own visually ecstatic ride](https://www.polygon.com/reviews/23349865/cyberpunk-edgerunners-netflix-review-2077)
+ - [Stealth Games Like This New Sneak &#39;Em Up Are A Rare Breed](https://kotaku.com/gloomwood-new-blood-stealth-immersive-sim-thief-dusk-1849526617)
+ - [The Woman King has a fierce fire in its belly](https://www.polygon.com/reviews/23349229/the-woman-king-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
