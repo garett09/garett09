@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harvestella free demo available now for Nintendo Switch](https://www.polygon.com/23350946/harvestella-free-demo-nintendo-switch-eshop-square-enix)
- - [James Bond Returns as GoldenEye 007 Sets Its Sights on Xbox Game Pass](https://news.xbox.com/en-us/2022/09/13/james-bond-returns-goldeneye-007-on-game-pass/)
- - [Octopath Traveler has a sequel, due early next year](https://www.polygon.com/23350895/octopath-traveler-2-trailer-release-date)<!-- GAME:END -->
+ - [Microsoft Announces Arguably Better GoldenEye For Xbox Right When Nintendo Does](https://kotaku.com/goldeneye-007-game-pass-remaster-switch-online-xbox-n64-1849530175)
+ - [Story of Seasons: A Wonderful Life being remade for Nintendo Switch](https://www.polygon.com/23351113/story-of-seasons-harvest-moon-a-wonderful-life-nintendo-switch-announcement)
+ - [Five Reasons Why Little Orpheus Is a Journey Like No Other](https://news.xbox.com/en-us/2022/09/13/five-reasons-why-little-orpheus-is-a-journey-like-no-other/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
