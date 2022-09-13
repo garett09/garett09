@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC charges VMware with misleading investors by obscuring financial performance; VMware agrees to pay $8M to settle without denying or admitting charges &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/220912/p31#a220912p31)
- - [CEO Kyle Vogt says that Cruise will launch commercial robotaxi services in Austin and Phoenix &quot;in the next 90 days and before the end of 2022&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220912/p30#a220912p30)
- - [2022 Emmys Live Updates: All the Winner Announcements     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-updates-all-the-winner-announcements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Majority of Twitter Shareholders Reportedly Vote to OK Musk&#39;s Takeover     - CNET](https://www.cnet.com/news/social-media/majority-of-twitter-shareholders-reportedly-vote-to-ok-musks-takeover/#ftag=CAD590a51e)
+ - [2022 Emmys: The Full List of Winners     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-the-full-list-of-winners/#ftag=CAD590a51e)
+ - [Mario movie producer confirms Chris Pratt won&#39;t use &#39;it&#39;s-a-me&#39; voice     - CNET](https://www.cnet.com/tech/gaming/mario-movie-producer-confirms-chris-pratt-wont-use-its-a-me-voice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
