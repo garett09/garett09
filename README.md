@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linux Foundation plans to form the OpenWallet Foundation, developing open-source interoperability for digital wallets, supported by Okta, Accenture, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220913/p16#a220913p16)
- - [Europe’s Drought Might Force Acceptance of Gene-Edited Crops](https://www.wired.com/story/europe-drought-gene-editing/)
- - [How Whistleblowers Navigate a Security Minefield](https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/)<!-- TECH:END -->
+ - [The HP Elite Dragonfly Chromebook is incredible — with one big problem](https://www.theverge.com/23341235/hp-elite-dragonfly-chromebook-2022-review)
+ - [Doodles, an NFT profile picture maker, raised $54M at a $704M valuation from Alexis Ohanian&#39;s 776, FTX, and others with plans to expand to music and gaming NFTs &lpar;Maria Gracia Santillana Linares/Forbes&rpar;](http://www.techmeme.com/220913/p21#a220913p21)
+ - [Litmus, which helps manufacturers collect data from IoT devices for applications like AI, raised a $30M Series B led by industrial automation company Belden &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p20#a220913p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
