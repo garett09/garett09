@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These working prototypes reveal the Steam Deck’s evolution](https://www.theverge.com/2022/9/13/23350852/valve-steam-deck-prototype-designs)
- - [A look at efforts by at least six research groups to find dirt on Twitter whistleblower Peiter Zatko, including many offers to pay former colleagues for info &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/220913/p28#a220913p28)
- - [The Verge Launches an Ambitious New Site](https://www.theverge.com/2022/9/13/23351004/the-verge-launches-an-ambitious-new-site)<!-- TECH:END -->
+ - [YouTube says it paid over $6B to the music industry between July 2021 and June 2022, up $2B YoY, and that user generated content drove more than 30% of payouts &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/220913/p31#a220913p31)
+ - [Hunter Douglas’ new smart shades platform will work with Matter](https://www.theverge.com/2022/9/13/23350626/hunter-douglas-smart-shades-powerview-gen3-platform-matter)
+ - [The Nissan Leaf can now officially power buildings using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
