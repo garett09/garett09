@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle reports Q1 revenue up 18% YoY to $11.4B; total cloud revenue was up 45% YoY to $3.6B, and health data provider Cerner, acquired in June, generated $1.4B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220912/p27#a220912p27)
- - [The Nissan Leaf can now officially power homes using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)
- - [Uber has agreed to pay New Jersey $100M in back taxes after the state said that the company had misclassified its drivers as independent contractors &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220912/p26#a220912p26)<!-- TECH:END -->
+ - [The SEC charges VMware with misleading investors by obscuring financial performance; VMware agrees to pay $8M to settle without denying or admitting charges &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/220912/p31#a220912p31)
+ - [CEO Kyle Vogt says that Cruise will launch commercial robotaxi services in Austin and Phoenix &quot;in the next 90 days and before the end of 2022&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220912/p30#a220912p30)
+ - [2022 Emmys Live Updates: All the Winner Announcements     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-updates-all-the-winner-announcements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
