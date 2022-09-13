@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern society is built by Man and maintain by Man](http://9gag.com/gag/aA0B5QZ)
- - 🚯 [Why not?](http://9gag.com/gag/aOxoEdN)
+ - 🚖 [Boo!!! Hahahahahhaa stupidity at it hottest, I mean at it&#39;s finest.](http://9gag.com/gag/arm1E07)
+ - 🚯 [Sounds familiar, whites?](http://9gag.com/gag/aPg6LNg)
  - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
