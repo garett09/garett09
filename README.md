@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)
- - 🚯 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
- - 🚯 [I&#39;m black and this was my reaction after watch the new Mermaid trailer.](http://9gag.com/gag/aDYRLQd)<!-- MEMES:END -->
+ - 🚖 [No naps allowed, what&#39;s your solution for migraine ?](http://9gag.com/gag/a04vD9n)
+ - 🚯 [Her enthusiasm makes this infinitely better](http://9gag.com/gag/aoKm6bm)
+ - 🚯 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)<!-- MEMES:END -->
 
 --- 
 
