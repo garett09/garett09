@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Watch low power mode works, and what it turns off](https://appleinsider.com/inside/watchos-9/tips/how-apple-watch-low-power-mode-works-and-what-it-turns-off?utm_medium=rss)
- - [Aqara launches HomeKit-compatible smart radiator thermostat](https://appleinsider.com/articles/22/09/13/aqara-launches-homekit-compatible-smart-radiator-thermostat?utm_medium=rss)
- - [Amazon updates its entry-level Kindle with USB-C, 16GB storage as standard, a blue color option, and improved 300ppi display, available for $100 with ads &lpar;Andrew Liszewski/Gizmodo&rpar;](http://www.techmeme.com/220913/p25#a220913p25)<!-- TECH:END -->
+ - [Fire Emblem Engage is the next entry in Nintendo’s brilliant strategy franchise](https://www.theverge.com/2022/9/13/23350851/fire-emblem-engage-nintendo-switch-game-release-date-trailer)
+ - [Babylon’s Fell](https://www.theverge.com/2022/9/13/23350704/babylons-fall-offline-date-2023-platinum-games)
+ - [Live stream of the hearing &quot;Data Security at Risk: Testimony from a Twitter Whistleblower&quot; at the Senate Judiciary Committee &lpar;Senate.gov&rpar;](http://www.techmeme.com/220913/p27#a220913p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
