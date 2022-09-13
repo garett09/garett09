@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D publisher requests injunction against competitor, citing ‘blatantly racist and transphobic’ content](https://www.polygon.com/tabletop-games/23349686/dnd-wizards-of-the-coast-vs-nutsr-tsr-justin-lanasa-racist-transphobic-star-frontiers)
- - [24 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [New Fire Emblem Hero Looks Like A VTuber, And There’s A Reason](https://kotaku.com/fire-emblem-engage-vtuber-ironmouse-twitch-youtube-1849531758)<!-- GAME:END -->
+ - [A Buncha Square Enix JRPG Classics Are Headed To Switch](https://kotaku.com/nintendo-direct-final-fantasy-crisis-core-square-switch-1849532112)
+ - [4 Easy Disney Dreamlight Valley Tips To Level Friendship Fast](https://kotaku.com/disney-dreamlight-valley-level-friendship-fast-farm-sim-1849532140)
+ - [Everything We Saw During The Nintendo Direct Blowout](https://kotaku.com/nintendo-direct-trailer-zelda-tears-kingdom-switch-1849531647)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
