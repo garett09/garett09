@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HP Elite Dragonfly Chromebook is incredible — with one big problem](https://www.theverge.com/23341235/hp-elite-dragonfly-chromebook-2022-review)
- - [Doodles, an NFT profile picture maker, raised $54M at a $704M valuation from Alexis Ohanian&#39;s 776, FTX, and others with plans to expand to music and gaming NFTs &lpar;Maria Gracia Santillana Linares/Forbes&rpar;](http://www.techmeme.com/220913/p21#a220913p21)
- - [Litmus, which helps manufacturers collect data from IoT devices for applications like AI, raised a $30M Series B led by industrial automation company Belden &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p20#a220913p20)<!-- TECH:END -->
+ - [How Apple Watch low power mode works, and what it turns off](https://appleinsider.com/inside/watchos-9/tips/how-apple-watch-low-power-mode-works-and-what-it-turns-off?utm_medium=rss)
+ - [Aqara launches HomeKit-compatible smart radiator thermostat](https://appleinsider.com/articles/22/09/13/aqara-launches-homekit-compatible-smart-radiator-thermostat?utm_medium=rss)
+ - [Amazon updates its entry-level Kindle with USB-C, 16GB storage as standard, a blue color option, and improved 300ppi display, available for $100 with ads &lpar;Andrew Liszewski/Gizmodo&rpar;](http://www.techmeme.com/220913/p25#a220913p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
