@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Announces Arguably Better GoldenEye For Xbox Right When Nintendo Does](https://kotaku.com/goldeneye-007-game-pass-remaster-switch-online-xbox-n64-1849530175)
- - [Story of Seasons: A Wonderful Life being remade for Nintendo Switch](https://www.polygon.com/23351113/story-of-seasons-harvest-moon-a-wonderful-life-nintendo-switch-announcement)
- - [Five Reasons Why Little Orpheus Is a Journey Like No Other](https://news.xbox.com/en-us/2022/09/13/five-reasons-why-little-orpheus-is-a-journey-like-no-other/)<!-- GAME:END -->
+ - [Final Fantasy’s Crisis Core remake launches in December](https://www.polygon.com/23351297/crisis-core-final-fantasy-vii-reunion-remake-remaster-release-date-announced)
+ - [Enter The Pitt Now with Fallout 76’s Expeditions Update](https://news.xbox.com/en-us/2022/09/13/enter-the-pitt-now-with-fallout-76s-expeditions-update/)
+ - [How to end a tabletop campaign with karaoke](https://www.polygon.com/23329746/world-ending-game-everest-pipkin-tabletop-rpg-karaoke)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
