@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019ll pay millions to see Disney transform Tarzan into a black man that lives on trees and has monkeys as his buddies](http://9gag.com/gag/avQ2qmX)
- - 🚯 [How a Neurosurgeon drills through your skull and doesn\u2019t damage your brain \ud83e\udde0. CT@cam0wens](http://9gag.com/gag/aBd95LD)
+ - 🚖 [Archaeologists don&#39;t always know the truth](http://9gag.com/gag/abv385r)
+ - 🚯 [Ukrainian soldier surprise his son](http://9gag.com/gag/arm1wj7)
  - 🚯 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 --- 
