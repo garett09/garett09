@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We’re in the golden era of farming simulators](https://www.polygon.com/23351439/nintendo-direct-farm-rpg-simulator-harvestella-story-of-seasons)
- - [How Cyberpunk: Edgerunners connects to Cyberpunk 2077](https://www.polygon.com/23349358/cyberpunk-edgerunners-2077-netflix-show-connections-references-characters-locations)
- - [How to watch Sony’s new State of Play livestream](https://www.polygon.com/23351483/state-of-play-playstation-time-september-2022-sony-ps5-psvr2)<!-- GAME:END -->
+ - [D&amp;D publisher requests injunction against competitor, citing ‘blatantly racist and transphobic’ content](https://www.polygon.com/tabletop-games/23349686/dnd-wizards-of-the-coast-vs-nutsr-tsr-justin-lanasa-racist-transphobic-star-frontiers)
+ - [24 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [New Fire Emblem Hero Looks Like A VTuber, And There’s A Reason](https://kotaku.com/fire-emblem-engage-vtuber-ironmouse-twitch-youtube-1849531758)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
