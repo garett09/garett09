@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Majority of Twitter Shareholders Reportedly Vote to OK Musk&#39;s Takeover     - CNET](https://www.cnet.com/news/social-media/majority-of-twitter-shareholders-reportedly-vote-to-ok-musks-takeover/#ftag=CAD590a51e)
- - [2022 Emmys: The Full List of Winners     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-the-full-list-of-winners/#ftag=CAD590a51e)
- - [Mario movie producer confirms Chris Pratt won&#39;t use &#39;it&#39;s-a-me&#39; voice     - CNET](https://www.cnet.com/tech/gaming/mario-movie-producer-confirms-chris-pratt-wont-use-its-a-me-voice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Northzone, the European VC firm that backed Spotify and Klarna, has raised a &amp;euro;1B fund, its largest to date, and will allocate ~40% to later-stage investments &lpar;Hasan Chowdhury/Insider&rpar;](http://www.techmeme.com/220913/p2#a220913p2)
+ - [A look how Apple&#39;s Cooperative R&amp;D Agreement on digital IDs with the TSA in March 2019 could disadvantage its rivals in developing mobile identity credentials &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/220913/p1#a220913p1)
+ - [iOS 16 Is Available Now: New Lock Screen, Editable Messages and Every Other Change     - CNET](https://www.cnet.com/tech/mobile/apples-ios-16-is-available-now-new-lock-screen-editable-messages-every-other-change/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
