@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it paid over $6B to the music industry between July 2021 and June 2022, up $2B YoY, and that user generated content drove more than 30% of payouts &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/220913/p31#a220913p31)
- - [Hunter Douglas’ new smart shades platform will work with Matter](https://www.theverge.com/2022/9/13/23350626/hunter-douglas-smart-shades-powerview-gen3-platform-matter)
- - [The Nissan Leaf can now officially power buildings using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)<!-- TECH:END -->
+ - [How to enable the haptic keyboard in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-enable-the-the-haptic-keyboard-in-ios-16?utm_medium=rss)
+ - [Twitter says that shareholders have voted to approve Elon Musk&#39;s proposed $44B buyout &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220913/p34#a220913p34)
+ - [Here are the biggest announcements from Nintendo’s latest Direct](https://www.theverge.com/2022/9/13/23350975/nintendo-direct-switch-fire-emblem-legend-of-zelda-tears-of-the-kingdom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
