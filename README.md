@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 revealed and everyone looks ripped](https://www.polygon.com/23351984/tekken-8-announced-release-date-trailer)
- - [Demeo reinvents game night on PlayStation in 2023](https://blog.playstation.com/2022/09/13/demeo-reinvents-game-night-on-playstation-in-2023/)
- - [Become a hero on PlayStation VR2 in Star Wars: Tales from the Galaxy’s Edge – Enhanced Edition](https://blog.playstation.com/2022/09/13/become-a-hero-on-playstation-vr2-in-star-wars-tales-from-the-galaxys-edge-enhanced-edition/)<!-- GAME:END -->
+ - [God Of War Ragnarök Gets Moody New Story Trailer](https://kotaku.com/god-of-war-ragnarok-story-trailer-state-play-kratos-ps5-1848186572)
+ - [PlayStation State of Play September 2022: The biggest announcements and trailers](https://www.polygon.com/23352084/playstation-state-of-play-september-2022-news-announcements-trailers)
+ - [Anime action game Project Eve is now called Stellar Blade, coming in 2023](https://www.pcgamer.com/anime-action-game-project-eve-is-now-called-stellar-blade-coming-in-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
