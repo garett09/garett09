@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The People’s Joker, a hilarious trans riff on DC characters, shut down over ‘rights issues’](https://www.polygon.com/reviews/23353241/the-peoples-joker-review)
- - [Cyberpunk: Edgerunners boldly builds on 2077’s thought experiments](https://www.polygon.com/23351457/cyberpunk-edgerunners-netflix-anime-2077-citizen-sleeper)
- - [The Sims 4 Is Going Totally Free Everywhere Next Month](https://kotaku.com/the-sims-4-free-ea-maxis-origin-ps5-xbox-steam-pc-1849535405)<!-- GAME:END -->
+ - [I&#39;m Hyped For Rune Factory 3 On The Switch And You Should Be Too](https://kotaku.com/nintendo-direct-rune-factory-story-of-seasons-harvest-m-1849535867)
+ - [Tekken: Bloodline proves yet again that Tekken should only be a video game](https://www.polygon.com/23344815/tekken-bloodline-review-anime-netflix)
+ - [Look At Every Farming Sim We Saw At Nintendo Direct](https://kotaku.com/nintendo-direct-farming-sim-harvest-moon-switch-1849535809)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
