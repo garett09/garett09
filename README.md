@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hackers are improving phishing attacks by having you chat with &#39;sock puppets&#39;](https://www.pcgamer.com/hackers-are-improving-phishing-attacks-by-having-you-chat-with-sock-puppets)
- - [The best gaming TV in 2022](https://www.pcgamer.com/best-4k-tv-for-gaming)
- - [Call of Duty: Modern Warfare 2 beta dates and times](https://www.pcgamer.com/modern-warfare-2-beta-access)<!-- GAME:END -->
+ - [Welp, the Cyberpunk 2077 anime made me want to give the game another shot](https://www.pcgamer.com/welp-the-cyberpunk-2077-anime-made-me-want-to-give-the-game-another-shot)
+ - [Overwatch loot box hoarders say goodbye](https://www.pcgamer.com/overwatch-loot-box-hoarders-say-goodbye)
+ - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
