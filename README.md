@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Start your journey in Asterigos: Curse of the Stars October 11th on PS4 and PS5](https://blog.playstation.com/2022/09/14/start-your-journey-in-asterigos-curse-of-the-stars-october-11th-on-ps4-and-ps5/)
- - [The Sims 4 is going free to play](https://www.polygon.com/23352758/sims-4-free-to-play-release-date-future-content-support)
- - [How the first decade of actual play has defined the template](https://www.polygon.com/23334732/how-the-first-decade-of-actual-play-has-defined-the-template)<!-- GAME:END -->
+ - [Genshin Impact’s Dendro element changes the game for Keqing players](https://www.polygon.com/23345139/genshin-impact-dendro-element-keqing-meta-best-worst-5-star-dps)
+ - [BMX Comes to Riders Republic Today in Season 4: Freestylin’](https://news.xbox.com/en-us/2022/09/14/bmx-comes-to-riders-republic-today/)
+ - [After killing internet forums, Discord is bringing them back](https://www.pcgamer.com/after-killing-internet-forums-discord-is-bringing-them-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
