@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
- - 🚯 [Harsh reality](http://9gag.com/gag/aBd9pnN)
- - 🚯 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)<!-- MEMES:END -->
+ - 🚖 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
+ - 🚯 [The Chosen One](http://9gag.com/gag/adPyEN2)
+ - 🚯 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)<!-- MEMES:END -->
 
 --- 
 
