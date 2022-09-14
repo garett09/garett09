@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drama](http://9gag.com/gag/aDYRBGw)
- - 🚯 [WTF is that?](http://9gag.com/gag/a9qjQAK)
- - 🚯 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)<!-- MEMES:END -->
+ - 🚖 [WTF is that?](http://9gag.com/gag/a9qjQAK)
+ - 🚯 [Who doesn&#39;t understand](http://9gag.com/gag/a7qv4Ze)
+ - 🚯 [How to fix holes in clothing.](http://9gag.com/gag/aNwmxqw)<!-- MEMES:END -->
 
 --- 
 
