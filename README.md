@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m Hyped For Rune Factory 3 On The Switch And You Should Be Too](https://kotaku.com/nintendo-direct-rune-factory-story-of-seasons-harvest-m-1849535867)
- - [Tekken: Bloodline proves yet again that Tekken should only be a video game](https://www.polygon.com/23344815/tekken-bloodline-review-anime-netflix)
- - [Look At Every Farming Sim We Saw At Nintendo Direct](https://kotaku.com/nintendo-direct-farming-sim-harvest-moon-switch-1849535809)<!-- GAME:END -->
+ - [In Case You Missed It: /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/14/in-case-you-missed-it-twitchgaming-idxbox-fall-showcase/)
+ - [Bringing Yakuza&#39;s Kiryu Back In Like A Dragon 8 Is Silly](https://kotaku.com/yakuza-8-kiryu-kazuma-ichiban-like-a-dragon-ps5-sony-1849536052)
+ - [Oh No, Valve Built A Steam Deck For Giants](https://kotaku.com/valve-steam-deck-tokyo-game-show-half-life-portal-index-1849535978)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
