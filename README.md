@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got cream on face?](http://9gag.com/gag/a5Xepdg)
- - 🚯 [*PLING intensifies](http://9gag.com/gag/amAqDxo)
- - 🚯 [How did you know](http://9gag.com/gag/aMEepDW)<!-- MEMES:END -->
+ - 🚖 [*PLING intensifies](http://9gag.com/gag/amAqDxo)
+ - 🚯 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)
+ - 🚯 [Oh no](http://9gag.com/gag/a3ZvoO5)<!-- MEMES:END -->
 
 --- 
 
