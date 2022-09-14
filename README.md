@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA says it plans to debut EA AntiCheat, a kernel-level anti-cheat system for some PC games, due to cheat developers increasingly building kernel-level exploits &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220913/p45#a220913p45)
- - [The US Treasury clarifies its guidance on Tornado Cash and provides a way for users to lawfully withdraw their funds by applying for a license &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/220913/p44#a220913p44)
- - [Here are the first not-an-NFT “digital collectibles” for PlayStation Stars](https://www.theverge.com/2022/9/13/23352063/sony-playstation-stars-digital-collectibles-previews)<!-- TECH:END -->
+ - [Sources: Apple plans to use TSMC&#39;s next generation N3E 3-nm chipmaking technology for the A17 chips in some of its 2023 iPhones and M3 chips for Macs &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/220913/p50#a220913p50)
+ - [Apple&#39;s Dr. Sumbul Desai to speak at Web Summit 2022](https://appleinsider.com/articles/22/09/14/apples-dr-sumbul-desai-to-speak-at-web-summit-2022?utm_medium=rss)
+ - [Microsoft releases 63 security fixes, including patches for two zero-day flaws, one of which is under active exploit, and five critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220913/p49#a220913p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
