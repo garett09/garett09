@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
- - 🚯 [The Chosen One](http://9gag.com/gag/adPyEN2)
- - 🚯 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)<!-- MEMES:END -->
+ - 🚖 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)
+ - 🚯 [Involuntary Yoga](http://9gag.com/gag/aGEKX7X)
+ - 🚯 [A deep message](http://9gag.com/gag/aKE4Rn3)<!-- MEMES:END -->
 
 --- 
 
