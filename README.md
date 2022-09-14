@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google loses appeal over illegal Android app bundling, EU reduces fine to €4.1 billion](https://www.theverge.com/2022/9/14/23341207/google-eu-android-antitrust-fine-appeal-failed-4-billion)
- - [An EU court backs the European Commission&#39;s decision to fine Google over Android antitrust breaches but trims the fine from &amp;euro;4.3B to &amp;euro;4.1B; Google can appeal &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/220914/p7#a220914p7)
- - [A South Korean court issues an arrest warrant for Terraform Labs founder Do Kwon and five others located in Singapore, following the collapse of LUNA and UST &lpar;Hooyeon Kim/Bloomberg&rpar;](http://www.techmeme.com/220914/p6#a220914p6)<!-- TECH:END -->
+ - [Apple&#39;s A17, M3 processors will be first to use new TSMC 3nm technology](https://appleinsider.com/articles/22/09/14/apples-a17-m3-processors-will-be-first-to-use-new-tsmc-3nm-technology?utm_medium=rss)
+ - [Chinese regulators approve paid games from Tencent and NetEase for the first time since July 2021, as part of granting 73 games licenses &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220914/p9#a220914p9)
+ - [Windows Terminal now supports colorful themes to spruce up your dev environment](https://www.theverge.com/2022/9/14/23352608/windows-terminal-themes-customization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
