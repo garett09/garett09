@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s A17, M3 processors will be first to use new TSMC 3nm technology](https://appleinsider.com/articles/22/09/14/apples-a17-m3-processors-will-be-first-to-use-new-tsmc-3nm-technology?utm_medium=rss)
- - [Chinese regulators approve paid games from Tencent and NetEase for the first time since July 2021, as part of granting 73 games licenses &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220914/p9#a220914p9)
- - [Windows Terminal now supports colorful themes to spruce up your dev environment](https://www.theverge.com/2022/9/14/23352608/windows-terminal-themes-customization)<!-- TECH:END -->
+ - [In delayed audited financial statements, Byju&#39;s reports ~$305.6M revenue in FY2021 and a ~$577.4M loss, up from ~$32.9M in FY20, missing its own projections &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220914/p11#a220914p11)
+ - [Who Gets to Build the Next Software Stack of Civilization?](https://www.wired.com/story/who-gets-to-build-the-next-software-stack-of-civilization/)
+ - [A GMO Purple Tomato Is Coming to Stores. Will the US Bite?](https://www.wired.com/story/a-gmo-purple-tomato-is-coming-to-grocery-aisles-will-the-us-bite/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
