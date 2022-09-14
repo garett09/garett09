@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Single moms](http://9gag.com/gag/a6qrWQA)
- - 🚯 [How did you know](http://9gag.com/gag/aMEepDW)
- - 🚯 [Oh no](http://9gag.com/gag/a3ZvoO5)<!-- MEMES:END -->
+ - 🚖 [Male privilege](http://9gag.com/gag/aZDbbqp)
+ - 🚯 [Belfast you lil rebel I like you](http://9gag.com/gag/anzqej0)
+ - 🚯 [Kingdom](http://9gag.com/gag/aDYARPx)<!-- MEMES:END -->
 
 --- 
 
