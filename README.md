@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*PLING intensifies](http://9gag.com/gag/amAqDxo)
- - 🚯 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)
+ - 🚖 [How did you know](http://9gag.com/gag/aMEepDW)
+ - 🚯 [Simply put.](http://9gag.com/gag/aXn0Z7b)
  - 🚯 [Oh no](http://9gag.com/gag/a3ZvoO5)<!-- MEMES:END -->
 
 --- 
