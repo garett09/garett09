@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rate my setup](http://9gag.com/gag/aNwm6w4)
- - 🚯 [Deer interview](http://9gag.com/gag/amAqEVX)
- - 🚯 [Sick burn bro](http://9gag.com/gag/aA0Bo7R)<!-- MEMES:END -->
+ - 🚖 [Hes an angel on the construction site](http://9gag.com/gag/aqe43VY)
+ - 🚯 [I want a black Mulan](http://9gag.com/gag/aVbjNrn)
+ - 🚯 [Deer interview](http://9gag.com/gag/amAqEVX)<!-- MEMES:END -->
 
 --- 
 
