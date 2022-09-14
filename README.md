@@ -157,8 +157,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)
- - 🚯 [Involuntary Yoga](http://9gag.com/gag/aGEKX7X)
- - 🚯 [A deep message](http://9gag.com/gag/aKE4Rn3)<!-- MEMES:END -->
+ - 🚯 [Like that\u2019s ever gonna happen](http://9gag.com/gag/az27ngz)
+ - 🚯 [For sure!](http://9gag.com/gag/aGEKXOX)<!-- MEMES:END -->
 
 --- 
 
