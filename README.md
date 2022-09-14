@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Ninja&#39;s New Game Is A 19th-Century &#39;Action RPG&#39;](https://kotaku.com/rise-of-the-ronin-team-ninja-ps5-action-rpg-open-world-1849532956)
- - [WW1 FPS Isonzo is out Now](https://news.xbox.com/en-us/2022/09/13/ww1-fps-isonzo-is-out-now/)
- - [This weird comedy horror game from March went mostly unnoticed](https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed)<!-- GAME:END -->
+ - [Google scraps its Pixelbook laptop range](https://www.pcgamer.com/google-scraps-its-pixelbook-laptop-range)
+ - [Netflix&#39;s Cyberpunk: Edgerunners Connects to Cyberpunk 2077 in Strange Ways](https://game-rant-2022.blogspot.com/2022/09/netflixs-cyberpunk-edgerunners-connects.html)
+ - [Teams that should be in King of Fighters XV Season 2](https://game-rant-2022.blogspot.com/2022/09/teams-that-should-be-in-king-of.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
