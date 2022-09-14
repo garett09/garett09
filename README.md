@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe not?](http://9gag.com/gag/a3Zv9Ym)
+ - 🚖 [Finally a solution](http://9gag.com/gag/arm16MX)
  - 🚯 [Let\u2019s do a drone light show over an uncontacted tribe and become their gods](http://9gag.com/gag/awZN6yW)
- - 🚯 [Sick burn bro](http://9gag.com/gag/aA0Bo7R)<!-- MEMES:END -->
+ - 🚯 [Is it?](http://9gag.com/gag/aWGBKx6)<!-- MEMES:END -->
 
 --- 
 
