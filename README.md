@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dig Security, which helps companies protect and manage cloud data, raised a $34M Series A led by SignalFire, bringing its total funding to $45M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220914/p15#a220914p15)
- - [PlayStation VR2 hands-on: easy to set up, a joy to use, the OLED display looks great, refreshed Sense controllers are an improvement, gameplay is fun, and more &lpar;The Verge&rpar;](http://www.techmeme.com/220914/p14#a220914p14)
- - [The Best Substack Alternatives](https://www.wired.com/story/best-substack-alternatives/)<!-- TECH:END -->
+ - [DJI&#39;s new Osmo Action 3 camera can take vertical social media videos](https://appleinsider.com/articles/22/09/14/djis-new-osmo-action-3-camera-can-take-vertical-social-media-videos?utm_medium=rss)
+ - [iPhone 14 &amp; iPhone 14 Pro review roundup: Pro is the way to go](https://appleinsider.com/articles/22/09/14/iphone-14-iphone-14-pro-review-roundup-pro-is-the-way-to-go?utm_medium=rss)
+ - [A survey of 5,000 emoji users in the US finds 91% think emoji makes communication easier, 68% like emoji at work, &amp;#128514; is the most popular, and more &lpar;Adobe Blog&rpar;](http://www.techmeme.com/220914/p20#a220914p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
