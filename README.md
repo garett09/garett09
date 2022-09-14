@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza Producer Thinks The Series Is Too ‘Underground’ And Violent For Switch](https://kotaku.com/yakuza-like-a-dragon-switch-port-family-friendly-rgg-1849536732)
- - [It&#39;s almost impossible not to laugh when you see this guy snipe someone with a flute in Warzone](https://www.pcgamer.com/warzone-flute-clip)
- - [Late Cretaceous Pack for Jurassic World Evolution 2 Releases September 15](https://news.xbox.com/en-us/2022/09/14/late-cretaceous-pack-for-jurassic-world-evolution-2-releases-september-15/)<!-- GAME:END -->
+ - [Hackers are improving phishing attacks by having you chat with &#39;sock puppets&#39;](https://www.pcgamer.com/hackers-are-improving-phishing-attacks-by-having-you-chat-with-sock-puppets)
+ - [The best gaming TV in 2022](https://www.pcgamer.com/best-4k-tv-for-gaming)
+ - [Call of Duty: Modern Warfare 2 beta dates and times](https://www.pcgamer.com/modern-warfare-2-beta-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
