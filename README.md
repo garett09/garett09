@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge throws out Facebook collusion claims in Google antitrust suit](https://www.theverge.com/2022/9/13/23352005/google-ad-tech-antitrust-suit-moves-forward-jedi-blue-facebook-collusion-claims-dismissed)
- - [App Store to gain new ad slots in time for holiday season](https://appleinsider.com/articles/22/09/13/app-store-to-gain-new-ad-slots-in-time-for-holiday-season?utm_medium=rss)
- - [NY judge rules the bulk of the state AGs&#39; ad tech antitrust suit against Google can proceed, but dismissed the claim Meta and Google colluded via Jedi Blue &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220913/p43#a220913p43)<!-- TECH:END -->
+ - [EA says it plans to debut EA AntiCheat, a kernel-level anti-cheat system for some PC games, due to cheat developers increasingly building kernel-level exploits &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220913/p45#a220913p45)
+ - [The US Treasury clarifies its guidance on Tornado Cash and provides a way for users to lawfully withdraw their funds by applying for a license &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/220913/p44#a220913p44)
+ - [Here are the first not-an-NFT “digital collectibles” for PlayStation Stars](https://www.theverge.com/2022/9/13/23352063/sony-playstation-stars-digital-collectibles-previews)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
