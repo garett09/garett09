@@ -109,7 +109,7 @@ while(dev.isCoding() && dev.isStuck())
 
 **🐱 My GitHub Data** 
 
-> 🏆 483 Contributions in the Year 2022
+> 🏆 597 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -119,51 +119,12 @@ while(dev.isCoding() && dev.isStuck())
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-🌆 Daytime    165 commits    ████████░░░░░░░░░░░░░░░░░   31.91% 
-🌃 Evening    202 commits    █████████░░░░░░░░░░░░░░░░   39.07% 
-🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.47%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
-Tuesday      53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-Wednesday    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
-Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Saturday     102 commits    █████░░░░░░░░░░░░░░░░░░░░   19.73% 
-Sunday       123 commits    ██████░░░░░░░░░░░░░░░░░░░   23.79%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 01:13:09 UTC
+ Last Updated on 14/09/2022 01:14:25 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
