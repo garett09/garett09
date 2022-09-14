@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega brings Yakuza spinoffs Judgment and Lost Judgment to Steam, finally](https://www.polygon.com/23352851/sega-yakuza-lost-judgment-pc-steam-release-date)
- - [Destiny 2 Players Are Losing It Over Stealth Change That Feels Harsh](https://kotaku.com/destiny-2-witch-queen-crucible-pvp-patch-notes-hotfix-1849534371)
- - [COD Modern Warfare 2 wants your phone number before you can play on PC](https://www.pcgamer.com/cod-modern-warfare-2-wants-your-phone-number-before-you-can-play-on-pc)<!-- GAME:END -->
+ - [Start your journey in Asterigos: Curse of the Stars October 11th on PS4 and PS5](https://blog.playstation.com/2022/09/14/start-your-journey-in-asterigos-curse-of-the-stars-october-11th-on-ps4-and-ps5/)
+ - [The Sims 4 is going free to play](https://www.polygon.com/23352758/sims-4-free-to-play-release-date-future-content-support)
+ - [How the first decade of actual play has defined the template](https://www.polygon.com/23334732/how-the-first-decade-of-actual-play-has-defined-the-template)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
