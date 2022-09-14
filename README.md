@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)
- - 🚯 [Is it?](http://9gag.com/gag/aWGBKx6)
- - 🚯 [Hungary gets cut off 70% of EU funds](http://9gag.com/gag/a04vmYz)<!-- MEMES:END -->
+ - 🚖 [Drama](http://9gag.com/gag/aDYRBGw)
+ - 🚯 [WTF is that?](http://9gag.com/gag/a9qjQAK)
+ - 🚯 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)<!-- MEMES:END -->
 
 --- 
 
