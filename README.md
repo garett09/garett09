@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Case You Missed It: /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/14/in-case-you-missed-it-twitchgaming-idxbox-fall-showcase/)
- - [Bringing Yakuza&#39;s Kiryu Back In Like A Dragon 8 Is Silly](https://kotaku.com/yakuza-8-kiryu-kazuma-ichiban-like-a-dragon-ps5-sony-1849536052)
- - [Oh No, Valve Built A Steam Deck For Giants](https://kotaku.com/valve-steam-deck-tokyo-game-show-half-life-portal-index-1849535978)<!-- GAME:END -->
+ - [Late Cretaceous Pack for Jurassic World Evolution 2 Releases September 15](https://news.xbox.com/en-us/2022/09/14/late-cretaceous-pack-for-jurassic-world-evolution-2-releases-september-15/)
+ - [26 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Huh, Hideo Kojima announced a VR game](https://www.pcgamer.com/huh-hideo-kojima-announced-a-vr-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
