@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Male privilege](http://9gag.com/gag/aZDbbqp)
- - 🚯 [Belfast you lil rebel I like you](http://9gag.com/gag/anzqej0)
- - 🚯 [Kingdom](http://9gag.com/gag/aDYARPx)<!-- MEMES:END -->
+ - 🚖 [Got cream on face?](http://9gag.com/gag/a5Xepdg)
+ - 🚯 [South Korea&#39;s `artificial sun` reached 100 million \u00b0C for more than 20 seconds. Over 7 times hotter than the Sun itself](http://9gag.com/gag/adP0yy2)
+ - 🚯 [This is my coat. There are a lot like it, but this one is mine...](http://9gag.com/gag/a9qbbY0)<!-- MEMES:END -->
 
 --- 
 
