@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF is that?](http://9gag.com/gag/a9qjQAK)
- - 🚯 [Who doesn&#39;t understand](http://9gag.com/gag/a7qv4Ze)
- - 🚯 [How to fix holes in clothing.](http://9gag.com/gag/aNwmxqw)<!-- MEMES:END -->
+ - 🚖 [Got cream on face?](http://9gag.com/gag/a5Xepdg)
+ - 🚯 [*PLING intensifies](http://9gag.com/gag/amAqDxo)
+ - 🚯 [How did you know](http://9gag.com/gag/aMEepDW)<!-- MEMES:END -->
 
 --- 
 
