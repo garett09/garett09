@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega Announces Another New Yakuza Game, Drops First Trailer For Yakuza 8](https://kotaku.com/yakuza-8-kazuma-kiryu-sega-rpg-announce-reveal-trailer-1849533793)
- - [Chairman of FromSoftware&#39;s parent company arrested in Olympic bribery case](https://www.pcgamer.com/chairman-of-fromsoftwares-parent-company-arrested-in-olympic-bribery-case)
- - [Best Slay The Spire: Downfall Boss Lessons](https://game-rant-2022.blogspot.com/2022/09/best-slay-spire-downfall-boss-lessons.html)<!-- GAME:END -->
+ - [Hands-on with four PlayStation VR2 titles](https://blog.playstation.com/2022/09/14/hands-on-with-four-playstation-vr2-titles/)
+ - [PlayStation VR2 is making me fall in love with VR again](https://www.polygon.com/23350507/playstation-vr2-ps5-hands-on-horizon-resident-evil-village)
+ - [Yakuza’s Kazuma Kiryu is back in Like a Dragon 8 and a new spinoff](https://www.polygon.com/23352637/yakuza-like-a-dragon-8-kazuma-kiryu-gaiden-the-man-who-erased-his-name-announcement-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
