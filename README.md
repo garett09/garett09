@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to use TSMC&#39;s next generation N3E 3-nm chipmaking technology for the A17 chips in some of its 2023 iPhones and M3 chips for Macs &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/220913/p50#a220913p50)
- - [Apple&#39;s Dr. Sumbul Desai to speak at Web Summit 2022](https://appleinsider.com/articles/22/09/14/apples-dr-sumbul-desai-to-speak-at-web-summit-2022?utm_medium=rss)
- - [Microsoft releases 63 security fixes, including patches for two zero-day flaws, one of which is under active exploit, and five critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220913/p49#a220913p49)<!-- TECH:END -->
+ - [Disinformation campaigns use text messages ahead of the 2022 US midterms; in Kansas, voters got texts falsely saying a &quot;yes&quot; vote would protect abortion access &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/220914/p2#a220914p2)
+ - [Someone just added Apple’s Dynamic Island on an Android phone &lpar;Updated&rpar;](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)
+ - [Charles Schwab, Citadel Securities, Fidelity Digital Assets, and others announce cryptocurrency exchange EDX Markets, leveraging tech from US stock market MEMX &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/220914/p1#a220914p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
