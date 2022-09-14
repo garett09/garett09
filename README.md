@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In delayed audited financial statements, Byju&#39;s reports ~$305.6M revenue in FY2021 and a ~$577.4M loss, up from ~$32.9M in FY20, missing its own projections &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220914/p11#a220914p11)
- - [Who Gets to Build the Next Software Stack of Civilization?](https://www.wired.com/story/who-gets-to-build-the-next-software-stack-of-civilization/)
- - [A GMO Purple Tomato Is Coming to Stores. Will the US Bite?](https://www.wired.com/story/a-gmo-purple-tomato-is-coming-to-grocery-aisles-will-the-us-bite/)<!-- TECH:END -->
+ - [Dig Security, which helps companies protect and manage cloud data, raised a $34M Series A led by SignalFire, bringing its total funding to $45M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220914/p15#a220914p15)
+ - [PlayStation VR2 hands-on: easy to set up, a joy to use, the OLED display looks great, refreshed Sense controllers are an improvement, gameplay is fun, and more &lpar;The Verge&rpar;](http://www.techmeme.com/220914/p14#a220914p14)
+ - [The Best Substack Alternatives](https://www.wired.com/story/best-substack-alternatives/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
