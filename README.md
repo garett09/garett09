@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sega announces Yakuza 8 and a slew of other Yakuza games](https://www.theverge.com/2022/9/14/23352795/yakuza-8-like-a-dragon-8-judgment-sega-ryu-ga-gotoku-studio)
- - [A profile of Twitter chairman Bret Taylor, a low-profile, calm, and professional operator, as Elon Musk&#39;s acquisition unsettles the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/220914/p26#a220914p26)
- - [Apple will switch more iPhone 14 Pro screen orders to Samsung](https://appleinsider.com/articles/22/09/14/apple-will-switch-more-iphone-14-pro-screen-orders-to-samsung?utm_medium=rss)<!-- TECH:END -->
+ - [Discord rolls out Reddit-like Forum channels, designed for chatting about specific topics, after testing them since February 2022 &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220914/p28#a220914p28)
+ - [How to quickly update all of your iPhone apps on iOS 16](https://www.theverge.com/23348908/update-iphone-apps-ios-16-apple)
+ - [Pearl is a slasher prequel that makes the original even better](https://www.theverge.com/23352979/pearl-review-tiff-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
