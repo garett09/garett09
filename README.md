@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How did you know](http://9gag.com/gag/aMEepDW)
- - 🚯 [Simply put.](http://9gag.com/gag/aXn0Z7b)
+ - 🚖 [Single moms](http://9gag.com/gag/a6qrWQA)
+ - 🚯 [How did you know](http://9gag.com/gag/aMEepDW)
  - 🚯 [Oh no](http://9gag.com/gag/a3ZvoO5)<!-- MEMES:END -->
 
 --- 
