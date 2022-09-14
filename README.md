@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got cream on face?](http://9gag.com/gag/a5Xepdg)
- - 🚯 [South Korea&#39;s `artificial sun` reached 100 million \u00b0C for more than 20 seconds. Over 7 times hotter than the Sun itself](http://9gag.com/gag/adP0yy2)
- - 🚯 [This is my coat. There are a lot like it, but this one is mine...](http://9gag.com/gag/a9qbbY0)<!-- MEMES:END -->
+ - 🚖 [I want whatever she&#39;s smoking](http://9gag.com/gag/adP00YV)
+ - 🚯 [Who wants consomme?](http://9gag.com/gag/aA0RRwR)
+ - 🚯 [How much savings do you have?](http://9gag.com/gag/anzqeOo)<!-- MEMES:END -->
 
 --- 
 
