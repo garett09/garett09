@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blockbuster Games promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/14/blockbuster-games-promotion-comes-to-playstation-store-2/)
- - [Bayonetta 3 wants you to express yourself, darling](https://www.polygon.com/23352178/bayonetta-3-preview-pax-west-nintendo-switch)
- - [Wil Wheaton is trying to become a god in Star Trek Online](https://www.pcgamer.com/wil-wheaton-is-trying-to-become-a-god-in-star-trek-online)<!-- GAME:END -->
+ - [Sega brings Yakuza spinoffs Judgment and Lost Judgment to Steam, finally](https://www.polygon.com/23352851/sega-yakuza-lost-judgment-pc-steam-release-date)
+ - [Destiny 2 Players Are Losing It Over Stealth Change That Feels Harsh](https://kotaku.com/destiny-2-witch-queen-crucible-pvp-patch-notes-hotfix-1849534371)
+ - [COD Modern Warfare 2 wants your phone number before you can play on PC](https://www.pcgamer.com/cod-modern-warfare-2-wants-your-phone-number-before-you-can-play-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
