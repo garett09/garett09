@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI&#39;s new Osmo Action 3 camera can take vertical social media videos](https://appleinsider.com/articles/22/09/14/djis-new-osmo-action-3-camera-can-take-vertical-social-media-videos?utm_medium=rss)
- - [iPhone 14 &amp; iPhone 14 Pro review roundup: Pro is the way to go](https://appleinsider.com/articles/22/09/14/iphone-14-iphone-14-pro-review-roundup-pro-is-the-way-to-go?utm_medium=rss)
- - [A survey of 5,000 emoji users in the US finds 91% think emoji makes communication easier, 68% like emoji at work, &amp;#128514; is the most popular, and more &lpar;Adobe Blog&rpar;](http://www.techmeme.com/220914/p20#a220914p20)<!-- TECH:END -->
+ - [Twilio plans to layoff 11% of its workforce, or around ~850 staff, in a bid to become profitable by 2023; CEO Jeff Lawson says Twilio grew &quot;too fast&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220914/p23#a220914p23)
+ - [After a package exploded at Northeastern University&#39;s VR center, sources say it included a rambling note criticizing Mark Zuckerberg and VR &lpar;CNN&rpar;](http://www.techmeme.com/220914/p22#a220914p22)
+ - [Northeastern University VR lab targeted in mail-bomb attack](https://www.theverge.com/2022/9/14/23352779/vr-lab-mail-bomb-attack-northeastern-university-zuckerberg-unabomber)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
