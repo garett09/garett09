@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God Of War Ragnarök Gets Moody New Story Trailer](https://kotaku.com/god-of-war-ragnarok-story-trailer-state-play-kratos-ps5-1848186572)
- - [PlayStation State of Play September 2022: The biggest announcements and trailers](https://www.polygon.com/23352084/playstation-state-of-play-september-2022-news-announcements-trailers)
- - [Anime action game Project Eve is now called Stellar Blade, coming in 2023](https://www.pcgamer.com/anime-action-game-project-eve-is-now-called-stellar-blade-coming-in-2023)<!-- GAME:END -->
+ - [Team Ninja&#39;s New Game Is A 19th-Century &#39;Action RPG&#39;](https://kotaku.com/rise-of-the-ronin-team-ninja-ps5-action-rpg-open-world-1849532956)
+ - [WW1 FPS Isonzo is out Now](https://news.xbox.com/en-us/2022/09/13/ww1-fps-isonzo-is-out-now/)
+ - [This weird comedy horror game from March went mostly unnoticed](https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
