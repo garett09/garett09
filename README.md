@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s Dendro element changes the game for Keqing players](https://www.polygon.com/23345139/genshin-impact-dendro-element-keqing-meta-best-worst-5-star-dps)
- - [BMX Comes to Riders Republic Today in Season 4: Freestylin’](https://news.xbox.com/en-us/2022/09/14/bmx-comes-to-riders-republic-today/)
- - [After killing internet forums, Discord is bringing them back](https://www.pcgamer.com/after-killing-internet-forums-discord-is-bringing-them-back)<!-- GAME:END -->
+ - [The People’s Joker, a hilarious trans riff on DC characters, shut down over ‘rights issues’](https://www.polygon.com/reviews/23353241/the-peoples-joker-review)
+ - [Cyberpunk: Edgerunners boldly builds on 2077’s thought experiments](https://www.polygon.com/23351457/cyberpunk-edgerunners-netflix-anime-2077-citizen-sleeper)
+ - [The Sims 4 Is Going Totally Free Everywhere Next Month](https://kotaku.com/the-sims-4-free-ea-maxis-origin-ps5-xbox-steam-pc-1849535405)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
