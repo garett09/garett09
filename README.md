@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)
- - 🚯 [Like that\u2019s ever gonna happen](http://9gag.com/gag/az27ngz)
- - 🚯 [For sure!](http://9gag.com/gag/aGEKXOX)<!-- MEMES:END -->
+ - 🚖 [She&#39;s got everything I want. Where can I find one like this?](http://9gag.com/gag/anzeLBz)
+ - 🚯 [Hol up what?](http://9gag.com/gag/ay2EOZX)
+ - 🚯 [The Puffling Patrol](http://9gag.com/gag/aGEKWRz)<!-- MEMES:END -->
 
 --- 
 
