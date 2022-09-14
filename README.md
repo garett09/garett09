@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio plans to layoff 11% of its workforce, or around ~850 staff, in a bid to become profitable by 2023; CEO Jeff Lawson says Twilio grew &quot;too fast&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220914/p23#a220914p23)
- - [After a package exploded at Northeastern University&#39;s VR center, sources say it included a rambling note criticizing Mark Zuckerberg and VR &lpar;CNN&rpar;](http://www.techmeme.com/220914/p22#a220914p22)
- - [Northeastern University VR lab targeted in mail-bomb attack](https://www.theverge.com/2022/9/14/23352779/vr-lab-mail-bomb-attack-northeastern-university-zuckerberg-unabomber)<!-- TECH:END -->
+ - [Sega announces Yakuza 8 and a slew of other Yakuza games](https://www.theverge.com/2022/9/14/23352795/yakuza-8-like-a-dragon-8-judgment-sega-ryu-ga-gotoku-studio)
+ - [A profile of Twitter chairman Bret Taylor, a low-profile, calm, and professional operator, as Elon Musk&#39;s acquisition unsettles the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/220914/p26#a220914p26)
+ - [Apple will switch more iPhone 14 Pro screen orders to Samsung](https://appleinsider.com/articles/22/09/14/apple-will-switch-more-iphone-14-pro-screen-orders-to-samsung?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
