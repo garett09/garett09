@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord rolls out Reddit-like Forum channels, designed for chatting about specific topics, after testing them since February 2022 &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220914/p28#a220914p28)
- - [How to quickly update all of your iPhone apps on iOS 16](https://www.theverge.com/23348908/update-iphone-apps-ios-16-apple)
- - [Pearl is a slasher prequel that makes the original even better](https://www.theverge.com/23352979/pearl-review-tiff-2022)<!-- TECH:END -->
+ - [As Ethereum moves to proof of stake, about 11% of ETH is staked and earning but won&#39;t be withdrawable until the &quot;Shanghai&quot; update, expected in about six months &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220914/p29#a220914p29)
+ - [Microsoft was right all along](https://www.theverge.com/2022/9/14/23353072/detachable-laptop-convertible-tablet-trend-xps-thinkpad)
+ - [Today, for three hours only, you can get Samsung’s M8 Smart Monitor for $499](https://www.theverge.com/2022/9/14/23352829/samsung-m8-smart-monitor-sunset-pink-4k-tv-display-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
