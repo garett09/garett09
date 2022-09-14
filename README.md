@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s got everything I want. Where can I find one like this?](http://9gag.com/gag/anzeLBz)
- - 🚯 [Hol up what?](http://9gag.com/gag/ay2EOZX)
- - 🚯 [The Puffling Patrol](http://9gag.com/gag/aGEKWRz)<!-- MEMES:END -->
+ - 🚖 [Hol up what?](http://9gag.com/gag/ay2EOZX)
+ - 🚯 [Who doesn&#39;t understand](http://9gag.com/gag/a7qv4Ze)
+ - 🚯 [Wednesday limbo magic](http://9gag.com/gag/az270pZ)<!-- MEMES:END -->
 
 --- 
 
