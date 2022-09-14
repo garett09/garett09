@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want whatever she&#39;s smoking](http://9gag.com/gag/adP00YV)
+ - 🚖 [How much savings do you have?](http://9gag.com/gag/anzqeOo)
  - 🚯 [Who wants consomme?](http://9gag.com/gag/aA0RRwR)
- - 🚯 [How much savings do you have?](http://9gag.com/gag/anzqeOo)<!-- MEMES:END -->
+ - 🚯 [I want whatever she&#39;s smoking](http://9gag.com/gag/adP00YV)<!-- MEMES:END -->
 
 --- 
 
