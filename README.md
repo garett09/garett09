@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hes an angel on the construction site](http://9gag.com/gag/aqe43VY)
- - 🚯 [I want a black Mulan](http://9gag.com/gag/aVbjNrn)
- - 🚯 [Deer interview](http://9gag.com/gag/amAqEVX)<!-- MEMES:END -->
+ - 🚖 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)
+ - 🚯 [Is it?](http://9gag.com/gag/aWGBKx6)
+ - 🚯 [Hungary gets cut off 70% of EU funds](http://9gag.com/gag/a04vmYz)<!-- MEMES:END -->
 
 --- 
 
