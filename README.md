@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hol up what?](http://9gag.com/gag/ay2EOZX)
- - 🚯 [Who doesn&#39;t understand](http://9gag.com/gag/a7qv4Ze)
- - 🚯 [Wednesday limbo magic](http://9gag.com/gag/az270pZ)<!-- MEMES:END -->
+ - 🚖 [Maybe not?](http://9gag.com/gag/a3Zv9Ym)
+ - 🚯 [Let\u2019s do a drone light show over an uncontacted tribe and become their gods](http://9gag.com/gag/awZN6yW)
+ - 🚯 [Sick burn bro](http://9gag.com/gag/aA0Bo7R)<!-- MEMES:END -->
 
 --- 
 
