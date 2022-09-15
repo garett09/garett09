@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 adds 4 classic fighters to roster, beta test coming in October](https://www.polygon.com/23351617/street-fighter-6-characters-roster-ken-blanka-dhalsim-honda-beta-test)
- - [Uncharted: Legacy of Thieves arrives on PC October 19, 2022](https://blog.playstation.com/2022/09/15/uncharted-legacy-of-thieves-arrives-on-pc-october-19-2022/)
- - [Uncharted: Legacy of Thieves arrives on PC October 19, 2022](https://blog.playstation.com/2022/09/15/uncharted-legacy-of-thieves-arrives-on-pc-october-19-2022/)<!-- GAME:END -->
+ - [Treat yourself to a dab emote with the Splatoon 3 battle pass](https://www.polygon.com/23349874/splatoon-3-emote-dab-catalog-battle-pass-drizzle-season)
+ - [5 Reasons to Download The Sims 4 Free Starting October 18](https://news.xbox.com/en-us/2022/09/15/5-reasons-download-the-sims-4-free/)
+ - [Pearl director Ti West set out to make a Disney version of a horror movie](https://www.polygon.com/23353620/pearl-ti-west-disney-inspirations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
