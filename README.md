@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indigenous RPG Coyote &amp; Crow is a hit, and a new anthology of adventures is on the way](https://www.polygon.com/tabletop-games/23353743/coyote-and-crow-indigenous-tabletop-rpg-anthology)
- - [Eiyuden Chronicle: Hundred Heroes Character Profiles – Part One](https://news.xbox.com/en-us/2022/09/15/eiyuden-chronicle-hundred-heroes-character-profiles-part-one/)
- - [Whew! Ken’s not divorced in Street Fighter 6](https://www.polygon.com/23355112/ken-street-fighter-6-divorced)<!-- GAME:END -->
+ - [8 Forgotten Web Games That’ll Bring You Back To The Weirdest Parts Of The Internet](https://kotaku.com/pc-flash-browser-games-y2k-barbiegirls-line-rider-1849541664)
+ - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
+ - [This flying car mod for Cyberpunk 2077 looks so good it should be a real feature](https://www.pcgamer.com/this-flying-car-mod-for-cyberpunk-2077-looks-so-good-it-should-be-a-real-feature)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
