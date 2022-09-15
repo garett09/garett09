@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based...](http://9gag.com/gag/aL1RBxM)
- - 🚯 [This screaming kitten was run over by the car in front of me. Unfortunately it was a hit and run, but the little guy is in recovery!](http://9gag.com/gag/avQpP7M)
- - 🚯 [Its legit!](http://9gag.com/gag/adP0pmZ)<!-- MEMES:END -->
+ - 🚖 [Single Life in 30s](http://9gag.com/gag/az2gVzm)
+ - 🚯 [Men are simple](http://9gag.com/gag/aOxKVLR)
+ - 🚯 [That guy makes movies with black people in main roles without giving me the feeling I saw a black people movie. I just saw a brilliant movie.](http://9gag.com/gag/aDYAmoN)<!-- MEMES:END -->
 
 --- 
 
