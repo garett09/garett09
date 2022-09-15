@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a Senate committee hearing, Meta, YouTube, TikTok, and Twitter execs defended their platforms and dodged questions about security, privacy, and moderation &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220914/p42#a220914p42)
- - [CEO Brian Armstrong says the Coinbase app will let US users see a new scorecard evaluating lawmakers on crypto policy issues, register to vote, and find events &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/220914/p41#a220914p41)
- - [Arm unveils Neoverse V2, its next-gen performance-optimized cores for the cloud, hyperscale, and HPC workloads, which is used in Nvidia&#39;s upcoming Grace CPU &lpar;Patrick Kennedy/ServeTheHome&rpar;](http://www.techmeme.com/220914/p40#a220914p40)<!-- TECH:END -->
+ - [Hone, which runs an online learning platform for executive training and is helmed by FanDuel co-founder Tom Griffiths, raised a $30M Series B led by 3L capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p3#a220915p3)
+ - [The upcoming Google Chromecast HD may not be so cheap after all](https://www.androidauthority.com/google-chromecast-hd-price-3209057/)
+ - [Walmart is launching a virtual try-on tool that allows shoppers to see how a clothing item would look on their own bodies without having to visit a store &lpar;Melissa Repko/CNBC&rpar;](http://www.techmeme.com/220915/p2#a220915p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
