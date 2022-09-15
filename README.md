@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Single Life in 30s](http://9gag.com/gag/az2gVzm)
- - 🚯 [Men are simple](http://9gag.com/gag/aOxKVLR)
- - 🚯 [That guy makes movies with black people in main roles without giving me the feeling I saw a black people movie. I just saw a brilliant movie.](http://9gag.com/gag/aDYAmoN)<!-- MEMES:END -->
+ - 🚖 [Unboxing a new original 90s PlayStation..](http://9gag.com/gag/anzqNZz)
+ - 🚯 [My time has come](http://9gag.com/gag/aGEYx57)
+ - 🚯 [Turning crisis into opportunity.](http://9gag.com/gag/abvX09E)<!-- MEMES:END -->
 
 --- 
 
