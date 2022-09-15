@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Forgotten Web Games That’ll Bring You Back To The Weirdest Parts Of The Internet](https://kotaku.com/pc-flash-browser-games-y2k-barbiegirls-line-rider-1849541664)
- - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
- - [This flying car mod for Cyberpunk 2077 looks so good it should be a real feature](https://www.pcgamer.com/this-flying-car-mod-for-cyberpunk-2077-looks-so-good-it-should-be-a-real-feature)<!-- GAME:END -->
+ - [Resident Evil 4 Remake Launching On PS4, But Not Xbox One](https://kotaku.com/re4-resident-evil-4-remake-ps4-ps5-xbox-one-capcom-1849542146)
+ - [Ark: Survival Evolved and a legendary co-op board game are free on Epic next week](https://www.pcgamer.com/ark-survival-evolved-and-a-legendary-co-op-board-game-are-free-on-epic-next-week)
+ - [Overwatch’s Assault maps are going away but could return, reworked, in Overwatch 2](https://www.polygon.com/23355352/overwatch-assault-maps-ow2-redesigns-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
