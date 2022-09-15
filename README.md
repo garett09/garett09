@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)
- - 🚯 [What a great piece of acting from both of them](http://9gag.com/gag/aeQjG65)
- - 🚯 [Based...](http://9gag.com/gag/aL1RBxM)<!-- MEMES:END -->
+ - 🚖 [Y e s](http://9gag.com/gag/aGEYxp0)
+ - 🚯 [Based...](http://9gag.com/gag/aL1RBxM)
+ - 🚯 [This screaming kitten was run over by the car in front of me. Unfortunately it was a hit and run, but the little guy is in recovery!](http://9gag.com/gag/avQpP7M)<!-- MEMES:END -->
 
 --- 
 
