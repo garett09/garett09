@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oddly satisfying](http://9gag.com/gag/armveEK)
- - 🚯 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)
- - 🚯 [Canadian inventor Troy Hurtubise tests his armored grizzly bear protection suit.](http://9gag.com/gag/aZDbPAQ)<!-- MEMES:END -->
+ - 🚖 [Religious institutions in a nutshell.](http://9gag.com/gag/aeQj3A5)
+ - 🚯 [Holly mother of croissants](http://9gag.com/gag/a9qbLD1)
+ - 🚯 [Left vs Right, change my mind](http://9gag.com/gag/anzqXy5)<!-- MEMES:END -->
 
 --- 
 
