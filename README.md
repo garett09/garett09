@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One mistake](http://9gag.com/gag/aZDbbM9)
- - 🚯 [Validation seeker Gen got REKT](http://9gag.com/gag/awZ0b0B)
- - 🚯 [Left vs Right, change my mind](http://9gag.com/gag/anzqXy5)<!-- MEMES:END -->
+ - 🚖 [1.6M views. I love democracy.](http://9gag.com/gag/a2KzNpZ)
+ - 🚯 [Relax &amp; Sleep...](http://9gag.com/gag/a4oK4Np)
+ - 🚯 [Meteor seen flying over multiple parts of the UK.](http://9gag.com/gag/aA0RYgL)<!-- MEMES:END -->
 
 --- 
 
