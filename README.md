@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC promises to investigate gig companies over wage-fixing](https://www.theverge.com/2022/9/15/23355418/uber-lyft-gig-economy-ftc-lina-khan-employees-wage-price-fixing)
- - [Ends tonight: save $300 on a lifetime Babbel language learning subscription](https://appleinsider.com/articles/22/08/25/199-lifetime-babbel-deal-is-back-save-300?utm_medium=rss)
- - [Original iPhone stars in Stephen King&#39;s &#39;Mr. Harrigan&#39;s Phone&#39;](https://appleinsider.com/articles/22/09/15/original-iphone-stars-in-stephen-kings-mr-harrigans-phone?utm_medium=rss)<!-- TECH:END -->
+ - [A US Rail Strike Was Averted—but the Crisis Is Far From Over](https://www.wired.com/story/a-us-rail-strike-was-averted-but-the-crisis-is-far-from-over/)
+ - [Gavin Newsom signs California social media overhaul for minors](https://www.theverge.com/2022/9/15/23329654/california-governor-gavin-newsom-ab-2273-social-media-children-code-law-signed)
+ - [NASA’s Perseverance Rover Digs Up Organic Molecules on Mars](https://www.wired.com/story/nasas-perseverance-rover-digs-up-organic-molecules-on-mars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
