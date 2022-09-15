@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Uncharted 4 releases on PC in October with variable framerate and an updated UI](https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-releases-on-pc-in-october-with-variable-framerate-and-a-new-ui)
- - [Star Wars’ Rogue Squadron movie removed from Disney’s future plans](https://www.polygon.com/23355555/star-wars-rogue-squadron-movie-canceled-disney)<!-- GAME:END -->
+ - [This stealth game challenges you to do murders, then vacuum up the mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)
+ - [Sunday Gold Review](https://www.pcgamer.com/sunday-gold-review)
+ - [The Biggest News From The Call Of Duty Next Showcase](https://kotaku.com/call-of-duty-warzone-2-modern-warfare-beta-infinity-cod-1849542633)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
