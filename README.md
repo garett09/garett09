@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google redesigns the Memories feature in Photos to spotlight more videos, launches a collage editor, and will let users share Memories with friends and family &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220915/p8#a220915p8)
  - [Memo: Netflix told ad buyers the company expects its ad-supported tier to reach 4.4M unique viewers globally in 2022, and ~40M by Q3 2023, with 13.3M in the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220915/p7#a220915p7)
- - [Ethereum activates its long-awaited The Merge upgrade and transactions are now being processed under proof of stake &lpar;Mike Truppa/The Block&rpar;](http://www.techmeme.com/220915/p6#a220915p6)
- - [The Ethereum Merge Is Complete. Here&#39;s Why That&#39;s Important     - CNET](https://www.cnet.com/personal-finance/crypto/the-ethereum-merge-is-complete-heres-why-thats-important/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ethereum activates its long-awaited The Merge upgrade and transactions are now being processed under proof of stake &lpar;Mike Truppa/The Block&rpar;](http://www.techmeme.com/220915/p6#a220915p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
