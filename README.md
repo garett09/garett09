@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best life hack](http://9gag.com/gag/a6qmdVb)
- - 🚯 [Lol](http://9gag.com/gag/axod23n)
- - 🚯 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)
+ - 🚯 [Robbing the wrong place](http://9gag.com/gag/aA0RVER)
+ - 🚯 [Scaly and fishy](http://9gag.com/gag/a1PvZ42)<!-- MEMES:END -->
 
 --- 
 
