@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)
- - 🚯 [Robbing the wrong place](http://9gag.com/gag/aA0RVER)
- - 🚯 [Scaly and fishy](http://9gag.com/gag/a1PvZ42)<!-- MEMES:END -->
+ - 🚖 [Oddly satisfying](http://9gag.com/gag/armveEK)
+ - 🚯 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)
+ - 🚯 [Canadian inventor Troy Hurtubise tests his armored grizzly bear protection suit.](http://9gag.com/gag/aZDbPAQ)<!-- MEMES:END -->
 
 --- 
 
