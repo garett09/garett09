@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1.6M views. I love democracy.](http://9gag.com/gag/a2KzNpZ)
- - 🚯 [Relax &amp; Sleep...](http://9gag.com/gag/a4oK4Np)
- - 🚯 [Meteor seen flying over multiple parts of the UK.](http://9gag.com/gag/aA0RYgL)<!-- MEMES:END -->
+ - 🚖 [Smooth criminal](http://9gag.com/gag/axodNBp)
+ - 🚯 [The best life hack](http://9gag.com/gag/a6qmdVb)
+ - 🚯 [Please, someone explain to me, why food for kids it&#39;s not free, neither a basic right in a civilized country...](http://9gag.com/gag/a9qbd2W)<!-- MEMES:END -->
 
 --- 
 
