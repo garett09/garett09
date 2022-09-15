@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe plans to acquire UI design and prototyping tool Figma for around $20B in cash and stock; Figma CEO Dylan Field will continue in the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/220915/p18#a220915p18)
- - [Anyone can use this AI art generator — that’s the risk](https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data)
- - [Adobe to acquire Figma in a deal worth $20 billion](https://www.theverge.com/2022/9/15/23354532/adobe-figma-acquisition-20-billion-official)<!-- TECH:END -->
+ - [Apple Card credit chief exits for startup](https://appleinsider.com/articles/22/09/15/apple-card-credit-chief-exits-for-startup?utm_medium=rss)
+ - [The US Consumer Financial Protection Bureau plans to start regulating BNPL startups, such as Klarna and Affirm, and will release guidance in the future &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220915/p25#a220915p25)
+ - [Adobe buys XD rival Figma for $20 billion](https://appleinsider.com/articles/22/09/15/adobe-buys-xd-rival-figma-for-20-billion?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
