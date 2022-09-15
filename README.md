@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s latest Stephen King trailer focuses on Mr. Harrigan’s iPhone](https://www.theverge.com/2022/9/15/23355208/netflix-mr-harrigans-phone-trailer-iphone-horror)
- - [Some YouTube viewers say ads on the platform have been expanding greatly in length and quantity recently, with reports of five to 10 unskippable ads per break &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220915/p33#a220915p33)
- - [Amazon is making a Blade Runner TV show](https://www.theverge.com/2022/9/15/23355197/blade-runner-tv-show-series-2099-amazon-prime-video)<!-- TECH:END -->
+ - [The FTC promises to investigate gig companies over wage-fixing](https://www.theverge.com/2022/9/15/23355418/uber-lyft-gig-economy-ftc-lina-khan-employees-wage-price-fixing)
+ - [Ends tonight: save $300 on a lifetime Babbel language learning subscription](https://appleinsider.com/articles/22/08/25/199-lifetime-babbel-deal-is-back-save-300?utm_medium=rss)
+ - [Original iPhone stars in Stephen King&#39;s &#39;Mr. Harrigan&#39;s Phone&#39;](https://appleinsider.com/articles/22/09/15/original-iphone-stars-in-stephen-kings-mr-harrigans-phone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
