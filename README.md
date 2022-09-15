@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lead times for iPhone 14 show stronger than expected demand](https://appleinsider.com/articles/22/09/15/lead-times-for-iphone-14-show-stronger-than-expected-demand?utm_medium=rss)
- - [Apple TV+ didn&#39;t seriously consider deal to stream LIV Golf events](https://appleinsider.com/articles/22/09/15/apple-tv-didnt-seriously-consider-deal-to-stream-liv-golf-events?utm_medium=rss)
- - [Zoom is back online so the free work vacation is over](https://www.theverge.com/2022/9/15/23354815/zoom-down-outage-problems)<!-- TECH:END -->
+ - [New price drops: save up to $1,100 on LG UltraFine OLED Pro 4K monitors for content creators](https://appleinsider.com/articles/22/09/13/new-price-drops-save-up-to-1100-on-lg-ultrafine-oled-pro-4k-monitors-for-content-creators?utm_medium=rss)
+ - [Amazon Echo may soon answer your questions with ads](https://www.theverge.com/2022/9/15/23354968/amazon-echo-alexa-ads-questions-smart-speaker)
+ - [Street Fighter 6 will let you make your own hot Ryu](https://www.theverge.com/2022/9/15/23354942/street-fighter-6-character-avatar-creator-make-your-own-closed-beta-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
