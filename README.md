@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 &amp; SE review roundup: Few reasons to upgrade](https://appleinsider.com/articles/22/09/15/apple-watch-series-8-se-review-roundup-few-reasons-to-upgrade?utm_medium=rss)
- - [TikTok adds TikTok Now, a BeReal-like feature, to its app in the US, with daily prompts to capture a 10-second video or a photo using front and back cameras &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220915/p27#a220915p27)
- - [TikTok Now is the latest BeReal knockoff](https://www.theverge.com/2022/9/15/23354609/tiktok-now-bereal-copy-dual-camera-feature)<!-- TECH:END -->
+ - [Final day: save up to $550 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
+ - [Lil Nas X is performing at the League of Legends World Championship](https://www.theverge.com/2022/9/15/23354537/lil-nas-x-league-of-legends-worlds-2022)
+ - [Snapchat for web is now available to everyone](https://www.theverge.com/2022/9/15/23354689/snapchat-for-desktop-web-version-rollout)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
