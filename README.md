@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk keeps outdoing itself with Marvel deep cuts](https://www.polygon.com/23354740/she-hulk-luke-jacobson-actor-griffin-matthews-marvel)
- - [Call of Duty: Modern Warfare II Multiplayer &amp; Warzone 2.0 details revealed](https://blog.playstation.com/2022/09/15/call-of-duty-modern-warfare-ii-multiplayer-warzone-2-0-details-revealed/)
- - [Call of Duty: Modern Warfare II Multiplayer &amp; Warzone 2.0 details revealed](https://blog.playstation.com/2022/09/15/call-of-duty-modern-warfare-ii-multiplayer-warzone-2-0-details-revealed/)<!-- GAME:END -->
+ - [Indigenous RPG Coyote &amp; Crow is a hit, and a new anthology of adventures is on the way](https://www.polygon.com/tabletop-games/23353743/coyote-and-crow-indigenous-tabletop-rpg-anthology)
+ - [Eiyuden Chronicle: Hundred Heroes Character Profiles – Part One](https://news.xbox.com/en-us/2022/09/15/eiyuden-chronicle-hundred-heroes-character-profiles-part-one/)
+ - [Whew! Ken’s not divorced in Street Fighter 6](https://www.polygon.com/23355112/ken-street-fighter-6-divorced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
