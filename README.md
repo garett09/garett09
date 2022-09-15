@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smooth criminal](http://9gag.com/gag/axodNBp)
- - 🚯 [The best life hack](http://9gag.com/gag/a6qmdVb)
- - 🚯 [Please, someone explain to me, why food for kids it&#39;s not free, neither a basic right in a civilized country...](http://9gag.com/gag/a9qbd2W)<!-- MEMES:END -->
+ - 🚖 [The best life hack](http://9gag.com/gag/a6qmdVb)
+ - 🚯 [Lol](http://9gag.com/gag/axod23n)
+ - 🚯 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)<!-- MEMES:END -->
 
 --- 
 
