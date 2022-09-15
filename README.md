@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards Of The Coast Go After Space RPG Accused Of &#39;Racist And Transphobic Content&#39;](https://kotaku.com/wizards-coast-star-frontiers-racist-trans-bigotry-suit-1849537890)
- - [Modern Warfare 2 guns are unlocked like a tech tree](https://www.pcgamer.com/modern-warfare-2-guns-are-unlocked-like-a-tech-tree)
- - [D&amp;D makers escalate lawsuit against Gygax son over trademark violations and a racist RPG](https://www.pcgamer.com/dandd-makers-escalate-lawsuit-against-gygax-son-over-trademark-violations-and-a-racist-rpg)<!-- GAME:END -->
+ - [Pimax promises gifts among birthday celebrations and 12k VR Headset launch](https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch)
+ - [Seagate&#39;s Into the Spider-Verse styled portable HDDs are stunning](https://www.pcgamer.com/seagates-into-the-spider-verse-styled-portable-hdds-are-stunning)
+ - [Rose &amp; Camellia, A Game About Ladies Slapping Each Other, Is Getting A Switch Port](https://kotaku.com/rose-camellia-jane-austen-switch-port-slap-slapping-1849537962)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
