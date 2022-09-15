@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the anime movies coming to theaters in fall 2022](https://www.polygon.com/23339878/fall-anime-preview-theatrical-movies-2022)
- - [Danganronpa V3: Killing Harmony Anniversary Edition Available Now with Game Pass](https://news.xbox.com/en-us/2022/09/15/danganronpa-v3-killing-harmony-anniversary-edition-available-now-with-game-pass/)
- - [Sins of a Solar Empire 2 is reaching for the stars](https://www.pcgamer.com/sins-of-a-solar-empire-2-is-reaching-for-the-stars)<!-- GAME:END -->
+ - [She-Hulk keeps outdoing itself with Marvel deep cuts](https://www.polygon.com/23354740/she-hulk-luke-jacobson-actor-griffin-matthews-marvel)
+ - [Call of Duty: Modern Warfare II Multiplayer &amp; Warzone 2.0 details revealed](https://blog.playstation.com/2022/09/15/call-of-duty-modern-warfare-ii-multiplayer-warzone-2-0-details-revealed/)
+ - [Call of Duty: Modern Warfare II Multiplayer &amp; Warzone 2.0 details revealed](https://blog.playstation.com/2022/09/15/call-of-duty-modern-warfare-ii-multiplayer-warzone-2-0-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
