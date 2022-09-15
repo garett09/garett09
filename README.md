@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 is the only good social media platform](https://www.polygon.com/23353488/splatoon-3-best-posts-billboards-posters-walls-jfresh-queen)
- - [Season 2 of the Halo TV show starts production with a new showrunner and new actors](https://www.pcgamer.com/season-2-of-the-halo-tv-show-starts-production-with-a-new-showrunner-and-new-actors)
- - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)<!-- GAME:END -->
+ - [Neon-folk survival horror Saturnalia comes to PS4 and PS5 next month](https://blog.playstation.com/2022/09/15/neon-folk-survival-horror-saturnalia-comes-to-ps4-and-ps5-next-month/)
+ - [Reclaim ‘The Sirens’ Prize’ in Sea of Thieves’ Seventh Adventure, Live Until September 29](https://news.xbox.com/en-us/2022/09/15/reclaim-the-sirens-prize-in-sea-of-thieves-seventh-adventure-live-until-september-29/)
+ - [The future of tabletop games is digital](https://www.polygon.com/23352511/digital-tabletop-games-coming-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
