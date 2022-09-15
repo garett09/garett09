@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Shaky Future of a Post-Roe Federal Privacy Law](https://www.wired.com/story/adppa-roe-democrats-congress/)
- - [Teaching ‘Selfish’ Wind Turbines to Share Can Boost Productivity](https://www.wired.com/story/wind-turbine-efficiency-algorithm/)
- - [A look at Shanghai&#39;s status as China&#39;s chip hub: SMIC and SMEE making 14nm and 90nm chips, ~$36.95B market size in 2021 or ~25% of China&#39;s total, and more &lpar;Jiaxing Li/South China Morning Post&rpar;](http://www.techmeme.com/220915/p14#a220915p14)<!-- TECH:END -->
+ - [Adobe plans to acquire UI design and prototyping tool Figma for around $20B in cash and stock; Figma CEO Dylan Field will continue in the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/220915/p18#a220915p18)
+ - [Anyone can use this AI art generator — that’s the risk](https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data)
+ - [Adobe to acquire Figma in a deal worth $20 billion](https://www.theverge.com/2022/9/15/23354532/adobe-figma-acquisition-20-billion-official)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
