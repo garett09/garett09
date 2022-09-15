@@ -156,8 +156,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corporate things](http://9gag.com/gag/aME2roR)
- - 🚯 [Scaly and fishy](http://9gag.com/gag/a1PvZ42)
+ - 🚖 [This is insane, what an amazing man!!](http://9gag.com/gag/aeQj0oj)
+ - 🚯 [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)
  - 🚯 [Ain&#39;t that cute](http://9gag.com/gag/armv4MK)<!-- MEMES:END -->
 
 --- 
