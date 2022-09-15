@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photographer Austin Mann puts the iPhone 14 Pro through its paces](https://appleinsider.com/articles/22/09/14/photographer-austin-mann-puts-the-iphone-14-pro-through-its-paces?utm_medium=rss)
- - [Android and iOS take big steps toward launching Matter smart home compatibility](https://www.theverge.com/2022/9/14/23353776/android-and-ios-matter-smart-home-compatibility)
- - [Google is finally rolling out Play Store reviews tailored to your device](https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews)<!-- TECH:END -->
+ - [Google cancels Qaya, which offered storefronts for creators, and six other projects out of the 14 housed at its incubator Area 120, as it shifts its focus to AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220914/p37#a220914p37)
+ - [EA’s CEO is following the money to more games with player-created content](https://www.theverge.com/2022/9/14/23353836/ea-creative-games-tools-games-andrew-wilson)
+ - [Splatoon 3 Salmon Run Guide: How to Beat Cohozuna     - CNET](https://www.cnet.com/tech/gaming/splatoon-3-salmon-run-guide-how-to-beat-cohozuna/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
