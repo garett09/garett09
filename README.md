@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final day: save up to $550 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
- - [Lil Nas X is performing at the League of Legends World Championship](https://www.theverge.com/2022/9/15/23354537/lil-nas-x-league-of-legends-worlds-2022)
- - [Snapchat for web is now available to everyone](https://www.theverge.com/2022/9/15/23354689/snapchat-for-desktop-web-version-rollout)<!-- TECH:END -->
+ - [Lead times for iPhone 14 show stronger than expected demand](https://appleinsider.com/articles/22/09/15/lead-times-for-iphone-14-show-stronger-than-expected-demand?utm_medium=rss)
+ - [Apple TV+ didn&#39;t seriously consider deal to stream LIV Golf events](https://appleinsider.com/articles/22/09/15/apple-tv-didnt-seriously-consider-deal-to-stream-liv-golf-events?utm_medium=rss)
+ - [Zoom is back online so the free work vacation is over](https://www.theverge.com/2022/9/15/23354815/zoom-down-outage-problems)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
