@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer is hiring a Magazine Editor in the UK](https://www.pcgamer.com/pc-gamer-is-hiring-a-magazine-editor-in-the-uk)
- - [Tokyo Game Show Xbox Stream 2022: News and Updates on 22 Games from majority Japanese developers, DEATHLOOP coming to Xbox Next Week, and much more!](https://news.xbox.com/en-us/2022/09/15/tokyo-game-show-xbox-stream-2022-recap/)
- - [Blizzard explains why Overwatch 2 heroes are locked behind the battle pass: they&#39;re &#39;the single most engaging content&#39;](https://www.pcgamer.com/blizzard-overwatch-2-hero-battle-pass-interview)<!-- GAME:END -->
+ - [Splatoon 3 is the only good social media platform](https://www.polygon.com/23353488/splatoon-3-best-posts-billboards-posters-walls-jfresh-queen)
+ - [Season 2 of the Halo TV show starts production with a new showrunner and new actors](https://www.pcgamer.com/season-2-of-the-halo-tv-show-starts-production-with-a-new-showrunner-and-new-actors)
+ - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
