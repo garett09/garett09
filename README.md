@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welp, the Cyberpunk 2077 anime made me want to give the game another shot](https://www.pcgamer.com/welp-the-cyberpunk-2077-anime-made-me-want-to-give-the-game-another-shot)
- - [Overwatch loot box hoarders say goodbye](https://www.pcgamer.com/overwatch-loot-box-hoarders-say-goodbye)
- - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)<!-- GAME:END -->
+ - [Wizards Of The Coast Go After Space RPG Accused Of &#39;Racist And Transphobic Content&#39;](https://kotaku.com/wizards-coast-star-frontiers-racist-trans-bigotry-suit-1849537890)
+ - [Modern Warfare 2 guns are unlocked like a tech tree](https://www.pcgamer.com/modern-warfare-2-guns-are-unlocked-like-a-tech-tree)
+ - [D&amp;D makers escalate lawsuit against Gygax son over trademark violations and a racist RPG](https://www.pcgamer.com/dandd-makers-escalate-lawsuit-against-gygax-son-over-trademark-violations-and-a-racist-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
