@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrest warrant issued for &#39;Lunatic&#39; crypto baron behind this year&#39;s $40 billion crash](https://www.pcgamer.com/arrest-warrant-issued-for-lunatic-crypto-baron-behind-this-years-dollar40-billion-crash)
- - [Award-winning point &amp; click adventure Norco comes to PlayStation October 20](https://blog.playstation.com/2022/09/15/award-winning-point-click-adventure-norco-comes-to-playstation-october-20/)
- - [Award-winning point &amp; click adventure Norco comes to PlayStation October 20](https://blog.playstation.com/2022/09/15/award-winning-point-click-adventure-norco-comes-to-playstation-october-20/)<!-- GAME:END -->
+ - [Street Fighter 6 adds 4 classic fighters to roster, beta test coming in October](https://www.polygon.com/23351617/street-fighter-6-characters-roster-ken-blanka-dhalsim-honda-beta-test)
+ - [Uncharted: Legacy of Thieves arrives on PC October 19, 2022](https://blog.playstation.com/2022/09/15/uncharted-legacy-of-thieves-arrives-on-pc-october-19-2022/)
+ - [Uncharted: Legacy of Thieves arrives on PC October 19, 2022](https://blog.playstation.com/2022/09/15/uncharted-legacy-of-thieves-arrives-on-pc-october-19-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
