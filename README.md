@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New price drops: save up to $1,100 on LG UltraFine OLED Pro 4K monitors for content creators](https://appleinsider.com/articles/22/09/13/new-price-drops-save-up-to-1100-on-lg-ultrafine-oled-pro-4k-monitors-for-content-creators?utm_medium=rss)
- - [Amazon Echo may soon answer your questions with ads](https://www.theverge.com/2022/9/15/23354968/amazon-echo-alexa-ads-questions-smart-speaker)
- - [Street Fighter 6 will let you make your own hot Ryu](https://www.theverge.com/2022/9/15/23354942/street-fighter-6-character-avatar-creator-make-your-own-closed-beta-test)<!-- TECH:END -->
+ - [Compared: iPhone Upgrade Program vs. carrier installment plans](https://appleinsider.com/articles/22/09/15/compared-iphone-upgrade-program-vs-carrier-installment-plans?utm_medium=rss)
+ - [Amazon will roll out Customers Ask Alexa, which lets brands answer some common customer questions and provide links to their storefronts, starting in late 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p32#a220915p32)
+ - [October 2nd is Overwatch’s last day on earth](https://www.theverge.com/2022/9/15/23354913/overwatch-one-1-last-day-october-2nd)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
