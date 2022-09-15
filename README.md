@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card credit chief exits for startup](https://appleinsider.com/articles/22/09/15/apple-card-credit-chief-exits-for-startup?utm_medium=rss)
- - [The US Consumer Financial Protection Bureau plans to start regulating BNPL startups, such as Klarna and Affirm, and will release guidance in the future &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220915/p25#a220915p25)
- - [Adobe buys XD rival Figma for $20 billion](https://appleinsider.com/articles/22/09/15/adobe-buys-xd-rival-figma-for-20-billion?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Series 8 &amp; SE review roundup: Few reasons to upgrade](https://appleinsider.com/articles/22/09/15/apple-watch-series-8-se-review-roundup-few-reasons-to-upgrade?utm_medium=rss)
+ - [TikTok adds TikTok Now, a BeReal-like feature, to its app in the US, with daily prompts to capture a 10-second video or a photo using front and back cameras &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220915/p27#a220915p27)
+ - [TikTok Now is the latest BeReal knockoff](https://www.theverge.com/2022/9/15/23354609/tiktok-now-bereal-copy-dual-camera-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
