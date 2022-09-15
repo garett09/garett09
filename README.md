@@ -142,9 +142,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Remake Launching On PS4, But Not Xbox One](https://kotaku.com/re4-resident-evil-4-remake-ps4-ps5-xbox-one-capcom-1849542146)
- - [Ark: Survival Evolved and a legendary co-op board game are free on Epic next week](https://www.pcgamer.com/ark-survival-evolved-and-a-legendary-co-op-board-game-are-free-on-epic-next-week)
- - [Overwatch’s Assault maps are going away but could return, reworked, in Overwatch 2](https://www.polygon.com/23355352/overwatch-assault-maps-ow2-redesigns-blizzard)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Uncharted 4 releases on PC in October with variable framerate and an updated UI](https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-releases-on-pc-in-october-with-variable-framerate-and-a-new-ui)
+ - [Star Wars’ Rogue Squadron movie removed from Disney’s future plans](https://www.polygon.com/23355555/star-wars-rogue-squadron-movie-canceled-disney)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
