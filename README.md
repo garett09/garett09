@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you don&#39;t check mirrors before opening the door...](http://9gag.com/gag/a048YdO)
- - 🚯 [Let me throw a real wrench in the works:](http://9gag.com/gag/ay27nZW)
- - 🚯 [Oh uuh...](http://9gag.com/gag/a1PveoG)<!-- MEMES:END -->
+ - 🚖 [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)
+ - 🚯 [What a great piece of acting from both of them](http://9gag.com/gag/aeQjG65)
+ - 🚯 [Based...](http://9gag.com/gag/aL1RBxM)<!-- MEMES:END -->
 
 --- 
 
