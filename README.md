@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [King Charles III Speech](http://9gag.com/gag/aA0RrN2)
- - 🚯 [The difference between a leader and a war criminal.](http://9gag.com/gag/a5XeNDO)
- - 🚯 [Hustler University be like.](http://9gag.com/gag/awZ0bLr)<!-- MEMES:END -->
+ - 🚖 [Corporate things](http://9gag.com/gag/aME2roR)
+ - 🚯 [Scaly and fishy](http://9gag.com/gag/a1PvZ42)
+ - 🚯 [Ain&#39;t that cute](http://9gag.com/gag/armv4MK)<!-- MEMES:END -->
 
 --- 
 
