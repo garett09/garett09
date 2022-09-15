@@ -156,9 +156,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Religious institutions in a nutshell.](http://9gag.com/gag/aeQj3A5)
- - 🚯 [Holly mother of croissants](http://9gag.com/gag/a9qbLD1)
- - 🚯 [Left vs Right, change my mind](http://9gag.com/gag/anzqXy5)<!-- MEMES:END -->
+ - 🚖 [King Charles III Speech](http://9gag.com/gag/aA0RrN2)
+ - 🚯 [The difference between a leader and a war criminal.](http://9gag.com/gag/a5XeNDO)
+ - 🚯 [Hustler University be like.](http://9gag.com/gag/awZ0bLr)<!-- MEMES:END -->
 
 --- 
 
