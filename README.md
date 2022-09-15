@@ -149,9 +149,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPhone Upgrade Program vs. carrier installment plans](https://appleinsider.com/articles/22/09/15/compared-iphone-upgrade-program-vs-carrier-installment-plans?utm_medium=rss)
- - [Amazon will roll out Customers Ask Alexa, which lets brands answer some common customer questions and provide links to their storefronts, starting in late 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p32#a220915p32)
- - [October 2nd is Overwatch’s last day on earth](https://www.theverge.com/2022/9/15/23354913/overwatch-one-1-last-day-october-2nd)<!-- TECH:END -->
+ - [Netflix’s latest Stephen King trailer focuses on Mr. Harrigan’s iPhone](https://www.theverge.com/2022/9/15/23355208/netflix-mr-harrigans-phone-trailer-iphone-horror)
+ - [Some YouTube viewers say ads on the platform have been expanding greatly in length and quantity recently, with reports of five to 10 unskippable ads per break &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220915/p33#a220915p33)
+ - [Amazon is making a Blade Runner TV show](https://www.theverge.com/2022/9/15/23355197/blade-runner-tv-show-series-2099-amazon-prime-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
