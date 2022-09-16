@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can play Half-Life 2 in VR thanks to this free mod](https://www.theverge.com/2022/9/16/23356359/half-life-2-vr-mod-free-steam-quest-valve-index-oculus-rift-download)
- - [Vectra: Microsoft Teams stores authentication tokens in unencrypted plaintext mode; Microsoft has no plans for a fix, since an exploit requires network access &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220916/p17#a220916p17)
- - [YouTube is turning on the money hose for Shorts — and taking on TikTok for real](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)<!-- TECH:END -->
+ - [Intel Processor will replace Pentium and Celeron in 2023 laptops](https://www.theverge.com/2022/9/16/23356495/intel-processor-pentium-celeron-brand-2023-notebook-laptops)
+ - [Vergecast: reviews of the iPhone 14 Pro, Apple Watch Series 8, and more](https://www.theverge.com/2022/9/16/23356475/apple-iphone-14-pro-max-apple-watch-series-8-review-vergecast-podcast)
+ - [How to add Apple Home widgets to your lock screen in iOS 16](https://www.theverge.com/23356385/apple-home-homekit-widget-ios16-lock-screen-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
