@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can not make this shit up!](http://9gag.com/gag/ap9EQOn)
- - 🚯 [This is one of impressive graduation photoshoot.](http://9gag.com/gag/armvGp0)
+ - 🚖 [Outstanding move....](http://9gag.com/gag/ago3ndn)
+ - 🚯 [Ok...](http://9gag.com/gag/aBdRgKP)
  - 🚯 [A truck driver\u2019s bedtime routine.](http://9gag.com/gag/aqe97EY)<!-- MEMES:END -->
 
 --- 
