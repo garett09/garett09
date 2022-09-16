@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo to staff: Adam Mosseri says its surveys of creators show Instagram lags behind TikTok and YouTube on the most important creator satisfaction dimensions &lpar;The Information&rpar;](http://www.techmeme.com/220915/p38#a220915p38)
- - [Thursday Night Football: How to Watch, Stream Chargers vs. Chiefs Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-chargers-vs-chiefs-tonight-amazon-prime-video-on-without-cable/#ftag=CAD590a51e)
- - [California Governor Signs Kids Online Safety Act Into Law     - CNET](https://www.cnet.com/news/politics/california-governor-signs-kids-online-safety-act-into-law/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Winn.AI, maker of an AI assistant to help sales teams track, capture, and update CRM entries, comes out of stealth with a $17M seed led by Insight and S-Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p41#a220915p41)
+ - [FTC Takes Aim At Companies Deceiving and Exploiting Gig Workers     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-aim-at-companies-deceiving-and-exploiting-gig-workers/#ftag=CAD590a51e)
+ - [Speaking hours after Ethereum&#39;s Merge update, SEC Chair Gary Gensler says cryptocurrencies that let holders stake coins may be subject to US securities laws &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220915/p40#a220915p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
