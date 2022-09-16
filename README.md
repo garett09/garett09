@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jim Carrey trolling Matthew McConaughey Lincoln ad.](http://9gag.com/gag/adP0q59)
- - 🚯 [HolUp](http://9gag.com/gag/ap9Eprn)
- - 🚯 [Good boy..](http://9gag.com/gag/aeQjY95)<!-- MEMES:END -->
+ - 🚖 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
+ - 🚯 [It be Like that](http://9gag.com/gag/aREwmK5)
+ - 🚯 [HolUp](http://9gag.com/gag/ap9Eprn)<!-- MEMES:END -->
 
 --- 
 
