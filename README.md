@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A truck driver\u2019s bedtime routine.](http://9gag.com/gag/aqe97EY)
- - 🚯 [YouTube is unwatchable without adblock](http://9gag.com/gag/a1PvQmv)
- - 🚯 [Never let them know your next move](http://9gag.com/gag/aoKEeOn)<!-- MEMES:END -->
+ - 🚖 [You can not make this shit up!](http://9gag.com/gag/ap9EQOn)
+ - 🚯 [This is one of impressive graduation photoshoot.](http://9gag.com/gag/armvGp0)
+ - 🚯 [A truck driver\u2019s bedtime routine.](http://9gag.com/gag/aqe97EY)<!-- MEMES:END -->
 
 --- 
 
