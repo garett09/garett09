@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel Processor will replace Pentium and Celeron in 2023 laptops](https://www.theverge.com/2022/9/16/23356495/intel-processor-pentium-celeron-brand-2023-notebook-laptops)
- - [Vergecast: reviews of the iPhone 14 Pro, Apple Watch Series 8, and more](https://www.theverge.com/2022/9/16/23356475/apple-iphone-14-pro-max-apple-watch-series-8-review-vergecast-podcast)
- - [How to add Apple Home widgets to your lock screen in iOS 16](https://www.theverge.com/23356385/apple-home-homekit-widget-ios16-lock-screen-how-to)<!-- TECH:END -->
+ - [The best GaN chargers for recharging your iPhone, iPad &amp; Mac](https://appleinsider.com/inside/iphone/best/the-best-gan-chargers-for-recharging-your-iphone-ipad-mac?utm_medium=rss)
+ - [iOS update fixes annoying iPhone 14 activation bug](https://www.theverge.com/2022/9/16/23356348/apple-ios-16-update-iphone-14-pro-activation-bug)
+ - [Parler pivots to ‘uncancelable’ cloud services](https://www.theverge.com/2022/9/16/23356605/trump-parler-gettr-cloud-services-conservative-social-media-rumble-truth-social)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
