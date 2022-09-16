@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
- - 🚯 [It be Like that](http://9gag.com/gag/aREwmK5)
- - 🚯 [HolUp](http://9gag.com/gag/ap9Eprn)<!-- MEMES:END -->
+ - 🚖 [HolUp](http://9gag.com/gag/ap9Eprn)
+ - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)
+ - 🚯 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)<!-- MEMES:END -->
 
 --- 
 
