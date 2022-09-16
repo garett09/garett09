@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play a farting fox-headed rentier in this reverse-Kerbal](https://www.pcgamer.com/play-a-farting-fox-headed-rentier-in-this-reverse-kerbal)
- - [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge)
- - [Netflix’s Do Revenge is the caustic Mean Girls successor we all needed](https://www.polygon.com/reviews/23354904/do-revenge-review-netflix)<!-- GAME:END -->
+ - [See How They Run turns the world’s most famous whodunit into a big meta gag](https://www.polygon.com/reviews/23353188/see-how-they-run-review)
+ - [After decades of waiting, Suikoden 1 and 2 remasters are finally here](https://www.pcgamer.com/after-decades-of-waiting-suikoden-1-and-2-remasters-are-finally-here)
+ - [Play a farting fox-headed rentier in this reverse-Kerbal](https://www.pcgamer.com/play-a-farting-fox-headed-rentier-in-this-reverse-kerbal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
