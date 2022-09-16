@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The decade’s best horror film is back — in the worst form](https://www.polygon.com/reviews/23355340/goodnight-mommy-review-worst-horror-2022)
- - [The Half-Life 2 VR Mod is out on Steam, so you can finally, literally, pick up that can](https://www.pcgamer.com/the-half-life-2-vr-mod-is-out-on-steam-so-you-can-finally-literally-pick-up-that-can)
- - [Destiny 2 Xur location and items, Sept. 16-20](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/16/23356885/destiny-2-xur-location-and-items-sept-16-20)<!-- GAME:END -->
+ - [This Week on Xbox: Tokyo Game Show, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/16/this-week-on-xbox-tokyo-game-show-upcoming-releases-and-updates/)
+ - [Xbox Boss Commits To Current Console Prices, And Buying More Studios](https://kotaku.com/xbox-series-x-s-ps5-price-activision-phil-spencer-1849547031)
+ - [Drifting Home doubles down on Penguin Highway’s fantasy and friction](https://www.polygon.com/23355572/drifting-home-review-penguin-highway-director)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
