@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
- - 🚯 [They should make a Nefflix show and call it `Steve - The Mythical outcast`](http://9gag.com/gag/abvXrp9)
- - 🚯 [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)<!-- MEMES:END -->
+ - 🚯 [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)
+ - 🚯 [Downatello...](http://9gag.com/gag/a6qmOLL)<!-- MEMES:END -->
 
 --- 
 
