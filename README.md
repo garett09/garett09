@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Learn Bad Coding Habits In This Beautiful Game About A Struggling Developer](https://kotaku.com/steam-pc-one-dreamer-indie-game-coding-puzzle-1849544703)
- - [13 Games To Get You Hyped For Tears Of The Kingdom](https://kotaku.com/13-games-to-check-out-if-you-like-breath-of-the-wild-1848283621)
- - [Genshin Impact Version 3.1: A journey through the desert](https://blog.playstation.com/2022/09/16/genshin-impact-version-3-1-a-journey-through-the-desert/)<!-- GAME:END -->
+ - [Amazon greenlights Blade Runner TV series helmed by former Halo show writer and producer](https://www.pcgamer.com/amazon-greenlights-blade-runner-tv-series-helmed-by-former-halo-show-writer-and-producer)
+ - [Call of Duty: Next Announces Major Intel for Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0](https://news.xbox.com/en-us/2022/09/16/call-of-duty-next-recap/)
+ - [Omega Strikers is a rare competitive game that doesn’t make you feel bad](https://www.polygon.com/23355723/omega-strikers-preview-odyssey-interactive-characters-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
