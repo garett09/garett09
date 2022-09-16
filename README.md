@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon actually pulled off its first big-deal football game](https://www.theverge.com/2022/9/16/23356031/amazon-thursday-night-football-nfl-streaming)
- - [Tim Cook visits Fifth Avenue Store for launch of iPhone 14](https://appleinsider.com/articles/22/09/16/tim-cook-visits-fifth-avenue-store-for-launch-of-iphone-14?utm_medium=rss)
- - [Apple Stores start selling new iPhone 14, Apple Watch SE, and more](https://appleinsider.com/articles/22/09/16/apple-stores-start-selling-new-iphone-14-apple-watch-se-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube is turning on the money hose for Shorts — and taking on TikTok for real](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)
+ - [iPhone 14 reactions, best iOS 16 features, and how to benefit from Focus Filters](https://appleinsider.com/articles/22/09/16/iphone-14-reactions-best-ios-16-features-and-how-to-benefit-from-focus-filters?utm_medium=rss)
+ - [How to move your data to a new iPhone 14](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
