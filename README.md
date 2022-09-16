@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People in Germany can at last buy Wolfenstein 3D](https://www.pcgamer.com/people-in-germany-can-at-last-buy-wolfenstein-3d)
- - [Try out Team Ninja’s latest masocore thriller with the Wo Long: Fallen Dynasty PS5 demo, out today](https://blog.playstation.com/2022/09/16/try-out-team-ninjas-latest-masocore-thriller-with-the-wo-long-fallen-dynasty-ps5-demo-out-today/)
- - [I want to keep playing Disney Dreamlight Valley, despite the major hurdles](https://www.polygon.com/23354903/disney-dreamlight-valley-xbox-impressions-animal-crossing-new-horizons)<!-- GAME:END -->
+ - [Everything The Rings of Power revisits from the Lord of the Rings trilogy &lpar;so far&rpar;](https://www.polygon.com/23332776/lord-rings-power-similarities)
+ - [Playing PC games almost anywhere using 5G](https://www.pcgamer.com/game-streaming-over-5g)
+ - [Genshin Impact’s 3.1 patch brings back Scaramouche, and he’s in trouble](https://www.polygon.com/23354863/genshin-impact-patch-sumeru-cyno-candace-scaramouche-dottore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
