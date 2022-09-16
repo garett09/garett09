@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is turning on the money hose for Shorts — and taking on TikTok for real](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)
- - [iPhone 14 reactions, best iOS 16 features, and how to benefit from Focus Filters](https://appleinsider.com/articles/22/09/16/iphone-14-reactions-best-ios-16-features-and-how-to-benefit-from-focus-filters?utm_medium=rss)
- - [How to move your data to a new iPhone 14](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [You can play Half-Life 2 in VR thanks to this free mod](https://www.theverge.com/2022/9/16/23356359/half-life-2-vr-mod-free-steam-quest-valve-index-oculus-rift-download)
+ - [Vectra: Microsoft Teams stores authentication tokens in unencrypted plaintext mode; Microsoft has no plans for a fix, since an exploit requires network access &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220916/p17#a220916p17)
+ - [YouTube is turning on the money hose for Shorts — and taking on TikTok for real](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
