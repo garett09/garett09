@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Winn.AI, maker of an AI assistant to help sales teams track, capture, and update CRM entries, comes out of stealth with a $17M seed led by Insight and S-Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p41#a220915p41)
- - [FTC Takes Aim At Companies Deceiving and Exploiting Gig Workers     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-aim-at-companies-deceiving-and-exploiting-gig-workers/#ftag=CAD590a51e)
- - [Speaking hours after Ethereum&#39;s Merge update, SEC Chair Gary Gensler says cryptocurrencies that let holders stake coins may be subject to US securities laws &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220915/p40#a220915p40)<!-- TECH:END -->
+ - [Tech Companies Ramp Up Efforts to Combat Online Extremism     - CNET](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CAD590a51e)
+ - [COO Vanessa Pappas told senators that TikTok is working on a final deal with CFIUS that satisfies all US national security concerns, but didn&#39;t give a timeline &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220915/p43#a220915p43)
+ - [The Prime Video Sci-Fi Show Everyone Should Watch     - CNET](https://www.cnet.com/culture/entertainment/the-prime-video-sci-fi-show-everyone-should-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
