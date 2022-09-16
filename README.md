@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This stealth game challenges you to do murders, then vacuum up the mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)
- - [Sunday Gold Review](https://www.pcgamer.com/sunday-gold-review)
- - [The Biggest News From The Call Of Duty Next Showcase](https://kotaku.com/call-of-duty-warzone-2-modern-warfare-beta-infinity-cod-1849542633)<!-- GAME:END -->
+ - [The Yakuza Name Is Officially Dead](https://kotaku.com/yakuza-like-a-dragon-sega-brand-name-marketing-1849543173)
+ - [Halo: The Master Chief Collection microtransaction plans ditched](https://www.pcgamer.com/halo-the-master-chief-collection-microtransaction-plans-ditched)
+ - [iOS 16 Update Has Broken A Bunch Of Rhythm Games](https://kotaku.com/ios16-apple-iphone-rhythm-game-update-arcaea-1849542972)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
