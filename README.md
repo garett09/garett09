@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Banning Gas Cars Is Good, but It’ll Take More to Save the Planet](https://www.wired.com/story/banning-gas-cars-is-good-but-itll-take-more-to-save-the-planet/)
- - [How a ‘Living Drug’ Could Treat Autoimmune Disease](https://www.wired.com/story/how-a-living-drug-could-treat-autoimmune-disease/)
- - [Death Cab for Cutie&#39;s Geotagged Single Is a Trip Down Memory Lane](https://www.wired.com/story/death-cab-for-cutie-geotagged-song-rand-mcnally/)<!-- TECH:END -->
+ - [Amazon actually pulled off its first big-deal football game](https://www.theverge.com/2022/9/16/23356031/amazon-thursday-night-football-nfl-streaming)
+ - [Tim Cook visits Fifth Avenue Store for launch of iPhone 14](https://appleinsider.com/articles/22/09/16/tim-cook-visits-fifth-avenue-store-for-launch-of-iphone-14?utm_medium=rss)
+ - [Apple Stores start selling new iPhone 14, Apple Watch SE, and more](https://appleinsider.com/articles/22/09/16/apple-stores-start-selling-new-iphone-14-apple-watch-se-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
