@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Outstanding move....](http://9gag.com/gag/ago3ndn)
- - 🚯 [Ok...](http://9gag.com/gag/aBdRgKP)
- - 🚯 [A truck driver\u2019s bedtime routine.](http://9gag.com/gag/aqe97EY)<!-- MEMES:END -->
+ - 🚖 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
+ - 🚯 [They should make a Nefflix show and call it `Steve - The Mythical outcast`](http://9gag.com/gag/abvXrp9)
+ - 🚯 [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)<!-- MEMES:END -->
 
 --- 
 
