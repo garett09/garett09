@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to stay awake in class](http://9gag.com/gag/aYVNxdV)
- - 🚯 [The good old days](http://9gag.com/gag/ago3Ld1)
- - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)<!-- MEMES:END -->
+ - 🚖 [The good old days](http://9gag.com/gag/ago3Ld1)
+ - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)
+ - 🚯 [The moment of realisation](http://9gag.com/gag/a7qLrYb)<!-- MEMES:END -->
 
 --- 
 
