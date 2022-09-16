@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parler restructures as Parlement Technologies after a raising $16M Series B, buys the private cloud company Dynascale to provide &quot;uncancelable&quot; cloud services &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220916/p19#a220916p19)
- - [How to set different backgrounds for each Focus Mode in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-set-different-backgrounds-for-each-focus-mode-in-ios-16?utm_medium=rss)
- - [Garden Tails: Match and Grow Is My New Favorite Apple Arcade Game     - CNET](https://www.cnet.com/tech/gaming/garden-tails-match-and-grow-is-my-new-favorite-apple-arcade-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber says there is no evidence that sensitive user info, like trip histories, was accessed during the breach, and all of its products are currently operational &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220916/p20#a220916p20)
+ - [It sure seems like Google is struggling to invent the future](https://www.theverge.com/2022/9/16/23355376/google-experimentation-pixelbook-area-120-pixel)
+ - [Uber says ‘no evidence’ user accounts were compromised in hack](https://www.theverge.com/2022/9/16/23356880/uber-hack-no-evidence-personal-information-breach)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
