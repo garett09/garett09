@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says there is no evidence that sensitive user info, like trip histories, was accessed during the breach, and all of its products are currently operational &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220916/p20#a220916p20)
- - [It sure seems like Google is struggling to invent the future](https://www.theverge.com/2022/9/16/23355376/google-experimentation-pixelbook-area-120-pixel)
- - [Uber says ‘no evidence’ user accounts were compromised in hack](https://www.theverge.com/2022/9/16/23356880/uber-hack-no-evidence-personal-information-breach)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [&#39;Breakup mode&#39; - How to make Photos feature people less often](https://appleinsider.com/inside/ios-16/tips/breakup-mode---how-to-make-photos-feature-people-less-often?utm_medium=rss)
+ - [Scientists Warn NASA&#39;s Webb Space Telescope Data Could Be Misinterpreted     - CNET](https://www.cnet.com/science/space/scientists-warn-nasas-webb-space-telescope-data-could-be-misinterpreted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
