@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Uber hacker, who reportedly claims to be 18 years old, says they had breached the company for fun and might leak its source code &quot;in a few months&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/220916/p10#a220916p10)
- - [Security engineer says Uber hacker had access to its HackerOne bug bounty program; source: the hacker downloaded all vulnerability reports before losing access &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220916/p9#a220916p9)
- - [Investor memo: ByteDance will spend up to $3B to repurchase shares in the next two to three months, in a deal that values the company at around $300B &lpar;Reuters&rpar;](http://www.techmeme.com/220916/p8#a220916p8)<!-- TECH:END -->
+ - [Update to iOS 16.0.1 on your new iPhone 14 before you do anything else](https://appleinsider.com/articles/22/09/16/update-to-ios-1601-on-your-new-iphone-14-before-you-do-anything-else?utm_medium=rss)
+ - [You told us: Sleeping with a phone in bed is more common than you think](https://www.androidauthority.com/sleep-phone-bed-poll-results-3209624/)
+ - [The Uber hacker, who reportedly claims to be 18 years old, says they had breached the company for fun and might leak its source code &quot;in a few months&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/220916/p10#a220916p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
