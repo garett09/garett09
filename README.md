@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s loaded MacBook Air &lpar;M2, 24GB RAM, 1TB SSD&rpar; now $100 off, plus $40 off AppleCare](https://appleinsider.com/articles/22/09/16/apples-loaded-macbook-air-m2-24gb-ram-1tb-ssd-now-100-off-plus-40-off-applecare?utm_medium=rss)
- - [Apple is too strict with copy and paste in iOS 16](https://www.theverge.com/2022/9/16/23357198/apple-ios-16-iphone-copy-paste-permission)
- - [The Uber Hack’s Devastation Is Just Starting to Reveal Itself](https://www.wired.com/story/uber-hack-mfa-phishing/)<!-- TECH:END -->
+ - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)
+ - [EVGA stops making video cards, citing conflicts with Nvidia and ending a partnership started in 1999; Nvidia&#39;s GeForce reportedly makes up 80% of EVGA&#39;s revenue &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/220916/p25#a220916p25)
+ - [Google Adds Hotel Sustainability Info to Search Results     - CNET](https://www.cnet.com/tech/services-and-software/google-adds-hotel-sustainability-info-to-search-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
