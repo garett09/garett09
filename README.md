@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)
- - 🚯 [Hey, wanna hear a Joke? &lpar;u probably heard 1000x&rpar; but still FUNNY](http://9gag.com/gag/a7qL352)
- - 🚯 [Excuses are good for hand pain](http://9gag.com/gag/axod1vp)<!-- MEMES:END -->
+ - 🚖 [A truck driver\u2019s bedtime routine.](http://9gag.com/gag/aqe97EY)
+ - 🚯 [YouTube is unwatchable without adblock](http://9gag.com/gag/a1PvQmv)
+ - 🚯 [Never let them know your next move](http://9gag.com/gag/aoKEeOn)<!-- MEMES:END -->
 
 --- 
 
