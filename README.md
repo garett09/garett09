@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The moment of realisation](http://9gag.com/gag/a7qLrYb)
- - 🚯 [Kid barely makes it home to escape bully](http://9gag.com/gag/awZ0Qe8)
- - 🚯 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)<!-- MEMES:END -->
+ - 🚖 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)
+ - 🚯 [Parents can abandon their children but the child cannot abandon their parents... that&#39;s so china logic!! Source: SCMP](http://9gag.com/gag/a2KzrVY)
+ - 🚯 [HERETICS!](http://9gag.com/gag/aNwrzQb)<!-- MEMES:END -->
 
 --- 
 
