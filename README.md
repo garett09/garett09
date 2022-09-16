@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HolUp](http://9gag.com/gag/ap9Eprn)
- - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)
- - 🚯 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)<!-- MEMES:END -->
+ - 🚖 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
+ - 🚯 [Now that&#39;s a crossover](http://9gag.com/gag/aQEPMBq)
+ - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)<!-- MEMES:END -->
 
 --- 
 
