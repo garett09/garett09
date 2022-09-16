@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [&#39;Breakup mode&#39; - How to make Photos feature people less often](https://appleinsider.com/inside/ios-16/tips/breakup-mode---how-to-make-photos-feature-people-less-often?utm_medium=rss)
- - [Scientists Warn NASA&#39;s Webb Space Telescope Data Could Be Misinterpreted     - CNET](https://www.cnet.com/science/space/scientists-warn-nasas-webb-space-telescope-data-could-be-misinterpreted/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: due to an accounting bug, Binance erroneously disbursed ~4.8M of Helium&#39;s HNT tokens, worth ~$19M, to some of its users, many of whom quickly sold them &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220916/p21#a220916p21)
+ - [Tim Cook says ‘buy your mom an iPhone’ if you want to end green bubbles](https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility)
+ - [Uber’s hack shows the stubborn power of social engineering](https://www.theverge.com/2022/9/16/23356959/uber-hack-social-engineering-threats)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
