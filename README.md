@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Action Adventure Game Blind Fate: Edo no Yami is Available on Xbox](https://news.xbox.com/en-us/2022/09/16/the-action-adventure-game-blind-fate-edo-no-yami-is-already-available-on-xbox/)
- - [The men of The Lord of the Rings: The Rings of Power hate elves for all the wrong reasons](https://www.polygon.com/23353644/lord-rings-power-numenor-men-vs-elves)
- - [A 10-Year Wait: The Excitement of the Superbike World Championship Returns with SBK22](https://news.xbox.com/en-us/2022/09/16/a-10-year-wait-the-excitement-of-the-superbike-world-championship-returns-with-sbk22/)<!-- GAME:END -->
+ - [This builder snuck a whole-ass gaming PC inside an Xbox 360](https://www.pcgamer.com/this-builder-snuck-a-whole-ass-gaming-pc-inside-an-xbox-360)
+ - [Hit the Pitch in FIFA 23 Early with EA Play](https://news.xbox.com/en-us/2022/09/16/hit-the-pitch-in-fifa-23-early-with-ea-play/)
+ - [The Action Adventure Game Blind Fate: Edo no Yami is Available on Xbox](https://news.xbox.com/en-us/2022/09/16/the-action-adventure-game-blind-fate-edo-no-yami-is-already-available-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
