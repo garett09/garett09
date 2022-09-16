@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)
- - 🚯 [Parents can abandon their children but the child cannot abandon their parents... that&#39;s so china logic!! Source: SCMP](http://9gag.com/gag/a2KzrVY)
- - 🚯 [HERETICS!](http://9gag.com/gag/aNwrzQb)<!-- MEMES:END -->
+ - 🚖 [HERETICS!](http://9gag.com/gag/aNwrzQb)
+ - 🚯 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)
+ - 🚯 [Today I finished a 637 km 25 days journey walking from Lisbon to Santiago de Compostela](http://9gag.com/gag/aEqvx7e)<!-- MEMES:END -->
 
 --- 
 
