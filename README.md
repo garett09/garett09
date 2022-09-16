@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget.](http://9gag.com/gag/a048jDQ)
- - 🚯 [True.](http://9gag.com/gag/a9qbW50)
- - 🚯 [My plans for the weekend](http://9gag.com/gag/az2gAzN)<!-- MEMES:END -->
+ - 🚖 [Jim Carrey trolling Matthew McConaughey Lincoln ad.](http://9gag.com/gag/adP0q59)
+ - 🚯 [HolUp](http://9gag.com/gag/ap9Eprn)
+ - 🚯 [Good boy..](http://9gag.com/gag/aeQjY95)<!-- MEMES:END -->
 
 --- 
 
