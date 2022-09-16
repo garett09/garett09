@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything The Rings of Power revisits from the Lord of the Rings trilogy &lpar;so far&rpar;](https://www.polygon.com/23332776/lord-rings-power-similarities)
- - [Playing PC games almost anywhere using 5G](https://www.pcgamer.com/game-streaming-over-5g)
- - [Genshin Impact’s 3.1 patch brings back Scaramouche, and he’s in trouble](https://www.polygon.com/23354863/genshin-impact-patch-sumeru-cyno-candace-scaramouche-dottore)<!-- GAME:END -->
+ - [Learn Bad Coding Habits In This Beautiful Game About A Struggling Developer](https://kotaku.com/steam-pc-one-dreamer-indie-game-coding-puzzle-1849544703)
+ - [13 Games To Get You Hyped For Tears Of The Kingdom](https://kotaku.com/13-games-to-check-out-if-you-like-breath-of-the-wild-1848283621)
+ - [Genshin Impact Version 3.1: A journey through the desert](https://blog.playstation.com/2022/09/16/genshin-impact-version-3-1-a-journey-through-the-desert/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
