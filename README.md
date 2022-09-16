@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
- - 🚯 [Now that&#39;s a crossover](http://9gag.com/gag/aQEPMBq)
+ - 🚖 [Trying to stay awake in class](http://9gag.com/gag/aYVNxdV)
+ - 🚯 [The good old days](http://9gag.com/gag/ago3Ld1)
  - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)<!-- MEMES:END -->
 
 --- 
