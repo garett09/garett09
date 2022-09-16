@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon greenlights Blade Runner TV series helmed by former Halo show writer and producer](https://www.pcgamer.com/amazon-greenlights-blade-runner-tv-series-helmed-by-former-halo-show-writer-and-producer)
- - [Call of Duty: Next Announces Major Intel for Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0](https://news.xbox.com/en-us/2022/09/16/call-of-duty-next-recap/)
- - [Omega Strikers is a rare competitive game that doesn’t make you feel bad](https://www.polygon.com/23355723/omega-strikers-preview-odyssey-interactive-characters-gameplay)<!-- GAME:END -->
+ - [Genshin Impact is getting a virtual trading card game](https://www.polygon.com/23356455/genshin-impact-trading-card-game-tcg-hoyoverse-mihoyo)
+ - [Tokyo Game Show 2022: 505 Games Digital Showcase Recap](https://news.xbox.com/en-us/2022/09/16/tokyo-game-show-2022-505-games-digital-showcase-recap/)
+ - [Share of the Week: The Last of Us Part I – Portraits](https://blog.playstation.com/2022/09/16/share-of-the-week-the-last-of-us-part-i-portraits/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
