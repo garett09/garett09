@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Observe the Moon-Gazing Event in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/09/16/observe-the-moon-gazing-event-in-phantasy-star-online-2-new-genesis/)
- - [This Week on Xbox: Tokyo Game Show, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/16/this-week-on-xbox-tokyo-game-show-upcoming-releases-and-updates/)
- - [Xbox Boss Commits To Current Console Prices, And Buying More Studios](https://kotaku.com/xbox-series-x-s-ps5-price-activision-phil-spencer-1849547031)<!-- GAME:END -->
+ - [EVGA, Popular Graphics Card Maker, Parts Ways With Nvidia In Messy Breakup](https://kotaku.com/evga-pc-gaming-nvidia-gpu-rtx-40-series-3080-3090-4090-1849547758)
+ - [Nintendo clears up confusion over Zelda: Tears of the Kingdom’s name](https://www.polygon.com/23356998/zelda-tears-of-the-kingdom-nintendo-name-breath-of-the-wild-sequel)
+ - [EVGA is reportedly so sick of working with Nvidia that it&#39;s going to stop making graphics cards altogether](https://www.pcgamer.com/evga-ends-nvidia-video-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
