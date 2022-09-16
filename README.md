@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This builder snuck a whole-ass gaming PC inside an Xbox 360](https://www.pcgamer.com/this-builder-snuck-a-whole-ass-gaming-pc-inside-an-xbox-360)
- - [Hit the Pitch in FIFA 23 Early with EA Play](https://news.xbox.com/en-us/2022/09/16/hit-the-pitch-in-fifa-23-early-with-ea-play/)
- - [The Action Adventure Game Blind Fate: Edo no Yami is Available on Xbox](https://news.xbox.com/en-us/2022/09/16/the-action-adventure-game-blind-fate-edo-no-yami-is-already-available-on-xbox/)<!-- GAME:END -->
+ - [The decade’s best horror film is back — in the worst form](https://www.polygon.com/reviews/23355340/goodnight-mommy-review-worst-horror-2022)
+ - [The Half-Life 2 VR Mod is out on Steam, so you can finally, literally, pick up that can](https://www.pcgamer.com/the-half-life-2-vr-mod-is-out-on-steam-so-you-can-finally-literally-pick-up-that-can)
+ - [Destiny 2 Xur location and items, Sept. 16-20](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/16/23356885/destiny-2-xur-location-and-items-sept-16-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
