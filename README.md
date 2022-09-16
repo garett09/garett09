@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HERETICS!](http://9gag.com/gag/aNwrzQb)
- - 🚯 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)
- - 🚯 [Today I finished a 637 km 25 days journey walking from Lisbon to Santiago de Compostela](http://9gag.com/gag/aEqvx7e)<!-- MEMES:END -->
+ - 🚖 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)
+ - 🚯 [Hey, wanna hear a Joke? &lpar;u probably heard 1000x&rpar; but still FUNNY](http://9gag.com/gag/a7qL352)
+ - 🚯 [Excuses are good for hand pain](http://9gag.com/gag/axod1vp)<!-- MEMES:END -->
 
 --- 
 
