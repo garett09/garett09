@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In China, the skyscraper of the largest telecom operator China Telecom in Changsha is on fire.](http://9gag.com/gag/awZ0Q4y)
- - 🚯 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)
+ - 🚖 [Boss makes a surprise to his employee for a great job](http://9gag.com/gag/amAN2Eo)
+ - 🚯 [When you go to restaurant in china and accidentally see their kitchen](http://9gag.com/gag/a1PvK4P)
  - 🚯 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)<!-- MEMES:END -->
 
 --- 
