@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update to iOS 16.0.1 on your new iPhone 14 before you do anything else](https://appleinsider.com/articles/22/09/16/update-to-ios-1601-on-your-new-iphone-14-before-you-do-anything-else?utm_medium=rss)
- - [You told us: Sleeping with a phone in bed is more common than you think](https://www.androidauthority.com/sleep-phone-bed-poll-results-3209624/)
- - [The Uber hacker, who reportedly claims to be 18 years old, says they had breached the company for fun and might leak its source code &quot;in a few months&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/220916/p10#a220916p10)<!-- TECH:END -->
+ - [Banning Gas Cars Is Good, but It’ll Take More to Save the Planet](https://www.wired.com/story/banning-gas-cars-is-good-but-itll-take-more-to-save-the-planet/)
+ - [How a ‘Living Drug’ Could Treat Autoimmune Disease](https://www.wired.com/story/how-a-living-drug-could-treat-autoimmune-disease/)
+ - [Death Cab for Cutie&#39;s Geotagged Single Is a Trip Down Memory Lane](https://www.wired.com/story/death-cab-for-cutie-geotagged-song-rand-mcnally/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
