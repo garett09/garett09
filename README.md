@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boss makes a surprise to his employee for a great job](http://9gag.com/gag/amAN2Eo)
- - 🚯 [When you go to restaurant in china and accidentally see their kitchen](http://9gag.com/gag/a1PvK4P)
- - 🚯 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)<!-- MEMES:END -->
+ - 🚖 [The moment of realisation](http://9gag.com/gag/a7qLrYb)
+ - 🚯 [Kid barely makes it home to escape bully](http://9gag.com/gag/awZ0Qe8)
+ - 🚯 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)<!-- MEMES:END -->
 
 --- 
 
