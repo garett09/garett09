@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/23349095/new-movies-watch-netflix-do-revenge-three-thousand-years-longing-vengeance-breaking)
  - [EVGA, Popular Graphics Card Maker, Parts Ways With Nvidia In Messy Breakup](https://kotaku.com/evga-pc-gaming-nvidia-gpu-rtx-40-series-3080-3090-4090-1849547758)
- - [Nintendo clears up confusion over Zelda: Tears of the Kingdom’s name](https://www.polygon.com/23356998/zelda-tears-of-the-kingdom-nintendo-name-breath-of-the-wild-sequel)
- - [EVGA is reportedly so sick of working with Nvidia that it&#39;s going to stop making graphics cards altogether](https://www.pcgamer.com/evga-ends-nvidia-video-card)<!-- GAME:END -->
+ - [Nintendo clears up confusion over Zelda: Tears of the Kingdom’s name](https://www.polygon.com/23356998/zelda-tears-of-the-kingdom-nintendo-name-breath-of-the-wild-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
