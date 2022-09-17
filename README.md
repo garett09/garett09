@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Great Deals on Garmins, Wireless Chargers, and Sleep Tech](https://www.wired.com/story/weekend-deals-september-17-2022/)
- - [How to See Instagram, Facebook, and Twitter Posts Chronologically](https://www.wired.com/story/how-to-see-instagram-facebook-twitter-chronological-order/)
- - [How to Design the Perfect Queue, According to Crowd Science](https://www.wired.com/story/queen-elizabeth-ii-queue/)<!-- TECH:END -->
+ - [The Colorado River Is Dying. Can Its Aquatic Dinosaurs Be Saved?](https://www.wired.com/story/the-colorado-river-is-dying-can-its-aquatic-dinosaurs-be-saved/)
+ - [The Haikubox Brings High-Tech Birding to the Masses](https://www.wired.com/review/haikubox-bird-song-recorder/)
+ - [The PS Vita’s time is now, again](https://www.theverge.com/2022/9/17/23355403/ps-vita-2022-wishlist-soliloquy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
