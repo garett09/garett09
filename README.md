@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)
- - 🚯 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
- - 🚯 [Yeah](http://9gag.com/gag/aeQjQPQ)<!-- MEMES:END -->
+ - 🚖 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
+ - 🚯 [Lego Land](http://9gag.com/gag/ap9EgPD)
+ - 🚯 [Offensive](http://9gag.com/gag/a5Xe1Ey)<!-- MEMES:END -->
 
 --- 
 
