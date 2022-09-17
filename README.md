@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fans make better movies than Hollywoke](http://9gag.com/gag/a6qmEw8)
- - 🚯 [It is the truth](http://9gag.com/gag/aGEYzjG)
- - 🚯 [Don&#39;t forget guys, there is no reverse racism.](http://9gag.com/gag/aPgw3OB)<!-- MEMES:END -->
+ - 🚖 [Landleben in Australia](http://9gag.com/gag/aGEYpmz)
+ - 🚯 [This scene from \u201cAfter life\u201d\u2026](http://9gag.com/gag/aOxKQ43)
+ - 🚯 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
 
 --- 
 
