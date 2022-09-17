@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soon may the kittyman come](http://9gag.com/gag/aBdRmB2)
- - 🚯 [Uhhh......](http://9gag.com/gag/aQEPdL7)
- - 🚯 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)<!-- MEMES:END -->
+ - 🚖 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
+ - 🚯 [I wont even be mad](http://9gag.com/gag/a0487pQ)
+ - 🚯 [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)<!-- MEMES:END -->
 
 --- 
 
