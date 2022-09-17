@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Upgrade to the iPhone 14? How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CAD590a51e)
- - [Some experts say targeted ads on streaming services could be crucial in the 2022 US midterms, as others worry the ads evade federal regulation and oversight &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220917/p5#a220917p5)
- - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Great Deals on Garmins, Wireless Chargers, and Sleep Tech](https://www.wired.com/story/weekend-deals-september-17-2022/)
+ - [How to See Instagram, Facebook, and Twitter Posts Chronologically](https://www.wired.com/story/how-to-see-instagram-facebook-twitter-chronological-order/)
+ - [How to Design the Perfect Queue, According to Crowd Science](https://www.wired.com/story/queen-elizabeth-ii-queue/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
