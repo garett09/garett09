@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flags in Maidan Square indicating nationalities of volunteers serving with the Ukrainian military. Is ur flag there?](http://9gag.com/gag/adP0BpN)
+ - 🚖 [When you at the stop light and a kid stops next to you blasting Sabaton in his car instead of mumble rap.](http://9gag.com/gag/aKEwGWj)
  - 🚯 [Women of Iran-Saghez removed their headscarves in protest against the murder of Mahsa Amini 22 Yr old woman by hijab police and chanting: death to dictator! Removing hijab is a punishable crime in Iran.](http://9gag.com/gag/armvypy)
- - 🚯 [This scene from \u201cAfter life\u201d\u2026](http://9gag.com/gag/aOxKQ43)<!-- MEMES:END -->
+ - 🚯 [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)<!-- MEMES:END -->
 
 --- 
 
