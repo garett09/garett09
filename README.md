@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Landleben in Australia](http://9gag.com/gag/aGEYpmz)
- - 🚯 [This scene from \u201cAfter life\u201d\u2026](http://9gag.com/gag/aOxKQ43)
- - 🚯 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
+ - 🚯 [Wahmen](http://9gag.com/gag/az2gMQx)
+ - 🚯 [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)<!-- MEMES:END -->
 
 --- 
 
