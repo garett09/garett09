@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
- - 🚯 [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)
- - 🚯 [Downatello...](http://9gag.com/gag/a6qmOLL)<!-- MEMES:END -->
+ - 🚖 [Downatello...](http://9gag.com/gag/a6qmOLL)
+ - 🚯 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
+ - 🚯 [Poor James May](http://9gag.com/gag/aKEwx8Q)<!-- MEMES:END -->
 
 --- 
 
