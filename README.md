@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Haven&#39;t been hugged in years.](http://9gag.com/gag/aME2K41)
- - 🚯 [I wont even be mad](http://9gag.com/gag/a0487pQ)
- - 🚯 [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)<!-- MEMES:END -->
+ - 🚖 [Fans make better movies than Hollywoke](http://9gag.com/gag/a6qmEw8)
+ - 🚯 [It is the truth](http://9gag.com/gag/aGEYzjG)
+ - 🚯 [Don&#39;t forget guys, there is no reverse racism.](http://9gag.com/gag/aPgw3OB)<!-- MEMES:END -->
 
 --- 
 
