@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Downatello...](http://9gag.com/gag/a6qmOLL)
- - 🚯 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
- - 🚯 [Poor James May](http://9gag.com/gag/aKEwx8Q)<!-- MEMES:END -->
+ - 🚖 [Whale Shark sucking fishes from a net... cheater](http://9gag.com/gag/armvVK6)
+ - 🚯 [How female comedian deals with hecklers vs How male comedian deals with hecklers](http://9gag.com/gag/a7qLWw2)
+ - 🚯 [How to ruffle a crowd](http://9gag.com/gag/aGEYZLz)<!-- MEMES:END -->
 
 --- 
 
