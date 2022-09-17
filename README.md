@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/23349095/new-movies-watch-netflix-do-revenge-three-thousand-years-longing-vengeance-breaking)
- - [EVGA, Popular Graphics Card Maker, Parts Ways With Nvidia In Messy Breakup](https://kotaku.com/evga-pc-gaming-nvidia-gpu-rtx-40-series-3080-3090-4090-1849547758)
- - [Nintendo clears up confusion over Zelda: Tears of the Kingdom’s name](https://www.polygon.com/23356998/zelda-tears-of-the-kingdom-nintendo-name-breath-of-the-wild-sequel)<!-- GAME:END -->
+ - [Microsoft considering buying more studios to stay competitive with Tencent and Sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)
+ - [Upcoming Yakuza spinoff says &#39;subs, not dubs&#39;](https://www.pcgamer.com/upcoming-yakuza-spinoff-says-subs-not-dubs)
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/23349095/new-movies-watch-netflix-do-revenge-three-thousand-years-longing-vengeance-breaking)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
