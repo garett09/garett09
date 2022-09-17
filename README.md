@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Whale Shark sucking fishes from a net... cheater](http://9gag.com/gag/armvVK6)
  - 🚯 [How female comedian deals with hecklers vs How male comedian deals with hecklers](http://9gag.com/gag/a7qLWw2)
- - 🚯 [How to ruffle a crowd](http://9gag.com/gag/aGEYZLz)<!-- MEMES:END -->
+ - 🚯 [Ok...](http://9gag.com/gag/aBdRgKP)<!-- MEMES:END -->
 
 --- 
 
