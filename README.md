@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uhhh......](http://9gag.com/gag/aQEPdL7)
- - 🚯 [Where\u2019s The Lie](http://9gag.com/gag/armvV55)
- - 🚯 [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)<!-- MEMES:END -->
+ - 🚖 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
+ - 🚯 [Uhhh......](http://9gag.com/gag/aQEPdL7)
+ - 🚯 [Soon may the kittyman come](http://9gag.com/gag/aBdRmB2)<!-- MEMES:END -->
 
 --- 
 
