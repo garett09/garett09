@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
+ - 🚖 [Soon may the kittyman come](http://9gag.com/gag/aBdRmB2)
  - 🚯 [Uhhh......](http://9gag.com/gag/aQEPdL7)
- - 🚯 [Soon may the kittyman come](http://9gag.com/gag/aBdRmB2)<!-- MEMES:END -->
+ - 🚯 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)<!-- MEMES:END -->
 
 --- 
 
