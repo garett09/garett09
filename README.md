@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
- - 🚯 [Lego Land](http://9gag.com/gag/ap9EgPD)
- - 🚯 [Offensive](http://9gag.com/gag/a5Xe1Ey)<!-- MEMES:END -->
+ - 🚖 [Flags in Maidan Square indicating nationalities of volunteers serving with the Ukrainian military. Is ur flag there?](http://9gag.com/gag/adP0BpN)
+ - 🚯 [Women of Iran-Saghez removed their headscarves in protest against the murder of Mahsa Amini 22 Yr old woman by hijab police and chanting: death to dictator! Removing hijab is a punishable crime in Iran.](http://9gag.com/gag/armvypy)
+ - 🚯 [This scene from \u201cAfter life\u201d\u2026](http://9gag.com/gag/aOxKQ43)<!-- MEMES:END -->
 
 --- 
 
