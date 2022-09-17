@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)
- - 🚯 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
- - 🚯 [Here comes the airplane](http://9gag.com/gag/ajVYgKG)<!-- MEMES:END -->
+ - 🚖 [Trains are widely popular in Japan, so much that they made a whole series about train Power Rangers, which is unfortunately still not adapted in the US](http://9gag.com/gag/a6qmqoq)
+ - 🚯 [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
+ - 🚯 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
 
 --- 
 
