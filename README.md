@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Spends $300 Million to Boost Service in Latest 5G Auction     - CNET](https://www.cnet.com/tech/mobile/t-mobile-spends-300-million-to-boost-service-in-latest-5g-auction/#ftag=CAD590a51e)
- - [U.S. antitrust officials ask to be heard in Epic vs. Apple appeal](https://appleinsider.com/articles/22/09/16/us-antitrust-officials-ask-to-be-heard-in-epic-vs-apple-appeal?utm_medium=rss)
- - [Filing: Starboard Value has built a 9% stake in Wix, which has been struggling with losses since Q4 2021 and has adopted a three-year cost-cutting program &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/220916/p26#a220916p26)<!-- TECH:END -->
+ - [An interview with AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li on deep learning&#39;s progress since 2012&#39;s groundbreaking ImageNet database research &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/220916/p27#a220916p27)
+ - [&#39;Andor&#39; Actors Reveal Their Star Wars Action Figure Dreams     - CNET](https://www.cnet.com/culture/entertainment/andor-actors-reveal-their-star-wars-action-figure-dreams/#ftag=CAD590a51e)
+ - [Splatoon 3 Amiibo Guide: Every Amiibo Gear Set and How to Unlock Them     - CNET](https://www.cnet.com/tech/gaming/splatoon-3-amiibo-guide-every-amiibo-gear-set-and-how-to-unlock-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
