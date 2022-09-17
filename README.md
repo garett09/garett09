@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)
- - [EVGA stops making video cards, citing conflicts with Nvidia and ending a partnership started in 1999; Nvidia&#39;s GeForce reportedly makes up 80% of EVGA&#39;s revenue &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/220916/p25#a220916p25)
- - [Google Adds Hotel Sustainability Info to Search Results     - CNET](https://www.cnet.com/tech/services-and-software/google-adds-hotel-sustainability-info-to-search-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile Spends $300 Million to Boost Service in Latest 5G Auction     - CNET](https://www.cnet.com/tech/mobile/t-mobile-spends-300-million-to-boost-service-in-latest-5g-auction/#ftag=CAD590a51e)
+ - [U.S. antitrust officials ask to be heard in Epic vs. Apple appeal](https://appleinsider.com/articles/22/09/16/us-antitrust-officials-ask-to-be-heard-in-epic-vs-apple-appeal?utm_medium=rss)
+ - [Filing: Starboard Value has built a 9% stake in Wix, which has been struggling with losses since Q4 2021 and has adopted a three-year cost-cutting program &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/220916/p26#a220916p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
