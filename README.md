@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trains are widely popular in Japan, so much that they made a whole series about train Power Rangers, which is unfortunately still not adapted in the US](http://9gag.com/gag/a6qmqoq)
- - 🚯 [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
- - 🚯 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
+ - 🚖 [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
+ - 🚯 [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)
+ - 🚯 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)<!-- MEMES:END -->
 
 --- 
 
