@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landleben in Australia](http://9gag.com/gag/aGEYpmz)
- - 🚯 [Wahmen](http://9gag.com/gag/az2gMQx)
- - 🚯 [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t normalize obesity...](http://9gag.com/gag/a3ZP15v)
+ - 🚯 [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)
+ - 🚯 [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)<!-- MEMES:END -->
 
 --- 
 
