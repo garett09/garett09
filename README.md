@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
+ - 🚖 [Haven&#39;t been hugged in years.](http://9gag.com/gag/aME2K41)
  - 🚯 [I wont even be mad](http://9gag.com/gag/a0487pQ)
- - 🚯 [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)<!-- MEMES:END -->
+ - 🚯 [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)<!-- MEMES:END -->
 
 --- 
 
