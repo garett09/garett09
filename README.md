@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
- - 🚯 [Good times](http://9gag.com/gag/aGEYnEz)
- - 🚯 [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)<!-- MEMES:END -->
+ - 🚖 [Big earthquakes today in Taiwan](http://9gag.com/gag/a9qbv16)
+ - 🚯 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)
+ - 🚯 [Dang](http://9gag.com/gag/a7qLeee)<!-- MEMES:END -->
 
 --- 
 
