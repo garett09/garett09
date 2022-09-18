@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite a talent shortage, startups in the Chinese chip sector are cutting back on hiring plans due to the deteriorating macro environment and a funding crunch &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/220918/p4#a220918p4)
- - [Fortnite’s new season adds Spider-Gwen and goopy chrome](https://www.theverge.com/2022/9/18/23357870/fortnite-chapter-3-season-4-paradise-battle-pass)
- - [The DHS has awarded a ~$700K grant to researchers to develop best practices and resources for monitoring and evaluating extremist activities in game communities &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/220918/p3#a220918p3)<!-- TECH:END -->
+ - [Crime blotter: Seven charged in $28 million iPhone theft ring](https://appleinsider.com/articles/22/09/18/crime-blotter-seven-charged-in-28-million-iphone-theft-ring?utm_medium=rss)
+ - [The Queen’s Funeral Sets Off the Biggest UK Police Operation Ever](https://www.wired.com/story/queen-elizabeth-ii-funeral-details-security/)
+ - [Asus’ First Foldable PC Is Here. But It’s Half-Baked](https://www.wired.com/review/asus-zenbook-17-fold-oled/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
