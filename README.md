@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Synology NAS drive is the missing link in your home security system](https://www.androidauthority.com/synology-surveillance-station-nas-home-security-3207686/)
- - [Buccaneers vs. Saints Live Stream: How to Watch NFL Week 2 From Anywhere in the US     - CNET](https://www.cnet.com/tech/services-and-software/buccaneers-vs-saints-live-stream-how-to-watch-nfl-week-2-from-anywhere-in-the-us/#ftag=CAD590a51e)
- - [HBO Max: The 28 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-28-best-movies-you-can-stream-in-september/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s Powerful Tab S8 Ultra Is Up to $300 Off Today Only at Best Buy     - CNET](https://www.cnet.com/deals/save-up-to-250-on-a-premium-samsung-tablet-today-only-at-best-buy/#ftag=CAD590a51e)
+ - [Deals: save 84% on Microsoft Office for Mac](https://appleinsider.com/articles/22/09/07/deals-save-84-on-microsoft-office-for-mac?utm_medium=rss)
+ - [The Dynamic Island might come to all iPhone 15 models](https://www.theverge.com/2022/9/18/23359479/apple-dynamic-island-base-iphone-15-ross-young-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
