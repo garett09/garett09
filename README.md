@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Synology NAS drive is the missing link in your home security system](https://www.androidauthority.com/synology-surveillance-station-nas-home-security-3207686/)
  - [Buccaneers vs. Saints Live Stream: How to Watch NFL Week 2 From Anywhere in the US     - CNET](https://www.cnet.com/tech/services-and-software/buccaneers-vs-saints-live-stream-how-to-watch-nfl-week-2-from-anywhere-in-the-us/#ftag=CAD590a51e)
- - [HBO Max: The 28 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-28-best-movies-you-can-stream-in-september/#ftag=CAD590a51e)
- - [Dynamic Island expected to replace notch on all iPhone 15 models](https://appleinsider.com/articles/22/09/18/dynamic-island-expected-to-replace-notch-on-all-iphone-15-models?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max: The 28 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-28-best-movies-you-can-stream-in-september/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
