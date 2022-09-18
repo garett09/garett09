@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids reaction](http://9gag.com/gag/amAN6w9)
- - 🚯 [EU is awake](http://9gag.com/gag/aVbzKoO)
- - 🚯 [This is what over 7 magnitude earthquake looks like in Taiwan&#39;s mountain](http://9gag.com/gag/abvXWbX)<!-- MEMES:END -->
+ - 🚖 [EU is awake](http://9gag.com/gag/aVbzKoO)
+ - 🚯 [Lmao](http://9gag.com/gag/aQEPAE7)
+ - 🚯 [Earthquake in ikea](http://9gag.com/gag/axod6PY)<!-- MEMES:END -->
 
 --- 
 
