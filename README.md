@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That look is priceless](http://9gag.com/gag/a4oKnBd)
- - 🚯 [Tell me other games that do this please](http://9gag.com/gag/aME2B8W)
- - 🚯 [To whom it might help](http://9gag.com/gag/a1PvmyY)<!-- MEMES:END -->
+ - 🚖 [Accurate depiction of Viktor Orban, the PM of Hungary - Artist: Shooty &lpar;Slovakia&rpar;](http://9gag.com/gag/aME2BMA)
+ - 🚯 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)
+ - 🚯 [Time travel!](http://9gag.com/gag/avQp1yd)<!-- MEMES:END -->
 
 --- 
 
