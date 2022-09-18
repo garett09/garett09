@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Russian troll farm IRA tweeted a torrent of contrived grievances and smears against the leaders of the US Women&#39;s March for 18+ months to split the movement &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/220918/p8#a220918p8)
- - [Tom Brady just chucked another Microsoft Surface tablet](https://www.theverge.com/2022/9/18/23359755/tom-brady-microsoft-surface-tablet-tampa-bay-buccaneers-saints-football-nfl)
- - [iPhone 14 Pro owners complain of shaking camera in third-party apps](https://appleinsider.com/articles/22/09/18/iphone-14-pro-owners-complain-of-shaking-camera-in-third-party-apps?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Episode 4 Recap: Daemon Returns to King&#39;s Landing     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-4-recap-daemon-returns-to-kings-landing/#ftag=CAD590a51e)
+ - [When You Can Watch &#39;House of the Dragon&#39; Episode 5 In Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-you-can-watch-house-of-the-dragon-episode-5-in-your-time-zone/#ftag=CAD590a51e)
+ - [Long iPhone 14 Pro lead times hint at sky-high demand](https://appleinsider.com/articles/22/09/18/long-iphone-14-pro-lead-times-hint-at-sky-high-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
