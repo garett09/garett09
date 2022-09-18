@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accurate depiction of Viktor Orban, the PM of Hungary - Artist: Shooty &lpar;Slovakia&rpar;](http://9gag.com/gag/aME2BMA)
- - 🚯 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)
+ - 🚖 [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
+ - 🚯 [Right to expression?](http://9gag.com/gag/a5XeB7N)
  - 🚯 [Time travel!](http://9gag.com/gag/avQp1yd)<!-- MEMES:END -->
 
 --- 
