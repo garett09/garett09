@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
- - 🚯 [Right to expression?](http://9gag.com/gag/a5XeB7N)
- - 🚯 [Time travel!](http://9gag.com/gag/avQp1yd)<!-- MEMES:END -->
+ - 🚯 [Good times](http://9gag.com/gag/aGEYnEz)
+ - 🚯 [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)<!-- MEMES:END -->
 
 --- 
 
