@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro owners complain of shaking camera in third-party apps](https://appleinsider.com/articles/22/09/18/iphone-14-pro-owners-complain-of-shaking-camera-in-third-party-apps?utm_medium=rss)
- - [DirecTV fumbles NFL Sunday Ticket... again](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
- - [Teaching Robots to Laugh at the Right Time Is No Joke     - CNET](https://www.cnet.com/science/teaching-robots-to-laugh-at-the-right-time-is-no-joke/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Russian troll farm IRA tweeted a torrent of contrived grievances and smears against the leaders of the US Women&#39;s March for 18+ months to split the movement &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/220918/p8#a220918p8)
+ - [Tom Brady just chucked another Microsoft Surface tablet](https://www.theverge.com/2022/9/18/23359755/tom-brady-microsoft-surface-tablet-tampa-bay-buccaneers-saints-football-nfl)
+ - [iPhone 14 Pro owners complain of shaking camera in third-party apps](https://appleinsider.com/articles/22/09/18/iphone-14-pro-owners-complain-of-shaking-camera-in-third-party-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
