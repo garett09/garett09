@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finished my Chemo treatments this month!](http://9gag.com/gag/a8qL6jO)
- - 🚯 [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)
- - 🚯 [That look is priceless](http://9gag.com/gag/a4oKnBd)<!-- MEMES:END -->
+ - 🚖 [That look is priceless](http://9gag.com/gag/a4oKnBd)
+ - 🚯 [Tell me other games that do this please](http://9gag.com/gag/aME2B8W)
+ - 🚯 [To whom it might help](http://9gag.com/gag/a1PvmyY)<!-- MEMES:END -->
 
 --- 
 
