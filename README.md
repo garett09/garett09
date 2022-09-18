@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some men can&#39;t find the cathedral](http://9gag.com/gag/aXn0NR2)
- - 🚯 [Dang](http://9gag.com/gag/a7qLeee)
- - 🚯 [Never gonna happen.](http://9gag.com/gag/aQEP7Z8)<!-- MEMES:END -->
+ - 🚖 [Never gonna happen.](http://9gag.com/gag/aQEP7Z8)
+ - 🚯 [Kids reaction](http://9gag.com/gag/amAN6w9)
+ - 🚯 [Earthquake in ikea](http://9gag.com/gag/axod6PY)<!-- MEMES:END -->
 
 --- 
 
