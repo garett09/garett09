@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big earthquakes today in Taiwan](http://9gag.com/gag/a9qbv16)
- - 🚯 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)
- - 🚯 [Dang](http://9gag.com/gag/a7qLeee)<!-- MEMES:END -->
+ - 🚖 [A Lord of The Rings Superfan](http://9gag.com/gag/aoKEVR3)
+ - 🚯 [Hits hard](http://9gag.com/gag/ago3OVr)
+ - 🚯 [Accurate depiction of Viktor Orban, the PM of Hungary - Artist: Shooty &lpar;Slovakia&rpar;](http://9gag.com/gag/aME2BMA)<!-- MEMES:END -->
 
 --- 
 
