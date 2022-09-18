@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DirecTV fumbles NFL Sunday Ticket... again](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
  - [iPhone 14 Pro users report camera shakiness and grinding noise when using third-party apps](https://www.theverge.com/2022/9/18/23359564/iphone-14-cameras-shaking-grinding-sounds-third-party-photo-apps-apple)
- - [Samsung Galaxy Buds 2 Pro review: Excellent ANC, ecosystem limitations](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-review-3207774/)
- - [Samsung&#39;s Powerful Tab S8 Ultra Is Up to $300 Off Today Only at Best Buy     - CNET](https://www.cnet.com/deals/save-up-to-250-on-a-premium-samsung-tablet-today-only-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA&#39;s Mars Perseverance Rover Finds Intriguing Organic Matter in Rock     - CNET](https://www.cnet.com/science/space/nasa-mars-perseverance-rover-finds-organic-matter-in-rock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
