@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [40K CRPG Rogue Trader reveals more companions and enemies](https://www.pcgamer.com/40k-crpg-rogue-trader-reveals-more-companions-and-enemies)
- - [Temtem review](https://www.pcgamer.com/temtem-review)<!-- GAME:END -->
+ - [The case for weapons in the Playground Games fable](https://game-rant-2022.blogspot.com/2022/09/the-case-for-weapons-in-playground.html)
+ - [Crypto speculation is falling out of favor at Game Studios](https://game-rant-2022.blogspot.com/2022/09/crypto-speculation-is-falling-out-of.html)
+ - [Everything we know so far, ranked](https://game-rant-2022.blogspot.com/2022/09/everything-we-know-so-far-ranked.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
