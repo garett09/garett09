@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This tunnel lines up perfectly with the sun twice a year](http://9gag.com/gag/aA0RQmZ)
- - 🚯 [It&#39;s been 20 years and still not 1 movie has managed to surpass the level of Battle of the Pelennor Fields.](http://9gag.com/gag/aNwrDBw)
- - 🚯 [Finished my Chemo treatments this month!](http://9gag.com/gag/a8qL6jO)<!-- MEMES:END -->
+ - 🚖 [Finished my Chemo treatments this month!](http://9gag.com/gag/a8qL6jO)
+ - 🚯 [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)
+ - 🚯 [That look is priceless](http://9gag.com/gag/a4oKnBd)<!-- MEMES:END -->
 
 --- 
 
