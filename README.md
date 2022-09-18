@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Lord of The Rings Superfan](http://9gag.com/gag/aoKEVR3)
- - 🚯 [Mistakes were made](http://9gag.com/gag/aL1Rz3V)
- - 🚯 [I am this old.](http://9gag.com/gag/a9qbvd0)<!-- MEMES:END -->
+ - 🚖 [Kids reaction](http://9gag.com/gag/amAN6w9)
+ - 🚯 [Right to expression?](http://9gag.com/gag/a5XeB7N)
+ - 🚯 [Just a prank...](http://9gag.com/gag/aOxKZBR)<!-- MEMES:END -->
 
 --- 
 
