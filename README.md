@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [A Lord of The Rings Superfan](http://9gag.com/gag/aoKEVR3)
- - 🚯 [Hits hard](http://9gag.com/gag/ago3OVr)
- - 🚯 [Accurate depiction of Viktor Orban, the PM of Hungary - Artist: Shooty &lpar;Slovakia&rpar;](http://9gag.com/gag/aME2BMA)<!-- MEMES:END -->
+ - 🚯 [Big earthquakes today in Taiwan](http://9gag.com/gag/a9qbv16)
+ - 🚯 [Hits hard](http://9gag.com/gag/ago3OVr)<!-- MEMES:END -->
 
 --- 
 
