@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That look is priceless](http://9gag.com/gag/a4oKnBd)
- - 🚯 [Whoa](http://9gag.com/gag/aBdRd6D)
- - 🚯 [Pass the Dutchie\u2026](http://9gag.com/gag/aKEw1gj)<!-- MEMES:END -->
+ - 🚖 [What a legend](http://9gag.com/gag/amAN1Nd)
+ - 🚯 [Rings Of Power adds Baby Gandalf in an attempt to boost ratings.](http://9gag.com/gag/aEqvMRx)
+ - 🚯 [This tunnel lines up perfectly with the sun twice a year](http://9gag.com/gag/aA0RQmZ)<!-- MEMES:END -->
 
 --- 
 
