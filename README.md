@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hits hard](http://9gag.com/gag/ago3OVr)
- - 🚯 [A Lord of The Rings Superfan](http://9gag.com/gag/aoKEVR3)
- - 🚯 [Big earthquakes today in Taiwan](http://9gag.com/gag/a9qbv16)<!-- MEMES:END -->
+ - 🚖 [A Lord of The Rings Superfan](http://9gag.com/gag/aoKEVR3)
+ - 🚯 [Mistakes were made](http://9gag.com/gag/aL1Rz3V)
+ - 🚯 [I am this old.](http://9gag.com/gag/a9qbvd0)<!-- MEMES:END -->
 
 --- 
 
