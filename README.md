@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Pro owners complain of shaking camera in third-party apps](https://appleinsider.com/articles/22/09/18/iphone-14-pro-owners-complain-of-shaking-camera-in-third-party-apps?utm_medium=rss)
  - [DirecTV fumbles NFL Sunday Ticket... again](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
- - [iPhone 14 Pro users report camera shakiness and grinding noise when using third-party apps](https://www.theverge.com/2022/9/18/23359564/iphone-14-cameras-shaking-grinding-sounds-third-party-photo-apps-apple)
- - [NASA&#39;s Mars Perseverance Rover Finds Intriguing Organic Matter in Rock     - CNET](https://www.cnet.com/science/space/nasa-mars-perseverance-rover-finds-organic-matter-in-rock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teaching Robots to Laugh at the Right Time Is No Joke     - CNET](https://www.cnet.com/science/teaching-robots-to-laugh-at-the-right-time-is-no-joke/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
