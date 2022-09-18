@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best MagSafe Accessories for Your New iPhone](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [The Best Sex Toys for Every Body](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Daily Deals Sept. 18: $40 off Apple Watch Series 8, $700 off 65-inch Samsung QLED 4K TV, $69 Zhiyun Smooth Q3 Gimbal, more!](https://appleinsider.com/articles/22/09/18/daily-deals-sept-18-40-off-apple-watch-series-8-700-off-65-inch-samsung-qled-4k-tv-69-zhiyun-smooth-q3-gimbal-more?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the mounting challenges for Lingang, a Shanghai suburb meant to be China&#39;s next Silicon Valley, amid an economic slowdown and geopolitical tensions &lpar;Bloomberg&rpar;](http://www.techmeme.com/220918/p6#a220918p6)
+ - [US Air Force Anniversary Marks 75 Years at Aviation&#39;s Cutting Edge     - CNET](https://www.cnet.com/science/us-air-force-anniversary-marks-75-years-at-aviations-cutting-edge/#ftag=CAD590a51e)
+ - [Hardware is a long-term game, and Google has commitment issues](https://www.androidauthority.com/google-hardware-commitment-issues-3209687/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
