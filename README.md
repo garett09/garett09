@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you a wizard yet?](http://9gag.com/gag/aoKE8qm)
- - 🚯 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
- - 🚯 [Them nails + flat earth = problema](http://9gag.com/gag/aQEPZW2)<!-- MEMES:END -->
+ - 🚖 [What you all think of this? don&#39;t need for stent anymore](http://9gag.com/gag/aeQj7Kb)
+ - 🚯 [Nun not noon](http://9gag.com/gag/anzqDon)
+ - 🚯 [Lotus tower in Sri Lanka... Made with almost 150 million USD loan from China opened recently. Meanwhile 60% of the Sri Lankan population has reduced their food intake due to food shortage, courtesy to economic crisis created due to excessive loans.](http://9gag.com/gag/aNwr45b)<!-- MEMES:END -->
 
 --- 
 
