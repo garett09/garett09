@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Taipei 101 stabilizing ball during the 7.2 earthquake in Taiwan today](http://9gag.com/gag/aDYAbmw)
- - 🚯 [Two Moto3 mechanics banned for interfering with rival&#39;s bike during qualifying for Aragon Grand Prix](http://9gag.com/gag/aZDbQ79)
- - 🚯 [In the past, phones were more interesting](http://9gag.com/gag/aEqvoqO)<!-- MEMES:END -->
+ - 🚖 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
+ - 🚯 [Ancient video from a millennium far far away](http://9gag.com/gag/aOxKP5N)
+ - 🚯 [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)<!-- MEMES:END -->
 
 --- 
 
