@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)
- - 🚯 [You know it](http://9gag.com/gag/aEqvOKK)
+ - 🚖 [You know it](http://9gag.com/gag/aEqvOKK)
+ - 🚯 [Too many subscriptions made me poor](http://9gag.com/gag/aZDbv4W)
  - 🚯 [CGI going downhill. Would definitely go behind lowering cgi in favor of animatronics and good visual effects but no\u2026 we get worse cgi.](http://9gag.com/gag/aVbzVbM)<!-- MEMES:END -->
 
 --- 
