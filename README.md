@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Documentaries on Netflix Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-on-netflix-right-now/#ftag=CAD590a51e)
- - [More People Need to Watch the 2nd Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-2nd-best-show-on-netflix/#ftag=CAD590a51e)
- - [iPhone 14 Pro owners are reporting that the camera physically shakes when taking photos or video in apps including TikTok, Snapchat, and Instagram &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220919/p1#a220919p1)<!-- TECH:END -->
+ - [FCC filing and B&amp;H product page detail a Google Nest Wi-Fi router, expected at Google&#39;s Oct. 6 event, using the 6E Wi-Fi standard for better network performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220919/p2#a220919p2)
+ - [Google Tensor G2 details leak: Do you want the good or bad news first?](https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/)
+ - [ROG Phone 6D and 6D Ultimate announced: Here’s everything you need to know](https://www.androidauthority.com/rog-phone-6d-and-6d-ultimate-3209473/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
