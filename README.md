@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nun not noon](http://9gag.com/gag/anzqDon)
- - 🚯 [Calm down](http://9gag.com/gag/a7qLp5z)
- - 🚯 [Its evolving, just backwards](http://9gag.com/gag/aDYAXzx)<!-- MEMES:END -->
+ - 🚖 [THOR downfall](http://9gag.com/gag/aqe9zov)
+ - 🚯 [People rioting in iran-kurdistan after death of sarah amini by moral police](http://9gag.com/gag/aWGQD4K)
+ - 🚯 [Modern day problems require modern day solutions.....](http://9gag.com/gag/a3ZPbA1)<!-- MEMES:END -->
 
 --- 
 
