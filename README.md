@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artists say they risk losing income as people use their names as distinctive style prompts in text-to-image AI art generators for commercial purposes &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220918/p9#a220918p9)
- - [When Does Episode 4 of &#39;The Rings of Power&#39; Hit Prime Video in Your Timezone?     - CNET](https://www.cnet.com/culture/entertainment/when-does-episode-4-of-the-rings-of-power-hit-prime-video-in-your-timezone/#ftag=CAD590a51e)
- - [I Was Wrong About Fortnite     - CNET](https://www.cnet.com/culture/i-was-wrong-about-fortnite/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 Pro owners are reporting that the camera physically shakes when taking photos or video in apps including TikTok, Snapchat, and Instagram &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220919/p1#a220919p1)
+ - [Einstein&#39;s Mind-Bending Theory of Relativity Passes Yet Another Huge Test     - CNET](https://www.cnet.com/science/space/einsteins-mind-bending-theory-of-relativity-passes-yet-another-huge-test/#ftag=CAD590a51e)
+ - [McDonald&#39;s Halloween Happy Meal Buckets May Be Returning This Spooky Season     - CNET](https://www.cnet.com/culture/mcdonalds-halloween-happy-meal-buckets-may-be-returning-this-spooky-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
