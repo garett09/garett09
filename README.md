@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why does a ship float and a stone cannot ??](http://9gag.com/gag/aZDbErV)
- - 🚯 [Want some?](http://9gag.com/gag/aGEYG1Z)
- - 🚯 [&#39;12 Angry Men&#39;. No CGI, no 100 million dollar budget. Just good storyline, good acting, great dialogue and one of the best films you&#39;ll ever see.](http://9gag.com/gag/aWGQoqZ)<!-- MEMES:END -->
+ - 🚖 [&#39;12 Angry Men&#39;. No CGI, no 100 million dollar budget. Just good storyline, good acting, great dialogue and one of the best films you&#39;ll ever see.](http://9gag.com/gag/aWGQoqZ)
+ - 🚯 [The Taipei 101 stabilizing ball during the 7.2 earthquake in Taiwan today](http://9gag.com/gag/aDYAbmw)
+ - 🚯 [Peace on earth](http://9gag.com/gag/a6qm2Z9)<!-- MEMES:END -->
 
 --- 
 
