@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thiel-backed conservative video platform Rumble is up 37% after going public via SPAC merger at a $2.1B valuation, raising $400M &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/220919/p23#a220919p23)
- - [At Queen Elizabeth II&#39;s Funeral, a Surprise Spider Steals the Spotlight     - CNET](https://www.cnet.com/culture/at-queen-elizabeth-iis-funeral-a-surprise-spider-steals-the-spotlight/#ftag=CAD590a51e)
- - [New PS5 Rumored to Slim Down, Come with Detachable Disc Drive     - CNET](https://www.cnet.com/tech/gaming/new-ps5-rumored-to-slim-down-come-with-detachable-disc-drive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitch streamers say one of their own scammed them for gambling money](https://www.theverge.com/2022/9/19/23361436/sliker-twitch-gambling-scam-pokimane-xqc)
+ - [Apple’s fixing the iPhone 14 Pro’s camera shake](https://www.theverge.com/2022/9/19/23361606/apple-iphone-14-pro-max-camera-shake-fix-update)
+ - [Google is launching a pilot program to keep emails from political campaigns from going to users&#39; spam folders this week, following pressure from politicians &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/220919/p26#a220919p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
