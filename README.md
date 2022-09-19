@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ accidental pay-to-win skins are getting nerfed](https://www.polygon.com/23361216/apex-legends-patch-iron-sight-skins-nerf-heat-sink)
- - [James Cameron says he knows what led to the downfall of 3D TVs](https://www.pcgamer.com/james-cameron-says-he-knows-what-led-to-the-downfall-of-3d-tvs)
- - [AI-Generated Games Are Starting To Appear On Steam &lpar;And It&#39;s Not Going Well&rpar;](https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585)<!-- GAME:END -->
+ - [Disney Dreamlight Valley Cooking Guide: 3 Tips To Master Even The Trickiest Recipes](https://kotaku.com/disney-dreamlight-valley-recipe-list-ingredient-cooking-1849554729)
+ - [Diablo 4 closed beta coming soon, public tests in early 2023](https://www.polygon.com/23361723/diablo-4-closed-beta-2022-2023-announcement-details)
+ - [Chess Champion Ratchets Up Cheating Drama By Resigning In Just One Move](https://kotaku.com/magnus-carlsen-cheating-hans-niemann-anal-beads-twitch-1849554715)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
