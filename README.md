@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)
- - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
- - [Instacart announces its Connected Stores ecosystem, including a smart Caper Cart that lets shoppers self-checkout by detecting items placed inside it &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/220919/p17#a220919p17)<!-- TECH:END -->
+ - [Tom Brady chucks Microsoft Surface for another incomplete pass](https://appleinsider.com/articles/22/09/19/tom-brady-chucks-microsoft-surface-for-another-incomplete-pass?utm_medium=rss)
+ - [Closed captions on videos are used widely among under 40s, going beyond accessibility and translation to improve understanding and aid multitasking &lpar;Cordilia James/Wall Street Journal&rpar;](http://www.techmeme.com/220919/p18#a220919p18)
+ - [The best thing about my new Apple Watch is the super-stretchy band](https://www.theverge.com/23360784/apple-watch-best-band-braided-solo-loop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
