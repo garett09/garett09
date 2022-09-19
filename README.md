@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
- - [Elon Musk: Starlink Satellite Broadband Now Active on All Continents     - CNET](https://www.cnet.com/science/space/elon-musk-says-starlink-broadband-service-now-active-on-all-continents/#ftag=CAD590a51e)
- - [Uber Names Hacking Group Responsible for Cyberattack     - CNET](https://www.cnet.com/tech/services-and-software/uber-reports-hacking-group-responsible-for-cyber-attack-lapsus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beyond Meat COO reportedly attempts to consume human nose](https://www.theverge.com/2022/9/19/23361558/beyond-meat-coo-bites-human-nose)
+ - [OpenAI starts letting DALL-E 2 customers upload and edit people&#39;s faces, after initially banning the uploading of photos that may depict real people &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220919/p27#a220919p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
