@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch streamers say one of their own scammed them for gambling money](https://www.theverge.com/2022/9/19/23361436/sliker-twitch-gambling-scam-pokimane-xqc)
- - [Apple’s fixing the iPhone 14 Pro’s camera shake](https://www.theverge.com/2022/9/19/23361606/apple-iphone-14-pro-max-camera-shake-fix-update)
- - [Google is launching a pilot program to keep emails from political campaigns from going to users&#39; spam folders this week, following pressure from politicians &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/220919/p26#a220919p26)<!-- TECH:END -->
+ - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
+ - [Elon Musk: Starlink Satellite Broadband Now Active on All Continents     - CNET](https://www.cnet.com/science/space/elon-musk-says-starlink-broadband-service-now-active-on-all-continents/#ftag=CAD590a51e)
+ - [Uber Names Hacking Group Responsible for Cyberattack     - CNET](https://www.cnet.com/tech/services-and-software/uber-reports-hacking-group-responsible-for-cyber-attack-lapsus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
