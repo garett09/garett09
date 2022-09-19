@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Village’s next DLC will end the Winters family’s story](https://www.polygon.com/23361801/resident-evil-villages-dlc-shadows-of-rose-winters-family)
- - [The Best Details Hiding In The GTA VI Leak](https://kotaku.com/gta-6-vi-leaked-gameplay-footage-details-rockstar-1849554979)
- - [Valve beats its Steam Deck production estimates as Q4 reservation emails go out today](https://www.pcgamer.com/valve-beats-its-steam-deck-production-estimates-as-q4-reservation-emails-go-out-today)<!-- GAME:END -->
+ - [NBA 2K23: The Kotaku Review](https://kotaku.com/nba-2k23-2k-review-kotaku-mycareer-impressions-myteam-1849528793)
+ - [House of the Dragon episode 5 has everything you need to know about the show](https://www.polygon.com/23361934/house-dragon-episode-5-review-recap)
+ - [What we learned, and what we didn&#39;t, from the GTA 6 leak](https://www.pcgamer.com/what-we-learned-and-what-we-didnt-from-the-gta-6-leak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
