@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
- - [Beyond Meat COO reportedly attempts to consume human nose](https://www.theverge.com/2022/9/19/23361558/beyond-meat-coo-bites-human-nose)
- - [OpenAI starts letting DALL-E 2 customers upload and edit people&#39;s faces, after initially banning the uploading of photos that may depict real people &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220919/p27#a220919p27)<!-- TECH:END -->
+ - [This Is What It Sounds Like When Space Rocks Crash Into Mars     - CNET](https://www.cnet.com/science/space/this-is-what-it-sounds-like-when-space-rocks-crash-into-mars/#ftag=CAD590a51e)
+ - [Google&#39;s Pixel Watch Will Reportedly Cost $350+     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-watch-will-reportedly-cost-350/#ftag=CAD590a51e)
+ - [Adnan Syed of &#39;Serial&#39; Podcast a Free Man After Judge Vacates Murder Conviction     - CNET](https://www.cnet.com/culture/entertainment/adnan-syed-of-serial-podcast-out-of-prison-after-murder-case-overturned/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
