@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s power couple is officially here to play](https://www.polygon.com/23355427/house-dragon-corlys-rhaenys-explainer-interview)
- - [What is the future of Star Wars movies?](https://www.polygon.com/star-wars/23357289/new-star-wars-movies-rogue-squadron)
- - [Crunchyroll’s new Chainsaw Man trailer sets up season 1](https://www.polygon.com/23360824/chainsaw-man-trailer-season-1-premiere-date-details)<!-- GAME:END -->
+ - [Return to Monkey Island confidently clings to its powerful DNA](https://www.polygon.com/reviews/23356469/return-to-monkey-island-review-90s-adventure-point-and-click-nostalgia)
+ - [Enormous Diablo IV Leak Shows Almost 45 Minutes Of Dungeon Crawling Footage](https://kotaku.com/diablo-4-iv-activision-blizzard-leak-footage-gta-6-1849553169)
+ - [Exclusive: It’s Geralt vs. the Big Bad Wolf in Dark Horse’s new Witcher comic](https://www.polygon.com/23360949/the-witcher-comic-book-ballad-two-wolves-fairytale-release-date-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
