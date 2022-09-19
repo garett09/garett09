@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomeKit changes in iOS 16, Sonos Sub Mini &amp; new Lutron switches](https://appleinsider.com/articles/22/09/19/homekit-changes-in-ios-16-sonos-sub-mini-new-lutron-switches?utm_medium=rss)
- - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)
- - [How to turn on the iPhone 14 startup sound](https://appleinsider.com/inside/iphone-14/tips/how-to-turn-on-the-iphone-14-startup-sound?utm_medium=rss)<!-- TECH:END -->
+ - [Today’s the last day to get one month of Disney Plus for $1.99 ahead of Andor’s premiere](https://www.theverge.com/2022/9/19/23360676/disney-plus-andor-ipad-pro-airpods-preorder-bose-700-deal-sale)
+ - [Don&#39;t wait months for AirPods Pro, Apple Watch Ultra, or iPhone 14](https://appleinsider.com/articles/22/09/19/dont-wait-months-for-airpods-pro-apple-watch-ultra-or-iphone-14?utm_medium=rss)
+ - [Apple supplier shifts production to make more iPhone 14 Pro models](https://appleinsider.com/articles/22/09/19/apple-supplier-shifts-production-to-make-more-iphone-14-pro-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
