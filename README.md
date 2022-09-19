@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What you all think of this? don&#39;t need for stent anymore](http://9gag.com/gag/aeQj7Kb)
- - 🚯 [Say that again and again and again, till the dumb ones in the back understand it.](http://9gag.com/gag/ago3Kbg)
- - 🚯 [You know it](http://9gag.com/gag/aEqvOKK)<!-- MEMES:END -->
+ - 🚖 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
+ - 🚯 [Tommy vs black shoe disguised as white shoe.](http://9gag.com/gag/ap9EAW5)
+ - 🚯 [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)<!-- MEMES:END -->
 
 --- 
 
