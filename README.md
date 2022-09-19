@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IFR data: Chinese factories installed 243K+ robots in 2021, up 45% YoY and around 50% of the global total, adapting to a changing workforce and rising wages &lpar;Jason Douglas/Wall Street Journal&rpar;](http://www.techmeme.com/220919/p8#a220919p8)
- - [Swedish last-mile delivery startups Instabox and Budbee plan to merge and create Instabee, valued at ~$1.66B &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/220919/p7#a220919p7)
- - [The UK&#39;s Financial Conduct Authority warns consumers against FTX, saying the exchange is not authorized, following a similar warning about Binance in 2021 &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/220919/p6#a220919p6)<!-- TECH:END -->
+ - [The Deep Roots of Nigeria’s Cybersecurity Problem](https://www.wired.com/story/nigeria-cybersecurity-issues/)
+ - [Electric Vehicles Could Rescue the US Power Grid](https://www.wired.com/story/electric-vehicles-could-rescue-the-us-power-grid/)
+ - [MoviePass Has Stumbled Repeatedly. Why Does It Still Have Fans?](https://www.wired.com/story/moviepass-diehard-fans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
