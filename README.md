@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Deep Roots of Nigeria’s Cybersecurity Problem](https://www.wired.com/story/nigeria-cybersecurity-issues/)
- - [Electric Vehicles Could Rescue the US Power Grid](https://www.wired.com/story/electric-vehicles-could-rescue-the-us-power-grid/)
- - [MoviePass Has Stumbled Repeatedly. Why Does It Still Have Fans?](https://www.wired.com/story/moviepass-diehard-fans/)<!-- TECH:END -->
+ - [Sources: India&#39;s government and central bank have asked Google to help curb illegal digital lending apps several times in recent months &lpar;Reuters&rpar;](http://www.techmeme.com/220919/p14#a220919p14)
+ - [Sources: Instacart plans to mostly sell employees&#39; stock during its IPO to help staff cash out, issuing a small number of shares and limiting the amount raised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220919/p13#a220919p13)
+ - [Daily Deals Sept. 19: $400 off 14-inch MacBook Pro, $48 1TB G-Drive, $349 LG 31.5-inch 4K Monitor, more!](https://appleinsider.com/articles/22/09/19/daily-deals-sept-19-400-off-14-inch-macbook-pro-48-1tb-g-drive-349-lg-315-inch-4k-monitor-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
