@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [THOR downfall](http://9gag.com/gag/aqe9zov)
- - 🚯 [People rioting in iran-kurdistan after death of sarah amini by moral police](http://9gag.com/gag/aWGQD4K)
- - 🚯 [Modern day problems require modern day solutions.....](http://9gag.com/gag/a3ZPbA1)<!-- MEMES:END -->
+ - 🚖 [Cotton Ball living the best life..](http://9gag.com/gag/aNwrOv4)
+ - 🚯 [I try to be fair and pay for the service, but sometimes we need to go back to our roots.](http://9gag.com/gag/aOxKRgM)
+ - 🚯 [I&#39;m in danger](http://9gag.com/gag/a7qLp9q)<!-- MEMES:END -->
 
 --- 
 
