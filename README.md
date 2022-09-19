@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tom Brady chucks Microsoft Surface for another incomplete pass](https://appleinsider.com/articles/22/09/19/tom-brady-chucks-microsoft-surface-for-another-incomplete-pass?utm_medium=rss)
- - [Closed captions on videos are used widely among under 40s, going beyond accessibility and translation to improve understanding and aid multitasking &lpar;Cordilia James/Wall Street Journal&rpar;](http://www.techmeme.com/220919/p18#a220919p18)
- - [The best thing about my new Apple Watch is the super-stretchy band](https://www.theverge.com/23360784/apple-watch-best-band-braided-solo-loop)<!-- TECH:END -->
+ - [HomeKit changes in iOS 16, Sonos Sub Mini &amp; new Lutron switches](https://appleinsider.com/articles/22/09/19/homekit-changes-in-ios-16-sonos-sub-mini-new-lutron-switches?utm_medium=rss)
+ - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)
+ - [How to turn on the iPhone 14 startup sound](https://appleinsider.com/inside/iphone-14/tips/how-to-turn-on-the-iphone-14-startup-sound?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
