@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How likely is it that Indian teams will get a lock on PMGC 2022 after BGMI ban?](https://game-rant-2022.blogspot.com/2022/09/how-likely-is-it-that-indian-teams-will.html)
- - [Best cutscenes in video games](https://game-rant-2022.blogspot.com/2022/09/best-cutscenes-in-video-games.html)
- - [Tokyo Game Show 2022: Everything Announced](https://game-rant-2022.blogspot.com/2022/09/tokyo-game-show-2022-everything.html)<!-- GAME:END -->
+ - [This Is What A Video Game In Development Looks Like](https://kotaku.com/gta-vi-grand-theft-auto-leak-screenshots-how-made-1849551495)
+ - [Rise of the Triad&#39;s &#39;ludicrous&#39; 4K remaster will be out in 2023](https://www.pcgamer.com/rise-of-the-triads-ludicrous-4k-remaster-will-be-out-in-2023)
+ - [Mariners Notes: Foul Stumbles With Suarez, J-Rod Offside](https://game-rant-2022.blogspot.com/2022/09/mariners-notes-foul-stumbles-with.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
