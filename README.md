@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI teases its next-gen Z790 motherboards](https://www.pcgamer.com/msi-teases-its-next-gen-z790-motherboards)
- - [Mr Price Launches Nightmare Fuel NFTs](https://game-rant-2022.blogspot.com/2022/09/mr-price-launches-nightmare-fuel-nfts.html)
- - [Brett Maher 2.0 takes victory over defending AFC champion](https://game-rant-2022.blogspot.com/2022/09/brett-maher-20-takes-victory-over.html)<!-- GAME:END -->
+ - [Rick and Morty S06E03 &quot;Bethic Twinstinct&quot; Review: Family Toxicity x 2](https://game-rant-2022.blogspot.com/2022/09/rick-and-morty-s06e03-bethic-twinstinct.html)
+ - [Why Jordan Peele still hasn&#39;t reached the top](https://game-rant-2022.blogspot.com/2022/09/why-jordan-peele-still-hasnt-reached-top.html)
+ - [NBA 2K23 Review - A Solid Step Forward](https://game-rant-2022.blogspot.com/2022/09/nba-2k23-review-solid-step-forward.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
