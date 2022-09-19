@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
- - 🚯 [Ancient video from a millennium far far away](http://9gag.com/gag/aOxKP5N)
- - 🚯 [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)<!-- MEMES:END -->
+ - 🚖 [Its evolving, just backwards](http://9gag.com/gag/aDYAXzx)
+ - 🚯 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
+ - 🚯 [The ultra rich people of Buenos Aires built a gated community on the Capybara&#39;s natural habitat pushing them away. Now they are coming back.](http://9gag.com/gag/aXn0WYd)<!-- MEMES:END -->
 
 --- 
 
