@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh in the holy name of almighty f**k\u2026 ahhhhhhhhhhhhhhhhhhhh!!!!!!\u2026\u2026ahhhhhhhhhhhh!!!! Ahhhhhhhhh!!!!](http://9gag.com/gag/aA0RXrE)
- - 🚯 [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)
- - 🚯 [It&#39;s pointless to have ultra realistic graphics if the gameplay is repetitive and generic](http://9gag.com/gag/aKEweOQ)<!-- MEMES:END -->
+ - 🚖 [Are you a wizard yet?](http://9gag.com/gag/aoKE8qm)
+ - 🚯 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
+ - 🚯 [Them nails + flat earth = problema](http://9gag.com/gag/aQEPZW2)<!-- MEMES:END -->
 
 --- 
 
