@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is What A Video Game In Development Looks Like](https://kotaku.com/gta-vi-grand-theft-auto-leak-screenshots-how-made-1849551495)
- - [Rise of the Triad&#39;s &#39;ludicrous&#39; 4K remaster will be out in 2023](https://www.pcgamer.com/rise-of-the-triads-ludicrous-4k-remaster-will-be-out-in-2023)
- - [Mariners Notes: Foul Stumbles With Suarez, J-Rod Offside](https://game-rant-2022.blogspot.com/2022/09/mariners-notes-foul-stumbles-with.html)<!-- GAME:END -->
+ - [MSI teases its next-gen Z790 motherboards](https://www.pcgamer.com/msi-teases-its-next-gen-z790-motherboards)
+ - [Mr Price Launches Nightmare Fuel NFTs](https://game-rant-2022.blogspot.com/2022/09/mr-price-launches-nightmare-fuel-nfts.html)
+ - [Brett Maher 2.0 takes victory over defending AFC champion](https://game-rant-2022.blogspot.com/2022/09/brett-maher-20-takes-victory-over.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
