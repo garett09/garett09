@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India&#39;s government and central bank have asked Google to help curb illegal digital lending apps several times in recent months &lpar;Reuters&rpar;](http://www.techmeme.com/220919/p14#a220919p14)
- - [Sources: Instacart plans to mostly sell employees&#39; stock during its IPO to help staff cash out, issuing a small number of shares and limiting the amount raised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220919/p13#a220919p13)
- - [Daily Deals Sept. 19: $400 off 14-inch MacBook Pro, $48 1TB G-Drive, $349 LG 31.5-inch 4K Monitor, more!](https://appleinsider.com/articles/22/09/19/daily-deals-sept-19-400-off-14-inch-macbook-pro-48-1tb-g-drive-349-lg-315-inch-4k-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)
+ - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
+ - [Instacart announces its Connected Stores ecosystem, including a smart Caper Cart that lets shoppers self-checkout by detecting items placed inside it &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/220919/p17#a220919p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
