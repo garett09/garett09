@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know it](http://9gag.com/gag/aEqvOKK)
- - 🚯 [Oh the burn!](http://9gag.com/gag/aQEP2wd)
- - 🚯 [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)<!-- MEMES:END -->
+ - 🚖 [Oh the burn!](http://9gag.com/gag/aQEP2wd)
+ - 🚯 [You know it](http://9gag.com/gag/aEqvOKK)
+ - 🚯 [CGI going downhill. Would definitely go behind lowering cgi in favor of animatronics and good visual effects but no\u2026 we get worse cgi.](http://9gag.com/gag/aVbzVbM)<!-- MEMES:END -->
 
 --- 
 
