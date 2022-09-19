@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know it](http://9gag.com/gag/aEqvOKK)
+ - 🚖 [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)
  - 🚯 [Too many subscriptions made me poor](http://9gag.com/gag/aZDbv4W)
- - 🚯 [CGI going downhill. Would definitely go behind lowering cgi in favor of animatronics and good visual effects but no\u2026 we get worse cgi.](http://9gag.com/gag/aVbzVbM)<!-- MEMES:END -->
+ - 🚯 [Another moron driving](http://9gag.com/gag/aqe9d5L)<!-- MEMES:END -->
 
 --- 
 
