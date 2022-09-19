@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Now Diablo 4 test footage has leaked online](https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online)
- - [Best Webtoons with LGBTQ+ Representation](https://game-rant-2022.blogspot.com/2022/09/best-webtoons-with-lgbtq-representation.html)
- - [Sins Of A Solar Empire 2: A Stunning Announcement](https://game-rant-2022.blogspot.com/2022/09/sins-of-solar-empire-2-stunning.html)<!-- GAME:END -->
+ - [Season 5 questions left unanswered](https://game-rant-2022.blogspot.com/2022/09/season-5-questions-left-unanswered.html)
+ - [Resident Evil Village&#39;s new DLC will &#39;conclude&#39; the Winters&#39; family storyline](https://www.pcgamer.com/resident-evil-villages-new-dlc-will-conclude-the-winters-family-storyline)
+ - [Now Diablo 4 test footage has leaked online](https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
