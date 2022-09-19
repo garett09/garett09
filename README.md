@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar Responds To &#39;Illegal&#39; GTA 6 Leak As The Messy Aftermath Continues](https://kotaku.com/gta-6-leak-grand-theft-rockstar-teapotuberhacker-forum-1849552442)
- - [How the horror movie Pearl pulled off its daring climax](https://www.polygon.com/23357046/pearl-horror-movie-ending-explained-mia-goth-ti-west)
- - [Star Wars: The Clone Wars is getting a Pandemic board game spinoff](https://www.polygon.com/23349098/star-wars-clone-wars-a-pandemic-system-game-announcement-release)<!-- GAME:END -->
+ - [House of the Dragon’s power couple is officially here to play](https://www.polygon.com/23355427/house-dragon-corlys-rhaenys-explainer-interview)
+ - [What is the future of Star Wars movies?](https://www.polygon.com/star-wars/23357289/new-star-wars-movies-rogue-squadron)
+ - [Crunchyroll’s new Chainsaw Man trailer sets up season 1](https://www.polygon.com/23360824/chainsaw-man-trailer-season-1-premiere-date-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
