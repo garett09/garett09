@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What you all think of this? don&#39;t need for stent anymore](http://9gag.com/gag/aeQj7Kb)
- - 🚯 [Nun not noon](http://9gag.com/gag/anzqDon)
- - 🚯 [Lotus tower in Sri Lanka... Made with almost 150 million USD loan from China opened recently. Meanwhile 60% of the Sri Lankan population has reduced their food intake due to food shortage, courtesy to economic crisis created due to excessive loans.](http://9gag.com/gag/aNwr45b)<!-- MEMES:END -->
+ - 🚖 [Nun not noon](http://9gag.com/gag/anzqDon)
+ - 🚯 [Calm down](http://9gag.com/gag/a7qLp5z)
+ - 🚯 [Its evolving, just backwards](http://9gag.com/gag/aDYAXzx)<!-- MEMES:END -->
 
 --- 
 
