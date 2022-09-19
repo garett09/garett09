@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cotton Ball living the best life..](http://9gag.com/gag/aNwrOv4)
- - 🚯 [I try to be fair and pay for the service, but sometimes we need to go back to our roots.](http://9gag.com/gag/aOxKRgM)
- - 🚯 [I&#39;m in danger](http://9gag.com/gag/a7qLp9q)<!-- MEMES:END -->
+ - 🚖 [What you all think of this? don&#39;t need for stent anymore](http://9gag.com/gag/aeQj7Kb)
+ - 🚯 [Say that again and again and again, till the dumb ones in the back understand it.](http://9gag.com/gag/ago3Kbg)
+ - 🚯 [You know it](http://9gag.com/gag/aEqvOKK)<!-- MEMES:END -->
 
 --- 
 
