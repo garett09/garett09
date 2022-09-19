@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley Cooking Guide: 3 Tips To Master Even The Trickiest Recipes](https://kotaku.com/disney-dreamlight-valley-recipe-list-ingredient-cooking-1849554729)
- - [Diablo 4 closed beta coming soon, public tests in early 2023](https://www.polygon.com/23361723/diablo-4-closed-beta-2022-2023-announcement-details)
- - [Chess Champion Ratchets Up Cheating Drama By Resigning In Just One Move](https://kotaku.com/magnus-carlsen-cheating-hans-niemann-anal-beads-twitch-1849554715)<!-- GAME:END -->
+ - [Resident Evil Village’s next DLC will end the Winters family’s story](https://www.polygon.com/23361801/resident-evil-villages-dlc-shadows-of-rose-winters-family)
+ - [The Best Details Hiding In The GTA VI Leak](https://kotaku.com/gta-6-vi-leaked-gameplay-footage-details-rockstar-1849554979)
+ - [Valve beats its Steam Deck production estimates as Q4 reservation emails go out today](https://www.pcgamer.com/valve-beats-its-steam-deck-production-estimates-as-q4-reservation-emails-go-out-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
