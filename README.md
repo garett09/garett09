@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Proactive news headlines including Astro Resources, Aeris](https://game-rant-2022.blogspot.com/2022/09/proactive-news-headlines-including.html)
- - [10 Video Game Villains Who Aren&#39;t As Bad As Fans Thought](https://game-rant-2022.blogspot.com/2022/09/10-video-game-villains-who-arent-as-bad.html)
- - [Today&#39;s Wordle 457 answer and hint: Monday, September 19](https://www.pcgamer.com/todays-wordle-457-answer-hint)<!-- GAME:END -->
+ - [What time is Rams-Falcons on TV today?  Live stream, channel, how to watch online](https://game-rant-2022.blogspot.com/2022/09/what-time-is-rams-falcons-on-tv-today.html)
+ - [Best adventurers across the Obelisk](https://game-rant-2022.blogspot.com/2022/09/best-adventurers-across-obelisk.html)
+ - [Overwatch 2 battle pass - here&#39;s what you need to know](https://game-rant-2022.blogspot.com/2022/09/overwatch-2-battle-pass-heres-what-you.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
