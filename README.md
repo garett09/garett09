@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
- - 🚯 [Tommy vs black shoe disguised as white shoe.](http://9gag.com/gag/ap9EAW5)
+ - 🚖 [You know it](http://9gag.com/gag/aEqvOKK)
+ - 🚯 [Oh the burn!](http://9gag.com/gag/aQEP2wd)
  - 🚯 [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)<!-- MEMES:END -->
 
 --- 
