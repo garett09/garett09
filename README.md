@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms frequent ‘allow paste?’ prompts in iOS 16 are a bug](https://www.theverge.com/2022/9/19/23361247/apple-confirms-allow-paste-prompt-ios-16-iphone-14-bug)
- - [Our Favorite Xero Barefoot Shoes Are on Sale Right Now](https://www.wired.com/story/xero-z-trail-barefoot-shoes-sale-september-2022/)
- - [LG’s new Ultra PC lineup has motion tracking and new chips](https://www.theverge.com/2022/9/19/23361153/lg-ultra-pc-17-16-gram-portable-laptop-launch-price-size)<!-- TECH:END -->
+ - [The creator of Kiwi Farms, known for hosting targeted harassment campaigns, says the forum site was hacked and users&#39; email and IP address data is compromised &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220919/p21#a220919p21)
+ - [Apple supplier shifts production to make more iPhone 14 Pro models](https://appleinsider.com/articles/22/09/19/apple-supplier-shifts-production-to-make-more-iphone-14-pro-models?utm_medium=rss)
+ - [iPhone 14 review: Apple&#39;s curve ball to iPhone upgraders](https://appleinsider.com/articles/22/09/19/iphone-14-review-apples-curve-ball-to-iphone-upgraders?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
