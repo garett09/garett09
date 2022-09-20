@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer releases cheaper, more compact Leviathan V2 X PC soundbar](https://www.theverge.com/2022/9/20/23363663/razer-leviathan-v2-x-pc-soundbar-compact-rgb)
- - [On-chain data: Wintermute, recently hacked for $160M, has $200M in outstanding DeFi debt, including a $92M Tether loan to TrueFi that matures on October 15 &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220920/p41#a220920p41)
- - [Internal meetings: TikTok has employed a two-tiered moderation system that gives &quot;more lenient&quot; treatment to influencers and other VIPs with 5M+ followers &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220920/p40#a220920p40)<!-- TECH:END -->
+ - [Facebook adds Pages features to let creators endorse each other, make content exclusive to top fans and subscribers, earn &quot;rising creator&quot; labels, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220920/p42#a220920p42)
+ - [Overwatch 2 loses lead hero designer just before sequel launches](https://www.theverge.com/2022/9/20/23363892/overwatch-2-lead-hero-designer-resigns-blizzard)
+ - [Razer releases cheaper, more compact Leviathan V2 X PC soundbar](https://www.theverge.com/2022/9/20/23363663/razer-leviathan-v2-x-pc-soundbar-compact-rgb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
