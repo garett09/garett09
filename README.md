@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Once upon a time, you could buy Snow White-themed bleach and ammonia](https://www.polygon.com/23356978/disney-princess-book-merch-snow-white-excerpt)
- - [Meet the Latest Overwatch Support Hero, Kiriko!](https://news.xbox.com/en-us/2022/09/20/meet-the-latest-overwatch-support-hero-kiriko/)
- - [A Phenomenal Anime Like Made In Abyss Deserves A Better Video Game Than This](https://kotaku.com/made-in-abyss-video-game-review-anime-rpg-reg-riko-1849558977)<!-- GAME:END -->
+ - [Great Houses Go to War in a Brand New Smite Update](https://news.xbox.com/en-us/2022/09/20/great-houses-go-to-war-in-a-brand-new-smite-update/)
+ - [League of Legends’ Spirit Blossom skins return with plenty of style](https://www.polygon.com/23363529/league-of-legends-spirit-blossom-skins-syndra-sett-soraka)
+ - [Budget gaming PC build guide](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
