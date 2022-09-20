@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fate: The Winx Saga creators wanted to up the magical girl ante with a big fairy transformation](https://www.polygon.com/23361628/fate-winx-saga-fairy-transformations-bloom)
- - [Nvidia reveals RTX 4090 and RTX 4080, its most powerful consumer GPUs ever](https://www.polygon.com/23363148/nvidia-rtx-4090-4080-release-date-price)
- - [Nvidia&#39;s new modding tools will add ray tracing to almost anything, even Morrowind](https://www.pcgamer.com/nvidia-rtx-remix)<!-- GAME:END -->
+ - [Once upon a time, you could buy Snow White-themed bleach and ammonia](https://www.polygon.com/23356978/disney-princess-book-merch-snow-white-excerpt)
+ - [Meet the Latest Overwatch Support Hero, Kiriko!](https://news.xbox.com/en-us/2022/09/20/meet-the-latest-overwatch-support-hero-kiriko/)
+ - [A Phenomenal Anime Like Made In Abyss Deserves A Better Video Game Than This](https://kotaku.com/made-in-abyss-video-game-review-anime-rpg-reg-riko-1849558977)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
