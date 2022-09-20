@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The erasure of women](http://9gag.com/gag/ago3pQW)
+ - 🚖 [Damn onions, they make me cry](http://9gag.com/gag/anzq3OE)
  - 🚯 [Anya !!!!](http://9gag.com/gag/a5Xe9wo)
  - 🚯 [Super exciting](http://9gag.com/gag/aOxKOrv)<!-- MEMES:END -->
 
