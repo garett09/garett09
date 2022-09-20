@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at AI-generated media tools like Imagen, DALL-E 2, and Midjourney; Midjourney users are making concept art for clients and replacing stock art &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/220919/p28#a220919p28)
- - [Microsoft eased up on one DRM hurdle for disc games on Xbox](https://www.theverge.com/2022/9/19/23356855/xbox-series-x-game-disc-drm-online-check-in)
- - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)<!-- TECH:END -->
+ - [Apple to hike App Store prices in Europe and other countries in October](https://appleinsider.com/articles/22/09/20/apple-to-hike-app-store-prices-in-europe-and-other-countries-in-october?utm_medium=rss)
+ - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)
+ - [India-based DotPe, which helps businesses get online, raised a $58M Series B led by Temasek, and says it will introduce digital lending to merchants &lpar;Priyanka Iyer/Moneycontrol&rpar;](http://www.techmeme.com/220919/p31#a220919p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
