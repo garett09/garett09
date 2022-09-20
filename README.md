@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)
- - 🚯 [That is called life](http://9gag.com/gag/aKEwN9N)
- - 🚯 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)<!-- MEMES:END -->
+ - 🚖 [That is called life](http://9gag.com/gag/aKEwN9N)
+ - 🚯 [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
+ - 🚯 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)<!-- MEMES:END -->
 
 --- 
 
