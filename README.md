@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At last peace](http://9gag.com/gag/aKEwXg3)
- - 🚯 [I just called mine she said `eww`](http://9gag.com/gag/a1Pv80R)
- - 🚯 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
+ - 🚖 [Brave Hong Kongers openly defy Beijing by singing the banned protest anthem \u201cglory to Hong Kong\u201d yesterday](http://9gag.com/gag/aVbz972)
+ - 🚯 [Apparently some people are seeing 10 ads now](http://9gag.com/gag/aPgwz3n)
+ - 🚯 [Great to hear someone speak le truth](http://9gag.com/gag/adP04z2)<!-- MEMES:END -->
 
 --- 
 
