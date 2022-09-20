@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Midnight Mass creator’s new Netflix show has a creepy trailer](https://www.polygon.com/23362944/the-midnight-club-trailer-haunting-of-hill-house-netflix)
- - [Ranking the 9 best stealth games](https://www.polygon.com/what-to-play/23361626/best-stealth-video-games-metal-gear-solid-splinter-cell-ps4-ps5-xbox-one-series-x)
- - [YouTuber Confesses To Secretly Being Gaming Industry Leaker After Getting Caught](https://kotaku.com/youtube-danallengaming-ubisoft-assassins-creed-leak-1849557551)<!-- GAME:END -->
+ - [Nvidia unveils DLSS 3 promising 4x frame rate increases for RTX 40-series GPUs](https://www.pcgamer.com/nvidia-dlss-3-performance)
+ - [Fortnite: How to complete Reboot Rally quests and claim your rewards](https://www.pcgamer.com/fortnite-reboot-rally-quests-rewards)
+ - [EA is making an Iron Man video game](https://www.polygon.com/23363111/iron-man-video-game-announced-ea-motive-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
