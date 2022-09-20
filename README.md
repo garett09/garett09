@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says that, within a few weeks, Windows 11&#39;s support for Android apps via the Amazon Appstore will expand to 31 countries and include over 20,000 apps &lpar;Giorgio Sardo/Windows Experience Blog&rpar;](http://www.techmeme.com/220920/p38#a220920p38)
- - [Robinhood adds USDC as the first stablecoin in its crypto lineup, while Binance and WazirX exchanges say they will delist USDC in favor of other stablecoins &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220920/p37#a220920p37)
- - [How the Federal Reserve Affects Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Razer releases cheaper, more compact Leviathan V2 X PC soundbar](https://www.theverge.com/2022/9/20/23363663/razer-leviathan-v2-x-pc-soundbar-compact-rgb)
+ - [On-chain data: Wintermute, recently hacked for $160M, has $200M in outstanding DeFi debt, including a $92M Tether loan to TrueFi that matures on October 15 &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220920/p41#a220920p41)
+ - [Internal meetings: TikTok has employed a two-tiered moderation system that gives &quot;more lenient&quot; treatment to influencers and other VIPs with 5M+ followers &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220920/p40#a220920p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
