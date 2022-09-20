@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)
- - 🚯 [Too many subscriptions made me poor](http://9gag.com/gag/aZDbv4W)
- - 🚯 [Another moron driving](http://9gag.com/gag/aqe9d5L)<!-- MEMES:END -->
+ - 🚖 [We are doomed](http://9gag.com/gag/aEqvEDG)
+ - 🚯 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
+ - 🚯 [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)<!-- MEMES:END -->
 
 --- 
 
