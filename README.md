@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Basketball game](http://9gag.com/gag/aOxKN0R)
- - 🚯 [Say that again and again and again, till the dumb ones in the back understand it.](http://9gag.com/gag/ago3Kbg)
- - 🚯 [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)<!-- MEMES:END -->
+ - 🚖 [Little earthquake in Mexico Set 19th2022](http://9gag.com/gag/aqe9d4Y)
+ - 🚯 [A fat white dude play 5 star level of Basketball](http://9gag.com/gag/ap9E8r5)
+ - 🚯 [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)<!-- MEMES:END -->
 
 --- 
 
