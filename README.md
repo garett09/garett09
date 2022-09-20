@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NBA 2K23: The Kotaku Review](https://kotaku.com/nba-2k23-2k-review-kotaku-mycareer-impressions-myteam-1849528793)
- - [House of the Dragon episode 5 has everything you need to know about the show](https://www.polygon.com/23361934/house-dragon-episode-5-review-recap)
- - [What we learned, and what we didn&#39;t, from the GTA 6 leak](https://www.pcgamer.com/what-we-learned-and-what-we-didnt-from-the-gta-6-leak)<!-- GAME:END -->
+ - [Elden Ring Is Being Turned Into A Board Game](https://kotaku.com/elden-ring-board-game-steamforged-kickstarter-1849556079)
+ - [Five new Steam games you probably missed &lpar;September 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022)
+ - [Menyr Lets You Build A Whole Damn World For Your RPG Campaigns](https://kotaku.com/ttrpg-rpg-d-d-dungeons-dragons-digital-toolkit-build-1849555946)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
