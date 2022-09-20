@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How iPhone 14 Pro Adaptive True Tone flash creates perfect light for your photos](https://appleinsider.com/articles/22/09/20/how-iphone-14-pro-adaptive-true-tone-flash-creates-perfect-light-for-your-photos?utm_medium=rss)
- - [Telegram Has a Serious Doxing Problem](https://www.wired.com/story/telegrams-doxing-problem/)
- - [Sardine, a fraud detection service for crypto and fintech clients, raised a $51.5M Series B led by a16z, after a $19.5M Series A in February 2022 &lpar;Anita Ramaswamy/TechCrunch&rpar;](http://www.techmeme.com/220920/p18#a220920p18)<!-- TECH:END -->
+ - [Texas has teed up a Supreme Court fight for the future of the internet](https://www.theverge.com/2022/9/20/23360804/texas-fifth-circuit-ruling-hb20-supreme-court-speech-first-amendment-moderation)
+ - [Wait times for iPhone 14 Pro models up to 6 weeks as demand surges](https://appleinsider.com/articles/22/09/20/wait-times-for-iphone-14-pro-models-up-to-6-weeks-as-demand-surges?utm_medium=rss)
+ - [How iPhone 14 Pro Adaptive True Tone flash creates perfect light for your photos](https://appleinsider.com/articles/22/09/20/how-iphone-14-pro-adaptive-true-tone-flash-creates-perfect-light-for-your-photos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
