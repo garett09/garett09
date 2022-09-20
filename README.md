@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas has teed up a Supreme Court fight for the future of the internet](https://www.theverge.com/2022/9/20/23360804/texas-fifth-circuit-ruling-hb20-supreme-court-speech-first-amendment-moderation)
- - [Wait times for iPhone 14 Pro models up to 6 weeks as demand surges](https://appleinsider.com/articles/22/09/20/wait-times-for-iphone-14-pro-models-up-to-6-weeks-as-demand-surges?utm_medium=rss)
- - [How iPhone 14 Pro Adaptive True Tone flash creates perfect light for your photos](https://appleinsider.com/articles/22/09/20/how-iphone-14-pro-adaptive-true-tone-flash-creates-perfect-light-for-your-photos?utm_medium=rss)<!-- TECH:END -->
+ - [The best Chromebook for 2022](https://www.theverge.com/21296102/best-chromebooks)
+ - [Lowest price: Apple&#39;s iPad Pro 12.9-inch dips to $899 at Amazon](https://appleinsider.com/articles/22/09/19/lowest-price-apples-ipad-pro-129-inch-dips-to-899-at-amazon?utm_medium=rss)
+ - [A look at Brian Armstrong&#39;s GiveCrypto, which started to financially empower those in need and aimed to raise $1B but turned into a mess of misplaced assurances &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/220920/p20#a220920p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
