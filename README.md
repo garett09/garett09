@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are doomed](http://9gag.com/gag/aEqvEDG)
- - 🚯 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
- - 🚯 [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)<!-- MEMES:END -->
+ - 🚖 [Basketball game](http://9gag.com/gag/aOxKN0R)
+ - 🚯 [Say that again and again and again, till the dumb ones in the back understand it.](http://9gag.com/gag/ago3Kbg)
+ - 🚯 [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)<!-- MEMES:END -->
 
 --- 
 
