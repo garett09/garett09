@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is called life](http://9gag.com/gag/aKEwN9N)
+ - 🚖 [In Canada, nothing is safe from the moose.](http://9gag.com/gag/aQEPNG7)
  - 🚯 [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
- - 🚯 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)<!-- MEMES:END -->
+ - 🚯 [Math teacher](http://9gag.com/gag/ago3Zz6)<!-- MEMES:END -->
 
 --- 
 
