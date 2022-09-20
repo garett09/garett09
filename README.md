@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Canada, nothing is safe from the moose.](http://9gag.com/gag/aQEPNG7)
- - 🚯 [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
+ - 🚖 [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
+ - 🚯 [Go school](http://9gag.com/gag/ajVYMLx)
  - 🚯 [Math teacher](http://9gag.com/gag/ago3Zz6)<!-- MEMES:END -->
 
 --- 
