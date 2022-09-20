@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
- - 🚯 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)
+ - 🚖 [At last peace](http://9gag.com/gag/aKEwXg3)
+ - 🚯 [I just called mine she said `eww`](http://9gag.com/gag/a1Pv80R)
  - 🚯 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
 
 --- 
