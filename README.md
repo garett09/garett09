@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saturnalia, a Survival Horror Adventure, Comes to Xbox](https://news.xbox.com/en-us/2022/09/20/saturnalia-a-survival-horror-adventure-comes-to-xbox/)
- - [Mob Psycho 100’s English Voice Actor Probably Isn&#39;t Coming Back Because Of Crunchyroll](https://kotaku.com/mob-psycho-100-crunchyroll-kyle-mccarley-sag-aftra-1849559684)
- - [Bethesda fixes Skryim&#39;s creepy moving mannequins, modder promptly unfixes them](https://www.pcgamer.com/bethesda-fixes-skryims-creepy-moving-mannequins-modder-promptly-unfixes-them)<!-- GAME:END -->
+ - [Nvidia’s New 4000-Series PC Graphics Cards Are Too Damn Expensive](https://kotaku.com/pc-nvidia-rtx-4090-4080-gpu-card-prices-crypto-scalping-1849560018)
+ - [Why low FOV in first-person games can make you feel nauseous](https://www.pcgamer.com/why-low-fov-in-first-person-games-can-make-you-feel-nauseous)
+ - [Game Pass Nabs One Of Steam&#39;s Biggest Hits](https://kotaku.com/xbox-game-pass-valheim-deathloop-fifa-23-ea-play-1849559980)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
