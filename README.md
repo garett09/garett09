@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheers](http://9gag.com/gag/a9qbZEm)
- - 🚯 [Reality of GTA 6](http://9gag.com/gag/abvXKXp)
- - 🚯 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)<!-- MEMES:END -->
+ - 🚖 [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
+ - 🚯 [Hahaha](http://9gag.com/gag/aOxKAN6)
+ - 🚯 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
 
 --- 
 
