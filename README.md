@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [East Coast supermarket chain Wegmans plans to temporarily stop using its Scan self-checkout app, introduced during the pandemic, due to theft and losses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220920/p12#a220920p12)
- - [How to Unsend and Edit Messages in iOS 16](https://www.wired.com/story/how-to-unsend-and-edit-messages-ios-16/)
- - [The US Is Measuring Extreme Heat Wrong](https://www.wired.com/story/the-us-is-measuring-extreme-heat-wrong/)<!-- TECH:END -->
+ - [Daily Deals Sept. 20: $199 Beats Studio3 Headphones, $899 12.9-inch iPad Pro, up to $700 off Samsung TVs, more!](https://appleinsider.com/articles/22/09/20/daily-deals-sept-20-199-beats-studio3-headphones-899-129-inch-ipad-pro-up-to-700-off-samsung-tvs-more?utm_medium=rss)
+ - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
+ - [PITAKA&#39;s MagEZ Case 3 line offers a near case-less feel for your iPhone 14](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
