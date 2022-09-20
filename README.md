@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues second iOS 16.1, tvOS 16.1, watchOS 9.1, third iPadOS 16.1 developer betas](https://appleinsider.com/articles/22/09/20/apple-issues-second-ios-161-tvos-161-watchos-91-third-ipados-161-developer-betas?utm_medium=rss)
- - [Apple seeds eighth beta of macOS Ventura to developers](https://appleinsider.com/articles/22/09/20/apple-seeds-eighth-beta-of-macos-ventura-to-developers?utm_medium=rss)
- - [How to use Apple Mail&#39;s Remind Me and Follow Up features](https://appleinsider.com/inside/ios-16/tips/how-to-use-apple-mails-remind-me-and-follow-up-features?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia says Isaac Sim, a robotics simulation service, is coming soon, and it expands its Jetson system-on-modules lineup with Orin Nano for low-powered robots &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220920/p34#a220920p34)
+ - [The Midnight Club’s first trailer looks like The Fault in Our Stars but with vengeful ghosts](https://www.theverge.com/2022/9/20/23363056/the-midnight-clubs-trailer-netflix)
+ - [Survey of US adults: 31% get news on Facebook, 25% on YouTube, 14% on Twitter, 13% on Instagram, and 10% on TikTok; 33% of TikTok users get news on the app &lpar;Pew Research Center&rpar;](http://www.techmeme.com/220920/p33#a220920p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
