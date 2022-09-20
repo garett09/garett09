@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says Isaac Sim, a robotics simulation service, is coming soon, and it expands its Jetson system-on-modules lineup with Orin Nano for low-powered robots &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220920/p34#a220920p34)
- - [The Midnight Club’s first trailer looks like The Fault in Our Stars but with vengeful ghosts](https://www.theverge.com/2022/9/20/23363056/the-midnight-clubs-trailer-netflix)
- - [Survey of US adults: 31% get news on Facebook, 25% on YouTube, 14% on Twitter, 13% on Instagram, and 10% on TikTok; 33% of TikTok users get news on the app &lpar;Pew Research Center&rpar;](http://www.techmeme.com/220920/p33#a220920p33)<!-- TECH:END -->
+ - [Google says it is integrating Google Tasks across Google Assistant and its suite of apps including Calendar &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220920/p35#a220920p35)
+ - [Paste issue fixed &amp; battery indicator refined in new iOS 16.1 beta](https://appleinsider.com/articles/22/09/20/paste-issue-fixed-battery-indicator-refined-in-new-ios-161-beta?utm_medium=rss)
+ - [T-Mobile Could Be Launching a Credit Card     - CNET](https://www.cnet.com/personal-finance/credit-cards/t-mobile-could-be-launching-a-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
