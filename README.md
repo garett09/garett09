@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia unveils DLSS 3 promising 4x frame rate increases for RTX 40-series GPUs](https://www.pcgamer.com/nvidia-dlss-3-performance)
- - [Fortnite: How to complete Reboot Rally quests and claim your rewards](https://www.pcgamer.com/fortnite-reboot-rally-quests-rewards)
- - [EA is making an Iron Man video game](https://www.polygon.com/23363111/iron-man-video-game-announced-ea-motive-studio)<!-- GAME:END -->
+ - [Fate: The Winx Saga creators wanted to up the magical girl ante with a big fairy transformation](https://www.polygon.com/23361628/fate-winx-saga-fairy-transformations-bloom)
+ - [Nvidia reveals RTX 4090 and RTX 4080, its most powerful consumer GPUs ever](https://www.polygon.com/23363148/nvidia-rtx-4090-4080-release-date-price)
+ - [Nvidia&#39;s new modding tools will add ray tracing to almost anything, even Morrowind](https://www.pcgamer.com/nvidia-rtx-remix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
