@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
- - 🚯 [Hahaha](http://9gag.com/gag/aOxKAN6)
+ - 🚯 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)
  - 🚯 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
 
 --- 
