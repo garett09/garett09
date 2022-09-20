@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia’s New 4000-Series PC Graphics Cards Are Too Damn Expensive](https://kotaku.com/pc-nvidia-rtx-4090-4080-gpu-card-prices-crypto-scalping-1849560018)
- - [Why low FOV in first-person games can make you feel nauseous](https://www.pcgamer.com/why-low-fov-in-first-person-games-can-make-you-feel-nauseous)
- - [Game Pass Nabs One Of Steam&#39;s Biggest Hits](https://kotaku.com/xbox-game-pass-valheim-deathloop-fifa-23-ea-play-1849559980)<!-- GAME:END -->
+ - [Overwatch 2’s lead hero designer has left Blizzard](https://www.polygon.com/23363932/overwatch-2-lead-character-designer-leaves-activision-blizzard)
+ - [NBA 2K23 review by jeuxvideo.com](https://game-rant-2022.blogspot.com/2022/09/nba-2k23-review-by-jeuxvideocom.html)
+ - [Four things to know about 8-6A teams before the district game](https://game-rant-2022.blogspot.com/2022/09/four-things-to-know-about-8-6a-teams.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
