@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s ‘Dislike’ Button Doesn’t Do What You Think](https://www.wired.com/story/youtube-dislike-button-mozilla-research/)
- - [YouTube’s ‘dislike’ and ‘not interested’ buttons barely work, study finds](https://www.theverge.com/2022/9/20/23356434/youtube-dislike-not-interested-buttons-bad-recommendations-mozilla-report)
- - [&#39;Rick and Morty&#39; Season 6, Episode 3: The Wine Cabinet Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-season-6-episode-3-the-wine-cabinet-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A study by Mozilla using YouTube recommendation data from 20,000+ users and 500M+ videos finds the &quot;dislike&quot; and &quot;not interested&quot; buttons have little impact &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220920/p7#a220920p7)
+ - [Apple to hike App Store prices across Europe and some parts of Asia next month](https://www.theverge.com/2022/9/20/23362635/apple-app-store-price-increase-europe-asia)
+ - [London-based Sequence, which offers APIs and other tools for pricing, billing, and related services, raised a $19M seed led by a16z &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220920/p6#a220920p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
