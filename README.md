@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is What It Sounds Like When Space Rocks Crash Into Mars     - CNET](https://www.cnet.com/science/space/this-is-what-it-sounds-like-when-space-rocks-crash-into-mars/#ftag=CAD590a51e)
- - [Google&#39;s Pixel Watch Will Reportedly Cost $350+     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-watch-will-reportedly-cost-350/#ftag=CAD590a51e)
- - [Adnan Syed of &#39;Serial&#39; Podcast a Free Man After Judge Vacates Murder Conviction     - CNET](https://www.cnet.com/culture/entertainment/adnan-syed-of-serial-podcast-out-of-prison-after-murder-case-overturned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An in-depth look at AI-generated media tools like Imagen, DALL-E 2, and Midjourney; Midjourney users are making concept art for clients and replacing stock art &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/220919/p28#a220919p28)
+ - [Microsoft eased up on one DRM hurdle for disc games on Xbox](https://www.theverge.com/2022/9/19/23356855/xbox-series-x-game-disc-drm-online-check-in)
+ - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
