@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little earthquake in Mexico Set 19th2022](http://9gag.com/gag/aqe9d4Y)
- - 🚯 [A fat white dude play 5 star level of Basketball](http://9gag.com/gag/ap9E8r5)
- - 🚯 [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)<!-- MEMES:END -->
+ - 🚖 [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)
+ - 🚯 [That is called life](http://9gag.com/gag/aKEwN9N)
+ - 🚯 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)<!-- MEMES:END -->
 
 --- 
 
