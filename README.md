@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Chromebook for 2022](https://www.theverge.com/21296102/best-chromebooks)
- - [Lowest price: Apple&#39;s iPad Pro 12.9-inch dips to $899 at Amazon](https://appleinsider.com/articles/22/09/19/lowest-price-apples-ipad-pro-129-inch-dips-to-899-at-amazon?utm_medium=rss)
- - [A look at Brian Armstrong&#39;s GiveCrypto, which started to financially empower those in need and aimed to raise $1B but turned into a mess of misplaced assurances &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/220920/p20#a220920p20)<!-- TECH:END -->
+ - [iPhone 14 Pro Max didn&#39;t get iPhone 14 repair improvements](https://appleinsider.com/articles/22/09/20/iphone-14-pro-max-didnt-get-iphone-14-repair-improvements?utm_medium=rss)
+ - [This US political site has started using AI to illustrate its articles](https://www.theverge.com/2022/9/20/23363073/ai-art-generator-illustrator-news-site-the-bulwark)
+ - [Filing: Twitter&#39;s lawyers will depose Elon Musk behind closed doors on September 26 and 27, with an option of a third day; Musk&#39;s attorney will also be deposed &lpar;Tina Davis/Bloomberg&rpar;](http://www.techmeme.com/220920/p25#a220920p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
