@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study by Mozilla using YouTube recommendation data from 20,000+ users and 500M+ videos finds the &quot;dislike&quot; and &quot;not interested&quot; buttons have little impact &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220920/p7#a220920p7)
- - [Apple to hike App Store prices across Europe and some parts of Asia next month](https://www.theverge.com/2022/9/20/23362635/apple-app-store-price-increase-europe-asia)
- - [London-based Sequence, which offers APIs and other tools for pricing, billing, and related services, raised a $19M seed led by a16z &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220920/p6#a220920p6)<!-- TECH:END -->
+ - [OpenAI’s image generator DALL-E can now edit human faces](https://www.theverge.com/2022/9/20/23362631/openai-dall-e-ai-art-generator-edit-realistic-faces-safety)
+ - [Two unannounced iPads may have been revealed by Logitech](https://appleinsider.com/articles/22/09/20/two-unannounced-ipads-may-have-been-revealed-by-logitech?utm_medium=rss)
+ - [A look at Finland-based Crea Nova, an internet service company that hosted hate and conspiracy-filled websites, and its connections to Russia &lpar;Elina Lappalainen/Helsingin Sanomat&rpar;](http://www.techmeme.com/220920/p10#a220920p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
