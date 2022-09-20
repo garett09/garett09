@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hahaha](http://9gag.com/gag/aOxKAN6)
- - 🚯 [The erasure of women](http://9gag.com/gag/ago3pQW)
- - 🚯 [Brave Hong Kongers openly defy Beijing by singing the banned protest anthem \u201cglory to Hong Kong\u201d yesterday](http://9gag.com/gag/aVbz972)<!-- MEMES:END -->
+ - 🚖 [And 42 cloves of garlic](http://9gag.com/gag/aeQjErv)
+ - 🚯 [Brave Hong Kongers openly defy Beijing by singing the banned protest anthem \u201cglory to Hong Kong\u201d yesterday](http://9gag.com/gag/aVbz972)
+ - 🚯 [Okay wait!](http://9gag.com/gag/aGEY6PX)<!-- MEMES:END -->
 
 --- 
 
