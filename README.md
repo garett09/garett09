@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is integrating Google Tasks across Google Assistant and its suite of apps including Calendar &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220920/p35#a220920p35)
- - [Paste issue fixed &amp; battery indicator refined in new iOS 16.1 beta](https://appleinsider.com/articles/22/09/20/paste-issue-fixed-battery-indicator-refined-in-new-ios-161-beta?utm_medium=rss)
- - [T-Mobile Could Be Launching a Credit Card     - CNET](https://www.cnet.com/personal-finance/credit-cards/t-mobile-could-be-launching-a-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says that, within a few weeks, Windows 11&#39;s support for Android apps via the Amazon Appstore will expand to 31 countries and include over 20,000 apps &lpar;Giorgio Sardo/Windows Experience Blog&rpar;](http://www.techmeme.com/220920/p38#a220920p38)
+ - [Robinhood adds USDC as the first stablecoin in its crypto lineup, while Binance and WazirX exchanges say they will delist USDC in favor of other stablecoins &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220920/p37#a220920p37)
+ - [How the Federal Reserve Affects Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
