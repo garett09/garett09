@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro Max didn&#39;t get iPhone 14 repair improvements](https://appleinsider.com/articles/22/09/20/iphone-14-pro-max-didnt-get-iphone-14-repair-improvements?utm_medium=rss)
- - [This US political site has started using AI to illustrate its articles](https://www.theverge.com/2022/9/20/23363073/ai-art-generator-illustrator-news-site-the-bulwark)
- - [Filing: Twitter&#39;s lawyers will depose Elon Musk behind closed doors on September 26 and 27, with an option of a third day; Musk&#39;s attorney will also be deposed &lpar;Tina Davis/Bloomberg&rpar;](http://www.techmeme.com/220920/p25#a220920p25)<!-- TECH:END -->
+ - [Apple issues second iOS 16.1, tvOS 16.1, watchOS 9.1, third iPadOS 16.1 developer betas](https://appleinsider.com/articles/22/09/20/apple-issues-second-ios-161-tvos-161-watchos-91-third-ipados-161-developer-betas?utm_medium=rss)
+ - [Apple seeds eighth beta of macOS Ventura to developers](https://appleinsider.com/articles/22/09/20/apple-seeds-eighth-beta-of-macos-ventura-to-developers?utm_medium=rss)
+ - [How to use Apple Mail&#39;s Remind Me and Follow Up features](https://appleinsider.com/inside/ios-16/tips/how-to-use-apple-mails-remind-me-and-follow-up-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
