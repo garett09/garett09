@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brave Hong Kongers openly defy Beijing by singing the banned protest anthem \u201cglory to Hong Kong\u201d yesterday](http://9gag.com/gag/aVbz972)
- - 🚯 [Apparently some people are seeing 10 ads now](http://9gag.com/gag/aPgwz3n)
- - 🚯 [Great to hear someone speak le truth](http://9gag.com/gag/adP04z2)<!-- MEMES:END -->
+ - 🚖 [Hahaha](http://9gag.com/gag/aOxKAN6)
+ - 🚯 [The erasure of women](http://9gag.com/gag/ago3pQW)
+ - 🚯 [Brave Hong Kongers openly defy Beijing by singing the banned protest anthem \u201cglory to Hong Kong\u201d yesterday](http://9gag.com/gag/aVbz972)<!-- MEMES:END -->
 
 --- 
 
