@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BatmanVsSuperman Ghetto version](http://9gag.com/gag/az2gBej)
- - 🚯 [One of you degenerate theme accounts](http://9gag.com/gag/a9qbZdo)
- - 🚯 [Saw 10](http://9gag.com/gag/amANd7d)<!-- MEMES:END -->
+ - 🚖 [Take it or leave it](http://9gag.com/gag/ay27KVM)
+ - 🚯 [USA Chief DEI officer under investigation for racism](http://9gag.com/gag/aQEPrQW)
+ - 🚯 [5 Jokers\u2026 1 acrylic painting.](http://9gag.com/gag/ago3d4W)<!-- MEMES:END -->
 
 --- 
 
