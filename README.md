@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The butcher visits the multiverse](http://9gag.com/gag/aNwrqLK)
- - 🚯 [Ahead of it&#39;s time.](http://9gag.com/gag/a9qbGQj)
- - 🚯 [Are you hungry?](http://9gag.com/gag/az2gQwj)<!-- MEMES:END -->
+ - 🚖 [Logic](http://9gag.com/gag/az2g3Zm)
+ - 🚯 [Wise words by a wise man](http://9gag.com/gag/ap9EMN9)
+ - 🚯 [It was just a prank bro](http://9gag.com/gag/aZDbGmz)<!-- MEMES:END -->
 
 --- 
 
