@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hippo vs Watermelon](http://9gag.com/gag/aVbz5pv)
- - 🚯 [Ever wondered how accurate the lost child age progression photos are? Check for yourself.](http://9gag.com/gag/aME2WvP)
- - 🚯 [Shhh](http://9gag.com/gag/a8qLOx6)<!-- MEMES:END -->
+ - 🚖 [London](http://9gag.com/gag/a9qbDy0)
+ - 🚯 [Wonder Woman at the gym](http://9gag.com/gag/armvd00)
+ - 🚯 [Is it accurate for you ?](http://9gag.com/gag/aNwrq1r)<!-- MEMES:END -->
 
 --- 
 
