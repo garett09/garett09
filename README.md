@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Bans Major Gambling Sites After Streamers Threaten Strike](https://kotaku.com/twitch-gambling-xqc-pokimane-stake-trainwreck-betting-1849560661)
- - [Twitch to update gambling policy in October](https://www.polygon.com/23364084/twitch-gambling-policy-update-official-statement)
- - [2K warns customers: Don&#39;t trust recent support emails, don&#39;t click on links](https://www.pcgamer.com/2K-games-support-hack)<!-- GAME:END -->
+ - [BTS is coming to Cookie Run: Kingdom to perform for all your sweeties](https://www.polygon.com/23363591/bts-cookie-run-kingdom-concert-k-pop-rm-v-jimin-suga-jin-jung-kook-j-hope-devsisters)
+ - [Other Developers Share Footage Of What Their Games Looked Like Early In Development](https://kotaku.com/control-sea-of-thieves-cult-lamb-development-early-clip-1849560888)
+ - [Twitch promises to ban streams of unlicensed gambling sites](https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
