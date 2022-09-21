@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [British SAS engaging taliban during the battle of Qala-i-Jangi - Afghanistan 2001](http://9gag.com/gag/abvXw3p)
- - 🚯 [Lily Collins](http://9gag.com/gag/aGEYv0z)
- - 🚯 [Big stretch](http://9gag.com/gag/a2KzVo1)<!-- MEMES:END -->
+ - 🚖 [BatmanVsSuperman Ghetto version](http://9gag.com/gag/az2gBej)
+ - 🚯 [One of you degenerate theme accounts](http://9gag.com/gag/a9qbZdo)
+ - 🚯 [Saw 10](http://9gag.com/gag/amANd7d)<!-- MEMES:END -->
 
 --- 
 
