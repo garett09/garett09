@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Super exciting](http://9gag.com/gag/aOxKOrv)
- - 🚯 [If they don\u2019t believe it, why should I?](http://9gag.com/gag/aZDbXg9)
- - 🚯 [And 42 cloves of garlic](http://9gag.com/gag/aeQjErv)<!-- MEMES:END -->
+ - 🚖 [It&#39;s a talent of mine](http://9gag.com/gag/aeQjwZQ)
+ - 🚯 [And 42 cloves of garlic](http://9gag.com/gag/aeQjErv)
+ - 🚯 [If they don\u2019t believe it, why should I?](http://9gag.com/gag/aZDbXg9)<!-- MEMES:END -->
 
 --- 
 
