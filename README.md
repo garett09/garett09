@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Just In: Putin declared `Partial Mobilization`. `Partial` probably means that only some body parts of the mobilized civilians return to Russia.](http://9gag.com/gag/a4oK00y)
- - 🚯 [Basically it is what I understood from the internet](http://9gag.com/gag/a3ZPOx3)
- - 🚯 [No more fear in Iran! Proud woman make it possible!](http://9gag.com/gag/aPgwqOg)<!-- MEMES:END -->
+ - 🚯 [Oh no! Anyway......](http://9gag.com/gag/aEqv4E9)
+ - 🚯 [Explain what lagging is, without saying it:](http://9gag.com/gag/aVbzyDM)<!-- MEMES:END -->
 
 --- 
 
