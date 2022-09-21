@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia has sprung the GPU pricing trap set by the pandemic years](https://www.pcgamer.com/nvidia-rtx-4090-price)
- - [Today&#39;s Wordle 459 answer and hint: Wednesday, September 21](https://www.pcgamer.com/todays-wordle-459-answer-hint)
- - [The best visual novel of 2017 is getting a sequel](https://www.pcgamer.com/the-best-visual-novel-of-2017-is-getting-a-sequel)<!-- GAME:END -->
+ - [&#39;Last man standing&#39; for floppy disks reckons it&#39;s four years &#39;till bust](https://www.pcgamer.com/floppy-disks-tom-persky)
+ - [What&#39;s the Nightfall weapon this week in Destiny 2?](https://www.pcgamer.com/destiny-2-nightfall-weapon-this-week)
+ - [Nvidia has sprung the GPU pricing trap set by the pandemic years](https://www.pcgamer.com/nvidia-rtx-4090-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
