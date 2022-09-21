@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based DoorLoop, which offers rental property management tools for small to mid-market landlords, raised a $20M Series A from Alpine Software Group &lpar;Katherine Kallergis/The Real Deal ...&rpar;](http://www.techmeme.com/220921/p6#a220921p6)
- - [At least one Android OEM is considering a Dynamic Island rip-off](https://www.androidauthority.com/apple-dynamic-island-android-realme-3211200/)
- - [A New York judge orders Tether to produce documents related to the backing of USDT in a lawsuit claiming Tether conspired to issue USDT to pump bitcoin prices &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220921/p5#a220921p5)<!-- TECH:END -->
+ - [MoonPay helps Universal Studios create a &quot;Halloween Horror Nights&quot; NFT scavenger hunt in its Orlando and Hollywood theme parks, minting up to 7M NFTs &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220921/p9#a220921p9)
+ - [YouTuber wrecks car to test iPhone 14 crash detection](https://appleinsider.com/articles/22/09/21/youtuber-wrecks-car-to-test-iphone-14-crash-detection?utm_medium=rss)
+ - [Microsoft Surface rumors heat up ahead of rumored October event](https://www.theverge.com/2022/9/21/23364645/microsoft-surface-pro-9-laptop-5-specs-rumors-price-intel-amd-arm-qualcomm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
