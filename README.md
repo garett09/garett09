@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MoonPay helps Universal Studios create a &quot;Halloween Horror Nights&quot; NFT scavenger hunt in its Orlando and Hollywood theme parks, minting up to 7M NFTs &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220921/p9#a220921p9)
- - [YouTuber wrecks car to test iPhone 14 crash detection](https://appleinsider.com/articles/22/09/21/youtuber-wrecks-car-to-test-iphone-14-crash-detection?utm_medium=rss)
- - [Microsoft Surface rumors heat up ahead of rumored October event](https://www.theverge.com/2022/9/21/23364645/microsoft-surface-pro-9-laptop-5-specs-rumors-price-intel-amd-arm-qualcomm)<!-- TECH:END -->
+ - [Nvidia’s RTX 6000 ADA professional GPU can create worlds and destroy wallets](https://www.theverge.com/2022/9/21/23364659/nvidia-rtx-6000-ada-professional-announcement-price-release)
+ - [The Apple Watch Series 8 Wants to Be Your Lifeline](https://www.wired.com/review/apple-watch-series-8-and-apple-watch-se/)
+ - [The Sad Clown Joke That Became a Beloved Meme](https://www.wired.com/story/great-clown-pagliacci-internet-meme/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
