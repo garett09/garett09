@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shhh](http://9gag.com/gag/a8qLOx6)
- - 🚯 [It&#39;s a talent of mine](http://9gag.com/gag/aeQjwZQ)
- - 🚯 [I like my peace if mind.](http://9gag.com/gag/ajVYwG0)<!-- MEMES:END -->
+ - 🚖 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)
+ - 🚯 [Basically it is what I understood from the internet](http://9gag.com/gag/a3ZPOx3)
+ - 🚯 [Controversial but true.](http://9gag.com/gag/amANZVo)<!-- MEMES:END -->
 
 --- 
 
