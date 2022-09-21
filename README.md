@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York judge orders Tether to produce documents related to the backing of USDT in a lawsuit claiming Tether conspired to issue USDT to pump bitcoin prices &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220921/p5#a220921p5)
- - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $20M Series A led by Initialized Capital at a $90M post-money valuation &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220921/p4#a220921p4)
- - [A follow-up to the Samsung Wireless Charger Trio could be in the works](https://www.androidauthority.com/samsung-wireless-charger-hub-3211196/)<!-- TECH:END -->
+ - [Miami-based DoorLoop, which offers rental property management tools for small to mid-market landlords, raised a $20M Series A from Alpine Software Group &lpar;Katherine Kallergis/The Real Deal ...&rpar;](http://www.techmeme.com/220921/p6#a220921p6)
+ - [At least one Android OEM is considering a Dynamic Island rip-off](https://www.androidauthority.com/apple-dynamic-island-android-realme-3211200/)
+ - [A New York judge orders Tether to produce documents related to the backing of USDT in a lawsuit claiming Tether conspired to issue USDT to pump bitcoin prices &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220921/p5#a220921p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
