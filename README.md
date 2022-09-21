@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Texas jury says Meta must pay walkie-talkie app maker Voxer an ongoing royalty and $174.5M+ in damages for violating patents with Facebook and Instagram Live &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/220921/p44#a220921p44)
- - [Framework’s new Chromebook is upgradable and customizable](https://www.theverge.com/2022/9/21/23363862/framework-laptop-chromebook-edition-laptop-design-specs-price-release)
- - [Instagram is working on a feature to protect users from receiving unsolicited nude photos in their DMs; Meta says the company won&#39;t be able to view the messages &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/220921/p43#a220921p43)<!-- TECH:END -->
+ - [Sensor Tower: TikTok Now, the BeReal clone debuted on September 18, is in the top 10 social networking apps in 39 countries and the top 100 apps in 24 countries &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220921/p45#a220921p45)
+ - [Larry Page’s flying car startup Kitty Hawk is shutting down](https://www.theverge.com/2022/9/21/23365557/kitty-hawk-larry-page-electric-vtol-shutdown)
+ - [NASA loads Artemis I rocket with fuel in major troubleshooting test](https://www.theverge.com/2022/9/21/23365231/nasa-artemis-1-rocket-liquid-hydrogen-fuel-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
