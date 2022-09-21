@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra review roundup: Best yet, with tradeoffs](https://appleinsider.com/articles/22/09/21/apple-watch-ultra-review-roundup-best-yet-with-tradeoffs?utm_medium=rss)
- - [Coinbase announces Node, a set of APIs to build on multiple blockchains, including support for NFTs; the free plan offers up to 120K daily Ethereum requests &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220921/p22#a220921p22)
- - [In Strange World’s new trailer, sci-fi adventuring is a family affair](https://www.theverge.com/23364814/disney-strange-world-trailer)<!-- TECH:END -->
+ - [Messari, which offers Bloomberg Terminal-style reports and data on crypto, raised a $35M Series B led by Brevan Howard Digital &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/220921/p24#a220921p24)
+ - [MacBook Pro price war rages on with 14-inch model dipping to $1,599 &lpar;$400 off&rpar;](https://appleinsider.com/articles/22/09/21/macbook-pro-price-war-rages-on-with-14-inch-model-dipping-to-1599-400-off?utm_medium=rss)
+ - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
