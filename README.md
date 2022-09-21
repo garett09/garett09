@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a &quot;Fall 2022 Event&quot; for October 12, where it will &quot;talk about devices&quot;, amid rumors of a Surface Pro 9, Surface Laptop 5, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220921/p36#a220921p36)
- - [PITAKA&#39;s MagSafe cases for iPhone 14 are world&#39;s thinnest, lightest](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)
- - [See Jupiter&#39;s &#39;Frosted Cupcake&#39; Clouds in Wild, Swirling 3D Views     - CNET](https://www.cnet.com/science/space/see-jupiters-frosted-cupcake-clouds-in-wild-swirling-3d-views/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is testing a way to mute the Xbox startup sound](https://www.theverge.com/2022/9/21/23365465/xbox-startup-sound-series-x-s-mute-turn-off-insider-preview)
+ - [Florida&#39;s attorney general asks the US Supreme Court whether the First Amendment prohibits states from regulating how social media companies moderate content &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220921/p38#a220921p38)
+ - [How to use Action mode on the iPhone 14 and iPhone 14 Pro](https://www.theverge.com/23365409/action-mode-iphone-14-pro-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
