@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework and Google partner to launch the $999 Framework Laptop Chromebook Edition, a user-upgradeable model running Chrome OS, shipping in early December &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220921/p30#a220921p30)
- - [What apps, notifications &amp; alerts utilize Dynamic Island on iPhone 14 Pro](https://appleinsider.com/articles/22/09/21/what-apps-notifications-alerts-utilize-dynamic-island-on-iphone-14-pro?utm_medium=rss)
- - [India expands its incentives for chip and display manufacturers, including covering 50% of capital expenditure when setting up a semiconductor plant &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220921/p29#a220921p29)<!-- TECH:END -->
+ - [An interview with Alabama Securities Commission Director Joe Borg on why US state regulators protected investors from crypto fraud more quickly than the SEC &lpar;Tory Newmyer/Washington Post&rpar;](http://www.techmeme.com/220921/p32#a220921p32)
+ - [A hacker used 2K Games’ support desk to send gamers malware](https://www.theverge.com/2022/9/21/23364866/2k-games-support-desk-hack-malware-redline)
+ - [California Voted for Cheaper Uber Rides. It May Have Hurt Drivers](https://www.wired.com/story/california-voted-for-cheaper-uber-rides-it-may-have-hurt-drivers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
