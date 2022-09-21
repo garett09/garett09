@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Last man standing&#39; for floppy disks reckons it&#39;s four years &#39;till bust](https://www.pcgamer.com/floppy-disks-tom-persky)
- - [What&#39;s the Nightfall weapon this week in Destiny 2?](https://www.pcgamer.com/destiny-2-nightfall-weapon-this-week)
- - [Nvidia has sprung the GPU pricing trap set by the pandemic years](https://www.pcgamer.com/nvidia-rtx-4090-price)<!-- GAME:END -->
+ - [Devs show off how bad early game builds look after moans about GTA 6&#39;s visuals](https://www.pcgamer.com/devs-show-off-how-bad-early-game-builds-look-after-moans-about-gta-6s-visuals)
+ - [What’s really happening in the Star Wars timeline when Andor starts](https://www.polygon.com/star-wars/23356922/andor-star-wars-timeline-movies-prequel-rebel-alliance)
+ - [Level up your gaming with O2&#39;s game-changing Switch Up](https://www.pcgamer.com/level-up-your-gaming-with-o2s-game-changing-switch-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
