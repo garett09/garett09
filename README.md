@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [London](http://9gag.com/gag/a9qbDy0)
- - 🚯 [Wonder Woman at the gym](http://9gag.com/gag/armvd00)
- - 🚯 [Is it accurate for you ?](http://9gag.com/gag/aNwrq1r)<!-- MEMES:END -->
+ - 🚖 [Happy birthday to horror master Stephen King](http://9gag.com/gag/a9qbgXm)
+ - 🚯 [Transformers](http://9gag.com/gag/a9qbB3j)
+ - 🚯 [Daddy fooled you](http://9gag.com/gag/ajVYym0)<!-- MEMES:END -->
 
 --- 
 
