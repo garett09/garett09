@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)
+ - 🚖 [Just In: Putin declared `Partial Mobilization`. `Partial` probably means that only some body parts of the mobilized civilians return to Russia.](http://9gag.com/gag/a4oK00y)
  - 🚯 [Basically it is what I understood from the internet](http://9gag.com/gag/a3ZPOx3)
- - 🚯 [Controversial but true.](http://9gag.com/gag/amANZVo)<!-- MEMES:END -->
+ - 🚯 [No more fear in Iran! Proud woman make it possible!](http://9gag.com/gag/aPgwqOg)<!-- MEMES:END -->
 
 --- 
 
