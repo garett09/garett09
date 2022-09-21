@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Publisher Take-Two&#39;s Awful Week Gets Worse With Another Disastrous Hack](https://kotaku.com/2k-support-take-two-hack-leak-gta6-nba-2k23-phishing-1849562111)
- - [Valorant is inching closer to telling players they&#39;re bad people](https://www.pcgamer.com/valorant-is-inching-closer-to-telling-players-theyre-bad-people)
- - [The Texas Chain Saw Massacre game is a desperate scramble for survival](https://www.polygon.com/23361235/texas-chain-saw-massacre-gameplay-preview-family-victims)<!-- GAME:END -->
+ - [Top Twitch Streamer Mizkif Suspended From Pro Gaming Org For Alleged Sexual Assault &#39;Cover Up&#39;](https://kotaku.com/twitch-streamer-crazyslick-mizkif-maya-gambling-assault-1849560465)
+ - [The creation of Tunic’s invaluable in-game manual](https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/)
+ - [No Place for Bravery’s Sekiro-esque combat isn’t punishing — it’s unfair](https://www.polygon.com/reviews/23363733/no-place-for-bravery-review-action-rpg-2d-sekiro-combat-platforms-release-date-pc-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
