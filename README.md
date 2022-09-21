@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch plans to prohibit streaming unlicensed gambling sites with slots, roulette, or dice games on October 18, amid the fallout from a streamer&#39;s gambling scam &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220920/p45#a220920p45)
- - [Twitch to ban Stake.com streams and other unlicensed gambling content](https://www.theverge.com/2022/9/20/23364080/twitch-gambling-ban-stake-slots-roulette-dice-games)
- - [Lina Khan says she&#39;s &quot;extremely disturbed&quot; by, and looking closely at, Mudge&#39;s claim that Twitter misled the FTC about its compliance with a 2011 consent decree &lpar;Chris Matthews/MarketWatch&rpar;](http://www.techmeme.com/220920/p44#a220920p44)<!-- TECH:END -->
+ - [Here&#39;s where to save on Apple&#39;s brand-new AirPods Pro 2](https://appleinsider.com/articles/22/09/21/heres-where-to-save-on-apples-brand-new-airpods-pro-2?utm_medium=rss)
+ - [Meta is testing letting average users inform its speech policies, which started with a pilot from February-April 2022 on &quot;problematic&quot; climate info on Facebook &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220920/p47#a220920p47)
+ - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-binge-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
