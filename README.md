@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy birthday to horror master Stephen King](http://9gag.com/gag/a9qbgXm)
- - 🚯 [Transformers](http://9gag.com/gag/a9qbB3j)
- - 🚯 [Daddy fooled you](http://9gag.com/gag/ajVYym0)<!-- MEMES:END -->
+ - 🚖 [British SAS engaging taliban during the battle of Qala-i-Jangi - Afghanistan 2001](http://9gag.com/gag/abvXw3p)
+ - 🚯 [Lily Collins](http://9gag.com/gag/aGEYv0z)
+ - 🚯 [Big stretch](http://9gag.com/gag/a2KzVo1)<!-- MEMES:END -->
 
 --- 
 
