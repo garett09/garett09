@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Messari, which offers Bloomberg Terminal-style reports and data on crypto, raised a $35M Series B led by Brevan Howard Digital &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/220921/p24#a220921p24)
- - [MacBook Pro price war rages on with 14-inch model dipping to $1,599 &lpar;$400 off&rpar;](https://appleinsider.com/articles/22/09/21/macbook-pro-price-war-rages-on-with-14-inch-model-dipping-to-1599-400-off?utm_medium=rss)
- - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)<!-- TECH:END -->
+ - [Framework and Google partner to launch the $999 Framework Laptop Chromebook Edition, a user-upgradeable model running Chrome OS, shipping in early December &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220921/p30#a220921p30)
+ - [What apps, notifications &amp; alerts utilize Dynamic Island on iPhone 14 Pro](https://appleinsider.com/articles/22/09/21/what-apps-notifications-alerts-utilize-dynamic-island-on-iphone-14-pro?utm_medium=rss)
+ - [India expands its incentives for chip and display manufacturers, including covering 50% of capital expenditure when setting up a semiconductor plant &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220921/p29#a220921p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
