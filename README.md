@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found it in the intrawebz](http://9gag.com/gag/a3ZPeEv)
- - 🚯 [Lena why?](http://9gag.com/gag/aXn03Kv)
- - 🚯 [The mental gymnastics people do to defend this atrocious world cup is ridiculous](http://9gag.com/gag/anzq3m0)<!-- MEMES:END -->
+ - 🚖 [Borders and walls](http://9gag.com/gag/aGEYQvK)
+ - 🚯 [My anniversary. 10 years of this shit. I hate you all.](http://9gag.com/gag/a9qbgGo)
+ - 🚯 [So i have found a friend](http://9gag.com/gag/awZ02gD)<!-- MEMES:END -->
 
 --- 
 
