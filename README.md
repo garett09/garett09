@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s where to save on Apple&#39;s brand-new AirPods Pro 2](https://appleinsider.com/articles/22/09/21/heres-where-to-save-on-apples-brand-new-airpods-pro-2?utm_medium=rss)
- - [Meta is testing letting average users inform its speech policies, which started with a pilot from February-April 2022 on &quot;problematic&quot; climate info on Facebook &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220920/p47#a220920p47)
- - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-binge-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp announces an &quot;expanded partnership&quot; with Salesforce to let businesses manage their WhatsApp conversations with customers from the Salesforce platform &lpar;Anumeha Chaturvedi/The Economic Times&rpar;](http://www.techmeme.com/220920/p52#a220920p52)
+ - [Tesla Megapack battery fire is ‘fully controlled,’ shelter-in-place advisory lifted](https://www.theverge.com/2022/9/20/23363345/tesla-megapack-battery-fire-california-monterey-pg-and-e)
+ - [Nvidia unveils its first SaaS and IaaS offering, Omniverse Cloud, a services suite for artists, developers, and enterprise teams to build and run metaverse apps &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220920/p51#a220920p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
