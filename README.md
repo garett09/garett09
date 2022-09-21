@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just In: Putin declared `Partial Mobilization`. `Partial` probably means that only some body parts of the mobilized civilians return to Russia.](http://9gag.com/gag/a4oK00y)
- - 🚯 [Oh no! Anyway......](http://9gag.com/gag/aEqv4E9)
- - 🚯 [Explain what lagging is, without saying it:](http://9gag.com/gag/aVbzyDM)<!-- MEMES:END -->
+ - 🚖 [A Simp Lord?](http://9gag.com/gag/a9qbDgj)
+ - 🚯 [Ever dream has a meaning. My dreams :](http://9gag.com/gag/amANKz6)
+ - 🚯 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)<!-- MEMES:END -->
 
 --- 
 
