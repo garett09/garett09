@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BMW M1](http://9gag.com/gag/amAN4K9)
- - 🚯 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
- - 🚯 [5 Jokers\u2026 1 acrylic painting.](http://9gag.com/gag/ago3d4W)<!-- MEMES:END -->
+ - 🚖 [Found it in the intrawebz](http://9gag.com/gag/a3ZPeEv)
+ - 🚯 [Lena why?](http://9gag.com/gag/aXn03Kv)
+ - 🚯 [The mental gymnastics people do to defend this atrocious world cup is ridiculous](http://9gag.com/gag/anzq3m0)<!-- MEMES:END -->
 
 --- 
 
