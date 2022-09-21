@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe&#39;s Figma retention package may be the biggest since Facebook bought WhatsApp in 2014, exceeding deal packages from Auth0, LinkedIn, Mobileye, and Slack &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220921/p2#a220921p2)
- - [Tel Aviv-based 4M Analytics, which aims to be the Google Maps of the US&#39; underground utility infrastructure, raised $30M, bringing its Series A total to $45M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220921/p1#a220921p1)
- - [20,000,000,000,000,000 Ants Inhabit the Earth, Scientists Estimate     - CNET](https://www.cnet.com/science/biology/20-quadrillion-ants-inhabit-the-earth-scientists-estimate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $20M Series A led by Initialized Capital at a $90M post-money valuation &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220921/p4#a220921p4)
+ - [A follow-up to the Samsung Wireless Charger Trio could be in the works](https://www.androidauthority.com/samsung-wireless-charger-hub-3211196/)
+ - [About 230 Whales Are Stranded Along Tasmania&#39;s West Coast, Only Half Remain Alive     - CNET](https://www.cnet.com/science/biology/about-230-whales-are-stranded-along-tasmanias-west-coast-only-half-remain-alive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
