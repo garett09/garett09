@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sewage explosion](http://9gag.com/gag/aDYA9B9)
- - 🚯 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)
- - 🚯 [Consequence](http://9gag.com/gag/a8qLnmV)<!-- MEMES:END -->
+ - 🚖 [Hippo vs Watermelon](http://9gag.com/gag/aVbz5pv)
+ - 🚯 [Ever wondered how accurate the lost child age progression photos are? Check for yourself.](http://9gag.com/gag/aME2WvP)
+ - 🚯 [Shhh](http://9gag.com/gag/a8qLOx6)<!-- MEMES:END -->
 
 --- 
 
