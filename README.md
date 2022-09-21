@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [26 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [The Xbox September Update Rolls Out Today](https://news.xbox.com/en-us/2022/09/21/xbox-september-update-rolls-out-today/)
- - [Ted Lasso and his soccer team are in FIFA 23 — officially](https://www.polygon.com/23353480/fifa-23-ted-lasso-afc-richmond-roster-clubs-official)<!-- GAME:END -->
+ - [The high price of Disney Lorcana cards is a good sign for fans of collectible card games](https://www.polygon.com/23364950/lorcana-card-prices-ebay-tcg-ccg-magic-pokemon)
+ - [Play Halo Infinite, Deathloop, and More with Xbox Cloud Gaming on the Logitech G CLOUD Handheld](https://news.xbox.com/en-us/2022/09/21/play-halo-infinite-deathloop-and-more-with-xbox-cloud-gaming-on-the-logitech-g-cloud-handheld/)
+ - [Holy cow, Dark Souls 3 PC servers are offline again](https://www.pcgamer.com/holy-cow-dark-souls-3-pc-servers-are-offline-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
