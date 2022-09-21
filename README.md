@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s RTX 6000 ADA professional GPU can create worlds and destroy wallets](https://www.theverge.com/2022/9/21/23364659/nvidia-rtx-6000-ada-professional-announcement-price-release)
- - [The Apple Watch Series 8 Wants to Be Your Lifeline](https://www.wired.com/review/apple-watch-series-8-and-apple-watch-se/)
- - [The Sad Clown Joke That Became a Beloved Meme](https://www.wired.com/story/great-clown-pagliacci-internet-meme/)<!-- TECH:END -->
+ - [Netgear’s new Nighthawk USB dongle can add 6GHz Wi-Fi to your PC for $89.99](https://www.theverge.com/2022/9/21/23363030/netgear-nighthawk-a8000-wifi-6e-usb-dongle-pc-price)
+ - [Twitch is cutting how much its biggest streamers earn from subscriptions](https://www.theverge.com/2022/9/21/23364050/twitch-subscription-revenue-split-share-premium-partners)
+ - [TikTok expands its political content rules to limit fundraising by politicians and political groups, ahead of a full ban on fundraising &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220921/p15#a220921p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
