@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Simp Lord?](http://9gag.com/gag/a9qbDgj)
- - 🚯 [Ever dream has a meaning. My dreams :](http://9gag.com/gag/amANKz6)
- - 🚯 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)<!-- MEMES:END -->
+ - 🚖 [Hehe](http://9gag.com/gag/ay27vpM)
+ - 🚯 [Shhh](http://9gag.com/gag/a8qLOx6)
+ - 🚯 [Gotcha! It was all just attention seeking.](http://9gag.com/gag/a6qm8GR)<!-- MEMES:END -->
 
 --- 
 
