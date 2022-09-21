@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a talent of mine](http://9gag.com/gag/aeQjwZQ)
- - 🚯 [And 42 cloves of garlic](http://9gag.com/gag/aeQjErv)
- - 🚯 [If they don\u2019t believe it, why should I?](http://9gag.com/gag/aZDbXg9)<!-- MEMES:END -->
+ - 🚖 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)
+ - 🚯 [The perfect socks don\u2019t exist..](http://9gag.com/gag/aYVN0YN)
+ - 🚯 [Well tuned body clocks unite](http://9gag.com/gag/aVbz5mK)<!-- MEMES:END -->
 
 --- 
 
