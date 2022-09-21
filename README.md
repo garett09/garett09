@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Larry Page&#39;s flying car startup Kittyhawk says it will &quot;wind down&quot; and is &quot;working on the details of what&#39;s next&quot;; Kittyhawk was founded as Zee.Aero in 2010 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220921/p40#a220921p40)
- - [A leaked presentation shows that Google is working on royalty-free media formats for HDR video and 3D audio, in an effort internally known as Project Caviar &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220921/p39#a220921p39)
- - [Sega Dreamcast’s iconic memory card is making a &lpar;fundraised&rpar; comeback](https://www.theverge.com/2022/9/21/23365268/sega-dreamcast-vmu-virtual-memory-unit-card-2022-fundraiser-indiegogo-console)<!-- TECH:END -->
+ - [2K, owned by Take Two Interactive and publisher of Bioshock, Xcom, and popular sports games, says its help desk was hacked and sent customers links to malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220921/p41#a220921p41)
+ - [Google’s making it even easier to remove your personal info from search](https://www.theverge.com/2022/9/21/23365349/google-results-about-you-tool-personal-info-search)
+ - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
