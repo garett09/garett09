@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Alabama Securities Commission Director Joe Borg on why US state regulators protected investors from crypto fraud more quickly than the SEC &lpar;Tory Newmyer/Washington Post&rpar;](http://www.techmeme.com/220921/p32#a220921p32)
- - [A hacker used 2K Games’ support desk to send gamers malware](https://www.theverge.com/2022/9/21/23364866/2k-games-support-desk-hack-malware-redline)
- - [California Voted for Cheaper Uber Rides. It May Have Hurt Drivers](https://www.wired.com/story/california-voted-for-cheaper-uber-rides-it-may-have-hurt-drivers/)<!-- TECH:END -->
+ - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [Microsoft announces a Surface event for October 12th](https://www.theverge.com/2022/9/21/23365300/microsoft-surface-event-date-time-october-12th)
+ - [Sources: to cut costs by 10%+ in a few months, Meta is nudging out a significant number of staff by reorganizing and giving a window to apply for other roles &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220921/p34#a220921p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
