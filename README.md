@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Logic](http://9gag.com/gag/az2g3Zm)
- - 🚯 [Wise words by a wise man](http://9gag.com/gag/ap9EMN9)
- - 🚯 [It was just a prank bro](http://9gag.com/gag/aZDbGmz)<!-- MEMES:END -->
+ - 🚖 [BMW M1](http://9gag.com/gag/amAN4K9)
+ - 🚯 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
+ - 🚯 [5 Jokers\u2026 1 acrylic painting.](http://9gag.com/gag/ago3d4W)<!-- MEMES:END -->
 
 --- 
 
