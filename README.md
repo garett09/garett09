@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netgear’s new Nighthawk USB dongle can add 6GHz Wi-Fi to your PC for $89.99](https://www.theverge.com/2022/9/21/23363030/netgear-nighthawk-a8000-wifi-6e-usb-dongle-pc-price)
- - [Twitch is cutting how much its biggest streamers earn from subscriptions](https://www.theverge.com/2022/9/21/23364050/twitch-subscription-revenue-split-share-premium-partners)
- - [TikTok expands its political content rules to limit fundraising by politicians and political groups, ahead of a full ban on fundraising &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220921/p15#a220921p15)<!-- TECH:END -->
+ - [Apple Watch Ultra review roundup: Best yet, with tradeoffs](https://appleinsider.com/articles/22/09/21/apple-watch-ultra-review-roundup-best-yet-with-tradeoffs?utm_medium=rss)
+ - [Coinbase announces Node, a set of APIs to build on multiple blockchains, including support for NFTs; the free plan offers up to 120K daily Ethereum requests &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220921/p22#a220921p22)
+ - [In Strange World’s new trailer, sci-fi adventuring is a family affair](https://www.theverge.com/23364814/disney-strange-world-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
