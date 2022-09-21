@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Microsoft announces a Surface event for October 12th](https://www.theverge.com/2022/9/21/23365300/microsoft-surface-event-date-time-october-12th)
- - [Sources: to cut costs by 10%+ in a few months, Meta is nudging out a significant number of staff by reorganizing and giving a window to apply for other roles &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220921/p34#a220921p34)<!-- TECH:END -->
+ - [Microsoft announces a &quot;Fall 2022 Event&quot; for October 12, where it will &quot;talk about devices&quot;, amid rumors of a Surface Pro 9, Surface Laptop 5, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220921/p36#a220921p36)
+ - [PITAKA&#39;s MagSafe cases for iPhone 14 are world&#39;s thinnest, lightest](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)
+ - [See Jupiter&#39;s &#39;Frosted Cupcake&#39; Clouds in Wild, Swirling 3D Views     - CNET](https://www.cnet.com/science/space/see-jupiters-frosted-cupcake-clouds-in-wild-swirling-3d-views/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
