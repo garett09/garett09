@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BTS is coming to Cookie Run: Kingdom to perform for all your sweeties](https://www.polygon.com/23363591/bts-cookie-run-kingdom-concert-k-pop-rm-v-jimin-suga-jin-jung-kook-j-hope-devsisters)
- - [Other Developers Share Footage Of What Their Games Looked Like Early In Development](https://kotaku.com/control-sea-of-thieves-cult-lamb-development-early-clip-1849560888)
- - [Twitch promises to ban streams of unlicensed gambling sites](https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 4090 targets 300+ FPS at 1440p with low latency for competitive shooters](https://www.pcgamer.com/nvidias-rtx-4090-targets-300-fps-at-1440p-with-low-latency-for-competitive-shooters)
+ - [A 25-year-old MMO is finally getting sound](https://www.pcgamer.com/a-25-year-old-mmo-is-finally-getting-sound)
+ - [Star Citizen Has Now Raised Over Half A Billion Dollars](https://kotaku.com/star-citizen-funding-money-raised-half-billion-rsi-1849561335)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
