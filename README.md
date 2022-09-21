@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Top Twitch Streamer Mizkif Suspended From Pro Gaming Org For Alleged Sexual Assault &#39;Cover Up&#39;](https://kotaku.com/twitch-streamer-crazyslick-mizkif-maya-gambling-assault-1849560465)
- - [The creation of Tunic’s invaluable in-game manual](https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/)
- - [No Place for Bravery’s Sekiro-esque combat isn’t punishing — it’s unfair](https://www.polygon.com/reviews/23363733/no-place-for-bravery-review-action-rpg-2d-sekiro-combat-platforms-release-date-pc-switch)<!-- GAME:END -->
+ - [26 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [The Xbox September Update Rolls Out Today](https://news.xbox.com/en-us/2022/09/21/xbox-september-update-rolls-out-today/)
+ - [Ted Lasso and his soccer team are in FIFA 23 — officially](https://www.polygon.com/23353480/fifa-23-ted-lasso-afc-richmond-roster-clubs-official)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
