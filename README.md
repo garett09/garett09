@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Python directory traversal vulnerability disclosed in August 2007, but never patched, likely affects 350K+ open-source projects and can lead to code execution &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220921/p46#a220921p46)
- - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)
- - [Microsoft is redesigning Windows 11’s photos app again](https://www.theverge.com/2022/9/21/23365892/microsoft-windows-11-photos-redesigning-photos-app-video-editor-clipchamp)<!-- TECH:END -->
+ - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/22/23365405/automatic-emergency-braking-test-t-bone-intersection-aaa)
+ - [Switzerland-based GRNGrid, a Layer 1 DeFi blockchain that lets users transact on nodes running exclusively on renewable energy, raised $50M from GEM Digital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220921/p50#a220921p50)
+ - [India&#39;s central bank launches UPI Lite with eight banks to make sub $2.50 transactions faster and simpler on the country&#39;s most popular digital payments network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220921/p49#a220921p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
