@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘GameStop Daycare’ Is A Thing And Employees Are Tired Of It](https://kotaku.com/gamestop-daycare-mario-kart-switch-babysitter-meme-1849565530)
- - [Well knock me down with a feather, it&#39;s yet another $160 million crypto hack](https://www.pcgamer.com/well-knock-me-down-with-a-feather-its-yet-another-dollar160-million-crypto-hack)
- - [Metal: Hellsinger review](https://www.pcgamer.com/metal-hellsinger-review)<!-- GAME:END -->
+ - [The 13 best games on PC](https://www.polygon.com/reviews/2018/9/28/17886950/best-pc-games-windows-mac-steam)
+ - [Texas Chain Saw Massacre makes multiplayer horror scary again](https://www.pcgamer.com/texas-chain-saw-massacre-makes-multiplayer-horror-scary-again)
+ - [People scramble to download extensive GTA 4 mod after it&#39;s hit by DMCA takedown](https://www.pcgamer.com/people-scramble-to-download-extensive-gta-4-mod-after-its-hit-by-dmca-takedown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
