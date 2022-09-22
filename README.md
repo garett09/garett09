@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#39;ll need this one soon](http://9gag.com/gag/amANQ49)
- - 🚯 [Overclocking the new 4090](http://9gag.com/gag/ay27wZ8)
- - 🚯 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
+ - 🚖 [And why shouldn&#39;t I eat the mushroom?](http://9gag.com/gag/a6qm0ye)
+ - 🚯 [How to `jump` your car battery the right way.](http://9gag.com/gag/aME2gRx)
+ - 🚯 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)<!-- MEMES:END -->
 
 --- 
 
