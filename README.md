@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even The Rings of Power title sequence contains hidden secrets about the show](https://www.polygon.com/23365021/rings-of-power-opening-credits-sequence-explainer-how)
- - [To evolve, Law &amp; Order had to axe one of its long-running characters](https://www.polygon.com/23361720/law-order-svu-amanda-collins-kelli-giddish-cast)
- - [Square Enix’s Babylon’s Fall was such a misfire, GameStop is giving it away for free](https://www.polygon.com/23367080/bablyon-fall-square-enix-offline-gamestop-free)<!-- GAME:END -->
+ - [Rockstar Locks Social Media Comments In Wake Of GTA VI Leak Spread](https://kotaku.com/gta-vi-6-hacker-leak-uber-lapsus-rockstar-teapot-1849569292)
+ - [Your Fall 2022 Anime Guide: What To Watch, Binge, And Obsess Over](https://kotaku.com/anime-fall-2022-guide-what-to-watch-binge-and-stream-1849569424)
+ - [Everyone’s grown up in the new Dragon Prince trailer](https://www.polygon.com/23367200/the-dragon-prince-season-4-netflix-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
