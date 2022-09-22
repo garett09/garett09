@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
- - 🚯 [Adorable smol danger noodle](http://9gag.com/gag/aPgwL6q)
- - 🚯 [I really do](http://9gag.com/gag/aqe9M7L)<!-- MEMES:END -->
+ - 🚖 [Just here to counteract the grim and political post with some cuteness from our new puppies](http://9gag.com/gag/amAN3R2)
+ - 🚯 [Copy and waste](http://9gag.com/gag/avQpNzM)
+ - 🚯 [Battlefield](http://9gag.com/gag/armvEGX)<!-- MEMES:END -->
 
 --- 
 
