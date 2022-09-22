@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet&#39;s Biggest Overwatch 2 Questions, Answered](https://kotaku.com/overwatch-2-release-date-seasonal-skins-blizzard-pc-1849570005)
- - [Destiny 2 Gives Up On New Challenge, Tacitly Admitting There&#39;s A Much Bigger Problem](https://kotaku.com/destiny-2-witch-queen-season-18-plunder-lfg-bungie-1849569718)
- - [Children&#39;s MMO beset by trolling server announcements was victim of outside intrusion](https://www.pcgamer.com/disgruntled-employee-spams-players-of-14-year-old-mmo-with-profanity-laden-official-notifications)<!-- GAME:END -->
+ - [Trombone Champ creator sounds off about baboons, trombone traphouse, and Goku vs Vegeta](https://www.pcgamer.com/trombone-champ-creator-sounds-off-about-baboons-trombone-traphouse-and-goku-vs-vegeta)
+ - [Cyberpunk 2077 is now pulling in more than 1 million players per day](https://www.pcgamer.com/cyberpunk-2077-is-now-pulling-in-more-than-1-million-players-per-day)
+ - [The Internet&#39;s Biggest Overwatch 2 Questions, Answered](https://kotaku.com/overwatch-2-release-date-seasonal-skins-blizzard-pc-1849570005)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
