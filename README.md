@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trombone Champ’s developers want to take the game ‘farther than we originally planned’](https://www.theverge.com/2022/9/22/23366935/trombone-champ-holy-wow-studios-developers-future-plans-success)
- - [Instagram is having some major problems right now](https://www.theverge.com/2022/9/22/23367113/instagram-down-outage-app-crashing-stories-meta)
- - [DJI releases Osmo Mobile 6 for video stabilization on smartphones](https://appleinsider.com/articles/22/09/22/dji-releases-osmo-mobile-6-for-video-stabilization-on-smartphones?utm_medium=rss)<!-- TECH:END -->
+ - [How to remove the search button from iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-remove-the-search-button-from-ios-16?utm_medium=rss)
+ - [Instagram’s recovering from some major problems](https://www.theverge.com/2022/9/22/23367113/instagram-down-outage-app-crashing-stories-meta)
+ - [Estonia-based 3Commas, an automated crypto trading and portfolio management service, has raised a $37M Series B &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220922/p34#a220922p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
