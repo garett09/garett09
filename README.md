@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 16.0.2 with a fix for a bug that could make the camera vibrate in some third-party apps on iPhone 14 Pro and iPhone 14 Pro Max &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220922/p37#a220922p37)
- - [A look at anti-pornography &quot;accountability apps&quot; used by churches; two apps exploited Android&#39;s accessibility permissions to monitor congregants&#39; every move &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/220922/p36#a220922p36)
- - [The Dynamic Island is already available on Android devices](https://www.theverge.com/2022/9/22/23366972/android-dynamic-island-spot-app-androidos)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-bose-microsoft-sale)
+ - [New Windows 11 Features That Make the 2022 Update Worth It     - CNET](https://www.cnet.com/tech/services-and-software/new-windows-11-features-that-make-the-2022-update-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
