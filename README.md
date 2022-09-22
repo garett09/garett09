@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Overclocking the new 4090](http://9gag.com/gag/ay27wZ8)
- - 🚯 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
+ - 🚖 [We&#39;ll need this one soon](http://9gag.com/gag/amANQ49)
+ - 🚯 [Overclocking the new 4090](http://9gag.com/gag/ay27wZ8)
  - 🚯 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
 
 --- 
