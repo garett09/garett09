@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian conscripts already drunk on their way to Ukraine](http://9gag.com/gag/amAXX1X)
- - 🚯 [No abusive behavior in sight](http://9gag.com/gag/aA0YYBE)
- - 🚯 [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t be weak](http://9gag.com/gag/aBdRAwz)
+ - 🚯 [Scene from &#39;Monster: The Jeffrey Dahmer Story&#39; compared to the actual trial in 1992](http://9gag.com/gag/anzYe9z)
+ - 🚯 [Copy and waste](http://9gag.com/gag/avQpNzM)<!-- MEMES:END -->
 
 --- 
 
