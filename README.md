@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunt: Showdown devs appear to be cooking up some kind of horrible, pilotable bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)
- - [Congressman Under Investigation For &#39;Sex Trafficking&#39; Caps Off Twitch&#39;s Worst Week Ever](https://kotaku.com/twitch-matt-gaetz-gambling-crypto-scam-sex-predator-1849570942)
- - [Please Amazon, make up with Tencent so we can have a Rings of Power MMO](https://www.pcgamer.com/rings-of-power-mmo-amazon)<!-- GAME:END -->
+ - [Steam Has New Sales &amp; Popularity Charts, And They&#39;re Great](https://kotaku.com/steam-valve-sales-charts-most-played-pc-popular-1849571329)
+ - [This throwback sci-fi FPS is like the Jedi Knight 4 we never got](https://www.pcgamer.com/this-throwback-sci-fi-fps-is-like-the-jedi-knight-4-we-never-got)
+ - [Hunt: Showdown devs appear to be cooking up some kind of horrible, pilotable bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
