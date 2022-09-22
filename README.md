@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Worry Darling, it’s exactly what you think](https://www.polygon.com/reviews/23365915/dont-worry-darling-review-florence-pugh-harry-styles)
- - [6 Things You Need to Know About The DioField Chronicle](https://news.xbox.com/en-us/2022/09/22/6-things-you-need-to-know-about-the-diofield-chronicle/)
- - [Lil Nas X’s new League of Legends anthem Star Walkin’ comes with a mecha music video](https://www.polygon.com/23366879/lil-nas-x-star-walkin-song-league-of-legends-worlds-anthem-2022-video)<!-- GAME:END -->
+ - [Square Enix’s Babylon’s Fall was such a misfire, GameStop is giving it away for free](https://www.polygon.com/23367080/bablyon-fall-square-enix-offline-gamestop-free)
+ - [Logitech G Pro Racing Wheel and Pedals](https://www.pcgamer.com/logitech-g-pro-racing-wheel-pedals-review)
+ - [Why &#39;90s cult film fans will love Serial Cleaners](https://www.pcgamer.com/why-90s-cult-film-fans-will-love-serial-cleaners)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
