@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t be weak](http://9gag.com/gag/aBdRAwz)
- - 🚯 [Scene from &#39;Monster: The Jeffrey Dahmer Story&#39; compared to the actual trial in 1992](http://9gag.com/gag/anzYe9z)
- - 🚯 [Copy and waste](http://9gag.com/gag/avQpNzM)<!-- MEMES:END -->
+ - 🚖 [Gotta go.](http://9gag.com/gag/aME2MKV)
+ - 🚯 [Copy and waste](http://9gag.com/gag/avQpNzM)
+ - 🚯 [Exploitation of the working class, in one graph](http://9gag.com/gag/aPgwE2B)<!-- MEMES:END -->
 
 --- 
 
