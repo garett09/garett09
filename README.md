@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal: Hellsinger review](https://www.pcgamer.com/metal-hellsinger-review)
- - [PUBG permabans Steam chargeback fraudsters](https://www.pcgamer.com/pubg-permabans-steam-chargeback-fraudsters)
- - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)<!-- GAME:END -->
+ - [‘GameStop Daycare’ Is A Thing And Employees Are Tired Of It](https://kotaku.com/gamestop-daycare-mario-kart-switch-babysitter-meme-1849565530)
+ - [Well knock me down with a feather, it&#39;s yet another $160 million crypto hack](https://www.pcgamer.com/well-knock-me-down-with-a-feather-its-yet-another-dollar160-million-crypto-hack)
+ - [Metal: Hellsinger review](https://www.pcgamer.com/metal-hellsinger-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
