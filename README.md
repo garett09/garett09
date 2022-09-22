@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/22/23365405/automatic-emergency-braking-test-t-bone-intersection-aaa)
- - [Switzerland-based GRNGrid, a Layer 1 DeFi blockchain that lets users transact on nodes running exclusively on renewable energy, raised $50M from GEM Digital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220921/p50#a220921p50)
- - [India&#39;s central bank launches UPI Lite with eight banks to make sub $2.50 transactions faster and simpler on the country&#39;s most popular digital payments network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220921/p49#a220921p49)<!-- TECH:END -->
+ - [PolicyLink study: California rideshare drivers make a net median of $6.20/hour after costs and could make an additional ~$10.50/hour if classified as employees &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/220922/p2#a220922p2)
+ - [Spain fines food delivery app Glovo &amp;euro;79M for allegedly denying 10,600+ riders a labor contract since the country&#39;s &quot;riders law&quot; came into effect in August 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220922/p1#a220922p1)
+ - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/22/23365405/automatic-emergency-braking-test-t-bone-intersection-aaa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
