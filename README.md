@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenStore, an e-commerce roll-up company for Shopify merchants, raised $32M led by Lux at a $970M valuation, up 25% from November 2021 when it raised $75M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220922/p22#a220922p22)
- - [A look at the quiet success of AirPods, which sold an estimated 120M units in 2021, and how Apple&#39;s upcoming VR headset could be the next product to do so &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220922/p21#a220922p21)
- - [Apple Watch Ultra is impressive, but can&#39;t replace my dive watch just yet](https://appleinsider.com/articles/22/09/22/apple-watch-ultra-is-impressive-but-cant-replace-my-dive-watch-just-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Pixelmator Pro 3.0 adds quick change mockups, colors and template designs](https://appleinsider.com/articles/22/09/22/pixelmator-pro-30-adds-quick-change-mockups-colors-and-template-designs?utm_medium=rss)
+ - [Luka Dončić has been turned into a MetaHuman](https://www.theverge.com/2022/9/22/23366106/luka-doncic-metahuman-luk-ai-tiktok)
+ - [DJI releases Osmo Mobile 6 for video stabilization on smartphones](https://appleinsider.com/articles/22/09/22/dji-releases-osmo-mobile-6-for-video-stabilization-on-smartphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
