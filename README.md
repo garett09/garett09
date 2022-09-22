@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k you, Google](http://9gag.com/gag/armvEvK)
- - 🚯 [Gotta go.](http://9gag.com/gag/aME2MKV)
- - 🚯 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)<!-- MEMES:END -->
+ - 🚖 [Overclocking the new 4090](http://9gag.com/gag/ay27wZ8)
+ - 🚯 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
+ - 🚯 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
 
 --- 
 
