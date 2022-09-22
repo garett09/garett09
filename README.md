@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation, based on ~160K documents from Roskomnadzor, details Russia&#39;s vast surveillance and censorship apparatus, which helps Putin maintain his regime &lpar;New York Times&rpar;](http://www.techmeme.com/220922/p16#a220922p16)
- - [This RTX 4090 is so ridiculous it needs a ‘Dark Obelisk’ RGB support stick](https://www.theverge.com/2022/9/22/23366539/nvidia-rtx-4090-galax-dark-obelisk-support-stick-lol)
- - [Disney, P&amp;G, LVMH, and other large companies have hired chief metaverse officers, seeking to capitalize on Web3, but questions remain about their usefulness &lpar;Matthew Boyle/Bloomberg&rpar;](http://www.techmeme.com/220922/p15#a220922p15)<!-- TECH:END -->
+ - [OpenStore, an e-commerce roll-up company for Shopify merchants, raised $32M led by Lux at a $970M valuation, up 25% from November 2021 when it raised $75M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220922/p22#a220922p22)
+ - [A look at the quiet success of AirPods, which sold an estimated 120M units in 2021, and how Apple&#39;s upcoming VR headset could be the next product to do so &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220922/p21#a220922p21)
+ - [Apple Watch Ultra is impressive, but can&#39;t replace my dive watch just yet](https://appleinsider.com/articles/22/09/22/apple-watch-ultra-is-impressive-but-cant-replace-my-dive-watch-just-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
