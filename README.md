@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Linux Tool Aims to Guard Against Supply Chain Attacks](https://www.wired.com/story/chainguard-wolfi-linux-distribution/)
- - [Alphabet&#39;s DeepMind unveils Sparrow, an AI chatbot that learns from human feedback and searches Google for information to support its claims &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220922/p25#a220922p25)
- - [videogamedunkey launches an indie game publishing company](https://www.theverge.com/2022/9/22/23365263/videogamedunkey-publishing-company-bigmode)<!-- TECH:END -->
+ - [How to watch Netflix’s Tudum event this weekend](https://www.theverge.com/2022/9/22/23366805/netflix-tudum-2022-the-witcher-knives-out-3-body-problem)
+ - [US Lawmakers Push Tech Firms on Abortion Benefits for Gig Workers](https://www.wired.com/story/lawmakers-pressure-tech-companies-over-abortion-benefits-for-gig-workers/)
+ - [Nintendo is releasing the first Mario movie trailer next month](https://www.theverge.com/2022/9/22/23278118/mario-movie-teaser-trailer-nintendo-premiere-chris-pratt-illumination)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
