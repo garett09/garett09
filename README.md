@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to remove the search button from iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-remove-the-search-button-from-ios-16?utm_medium=rss)
- - [Instagram’s recovering from some major problems](https://www.theverge.com/2022/9/22/23367113/instagram-down-outage-app-crashing-stories-meta)
- - [Estonia-based 3Commas, an automated crypto trading and portfolio management service, has raised a $37M Series B &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220922/p34#a220922p34)<!-- TECH:END -->
+ - [Satechi&#39;s new multiport USB-C dock features a 2.5G Ethernet port](https://appleinsider.com/articles/22/09/22/satechis-new-multiport-usb-c-dock-features-a-25g-ethernet-port?utm_medium=rss)
+ - [Some civil rights groups say they have seen little action from Meta, Twitter, TikTok, and YouTube to bolster election policies ahead of the 2022 US midterms &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/220922/p35#a220922p35)
+ - [How fiber-optic cables helped researchers eavesdrop on whales](https://www.theverge.com/23365279/whales-fiber-optic-cables-eavesdrop-arctic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
