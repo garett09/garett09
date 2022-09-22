@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 13 best games on PC](https://www.polygon.com/reviews/2018/9/28/17886950/best-pc-games-windows-mac-steam)
- - [Texas Chain Saw Massacre makes multiplayer horror scary again](https://www.pcgamer.com/texas-chain-saw-massacre-makes-multiplayer-horror-scary-again)
- - [People scramble to download extensive GTA 4 mod after it&#39;s hit by DMCA takedown](https://www.pcgamer.com/people-scramble-to-download-extensive-gta-4-mod-after-its-hit-by-dmca-takedown)<!-- GAME:END -->
+ - [Splatoon 3 is a world governed by chaos — and that rules](https://www.polygon.com/23365591/splatoon-3-lore-alterna-splatfest-nintendo-switch)
+ - [Twitch Streamers Are Pissed That Amazon Is Taking More Of Their Money For BS Reasons](https://kotaku.com/twitch-amazon-sub-youtube-streamer-revenue-split-1849567938)
+ - [Near Dark returns to streaming with Criterion Channel’s fantastic October ’80s horror lineup](https://www.polygon.com/2022/9/22/23366699/near-dark-watch-criterion-channel-horror-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
