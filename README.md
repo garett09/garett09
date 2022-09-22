@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi&#39;s new multiport USB-C dock features a 2.5G Ethernet port](https://appleinsider.com/articles/22/09/22/satechis-new-multiport-usb-c-dock-features-a-25g-ethernet-port?utm_medium=rss)
- - [Some civil rights groups say they have seen little action from Meta, Twitter, TikTok, and YouTube to bolster election policies ahead of the 2022 US midterms &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/220922/p35#a220922p35)
- - [How fiber-optic cables helped researchers eavesdrop on whales](https://www.theverge.com/23365279/whales-fiber-optic-cables-eavesdrop-arctic)<!-- TECH:END -->
+ - [Apple releases iOS 16.0.2 with a fix for a bug that could make the camera vibrate in some third-party apps on iPhone 14 Pro and iPhone 14 Pro Max &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220922/p37#a220922p37)
+ - [A look at anti-pornography &quot;accountability apps&quot; used by churches; two apps exploited Android&#39;s accessibility permissions to monitor congregants&#39; every move &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/220922/p36#a220922p36)
+ - [The Dynamic Island is already available on Android devices](https://www.theverge.com/2022/9/22/23366972/android-dynamic-island-spot-app-androidos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
