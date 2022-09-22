@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 is a world governed by chaos — and that rules](https://www.polygon.com/23365591/splatoon-3-lore-alterna-splatfest-nintendo-switch)
- - [Twitch Streamers Are Pissed That Amazon Is Taking More Of Their Money For BS Reasons](https://kotaku.com/twitch-amazon-sub-youtube-streamer-revenue-split-1849567938)
- - [Near Dark returns to streaming with Criterion Channel’s fantastic October ’80s horror lineup](https://www.polygon.com/2022/9/22/23366699/near-dark-watch-criterion-channel-horror-movies)<!-- GAME:END -->
+ - [Don’t Worry Darling, it’s exactly what you think](https://www.polygon.com/reviews/23365915/dont-worry-darling-review-florence-pugh-harry-styles)
+ - [6 Things You Need to Know About The DioField Chronicle](https://news.xbox.com/en-us/2022/09/22/6-things-you-need-to-know-about-the-diofield-chronicle/)
+ - [Lil Nas X’s new League of Legends anthem Star Walkin’ comes with a mecha music video](https://www.polygon.com/23366879/lil-nas-x-star-walkin-song-league-of-legends-worlds-anthem-2022-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
