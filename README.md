@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta ordered to pay Voxer $175 million for violating live-streaming patents](https://www.theverge.com/2022/9/22/23366516/meta-facebook-instagram-175-million-violation-voxer-live-streaming-patents)
- - [India proposes a legal framework to regulate over-the-top communications services, such as WhatsApp and Signal, including seeking access to data &lpar;Livemint&rpar;](http://www.techmeme.com/220922/p12#a220922p12)
- - [Sources: seeking to increase profits, Coinbase hired Wall Street traders and explored using its own cash to trade crypto in 2021, including a $100M transaction &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/220922/p11#a220922p11)<!-- TECH:END -->
+ - [An investigation, based on ~160K documents from Roskomnadzor, details Russia&#39;s vast surveillance and censorship apparatus, which helps Putin maintain his regime &lpar;New York Times&rpar;](http://www.techmeme.com/220922/p16#a220922p16)
+ - [This RTX 4090 is so ridiculous it needs a ‘Dark Obelisk’ RGB support stick](https://www.theverge.com/2022/9/22/23366539/nvidia-rtx-4090-galax-dark-obelisk-support-stick-lol)
+ - [Disney, P&amp;G, LVMH, and other large companies have hired chief metaverse officers, seeking to capitalize on Web3, but questions remain about their usefulness &lpar;Matthew Boyle/Bloomberg&rpar;](http://www.techmeme.com/220922/p15#a220922p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
