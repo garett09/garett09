@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Totally expected nothing and found gold instead &lpar;Title: Cyberpunk: Edgerunners&rpar;](http://9gag.com/gag/axodK6K)
- - 🚯 [It&#39;s precious.](http://9gag.com/gag/aEqv4px)
- - 🚯 [Becky. Pls.](http://9gag.com/gag/aGEYNvz)<!-- MEMES:END -->
+ - 🚖 [F**k you, Google](http://9gag.com/gag/armvEvK)
+ - 🚯 [Gotta go.](http://9gag.com/gag/aME2MKV)
+ - 🚯 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)<!-- MEMES:END -->
 
 --- 
 
