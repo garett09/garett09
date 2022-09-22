@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix’s Babylon’s Fall was such a misfire, GameStop is giving it away for free](https://www.polygon.com/23367080/bablyon-fall-square-enix-offline-gamestop-free)
- - [Logitech G Pro Racing Wheel and Pedals](https://www.pcgamer.com/logitech-g-pro-racing-wheel-pedals-review)
- - [Why &#39;90s cult film fans will love Serial Cleaners](https://www.pcgamer.com/why-90s-cult-film-fans-will-love-serial-cleaners)<!-- GAME:END -->
+ - [Even The Rings of Power title sequence contains hidden secrets about the show](https://www.polygon.com/23365021/rings-of-power-opening-credits-sequence-explainer-how)
+ - [To evolve, Law &amp; Order had to axe one of its long-running characters](https://www.polygon.com/23361720/law-order-svu-amanda-collins-kelli-giddish-cast)
+ - [Square Enix’s Babylon’s Fall was such a misfire, GameStop is giving it away for free](https://www.polygon.com/23367080/bablyon-fall-square-enix-offline-gamestop-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
