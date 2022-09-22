@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-bose-microsoft-sale)
- - [New Windows 11 Features That Make the 2022 Update Worth It     - CNET](https://www.cnet.com/tech/services-and-software/new-windows-11-features-that-make-the-2022-update-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Forget Leaks: Google Itself Reveals Pixel Watch Design on YouTube     - CNET](https://www.cnet.com/tech/mobile/forget-leaks-google-itself-reveals-pixel-watch-design-on-youtube/#ftag=CAD590a51e)
+ - [In 70+ lawsuits against Meta, Snap, TikTok, and Google, parents are making product liability claims, blaming algorithms for kids&#39; mental health issues, and more &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/220922/p39#a220922p39)
+ - [Facebook Parent Meta Impacted Palestinians&#39; Human Rights, Report Says     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-impacted-palestinians-human-rights-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
