@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to `jump` your car battery the right way.](http://9gag.com/gag/aME2gRx)
- - 🚯 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
- - 🚯 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
+ - 🚖 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
+ - 🚯 [Adorable smol danger noodle](http://9gag.com/gag/aPgwL6q)
+ - 🚯 [I really do](http://9gag.com/gag/aqe9M7L)<!-- MEMES:END -->
 
 --- 
 
