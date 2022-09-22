@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trombone Champ creator sounds off about baboons, trombone traphouse, and Goku vs Vegeta](https://www.pcgamer.com/trombone-champ-creator-sounds-off-about-baboons-trombone-traphouse-and-goku-vs-vegeta)
- - [Cyberpunk 2077 is now pulling in more than 1 million players per day](https://www.pcgamer.com/cyberpunk-2077-is-now-pulling-in-more-than-1-million-players-per-day)
- - [The Internet&#39;s Biggest Overwatch 2 Questions, Answered](https://kotaku.com/overwatch-2-release-date-seasonal-skins-blizzard-pc-1849570005)<!-- GAME:END -->
+ - [Hunt: Showdown devs appear to be cooking up some kind of horrible, pilotable bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)
+ - [Congressman Under Investigation For &#39;Sex Trafficking&#39; Caps Off Twitch&#39;s Worst Week Ever](https://kotaku.com/twitch-matt-gaetz-gambling-crypto-scam-sex-predator-1849570942)
+ - [Please Amazon, make up with Tencent so we can have a Rings of Power MMO](https://www.pcgamer.com/rings-of-power-mmo-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
