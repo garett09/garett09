@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just here to counteract the grim and political post with some cuteness from our new puppies](http://9gag.com/gag/amAN3R2)
- - 🚯 [Copy and waste](http://9gag.com/gag/avQpNzM)
- - 🚯 [Battlefield](http://9gag.com/gag/armvEGX)<!-- MEMES:END -->
+ - 🚖 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
+ - 🚯 [And it begins](http://9gag.com/gag/aGE9KxG)
+ - 🚯 [Real men of genius](http://9gag.com/gag/aPgwNmG)<!-- MEMES:END -->
 
 --- 
 
