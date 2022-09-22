@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Netflix’s Tudum event this weekend](https://www.theverge.com/2022/9/22/23366805/netflix-tudum-2022-the-witcher-knives-out-3-body-problem)
- - [US Lawmakers Push Tech Firms on Abortion Benefits for Gig Workers](https://www.wired.com/story/lawmakers-pressure-tech-companies-over-abortion-benefits-for-gig-workers/)
- - [Nintendo is releasing the first Mario movie trailer next month](https://www.theverge.com/2022/9/22/23278118/mario-movie-teaser-trailer-nintendo-premiere-chris-pratt-illumination)<!-- TECH:END -->
+ - [Trombone Champ’s developers want to take the game ‘farther than we originally planned’](https://www.theverge.com/2022/9/22/23366935/trombone-champ-holy-wow-studios-developers-future-plans-success)
+ - [Instagram is having some major problems right now](https://www.theverge.com/2022/9/22/23367113/instagram-down-outage-app-crashing-stories-meta)
+ - [DJI releases Osmo Mobile 6 for video stabilization on smartphones](https://appleinsider.com/articles/22/09/22/dji-releases-osmo-mobile-6-for-video-stabilization-on-smartphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
