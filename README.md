@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Leaks: Google Itself Reveals Pixel Watch Design on YouTube     - CNET](https://www.cnet.com/tech/mobile/forget-leaks-google-itself-reveals-pixel-watch-design-on-youtube/#ftag=CAD590a51e)
- - [In 70+ lawsuits against Meta, Snap, TikTok, and Google, parents are making product liability claims, blaming algorithms for kids&#39; mental health issues, and more &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/220922/p39#a220922p39)
- - [Facebook Parent Meta Impacted Palestinians&#39; Human Rights, Report Says     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-impacted-palestinians-human-rights-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Valve overhauls Steam’s stats page with new real-time charts](https://www.theverge.com/2022/9/22/23367646/valve-steam-stats-page-new-real-time-top-selling-most-played-charts)
+ - [AccessFintech, which helps financial institutions collaborate by sharing data, has raised a $60M Series C led by WestCap, bringing its total funding to $97M &lpar;Finextra&rpar;](http://www.techmeme.com/220922/p40#a220922p40)
+ - [Get ready to say goodbye to Fitbit accounts](https://www.androidauthority.com/fitbit-accounts-ending-3212066/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
