@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Better Birth Is Possible](https://www.wired.com/story/ruha-benjamin-pregnancy-black-maternal-mortality/)
- - [Salt Lake City-based Zartico, which offers analytics and visualizations to government-affiliated tourism boards, raised a $20M Series A led by Arthur Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220922/p7#a220922p7)
- - [South Korea details more &quot;abnormal&quot; foreign exchange transactions, most related to crypto, bringing the total to $7.2B since June; 72% went to Hong Kong &lpar;Kyungji Cho/Bloomberg&rpar;](http://www.techmeme.com/220922/p6#a220922p6)<!-- TECH:END -->
+ - [Meta ordered to pay Voxer $175 million for violating live-streaming patents](https://www.theverge.com/2022/9/22/23366516/meta-facebook-instagram-175-million-violation-voxer-live-streaming-patents)
+ - [India proposes a legal framework to regulate over-the-top communications services, such as WhatsApp and Signal, including seeking access to data &lpar;Livemint&rpar;](http://www.techmeme.com/220922/p12#a220922p12)
+ - [Sources: seeking to increase profits, Coinbase hired Wall Street traders and explored using its own cash to trade crypto in 2021, including a $100M transaction &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/220922/p11#a220922p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
