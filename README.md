@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Battlefield](http://9gag.com/gag/armvEGX)
- - 🚯 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
- - 🚯 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)<!-- MEMES:END -->
+ - 🚖 [Russian conscripts already drunk on their way to Ukraine](http://9gag.com/gag/amAXX1X)
+ - 🚯 [No abusive behavior in sight](http://9gag.com/gag/aA0YYBE)
+ - 🚯 [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)<!-- MEMES:END -->
 
 --- 
 
