@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok’s Ugly ‘NPC In Real Life’ Trend Reflects The Worst Side Of Growing Up Online](https://kotaku.com/tiktok-npc-in-real-life-trend-twitter-gen-z-video-games-1849575169)
- - [This Week on Xbox: Upcoming Releases and Updates](https://news.xbox.com/en-us/2022/09/23/this-week-on-xbox-upcoming-releases-and-updates/)
- - [In This Modern-Day Bushido Blade-Style Fighting Game It’s One Hit And You’re Toast](https://kotaku.com/die-by-the-blade-triple-hill-interactive-bushido-blade-1849574897)<!-- GAME:END -->
+ - [Marvel’s Spider-Man: Miles Morales Coming To PC Later This Fall](https://kotaku.com/spider-man-miles-morales-port-pc-steam-insomniac-1849575501)
+ - [Dragon Ball’s Unsung Hero Finally Takes Center Stage In The Breakers](https://kotaku.com/dragon-ball-the-breakers-farmer-majin-buu-anime-dimps-1849574913)
+ - [The Cyberpunk Netflix show is taking over the 2077 mod scene](https://www.pcgamer.com/the-cyberpunk-netflix-show-is-taking-over-the-2077-mod-scene)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
