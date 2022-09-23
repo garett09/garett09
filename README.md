@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta go.](http://9gag.com/gag/aME2MKV)
- - 🚯 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)
- - 🚯 [Can a German explain to me the meaning of this song? , she plays a lot on the radio here in Brazil until today, I would like to know her real meaning](http://9gag.com/gag/aEqv3V9)<!-- MEMES:END -->
+ - 🚖 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)
+ - 🚯 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
+ - 🚯 [You know the rules](http://9gag.com/gag/aqe9qxR)<!-- MEMES:END -->
 
 --- 
 
