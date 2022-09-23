@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sync multiple Apple Watches to one iPhone](https://appleinsider.com/inside/apple-watch/tips/how-to-sync-multiple-apple-watches-to-one-iphone?utm_medium=rss)
- - [Digimon Fans Still Exist—and They’re the Keepers of Its Future](https://www.wired.com/story/digimon-fandom-keepers-of-its-future/)
- - [The Elk Live Bridge Lets You Jam Together Online](https://www.wired.com/review/elk-live-bridge/)<!-- TECH:END -->
+ - [NFT firms say Apple rules make the App Store &#39;impossible&#39;](https://appleinsider.com/articles/22/09/23/nft-firms-say-apple-rules-make-the-app-store-impossible?utm_medium=rss)
+ - [Apple Watch Ultra review: an aspirational debut](https://www.theverge.com/23363948/apple-watch-ultra-review-rugged-smartwatch-gps)
+ - [Netflix is on a good run with anime lately](https://www.theverge.com/23367211/netflix-anime-cyberpunk-drifting-home-thermae-romae)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
