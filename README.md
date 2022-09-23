@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s Klee is dancing her way through thousands of TikToks](https://www.polygon.com/23368690/genshin-impact-meme-ar-tiktok)
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/23361211/new-movies-watch-minions-netflix-athena-jujutsu-kaisen-0-crunchyroll)
- - [Marvel’s Spider-Man: Miles Morales Coming To PC Later This Fall](https://kotaku.com/spider-man-miles-morales-port-pc-steam-insomniac-1849575501)<!-- GAME:END -->
+ - [Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
+ - [Everyone is sus in this cute, paranoia-inducing Among Us song](https://www.pcgamer.com/everyone-is-sus-in-this-cute-paranoia-inducing-among-us-song)
+ - [Zachtronics combined tarot with solitaire, and it&#39;s my new daily jam](https://www.pcgamer.com/zachtronics-combined-tarot-with-solitaire-and-its-my-new-daily-jam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
