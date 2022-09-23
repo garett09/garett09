@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
- - [Bullet-hell FPS Hyper Demon is like staring point-blank into an eldritch stargate](https://www.polygon.com/reviews/23367314/bullet-hell-fps-hyper-demon-review-platforms-pc)
- - [The Story Behind Mortal Kombat’s Iconic Dragon Logo](https://kotaku.com/mortal-kombat-arcade-12-dragon-logo-history-ed-boon-1849573670)<!-- GAME:END -->
+ - [Trombone Champ Is Now A Steam Top Seller, Which Is Fantastic](https://kotaku.com/trombone-champ-steam-pc-top-10-games-holy-wow-1849573950)
+ - [London cops arrest teen on hacking suspicions, but haven’t linked it to GTA 6 leak](https://www.polygon.com/23368472/gta-6-leak-arrest-london-uber)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
