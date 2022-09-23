@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)
- - [Slack and Teams’ Lax App Security Raises Alarms](https://www.wired.com/story/slack-microsoft-teams-app-security/)
- - [How to unpair an Apple Watch](https://www.theverge.com/23368317/unpair-apple-watch-iphone-how-to)<!-- TECH:END -->
+ - [It sure looks like we’re getting new MacBook Pros in October](https://www.theverge.com/2022/9/23/23368699/apple-macbook-pro-m2-max-q4-2022)
+ - [&#39;Made by Google&#39; joins fall tech event fray on October 6](https://appleinsider.com/articles/22/09/23/made-by-google-joins-fall-tech-event-fray-on-october-6?utm_medium=rss)
+ - [Leak suggests the Pixel 7 and Pixel 7 Pro are keeping their great prices](https://www.theverge.com/2022/9/23/23368678/google-pixel-7-pro-price-leak-pixel-6-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
