@@ -195,7 +195,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Godzilla did the drop kick it made me cry, such scene really do changed my life](http://9gag.com/gag/aZDb9bp)
+ - 🚖 [Typical US healthcare system](http://9gag.com/gag/ajVrY08)
  - 🚯 [Live action remake of Finding Nemo looks weird](http://9gag.com/gag/aXn0D96)
  - 🚯 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
