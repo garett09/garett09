@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trombone Champ Is Now A Steam Top Seller, Which Is Fantastic](https://kotaku.com/trombone-champ-steam-pc-top-10-games-holy-wow-1849573950)
- - [London cops arrest teen on hacking suspicions, but haven’t linked it to GTA 6 leak](https://www.polygon.com/23368472/gta-6-leak-arrest-london-uber)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
+ - [The Rings of Power’s two trees are a major invention for the Lord of the Rings canon](https://www.polygon.com/23367438/rings-power-song-mithril-tree-balrog)
+ - [Rick Sanchez is heading to MultiVersus ‘soon’](https://www.polygon.com/23368739/multiversus-rick-new-character)
+ - [Where to find Xur in Destiny 2 this week &lpar;Sept 23-27&rpar;](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/23/23368755/destiny-2-xur-location-items-sept-23-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
