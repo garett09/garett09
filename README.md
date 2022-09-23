@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It sure looks like we’re getting new MacBook Pros in October](https://www.theverge.com/2022/9/23/23368699/apple-macbook-pro-m2-max-q4-2022)
- - [&#39;Made by Google&#39; joins fall tech event fray on October 6](https://appleinsider.com/articles/22/09/23/made-by-google-joins-fall-tech-event-fray-on-october-6?utm_medium=rss)
- - [Leak suggests the Pixel 7 and Pixel 7 Pro are keeping their great prices](https://www.theverge.com/2022/9/23/23368678/google-pixel-7-pro-price-leak-pixel-6-pro)<!-- TECH:END -->
+ - [How to use Collaboration in iMessage on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-collaboration-in-imessage-on-ios-16?utm_medium=rss)
+ - [Did Logitech Reveal a New White Xbox Series X?     - CNET](https://www.cnet.com/tech/gaming/did-logitech-reveal-a-new-white-xbox-series-x/#ftag=CAD590a51e)
+ - [Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here&#39;s How to Watch     - CNET](https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
