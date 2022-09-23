@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scene from &#39;Monster: The Jeffrey Dahmer Story&#39; compared to the actual trial in 1992](http://9gag.com/gag/anzYe9z)
- - 🚯 [Chad Samwise Gamgee](http://9gag.com/gag/aBdK9pz)
- - 🚯 [Aim bro](http://9gag.com/gag/ap9EMwM)<!-- MEMES:END -->
+ - 🚖 [Gotta go.](http://9gag.com/gag/aME2MKV)
+ - 🚯 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)
+ - 🚯 [Can a German explain to me the meaning of this song? , she plays a lot on the radio here in Brazil until today, I would like to know her real meaning](http://9gag.com/gag/aEqv3V9)<!-- MEMES:END -->
 
 --- 
 
