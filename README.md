@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music to sponsor Super Bowl halftime show amidst push into sports](https://www.theverge.com/2022/9/23/23368143/apple-music-super-bowl-lvii-halftime-show-february-2023-sports-streaming-services)
- - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: Sept. 23&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)
- - [Best Cordless Impact Wrench for 2022     - CNET](https://www.cnet.com/roadshow/news/best-cordless-impact-wrench/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paris-based Prophesee, a fabless semiconductor startup building neuromorphic vision systems, raised a &amp;euro;50M Series C, bringing its total funding to ~&amp;euro;130M &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220923/p6#a220923p6)
+ - [Apple Music sponsoring NFL&#39;s Super Bowl half-time show](https://appleinsider.com/articles/22/09/23/nfl-apple-music?utm_medium=rss)
+ - [Australian telecom Optus suffers a cyberattack, potentially giving the hacker access to data on up to 9.8M customers, per the CEO; the police are investigating &lpar;Alice Uribe/Wall Street Journal&rpar;](http://www.techmeme.com/220923/p5#a220923p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
