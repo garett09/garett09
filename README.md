@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sorry, Nintendo, Everyone’s Having A Hard Time Remembering It’s Tears Of The Kingdom, Not BOTW 2](https://kotaku.com/zelda-botw-2-tears-of-the-kingdom-nintendo-switch-title-1849572571)
- - [Sly Cooper celebrates 20 years today](https://blog.playstation.com/2022/09/23/sly-cooper-celebrates-20-years-today/)
- - [Xbox Launches “Project Amplify” to Support Black Youth Interested in Gaming Industry Careers](https://news.xbox.com/en-us/2022/09/23/xbox-launches-project-amplify/)<!-- GAME:END -->
+ - [Smile tickles the brain and terrifies without remorse](https://www.polygon.com/reviews/23368190/smile-review-horror-movie)
+ - [The best World of Warcraft Classic addons](https://www.pcgamer.com/best-wow-classic-addons-mods-quest-helper-how-to-install)
+ - [Crafting Kena: Bridge of Spirits’ new outfits for next week’s Anniversary Update](https://blog.playstation.com/2022/09/23/crafting-kena-bridge-of-spirits-new-outfits-for-next-weeks-anniversary-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
