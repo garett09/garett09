@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Collaboration in iMessage on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-collaboration-in-imessage-on-ios-16?utm_medium=rss)
- - [Did Logitech Reveal a New White Xbox Series X?     - CNET](https://www.cnet.com/tech/gaming/did-logitech-reveal-a-new-white-xbox-series-x/#ftag=CAD590a51e)
- - [Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here&#39;s How to Watch     - CNET](https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
+ - [Why does Logitech have a white Xbox Series X? &lpar;Because they put a skin on it.&rpar;](https://www.theverge.com/2022/9/23/23368202/microsoft-xbox-series-x-white-model-logitech-ad)
+ - [Get More Omega-3s in Your Diet With These Foods     - CNET](https://www.cnet.com/health/nutrition/get-more-omega-3s-in-your-diet-with-these-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
