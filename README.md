@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT firms say Apple rules make the App Store &#39;impossible&#39;](https://appleinsider.com/articles/22/09/23/nft-firms-say-apple-rules-make-the-app-store-impossible?utm_medium=rss)
- - [Apple Watch Ultra review: an aspirational debut](https://www.theverge.com/23363948/apple-watch-ultra-review-rugged-smartwatch-gps)
- - [Netflix is on a good run with anime lately](https://www.theverge.com/23367211/netflix-anime-cyberpunk-drifting-home-thermae-romae)<!-- TECH:END -->
+ - [Leaked audio: at a Google all-hands, Sundar Pichai expressed some annoyance at staff questions about cost cutting, telling them not to &quot;equate fun with money&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220923/p13#a220923p13)
+ - [Elon Musk has an actual free speech issue on his hands](https://www.theverge.com/2022/9/23/23368306/elon-musk-twitter-trial-deposition-starlink-iran-free-speech)
+ - [These Are the Best Portable Storage Drives](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
