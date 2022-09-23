@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scene from &#39;Monster: The Jeffrey Dahmer Story&#39; compared to the actual trial in 1992](http://9gag.com/gag/anzYe9z)
- - 🚯 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)
- - 🚯 [You know the rules](http://9gag.com/gag/aqe9qxR)<!-- MEMES:END -->
+ - 🚖 [Why is there even a option to cancel it mid ride?](http://9gag.com/gag/avQpbm5)
+ - 🚯 [The largest picture of Ali Khamenei was burned in the center of Tehran.](http://9gag.com/gag/axoNjD1)
+ - 🚯 [Art](http://9gag.com/gag/a8qWbBO)<!-- MEMES:END -->
 
 --- 
 
