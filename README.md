@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Action button on Apple Watch Ultra](https://appleinsider.com/articles/22/09/23/how-to-use-the-action-button-on-apple-watch-ultra?utm_medium=rss)
- - [40 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [How to Set Up Your New iPhone](https://www.wired.com/story/how-to-set-up-a-new-iphone/)<!-- TECH:END -->
+ - [How to sync multiple Apple Watches to one iPhone](https://appleinsider.com/inside/apple-watch/tips/how-to-sync-multiple-apple-watches-to-one-iphone?utm_medium=rss)
+ - [Digimon Fans Still Exist—and They’re the Keepers of Its Future](https://www.wired.com/story/digimon-fandom-keepers-of-its-future/)
+ - [The Elk Live Bridge Lets You Jam Together Online](https://www.wired.com/review/elk-live-bridge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
