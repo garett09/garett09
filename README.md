@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 461 answer and hint: Friday, September 23](https://www.pcgamer.com/todays-wordle-461-answer-hint)
- - [The end of EVGA and Nvidia&#39;s partnership may not mean the end for Kingpin products](https://www.pcgamer.com/the-end-of-evga-and-nvidias-partnership-may-not-mean-the-end-for-kingpin-products)
- - [About The Rings of Power’s mysterious white-robed trackers, the Stranger, and the moon...](https://www.polygon.com/23365209/lord-rings-power-white-robe-character-sauron-dweller-nomad-ascetic)<!-- GAME:END -->
+ - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
+ - [The best G-Sync monitors in 2022](https://www.pcgamer.com/best-g-sync-monitors-2019)
+ - [Today&#39;s Wordle 461 answer and hint: Friday, September 23](https://www.pcgamer.com/todays-wordle-461-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
