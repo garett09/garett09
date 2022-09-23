@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power’s two trees are a major invention for the Lord of the Rings canon](https://www.polygon.com/23367438/rings-power-song-mithril-tree-balrog)
- - [Rick Sanchez is heading to MultiVersus ‘soon’](https://www.polygon.com/23368739/multiversus-rick-new-character)
- - [Where to find Xur in Destiny 2 this week &lpar;Sept 23-27&rpar;](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/23/23368755/destiny-2-xur-location-items-sept-23-27)<!-- GAME:END -->
+ - [Sauron’s secret identity takes another step](https://www.polygon.com/23343338/rings-of-power-who-is-adar-in-lord-rings-tolkien)
+ - [Athena erupts as one long protest-driven action climax](https://www.polygon.com/reviews/23363495/athena-review-netflix-action-movie-no-church-in-the-wild)
+ - [Official PlayStation Podcast Episode 440: Virtual Horizons](https://blog.playstation.com/2022/09/23/official-playstation-podcast-episode-440-virtual-horizons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
