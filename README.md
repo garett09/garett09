@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London police arrest teen hacking suspect but won’t confirm GTA 6, Uber links](https://www.theverge.com/2022/9/23/23368340/hacking-suspect-arrested-city-of-london-lapsus-gta-6-uber)
- - [Adobe argues Figma will help it rethink design tools for the cloud era; Adobe&#39;s competing product, XD, generated just $15M in annual revenue after seven years &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220923/p14#a220923p14)
- - [Roborock’s S7 Plus mop and robot vacuum hybrid is $270 off](https://www.theverge.com/2022/9/23/23366744/roborock-s7-plus-apple-watch-series-7-starz-acer-chromebook-jabra-elite-deal-sale)<!-- TECH:END -->
+ - [Apple Music adds Super Bowl LVII halftime show playlists](https://appleinsider.com/articles/22/09/23/apple-music-adds-super-bowl-lvii-halftime-show-playlists?utm_medium=rss)
+ - [DARPA is launching a review of cryptocurrencies to assess threats to national security and law enforcement posed by the rise of digital assets &lpar;Tory Newmyer/Washington Post&rpar;](http://www.techmeme.com/220923/p15#a220923p15)
+ - [Deals: Apple&#39;s M2 MacBook Air &lpar;16GB RAM, 512GB SSD&rpar; in Midnight is $100 off, in stock](https://appleinsider.com/articles/22/09/23/deals-apples-m2-macbook-air-16gb-ram-512gb-ssd-in-midnight-is-100-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
