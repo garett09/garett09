@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music adds Super Bowl LVII halftime show playlists](https://appleinsider.com/articles/22/09/23/apple-music-adds-super-bowl-lvii-halftime-show-playlists?utm_medium=rss)
- - [DARPA is launching a review of cryptocurrencies to assess threats to national security and law enforcement posed by the rise of digital assets &lpar;Tory Newmyer/Washington Post&rpar;](http://www.techmeme.com/220923/p15#a220923p15)
- - [Deals: Apple&#39;s M2 MacBook Air &lpar;16GB RAM, 512GB SSD&rpar; in Midnight is $100 off, in stock](https://appleinsider.com/articles/22/09/23/deals-apples-m2-macbook-air-16gb-ram-512gb-ssd-in-midnight-is-100-off-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)
+ - [Slack and Teams’ Lax App Security Raises Alarms](https://www.wired.com/story/slack-microsoft-teams-app-security/)
+ - [How to unpair an Apple Watch](https://www.theverge.com/23368317/unpair-apple-watch-iphone-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
