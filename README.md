@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked audio: at a Google all-hands, Sundar Pichai expressed some annoyance at staff questions about cost cutting, telling them not to &quot;equate fun with money&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220923/p13#a220923p13)
- - [Elon Musk has an actual free speech issue on his hands](https://www.theverge.com/2022/9/23/23368306/elon-musk-twitter-trial-deposition-starlink-iran-free-speech)
- - [These Are the Best Portable Storage Drives](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
+ - [London police arrest teen hacking suspect but won’t confirm GTA 6, Uber links](https://www.theverge.com/2022/9/23/23368340/hacking-suspect-arrested-city-of-london-lapsus-gta-6-uber)
+ - [Adobe argues Figma will help it rethink design tools for the cloud era; Adobe&#39;s competing product, XD, generated just $15M in annual revenue after seven years &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220923/p14#a220923p14)
+ - [Roborock’s S7 Plus mop and robot vacuum hybrid is $270 off](https://www.theverge.com/2022/9/23/23366744/roborock-s7-plus-apple-watch-series-7-starz-acer-chromebook-jabra-elite-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
