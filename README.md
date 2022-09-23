@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is there even a option to cancel it mid ride?](http://9gag.com/gag/avQpbm5)
- - 🚯 [The largest picture of Ali Khamenei was burned in the center of Tehran.](http://9gag.com/gag/axoNjD1)
- - 🚯 [Art](http://9gag.com/gag/a8qWbBO)<!-- MEMES:END -->
+ - 🚖 [Live action remake of Finding Nemo looks weird](http://9gag.com/gag/aXn0D96)
+ - 🚯 [Why is there even a option to cancel it mid ride?](http://9gag.com/gag/avQpbm5)
+ - 🚯 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 --- 
 
