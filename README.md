@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Has New Sales &amp; Popularity Charts, And They&#39;re Great](https://kotaku.com/steam-valve-sales-charts-most-played-pc-popular-1849571329)
- - [This throwback sci-fi FPS is like the Jedi Knight 4 we never got](https://www.pcgamer.com/this-throwback-sci-fi-fps-is-like-the-jedi-knight-4-we-never-got)
- - [Hunt: Showdown devs appear to be cooking up some kind of horrible, pilotable bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)<!-- GAME:END -->
+ - [Sonic Frontiers TGS 2022 Hands On Preview &lpar;PS5&rpar;](https://game-rant-2022.blogspot.com/2022/09/sonic-frontiers-tgs-2022-hands-on.html)
+ - [The Complete Reroll Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/the-complete-reroll-guide-and-tips.html)
+ - [Steam just updated its stats page with Billboard-style top sellers charts](https://www.pcgamer.com/steam-charts-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
