@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
- - 🚯 [The future of Cars &lpar;3:40&rpar;](http://9gag.com/gag/aPgvW1g)
- - 🚯 [Everything reminds me of her](http://9gag.com/gag/aDY0jGG)<!-- MEMES:END -->
+ - 🚖 [Comments Genocide](http://9gag.com/gag/aGEYPr7)
+ - 🚯 [I&#39;m 5&#39;4` &lpar;163 cm&rpar; with size 18 &lpar;eu 55&rpar; feet. I&#39;m basically shaped like an L.](http://9gag.com/gag/anzYyq5)
+ - 🚯 [No Nut November is approaching](http://9gag.com/gag/ap9q0BB)<!-- MEMES:END -->
 
 --- 
 
