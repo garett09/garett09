@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sauron’s secret identity takes another step](https://www.polygon.com/23343338/rings-of-power-who-is-adar-in-lord-rings-tolkien)
- - [Athena erupts as one long protest-driven action climax](https://www.polygon.com/reviews/23363495/athena-review-netflix-action-movie-no-church-in-the-wild)
- - [Official PlayStation Podcast Episode 440: Virtual Horizons](https://blog.playstation.com/2022/09/23/official-playstation-podcast-episode-440-virtual-horizons/)<!-- GAME:END -->
+ - [TikTok’s Ugly ‘NPC In Real Life’ Trend Reflects The Worst Side Of Growing Up Online](https://kotaku.com/tiktok-npc-in-real-life-trend-twitter-gen-z-video-games-1849575169)
+ - [This Week on Xbox: Upcoming Releases and Updates](https://news.xbox.com/en-us/2022/09/23/this-week-on-xbox-upcoming-releases-and-updates/)
+ - [In This Modern-Day Bushido Blade-Style Fighting Game It’s One Hit And You’re Toast](https://kotaku.com/die-by-the-blade-triple-hill-interactive-bushido-blade-1849574897)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
