@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Prophesee, a fabless semiconductor startup building neuromorphic vision systems, raised a &amp;euro;50M Series C, bringing its total funding to ~&amp;euro;130M &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220923/p6#a220923p6)
- - [Apple Music sponsoring NFL&#39;s Super Bowl half-time show](https://appleinsider.com/articles/22/09/23/nfl-apple-music?utm_medium=rss)
- - [Australian telecom Optus suffers a cyberattack, potentially giving the hacker access to data on up to 9.8M customers, per the CEO; the police are investigating &lpar;Alice Uribe/Wall Street Journal&rpar;](http://www.techmeme.com/220923/p5#a220923p5)<!-- TECH:END -->
+ - [How to use the Action button on Apple Watch Ultra](https://appleinsider.com/articles/22/09/23/how-to-use-the-action-button-on-apple-watch-ultra?utm_medium=rss)
+ - [40 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [How to Set Up Your New iPhone](https://www.wired.com/story/how-to-set-up-a-new-iphone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
