@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [About The Rings of Power’s mysterious white-robed trackers, the Stranger, and the moon...](https://www.polygon.com/23365209/lord-rings-power-white-robe-character-sauron-dweller-nomad-ascetic)
  - [G.Skill pushes DDR5 to new heights with a DDR5-6800 CL32 memory kit](https://www.pcgamer.com/gskill-pushes-ddr5-to-new-heights-with-a-ddr5-6800-cl32-memory-kit)
- - [Madden Streamers Are Going On &#39;Strike&#39; Over In-Game Gambling Odds](https://kotaku.com/madden-23-ea-sports-strike-pack-ultimate-team-1849571865)
- - [Steam just updated its stats page with Billboard-style top sellers charts](https://www.pcgamer.com/steam-charts-update)<!-- GAME:END -->
+ - [Madden Streamers Are Going On &#39;Strike&#39; Over In-Game Gambling Odds](https://kotaku.com/madden-23-ea-sports-strike-pack-ultimate-team-1849571865)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
