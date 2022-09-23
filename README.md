@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)
- - 🚯 [When Godzilla did the drop kick it made me cry, such scene really do changed my life](http://9gag.com/gag/aZDb9bp)
- - 🚯 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
+ - 🚖 [Live action remake of Finding Nemo looks weird](http://9gag.com/gag/aXn0D96)
+ - 🚯 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
+ - 🚯 [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)<!-- MEMES:END -->
 
 --- 
 
