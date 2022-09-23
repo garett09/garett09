@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Soulstice review](https://www.pcgamer.com/soulstice-review)
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
- - [The best G-Sync monitors in 2022](https://www.pcgamer.com/best-g-sync-monitors-2019)<!-- GAME:END -->
+ - [Wrath Classic: Blizzard talks about heading back to WoW&#39;s most beloved era](https://www.pcgamer.com/wrath-classic-blizzard-talks-about-heading-back-to-wows-most-beloved-era)
+ - [Blizzard got a community creator to do the Wrath of the Lich King Classic trailer, and it&#39;s the best](https://www.pcgamer.com/blizzard-got-a-community-creator-to-do-the-wrath-of-the-lich-king-classic-trailer-and-its-the-best)
+ - [How to slide kick a runaway boulder in Fortnite](https://www.pcgamer.com/fortnite-slide-kick-boulder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
