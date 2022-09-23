@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Live action remake of Finding Nemo looks weird](http://9gag.com/gag/aXn0D96)
- - 🚯 [Why is there even a option to cancel it mid ride?](http://9gag.com/gag/avQpbm5)
+ - 🚖 [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)
+ - 🚯 [When Godzilla did the drop kick it made me cry, such scene really do changed my life](http://9gag.com/gag/aZDb9bp)
  - 🚯 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 --- 
