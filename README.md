@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Hug Me I’m Scared is suddenly back in wonderful, chaotic form](https://www.polygon.com/23344464/dont-hug-me-im-scared-tv-show-all-4)
- - [Warzone 2.0 introduces triple Circle Collapse, aquatic combat, new Gulag fights, and more](https://blog.playstation.com/2022/09/23/warzone-2-0-introduces-triple-circle-collapse-aquatic-combat-new-gulag-fights-and-more/)
- - [Next Week on Xbox: New Games for September 26 to 30](https://news.xbox.com/en-us/2022/09/23/next-week-on-xbox-new-games-for-september-26-to-30/)<!-- GAME:END -->
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
+ - [Bullet-hell FPS Hyper Demon is like staring point-blank into an eldritch stargate](https://www.polygon.com/reviews/23367314/bullet-hell-fps-hyper-demon-review-platforms-pc)
+ - [The Story Behind Mortal Kombat’s Iconic Dragon Logo](https://kotaku.com/mortal-kombat-arcade-12-dragon-logo-history-ed-boon-1849573670)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
