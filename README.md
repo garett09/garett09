@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cruel karen Whaman moment](http://9gag.com/gag/a9qdPwZ)
- - 🚯 [That\u2019s what friends are for to record](http://9gag.com/gag/aoKz0Qm)
- - 🚯 [Just dropping the `clean` version here](http://9gag.com/gag/a8qWjD3)<!-- MEMES:END -->
+ - 🚖 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
+ - 🚯 [The future of Cars &lpar;3:40&rpar;](http://9gag.com/gag/aPgvW1g)
+ - 🚯 [Everything reminds me of her](http://9gag.com/gag/aDY0jGG)<!-- MEMES:END -->
 
 --- 
 
