@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
- - [Why does Logitech have a white Xbox Series X? &lpar;Because they put a skin on it.&rpar;](https://www.theverge.com/2022/9/23/23368202/microsoft-xbox-series-x-white-model-logitech-ad)
- - [Get More Omega-3s in Your Diet With These Foods     - CNET](https://www.cnet.com/health/nutrition/get-more-omega-3s-in-your-diet-with-these-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US wants to become a hydrogen production powerhouse](https://www.theverge.com/2022/9/23/23368339/hydrogen-clean-energy-biden-administration-strategy)
+ - [Trombone Champ’s developer thinks more games need to go all in on comedy](https://www.theverge.com/2022/9/23/23369097/trombone-champ-comedy-games-interview-dan-vecchitto-interview-holy-wow-studios)
+ - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
