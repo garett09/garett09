@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve overhauls Steam’s stats page with new real-time charts](https://www.theverge.com/2022/9/22/23367646/valve-steam-stats-page-new-real-time-top-selling-most-played-charts)
- - [AccessFintech, which helps financial institutions collaborate by sharing data, has raised a $60M Series C led by WestCap, bringing its total funding to $97M &lpar;Finextra&rpar;](http://www.techmeme.com/220922/p40#a220922p40)
- - [Get ready to say goodbye to Fitbit accounts](https://www.androidauthority.com/fitbit-accounts-ending-3212066/)<!-- TECH:END -->
+ - [The CFTC has fined the blockchain protocol bZeroX team $250K and filed an action against its successor Ooki Dao for offering illegal off-exchange crypto trading &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220922/p41#a220922p41)
+ - [Google’s new adventure game takes a top-down trip through ancient Mesoamerica](https://www.theverge.com/2022/9/22/23367413/google-arts-culture-educational-game-ancient-mesoamerica-descent-of-the-serpent)
+ - [&#39;Andor&#39; Episodes 1, 2 and 3 Recap: Rebel Dawn of a Star Wars Hero     - CNET](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-rebel-dawn-for-a-star-wars-hero/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
