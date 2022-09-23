@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just dropping the `clean` version here](http://9gag.com/gag/a8qWjD3)
+ - 🚖 [Cruel karen Whaman moment](http://9gag.com/gag/a9qdPwZ)
  - 🚯 [That\u2019s what friends are for to record](http://9gag.com/gag/aoKz0Qm)
- - 🚯 [Hey hooman](http://9gag.com/gag/aOxKgp3)<!-- MEMES:END -->
+ - 🚯 [Just dropping the `clean` version here](http://9gag.com/gag/a8qWjD3)<!-- MEMES:END -->
 
 --- 
 
