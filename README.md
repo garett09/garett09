@@ -181,8 +181,8 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Frontiers TGS 2022 Hands On Preview &lpar;PS5&rpar;](https://game-rant-2022.blogspot.com/2022/09/sonic-frontiers-tgs-2022-hands-on.html)
- - [The Complete Reroll Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/the-complete-reroll-guide-and-tips.html)
+ - [G.Skill pushes DDR5 to new heights with a DDR5-6800 CL32 memory kit](https://www.pcgamer.com/gskill-pushes-ddr5-to-new-heights-with-a-ddr5-6800-cl32-memory-kit)
+ - [Madden Streamers Are Going On &#39;Strike&#39; Over In-Game Gambling Odds](https://kotaku.com/madden-23-ea-sports-strike-pack-ultimate-team-1849571865)
  - [Steam just updated its stats page with Billboard-style top sellers charts](https://www.pcgamer.com/steam-charts-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
