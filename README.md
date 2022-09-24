@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY AG tries to explain how Apple’s free Yankees stream is worse than cable TV](https://www.theverge.com/2022/9/23/23369233/apple-tv-mlb-yankees-red-sox-stream-ny-ag-letitia-james-cable-yes-network)
- - [Apple&#39;s Dream for iPhones Could Actually Be a Nightmare     - CNET](https://www.cnet.com/tech/mobile/apple-dream-for-iphones-could-actually-be-a-nightmare/#ftag=CAD590a51e)
- - [Sci-fi author Neal Stephenson&#39;s blockchain technology startup Lamina1 releases a whitepaper on building an open metaverse, dubbed Theee Metaverse &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220923/p20#a220923p20)<!-- TECH:END -->
+ - [Governor Newsom vetoes a crypto regulation bill that required licenses to facilitate transactions; the bill was passed by the California Assembly last month &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220923/p22#a220923p22)
+ - [Netflix Shares New &#39;Squid Game&#39; Season 1 Scene as Tudum Fan Event Starts     - CNET](https://www.cnet.com/culture/entertainment/netflix-shares-new-squid-game-season-1-scene-as-tudum-fan-event-starts/#ftag=CAD590a51e)
+ - [Center for Countering Digital Hate: the largest &quot;incel&quot; forum is becoming more violent; Google, YouTube, Cloudflare, Twitter, and Discord facilitate its growth &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220923/p21#a220923p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
