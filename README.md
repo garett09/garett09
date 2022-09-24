@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Great Deals on Apple Gadgets, TVs, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-september-24-2022/)
- - [How to Find Your Vaccine History—and Store It Safely](https://www.wired.com/story/how-to-find-vaccine-history-store-it-safely/)
- - [Why Adam Levine&#39;s Cringe DMs Are Perfect for the Meme Machine](https://www.wired.com/story/adam-levine-dms-internet-meme/)<!-- TECH:END -->
+ - [Daily deals Sept. 24: $129 off Apple Watch Series 7, $180 LG 29-inch UltraWide monitor, $69 Apple Pencil, more](https://appleinsider.com/articles/22/09/24/daily-deals-sept-24-129-off-apple-watch-series-7-180-lg-29-inch-ultrawide-monitor-69-apple-pencil-more?utm_medium=rss)
+ - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions/)
+ - [Philadelphia’s Diatom Archive Is a Way, Way, Wayback Machine](https://www.wired.com/story/philadelphias-diatom-archive-is-a-way-way-wayback-machine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
