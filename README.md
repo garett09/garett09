@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Sept. 24: $129 off Apple Watch Series 7, $180 LG 29-inch UltraWide monitor, $69 Apple Pencil, more](https://appleinsider.com/articles/22/09/24/daily-deals-sept-24-129-off-apple-watch-series-7-180-lg-29-inch-ultrawide-monitor-69-apple-pencil-more?utm_medium=rss)
- - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions/)
- - [Philadelphia’s Diatom Archive Is a Way, Way, Wayback Machine](https://www.wired.com/story/philadelphias-diatom-archive-is-a-way-way-wayback-machine/)<!-- TECH:END -->
+ - [Yale Assure Lock 2 review: a promising all-rounder](https://www.theverge.com/23367464/yale-assure-lock-2-touchscreen-keypad-wifi-review)
+ - [Child Predators Mine Twitch to Prey on Kids](https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/)
+ - [Windows 11’s First Big&lpar;ish&rpar; Update Is Now Available](https://www.wired.com/story/windows-11-2022-update/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
