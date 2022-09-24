@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anyway, here&#39;s Megalovania in the silly trombone game](https://www.pcgamer.com/anyway-heres-megalovania-in-the-silly-trombone-game)
- - [Ex-Hearthstone director moves to League of Legends as new design director](https://www.pcgamer.com/ex-hearthstone-director-moves-to-league-of-legends-as-new-design-director)
- - [The Witcher season 3 Axii&#39;s its way into our hearts Summer 2023](https://www.pcgamer.com/the-witcher-season-3-axiis-its-way-into-our-hearts-summer-2023)<!-- GAME:END -->
+ - [This cheery, Hexen-like FPS declares war on goblins](https://www.pcgamer.com/this-cheery-hexen-like-fps-declares-war-on-goblins)
+ - [That time National Lampoon made a parody chess game](https://www.pcgamer.com/saturday-crapshoot-chess-maniac-five-billion-and-one)
+ - [Anyway, here&#39;s Megalovania in the silly trombone game](https://www.pcgamer.com/anyway-heres-megalovania-in-the-silly-trombone-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
