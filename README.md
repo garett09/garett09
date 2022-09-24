@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today i adopted this beauty](http://9gag.com/gag/aA0YwbR)
- - 🚯 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)
- - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)<!-- MEMES:END -->
+ - 🚖 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
+ - 🚯 [Landlord says the home we\u2019re renting doesn\u2019t have hard water. This is after boiling water one time.](http://9gag.com/gag/amAX2bd)
+ - 🚯 [What\u2019s this](http://9gag.com/gag/aEqw7y9)<!-- MEMES:END -->
 
 --- 
 
