@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome the future.](http://9gag.com/gag/a5Xd7vE)
- - 🚯 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)
- - 🚯 [Woman are funny](http://9gag.com/gag/a6qwyOm)<!-- MEMES:END -->
+ - 🚖 [Today i adopted this beauty](http://9gag.com/gag/aA0YwbR)
+ - 🚯 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)
+ - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)<!-- MEMES:END -->
 
 --- 
 
