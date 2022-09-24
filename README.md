@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher’s third season won’t be here until summer 2023](https://www.theverge.com/2022/9/24/23367397/the-witcher-season-3-2023-tudum-medallion)
- - [Netflix’s The Witcher: Blood Origin prequel series is coming this December](https://www.theverge.com/2022/9/24/23367587/netflix-the-witcher-blood-origin-premiere-winter-release-date)
- - [Guillermo del Toro’s magical Pinocchio process video is utterly mesmerizing](https://www.theverge.com/2022/9/24/23367640/guillermo-del-toro-pinocchio-animation-process)<!-- TECH:END -->
+ - [They Cloned Tyrone’s onto something wild in its first trailer](https://www.theverge.com/2022/9/24/23368789/netflix-they-cloned-tyrone-trailer)
+ - [See the &#39;Stranger Things&#39; Cast Bloopers Shared at Netflix Fan Event     - CNET](https://www.cnet.com/culture/entertainment/see-the-stranger-things-cast-bloopers-shared-at-netflix-fan-event/#ftag=CAD590a51e)
+ - [Netflix’s new Glass Onion: A Knives Out Mystery clip is full of devious puzzles](https://www.theverge.com/2022/9/24/23368513/glass-onion-a-knives-out-mystery-clip-tudum-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
