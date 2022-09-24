@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enola Holmes 2’s new trailer shows a budding detective in action](https://www.theverge.com/2022/9/24/23368397/enola-holmes-2-trailer-netflix-tudum)
- - [A court in Brazil temporarily bans Valeu, a government-run delivery app created to fight the monopoly of iFood, after complaints about unfair competition &lpar;Rest of World&rpar;](http://www.techmeme.com/220924/p8#a220924p8)
- - [Netflix&#39;s Tudum Global Fan Event: How to Watch Live Today and What to Expect     - CNET](https://www.cnet.com/culture/entertainment/netflixs-tudum-global-fan-event-how-to-watch-live-today-and-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Witcher’s third season won’t be here until summer 2023](https://www.theverge.com/2022/9/24/23367397/the-witcher-season-3-2023-tudum-medallion)
+ - [Netflix’s The Witcher: Blood Origin prequel series is coming this December](https://www.theverge.com/2022/9/24/23367587/netflix-the-witcher-blood-origin-premiere-winter-release-date)
+ - [Guillermo del Toro’s magical Pinocchio process video is utterly mesmerizing](https://www.theverge.com/2022/9/24/23367640/guillermo-del-toro-pinocchio-animation-process)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
