@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No Nut November is approaching](http://9gag.com/gag/ap9q0BB)
- - 🚯 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)
+ - 🚖 [She seems nice](http://9gag.com/gag/aVbOjnn)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)
  - 🚯 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)<!-- MEMES:END -->
 
 --- 
