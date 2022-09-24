@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)
- - 🚯 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)
- - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 🚖 [Hananeh Kian, aged 23, shot dead while fighting for liberty in Iran](http://9gag.com/gag/amAXYb6)
+ - 🚯 [I want her to arrest me](http://9gag.com/gag/a9qdpgo)
+ - 🚯 [Bush meeting](http://9gag.com/gag/aoKz5N2)<!-- MEMES:END -->
 
 --- 
 
