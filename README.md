@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
- - 🚯 [That\u2019s about it](http://9gag.com/gag/a2KNdvY)
- - 🚯 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)<!-- MEMES:END -->
+ - 🚖 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)
+ - 🚯 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 --- 
 
