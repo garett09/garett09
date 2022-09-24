@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women aren\u2019t real, CONFIRMED.](http://9gag.com/gag/aDY0GNN)
- - 🚯 [No Nut November is approaching](http://9gag.com/gag/ap9q0BB)
- - 🚯 [Welcome the future.](http://9gag.com/gag/a5Xd7vE)<!-- MEMES:END -->
+ - 🚖 [Hey guys, did you know...](http://9gag.com/gag/aGE9DYw)
+ - 🚯 [A scientific study has determined the scariest movie of all-time to be 2012&#39;s Sinister. The average heart rate of the 50 viewers was 65 beats per minute. During Sinister, that average jumped to 86 BPM, which equates to a 32% increase. No other movie saw these results.](http://9gag.com/gag/az2b8mq)
+ - 🚯 [Iranian women are no longer wearing hijabs outside!](http://9gag.com/gag/ajVrqbG)<!-- MEMES:END -->
 
 --- 
 
