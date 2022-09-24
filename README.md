@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [James Earl Jones lets AI take over the voice of Darth Vader](https://www.theverge.com/2022/9/24/23370097/darth-vader-james-earl-jones-obi-wan-kenobi-star-wars-ai-disney-lucasfilm)
- - [A look at Kyiv-based Respeecher, which uses performers&#39; archival voice recordings and AI to create new dialogue, including for Darth Vader in Obi-Wan Kenobi &lpar;Anthony Breznican/Vanity Fair&rpar;](http://www.techmeme.com/220924/p10#a220924p10)
- - [&#39;Andor&#39; Episodes 1, 2 and 3 Recap: Star Wars Rebel&#39;s Origin Tale Begins With a Bang     - CNET](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-star-wars-rebel-origin-tale-begins-with-a-bang/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use your smartwatch to get the best sleep ever: Practical tips](https://www.androidauthority.com/how-to-get-better-sleep-with-smartwatch-3209016/)
+ - [A look at Kyiv-based Respeecher, which uses performers&#39; archival voice recordings and AI to create new dialogue, including for Darth Vader in Obi-Wan Kenobi &lpar;Anthony Breznican/Vanity Fair&rpar;](http://www.techmeme.com/220924/p10#a220924p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
