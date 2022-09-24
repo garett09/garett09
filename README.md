@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s about it](http://9gag.com/gag/a2KNdvY)
- - 🚯 [She seems nice](http://9gag.com/gag/aVbOjnn)
+ - 🚖 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
+ - 🚯 [That\u2019s about it](http://9gag.com/gag/a2KNdvY)
  - 🚯 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)<!-- MEMES:END -->
 
 --- 
