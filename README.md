@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manifest season 4 gets a trailer before its final bow on Netflix](https://www.polygon.com/23368993/manifest-final-season-4-trailer-netflix)
- - [The Shadow and Bone season 2 teaser trailer is chock full of exciting new details](https://www.polygon.com/23368305/shadow-and-bone-season-2-trailer-netflix-release-date)
- - [Netflix’s Enola Holmes 2 trailer gets Millie Bobby Brown back into sleuthing](https://www.polygon.com/23368370/enola-holmes-2-trailer-netflix)<!-- GAME:END -->
+ - [The Witcher season 3 Axii&#39;s its way into our hearts Summer 2023](https://www.pcgamer.com/the-witcher-season-3-axiis-its-way-into-our-hearts-summer-2023)
+ - [Witcher prequel series Blood Origin premiers this December](https://www.pcgamer.com/witcher-prequel-series-blood-origin-premiers-this-december)
+ - [The Witcher season 3 slices its way to Netflix in summer 2023](https://www.polygon.com/entertainment/23367506/witcher-new-season-netflix-date-blood-origin-premiere)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
