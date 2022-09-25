@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Protestor showing pre revolution flag of Iran during protest, flag which has been banned for 43 years](http://9gag.com/gag/ay25B58)
- - 🚯 [Well here we go again](http://9gag.com/gag/aPgvRLG)
- - 🚯 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - 🚖 [American Tri Ski Jumping](http://9gag.com/gag/aA0YDe0)
+ - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 --- 
 
