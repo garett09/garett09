@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max could turn into &#39;Ultra&#39; in fall 2023 updates](https://appleinsider.com/articles/22/09/25/iphone-15-pro-max-could-turn-into-ultra-in-fall-2023-updates?utm_medium=rss)
- - [Apple Pay Later&#39;s challenges could delay launch to early 2023](https://appleinsider.com/articles/22/09/25/apple-pay-laters-challenges-could-delay-launch-to-early-2023?utm_medium=rss)
- - [&#39;The Bachelorette&#39; Finale: A Bizarre, Explosive Ending for Tino, Rachel     - CNET](https://www.cnet.com/culture/entertainment/the-bachelorette-finale-a-bizarre-explosive-ending-for-tino-rachel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 15 ‘Ultra’ could replace the Pro Max](https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c)
+ - [An interview with Meta&#39;s chief AI scientist Yann LeCun on his critics and why today&#39;s most popular approaches to AI won&#39;t lead to human-level intelligence &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220925/p4#a220925p4)
+ - [New Mac mini, iPad Pro models with M2 may not get an event](https://appleinsider.com/articles/22/09/25/new-mac-mini-ipad-pro-models-with-m2-may-not-get-an-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
