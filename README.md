@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer Predator Triton 500 SE review: I expected more](https://www.theverge.com/23318247/acer-predator-triton-500-se-gaming-laptop-test-benchmark-review)
- - [How to Back Up Your Digital Life](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [Growing Old Online](https://www.wired.com/story/growing-old-online/)<!-- TECH:END -->
+ - [iPhone 15 Pro Max could turn into &#39;Ultra&#39; in fall 2023 updates](https://appleinsider.com/articles/22/09/25/iphone-15-pro-max-could-turn-into-ultra-in-fall-2023-updates?utm_medium=rss)
+ - [Apple Pay Later&#39;s challenges could delay launch to early 2023](https://appleinsider.com/articles/22/09/25/apple-pay-laters-challenges-could-delay-launch-to-early-2023?utm_medium=rss)
+ - [&#39;The Bachelorette&#39; Finale: A Bizarre, Explosive Ending for Tino, Rachel     - CNET](https://www.cnet.com/culture/entertainment/the-bachelorette-finale-a-bizarre-explosive-ending-for-tino-rachel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
