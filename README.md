@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This cat doesn&#39;t want their owner to work](http://9gag.com/gag/aeQNeRp)
- - 🚯 [What\u2019s this](http://9gag.com/gag/aEqw7y9)
- - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 🚖 [English archer explaining the history, production, and skills of archery.](http://9gag.com/gag/a3ZYwz1)
+ - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
+ - 🚯 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
 
 --- 
 
