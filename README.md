@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey Paul!](http://9gag.com/gag/adPN7eB)
- - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
- - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 🚖 [The way..](http://9gag.com/gag/aVbOYwn)
+ - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
+ - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)<!-- MEMES:END -->
 
 --- 
 
