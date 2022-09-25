@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)
- - 🚯 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
- - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 🚖 [The future is now](http://9gag.com/gag/axoNoyn)
+ - 🚯 [Fast as f boy](http://9gag.com/gag/axoN3eD)
+ - 🚯 [I have a message for European!](http://9gag.com/gag/anzY7Rz)<!-- MEMES:END -->
 
 --- 
 
