@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
- - 🚯 [Relationship over](http://9gag.com/gag/aOxq8Mr)
- - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
+ - 🚖 [Infrared photography of a forest](http://9gag.com/gag/aDY01eB)
+ - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 --- 
 
