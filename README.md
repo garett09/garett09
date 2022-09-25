@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)
- - 🚯 [He&#39;s right tho](http://9gag.com/gag/aL1K1nv)
- - 🚯 [Iranian women are no longer wearing hijabs outside!](http://9gag.com/gag/ajVrqbG)<!-- MEMES:END -->
+ - 🚖 [Hey Paul!](http://9gag.com/gag/adPN7eB)
+ - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 --- 
 
