@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Hollywood effect`](http://9gag.com/gag/anzYMbb)
- - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
+ - 🚖 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
+ - 🚯 [Relationship over](http://9gag.com/gag/aOxq8Mr)
  - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
 
 --- 
