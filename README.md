@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fighting rising ocean levels.](http://9gag.com/gag/aPgvBMq)
+ - 🚖 [The fat is hiding it I swear](http://9gag.com/gag/aeQNDMO)
  - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 🚯 [What\u2019s this](http://9gag.com/gag/aEqw7y9)<!-- MEMES:END -->
 
 --- 
 
