@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
- - 🚯 [Landlord says the home we\u2019re renting doesn\u2019t have hard water. This is after boiling water one time.](http://9gag.com/gag/amAX2bd)
- - 🚯 [What\u2019s this](http://9gag.com/gag/aEqw7y9)<!-- MEMES:END -->
+ - 🚖 [What\u2019s this](http://9gag.com/gag/aEqw7y9)
+ - 🚯 [The old fool has finished playing](http://9gag.com/gag/adPN5Z2)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 --- 
 
