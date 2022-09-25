@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good luck to the Russian conscripts.](http://9gag.com/gag/aGE9y90)
- - 🚯 [I love Eco punk](http://9gag.com/gag/awZrZ04)
- - 🚯 [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)<!-- MEMES:END -->
+ - 🚖 [Dumpster Fire](http://9gag.com/gag/armpney)
+ - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
+ - 🚯 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)<!-- MEMES:END -->
 
 --- 
 
