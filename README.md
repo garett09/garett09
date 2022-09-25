@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [English archer explaining the history, production, and skills of archery.](http://9gag.com/gag/a3ZYwz1)
- - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 🚯 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
+ - 🚖 [At least they get to have some fun first](http://9gag.com/gag/aWGZYm3)
+ - 🚯 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
+ - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 --- 
 
