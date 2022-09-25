@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [C\u00e4re f\u00f6r s\u00f6me l\u00e4mps br\u00f6ther?](http://9gag.com/gag/a049jjZ)
- - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
+ - 🚖 [Fighting rising ocean levels.](http://9gag.com/gag/aPgvBMq)
+ - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
+ - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 --- 
 
