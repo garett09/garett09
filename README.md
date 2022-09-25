@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life is all about love](http://9gag.com/gag/aXnbgZ2)
- - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
- - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
+ - 🚖 [Protestor showing pre revolution flag of Iran during protest, flag which has been banned for 43 years](http://9gag.com/gag/ay25B58)
+ - 🚯 [Well here we go again](http://9gag.com/gag/aPgvRLG)
+ - 🚯 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
 
 --- 
 
