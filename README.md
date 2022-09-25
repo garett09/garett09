@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The fat is hiding it I swear](http://9gag.com/gag/aeQNDMO)
- - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - 🚯 [What\u2019s this](http://9gag.com/gag/aEqw7y9)<!-- MEMES:END -->
+ - 🚖 [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)
+ - 🚯 [He&#39;s right tho](http://9gag.com/gag/aL1K1nv)
+ - 🚯 [Iranian women are no longer wearing hijabs outside!](http://9gag.com/gag/ajVrqbG)<!-- MEMES:END -->
 
 --- 
 
