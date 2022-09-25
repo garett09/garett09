@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA is about to crash a spacecraft into an asteroid](https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos)
- - [The best thing Google can do for the Pixel line is stay consistent](https://www.androidauthority.com/google-pixel-line-consistency-3209260/)
- - [iPhone, in the third year of a three-year design cycle, may be overhauled next year; Apple Pay Later may arrive in 2023; Apple may not hold an October event &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220925/p5#a220925p5)<!-- TECH:END -->
+ - [Why Windows 11&#39;s Big 2022 Update Is Worth Downloading     - CNET](https://www.cnet.com/tech/services-and-software/why-windows-11s-big-2022-update-is-worth-downloading/#ftag=CAD590a51e)
+ - [Rihanna to headline Apple Music&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/22/09/25/rihanna-to-headline-apple-musics-super-bowl-halftime-show?utm_medium=rss)
+ - [Best Soundbar Deals: Save $388 on the LG SP8YA, $270 on LG Eclair and More     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
