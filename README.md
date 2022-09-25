@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumpster Fire](http://9gag.com/gag/armpney)
+ - 🚖 [`Hollywood effect`](http://9gag.com/gag/anzYMbb)
  - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 🚯 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)<!-- MEMES:END -->
+ - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
 
 --- 
 
