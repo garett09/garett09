@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Infrared photography of a forest](http://9gag.com/gag/aDY01eB)
- - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
- - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 🚖 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)
+ - 🚯 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
+ - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 --- 
 
