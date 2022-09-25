@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch These Hilarious &#39;Stranger Things&#39; Behind-the-Scenes Bloopers     - CNET](https://www.cnet.com/culture/entertainment/watch-these-hilarious-stranger-things-behind-the-scenes-bloopers/#ftag=CAD590a51e)
- - [&#39;They Cloned Tyrone&#39; Teaser Stars Jamie Foxx and John Boyega in a Sci-Fi Mystery     - CNET](https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-stars-jamie-foxx-and-john-boyega-in-a-sci-fi-mystery/#ftag=CAD590a51e)
- - [&#39;The Witcher&#39; Season 3 Gets a Release Date     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-season-3-gets-a-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Sept. 24: $129 off Apple Watch Series 7, $180 LG 29-inch UltraWide monitor, $69 Apple Pencil, more](https://appleinsider.com/articles/22/09/24/daily-deals-sept-24-129-off-apple-watch-series-7-180-lg-29-inch-ultrawide-monitor-69-apple-pencil-more?utm_medium=rss)
+ - [Paris-based Zenchef, which offers restaurants tools to enhance customer experience and optimize front-of-house operations, has raised &amp;euro;50M+ from PSG Equity &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/220924/p11#a220924p11)
+ - [&#39;Enola Holmes 2&#39; Trailer Has Millie Bobby Brown Solving More Mysteries     - CNET](https://www.cnet.com/culture/entertainment/enola-holmes-2-netflix-trailer-has-millie-bobby-brown-solving-more-mysteries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
