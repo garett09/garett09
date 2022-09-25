@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American Tri Ski Jumping](http://9gag.com/gag/aA0YDe0)
- - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
- - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 🚖 [Good luck to the Russian conscripts.](http://9gag.com/gag/aGE9y90)
+ - 🚯 [I love Eco punk](http://9gag.com/gag/awZrZ04)
+ - 🚯 [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)<!-- MEMES:END -->
 
 --- 
 
