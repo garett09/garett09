@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least they get to have some fun first](http://9gag.com/gag/aWGZYm3)
- - 🚯 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
- - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 🚖 [C\u00e4re f\u00f6r s\u00f6me l\u00e4mps br\u00f6ther?](http://9gag.com/gag/a049jjZ)
+ - 🚯 [Based gaston](http://9gag.com/gag/aGE9dnz)
+ - 🚯 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
 
 --- 
 
