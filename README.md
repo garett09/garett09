@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple opens fourth South Korean Apple Store in Seoul](https://appleinsider.com/articles/22/09/25/apple-opens-fourth-south-korean-apple-store-in-seoul?utm_medium=rss)
  - [The iPhone 15 ‘Ultra’ could replace the Pro Max](https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c)
- - [An interview with Meta&#39;s chief AI scientist Yann LeCun on his critics and why today&#39;s most popular approaches to AI won&#39;t lead to human-level intelligence &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/220925/p4#a220925p4)
- - [New Mac mini, iPad Pro models with M2 may not get an event](https://appleinsider.com/articles/22/09/25/new-mac-mini-ipad-pro-models-with-m2-may-not-get-an-event?utm_medium=rss)<!-- TECH:END -->
+ - [The Galaxy Book 2 Pro made Samsung’s ecosystem worth my time](https://www.androidauthority.com/samsung-galaxy-book-2-pro-ecosystem-3193090/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
