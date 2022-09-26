@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pushes back on India&#39;s demand to support GPS rival in 2023 iPhones](https://appleinsider.com/articles/22/09/26/apple-pushes-back-on-indias-demand-to-support-gps-rival-in-2023-iphones?utm_medium=rss)
- - [WhatsApp adds one-click links to join a call and tests 32-person video chats](https://www.theverge.com/2022/9/26/23372949/whatsapp-call-video-audio-chat-share-link-new-feature)
- - [Australia to overhaul privacy laws after massive data breach](https://www.theverge.com/2022/9/26/23372868/australian-hack-disclosure-privacy-laws-optus-data-breach)<!-- TECH:END -->
+ - [Gudetama the lazy egg looks uncomfortably real in first Netflix trailer](https://www.theverge.com/23373116/gudetama-netflix-trailer-release-date)
+ - [Hurricane Ian pushes NASA to roll back Artemis I rocket](https://www.theverge.com/2022/9/26/23372838/hurricane-ian-nasa-roll-back-artemis-i-rocket)
+ - [A look at Nvidia&#39;s issues, including crypto mining demand drying up and GPUs flooding secondary markets, and opportunities, including gaming and data centers &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220926/p16#a220926p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
