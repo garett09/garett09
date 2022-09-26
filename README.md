@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - 🚯 [Well here we go again](http://9gag.com/gag/aPgvRLG)
- - 🚯 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - 🚖 [At this point they should just get inside the van](http://9gag.com/gag/aWGZnAA)
+ - 🚯 [I couldn&#39;t figure out why Chrome was scanning my other 3 drives. This BS was on by default! Check if yours is running or rename/move/delete it altogether. The crap is called `SwReporter` and can be found here: %localappdata%\\Google\\Chrome\\User Data\\SwReporter &lpar;via RUN window&rpar;](http://9gag.com/gag/abv51Z8)
+ - 🚯 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
 
 --- 
 
