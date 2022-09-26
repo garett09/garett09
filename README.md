@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warcrow Adventures, from the team behind Infinity, rethinks how dungeon crawlers work](https://www.polygon.com/23368911/warcrow-preview-corvus-belli-kickstarter-release-date-price)
- - [Why do we multitask while gaming?](https://www.polygon.com/videos/23373062/multitasking-games-destiny2-genshin)
- - [Netflix’s next big gaming move is opening its own game studio](https://www.polygon.com/23373053/netflix-video-game-studio-development)<!-- GAME:END -->
+ - [God declares Hawkeye slightly more valuable than ‘a randomly chosen mailbox’](https://www.polygon.com/23372824/hawkeye-vs-mailbox-avengers-60)
+ - [Walmart Is Joining The Metaverse, Targets ‘Younger Audiences’](https://kotaku.com/walmart-land-metaverse-roblox-verch-universe-play-1849582900)
+ - [First Last of Us TV show trailer has clickers, Nick Offerman holding a shotgun](https://www.pcgamer.com/first-last-of-us-tv-show-trailer-has-clickers-nick-offerman-holding-a-shotgun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
