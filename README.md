@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Urge you kill....rising...mm](http://9gag.com/gag/ay25WnW)
- - 🚯 [New Italian PM](http://9gag.com/gag/aGE9A4z)
- - 🚯 [It&#39;s you bro...](http://9gag.com/gag/aDY0YZZ)<!-- MEMES:END -->
+ - 🚖 [Police officer intentionally damages car with door while performing a search.](http://9gag.com/gag/ay259Ly)
+ - 🚯 [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)
+ - 🚯 [You can feel this video](http://9gag.com/gag/a4o4z2p)<!-- MEMES:END -->
 
 --- 
 
