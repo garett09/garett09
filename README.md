@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Ultra rumored to have two front cameras and USB-C](https://appleinsider.com/articles/22/09/26/iphone-15-ultra-rumored-to-have-two-front-cameras-and-usb-c?utm_medium=rss)
- - [Review of AMD&#39;s new $699 Ryzen 9 7950X, built on Zen 4 with 16 cores: blistering single- and multi-threaded performance and efficiency helps beat Intel&#39;s chips &lpar;AnandTech&rpar;](http://www.techmeme.com/220926/p14#a220926p14)
- - [How iPhone speeds have grown in the last 5 years](https://appleinsider.com/articles/22/09/26/how-iphone-speeds-have-grown-in-the-last-5-years?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon announces Prime Early Access Sale will run October 11-12](https://appleinsider.com/articles/22/09/26/amazon-announces-prime-early-access-sale-will-run-october-11-12?utm_medium=rss)
+ - [iOS 16.1 AirPlay &amp; HomeKit changes, Yale Assure 2, Smartmi humidifier](https://appleinsider.com/articles/22/09/26/ios-161-airplay-homekit-changes-yale-assure-2-smartmi-humidifier?utm_medium=rss)
+ - [Apple&#39;s Battersea Power Station offices in London opening soon](https://appleinsider.com/articles/22/09/26/apples-battersea-power-station-offices-in-london-opening-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
