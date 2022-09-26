@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The acting in `the pianist` is just something else.](http://9gag.com/gag/aeQNDKp)
- - 🚯 [Reverse card](http://9gag.com/gag/amAXvLo)
- - 🚯 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)<!-- MEMES:END -->
+ - 🚖 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
+ - 🚯 [I couldn&#39;t figure out why Chrome was scanning my other 3 drives. This BS was on by default! Check if yours is running or rename/move/delete it altogether. The crap is called `SwReporter` and can be found here: %localappdata%\\Google\\Chrome\\User Data\\SwReporter &lpar;via RUN window&rpar;](http://9gag.com/gag/abv51Z8)
+ - 🚯 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
 
 --- 
 
