@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The quest to save KeyForge, the first procedurally generated collectible card game](https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price)
  - [God declares Hawkeye slightly more valuable than ‘a randomly chosen mailbox’](https://www.polygon.com/23372824/hawkeye-vs-mailbox-avengers-60)
- - [Walmart Is Joining The Metaverse, Targets ‘Younger Audiences’](https://kotaku.com/walmart-land-metaverse-roblox-verch-universe-play-1849582900)
- - [First Last of Us TV show trailer has clickers, Nick Offerman holding a shotgun](https://www.pcgamer.com/first-last-of-us-tv-show-trailer-has-clickers-nick-offerman-holding-a-shotgun)<!-- GAME:END -->
+ - [Walmart Is Joining The Metaverse, Targets ‘Younger Audiences’](https://kotaku.com/walmart-land-metaverse-roblox-verch-universe-play-1849582900)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
