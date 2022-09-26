@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s your first look at season 2 of DC’s slice-of-life Batman family comic](https://www.polygon.com/23368740/batman-webtoon-dc-comics-wayne-family-adventures-season-2)
- - [Netflix’s Gudetama series gets a trailer and a release date](https://www.polygon.com/23372673/netflix-gudetama-trailer-season-1-release-date)
- - [The best science fiction and fantasy books of 2022, so far](https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022)<!-- GAME:END -->
+ - [Last Of Us TV Show Gets Its First Full Trailer](https://kotaku.com/last-of-us-tv-show-live-action-first-trailer-hbo-joel-1849581268)
+ - [HBO’s The Last of Us has its first trailer](https://www.polygon.com/22688011/the-last-of-us-series-trailer-hbo-release-date-cast)
+ - [DLSS 3 is exclusive to the RTX 40-series but older GPUs still benefit](https://www.pcgamer.com/dlss-3-on-older-GPUs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
