@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the second anniversary Genshin Impact concert](https://www.pcgamer.com/genshin-impact-concert-2022)
- - [Hokko Life review](https://www.pcgamer.com/hokko-life-review)
- - [Ultima Online has a special shield if you&#39;ve been playing for 25 years](https://www.pcgamer.com/ultima-online-has-a-special-shield-if-youve-been-playing-for-25-years)<!-- GAME:END -->
+ - [What we learned at Marvel’s secret screening of Werewolf By Night](https://www.polygon.com/23372425/marvel-werewolf-by-night-reaction-michael-giacchino)
+ - [James Earl Jones stepping back from his role as Darth Vader’s voice](https://www.polygon.com/23372640/star-wars-james-earl-jones-darth-vader-voice-retired-ai)
+ - [Nier: Automata anime trailer diverges from the original game, sets 2023 premiere](https://www.polygon.com/23368841/nier-automata-anime-trailer-premiere-date-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
