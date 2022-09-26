@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The future is now](http://9gag.com/gag/axoNoyn)
- - 🚯 [Fast as f boy](http://9gag.com/gag/axoN3eD)
- - 🚯 [I have a message for European!](http://9gag.com/gag/anzY7Rz)<!-- MEMES:END -->
+ - 🚖 [Me: Save the planet! Meanwhile in Qatar:](http://9gag.com/gag/armpGKd)
+ - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)
+ - 🚯 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)<!-- MEMES:END -->
 
 --- 
 
