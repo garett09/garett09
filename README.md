@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
- - 🚯 [What are you filming. never seen a hard worker](http://9gag.com/gag/armp3o0)
+ - 🚖 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
+ - 🚯 [2022-09-26: Booth pilots dead after two stunt planes collided with one another and crashed near Gera, Germany.](http://9gag.com/gag/aREQz1M)
  - 🚯 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)<!-- MEMES:END -->
 
 --- 
