@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I identify as dad](http://9gag.com/gag/aME1PRP)
- - 🚯 [Explaining how magic works](http://9gag.com/gag/abv5WMp)
- - 🚯 [Rachel and mike](http://9gag.com/gag/a6qw5B2)<!-- MEMES:END -->
+ - 🚖 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
+ - 🚯 [Well here we go again](http://9gag.com/gag/aPgvRLG)
+ - 🚯 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
 
 --- 
 
