@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What we learned at Marvel’s secret screening of Werewolf By Night](https://www.polygon.com/23372425/marvel-werewolf-by-night-reaction-michael-giacchino)
- - [James Earl Jones stepping back from his role as Darth Vader’s voice](https://www.polygon.com/23372640/star-wars-james-earl-jones-darth-vader-voice-retired-ai)
- - [Nier: Automata anime trailer diverges from the original game, sets 2023 premiere](https://www.polygon.com/23368841/nier-automata-anime-trailer-premiere-date-2023)<!-- GAME:END -->
+ - [The 25 Most Valuable Pokémon TCG Cards In Lost Origin](https://kotaku.com/pokemon-tcg-cards-value-lost-origin-sword-nintendo-1849580188)
+ - [How to get berry leather in Grounded](https://www.pcgamer.com/grounded-berry-leather-guide)
+ - [House of the Dragon made its first reference to Grover Tully, one of several Fire &amp; Blood characters George R.R. Martin named after Muppets.](https://www.polygon.com/23368587/house-dragons-muppets-grover-tully)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
