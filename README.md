@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The quest to save KeyForge, the first procedurally generated collectible card game](https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price)
- - [God declares Hawkeye slightly more valuable than ‘a randomly chosen mailbox’](https://www.polygon.com/23372824/hawkeye-vs-mailbox-avengers-60)
- - [Walmart Is Joining The Metaverse, Targets ‘Younger Audiences’](https://kotaku.com/walmart-land-metaverse-roblox-verch-universe-play-1849582900)<!-- GAME:END -->
+ - [The Week In Games: Ted Lasso Takes The Pitch](https://kotaku.com/grounded-fifa-23-the-fridge-is-red-valkyrie-elysium-1849583351)
+ - [HBO’s The Last of Us looks like a faithful adaptation, with an exception](https://www.polygon.com/entertainment/23373686/hbo-max-the-last-of-us-melanie-lynskey-casting-show)
+ - [Big Darkest Dungeon 2 update introduces progression system and hero &#39;memories&#39;](https://www.pcgamer.com/big-darkest-dungeon-2-update-introduces-progression-system-and-hero-memories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
