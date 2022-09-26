@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s when Wrath of the Lich King Classic launches in your time zone](https://www.pcgamer.com/wrath-classic-release-time-unlock)
  - [Today&#39;s Wordle 464 answer and hint: Monday, September 26](https://www.pcgamer.com/todays-wordle-464-answer-hint)
- - [The AV1 codec is coming, and it&#39;s a big deal](https://www.pcgamer.com/the-av1-codec-is-coming-and-its-a-big-deal)
- - [Google Play for PC Beta brings your android games to the big screen](https://www.pcgamer.com/google-play-for-pc-beta-brings-your-android-games-to-the-big-screen)<!-- GAME:END -->
+ - [The AV1 codec is coming, and it&#39;s a big deal](https://www.pcgamer.com/the-av1-codec-is-coming-and-its-a-big-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
