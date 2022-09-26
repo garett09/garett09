@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: crypto derivatives exchange Deribit raised ~$40M from existing investors at a $400M valuation; source: it raised $100M in 2021 at a $2.1B valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220926/p18#a220926p18)
- - [How Twitch lost the battle for its soul](https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon)
- - [Marantz Readies New 8K &#39;Cinema&#39; Receivers for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/marantz-readies-new-8k-cinema-receivers-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wait, are you guys bringing your phones into the shower?](https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails)
+ - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-series-to-watch/#ftag=CAD590a51e)
+ - [Edward Snowden Reportedly Granted Russian Citizenship by Putin     - CNET](https://www.cnet.com/news/politics/edward-snowden-reportedly-granted-russian-citizenship-by-putin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
