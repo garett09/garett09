@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wait, are you guys bringing your phones into the shower?](https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails)
- - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-series-to-watch/#ftag=CAD590a51e)
- - [Edward Snowden Reportedly Granted Russian Citizenship by Putin     - CNET](https://www.cnet.com/news/politics/edward-snowden-reportedly-granted-russian-citizenship-by-putin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is TikTok Now and how to use it?](https://www.androidauthority.com/tiktok-now-explained-3213123/)
+ - [Walmart debuts metaverse experiences Walmart Land and Walmart&#39;s Universe of Play in Roblox, which it calls a testing ground, to try to reach younger shoppers &lpar;Melissa Repko/CNBC&rpar;](http://www.techmeme.com/220926/p20#a220926p20)
+ - [Sony is selling a PlayStation 5 bundle right now](https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
