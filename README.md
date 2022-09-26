@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viruses to Fight Superbugs? Scientists Are Working on It](https://www.wired.com/story/phage-viruses-fighting-drug-resistant-bacteria/)
- - [This Vote Could Change the Course of Internet History](https://www.wired.com/story/2022-itu-secretary-general-election/)
- - [This Company Says It’s One Step Closer to an Invisibility Cloak](https://www.wired.com/story/vollebak-invisibility-cloak/)<!-- TECH:END -->
+ - [Fitbit owners will need to use a Google account by 2025](https://appleinsider.com/articles/22/09/26/fitbit-owners-will-need-to-use-a-google-account-by-2025?utm_medium=rss)
+ - [What’s Next for Ethereum After The Merge](https://www.wired.com/story/whats-next-for-ethereum-after-the-merge/)
+ - [Why Therapy Is Broken](https://www.wired.com/story/therapy-sucks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
