@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Here&#39;s when Wrath of the Lich King Classic launches in your time zone](https://www.pcgamer.com/wrath-classic-release-time-unlock)<!-- GAME:END -->
+ - [How to watch the second anniversary Genshin Impact concert](https://www.pcgamer.com/genshin-impact-concert-2022)
+ - [Hokko Life review](https://www.pcgamer.com/hokko-life-review)
+ - [Ultima Online has a special shield if you&#39;ve been playing for 25 years](https://www.pcgamer.com/ultima-online-has-a-special-shield-if-youve-been-playing-for-25-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
