@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to Northrend in Wrath of the Lich King Classic](https://www.pcgamer.com/wrath-classic-how-to-get-to-northrend)
- - [Super Mario Maker 2 creator releases ‘Super Mario Bros. 5’ after 7 years of work](https://www.polygon.com/23372865/super-mario-bros-5-maker-2-level-id-details)
- - [Wrath of the Lich King Classic leveling guide: Tips to reach level 80 fast](https://www.pcgamer.com/wow-wrath-classic-leveling-guide)<!-- GAME:END -->
+ - [Laena Velaryon’s story on House of the Dragon got a significant tweak](https://www.polygon.com/23372641/house-of-the-dragon-laena-velaryon-death-dragon-child)
+ - [The best Star Wars droids, according to us](https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po)
+ - [E3 2023 Is Happening In Los Angeles And Will Be Open To Fans](https://kotaku.com/e3-2023-reedpop-los-angeles-summer-game-fest-in-person-1849581935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
