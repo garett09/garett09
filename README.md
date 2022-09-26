@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me: Save the planet! Meanwhile in Qatar:](http://9gag.com/gag/armpGKd)
- - 🚯 [It friday](http://9gag.com/gag/aeQNMAv)
- - 🚯 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)<!-- MEMES:END -->
+ - 🚖 [I couldn&#39;t figure out why Chrome was scanning my other 3 drives. This BS was on by default! Check if yours is running or rename/move/delete it altogether. The crap is called `SwReporter` and can be found here: %localappdata%\\Google\\Chrome\\User Data\\SwReporter &lpar;via RUN window&rpar;](http://9gag.com/gag/abv51Z8)
+ - 🚯 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
+ - 🚯 [Me: Save the planet! Meanwhile in Qatar:](http://9gag.com/gag/armpGKd)<!-- MEMES:END -->
 
 --- 
 
