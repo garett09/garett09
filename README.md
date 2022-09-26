@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fast as f boy](http://9gag.com/gag/axoN3eD)
- - 🚯 [Hold up!](http://9gag.com/gag/aDY06bd)
- - 🚯 [I need a movie based on this](http://9gag.com/gag/a8qWmPd)<!-- MEMES:END -->
+ - 🚖 [The acting in `the pianist` is just something else.](http://9gag.com/gag/aeQNDKp)
+ - 🚯 [Reverse card](http://9gag.com/gag/amAXvLo)
+ - 🚯 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)<!-- MEMES:END -->
 
 --- 
 
