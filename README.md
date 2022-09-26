@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Laena Velaryon’s story on House of the Dragon got a significant tweak](https://www.polygon.com/23372641/house-of-the-dragon-laena-velaryon-death-dragon-child)
- - [The best Star Wars droids, according to us](https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po)
- - [E3 2023 Is Happening In Los Angeles And Will Be Open To Fans](https://kotaku.com/e3-2023-reedpop-los-angeles-summer-game-fest-in-person-1849581935)<!-- GAME:END -->
+ - [Warcrow Adventures, from the team behind Infinity, rethinks how dungeon crawlers work](https://www.polygon.com/23368911/warcrow-preview-corvus-belli-kickstarter-release-date-price)
+ - [Why do we multitask while gaming?](https://www.polygon.com/videos/23373062/multitasking-games-destiny2-genshin)
+ - [Netflix’s next big gaming move is opening its own game studio](https://www.polygon.com/23373053/netflix-video-game-studio-development)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
