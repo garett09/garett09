@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say Slack and Microsoft Teams have fundamental issues vetting third-party apps and should overhaul their app model to be more like traditional OSes &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220925/p7#a220925p7)
- - [The Absolute Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CAD590a51e)
- - [Beat the Sunday Scaries: 6 Ways to Reduce Anxiety and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/beat-the-sunday-scaries-6-ways-to-reduce-anxiety-and-sleep-well-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a new paper, Meta researchers demonstrated a system that can reconstruct a user&#39;s plausible pose from only the Quest 2&#39;s sensors using reinforcement learning &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220925/p8#a220925p8)
+ - [&#39;House of the Dragon&#39; Episode 6 Recap: 10 Years Later...     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-10-years-later/#ftag=CAD590a51e)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
