@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harry Potter and the Glocks of fire](http://9gag.com/gag/a7q5e6z)
- - 🚯 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
- - 🚯 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - 🚖 [Did you know...](http://9gag.com/gag/aL1KGWP)
+ - 🚯 [The Great replacement](http://9gag.com/gag/aNweBXv)
+ - 🚯 [For the Tsar!](http://9gag.com/gag/aWGZoDx)<!-- MEMES:END -->
 
 --- 
 
