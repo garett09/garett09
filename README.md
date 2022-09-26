@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Of Us TV Show Gets Its First Full Trailer](https://kotaku.com/last-of-us-tv-show-live-action-first-trailer-hbo-joel-1849581268)
- - [HBO’s The Last of Us has its first trailer](https://www.polygon.com/22688011/the-last-of-us-series-trailer-hbo-release-date-cast)
- - [DLSS 3 is exclusive to the RTX 40-series but older GPUs still benefit](https://www.pcgamer.com/dlss-3-on-older-GPUs)<!-- GAME:END -->
+ - [How to get to Northrend in Wrath of the Lich King Classic](https://www.pcgamer.com/wrath-classic-how-to-get-to-northrend)
+ - [Super Mario Maker 2 creator releases ‘Super Mario Bros. 5’ after 7 years of work](https://www.polygon.com/23372865/super-mario-bros-5-maker-2-level-id-details)
+ - [Wrath of the Lich King Classic leveling guide: Tips to reach level 80 fast](https://www.pcgamer.com/wow-wrath-classic-leveling-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
