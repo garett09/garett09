@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get ready to kick a cultist off a cliff in this retro FPS](https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps)
- - [Sorting through House of the Dragon’s many new kid characters](https://www.polygon.com/23368925/house-of-the-dragon-kids-who-rhaenyra-alicent-daemon-jace-joffrey-aegon)
- - [Larys Strong has manipulated his way into House of the Dragon’s game of thrones](https://www.polygon.com/23365909/larys-strong-house-of-the-dragon-character-explained)<!-- GAME:END -->
+ - [OneXPlayer&#39;s new AMD 6800U-powered handheld is up for preorder](https://www.pcgamer.com/onexplayers-new-amd-6800u-powered-handheld-is-up-for-preorder)
+ - [LinkedIn improves &#39;going global&#39; moves, boosts green efforts](https://game-rant-2022.blogspot.com/2022/09/linkedin-improves-going-global-moves.html)
+ - [10 best games confirmed to use Unreal Engine 5, ranked](https://game-rant-2022.blogspot.com/2022/09/10-best-games-confirmed-to-use-unreal.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
