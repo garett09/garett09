@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit owners will need to use a Google account by 2025](https://appleinsider.com/articles/22/09/26/fitbit-owners-will-need-to-use-a-google-account-by-2025?utm_medium=rss)
- - [What’s Next for Ethereum After The Merge](https://www.wired.com/story/whats-next-for-ethereum-after-the-merge/)
- - [Why Therapy Is Broken](https://www.wired.com/story/therapy-sucks/)<!-- TECH:END -->
+ - [iPhone 15 Ultra rumored to have two front cameras and USB-C](https://appleinsider.com/articles/22/09/26/iphone-15-ultra-rumored-to-have-two-front-cameras-and-usb-c?utm_medium=rss)
+ - [Review of AMD&#39;s new $699 Ryzen 9 7950X, built on Zen 4 with 16 cores: blistering single- and multi-threaded performance and efficiency helps beat Intel&#39;s chips &lpar;AnandTech&rpar;](http://www.techmeme.com/220926/p14#a220926p14)
+ - [How iPhone speeds have grown in the last 5 years](https://appleinsider.com/articles/22/09/26/how-iphone-speeds-have-grown-in-the-last-5-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
