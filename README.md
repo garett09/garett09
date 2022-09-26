@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hail the Queen \ud83d\udc51](http://9gag.com/gag/aVbOKxP)
- - 🚯 [100% cotton](http://9gag.com/gag/ajVrB5x)
- - 🚯 [The Great replacement](http://9gag.com/gag/aNweBXv)<!-- MEMES:END -->
+ - 🚖 [Urge you kill....rising...mm](http://9gag.com/gag/ay25WnW)
+ - 🚯 [New Italian PM](http://9gag.com/gag/aGE9A4z)
+ - 🚯 [It&#39;s you bro...](http://9gag.com/gag/aDY0YZZ)<!-- MEMES:END -->
 
 --- 
 
