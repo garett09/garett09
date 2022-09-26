@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 Most Valuable Pokémon TCG Cards In Lost Origin](https://kotaku.com/pokemon-tcg-cards-value-lost-origin-sword-nintendo-1849580188)
- - [How to get berry leather in Grounded](https://www.pcgamer.com/grounded-berry-leather-guide)
- - [House of the Dragon made its first reference to Grover Tully, one of several Fire &amp; Blood characters George R.R. Martin named after Muppets.](https://www.polygon.com/23368587/house-dragons-muppets-grover-tully)<!-- GAME:END -->
+ - [Here’s your first look at season 2 of DC’s slice-of-life Batman family comic](https://www.polygon.com/23368740/batman-webtoon-dc-comics-wayne-family-adventures-season-2)
+ - [Netflix’s Gudetama series gets a trailer and a release date](https://www.polygon.com/23372673/netflix-gudetama-trailer-season-1-release-date)
+ - [The best science fiction and fantasy books of 2022, so far](https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
