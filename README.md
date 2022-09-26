@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Ted Lasso Takes The Pitch](https://kotaku.com/grounded-fifa-23-the-fridge-is-red-valkyrie-elysium-1849583351)
- - [HBO’s The Last of Us looks like a faithful adaptation, with an exception](https://www.polygon.com/entertainment/23373686/hbo-max-the-last-of-us-melanie-lynskey-casting-show)
- - [Big Darkest Dungeon 2 update introduces progression system and hero &#39;memories&#39;](https://www.pcgamer.com/big-darkest-dungeon-2-update-introduces-progression-system-and-hero-memories)<!-- GAME:END -->
+ - [This Deluxe Steam Deck Kickstand Makes A Huge Difference](https://kotaku.com/steam-deck-deckmate-valve-kickstand-portable-1849583263)
+ - [How to unlock Cold Weather Flying in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-cold-weather-flying-unlock)
+ - [A Gummy’s Life Celebrates a Year on Xbox](https://news.xbox.com/en-us/2022/09/26/a-gummys-life-celebrates-a-year-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
