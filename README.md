@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces Prime Early Access Sale will run October 11-12](https://appleinsider.com/articles/22/09/26/amazon-announces-prime-early-access-sale-will-run-october-11-12?utm_medium=rss)
- - [iOS 16.1 AirPlay &amp; HomeKit changes, Yale Assure 2, Smartmi humidifier](https://appleinsider.com/articles/22/09/26/ios-161-airplay-homekit-changes-yale-assure-2-smartmi-humidifier?utm_medium=rss)
- - [Apple&#39;s Battersea Power Station offices in London opening soon](https://appleinsider.com/articles/22/09/26/apples-battersea-power-station-offices-in-london-opening-soon?utm_medium=rss)<!-- TECH:END -->
+ - [A Sprawling Bot Network Used Fake Porn to Fool Facebook](https://www.wired.com/story/facebook-bots-ddos-attack/)
+ - [It’s never been easier to be an artist — or harder to become a star](https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore)
+ - [The Apple Watch SE is a first-time buyer’s smartwatch](https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
