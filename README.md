@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTubers test durability of Apple Watch Ultra in different ways](https://appleinsider.com/articles/22/09/25/youtubers-test-durability-of-apple-watch-ultra-in-different-ways?utm_medium=rss)
- - [iPhone 14 Pro, Pro Max continue to be high in demand](https://appleinsider.com/articles/22/09/25/iphone-14-pro-pro-max-continue-to-be-high-in-demand?utm_medium=rss)
- - [James Earl Jones Signals His Retirement From Playing Darth Vader     - CNET](https://www.cnet.com/culture/entertainment/james-earl-jones-signals-retirement-from-darth-vader/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say Slack and Microsoft Teams have fundamental issues vetting third-party apps and should overhaul their app model to be more like traditional OSes &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220925/p7#a220925p7)
+ - [The Absolute Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CAD590a51e)
+ - [Beat the Sunday Scaries: 6 Ways to Reduce Anxiety and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/beat-the-sunday-scaries-6-ways-to-reduce-anxiety-and-sleep-well-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
