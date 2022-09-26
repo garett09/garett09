@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
- - 🚯 [2022-09-26: Booth pilots dead after two stunt planes collided with one another and crashed near Gera, Germany.](http://9gag.com/gag/aREQz1M)
- - 🚯 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)<!-- MEMES:END -->
+ - 🚖 [Hail the Queen \ud83d\udc51](http://9gag.com/gag/aVbOKxP)
+ - 🚯 [100% cotton](http://9gag.com/gag/ajVrB5x)
+ - 🚯 [The Great replacement](http://9gag.com/gag/aNweBXv)<!-- MEMES:END -->
 
 --- 
 
