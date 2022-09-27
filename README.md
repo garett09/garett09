@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart launches ‘metaverse’ experience in Roblox to sell toys to children](https://www.theverge.com/2022/9/27/23374369/walmart-land-roblox-experience-metaverse)
  - [Paris-based Regate, which offers an all-in-one platform to manage invoices, expense reports, and payments, raised a $20M series A led by Valar Ventures &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220927/p4#a220927p4)
- - [Text-to-image generation systems like DALL-E and Midjourney use datasets built by scrapping images without explicit permission and it&#39;s not easy to opt out &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/220927/p3#a220927p3)
- - [This foldable beats the Galaxy Z Fold 4 with bigger battery, faster charging](https://www.androidauthority.com/vivo-x-fold-plus-3212731/)<!-- TECH:END -->
+ - [Nothing Ear Stick specs show up in regulatory listing](https://www.androidauthority.com/nothing-ear-stick-3211872/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
