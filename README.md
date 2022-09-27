@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some wallpapers for Pixel phones, taken on Pixel phones](https://www.androidauthority.com/wallpapers-pixel-phones-3194215/)
- - [How Arm conquered the chip market without making a single chip, with CEO Rene Haas](https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder)
- - [Best Home Theater Systems of 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo rolls out Splatoon 3 widgets for Android and iOS](https://www.theverge.com/2022/9/27/23374840/nintendo-switch-online-splatoon-3-widgets-ios-android)
+ - [Watch the trailer for Netflix’s show about the rise of Spotify](https://www.theverge.com/23374848/netflix-spotify-the-playlist-trailer-release-date)
+ - [Intel’s Unison app syncs iPhones and Android phones with your PC](https://www.theverge.com/2022/9/27/23374867/intel-unison-windows-laptop-connectivity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
