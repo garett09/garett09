@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Great replacement](http://9gag.com/gag/aNweBXv)
- - 🚯 [100% cotton](http://9gag.com/gag/ajVrB5x)
- - 🚯 [Illegal African migrants mostly males and pro-migrant NGOs occupy refuge center of ukranians mostly women, children and elderly in france. Ukranians was forced to leave the facility. Enjoy 9gag is going to delete this.](http://9gag.com/gag/a1PAVPw)<!-- MEMES:END -->
+ - 🚖 [Homelander just watched Edgerunners](http://9gag.com/gag/amAXAzy)
+ - 🚯 [Dad joke in coming](http://9gag.com/gag/aXnb44z)
+ - 🚯 [Put on your seatbelts, we&#39;re going for a ride!](http://9gag.com/gag/az2bKvj)<!-- MEMES:END -->
 
 --- 
 
