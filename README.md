@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)
- - 🚯 [This man&#39;s resilience is inspiring](http://9gag.com/gag/ay25vpV)
- - 🚯 [They want equality, but no equal treatment? I cannot can..](http://9gag.com/gag/a5XdDVN)<!-- MEMES:END -->
+ - 🚖 [Always look on the bright side of life](http://9gag.com/gag/a1PA2Kv)
+ - 🚯 [Damn, that flew high](http://9gag.com/gag/aOxq9Z6)
+ - 🚯 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
 
 --- 
 
