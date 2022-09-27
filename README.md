@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)
- - 🚯 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
- - 🚯 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
+ - 🚖 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
+ - 🚯 [What a wholesome helper](http://9gag.com/gag/amAXn6j)
+ - 🚯 [How dare he!](http://9gag.com/gag/aPgvnjn)<!-- MEMES:END -->
 
 --- 
 
