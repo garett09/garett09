@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends fans are making gorgeous fan art for an unexpected Spirit Blossom ship](https://www.polygon.com/23373620/league-of-legends-spirit-blossom-sett-aphelios-ship-fan-art)
- - [The Try Guys firing drama, explained](https://www.polygon.com/23375389/the-try-guys-ned-fulmer-fired-youtube-cheating)
- - [HBO’s The Last Of Us Trailer: 11 Things That Caught Our Eye](https://kotaku.com/the-last-of-us-hbo-joel-ellie-naughty-dog-playstation-1849587727)<!-- GAME:END -->
+ - [New Gundam Game Is Basically Just Overwatch With Giant Mechs](https://kotaku.com/gundam-evolution-evo-shooter-overwatch-f2p-pc-anime-1849588275)
+ - [Sorry Y’all, Dead Island 2 Weapon Breaking Isn’t Going Anywhere](https://kotaku.com/dead-island-2-weapon-break-durability-dambuster-botw-1849588085)
+ - [Fortnite just released a ‘Dead Game’ skin](https://www.polygon.com/23375562/fortnite-dead-game-skin-epic-games-meme)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
