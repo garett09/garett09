@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turn Metal: Hellsinger into Jazz: Bebopswinger with new, free modding tools](https://www.pcgamer.com/turn-metal-hellsinger-into-jazz-bebopswinger-with-new-free-modding-tools)
- - [Bullet Train’s two best blokes pal around in the jauntiest blooper reel](https://www.polygon.com/23373124/bullet-train-blooper-reel)
- - [The First NFT-Based Game Out On The Epic Games Store Looks As Awful As You&#39;re Expecting](https://kotaku.com/epic-games-nft-blockchain-web3-fall-guys-fortnite-1849585984)<!-- GAME:END -->
+ - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
+ - [Steam Sale dates for autumn, winter, and spring revealed by Valve](https://www.polygon.com/23374974/steam-autumn-winter-spring-sale-dates)
+ - [New Overwatch 2 accounts have to unlock old heroes, too](https://www.pcgamer.com/new-overwatch-2-accounts-have-to-unlock-old-heroes-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
