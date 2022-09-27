@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google shows off all Pixel 7 Pro colors in all their glory in new video](https://www.androidauthority.com/google-pixel-7-pro-colors-3213695/)
- - [Taco Bell to Bring Back Another Discontinued Menu Item     - CNET](https://www.cnet.com/culture/taco-bell-to-bring-back-another-discontinued-menu-item/#ftag=CAD590a51e)
- - [Best Low-Interest Personal Loans for October 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel wants to help make Windows play friendly with both Android and iOS](https://www.androidauthority.com/intel-unison-windows-3213822/)
+ - [Tumblr probably won’t drop its porn ban, but it might be about to loosen it](https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging)
+ - [Hugh Jackman will reprise his Wolverine role for Marvel’s Deadpool 3](https://www.theverge.com/2022/9/27/23375621/hugh-jackman-wolverine-3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
