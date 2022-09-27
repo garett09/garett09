@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [100% cotton](http://9gag.com/gag/ajVrB5x)
- - 🚯 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)
- - 🚯 [Mandatory regular post](http://9gag.com/gag/aVbOm4M)<!-- MEMES:END -->
+ - 🚖 [Hail the Queen \ud83d\udc51](http://9gag.com/gag/aVbOKxP)
+ - 🚯 [Men will be men](http://9gag.com/gag/aYVbAn2)
+ - 🚯 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)<!-- MEMES:END -->
 
 --- 
 
