@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always look on the bright side of life](http://9gag.com/gag/a1PA2Kv)
- - 🚯 [Damn, that flew high](http://9gag.com/gag/aOxq9Z6)
- - 🚯 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
+ - 🚖 [Blep.](http://9gag.com/gag/a049wzn)
+ - 🚯 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
+ - 🚯 [We were all too young to realize](http://9gag.com/gag/aVbOVpw)<!-- MEMES:END -->
 
 --- 
 
