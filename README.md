@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Madden’s Regular Weekly Content Might Be Delayed By Hurricane Ian](https://kotaku.com/ea-madden-23-ultimate-team-delay-hurricane-ian-florida-1849587596)
- - [Alleged Grand Theft Auto 6 hacker pleads not guilty](https://www.pcgamer.com/alleged-grand-theft-auto-6-hacker-pleads-not-guilty)
- - [T-Pain Tells Awful Apex Legends Players To Touch Grass, Stop Harassing Developers](https://kotaku.com/t-pain-apex-legends-respawn-bungie-developers-harass-1849587283)<!-- GAME:END -->
+ - [League of Legends fans are making gorgeous fan art for an unexpected Spirit Blossom ship](https://www.polygon.com/23373620/league-of-legends-spirit-blossom-sett-aphelios-ship-fan-art)
+ - [The Try Guys firing drama, explained](https://www.polygon.com/23375389/the-try-guys-ned-fulmer-fired-youtube-cheating)
+ - [HBO’s The Last Of Us Trailer: 11 Things That Caught Our Eye](https://kotaku.com/the-last-of-us-hbo-joel-ellie-naughty-dog-playstation-1849587727)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
