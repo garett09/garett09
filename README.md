@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo rolls out Splatoon 3 widgets for Android and iOS](https://www.theverge.com/2022/9/27/23374840/nintendo-switch-online-splatoon-3-widgets-ios-android)
- - [Watch the trailer for Netflix’s show about the rise of Spotify](https://www.theverge.com/23374848/netflix-spotify-the-playlist-trailer-release-date)
- - [Intel’s Unison app syncs iPhones and Android phones with your PC](https://www.theverge.com/2022/9/27/23374867/intel-unison-windows-laptop-connectivity)<!-- TECH:END -->
+ - [A recent update has disrupted texting for some Galaxy S22 users](https://www.androidauthority.com/samsung-galaxy-s22-update-2-3213622/)
+ - [Arthur.ai, which helps companies monitor their ML models to ensure they stay accurate over time, raises a $42M Series B led by Acrew Capital and Greycroft &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220927/p24#a220927p24)
+ - [Apple seeds third iOS 16.1, tvOS 16.1, watchOS 9.1, fourth iPadOS 16.1 betas to developers](https://appleinsider.com/articles/22/09/27/apple-seeds-third-ios-161-tvos-161-fourth-ipados-161-betas-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
