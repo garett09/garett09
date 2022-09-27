@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police officer intentionally damages car with door while performing a search.](http://9gag.com/gag/ay259Ly)
- - 🚯 [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)
- - 🚯 [You can feel this video](http://9gag.com/gag/a4o4z2p)<!-- MEMES:END -->
+ - 🚖 [The Great replacement](http://9gag.com/gag/aNweBXv)
+ - 🚯 [100% cotton](http://9gag.com/gag/ajVrB5x)
+ - 🚯 [Illegal African migrants mostly males and pro-migrant NGOs occupy refuge center of ukranians mostly women, children and elderly in france. Ukranians was forced to leave the facility. Enjoy 9gag is going to delete this.](http://9gag.com/gag/a1PAVPw)<!-- MEMES:END -->
 
 --- 
 
