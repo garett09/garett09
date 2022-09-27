@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Simpsons Season 34 Opening Couch Gag Pays Homage to Chrome&#39;s T-Rex Game     - CNET](https://www.cnet.com/culture/entertainment/the-simpsons-season-34-opening-couch-gag-pays-homage-to-chromes-t-rex-game/#ftag=CAD590a51e)
- - [Netflix announces its first in-house game studio, its second game studio in Helsinki, to be led by ex-Zynga Vice President and General Manager Marko Lastikka &lpar;Cheri Faulkner/NME&rpar;](http://www.techmeme.com/220926/p22#a220926p22)
- - [Costco Says Hot Dog-Drink Combo Will Cost $1.50 &#39;Forever&#39;     - CNET](https://www.cnet.com/culture/costco-says-hot-dog-drink-combo-will-cost-1-50-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA just crashed a spacecraft into an asteroid to see what would happen](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
+ - [Eight states sue crypto lender Nexo over security sales and misleading marketing](https://www.theverge.com/2022/9/26/23373916/nexo-lawsuit-securities-regulation-new-york-attorney-general)
+ - [Watch This Wild Walking Table Take Its First Steps     - CNET](https://www.cnet.com/culture/watch-this-wild-walking-table-take-its-first-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
