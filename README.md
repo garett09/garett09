@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacStadium Orka Workspace offers macOS desktop in the cloud](https://appleinsider.com/articles/22/09/27/macstadiums-orka-workspace-offers-enterprise-cloud-macos-desktop?utm_medium=rss)
- - [There&#39;s more to the new AirPods Pro than meets the ear](https://appleinsider.com/articles/22/09/27/theres-more-to-the-new-airpods-pro-than-meets-the-ear?utm_medium=rss)
- - [New iPadOS beta adds Stage Manager support to older iPad Pros](https://appleinsider.com/articles/22/09/27/new-ipados-beta-adds-stage-manager-support-to-older-ipad-pros?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: save $400 on Apple&#39;s 14-inch MacBook Pro ahead of Amazon Prime holiday sale](https://appleinsider.com/articles/22/09/27/deals-save-400-on-apples-14-inch-macbook-pro-ahead-of-amazon-prime-holiday-sale?utm_medium=rss)
+ - [Robinhood’s Web3 wallet beta is live](https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon)
+ - [Stage Manager isn’t just for M1 iPads anymore](https://www.theverge.com/2022/9/27/23375174/apple-ipad-pro-stage-manager-m1-ipados-16-1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
