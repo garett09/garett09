@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
- - 🚯 [Want to fight like a man?! Then be prepared to be punched, like a man.](http://9gag.com/gag/a049OVv)
- - 🚯 [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)<!-- MEMES:END -->
+ - 🚖 [I like hearing my voice from inside my head than from the recorder](http://9gag.com/gag/aQEqZ9z)
+ - 🚯 [Ukrainian Soldiers and their genetically modified tactical Battle Squirrel](http://9gag.com/gag/a5Xd2Pr)
+ - 🚯 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
 
 --- 
 
