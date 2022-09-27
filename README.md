@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dire Warnings in the Lapsus$ Hacker Joyride](https://www.wired.com/story/lapsusdollar-uber-rockstar-breach-multifactor-authentication-weaknesses/)
- - [This Student’s Side Project Will Help Decide Musk vs. Twitter](https://www.wired.com/story/musk-twitter-botometer/)
- - [What Is a Wetland Worth?](https://www.wired.com/story/what-is-a-wetland-worth/)<!-- TECH:END -->
+ - [WhatsApp discloses critical vulnerability in older app versions](https://www.theverge.com/2022/9/27/23374468/whatsapp-bug-video-call-vulnerability-cve)
+ - [Twins sentenced over $2.2 million AT&amp;T Apple hardware fraud](https://appleinsider.com/articles/22/09/27/twins-sentenced-over-22-million-att-apple-hardware-fraud?utm_medium=rss)
+ - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
