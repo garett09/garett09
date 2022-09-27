@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hail the Queen \ud83d\udc51](http://9gag.com/gag/aVbOKxP)
- - 🚯 [Men will be men](http://9gag.com/gag/aYVbAn2)
- - 🚯 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)<!-- MEMES:END -->
+ - 🚖 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
+ - 🚯 [Want to fight like a man?! Then be prepared to be punched, like a man.](http://9gag.com/gag/a049OVv)
+ - 🚯 [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)<!-- MEMES:END -->
 
 --- 
 
