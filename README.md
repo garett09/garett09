@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches App Store development program focusing on UK women](https://appleinsider.com/articles/22/09/27/apple-launches-app-store-development-program-focusing-on-uk-women?utm_medium=rss)
- - [Study: in January 2022, 62.4% of bitcoin mining electricity came from fossil fuels, contradicting the Bitcoin Mining Council&#39;s estimate that ~59% is sustainable &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220927/p7#a220927p7)
- - [The Secret Microscope That Sparked a Scientific Revolution](https://www.wired.com/story/secret-microscope-sparked-scientific-revolution/)<!-- TECH:END -->
+ - [The Dire Warnings in the Lapsus$ Hacker Joyride](https://www.wired.com/story/lapsusdollar-uber-rockstar-breach-multifactor-authentication-weaknesses/)
+ - [This Student’s Side Project Will Help Decide Musk vs. Twitter](https://www.wired.com/story/musk-twitter-botometer/)
+ - [What Is a Wetland Worth?](https://www.wired.com/story/what-is-a-wetland-worth/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
