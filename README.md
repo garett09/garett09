@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp discloses critical vulnerability in older app versions](https://www.theverge.com/2022/9/27/23374468/whatsapp-bug-video-call-vulnerability-cve)
- - [Twins sentenced over $2.2 million AT&amp;T Apple hardware fraud](https://appleinsider.com/articles/22/09/27/twins-sentenced-over-22-million-att-apple-hardware-fraud?utm_medium=rss)
- - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)<!-- TECH:END -->
+ - [The new NBA app introduces a TikTok-like vertical video feed](https://www.theverge.com/2022/9/27/23356468/nba-app-tiktok-vertical-video-relaunch)
+ - [Apple spotlights role of iPad Pro in Pompeii archaeology](https://appleinsider.com/articles/22/09/27/apple-spotlights-role-of-ipad-pro-in-pompeii-archaeology?utm_medium=rss)
+ - [Sky Stream arrives next month to give you Sky TV without a satellite dish](https://www.theverge.com/2022/9/27/23374529/sky-stream-uk-sky-tv-release-date-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
