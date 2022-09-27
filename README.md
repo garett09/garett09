@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus’ new patch makes leveling up harder](https://www.polygon.com/23374639/multiversus-patch-notes-rick-xp-nerf-leveling)
- - [AMD&#39;s new Ryzen 7000-series processors are now available to buy](https://www.pcgamer.com/amds-new-ryzen-7000-series-processors-are-now-available-to-buy)
- - [This New Pokémon-Creating AI Is Producing Hilarious Results](https://kotaku.com/pokemon-nintendo-ai-art-machine-learning-scarlet-violet-1849585148)<!-- GAME:END -->
+ - [15 most wanted games still coming in 2022](https://blog.playstation.com/2022/09/27/15-most-wanted-games-still-coming-in-2022/)
+ - [15 most wanted games still coming in 2022](https://blog.playstation.com/2022/09/27/15-most-wanted-games-still-coming-in-2022/)
+ - [The best wireless gaming earbuds](https://www.pcgamer.com/best-wireless-gaming-earbuds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
