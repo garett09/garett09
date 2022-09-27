@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m so angry I cannot breathe&#39; says Girls Who Code founder over suspected book ban attempt](https://www.pcgamer.com/girls-who-code-book-ban)
- - [Today&#39;s Wordle 465 answer and hint: Tuesday, September 27](https://www.pcgamer.com/todays-wordle-465-answer-hint)
- - [You could grab a $1899 VR headset for $499 in Pimax&#39;s birthday sales](https://www.pcgamer.com/you-could-grab-a-dollar1899-vr-headset-for-dollar499-in-pimaxs-birthday-sales)<!-- GAME:END -->
+ - [Who sword fights better: House of the Dragon or The Rings of Power?](https://www.polygon.com/23373706/house-dragon-lord-rings-power-the-same-maybe)
+ - [Take-Two Ditches Outriders Developer&#39;s Latest Action-Adventure Game](https://kotaku.com/outriders-take-two-people-can-fly-action-adventure-1849584973)
+ - [Dome Keeper review](https://www.pcgamer.com/dome-keeper-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
