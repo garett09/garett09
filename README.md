@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)
+ - 🚖 [Mandatory regular post](http://9gag.com/gag/aVbOm4M)
  - 🚯 [Iran&#39;s soccer team has covered the emblem of the Islamic Republic during the national anthem in protest of the government and its lethal treatment of women. This could result in the execution of the players upon returning to Iran.](http://9gag.com/gag/a049z9q)
- - 🚯 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)<!-- MEMES:END -->
+ - 🚯 [Meanwhile in London](http://9gag.com/gag/aNwe2ww)<!-- MEMES:END -->
 
 --- 
 
