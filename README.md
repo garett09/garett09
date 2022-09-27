@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save $400 on Apple&#39;s 14-inch MacBook Pro ahead of Amazon Prime holiday sale](https://appleinsider.com/articles/22/09/27/deals-save-400-on-apples-14-inch-macbook-pro-ahead-of-amazon-prime-holiday-sale?utm_medium=rss)
- - [Robinhood’s Web3 wallet beta is live](https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon)
- - [Stage Manager isn’t just for M1 iPads anymore](https://www.theverge.com/2022/9/27/23375174/apple-ipad-pro-stage-manager-m1-ipados-16-1)<!-- TECH:END -->
+ - [Go get your Netflix gamertag](https://www.theverge.com/2022/9/27/23375319/netflix-games-gamertag-username-handle-ios-android)
+ - [Vanilla Samsung Galaxy S23 renders break cover, look a lot like Galaxy S23 Plus](https://www.androidauthority.com/samsung-galaxy-s23-design-3213800/)
+ - [Two years after Apple Silicon, Intel still wants Apple to buy chips](https://appleinsider.com/articles/22/09/27/intel-still-pines-for-apple-as-a-future-chip-client?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
