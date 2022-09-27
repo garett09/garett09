@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Satisfying &lpar;?&rpar;](http://9gag.com/gag/aEqwQmx)
- - 🚯 [Russian Mobilization](http://9gag.com/gag/a4o4Ve6)
- - 🚯 [They want equality, but no equal treatment? I cannot can..](http://9gag.com/gag/a5XdDVN)<!-- MEMES:END -->
+ - 🚖 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)
+ - 🚯 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
+ - 🚯 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
 
 --- 
 
