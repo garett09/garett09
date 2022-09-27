@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Gundam Game Is Basically Just Overwatch With Giant Mechs](https://kotaku.com/gundam-evolution-evo-shooter-overwatch-f2p-pc-anime-1849588275)
- - [Sorry Y’all, Dead Island 2 Weapon Breaking Isn’t Going Anywhere](https://kotaku.com/dead-island-2-weapon-break-durability-dambuster-botw-1849588085)
- - [Fortnite just released a ‘Dead Game’ skin](https://www.polygon.com/23375562/fortnite-dead-game-skin-epic-games-meme)<!-- GAME:END -->
+ - [Suspected GTA 6 Leaker Pleads Not Guilty On Hacking Charges [Update]](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
+ - [Aero GPX is F-Zero with the rage throttle set to 2,000 kmph](https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph)
+ - [Warhaven is a &#39;full contact sword action&#39; game you can play for free in October](https://www.pcgamer.com/warhaven-is-a-full-contact-sword-action-game-you-can-play-for-free-in-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
