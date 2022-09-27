@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who sword fights better: House of the Dragon or The Rings of Power?](https://www.polygon.com/23373706/house-dragon-lord-rings-power-the-same-maybe)
- - [Take-Two Ditches Outriders Developer&#39;s Latest Action-Adventure Game](https://kotaku.com/outriders-take-two-people-can-fly-action-adventure-1849584973)
- - [Dome Keeper review](https://www.pcgamer.com/dome-keeper-review)<!-- GAME:END -->
+ - [MultiVersus’ new patch makes leveling up harder](https://www.polygon.com/23374639/multiversus-patch-notes-rick-xp-nerf-leveling)
+ - [AMD&#39;s new Ryzen 7000-series processors are now available to buy](https://www.pcgamer.com/amds-new-ryzen-7000-series-processors-are-now-available-to-buy)
+ - [This New Pokémon-Creating AI Is Producing Hilarious Results](https://kotaku.com/pokemon-nintendo-ai-art-machine-learning-scarlet-violet-1849585148)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
