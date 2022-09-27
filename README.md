@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roomba’s latest robot vacuum has a robot mop on top](https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price)
- - [Samsung launches a co-branded credit card with Axis Bank in India, where it has 175M customers, offering 10% cashback to customers buying Samsung products &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220926/p27#a220926p27)
- - [South Korea&#39;s science minister says a &quot;sense of crisis&quot; has gripped the country&#39;s chip industry, as new legislation aims to boost its global competitiveness &lpar;Financial Times&rpar;](http://www.techmeme.com/220926/p26#a220926p26)<!-- TECH:END -->
+ - [Thailand&#39;s LINE MAN Wongnai, which provides food delivery and runs an e-commerce platform for businesses, raised a $265M series B led by GIC at a $1B+ valuation &lpar;Anuchit Nguyen/Bloomberg&rpar;](http://www.techmeme.com/220927/p2#a220927p2)
+ - [A look at the vote on the new head of the UN&#39;s International Telecommunications Union between a US and Russian candidate, and its implications for the open web &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/220927/p1#a220927p1)
+ - [The Moment NASA&#39;s DART Probe Hit an Asteroid Captured in Epic Telescope View     - CNET](https://www.cnet.com/science/space/the-moment-nasas-dart-probe-hit-an-asteroid-captured-in-epic-telescope-view/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
