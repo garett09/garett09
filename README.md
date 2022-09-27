@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
- - 🚯 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
- - 🚯 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)<!-- MEMES:END -->
+ - 🚖 [Oh God, I hurt my master](http://9gag.com/gag/agoy29v)
+ - 🚯 [This man&#39;s resilience is inspiring](http://9gag.com/gag/ay25vpV)
+ - 🚯 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
 
 --- 
 
