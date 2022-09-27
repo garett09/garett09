@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new NBA app introduces a TikTok-like vertical video feed](https://www.theverge.com/2022/9/27/23356468/nba-app-tiktok-vertical-video-relaunch)
- - [Apple spotlights role of iPad Pro in Pompeii archaeology](https://appleinsider.com/articles/22/09/27/apple-spotlights-role-of-ipad-pro-in-pompeii-archaeology?utm_medium=rss)
- - [Sky Stream arrives next month to give you Sky TV without a satellite dish](https://www.theverge.com/2022/9/27/23374529/sky-stream-uk-sky-tv-release-date-price)<!-- TECH:END -->
+ - [Nreal Air AR glasses put your iPhone onto a 130-foot display](https://appleinsider.com/articles/22/09/27/nreal-air-ar-glasses-put-your-iphone-onto-a-130-foot-display?utm_medium=rss)
+ - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)
+ - [The Best Smart Speakers With Voice Assistants](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
