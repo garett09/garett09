@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA just crashed a spacecraft into an asteroid to see what would happen](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
- - [Eight states sue crypto lender Nexo over security sales and misleading marketing](https://www.theverge.com/2022/9/26/23373916/nexo-lawsuit-securities-regulation-new-york-attorney-general)
- - [Watch This Wild Walking Table Take Its First Steps     - CNET](https://www.cnet.com/culture/watch-this-wild-walking-table-take-its-first-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roomba’s latest robot vacuum has a robot mop on top](https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price)
+ - [Samsung launches a co-branded credit card with Axis Bank in India, where it has 175M customers, offering 10% cashback to customers buying Samsung products &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220926/p27#a220926p27)
+ - [South Korea&#39;s science minister says a &quot;sense of crisis&quot; has gripped the country&#39;s chip industry, as new legislation aims to boost its global competitiveness &lpar;Financial Times&rpar;](http://www.techmeme.com/220926/p26#a220926p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
