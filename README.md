@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homelander just watched Edgerunners](http://9gag.com/gag/amAXAzy)
- - 🚯 [Dad joke in coming](http://9gag.com/gag/aXnb44z)
- - 🚯 [Put on your seatbelts, we&#39;re going for a ride!](http://9gag.com/gag/az2bKvj)<!-- MEMES:END -->
+ - 🚖 [100% cotton](http://9gag.com/gag/ajVrB5x)
+ - 🚯 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)
+ - 🚯 [Mandatory regular post](http://9gag.com/gag/aVbOm4M)<!-- MEMES:END -->
 
 --- 
 
