@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh God, I hurt my master](http://9gag.com/gag/agoy29v)
+ - 🚖 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)
  - 🚯 [This man&#39;s resilience is inspiring](http://9gag.com/gag/ay25vpV)
- - 🚯 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
+ - 🚯 [They want equality, but no equal treatment? I cannot can..](http://9gag.com/gag/a5XdDVN)<!-- MEMES:END -->
 
 --- 
 
