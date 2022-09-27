@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go get your Netflix gamertag](https://www.theverge.com/2022/9/27/23375319/netflix-games-gamertag-username-handle-ios-android)
- - [Vanilla Samsung Galaxy S23 renders break cover, look a lot like Galaxy S23 Plus](https://www.androidauthority.com/samsung-galaxy-s23-design-3213800/)
- - [Two years after Apple Silicon, Intel still wants Apple to buy chips](https://appleinsider.com/articles/22/09/27/intel-still-pines-for-apple-as-a-future-chip-client?utm_medium=rss)<!-- TECH:END -->
+ - [Google shows off all Pixel 7 Pro colors in all their glory in new video](https://www.androidauthority.com/google-pixel-7-pro-colors-3213695/)
+ - [Taco Bell to Bring Back Another Discontinued Menu Item     - CNET](https://www.cnet.com/culture/taco-bell-to-bring-back-another-discontinued-menu-item/#ftag=CAD590a51e)
+ - [Best Low-Interest Personal Loans for October 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
