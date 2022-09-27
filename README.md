@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A recent update has disrupted texting for some Galaxy S22 users](https://www.androidauthority.com/samsung-galaxy-s22-update-2-3213622/)
- - [Arthur.ai, which helps companies monitor their ML models to ensure they stay accurate over time, raises a $42M Series B led by Acrew Capital and Greycroft &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220927/p24#a220927p24)
- - [Apple seeds third iOS 16.1, tvOS 16.1, watchOS 9.1, fourth iPadOS 16.1 betas to developers](https://appleinsider.com/articles/22/09/27/apple-seeds-third-ios-161-tvos-161-fourth-ipados-161-betas-to-developers?utm_medium=rss)<!-- TECH:END -->
+ - [MacStadium Orka Workspace offers macOS desktop in the cloud](https://appleinsider.com/articles/22/09/27/macstadiums-orka-workspace-offers-enterprise-cloud-macos-desktop?utm_medium=rss)
+ - [There&#39;s more to the new AirPods Pro than meets the ear](https://appleinsider.com/articles/22/09/27/theres-more-to-the-new-airpods-pro-than-meets-the-ear?utm_medium=rss)
+ - [New iPadOS beta adds Stage Manager support to older iPad Pros](https://appleinsider.com/articles/22/09/27/new-ipados-beta-adds-stage-manager-support-to-older-ipad-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
