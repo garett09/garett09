@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [15 most wanted games still coming in 2022](https://blog.playstation.com/2022/09/27/15-most-wanted-games-still-coming-in-2022/)
- - [15 most wanted games still coming in 2022](https://blog.playstation.com/2022/09/27/15-most-wanted-games-still-coming-in-2022/)
- - [The best wireless gaming earbuds](https://www.pcgamer.com/best-wireless-gaming-earbuds)<!-- GAME:END -->
+ - [Turn Metal: Hellsinger into Jazz: Bebopswinger with new, free modding tools](https://www.pcgamer.com/turn-metal-hellsinger-into-jazz-bebopswinger-with-new-free-modding-tools)
+ - [Bullet Train’s two best blokes pal around in the jauntiest blooper reel](https://www.polygon.com/23373124/bullet-train-blooper-reel)
+ - [The First NFT-Based Game Out On The Epic Games Store Looks As Awful As You&#39;re Expecting](https://kotaku.com/epic-games-nft-blockchain-web3-fall-guys-fortnite-1849585984)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
