@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Biggest Reasons To Play Destiny 2 Right Now Is Bugged](https://kotaku.com/destiny-2-witch-queen-season-18-plunder-red-border-1849590872)
- - [Square Enix’s The DioField Chronicle is 2022’s sleeper RPG hit](https://www.polygon.com/23375471/the-diofield-chronicle-tactical-rpg-square-enix-nintendo-switch-ps4-xbox-ps5-steam-pc)
- - [How to clean your mouse pad without destroying it](https://www.pcgamer.com/how-to-clean-your-mouse-pad)<!-- GAME:END -->
+ - [This Is The First Time Anyone&#39;s Fully Seen How Pokémon Cards Are Made &lpar;And Damn Is It Satisfying&rpar;](https://kotaku.com/pokemon-tcg-cards-nintendo-design-factory-booster-box-1849590913)
+ - [Ubisoft delays Skull &amp; Bones &lpar;again&rpar; to 2023](https://www.polygon.com/23372733/skull-bones-delayed-again-ubisoft-singapore-release-date)
+ - [EA and Koei Tecmo reveal their new magic monster hunting game](https://www.pcgamer.com/ea-and-koei-tecmo-reveal-their-new-magic-monster-hunting-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
