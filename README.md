@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MultiVersus Guide: Gameplay, Perks and Every Playable Character     - CNET](https://www.cnet.com/tech/gaming/multiversus-guide-gameplay-perks-and-every-playable-character/#ftag=CAD590a51e)
- - [Court filing: Elon Musk&#39;s deposition by Twitter&#39;s lawyers has been rescheduled to October 6 and 7 &lpar;The Guardian&rpar;](http://www.techmeme.com/220927/p31#a220927p31)
- - [Researchers Discover Wreck of Ship That Tried to Warn the Titanic     - CNET](https://www.cnet.com/science/researchers-discover-wreck-of-ship-that-tried-to-warn-the-titanic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fast Company’s Apple News access hijacked to send an obscene push notification](https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack)
+ - [Who Is the Stranger in Rings of Power? Here Are Our Best Guesses     - CNET](https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power-here-are-our-best-guesses/#ftag=CAD590a51e)
+ - [Apple pulls top Russian social media app from App Store](https://appleinsider.com/articles/22/09/28/apple-pulls-top-russian-social-media-app-from-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
