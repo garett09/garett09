@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe&#39;s Scott Belsky says the company plans to integrate Figma without changing its pricing or UI, add support for other Adobe tools, and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220928/p23#a220928p23)
- - [Web apps on Windows are getting closer to their native counterparts](https://www.theverge.com/2022/9/28/23376521/windows-web-apps-pwas-title-bar-controls-overlay)
- - [OpenAI plans to remove the waitlist for DALL-E today, giving anyone immediate access; Sam Altman says a public release is an essential step for safe development &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220928/p22#a220928p22)<!-- TECH:END -->
+ - [Amazon’s big Echo &lpar;and maybe Kindle?&rpar; event live blog](https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements)
+ - [SEC sues MoviePass executives for lying about its completely unsustainable business model](https://www.theverge.com/2022/9/28/23376511/moviepass-executives-sec-lawsuit-business-model-fraud)
+ - [TCL’s 65-inch 5-Series TV is $150 off today at Amazon and Best Buy](https://www.theverge.com/2022/9/28/23375351/tcl-5-series-qled-tv-lg-gram-15-laptop-anker-521-portable-power-station-sony-linkbuds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
