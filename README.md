@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast Company’s Apple News access hijacked to send an obscene push notification](https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack)
- - [Who Is the Stranger in Rings of Power? Here Are Our Best Guesses     - CNET](https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power-here-are-our-best-guesses/#ftag=CAD590a51e)
- - [Apple pulls top Russian social media app from App Store](https://appleinsider.com/articles/22/09/28/apple-pulls-top-russian-social-media-app-from-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [The US SEC and CFTC fine 16 financial firms $1.1B and $710M in penalties, respectively, for failing to monitor employees using unauthorized messaging apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p37#a220927p37)
+ - [Netflix&#39;s password sharing crackdown sparked protests on social media in Argentina, but a source says the anger didn&#39;t translate into a mass subscriber exodus &lpar;Rest of World&rpar;](http://www.techmeme.com/220927/p36#a220927p36)
+ - [Sources: Apple tells suppliers to pull back from efforts to increase supply of iPhone 14 models by ~6M units in H2 2022, aiming for 90M units, on par with 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p35#a220927p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
