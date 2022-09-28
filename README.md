@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major advertisers say they suspended marketing campaigns from Twitter because their promoted tweets appeared alongside tweets soliciting or selling child porn &lpar;Reuters&rpar;](http://www.techmeme.com/220928/p36#a220928p36)
- - [Here’s how to preorder &lpar;almost&rpar; all of Amazon’s latest tech](https://www.theverge.com/23376866/amazon-2022-preorder-kindle-scribe-halo-rise-echo-dot-eero-fire-tv-cube-omni-auto-ring-sale)
- - [Google unveils search results with a &quot;Discussions and forums&quot; section, rolling out on mobile in the US, and with machine-translated news coverage, in early 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220928/p35#a220928p35)<!-- TECH:END -->
+ - [Sources: Google Ventures has shelved its algorithm that for years had served as a gatekeeper for new investments &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220928/p37#a220928p37)
+ - [Russia regulator demands answers for VK removal from the App Store](https://appleinsider.com/articles/22/09/28/russia-regulator-demands-answers-for-vk-removal-from-the-app-store?utm_medium=rss)
+ - [This Mac mini with 16GB RAM is on sale for $799, plus $30 off AppleCare](https://appleinsider.com/articles/22/09/28/this-mac-mini-with-16gb-ram-is-on-sale-for-799-plus-30-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
