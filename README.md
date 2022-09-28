@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easy money](http://9gag.com/gag/a2KNgv9)
- - 🚯 [Ukrainians shot down SU-25](http://9gag.com/gag/armpLdy)
- - 🚯 [This man can die peacefully now](http://9gag.com/gag/aeQNq5B)<!-- MEMES:END -->
+ - 🚖 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)
+ - 🚯 [LCD screen under a microscope reveals rows of pixels labeled with numbers a tenth the width of a human hair.](http://9gag.com/gag/aBdKvwZ)
+ - 🚯 [Hmmmm](http://9gag.com/gag/a6qwex9)<!-- MEMES:END -->
 
 --- 
 
