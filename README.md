@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best places to farm powerful Cabal in Destiny 2](https://www.pcgamer.com/destiny-2-powerful-cabal-farm)
- - [A massive 34-core Intel Raptor Lake chip just showed up out of nowhere](https://www.pcgamer.com/intel-raptor-lake-34-core-chip)
- - [There are too many RPGs coming, and Square Enix is to blame](https://www.polygon.com/23374590/square-enix-fall-2022-preview-crisis-core-final-fantasy-7-harvestella-nier)<!-- GAME:END -->
+ - [Mon Mothama returns to Star Wars as Andor’s less-than-perfect hero](https://www.polygon.com/star-wars/23375328/andor-mon-mothma-star-wars-episode-4)
+ - [How to make ratatouille in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-ratatouille-recipe)
+ - [How to farm seaweed in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
