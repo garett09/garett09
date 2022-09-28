@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Chatbot Aims to Steer People Away From Child Abuse Material](https://www.wired.com/story/pornhub-search-child-abuse-chatbot/)
- - [Researchers say the Lapsus$ hackers&#39; success reveals how many weaknesses in organizations weren&#39;t immediately useful to state-backed actors or cybercriminals &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220928/p1#a220928p1)
- - [&#39;Dahmer&#39; on Netflix: Everything to Know About the Controversial Series     - CNET](https://www.cnet.com/culture/entertainment/dahmer-on-netflix-everything-to-know-about-the-controversial-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare says Greylock, Bessemer, and other VC firms have collectively offered to invest up to $1.25B in startups that use its serverless computing platform &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220928/p3#a220928p3)
+ - [YouTuber says Samsung phone batteries are prematurely swelling](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)
+ - [Polestar teases new details about its electric SUV ahead of October 12th launch](https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
