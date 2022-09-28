@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to remove photo backgrounds in iOS 16 &amp; macOS Ventura](https://appleinsider.com/articles/22/06/07/hands-on-how-to-lift-subjects-from-photos-in-ios-16-and-macos-ventura?utm_medium=rss)
- - [Ming-Chi Kuo says iPhone production cut report is &#39;weird&#39;](https://appleinsider.com/articles/22/09/28/ming-chi-kuo-says-iphone-production-cut-report-is-weird?utm_medium=rss)
- - [Eero’s realizing that wires can be good, actually](https://www.theverge.com/2022/9/28/23375265/eero-poe-6-access-point-gateway-amazon-wi-fi)<!-- TECH:END -->
+ - [Amazon announces a new e-ink tablet called the Kindle Scribe](https://www.androidauthority.com/amazon-kindle-scribe-3214237/)
+ - [The 11 biggest announcements at Amazon’s hardware launch event](https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa)
+ - [COVID-19 tests will no longer get emergency treatment at the FDA](https://www.theverge.com/2022/9/28/23376657/fda-covid-test-emergency-authorization-rules)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
