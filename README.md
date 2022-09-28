@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says Greylock, Bessemer, and other VC firms have collectively offered to invest up to $1.25B in startups that use its serverless computing platform &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220928/p3#a220928p3)
- - [YouTuber says Samsung phone batteries are prematurely swelling](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)
- - [Polestar teases new details about its electric SUV ahead of October 12th launch](https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12)<!-- TECH:END -->
+ - [Amazon&#39;s 2022 Echo and Ring Launch Event: How to Get All the Details Live     - CNET](https://www.cnet.com/tech/amazon-ring-echo-devices-services-launch-event-2022/#ftag=CAD590a51e)
+ - [Cloudflare says Greylock, Bessemer, and other VC firms offered to invest up to $1.25B from existing funds in startups that use its serverless computing platform &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220928/p3#a220928p3)
+ - [YouTuber says Samsung phone batteries are prematurely swelling](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
