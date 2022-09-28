@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)
- - 🚯 [One of the life-size Gumdan in Japan. This one is in Yokohama](http://9gag.com/gag/ap9qVo8)
- - 🚯 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)<!-- MEMES:END -->
+ - 🚖 [That\u2019s not what\u2026.](http://9gag.com/gag/ay25AeV)
+ - 🚯 [Men... uh... bad](http://9gag.com/gag/a5XdD5r)
+ - 🚯 [Baltic Pipe is opening today](http://9gag.com/gag/ajVrRZg)<!-- MEMES:END -->
 
 --- 
 
