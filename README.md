@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 466 answer and hint: Wednesday, September 28](https://www.pcgamer.com/todays-wordle-466-answer-hint)
- - [Nvidia clears up concerns regarding power supplies and next gen GPUs](https://www.pcgamer.com/nvidia-clears-up-concerns-regarding-power-supplies-and-next-gen-gpus)
- - [Our favourite QD-OLED monitor gets a $200 cheaper FreeSync variant](https://www.pcgamer.com/our-favourite-qd-oled-monitor-gets-a-dollar200-cheaper-freesync-variant)<!-- GAME:END -->
+ - [The best places to farm powerful Cabal in Destiny 2](https://www.pcgamer.com/destiny-2-powerful-cabal-farm)
+ - [A massive 34-core Intel Raptor Lake chip just showed up out of nowhere](https://www.pcgamer.com/intel-raptor-lake-34-core-chip)
+ - [There are too many RPGs coming, and Square Enix is to blame](https://www.polygon.com/23374590/square-enix-fall-2022-preview-crisis-core-final-fantasy-7-harvestella-nier)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
