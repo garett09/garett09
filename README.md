@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new lock screen prove the industry is a circular human centipede](https://www.androidauthority.com/samsung-copy-ios-16-one-ui-5-lock-screen-customization-3213948/)
- - [Tumblr introduces &quot;community labels&quot;, letting users tag posts about drug and alcohol addiction, violence, and sexual content; no content rules are changing &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220928/p5#a220928p5)
- - [Leaked Galaxy S23 renders suggest Samsung could ditch the camera bump](https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023)<!-- TECH:END -->
+ - [Apple said to be scaling back production of entire iPhone 14 range](https://appleinsider.com/articles/22/09/28/apple-now-looks-to-be-scaling-back-production-of-iphone-14-range?utm_medium=rss)
+ - [Q&amp;A with Arm CEO Rene Haas on the company&#39;s business, customers, IPO plans, corporate structure, working with TSMC and Apple, building chips for cars, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220928/p9#a220928p9)
+ - [The Galaxy S23 series could launch sooner than expected](https://www.androidauthority.com/samsung-galaxy-s23-series-launch-soon-3213975/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
