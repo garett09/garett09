@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Played 1,167 Hours Of Dragon Age: Origins And Lived](https://kotaku.com/dragon-age-origins-bioware-ea-steam-mods-hours-played-1849590477)
- - [Dark Pictures: Man of Medan gets surprise new chapter in update](https://www.polygon.com/23376587/dark-pictures-man-of-medan-ps5-xbox-series-x-free-chapter-little-hope-update)
- - [This space MMO looks like Halo and Starfield had a beautiful baby](https://www.pcgamer.com/this-space-mmo-looks-like-halo-and-starfield-had-a-beautiful-baby)<!-- GAME:END -->
+ - [One Of The Biggest Reasons To Play Destiny 2 Right Now Is Bugged](https://kotaku.com/destiny-2-witch-queen-season-18-plunder-red-border-1849590872)
+ - [Square Enix’s The DioField Chronicle is 2022’s sleeper RPG hit](https://www.polygon.com/23375471/the-diofield-chronicle-tactical-rpg-square-enix-nintendo-switch-ps4-xbox-ps5-steam-pc)
+ - [How to clean your mouse pad without destroying it](https://www.pcgamer.com/how-to-clean-your-mouse-pad)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
