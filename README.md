@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might let you test satellite SOS without sending an emergency message](https://www.theverge.com/2022/9/28/23376856/apple-iphone-14-satellite-sos-demo-emergency-message)
- - [Verizon teases a ‘5G gaming handheld’ made by Razer](https://www.theverge.com/2022/9/28/23376850/verizon-5g-edge-gaming-handheld-razer-qualcomm-tease-home-router)
- - [DocuSign will lay off 9% of staff as part of a major restructuring to be completed by 2023 end, incurring charges of $30M-$40M; it had 7,461 staffers in January &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220928/p34#a220928p34)<!-- TECH:END -->
+ - [Major advertisers say they suspended marketing campaigns from Twitter because their promoted tweets appeared alongside tweets soliciting or selling child porn &lpar;Reuters&rpar;](http://www.techmeme.com/220928/p36#a220928p36)
+ - [Here’s how to preorder &lpar;almost&rpar; all of Amazon’s latest tech](https://www.theverge.com/23376866/amazon-2022-preorder-kindle-scribe-halo-rise-echo-dot-eero-fire-tv-cube-omni-auto-ring-sale)
+ - [Google unveils search results with a &quot;Discussions and forums&quot; section, rolling out on mobile in the US, and with machine-translated news coverage, in early 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220928/p35#a220928p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
