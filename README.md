@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s big Echo &lpar;and maybe Kindle?&rpar; event live blog](https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements)
- - [SEC sues MoviePass executives for lying about its completely unsustainable business model](https://www.theverge.com/2022/9/28/23376511/moviepass-executives-sec-lawsuit-business-model-fraud)
- - [TCL’s 65-inch 5-Series TV is $150 off today at Amazon and Best Buy](https://www.theverge.com/2022/9/28/23375351/tcl-5-series-qled-tv-lg-gram-15-laptop-anker-521-portable-power-station-sony-linkbuds-deal-sale)<!-- TECH:END -->
+ - [How to remove photo backgrounds in iOS 16 &amp; macOS Ventura](https://appleinsider.com/articles/22/06/07/hands-on-how-to-lift-subjects-from-photos-in-ios-16-and-macos-ventura?utm_medium=rss)
+ - [Ming-Chi Kuo says iPhone production cut report is &#39;weird&#39;](https://appleinsider.com/articles/22/09/28/ming-chi-kuo-says-iphone-production-cut-report-is-weird?utm_medium=rss)
+ - [Eero’s realizing that wires can be good, actually](https://www.theverge.com/2022/9/28/23375265/eero-poe-6-access-point-gateway-amazon-wi-fi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
