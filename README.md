@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
- - 🚯 [What a wholesome helper](http://9gag.com/gag/amAXn6j)
- - 🚯 [Iran&#39;s soccer team has covered the emblem of the Islamic Republic during the national anthem in protest of the government and its lethal treatment of women. This could result in the execution of the players upon returning to Iran.](http://9gag.com/gag/a049z9q)<!-- MEMES:END -->
+ - 🚖 [Every action has reaction](http://9gag.com/gag/aWGZvO4)
+ - 🚯 [MEAT IS MEAT!](http://9gag.com/gag/abv5L6B)
+ - 🚯 [Mandatory regular post](http://9gag.com/gag/aVbOm4M)<!-- MEMES:END -->
 
 --- 
 
