@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These stunning Lego minifig photos are a fantasy genre all their own](https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy)
- - [I can&#39;t believe I&#39;m saying this but Skull and Bones is delayed again](https://www.pcgamer.com/i-cant-believe-im-saying-this-but-skull-and-bones-is-delayed-again)
- - [The PS5 features bringing A Plague Tale: Requiem to life](https://blog.playstation.com/2022/09/28/the-ps5-features-bringing-a-plague-tale-requiem-to-life/)<!-- GAME:END -->
+ - [Far Cry 6 May Be Getting A GOTY Edition Despite Getting Almost No Awards](https://kotaku.com/far-cry-6-goty-game-of-the-year-leak-ubisoft-open-world-1849591625)
+ - [Chess Grandmaster Loses Job After Making Sexist Comments At Women’s Tournament](https://kotaku.com/chess-grandmaster-scandal-womens-grand-prix-ilya-smirin-1849590949)
+ - [D&amp;D’s newest push is into classrooms around the world](https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
