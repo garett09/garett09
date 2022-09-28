@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All yours babe](http://9gag.com/gag/aA0YqAR)
- - 🚯 [Lazy Writing, Lazy everything](http://9gag.com/gag/aREQN2B)
- - 🚯 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)<!-- MEMES:END -->
+ - 🚖 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
+ - 🚯 [What a wholesome helper](http://9gag.com/gag/amAXn6j)
+ - 🚯 [Iran&#39;s soccer team has covered the emblem of the Islamic Republic during the national anthem in protest of the government and its lethal treatment of women. This could result in the execution of the players upon returning to Iran.](http://9gag.com/gag/a049z9q)<!-- MEMES:END -->
 
 --- 
 
