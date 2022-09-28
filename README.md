@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 70 of the best desktop computer deals](https://www.androidauthority.com/best-desktop-computer-deals-1115949/)
- - [Google’s Pixel 7 and Pixel Watch event: all the news and announcements](https://www.theverge.com/2022/9/28/23375741/google-pixel-7-pro-watch-smartwatch-nest-news-announcements)
- - [PlayStation’s new loyalty program launches in the US next week](https://www.theverge.com/2022/9/28/23377398/playstation-stars-loyalty-rewards-program-launch-us-americas-asia-europe-australia)<!-- TECH:END -->
+ - [Hertz and BP are teaming up to create a network of EV chargers in the US](https://www.theverge.com/2022/9/28/23377365/hertz-bp-network-ev-chargers-us-electric-vehicle)
+ - [SWIFT is working with blockchain data provider Chainlink on a cross-chain interoperability protocol to let SWIFT messages instruct on-chain token transfers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/220928/p40#a220928p40)
+ - [Apple to announce fourth-quarter earnings  on October 27](https://appleinsider.com/articles/22/09/28/apple-to-announce-fourth-quarter-earnings-on-october-27?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
