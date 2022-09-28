@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mandatory regular post](http://9gag.com/gag/aVbOm4M)
- - 🚯 [Iran&#39;s soccer team has covered the emblem of the Islamic Republic during the national anthem in protest of the government and its lethal treatment of women. This could result in the execution of the players upon returning to Iran.](http://9gag.com/gag/a049z9q)
- - 🚯 [Meanwhile in London](http://9gag.com/gag/aNwe2ww)<!-- MEMES:END -->
+ - 🚖 [All yours babe](http://9gag.com/gag/aA0YqAR)
+ - 🚯 [Lazy Writing, Lazy everything](http://9gag.com/gag/aREQN2B)
+ - 🚯 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)<!-- MEMES:END -->
 
 --- 
 
