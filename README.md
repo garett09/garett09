@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is The First Time Anyone&#39;s Fully Seen How Pokémon Cards Are Made &lpar;And Damn Is It Satisfying&rpar;](https://kotaku.com/pokemon-tcg-cards-nintendo-design-factory-booster-box-1849590913)
- - [Ubisoft delays Skull &amp; Bones &lpar;again&rpar; to 2023](https://www.polygon.com/23372733/skull-bones-delayed-again-ubisoft-singapore-release-date)
- - [EA and Koei Tecmo reveal their new magic monster hunting game](https://www.pcgamer.com/ea-and-koei-tecmo-reveal-their-new-magic-monster-hunting-game)<!-- GAME:END -->
+ - [These stunning Lego minifig photos are a fantasy genre all their own](https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy)
+ - [I can&#39;t believe I&#39;m saying this but Skull and Bones is delayed again](https://www.pcgamer.com/i-cant-believe-im-saying-this-but-skull-and-bones-is-delayed-again)
+ - [The PS5 features bringing A Plague Tale: Requiem to life](https://blog.playstation.com/2022/09/28/the-ps5-features-bringing-a-plague-tale-requiem-to-life/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
