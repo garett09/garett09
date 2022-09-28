@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukranian soldiers reunited with their parents after the village has been liberated! If someone can translate it, plz do](http://9gag.com/gag/aKEzMoQ)
- - 🚯 [This poor russian mobilik has no idea he was captured. `It&#39;s the first time I see soldiers here`. -`we too, but we are banderovites &lpar;bad guys&rpar;`](http://9gag.com/gag/aqemEyv)
- - 🚯 [This man can die peacefully now](http://9gag.com/gag/aeQNq5B)<!-- MEMES:END -->
+ - 🚖 [Aww shiieeet](http://9gag.com/gag/aXnbzLg)
+ - 🚯 [The Historic U.S. Route 50 &lpar;The loneliest road in America&rpar; - From West Sacramento in California all the way to Ocean City in Maryland &lpar;a distance of about 3,073 miles&rpar;, the roadway traverses vast swaths of barren, arid terrain.](http://9gag.com/gag/aqemD37)
+ - 🚯 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)<!-- MEMES:END -->
 
 --- 
 
