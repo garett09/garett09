@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Italian PM](http://9gag.com/gag/aGE9A4z)
- - 🚯 [We were all too young to realize](http://9gag.com/gag/aVbOVpw)
- - 🚯 [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)<!-- MEMES:END -->
+ - 🚖 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
+ - 🚯 [Iran&#39;s soccer team has covered the emblem of the Islamic Republic during the national anthem in protest of the government and its lethal treatment of women. This could result in the execution of the players upon returning to Iran.](http://9gag.com/gag/a049z9q)
+ - 🚯 [Hmmmm](http://9gag.com/gag/aEqwjGe)<!-- MEMES:END -->
 
 --- 
 
