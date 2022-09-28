@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple said to be scaling back production of entire iPhone 14 range](https://appleinsider.com/articles/22/09/28/apple-now-looks-to-be-scaling-back-production-of-iphone-14-range?utm_medium=rss)
- - [Q&amp;A with Arm CEO Rene Haas on the company&#39;s business, customers, IPO plans, corporate structure, working with TSMC and Apple, building chips for cars, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220928/p9#a220928p9)
- - [The Galaxy S23 series could launch sooner than expected](https://www.androidauthority.com/samsung-galaxy-s23-series-launch-soon-3213975/)<!-- TECH:END -->
+ - [The Wacom Cintiq Pro 27 introduces slim bezels and a customizable pen](https://www.theverge.com/2022/9/28/23374450/wacom-cintiq-pro-27-graphics-drawing-tablet-new-release-price-announcement)
+ - [YouTube rolls out narration voiceovers for Shorts on iOS, a popular feature on TikTok &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220928/p14#a220928p14)
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Sep. 28&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
