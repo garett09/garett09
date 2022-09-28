@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wacom Cintiq Pro 27 introduces slim bezels and a customizable pen](https://www.theverge.com/2022/9/28/23374450/wacom-cintiq-pro-27-graphics-drawing-tablet-new-release-price-announcement)
- - [YouTube rolls out narration voiceovers for Shorts on iOS, a popular feature on TikTok &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220928/p14#a220928p14)
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Sep. 28&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
+ - [This Soda Maker Is the Ultimate Sparkling Water Upgrade](https://www.wired.com/review/aarke-carbonator-pro/)
+ - [Tech Companies Are Reconsidering an Old Enemy](https://www.wired.com/story/friction-social-media-moderation/)
+ - [Amazon is about to announce a bunch of new products](https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
