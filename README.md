@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC and CFTC fine 16 financial firms $1.1B and $710M in penalties, respectively, for failing to monitor employees using unauthorized messaging apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p37#a220927p37)
- - [Netflix&#39;s password sharing crackdown sparked protests on social media in Argentina, but a source says the anger didn&#39;t translate into a mass subscriber exodus &lpar;Rest of World&rpar;](http://www.techmeme.com/220927/p36#a220927p36)
- - [Sources: Apple tells suppliers to pull back from efforts to increase supply of iPhone 14 models by ~6M units in H2 2022, aiming for 90M units, on par with 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p35#a220927p35)<!-- TECH:END -->
+ - [This Chatbot Aims to Steer People Away From Child Abuse Material](https://www.wired.com/story/pornhub-search-child-abuse-chatbot/)
+ - [Researchers say the Lapsus$ hackers&#39; success reveals how many weaknesses in organizations weren&#39;t immediately useful to state-backed actors or cybercriminals &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220928/p1#a220928p1)
+ - [&#39;Dahmer&#39; on Netflix: Everything to Know About the Controversial Series     - CNET](https://www.cnet.com/culture/entertainment/dahmer-on-netflix-everything-to-know-about-the-controversial-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
