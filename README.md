@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WHY!?](http://9gag.com/gag/aeQNqwm)
- - 🚯 [Paddle faster!!!!](http://9gag.com/gag/aeQNy3m)
- - 🚯 [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)<!-- MEMES:END -->
+ - 🚖 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)
+ - 🚯 [It&#39;s time to buzz the tower...](http://9gag.com/gag/az2bY8Z)
+ - 🚯 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)<!-- MEMES:END -->
 
 --- 
 
