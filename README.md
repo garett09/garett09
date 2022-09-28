@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suspected GTA 6 Leaker Pleads Not Guilty On Hacking Charges [Update]](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
- - [Aero GPX is F-Zero with the rage throttle set to 2,000 kmph](https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph)
- - [Warhaven is a &#39;full contact sword action&#39; game you can play for free in October](https://www.pcgamer.com/warhaven-is-a-full-contact-sword-action-game-you-can-play-for-free-in-october)<!-- GAME:END -->
+ - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)
+ - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)
+ - [Suspected GTA 6 Leaker Pleads Not Guilty On Hacking Charges [Update]](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
