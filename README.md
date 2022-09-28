@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)
- - 🚯 [LCD screen under a microscope reveals rows of pixels labeled with numbers a tenth the width of a human hair.](http://9gag.com/gag/aBdKvwZ)
- - 🚯 [Hmmmm](http://9gag.com/gag/a6qwex9)<!-- MEMES:END -->
+ - 🚖 [Ukranian soldiers reunited with their parents after the village has been liberated! If someone can translate it, plz do](http://9gag.com/gag/aKEzMoQ)
+ - 🚯 [This poor russian mobilik has no idea he was captured. `It&#39;s the first time I see soldiers here`. -`we too, but we are banderovites &lpar;bad guys&rpar;`](http://9gag.com/gag/aqemEyv)
+ - 🚯 [This man can die peacefully now](http://9gag.com/gag/aeQNq5B)<!-- MEMES:END -->
 
 --- 
 
