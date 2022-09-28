@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Sep. 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-28-2022-3212995/)
- - [What Figma plans to do inside Adobe](https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field)
- - [Apple said to be scaling back production of entire iPhone 14 range](https://appleinsider.com/articles/22/09/28/apple-now-looks-to-be-scaling-back-production-of-iphone-14-range?utm_medium=rss)<!-- TECH:END -->
+ - [Laurene Powell Jobs &amp; Steve Jobs collaborated to reinvent philanthropy](https://appleinsider.com/articles/22/09/28/laurene-powell-jobs-steve-jobs-collaborated-to-reinvent-philanthropy?utm_medium=rss)
+ - [EA shows off its Monster Hunter-style game called Wild Hearts](https://www.theverge.com/2022/9/28/23375410/ea-wild-hearts-trailer-release-date)
+ - [How to use Siri Shortcuts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-siri-shortcuts-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
