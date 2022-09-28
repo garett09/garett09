@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s 2022 Echo and Ring Launch Event: How to Get All the Details Live     - CNET](https://www.cnet.com/tech/amazon-ring-echo-devices-services-launch-event-2022/#ftag=CAD590a51e)
- - [Cloudflare says Greylock, Bessemer, and other VC firms offered to invest up to $1.25B from existing funds in startups that use its serverless computing platform &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220928/p3#a220928p3)
- - [YouTuber says Samsung phone batteries are prematurely swelling](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)<!-- TECH:END -->
+ - [Samsung’s new lock screen prove the industry is a circular human centipede](https://www.androidauthority.com/samsung-copy-ios-16-one-ui-5-lock-screen-customization-3213948/)
+ - [Tumblr introduces &quot;community labels&quot;, letting users tag posts about drug and alcohol addiction, violence, and sexual content; no content rules are changing &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220928/p5#a220928p5)
+ - [Leaked Galaxy S23 renders suggest Samsung could ditch the camera bump](https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
