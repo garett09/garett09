@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6 May Be Getting A GOTY Edition Despite Getting Almost No Awards](https://kotaku.com/far-cry-6-goty-game-of-the-year-leak-ubisoft-open-world-1849591625)
- - [Chess Grandmaster Loses Job After Making Sexist Comments At Women’s Tournament](https://kotaku.com/chess-grandmaster-scandal-womens-grand-prix-ilya-smirin-1849590949)
- - [D&amp;D’s newest push is into classrooms around the world](https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12)<!-- GAME:END -->
+ - [Looper’s experimental soundtrack slapped then, and slaps even harder now](https://www.polygon.com/23374795/looper-composer-score-soundtrack-interview)
+ - [The first 6GHz processor is coming early next year](https://www.pcgamer.com/the-first-6ghz-processor-is-coming-early-next-year)
+ - [Trombone Champ is even better with a real trombone controller](https://www.polygon.com/23377025/trombone-champ-rudeism-controller-twitch-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
