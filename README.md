@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [The BF is just jealous... oh wait](http://9gag.com/gag/aGE9v9X)
- - 🚯 [Those who know and have been conditioned by a chancla &lpar;slipper&rpar;\u2026](http://9gag.com/gag/a6qwx0e)
- - 🚯 [Let&#39;s not come to conclusions.](http://9gag.com/gag/aeQNz3p)<!-- MEMES:END -->
+ - 🚯 [Easy money](http://9gag.com/gag/a2KNgv9)
+ - 🚯 [Women..](http://9gag.com/gag/aOxqA1E)<!-- MEMES:END -->
 
 --- 
 
