@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Soda Maker Is the Ultimate Sparkling Water Upgrade](https://www.wired.com/review/aarke-carbonator-pro/)
- - [Tech Companies Are Reconsidering an Old Enemy](https://www.wired.com/story/friction-social-media-moderation/)
- - [Amazon is about to announce a bunch of new products](https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Sep. 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-28-2022-3212995/)
+ - [What Figma plans to do inside Adobe](https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field)
+ - [Apple said to be scaling back production of entire iPhone 14 range](https://appleinsider.com/articles/22/09/28/apple-now-looks-to-be-scaling-back-production-of-iphone-14-range?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
