@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mon Mothama returns to Star Wars as Andor’s less-than-perfect hero](https://www.polygon.com/star-wars/23375328/andor-mon-mothma-star-wars-episode-4)
- - [How to make ratatouille in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-ratatouille-recipe)
- - [How to farm seaweed in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)<!-- GAME:END -->
+ - [I Played 1,167 Hours Of Dragon Age: Origins And Lived](https://kotaku.com/dragon-age-origins-bioware-ea-steam-mods-hours-played-1849590477)
+ - [Dark Pictures: Man of Medan gets surprise new chapter in update](https://www.polygon.com/23376587/dark-pictures-man-of-medan-ps5-xbox-series-x-free-chapter-little-hope-update)
+ - [This space MMO looks like Halo and Starfield had a beautiful baby](https://www.pcgamer.com/this-space-mmo-looks-like-halo-and-starfield-had-a-beautiful-baby)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
