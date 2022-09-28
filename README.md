@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google Ventures has shelved its algorithm that for years had served as a gatekeeper for new investments &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220928/p37#a220928p37)
- - [Russia regulator demands answers for VK removal from the App Store](https://appleinsider.com/articles/22/09/28/russia-regulator-demands-answers-for-vk-removal-from-the-app-store?utm_medium=rss)
- - [This Mac mini with 16GB RAM is on sale for $799, plus $30 off AppleCare](https://appleinsider.com/articles/22/09/28/this-mac-mini-with-16gb-ram-is-on-sale-for-799-plus-30-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Over 70 of the best desktop computer deals](https://www.androidauthority.com/best-desktop-computer-deals-1115949/)
+ - [Google’s Pixel 7 and Pixel Watch event: all the news and announcements](https://www.theverge.com/2022/9/28/23375741/google-pixel-7-pro-watch-smartwatch-nest-news-announcements)
+ - [PlayStation’s new loyalty program launches in the US next week](https://www.theverge.com/2022/9/28/23377398/playstation-stars-loyalty-rewards-program-launch-us-americas-asia-europe-australia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
