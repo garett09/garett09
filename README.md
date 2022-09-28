@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Laurene Powell Jobs &amp; Steve Jobs collaborated to reinvent philanthropy](https://appleinsider.com/articles/22/09/28/laurene-powell-jobs-steve-jobs-collaborated-to-reinvent-philanthropy?utm_medium=rss)
- - [EA shows off its Monster Hunter-style game called Wild Hearts](https://www.theverge.com/2022/9/28/23375410/ea-wild-hearts-trailer-release-date)
- - [How to use Siri Shortcuts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-siri-shortcuts-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe&#39;s Scott Belsky says the company plans to integrate Figma without changing its pricing or UI, add support for other Adobe tools, and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220928/p23#a220928p23)
+ - [Web apps on Windows are getting closer to their native counterparts](https://www.theverge.com/2022/9/28/23376521/windows-web-apps-pwas-title-bar-controls-overlay)
+ - [OpenAI plans to remove the waitlist for DALL-E today, giving anyone immediate access; Sam Altman says a public release is an essential step for safe development &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220928/p22#a220928p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
