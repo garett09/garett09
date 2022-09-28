@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s not what\u2026.](http://9gag.com/gag/ay25AeV)
- - 🚯 [Men... uh... bad](http://9gag.com/gag/a5XdD5r)
- - 🚯 [Baltic Pipe is opening today](http://9gag.com/gag/ajVrRZg)<!-- MEMES:END -->
+ - 🚖 [Men... uh... bad](http://9gag.com/gag/a5XdD5r)
+ - 🚯 [Baltic Pipe is opening today](http://9gag.com/gag/ajVrRZg)
+ - 🚯 [That\u2019s not what\u2026.](http://9gag.com/gag/ay25AeV)<!-- MEMES:END -->
 
 --- 
 
