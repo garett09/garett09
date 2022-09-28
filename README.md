@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)
- - 🚯 [Wholesome Wednesday my dudes](http://9gag.com/gag/aOxqEpM)
+ - 🚖 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
+ - 🚯 [Why do I feel guilty?](http://9gag.com/gag/az2b4qb)
  - 🚯 [My home town today](http://9gag.com/gag/aREQ9M7)<!-- MEMES:END -->
 
 --- 
