@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces a new e-ink tablet called the Kindle Scribe](https://www.androidauthority.com/amazon-kindle-scribe-3214237/)
- - [The 11 biggest announcements at Amazon’s hardware launch event](https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa)
- - [COVID-19 tests will no longer get emergency treatment at the FDA](https://www.theverge.com/2022/9/28/23376657/fda-covid-test-emergency-authorization-rules)<!-- TECH:END -->
+ - [Apple might let you test satellite SOS without sending an emergency message](https://www.theverge.com/2022/9/28/23376856/apple-iphone-14-satellite-sos-demo-emergency-message)
+ - [Verizon teases a ‘5G gaming handheld’ made by Razer](https://www.theverge.com/2022/9/28/23376850/verizon-5g-edge-gaming-handheld-razer-qualcomm-tease-home-router)
+ - [DocuSign will lay off 9% of staff as part of a major restructuring to be completed by 2023 end, incurring charges of $30M-$40M; it had 7,461 staffers in January &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220928/p34#a220928p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
