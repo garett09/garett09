@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men... uh... bad](http://9gag.com/gag/a5XdD5r)
- - 🚯 [Baltic Pipe is opening today](http://9gag.com/gag/ajVrRZg)
- - 🚯 [That\u2019s not what\u2026.](http://9gag.com/gag/ay25AeV)<!-- MEMES:END -->
+ - 🚖 [The BF is just jealous... oh wait](http://9gag.com/gag/aGE9v9X)
+ - 🚯 [Those who know and have been conditioned by a chancla &lpar;slipper&rpar;\u2026](http://9gag.com/gag/a6qwx0e)
+ - 🚯 [Let&#39;s not come to conclusions.](http://9gag.com/gag/aeQNz3p)<!-- MEMES:END -->
 
 --- 
 
