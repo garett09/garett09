@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone&#39;s Making A New PlayStation Vita But Sony](https://kotaku.com/ps-vita-razer-5g-game-pass-cloud-streaming-handheld-1849593471)
- - [Cyberpunk 2077 has now sold more than 20 million copies](https://www.pcgamer.com/cyberpunk-2077-has-now-sold-more-than-20-million-copies)
- - [It’s Time to Meet Your Maker! Moonscars is Now Available](https://news.xbox.com/en-us/2022/09/28/its-time-to-meet-your-maker-moonscars-is-now-available/)<!-- GAME:END -->
+ - [Overwatch 2 gives Competitive mode an overhaul](https://www.polygon.com/23377527/overwatch-2-competitive-mode-changes-update-ranks-scoreboard)
+ - [It&#39;s Like Next-Gen Monster Hunter, Except EA Is Making It](https://kotaku.com/koei-tecmo-ea-toukiden-monster-hunter-wild-hearts-1849593724)
+ - [Power washing your GPU seems like a terrible idea](https://www.pcgamer.com/power-washing-your-gpu-seems-like-a-terrible-idea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
