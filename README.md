@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lewd Card Game Gets Shut Down By Kirby Studio](https://kotaku.com/kirby-chef-kawasaki-mini-bikini-hal-laboratory-nintendo-1849592983)
- - [PlayStation Stars launches in Asia today, with additional markets coming soon](https://blog.playstation.com/2022/09/28/playstation-stars-launches-in-asia-today-with-additional-markets-coming-soon/)
- - [Let’s Get Ready for Overwatch 2](https://news.xbox.com/en-us/2022/09/28/lets-get-ready-for-overwatch-2/)<!-- GAME:END -->
+ - [Everyone&#39;s Making A New PlayStation Vita But Sony](https://kotaku.com/ps-vita-razer-5g-game-pass-cloud-streaming-handheld-1849593471)
+ - [Cyberpunk 2077 has now sold more than 20 million copies](https://www.pcgamer.com/cyberpunk-2077-has-now-sold-more-than-20-million-copies)
+ - [It’s Time to Meet Your Maker! Moonscars is Now Available](https://news.xbox.com/en-us/2022/09/28/its-time-to-meet-your-maker-moonscars-is-now-available/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
