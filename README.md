@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
- - 🚯 [RIP](http://9gag.com/gag/aoKzX42)
- - 🚯 [Stapling leaves to trees in China to make the city look `greener`](http://9gag.com/gag/aGE9Xe0)<!-- MEMES:END -->
+ - 🚖 [How to handle scam callers](http://9gag.com/gag/armp03X)
+ - 🚯 [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
+ - 🚯 [There&#39;s one for everything](http://9gag.com/gag/a5Xd8Zo)<!-- MEMES:END -->
 
 --- 
 
