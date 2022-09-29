@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aww shiieeet](http://9gag.com/gag/aXnbzLg)
- - 🚯 [The Historic U.S. Route 50 &lpar;The loneliest road in America&rpar; - From West Sacramento in California all the way to Ocean City in Maryland &lpar;a distance of about 3,073 miles&rpar;, the roadway traverses vast swaths of barren, arid terrain.](http://9gag.com/gag/aqemD37)
- - 🚯 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)<!-- MEMES:END -->
+ - 🚖 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)
+ - 🚯 [Sunao Janai kedo Itooshii just saying](http://9gag.com/gag/a7q5BjL)
+ - 🚯 [Hmmmm](http://9gag.com/gag/a6qwex9)<!-- MEMES:END -->
 
 --- 
 
