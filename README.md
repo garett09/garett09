@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The LotR: The Rings of Power intro has some undiscovered easter eggs](https://www.pcgamer.com/lord-of-the-rings-rings-of-power-easter-eggs)
- - [Where to find Ringtail slimes in Slime Rancher 2](https://www.pcgamer.com/slime-rancher-2-ringtail-slime-location)
- - [Your Favorite Overwatch Voice Actress Is Here To Hype You Up](https://kotaku.com/i-am-fun-size-anjali-bhimani-book-overwatch-2-symmetra-1849565618)<!-- GAME:END -->
+ - [Bros’ perfectly tuned romantic comedy buckles under the weight of the gay rom-com milestone](https://www.polygon.com/reviews/23376739/bros-review-billy-eichner-gay-rom-com)
+ - [People Are Using Among Us Lobbies For Sex](https://kotaku.com/among-us-cyber-sex-innersloth-lobby-pc-mobile-xbox-1849595424)
+ - [The Loupedeck Live all-in-one streaming tool is $40 cheaper for one more day](https://www.pcgamer.com/the-loupedeck-live-all-in-one-streaming-tool-is-dollar40-cheaper-for-one-more-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
