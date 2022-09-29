@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use your iPhone as a remote for Apple TV in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-your-iphone-as-a-remote-for-apple-tv-in-ios-16?utm_medium=rss)
- - [A look at Botometer, which claims to identify the likelihood that a Twitter account is a bot and has been cited by Elon Musk&#39;s lawyers in the Twitter lawsuit &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220929/p12#a220929p12)
- - [Best Shave Club for 2022: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set up Focus mode on iPhone](https://www.androidauthority.com/set-up-focus-mode-iphone-3214235/)
+ - [An Apple support document and compliance page reference an &quot;iPhone 14 Max&quot;, suggesting Apple chose the iPhone 14 Plus name at short notice &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220929/p14#a220929p14)
+ - [The State of the Smart Kitchen](https://www.wired.com/story/gadget-lab-podcast-568/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
