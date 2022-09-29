@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good news everyone](http://9gag.com/gag/aEqwLVM)
- - 🚯 [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - 🚖 [Always have your gear checked by a pro](http://9gag.com/gag/aQEq0vq)
+ - 🚯 [Another pepsi while climbing Everest](http://9gag.com/gag/a6qw0p2)
  - 🚯 [Old gold](http://9gag.com/gag/ay25OLy)<!-- MEMES:END -->
 
 --- 
