@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)
- - 🚯 [10 years ago homeless gypsies were given brand new apartments in Belgrade. This is how 10y old building looks now.](http://9gag.com/gag/agoyD6x)
- - 🚯 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)<!-- MEMES:END -->
+ - 🚖 [My home town today](http://9gag.com/gag/aREQ9M7)
+ - 🚯 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
+ - 🚯 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)<!-- MEMES:END -->
 
 --- 
 
