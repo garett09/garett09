@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rosenblatt Securities hikes AAPL target to $189 on overall strength](https://appleinsider.com/articles/22/09/29/rosenblatt-securities-hikes-aapl-target-to-189-on-overall-strength?utm_medium=rss)
- - [The best new streaming movies this week on Netflix, Disney Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Tumblr is begging you to please stop asking for porn](https://www.theverge.com/2022/9/29/23377446/tumblr-matt-mullenweg-post-nsfw-porn-internet-service-moderation-policies)<!-- TECH:END -->
+ - [Report: corporate expense management service TripActions, which was last valued at $7.25B, filed confidentially for a US IPO seeking a $12B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220929/p18#a220929p18)
+ - [How to reuse an iPad as a HomeKit dashboard](https://appleinsider.com/articles/22/06/02/how-to-reuse-an-ipad-as-a-homekit-dashboard?utm_medium=rss)
+ - [Kid Cudi’s Entergalactic visual feature gets by on good vibes and even better looks](https://www.theverge.com/23367238/kid-cudi-entergalactic-netflix-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
