@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces new features for Maps, including the ability to visually soar over some areas, added landmark views, enriched neighborhood info, and AR search &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220928/p45#a220928p45)
- - [‘We Are the Asteroid’: The Case for Hope Amid Climate Fears](https://www.wired.com/story/rewired-2022-climate-action-hope/)
- - [Terrifying Satellite Storm Footage Shows Hurricane Ian Hitting Florida     - CNET](https://www.cnet.com/science/space/terrifying-satellite-storm-footage-shows-hurricane-ian-hitting-florida/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Climate Justice Is Possible—Just Look Beyond Technology](https://www.wired.com/story/rewired-2022-technology-climate-justice-community-policy/)
+ - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa)
+ - [Netflix&#39;s Jeffrey Dahmer Show: Everything to Know About the Controversial Series     - CNET](https://www.cnet.com/culture/entertainment/netflixs-jeffrey-dahmer-show-everything-to-know-about-the-controversial-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
