@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 📱 Galaxy S23 Ultra uncovered](https://www.androidauthority.com/daily-authority-september-29-2022-3213940/)
  - [Sackboy: A Big Adventure arrives on PC next month](https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date)
- - [Samsung Galaxy S22 users get October security patch before everyone else](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Poll: What do you think of the Pixel 7 colors?](https://www.androidauthority.com/google-pixel-7-colors-poll-3214577/)<!-- TECH:END -->
+ - [Samsung Galaxy S22 users get October security patch before everyone else](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
