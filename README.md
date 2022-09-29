@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cant stop watching](http://9gag.com/gag/aNweNQ3)
- - 🚯 [Terry Crews sketches Sofia Vergara](http://9gag.com/gag/aqemveY)
- - 🚯 [Recently Russia bragged about destruction of HIMARS system with their 6,5 million USD Kalibr cruise missile. Turns out it was a wooden decoy.](http://9gag.com/gag/aoKzBYx)<!-- MEMES:END -->
+ - 🚖 [Iron horses race towards sunrise. Continuing until the border stops us. Slava Ukraini](http://9gag.com/gag/aOxqgnr)
+ - 🚯 [Fact](http://9gag.com/gag/aL1KqjV)
+ - 🚯 [How to win at cards](http://9gag.com/gag/armpPQK)<!-- MEMES:END -->
 
 --- 
 
