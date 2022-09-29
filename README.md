@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - 🚖 [Weird](http://9gag.com/gag/aQEqjew)
  - 🚯 [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
- - 🚯 [People in hell wants ice water](http://9gag.com/gag/a8qWPn1)<!-- MEMES:END -->
+ - 🚯 [Can you imagine?](http://9gag.com/gag/aVbOGxy)<!-- MEMES:END -->
 
 --- 
 
