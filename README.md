@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up Focus mode on iPhone](https://www.androidauthority.com/set-up-focus-mode-iphone-3214235/)
- - [An Apple support document and compliance page reference an &quot;iPhone 14 Max&quot;, suggesting Apple chose the iPhone 14 Plus name at short notice &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/220929/p14#a220929p14)
- - [The State of the Smart Kitchen](https://www.wired.com/story/gadget-lab-podcast-568/)<!-- TECH:END -->
+ - [Rosenblatt Securities hikes AAPL target to $189 on overall strength](https://appleinsider.com/articles/22/09/29/rosenblatt-securities-hikes-aapl-target-to-189-on-overall-strength?utm_medium=rss)
+ - [The best new streaming movies this week on Netflix, Disney Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Tumblr is begging you to please stop asking for porn](https://www.theverge.com/2022/9/29/23377446/tumblr-matt-mullenweg-post-nsfw-porn-internet-service-moderation-policies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
