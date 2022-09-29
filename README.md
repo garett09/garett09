@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always have your gear checked by a pro](http://9gag.com/gag/aQEq0vq)
- - 🚯 [Another pepsi while climbing Everest](http://9gag.com/gag/a6qw0p2)
+ - 🚖 [Elden ring in a nutshell](http://9gag.com/gag/agoyPWr)
+ - 🚯 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
  - 🚯 [Old gold](http://9gag.com/gag/ay25OLy)<!-- MEMES:END -->
 
 --- 
