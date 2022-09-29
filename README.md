@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gaming tech can be used to walk through buildings before they’re even constructed](https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool)
- - [Democrats demand FTC probe Amazon-iRobot deal](https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan)
- - [Even Twitter is becoming TikTok](https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok)<!-- TECH:END -->
+ - [Save $200 on the Apple Watch Series 7, and more top smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
+ - [Vulgar remark in TikTok gets Apple&#39;s procurement VP fired](https://appleinsider.com/articles/22/09/29/vulgar-remark-in-tiktok-gets-apples-procurement-vp-fired?utm_medium=rss)
+ - [Former eBay executives Jim Baugh and David Harville are sentenced to 57 and 24 months in prison for their roles in a 2019 cyberstalking campaign against critics &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/220929/p28#a220929p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
