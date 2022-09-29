@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create image cutouts in iOS 16](https://www.theverge.com/23377395/image-cutout-how-to-people-pets-ios-16-iphone)
  - [HyperJuice GaN chargers recalled over fire hazard](https://appleinsider.com/articles/22/09/29/hyperjuice-gan-chargers-recalled-over-fire-hazard?utm_medium=rss)
- - [YouTube plans to show &quot;Personal Stories&quot;, videos of people diagnosed with certain disorders, in US search results for health-related queries starting this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220929/p23#a220929p23)<!-- TECH:END -->
+ - [Netflix’s gaming lineup keeps getting better with dreamy roguelike Desta: The Memories Between](https://www.theverge.com/2022/9/29/23378549/netflix-desta-the-memories-mobile-ustwo-games)
+ - [Best Nintendo Switch Controller for 2022     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
