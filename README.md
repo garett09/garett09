@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Arc A750 launches October 12, will &#39;reset the market&#39; at $289](https://www.pcgamer.com/intel-arc-a750-release-date-price)
- - [Our 2021 GOTY, Valheim, is now on Game Pass](https://www.pcgamer.com/our-2021-goty-valheim-is-now-on-game-pass)
- - [Kingdom of the Planet of the Apes will continue Hollywood’s most underrated franchise](https://www.polygon.com/23379128/kingdom-planet-apes-film-announced)<!-- GAME:END -->
+ - [Critically-Acclaimed CRPG Pathfinder: Wrath of the Righteous Comes to XBox Today](https://news.xbox.com/en-us/2022/09/29/critically-acclaimed-crpg-pathfinder-wrath-of-the-righteous-comes-to-xbox-today/)
+ - [All The Games We Might Lose Forever When Google Stadia Dies](https://kotaku.com/google-stadia-exclusive-games-pac-man-gylt-pixeljunk-1849599091)
+ - [Intel Arc A750 launches October 12, &#39;reset the market&#39; for $289](https://game-rant-2022.blogspot.com/2022/09/intel-arc-a750-launches-october-12.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
