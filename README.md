@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to handle scam callers](http://9gag.com/gag/armp03X)
- - 🚯 [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
- - 🚯 [There&#39;s one for everything](http://9gag.com/gag/a5Xd8Zo)<!-- MEMES:END -->
+ - 🚖 [Good news everyone](http://9gag.com/gag/aEqwLVM)
+ - 🚯 [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - 🚯 [Old gold](http://9gag.com/gag/ay25OLy)<!-- MEMES:END -->
 
 --- 
 
