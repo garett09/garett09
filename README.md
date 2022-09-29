@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These custom Steam Deck boot screens are dope](https://www.pcgamer.com/these-custom-steam-deck-boot-screens-are-dope)
- - [Check out these trombone controller mods to make you the real Trombone Champ](https://www.pcgamer.com/check-out-these-trombone-controller-mods-to-make-you-the-real-trombone-champ)
- - [&#39;Hey everyone,&#39; says Walmart executive to the single person in its new Roblox metaverse nightmare](https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare)<!-- GAME:END -->
+ - [Sackboy: A Big Adventure is finally coming to PC in late October](https://www.pcgamer.com/sackboy-a-big-adventure-is-coming-to-pc-in-late-october)
+ - [Today&#39;s Wordle 467 answer and hint: Thursday, September 29](https://www.pcgamer.com/todays-wordle-467-answer-hint)
+ - [Intel quietly announces the Arc A310 graphics card](https://www.pcgamer.com/intel-quietly-announces-the-arc-a310-graphics-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
