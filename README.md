@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)
- - 🚯 [You wanna be rich or what?](http://9gag.com/gag/ay25wVX)
- - 🚯 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t wait for this part in the remake.](http://9gag.com/gag/anzYmXb)
+ - 🚯 [It doesn\u2019t get more \u2018Murica than this](http://9gag.com/gag/adPNGD9)
+ - 🚯 [Shittuber Julik &lpar;Oleshko&rpar;, who said that Russians do not need to know geography, because they have missiles enough for everyone, learned geography and reached Georgia](http://9gag.com/gag/a3ZYO68)<!-- MEMES:END -->
 
 --- 
 
