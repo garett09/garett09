@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Name director’s new movie is a romantic adventure about a girl and a chair](https://www.polygon.com/23378795/suzume-anime-trailer-release-date-japan)
- - [Help I have fallen into keyboard TikTok and I can&#39;t get out](https://www.pcgamer.com/help-i-have-fallen-into-keyboard-tiktok-and-i-cant-get-out)
- - [Valheim is Better with Friends – Time to Get Ready for Crossplay Viking Adventures](https://news.xbox.com/en-us/2022/09/29/valheim-is-better-with-friends-time-to-get-ready-for-crossplay-viking-adventures/)<!-- GAME:END -->
+ - [Chess Players Are Convinced That The Anal Bead Controversy Is Causing More Online Cheating](https://kotaku.com/chess-com-how-to-cheating-hans-neimann-magnus-carlsen-1849596703)
+ - [Warcry is Warhammer at its best, and the new second edition proves it](https://www.polygon.com/reviews/23377231/warhammer-warcry-heart-of-ghur-review)
+ - [Slime Rancher 2: Getting Creative with Your New Home on Rainbow Island](https://news.xbox.com/en-us/2022/09/29/slime-rancher-2-getting-creative-with-your-new-home-on-rainbow-island/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
