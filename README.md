@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [October patch now landing on Galaxy S21 series…in September](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [Experts: the Optus hack could cost parent Singtel $420M-$560M for the 2.8M worst-affected customers; Singtel&#39;s profit for the year ending March 2022 was $1.44B &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/220929/p19#a220929p19)
- - [Bitcoin’s climate damage is similar to beef and crude oil, says new study](https://www.theverge.com/2022/9/29/23378337/bitcoin-climate-change-damages-crypto-mining)<!-- TECH:END -->
+ - [Google plans to shut down Stadia on January 18, 2023, and will refund hardware, software, and DLC purchases; members of the Stadia team will be reassigned &lpar;The Verge&rpar;](http://www.techmeme.com/220929/p22#a220929p22)
+ - [Mythic Quest’s third season premieres in November](https://www.theverge.com/2022/9/29/23378627/mythic-quest-third-season-premiere-date)
+ - [Apple iPhone 14 buyer’s guide: Specs, pricing, availability, and more](https://www.androidauthority.com/apple-iphone-14-specs-price-availability-3213455/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
