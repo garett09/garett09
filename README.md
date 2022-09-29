@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)
- - 🚯 [Weird](http://9gag.com/gag/aQEqjew)
- - 🚯 [My home town today](http://9gag.com/gag/aREQ9M7)<!-- MEMES:END -->
+ - 🚖 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)
+ - 🚯 [You wanna be rich or what?](http://9gag.com/gag/ay25wVX)
+ - 🚯 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)<!-- MEMES:END -->
 
 --- 
 
