@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon increases its average starting pay for front-line US staff to $19+/hour, up from $18/hour; warehouse and delivery workers will earn $16/hour to $26/hour &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220929/p2#a220929p2)
- - [Best Credit Cards for Good Credit Scores for October 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-good-credit/#ftag=CAD590a51e)
- - [Why You Need to Watch This Slick Sci-Fi Gem on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/why-you-need-to-watch-this-slick-sci-fi-gem-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sackboy: A Big Adventure arrives on PC next month](https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date)
+ - [Samsung Galaxy S22 users get October security patch before everyone else](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
+ - [Poll: What do you think of the Pixel 7 colors?](https://www.androidauthority.com/google-pixel-7-colors-poll-3214577/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
