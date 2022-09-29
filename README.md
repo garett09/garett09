@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Justice Is Possible—Just Look Beyond Technology](https://www.wired.com/story/rewired-2022-technology-climate-justice-community-policy/)
- - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa)
- - [Netflix&#39;s Jeffrey Dahmer Show: Everything to Know About the Controversial Series     - CNET](https://www.cnet.com/culture/entertainment/netflixs-jeffrey-dahmer-show-everything-to-know-about-the-controversial-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon increases its average starting pay for front-line US staff to $19+/hour, up from $18/hour; warehouse and delivery workers will earn $16/hour to $26/hour &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220929/p2#a220929p2)
+ - [Best Credit Cards for Good Credit Scores for October 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-good-credit/#ftag=CAD590a51e)
+ - [Why You Need to Watch This Slick Sci-Fi Gem on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/why-you-need-to-watch-this-slick-sci-fi-gem-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
