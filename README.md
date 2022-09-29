@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank begins laying off Vision Fund employees, with cuts expected to impact over 100 people, or 20%+ of its staff, following massive losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/220929/p10#a220929p10)
- - [Microsoft’s new Outlook for Windows now available to all Office testers](https://www.theverge.com/2022/9/29/23378221/microsoft-outlook-windows-new-design-office-insiders)
- - [Microsoft plans to end support for SwiftKey on iOS and delist it from the App Store on October 5; SwiftKey on Android will continue to be supported &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220929/p9#a220929p9)<!-- TECH:END -->
+ - [How to use your iPhone as a remote for Apple TV in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-your-iphone-as-a-remote-for-apple-tv-in-ios-16?utm_medium=rss)
+ - [A look at Botometer, which claims to identify the likelihood that a Twitter account is a bot and has been cited by Elon Musk&#39;s lawyers in the Twitter lawsuit &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220929/p12#a220929p12)
+ - [Best Shave Club for 2022: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
