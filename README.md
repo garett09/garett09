@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)
- - 🚯 [Sunao Janai kedo Itooshii just saying](http://9gag.com/gag/a7q5BjL)
- - 🚯 [Hmmmm](http://9gag.com/gag/a6qwex9)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
+ - 🚯 [Sandblasters Make it Like New Again](http://9gag.com/gag/aGE9q2n)
+ - 🚯 [Meanwhile in Prague](http://9gag.com/gag/aNwe2Kr)<!-- MEMES:END -->
 
 --- 
 
