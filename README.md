@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to shut down Stadia on January 18, 2023, and will refund hardware, software, and DLC purchases; members of the Stadia team will be reassigned &lpar;The Verge&rpar;](http://www.techmeme.com/220929/p22#a220929p22)
- - [Mythic Quest’s third season premieres in November](https://www.theverge.com/2022/9/29/23378627/mythic-quest-third-season-premiere-date)
- - [Apple iPhone 14 buyer’s guide: Specs, pricing, availability, and more](https://www.androidauthority.com/apple-iphone-14-specs-price-availability-3213455/)<!-- TECH:END -->
+ - [How to create image cutouts in iOS 16](https://www.theverge.com/23377395/image-cutout-how-to-people-pets-ios-16-iphone)
+ - [HyperJuice GaN chargers recalled over fire hazard](https://appleinsider.com/articles/22/09/29/hyperjuice-gan-chargers-recalled-over-fire-hazard?utm_medium=rss)
+ - [YouTube plans to show &quot;Personal Stories&quot;, videos of people diagnosed with certain disorders, in US search results for health-related queries starting this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220929/p23#a220929p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
