@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not wimpy after all](http://9gag.com/gag/aKEzoR6)
- - 🚯 [Shout up, take my money and go to venuzuela i want some of that sweet sweet crude &lpar;=](http://9gag.com/gag/aVbOdEn)
- - 🚯 [Hmm why would the cat be doing this](http://9gag.com/gag/aME10OR)<!-- MEMES:END -->
+ - 🚖 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)
+ - 🚯 [10 years ago homeless gypsies were given brand new apartments in Belgrade. This is how 10y old building looks now.](http://9gag.com/gag/agoyD6x)
+ - 🚯 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)<!-- MEMES:END -->
 
 --- 
 
