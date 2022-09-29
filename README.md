@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub is testing a chatbot that redirects users searching for CSAM to a service where they can get help; the bot intervened ~174K times during the first month &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220928/p42#a220928p42)
- - [Google Search results could actually be useful again starting today](https://www.androidauthority.com/google-search-results-3214502/)
- - [Amazon reveals new Echo Dot, Kindle Scribe tablet &amp; more](https://appleinsider.com/articles/22/09/28/amazon-reveals-new-echo-dot-kindle-scribe-tablet-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google announces new features for Maps, including the ability to visually soar over some areas, added landmark views, enriched neighborhood info, and AR search &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220928/p45#a220928p45)
+ - [‘We Are the Asteroid’: The Case for Hope Amid Climate Fears](https://www.wired.com/story/rewired-2022-climate-action-hope/)
+ - [Terrifying Satellite Storm Footage Shows Hurricane Ian Hitting Florida     - CNET](https://www.cnet.com/science/space/terrifying-satellite-storm-footage-shows-hurricane-ian-hitting-florida/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
