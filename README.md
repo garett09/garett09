@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t wait for this part in the remake.](http://9gag.com/gag/anzYmXb)
- - 🚯 [It doesn\u2019t get more \u2018Murica than this](http://9gag.com/gag/adPNGD9)
- - 🚯 [Shittuber Julik &lpar;Oleshko&rpar;, who said that Russians do not need to know geography, because they have missiles enough for everyone, learned geography and reached Georgia](http://9gag.com/gag/a3ZYO68)<!-- MEMES:END -->
+ - 🚖 [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
+ - 🚯 [RIP](http://9gag.com/gag/aoKzX42)
+ - 🚯 [Stapling leaves to trees in China to make the city look `greener`](http://9gag.com/gag/aGE9Xe0)<!-- MEMES:END -->
 
 --- 
 
