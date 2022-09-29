@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird](http://9gag.com/gag/aQEqjew)
+ - 🚖 [Not wimpy after all](http://9gag.com/gag/aKEzoR6)
  - 🚯 [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
- - 🚯 [Can you imagine?](http://9gag.com/gag/aVbOGxy)<!-- MEMES:END -->
+ - 🚯 [Fact](http://9gag.com/gag/aL1KqjV)<!-- MEMES:END -->
 
 --- 
 
