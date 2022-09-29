@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block&#39;s bitcoin-focused TBD subsidiary partners with Circle to build infrastructure for cross-border, dollar-linked stablecoin transfers and savings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220929/p6#a220929p6)
- - [BMW and Amazon partner to let BMW use Alexa&#39;s technology to build its own voice assistant, coming to cars launching within the next two years &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220929/p5#a220929p5)
- - [Meta confirms taking &quot;enforcement actions&quot; against The OG App, which offers an ad-free Instagram feed, as developers UN1feed say Apple removed the App Store app &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220929/p4#a220929p4)<!-- TECH:END -->
+ - [Sources: SoftBank begins laying off Vision Fund employees, with cuts expected to impact over 100 people, or 20%+ of its staff, following massive losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/220929/p10#a220929p10)
+ - [Microsoft’s new Outlook for Windows now available to all Office testers](https://www.theverge.com/2022/9/29/23378221/microsoft-outlook-windows-new-design-office-insiders)
+ - [Microsoft plans to end support for SwiftKey on iOS and delist it from the App Store on October 5; SwiftKey on Android will continue to be supported &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220929/p9#a220929p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
