@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not wimpy after all](http://9gag.com/gag/aKEzoR6)
- - 🚯 [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
- - 🚯 [Fact](http://9gag.com/gag/aL1KqjV)<!-- MEMES:END -->
+ - 🚖 [Cant stop watching](http://9gag.com/gag/aNweNQ3)
+ - 🚯 [Terry Crews sketches Sofia Vergara](http://9gag.com/gag/aqemveY)
+ - 🚯 [Recently Russia bragged about destruction of HIMARS system with their 6,5 million USD Kalibr cruise missile. Turns out it was a wooden decoy.](http://9gag.com/gag/aoKzBYx)<!-- MEMES:END -->
 
 --- 
 
