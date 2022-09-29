@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bros’ perfectly tuned romantic comedy buckles under the weight of the gay rom-com milestone](https://www.polygon.com/reviews/23376739/bros-review-billy-eichner-gay-rom-com)
- - [People Are Using Among Us Lobbies For Sex](https://kotaku.com/among-us-cyber-sex-innersloth-lobby-pc-mobile-xbox-1849595424)
- - [The Loupedeck Live all-in-one streaming tool is $40 cheaper for one more day](https://www.pcgamer.com/the-loupedeck-live-all-in-one-streaming-tool-is-dollar40-cheaper-for-one-more-day)<!-- GAME:END -->
+ - [Fortnite’s getting a terrifying Goat Simulator skin](https://www.polygon.com/23378454/goat-simulator-3-fortnite-skin-pre-order-purchase-store-trailer)
+ - [Sackboy: A Big Adventure is coming to PC on October 27](https://blog.playstation.com/2022/09/29/sackboy-a-big-adventure-is-coming-to-pc-on-october-27/)
+ - [Microsoft Flight Simulator Releases World Update XI: Canada](https://news.xbox.com/en-us/2022/09/29/microsoft-flight-simulator-releases-world-update-xi-canada/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
