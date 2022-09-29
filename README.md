@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor is the angriest Star Wars has ever been](https://www.polygon.com/23377563/star-wars-andor-pissed)
- - [World of Warcraft could be getting official controller support](https://www.pcgamer.com/world-of-warcraft-could-be-getting-official-controller-support)
- - [The best builds for Cyno in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-cyno-build-banner)<!-- GAME:END -->
+ - [The LotR: The Rings of Power intro has some undiscovered easter eggs](https://www.pcgamer.com/lord-of-the-rings-rings-of-power-easter-eggs)
+ - [Where to find Ringtail slimes in Slime Rancher 2](https://www.pcgamer.com/slime-rancher-2-ringtail-slime-location)
+ - [Your Favorite Overwatch Voice Actress Is Here To Hype You Up](https://kotaku.com/i-am-fun-size-anjali-bhimani-book-overwatch-2-symmetra-1849565618)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
