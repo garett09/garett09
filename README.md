@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get the Party Started in SongPop Party](https://news.xbox.com/en-us/2022/09/29/lets-get-the-party-started-in-songpop-party/)
- - [Netflix&#39;s Autoplay Means You Likely Missed A Cool Cyberpunk: Edgerunners Secret](https://kotaku.com/cyberpunk-2077-edgerunners-lucy-david-tarot-card-1849598321)
- - [PUBG creator Brendan Greene says he&#39;s &#39;considering&#39; the blockchain for his next game](https://www.pcgamer.com/pubg-creator-brendan-greene-says-hes-considering-the-blockchain-for-his-next-game)<!-- GAME:END -->
+ - [Intel Arc A750 launches October 12, will &#39;reset the market&#39; at $289](https://www.pcgamer.com/intel-arc-a750-release-date-price)
+ - [Our 2021 GOTY, Valheim, is now on Game Pass](https://www.pcgamer.com/our-2021-goty-valheim-is-now-on-game-pass)
+ - [Kingdom of the Planet of the Apes will continue Hollywood’s most underrated franchise](https://www.polygon.com/23379128/kingdom-planet-apes-film-announced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
