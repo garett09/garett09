@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s getting a terrifying Goat Simulator skin](https://www.polygon.com/23378454/goat-simulator-3-fortnite-skin-pre-order-purchase-store-trailer)
- - [Sackboy: A Big Adventure is coming to PC on October 27](https://blog.playstation.com/2022/09/29/sackboy-a-big-adventure-is-coming-to-pc-on-october-27/)
- - [Microsoft Flight Simulator Releases World Update XI: Canada](https://news.xbox.com/en-us/2022/09/29/microsoft-flight-simulator-releases-world-update-xi-canada/)<!-- GAME:END -->
+ - [Google Stadia is shutting down, for good](https://www.polygon.com/23378721/google-stadia-shutting-down)
+ - [7 anime to watch if you like Cyberpunk: Edgerunners](https://www.polygon.com/23353387/cyberpunk-edgerunners-anime-to-watch-redline-promare)
+ - [Razer&#39;s cloud gaming handheld is coming with 5G](https://www.pcgamer.com/razers-cloud-gaming-handheld-is-coming-with-5g)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
