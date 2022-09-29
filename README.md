@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google Stadia is shutting down, for good](https://www.polygon.com/23378721/google-stadia-shutting-down)
- - [7 anime to watch if you like Cyberpunk: Edgerunners](https://www.polygon.com/23353387/cyberpunk-edgerunners-anime-to-watch-redline-promare)
- - [Razer&#39;s cloud gaming handheld is coming with 5G](https://www.pcgamer.com/razers-cloud-gaming-handheld-is-coming-with-5g)<!-- GAME:END -->
+ - [Your Name director’s new movie is a romantic adventure about a girl and a chair](https://www.polygon.com/23378795/suzume-anime-trailer-release-date-japan)
+ - [Help I have fallen into keyboard TikTok and I can&#39;t get out](https://www.pcgamer.com/help-i-have-fallen-into-keyboard-tiktok-and-i-cant-get-out)
+ - [Valheim is Better with Friends – Time to Get Ready for Crossplay Viking Adventures](https://news.xbox.com/en-us/2022/09/29/valheim-is-better-with-friends-time-to-get-ready-for-crossplay-viking-adventures/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
