@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Galaxy S23 Ultra uncovered](https://www.androidauthority.com/daily-authority-september-29-2022-3213940/)
- - [Sackboy: A Big Adventure arrives on PC next month](https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date)
- - [Samsung Galaxy S22 users get October security patch before everyone else](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
+ - [Block&#39;s bitcoin-focused TBD subsidiary partners with Circle to build infrastructure for cross-border, dollar-linked stablecoin transfers and savings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220929/p6#a220929p6)
+ - [BMW and Amazon partner to let BMW use Alexa&#39;s technology to build its own voice assistant, coming to cars launching within the next two years &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220929/p5#a220929p5)
+ - [Meta confirms taking &quot;enforcement actions&quot; against The OG App, which offers an ad-free Instagram feed, as developers UN1feed say Apple removed the App Store app &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220929/p4#a220929p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
