@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
- - 🚯 [Sandblasters Make it Like New Again](http://9gag.com/gag/aGE9q2n)
- - 🚯 [Meanwhile in Prague](http://9gag.com/gag/aNwe2Kr)<!-- MEMES:END -->
+ - 🚖 [Not wimpy after all](http://9gag.com/gag/aKEzoR6)
+ - 🚯 [Shout up, take my money and go to venuzuela i want some of that sweet sweet crude &lpar;=](http://9gag.com/gag/aVbOdEn)
+ - 🚯 [Hmm why would the cat be doing this](http://9gag.com/gag/aME10OR)<!-- MEMES:END -->
 
 --- 
 
