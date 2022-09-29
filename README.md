@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperJuice GaN chargers recalled over fire hazard](https://appleinsider.com/articles/22/09/29/hyperjuice-gan-chargers-recalled-over-fire-hazard?utm_medium=rss)
- - [Netflix’s gaming lineup keeps getting better with dreamy roguelike Desta: The Memories Between](https://www.theverge.com/2022/9/29/23378549/netflix-desta-the-memories-mobile-ustwo-games)
- - [Best Nintendo Switch Controller for 2022     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gaming tech can be used to walk through buildings before they’re even constructed](https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool)
+ - [Democrats demand FTC probe Amazon-iRobot deal](https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan)
+ - [Even Twitter is becoming TikTok](https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
