@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Rings of Power&#39; Episode 6 Recap: Trouble in the Southlands     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-6-trouble-in-the-southlands/#ftag=CAD590a51e)
- - [Twitter just put out its first edited tweet](https://www.androidauthority.com/twitter-edited-tweet-3215064/)
- - [&#39;Rings of Power&#39; Lore Check: Episode 6 as It Stands Up to Tolkien&#39;s Writing     - CNET](https://www.cnet.com/culture/entertainment/how-does-rings-of-power-differ-from-tolkiens-works-a-full-breakdown-by-episode/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what the Pixel Watch costs for the Wi-Fi model &lpar;Updated&rpar;](https://www.androidauthority.com/google-pixel-watch-prices-3210479/)
+ - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
+ - [That 200MP camera is looking more likely for Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200mp-3214576/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
