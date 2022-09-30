@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Iron horses race towards sunrise. Continuing until the border stops us. Slava Ukraini](http://9gag.com/gag/aOxqgnr)
- - 🚯 [Fact](http://9gag.com/gag/aL1KqjV)
+ - 🚖 [Imagine if it was what you thought it was..](http://9gag.com/gag/ajVrvGQ)
+ - 🚯 [Wholesome exchange between a motorist &amp; a cyclist](http://9gag.com/gag/aqeZ4nQ)
  - 🚯 [How to win at cards](http://9gag.com/gag/armpPQK)<!-- MEMES:END -->
 
 --- 
