@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indies highlights coming to PS4 &amp; PS5 in October 2022](https://blog.playstation.com/2022/09/30/indies-highlights-coming-to-ps4-ps5-in-october-2022/)
- - [Indies highlights coming to PS4 &amp; PS5 in October 2022](https://blog.playstation.com/2022/09/30/indies-highlights-coming-to-ps4-ps5-in-october-2022/)
- - [6 Ways To Push Your Steam Deck Beyond Gaming](https://kotaku.com/steam-deck-valve-computers-pc-hacking-1849601356)<!-- GAME:END -->
+ - [Where to play the Assassin’s Creed series for ‘free’](https://www.polygon.com/gaming/23378583/assassins-creed-ubisoft-ps-plus-xbox-game-pass-where-to-play)
+ - [The Next Time You&#39;re Looking For New Switch Joy-Con, Check These Out](https://kotaku.com/nintendo-switch-joy-con-hori-controller-gamepad-zelda-1849601824)
+ - [The Community movie is finally happening, with most of the cast on board](https://www.polygon.com/23380387/community-movie-announcement-donald-glover-peacock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
