@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ernest Hemingway](http://9gag.com/gag/aL1Ky0v)
- - 🚯 [A fantastic game for all ages](http://9gag.com/gag/a3ZddR7)
- - 🚯 [Good joke](http://9gag.com/gag/aDYwwN9)<!-- MEMES:END -->
+ - 🚖 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
+ - 🚯 [0 respect](http://9gag.com/gag/a4o994m)
+ - 🚯 [The real purpose of having a blender at home](http://9gag.com/gag/ago0vgv)<!-- MEMES:END -->
 
 --- 
 
