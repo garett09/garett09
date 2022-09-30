@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game star’s spy thriller Hunt has an intense trailer with great action](https://www.polygon.com/23379225/hunt-first-trailer-squid-game-star-lee-jung-jae)
- - [Does Netflix regret Blonde’s NC-17 rating or the whole movie?](https://www.polygon.com/23378794/blonde-nc-17-netflix-sex-violence-marilyn-monroe-analysis)
- - [Game Devs And Stadia Employees Alike Were Blindsided By The Sudden Shutdown](https://kotaku.com/stadia-google-bungie-destiny-2-cyberpunk-2077-red-dead-1849601243)<!-- GAME:END -->
+ - [Indies highlights coming to PS4 &amp; PS5 in October 2022](https://blog.playstation.com/2022/09/30/indies-highlights-coming-to-ps4-ps5-in-october-2022/)
+ - [Indies highlights coming to PS4 &amp; PS5 in October 2022](https://blog.playstation.com/2022/09/30/indies-highlights-coming-to-ps4-ps5-in-october-2022/)
+ - [6 Ways To Push Your Steam Deck Beyond Gaming](https://kotaku.com/steam-deck-valve-computers-pc-hacking-1849601356)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
