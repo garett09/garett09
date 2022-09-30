@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 468 answer and hint: Friday, September 30](https://www.pcgamer.com/todays-wordle-468-answer-hint)
- - [Let’s talk about The Rings of Power’s big geographical reveal](https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom)
- - [Best cues in the game, ranked](https://game-rant-2022.blogspot.com/2022/09/best-cues-in-game-ranked.html)<!-- GAME:END -->
+ - [The Destiny 2 streamer who found the best use for Stadia is now hunting for a replacement for when it closes](https://www.pcgamer.com/the-destiny-2-streamer-who-found-the-best-use-for-stadia-is-now-hunting-for-a-replacement-for-when-it-closes)
+ - [How to watch Genshin Impact’s 2-year anniversary concert broadcast](https://www.polygon.com/23372891/genshin-impact-concert-live-broadcast-how-to-watch-shiro-sagisu)
+ - [How much? These third-party RTX 4090 graphics cards are already $2,000 or more](https://www.pcgamer.com/third-party-rtx-4090-gpu-prices)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
