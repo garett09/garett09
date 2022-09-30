@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro camera gets workout in new &#39;Chase&#39; ad](https://appleinsider.com/articles/22/09/30/iphone-14-pro-camera-gets-workout-in-new-chase-ad?utm_medium=rss)
- - [Filing: European Commission sets a provisional November 8 deadline to complete the review of Microsoft&#39;s proposed $69B Activision Blizzard acquisition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220930/p12#a220930p12)
- - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oh goodie, now everyone can share NFTs on Instagram or Facebook](https://www.theverge.com/2022/9/30/23380631/meta-nft-digital-collectibles-instagram-facebook)
+ - [Teenage Engineering’s new Record Factory is your own personal record maker](https://www.theverge.com/2022/9/30/23380258/teenage-engineering-po-80-record-factory-personal-vinyl-cutter)
+ - [I fell in love with Stadia right as it shut down](https://www.theverge.com/2022/9/30/23380750/google-stadia-shut-down-skyrim-elder-scrolls-eso-gaming-xbox-ps5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
