@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says AR &amp; VR will be revolutionary, but the public will need education](https://appleinsider.com/articles/22/09/30/tim-cook-says-ar-will-be-revolutionary-but-the-public-will-need-education?utm_medium=rss)
- - [Web novel apps backed by ByteDance and Tencent are running hundreds of Facebook and Instagram ads showing sexual assault, violent erotica, and acts of self-harm &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220930/p14#a220930p14)
- - [Killing Stadia makes me trust Google less](https://www.androidauthority.com/google-stadia-shutdown-opinion-3215302/)<!-- TECH:END -->
+ - [How to watch Tesla’s 2022 AI Day event](https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk)
+ - [A week with the BTS Tamagotchi](https://www.theverge.com/23368585/bts-tamagotchi-handheld-game-hands-on)
+ - [Report: Bruce Willis sold his &quot;digital twin&quot; likeness rights to Deepcake, for use in ads and possibly even movies; a Russian ad already used a Willis deepfake &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/220930/p15#a220930p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
