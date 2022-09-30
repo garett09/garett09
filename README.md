@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - 🚖 [Well, this is it!](http://9gag.com/gag/a3ZYOb7)
  - 🚯 [Here we go again](http://9gag.com/gag/a9qMbqo)
- - 🚯 [As simple as that](http://9gag.com/gag/aWG0Qrd)<!-- MEMES:END -->
+ - 🚯 [And people are wondering why mobilization may take up to 1 milion conscripts](http://9gag.com/gag/aMEb2Lx)<!-- MEMES:END -->
 
 --- 
 
