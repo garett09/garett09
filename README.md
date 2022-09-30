@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. Discovery is ‘absolutely not for sale,’ says CEO](https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max)
- - [Twitch begins testing paid ‘Elevated Chat’ feature](https://www.theverge.com/2022/9/30/23380804/twitch-elevated-chat-feature-paid-creators)
- - [The Challenge of Cracking Iran’s Internet Blockade](https://www.wired.com/story/subvert-iran-internet-blackout/)<!-- TECH:END -->
+ - [Best Self-Tanners and Bronzers for 2022     - CNET](https://www.cnet.com/health/personal-care/best-self-tanner-and-bronzer/#ftag=CAD590a51e)
+ - [Japan says it will provide Micron a subsidy of up to ~$322M to help the company produce advanced memory chips at a Hiroshima factory &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/220930/p17#a220930p17)
+ - [SEC filing: Intel&#39;s self-driving car unit Mobileye files for an IPO and reports a H1 2022 revenue of $854M, up 21% from H1 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220930/p16#a220930p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
