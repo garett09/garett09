@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rabid fox is just nightmare fuel](http://9gag.com/gag/aGEVVrK)
- - 🚯 [Love that carpet](http://9gag.com/gag/az2LVbN)
- - 🚯 [It&#39;s happening!](http://9gag.com/gag/awZb7eR)<!-- MEMES:END -->
+ - 🚖 [If he loves you he will wait for you.](http://9gag.com/gag/aDY0KbN)
+ - 🚯 [Darky](http://9gag.com/gag/aXnEpe2)
+ - 🚯 [Like a ninja](http://9gag.com/gag/aDYwmZO)<!-- MEMES:END -->
 
 --- 
 
