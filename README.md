@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best mods for Cyberpunk 2077](https://www.pcgamer.com/best-cyberpunk-2077-mods)
  - [Hocus Pocus 2, Rob Zombie’s The Munsters, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix)
- - [All the cool Hunt: Showdown players are sending kamikaze beetles to kill their enemies](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)
- - [Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs](https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969)<!-- GAME:END -->
+ - [All the cool Hunt: Showdown players are sending kamikaze beetles to kill their enemies](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
