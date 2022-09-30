@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q4 revenue down 25% YoY to $6.64B, from $8.27B, plans to cut total capital spending by 30% YoY and wafer-fab equipment spending by nearly 50% YoY &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220929/p37#a220929p37)
- - [A roundup of Elon Musk&#39;s newly released text messages show the inner workings of Silicon Valley dealmaking and how Musk lost interest in his Twitter acquisition &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/220929/p36#a220929p36)
- - [See NASA&#39;s Asteroid Crash Through the Lens of Webb and Hubble Telescopes     - CNET](https://www.cnet.com/science/space/see-nasas-asteroid-crash-through-the-eyes-of-webb-and-hubble-telescopes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Rings of Power&#39; Episode 6 Recap: Trouble in the Southlands     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-6-trouble-in-the-southlands/#ftag=CAD590a51e)
+ - [Twitter just put out its first edited tweet](https://www.androidauthority.com/twitter-edited-tweet-3215064/)
+ - [&#39;Rings of Power&#39; Lore Check: Episode 6 as It Stands Up to Tolkien&#39;s Writing     - CNET](https://www.cnet.com/culture/entertainment/how-does-rings-of-power-differ-from-tolkiens-works-a-full-breakdown-by-episode/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
