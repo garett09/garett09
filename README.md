@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terry Crews sketches Sofia Vergara](http://9gag.com/gag/aqemveY)
- - 🚯 [Choices](http://9gag.com/gag/aVbQzv8)
- - 🚯 [Here we go again](http://9gag.com/gag/a9qMbqo)<!-- MEMES:END -->
+ - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - 🚯 [Here we go again](http://9gag.com/gag/a9qMbqo)
+ - 🚯 [As simple as that](http://9gag.com/gag/aWG0Qrd)<!-- MEMES:END -->
 
 --- 
 
