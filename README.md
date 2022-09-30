@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Korea offices raided by antitrust officials](https://appleinsider.com/articles/22/09/30/apple-korea-offices-raided-by-antitrust-officials?utm_medium=rss)
- - [Chainalysis: sub-Saharan Africa crypto usage is driven by everyday necessity; 80% of crypto payments in the region are under $1K, the world&#39;s highest proportion &lpar;Frederick Munawa/CoinDesk&rpar;](http://www.techmeme.com/220930/p5#a220930p5)
- - [Daily Authority: 🎮 RIP Google Stadia](https://www.androidauthority.com/daily-authority-september-30-2022-3215088/)<!-- TECH:END -->
+ - [Amazon rolls out Amazon Live, its QVC-style livestreams, in India, running ~15 per day from 10am-1am, covering electronics, fashion and beauty, and home decor &lpar;TechCrunch&rpar;](http://www.techmeme.com/220930/p7#a220930p7)
+ - [Go Update iOS, Chrome, and HP Computers to Fix Serious Flaws](https://www.wired.com/story/ios-chrome-hp-whatsapp-critical-update-september/)
+ - [Sofia, the Airplane-Borne Telescope, Lands for the Last Time](https://www.wired.com/story/sofia-the-historic-airplane-borne-telescope-lands-for-the-last-time/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
