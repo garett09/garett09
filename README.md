@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It Sure Sounds Like Mark Hamill Is Playing The Joker In MultiVersus](https://kotaku.com/multiversus-datamine-leak-the-joker-mark-hamill-voice-1849603750)
- - [What’s in Overwatch 2’s store and season 1 battle pass](https://www.polygon.com/23380667/overwatch-2-store-souvenirs-battle-pass-skins-unlocks-currency)
- - [Hyper Demon review](https://www.pcgamer.com/hyper-demon-review)<!-- GAME:END -->
+ - [Hocus Pocus 2, Rob Zombie’s The Munsters, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix)
+ - [All the cool Hunt: Showdown players are sending kamikaze beetles to kill their enemies](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)
+ - [Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs](https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
