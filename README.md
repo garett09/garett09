@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If he loves you he will wait for you.](http://9gag.com/gag/aDY0KbN)
- - 🚯 [Darky](http://9gag.com/gag/aXnEpe2)
- - 🚯 [Like a ninja](http://9gag.com/gag/aDYwmZO)<!-- MEMES:END -->
+ - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - 🚯 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
+ - 🚯 [So touching](http://9gag.com/gag/aREgVWy)<!-- MEMES:END -->
 
 --- 
 
