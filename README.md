@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird](http://9gag.com/gag/aQEqjew)
- - 🚯 [Wait for it \u2026](http://9gag.com/gag/aQEp6bK)
- - 🚯 [He&#39;s a busy man](http://9gag.com/gag/a6qdreR)<!-- MEMES:END -->
+ - 🚖 [Terry Crews sketches Sofia Vergara](http://9gag.com/gag/aqemveY)
+ - 🚯 [Choices](http://9gag.com/gag/aVbQzv8)
+ - 🚯 [Here we go again](http://9gag.com/gag/a9qMbqo)<!-- MEMES:END -->
 
 --- 
 
