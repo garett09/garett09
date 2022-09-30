@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your head down](http://9gag.com/gag/aKEz0Mg)
- - 🚯 [Volunteers managed to pick up the dog, it has a very severe concussion, after her condition is stabilized dog will find a new family](http://9gag.com/gag/a8qbWyZ)
- - 🚯 [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)<!-- MEMES:END -->
+ - 🚖 [Why is steam on this??](http://9gag.com/gag/axo2Ejn)
+ - 🚯 [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)
+ - 🚯 [The head of Dagestan, Sergei Melikov, has absolutely lost it with Derbent&#39;s draft officers after they drove around with megaphones telling *every man* in the city to turn up at the conscription centre](http://9gag.com/gag/aMEb1Y6)<!-- MEMES:END -->
 
 --- 
 
