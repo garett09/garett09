@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oh goodie, now everyone can share NFTs on Instagram or Facebook](https://www.theverge.com/2022/9/30/23380631/meta-nft-digital-collectibles-instagram-facebook)
- - [Teenage Engineering’s new Record Factory is your own personal record maker](https://www.theverge.com/2022/9/30/23380258/teenage-engineering-po-80-record-factory-personal-vinyl-cutter)
- - [I fell in love with Stadia right as it shut down](https://www.theverge.com/2022/9/30/23380750/google-stadia-shut-down-skyrim-elder-scrolls-eso-gaming-xbox-ps5)<!-- TECH:END -->
+ - [Tim Cook says AR &amp; VR will be revolutionary, but the public will need education](https://appleinsider.com/articles/22/09/30/tim-cook-says-ar-will-be-revolutionary-but-the-public-will-need-education?utm_medium=rss)
+ - [Web novel apps backed by ByteDance and Tencent are running hundreds of Facebook and Instagram ads showing sexual assault, violent erotica, and acts of self-harm &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220930/p14#a220930p14)
+ - [Killing Stadia makes me trust Google less](https://www.androidauthority.com/google-stadia-shutdown-opinion-3215302/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
