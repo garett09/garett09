@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung brings long-overdue September patch to Flip 4](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
- - [Apple may bring adaptive transparency to original AirPods Pro](https://appleinsider.com/articles/22/09/30/apple-may-bring-adaptive-transparency-to-original-airpods-pro?utm_medium=rss)
- - [Apple Watch Ultra review: Ambitious aspirations](https://appleinsider.com/articles/22/09/30/apple-watch-ultra-review-ambitious-aspirations?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook Freeloads Off Newspapers. This Plan Might Stop It](https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/)
+ - [Apple procurement VP fired over TikTok breast joke](https://appleinsider.com/articles/22/09/29/vulgar-remark-in-tiktok-gets-apples-procurement-vp-fired?utm_medium=rss)
+ - [RIP Google Stadia: the latest news on the discontinued cloud gaming service](https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
