@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What if Rings of Power’s Sauron really is just the most obvious person?](https://www.polygon.com/23342914/lord-rings-power-sauron-halbrand)
- - [Official PlayStation Podcast Episode 441: Virtual Walkers](https://blog.playstation.com/2022/09/30/official-playstation-podcast-episode-441-virtual-walkers/)
- - [Marvel’s Armor Wars now envisioned as an Iron Man-level movie](https://www.polygon.com/23380803/marvel-armor-wars-movie-release)<!-- GAME:END -->
+ - [It Sure Sounds Like Mark Hamill Is Playing The Joker In MultiVersus](https://kotaku.com/multiversus-datamine-leak-the-joker-mark-hamill-voice-1849603750)
+ - [What’s in Overwatch 2’s store and season 1 battle pass](https://www.polygon.com/23380667/overwatch-2-store-souvenirs-battle-pass-skins-unlocks-currency)
+ - [Hyper Demon review](https://www.pcgamer.com/hyper-demon-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
