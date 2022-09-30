@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
- - 🚯 [Strange phenomenon happening in Dagestan](http://9gag.com/gag/aL1QK75)
- - 🚯 [Hhahahah what a comedy show from Kremlin](http://9gag.com/gag/aoKZZVm)<!-- MEMES:END -->
+ - 🚯 [A fantastic game for all ages](http://9gag.com/gag/a3ZddR7)
+ - 🚯 [Still D.R.E.](http://9gag.com/gag/aEqGGWp)<!-- MEMES:END -->
 
 --- 
 
