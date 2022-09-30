@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to play the Assassin’s Creed series for ‘free’](https://www.polygon.com/gaming/23378583/assassins-creed-ubisoft-ps-plus-xbox-game-pass-where-to-play)
- - [The Next Time You&#39;re Looking For New Switch Joy-Con, Check These Out](https://kotaku.com/nintendo-switch-joy-con-hori-controller-gamepad-zelda-1849601824)
- - [The Community movie is finally happening, with most of the cast on board](https://www.polygon.com/23380387/community-movie-announcement-donald-glover-peacock)<!-- GAME:END -->
+ - [McDonald’s First Happy Meal Toys For Adults Are Really Ugly](https://kotaku.com/mcdonalds-happy-meal-toy-adults-pokemon-szechuan-morty-1849602326)
+ - [Shenmue fans struck by deja vu as anime series cancelled](https://www.pcgamer.com/shenmue-fans-struck-by-deja-vu-as-anime-series-cancelled)
+ - [Even Tolkien was never really sure where orcs came from](https://www.polygon.com/23379185/lord-rings-power-orcs-origin-tolkien)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
