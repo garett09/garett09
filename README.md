@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Eyes Are on Ian, the Hurricane of the Future](https://www.wired.com/story/hurricane-ian/)
- - [15 Best National Coffee Day Deals on Beans and Espresso Machines](https://www.wired.com/story/national-international-coffee-day-deals-2022/)
- - [Eufy’s impressive new smart cameras use AI to identify you and your pets](https://www.theverge.com/2022/9/29/23378472/eufy-homebase-3-eufycam-3-price-release-date-specs)<!-- TECH:END -->
+ - [Intel to launch Arc A770 Limited Edition with 16GB of GDDR6 for $349 and A750 Limited Edition for $289 on October 12, alongside A770 with 8GB of GDDR6 for $329 &lpar;Sam Machkovech/Ars Technica&rpar;](http://www.techmeme.com/220929/p35#a220929p35)
+ - [The Future of Climate Activism Is Intergenerational—and on TikTok](https://www.wired.com/story/rewired-2022-gideon-lichfield-sylvia-earle-sophia-kianni/)
+ - [Microsoft says the Lazarus group is weaponizing open-source software such as PuTTY, KiTTY, TightVNC, and Sumatra PDF Reader, compromising numerous organizations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220929/p34#a220929p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
