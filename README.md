@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Destiny 2 streamer who found the best use for Stadia is now hunting for a replacement for when it closes](https://www.pcgamer.com/the-destiny-2-streamer-who-found-the-best-use-for-stadia-is-now-hunting-for-a-replacement-for-when-it-closes)
- - [How to watch Genshin Impact’s 2-year anniversary concert broadcast](https://www.polygon.com/23372891/genshin-impact-concert-live-broadcast-how-to-watch-shiro-sagisu)
- - [How much? These third-party RTX 4090 graphics cards are already $2,000 or more](https://www.pcgamer.com/third-party-rtx-4090-gpu-prices)<!-- GAME:END -->
+ - [Google Stadia’s legacy: The only console to offer refunds](https://www.polygon.com/23379367/google-stadia-shut-down-refunds-analysis)
+ - [Square Enix Is Drowning 2022 With New RPGs, And We&#39;re Here For It](https://kotaku.com/square-enix-final-fantasy-jrpg-valkyrie-harvestella-1849600675)
+ - [Hyenas could have real potential if it wasn&#39;t knee-deep in metacringe](https://www.pcgamer.com/hyenas-could-have-real-potential-if-it-wasnt-knee-deep-in-metacringe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
