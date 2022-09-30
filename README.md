@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guillermo del Toro’s Netflix horror anthology looks like the best of monsters and murder](https://www.polygon.com/23380563/guillermo-del-toro-cabinet-curiosities-netflix-release-date)
- - [Overwatch 2 will require a phone number to play — even if you’ve played the original](https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required)
- - [All Tiny Tina&#39;s Wonderlands Shift codes and how to redeem them](https://www.pcgamer.com/tiny-tinas-wonderlands-shift-codes-skeleton-keys)<!-- GAME:END -->
+ - [What if Rings of Power’s Sauron really is just the most obvious person?](https://www.polygon.com/23342914/lord-rings-power-sauron-halbrand)
+ - [Official PlayStation Podcast Episode 441: Virtual Walkers](https://blog.playstation.com/2022/09/30/official-playstation-podcast-episode-441-virtual-walkers/)
+ - [Marvel’s Armor Wars now envisioned as an Iron Man-level movie](https://www.polygon.com/23380803/marvel-armor-wars-movie-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
