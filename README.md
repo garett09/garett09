@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon rolls out Amazon Live, its QVC-style livestreams, in India, running ~15 per day from 10am-1am, covering electronics, fashion and beauty, and home decor &lpar;TechCrunch&rpar;](http://www.techmeme.com/220930/p7#a220930p7)
- - [Go Update iOS, Chrome, and HP Computers to Fix Serious Flaws](https://www.wired.com/story/ios-chrome-hp-whatsapp-critical-update-september/)
- - [Sofia, the Airplane-Borne Telescope, Lands for the Last Time](https://www.wired.com/story/sofia-the-historic-airplane-borne-telescope-lands-for-the-last-time/)<!-- TECH:END -->
+ - [Samsung brings long-overdue September patch to Flip 4](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
+ - [Apple may bring adaptive transparency to original AirPods Pro](https://appleinsider.com/articles/22/09/30/apple-may-bring-adaptive-transparency-to-original-airpods-pro?utm_medium=rss)
+ - [Apple Watch Ultra review: Ambitious aspirations](https://appleinsider.com/articles/22/09/30/apple-watch-ultra-review-ambitious-aspirations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
