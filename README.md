@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Is shutting Stadia down the right decision for Google?](https://www.androidauthority.com/google-stadia-shut-down-poll-3215087/)
- - [Hyper officially recalls its stackable &lpar;and overheating&rpar; GaN chargers after all](https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack)
- - [Scientists Say We Could Feed 1 Billion More People With One Change to the Global Food System     - CNET](https://www.cnet.com/science/climate/scientists-say-we-could-feed-1-billion-more-people-with-one-change-to-the-global-food-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Korea offices raided by antitrust officials](https://appleinsider.com/articles/22/09/30/apple-korea-offices-raided-by-antitrust-officials?utm_medium=rss)
+ - [Chainalysis: sub-Saharan Africa crypto usage is driven by everyday necessity; 80% of crypto payments in the region are under $1K, the world&#39;s highest proportion &lpar;Frederick Munawa/CoinDesk&rpar;](http://www.techmeme.com/220930/p5#a220930p5)
+ - [Daily Authority: 🎮 RIP Google Stadia](https://www.androidauthority.com/daily-authority-september-30-2022-3215088/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
