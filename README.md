@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Freeloads Off Newspapers. This Plan Might Stop It](https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/)
- - [Apple procurement VP fired over TikTok breast joke](https://appleinsider.com/articles/22/09/29/vulgar-remark-in-tiktok-gets-apples-procurement-vp-fired?utm_medium=rss)
- - [RIP Google Stadia: the latest news on the discontinued cloud gaming service](https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech)<!-- TECH:END -->
+ - [Queen Charlotte, The Mother, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [B&amp;H slashes MacBook Pro prices further, save up to $700](https://appleinsider.com/articles/22/09/30/bh-slashes-macbook-pro-prices-further-save-up-to-700?utm_medium=rss)
+ - [The FBI says it caught an ex-NSA employee trying to sell top-secret intelligence documents](https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
