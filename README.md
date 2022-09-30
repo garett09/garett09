@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Queen Charlotte, The Mother, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [B&amp;H slashes MacBook Pro prices further, save up to $700](https://appleinsider.com/articles/22/09/30/bh-slashes-macbook-pro-prices-further-save-up-to-700?utm_medium=rss)
- - [The FBI says it caught an ex-NSA employee trying to sell top-secret intelligence documents](https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke)<!-- TECH:END -->
+ - [Jon Stewart picks up shifts at Genius Bar in Kimmel skit](https://appleinsider.com/articles/22/09/30/jon-stewart-picks-up-shifts-at-genius-bar-in-kimmel-skit?utm_medium=rss)
+ - [Google is messing up Fitbit, so get an old Fitbit while you still can](https://www.androidauthority.com/buy-older-fitbit-3214765/)
+ - [A look at debates by Wikipedia editors over citing Fox News, deemed a &quot;marginally reliable&quot; source for politics and science and now cited in 16,000+ articles &lpar;Samuel Breslow/Slate&rpar;](http://www.techmeme.com/220930/p10#a220930p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
