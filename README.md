@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, this is it!](http://9gag.com/gag/a3ZYOb7)
- - 🚯 [Here we go again](http://9gag.com/gag/a9qMbqo)
- - 🚯 [And people are wondering why mobilization may take up to 1 milion conscripts](http://9gag.com/gag/aMEb2Lx)<!-- MEMES:END -->
+ - 🚖 [Keep your head down](http://9gag.com/gag/aKEz0Mg)
+ - 🚯 [Volunteers managed to pick up the dog, it has a very severe concussion, after her condition is stabilized dog will find a new family](http://9gag.com/gag/a8qbWyZ)
+ - 🚯 [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)<!-- MEMES:END -->
 
 --- 
 
