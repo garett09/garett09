@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Stewart picks up shifts at Genius Bar in Kimmel skit](https://appleinsider.com/articles/22/09/30/jon-stewart-picks-up-shifts-at-genius-bar-in-kimmel-skit?utm_medium=rss)
- - [Google is messing up Fitbit, so get an old Fitbit while you still can](https://www.androidauthority.com/buy-older-fitbit-3214765/)
- - [A look at debates by Wikipedia editors over citing Fox News, deemed a &quot;marginally reliable&quot; source for politics and science and now cited in 16,000+ articles &lpar;Samuel Breslow/Slate&rpar;](http://www.techmeme.com/220930/p10#a220930p10)<!-- TECH:END -->
+ - [Twitch is testing Elevated Chat, letting users make one-time payments of $5 to $100 to highlight a message in select chats from 30 seconds to 2.5 minutes &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/220930/p11#a220930p11)
+ - [2023 Mercedes-Benz EQS SUV Is a Three-Row Electric Luxobarge     - CNET](https://www.cnet.com/roadshow/pictures/2023-mercedes-benz-eqs-suv-eqs450-eqs580/#ftag=CAD590a51e)
+ - [The KitchenAid mixer has burly levers that still offer refined control](https://www.theverge.com/2022/9/30/23361232/kitchenaid-mixer-lever-rugged-fine-grain-control)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
