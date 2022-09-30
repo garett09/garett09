@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google Stadia’s legacy: The only console to offer refunds](https://www.polygon.com/23379367/google-stadia-shut-down-refunds-analysis)
- - [Square Enix Is Drowning 2022 With New RPGs, And We&#39;re Here For It](https://kotaku.com/square-enix-final-fantasy-jrpg-valkyrie-harvestella-1849600675)
- - [Hyenas could have real potential if it wasn&#39;t knee-deep in metacringe](https://www.pcgamer.com/hyenas-could-have-real-potential-if-it-wasnt-knee-deep-in-metacringe)<!-- GAME:END -->
+ - [Squid Game star’s spy thriller Hunt has an intense trailer with great action](https://www.polygon.com/23379225/hunt-first-trailer-squid-game-star-lee-jung-jae)
+ - [Does Netflix regret Blonde’s NC-17 rating or the whole movie?](https://www.polygon.com/23378794/blonde-nc-17-netflix-sex-violence-marilyn-monroe-analysis)
+ - [Game Devs And Stadia Employees Alike Were Blindsided By The Sudden Shutdown](https://kotaku.com/stadia-google-bungie-destiny-2-cyberpunk-2077-red-dead-1849601243)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
