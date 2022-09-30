@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine if it was what you thought it was..](http://9gag.com/gag/ajVrvGQ)
- - 🚯 [Wholesome exchange between a motorist &amp; a cyclist](http://9gag.com/gag/aqeZ4nQ)
- - 🚯 [How to win at cards](http://9gag.com/gag/armpPQK)<!-- MEMES:END -->
+ - 🚖 [Weird](http://9gag.com/gag/aQEqjew)
+ - 🚯 [Wait for it \u2026](http://9gag.com/gag/aQEp6bK)
+ - 🚯 [He&#39;s a busy man](http://9gag.com/gag/a6qdreR)<!-- MEMES:END -->
 
 --- 
 
