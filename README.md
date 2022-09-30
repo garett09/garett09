@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is steam on this??](http://9gag.com/gag/axo2Ejn)
+ - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
  - 🚯 [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)
- - 🚯 [The head of Dagestan, Sergei Melikov, has absolutely lost it with Derbent&#39;s draft officers after they drove around with megaphones telling *every man* in the city to turn up at the conscription centre](http://9gag.com/gag/aMEb1Y6)<!-- MEMES:END -->
+ - 🚯 [You&#39;re a cannon flesh harry](http://9gag.com/gag/aNwoeOb)<!-- MEMES:END -->
 
 --- 
 
