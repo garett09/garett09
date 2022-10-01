@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh yes. everyday](http://9gag.com/gag/aA0VV19)
- - 🚯 [You had one job](http://9gag.com/gag/avQZGnM)
- - 🚯 [Russian rapper Ivan Petunin committed suicide and left message before death: `I can&#39;t push trigger and kill people like me in a war that makes no sense. This is wrong, we are all hostages of one maniac, who leaves us no other choice but kill or be killed. And I choose how to die`](http://9gag.com/gag/aBdQWpA)<!-- MEMES:END -->
+ - 🚖 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
+ - 🚯 [99.99$ &gt; 100$ !!!! BIG OFFERS](http://9gag.com/gag/aZDWm2p)
+ - 🚯 [Good to have a castle of your own](http://9gag.com/gag/a9qMAKm)<!-- MEMES:END -->
 
 --- 
 
