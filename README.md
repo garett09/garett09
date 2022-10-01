@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best mods for Cyberpunk 2077](https://www.pcgamer.com/best-cyberpunk-2077-mods)
- - [Hocus Pocus 2, Rob Zombie’s The Munsters, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix)
- - [All the cool Hunt: Showdown players are sending kamikaze beetles to kill their enemies](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)<!-- GAME:END -->
+ - [Bush-Era Torture Apologist Steps Down From Call Of Duty Publisher](https://kotaku.com/call-duty-mwii-frances-townsend-activision-blizzard-1849604584)
+ - [The Rings of Power’s best character showed up, kicked ass, and died](https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash)
+ - [This cool Metal Gear Solid throwback trades rocket launchers for sponge bullets](https://www.pcgamer.com/this-cool-metal-gear-solid-throwback-trades-rocket-launchers-for-sponge-bullets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
