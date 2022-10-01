@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boo! Check out the new and upcoming Halloween/horror streaming shows and movies](https://www.androidauthority.com/new-halloween-streaming-shows-and-movies-3212854/)
- - [Hasbro Reveals New Indiana Jones Toy so You Can Raid the Lost Ark     - CNET](https://www.cnet.com/culture/entertainment/do-not-publish-hasbro-reveals-new-indiana-jones-toy-so-you-can-raid-the-lost-ark/#ftag=CAD590a51e)
- - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bruce Willis refutes a report that he sold his digital likeness rights to Deepcake, which confirms and says the company created his &quot;digital twin&quot; for 2021 ads &lpar;Ryan Gajewski/The Hollywood Reporter&rpar;](http://www.techmeme.com/221001/p14#a221001p14)
+ - [NASA’s Artemis I launch has officially been delayed until November](https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november)
+ - [Best Radar Detectors for 2022     - CNET](https://www.cnet.com/roadshow/news/best-radar-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
