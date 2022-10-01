@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - 🚯 [99.99$ &gt; 100$ !!!! BIG OFFERS](http://9gag.com/gag/aZDWm2p)
- - 🚯 [Good to have a castle of your own](http://9gag.com/gag/a9qMAKm)<!-- MEMES:END -->
+ - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 🚯 [!!! Scout drone footage, shows russians posible planing of using chemical weapons in cherson region.](http://9gag.com/gag/aOxyBvD)
+ - 🚯 [When you go to battle and cat is the only one with war face. Pixel edition.](http://9gag.com/gag/avQZO0b)<!-- MEMES:END -->
 
 --- 
 
