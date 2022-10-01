@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the money cat, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/abvq019)
- - 🚯 [Russian rapper Ivan Petunin committed suicide and left message before death: `I can&#39;t push trigger and kill people like me in a war that makes no sense. This is wrong, we are all hostages of one maniac, who leaves us no other choice but kill or be killed. And I choose how to die`](http://9gag.com/gag/aBdQWpA)
- - 🚯 [When you go to battle and cat is the only one with war face. Pixel edition.](http://9gag.com/gag/avQZO0b)<!-- MEMES:END -->
+ - 🚖 [Lada Kalina is too much for a soldier. Now they exchange mobilized citizens for a sheep or a sack of charcoal/potatoes &lpar;translation in comments&rpar;](http://9gag.com/gag/a9qMMrW)
+ - 🚯 [What did the wall say to the other wall?](http://9gag.com/gag/aZDWgL9)
+ - 🚯 [60 confirmed dead after a football match between Arema vs Persebaya in Indonesian league #RIP](http://9gag.com/gag/aYVpgbx)<!-- MEMES:END -->
 
 --- 
 
