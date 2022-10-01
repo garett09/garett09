@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are wildlife photographer the goal is to blend in with your surroundings so that you don&#39;t scare off the animals](http://9gag.com/gag/aL1Q9j6)
- - 🚯 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - 🚯 [When you know the cat&#39;s browser history and reveal it in public](http://9gag.com/gag/aNwoW03)<!-- MEMES:END -->
+ - 🚖 [Sean Bean had enough of these hobbitses](http://9gag.com/gag/aXnEwBz)
+ - 🚯 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 🚯 [Meanwhile during a live weather forecast news....](http://9gag.com/gag/ap9oLbn)<!-- MEMES:END -->
 
 --- 
 
