@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sean Bean had enough of these hobbitses](http://9gag.com/gag/aXnEwBz)
- - 🚯 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - 🚯 [Meanwhile during a live weather forecast news....](http://9gag.com/gag/ap9oLbn)<!-- MEMES:END -->
+ - 🚖 [Rabid fox is just nightmare fuel](http://9gag.com/gag/aGEVVrK)
+ - 🚯 [Da season of the spooky](http://9gag.com/gag/anzX1Z5)
+ - 🚯 [London rises up from the ashes](http://9gag.com/gag/a4o9ZL6)<!-- MEMES:END -->
 
 --- 
 
