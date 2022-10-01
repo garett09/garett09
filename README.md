@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I rode an electric bike to work, and here’s what I learned](https://www.androidauthority.com/what-i-learned-from-riding-an-electric-bike-3202694/)
  - [Sources: Tencent is resetting its M&amp;A strategy, seeking to own majority or even controlling stakes in overseas targets, mainly in gaming companies in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/221001/p11#a221001p11)
- - [The latest Pixel Watch leak shows band styles, watch faces, and more](https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit)
- - [Daily deals Oct. 1; $400 off 16-inch MacBook Pro, $150 off 65-inch TCL TV, $60 Amazon Fire TV Cube, more](https://appleinsider.com/articles/22/10/01/daily-deals-oct-1-400-off-16-inch-macbook-pro-150-off-65-inch-tcl-tv-60-amazon-fire-tv-cube-more?utm_medium=rss)<!-- TECH:END -->
+ - [The latest Pixel Watch leak shows band styles, watch faces, and more](https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
