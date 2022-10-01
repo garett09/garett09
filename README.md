@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
- - 🚯 [Guess which animal is the most educated...](http://9gag.com/gag/ago0qK6)
- - 🚯 [The struggle is real](http://9gag.com/gag/aL1QD6g)<!-- MEMES:END -->
+ - 🚯 [The actual crowd response to Okhlobystin speech, total silence. Versus the edited excitement on state TV. No wonder the crowd was so bleak when putin tried to `hoorah`.](http://9gag.com/gag/awZb5oW)
+ - 🚯 [Ivan Okhlobystin&#39;s `Goyda` speech for the Russian Invasion of Ukraine had edited crowd cheers. Such a cringe event.](http://9gag.com/gag/aA0Vwno)<!-- MEMES:END -->
 
 --- 
 
