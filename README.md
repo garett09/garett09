@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - 🚯 [!!! Scout drone footage, shows russians posible planing of using chemical weapons in cherson region.](http://9gag.com/gag/aOxyBvD)
+ - 🚖 [This is the money cat, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/abvq019)
+ - 🚯 [Russian rapper Ivan Petunin committed suicide and left message before death: `I can&#39;t push trigger and kill people like me in a war that makes no sense. This is wrong, we are all hostages of one maniac, who leaves us no other choice but kill or be killed. And I choose how to die`](http://9gag.com/gag/aBdQWpA)
  - 🚯 [When you go to battle and cat is the only one with war face. Pixel edition.](http://9gag.com/gag/avQZO0b)<!-- MEMES:END -->
 
 --- 
