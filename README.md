@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
- - 🚯 [Never underestimate your enemy.](http://9gag.com/gag/ago0q4q)
+ - 🚖 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)
+ - 🚯 [This is the money frog, upvote in next 24 hours and money will come your way my dudes](http://9gag.com/gag/abvq6dE)
  - 🚯 [What a GigaChad](http://9gag.com/gag/az2L8ep)<!-- MEMES:END -->
 
 --- 
