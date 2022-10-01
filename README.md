@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch bands for any kind of user in 2022](https://appleinsider.com/inside/apple-watch/best/the-best-apple-watch-bands-for-any-kind-of-user-in-2022?utm_medium=rss)
- - [As car makers cede control of their auto-operating systems to Apple and Google, the limited choice in the duopoly of smartphone OSes may soon extend to cars &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221001/p9#a221001p9)
- - [HBO Max: The 10 Best Horror Movies to Watch in October     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-10-best-horror-movies-to-watch-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-452-3214815/)
+ - [Google Stadia Will Shut Down in 2023, All Purchases to Be Refunded     - CNET](https://www.cnet.com/tech/gaming/google-stadia-to-shut-down-in-2023-all-purchases-to-be-refunded/#ftag=CAD590a51e)
+ - [Wondering How Much an Amazon Alexa Smart Home Can Cost? I Did the Math     - CNET](https://www.cnet.com/news/wondering-how-much-an-amazon-alexa-smart-home-can-cost-i-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
