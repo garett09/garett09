@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - 🚯 [Note to self: don\u2019t ever drink with Medvedev the night before the ceremony.](http://9gag.com/gag/aqeZLPj)
- - 🚯 [Guess which animal is the most educated...](http://9gag.com/gag/ago0qK6)<!-- MEMES:END -->
+ - 🚖 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
+ - 🚯 [Guess which animal is the most educated...](http://9gag.com/gag/ago0qK6)
+ - 🚯 [The struggle is real](http://9gag.com/gag/aL1QD6g)<!-- MEMES:END -->
 
 --- 
 
