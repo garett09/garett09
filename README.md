@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boo! Check out the new and upcoming Halloween/horror streaming shows and movies](https://www.androidauthority.com/new-halloween-streaming-shows-and-movies-3212854/)
  - [Hasbro Reveals New Indiana Jones Toy so You Can Raid the Lost Ark     - CNET](https://www.cnet.com/culture/entertainment/do-not-publish-hasbro-reveals-new-indiana-jones-toy-so-you-can-raid-the-lost-ark/#ftag=CAD590a51e)
- - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)
- - [Dish and Sling TV drop Disney, ESPN, and others due to contract dispute](https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming)<!-- TECH:END -->
+ - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
