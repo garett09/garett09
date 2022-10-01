@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)
- - 🚯 [This is the money frog, upvote in next 24 hours and money will come your way my dudes](http://9gag.com/gag/abvq6dE)
- - 🚯 [What a GigaChad](http://9gag.com/gag/az2L8ep)<!-- MEMES:END -->
+ - 🚯 [99.99$ &gt; 100$ !!!! BIG OFFERS](http://9gag.com/gag/aZDWm2p)
+ - 🚯 [Fading smile](http://9gag.com/gag/a3ZdqeQ)<!-- MEMES:END -->
 
 --- 
 
