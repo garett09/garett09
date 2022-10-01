@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rabid fox is just nightmare fuel](http://9gag.com/gag/aGEVVrK)
- - 🚯 [Da season of the spooky](http://9gag.com/gag/anzX1Z5)
- - 🚯 [London rises up from the ashes](http://9gag.com/gag/a4o9ZL6)<!-- MEMES:END -->
+ - 🚖 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
+ - 🚯 [London rises up from the ashes](http://9gag.com/gag/a4o9ZL6)
+ - 🚯 [I think that Putin deserves a special medal, for being probably the first dictator in history announcing and celebrating annexation of territories, while at the same time his army is in retreat on the very same territories...](http://9gag.com/gag/armeOV7)<!-- MEMES:END -->
 
 --- 
 
