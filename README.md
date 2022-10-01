@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
- - 🚯 [Skeletor strikes again](http://9gag.com/gag/avQZnZX)
- - 🚯 [Know your place trash. Try #2 to upload, first was deleted](http://9gag.com/gag/aXnEwdP)<!-- MEMES:END -->
+ - 🚖 [When you are wildlife photographer the goal is to blend in with your surroundings so that you don&#39;t scare off the animals](http://9gag.com/gag/aL1Q9j6)
+ - 🚯 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
+ - 🚯 [When you know the cat&#39;s browser history and reveal it in public](http://9gag.com/gag/aNwoW03)<!-- MEMES:END -->
 
 --- 
 
