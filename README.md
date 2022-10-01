@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Vitamins for Flu Season 2022     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-flu-season/#ftag=CAD590a51e)
- - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)
- - [I rode an electric bike to work, and here’s what I learned](https://www.androidauthority.com/what-i-learned-from-riding-an-electric-bike-3202694/)<!-- TECH:END -->
+ - [Hasbro Reveals New Indiana Jones Toy so You Can Raid the Lost Ark     - CNET](https://www.cnet.com/culture/entertainment/do-not-publish-hasbro-reveals-new-indiana-jones-toy-so-you-can-raid-the-lost-ark/#ftag=CAD590a51e)
+ - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)
+ - [Dish and Sling TV drop Disney, ESPN, and others due to contract dispute](https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
