@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lada Kalina is too much for a soldier. Now they exchange mobilized citizens for a sheep or a sack of charcoal/potatoes &lpar;translation in comments&rpar;](http://9gag.com/gag/a9qMMrW)
- - 🚯 [What did the wall say to the other wall?](http://9gag.com/gag/aZDWgL9)
- - 🚯 [60 confirmed dead after a football match between Arema vs Persebaya in Indonesian league #RIP](http://9gag.com/gag/aYVpgbx)<!-- MEMES:END -->
+ - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 🚯 [Got removed, 3.5 k likes. Still love the carpet](http://9gag.com/gag/a7qKMqm)
+ - 🚯 [Where did it go, into space?](http://9gag.com/gag/ap9o2AE)<!-- MEMES:END -->
 
 --- 
 
