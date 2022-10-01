@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
- - 🚯 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - 🚯 [So touching](http://9gag.com/gag/aREgVWy)<!-- MEMES:END -->
+ - 🚖 [Harmonic jumping rope](http://9gag.com/gag/a8qWBqe)
+ - 🚯 [The feels!](http://9gag.com/gag/aQEpnVz)
+ - 🚯 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)<!-- MEMES:END -->
 
 --- 
 
