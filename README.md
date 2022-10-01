@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
- - 🚯 [London rises up from the ashes](http://9gag.com/gag/a4o9ZL6)
- - 🚯 [I think that Putin deserves a special medal, for being probably the first dictator in history announcing and celebrating annexation of territories, while at the same time his army is in retreat on the very same territories...](http://9gag.com/gag/armeOV7)<!-- MEMES:END -->
+ - 🚖 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
+ - 🚯 [Note to self: don\u2019t ever drink with Medvedev the night before the ceremony.](http://9gag.com/gag/aqeZLPj)
+ - 🚯 [Guess which animal is the most educated...](http://9gag.com/gag/ago0qK6)<!-- MEMES:END -->
 
 --- 
 
