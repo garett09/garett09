@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Self-Tanners and Bronzers for 2022     - CNET](https://www.cnet.com/health/personal-care/best-self-tanner-and-bronzer/#ftag=CAD590a51e)
- - [Japan says it will provide Micron a subsidy of up to ~$322M to help the company produce advanced memory chips at a Hiroshima factory &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/220930/p17#a220930p17)
- - [SEC filing: Intel&#39;s self-driving car unit Mobileye files for an IPO and reports a H1 2022 revenue of $854M, up 21% from H1 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220930/p16#a220930p16)<!-- TECH:END -->
+ - [At Tesla AI Day, Musk reveals a protoype of Optimus, a humanoid robot that uses Tesla&#39; AI and advanced driver assist features, expects to cost less than $20K &lpar;The Verge&rpar;](http://www.techmeme.com/220930/p19#a220930p19)
+ - [Tesla CEO Elon Musk unveils prototype of  humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
+ - [Watch Tesla’s 2022 AI Day event](https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
