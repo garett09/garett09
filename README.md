@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People entering a mine to pick through the scraps](http://9gag.com/gag/aREgQrB)
- - 🚯 [This dog saved his friend](http://9gag.com/gag/aqeZ5Vj)
- - 🚯 [Go away](http://9gag.com/gag/aEqG7Ee)<!-- MEMES:END -->
+ - 🚖 [.....](http://9gag.com/gag/a4o4eXw)
+ - 🚯 [Modern Educational establishments are just NPC factories.](http://9gag.com/gag/aOxyVw3)
+ - 🚯 [This dog saved his friend](http://9gag.com/gag/aqeZ5Vj)<!-- MEMES:END -->
 
 --- 
 
