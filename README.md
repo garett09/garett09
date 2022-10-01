@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
- - 🚯 [The actual crowd response to Okhlobystin speech, total silence. Versus the edited excitement on state TV. No wonder the crowd was so bleak when putin tried to `hoorah`.](http://9gag.com/gag/awZb5oW)
- - 🚯 [Ivan Okhlobystin&#39;s `Goyda` speech for the Russian Invasion of Ukraine had edited crowd cheers. Such a cringe event.](http://9gag.com/gag/aA0Vwno)<!-- MEMES:END -->
+ - 🚯 [Never underestimate your enemy.](http://9gag.com/gag/ago0q4q)
+ - 🚯 [What a GigaChad](http://9gag.com/gag/az2L8ep)<!-- MEMES:END -->
 
 --- 
 
