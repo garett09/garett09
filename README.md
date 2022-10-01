@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harmonic jumping rope](http://9gag.com/gag/a8qWBqe)
- - 🚯 [The feels!](http://9gag.com/gag/aQEpnVz)
- - 🚯 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)<!-- MEMES:END -->
+ - 🚖 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
+ - 🚯 [This is the money cat, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/abvq019)
+ - 🚯 [What happens when people in NYC get angry at influencers](http://9gag.com/gag/adP6jxd)<!-- MEMES:END -->
 
 --- 
 
