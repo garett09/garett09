@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Innocn 40C1R Review: A Big Screen Worth Its Modest Bucks     - CNET](https://www.cnet.com/tech/computing/innocn-40c1r-review-a-big-screen-worth-its-modest-bucks/#ftag=CAD590a51e)
- - [NFL Week 4: How to Watch Vikings vs. Saints, Chiefs vs. Buccaneers, RedZone and More Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-week-4-how-to-watch-vikings-vs-saints-chiefs-vs-buccaneers-redzone-and-more-without-cable/#ftag=CAD590a51e)
- - [Too Many Slack Notifications? 4 Options for Customizing Your Settings     - CNET](https://www.cnet.com/tech/services-and-software/too-many-slack-notifications-4-options-for-customizing-your-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to reset AirPods and AirPods Pro](https://appleinsider.com/inside/airpods-pro/tips/how-to-reset-airpods-and-airpods-pro?utm_medium=rss)
+ - [Daily deals Oct. 2: 50% off Apple Leather Wallet with MagSafe, $150 off Sony wireless headphones, $239 AirPods Pro Gen 2, more](https://appleinsider.com/articles/22/10/02/daily-deals-oct-2-50-off-apple-leather-wallet-with-magsafe-150-off-sony-wireless-headphones-239-airpods-pro-gen-2-more?utm_medium=rss)
+ - [Are Particle Physicists Inventing New Particles for No Reason? No, but It&#39;s Complicated     - CNET](https://www.cnet.com/science/are-particle-physicists-inventing-new-particles-for-no-reason-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
