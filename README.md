@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
- - 🚯 [Man throws chair at 66 year old diner before stealing his phone](http://9gag.com/gag/aREg0Gy)
- - 🚯 [Be cautious](http://9gag.com/gag/aYVpyNN)<!-- MEMES:END -->
+ - 🚖 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
+ - 🚯 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)
+ - 🚯 [LEGENDARY BIRD OF LUCK](http://9gag.com/gag/aOxy716)<!-- MEMES:END -->
 
 --- 
 
