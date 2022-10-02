@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a game about soldering and tinkering with old school electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)
  - [Transformers cards are coming to Magic: The Gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)
- - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)
- - [How much time do you spend on MMO character fashion?](https://www.pcgamer.com/how-much-time-do-you-spend-on-mmo-character-fashion)<!-- GAME:END -->
+ - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
