@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional Damage](http://9gag.com/gag/a5XNRQO)
- - 🚯 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
- - 🚯 [I cant wait for season 2](http://9gag.com/gag/aA0VgE0)<!-- MEMES:END -->
+ - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 🚯 [Roses are red, putin is fuhrer](http://9gag.com/gag/a2KPRW1)
+ - 🚯 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)<!-- MEMES:END -->
 
 --- 
 
