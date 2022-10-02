@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Science b*tch ! &lpar;Read comments&rpar;](http://9gag.com/gag/a8qbo3Z)
- - 🚯 [Delicious](http://9gag.com/gag/aYVpY5v)
- - 🚯 [Thats lot of damage](http://9gag.com/gag/armeoyB)<!-- MEMES:END -->
+ - 🚖 [Lyman](http://9gag.com/gag/aKEgd8Z)
+ - 🚯 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
+ - 🚯 [Cozy](http://9gag.com/gag/aVbQ078)<!-- MEMES:END -->
 
 --- 
 
