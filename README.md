@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And now I can\u2019t I see it or ignore it](http://9gag.com/gag/ago0Geg)
+ - 🚖 [Science b*tch ! &lpar;Read comments&rpar;](http://9gag.com/gag/a8qbo3Z)
  - 🚯 [Delicious](http://9gag.com/gag/aYVpY5v)
- - 🚯 [Nokia n91 was shipped with a physical hard drive. here&#39;s how it looked](http://9gag.com/gag/aEqGgnG)<!-- MEMES:END -->
+ - 🚯 [Thats lot of damage](http://9gag.com/gag/armeoyB)<!-- MEMES:END -->
 
 --- 
 
