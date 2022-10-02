@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - 🚯 [Roses are red, putin is fuhrer](http://9gag.com/gag/a2KPRW1)
- - 🚯 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)<!-- MEMES:END -->
+ - 🚖 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
+ - 🚯 [Man throws chair at 66 year old diner before stealing his phone](http://9gag.com/gag/aREg0Gy)
+ - 🚯 [Be cautious](http://9gag.com/gag/aYVpyNN)<!-- MEMES:END -->
 
 --- 
 
