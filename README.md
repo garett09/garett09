@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lyman](http://9gag.com/gag/aKEgd8Z)
+ - 🚖 [Emotional Damage](http://9gag.com/gag/a5XNRQO)
  - 🚯 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
- - 🚯 [Cozy](http://9gag.com/gag/aVbQ078)<!-- MEMES:END -->
+ - 🚯 [I cant wait for season 2](http://9gag.com/gag/aA0VgE0)<!-- MEMES:END -->
 
 --- 
 
