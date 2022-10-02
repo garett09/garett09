@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
- - 🚯 [Hassan! Get the garlic saus.](http://9gag.com/gag/anzXM7V)
- - 🚯 [FIFA Fair play nominee](http://9gag.com/gag/aVbQ3LK)<!-- MEMES:END -->
+ - 🚖 [Old but still good](http://9gag.com/gag/az2Lr6N)
+ - 🚯 [What a unique invention](http://9gag.com/gag/aOxyrqv)
+ - 🚯 [Mission accomplished!](http://9gag.com/gag/aZDWLmW)<!-- MEMES:END -->
 
 --- 
 
