@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal of the Day: Apple&#39;s 1TB iPad Pro 11-inch drops to $799 &lpar;$500 off&rpar;](https://appleinsider.com/articles/22/10/02/deal-of-the-day-apples-1tb-ipad-pro-11-inch-drops-to-799-500-off?utm_medium=rss)
- - [&#39;Andor&#39; Release Schedule: When Does Episode 5 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-come-to-disney-plus/#ftag=CAD590a51e)
- - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)<!-- TECH:END -->
+ - [From shutting down services only in Texas to letting users opt out of hateful content, tech companies are gaming out responses to the state&#39;s social media law &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/221002/p8#a221002p8)
+ - [&#39;Andor&#39; Episode 4 Recap: Awesome Star Wars Easter Eggs and References, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CAD590a51e)
+ - [A new Facebook Marketplace rule could make it harder to find legit car listings](https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
