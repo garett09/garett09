@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s self-driving company Mobileye files for an IPO](https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo)
- - [Apple names new VPs for Maps, Services, Silicon](https://appleinsider.com/articles/22/10/02/apple-names-new-vps-for-maps-services-silicon?utm_medium=rss)
- - [How to reset AirPods and AirPods Pro](https://appleinsider.com/inside/airpods-pro/tips/how-to-reset-airpods-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Coinbase pauses transactions in US to address bank transfer issues](https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues)
+ - [Apple SIM for iPad cannot be used to activate cellular plans anymore](https://appleinsider.com/articles/22/10/02/apple-sim-for-ipad-cannot-be-used-to-activate-cellular-plans-anymore?utm_medium=rss)
+ - [Fitbit integration will make or break the Pixel Watch](https://www.androidauthority.com/pixel-watch-fitbit-3215092/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
