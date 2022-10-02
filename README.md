@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to reset AirPods and AirPods Pro](https://appleinsider.com/inside/airpods-pro/tips/how-to-reset-airpods-and-airpods-pro?utm_medium=rss)
- - [Daily deals Oct. 2: 50% off Apple Leather Wallet with MagSafe, $150 off Sony wireless headphones, $239 AirPods Pro Gen 2, more](https://appleinsider.com/articles/22/10/02/daily-deals-oct-2-50-off-apple-leather-wallet-with-magsafe-150-off-sony-wireless-headphones-239-airpods-pro-gen-2-more?utm_medium=rss)
- - [Are Particle Physicists Inventing New Particles for No Reason? No, but It&#39;s Complicated     - CNET](https://www.cnet.com/science/are-particle-physicists-inventing-new-particles-for-no-reason-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Touch ID is probably never coming back to iPhone](https://appleinsider.com/articles/22/10/02/apples-touch-id-is-probably-never-coming-back-to-iphone?utm_medium=rss)
+ - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear/)
+ - [Casio’s Flagship Keyboard Has a Voice of Its Own](https://www.wired.com/review/casio-ct-s1000v/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
