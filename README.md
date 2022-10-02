@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a unique invention](http://9gag.com/gag/aOxyrqv)
+ - 🚖 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
  - 🚯 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)
- - 🚯 [Ooo no](http://9gag.com/gag/aqeZnAZ)<!-- MEMES:END -->
+ - 🚯 [That&#39;s why I love 9gag so much!](http://9gag.com/gag/aDYw497)<!-- MEMES:END -->
 
 --- 
 
