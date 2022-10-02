@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
+ - 🚖 [Afghan women protest in Kabul for right to education, the Taliban police opened fire and start shooting at them randomly.](http://9gag.com/gag/amALgB2)
  - 🚯 [Showcase of a smart sprinkler putting out a fire.](http://9gag.com/gag/aNwopO4)
- - 🚯 [Islamic republic literally encircled and surrounded the sharif university and closed all exits and started shooting at students, i really dont know what to say](http://9gag.com/gag/aMEb4AV)<!-- MEMES:END -->
+ - 🚯 [Nothing to see here. Just casual truck doing casual things. Vroom Vroom \ud83d\ude9a \ud83d\ude9a \ud83d\ude9a \ud83d\ude9a](http://9gag.com/gag/ajV6gLp)<!-- MEMES:END -->
 
 --- 
 
