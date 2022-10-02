@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 characters to appear as emblem rings](https://game-rant-2022.blogspot.com/2022/10/10-characters-to-appear-as-emblem-rings.html)
- - [Half-Life 2&#39;s excellent PC VR mod is almost too good to be true](https://game-rant-2022.blogspot.com/2022/10/half-life-2s-excellent-pc-vr-mod-is.html)
- - [7 Best Anime Game Adaptations To Check Out If You Like Cyberpunk: Edgerunners](https://game-rant-2022.blogspot.com/2022/10/7-best-anime-game-adaptations-to-check.html)<!-- GAME:END -->
+ - [Transformers cards are coming to Magic: The Gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)
+ - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)
+ - [How much time do you spend on MMO character fashion?](https://www.pcgamer.com/how-much-time-do-you-spend-on-mmo-character-fashion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
