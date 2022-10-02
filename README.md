@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - 🚯 [Got removed, 3.5 k likes. Still love the carpet](http://9gag.com/gag/a7qKMqm)
- - 🚯 [Where did it go, into space?](http://9gag.com/gag/ap9o2AE)<!-- MEMES:END -->
+ - 🚖 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
+ - 🚯 [Hassan! Get the garlic saus.](http://9gag.com/gag/anzXM7V)
+ - 🚯 [FIFA Fair play nominee](http://9gag.com/gag/aVbQ3LK)<!-- MEMES:END -->
 
 --- 
 
