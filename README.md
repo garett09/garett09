@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Plus lead times start growing, Pro models still high in demand](https://appleinsider.com/articles/22/10/02/iphone-14-plus-lead-times-start-growing-pro-models-still-high-in-demand?utm_medium=rss)
  - [From shutting down services only in Texas to letting users opt out of hateful content, tech companies are gaming out responses to the state&#39;s social media law &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/221002/p8#a221002p8)
- - [&#39;Andor&#39; Episode 4 Recap: Awesome Star Wars Easter Eggs and References, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CAD590a51e)
- - [A new Facebook Marketplace rule could make it harder to find legit car listings](https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta)<!-- TECH:END -->
+ - [&#39;Andor&#39; Episode 4 Recap: Awesome Star Wars Easter Eggs and References, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
