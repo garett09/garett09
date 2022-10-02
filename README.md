@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Online&#39;s biggest superfan may lose 6,000 hours of progress on Stadia](https://www.pcgamer.com/red-dead-onlines-biggest-superfan-may-lose-6000-hours-of-progress-on-stadia)
- - [Founding member of Disco Elysium studio claims core devs &#39;involuntarily&#39; left the company](https://www.pcgamer.com/founding-member-of-disco-elysium-developer-claims-core-team-members-involuntarily-left-the-company)
- - [Tesla unveils bipedal robot that is not a guy in a morph suit](https://www.pcgamer.com/tesla-unveils-bipedal-robot-that-is-not-a-guy-in-a-morph-suit)<!-- GAME:END -->
+ - [10 characters to appear as emblem rings](https://game-rant-2022.blogspot.com/2022/10/10-characters-to-appear-as-emblem-rings.html)
+ - [Half-Life 2&#39;s excellent PC VR mod is almost too good to be true](https://game-rant-2022.blogspot.com/2022/10/half-life-2s-excellent-pc-vr-mod-is.html)
+ - [7 Best Anime Game Adaptations To Check Out If You Like Cyberpunk: Edgerunners](https://game-rant-2022.blogspot.com/2022/10/7-best-anime-game-adaptations-to-check.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
