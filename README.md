@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent is no longer China&#39;s most valuable company after its shares dropped 64% since Jan. 2021, wiping $623B in market value, more than any other firm globally &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/221002/p3#a221002p3)
- - [Formula 1 Singapore Livestream: How to Watch the Race Live Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-singapore-grand-prix-today/#ftag=CAD590a51e)
- - [JD.com founder Richard Liu agreed to settle a US lawsuit filed by a former University of Minnesota student who alleged he raped her in 2018 &lpar;Amy Forliti/Associated Press&rpar;](http://www.techmeme.com/221002/p2#a221002p2)<!-- TECH:END -->
+ - [Innocn 40C1R Review: A Big Screen Worth Its Modest Bucks     - CNET](https://www.cnet.com/tech/computing/innocn-40c1r-review-a-big-screen-worth-its-modest-bucks/#ftag=CAD590a51e)
+ - [NFL Week 4: How to Watch Vikings vs. Saints, Chiefs vs. Buccaneers, RedZone and More Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-week-4-how-to-watch-vikings-vs-saints-chiefs-vs-buccaneers-redzone-and-more-without-cable/#ftag=CAD590a51e)
+ - [Too Many Slack Notifications? 4 Options for Customizing Your Settings     - CNET](https://www.cnet.com/tech/services-and-software/too-many-slack-notifications-4-options-for-customizing-your-settings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
