@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What\u2019s holding you back?](http://9gag.com/gag/a2KPr6Y)
- - 🚯 [Wtffffffffff!!! Hahahahahhaha](http://9gag.com/gag/aWG0gB6)
- - 🚯 [SLPT: steal from your newborn so they become rich](http://9gag.com/gag/aKEgmEZ)<!-- MEMES:END -->
+ - 🚖 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - 🚯 [Bike brake checks a car](http://9gag.com/gag/aDYwdKG)
+ - 🚯 [It&#39;s literally just a matter of wearing a few extra layers](http://9gag.com/gag/aA0V0PR)<!-- MEMES:END -->
 
 --- 
 
