@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
+ - 🚖 [What a unique invention](http://9gag.com/gag/aOxyrqv)
  - 🚯 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)
- - 🚯 [LEGENDARY BIRD OF LUCK](http://9gag.com/gag/aOxy716)<!-- MEMES:END -->
+ - 🚯 [Ooo no](http://9gag.com/gag/aqeZnAZ)<!-- MEMES:END -->
 
 --- 
 
