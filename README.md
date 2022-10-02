@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Touch ID is probably never coming back to iPhone](https://appleinsider.com/articles/22/10/02/apples-touch-id-is-probably-never-coming-back-to-iphone?utm_medium=rss)
- - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear/)
- - [Casio’s Flagship Keyboard Has a Voice of Its Own](https://www.wired.com/review/casio-ct-s1000v/)<!-- TECH:END -->
+ - [Apple names new VPs for Maps, Services, Silicon](https://appleinsider.com/articles/22/10/02/apple-names-new-vps-for-maps-services-silicon?utm_medium=rss)
+ - [How to reset AirPods and AirPods Pro](https://appleinsider.com/inside/airpods-pro/tips/how-to-reset-airpods-and-airpods-pro?utm_medium=rss)
+ - [Every serious hiker should have something like the Garmin InReach Mini 2](https://www.androidauthority.com/garmin-inreach-mini-2-3208287/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
