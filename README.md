@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bruce Willis refutes a report that he sold his digital likeness rights to Deepcake, which confirms and says the company created his &quot;digital twin&quot; for 2021 ads &lpar;Ryan Gajewski/The Hollywood Reporter&rpar;](http://www.techmeme.com/221001/p14#a221001p14)
- - [NASA’s Artemis I launch has officially been delayed until November](https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november)
- - [Best Radar Detectors for 2022     - CNET](https://www.cnet.com/roadshow/news/best-radar-detector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of David Mills, who created the Network Time Protocol in the 1980s, as about two dozen Internet Engineering Task Force contributors work toward NTPv5 &lpar;Nate Hopper/New Yorker&rpar;](http://www.techmeme.com/221001/p15#a221001p15)
+ - [&#39;Andor&#39; Episode 4 Recap: Deep Cut Star Wars Easter Eggs, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CAD590a51e)
+ - [NASA Says Hurricane Didn&#39;t Hurt Artemis I Hardware, Sets New Launch Window     - CNET](https://www.cnet.com/science/space/nasa-says-hurricane-ian-didnt-hurt-artemis-i-hardware-sets-new-launch-window/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
