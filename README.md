@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase pauses transactions in US to address bank transfer issues](https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues)
- - [Apple SIM for iPad cannot be used to activate cellular plans anymore](https://appleinsider.com/articles/22/10/02/apple-sim-for-ipad-cannot-be-used-to-activate-cellular-plans-anymore?utm_medium=rss)
- - [Fitbit integration will make or break the Pixel Watch](https://www.androidauthority.com/pixel-watch-fitbit-3215092/)<!-- TECH:END -->
+ - [OWC Envoy Pro mini review: Enough speed in a small package](https://appleinsider.com/articles/22/10/02/owc-envoy-pro-mini-review-enough-speed-in-a-small-package?utm_medium=rss)
+ - [B&amp;H slashes MacBook Pro prices further, save up to $700](https://appleinsider.com/articles/22/09/30/bh-slashes-macbook-pro-prices-further-save-up-to-700?utm_medium=rss)
+ - [Coinbase paused transactions in US for hours to address bank transfer issues](https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
