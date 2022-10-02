@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
- - 🚯 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)
- - 🚯 [That&#39;s why I love 9gag so much!](http://9gag.com/gag/aDYw497)<!-- MEMES:END -->
+ - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 🚯 [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
+ - 🚯 [Tears of an iranian father for losing his wife and daughter to islamic republic tyranny](http://9gag.com/gag/aGEVpV6)<!-- MEMES:END -->
 
 --- 
 
