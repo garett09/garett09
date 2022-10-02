@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank, which bought a 10% stake in Twilio competitor Sinch in November 2020, sells its remaining 5% stake; Sinch&#39;s stock has fallen 93% since September 2021 &lpar;Anton Wilen/Bloomberg&rpar;](http://www.techmeme.com/221001/p17#a221001p17)
- - [Bengaluru-based Juno, which works with US payroll services to offer checking accounts that give users their paychecks in digital tokens, raised an $18M Series A &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221001/p16#a221001p16)
- - [A profile of David Mills, who created the Network Time Protocol in the 1980s, as about two dozen Internet Engineering Task Force contributors work toward NTPv5 &lpar;Nate Hopper/New Yorker&rpar;](http://www.techmeme.com/221001/p15#a221001p15)<!-- TECH:END -->
+ - [Taco Bell to Bring Back One of Its Most Requested Discontinued Items     - CNET](https://www.cnet.com/culture/taco-bell-will-bring-back-one-of-its-most-requested-discontinued-items/#ftag=CAD590a51e)
+ - [The UN Food Programme and the WHO say a nearly two-year internet and phone shutdown in Ethiopia&#39;s Tigray region is hampering aid delivery and health monitoring &lpar;Zecharias Zelalem/Context&rpar;](http://www.techmeme.com/221002/p1#a221002p1)
+ - [SoftBank, which bought a 10% stake in Twilio competitor Sinch in November 2020, sells its remaining 5% stake; Sinch&#39;s stock has fallen 93% since September 2021 &lpar;Anton Wilen/Bloomberg&rpar;](http://www.techmeme.com/221001/p17#a221001p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
