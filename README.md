@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
  - 🚯 [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
- - 🚯 [Tears of an iranian father for losing his wife and daughter to islamic republic tyranny](http://9gag.com/gag/aGEVpV6)<!-- MEMES:END -->
+ - 🚯 [Congratulations, you propagandad yourself](http://9gag.com/gag/aGEVpzz)<!-- MEMES:END -->
 
 --- 
 
