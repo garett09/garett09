@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 🚖 [After monitoring Joe on his first day. I decided to let him go, as he doesn&#39;t meet our standard work ethic](http://9gag.com/gag/aREg0o2)
  - 🚯 [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
- - 🚯 [Congratulations, you propagandad yourself](http://9gag.com/gag/aGEVpzz)<!-- MEMES:END -->
+ - 🚯 [I.R. security forces entered Sharif University of Technology and are shooting the students. They have also blockaded all streets around university to arrest students.](http://9gag.com/gag/aPgy3zQ)<!-- MEMES:END -->
 
 --- 
 
