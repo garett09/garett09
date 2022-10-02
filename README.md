@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Old but still good](http://9gag.com/gag/az2Lr6N)
- - 🚯 [What a unique invention](http://9gag.com/gag/aOxyrqv)
- - 🚯 [Mission accomplished!](http://9gag.com/gag/aZDWLmW)<!-- MEMES:END -->
+ - 🚯 [This amazing greenscreen dress](http://9gag.com/gag/a8qb38O)
+ - 🚯 [3 story mall that was still under construction](http://9gag.com/gag/az2L9Mx)<!-- MEMES:END -->
 
 --- 
 
