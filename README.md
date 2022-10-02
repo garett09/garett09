@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Afghan women protest in Kabul for right to education, the Taliban police opened fire and start shooting at them randomly.](http://9gag.com/gag/amALgB2)
- - 🚯 [Showcase of a smart sprinkler putting out a fire.](http://9gag.com/gag/aNwopO4)
- - 🚯 [Nothing to see here. Just casual truck doing casual things. Vroom Vroom \ud83d\ude9a \ud83d\ude9a \ud83d\ude9a \ud83d\ude9a](http://9gag.com/gag/ajV6gLp)<!-- MEMES:END -->
+ - 🚖 [What\u2019s holding you back?](http://9gag.com/gag/a2KPr6Y)
+ - 🚯 [Wtffffffffff!!! Hahahahahhaha](http://9gag.com/gag/aWG0gB6)
+ - 🚯 [SLPT: steal from your newborn so they become rich](http://9gag.com/gag/aKEgmEZ)<!-- MEMES:END -->
 
 --- 
 
