@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple SIM can no longer activate new cellular data plans on iPads](https://www.theverge.com/2022/10/3/23384764/apple-sim-stops-activation-mobile-internet-data)
- - [A profile of Checkout.com founder and CEO Guillaume Pousaz, who owns 60% of the $40B London-based payments company and has begun investing in fintech startups &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/221003/p9#a221003p9)
- - [How to undelete photos on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-undelete-photos-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple &amp; Amazon&#39;s $195M Italian antitrust fine dismissed](https://appleinsider.com/articles/22/10/03/apple-amazons-195m-italian-antitrust-fine-dismissed?utm_medium=rss)
+ - [A document shows an Italian administrative court scrapped a &amp;euro;200M fine for Apple and Amazon from 2021 over alleged collusion in selling Apple and Beats products &lpar;Reuters&rpar;](http://www.techmeme.com/221003/p13#a221003p13)
+ - [Tim Cook granted special audience with Pope Francis](https://appleinsider.com/articles/22/10/03/tim-cook-granted-special-audience-with-pope-francis?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
