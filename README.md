@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US will likely announce new measures as soon as this week restricting several Chinese companies and research labs from using advanced US chip tech &lpar;New York Times&rpar;](http://www.techmeme.com/221003/p18#a221003p18)
- - [How to Shop Like a Pro During Amazon&#39;s Prime Early Access Sale](https://www.wired.com/story/amazon-prime-day-2022-tips-to-find-best-deals/)
- - [Twitter’s actually rolling out editable tweets](https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue)<!-- TECH:END -->
+ - [How to turn your Mac desktop folder icons into emoji](https://www.theverge.com/23385320/how-to-turn-your-mac-desktop-folder-icons-into-emoji)
+ - [Kandji gives boost to Apple mobile device management security](https://appleinsider.com/articles/22/10/03/kandji-gives-boost-to-apple-mobile-device-management-security?utm_medium=rss)
+ - [Pixelated clothing at Paris Fashion Week is metaverse fashion flipped on its head](https://www.theverge.com/2022/10/3/23385403/loewe-paris-fashion-week-minecraft-pixel-hoodie-metaverse-clothing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
