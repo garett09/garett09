@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7 series ads leak: Here are Google’s standout features](https://www.androidauthority.com/google-pixel-7-series-ads-3215688/)
- - [A flood of Pixel Watch material just leaked everything you want to know](https://www.androidauthority.com/google-pixel-watch-features-3215681/)
- - [Pixel 7 series specs leak: Bad news for charging speeds?](https://www.androidauthority.com/google-pixel-7-series-specs-3215067/)<!-- TECH:END -->
+ - [Maserati’s GranTurismo Folgore will be its first EV](https://www.theverge.com/2022/10/3/23384565/maserati-granturismo-folgore-ev-reveal)
+ - [Maserati GranTurismo Modena and Trofeo Share the MC20&#39;s Twin-Turbo V6     - CNET](https://www.cnet.com/roadshow/news/maserati-granturismo-modena-trofeo-debut/#ftag=CAD590a51e)
+ - [750-HP GranTurismo Folgore Is Maserati&#39;s First EV     - CNET](https://www.cnet.com/roadshow/news/maserati-granturismo-folgore-full-electric-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
