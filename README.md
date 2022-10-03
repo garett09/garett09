@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - 🚯 [Disney but in a world with cops](http://9gag.com/gag/a8qbAGp)
+ - 🚖 [Whatever that is](http://9gag.com/gag/abvqrgp)
+ - 🚯 [Glass table, concretes bane](http://9gag.com/gag/aL1QLzv)
  - 🚯 [Parenting 101](http://9gag.com/gag/aKEg1R6)<!-- MEMES:END -->
 
 --- 
