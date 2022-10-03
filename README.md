@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That last clip though](http://9gag.com/gag/aOxyxOM)
- - 🚯 [Right?? Right??](http://9gag.com/gag/ap9o9dp)
- - 🚯 [He&#39;s right](http://9gag.com/gag/aWG0Mdq)<!-- MEMES:END -->
+ - 🚖 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - 🚯 [Hurricane season be like...](http://9gag.com/gag/ago0mLq)
+ - 🚯 [Hmmm](http://9gag.com/gag/avQZQbO)<!-- MEMES:END -->
 
 --- 
 
