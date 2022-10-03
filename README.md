@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Giant Bomb, GameSpot, MetaCritic And More Sold To Fan Wiki Company](https://kotaku.com/giant-bomb-gamespot-metacritic-fandom-wookiepedia-1849608081)
- - [Black Panther: Wakanda Forever trailer hints at the hero’s new identity](https://www.polygon.com/23345938/black-panther-2-trailer-wakanda-forever-new-black-panther-ironheart)
- - [Dream, the massively popular Minecraft YouTuber, finally reveals his face](https://www.polygon.com/23384848/dream-face-reveal-dreamsmp-watch-why-youtube-minecraft)<!-- GAME:END -->
+ - [Three lead Disco Elysium creatives confirm departure from developer ZA/UM](https://www.polygon.com/23384913/disco-elysium-za-um-writer-artist-designer-departures)
+ - [13 Best Horror Games On Xbox Game Pass To Keep You Up At Night](https://kotaku.com/14-scary-games-available-now-on-xbox-game-pass-1847969414)
+ - [House of the Dragon has no bright future in store for its kids](https://www.polygon.com/23379127/house-dragon-kids-are-screwed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
