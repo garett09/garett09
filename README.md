@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The grand tour INTERSTELLAR](http://9gag.com/gag/aGEVpj5)
- - 🚯 [How to speak english](http://9gag.com/gag/az2L2mp)
- - 🚯 [Hmmm](http://9gag.com/gag/avQZQbO)<!-- MEMES:END -->
+ - 🚖 [That last clip though](http://9gag.com/gag/aOxyxOM)
+ - 🚯 [Right?? Right??](http://9gag.com/gag/ap9o9dp)
+ - 🚯 [He&#39;s right](http://9gag.com/gag/aWG0Mdq)<!-- MEMES:END -->
 
 --- 
 
