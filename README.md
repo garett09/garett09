@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
- - 🚯 [Wait what](http://9gag.com/gag/aPgyP1n)
+ - 🚯 [Can somebody please just off this midget already smh](http://9gag.com/gag/a2KP0oD)
  - 🚯 [How world leaders walk](http://9gag.com/gag/aYVpD17)<!-- MEMES:END -->
 
 --- 
