@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
- - 🚯 [Can somebody please just off this midget already smh](http://9gag.com/gag/a2KP0oD)
- - 🚯 [How world leaders walk](http://9gag.com/gag/aYVpD17)<!-- MEMES:END -->
+ - 🚖 [Spiders can see the invisible laser from iPhone LiDAR camera](http://9gag.com/gag/axo2WWn)
+ - 🚯 [Phase 2 boss](http://9gag.com/gag/aZDWwo3)
+ - 🚯 [Elon&#39;s logic](http://9gag.com/gag/a7qK0nr)<!-- MEMES:END -->
 
 --- 
 
