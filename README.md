@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Minecraft YouTuber Dream Reveals Face After Three Years, Gets Bullied For It](https://kotaku.com/dream-face-reveal-minecraft-youtube-twitch-twitter-1849609699)
- - [League of Legends’ preseason patch adds Pokémon-like pals](https://www.polygon.com/23381079/league-of-legends-preseason-patch-2022-chemtech-drake-jungle-pets-overview)
- - [Heroes never die, but games do: An Overwatch 1 obituary](https://www.pcgamer.com/heroes-never-die-but-games-do-an-overwatch-1-obituary)<!-- GAME:END -->
+ - [Could Twitch streamers really unionize?](https://www.polygon.com/23385283/twitch-amazon-streamers-union-laws)
+ - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)
+ - [Namor is more than just Black Panther’s villain](https://www.polygon.com/23385017/black-panther-wakanda-forever-namor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
