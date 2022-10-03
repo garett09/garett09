@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2nd place](http://9gag.com/gag/aWG0GKn)
- - 🚯 [Dr. Jordan Peterson when he was justa professor](http://9gag.com/gag/aDYwnxZ)
- - 🚯 [Polish national TV titled putin - a war criminal, leader of the russian regime](http://9gag.com/gag/abvq4zb)<!-- MEMES:END -->
+ - 🚖 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
+ - 🚯 [Wait what](http://9gag.com/gag/aPgyP1n)
+ - 🚯 [How world leaders walk](http://9gag.com/gag/aYVpD17)<!-- MEMES:END -->
 
 --- 
 
