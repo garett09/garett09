@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hopes you’ll forgive Will Smith by Christmas](https://www.theverge.com/2022/10/3/23385304/emancipation-will-smith-apple-tv-plus-release-date-theaters-slap)
- - [SCOTUS rejects Apple&#39;s bid to cancel Qualcomm&#39;s 5G patents](https://appleinsider.com/articles/22/10/03/scotus-rejects-apples-bid-to-cancel-qualcomms-5g-patents?utm_medium=rss)
- - [Ikea HomeKit hub with Matter support set for November release](https://appleinsider.com/articles/22/10/03/ikea-homekit-hub-with-matter-support-set-for-november-release?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the US will likely announce new measures as soon as this week restricting several Chinese companies and research labs from using advanced US chip tech &lpar;New York Times&rpar;](http://www.techmeme.com/221003/p18#a221003p18)
+ - [How to Shop Like a Pro During Amazon&#39;s Prime Early Access Sale](https://www.wired.com/story/amazon-prime-day-2022-tips-to-find-best-deals/)
+ - [Twitter’s actually rolling out editable tweets](https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
