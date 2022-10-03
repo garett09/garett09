@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three lead Disco Elysium creatives confirm departure from developer ZA/UM](https://www.polygon.com/23384913/disco-elysium-za-um-writer-artist-designer-departures)
- - [13 Best Horror Games On Xbox Game Pass To Keep You Up At Night](https://kotaku.com/14-scary-games-available-now-on-xbox-game-pass-1847969414)
- - [House of the Dragon has no bright future in store for its kids](https://www.polygon.com/23379127/house-dragon-kids-are-screwed)<!-- GAME:END -->
+ - [Roll up for the 40th anniversary of the Golden Joystick Awards](https://www.pcgamer.com/roll-up-for-the-40th-anniversary-of-the-golden-joystick-awards)
+ - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
+ - [Horizon Zero Dawn remaster reportedly coming to PS5](https://www.polygon.com/23385020/horizon-zero-dawn-ps5-remaster-remake-multiplayer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
