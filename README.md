@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Parenting 101](http://9gag.com/gag/aKEg1R6)
- - 🚯 [The Ukrainian flag raised over the administrative building in Havrylivka, Kherson Oblast.](http://9gag.com/gag/aQEpQXd)
- - 🚯 [Please give him a friendly new face](http://9gag.com/gag/aBdQZ8D)<!-- MEMES:END -->
+ - 🚖 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - 🚯 [2nd place](http://9gag.com/gag/aWG0GKn)
+ - 🚯 [Wait what](http://9gag.com/gag/aPgyP1n)<!-- MEMES:END -->
 
 --- 
 
