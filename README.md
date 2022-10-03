@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
- - 🚯 [Hurricane season be like...](http://9gag.com/gag/ago0mLq)
- - 🚯 [Hmmm](http://9gag.com/gag/avQZQbO)<!-- MEMES:END -->
+ - 🚖 [This staircase waiting to murder you](http://9gag.com/gag/aZDWr8V)
+ - 🚯 [Something familiar here](http://9gag.com/gag/aOxyxw2)
+ - 🚯 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)<!-- MEMES:END -->
 
 --- 
 
