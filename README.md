@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Amazon&#39;s $195M Italian antitrust fine dismissed](https://appleinsider.com/articles/22/10/03/apple-amazons-195m-italian-antitrust-fine-dismissed?utm_medium=rss)
- - [A document shows an Italian administrative court scrapped a &amp;euro;200M fine for Apple and Amazon from 2021 over alleged collusion in selling Apple and Beats products &lpar;Reuters&rpar;](http://www.techmeme.com/221003/p13#a221003p13)
- - [Tim Cook granted special audience with Pope Francis](https://appleinsider.com/articles/22/10/03/tim-cook-granted-special-audience-with-pope-francis?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Oct. 3: $199 Gen 1 Apple Watch SE, $195 Kindle Paperwhite, $200 off iRobot Roomba j7+, more](https://appleinsider.com/articles/22/10/03/daily-deals-oct-3-199-gen-1-apple-watch-se-195-kindle-paperwhite-200-off-irobot-roomba-j7-more?utm_medium=rss)
+ - [Apple Music celebrates 100 million songs](https://appleinsider.com/articles/22/10/03/apple-music-celebrates-100-million-songs?utm_medium=rss)
+ - [Amazon&#39;s new smart home gear, baby tech, Victrola streaming turntable on HomeKit Insider](https://appleinsider.com/articles/22/10/03/amazons-new-smart-home-gear-baby-tech-victrola-streaming-turntable-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
