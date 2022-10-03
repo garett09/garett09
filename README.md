@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First price drop on the Apple Watch Series 8, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [&#39;Andor&#39; Release Schedule: When Does Episode 5 Arrive on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-arrive-on-disney-plus/#ftag=CAD590a51e)
- - [How Cold Weather Affects Your Breathing and What to Do About It     - CNET](https://www.cnet.com/health/medical/how-cold-weather-affects-your-breathing-and-what-to-do-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Half-Baked Robot Is a Clunky First Step](https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/)
+ - [Zero Dawn remaster on the horizon](https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5)
+ - [Reminder: Hulu’s going up in price next week](https://www.theverge.com/2022/10/3/23385032/hulu-price-increase-reminder-disney)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
