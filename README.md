@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Mega Man documentary has been deemed too sexy by YouTube&#39;s baffling content rules](https://www.pcgamer.com/a-mega-man-documentary-has-been-deemed-too-sexy-by-youtubes-baffling-content-rules)
- - [Every movie and show coming to Netflix in October](https://www.polygon.com/23377427/new-netflix-movies-tv-shows-watch-october-2022)
- - [How to fix FIFA 23&#39;s anti cheat error](https://www.pcgamer.com/fifa-23-anti-cheat-fix)<!-- GAME:END -->
+ - [Giant Bomb, GameSpot, MetaCritic And More Sold To Fan Wiki Company](https://kotaku.com/giant-bomb-gamespot-metacritic-fandom-wookiepedia-1849608081)
+ - [Black Panther: Wakanda Forever trailer hints at the hero’s new identity](https://www.polygon.com/23345938/black-panther-2-trailer-wakanda-forever-new-black-panther-ironheart)
+ - [Dream, the massively popular Minecraft YouTuber, finally reveals his face](https://www.polygon.com/23384848/dream-face-reveal-dreamsmp-watch-why-youtube-minecraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
