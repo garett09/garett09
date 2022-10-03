@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
- - 🚯 [Bike brake checks a car](http://9gag.com/gag/aDYwdKG)
- - 🚯 [It&#39;s literally just a matter of wearing a few extra layers](http://9gag.com/gag/aA0V0PR)<!-- MEMES:END -->
+ - 🚖 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
+ - 🚯 [Mind blown](http://9gag.com/gag/a8qbqWp)
+ - 🚯 [$40](http://9gag.com/gag/a1PZP0D)<!-- MEMES:END -->
 
 --- 
 
