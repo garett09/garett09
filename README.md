@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Tattoo Artist Wins Lawsuit Over Her Art Appearing On Randy Orton In WWE 2K](https://kotaku.com/randy-orton-lawsuit-tattoo-wwe-2k-take-two-1849610731)
- - [Transformers officially enter Magic: The Gathering with 15 sick double-sided cards](https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement)<!-- GAME:END -->
+ - [Spider-Man got to talk to a resurrected Gwen Stacy for 5 minutes, and it was sweet](https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day)
+ - [Kerbal Space Program studio is working on something new](https://www.pcgamer.com/kerbal-space-program-studio-is-working-on-something-new)
+ - [Phasmophobia Dev Kicks Alleged Racist, &#39;Sex Pest&#39; Admin From Its Official Discord Server](https://kotaku.com/phasmophobia-discord-harassment-banned-co-op-horror-1849611127)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
