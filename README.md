@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This staircase waiting to murder you](http://9gag.com/gag/aZDWr8V)
- - 🚯 [Something familiar here](http://9gag.com/gag/aOxyxw2)
- - 🚯 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)<!-- MEMES:END -->
+ - 🚖 [Friendly reminder](http://9gag.com/gag/aXnEr6D)
+ - 🚯 [Flat earthers explaining their logic](http://9gag.com/gag/a6qdZZL)
+ - 🚯 [Collapsing russian lines Feelsgoodman](http://9gag.com/gag/adP6BAV)<!-- MEMES:END -->
 
 --- 
 
