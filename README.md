@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)
- - 🚯 [Collapsing russian lines Feelsgoodman](http://9gag.com/gag/adP6BAV)
- - 🚯 [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)<!-- MEMES:END -->
+ - 🚯 [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)
+ - 🚯 [True, true.](http://9gag.com/gag/anzXO7V)<!-- MEMES:END -->
 
 --- 
 
