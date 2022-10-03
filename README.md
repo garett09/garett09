@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roll up for the 40th anniversary of the Golden Joystick Awards](https://www.pcgamer.com/roll-up-for-the-40th-anniversary-of-the-golden-joystick-awards)
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
- - [Horizon Zero Dawn remaster reportedly coming to PS5](https://www.polygon.com/23385020/horizon-zero-dawn-ps5-remaster-remake-multiplayer)<!-- GAME:END -->
+ - [The new Black Panther trailer has basically revealed who the new Black Panther is](https://www.polygon.com/23384982/who-is-new-black-panther-wakanda-forever-shuri)
+ - [The best UK Amazon Prime Early Access PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
+ - [Activision exec that called sexism lawsuit ‘meritless’ exits executive role](https://www.polygon.com/22609443/activision-blizzard-fran-townsend-leaves-company)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
