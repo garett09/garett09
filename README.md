@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefly’s Alpha rocket has reached orbit for the first time](https://www.theverge.com/2022/10/3/23385147/firefly-alpha-rocket-launch-mission-success-orbit-nasa-satellite-deployed)
- - [Netflix’s latest Stephen King film is about the horrors of phone addiction](https://www.theverge.com/23381096/mr-harrigans-phone-review-netflix-stephen-king)
- - [Rape kit DNA protected under a new California law](https://www.theverge.com/2022/10/3/23384969/rape-kit-survivor-dna-protected-california)<!-- TECH:END -->
+ - [Apple hopes you’ll forgive Will Smith by Christmas](https://www.theverge.com/2022/10/3/23385304/emancipation-will-smith-apple-tv-plus-release-date-theaters-slap)
+ - [SCOTUS rejects Apple&#39;s bid to cancel Qualcomm&#39;s 5G patents](https://appleinsider.com/articles/22/10/03/scotus-rejects-apples-bid-to-cancel-qualcomms-5g-patents?utm_medium=rss)
+ - [Ikea HomeKit hub with Matter support set for November release](https://appleinsider.com/articles/22/10/03/ikea-homekit-hub-with-matter-support-set-for-november-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
