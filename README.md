@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friendly reminder](http://9gag.com/gag/aXnEr6D)
- - 🚯 [Flat earthers explaining their logic](http://9gag.com/gag/a6qdZZL)
- - 🚯 [Collapsing russian lines Feelsgoodman](http://9gag.com/gag/adP6BAV)<!-- MEMES:END -->
+ - 🚖 [True](http://9gag.com/gag/a2KPvRp)
+ - 🚯 [Ukrainian soldiers in newly liberated territories are returning to the local population washing machines Russian soldiers stole.](http://9gag.com/gag/ago0mw1)
+ - 🚯 [Lies over lies from putleristan](http://9gag.com/gag/a9qMrBK)<!-- MEMES:END -->
 
 --- 
 
