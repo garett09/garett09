@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a time to be alive](http://9gag.com/gag/aMEbVL1)
- - 🚯 [I really thought that this can be achieved by a single lens](http://9gag.com/gag/aDYw7X9)
- - 🚯 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)<!-- MEMES:END -->
+ - 🚖 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
+ - 🚯 [Disney but in a world with cops](http://9gag.com/gag/a8qbAGp)
+ - 🚯 [Parenting 101](http://9gag.com/gag/aKEg1R6)<!-- MEMES:END -->
 
 --- 
 
