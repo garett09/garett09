@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
  - [Could Twitch streamers really unionize?](https://www.polygon.com/23385283/twitch-amazon-streamers-union-laws)
- - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)
- - [Namor is more than just Black Panther’s villain](https://www.polygon.com/23385017/black-panther-wakanda-forever-namor)<!-- GAME:END -->
+ - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
