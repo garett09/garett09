@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
- - [Could Twitch streamers really unionize?](https://www.polygon.com/23385283/twitch-amazon-streamers-union-laws)
- - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Tattoo Artist Wins Lawsuit Over Her Art Appearing On Randy Orton In WWE 2K](https://kotaku.com/randy-orton-lawsuit-tattoo-wwe-2k-take-two-1849610731)
+ - [Transformers officially enter Magic: The Gathering with 15 sick double-sided cards](https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
