@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)
- - 🚯 [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)
- - 🚯 [True, true.](http://9gag.com/gag/anzXO7V)<!-- MEMES:END -->
+ - 🚖 [What a time to be alive](http://9gag.com/gag/aMEbVL1)
+ - 🚯 [I really thought that this can be achieved by a single lens](http://9gag.com/gag/aDYw7X9)
+ - 🚯 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)<!-- MEMES:END -->
 
 --- 
 
