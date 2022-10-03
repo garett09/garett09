@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 3: $199 Gen 1 Apple Watch SE, $195 Kindle Paperwhite, $200 off iRobot Roomba j7+, more](https://appleinsider.com/articles/22/10/03/daily-deals-oct-3-199-gen-1-apple-watch-se-195-kindle-paperwhite-200-off-irobot-roomba-j7-more?utm_medium=rss)
- - [Apple Music celebrates 100 million songs](https://appleinsider.com/articles/22/10/03/apple-music-celebrates-100-million-songs?utm_medium=rss)
- - [Amazon&#39;s new smart home gear, baby tech, Victrola streaming turntable on HomeKit Insider](https://appleinsider.com/articles/22/10/03/amazons-new-smart-home-gear-baby-tech-victrola-streaming-turntable-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the Google Pixel launch event](https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time)
+ - [Inside one of the world’s first human composting facilities](https://www.theverge.com/c/23307867/human-composting-process-return-home)
+ - [Apple Music Today will explore a song&#39;s history every day](https://appleinsider.com/articles/22/10/03/apple-music-today-will-explore-a-songs-history-every-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
