@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whatever that is](http://9gag.com/gag/abvqrgp)
- - 🚯 [Glass table, concretes bane](http://9gag.com/gag/aL1QLzv)
- - 🚯 [Parenting 101](http://9gag.com/gag/aKEg1R6)<!-- MEMES:END -->
+ - 🚖 [2nd place](http://9gag.com/gag/aWG0GKn)
+ - 🚯 [Spiders can see the invisible laser from iPhone LiDAR camera](http://9gag.com/gag/axo2WWn)
+ - 🚯 [Dont mention blm](http://9gag.com/gag/aDYw63Z)<!-- MEMES:END -->
 
 --- 
 
