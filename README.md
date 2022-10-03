@@ -188,8 +188,8 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: TikTok&#39;s European business reports $990M revenue in 2021, up from $172M in 2020, and a $896M loss due to increased spending on its 4,396 staff &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/221003/p6#a221003p6)
- - [Deliveroo partners with UK supermarket Morrisons to open its first physical store in London; customers can shop in-store, collect orders, or get local delivery &lpar;Adam Coghlan/Eater London&rpar;](http://www.techmeme.com/221003/p5#a221003p5)
+ - [Apple SIM can no longer activate new cellular data plans on iPads](https://www.theverge.com/2022/10/3/23384764/apple-sim-stops-activation-mobile-internet-data)
+ - [A profile of Checkout.com founder and CEO Guillaume Pousaz, who owns 60% of the $40B London-based payments company and has begun investing in fintech startups &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/221003/p9#a221003p9)
  - [How to undelete photos on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-undelete-photos-on-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
