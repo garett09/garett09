@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
- - 🚯 [2nd place](http://9gag.com/gag/aWG0GKn)
- - 🚯 [Wait what](http://9gag.com/gag/aPgyP1n)<!-- MEMES:END -->
+ - 🚖 [2nd place](http://9gag.com/gag/aWG0GKn)
+ - 🚯 [Dr. Jordan Peterson when he was justa professor](http://9gag.com/gag/aDYwnxZ)
+ - 🚯 [Polish national TV titled putin - a war criminal, leader of the russian regime](http://9gag.com/gag/abvq4zb)<!-- MEMES:END -->
 
 --- 
 
