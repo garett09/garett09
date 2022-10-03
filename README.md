@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the Google Pixel launch event](https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time)
- - [Inside one of the world’s first human composting facilities](https://www.theverge.com/c/23307867/human-composting-process-return-home)
- - [Apple Music Today will explore a song&#39;s history every day](https://appleinsider.com/articles/22/10/03/apple-music-today-will-explore-a-songs-history-every-day?utm_medium=rss)<!-- TECH:END -->
+ - [Firefly’s Alpha rocket has reached orbit for the first time](https://www.theverge.com/2022/10/3/23385147/firefly-alpha-rocket-launch-mission-success-orbit-nasa-satellite-deployed)
+ - [Netflix’s latest Stephen King film is about the horrors of phone addiction](https://www.theverge.com/23381096/mr-harrigans-phone-review-netflix-stephen-king)
+ - [Rape kit DNA protected under a new California law](https://www.theverge.com/2022/10/3/23384969/rape-kit-survivor-dna-protected-california)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
