@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in a letter to Twitter, Elon Musk proposes proceeding with the acquisition at $54.20 per share; Twitter stock jumps 13%+ &lpar;Ed Hammond/Bloomberg&rpar;](http://www.techmeme.com/221004/p25#a221004p25)
- - [The Connectivity Standards Alliance releases the Matter 1.0 standard for smart homes and opens its certification program &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221004/p24#a221004p24)
- - [New low prices on the Galaxy Z series, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
+ - [Spark’s new app wants to fix how you email — even if it has to force you](https://www.theverge.com/2022/10/4/23387221/spark-email-app-windows-mac-ios-android-system)
+ - [Apple seeds fourth iOS 16.1 and tvOS 16.1, fifth iPadOS 16.1 betas to developers](https://appleinsider.com/articles/22/10/04/apple-seeds-fourth-ios-161-and-tvos-161-fifth-ipados-161-betas-to-developers?utm_medium=rss)
+ - [Apple seeds tenth developer beta of macOS Ventura](https://appleinsider.com/articles/22/10/04/apple-seeds-tenth-developer-beta-of-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
