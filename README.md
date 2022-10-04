@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Full spec sheet for Pixel 7 and Pixel 7 Pro leaks](https://www.androidauthority.com/pixel-7-leak-3216339/)
- - [The best Prime Early Access deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)<!-- TECH:END -->
+ - [2023 Audi R8 GT: V10 Sendoff     - CNET](https://www.cnet.com/roadshow/pictures/2023-audi-r8-rwd-gt-v10/#ftag=CAD590a51e)
+ - [Amazon curbs corporate retail hiring for the rest of 2022](https://www.theverge.com/2022/10/4/23387743/amazon-corporate-hiring-freeze)
+ - [Best Fitbit Deals: Save $91 on Sense, $72 on Verse 3, $45 on Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
