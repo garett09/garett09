@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
- - 🚯 [Guess the country easy version](http://9gag.com/gag/aNwoO16)
- - 🚯 [Tbf I got more employees to save myself from stress and burnout, and I&#39;m happy to be employing more people](http://9gag.com/gag/aMEbOK1)<!-- MEMES:END -->
+ - 🚖 [An underwater warning sign that unfortunately many people have ignored.](http://9gag.com/gag/aNwo4yK)
+ - 🚯 [WTF happened in Paris man](http://9gag.com/gag/az2LYbj)
+ - 🚯 [Every bully needs a bigger bully](http://9gag.com/gag/aWG0DPZ)<!-- MEMES:END -->
 
 --- 
 
