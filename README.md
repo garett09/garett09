@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
- - 🚯 [Way to go!!](http://9gag.com/gag/a6qd5gN)
- - 🚯 [Czech people raising $1.3 million to buy a T-72 for Ukraine](http://9gag.com/gag/aEqGAXe)<!-- MEMES:END -->
+ - 🚖 [Hit Me Baby One More Time](http://9gag.com/gag/a6qdXoA)
+ - 🚯 [Now what?](http://9gag.com/gag/a3ZdyEv)
+ - 🚯 [Finnish police destroyed a drugged Russians car after he tried to escape crime scene](http://9gag.com/gag/aPgy8oV)<!-- MEMES:END -->
 
 --- 
 
