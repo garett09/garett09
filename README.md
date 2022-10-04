@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - 🚖 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
  - 🚯 [Sweden part 1/3](http://9gag.com/gag/abvqB38)
- - 🚯 [Give me your best gifs describing the current state of the world](http://9gag.com/gag/axo2RWM)<!-- MEMES:END -->
+ - 🚯 [Love story](http://9gag.com/gag/ajV6Ze8)<!-- MEMES:END -->
 
 --- 
 
