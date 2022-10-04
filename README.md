@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What an incredible family](http://9gag.com/gag/aVbQLv2)
+ - 🚖 [So much snow](http://9gag.com/gag/a7qKNDL)
  - 🚯 [This was found in liberated Pisky-Rad&#39;kivs&#39;ki](http://9gag.com/gag/ago0EwW)
- - 🚯 [Style for more immersion](http://9gag.com/gag/avQZdMM)<!-- MEMES:END -->
+ - 🚯 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)<!-- MEMES:END -->
 
 --- 
 
