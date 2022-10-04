@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Iconic Franchises Celebrate Milestone Anniversaries with New Content, Community Activities, and Sales](https://news.xbox.com/en-us/2022/10/04/five-iconic-franchises-celebrate-milestone-anniversaries/)
- - [Tragic: Nobody Can Find Mario&#39;s Ass In Our First Look At The Nintendo Movie](https://kotaku.com/mario-movie-ass-toad-nintendo-teaser-image-chris-pratt-1849614795)
- - [Other Ever Afters makes fairy tales subversive, kinder, and a whole lot queerer](https://www.polygon.com/23365082/other-ever-afters-queer-comics-fairy-tales-mel-gillman-interview)<!-- GAME:END -->
+ - [Be Prepared For These 7 Overwatch 2 Gameplay Changes](https://kotaku.com/overwatch-2-release-time-blizzard-gameplay-changes-tips-1849615186)
+ - [Hyped VR Game&#39;s Harrowing &#39;Noose&#39; Sequence Ignites Debate Over Trigger Warnings](https://kotaku.com/bonelab-metal-quest-pc-vr-stress-level-zero-self-harm-1849615037)
+ - [Every new Overwatch 2 change, explained](https://www.polygon.com/overwatch-2-guide/23375907/ow2-new-skins-heroes-modes-maps-reworks-updates-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
