@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyday I&#39;m hustlin&#39; hustlin&#39;](http://9gag.com/gag/axo2ONp)
- - 🚯 [Talk to someone. Lend an ear.](http://9gag.com/gag/avQZx8q)
- - 🚯 [She really had us in the first half](http://9gag.com/gag/aoKZxK3)<!-- MEMES:END -->
+ - 🚖 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
+ - 🚯 [Engineering](http://9gag.com/gag/aA0VMv2)
+ - 🚯 [Bad Luck Boris](http://9gag.com/gag/avQZRpd)<!-- MEMES:END -->
 
 --- 
 
