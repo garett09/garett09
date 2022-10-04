@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering 30th Anniversary includes 60 random cards for $999](https://www.polygon.com/23387739/mtg-magic-the-gather-30-anniversary-box-price-collectible)
- - [Overwatch 2 having rough launch, Blizzard blames ‘mass DDoS attack’ on servers](https://www.polygon.com/23385195/overwatch-2-server-errors-down-offline-login-queue)
- - [Netflix is ​​the #1 streamer to watch for the most requested video game tweaks](https://game-rant-2022.blogspot.com/2022/10/netflix-is-1-streamer-to-watch-for-most.html)<!-- GAME:END -->
+ - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
+ - [Finally! USB-C charging ports will be required by law in the EU for most portable tech from 2024](https://www.pcgamer.com/finally-usb-c-charging-ports-will-be-required-by-law-in-the-eu-for-most-portable-tech-from-2024)
+ - [Report: Chess Grandmaster From Anal Bead Conspiracy Accused Of Cheating In Over 100 Games](https://kotaku.com/chess-scandal-cheating-grand-anal-bead-niemann-carlsen-1849616302)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
