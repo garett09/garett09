@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hit Me Baby One More Time](http://9gag.com/gag/a6qdXoA)
- - 🚯 [Now what?](http://9gag.com/gag/a3ZdyEv)
- - 🚯 [Finnish police destroyed a drugged Russians car after he tried to escape crime scene](http://9gag.com/gag/aPgy8oV)<!-- MEMES:END -->
+ - 🚖 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
+ - 🚯 [Unrepairable mistake were made\u2026](http://9gag.com/gag/aWG0v2q)
+ - 🚯 [Failed experiment](http://9gag.com/gag/aQEpAjz)<!-- MEMES:END -->
 
 --- 
 
