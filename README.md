@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friendly reminder](http://9gag.com/gag/aXnEr6D)
- - 🚯 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
- - 🚯 [Helth goes brrr](http://9gag.com/gag/a3ZdbZ8)<!-- MEMES:END -->
+ - 🚖 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - 🚯 [Guess the country easy version](http://9gag.com/gag/aNwoO16)
+ - 🚯 [Tbf I got more employees to save myself from stress and burnout, and I&#39;m happy to be employing more people](http://9gag.com/gag/aMEbOK1)<!-- MEMES:END -->
 
 --- 
 
