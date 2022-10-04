@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An underwater warning sign that unfortunately many people have ignored.](http://9gag.com/gag/aNwo4yK)
- - 🚯 [WTF happened in Paris man](http://9gag.com/gag/az2LYbj)
- - 🚯 [Every bully needs a bigger bully](http://9gag.com/gag/aWG0DPZ)<!-- MEMES:END -->
+ - 🚖 [What an incredible family](http://9gag.com/gag/aVbQLv2)
+ - 🚯 [This was found in liberated Pisky-Rad&#39;kivs&#39;ki](http://9gag.com/gag/ago0EwW)
+ - 🚯 [Style for more immersion](http://9gag.com/gag/avQZdMM)<!-- MEMES:END -->
 
 --- 
 
