@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [The NLRB says Activision Blizzard withheld raises from QA testers over their union activity; Activision is negotiating with Raven testers who voted to unionize &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221003/p25#a221003p25)
- - [Hey HBO, &#39;House of the Dragon&#39; Is Too Dark to See     - CNET](https://www.cnet.com/culture/entertainment/hey-hbo-house-of-the-dragon-is-too-dark-to-see/#ftag=CAD590a51e)
- - [Historic Mars Orbiter Declared Dead After Eight-Year Mission     - CNET](https://www.cnet.com/science/space/historic-mars-orbiter-declared-dead-after-eight-year-mission/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [McDonalds&#39; Happy-Meal-Inspired Box for Adults Is Out Now: What You Get     - CNET](https://www.cnet.com/culture/mcdonalds-happy-meal-inspired-box-for-adults-is-out-now-what-you-get/#ftag=CAD590a51e)
+ - [Hey HBO, &#39;House of the Dragon&#39; Is Too Dark to See     - CNET](https://www.cnet.com/culture/entertainment/hey-hbo-house-of-the-dragon-is-too-dark-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
