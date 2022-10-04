@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He always protec](http://9gag.com/gag/ago02on)
- - 🚯 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
- - 🚯 [He&#39;s a douchebag, but this is a prime Chad move.](http://9gag.com/gag/amALMYd)<!-- MEMES:END -->
+ - 🚖 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
+ - 🚯 [This drywaller from Canada](http://9gag.com/gag/anzXEwn)
+ - 🚯 [You go to work for a few hours and Russia loses half of Kherson. How is anyone supposed to keep up with the speed of Russian failure?](http://9gag.com/gag/aL1QXdg)<!-- MEMES:END -->
 
 --- 
 
