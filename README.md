@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone must use USB-C by 2024, says EU law](https://appleinsider.com/articles/22/10/04/iphone-must-use-usb-c-by-2024-says-eu-law?utm_medium=rss)
- - [India iPhone exports expected to double to $2.5B by March 2023](https://appleinsider.com/articles/22/10/04/india-iphone-exports-expected-to-double-to-25b-by-march-2023?utm_medium=rss)
- - [Best Xbox Series X and Series S Controllers for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Oct. 3: $199 Gen 1 Apple Watch SE, $195 Kindle Paperwhite, $200 off iRobot Roomba j7+, more](https://appleinsider.com/articles/22/10/03/daily-deals-oct-3-199-gen-1-apple-watch-se-195-kindle-paperwhite-200-off-irobot-roomba-j7-more?utm_medium=rss)
+ - [Netgear’s latest mobile hotspot has faster 5G and better Wi-Fi](https://www.theverge.com/2022/10/4/23386568/netgear-m6-mobile-hotspot-router-5g-wifi)
+ - [Micron plans to spend up to $100B over 20 years to build a chipmaking complex in upstate New York, helped by federal and state government incentives &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/221004/p18#a221004p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
