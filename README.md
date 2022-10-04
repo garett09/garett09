@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromecast with Google TV &lpar;HD&rpar; review: The new king of HD streaming](https://www.androidauthority.com/chromecast-with-google-tv-hd-review-3212021/)
- - [Get the Galaxy Tab A8 for just $159, and more of the best tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [How to request a Stadia refund — before it’s too late](https://www.androidauthority.com/request-stadia-refund-3216029/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Full spec sheet for Pixel 7 and Pixel 7 Pro leaks](https://www.androidauthority.com/pixel-7-leak-3216339/)
+ - [The best Prime Early Access deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
