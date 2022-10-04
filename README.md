@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 3: $199 Gen 1 Apple Watch SE, $195 Kindle Paperwhite, $200 off iRobot Roomba j7+, more](https://appleinsider.com/articles/22/10/03/daily-deals-oct-3-199-gen-1-apple-watch-se-195-kindle-paperwhite-200-off-irobot-roomba-j7-more?utm_medium=rss)
- - [Netgear’s latest mobile hotspot has faster 5G and better Wi-Fi](https://www.theverge.com/2022/10/4/23386568/netgear-m6-mobile-hotspot-router-5g-wifi)
- - [Micron plans to spend up to $100B over 20 years to build a chipmaking complex in upstate New York, helped by federal and state government incentives &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/221004/p18#a221004p18)<!-- TECH:END -->
+ - [Apple&#39;s supplier list shows 48 had manufacturing sites in the US as of September 2021, up from 25 in 2020; 30+ sites were in California, up from &lt;10 in 2020 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/221004/p21#a221004p21)
+ - [Get ready to pay to see 4K video on YouTube](https://appleinsider.com/articles/22/10/04/get-ready-to-pay-to-see-4k-video-on-youtube?utm_medium=rss)
+ - [Google’s new wired Nest Doorbell is nothing new](https://www.theverge.com/2022/10/4/23386060/google-nest-doorbell-wired-specs-features-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
