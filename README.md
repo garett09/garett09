@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Dream kept his face hidden — and why he revealed it](https://www.polygon.com/23386130/dream-face-reveal-explained-minecraft-youtube)
- - [Overwatch 2 beginner’s guide, tips, and tricks](https://www.polygon.com/overwatch-2-guide/23375905/beginners-ow2-guide-tips-tricks-battle-pass-heroes-objective)
- - [How to unlock Overwatch 2 heroes](https://www.pcgamer.com/overwatch-2-unlock-heroes)<!-- GAME:END -->
+ - [How to ‘break Suda’s Flow’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23387542/break-sudas-flow-afratus-dilemma-world-quest-walkthrough)
+ - [Welcome to Overwatch 2](https://news.xbox.com/en-us/2022/10/04/welcome-to-overwatch-2/)
+ - [Overwatch 2 is now live](https://www.pcgamer.com/overwatch-2-launch-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
