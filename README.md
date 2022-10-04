@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Talk to someone. Lend an ear.](http://9gag.com/gag/avQZx8q)
- - 🚯 [Oopsie](http://9gag.com/gag/a7qK93z)
- - 🚯 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)<!-- MEMES:END -->
+ - 🚖 [Everyday I&#39;m hustlin&#39; hustlin&#39;](http://9gag.com/gag/axo2ONp)
+ - 🚯 [Talk to someone. Lend an ear.](http://9gag.com/gag/avQZx8q)
+ - 🚯 [She really had us in the first half](http://9gag.com/gag/aoKZxK3)<!-- MEMES:END -->
 
 --- 
 
