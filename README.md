@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to ‘break Suda’s Flow’ in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23387542/break-sudas-flow-afratus-dilemma-world-quest-walkthrough)
- - [Welcome to Overwatch 2](https://news.xbox.com/en-us/2022/10/04/welcome-to-overwatch-2/)
- - [Overwatch 2 is now live](https://www.pcgamer.com/overwatch-2-launch-time)<!-- GAME:END -->
+ - [Magic: The Gathering 30th Anniversary includes 60 random cards for $999](https://www.polygon.com/23387739/mtg-magic-the-gather-30-anniversary-box-price-collectible)
+ - [Overwatch 2 having rough launch, Blizzard blames ‘mass DDoS attack’ on servers](https://www.polygon.com/23385195/overwatch-2-server-errors-down-offline-login-queue)
+ - [Netflix is ​​the #1 streamer to watch for the most requested video game tweaks](https://game-rant-2022.blogspot.com/2022/10/netflix-is-1-streamer-to-watch-for-most.html)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
