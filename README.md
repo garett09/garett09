@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
- - 🚯 [Motivational pic of the day](http://9gag.com/gag/ajV6Zpx)
- - 🚯 [Promotion incoming!!!](http://9gag.com/gag/abvqQ6r)<!-- MEMES:END -->
+ - 🚖 [Friendly reminder](http://9gag.com/gag/aXnEr6D)
+ - 🚯 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
+ - 🚯 [Helth goes brrr](http://9gag.com/gag/a3ZdbZ8)<!-- MEMES:END -->
 
 --- 
 
