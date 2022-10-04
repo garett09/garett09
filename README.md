@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bilingual Apple TV+ show &#39;Acapulco&#39; gets a colorful season 2 trailer](https://appleinsider.com/articles/22/10/04/bilingual-apple-tv-show-acapulco-gets-a-colorful-season-2-trailer?utm_medium=rss)
- - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
- - [Disney Plus relaunches on PS5 — now with 4K HDR playback](https://www.theverge.com/2022/10/4/23386929/disney-plus-sony-playstation-5-4k-hdr-app-now-available)<!-- TECH:END -->
+ - [In stock: Apple Mac Studio &lpar;64GB RAM, 1TB SSD&rpar; now $150 off, AppleCare on sale for $139](https://appleinsider.com/articles/22/10/04/in-stock-apple-mac-studio-64gb-ram-1tb-ssd-now-150-off-applecare-on-sale-for-139?utm_medium=rss)
+ - [We asked, you told us: Here’s what you think of the Pixel 7 colors](https://www.androidauthority.com/google-pixel-7-colors-poll-results-3216136/)
+ - [Hottest Holiday Toys of 2022     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
