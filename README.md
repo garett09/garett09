@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In stock: Apple Mac Studio &lpar;64GB RAM, 1TB SSD&rpar; now $150 off, AppleCare on sale for $139](https://appleinsider.com/articles/22/10/04/in-stock-apple-mac-studio-64gb-ram-1tb-ssd-now-150-off-applecare-on-sale-for-139?utm_medium=rss)
- - [We asked, you told us: Here’s what you think of the Pixel 7 colors](https://www.androidauthority.com/google-pixel-7-colors-poll-results-3216136/)
- - [Hottest Holiday Toys of 2022     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: in a letter to Twitter, Elon Musk proposes proceeding with the acquisition at $54.20 per share; Twitter stock jumps 13%+ &lpar;Ed Hammond/Bloomberg&rpar;](http://www.techmeme.com/221004/p25#a221004p25)
+ - [The Connectivity Standards Alliance releases the Matter 1.0 standard for smart homes and opens its certification program &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221004/p24#a221004p24)
+ - [New low prices on the Galaxy Z series, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
