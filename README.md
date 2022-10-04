@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When will the iPhone be forced to use USB-C?](https://www.theverge.com/2022/10/4/23387425/european-parliament-iphone-usb-type-c-radio-equipment-directive-lightning-rip)
- - [DJI Osmo Mobile 6 review: The best smartphone gimbal gets even better](https://www.androidauthority.com/dji-osmo-mobile-6-review-3214236/)
- - [True crime dramas to watch after &lpar;or instead of&rpar; Netflix’s Jeffrey Dahmer show](https://www.androidauthority.com/shows-like-dahmer-netflix-monster-jeffrey-dahmer-show-3215859/)<!-- TECH:END -->
+ - [Meta’s shutting down its Substack competitor after less than two years](https://www.theverge.com/2022/10/4/23387510/facebook-meta-bulletin-newsletter-substack-shutdown)
+ - [Overwatch 2 is less of a sequel and more of a remix](https://www.theverge.com/2022/10/4/23387041/overwatch-2-review-new-battle-pass-heroes-maps)
+ - [The new iOS is more exciting than the new iPhone this year](https://www.theverge.com/2022/10/4/23387358/ios-16-features-lock-screen-iphone-14-pro-max-dynamic-island-always-on-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
