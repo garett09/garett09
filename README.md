@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s supplier list shows 48 had manufacturing sites in the US as of September 2021, up from 25 in 2020; 30+ sites were in California, up from &lt;10 in 2020 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/221004/p21#a221004p21)
- - [Get ready to pay to see 4K video on YouTube](https://appleinsider.com/articles/22/10/04/get-ready-to-pay-to-see-4k-video-on-youtube?utm_medium=rss)
- - [Google’s new wired Nest Doorbell is nothing new](https://www.theverge.com/2022/10/4/23386060/google-nest-doorbell-wired-specs-features-price-release-date)<!-- TECH:END -->
+ - [Bilingual Apple TV+ show &#39;Acapulco&#39; gets a colorful season 2 trailer](https://appleinsider.com/articles/22/10/04/bilingual-apple-tv-show-acapulco-gets-a-colorful-season-2-trailer?utm_medium=rss)
+ - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
+ - [Disney Plus relaunches on PS5 — now with 4K HDR playback](https://www.theverge.com/2022/10/4/23386929/disney-plus-sony-playstation-5-4k-hdr-app-now-available)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
