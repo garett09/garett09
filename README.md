@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 Audi R8 GT: V10 Sendoff     - CNET](https://www.cnet.com/roadshow/pictures/2023-audi-r8-rwd-gt-v10/#ftag=CAD590a51e)
- - [Amazon curbs corporate retail hiring for the rest of 2022](https://www.theverge.com/2022/10/4/23387743/amazon-corporate-hiring-freeze)
- - [Best Fitbit Deals: Save $91 on Sense, $72 on Verse 3, $45 on Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s When Episode 7 of &#39;The Rings of Power&#39; Drops in Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-episode-7-of-the-rings-of-power-drops-in-your-timezone/#ftag=CAD590a51e)
+ - [Amazon is discontinuing Glow, its video calling device aimed at kids, amid lackluster sales and a shift in consumer behavior, after debuting it last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/221004/p34#a221004p34)
+ - [Elon Musk Says He Intends to Move Forward With $44B Twitter Deal     - CNET](https://www.cnet.com/news/social-media/elon-musk-says-he-intends-to-move-forward-with-44b-twitter-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
