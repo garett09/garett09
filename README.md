@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - 🚯 [This drywaller from Canada](http://9gag.com/gag/anzXEwn)
- - 🚯 [You go to work for a few hours and Russia loses half of Kherson. How is anyone supposed to keep up with the speed of Russian failure?](http://9gag.com/gag/aL1QXdg)<!-- MEMES:END -->
+ - 🚖 [Nutella](http://9gag.com/gag/aEqGXMn)
+ - 🚯 [DO YOU MEMBER?](http://9gag.com/gag/aMEbvq1)
+ - 🚯 [Salute, cleaning lady!](http://9gag.com/gag/a1PZLYv)<!-- MEMES:END -->
 
 --- 
 
