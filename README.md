@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Dead Space remake trailer is here, and it’s as gross as you’d hope](https://www.polygon.com/23385236/dead-space-remake-trailer-gameplay-isaac-clarke)
- - [Game developers explain what makes God of War &lpar;2018&rpar;’s combat tick](https://blog.playstation.com/2022/10/04/game-developers-explain-what-makes-god-of-war-2018s-combat-tick/)
- - [Chivalry 2, Scorn, and A Plague Tale: Requiem coming to Xbox Game Pass in October](https://www.polygon.com/23386935/xbox-game-pass-october-2022-games-chivalry-2-scorn-the-walking-dead-season-2)<!-- GAME:END -->
+ - [CD Projekt confirms plans for four more Witcher games](https://www.polygon.com/23387244/cd-projekt-red-four-new-witcher-games-announced)
+ - [Cyberpunk 2077 Will Get A Sequel, Witcher A New Trilogy, But Expect Multiplayer](https://kotaku.com/cyberpunk-2077-sequel-witcher-4-cdpr-orion-edgerunners-1849614319)
+ - [A new Witcher trilogy is on the way](https://www.pcgamer.com/cdpr-announces-a-new-witcher-trilogy-is-on-the-way-three-games-released-over-six-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
