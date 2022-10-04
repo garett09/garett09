@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt confirms plans for four more Witcher games](https://www.polygon.com/23387244/cd-projekt-red-four-new-witcher-games-announced)
- - [Cyberpunk 2077 Will Get A Sequel, Witcher A New Trilogy, But Expect Multiplayer](https://kotaku.com/cyberpunk-2077-sequel-witcher-4-cdpr-orion-edgerunners-1849614319)
- - [A new Witcher trilogy is on the way](https://www.pcgamer.com/cdpr-announces-a-new-witcher-trilogy-is-on-the-way-three-games-released-over-six-years)<!-- GAME:END -->
+ - [Five Iconic Franchises Celebrate Milestone Anniversaries with New Content, Community Activities, and Sales](https://news.xbox.com/en-us/2022/10/04/five-iconic-franchises-celebrate-milestone-anniversaries/)
+ - [Tragic: Nobody Can Find Mario&#39;s Ass In Our First Look At The Nintendo Movie](https://kotaku.com/mario-movie-ass-toad-nintendo-teaser-image-chris-pratt-1849614795)
+ - [Other Ever Afters makes fairy tales subversive, kinder, and a whole lot queerer](https://www.polygon.com/23365082/other-ever-afters-queer-comics-fairy-tales-mel-gillman-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
