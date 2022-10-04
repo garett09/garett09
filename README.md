@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils a roadmap for mass production of advanced chips, with its second-generation 3nm chips coming in 2024, 2nm chips in 2025, and 1.4nm chips in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221003/p23#a221003p23)
- - [Japan Sends Emergency Alert After North Korean Missile Launch     - CNET](https://www.cnet.com/culture/japan-sends-emergency-alert-after-north-korean-missile-launch/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The NLRB says Activision Blizzard withheld raises from QA testers over their union activity; Activision is negotiating with Raven testers who voted to unionize &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221003/p25#a221003p25)
+ - [Hey HBO, &#39;House of the Dragon&#39; Is Too Dark to See     - CNET](https://www.cnet.com/culture/entertainment/hey-hbo-house-of-the-dragon-is-too-dark-to-see/#ftag=CAD590a51e)
+ - [Historic Mars Orbiter Declared Dead After Eight-Year Mission     - CNET](https://www.cnet.com/science/space/historic-mars-orbiter-declared-dead-after-eight-year-mission/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
