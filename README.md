@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyday I&#39;m hustlin&#39; hustlin&#39;](http://9gag.com/gag/axo2ONp)
- - 🚯 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
- - 🚯 [Unrepairable mistake were made\u2026](http://9gag.com/gag/aWG0v2q)<!-- MEMES:END -->
+ - 🚖 [Yesterday the gov. of Iran attacked a university and arrested many students. Today high school girls removed their hijabs and chanted `Death to the dictator` in several high schools across Iran. Oct 3, 2022](http://9gag.com/gag/aBdQPqz)
+ - 🚯 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
+ - 🚯 [I wonder what are they gonna do to former Crimea governor General Poklonskaya when the war is over](http://9gag.com/gag/aeQ3V2v)<!-- MEMES:END -->
 
 --- 
 
