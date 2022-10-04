@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury-led regulators release a report on digital assets calling on Congress to provide more resources to police crypto, regulate stablecoins, and more &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/221003/p21#a221003p21)
- - [Google’s Pixel Watch just got an early unboxing](https://www.androidauthority.com/google-pixel-watch-2-3215962/)
- - [The perfect smart home controller exists — but you probably can’t buy it](https://www.theverge.com/2022/10/3/23385183/smart-home-controller-ava-remote-cedia-2022)<!-- TECH:END -->
+ - [Samsung unveils a roadmap for mass production of advanced chips, with its second-generation 3nm chips coming in 2024, 2nm chips in 2025, and 1.4nm chips in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221003/p23#a221003p23)
+ - [Japan Sends Emergency Alert After North Korean Missile Launch     - CNET](https://www.cnet.com/culture/japan-sends-emergency-alert-after-north-korean-missile-launch/#ftag=CAD590a51e)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
