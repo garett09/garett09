@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Nier Man’s Switch](https://kotaku.com/overwatch-2-blizzard-nier-automata-no-mans-sky-switch-1849610414)
- - [Resident Evil 4 Remake: What we know so far](https://www.pcgamer.com/resident-evil-4-remake-release-date-2023-details)
- - [&#39;Call The Cops!&#39; Fishing Competition Turns Into Frenzy After Cheater Caught Stuffing Fish](https://kotaku.com/walleye-trail-fishing-tournament-ohio-cheating-lead-bal-1849611715)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 4, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-4-2022)
+ - [The October PC game releases and events you should know about](https://www.pcgamer.com/october-2022-pc-game-releases)
+ - [Go axe murderer mode as a Victorian waif in this PS2 throwback horror game](https://www.pcgamer.com/go-axe-murderer-mode-as-a-victorian-waif-in-this-ps2-throwback-horror-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
