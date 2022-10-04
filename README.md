@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Tiger Global&#39;s John Curtius, who backed 250+ startups in five years, is leaving in June 2023; a source says Curtius plans to launch his own firm &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/221004/p6#a221004p6)
- - [Walgreens is setting up a network of automated drug-filling centers, expecting robots to cut pharmacist workloads by 25%+ and save the company $1B+ per year &lpar;Sharon Terlep/Wall Street Journal&rpar;](http://www.techmeme.com/221004/p5#a221004p5)
- - [Daily Authority: 🔋 S23 Plus’ battery bonus](https://www.androidauthority.com/daily-authority-october-4-2022-3215806/)<!-- TECH:END -->
+ - [YouTube locks 4K playback behind Premium subscriptions in latest test](https://www.theverge.com/2022/10/4/23386782/youtube-premium-subscription-4k-quality-resolution-restriction-google)
+ - [Sources: talks between the US and TikTok over a national security agreement have accelerated ahead of the midterms as Republicans vow to hold hearings &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221004/p11#a221004p11)
+ - [Sensor Tower: Apple&#39;s App Store net revenue fell by around 5% in September, the steepest drop since 2015, as gaming revenue declined by 14% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221004/p10#a221004p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
