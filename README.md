@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s shutting down its Substack competitor after less than two years](https://www.theverge.com/2022/10/4/23387510/facebook-meta-bulletin-newsletter-substack-shutdown)
- - [Overwatch 2 is less of a sequel and more of a remix](https://www.theverge.com/2022/10/4/23387041/overwatch-2-review-new-battle-pass-heroes-maps)
- - [The new iOS is more exciting than the new iPhone this year](https://www.theverge.com/2022/10/4/23387358/ios-16-features-lock-screen-iphone-14-pro-max-dynamic-island-always-on-display)<!-- TECH:END -->
+ - [Chromecast with Google TV &lpar;HD&rpar; review: The new king of HD streaming](https://www.androidauthority.com/chromecast-with-google-tv-hd-review-3212021/)
+ - [Get the Galaxy Tab A8 for just $159, and more of the best tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [How to request a Stadia refund — before it’s too late](https://www.androidauthority.com/request-stadia-refund-3216029/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
