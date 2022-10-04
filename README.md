@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - 🚯 [Unrepairable mistake were made\u2026](http://9gag.com/gag/aWG0v2q)
- - 🚯 [Failed experiment](http://9gag.com/gag/aQEpAjz)<!-- MEMES:END -->
+ - 🚖 [Everyday I&#39;m hustlin&#39; hustlin&#39;](http://9gag.com/gag/axo2ONp)
+ - 🚯 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - 🚯 [Unrepairable mistake were made\u2026](http://9gag.com/gag/aWG0v2q)<!-- MEMES:END -->
 
 --- 
 
