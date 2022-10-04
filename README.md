@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube locks 4K playback behind Premium subscriptions in latest test](https://www.theverge.com/2022/10/4/23386782/youtube-premium-subscription-4k-quality-resolution-restriction-google)
- - [Sources: talks between the US and TikTok over a national security agreement have accelerated ahead of the midterms as Republicans vow to hold hearings &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221004/p11#a221004p11)
- - [Sensor Tower: Apple&#39;s App Store net revenue fell by around 5% in September, the steepest drop since 2015, as gaming revenue declined by 14% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221004/p10#a221004p10)<!-- TECH:END -->
+ - [iPhone must use USB-C by 2024, says EU law](https://appleinsider.com/articles/22/10/04/iphone-must-use-usb-c-by-2024-says-eu-law?utm_medium=rss)
+ - [India iPhone exports expected to double to $2.5B by March 2023](https://appleinsider.com/articles/22/10/04/india-iphone-exports-expected-to-double-to-25b-by-march-2023?utm_medium=rss)
+ - [Best Xbox Series X and Series S Controllers for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
