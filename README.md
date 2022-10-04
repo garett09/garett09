@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CD Projekt is losing a CEO but gaining a new studio](https://www.pcgamer.com/cd-projekt-is-losing-a-ceo-but-gaining-a-new-studio)
  - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
- - [Finally! USB-C charging ports will be required by law in the EU for most portable tech from 2024](https://www.pcgamer.com/finally-usb-c-charging-ports-will-be-required-by-law-in-the-eu-for-most-portable-tech-from-2024)
- - [Report: Chess Grandmaster From Anal Bead Conspiracy Accused Of Cheating In Over 100 Games](https://kotaku.com/chess-scandal-cheating-grand-anal-bead-niemann-carlsen-1849616302)<!-- GAME:END -->
+ - [Finally! USB-C charging ports will be required by law in the EU for most portable tech from 2024](https://www.pcgamer.com/finally-usb-c-charging-ports-will-be-required-by-law-in-the-eu-for-most-portable-tech-from-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
