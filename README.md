@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First look at Super Mario Bros. movie coming in new Nintendo Direct](https://www.polygon.com/23387007/super-mario-bros-movie-trailer-poster-nintendo-direct-date)
- - [Kid Cudi’s Entergalactic owes more to Beyoncé than Spider-Verse](https://www.polygon.com/entertainment/23385545/entergalactic-kid-cudi-beyonce-lemonade-director-interview)
- - [Final Fantasy, Assassin’s Creed coming to Magic: The Gathering in 2024](https://www.polygon.com/23386980/mtg-final-fantasy-assassins-creed-universes-beyond-secret-lair-2024)<!-- GAME:END -->
+ - [The first Dead Space remake trailer is here, and it’s as gross as you’d hope](https://www.polygon.com/23385236/dead-space-remake-trailer-gameplay-isaac-clarke)
+ - [Game developers explain what makes God of War &lpar;2018&rpar;’s combat tick](https://blog.playstation.com/2022/10/04/game-developers-explain-what-makes-god-of-war-2018s-combat-tick/)
+ - [Chivalry 2, Scorn, and A Plague Tale: Requiem coming to Xbox Game Pass in October](https://www.polygon.com/23386935/xbox-game-pass-october-2022-games-chivalry-2-scorn-the-walking-dead-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
