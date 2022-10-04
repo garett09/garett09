@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Oct. 4&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
- - [Google discontinues Google Translate in mainland China, one of the last remaining services the company provides in the country, citing &quot;low usage&quot; &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221004/p3#a221004p3)
- - [Galaxy S23 Plus, S23 Ultra battery info leaks: There’s good news here](https://www.androidauthority.com/samsung-galaxy-s23-plus-ultra-battery-3215670/)<!-- TECH:END -->
+ - [Memo: Tiger Global&#39;s John Curtius, who backed 250+ startups in five years, is leaving in June 2023; a source says Curtius plans to launch his own firm &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/221004/p6#a221004p6)
+ - [Walgreens is setting up a network of automated drug-filling centers, expecting robots to cut pharmacist workloads by 25%+ and save the company $1B+ per year &lpar;Sharon Terlep/Wall Street Journal&rpar;](http://www.techmeme.com/221004/p5#a221004p5)
+ - [Daily Authority: 🔋 S23 Plus’ battery bonus](https://www.androidauthority.com/daily-authority-october-4-2022-3215806/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
