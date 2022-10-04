@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spiders can see the invisible laser from iPhone LiDAR camera](http://9gag.com/gag/axo2WWn)
- - 🚯 [Phase 2 boss](http://9gag.com/gag/aZDWwo3)
- - 🚯 [Elon&#39;s logic](http://9gag.com/gag/a7qK0nr)<!-- MEMES:END -->
+ - 🚖 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - 🚯 [Way to go!!](http://9gag.com/gag/a6qd5gN)
+ - 🚯 [Czech people raising $1.3 million to buy a T-72 for Ukraine](http://9gag.com/gag/aEqGAXe)<!-- MEMES:END -->
 
 --- 
 
