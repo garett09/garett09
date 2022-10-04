@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s true!](http://9gag.com/gag/aeQ3VEj)
- - 🚯 [Madlad being denied food](http://9gag.com/gag/a04PXeq)
- - 🚯 [Everyday I&#39;m hustlin&#39; hustlin&#39;](http://9gag.com/gag/axo2ONp)<!-- MEMES:END -->
+ - 🚖 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - 🚯 [She really had us in the first half](http://9gag.com/gag/aoKZxK3)
+ - 🚯 [9GAG is being overrun by this script bot. A new account pops up every few days and they spam the site with cheap NSFW stuff. Be vigilant! Here is a bot potato for your attention](http://9gag.com/gag/abvqxxv)<!-- MEMES:END -->
 
 --- 
 
