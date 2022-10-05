@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antidote to Fast Fashion: How About Clothes Grown From Seeds?     - CNET](https://www.cnet.com/culture/fashion/the-antidote-to-fast-fashion-how-about-clothes-grown-from-grass/#ftag=CAD590a51e)
- - [Gopuff taps Grubhub to deliver groceries, alcohol, and household items across the US, starting in NYC, Los Angeles, Chicago, Boston, Philadelphia, and Austin &lpar;Sabiq Shahidullah/Bloomberg&rpar;](http://www.techmeme.com/221005/p2#a221005p2)
- - [Amazon sues Washington state&#39;s Department of Labor &amp; Industries, claiming an order forcing the company to reduce a warehouse&#39;s hazards breaks the 14th Amendment &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221005/p1#a221005p1)<!-- TECH:END -->
+ - [IriusRisk, which offers companies an automated threat modeling platform, raised a $29M Series B led by Paladin Capital, bringing its total funding to ~$40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221005/p4#a221005p4)
+ - [Blizzard President Mike Ybarra says Overwatch 2 is &quot;experiencing a mass DDoS attack&quot; on its servers, preventing hundreds of users from joining the game&#39;s launch &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221005/p3#a221005p3)
+ - [OnePlus Buds Pro 2 leaks: What to expect from this Galaxy Buds Pro rival?](https://www.androidauthority.com/oneplus-buds-pro-2-specs-3216417/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
