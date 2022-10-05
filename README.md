@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest Pixel 6 frustrations that Google should fix with the Pixel 7](https://www.theverge.com/2022/10/5/23389192/google-pixel-6-7-bugs-overheating-weak-signal-improvements)
- - [Overwatch 2’s launch problems include prepaid cellular bans, failed account merges](https://www.theverge.com/2022/10/5/23389337/overwatch-2-phone-number-account-merge-issues)
- - [Twitter’s letting you combine photos, videos, and GIFs in one tweet](https://www.theverge.com/2022/10/5/23389618/twitter-combine-photos-videos-gifs-one-tweet-multimedia)<!-- TECH:END -->
+ - [Roblox and Discord are accused of enabling adult men to sexually and financially exploit a California girl in a lawsuit filed by a social media watchdog group &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p33#a221005p33)
+ - [How to use Microsoft’s new Windows HDR Calibration app](https://www.theverge.com/23389674/microsoft-windows-11-hdr-calibration-how-to)
+ - [Google unveils Imagen Video, a text-to-video AI generator trained on 14M video-text pairs, 60M image-text pairs, and the public LAION-400M image-text dataset &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221005/p32#a221005p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
