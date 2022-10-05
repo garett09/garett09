@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Twitter employees are reacting to today’s Elon Musk news](https://www.theverge.com/2022/10/4/23388385/twitter-employee-reaction-elon-musk-offer)
- - [A CISA report finds multiple government hacking groups had &quot;long-term&quot; access to the network of a defense company using open-source Python toolkit Impacket &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221004/p36#a221004p36)
- - [Why Elon Musk Wouldn&#39;t Face Twitter in Court](https://www.wired.com/story/why-elon-musk-wouldnt-face-twitter-in-court/)<!-- TECH:END -->
+ - [Switzerland-based cybersecurity company Infinigate merges with Dubai-based cybersecurity firm Starlink to form a company with a ~$2.2B estimated annual revenue &lpar;Reuters&rpar;](http://www.techmeme.com/221004/p38#a221004p38)
+ - [US officials accuse a man of remotely swiping 713 bitcoins from a wallet seized in a case against his brother, who operated crypto mixer Helix to launder money &lpar;David Voreacos/Bloomberg&rpar;](http://www.techmeme.com/221004/p37#a221004p37)
+ - [8 Foods to Help You Build Muscle Naturally     - CNET](https://www.cnet.com/health/nutrition/8-foods-to-help-you-build-muscle-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
