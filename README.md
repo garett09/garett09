@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Sky Mavis co-founder Aleksander Larsen on staying play-to-earn after the hack, unfair criticisms, improving security, raising funds, and more &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/221005/p14#a221005p14)
- - [5 Future Scenarios for Google Lens](https://www.wired.com/story/5-future-scenarios-google-lens-anniversary/)
- - [A Bold Effort to Cure HIV—Using Crispr](https://www.wired.com/story/a-bold-effort-to-cure-hiv-using-crispr/)<!-- TECH:END -->
+ - [Elon Musk&#39;s revived $44B Twitter acquisition could rely on $12.5B from banks at a time when offloading risky debt is difficult, potentially leading to losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p18#a221005p18)
+ - [The FCC&#39;s Rules on Space Junk Just Got Stricter](https://www.wired.com/story/the-fccs-rules-on-space-junk-just-got-stricter/)
+ - [A report by Senator Warren&#39;s office: fraud and scams are occurring more often on P2P payments app Zelle, with banks only reimbursing ~47% of defrauded customers &lpar;Ken Sweet/Associated Press&rpar;](http://www.techmeme.com/221005/p17#a221005p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
