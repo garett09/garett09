@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
- - 🚯 [Society](http://9gag.com/gag/awZbeB8)
- - 🚯 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)<!-- MEMES:END -->
+ - 🚖 [Staying in character](http://9gag.com/gag/aBdQZZQ)
+ - 🚯 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - 🚯 [Common mistake](http://9gag.com/gag/abvqRoL)<!-- MEMES:END -->
 
 --- 
 
