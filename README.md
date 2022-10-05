@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons fans can compete to turn their campaign into a Lego set](https://www.polygon.com/23389588/dnd-lego-wizards-of-the-coast-anniversary-contest-design)
- - [Genshin Impact Fecund Hamper chest locations](https://www.polygon.com/genshin-impact-guides/23385265/fecund-hamper-chest-locations-feast-in-full-when-music-sounds-afterparty)
- - [Stadia&#39;s collapse means the exclusive horror game Gylt will finally release for the rest of us](https://www.pcgamer.com/stadias-collapse-means-the-exclusive-horror-game-gylt-will-finally-release-for-the-rest-of-us)<!-- GAME:END -->
+ - [The best games like Stardew Valley on PC with farms to save and villages to revitalize](https://www.pcgamer.com/games-like-stardew-valley)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Overwatch 2 queues are still a problem 24 hours later](https://www.pcgamer.com/overwatch-2-queues-are-still-a-problem-24-hours-later)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
