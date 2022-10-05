@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA 23 pits Ted Lasso against Ryan Reynolds’ soccer club, and it ain’t pretty](https://www.polygon.com/gaming/23387616/fifa-23-ted-lasso-ryan-reynolds-welcome-wrexham-rob-mcelhenney)
- - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack [Update]](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
- - [Genshin Impact Devs Won’t Be Adding More Endgame Content And Players Are Pissed](https://kotaku.com/genshin-impact-hoyoverse-spiral-abyss-endgame-1849616683)<!-- GAME:END -->
+ - [Gotham Knights: Four game experiences in one](https://blog.playstation.com/2022/10/05/gotham-knights-four-game-experiences-in-one/)
+ - [Why did CD Projekt just announce 6 new games?](https://www.polygon.com/23389053/cyberpunk-witcher-sequels-cd-projekt-analysis)
+ - [Pokémon Go&#39;s New Event Finally Lets You Evolve Cosmog](https://kotaku.com/pokemon-go-evolving-stars-cosmog-niantic-nintendo-1849618180)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
