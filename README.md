@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s When Episode 7 of &#39;The Rings of Power&#39; Drops in Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-episode-7-of-the-rings-of-power-drops-in-your-timezone/#ftag=CAD590a51e)
- - [Amazon is discontinuing Glow, its video calling device aimed at kids, amid lackluster sales and a shift in consumer behavior, after debuting it last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/221004/p34#a221004p34)
- - [Elon Musk Says He Intends to Move Forward With $44B Twitter Deal     - CNET](https://www.cnet.com/news/social-media/elon-musk-says-he-intends-to-move-forward-with-44b-twitter-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Twitter employees are reacting to today’s Elon Musk news](https://www.theverge.com/2022/10/4/23388385/twitter-employee-reaction-elon-musk-offer)
+ - [A CISA report finds multiple government hacking groups had &quot;long-term&quot; access to the network of a defense company using open-source Python toolkit Impacket &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221004/p36#a221004p36)
+ - [Why Elon Musk Wouldn&#39;t Face Twitter in Court](https://www.wired.com/story/why-elon-musk-wouldnt-face-twitter-in-court/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
