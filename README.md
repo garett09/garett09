@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 473 answer and hint: Wednesday, October 5](https://www.pcgamer.com/todays-wordle-473-answer-hint)
- - [Corsair&#39;s super slim K100 Air is the best looking keyboard of the year](https://www.pcgamer.com/corsairs-super-slim-k100-air-is-the-best-looking-keyboard-of-the-year)
- - [The new Hellraiser’s gory fun only cuts skin deep](https://www.polygon.com/reviews/23387089/hellraiser-review-2022)<!-- GAME:END -->
+ - [Genshin Impact won&#39;t add more endgame challenges because of &#39;excessive anxiety&#39;](https://www.pcgamer.com/genshin-impact-wont-add-more-endgame-challenges-because-of-excessive-anxiety)
+ - [Streets of Rogue 2 announced and now it&#39;s an open-world Stardew with trucks?](https://www.pcgamer.com/streets-of-rogue-2-announced-and-now-its-an-open-world-stardew-with-trucks)
+ - [Overwatch 2 Battle Pass: what rewards can you unlock and how much is it?](https://www.pcgamer.com/overwatch-2-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
