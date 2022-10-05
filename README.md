@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stadia&#39;s collapse means the exclusive horror game Gylt will finally release for the rest of us](https://www.pcgamer.com/stadias-collapse-means-the-exclusive-horror-game-gylt-will-finally-release-for-the-rest-of-us)
- - [A viral Stranger Things Halloween display has caused chaos in Illinois](https://www.polygon.com/23389330/stranger-things-halloween-display-max-mayfield-controversy-horrorprops-audrey-dave-appel)
- - [Excited for Bayonetta 3? Play Valkyrie Elysium](https://www.polygon.com/23388011/valkyrie-elysium-bayonetta-3-release-date-square-enix-ragnarok-einherjar)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons fans can compete to turn their campaign into a Lego set](https://www.polygon.com/23389588/dnd-lego-wizards-of-the-coast-anniversary-contest-design)
+ - [Genshin Impact Fecund Hamper chest locations](https://www.polygon.com/genshin-impact-guides/23385265/fecund-hamper-chest-locations-feast-in-full-when-music-sounds-afterparty)
+ - [Stadia&#39;s collapse means the exclusive horror game Gylt will finally release for the rest of us](https://www.pcgamer.com/stadias-collapse-means-the-exclusive-horror-game-gylt-will-finally-release-for-the-rest-of-us)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
