@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Behold the fat bezel on the new Pixel Watch](https://www.theverge.com/2022/10/5/23388776/pixel-watch-thick-bezel-photo)
- - [A US judge sentences Capital One hacker Paige Thompson, who accessed data on over 100M people, to five years of probation; DOJ says it is &quot;very disappointed&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/221005/p12#a221005p12)
- - [Galludet University named an Apple Distinguished School](https://appleinsider.com/articles/22/10/05/galludet-university-named-an-apple-distinguished-school?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Sky Mavis co-founder Aleksander Larsen on staying play-to-earn after the hack, unfair criticisms, improving security, raising funds, and more &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/221005/p14#a221005p14)
+ - [5 Future Scenarios for Google Lens](https://www.wired.com/story/5-future-scenarios-google-lens-anniversary/)
+ - [A Bold Effort to Cure HIV—Using Crispr](https://www.wired.com/story/a-bold-effort-to-cure-hiv-using-crispr/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
