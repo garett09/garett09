@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That guy did not hang about...](http://9gag.com/gag/a9qMVjZ)
- - 🚯 [Hit Me Baby One More Time](http://9gag.com/gag/a6qdXoA)
- - 🚯 [Never hit a lady](http://9gag.com/gag/anzXVdL)<!-- MEMES:END -->
+ - 🚖 [Pls accept, you might need a hundo](http://9gag.com/gag/a9qMVKL)
+ - 🚯 [So much snow](http://9gag.com/gag/a7qKNDL)
+ - 🚯 [A Gorila tells the `truth`](http://9gag.com/gag/avQZmNO)<!-- MEMES:END -->
 
 --- 
 
