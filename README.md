@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real army is coming. Conscipts complain that everyone is sick, they don&#39;t have right paperwork and most of them lack body armour.](http://9gag.com/gag/ajV63R1)
- - 🚯 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - 🚯 [Kralovec &lpar;former Kaliningrad&rpar; is now officially czech territory after a referendum was held where almost 98% voted to join the Czech Republic](http://9gag.com/gag/aEqGj8e)<!-- MEMES:END -->
+ - 🚖 [Back cracking.](http://9gag.com/gag/ap9oV49)
+ - 🚯 [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)
+ - 🚯 [Sasha Grey](http://9gag.com/gag/a8qbvD6)<!-- MEMES:END -->
 
 --- 
 
