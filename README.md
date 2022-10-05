@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games like Stardew Valley on PC with farms to save and villages to revitalize](https://www.pcgamer.com/games-like-stardew-valley)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Overwatch 2 queues are still a problem 24 hours later](https://www.pcgamer.com/overwatch-2-queues-are-still-a-problem-24-hours-later)<!-- GAME:END -->
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
+ - [Leaked Images For The New Need For Speed Game Look Anime AF](https://kotaku.com/need-for-speed-leaked-screenshots-anime-asap-rocky-1849621339)
+ - [Need for Speed Unbound leaks one day before reveal, looks like the most stylish NFS in 15 years](https://www.pcgamer.com/need-for-speed-unbound-leaks-one-day-before-reveal-looks-like-the-most-stylish-nfs-in-15-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
