@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Staying in character](http://9gag.com/gag/aBdQZZQ)
- - 🚯 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
- - 🚯 [Common mistake](http://9gag.com/gag/abvqRoL)<!-- MEMES:END -->
+ - 🚖 [How the Earth will look in ~250 million years according to plate tectonics theory](http://9gag.com/gag/abvqRKO)
+ - 🚯 [I&#39;m 6&#39;2` &lpar;188 cm&rpar; but because of a genetic quirk my feet are only size 2 &lpar;EU 33&rpar;...my doctor said I may have the smallest feet on a grown man in the world.](http://9gag.com/gag/aYVp1PN)
+ - 🚯 [Give me the best roast you can do](http://9gag.com/gag/az2LQAm)<!-- MEMES:END -->
 
 --- 
 
