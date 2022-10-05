@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest foldables are matching their lowest price ever](https://www.theverge.com/2022/10/5/23387317/samsung-z-flip-fold-google-pixel-phone-logitech-keyboard-mouse-deal-sale)
- - [The best Android emulators for PC and Mac of 2022](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
- - [Gotham Knights brings the Arkham flavor with a new cast of heroes](https://www.theverge.com/23387797/gotham-knights-batman-arkham-series-wb-montreal-preview)<!-- TECH:END -->
+ - [Victrix’s Pro BFG controller for PS5 can transform into a portable fight stick](https://www.theverge.com/2022/10/5/23388978/pdp-victrix-pro-bfg-controller-pc-ps4-ps5-price-fight-stick)
+ - [Watch the Crew-5 mission blast off on a SpaceX rocket](https://www.theverge.com/2022/10/5/23388965/nasa-crew-5-mission-spacex-rocket-launch-watch-live)
+ - [Vergecast: Kindle Scribe feelings, printer problems, and earbuds on a bike](https://www.theverge.com/2022/10/5/23389020/amazon-dave-limp-interview-hp-printers-airpods-pro-test-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
