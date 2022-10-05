@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - 🚯 [Kanye on black culture. &lpar; Sorry for Emoji &rpar;](http://9gag.com/gag/a5XNvMV)
- - 🚯 [Blinker fluid](http://9gag.com/gag/ap9oz49)<!-- MEMES:END -->
+ - 🚖 [Real army is coming. Conscipts complain that everyone is sick, they don&#39;t have right paperwork and most of them lack body armour.](http://9gag.com/gag/ajV63R1)
+ - 🚯 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
+ - 🚯 [Kralovec &lpar;former Kaliningrad&rpar; is now officially czech territory after a referendum was held where almost 98% voted to join the Czech Republic](http://9gag.com/gag/aEqGj8e)<!-- MEMES:END -->
 
 --- 
 
