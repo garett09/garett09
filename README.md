@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter trial is still on, and Elon Musk probably deleted some Signal messages, judge says](https://www.theverge.com/2022/10/5/23389568/musk-twitter-signal-deleted-messages-judge-ruling)
- - [You shouldn’t need multiple apps to control a smartwatch](https://www.theverge.com/2022/10/5/23388979/google-pixel-watch-apple-watch-smartwatch-apps)
- - [How to pair AirPods with Android, Windows, Nintendo Switch](https://appleinsider.com/inside/airpods/tips/how-to-pair-airpods-with-android-windows-nintendo-switch?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify is ramping up its efforts to find misinformation in podcasts](https://www.theverge.com/2022/10/5/23389301/spotify-kinzen-audio-analysis-content-moderation-acquisition)
+ - [SanDisk PRO-G40 SSD supports Thunderbolt 3 &amp; USB 3.2 Gen 2](https://appleinsider.com/articles/22/10/05/new-sandisk-pro-g40-ssd-supports-thunderbolt-3-and-usb-32-gen-2?utm_medium=rss)
+ - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
