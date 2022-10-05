@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - 🚯 [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)
- - 🚯 [The right teapot](http://9gag.com/gag/az2LvoZ)<!-- MEMES:END -->
+ - 🚖 [With recent news of netflix pitching the idea of gandlaf and aragorn series to Tolkien estate this fit so aptly in today&#39;s time](http://9gag.com/gag/aQEpKqz)
+ - 🚯 [Sasha Grey](http://9gag.com/gag/a8qbvD6)
+ - 🚯 [Good ol\u2019 boi passed away today. Friend of 15 years. Hes not drunk he was just f**king old. And most importanly he lived a good life. Salute BONG](http://9gag.com/gag/aqeZVoQ)<!-- MEMES:END -->
 
 --- 
 
