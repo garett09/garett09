@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Google&#39;s &quot;Made by Google&quot; event: Pixel 7 and Pixel 7 Pro, Pixel Watch, and potentially Pixel device previews and Nest hardware &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/221005/p25#a221005p25)
- - [You should probably wait before buying the Pixel 7](https://www.androidauthority.com/wait-google-pixel-7-buy-3210698/)
- - [Watch the Crew-5 mission blast off on a SpaceX rocket](https://www.theverge.com/2022/10/5/23388965/nasa-crew-5-mission-spacex-rocket-launch-watch-live)<!-- TECH:END -->
+ - [Samsung’s latest foldables are matching their lowest price ever](https://www.theverge.com/2022/10/5/23387317/samsung-z-flip-fold-google-pixel-phone-logitech-keyboard-mouse-deal-sale)
+ - [The best Android emulators for PC and Mac of 2022](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+ - [Gotham Knights brings the Arkham flavor with a new cast of heroes](https://www.theverge.com/23387797/gotham-knights-batman-arkham-series-wb-montreal-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
