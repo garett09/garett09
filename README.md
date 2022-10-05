@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Give me the best roast you can do](http://9gag.com/gag/az2LQAm)
- - 🚯 [Kinda irritated I don&#39;t know what is the ending of this show....](http://9gag.com/gag/aBdQ4zZ)
- - 🚯 [The repost we need right now.](http://9gag.com/gag/a3ZdnQ1)<!-- MEMES:END -->
+ - 🚯 [Trying to explain to my wife why I&#39;m pissing blood.](http://9gag.com/gag/aL1QrKP)
+ - 🚯 [Samira Sadr &lpar;27&rpar;, another brave woman, victim of Iranian Government, please don&#39;t let our voice die!](http://9gag.com/gag/aA0VZ4d)<!-- MEMES:END -->
 
 --- 
 
