@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the Earth will look in ~250 million years according to plate tectonics theory](http://9gag.com/gag/abvqRKO)
- - 🚯 [I&#39;m 6&#39;2` &lpar;188 cm&rpar; but because of a genetic quirk my feet are only size 2 &lpar;EU 33&rpar;...my doctor said I may have the smallest feet on a grown man in the world.](http://9gag.com/gag/aYVp1PN)
- - 🚯 [Give me the best roast you can do](http://9gag.com/gag/az2LQAm)<!-- MEMES:END -->
+ - 🚖 [Give me the best roast you can do](http://9gag.com/gag/az2LQAm)
+ - 🚯 [Kinda irritated I don&#39;t know what is the ending of this show....](http://9gag.com/gag/aBdQ4zZ)
+ - 🚯 [The repost we need right now.](http://9gag.com/gag/a3ZdnQ1)<!-- MEMES:END -->
 
 --- 
 
