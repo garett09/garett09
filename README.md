@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Low Power Mode on Apple Watch](https://appleinsider.com/inside/watchos-9/tips/how-to-use-low-power-mode-on-apple-watch?utm_medium=rss)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Apple Watch battery blowout sends man to emergency room](https://appleinsider.com/articles/22/10/05/apple-watch-battery-blowout-sends-man-to-emergency-room?utm_medium=rss)<!-- TECH:END -->
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Phones from and by Google: a visual history of the Pixel and its predecessors](https://www.theverge.com/23379105/pixel-nexus-visual-history-google-design-models)
+ - [Dutch chip manufacturer STMicroelectronics plans to invest &amp;euro;730M to build a chip materials plant in Italy to create a self-reliant supply chain amid shortages &lpar;Lauly Li/Financial Times&rpar;](http://www.techmeme.com/221005/p35#a221005p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
