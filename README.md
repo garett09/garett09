@@ -197,7 +197,7 @@ No Activity Tracked This Week
 <!-- MEMES:START -->
  - 🚖 [Back cracking.](http://9gag.com/gag/ap9oV49)
  - 🚯 [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)
- - 🚯 [Sasha Grey](http://9gag.com/gag/a8qbvD6)<!-- MEMES:END -->
+ - 🚯 [The right teapot](http://9gag.com/gag/az2LvoZ)<!-- MEMES:END -->
 
 --- 
 
