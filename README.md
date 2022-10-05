@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So much snow](http://9gag.com/gag/a7qKNDL)
- - 🚯 [This was found in liberated Pisky-Rad&#39;kivs&#39;ki](http://9gag.com/gag/ago0EwW)
+ - 🚖 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - 🚯 [Society](http://9gag.com/gag/awZbeB8)
  - 🚯 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)<!-- MEMES:END -->
 
 --- 
