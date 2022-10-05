@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Safety first](http://9gag.com/gag/armerp7)
- - 🚯 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - 🚯 [Be humble](http://9gag.com/gag/aXnEdez)<!-- MEMES:END -->
+ - 🚖 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
+ - 🚯 [BBC. Bringing you truth by risking lives in the heat of battle.](http://9gag.com/gag/aBdQvbz)
+ - 🚯 [He ad one job, 1 ocean , 1 pole](http://9gag.com/gag/ajV6MB8)<!-- MEMES:END -->
 
 --- 
 
