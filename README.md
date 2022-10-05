@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pls accept, you might need a hundo](http://9gag.com/gag/a9qMVKL)
- - 🚯 [So much snow](http://9gag.com/gag/a7qKNDL)
- - 🚯 [A Gorila tells the `truth`](http://9gag.com/gag/avQZmNO)<!-- MEMES:END -->
+ - 🚖 [Rocker cat](http://9gag.com/gag/aoKZ45A)
+ - 🚯 [Wow! Hardcore Henry 2 looks beautiful.](http://9gag.com/gag/aWG0dW2)
+ - 🚯 [Office The](http://9gag.com/gag/a5XNxEE)<!-- MEMES:END -->
 
 --- 
 
