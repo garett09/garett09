@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrix’s Pro BFG controller for PS5 can transform into a portable fight stick](https://www.theverge.com/2022/10/5/23388978/pdp-victrix-pro-bfg-controller-pc-ps4-ps5-price-fight-stick)
- - [Watch the Crew-5 mission blast off on a SpaceX rocket](https://www.theverge.com/2022/10/5/23388965/nasa-crew-5-mission-spacex-rocket-launch-watch-live)
- - [Vergecast: Kindle Scribe feelings, printer problems, and earbuds on a bike](https://www.theverge.com/2022/10/5/23389020/amazon-dave-limp-interview-hp-printers-airpods-pro-test-podcast)<!-- TECH:END -->
+ - [Chainalysis: MENA was the fastest-growing crypto market between July 2021 and June 2022, with transaction volume up 48% YoY to $566B; North America grew 36% &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221005/p30#a221005p30)
+ - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
