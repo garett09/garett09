@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis: MENA was the fastest-growing crypto market between July 2021 and June 2022, with transaction volume up 48% YoY to $566B; North America grew 36% &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221005/p30#a221005p30)
- - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)<!-- TECH:END -->
+ - [Twitter trial is still on, and Elon Musk probably deleted some Signal messages, judge says](https://www.theverge.com/2022/10/5/23389568/musk-twitter-signal-deleted-messages-judge-ruling)
+ - [You shouldn’t need multiple apps to control a smartwatch](https://www.theverge.com/2022/10/5/23388979/google-pixel-watch-apple-watch-smartwatch-apps)
+ - [How to pair AirPods with Android, Windows, Nintendo Switch](https://appleinsider.com/inside/airpods/tips/how-to-pair-airpods-with-android-windows-nintendo-switch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
