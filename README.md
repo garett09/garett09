@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact won&#39;t add more endgame challenges because of &#39;excessive anxiety&#39;](https://www.pcgamer.com/genshin-impact-wont-add-more-endgame-challenges-because-of-excessive-anxiety)
- - [Streets of Rogue 2 announced and now it&#39;s an open-world Stardew with trucks?](https://www.pcgamer.com/streets-of-rogue-2-announced-and-now-its-an-open-world-stardew-with-trucks)
- - [Overwatch 2 Battle Pass: what rewards can you unlock and how much is it?](https://www.pcgamer.com/overwatch-2-battle-pass)<!-- GAME:END -->
+ - [FIFA 23 pits Ted Lasso against Ryan Reynolds’ soccer club, and it ain’t pretty](https://www.polygon.com/gaming/23387616/fifa-23-ted-lasso-ryan-reynolds-welcome-wrexham-rob-mcelhenney)
+ - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack [Update]](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
+ - [Genshin Impact Devs Won’t Be Adding More Endgame Content And Players Are Pissed](https://kotaku.com/genshin-impact-hoyoverse-spiral-abyss-endgame-1849616683)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
