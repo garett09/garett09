@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
- - 🚯 [Safety first](http://9gag.com/gag/armerp7)
- - 🚯 [WHATS GOING ON, I DONT UNDERSTAND ANYTHING ANYMORE](http://9gag.com/gag/aPgydVG)<!-- MEMES:END -->
+ - 🚖 [Or maybe an unconscious pattern of familiarity](http://9gag.com/gag/aNwo803)
+ - 🚯 [\u201cNice to meet you. My uncle is Valentino Rossi\u201d](http://9gag.com/gag/aeQ3P8B)
+ - 🚯 [Questions that are better not to ask.](http://9gag.com/gag/avQZ40X)<!-- MEMES:END -->
 
 --- 
 
