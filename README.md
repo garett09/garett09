@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Or maybe an unconscious pattern of familiarity](http://9gag.com/gag/aNwo803)
- - 🚯 [\u201cNice to meet you. My uncle is Valentino Rossi\u201d](http://9gag.com/gag/aeQ3P8B)
- - 🚯 [Questions that are better not to ask.](http://9gag.com/gag/avQZ40X)<!-- MEMES:END -->
+ - 🚖 [My professional situation](http://9gag.com/gag/aqeZxxR)
+ - 🚯 [When you need to check if your helmet works](http://9gag.com/gag/avQZ4ZX)
+ - 🚯 [Or maybe an unconscious pattern of familiarity](http://9gag.com/gag/aNwo803)<!-- MEMES:END -->
 
 --- 
 
