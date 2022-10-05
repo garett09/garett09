@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - 🚯 [South Africa](http://9gag.com/gag/aGEVo17)
- - 🚯 [Backpack backup](http://9gag.com/gag/aqeZdMR)<!-- MEMES:END -->
+ - 🚖 [Safety first](http://9gag.com/gag/armerp7)
+ - 🚯 [Back cracking.](http://9gag.com/gag/ap9oV49)
+ - 🚯 [Be humble](http://9gag.com/gag/aXnEdez)<!-- MEMES:END -->
 
 --- 
 
