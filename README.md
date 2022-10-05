@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox and Discord are accused of enabling adult men to sexually and financially exploit a California girl in a lawsuit filed by a social media watchdog group &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p33#a221005p33)
- - [How to use Microsoft’s new Windows HDR Calibration app](https://www.theverge.com/23389674/microsoft-windows-11-hdr-calibration-how-to)
- - [Google unveils Imagen Video, a text-to-video AI generator trained on 14M video-text pairs, 60M image-text pairs, and the public LAION-400M image-text dataset &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221005/p32#a221005p32)<!-- TECH:END -->
+ - [How to use Low Power Mode on Apple Watch](https://appleinsider.com/inside/watchos-9/tips/how-to-use-low-power-mode-on-apple-watch?utm_medium=rss)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Apple Watch battery blowout sends man to emergency room](https://appleinsider.com/articles/22/10/05/apple-watch-battery-blowout-sends-man-to-emergency-room?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
