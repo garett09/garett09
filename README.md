@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rocker cat](http://9gag.com/gag/aoKZ45A)
- - 🚯 [Wow! Hardcore Henry 2 looks beautiful.](http://9gag.com/gag/aWG0dW2)
- - 🚯 [Office The](http://9gag.com/gag/a5XNxEE)<!-- MEMES:END -->
+ - 🚖 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - 🚯 [Take me with you!!!](http://9gag.com/gag/aYVpdox)
+ - 🚯 [If Johnny Bravo was made today, it would have never aired. How many shows haven&#39;t seen the light cause of the 3% agenda?](http://9gag.com/gag/aKEgLLg)<!-- MEMES:END -->
 
 --- 
 
