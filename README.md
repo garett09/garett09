@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My professional situation](http://9gag.com/gag/aqeZxxR)
- - 🚯 [When you need to check if your helmet works](http://9gag.com/gag/avQZ4ZX)
- - 🚯 [Or maybe an unconscious pattern of familiarity](http://9gag.com/gag/aNwo803)<!-- MEMES:END -->
+ - 🚖 [Zombies of America](http://9gag.com/gag/a3Zdx5N)
+ - 🚯 [Theres a cure, its not too late](http://9gag.com/gag/aqeZpVj)
+ - 🚯 [She asked for it](http://9gag.com/gag/a7qKPom)<!-- MEMES:END -->
 
 --- 
 
