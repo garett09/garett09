@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA’s new Need for Speed leaks, looks full-on anime](https://www.polygon.com/23389260/need-for-speed-unbound-leak-screenshots-anime)
- - [Stranger Things’ David Harbour stars as a killer Santa Claus in Violent Night](https://www.polygon.com/23389237/stranger-things-david-harbour-violent-night-trailer)
- - [PlayStation Stars: Everything you need to know about Sony’s new rewards program](https://www.polygon.com/2022/10/5/23388007/playstation-stars-sony-ps4-ps5-rewards)<!-- GAME:END -->
+ - [Andor’s best new character is the villain’s pushy mom](https://www.polygon.com/23389097/star-wars-andor-villain-mom-syril-youre-grounded)
+ - [Overwatch 2&#39;s Phone Requirement: &#39;It&#39;s Like Being Punished For Being Poor&#39;](https://kotaku.com/overwatch-2-phone-requirement-fps-blizzard-cricket-mint-1849620021)
+ - [McDonalds Workers Are Begging People To Stop Ordering Adult Happy Meals](https://kotaku.com/mcdonalds-adult-happy-meal-cactus-plant-flea-market-1849619811)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
