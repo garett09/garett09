@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
- - 🚯 [Take me with you!!!](http://9gag.com/gag/aYVpdox)
- - 🚯 [If Johnny Bravo was made today, it would have never aired. How many shows haven&#39;t seen the light cause of the 3% agenda?](http://9gag.com/gag/aKEgLLg)<!-- MEMES:END -->
+ - 🚖 [Back cracking.](http://9gag.com/gag/ap9oV49)
+ - 🚯 [South Africa](http://9gag.com/gag/aGEVo17)
+ - 🚯 [Backpack backup](http://9gag.com/gag/aqeZdMR)<!-- MEMES:END -->
 
 --- 
 
