@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Early Access Sale tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
- - [A judge puts the trial between Elon Musk and Twitter on hold until October 28 so the parties can close their deal, otherwise a November trial date will be set &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/221006/p36#a221006p36)
- - [Blizzard is taking Overwatch 2 offline to make some fixes](https://www.theverge.com/2022/10/6/23391741/blizzard-overwatch-2-servers-offline-fixes-updates)<!-- TECH:END -->
+ - [How the Pixel, Apple, and Galaxy watches compare on paper](https://www.theverge.com/2022/10/6/23391189/pixel-apple-samsung-galaxy-watch-comparison-specs-fitness)
+ - [Amazon has stopped working on Scout, its autonomous home delivery robot that had been in testing since 2019; source: ~400 people were working on the project &lpar;Bloomberg&rpar;](http://www.techmeme.com/221006/p38#a221006p38)
+ - [Pew: 6% of US adults regularly get news on BitChute, Gab, Gettr, Parler, Rumble, Telegram, or Truth Social, but no one site drew over 2% of those seeking news &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221006/p37#a221006p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
