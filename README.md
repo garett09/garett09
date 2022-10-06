@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck Dock reservations are now available](https://www.theverge.com/2022/10/6/23391245/valve-steam-deck-dock-reservation-cost-price)
- - [Google out-leaked leakers and gave us a good look at the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-details-3217196/)
- - [Should I buy the Pixel 7 Pro or wait for the Samsung Galaxy S23?](https://www.androidauthority.com/buy-pixel-7-pro-or-samsung-galaxy-s23-3216719/)<!-- TECH:END -->
+ - [The best AT&amp;T deals: Get the Google Pixel 7 for free with trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [Apple 27-inch mini LED display expected in early 2023](https://appleinsider.com/articles/22/10/06/apple-27-inch-mini-led-display-expected-in-early-2023?utm_medium=rss)
+ - [MagSafe Battery Pack review: One year later, still the one to beat](https://appleinsider.com/articles/22/10/06/magsafe-battery-pack-one-year-later-still-the-one-to-beat?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
