@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack [UPDATES]](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
- - [Overwatch 2&#39;s Phone Requirement: &#39;It&#39;s Like Being Punished For Being Poor&#39; [Update: Gone For Most]](https://kotaku.com/overwatch-2-phone-requirement-fps-blizzard-cricket-mint-1849620021)
- - [Blizzard axes Overwatch 2 phone number requirement in update on game’s rocky launch](https://www.polygon.com/23390357/overwatch-2-launch-phone-number-requirement-sms-protect-blizzard)<!-- GAME:END -->
+ - [Today&#39;s Wordle 474 answer and hint: Thursday, October 6](https://www.pcgamer.com/todays-wordle-474-answer-hint)
+ - [3DMark releases XeSS benchmark update](https://www.pcgamer.com/3dmark-releases-xess-benchmark-update)
+ - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack [UPDATES]](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
