@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Humble Bundle contains 400 hours of the best RPGs ever made for $20](https://www.pcgamer.com/the-new-humble-bundle-contains-400-hours-of-the-best-rpgs-ever-made-for-dollar20)
- - [Avoid thermal paste overload on your AMD Ryzen AM5 CPU with Noctua&#39;s guard](https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard)
- - [Players aren&#39;t thrilled that Magic: The Gathering 30th Anniversary Edition costs $1,000](https://www.pcgamer.com/players-arent-thrilled-that-magic-the-gathering-30th-anniversary-edition-costs-dollar1000)<!-- GAME:END -->
+ - [A Court of Fey &amp; Flowers has a lot to say about love, class, and equality](https://www.polygon.com/23389593/dimension-20-court-fey-flowers-finale-review-analysis)
+ - [Tub Geralt immortalised as a cake disaster in Netflix&#39;s best baking show](https://www.pcgamer.com/tub-geralt-immortalised-as-a-cake-disaster-in-netflixs-best-baking-show)
+ - [RimWorld&#39;s biggest-ever expansion brings mech armies, gene-splicing, and bouncing babies](https://www.pcgamer.com/rimworlds-biggest-ever-expansion-brings-mech-armies-gene-splicing-and-bouncing-babies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
