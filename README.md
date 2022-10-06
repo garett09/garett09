@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Google wants to double its Pixel sales in 2023](https://www.androidauthority.com/google-pixel-7-sales-2023-3216984/)
- - [Minnesota-based Arctic Wolf, which offers cybersecurity tools and on-site experts, raised $401M in debt, after raising $150M at a $4.3B valuation in July 2021 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221006/p12#a221006p12)
- - [How to pair AirPods with Android, Windows, Nintendo Switch](https://appleinsider.com/inside/airpods/tips/how-to-pair-airpods-with-android-windows-nintendo-switch?utm_medium=rss)<!-- TECH:END -->
+ - [President Joe Biden has yet to appoint a US CTO after 20 months in office, a position Barack Obama filled within three months &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/221006/p15#a221006p15)
+ - [How to get rain notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-get-rain-notifications-in-ios-16?utm_medium=rss)
+ - [Sources: Google has requested manufacturers to make 8M units of its Pixel 7 range, its largest-ever order, aiming to double smartphone sales in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/221006/p14#a221006p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
