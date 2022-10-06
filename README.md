@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Owl House NYCC panel eulogized a brilliant show cut short: ‘We did our best’](https://www.polygon.com/nycc/23391461/nycc-2022-the-owl-house-panel)
- - [Bungie finally announces a nerf for Destiny 2’s most talked about Exotic](https://www.polygon.com/23391520/destiny-2-divinity-nerf-exotic-twab-blog-update-season-19-adept-wrath-of-the-machine)
- - [Every car coming to Need for Speed Unbound](https://www.polygon.com/guides/2022/10/6/23391406/need-for-speed-unbound-full-car-list)<!-- GAME:END -->
+ - [That McDonald&#39;s Mario Movie Leak With Princess Peach Looks Real Now](https://kotaku.com/super-mario-bros-movie-mcdonalds-princess-peach-leak-1849627982)
+ - [The Super Mario Bros. movie gets the games’ pathetic penguins just right](https://www.polygon.com/23391680/super-mario-bros-movie-trailer-penguin-64)
+ - [Overwatch 2 going offline as Blizzard rolls out fixes](https://www.polygon.com/23391747/overwatch-2-servers-offline-downtime-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
