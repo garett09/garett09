@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That McDonald&#39;s Mario Movie Leak With Princess Peach Looks Real Now](https://kotaku.com/super-mario-bros-movie-mcdonalds-princess-peach-leak-1849627982)
- - [The Super Mario Bros. movie gets the games’ pathetic penguins just right](https://www.polygon.com/23391680/super-mario-bros-movie-trailer-penguin-64)
- - [Overwatch 2 going offline as Blizzard rolls out fixes](https://www.polygon.com/23391747/overwatch-2-servers-offline-downtime-blizzard)<!-- GAME:END -->
+ - [Here&#39;s a list of every Lost Ark server](https://www.pcgamer.com/lost-ark-servers-list-status-down)
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
+ - [One of Steam&#39;s most wishlisted city builders has a pretty spectacular demo](https://www.pcgamer.com/one-of-steams-most-wishlisted-city-builders-has-a-pretty-spectacular-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
