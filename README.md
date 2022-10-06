@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
- - 🚯 [She&#39;s look soo happy](http://9gag.com/gag/a3Zdg2N)
- - 🚯 [The curse is about to end!](http://9gag.com/gag/anzXweb)<!-- MEMES:END -->
+ - 🚖 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
+ - 🚯 [She earned more than that](http://9gag.com/gag/aZDWXG3)
+ - 🚯 [Oh no](http://9gag.com/gag/abvqDKr)<!-- MEMES:END -->
 
 --- 
 
