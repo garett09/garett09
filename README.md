@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Court of Fey &amp; Flowers has a lot to say about love, class, and equality](https://www.polygon.com/23389593/dimension-20-court-fey-flowers-finale-review-analysis)
- - [Tub Geralt immortalised as a cake disaster in Netflix&#39;s best baking show](https://www.pcgamer.com/tub-geralt-immortalised-as-a-cake-disaster-in-netflixs-best-baking-show)
- - [RimWorld&#39;s biggest-ever expansion brings mech armies, gene-splicing, and bouncing babies](https://www.pcgamer.com/rimworlds-biggest-ever-expansion-brings-mech-armies-gene-splicing-and-bouncing-babies)<!-- GAME:END -->
+ - [Chess Pro Accused Of Cheating Defiant After Competing In Tourney With Extra Security](https://kotaku.com/chess-scandal-hans-niemann-championship-2022-security-1849624073)
+ - [10 Steam Demos To Check Out During Next Fest](https://kotaku.com/steam-next-fest-pc-demo-chasm-aka-astlibra-soulstone-1849622050)
+ - [Pokémon Scarlet and Violet’s new trailer shows new Girafarig evolution, Pokémon picnics](https://www.polygon.com/pokemon/23389200/pokemon-scarlet-violet-trailer-new-october-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
