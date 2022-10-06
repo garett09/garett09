@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Catan – Console Edition Coming Early 2023](https://news.xbox.com/en-us/2022/10/06/catan-console-edition-coming-early-2023/)
- - [Disco Elysium creators &#39;fired on false premises&#39; claims Studio ZA/UM founding member](https://www.pcgamer.com/disco-elysium-creators-fired-on-false-premises-claims-studio-zaum-founding-member)
- - [She-Hulk transforms a loveable Marvel Comics loser into a total manchild](https://www.polygon.com/23390873/leapfrog-she-hulk-marvel)<!-- GAME:END -->
+ - [Half-Life twin-stick shooter fan game gets blessing from Valve and a Steam release](https://www.pcgamer.com/half-life-twin-stick-shooter-fan-game-gets-blessing-from-valve-and-a-steam-release)
+ - [Medieval Dynasty Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2022/10/06/medieval-dynasty-now-available-on-xbox-series-xs/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
