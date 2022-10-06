@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Human &lpar;driver&rpar; stops the bus to prevent a nutwit stealing from helpless vendor.](http://9gag.com/gag/a8qbx4Q)
- - 🚯 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
- - 🚯 [Watch and learn Putin, this is how the international community responds when you hold a legitimate referendum and not that silly prank of yours in Ukraine. We thank you for your overwhelming support and will socially and economically develop the new region to EU standarts.](http://9gag.com/gag/aYVpXMq)<!-- MEMES:END -->
+ - 🚖 [Those were the days](http://9gag.com/gag/aWG0AP6)
+ - 🚯 [That&#39;s very effective](http://9gag.com/gag/a8qbxg3)
+ - 🚯 [Bakhmut - Soledar defense line. Unsung heroes. They defend so the southern and eastern companies may counterattack](http://9gag.com/gag/aREgbwQ)<!-- MEMES:END -->
 
 --- 
 
