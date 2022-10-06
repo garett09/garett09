@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So much snow](http://9gag.com/gag/a7qKNDL)
- - 🚯 [Get the napalm boys](http://9gag.com/gag/ago0b8g)
- - 🚯 [Right in the feels](http://9gag.com/gag/awZbDd8)<!-- MEMES:END -->
+ - 🚖 [Bread and Circuses.](http://9gag.com/gag/aMEbDE6)
+ - 🚯 [Lol](http://9gag.com/gag/a7qKBBw)
+ - 🚯 [NOFATHR](http://9gag.com/gag/aQEpbq2)<!-- MEMES:END -->
 
 --- 
 
