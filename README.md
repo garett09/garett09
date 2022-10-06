@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bread and Circuses.](http://9gag.com/gag/aMEbDE6)
+ - 🚖 [Ain&#39;t your Mammu](http://9gag.com/gag/aeQ3dxq)
  - 🚯 [Lol](http://9gag.com/gag/a7qKBBw)
- - 🚯 [NOFATHR](http://9gag.com/gag/aQEpbq2)<!-- MEMES:END -->
+ - 🚯 [The cake is a lie](http://9gag.com/gag/aMEb7j6)<!-- MEMES:END -->
 
 --- 
 
