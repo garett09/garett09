@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unboxing knife](http://9gag.com/gag/aMEbN4x)
- - 🚯 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
- - 🚯 [NOFATHR](http://9gag.com/gag/aQEpbq2)<!-- MEMES:END -->
+ - 🚖 [A moment before...](http://9gag.com/gag/abvqo6b)
+ - 🚯 [Spooktober](http://9gag.com/gag/a04Pgjn)
+ - 🚯 [All jumping at once in a crowded elevator](http://9gag.com/gag/aKEgZOj)<!-- MEMES:END -->
 
 --- 
 
