@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Plague Tale is coming to GeForce Now, ray tracing and all](https://www.theverge.com/2022/10/6/23390962/nvidia-geforce-now-plague-tale-requiem)
- - [Poll: Is the Google Pixel 7 series hot or not?](https://www.androidauthority.com/pixel-7-hot-not-3216254/)
- - [Everything you need to know about the Pixel 7’s cameras](https://www.androidauthority.com/google-pixel-7-camera-features-3214601/)<!-- TECH:END -->
+ - [Steam Deck Dock reservations are now available](https://www.theverge.com/2022/10/6/23391245/valve-steam-deck-dock-reservation-cost-price)
+ - [Google out-leaked leakers and gave us a good look at the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-details-3217196/)
+ - [Should I buy the Pixel 7 Pro or wait for the Samsung Galaxy S23?](https://www.androidauthority.com/buy-pixel-7-pro-or-samsung-galaxy-s23-3216719/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
