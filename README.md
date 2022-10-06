@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Phones from and by Google: a visual history of the Pixel and its predecessors](https://www.theverge.com/23379105/pixel-nexus-visual-history-google-design-models)
- - [Dutch chip manufacturer STMicroelectronics plans to invest &amp;euro;730M to build a chip materials plant in Italy to create a self-reliant supply chain amid shortages &lpar;Lauly Li/Financial Times&rpar;](http://www.techmeme.com/221005/p35#a221005p35)<!-- TECH:END -->
+ - [A look at Iranian activists&#39; fight for internet access amid the regime&#39;s crackdowns, including using Tor servers inside Iran to bypass internet blockades &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/221005/p39#a221005p39)
+ - [An illustrated guide showing how Stable Diffusion generates images from text using a CLIP-based text encoder, an image information creator, and an image decoder &lpar;Jay Alammar&rpar;](http://www.techmeme.com/221005/p38#a221005p38)
+ - [Former Uber security chief found guilty of covering up massive 2016 data breach](https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
