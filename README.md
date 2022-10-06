@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [26 year old Playboy model Anna Nicole Smith and 89 year old billionaire oil tycoon J Howard Marshall on their wedding day in 1994.](http://9gag.com/gag/aWG0yx6)
- - 🚯 [The curse is about to end!](http://9gag.com/gag/anzXweb)
- - 🚯 [Doot](http://9gag.com/gag/aGEV5BX)<!-- MEMES:END -->
+ - 🚖 [Get blacked](http://9gag.com/gag/a6qd6eA)
+ - 🚯 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)
+ - 🚯 [We must go back!](http://9gag.com/gag/aWG05n4)<!-- MEMES:END -->
 
 --- 
 
