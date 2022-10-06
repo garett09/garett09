@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeFiLlama: Circle has burned a record ~$9B of its USDC stablecoin in the past 90 days, decreasing supply from $55.55B to $46.57B, as DeFi yields decline &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221006/p6#a221006p6)
- - [Thursday Night Football: How to Watch, Stream Colts vs. Broncos Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-colts-vs-broncos-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
- - [Join CNET&#39;s Pixel 7, Pixel Watch Viewing Party: Starts Thursday at 6:30 a.m PT     - CNET](https://www.cnet.com/tech/mobile/join-cnets-pixel-7-pixel-watch-viewing-party-starts-thursday-at-630-a-m-pt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An investigation shows Amazon, Microsoft, and others destroy millions of data storage devices each year, creating huge waste when software wiping methods exist &lpar;Financial Times&rpar;](http://www.techmeme.com/221006/p9#a221006p9)
+ - [Is this bumper case for the Pixel Watch cause for worry?](https://www.androidauthority.com/google-pixel-watch-case-3216927/)
+ - [The Election-Swinging, Facebook-Fueled, Get-Out-the-Vote Machine](https://www.wired.com/story/the-election-swinging-facebook-fueled-get-out-the-vote-machine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
