@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Iranian activists&#39; fight for internet access amid the regime&#39;s crackdowns, including using Tor servers inside Iran to bypass internet blockades &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/221005/p39#a221005p39)
- - [An illustrated guide showing how Stable Diffusion generates images from text using a CLIP-based text encoder, an image information creator, and an image decoder &lpar;Jay Alammar&rpar;](http://www.techmeme.com/221005/p38#a221005p38)
- - [Former Uber security chief found guilty of covering up massive 2016 data breach](https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment)<!-- TECH:END -->
+ - [Montana-based onX, which makes navigation apps for hunting, hiking, and off-roading, raised a $87.4M Series B led by Summit Partners &lpar;David Erickson/Missoulian&rpar;](http://www.techmeme.com/221005/p43#a221005p43)
+ - [Sources: Twitter has agreed to delay a deposition by Elon Musk scheduled for October 6 in Austin, as both sides hash out a way to close the $44B deal &lpar;Financial Times&rpar;](http://www.techmeme.com/221005/p42#a221005p42)
+ - [Blizzard gives most Overwatch 1 players a pass on verifying phone numbers to play Overwatch 2](https://www.theverge.com/2022/10/5/23390421/overwatch-2-queue-servers-disconnect-account-merge-sms-protect)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
