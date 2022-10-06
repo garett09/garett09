@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flaw in macOS Archive Utility could let attackers bypass Gatekeeper](https://appleinsider.com/articles/22/10/06/flaw-in-macos-archive-utility-could-let-attackers-bypass-gatekeeper?utm_medium=rss)
- - [Google shows off wireless charging dock that turns the Pixel Tablet into a smart display](https://www.theverge.com/2022/10/6/23374487/google-tablet-pixel-launch-reveal-dock-smart-display)
- - [Google announces new privacy and security hub for Android 13](https://www.androidauthority.com/android-13-privacy-hub-3217130/)<!-- TECH:END -->
+ - [A Plague Tale is coming to GeForce Now, ray tracing and all](https://www.theverge.com/2022/10/6/23390962/nvidia-geforce-now-plague-tale-requiem)
+ - [Poll: Is the Google Pixel 7 series hot or not?](https://www.androidauthority.com/pixel-7-hot-not-3216254/)
+ - [Everything you need to know about the Pixel 7’s cameras](https://www.androidauthority.com/google-pixel-7-camera-features-3214601/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
