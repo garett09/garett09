@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - 🚯 [She earned more than that](http://9gag.com/gag/aZDWXG3)
- - 🚯 [Oh no](http://9gag.com/gag/abvqDKr)<!-- MEMES:END -->
+ - 🚖 [How to keep a whole generation away from trash food](http://9gag.com/gag/aZDWKOX)
+ - 🚯 [Oh no](http://9gag.com/gag/abvqDKr)
+ - 🚯 [Parenting is tiring](http://9gag.com/gag/a8qbO0d)<!-- MEMES:END -->
 
 --- 
 
