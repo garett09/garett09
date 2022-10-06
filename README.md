@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to keep a whole generation away from trash food](http://9gag.com/gag/aZDWKOX)
- - 🚯 [Oh no](http://9gag.com/gag/abvqDKr)
- - 🚯 [Parenting is tiring](http://9gag.com/gag/a8qbO0d)<!-- MEMES:END -->
+ - 🚖 [26 year old Playboy model Anna Nicole Smith and 89 year old billionaire oil tycoon J Howard Marshall on their wedding day in 1994.](http://9gag.com/gag/aWG0yx6)
+ - 🚯 [The curse is about to end!](http://9gag.com/gag/anzXweb)
+ - 🚯 [Doot](http://9gag.com/gag/aGEV5BX)<!-- MEMES:END -->
 
 --- 
 
