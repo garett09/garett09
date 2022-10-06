@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A moment before...](http://9gag.com/gag/abvqo6b)
- - 🚯 [Spooktober](http://9gag.com/gag/a04Pgjn)
- - 🚯 [All jumping at once in a crowded elevator](http://9gag.com/gag/aKEgZOj)<!-- MEMES:END -->
+ - 🚖 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - 🚯 [She&#39;s look soo happy](http://9gag.com/gag/a3Zdg2N)
+ - 🚯 [The curse is about to end!](http://9gag.com/gag/anzXweb)<!-- MEMES:END -->
 
 --- 
 
