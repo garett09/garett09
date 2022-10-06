@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Google fix its terrible cases for the Pixel 7? Sort of](https://www.theverge.com/23391161/google-pixel-7-case-official-hands-on)
- - [Disposable vapes supplanted Juul as the youth nicotine problem](https://www.theverge.com/2022/10/6/23391299/juul-vaping-teen-puff-bar-fda-cdc-survey)
- - [The Pixel Watch companion app has gone live on the Play Store](https://www.androidauthority.com/pixel-watch-companion-app-3217320/)<!-- TECH:END -->
+ - [The Super Mario Bros. Movie trailer is here &lpar;and so is Chris Pratt&rpar;](https://www.theverge.com/2022/10/6/23390869/super-mario-movie-trailer-chris-pratt)
+ - [Netflix’s Glass Onion: A Knives Out Mystery will briefly hit theaters in November](https://www.theverge.com/2022/10/6/23391536/glass-onion-a-knives-out-mystery-theaters-release-date-november-netflix)
+ - [In NLRB complaints, the Alphabet Workers Union claims some contract workers were fired for supporting a union and faced retaliation after pushing for benefits &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/221006/p34#a221006p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
