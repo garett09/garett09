@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: a Paris court lowers a 2020 antitrust fine against Apple from &amp;euro;1.1B to &amp;euro;372M; the fine was related to alleged behavior within its distribution network &lpar;Mathieu Rosemain/Reuters&rpar;](http://www.techmeme.com/221006/p18#a221006p18)
- - [The Xbox Series S is $50 off with an extra controller thrown in for free](https://www.theverge.com/2022/10/6/23390509/xbox-series-s-sony-wf1000xm4-echo-buds-kindle-paperwhite-deal-sale)
- - [Watch 14 minutes of new details on Pokémon Violet and Scarlet](https://www.theverge.com/23390807/nintendo-pokemon-scarlet-violet-trailer)<!-- TECH:END -->
+ - [Flaw in macOS Archive Utility could let attackers bypass Gatekeeper](https://appleinsider.com/articles/22/10/06/flaw-in-macos-archive-utility-could-let-attackers-bypass-gatekeeper?utm_medium=rss)
+ - [Google shows off wireless charging dock that turns the Pixel Tablet into a smart display](https://www.theverge.com/2022/10/6/23374487/google-tablet-pixel-launch-reveal-dock-smart-display)
+ - [Google announces new privacy and security hub for Android 13](https://www.androidauthority.com/android-13-privacy-hub-3217130/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
