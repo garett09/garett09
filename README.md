@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
- - 🚯 [Salute to the guy who didn&#39;t hesitate to help the kid..](http://9gag.com/gag/aREgqBG)
- - 🚯 [Abandoned Russian tank recovered for the UAF &lpar;bit sped up&rpar;](http://9gag.com/gag/aDYwK4B)<!-- MEMES:END -->
+ - 🚖 [Bring back](http://9gag.com/gag/a7qKXxr)
+ - 🚯 [Not for everyone, but still funny](http://9gag.com/gag/aKEgQBZ)
+ - 🚯 [The mythical seks.](http://9gag.com/gag/a7qKYde)<!-- MEMES:END -->
 
 --- 
 
