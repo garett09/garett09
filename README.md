@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Super Mario Bros. Movie trailer is here &lpar;and so is Chris Pratt&rpar;](https://www.theverge.com/2022/10/6/23390869/super-mario-movie-trailer-chris-pratt)
- - [Netflix’s Glass Onion: A Knives Out Mystery will briefly hit theaters in November](https://www.theverge.com/2022/10/6/23391536/glass-onion-a-knives-out-mystery-theaters-release-date-november-netflix)
- - [In NLRB complaints, the Alphabet Workers Union claims some contract workers were fired for supporting a union and faced retaliation after pushing for benefits &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/221006/p34#a221006p34)<!-- TECH:END -->
+ - [Google Pixel Watch vs Samsung Galaxy Watch: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-3216131/)
+ - [Tony Fadell wants to see iPhone move to USB-C](https://appleinsider.com/articles/22/10/06/tony-fadell-wants-to-see-iphone-move-to-usb-c?utm_medium=rss)
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
