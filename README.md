@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Alenia Aermacchi M-346 Master Comes to Microsoft Flight Simulator](https://news.xbox.com/en-us/2022/10/06/the-alenia-aermacchi-m-346-master-comes-to-microsoft-flight-simulator/)
- - [Beat Saber’s Lizzo pack actually includes all the best Lizzo songs](https://www.polygon.com/23388013/lizzo-beat-saber-about-damn-time-dlc)
- - [New Pokémon are hidden in the Scarlet and Violet trailer](https://www.polygon.com/pokemon/23390854/pokemon-scarlet-violet-new-unannounced-pokemon-revealed-trailer)<!-- GAME:END -->
+ - [How to watch Critical Role’s Legend of Vox Machina panel at NYCC 2022](https://www.polygon.com/nycc/23391014/legend-of-vox-machine-panel-time-livestream-vod-2022-critical-role-season-2)
+ - [CEO ‘Extremely Sorry’ About Shutting Down PS5’s Worst Game](https://kotaku.com/babylon-s-fall-worst-ps5-game-live-service-shutdown-1849625281)
+ - [Join PC Game Pass at TwitchCon San Diego 2022](https://news.xbox.com/en-us/2022/10/06/join-pc-game-pass-at-twitchcon-san-diego-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
