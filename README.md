@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things We Saw In Pokémon Scarlet &amp; Violet&#39;s Epic 14-Minute New Trailer](https://kotaku.com/nintendo-pokemon-scarlet-violet-new-trailer-switch-1849623863)
- - [Mob Psycho 100 season 3 keeps pushing its hero beyond the limits of shonen anime](https://www.polygon.com/23389414/mob-psycho-100-season-3-one-manga-anime-shonen)
- - [PlayStation Store: September 2022’s top downloads](https://blog.playstation.com/2022/10/06/playstation-store-september-2022s-top-downloads/)<!-- GAME:END -->
+ - [The Alenia Aermacchi M-346 Master Comes to Microsoft Flight Simulator](https://news.xbox.com/en-us/2022/10/06/the-alenia-aermacchi-m-346-master-comes-to-microsoft-flight-simulator/)
+ - [Beat Saber’s Lizzo pack actually includes all the best Lizzo songs](https://www.polygon.com/23388013/lizzo-beat-saber-about-damn-time-dlc)
+ - [New Pokémon are hidden in the Scarlet and Violet trailer](https://www.polygon.com/pokemon/23390854/pokemon-scarlet-violet-new-unannounced-pokemon-revealed-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
