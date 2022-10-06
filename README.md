@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Joe Biden has yet to appoint a US CTO after 20 months in office, a position Barack Obama filled within three months &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/221006/p15#a221006p15)
- - [How to get rain notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-get-rain-notifications-in-ios-16?utm_medium=rss)
- - [Sources: Google has requested manufacturers to make 8M units of its Pixel 7 range, its largest-ever order, aiming to double smartphone sales in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/221006/p14#a221006p14)<!-- TECH:END -->
+ - [Source: a Paris court lowers a 2020 antitrust fine against Apple from &amp;euro;1.1B to &amp;euro;372M; the fine was related to alleged behavior within its distribution network &lpar;Mathieu Rosemain/Reuters&rpar;](http://www.techmeme.com/221006/p18#a221006p18)
+ - [The Xbox Series S is $50 off with an extra controller thrown in for free](https://www.theverge.com/2022/10/6/23390509/xbox-series-s-sony-wf1000xm4-echo-buds-kindle-paperwhite-deal-sale)
+ - [Watch 14 minutes of new details on Pokémon Violet and Scarlet](https://www.theverge.com/23390807/nintendo-pokemon-scarlet-violet-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
