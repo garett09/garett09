@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - 🚯 [Before 2022...](http://9gag.com/gag/az2LzXm)
- - 🚯 [I did it](http://9gag.com/gag/a9qMeED)<!-- MEMES:END -->
+ - 🚖 [So much snow](http://9gag.com/gag/a7qKNDL)
+ - 🚯 [Get the napalm boys](http://9gag.com/gag/ago0b8g)
+ - 🚯 [Right in the feels](http://9gag.com/gag/awZbDd8)<!-- MEMES:END -->
 
 --- 
 
