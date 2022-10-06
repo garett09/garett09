@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation shows Amazon, Microsoft, and others destroy millions of data storage devices each year, creating huge waste when software wiping methods exist &lpar;Financial Times&rpar;](http://www.techmeme.com/221006/p9#a221006p9)
- - [Is this bumper case for the Pixel Watch cause for worry?](https://www.androidauthority.com/google-pixel-watch-case-3216927/)
- - [The Election-Swinging, Facebook-Fueled, Get-Out-the-Vote Machine](https://www.wired.com/story/the-election-swinging-facebook-fueled-get-out-the-vote-machine/)<!-- TECH:END -->
+ - [Elon Musk Is Totally Wrong About Population Collapse](https://www.wired.com/story/elon-musk-population-crisis/)
+ - [These Are the 100 Hottest Startups in Europe in 2022](https://www.wired.com/story/100-hottest-startups-europe-2022/)
+ - [The Wild History of the Beloved &#39;Addams Family&#39; Pinball Machine](https://www.wired.com/story/the-addams-family-pinball-machine-popularity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
