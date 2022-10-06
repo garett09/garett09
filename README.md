@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those were the days](http://9gag.com/gag/aWG0AP6)
- - 🚯 [That&#39;s very effective](http://9gag.com/gag/a8qbxg3)
- - 🚯 [Bakhmut - Soledar defense line. Unsung heroes. They defend so the southern and eastern companies may counterattack](http://9gag.com/gag/aREgbwQ)<!-- MEMES:END -->
+ - 🚖 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
+ - 🚯 [Salute to the guy who didn&#39;t hesitate to help the kid..](http://9gag.com/gag/aREgqBG)
+ - 🚯 [Abandoned Russian tank recovered for the UAF &lpar;bit sped up&rpar;](http://9gag.com/gag/aDYwK4B)<!-- MEMES:END -->
 
 --- 
 
