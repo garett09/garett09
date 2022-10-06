@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)
- - 🚯 [The horror...](http://9gag.com/gag/az2Lp9m)
- - 🚯 [Unwrapping brand new toys from Poland. Translation in comments.](http://9gag.com/gag/az2L3Pq)<!-- MEMES:END -->
+ - 🚖 [Human &lpar;driver&rpar; stops the bus to prevent a nutwit stealing from helpless vendor.](http://9gag.com/gag/a8qbx4Q)
+ - 🚯 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
+ - 🚯 [Watch and learn Putin, this is how the international community responds when you hold a legitimate referendum and not that silly prank of yours in Ukraine. We thank you for your overwhelming support and will socially and economically develop the new region to EU standarts.](http://9gag.com/gag/aYVpXMq)<!-- MEMES:END -->
 
 --- 
 
