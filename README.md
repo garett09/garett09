@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - 🚯 [Kanye&#39;s response to why he wore a White Lives Matter shirt.](http://9gag.com/gag/aQEpjeq)
- - 🚯 [The horror...](http://9gag.com/gag/az2Lp9m)<!-- MEMES:END -->
+ - 🚖 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)
+ - 🚯 [The horror...](http://9gag.com/gag/az2Lp9m)
+ - 🚯 [Unwrapping brand new toys from Poland. Translation in comments.](http://9gag.com/gag/az2L3Pq)<!-- MEMES:END -->
 
 --- 
 
