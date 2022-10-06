@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S20 FE gets October 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Google shares over a dozen new wallpapers just in time for the Pixel 7](https://www.androidauthority.com/google-pixel-new-wallpapers-3216836/)
- - [Two weeks ahead of China&#39;s 20th communist party congress, censors seem to be blocking TLS-based circumvention tools that locals use to bypass the Great Firewall &lpar;TechCrunch&rpar;](http://www.techmeme.com/221006/p4#a221006p4)<!-- TECH:END -->
+ - [DeFiLlama: Circle has burned a record ~$9B of its USDC stablecoin in the past 90 days, decreasing supply from $55.55B to $46.57B, as DeFi yields decline &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221006/p6#a221006p6)
+ - [Thursday Night Football: How to Watch, Stream Colts vs. Broncos Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-colts-vs-broncos-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
+ - [Join CNET&#39;s Pixel 7, Pixel Watch Viewing Party: Starts Thursday at 6:30 a.m PT     - CNET](https://www.cnet.com/tech/mobile/join-cnets-pixel-7-pixel-watch-viewing-party-starts-thursday-at-630-a-m-pt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
