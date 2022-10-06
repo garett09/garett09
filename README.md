@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How RimWorld makes misery and crisis a rollicking good time](https://www.polygon.com/23389122/rimworld-story-simulator-explained-gameplay-systems-crisis-breaks)
- - [How to watch the Mario movie trailer during today’s Nintendo Direct](https://www.polygon.com/23391192/super-mario-bros-movie-trailer-how-to-watch)
- - [How to watch NYCC 2022’s panel livestreams](https://www.polygon.com/nycc/23389637/nycc-2022-watch-panels-new-york-comic-con)<!-- GAME:END -->
+ - [Catan – Console Edition Coming Early 2023](https://news.xbox.com/en-us/2022/10/06/catan-console-edition-coming-early-2023/)
+ - [Disco Elysium creators &#39;fired on false premises&#39; claims Studio ZA/UM founding member](https://www.pcgamer.com/disco-elysium-creators-fired-on-false-premises-claims-studio-zaum-founding-member)
+ - [She-Hulk transforms a loveable Marvel Comics loser into a total manchild](https://www.polygon.com/23390873/leapfrog-she-hulk-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
