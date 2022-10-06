@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With recent news of netflix pitching the idea of gandlaf and aragorn series to Tolkien estate this fit so aptly in today&#39;s time](http://9gag.com/gag/aQEpKqz)
- - 🚯 [Sasha Grey](http://9gag.com/gag/a8qbvD6)
- - 🚯 [Good ol\u2019 boi passed away today. Friend of 15 years. Hes not drunk he was just f**king old. And most importanly he lived a good life. Salute BONG](http://9gag.com/gag/aqeZVoQ)<!-- MEMES:END -->
+ - 🚖 [Back in the day there were trials on what was the best way to take a corner, but eventually drifting won...](http://9gag.com/gag/aoKZxg2)
+ - 🚯 [Good ol\u2019 boi passed away today. Friend of 15 years. Hes not drunk he was just f**king old. And most importanly he lived a good life. Salute BONG](http://9gag.com/gag/aqeZVoQ)
+ - 🚯 [According to a video of a different soldier &lpar;same group&rpar; they are in a group of 500,and they&#39;ve been living in these conditions for a week in Belgorod Oblast](http://9gag.com/gag/aqeZO9j)<!-- MEMES:END -->
 
 --- 
 
