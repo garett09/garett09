@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - 🚯 [Developer of the year](http://9gag.com/gag/a8qbg06)
- - 🚯 [Despair](http://9gag.com/gag/a8qbxyd)<!-- MEMES:END -->
+ - 🚯 [Kanye&#39;s response to why he wore a White Lives Matter shirt.](http://9gag.com/gag/aQEpjeq)
+ - 🚯 [The horror...](http://9gag.com/gag/az2Lp9m)<!-- MEMES:END -->
 
 --- 
 
