@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Critical Role’s Legend of Vox Machina panel at NYCC 2022](https://www.polygon.com/nycc/23391014/legend-of-vox-machine-panel-time-livestream-vod-2022-critical-role-season-2)
- - [CEO ‘Extremely Sorry’ About Shutting Down PS5’s Worst Game](https://kotaku.com/babylon-s-fall-worst-ps5-game-live-service-shutdown-1849625281)
- - [Join PC Game Pass at TwitchCon San Diego 2022](https://news.xbox.com/en-us/2022/10/06/join-pc-game-pass-at-twitchcon-san-diego-2022/)<!-- GAME:END -->
+ - [How RimWorld makes misery and crisis a rollicking good time](https://www.polygon.com/23389122/rimworld-story-simulator-explained-gameplay-systems-crisis-breaks)
+ - [How to watch the Mario movie trailer during today’s Nintendo Direct](https://www.polygon.com/23391192/super-mario-bros-movie-trailer-how-to-watch)
+ - [How to watch NYCC 2022’s panel livestreams](https://www.polygon.com/nycc/23389637/nycc-2022-watch-panels-new-york-comic-con)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
