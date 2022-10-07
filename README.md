@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starving Ukrainian soldier: \u201cThis is how the Armed Forces of Ukraine are fed. We survive as best we can.. it\u2019s hard to live in fields\u2026uncomfortable\u2026situation with food not always good\u2026 but what can we do, this is war\u2026\u201d](http://9gag.com/gag/axo2Xeb)
- - 🚯 [What](http://9gag.com/gag/az2E72z)
- - 🚯 [The war is over for these orcs.](http://9gag.com/gag/avQg2M5)<!-- MEMES:END -->
+ - 🚖 [Enjoy this sleepy chipmunk](http://9gag.com/gag/ap9oOOW)
+ - 🚯 [How to tell if a car had an accident before](http://9gag.com/gag/aOxboYE)
+ - 🚯 [Competitive salary is competitive.](http://9gag.com/gag/aPg4wWw)<!-- MEMES:END -->
 
 --- 
 
