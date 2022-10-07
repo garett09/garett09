@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a list of every Lost Ark server](https://www.pcgamer.com/lost-ark-servers-list-status-down)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [One of Steam&#39;s most wishlisted city builders has a pretty spectacular demo](https://www.pcgamer.com/one-of-steams-most-wishlisted-city-builders-has-a-pretty-spectacular-demo)<!-- GAME:END -->
+ - [Legend of Vox Machina season 2 first-look footage is all dragon fury](https://www.polygon.com/nycc/23389483/legend-of-vox-machina-season-2-release-teaser-critical-role)
+ - [How to be a Hellraiser, according to the newest Pinhead](https://www.polygon.com/23387046/hellraiser-movie-costume-makeup-jamie-clayton)
+ - [Diablo II: Resurrected Ladder Season 2 Now Live](https://news.xbox.com/en-us/2022/10/06/diablo-ii-resurrected-ladder-season-2-now-live/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
