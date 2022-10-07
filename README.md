@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Captain help please, what do you have to say? It will come in handy in apocalypse-type situations.](http://9gag.com/gag/aqeZ39Y)
- - 🚯 [Meeeee](http://9gag.com/gag/aqeZvWM)
- - 🚯 [Why Magneto Can Never Be In the MCU](http://9gag.com/gag/ago0Rgr)<!-- MEMES:END -->
+ - 🚖 [Spooktober](http://9gag.com/gag/a5XNOer)
+ - 🚯 [What do you think?](http://9gag.com/gag/avQg2gO)
+ - 🚯 [Another trophy for the boys!](http://9gag.com/gag/a4odpmy)<!-- MEMES:END -->
 
 --- 
 
