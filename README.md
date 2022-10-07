@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU regulators sent game developers ~100 questions on the Microsoft-Activision deal, including whether Microsoft will block rivals&#39; access to Activision&#39;s games &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/221007/p1#a221007p1)
  - [Acer’s Swift Edge could be the 16-inch OLED laptop we’ve all been waiting for](https://www.theverge.com/2022/10/7/23390874/acer-swift-edge-oled-laptop-amd-ryzen-6000-price-release-date)
- - [Sources: the US plans to spare SK Hynix and Samsung from the brunt of new restrictions on DRAM and NAND chipmakers in China planned to be released this week &lpar;Reuters&rpar;](http://www.techmeme.com/221006/p42#a221006p42)
- - [Best Air Purifier for 2022, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US plans to spare SK Hynix and Samsung from the brunt of new restrictions on DRAM and NAND chipmakers in China planned to be released this week &lpar;Reuters&rpar;](http://www.techmeme.com/221006/p42#a221006p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
