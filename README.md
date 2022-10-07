@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The His Dark Materials season 3 trailer brings the wild Amber Spyglass to life](https://www.polygon.com/nycc/23389342/his-dark-materials-season-3-trailer-amber-spyglass)
- - [New Nvidia PC Graphics Cards Are Nearly As Big As A PS5 &lpar;And Power Hogs, Too&rpar;](https://kotaku.com/nvidia-4090-size-4000-rtx-gpu-pc-release-date-1849629981)
- - [Next Week on Xbox: New Games for October 10 to 14](https://news.xbox.com/en-us/2022/10/07/next-week-on-xbox-new-games-for-october-10-to-14/)<!-- GAME:END -->
+ - [Legend of Vox Machina will get messy in season 2, full of dragons through season 3](https://www.polygon.com/nycc/23392562/legend-vox-machina-season-2-3-critical-role-nycc-cast)
+ - [Public voting now open in the Golden Joystick&#39;s 40th anniversary awards](https://www.pcgamer.com/public-voting-now-open-in-the-golden-joysticks-40th-anniversary-awards)
+ - [Make your gaming experience bulletproof with Decksaver&#39;s ultra-durable keyboard covers](https://www.pcgamer.com/make-your-gaming-experience-bulletproof-with-decksavers-ultra-durable-keyboard-covers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
