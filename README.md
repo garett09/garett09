@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sire](http://9gag.com/gag/aWG0POq)
- - 🚯 [Just happened to me](http://9gag.com/gag/aMEb3Ox)
- - 🚯 [When someone wakes you up on the bus](http://9gag.com/gag/adP6ZVd)<!-- MEMES:END -->
+ - 🚖 [Paper plane origami + instructions!](http://9gag.com/gag/aBdQq2A)
+ - 🚯 [Oops](http://9gag.com/gag/a04PAwL)
+ - 🚯 [Guys facing 30 years in PRISON!](http://9gag.com/gag/aVbQAz8)<!-- MEMES:END -->
 
 --- 
 
