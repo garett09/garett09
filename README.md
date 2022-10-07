@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Midnight Club might convert a new generation into horror buffs](https://www.polygon.com/reviews/23391276/midnight-club-netflix-review-horror-mike-flanagan)
- - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
- - [Where to find Rebecca&#39;s shotgun in Cyberpunk 2077](https://www.pcgamer.com/cyberpunk-2077-rebecca-shotgun-guts)<!-- GAME:END -->
+ - [Valkyrie Elysium: The Kotaku Review](https://kotaku.com/valkyrie-elysium-review-square-enix-action-rpg-ps5-pc-1849625574)
+ - [No Man’s Sky WayPoint Update &lpar;4.0&rpar; Overhauls Gameplay Fundamentals](https://blog.playstation.com/2022/10/07/no-mans-sky-waypoint-update-4-0-overhauls-gameplay-fundamentals/)
+ - [No Man&#39;s Sky&#39;s new update is for space captains who &#39;just want to chill out&#39;](https://www.pcgamer.com/no-mans-skys-new-update-is-for-space-captains-who-just-want-to-chill-out)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
