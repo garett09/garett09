@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The coming pain is intentional. Don\u2019t forget it.](http://9gag.com/gag/aeQ3Ebp)
- - 🚯 [Tourists were robbed by Malaysia Traffic Police in broad daylight. The officer suddenly took the victim&#39;s wallet, took out two $50 notes, put the money in his record book and left &lpar;news in link&rpar;](http://9gag.com/gag/armeYEK)
- - 🚯 [Biology teacher who was suspended because he refused to follow the mandated gender pronouns set by school district fought back and won. Gender policy suspended instead.](http://9gag.com/gag/aDYwEgd)<!-- MEMES:END -->
+ - 🚖 [Monday mood.](http://9gag.com/gag/aBdQvA2)
+ - 🚯 [Links in comments](http://9gag.com/gag/aMEb3EA)
+ - 🚯 [Fixing a gba game](http://9gag.com/gag/aWG0wn3)<!-- MEMES:END -->
 
 --- 
 
