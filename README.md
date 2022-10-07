@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoy this sleepy chipmunk](http://9gag.com/gag/ap9oOOW)
- - 🚯 [How to tell if a car had an accident before](http://9gag.com/gag/aOxboYE)
- - 🚯 [Competitive salary is competitive.](http://9gag.com/gag/aPg4wWw)<!-- MEMES:END -->
+ - 🚖 [Spooktober has arrived](http://9gag.com/gag/az2Ln2z)
+ - 🚯 [They\u2019re siblings](http://9gag.com/gag/a2KYEVw)
+ - 🚯 [The true \u201cDiversity is our strength\u201d](http://9gag.com/gag/aMEr2VP)<!-- MEMES:END -->
 
 --- 
 
