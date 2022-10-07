@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hulu’s Hellraiser, Werewolf by Night, and every other movie you can stream from home this weekend](https://www.polygon.com/23386017/new-movies-watch-hellraiser-hulu-werewolf-by-night-disney-plus)
- - [This gorgeous grid-based dungeon crawler is based on real folklore](https://www.pcgamer.com/this-gorgeous-grid-based-dungeon-crawler-is-based-on-real-folklore)
- - [Oops: Valve Shows Switch Emulator In Steam Deck Vid, Then Deletes It](https://kotaku.com/yuzu-nintendo-switch-emulator-steam-deck-dock-valve-1849632836)<!-- GAME:END -->
+ - [Valve edits Steam Deck trailer to remove Nintendo Switch emulator icon](https://www.pcgamer.com/valve-edits-steam-deck-trailer-to-remove-nintendo-switch-emulator-icon)
+ - [Here&#39;s a survival game first: I just went fishing for giant moths off the edge of my blimp](https://www.pcgamer.com/heres-a-survival-game-first-i-just-went-fishing-for-giant-moths-off-the-edge-of-my-blimp)
+ - [EA&#39;s Origin is officially dead](https://www.pcgamer.com/eas-origin-is-officially-dead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
