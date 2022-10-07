@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s fall event 2022: all the news from the online Surface event](https://www.theverge.com/23386652/microsoft-surface-fall-event-news-rumors-products-announcements)
- - [‘Vote for Holly!’ Meet the cheerleaders of Fat Bear Week](https://www.theverge.com/2022/10/7/23392925/fat-bear-weeks-fans-katmai-national-park)
- - [Biden’s Privacy Order Slaps a Band-Aid on the EU-US Data Crisis](https://www.wired.com/story/biden-eu-us-data-privacy-executive-order/)<!-- TECH:END -->
+ - [Filing: in its case against Meta&#39;s Within acquisition, FTC asks a judge to remove some allegations about anticompetitive effects in the VR fitness apps market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/221007/p14#a221007p14)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [USB-C on iPhone is good - but not as an excuse for a bad law](https://appleinsider.com/articles/22/10/07/usb-c-on-iphone-is-good---but-not-an-excuse-for-a-bad-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
