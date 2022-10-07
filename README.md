@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robot makers including Boston Dynamics pledge not to weaponize their creations](https://www.theverge.com/2022/10/7/23392342/boston-dynamics-robot-makers-pledge-not-to-weaponize)
- - [Daily Authority: 📱 Pixel products, Pixel products everywhere](https://www.androidauthority.com/daily-authority-october-7-2022-3217573/)
- - [Best Prime Day MacBook Deals: Save $150 on a M2 MacBook Air, $399 on a MacBook Pro     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung details GDDR7, already in production, with speeds up to 36Gbps, doubling GDDR6&#39;s 18Gbps, and plans to release new V-NAND chips with a 230-layer design &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221007/p3#a221007p3)
+ - [Amazon stops field tests of its delivery robot Scout](https://www.theverge.com/2022/10/7/23392360/amazon-disbands-delivery-robot-scout-development)
+ - [Robot makers including Boston Dynamics pledge not to weaponize their creations](https://www.theverge.com/2022/10/7/23392342/boston-dynamics-robot-makers-pledge-not-to-weaponize)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
