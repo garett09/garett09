@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fireworks in the back of a car](http://9gag.com/gag/a2KPpb1)
- - 🚯 [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)
- - 🚯 [First trailer of the `Super Mario bros movie`](http://9gag.com/gag/aGEVmOG)<!-- MEMES:END -->
+ - 🚖 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)
+ - 🚯 [Kids beware](http://9gag.com/gag/a8qbRO6)
+ - 🚯 [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)<!-- MEMES:END -->
 
 --- 
 
