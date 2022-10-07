@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best interview EVER!](http://9gag.com/gag/avQZNmO)
- - 🚯 [Links in comments](http://9gag.com/gag/aMEb3EA)
- - 🚯 [Meal](http://9gag.com/gag/a8qbPWp)<!-- MEMES:END -->
+ - 🚖 [U good?](http://9gag.com/gag/aWG03YK)
+ - 🚯 [Not bad Biden](http://9gag.com/gag/ay2pOwY)
+ - 🚯 [Russian soldiers lived in barn with pigs.. and a washing machine.](http://9gag.com/gag/adP6ZLB)<!-- MEMES:END -->
 
 --- 
 
