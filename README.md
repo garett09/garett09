@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Destiny 2 Xur location and items, Oct. 7-11](https://www.polygon.com/destiny-2-guide-walkthrough/2022/10/7/23393040/destiny-2-xur-location-items-oct-7-11-legendaries)
- - [Good Omens season 2 is coming, and Neil Gaiman tried to explain it at NYCC](https://www.polygon.com/nycc/23392702/good-omens-season-2-release-date-neil-gaiman-nycc)<!-- GAME:END -->
+ - [The Rings of Power is holding Galadriel back](https://www.polygon.com/23391712/lord-rings-power-galadriel-episode-7)
+ - [Official PlayStation Podcast Episode 442: Virtual Galaxy](https://blog.playstation.com/2022/10/07/official-playstation-podcast-episode-442-virtual-galaxy/)
+ - [Of course everyone&#39;s Dreamlight Valley villages are prettier than mine](https://www.pcgamer.com/of-course-everyones-dreamlight-valley-villages-are-prettier-than-mine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
