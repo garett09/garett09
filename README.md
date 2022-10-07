@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys facing 30 years in PRISON!](http://9gag.com/gag/aVbQAz8)
- - 🚯 [Paper plane origami + instructions!](http://9gag.com/gag/aBdQq2A)
- - 🚯 [Just asking](http://9gag.com/gag/aVbQGjw)<!-- MEMES:END -->
+ - 🚖 [Black Templar Initiate](http://9gag.com/gag/aMEb7EX)
+ - 🚯 [Literal slits as eyes](http://9gag.com/gag/aQEpwvW)
+ - 🚯 [Why Magneto Can Never Be In the MCU](http://9gag.com/gag/ago0Rgr)<!-- MEMES:END -->
 
 --- 
 
