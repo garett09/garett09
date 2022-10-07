@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paper plane origami + instructions!](http://9gag.com/gag/aBdQq2A)
- - 🚯 [Oops](http://9gag.com/gag/a04PAwL)
- - 🚯 [Guys facing 30 years in PRISON!](http://9gag.com/gag/aVbQAz8)<!-- MEMES:END -->
+ - 🚖 [I have a black friend!](http://9gag.com/gag/aA0V709)
+ - 🚯 [No title good enough](http://9gag.com/gag/a3Zd9j8)
+ - 🚯 [`The Russian new T-90 tank is already in the United States, where it arrived from Ukraine. The Americans will be testing the armament installed on it.`](http://9gag.com/gag/aQEpwBe)<!-- MEMES:END -->
 
 --- 
 
