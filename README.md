@@ -189,8 +189,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Filing: in its case against Meta&#39;s Within acquisition, FTC asks a judge to remove some allegations about anticompetitive effects in the VR fitness apps market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/221007/p14#a221007p14)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [USB-C on iPhone is good - but not as an excuse for a bad law](https://appleinsider.com/articles/22/10/07/usb-c-on-iphone-is-good---but-not-an-excuse-for-a-bad-law?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Hellraiser&#39; Review: New Blood but Few Thrills in Reanimated Horror Classic     - CNET](https://www.cnet.com/culture/entertainment/hellraiser-review-new-pinhead-only-partly-revives-horror-classic/#ftag=CAD590a51e)
+ - [Best 5 Vitamins for Energy     - CNET](https://www.cnet.com/health/nutrition/best-5-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
