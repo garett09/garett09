@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance says it will cease trading Helium Network Tokens, or HNT, over the next week and advises users to close out their positions &lpar;Forbes&rpar;](http://www.techmeme.com/221007/p13#a221007p13)
- - [Chainsaw Man’s first episode hooked me with its gorgeously gory action](https://www.theverge.com/2022/10/7/23392714/chainsaw-man-episode-1-crunchyroll)
- - [How to manage iMessage storage in iOS 16 &amp; iPadOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-manage-imessage-storage-in-ios-16-ipados-16?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s fall event 2022: all the news from the online Surface event](https://www.theverge.com/23386652/microsoft-surface-fall-event-news-rumors-products-announcements)
+ - [‘Vote for Holly!’ Meet the cheerleaders of Fat Bear Week](https://www.theverge.com/2022/10/7/23392925/fat-bear-weeks-fans-katmai-national-park)
+ - [Biden’s Privacy Order Slaps a Band-Aid on the EU-US Data Crisis](https://www.wired.com/story/biden-eu-us-data-privacy-executive-order/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
