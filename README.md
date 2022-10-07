@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wonder, Emancipation, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [Biden signs an EO to implement Privacy Shield 2.0, the EU-US data transfer framework seeking to address EU concerns of surveillance by US intelligence agencies &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/221007/p9#a221007p9)
- - [OnePlus 7 and 7 Pro finally get stable Android 12 with Oxygen OS 12](https://www.androidauthority.com/oneplus-7-pro-updates-1007118/)<!-- TECH:END -->
+ - [One million Facebook users had passwords stolen by fake apps](https://appleinsider.com/articles/22/10/07/one-million-facebook-users-had-their-passwords-stolen-by-fake-apps?utm_medium=rss)
+ - [Amazon, Target, and Best Buy are throwing in up to $200 in gift cards when you buy the Pixel 7](https://www.theverge.com/2022/10/7/23391171/google-pixel-7-pixel-7-pro-airpods-pro-vizio-tv-fujifilm-mini-instax-11-kindle-oasis-deal-sale)
+ - [Google remembered the phone part of the smartphone](https://www.theverge.com/2022/10/7/23392422/google-phone-calls-pixel-7-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
