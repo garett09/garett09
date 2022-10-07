@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dear Disney Dreamlight Valley characters: Stop going to bed so damn early](https://www.polygon.com/23393298/disney-dreamlight-valley-mickey-mouse-sleep-too-early-friendship-level)
- - [Get instantly hooked on this free fishing puzzle browser game](https://www.pcgamer.com/get-instantly-hooked-on-this-free-fishing-puzzle-browser-game)
- - [This New Fantasy Action Game&#39;s Story Is As Great As Its Gameplay](https://kotaku.com/soulstice-hack-and-slash-review-berserk-devil-may-cry-1849632487)<!-- GAME:END -->
+ - [Hulu’s Hellraiser, Werewolf by Night, and every other movie you can stream from home this weekend](https://www.polygon.com/23386017/new-movies-watch-hellraiser-hulu-werewolf-by-night-disney-plus)
+ - [This gorgeous grid-based dungeon crawler is based on real folklore](https://www.pcgamer.com/this-gorgeous-grid-based-dungeon-crawler-is-based-on-real-folklore)
+ - [Oops: Valve Shows Switch Emulator In Steam Deck Vid, Then Deletes It](https://kotaku.com/yuzu-nintendo-switch-emulator-steam-deck-dock-valve-1849632836)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
