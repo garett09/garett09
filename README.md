@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Letterboxd? Meet the social media platform for movie buffs](https://www.androidauthority.com/what-is-letterboxd-3216354/)
- - [The Hottest Startups in Barcelona](https://www.wired.com/story/hottest-startups-in-barcelona-2022/)
- - [The Hottest Startups in Stockholm](https://www.wired.com/story/hottest-startups-in-stockholm-2022/)<!-- TECH:END -->
+ - [Meta warns 1M Facebook users that their account info may have been stolen by 400+ apps, often via a &quot;Login with Facebook&quot; button, on App Store and Google Play &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/221007/p5#a221007p5)
+ - [Poll: Are you on your phone during social gatherings?](https://www.androidauthority.com/use-phone-social-gatherings-poll-3217646/)
+ - [&#39;Knives Out&#39; Sequel Will Play in Theaters Thanksgiving Before Netflix Debut     - CNET](https://www.cnet.com/culture/entertainment/knives-out-sequel-will-arrive-in-theaters-thanksgiving-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
