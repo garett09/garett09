@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Pixel, Apple, and Galaxy watches compare on paper](https://www.theverge.com/2022/10/6/23391189/pixel-apple-samsung-galaxy-watch-comparison-specs-fitness)
- - [Amazon has stopped working on Scout, its autonomous home delivery robot that had been in testing since 2019; source: ~400 people were working on the project &lpar;Bloomberg&rpar;](http://www.techmeme.com/221006/p38#a221006p38)
- - [Pew: 6% of US adults regularly get news on BitChute, Gab, Gettr, Parler, Rumble, Telegram, or Truth Social, but no one site drew over 2% of those seeking news &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221006/p37#a221006p37)<!-- TECH:END -->
+ - [Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge](https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo)
+ - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-9-hit-disney-plus/#ftag=CAD590a51e)
+ - [First Super Mario Bros. Trailer Is Here: You Can Finally Hear Chris Pratt     - CNET](https://www.cnet.com/culture/entertainment/first-super-mario-bros-trailer-is-here-you-can-finally-hear-chris-pratt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
