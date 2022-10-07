@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ukrainian troops report widespread outages of Starlink devices, often in newly liberated territories where their advances have not been made public yet &lpar;Financial Times&rpar;](http://www.techmeme.com/221007/p11#a221007p11)
- - [EA’s new PC app is here to replace Origin](https://www.theverge.com/2022/10/7/23392775/ea-new-pc-app-launcher-replace-origin-macos)
- - [Sony Xperia 5 IV review: Pocket photography powerhouse](https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/)<!-- TECH:END -->
+ - [Can an artist sue over a virtual tattoo? It’s complicated](https://www.theverge.com/2022/10/7/23385673/take-two-2k-sports-tattoos-lawsuit-randy-orton-verdict)
+ - [Deals: Apple Watch Series 7 w/ cellular dips to lowest price ever at Amazon](https://appleinsider.com/articles/22/10/07/deals-apple-watch-series-7-w-cellular-dips-to-lowest-price-ever-at-amazon?utm_medium=rss)
+ - [The third generation Apple TV is still barely clinging on to life](https://appleinsider.com/articles/22/10/07/the-third-generation-apple-tv-is-still-barely-clinging-on-to-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
