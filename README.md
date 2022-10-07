@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Genshin Impact controls my life, but it’s consensual](https://www.polygon.com/reviews/23389752/genshin-impact-2022-review-hoyoverse-mihoyo-anniversary-sumeru)
- - [No Man&#39;s Sky Is Getting A Major Overhaul As It Launches On Switch](https://kotaku.com/slug-no-mans-sky-switch-update-inventory-crafting-over-1849630838)
- - [Stellaris&#39;s game director isn&#39;t thinking about a sequel: &#39;There&#39;s so much stuff for us to continue working with&#39;](https://www.pcgamer.com/stellariss-game-director-isnt-thinking-about-a-sequel-theres-so-much-stuff-for-us-to-continue-working-with)<!-- GAME:END -->
+ - [Overwatch 2 Chat Bug Is Randomly Buying Skins From The Shop](https://kotaku.com/overwatch-2-blizzard-chat-skin-bug-error-skin-1849631304)
+ - [Mindy Kaling reimagined Velma, but she wasn’t allowed to use Scooby-Doo](https://www.polygon.com/nycc/23392767/velma-nycc-trailer-scooby-doo-mindy-kaling)
+ - [Share of the Week: Customization](https://blog.playstation.com/2022/10/07/share-of-the-week-customization/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
