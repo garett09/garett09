@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power is holding Galadriel back](https://www.polygon.com/23391712/lord-rings-power-galadriel-episode-7)
- - [Official PlayStation Podcast Episode 442: Virtual Galaxy](https://blog.playstation.com/2022/10/07/official-playstation-podcast-episode-442-virtual-galaxy/)
- - [Of course everyone&#39;s Dreamlight Valley villages are prettier than mine](https://www.pcgamer.com/of-course-everyones-dreamlight-valley-villages-are-prettier-than-mine)<!-- GAME:END -->
+ - [Dear Disney Dreamlight Valley characters: Stop going to bed so damn early](https://www.polygon.com/23393298/disney-dreamlight-valley-mickey-mouse-sleep-too-early-friendship-level)
+ - [Get instantly hooked on this free fishing puzzle browser game](https://www.pcgamer.com/get-instantly-hooked-on-this-free-fishing-puzzle-browser-game)
+ - [This New Fantasy Action Game&#39;s Story Is As Great As Its Gameplay](https://kotaku.com/soulstice-hack-and-slash-review-berserk-devil-may-cry-1849632487)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
