@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge](https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo)
- - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-9-hit-disney-plus/#ftag=CAD590a51e)
- - [First Super Mario Bros. Trailer Is Here: You Can Finally Hear Chris Pratt     - CNET](https://www.cnet.com/culture/entertainment/first-super-mario-bros-trailer-is-here-you-can-finally-hear-chris-pratt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US plans to spare SK Hynix and Samsung from the brunt of new restrictions on DRAM and NAND chipmakers in China planned to be released this week &lpar;Reuters&rpar;](http://www.techmeme.com/221006/p42#a221006p42)
+ - [Best Air Purifier for 2022, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)
+ - [Samsung says its Q3 profit dropped 31.7% YoY to $7.7B amid inflation and estimates that revenue for Q3 increased 2.7% to about $53B &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/221006/p41#a221006p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
