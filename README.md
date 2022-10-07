@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s Griffin Time](http://9gag.com/gag/anzXwAV)
- - 🚯 [Trophies for the Ukrainians](http://9gag.com/gag/anzXm5L)
- - 🚯 [Abandoned Russian tank recovered for the UAF &lpar;bit sped up&rpar;](http://9gag.com/gag/aDYwK4B)<!-- MEMES:END -->
+ - 🚖 [Fireworks in the back of a car](http://9gag.com/gag/a2KPpb1)
+ - 🚯 [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)
+ - 🚯 [First trailer of the `Super Mario bros movie`](http://9gag.com/gag/aGEVmOG)<!-- MEMES:END -->
 
 --- 
 
