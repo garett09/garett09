@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One million Facebook users had their passwords stolen by fake apps](https://appleinsider.com/articles/22/10/07/one-million-facebook-users-had-their-passwords-stolen-by-fake-apps?utm_medium=rss)
- - [Now the iPod inventor is calling out iPhones for not using USB-C](https://www.androidauthority.com/ipod-inventor-apple-iphones-usb-c-3217687/)
- - [Netflix’s The Midnight Club is a haunting collection of teenage ghost stories](https://www.theverge.com/23391726/the-midnight-club-review-netflix)<!-- TECH:END -->
+ - [The Wonder, Emancipation, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [Biden signs an EO to implement Privacy Shield 2.0, the EU-US data transfer framework seeking to address EU concerns of surveillance by US intelligence agencies &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/221007/p9#a221007p9)
+ - [OnePlus 7 and 7 Pro finally get stable Android 12 with Oxygen OS 12](https://www.androidauthority.com/oneplus-7-pro-updates-1007118/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
