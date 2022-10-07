@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bring back](http://9gag.com/gag/a7qKXxr)
- - 🚯 [Not for everyone, but still funny](http://9gag.com/gag/aKEgQBZ)
- - 🚯 [The mythical seks.](http://9gag.com/gag/a7qKYde)<!-- MEMES:END -->
+ - 🚖 [It\u2019s Griffin Time](http://9gag.com/gag/anzXwAV)
+ - 🚯 [Trophies for the Ukrainians](http://9gag.com/gag/anzXm5L)
+ - 🚯 [Abandoned Russian tank recovered for the UAF &lpar;bit sped up&rpar;](http://9gag.com/gag/aDYwK4B)<!-- MEMES:END -->
 
 --- 
 
