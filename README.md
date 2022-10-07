@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just an inch a month, no worries, mkay?](http://9gag.com/gag/ago0ppn)
- - 🚯 [Kids beware](http://9gag.com/gag/a8qbRO6)
- - 🚯 [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)<!-- MEMES:END -->
+ - 🚖 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
+ - 🚯 [Billy Joel](http://9gag.com/gag/avQZNXO)
+ - 🚯 [The good ol...](http://9gag.com/gag/a7qKzvL)<!-- MEMES:END -->
 
 --- 
 
