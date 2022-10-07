@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black Templar Initiate](http://9gag.com/gag/aMEb7EX)
- - 🚯 [Literal slits as eyes](http://9gag.com/gag/aQEpwvW)
- - 🚯 [Why Magneto Can Never Be In the MCU](http://9gag.com/gag/ago0Rgr)<!-- MEMES:END -->
+ - 🚖 [Something](http://9gag.com/gag/az2L0dq)
+ - 🚯 [Why Magneto Can Never Be In the MCU](http://9gag.com/gag/ago0Rgr)
+ - 🚯 [Pillow master - ultra instinct](http://9gag.com/gag/a04PmqZ)<!-- MEMES:END -->
 
 --- 
 
