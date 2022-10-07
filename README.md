@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend of Vox Machina will get messy in season 2, full of dragons through season 3](https://www.polygon.com/nycc/23392562/legend-vox-machina-season-2-3-critical-role-nycc-cast)
- - [Public voting now open in the Golden Joystick&#39;s 40th anniversary awards](https://www.pcgamer.com/public-voting-now-open-in-the-golden-joysticks-40th-anniversary-awards)
- - [Make your gaming experience bulletproof with Decksaver&#39;s ultra-durable keyboard covers](https://www.pcgamer.com/make-your-gaming-experience-bulletproof-with-decksavers-ultra-durable-keyboard-covers)<!-- GAME:END -->
+ - [Yes, Genshin Impact controls my life, but it’s consensual](https://www.polygon.com/reviews/23389752/genshin-impact-2022-review-hoyoverse-mihoyo-anniversary-sumeru)
+ - [No Man&#39;s Sky Is Getting A Major Overhaul As It Launches On Switch](https://kotaku.com/slug-no-mans-sky-switch-update-inventory-crafting-over-1849630838)
+ - [Stellaris&#39;s game director isn&#39;t thinking about a sequel: &#39;There&#39;s so much stuff for us to continue working with&#39;](https://www.pcgamer.com/stellariss-game-director-isnt-thinking-about-a-sequel-theres-so-much-stuff-for-us-to-continue-working-with)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
