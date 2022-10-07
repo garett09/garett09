@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta be 2 steps ahead](http://9gag.com/gag/awZbDwB)
- - 🚯 [Biology teacher who was suspended because he refused to follow the mandated gender pronouns set by school district fought back and won. Gender policy suspended instead.](http://9gag.com/gag/aDYwEgd)
- - 🚯 [Weekend Compilation](http://9gag.com/gag/aBdQ7v2)<!-- MEMES:END -->
+ - 🚖 [Best interview EVER!](http://9gag.com/gag/avQZNmO)
+ - 🚯 [Links in comments](http://9gag.com/gag/aMEb3EA)
+ - 🚯 [Meal](http://9gag.com/gag/a8qbPWp)<!-- MEMES:END -->
 
 --- 
 
