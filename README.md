@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valkyrie Elysium: The Kotaku Review](https://kotaku.com/valkyrie-elysium-review-square-enix-action-rpg-ps5-pc-1849625574)
- - [No Man’s Sky WayPoint Update &lpar;4.0&rpar; Overhauls Gameplay Fundamentals](https://blog.playstation.com/2022/10/07/no-mans-sky-waypoint-update-4-0-overhauls-gameplay-fundamentals/)
- - [No Man&#39;s Sky&#39;s new update is for space captains who &#39;just want to chill out&#39;](https://www.pcgamer.com/no-mans-skys-new-update-is-for-space-captains-who-just-want-to-chill-out)<!-- GAME:END -->
+ - [The His Dark Materials season 3 trailer brings the wild Amber Spyglass to life](https://www.polygon.com/nycc/23389342/his-dark-materials-season-3-trailer-amber-spyglass)
+ - [New Nvidia PC Graphics Cards Are Nearly As Big As A PS5 &lpar;And Power Hogs, Too&rpar;](https://kotaku.com/nvidia-4090-size-4000-rtx-gpu-pc-release-date-1849629981)
+ - [Next Week on Xbox: New Games for October 10 to 14](https://news.xbox.com/en-us/2022/10/07/next-week-on-xbox-new-games-for-october-10-to-14/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
