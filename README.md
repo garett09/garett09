@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can an artist sue over a virtual tattoo? It’s complicated](https://www.theverge.com/2022/10/7/23385673/take-two-2k-sports-tattoos-lawsuit-randy-orton-verdict)
- - [Deals: Apple Watch Series 7 w/ cellular dips to lowest price ever at Amazon](https://appleinsider.com/articles/22/10/07/deals-apple-watch-series-7-w-cellular-dips-to-lowest-price-ever-at-amazon?utm_medium=rss)
- - [The third generation Apple TV is still barely clinging on to life](https://appleinsider.com/articles/22/10/07/the-third-generation-apple-tv-is-still-barely-clinging-on-to-life?utm_medium=rss)<!-- TECH:END -->
+ - [Binance says it will cease trading Helium Network Tokens, or HNT, over the next week and advises users to close out their positions &lpar;Forbes&rpar;](http://www.techmeme.com/221007/p13#a221007p13)
+ - [Chainsaw Man’s first episode hooked me with its gorgeously gory action](https://www.theverge.com/2022/10/7/23392714/chainsaw-man-episode-1-crunchyroll)
+ - [How to manage iMessage storage in iOS 16 &amp; iPadOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-manage-imessage-storage-in-ios-16-ipados-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
