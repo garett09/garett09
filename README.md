@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta warns 1M Facebook users that their account info may have been stolen by 400+ apps, often via a &quot;Login with Facebook&quot; button, on App Store and Google Play &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/221007/p5#a221007p5)
- - [Poll: Are you on your phone during social gatherings?](https://www.androidauthority.com/use-phone-social-gatherings-poll-3217646/)
- - [&#39;Knives Out&#39; Sequel Will Play in Theaters Thanksgiving Before Netflix Debut     - CNET](https://www.cnet.com/culture/entertainment/knives-out-sequel-will-arrive-in-theaters-thanksgiving-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One million Facebook users had their passwords stolen by fake apps](https://appleinsider.com/articles/22/10/07/one-million-facebook-users-had-their-passwords-stolen-by-fake-apps?utm_medium=rss)
+ - [Now the iPod inventor is calling out iPhones for not using USB-C](https://www.androidauthority.com/ipod-inventor-apple-iphones-usb-c-3217687/)
+ - [Netflix’s The Midnight Club is a haunting collection of teenage ghost stories](https://www.theverge.com/23391726/the-midnight-club-review-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
