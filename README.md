@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve edits Steam Deck trailer to remove Nintendo Switch emulator icon](https://www.pcgamer.com/valve-edits-steam-deck-trailer-to-remove-nintendo-switch-emulator-icon)
- - [Here&#39;s a survival game first: I just went fishing for giant moths off the edge of my blimp](https://www.pcgamer.com/heres-a-survival-game-first-i-just-went-fishing-for-giant-moths-off-the-edge-of-my-blimp)
- - [EA&#39;s Origin is officially dead](https://www.pcgamer.com/eas-origin-is-officially-dead)<!-- GAME:END -->
+ - [Major game studios believed this company was providing experienced, well-staffed QA teams—employees say that was a lie](https://www.pcgamer.com/quantic-QA-tester-report)
+ - [Hellraiser director flays open the movie’s wicked ending](https://www.polygon.com/entertainment/23391342/hellraiser-movie-ending-explained-david-bruckner)
+ - [Valve edits Steam Deck trailer to remove Nintendo Switch emulator icon](https://www.pcgamer.com/valve-edits-steam-deck-trailer-to-remove-nintendo-switch-emulator-icon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
