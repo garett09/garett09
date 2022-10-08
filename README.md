@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only way this war can end.](http://9gag.com/gag/aXnE8pV)
- - 🚯 [I want to work for uber](http://9gag.com/gag/az2Eb5B)
- - 🚯 [Memes in real life](http://9gag.com/gag/a8qYWgO)<!-- MEMES:END -->
+ - 🚖 [It breaks when you eat too much... it only took a month](http://9gag.com/gag/aREPQ6q)
+ - 🚯 [Chile referendum annexes the entire west coast of America to create the Long Chile Empire](http://9gag.com/gag/a1PeAq6)
+ - 🚯 [You Did It. The Crazy Son of a B*tch, You Did It](http://9gag.com/gag/avQgZ8n)<!-- MEMES:END -->
 
 --- 
 
