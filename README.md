@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [:&rpar;](http://9gag.com/gag/aOxbV3N)
- - 🚯 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
- - 🚯 [Sorry for twitter btw](http://9gag.com/gag/a3Z3Bjr)<!-- MEMES:END -->
+ - 🚖 [Well\u2026 for once I must agree with him](http://9gag.com/gag/a3Z3Ber)
+ - 🚯 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 🚯 [Wait for it...](http://9gag.com/gag/a04Lp5d)<!-- MEMES:END -->
 
 --- 
 
