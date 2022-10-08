@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop controlling life so much](http://9gag.com/gag/aDY33bZ)
- - 🚯 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 🚯 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
+ - 🚖 [Just a little bang](http://9gag.com/gag/aVbWW6P)
+ - 🚯 [Wtf Is this?](http://9gag.com/gag/aqeNm8Z)
+ - 🚯 [Went to uni for Engineering degree. Learned pronouns and multiple kinds of gender](http://9gag.com/gag/a04LL4Z)<!-- MEMES:END -->
 
 --- 
 
