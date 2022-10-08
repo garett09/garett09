@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds good to me.](http://9gag.com/gag/aVbQ5Gd)
- - 🚯 [Smooth criminal](http://9gag.com/gag/aqeN94R)
- - 🚯 [The true \u201cDiversity is our strength\u201d](http://9gag.com/gag/aMEr2VP)<!-- MEMES:END -->
+ - 🚖 [The only way this war can end.](http://9gag.com/gag/aXnE8pV)
+ - 🚯 [I want to work for uber](http://9gag.com/gag/az2Eb5B)
+ - 🚯 [Memes in real life](http://9gag.com/gag/a8qYWgO)<!-- MEMES:END -->
 
 --- 
 
