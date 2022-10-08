@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Went to uni for Engineering degree. Learned pronouns and multiple kinds of gender](http://9gag.com/gag/a04LL4Z)
- - 🚯 [The true \u201cDiversity is our strength\u201d](http://9gag.com/gag/aMEr2VP)
- - 🚯 [It took 5 hours for Russians to finally get to the bridge to put the fire out. Their emergency response is as capable as their military.](http://9gag.com/gag/aA0rr10)<!-- MEMES:END -->
+ - 🚖 [Stop controlling life so much](http://9gag.com/gag/aDY33bZ)
+ - 🚯 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 🚯 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
 
 --- 
 
