@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
- - 🚯 [Let&#39;s give it a try](http://9gag.com/gag/aL1PBAv)
- - 🚯 [When you know all the combos](http://9gag.com/gag/a1Pee76)<!-- MEMES:END -->
+ - 🚖 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
+ - 🚯 [Davy Jones](http://9gag.com/gag/aKEPgKZ)
+ - 🚯 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)<!-- MEMES:END -->
 
 --- 
 
