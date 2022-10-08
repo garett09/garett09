@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The future of the X-Men will be glam fabulous in Marvel’s Sins of Sinister crossover](https://www.polygon.com/nycc/23394112/marvel-comics-x-men-crossover-sins-of-sinister-checklist)
- - [Modern Warfare 2 trailer outlines PC features](https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features)
- - [Who is Galadriel’s husband in The Rings of Power? Wrong answers only.](https://www.polygon.com/23391920/lord-rings-power-galadriel-husband-celeborn)<!-- GAME:END -->
+ - [Capcom&#39;s interactive spy comedy movie Fox Hunt was probably better left forgotten](https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt)
+ - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)
+ - [Here&#39;s a beautifully animated 2D cat platformer](https://www.pcgamer.com/heres-a-beautifully-animated-2d-cat-platformer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
