@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The future of the X-Men will be glam fabulous in Marvel’s Sins of Sinister crossover](https://www.polygon.com/nycc/23394112/marvel-comics-x-men-crossover-sins-of-sinister-checklist)
  - [Modern Warfare 2 trailer outlines PC features](https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features)
- - [Who is Galadriel’s husband in The Rings of Power? Wrong answers only.](https://www.polygon.com/23391920/lord-rings-power-galadriel-husband-celeborn)
- - [DC’s unprecedented new subscription tier let’s you read new comics after only a month](https://www.polygon.com/23394145/dc-comics-subscription-infinite-ultra-price)<!-- GAME:END -->
+ - [Who is Galadriel’s husband in The Rings of Power? Wrong answers only.](https://www.polygon.com/23391920/lord-rings-power-galadriel-husband-celeborn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
