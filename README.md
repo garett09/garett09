@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a little bang](http://9gag.com/gag/aVbWW6P)
- - 🚯 [Wtf Is this?](http://9gag.com/gag/aqeNm8Z)
+ - 🚖 [\u041a\u0440\u0438\u043c \u0446\u0435 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \ud83c\uddfa\ud83c\udde6 Happy birthday KHUILO!](http://9gag.com/gag/a9qLLv1)
+ - 🚯 [Sound off...](http://9gag.com/gag/aA0rpRg)
  - 🚯 [Went to uni for Engineering degree. Learned pronouns and multiple kinds of gender](http://9gag.com/gag/a04LL4Z)<!-- MEMES:END -->
 
 --- 
