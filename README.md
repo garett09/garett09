@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it...](http://9gag.com/gag/a04Lp5d)
- - 🚯 [\u041a\u0440\u0438\u043c \u0446\u0435 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \ud83c\uddfa\ud83c\udde6 Happy birthday KHUILO!](http://9gag.com/gag/a9qLLv1)
- - 🚯 [MITHRANDIR IS WITH US!](http://9gag.com/gag/aL1PBw6)<!-- MEMES:END -->
+ - 🚖 [:&rpar;](http://9gag.com/gag/aOxbV3N)
+ - 🚯 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
+ - 🚯 [Sorry for twitter btw](http://9gag.com/gag/a3Z3Bjr)<!-- MEMES:END -->
 
 --- 
 
