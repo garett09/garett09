@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX partners with Visa to offer debit cards linked directly to a user&#39;s FTX account in 40 countries, with a focus on Latin America, Europe, and Asia &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/221007/p16#a221007p16)
- - [Meta’s making it easier to report bugs in its Horizon VR app](https://www.theverge.com/2022/10/7/23393285/meta-horizon-worlds-bug-reporting-metaverse)
- - [Hearing Aids You Can Get at the Store Will Be Here Soon     - CNET](https://www.cnet.com/health/medical/hearing-aids-you-can-get-at-the-store-will-be-here-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Midnight Club:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Best Leather Cleaners and Conditioners for Cars 2022: Lexol, 3D and More     - CNET](https://www.cnet.com/roadshow/news/best-leather-conditioner-for-cars/#ftag=CAD590a51e)
+ - [Huobi, a top-10 crypto exchange by trading volume, has agreed to be acquired by Hong Kong-based About Capital; terms of the deal were not disclosed &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/221007/p18#a221007p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
