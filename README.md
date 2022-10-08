@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)
+ - 🚖 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
  - 🚯 [The culprit](http://9gag.com/gag/a7qyK0q)
- - 🚯 [Crimea Bridge destroyed, now Lissabon Bridge is the longest bridge in Europe again](http://9gag.com/gag/arm441V)<!-- MEMES:END -->
+ - 🚯 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
 
 --- 
 
