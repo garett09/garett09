@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It breaks when you eat too much... it only took a month](http://9gag.com/gag/aREPQ6q)
- - 🚯 [Damn he speaks flawless korean](http://9gag.com/gag/a1PeZo2)
- - 🚯 [Dude, Ukrainian MOD is a troll](http://9gag.com/gag/a3Z3dW7)<!-- MEMES:END -->
+ - 🚖 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)
+ - 🚯 [The culprit](http://9gag.com/gag/a7qyK0q)
+ - 🚯 [Crimea Bridge destroyed, now Lissabon Bridge is the longest bridge in Europe again](http://9gag.com/gag/arm441V)<!-- MEMES:END -->
 
 --- 
 
