@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel’s scrollable, phone-friendly comics gamble is paying off](https://www.polygon.com/23387106/marvel-unlimited-infinity-comics-jeff-the-shark)
  - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)
- - [YouTuber Etika&#39;s JoyConBoyz Hype Lives On Forever](https://kotaku.com/etika-mural-desmond-daniel-amofah-joycon-boyz-nintendo-1849632831)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [YouTuber Etika&#39;s JoyConBoyz Hype Lives On Forever](https://kotaku.com/etika-mural-desmond-daniel-amofah-joycon-boyz-nintendo-1849632831)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
