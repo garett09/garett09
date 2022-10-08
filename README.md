@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Dunkley Pramotor, launched in 1923, allowed mothers and nannies to effortlessly take baby on a trip around town.](http://9gag.com/gag/az2Eggb)
+ - 🚖 [It breaks when you eat too much... it only took a month](http://9gag.com/gag/aREPQ6q)
  - 🚯 [Damn he speaks flawless korean](http://9gag.com/gag/a1PeZo2)
- - 🚯 [Kerch bridge security camera footage. Sorry for watermark](http://9gag.com/gag/az2ELdp)<!-- MEMES:END -->
+ - 🚯 [Dude, Ukrainian MOD is a troll](http://9gag.com/gag/a3Z3dW7)<!-- MEMES:END -->
 
 --- 
 
