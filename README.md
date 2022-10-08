@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Play a weird wordle-like where you guess what prompt an image generator used](https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used)
  - [Capcom&#39;s interactive spy comedy movie Fox Hunt was probably better left forgotten](https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt)
- - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)
- - [Here&#39;s a beautifully animated 2D cat platformer](https://www.pcgamer.com/heres-a-beautifully-animated-2d-cat-platformer)<!-- GAME:END -->
+ - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
