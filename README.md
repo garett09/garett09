@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - 🚯 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 🚯 [What the Fu-](http://9gag.com/gag/aoK0jYx)<!-- MEMES:END -->
+ - 🚖 [Wait for it...](http://9gag.com/gag/a04Lp5d)
+ - 🚯 [\u041a\u0440\u0438\u043c \u0446\u0435 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \ud83c\uddfa\ud83c\udde6 Happy birthday KHUILO!](http://9gag.com/gag/a9qLLv1)
+ - 🚯 [MITHRANDIR IS WITH US!](http://9gag.com/gag/aL1PBw6)<!-- MEMES:END -->
 
 --- 
 
