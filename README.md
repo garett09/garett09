@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paper plane origami + instructions!](http://9gag.com/gag/aBdQq2A)
- - 🚯 [What](http://9gag.com/gag/az2E72z)
- - 🚯 [Dudu du du do du do dododododo](http://9gag.com/gag/adPYy6Z)<!-- MEMES:END -->
+ - 🚖 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)
+ - 🚯 [Sturdy](http://9gag.com/gag/adPY0eD)
+ - 🚯 [Smooth criminal](http://9gag.com/gag/aqeN94R)<!-- MEMES:END -->
 
 --- 
 
