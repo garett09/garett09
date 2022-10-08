@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spooktober has arrived](http://9gag.com/gag/az2Ln2z)
- - 🚯 [They\u2019re siblings](http://9gag.com/gag/a2KYEVw)
- - 🚯 [The true \u201cDiversity is our strength\u201d](http://9gag.com/gag/aMEr2VP)<!-- MEMES:END -->
+ - 🚖 [Officer abruptly opened car door and fired at teen, who&#39;s actually innocent and just eating a burger in his car outside of McDonald&#39;s](http://9gag.com/gag/aGEwKAn)
+ - 🚯 [Competitive salary is competitive.](http://9gag.com/gag/aPg4wWw)
+ - 🚯 [Birthday of the loser #1](http://9gag.com/gag/adPY07Z)<!-- MEMES:END -->
 
 --- 
 
