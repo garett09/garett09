@@ -196,8 +196,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - 🚯 [Davy Jones](http://9gag.com/gag/aKEPgKZ)
- - 🚯 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)<!-- MEMES:END -->
+ - 🚯 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 🚯 [What the Fu-](http://9gag.com/gag/aoK0jYx)<!-- MEMES:END -->
 
 --- 
 
