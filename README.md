@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 476 answer and hint: Saturday, October 8](https://www.pcgamer.com/todays-wordle-476-answer-hint)
- - [Werewolf by Night refuses to call its monster by his real name](https://www.polygon.com/23393132/marvel-werewolf-by-night-swamp-man-thing)
- - [Teen Wolf: The Movie, Wolf Pack expand the gorgeous wolf-people universe](https://www.polygon.com/nycc/23393734/teen-wolf-movie-video-wolf-pack-trailer-nycc)<!-- GAME:END -->
+ - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)
+ - [YouTuber Etika&#39;s JoyConBoyz Hype Lives On Forever](https://kotaku.com/etika-mural-desmond-daniel-amofah-joycon-boyz-nintendo-1849632831)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
