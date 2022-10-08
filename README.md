@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Andor&#39; Release Schedule: When Does Episode 6 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-6-hit-disney-plus/#ftag=CAD590a51e)
  - [&#39;The Midnight Club:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [Best Leather Cleaners and Conditioners for Cars 2022: Lexol, 3D and More     - CNET](https://www.cnet.com/roadshow/news/best-leather-conditioner-for-cars/#ftag=CAD590a51e)
- - [Huobi, a top-10 crypto exchange by trading volume, has agreed to be acquired by Hong Kong-based About Capital; terms of the deal were not disclosed &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/221007/p18#a221007p18)<!-- TECH:END -->
+ - [Best Leather Cleaners and Conditioners for Cars 2022: Lexol, 3D and More     - CNET](https://www.cnet.com/roadshow/news/best-leather-conditioner-for-cars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
