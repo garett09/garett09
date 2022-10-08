@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hottest Startups in Tel Aviv](https://www.wired.com/story/hottest-startups-in-tel-aviv-2022/)
- - [The Hottest Startups in Amsterdam](https://www.wired.com/story/hottest-startups-amsterdam-2022/)
- - [What Makes a Champagne Vintage Great? Ask a Deep Learning Model](https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/)<!-- TECH:END -->
+ - [A look at Ukraine&#39;s efforts to block crypto donations to Russia&#39;s military and paramilitary groups, who researchers say have received $4M+ since the invasion &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221008/p7#a221008p7)
+ - [Daily deals Oct. 8: $150 off Apple Watch Series 7, $500 off 11-inch iPad Pro, Pad &amp; Quill discounts](https://appleinsider.com/articles/22/10/08/daily-deals-oct-8-150-off-apple-watch-series-7-500-off-11-inch-ipad-pro-pad-quill-discounts?utm_medium=rss)
+ - [Gather around, pet owners: I found the purr-fect phone for you](https://www.androidauthority.com/galaxy-z-flip-4-flex-mode-single-take-pets-3212299/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
