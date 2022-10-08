@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well\u2026 for once I must agree with him](http://9gag.com/gag/a3Z3Ber)
- - 🚯 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 🚯 [Wait for it...](http://9gag.com/gag/a04Lp5d)<!-- MEMES:END -->
+ - 🚖 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
+ - 🚯 [Wait for it...](http://9gag.com/gag/a04Lp5d)
+ - 🚯 [Putting the needles on an artificial tree](http://9gag.com/gag/aMEr9bA)<!-- MEMES:END -->
 
 --- 
 
