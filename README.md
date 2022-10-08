@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Officer abruptly opened car door and fired at teen, who&#39;s actually innocent and just eating a burger in his car outside of McDonald&#39;s](http://9gag.com/gag/aGEwKAn)
- - 🚯 [Competitive salary is competitive.](http://9gag.com/gag/aPg4wWw)
- - 🚯 [Birthday of the loser #1](http://9gag.com/gag/adPY07Z)<!-- MEMES:END -->
+ - 🚖 [Paper plane origami + instructions!](http://9gag.com/gag/aBdQq2A)
+ - 🚯 [What](http://9gag.com/gag/az2E72z)
+ - 🚯 [Dudu du du do du do dododododo](http://9gag.com/gag/adPYy6Z)<!-- MEMES:END -->
 
 --- 
 
