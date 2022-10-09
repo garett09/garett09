@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)
- - 🚯 [No rent no service](http://9gag.com/gag/avQgOzX)
- - 🚯 [Confess](http://9gag.com/gag/amA0BL6)<!-- MEMES:END -->
+ - 🚖 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
+ - 🚯 [That is huge](http://9gag.com/gag/a7qy3Lq)
+ - 🚯 [Lets do this!](http://9gag.com/gag/ay20X6b)<!-- MEMES:END -->
 
 --- 
 
