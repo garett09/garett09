@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone hasn&#39;t noticed yet?](http://9gag.com/gag/aGEw02K)
- - 🚯 [Equal rights mean...](http://9gag.com/gag/aXnpA5g)
- - 🚯 [Photographer Varun Aditya captured this impressive clip without a flash in the Zimanga Private Game reserve in South Africa, staying for three nights in a hide to patiently wait for the pride of lions](http://9gag.com/gag/aVbWDEK)<!-- MEMES:END -->
+ - 🚖 [F**k you Studio Trigger](http://9gag.com/gag/arm4OxV)
+ - 🚯 [The drop](http://9gag.com/gag/aQE4MK8)
+ - 🚯 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
 
 --- 
 
