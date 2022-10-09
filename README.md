@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - 🚯 [I have like 6\u2026](http://9gag.com/gag/abvy028)
- - 🚯 [Putting the needles on an artificial tree](http://9gag.com/gag/aMEr9bA)<!-- MEMES:END -->
+ - 🚖 [How to get an Asian girl!](http://9gag.com/gag/aDY3oGx)
+ - 🚯 [Crab amputates its own claw](http://9gag.com/gag/anzKq80)
+ - 🚯 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
 
 --- 
 
