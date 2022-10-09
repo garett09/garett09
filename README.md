@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why It’s the Age of the Investor-Entrepreneur](https://www.wired.com/story/investor-entrepreneur/)
- - [Europe’s Plan to Beat Silicon Valley at Its Own Game](https://www.wired.com/story/europe-beat-silicon-valley-startups/)
- - [SD Card Speeds and What They Mean: UHS-1, V60, Class 10](https://www.wired.com/story/sd-card-speeds-explained/)<!-- TECH:END -->
+ - [Jaxson Compact Standing Desk Review: A great desk for home and office](https://appleinsider.com/articles/22/10/09/jaxson-compact-standing-desk-review-a-great-desk-for-home-and-office?utm_medium=rss)
+ - [Experts paint a dire picture for China&#39;s semiconductor industry and AI development after the US announced new export controls on chips and chipmaking tech &lpar;Financial Times&rpar;](http://www.techmeme.com/221009/p6#a221009p6)
+ - [Don’t buy a gaming monitor unless you really, truly need one](https://www.androidauthority.com/lg-ultragear-27gn950-3211309/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
