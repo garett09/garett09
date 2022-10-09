@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press [Crow] to crow](http://9gag.com/gag/a9qLWXW)
- - 🚯 [Consistency is key](http://9gag.com/gag/amA0YK2)
- - 🚯 [Ukrainian 45th artillary brigade destroyed Russian base](http://9gag.com/gag/a2KYrG1)<!-- MEMES:END -->
+ - 🚖 [Ukrainian 45th artillary brigade destroyed Russian base](http://9gag.com/gag/a2KYrG1)
+ - 🚯 [Took me a minute](http://9gag.com/gag/axoZVOn)
+ - 🚯 [Yes, biocomputers](http://9gag.com/gag/arm4bDB)<!-- MEMES:END -->
 
 --- 
 
