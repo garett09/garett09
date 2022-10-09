@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice guys finish?](http://9gag.com/gag/aGEw03X)
- - 🚯 [They strike again](http://9gag.com/gag/aDY3W8N)
- - 🚯 [Reminds me of the rolling rock ball in Elder Ring](http://9gag.com/gag/anzKy1o)<!-- MEMES:END -->
+ - 🚖 [Video today from the Kerch bridge. Remember tonights video of Russia claiming the railroad was operational again, and traffic would continue as normal. To everyone&#39;s surprise, the Russians lied again. The traincarts has most likley melted onto the rail lines.](http://9gag.com/gag/aBd3WOO)
+ - 🚯 [Reminds me of the rolling rock ball in Elder Ring](http://9gag.com/gag/anzKy1o)
+ - 🚯 [Nice guys finish?](http://9gag.com/gag/aGEw03X)<!-- MEMES:END -->
 
 --- 
 
