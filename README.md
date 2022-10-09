@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moscow resident Oleg Vasiliev, who suffers from spinal muscular atrophy &lpar;SMA&rpar; received a summons as part of partial mobilization. Try to avoid the muddy roads Oleg.](http://9gag.com/gag/a4odGBm)
- - 🚯 [Sorry....](http://9gag.com/gag/aqeN1GM)
- - 🚯 [Right in the feels](http://9gag.com/gag/aEq1YO9)<!-- MEMES:END -->
+ - 🚖 [Putin made cleansing in his army high command. Including promoting Ramzan Kadyrov for Colonel General rank. A third highest command in Russian army. Just for the context of their quality and standards...](http://9gag.com/gag/aVbW3qn)
+ - 🚯 [Moscow resident Oleg Vasiliev, who suffers from spinal muscular atrophy &lpar;SMA&rpar; received a summons as part of partial mobilization. Try to avoid the muddy roads Oleg.](http://9gag.com/gag/a4odGBm)
+ - 🚯 [Amazing](http://9gag.com/gag/anzKM1z)<!-- MEMES:END -->
 
 --- 
 
