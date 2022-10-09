@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - 🚯 [Wait for it...](http://9gag.com/gag/a04Lp5d)
+ - 🚯 [I have like 6\u2026](http://9gag.com/gag/abvy028)
  - 🚯 [Putting the needles on an artificial tree](http://9gag.com/gag/aMEr9bA)<!-- MEMES:END -->
 
 --- 
