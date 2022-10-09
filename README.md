@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DC Universe Infinite launches Ultra tier so you can read new comics sooner](https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription)
- - [Blizzard will require Overwatch 2 and Modern Warfare 2 players to use SMS Protect, a 2FA system, to combat toxicity, but won&#39;t accept prepaid and VOIP numbers &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/221008/p12#a221008p12)
- - [Star Trek: Picard&#39;s latest teaser reveals some unexpected comebacks](https://www.theverge.com/2022/10/8/23394274/star-trek-latest-picard-teaser-surprises-james-moriarty-lore)<!-- TECH:END -->
+ - [Best King Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Best Holiday Gifts for In-Laws in 2022     - CNET](https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CAD590a51e)
+ - [New York City-based Alkymi, which offers no-code workflow automation tools for business users, raised a $21M Series A led by Intel Capital &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221008/p13#a221008p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
