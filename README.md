@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Juggernaut](http://9gag.com/gag/aNwZAVG)
- - 🚯 [Iran: A woman riding a motorcycle without hijab....women in iran are also not allowed to ride motorcycles.](http://9gag.com/gag/a5XPnxg)
- - 🚯 [Hell yeah](http://9gag.com/gag/aqeN7zj)<!-- MEMES:END -->
+ - 🚖 [Waking up and seeing Ukrainian advances](http://9gag.com/gag/a7qyMx2)
+ - 🚯 [No rent no service](http://9gag.com/gag/avQgOzX)
+ - 🚯 [Iranian regime&#39;s anti riot police going around and destroying people&#39;s security cameras so they can get away with their crimes](http://9gag.com/gag/a3Z3KOr)<!-- MEMES:END -->
 
 --- 
 
