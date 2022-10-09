@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some iPhone 14 users say the crash detection feature has triggered false alarms and called 911 during rollercoaster rides or after a phone drop while driving &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/221009/p10#a221009p10)
- - [Twitter locks Kanye West out of his account following anti-Semitic post](https://www.theverge.com/2022/10/9/23395490/twitter-lock-kanye-west-out-account-following-anti-semitic-post)
- - [SanDisk Professional G-Drive review: Fast enterprise-grade external hard drive for your Mac](https://appleinsider.com/articles/22/10/09/sandisk-professional-g-drive-review-fast-enterprise-grade-external-hard-drive-for-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [A Dutch court calls webcam tracking of a remote worker an unreasonable intrusion, awarding him &amp;euro;75K after his US employer fired him for not turning on a webcam &lpar;NL Times&rpar;](http://www.techmeme.com/221009/p11#a221009p11)
+ - [Next iPhone SE could look very much like an iPhone XR](https://appleinsider.com/articles/22/10/09/fourth-gen-iphone-se-could-get-a-61-inch-screen-with-notch?utm_medium=rss)
+ - [Google’s getting rid of its standalone Driving Mode dashboard](https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
