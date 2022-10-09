@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian 45th artillary brigade destroyed Russian base](http://9gag.com/gag/a2KYrG1)
- - 🚯 [Took me a minute](http://9gag.com/gag/axoZVOn)
- - 🚯 [Yes, biocomputers](http://9gag.com/gag/arm4bDB)<!-- MEMES:END -->
+ - 🚖 [Juggernaut](http://9gag.com/gag/aNwZAVG)
+ - 🚯 [This man 1-0 Modern medicine](http://9gag.com/gag/aGEweD0)
+ - 🚯 [Damn right](http://9gag.com/gag/aBd38EP)<!-- MEMES:END -->
 
 --- 
 
