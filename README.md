@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This BenQ Is a Pricey Gift, but It&#39;s the Best Projector for the Money     - CNET](https://www.cnet.com/tech/home-entertainment/benq-is-a-pricey-gift-but-its-the-best-projector-for-the-money/#ftag=CAD590a51e)
- - [10 Great Next-Gen PS5 Games You Can Play Now: Shooters, RPGs, and More](https://www.wired.com/gallery/best-ps5-games/)
- - [Tips and Tools to Help Students Study, Take Notes, and Focus](https://www.wired.com/story/tips-apps-help-students-study-notes-homework-help/)<!-- TECH:END -->
+ - [Google Pixel Watch vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/)
+ - [12 Best Wireless Gaming Headsets &lpar;2021&rpar;: PS5, Switch, PC, Xbox Series X/S, PS4, Xbox One](https://www.wired.com/gallery/best-wireless-gaming-headsets/)
+ - [Apple&#39;s AirPods and Mac accessories could gain USB-C by 2024](https://appleinsider.com/articles/22/10/09/apples-airpods-and-mac-accessories-could-gain-usb-c-by-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
