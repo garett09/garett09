@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k you Studio Trigger](http://9gag.com/gag/arm4OxV)
- - 🚯 [The drop](http://9gag.com/gag/aQE4MK8)
- - 🚯 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
+ - 🚖 [Nice guys finish?](http://9gag.com/gag/aGEw03X)
+ - 🚯 [They strike again](http://9gag.com/gag/aDY3W8N)
+ - 🚯 [Reminds me of the rolling rock ball in Elder Ring](http://9gag.com/gag/anzKy1o)<!-- MEMES:END -->
 
 --- 
 
