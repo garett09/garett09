@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jaxson Compact Standing Desk Review: A great desk for home and office](https://appleinsider.com/articles/22/10/09/jaxson-compact-standing-desk-review-a-great-desk-for-home-and-office?utm_medium=rss)
- - [Experts paint a dire picture for China&#39;s semiconductor industry and AI development after the US announced new export controls on chips and chipmaking tech &lpar;Financial Times&rpar;](http://www.techmeme.com/221009/p6#a221009p6)
- - [Don’t buy a gaming monitor unless you really, truly need one](https://www.androidauthority.com/lg-ultragear-27gn950-3211309/)<!-- TECH:END -->
+ - [This BenQ Is a Pricey Gift, but It&#39;s the Best Projector for the Money     - CNET](https://www.cnet.com/tech/home-entertainment/benq-is-a-pricey-gift-but-its-the-best-projector-for-the-money/#ftag=CAD590a51e)
+ - [10 Great Next-Gen PS5 Games You Can Play Now: Shooters, RPGs, and More](https://www.wired.com/gallery/best-ps5-games/)
+ - [Tips and Tools to Help Students Study, Take Notes, and Focus](https://www.wired.com/story/tips-apps-help-students-study-notes-homework-help/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
