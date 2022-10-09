@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putin made cleansing in his army high command. Including promoting Ramzan Kadyrov for Colonel General rank. A third highest command in Russian army. Just for the context of their quality and standards...](http://9gag.com/gag/aVbW3qn)
- - 🚯 [Moscow resident Oleg Vasiliev, who suffers from spinal muscular atrophy &lpar;SMA&rpar; received a summons as part of partial mobilization. Try to avoid the muddy roads Oleg.](http://9gag.com/gag/a4odGBm)
- - 🚯 [Amazing](http://9gag.com/gag/anzKM1z)<!-- MEMES:END -->
+ - 🚖 [Juggernaut](http://9gag.com/gag/aNwZAVG)
+ - 🚯 [Iran: A woman riding a motorcycle without hijab....women in iran are also not allowed to ride motorcycles.](http://9gag.com/gag/a5XPnxg)
+ - 🚯 [Hell yeah](http://9gag.com/gag/aqeN7zj)<!-- MEMES:END -->
 
 --- 
 
