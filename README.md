@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Formula 1 Japan Livestream: How to Watch the Race Live     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-japan-livestream-how-to-watch-the-race-live/#ftag=CAD590a51e)
- - [Meet the World&#39;s Tallest Domestic Cat     - CNET](https://www.cnet.com/culture/meet-the-worlds-tallest-domestic-cat/#ftag=CAD590a51e)
- - [Best King Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Akili, which makes a US FDA-cleared game designed to treat ADHD in children; Akili raised $160M+ after going public via a SPAC deal in August 2022 &lpar;Rebecca Heilweil/Vox&rpar;](http://www.techmeme.com/221009/p2#a221009p2)
+ - [Critics say the California Age-Appropriate Design Code Act, a digital privacy law for minors, could lead to invasive age verification methods like face-scanning &lpar;Emma Camp/Reason&rpar;](http://www.techmeme.com/221009/p1#a221009p1)
+ - [WWE Extreme Rules 2022: Results, Bray Wyatt Return, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/wwe-extreme-rules-2022-results-bray-wyatt-return-full-recap-and-analysis/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
