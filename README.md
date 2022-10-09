@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waking up and seeing Ukrainian advances](http://9gag.com/gag/a7qyMx2)
+ - 🚖 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)
  - 🚯 [No rent no service](http://9gag.com/gag/avQgOzX)
- - 🚯 [Iranian regime&#39;s anti riot police going around and destroying people&#39;s security cameras so they can get away with their crimes](http://9gag.com/gag/a3Z3KOr)<!-- MEMES:END -->
+ - 🚯 [Confess](http://9gag.com/gag/amA0BL6)<!-- MEMES:END -->
 
 --- 
 
