@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marvel died with Tony](http://9gag.com/gag/aEq1nDe)
- - 🚯 [Cat protecting the chicks from birds.](http://9gag.com/gag/anzKN75)
- - 🚯 [Ready, aim, fire](http://9gag.com/gag/aMErGRW)<!-- MEMES:END -->
+ - 🚖 [Anyone hasn&#39;t noticed yet?](http://9gag.com/gag/aGEw02K)
+ - 🚯 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)
+ - 🚯 [Photographer Varun Aditya captured this impressive clip without a flash in the Zimanga Private Game reserve in South Africa, staying for three nights in a hide to patiently wait for the pride of lions](http://9gag.com/gag/aVbWDEK)<!-- MEMES:END -->
 
 --- 
 
