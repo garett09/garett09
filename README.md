@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Juggernaut](http://9gag.com/gag/aNwZAVG)
- - 🚯 [This man 1-0 Modern medicine](http://9gag.com/gag/aGEweD0)
- - 🚯 [Damn right](http://9gag.com/gag/aBd38EP)<!-- MEMES:END -->
+ - 🚖 [Moscow resident Oleg Vasiliev, who suffers from spinal muscular atrophy &lpar;SMA&rpar; received a summons as part of partial mobilization. Try to avoid the muddy roads Oleg.](http://9gag.com/gag/a4odGBm)
+ - 🚯 [Sorry....](http://9gag.com/gag/aqeN1GM)
+ - 🚯 [Right in the feels](http://9gag.com/gag/aEq1YO9)<!-- MEMES:END -->
 
 --- 
 
