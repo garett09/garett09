@@ -196,7 +196,7 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Anyone hasn&#39;t noticed yet?](http://9gag.com/gag/aGEw02K)
- - 🚯 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)
+ - 🚯 [Equal rights mean...](http://9gag.com/gag/aXnpA5g)
  - 🚯 [Photographer Varun Aditya captured this impressive clip without a flash in the Zimanga Private Game reserve in South Africa, staying for three nights in a hide to patiently wait for the pride of lions](http://9gag.com/gag/aVbWDEK)<!-- MEMES:END -->
 
 --- 
