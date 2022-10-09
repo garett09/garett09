@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/)
- - [12 Best Wireless Gaming Headsets &lpar;2021&rpar;: PS5, Switch, PC, Xbox Series X/S, PS4, Xbox One](https://www.wired.com/gallery/best-wireless-gaming-headsets/)
- - [Apple&#39;s AirPods and Mac accessories could gain USB-C by 2024](https://appleinsider.com/articles/22/10/09/apples-airpods-and-mac-accessories-could-gain-usb-c-by-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could bring USB-C to AirPods and Mac accessories by 2024](https://www.theverge.com/2022/10/9/23395109/apple-usb-c-airpods-mac-accessories-2024-magic-mouse-keyboard-trackpad-eu-legislation)
+ - [iPhone 14 lead times moderate, Pro model demand holds strong](https://appleinsider.com/articles/22/10/09/iphone-14-lead-times-moderate-pro-model-demand-holds-strong?utm_medium=rss)
+ - [A look at BookScan, a subscription service for book sales data, exclusive to publishing executives, and its open-access alternative Post45 Data Collective &lpar;Melanie Walsh/Public Books&rpar;](http://www.techmeme.com/221009/p7#a221009p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
