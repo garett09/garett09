@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best scene ever](http://9gag.com/gag/aVbWwr8)
- - 🚯 [A good guide to judge when you want to eat your banana \ud83c\udf4c](http://9gag.com/gag/aEq119K)
- - 🚯 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
+ - 🚖 [Loosers bombing civilians now...](http://9gag.com/gag/aMErK8x)
+ - 🚯 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
+ - 🚯 [Nice tips](http://9gag.com/gag/anzK430)<!-- MEMES:END -->
 
 --- 
 
