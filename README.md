@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [15 Years ago today, The Orange Box was released](http://9gag.com/gag/awZKoMR)
- - 🚯 [Using gas to kill wasps](http://9gag.com/gag/aBd3nQN)
- - 🚯 [Russia supporters love war crimes.](http://9gag.com/gag/a2KY12e)<!-- MEMES:END -->
+ - 🚖 [The Cenobites are so unique](http://9gag.com/gag/aL1PDg6)
+ - 🚯 [Say it! SAY IT!!](http://9gag.com/gag/avQgA5n)
+ - 🚯 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)<!-- MEMES:END -->
 
 --- 
 
