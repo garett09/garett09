@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Cenobites are so unique](http://9gag.com/gag/aL1PDg6)
- - 🚯 [Say it! SAY IT!!](http://9gag.com/gag/avQgA5n)
- - 🚯 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)<!-- MEMES:END -->
+ - 🚖 [Your boos mean nothing, I&#39;ve seen what makes you cheer.](http://9gag.com/gag/aREPEKQ)
+ - 🚯 [Right in the feels](http://9gag.com/gag/aEq1YO9)
+ - 🚯 [Which one are you?](http://9gag.com/gag/amA0BP4)<!-- MEMES:END -->
 
 --- 
 
