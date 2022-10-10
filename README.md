@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Dutch court calls webcam tracking of a remote worker an unreasonable intrusion, awarding him &amp;euro;75K after his US employer fired him for not turning on a webcam &lpar;NL Times&rpar;](http://www.techmeme.com/221009/p11#a221009p11)
- - [Next iPhone SE could look very much like an iPhone XR](https://appleinsider.com/articles/22/10/09/fourth-gen-iphone-se-could-get-a-61-inch-screen-with-notch?utm_medium=rss)
- - [Google’s getting rid of its standalone Driving Mode dashboard](https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto)<!-- TECH:END -->
+ - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)
+ - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-netflix/#ftag=CAD590a51e)
+ - [The Absolute Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
