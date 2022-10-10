@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Amazon discounts eero mesh WiFi 6 routers by up to 35%](https://appleinsider.com/articles/22/10/10/deals-amazon-discounts-eero-mesh-wifi-6-routers-by-up-to-35?utm_medium=rss)
- - [Prime Early Access tablet deals: Save 25% on the 2021 iPad Pro](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Wild Hearts’ monsters will make you feel threatened — even the cute ones](https://www.theverge.com/2022/10/10/23393221/wild-hearts-hunting-ea-games-omega-force-interview)<!-- TECH:END -->
+ - [Prime Early Access smartwatch deals: New low price on the Apple Watch Series 8](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
+ - [Amazon Early Prime Access Sale countdown: save up to $300 on Apple now](https://appleinsider.com/articles/22/10/10/amazon-early-prime-access-sale-countdown-save-up-to-300-on-apple-now?utm_medium=rss)
+ - [All YouTube users will soon have an account handle — but some will get to pick theirs earlier](https://www.theverge.com/2022/10/10/23392552/youtube-unique-handle-rollout-shorts-comment-mentions-tiktok)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
