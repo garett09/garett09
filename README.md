@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q3 revenue rose 48% YoY to ~$19.4B, beating ~$19B estimates, as Micron, Kioxia, Samsung, and others report faltering sales and weakening demand &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221010/p5#a221010p5)
- - [Daily Authority: 🔨 Right to repair](https://www.androidauthority.com/daily-authority-october-10-2022-3218056/)
- - [We asked, you told us: You’re deeply split over the Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-hot-not-poll-results-3218133/)<!-- TECH:END -->
+ - [Upcoming Call of Duty has annoying phone number verification requirement](https://www.theverge.com/2022/10/10/23396412/call-of-duty-modern-warfare-ii-sms-protect-prepaid-postpaid-phone-number-requirement)
+ - [Google plans to shutter its Assistant Driving Mode Dashboard, announced in 2019, on November 21; Maps for Android&#39;s car-optimized UI will remain &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221010/p6#a221010p6)
+ - [TSMC reports Q3 revenue rose 48% YoY to ~$19.4B, beating ~$19B estimates, as Micron, Kioxia, Samsung, and others report faltering sales and weakening demand &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221010/p5#a221010p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
