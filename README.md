@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Early Access smartwatch deals: New low price on the Apple Watch Series 8](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [Amazon Early Prime Access Sale countdown: save up to $300 on Apple now](https://appleinsider.com/articles/22/10/10/amazon-early-prime-access-sale-countdown-save-up-to-300-on-apple-now?utm_medium=rss)
- - [All YouTube users will soon have an account handle — but some will get to pick theirs earlier](https://www.theverge.com/2022/10/10/23392552/youtube-unique-handle-rollout-shorts-comment-mentions-tiktok)<!-- TECH:END -->
+ - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)
+ - [The best Pixel-only features explained: There’s more to Pixels than you think!](https://www.androidauthority.com/best-pixel-features-explained-3217987/)
+ - [Sensor Tower: BeReal has passed 53M installs, its MAUs are up 2,254% since January, and ~9% of its active installs on Android opened the app every day in Q3 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221010/p18#a221010p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
