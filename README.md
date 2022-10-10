@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces the first third-party TV makers to ship with its Linux-based Tizen OS in Europe and Australasia in 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221010/p9#a221010p9)
- - [These Remote Tech Workers Secretly Juggle Multiple Jobs](https://www.wired.com/story/remote-tech-workers-secret-multiple-jobs/)
- - [How ‘The Mandalorian’ Inspired One of the Year’s Best Rap Videos](https://www.wired.com/story/denzel-curry-x-wing-star-wars/)<!-- TECH:END -->
+ - [Sources: Istanbul-based delivery startup Getir is in advanced talks to acquire Berlin-based Gorillas in a cash and equity deal; Getir raised $768M in March &lpar;Bloomberg&rpar;](http://www.techmeme.com/221010/p10#a221010p10)
+ - [Subjecting workers to webcam monitoring violates privacy, Dutch court rules](https://www.theverge.com/2022/10/10/23396461/remote-worker-webcam-on-all-day-dutch-court-employee-rights-privacy)
+ - [How to Watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
