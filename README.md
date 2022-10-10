@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Overwatch 2 Halloween event: Start date, characters, and skins](https://www.pcgamer.com/overwatch-2-halloween-event-date)
- - [How to change crosshair settings in Overwatch 2](https://www.pcgamer.com/overwatch-2-how-to-change-crosshair)<!-- GAME:END -->
+ - [Intel confirms that Alder Lake BIOS code has been leaked but expects no new security flaws](https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws)
+ - [The Winchesters NYCC panel revealed a Supernatural prequel with more Jensen Ackles than expected](https://www.polygon.com/nycc/23396045/winchesters-jensen-ackles-cast-premiere-nycc)
+ - [Gotham Knights’ Biggest Spoiler May Have Leaked And WB Is Fighting Back](https://kotaku.com/gotham-knights-spoilers-batman-joker-warner-bros-1849637792)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
