@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteelSeries’ multi-platform Nova Pro Wireless headset is $100 off for the first time](https://www.theverge.com/2022/10/10/23396540/steelseries-nova-pro-wireless-gaming-headset-apple-watch-series-8-ipad-m1-deal-sale)
- - [Matter certified and what it means, Dexcom G7, Sonos Sub Mini review](https://appleinsider.com/articles/22/10/10/matter-certified-and-what-it-means-dexcom-g7-sonos-sub-mini-review?utm_medium=rss)
- - [Chromecast with Google TV HD review: easy entertainment](https://www.theverge.com/23395200/chromecast-google-tv-hd-review)<!-- TECH:END -->
+ - [Amazon will invest €1 billion to electrify its delivery fleet in Europe](https://www.theverge.com/2022/10/10/23396499/amazon-electric-delivery-vehicle-europe-investment)
+ - [Apple says there&#39;s no single &#39;silver bullet&#39; behind crash detection](https://appleinsider.com/articles/22/10/10/apple-says-theres-no-single-silver-bullet-behind-crash-detection?utm_medium=rss)
+ - [PC market got hammered in Q3, but Apple saw massive Mac shipment growth](https://appleinsider.com/articles/22/10/10/pc-market-got-hammered-in-q3-but-apple-saw-massive-mac-shipment-growth?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
