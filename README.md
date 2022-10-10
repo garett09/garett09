@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Istanbul-based delivery startup Getir is in advanced talks to acquire Berlin-based Gorillas in a cash and equity deal; Getir raised $768M in March &lpar;Bloomberg&rpar;](http://www.techmeme.com/221010/p10#a221010p10)
- - [Subjecting workers to webcam monitoring violates privacy, Dutch court rules](https://www.theverge.com/2022/10/10/23396461/remote-worker-webcam-on-all-day-dutch-court-employee-rights-privacy)
- - [How to Watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [SteelSeries’ multi-platform Nova Pro Wireless headset is $100 off for the first time](https://www.theverge.com/2022/10/10/23396540/steelseries-nova-pro-wireless-gaming-headset-apple-watch-series-8-ipad-m1-deal-sale)
+ - [Matter certified and what it means, Dexcom G7, Sonos Sub Mini review](https://appleinsider.com/articles/22/10/10/matter-certified-and-what-it-means-dexcom-g7-sonos-sub-mini-review?utm_medium=rss)
+ - [Chromecast with Google TV HD review: easy entertainment](https://www.theverge.com/23395200/chromecast-google-tv-hd-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
