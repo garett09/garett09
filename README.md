@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Master Chief Dancing, &#39;Gettin Ass&#39; With Megan Thee Stallion Is A Thing That Happened This Weekend](https://kotaku.com/megan-thee-stallion-master-chief-halo-dance-twerk-1849636594)
- - [Five new Steam games you probably missed &lpar;October 10, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022)
- - [Rebuild society after a climate apocalypse in city builder Floodland](https://www.pcgamer.com/rebuild-society-after-a-climate-apocalypse-in-city-builder-floodland)<!-- GAME:END -->
+ - [A streamer broke her back in two places after jumping in a foam pit at TwitchCon](https://www.pcgamer.com/a-streamer-broke-her-back-in-two-places-after-jumping-in-a-foam-pit-at-twitchcon)
+ - [House of the Dragon’s hilarious decapitation punctuated one of the show’s most intense scenes](https://www.polygon.com/23389799/house-dragon-death-decapitation-scene-daemon)
+ - [House of the Dragon revealed some of Game of Thrones’ most important lore in its premiere episode](https://www.polygon.com/game-of-thrones/23289499/house-of-the-dragon-aegon-conqueror-prophecy-ice-and-fire-game-of-thrones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
