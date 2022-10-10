@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woosh](http://9gag.com/gag/aYVWxvv)
- - 🚯 [Heres some good news](http://9gag.com/gag/aWGWjQx)
- - 🚯 [Ukrainian service woman shares some time with a puppy](http://9gag.com/gag/aQE4obe)<!-- MEMES:END -->
+ - 🚖 [Revenge of the carts](http://9gag.com/gag/aL1P9gv)
+ - 🚯 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
+ - 🚯 [Nice tips](http://9gag.com/gag/anzK430)<!-- MEMES:END -->
 
 --- 
 
