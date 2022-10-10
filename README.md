@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q8 Review: An Alice-layout mechanical keyboard open to customization](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)
- - [Join CNET&#39;s Meta Connect Viewing Party Oct. 11 at 9 a.m. PT/12 p.m. ET     - CNET](https://www.cnet.com/tech/computing/join-cnets-meta-connect-viewing-party-oct-11-at-9-a-m-pt12-p-m-et/#ftag=CAD590a51e)
- - [Fortnite Maker Epic Games Says Google Pushed Competitors Not To Launch App Stores     - CNET](https://www.cnet.com/tech/mobile/fortnite-maker-epic-games-says-google-pushed-competitors-not-to-launch-app-stores/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [European Parliament approves Markets in Crypto Assets bill 28 to 1, which if passed in next vote will limit stablecoin token issuance, regulate mining, and more &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/221010/p23#a221010p23)
+ - [Best Google Pixel Deals: Preorder Offers on Pixel 7, $398 Off Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Someone Re-created &#39;the Known Universe&#39; in Minecraft     - CNET](https://www.cnet.com/tech/gaming/someone-re-created-the-known-universe-in-minecraft/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
