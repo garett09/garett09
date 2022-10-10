@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Portable hits Steam and Game Pass in January 2023](https://www.pcgamer.com/persona-3-portable-hits-steam-and-game-pass-in-january-2023)
- - [Fans Think Xbox Boss Just Revealed Game Pass Streaming Device [Update]](https://kotaku.com/xbox-game-pass-cloud-streaming-keystone-series-x-1849639015)
- - [Fight a monstrous spider-train when Choo-Choo Charles releases this December](https://www.pcgamer.com/fight-a-monstrous-spider-train-when-choo-choo-charles-releases-this-december)<!-- GAME:END -->
+ - [Right Now Is A Great Time To Jump Into No Man&#39;s Sky](https://kotaku.com/no-mans-sky-4-0-patch-notes-relaxed-mode-twitch-drops-1849639850)
+ - [Overwatch 2’s D.Va Shoots To The Top Of Pornhub Searches](https://kotaku.com/overwatch-2-porn-sfm-dva-pornhub-ddos-players-ahead-of-1849639971)
+ - [Persona 3 Portable hits Steam and Game Pass in January 2023](https://www.pcgamer.com/persona-3-portable-hits-steam-and-game-pass-in-january-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
