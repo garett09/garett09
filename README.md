@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Village had to shrink Lady D for her playable debut, says director](https://www.polygon.com/23392619/resident-evil-village-gold-mercenaries-lady-d-winters-expansion)
- - [These are the best players in FIFA 23](https://www.pcgamer.com/these-are-the-best-players-in-fifa-23)
- - [Overwatch 2 Is Buggier Than Blizzard Is Admitting](https://kotaku.com/overwatch-2-achievements-mei-bastion-ult-t-pose-bug-1849638598)<!-- GAME:END -->
+ - [Fans Think Xbox Boss Just Revealed Game Pass Streaming Device](https://kotaku.com/xbox-game-pass-cloud-streaming-keystone-series-x-1849639015)
+ - [Fight a monstrous spider-train when Choo-Choo Charles releases this December](https://www.pcgamer.com/fight-a-monstrous-spider-train-when-choo-choo-charles-releases-this-december)
+ - [Resident Evil Village had to shrink Lady D for her playable debut, says director](https://www.polygon.com/23392619/resident-evil-village-gold-mercenaries-lady-d-winters-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
