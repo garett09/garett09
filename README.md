@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortinet confirms the remote exploitation of a critical authentication bypass vulnerability in FortiOS, FortiProxy, and FortiSwitchManager; a patch is available &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221010/p22#a221010p22)
- - [Trendsi, which helps sellers and manufacturers predict demand, raised a $25M Series A led by Lightspeed Venture Partners, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p21#a221010p21)
- - [China asked Elon Musk not to sell Starlink within the country](https://www.theverge.com/2022/10/10/23397301/elon-musk-starlink-china-great-firewall-censorship)<!-- TECH:END -->
+ - [Keychron Q8 Review: An Alice-layout mechanical keyboard open to customization](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)
+ - [Join CNET&#39;s Meta Connect Viewing Party Oct. 11 at 9 a.m. PT/12 p.m. ET     - CNET](https://www.cnet.com/tech/computing/join-cnets-meta-connect-viewing-party-oct-11-at-9-a-m-pt12-p-m-et/#ftag=CAD590a51e)
+ - [Fortnite Maker Epic Games Says Google Pushed Competitors Not To Launch App Stores     - CNET](https://www.cnet.com/tech/mobile/fortnite-maker-epic-games-says-google-pushed-competitors-not-to-launch-app-stores/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
