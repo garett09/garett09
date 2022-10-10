@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
- - 🚯 [Nails](http://9gag.com/gag/aVbW02K)
- - 🚯 [We all know who&#39;s the goat](http://9gag.com/gag/aGEwg8X)<!-- MEMES:END -->
+ - 🚖 [`Yeah, I&#39;m not American, you know?` lol](http://9gag.com/gag/aREPmw5)
+ - 🚯 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
+ - 🚯 [Yet another day of ruzzian terror, Kyiv\u2019s downtown this morning.](http://9gag.com/gag/a2KYWoO)<!-- MEMES:END -->
 
 --- 
 
