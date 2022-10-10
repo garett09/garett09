@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will invest €1 billion to electrify its delivery fleet in Europe](https://www.theverge.com/2022/10/10/23396499/amazon-electric-delivery-vehicle-europe-investment)
- - [Apple says there&#39;s no single &#39;silver bullet&#39; behind crash detection](https://appleinsider.com/articles/22/10/10/apple-says-theres-no-single-silver-bullet-behind-crash-detection?utm_medium=rss)
- - [PC market got hammered in Q3, but Apple saw massive Mac shipment growth](https://appleinsider.com/articles/22/10/10/pc-market-got-hammered-in-q3-but-apple-saw-massive-mac-shipment-growth?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: Amazon discounts eero mesh WiFi 6 routers by up to 35%](https://appleinsider.com/articles/22/10/10/deals-amazon-discounts-eero-mesh-wifi-6-routers-by-up-to-35?utm_medium=rss)
+ - [Prime Early Access tablet deals: Save 25% on the 2021 iPad Pro](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [Wild Hearts’ monsters will make you feel threatened — even the cute ones](https://www.theverge.com/2022/10/10/23393221/wild-hearts-hunting-ea-games-omega-force-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
