@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Loosers bombing civilians now...](http://9gag.com/gag/aMErK8x)
- - 🚯 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
- - 🚯 [Nice tips](http://9gag.com/gag/anzK430)<!-- MEMES:END -->
+ - 🚖 [Woosh](http://9gag.com/gag/aYVWxvv)
+ - 🚯 [Heres some good news](http://9gag.com/gag/aWGWjQx)
+ - 🚯 [Ukrainian service woman shares some time with a puppy](http://9gag.com/gag/aQE4obe)<!-- MEMES:END -->
 
 --- 
 
