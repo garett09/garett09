@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp users in India say the service, which has ~550M users in the country, has become overrun by spam from brands, some using WhatsApp&#39;s business tools &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/221010/p19#a221010p19)
- - [Samsung Galaxy Watch 4 receives a new October 2022 update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)<!-- TECH:END -->
+ - [Endor Labs, which helps businesses select, secure, monitor, and maintain open-source dependencies at scale, emerges from stealth with $25M in seed financing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p20#a221010p20)
+ - [Google flaunts the potential of Pixel 7 Pro’s zoom, night, and macro shots](https://www.androidauthority.com/pixel-7-pro-camera-shots-3218354/)
+ - [How to turn off Crash Detection on iPhone 14 and Apple Watch](https://appleinsider.com/inside/iphone-14/tips/how-to-turn-off-crash-detection-on-iphone-14-and-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
