@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A dog meeting snow for the first time.](http://9gag.com/gag/a04L49d)
+ - 🚖 [Trying styles](http://9gag.com/gag/aoK0e7A)
  - 🚯 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
- - 🚯 [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)<!-- MEMES:END -->
+ - 🚯 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
 
 --- 
 
