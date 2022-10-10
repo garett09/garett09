@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive and Apple reunite for Apple TV+ animated short](https://appleinsider.com/articles/22/10/10/jony-ive-and-apple-reunite-for-apple-tv-animated-short?utm_medium=rss)
- - [Walmart Rollbacks and More Sale: Save Big On Tech, Toys Home Goods and More     - CNET](https://www.cnet.com/deals/walmart-rollbacks-and-more-sale-save-big-on-tech-toys-home-goods-and-more/#ftag=CAD590a51e)
- - [Extremism Glossary: Be Aware of These 11 Terms Used Online     - CNET](https://www.cnet.com/news/misinformation/extremism-glossary-be-aware-of-these-11-terms-used-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fortinet confirms the remote exploitation of a critical authentication bypass vulnerability in FortiOS, FortiProxy, and FortiSwitchManager; a patch is available &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221010/p22#a221010p22)
+ - [Trendsi, which helps sellers and manufacturers predict demand, raised a $25M Series A led by Lightspeed Venture Partners, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p21#a221010p21)
+ - [China asked Elon Musk not to sell Starlink within the country](https://www.theverge.com/2022/10/10/23397301/elon-musk-starlink-china-great-firewall-censorship)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
