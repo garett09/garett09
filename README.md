@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tensor G2 chip: Everything you need to know](https://www.androidauthority.com/google-tensor-g2-explained-3216087/)
- - [These Pixel 7 features are coming to older Pixels soon](https://www.androidauthority.com/pixel-7-features-older-pixels-phones-3218129/)
- - [A look at the history of online content moderation, which has become a top culture war issue since the 2016 election and is the subject of multiple court cases &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/221010/p3#a221010p3)<!-- TECH:END -->
+ - [TSMC reports Q3 revenue rose 48% YoY to ~$19.4B, beating ~$19B estimates, as Micron, Kioxia, Samsung, and others report faltering sales and weakening demand &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221010/p5#a221010p5)
+ - [Daily Authority: 🔨 Right to repair](https://www.androidauthority.com/daily-authority-october-10-2022-3218056/)
+ - [We asked, you told us: You’re deeply split over the Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-hot-not-poll-results-3218133/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
