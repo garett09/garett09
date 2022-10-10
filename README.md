@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God dammit](http://9gag.com/gag/aBd3YLD)
- - 🚯 [Members of Ukrainian &#39;Kraken&#39; unit were among the first to enter liberated Kupyansk](http://9gag.com/gag/a4odQ0w)
- - 🚯 [You literally broke a MILLISECOND before Miriam!](http://9gag.com/gag/aMErYGV)<!-- MEMES:END -->
+ - 🚖 [Battle to see whose school is better](http://9gag.com/gag/aKEPDy1)
+ - 🚯 [Run Forest, ruuuuun.](http://9gag.com/gag/aOxb0z6)
+ - 🚯 [Scientists have revived a plant from the Pleistocene epoch. This plant is 32,000 years old.](http://9gag.com/gag/aqeNgnj)<!-- MEMES:END -->
 
 --- 
 
