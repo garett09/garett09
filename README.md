@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Amazon Prime Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [Overwatch 2 Twitch drops and how to get the Legendary Kiriko skin](https://www.pcgamer.com/overwatch-2-twitch-drops)
- - [Bleach finally looks as cool as it should in Thousand-Year Blood War](https://www.polygon.com/23392941/bleach-thousand-year-blood-war-hulu-streaming)<!-- GAME:END -->
+ - [Resident Evil Village had to shrink Lady D for her playable debut, says director](https://www.polygon.com/23392619/resident-evil-village-gold-mercenaries-lady-d-winters-expansion)
+ - [These are the best players in FIFA 23](https://www.pcgamer.com/these-are-the-best-players-in-fifa-23)
+ - [Overwatch 2 Is Buggier Than Blizzard Is Admitting](https://kotaku.com/overwatch-2-achievements-mei-bastion-ult-t-pose-bug-1849638598)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
