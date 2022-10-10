@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your boos mean nothing, I&#39;ve seen what makes you cheer.](http://9gag.com/gag/aREPEKQ)
- - 🚯 [Right in the feels](http://9gag.com/gag/aEq1YO9)
- - 🚯 [Which one are you?](http://9gag.com/gag/amA0BP4)<!-- MEMES:END -->
+ - 🚖 [A dog meeting snow for the first time.](http://9gag.com/gag/a04L49d)
+ - 🚯 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
+ - 🚯 [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)<!-- MEMES:END -->
 
 --- 
 
