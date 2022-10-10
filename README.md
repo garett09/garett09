@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming Call of Duty has annoying phone number verification requirement](https://www.theverge.com/2022/10/10/23396412/call-of-duty-modern-warfare-ii-sms-protect-prepaid-postpaid-phone-number-requirement)
- - [Google plans to shutter its Assistant Driving Mode Dashboard, announced in 2019, on November 21; Maps for Android&#39;s car-optimized UI will remain &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221010/p6#a221010p6)
- - [TSMC reports Q3 revenue rose 48% YoY to ~$19.4B, beating ~$19B estimates, as Micron, Kioxia, Samsung, and others report faltering sales and weakening demand &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221010/p5#a221010p5)<!-- TECH:END -->
+ - [Samsung announces the first third-party TV makers to ship with its Linux-based Tizen OS in Europe and Australasia in 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221010/p9#a221010p9)
+ - [These Remote Tech Workers Secretly Juggle Multiple Jobs](https://www.wired.com/story/remote-tech-workers-secret-multiple-jobs/)
+ - [How ‘The Mandalorian’ Inspired One of the Year’s Best Rap Videos](https://www.wired.com/story/denzel-curry-x-wing-star-wars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
