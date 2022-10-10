@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online Halloween event: Judgement Day mode and rewards](https://www.pcgamer.com/gta-online-halloween-event-judgement-day)
- - [&#39;We&#39;re not very happy&#39;—Platinum CEO apologises for Babylon&#39;s Fall, hints at troubled development](https://www.pcgamer.com/were-not-very-happyplatinum-ceo-apologises-for-babylons-fall-hints-at-troubled-development)
- - [Blizzard has quietly fixed Overwatch 2 &#39;auto-purchase&#39; glitch but refunds are yet to come](https://www.pcgamer.com/blizzard-has-quietly-fixed-the-overwatch-2-auto-purchase-glitch-but-refunds-are-yet-to-come)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Overwatch 2 Halloween event: Start date, characters, and skins](https://www.pcgamer.com/overwatch-2-halloween-event-date)
+ - [How to change crosshair settings in Overwatch 2](https://www.pcgamer.com/overwatch-2-how-to-change-crosshair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
