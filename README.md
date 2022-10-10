@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I didn&#39;t expect PAX Aus 2022 to go so hard for extreme gaming PC builds](https://www.pcgamer.com/pax-aus-2022-showfloor-pc-builds)
- - [This $265 AMD Radeon RX 6650 XT is the sort of graphics card deal we&#39;re after](https://www.pcgamer.com/score-an-amd-radeon-rx-6650-xt-gpu-for-less-than-the-price-of-an-rtx-3050)
- - [AMD stock plunges as it admits that PC demand just isn&#39;t as high as it once was](https://www.pcgamer.com/amd-stock-plunges-as-it-admits-that-pc-demand-just-isnt-as-high-as-it-once-was)<!-- GAME:END -->
+ - [GTA Online Halloween event: Judgement Day mode and rewards](https://www.pcgamer.com/gta-online-halloween-event-judgement-day)
+ - [&#39;We&#39;re not very happy&#39;—Platinum CEO apologises for Babylon&#39;s Fall, hints at troubled development](https://www.pcgamer.com/were-not-very-happyplatinum-ceo-apologises-for-babylons-fall-hints-at-troubled-development)
+ - [Blizzard has quietly fixed Overwatch 2 &#39;auto-purchase&#39; glitch but refunds are yet to come](https://www.pcgamer.com/blizzard-has-quietly-fixed-the-overwatch-2-auto-purchase-glitch-but-refunds-are-yet-to-come)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
