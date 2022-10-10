@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classic](http://9gag.com/gag/aVbWxzw)
- - 🚯 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
- - 🚯 [The ideal gadget](http://9gag.com/gag/aZDxrMp)<!-- MEMES:END -->
+ - 🚖 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
+ - 🚯 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
+ - 🚯 [Classic](http://9gag.com/gag/aVbWxzw)<!-- MEMES:END -->
 
 --- 
 
