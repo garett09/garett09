@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)
- - [The best Pixel-only features explained: There’s more to Pixels than you think!](https://www.androidauthority.com/best-pixel-features-explained-3217987/)
- - [Sensor Tower: BeReal has passed 53M installs, its MAUs are up 2,254% since January, and ~9% of its active installs on Android opened the app every day in Q3 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221010/p18#a221010p18)<!-- TECH:END -->
+ - [WhatsApp users in India say the service, which has ~550M users in the country, has become overrun by spam from brands, some using WhatsApp&#39;s business tools &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/221010/p19#a221010p19)
+ - [Samsung Galaxy Watch 4 receives a new October 2022 update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
