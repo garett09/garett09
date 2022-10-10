@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
- - 🚯 [That is huge](http://9gag.com/gag/a7qy3Lq)
- - 🚯 [Lets do this!](http://9gag.com/gag/ay20X6b)<!-- MEMES:END -->
+ - 🚖 [Waiting in line for those inflation releaf checks](http://9gag.com/gag/aoK01Yw)
+ - 🚯 [The Russian el Risitas. But better. He came to steal the washing machine, but he stole my heart.](http://9gag.com/gag/a8qY3pZ)
+ - 🚯 [Nom nom nom](http://9gag.com/gag/aL1PgQV)<!-- MEMES:END -->
 
 --- 
 
