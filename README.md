@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiting in line for those inflation releaf checks](http://9gag.com/gag/aoK01Yw)
- - 🚯 [The Russian el Risitas. But better. He came to steal the washing machine, but he stole my heart.](http://9gag.com/gag/a8qY3pZ)
- - 🚯 [Nom nom nom](http://9gag.com/gag/aL1PgQV)<!-- MEMES:END -->
+ - 🚖 [God dammit](http://9gag.com/gag/aBd3YLD)
+ - 🚯 [Members of Ukrainian &#39;Kraken&#39; unit were among the first to enter liberated Kupyansk](http://9gag.com/gag/a4odQ0w)
+ - 🚯 [You literally broke a MILLISECOND before Miriam!](http://9gag.com/gag/aMErYGV)<!-- MEMES:END -->
 
 --- 
 
