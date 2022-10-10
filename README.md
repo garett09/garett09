@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yet another day of ruzzian terror, Kyiv\u2019s downtown this morning.](http://9gag.com/gag/a2KYWoO)
- - 🚯 [Nails](http://9gag.com/gag/aVbW02K)
- - 🚯 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)<!-- MEMES:END -->
+ - 🚖 [Best scene ever](http://9gag.com/gag/aVbWwr8)
+ - 🚯 [A good guide to judge when you want to eat your banana \ud83c\udf4c](http://9gag.com/gag/aEq119K)
+ - 🚯 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
 
 --- 
 
