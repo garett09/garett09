@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
- - 🚯 [Presidential Merch](http://9gag.com/gag/abvyrpL)
- - 🚯 [We all know who&#39;s the goat](http://9gag.com/gag/aGEwg8X)<!-- MEMES:END -->
+ - 🚖 [I&#39;d like to speak with a manager!!](http://9gag.com/gag/aDY3GN7)
+ - 🚯 [Scientists have revived a plant from the Pleistocene epoch. This plant is 32,000 years old.](http://9gag.com/gag/aqeNgnj)
+ - 🚯 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)<!-- MEMES:END -->
 
 --- 
 
