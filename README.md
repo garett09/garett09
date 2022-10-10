@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel confirms that Alder Lake BIOS code has been leaked but expects no new security flaws](https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws)
- - [The Winchesters NYCC panel revealed a Supernatural prequel with more Jensen Ackles than expected](https://www.polygon.com/nycc/23396045/winchesters-jensen-ackles-cast-premiere-nycc)
- - [Gotham Knights’ Biggest Spoiler May Have Leaked And WB Is Fighting Back](https://kotaku.com/gotham-knights-spoilers-batman-joker-warner-bros-1849637792)<!-- GAME:END -->
+ - [Pro Poker Cheating Scandal Takes Weird Twist After Crew Member Caught Stealing Chips](https://kotaku.com/poker-cheating-scandal-robbi-jade-lew-garrett-adelstein-1849637762)
+ - [Streamer breaks back in TwitchCon foam pit](https://www.polygon.com/23396598/twitchcon-foam-pit-broken-back-injuries)
+ - [Intel confirms that Alder Lake BIOS code has been leaked but expects no new security flaws](https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
