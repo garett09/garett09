@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why House of the Dragon fans are so thirsty for the Negroni sbagliato](https://www.polygon.com/23398775/house-of-the-dragon-negroni-sbagliato-with-prosecco-emma-darcy)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Steam&#39;s latest F2P shooter is half CoD clone, half surprisingly great co-op FPS](https://www.pcgamer.com/steams-latest-free-to-play-fps-is-for-a-very-specific-call-of-duty-fan-and-im-not-one-of-them)<!-- GAME:END -->
+ - [Cyberpunk 2077 mod turns you into a real Edgerunners cyberpsycho](https://www.pcgamer.com/cyberpunk-2077-mod-turns-you-into-a-real-edgerunners-cyberpsycho)
+ - [The Meta Quest Pro could be the new best VR headset, but it costs $1,500](https://www.pcgamer.com/meta-quest-pro-announcement)
+ - [Vtubers Apologize For Streaming Porn During A Live Splatoon 3 Match](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
