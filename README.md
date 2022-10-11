@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over a dozen job openings indicate TikTok plans to build fulfillment centers in the US as it looks to build an &quot;international e-commerce fulfillment system&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/221011/p28#a221011p28)
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [The new AirPods Pro have hit an all-time low](https://www.theverge.com/2022/10/11/23397390/amazon-prime-deal-apple-airpods-pro-airpods-early-access-sale)<!-- TECH:END -->
+ - [Lego owner Kirkbi acquires Brainpop, which makes short educational animated videos and other materials for US schools, for $875M &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/221011/p30#a221011p30)
+ - [The Biden administration’s proposal could classify gig workers as employees](https://www.theverge.com/2022/10/11/23398575/gig-workers-employees-biden-administration-proposal-regulation-classify)
+ - [The best Prime Early Access deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
