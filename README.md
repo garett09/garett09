@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Devil](http://9gag.com/gag/amA0154)
- - 🚯 [He didn&#39;t realise the mic was on :&#39;&rpar;](http://9gag.com/gag/aBd326Z)
- - 🚯 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)<!-- MEMES:END -->
+ - 🚖 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
+ - 🚯 [Devil](http://9gag.com/gag/amA0154)
+ - 🚯 [The sound we can approve.](http://9gag.com/gag/agov1A6)<!-- MEMES:END -->
 
 --- 
 
