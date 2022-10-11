@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone Cheers As Mark Zuckerberg Reveals Feet](https://kotaku.com/meta-connect-facebook-mark-zuckerberg-vr-feet-legs-1849643784)
- - [Best Amazon Prime Day Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [Chainsaw Man’s first major fight is a gory smorgasbord of zombified horror](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)<!-- GAME:END -->
+ - [Meta Can’t Wait For You To Use Excel In Its New $1,500 VR Device](https://kotaku.com/meta-quest-pro-vr-headset-cost-mark-zuckerberg-facebook-1849644459)
+ - [Overwatch 2 Console Players Displeased To Find Aim Assist Disabled During PC Crossplay](https://kotaku.com/overwatch-crossplay-aim-assist-pc-console-advantage-1849644283)
+ - [Dear Polygon: I want a great horror movie without jump scares!](https://www.polygon.com/what-to-watch/2022/10/11/23389910/scary-horror-movies-to-watch-exorcist-3-she-dies-tomorrow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
