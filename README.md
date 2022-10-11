@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
- - [Google adds automatic transcriptions in English to Meet and plans to add support for French, German, Spanish, and Portuguese in 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221011/p20#a221011p20)
- - [Google updates its Workspace enterprise suite, adding integration with Atlassian, Figma, and other services, releasing new APIs for Chat and Meet, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221011/p19#a221011p19)<!-- TECH:END -->
+ - [33 Best Prime Day Laptop, Phone, TV, and Tech Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-amazon-prime-day-laptop-tv-phones-tech-deals-2022/)
+ - [Insite, which uses AI to help companies price, distribute, and promote packaged goods, raised a $19M Series A from NewRoad Capital and Microsoft&#39;s M12 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221011/p25#a221011p25)
+ - [Sony Prime Day Headphones Deals: Save $72 on LinkBuds S, $50 on WH-1000XM5     - CNET](https://www.cnet.com/deals/best-sony-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
