@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)
- - 🚯 [Wonder where they got the coupons for 100% off all products in LA](http://9gag.com/gag/a1Pe71w)
- - 🚯 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/aVbWxZO)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
+ - 🚯 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
+ - 🚯 [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)<!-- MEMES:END -->
 
 --- 
 
