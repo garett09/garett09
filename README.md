@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake Zelda Netflix Posters Blow Up, Make People Think Tom Holland Will Play Link](https://kotaku.com/zelda-netflix-facebook-tom-holland-emma-watson-1849643590)
- - [The best Amazon Prime Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
- - [Iron Man VR coming to Quest 2, developer now part of Oculus Studios](https://www.polygon.com/23399006/oculus-studios-camouflaj-twisted-pixel-armature-iron-man-vr)<!-- GAME:END -->
+ - [Everyone Cheers As Mark Zuckerberg Reveals Feet](https://kotaku.com/meta-connect-facebook-mark-zuckerberg-vr-feet-legs-1849643784)
+ - [Best Amazon Prime Day Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
+ - [Chainsaw Man’s first major fight is a gory smorgasbord of zombified horror](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
