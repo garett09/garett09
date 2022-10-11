@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise](http://9gag.com/gag/a9qLv81)
- - 🚯 [People who known\u2018t](http://9gag.com/gag/aGEw837)
- - 🚯 [You can laugh its okay](http://9gag.com/gag/aZDx8BW)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a04LeBv)
+ - 🚯 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
+ - 🚯 [The sound we can approve.](http://9gag.com/gag/agov1A6)<!-- MEMES:END -->
 
 --- 
 
