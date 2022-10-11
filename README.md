@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta Can’t Wait For You To Use Excel In Its New $1,500 VR Device](https://kotaku.com/meta-quest-pro-vr-headset-cost-mark-zuckerberg-facebook-1849644459)
- - [Overwatch 2 Console Players Displeased To Find Aim Assist Disabled During PC Crossplay](https://kotaku.com/overwatch-crossplay-aim-assist-pc-console-advantage-1849644283)
- - [Dear Polygon: I want a great horror movie without jump scares!](https://www.polygon.com/what-to-watch/2022/10/11/23389910/scary-horror-movies-to-watch-exorcist-3-she-dies-tomorrow)<!-- GAME:END -->
+ - [Why House of the Dragon fans are so thirsty for the Negroni sbagliato](https://www.polygon.com/23398775/house-of-the-dragon-negroni-sbagliato-with-prosecco-emma-darcy)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Steam&#39;s latest F2P shooter is half CoD clone, half surprisingly great co-op FPS](https://www.pcgamer.com/steams-latest-free-to-play-fps-is-for-a-very-specific-call-of-duty-fan-and-im-not-one-of-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
