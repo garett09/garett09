@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta finally unveils the Quest Pro and its hefty price tag](https://www.androidauthority.com/meta-quest-pro-3218904/)
  - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Meta figured out legs for its avatars](https://www.theverge.com/2022/10/11/23390503/meta-quest-horizon-avatars-legs)
- - [Meta partners with Microsoft to bring Teams, Office, Windows 365, and Xbox Cloud Gaming to Quest VR headsets &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221011/p39#a221011p39)<!-- TECH:END -->
+ - [Marvel’s Blade has been put on hold](https://www.theverge.com/2022/10/11/23399110/mcu-blade-on-hold-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
