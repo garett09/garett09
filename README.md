@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out some great Amazon Prime Early Access Razer gaming deals](https://www.androidauthority.com/amazon-prime-razer-gaming-deals-3218979/)
- - [In a rare speech, the UK&#39;s GCHQ head Jeremy Fleming warns China&#39;s tech ambitions, including a CBDC currency, are a security issue &quot;that will define our future&quot; &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/221011/p45#a221011p45)
- - [43 Best Prime Day Laptop, Phone, TV, and Tech Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-amazon-prime-day-laptop-tv-phones-tech-deals-2022/)<!-- TECH:END -->
+ - [Get up to 41% off Samsung tablets in these Prime Early Access deals](https://www.androidauthority.com/samsung-tablet-prime-day-3185149/)
+ - [The Meta Connect keynote felt overscripted and &quot;incredibly thirsty&quot;, with its prolonged pitch for VR and the metaverse coming off as one of tech&#39;s hardest sells &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/221011/p46#a221011p46)
+ - [Asteroid-smashing planetary defense test was a success, NASA confirms](https://www.theverge.com/2022/10/11/23399150/nasa-asteroid-dart-dimorphos-didymos-planetary-defense)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
