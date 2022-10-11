@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Dragon Ball Baddies Break Out](https://kotaku.com/october-2022-game-releases-out-this-week-dragon-ball-1849641971)
- - [A lost paper doll game gave me an abrupt crash course in living online](https://www.polygon.com/23373208/doll-war-paper-doll-game-forum-community)
- - [How to unlock the Bytes outfit and tune the TV in Fortnite](https://www.pcgamer.com/fortnite-how-to-tune-tv)<!-- GAME:END -->
+ - [Hunter x Hunter manga returning this month](https://www.polygon.com/23398359/hunter-x-hunter-manga-return-date-succession-arc-chapter-391-vol-37)
+ - [Goth Ninja RPG wasn’t a game, but I loved playing it](https://www.polygon.com/23374341/goth-ninja-rpg-fashion-advice-subreddit)
+ - [Overwatch 2 Twitch Drops: What To Know About Scoring Kiriko&#39;s Exclusive Goodies [Update]](https://kotaku.com/overwatch-2-blizzard-twitch-drop-kiriko-legendary-skin-1849632424)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
