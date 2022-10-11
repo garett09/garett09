@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wemen bad...](http://9gag.com/gag/a5XP6dr)
- - 🚯 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
- - 🚯 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
+ - 🚖 [Wonder where they got the coupons for 100% off all products in LA](http://9gag.com/gag/a1Pe71w)
+ - 🚯 [Wemen bad...](http://9gag.com/gag/a5XP6dr)
+ - 🚯 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)<!-- MEMES:END -->
 
 --- 
 
