@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wonder where they got the coupons for 100% off all products in LA](http://9gag.com/gag/a1Pe71w)
- - 🚯 [Wemen bad...](http://9gag.com/gag/a5XP6dr)
- - 🚯 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)<!-- MEMES:END -->
+ - 🚖 [One of the most cruel pranks i ever saw. A Mexican kid pranked his mother, i guess he&#39;s grounded till his late 40&#39;s](http://9gag.com/gag/aMEr4dM)
+ - 🚯 [Bitter dreams](http://9gag.com/gag/az2Ex7z)
+ - 🚯 [Lol](http://9gag.com/gag/a04LeBv)<!-- MEMES:END -->
 
 --- 
 
