@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 mod turns you into a real Edgerunners cyberpsycho](https://www.pcgamer.com/cyberpunk-2077-mod-turns-you-into-a-real-edgerunners-cyberpsycho)
- - [The Meta Quest Pro could be the new best VR headset, but it costs $1,500](https://www.pcgamer.com/meta-quest-pro-announcement)
- - [Vtubers Apologize For Streaming Porn During A Live Splatoon 3 Match](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)<!-- GAME:END -->
+ - [Cowards: Lady Dimitrescu Will Be Shorter In The Resident Evil Village DLC](https://kotaku.com/lady-dimitrescu-resident-evil-village-dlc-shorter-1849645472)
+ - [Blizzard Apologizes For Rocky Overwatch 2 Launch With Free Skin, Charm, More](https://kotaku.com/overwatch-2-reaper-skin-charm-double-xp-torb-bastion-1849645467)
+ - [Google Kills Cloud Gaming Service, Announces Cloud Gaming Laptops](https://kotaku.com/chromebook-google-geforce-now-xbox-cloud-gaming-amazon-1849645405)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
