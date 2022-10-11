@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $235 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [The best Amazon Prime Early Access deals under $50](https://www.theverge.com/23393413/amazon-prime-deals-under-50-best-cheap-early-access-tech-2022)
- - [Wendell &amp; Wild is raising hell in its latest trailer](https://www.theverge.com/23398383/wendell-and-wild-netflix-trailer-release-date)<!-- TECH:END -->
+ - [Over a dozen job openings indicate TikTok plans to build fulfillment centers in the US as it looks to build an &quot;international e-commerce fulfillment system&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/221011/p28#a221011p28)
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [The new AirPods Pro have hit an all-time low](https://www.theverge.com/2022/10/11/23397390/amazon-prime-deal-apple-airpods-pro-airpods-early-access-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
