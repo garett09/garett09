@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta finally unveils the Quest Pro and its hefty price tag](https://www.androidauthority.com/meta-quest-pro-3218904/)
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Marvel’s Blade has been put on hold](https://www.theverge.com/2022/10/11/23399110/mcu-blade-on-hold-release-date)<!-- TECH:END -->
+ - [Check out some great Amazon Prime Early Access Razer gaming deals](https://www.androidauthority.com/amazon-prime-razer-gaming-deals-3218979/)
+ - [In a rare speech, the UK&#39;s GCHQ head Jeremy Fleming warns China&#39;s tech ambitions, including a CBDC currency, are a security issue &quot;that will define our future&quot; &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/221011/p45#a221011p45)
+ - [43 Best Prime Day Laptop, Phone, TV, and Tech Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-amazon-prime-day-laptop-tv-phones-tech-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
