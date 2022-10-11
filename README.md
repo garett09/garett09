@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
- - 🚯 [Children doesn&#39;t know](http://9gag.com/gag/aA0rbG9)
- - 🚯 [Women moment](http://9gag.com/gag/aGEwEvG)<!-- MEMES:END -->
+ - 🚖 [Trying styles](http://9gag.com/gag/aoK0e7A)
+ - 🚯 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
+ - 🚯 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
 
 --- 
 
