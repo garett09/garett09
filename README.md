@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CNN closes its &quot;Vault by CNN&quot; NFT project, launched in 2021 to &quot;own a piece of history&quot;, and plans to compensate purchasers with FLOW tokens or stablecoins &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/221011/p11#a221011p11)
- - [Delta Airlines will invest up to $200 million in Joby Aviation to create a ‘home-to-airport’ air taxi service](https://www.theverge.com/2022/10/11/23396851/delta-joby-invest-evtol-home-to-airport)
- - [GM created a new energy business to sell batteries and solar panels in bid to dethrone Tesla](https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility)<!-- TECH:END -->
+ - [Barcelona-based Factorial, which offers HR tools for SMBs, raised a $120M Series C led by Atomico at a $1B valuation, up from ~$500M in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221011/p15#a221011p15)
+ - [A look at efforts by Twitch executives at TwitchCon to reassure streamers about monetary concerns, as Amazon stresses financial independence for the service &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221011/p14#a221011p14)
+ - [These Sci-Fi Visions for Interstellar Travel Just Might Work](https://www.wired.com/story/travelers-guide-to-the-stars-interstellar-travel/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
