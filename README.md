@@ -195,8 +195,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Devil](http://9gag.com/gag/amA0154)
- - 🚯 [The sound we can approve.](http://9gag.com/gag/agov1A6)
+ - 🚖 [Kenyon Martin called out Jeremy Lin for his hair and Lin had a wholesome response](http://9gag.com/gag/aGEwygK)
+ - 🚯 [I swear, sometimes it&#39;s just not worth it](http://9gag.com/gag/ay203mV)
  - 🚯 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)<!-- MEMES:END -->
 
 --- 
