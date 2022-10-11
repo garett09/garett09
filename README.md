@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta spokesperson: documentation in an article alleging Instagram removed posts flagged by a BJP member in India without oversight &quot;appears to be fabricated&quot; &lpar;Andy Stone/@andymstone&rpar;](http://www.techmeme.com/221010/p26#a221010p26)
- - [CNN accused of rug pull as it abandons its NFT project](https://www.theverge.com/2022/10/10/23397766/vault-by-cnn-nft-shutdown-flow-rebate-rugpull)
- - [Unsealed court docs: Peiter Zatko said he burned 10 notebooks and deleted 100 computer files at the behest of Twitter managers as part of his severance package &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221010/p25#a221010p25)<!-- TECH:END -->
+ - [Data analysis of Twitter&#39;s Birdwatch crowdsourced moderation tool: posts regarding COVID and &quot;stop the steal&quot; misinformation have been top areas of focus &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/221011/p2#a221011p2)
+ - [Google reportedly says face unlock won’t be coming to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-face-unlock-canceled-3218581/)
+ - [Chip-related stocks slump in Japan, South Korea, and Taiwan after US curbs on China; the PHLX chip index fell to its lowest level since November 2020 on Monday &lpar;Naoto Hosoda/Bloomberg&rpar;](http://www.techmeme.com/221011/p1#a221011p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
