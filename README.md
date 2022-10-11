@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I swear, sometimes it&#39;s just not worth it](http://9gag.com/gag/ay203mV)
+ - 🚖 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)
  - 🚯 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
- - 🚯 [Michael J Fox and Cristopher Lloyd reception at Comic Con](http://9gag.com/gag/aoK05zw)<!-- MEMES:END -->
+ - 🚯 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
 
 --- 
 
