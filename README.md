@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airwallex, which provides cross-border banking and other financial services for businesses, raised a $100M Series E2, bringing its total funding to over $900M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221010/p24#a221010p24)
- - [Keychron Q8 Review: A good starter ergonomic &amp; mechanical keyboard](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)
- - [The best Prime Early Access headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
+ - [Meta spokesperson: documentation in an article alleging Instagram removed posts flagged by a BJP member in India without oversight &quot;appears to be fabricated&quot; &lpar;Andy Stone/@andymstone&rpar;](http://www.techmeme.com/221010/p26#a221010p26)
+ - [CNN accused of rug pull as it abandons its NFT project](https://www.theverge.com/2022/10/10/23397766/vault-by-cnn-nft-shutdown-flow-rebate-rugpull)
+ - [Unsealed court docs: Peiter Zatko said he burned 10 notebooks and deleted 100 computer files at the behest of Twitter managers as part of his severance package &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221010/p25#a221010p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
