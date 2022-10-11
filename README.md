@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 Best Prime Day Laptop, Phone, TV, and Tech Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-amazon-prime-day-laptop-tv-phones-tech-deals-2022/)
- - [Insite, which uses AI to help companies price, distribute, and promote packaged goods, raised a $19M Series A from NewRoad Capital and Microsoft&#39;s M12 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221011/p25#a221011p25)
- - [Sony Prime Day Headphones Deals: Save $72 on LinkBuds S, $50 on WH-1000XM5     - CNET](https://www.cnet.com/deals/best-sony-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $235 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [The best Amazon Prime Early Access deals under $50](https://www.theverge.com/23393413/amazon-prime-deals-under-50-best-cheap-early-access-tech-2022)
+ - [Wendell &amp; Wild is raising hell in its latest trailer](https://www.theverge.com/23398383/wendell-and-wild-netflix-trailer-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
