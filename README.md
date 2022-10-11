@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the most cruel pranks i ever saw. A Mexican kid pranked his mother, i guess he&#39;s grounded till his late 40&#39;s](http://9gag.com/gag/aMEr4dM)
- - 🚯 [Bitter dreams](http://9gag.com/gag/az2Ex7z)
- - 🚯 [Lol](http://9gag.com/gag/a04LeBv)<!-- MEMES:END -->
+ - 🚖 [Bitter dreams](http://9gag.com/gag/az2Ex7z)
+ - 🚯 [Lol](http://9gag.com/gag/a04LeBv)
+ - 🚯 [\u201cThe perfect cosplay doesn\u2019t exis\u2026\u2026.\u201d](http://9gag.com/gag/aNwZLnv)<!-- MEMES:END -->
 
 --- 
 
