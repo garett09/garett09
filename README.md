@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-in-2022?utm_medium=rss)
- - [Prime Early Access Sale: All the best deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
- - [The best anti-Prime Early Access Sale deals happening at Best Buy](https://www.theverge.com/23396764/best-buy-sale-deals-october-prime-day-tech-gadgets-2022)<!-- TECH:END -->
+ - [The best anti-Prime Early Access Sale tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
+ - [A look inside Meta&#39;s Reality Labs, with demos of its neural input wristband, 3D audio, photorealistic avatars with Codec Avatars 2.0, and 3D object scanning &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/221011/p49#a221011p49)
+ - [Zuckerberg thinks Apple is making aggressive moves now to control the metaverse](https://appleinsider.com/articles/22/10/11/zuckerberg-thinks-apple-is-making-aggressive-moves-now-to-control-the-metaverse?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
