@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Parliament approves Markets in Crypto Assets bill 28 to 1, which if passed in next vote will limit stablecoin token issuance, regulate mining, and more &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/221010/p23#a221010p23)
- - [Best Google Pixel Deals: Preorder Offers on Pixel 7, $398 Off Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Someone Re-created &#39;the Known Universe&#39; in Minecraft     - CNET](https://www.cnet.com/tech/gaming/someone-re-created-the-known-universe-in-minecraft/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Airwallex, which provides cross-border banking and other financial services for businesses, raised a $100M Series E2, bringing its total funding to over $900M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221010/p24#a221010p24)
+ - [Keychron Q8 Review: A good starter ergonomic &amp; mechanical keyboard](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)
+ - [The best Prime Early Access headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
