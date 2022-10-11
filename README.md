@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
- - 🚯 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
- - 🚯 [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)<!-- MEMES:END -->
+ - 🚖 [A woman completely disappeared behind Scarlett Johansson on the red carpet](http://9gag.com/gag/a5XPV6r)
+ - 🚯 [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)
+ - 🚯 [Pay attention to your surroundings at all times](http://9gag.com/gag/aOxb2V3)<!-- MEMES:END -->
 
 --- 
 
