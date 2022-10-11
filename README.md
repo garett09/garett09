@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data analysis of Twitter&#39;s Birdwatch crowdsourced moderation tool: posts regarding COVID and &quot;stop the steal&quot; misinformation have been top areas of focus &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/221011/p2#a221011p2)
- - [Google reportedly says face unlock won’t be coming to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-face-unlock-canceled-3218581/)
- - [Chip-related stocks slump in Japan, South Korea, and Taiwan after US curbs on China; the PHLX chip index fell to its lowest level since November 2020 on Monday &lpar;Naoto Hosoda/Bloomberg&rpar;](http://www.techmeme.com/221011/p1#a221011p1)<!-- TECH:END -->
+ - [We asked, you told us: You’re split over trusting a Google VPN service](https://www.androidauthority.com/trust-google-vpn-service-poll-results-3218130/)
+ - [Data analysis: users of Twitter&#39;s Birdwatch fact-checking tool have focused on posts about COVID-19, false earthquake predictions, and election misinformation &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/221011/p2#a221011p2)
+ - [Google reportedly says face unlock won’t be coming to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-face-unlock-canceled-3218581/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
