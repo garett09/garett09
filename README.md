@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Nice When A Studio Can Rebrand Into Something Prettier](https://kotaku.com/onoma-square-enix-montreal-rebrand-graphic-design-1849640505)
- - [Darktide class spotlight looks down the sights of the Veteran Sharpshooter](https://www.pcgamer.com/darktide-class-spotlight-looks-down-the-sights-of-the-veteran-sharpshooter)
- - [Persona 3 and 4 finally hit all modern platforms in January](https://www.polygon.com/23396858/persona-3-4-switch-xbox-pc-ps5-release-date)<!-- GAME:END -->
+ - [2K Customer Data Was Stolen, Sold Online After Support Desk Scam](https://kotaku.com/2k-hack-scam-malware-support-desk-email-1849640771)
+ - [Overwatch 2 Locks A Third Of The Roster For Some Players While Blizzard Tries Putting Out Fires](https://kotaku.com/overwatch-2-torbjorn-bastion-roster-locked-heroes-bugs-1849640751)
+ - [Overwatch 2 temporarily loses Bastion and Torbjörn](https://www.pcgamer.com/overwatch-2-temporarily-loses-bastion-and-torbjorn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
