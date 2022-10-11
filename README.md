@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku could be setting its sights on the smart home](https://www.theverge.com/2022/10/11/23398152/roku-smart-home-light-strip-smart-bulbs-plug-indoor-outdoor-security-camera)
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $235 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Amazon Prime Early Access Sale: Great discounts on Bose QuietComfort 45 and more](https://www.androidauthority.com/amazon-prime-early-access-sale-bose-deals-3218619/)<!-- TECH:END -->
+ - [Billionaire tech investor Yuri Milner renounced his Russian citizenship in August, after leaving Russia in 2014; Milner has been an Israeli citizen since 1999 &lpar;Joseph Pisani/Wall Street Journal&rpar;](http://www.techmeme.com/221011/p6#a221011p6)
+ - [Prime Early Access Sale: All the best deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
+ - [In a court hearing over Crypto.com erroneously sending an Australian woman $10.5M, an executive says a worker in Bulgaria entered the wrong data on Excel &lpar;The Guardian&rpar;](http://www.techmeme.com/221011/p5#a221011p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
