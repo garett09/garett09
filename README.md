@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)
- - 🚯 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
- - 🚯 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)<!-- MEMES:END -->
+ - 🚖 [Devil](http://9gag.com/gag/amA0154)
+ - 🚯 [The sound we can approve.](http://9gag.com/gag/agov1A6)
+ - 🚯 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)<!-- MEMES:END -->
 
 --- 
 
