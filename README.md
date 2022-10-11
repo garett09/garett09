@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dragon Ball: The Breakers adapted the fighting franchise into an asymmetrical survival game](https://blog.playstation.com/2022/10/11/how-dragon-ball-the-breakers-adapted-the-fighting-franchise-into-an-asymmetrical-survival-game/)
- - [Best Amazon Prime Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [The best Amazon Prime Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
+ - [The Week In Games: Dragon Ball Baddies Break Out](https://kotaku.com/october-2022-game-releases-out-this-week-dragon-ball-1849641971)
+ - [A lost paper doll game gave me an abrupt crash course in living online](https://www.polygon.com/23373208/doll-war-paper-doll-game-forum-community)
+ - [How to unlock the Bytes outfit and tune the TV in Fortnite](https://www.pcgamer.com/fortnite-how-to-tune-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
