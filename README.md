@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have proven yourself, but at what cost?](http://9gag.com/gag/a8qYEqO)
- - 🚯 [Interesting, depressing but interesting](http://9gag.com/gag/aZDxg1p)
- - 🚯 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)<!-- MEMES:END -->
+ - 🚖 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)
+ - 🚯 [Wonder where they got the coupons for 100% off all products in LA](http://9gag.com/gag/a1Pe71w)
+ - 🚯 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/aVbWxZO)<!-- MEMES:END -->
 
 --- 
 
