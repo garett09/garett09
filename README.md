@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals from Walmart’s competing Prime Day event](https://www.theverge.com/23398472/walmart-sale-best-deals-prime-day-tech-gadgets-2022)
- - [Meta’s workout-friendly Quest Active Pack is releasing October 25th](https://www.theverge.com/2022/10/11/23389529/meta-quest-2-active-pack-accessory-kit-release-date-price)
- - [Google Pixel 7 Pro vs iPhone 14 Pro: Which should you buy?](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-3218568/)<!-- TECH:END -->
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [Meta figured out legs for its avatars](https://www.theverge.com/2022/10/11/23390503/meta-quest-horizon-avatars-legs)
+ - [Meta partners with Microsoft to bring Teams, Office, Windows 365, and Xbox Cloud Gaming to Quest VR headsets &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221011/p39#a221011p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
