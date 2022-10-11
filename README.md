@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get up to 41% off Samsung tablets in these Prime Early Access deals](https://www.androidauthority.com/samsung-tablet-prime-day-3185149/)
- - [The Meta Connect keynote felt overscripted and &quot;incredibly thirsty&quot;, with its prolonged pitch for VR and the metaverse coming off as one of tech&#39;s hardest sells &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/221011/p46#a221011p46)
- - [Asteroid-smashing planetary defense test was a success, NASA confirms](https://www.theverge.com/2022/10/11/23399150/nasa-asteroid-dart-dimorphos-didymos-planetary-defense)<!-- TECH:END -->
+ - [How to Watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-in-2022?utm_medium=rss)
+ - [Prime Early Access Sale: All the best deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
+ - [The best anti-Prime Early Access Sale deals happening at Best Buy](https://www.theverge.com/23396764/best-buy-sale-deals-october-prime-day-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
