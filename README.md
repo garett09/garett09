@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)
- - 🚯 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
- - 🚯 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
+ - 🚖 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
+ - 🚯 [Jetfuel burns at 1000\u00b0C, steel gets soft at lower temperatures...](http://9gag.com/gag/arm4mEK)
+ - 🚯 [The sound we can approve.](http://9gag.com/gag/agov1A6)<!-- MEMES:END -->
 
 --- 
 
