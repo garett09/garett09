@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barcelona-based Factorial, which offers HR tools for SMBs, raised a $120M Series C led by Atomico at a $1B valuation, up from ~$500M in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221011/p15#a221011p15)
- - [A look at efforts by Twitch executives at TwitchCon to reassure streamers about monetary concerns, as Amazon stresses financial independence for the service &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221011/p14#a221011p14)
- - [These Sci-Fi Visions for Interstellar Travel Just Might Work](https://www.wired.com/story/travelers-guide-to-the-stars-interstellar-travel/)<!-- TECH:END -->
+ - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
+ - [Google adds automatic transcriptions in English to Meet and plans to add support for French, German, Spanish, and Portuguese in 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221011/p20#a221011p20)
+ - [Google updates its Workspace enterprise suite, adding integration with Atlassian, Figma, and other services, releasing new APIs for Chat and Meet, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221011/p19#a221011p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
