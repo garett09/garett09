@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego owner Kirkbi acquires Brainpop, which makes short educational animated videos and other materials for US schools, for $875M &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/221011/p30#a221011p30)
- - [The Biden administration’s proposal could classify gig workers as employees](https://www.theverge.com/2022/10/11/23398575/gig-workers-employees-biden-administration-proposal-regulation-classify)
- - [The best Prime Early Access deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)<!-- TECH:END -->
+ - [The best deals from Walmart’s competing Prime Day event](https://www.theverge.com/23398472/walmart-sale-best-deals-prime-day-tech-gadgets-2022)
+ - [Meta’s workout-friendly Quest Active Pack is releasing October 25th](https://www.theverge.com/2022/10/11/23389529/meta-quest-2-active-pack-accessory-kit-release-date-price)
+ - [Google Pixel 7 Pro vs iPhone 14 Pro: Which should you buy?](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-3218568/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
