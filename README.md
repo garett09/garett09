@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying styles](http://9gag.com/gag/aoK0e7A)
- - 🚯 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
- - 🚯 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
+ - 🚖 [You have proven yourself, but at what cost?](http://9gag.com/gag/a8qYEqO)
+ - 🚯 [Interesting, depressing but interesting](http://9gag.com/gag/aZDxg1p)
+ - 🚯 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)<!-- MEMES:END -->
 
 --- 
 
