@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto, Dragon Quest headline PS Plus Extra games for October](https://www.polygon.com/23400752/playstation-plus-games-for-october-2022-extra-premium)
- - [Play Halo Infinite, Forza Horizon 5, and More Games From the Cloud on More Devices Starting Today](https://news.xbox.com/en-us/2022/10/12/play-more-games-from-the-cloud-on-more-devices-today/)
- - [The new shooter from the makers of Bulletstorm is delayed to 2023](https://www.pcgamer.com/the-new-shooter-from-the-makers-of-bulletstorm-is-delayed-to-2023)<!-- GAME:END -->
+ - [House of the Dragon and Game of Thrones aren’t really part of the same timeline anymore](https://www.polygon.com/23399493/house-dragon-game-thrones-endings-timeline)
+ - [MultiVersus’ new patch includes a Halloween event and an evil Gremlin](https://www.polygon.com/23400855/multiversus-stripe-release-date-gremlins-patch-notes-halloween-event)
+ - [Cyberpunk 2077 Mod Lets You Experience Your Brain On Cyberpsychosis, Just Like The Netflix Anime](https://kotaku.com/cyberpunk-2077-edgerunners-cyberpsychosis-nexus-mod-1849648388)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
