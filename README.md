@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart plug deals from Amazon’s fall Prime Day event](https://www.theverge.com/23399193/amazon-prime-day-early-access-sale-best-smart-plug-deals-kasa-philips-2022)
- - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Meet the CO2 battery cozying up with a wind energy giant](https://www.theverge.com/2022/10/12/23399567/co2-battery-wind-solar-renewable-energy-storage)<!-- TECH:END -->
+ - [The best headphone deals from Amazon’s fall Prime Day sale](https://www.theverge.com/23398304/amazon-prime-deals-best-headphone-earbuds-2022)
+ - [The best gaming deals from fall Prime Day](https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022)
+ - [Shein&#39;s parent company Zoetop will pay a $1.9M penalty to New York state over a 2018 data breach that affected 39M Shein and 7M Romwe accounts &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221012/p39#a221012p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
