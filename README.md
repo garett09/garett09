@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
- - 🚯 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
- - 🚯 [Pvp server](http://9gag.com/gag/a04LXZB)<!-- MEMES:END -->
+ - 🚖 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
+ - 🚯 [Emotional damage.](http://9gag.com/gag/a7qy2pb)
+ - 🚯 [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)<!-- MEMES:END -->
 
 --- 
 
