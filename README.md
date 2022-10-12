@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best headphone deals from Amazon’s fall Prime Day sale](https://www.theverge.com/23398304/amazon-prime-deals-best-headphone-earbuds-2022)
- - [The best gaming deals from fall Prime Day](https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022)
- - [Shein&#39;s parent company Zoetop will pay a $1.9M penalty to New York state over a 2018 data breach that affected 39M Shein and 7M Romwe accounts &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221012/p39#a221012p39)<!-- TECH:END -->
+ - [Microsoft previews Places, a new app to help companies address hybrid workplace challenges, to be released in 2023 with Microsoft 365 business subscriptions &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/221012/p42#a221012p42)
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23393413/amazon-prime-deals-under-50-best-cheap-early-access-tech-2022)
+ - [Amazon faces a wave of walkouts and strikes as it heads into the season of sales](https://www.theverge.com/2022/10/12/23400847/amazon-prime-day-walkouts-strikes-labor-unions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
