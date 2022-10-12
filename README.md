@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The difference](http://9gag.com/gag/amA0W7o)
- - 🚯 [Money shot right there!](http://9gag.com/gag/ay20WAr)
- - 🚯 [When California made this legal](http://9gag.com/gag/aWGWpjq)<!-- MEMES:END -->
+ - 🚖 [Its an idea](http://9gag.com/gag/aMErXYR)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 🚯 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
 
 --- 
 
