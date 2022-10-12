@@ -103,15 +103,15 @@ while(dev.isCoding() && dev.isStuck())
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett_09&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </td>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=garett_09&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
 </td>
 </tr>
 </table>
 
-![Paula's Activity Graph](https://activity-graph.herokuapp.com/graph?username=garett_09&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
+![Garett's Activity Graph](https://activity-graph.herokuapp.com/graph?username=garett09&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
 
 
 
