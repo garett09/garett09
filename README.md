@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Early Access Sale tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
- - [A look inside Meta&#39;s Reality Labs, with demos of its neural input wristband, 3D audio, photorealistic avatars with Codec Avatars 2.0, and 3D object scanning &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/221011/p49#a221011p49)
- - [Zuckerberg thinks Apple is making aggressive moves now to control the metaverse](https://appleinsider.com/articles/22/10/11/zuckerberg-thinks-apple-is-making-aggressive-moves-now-to-control-the-metaverse?utm_medium=rss)<!-- TECH:END -->
+ - [The best smart home deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398309/amazon-prime-sale-best-smart-home-device-google-alexa-deals-2022)
+ - [The best headphone deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398304/amazon-prime-deals-best-headphone-earbuds-2022)
+ - [The best TV deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
