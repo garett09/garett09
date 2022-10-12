@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Early Access gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
- - [Pokémon Scarlet and Violet’s electric gym leader is a streamer, too](https://www.polygon.com/pokemon/23400401/pokemon-scarlet-violet-new-trailer-october-2022)
- - [Best Amazon Prime Day Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)<!-- GAME:END -->
+ - [How Splatoon’s Inklings became fashion icons](https://www.polygon.com/23385706/splatoon-3-inkling-outfits-fashion)
+ - [Pokémon Violet Vs. Pokémon Scarlet: The Big Version Differences &amp; Exclusives You Should Know](https://kotaku.com/pokemon-scarlet-violet-version-exclusives-which-to-buy-1849373320)
+ - [Final Fantasy 7’s battle royale to shut down in January](https://www.polygon.com/23400506/final-fantasy-7-the-first-soldier-ceasing-service-jan-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
