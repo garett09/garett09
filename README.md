@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)
- - [The Midnight Club has a beating gamer heart](https://www.polygon.com/23401283/midnight-club-amesh-game-playstation)
- - [A 20-Second Simpsons Joke Is Now A Fully-Fledged Game](https://kotaku.com/simpsons-waterworld-arcade-game-meme-playable-macaw45-1849650457)<!-- GAME:END -->
+ - [How to use a Nintendo Switch Pro controller on PC](https://www.pcgamer.com/how-to-use-a-nintendo-switch-pro-controller-on-pc)
+ - [New Activision Lawsuit Makes Revenge Porn, Sexual Harassment Allegations](https://kotaku.com/activision-blizzard-lawsuit-sexual-harassment-1849650622)
+ - [Cartoon Network is not dead, says Warner Bros. — but its future is uncertain](https://www.polygon.com/23401614/cartoon-network-studios-layoffs-shut-down-david-zaslav-warner-bros)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
