@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 480 answer and hint: Wednesday, October 12](https://www.pcgamer.com/todays-wordle-480-answer-hint)
- - [LG to start producing more W-OLED gaming screens](https://www.pcgamer.com/lg-to-start-producing-more-w-oled-gaming-screens)
- - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)<!-- GAME:END -->
+ - [FIFA&#39;s world cup game is some Roblox nonsense with bowling](https://www.pcgamer.com/fifas-world-cup-game-is-some-roblox-nonsense-with-bowling)
+ - [Here&#39;s where to buy Nvidia RTX 4090 cards today](https://www.pcgamer.com/where-to-buy-rtx-4090)
+ - [The best Amazon Prime Day Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
