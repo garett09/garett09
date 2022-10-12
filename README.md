@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London- and Miami-based Tatum, which offers tools to simplify blockchain app development, raised $41.5M led by Evolution Equity Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/221012/p14#a221012p14)
- - [The best TV deals from Amazon’s fall Prime Day](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)
- - [The best gaming deals from fall Prime Day](https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022)<!-- TECH:END -->
+ - [Egypt-based Telda, a money management and payments app, raised a $20M seed led by Sequoia and Global Founders, with Block and others participating &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/221012/p19#a221012p19)
+ - [Layoffs at Gimlet and Parcast expose cracks in Spotify’s exclusivity model](https://www.theverge.com/2022/10/12/23399627/spotify-gimlet-parcast-spotify-layoffs-rogan-exclusive-markle-ringer)
+ - [If China invades Taiwan, some US officials want to bomb TSMC](https://appleinsider.com/articles/22/10/12/if-china-invades-taiwan-some-us-officials-want-to-bomb-tsmc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
