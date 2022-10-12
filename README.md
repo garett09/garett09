@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cowards: Lady Dimitrescu Will Be Shorter In The Resident Evil Village DLC](https://kotaku.com/lady-dimitrescu-resident-evil-village-dlc-shorter-1849645472)
- - [Blizzard Apologizes For Rocky Overwatch 2 Launch With Free Skin, Charm, More](https://kotaku.com/overwatch-2-reaper-skin-charm-double-xp-torb-bastion-1849645467)
- - [Google Kills Cloud Gaming Service, Announces Cloud Gaming Laptops](https://kotaku.com/chromebook-google-geforce-now-xbox-cloud-gaming-amazon-1849645405)<!-- GAME:END -->
+ - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)
+ - [Overwatch 2 double XP weekends are coming to make good on launch woes](https://www.pcgamer.com/overwatch-2-double-xp-weekends-are-coming-to-make-good-on-launch-woes)
+ - [This underrated Amazon Prime benefit could save you big money during Prime Day Early Access](https://www.pcgamer.com/amazon-prime-day-warehouse-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
