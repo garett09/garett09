@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky’s Billionaires Just Got Rocked By A Galaxy-Wide Market Crash](https://kotaku.com/no-man-s-sky-waypoint-update-indium-farm-fast-units-1849648956)
- - [Saints Row’s first update is a big bunch of bug fixes](https://www.polygon.com/23401028/volition-saints-row-reboot-first-update-bug-fixes-stability-upgrades)
- - [A closer look at the great Hindi movies on Netflix](https://www.polygon.com/what-to-watch/22979071/best-hindi-movies-netflix-indian-bollywood-tamil-telugu)<!-- GAME:END -->
+ - [Kids on Bikes’ new edition adds more action to the ’80s adventure RPG](https://www.polygon.com/tabletop-games/23401090/kids-on-bikes-second-edition-kickstarter-tabletop-games)
+ - [CNN faces accusations of an NFT rug pull](https://www.pcgamer.com/cnn-faces-accusations-of-an-nft-rug-pull)
+ - [No More Heroes 3 hits PC, but it&#39;s the Switch version for some reason](https://www.pcgamer.com/no-more-heroes-3-is-now-on-pc-but-its-the-switch-version-for-some-reason)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
