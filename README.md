@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
- - 🚯 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
- - 🚯 [When California made this legal](http://9gag.com/gag/aWGWpjq)<!-- MEMES:END -->
+ - 🚖 [Have a nice day folks!](http://9gag.com/gag/aZDxZNQ)
+ - 🚯 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
+ - 🚯 [Wemen bad...](http://9gag.com/gag/a5XP6dr)<!-- MEMES:END -->
 
 --- 
 
