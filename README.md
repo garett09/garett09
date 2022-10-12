@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 7’s free VPN may last longer than you keep the phone](https://www.androidauthority.com/pixel-7-series-vpn-3219483/)
- - [Amazon plans to launch its first Project Kuiper prototype internet satellites in early 2023 on a Vulcan rocket, developed by Boeing and Lockheed Martin &lpar;Christian Davenport/Washington Post&rpar;](http://www.techmeme.com/221012/p30#a221012p30)
- - [Microsoft details Edge Workspaces, a shared set of browser tabs for collaboration, and adds new security features and accessibility tools to Edge &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221012/p29#a221012p29)<!-- TECH:END -->
+ - [The best deals of Amazon’s fall Prime Day event](https://www.theverge.com/23400318/amazon-prime-deals-best-sale-tech-tablets-tvs-earbuds-2022)
+ - [Google Pixel Watch Fitbit features: What’s there and what’s missing?](https://www.androidauthority.com/google-pixel-watch-fitbit-features-3218910/)
+ - [What is a Roku TV? What you need to know about TVs with Roku built-in](https://www.androidauthority.com/what-is-a-roku-tv-3218325/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
