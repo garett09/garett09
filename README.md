@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest announcements from Microsoft’s Surface event](https://www.theverge.com/2022/10/12/23399010/microsoft-surface-pro-9-laptop-5-studio-2-plus-event-announcements-products)
- - [Microsoft’s fall event 2022: all the news from the online Surface event](https://www.theverge.com/23386652/microsoft-surface-fall-event-news-rumors-products-announcements)
- - [Microsoft cranks up entire Surface line with new Intel processors](https://appleinsider.com/articles/22/10/12/microsoft-cranks-up-entire-surface-line-with-new-intel-processors?utm_medium=rss)<!-- TECH:END -->
+ - [The Pixel 7’s free VPN may last longer than you keep the phone](https://www.androidauthority.com/pixel-7-series-vpn-3219483/)
+ - [Amazon plans to launch its first Project Kuiper prototype internet satellites in early 2023 on a Vulcan rocket, developed by Boeing and Lockheed Martin &lpar;Christian Davenport/Washington Post&rpar;](http://www.techmeme.com/221012/p30#a221012p30)
+ - [Microsoft details Edge Workspaces, a shared set of browser tabs for collaboration, and adds new security features and accessibility tools to Edge &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221012/p29#a221012p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
