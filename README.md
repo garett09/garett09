@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft previews Places, a new app to help companies address hybrid workplace challenges, to be released in 2023 with Microsoft 365 business subscriptions &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/221012/p42#a221012p42)
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23393413/amazon-prime-deals-under-50-best-cheap-early-access-tech-2022)
- - [Amazon faces a wave of walkouts and strikes as it heads into the season of sales](https://www.theverge.com/2022/10/12/23400847/amazon-prime-day-walkouts-strikes-labor-unions)<!-- TECH:END -->
+ - [The best smart home deals from Amazon’s fall Prime Day sale](https://www.theverge.com/23398309/amazon-prime-sale-best-smart-home-device-google-alexa-deals-2022)
+ - [The best laptop deals from Amazon’s fall Prime Day event](https://www.theverge.com/23398463/amazon-prime-deals-best-laptop-deals-sale-apple-lenovo-2022)
+ - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
