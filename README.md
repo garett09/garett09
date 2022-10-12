@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The difference](http://9gag.com/gag/amA0W7o)
- - 🚯 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)
- - 🚯 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 🚖 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)
+ - 🚯 [Things about to go wrong](http://9gag.com/gag/aVbWRxK)
+ - 🚯 [Oh snap](http://9gag.com/gag/amA0Mn2)<!-- MEMES:END -->
 
 --- 
 
