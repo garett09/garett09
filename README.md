@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Science Has Wrought A Lab-Grown Gamer Brain That Plays Pong](https://kotaku.com/scientist-pong-lab-grown-brain-experiment-1849649970)
- - [The 13 Best &lpar;Not Scary&rpar; Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)
- - [I didn&#39;t create a disaster in this complex spaceship colony sim: It started that way](https://www.pcgamer.com/i-didnt-create-a-disaster-in-this-complex-spaceship-colony-sim-it-started-that-way)<!-- GAME:END -->
+ - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)
+ - [The Midnight Club has a beating gamer heart](https://www.polygon.com/23401283/midnight-club-amesh-game-playstation)
+ - [A 20-Second Simpsons Joke Is Now A Fully-Fledged Game](https://kotaku.com/simpsons-waterworld-arcade-game-meme-playable-macaw45-1849650457)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
