@@ -23,7 +23,7 @@
 
     
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
--   👩‍💻  **Currently a third year student at the University of Santo Tomas. Aiming to be a passionate developer in the future.**
+-   👩‍💻  **Currently a FOURTH year student at the University of Santo Tomas. Aiming to be a passionate developer in the future.**
 -   🔭  I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
 -   🌱  I’m currently learning **React, Python and more about Business Analytics.**
 -   👯  I’m looking to collaborate with other developers on **making a project, website or even contribute to open source software.**
