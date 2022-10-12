@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)
- - 🚯 [Things about to go wrong](http://9gag.com/gag/aVbWRxK)
- - 🚯 [Oh snap](http://9gag.com/gag/amA0Mn2)<!-- MEMES:END -->
+ - 🚖 [Its an idea](http://9gag.com/gag/aMErXYR)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 🚯 [The difference](http://9gag.com/gag/amA0W7o)<!-- MEMES:END -->
 
 --- 
 
