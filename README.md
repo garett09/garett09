@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 players get free cosmetics, 2XP weekends to make up for downtime](https://www.polygon.com/23400516/overwatch-2-downtime-free-reaper-skin-double-xp-weekends-dates)
- - [Cyberpunk 2077 dev rescues Stadia players from losing their saves](https://www.polygon.com/23400562/cyberpunk-2077-stadia-save-transfer-pc)
- - [VTubers Banned From YouTube After Streaming Splatoon 3 Porn [Update]](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)<!-- GAME:END -->
+ - [Grand Theft Auto, Dragon Quest headline PS Plus Extra games for October](https://www.polygon.com/23400752/playstation-plus-games-for-october-2022-extra-premium)
+ - [Play Halo Infinite, Forza Horizon 5, and More Games From the Cloud on More Devices Starting Today](https://news.xbox.com/en-us/2022/10/12/play-more-games-from-the-cloud-on-more-devices-today/)
+ - [The new shooter from the makers of Bulletstorm is delayed to 2023](https://www.pcgamer.com/the-new-shooter-from-the-makers-of-bulletstorm-is-delayed-to-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
