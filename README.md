@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Paris-based Homa, which offers indie mobile game studios an SDK for optimizing their casual games, raised a $100M Series B led by Quadrille Capital and Headline &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221012/p3#a221012p3)
- - [In a staff letter, Intel CEO Pat Gelsinger says the company plans to create greater decision-making separation between its chip design and chip production arms &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/221012/p2#a221012p2)<!-- TECH:END -->
+ - [A look at India&#39;s plan to build a wholly local supply chain, as its IT minister says the government is &quot;actively encouraging and supporting&quot; Apple&#39;s investments &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/221012/p5#a221012p5)
+ - [Intel reportedly planning major layoffs, likely affecting thousands of jobs](https://www.theverge.com/2022/10/12/23400257/intel-layoffs-job-cuts-planned-thousands-declining-pc-market)
+ - [Netflix joins the British ratings agency, or BARB, as a full member, publishing independently audited viewing figures on individual shows for the first time &lpar;Jim Waterson/The Guardian&rpar;](http://www.techmeme.com/221012/p4#a221012p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
