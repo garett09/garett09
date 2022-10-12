@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Egypt-based Telda, a money management and payments app, raised a $20M seed led by Sequoia and Global Founders, with Block and others participating &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/221012/p19#a221012p19)
- - [Layoffs at Gimlet and Parcast expose cracks in Spotify’s exclusivity model](https://www.theverge.com/2022/10/12/23399627/spotify-gimlet-parcast-spotify-layoffs-rogan-exclusive-markle-ringer)
- - [If China invades Taiwan, some US officials want to bomb TSMC](https://appleinsider.com/articles/22/10/12/if-china-invades-taiwan-some-us-officials-want-to-bomb-tsmc?utm_medium=rss)<!-- TECH:END -->
+ - [The best Samsung Galaxy Z Fold 4 cases](https://www.androidauthority.com/best-samsung-galaxy-z-fold-4-cases-3194634/)
+ - [Why Meta’s CTO is bullish on VR](https://www.theverge.com/23400510/quest-pro-boz-interview-meta-virtual-reality-cto-vr)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
