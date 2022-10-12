@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Z Fold 4 cases](https://www.androidauthority.com/best-samsung-galaxy-z-fold-4-cases-3194634/)
- - [Why Meta’s CTO is bullish on VR](https://www.theverge.com/23400510/quest-pro-boz-interview-meta-virtual-reality-cto-vr)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)<!-- TECH:END -->
+ - [The biggest announcements from Microsoft’s Surface event](https://www.theverge.com/2022/10/12/23399010/microsoft-surface-pro-9-laptop-5-studio-2-plus-event-announcements-products)
+ - [Microsoft’s fall event 2022: all the news from the online Surface event](https://www.theverge.com/23386652/microsoft-surface-fall-event-news-rumors-products-announcements)
+ - [Microsoft cranks up entire Surface line with new Intel processors](https://appleinsider.com/articles/22/10/12/microsoft-cranks-up-entire-surface-line-with-new-intel-processors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
