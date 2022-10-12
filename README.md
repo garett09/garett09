@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rob Halford in court singing Better by You, Better Than Me because parents believed the song contained subliminal messages.](http://9gag.com/gag/axoZ6MM)
- - 🚯 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
- - 🚯 [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)<!-- MEMES:END -->
+ - 🚖 [Devil](http://9gag.com/gag/amA0154)
+ - 🚯 [Kenyon Martin called out Jeremy Lin for his hair and Lin had a wholesome response](http://9gag.com/gag/aGEwygK)
+ - 🚯 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
 
 --- 
 
