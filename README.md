@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reveals the colorful Surface Pro 9 and other hardware](https://www.androidauthority.com/microsoft-surface-pro-9-3219601/)
- - [How to fix the &#39;Apple Card can not be used&#39; error in Wallet](https://appleinsider.com/inside/apple-pay/tips/how-to-fix-the-apple-card-can-not-be-used-error-in-wallet?utm_medium=rss)
- - [67 Best Prime Day Laptop, Phone, TV, and Tech Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-amazon-prime-day-laptop-tv-phones-tech-deals-2022-1/)<!-- TECH:END -->
+ - [Google Pixel 7 and 7 Pro review: faster biometric unlocking and bright screens, but underwhelming speech and intelligence features, and 7 display is still 90Hz &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/221012/p35#a221012p35)
+ - [The Bose QuietComfort 45 at $229 is our pick for best headphone deal of Prime Day](https://www.theverge.com/2022/10/12/23401035/bose-quietcomfort-45-qc45-headphones-amazon-prime-deal-sale)
+ - [Sources: Apple holds early discussions with media agencies over monetizing its original video content through ads, possibly as early as 2023 &lpar;Digiday&rpar;](http://www.techmeme.com/221012/p34#a221012p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
