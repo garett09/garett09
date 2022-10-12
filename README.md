@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfectly parked](http://9gag.com/gag/aEq1qrK)
- - 🚯 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
- - 🚯 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
+ - 🚖 [The world&#39;s first deepfake series `\u041f\u041c\u0416\u0415\u0419\u0421\u041e\u041d` was filmed in Russia - in which Jason Statham and Keanu Reeves fry kebabs in the village amd Margot Robbie bargaining for the purchase of a Zhiguli.](http://9gag.com/gag/a1PePKD)
+ - 🚯 [The difference](http://9gag.com/gag/amA0W7o)
+ - 🚯 [Wemen bad...](http://9gag.com/gag/a5XP6dr)<!-- MEMES:END -->
 
 --- 
 
