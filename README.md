@@ -181,9 +181,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [LG to start producing more W-OLED gaming screens](https://www.pcgamer.com/lg-to-start-producing-more-w-oled-gaming-screens)
  - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)
- - [Overwatch 2 double XP weekends are coming to make good on launch woes](https://www.pcgamer.com/overwatch-2-double-xp-weekends-are-coming-to-make-good-on-launch-woes)
- - [This underrated Amazon Prime benefit could save you big money during Prime Day Early Access](https://www.pcgamer.com/amazon-prime-day-warehouse-deals)<!-- GAME:END -->
+ - [Overwatch 2 double XP weekends are coming to make good on launch woes](https://www.pcgamer.com/overwatch-2-double-xp-weekends-are-coming-to-make-good-on-launch-woes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
