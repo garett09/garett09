@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA&#39;s world cup game is some Roblox nonsense with bowling](https://www.pcgamer.com/fifas-world-cup-game-is-some-roblox-nonsense-with-bowling)
- - [Here&#39;s where to buy Nvidia RTX 4090 cards today](https://www.pcgamer.com/where-to-buy-rtx-4090)
- - [The best Amazon Prime Day Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)<!-- GAME:END -->
+ - [The best Amazon Early Access gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
+ - [Pokémon Scarlet and Violet’s electric gym leader is a streamer, too](https://www.polygon.com/pokemon/23400401/pokemon-scarlet-violet-new-trailer-october-2022)
+ - [Best Amazon Prime Day Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
