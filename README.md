@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Devil](http://9gag.com/gag/amA0154)
- - 🚯 [Kenyon Martin called out Jeremy Lin for his hair and Lin had a wholesome response](http://9gag.com/gag/aGEwygK)
- - 🚯 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
+ - 🚖 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)
+ - 🚯 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
+ - 🚯 [Kenyon Martin called out Jeremy Lin for his hair and Lin had a wholesome response](http://9gag.com/gag/aGEwygK)<!-- MEMES:END -->
 
 --- 
 
