@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its an idea](http://9gag.com/gag/aMErXYR)
- - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 🚯 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 🚖 [Wemen bad...](http://9gag.com/gag/a5XP6dr)
+ - 🚯 [Canada announces new military aid package for Ukraine. It includes ammunition, communications equipment, armored vehicles, artillery and 500,000 sets of winter clothing and equipment. While Russians freeze in trenches, Ukrainians can dress half a million more troops.](http://9gag.com/gag/aoK0n93)
+ - 🚯 [Putin was complaining about NATO in Ukraine. Now his conscripts are fighting NATO trained soldiers with their NATO standard equipments.](http://9gag.com/gag/a7qyp1q)<!-- MEMES:END -->
 
 --- 
 
