@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [TikTok says it will take prompt action against &quot;exploitative begging&quot;, after an investigation found refugees in Syria pleading for digital gifts on the platform &lpar;BBC&rpar;](http://www.techmeme.com/221012/p1#a221012p1)
- - [The best deals from Amazon’s fall Prime Day event](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)<!-- TECH:END -->
+ - [Paris-based Homa, which offers indie mobile game studios an SDK for optimizing their casual games, raised a $100M Series B led by Quadrille Capital and Headline &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221012/p3#a221012p3)
+ - [In a staff letter, Intel CEO Pat Gelsinger says the company plans to create greater decision-making separation between its chip design and chip production arms &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/221012/p2#a221012p2)
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
