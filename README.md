@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon and Game of Thrones aren’t really part of the same timeline anymore](https://www.polygon.com/23399493/house-dragon-game-thrones-endings-timeline)
- - [MultiVersus’ new patch includes a Halloween event and an evil Gremlin](https://www.polygon.com/23400855/multiversus-stripe-release-date-gremlins-patch-notes-halloween-event)
- - [Cyberpunk 2077 Mod Lets You Experience Your Brain On Cyberpsychosis, Just Like The Netflix Anime](https://kotaku.com/cyberpunk-2077-edgerunners-cyberpsychosis-nexus-mod-1849648388)<!-- GAME:END -->
+ - [No Man’s Sky’s Billionaires Just Got Rocked By A Galaxy-Wide Market Crash](https://kotaku.com/no-man-s-sky-waypoint-update-indium-farm-fast-units-1849648956)
+ - [Saints Row’s first update is a big bunch of bug fixes](https://www.polygon.com/23401028/volition-saints-row-reboot-first-update-bug-fixes-stability-upgrades)
+ - [A closer look at the great Hindi movies on Netflix](https://www.polygon.com/what-to-watch/22979071/best-hindi-movies-netflix-indian-bollywood-tamil-telugu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
