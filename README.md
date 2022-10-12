@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain web search startup nxyz, founded by ex-Google executive Sridhar Ramaswamy, raised a $40M Series A in May led by Paradigm; Ramaswamy also runs Neeva &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221012/p7#a221012p7)
- - [Microsoft Teams can soon be set as default on Cisco conferencing hardware](https://www.theverge.com/2022/10/12/23400295/microsoft-teams-certified-cisco-room-bar-kit-pro-board-pro-55-75-inch)
- - [Samsung’s One UI design is getting stale](https://www.androidauthority.com/samsung-one-ui-stale-3210368/)<!-- TECH:END -->
+ - [London- and Miami-based Tatum, which offers tools to simplify blockchain app development, raised $41.5M led by Evolution Equity Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/221012/p14#a221012p14)
+ - [The best TV deals from Amazon’s fall Prime Day](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)
+ - [The best gaming deals from fall Prime Day](https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
