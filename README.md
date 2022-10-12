@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Splatoon’s Inklings became fashion icons](https://www.polygon.com/23385706/splatoon-3-inkling-outfits-fashion)
- - [Pokémon Violet Vs. Pokémon Scarlet: The Big Version Differences &amp; Exclusives You Should Know](https://kotaku.com/pokemon-scarlet-violet-version-exclusives-which-to-buy-1849373320)
- - [Final Fantasy 7’s battle royale to shut down in January](https://www.polygon.com/23400506/final-fantasy-7-the-first-soldier-ceasing-service-jan-2023)<!-- GAME:END -->
+ - [Overwatch 2 players get free cosmetics, 2XP weekends to make up for downtime](https://www.polygon.com/23400516/overwatch-2-downtime-free-reaper-skin-double-xp-weekends-dates)
+ - [Cyberpunk 2077 dev rescues Stadia players from losing their saves](https://www.polygon.com/23400562/cyberpunk-2077-stadia-save-transfer-pc)
+ - [VTubers Banned From YouTube After Streaming Splatoon 3 Porn [Update]](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
