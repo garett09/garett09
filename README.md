@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have a nice day folks!](http://9gag.com/gag/aZDxZNQ)
- - 🚯 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
- - 🚯 [Wemen bad...](http://9gag.com/gag/a5XP6dr)<!-- MEMES:END -->
+ - 🚖 [The difference](http://9gag.com/gag/amA0W7o)
+ - 🚯 [Money shot right there!](http://9gag.com/gag/ay20WAr)
+ - 🚯 [When California made this legal](http://9gag.com/gag/aWGWpjq)<!-- MEMES:END -->
 
 --- 
 
