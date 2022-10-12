@@ -195,9 +195,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
- - 🚯 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
- - 🚯 [The difference](http://9gag.com/gag/amA0W7o)<!-- MEMES:END -->
+ - 🚖 [Devil](http://9gag.com/gag/amA0154)
+ - 🚯 [The difference](http://9gag.com/gag/amA0W7o)
+ - 🚯 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
 
 --- 
 
