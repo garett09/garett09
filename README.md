@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
- - 🚯 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
- - 🚯 [Truck goes brum brum](http://9gag.com/gag/aNwZ9wr)<!-- MEMES:END -->
+ - 🚖 [Perfectly parked](http://9gag.com/gag/aEq1qrK)
+ - 🚯 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
+ - 🚯 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
 
 --- 
 
