@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kids on Bikes’ new edition adds more action to the ’80s adventure RPG](https://www.polygon.com/tabletop-games/23401090/kids-on-bikes-second-edition-kickstarter-tabletop-games)
- - [CNN faces accusations of an NFT rug pull](https://www.pcgamer.com/cnn-faces-accusations-of-an-nft-rug-pull)
- - [No More Heroes 3 hits PC, but it&#39;s the Switch version for some reason](https://www.pcgamer.com/no-more-heroes-3-is-now-on-pc-but-its-the-switch-version-for-some-reason)<!-- GAME:END -->
+ - [A Bunch Of Great Assassin&#39;s Creed Games Flood PS Plus This Month](https://kotaku.com/assassins-creed-dragon-quest-ps-plus-ps4-ps5-1849649574)
+ - [Dwayne Johnson says The Rock’s legendary heel turn inspired Black Adam](https://www.polygon.com/23400861/dwayne-johnson-interview-black-adam-the-rock-heel-turn)
+ - [Kids on Bikes’ new edition adds more action to the ’80s adventure RPG](https://www.polygon.com/tabletop-games/23401090/kids-on-bikes-second-edition-kickstarter-tabletop-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
