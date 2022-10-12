@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)
- - 🚯 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
- - 🚯 [Kenyon Martin called out Jeremy Lin for his hair and Lin had a wholesome response](http://9gag.com/gag/aGEwygK)<!-- MEMES:END -->
+ - 🚖 [When California made this legal](http://9gag.com/gag/aWGWpjq)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 🚯 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
 
 --- 
 
