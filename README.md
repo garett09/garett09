@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7 and 7 Pro review: faster biometric unlocking and bright screens, but underwhelming speech and intelligence features, and 7 display is still 90Hz &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/221012/p35#a221012p35)
- - [The Bose QuietComfort 45 at $229 is our pick for best headphone deal of Prime Day](https://www.theverge.com/2022/10/12/23401035/bose-quietcomfort-45-qc45-headphones-amazon-prime-deal-sale)
- - [Sources: Apple holds early discussions with media agencies over monetizing its original video content through ads, possibly as early as 2023 &lpar;Digiday&rpar;](http://www.techmeme.com/221012/p34#a221012p34)<!-- TECH:END -->
+ - [The best smart plug deals from Amazon’s fall Prime Day event](https://www.theverge.com/23399193/amazon-prime-day-early-access-sale-best-smart-plug-deals-kasa-philips-2022)
+ - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [Meet the CO2 battery cozying up with a wind energy giant](https://www.theverge.com/2022/10/12/23399567/co2-battery-wind-solar-renewable-energy-storage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
