@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals of Amazon’s fall Prime Day event](https://www.theverge.com/23400318/amazon-prime-deals-best-sale-tech-tablets-tvs-earbuds-2022)
- - [Google Pixel Watch Fitbit features: What’s there and what’s missing?](https://www.androidauthority.com/google-pixel-watch-fitbit-features-3218910/)
- - [What is a Roku TV? What you need to know about TVs with Roku built-in](https://www.androidauthority.com/what-is-a-roku-tv-3218325/)<!-- TECH:END -->
+ - [Microsoft reveals the colorful Surface Pro 9 and other hardware](https://www.androidauthority.com/microsoft-surface-pro-9-3219601/)
+ - [How to fix the &#39;Apple Card can not be used&#39; error in Wallet](https://appleinsider.com/inside/apple-pay/tips/how-to-fix-the-apple-card-can-not-be-used-error-in-wallet?utm_medium=rss)
+ - [67 Best Prime Day Laptop, Phone, TV, and Tech Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-amazon-prime-day-laptop-tv-phones-tech-deals-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
