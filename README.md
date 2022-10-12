@@ -188,9 +188,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart home deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398309/amazon-prime-sale-best-smart-home-device-google-alexa-deals-2022)
- - [The best headphone deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398304/amazon-prime-deals-best-headphone-earbuds-2022)
- - [The best TV deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)<!-- TECH:END -->
+ - [The best deals from Amazon’s fall Prime Day event](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
+ - [Two Jupiter Moons Shine in Most Detailed Images Ever Taken From Earth     - CNET](https://www.cnet.com/science/space/two-jupiter-moons-shine-in-most-detailed-images-ever-taken-from-earth/#ftag=CAD590a51e)
+ - [Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
