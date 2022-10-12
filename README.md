@@ -100,71 +100,21 @@ while(dev.isCoding() && dev.isStuck())
 ---
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
+<table>
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett_09&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=garett_09&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
+</td>
+</tr>
+</table>
+
+![Paula's Activity Graph](https://activity-graph.herokuapp.com/graph?username=garett_09&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2,154 Contributions in the Year 2022
- > 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-🌆 Daytime    123 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
-🌃 Evening    141 commits    ████████░░░░░░░░░░░░░░░░░   35.07% 
-🌙 Night      82 commits     █████░░░░░░░░░░░░░░░░░░░░   20.4%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Tuesday      99 commits     ██████░░░░░░░░░░░░░░░░░░░   24.63% 
-Wednesday    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
-Thursday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
-Sunday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
-
-
- Last Updated on 12/10/2022 01:35:44 UTC
-<!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
 
