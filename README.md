@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
- - [25 deals from Amazon’s fall Prime Day event that make for great gifts](https://www.theverge.com/23400057/amazon-prime-gift-deals-tech-sale-holiday-airpods-speakers-camera)
- - [Signal will start phasing out SMS and MMS support from its Android app; users have a few months to transition away from SMS and export messages to another app &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221012/p48#a221012p48)<!-- TECH:END -->
+ - [The best deals of Amazon’s fall Prime Day event](https://www.theverge.com/23400318/amazon-prime-deals-best-sale-tech-tablets-tvs-earbuds-2022)
+ - [London-based GoHenry, a neobank for 6-18 year olds, raised a &amp;pound;49M+ Series B, and says its 2021 revenue was up 55% YoY to &amp;pound;30.5M and losses up 20x YoY to &amp;pound;30.5M &lpar;Amy O&#39;Brien/Sifted&rpar;](http://www.techmeme.com/221012/p50#a221012p50)
+ - [The best tablet and phone deals from Amazon’s October Prime Day](https://www.theverge.com/23398415/amazon-prime-deals-best-tablet-phone-early-access-sale-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
