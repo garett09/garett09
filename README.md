@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 🚯 [The one who started it all](http://9gag.com/gag/a8qY0Kd)
- - 🚯 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)<!-- MEMES:END -->
+ - 🚖 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - 🚯 [Same](http://9gag.com/gag/aWGW97d)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
 
 --- 
 
