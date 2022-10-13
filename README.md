@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Apple TV+ shows are coming to Blu-ray starting Oct. 31](https://appleinsider.com/articles/22/10/13/for-all-mankind-and-more-apple-tv-shows-are-coming-to-blu-ray?utm_medium=rss)
- - [Best deals from Amazon’s Prime Early Access Sale you can still get](https://www.theverge.com/23402251/amazon-prime-day-2022-best-deals-still-available-headphones-tablets-gaming)
- - [SoundCloud takes a page out of MySpace’s playbook](https://www.theverge.com/2022/10/13/23402306/soundcloud-creator-top-fans-myspace-tiktok)<!-- TECH:END -->
+ - [Apple Card users will be able to open a high-yield savings account from Goldman Sachs in the coming months to automatically deposit their Daily Cash &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221013/p26#a221013p26)
+ - [Eero scrubs its cheapest subscription plan, moves customers to $10 a month service](https://www.theverge.com/2022/10/13/23402305/eero-secure-discontinued-plus-subscription-wifi-features)
+ - [Daily deals Oct. 13: $100 off M2 MacBook Air, $150 off Sennheiser Momentum headphones, up to $400 off Canon cameras, more](https://appleinsider.com/articles/22/10/13/daily-deals-oct-13-100-off-m2-macbook-air-150-off-sennheiser-momentum-headphones-up-to-400-off-cannon-cameras-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
