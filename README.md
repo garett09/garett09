@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kind rat giving presents](http://9gag.com/gag/aMErNWx)
- - 🚯 [Easier and less dangerous. Virtue signalers are disgusting.](http://9gag.com/gag/aZDx4y9)
- - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
+ - 🚖 [Russia FSB released x-ray of the truck that entered the Crimean bridge on the day of the explosion.](http://9gag.com/gag/aBd3XO2)
+ - 🚯 [A timeless classic](http://9gag.com/gag/aBd3veN)
+ - 🚯 [Spooky o.O](http://9gag.com/gag/aVbW1ZP)<!-- MEMES:END -->
 
 --- 
 
