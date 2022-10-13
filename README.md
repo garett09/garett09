@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russia FSB released x-ray of the truck that entered the Crimean bridge on the day of the explosion.](http://9gag.com/gag/aBd3XO2)
- - 🚯 [A timeless classic](http://9gag.com/gag/aBd3veN)
- - 🚯 [Spooky o.O](http://9gag.com/gag/aVbW1ZP)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/aBd3vDx)
+ - 🚯 [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)
+ - 🚯 [Russia FSB released x-ray of the truck that entered the Crimean bridge on the day of the explosion.](http://9gag.com/gag/aBd3XO2)<!-- MEMES:END -->
 
 --- 
 
