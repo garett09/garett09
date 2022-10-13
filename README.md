@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart home deals from Amazon’s fall Prime Day sale](https://www.theverge.com/23398309/amazon-prime-sale-best-smart-home-device-google-alexa-deals-2022)
- - [The best laptop deals from Amazon’s fall Prime Day event](https://www.theverge.com/23398463/amazon-prime-deals-best-laptop-deals-sale-apple-lenovo-2022)
- - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
+ - [25 deals from Amazon’s fall Prime Day event that make for great gifts](https://www.theverge.com/23400057/amazon-prime-gift-deals-tech-sale-holiday-airpods-speakers-camera)
+ - [Signal will start phasing out SMS and MMS support from its Android app; users have a few months to transition away from SMS and export messages to another app &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221012/p48#a221012p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
