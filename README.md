@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC cuts its 2022 capital spending target by ~10%, expecting to spend ~$36B on equipment, down from a prior $40B+ estimate, suggesting a deeper tech downturn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221013/p7#a221013p7)
- - [Research: social media accounts pushing misinformation are targeting users in non-English languages before the US midterms, with scant resistance from platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221013/p6#a221013p6)
- - [Singapore-based Pillow, which helps users in emerging markets save, spend, and invest in cryptocurrency, raised an $18M Series A led by Accel and Quona Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221013/p5#a221013p5)<!-- TECH:END -->
+ - [Microsoft plans to sunset its Microsoft Office branding after more than 30 years, rebranding the apps to Microsoft 365; new logos will roll out in January 2023 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221013/p9#a221013p9)
+ - [A prisoner masterminded an Ocean’s Eleven-style robbery using a Samsung phone](https://www.androidauthority.com/prisoner-charles-schwab-fraud-samsung-phone-3220103/)
+ - [Here’s an early look at Android’s app archiving feature](https://www.theverge.com/2022/10/13/23402141/google-android-archive-app-feature-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
