@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at efforts by Google, Signal, Tor, and others to help Iranian protestors evade censorship; the White House has signaled support and relaxed sanctions &lpar;Washington Post&rpar;](http://www.techmeme.com/221013/p24#a221013p24)
+ - [Big Apple TV+ shows are coming to Blu-ray starting Oct. 31](https://appleinsider.com/articles/22/10/13/for-all-mankind-and-more-apple-tv-shows-are-coming-to-blu-ray?utm_medium=rss)
  - [Best deals from Amazon’s Prime Early Access Sale you can still get](https://www.theverge.com/23402251/amazon-prime-day-2022-best-deals-still-available-headphones-tablets-gaming)
- - [Accel, Lightspeed, Sequoia, a16z, and other firms are increasingly buying public tech stocks, capitalizing on low prices, as the private startup market stalls &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/221013/p23#a221013p23)<!-- TECH:END -->
+ - [SoundCloud takes a page out of MySpace’s playbook](https://www.theverge.com/2022/10/13/23402306/soundcloud-creator-top-fans-myspace-tiktok)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
