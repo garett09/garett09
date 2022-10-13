@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Pillow, which helps users in emerging markets save, spend, and invest in cryptocurrency, raised an $18M Series A led by Accel and Quona Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221013/p5#a221013p5)
- - [[Thread] A founder of a tech startup describes how he made ~$200K last year as a side hustle by ghostwriting tweets for venture capitalists &lpar;@bitech&rpar;](http://www.techmeme.com/221013/p4#a221013p4)
- - [Curious Black Hole Crash in Deep Space Leaves Astrophysicists Puzzled     - CNET](https://www.cnet.com/science/space/curious-black-hole-crash-in-deep-space-leaves-astrophysicists-puzzled/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC cuts its 2022 capital spending target by ~10%, expecting to spend ~$36B on equipment, down from a prior $40B+ estimate, suggesting a deeper tech downturn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221013/p7#a221013p7)
+ - [Research: social media accounts pushing misinformation are targeting users in non-English languages before the US midterms, with scant resistance from platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221013/p6#a221013p6)
+ - [Singapore-based Pillow, which helps users in emerging markets save, spend, and invest in cryptocurrency, raised an $18M Series A led by Accel and Quona Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221013/p5#a221013p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
