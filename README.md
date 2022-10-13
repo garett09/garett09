@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar Legends gives the future of Last Airbender over to the fans](https://www.polygon.com/tabletop-games/23399610/avatar-legends-the-last-airbender-korra-preview-episode)
- - [Starfield isn’t quite ‘hard sci-fi,’ Todd Howard says, but it’s close](https://www.polygon.com/23402577/starfield-gameplay-bethesda-sci-fi-game-traits-video-todd-howard-dialogue-questions)
- - [Signalis is shaping up to be a beautiful, fragmented sci-fi nightmare](https://www.pcgamer.com/signalis-is-shaping-up-to-be-a-beautiful-fragmented-sci-fi-nightmare)<!-- GAME:END -->
+ - [Blizzard answers our questions on two of Dragonflight&#39;s biggest overhauls](https://www.pcgamer.com/blizzard-answers-our-questions-on-two-of-dragonflights-biggest-overhauls)
+ - [Master Your Unique Battle Style with Sonic Frontiers’ Evolved Combat System](https://news.xbox.com/en-us/2022/10/13/master-your-unique-battle-style-with-sonic-frontiers-evolved-combat-system/)
+ - [She-Hulk’s KEVIN is a bizarre Marvel in-joke brought to life](https://www.polygon.com/23402326/she-hulk-kevin-meme-gif)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
