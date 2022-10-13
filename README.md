@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX 4090s are already hitting eBay but you still have a decent chance of getting one at MSRP](https://www.pcgamer.com/rtx-4090s-are-already-hitting-ebay-but-you-still-have-a-decent-chance-of-getting-one-at-msrp)
- - [Is Link wearing pajamas in A Link to the Past? An investigation](https://www.polygon.com/23392291/zelda-link-to-the-past-pajamas)
- - [The best games to show off your fancy new graphics card](https://www.pcgamer.com/the-best-games-to-show-off-your-brand-new-graphics-card)<!-- GAME:END -->
+ - [Marvel’s Spider-Man: Miles Morales is coming to PC on November 18](https://blog.playstation.com/2022/10/13/marvels-spider-man-miles-morales-is-coming-to-pc-on-november-18/)
+ - [Free Play Days – Embr, Goat Simulator, and Tour de France 2022](https://news.xbox.com/en-us/2022/10/13/free-play-days-embr-goat-simulator-and-tour-de-france-2022/)
+ - [Here&#39;s what time the Darktide closed beta starts](https://www.pcgamer.com/darktide-beta-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
