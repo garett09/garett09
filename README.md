@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card users will be able to open a high-yield savings account from Goldman Sachs in the coming months to automatically deposit their Daily Cash &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221013/p26#a221013p26)
- - [Eero scrubs its cheapest subscription plan, moves customers to $10 a month service](https://www.theverge.com/2022/10/13/23402305/eero-secure-discontinued-plus-subscription-wifi-features)
- - [Daily deals Oct. 13: $100 off M2 MacBook Air, $150 off Sennheiser Momentum headphones, up to $400 off Canon cameras, more](https://appleinsider.com/articles/22/10/13/daily-deals-oct-13-100-off-m2-macbook-air-150-off-sennheiser-momentum-headphones-up-to-400-off-cannon-cameras-more?utm_medium=rss)<!-- TECH:END -->
+ - [Face unlock: How does the Google Pixel 7 compare to the Pixel 4?](https://www.androidauthority.com/face-unlock-pixel-7-vs-pixel-4-3217613/)
+ - [Sony’s new ZV-1F vlogging camera comes with a lower price but a lot fewer features](https://www.theverge.com/2022/10/13/23402490/sony-zv1f-vlog-video-camera-price-specs-availability)
+ - [I want to skip out on the Disney Plus Skip Intro button](https://www.theverge.com/23402504/disney-plus-skip-intro-button-go-away-ffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
