@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the 20th Anniversary of Naruto with Konohamaru in Shinobi Striker](https://news.xbox.com/en-us/2022/10/13/celebrate-the-20th-anniversary-of-naruto-with-konohamaru-in-shinobi-striker/)
- - [Modern Warfare 2’s phone number requirement isn’t the same as Overwatch 2’s](https://www.polygon.com/23403192/call-of-duty-modern-warfare-2-phone-number-sms-protection-pc-players)
- - [Damage-Focused Moira Mains Have Overwatch 2 Fans Squabbling Over Healers, Bad Teamwork](https://kotaku.com/overwatch-2-moira-memes-dps-support-healer-blizzard-1849654793)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Elden Ring dataminers uncover crumbs of DLC evidence in latest patch](https://www.pcgamer.com/elden-ring-dataminers-uncover-crumbs-of-dlc-evidence-in-latest-patch)
+ - [Activision Blizzard is facing another sexual harassment lawsuit](https://www.pcgamer.com/activision-blizzard-is-facing-another-sexual-harassment-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
