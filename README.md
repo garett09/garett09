@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Huge Elden Ring patch rebalances just about everything](https://www.polygon.com/23402324/elden-ring-patch-107-pvp-weapon-scaling)
- - [Nintendo Switch Price Cheaters Accidentally Rocketed A Game To Mass Audiences](https://kotaku.com/nintendo-switch-preorder-price-lets-build-a-zoo-1849652325)
- - [Competitive Overwatch 2 Players Have A Lot Of Complaints](https://kotaku.com/overwatch-2-bug-bronze-autopurchase-competitive-ranked-1848179263)<!-- GAME:END -->
+ - [RTX 4090s are already hitting eBay but you still have a decent chance of getting one at MSRP](https://www.pcgamer.com/rtx-4090s-are-already-hitting-ebay-but-you-still-have-a-decent-chance-of-getting-one-at-msrp)
+ - [Is Link wearing pajamas in A Link to the Past? An investigation](https://www.polygon.com/23392291/zelda-link-to-the-past-pajamas)
+ - [The best games to show off your fancy new graphics card](https://www.pcgamer.com/the-best-games-to-show-off-your-brand-new-graphics-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
