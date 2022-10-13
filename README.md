@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pvp server](http://9gag.com/gag/a04LXZB)
- - 🚯 [Those who know](http://9gag.com/gag/aQE4ryK)
- - 🚯 [Truck goes brum brum](http://9gag.com/gag/aNwZ9wr)<!-- MEMES:END -->
+ - 🚖 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 🚯 [The one who started it all](http://9gag.com/gag/a8qY0Kd)
+ - 🚯 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)<!-- MEMES:END -->
 
 --- 
 
