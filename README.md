@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen&#39;s Cariad plans to invest $1B in Chinese AI company Horizon Robotics and a further $1.26B in a joint venture with Horizon, taking a 60% stake &lpar;Reuters&rpar;](http://www.techmeme.com/221013/p18#a221013p18)
- - [A meeting in Google’s 3D chat booth felt like real life science fiction](https://www.theverge.com/2022/10/13/23400870/google-project-starline-3d-chat-booth-impressions)
- - [After incremental smartphone updates, Apple&#39;s Watch Ultra, Google&#39;s Pixel Watch, and Samsung&#39;s Watch 5 Pro reinvigorate a wearables sector that was stagnating &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/221013/p17#a221013p17)<!-- TECH:END -->
+ - [A look at efforts by Google, Signal, Tor, and others to help Iranian protestors evade censorship; the White House has signaled support and relaxed sanctions &lpar;Washington Post&rpar;](http://www.techmeme.com/221013/p24#a221013p24)
+ - [Best deals from Amazon’s Prime Early Access Sale you can still get](https://www.theverge.com/23402251/amazon-prime-day-2022-best-deals-still-available-headphones-tablets-gaming)
+ - [Accel, Lightspeed, Sequoia, a16z, and other firms are increasingly buying public tech stocks, capitalizing on low prices, as the private startup market stalls &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/221013/p23#a221013p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
