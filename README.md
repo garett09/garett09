@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to sunset its Microsoft Office branding after more than 30 years, rebranding the apps to Microsoft 365; new logos will roll out in January 2023 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221013/p9#a221013p9)
- - [A prisoner masterminded an Ocean’s Eleven-style robbery using a Samsung phone](https://www.androidauthority.com/prisoner-charles-schwab-fraud-samsung-phone-3220103/)
- - [Here’s an early look at Android’s app archiving feature](https://www.theverge.com/2022/10/13/23402141/google-android-archive-app-feature-leak)<!-- TECH:END -->
+ - [Responding to outrage over Twitch&#39;s 30/70 fee split, an executive says Amazon expects the service to be &quot;a sustainable, viable long-term business&quot; &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/221013/p12#a221013p12)
+ - [The Search for a Pill That Can Help Dogs—and Humans—Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
+ - [Mark Zuckerberg&#39;s belief in an &quot;open, interoperable metaverse&quot; stands at odds with his vision being built on corporate partnerships and case-by-case permissions &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221013/p11#a221013p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
