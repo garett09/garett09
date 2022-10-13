@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Responding to outrage over Twitch&#39;s 30/70 fee split, an executive says Amazon expects the service to be &quot;a sustainable, viable long-term business&quot; &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/221013/p12#a221013p12)
- - [The Search for a Pill That Can Help Dogs—and Humans—Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
- - [Mark Zuckerberg&#39;s belief in an &quot;open, interoperable metaverse&quot; stands at odds with his vision being built on corporate partnerships and case-by-case permissions &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221013/p11#a221013p11)<!-- TECH:END -->
+ - [Big Apple TV+ hit shows are coming to Blu-ray starting Oct. 31](https://appleinsider.com/articles/22/10/13/for-all-mankind-and-more-apple-tv-shows-are-coming-to-blu-ray?utm_medium=rss)
+ - [Big Pharma Says Drug Prices Reflect R&amp;D Cost. Researchers Call BS](https://www.wired.com/story/drug-research-pricing/)
+ - [Meta’s VR Headset Harvests Personal Data Right Off Your Face](https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
