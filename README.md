@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)
- - 🚯 [A timeless classic](http://9gag.com/gag/aBd3veN)
- - 🚯 [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)<!-- MEMES:END -->
+ - 🚖 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
+ - 🚯 [Its cancel time](http://9gag.com/gag/aA0rqYo)
+ - 🚯 [Cause Keanu doesn&#39;t want to sell his soul](http://9gag.com/gag/aBd349N)<!-- MEMES:END -->
 
 --- 
 
