@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
- - 🚯 [Welcome to the jungle](http://9gag.com/gag/a9qLVzm)
- - 🚯 [Can&#39;t find the original source, salsa in the comments ole!](http://9gag.com/gag/abvymD9)<!-- MEMES:END -->
+ - 🚖 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)
+ - 🚯 [A timeless classic](http://9gag.com/gag/aBd3veN)
+ - 🚯 [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)<!-- MEMES:END -->
 
 --- 
 
