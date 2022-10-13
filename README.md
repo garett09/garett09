@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based NorthOne, which offers digital banking services for small business owners, raised a $67M Series B, bringing its total funding to $90.3M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221013/p32#a221013p32)
- - [Yale Assure Lock 2 review: a promising all-rounder](https://www.theverge.com/23367464/yale-assure-lock-2-touchscreen-keypad-wifi-review)
- - [Fossil Gen 6 smartwatches are getting Wear OS 3 and will allow iOS connections](https://www.androidauthority.com/fossil-gen-6-wear-os-3-3220292/)<!-- TECH:END -->
+ - [How Netflix plans to fight slowing growth, including via an ad-supported tier; Netflix accounts for ~8% of all TV viewership in the US, the most of any network &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/221013/p33#a221013p33)
+ - [Amazon’s set to launch its prototype internet satellites early next year](https://www.theverge.com/2022/10/13/23401734/amazon-project-kuiper-prototype-satellites-2023-launch)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
