@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kyslytsya grabbed a pair of binoculars, trying to find the countries that supported Moscow&#39;s illegal decision](http://9gag.com/gag/aoK0APx)
- - 🚯 [This must be before the new cartoon came out, ffs](http://9gag.com/gag/aBd3vEQ)
- - 🚯 [Easier and less dangerous. Virtue signalers are disgusting.](http://9gag.com/gag/aZDx4y9)<!-- MEMES:END -->
+ - 🚖 [Spooky o.O](http://9gag.com/gag/aVbW1ZP)
+ - 🚯 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)<!-- MEMES:END -->
 
 --- 
 
