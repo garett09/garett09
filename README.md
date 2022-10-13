@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its an idea](http://9gag.com/gag/aMErXYR)
- - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 🚯 [The difference](http://9gag.com/gag/amA0W7o)<!-- MEMES:END -->
+ - 🚖 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)
+ - 🚯 [Cacausus](http://9gag.com/gag/aDY36Vw)
+ - 🚯 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)<!-- MEMES:END -->
 
 --- 
 
