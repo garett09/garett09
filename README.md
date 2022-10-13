@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Got a new Pixel Watch? An update is already waiting for you](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
  - [Applied Materials says US export controls on chips and chipmaking tech to China would result in a $250M-$550M loss in net sales in the quarter ending October 30 &lpar;Reuters&rpar;](http://www.techmeme.com/221013/p3#a221013p3)
- - [FOLX Health, which offers telehealth services for the LGBTQIA+ community, raised a $30M Series B led by 7wireVentures, bringing its total funding to ~$60M &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/221013/p2#a221013p2)
- - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $104 Apple TV 4K &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
+ - [FOLX Health, which offers telehealth services for the LGBTQIA+ community, raised a $30M Series B led by 7wireVentures, bringing its total funding to ~$60M &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/221013/p2#a221013p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
