@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scientists taught a Petri dish of brain cells to play Pong better than I can](https://www.pcgamer.com/scientists-taught-a-petri-dish-of-brain-cells-to-play-pong-better-than-i-can)
- - [The Best UK Amazon Prime Early Access PC gaming deals that are still live](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
- - [Today&#39;s Wordle 481 answer and hint: Thursday, October 13](https://www.pcgamer.com/todays-wordle-481-answer-hint)<!-- GAME:END -->
+ - [Huge Elden Ring patch rebalances just about everything](https://www.polygon.com/23402324/elden-ring-patch-107-pvp-weapon-scaling)
+ - [Nintendo Switch Price Cheaters Accidentally Rocketed A Game To Mass Audiences](https://kotaku.com/nintendo-switch-preorder-price-lets-build-a-zoo-1849652325)
+ - [Competitive Overwatch 2 Players Have A Lot Of Complaints](https://kotaku.com/overwatch-2-bug-bronze-autopurchase-competitive-ranked-1848179263)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
