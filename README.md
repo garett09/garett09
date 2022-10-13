@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Concrete Floor](http://9gag.com/gag/ap90PP9)
- - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
- - 🚯 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)<!-- MEMES:END -->
+ - 🚖 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
+ - 🚯 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
 
 --- 
 
