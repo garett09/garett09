@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)
- - 🚯 [Cacausus](http://9gag.com/gag/aDY36Vw)
- - 🚯 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)<!-- MEMES:END -->
+ - 🚖 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)
+ - 🚯 [Devil](http://9gag.com/gag/amA0154)
+ - 🚯 [Based on true story](http://9gag.com/gag/aqeNAXp)<!-- MEMES:END -->
 
 --- 
 
