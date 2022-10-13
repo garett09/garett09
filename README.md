@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
- - 🚯 [Forget Tesla, Boston Dynamics etc This is Johnny 5.](http://9gag.com/gag/arm4ZQV)
- - 🚯 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)<!-- MEMES:END -->
+ - 🚖 [Pvp server](http://9gag.com/gag/a04LXZB)
+ - 🚯 [Those who know](http://9gag.com/gag/aQE4ryK)
+ - 🚯 [Truck goes brum brum](http://9gag.com/gag/aNwZ9wr)<!-- MEMES:END -->
 
 --- 
 
