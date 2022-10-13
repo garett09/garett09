@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
- - 🚯 [Its cancel time](http://9gag.com/gag/aA0rqYo)
- - 🚯 [Cause Keanu doesn&#39;t want to sell his soul](http://9gag.com/gag/aBd349N)<!-- MEMES:END -->
+ - 🚖 [Let the people decide, right?](http://9gag.com/gag/awZKGm8)
+ - 🚯 [Kind rat giving presents](http://9gag.com/gag/aMErNWx)
+ - 🚯 [Another simple day in paradise...](http://9gag.com/gag/aoK0qvg)<!-- MEMES:END -->
 
 --- 
 
