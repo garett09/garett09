@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard answers our questions on two of Dragonflight&#39;s biggest overhauls](https://www.pcgamer.com/blizzard-answers-our-questions-on-two-of-dragonflights-biggest-overhauls)
- - [Master Your Unique Battle Style with Sonic Frontiers’ Evolved Combat System](https://news.xbox.com/en-us/2022/10/13/master-your-unique-battle-style-with-sonic-frontiers-evolved-combat-system/)
- - [She-Hulk’s KEVIN is a bizarre Marvel in-joke brought to life](https://www.polygon.com/23402326/she-hulk-kevin-meme-gif)<!-- GAME:END -->
+ - [17 great horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)
+ - [The Last Oricru Reminds You Why You May Want to Call a Friend](https://news.xbox.com/en-us/2022/10/13/the-last-oricru-reminds-you-why-you-may-want-to-call-a-friend/)
+ - [Splash Damage&#39;s party shooter Outcasters will be left to die with Stadia](https://www.pcgamer.com/splash-damages-party-shooter-outcasters-will-be-left-to-die-with-stadia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
