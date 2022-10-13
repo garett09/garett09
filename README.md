@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)
- - 🚯 [Devil](http://9gag.com/gag/amA0154)
- - 🚯 [Based on true story](http://9gag.com/gag/aqeNAXp)<!-- MEMES:END -->
+ - 🚖 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
+ - 🚯 [Forget Tesla, Boston Dynamics etc This is Johnny 5.](http://9gag.com/gag/arm4ZQV)
+ - 🚯 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)<!-- MEMES:END -->
 
 --- 
 
