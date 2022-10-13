@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay that&#39;s something you don&#39;t see everyday](http://9gag.com/gag/aVbWEAv)
- - 🚯 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
- - 🚯 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 🚖 [Concrete Floor](http://9gag.com/gag/ap90PP9)
+ - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
+ - 🚯 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)<!-- MEMES:END -->
 
 --- 
 
