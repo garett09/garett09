@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Face unlock: How does the Google Pixel 7 compare to the Pixel 4?](https://www.androidauthority.com/face-unlock-pixel-7-vs-pixel-4-3217613/)
- - [Sony’s new ZV-1F vlogging camera comes with a lower price but a lot fewer features](https://www.theverge.com/2022/10/13/23402490/sony-zv1f-vlog-video-camera-price-specs-availability)
- - [I want to skip out on the Disney Plus Skip Intro button](https://www.theverge.com/23402504/disney-plus-skip-intro-button-go-away-ffs)<!-- TECH:END -->
+ - [Fossil’s first Wear OS 3 watch is a wellness-focused Gen 6](https://www.theverge.com/2022/10/13/23402482/fossil-gen-6-wear-os-smartwatch-wellness-edition)
+ - [Tether says it has reduced its commercial paper holdings to zero, replacing them with US Treasury bills &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221013/p31#a221013p31)
+ - [Netflix says its Basic with Ads tier will cost $6.99 per month and launch on November 3, 2022 in 12 countries, including the US, Australia, Germany, and the UK &lpar;Charles Pulliam-Moore/The Verge&rpar;](http://www.techmeme.com/221013/p30#a221013p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
