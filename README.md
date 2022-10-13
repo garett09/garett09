@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spooky o.O](http://9gag.com/gag/aVbW1ZP)
- - 🚯 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
- - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)<!-- MEMES:END -->
+ - 🚖 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
+ - 🚯 [Man returns donations after 1.5 years](http://9gag.com/gag/a4odrB6)
+ - 🚯 [Not political](http://9gag.com/gag/arm49gX)<!-- MEMES:END -->
 
 --- 
 
