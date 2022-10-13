@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Apple TV+ hit shows are coming to Blu-ray starting Oct. 31](https://appleinsider.com/articles/22/10/13/for-all-mankind-and-more-apple-tv-shows-are-coming-to-blu-ray?utm_medium=rss)
- - [Big Pharma Says Drug Prices Reflect R&amp;D Cost. Researchers Call BS](https://www.wired.com/story/drug-research-pricing/)
- - [Meta’s VR Headset Harvests Personal Data Right Off Your Face](https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/)<!-- TECH:END -->
+ - [Volkswagen&#39;s Cariad plans to invest $1B in Chinese AI company Horizon Robotics and a further $1.26B in a joint venture with Horizon, taking a 60% stake &lpar;Reuters&rpar;](http://www.techmeme.com/221013/p18#a221013p18)
+ - [A meeting in Google’s 3D chat booth felt like real life science fiction](https://www.theverge.com/2022/10/13/23400870/google-project-starline-3d-chat-booth-impressions)
+ - [After incremental smartphone updates, Apple&#39;s Watch Ultra, Google&#39;s Pixel Watch, and Samsung&#39;s Watch 5 Pro reinvigorate a wearables sector that was stagnating &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/221013/p17#a221013p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
