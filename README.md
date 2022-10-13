@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Netflix plans to fight slowing growth, including via an ad-supported tier; Netflix accounts for ~8% of all TV viewership in the US, the most of any network &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/221013/p33#a221013p33)
- - [Amazon’s set to launch its prototype internet satellites early next year](https://www.theverge.com/2022/10/13/23401734/amazon-project-kuiper-prototype-satellites-2023-launch)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [Anker improves MagGo iPhone battery pack with better USB-C location](https://appleinsider.com/articles/22/10/13/anker-improves-maggo-iphone-battery-pack-with-better-usb-c-location?utm_medium=rss)
+ - [One UI 5 features: All the big additions to Samsung’s Android 13 update](https://www.androidauthority.com/one-ui-5-features-3220111/)
+ - [Samsung’s One UI 5 is coming soon with some very iOS-like vibes](https://www.theverge.com/2022/10/13/23402910/samsung-one-ui-5-android-13-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
