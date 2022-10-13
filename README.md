@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a new Pixel Watch? An update is already waiting for you](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [Applied Materials says US export controls on chips and chipmaking tech to China would result in a $250M-$550M loss in net sales in the quarter ending October 30 &lpar;Reuters&rpar;](http://www.techmeme.com/221013/p3#a221013p3)
- - [FOLX Health, which offers telehealth services for the LGBTQIA+ community, raised a $30M Series B led by 7wireVentures, bringing its total funding to ~$60M &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/221013/p2#a221013p2)<!-- TECH:END -->
+ - [Singapore-based Pillow, which helps users in emerging markets save, spend, and invest in cryptocurrency, raised an $18M Series A led by Accel and Quona Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221013/p5#a221013p5)
+ - [[Thread] A founder of a tech startup describes how he made ~$200K last year as a side hustle by ghostwriting tweets for venture capitalists &lpar;@bitech&rpar;](http://www.techmeme.com/221013/p4#a221013p4)
+ - [Curious Black Hole Crash in Deep Space Leaves Astrophysicists Puzzled     - CNET](https://www.cnet.com/science/space/curious-black-hole-crash-in-deep-space-leaves-astrophysicists-puzzled/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
