@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Candy and unlock the Halloween skins in MultiVersus](https://www.pcgamer.com/multiversus-halloween-skins-candy)
- - [Evidence mounts that the Mario movie is a musical: Toad sings too](https://www.polygon.com/23404135/mario-movie-musical-toad-sings)
- - [Valve just filed a new &#39;computer game software&#39; trademark and the rumours are already flying](https://www.pcgamer.com/valve-just-filed-a-new-computer-game-software-trademark-and-the-rumours-are-already-flying)<!-- GAME:END -->
+ - [Stable Diffusion VR is a startling vision of the future of gaming](https://www.pcgamer.com/stable-diffusion-vr-is-a-startling-vision-of-the-future-of-gaming)
+ - [Pokémon Scarlet and Violet’s newest Pokémon is an electric frog named Bellibolt](https://www.polygon.com/23404203/pokemon-scarlet-violet-electric-frog-bellibolt)
+ - [Sonic Frontiers shows off combat and upgrades in new trailer](https://www.pcgamer.com/sonic-frontiers-shows-off-combat-and-upgrades-in-new-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
