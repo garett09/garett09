@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
- - 🚯 [Man returns donations after 1.5 years](http://9gag.com/gag/a4odrB6)
- - 🚯 [Not political](http://9gag.com/gag/arm49gX)<!-- MEMES:END -->
+ - 🚖 [Spooky o.O](http://9gag.com/gag/aVbW1ZP)
+ - 🚯 [I will teach you the old magiks of the Mushroom Kingdom](http://9gag.com/gag/aMEr6V6)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
 
 --- 
 
