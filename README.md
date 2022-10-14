@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turkey passes a &quot;disinformation&quot; law ahead of its 2023 elections, mandating jail time for sharing online content deemed &quot;false information&quot; by authorities &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p1#a221014p1)
  - [Source: nearly a month after Google launched a pilot to keep political campaign emails from going to Gmail&#39;s spam folder, RNC hasn&#39;t joined or applied to it &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221013/p45#a221013p45)
- - [The Department of Veterans Affairs says the launch of its new EHR system, developed by Oracle Cerner under a $10B contract, has been delayed until at least 2023 &lpar;Orion Donovan-Smith/Spokesman.com&rpar;](http://www.techmeme.com/221013/p44#a221013p44)
- - [DataGrail, which helps companies comply with privacy regulations, raised a $45M Series C led by Third Point Ventures, and announces a new risk monitoring tool &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221013/p43#a221013p43)<!-- TECH:END -->
+ - [Here&#39;s When the Finale of &#39;The Rings of Power&#39; Hits Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-hits-your-timezone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
