@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elgato Wave DX microphone](https://www.pcgamer.com/elgato-wave-dx-microphone-review)
- - [Halloween Ends can go to hell](https://www.polygon.com/reviews/23402987/halloween-ends-review-michael-myers)
- - [This new Vampire Survivors mode is going to be the end of me](https://www.pcgamer.com/this-new-vampire-survivors-mode-is-going-to-be-the-end-of-me)<!-- GAME:END -->
+ - [Nvidia Cancels Cheapest New PC Graphics Card, Leaving Only The Expensive Huge Ones](https://kotaku.com/nvidia-pc-graphics-card-rtx-4080-4090-price-date-cancel-1849659147)
+ - [Nvidia &#39;unlaunches&#39; the unwanted RTX 4080 12GB](https://www.pcgamer.com/nvidia-rtx-4080-12gb-unlaunched)
+ - [PGA Tour 2K23 is Teed Up with Topgolf, New Courses, and Enhanced Features](https://news.xbox.com/en-us/2022/10/14/pga-tour-2k23-is-teed-up-with-topgolf-new-courses-and-enhanced-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
