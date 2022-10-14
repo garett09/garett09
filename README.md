@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spooky o.O](http://9gag.com/gag/aVbW1ZP)
- - 🚯 [I will teach you the old magiks of the Mushroom Kingdom](http://9gag.com/gag/aMEr6V6)
- - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
+ - 🚖 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
+ - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 🚯 [If you&#39;re looking for a meme in 9gag, here&#39;s a one.](http://9gag.com/gag/aoK0LWe)<!-- MEMES:END -->
 
 --- 
 
