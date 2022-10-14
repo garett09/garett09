@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkey passes a &quot;disinformation&quot; law ahead of its 2023 elections, mandating jail time for sharing online content deemed &quot;false information&quot; by authorities &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p1#a221014p1)
- - [Source: nearly a month after Google launched a pilot to keep political campaign emails from going to Gmail&#39;s spam folder, RNC hasn&#39;t joined or applied to it &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221013/p45#a221013p45)
- - [Here&#39;s When the Finale of &#39;The Rings of Power&#39; Hits Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-hits-your-timezone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Who Is the Stranger in &#39;Rings of Power&#39;? The Finale Sheds Some Light     - CNET](https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power/#ftag=CAD590a51e)
+ - [The Pixel 7 series might be the first 64-bit only Android phones](https://www.androidauthority.com/google-pixel-7-64-bit-only-3220469/)
+ - [Sauron is Revealed in &#39;The Rings of Power&#39; Finale and the Actor Didn&#39;t Know it Was Him     - CNET](https://www.cnet.com/culture/entertainment/where-is-sauron-in-the-rings-of-power-here-are-all-the-possibilities/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
