@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify survey hints at $19.99 ‘Platinum’ plan that would include HiFi streaming](https://www.theverge.com/2022/10/14/23404968/spotify-hifi-platinum-survey-library-playlist-features)
- - [Dutch e-commerce company Prosus to sell its Russian classifieds business Avito to Kismet Capital for ~$2.46B; Avito was valued at ~$6B before Russia&#39;s invasion &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/221014/p18#a221014p18)
- - [Pokemon Go&#39;s Halloween 2022 Event Adds New Shiny Pokemon and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-gos-halloween-2022-event-adds-new-shiny-pokemon-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone in 2022: Which of Apple&#39;s Phones Is Right for You?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Abbot Issues New Baby Formula Recall     - CNET](https://www.cnet.com/health/nutrition/abbot-issues-new-baby-formula-recall/#ftag=CAD590a51e)
+ - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-check-out-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
