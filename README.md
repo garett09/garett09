@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Minecraft mob vote is on—here&#39;s where and how to vote](https://www.pcgamer.com/minecraft-mob-vote-time-how-to-2022)
- - [Nvidia shelves cheaper RTX 4080, admitting its name was ‘confusing’](https://www.polygon.com/23404603/nvidia-rtx-4080-12-gb-canceled-release-date)
- - [This sci-fi base-building survival game is perfect for extreme micromanagers](https://www.pcgamer.com/this-sci-fi-base-building-survival-game-is-perfect-for-extreme-micromanagers)<!-- GAME:END -->
+ - [Decision to Leave brings back old, dark obsessions for Oldboy director](https://www.polygon.com/reviews/23402587/decision-to-leave-review-park-chan-wook)
+ - [Enter the Nightmarish World of Scorn Today with Game Pass](https://news.xbox.com/en-us/2022/10/14/enter-the-nightmarish-world-of-scorn-today-with-game-pass/)
+ - [China’s version of the Satanic Panic has the government regulating LARPs](https://www.polygon.com/23404517/dnd-china-satanic-panic-larp-games-chengdu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
