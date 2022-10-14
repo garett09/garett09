@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IT teams are hiring more freelancers and slowing recruiting full-time staff; Freelancer.com says software developer job postings rose 54.7% YoY in Q3 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/221014/p9#a221014p9)
- - [11 Best Android Phones &lpar;2022&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Future Fitness App Review: Virtual Personal Training Sessions](https://www.wired.com/review/future-fitness-app/)<!-- TECH:END -->
+ - [Apple AR headset could use iris scanning for user identification](https://appleinsider.com/articles/22/10/14/apple-ar-headset-could-use-iris-scanning-for-user-identification?utm_medium=rss)
+ - [Netflix with Ads: Prices, Plans and Everything Else to Know     - CNET](https://www.cnet.com/tech/services-and-software/netflix-with-ads-prices-plans-and-everything-else-to-know/#ftag=CAD590a51e)
+ - [Some Meal Kits Are Now About the Same Cost as Buying the Groceries     - CNET](https://www.cnet.com/health/nutrition/meal-kit-cost-versus-buying-groceries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
