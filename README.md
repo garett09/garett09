@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says the segment at Connect announcing the addition of legs to Horizon World avatars &quot;featured animations created from motion capture&quot; &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/221013/p41#a221013p41)
- - [Did Mark Zuckerberg’s little dance actually show us real metaverse legs?](https://www.theverge.com/2022/10/13/23403650/horizon-metaverse-legs-demonstration-motion-capture)
- - [&#39;House of the Dragon:&#39; The Episode 8 Prophecy and King Viserys Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-the-episode-8-prophecy-and-king-viserys-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: nearly a month after Google launched a pilot to keep political campaign emails from going to Gmail&#39;s spam folder, RNC hasn&#39;t joined or applied to it &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221013/p45#a221013p45)
+ - [The Department of Veterans Affairs says the launch of its new EHR system, developed by Oracle Cerner under a $10B contract, has been delayed until at least 2023 &lpar;Orion Donovan-Smith/Spokesman.com&rpar;](http://www.techmeme.com/221013/p44#a221013p44)
+ - [DataGrail, which helps companies comply with privacy regulations, raised a $45M Series C led by Third Point Ventures, and announces a new risk monitoring tool &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221013/p43#a221013p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
