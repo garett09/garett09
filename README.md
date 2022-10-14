@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wendell &amp; Wild, Spirited, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [Decision to Leave is a gloriously frustrating mystery](https://www.theverge.com/23404231/decision-to-leave-review)
- - [How to use your Apple Watch as a camera remote](https://www.androidauthority.com/apple-watch-camera-remote-3220655/)<!-- TECH:END -->
+ - [Big iMessage redesign rumored for iOS 17](https://appleinsider.com/articles/22/10/14/questionable-imessage-redesign-rumored-for-ios-17?utm_medium=rss)
+ - [I restored my old photos with Pixel 7’s Photo Unblur and the results amazed me](https://www.androidauthority.com/google-pixel-7-photo-unblur-3218201/)
+ - [Protect a MacBook Pro with Satechi&#39;s Eco HardShell](https://appleinsider.com/articles/22/10/14/protect-a-macbook-pro-with-satechis-eco-hardshell?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
