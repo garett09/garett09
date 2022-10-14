@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have questions....](http://9gag.com/gag/a8qY9xV)
- - 🚯 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
+ - 🚖 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
+ - 🚯 [Im only 30...](http://9gag.com/gag/aXnpyz9)
  - 🚯 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
 
 --- 
