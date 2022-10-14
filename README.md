@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)
- - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
- - 🚯 [Based](http://9gag.com/gag/aBd3vDx)<!-- MEMES:END -->
+ - 🚖 [AAAAAAAAAH](http://9gag.com/gag/ap90YLD)
+ - 🚯 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
+ - 🚯 [What is weaker?](http://9gag.com/gag/a6qy6PL)<!-- MEMES:END -->
 
 --- 
 
