@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man returns donations after 1.5 years](http://9gag.com/gag/a4odrB6)
- - 🚯 [AAAAAAAAAH](http://9gag.com/gag/ap90YLD)
- - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)<!-- MEMES:END -->
+ - 🚖 [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)
+ - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
+ - 🚯 [Based](http://9gag.com/gag/aBd3vDx)<!-- MEMES:END -->
 
 --- 
 
