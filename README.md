@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Decision to Leave brings back old, dark obsessions for Oldboy director](https://www.polygon.com/reviews/23402587/decision-to-leave-review-park-chan-wook)
- - [Enter the Nightmarish World of Scorn Today with Game Pass](https://news.xbox.com/en-us/2022/10/14/enter-the-nightmarish-world-of-scorn-today-with-game-pass/)
- - [China’s version of the Satanic Panic has the government regulating LARPs](https://www.polygon.com/23404517/dnd-china-satanic-panic-larp-games-chengdu)<!-- GAME:END -->
+ - [This Week on Xbox: Minecraft Live Votes for Mobs, Upcoming Releases, and Much More](https://news.xbox.com/en-us/2022/10/14/this-week-on-xbox-minecraft-live-votes-for-mobs-upcoming-releases-and-much-more/)
+ - [No Man’s Sky Update Made Player Inventories ‘Unrecognizable’](https://kotaku.com/no-mans-sky-waypoint-update-inventorygate-1849660101)
+ - [Brace Yourselves, The Mario Movie Will Have Toad Sing](https://kotaku.com/mario-movie-musical-bowser-toad-jack-black-keegan-micha-1849660244)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
