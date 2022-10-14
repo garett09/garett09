@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stable Diffusion VR is a startling vision of the future of gaming](https://www.pcgamer.com/stable-diffusion-vr-is-a-startling-vision-of-the-future-of-gaming)
- - [Pokémon Scarlet and Violet’s newest Pokémon is an electric frog named Bellibolt](https://www.polygon.com/23404203/pokemon-scarlet-violet-electric-frog-bellibolt)
- - [Sonic Frontiers shows off combat and upgrades in new trailer](https://www.pcgamer.com/sonic-frontiers-shows-off-combat-and-upgrades-in-new-trailer)<!-- GAME:END -->
+ - [How The Sims 4 designed for size-inclusive fashion](https://www.polygon.com/23400237/the-sims-4-create-a-sim-body-types)
+ - [Here&#39;s what to expect from Sins of a Solar Empire 2 early access on October 27](https://www.pcgamer.com/heres-what-to-expect-from-sins-of-a-solar-empire-2-early-access-on-october-27)
+ - [Next Week on Xbox: New Games for October 17 to 21](https://news.xbox.com/en-us/2022/10/14/next-week-on-xbox-new-games-for-october-17-to-21/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
