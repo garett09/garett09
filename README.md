@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
- - 🚯 [I have questions....](http://9gag.com/gag/a8qY9xV)
- - 🚯 [Unfortunately all the women i&#39;ve met are the third type](http://9gag.com/gag/avQgK5Z)<!-- MEMES:END -->
+ - 🚖 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)
+ - 🚯 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
+ - 🚯 [Georgia police officers](http://9gag.com/gag/adPYw9D)<!-- MEMES:END -->
 
 --- 
 
