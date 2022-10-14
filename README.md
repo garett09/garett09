@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybercrime in gaming has increased substantially since the start of the pandemic, with threats lurking in cheat codes, microtransactions, and players&#39; messages &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/221014/p2#a221014p2)
- - [&#39;The Rings of Power&#39; Season 1 Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-season-1-ending-explained/#ftag=CAD590a51e)
- - [You told us: Robust zoom or realistic portraits? Here’s what you prefer.](https://www.androidauthority.com/robust-zoom-realistic-portraits-camera-poll-results-3220483/)<!-- TECH:END -->
+ - [Chinese internet censors suspend thousands of WeChat accounts and remove posts after a rare protest in central Beijing against &quot;dictator and traitor Xi Jinping&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/221014/p7#a221014p7)
+ - [SpaceX tells US government that it can no longer pay for Ukraine’s Starlink service](https://www.theverge.com/2022/10/14/23404069/spacex-ukraine-starlink-funding-elon-musk-internet-satellite-connectivity-us-government-funding)
+ - [Daily Authority: 🍿 Cheap Netflix &lpar;with ads&rpar;](https://www.androidauthority.com/daily-authority-october-14-2022-3220487/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
