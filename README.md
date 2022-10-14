@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese internet censors suspend thousands of WeChat accounts and remove posts after a rare protest in central Beijing against &quot;dictator and traitor Xi Jinping&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/221014/p7#a221014p7)
- - [SpaceX tells US government that it can no longer pay for Ukraine’s Starlink service](https://www.theverge.com/2022/10/14/23404069/spacex-ukraine-starlink-funding-elon-musk-internet-satellite-connectivity-us-government-funding)
- - [Daily Authority: 🍿 Cheap Netflix &lpar;with ads&rpar;](https://www.androidauthority.com/daily-authority-october-14-2022-3220487/)<!-- TECH:END -->
+ - [A Reboot of the Maxwell’s Demon Thought Experiment—in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/)
+ - [Brian Eno on Why He Wrote a Climate Album With Deepfake Birdsongs](https://www.wired.com/story/brian-eno-q-and-a/)
+ - [A Lenovo ThinkPad smartphone could be on the way](https://www.androidauthority.com/lenovo-thinkpad-smartphone-3220516/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
