@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AR headset could use iris scanning for user identification](https://appleinsider.com/articles/22/10/14/apple-ar-headset-could-use-iris-scanning-for-user-identification?utm_medium=rss)
- - [Netflix with Ads: Prices, Plans and Everything Else to Know     - CNET](https://www.cnet.com/tech/services-and-software/netflix-with-ads-prices-plans-and-everything-else-to-know/#ftag=CAD590a51e)
- - [Some Meal Kits Are Now About the Same Cost as Buying the Groceries     - CNET](https://www.cnet.com/health/nutrition/meal-kit-cost-versus-buying-groceries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wendell &amp; Wild, Spirited, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [Decision to Leave is a gloriously frustrating mystery](https://www.theverge.com/23404231/decision-to-leave-review)
+ - [How to use your Apple Watch as a camera remote](https://www.androidauthority.com/apple-watch-camera-remote-3220655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
