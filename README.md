@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Minecraft Live Votes for Mobs, Upcoming Releases, and Much More](https://news.xbox.com/en-us/2022/10/14/this-week-on-xbox-minecraft-live-votes-for-mobs-upcoming-releases-and-much-more/)
- - [No Man’s Sky Update Made Player Inventories ‘Unrecognizable’](https://kotaku.com/no-mans-sky-waypoint-update-inventorygate-1849660101)
- - [Brace Yourselves, The Mario Movie Will Have Toad Sing](https://kotaku.com/mario-movie-musical-bowser-toad-jack-black-keegan-micha-1849660244)<!-- GAME:END -->
+ - [Valve is working on fixes for the Steam Deck dock&#39;s FreeSync issues](https://www.pcgamer.com/valve-is-working-on-fixes-for-the-steam-deck-docks-freesync-issues)
+ - [Overwatch 2 reaches 25 million players, tripling Overwatch 1 daily peaks](https://www.pcgamer.com/overwatch-2-reaches-25-million-players-tripling-overwatch-1-daily-peaks)
+ - [This Week on Xbox: Minecraft Live Votes for Mobs, Upcoming Releases, and Much More](https://news.xbox.com/en-us/2022/10/14/this-week-on-xbox-minecraft-live-votes-for-mobs-upcoming-releases-and-much-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
