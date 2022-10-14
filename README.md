@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7 Pro review: All that and a bag of &lpar;Tensor&rpar; chips](https://www.androidauthority.com/google-pixel-7-pro-review-3218245/)
- - [The Best Gifts for Tweens &lpar;Tween Approved&rpar;     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)
- - [Apple deals are still going strong after Amazon&#39;s Prime Sale, save up to $310](https://appleinsider.com/articles/22/10/13/apple-deals-are-still-going-strong-after-amazons-prime-sale-save-up-to-310?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify survey hints at $19.99 ‘Platinum’ plan that would include HiFi streaming](https://www.theverge.com/2022/10/14/23404968/spotify-hifi-platinum-survey-library-playlist-features)
+ - [Dutch e-commerce company Prosus to sell its Russian classifieds business Avito to Kismet Capital for ~$2.46B; Avito was valued at ~$6B before Russia&#39;s invasion &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/221014/p18#a221014p18)
+ - [Pokemon Go&#39;s Halloween 2022 Event Adds New Shiny Pokemon and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-gos-halloween-2022-event-adds-new-shiny-pokemon-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
