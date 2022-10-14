@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is working on fixes for the Steam Deck dock&#39;s FreeSync issues](https://www.pcgamer.com/valve-is-working-on-fixes-for-the-steam-deck-docks-freesync-issues)
- - [Overwatch 2 reaches 25 million players, tripling Overwatch 1 daily peaks](https://www.pcgamer.com/overwatch-2-reaches-25-million-players-tripling-overwatch-1-daily-peaks)
- - [This Week on Xbox: Minecraft Live Votes for Mobs, Upcoming Releases, and Much More](https://news.xbox.com/en-us/2022/10/14/this-week-on-xbox-minecraft-live-votes-for-mobs-upcoming-releases-and-much-more/)<!-- GAME:END -->
+ - [Guild Wars 2&#39;s next NPC is a real 10-year-old child](https://www.pcgamer.com/guild-wars-2s-next-npc-is-a-real-10-year-old-child)
+ - [Magic: The Gathering collaborates with Junji Ito for four frightening cards](https://www.polygon.com/23405060/magic-the-gathering-secret-lair-drop-october-junji-ito-cards)
+ - [Street Fighter 6 Has The Best Training Mode I’ve Ever Seen](https://kotaku.com/street-fighter-6-frame-data-training-mode-closed-beta-1849660749)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
