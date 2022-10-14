@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its an idea](http://9gag.com/gag/aMErXYR)
- - 🚯 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)
- - 🚯 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)<!-- MEMES:END -->
+ - 🚖 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
+ - 🚯 [If car looses the brakes in a self driving vehicle, what will it decide to do? If I was the engineer of that thing, I would add an evil lough and say to them all `it&#39;s our world now b\u05d5tches!`](http://9gag.com/gag/aA0rq09)<!-- MEMES:END -->
 
 --- 
 
