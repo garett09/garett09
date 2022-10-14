@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
- - 🚯 [Im only 30...](http://9gag.com/gag/aXnpyz9)
- - 🚯 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
+ - 🚖 [I have questions....](http://9gag.com/gag/a8qY9xV)
+ - 🚯 [No one do it better than her being the most hilarious dumbi*ch](http://9gag.com/gag/a6qy082)
+ - 🚯 [Georgia police officers](http://9gag.com/gag/adPYw9D)<!-- MEMES:END -->
 
 --- 
 
