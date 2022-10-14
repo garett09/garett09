@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
- - 🚯 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 🚯 [If you&#39;re looking for a meme in 9gag, here&#39;s a one.](http://9gag.com/gag/aoK0LWe)<!-- MEMES:END -->
+ - 🚖 [Its an idea](http://9gag.com/gag/aMErXYR)
+ - 🚯 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)
+ - 🚯 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)<!-- MEMES:END -->
 
 --- 
 
