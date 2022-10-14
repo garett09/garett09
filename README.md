@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Xi would be proud](http://9gag.com/gag/abvyngB)
- - 🚯 [Unfortunately all the women i&#39;ve met are the third type](http://9gag.com/gag/avQgK5Z)
- - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)<!-- MEMES:END -->
+ - 🚖 [Herstory](http://9gag.com/gag/a5XPyYq)
+ - 🚯 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
+ - 🚯 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
 
 --- 
 
