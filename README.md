@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Display specs leak for Google’s foldable phone, but be skeptical](https://www.androidauthority.com/google-foldable-phone-rumor-3220720/)
- - [Louisiana kicks off one of the US’s biggest carbon capture projects yet](https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil)
- - [Trick Out Your Tool Box With Up to 72% Off Drills, Saws, Drivers and More     - CNET](https://www.cnet.com/deals/trick-out-your-tool-box-with-up-to-72-off-drills-saws-drivers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 7 Pro review: All that and a bag of &lpar;Tensor&rpar; chips](https://www.androidauthority.com/google-pixel-7-pro-review-3218245/)
+ - [The Best Gifts for Tweens &lpar;Tween Approved&rpar;     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)
+ - [Apple deals are still going strong after Amazon&#39;s Prime Sale, save up to $310](https://appleinsider.com/articles/22/10/13/apple-deals-are-still-going-strong-after-amazons-prime-sale-save-up-to-310?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
