@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Sims 4 designed for size-inclusive fashion](https://www.polygon.com/23400237/the-sims-4-create-a-sim-body-types)
- - [Here&#39;s what to expect from Sins of a Solar Empire 2 early access on October 27](https://www.pcgamer.com/heres-what-to-expect-from-sins-of-a-solar-empire-2-early-access-on-october-27)
- - [Next Week on Xbox: New Games for October 17 to 21](https://news.xbox.com/en-us/2022/10/14/next-week-on-xbox-new-games-for-october-17-to-21/)<!-- GAME:END -->
+ - [Dead Space hands-on details – Upgraded and expanded horror gameplay](https://blog.playstation.com/2022/10/14/dead-space-hands-on-details-upgraded-and-expanded-horror-gameplay/)
+ - [Playing the Dead Space remake made me realize I totally misremembered Dead Space](https://www.pcgamer.com/dead-space-remake-hands-on-preview)
+ - [Monopoly Madness Free Demo Available Now](https://news.xbox.com/en-us/2022/10/14/monopoly-madness-free-demo-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
