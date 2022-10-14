@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia Cancels Cheapest New PC Graphics Card, Leaving Only The Expensive Huge Ones](https://kotaku.com/nvidia-pc-graphics-card-rtx-4080-4090-price-date-cancel-1849659147)
- - [Nvidia &#39;unlaunches&#39; the unwanted RTX 4080 12GB](https://www.pcgamer.com/nvidia-rtx-4080-12gb-unlaunched)
- - [PGA Tour 2K23 is Teed Up with Topgolf, New Courses, and Enhanced Features](https://news.xbox.com/en-us/2022/10/14/pga-tour-2k23-is-teed-up-with-topgolf-new-courses-and-enhanced-features/)<!-- GAME:END -->
+ - [The Minecraft mob vote is on—here&#39;s where and how to vote](https://www.pcgamer.com/minecraft-mob-vote-time-how-to-2022)
+ - [Nvidia shelves cheaper RTX 4080, admitting its name was ‘confusing’](https://www.polygon.com/23404603/nvidia-rtx-4080-12-gb-canceled-release-date)
+ - [This sci-fi base-building survival game is perfect for extreme micromanagers](https://www.pcgamer.com/this-sci-fi-base-building-survival-game-is-perfect-for-extreme-micromanagers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
