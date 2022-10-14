@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Space hands-on details – Upgraded and expanded horror gameplay](https://blog.playstation.com/2022/10/14/dead-space-hands-on-details-upgraded-and-expanded-horror-gameplay/)
- - [Playing the Dead Space remake made me realize I totally misremembered Dead Space](https://www.pcgamer.com/dead-space-remake-hands-on-preview)
- - [Monopoly Madness Free Demo Available Now](https://news.xbox.com/en-us/2022/10/14/monopoly-madness-free-demo-available-now/)<!-- GAME:END -->
+ - [Elgato Wave DX microphone](https://www.pcgamer.com/elgato-wave-dx-microphone-review)
+ - [Halloween Ends can go to hell](https://www.polygon.com/reviews/23402987/halloween-ends-review-michael-myers)
+ - [This new Vampire Survivors mode is going to be the end of me](https://www.pcgamer.com/this-new-vampire-survivors-mode-is-going-to-be-the-end-of-me)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
