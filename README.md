@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 1 and 2 are finally getting fixed on PC](https://www.pcgamer.com/no-more-heroes-1-and-2-are-finally-getting-fixed-on-pc)
- - [Scorn Review](https://www.pcgamer.com/scorn-review)
- - [Xbox’s horror exclusive Scorn can’t transcend its Giger-inspired visuals](https://www.polygon.com/reviews/23402825/scorn-review-xbox-exclusive-game-pass-h-r-giger-horror-puzzle-games)<!-- GAME:END -->
+ - [How to get Candy and unlock the Halloween skins in MultiVersus](https://www.pcgamer.com/multiversus-halloween-skins-candy)
+ - [Evidence mounts that the Mario movie is a musical: Toad sings too](https://www.polygon.com/23404135/mario-movie-musical-toad-sings)
+ - [Valve just filed a new &#39;computer game software&#39; trademark and the rumours are already flying](https://www.pcgamer.com/valve-just-filed-a-new-computer-game-software-trademark-and-the-rumours-are-already-flying)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
