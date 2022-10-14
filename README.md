@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Twitter says Elon Musk is under a federal investigation related to his acquisition of the company and asks for access to docs he gave to authorities &lpar;Tom Giles/Bloomberg&rpar;](http://www.techmeme.com/221013/p38#a221013p38)
- - [Apple Reportedly Fined $19M for Not Including Chargers With iPhones     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-fined-19m-for-not-including-chargers-with-iphones/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta says the segment at Connect announcing the addition of legs to Horizon World avatars &quot;featured animations created from motion capture&quot; &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/221013/p41#a221013p41)
+ - [Did Mark Zuckerberg’s little dance actually show us real metaverse legs?](https://www.theverge.com/2022/10/13/23403650/horizon-metaverse-legs-demonstration-motion-capture)
+ - [&#39;House of the Dragon:&#39; The Episode 8 Prophecy and King Viserys Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-the-episode-8-prophecy-and-king-viserys-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
