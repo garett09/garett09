@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is weaker?](http://9gag.com/gag/a6qy6PL)
- - 🚯 [I&#39;ve just found out today........](http://9gag.com/gag/anzKo5z)
- - 🚯 [The Rings of Power](http://9gag.com/gag/abvyLEL)<!-- MEMES:END -->
+ - 🚖 [Xi would be proud](http://9gag.com/gag/abvyngB)
+ - 🚯 [Unfortunately all the women i&#39;ve met are the third type](http://9gag.com/gag/avQgK5Z)
+ - 🚯 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)<!-- MEMES:END -->
 
 --- 
 
