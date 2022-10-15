@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The wrong gy probably dead after that](http://9gag.com/gag/ap90Oeb)
- - 🚯 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)<!-- MEMES:END -->
+ - 🚖 [Those damn carts... If only there was a solution...](http://9gag.com/gag/aWGWrn2)
+ - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 🚯 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
 
 --- 
 
