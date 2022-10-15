@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Minecraft Legends shows off its 4 player co-op in new gameplay video](https://www.pcgamer.com/minecraft-legends-shows-off-its-4-player-co-op-in-new-gameplay-video)
  - [Would you play an FPS with a controller if aim assist helped you win more?](https://www.pcgamer.com/would-you-play-an-fps-with-a-controller-if-aim-assist-helped-you-win-more)
- - [Mojang announces Minecraft 1.20, with first beta coming &#39;a few days from now&#39;](https://www.pcgamer.com/mojang-announces-minecraft-120-with-first-beta-coming-a-few-days-from-now)
- - [Minecraft camels: what we know about our upcoming desert pals](https://www.pcgamer.com/minecraft-camel-mob)<!-- GAME:END -->
+ - [Mojang announces Minecraft 1.20, with first beta coming &#39;a few days from now&#39;](https://www.pcgamer.com/mojang-announces-minecraft-120-with-first-beta-coming-a-few-days-from-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
