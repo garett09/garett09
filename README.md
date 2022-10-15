@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad smart home hub dock rumored to be coming soon](https://appleinsider.com/articles/22/10/15/accessory-could-turn-ipad-into-a-smart-home-hub-for-the-kitchen?utm_medium=rss)
- - [How to master the iPhone 14 Pro &amp; iPhone 14 Pro Max camera](https://appleinsider.com/inside/iphone-14-pro/tips/how-to-master-the-iphone-14-pro-iphone-14-pro-max-camera?utm_medium=rss)
- - [Apple AirPods Pro &lpar;2nd generation&rpar; review: It all adds up](https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/)<!-- TECH:END -->
+ - [Apple reportedly wants to turn the iPad into a smart display with a new dock](https://www.theverge.com/2022/10/15/23406061/apple-ipad-smart-display-speaker-dock-accessory-rumors)
+ - [Elon Musk claims SpaceX will &quot;just keep funding Ukraine govt for free&quot; even though the Starlink service is still losing money &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221015/p11#a221015p11)
+ - [You&#39;ll Have to Pry the Thumbs-Up Emoji From My Cold, Dead Hands     - CNET](https://www.cnet.com/culture/internet/youll-have-to-pry-the-thumbs-up-emoji-from-my-cold-dead-hands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
