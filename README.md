@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Michael Myers Halloween mask tells a story](https://www.polygon.com/23391064/michael-myers-halloween-mask-history)
- - [Overwatch 2 review](https://www.pcgamer.com/overwatch-2-review)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Mojang announces Minecraft 1.20, with first beta coming &#39;a few days from now&#39;](https://www.pcgamer.com/mojang-announces-minecraft-120-with-first-beta-coming-a-few-days-from-now)
+ - [Minecraft camels: what we know about our upcoming desert pals](https://www.pcgamer.com/minecraft-camel-mob)
+ - [Minecraft 1.20—everything we know about the next major Minecraft update](https://www.pcgamer.com/minecraft-120-update-guide-launch-mobs-blocks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
