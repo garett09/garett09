@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal Meta docs detail its metaverse struggles; Horizon Worlds has ~200K MAUs vs. a goal of 500K by end of 2022; 9% of worlds are ever visited by 50+ people &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221015/p7#a221015p7)
  - [Google’s Pixel 6 is only $20 more than it was during Amazon’s recent Prime Day event](https://www.theverge.com/2022/10/15/23404763/google-pixel-6-phone-amazon-echo-dot-fifth-gen-apple-tv-4k-razer-seiren-mini-microphone-deal-sale)
- - [Has Google fixed the reception problems for the Pixel 7 series?](https://www.androidauthority.com/google-pixel-7-connectivity-reception-issues-3220800/)
- - [One designer’s quest to build the world’s greatest desk accessories](https://www.theverge.com/2022/10/15/23404275/ugmonk-gather-desk-accessories-jeff-sheldon)<!-- TECH:END -->
+ - [Has Google fixed the reception problems for the Pixel 7 series?](https://www.androidauthority.com/google-pixel-7-connectivity-reception-issues-3220800/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
