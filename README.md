@@ -146,7 +146,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [When a gagger gets his first neck crack by a chiropractor](http://9gag.com/gag/aeQ0X5O)
- - 🚯 [Ukraine: We reject talks with Russia. When we win this war, we will decide the fate of Russia.](http://9gag.com/gag/armR1MV)
+ - 🚯 [Another day in a 9gagger&#39;s life](http://9gag.com/gag/amA0eDy)
  - 🚯 [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)<!-- MEMES:END -->
 
 --- 
