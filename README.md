@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How is the engine not instantly killed once the air intake is underwater?](http://9gag.com/gag/aDYmRw7)
- - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
- - 🚯 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)<!-- MEMES:END -->
+ - 🚖 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
+ - 🚯 [How to avoid energy crisis.](http://9gag.com/gag/a1PezxG)
+ - 🚯 [Here we go again](http://9gag.com/gag/anzKwn5)<!-- MEMES:END -->
 
 --- 
 
