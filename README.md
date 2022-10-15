@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - 🚯 [Ilizarov Technique, a method to lengthen a bone by `fracturing` and pulling the bone over the course of several months. Useful for severe fracture and..... cosmetic height increase](http://9gag.com/gag/aA0rqo2)
+ - 🚖 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
+ - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
  - 🚯 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
 
 --- 
