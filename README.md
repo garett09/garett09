@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance&#39;s mining service Binance Pool launches a $500M fund to provide 18-to-24-month loans for private and publicly listed Bitcoin miners &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221015/p12#a221015p12)
- - [Best 4K Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
- - [The Absolute Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Hot Corners in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-hot-corners-in-macos?utm_medium=rss)
+ - [Level Lock+ with Home Key hits some Apple Store shelves](https://appleinsider.com/articles/22/10/15/level-lock-with-home-key-hits-some-apple-store-shelves?utm_medium=rss)
+ - [Yankees vs. Guardians Livestream: How to Watch Game 3 of the Division Series Online     - CNET](https://www.cnet.com/tech/services-and-software/yankees-vs-guardians-livestream-how-to-watch-game-3-of-the-division-series-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
