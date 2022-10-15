@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
- - 🚯 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)
- - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
+ - 🚖 [How is the engine not instantly killed once the air intake is underwater?](http://9gag.com/gag/aDYmRw7)
+ - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
+ - 🚯 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)<!-- MEMES:END -->
 
 --- 
 
