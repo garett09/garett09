@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
- - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - 🚯 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
+ - 🚯 [The wrong gy probably dead after that](http://9gag.com/gag/ap90Oeb)
+ - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
 
 --- 
 
