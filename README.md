@@ -145,7 +145,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - 🚖 [Science dad jokes](http://9gag.com/gag/a5XP4jy)
  - 🚯 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
  - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)<!-- MEMES:END -->
 
