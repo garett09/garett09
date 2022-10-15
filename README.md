@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct 15: 50% off Apple MagSafe Wallet, Canon and Sonos discounts, more](https://appleinsider.com/articles/22/10/15/daily-deals-oct-15-50-off-apple-magsafe-wallet-canon-and-sonos-discounts-more?utm_medium=rss)
- - [The Z Flip 4 is a great compact phone you can’t fully use with one hand](https://www.androidauthority.com/samsung-galaxy-z-flip-4-open-one-hand-opinion-3214746/)
- - [Why India&#39;s Capital Is Teeming With Mosquitoes](https://www.wired.com/story/why-delhi-is-teeming-with-mosquitoes/)<!-- TECH:END -->
+ - [Google’s Pixel 6 is only $20 more than it was during Amazon’s recent Prime Day event](https://www.theverge.com/2022/10/15/23404763/google-pixel-6-phone-amazon-echo-dot-fifth-gen-apple-tv-4k-razer-seiren-mini-microphone-deal-sale)
+ - [Has Google fixed the reception problems for the Pixel 7 series?](https://www.androidauthority.com/google-pixel-7-connectivity-reception-issues-3220800/)
+ - [One designer’s quest to build the world’s greatest desk accessories](https://www.theverge.com/2022/10/15/23404275/ugmonk-gather-desk-accessories-jeff-sheldon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
