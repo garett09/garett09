@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Hot Corners in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-hot-corners-in-macos?utm_medium=rss)
- - [Level Lock+ with Home Key hits some Apple Store shelves](https://appleinsider.com/articles/22/10/15/level-lock-with-home-key-hits-some-apple-store-shelves?utm_medium=rss)
- - [Yankees vs. Guardians Livestream: How to Watch Game 3 of the Division Series Online     - CNET](https://www.cnet.com/tech/services-and-software/yankees-vs-guardians-livestream-how-to-watch-game-3-of-the-division-series-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steve Jobs&#39; Macintosh SE from NeXT could fetch $300,000 at auction](https://appleinsider.com/articles/22/10/15/steve-jobs-macintosh-se-from-next-could-fetch-300000-at-auction?utm_medium=rss)
+ - [Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221015/p13#a221015p13)
+ - [Elon Musk says Starlink will keep funding Ukraine’s government ‘for free’ despite losing money](https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
