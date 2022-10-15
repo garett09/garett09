@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-454-3220323/)
- - [The Best Smart Ovens of 2022: Amazon, June, Tovala and More     - CNET](https://www.cnet.com/news/best-smart-ovens/#ftag=CAD590a51e)
- - [The Wire responds, including an alleged recording of an internal Instagram subdomain and DKIM verification, to Meta&#39;s statement questioning its XCheck probe &lpar;The Wire&rpar;](http://www.techmeme.com/221015/p8#a221015p8)<!-- TECH:END -->
+ - [Sources: Apple will launch iPad Pros with an M2 chip this month and is working on a Mac mini with M2, Apple TV with A14, and a new entry-level iPad with USB-C &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221015/p9#a221015p9)
+ - [Meta’s Horizon Worlds VR platform is reportedly struggling to keep users](https://www.theverge.com/2022/10/15/23405811/meta-horizon-worlds-losing-users-report)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-454-3220323/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
