@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every Michael Myers Halloween mask tells a story](https://www.polygon.com/23391064/michael-myers-halloween-mask-history)
  - [Overwatch 2 review](https://www.pcgamer.com/overwatch-2-review)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [14 heart-pounding thrillers to watch on Netflix](https://www.polygon.com/23402426/best-thrillers-watch-netflix-streaming-movies)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
