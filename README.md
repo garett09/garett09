@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)
+ - 🚖 [The wrong gy probably dead after that](http://9gag.com/gag/ap90Oeb)
  - 🚯 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
+ - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)<!-- MEMES:END -->
 
 --- 
 
