@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doc: a shareholders&#39; agreement from Elon Musk for Twitter investors gives him &quot;sole discretion&quot; on an IPO decision, &quot;exclusive authority&quot; on board changes, more &lpar;The Information&rpar;](http://www.techmeme.com/221014/p20#a221014p20)
- - [A tweet about hair relaxer kits connected models from the boxes with women who grew up seeing them](https://www.theverge.com/2022/10/14/23391086/black-twitter-hair-relaxer-models-memories)
- - [Buy Cards Against Humanity&#39;s Clam Mayo, and You Could Win a Car     - CNET](https://www.cnet.com/culture/buy-cards-against-humanitys-clam-mayo-and-you-could-win-a-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Store workers in Oklahoma vote to unionize](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)
+ - [NASA&#39;s Artemis I Moon Mission Gets New November Launch Date     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-moon-mission-gets-new-november-launch-date/#ftag=CAD590a51e)
+ - [Manchester-based Connex One, which provides customer engagement tools to contact centers, raised a &amp;pound;93M Series C &lpar;George Simister/UKTN&rpar;](http://www.techmeme.com/221014/p21#a221014p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
