@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch The Philadelphia Orchestra eat it hard in Trombone Champ](https://www.pcgamer.com/watch-the-philadelphia-orchestra-eat-it-hard-in-trombone-champ)
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/entertainment/2022/10/14/23398730/new-movies-watch-halloween-ends-netflix-curse-bridge-hollow-spirit-halloween-clerks-iii-stream)
- - [Guild Wars 2&#39;s next NPC is a real 10-year-old child](https://www.pcgamer.com/guild-wars-2s-next-npc-is-a-real-10-year-old-child)<!-- GAME:END -->
+ - [The big Rings of Power season 2 questions, answered](https://www.polygon.com/23403598/lord-rings-power-season-2-questions-theories-answers)
+ - [Overwatch 2 players aren’t happy with the game’s cosmetics and store prices](https://www.polygon.com/gaming/23403447/overwatch-2-stores-skins-cosmetics-free-play)
+ - [CD Projekt&#39;s big roadmap doesn&#39;t indicate an impending acquisition, says analyst](https://www.pcgamer.com/cd-projekts-big-roadmap-doesnt-indicate-an-impending-acquisition-says-analyst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
