@@ -139,8 +139,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Binance&#39;s mining service Binance Pool launches a $500M fund to provide 18-to-24-month loans for private and publicly listed Bitcoin miners &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221015/p12#a221015p12)
- - [The Absolute Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 4K Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
+ - [The Absolute Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
