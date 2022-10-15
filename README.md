@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
+ - 🚖 [The wrong gy probably dead after that](http://9gag.com/gag/ap90Oeb)
  - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - 🚯 [How the turntables](http://9gag.com/gag/aBd3BXO)<!-- MEMES:END -->
+ - 🚯 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
 
 --- 
 
