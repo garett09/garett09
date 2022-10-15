@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple will launch iPad Pros with an M2 chip this month and is working on a Mac mini with M2, Apple TV with A14, and a new entry-level iPad with USB-C &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221015/p9#a221015p9)
- - [Meta’s Horizon Worlds VR platform is reportedly struggling to keep users](https://www.theverge.com/2022/10/15/23405811/meta-horizon-worlds-losing-users-report)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-454-3220323/)<!-- TECH:END -->
+ - [Apple iPad smart home hub dock rumored to be coming soon](https://appleinsider.com/articles/22/10/15/accessory-could-turn-ipad-into-a-smart-home-hub-for-the-kitchen?utm_medium=rss)
+ - [How to master the iPhone 14 Pro &amp; iPhone 14 Pro Max camera](https://appleinsider.com/inside/iphone-14-pro/tips/how-to-master-the-iphone-14-pro-iphone-14-pro-max-camera?utm_medium=rss)
+ - [Apple AirPods Pro &lpar;2nd generation&rpar; review: It all adds up](https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
