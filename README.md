@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those damn carts... If only there was a solution...](http://9gag.com/gag/aWGWrn2)
- - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
- - 🚯 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
+ - 🚖 [When a gagger gets his first neck crack by a chiropractor](http://9gag.com/gag/aeQ0X5O)
+ - 🚯 [Ukraine: We reject talks with Russia. When we win this war, we will decide the fate of Russia.](http://9gag.com/gag/armR1MV)
+ - 🚯 [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)<!-- MEMES:END -->
 
 --- 
 
