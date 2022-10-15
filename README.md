@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store workers in Oklahoma vote to unionize](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)
- - [NASA&#39;s Artemis I Moon Mission Gets New November Launch Date     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-moon-mission-gets-new-november-launch-date/#ftag=CAD590a51e)
- - [Manchester-based Connex One, which provides customer engagement tools to contact centers, raised a &amp;pound;93M Series C &lpar;George Simister/UKTN&rpar;](http://www.techmeme.com/221014/p21#a221014p21)<!-- TECH:END -->
+ - [Miami-based Brave Health, a Medicaid-focused virtual mental health care provider, raised a $40M Series C, bringing its total funding to $60M &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/221015/p1#a221015p1)
+ - [Insight Partners to buy a minority stake in Aptean, which develops ERP and supply chain management software, sources say at a ~$3.55B valuation, including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p23#a221014p23)
+ - [How to change your Google Pixel Watch band](https://www.androidauthority.com/how-to-change-pixel-watch-band-3220471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
