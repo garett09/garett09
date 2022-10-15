@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When a gagger gets his first neck crack by a chiropractor](http://9gag.com/gag/aeQ0X5O)
- - 🚯 [Another day in a 9gagger&#39;s life](http://9gag.com/gag/amA0eDy)
- - 🚯 [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)<!-- MEMES:END -->
+ - 🚖 [Someone posted this easy to follow video on how to massage someone&#39;s calf.](http://9gag.com/gag/anzKZ6q)
+ - 🚯 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)
+ - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)<!-- MEMES:END -->
 
 --- 
 
