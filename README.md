@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone posted this easy to follow video on how to massage someone&#39;s calf.](http://9gag.com/gag/anzKZ6q)
+ - 🚖 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
  - 🚯 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)
- - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)<!-- MEMES:END -->
+ - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
 
 --- 
 
