@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
- - 🚯 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)
- - 🚯 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)<!-- MEMES:END -->
+ - 🚖 [Water Stuck Inside Tree](http://9gag.com/gag/aGERKN7)
+ - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
+ - 🚯 [Typical day for indian railways](http://9gag.com/gag/axoGN2b)<!-- MEMES:END -->
 
 --- 
 
