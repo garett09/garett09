@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Water Stuck Inside Tree](http://9gag.com/gag/aGERKN7)
- - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
- - 🚯 [Typical day for indian railways](http://9gag.com/gag/axoGN2b)<!-- MEMES:END -->
+ - 🚖 [$0.50 talking about the real slim shady](http://9gag.com/gag/awZ70ED)
+ - 🚯 [Dayum, how can you survive this](http://9gag.com/gag/ajVn6MQ)
+ - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
 
 --- 
 
