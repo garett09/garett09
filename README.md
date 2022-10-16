@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boss Be Pervin&#39;](http://9gag.com/gag/a1Pe928)
- - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
- - 🚯 [Here we go again](http://9gag.com/gag/anzKwn5)<!-- MEMES:END -->
+ - 🚖 [Another day in a 9gagger&#39;s life](http://9gag.com/gag/amA0eDy)
+ - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)
+ - 🚯 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)<!-- MEMES:END -->
 
 --- 
 
