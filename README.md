@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
- - 🚯 [Chugging beer to chuggy riffs](http://9gag.com/gag/a7qbLQw)
+ - 🚖 [Boss Be Pervin&#39;](http://9gag.com/gag/a1Pe928)
+ - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
  - 🚯 [Here we go again](http://9gag.com/gag/anzKwn5)<!-- MEMES:END -->
 
 --- 
