@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uplift L-Shaped Standing Desk V2 review: Stylish &amp; sturdy desk that&#39;ll help you stay healthy](https://appleinsider.com/articles/22/10/16/uplift-l-shaped-standing-desk-v2-review-stylish-sturdy-desk-thatll-help-you-stay-healthy?utm_medium=rss)
- - [That Big &#39;Rings of Power&#39; Finale Twist Doesn&#39;t Work in the Streaming Age     - CNET](https://www.cnet.com/culture/entertainment/that-big-rings-of-power-finale-twist-doesnt-work-in-the-streaming-age/#ftag=CAD590a51e)
- - [Boost Your Happiness With These 7 Mood-Altering Foods     - CNET](https://www.cnet.com/health/mental/boost-your-happiness-with-these-7-mood-altering-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: 14 self-driving vehicle tech companies that went public in the past two years have seen an 80%+ average decline in their post-IPO stock price &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221016/p12#a221016p12)
+ - [Samsung Galaxy Tab A7 Lite review: Lite on the money](https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/)
+ - [Apple Music&#39;s Spatial Audio spreads to Mercedes-Benz vehicles](https://appleinsider.com/articles/22/10/16/apple-musics-spatial-audio-spreads-to-mercedes-benz-vehicles?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
