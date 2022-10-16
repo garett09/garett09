@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instead of other newsletter platforms, Substack should be compared to services giving creators direct relationships with fans, like Shopify, Twitch, and Patreon &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221015/p14#a221015p14)
- - [New iPad Pros arriving in days, new MacBook Pros in November](https://appleinsider.com/articles/22/10/15/ipad-pro-update-could-be-days-away-macbook-pro-due-november?utm_medium=rss)
- - [&#39;Andor&#39; Episode 6 Explained: Star Wars Heist Ends With a Delightfully Dark Twist     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-6-explained-star-wars-heist-ends-with-a-delightfully-dark-twist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BNP Paribas agrees to acquire Kantox, a London-based currency management automation software firm, for &amp;euro;120M after a three year partnership &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/221015/p15#a221015p15)
+ - [Negroni Sbagliato: Why Emma D&#39;Arcy&#39;s Drink of Choice Now a TikTok Trend     - CNET](https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CAD590a51e)
+ - [Instead of other newsletter platforms, Substack should be compared to services giving creators direct relationships with fans, like Shopify, Twitch, and Patreon &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221015/p14#a221015p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
