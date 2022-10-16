@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - 🚯 [How to avoid energy crisis.](http://9gag.com/gag/a1PezxG)
+ - 🚖 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
+ - 🚯 [Chugging beer to chuggy riffs](http://9gag.com/gag/a7qbLQw)
  - 🚯 [Here we go again](http://9gag.com/gag/anzKwn5)<!-- MEMES:END -->
 
 --- 
