@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)
- - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
- - 🚯 [Magic of science](http://9gag.com/gag/aYVwpyN)<!-- MEMES:END -->
+ - 🚖 [Im only 30...](http://9gag.com/gag/aXnpyz9)
+ - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 🚯 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
 
 --- 
 
