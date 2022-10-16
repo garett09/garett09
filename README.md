@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New US export controls may affect 43+ senior execs at 16 public semiconductor companies in China, forcing them to choose between US citizenship and their jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221016/p10#a221016p10)
  - [Microsoft’s out-of-date driver list left Windows PCs open to malware attacks for years](https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd)
- - [Holding platforms accountable for algorithms promoting self-harm is hard because research linking mental health and social media doesn&#39;t establish causation &lpar;Eleanor Cummins/Wired&rpar;](http://www.techmeme.com/221016/p9#a221016p9)
- - [We got up close and personal with the Pixel 7 Pro’s new macro mode](https://www.androidauthority.com/we-got-up-close-and-personal-with-the-pixel-7-pros-new-macro-mode-3220467/)<!-- TECH:END -->
+ - [Holding platforms accountable for algorithms promoting self-harm is hard because research linking mental health and social media doesn&#39;t establish causation &lpar;Eleanor Cummins/Wired&rpar;](http://www.techmeme.com/221016/p9#a221016p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
