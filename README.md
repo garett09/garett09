@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We got up close and personal with the Pixel 7 Pro’s new macro mode](https://www.androidauthority.com/we-got-up-close-and-personal-with-the-pixel-7-pros-new-macro-mode-3220467/)
- - [International Federation of Robotics: 500K+ industrial robots were installed in 2021, an all-time high, bringing the number of global installations to 3.5M &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221016/p8#a221016p8)
- - [GoPro Hero 10 Black Review: Vertical Video](https://www.wired.com/review/gopro-hero-11-black/)<!-- TECH:END -->
+ - [Microsoft’s out-of-date driver list left Windows PCs open to malware attacks for years](https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd)
+ - [Holding platforms accountable for algorithms promoting self-harm is hard because research linking mental health and social media doesn&#39;t establish causation &lpar;Eleanor Cummins/Wired&rpar;](http://www.techmeme.com/221016/p9#a221016p9)
+ - [We got up close and personal with the Pixel 7 Pro’s new macro mode](https://www.androidauthority.com/we-got-up-close-and-personal-with-the-pixel-7-pros-new-macro-mode-3220467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
