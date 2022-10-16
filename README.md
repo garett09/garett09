@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom is like....WTH..](http://9gag.com/gag/ap9BoOB)
- - 🚯 [You, the player](http://9gag.com/gag/aVbWGyw)
- - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)<!-- MEMES:END -->
+ - 🚖 [My action were calculated and man am good at math too..](http://9gag.com/gag/ajVn0xg)
+ - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)
+ - 🚯 [$0.50 talking about the real slim shady](http://9gag.com/gag/awZ70ED)<!-- MEMES:END -->
 
 --- 
 
