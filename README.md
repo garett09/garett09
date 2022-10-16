@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
- - 🚯 [Typical day for indian railways](http://9gag.com/gag/axoGN2b)
- - 🚯 [How is the engine not instantly killed once the air intake is underwater?](http://9gag.com/gag/aDYmRw7)<!-- MEMES:END -->
+ - 🚖 [Thermite munition over Bakhmut. Really scary.](http://9gag.com/gag/aOxmV4M)
+ - 🚯 [Water Stuck Inside Tree](http://9gag.com/gag/aGERKN7)
+ - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)<!-- MEMES:END -->
 
 --- 
 
