@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Forbidden world](http://9gag.com/gag/a4odOBA)
- - 🚯 [Dang](http://9gag.com/gag/a4odMpv)
- - 🚯 [Typical day for indian railways](http://9gag.com/gag/axoGN2b)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)
+ - 🚯 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
+ - 🚯 [Magic of science](http://9gag.com/gag/aYVwpyN)<!-- MEMES:END -->
 
 --- 
 
