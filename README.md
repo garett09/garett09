@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another day in a 9gagger&#39;s life](http://9gag.com/gag/amA0eDy)
- - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)
- - 🚯 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)<!-- MEMES:END -->
+ - 🚖 [How to get rid of jehova\u2019s without saying a word](http://9gag.com/gag/aoKjEXe)
+ - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 🚯 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
 
 --- 
 
