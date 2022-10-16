@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously 9gag, WTF?](http://9gag.com/gag/aYVwjeV)
- - 🚯 [What we all secretly want...](http://9gag.com/gag/a4oL4Pv)
- - 🚯 [I learned a lot from them](http://9gag.com/gag/aNwKm5r)<!-- MEMES:END -->
+ - 🚖 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
+ - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 🚯 [MOCtober challenge day 14: build something from Lord of the Rings](http://9gag.com/gag/aMErMR6)<!-- MEMES:END -->
 
 --- 
 
