@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thermite munition over Bakhmut. Really scary.](http://9gag.com/gag/aOxmV4M)
- - 🚯 [Water Stuck Inside Tree](http://9gag.com/gag/aGERKN7)
- - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)<!-- MEMES:END -->
+ - 🚖 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
+ - 🚯 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)
+ - 🚯 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)<!-- MEMES:END -->
 
 --- 
 
