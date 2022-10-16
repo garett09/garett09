@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: 14 self-driving vehicle tech companies that went public in the past two years have seen an 80%+ average decline in their post-IPO stock price &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221016/p12#a221016p12)
- - [Samsung Galaxy Tab A7 Lite review: Lite on the money](https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/)
- - [Apple Music&#39;s Spatial Audio spreads to Mercedes-Benz vehicles](https://appleinsider.com/articles/22/10/16/apple-musics-spatial-audio-spreads-to-mercedes-benz-vehicles?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro lead times dip below iPhone 13 Pro as moderation continues](https://appleinsider.com/articles/22/10/16/iphone-14-pro-lead-times-dip-below-iphone-13-pro-as-moderation-continues?utm_medium=rss)
+ - [Android’s audio output switcher may soon let you pick cast devices, too](https://www.theverge.com/2022/10/16/23407553/android-audio-output-switcher-pick-cast-devices-google)
+ - [Scaredy-Cats, You Can Enjoy Horror Movies This Halloween Too     - CNET](https://www.cnet.com/culture/entertainment/scaredy-cats-you-can-enjoy-horror-movies-this-halloween-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
