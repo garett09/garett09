@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Know that if you can&#39;t find crab on the shelf, this is why](http://9gag.com/gag/ay2npDM)
- - 🚯 [\u201cCan we keep him?\u201d](http://9gag.com/gag/aZDNbqz)
- - 🚯 [Im only 30...](http://9gag.com/gag/aXnpyz9)<!-- MEMES:END -->
+ - 🚖 [This is why Internet is made for](http://9gag.com/gag/aZDNWb3)
+ - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)
+ - 🚯 [You, the player](http://9gag.com/gag/aVbWGyw)<!-- MEMES:END -->
 
 --- 
 
