@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Passkeys in Google Chrome and Android](https://www.wired.com/story/how-to-use-passkeys-google-chrome-android/)
- - [LiveWire S2 Del Mar Review: Fun, Fast, Limited Range](https://www.wired.com/review/review-livewire-s2-del-mar/)
- - [UK-based Zen Educate, a marketplace that algorithmically matches schools with the best available teachers, raised a $21M Series A extension to fuel US expansion &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221016/p7#a221016p7)<!-- TECH:END -->
+ - [Crime blotter: Illinois man sentenced for six-figure iPhone theft](https://appleinsider.com/articles/22/10/16/crime-blotter-illinois-man-sentenced-for-six-figure-iphone-theft?utm_medium=rss)
+ - [Daily deals Oct. 16: $200 off 12.9-inch iPad Pro, 43% off Beats Studio3, $59 off Razer mechanical keyboard, more](https://appleinsider.com/articles/22/10/16/daily-deals-oct-16-200-off-129-inch-ipad-pro-43-off-beats-studio3-59-off-razer-mechanical-keyboard-more?utm_medium=rss)
+ - [Lite apps should be available everywhere and to everyone](https://www.androidauthority.com/lite-apps-should-be-available-to-everyone-3210085/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
