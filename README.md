@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why Internet is made for](http://9gag.com/gag/aZDNWb3)
- - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)
- - 🚯 [You, the player](http://9gag.com/gag/aVbWGyw)<!-- MEMES:END -->
+ - 🚖 [When it is game time](http://9gag.com/gag/a7qbv1b)
+ - 🚯 [Found my next prank on the wife](http://9gag.com/gag/avQLg05)
+ - 🚯 [The wrong gy probably dead after that](http://9gag.com/gag/ap90Oeb)<!-- MEMES:END -->
 
 --- 
 
