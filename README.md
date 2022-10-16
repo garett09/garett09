@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Seriously 9gag, WTF?](http://9gag.com/gag/aYVwjeV)
  - 🚯 [What we all secretly want...](http://9gag.com/gag/a4oL4Pv)
- - 🚯 [Yes](http://9gag.com/gag/armReYK)<!-- MEMES:END -->
+ - 🚯 [I learned a lot from them](http://9gag.com/gag/aNwKm5r)<!-- MEMES:END -->
 
 --- 
 
