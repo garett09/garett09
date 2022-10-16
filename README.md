@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When it is game time](http://9gag.com/gag/a7qbv1b)
- - 🚯 [Found my next prank on the wife](http://9gag.com/gag/avQLg05)
- - 🚯 [The wrong gy probably dead after that](http://9gag.com/gag/ap90Oeb)<!-- MEMES:END -->
+ - 🚖 [Mom is like....WTH..](http://9gag.com/gag/ap9BoOB)
+ - 🚯 [You, the player](http://9gag.com/gag/aVbWGyw)
+ - 🚯 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)<!-- MEMES:END -->
 
 --- 
 
