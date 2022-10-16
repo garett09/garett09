@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im only 30...](http://9gag.com/gag/aXnpyz9)
- - 🚯 [Wait a minute....](http://9gag.com/gag/arm472p)
- - 🚯 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
+ - 🚖 [Seriously 9gag, WTF?](http://9gag.com/gag/aYVwjeV)
+ - 🚯 [What we all secretly want...](http://9gag.com/gag/a4oL4Pv)
+ - 🚯 [Yes](http://9gag.com/gag/armReYK)<!-- MEMES:END -->
 
 --- 
 
