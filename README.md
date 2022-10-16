@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink in Ukraine: Musk, SpaceX, and its government partners should stop finger-pointing, commit to transparency, and figure out a long-term funding solution &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221016/p11#a221016p11)
- - [Tested: Has Apple shrugged off its reputation for poor battery life?](https://www.androidauthority.com/apple-iphone-battery-test-3215710/)
- - [Apple Music’s spatial audio is coming to  select Mercedes-Benz models](https://www.theverge.com/2022/10/16/23407129/apple-music-spatial-audio-dolby-select-mercedes-benz-models)<!-- TECH:END -->
+ - [Uplift L-Shaped Standing Desk V2 review: Stylish &amp; sturdy desk that&#39;ll help you stay healthy](https://appleinsider.com/articles/22/10/16/uplift-l-shaped-standing-desk-v2-review-stylish-sturdy-desk-thatll-help-you-stay-healthy?utm_medium=rss)
+ - [That Big &#39;Rings of Power&#39; Finale Twist Doesn&#39;t Work in the Streaming Age     - CNET](https://www.cnet.com/culture/entertainment/that-big-rings-of-power-finale-twist-doesnt-work-in-the-streaming-age/#ftag=CAD590a51e)
+ - [Boost Your Happiness With These 7 Mood-Altering Foods     - CNET](https://www.cnet.com/health/mental/boost-your-happiness-with-these-7-mood-altering-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
