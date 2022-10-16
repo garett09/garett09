@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This tropical island farming sim has a remarkable array of NPCs](https://www.pcgamer.com/this-tropical-island-farming-sim-has-a-remarkable-array-of-npcs)
- - [10 queer horror movies to watch this Halloween](https://www.polygon.com/what-to-watch/23401313/best-queer-horror-scary-movies-lgbtq-watch-stream)
- - [League of Legends’ new champion K’Sante is a tanky top lane terror](https://www.polygon.com/23400786/league-of-legends-champion-ksante-kit-abilities-all-out)<!-- GAME:END -->
+ - [G4 TV Is Being Shut Down Only A Year After Its Relaunch](https://kotaku.com/g4-tv-g4tv-attack-of-the-show-shut-down-closed-relaunch-1849664837)
+ - [Punch thieving children in this free game about making Indonesian meatballs](https://www.pcgamer.com/punch-thieving-children-in-this-free-game-about-making-indonesian-meatballs)
+ - [Streamer Amouranth reveals she is married, accuses husband of emotional abuse](https://www.pcgamer.com/streamer-amouranth-reveals-she-is-married-accuses-husband-of-emotional-abuse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
