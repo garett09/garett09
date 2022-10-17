@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aBdrrez)
- - 🚯 [Ukrainian soldiers came under fire. The sniper&#39;s bullet hit the driver. His bulletproof vest saved him from serious injury.](http://9gag.com/gag/az2V8ZB)
- - 🚯 [Women](http://9gag.com/gag/aBdrW3D)<!-- MEMES:END -->
+ - 🚖 [Shouldn&#39;t it?](http://9gag.com/gag/a7qbrRw)
+ - 🚯 [My grandfather worked at this lighthouse 55 85 years ago. My father worked as a fisherman nearby. I am a sailor. And my son is a tiktoker because he is geh.](http://9gag.com/gag/abvb6w9)
+ - 🚯 [Ukrainian soldiers came under fire. The sniper&#39;s bullet hit the driver. His bulletproof vest saved him from serious injury.](http://9gag.com/gag/az2V8ZB)<!-- MEMES:END -->
 
 --- 
 
