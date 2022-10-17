@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady claims she can build a force field around herself](http://9gag.com/gag/aPgGMZR)
- - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
- - 🚯 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
+ - 🚖 [How how how.......](http://9gag.com/gag/a9qPWjK)
+ - 🚯 [Hmm](http://9gag.com/gag/aXnX0o2)
+ - 🚯 [Damn](http://9gag.com/gag/aBdrrez)<!-- MEMES:END -->
 
 --- 
 
