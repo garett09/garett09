@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4K Chromecast with Google TV is getting Android 12 now](https://www.androidauthority.com/4k-chromecast-with-google-tv-android-12-3221039/)
- - [The Mexican attorney general&#39;s office says it is investigating a ~$23M purchase of Pegasus by the prior administration and whether the NSO sold it legally &lpar;Reuters&rpar;](http://www.techmeme.com/221017/p3#a221017p3)
- - [The Hunt for Wikipedia&#39;s Disinformation Moles](https://www.wired.com/story/wikipedia-state-sponsored-disinformation/)<!-- TECH:END -->
+ - [Byju&#39;s raised $250M in new funding as the market downturn delays its IPO; a source says the valuation was $22B, the same as when it raised $800M in March 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221017/p4#a221017p4)
+ - [Daily Authority: 👏 Almost flipping impossible](https://www.androidauthority.com/daily-authority-october-17-2022-3221014/)
+ - [This 2-Quart Analog Air Fryer Is Yours for Just $18 Today &lpar;Save $27&rpar;     - CNET](https://www.cnet.com/deals/this-2-quart-analog-air-fryer-yours-for-just-18-today-save-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
