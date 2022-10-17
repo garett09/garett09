@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rhaenyra and Alicent are House of the Dragon’s most compelling, but underserved relationship](https://www.polygon.com/23405268/house-dragon-alicent-rhaenyra-targaryen-episode)
- - [G4 TV&#39;s short-lived revival is disappearing after 11 months](https://www.pcgamer.com/g4-tvs-short-lived-revival-is-disappearing-after-11-months)
- - [Logitech G502 X](https://www.pcgamer.com/logitech-g502x-wired-gaming-mouse-review)<!-- GAME:END -->
+ - [Persona 5 Royal review](https://www.pcgamer.com/persona-5-royal-review)
+ - [We asked a professional miniatures painter to try his hand at Moonbreaker](https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker)
+ - [Crucial P3 Plus 2TB](https://www.pcgamer.com/crucial-p3-plus-2tb-review-benchmark-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
