@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
- - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
- - 🚯 [How how how.......](http://9gag.com/gag/a9qPWjK)<!-- MEMES:END -->
+ - 🚖 [When you have your own silicone bags you can multitask](http://9gag.com/gag/axoGVdM)
+ - 🚯 [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)
+ - 🚯 [What common core nonsense is this?](http://9gag.com/gag/agoN0y6)<!-- MEMES:END -->
 
 --- 
 
