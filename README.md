@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm](http://9gag.com/gag/aXnX0o2)
- - 🚯 [Prehistoric 80 million year old shark also known as \u201cthe frilled shark\u201d discovered in Awashima, Japan](http://9gag.com/gag/agoNrNq)
- - 🚯 [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)<!-- MEMES:END -->
+ - 🚖 [Lady claims she can build a force field around herself](http://9gag.com/gag/aPgGMZR)
+ - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
+ - 🚯 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
 
 --- 
 
