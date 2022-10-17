@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s weekly coin rewards are insultingly low](https://www.pcgamer.com/overwatch-2s-weekly-coin-rewards-are-insultingly-low)
- - [Twitch star Amouranth says husband forces her to stream, controls her finances](https://www.polygon.com/23409728/amouranth-twitch-streamer-husband-abuse-domestic-violence)
- - [Facebook&#39;s Metaverse Is Apparently Filled With Mostly Empty &#39;Sad&#39; Worlds](https://kotaku.com/meta-facebook-horizon-worlds-vr-mark-zuckerberg-1849669048)<!-- GAME:END -->
+ - [New LEGO Set Has A Huge Sh*t In Its Toilet](https://kotaku.com/lego-human-shit-poop-toilet-portapotty-60335-1849669486)
+ - [Jennifer Hale Speaks Out On Replacing Bayonetta’s Original Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-kamiya-recast-1849669425)
+ - [Splinter Cell remake director leaves Ubisoft](https://www.pcgamer.com/splinter-cell-remake-director-leaves-ubisoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
