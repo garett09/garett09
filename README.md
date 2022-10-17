@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Should Watch This Wholesome Japanese Docuseries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-wholesome-japanese-docuseries-on-netflix/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-stream-now/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Episode 6 Explained: Star Wars Heist Ends With a Delightfully Devilish Twist     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-6-explained-star-wars-heist-ends-with-a-delightfully-devlish-twist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple freezes plans to use memory chips from China&#39;s YMTC in its products, including iPhones, following the latest US export restrictions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/221016/p15#a221016p15)
+ - [By Oct. 14, 51% of the blocks produced for Ethereum&#39;s blockchain adhered to the US Treasury&#39;s OFAC compliance recommendations that ban Tornado Cash transactions &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/221016/p14#a221016p14)
+ - [&#39;House of the Dragon&#39; Episode 9 Recap: All Hail the Queen, and Her Feet     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-recap-all-hail-the-queen-and-her-feet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
