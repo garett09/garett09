@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)
- - 🚯 [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)
- - 🚯 [Hmm](http://9gag.com/gag/aXnX0o2)<!-- MEMES:END -->
+ - 🚖 [Hmm](http://9gag.com/gag/aXnX0o2)
+ - 🚯 [Prehistoric 80 million year old shark also known as \u201cthe frilled shark\u201d discovered in Awashima, Japan](http://9gag.com/gag/agoNrNq)
+ - 🚯 [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)<!-- MEMES:END -->
 
 --- 
 
