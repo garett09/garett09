@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s raised $250M in new funding as the market downturn delays its IPO; a source says the valuation was $22B, the same as when it raised $800M in March 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221017/p4#a221017p4)
- - [Daily Authority: 👏 Almost flipping impossible](https://www.androidauthority.com/daily-authority-october-17-2022-3221014/)
- - [This 2-Quart Analog Air Fryer Is Yours for Just $18 Today &lpar;Save $27&rpar;     - CNET](https://www.cnet.com/deals/this-2-quart-analog-air-fryer-yours-for-just-18-today-save-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple bows to pressure, drops plan to buy Chinese memory chips](https://appleinsider.com/articles/22/10/17/apple-bows-to-pressure-drops-plan-to-buy-chinese-memory-chips?utm_medium=rss)
+ - [Parler announces it has agreed to be acquired by Kanye West, and says that the deal, expected to close later in 2022, will create an &quot;uncancelable ecosystem&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/221017/p6#a221017p6)
+ - [Digital Youth Index study: young LGBTQ+ people in the UK are more than twice as likely to face hate speech online compared to those identifying as heterosexual &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/221017/p5#a221017p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
