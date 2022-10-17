@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bruce Willis Deepfake Is Everyone’s Problem](https://www.wired.com/story/bruce-willis-deepfake-rights-law/)
- - [Former Bayonetta voice actor urges boycott of Bayonetta 3](https://www.theverge.com/2022/10/17/23408732/bayonetta-3-voice-actress-hellena-taylor-boycott)
- - [Daily deals Oct. 17: $400 off 14-inch MacBook Pro, $250 65-inch 4K TV, Anker Soundcore Earbuds for $17, more](https://appleinsider.com/articles/22/10/17/daily-deals-oct-17-400-off-14-inch-macbook-pro-up-to-900-off-tvs-anker-soundcore-earbuds-for-17-more?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube considering locking 4K videos behind its Premium subscription &lpar;Update&rpar;](https://www.androidauthority.com/youtube-4k-premium-subscription-3215820/)
+ - [Now Mark Zuckerberg’s making fun of Apple for iMessage, too](https://www.theverge.com/2022/10/17/23409018/mark-zuckerberg-meta-whatsapp-imessage-privacy-security-ads)
+ - [Zuckerberg really wants iPhone users to shift to WhatsApp](https://appleinsider.com/articles/22/10/17/zuckerberg-really-wants-iphone-users-to-shift-to-whatsapp?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
