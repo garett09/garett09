@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women](http://9gag.com/gag/aBdrW3D)
+ - 🚖 [Worth a try I would say, I\u2018m rich now](http://9gag.com/gag/ajVnDXx)
  - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 🚯 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)<!-- MEMES:END -->
+ - 🚯 [Steve Carell\u2019s Golden Globes Acceptance Speech](http://9gag.com/gag/ajVnqjG)<!-- MEMES:END -->
 
 --- 
 
