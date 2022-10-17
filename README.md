@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One man must stop the apocalypse... by time traveling back to kill Christopher Columbus](https://www.polygon.com/2022/10/17/23408763/earthdivers-comic-christopher-columbus)
  - [The RTX 4090 is such a chonker that this company designed a special power adapter for it](https://www.pcgamer.com/the-rtx-4090-is-such-a-chonker-that-this-company-designed-a-special-power-adapter-for-it)
- - [Seven Reasons Why You Should Go on an Adventure Today in Valheim’s Viking World](https://news.xbox.com/en-us/2022/10/17/seven-reasons-why-you-should-go-on-an-adventure-today-in-valheims-viking-world/)
- - [Resident Evil 4 Is One Of The Best Scary Games Ever, And I Can’t Stop Buying It](https://kotaku.com/i-cant-stop-buying-resident-evil-4-1831898574)<!-- GAME:END -->
+ - [Seven Reasons Why You Should Go on an Adventure Today in Valheim’s Viking World](https://news.xbox.com/en-us/2022/10/17/seven-reasons-why-you-should-go-on-an-adventure-today-in-valheims-viking-world/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
