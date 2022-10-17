@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
- - 🚯 [Hmm](http://9gag.com/gag/aXnX0o2)
- - 🚯 [What common core nonsense is this?](http://9gag.com/gag/agoN0y6)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aBdrrez)
+ - 🚯 [Ukrainian soldiers came under fire. The sniper&#39;s bullet hit the driver. His bulletproof vest saved him from serious injury.](http://9gag.com/gag/az2V8ZB)
+ - 🚯 [Women](http://9gag.com/gag/aBdrW3D)<!-- MEMES:END -->
 
 --- 
 
