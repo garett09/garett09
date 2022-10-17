@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Notes in iOS 16, iPadOS 16, macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-notes-in-ios-16-ipados-16-macos-ventura?utm_medium=rss)
- - [Kanye West is buying ‘free speech platform’ Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform)
- - [Daily deals Oct. 17: $400 off 14-inch MacBook Pro, up to $900 off TVs, Anker Soundcore Earbuds for $17, more](https://appleinsider.com/articles/22/10/17/daily-deals-oct-17-400-off-14-inch-macbook-pro-up-to-900-off-tvs-anker-soundcore-earbuds-for-17-more?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox says it had 57.8M DAUs in September, down from 59.9M in August but up 23% YoY, with 4B hours engaged, up 16% YoY; Roblox stock is up 15%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221017/p12#a221017p12)
+ - [Your Comcast Xfinity internet might be getting a speed boost](https://www.theverge.com/2022/10/17/23404861/comcast-xfinity-internet-speed-boost-performance-connect)
+ - [Persona 5 and Nier are further proof the Switch is a perfect RPG machine](https://www.theverge.com/2022/10/17/23403042/persona-5-royal-nier-automata-nintendo-switch-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
