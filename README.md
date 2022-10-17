@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Legends looks like a different breed of RTS](https://www.polygon.com/23408677/minecraft-legends-rts-gameplay-trailer-showcase-release-date)
- - [AMD reportedly cutting CPU production for its new Zen 4 chips](https://www.pcgamer.com/amd--zen-4-cpu-production-decrease)
- - [Bayonetta voice actor urges fans to boycott third game over ‘insulting’ pay rate](https://www.polygon.com/23408579/bayonetta-3-voice-actor-hellena-taylor-insulting-pay)<!-- GAME:END -->
+ - [Apex Legends’ new hero adds a trans Legend to the roster](https://www.polygon.com/23408941/apex-legends-eclipse-release-date-catalyst-new-legend)
+ - [How to solve the first puzzle and open the door in Scorn](https://www.pcgamer.com/scorn-first-puzzle-cocoon-door)
+ - [The Eternal Cylinder Evolved from a Family](https://news.xbox.com/en-us/2022/10/17/the-eternal-cylinder-evolved-from-a-family/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
