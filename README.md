@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Live 2022 Recap](https://news.xbox.com/en-us/2022/10/17/minecraft-live-2022-recap/)
- - [This guy needs to chill the heck out](https://www.polygon.com/23408716/house-dragon-criston-cole-kill-beesbury-dingus)
- - [As Iranian youths protest, cafes filled with board games and D&amp;D provide community](https://www.polygon.com/23403153/iran-board-game-cafe-protests-2022-mahsa-amini)<!-- GAME:END -->
+ - [Leisure Suit Larry voice actor Jan Rabson has died](https://www.pcgamer.com/leisure-suit-larry-voice-actor-jan-rabson-has-died)
+ - [New Game Experiences Await Players in Elemental War 2’s Game Mode update for Xbox and PC](https://news.xbox.com/en-us/2022/10/17/new-game-experiences-await-players-in-elemental-war-2s-game-mode-update-for-xbox-and-pc/)
+ - [A Plague Tale: Requiem is the sequel 2019’s cult hit deserves](https://www.polygon.com/reviews/23404803/a-plague-tale-requiem-review-xbox-game-pass-horror-stealth-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
