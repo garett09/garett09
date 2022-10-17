@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill finally returns in a reveal this week](https://www.polygon.com/23408425/silent-hill-return-reveal-event)
- - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
- - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)<!-- GAME:END -->
+ - [Rhaenyra and Alicent are House of the Dragon’s most compelling, but underserved relationship](https://www.polygon.com/23405268/house-dragon-alicent-rhaenyra-targaryen-episode)
+ - [G4 TV&#39;s short-lived revival is disappearing after 11 months](https://www.pcgamer.com/g4-tvs-short-lived-revival-is-disappearing-after-11-months)
+ - [Logitech G502 X](https://www.pcgamer.com/logitech-g502x-wired-gaming-mouse-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
