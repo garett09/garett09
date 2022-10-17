@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [$0.50 talking about the real slim shady](http://9gag.com/gag/awZ70ED)
- - 🚯 [Dayum, how can you survive this](http://9gag.com/gag/ajVn6MQ)
- - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)
+ - 🚯 [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)
+ - 🚯 [Hmm](http://9gag.com/gag/aXnX0o2)<!-- MEMES:END -->
 
 --- 
 
