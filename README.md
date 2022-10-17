@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 17: $400 off 14-inch MacBook Pro, up to $900 off TVs, Anker Soundcore Earbuds for $17, more](https://appleinsider.com/articles/22/10/17/daily-deals-oct-17-400-off-14-inch-macbook-pro-up-to-900-off-tvs-anker-soundcore-earbuds-for-17-more?utm_medium=rss)
- - [iPhone 14, eSIM, and international travel: What you need to know](https://appleinsider.com/articles/22/10/17/iphone-14-esim-and-international-travel-what-you-need-to-know?utm_medium=rss)
- - [How to stop iMessage from reverting to SMS](https://appleinsider.com/inside/imessage/tips/how-to-stop-imessage-from-reverting-to-sms?utm_medium=rss)<!-- TECH:END -->
+ - [Stability AI raises $101M, source says at a ~$1B valuation, and says Stable Diffusion has 10M DAUs &quot;across all channels&quot; and web app DreamStudio has 1.5M+ users &lpar;Bloomberg&rpar;](http://www.techmeme.com/221017/p18#a221017p18)
+ - [The Turtle Beach Recon Cloud controller is a chunky alternative to phone controllers](https://www.theverge.com/23408638/turtle-beach-recon-cloud-controller-xbox-pc-android-price-availability)
+ - [Just $79.99 for the HP G4 21.5-inch FHD monitor, and many more monitor deals](https://www.androidauthority.com/best-monitor-deals-1114996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
