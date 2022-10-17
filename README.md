@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
- - 🚯 [Damn](http://9gag.com/gag/aBdrrez)
- - 🚯 [Hmm](http://9gag.com/gag/aXnX0o2)<!-- MEMES:END -->
+ - 🚖 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
+ - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
+ - 🚯 [How how how.......](http://9gag.com/gag/a9qPWjK)<!-- MEMES:END -->
 
 --- 
 
