@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New low price on the LG Gram 2022, and more of the latest Laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)
- - [Google Fit is missing](https://www.theverge.com/2022/10/17/23408982/google-fit-pixel-watch-fossil-wearos-3-smartwatches)
- - [LG&#39;s new 32-inch Smart Monitor has AirPlay 2 for streaming content](https://appleinsider.com/articles/22/10/17/lgs-new-32-inch-smart-monitor-has-airplay-2-for-streaming-content?utm_medium=rss)<!-- TECH:END -->
+ - [When even Zuckerberg is making fun of iMessage, you know you have a problem](https://www.androidauthority.com/imessage-vs-whatsapp-3221388/)
+ - [YouTube Pulls Down Videos Detailing Russian Propaganda Efforts     - CNET](https://www.cnet.com/tech/services-and-software/youtube-pulls-down-videos-detailing-russian-propaganda-efforts/#ftag=CAD590a51e)
+ - [Polestar 3&#39;s Lidar Can Save Your Life Like Bullet Time Saved Neo in The Matrix     - CNET](https://www.cnet.com/roadshow/news/polestar-3-luminar-lidar-safety-bullet-time-the-matrix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
