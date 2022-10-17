@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alipay has quietly started testing money transfers through WeChat in September, available for a small number of users with a maximum of ~$278 per transfer &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/221017/p9#a221017p9)
- - [How Iodine Pills Can—and Can’t—Help Against Radiation](https://www.wired.com/story/iodine-pills-nuclear-radiation/)
- - [Roborock Q+ Review: Reliable Robot Vacuum](https://www.wired.com/review/roborock-q5-review/)<!-- TECH:END -->
+ - [How to use Notes in iOS 16, iPadOS 16, macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-notes-in-ios-16-ipados-16-macos-ventura?utm_medium=rss)
+ - [Kanye West is buying ‘free speech platform’ Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform)
+ - [Daily deals Oct. 17: $400 off 14-inch MacBook Pro, up to $900 off TVs, Anker Soundcore Earbuds for $17, more](https://appleinsider.com/articles/22/10/17/daily-deals-oct-17-400-off-14-inch-macbook-pro-up-to-900-off-tvs-anker-soundcore-earbuds-for-17-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
