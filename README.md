@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airversa air purifier review, Homey Pro hub, HomeKey rumors](https://appleinsider.com/articles/22/10/17/airversa-air-purifier-review-homey-pro-hub-homekey-rumors?utm_medium=rss)
- - [A look at Gas, an iOS app that lets teens &quot;gas up each other&quot;; Data.AI: Gas had 500K+ downloads since August launch, despite being limited to a few US states &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/221017/p13#a221017p13)
- - [Discord Launches a $3 per Month &#39;Nitro Basic&#39; Subscription](https://www.wired.com/story/discord-nitro-basic-activities-apps/)<!-- TECH:END -->
+ - [Daily deals Oct. 17: $400 off 14-inch MacBook Pro, up to $900 off TVs, Anker Soundcore Earbuds for $17, more](https://appleinsider.com/articles/22/10/17/daily-deals-oct-17-400-off-14-inch-macbook-pro-up-to-900-off-tvs-anker-soundcore-earbuds-for-17-more?utm_medium=rss)
+ - [iPhone 14, eSIM, and international travel: What you need to know](https://appleinsider.com/articles/22/10/17/iphone-14-esim-and-international-travel-what-you-need-to-know?utm_medium=rss)
+ - [How to stop iMessage from reverting to SMS](https://appleinsider.com/inside/imessage/tips/how-to-stop-imessage-from-reverting-to-sms?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
