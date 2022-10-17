@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple freezes plans to use memory chips from China&#39;s YMTC in its products, including iPhones, following the latest US export restrictions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/221016/p15#a221016p15)
- - [By Oct. 14, 51% of the blocks produced for Ethereum&#39;s blockchain adhered to the US Treasury&#39;s OFAC compliance recommendations that ban Tornado Cash transactions &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/221016/p14#a221016p14)
- - [&#39;House of the Dragon&#39; Episode 9 Recap: All Hail the Queen, and Her Feet     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-recap-all-hail-the-queen-and-her-feet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Razer Edge pricing, specs revealed: Does it have the edge over rival handhelds?](https://www.androidauthority.com/razer-edge-pricing-specs-3218608/)
+ - [How Ukraine uses memes, jokes, and funny videos in its social media war with Russia, which helped the defense ministry&#39;s Twitter account grow to 1.5M followers &lpar;Paul Adams/BBC&rpar;](http://www.techmeme.com/221017/p2#a221017p2)
+ - [Many big US property managers use RealPage&#39;s YieldStar software to set rent prices, raising questions about potential collusion in violation of federal law &lpar;ProPublica&rpar;](http://www.techmeme.com/221017/p1#a221017p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
