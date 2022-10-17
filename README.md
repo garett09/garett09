@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next OnePlus flagship could be a Pro in all but name](https://www.androidauthority.com/oneplus-11-pro-name-change-3221094/)
- - [A Crypto Alchemist Made Me an Accidental Billionaire](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
- - [How to Get Your Google Stadia Refund—and What’s Included &lpar;2022&rpar;](https://www.wired.com/story/how-to-get-your-google-stadia-refund/)<!-- TECH:END -->
+ - [Alipay has quietly started testing money transfers through WeChat in September, available for a small number of users with a maximum of ~$278 per transfer &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/221017/p9#a221017p9)
+ - [How Iodine Pills Can—and Can’t—Help Against Radiation](https://www.wired.com/story/iodine-pills-nuclear-radiation/)
+ - [Roborock Q+ Review: Reliable Robot Vacuum](https://www.wired.com/review/roborock-q5-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
