@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Americans&#39; Satisfaction With Internet Service Providers Falls, Study Shows     - CNET](https://www.cnet.com/news/americans-satisfaction-with-internet-service-providers-falls-study-shows/#ftag=CAD590a51e)
- - [BTS Hiatus Until 2025 Unleashes Deluge of Fan Sadness on Twitter     - CNET](https://www.cnet.com/culture/entertainment/bts-hiatus-until-2025-unleashes-deluge-of-fan-sadness-on-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix rolls out a feature globally to let users transfer all their personalized viewing data to a new account, ahead of a crackdown on account sharing in 2023 &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/221017/p23#a221017p23)
+ - [I Spent $10K on DSLR Camera Gear, But You Can Just Buy a Pixel 7 Pro     - CNET](https://www.cnet.com/tech/mobile/i-spent-10k-on-dslr-camera-gear-but-you-can-just-buy-a-pixel-7-pro/#ftag=CAD590a51e)
+ - [&#39;She-Hulk&#39; Episode 9 Recap: A Stunning Rollercoaster Finale     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-episode-9-recap-a-stunning-rollercoaster-finale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
