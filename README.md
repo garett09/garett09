@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leisure Suit Larry voice actor Jan Rabson has died](https://www.pcgamer.com/leisure-suit-larry-voice-actor-jan-rabson-has-died)
- - [New Game Experiences Await Players in Elemental War 2’s Game Mode update for Xbox and PC](https://news.xbox.com/en-us/2022/10/17/new-game-experiences-await-players-in-elemental-war-2s-game-mode-update-for-xbox-and-pc/)
- - [A Plague Tale: Requiem is the sequel 2019’s cult hit deserves](https://www.polygon.com/reviews/23404803/a-plague-tale-requiem-review-xbox-game-pass-horror-stealth-games)<!-- GAME:END -->
+ - [The RTX 4090 is such a chonker that this company designed a special power adapter for it](https://www.pcgamer.com/the-rtx-4090-is-such-a-chonker-that-this-company-designed-a-special-power-adapter-for-it)
+ - [Seven Reasons Why You Should Go on an Adventure Today in Valheim’s Viking World](https://news.xbox.com/en-us/2022/10/17/seven-reasons-why-you-should-go-on-an-adventure-today-in-valheims-viking-world/)
+ - [Resident Evil 4 Is One Of The Best Scary Games Ever, And I Can’t Stop Buying It](https://kotaku.com/i-cant-stop-buying-resident-evil-4-1831898574)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
