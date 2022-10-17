@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;October 17, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-17-2022)
- - [Dark Souls 2 Fans are petitioning for the return of long-forgotten promo weapons](https://www.pcgamer.com/dark-souls-2-fans-are-petitioning-for-the-return-of-long-forgotten-promo-weapons)
- - [Streamer Who Broke Her Back At TwichCon Shares Injury Details, Recovery Video](https://kotaku.com/adriana-chechik-twitchcon-broken-back-streamer-injury-1849664934)<!-- GAME:END -->
+ - [Corsair Apologizes After Rep Calls YouTuber&#39;s Review Comments &#39;Bullsh*t&#39;](https://kotaku.com/corsair-gamers-nexus-review-bullshit-rep-claims-apology-1849665247)
+ - [House of the Dragon’s twins have names nearly as identical as their appearances](https://www.polygon.com/23403463/house-dragon-twins-names-actors-cast-arryk-erryk-yes-really)
+ - [House of the Dragon’s fiery coronation didn’t end with a murder for good reason](https://www.polygon.com/23405130/house-dragon-why-rhaenys-doesnt-kill-aegon-dragon-murder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
