@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Break](http://9gag.com/gag/adPpXGQ)
- - 🚯 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
- - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
+ - 🚖 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
+ - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
+ - 🚯 [When you architect your house with utmost detail](http://9gag.com/gag/anzBjnb)<!-- MEMES:END -->
 
 --- 
 
