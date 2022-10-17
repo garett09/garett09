@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 Royal review](https://www.pcgamer.com/persona-5-royal-review)
- - [We asked a professional miniatures painter to try his hand at Moonbreaker](https://www.pcgamer.com/we-asked-a-professional-miniatures-painter-to-try-his-hand-at-moonbreaker)
- - [Crucial P3 Plus 2TB](https://www.pcgamer.com/crucial-p3-plus-2tb-review-benchmark-performance)<!-- GAME:END -->
+ - [Minecraft Legends looks like a different breed of RTS](https://www.polygon.com/23408677/minecraft-legends-rts-gameplay-trailer-showcase-release-date)
+ - [AMD reportedly cutting CPU production for its new Zen 4 chips](https://www.pcgamer.com/amd--zen-4-cpu-production-decrease)
+ - [Bayonetta voice actor urges fans to boycott third game over ‘insulting’ pay rate](https://www.polygon.com/23408579/bayonetta-3-voice-actor-hellena-taylor-insulting-pay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
