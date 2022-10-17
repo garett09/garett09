@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Worth a try I would say, I\u2018m rich now](http://9gag.com/gag/ajVnDXx)
- - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 🚯 [Steve Carell\u2019s Golden Globes Acceptance Speech](http://9gag.com/gag/ajVnqjG)<!-- MEMES:END -->
+ - 🚖 [Break](http://9gag.com/gag/adPpXGQ)
+ - 🚯 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
+ - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
 
 --- 
 
