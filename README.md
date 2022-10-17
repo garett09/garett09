@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How how how.......](http://9gag.com/gag/a9qPWjK)
- - 🚯 [Hmm](http://9gag.com/gag/aXnX0o2)
- - 🚯 [Damn](http://9gag.com/gag/aBdrrez)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aBdrrez)
+ - 🚯 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
+ - 🚯 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
 
 --- 
 
