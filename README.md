@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ new hero adds a trans Legend to the roster](https://www.polygon.com/23408941/apex-legends-eclipse-release-date-catalyst-new-legend)
- - [How to solve the first puzzle and open the door in Scorn](https://www.pcgamer.com/scorn-first-puzzle-cocoon-door)
- - [The Eternal Cylinder Evolved from a Family](https://news.xbox.com/en-us/2022/10/17/the-eternal-cylinder-evolved-from-a-family/)<!-- GAME:END -->
+ - [Minecraft Live 2022 Recap](https://news.xbox.com/en-us/2022/10/17/minecraft-live-2022-recap/)
+ - [This guy needs to chill the heck out](https://www.polygon.com/23408716/house-dragon-criston-cole-kill-beesbury-dingus)
+ - [As Iranian youths protest, cafes filled with board games and D&amp;D provide community](https://www.polygon.com/23403153/iran-board-game-cafe-protests-2022-mahsa-amini)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
