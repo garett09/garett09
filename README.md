@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
- - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 🚯 [When you architect your house with utmost detail](http://9gag.com/gag/anzBjnb)<!-- MEMES:END -->
+ - 🚖 [Break](http://9gag.com/gag/adPpXGQ)
+ - 🚯 [Work hard so you don&#39;t have to write your family name! Paolo , 25 years @ Microsoft](http://9gag.com/gag/awZ7Xoy)
+ - 🚯 [Mom is like....WTH..](http://9gag.com/gag/ap9BoOB)<!-- MEMES:END -->
 
 --- 
 
