@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple bows to pressure, drops plan to buy Chinese memory chips](https://appleinsider.com/articles/22/10/17/apple-bows-to-pressure-drops-plan-to-buy-chinese-memory-chips?utm_medium=rss)
- - [Parler announces it has agreed to be acquired by Kanye West, and says that the deal, expected to close later in 2022, will create an &quot;uncancelable ecosystem&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/221017/p6#a221017p6)
- - [Digital Youth Index study: young LGBTQ+ people in the UK are more than twice as likely to face hate speech online compared to those identifying as heterosexual &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/221017/p5#a221017p5)<!-- TECH:END -->
+ - [The next OnePlus flagship could be a Pro in all but name](https://www.androidauthority.com/oneplus-11-pro-name-change-3221094/)
+ - [A Crypto Alchemist Made Me an Accidental Billionaire](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
+ - [How to Get Your Google Stadia Refund—and What’s Included &lpar;2022&rpar;](https://www.wired.com/story/how-to-get-your-google-stadia-refund/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
