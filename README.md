@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One man must stop the apocalypse... by time traveling back to kill Christopher Columbus](https://www.polygon.com/2022/10/17/23408763/earthdivers-comic-christopher-columbus)
- - [The RTX 4090 is such a chonker that this company designed a special power adapter for it](https://www.pcgamer.com/the-rtx-4090-is-such-a-chonker-that-this-company-designed-a-special-power-adapter-for-it)
- - [Seven Reasons Why You Should Go on an Adventure Today in Valheim’s Viking World](https://news.xbox.com/en-us/2022/10/17/seven-reasons-why-you-should-go-on-an-adventure-today-in-valheims-viking-world/)<!-- GAME:END -->
+ - [Looking Back on 30 Years of Mortal Kombat Music and Sound Effects](https://news.xbox.com/en-us/2022/10/17/looking-back-30-years-of-mortal-kombat/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Elden Ring&#39;s soundtrack is being turned into jazz for a live concert](https://www.pcgamer.com/elden-rings-soundtrack-is-being-turned-into-jazz-for-a-live-concert)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
