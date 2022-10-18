@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox says it had over 1.7 billion users last month](https://www.pcgamer.com/roblox-says-it-had-over-17-billion-users-last-month)
- - [New World is getting &#39;Fresh Start Worlds&#39; in November](https://www.pcgamer.com/new-world-is-getting-fresh-start-worlds-in-november)
- - [New Mortal Kombat game is an RPG for phones](https://www.polygon.com/23410635/mortal-kombat-onslaught-release-date-mobile-android-ios)<!-- GAME:END -->
+ - [The New PS5, Xbox Custom Controllers Will Have You Breaking The Bank](https://kotaku.com/ps5-dualsense-edge-xbox-elite-series-2-release-date-1849672052)
+ - [Introducing the God of War Ragnarök Behind the Scenes series](https://blog.playstation.com/2022/10/18/introducing-the-god-of-war-ragnarok-behind-the-scenes-series/)
+ - [New US sanctions see semiconductor suppliers halt business with China to &#39;protect U.S. national security&#39;](https://www.pcgamer.com/new-us-sanctions-see-semiconductor-suppliers-halt-business-with-china-to-protect-us-national-security)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
