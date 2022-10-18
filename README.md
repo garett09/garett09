@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A recent Kakao outage has raised monopoly concerns in South Korea; the company had previously claimed it had ~47.5M active users in the country of 51M+ people &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/221018/p3#a221018p3)
  - [Research: crowdsourced fact-checking can improve social media moderation by channeling partisan motivations to be productive if opposing sides police each other &lpar;David Rand/Financial Times&rpar;](http://www.techmeme.com/221018/p2#a221018p2)
- - [Interviews with journalists at The Wire, sources at Meta, and knowledgeable outside observers describe the messy fight between Meta and The Wire &lpar;Platformer&rpar;](http://www.techmeme.com/221018/p1#a221018p1)
- - [Motorola&#39;s New Rollable Phone Concept Changes Size With the Press of a Button     - CNET](https://www.cnet.com/tech/mobile/motorolas-new-rollable-phone-concept-changes-size-with-the-press-of-a-button/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with journalists at The Wire, sources at Meta, and knowledgeable outside observers describe the messy fight between Meta and The Wire &lpar;Platformer&rpar;](http://www.techmeme.com/221018/p1#a221018p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
