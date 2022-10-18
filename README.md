@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
- - 🚯 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)
- - 🚯 [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)<!-- MEMES:END -->
+ - 🚖 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)
+ - 🚯 [Steve Carell\u2019s Golden Globes Acceptance Speech](http://9gag.com/gag/ajVnqjG)
+ - 🚯 [That Voice .](http://9gag.com/gag/aDYmWVd)<!-- MEMES:END -->
 
 --- 
 
