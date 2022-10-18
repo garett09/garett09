@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New PS5, Xbox Custom Controllers Will Have You Breaking The Bank](https://kotaku.com/ps5-dualsense-edge-xbox-elite-series-2-release-date-1849672052)
- - [Introducing the God of War Ragnarök Behind the Scenes series](https://blog.playstation.com/2022/10/18/introducing-the-god-of-war-ragnarok-behind-the-scenes-series/)
- - [New US sanctions see semiconductor suppliers halt business with China to &#39;protect U.S. national security&#39;](https://www.pcgamer.com/new-us-sanctions-see-semiconductor-suppliers-halt-business-with-china-to-protect-us-national-security)<!-- GAME:END -->
+ - [Amnesia: Rebirth and other spooky games headed to Xbox Game Pass](https://www.polygon.com/23410829/xbox-game-pass-october-2022-games-amnesia-persona-5)
+ - [Dear Polygon: I want a horror movie that messes with my mind](https://www.polygon.com/what-to-watch/2022/10/18/23409442/scary-horror-movies-to-watch-psychological-thrillers-perfect-blue-wrong-turn-bad-milo)
+ - [Activision Bans Top Call of Duty Twitch Streamer From $100,000 Tourney Over Marriage Prank](https://kotaku.com/activision-call-of-duty-warzone-censor-nadia-amine-1849672420)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
