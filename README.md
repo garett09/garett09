@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Crayon for iPad updated with USB-C port](https://appleinsider.com/articles/22/10/18/logitech-crayon-for-ipad-updated-with-usb-c-port?utm_medium=rss)
- - [Stardust, which makes developer tools for building blockchain-based games, raised a $30M Series A led by Framework Ventures &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221018/p27#a221018p27)
- - [Apple iPad Pro &lpar;2022&rpar;: Specs, Price, Release Date](https://www.wired.com/story/apple-ipad-pro-2022-apple-tv-4k/)<!-- TECH:END -->
+ - [Netflix Q3: revenue of $7.9B, up 5.9% YoY, net income of $1.4B, down from $1.45B YoY, global paid net additions of 2.4M subs, vs. 1.09M est.; stock up ~11% &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/221018/p28#a221018p28)
+ - [New York attorney general calls for laws banning murderers’ livestreams of killings](https://www.theverge.com/2022/10/18/23411216/new-york-attorney-general-report-buffalo-shooting-livestream-video-murder-ban-proposal)
+ - [iPhone 14 Plus allegedly suffering from production cuts after only two weeks on the market](https://appleinsider.com/articles/22/10/18/iphone-14-plus-allegedly-suffering-from-production-cuts-after-only-two-weeks-on-the-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
