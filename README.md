@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I enjoy](http://9gag.com/gag/avQL51M)
- - 🚯 [Break](http://9gag.com/gag/adPpXGQ)
- - 🚯 [This British man found a vulnerability in Dutch government systems and reported it. He got this letter and shirt in return:](http://9gag.com/gag/amA87N9)<!-- MEMES:END -->
+ - 🚖 [Internet culture at its best..](http://9gag.com/gag/adPpKjd)
+ - 🚯 [Let&#39;s go for the second panel of representation](http://9gag.com/gag/abvbVR9)
+ - 🚯 [You are not the father](http://9gag.com/gag/aEqzpnM)<!-- MEMES:END -->
 
 --- 
 
