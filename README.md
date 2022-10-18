@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women](http://9gag.com/gag/aBdrW3D)
- - 🚯 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)
- - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
+ - 🚖 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
+ - 🚯 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)
+ - 🚯 [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)<!-- MEMES:END -->
 
 --- 
 
