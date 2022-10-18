@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Q3: revenue of $7.9B, up 5.9% YoY, net income of $1.4B, down from $1.45B YoY, global paid net additions of 2.4M subs, vs. 1.09M est.; stock up ~11% &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/221018/p28#a221018p28)
- - [New York attorney general calls for laws banning murderers’ livestreams of killings](https://www.theverge.com/2022/10/18/23411216/new-york-attorney-general-report-buffalo-shooting-livestream-video-murder-ban-proposal)
- - [iPhone 14 Plus allegedly suffering from production cuts after only two weeks on the market](https://appleinsider.com/articles/22/10/18/iphone-14-plus-allegedly-suffering-from-production-cuts-after-only-two-weeks-on-the-market?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: New iPad versus 2021 iPad](https://appleinsider.com/inside/ipad/vs/compared-new-ipad-versus-2021-ipad?utm_medium=rss)
+ - [Netflix will no longer share projected subscriber numbers in earnings reports starting in Q4, focusing instead on new revenue streams like ads and paid sharing &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221018/p29#a221018p29)
+ - [Over 50 of the best Xbox deals you can find](https://www.androidauthority.com/best-xbox-deals-1118171/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
