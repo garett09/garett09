@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice shampoo](http://9gag.com/gag/a04YKeq)
- - 🚯 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
+ - 🚖 [Women](http://9gag.com/gag/aBdrW3D)
+ - 🚯 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)
  - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
 
 --- 
