@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 DualSense Edge controller launches early next year](https://www.polygon.com/23410630/ps5-dualsense-edge-controller-release-date-preorder)
- - [The Week In Games: Rats, Rabbids, And Bats Oh My](https://kotaku.com/october-2022-game-releases-out-this-week-gotham-knights-1849671479)
- - [You&#39;re not a true PC gamer until you&#39;ve convinced your significant other to RGB the home you share](https://www.pcgamer.com/youre-not-a-true-pc-gamer-until-youve-convinced-your-significant-other-to-rgb-the-home-you-share)<!-- GAME:END -->
+ - [Roblox says it had over 1.7 billion users last month](https://www.pcgamer.com/roblox-says-it-had-over-17-billion-users-last-month)
+ - [New World is getting &#39;Fresh Start Worlds&#39; in November](https://www.pcgamer.com/new-world-is-getting-fresh-start-worlds-in-november)
+ - [New Mortal Kombat game is an RPG for phones](https://www.polygon.com/23410635/mortal-kombat-onslaught-release-date-mobile-android-ios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
