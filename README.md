@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add names to your Google Photos](https://www.theverge.com/23368246/google-photos-names-contacts-search-how-to)
- - [The new entry-level Kindle is the one to buy](https://www.theverge.com/23409106/amazon-kindle-2022-e-reader-review-test-price-specs-features)
- - [Nest Doorbell wired review: Hello again](https://www.theverge.com/23404602/google-nest-doorbell-wired-review-hello)<!-- TECH:END -->
+ - [Apple will release iPadOS 16 on October 24th](https://www.theverge.com/2022/10/18/23410814/apple-ipados-16-release-date-tablet-update)
+ - [New leak says 10th-gen iPad has moved camera to the side](https://appleinsider.com/articles/22/10/18/new-leak-says-10th-gen-ipad-has-moved-camera-to-the-side?utm_medium=rss)
+ - [New Apple TV 4K with A15, HDR10+, more storage debuts](https://appleinsider.com/articles/22/10/18/new-apple-tv-4k-with-a15-more-storage-debuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
