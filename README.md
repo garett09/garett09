@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: Rebirth and other spooky games headed to Xbox Game Pass](https://www.polygon.com/23410829/xbox-game-pass-october-2022-games-amnesia-persona-5)
- - [Dear Polygon: I want a horror movie that messes with my mind](https://www.polygon.com/what-to-watch/2022/10/18/23409442/scary-horror-movies-to-watch-psychological-thrillers-perfect-blue-wrong-turn-bad-milo)
- - [Activision Bans Top Call of Duty Twitch Streamer From $100,000 Tourney Over Marriage Prank](https://kotaku.com/activision-call-of-duty-warzone-censor-nadia-amine-1849672420)<!-- GAME:END -->
+ - [The Sims 5 is in early development, has cool new build mode](https://www.polygon.com/23404750/sims-5-project-rene-announcement)
+ - [I love all of my terrible Warhammer 40K: Darktide children](https://www.polygon.com/23410973/warhammer-40k-darktide-open-beta-impressions-character-creation)
+ - [How the new talent trees work in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-talent-tree)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
