@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: New iPad versus 2021 iPad](https://appleinsider.com/inside/ipad/vs/compared-new-ipad-versus-2021-ipad?utm_medium=rss)
- - [Netflix will no longer share projected subscriber numbers in earnings reports starting in Q4, focusing instead on new revenue streams like ads and paid sharing &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221018/p29#a221018p29)
- - [Over 50 of the best Xbox deals you can find](https://www.androidauthority.com/best-xbox-deals-1118171/)<!-- TECH:END -->
+ - [Adobe adds new features to almost its entire software suite](https://appleinsider.com/articles/22/10/18/adobe-adds-new-features-to-almost-its-entire-software-suite?utm_medium=rss)
+ - [Netflix VP of Gaming Mike Verdu says the company is &quot;seriously exploring a cloud gaming offering&quot; and plans to open a new gaming studio in Southern California &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221018/p31#a221018p31)
+ - [USB 4 Version 2 Will Reach 80Gbps. 120Gbps if You Push It     - CNET](https://www.cnet.com/tech/computing/usb-4-version-2-will-reach-80gbps-120gbps-if-you-push-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
