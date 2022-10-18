@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox version 106 adds PDF editing &amp; lowers CPU usage on Mac](https://appleinsider.com/articles/22/10/18/firefox-version-106-adds-pdf-editing-and-lower-cpu-usage-on-mac?utm_medium=rss)
- - [Inside the messy fight between Meta and The Wire](https://www.theverge.com/2022/10/18/23410512/meta-the-wire-facebook-xcheck-india-messy-fight)
- - [New leak says 10th-gen iPad has moved camera to the side](https://appleinsider.com/articles/22/10/18/new-leak-says-10th-gen-ipad-has-moved-camera-to-the-side?utm_medium=rss)<!-- TECH:END -->
+ - [How to add names to your Google Photos](https://www.theverge.com/23368246/google-photos-names-contacts-search-how-to)
+ - [The new entry-level Kindle is the one to buy](https://www.theverge.com/23409106/amazon-kindle-2022-e-reader-review-test-price-specs-features)
+ - [Nest Doorbell wired review: Hello again](https://www.theverge.com/23404602/google-nest-doorbell-wired-review-hello)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
