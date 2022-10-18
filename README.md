@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A recent Kakao outage has raised monopoly concerns in South Korea; the company had previously claimed it had ~47.5M active users in the country of 51M+ people &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/221018/p3#a221018p3)
- - [Research: crowdsourced fact-checking can improve social media moderation by channeling partisan motivations to be productive if opposing sides police each other &lpar;David Rand/Financial Times&rpar;](http://www.techmeme.com/221018/p2#a221018p2)
- - [Interviews with journalists at The Wire, sources at Meta, and knowledgeable outside observers describe the messy fight between Meta and The Wire &lpar;Platformer&rpar;](http://www.techmeme.com/221018/p1#a221018p1)<!-- TECH:END -->
+ - [Broke up with your partner? Netflix profile transfers are for you.](https://www.androidauthority.com/netflix-profile-transfers-3221631/)
+ - [Samsung Galaxy S23 spec sheet leaks: Like what you see?](https://www.androidauthority.com/samsung-galaxy-s23-full-specs-3221623/)
+ - [Best Drones for 2022     - CNET](https://www.cnet.com/tech/computing/best-drone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
