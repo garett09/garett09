@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo shows off mysterious rollable laptop](https://www.theverge.com/2022/10/18/23410808/lenovo-rollable-laptop-concept-tech-world-2022-yoga)
- - [Turtle Beach’s new Atom controller splits in half to clamp onto your Android phone](https://www.theverge.com/2022/10/18/23410603/turtle-beach-atom-controller-android-phone-controller-price-availability-specs)
- - [Apple’s new iPad only supports the old Apple Pencil — and needs an adapter to do so](https://www.theverge.com/2022/10/18/23410843/ipad-2022-apple-pencil-first-generation-usb-c-lightning-adaptor)<!-- TECH:END -->
+ - [Poll: Have you switched over to eSIMs yet?](https://www.androidauthority.com/poll-switched-to-esims-3221884/)
+ - [EA teases the ‘next generation’ of The Sims with Project Rene](https://www.theverge.com/2022/10/18/23409302/the-sims-project-rene-next-generation-sequel)
+ - [Apple seeds macOS Ventura Release Candidate beta](https://appleinsider.com/articles/22/10/18/apple-seeds-macos-ventura-release-candidate-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
