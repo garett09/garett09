@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A bit of history](http://9gag.com/gag/amA87Q2)
- - 🚯 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
- - 🚯 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
+ - 🚖 [Woman VS Gorilla](http://9gag.com/gag/axoGMDK)
+ - 🚯 [Iranian Sport Climber Elnaz Rekabi went missing yesterday after climbing while showing her hair. RIP brave girl](http://9gag.com/gag/axoG9b1)
+ - 🚯 [One for funzies, one for keepies](http://9gag.com/gag/aeQpD1Q)<!-- MEMES:END -->
 
 --- 
 
