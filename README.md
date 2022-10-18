@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
+ - 🚖 [Gotta pay respects for that spider](http://9gag.com/gag/amA8vby)
  - 🚯 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)
- - 🚯 [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)<!-- MEMES:END -->
+ - 🚯 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)<!-- MEMES:END -->
 
 --- 
 
