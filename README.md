@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Have you switched over to eSIMs yet?](https://www.androidauthority.com/poll-switched-to-esims-3221884/)
- - [EA teases the ‘next generation’ of The Sims with Project Rene](https://www.theverge.com/2022/10/18/23409302/the-sims-project-rene-next-generation-sequel)
- - [Apple seeds macOS Ventura Release Candidate beta](https://appleinsider.com/articles/22/10/18/apple-seeds-macos-ventura-release-candidate-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy Z Fold 4 and Flip 4 owners finally get access to the Android 13 beta](https://www.androidauthority.com/galaxy-z-fold-flip-4-android-13-3221905/)
+ - [Shardeum, an Ethereum virtual machine-based sharded blockchain co-founded by Nischal Shetty, a co-founder of the crypto exchange WazirX, raised an $18.2M seed &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221018/p25#a221018p25)
+ - [There’s about to be a big boom in carbon capture projects](https://www.theverge.com/2022/10/18/23410755/global-boom-carbon-capture-storage-ccs-pipeline-oil-gas-industry)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
