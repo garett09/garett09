@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s teasing a rollable concept phone](https://www.theverge.com/2022/10/18/23409591/motorola-rollable-phone-concept-flexible-device-lenovo)
- - [May 2022 survey of non-professional creators in nine regions: 48% monetize content, including 53% in the US; 77% of those who monetize started in the past year &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221017/p25#a221017p25)
- - [Microsoft announced layoffs across multiple divisions on October 17; source: less than 1,000 jobs were cut across various levels, teams, and parts of the world &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/221017/p24#a221017p24)<!-- TECH:END -->
+ - [Research: crowdsourced fact-checking can improve social media moderation by channeling partisan motivations to be productive if opposing sides police each other &lpar;David Rand/Financial Times&rpar;](http://www.techmeme.com/221018/p2#a221018p2)
+ - [Interviews with journalists at The Wire, sources at Meta, and knowledgeable outside observers describe the messy fight between Meta and The Wire &lpar;Platformer&rpar;](http://www.techmeme.com/221018/p1#a221018p1)
+ - [Motorola&#39;s New Rollable Phone Concept Changes Size With the Press of a Button     - CNET](https://www.cnet.com/tech/mobile/motorolas-new-rollable-phone-concept-changes-size-with-the-press-of-a-button/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
