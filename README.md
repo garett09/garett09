@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will release iPadOS 16 on October 24th](https://www.theverge.com/2022/10/18/23410814/apple-ipados-16-release-date-tablet-update)
- - [New leak says 10th-gen iPad has moved camera to the side](https://appleinsider.com/articles/22/10/18/new-leak-says-10th-gen-ipad-has-moved-camera-to-the-side?utm_medium=rss)
- - [New Apple TV 4K with A15, HDR10+, more storage debuts](https://appleinsider.com/articles/22/10/18/new-apple-tv-4k-with-a15-more-storage-debuts?utm_medium=rss)<!-- TECH:END -->
+ - [Lenovo shows off mysterious rollable laptop](https://www.theverge.com/2022/10/18/23410808/lenovo-rollable-laptop-concept-tech-world-2022-yoga)
+ - [Turtle Beach’s new Atom controller splits in half to clamp onto your Android phone](https://www.theverge.com/2022/10/18/23410603/turtle-beach-atom-controller-android-phone-controller-price-availability-specs)
+ - [Apple’s new iPad only supports the old Apple Pencil — and needs an adapter to do so](https://www.theverge.com/2022/10/18/23410843/ipad-2022-apple-pencil-first-generation-usb-c-lightning-adaptor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
