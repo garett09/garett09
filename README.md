@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
- - [FedEx is shutting down its robot delivery program](https://www.theverge.com/2022/10/18/23410419/fedex-shuts-down-last-mile-delivery-robot-roxo-deka)
- - [Nothing hikes price of Ear 1 earbuds by 50 percent](https://www.theverge.com/2022/10/18/23410423/nothing-ear-1-price-increase-inflation)<!-- TECH:END -->
+ - [Toronto-based ChainSafe, the developer of an SDK for connecting games built on the Unity platform to the blockchain, raised a CA$25.7M Series A led by Round13 &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/221018/p5#a221018p5)
+ - [Folding iPad rumored for 2024, before bendable iPhone](https://appleinsider.com/articles/22/10/18/folding-ipad-rumored-for-2024-before-bendable-iphone?utm_medium=rss)
+ - [How Sci-Fi Changed Who Gets to Go to Space](https://www.wired.com/story/sci-fi-changed-nasa-star-trek/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
