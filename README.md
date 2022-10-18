@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman VS Gorilla](http://9gag.com/gag/axoGMDK)
- - 🚯 [Iranian Sport Climber Elnaz Rekabi went missing yesterday after climbing while showing her hair. RIP brave girl](http://9gag.com/gag/axoG9b1)
- - 🚯 [One for funzies, one for keepies](http://9gag.com/gag/aeQpD1Q)<!-- MEMES:END -->
+ - 🚖 [Gravity, acceleration, friction, thermodynamics, vector force, momentum all in one](http://9gag.com/gag/aGERgEn)
+ - 🚯 [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)
+ - 🚯 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)<!-- MEMES:END -->
 
 --- 
 
