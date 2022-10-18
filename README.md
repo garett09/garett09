@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 4 and Flip 4 owners finally get access to the Android 13 beta](https://www.androidauthority.com/galaxy-z-fold-flip-4-android-13-3221905/)
- - [Shardeum, an Ethereum virtual machine-based sharded blockchain co-founded by Nischal Shetty, a co-founder of the crypto exchange WazirX, raised an $18.2M seed &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221018/p25#a221018p25)
- - [There’s about to be a big boom in carbon capture projects](https://www.theverge.com/2022/10/18/23410755/global-boom-carbon-capture-storage-ccs-pipeline-oil-gas-industry)<!-- TECH:END -->
+ - [Logitech Crayon for iPad updated with USB-C port](https://appleinsider.com/articles/22/10/18/logitech-crayon-for-ipad-updated-with-usb-c-port?utm_medium=rss)
+ - [Stardust, which makes developer tools for building blockchain-based games, raised a $30M Series A led by Framework Ventures &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221018/p27#a221018p27)
+ - [Apple iPad Pro &lpar;2022&rpar;: Specs, Price, Release Date](https://www.wired.com/story/apple-ipad-pro-2022-apple-tv-4k/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
