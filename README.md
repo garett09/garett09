@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New LEGO Set Has A Huge Sh*t In Its Toilet](https://kotaku.com/lego-human-shit-poop-toilet-portapotty-60335-1849669486)
- - [Jennifer Hale Speaks Out On Replacing Bayonetta’s Original Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-kamiya-recast-1849669425)
- - [Splinter Cell remake director leaves Ubisoft](https://www.pcgamer.com/splinter-cell-remake-director-leaves-ubisoft)<!-- GAME:END -->
+ - [Cosplay Universe Is A Great Documentary About The Craft](https://kotaku.com/cosplay-universe-documentary-stan-lee-yaya-han-nigri-1849669827)
+ - [EA Shutting Down Servers For Loads Of Very Good, Very Old Games](https://kotaku.com/ea-shut-down-close-servers-mirrors-edge-command-conquer-1849669665)
+ - [Sasha Grey will portray a radio DJ in the Cyberpunk 2077 expansion](https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
