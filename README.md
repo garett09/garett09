@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perspective really needs to tone down on its f**kery](http://9gag.com/gag/a9qPn0K)
- - 🚯 [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)
- - 🚯 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)<!-- MEMES:END -->
+ - 🚖 [Break](http://9gag.com/gag/adPpXGQ)
+ - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
+ - 🚯 [This British man found a vulnerability in Dutch government systems and reported it. He got this letter and shirt in return:](http://9gag.com/gag/amA87N9)<!-- MEMES:END -->
 
 --- 
 
