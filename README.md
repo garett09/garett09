@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s Halloween event is here, and so is new Gundam-style armor](https://www.polygon.com/23411230/destiny-2-halloween-event-gundam-armor-festival-lost)
- - [A Plague Tale: Requiem’s Rats Rule, But The Bugs Are Less Welcome](https://kotaku.com/plague-tale-requiem-review-rats-glitch-bugs-pandemic-1849673456)
- - [The Rest Of The Crysis Remastered Trilogy Is Hitting Steam Soon](https://kotaku.com/crysis-remastered-crytek-trilogy-steam-november-17-1849673528)<!-- GAME:END -->
+ - [How to play Call of Duty: Modern Warfare 2’s campaign early](https://www.polygon.com/gaming/23411475/call-duty-modern-warfare-2-2022-campaign-early-access-release-date-pre-order)
+ - [Amouranth says she’s safe, is ‘seeking legal and emotional counsel’](https://www.polygon.com/23411227/amouranth-husband-abuse-safe-legal-counsel)
+ - [Getting Into The Pokémon Trading Card Game Is Way Easier Than You Think](https://kotaku.com/pokemon-tcg-card-game-guide-lost-origin-silver-tempest-1849672817)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
