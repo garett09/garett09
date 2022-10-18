@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Break](http://9gag.com/gag/adPpXGQ)
- - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 🚯 [This British man found a vulnerability in Dutch government systems and reported it. He got this letter and shirt in return:](http://9gag.com/gag/amA87N9)<!-- MEMES:END -->
+ - 🚖 [A bit of history](http://9gag.com/gag/amA87Q2)
+ - 🚯 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
+ - 🚯 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
 
 --- 
 
