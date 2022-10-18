@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based ChainSafe, the developer of an SDK for connecting games built on the Unity platform to the blockchain, raised a CA$25.7M Series A led by Round13 &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/221018/p5#a221018p5)
- - [Folding iPad rumored for 2024, before bendable iPhone](https://appleinsider.com/articles/22/10/18/folding-ipad-rumored-for-2024-before-bendable-iphone?utm_medium=rss)
- - [How Sci-Fi Changed Who Gets to Go to Space](https://www.wired.com/story/sci-fi-changed-nasa-star-trek/)<!-- TECH:END -->
+ - [How to use Safari Extensions in macOS Ventura](https://appleinsider.com/articles/22/10/18/how-to-use-safari-extensions-in-macos-ventura?utm_medium=rss)
+ - [Meta says it will sell off Giphy following order from UK competition watchdog](https://www.theverge.com/2022/10/18/23410487/meta-sell-off-giphy-following-uk-cma-competition-ruling)
+ - [Apple Store goes down ahead of expected iPad launch](https://appleinsider.com/articles/22/10/18/apple-store-goes-down-ahead-of-expected-ipad-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
