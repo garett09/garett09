@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Silent Hill movie is secretly great](https://www.polygon.com/23411610/silent-hill-movie-new-game-announcement)
- - [Bayonetta&#39;s Original Voice Actress: &#39;I Urge People To Boycott This Game&#39; Over &#39;Insulting&#39; Pay Offer [UPDATE]](https://kotaku.com/bayonetta-3-hellena-taylor-voice-nintendo-switch-hale-1849662631)
- - [Red Dead Redemption’s PS Plus Delisting Is Another Bad Omen For Digital Libraries](https://kotaku.com/red-dead-redemption-s-ps-plus-delisting-is-another-bad-1849674441)<!-- GAME:END -->
+ - [Blizzard Testers Win Case, Can Now Vote On Forming A Union](https://kotaku.com/blizzard-albany-qa-testers-diablo-iv-union-activision-1849674924)
+ - [NBA Star Klay Thompson Calls NBA 2K&#39;s Marketing Guy A &#39;Clown&#39;](https://kotaku.com/klay-thompson-ronnie-2k-nba-2k23-singh-clown-espn-1849674785)
+ - [Gotham Knights system requirements are surprisingly demanding](https://www.pcgamer.com/gotham-knights-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
