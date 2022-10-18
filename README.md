@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Safari Extensions in macOS Ventura](https://appleinsider.com/articles/22/10/18/how-to-use-safari-extensions-in-macos-ventura?utm_medium=rss)
- - [Meta says it will sell off Giphy following order from UK competition watchdog](https://www.theverge.com/2022/10/18/23410487/meta-sell-off-giphy-following-uk-cma-competition-ruling)
- - [Apple Store goes down ahead of expected iPad launch](https://appleinsider.com/articles/22/10/18/apple-store-goes-down-ahead-of-expected-ipad-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Firefox version 106 adds PDF editing &amp; lowers CPU usage on Mac](https://appleinsider.com/articles/22/10/18/firefox-version-106-adds-pdf-editing-and-lower-cpu-usage-on-mac?utm_medium=rss)
+ - [Inside the messy fight between Meta and The Wire](https://www.theverge.com/2022/10/18/23410512/meta-the-wire-facebook-xcheck-india-messy-fight)
+ - [New leak says 10th-gen iPad has moved camera to the side](https://appleinsider.com/articles/22/10/18/new-leak-says-10th-gen-ipad-has-moved-camera-to-the-side?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
