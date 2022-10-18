@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Internet culture at its best..](http://9gag.com/gag/adPpKjd)
- - 🚯 [Let&#39;s go for the second panel of representation](http://9gag.com/gag/abvbVR9)
- - 🚯 [You are not the father](http://9gag.com/gag/aEqzpnM)<!-- MEMES:END -->
+ - 🚖 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
+ - 🚯 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)
+ - 🚯 [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)<!-- MEMES:END -->
 
 --- 
 
