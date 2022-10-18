@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s Halloween event, Fortnitemares, will turn you into a monster](https://www.polygon.com/23409668/fortnite-halloween-update-2022-fortnitemares-werewolves)
- - [Herman Miller and Logitech G just dropped a $1,000 gaming chair](https://www.pcgamer.com/herman-miller-and-logitech-g-just-dropped-a-dollar1000-gaming-chair)
- - [Today&#39;s Wordle 486 answer and hint: Tuesday, October 18](https://www.pcgamer.com/todays-wordle-486-answer-hint)<!-- GAME:END -->
+ - [There&#39;s an even cheaper way to use Discord emojis now](https://www.pcgamer.com/theres-an-even-cheaper-way-to-use-discord-emojis-now)
+ - [How to watch the Behind The Sims Summit](https://www.pcgamer.com/behind-the-sims-summit-how-to-watch)
+ - [Naughty Dog breaks down Uncharted 4’s climbing evolution as Uncharted: Legacy of Thieves Collection launches on PC this week](https://blog.playstation.com/2022/10/18/naughty-dog-breaks-down-uncharted-4s-climbing-evolution-as-uncharted-legacy-of-thieves-collection-launches-on-pc-this-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
