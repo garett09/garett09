@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 486 answer and hint: Tuesday, October 18](https://www.pcgamer.com/todays-wordle-486-answer-hint)
- - [Twitch Star Amouranth Says &#39;I&#39;m Free&#39;, Is Seeking &#39;Legal And Emotional Counsel&#39;](https://kotaku.com/amouranth-twitch-return-safe-accounts-update-stream-1849670703)
- - [Learn how to run VR flight sims and win a Pimax 8k headset](https://www.pcgamer.com/learn-how-to-run-vr-flight-sims-and-win-a-pimax-8k-headset)<!-- GAME:END -->
+ - [Fortnite’s Halloween event, Fortnitemares, will turn you into a monster](https://www.polygon.com/23409668/fortnite-halloween-update-2022-fortnitemares-werewolves)
+ - [Herman Miller and Logitech G just dropped a $1,000 gaming chair](https://www.pcgamer.com/herman-miller-and-logitech-g-just-dropped-a-dollar1000-gaming-chair)
+ - [Today&#39;s Wordle 486 answer and hint: Tuesday, October 18](https://www.pcgamer.com/todays-wordle-486-answer-hint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
