@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s an even cheaper way to use Discord emojis now](https://www.pcgamer.com/theres-an-even-cheaper-way-to-use-discord-emojis-now)
- - [How to watch the Behind The Sims Summit](https://www.pcgamer.com/behind-the-sims-summit-how-to-watch)
- - [Naughty Dog breaks down Uncharted 4’s climbing evolution as Uncharted: Legacy of Thieves Collection launches on PC this week](https://blog.playstation.com/2022/10/18/naughty-dog-breaks-down-uncharted-4s-climbing-evolution-as-uncharted-legacy-of-thieves-collection-launches-on-pc-this-week/)<!-- GAME:END -->
+ - [PS5 DualSense Edge controller launches early next year](https://www.polygon.com/23410630/ps5-dualsense-edge-controller-release-date-preorder)
+ - [The Week In Games: Rats, Rabbids, And Bats Oh My](https://kotaku.com/october-2022-game-releases-out-this-week-gotham-knights-1849671479)
+ - [You&#39;re not a true PC gamer until you&#39;ve convinced your significant other to RGB the home you share](https://www.pcgamer.com/youre-not-a-true-pc-gamer-until-youve-convinced-your-significant-other-to-rgb-the-home-you-share)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
