@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gravity, acceleration, friction, thermodynamics, vector force, momentum all in one](http://9gag.com/gag/aGERgEn)
- - 🚯 [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)
- - 🚯 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)<!-- MEMES:END -->
+ - 🚖 [Why r u](http://9gag.com/gag/anzB9VL)
+ - 🚯 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
+ - 🚯 [Woman VS Gorilla](http://9gag.com/gag/axoGMDK)<!-- MEMES:END -->
 
 --- 
 
