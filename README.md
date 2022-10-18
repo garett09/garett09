@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe adds new features to almost its entire software suite](https://appleinsider.com/articles/22/10/18/adobe-adds-new-features-to-almost-its-entire-software-suite?utm_medium=rss)
- - [Netflix VP of Gaming Mike Verdu says the company is &quot;seriously exploring a cloud gaming offering&quot; and plans to open a new gaming studio in Southern California &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221018/p31#a221018p31)
- - [USB 4 Version 2 Will Reach 80Gbps. 120Gbps if You Push It     - CNET](https://www.cnet.com/tech/computing/usb-4-version-2-will-reach-80gbps-120gbps-if-you-push-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
+ - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)
+ - [Bluesky previews its Authenticated Transport Protocol, formerly ADX, for large distributed social applications and says a Bluesky social app is &quot;coming soon&quot; &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/221018/p33#a221018p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
