@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play Call of Duty: Modern Warfare 2’s campaign early](https://www.polygon.com/gaming/23411475/call-duty-modern-warfare-2-2022-campaign-early-access-release-date-pre-order)
- - [Amouranth says she’s safe, is ‘seeking legal and emotional counsel’](https://www.polygon.com/23411227/amouranth-husband-abuse-safe-legal-counsel)
- - [Getting Into The Pokémon Trading Card Game Is Way Easier Than You Think](https://kotaku.com/pokemon-tcg-card-game-guide-lost-origin-silver-tempest-1849672817)<!-- GAME:END -->
+ - [The Silent Hill movie is secretly great](https://www.polygon.com/23411610/silent-hill-movie-new-game-announcement)
+ - [Bayonetta&#39;s Original Voice Actress: &#39;I Urge People To Boycott This Game&#39; Over &#39;Insulting&#39; Pay Offer [UPDATE]](https://kotaku.com/bayonetta-3-hellena-taylor-voice-nintendo-switch-hale-1849662631)
+ - [Red Dead Redemption’s PS Plus Delisting Is Another Bad Omen For Digital Libraries](https://kotaku.com/red-dead-redemption-s-ps-plus-delisting-is-another-bad-1849674441)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
