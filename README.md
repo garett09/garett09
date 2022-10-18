@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta pay respects for that spider](http://9gag.com/gag/amA8vby)
- - 🚯 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)
- - 🚯 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)<!-- MEMES:END -->
+ - 🚖 [Romance Languages](http://9gag.com/gag/aeQpQ9v)
+ - 🚯 [How to remove super glued hand on road the proper way](http://9gag.com/gag/adPpX2D)
+ - 🚯 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)<!-- MEMES:END -->
 
 --- 
 
