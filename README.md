@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Break](http://9gag.com/gag/adPpXGQ)
- - 🚯 [Work hard so you don&#39;t have to write your family name! Paolo , 25 years @ Microsoft](http://9gag.com/gag/awZ7Xoy)
- - 🚯 [Mom is like....WTH..](http://9gag.com/gag/ap9BoOB)<!-- MEMES:END -->
+ - 🚖 [Nice shampoo](http://9gag.com/gag/a04YKeq)
+ - 🚯 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
+ - 🚯 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
 
 --- 
 
