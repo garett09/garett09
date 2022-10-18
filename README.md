@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aBdrrez)
- - 🚯 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
- - 🚯 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)<!-- MEMES:END -->
+ - 🚖 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
+ - 🚯 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
+ - 🚯 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)<!-- MEMES:END -->
 
 --- 
 
