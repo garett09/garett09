@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cute monster GF](http://9gag.com/gag/aREVr7G)
- - 🚯 [Absolute destruction](http://9gag.com/gag/a5XKQ5r)
+ - 🚖 [Can anyone explains me the physics on it?](http://9gag.com/gag/aYVwVq7)
+ - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
  - 🚯 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)<!-- MEMES:END -->
 
 --- 
