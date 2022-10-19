@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber wants to annoy riders with its own version of taxi TV](https://www.theverge.com/2022/10/19/23412891/uber-in-car-tablets-taxi-tv-advertising)
- - [You can now mute your Xbox’s startup sound and control volume through the console](https://www.theverge.com/2022/10/19/23412893/xbox-series-update-startup-sound-mute-volume-control-edit-clips)
- - [Nestlé Recalls Chocolate-Chip Cookie Dough Over Possible Plastic Contamination     - CNET](https://www.cnet.com/news/nestle-recalls-chocolate-chip-cookie-dough-over-possible-plastic-contamination/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel previews the next-gen Thunderbolt, based on USB4 v2, with up to 80Gbps both ways, or 120Gbps one way and 40Gbps the other for &quot;video-intensive usages&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221019/p17#a221019p17)
+ - [Pinterest is bringing popular music to Idea Pins, its TikTok-like feature](https://www.theverge.com/2022/10/19/23413078/pinterest-idea-pins-tiktok-warner-music-bmg-licensing-deal)
+ - [Apple chose a bad year to launch expensive iPads that aren&#39;t compelling](https://appleinsider.com/articles/22/10/19/apple-chose-a-bad-year-to-launch-expensive-ipads-that-arent-compelling?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
