@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sistrix: Google&#39;s September 2022 algorithm update affected several UK publishers, as search rankings for LADbible fell 52%, Mail Online 37%, and The Mirror 27% &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/221019/p5#a221019p5)
  - [Here’s when Pixel 7 owners will get free Google VPN](https://www.androidauthority.com/pixel-7-google-vpn-3222131/)
- - [Logitech updates Crayon stylus with the USB-C port missing from the Apple Pencil](https://www.theverge.com/2022/10/19/23412357/logitech-crayon-stylus-usb-c-charging-port-apple-ipad)
- - [WeChat, used by millions of Chinese Americans, is one of the main venues for Chinese-language misinformation in the US and may influence the 2022 US midterms &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221019/p4#a221019p4)<!-- TECH:END -->
+ - [Logitech updates Crayon stylus with the USB-C port missing from the Apple Pencil](https://www.theverge.com/2022/10/19/23412357/logitech-crayon-stylus-usb-c-charging-port-apple-ipad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
