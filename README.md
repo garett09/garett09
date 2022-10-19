@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill: Townfall is a mysterious new game from acclaimed developer No Code](https://www.polygon.com/23413553/silent-hill-townfall-konami-annapurna-interactive-no-code)
- - [Silent Hill 2 PS5 Remake Has Everyone Wondering If Horror Dev Is Worthy](https://kotaku.com/bloober-team-silent-hill-2-remake-rumors-kojima-konami-1848948879)
- - [Silent Hill F is &#39;a completely new story set in 1960s Japan&#39;](https://www.pcgamer.com/silent-hill-f-is-a-completely-new-story-set-in-1960s-japan)<!-- GAME:END -->
+ - [Fallout London Cuts Zombie Queen Elizabeth, Prince Charles](https://kotaku.com/fallout-london-mod-queen-charles-king-queen-cut-remove-1849679533)
+ - [Flat Eye plays around with AI, cloning, and future tech while you work at a gas station](https://www.pcgamer.com/flat-eye-plays-around-with-ai-cloning-and-future-tech-while-you-work-at-a-gas-station)
+ - [Minecraft&#39;s new camels are already here in a new beta build](https://www.pcgamer.com/minecraft-120-first-snapshot-build-camels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
