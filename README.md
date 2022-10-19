@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 remake coming to PS5, PC](https://www.polygon.com/23413363/silent-hill-2-remake-release-date-ps5-pc-konami)
- - [Andor’s Wullf Yularen has Star Wars history beyond his low-key cameo](https://www.polygon.com/star-wars/23412956/andor-wullf-yularen-star-wars-cameo)
- - [Remember RIPD? It suddenly has a prequel, and the first 8 minutes are online now](https://www.polygon.com/23412864/ripd-2-rise-of-the-damned-trailer)<!-- GAME:END -->
+ - [Silent Hill: Townfall is a mysterious new game from acclaimed developer No Code](https://www.polygon.com/23413553/silent-hill-townfall-konami-annapurna-interactive-no-code)
+ - [Silent Hill 2 PS5 Remake Has Everyone Wondering If Horror Dev Is Worthy](https://kotaku.com/bloober-team-silent-hill-2-remake-rumors-kojima-konami-1848948879)
+ - [Silent Hill F is &#39;a completely new story set in 1960s Japan&#39;](https://www.pcgamer.com/silent-hill-f-is-a-completely-new-story-set-in-1960s-japan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
