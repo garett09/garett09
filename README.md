@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 surprising movies that directly inspired Chainsaw Man](https://www.polygon.com/23324559/movies-like-chainsaw-man-influences-watch-streaming)
- - [Netflix’s School for Good and Evil loves fairy tales — and rips them apart](https://www.polygon.com/reviews/23412765/school-for-good-evil-review-paul-feig-netflix)
- - [F1 22 Celebrates the United States Grand Prix with Free Content](https://news.xbox.com/en-us/2022/10/19/f1-22-celebrates-the-united-states-grand-prix-with-free-content/)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Disney Dreamlight Valley&#39;s Big Scar Update: All The Changes You Should Know About](https://kotaku.com/disney-dreamlight-valley-scar-root-beer-update-villain-1849678333)
+ - [Minecraft Batman DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/10/19/minecraft-batman-dlc-available-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
