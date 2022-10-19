@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW will build a $1.7 billion EV battery factory in South Carolina](https://www.theverge.com/2022/10/19/23412802/bmw-ev-battery-factory-south-carolina-investment)
- - [How to run Windows 95 as an app on your Mac for nostalgia](https://appleinsider.com/inside/macos/tips/how-to-run-windows-95-as-an-app-on-your-mac-for-nostalgia?utm_medium=rss)
- - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)<!-- TECH:END -->
+ - [Celestia, which is building a modular blockchain architecture, raised $55M, a source says in a Series A and a Series B held earlier this year at a $1B valuation &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/221019/p16#a221019p16)
+ - [What is Google Fast Pair and how to use it](https://www.androidauthority.com/google-fast-pair-2-3220791/)
+ - [Lightroom is &lpar;finally&rpar; all I need for photo editing](https://www.theverge.com/23412754/adobe-lightroom-ai-heal-tool-new-features-pixelmator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
