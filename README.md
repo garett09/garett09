@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple no longer selling 2015 Apple TV HD](https://appleinsider.com/articles/22/10/19/apple-no-longer-selling-2015-apple-tv-hd?utm_medium=rss)
- - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
- - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)<!-- TECH:END -->
+ - [Open Compute Project unveils Caliptra, a Root of Trust specification to provide verifiable cryptographic assurances of an ASIC&#39;s or SoC&#39;s security configuration &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/221019/p1#a221019p1)
+ - [A profile of venture capitalist and former PayPal COO David Sacks, who is using his wealth and online clout to lead a reactionary movement against liberalism &lpar;Jacob Silverman/New Republic&rpar;](http://www.techmeme.com/221018/p35#a221018p35)
+ - [Kakao&#39;s co-CEO Namkoong Whon resigns and apologizes for the recent outage; Hong Eun-taek, who led the company alongside Namkoong, will remain as sole CEO &lpar;Jihye Lee/CNBC&rpar;](http://www.techmeme.com/221018/p34#a221018p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
