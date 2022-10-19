@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LET THEM SIT DOWN](http://9gag.com/gag/a3ZLEw5)
- - 🚯 [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
- - 🚯 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)<!-- MEMES:END -->
+ - 🚖 [THE SINGLE DAY IN WW2 WHEN MOST PEOPLE DIED](http://9gag.com/gag/aZDNnjQ)
+ - 🚯 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
+ - 🚯 [This never gets old.](http://9gag.com/gag/amA8gGX)<!-- MEMES:END -->
 
 --- 
 
