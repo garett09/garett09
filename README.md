@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Devs Team Up To Make Master Chief Prosthetics For Kids With Limb Loss](https://kotaku.com/halo-infinite-winter-update-prosthetics-kids-limb-loss-1849678634)
- - [Wyrmwood lowers the initial $3,000 buy-in on its new line of standing desks](https://www.polygon.com/23410874/wyrmwood-standing-modular-desk-kickstarter-price-change-pre-order-delivery-date)
- - [Konami Leaks New Silent Hill 2 Project, Based On Classic Horror Game](https://kotaku.com/silent-hill-2-part-1-remake-konami-livestream-bloober-1849678607)<!-- GAME:END -->
+ - [Silent Hill 2 remake coming to PS5, PC](https://www.polygon.com/23413363/silent-hill-2-remake-release-date-ps5-pc-konami)
+ - [Andor’s Wullf Yularen has Star Wars history beyond his low-key cameo](https://www.polygon.com/star-wars/23412956/andor-wullf-yularen-star-wars-cameo)
+ - [Remember RIPD? It suddenly has a prequel, and the first 8 minutes are online now](https://www.polygon.com/23412864/ripd-2-rise-of-the-damned-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
