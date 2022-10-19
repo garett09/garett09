@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global smartphone market fell 9% YoY in Q3, the third decline in 2022 and the worst Q3 since 2014; Apple grew its market share from 15% in Q3 2021 to 18% &lpar;Canalys&rpar;](http://www.techmeme.com/221019/p10#a221019p10)
- - [How to check battery health on iOS &amp; iPadOS](https://appleinsider.com/inside/ios-16/tips/how-to-check-battery-health-on-ios-ipados?utm_medium=rss)
- - [War Is an Ecological Disaster—but Ukraine Can Build Back Greener](https://www.wired.com/story/war-is-an-ecological-disaster-but-ukraine-can-build-back-greener/)<!-- TECH:END -->
+ - [Bluesky built a decentralized protocol for Twitter — and is working on an app that uses it](https://www.theverge.com/2022/10/19/23412482/bluesky-at-protocol-decentralized-twitter-social-networks-app)
+ - [In filings with UK&#39;s CMA as part of its Activision Blizzard acquisition, Microsoft says it plans to build a new Xbox Mobile Platform and a store to sell games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221019/p13#a221019p13)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Oct. 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-19-2022-3221237/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
