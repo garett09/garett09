@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [THE SINGLE DAY IN WW2 WHEN MOST PEOPLE DIED](http://9gag.com/gag/aZDNnjQ)
- - 🚯 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
- - 🚯 [This never gets old.](http://9gag.com/gag/amA8gGX)<!-- MEMES:END -->
+ - 🚖 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)
+ - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
+ - 🚯 [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)<!-- MEMES:END -->
 
 --- 
 
