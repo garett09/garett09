@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit&#39;s chief product officer says 3M+ users created Reddit Vault wallets, including 2.5M to buy NFT avatars that can be used as profile pictures on the site &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221019/p8#a221019p8)
- - [The Gig Law Causing Chaos in California Strip Clubs](https://www.wired.com/story/gig-economy-strip-clubs/)
- - [TikTok&#39;s &#39;Board Parties&#39; May Have Reached Their Apex](https://www.wired.com/story/tiktok-instagram-food-boards/)<!-- TECH:END -->
+ - [Global smartphone market fell 9% YoY in Q3, the third decline in 2022 and the worst Q3 since 2014; Apple grew its market share from 15% in Q3 2021 to 18% &lpar;Canalys&rpar;](http://www.techmeme.com/221019/p10#a221019p10)
+ - [How to check battery health on iOS &amp; iPadOS](https://appleinsider.com/inside/ios-16/tips/how-to-check-battery-health-on-ios-ipados?utm_medium=rss)
+ - [War Is an Ecological Disaster—but Ukraine Can Build Back Greener](https://www.wired.com/story/war-is-an-ecological-disaster-but-ukraine-can-build-back-greener/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
