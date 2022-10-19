@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Disney Dreamlight Valley&#39;s Big Scar Update: All The Changes You Should Know About](https://kotaku.com/disney-dreamlight-valley-scar-root-beer-update-villain-1849678333)
- - [Minecraft Batman DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/10/19/minecraft-batman-dlc-available-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
+ - [Halo Devs Team Up To Make Master Chief Prosthetics For Kids With Limb Loss](https://kotaku.com/halo-infinite-winter-update-prosthetics-kids-limb-loss-1849678634)
+ - [Wyrmwood lowers the initial $3,000 buy-in on its new line of standing desks](https://www.polygon.com/23410874/wyrmwood-standing-modular-desk-kickstarter-price-change-pre-order-delivery-date)
+ - [Konami Leaks New Silent Hill 2 Project, Based On Classic Horror Game](https://kotaku.com/silent-hill-2-part-1-remake-konami-livestream-bloober-1849678607)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
