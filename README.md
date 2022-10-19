@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls on tinder](http://9gag.com/gag/ay2n3Lp)
- - 🚯 [Although it won\u2018t hurt them much](http://9gag.com/gag/a6qLXbL)
- - 🚯 [L\u00e9onie \ud83c\udde6\ud83c\uddf9 Stefie \ud83c\udde9\ud83c\uddea Victorine \ud83c\uddeb\ud83c\uddf7 Maria \ud83c\udde9\ud83c\uddea D\u00e9sir \ud83c\uddee\ud83c\uddf9 Pamela \ud83c\uddee\ud83c\uddf9 Wilma \ud83c\uddf8\ud83c\uddea Lola \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awZ7MM8)<!-- MEMES:END -->
+ - 🚖 [I enjoy](http://9gag.com/gag/avQL51M)
+ - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
+ - 🚯 [HEYYEYAAEYAAAEYAEYAA](http://9gag.com/gag/aZDNr4X)<!-- MEMES:END -->
 
 --- 
 
