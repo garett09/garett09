@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Uncharted: Legacy of Thieves Collection’s PC launch speaks to Naughty Dog’s present and future](https://blog.playstation.com/2022/10/19/how-uncharted-legacy-of-thieves-collections-pc-launch-speaks-to-naughty-dogs-present-and-future/)
- - [How Uncharted: Legacy of Thieves Collection’s PC launch speaks to Naughty Dog’s present and future](https://blog.playstation.com/2022/10/19/how-uncharted-legacy-of-thieves-collections-pc-launch-speaks-to-naughty-dogs-present-and-future/)
- - [Minecraft Dungeons’ Third Seasonal Adventure Available Now](https://news.xbox.com/en-us/2022/10/19/minecraft-dungeons-third-seasonal-adventure-available-now/)<!-- GAME:END -->
+ - [Catch an exclusive look at Marvel’s Fantastic Four reset series](https://www.polygon.com/23411450/marvel-new-fantastic-four-alex-ross-ryan-north)
+ - [Rooster Teeth Will Limit Its Content After Wave Of &#39;Hateful, Harmful&#39; Allegations](https://kotaku.com/rooster-teeth-youtube-rvb-twitter-allegation-geoff-kdin-1849677359)
+ - [The Ultimate Game To Hit Your &#39;90s Music Nostalgia](https://kotaku.com/riley-rochelle-musical-music-pc-steam-sheinman-games-1849676247)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
