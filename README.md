@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky built a decentralized protocol for Twitter — and is working on an app that uses it](https://www.theverge.com/2022/10/19/23412482/bluesky-at-protocol-decentralized-twitter-social-networks-app)
- - [In filings with UK&#39;s CMA as part of its Activision Blizzard acquisition, Microsoft says it plans to build a new Xbox Mobile Platform and a store to sell games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221019/p13#a221019p13)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Oct. 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-19-2022-3221237/)<!-- TECH:END -->
+ - [Amazon plans to stream a Black Friday NFL game starting in 2023](https://www.theverge.com/2022/10/19/23412466/amazon-black-friday-nfl-game-stream-football-2023)
+ - [Apple’s October 2022 update brought new iPads and a refreshed Apple TV 4K](https://www.theverge.com/2022/10/19/23412496/apple-ipad-pro-tv-event-news-announcements-rumors-insight-october-2022)
+ - [Adobe’s latest AI prototype gives even the worst dancers some impressive moves](https://www.theverge.com/2022/10/19/23412526/adobe-dancing-ai-prototype-project-motion-mix-max-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
