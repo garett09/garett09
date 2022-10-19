@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmhmm.](http://9gag.com/gag/a8qj1NO)
- - 🚯 [Bro\u2026what are you doing](http://9gag.com/gag/aWGO11A)
- - 🚯 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)<!-- MEMES:END -->
+ - 🚖 [LET THEM SIT DOWN](http://9gag.com/gag/a3ZLEw5)
+ - 🚯 [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
+ - 🚯 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)<!-- MEMES:END -->
 
 --- 
 
