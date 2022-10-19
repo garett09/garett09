@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple no longer selling 2015 Apple TV HD](https://appleinsider.com/articles/22/10/19/apple-no-longer-selling-2015-apple-tv-hd?utm_medium=rss)
  - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
- - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)
- - [Bluesky previews its Authenticated Transport Protocol, formerly ADX, for large distributed social applications and says a Bluesky social app is &quot;coming soon&quot; &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/221018/p33#a221018p33)<!-- TECH:END -->
+ - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
