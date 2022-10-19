@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to stream a Black Friday NFL game starting in 2023](https://www.theverge.com/2022/10/19/23412466/amazon-black-friday-nfl-game-stream-football-2023)
- - [Apple’s October 2022 update brought new iPads and a refreshed Apple TV 4K](https://www.theverge.com/2022/10/19/23412496/apple-ipad-pro-tv-event-news-announcements-rumors-insight-october-2022)
- - [Adobe’s latest AI prototype gives even the worst dancers some impressive moves](https://www.theverge.com/2022/10/19/23412526/adobe-dancing-ai-prototype-project-motion-mix-max-2022)<!-- TECH:END -->
+ - [Samsung rolls out the Android 13 beta for the Galaxy Z Fold 2](https://www.androidauthority.com/galaxy-z-fold-2-android-13-3222256/)
+ - [The Portland Van Abductions](https://www.theverge.com/c/23374765/portland-van-abductions-protests-2020-homeland)
+ - [How to customize the Home app in iOS 16](https://appleinsider.com/inside/homekit/tips/how-to-customize-the-home-app-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
