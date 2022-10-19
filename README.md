@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sistrix: Google&#39;s September 2022 algorithm update affected several UK publishers, as search rankings for LADbible fell 52%, Mail Online 37%, and The Mirror 27% &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/221019/p5#a221019p5)
- - [Here’s when Pixel 7 owners will get free Google VPN](https://www.androidauthority.com/pixel-7-google-vpn-3222131/)
- - [Logitech updates Crayon stylus with the USB-C port missing from the Apple Pencil](https://www.theverge.com/2022/10/19/23412357/logitech-crayon-stylus-usb-c-charging-port-apple-ipad)<!-- TECH:END -->
+ - [Munich-based Holidu, which runs a search engine and booking website for vacation rentals, raised a &amp;euro;104M Series E led by 83North, with &amp;euro;75M equity and &amp;euro;25M debt &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/221019/p7#a221019p7)
+ - [Documents: Japan may let crypto exchanges list tokens without a lengthy screening process, unless the tokens are new; the rule could take effect by December &lpar;Bloomberg&rpar;](http://www.techmeme.com/221019/p6#a221019p6)
+ - [Lyft now lets you reserve parking spaces](https://www.theverge.com/2022/10/19/23412375/lyft-reserve-parking-spaces-spothero)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
