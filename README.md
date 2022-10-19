@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out the Android 13 beta for the Galaxy Z Fold 2](https://www.androidauthority.com/galaxy-z-fold-2-android-13-3222256/)
- - [The Portland Van Abductions](https://www.theverge.com/c/23374765/portland-van-abductions-protests-2020-homeland)
- - [How to customize the Home app in iOS 16](https://appleinsider.com/inside/homekit/tips/how-to-customize-the-home-app-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [BMW will build a $1.7 billion EV battery factory in South Carolina](https://www.theverge.com/2022/10/19/23412802/bmw-ev-battery-factory-south-carolina-investment)
+ - [How to run Windows 95 as an app on your Mac for nostalgia](https://appleinsider.com/inside/macos/tips/how-to-run-windows-95-as-an-app-on-your-mac-for-nostalgia?utm_medium=rss)
+ - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
