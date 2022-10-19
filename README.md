@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First aid](http://9gag.com/gag/aA0pQMg)
- - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
- - 🚯 [Gravity, acceleration, friction, thermodynamics, vector force, momentum all in one](http://9gag.com/gag/aGERgEn)<!-- MEMES:END -->
+ - 🚖 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
+ - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
+ - 🚯 [Savage](http://9gag.com/gag/awZ7MRR)<!-- MEMES:END -->
 
 --- 
 
