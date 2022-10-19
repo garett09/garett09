@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celestia, which is building a modular blockchain architecture, raised $55M, a source says in a Series A and a Series B held earlier this year at a $1B valuation &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/221019/p16#a221019p16)
- - [What is Google Fast Pair and how to use it](https://www.androidauthority.com/google-fast-pair-2-3220791/)
- - [Lightroom is &lpar;finally&rpar; all I need for photo editing](https://www.theverge.com/23412754/adobe-lightroom-ai-heal-tool-new-features-pixelmator)<!-- TECH:END -->
+ - [Uber wants to annoy riders with its own version of taxi TV](https://www.theverge.com/2022/10/19/23412891/uber-in-car-tablets-taxi-tv-advertising)
+ - [You can now mute your Xbox’s startup sound and control volume through the console](https://www.theverge.com/2022/10/19/23412893/xbox-series-update-startup-sound-mute-volume-control-edit-clips)
+ - [Nestlé Recalls Chocolate-Chip Cookie Dough Over Possible Plastic Contamination     - CNET](https://www.cnet.com/news/nestle-recalls-chocolate-chip-cookie-dough-over-possible-plastic-contamination/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
