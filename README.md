@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This never gets old.](http://9gag.com/gag/amA8gGX)
- - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
- - 🚯 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)<!-- MEMES:END -->
+ - 🚖 [Still the best looking &lpar;male&rpar; elf in the movies.](http://9gag.com/gag/armRnAy)
+ - 🚯 [Savage](http://9gag.com/gag/awZ7MRR)
+ - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)<!-- MEMES:END -->
 
 --- 
 
