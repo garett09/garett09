@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches the Amazon Insurance Store in the UK, a comparison service for buying and reviewing third-party providers&#39; home and contents insurance &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221019/p3#a221019p3)
- - [Use Chrome on an Android tablet? This update is for you.](https://www.androidauthority.com/chrome-android-tablet-update-3221608/)
- - [Astronaut James McDivitt, Apollo 9 Commander, Dies at 93     - CNET](https://www.cnet.com/science/space/astronaut-james-mcdivitt-apollo-9-commander-dies-at-93/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s when Pixel 7 owners will get free Google VPN](https://www.androidauthority.com/pixel-7-google-vpn-3222131/)
+ - [Logitech updates Crayon stylus with the USB-C port missing from the Apple Pencil](https://www.theverge.com/2022/10/19/23412357/logitech-crayon-stylus-usb-c-charging-port-apple-ipad)
+ - [WeChat, used by millions of Chinese Americans, is one of the main venues for Chinese-language misinformation in the US and may influence the 2022 US midterms &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221019/p4#a221019p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
