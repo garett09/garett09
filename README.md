@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Romance Languages](http://9gag.com/gag/aeQpQ9v)
- - 🚯 [How to remove super glued hand on road the proper way](http://9gag.com/gag/adPpX2D)
- - 🚯 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)<!-- MEMES:END -->
+ - 🚖 [The last round for one tap purpose](http://9gag.com/gag/a6qL17R)
+ - 🚯 [Rip bro](http://9gag.com/gag/axoGMAb)
+ - 🚯 [Best football play of the year](http://9gag.com/gag/agoNg01)<!-- MEMES:END -->
 
 --- 
 
