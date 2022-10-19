@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still the best looking &lpar;male&rpar; elf in the movies.](http://9gag.com/gag/armRnAy)
- - 🚯 [Savage](http://9gag.com/gag/awZ7MRR)
- - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)<!-- MEMES:END -->
+ - 🚖 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)
+ - 🚯 [Absolute destruction](http://9gag.com/gag/a5XKQ5r)
+ - 🚯 [HEYYEYAAEYAAAEYAEYAA](http://9gag.com/gag/aZDNr4X)<!-- MEMES:END -->
 
 --- 
 
