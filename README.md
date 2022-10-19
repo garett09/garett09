@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Catch an exclusive look at Marvel’s Fantastic Four reset series](https://www.polygon.com/23411450/marvel-new-fantastic-four-alex-ross-ryan-north)
- - [Rooster Teeth Will Limit Its Content After Wave Of &#39;Hateful, Harmful&#39; Allegations](https://kotaku.com/rooster-teeth-youtube-rvb-twitter-allegation-geoff-kdin-1849677359)
- - [The Ultimate Game To Hit Your &#39;90s Music Nostalgia](https://kotaku.com/riley-rochelle-musical-music-pc-steam-sheinman-games-1849676247)<!-- GAME:END -->
+ - [The legacy of Glup Shitto lives on in Andor’s Keef Girgo](https://www.polygon.com/star-wars/23412848/andor-keef-girgo-star-wars)
+ - [McDonalds is offering an epic Overwatch 2 skin in Australia](https://www.pcgamer.com/mcdonalds-is-offering-an-epic-overwatch-2-skin-in-australia)
+ - [This huge &#39;70s tank simulator is the last of its kind, and it runs off a Raspberry Pi](https://www.pcgamer.com/the-last-analogue-tank-simulator-on-earth-is-huge-loud-and-runs-off-a-raspberry-pi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
