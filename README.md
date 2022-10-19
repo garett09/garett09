@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch today’s Silent Hill Transmission showcase](https://www.polygon.com/23412400/silent-hill-transmission-showcase-how-to-watch)
- - [Destiny 2: The best way to farm Spectral Pages during Festival of the Lost](https://www.pcgamer.com/destiny-2-spectral-pages-farm)
- - [Here&#39;s when Disney Dreamlight Valley&#39;s Scar update unlocks](https://www.pcgamer.com/disney-dreamlight-valley-scar-update-release-times)<!-- GAME:END -->
+ - [File Explorer tabs finally come to Windows 11](https://www.pcgamer.com/microsoft-windows-11-file-explorer-tabs-update)
+ - [What you need to know about Dracthyr in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-dracthyr-evoker-customization)
+ - [What&#39;s the Nightfall weapon this week in Destiny 2?](https://www.pcgamer.com/destiny-2-nightfall-weapon-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
