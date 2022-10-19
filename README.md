@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix might get into cloud gaming, forms another new game studio](https://www.polygon.com/23412637/netflix-cloud-gaming-new-studio)
- - [Netflix Announces Game Streaming Plans Three Weeks After Google’s Attempt Blows Up](https://kotaku.com/netflix-google-stadia-cloud-streaming-xbox-ps5-geforce-1849676394)
- - [Riot fixes &#39;pay-to-lose&#39; Valorant gun skin that pros forgot to tell devs about](https://www.pcgamer.com/riot-fixes-pay-to-lose-valorant-gun-skin-that-pros-forgot-to-tell-devs-about)<!-- GAME:END -->
+ - [How Uncharted: Legacy of Thieves Collection’s PC launch speaks to Naughty Dog’s present and future](https://blog.playstation.com/2022/10/19/how-uncharted-legacy-of-thieves-collections-pc-launch-speaks-to-naughty-dogs-present-and-future/)
+ - [How Uncharted: Legacy of Thieves Collection’s PC launch speaks to Naughty Dog’s present and future](https://blog.playstation.com/2022/10/19/how-uncharted-legacy-of-thieves-collections-pc-launch-speaks-to-naughty-dogs-present-and-future/)
+ - [Minecraft Dungeons’ Third Seasonal Adventure Available Now](https://news.xbox.com/en-us/2022/10/19/minecraft-dungeons-third-seasonal-adventure-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
