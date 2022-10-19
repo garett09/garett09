@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
+ - 🚖 [This never gets old.](http://9gag.com/gag/amA8gGX)
  - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
- - 🚯 [HEYYEYAAEYAAAEYAEYAA](http://9gag.com/gag/aZDNr4X)<!-- MEMES:END -->
+ - 🚯 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)<!-- MEMES:END -->
 
 --- 
 
