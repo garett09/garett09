@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
- - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
- - 🚯 [Savage](http://9gag.com/gag/awZ7MRR)<!-- MEMES:END -->
+ - 🚖 [Cute monster GF](http://9gag.com/gag/aREVr7G)
+ - 🚯 [Absolute destruction](http://9gag.com/gag/a5XKQ5r)
+ - 🚯 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)<!-- MEMES:END -->
 
 --- 
 
