@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel previews the next-gen Thunderbolt, based on USB4 v2, with up to 80Gbps both ways, or 120Gbps one way and 40Gbps the other for &quot;video-intensive usages&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221019/p17#a221019p17)
- - [Pinterest is bringing popular music to Idea Pins, its TikTok-like feature](https://www.theverge.com/2022/10/19/23413078/pinterest-idea-pins-tiktok-warner-music-bmg-licensing-deal)
- - [Apple chose a bad year to launch expensive iPads that aren&#39;t compelling](https://appleinsider.com/articles/22/10/19/apple-chose-a-bad-year-to-launch-expensive-ipads-that-arent-compelling?utm_medium=rss)<!-- TECH:END -->
+ - [Google unveils Android 13 Go edition, with Material You, a Discover feed, and support for Google Play System Updates, arriving in 2023 on devices with 2GB+ RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221019/p18#a221019p18)
+ - [Comparison: New 10.9-inch iPad vs. iPad Air](https://appleinsider.com/inside/ipad/vs/comparison-new-109-inch-ipad-vs-ipad-air?utm_medium=rss)
+ - [Creepy Close-up Photo of Ant Face Is Straight Out of a Horror Movie     - CNET](https://www.cnet.com/science/creepy-close-up-photo-of-ant-face-is-straight-out-of-a-horror-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
