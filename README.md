@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open Compute Project unveils Caliptra, a Root of Trust specification to provide verifiable cryptographic assurances of an ASIC&#39;s or SoC&#39;s security configuration &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/221019/p1#a221019p1)
- - [A profile of venture capitalist and former PayPal COO David Sacks, who is using his wealth and online clout to lead a reactionary movement against liberalism &lpar;Jacob Silverman/New Republic&rpar;](http://www.techmeme.com/221018/p35#a221018p35)
- - [Kakao&#39;s co-CEO Namkoong Whon resigns and apologizes for the recent outage; Hong Eun-taek, who led the company alongside Namkoong, will remain as sole CEO &lpar;Jihye Lee/CNBC&rpar;](http://www.techmeme.com/221018/p34#a221018p34)<!-- TECH:END -->
+ - [Amazon launches the Amazon Insurance Store in the UK, a comparison service for buying and reviewing third-party providers&#39; home and contents insurance &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221019/p3#a221019p3)
+ - [Use Chrome on an Android tablet? This update is for you.](https://www.androidauthority.com/chrome-android-tablet-update-3221608/)
+ - [Gamers, who have accepted pay-to-play models and paid digital items, have largely succeeded in rejecting the video game industry&#39;s efforts to incorporate NFTs &lpar;Brian Feldman/Bloomberg&rpar;](http://www.techmeme.com/221019/p2#a221019p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
