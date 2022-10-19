@@ -140,7 +140,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Amazon launches the Amazon Insurance Store in the UK, a comparison service for buying and reviewing third-party providers&#39; home and contents insurance &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221019/p3#a221019p3)
  - [Use Chrome on an Android tablet? This update is for you.](https://www.androidauthority.com/chrome-android-tablet-update-3221608/)
- - [Gamers, who have accepted pay-to-play models and paid digital items, have largely succeeded in rejecting the video game industry&#39;s efforts to incorporate NFTs &lpar;Brian Feldman/Bloomberg&rpar;](http://www.techmeme.com/221019/p2#a221019p2)<!-- TECH:END -->
+ - [Astronaut James McDivitt, Apollo 9 Commander, Dies at 93     - CNET](https://www.cnet.com/science/space/astronaut-james-mcdivitt-apollo-9-commander-dies-at-93/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
