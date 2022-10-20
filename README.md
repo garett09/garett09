@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s attempt to throw shade at Tim Cook didn’t go as well as planned](https://www.androidauthority.com/google-tim-cook-3222917/)
- - [Snapchat Plus subscribers can now set their stories to run for an entire week](https://www.theverge.com/2022/10/20/23414867/snapchat-plus-new-features-subscription-announced)
- - [LinkedIn bot battle wipes 50% of Apple employee accounts](https://appleinsider.com/articles/22/10/20/linkedin-bot-battle-wipes-50-of-apple-employee-accounts?utm_medium=rss)<!-- TECH:END -->
+ - [Black Adam is Warner Bros.’ most brutal superhero letdown yet](https://www.theverge.com/2022/10/20/23414415/black-adam-review-dwayne-johnson-the-rock)
+ - [A leaked email shows Ben Chestnut stepped down in August as Mailchimp CEO after arguing that asking for pronouns at start of meetings &quot;does more harm than good&quot; &lpar;Platformer&rpar;](http://www.techmeme.com/221020/p23#a221020p23)
+ - [YouTube Premium family plan getting a 23% price increase next month](https://www.androidauthority.com/youtube-premium-family-plan-price-nov-22-3222983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
