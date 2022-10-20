@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls on tinder](http://9gag.com/gag/ay2n3Lp)
- - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
- - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)<!-- MEMES:END -->
+ - 🚖 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
+ - 🚯 [PUBIC ENEMY](http://9gag.com/gag/aeQpQnW)
+ - 🚯 [How the heck!](http://9gag.com/gag/aEqzq99)<!-- MEMES:END -->
 
 --- 
 
