@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel team burns Apple on Twitter -- from an iPhone](https://appleinsider.com/articles/22/10/20/google-pixel-team-burns-apple-on-twitter----from-an-iphone?utm_medium=rss)
- - [Google Pixel Watch review: Laying the foundation](https://www.androidauthority.com/google-pixel-watch-review-3220973/)
- - [Banyan, whose network of item-level purchase data helps customers automate expense management, has raised a $43M Series A, $28M in equity and $15M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221020/p6#a221020p6)<!-- TECH:END -->
+ - [Google’s updated Family Link app can tell parents when their kids leave school](https://www.theverge.com/2022/10/18/23409786/google-family-link-update-parental-controls-location-alerts)
+ - [Intel Raptor Lake Core i9-13900K and i5-13600K review: improved V/F curve and more efficiency cores compared to Alder Lake and highly competitive with AMD Zen 4 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/221020/p8#a221020p8)
+ - [Consumer demand for smartphones will continue to fall into 2023](https://appleinsider.com/articles/22/10/20/consumer-demand-for-smartphones-will-continue-to-fall-into-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
