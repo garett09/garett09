@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best football play of the year](http://9gag.com/gag/agoNg01)
- - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
- - 🚯 [This never gets old.](http://9gag.com/gag/amA8gGX)<!-- MEMES:END -->
+ - 🚖 [An awkward moment](http://9gag.com/gag/aXnXMq9)
+ - 🚯 [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
+ - 🚯 [Useful Survival tips](http://9gag.com/gag/aA0p6ME)<!-- MEMES:END -->
 
 --- 
 
