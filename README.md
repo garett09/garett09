@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a gross family](http://9gag.com/gag/aGERyd7)
- - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)
- - 🚯 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)<!-- MEMES:END -->
+ - 🚖 [Triple kill](http://9gag.com/gag/aVbX2O2)
+ - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)
+ - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)<!-- MEMES:END -->
 
 --- 
 
