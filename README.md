@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube names Leo Olebe, who held executive roles in Google Play&#39;s games partnership division and at Facebook, as head of its gaming unit &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221019/p27#a221019p27)
- - [Report: customers are using doorbell cameras like Amazon&#39;s Ring to monitor, control, and punish delivery drivers, such as sharing footage online to shame them &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/221019/p26#a221019p26)
- - [Elon Musk again claims one day Tesla will get bigger than Apple is today](https://appleinsider.com/articles/22/10/20/elon-musk-again-claims-one-day-tesla-will-get-bigger-than-apple-is-today?utm_medium=rss)<!-- TECH:END -->
+ - [iFixit&#39;s Google Pixel Watch teardown: the backplate can be replaced as can the display, but with more difficulty; the buttons and crown appear irreplaceable &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/221019/p30#a221019p30)
+ - [Los Angeles-based Eyenuk, maker of AI-powered eye screening tech for detecting diabetic retinopathy, raised a $26M Series A, bringing its total funding to $43M+ &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/221019/p29#a221019p29)
+ - [Adobe&#39;s Blink AI Tool Makes Video Editing Look Like Word Processing     - CNET](https://www.cnet.com/tech/computing/adobes-blink-ai-tool-makes-video-editing-look-like-word-processing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
