@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horror games have never been scarier](https://www.polygon.com/23409640/horror-games-2022-mortuary-assistant-whos-lila)
- - [Smash Bros. creator shows off never-before-seen prototype footage of the series’ origins](https://www.polygon.com/23414732/super-smash-bros-prototype-behind-the-scenes-video)
- - [Get in the Spooky Spirit with Game Pass](https://news.xbox.com/en-us/2022/10/20/get-in-the-spooky-spirit-with-game-pass/)<!-- GAME:END -->
+ - [Nope will stream exclusively on Peacock in November](https://www.polygon.com/23414916/nope-streaming-date-peacock-november)
+ - [Unravel Park Story’s Spooky Tale Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/10/20/unravel-park-storys-spooky-tale-now-on-xbox-one-and-xbox-series-xs/)
+ - [Microsoft&#39;s latest Activision acquisition defense: What if Call of Duty sucked?](https://www.pcgamer.com/microsofts-latest-activision-acquisition-defense-what-if-call-of-duty-sucked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
