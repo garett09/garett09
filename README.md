@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill is back — and so, dare we say it, is Konami](https://www.polygon.com/23414177/silent-hill-konami-return-analysis)
- - [Remember Bastion, Overwatch 2&#39;s MIA Hero? He&#39;s Back Next Week](https://kotaku.com/overwatch-2-is-bastion-torbjorn-what-happened-patch-1849682036)
- - [Gotham Knights Batarang locations and how to find them](https://www.pcgamer.com/gotham-knights-batarang-locations)<!-- GAME:END -->
+ - [Horror games have never been scarier](https://www.polygon.com/23409640/horror-games-2022-mortuary-assistant-whos-lila)
+ - [Smash Bros. creator shows off never-before-seen prototype footage of the series’ origins](https://www.polygon.com/23414732/super-smash-bros-prototype-behind-the-scenes-video)
+ - [Get in the Spooky Spirit with Game Pass](https://news.xbox.com/en-us/2022/10/20/get-in-the-spooky-spirit-with-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
