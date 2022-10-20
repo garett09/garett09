@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clean A Demon&#39;s Sex Toys In This Punk Slice-Of-Life Game](https://kotaku.com/dead-pets-unleashed-demons-narrative-sex-toy-steam-demo-1849681548)
- - [Gotham Knights Sounds Like A Big Disappointment](https://kotaku.com/gotham-knights-reviews-batman-arkham-ps5-framerate-1849681602)
- - [Free Play Days – F1 22, Rogue Lords, and Journey to the Savage Planet](https://news.xbox.com/en-us/2022/10/20/free-play-days-f1-22-rogue-lords-and-journey-to-the-savage-planet/)<!-- GAME:END -->
+ - [Silent Hill is back — and so, dare we say it, is Konami](https://www.polygon.com/23414177/silent-hill-konami-return-analysis)
+ - [Remember Bastion, Overwatch 2&#39;s MIA Hero? He&#39;s Back Next Week](https://kotaku.com/overwatch-2-is-bastion-torbjorn-what-happened-patch-1849682036)
+ - [Gotham Knights Batarang locations and how to find them](https://www.pcgamer.com/gotham-knights-batarang-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
