@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden group casts Dark Brandon in student debt relief ad](https://www.theverge.com/2022/10/20/23414792/biden-dark-brandon-building-back-together-student-relief-debt-aid-midterms)
- - [macOS Ventura gets second Release Candidate beta](https://appleinsider.com/articles/22/10/20/macos-ventura-gets-second-release-candidate-beta?utm_medium=rss)
- - [Google is getting sued again, but this suit could set a concerning precedent](https://www.androidauthority.com/google-lawsuit-texas-3222837/)<!-- TECH:END -->
+ - [Tech companies added fertility features just in time for the culture war](https://www.theverge.com/2022/10/20/23414856/fertility-tracking-abortion-right-wing-apple-birth-control)
+ - [&#39;Underrated&#39; on Apple TV+ tells NBA star Stephen Curry&#39;s story](https://appleinsider.com/articles/22/10/20/underrated-on-apple-tv-tells-nba-star-stephen-currys-story?utm_medium=rss)
+ - [Just $599.99 for the Toshiba 75-inch Class M550, and many more 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
