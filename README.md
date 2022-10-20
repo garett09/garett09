@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take the Next Step this Season in Football Manager 2023, Available November 8](https://news.xbox.com/en-us/2022/10/20/take-the-next-step-this-season-in-football-manager-2023-available-november-8/)
- - [Fallout 3 is free on the Epic Games Store](https://www.pcgamer.com/fallout-3-is-free-on-the-epic-games-store)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Nier: Automata Is A Great Time On Switch, Aside From The Hand Cramps](https://kotaku.com/nier-automata-end-of-yorha-nintendo-switch-review-2b-9s-1849683888)
+ - [Alan Wake Remastered On Switch Looks Rough](https://kotaku.com/alan-wake-remastered-switch-release-framerate-bugs-1849683677)
+ - [Take the Next Step this Season in Football Manager 2023, Available November 8](https://news.xbox.com/en-us/2022/10/20/take-the-next-step-this-season-in-football-manager-2023-available-november-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
