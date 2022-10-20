@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Adam is Warner Bros.’ most brutal superhero letdown yet](https://www.theverge.com/2022/10/20/23414415/black-adam-review-dwayne-johnson-the-rock)
- - [A leaked email shows Ben Chestnut stepped down in August as Mailchimp CEO after arguing that asking for pronouns at start of meetings &quot;does more harm than good&quot; &lpar;Platformer&rpar;](http://www.techmeme.com/221020/p23#a221020p23)
- - [YouTube Premium family plan getting a 23% price increase next month](https://www.androidauthority.com/youtube-premium-family-plan-price-nov-22-3222983/)<!-- TECH:END -->
+ - [In an email to customers, YouTube says it is raising the price of YouTube Premium family plan from $17.99 per month to $22.99 per month &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/221020/p25#a221020p25)
+ - [GMC Sierra EV Denali revealed: plug-in-powered pickup goes premium](https://www.theverge.com/2022/10/20/23412119/gmc-sierra-ev-denali-electric-truck-specs-price-range)
+ - [Specs arrive for the unofficial Essential Phone sequel, but is it worth $1,000?](https://www.androidauthority.com/saga-phone-specs-3222957/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
