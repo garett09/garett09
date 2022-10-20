@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s updated Family Link app can tell parents when their kids leave school](https://www.theverge.com/2022/10/18/23409786/google-family-link-update-parental-controls-location-alerts)
- - [Intel Raptor Lake Core i9-13900K and i5-13600K review: improved V/F curve and more efficiency cores compared to Alder Lake and highly competitive with AMD Zen 4 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/221020/p8#a221020p8)
- - [Consumer demand for smartphones will continue to fall into 2023](https://appleinsider.com/articles/22/10/20/consumer-demand-for-smartphones-will-continue-to-fall-into-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Google is practically begging Apple to adopt RCS, but still isn&#39;t all-in itself](https://appleinsider.com/articles/22/10/20/google-is-practically-begging-apple-to-adopt-rcs-but-still-isnt-all-in-itself?utm_medium=rss)
+ - [Amazon begins targeting fake review brokers in Europe, starting with Spain and Italy, where it has filed a criminal complaint against a &quot;high-profile&quot; broker &lpar;Reuters&rpar;](http://www.techmeme.com/221020/p10#a221020p10)
+ - [Apple Fitness+ for iPhone launches October 24 with Taylor Smith music](https://appleinsider.com/articles/22/10/20/apple-fitness-for-iphone-launches-october-24-with-taylor-smith-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
