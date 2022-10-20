@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Look, the Laurel and Hardy of Nvidia graphics card coolers](https://www.pcgamer.com/look-the-laurel-and-hardy-of-nvidia-graphics-card-coolers)
- - [An exclusive excerpt from Critical Role: The Mighty Nein - The Nine Eyes of Lucien](https://www.polygon.com/23411700/critical-role-book-excerpt-nine-eyes-of-lucien-audio-ebook)
- - [11 things you must know about Star Ocean: The Divine Force](https://blog.playstation.com/2022/10/20/11-things-you-must-know-about-star-ocean-the-divine-force/)<!-- GAME:END -->
+ - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)
+ - [Marvel Snap Is Probably The Best Digital Card Game Out There Right Now](https://kotaku.com/marvel-snap-review-hearthstone-ios-android-spider-man-1849679570)
+ - [Visit All Hallows’: The Land of Lost Dreams today](https://blog.playstation.com/2022/10/20/visit-all-hallows-the-land-of-lost-dreams-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
