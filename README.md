@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)
- - [Marvel Snap Is Probably The Best Digital Card Game Out There Right Now](https://kotaku.com/marvel-snap-review-hearthstone-ios-android-spider-man-1849679570)
- - [Visit All Hallows’: The Land of Lost Dreams today](https://blog.playstation.com/2022/10/20/visit-all-hallows-the-land-of-lost-dreams-today/)<!-- GAME:END -->
+ - [Clean A Demon&#39;s Sex Toys In This Punk Slice-Of-Life Game](https://kotaku.com/dead-pets-unleashed-demons-narrative-sex-toy-steam-demo-1849681548)
+ - [Gotham Knights Sounds Like A Big Disappointment](https://kotaku.com/gotham-knights-reviews-batman-arkham-ps5-framerate-1849681602)
+ - [Free Play Days – F1 22, Rogue Lords, and Journey to the Savage Planet](https://news.xbox.com/en-us/2022/10/20/free-play-days-f1-22-rogue-lords-and-journey-to-the-savage-planet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
