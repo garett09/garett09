@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
- - 🚯 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
- - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)<!-- MEMES:END -->
+ - 🚖 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
+ - 🚯 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)
+ - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)<!-- MEMES:END -->
 
 --- 
 
