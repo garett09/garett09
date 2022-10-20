@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 things you should know before starting Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23404977/sparks-characters-beginners-tips-side-quests)
- - [Gotham Knights: basic Batfamily action](https://www.polygon.com/reviews/23413637/gotham-knights-review-batman-platforms-release-date-characters-30-fps)
- - [New Tales From the Borderlands is too impatient](https://www.polygon.com/reviews/23413588/new-tales-from-the-borderlands-review-release-date-episodes-platforms-gearbox)<!-- GAME:END -->
+ - [Modders figured out how to keep playing the Street Fighter 6 beta, so Capcom removed the game](https://www.pcgamer.com/modders-figured-out-how-to-keep-playing-the-street-fighter-6-beta-so-capcom-removed-the-game)
+ - [BenQ X3000i gaming projector](https://www.pcgamer.com/benq-x3000i-gaming-projector-review)
+ - [9 things you should know before starting Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23404977/sparks-characters-beginners-tips-side-quests)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
