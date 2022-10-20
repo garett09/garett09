@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When a Houseplant Obsession Becomes a Nightmare](https://www.wired.com/story/nightmare-houseplant-obsession-nepenthes/)
- - [A Clever Way to Map the Moon’s Surface—Using Shadows](https://www.wired.com/story/mapping-moon-shadows/)
- - [John Carpenter Is Finally Happy—and Making Music](https://www.wired.com/story/john-carpenter-q-and-a-halloween-ends/)<!-- TECH:END -->
+ - [Google Pixel team burns Apple on Twitter -- from an iPhone](https://appleinsider.com/articles/22/10/20/google-pixel-team-burns-apple-on-twitter----from-an-iphone?utm_medium=rss)
+ - [Google Pixel Watch review: Laying the foundation](https://www.androidauthority.com/google-pixel-watch-review-3220973/)
+ - [Banyan, whose network of item-level purchase data helps customers automate expense management, has raised a $43M Series A, $28M in equity and $15M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221020/p6#a221020p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
