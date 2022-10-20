@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to customers, YouTube says it is raising the price of YouTube Premium family plan from $17.99 per month to $22.99 per month &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/221020/p25#a221020p25)
- - [GMC Sierra EV Denali revealed: plug-in-powered pickup goes premium](https://www.theverge.com/2022/10/20/23412119/gmc-sierra-ev-denali-electric-truck-specs-price-range)
- - [Specs arrive for the unofficial Essential Phone sequel, but is it worth $1,000?](https://www.androidauthority.com/saga-phone-specs-3222957/)<!-- TECH:END -->
+ - [Elon Musk reportedly wants to fire most of Twitter’s employees](https://www.theverge.com/2022/10/20/23415364/elon-musk-twitter-firing-staff)
+ - [Tesla is now taking votes for its next Supercharger locations](https://www.theverge.com/2022/10/20/23415159/tesla-supercharger-ev-fast-charging-stations-owners-vote-worldwide)
+ - [Google Is Making It Easier to Turn Off Targeted Ads     - CNET](https://www.cnet.com/tech/services-and-software/google-is-making-it-easier-to-turn-off-targeted-ads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
