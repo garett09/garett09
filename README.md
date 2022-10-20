@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An awkward moment](http://9gag.com/gag/aXnXMq9)
- - 🚯 [Woman crying hysterically on bus in Russia over her soldier son, killed in battle in Ukraine. She curses the Ukrainian people, calling them all types of profanities. Apparently, blaming the man who started the war a never crosses her mind.](http://9gag.com/gag/a9qPvmZ)
- - 🚯 [When you inherit your grandfather\u2019s truck you get it as clean as a whistle](http://9gag.com/gag/aGERERz)<!-- MEMES:END -->
+ - 🚖 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)
+ - 🚯 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)
+ - 🚯 [Girls on tinder](http://9gag.com/gag/ay2n3Lp)<!-- MEMES:END -->
 
 --- 
 
