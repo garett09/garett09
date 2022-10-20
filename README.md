@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s first double XP weekend starts tomorrow but it may not help as much as you hope](https://www.pcgamer.com/overwatch-2s-first-double-xp-weekend-starts-tomorrow-but-it-may-not-help-as-much-as-you-hope)
- - [Hans Niemann sues Magnus Carlsen, Chess.com for $100M](https://www.polygon.com/23415147/hans-niemann-sues-magnus-carlsen-100-million-chess-com)
- - [Activision&#39;s Newest Exec Has Decided To Post Through It](https://kotaku.com/call-duty-mwii-activision-union-busting-lulu-meservey-1849684203)<!-- GAME:END -->
+ - [Resident Evil 4&#39;s remake retreads old ground in style, but feels too familiar](https://www.pcgamer.com/resident-evil-4s-remake-retreads-old-ground-in-style-but-feels-too-familiar)
+ - [Capcom answers 5 big questions about Resident Evil 4 Remake](https://www.pcgamer.com/capcom-answers-5-big-questions-about-resident-evil-4-remake)
+ - [Resident Evil 4 Remake is &#39;about the same&#39; length as original, says Capcom](https://www.pcgamer.com/resident-evil-4-remake-is-about-the-same-length-as-original-says-capcom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
