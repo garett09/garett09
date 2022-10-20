@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata Is A Great Time On Switch, Aside From The Hand Cramps](https://kotaku.com/nier-automata-end-of-yorha-nintendo-switch-review-2b-9s-1849683888)
- - [Alan Wake Remastered On Switch Looks Rough](https://kotaku.com/alan-wake-remastered-switch-release-framerate-bugs-1849683677)
- - [Take the Next Step this Season in Football Manager 2023, Available November 8](https://news.xbox.com/en-us/2022/10/20/take-the-next-step-this-season-in-football-manager-2023-available-november-8/)<!-- GAME:END -->
+ - [Overwatch 2&#39;s first double XP weekend starts tomorrow but it may not help as much as you hope](https://www.pcgamer.com/overwatch-2s-first-double-xp-weekend-starts-tomorrow-but-it-may-not-help-as-much-as-you-hope)
+ - [Hans Niemann sues Magnus Carlsen, Chess.com for $100M](https://www.polygon.com/23415147/hans-niemann-sues-magnus-carlsen-100-million-chess-com)
+ - [Activision&#39;s Newest Exec Has Decided To Post Through It](https://kotaku.com/call-duty-mwii-activision-union-busting-lulu-meservey-1849684203)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
