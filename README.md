@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What a gross family](http://9gag.com/gag/aGERyd7)
- - 🚯 [Op likes tities](http://9gag.com/gag/ap9BRYM)
- - 🚯 [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)<!-- MEMES:END -->
+ - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
+ - 🚯 [An awkward moment](http://9gag.com/gag/aXnXMq9)<!-- MEMES:END -->
 
 --- 
 
