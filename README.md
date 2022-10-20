@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk reportedly wants to fire most of Twitter’s employees](https://www.theverge.com/2022/10/20/23415364/elon-musk-twitter-firing-staff)
- - [Tesla is now taking votes for its next Supercharger locations](https://www.theverge.com/2022/10/20/23415159/tesla-supercharger-ev-fast-charging-stations-owners-vote-worldwide)
- - [Google Is Making It Easier to Turn Off Targeted Ads     - CNET](https://www.cnet.com/tech/services-and-software/google-is-making-it-easier-to-turn-off-targeted-ads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft publishes a Windows Subsystem for Android roadmap including Android 13, file transfer support, picture-in-picture, and local network access &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/221020/p28#a221020p28)
+ - [Arlo is now protecting residents when they leave their residence](https://www.theverge.com/2022/10/20/23414379/arlo-safe-family-safety-app-service-crash-detection-location-alerts)
+ - [The Glow is gone — Amazon shuts down support for its kid-focused video calling device](https://www.theverge.com/2022/10/20/23415167/amazon-glow-support-discontinued-refund)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
