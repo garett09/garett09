@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s Ofcom publishes a report on its first year regulating video sharing platforms, detailing how TikTok, Twitch, OnlyFans, and others tackle content challenges &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/221020/p17#a221020p17)
- - [How to make green bubbles easier to read on iPhone](https://www.theverge.com/23409080/iphone-green-text-messages-bubbles-easier-read-how-to)
- - [Microsoft making Xbox mobile game store to challenge Apple&#39;s iPhone control](https://appleinsider.com/articles/22/10/20/microsoft-making-xbox-mobile-game-store-to-challenge-apples-iphone-control?utm_medium=rss)<!-- TECH:END -->
+ - [Biden group casts Dark Brandon in student debt relief ad](https://www.theverge.com/2022/10/20/23414792/biden-dark-brandon-building-back-together-student-relief-debt-aid-midterms)
+ - [macOS Ventura gets second Release Candidate beta](https://appleinsider.com/articles/22/10/20/macos-ventura-gets-second-release-candidate-beta?utm_medium=rss)
+ - [Google is getting sued again, but this suit could set a concerning precedent](https://www.androidauthority.com/google-lawsuit-texas-3222837/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
