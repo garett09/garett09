@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders figured out how to keep playing the Street Fighter 6 beta, so Capcom removed the game](https://www.pcgamer.com/modders-figured-out-how-to-keep-playing-the-street-fighter-6-beta-so-capcom-removed-the-game)
- - [BenQ X3000i gaming projector](https://www.pcgamer.com/benq-x3000i-gaming-projector-review)
- - [9 things you should know before starting Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23404977/sparks-characters-beginners-tips-side-quests)<!-- GAME:END -->
+ - [Look, the Laurel and Hardy of Nvidia graphics card coolers](https://www.pcgamer.com/look-the-laurel-and-hardy-of-nvidia-graphics-card-coolers)
+ - [An exclusive excerpt from Critical Role: The Mighty Nein - The Nine Eyes of Lucien](https://www.polygon.com/23411700/critical-role-book-excerpt-nine-eyes-of-lucien-audio-ebook)
+ - [11 things you must know about Star Ocean: The Divine Force](https://blog.playstation.com/2022/10/20/11-things-you-must-know-about-star-ocean-the-divine-force/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
