@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 7T series updates: Oxygen OS 12 with October 2022 patch arriving now](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)
- - [Google’s new ad hub offers more control over the advertising it shows you](https://www.theverge.com/2022/10/20/23414435/google-my-ad-center-personalization-advertising-tracking)
- - [Snap adds new features to its $4/month Snapchat+ subscription app, including &quot;Story Expiration&quot; controls, custom notification sounds, and camera color borders &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/221020/p14#a221020p14)<!-- TECH:END -->
+ - [UK&#39;s Ofcom publishes a report on its first year regulating video sharing platforms, detailing how TikTok, Twitch, OnlyFans, and others tackle content challenges &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/221020/p17#a221020p17)
+ - [How to make green bubbles easier to read on iPhone](https://www.theverge.com/23409080/iphone-green-text-messages-bubbles-easier-read-how-to)
+ - [Microsoft making Xbox mobile game store to challenge Apple&#39;s iPhone control](https://appleinsider.com/articles/22/10/20/microsoft-making-xbox-mobile-game-store-to-challenge-apples-iphone-control?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
