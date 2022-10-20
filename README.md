@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a gross family](http://9gag.com/gag/aGERyd7)
- - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
- - 🚯 [An awkward moment](http://9gag.com/gag/aXnXMq9)<!-- MEMES:END -->
+ - 🚖 [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
+ - 🚯 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
+ - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)<!-- MEMES:END -->
 
 --- 
 
