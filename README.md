@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout London Cuts Zombie Queen Elizabeth, Prince Charles](https://kotaku.com/fallout-london-mod-queen-charles-king-queen-cut-remove-1849679533)
- - [Flat Eye plays around with AI, cloning, and future tech while you work at a gas station](https://www.pcgamer.com/flat-eye-plays-around-with-ai-cloning-and-future-tech-while-you-work-at-a-gas-station)
- - [Minecraft&#39;s new camels are already here in a new beta build](https://www.pcgamer.com/minecraft-120-first-snapshot-build-camels)<!-- GAME:END -->
+ - [The Silent Hill 2 remake has a Steam page, and some steep system requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)
+ - [And Now For A Very Different Kind Of Cosplay Gallery](https://kotaku.com/nycc-comic-con-cosplay-photos-photographer-gallery-1849675314)
+ - [Klay Thompson Apologizes To NBA 2K23&#39;s Marketing Guy For His &#39;Super Lame&#39;, &#39;Loser Behaviour&#39;](https://kotaku.com/klay-thompson-ronnie-2k-apology-rating-espn-nba-2k23-1849679690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
