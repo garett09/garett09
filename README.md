@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)
- - 🚯 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)
- - 🚯 [Girls on tinder](http://9gag.com/gag/ay2n3Lp)<!-- MEMES:END -->
+ - 🚖 [This is gold](http://9gag.com/gag/a2Kqvnp)
+ - 🚯 [Woman crying hysterically on bus in Russia over her soldier son, killed in battle in Ukraine. She curses the Ukrainian people, calling them all types of profanities. Apparently, blaming the man who started the war a never crosses her mind.](http://9gag.com/gag/a9qPvmZ)
+ - 🚯 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)<!-- MEMES:END -->
 
 --- 
 
