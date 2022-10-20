@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Op likes tities](http://9gag.com/gag/ap9BRYM)
- - 🚯 [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
- - 🚯 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)<!-- MEMES:END -->
+ - 🚖 [Rip bro](http://9gag.com/gag/axoGMAb)
+ - 🚯 [An awkward moment](http://9gag.com/gag/aXnXMq9)
+ - 🚯 [Best football play of the year](http://9gag.com/gag/agoNg01)<!-- MEMES:END -->
 
 --- 
 
