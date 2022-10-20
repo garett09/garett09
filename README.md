@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)
- - 🚯 [T&#39;is the holiest of weekdays: Wednesday...](http://9gag.com/gag/aA0p6d2)
- - 🚯 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)<!-- MEMES:END -->
+ - 🚖 [Passive income hack](http://9gag.com/gag/avQLvyX)
+ - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
+ - 🚯 [Ripoff or inspiration?](http://9gag.com/gag/adPp2dM)<!-- MEMES:END -->
 
 --- 
 
