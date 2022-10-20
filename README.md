@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech companies added fertility features just in time for the culture war](https://www.theverge.com/2022/10/20/23414856/fertility-tracking-abortion-right-wing-apple-birth-control)
- - [&#39;Underrated&#39; on Apple TV+ tells NBA star Stephen Curry&#39;s story](https://appleinsider.com/articles/22/10/20/underrated-on-apple-tv-tells-nba-star-stephen-currys-story?utm_medium=rss)
- - [Just $599.99 for the Toshiba 75-inch Class M550, and many more 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
+ - [Google’s attempt to throw shade at Tim Cook didn’t go as well as planned](https://www.androidauthority.com/google-tim-cook-3222917/)
+ - [Snapchat Plus subscribers can now set their stories to run for an entire week](https://www.theverge.com/2022/10/20/23414867/snapchat-plus-new-features-subscription-announced)
+ - [LinkedIn bot battle wipes 50% of Apple employee accounts](https://appleinsider.com/articles/22/10/20/linkedin-bot-battle-wipes-50-of-apple-employee-accounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
