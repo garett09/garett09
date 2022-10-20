@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Passive income hack](http://9gag.com/gag/avQLvyX)
- - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
- - 🚯 [Ripoff or inspiration?](http://9gag.com/gag/adPp2dM)<!-- MEMES:END -->
+ - 🚖 [What a gross family](http://9gag.com/gag/aGERyd7)
+ - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)
+ - 🚯 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)<!-- MEMES:END -->
 
 --- 
 
