@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Triple kill](http://9gag.com/gag/aVbX2O2)
- - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)
- - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)<!-- MEMES:END -->
+ - 🚖 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
+ - 🚯 [Migrants force their way into `Hotel de Ville` in Paris, demanding accommodation](http://9gag.com/gag/ay2nNYb)
+ - 🚯 [Battle of the flags](http://9gag.com/gag/aOxme4E)<!-- MEMES:END -->
 
 --- 
 
