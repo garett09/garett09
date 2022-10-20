@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
- - 🚯 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)
- - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)<!-- MEMES:END -->
+ - 🚖 [Girls on tinder](http://9gag.com/gag/ay2n3Lp)
+ - 🚯 [An All Time Classic](http://9gag.com/gag/aBdryeP)
+ - 🚯 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)<!-- MEMES:END -->
 
 --- 
 
