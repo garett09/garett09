@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is practically begging Apple to adopt RCS, but still isn&#39;t all-in itself](https://appleinsider.com/articles/22/10/20/google-is-practically-begging-apple-to-adopt-rcs-but-still-isnt-all-in-itself?utm_medium=rss)
- - [Amazon begins targeting fake review brokers in Europe, starting with Spain and Italy, where it has filed a criminal complaint against a &quot;high-profile&quot; broker &lpar;Reuters&rpar;](http://www.techmeme.com/221020/p10#a221020p10)
- - [Apple Fitness+ for iPhone launches October 24 with Taylor Smith music](https://appleinsider.com/articles/22/10/20/apple-fitness-for-iphone-launches-october-24-with-taylor-smith-music?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 7T series updates: Oxygen OS 12 with October 2022 patch arriving now](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)
+ - [Google’s new ad hub offers more control over the advertising it shows you](https://www.theverge.com/2022/10/20/23414435/google-my-ad-center-personalization-advertising-tracking)
+ - [Snap adds new features to its $4/month Snapchat+ subscription app, including &quot;Story Expiration&quot; controls, custom notification sounds, and camera color borders &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/221020/p14#a221020p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
