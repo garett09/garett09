@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nope will stream exclusively on Peacock in November](https://www.polygon.com/23414916/nope-streaming-date-peacock-november)
- - [Unravel Park Story’s Spooky Tale Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/10/20/unravel-park-storys-spooky-tale-now-on-xbox-one-and-xbox-series-xs/)
- - [Microsoft&#39;s latest Activision acquisition defense: What if Call of Duty sucked?](https://www.pcgamer.com/microsofts-latest-activision-acquisition-defense-what-if-call-of-duty-sucked)<!-- GAME:END -->
+ - [How to find ‘rich soil’ in Disney Dreamlight Valley](https://www.polygon.com/guides/23414799/disney-dreamlight-valley-rich-soil-where-to-find)
+ - [Halloween Update for World of Warships: Legends Brings a Batch of Themed Content](https://news.xbox.com/en-us/2022/10/20/halloween-update-for-world-of-warships-legends-brings-a-batch-of-themed-content/)
+ - [Bungie eyes reboot of Mac shooter Marathon, report says](https://www.polygon.com/23414982/bungie-marathon-reboot-report-rumor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
