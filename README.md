@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is this?](http://9gag.com/gag/abvb1Ev)
- - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
- - 🚯 [He got denied at marriageproposal. She got raped and pushed down a 24meter hole, left to die. Accidently found alive. Now sentenced to life in prison, and deportation for life afterwards.](http://9gag.com/gag/aOxmj42)<!-- MEMES:END -->
+ - 🚖 [Well Man&#39;s gotta what Men&#39;s gotta do](http://9gag.com/gag/aKEBpWZ)
+ - 🚯 [\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/axoGmNn)
+ - 🚯 [True Heroes.](http://9gag.com/gag/axoGmWL)<!-- MEMES:END -->
 
 --- 
 
