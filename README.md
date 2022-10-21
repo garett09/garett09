@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Retarded country much?](http://9gag.com/gag/aDYmNmw)
- - 🚯 [Valentino Rossin\u2019t](http://9gag.com/gag/anzB8Qo)
- - 🚯 [Trying to hold the belt.](http://9gag.com/gag/aNwK23b)<!-- MEMES:END -->
+ - 🚖 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
+ - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
+ - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)<!-- MEMES:END -->
 
 --- 
 
