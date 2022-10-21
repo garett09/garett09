@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
- - 🚯 [Migrants force their way into `Hotel de Ville` in Paris, demanding accommodation](http://9gag.com/gag/ay2nNYb)
- - 🚯 [Battle of the flags](http://9gag.com/gag/aOxme4E)<!-- MEMES:END -->
+ - 🚖 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)
+ - 🚯 [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)
+ - 🚯 [This is gold](http://9gag.com/gag/a2Kqvnp)<!-- MEMES:END -->
 
 --- 
 
