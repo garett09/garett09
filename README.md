@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft publishes a Windows Subsystem for Android roadmap including Android 13, file transfer support, picture-in-picture, and local network access &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/221020/p28#a221020p28)
- - [Arlo is now protecting residents when they leave their residence](https://www.theverge.com/2022/10/20/23414379/arlo-safe-family-safety-app-service-crash-detection-location-alerts)
- - [The Glow is gone — Amazon shuts down support for its kid-focused video calling device](https://www.theverge.com/2022/10/20/23415167/amazon-glow-support-discontinued-refund)<!-- TECH:END -->
+ - [Sources: Instacart is pulling its plans to go public in 2022; the company confidentially filed for an IPO earlier this year &lpar;New York Times&rpar;](http://www.techmeme.com/221020/p30#a221020p30)
+ - [Verizon Drops Prepaid Plan Prices Ahead of Earnings     - CNET](https://www.cnet.com/tech/mobile/verizon-drops-prepaid-plan-prices-ahead-of-earnings/#ftag=CAD590a51e)
+ - [YouTube Premium Family Plan gets a big price hike](https://appleinsider.com/articles/22/10/21/youtube-premium-family-plan-gets-a-big-price-hike?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
