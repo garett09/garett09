@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upgraded Apple Mac mini with 16GB RAM, 512GB SSD is on sale for $999, in stock](https://appleinsider.com/articles/22/10/21/this-upgraded-apple-mac-mini-with-16gb-ram-512gb-ssd-is-on-sale-for-999-in-stock?utm_medium=rss)
- - [Researchers submitted 20 ads with &quot;blatant&quot; voting misinfo and TikTok approved 90% of them, Facebook approved a &quot;significant number&quot;, YouTube approved none &lpar;Jennifer Korn/CNN&rpar;](http://www.techmeme.com/221021/p6#a221021p6)
- - [‘Poster Girl’ Explores the Surveillance State’s Allure](https://www.wired.com/2022/10/geeks-guide-poster-girl/)<!-- TECH:END -->
+ - [How to organize your Slack channels](https://www.theverge.com/23411393/slack-channels-organize-how-to)
+ - [Google’s Pixel Buds Pro and select Nest products are $50 off today at Wellbots](https://www.theverge.com/2022/10/21/23414935/google-pixel-buds-pro-nest-apple-tv-playstation-xbox-deal-sale)
+ - [Pre-order the silver OnePlus Buds Pro at 33% off, and more headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
