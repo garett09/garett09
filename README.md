@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill Fans Try To Decipher Hidden Message In Creepy Trailer](https://kotaku.com/silent-hill-townfall-hidden-secret-konami-annapurna-1849688050)
- - [One Of Bayonetta 3&#39;s New Magical Powers Transforms Her Into...A Train](https://kotaku.com/bayonetta-3-train-transformation-masquerade-boycott-1849687891)
- - [Hit the Ice with EA Play and a 10-Hour Trial of NHL 23](https://news.xbox.com/en-us/2022/10/21/hit-the-ice-with-ea-play-and-a-10-hour-trial-of-nhl-23/)<!-- GAME:END -->
+ - [Andor’s absolute banger of a club track is a gift to all of us](https://www.polygon.com/star-wars/23416750/andor-song-edm-niamos-music-nicholas-brittell)
+ - [14 Best Steam Deck Games Of 2022](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)
+ - [The Banshees of Inisherin is 2022’s funniest, darkest comedy](https://www.polygon.com/reviews/23414840/the-banshees-of-inisherin-review-brendan-gleeson-colin-farrell-in-bruges)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
