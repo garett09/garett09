@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)
- - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
+ - 🚖 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a3ZLx1r)
+ - 🚯 [Rough life? hope this will make a little bit lighter.](http://9gag.com/gag/awZ7eN1)
+ - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)<!-- MEMES:END -->
 
 --- 
 
