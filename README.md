@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct 21: $100 2021 Apple TV 4K, refurb iMac Pro for $1429, 35% off Apple Magic Trackpads, more](https://appleinsider.com/articles/22/10/21/daily-deals-oct-21-100-2021-apple-tv-4k-refurb-imac-pro-for-1429-35-off-apple-magic-trackpads-more?utm_medium=rss)
- - [With good iPhone earnings expected, analysts turn to holiday quarter](https://appleinsider.com/articles/22/10/21/with-good-iphone-earnings-expected-analysts-turn-to-holiday-quarter?utm_medium=rss)
- - [Wikipedia’s mobile app is the cure for my Google frustrations](https://www.theverge.com/23416056/wikipedia-app-vs-google-mobile-search)<!-- TECH:END -->
+ - [Apple’s lead hardware designer Evans Hankey is leaving](https://www.theverge.com/2022/10/21/23416334/apple-evans-hankey-industrial-design-leaving)
+ - [Price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)
+ - [Apple&#39;s replacement for Jony Ive is leaving the company](https://appleinsider.com/articles/22/10/21/apples-replacement-for-jony-ive-is-leaving-the-company?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
