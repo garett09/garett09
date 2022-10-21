@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple files &#39;retaliatory&#39; suits against firm trying to ban Apple Watch [u]](https://appleinsider.com/articles/22/10/21/apple-files-retaliatory-suits-against-firm-trying-to-ban-apple-watch?utm_medium=rss)
- - [Beware the Distraction of the Twitter Mob Campaign](https://www.wired.com/story/hellena-taylor-bayonnetta-social-media/)
- - [The ‘M3GAN’ Dance Meme: Vicious Dolls Could Dominate 2023](https://www.wired.com/story/m3gan-meme-twitter-tiktok-beyonce-megan-thee-stallion/)<!-- TECH:END -->
+ - [Daily deals Oct 21: $100 2021 Apple TV 4K, refurb iMac Pro for $1429, 35% off Apple Magic Trackpads, more](https://appleinsider.com/articles/22/10/21/daily-deals-oct-21-100-2021-apple-tv-4k-refurb-imac-pro-for-1429-35-off-apple-magic-trackpads-more?utm_medium=rss)
+ - [With good iPhone earnings expected, analysts turn to holiday quarter](https://appleinsider.com/articles/22/10/21/with-good-iphone-earnings-expected-analysts-turn-to-holiday-quarter?utm_medium=rss)
+ - [Wikipedia’s mobile app is the cure for my Google frustrations](https://www.theverge.com/23416056/wikipedia-app-vs-google-mobile-search)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
