@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)
- - 🚯 [Instant red](http://9gag.com/gag/aqe2WXM)
- - 🚯 [What is this?](http://9gag.com/gag/abvb1Ev)<!-- MEMES:END -->
+ - 🚖 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - 🚯 [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
+ - 🚯 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)<!-- MEMES:END -->
 
 --- 
 
