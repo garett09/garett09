@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the windmill puzzle in A Plague Tale: Requiem](https://www.pcgamer.com/plague-tale-requiem-windmill-puzzle)
- - [Tencent shareholders drown their sorrows as Chinese tech crackdown makes it less valuable than a booze firm](https://www.pcgamer.com/tencent-shareholders-drown-their-sorrows-as-chinese-tech-crackdown-makes-it-less-valuable-than-a-booze-firm)
- - [Black Adam isn’t nearly as subversive as it’s meant to be](https://www.polygon.com/reviews/23414843/black-adam-review-dwayne-johnson-hawkman-doctor-fate)<!-- GAME:END -->
+ - [Two classic Mario games are headed to Nintendo Switch Online](https://www.polygon.com/nintendo/23416155/mario-party-64-nintendo-switch-online)
+ - [Persona 5 Royal darts answers and minigame guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23414536/darts-answers-replies-akechi-tips-baton-pass-rank)
+ - [Persona 5 Royal Jose stamp farming guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23401081/jose-stamp-farming-mementos-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
