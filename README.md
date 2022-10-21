@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climeworks closes a chapter in early carbon removal tech](https://www.theverge.com/2022/10/20/23414385/climeworks-carbon-removal-direct-air-capture-plant-capricorn-hinwil-switzerland)
- - [Sources: Google is in talks to invest $200M+ into Toronto-based Cohere, which has raised $170M+ to let companies add NLP to chatbots and other tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p10#a221021p10)
- - [See NASA Test a Wild Way to Crash Land on Mars on Purpose     - CNET](https://www.cnet.com/science/space/see-nasa-test-a-wild-way-to-crash-land-on-mars-on-purpose/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s Twitter deal could tank the leveraged buyout market](https://www.theverge.com/2022/10/21/23417121/elon-musk-banks-barclays-bank-of-america-morgan-stanley-lbo)
+ - [NASA Chooses Team for UFO Study     - CNET](https://www.cnet.com/science/space/nasa-chooses-team-for-ufo-study/#ftag=CAD590a51e)
+ - [House of the Dragon’s season finale has leaked online, and HBO isn’t happy](https://www.theverge.com/2022/10/21/23417077/house-of-the-dragon-season-finale-episode-leaked-pirated-hbo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
