@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hardline Babushka](http://9gag.com/gag/a9qPVzD)
- - 🚯 [Useful Survival tips](http://9gag.com/gag/aA0p6ME)
- - 🚯 [UK now is a joke](http://9gag.com/gag/abvbEq8)<!-- MEMES:END -->
+ - 🚖 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - 🚯 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)
+ - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
 
 --- 
 
