@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 24 to 28](https://news.xbox.com/en-us/2022/10/21/next-week-on-xbox-new-games-for-october-24-to-28/)
- - [Two classic Mario games are headed to Nintendo Switch Online](https://www.polygon.com/nintendo/23416155/mario-party-64-nintendo-switch-online)
- - [Persona 5 Royal darts answers and minigame guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23414536/darts-answers-replies-akechi-tips-baton-pass-rank)<!-- GAME:END -->
+ - [The Rings of Power’s first season loved secrets more than stories](https://www.polygon.com/23414847/rings-power-season-1-review)
+ - [Microsoft says a Sony deal with Activision stops Call of Duty coming to Game Pass](https://www.pcgamer.com/microsoft-says-a-sony-deal-with-activision-stops-call-of-duty-coming-to-game-pass)
+ - [PUBG: Battlegrounds  – Halloween Collaboration with Dead by Daylight](https://news.xbox.com/en-us/2022/10/21/pubg-battlegrounds-halloween-collaboration-with-dead-by-daylight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
