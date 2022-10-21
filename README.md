@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What does it mean](http://9gag.com/gag/armR8e0)
- - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - 🚯 [He got denied at marriageproposal. She got raped and pushed down a 24meter hole, left to die. Accidently found alive. Now sentenced to life in prison, and deportation for life afterwards.](http://9gag.com/gag/aOxmj42)<!-- MEMES:END -->
+ - 🚖 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
+ - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
 
 --- 
 
