@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
- - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)
- - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
+ - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 🚯 [Wandering around in Japan and meeting cute girls be like...](http://9gag.com/gag/a6qLnMA)
+ - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)<!-- MEMES:END -->
 
 --- 
 
