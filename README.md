@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot Games pays tribute to young Valorant fan who died of cancer by giving away a unique gun buddy](https://www.pcgamer.com/riot-games-pays-tribute-to-young-valorant-fan-who-died-of-cancer-by-giving-away-a-unique-gun-buddy)
- - [Overwatch 2&#39;s Lack Of Support Players Is Racking Up Wait Times, Fans Say](https://kotaku.com/overwatch-queue-times-kiriko-support-blizzard-twitter-1849689046)
- - [NASA creates real-life XCOM squad](https://www.pcgamer.com/nasa-creates-real-life-xcom-squad)<!-- GAME:END -->
+ - [Warm up for the World Series with this free baseball game full of animals](https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals)
+ - [Dragon Ball: The Breakers review](https://www.pcgamer.com/dragon-ball-the-breakers-review)
+ - [The Exorcist by way of the Commodore 64 just dropped on Steam](https://www.pcgamer.com/the-exorcist-by-way-of-the-commodore-64-just-dropped-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
