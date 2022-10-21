@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Instacart is pulling its plans to go public in 2022; the company confidentially filed for an IPO earlier this year &lpar;New York Times&rpar;](http://www.techmeme.com/221020/p30#a221020p30)
- - [Verizon Drops Prepaid Plan Prices Ahead of Earnings     - CNET](https://www.cnet.com/tech/mobile/verizon-drops-prepaid-plan-prices-ahead-of-earnings/#ftag=CAD590a51e)
- - [YouTube Premium Family Plan gets a big price hike](https://appleinsider.com/articles/22/10/21/youtube-premium-family-plan-gets-a-big-price-hike?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon quietly shuts Fabric.com, an online retailer of fabrics, trims, notions, and other supplies since the late 1990s before being acquired by Amazon in 2008 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221020/p35#a221020p35)
+ - [Sources: the Biden administration is considering subjecting some of Elon Musk&#39;s ventures, including the Twitter deal and Starlink, to national security reviews &lpar;Bloomberg&rpar;](http://www.techmeme.com/221020/p34#a221020p34)
+ - [Memo: Twitter told staff that there haven&#39;t been plans for companywide layoffs since it signed a deal with Elon Musk, and that it can&#39;t confirm Musk&#39;s plans &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221020/p33#a221020p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
