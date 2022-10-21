@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well Man&#39;s gotta what Men&#39;s gotta do](http://9gag.com/gag/aKEBpWZ)
- - 🚯 [\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/axoGmNn)
- - 🚯 [True Heroes.](http://9gag.com/gag/axoGmWL)<!-- MEMES:END -->
+ - 🚖 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
+ - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)
+ - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
 
 --- 
 
