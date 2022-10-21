@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4&#39;s remake retreads old ground in style, but feels too familiar](https://www.pcgamer.com/resident-evil-4s-remake-retreads-old-ground-in-style-but-feels-too-familiar)
- - [Capcom answers 5 big questions about Resident Evil 4 Remake](https://www.pcgamer.com/capcom-answers-5-big-questions-about-resident-evil-4-remake)
- - [Resident Evil 4 Remake is &#39;about the same&#39; length as original, says Capcom](https://www.pcgamer.com/resident-evil-4-remake-is-about-the-same-length-as-original-says-capcom)<!-- GAME:END -->
+ - [Silent Hill 2 remake &#39;rebuilding the combat&#39;, won&#39;t have fixed camera](https://www.pcgamer.com/silent-hill-2-remake-rebuilding-the-combat-wont-have-fixed-camera)
+ - [The best FPS games you can play right now](https://www.pcgamer.com/best-fps-games)
+ - [All The Changes We Spotted In The New Resident Evil 4 Remake Trailers](https://kotaku.com/resident-evil-4-remake-leon-ps5-xbox-gamestop-preorder-1849684821)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
