@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s Twitter deal could tank the leveraged buyout market](https://www.theverge.com/2022/10/21/23417121/elon-musk-banks-barclays-bank-of-america-morgan-stanley-lbo)
- - [NASA Chooses Team for UFO Study     - CNET](https://www.cnet.com/science/space/nasa-chooses-team-for-ufo-study/#ftag=CAD590a51e)
- - [House of the Dragon’s season finale has leaked online, and HBO isn’t happy](https://www.theverge.com/2022/10/21/23417077/house-of-the-dragon-season-finale-episode-leaked-pirated-hbo)<!-- TECH:END -->
+ - [Taylor Swift &#39;Midnights&#39; Album Already Breaks a Record     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-midnights-album-already-breaks-a-record/#ftag=CAD590a51e)
+ - [Apple Watch helps discover 12-year-old&#39;s rare cancer](https://appleinsider.com/articles/22/10/21/apple-watch-helps-discover-12-year-old-girls-rare-cancer?utm_medium=rss)
+ - [Belkin’s MagSafe Continuity Camera mount is an easy webcam upgrade](https://www.theverge.com/23416613/iphone-belkin-mount-magsafe-mac-notebooks-continuity-camera-review-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
