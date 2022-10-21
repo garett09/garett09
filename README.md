@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV 4K dips to $99 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/10/21/apple-tv-4k-dips-to-99-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)
  - [First EU, now India fines Google for abusing Android dominance](https://www.androidauthority.com/google-fine-india-android-3223167/)
- - [Elon Musk&#39;s Deals May Face National Security Reviews     - CNET](https://www.cnet.com/tech/elon-musks-deals-may-face-national-security-reviews/#ftag=CAD590a51e)
- - [Where to Stream Midnights: Taylor Swift&#39;s New Album Is Out Now     - CNET](https://www.cnet.com/culture/entertainment/countdown-to-midnights-where-to-stream-taylor-swifts-new-album/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Deals May Face National Security Reviews     - CNET](https://www.cnet.com/tech/elon-musks-deals-may-face-national-security-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
