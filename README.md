@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
- - 🚯 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)
- - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
+ - 🚖 [What is this?](http://9gag.com/gag/abvb1Ev)
+ - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - 🚯 [He got denied at marriageproposal. She got raped and pushed down a 24meter hole, left to die. Accidently found alive. Now sentenced to life in prison, and deportation for life afterwards.](http://9gag.com/gag/aOxmj42)<!-- MEMES:END -->
 
 --- 
 
