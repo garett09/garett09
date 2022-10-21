@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
- - 🚯 [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
- - 🚯 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)<!-- MEMES:END -->
+ - 🚖 [Hardline Babushka](http://9gag.com/gag/a9qPVzD)
+ - 🚯 [Useful Survival tips](http://9gag.com/gag/aA0p6ME)
+ - 🚯 [UK now is a joke](http://9gag.com/gag/abvbEq8)<!-- MEMES:END -->
 
 --- 
 
