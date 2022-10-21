@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slap dat ass](http://9gag.com/gag/a5XK5my)
- - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
- - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)<!-- MEMES:END -->
+ - 🚖 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)
+ - 🚯 [Instant red](http://9gag.com/gag/aqe2WXM)
+ - 🚯 [What is this?](http://9gag.com/gag/abvb1Ev)<!-- MEMES:END -->
 
 --- 
 
