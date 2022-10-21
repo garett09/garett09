@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a3ZLx1r)
- - 🚯 [Rough life? hope this will make a little bit lighter.](http://9gag.com/gag/awZ7eN1)
- - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)<!-- MEMES:END -->
+ - 🚖 [Retarded country much?](http://9gag.com/gag/aDYmNmw)
+ - 🚯 [Valentino Rossin\u2019t](http://9gag.com/gag/anzB8Qo)
+ - 🚯 [Trying to hold the belt.](http://9gag.com/gag/aNwK23b)<!-- MEMES:END -->
 
 --- 
 
