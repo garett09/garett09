@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
- - 🚯 [Triple kill](http://9gag.com/gag/aVbX2O2)
+ - 🚖 [Slap dat ass](http://9gag.com/gag/a5XK5my)
+ - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
  - 🚯 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)<!-- MEMES:END -->
 
 --- 
