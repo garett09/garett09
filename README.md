@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s PC Manager is like CCleaner for your computer](https://www.theverge.com/2022/10/21/23416070/microsoft-pc-manager-app-performance-systems-clean-up)
- - [Amazon hints at imminent Pixel 7a series launch, or does it?](https://www.androidauthority.com/amazon-google-pixel-7a-3223276/)
- - [Telegram will launch auctions for its usernames via TON blockchain, following a TON auction for wallet usernames, some of which sold for $200K+ &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221021/p3#a221021p3)<!-- TECH:END -->
+ - [Apple files &#39;retaliatory&#39; suits against firm trying to ban Apple Watch [u]](https://appleinsider.com/articles/22/10/21/apple-files-retaliatory-suits-against-firm-trying-to-ban-apple-watch?utm_medium=rss)
+ - [Beware the Distraction of the Twitter Mob Campaign](https://www.wired.com/story/hellena-taylor-bayonnetta-social-media/)
+ - [The ‘M3GAN’ Dance Meme: Vicious Dolls Could Dominate 2023](https://www.wired.com/story/m3gan-meme-twitter-tiktok-beyonce-megan-thee-stallion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
