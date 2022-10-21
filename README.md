@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about Gotham Knights’ multiplayer](https://www.polygon.com/guides/23415289/gotham-knights-multiplayer-co-op-cross-play)
- - [What each Gotham Knights character is best at](https://www.polygon.com/guides/23415238/gotham-knights-characters-batgirl-nightwing-red-hood-robin)
- - [How to unlock fast travel in Gotham Knights](https://www.polygon.com/guides/23415002/gotham-knights-fast-travel-how-to-unlock-lucius-fox)<!-- GAME:END -->
+ - [How to solve the windmill puzzle in A Plague Tale: Requiem](https://www.pcgamer.com/plague-tale-requiem-windmill-puzzle)
+ - [Tencent shareholders drown their sorrows as Chinese tech crackdown makes it less valuable than a booze firm](https://www.pcgamer.com/tencent-shareholders-drown-their-sorrows-as-chinese-tech-crackdown-makes-it-less-valuable-than-a-booze-firm)
+ - [Black Adam isn’t nearly as subversive as it’s meant to be](https://www.polygon.com/reviews/23414843/black-adam-review-dwayne-johnson-hawkman-doctor-fate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
