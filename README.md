@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gary Butcher said to be returning to Apple after AirBNB stint](https://appleinsider.com/articles/22/10/21/gary-butcher-said-to-be-returning-to-apple-after-airbnb-stint?utm_medium=rss)
- - [Level Lock+ review: Must-have HomeKit smart lock with Apple Home Key support](https://appleinsider.com/articles/22/10/21/level-lock-review-must-have-homekit-smart-lock-with-apple-home-key-support?utm_medium=rss)
- - [I hope someone makes memes out of these funny animal photos](https://www.theverge.com/2022/10/21/23416479/funny-animal-photo-contest-meme)<!-- TECH:END -->
+ - [New Android 13 QPR1 beta feature allows battery share to turn on automatically](https://www.androidauthority.com/battery-share-pixel-7-3223462/)
+ - [Source: Israeli cybersecurity company Cybereason, which is valued at $2.5B, is looking for a buyer after abandoning plans to go public earlier in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/221021/p8#a221021p8)
+ - [Negroni Sbagliato Gets Its Own &#39;House of the Dragon&#39; Google Easter Egg     - CNET](https://www.cnet.com/culture/entertainment/negroni-sbagliato-gets-its-own-house-of-the-dragon-google-easter-egg/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
