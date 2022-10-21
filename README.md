@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
- - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
- - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)<!-- MEMES:END -->
+ - 🚖 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)
+ - 🚯 [China be like...](http://9gag.com/gag/a6qL3WN)
+ - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
 
 --- 
 
