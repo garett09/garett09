@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)
- - 🚯 [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)
- - 🚯 [This is gold](http://9gag.com/gag/a2Kqvnp)<!-- MEMES:END -->
+ - 🚖 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
+ - 🚯 [Thousands of people attend a \u2018Birds Aren\u2019t Real\u2019 Protest in NYC](http://9gag.com/gag/aA0pQ3o)
+ - 🚯 [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)<!-- MEMES:END -->
 
 --- 
 
