@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The smartphone is an extension of the gaming PC, so use it like one](https://www.pcgamer.com/the-smartphone-is-an-extension-of-the-gaming-pc-so-use-it-like-one)
- - [Today&#39;s Wordle 489 answer and hint: Friday, October 21](https://www.pcgamer.com/todays-wordle-489-answer-hint)
- - [Bayonetta&#39;s Developers Issue Statement In Support Of Current Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-voice-actor-1849685358)<!-- GAME:END -->
+ - [Everything you need to know about Gotham Knights’ multiplayer](https://www.polygon.com/guides/23415289/gotham-knights-multiplayer-co-op-cross-play)
+ - [What each Gotham Knights character is best at](https://www.polygon.com/guides/23415238/gotham-knights-characters-batgirl-nightwing-red-hood-robin)
+ - [How to unlock fast travel in Gotham Knights](https://www.polygon.com/guides/23415002/gotham-knights-fast-travel-how-to-unlock-lucius-fox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
