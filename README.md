@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung HW-Q990B Review: The Best Dolby Atmos Soundbar](https://www.wired.com/review/samsung-hw-q990b/)
- - [Your Microsoft Exchange Server Is a Security Liability](https://www.wired.com/story/microsoft-exchange-server-vulnerabilities/)
- - [Ukraine Enters a Dark New Era of Drone Warfare](https://www.wired.com/story/russia-ukraine-drones-shahed-136-iran/)<!-- TECH:END -->
+ - [Microsoft’s PC Manager is like CCleaner for your computer](https://www.theverge.com/2022/10/21/23416070/microsoft-pc-manager-app-performance-systems-clean-up)
+ - [Amazon hints at imminent Pixel 7a series launch, or does it?](https://www.androidauthority.com/amazon-google-pixel-7a-3223276/)
+ - [Telegram will launch auctions for its usernames via TON blockchain, following a TON auction for wallet usernames, some of which sold for $200K+ &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221021/p3#a221021p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
