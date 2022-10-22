@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 22: $300 off Panasonic Lumix DC-GH5, $200 off Radeon RX 6950 XT, $218 50-inch TCL 4K TV, more](https://appleinsider.com/articles/22/10/22/daily-deals-oct-22-300-off-panasonic-lumix-dc-gh5-200-off-radeon-rx-6950-xt-218-50-inch-tcl-4k-tv-more?utm_medium=rss)
- - [Apple Watch helps discover 12-year-old&#39;s rare cancer](https://appleinsider.com/articles/22/10/21/apple-watch-helps-discover-12-year-old-girls-rare-cancer?utm_medium=rss)
- - [Brazil&#39;s elections chief gets unilateral power to order the removal of online posts ahead of October 30 election, in an aggressive move to combat misinformation &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/221022/p5#a221022p5)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-455-3223417/)
+ - [How to use Game Center on iPhone &amp; Mac](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-game-center-on-iphone-mac?utm_medium=rss)
+ - [Daily deals Oct. 22: $300 off Panasonic Lumix DC-GH5, $200 off Radeon RX 6950 XT, $218 50-inch TCL 4K TV, more](https://appleinsider.com/articles/22/10/22/daily-deals-oct-22-300-off-panasonic-lumix-dc-gh5-200-off-radeon-rx-6950-xt-218-50-inch-tcl-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
