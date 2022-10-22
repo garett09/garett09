@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max active noise cancellation pared down by newest firmware](https://appleinsider.com/articles/22/10/22/airpods-max-active-noise-cancellation-pared-down-by-newest-firmware?utm_medium=rss)
- - [MCU 2023 Calendar: What movies and Disney Plus TV shows are on the way?](https://www.androidauthority.com/mcu-2023-calendar-3222377/)
- - [In &#39;Synchronic,&#39; Time Travel Is Anything but Nostalgic](https://www.wired.com/2020/10/geeks-guide-synchronic/)<!-- TECH:END -->
+ - [Best Self-Cleaning Water Bottle for 2022     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
+ - [WhatsApp is getting Facebook’s Bitmoji-style avatars](https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars)
+ - [Apple&#39;s $100M Small Developer Assistance Fund starts paying out](https://appleinsider.com/articles/22/10/22/apples-100m-small-developer-assistance-fund-starts-paying-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
