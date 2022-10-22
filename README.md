@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Former Chinese leader Hu Jintao unexpectedly led out of room as Communist Party Congress comes to a close](http://9gag.com/gag/aKEBZog)
- - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
- - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
+ - 🚖 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
+ - 🚯 [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
+ - 🚯 [Come to the stage..will be fun..!!](http://9gag.com/gag/aBdrz0x)<!-- MEMES:END -->
 
 --- 
 
