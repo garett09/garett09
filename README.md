@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jerry Seinfeld refuses to hug Kesha](http://9gag.com/gag/armRdzy)
- - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
+ - 🚖 [He had me at first half not gonna lie](http://9gag.com/gag/aREVNZ5)
+ - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - 🚯 [If you choose anything but `him`/`her`, the application goes to trash. So in a way, it&#39;s good thing that we had to add this choice. Easier to filter out the retards.](http://9gag.com/gag/a8qjnv6)<!-- MEMES:END -->
 
 --- 
 
