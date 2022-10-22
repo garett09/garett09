@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Derry Girls’ hilarious new season has a lingering mystery: a Scorsese movie rental](https://www.polygon.com/23415278/derry-girls-season-3-netflix-sister-michael-scorsese-movie)
- - [&#39;80s adventure Onryō Senki took horror games in a slower, spookier, direction](https://www.pcgamer.com/80s-adventure-game-onry-senki-took-horror-gaming-in-a-slower-spookier-direction)
- - [New tech lets blind, visually impaired people play Trackmania](https://www.pcgamer.com/new-tech-lets-blind-visually-impaired-people-play-trackmania)<!-- GAME:END -->
+ - [Black Adam’s Hawkman knows how convoluted his character is, thank you](https://www.polygon.com/23413093/black-adam-hawkman-thanagar-aldis-hodge-interview)
+ - [Another one for the list of terrible adaptations—Aliens: A Comic Book Adventure](https://www.pcgamer.com/saturday-crapshoot-aliens-a-comic-book-adventure)
+ - [The adorably puzzly landscapes of Dorfromantik get some cherry blossoms](https://www.pcgamer.com/the-adorably-puzzly-landscapes-of-dorfromantik-get-some-cherry-blossoms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
