@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
- - 🚯 [Aww a cute robot couple with an apple.](http://9gag.com/gag/aPgGdLG)
- - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
+ - 🚖 [Triple kill](http://9gag.com/gag/aVbX2O2)
+ - 🚯 [In all modesty of course](http://9gag.com/gag/aeQpmnW)
+ - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
 
 --- 
 
