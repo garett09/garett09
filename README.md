@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several artists whose work was included in the dataset used to train Stable Diffusion say they are angry that they weren&#39;t informed, asked for consent, or paid &lpar;Rachel Metz/CNN&rpar;](http://www.techmeme.com/221022/p8#a221022p8)
  - [AirPods Max active noise cancellation pared down by newest firmware](https://appleinsider.com/articles/22/10/22/airpods-max-active-noise-cancellation-pared-down-by-newest-firmware?utm_medium=rss)
- - [Leak suggests Ecobee’s entering the video doorbell space](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)<!-- TECH:END -->
+ - [MCU 2023 Calendar: What movies and Disney Plus TV shows are on the way?](https://www.androidauthority.com/mcu-2023-calendar-3222377/)
+ - [In &#39;Synchronic,&#39; Time Travel Is Anything but Nostalgic](https://www.wired.com/2020/10/geeks-guide-synchronic/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
