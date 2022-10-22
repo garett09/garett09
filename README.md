@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Face massage machine](http://9gag.com/gag/aoKj7qe)
- - 🚯 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - 🚯 [What&#39;s your name](http://9gag.com/gag/aOxmNj6)<!-- MEMES:END -->
+ - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 🚯 [Disguises](http://9gag.com/gag/axoGKLD)
+ - 🚯 [Do it properly and don&#39;t forget to oven](http://9gag.com/gag/aZDNXZ3)<!-- MEMES:END -->
 
 --- 
 
