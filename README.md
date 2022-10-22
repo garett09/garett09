@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Teach me Sir Madalot](http://9gag.com/gag/a8qjzz6)
- - 🚯 [What&#39;s your name](http://9gag.com/gag/aOxmNj6)
- - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
+ - 🚖 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
+ - 🚯 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
+ - 🚯 [Face massage machine](http://9gag.com/gag/aoKj7qe)<!-- MEMES:END -->
 
 --- 
 
