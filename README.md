@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
- - 🚯 [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
- - 🚯 [Come to the stage..will be fun..!!](http://9gag.com/gag/aBdrz0x)<!-- MEMES:END -->
+ - 🚖 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
+ - 🚯 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
+ - 🚯 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)<!-- MEMES:END -->
 
 --- 
 
