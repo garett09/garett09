@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Terrifier 2 is a horror phenomenon thanks to Art the Clown](https://www.polygon.com/23416688/terrifier-2-art-the-clown-viral-breakout)
  - [One Piece Game&#39;s New Trailer Is Gonna Have Me Crying Over A Boat &lpar;Again&rpar;](https://kotaku.com/one-piece-odyssey-alabasta-trailer-jrpg-going-merry-1849689558)
- - [The best sci-fi movies on Netflix right now](https://www.polygon.com/what-to-watch/23411315/best-sci-fi-netflix-movies-watch-stream)
- - [Today&#39;s Wordle 490 answer and hint: Saturday, October 22](https://www.pcgamer.com/todays-wordle-490-answer-hint)<!-- GAME:END -->
+ - [The best sci-fi movies on Netflix right now](https://www.polygon.com/what-to-watch/23411315/best-sci-fi-netflix-movies-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
