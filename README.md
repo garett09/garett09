@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts: India&#39;s TikTok clones like Moj and Josh have failed to replicate TikTok&#39;s success, and Instagram and YouTube will take over India&#39;s short-video segment &lpar;Adnan Bhat/Rest of World&rpar;](http://www.techmeme.com/221022/p3#a221022p3)
- - [How Therapists Are Using Tabletop Games to Help People](https://www.wired.com/story/therapists-dungeons-dragons-tabletop-games-helping-people/)
- - [11 Best Deals: Laptops, Phones, and Pet Gear](https://www.wired.com/story/weekend-deals-october-22-2022/)<!-- TECH:END -->
+ - [The Weekly Authority: Pixel 7 payments pain](https://www.androidauthority.com/the-weekly-authority-october-22-2022-217-3222746/)
+ - [Daily deals Oct. 22: $300 off Panasonic Lumix DC-GH5, $200 off Radeon RX 6950 XT, $218 50-inch TCL 4K TV, more](https://appleinsider.com/articles/22/10/22/daily-deals-oct-22-300-off-panasonic-lumix-dc-gh5-200-off-radeon-rx-6950-xt-218-50-inch-tcl-4k-tv-more?utm_medium=rss)
+ - [A smart washing machine gave me a taste of a fully connected home](https://www.androidauthority.com/smart-washing-machine-3210850/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
