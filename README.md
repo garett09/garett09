@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - 🚯 [Amsterdam looks pretty realistic in the new Call of Duty Modern Warfare 2](http://9gag.com/gag/a3ZLeDN)
- - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)<!-- MEMES:END -->
+ - 🚖 [Former Chinese leader Hu Jintao unexpectedly led out of room as Communist Party Congress comes to a close](http://9gag.com/gag/aKEBZog)
+ - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
+ - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
 
 --- 
 
