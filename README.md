@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch CEO Emmett Shear says the US could use legislation to create &quot;a third option&quot; between contractors and employees to classify creators and gig workers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221021/p13#a221021p13)
- - [How to connect Bluetooth headphones to a Pixel Watch and jam while you run](https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/)
- - [The US government often waives its own stock trading rules, letting federal officials invest in Amazon, Apple, Meta, and others affected by their agencies&#39; work &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p12#a221021p12)<!-- TECH:END -->
+ - [The RNC sues Google for allegedly putting its campaign emails in Gmail spam; the RNC has been criticizing Google&#39;s pilot to keep campaign emails out of spam &lpar;Axios&rpar;](http://www.techmeme.com/221021/p16#a221021p16)
+ - [Reliance, the parent firm of India&#39;s largest mobile operator Jio, launches JioBook, a ~$190 4G-enabled laptop running a custom Android-based OS called JioOS &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221021/p15#a221021p15)
+ - [A profile of Stability AI founder and CEO Emad Mostaque, a British former hedge fund manager who has quickly become a polarizing figure within the AI community &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/221021/p14#a221021p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
