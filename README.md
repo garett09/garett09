@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brainnns! Here are our picks for the best zombie movies to stream right now](https://www.androidauthority.com/the-best-zombie-movies-3222776/)
- - [NASA&#39;s Webb Telescope Takes Sharpest &#39;Pillars of Creation&#39; Portrait Ever     - CNET](https://www.cnet.com/science/space/nasas-james-webb-telescope-takes-sharpest-pillars-of-creation-portrait-ever/#ftag=CAD590a51e)
- - [Get a Garmin Venu Sq Music Smartwatch for $135 With This 1-Day Deal     - CNET](https://www.cnet.com/deals/get-a-garmin-venu-sq-music-smartwatch-for-135-with-this-1-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak suggests Ecobee’s entering the video doorbell space](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)
+ - [Apple will expand ads to the App Store&#39;s main Today tab and &quot;You Might Also Like&quot; section of individual app listings, starting October 25 globally except China &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221022/p7#a221022p7)
+ - [Veterinarian Reveals the Four Cat Breeds He&#39;d Never Choose     - CNET](https://www.cnet.com/culture/veterinarian-reveals-the-four-cat-breeds-hed-never-choose/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
