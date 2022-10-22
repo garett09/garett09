@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
- - 🚯 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
+ - 🚖 [Come to the stage..will be fun..!!](http://9gag.com/gag/aBdrz0x)
+ - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
  - 🚯 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)<!-- MEMES:END -->
 
 --- 
