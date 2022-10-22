@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not Again!](http://9gag.com/gag/avQLVgZ)
- - 🚯 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
- - 🚯 [What was it all for?](http://9gag.com/gag/abvbLdb)<!-- MEMES:END -->
+ - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 🚯 [Checking my 10,5MB hard drive from 1984 - working](http://9gag.com/gag/aqe2xM7)
+ - 🚯 [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)<!-- MEMES:END -->
 
 --- 
 
