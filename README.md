@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak suggests Ecobee’s entering the video doorbell space](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)
- - [Apple will expand ads to the App Store&#39;s main Today tab and &quot;You Might Also Like&quot; section of individual app listings, starting October 25 globally except China &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221022/p7#a221022p7)
- - [Veterinarian Reveals the Four Cat Breeds He&#39;d Never Choose     - CNET](https://www.cnet.com/culture/veterinarian-reveals-the-four-cat-breeds-hed-never-choose/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Several artists whose work was included in the dataset used to train Stable Diffusion say they are angry that they weren&#39;t informed, asked for consent, or paid &lpar;Rachel Metz/CNN&rpar;](http://www.techmeme.com/221022/p8#a221022p8)
+ - [AirPods Max active noise cancellation pared down by newest firmware](https://appleinsider.com/articles/22/10/22/airpods-max-active-noise-cancellation-pared-down-by-newest-firmware?utm_medium=rss)
+ - [Leak suggests Ecobee’s entering the video doorbell space](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
