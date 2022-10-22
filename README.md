@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)
- - 🚯 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)<!-- MEMES:END -->
+ - 🚖 [Uno Reverse](http://9gag.com/gag/a6qLj88)
+ - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
+ - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
 
 --- 
 
