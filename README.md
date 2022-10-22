@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - 🚯 [Disguises](http://9gag.com/gag/axoGKLD)
- - 🚯 [Do it properly and don&#39;t forget to oven](http://9gag.com/gag/aZDNXZ3)<!-- MEMES:END -->
+ - 🚖 [Morena Baccarin](http://9gag.com/gag/ay2nVEp)
+ - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - 🚯 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)<!-- MEMES:END -->
 
 --- 
 
