@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
- - 🚯 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
+ - 🚖 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 🚯 [Jerry Seinfeld refuses to hug Kesha](http://9gag.com/gag/armRdzy)
  - 🚯 [Face massage machine](http://9gag.com/gag/aoKj7qe)<!-- MEMES:END -->
 
 --- 
