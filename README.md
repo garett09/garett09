@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: Pixel 7 payments pain](https://www.androidauthority.com/the-weekly-authority-october-22-2022-217-3222746/)
- - [Daily deals Oct. 22: $300 off Panasonic Lumix DC-GH5, $200 off Radeon RX 6950 XT, $218 50-inch TCL 4K TV, more](https://appleinsider.com/articles/22/10/22/daily-deals-oct-22-300-off-panasonic-lumix-dc-gh5-200-off-radeon-rx-6950-xt-218-50-inch-tcl-4k-tv-more?utm_medium=rss)
- - [A smart washing machine gave me a taste of a fully connected home](https://www.androidauthority.com/smart-washing-machine-3210850/)<!-- TECH:END -->
+ - [Google Pixel 7 buyer’s guide: Specs, pricing, availability, and more](https://www.androidauthority.com/google-pixel-7-specs-price-availability-3220594/)
+ - [TikTok’s Security Threat Comes Into Focus](https://www.wired.com/story/tiktok-bytedance-americans-data-security-roundup/)
+ - [6 Best Mesh Wi-Fi Routers &lpar;2022&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
