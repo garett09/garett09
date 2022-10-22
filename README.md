@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)
- - 🚯 [China be like...](http://9gag.com/gag/a6qL3WN)
- - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
+ - 🚖 [Not Again!](http://9gag.com/gag/avQLVgZ)
+ - 🚯 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
+ - 🚯 [What was it all for?](http://9gag.com/gag/abvbLdb)<!-- MEMES:END -->
 
 --- 
 
