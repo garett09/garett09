@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uno Reverse](http://9gag.com/gag/a6qLj88)
- - 🚯 [What does it mean](http://9gag.com/gag/armR8e0)
+ - 🚖 [Jerry Seinfeld refuses to hug Kesha](http://9gag.com/gag/armRdzy)
+ - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
  - 🚯 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
 
 --- 
