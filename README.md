@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-455-3223417/)
- - [How to use Game Center on iPhone &amp; Mac](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-game-center-on-iphone-mac?utm_medium=rss)
- - [Daily deals Oct. 22: $300 off Panasonic Lumix DC-GH5, $200 off Radeon RX 6950 XT, $218 50-inch TCL 4K TV, more](https://appleinsider.com/articles/22/10/22/daily-deals-oct-22-300-off-panasonic-lumix-dc-gh5-200-off-radeon-rx-6950-xt-218-50-inch-tcl-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Brainnns! Here are our picks for the best zombie movies to stream right now](https://www.androidauthority.com/the-best-zombie-movies-3222776/)
+ - [NASA&#39;s Webb Telescope Takes Sharpest &#39;Pillars of Creation&#39; Portrait Ever     - CNET](https://www.cnet.com/science/space/nasas-james-webb-telescope-takes-sharpest-pillars-of-creation-portrait-ever/#ftag=CAD590a51e)
+ - [Get a Garmin Venu Sq Music Smartwatch for $135 With This 1-Day Deal     - CNET](https://www.cnet.com/deals/get-a-garmin-venu-sq-music-smartwatch-for-135-with-this-1-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
