@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift &#39;Midnights&#39; Album Already Breaks a Record     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-midnights-album-already-breaks-a-record/#ftag=CAD590a51e)
- - [Apple Watch helps discover 12-year-old&#39;s rare cancer](https://appleinsider.com/articles/22/10/21/apple-watch-helps-discover-12-year-old-girls-rare-cancer?utm_medium=rss)
- - [Belkin’s MagSafe Continuity Camera mount is an easy webcam upgrade](https://www.theverge.com/23416613/iphone-belkin-mount-magsafe-mac-notebooks-continuity-camera-review-apple)<!-- TECH:END -->
+ - [Twitch CEO Emmett Shear says the US could use legislation to create &quot;a third option&quot; between contractors and employees to classify creators and gig workers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221021/p13#a221021p13)
+ - [How to connect Bluetooth headphones to a Pixel Watch and jam while you run](https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/)
+ - [The US government often waives its own stock trading rules, letting federal officials invest in Amazon, Apple, Meta, and others affected by their agencies&#39; work &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p12#a221021p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
