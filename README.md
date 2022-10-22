@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7 buyer’s guide: Specs, pricing, availability, and more](https://www.androidauthority.com/google-pixel-7-specs-price-availability-3220594/)
- - [TikTok’s Security Threat Comes Into Focus](https://www.wired.com/story/tiktok-bytedance-americans-data-security-roundup/)
- - [6 Best Mesh Wi-Fi Routers &lpar;2022&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [‘Poster Girl’ Explores the Surveillance State’s Allure](https://www.wired.com/2022/10/geeks-guide-poster-girl/)
+ - [Samsung Galaxy Watch 5 review: Fantastically familiar](https://www.androidauthority.com/samsung-galaxy-watch-5-review-3212798/)
+ - [7 Best Bike Locks &lpar;2022&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
