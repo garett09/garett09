@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still lake in Latvia](http://9gag.com/gag/aREVnNM)
- - 🚯 [Jimmy the GOAT](http://9gag.com/gag/a8qjX8Z)
- - 🚯 [*Coke enters the chat*](http://9gag.com/gag/aA0pjd0)<!-- MEMES:END -->
+ - 🚖 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
+ - 🚯 [Justice](http://9gag.com/gag/avQLjwb)
+ - 🚯 [Bro got Ultra Instinct but ping 900+....!!!!](http://9gag.com/gag/awZ7jPy)<!-- MEMES:END -->
 
 --- 
 
