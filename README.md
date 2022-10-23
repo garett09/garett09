@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool guy Uber driver](http://9gag.com/gag/anzBL4q)
- - 🚯 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
- - 🚯 [Not a muslim country anymore](http://9gag.com/gag/a1PMpYw)<!-- MEMES:END -->
+ - 🚖 [Justice](http://9gag.com/gag/avQLjwb)
+ - 🚯 [Not a muslim country anymore](http://9gag.com/gag/a1PMpYw)
+ - 🚯 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)<!-- MEMES:END -->
 
 --- 
 
