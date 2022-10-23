@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
- - 🚯 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
- - 🚯 [The posture required for speed-shooting from a holster](http://9gag.com/gag/a3ZLmAQ)<!-- MEMES:END -->
+ - 🚖 [Taking a piss](http://9gag.com/gag/aMEQoZ6)
+ - 🚯 [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
+ - 🚯 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)<!-- MEMES:END -->
 
 --- 
 
