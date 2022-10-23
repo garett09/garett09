@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
- - 🚯 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)
- - 🚯 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)<!-- MEMES:END -->
+ - 🚖 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - 🚯 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
+ - 🚯 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
 
 --- 
 
