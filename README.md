@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Morena Baccarin](http://9gag.com/gag/ay2nVEp)
- - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
- - 🚯 [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)<!-- MEMES:END -->
+ - 🚖 [Perfect Decoration](http://9gag.com/gag/avQL4Nq)
+ - 🚯 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
+ - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)<!-- MEMES:END -->
 
 --- 
 
