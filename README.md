@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
- - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
- - 🚯 [Get born into this world, commit triple infanticide and identity theft, success.](http://9gag.com/gag/axoGr7b)<!-- MEMES:END -->
+ - 🚖 [Still lake in Latvia](http://9gag.com/gag/aREVnNM)
+ - 🚯 [Jimmy the GOAT](http://9gag.com/gag/a8qjX8Z)
+ - 🚯 [*Coke enters the chat*](http://9gag.com/gag/aA0pjd0)<!-- MEMES:END -->
 
 --- 
 
