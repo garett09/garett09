@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balanced, as all things should be.](http://9gag.com/gag/axoGKXW)
- - 🚯 [The church is bad, but public school is worse. Predators go where the kids are.](http://9gag.com/gag/a9qPG8j)
- - 🚯 [Jerry Seinfeld refuses to hug Kesha](http://9gag.com/gag/armRdzy)<!-- MEMES:END -->
+ - 🚖 [That&#39;s why I&#39;m having trust issues](http://9gag.com/gag/armREvV)
+ - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 🚯 [Taking a piss](http://9gag.com/gag/aMEQoZ6)<!-- MEMES:END -->
 
 --- 
 
