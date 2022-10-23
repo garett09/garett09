@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with eBay CEO Jamie Iannone on eBay&#39;s strategy to focus on the second-hand luxury market, as its market value has fallen from $53B in 2021 to $21B &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221023/p9#a221023p9)
  - [TikTok vs YouTube Shorts vs Instagram/Facebook Reels](https://www.androidauthority.com/tiktok-vs-youtube-shorts-vs-instagram-reels-3219063/)
- - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)
- - [Get Home for the Holidays With Big Savings on Travel Essentials at Woot     - CNET](https://www.cnet.com/deals/get-home-for-the-holidays-with-big-savings-on-travel-essentials-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
