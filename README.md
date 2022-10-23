@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Adam’s Hawkman knows how convoluted his character is, thank you](https://www.polygon.com/23413093/black-adam-hawkman-thanagar-aldis-hodge-interview)
- - [Another one for the list of terrible adaptations—Aliens: A Comic Book Adventure](https://www.pcgamer.com/saturday-crapshoot-aliens-a-comic-book-adventure)
- - [The adorably puzzly landscapes of Dorfromantik get some cherry blossoms](https://www.pcgamer.com/the-adorably-puzzly-landscapes-of-dorfromantik-get-some-cherry-blossoms)<!-- GAME:END -->
+ - [Resident Evil Re:Verse is about to have an early access beta ahead of its Oct 28 launch](https://www.pcgamer.com/resident-evil-reverse-is-about-to-have-an-early-access-beta-ahead-of-its-oct-28-launch)
+ - [Use disposable android bodies to take down megacorps in this cyberpunk FPS](https://www.pcgamer.com/use-disposable-android-bodies-to-take-down-megacorps-in-this-cyberpunk-fps)
+ - [If you were a companion in an RPG, what class would you be?](https://www.pcgamer.com/if-you-were-a-companion-in-an-rpg-what-class-would-you-be)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
