@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect Decoration](http://9gag.com/gag/avQL4Nq)
- - 🚯 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)<!-- MEMES:END -->
+ - 🚖 [Survive](http://9gag.com/gag/a8qjXB6)
+ - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 🚯 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
 
 --- 
 
