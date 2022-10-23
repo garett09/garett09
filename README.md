@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
- - 🚯 [Taking a piss](http://9gag.com/gag/aMEQoZ6)
- - 🚯 [It was a simpler time](http://9gag.com/gag/agoNM6q)<!-- MEMES:END -->
+ - 🚖 [When ya realize ya gone f**ked up](http://9gag.com/gag/aBdrzxx)
+ - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 🚯 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)<!-- MEMES:END -->
 
 --- 
 
