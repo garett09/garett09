@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woke Google drive](http://9gag.com/gag/aXnX5OP)
- - 🚯 [The organization of the cabling at a Rammstein concert](http://9gag.com/gag/aMEQ3YV)
- - 🚯 [Noob vs Pro](http://9gag.com/gag/avQL3Wq)<!-- MEMES:END -->
+ - 🚖 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 🚯 [Legend on the track!](http://9gag.com/gag/aKEBrw6)
+ - 🚯 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
 
 --- 
 
