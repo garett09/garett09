@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
- - 🚯 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
- - 🚯 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
+ - 🚖 [The posture required for speed-shooting from a holster](http://9gag.com/gag/a3ZLmAQ)
+ - 🚯 [Woke Google drive](http://9gag.com/gag/aXnX5OP)
+ - 🚯 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
 
 --- 
 
