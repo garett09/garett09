@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to keep back ups small for iCloud in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-keep-back-ups-small-for-icloud-in-ios-16?utm_medium=rss)
  - [Facebook warns it could block news in Canada over proposed legislation](https://www.theverge.com/2022/10/23/23418928/facebook-warns-block-news-canada-legislation-meta)
- - [What is Android digital car key and how does it work?](https://www.androidauthority.com/android-digital-car-key-3222078/)
- - [Lions vs. Cowboys Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-cowboys-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Packers vs. Commanders Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-commanders-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
