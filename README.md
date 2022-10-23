@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The posture required for speed-shooting from a holster](http://9gag.com/gag/a3ZLmAQ)
- - 🚯 [Woke Google drive](http://9gag.com/gag/aXnX5OP)
- - 🚯 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
+ - 🚖 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
+ - 🚯 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
+ - 🚯 [The posture required for speed-shooting from a holster](http://9gag.com/gag/a3ZLmAQ)<!-- MEMES:END -->
 
 --- 
 
