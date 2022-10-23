@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of e-commerce company Meesho, which accounts for ~7% of India&#39;s online sales; Apptopia: Meesho was the world&#39;s most downloaded shopping app in H1 2022 &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221023/p5#a221023p5)
- - [In his memoir, Bono details making a deal with Steve Jobs for the U2 iPod in October 2004 and convincing Tim Cook to give away an iTunes album in September 2014 &lpar;Bono/The Guardian&rpar;](http://www.techmeme.com/221023/p4#a221023p4)
- - [The Wire retracts its recent stories on Meta and says it is using &quot;independent external experts&quot; to conduct an investigation into its Meta coverage &lpar;The Wire&rpar;](http://www.techmeme.com/221023/p3#a221023p3)<!-- TECH:END -->
+ - [How to Extract the Text From Any Image](https://www.wired.com/story/how-to-extract-text-from-any-image/)
+ - [The Quiet Insurrection the January 6 Committee Missed](https://www.wired.com/story/january-6-trump-digital-insurrection-politics/)
+ - [A profile of e-commerce company Meesho, which accounts for ~7% of India&#39;s online sales; Apptopia: Meesho was the world&#39;s most downloaded shopping app in H1 2022 &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221023/p5#a221023p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
