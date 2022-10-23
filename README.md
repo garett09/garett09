@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - 🚯 [Justice](http://9gag.com/gag/avQLjwb)
- - 🚯 [Bro got Ultra Instinct but ping 900+....!!!!](http://9gag.com/gag/awZ7jPy)<!-- MEMES:END -->
+ - 🚖 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
+ - 🚯 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)
+ - 🚯 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
 
 --- 
 
