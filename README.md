@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When ya realize ya gone f**ked up](http://9gag.com/gag/aBdrzxx)
- - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - 🚯 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)<!-- MEMES:END -->
+ - 🚖 [Cool guy Uber driver](http://9gag.com/gag/anzBL4q)
+ - 🚯 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
+ - 🚯 [Not a muslim country anymore](http://9gag.com/gag/a1PMpYw)<!-- MEMES:END -->
 
 --- 
 
