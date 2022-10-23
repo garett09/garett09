@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Extract the Text From Any Image](https://www.wired.com/story/how-to-extract-text-from-any-image/)
- - [The Quiet Insurrection the January 6 Committee Missed](https://www.wired.com/story/january-6-trump-digital-insurrection-politics/)
- - [A profile of e-commerce company Meesho, which accounts for ~7% of India&#39;s online sales; Apptopia: Meesho was the world&#39;s most downloaded shopping app in H1 2022 &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221023/p5#a221023p5)<!-- TECH:END -->
+ - [Daily deals Oct. 23: $200 off M1 12.9-inch iPad Pro, $120 2021 Apple TV 4K, $1,000 off 55-inch Sony Bravia 4K OLED TV, more](https://appleinsider.com/articles/22/10/23/daily-deals-oct-23-200-off-m1-129-inch-ipad-pro-120-2021-apple-tv-4k-1000-off-55-inch-sony-bravia-4k-oled-tv-more?utm_medium=rss)
+ - [Apple launched the iPod 21 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
+ - [Switching over to an IP camera was the best home security decision I made](https://www.androidauthority.com/cloud-security-camera-vs-ip-camera-3222182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
