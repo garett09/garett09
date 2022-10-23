@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
- - 🚯 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)
- - 🚯 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
+ - 🚖 [Face massage machine](http://9gag.com/gag/aoKj7qe)
+ - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 🚯 [Get born into this world, commit triple infanticide and identity theft, success.](http://9gag.com/gag/axoGr7b)<!-- MEMES:END -->
 
 --- 
 
