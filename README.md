@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Face massage machine](http://9gag.com/gag/aoKj7qe)
- - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - 🚯 [Get born into this world, commit triple infanticide and identity theft, success.](http://9gag.com/gag/axoGr7b)<!-- MEMES:END -->
+ - 🚖 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
+ - 🚯 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)
+ - 🚯 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)<!-- MEMES:END -->
 
 --- 
 
