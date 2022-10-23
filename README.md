@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 23: $200 off M1 12.9-inch iPad Pro, $120 2021 Apple TV 4K, $1,000 off 55-inch Sony Bravia 4K OLED TV, more](https://appleinsider.com/articles/22/10/23/daily-deals-oct-23-200-off-m1-129-inch-ipad-pro-120-2021-apple-tv-4k-1000-off-55-inch-sony-bravia-4k-oled-tv-more?utm_medium=rss)
- - [Apple launched the iPod 21 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
- - [Switching over to an IP camera was the best home security decision I made](https://www.androidauthority.com/cloud-security-camera-vs-ip-camera-3222182/)<!-- TECH:END -->
+ - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch-october/#ftag=CAD590a51e)
+ - [The Pixel 7’s colors make me wish Google brought back Moto Maker](https://www.androidauthority.com/pixel-7-colors-moto-maker-3223175/)
+ - [Plum Plump Is Hands-Down the Best Budget Skin Cream for Locking in Moisture     - CNET](https://www.cnet.com/health/personal-care/plum-plump-is-hands-down-the-best-budget-skin-cream-for-locking-in-moisture/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
