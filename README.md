@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch-october/#ftag=CAD590a51e)
- - [The Pixel 7’s colors make me wish Google brought back Moto Maker](https://www.androidauthority.com/pixel-7-colors-moto-maker-3223175/)
- - [Plum Plump Is Hands-Down the Best Budget Skin Cream for Locking in Moisture     - CNET](https://www.cnet.com/health/personal-care/plum-plump-is-hands-down-the-best-budget-skin-cream-for-locking-in-moisture/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Iranian activists smuggle Starlink receivers into the country for a backup internet, citing &quot;no Starlink donation&quot; from SpaceX nor US government participation &lpar;Karl Vick/TIME&rpar;](http://www.techmeme.com/221023/p6#a221023p6)
+ - [The new Mac Pro chip could double or quadruple the power of the M2 Max](https://www.theverge.com/2022/10/23/23418832/new-mac-pro-chip-m2-max-double-quadruple-power-apple-rumors)
+ - [M2 Extreme Mac Pro due in 2023, MacBook Pro still in 2022](https://appleinsider.com/articles/22/10/23/mac-pro-with-m2-extreme-due-in-2023-2022-macbook-pros-still-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
