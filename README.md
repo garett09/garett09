@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian news outlet The Wire retracts its story on Meta](https://www.theverge.com/2022/10/23/23419366/the-wire-meta-indian-news-outlet-retracts-story)
- - [An interview with eBay CEO Jamie Iannone on eBay&#39;s strategy to focus on the second-hand luxury market, as its market value has fallen from $53B in 2021 to $21B &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221023/p9#a221023p9)
- - [Chiefs vs. 49ers Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-49ers-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook slowly waves checkered flag at US Grand Prix](https://appleinsider.com/articles/22/10/23/tim-cook-slowly-waves-checkered-flag-at-us-grand-prix?utm_medium=rss)
+ - [The Absolute Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-tv-shows-on-hbo-max-to-watch/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-catch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
