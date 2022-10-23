@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s why I&#39;m having trust issues](http://9gag.com/gag/armREvV)
- - 🚯 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - 🚯 [Taking a piss](http://9gag.com/gag/aMEQoZ6)<!-- MEMES:END -->
+ - 🚖 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
+ - 🚯 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - 🚯 [Get born into this world, commit triple infanticide and identity theft, success.](http://9gag.com/gag/axoGr7b)<!-- MEMES:END -->
 
 --- 
 
