@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - 🚯 [Legend on the track!](http://9gag.com/gag/aKEBrw6)
- - 🚯 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
+ - 🚖 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
+ - 🚯 [Taking a piss](http://9gag.com/gag/aMEQoZ6)
+ - 🚯 [It was a simpler time](http://9gag.com/gag/agoNM6q)<!-- MEMES:END -->
 
 --- 
 
