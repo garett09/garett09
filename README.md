@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is increasingly becoming a news source](https://www.theverge.com/2022/10/24/23420679/tiktok-pew-study-us-adult-news-comsumption-survey-facebook-twitter)
- - [Ant-Man &amp; The Wasp: Quantumania’s first trailer introduces Kang the Conqueror](https://www.theverge.com/2022/10/24/23420801/ant-man-and-the-wasp-quantumania-kang-the-conquerer)
- - [iPadOS 16.1 review: imperfect preview of what&#39;s next](https://appleinsider.com/articles/22/10/24/ipados-161-review-imperfect-preview-of-whats-next?utm_medium=rss)<!-- TECH:END -->
+ - [PayPal adds support for passkeys, which are designed to replace passwords, on iOS, iPadOS, and macOS in the US, and plans to support passkeys on other platforms &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221024/p20#a221024p20)
+ - [Microsoft launches its ARM mini-PC Windows Dev Kit 2023, formerly Project Volterra, with Snapdragon 8cx Gen 3 and 32GB RAM for $599, coming to eight countries &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/221024/p19#a221024p19)
+ - [The US DOJ charges two Chinese intelligence officers with trying to subvert a criminal probe, sources say into Huawei, by offering bribes to a US double agent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p18#a221024p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
