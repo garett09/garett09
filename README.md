@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Monterey &amp; macOS Big Sur get security update](https://appleinsider.com/articles/22/10/24/macos-monterey-macos-big-sur-get-security-update?utm_medium=rss)
- - [Apple releases iOS 16.1, iPad OS 16.1, and macOS Ventura, with iCloud Shared Photo Library, Continuity Camera, Stage Manager for Mac and iPad, and more &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/221024/p22#a221024p22)
- - [New Android 12L Surface Duo update revamps visuals and functionality](https://www.androidauthority.com/surface-duo-update-3223974/)<!-- TECH:END -->
+ - [The Apple Watch Ultra gets another battery-saving workout setting](https://www.theverge.com/2022/10/24/23421179/apple-watch-ultra-low-power-workout-gps-heart-rate-watchos-9-setting)
+ - [Apple&#39;s macOS Ventura is heavy with security enhancements &amp; fixes](https://appleinsider.com/articles/22/10/24/apples-macos-ventura-is-heavy-with-security-enhancements-fixes?utm_medium=rss)
+ - [How to get the new iOS 16.1 and macOS updates if you were on the beta](https://appleinsider.com/inside/ios-16/tips/how-to-remove-get-the-new-ios-161-and-macos-updates-if-you-were-on-the-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
