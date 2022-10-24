@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 492 answer and hint: Monday, October 24](https://www.pcgamer.com/todays-wordle-492-answer-hint)
- - [Bayonetta&#39;s Original Voice Actor Disputes Claims, Says She Only Asked For &#39;A Fair, Living Wage&#39;](https://kotaku.com/bayonettas-original-voice-actor-disputes-claims-says-s-1849692352)
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
+ - [This TikTok account is testing weird thermal paste patterns so you don&#39;t have to](https://www.pcgamer.com/this-tiktok-account-is-testing-weird-thermal-paste-patterns-so-you-dont-have-to)
+ - [Disco Elysium writer is suing developer ZA/UM](https://www.pcgamer.com/disco-elysium-writer-is-suing-developer-zaum)
+ - [Genshin Impact Version 3.2: Akasha pulses and the Kalpa Flame rises in new update](https://blog.playstation.com/2022/10/24/genshin-impact-version-3-2-akasha-pulses-and-the-kalpa-flame-rises-in-new-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
