@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Da F....??](http://9gag.com/gag/agoNWZx)
- - 🚯 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
- - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)<!-- MEMES:END -->
+ - 🚖 [Ukrainian helicopter flying with the freeway traffic to avoid Russian radar](http://9gag.com/gag/aVbPjDw)
+ - 🚯 [Making a kid buy back the letters he wrote his father...](http://9gag.com/gag/aDYoAYO)
+ - 🚯 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
 
 --- 
 
