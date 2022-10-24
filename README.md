@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soon Chrome will force you to upgrade from Windows 7](https://www.androidauthority.com/chome-support-ending-windows-7-3224063/)
- - [A look at delivery startup Gopuff&#39;s rise, reaching 165 warehouses covering 600 US cities by 2020 and a $15B valuation by 2021, and fall, as pandemic trends fade &lpar;Bloomberg&rpar;](http://www.techmeme.com/221024/p25#a221024p25)
- - [FTC sanctions Uber-owned alcohol delivery company Drizly and its CEO for data privacy abuses; Drizly will have to implement new data controls and training &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221024/p24#a221024p24)<!-- TECH:END -->
+ - [Cerebral, a telehealth startup focused on mental health, is cutting 20% of its staff, impacting &quot;all divisions&quot;; Cerebral was valued at $4.8B in December 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221024/p27#a221024p27)
+ - [Google Chrome will no longer support Windows 7 next year](https://www.theverge.com/2022/10/24/23421716/google-chrome-windows-7-8-1-end-support)
+ - [18 Great Deals From Best Buy&#39;s Early Black Friday Sale &lpar;2022&rpar;](https://www.wired.com/story/best-buy-deals-black-friday-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
