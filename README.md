@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Justice](http://9gag.com/gag/avQLjwb)
- - 🚯 [Not a muslim country anymore](http://9gag.com/gag/a1PMpYw)
- - 🚯 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)<!-- MEMES:END -->
+ - 🚖 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
+ - 🚯 [How women use Tinder](http://9gag.com/gag/a9qPgBK)
+ - 🚯 [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)<!-- MEMES:END -->
 
 --- 
 
