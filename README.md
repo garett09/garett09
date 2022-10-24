@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First person shooters don’t need to be violent to be fun](https://www.polygon.com/dear-polygon/23416413/no-violence-games-first-person-shooters-powerwash-simulator-neon-white-slime-rancher-2)
- - [The Owl House has TV’s best parents](https://www.polygon.com/23416676/the-owl-house-camila-eda-luz-parents)
- - [A single chip has managed to transfer the entire internet&#39;s traffic in a single second](https://www.pcgamer.com/a-single-chip-has-managed-to-transfer-the-entire-internets-traffic-in-a-single-second)<!-- GAME:END -->
+ - [God Of War Ragnarök Spoilers Are Beginning To Leak By Accident](https://kotaku.com/god-war-ragnarok-ps4-ps5-spoilers-atreus-kratos-thor-1849693193)
+ - [These scripts use AI to turn Minecraft worlds into adorable picturesque scenes](https://www.pcgamer.com/minecraft-ai-stable-diffusion-image-generation)
+ - [Aemond Targaryen is House of the Dragon’s most tragic character and its best villain](https://www.polygon.com/23419041/house-dragon-aemond-targaryen-death-dragon-sapphire-eye-villain-meaning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
