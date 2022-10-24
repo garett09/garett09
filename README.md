@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the House of the Dragon season 2 news we’ve heard so far](https://www.polygon.com/23419614/house-of-the-dragon-season-2-release-date-cast-news)
- - [Five new Steam games you probably missed &lpar;October 24, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-24-2022)
- - [Lego built a spooky gaming PC inside a handmade haunted house](https://www.pcgamer.com/lego-built-a-spooky-gaming-pc-inside-a-handmade-haunted-house)<!-- GAME:END -->
+ - [Secret messages found in Silent Hill Townfall&#39;s promotional material](https://www.pcgamer.com/secret-messages-found-in-silent-hill-townfalls-promotional-material)
+ - [I could spend all day looking at House of the Dragon’s glowing map table](https://www.polygon.com/23419109/house-dragon-painted-table-map)
+ - [House of the Dragon’s big finale moment was exactly what we’ve been waiting for](https://www.polygon.com/23419108/house-dragon-aemond-lucerys-vhagar-battle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
