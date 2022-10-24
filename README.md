@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Not Easy, But Here’s How You Get Rich Soil In Disney Dreamlight Valley](https://kotaku.com/disney-dreamlight-valley-how-to-find-get-rich-soil-scar-1849694666)
- - [You can watch 5 of the best horror movies ever made for free right now](https://www.polygon.com/what-to-watch/23416506/best-horror-movies-watch-free)
- - [The Disney Villains Game Is Having A Horny Racism Controversy](https://kotaku.com/disney-twisted-wonderland-frollo-hunchback-ios-android-1849694445)<!-- GAME:END -->
+ - [Call Of Duty: Modern Warfare II Is A Precision-Made Boredom Machine](https://kotaku.com/call-of-duty-modern-warfare-2-ii-infinity-ward-campaign-1849695247)
+ - [Trophy Dark is the role-playing game that offers doom instead of glory](https://www.polygon.com/reviews/23416587/trophy-dark-review-rpg)
+ - [Henry Cavill says Black Adam was just the beginning of his Superman comeback](https://www.polygon.com/23420907/henry-cavill-superman-movies-black-adam-post-credits-scene)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
