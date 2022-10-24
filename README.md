@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [Secret messages found in Silent Hill Townfall&#39;s promotional material](https://www.pcgamer.com/secret-messages-found-in-silent-hill-townfalls-promotional-material)
- - [I could spend all day looking at House of the Dragon’s glowing map table](https://www.polygon.com/23419109/house-dragon-painted-table-map)<!-- GAME:END -->
+ - [Today&#39;s Wordle 492 answer and hint: Monday, October 24](https://www.pcgamer.com/todays-wordle-492-answer-hint)
+ - [Bayonetta&#39;s Original Voice Actor Disputes Claims, Says She Only Asked For &#39;A Fair, Living Wage&#39;](https://kotaku.com/bayonettas-original-voice-actor-disputes-claims-says-s-1849692352)
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
