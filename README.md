@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terrible](http://9gag.com/gag/awZ76qy)
- - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 🚯 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
+ - 🚖 [Dutch is wild](http://9gag.com/gag/a7qbz72)
+ - 🚯 [Terrible](http://9gag.com/gag/awZ76qy)
+ - 🚯 [Legend on the track!](http://9gag.com/gag/aKEBrw6)<!-- MEMES:END -->
 
 --- 
 
