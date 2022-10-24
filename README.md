@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal adds support for passkeys, which are designed to replace passwords, on iOS, iPadOS, and macOS in the US, and plans to support passkeys on other platforms &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221024/p20#a221024p20)
- - [Microsoft launches its ARM mini-PC Windows Dev Kit 2023, formerly Project Volterra, with Snapdragon 8cx Gen 3 and 32GB RAM for $599, coming to eight countries &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/221024/p19#a221024p19)
- - [The US DOJ charges two Chinese intelligence officers with trying to subvert a criminal probe, sources say into Huawei, by offering bribes to a US double agent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p18#a221024p18)<!-- TECH:END -->
+ - [macOS Monterey &amp; macOS Big Sur get security update](https://appleinsider.com/articles/22/10/24/macos-monterey-macos-big-sur-get-security-update?utm_medium=rss)
+ - [Apple releases iOS 16.1, iPad OS 16.1, and macOS Ventura, with iCloud Shared Photo Library, Continuity Camera, Stage Manager for Mac and iPad, and more &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/221024/p22#a221024p22)
+ - [New Android 12L Surface Duo update revamps visuals and functionality](https://www.androidauthority.com/surface-duo-update-3223974/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
