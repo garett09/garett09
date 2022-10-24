@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 🚯 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
- - 🚯 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)<!-- MEMES:END -->
+ - 🚖 [Making a kid buy back the letters he wrote his father...](http://9gag.com/gag/aDYoAYO)
+ - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
+ - 🚯 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)<!-- MEMES:END -->
 
 --- 
 
