@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 24: $99 Apple TV 4K 32GB, $90 Beats Studio Buds, $50 Amazon Echo, more](https://appleinsider.com/articles/22/10/24/daily-deals-oct-24-99-apple-tv-4k-32gb-90-beats-studio-buds-50-amazon-echo-more?utm_medium=rss)
- - [Poll: Is your Android smartphone rooted?](https://www.androidauthority.com/android-smartphone-root-poll-3223786/)
- - [Monday Night Football: How to Watch, Stream Bears vs. Patriots, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-bears-vs-patriots-manningcast-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After months of beta tweaks, iPadOS 16&#39;s Stage Manager still is not a great app switcher for multitasking, plagued by bugs and confusing app management logic &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221024/p16#a221024p16)
+ - [YouTube iOS app getting ambient mode, plus zoom and rewind gestures](https://appleinsider.com/articles/22/10/24/youtube-ios-app-getting-ambient-mode-plus-zoom-and-rewind-gestures?utm_medium=rss)
+ - [The latest version of Amazon’s orb-like Echo smart speaker is just $49.99 right now](https://www.theverge.com/2022/10/24/23420466/amazon-echo-apple-pencil-google-pixel-6a-bose-qc45-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
