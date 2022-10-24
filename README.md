@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon scorched earth with a single shot of Rhaenyra](https://www.polygon.com/23421693/house-dragon-finale-recap-episode-10-rhaenyra-daemon)
- - [This gaming chair will literally keep you on the edge of your seat](https://www.pcgamer.com/this-gaming-chair-will-literally-keep-you-on-the-edge-of-your-seat)
- - [Activision Blizzard exec accused by union group of ‘anti-union propaganda’ in Slack](https://www.polygon.com/23421565/activision-blizzard-new-unfair-labor-complaint-nlrb)<!-- GAME:END -->
+ - [Anti-Cheat Programs Need To Relax](https://kotaku.com/easy-anti-cheat-pc-ea-activision-mw2-cod-nba2k-fifa-23-1849696734)
+ - [&#39;Sexual assault&#39; custom game mode reveals a glaring Overwatch moderation problem](https://www.pcgamer.com/sexual-assault-custom-game-mode-reveals-a-glaring-overwatch-moderation-problem)
+ - [House of the Dragon scorched earth with a single shot of Rhaenyra](https://www.polygon.com/23421693/house-dragon-finale-recap-episode-10-rhaenyra-daemon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
