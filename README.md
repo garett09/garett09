@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 🚯 [Terrible](http://9gag.com/gag/awZ76qy)
- - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
+ - 🚖 [Imagi\u2026.. nvm\u2026.. it\u2019s a prank right? It has GOT to be a prank\u2026..](http://9gag.com/gag/aZDN9op)
+ - 🚯 [Victim mentality vs Victor mentality - right on the spot](http://9gag.com/gag/aDYmy5d)
+ - 🚯 [Killer costume meme](http://9gag.com/gag/aWG6ZW3)<!-- MEMES:END -->
 
 --- 
 
