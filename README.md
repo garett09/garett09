@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Ventura review: Great features &amp; promise, but not all here yet](https://appleinsider.com/articles/22/10/24/macos-ventura-review-great-features-promise-but-not-all-here-yet?utm_medium=rss)
- - [M2 iPad Pro review roundup: Familiar but much faster](https://appleinsider.com/articles/22/10/24/m2-ipad-pro-review-roundup-familiar-but-much-faster?utm_medium=rss)
- - [Level Lock+ review, new Apple TV 4K, &amp; Netatmo drops HSV support](https://appleinsider.com/articles/22/10/24/level-lock-review-new-apple-tv-4k-netatmo-drops-hsv-support?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Oct. 24: $99 Apple TV 4K 32GB, $90 Beats Studio Buds, $50 Amazon Echo, more](https://appleinsider.com/articles/22/10/24/daily-deals-oct-24-99-apple-tv-4k-32gb-90-beats-studio-buds-50-amazon-echo-more?utm_medium=rss)
+ - [Poll: Is your Android smartphone rooted?](https://www.androidauthority.com/android-smartphone-root-poll-3223786/)
+ - [Monday Night Football: How to Watch, Stream Bears vs. Patriots, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-bears-vs-patriots-manningcast-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
