@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3 review](https://www.pcgamer.com/victoria-3-review)
- - [Ant-Man and the Wasp: Quantumania’s first trailer teases Marvel’s weird ‘secret universe’](https://www.polygon.com/23340059/ant-man-wasp-quantumania-trailer-marvel-release-date)
- - [Victoria 3: The Kotaku Review](https://kotaku.com/victoria-3-review-paradox-pc-kotaku-impressions-verdict-1849669988)<!-- GAME:END -->
+ - [The Disney Villains Game Is Having A Horny Racism Controversy](https://kotaku.com/disney-twisted-wonderland-frollo-hunchback-ios-android-1849694445)
+ - [The Best New Marvel Game Makes Uncle Ben&#39;s Death A Good Thing](https://kotaku.com/marvel-snap-spider-man-uncle-ben-card-hearthstone-brode-1849694149)
+ - [4 Ways To Get Rich Quick In Disney Dreamlight Valley](https://kotaku.com/disney-dreamlight-valley-tips-star-coins-stardew-1849512624)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
