@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God Of War Ragnarök Spoilers Are Beginning To Leak By Accident](https://kotaku.com/god-war-ragnarok-ps4-ps5-spoilers-atreus-kratos-thor-1849693193)
- - [These scripts use AI to turn Minecraft worlds into adorable picturesque scenes](https://www.pcgamer.com/minecraft-ai-stable-diffusion-image-generation)
- - [Aemond Targaryen is House of the Dragon’s most tragic character and its best villain](https://www.polygon.com/23419041/house-dragon-aemond-targaryen-death-dragon-sapphire-eye-villain-meaning)<!-- GAME:END -->
+ - [It just got much easier to find the best mods in Teardown](https://www.pcgamer.com/it-just-got-much-easier-to-find-the-best-mods-in-teardown)
+ - [Former Bayonetta VA walks back claims she was only offered $4,000 for new game](https://www.pcgamer.com/former-bayonetta-va-walks-back-claims-she-was-only-offered-dollar4000-for-new-game)
+ - [River City Girls 2: New Marian gameplay and character design details revealed](https://blog.playstation.com/2022/10/24/river-city-girls-2-new-marian-gameplay-and-character-design-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
