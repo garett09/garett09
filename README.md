@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Modern Warfare II Is A Precision-Made Boredom Machine](https://kotaku.com/call-of-duty-modern-warfare-2-ii-infinity-ward-campaign-1849695247)
- - [Trophy Dark is the role-playing game that offers doom instead of glory](https://www.polygon.com/reviews/23416587/trophy-dark-review-rpg)
- - [Henry Cavill says Black Adam was just the beginning of his Superman comeback](https://www.polygon.com/23420907/henry-cavill-superman-movies-black-adam-post-credits-scene)<!-- GAME:END -->
+ - [The MCU’s newest superhero just got her hands on one of Marvel universe’s worst WMDs](https://www.polygon.com/2022/10/24/23416774/iron-man-ironheart-marvel-comics-ten-rings-mandarin)
+ - [The best Fallout game was almost just an expansion pack](https://www.pcgamer.com/the-best-fallout-game-was-almost-just-an-expansion-pack)
+ - [Where to find every Vaultlander in New Tales from the Borderlands](https://www.polygon.com/guides/23413017/vaultlander-locations-collectibles-episode-chapter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
