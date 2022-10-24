@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute beast breaking it down on some toy keyboards](http://9gag.com/gag/aPgDwKq)
- - 🚯 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
- - 🚯 [Killer costume meme](http://9gag.com/gag/aWG6ZW3)<!-- MEMES:END -->
+ - 🚖 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
+ - 🚯 [Magic trick](http://9gag.com/gag/aDYmKZ9)
+ - 🚯 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)<!-- MEMES:END -->
 
 --- 
 
