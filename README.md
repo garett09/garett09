@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [30 Million People Were Logged Into Steam Today](https://kotaku.com/steam-valve-concurrent-user-record-playtime-playing-1849691890)
- - [The best horror games in 2022](https://www.pcgamer.com/best-horror-games)
- - [Steam sets new record with 30 million users online at once](https://www.pcgamer.com/steam-sets-new-record-with-30-million-users-online-at-once)<!-- GAME:END -->
+ - [All the House of the Dragon season 2 news we’ve heard so far](https://www.polygon.com/23419614/house-of-the-dragon-season-2-release-date-cast-news)
+ - [Five new Steam games you probably missed &lpar;October 24, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-24-2022)
+ - [Lego built a spooky gaming PC inside a handmade haunted house](https://www.pcgamer.com/lego-built-a-spooky-gaming-pc-inside-a-handmade-haunted-house)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
