@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animoca Brands co-founder Yat Siu rejects a report that The Sandbox has 500 DAUs, saying the virtual world has over 200,000 MAUs &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221024/p4#a221024p4)
- - [Sources: US banks backing Elon Musk&#39;s Twitter deal plan to hold all $13B of debt on their balance sheets rather than selling it, amid a difficult debt market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p3#a221024p3)
- - [The Pixel 6a is an absolute steal for just $299](https://www.androidauthority.com/google-pixel-6a-deal-amazon-3223228/)<!-- TECH:END -->
+ - [Ikea Dirigera review: the Matter-ready smart home hub is easy to use and works well, but is expensive, lacks a migration tool from Tr&amp;aring;dfri, and is simplistic &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/221024/p5#a221024p5)
+ - [Daily deals Oct. 24: $99 Apple TV 4K 32GB, $90 Beats Studio Buds, $50 Amazon Echo, more](https://appleinsider.com/articles/22/10/24/daily-deals-oct-24-99-apple-tv-4k-32gb-90-beats-studio-buds-50-amazon-echo-more?utm_medium=rss)
+ - [How to use the Clock app in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-the-clock-app-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
