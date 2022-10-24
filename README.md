@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After months of beta tweaks, iPadOS 16&#39;s Stage Manager still is not a great app switcher for multitasking, plagued by bugs and confusing app management logic &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221024/p16#a221024p16)
- - [YouTube iOS app getting ambient mode, plus zoom and rewind gestures](https://appleinsider.com/articles/22/10/24/youtube-ios-app-getting-ambient-mode-plus-zoom-and-rewind-gestures?utm_medium=rss)
- - [The latest version of Amazon’s orb-like Echo smart speaker is just $49.99 right now](https://www.theverge.com/2022/10/24/23420466/amazon-echo-apple-pencil-google-pixel-6a-bose-qc45-deal-sale)<!-- TECH:END -->
+ - [TikTok is increasingly becoming a news source](https://www.theverge.com/2022/10/24/23420679/tiktok-pew-study-us-adult-news-comsumption-survey-facebook-twitter)
+ - [Ant-Man &amp; The Wasp: Quantumania’s first trailer introduces Kang the Conqueror](https://www.theverge.com/2022/10/24/23420801/ant-man-and-the-wasp-quantumania-kang-the-conquerer)
+ - [iPadOS 16.1 review: imperfect preview of what&#39;s next](https://appleinsider.com/articles/22/10/24/ipados-161-review-imperfect-preview-of-whats-next?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
