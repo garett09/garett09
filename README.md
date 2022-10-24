@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It just got much easier to find the best mods in Teardown](https://www.pcgamer.com/it-just-got-much-easier-to-find-the-best-mods-in-teardown)
- - [Former Bayonetta VA walks back claims she was only offered $4,000 for new game](https://www.pcgamer.com/former-bayonetta-va-walks-back-claims-she-was-only-offered-dollar4000-for-new-game)
- - [River City Girls 2: New Marian gameplay and character design details revealed](https://blog.playstation.com/2022/10/24/river-city-girls-2-new-marian-gameplay-and-character-design-details-revealed/)<!-- GAME:END -->
+ - [Victoria 3 review](https://www.pcgamer.com/victoria-3-review)
+ - [Ant-Man and the Wasp: Quantumania’s first trailer teases Marvel’s weird ‘secret universe’](https://www.polygon.com/23340059/ant-man-wasp-quantumania-trailer-marvel-release-date)
+ - [Victoria 3: The Kotaku Review](https://kotaku.com/victoria-3-review-paradox-pc-kotaku-impressions-verdict-1849669988)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
