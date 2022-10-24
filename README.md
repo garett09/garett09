@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This TikTok account is testing weird thermal paste patterns so you don&#39;t have to](https://www.pcgamer.com/this-tiktok-account-is-testing-weird-thermal-paste-patterns-so-you-dont-have-to)
- - [Disco Elysium writer is suing developer ZA/UM](https://www.pcgamer.com/disco-elysium-writer-is-suing-developer-zaum)
- - [Genshin Impact Version 3.2: Akasha pulses and the Kalpa Flame rises in new update](https://blog.playstation.com/2022/10/24/genshin-impact-version-3-2-akasha-pulses-and-the-kalpa-flame-rises-in-new-update/)<!-- GAME:END -->
+ - [First person shooters don’t need to be violent to be fun](https://www.polygon.com/dear-polygon/23416413/no-violence-games-first-person-shooters-powerwash-simulator-neon-white-slime-rancher-2)
+ - [The Owl House has TV’s best parents](https://www.polygon.com/23416676/the-owl-house-camila-eda-luz-parents)
+ - [A single chip has managed to transfer the entire internet&#39;s traffic in a single second](https://www.pcgamer.com/a-single-chip-has-managed-to-transfer-the-entire-internets-traffic-in-a-single-second)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
