@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Say cheese](http://9gag.com/gag/aVbPjQK)
- - 🚯 [Absolute beast breaking it down on some toy keyboards](http://9gag.com/gag/aPgDwKq)
- - 🚯 [NYC street photography](http://9gag.com/gag/aEqz3Z9)<!-- MEMES:END -->
+ - 🚖 [Absolute beast breaking it down on some toy keyboards](http://9gag.com/gag/aPgDwKq)
+ - 🚯 [NYC street photography](http://9gag.com/gag/aEqz3Z9)
+ - 🚯 [Killer costume meme](http://9gag.com/gag/aWG6ZW3)<!-- MEMES:END -->
 
 --- 
 
