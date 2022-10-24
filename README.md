@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10.9-inch iPad review roundup: Strange compromises, oddly placed in Apple&#39;s lineup](https://appleinsider.com/articles/22/10/24/109-inch-ipad-review-roundup-strange-compromises-oddly-placed-in-apples-lineup?utm_medium=rss)
- - [Pixelmator iPad apps updated with Apple Pencil hover, more iPadOS 16 features](https://appleinsider.com/articles/22/10/24/pixelmator-ipad-apps-updated-with-apple-pencil-hover-more-ipados-16-features?utm_medium=rss)
- - [M2 iPad Pro review roundup: Familiar but much faster](https://appleinsider.com/articles/22/10/24/m2-ipad-pro-review-roundup-familiar-but-much-faster?utm_medium=rss)<!-- TECH:END -->
+ - [macOS Ventura review: Great features &amp; promise, but not all here yet](https://appleinsider.com/articles/22/10/24/macos-ventura-review-great-features-promise-but-not-all-here-yet?utm_medium=rss)
+ - [M2 iPad Pro review roundup: Familiar but much faster](https://appleinsider.com/articles/22/10/24/m2-ipad-pro-review-roundup-familiar-but-much-faster?utm_medium=rss)
+ - [Level Lock+ review, new Apple TV 4K, &amp; Netatmo drops HSV support](https://appleinsider.com/articles/22/10/24/level-lock-review-new-apple-tv-4k-netatmo-drops-hsv-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
