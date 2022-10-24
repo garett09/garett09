@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Da F....??](http://9gag.com/gag/agoNWZx)
- - 🚯 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)
- - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
+ - 🚖 [Making a kid buy back the letters he wrote his father...](http://9gag.com/gag/aDYoAYO)
+ - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
+ - 🚯 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
 
 --- 
 
