@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
- - 🚯 [How women use Tinder](http://9gag.com/gag/a9qPgBK)
- - 🚯 [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)<!-- MEMES:END -->
+ - 🚖 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)
+ - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
+ - 🚯 [Terrible](http://9gag.com/gag/awZ76qy)<!-- MEMES:END -->
 
 --- 
 
