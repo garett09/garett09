@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea Dirigera review: the Matter-ready smart home hub is easy to use and works well, but is expensive, lacks a migration tool from Tr&amp;aring;dfri, and is simplistic &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/221024/p5#a221024p5)
- - [Daily deals Oct. 24: $99 Apple TV 4K 32GB, $90 Beats Studio Buds, $50 Amazon Echo, more](https://appleinsider.com/articles/22/10/24/daily-deals-oct-24-99-apple-tv-4k-32gb-90-beats-studio-buds-50-amazon-echo-more?utm_medium=rss)
- - [How to use the Clock app in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-the-clock-app-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [The Coterie, which lets founders access funds from Coatue, a16z, and others to sidestep illiquid stock, raised a $40M Series A led by a16z at a $100M+ valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/221024/p9#a221024p9)
+ - [An unapologetically plastic iPad isn&#39;t going to happen](https://appleinsider.com/articles/22/10/24/an-unapologetically-plastic-ipad-isnt-going-to-happen?utm_medium=rss)
+ - [Baseus Magnetic Power Bank review: Kickstand &amp; high capacity make up for size](https://appleinsider.com/articles/22/10/24/baseus-magnetic-power-bank-review-kickstand-high-capacity-make-up-for-size?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
