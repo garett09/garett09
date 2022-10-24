@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)
- - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
- - 🚯 [Terrible](http://9gag.com/gag/awZ76qy)<!-- MEMES:END -->
+ - 🚖 [Da F....??](http://9gag.com/gag/agoNWZx)
+ - 🚯 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
+ - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)<!-- MEMES:END -->
 
 --- 
 
