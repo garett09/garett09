@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerebral, a telehealth startup focused on mental health, is cutting 20% of its staff, impacting &quot;all divisions&quot;; Cerebral was valued at $4.8B in December 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221024/p27#a221024p27)
- - [Google Chrome will no longer support Windows 7 next year](https://www.theverge.com/2022/10/24/23421716/google-chrome-windows-7-8-1-end-support)
- - [18 Great Deals From Best Buy&#39;s Early Black Friday Sale &lpar;2022&rpar;](https://www.wired.com/story/best-buy-deals-black-friday-2022/)<!-- TECH:END -->
+ - [FTC Takes Action Against Drizly for 2020 Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-action-against-drizly-for-2020-data-breach/#ftag=CAD590a51e)
+ - [Best Buy Upgrade Plus financing lets you pay for that new MacBook over three years](https://www.theverge.com/2022/10/24/23421659/best-buy-macbook-subscription-program-apple)
+ - [Cybersecurity startup Snyk lays off 198 employees, or 14% of its staff, after laying off 30 people in July 2022; Snyk was valued at $8.5B in September 2021 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221024/p29#a221024p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
