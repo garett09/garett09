@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making a kid buy back the letters he wrote his father...](http://9gag.com/gag/aDYoAYO)
+ - 🚖 [Terrible](http://9gag.com/gag/awZ76qy)
  - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 🚯 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
+ - 🚯 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
 
 --- 
 
