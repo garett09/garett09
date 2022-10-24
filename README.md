@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
- - 🚯 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)
- - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
+ - 🚖 [Yeah! Science!](http://9gag.com/gag/aDYow17)
+ - 🚯 [Guy has a flashlight instead of an eye.](http://9gag.com/gag/a7qb4Ae)
+ - 🚯 [Had me in the first half.](http://9gag.com/gag/aoKjB7A)<!-- MEMES:END -->
 
 --- 
 
