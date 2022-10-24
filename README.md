@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
- - 🚯 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
+ - 🚖 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
+ - 🚯 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)
  - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
 
 --- 
