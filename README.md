@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Coterie, which lets founders access funds from Coatue, a16z, and others to sidestep illiquid stock, raised a $40M Series A led by a16z at a $100M+ valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/221024/p9#a221024p9)
- - [An unapologetically plastic iPad isn&#39;t going to happen](https://appleinsider.com/articles/22/10/24/an-unapologetically-plastic-ipad-isnt-going-to-happen?utm_medium=rss)
- - [Baseus Magnetic Power Bank review: Kickstand &amp; high capacity make up for size](https://appleinsider.com/articles/22/10/24/baseus-magnetic-power-bank-review-kickstand-high-capacity-make-up-for-size?utm_medium=rss)<!-- TECH:END -->
+ - [10.9-inch iPad review roundup: Strange compromises, oddly placed in Apple&#39;s lineup](https://appleinsider.com/articles/22/10/24/109-inch-ipad-review-roundup-strange-compromises-oddly-placed-in-apples-lineup?utm_medium=rss)
+ - [Pixelmator iPad apps updated with Apple Pencil hover, more iPadOS 16 features](https://appleinsider.com/articles/22/10/24/pixelmator-ipad-apps-updated-with-apple-pencil-hover-more-ipados-16-features?utm_medium=rss)
+ - [M2 iPad Pro review roundup: Familiar but much faster](https://appleinsider.com/articles/22/10/24/m2-ipad-pro-review-roundup-familiar-but-much-faster?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
