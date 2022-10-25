@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funtouch OS 13 is here: What to know about Vivo’s new Android 13 skin](https://www.androidauthority.com/vivo-funtouch-os-13-3224209/)
- - [Now 200MP cameras are coming to budget phones](https://www.androidauthority.com/200mp-camera-mid-range-phone-redmi-3223744/)
- - [Sources: Microsoft is stocking up on Chinese games to emulate Sony&#39;s success with Genshin Impact; filings: Microsoft paid $4.8M for Snail Games&#39; ARK and ARK 2 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221025/p2#a221025p2)<!-- TECH:END -->
+ - [WhatsApp confirms a major outage worldwide, starting around 3AM ET, and says it is &quot;working to restore WhatsApp for everyone as quickly as possible&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p3#a221025p3)
+ - [WhatsApp is down in a major outage](https://www.theverge.com/2022/10/25/23422343/whatsapp-down-outage)
+ - [Huawei Sets November Launch For New Flip Phone     - CNET](https://www.cnet.com/tech/mobile/huawei-sets-november-launch-for-new-flip-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
