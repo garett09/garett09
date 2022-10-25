@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple earns five Gotham Awards nominations for its original series](https://appleinsider.com/articles/22/10/25/apple-earns-five-gotham-award-nominations-for-its-original-series?utm_medium=rss)
- - [Microsoft says more than 20 million people have used Xbox Cloud Gaming](https://www.theverge.com/2022/10/25/23423668/microsoft-xbox-cloud-gaming-20-million-people-streamed)
- - [Spotify hits 195 million paid subscribers](https://www.theverge.com/2022/10/25/23423510/spotify-total-subscribers-rogan-markle)<!-- TECH:END -->
+ - [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts)
+ - [iOS 16.2 adds a way to report inadvertent Emergency SOS activations](https://www.theverge.com/2022/10/25/23423641/ios-16-2-emergency-sos-car-crash-detection-report)
+ - [Satya Nadella says more than 20M people have streamed games using Xbox Cloud Gaming, double the 10M figure that Microsoft shared in April 2022 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p38#a221025p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
