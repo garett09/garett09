@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC Takes Action Against Drizly for 2020 Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-action-against-drizly-for-2020-data-breach/#ftag=CAD590a51e)
- - [Best Buy Upgrade Plus financing lets you pay for that new MacBook over three years](https://www.theverge.com/2022/10/24/23421659/best-buy-macbook-subscription-program-apple)
- - [Cybersecurity startup Snyk lays off 198 employees, or 14% of its staff, after laying off 30 people in July 2022; Snyk was valued at $8.5B in September 2021 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221024/p29#a221024p29)<!-- TECH:END -->
+ - [Early Black Friday Samsung TV deals: save up to $3,000 on The Frame, Neo 4K, 8K, OLED TVs](https://appleinsider.com/articles/22/10/24/early-black-friday-samsung-tv-deals-save-up-to-3000-on-the-frame-neo-4k-8k-oled-tvs?utm_medium=rss)
+ - [NEAR Protocol&#39;s stablecoin USN, launched in April 2022, is shutting down to &quot;safeguard USN holders&quot; after it exhibited risky characteristics similar to TerraUSD &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/221024/p32#a221024p32)
+ - [Jake Paul vs. Anderson Silva: How to Watch, Start Time, Everything to Know     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-anderson-silva-how-to-watch-start-time-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
