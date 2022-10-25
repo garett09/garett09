@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Halloween Twitch Drops: How To Grab A Winston Werewolf Skin &lpar;And More&rpar;](https://kotaku.com/overwatch-2-halloween-twitch-drops-winston-reinhardt-br-1849698847)
- - [New seasons of Doctor Who to stream on Disney Plus in 2023](https://www.polygon.com/23422605/doctor-who-disney-plus-bbc-david-tennant)
- - [Creative Assembly vows investigation after &#39;deeply concerning and serious&#39; allegations of workplace abuse](https://www.pcgamer.com/creative-assembly-vows-investigation-after-deeply-concerning-and-serious-allegations-of-workplace-abuse)<!-- GAME:END -->
+ - [Modern Warfare 2 teaches players the worst way to ‘de-escalate’ a risky situation](https://www.polygon.com/23423009/call-of-duty-modern-warfare-2-de-escalation-trailer-park-press-f)
+ - [The Console Age is Coming to Age of Empires](https://news.xbox.com/en-us/2022/10/25/the-console-age-is-coming-to-age-of-empires/)
+ - [Dear Polygon: I want a horror movie with gnarly practical effects](https://www.polygon.com/what-to-watch/2022/10/25/23414966/scary-horror-movies-to-watch-practical-gore-day-of-the-dead-cure-orphan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
