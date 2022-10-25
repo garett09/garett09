@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My noodle can&#39;t f**king keep up](http://9gag.com/gag/aA0pWwL)
- - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
- - 🚯 [Make it make sense](http://9gag.com/gag/adPj6bQ)<!-- MEMES:END -->
+ - 🚖 [Fake?](http://9gag.com/gag/a8qM4oQ)
+ - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
+ - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
 
 --- 
 
