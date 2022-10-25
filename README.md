@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A book excerpt details US law enforcement efforts to catch Alpha02, who created AlphaBay, the largest online drug and crime bazaar, in 2014 and ran the service &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221025/p14#a221025p14)
- - [The Competition Commission of India fines Google $113M over alleged anti-competitive Play Store practices, following a $161.9M fine over Android from last week &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221025/p13#a221025p13)
- - [BitMEX CEO Alexander H&amp;ouml;ptner steps down as CEO of the crypto exchange with immediate effect, replaced by CFO Stephan Lutz; H&amp;ouml;ptner joined BitMEX in 2021 &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221025/p12#a221025p12)<!-- TECH:END -->
+ - [PayPal gets Passkey support on iPhone, iPad, Mac in U.S.](https://appleinsider.com/articles/22/10/25/paypal-gets-passkey-support-on-iphone-ipad-mac-in-us?utm_medium=rss)
+ - [Purdue University expands semiconductor education as some estimates say the US&#39; chip reshoring effort needs 50,000+ new engineers over the next five years &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/221025/p18#a221025p18)
+ - [This week&#39;s best early Black Friday sales on Apple: save up to $600](https://appleinsider.com/articles/22/10/24/this-weeks-best-early-black-friday-sales-on-apple-save-up-to-600?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
