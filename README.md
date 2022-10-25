@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
- - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
- - 🚯 [What Anime Has Both:](http://9gag.com/gag/aVbXnRP)<!-- MEMES:END -->
+ - 🚖 [No OC, still good...](http://9gag.com/gag/a5X7N8g)
+ - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
+ - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)<!-- MEMES:END -->
 
 --- 
 
