@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates iWork apps with macOS Ventura &amp; iPadOS 16 features](https://appleinsider.com/articles/22/10/25/apple-updates-iwork-apps-with-macos-ventura-ipados-16-features?utm_medium=rss)
- - [Who wants to buy an e-bike made by a car company?](https://www.theverge.com/2022/10/25/23422664/rivian-ebike-cars-electric-motors-porsche-bosch)
- - [Lucid’s $1,200 at-home EV charger can add up to 80 miles per hour](https://www.theverge.com/2022/10/25/23422522/lucid-ev-charger-air-home-cargo-accessories-launch)<!-- TECH:END -->
+ - [Apple issues first developer beta for iOS 16.2, iPadOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/10/25/apple-issues-first-developer-beta-for-ios-162-ipados-162-watchos-92?utm_medium=rss)
+ - [&#39;I could have died&#39; says Apple Watch-wearing doctor who took a hard fall](https://appleinsider.com/articles/22/10/25/i-could-have-died-says-apple-watch-wearing-doctor-who-took-a-hard-fall?utm_medium=rss)
+ - [Upcoming Game of Thrones spinoffs: Beyond House of the Dragon](https://www.androidauthority.com/game-of-thrones-spinoffs-3223895/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
