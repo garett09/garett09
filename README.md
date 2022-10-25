@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anti-Cheat Programs Need To Relax](https://kotaku.com/easy-anti-cheat-pc-ea-activision-mw2-cod-nba2k-fifa-23-1849696734)
- - [&#39;Sexual assault&#39; custom game mode reveals a glaring Overwatch moderation problem](https://www.pcgamer.com/sexual-assault-custom-game-mode-reveals-a-glaring-overwatch-moderation-problem)
- - [House of the Dragon scorched earth with a single shot of Rhaenyra](https://www.polygon.com/23421693/house-dragon-finale-recap-episode-10-rhaenyra-daemon)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dragon Con 2022](https://kotaku.com/cosplay-photo-video-gallery-dragon-con-2022-atlanta-1849697288)
+ - [The 7 best, worst, and cringiest moments of Modern Warfare 2&#39;s campaign](https://www.pcgamer.com/the-7-best-worst-and-cringiest-moments-of-modern-warfare-2s-campaign)
+ - [The Tenants, A Landlord Video Game, Is Pure Fantasy](https://kotaku.com/the-tenants-indie-pc-steam-game-new-release-the-sims-1849697036)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
