@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [B.A. poster in Brazil](http://9gag.com/gag/ap9B4Op)
- - 🚯 [Da F....??](http://9gag.com/gag/agoNWZx)
- - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
+ - 🚖 [A developed country is not a place where the poor have cars, It\u2019s where the rich use public transpo](http://9gag.com/gag/aKEqPDW)
+ - 🚯 [No OC, still good...](http://9gag.com/gag/a5X7N8g)
+ - 🚯 [Had me in the first half.](http://9gag.com/gag/aoKjB7A)<!-- MEMES:END -->
 
 --- 
 
