@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Q1 2023: profits and Windows down but Xbox and devices up](https://www.theverge.com/2022/10/25/23422903/microsoft-q1-2023-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Marvel’s Guardians of the Galaxy Holiday Special seems to be a Kevin Bacon heist in first trailer](https://www.theverge.com/2022/10/25/23423246/guardians-of-the-galaxy-holiday-special-trailer-marvel-disney-plus)
- - [Mountain’s keyboards are getting even bigger](https://www.theverge.com/2022/10/25/23423128/mountain-mechanical-keyboard-streamdeck-accessories-peripherals-displaypad-macropad)<!-- TECH:END -->
+ - [Alphabet reports Q3 advertising sales of $54.5B, up from $53.1B YoY, missing estimates of $56.6B, and Google Search revenue of $39.5B, up from $37.9B YoY &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/221025/p33#a221025p33)
+ - [Shows like The Crown: 13 other titles to check out after season 5](https://www.androidauthority.com/shows-like-the-crown-netflix-3224103/)
+ - [Apple &amp; Spotify now fighting over audio books](https://appleinsider.com/articles/22/10/25/apple-spotify-now-fighting-over-audio-books?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
