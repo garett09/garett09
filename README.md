@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dutch is wild](http://9gag.com/gag/a7qbz72)
- - 🚯 [Terrible](http://9gag.com/gag/awZ76qy)
- - 🚯 [Legend on the track!](http://9gag.com/gag/aKEBrw6)<!-- MEMES:END -->
+ - 🚖 [B.A. poster in Brazil](http://9gag.com/gag/ap9B4Op)
+ - 🚯 [Da F....??](http://9gag.com/gag/agoNWZx)
+ - 🚯 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
 
 --- 
 
