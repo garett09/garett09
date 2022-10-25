@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan tells its citizens to sign up for digital IDs or possibly lose access to public health insurance, as many worry their data might be misused or stolen &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/221025/p5#a221025p5)
- - [Nvidia investigating reports of RTX 4090 power cables burning or melting](https://www.theverge.com/2022/10/25/23422349/nvidia-rtx-4090-power-cables-connectors-melting-burning)
- - [The UK&#39;s FCA plans to investigate Apple, Amazon, Google, and Meta&#39;s moves into retail financial services over competition and consumer harm concerns &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221025/p4#a221025p4)<!-- TECH:END -->
+ - [New York-based Bilt, which offers a loyalty program and credit card to convert rent payments into points, raised $150M led by Left Lane at a $1.5B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/221025/p7#a221025p7)
+ - [The Hunt for the Dark Web’s Biggest Kingpin, Part 1: The Shadow](https://www.wired.com/story/alphabay-series-part-1-the-shadow/)
+ - [EcoFlow’s redesigned River 2 batteries double as kettle bells](https://www.theverge.com/2022/10/25/23422380/ecoflow-river-2-max-pro-specs-price-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
