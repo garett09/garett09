@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its finale, House of the Dragon became a worthy Game of Thrones successor](https://www.theverge.com/23421346/house-of-the-dragon-season-1-finale-hbo)
- - [Bose discontinues its niche Sport Open Earbuds](https://www.theverge.com/2022/10/25/23413646/bose-sport-open-earbuds-discontinued-sale)
- - [The new Motorola Razr has arrived in Europe, but there’s no release date yet](https://www.theverge.com/2022/10/25/23422477/motorola-razr-2022-europe-release-date-price-uk-foldable)<!-- TECH:END -->
+ - [PayPal gets Passkey support on iPhone, iPad, Mac in U.S.](https://appleinsider.com/articles/22/10/25/paypal-gets-passkey-support-on-iphone-ipad-mac-in-us?utm_medium=rss)
+ - [How much money you save with Apple One bundles in Fall 2022](https://appleinsider.com/inside/apple-one/tips/how-much-money-you-save-with-apple-one-bundles-in-fall-2022?utm_medium=rss)
+ - [You can&#39;t pair the first Apple Pencil with a USB-C iPad Pro](https://appleinsider.com/articles/22/10/24/you-cant-pair-the-first-apple-pencil-with-a-usb-c-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
