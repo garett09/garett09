@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can watch House of the Dragon without HBO in December](https://www.polygon.com/23423336/watch-house-of-the-dragon-without-hbo-december-release-date-physical-edition-purchase)
- - [Gotham Knights’ Cops Are The Only Enemies That Don’t Give XP](https://kotaku.com/batman-gotham-knights-game-cops-ps5-xbox-court-of-owls-1849701213)
- - [I’d pet Pokémon’s newest dog Greavard, even if it cost me my life](https://www.polygon.com/pokemon/23422976/pokemon-scarlet-violet-greavard-emo)<!-- GAME:END -->
+ - [James Gunn will be DC’s Kevin Feige](https://www.polygon.com/23423532/james-gunn-dc-studios-warner-bros-peter-safran)
+ - [Amazon&#39;s Fallout TV series reveals its first official image](https://www.pcgamer.com/amazons-fallout-tv-series-reveals-its-first-official-image)
+ - [Modern Warfare 2 post-credits scene reimagines Call of Duty&#39;s most infamous level](https://www.pcgamer.com/modern-warfare-2-post-credits-scene-reimagines-call-of-dutys-most-infamous-level)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
