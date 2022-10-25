@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out Maintenance Mode, meant to keep a device&#39;s data safe during repair, to select Galaxy devices with One UI 5 worldwide &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/221025/p25#a221025p25)
- - [Apple issues first developer beta for iOS 16.2, iPadOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/10/25/apple-issues-first-developer-beta-for-ios-162-ipados-162-watchos-92?utm_medium=rss)
- - [iPadOS 16.2 beta features Freeform, full external display support](https://appleinsider.com/articles/22/10/25/ipados-162-beta-features-freeform-full-external-display-support?utm_medium=rss)<!-- TECH:END -->
+ - [Splatoon 3 might feel faster after its next update](https://www.theverge.com/2022/10/25/23423284/splatoon-3-version-1-2-0-update-feel-faster)
+ - [$1,000 off the Samsung 75-inch The Frame QLED smart TV, and more TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
+ - [Picture this: Lego’s working on a Polaroid replica](https://www.theverge.com/2022/10/25/23423120/lego-polaroid-land-camera-sx-70-replica-film-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
