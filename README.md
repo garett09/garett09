@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shutterstock partners with OpenAI to begin selling DALL-E 2-generated stock imagery &quot;in the coming months&quot; and launches a Contributor Fund to reimburse creators &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221025/p10#a221025p10)
- - [Tim Cook calls on Apple&#39;s suppliers to decarbonize by 2030](https://appleinsider.com/articles/22/10/25/tim-cook-calls-on-apples-suppliers-to-decarbonize-by-2030?utm_medium=rss)
- - [Sustainable Farming Has an Unlikely Ally: Satellites](https://www.wired.com/story/perennial-carbon-capture-satellite/)<!-- TECH:END -->
+ - [A book excerpt details US law enforcement efforts to catch Alpha02, who created AlphaBay, the largest online drug and crime bazaar, in 2014 and ran the service &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221025/p14#a221025p14)
+ - [The Competition Commission of India fines Google $113M over alleged anti-competitive Play Store practices, following a $161.9M fine over Android from last week &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221025/p13#a221025p13)
+ - [BitMEX CEO Alexander H&amp;ouml;ptner steps down as CEO of the crypto exchange with immediate effect, replaced by CFO Stephan Lutz; H&amp;ouml;ptner joined BitMEX in 2021 &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221025/p12#a221025p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
