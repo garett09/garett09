@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Bilt, which offers a loyalty program and credit card to convert rent payments into points, raised $150M led by Left Lane at a $1.5B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/221025/p7#a221025p7)
- - [The Hunt for the Dark Web’s Biggest Kingpin, Part 1: The Shadow](https://www.wired.com/story/alphabay-series-part-1-the-shadow/)
- - [EcoFlow’s redesigned River 2 batteries double as kettle bells](https://www.theverge.com/2022/10/25/23422380/ecoflow-river-2-max-pro-specs-price-date)<!-- TECH:END -->
+ - [Shutterstock partners with OpenAI to begin selling DALL-E 2-generated stock imagery &quot;in the coming months&quot; and launches a Contributor Fund to reimburse creators &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221025/p10#a221025p10)
+ - [Tim Cook calls on Apple&#39;s suppliers to decarbonize by 2030](https://appleinsider.com/articles/22/10/25/tim-cook-calls-on-apples-suppliers-to-decarbonize-by-2030?utm_medium=rss)
+ - [Sustainable Farming Has an Unlikely Ally: Satellites](https://www.wired.com/story/perennial-carbon-capture-satellite/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
