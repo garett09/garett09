@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even with proof like this from one of their own, they still blame racism on everybody else](http://9gag.com/gag/aYVe4Rw)
- - 🚯 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
- - 🚯 [She needs money fast](http://9gag.com/gag/aYVeKRO)<!-- MEMES:END -->
+ - 🚖 [Make it make sense](http://9gag.com/gag/adPj6bQ)
+ - 🚯 [Asking the Real Questions](http://9gag.com/gag/aYVeLeq)
+ - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)<!-- MEMES:END -->
 
 --- 
 
