@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung rolls out Maintenance Mode, meant to keep a device&#39;s data safe during repair, to select Galaxy devices with One UI 5 worldwide &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/221025/p25#a221025p25)
  - [Apple issues first developer beta for iOS 16.2, iPadOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/10/25/apple-issues-first-developer-beta-for-ios-162-ipados-162-watchos-92?utm_medium=rss)
- - [&#39;I could have died&#39; says Apple Watch-wearing doctor who took a hard fall](https://appleinsider.com/articles/22/10/25/i-could-have-died-says-apple-watch-wearing-doctor-who-took-a-hard-fall?utm_medium=rss)
- - [Upcoming Game of Thrones spinoffs: Beyond House of the Dragon](https://www.androidauthority.com/game-of-thrones-spinoffs-3223895/)<!-- TECH:END -->
+ - [iPadOS 16.2 beta features Freeform, full external display support](https://appleinsider.com/articles/22/10/25/ipados-162-beta-features-freeform-full-external-display-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
