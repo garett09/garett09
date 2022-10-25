@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terrible](http://9gag.com/gag/awZ76qy)
- - 🚯 [My noodle can&#39;t f**king keep up](http://9gag.com/gag/aA0pWwL)
- - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
+ - 🚖 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
+ - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
+ - 🚯 [Finally true equality](http://9gag.com/gag/avQPrgO)<!-- MEMES:END -->
 
 --- 
 
