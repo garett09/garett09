@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s new ghost dog loves fetch, shattering bones, and stealing your life force](https://www.polygon.com/pokemon/23422523/pokemon-scarlet-violet-ghost-type-dog-greavard)
- - [Barbarian is finally streaming on HBO Max](https://www.polygon.com/23399286/barbarian-hbo-max-streaming-release-date-how-watch)
- - [New Tales from the Borderlands review](https://www.pcgamer.com/new-tales-from-the-borderlands-review)<!-- GAME:END -->
+ - [Overwatch 2 Halloween Twitch Drops: How To Grab A Winston Werewolf Skin &lpar;And More&rpar;](https://kotaku.com/overwatch-2-halloween-twitch-drops-winston-reinhardt-br-1849698847)
+ - [New seasons of Doctor Who to stream on Disney Plus in 2023](https://www.polygon.com/23422605/doctor-who-disney-plus-bbc-david-tennant)
+ - [Creative Assembly vows investigation after &#39;deeply concerning and serious&#39; allegations of workplace abuse](https://www.pcgamer.com/creative-assembly-vows-investigation-after-deeply-concerning-and-serious-allegations-of-workplace-abuse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
