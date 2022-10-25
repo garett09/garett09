@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss movies like this](http://9gag.com/gag/a9q77w1)
- - 🚯 [Witches throughout time](http://9gag.com/gag/az2j8mx)
- - 🚯 [Finally true equality](http://9gag.com/gag/avQPrgO)<!-- MEMES:END -->
+ - 🚖 [Asking the Real Questions](http://9gag.com/gag/aYVeLeq)
+ - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
+ - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
 
 --- 
 
