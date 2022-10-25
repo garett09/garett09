@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 3&#39;s Most Hated Feature Stuck Around Because Of Its Box](https://kotaku.com/diablo-3-real-money-auction-house-box-blizzard-1849700971)
- - [The 8 great ‘psychotic women’ movies](https://www.polygon.com/what-to-watch/23409525/best-horror-movies-women-psychological-thrillers)
- - [The best Chainsaw Man fights](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)<!-- GAME:END -->
+ - [You can watch House of the Dragon without HBO in December](https://www.polygon.com/23423336/watch-house-of-the-dragon-without-hbo-december-release-date-physical-edition-purchase)
+ - [Gotham Knights’ Cops Are The Only Enemies That Don’t Give XP](https://kotaku.com/batman-gotham-knights-game-cops-ps5-xbox-court-of-owls-1849701213)
+ - [I’d pet Pokémon’s newest dog Greavard, even if it cost me my life](https://www.polygon.com/pokemon/23422976/pokemon-scarlet-violet-greavard-emo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
