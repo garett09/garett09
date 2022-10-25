@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal gets Passkey support on iPhone, iPad, Mac in U.S.](https://appleinsider.com/articles/22/10/25/paypal-gets-passkey-support-on-iphone-ipad-mac-in-us?utm_medium=rss)
- - [Purdue University expands semiconductor education as some estimates say the US&#39; chip reshoring effort needs 50,000+ new engineers over the next five years &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/221025/p18#a221025p18)
- - [This week&#39;s best early Black Friday sales on Apple: save up to $600](https://appleinsider.com/articles/22/10/24/this-weeks-best-early-black-friday-sales-on-apple-save-up-to-600?utm_medium=rss)<!-- TECH:END -->
+ - [In its finale, House of the Dragon became a worthy Game of Thrones successor](https://www.theverge.com/23421346/house-of-the-dragon-season-1-finale-hbo)
+ - [Bose discontinues its niche Sport Open Earbuds](https://www.theverge.com/2022/10/25/23413646/bose-sport-open-earbuds-discontinued-sale)
+ - [The new Motorola Razr has arrived in Europe, but there’s no release date yet](https://www.theverge.com/2022/10/25/23422477/motorola-razr-2022-europe-release-date-price-uk-foldable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
