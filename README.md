@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet reports Q3 advertising sales of $54.5B, up from $53.1B YoY, missing estimates of $56.6B, and Google Search revenue of $39.5B, up from $37.9B YoY &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/221025/p33#a221025p33)
- - [Shows like The Crown: 13 other titles to check out after season 5](https://www.androidauthority.com/shows-like-the-crown-netflix-3224103/)
- - [Apple &amp; Spotify now fighting over audio books](https://appleinsider.com/articles/22/10/25/apple-spotify-now-fighting-over-audio-books?utm_medium=rss)<!-- TECH:END -->
+ - [Apple earns five Gotham Awards nominations for its original series](https://appleinsider.com/articles/22/10/25/apple-earns-five-gotham-award-nominations-for-its-original-series?utm_medium=rss)
+ - [Microsoft says more than 20 million people have used Xbox Cloud Gaming](https://www.theverge.com/2022/10/25/23423668/microsoft-xbox-cloud-gaming-20-million-people-streamed)
+ - [Spotify hits 195 million paid subscribers](https://www.theverge.com/2022/10/25/23423510/spotify-total-subscribers-rogan-markle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
