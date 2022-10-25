@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 2 teaches players the worst way to ‘de-escalate’ a risky situation](https://www.polygon.com/23423009/call-of-duty-modern-warfare-2-de-escalation-trailer-park-press-f)
- - [The Console Age is Coming to Age of Empires](https://news.xbox.com/en-us/2022/10/25/the-console-age-is-coming-to-age-of-empires/)
- - [Dear Polygon: I want a horror movie with gnarly practical effects](https://www.polygon.com/what-to-watch/2022/10/25/23414966/scary-horror-movies-to-watch-practical-gore-day-of-the-dead-cure-orphan)<!-- GAME:END -->
+ - [The Guardians finally come to Earth in the Guardians of the Galaxy Holiday Special trailer](https://www.polygon.com/23344842/guardians-of-the-galaxy-holiday-special-trailer-release-date)
+ - [Here’s a first look at Amazon’s Fallout TV series](https://www.polygon.com/23423117/fallout-tv-series-amazon-prime-first-image)
+ - [Age of Empires 25th Anniversary Broadcast Recap](https://news.xbox.com/en-us/2022/10/25/age-of-empires-25th-anniversary-broadcast-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
