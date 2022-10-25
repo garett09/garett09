@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal gets Passkey support on iPhone, iPad, Mac in U.S.](https://appleinsider.com/articles/22/10/25/paypal-gets-passkey-support-on-iphone-ipad-mac-in-us?utm_medium=rss)
- - [How much money you save with Apple One bundles in Fall 2022](https://appleinsider.com/inside/apple-one/tips/how-much-money-you-save-with-apple-one-bundles-in-fall-2022?utm_medium=rss)
- - [You can&#39;t pair the first Apple Pencil with a USB-C iPad Pro](https://appleinsider.com/articles/22/10/24/you-cant-pair-the-first-apple-pencil-with-a-usb-c-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple updates iWork apps with macOS Ventura &amp; iPadOS 16 features](https://appleinsider.com/articles/22/10/25/apple-updates-iwork-apps-with-macos-ventura-ipados-16-features?utm_medium=rss)
+ - [Who wants to buy an e-bike made by a car company?](https://www.theverge.com/2022/10/25/23422664/rivian-ebike-cars-electric-motors-porsche-bosch)
+ - [Lucid’s $1,200 at-home EV charger can add up to 80 miles per hour](https://www.theverge.com/2022/10/25/23422522/lucid-ev-charger-air-home-cargo-accessories-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
