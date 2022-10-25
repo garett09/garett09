@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Splatoon 3 might feel faster after its next update](https://www.theverge.com/2022/10/25/23423284/splatoon-3-version-1-2-0-update-feel-faster)
- - [$1,000 off the Samsung 75-inch The Frame QLED smart TV, and more TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
- - [Picture this: Lego’s working on a Polaroid replica](https://www.theverge.com/2022/10/25/23423120/lego-polaroid-land-camera-sx-70-replica-film-ideas)<!-- TECH:END -->
+ - [Microsoft Q1 2023: profits and Windows down but Xbox and devices up](https://www.theverge.com/2022/10/25/23422903/microsoft-q1-2023-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Marvel’s Guardians of the Galaxy Holiday Special seems to be a Kevin Bacon heist in first trailer](https://www.theverge.com/2022/10/25/23423246/guardians-of-the-galaxy-holiday-special-trailer-marvel-disney-plus)
+ - [Mountain’s keyboards are getting even bigger](https://www.theverge.com/2022/10/25/23423128/mountain-mechanical-keyboard-streamdeck-accessories-peripherals-displaypad-macropad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
