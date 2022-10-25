@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No OC, still good...](http://9gag.com/gag/a5X7N8g)
- - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
+ - 🚖 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
+ - 🚯 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)
  - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)<!-- MEMES:END -->
 
 --- 
