@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian IT giants crack down on moonlighting over fears of workers sharing corporate secrets with rivals; estimates: 5% to 9% of Indian IT staff take second jobs &lpar;Financial Times&rpar;](http://www.techmeme.com/221025/p1#a221025p1)
- - [Experts raise conflict of interest concerns over Eric Schmidt&#39;s private investments into AI startups while he was National Security Commission on AI&#39;s chairman &lpar;Eamon Javers/CNBC&rpar;](http://www.techmeme.com/221024/p34#a221024p34)
- - [Barcelona-based Seqera Labs, which provides data orchestration and workflow software for life sciences, has raised a &amp;euro;22M Series A led by Lee Fixel&#39;s Addition &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221024/p33#a221024p33)<!-- TECH:END -->
+ - [Funtouch OS 13 is here: What to know about Vivo’s new Android 13 skin](https://www.androidauthority.com/vivo-funtouch-os-13-3224209/)
+ - [Now 200MP cameras are coming to budget phones](https://www.androidauthority.com/200mp-camera-mid-range-phone-redmi-3223744/)
+ - [Sources: Microsoft is stocking up on Chinese games to emulate Sony&#39;s success with Genshin Impact; filings: Microsoft paid $4.8M for Snail Games&#39; ARK and ARK 2 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221025/p2#a221025p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
