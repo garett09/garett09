@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Guardians finally come to Earth in the Guardians of the Galaxy Holiday Special trailer](https://www.polygon.com/23344842/guardians-of-the-galaxy-holiday-special-trailer-release-date)
- - [Here’s a first look at Amazon’s Fallout TV series](https://www.polygon.com/23423117/fallout-tv-series-amazon-prime-first-image)
- - [Age of Empires 25th Anniversary Broadcast Recap](https://news.xbox.com/en-us/2022/10/25/age-of-empires-25th-anniversary-broadcast-recap/)<!-- GAME:END -->
+ - [Diablo 3&#39;s Most Hated Feature Stuck Around Because Of Its Box](https://kotaku.com/diablo-3-real-money-auction-house-box-blizzard-1849700971)
+ - [The 8 great ‘psychotic women’ movies](https://www.polygon.com/what-to-watch/23409525/best-horror-movies-women-psychological-thrillers)
+ - [The best Chainsaw Man fights](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
