@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia PC Graphics Card Cables May Be Burning, So There&#39;s An Investigation](https://kotaku.com/nvidia-4000-series-graphics-card-burning-melting-1849702050)
- - [Report: After Sony, Microsoft Wants Its Own Genshin Impact Now](https://kotaku.com/genshin-impact-microsoft-playstation-hoyoverse-1849701955)
- - [10 Horror Games Worse Than The Movies They&#39;re Based On](https://kotaku.com/friday-the-13th-halloween-horror-games-scorn-fear-alien-1849701961)<!-- GAME:END -->
+ - [Activision Tries To Get Civil Rights Lawsuit Thrown Out Again, Fails Again](https://kotaku.com/activision-blizzard-civil-rights-gender-lawsuit-case-1849702374)
+ - [Two Guys Tried To Solve The Mystery Of Kanye Quest 3030](https://kotaku.com/kanye-west-yeezy-ye-3000-video-game-aunty-donna-yeezus-1849697630)
+ - [&#39;Joe Biden&#39;, who may or may not be the US president, is absolutely dominating Guilty Gear fighting tournaments](https://www.pcgamer.com/joe-biden-who-may-or-may-not-be-the-us-president-is-absolutely-dominating-guilty-gear-fighting-tournaments)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
