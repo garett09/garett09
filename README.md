@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp confirms a major outage worldwide, starting around 3AM ET, and says it is &quot;working to restore WhatsApp for everyone as quickly as possible&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p3#a221025p3)
- - [WhatsApp is down in a major outage](https://www.theverge.com/2022/10/25/23422343/whatsapp-down-outage)
- - [Huawei Sets November Launch For New Flip Phone     - CNET](https://www.cnet.com/tech/mobile/huawei-sets-november-launch-for-new-flip-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Japan tells its citizens to sign up for digital IDs or possibly lose access to public health insurance, as many worry their data might be misused or stolen &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/221025/p5#a221025p5)
+ - [Nvidia investigating reports of RTX 4090 power cables burning or melting](https://www.theverge.com/2022/10/25/23422349/nvidia-rtx-4090-power-cables-connectors-melting-burning)
+ - [The UK&#39;s FCA plans to investigate Apple, Amazon, Google, and Meta&#39;s moves into retail financial services over competition and consumer harm concerns &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221025/p4#a221025p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
