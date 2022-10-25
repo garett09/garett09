@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
+ - 🚖 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
  - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
- - 🚯 [Finally true equality](http://9gag.com/gag/avQPrgO)<!-- MEMES:END -->
+ - 🚯 [What Anime Has Both:](http://9gag.com/gag/aVbXnRP)<!-- MEMES:END -->
 
 --- 
 
