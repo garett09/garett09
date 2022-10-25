@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [James Gunn will be DC’s Kevin Feige](https://www.polygon.com/23423532/james-gunn-dc-studios-warner-bros-peter-safran)
- - [Amazon&#39;s Fallout TV series reveals its first official image](https://www.pcgamer.com/amazons-fallout-tv-series-reveals-its-first-official-image)
- - [Modern Warfare 2 post-credits scene reimagines Call of Duty&#39;s most infamous level](https://www.pcgamer.com/modern-warfare-2-post-credits-scene-reimagines-call-of-dutys-most-infamous-level)<!-- GAME:END -->
+ - [Nvidia PC Graphics Card Cables May Be Burning, So There&#39;s An Investigation](https://kotaku.com/nvidia-4000-series-graphics-card-burning-melting-1849702050)
+ - [Report: After Sony, Microsoft Wants Its Own Genshin Impact Now](https://kotaku.com/genshin-impact-microsoft-playstation-hoyoverse-1849701955)
+ - [10 Horror Games Worse Than The Movies They&#39;re Based On](https://kotaku.com/friday-the-13th-halloween-horror-games-scorn-fear-alien-1849701961)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
