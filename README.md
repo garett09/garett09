@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Modern Warfare 2 safe codes for Alone and El Sin Nombre](https://www.pcgamer.com/call-of-duty-modern-warfare-2-mw2-safe-codes)
  - [Dark Souls 2: Scholar of the First Sin is back online, but original Dark Souls is offline forever](https://www.pcgamer.com/dark-souls-2-scholar-of-the-first-sin-is-back-online-but-original-dark-souls-is-offline-forever)
- - [Terra Invicta beginner&#39;s guide: Five things to know before getting started](https://www.pcgamer.com/terra-invicta-beginners-guide)
- - [Wordle today: 493 answer and hint for Tuesday, October 25](https://www.pcgamer.com/wordle-today-493-answer-hint)<!-- GAME:END -->
+ - [Terra Invicta beginner&#39;s guide: Five things to know before getting started](https://www.pcgamer.com/terra-invicta-beginners-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
