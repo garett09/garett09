@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
- - 🚯 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 🚯 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)<!-- MEMES:END -->
+ - 🚖 [Maximum Derp](http://9gag.com/gag/aGExDx5)
+ - 🚯 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
+ - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 --- 
 
