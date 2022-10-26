@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
- - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 🚯 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)<!-- MEMES:END -->
+ - 🚖 [How the soup base for hotpot is made](http://9gag.com/gag/aA01g19)
+ - 🚯 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
+ - 🚯 [Perfection](http://9gag.com/gag/aPgDYjG)<!-- MEMES:END -->
 
 --- 
 
