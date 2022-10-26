@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16-inch iPad could arrive in late 2023](https://appleinsider.com/articles/22/10/26/16-inch-ipad-could-arrive-in-late-2023?utm_medium=rss)
- - [Just $99 for the Lenovo Flex 3, and many more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [The best Black Friday deals you can already get at Best Buy](https://www.theverge.com/23422750/black-friday-2022-cyber-monday-best-buy-tech-deals)<!-- TECH:END -->
+ - [Facebook and Instagram are making it easier for brands to file IP takedowns](https://www.theverge.com/2022/10/26/23424636/facebook-instagram-intellectual-property-takedowns-trademark-copyright-reporting-system)
+ - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)
+ - [Covid-19 sweeping through Foxconn&#39;s main iPhone factory](https://appleinsider.com/articles/22/10/26/foxconns-main-iphone-factory-hit-by-covid-19-outbreak?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
