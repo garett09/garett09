@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $79.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)
- - [How to turn off 5G on your Android phone](https://www.androidauthority.com/how-to-turn-off-5g-android-3225031/)
- - [Apple&#39;s new iCloud website design is beautiful](https://appleinsider.com/articles/22/10/26/apples-new-icloud-website-design-is-beautiful?utm_medium=rss)<!-- TECH:END -->
+ - [Gamevice Flex review: Finally, a controller that works with iPhone cases](https://appleinsider.com/articles/22/10/26/gamevice-flex-review-finally-a-controller-that-works-with-iphone-cases?utm_medium=rss)
+ - [Meta Reports Third Quarter 2022 Results &lpar;Meta&rpar;](http://www.techmeme.com/221026/p22#a221026p22)
+ - [Apple&#39;s legendary Clarus the dogcow returns in macOS Ventura](https://appleinsider.com/articles/22/06/14/apples-legendary-clarus-the-dogcow-returns-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
