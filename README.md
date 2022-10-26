@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Make it make sense](http://9gag.com/gag/adPj6bQ)
- - 🚯 [Asking the Real Questions](http://9gag.com/gag/aYVeLeq)
- - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)<!-- MEMES:END -->
+ - 🚖 [The horror of this scene is beyond words to describe.](http://9gag.com/gag/axojZxD)
+ - 🚯 [First hindutva PM](http://9gag.com/gag/aQE8erw)
+ - 🚯 [Can anyone tell me why cant i take a decent picture with this item?](http://9gag.com/gag/a4oY4MQ)<!-- MEMES:END -->
 
 --- 
 
