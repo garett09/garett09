@@ -139,8 +139,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Snap CEO firm believer in Apple&#39;s evolving privacy moves](https://appleinsider.com/articles/22/10/26/snap-ceo-firm-believer-in-apples-evolving-privacy-moves?utm_medium=rss)
- - [A profile of Delaware Chancery Court judge Kathaleen McCormick, who is overseeing the Elon Musk-Twitter dispute, ahead of the Friday deadline to close the deal &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/221026/p11#a221026p11)
- - [Meta lashes out about Apple&#39;s new charge for social media boosts](https://appleinsider.com/articles/22/10/26/meta-lashes-out-about-apples-new-charge-for-social-media-boosts?utm_medium=rss)<!-- TECH:END -->
+ - [How to use Apple Pencil&#39;s new Hover Mode with M2 iPad Pro](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-apple-pencils-new-hover-mode-with-m2-ipad-pro?utm_medium=rss)
+ - [Apple iPad &lpar;10th gen&rpar; review: stuck in the middle](https://www.theverge.com/23418039/apple-ipad-review-10th-gen-2022-10-9-tablet-ipados)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
