@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s new Halloween event has great ideas and paltry rewards](https://www.polygon.com/23425226/overwatch-2-halloween-event-rewards-skins-prices)
- - [Generation Zero Content Update: Machines at War and Bases to Conquer](https://news.xbox.com/en-us/2022/10/26/generation-zero-content-update-machines-at-war-and-bases-to-conquer/)
- - [Overwatch 2 Players Are Getting Hit With Server Errors Following Latest Update](https://kotaku.com/url-overwatch-2-lc-208-server-error-update-halloween-f-1849707155)<!-- GAME:END -->
+ - [Microsoft Says Xbox Price Increases Are Coming](https://kotaku.com/xbox-price-increase-hike-game-pass-series-x-microsoft-1849707483)
+ - [Xbox boss Phil Spencer says the metaverse is like &#39;a poorly built videogame&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-the-metaverse-is-like-a-poorly-built-videogame)
+ - [Modern Warfare 2 launch times: the global release schedule](https://www.pcgamer.com/modern-warfare-2-launch-times-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
