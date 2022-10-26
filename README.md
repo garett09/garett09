@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix warns memory chip demand faces an &quot;unprecedented deterioration&quot; and reports Q3 2022 operating profit fell 60% YoY to ~$1.16B amid soaring inflation &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p5#a221026p5)
- - [Android phones offered early US quake warning, beating iPhones to the punch](https://www.androidauthority.com/android-phones-earthquake-detection-warning-usa-3224704/)
- - [Colorado-based Fermyon, which offers a managed cloud service for building WebAssembly-based microservices, raised a $20M Series A led by Insight Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221026/p4#a221026p4)<!-- TECH:END -->
+ - [Google agrees to improve its compliance program for legal demands in a settlement with the US DOJ, which said Google lost data sought by investigators in 2016 &lpar;Richard Vanderford/Wall Street Journal&rpar;](http://www.techmeme.com/221026/p6#a221026p6)
+ - [Apple, Google and Samsung Have Very Different Visions for the Tablet     - CNET](https://www.cnet.com/tech/computing/apple-google-and-samsung-have-very-different-visions-for-the-tablet/#ftag=CAD590a51e)
+ - [The Pixel 7 series helped Google achieve its ‘highest selling week ever’](https://www.androidauthority.com/google-pixel-7-highest-selling-week-sales-3224721/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
