@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Make it make sense](http://9gag.com/gag/adPj6bQ)
- - 🚯 [Get ready for Standards! ...and make&#39;em double..](http://9gag.com/gag/aEq7nAn)
- - 🚯 [I don\u2019t even have to lie. Best workplace ever.](http://9gag.com/gag/aBdYwqz)<!-- MEMES:END -->
+ - 🚖 [Just a normal post](http://9gag.com/gag/aeQGe4O)
+ - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
+ - 🚯 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)<!-- MEMES:END -->
 
 --- 
 
