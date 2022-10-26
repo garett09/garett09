@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Halloween Quests in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-halloween)
- - [House of the Dragon’s first season shows how good it hurts when you see everything coming](https://www.polygon.com/23423671/house-dragon-season-1-review)
- - [World of Warcraft: How talent trees work in the Dragonflight pre-patch](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-talent-tree)<!-- GAME:END -->
+ - [Gotham Knights didn’t just kill Batman — it also killed Gotham](https://www.polygon.com/23423315/gotham-knights-is-batman-dead-gotham-city-districts-open-world)
+ - [November Savings promotion comes to PlayStation Store](https://blog.playstation.com/2022/10/26/november-savings-promotion-comes-to-playstation-store-2/)
+ - [LEGO Star Wars: The Skywalker Saga Galactic Edition Adds 30 Playable Characters](https://news.xbox.com/en-us/2022/10/26/lego-star-wars-skywalker-saga-galactic-edition-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
