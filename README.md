@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to improve its compliance program for legal demands in a settlement with the US DOJ, which said Google lost data sought by investigators in 2016 &lpar;Richard Vanderford/Wall Street Journal&rpar;](http://www.techmeme.com/221026/p6#a221026p6)
- - [Apple, Google and Samsung Have Very Different Visions for the Tablet     - CNET](https://www.cnet.com/tech/computing/apple-google-and-samsung-have-very-different-visions-for-the-tablet/#ftag=CAD590a51e)
- - [The Pixel 7 series helped Google achieve its ‘highest selling week ever’](https://www.androidauthority.com/google-pixel-7-highest-selling-week-sales-3224721/)<!-- TECH:END -->
+ - [How to use Dictation on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-dictation-on-macos-ventura?utm_medium=rss)
+ - [Daily Authority: Pocket seismometers](https://www.androidauthority.com/daily-authority-october-26-2022-3224728/)
+ - [Greg Joswiak confirms iPhone&#39;s future move to USB-C](https://appleinsider.com/articles/22/10/26/greg-joswiak-confirms-iphones-future-move-to-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
