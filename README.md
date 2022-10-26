@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights didn’t just kill Batman — it also killed Gotham](https://www.polygon.com/23423315/gotham-knights-is-batman-dead-gotham-city-districts-open-world)
- - [November Savings promotion comes to PlayStation Store](https://blog.playstation.com/2022/10/26/november-savings-promotion-comes-to-playstation-store-2/)
- - [LEGO Star Wars: The Skywalker Saga Galactic Edition Adds 30 Playable Characters](https://news.xbox.com/en-us/2022/10/26/lego-star-wars-skywalker-saga-galactic-edition-announce/)<!-- GAME:END -->
+ - [Screw Mickey, Disney Dreamlight Valley Villains Make The Game](https://kotaku.com/disney-dreamlight-valley-scar-update-ursula-rich-soil-1849700236)
+ - [I played this spellbindingly complex 4X classic, and all I got was a lot of dead halflings](https://www.pcgamer.com/i-played-this-spellbindingly-complex-4x-classic-and-all-i-got-was-a-lot-of-dead-halflings)
+ - [11 Gotham Knights Tips To Kick Criminal Ass And Clean The Streets In Style](https://kotaku.com/gotham-knights-tips-change-characters-knighthood-glide-1849701791)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
