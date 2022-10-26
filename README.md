@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap CEO firm believer in Apple&#39;s evolving privacy moves](https://appleinsider.com/articles/22/10/26/snap-ceo-firm-believer-in-apples-evolving-privacy-moves?utm_medium=rss)
- - [How to use Apple Pencil&#39;s new Hover Mode with M2 iPad Pro](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-apple-pencils-new-hover-mode-with-m2-ipad-pro?utm_medium=rss)
- - [Apple iPad &lpar;10th gen&rpar; review: stuck in the middle](https://www.theverge.com/23418039/apple-ipad-review-10th-gen-2022-10-9-tablet-ipados)<!-- TECH:END -->
+ - [Rode has launched a new gaming-focused audio product line](https://www.theverge.com/2022/10/26/23424305/rode-x-gaming-streaming-new-audio-products-microphones)
+ - [Boo! It’s a Halloween-themed Wallpaper Wednesday 👻 &lpar;Oct. 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-26-2022-3224367/)
+ - [The Deauther Watch is the world’s most annoying wearable](https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
