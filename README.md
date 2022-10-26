@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Witcher RPG is being remade ‘from the ground up’](https://www.polygon.com/23424555/the-witcher-remake-canis-majoris-announced-release-date-cd-projekt)
- - [This site lets you play any Doom WAD file just like that](https://www.pcgamer.com/this-site-lets-you-play-any-doom-wad-file-just-like-that)
- - [Hands-on with The Callisto Protocol reveals combat strategy, upgrades, ruthless enemies, and more](https://blog.playstation.com/2022/10/26/hands-on-with-the-callisto-protocol-reveals-combat-strategy-upgrades-ruthless-enemies-and-more/)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Overwatch 2’s Halloween Event Is A Major Downgrade](https://kotaku.com/overwatch-halloween-battle-pass-kiriko-skin-blizzard-1849704761)
+ - [Return to Ghostly Gameplay in Overwatch 2’s Halloween Terror](https://news.xbox.com/en-us/2022/10/26/return-to-ghostly-gameplay-in-overwatch-2s-halloween-terror/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
