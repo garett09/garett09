@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Screw Mickey, Disney Dreamlight Valley Villains Make The Game](https://kotaku.com/disney-dreamlight-valley-scar-update-ursula-rich-soil-1849700236)
- - [I played this spellbindingly complex 4X classic, and all I got was a lot of dead halflings](https://www.pcgamer.com/i-played-this-spellbindingly-complex-4x-classic-and-all-i-got-was-a-lot-of-dead-halflings)
- - [11 Gotham Knights Tips To Kick Criminal Ass And Clean The Streets In Style](https://kotaku.com/gotham-knights-tips-change-characters-knighthood-glide-1849701791)<!-- GAME:END -->
+ - [The original Witcher RPG is being remade ‘from the ground up’](https://www.polygon.com/23424555/the-witcher-remake-canis-majoris-announced-release-date-cd-projekt)
+ - [This site lets you play any Doom WAD file just like that](https://www.pcgamer.com/this-site-lets-you-play-any-doom-wad-file-just-like-that)
+ - [Hands-on with The Callisto Protocol reveals combat strategy, upgrades, ruthless enemies, and more](https://blog.playstation.com/2022/10/26/hands-on-with-the-callisto-protocol-reveals-combat-strategy-upgrades-ruthless-enemies-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
