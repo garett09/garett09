@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gamevice Flex review: Finally, a controller that works with iPhone cases](https://appleinsider.com/articles/22/10/26/gamevice-flex-review-finally-a-controller-that-works-with-iphone-cases?utm_medium=rss)
- - [Meta Reports Third Quarter 2022 Results &lpar;Meta&rpar;](http://www.techmeme.com/221026/p22#a221026p22)
- - [Apple&#39;s legendary Clarus the dogcow returns in macOS Ventura](https://appleinsider.com/articles/22/06/14/apples-legendary-clarus-the-dogcow-returns-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says Xbox Game Pass is profitable and accounts for ~15% of Xbox content and services revenue, after revealing PC Game Pass subscriptions rose 159% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221026/p27#a221026p27)
+ - [Tesla’s self-driving claims are reportedly under criminal investigation](https://www.theverge.com/2022/10/26/23425335/tesla-autopilot-justice-department-criminal-investigation)
+ - [Facebook Parent Meta&#39;s Earnings Fall Short as Advertising Fizzles     - CNET](https://www.cnet.com/news/social-media/facebook-parent-metas-earnings-fall-short-as-advertising-fizzles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
