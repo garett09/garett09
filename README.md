@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Here&#39;s the 494 answer and hint for Wednesday, October 26](https://www.pcgamer.com/wordle-today-494-answer-hint)
- - [This ceramic 3D printer on Kickstarter can print big things with waste products](https://www.pcgamer.com/this-ceramic-3d-printer-on-kickstarter-can-print-big-things-with-waste-products)
- - [The RTX 3060 is getting the 8GB release treatment](https://www.pcgamer.com/the-rtx-3060-is-getting-the-8gb-release-treatment)<!-- GAME:END -->
+ - [How to complete the Halloween Quests in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-halloween)
+ - [House of the Dragon’s first season shows how good it hurts when you see everything coming](https://www.polygon.com/23423671/house-dragon-season-1-review)
+ - [World of Warcraft: How talent trees work in the Dragonflight pre-patch](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-talent-tree)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
