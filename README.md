@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
- - 🚯 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
+ - 🚖 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 🚯 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
+ - 🚯 [Dew it :d](http://9gag.com/gag/a2Km7oD)<!-- MEMES:END -->
 
 --- 
 
