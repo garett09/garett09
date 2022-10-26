@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Overwatch 2’s Halloween Event Is A Major Downgrade](https://kotaku.com/overwatch-halloween-battle-pass-kiriko-skin-blizzard-1849704761)
- - [Return to Ghostly Gameplay in Overwatch 2’s Halloween Terror](https://news.xbox.com/en-us/2022/10/26/return-to-ghostly-gameplay-in-overwatch-2s-halloween-terror/)<!-- GAME:END -->
+ - [This Cyberpunk 2077 Quest Is A Must-Play If You&#39;ve Watched The Netflix Anime](https://kotaku.com/cyberpunk-2077-netflix-anime-graffiti-v-devil-judgment-1849705253)
+ - [Gaming Store Robbed At Gunpoint Months After $14,000 Burglary](https://kotaku.com/pink-gorilla-games-store-seattle-robbery-gun-pokemon-1849705349)
+ - [Play The Quarry This Halloween and Grab Limited-Time Character Outfits](https://news.xbox.com/en-us/2022/10/26/the-quarry-halloween-limited-time-character-outfits/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
