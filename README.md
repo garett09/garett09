@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The horror of this scene is beyond words to describe.](http://9gag.com/gag/axojZxD)
- - 🚯 [First hindutva PM](http://9gag.com/gag/aQE8erw)
- - 🚯 [Can anyone tell me why cant i take a decent picture with this item?](http://9gag.com/gag/a4oY4MQ)<!-- MEMES:END -->
+ - 🚖 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - 🚯 [No OC, still good...](http://9gag.com/gag/a5X7N8g)
+ - 🚯 [First hindutva PM](http://9gag.com/gag/aQE8erw)<!-- MEMES:END -->
 
 --- 
 
