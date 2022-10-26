@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just realized that](http://9gag.com/gag/aoK99DA)
- - 🚯 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
- - 🚯 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)<!-- MEMES:END -->
+ - 🚖 [`so uncivilized` -obi wan kenobi](http://9gag.com/gag/az2j1Kz)
+ - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)<!-- MEMES:END -->
 
 --- 
 
