@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at HoloLens&#39; development, as Microsoft spurned an early lead in AR to cede ground to Meta and others; one executive blames a lack of money and people &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/221026/p16#a221026p16)
- - [Covid-19 sweeping through Foxconn&#39;s main iPhone factory](https://appleinsider.com/articles/22/10/26/foxconns-main-iphone-factory-hit-by-covid-19-outbreak?utm_medium=rss)
- - [Apple expands learning program for US educators](https://appleinsider.com/articles/22/10/26/apple-expands-learning-program-for-us-educators?utm_medium=rss)<!-- TECH:END -->
+ - [16-inch iPad could arrive in late 2023](https://appleinsider.com/articles/22/10/26/16-inch-ipad-could-arrive-in-late-2023?utm_medium=rss)
+ - [Just $99 for the Lenovo Flex 3, and many more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [The best Black Friday deals you can already get at Best Buy](https://www.theverge.com/23422750/black-friday-2022-cyber-monday-best-buy-tech-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
