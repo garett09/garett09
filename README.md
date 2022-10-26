@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Rogue One characters show up in this week’s Andor](https://www.polygon.com/star-wars/23424635/andor-saw-gerrera-rogue-one-characters-melshi)
- - [Rocksteady co-founders are leaving the studio just months ahead of Suicide Squad&#39;s release](https://www.pcgamer.com/rocksteady-co-founders-are-leaving-the-studio-just-months-ahead-of-suicide-squads-release)
- - [Marvel’s Midnight Suns: Super-heroic turn-based combat and card tactics explained](https://blog.playstation.com/2022/10/26/marvels-midnight-suns-super-heroic-turn-based-combat-and-card-tactics-explained/)<!-- GAME:END -->
+ - [A Fireside Chat with Unity’s Marc Whitten](https://news.xbox.com/en-us/2022/10/26/a-fireside-chat-with-unitys-marc-whitten/)
+ - [InXile celebrates 20 years by remembering that time it made a baby game and got swept up in a moral panic](https://www.pcgamer.com/inxile-celebrates-20-years-by-remembering-that-time-it-made-a-baby-game-and-got-swept-up-in-a-moral-panic)
+ - [Dead by Daylight leaks reveal Cheryl’s magical girl outfit is on the way](https://www.polygon.com/23424874/dead-by-daylight-leaks-silent-hill-heather-cheryl-princess-heart-cosmetic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
