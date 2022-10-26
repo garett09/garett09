@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Cyberpunk 2077 Quest Is A Must-Play If You&#39;ve Watched The Netflix Anime](https://kotaku.com/cyberpunk-2077-netflix-anime-graffiti-v-devil-judgment-1849705253)
- - [Gaming Store Robbed At Gunpoint Months After $14,000 Burglary](https://kotaku.com/pink-gorilla-games-store-seattle-robbery-gun-pokemon-1849705349)
- - [Play The Quarry This Halloween and Grab Limited-Time Character Outfits](https://news.xbox.com/en-us/2022/10/26/the-quarry-halloween-limited-time-character-outfits/)<!-- GAME:END -->
+ - [Two Rogue One characters show up in this week’s Andor](https://www.polygon.com/star-wars/23424635/andor-saw-gerrera-rogue-one-characters-melshi)
+ - [Rocksteady co-founders are leaving the studio just months ahead of Suicide Squad&#39;s release](https://www.pcgamer.com/rocksteady-co-founders-are-leaving-the-studio-just-months-ahead-of-suicide-squads-release)
+ - [Marvel’s Midnight Suns: Super-heroic turn-based combat and card tactics explained](https://blog.playstation.com/2022/10/26/marvels-midnight-suns-super-heroic-turn-based-combat-and-card-tactics-explained/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
