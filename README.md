@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maximum Derp](http://9gag.com/gag/aGExDx5)
- - 🚯 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
- - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
+ - 🚖 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
+ - 🚯 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 🚯 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
 
 --- 
 
