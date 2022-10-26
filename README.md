@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [It actually worked. . .](http://9gag.com/gag/a4oYQnZ)
- - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
- - 🚯 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
+ - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 --- 
 
