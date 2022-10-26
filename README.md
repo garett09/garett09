@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the soup base for hotpot is made](http://9gag.com/gag/aA01g19)
- - 🚯 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
- - 🚯 [Perfection](http://9gag.com/gag/aPgDYjG)<!-- MEMES:END -->
+ - 🚖 [Make it make sense](http://9gag.com/gag/adPj6bQ)
+ - 🚯 [Get ready for Standards! ...and make&#39;em double..](http://9gag.com/gag/aEq7nAn)
+ - 🚯 [I don\u2019t even have to lie. Best workplace ever.](http://9gag.com/gag/aBdYwqz)<!-- MEMES:END -->
 
 --- 
 
