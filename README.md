@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a normal post](http://9gag.com/gag/aeQGe4O)
- - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
- - 🚯 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)<!-- MEMES:END -->
+ - 🚖 [Just realized that](http://9gag.com/gag/aoK99DA)
+ - 🚯 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
+ - 🚯 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)<!-- MEMES:END -->
 
 --- 
 
