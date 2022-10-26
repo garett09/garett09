@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk seems to feel at home inside Twitter’s HQ as ‘Chief Twit’](https://www.theverge.com/2022/10/26/23423708/elon-musk-twitter-acquisition-close-san-francisco)
- - [Android’s creator has returned with a surveillance startup](https://www.androidauthority.com/andy-rubin-surveillance-startup-3225144/)
- - [The Wire blames retracted Meta story on ‘deception’ by staff member](https://www.theverge.com/2022/10/26/23425377/the-wire-subject-deception-member-team-meta-india)<!-- TECH:END -->
+ - [Swift Playgrounds 4.2 adds in Machine Learning lessons](https://appleinsider.com/articles/22/10/26/swift-playgrounds-42-adds-in-machine-learning-lessons?utm_medium=rss)
+ - [How to clear the DNS cache on a Mac](https://appleinsider.com/inside/macos/tips/how-to-clear-your-dns-cache-on-a-mac?utm_medium=rss)
+ - [Apple halts gambling ads in App Store](https://appleinsider.com/articles/22/10/26/apple-halts-gambling-ads-in-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
