@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Tries To Get Civil Rights Lawsuit Thrown Out Again, Fails Again](https://kotaku.com/activision-blizzard-civil-rights-gender-lawsuit-case-1849702374)
- - [Two Guys Tried To Solve The Mystery Of Kanye Quest 3030](https://kotaku.com/kanye-west-yeezy-ye-3000-video-game-aunty-donna-yeezus-1849697630)
- - [&#39;Joe Biden&#39;, who may or may not be the US president, is absolutely dominating Guilty Gear fighting tournaments](https://www.pcgamer.com/joe-biden-who-may-or-may-not-be-the-us-president-is-absolutely-dominating-guilty-gear-fighting-tournaments)<!-- GAME:END -->
+ - [The Simpsons Is Going Anime For A Death Note Tribute, And It Looks...Good?](https://kotaku.com/the-simpsons-death-note-anime-treehouse-horror-dr-movie-1849702547)
+ - [Turn on this helpful Overwatch 2 setting right now](https://www.pcgamer.com/turn-on-this-helpful-overwatch-2-setting-right-now)
+ - [Marvel Snap Ignored A Card Game Staple And It Worked](https://kotaku.com/marvel-snap-mulligan-quicksilver-hearthstone-best-deck-1849702407)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
