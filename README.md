@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts)
- - [iOS 16.2 adds a way to report inadvertent Emergency SOS activations](https://www.theverge.com/2022/10/25/23423641/ios-16-2-emergency-sos-car-crash-detection-report)
- - [Satya Nadella says more than 20M people have streamed games using Xbox Cloud Gaming, double the 10M figure that Microsoft shared in April 2022 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p38#a221025p38)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 8 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-8-come-to-disney-plus/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-on-prime-video/#ftag=CAD590a51e)
+ - [CEO Daniel Ek says US Spotify subscribers can expect price hikes in 2023, after recent increases by Apple and YouTube; Premium has cost $9.99/month since 2011 &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/221025/p41#a221025p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
