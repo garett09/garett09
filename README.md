@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mechanic&#39;s Tool Sets for 2022     - CNET](https://www.cnet.com/roadshow/news/best-mechanics-tool-set/#ftag=CAD590a51e)
- - [Ford is ending production of the Fiesta in Europe](https://www.theverge.com/2022/10/26/23424591/ford-fiesta-discontinuted-europe)
- - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $79.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)
+ - [How to turn off 5G on your Android phone](https://www.androidauthority.com/how-to-turn-off-5g-android-3225031/)
+ - [Apple&#39;s new iCloud website design is beautiful](https://appleinsider.com/articles/22/10/26/apples-new-icloud-website-design-is-beautiful?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
