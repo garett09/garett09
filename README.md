@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 🚯 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
- - 🚯 [Dew it :d](http://9gag.com/gag/a2Km7oD)<!-- MEMES:END -->
+ - 🚖 [When the engineer used 190% of his brain.](http://9gag.com/gag/aKEq7pO)
+ - 🚯 [Some respect at least](http://9gag.com/gag/aMEGZE1)
+ - 🚯 [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)<!-- MEMES:END -->
 
 --- 
 
