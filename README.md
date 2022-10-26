@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just realized that](http://9gag.com/gag/aoK99DA)
- - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
+ - 🚖 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 🚯 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
  - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 --- 
