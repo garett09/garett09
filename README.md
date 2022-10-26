@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram are making it easier for brands to file IP takedowns](https://www.theverge.com/2022/10/26/23424636/facebook-instagram-intellectual-property-takedowns-trademark-copyright-reporting-system)
- - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)
- - [Covid-19 sweeping through Foxconn&#39;s main iPhone factory](https://appleinsider.com/articles/22/10/26/foxconns-main-iphone-factory-hit-by-covid-19-outbreak?utm_medium=rss)<!-- TECH:END -->
+ - [Best Mechanic&#39;s Tool Sets for 2022     - CNET](https://www.cnet.com/roadshow/news/best-mechanics-tool-set/#ftag=CAD590a51e)
+ - [Ford is ending production of the Fiesta in Europe](https://www.theverge.com/2022/10/26/23424591/ford-fiesta-discontinuted-europe)
+ - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
