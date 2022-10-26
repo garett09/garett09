@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When Will Episode 8 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-8-come-to-disney-plus/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-on-prime-video/#ftag=CAD590a51e)
- - [CEO Daniel Ek says US Spotify subscribers can expect price hikes in 2023, after recent increases by Apple and YouTube; Premium has cost $9.99/month since 2011 &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/221025/p41#a221025p41)<!-- TECH:END -->
+ - [Greg Joswiak confirms iPhone&#39;s future move to USB-C](https://appleinsider.com/articles/22/10/26/greg-joswiak-confirms-iphones-future-move-to-usb-c?utm_medium=rss)
+ - [Square&#39;s parent company Block sells access to customers&#39; email addresses used to receive receipts, which experts say falls short of best privacy practices &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/221025/p45#a221025p45)
+ - [Israel-based Vesttoo, an AI-powered risk transfer marketplace connecting insurers and investors, has raised an $80M Series C at a $1B post-money valuation &lpar;Ofir Dor/Globes Online&rpar;](http://www.techmeme.com/221025/p44#a221025p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
