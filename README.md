@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Dictation on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-dictation-on-macos-ventura?utm_medium=rss)
- - [Daily Authority: Pocket seismometers](https://www.androidauthority.com/daily-authority-october-26-2022-3224728/)
- - [Greg Joswiak confirms iPhone&#39;s future move to USB-C](https://appleinsider.com/articles/22/10/26/greg-joswiak-confirms-iphones-future-move-to-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [Snap CEO firm believer in Apple&#39;s evolving privacy moves](https://appleinsider.com/articles/22/10/26/snap-ceo-firm-believer-in-apples-evolving-privacy-moves?utm_medium=rss)
+ - [A profile of Delaware Chancery Court judge Kathaleen McCormick, who is overseeing the Elon Musk-Twitter dispute, ahead of the Friday deadline to close the deal &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/221026/p11#a221026p11)
+ - [Meta lashes out about Apple&#39;s new charge for social media boosts](https://appleinsider.com/articles/22/10/26/meta-lashes-out-about-apples-new-charge-for-social-media-boosts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
