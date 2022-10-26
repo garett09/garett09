@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
- - 🚯 [I always wanted to rescue a stray dog](http://9gag.com/gag/aREAAv2)
- - 🚯 [Witches throughout time](http://9gag.com/gag/az2j8mx)<!-- MEMES:END -->
+ - 🚖 [Witches throughout time](http://9gag.com/gag/az2j8mx)
+ - 🚯 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - 🚯 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)<!-- MEMES:END -->
 
 --- 
 
