@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rode has launched a new gaming-focused audio product line](https://www.theverge.com/2022/10/26/23424305/rode-x-gaming-streaming-new-audio-products-microphones)
- - [Boo! It’s a Halloween-themed Wallpaper Wednesday 👻 &lpar;Oct. 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-26-2022-3224367/)
- - [The Deauther Watch is the world’s most annoying wearable](https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled)<!-- TECH:END -->
+ - [Apple expands learning program for US educators](https://appleinsider.com/articles/22/10/26/apple-expands-learning-program-for-us-educators?utm_medium=rss)
+ - [App Store developers aren’t happy with gambling app ads appearing beneath their listings](https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers)
+ - [Nothing’s new Ear Stick earbuds are a stripped-back alternative to its debut Ear 1](https://www.theverge.com/2022/10/26/23422385/nothing-ear-stick-wireless-earbuds-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
