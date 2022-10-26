@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 🚯 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
- - 🚯 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
+ - 🚖 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
+ - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 🚯 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)<!-- MEMES:END -->
 
 --- 
 
