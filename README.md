@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`so uncivilized` -obi wan kenobi](http://9gag.com/gag/az2j1Kz)
- - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 🚯 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)<!-- MEMES:END -->
+ - 🚖 [When the engineer used 190% of his brain.](http://9gag.com/gag/aKEq7pO)
+ - 🚯 [MVP](http://9gag.com/gag/aVbPwvw)
+ - 🚯 [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)<!-- MEMES:END -->
 
 --- 
 
