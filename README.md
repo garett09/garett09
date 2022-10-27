@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based buy now, pay later startup Tymit raised a &amp;pound;23M Series A led by retailer Frasers Group &lpar;Eric Johansson/Verdict&rpar;](http://www.techmeme.com/221027/p33#a221027p33)
- - [Best Headphone Deals: Save on Sony, Bose, AirPods and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Apple flexes its control over the App Store](https://www.theverge.com/2022/10/27/23426993/apple-app-store-rules-guidelines-ads-changes-flexes-control)<!-- TECH:END -->
+ - [Amazon reports Q3 revenue up 15% YoY to $127.1B, net income down 9% YoY to $2.9B, and AWS revenue up 27% YoY to $20.5B; stock is down 17%+ on weak Q4 guidance &lpar;Amazon&rpar;](http://www.techmeme.com/221027/p34#a221027p34)
+ - [Apple claims faster response to security bugs, launches dedicated site](https://appleinsider.com/articles/22/10/27/apple-claims-faster-response-to-security-bugs-launches-dedicated-site?utm_medium=rss)
+ - [Walmart Brings Netflix &#39;Stranger Things,&#39; &#39;Squid Game&#39; and &#39;Witcher&#39; Merch to Stores     - CNET](https://www.cnet.com/culture/entertainment/walmart-brings-netflix-stranger-things-squid-game-and-witcher-merch-to-stores/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
