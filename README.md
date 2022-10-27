@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Adam changed DC hierarchy by putting the wrong person in charge](https://www.polygon.com/23425433/black-adam-amanda-waller-dcu-hierarchy)
- - [Razer Deathadder V3 Pro](https://www.pcgamer.com/razer-deathadder-v3-pro-review)
- - [20 Tips I Wish I Knew Before Playing Marvel Snap, 2022&#39;s Best New Card Game](https://kotaku.com/marvel-snap-best-deck-pool-explained-level-tier-rewards-1849702430)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Halloween Event Is Brimming With Secrets, If You Know Where To Look](https://kotaku.com/overwatch-2-halloween-goodie-ghost-dog-werewolf-winston-1849709569)
+ - [8 Forspoken parkour abilities to make Frey a spell-slinging acrobat](https://blog.playstation.com/2022/10/27/8-forspoken-parkour-abilities-to-make-frey-a-spell-slinging-acrobat/)
+ - [We’re streaming New State Mobile today](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
