@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~20% in 2022 to $200B, down from 38% in 2021, as digital adoption growth normalizes &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/221027/p12#a221027p12)
- - [Microsoft’s great OneNote merge begins with a single app in the Windows store](https://www.theverge.com/2022/10/27/23426155/microsoft-onenote-windows-store-single-app)
- - [Asus’ foldable laptop goes on sale for $3,499.99](https://www.theverge.com/2022/10/27/23426154/asus-zenbook-17-fold-oled-foldable-laptop-price-release-date-specs-features)<!-- TECH:END -->
+ - [South Korean prosecutors indict four current and former Samsung employees over allegedly stealing and leaking semiconductor tech to overseas companies &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/221027/p14#a221027p14)
+ - [Forget USB-C. An iPhone With No Charging Port Isn&#39;t That Absurd     - CNET](https://www.cnet.com/tech/mobile/forget-usb-c-an-iphone-with-no-charging-port-isnt-that-absurd/#ftag=CAD590a51e)
+ - [Lenovo Legion 5i Pro Review: Powerful Gaming in an Uninspired Design     - CNET](https://www.cnet.com/tech/computing/lenovo-legion-5i-pro-review-powerful-gaming-in-an-uninspired-design/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
