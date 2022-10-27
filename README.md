@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Halloween Event Is Brimming With Secrets, If You Know Where To Look](https://kotaku.com/overwatch-2-halloween-goodie-ghost-dog-werewolf-winston-1849709569)
- - [8 Forspoken parkour abilities to make Frey a spell-slinging acrobat](https://blog.playstation.com/2022/10/27/8-forspoken-parkour-abilities-to-make-frey-a-spell-slinging-acrobat/)
- - [We’re streaming New State Mobile today](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)<!-- GAME:END -->
+ - [Tim Burton taught stop-motion legend Henry Selick how to stay weird, but keep an audience](https://www.polygon.com/23423515/henry-selick-interview-wendell-and-wild-tim-burton-jordan-peele)
+ - [Moonbreaker&#39;s latest update completely ditches microtransactions](https://www.pcgamer.com/moonbreakers-latest-update-completely-ditches-microtransactions)
+ - [CPU cooling company &#39;definitely doesn&#39;t recommend&#39; adding salt to your thermal paste](https://www.pcgamer.com/cpu-cooling-company-definitely-doesnt-recommend-adding-salt-to-your-thermal-paste)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
