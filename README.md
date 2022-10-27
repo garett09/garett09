@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Couch co-op isn’t dead — here are our favorite split-screen games](https://www.polygon.com/dear-polygon/23424637/split-screen-multiplayer-games-local-couch-coop)
- - [Daniel Radcliffe basically made a Mad Max: Fury Road show](https://www.polygon.com/23426909/daniel-radcliffe-mad-max-miracle-workers-season-4-trailer)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Renowned Sega developer Rieko Kodama dies at 58](https://www.pcgamer.com/renowned-sega-developer-rieko-kodama-dies-at-58)
+ - [My OCD Doesn’t Want Me To Play Horror Games, But I Do It Anyway](https://kotaku.com/ocd-horror-video-games-mental-health-outlast-bloodborne-1849711413)
+ - [GameStop Workers Reveal The Junk They Can’t Sell That’s Piling Up](https://kotaku.com/gamestop-preorder-squishmallow-sonic-babylons-fall-toys-1849711126)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
