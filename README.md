@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t laugh or you going to hell](http://9gag.com/gag/abv0OOb)
- - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
- - 🚯 [Find yourself a girl like this one](http://9gag.com/gag/agoVOqw)<!-- MEMES:END -->
+ - 🚖 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
+ - 🚯 [Parking Mastery](http://9gag.com/gag/aPgDAOq)
+ - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
 
 --- 
 
