@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People are spending $40 on black market Modern Warfare 2 Burger King skins](https://www.pcgamer.com/people-are-spending-dollar40-on-black-market-modern-warfare-2-burger-king-skins)
- - [Snag 6 months of GeForce Now Priority access for only $30](https://www.pcgamer.com/snag-6-months-of-geforce-now-priority-access-for-only-dollar30)
- - [Junji Ito Maniac’s intro is a trippy and creepy first look at the Netflix anime](https://www.polygon.com/23427182/junji-ito-maniac-netflix-release-date-japanese-tales-macabre)<!-- GAME:END -->
+ - [Father &amp; &#39;Adult Son&#39; Found Guilty Over Pokémon Go &#39;Brawl&#39;](https://kotaku.com/pokemon-go-brawl-assault-st-louis-guilty-punch-niantic-1849712876)
+ - [Marvel&#39;s Midnight Suns is getting Deadpool, Venom, and more as DLC](https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc)
+ - [Oops: Gotham Knights Briefly Ditched Its Anti-Piracy Protection](https://kotaku.com/gotham-knights-denuvo-hack-piracy-pc-framerate-patch-1849712660)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
