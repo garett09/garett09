@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Versa Networks, which helps companies unify network and security tools into a single console, raised $120M in equity and debt, bringing its funding to $316M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221027/p17#a221027p17)
- - [Daily deals Oct. 27: $800 off Samsung OLED TVs, $200 off M1 12.9-inch iPad Pro, Hover-1 Blast scooter for $90, more](https://appleinsider.com/articles/22/10/27/daily-deals-oct-27-800-off-samsung-oled-tvs-200-off-m1-129-inch-ipad-pro-hover-1-blast-scooter-for-90-more?utm_medium=rss)
- - [Redmi Note 12 series launched: 200MP camera, 210W charging for under $400](https://www.androidauthority.com/redmi-note-12-series-3225470/)<!-- TECH:END -->
+ - [The best new streaming movies this week on Netflix, Shudder, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Call of Duty: Modern Warfare 2’s disc is just 72MB of nothing](https://www.theverge.com/2022/10/27/23426302/call-of-duty-modern-warfare-2-download-disc-72mb)
+ - [Snap rolls out Director Mode for Snapchat, offering users more powerful video tools, including a green screen and a BeReal-style dual camera mode &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221027/p20#a221027p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
