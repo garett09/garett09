@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swift Playgrounds 4.2 adds in Machine Learning lessons](https://appleinsider.com/articles/22/10/26/swift-playgrounds-42-adds-in-machine-learning-lessons?utm_medium=rss)
- - [How to clear the DNS cache on a Mac](https://appleinsider.com/inside/macos/tips/how-to-clear-your-dns-cache-on-a-mac?utm_medium=rss)
- - [Apple halts gambling ads in App Store](https://appleinsider.com/articles/22/10/26/apple-halts-gambling-ads-in-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-hit-disney-plus/#ftag=CAD590a51e)
+ - [Winter Weather Could Knock Out Your Home Internet. Here&#39;s What You Can Do     - CNET](https://www.cnet.com/news/how-likely-is-bad-weather-to-knock-out-your-home-internet/#ftag=CAD590a51e)
+ - [Elevate Your Mental Health With These 6 Easy Thought Exercises     - CNET](https://www.cnet.com/health/mental/elevate-your-mental-health-with-these-6-easy-thought-exercises/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
