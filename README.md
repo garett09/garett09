@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launched price hikes knowing Services growth was faltering](https://appleinsider.com/articles/22/10/27/apple-launched-price-hikes-knowing-services-growth-was-faltering?utm_medium=rss)
- - [Mac revenue set a record for Apple but will decline in the next quarter](https://appleinsider.com/articles/22/10/27/mac-revenue-set-a-record-for-apple-but-will-decline-in-the-next-quarter?utm_medium=rss)
- - [2022 Taurid Meteor Shower Could Bring Fiery Halloween Outburst     - CNET](https://www.cnet.com/science/space/2022-taurid-meteor-shower-could-bring-fiery-halloween-outburst/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global smartphone shipments fell 12% YoY to 301M units in Q3 2022, the lowest Q3 level since 2014; Apple was the only top-five brand to grow YoY, up 2% &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/221027/p43#a221027p43)
+ - [Classera, a San Francisco-based ed tech startup focused on the Middle East and Africa, raised a $40M Series A led by Sanabil, which is run by Saudi Arabia&#39;s PIF &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221027/p42#a221027p42)
+ - [Intel layoffs are coming in Q4 as it cuts billions in spending](https://www.theverge.com/2022/10/27/23427403/intel-q3-2022-layoffs-billions-cost-reductions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
