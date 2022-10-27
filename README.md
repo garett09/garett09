@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Netflix, Shudder, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Call of Duty: Modern Warfare 2’s disc is just 72MB of nothing](https://www.theverge.com/2022/10/27/23426302/call-of-duty-modern-warfare-2-download-disc-72mb)
- - [Snap rolls out Director Mode for Snapchat, offering users more powerful video tools, including a green screen and a BeReal-style dual camera mode &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221027/p20#a221027p20)<!-- TECH:END -->
+ - [This week&#39;s best early Black Friday sales on Apple: save up to $800](https://appleinsider.com/articles/22/10/24/this-weeks-best-early-black-friday-sales-on-apple-save-up-to-600?utm_medium=rss)
+ - [Daily deals Oct. 27: up to $1,000 off Samsung OLED TVs, $200 off M1 12.9-inch iPad Pro, Hover-1 Blast scooter for $90, more](https://appleinsider.com/articles/22/10/27/daily-deals-oct-27-800-off-samsung-oled-tvs-200-off-m1-129-inch-ipad-pro-hover-1-blast-scooter-for-90-more?utm_medium=rss)
+ - [How to use Macro Focus on the Google Pixel 7 Pro](https://www.androidauthority.com/pixel-7-macro-focus-3221847/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
