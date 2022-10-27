@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Noblechairs should never have let us design our own gaming chair](https://www.pcgamer.com/noblechairs-overclockers-custom-printed-gaming-chairs)
- - [How Ahsoka Tano went from sidekick to one of Star Wars’ most important characters](https://www.polygon.com/star-wars/23425270/tales-jedi-star-wars-ahsoka-timeline-series)
- - [The Callisto Protocol proves too violent for Japanese censors](https://www.polygon.com/23426201/the-callisto-protocol-japan-release-cero-violence)<!-- GAME:END -->
+ - [Black Adam changed DC hierarchy by putting the wrong person in charge](https://www.polygon.com/23425433/black-adam-amanda-waller-dcu-hierarchy)
+ - [Razer Deathadder V3 Pro](https://www.pcgamer.com/razer-deathadder-v3-pro-review)
+ - [20 Tips I Wish I Knew Before Playing Marvel Snap, 2022&#39;s Best New Card Game](https://kotaku.com/marvel-snap-best-deck-pool-explained-level-tier-rewards-1849702430)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
