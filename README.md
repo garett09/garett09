@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports Q3 revenue up 15% YoY to $127.1B, net income down 9% YoY to $2.9B, and AWS revenue up 27% YoY to $20.5B; stock is down 17%+ on weak Q4 guidance &lpar;Amazon&rpar;](http://www.techmeme.com/221027/p34#a221027p34)
- - [Apple claims faster response to security bugs, launches dedicated site](https://appleinsider.com/articles/22/10/27/apple-claims-faster-response-to-security-bugs-launches-dedicated-site?utm_medium=rss)
- - [Walmart Brings Netflix &#39;Stranger Things,&#39; &#39;Squid Game&#39; and &#39;Witcher&#39; Merch to Stores     - CNET](https://www.cnet.com/culture/entertainment/walmart-brings-netflix-stranger-things-squid-game-and-witcher-merch-to-stores/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple reports another record quarter but shows signs of lukewarm iPhone 14 demand](https://www.theverge.com/2022/10/27/23427035/apple-q4-2022-earnings-iphone-14-sales-mac-services)
+ - [Amazon’s sales are up, but it’s expecting a tight holiday season](https://www.theverge.com/2022/10/27/23416918/amazon-q3-2022-earnings-sales-up-holiday-season-andy-jassy)
+ - [Telegram testing pay-to-view posts, skirts Apple payment system](https://appleinsider.com/articles/22/10/27/telegram-testing-pay-to-view-posts-skirts-apple-payment-system?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
