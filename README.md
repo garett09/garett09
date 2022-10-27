@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 🚯 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
+ - 🚖 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 🚯 [Dew it :d](http://9gag.com/gag/a2Km7oD)
+ - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)<!-- MEMES:END -->
 
 --- 
 
