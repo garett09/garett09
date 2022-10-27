@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft: Xbox game streaming console is ‘years away’](https://www.theverge.com/2022/10/27/23426512/microsoft-xbox-game-streaming-console-years-away)
- - [Over 30 of the best wireless keyboard deals for work or play](https://www.androidauthority.com/best-wireless-keyboard-deals-1113192/)
- - [iPads made flight decks digital — now United is using them to confirm airplane maintenance](https://www.theverge.com/2022/10/27/23424311/united-airlines-apple-ipad-mrd-maintenance-signoff-faa-approval)<!-- TECH:END -->
+ - [YouTube opens a verification program for licensed healthcare professionals, adding panels to videos marking them as reliable sources of health information &lpar;Nicole Wetsman/The Verge&rpar;](http://www.techmeme.com/221027/p30#a221027p30)
+ - [Amazon reissues $99 Apple TV 4K deal &amp; Apple Watch price drops leading up to Black Friday](https://appleinsider.com/articles/22/10/27/amazon-reissues-99-apple-tv-4k-deal-apple-watch-price-drops-leading-up-to-black-friday?utm_medium=rss)
+ - [25 Great Deals From Best Buy&#39;s Early Black Friday Sale &lpar;2022&rpar;: TVs, Phones, Laptops](https://www.wired.com/story/best-buy-deals-black-friday-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
