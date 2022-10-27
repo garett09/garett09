@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 🚯 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
- - 🚯 [Who reads it anyway](http://9gag.com/gag/aREALQ2)<!-- MEMES:END -->
+ - 🚖 [The economy...](http://9gag.com/gag/aZDMLv0)
+ - 🚯 [Parking Mastery](http://9gag.com/gag/aPgDAOq)
+ - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)<!-- MEMES:END -->
 
 --- 
 
