@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube opens a verification program for licensed healthcare professionals, adding panels to videos marking them as reliable sources of health information &lpar;Nicole Wetsman/The Verge&rpar;](http://www.techmeme.com/221027/p30#a221027p30)
- - [Amazon reissues $99 Apple TV 4K deal &amp; Apple Watch price drops leading up to Black Friday](https://appleinsider.com/articles/22/10/27/amazon-reissues-99-apple-tv-4k-deal-apple-watch-price-drops-leading-up-to-black-friday?utm_medium=rss)
- - [25 Great Deals From Best Buy&#39;s Early Black Friday Sale &lpar;2022&rpar;: TVs, Phones, Laptops](https://www.wired.com/story/best-buy-deals-black-friday-2022-1/)<!-- TECH:END -->
+ - [United Airlines celebrates over a decade of success implementing Apple technology](https://appleinsider.com/articles/22/10/27/united-airlines-celebrates-over-a-decade-of-success-implementing-apple-technology?utm_medium=rss)
+ - [OnePlus offers vague timeline for its Android 13 beta rollout](https://www.androidauthority.com/oneplus-android-13-rollout-3225581/)
+ - [The best new TV shows to stream this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
