@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors indict four current and former Samsung employees over allegedly stealing and leaking semiconductor tech to overseas companies &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/221027/p14#a221027p14)
- - [Forget USB-C. An iPhone With No Charging Port Isn&#39;t That Absurd     - CNET](https://www.cnet.com/tech/mobile/forget-usb-c-an-iphone-with-no-charging-port-isnt-that-absurd/#ftag=CAD590a51e)
- - [Lenovo Legion 5i Pro Review: Powerful Gaming in an Uninspired Design     - CNET](https://www.cnet.com/tech/computing/lenovo-legion-5i-pro-review-powerful-gaming-in-an-uninspired-design/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Versa Networks, which helps companies unify network and security tools into a single console, raised $120M in equity and debt, bringing its funding to $316M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221027/p17#a221027p17)
+ - [Daily deals Oct. 27: $800 off Samsung OLED TVs, $200 off M1 12.9-inch iPad Pro, Hover-1 Blast scooter for $90, more](https://appleinsider.com/articles/22/10/27/daily-deals-oct-27-800-off-samsung-oled-tvs-200-off-m1-129-inch-ipad-pro-hover-1-blast-scooter-for-90-more?utm_medium=rss)
+ - [Redmi Note 12 series launched: 200MP camera, 210W charging for under $400](https://www.androidauthority.com/redmi-note-12-series-3225470/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
