@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep them coming bois!](http://9gag.com/gag/a1PM7O8)
- - 🚯 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 🚯 [What a fukin&#39; joke](http://9gag.com/gag/agoVQ1w)<!-- MEMES:END -->
+ - 🚖 [Yeah..... Nah](http://9gag.com/gag/aVbP7xK)
+ - 🚯 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 🚯 [Grade 7 teacher with her students](http://9gag.com/gag/ay2dXmy)<!-- MEMES:END -->
 
 --- 
 
