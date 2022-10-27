@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 things you should know before starting Marvel Snap](https://www.polygon.com/guides/23427096/marvel-snap-beginners-tips-cards-decks-pools-locations)
- - [Yoko Taro Is Gonna Delete These Fans&#39; Saves Forever And They&#39;re Gonna Like It](https://kotaku.com/yoko-taro-sinoalice-end-update-server-nier-mobile-1849711919)
- - [New Bodycam Horror Game Looks Freaking Terrifying](https://kotaku.com/bodycam-horror-spooky-paranormal-tales-pt-steam-1849711720)<!-- GAME:END -->
+ - [People are spending $40 on black market Modern Warfare 2 Burger King skins](https://www.pcgamer.com/people-are-spending-dollar40-on-black-market-modern-warfare-2-burger-king-skins)
+ - [Snag 6 months of GeForce Now Priority access for only $30](https://www.pcgamer.com/snag-6-months-of-geforce-now-priority-access-for-only-dollar30)
+ - [Junji Ito Maniac’s intro is a trippy and creepy first look at the Netflix anime](https://www.polygon.com/23427182/junji-ito-maniac-netflix-release-date-japanese-tales-macabre)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
