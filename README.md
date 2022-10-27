@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Create your own challenging Blue Fire levels with Void Maker DLC, out November 1](https://blog.playstation.com/2022/10/27/create-your-own-challenging-blue-fire-levels-with-void-maker-dlc-out-november-1/)
- - [This developer is paving the way for AI generated worlds in virtual reality](https://www.pcgamer.com/ai-generated-stable-diffusion-vr-dev-interview-scottie-fox)
- - [How to gain shields with jelly beans in Fortnite](https://www.pcgamer.com/fortnite-jelly-beans-gain-shields-quest)<!-- GAME:END -->
+ - [Noblechairs should never have let us design our own gaming chair](https://www.pcgamer.com/noblechairs-overclockers-custom-printed-gaming-chairs)
+ - [How Ahsoka Tano went from sidekick to one of Star Wars’ most important characters](https://www.polygon.com/star-wars/23425270/tales-jedi-star-wars-ahsoka-timeline-series)
+ - [The Callisto Protocol proves too violent for Japanese censors](https://www.polygon.com/23426201/the-callisto-protocol-japan-release-cero-violence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
