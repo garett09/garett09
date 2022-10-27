@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-hit-disney-plus/#ftag=CAD590a51e)
- - [Winter Weather Could Knock Out Your Home Internet. Here&#39;s What You Can Do     - CNET](https://www.cnet.com/news/how-likely-is-bad-weather-to-knock-out-your-home-internet/#ftag=CAD590a51e)
- - [Elevate Your Mental Health With These 6 Easy Thought Exercises     - CNET](https://www.cnet.com/health/mental/elevate-your-mental-health-with-these-6-easy-thought-exercises/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Finexio, which offers B2B accounts payable and procure-to-pay software, raised a $35M Series B led by JP Morgan at a $100M pre-money valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/221026/p37#a221026p37)
+ - [Canalys: China&#39;s Q3 smartphone shipments fell 11% YoY to 70M; Vivo, Oppo, and Honor fell 23%, 27%, and 16% respectively, Apple rose 36% on iPhone 14 Pro demand &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p36#a221026p36)
+ - [Atlanta-based ConnexPay, which integrates incoming user payments with supplier payments in one platform, raised $110M from FTV Capital for European expansion &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221026/p35#a221026p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
