@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Your Android phone definitely isn’t rooted](https://www.androidauthority.com/android-phone-rooted-poll-results-3225345/)
- - [Meta reports Instagram reached ~2B MAUs globally, up from 1B in 2018, and WhatsApp reached 2B+ DAUs &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221027/p8#a221027p8)
- - [Hong Kong-based digital payments startup Reap, which is developing tools for Web3 companies, raised a $40M Series A led by Acorn, Arcadia, and HashKey &lpar;Zinnia Lee/Forbes&rpar;](http://www.techmeme.com/221027/p7#a221027p7)<!-- TECH:END -->
+ - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~20% in 2022 to $200B, down from 38% in 2021, as digital adoption growth normalizes &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/221027/p12#a221027p12)
+ - [Microsoft’s great OneNote merge begins with a single app in the Windows store](https://www.theverge.com/2022/10/27/23426155/microsoft-onenote-windows-store-single-app)
+ - [Asus’ foldable laptop goes on sale for $3,499.99](https://www.theverge.com/2022/10/27/23426154/asus-zenbook-17-fold-oled-foldable-laptop-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
