@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there, 3000 years ago\u2026](http://9gag.com/gag/axojMvK)
- - 🚯 [Like many insane folks out there, this cat refuses to believe that mitochondria is the powerhouse of the cells.](http://9gag.com/gag/aEq70nO)
- - 🚯 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)<!-- MEMES:END -->
+ - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 🚯 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
+ - 🚯 [Who reads it anyway](http://9gag.com/gag/aREALQ2)<!-- MEMES:END -->
 
 --- 
 
