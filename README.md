@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta receives a ~$24.7M fine, the maximum possible, after a Washington judge found it had intentionally violated campaign finance disclosure laws 822 times &lpar;David Gutman/The Seattle Times&rpar;](http://www.techmeme.com/221027/p4#a221027p4)
- - [The Galaxy S22 series made more cash for Samsung than the S21 a year ago](https://www.androidauthority.com/samsung-galaxy-s22-q3-2022-3225304/)
- - [ICO, the UK&#39;s privacy watchdog, warns organizations of the risks of using &quot;emotional analysis&quot; tech, and plans to publish its biometric guidance in spring 2023 &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221027/p3#a221027p3)<!-- TECH:END -->
+ - [We asked, you told us: Your Android phone definitely isn’t rooted](https://www.androidauthority.com/android-phone-rooted-poll-results-3225345/)
+ - [Meta reports Instagram reached ~2B MAUs globally, up from 1B in 2018, and WhatsApp reached 2B+ DAUs &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221027/p8#a221027p8)
+ - [Hong Kong-based digital payments startup Reap, which is developing tools for Web3 companies, raised a $40M Series A led by Acorn, Arcadia, and HashKey &lpar;Zinnia Lee/Forbes&rpar;](http://www.techmeme.com/221027/p7#a221027p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
