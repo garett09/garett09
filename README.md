@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tim Burton taught stop-motion legend Henry Selick how to stay weird, but keep an audience](https://www.polygon.com/23423515/henry-selick-interview-wendell-and-wild-tim-burton-jordan-peele)
- - [Moonbreaker&#39;s latest update completely ditches microtransactions](https://www.pcgamer.com/moonbreakers-latest-update-completely-ditches-microtransactions)
- - [CPU cooling company &#39;definitely doesn&#39;t recommend&#39; adding salt to your thermal paste](https://www.pcgamer.com/cpu-cooling-company-definitely-doesnt-recommend-adding-salt-to-your-thermal-paste)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare II launches October 28 – here’s all the Intel PlayStation players need to know](https://blog.playstation.com/2022/10/27/call-of-duty-modern-warfare-ii-launches-october-28-heres-all-the-intel-playstation-players-need-to-know/)
+ - [Where to find jack-o-lanterns in Fortnite](https://www.pcgamer.com/fortnite-jack-o-lantern-locations)
+ - [Magic: The Gathering steps back in time for the new Brothers War set](https://www.pcgamer.com/magic-steps-back-in-time-for-the-new-brothers-war-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
