@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines celebrates over a decade of success implementing Apple technology](https://appleinsider.com/articles/22/10/27/united-airlines-celebrates-over-a-decade-of-success-implementing-apple-technology?utm_medium=rss)
- - [OnePlus offers vague timeline for its Android 13 beta rollout](https://www.androidauthority.com/oneplus-android-13-rollout-3225581/)
- - [The best new TV shows to stream this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
+ - [Apple Music removes Kanye West playlist after controversy](https://appleinsider.com/articles/22/10/27/apple-music-removes-kanye-west-playlist-after-controversy?utm_medium=rss)
+ - [Source: creators that use Snapchat&#39;s TikTok clone Spotlight will now be paid millions per year, down from millions per week in 2021 and $1M per day in 2020 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221027/p32#a221027p32)
+ - [Wendell &amp; Wild is a classic Henry Selick joint about living with your personal demons](https://www.theverge.com/2022/10/27/23424396/wendell-and-wild-review-jordan-peele-henry-sellick)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
