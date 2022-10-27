@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checkmate!](http://9gag.com/gag/az2j1yj)
- - 🚯 [Some respect at least](http://9gag.com/gag/aMEGZE1)
- - 🚯 [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)<!-- MEMES:END -->
+ - 🚖 [Dew it :d](http://9gag.com/gag/a2Km7oD)
+ - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 🚯 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
 
 --- 
 
