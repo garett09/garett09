@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Kioxia Holdings and US&#39; Western Digital open a new ~$6.79B flash memory fab in Mie Prefecture, amid a market downturn for memory chips &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/221027/p2#a221027p2)
- - [Apple patched a bug in iOS 16.1 and macOS Ventura that could allow apps with Bluetooth access to record user conversations with Siri without needing mic access &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/221027/p1#a221027p1)
- - [Finexio, which offers B2B accounts payable and procure-to-pay software, raised a $35M Series B led by JP Morgan at a $100M pre-money valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/221026/p37#a221026p37)<!-- TECH:END -->
+ - [Meta receives a ~$24.7M fine, the maximum possible, after a Washington judge found it had intentionally violated campaign finance disclosure laws 822 times &lpar;David Gutman/The Seattle Times&rpar;](http://www.techmeme.com/221027/p4#a221027p4)
+ - [The Galaxy S22 series made more cash for Samsung than the S21 a year ago](https://www.androidauthority.com/samsung-galaxy-s22-q3-2022-3225304/)
+ - [ICO, the UK&#39;s privacy watchdog, warns organizations of the risks of using &quot;emotional analysis&quot; tech, and plans to publish its biometric guidance in spring 2023 &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221027/p3#a221027p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
