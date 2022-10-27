@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checkmate!](http://9gag.com/gag/az2j1yj)
- - 🚯 [Same logic but double standards](http://9gag.com/gag/aZDMyyW)
- - 🚯 [Some respect at least](http://9gag.com/gag/aMEGZE1)<!-- MEMES:END -->
+ - 🚖 [Dew it :d](http://9gag.com/gag/a2Km7oD)
+ - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)<!-- MEMES:END -->
 
 --- 
 
