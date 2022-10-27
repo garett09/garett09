@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 🚯 [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)
- - 🚯 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)<!-- MEMES:END -->
+ - 🚖 [Keep them coming bois!](http://9gag.com/gag/a1PM7O8)
+ - 🚯 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 🚯 [What a fukin&#39; joke](http://9gag.com/gag/agoVQ1w)<!-- MEMES:END -->
 
 --- 
 
