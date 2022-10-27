@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports another record quarter but shows signs of lukewarm iPhone 14 demand](https://www.theverge.com/2022/10/27/23427035/apple-q4-2022-earnings-iphone-14-sales-mac-services)
- - [Amazon’s sales are up, but it’s expecting a tight holiday season](https://www.theverge.com/2022/10/27/23416918/amazon-q3-2022-earnings-sales-up-holiday-season-andy-jassy)
- - [Telegram testing pay-to-view posts, skirts Apple payment system](https://appleinsider.com/articles/22/10/27/telegram-testing-pay-to-view-posts-skirts-apple-payment-system?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launched price hikes knowing Services growth was faltering](https://appleinsider.com/articles/22/10/27/apple-launched-price-hikes-knowing-services-growth-was-faltering?utm_medium=rss)
+ - [Mac revenue set a record for Apple but will decline in the next quarter](https://appleinsider.com/articles/22/10/27/mac-revenue-set-a-record-for-apple-but-will-decline-in-the-next-quarter?utm_medium=rss)
+ - [2022 Taurid Meteor Shower Could Bring Fiery Halloween Outburst     - CNET](https://www.cnet.com/science/space/2022-taurid-meteor-shower-could-bring-fiery-halloween-outburst/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
