@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music removes Kanye West playlist after controversy](https://appleinsider.com/articles/22/10/27/apple-music-removes-kanye-west-playlist-after-controversy?utm_medium=rss)
- - [Source: creators that use Snapchat&#39;s TikTok clone Spotlight will now be paid millions per year, down from millions per week in 2021 and $1M per day in 2020 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221027/p32#a221027p32)
- - [Wendell &amp; Wild is a classic Henry Selick joint about living with your personal demons](https://www.theverge.com/2022/10/27/23424396/wendell-and-wild-review-jordan-peele-henry-sellick)<!-- TECH:END -->
+ - [London-based buy now, pay later startup Tymit raised a &amp;pound;23M Series A led by retailer Frasers Group &lpar;Eric Johansson/Verdict&rpar;](http://www.techmeme.com/221027/p33#a221027p33)
+ - [Best Headphone Deals: Save on Sony, Bose, AirPods and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [Apple flexes its control over the App Store](https://www.theverge.com/2022/10/27/23426993/apple-app-store-rules-guidelines-ads-changes-flexes-control)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
