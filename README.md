@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Renowned Sega developer Rieko Kodama dies at 58](https://www.pcgamer.com/renowned-sega-developer-rieko-kodama-dies-at-58)
- - [My OCD Doesn’t Want Me To Play Horror Games, But I Do It Anyway](https://kotaku.com/ocd-horror-video-games-mental-health-outlast-bloodborne-1849711413)
- - [GameStop Workers Reveal The Junk They Can’t Sell That’s Piling Up](https://kotaku.com/gamestop-preorder-squishmallow-sonic-babylons-fall-toys-1849711126)<!-- GAME:END -->
+ - [9 things you should know before starting Marvel Snap](https://www.polygon.com/guides/23427096/marvel-snap-beginners-tips-cards-decks-pools-locations)
+ - [Yoko Taro Is Gonna Delete These Fans&#39; Saves Forever And They&#39;re Gonna Like It](https://kotaku.com/yoko-taro-sinoalice-end-update-server-nier-mobile-1849711919)
+ - [New Bodycam Horror Game Looks Freaking Terrifying](https://kotaku.com/bodycam-horror-spooky-paranormal-tales-pt-steam-1849711720)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
