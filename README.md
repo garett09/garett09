@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare II launches October 28 – here’s all the Intel PlayStation players need to know](https://blog.playstation.com/2022/10/27/call-of-duty-modern-warfare-ii-launches-october-28-heres-all-the-intel-playstation-players-need-to-know/)
- - [Where to find jack-o-lanterns in Fortnite](https://www.pcgamer.com/fortnite-jack-o-lantern-locations)
- - [Magic: The Gathering steps back in time for the new Brothers War set](https://www.pcgamer.com/magic-steps-back-in-time-for-the-new-brothers-war-set)<!-- GAME:END -->
+ - [Couch co-op isn’t dead — here are our favorite split-screen games](https://www.polygon.com/dear-polygon/23424637/split-screen-multiplayer-games-local-couch-coop)
+ - [Daniel Radcliffe basically made a Mad Max: Fury Road show](https://www.polygon.com/23426909/daniel-radcliffe-mad-max-miracle-workers-season-4-trailer)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
