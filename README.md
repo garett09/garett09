@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - 🚯 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)<!-- MEMES:END -->
+ - 🚖 [Same logic but double standards](http://9gag.com/gag/aZDMyyW)
+ - 🚯 [Meat... Balls... Meatballs!](http://9gag.com/gag/aqe5eVQ)
+ - 🚯 [Respect My Feelings](http://9gag.com/gag/aA01yBE)<!-- MEMES:END -->
 
 --- 
 
