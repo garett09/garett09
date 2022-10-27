@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah..... Nah](http://9gag.com/gag/aVbP7xK)
- - 🚯 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 🚯 [Grade 7 teacher with her students](http://9gag.com/gag/ay2dXmy)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t laugh or you going to hell](http://9gag.com/gag/abv0OOb)
+ - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
+ - 🚯 [Find yourself a girl like this one](http://9gag.com/gag/agoVOqw)<!-- MEMES:END -->
 
 --- 
 
