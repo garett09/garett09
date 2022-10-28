@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
- - 🚯 [Is it true that some people are not able to hear their thoughts and see images in their heads? I can literally rotate figures in my thoughts.](http://9gag.com/gag/axoj1qn)<!-- MEMES:END -->
+ - 🚖 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
+ - 🚯 [Who reads it anyway](http://9gag.com/gag/aREALQ2)
+ - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
 
 --- 
 
