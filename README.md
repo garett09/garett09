@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Traffic jams are tied to lower birth weights, study finds](https://www.theverge.com/2022/10/28/23426970/birth-weight-infant-traffic-congestion-lower-health)
- - [The EU commissioner for the internal market warns that Twitter will have to comply with EU&#39;s new digital regulations, saying &quot;the bird will fly by our rules&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221028/p20#a221028p20)
- - [Telegram CEO says it will disable paid posts in its iOS app after being told Apple was not happy with creators monetizing &quot;without paying a 30% tax to Apple&quot; &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/221028/p19#a221028p19)<!-- TECH:END -->
+ - [Elon Musk firing Vijaya Gadde is a loss for free speech as she was the most responsible for Twitter&#39;s unmatched record defending &quot;actual&quot; free speech globally &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/221028/p22#a221028p22)
+ - [NASA&#39;s Webb Telescope Shares Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-shares-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)
+ - [Intel Reports Bleak Quarter as PC Sales Slow, but Investors Are Happy     - CNET](https://www.cnet.com/tech/computing/intel-reports-bleak-quarter-as-pc-sales-slow-but-investors-are-happy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
