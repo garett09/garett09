@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tenth-gen iPad&#39;s USB-C limited to Lightning speeds](https://appleinsider.com/articles/22/10/28/tenth-gen-ipads-usb-c-limited-to-lightning-speeds?utm_medium=rss)
- - [Since its NYSE debut in November 2013, Twitter stock has grown 8.4% annually on average, below the S&amp;P 500&#39;s 11% and Nasdaq 100&#39;s 15%, due to slow user growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p11#a221028p11)
- - [Xbox and PC players can’t disable crossplay in Call of Duty: Modern Warfare 2](https://www.theverge.com/2022/10/28/23428075/call-of-duty-modern-warfare-2-crossplay-xbox-pc)<!-- TECH:END -->
+ - [&quot;Welcome to hell, Elon:&quot; Musk won&#39;t be able to grow Twitter users and revenue without compromises and realizing that content moderation is the main product &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221028/p14#a221028p14)
+ - [The Xbox Series S comes with the latest Call of Duty for free at Target](https://www.theverge.com/2022/10/28/23428089/xbox-series-s-call-of-duty-2-target-game-sonos-beam-sub-one-hbo-max-deal-sale)
+ - [Elon Musk Now Owns Twitter](https://www.wired.com/story/elon-musk-owns-twitter-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
