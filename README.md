@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Noice](http://9gag.com/gag/avQPA85)
- - 🚯 [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
- - 🚯 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)<!-- MEMES:END -->
+ - 🚖 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
+ - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 --- 
 
