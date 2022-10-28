@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk firing Vijaya Gadde is a loss for free speech as she was the most responsible for Twitter&#39;s unmatched record defending &quot;actual&quot; free speech globally &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/221028/p22#a221028p22)
- - [NASA&#39;s Webb Telescope Shares Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-shares-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)
- - [Intel Reports Bleak Quarter as PC Sales Slow, but Investors Are Happy     - CNET](https://www.cnet.com/tech/computing/intel-reports-bleak-quarter-as-pc-sales-slow-but-investors-are-happy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unlocking your Meta Quest with SideQuest is a fun weekend project](https://www.theverge.com/23416673/meta-quest-2-sidequest-unlock-how-to-install-beat-saber)
+ - [Instagram and Facebook are down for some people](https://www.theverge.com/2022/10/28/23428969/instagram-facebook-not-loading-refresh-outage)
+ - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $74.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
