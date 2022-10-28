@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)<!-- MEMES:END -->
+ - 🚖 [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)
+ - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
+ - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
 
 --- 
 
