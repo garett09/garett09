@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine’s Biggest Nuclear Plant Needs a Safety Zone](https://www.wired.com/story/zaporizhzhya-ukraines-biggest-nuclear-plant-needs-a-safety-zone/)
- - [Europe Prepares to Rewrite the Rules of the Internet](https://www.wired.com/story/europe-dma-prepares-to-rewrite-the-rules-of-the-internet/)
- - [Uber Squeezed Europe’s Taxi Drivers. Now It Wants to Hire Them](https://www.wired.com/story/uber-taxi-europe-strategy-uturn/)<!-- TECH:END -->
+ - [Tenth-gen iPad&#39;s USB-C limited to Lightning speeds](https://appleinsider.com/articles/22/10/28/tenth-gen-ipads-usb-c-limited-to-lightning-speeds?utm_medium=rss)
+ - [Since its NYSE debut in November 2013, Twitter stock has grown 8.4% annually on average, below the S&amp;P 500&#39;s 11% and Nasdaq 100&#39;s 15%, due to slow user growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p11#a221028p11)
+ - [Xbox and PC players can’t disable crossplay in Call of Duty: Modern Warfare 2](https://www.theverge.com/2022/10/28/23428075/call-of-duty-modern-warfare-2-crossplay-xbox-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
