@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unlocking your Meta Quest with SideQuest is a fun weekend project](https://www.theverge.com/23416673/meta-quest-2-sidequest-unlock-how-to-install-beat-saber)
- - [Instagram and Facebook are down for some people](https://www.theverge.com/2022/10/28/23428969/instagram-facebook-not-loading-refresh-outage)
- - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $74.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)<!-- TECH:END -->
+ - [Honda sets up the first motorcycle battery swap station for its mobile power packs](https://www.theverge.com/2022/10/28/23428245/honda-power-pack-exchanger-e-mobility-battery-swap-station-competes-with-gogoro)
+ - [Elon Musk Takes Over Twitter, Fires Executives     - CNET](https://www.cnet.com/news/social-media/elon-musk-takes-over-twitter-fires-executives/#ftag=CAD590a51e)
+ - [Pokemon Go: How to Get Zorua and Zoroark     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-how-to-get-zorua-and-zoroark/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
