@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It has begun](http://9gag.com/gag/az2jGgN)
- - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)
- - 🚯 [Imagine investing your life savings in a company and they deliver this...](http://9gag.com/gag/aZDMQRn)<!-- MEMES:END -->
+ - 🚖 [Quick Maffs](http://9gag.com/gag/a5X7zDr)
+ - 🚯 [Everyone on Twitter right now testing free speech](http://9gag.com/gag/aREAz4G)
+ - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)<!-- MEMES:END -->
 
 --- 
 
