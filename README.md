@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new horror movies you can watch at home this Halloween](https://www.polygon.com/2022/10/28/23426657/new-horror-movies-watch-halloween-2022)
- - [The Batman was always meant for Halloween](https://www.polygon.com/23423586/the-batman-2022-halloween-movie)
- - [IKEA Asks Horror Game To Change So People Stop Comparing It To IKEA](https://kotaku.com/ikea-furniture-horror-game-store-is-closed-kickstarter-1849715848)<!-- GAME:END -->
+ - [Overwatch 2’s next patch will nerf Zarya, Sombra, D.Va, and Genji &lpar;but not Sojourn&rpar;](https://www.polygon.com/23428919/overwatch-2-balance-update-november-patch-zarya-sombra-dva-genji)
+ - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)
+ - [The best skills in Bayonetta 3](https://www.polygon.com/guides/23428582/bayonetta-3-best-skills-viola-demon-weapons-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
