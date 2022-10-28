@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)
- - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
- - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
+ - 🚖 [It has begun](http://9gag.com/gag/az2jGgN)
+ - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)
+ - 🚯 [Imagine investing your life savings in a company and they deliver this...](http://9gag.com/gag/aZDMQRn)<!-- MEMES:END -->
 
 --- 
 
