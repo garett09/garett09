@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it has awarded researchers ~$20M total, including 20 rewards of $100K+ each for high-impact issues, since opening its bug bounty program in Dec. 2019 &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/221027/p49#a221027p49)
- - [Changpeng Zhao says the National Bank of Kazakhstan plans to integrate its CBDC on the BNB Chain; Kazakhstan gave Binance a license to operate on October 6 &lpar;Savannah Fortis/Cointelegraph&rpar;](http://www.techmeme.com/221027/p48#a221027p48)
- - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
+ - [YouTube’s finally adding more separation between shorts and regular videos](https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels)
+ - [Rihanna’s Black Panther single ‘Lift Me Up’ is finally here](https://www.theverge.com/2022/10/28/23427207/rihanna-lift-me-up-black-panther-wakanda-forever-streaming)
+ - [A federal jury in Detroit ordered Ford to pay Versata Software $104.6M for breach of a 2004 licensing contract and misuse of trade secrets; Ford plans to appeal &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221028/p1#a221028p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
