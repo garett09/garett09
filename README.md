@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite climate pledges by US tech giants, Greenpeace finds key supplies for Amazon, Microsoft, Google, HP, and others remain deeply reliant on fossil fuels &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p6#a221028p6)
- - [Redmi says its new phone can be charged in nine minutes at 210W](https://www.theverge.com/2022/10/28/23428023/redmi-note-12-discovery-edition-210w-fast-charging-200mp-camera-release-date-price-features)
- - [Q&amp;A with Stack Overflow CEO Prashanth Chandrasekar on running the company, growing a SaaS business, content moderation, community satisfaction, Web3, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221028/p5#a221028p5)<!-- TECH:END -->
+ - [Ukraine’s Biggest Nuclear Plant Needs a Safety Zone](https://www.wired.com/story/zaporizhzhya-ukraines-biggest-nuclear-plant-needs-a-safety-zone/)
+ - [Europe Prepares to Rewrite the Rules of the Internet](https://www.wired.com/story/europe-dma-prepares-to-rewrite-the-rules-of-the-internet/)
+ - [Uber Squeezed Europe’s Taxi Drivers. Now It Wants to Hire Them](https://www.wired.com/story/uber-taxi-europe-strategy-uturn/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
