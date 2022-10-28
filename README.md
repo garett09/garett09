@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk bought Twitter. Here’s how it happened.](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Twitter is now an Elon Musk company](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)
- - [Sources: Elon Musk has fired Twitter CEO Parag Agrawal, CFO Ned Segal, and head of legal policy Vijaya Gadde; one source says the deal is now closed &lpar;Washington Post&rpar;](http://www.techmeme.com/221027/p46#a221027p46)<!-- TECH:END -->
+ - [Apple says it has awarded researchers ~$20M total, including 20 rewards of $100K+ each for high-impact issues, since opening its bug bounty program in Dec. 2019 &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/221027/p49#a221027p49)
+ - [Changpeng Zhao says the National Bank of Kazakhstan plans to integrate its CBDC on the BNB Chain; Kazakhstan gave Binance a license to operate on October 6 &lpar;Savannah Fortis/Cointelegraph&rpar;](http://www.techmeme.com/221027/p48#a221027p48)
+ - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
