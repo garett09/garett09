@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 🚯 [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - 🚯 [Like many insane folks out there, this cat refuses to believe that mitochondria is the powerhouse of the cells.](http://9gag.com/gag/aEq70nO)<!-- MEMES:END -->
+ - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)
+ - 🚯 [High IQ move](http://9gag.com/gag/az2j1Xx)<!-- MEMES:END -->
 
 --- 
 
