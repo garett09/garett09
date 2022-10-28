@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
+ - 🚖 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
+ - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)
+ - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)<!-- MEMES:END -->
 
 --- 
 
