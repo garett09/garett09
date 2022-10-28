@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global smartphone shipments fell 12% YoY to 301M units in Q3 2022, the lowest Q3 level since 2014; Apple was the only top-five brand to grow YoY, up 2% &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/221027/p43#a221027p43)
- - [Classera, a San Francisco-based ed tech startup focused on the Middle East and Africa, raised a $40M Series A led by Sanabil, which is run by Saudi Arabia&#39;s PIF &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221027/p42#a221027p42)
- - [Intel layoffs are coming in Q4 as it cuts billions in spending](https://www.theverge.com/2022/10/27/23427403/intel-q3-2022-layoffs-billions-cost-reductions)<!-- TECH:END -->
+ - [Elon Musk bought Twitter. Here’s how it happened.](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Twitter is now an Elon Musk company](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)
+ - [Sources: Elon Musk has fired Twitter CEO Parag Agrawal, CFO Ned Segal, and head of legal policy Vijaya Gadde; one source says the deal is now closed &lpar;Washington Post&rpar;](http://www.techmeme.com/221027/p46#a221027p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
