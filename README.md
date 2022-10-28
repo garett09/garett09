@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic the Hedgehog’s new Netflix show goes weird places in December](https://www.polygon.com/23428373/sonic-prime-netflix-release-date-trailer)
- - [Share of the Week  – A Plague Tale: Requiem](https://blog.playstation.com/2022/10/28/share-of-the-week-a-plague-tale-requiem/)
- - [Getting Started on Overwatch 2: Tips from the Pros](https://news.xbox.com/en-us/2022/10/28/getting-started-on-overwatch-2-tips-from-the-pros/)<!-- GAME:END -->
+ - [How Splatoon fans discovered the secret of ‘Fuck You’ Tuesday](https://www.polygon.com/23425085/splatoon-jelfonzo-fuck-you-shirt-inklanguage-translation)
+ - [Scorn&#39;s latest patch fixes the worst part of the game](https://www.pcgamer.com/scorns-latest-patch-fixes-the-worst-part-of-the-game)
+ - [Gunfire Reborn Launches on Game Pass](https://news.xbox.com/en-us/2022/10/28/gunfire-reborn-launches-on-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
