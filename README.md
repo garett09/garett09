@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
- - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)
- - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)<!-- MEMES:END -->
+ - 🚖 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
+ - 🚯 [Interesting remark](http://9gag.com/gag/aeQGmXm)
+ - 🚯 [I want to party with Steven](http://9gag.com/gag/armKBbp)<!-- MEMES:END -->
 
 --- 
 
