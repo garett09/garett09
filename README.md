@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&quot;Welcome to hell, Elon:&quot; Musk won&#39;t be able to grow Twitter users and revenue without compromises and realizing that content moderation is the main product &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221028/p14#a221028p14)
- - [The Xbox Series S comes with the latest Call of Duty for free at Target](https://www.theverge.com/2022/10/28/23428089/xbox-series-s-call-of-duty-2-target-game-sonos-beam-sub-one-hbo-max-deal-sale)
- - [Elon Musk Now Owns Twitter](https://www.wired.com/story/elon-musk-owns-twitter-deal/)<!-- TECH:END -->
+ - [Ugreen&#39;s new 13-in-1 docking station handles up to three external displays on M1](https://appleinsider.com/articles/22/10/28/ugreens-new-13-in-1-docking-station-works-with-m-series-macs?utm_medium=rss)
+ - [Resident Evil Village&#39;s Shadows of Rose Monsters Want to Eat Your Face     - CNET](https://www.cnet.com/tech/gaming/resident-evil-villages-shadows-of-rose-monsters-want-to-eat-your-face/#ftag=CAD590a51e)
+ - [How to deactivate your Twitter account](https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
