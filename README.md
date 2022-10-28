@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda sets up the first motorcycle battery swap station for its mobile power packs](https://www.theverge.com/2022/10/28/23428245/honda-power-pack-exchanger-e-mobility-battery-swap-station-competes-with-gogoro)
- - [Elon Musk Takes Over Twitter, Fires Executives     - CNET](https://www.cnet.com/news/social-media/elon-musk-takes-over-twitter-fires-executives/#ftag=CAD590a51e)
- - [Pokemon Go: How to Get Zorua and Zoroark     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-how-to-get-zorua-and-zoroark/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [eMarketer: US advertisers are on track to spend $65.3B on Facebook, Twitter, and other social networks in 2022, up just 3.6% YoY, and ~10x slower than in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221028/p25#a221028p25)
+ - [Best Outdoor Grill Deals: Save on Charcoal, Kamado, Gas and Portable Grills     - CNET](https://www.cnet.com/deals/best-grill-deals/#ftag=CAD590a51e)
+ - [Apple’s first unionized workers say the company is withholding new benefits](https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
