@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)
- - 🚯 [High IQ move](http://9gag.com/gag/az2j1Xx)<!-- MEMES:END -->
+ - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
+ - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)<!-- MEMES:END -->
 
 --- 
 
