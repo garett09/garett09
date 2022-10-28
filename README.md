@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meirl](http://9gag.com/gag/a3ZByNe)
- - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)
- - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
+ - 🚖 [Dead crowd](http://9gag.com/gag/a8qM2L3)
+ - 🚯 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 🚯 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)<!-- MEMES:END -->
 
 --- 
 
