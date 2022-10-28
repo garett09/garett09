@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for November 2022](https://news.xbox.com/en-us/2022/10/28/new-games-with-gold-for-november-2022/)
- - [Mount &amp; Blade 2: Bannerlord review](https://www.pcgamer.com/mount-and-blade-2-bannerlord-review)
- - [Halo Infinite gets features it should&#39;ve launched with in a few weeks](https://www.pcgamer.com/halo-infinite-gets-features-it-shouldve-launched-with-in-a-few-weeks)<!-- GAME:END -->
+ - [Modern Warfare 2’s Hardcore mode isn’t out yet, but it’s on the way](https://www.polygon.com/call-of-duty/23428208/call-of-duty-modern-warfare-2-hardcore-how-to-play-tier-1-release-date)
+ - [Xbox Games With Gold reveals another 2 underwhelming games for November](https://www.polygon.com/23428277/xbox-free-games-with-gold-november-2022-xbox-one-xbox-series-x)
+ - [Everything we know about Nahida in Genshin Impact](https://www.pcgamer.com/genshin-impact-nahida-build-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
