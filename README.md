@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eMarketer: US advertisers are on track to spend $65.3B on Facebook, Twitter, and other social networks in 2022, up just 3.6% YoY, and ~10x slower than in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221028/p25#a221028p25)
- - [Best Outdoor Grill Deals: Save on Charcoal, Kamado, Gas and Portable Grills     - CNET](https://www.cnet.com/deals/best-grill-deals/#ftag=CAD590a51e)
- - [Apple’s first unionized workers say the company is withholding new benefits](https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract)<!-- TECH:END -->
+ - [Apple Towson union members accuse Apple of withholding health and education benefits](https://appleinsider.com/articles/22/10/28/apple-towson-union-members-accuse-apple-of-withholding-health-and-education-benefits?utm_medium=rss)
+ - [&#39;Star Wars: Tales of the Jedi&#39; Endings and Ahsoka&#39;s and Dooku&#39;s Big Moments, Explained     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-endings-big-ahsoka-and-dooku-moments-explained/#ftag=CAD590a51e)
+ - [If Musk Starts Firing Twitter&#39;s Security Team, Run](https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
