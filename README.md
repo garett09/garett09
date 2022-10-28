@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s finally adding more separation between shorts and regular videos](https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels)
- - [Rihanna’s Black Panther single ‘Lift Me Up’ is finally here](https://www.theverge.com/2022/10/28/23427207/rihanna-lift-me-up-black-panther-wakanda-forever-streaming)
- - [A federal jury in Detroit ordered Ford to pay Versata Software $104.6M for breach of a 2004 licensing contract and misuse of trade secrets; Ford plans to appeal &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221028/p1#a221028p1)<!-- TECH:END -->
+ - [Sonos speakers &amp; subs are up to $409 off during early Black Friday sale](https://appleinsider.com/articles/22/10/28/sonos-speakers-subs-are-up-to-409-off-during-early-black-friday-sale?utm_medium=rss)
+ - [Source: Elon Musk plans to become Twitter CEO after completing his $44B acquisition and reverse lifetime bans, but may eventually cede the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p2#a221028p2)
+ - [YouTube’s finally adding more separation between shorts and regular videos](https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
