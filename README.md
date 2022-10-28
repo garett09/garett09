@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 2’s Hardcore mode isn’t out yet, but it’s on the way](https://www.polygon.com/call-of-duty/23428208/call-of-duty-modern-warfare-2-hardcore-how-to-play-tier-1-release-date)
- - [Xbox Games With Gold reveals another 2 underwhelming games for November](https://www.polygon.com/23428277/xbox-free-games-with-gold-november-2022-xbox-one-xbox-series-x)
- - [Everything we know about Nahida in Genshin Impact](https://www.pcgamer.com/genshin-impact-nahida-build-banner)<!-- GAME:END -->
+ - [Sonic the Hedgehog’s new Netflix show goes weird places in December](https://www.polygon.com/23428373/sonic-prime-netflix-release-date-trailer)
+ - [Share of the Week  – A Plague Tale: Requiem](https://blog.playstation.com/2022/10/28/share-of-the-week-a-plague-tale-requiem/)
+ - [Getting Started on Overwatch 2: Tips from the Pros](https://news.xbox.com/en-us/2022/10/28/getting-started-on-overwatch-2-tips-from-the-pros/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
