@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen&#39;s new 13-in-1 docking station handles up to three external displays on M1](https://appleinsider.com/articles/22/10/28/ugreens-new-13-in-1-docking-station-works-with-m-series-macs?utm_medium=rss)
- - [Resident Evil Village&#39;s Shadows of Rose Monsters Want to Eat Your Face     - CNET](https://www.cnet.com/tech/gaming/resident-evil-villages-shadows-of-rose-monsters-want-to-eat-your-face/#ftag=CAD590a51e)
- - [How to deactivate your Twitter account](https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate)<!-- TECH:END -->
+ - [Twitter confirms it shut down its Ticketed Spaces test indefinitely before Elon Musk&#39;s takeover of the company &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/221028/p15#a221028p15)
+ - [PSA: streamers might want to disable music in Bayonetta 3 before playing](https://www.theverge.com/2022/10/28/23428179/bayonetta-3-streamer-mode-nintendo-switch-platinum-games)
+ - [Volvo C40 Recharge review: Volvo’s little electric rocket ship](https://www.theverge.com/2022/10/28/23424776/volvo-c40-recharge-review-specs-range-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
