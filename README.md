@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stocks rising fast as other Big Tech firms fall hard](https://appleinsider.com/articles/22/10/28/apple-stocks-rising-fast-as-other-big-tech-firms-fall-hard?utm_medium=rss)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Apple&#39;s strong fourth quarter leaves analysts optimistic in a sea of tech disappointment](https://appleinsider.com/articles/22/10/28/apples-strong-fourth-quarter-leaves-analysts-optimistic-in-a-sea-of-tech-disappointment?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new Fitness+ ad says &#39;all you need is iPhone&#39; and iOS 16.1](https://appleinsider.com/articles/22/10/28/apples-new-fitness-ad-says-all-you-need-is-iphone-and-ios-161?utm_medium=rss)
+ - [Telegram cancels monetization plans after Apple &#39;destroys dreams&#39;](https://appleinsider.com/articles/22/10/28/telegram-cancels-monetization-plans-after-apple-destroys-dreams?utm_medium=rss)
+ - [Sources: Andreessen Horowitz is the investor behind Android founder Andy Rubin&#39;s new hardware startup Smart Things &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/221028/p17#a221028p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
