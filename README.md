@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)
- - 🚯 [Who reads it anyway](http://9gag.com/gag/aREALQ2)
- - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
+ - 🚖 [It has begun](http://9gag.com/gag/az2jGgN)
+ - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)
+ - 🚯 [Quick Maffs](http://9gag.com/gag/a5X7zDr)<!-- MEMES:END -->
 
 --- 
 
