@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Duck tape](http://9gag.com/gag/aGExEvZ)
+ - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
  - 🚯 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
- - 🚯 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
+ - 🚯 [Is it true that some people are not able to hear their thoughts and see images in their heads? I can literally rotate figures in my thoughts.](http://9gag.com/gag/axoj1qn)<!-- MEMES:END -->
 
 --- 
 
