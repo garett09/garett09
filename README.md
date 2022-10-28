@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new Fitness+ ad says &#39;all you need is iPhone&#39; and iOS 16.1](https://appleinsider.com/articles/22/10/28/apples-new-fitness-ad-says-all-you-need-is-iphone-and-ios-161?utm_medium=rss)
- - [Telegram cancels monetization plans after Apple &#39;destroys dreams&#39;](https://appleinsider.com/articles/22/10/28/telegram-cancels-monetization-plans-after-apple-destroys-dreams?utm_medium=rss)
- - [Sources: Andreessen Horowitz is the investor behind Android founder Andy Rubin&#39;s new hardware startup Smart Things &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/221028/p17#a221028p17)<!-- TECH:END -->
+ - [Traffic jams are tied to lower birth weights, study finds](https://www.theverge.com/2022/10/28/23426970/birth-weight-infant-traffic-congestion-lower-health)
+ - [The EU commissioner for the internal market warns that Twitter will have to comply with EU&#39;s new digital regulations, saying &quot;the bird will fly by our rules&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221028/p20#a221028p20)
+ - [Telegram CEO says it will disable paid posts in its iOS app after being told Apple was not happy with creators monetizing &quot;without paying a 30% tax to Apple&quot; &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/221028/p19#a221028p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
