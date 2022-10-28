@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Privacy](http://9gag.com/gag/a8qM2oV)
- - 🚯 [*surprised Pikachu face*](http://9gag.com/gag/anzNEK0)
- - 🚯 [Quick Maffs](http://9gag.com/gag/a5X7zDr)<!-- MEMES:END -->
+ - 🚖 [Noice](http://9gag.com/gag/avQPA85)
+ - 🚯 [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)<!-- MEMES:END -->
 
 --- 
 
