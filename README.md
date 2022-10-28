@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Splatoon fans discovered the secret of ‘Fuck You’ Tuesday](https://www.polygon.com/23425085/splatoon-jelfonzo-fuck-you-shirt-inklanguage-translation)
- - [Scorn&#39;s latest patch fixes the worst part of the game](https://www.pcgamer.com/scorns-latest-patch-fixes-the-worst-part-of-the-game)
- - [Gunfire Reborn Launches on Game Pass](https://news.xbox.com/en-us/2022/10/28/gunfire-reborn-launches-on-game-pass/)<!-- GAME:END -->
+ - [It’s Crime Time! Frog Detective: The Entire Mystery is Available Now with PC Game Pass](https://news.xbox.com/en-us/2022/10/28/its-crime-time-frog-detective-the-entire-mystery-is-available-now-with-pc-game-pass/)
+ - [Destiny 2 Xur location and items, Oct. 28-Nov. 1](https://www.polygon.com/destiny-2-guide-walkthrough/23428641/destiny-2-where-is-xur-location-items-oct-28-nov-1)
+ - [An Average Day at the Cat Cafe is a lovely little, slightly unsettling, browser game](https://www.pcgamer.com/an-average-day-at-the-cat-cafe-is-a-lovely-little-slightly-unsettling-browser-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
