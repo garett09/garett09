@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 🚯 [Who reads it anyway](http://9gag.com/gag/aREALQ2)
- - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
+ - 🚖 [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
+ - 🚯 [Duck tape](http://9gag.com/gag/aGExEvZ)
+ - 🚯 [The economy...](http://9gag.com/gag/aZDMLv0)<!-- MEMES:END -->
 
 --- 
 
