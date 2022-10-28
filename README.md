@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where is hardcore mode in Call of Duty: Modern Warfare 2?](https://www.pcgamer.com/call-of-duty-mw2-hardcore-mode-tier-1)
- - [Gigabyte X670 Aorus Elite AX](https://www.pcgamer.com/gigabyte-x670-aorus-elite-ax)
- - [Wordle today: #496 answer and hint for Friday, October 28](https://www.pcgamer.com/wordle-today-496-answer-hint)<!-- GAME:END -->
+ - [Modern Warfare 2 Prestige and Ranks explained](https://www.pcgamer.com/modern-warfare-2-prestige-rank-)
+ - [Resident Evil&#39;s original live-action cast reunites to shoot an absurd, hammy short film](https://www.pcgamer.com/resident-evils-original-live-action-cast-reunites-to-shoot-an-absurd-hammy-short-film)
+ - [Where is hardcore mode in Call of Duty: Modern Warfare 2?](https://www.pcgamer.com/call-of-duty-mw2-hardcore-mode-tier-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
