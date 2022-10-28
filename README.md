@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 🚯 [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
- - 🚯 [Dew it :d](http://9gag.com/gag/a2Km7oD)<!-- MEMES:END -->
+ - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)
+ - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
 
 --- 
 
