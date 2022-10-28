@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Crime Time! Frog Detective: The Entire Mystery is Available Now with PC Game Pass](https://news.xbox.com/en-us/2022/10/28/its-crime-time-frog-detective-the-entire-mystery-is-available-now-with-pc-game-pass/)
- - [Destiny 2 Xur location and items, Oct. 28-Nov. 1](https://www.polygon.com/destiny-2-guide-walkthrough/23428641/destiny-2-where-is-xur-location-items-oct-28-nov-1)
- - [An Average Day at the Cat Cafe is a lovely little, slightly unsettling, browser game](https://www.pcgamer.com/an-average-day-at-the-cat-cafe-is-a-lovely-little-slightly-unsettling-browser-game)<!-- GAME:END -->
+ - [All the new horror movies you can watch at home this Halloween](https://www.polygon.com/2022/10/28/23426657/new-horror-movies-watch-halloween-2022)
+ - [The Batman was always meant for Halloween](https://www.polygon.com/23423586/the-batman-2022-halloween-movie)
+ - [IKEA Asks Horror Game To Change So People Stop Comparing It To IKEA](https://kotaku.com/ikea-furniture-horror-game-store-is-closed-kickstarter-1849715848)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
