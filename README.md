@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
- - 🚯 [Maybe Maybe Maybe](http://9gag.com/gag/a1PMwKD)
- - 🚯 [OCD kicking in](http://9gag.com/gag/a4oYVzZ)<!-- MEMES:END -->
+ - 🚖 [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)
+ - 🚯 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)<!-- MEMES:END -->
 
 --- 
 
