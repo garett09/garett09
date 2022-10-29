@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
- - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)<!-- MEMES:END -->
+ - 🚖 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
+ - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)
+ - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)<!-- MEMES:END -->
 
 --- 
 
