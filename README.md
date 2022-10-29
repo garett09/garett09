@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m scaroused](http://9gag.com/gag/a8qMneQ)
- - 🚯 [Reverse uno](http://9gag.com/gag/a3ZBpjQ)
- - 🚯 [Let me in..!!!](http://9gag.com/gag/az2jBXj)<!-- MEMES:END -->
+ - 🚖 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
+ - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
+ - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)<!-- MEMES:END -->
 
 --- 
 
