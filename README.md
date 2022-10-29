@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
- - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)<!-- MEMES:END -->
+ - 🚖 [I&#39;m scaroused](http://9gag.com/gag/a8qMneQ)
+ - 🚯 [Reverse uno](http://9gag.com/gag/a3ZBpjQ)
+ - 🚯 [Let me in..!!!](http://9gag.com/gag/az2jBXj)<!-- MEMES:END -->
 
 --- 
 
