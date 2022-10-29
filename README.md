@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 🚯 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)
- - 🚯 [Try not to breath for a while](http://9gag.com/gag/aEq7Azp)<!-- MEMES:END -->
+ - 🚖 [Dead crowd](http://9gag.com/gag/a8qM2L3)
+ - 🚯 [100+... damn..](http://9gag.com/gag/aoK9nZX)
+ - 🚯 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)<!-- MEMES:END -->
 
 --- 
 
