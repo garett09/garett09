@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Find yourself a girl like this one](http://9gag.com/gag/agoVOqw)
- - 🚯 [Top early ?](http://9gag.com/gag/aNwnBz6)
- - 🚯 [Hmmm](http://9gag.com/gag/amA9mNX)<!-- MEMES:END -->
+ - 🚖 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 🚯 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)
+ - 🚯 [Privacy](http://9gag.com/gag/a8qM2oV)<!-- MEMES:END -->
 
 --- 
 
