@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting remark](http://9gag.com/gag/aeQGmXm)
- - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - 🚯 [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)<!-- MEMES:END -->
+ - 🚖 [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 🚯 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
 
 --- 
 
