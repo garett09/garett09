@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
- - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)
- - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)<!-- MEMES:END -->
+ - 🚖 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
+ - 🚯 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
+ - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)<!-- MEMES:END -->
 
 --- 
 
