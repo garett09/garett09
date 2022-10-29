@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Top early ?](http://9gag.com/gag/aNwnBz6)
- - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - 🚯 [Try not to breath for a while](http://9gag.com/gag/aEq7Azp)<!-- MEMES:END -->
+ - 🚖 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
+ - 🚯 [Maybe Maybe Maybe](http://9gag.com/gag/a1PMwKD)
+ - 🚯 [OCD kicking in](http://9gag.com/gag/a4oYVzZ)<!-- MEMES:END -->
 
 --- 
 
