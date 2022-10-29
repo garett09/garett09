@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 🚯 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
- - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
+ - 🚖 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
+ - 🚯 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 🚯 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)<!-- MEMES:END -->
 
 --- 
 
