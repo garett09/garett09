@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Towson union members accuse Apple of withholding health and education benefits](https://appleinsider.com/articles/22/10/28/apple-towson-union-members-accuse-apple-of-withholding-health-and-education-benefits?utm_medium=rss)
- - [&#39;Star Wars: Tales of the Jedi&#39; Endings and Ahsoka&#39;s and Dooku&#39;s Big Moments, Explained     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-endings-big-ahsoka-and-dooku-moments-explained/#ftag=CAD590a51e)
- - [If Musk Starts Firing Twitter&#39;s Security Team, Run](https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/)<!-- TECH:END -->
+ - [How to find the best deals during Black Friday and Cyber Monday 2022](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
+ - [Plugin now required to use most Pantone Colors in Adobe products](https://appleinsider.com/articles/22/10/29/plugin-now-required-to-use-most-pantone-colors-in-adobe-products?utm_medium=rss)
+ - [Elon Musk says Twitter will have a ‘content moderation council’](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
