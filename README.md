@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Renew Your US Passport Online](https://www.wired.com/story/how-to-renew-passport-online/)
- - [What the Creator of ‘Watchmen’ Gets Right About Superhero Fans](https://www.wired.com/story/alan-moore-superheroes/)
- - [15 Best Deals: Coffee Makers, Projectors, and Weighted Blankets](https://www.wired.com/story/weekend-deals-october-29-2022/)<!-- TECH:END -->
+ - [Early Black Friday deal drops Microsoft Office for Mac Home &amp; Business 2021 to $39.99](https://appleinsider.com/articles/22/10/29/early-black-friday-deal-drops-microsoft-office-for-mac-home-business-2021-to-3999?utm_medium=rss)
+ - [Apple &#39;destroys dreams&#39; says Telegram, as it shuts down monetization plans](https://appleinsider.com/articles/22/10/28/telegram-cancels-monetization-plans-after-apple-destroys-dreams?utm_medium=rss)
+ - [Halloween Hoax: No, Fentanyl Will Not Be in Your Kids&#39; Candy     - CNET](https://www.cnet.com/news/misinformation/halloween-hoax-no-fentanyl-will-not-be-in-your-kids-candy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
