@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - 🚯 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)
- - 🚯 [Privacy](http://9gag.com/gag/a8qM2oV)<!-- MEMES:END -->
+ - 🚖 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)
+ - 🚯 [Dead crowd](http://9gag.com/gag/a8qM2L3)
+ - 🚯 [Top early ?](http://9gag.com/gag/aNwnBz6)<!-- MEMES:END -->
 
 --- 
 
