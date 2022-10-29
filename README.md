@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meirl](http://9gag.com/gag/a3ZByNe)
- - 🚯 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
- - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)<!-- MEMES:END -->
+ - 🚖 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 🚯 [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 🚯 [Find yourself a girl like this one](http://9gag.com/gag/agoVOqw)<!-- MEMES:END -->
 
 --- 
 
