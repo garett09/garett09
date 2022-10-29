@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find the best deals during Black Friday and Cyber Monday 2022](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
- - [Plugin now required to use most Pantone Colors in Adobe products](https://appleinsider.com/articles/22/10/29/plugin-now-required-to-use-most-pantone-colors-in-adobe-products?utm_medium=rss)
- - [Elon Musk says Twitter will have a ‘content moderation council’](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)<!-- TECH:END -->
+ - [Early Black Friday deal drops Microsoft Office for Mac Home &amp; Business 2021 to $39.99](https://appleinsider.com/articles/22/10/29/early-black-friday-deal-drops-microsoft-office-for-mac-home-business-2021-to-3999?utm_medium=rss)
+ - [Will You Get Your Money&#39;s Worth With Hair Growth Vitamins?     - CNET](https://www.cnet.com/health/nutrition/are-hair-growth-vitamins-worth-the-money/#ftag=CAD590a51e)
+ - [NASA&#39;s Webb Telescope Captures Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-captures-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
