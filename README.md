@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mate , you\u2019re killing me](http://9gag.com/gag/aA01OVd)
- - 🚯 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
- - 🚯 [This Is life for some people.](http://9gag.com/gag/a9q7N01)<!-- MEMES:END -->
+ - 🚖 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 🚯 [Denifitely my worst date](http://9gag.com/gag/aEq7QMx)
+ - 🚯 [Love that confidence](http://9gag.com/gag/a04p17q)<!-- MEMES:END -->
 
 --- 
 
