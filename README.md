@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just petty](http://9gag.com/gag/adPjb12)
- - 🚯 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 🚖 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
+ - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
+ - 🚯 [Wtf...](http://9gag.com/gag/aMEG716)<!-- MEMES:END -->
 
 --- 
 
