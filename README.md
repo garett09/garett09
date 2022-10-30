@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dead crowd](http://9gag.com/gag/a8qM2L3)
- - 🚯 [100+... damn..](http://9gag.com/gag/aoK9nZX)
- - 🚯 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)<!-- MEMES:END -->
+ - 🚖 [Mate , you\u2019re killing me](http://9gag.com/gag/aA01OVd)
+ - 🚯 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
+ - 🚯 [This Is life for some people.](http://9gag.com/gag/a9q7N01)<!-- MEMES:END -->
 
 --- 
 
