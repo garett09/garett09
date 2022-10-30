@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 🚯 [Denifitely my worst date](http://9gag.com/gag/aEq7QMx)
- - 🚯 [Love that confidence](http://9gag.com/gag/a04p17q)<!-- MEMES:END -->
+ - 🚖 [Meirl](http://9gag.com/gag/a3ZByNe)
+ - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
+ - 🚯 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)<!-- MEMES:END -->
 
 --- 
 
