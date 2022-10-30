@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love that confidence](http://9gag.com/gag/a04p17q)
- - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)<!-- MEMES:END -->
+ - 🚖 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 🚯 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
+ - 🚯 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)<!-- MEMES:END -->
 
 --- 
 
