@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 🚯 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
- - 🚯 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)<!-- MEMES:END -->
+ - 🚖 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
+ - 🚯 [Thats some advice](http://9gag.com/gag/amA9K1j)
+ - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 --- 
 
