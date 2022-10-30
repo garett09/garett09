@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oops](http://9gag.com/gag/aoK9oZA)
- - 🚯 [It&#39;s a tough life,man.](http://9gag.com/gag/adPjAnM)
- - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
+ - 🚖 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
+ - 🚯 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 --- 
 
