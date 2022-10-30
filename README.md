@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook sheds doubt on new M2 MacBook Pros in 2022](https://appleinsider.com/articles/22/10/29/tim-cook-sheds-doubt-on-a-fall-m2-macbook-pro-update?utm_medium=rss)
- - [How to grab an image on an iPhone and drop it onto an iPad](https://appleinsider.com/articles/22/10/28/how-to-grab-an-image-on-one-device-and-drop-it-onto-another?utm_medium=rss)
- - [Elon Musk reportedly ordered company-wide layoffs at Twitter](https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs)<!-- TECH:END -->
+ - [&#39;Andor&#39; Episode 8 Explained: &#39;Rogue One&#39; Cameos and a Hellish &#39;Star Wars&#39; Prison     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-8-explained-rogue-one-cameos-and-a-hellish-star-wars-prison/#ftag=CAD590a51e)
+ - [New Orleans-based Resilia, which sells software to help nonprofits manage their operations, raised a $35M Series B, bringing its total funding to ~$50M &lpar;Jared Council/Forbes&rpar;](http://www.techmeme.com/221029/p14#a221029p14)
+ - [Black Adam: Post-Credits Scene, Legendary DC Superhero Cameo Explained     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-legendary-dc-superhero-cameo-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
