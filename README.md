@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
- - 🚯 [Denifitely my worst date](http://9gag.com/gag/aEq7QMx)
- - 🚯 [Man saves girl from pitbull attack using a chokehold.](http://9gag.com/gag/aVbPrQv)<!-- MEMES:END -->
+ - 🚖 [30 Oct: Ukrainian forces find an antique WW1 Pulemyot Maxima PM1910 machine gun relic abandoned by the Russians.](http://9gag.com/gag/aREAdwQ)
+ - 🚯 [Live Laugh Die](http://9gag.com/gag/aA01AZL)
+ - 🚯 [He was pretty clear on his conditions even in formal interviews. This has nothing to do with Superman movie. We can expect Witcher S3 to be a complete disaster.](http://9gag.com/gag/aKEqyL3)<!-- MEMES:END -->
 
 --- 
 
