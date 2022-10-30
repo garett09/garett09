@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edge Full Kit review: An iPhone mount for your MacBook Pro](https://appleinsider.com/articles/22/10/30/edge-full-kit-review-an-iphone-mount-for-your-macbook-pro?utm_medium=rss)
- - [How the detention of Huawei&#39;s then CFO Meng Wanzhou to stand trial in the US provoked a standoff between global powers and splintered US-China relations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p11#a221030p11)
- - [Taurid Meteor Shower Could Unleash a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-unleash-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter battles hateful trolling campaign following Elon Musk&#39;s takeover](https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech)
+ - [Elon Musk wastes no time changing Twitter](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes)
+ - [Edge Full Kit review: An iPhone mount for your MacBook Pro](https://appleinsider.com/articles/22/10/30/edge-full-kit-review-an-iphone-mount-for-your-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
