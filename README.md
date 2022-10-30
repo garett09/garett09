@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meirl](http://9gag.com/gag/a3ZByNe)
- - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
- - 🚯 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)<!-- MEMES:END -->
+ - 🚖 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
+ - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)
+ - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 --- 
 
