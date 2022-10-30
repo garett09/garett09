@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
- - 🚯 [Just petty](http://9gag.com/gag/adPjb12)
- - 🚯 [This is partly your fault](http://9gag.com/gag/aGEx7YK)<!-- MEMES:END -->
+ - 🚖 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)
+ - 🚯 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
+ - 🚯 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)<!-- MEMES:END -->
 
 --- 
 
