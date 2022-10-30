@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The dogs looks after the cracks makes me laugh all the time](http://9gag.com/gag/aPgD2eQ)
- - 🚯 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
- - 🚯 [Love](http://9gag.com/gag/a5X7yGV)<!-- MEMES:END -->
+ - 🚖 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
+ - 🚯 [Just petty](http://9gag.com/gag/adPjb12)
+ - 🚯 [This is partly your fault](http://9gag.com/gag/aGEx7YK)<!-- MEMES:END -->
 
 --- 
 
