@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s head of safety and integrity says it has not changed content policies but had been subject to &quot;an organized effort to make people think we have&quot; &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221030/p10#a221030p10)
- - [Apple&#39;s iOS 16.2 release expected in December, iOS 16.3 possibly in February](https://appleinsider.com/articles/22/10/30/apples-ios-162-release-expected-in-december-ios-163-possibly-in-february?utm_medium=rss)
- - [Panthers vs. Falcons Livestream: How to Watch NFL Week 8 From Anywhere Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-falcons-livestream-how-to-watch-nfl-week-8-from-anywhere-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the detention of Huawei&#39;s then CFO Meng Wanzhou to stand trial in the US provoked a standoff between global powers and splintered US-China relations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p11#a221030p11)
+ - [Taurid Meteor Shower Could Unleash a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-unleash-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)
+ - [More People Need to Tune In to This Gripping Horror Anthology Series     - CNET](https://www.cnet.com/culture/more-people-should-tune-in-to-this-absolutely-gripping-horror-anthology-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
