@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
- - 🚯 [Meirl](http://9gag.com/gag/a3ZByNe)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 🚖 [Love that confidence](http://9gag.com/gag/a04p17q)
+ - 🚯 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
+ - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)<!-- MEMES:END -->
 
 --- 
 
