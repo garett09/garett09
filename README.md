@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Edge Full Kit review: An iPhone mount for your MacBook Pro](https://appleinsider.com/articles/22/10/30/edge-full-kit-review-an-iphone-mount-for-your-macbook-pro?utm_medium=rss)
  - [How the detention of Huawei&#39;s then CFO Meng Wanzhou to stand trial in the US provoked a standoff between global powers and splintered US-China relations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p11#a221030p11)
- - [Taurid Meteor Shower Could Unleash a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-unleash-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)
- - [More People Need to Tune In to This Gripping Horror Anthology Series     - CNET](https://www.cnet.com/culture/more-people-should-tune-in-to-this-absolutely-gripping-horror-anthology-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taurid Meteor Shower Could Unleash a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-unleash-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
