@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter battles hateful trolling campaign following Elon Musk&#39;s takeover](https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech)
- - [Elon Musk wastes no time changing Twitter](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes)
- - [Edge Full Kit review: An iPhone mount for your MacBook Pro](https://appleinsider.com/articles/22/10/30/edge-full-kit-review-an-iphone-mount-for-your-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Twitter is strongly considering making verified users subscribe to Twitter Blue at $4.99 a month or lose their badges &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221030/p13#a221030p13)
+ - [Sources: Musk ordered Twitter homepage to be changed to show the Explore page to logged out users, not a sign-up form, which was quietly implemented on Friday &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p12#a221030p12)
+ - [Twitter battles hateful trolling campaign following Elon Musk&#39;s takeover](https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
