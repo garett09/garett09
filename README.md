@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
- - 🚯 [Noice ....](http://9gag.com/gag/aL12AXz)
- - 🚯 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)<!-- MEMES:END -->
+ - 🚖 [This is partly your fault](http://9gag.com/gag/aGEx7YK)
+ - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
+ - 🚯 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)<!-- MEMES:END -->
 
 --- 
 
