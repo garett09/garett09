@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats some advice](http://9gag.com/gag/amA9K1j)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)
- - 🚯 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)<!-- MEMES:END -->
+ - 🚖 [Oops](http://9gag.com/gag/aoK9oZA)
+ - 🚯 [It&#39;s a tough life,man.](http://9gag.com/gag/adPjAnM)
+ - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 --- 
 
