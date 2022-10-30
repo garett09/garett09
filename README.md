@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a tough life,man.](http://9gag.com/gag/adPjAnM)
- - 🚯 [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
- - 🚯 [The most terrifying dog costume](http://9gag.com/gag/adPjzNd)<!-- MEMES:END -->
+ - 🚖 [The dogs looks after the cracks makes me laugh all the time](http://9gag.com/gag/aPgD2eQ)
+ - 🚯 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
+ - 🚯 [Love](http://9gag.com/gag/a5X7yGV)<!-- MEMES:END -->
 
 --- 
 
