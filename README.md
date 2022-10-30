@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk shared a lurid, baseless conspiracy theory on Twitter about the attack on Nancy Pelosi&#39;s husband Paul Pelosi, in response to a Hillary Clinton tweet &lpar;Rachel Sharp/The Independent&rpar;](http://www.techmeme.com/221030/p8#a221030p8)
- - [Sources: Apple plans to launch M2-based versions of the 14-inch and 16-inch MacBook Pros in early March 2023; M2 Max will have 12 CPU cores and 38 GPU cores &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221030/p7#a221030p7)
- - [I tried bone conduction headphones for running safety, now I won’t go back](https://www.androidauthority.com/shokz-openrun-pro-3220760/)<!-- TECH:END -->
+ - [Apple reportedly won&#39;t launch new M2 Macs until 2023](https://appleinsider.com/articles/22/10/30/apple-reportedly-wont-launch-new-m2-macs-until-2023?utm_medium=rss)
+ - [Apple’s 14- and 16-inch MacBook Pros might not arrive until next March](https://www.theverge.com/2022/10/30/23430949/apple-new-macbook-pro-14-16-arrive-next-march-rumors-m2)
+ - [6 Shampoo Brands Recalled Over Cancer Risk. Is Yours One of Them?     - CNET](https://www.cnet.com/health/personal-care/6-shampoo-brands-recalled-over-cancer-risk-is-yours-one-of-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
