@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus Zenfone 9 Review: Small but Mighty](https://www.wired.com/review/asus-zenfone-9/)
- - [25 Best Tools for a Home Toolkit &lpar;2022&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
- - [How to Fix the Most Annoying Bluetooth Headphone Problems](https://www.wired.com/story/bluetooth-headphone-troubleshooting-tips/)<!-- TECH:END -->
+ - [Elon Musk shared a lurid, baseless conspiracy theory on Twitter about the attack on Nancy Pelosi&#39;s husband Paul Pelosi, in response to a Hillary Clinton tweet &lpar;Rachel Sharp/The Independent&rpar;](http://www.techmeme.com/221030/p8#a221030p8)
+ - [Sources: Apple plans to launch M2-based versions of the 14-inch and 16-inch MacBook Pros in early March 2023; M2 Max will have 12 CPU cores and 38 GPU cores &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221030/p7#a221030p7)
+ - [I tried bone conduction headphones for running safety, now I won’t go back](https://www.androidauthority.com/shokz-openrun-pro-3220760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
