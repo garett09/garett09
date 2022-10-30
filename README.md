@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Victor Newbury Music Center review: an attractive, well-designed record player with bonus features](https://appleinsider.com/articles/22/10/30/victor-newbury-music-center-review-an-attractive-well-designed-record-player-with-bonus-features?utm_medium=rss)
  - [Apple &#39;destroys dreams&#39; says Telegram, as it shuts down monetization plans](https://appleinsider.com/articles/22/10/28/telegram-cancels-monetization-plans-after-apple-destroys-dreams?utm_medium=rss)
- - [From X10 to Matter: The smart home evolves again](https://appleinsider.com/articles/22/10/30/from-x10-to-matter-the-smart-home-evolves-again?utm_medium=rss)
- - [Sources: Twitter is strongly considering making verified users subscribe to Twitter Blue at $4.99 a month or lose their badges &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221030/p13#a221030p13)<!-- TECH:END -->
+ - [Twitter May Tie Verified Status to Paid Twitter Blue Subscription     - CNET](https://www.cnet.com/news/social-media/twitter-may-tie-verified-status-to-paid-twitter-blue-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
