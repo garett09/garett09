@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
- - 🚯 [Thats some advice](http://9gag.com/gag/amA9K1j)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 🚖 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
+ - 🚯 [Noice ....](http://9gag.com/gag/aL12AXz)
+ - 🚯 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)<!-- MEMES:END -->
 
 --- 
 
