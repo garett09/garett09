@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [30 Oct: Ukrainian forces find an antique WW1 Pulemyot Maxima PM1910 machine gun relic abandoned by the Russians.](http://9gag.com/gag/aREAdwQ)
- - 🚯 [Live Laugh Die](http://9gag.com/gag/aA01AZL)
- - 🚯 [He was pretty clear on his conditions even in formal interviews. This has nothing to do with Superman movie. We can expect Witcher S3 to be a complete disaster.](http://9gag.com/gag/aKEqyL3)<!-- MEMES:END -->
+ - 🚖 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - 🚯 [The dogs looks after the cracks makes me laugh all the time](http://9gag.com/gag/aPgD2eQ)
+ - 🚯 [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)<!-- MEMES:END -->
 
 --- 
 
