@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is partly your fault](http://9gag.com/gag/aGEx7YK)
- - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - 🚯 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)<!-- MEMES:END -->
+ - 🚖 [Denifitely my worst date](http://9gag.com/gag/aEq7QMx)
+ - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 --- 
 
