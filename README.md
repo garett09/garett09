@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tenoch Huerta hopes Wakanda Forever helps Latin Americans embrace their roots](https://www.theverge.com/2022/10/31/23433010/tenoch-huerta-namor-black-panther-wakanda-forever-talocan)
- - [Musk tells Twitter engineers to bring Vine back from the dead](https://appleinsider.com/articles/22/10/31/musk-tells-twitter-engineers-to-bring-vine-back-from-the-dead?utm_medium=rss)
- - [Tritium and DC-America are building a coast-to-coast EV fast charging network](https://www.theverge.com/2022/10/31/23433342/tritium-dc-america-nationwide-ev-fast-charging-network)<!-- TECH:END -->
+ - [A24 and Bryan Fuller are bringing a Friday the 13th ‘expanded prequel’ series to Peacock](https://www.theverge.com/2022/10/31/23433548/friday-the-13th-a24-bryan-fuller-crystal-lake-peacock-prequel)
+ - [Netflix is acquiring cozy game developer Spry Fox](https://www.theverge.com/2022/10/31/23433526/netflix-spry-fox-cozy-gaming-studio-acquisition)
+ - [Google defends its Pixel Watch 24-hour battery life claim with detailed stats](https://www.androidauthority.com/google-pixel-watch-battery-2-3229334/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
