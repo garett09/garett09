@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea&#39;s Matter hub, VOCOlinc floor lamp review, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/10/31/ikeas-matter-hub-vocolinc-floor-lamp-review-more-on-homekit-insider?utm_medium=rss)
- - [Amazon Fire TV Cube &lpar;2022&rpar; review: fast, hands-free voice controls, nice design, and great live TV integration, but so many ads, slow ports, and mediocre remote &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/221031/p12#a221031p12)
- - [The Hunter Cat is a bodyguard for your credit card](https://www.theverge.com/23424542/hunter-cat-credit-card-skimmer-reader-atm-stolen-cc-number-fraud)<!-- TECH:END -->
+ - [Deals: Apple&#39;s 14-inch MacBook Pro with 2TB storage is now $300 off, plus $70 off AppleCare](https://appleinsider.com/articles/22/10/28/deals-apples-14-inch-macbook-pro-with-2tb-storage-is-now-300-off-plus-70-off-applecare?utm_medium=rss)
+ - [Poll: Do you send voice notes on your smartphone?](https://www.androidauthority.com/voice-notes-smartphones-poll-3226511/)
+ - [The new Fitbit Sense 2 is already 74 percent off at Amazon](https://www.theverge.com/2022/10/31/23432478/fitbit-sense-2-fitness-tracker-smartwatch-blink-mini-samsung-t7-shield-ssd-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
