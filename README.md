@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victor Newbury Music Center review: an attractive, well-designed record player with bonus features](https://appleinsider.com/articles/22/10/30/victor-newbury-music-center-review-an-attractive-well-designed-record-player-with-bonus-features?utm_medium=rss)
- - [Apple &#39;destroys dreams&#39; says Telegram, as it shuts down monetization plans](https://appleinsider.com/articles/22/10/28/telegram-cancels-monetization-plans-after-apple-destroys-dreams?utm_medium=rss)
- - [Twitter May Tie Verified Status to Paid Twitter Blue Subscription     - CNET](https://www.cnet.com/news/social-media/twitter-may-tie-verified-status-to-paid-twitter-blue-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Twitter plans to change Twitter Blue into a $19.99 subscription that verifies users; staff are told they will be fired if they don&#39;t build it by Nov. 7 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)
+ - [&#39;Andor&#39; Release Schedule: When is Episode 9 Dropping on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-dropping-on-disney-plus/#ftag=CAD590a51e)
+ - [Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
