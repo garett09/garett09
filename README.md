@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn&#39;s iPhone output could drop by 30% over COVID outbreak](https://appleinsider.com/articles/22/10/31/foxconns-iphone-output-could-drop-by-30-over-covid-outbreak?utm_medium=rss)
- - [Sources detail the twists and turns in Elon Musk&#39;s $44B Twitter takeover, starting in March, falling apart, and then closing late on October 27 &lpar;Financial Times&rpar;](http://www.techmeme.com/221031/p8#a221031p8)
- - [The Push to Scale Plant-Based Plastics](https://www.wired.com/story/plant-based-plastics-fabricnano/)<!-- TECH:END -->
+ - [Elon Musk orders Twitter to charge $20/month for verification](https://appleinsider.com/articles/22/10/31/elon-musk-orders-twitter-to-charge-20month-for-verification?utm_medium=rss)
+ - [Unionized Australian Apple Store employees set to strike again](https://appleinsider.com/articles/22/10/31/unionized-australian-apple-store-employees-set-to-strike-again?utm_medium=rss)
+ - [iPhone 14 Pro lead times grow following factory&#39;s COVID-19 outbreak](https://appleinsider.com/articles/22/10/31/iphone-14-pro-lead-times-grow-following-factorys-covid-19-outbreak?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
