@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)
- - 🚯 [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
- - 🚯 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)<!-- MEMES:END -->
+ - 🚖 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
+ - 🚯 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - 🚯 [Man saves girl from pitbull attack using a chokehold.](http://9gag.com/gag/aVbPrQv)<!-- MEMES:END -->
 
 --- 
 
