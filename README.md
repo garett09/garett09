@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)
- - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)<!-- MEMES:END -->
+ - 🚖 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
+ - 🚯 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
+ - 🚯 [Soon](http://9gag.com/gag/ap9vM79)<!-- MEMES:END -->
 
 --- 
 
