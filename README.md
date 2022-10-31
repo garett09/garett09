@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I cant stop laughing](http://9gag.com/gag/a5X74pr)
- - 🚯 [The dogs looks after the cracks makes me laugh all the time](http://9gag.com/gag/aPgD2eQ)
- - 🚯 [Heroes are all around us!](http://9gag.com/gag/aL12xxW)<!-- MEMES:END -->
+ - 🚖 [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
+ - 🚯 [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)
+ - 🚯 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)<!-- MEMES:END -->
 
 --- 
 
