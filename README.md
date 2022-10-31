@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; film crew adopts Jason Sudeikis&#39;s costume for Halloween](https://appleinsider.com/articles/22/10/31/ted-lasso-film-crew-adopts-jason-sudeikiss-costume-for-halloween?utm_medium=rss)
- - [Instagram users are geting &#39;account suspended&#39; errors](https://appleinsider.com/articles/22/10/31/instagram-users-are-geting-account-suspended-errors?utm_medium=rss)
- - [In defense of the voice message](https://www.theverge.com/2022/10/31/23432534/voice-message-note-imessage-whatsapp-defense-etiquette)<!-- TECH:END -->
+ - [Huge &#39;Planet Killer&#39; Asteroids Found Hiding in the Glare of the Sun     - CNET](https://www.cnet.com/science/space/huge-planet-killer-asteroids-found-hiding-in-the-glare-of-the-sun/#ftag=CAD590a51e)
+ - [The best thing about the new AirPods Pro is the extra small eartips](https://www.theverge.com/2022/10/31/23432871/apple-airpods-pro-second-generation-extra-small-eartips)
+ - [Instagram outage tells millions their accounts are suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
