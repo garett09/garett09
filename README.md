@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk orders Twitter to charge $20/month for verification](https://appleinsider.com/articles/22/10/31/elon-musk-orders-twitter-to-charge-20month-for-verification?utm_medium=rss)
- - [Unionized Australian Apple Store employees set to strike again](https://appleinsider.com/articles/22/10/31/unionized-australian-apple-store-employees-set-to-strike-again?utm_medium=rss)
- - [iPhone 14 Pro lead times grow following factory&#39;s COVID-19 outbreak](https://appleinsider.com/articles/22/10/31/iphone-14-pro-lead-times-grow-following-factorys-covid-19-outbreak?utm_medium=rss)<!-- TECH:END -->
+ - [Ikea&#39;s Matter hub, VOCOlinc floor lamp review, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/10/31/ikeas-matter-hub-vocolinc-floor-lamp-review-more-on-homekit-insider?utm_medium=rss)
+ - [Amazon Fire TV Cube &lpar;2022&rpar; review: fast, hands-free voice controls, nice design, and great live TV integration, but so many ads, slow ports, and mediocre remote &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/221031/p12#a221031p12)
+ - [The Hunter Cat is a bodyguard for your credit card](https://www.theverge.com/23424542/hunter-cat-credit-card-skimmer-reader-atm-stolen-cc-number-fraud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
