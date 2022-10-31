@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High quality](http://9gag.com/gag/aMEGgzW)
- - 🚯 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
- - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
+ - 🚖 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
+ - 🚯 [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
+ - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 --- 
 
