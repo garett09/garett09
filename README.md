@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - 🚯 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
- - 🚯 [Man saves girl from pitbull attack using a chokehold.](http://9gag.com/gag/aVbPrQv)<!-- MEMES:END -->
+ - 🚯 [Soon](http://9gag.com/gag/ap9vM79)
+ - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 --- 
 
