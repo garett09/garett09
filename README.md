@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A clean headshot](http://9gag.com/gag/aL12y05)
- - 🚯 [I cant stop laughing](http://9gag.com/gag/a5X74pr)
- - 🚯 [Seeing how they\u2019re going way too far compared to the books. Makes it understandable why he left.](http://9gag.com/gag/a9q7xGo)<!-- MEMES:END -->
+ - 🚖 [High quality](http://9gag.com/gag/aMEGgzW)
+ - 🚯 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
+ - 🚯 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 --- 
 
