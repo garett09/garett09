@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - 🚯 [Soon](http://9gag.com/gag/ap9vM79)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 🚖 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
+ - 🚯 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
+ - 🚯 [It&#39;s the first time I actually see the Kensington being useful.. nice!](http://9gag.com/gag/a8qMgRp)<!-- MEMES:END -->
 
 --- 
 
