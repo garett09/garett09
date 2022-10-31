@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)
- - 🚯 [I cant stop laughing](http://9gag.com/gag/a5X74pr)
- - 🚯 [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)<!-- MEMES:END -->
+ - 🚖 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
+ - 🚯 [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
+ - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 --- 
 
