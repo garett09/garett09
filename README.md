@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timber !](http://9gag.com/gag/a1PMw4R)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)
- - 🚯 [Thats some advice](http://9gag.com/gag/amA9K1j)<!-- MEMES:END -->
+ - 🚖 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)
+ - 🚯 [Soon](http://9gag.com/gag/ap9vM79)
+ - 🚯 [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)<!-- MEMES:END -->
 
 --- 
 
