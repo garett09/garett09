@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
- - 🚯 [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
- - 🚯 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 🚖 [A clean headshot](http://9gag.com/gag/aL12y05)
+ - 🚯 [I cant stop laughing](http://9gag.com/gag/a5X74pr)
+ - 🚯 [Seeing how they\u2019re going way too far compared to the books. Makes it understandable why he left.](http://9gag.com/gag/a9q7xGo)<!-- MEMES:END -->
 
 --- 
 
