@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk has instructed Twitter engineers to work on a Vine reboot that could be ready by the end of 2022 &lpar;Axios&rpar;](http://www.techmeme.com/221031/p19#a221031p19)
- - [Slack is rolling out typing indicators for threads](https://www.theverge.com/2022/10/31/23432945/slack-threads-typing-indicators)
- - [What were the most popular streaming shows in October 2022?](https://www.androidauthority.com/popular-streaming-shows-this-month-3229187/)<!-- TECH:END -->
+ - [Tenoch Huerta hopes Wakanda Forever helps Latin Americans embrace their roots](https://www.theverge.com/2022/10/31/23433010/tenoch-huerta-namor-black-panther-wakanda-forever-talocan)
+ - [Musk tells Twitter engineers to bring Vine back from the dead](https://appleinsider.com/articles/22/10/31/musk-tells-twitter-engineers-to-bring-vine-back-from-the-dead?utm_medium=rss)
+ - [Tritium and DC-America are building a coast-to-coast EV fast charging network](https://www.theverge.com/2022/10/31/23433342/tritium-dc-america-nationwide-ev-fast-charging-network)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
