@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s 14-inch MacBook Pro with 2TB storage is now $300 off, plus $70 off AppleCare](https://appleinsider.com/articles/22/10/28/deals-apples-14-inch-macbook-pro-with-2tb-storage-is-now-300-off-plus-70-off-applecare?utm_medium=rss)
- - [Poll: Do you send voice notes on your smartphone?](https://www.androidauthority.com/voice-notes-smartphones-poll-3226511/)
- - [The new Fitbit Sense 2 is already 74 percent off at Amazon](https://www.theverge.com/2022/10/31/23432478/fitbit-sense-2-fitness-tracker-smartwatch-blink-mini-samsung-t7-shield-ssd-deal-sale)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; film crew adopts Jason Sudeikis&#39;s costume for Halloween](https://appleinsider.com/articles/22/10/31/ted-lasso-film-crew-adopts-jason-sudeikiss-costume-for-halloween?utm_medium=rss)
+ - [Instagram users are geting &#39;account suspended&#39; errors](https://appleinsider.com/articles/22/10/31/instagram-users-are-geting-account-suspended-errors?utm_medium=rss)
+ - [In defense of the voice message](https://www.theverge.com/2022/10/31/23432534/voice-message-note-imessage-whatsapp-defense-etiquette)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
