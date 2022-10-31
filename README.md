@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House welcomes officials from 36 countries, the EU, and private companies for a two-day summit on ransomware attacks, the second such event &lpar;Associated Press&rpar;](http://www.techmeme.com/221031/p6#a221031p6)
- - [We asked, you told us: Here’s what you think of phone benchmark tests](https://www.androidauthority.com/phone-benchmark-tests-poll-results-3226470/)
- - [SIA data: global semiconductor sales declined 3% YoY in September, the first drop since early 2020; South Korean chip manufacturing dropped by 3.5% YoY &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/221031/p5#a221031p5)<!-- TECH:END -->
+ - [Foxconn&#39;s iPhone output could drop by 30% over COVID outbreak](https://appleinsider.com/articles/22/10/31/foxconns-iphone-output-could-drop-by-30-over-covid-outbreak?utm_medium=rss)
+ - [Sources detail the twists and turns in Elon Musk&#39;s $44B Twitter takeover, starting in March, falling apart, and then closing late on October 27 &lpar;Financial Times&rpar;](http://www.techmeme.com/221031/p8#a221031p8)
+ - [The Push to Scale Plant-Based Plastics](https://www.wired.com/story/plant-based-plastics-fabricnano/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
