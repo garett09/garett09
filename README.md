@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft promises to keep Call of Duty on PlayStation for as long as PlayStation exists](https://www.theverge.com/2022/10/31/23433114/microsoft-call-of-duty-playstation-phil-spencer-comments)
- - [The past 2 weeks underscored the new Pixel line-up’s biggest weakness for me](https://www.androidauthority.com/pixel-7-pro-watch-charging-3223790/)
- - [EA is teaming up with Marvel for ‘at least’ three new games](https://www.theverge.com/2022/10/31/23432986/ea-disney-marvel-iron-man-three-new-games-collaboration)<!-- TECH:END -->
+ - [Jair Bolsonaro lost the Brazilian election, but he still has YouTube](https://www.theverge.com/2022/10/31/23432854/bolsonaro-youtube-brazil-election-lula-victory-misinformation-telegram)
+ - [Apple Watch optimized charging available in watchOS 9](https://appleinsider.com/articles/22/10/31/apple-watch-optimized-charging-available-in-watchos-9?utm_medium=rss)
+ - [Chrome’s new sidebar lets you blast through search results](https://www.theverge.com/2022/10/31/23433029/chrome-search-sidebar-results-shopping-track-prices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
