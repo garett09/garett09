@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter plans to change Twitter Blue into a $19.99 subscription that verifies users; staff are told they will be fired if they don&#39;t build it by Nov. 7 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)
- - [&#39;Andor&#39; Release Schedule: When is Episode 9 Dropping on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-dropping-on-disney-plus/#ftag=CAD590a51e)
- - [Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)<!-- TECH:END -->
+ - [Sources: US-based self-driving trucking company TuSimple faces US federal probes into whether it improperly financed and transferred tech to a Chinese startup &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p17#a221030p17)
+ - [Twitter faces ~$1B per year in interest expenses after Elon Musk&#39;s deal added ~$13B in debt, up from ~$50M in 2021 when operations generated ~$633M in cash flow &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/221030/p16#a221030p16)
+ - [Sources: Twitter plans to change Twitter Blue into a $19.99 subscription that verifies users; staff are told they will be fired if they don&#39;t build it by Nov. 7 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
