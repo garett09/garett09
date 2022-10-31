@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
- - 🚯 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
- - 🚯 [Soon](http://9gag.com/gag/ap9vM79)<!-- MEMES:END -->
+ - 🚯 [Real](http://9gag.com/gag/a3ZBXE7)
+ - 🚯 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)<!-- MEMES:END -->
 
 --- 
 
