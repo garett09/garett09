@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)
- - 🚯 [Soon](http://9gag.com/gag/ap9vM79)
- - 🚯 [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)<!-- MEMES:END -->
+ - 🚯 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 🚯 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)<!-- MEMES:END -->
 
 --- 
 
