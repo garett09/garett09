@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
- - 🚯 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
- - 🚯 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)<!-- MEMES:END -->
+ - 🚖 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)
+ - 🚯 [I cant stop laughing](http://9gag.com/gag/a5X74pr)
+ - 🚯 [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)<!-- MEMES:END -->
 
 --- 
 
