@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NONONO I bought 5 phones and I have kept each box.](http://9gag.com/gag/a3ZBmd5)
- - 🚯 [Louis Rossmann on Right to Repair- $1500 vs $12 to fix your MacBook](http://9gag.com/gag/aNwn5Pr)
- - 🚯 [In Switzerland a woman raised a pair of lions. The authorities confiscated them for a zoo. 7 years later the woman came to visit the zoo](http://9gag.com/gag/aKEqQBO)<!-- MEMES:END -->
+ - 🚖 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
+ - 🚯 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
+ - 🚯 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)<!-- MEMES:END -->
 
 --- 
 
