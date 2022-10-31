@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huge &#39;Planet Killer&#39; Asteroids Found Hiding in the Glare of the Sun     - CNET](https://www.cnet.com/science/space/huge-planet-killer-asteroids-found-hiding-in-the-glare-of-the-sun/#ftag=CAD590a51e)
- - [The best thing about the new AirPods Pro is the extra small eartips](https://www.theverge.com/2022/10/31/23432871/apple-airpods-pro-second-generation-extra-small-eartips)
- - [Instagram outage tells millions their accounts are suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)<!-- TECH:END -->
+ - [Microsoft promises to keep Call of Duty on PlayStation for as long as PlayStation exists](https://www.theverge.com/2022/10/31/23433114/microsoft-call-of-duty-playstation-phil-spencer-comments)
+ - [The past 2 weeks underscored the new Pixel line-up’s biggest weakness for me](https://www.androidauthority.com/pixel-7-pro-watch-charging-3223790/)
+ - [EA is teaming up with Marvel for ‘at least’ three new games](https://www.theverge.com/2022/10/31/23432986/ea-disney-marvel-iron-man-three-new-games-collaboration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
