@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
- - 🚯 [A rare medical condition, a man discovers he has four kidneys in his body.](http://9gag.com/gag/aBd19RD)
- - 🚯 [How considerate.....](http://9gag.com/gag/a4oYvmw)<!-- MEMES:END -->
+ - 🚖 [A rare medical condition, a man discovers he has four kidneys in his body.](http://9gag.com/gag/aBd19RD)
+ - 🚯 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
+ - 🚯 [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)<!-- MEMES:END -->
 
 --- 
 
