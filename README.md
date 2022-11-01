@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cannabis Banking Startups Want to Make It Easy to Buy Weed](https://www.wired.com/story/cannabis-banking-fintech-regulations/)
- - [How to use Continuity Camera in iOS 16 and macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-continuity-camera-in-ios-16-and-macos-ventura?utm_medium=rss)
- - [Mercedes-Benz EQE electric sedan will start at $76,050](https://www.theverge.com/2022/11/1/23435165/mercedes-benz-eqe-price-ev-sedan-specs-trim)<!-- TECH:END -->
+ - [Rewind app wants your Mac to record every moment of your life](https://appleinsider.com/articles/22/11/01/rewind-app-wants-your-mac-to-record-every-moment-of-your-life?utm_medium=rss)
+ - [Intel now says next-gen Sapphire Rapids Xeon chips are slated for January 2023, after a spate of delays dating back to 2021, another boon for AMD&#39;s server chips &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/221101/p24#a221101p24)
+ - [Instagram won’t make an iPad app, but its web interface is getting better](https://www.theverge.com/2022/11/1/23435020/instagram-web-interface-desktop-ipad-improvements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
