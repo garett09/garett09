@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA reports Q2 revenue up 4% YoY to $1.9B, vs. $1.94B est., net income up 2% YoY to $299M, and net bookings down 5% YoY to $1.75B &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/221101/p29#a221101p29)
- - [Tumblr will now allow nudity but not explicit sex](https://www.theverge.com/2022/11/1/23435516/tumblr-porn-ban-modified-nudity-allowed-sexually-explicit-depictions-banned)
- - [Amazon&#39;s stock closed down 5.52% on November 1, down for the fifth straight day, its lowest close and below a $1T market cap for the first time since April 2020 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221101/p28#a221101p28)<!-- TECH:END -->
+ - [Microsoft makes it easier to use pictures from your Android phone in Word or PowerPoint](https://www.theverge.com/2022/11/1/23435298/microsoft-office-web-apps-word-powerpoint-android-qr-code)
+ - [The best Verizon deals: Save up to $1,000 on flagship phones](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [AMD’s profits have cratered as the PC and crypto miner markets slow down](https://www.theverge.com/2022/11/1/23435504/amd-q3-2022-earnings-profits-revenue-pc-sales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
