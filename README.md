@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pair JBL Bluetooth speakers, earbuds, and headphones](https://www.androidauthority.com/pair-jbl-earbuds-speakers-headphones-3226088/)
- - [How to recover deleted playlists on Spotify](https://www.androidauthority.com/recover-deleted-playlists-spotify-3225746/)
- - [Deals: $354 off M1 Max MacBook Pro 14-inch 32GB RAM, plus $70 off AppleCare](https://appleinsider.com/articles/22/11/01/deals-354-off-m1-max-macbook-pro-14-inch-32gb-ram-plus-70-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Cannabis Banking Startups Want to Make It Easy to Buy Weed](https://www.wired.com/story/cannabis-banking-fintech-regulations/)
+ - [How to use Continuity Camera in iOS 16 and macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-continuity-camera-in-ios-16-and-macos-ventura?utm_medium=rss)
+ - [Mercedes-Benz EQE electric sedan will start at $76,050](https://www.theverge.com/2022/11/1/23435165/mercedes-benz-eqe-price-ev-sedan-specs-trim)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
