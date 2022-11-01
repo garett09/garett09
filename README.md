@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When Is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
- - [More People Need to Play These Haunting Nintendo Switch Murder Mysteries     - CNET](https://www.cnet.com/tech/gaming/more-people-need-to-play-these-haunting-nintendo-switch-murder-mysteries/#ftag=CAD590a51e)
- - [Twitter braces for layoffs](https://www.theverge.com/2022/10/31/23434002/twitter-layoffs-internal-messaging-uncertainty-elon-musk)<!-- TECH:END -->
+ - [Google says it has paused enforcement of its in-app billing policy on Google Play in India, following a recent ruling of the Competition Commission of India &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/221031/p31#a221031p31)
+ - [Elon Musk absolutely did not fire top Twitter executives, including Parag Agrawal, for &quot;cause&quot;, as you can easily tell by reading their employment agreements &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221031/p30#a221031p30)
+ - [A look at video site Rumble, which has been on an upward trajectory since 2020, when right-wing star Dan Bongino moved from YouTube and took an equity stake &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221031/p29#a221031p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
