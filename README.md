@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
- - 🚯 [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)
- - 🚯 [The \u201cOil\u201d we use to fry anything at Bill Millers\u2026 Pure Beef Fat](http://9gag.com/gag/aMEG3GR)<!-- MEMES:END -->
+ - 🚖 [You thought you can escape that easy?](http://9gag.com/gag/az2Abxq)
+ - 🚯 [Into the nut](http://9gag.com/gag/armNpVy)
+ - 🚯 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)<!-- MEMES:END -->
 
 --- 
 
