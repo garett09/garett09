@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Amazon VP of Music Steve Boom on making its ~100M song library available to Prime users without ads, running the unit, music industry, labels, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221101/p11#a221101p11)
- - [Musk taps over 50 Tesla employees to make Twitter changes](https://appleinsider.com/articles/22/11/01/musk-taps-over-50-tesla-employees-to-make-twitter-changes?utm_medium=rss)
- - [Hands on with Apple&#39;s new HomeKit architecture in iOS 16.2](https://appleinsider.com/articles/22/11/01/hands-on-with-apples-new-homekit-architecture-in-ios-162?utm_medium=rss)<!-- TECH:END -->
+ - [Prime membership now has entire ad-free Music Unlimited library with a big catch](https://www.androidauthority.com/amazon-prime-music-free-3229717/)
+ - [Foxconn quadruples bonuses to keep staff at COVID-hit iPhone factory](https://appleinsider.com/articles/22/11/01/foxconn-quadruples-bonuses-to-keep-staff-at-covid-hit-iphone-factory?utm_medium=rss)
+ - [Sources: Twitter is planning to end the ability of Twitter Blue subscribers to access ad-free articles from hundreds of publishers &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/221101/p14#a221101p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
