@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tinder as an unattractive man in Norway.](http://9gag.com/gag/a8q4LpZ)
- - 🚯 [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)
- - 🚯 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)<!-- MEMES:END -->
+ - 🚖 [How considerate.....](http://9gag.com/gag/a4oYvmw)
+ - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
+ - 🚯 [Its not CGI](http://9gag.com/gag/a6qQd5e)<!-- MEMES:END -->
 
 --- 
 
