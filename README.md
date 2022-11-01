@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You thought you can escape that easy?](http://9gag.com/gag/az2Abxq)
- - 🚯 [Into the nut](http://9gag.com/gag/armNpVy)
- - 🚯 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)<!-- MEMES:END -->
+ - 🚖 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - 🚯 [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
+ - 🚯 [How considerate.....](http://9gag.com/gag/a4oYvmw)<!-- MEMES:END -->
 
 --- 
 
