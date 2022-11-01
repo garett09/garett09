@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [YouTube rolls out Primetime Channels in the US, with shows and movies from 35 partners, including Paramount+ and Epix, and plans to add NBA League Pass soon &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221101/p9#a221101p9)
- - [These Tricks Will Make Your Sustainable Shopping Really Count     - CNET](https://www.cnet.com/tech/services-and-software/these-tricks-will-make-your-sustainable-shopping-really-count/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Amazon VP of Music Steve Boom on making its ~100M song library available to Prime users without ads, running the unit, music industry, labels, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221101/p11#a221101p11)
+ - [Musk taps over 50 Tesla employees to make Twitter changes](https://appleinsider.com/articles/22/11/01/musk-taps-over-50-tesla-employees-to-make-twitter-changes?utm_medium=rss)
+ - [Hands on with Apple&#39;s new HomeKit architecture in iOS 16.2](https://appleinsider.com/articles/22/11/01/hands-on-with-apples-new-homekit-architecture-in-ios-162?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
