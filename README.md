@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the 12 best Discovery Plus shows to stream right now](https://www.androidauthority.com/best-discovery-plus-shows-3225539/)
- - [Twitter disrupts a China-based influence campaign ahead of the US midterms, spanning nearly 2,000 accounts; two networks skewed right and another left &lpar;Washington Post&rpar;](http://www.techmeme.com/221101/p17#a221101p17)
- - [How to use Apple Fitness without an Apple Watch](https://appleinsider.com/inside/apple-fitness-plus/tips/how-to-use-apple-fitness-without-an-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [The DMA could force Apple to change how iMessage and other services operate](https://www.androidauthority.com/apple-imessage-dma-3229780/)
+ - [Twitch partners with Xbox for free PC Game Pass subscriptions when you buy subs](https://www.theverge.com/2022/11/1/23434337/twitch-microsoft-pc-game-pass-subscriptions-promo)
+ - [The best Black Friday tablet deals: Save up to $499 on the 2021 iPad Pro](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
