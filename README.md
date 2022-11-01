@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
  - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
- - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)
- - [Let the Spice Flow! Dune: Spice Wars Available Soon with PC Game Pass](https://news.xbox.com/en-us/2022/11/01/dune-spice-wars-available-soon-pc-game-pass/)<!-- GAME:END -->
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
