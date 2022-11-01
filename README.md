@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime membership now has entire ad-free Music Unlimited library with a big catch](https://www.androidauthority.com/amazon-prime-music-free-3229717/)
- - [Foxconn quadruples bonuses to keep staff at COVID-hit iPhone factory](https://appleinsider.com/articles/22/11/01/foxconn-quadruples-bonuses-to-keep-staff-at-covid-hit-iphone-factory?utm_medium=rss)
- - [Sources: Twitter is planning to end the ability of Twitter Blue subscribers to access ad-free articles from hundreds of publishers &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/221101/p14#a221101p14)<!-- TECH:END -->
+ - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
+ - [Ring is almost ready to release its first car alarm](https://www.theverge.com/2022/11/1/23434431/ring-car-alarm-amazon-launch-leak-price)
+ - [Spotify adds audiobook debacle to Britain&#39;s Apple App Store investigation](https://appleinsider.com/articles/22/11/01/spotify-adds-audiobook-debacle-to-britains-apple-app-store-investigation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
