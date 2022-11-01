@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A rare medical condition, a man discovers he has four kidneys in his body.](http://9gag.com/gag/aBd19RD)
- - 🚯 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
- - 🚯 [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)<!-- MEMES:END -->
+ - 🚖 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
+ - 🚯 [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)
+ - 🚯 [The \u201cOil\u201d we use to fry anything at Bill Millers\u2026 Pure Beef Fat](http://9gag.com/gag/aMEG3GR)<!-- MEMES:END -->
 
 --- 
 
