@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)
  - [Let the Spice Flow! Dune: Spice Wars Available Soon with PC Game Pass](https://news.xbox.com/en-us/2022/11/01/dune-spice-wars-available-soon-pc-game-pass/)
- - [Five Things You Should Know before Playing Lonesome Village](https://news.xbox.com/en-us/2022/11/01/five-things-you-should-know-before-playing-lonesome-village/)
- - [A New Threat Emerges in Star Trek Online: Ascension](https://news.xbox.com/en-us/2022/11/01/a-new-threat-emerges-in-star-trek-online-ascension/)<!-- GAME:END -->
+ - [Five Things You Should Know before Playing Lonesome Village](https://news.xbox.com/en-us/2022/11/01/five-things-you-should-know-before-playing-lonesome-village/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
