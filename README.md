@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rewind app wants your Mac to record every moment of your life](https://appleinsider.com/articles/22/11/01/rewind-app-wants-your-mac-to-record-every-moment-of-your-life?utm_medium=rss)
- - [Intel now says next-gen Sapphire Rapids Xeon chips are slated for January 2023, after a spate of delays dating back to 2021, another boon for AMD&#39;s server chips &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/221101/p24#a221101p24)
- - [Instagram won’t make an iPad app, but its web interface is getting better](https://www.theverge.com/2022/11/1/23435020/instagram-web-interface-desktop-ipad-improvements)<!-- TECH:END -->
+ - [EA reports Q2 revenue up 4% YoY to $1.9B, vs. $1.94B est., net income up 2% YoY to $299M, and net bookings down 5% YoY to $1.75B &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/221101/p29#a221101p29)
+ - [Tumblr will now allow nudity but not explicit sex](https://www.theverge.com/2022/11/1/23435516/tumblr-porn-ban-modified-nudity-allowed-sexually-explicit-depictions-banned)
+ - [Amazon&#39;s stock closed down 5.52% on November 1, down for the fifth straight day, its lowest close and below a $1T market cap for the first time since April 2020 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221101/p28#a221101p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
