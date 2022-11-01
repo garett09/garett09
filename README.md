@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DMA could force Apple to change how iMessage and other services operate](https://www.androidauthority.com/apple-imessage-dma-3229780/)
- - [Twitch partners with Xbox for free PC Game Pass subscriptions when you buy subs](https://www.theverge.com/2022/11/1/23434337/twitch-microsoft-pc-game-pass-subscriptions-promo)
- - [The best Black Friday tablet deals: Save up to $499 on the 2021 iPad Pro](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
+ - [How to pair JBL Bluetooth speakers, earbuds, and headphones](https://www.androidauthority.com/pair-jbl-earbuds-speakers-headphones-3226088/)
+ - [How to recover deleted playlists on Spotify](https://www.androidauthority.com/recover-deleted-playlists-spotify-3225746/)
+ - [Deals: $354 off M1 Max MacBook Pro 14-inch 32GB RAM, plus $70 off AppleCare](https://appleinsider.com/articles/22/11/01/deals-354-off-m1-max-macbook-pro-14-inch-32gb-ram-plus-70-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
