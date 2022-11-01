@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
- - 🚯 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
- - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
+ - 🚖 [Get rotated](http://9gag.com/gag/a8q4bRY)
+ - 🚯 [Into the nut](http://9gag.com/gag/armNpVy)
+ - 🚯 [True horror](http://9gag.com/gag/aBd1Rnz)<!-- MEMES:END -->
 
 --- 
 
