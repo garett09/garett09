@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s VP of online retail Anna Matthiasson is leaving the company, to be replaced by Karen Rasmussen; CIO Mary Demby is retiring after three decades &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221031/p23#a221031p23)
- - [SEC filing: Jack Dorsey has agreed to rollover his remaining 2.4% in Twitter, worth over $1B, into X Holdings, an amount Elon Musk won&#39;t have to pay &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/221031/p22#a221031p22)
- - [Instagram fixes outage that told millions their accounts were suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
+ - [More People Need to Play These Haunting Nintendo Switch Murder Mysteries     - CNET](https://www.cnet.com/tech/gaming/more-people-need-to-play-these-haunting-nintendo-switch-murder-mysteries/#ftag=CAD590a51e)
+ - [Twitter braces for layoffs](https://www.theverge.com/2022/10/31/23434002/twitter-layoffs-internal-messaging-uncertainty-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
