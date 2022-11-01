@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)
- - [Ring is almost ready to release its first car alarm](https://www.theverge.com/2022/11/1/23434431/ring-car-alarm-amazon-launch-leak-price)
- - [Spotify adds audiobook debacle to Britain&#39;s Apple App Store investigation](https://appleinsider.com/articles/22/11/01/spotify-adds-audiobook-debacle-to-britains-apple-app-store-investigation?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the 12 best Discovery Plus shows to stream right now](https://www.androidauthority.com/best-discovery-plus-shows-3225539/)
+ - [Twitter disrupts a China-based influence campaign ahead of the US midterms, spanning nearly 2,000 accounts; two networks skewed right and another left &lpar;Washington Post&rpar;](http://www.techmeme.com/221101/p17#a221101p17)
+ - [How to use Apple Fitness without an Apple Watch](https://appleinsider.com/inside/apple-fitness-plus/tips/how-to-use-apple-fitness-without-an-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
