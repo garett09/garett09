@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s plan to monetize Twitter verification would generate marginal revenue, even at $20/month, and create myriad problems, including enabling spammers &lpar;James Ball/New Statesman&rpar;](http://www.techmeme.com/221101/p5#a221101p5)
- - [How Much More Expensive Is It to Buy Organic? We Do the Math     - CNET](https://www.cnet.com/news/how-much-more-expensive-is-organic/#ftag=CAD590a51e)
- - [DC Has a Chance to Save Superman. Here&#39;s What It Needs to Do](https://www.wired.com/story/best-superman-henry-cavill-james-gunn/)<!-- TECH:END -->
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [YouTube rolls out Primetime Channels in the US, with shows and movies from 35 partners, including Paramount+ and Epix, and plans to add NBA League Pass soon &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221101/p9#a221101p9)
+ - [These Tricks Will Make Your Sustainable Shopping Really Count     - CNET](https://www.cnet.com/tech/services-and-software/these-tricks-will-make-your-sustainable-shopping-really-count/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
