@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soon](http://9gag.com/gag/ap9vM79)
+ - 🚖 [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
  - 🚯 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
- - 🚯 [The \u201cOil\u201d we use to fry anything at Bill Millers\u2026 Pure Beef Fat](http://9gag.com/gag/aMEG3GR)<!-- MEMES:END -->
+ - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
 
 --- 
 
