@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eternal Halloween](http://9gag.com/gag/aXnw0RD)
- - 🚯 [NONONO I bought 5 phones and I have kept each box.](http://9gag.com/gag/a3ZBmd5)
- - 🚯 [The death stare at the end](http://9gag.com/gag/a7q7Qzx)<!-- MEMES:END -->
+ - 🚖 [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
+ - 🚯 [A rare medical condition, a man discovers he has four kidneys in his body.](http://9gag.com/gag/aBd19RD)
+ - 🚯 [How considerate.....](http://9gag.com/gag/a4oYvmw)<!-- MEMES:END -->
 
 --- 
 
