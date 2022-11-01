@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How considerate.....](http://9gag.com/gag/a4oYvmw)
- - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
- - 🚯 [Its not CGI](http://9gag.com/gag/a6qQd5e)<!-- MEMES:END -->
+ - 🚖 [When Ernest Seton turned 21, his father handed him an itemized bill for everything spent on him up to that point. The total came to $537.50 and his father set the interest rate at 6%. Seton paid the debt, but changed his name and never spoke to his father again](http://9gag.com/gag/ay2dyQy)
+ - 🚯 [Tel-Aviv Azrieli mall Enriched](http://9gag.com/gag/ay28py8)
+ - 🚯 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)<!-- MEMES:END -->
 
 --- 
 
