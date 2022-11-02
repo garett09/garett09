@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harvestella will offer a non-binary pronoun option](https://www.pcgamer.com/harvestella-will-offer-a-non-binary-pronoun-option)
- - [Frontier acquires the studio behind Warhammer 40K: Daemonhunters with an eye to &#39;more ambitious future titles&#39;](https://www.pcgamer.com/frontier-acquires-the-studio-behind-warhammer-40k-daemonhunters-with-an-eye-to-more-ambitious-future-titles)
- - [Black Friday SSD deals 2022: the fastest PC storage at the lowest prices](https://www.pcgamer.com/black-friday-ssd-deals)<!-- GAME:END -->
+ - [BioShock-like Soviet shooter Atomic Heart finally has a real release date](https://www.pcgamer.com/bioshock-like-soviet-shooter-atomic-heart-finally-has-a-real-release-date)
+ - [PlayStation VR2 launches February 2023, costs $549.99, Sony confirms](https://www.polygon.com/23436556/playstation-vr2-price-release-date-ps5-psvr2)
+ - [New Avatar: The Way of Water trailer is giving off surprisingly strong Titanic vibes](https://www.polygon.com/23344331/avatar-2-trailer-way-of-water-disney)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
