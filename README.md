@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men and women are different](http://9gag.com/gag/az2A7dj)
- - 🚯 [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)
- - 🚯 [When you didn&#39;t ask for anything but you pepsi anyways](http://9gag.com/gag/anz1KEo)<!-- MEMES:END -->
+ - 🚖 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - 🚯 [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)
+ - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
 
 --- 
 
