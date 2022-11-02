@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s 48-inch A2 OLED is still just $570 at Best Buy](https://www.theverge.com/2022/11/2/23436467/lg-a2-oled-4k-tv-apple-ipad-air-tablet-nvidia-geforce-now-amazon-deal-sale)
- - [My mom’s phone completely died, but these 3 steps helped me recover everything](https://www.androidauthority.com/mom-phone-backup-recover-3229279/)
- - [Get early access to the Samsung Black Friday Sale](https://www.androidauthority.com/samsung-black-friday-sale-early-access-3229836/)<!-- TECH:END -->
+ - [Apple TV 4K review roundup: lower cost and future-proofed](https://appleinsider.com/articles/22/11/02/apple-tv-4k-review-roundup-lower-cost-and-future-proofed?utm_medium=rss)
+ - [The PSVR 2 finally gets a price and release date](https://www.androidauthority.com/psvr-2-price-release-date-3230258/)
+ - [Tharsis Labs, which develops the Evmos cross-blockchain tool to connect Ethereum and Cosmos, raised $27M via a token sale led by Polychain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221102/p25#a221102p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
