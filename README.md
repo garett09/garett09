@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT startup Dapper Labs, the company behind CryptoKitties, confirms it laid off ~134 employees or 22% of its workforce; Dapper Labs raised $600M to date &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/221102/p40#a221102p40)
- - [Secretlab Skins let you customize your gaming chair](https://www.theverge.com/2022/11/2/23424498/secretlab-skins-gaming-chair-titan-evo-2022)
- - [Apple’s own 5G modems might come to iPhones later than expected](https://www.theverge.com/2022/11/2/23437586/apple-iphone-5g-modems-later-expected-2023-qualcomm)<!-- TECH:END -->
+ - [Meta is letting select Instagram US creators test a toolkit for minting NFTs and selling them on and off the platform, and says it won&#39;t charge fees until 2024 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/221102/p42#a221102p42)
+ - [Qualcomm will provide 5G modems for 2023 iPhone line](https://appleinsider.com/articles/22/11/02/qualcomm-will-provide-5g-modems-for-2023-iphone-line?utm_medium=rss)
+ - [Qualcomm expects to provide modem chips for the &quot;vast majority&quot; of iPhones in 2023, retaining its current foothold after previously planning to supply ~20% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221102/p41#a221102p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
