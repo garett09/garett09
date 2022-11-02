@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best ad-supported streaming plans for people on a budget](https://www.androidauthority.com/ad-supported-streaming-plans-3226097/)
- - [Google plans to roll out parental controls for Assistant, including disabling features, restricting services, and setting downtimes hours, in the &quot;coming weeks&quot; &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/221102/p13#a221102p13)
- - [Adobe Just Held a Bunch of Pantone Colors Hostage](https://www.wired.com/story/adobe-pantone-color-subscription-fee/)<!-- TECH:END -->
+ - [2022 iPad Pro review: World&#39;s best tablet gets M2 power boost - but not much else](https://appleinsider.com/articles/22/11/02/2022-ipad-pro-review-m2-computing-heft----but-not-much-else?utm_medium=rss)
+ - [Arlo introduces Home Security System and Pro 5S Security Camera](https://appleinsider.com/articles/22/11/02/arlo-introduces-home-security-system-and-pro-5s-security-camera?utm_medium=rss)
+ - [The Unintended Consequences of Apple’s Fertility Tech](https://www.wired.com/story/apple-watch-fertility-features-not-birth-control/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
