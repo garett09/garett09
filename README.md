@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How considerate.....](http://9gag.com/gag/a4oYvmw)
- - 🚯 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
- - 🚯 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
+ - 🚖 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
+ - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
+ - 🚯 [True love](http://9gag.com/gag/a7qdyYx)<!-- MEMES:END -->
 
 --- 
 
