@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 🚯 [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)
- - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
+ - 🚖 [Ages like a fine wine](http://9gag.com/gag/aGEDRN5)
+ - 🚯 [I don\u2019t need the drama at work\u2026](http://9gag.com/gag/amAzLzo)
+ - 🚯 [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)<!-- MEMES:END -->
 
 --- 
 
