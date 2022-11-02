@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands its Play Games for PC Beta to the US and other countries](https://www.androidauthority.com/play-games-beta-us-3230367/)
- - [Online banking startup Chime is laying off 12% of its 1,300-person workforce, citing &quot;current market dynamics&quot;; it had a $25B valuation in August 2021 &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/221102/p30#a221102p30)
- - [Why Elon Musk is so desperate for Twitter to make money](https://www.theverge.com/2022/11/2/23437120/elon-musk-twitter-product-subscription-verification-revenue-debt-finance)<!-- TECH:END -->
+ - [Fitbit Versa 4 review: Back to basics](https://www.androidauthority.com/fitbit-versa-4-review-3223693/)
+ - [How to charge your first generation Apple Pencil](https://appleinsider.com/inside/apple-pencil/tips/different-ways-to-charge-your-apple-pencil-first-generation?utm_medium=rss)
+ - [Google expands Google Play Games beta for PC to the US, Canada, Mexico, Brazil, Indonesia, the Philippines, Malaysia, and Singapore, offering 85 Android games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221102/p31#a221102p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
