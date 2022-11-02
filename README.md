@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Anti-Fan Game: PlayStation Developer Defies 4chan Harassment Troll Project](https://kotaku.com/goodbye-volcano-high-ko_op-snoot-game-4chan-ps4-ps5-1849731598)
- - [Halo Infinite&#39;s Unpopular Match XP System Is Getting Overhauled](https://kotaku.com/halo-infinite-343-match-xp-winter-update-1849732823)
- - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)<!-- GAME:END -->
+ - [Announcing Xbox FanFest Trivia 2022](https://news.xbox.com/en-us/2022/11/02/announcing-xbox-fan-fest-trivia-2022/)
+ - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)
+ - [Lore and Legend behind The Lost City of Radlantis and Gail Force](https://news.xbox.com/en-us/2022/11/02/lore-and-legend-behind-the-lost-city-of-radlantis-and-gail-force/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
