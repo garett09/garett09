@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
- - 🚯 [Only true veterans know what&#39;s gonna happen to the remote on the bed](http://9gag.com/gag/ay28LOM)
- - 🚯 [The Shinnin!](http://9gag.com/gag/abvZq8p)<!-- MEMES:END -->
+ - 🚖 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - 🚯 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)<!-- MEMES:END -->
 
 --- 
 
