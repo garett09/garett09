@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Twitter will not reinstate banned accounts &quot;until we have a clear process for doing so, which will take at least a few more weeks&quot; &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/221102/p7#a221102p7)
- - [An engineer reimplemented Google AI&#39;s text-to-image diffusion model DreamBooth for Stable Diffusion, letting anyone cheaply and easily recreate artists&#39; styles &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/221102/p6#a221102p6)
- - [Daily Authority: 🐦 Twitter puts a price on vanity](https://www.androidauthority.com/daily-authority-november-2-2022-3230053/)<!-- TECH:END -->
+ - [Toronto-based TouchBistro, which offers payments tools for restaurants globally, raised CA$150M led by Francisco Partners, bringing its funding to ~CA$433M &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221102/p11#a221102p11)
+ - [Google Assistant Gets Parental Controls, New Voices, and a Kids’ Dictionary](https://www.wired.com/story/google-assistant-parental-controls-kid-friendly-features/)
+ - [Netflix begins rolling out its Basic with Ads tier; sources say licensing negotiations with Disney, Comcast, Sony, Warner Bros., and Lions Gate are ongoing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221102/p10#a221102p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
