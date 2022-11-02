@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vietnam&#39;s &#39;King of VGA&#39; is selling mountains of graphics cards on the street](https://www.pcgamer.com/vietnams-king-of-vga-is-selling-mountains-of-graphics-cards-on-the-street)
  - [Top 10 Most-Played Steam Deck Games, October 2022 Edition](https://kotaku.com/steam-deck-october-2022-valve-vampire-survivors-hades-1849730190)
- - [Signalis Is A Grimy Exercise In Survival Horror, And I Love It](https://kotaku.com/signalis-survival-horror-impressions-review-pc-ps4-xbox-1849730503)
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
+ - [Signalis Is A Grimy Exercise In Survival Horror, And I Love It](https://kotaku.com/signalis-survival-horror-impressions-review-pc-ps4-xbox-1849730503)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
