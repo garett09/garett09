@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Mavic 3 Classic is the drone we wanted last year](https://www.androidauthority.com/dji-mavic-3-classic-price-specs-availability-3230046/)
- - [Level Lock+ HomeKit smart lock can be picked open in seconds](https://appleinsider.com/articles/22/11/02/level-lock-homekit-smart-lock-can-be-picked-open-in-seconds?utm_medium=rss)
- - [Apple spotlights developers revealing how they started](https://appleinsider.com/articles/22/11/02/apple-spotlights-developers-revealing-how-they-started?utm_medium=rss)<!-- TECH:END -->
+ - [LG’s 48-inch A2 OLED is still just $570 at Best Buy](https://www.theverge.com/2022/11/2/23436467/lg-a2-oled-4k-tv-apple-ipad-air-tablet-nvidia-geforce-now-amazon-deal-sale)
+ - [My mom’s phone completely died, but these 3 steps helped me recover everything](https://www.androidauthority.com/mom-phone-backup-recover-3229279/)
+ - [Get early access to the Samsung Black Friday Sale](https://www.androidauthority.com/samsung-black-friday-sale-early-access-3229836/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
