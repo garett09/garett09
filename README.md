@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
- - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
+ - 🚖 [How considerate.....](http://9gag.com/gag/a4oYvmw)
+ - 🚯 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
+ - 🚯 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
 
 --- 
 
