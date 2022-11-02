@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood reports Q3 revenue down 1% YoY to $361M, vs. $357.8M est., net loss down 87% YoY to $175M, and MAUs down 1.8M QoQ to 12.2M in September 2022 &lpar;Annie Massa/Bloomberg&rpar;](http://www.techmeme.com/221102/p38#a221102p38)
- - [Qualcomm is predicting a ‘double-digit’ drop in phone sales](https://www.theverge.com/2022/11/2/23437443/qualcomm-phone-sales-earnings-decline)
- - [Apple Towson union files labor complaint against Apple over withholding benefits](https://appleinsider.com/articles/22/11/02/apple-towson-union-files-labor-complaint-against-apple-over-withholding-benefits?utm_medium=rss)<!-- TECH:END -->
+ - [NFT startup Dapper Labs, the company behind CryptoKitties, confirms it laid off ~134 employees or 22% of its workforce; Dapper Labs raised $600M to date &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/221102/p40#a221102p40)
+ - [Secretlab Skins let you customize your gaming chair](https://www.theverge.com/2022/11/2/23424498/secretlab-skins-gaming-chair-titan-evo-2022)
+ - [Apple’s own 5G modems might come to iPhones later than expected](https://www.theverge.com/2022/11/2/23437586/apple-iphone-5g-modems-later-expected-2023-qualcomm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
