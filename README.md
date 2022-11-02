@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms next iOS 16 beta will bring 5G to India](https://appleinsider.com/articles/22/11/02/apple-confirms-next-ios-16-beta-will-bring-5g-to-india?utm_medium=rss)
- - [B&amp;H&#39;s Holiday Head Start Sale knocks up to 46% off Macs, iPads, HomePod mini, photo gear](https://appleinsider.com/articles/22/11/02/bhs-holiday-head-start-sale-knocks-up-to-46-off-macs-ipads-homepod-mini-photo-gear?utm_medium=rss)
- - [Snap partners with Amazon to let users try on eyewear in AR through dozens of new Shopping Lenses &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221102/p27#a221102p27)<!-- TECH:END -->
+ - [How &lpar;and why&rpar; to watch the Overwatch League grand finals](https://www.theverge.com/2022/11/2/23437002/overwatch-league-grand-finals-how-to-watch-youtube)
+ - [Substack CEO says it&#39;s time for a &quot;real alternative&quot; to Twitter, and Substack plans features to let writers and readers &quot;hang out&quot;, show their status, and more &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221102/p29#a221102p29)
+ - [With new Microsoft Teams update, bosses can ‘assign seats’ in meetings](https://www.theverge.com/2022/11/2/23436951/microsoft-teams-together-mode-assign-seats)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
