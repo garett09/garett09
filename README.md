@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioShock-like Soviet shooter Atomic Heart finally has a real release date](https://www.pcgamer.com/bioshock-like-soviet-shooter-atomic-heart-finally-has-a-real-release-date)
- - [PlayStation VR2 launches February 2023, costs $549.99, Sony confirms](https://www.polygon.com/23436556/playstation-vr2-price-release-date-ps5-psvr2)
- - [New Avatar: The Way of Water trailer is giving off surprisingly strong Titanic vibes](https://www.polygon.com/23344331/avatar-2-trailer-way-of-water-disney)<!-- GAME:END -->
+ - [11 new PS VR2 games announced: The Dark Pictures: Switchback VR, Cities VR – Enhanced Edition, Crossfire: Sierra Squad and more](https://blog.playstation.com/2022/11/02/11-new-ps-vr2-games-announced-the-dark-pictures-switchback-vr-cities-vr-enhanced-edition-crossfire-sierra-squad-and-more/)
+ - [PlayStation VR2 launches in February at $549.99](https://blog.playstation.com/2022/11/02/playstation-vr2-launches-in-february-at-549-99/)
+ - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
