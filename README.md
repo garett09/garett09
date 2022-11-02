@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &lpar;and why&rpar; to watch the Overwatch League grand finals](https://www.theverge.com/2022/11/2/23437002/overwatch-league-grand-finals-how-to-watch-youtube)
- - [Substack CEO says it&#39;s time for a &quot;real alternative&quot; to Twitter, and Substack plans features to let writers and readers &quot;hang out&quot;, show their status, and more &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221102/p29#a221102p29)
- - [With new Microsoft Teams update, bosses can ‘assign seats’ in meetings](https://www.theverge.com/2022/11/2/23436951/microsoft-teams-together-mode-assign-seats)<!-- TECH:END -->
+ - [Google expands its Play Games for PC Beta to the US and other countries](https://www.androidauthority.com/play-games-beta-us-3230367/)
+ - [Online banking startup Chime is laying off 12% of its 1,300-person workforce, citing &quot;current market dynamics&quot;; it had a $25B valuation in August 2021 &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/221102/p30#a221102p30)
+ - [Why Elon Musk is so desperate for Twitter to make money](https://www.theverge.com/2022/11/2/23437120/elon-musk-twitter-product-subscription-verification-revenue-debt-finance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
