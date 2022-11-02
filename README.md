@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men and women are different](http://9gag.com/gag/az2A7dj)
- - 🚯 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
- - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
+ - 🚖 [This was a long time coming](http://9gag.com/gag/aL12yeW)
+ - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - 🚯 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
 
 --- 
 
