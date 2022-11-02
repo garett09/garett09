@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
- - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)
- - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
+ - 🚖 [Men and women are different](http://9gag.com/gag/az2A7dj)
+ - 🚯 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
 
 --- 
 
