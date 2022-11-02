@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Their commitment is frightening](http://9gag.com/gag/aPgWv5G)
- - 🚯 [VCR](http://9gag.com/gag/a2KmQdY)
- - 🚯 [Wait a minute...](http://9gag.com/gag/a5X7L3E)<!-- MEMES:END -->
+ - 🚖 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
+ - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
 
 --- 
 
