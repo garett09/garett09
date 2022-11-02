@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 iPad Pro review: World&#39;s best tablet gets M2 power boost - but not much else](https://appleinsider.com/articles/22/11/02/2022-ipad-pro-review-m2-computing-heft----but-not-much-else?utm_medium=rss)
- - [Arlo introduces Home Security System and Pro 5S Security Camera](https://appleinsider.com/articles/22/11/02/arlo-introduces-home-security-system-and-pro-5s-security-camera?utm_medium=rss)
- - [The Unintended Consequences of Apple’s Fertility Tech](https://www.wired.com/story/apple-watch-fertility-features-not-birth-control/)<!-- TECH:END -->
+ - [The DJI Mavic 3 Classic is the drone we wanted last year](https://www.androidauthority.com/dji-mavic-3-classic-price-specs-availability-3230046/)
+ - [Level Lock+ HomeKit smart lock can be picked open in seconds](https://appleinsider.com/articles/22/11/02/level-lock-homekit-smart-lock-can-be-picked-open-in-seconds?utm_medium=rss)
+ - [Apple spotlights developers revealing how they started](https://appleinsider.com/articles/22/11/02/apple-spotlights-developers-revealing-how-they-started?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
