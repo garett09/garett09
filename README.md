@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - 🚯 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
- - 🚯 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)<!-- MEMES:END -->
+ - 🚖 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
+ - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)
+ - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
 
 --- 
 
