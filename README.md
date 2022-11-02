@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finance tracker Mint finally gains Apple Card support](https://appleinsider.com/articles/22/11/02/finance-tracker-mint-finally-gains-apple-card-support?utm_medium=rss)
- - [Google’s building package tracking right into your Gmail inbox](https://www.theverge.com/2022/11/2/23437282/google-gmail-package-tracking-features)
- - [Malwarebytes: four malicious Android apps from developer Mobile apps Group, which has deployed malware before, remain on Google Play with millions of downloads &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/221102/p34#a221102p34)<!-- TECH:END -->
+ - [Robinhood reports Q3 revenue down 1% YoY to $361M, vs. $357.8M est., net loss down 87% YoY to $175M, and MAUs down 1.8M QoQ to 12.2M in September 2022 &lpar;Annie Massa/Bloomberg&rpar;](http://www.techmeme.com/221102/p38#a221102p38)
+ - [Qualcomm is predicting a ‘double-digit’ drop in phone sales](https://www.theverge.com/2022/11/2/23437443/qualcomm-phone-sales-earnings-decline)
+ - [Apple Towson union files labor complaint against Apple over withholding benefits](https://appleinsider.com/articles/22/11/02/apple-towson-union-files-labor-complaint-against-apple-over-withholding-benefits?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
