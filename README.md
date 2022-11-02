@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black on black](http://9gag.com/gag/adPXp9N)
+ - 🚖 [I need to stop this, you guys broke me](http://9gag.com/gag/aBd11WO)
  - 🚯 [`Oh how cute. Can I pet him?`](http://9gag.com/gag/a8q44rV)
- - 🚯 [I need to stop this, you guys broke me](http://9gag.com/gag/aBd11WO)<!-- MEMES:END -->
+ - 🚯 [2, 3, 4, 0](http://9gag.com/gag/az2ArjK)<!-- MEMES:END -->
 
 --- 
 
