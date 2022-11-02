@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 🚯 [True love](http://9gag.com/gag/a7qdyYx)
- - 🚯 [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)<!-- MEMES:END -->
+ - 🚖 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - 🚯 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
+ - 🚯 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)<!-- MEMES:END -->
 
 --- 
 
