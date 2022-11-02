@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
- - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 🚯 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
+ - 🚖 [Black on black](http://9gag.com/gag/adPXp9N)
+ - 🚯 [`Oh how cute. Can I pet him?`](http://9gag.com/gag/a8q44rV)
+ - 🚯 [I need to stop this, you guys broke me](http://9gag.com/gag/aBd11WO)<!-- MEMES:END -->
 
 --- 
 
