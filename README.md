@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
- - 🚯 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
- - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
+ - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - 🚯 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
 
 --- 
 
