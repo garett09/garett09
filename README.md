@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
- - 🚯 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
- - 🚯 [True love](http://9gag.com/gag/a7qdyYx)<!-- MEMES:END -->
+ - 🚖 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - 🚯 [True love](http://9gag.com/gag/a7qdyYx)
+ - 🚯 [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)<!-- MEMES:END -->
 
 --- 
 
