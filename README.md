@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🐦 Twitter puts a price on vanity](https://www.androidauthority.com/daily-authority-november-2-2022-3230053/)
- - [Samsung wants an S Pen slot on its future foldables](https://www.androidauthority.com/samsung-s-pen-slot-future-foldables-3230068/)
- - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plot, a Torturous Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plot-a-torturous-sound-and-a-stalker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says Twitter will not reinstate banned accounts &quot;until we have a clear process for doing so, which will take at least a few more weeks&quot; &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/221102/p7#a221102p7)
+ - [An engineer reimplemented Google AI&#39;s text-to-image diffusion model DreamBooth for Stable Diffusion, letting anyone cheaply and easily recreate artists&#39; styles &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/221102/p6#a221102p6)
+ - [Daily Authority: 🐦 Twitter puts a price on vanity](https://www.androidauthority.com/daily-authority-november-2-2022-3230053/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
