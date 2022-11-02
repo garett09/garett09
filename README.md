@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Google is discontinuing support for the standalone Street View app and pulling it from app stores](https://www.theverge.com/2022/11/1/23435733/google-maps-street-view-standalone-app-discontinue-support)
- - [Rolex Deepsea Challenge 2022: the Deepest Diver You Can Buy](https://www.wired.com/story/rolex-oyster-perpetual-deepsea-challenge-2022/)<!-- TECH:END -->
+ - [Russia&#39;s RT, banned by major platforms in March 2022, has found an audience on Thiel-backed Rumble, often pushing Russian propaganda about the Ukraine invasion &lpar;Danny Hakim/New York Times&rpar;](http://www.techmeme.com/221101/p34#a221101p34)
+ - [Google’s putting its Lens image search right on its home page](https://www.theverge.com/2022/11/1/23435872/google-lens-image-search-home-page)
+ - [&#39;Andor&#39; Episode 8 Explained: &#39;Rogue One&#39; Cameos and a Dystopian Star Wars Hell Prison     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-8-explained-rogue-one-cameos-and-a-dystopian-star-wars-prison/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
