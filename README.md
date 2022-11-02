@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ages like a fine wine](http://9gag.com/gag/aGEDRN5)
- - 🚯 [I don\u2019t need the drama at work\u2026](http://9gag.com/gag/amAzLzo)
- - 🚯 [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)<!-- MEMES:END -->
+ - 🚖 [Their commitment is frightening](http://9gag.com/gag/aPgWv5G)
+ - 🚯 [VCR](http://9gag.com/gag/a2KmQdY)
+ - 🚯 [Wait a minute...](http://9gag.com/gag/a5X7L3E)<!-- MEMES:END -->
 
 --- 
 
