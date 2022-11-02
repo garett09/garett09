@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV 4K review roundup: lower cost and future-proofed](https://appleinsider.com/articles/22/11/02/apple-tv-4k-review-roundup-lower-cost-and-future-proofed?utm_medium=rss)
- - [The PSVR 2 finally gets a price and release date](https://www.androidauthority.com/psvr-2-price-release-date-3230258/)
- - [Tharsis Labs, which develops the Evmos cross-blockchain tool to connect Ethereum and Cosmos, raised $27M via a token sale led by Polychain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221102/p25#a221102p25)<!-- TECH:END -->
+ - [Apple confirms next iOS 16 beta will bring 5G to India](https://appleinsider.com/articles/22/11/02/apple-confirms-next-ios-16-beta-will-bring-5g-to-india?utm_medium=rss)
+ - [B&amp;H&#39;s Holiday Head Start Sale knocks up to 46% off Macs, iPads, HomePod mini, photo gear](https://appleinsider.com/articles/22/11/02/bhs-holiday-head-start-sale-knocks-up-to-46-off-macs-ipads-homepod-mini-photo-gear?utm_medium=rss)
+ - [Snap partners with Amazon to let users try on eyewear in AR through dozens of new Shopping Lenses &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221102/p27#a221102p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
