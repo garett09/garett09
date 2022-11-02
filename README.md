@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
- - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
+ - 🚖 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
+ - 🚯 [Only true veterans know what&#39;s gonna happen to the remote on the bed](http://9gag.com/gag/ay28LOM)
+ - 🚯 [The Shinnin!](http://9gag.com/gag/abvZq8p)<!-- MEMES:END -->
 
 --- 
 
