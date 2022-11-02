@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need to stop this, you guys broke me](http://9gag.com/gag/aBd11WO)
- - 🚯 [`Oh how cute. Can I pet him?`](http://9gag.com/gag/a8q44rV)
- - 🚯 [2, 3, 4, 0](http://9gag.com/gag/az2ArjK)<!-- MEMES:END -->
+ - 🚖 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
+ - 🚯 [Get rotated](http://9gag.com/gag/a8q4bRY)
+ - 🚯 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)<!-- MEMES:END -->
 
 --- 
 
