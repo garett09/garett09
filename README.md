@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Versa 4 review: Back to basics](https://www.androidauthority.com/fitbit-versa-4-review-3223693/)
- - [How to charge your first generation Apple Pencil](https://appleinsider.com/inside/apple-pencil/tips/different-ways-to-charge-your-apple-pencil-first-generation?utm_medium=rss)
- - [Google expands Google Play Games beta for PC to the US, Canada, Mexico, Brazil, Indonesia, the Philippines, Malaysia, and Singapore, offering 85 Android games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221102/p31#a221102p31)<!-- TECH:END -->
+ - [Finance tracker Mint finally gains Apple Card support](https://appleinsider.com/articles/22/11/02/finance-tracker-mint-finally-gains-apple-card-support?utm_medium=rss)
+ - [Google’s building package tracking right into your Gmail inbox](https://www.theverge.com/2022/11/2/23437282/google-gmail-package-tracking-features)
+ - [Malwarebytes: four malicious Android apps from developer Mobile apps Group, which has deployed malware before, remain on Google Play with millions of downloads &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/221102/p34#a221102p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
