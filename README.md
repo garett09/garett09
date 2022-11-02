@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Medieval Horror Game Looks Completely Disgusting &lpar;In A Great Way&rpar;](https://kotaku.com/steam-horror-blight-survival-gameplay-trailer-medieval-1849734767)
- - [The numbers are in: Don&#39;t put too many attachments on your Modern Warfare 2 guns](https://www.pcgamer.com/the-numbers-are-in-dont-put-too-many-attachments-on-your-modern-warfare-2-guns)
- - [Can you really earn Overwatch 2 skins faster by playing World of Warcraft instead?](https://www.polygon.com/23434652/overwatch-2-skins-coins-world-of-warcraft-gold-tokens)<!-- GAME:END -->
+ - [9 Things We Just Learned About Xbox, Game Pass And Microsoft’s Gaming Future](https://kotaku.com/xbox-game-pass-pc-microsoft-series-x-s-apple-app-store-1849735205)
+ - [The Emperor does not matter](https://www.polygon.com/23437550/star-wars-andor-emperor-empire-who-needs-em)
+ - [This exotic dice box is really just a Trapper Keeper for all your D&amp;D stuff](https://www.polygon.com/tabletop-games/23437475/dnd-trapper-keeper-elderwood-dungeon-journal-kickstarter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
