@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was a long time coming](http://9gag.com/gag/aL12yeW)
- - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 🚯 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
+ - 🚖 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
+ - 🚯 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
+ - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
 
 --- 
 
