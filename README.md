@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing Xbox FanFest Trivia 2022](https://news.xbox.com/en-us/2022/11/02/announcing-xbox-fan-fest-trivia-2022/)
- - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)
- - [Lore and Legend behind The Lost City of Radlantis and Gail Force](https://news.xbox.com/en-us/2022/11/02/lore-and-legend-behind-the-lost-city-of-radlantis-and-gail-force/)<!-- GAME:END -->
+ - [The numbers are in: Don&#39;t put too many attachments on your Modern Warfare 2 guns](https://www.pcgamer.com/the-numbers-are-in-dont-put-too-many-attachments-on-your-modern-warfare-2-guns)
+ - [Can you really earn Overwatch 2 skins faster by playing World of Warcraft instead?](https://www.polygon.com/23434652/overwatch-2-skins-coins-world-of-warcraft-gold-tokens)
+ - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
