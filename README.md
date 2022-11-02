@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based TouchBistro, which offers payments tools for restaurants globally, raised CA$150M led by Francisco Partners, bringing its funding to ~CA$433M &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221102/p11#a221102p11)
- - [Google Assistant Gets Parental Controls, New Voices, and a Kids’ Dictionary](https://www.wired.com/story/google-assistant-parental-controls-kid-friendly-features/)
- - [Netflix begins rolling out its Basic with Ads tier; sources say licensing negotiations with Disney, Comcast, Sony, Warner Bros., and Lions Gate are ongoing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221102/p10#a221102p10)<!-- TECH:END -->
+ - [Here are the best ad-supported streaming plans for people on a budget](https://www.androidauthority.com/ad-supported-streaming-plans-3226097/)
+ - [Google plans to roll out parental controls for Assistant, including disabling features, restricting services, and setting downtimes hours, in the &quot;coming weeks&quot; &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/221102/p13#a221102p13)
+ - [Adobe Just Held a Bunch of Pantone Colors Hostage](https://www.wired.com/story/adobe-pantone-color-subscription-fee/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
