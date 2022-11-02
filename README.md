@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Medieval Horror Game Looks Completely Disgusting &lpar;In A Great Way&rpar;](https://kotaku.com/steam-horror-blight-survival-gameplay-trailer-medieval-1849734767)
  - [The numbers are in: Don&#39;t put too many attachments on your Modern Warfare 2 guns](https://www.pcgamer.com/the-numbers-are-in-dont-put-too-many-attachments-on-your-modern-warfare-2-guns)
- - [Can you really earn Overwatch 2 skins faster by playing World of Warcraft instead?](https://www.polygon.com/23434652/overwatch-2-skins-coins-world-of-warcraft-gold-tokens)
- - [The best TV shows of 2022, so far](https://www.polygon.com/22927514/best-shows-2022-tv)<!-- GAME:END -->
+ - [Can you really earn Overwatch 2 skins faster by playing World of Warcraft instead?](https://www.polygon.com/23434652/overwatch-2-skins-coins-world-of-warcraft-gold-tokens)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
