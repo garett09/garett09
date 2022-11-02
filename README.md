@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 new PS VR2 games announced: The Dark Pictures: Switchback VR, Cities VR – Enhanced Edition, Crossfire: Sierra Squad and more](https://blog.playstation.com/2022/11/02/11-new-ps-vr2-games-announced-the-dark-pictures-switchback-vr-cities-vr-enhanced-edition-crossfire-sierra-squad-and-more/)
- - [PlayStation VR2 launches in February at $549.99](https://blog.playstation.com/2022/11/02/playstation-vr2-launches-in-february-at-549-99/)
- - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)<!-- GAME:END -->
+ - [The Anti-Fan Game: PlayStation Developer Defies 4chan Harassment Troll Project](https://kotaku.com/goodbye-volcano-high-ko_op-snoot-game-4chan-ps4-ps5-1849731598)
+ - [Halo Infinite&#39;s Unpopular Match XP System Is Getting Overhauled](https://kotaku.com/halo-infinite-343-match-xp-winter-update-1849732823)
+ - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
