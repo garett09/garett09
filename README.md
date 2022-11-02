@@ -131,9 +131,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Video Game Studio Goes Through Expensive Rebrand, Is Then Immediately Shut Down](https://kotaku.com/embracer-group-shut-down-studio-onoma-deus-ex-1849730108)
- - [A new Deus Ex is reported to be in &#39;very early&#39; development at Eidos Montreal](https://www.pcgamer.com/a-new-deus-ex-is-reported-to-be-in-very-early-development-at-eidos-montreal)
- - [Call of Duty player shows up at Activision studio to complain about Modern Warfare 2 ban](https://www.pcgamer.com/call-of-duty-player-shows-up-at-activision-studio-to-complain-about-modern-warfare-2-ban)<!-- GAME:END -->
+ - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
+ - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
