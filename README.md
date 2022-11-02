@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
- - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 🚯 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)<!-- MEMES:END -->
+ - 🚖 [What is music today](http://9gag.com/gag/aL19PXg)
+ - 🚯 [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
+ - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
 
 --- 
 
