@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arizona-based Qwick, an on-demand staffing service that matches gig workers with hospitality jobs, raised a $40M Series B, bringing its total funding to $69.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221102/p4#a221102p4)
  - [Internal email: Twitter appears to be rushing out a &quot;high&quot;-risk &quot;Paywalled Video&quot; feature, letting users charge to view their videos, with Twitter taking a cut &lpar;Washington Post&rpar;](http://www.techmeme.com/221102/p3#a221102p3)
- - [SpaceX Giant Falcon Heavy Rocket Launches for First Time in Three Years     - CNET](https://www.cnet.com/science/space/spacex-giant-falcon-heavy-rocket-launches-for-first-time-in-three-years/#ftag=CAD590a51e)
- - [Google Welcomes Day of the Dead With Sugar Skulls Doodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-day-of-the-dead-with-sugar-skulls-doodle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX Giant Falcon Heavy Rocket Launches for First Time in Three Years     - CNET](https://www.cnet.com/science/space/spacex-giant-falcon-heavy-rocket-launches-for-first-time-in-three-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
