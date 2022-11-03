@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Husband buries wife alive, smashes Apple Watch to stop her calling for help](https://appleinsider.com/articles/22/11/03/husband-buries-wife-alive-smashes-apple-watch-to-stop-her-calling-for-help?utm_medium=rss)
- - [For some, Amazon Music’s big Prime expansion comes with big frustrations](https://www.theverge.com/2022/11/3/23436887/amazon-music-prime-changes-shuffle-angry-customers)
- - [Oro Labs, which offers cloud-based tools to help streamline enterprise procurement, raised a $25M Series A led by Norwest Venture Partners and B Capital &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221103/p17#a221103p17)<!-- TECH:END -->
+ - [We’re getting our first look at Matter devices today, and here’s what’s coming next](https://www.theverge.com/2022/11/3/23438304/matter-launch-event-smart-home-amsterdam-announcements)
+ - [Amazon announces a phased rollout of Matter to its Alexa smart home platform](https://www.theverge.com/2022/11/3/23438286/amazon-matter-support-alexa-echo-smart-home-platform)
+ - [Husband buries wife alive, smashes Apple Watch to stop her calling for help](https://appleinsider.com/articles/22/11/03/husband-buries-wife-alive-smashes-apple-watch-to-stop-her-calling-for-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
