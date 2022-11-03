@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is title.](http://9gag.com/gag/aGED1wG)
- - 🚯 [Wow](http://9gag.com/gag/a8q4pQQ)
- - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in parallel universe](http://9gag.com/gag/a9qYKqW)
+ - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)
+ - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
 
 --- 
 
