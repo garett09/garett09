@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
- - 🚯 [Buffalo gives you wings](http://9gag.com/gag/aA0PxN2)
- - 🚯 [We just want realistic characters](http://9gag.com/gag/aPgWBnq)<!-- MEMES:END -->
+ - 🚖 [This is title.](http://9gag.com/gag/aGED1wG)
+ - 🚯 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
 
 --- 
 
