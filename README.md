@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU plans light-touch rules for Airbnb and other rental companies, including providing data on usership, in a bid to unify laws across the bloc &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/221103/p14#a221103p14)
- - [Man steals three Macs in armed robbery of Clarendon Apple Store](https://appleinsider.com/articles/22/11/03/man-steals-three-macs-in-armed-robbery-of-clarendon-apple-store?utm_medium=rss)
- - [Fintech in Latin America and Africa Is Breaking the Mold](https://www.wired.com/story/fintech-latin-america-banking-opportunities/)<!-- TECH:END -->
+ - [Husband buries wife alive, smashes Apple Watch to stop her calling for help](https://appleinsider.com/articles/22/11/03/husband-buries-wife-alive-smashes-apple-watch-to-stop-her-calling-for-help?utm_medium=rss)
+ - [For some, Amazon Music’s big Prime expansion comes with big frustrations](https://www.theverge.com/2022/11/3/23436887/amazon-music-prime-changes-shuffle-angry-customers)
+ - [Oro Labs, which offers cloud-based tools to help streamline enterprise procurement, raised a $25M Series A led by Norwest Venture Partners and B Capital &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221103/p17#a221103p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
