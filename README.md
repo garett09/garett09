@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Twitter&#39;s Bluesky &quot;federated social network&quot; project under Elon Musk; CEO Jay Graber recently tweeted that she is &quot;very glad we&#39;re independent&quot; &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/221103/p6#a221103p6)
- - [Daily Authority: 🎮 PSVR 2 price shock](https://www.androidauthority.com/daily-authority-november-3-2022-3230056/)
- - [TikTok plans to update its privacy policy on December 2 to confirm that its staff outside of Europe, including in China, can access the data of European users &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221103/p5#a221103p5)<!-- TECH:END -->
+ - [Patreon’s long-awaited video hosting feature is finally rolling out to creators](https://www.theverge.com/2022/11/3/23434877/patreon-video-hosting-product-launch-vimeo-youtube)
+ - [Meta AI researchers unveil Encodec, a neural network trained to compress audio at a ~10x rate compared with the MP3 format at 64Kbps, without a loss in quality &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221103/p9#a221103p9)
+ - [Preqin: Chinese VC deals fell 44% YoY in October to $62.1B, of which $7.9B went to semiconductor companies, up from $6.3B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221103/p8#a221103p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
