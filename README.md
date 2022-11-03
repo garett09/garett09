@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
- - 🚯 [Megan drinking Apple Juice](http://9gag.com/gag/a7qdWXr)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
+ - 🚖 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 --- 
 
