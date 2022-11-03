@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So this is in split Croatia. I know we &lpar;Croatia&rpar; don&#39;t have bad boy like this one. So who&#39;s is it](http://9gag.com/gag/aGED95Z)
- - 🚯 [Very first lady jumbs out this cliff and what does she say?](http://9gag.com/gag/ajVDr40)
- - 🚯 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)<!-- MEMES:END -->
+ - 🚖 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
+ - 🚯 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
+ - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
 
 --- 
 
