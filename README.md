@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
- - 🚯 [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
+ - 🚖 [So this is in split Croatia. I know we &lpar;Croatia&rpar; don&#39;t have bad boy like this one. So who&#39;s is it](http://9gag.com/gag/aGED95Z)
+ - 🚯 [Very first lady jumbs out this cliff and what does she say?](http://9gag.com/gag/ajVDr40)
  - 🚯 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)<!-- MEMES:END -->
 
 --- 
