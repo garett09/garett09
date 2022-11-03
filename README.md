@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is letting select Instagram US creators test a toolkit for minting NFTs and selling them on and off the platform, and says it won&#39;t charge fees until 2024 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/221102/p42#a221102p42)
- - [Qualcomm will provide 5G modems for 2023 iPhone line](https://appleinsider.com/articles/22/11/02/qualcomm-will-provide-5g-modems-for-2023-iphone-line?utm_medium=rss)
- - [Qualcomm expects to provide modem chips for the &quot;vast majority&quot; of iPhones in 2023, retaining its current foothold after previously planning to supply ~20% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221102/p41#a221102p41)<!-- TECH:END -->
+ - [Sources: Twitter aims to charge for verification as soon as November 7, with a grace period for current verified users, and give all users edit button access &lpar;Bloomberg&rpar;](http://www.techmeme.com/221102/p45#a221102p45)
+ - [Sources: Elon Musk plans to cut ~3,700 jobs at Twitter, half of the company&#39;s workforce, starting November 4, and reverse its existing work-from-anywhere policy &lpar;Bloomberg&rpar;](http://www.techmeme.com/221102/p44#a221102p44)
+ - [New implant allows users to control iPhone &amp; iPad with brain](https://appleinsider.com/articles/22/11/02/new-implant-will-allow-users-to-control-iphone-ipad-with-brain?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
