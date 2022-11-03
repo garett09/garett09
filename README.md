@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is title.](http://9gag.com/gag/aGED1wG)
- - 🚯 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - 🚯 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
+ - 🚖 [He has his priorities straight](http://9gag.com/gag/aXnwELv)
+ - 🚯 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
+ - 🚯 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)<!-- MEMES:END -->
 
 --- 
 
