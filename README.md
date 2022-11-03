@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please Sir, could you stop talking? Thank you.](http://9gag.com/gag/a7qd3nm)
- - 🚯 [See comments](http://9gag.com/gag/avQnOKE)
- - 🚯 [Only true veterans know what&#39;s gonna happen to the remote on the bed](http://9gag.com/gag/ay28LOM)<!-- MEMES:END -->
+ - 🚖 [In his garage](http://9gag.com/gag/adPXLKj)
+ - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - 🚯 [See comments](http://9gag.com/gag/avQnOKE)<!-- MEMES:END -->
 
 --- 
 
