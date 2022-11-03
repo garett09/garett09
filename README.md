@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black on black](http://9gag.com/gag/adPXp9N)
- - 🚯 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
- - 🚯 [Check those if you&#39;re bored.](http://9gag.com/gag/aEqn1Go)<!-- MEMES:END -->
+ - 🚖 [This is title.](http://9gag.com/gag/aGED1wG)
+ - 🚯 [The Shinnin!](http://9gag.com/gag/abvZq8p)
+ - 🚯 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)<!-- MEMES:END -->
 
 --- 
 
