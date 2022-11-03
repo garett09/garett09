@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New discovery behind a huge painting - Church of Saint George \u2018Maggiore\u2019 in Naples, Italy](http://9gag.com/gag/agoGY0x)
- - 🚯 [Ancient Romans entering a new country be like:](http://9gag.com/gag/a8q4ymO)
- - 🚯 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)<!-- MEMES:END -->
+ - 🚖 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
+ - 🚯 [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
+ - 🚯 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)<!-- MEMES:END -->
 
 --- 
 
