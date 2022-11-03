@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon says 230,000 people joined its decentralized social network in the last week and it now has 655,000 active users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p26#a221103p26)
- - [Philips Hue Bridge is getting updated to Matter early next year](https://www.theverge.com/2022/11/3/23438437/philips-hue-bridge-matter-certified-smart-home-update)
- - [The NYPD has joined Amazon’s Ring Neighbors surveillance network](https://www.theverge.com/2022/11/3/23438762/amazon-ring-neighbors-nypd-partnership-launch)<!-- TECH:END -->
+ - [Apple can&#39;t make enough of the iPhone 14 Pro to meet demand](https://appleinsider.com/articles/22/11/03/apple-cant-make-enough-of-the-iphone-14-pro-to-meet-demand?utm_medium=rss)
+ - [Apple TV drops &#39;Up Next&#39; in new design rolling out to users](https://appleinsider.com/articles/22/11/03/apple-tv-drops-up-next-in-new-design-rolling-out-to-users?utm_medium=rss)
+ - [Up to 40% off Bose audio in the Pre-Black Friday Sale](https://www.androidauthority.com/bose-pre-black-friday-sale-3230875/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
