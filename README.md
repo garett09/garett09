@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True love](http://9gag.com/gag/a7qdyYx)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)
- - 🚯 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
+ - 🚖 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - 🚯 [Megan drinking Apple Juice](http://9gag.com/gag/a7qdWXr)
+ - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
 
 --- 
 
