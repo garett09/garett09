@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ericsson&#39;s Vonage agrees to pay $100M to settle FTC allegations over creating obstacles to canceling internet-based phone services and charging unexpected fees &lpar;Erin Mulvaney/Wall Street Journal&rpar;](http://www.techmeme.com/221103/p24#a221103p24)
- - [Netflix’s new cheaper plan with ads doesn’t work on Apple TV at launch](https://www.theverge.com/2022/11/3/23438754/netflix-basic-ads-plan-not-supported-apple-tv)
- - [Netflix’s $6.99 per month ad tier is now live](https://www.theverge.com/2022/11/3/23437895/netflix-basic-with-ads-subscription-tier-live-purchase)<!-- TECH:END -->
+ - [Mastodon says 230,000 people joined its decentralized social network in the last week and it now has 655,000 active users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p26#a221103p26)
+ - [Philips Hue Bridge is getting updated to Matter early next year](https://www.theverge.com/2022/11/3/23438437/philips-hue-bridge-matter-certified-smart-home-update)
+ - [The NYPD has joined Amazon’s Ring Neighbors surveillance network](https://www.theverge.com/2022/11/3/23438762/amazon-ring-neighbors-nypd-partnership-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
