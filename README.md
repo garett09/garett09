@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon’s long-awaited video hosting feature is finally rolling out to creators](https://www.theverge.com/2022/11/3/23434877/patreon-video-hosting-product-launch-vimeo-youtube)
- - [Meta AI researchers unveil Encodec, a neural network trained to compress audio at a ~10x rate compared with the MP3 format at 64Kbps, without a loss in quality &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221103/p9#a221103p9)
- - [Preqin: Chinese VC deals fell 44% YoY in October to $62.1B, of which $7.9B went to semiconductor companies, up from $6.3B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221103/p8#a221103p8)<!-- TECH:END -->
+ - [The Sci-Fi Dream of a ‘Molecular Computer’ Is Getting More Real](https://www.wired.com/story/the-sci-fi-dream-of-a-molecular-computer-is-getting-more-real/)
+ - [Soccer Fans, You&#39;re Being Watched](https://www.wired.com/story/soccer-world-cup-biometric-surveillance/)
+ - [Algorithms Quietly Run the City of Wasington, DC—and Maybe Your Hometown](https://www.wired.com/story/algorithms-quietly-run-the-city-of-dc-and-maybe-your-hometown/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
