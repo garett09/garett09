@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best E-Ink tablets: Do more than reading!](https://www.androidauthority.com/best-e-ink-tablet-3230616/)
- - [Google details an AI model trained on 400+ languages with the largest &quot;coverage seen in a speech model&quot; and plans to expand to the 1,000 most spoken languages &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221103/p30#a221103p30)
- - [With Netflix’s ads tier, you never know what you’re going to get](https://www.theverge.com/2022/11/3/23438971/netflix-basic-with-ads-what-you-cant-watch-padlock)<!-- TECH:END -->
+ - [Vonage to pay $100 million to settle ‘junk fee’ allegations](https://www.theverge.com/2022/11/3/23439368/vonage-ericsson-dark-patterns-junk-fees-ticketmaster-ftc)
+ - [AirPods Max noise isolation reduction may be related to ongoing court battle](https://appleinsider.com/articles/22/11/03/airpods-max-noise-isolation-reduction-may-be-related-to-ongoing-court-battle?utm_medium=rss)
+ - [The next attempt to launch the Artemis I mission will be at night](https://www.theverge.com/2022/11/3/23439179/artemis-1-night-launch-nasa-sls)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
