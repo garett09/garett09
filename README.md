@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re getting our first look at Matter devices today, and here’s what’s coming next](https://www.theverge.com/2022/11/3/23438304/matter-launch-event-smart-home-amsterdam-announcements)
- - [Amazon announces a phased rollout of Matter to its Alexa smart home platform](https://www.theverge.com/2022/11/3/23438286/amazon-matter-support-alexa-echo-smart-home-platform)
- - [Husband buries wife alive, smashes Apple Watch to stop her calling for help](https://appleinsider.com/articles/22/11/03/husband-buries-wife-alive-smashes-apple-watch-to-stop-her-calling-for-help?utm_medium=rss)<!-- TECH:END -->
+ - [OWC releases high-capacity Atlas Pro and Atlas Ultra cards for content creators](https://appleinsider.com/articles/22/11/03/owc-releases-high-capacity-atlas-pro-and-atlas-ultra-cards-for-content-creators?utm_medium=rss)
+ - [Apiiro, which lets developers and application security engineers proactively fix problems, raised a $100M Series B, bringing its total funding to $135M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221103/p21#a221103p21)
+ - [Early Black Friday deal: 2 Microsoft Office for Mac Home &amp; Business 2021 licenses $59.99, lowest price ever](https://appleinsider.com/articles/22/11/03/early-black-friday-deal-2-microsoft-office-for-mac-home-business-2021-licenses-5999-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
