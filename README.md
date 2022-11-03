@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)
- - [Meta rolls out updates to Stars on Facebook, including testing automatic onboarding for creators and bringing Stars Party to Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221102/p48#a221102p48)
- - [How to avoid rashes and skin irritation when wearing your Apple Watch](https://www.androidauthority.com/how-to-avoid-apple-watch-rash-3230433/)<!-- TECH:END -->
+ - [Facebook expands its Professional Mode, giving all creators globally a chance to earn money with various tools, including Reels Play bonuses and subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221102/p51#a221102p51)
+ - [Experts say the vast majority of independent Uyghur-run websites have ceased to exist after Beijing&#39;s crackdown in the Muslim-majority Xinjiang region &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221102/p50#a221102p50)
+ - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
