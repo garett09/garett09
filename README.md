@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Has classical music gone too far](http://9gag.com/gag/abvZz8r)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)
- - 🚯 [When you forgot put any point on intelligance in character creator](http://9gag.com/gag/a2K54b1)<!-- MEMES:END -->
+ - 🚖 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
+ - 🚯 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
+ - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
 
 --- 
 
