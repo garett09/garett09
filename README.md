@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whenever US politicians talk about regulating websites or changing Section 230, they are almost always talking about imperiling the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221103/p1#a221103p1)
- - [Living With a Blanket Hog? Here&#39;s Why You Should Sleep With 2 Comforters     - CNET](https://www.cnet.com/health/sleep/heres-why-you-should-sleep-with-two-comforters/#ftag=CAD590a51e)
- - [Cricket&#39;s New App Lets Unlocked iPhone Users Trial AT&amp;T&#39;s Network For Two Weeks     - CNET](https://www.cnet.com/tech/mobile/crickets-new-app-lets-unlocked-iphone-users-trial-at-ts-network-for-two-weeks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s 2022 flagships are now getting Android 13](https://www.androidauthority.com/sony-xperia-1-iv-xperia-5-iv-android-13-3230651/)
+ - [In the coming weeks, a new Gmail feature will show live package tracking updates for order confirmation emails as a label under the sender&#39;s name in the inbox &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p2#a221103p2)
+ - [Whenever US politicians talk about changing Section 230 or regulating Big Tech and websites, they are almost always talking about imperiling the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221103/p1#a221103p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
