@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk and his advisers have discussed adding paid DMs to Twitter, which would let users send private messages to Very Important Tweeters or VITs &lpar;New York Times&rpar;](http://www.techmeme.com/221103/p35#a221103p35)
- - [Coinbase Q3: net revenue down 28% QoQ to $576M, net loss down 50% to $545M, subscription and services revenue up 43%, and monthly transacting users down to 8.5M &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221103/p34#a221103p34)
- - [DoorDash reports Q3 revenue up 33% YoY to $1.7B, orders up 27% YoY to 439M, and net loss up 193% YoY to $296M; the stock jumps 15%+ on strong Q4 guidance &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/221103/p33#a221103p33)<!-- TECH:END -->
+ - [Twilio reports Q3 revenue up 33% YoY to $983M, vs. $972.2M est., 280K+ active customer accounts, and Q4 revenue guidance below estimates; the stock drops 15%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221103/p38#a221103p38)
+ - [PayPal reports Q3 revenue up 12% YoY to $6.85B, vs. $6.81B est., and payments volume up 14% YoY to $337B, vs. $343.2B est.; stock drops 8%+ on lower FY forecast &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/221103/p37#a221103p37)
+ - [PayPal to add Tap to Pay on iPhone, Apple Pay, and Wallet support](https://appleinsider.com/articles/22/11/03/paypal-to-add-tap-to-pay-on-iphone-apple-pay-and-wallet-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
