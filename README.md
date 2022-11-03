@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp announces Communities, a group messaging feature for larger, more structured groups of up to 1,024 people, rolling out worldwide in the coming months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p4#a221103p4)
- - [Samsung Galaxy S23 Ultra camera specs emerge and we aren’t surprised](https://www.androidauthority.com/samsung-galaxy-s23-ultra-camera-specs-3230686/)
- - [Aqara’s Matter transition begins in December with free hub update](https://www.theverge.com/2022/11/3/23436897/aqara-matter-dates-update-hub-m3-thread)<!-- TECH:END -->
+ - [A look at Twitter&#39;s Bluesky &quot;federated social network&quot; project under Elon Musk; CEO Jay Graber recently tweeted that she is &quot;very glad we&#39;re independent&quot; &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/221103/p6#a221103p6)
+ - [Daily Authority: 🎮 PSVR 2 price shock](https://www.androidauthority.com/daily-authority-november-3-2022-3230056/)
+ - [TikTok plans to update its privacy policy on December 2 to confirm that its staff outside of Europe, including in China, can access the data of European users &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221103/p5#a221103p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
