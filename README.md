@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [In his garage](http://9gag.com/gag/adPXLKj)
- - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)
- - 🚯 [See comments](http://9gag.com/gag/avQnOKE)<!-- MEMES:END -->
+ - 🚯 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
+ - 🚯 [Buffalo gives you wings](http://9gag.com/gag/aA0PxN2)<!-- MEMES:END -->
 
 --- 
 
