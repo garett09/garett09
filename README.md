@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC releases high-capacity Atlas Pro and Atlas Ultra cards for content creators](https://appleinsider.com/articles/22/11/03/owc-releases-high-capacity-atlas-pro-and-atlas-ultra-cards-for-content-creators?utm_medium=rss)
- - [Apiiro, which lets developers and application security engineers proactively fix problems, raised a $100M Series B, bringing its total funding to $135M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221103/p21#a221103p21)
- - [Early Black Friday deal: 2 Microsoft Office for Mac Home &amp; Business 2021 licenses $59.99, lowest price ever](https://appleinsider.com/articles/22/11/03/early-black-friday-deal-2-microsoft-office-for-mac-home-business-2021-licenses-5999-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Ericsson&#39;s Vonage agrees to pay $100M to settle FTC allegations over creating obstacles to canceling internet-based phone services and charging unexpected fees &lpar;Erin Mulvaney/Wall Street Journal&rpar;](http://www.techmeme.com/221103/p24#a221103p24)
+ - [Netflix’s new cheaper plan with ads doesn’t work on Apple TV at launch](https://www.theverge.com/2022/11/3/23438754/netflix-basic-ads-plan-not-supported-apple-tv)
+ - [Netflix’s $6.99 per month ad tier is now live](https://www.theverge.com/2022/11/3/23437895/netflix-basic-with-ads-subscription-tier-live-purchase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
