@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fela Pure](http://9gag.com/gag/anz1MP5)
- - 🚯 [Its not bait...](http://9gag.com/gag/ajVDD9w)
- - 🚯 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
+ - 🚖 [This is title.](http://9gag.com/gag/aGED1wG)
+ - 🚯 [Wow](http://9gag.com/gag/a8q4pQQ)
+ - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 --- 
 
