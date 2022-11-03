@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
- - 🚯 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
+ - 🚖 [New discovery behind a huge painting - Church of Saint George \u2018Maggiore\u2019 in Naples, Italy](http://9gag.com/gag/agoGY0x)
+ - 🚯 [Ancient Romans entering a new country be like:](http://9gag.com/gag/a8q4ymO)
+ - 🚯 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)<!-- MEMES:END -->
 
 --- 
 
