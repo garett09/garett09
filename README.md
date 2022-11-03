@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In his garage](http://9gag.com/gag/adPXLKj)
- - 🚯 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
- - 🚯 [Buffalo gives you wings](http://9gag.com/gag/aA0PxN2)<!-- MEMES:END -->
+ - 🚖 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - 🚯 [We need more scenes like this](http://9gag.com/gag/axoD1xM)
+ - 🚯 [Ouch my back !](http://9gag.com/gag/aGEDxjG)<!-- MEMES:END -->
 
 --- 
 
