@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile in parallel universe](http://9gag.com/gag/a9qYKqW)
- - 🚯 [Black on black](http://9gag.com/gag/adPXp9N)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
+ - 🚖 [True love](http://9gag.com/gag/a7qdyYx)
+ - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)
+ - 🚯 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
 
 --- 
 
