@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 🚯 [We need more scenes like this](http://9gag.com/gag/axoD1xM)
- - 🚯 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)<!-- MEMES:END -->
+ - 🚖 [Please Sir, could you stop talking? Thank you.](http://9gag.com/gag/a7qd3nm)
+ - 🚯 [See comments](http://9gag.com/gag/avQnOKE)
+ - 🚯 [Only true veterans know what&#39;s gonna happen to the remote on the bed](http://9gag.com/gag/ay28LOM)<!-- MEMES:END -->
 
 --- 
 
