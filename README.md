@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sci-Fi Dream of a ‘Molecular Computer’ Is Getting More Real](https://www.wired.com/story/the-sci-fi-dream-of-a-molecular-computer-is-getting-more-real/)
- - [Soccer Fans, You&#39;re Being Watched](https://www.wired.com/story/soccer-world-cup-biometric-surveillance/)
- - [Algorithms Quietly Run the City of Wasington, DC—and Maybe Your Hometown](https://www.wired.com/story/algorithms-quietly-run-the-city-of-dc-and-maybe-your-hometown/)<!-- TECH:END -->
+ - [Sources: the EU plans light-touch rules for Airbnb and other rental companies, including providing data on usership, in a bid to unify laws across the bloc &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/221103/p14#a221103p14)
+ - [Man steals three Macs in armed robbery of Clarendon Apple Store](https://appleinsider.com/articles/22/11/03/man-steals-three-macs-in-armed-robbery-of-clarendon-apple-store?utm_medium=rss)
+ - [Fintech in Latin America and Africa Is Breaking the Mold](https://www.wired.com/story/fintech-latin-america-banking-opportunities/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
