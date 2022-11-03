@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio reports Q3 revenue up 33% YoY to $983M, vs. $972.2M est., 280K+ active customer accounts, and Q4 revenue guidance below estimates; the stock drops 15%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221103/p38#a221103p38)
- - [PayPal reports Q3 revenue up 12% YoY to $6.85B, vs. $6.81B est., and payments volume up 14% YoY to $337B, vs. $343.2B est.; stock drops 8%+ on lower FY forecast &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/221103/p37#a221103p37)
- - [PayPal to add Tap to Pay on iPhone, Apple Pay, and Wallet support](https://appleinsider.com/articles/22/11/03/paypal-to-add-tap-to-pay-on-iphone-apple-pay-and-wallet-support?utm_medium=rss)<!-- TECH:END -->
+ - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
+ - [PayPal and Venmo will soon support Apple’s Tap to Pay contactless payments tech](https://www.theverge.com/2022/11/3/23439637/paypal-venmo-apple-tap-to-pay-contactless-payments-ios-apps)
+ - [How to use Audio Message Transcription on Google Pixel phones](https://www.androidauthority.com/audio-message-transcription-pixel-3225866/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
