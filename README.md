@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 🚯 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
+ - 🚖 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
+ - 🚯 [In his garage](http://9gag.com/gag/adPXLKj)
+ - 🚯 [Megan drinking Apple Juice](http://9gag.com/gag/a7qdWXr)<!-- MEMES:END -->
 
 --- 
 
