@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 🚯 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - 🚖 [Thanks bro \u2026](http://9gag.com/gag/aNwWY8v)
+ - 🚯 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
  - 🚯 [Better run](http://9gag.com/gag/a8q4o7Z)<!-- MEMES:END -->
 
 --- 
