@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 4: $20 off Apple Watch Ultra, $700 off 65-inch 4K LG TV, 50% off Beats Solo3, more](https://appleinsider.com/articles/22/11/04/daily-deals-nov-4-20-off-apple-watch-ultra-700-off-65-inch-4k-lg-tv-50-off-beats-solo3-more?utm_medium=rss)
- - [A look at the use of biometric surveillance tech in European soccer stadiums; 15,000+ cameras will monitor fans in eight stadiums at the 2022 World Cup in Qatar &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/221104/p8#a221104p8)
- - [The Tiangong Space Station Makes China a Major Space Power](https://www.wired.com/story/china-is-now-a-major-space-power-tiangong-space-station/)<!-- TECH:END -->
+ - [Why COP27 matters for the climate, but maybe not as much as the hype suggests](https://www.theverge.com/2022/11/4/23439416/cop27-united-nations-climate-change-conference-egypt)
+ - [Foxconn to dodge China lockdown, move iPhone production to India](https://appleinsider.com/articles/22/11/04/foxconn-to-dodge-china-lockdown-move-iphone-production-to-india?utm_medium=rss)
+ - [Worms, the Internet, and the End of Reality](https://www.wired.com/story/end-of-reality/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
