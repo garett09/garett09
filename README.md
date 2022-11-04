@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deal: 16-inch MacBook Pro 1TB drops to all-time low price, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/04/early-black-friday-deal-16-inch-macbook-pro-1tb-drops-to-all-time-low-price-plus-80-off-applecare?utm_medium=rss)
- - [Twitter lays off staff including whole ethics team, temporarily closes offices](https://appleinsider.com/articles/22/11/04/twitter-lays-off-staff-including-whole-ethics-team-temporarily-closes-offices?utm_medium=rss)
- - [How to use Continuity Camera on macOS](https://www.theverge.com/23440538/apple-macos-continuity-camera-how-to-use)<!-- TECH:END -->
+ - [The head of Instagram Adam Mosseri talks about balancing the urgency to make Reels work for Meta and not making &quot;any mistakes by pushing too hard or too fast&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221104/p15#a221104p15)
+ - [TikTok not working? Here’s how to fix it](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
+ - [TikTok is back after a brief outage](https://www.theverge.com/2022/11/4/23440882/tiktok-down-outage-no-internet-connection)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
