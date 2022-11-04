@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See comments](http://9gag.com/gag/avQnOKE)
- - 🚯 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
- - 🚯 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
+ - 🚖 [What would you do?](http://9gag.com/gag/amAzBej)
+ - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)
+ - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)<!-- MEMES:END -->
 
 --- 
 
