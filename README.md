@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The head of Instagram Adam Mosseri talks about balancing the urgency to make Reels work for Meta and not making &quot;any mistakes by pushing too hard or too fast&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221104/p15#a221104p15)
- - [TikTok not working? Here’s how to fix it](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
- - [TikTok is back after a brief outage](https://www.theverge.com/2022/11/4/23440882/tiktok-down-outage-no-internet-connection)<!-- TECH:END -->
+ - [Elon Musk’s Twitter layoffs leave whole teams gutted](https://www.theverge.com/2022/11/4/23439790/elon-musk-twitter-layoffs-trust-and-safety-teams-severance)
+ - [Shows to watch it you can’t get enough of The White Lotus on HBO](https://www.androidauthority.com/shows-the-white-lotus-hbo-max-3230881/)
+ - [Best High-End Bluetooth Headphones and Earbuds     - CNET](https://www.cnet.com/tech/mobile/best-high-end-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
