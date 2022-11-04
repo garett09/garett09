@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple paused hiring last month for many jobs outside of R&amp;D, including some corporate functions and hardware and software engineering roles &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221103/p42#a221103p42)
- - [Elon Musk’s Twitter layoffs start Friday](https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4)
- - [In an email to its employees, Twitter says that layoffs across its global workforce will begin on Friday to &quot;place Twitter on a healthy path&quot; &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/221103/p41#a221103p41)<!-- TECH:END -->
+ - [Momento, which offers a &quot;serverless cache&quot; optimized for cloud computing that it claims developers can add with ~5 lines of code, exits stealth with a $15M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221103/p46#a221103p46)
+ - [What&#39;s next for the Matter smart home](https://appleinsider.com/articles/22/11/04/whats-next-for-the-matter-smart-home?utm_medium=rss)
+ - [Atlassian reports Q1 revenue of $807.4M, up 31% YoY, and forecasts lower than expected Q2 revenue; stock is down 20%+, after having fallen 54% already this year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221103/p45#a221103p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
