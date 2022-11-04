@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow](http://9gag.com/gag/a8q4pQQ)
- - 🚯 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
+ - 🚖 [Name the band](http://9gag.com/gag/aME9Ke1)
+ - 🚯 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
  - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 --- 
