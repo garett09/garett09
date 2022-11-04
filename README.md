@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
- - 🚯 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)
- - 🚯 [Wow](http://9gag.com/gag/a8q4pQQ)<!-- MEMES:END -->
+ - 🚖 [No she didn&#39;t](http://9gag.com/gag/a8q47de)
+ - 🚯 [The polish guy gets it](http://9gag.com/gag/a9qYqq1)
+ - 🚯 [Daddy is not Mommy](http://9gag.com/gag/a8q41K6)<!-- MEMES:END -->
 
 --- 
 
