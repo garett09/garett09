@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
- - 🚯 [In his garage](http://9gag.com/gag/adPXLKj)
- - 🚯 [Megan drinking Apple Juice](http://9gag.com/gag/a7qdWXr)<!-- MEMES:END -->
+ - 🚖 [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 🚯 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - 🚯 [Better run](http://9gag.com/gag/a8q4o7Z)<!-- MEMES:END -->
 
 --- 
 
