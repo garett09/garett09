@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Westworld is over](https://www.theverge.com/2022/11/4/23441136/westworld-canceled-hbo-season-four)
- - [A Birdwatch note adding context to Elon Musk&#39;s tweet about Twitter&#39;s revenue drop is gone; Musk called the community notes feature &quot;awesome&quot; earlier this week &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/221104/p18#a221104p18)
- - [Microsoft accuses China-backed nation state hackers of abusing the country&#39;s vulnerability disclosure requirements to discover and develop zero-day exploits &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/221104/p17#a221104p17)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [We finally have an idea of what kind of stuff David Zaslav wants Warner Bros. Discovery to make.](https://www.theverge.com/2022/11/4/23440706/warner-bros-discovery-zaslav-hbo-max-cancellations)
+ - [How to set up and use the Action Button on the Apple Watch Ultra](https://www.androidauthority.com/how-to-set-up-action-button-apple-watch-3231493/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
