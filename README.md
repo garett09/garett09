@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
- - 🚯 [Shoo!](http://9gag.com/gag/a5XrQVg)
- - 🚯 [Monday](http://9gag.com/gag/a1PX7Xw)<!-- MEMES:END -->
+ - 🚖 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
+ - 🚯 [That s true with England](http://9gag.com/gag/agoGmzW)
+ - 🚯 [Italian grandmother when food came out just right.](http://9gag.com/gag/aGEDyyX)<!-- MEMES:END -->
 
 --- 
 
