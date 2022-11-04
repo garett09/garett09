@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird steals a reporter&#39;s AirPod live on air](https://appleinsider.com/articles/22/11/04/bird-steals-a-reporters-airpod-live-on-air?utm_medium=rss)
- - [Lost iPhone retrieved from under bar&#39;s floorboards with MagSafe Duo](https://appleinsider.com/articles/22/11/04/tech-blogger-uses-magsafe-to-fish-out-lost-iphone-from-under-floorboards?utm_medium=rss)
- - [Level responds to lock picking claim, says Level Lock+ exceeds standards](https://appleinsider.com/articles/22/11/04/level-responds-to-lock-picking-claim-says-level-lock-exceeds-standards?utm_medium=rss)<!-- TECH:END -->
+ - [2022 iPad review: Decent upgrade, bad lineup position](https://appleinsider.com/articles/22/11/04/2022-ipad-review-decent-upgrade-bad-lineup-position?utm_medium=rss)
+ - [Asteroid surveys are on the hunt for ‘city killers’](https://www.theverge.com/2022/11/4/23440455/near-earth-objects-potentially-hazardous-search-city-killers)
+ - [New Mexico Is a Great Place for Sci-Fi](https://www.wired.com/2022/11/geeks-guide-snodgrass-lucifers-war/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
