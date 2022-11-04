@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why COP27 matters for the climate, but maybe not as much as the hype suggests](https://www.theverge.com/2022/11/4/23439416/cop27-united-nations-climate-change-conference-egypt)
- - [Foxconn to dodge China lockdown, move iPhone production to India](https://appleinsider.com/articles/22/11/04/foxconn-to-dodge-china-lockdown-move-iphone-production-to-india?utm_medium=rss)
- - [Worms, the Internet, and the End of Reality](https://www.wired.com/story/end-of-reality/)<!-- TECH:END -->
+ - [Dataloop, which offers data annotation and unstructured data management tools, raised a $33M Series B led by Nokia Growth, bringing its total funding to $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221104/p10#a221104p10)
+ - [Apple&#39;s 2022 iPad Pro gets $50 price drop on Amazon in latest early Black Friday deal](https://appleinsider.com/articles/22/11/04/apples-2022-ipad-pro-gets-50-price-drop-on-amazon-in-latest-early-black-friday-deal?utm_medium=rss)
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
