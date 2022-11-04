@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
- - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)
- - 🚯 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)<!-- MEMES:END -->
+ - 🚖 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
+ - 🚯 [Meanwhile in parallel universe](http://9gag.com/gag/a9qYKqW)
+ - 🚯 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
 
 --- 
 
