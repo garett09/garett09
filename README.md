@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Volume up](http://9gag.com/gag/a3Zj4q7)
- - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - 🚖 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)
  - 🚯 [Mountain Lion stalks elk hunter in Idaho. Saved by Glock17 `warning` shots.](http://9gag.com/gag/aVbe7jd)<!-- MEMES:END -->
 
 --- 
