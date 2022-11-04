@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - 🚯 [That s true with England](http://9gag.com/gag/agoGmzW)
- - 🚯 [Italian grandmother when food came out just right.](http://9gag.com/gag/aGEDyyX)<!-- MEMES:END -->
+ - 🚖 [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - 🚯 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)<!-- MEMES:END -->
 
 --- 
 
