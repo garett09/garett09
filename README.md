@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 iPad review: Decent upgrade, bad lineup position](https://appleinsider.com/articles/22/11/04/2022-ipad-review-decent-upgrade-bad-lineup-position?utm_medium=rss)
- - [Asteroid surveys are on the hunt for ‘city killers’](https://www.theverge.com/2022/11/4/23440455/near-earth-objects-potentially-hazardous-search-city-killers)
- - [New Mexico Is a Great Place for Sci-Fi](https://www.wired.com/2022/11/geeks-guide-snodgrass-lucifers-war/)<!-- TECH:END -->
+ - [Early Black Friday deal: 16-inch MacBook Pro 1TB drops to all-time low price, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/04/early-black-friday-deal-16-inch-macbook-pro-1tb-drops-to-all-time-low-price-plus-80-off-applecare?utm_medium=rss)
+ - [Twitter lays off staff including whole ethics team, temporarily closes offices](https://appleinsider.com/articles/22/11/04/twitter-lays-off-staff-including-whole-ethics-team-temporarily-closes-offices?utm_medium=rss)
+ - [How to use Continuity Camera on macOS](https://www.theverge.com/23440538/apple-macos-continuity-camera-how-to-use)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
