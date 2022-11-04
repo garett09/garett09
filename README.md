@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 🚯 [Mountain Lion stalks elk hunter in Idaho. Saved by Glock17 `warning` shots.](http://9gag.com/gag/aVbe7jd)<!-- MEMES:END -->
+ - 🚖 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - 🚯 [No title](http://9gag.com/gag/aqeLnZ7)
+ - 🚯 [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)<!-- MEMES:END -->
 
 --- 
 
