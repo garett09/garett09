@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
- - [PayPal and Venmo will soon support Apple’s Tap to Pay contactless payments tech](https://www.theverge.com/2022/11/3/23439637/paypal-venmo-apple-tap-to-pay-contactless-payments-ios-apps)
- - [How to use Audio Message Transcription on Google Pixel phones](https://www.androidauthority.com/audio-message-transcription-pixel-3225866/)<!-- TECH:END -->
+ - [Sources: Apple paused hiring last month for many jobs outside of R&amp;D, including some corporate functions and hardware and software engineering roles &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221103/p42#a221103p42)
+ - [Elon Musk’s Twitter layoffs start Friday](https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4)
+ - [In an email to its employees, Twitter says that layoffs across its global workforce will begin on Friday to &quot;place Twitter on a healthy path&quot; &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/221103/p41#a221103p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
