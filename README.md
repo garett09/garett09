@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s Twitter layoffs leave whole teams gutted](https://www.theverge.com/2022/11/4/23439790/elon-musk-twitter-layoffs-trust-and-safety-teams-severance)
- - [Shows to watch it you can’t get enough of The White Lotus on HBO](https://www.androidauthority.com/shows-the-white-lotus-hbo-max-3230881/)
- - [Best High-End Bluetooth Headphones and Earbuds     - CNET](https://www.cnet.com/tech/mobile/best-high-end-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok not working? Here’s how to fix it](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
+ - [Watch iFixit’s teardown of the ‘largely unfixable’ Meta Quest Pro](https://www.theverge.com/2022/11/4/23440860/ifixit-meta-quest-pro-teardown-vr-headset-unfixable-repairable)
+ - [How to check the UV index on Wear OS devices](https://www.androidauthority.com/how-to-check-uv-index-wear-os-3226326/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
