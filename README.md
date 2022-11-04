@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dataloop, which offers data annotation and unstructured data management tools, raised a $33M Series B led by Nokia Growth, bringing its total funding to $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221104/p10#a221104p10)
- - [Apple&#39;s 2022 iPad Pro gets $50 price drop on Amazon in latest early Black Friday deal](https://appleinsider.com/articles/22/11/04/apples-2022-ipad-pro-gets-50-price-drop-on-amazon-in-latest-early-black-friday-deal?utm_medium=rss)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
+ - [Bird steals a reporter&#39;s AirPod live on air](https://appleinsider.com/articles/22/11/04/bird-steals-a-reporters-airpod-live-on-air?utm_medium=rss)
+ - [Lost iPhone retrieved from under bar&#39;s floorboards with MagSafe Duo](https://appleinsider.com/articles/22/11/04/tech-blogger-uses-magsafe-to-fish-out-lost-iphone-from-under-floorboards?utm_medium=rss)
+ - [Level responds to lock picking claim, says Level Lock+ exceeds standards](https://appleinsider.com/articles/22/11/04/level-responds-to-lock-picking-claim-says-level-lock-exceeds-standards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
