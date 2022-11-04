@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks bro \u2026](http://9gag.com/gag/aNwWY8v)
- - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 🚯 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
+ - 🚖 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - 🚯 [Lol kanye](http://9gag.com/gag/aQExo7r)
+ - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 --- 
 
