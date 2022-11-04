@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung tells iPhone users its “time to get off the fence” in hilarious new ad](https://www.androidauthority.com/samsung-apple-funny-foldable-commercial-3231181/)
- - [Combined capital spending by Alphabet, Amazon, Apple, Meta, and Microsoft grew 32% in 2021, same as in 2020, to $140B, and 20% in the first nine months of 2022 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221104/p2#a221104p2)
- - [Samsung apparently knows Apple’s first foldable won’t be an iPhone](https://www.androidauthority.com/samsung-vs-apple-foldable-3231174/)<!-- TECH:END -->
+ - [Samsung tells iPhone users it’s “time to get off the fence” in hilarious new ad](https://www.androidauthority.com/samsung-apple-funny-foldable-commercial-3231181/)
+ - [Huawei Is Back With A New Flip Phone That&#39;s Cheaper Than Samsung&#39;s     - CNET](https://www.cnet.com/tech/mobile/huaweis-is-back-with-a-new-flip-phone-thats-cheaper-than-samsungs/#ftag=CAD590a51e)
+ - [Combined capital spending by Alphabet, Amazon, Apple, Meta, and Microsoft grew 32% in 2021, same as in 2020, to $140B, and 20% in the first nine months of 2022 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221104/p2#a221104p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
