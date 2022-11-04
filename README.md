@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name the band](http://9gag.com/gag/aME9Ke1)
- - 🚯 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
+ - 🚖 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
+ - 🚯 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)
+ - 🚯 [Wow](http://9gag.com/gag/a8q4pQQ)<!-- MEMES:END -->
 
 --- 
 
