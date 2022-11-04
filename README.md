@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
- - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)
- - 🚯 [Italian grandmother when food came out just right.](http://9gag.com/gag/aGEDyyX)<!-- MEMES:END -->
+ - 🚯 [Shoo!](http://9gag.com/gag/a5XrQVg)
+ - 🚯 [Monday](http://9gag.com/gag/a1PX7Xw)<!-- MEMES:END -->
 
 --- 
 
