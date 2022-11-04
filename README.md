@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What would you do?](http://9gag.com/gag/amAzBej)
- - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)
- - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)<!-- MEMES:END -->
+ - 🚖 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
+ - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - 🚯 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)<!-- MEMES:END -->
 
 --- 
 
