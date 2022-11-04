@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
- - 🚯 [Lol kanye](http://9gag.com/gag/aQExo7r)
+ - 🚖 [Wow](http://9gag.com/gag/a8q4pQQ)
+ - 🚯 [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
  - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 --- 
