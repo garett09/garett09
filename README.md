@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
- - 🚯 [Meanwhile in parallel universe](http://9gag.com/gag/a9qYKqW)
- - 🚯 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
+ - 🚖 [Thanks bro \u2026](http://9gag.com/gag/aNwWY8v)
+ - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 🚯 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
 
 --- 
 
