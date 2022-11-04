@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it.](http://9gag.com/gag/aWGMgKn)
- - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 🚯 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)<!-- MEMES:END -->
+ - 🚖 [Volume up](http://9gag.com/gag/a3Zj4q7)
+ - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
 
 --- 
 
