@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No she didn&#39;t](http://9gag.com/gag/a8q47de)
- - 🚯 [The polish guy gets it](http://9gag.com/gag/a9qYqq1)
- - 🚯 [Daddy is not Mommy](http://9gag.com/gag/a8q41K6)<!-- MEMES:END -->
+ - 🚖 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)
+ - 🚯 [Italian grandmother when food came out just right.](http://9gag.com/gag/aGEDyyX)<!-- MEMES:END -->
 
 --- 
 
