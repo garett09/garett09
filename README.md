@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks bro \u2026](http://9gag.com/gag/aNwWY8v)
- - 🚯 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
- - 🚯 [Better run](http://9gag.com/gag/a8q4o7Z)<!-- MEMES:END -->
+ - 🚖 [See comments](http://9gag.com/gag/avQnOKE)
+ - 🚯 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - 🚯 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
 
 --- 
 
