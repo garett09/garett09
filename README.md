@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Name the band](http://9gag.com/gag/aME9Ke1)
- - 🚯 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
- - 🚯 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
+ - 🚯 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
+ - 🚯 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
 
 --- 
 
