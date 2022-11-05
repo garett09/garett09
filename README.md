@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey apologizes for Twitter&#39;s fast growth following Musk layoffs](https://appleinsider.com/articles/22/11/05/jack-dorsey-apologizes-for-twitters-fast-growth-following-musk-layoffs?utm_medium=rss)
- - [Sources: 1,300 Starlink units in Ukraine went offline over funding issues, as SpaceX negotiates with US DoD despite Musk&#39;s claims to keep funding the units &lpar;CNN&rpar;](http://www.techmeme.com/221105/p9#a221105p9)
- - [Apple’s reportedly building an advertising network around its Major League Soccer deal](https://www.theverge.com/2022/11/5/23441872/apple-advertisements-mls-major-league-soccer-games-2023)<!-- TECH:END -->
+ - [EZQuest multiport hub review: More USB-C ports please](https://appleinsider.com/articles/22/11/05/ezquest-multiport-hub-review-more-usb-c-ports-please?utm_medium=rss)
+ - [You still really don’t need that Google Pixel 7 30W fast charger](https://www.androidauthority.com/google-pixel-7-charging-30w-3226058/)
+ - [OpenSecrets: the crypto industry gave $73M in the 2022 US midterms, up from $13M in 2020; FTX has become the third-largest source of 2022 campaign contributions &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p10#a221105p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
