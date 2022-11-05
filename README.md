@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Smart Band 7 Pro review: The Mi Band grows up](https://www.androidauthority.com/xiaomi-smart-band-7-pro-review-3229724/)
- - [How to Find Your Twitter Friends on Mastodon](https://www.wired.com/story/how-to-find-twitter-friends-on-mastodon/)
- - [21 Early Black Friday Deals: Electric Scooters, Binoculars, and Camera Bags](https://www.wired.com/story/weekend-deals-november-5-2022/)<!-- TECH:END -->
+ - [A look at the Rust programming language after 12 years, evolving from side project to robust ecosystem, as developers praise its security, ease, and performance &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/221105/p7#a221105p7)
+ - [19 Best Gifts for PC Gamers &lpar;2022&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
+ - [MSR Freelite Backpacking Tent Review: Ultralight and Comfortable](https://www.wired.com/review/msr-freelite-2-person-backpacking-tent/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
