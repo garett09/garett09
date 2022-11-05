@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
- - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 🚯 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)<!-- MEMES:END -->
+ - 🚖 [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 🚯 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
+ - 🚯 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
 
 --- 
 
