@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 🚯 [And its gone](http://9gag.com/gag/axoDbA1)
- - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
+ - 🚖 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
+ - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
 
 --- 
 
