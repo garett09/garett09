@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - 🚯 [11,475.76](http://9gag.com/gag/ajVD7Q1)
- - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)<!-- MEMES:END -->
+ - 🚖 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - 🚯 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
+ - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
 
 --- 
 
