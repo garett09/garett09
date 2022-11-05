@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
- - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
+ - 🚖 [Coz he had an intercourse with his wife](http://9gag.com/gag/aBd1dMP)
+ - 🚯 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
+ - 🚯 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
 
 --- 
 
