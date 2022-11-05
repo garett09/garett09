@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name the band](http://9gag.com/gag/aME9Ke1)
- - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 🚯 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)<!-- MEMES:END -->
+ - 🚖 [Go woke, go broke.](http://9gag.com/gag/aKE3vZZ)
+ - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - 🚯 [Lol kanye](http://9gag.com/gag/aQExo7r)<!-- MEMES:END -->
 
 --- 
 
