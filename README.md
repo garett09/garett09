@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I Switched My Home Internet Back to Spectrum After Using 5G     - CNET](https://www.cnet.com/news/why-i-switched-my-home-internet-back-to-spectrum-after-using-5g/#ftag=CAD590a51e)
- - [Best 2022 Advent Calendars for Kids     - CNET](https://www.cnet.com/health/parenting/best-advent-calendars-for-kids/#ftag=CAD590a51e)
- - [The Amazon Kindle 2022 is worthy of a place in your pocket &lpar;or your carry on&rpar;](https://www.androidauthority.com/amazon-kindle-2022-review-3224628/)<!-- TECH:END -->
+ - [The Pixel Watch is pretty cool, but I would never buy it](https://www.androidauthority.com/google-pixel-watch-opinion-3222468/)
+ - [Sony’s all-around excellent WF-1000XM4 earbuds are on sale for $100 off](https://www.theverge.com/2022/11/5/23441039/sony-wf-1000xm4-earbuds-apple-ipad-pro-m1-m2-segway-scooter-xbox-playstation-gift-card-deal-sale)
+ - [Why I Switched My Home Internet Back to Spectrum After Using 5G     - CNET](https://www.cnet.com/news/why-i-switched-my-home-internet-back-to-spectrum-after-using-5g/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
