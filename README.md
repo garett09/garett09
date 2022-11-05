@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [6 year old boy stranded rescued by Kayaker who found him floating in the middle of nowhere.](http://9gag.com/gag/awZVLND)
- - 🚯 [How angry are you? Yes.](http://9gag.com/gag/a8q40MV)
- - 🚯 [Go woke, go broke.](http://9gag.com/gag/aKE3vZZ)<!-- MEMES:END -->
+ - 🚖 [And its gone](http://9gag.com/gag/axoDbA1)
+ - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 🚯 [Sherrif Threatens Violent Gang Leader](http://9gag.com/gag/aoKpVpA)<!-- MEMES:END -->
 
 --- 
 
