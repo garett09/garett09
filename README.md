@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insurance giant Zurich&#39;s $100M+ settlement to cover losses suffered by Mondelez International from NotPetya may reshape the entire cyber insurance marketplace &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221105/p1#a221105p1)
  - [Current and former Twitter staffers shed light on Musk&#39;s &quot;War Room&quot;, which includes Jason Calacanis and David Sacks, tasked with transforming Twitter&#39;s business &lpar;Financial Times&rpar;](http://www.techmeme.com/221104/p24#a221104p24)
- - [Strava: Everything you need to know about the world’s biggest social fitness app](https://www.androidauthority.com/strava-3226181/)
- - [Fitbit Daily Readiness Score: What is it and why should you use it?](https://www.androidauthority.com/fitbit-daily-readiness-score-3230647/)<!-- TECH:END -->
+ - [Strava: Everything you need to know about the world’s biggest social fitness app](https://www.androidauthority.com/strava-3226181/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
