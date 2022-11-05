@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes MacBook Pro prices by up to $500 in Early Black Friday sale](https://appleinsider.com/articles/22/11/05/amazon-slashes-macbook-pro-prices-by-up-to-500-in-early-black-friday-sale?utm_medium=rss)
- - [Insurance giant Zurich&#39;s $100M+ settlement to cover losses suffered by Mondelez International from NotPetya may reshape the entire cyber insurance marketplace &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221105/p1#a221105p1)
- - [Current and former Twitter staffers shed light on Musk&#39;s &quot;War Room&quot;, which includes Jason Calacanis and David Sacks, tasked with transforming Twitter&#39;s business &lpar;Financial Times&rpar;](http://www.techmeme.com/221104/p24#a221104p24)<!-- TECH:END -->
+ - [El Salvador&#39;s Bitcoin &quot;revolution&quot; is failing miserably and behind the debacle are crypto evangelists from wealthier countries who cheered on President Bukele &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/221105/p5#a221105p5)
+ - [Cairo-based Money Fellows, which digitizes money circles or rotating savings and credit associations, raised a $31M Series B, bringing its total funding to $37M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/221105/p4#a221105p4)
+ - [Elon Musk&#39;s focus on Twitter Blue is part of a trend in which consumer tech platforms pivot from advertising in favor of recurring revenue through subscriptions &lpar;Brian Morrissey/The Rebooting&rpar;](http://www.techmeme.com/221105/p3#a221105p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
