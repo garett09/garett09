@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it.](http://9gag.com/gag/aWGMgKn)
- - 🚯 [Mama Mia](http://9gag.com/gag/adPX5RQ)
- - 🚯 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
+ - 🚖 [His intentions were good](http://9gag.com/gag/a5XrBKL)
+ - 🚯 [No title](http://9gag.com/gag/aqeLnZ7)
+ - 🚯 [And then Jon snow is not even stark](http://9gag.com/gag/a1PXNgY)<!-- MEMES:END -->
 
 --- 
 
