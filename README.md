@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Twitter will soon add the ability to attach long-form text to tweets, followed by creator monetization for all forms of content &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221105/p14#a221105p14)
- - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)
- - [Best Android Phones to Buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW i7 2022 Review: High Life, High-Tech](https://www.wired.com/review/review-bmw-i7-2022/)
+ - [Jack Dorsey takes responsibility for Elon Musk’s mass layoffs at Twitter](https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo)
+ - [Elon Musk says Twitter will soon add the ability to attach long-form text to tweets, followed by creator monetization for all forms of content &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221105/p14#a221105p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
