@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As chess explodes on Twitch, a look at Chess.com&#39;s Global Championship, its first in-person event since 2018, and &quot;fair play&quot; measures amid a cheating scandal &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/221105/p6#a221105p6)
- - [World Series 2022 Livestream: How to Watch Phillies vs. Astros Game 6 Today     - CNET](https://www.cnet.com/tech/services-and-software/world-series-2022-livestream-how-to-watch-phillies-vs-astros-game-6-today/#ftag=CAD590a51e)
- - [8 Great Back-to-School Gifts for Your Teacher     - CNET](https://www.cnet.com/health/teacher-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi Smart Band 7 Pro review: The Mi Band grows up](https://www.androidauthority.com/xiaomi-smart-band-7-pro-review-3229724/)
+ - [How to Find Your Twitter Friends on Mastodon](https://www.wired.com/story/how-to-find-twitter-friends-on-mastodon/)
+ - [21 Early Black Friday Deals: Electric Scooters, Binoculars, and Camera Bags](https://www.wired.com/story/weekend-deals-november-5-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
