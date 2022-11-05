@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name the band](http://9gag.com/gag/aME9Ke1)
- - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 🚯 [Mountain Lion stalks elk hunter in Idaho. Saved by Glock17 `warning` shots.](http://9gag.com/gag/aVbe7jd)<!-- MEMES:END -->
+ - 🚖 [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)
+ - 🚯 [No title](http://9gag.com/gag/aqeLnZ7)<!-- MEMES:END -->
 
 --- 
 
