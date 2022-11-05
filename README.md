@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple settles lawsuit against former employee accused of leaking trade secrets](https://appleinsider.com/articles/22/11/04/apple-settles-lawsuit-against-former-employee-accused-of-leaking-trade-secrets?utm_medium=rss)
- - [The execs behind the MoviePass debacle are now facing criminal charges](https://www.theverge.com/2022/11/4/23441119/moviepass-fraud-criminal-charges-mitch-lowe-hmny)
- - [The DOJ charges two former MoviePass execs in a securities fraud case, claiming they sought to artificially inflate the stock price of MoviePass&#39; parent company &lpar;Jason Guerrasio/Insider&rpar;](http://www.techmeme.com/221104/p20#a221104p20)<!-- TECH:END -->
+ - [Some current Twitter employees created Google Docs listing who they could confirm was still employed, after an internal directory was made inaccessible &lpar;Platformer&rpar;](http://www.techmeme.com/221104/p23#a221104p23)
+ - [Apple has finally approved a MagSafe car mount charger, and it only costs $99.95](https://www.theverge.com/2022/11/4/23441336/belkin-boost-charge-pro-wireless-car-charger-with-magsafe-iphone-accessory)
+ - [Twitter cut 15 percent of its trust and safety staff but says it won’t impact moderation](https://www.theverge.com/2022/11/4/23441404/twitter-trust-safety-staff-layoffs-content-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
