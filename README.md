@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And its gone](http://9gag.com/gag/axoDbA1)
- - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)
- - 🚯 [Sherrif Threatens Violent Gang Leader](http://9gag.com/gag/aoKpVpA)<!-- MEMES:END -->
+ - 🚖 [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 🚯 [Strange at least, considering the carvings in megaliths all over the world of this non human looking guy holding a bag and a pine cone looking thing](http://9gag.com/gag/aPgWobn)<!-- MEMES:END -->
 
 --- 
 
