@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)
- - 🚯 [No title](http://9gag.com/gag/aqeLnZ7)<!-- MEMES:END -->
+ - 🚖 [6 year old boy stranded rescued by Kayaker who found him floating in the middle of nowhere.](http://9gag.com/gag/awZVLND)
+ - 🚯 [How angry are you? Yes.](http://9gag.com/gag/a8q40MV)
+ - 🚯 [Go woke, go broke.](http://9gag.com/gag/aKE3vZZ)<!-- MEMES:END -->
 
 --- 
 
