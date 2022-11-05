@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Rust programming language after 12 years, evolving from side project to robust ecosystem, as developers praise its security, ease, and performance &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/221105/p7#a221105p7)
- - [19 Best Gifts for PC Gamers &lpar;2022&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
- - [MSR Freelite Backpacking Tent Review: Ultralight and Comfortable](https://www.wired.com/review/msr-freelite-2-person-backpacking-tent/)<!-- TECH:END -->
+ - [Why I Switched My Home Internet Back to Spectrum After Using 5G     - CNET](https://www.cnet.com/news/why-i-switched-my-home-internet-back-to-spectrum-after-using-5g/#ftag=CAD590a51e)
+ - [Best 2022 Advent Calendars for Kids     - CNET](https://www.cnet.com/health/parenting/best-advent-calendars-for-kids/#ftag=CAD590a51e)
+ - [The Amazon Kindle 2022 is worthy of a place in your pocket &lpar;or your carry on&rpar;](https://www.androidauthority.com/amazon-kindle-2022-review-3224628/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
