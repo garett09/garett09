@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch is pretty cool, but I would never buy it](https://www.androidauthority.com/google-pixel-watch-opinion-3222468/)
- - [Sony’s all-around excellent WF-1000XM4 earbuds are on sale for $100 off](https://www.theverge.com/2022/11/5/23441039/sony-wf-1000xm4-earbuds-apple-ipad-pro-m1-m2-segway-scooter-xbox-playstation-gift-card-deal-sale)
- - [Why I Switched My Home Internet Back to Spectrum After Using 5G     - CNET](https://www.cnet.com/news/why-i-switched-my-home-internet-back-to-spectrum-after-using-5g/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with telecom reporter Karl Bode about Gigi Sohn&#39;s nomination to the FCC as Comcast and Fox Corp. team up to lobby swing votes in the Senate against her &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221105/p8#a221105p8)
+ - [Best Smart TV for 2022: Top Picks From Roku, Google and More for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv-for-2022/#ftag=CAD590a51e)
+ - [The Pixel Watch is pretty cool, but I would never buy it](https://www.androidauthority.com/google-pixel-watch-opinion-3222468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
