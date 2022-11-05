@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yeelight launches new Matter Cube light, will update others with Matter support](https://appleinsider.com/articles/22/11/05/yeelight-launches-new-matter-cube-light-will-update-others-with-matter-support?utm_medium=rss)
+ - [Twitter for iOS updated with $8 checkmark in-app purchase](https://appleinsider.com/articles/22/11/05/twitter-for-ios-updated-with-8-checkmark-in-app-purchase?utm_medium=rss)
  - [Elon Musk’s $7.99 ‘Twitter Blue with verification’ is launching on iOS](https://www.theverge.com/2022/11/5/23442149/twitter-blue-checkmark-ios-update-elon-musk)
- - [Jack Dorsey apologizes for Twitter&#39;s fast growth, following Musk layoffs](https://appleinsider.com/articles/22/11/05/jack-dorsey-apologizes-for-twitters-fast-growth-following-musk-layoffs?utm_medium=rss)<!-- TECH:END -->
+ - [Yeelight launches new Matter Cube light, will update others with Matter support](https://appleinsider.com/articles/22/11/05/yeelight-launches-new-matter-cube-light-will-update-others-with-matter-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
