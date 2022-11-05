@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 🚯 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
- - 🚯 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
+ - 🚖 [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
+ - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 🚯 [No title](http://9gag.com/gag/aqeLnZ7)<!-- MEMES:END -->
 
 --- 
 
