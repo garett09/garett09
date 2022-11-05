@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it.](http://9gag.com/gag/aWGMgKn)
- - 🚯 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
- - 🚯 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
+ - 🚖 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
+ - 🚯 [11,475.76](http://9gag.com/gag/ajVD7Q1)
+ - 🚯 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)<!-- MEMES:END -->
 
 --- 
 
