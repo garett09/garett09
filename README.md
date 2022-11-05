@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
- - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)
- - 🚯 [No title](http://9gag.com/gag/aqeLnZ7)<!-- MEMES:END -->
+ - 🚖 [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - 🚯 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
+ - 🚯 [Don&#39;t drive on the sidewalk!](http://9gag.com/gag/amAzP8o)<!-- MEMES:END -->
 
 --- 
 
