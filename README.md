@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name the band](http://9gag.com/gag/aME9Ke1)
- - 🚯 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
- - 🚯 [This is crazy](http://9gag.com/gag/a1PXrrD)<!-- MEMES:END -->
+ - 🚖 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - 🚯 [And its gone](http://9gag.com/gag/axoDbA1)
+ - 🚯 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
 
 --- 
 
