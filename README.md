@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heh](http://9gag.com/gag/aeQ6m9v)
- - 🚯 [He definitely kept his job after this](http://9gag.com/gag/aeQ67pv)
- - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)<!-- MEMES:END -->
+ - 🚖 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 🚯 [Heh](http://9gag.com/gag/aeQ6m9v)
+ - 🚯 [What could go wrong playing with a loaded gun in your moms house](http://9gag.com/gag/axoDRzn)<!-- MEMES:END -->
 
 --- 
 
