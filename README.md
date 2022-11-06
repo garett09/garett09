@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congratulations, you have scrolled long enough and now you have acquired CAT !](http://9gag.com/gag/a8q4VwQ)
- - 🚯 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
- - 🚯 [When your demon comes to sleep with you](http://9gag.com/gag/aGEDObn)<!-- MEMES:END -->
+ - 🚖 [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 🚯 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
+ - 🚯 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
 
 --- 
 
