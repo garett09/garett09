@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to See the Election Day &#39;Blood Moon&#39; Total Lunar Eclipse on Nov. 8     - CNET](https://www.cnet.com/science/space/how-to-see-the-election-day-blood-moon-total-lunar-eclipse-on-nov-8/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plan, a Horrific Sound and a Big Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plan-a-horrific-sound-and-a-big-stalker/#ftag=CAD590a51e)
- - [The US DOJ seizes internet domains for Z-Library, a repository that went viral on TikTok for offering 11M+ books, including pirated textbooks, and 84M articles &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221105/p15#a221105p15)<!-- TECH:END -->
+ - [French startup Fintecture, which helps companies digitize their B2B payments, has raised a &amp;euro;26M Series A from Target Global, Eurazeo, RTP Global, and others &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221105/p17#a221105p17)
+ - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)
+ - [The most efficient bitcoin mining machines are selling for ~$24 per 100 terahashes, down from $106 in 2021, as unprofitable miners are forced to sell equipment &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p16#a221105p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
