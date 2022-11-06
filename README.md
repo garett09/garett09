@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal post and sources: Twitter is delaying the rollout of verification checkmarks to Blue subscribers to November 9, after Tuesday&#39;s midterm elections &lpar;New York Times&rpar;](http://www.techmeme.com/221106/p11#a221106p11)
- - [7 foldable phone problems that haven’t been fixed yet](https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/)
- - [An investigation details India&#39;s &quot;hack-for-hire&quot; industry that helps global corporate intelligence clients target businesses, journalists, and politicians &lpar;The Bureau of Investigative Journalism&rpar;](http://www.techmeme.com/221106/p10#a221106p10)<!-- TECH:END -->
+ - [Twitter’s delaying the launch of Blue with verification until after the elections](https://www.theverge.com/2022/11/6/23443520/twitter-delaying-launch-blue-with-verification-after-midterm-elections-elon-musk)
+ - [[Thread] Sources and chats in anonymous workplace app Blind: Twitter is asking some laid off employees to come back, including for &quot;some Android and iOS help&quot; &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221106/p12#a221106p12)
+ - [Internal post and sources: Twitter is delaying rolling out verification checkmarks to Blue subscribers until November 9, the day after the US midterm elections &lpar;New York Times&rpar;](http://www.techmeme.com/221106/p11#a221106p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
