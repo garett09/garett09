@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wut!](http://9gag.com/gag/anz1vM5)
- - 🚯 [Fitting tour boyfriends type.](http://9gag.com/gag/az2AYXx)
- - 🚯 [The guy is living the male dream](http://9gag.com/gag/aZDp2A3)<!-- MEMES:END -->
+ - 🚖 [The guy is living the male dream](http://9gag.com/gag/aZDp2A3)
+ - 🚯 [Aesthetic Reasons](http://9gag.com/gag/aPgW1Kg)
+ - 🚯 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
 
 --- 
 
