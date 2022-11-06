@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
- - 🚯 [The guy is living the male dream](http://9gag.com/gag/aZDp2A3)
- - 🚯 [Strange at least, considering the carvings in megaliths all over the world of this non human looking guy holding a bag and a pine cone looking thing](http://9gag.com/gag/aPgWobn)<!-- MEMES:END -->
+ - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 🚯 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
 
 --- 
 
