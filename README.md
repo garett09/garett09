@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
- - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - 🚯 [Balancing Act](http://9gag.com/gag/a5XrjOo)<!-- MEMES:END -->
+ - 🚖 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
+ - 🚯 [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 --- 
 
