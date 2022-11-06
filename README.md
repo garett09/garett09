@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 🚯 [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 🚯 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
+ - 🚖 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
+ - 🚯 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
+ - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
 
 --- 
 
