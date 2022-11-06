@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is fair if it is in my favour](http://9gag.com/gag/a4ojWyy)
- - 🚯 [Women never forgets CHAD](http://9gag.com/gag/aYVLRpV)
- - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)<!-- MEMES:END -->
+ - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 🚯 [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 🚯 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
 
 --- 
 
