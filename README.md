@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 🚯 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
- - 🚯 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
+ - 🚖 [Thats a wel thought of card. I need a few!](http://9gag.com/gag/a6qQj8L)
+ - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 🚯 [It is fair if it is in my favour](http://9gag.com/gag/a4ojWyy)<!-- MEMES:END -->
 
 --- 
 
