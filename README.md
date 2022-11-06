@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 🚖 [Balancing Act](http://9gag.com/gag/a5XrjOo)
  - 🚯 [Heh](http://9gag.com/gag/aeQ6m9v)
- - 🚯 [What could go wrong playing with a loaded gun in your moms house](http://9gag.com/gag/axoDRzn)<!-- MEMES:END -->
+ - 🚯 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
 
 --- 
 
