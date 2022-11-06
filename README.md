@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s copyright claims ripped down a fan’s archival WWDC YouTube channel](https://www.theverge.com/2022/11/6/23443215/apple-copyright-claims-ripped-down-fan-archival-wwdc-youtube-channel)
- - [&#39;Glass Onion: A Knives Out Mystery:&#39; Release Date, How to Watch     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-a-knives-out-mystery-release-date-how-to-watch/#ftag=CAD590a51e)
- - [Review of misinformation labels: Twitter and Facebook have done little to refute inaccurate election claims by 26+ US midterms candidates since April 2022 &lpar;Washington Post&rpar;](http://www.techmeme.com/221106/p9#a221106p9)<!-- TECH:END -->
+ - [Internal post and sources: Twitter is delaying the rollout of verification checkmarks to Blue subscribers to November 9, after Tuesday&#39;s midterm elections &lpar;New York Times&rpar;](http://www.techmeme.com/221106/p11#a221106p11)
+ - [7 foldable phone problems that haven’t been fixed yet](https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/)
+ - [An investigation details India&#39;s &quot;hack-for-hire&quot; industry that helps global corporate intelligence clients target businesses, journalists, and politicians &lpar;The Bureau of Investigative Journalism&rpar;](http://www.techmeme.com/221106/p10#a221106p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
