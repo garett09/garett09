@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 🚯 [Japan are donating what to Ukraine!?](http://9gag.com/gag/aME9W56)
- - 🚯 [Heh](http://9gag.com/gag/aeQ6m9v)<!-- MEMES:END -->
+ - 🚖 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
+ - 🚯 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
+ - 🚯 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
 
 --- 
 
