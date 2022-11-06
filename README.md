@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The guy is living the male dream](http://9gag.com/gag/aZDp2A3)
- - 🚯 [Aesthetic Reasons](http://9gag.com/gag/aPgW1Kg)
- - 🚯 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
+ - 🚖 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
+ - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - 🚯 [Balancing Act](http://9gag.com/gag/a5XrjOo)<!-- MEMES:END -->
 
 --- 
 
