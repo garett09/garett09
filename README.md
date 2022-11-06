@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple confirms Chinese factory&#39;s iPhone 14 Pro output hit by COVID restrictions](https://appleinsider.com/articles/22/11/06/apple-confirms-chinese-factorys-iphone-14-pro-output-hit-by-covid-restrictions?utm_medium=rss)
  - [Meta’s reportedly planning to lay off ‘thousands’ of workers this week](https://www.theverge.com/2022/11/6/23443699/meta-reportedly-planning-lay-off-thousands-workers-this-week)
- - [LGear 3-in-1 charging dock review: A cat tree for your devices](https://appleinsider.com/articles/22/11/06/lgear-3-in-1-charging-dock-review-a-cat-tree-for-your-devices?utm_medium=rss)
- - [Sources: Meta plans to lay off thousands of employees this week, with an announcement expected as soon as Wednesday, the first broad layoffs in its history &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221106/p14#a221106p14)<!-- TECH:END -->
+ - [Heidi Klum&#39;s Worm Costume Is the Best Halloween Outfit of All Time     - CNET](https://www.cnet.com/culture/internet/heidi-klums-worm-costume-is-the-best-halloween-outfit-of-all-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
