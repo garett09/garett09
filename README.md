@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s delaying the launch of Blue with verification until after the elections](https://www.theverge.com/2022/11/6/23443520/twitter-delaying-launch-blue-with-verification-after-midterm-elections-elon-musk)
- - [[Thread] Sources and chats in anonymous workplace app Blind: Twitter is asking some laid off employees to come back, including for &quot;some Android and iOS help&quot; &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221106/p12#a221106p12)
- - [Internal post and sources: Twitter is delaying rolling out verification checkmarks to Blue subscribers until November 9, the day after the US midterm elections &lpar;New York Times&rpar;](http://www.techmeme.com/221106/p11#a221106p11)<!-- TECH:END -->
+ - [Sources: Meta plans to lay off thousands of employees this week, with an announcement as soon as Wednesday, the first broad layoffs in its 18-year history &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221106/p14#a221106p14)
+ - [Sources: Twitter is asking dozens of laid-off staff to return, after realizing some are needed for building prioritized features and some were sacked by mistake &lpar;Bloomberg&rpar;](http://www.techmeme.com/221106/p13#a221106p13)
+ - [Twitter’s delaying the launch of Blue with verification until after the elections](https://www.theverge.com/2022/11/6/23443520/twitter-delaying-launch-blue-with-verification-after-midterm-elections-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
