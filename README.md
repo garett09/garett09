@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 🚯 [Heh](http://9gag.com/gag/aeQ6m9v)
- - 🚯 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
+ - 🚖 [Wut!](http://9gag.com/gag/anz1vM5)
+ - 🚯 [Fitting tour boyfriends type.](http://9gag.com/gag/az2AYXx)
+ - 🚯 [The guy is living the male dream](http://9gag.com/gag/aZDp2A3)<!-- MEMES:END -->
 
 --- 
 
