@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
- - 🚯 [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 🚖 [Congratulations, you have scrolled long enough and now you have acquired CAT !](http://9gag.com/gag/a8q4VwQ)
+ - 🚯 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
+ - 🚯 [When your demon comes to sleep with you](http://9gag.com/gag/aGEDObn)<!-- MEMES:END -->
 
 --- 
 
