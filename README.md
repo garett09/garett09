@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coz he had an intercourse with his wife](http://9gag.com/gag/aBd1dMP)
+ - 🚖 [Do it.](http://9gag.com/gag/aWGMgKn)
  - 🚯 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
- - 🚯 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
+ - 🚯 [Heh](http://9gag.com/gag/aeQ6m9v)<!-- MEMES:END -->
 
 --- 
 
