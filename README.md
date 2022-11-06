@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
- - 🚯 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
- - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 🚖 [It is fair if it is in my favour](http://9gag.com/gag/a4ojWyy)
+ - 🚯 [Women never forgets CHAD](http://9gag.com/gag/aYVLRpV)
+ - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)<!-- MEMES:END -->
 
 --- 
 
