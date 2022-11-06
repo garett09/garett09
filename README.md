@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW i7 2022 Review: High Life, High-Tech](https://www.wired.com/review/review-bmw-i7-2022/)
- - [Jack Dorsey takes responsibility for Elon Musk’s mass layoffs at Twitter](https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo)
- - [Elon Musk says Twitter will soon add the ability to attach long-form text to tweets, followed by creator monetization for all forms of content &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221105/p14#a221105p14)<!-- TECH:END -->
+ - [How to See the Election Day &#39;Blood Moon&#39; Total Lunar Eclipse on Nov. 8     - CNET](https://www.cnet.com/science/space/how-to-see-the-election-day-blood-moon-total-lunar-eclipse-on-nov-8/#ftag=CAD590a51e)
+ - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plan, a Horrific Sound and a Big Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plan-a-horrific-sound-and-a-big-stalker/#ftag=CAD590a51e)
+ - [The US DOJ seizes internet domains for Z-Library, a repository that went viral on TikTok for offering 11M+ books, including pirated textbooks, and 84M articles &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221105/p15#a221105p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
