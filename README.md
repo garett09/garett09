@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - 🚯 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
+ - 🚖 [Heh](http://9gag.com/gag/aeQ6m9v)
+ - 🚯 [He definitely kept his job after this](http://9gag.com/gag/aeQ67pv)
+ - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)<!-- MEMES:END -->
 
 --- 
 
