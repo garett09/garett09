@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
- - 🚯 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
- - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
+ - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 🚯 [Japan are donating what to Ukraine!?](http://9gag.com/gag/aME9W56)
+ - 🚯 [Heh](http://9gag.com/gag/aeQ6m9v)<!-- MEMES:END -->
 
 --- 
 
