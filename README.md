@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage Thunderbolt &amp; USB security in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-manage-thunderbolt-usb-security-in-macos-ventura?utm_medium=rss)
- - [Research: Russia reactivates its troll and bot networks on Gab, Parler, and other platforms, seeking to influence the US midterms and erode support for Ukraine &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/221107/p9#a221107p9)
- - [Amazon says it has ‘hundreds’ of Rivian electric vans making deliveries in the US](https://www.theverge.com/2022/11/7/23443995/amazon-rivian-electric-delivery-van-fleet-ev)<!-- TECH:END -->
+ - [Algerian startup Yassir, which offers on-demand ride hailing, banking, and more, raised $150M led by BOND to expand overseas, bringing its funding to $193M &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/221107/p13#a221107p13)
+ - [Hua Hong Semiconductor, China&#39;s second-largest chipmaker, receives approval for a ~$2.5B Shanghai IPO and plans to use the funds to build a plant in Wuxi, China &lpar;Reuters&rpar;](http://www.techmeme.com/221107/p12#a221107p12)
+ - [Unity, which makes the eponymous game engine, merges with adtech company ironSource in a $4.4B all-stock deal; Unity stock is down ~75% YTD and ironSource ~50% &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221107/p11#a221107p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
