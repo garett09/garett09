@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
- - 🚯 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
- - 🚯 [Family Guy...](http://9gag.com/gag/ap9LzpE)<!-- MEMES:END -->
+ - 🚖 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - 🚯 [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 🚯 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
 
 --- 
 
