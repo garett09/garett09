@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms Chinese factory&#39;s iPhone 14 Pro output hit by COVID restrictions](https://appleinsider.com/articles/22/11/06/apple-confirms-chinese-factorys-iphone-14-pro-output-hit-by-covid-restrictions?utm_medium=rss)
- - [Meta’s reportedly planning to lay off ‘thousands’ of workers this week](https://www.theverge.com/2022/11/6/23443699/meta-reportedly-planning-lay-off-thousands-workers-this-week)
- - [Heidi Klum&#39;s Worm Costume Is the Best Halloween Outfit of All Time     - CNET](https://www.cnet.com/culture/internet/heidi-klums-worm-costume-is-the-best-halloween-outfit-of-all-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [White House plans to push for antitrust legislation during the post-midterms lame duck session, perhaps the last chance for AICOA, Open App Markets Act, others &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/221106/p17#a221106p17)
+ - [Amazon slashes MacBook Pro prices by up to $500 in Early Black Friday sale](https://appleinsider.com/articles/22/11/05/amazon-slashes-macbook-pro-prices-by-up-to-500-in-early-black-friday-sale?utm_medium=rss)
+ - [iPhone 14 Pro lead times elevated but stable, iPhone 14 demand &#39;modest&#39;](https://appleinsider.com/articles/22/11/07/iphone-14-pro-lead-times-elevated-but-stable-iphone-14-demand-modest?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
