@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)
- - 🚯 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
- - 🚯 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)<!-- MEMES:END -->
+ - 🚖 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
+ - 🚯 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 🚯 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)<!-- MEMES:END -->
 
 --- 
 
