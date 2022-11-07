@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
- - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 🚯 [Florence Pugh](http://9gag.com/gag/adPXRpD)<!-- MEMES:END -->
+ - 🚖 [Flexible girl](http://9gag.com/gag/aoKpo4x)
+ - 🚯 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
+ - 🚯 [Not a good idea to use lighter to open the knot](http://9gag.com/gag/aeQ67dv)<!-- MEMES:END -->
 
 --- 
 
