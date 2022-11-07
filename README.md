@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title here](http://9gag.com/gag/az2ABbj)
- - 🚯 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)<!-- MEMES:END -->
+ - 🚖 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)
+ - 🚯 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
+ - 🚯 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)<!-- MEMES:END -->
 
 --- 
 
