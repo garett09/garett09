@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
- - 🚯 [Florence Pugh](http://9gag.com/gag/adPXRpD)
- - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
+ - 🚖 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 🚯 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
+ - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)<!-- MEMES:END -->
 
 --- 
 
