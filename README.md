@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
- - 🚯 [Title here](http://9gag.com/gag/az2ABbj)
- - 🚯 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)<!-- MEMES:END -->
+ - 🚖 [RIP Ethan Klein](http://9gag.com/gag/aOxvAOv)
+ - 🚯 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 🚯 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
 
 --- 
 
