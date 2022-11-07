@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title here](http://9gag.com/gag/az2ABbj)
- - 🚯 [Not a good idea to use lighter to open the knot](http://9gag.com/gag/aeQ67dv)
- - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
+ - 🚖 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
+ - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - 🚯 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)<!-- MEMES:END -->
 
 --- 
 
