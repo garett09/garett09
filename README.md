@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
- - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)
- - 🚯 [Balancing Act](http://9gag.com/gag/a5XrjOo)<!-- MEMES:END -->
+ - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 🚯 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 🚯 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
 
 --- 
 
