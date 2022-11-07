@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know talent when I see one](http://9gag.com/gag/a1PXnq8)
- - 🚯 [He just needs a Paper and a scissor :](http://9gag.com/gag/ap9LnMn)
- - 🚯 [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)<!-- MEMES:END -->
+ - 🚖 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
+ - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 🚯 [Florence Pugh](http://9gag.com/gag/adPXRpD)<!-- MEMES:END -->
 
 --- 
 
