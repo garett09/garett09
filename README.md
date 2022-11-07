@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 is rolling out to the Galaxy Note 20 series](https://www.androidauthority.com/android-13-galaxy-note-20-3231973/)
- - [Star Wars spinoff The Acolyte adds Lee Jung-jae, Carrie-Anne Moss, and more to cast](https://www.theverge.com/2022/11/7/23444811/star-wars-the-acolyte-cast-lee-jung-jae-carrie-anne-moss-disney-plus)
- - [Apple profiles NightWare PTSD nightmare-fighting Apple Watch app](https://appleinsider.com/articles/22/11/07/apple-profiles-nightware-ptsd-nightmare-fighting-apple-watch-app?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Shorts are coming to your TV — and taking over the platform](https://www.theverge.com/2022/11/7/23444530/youtube-shorts-tv-app-tiktok)
+ - [Samsung rolls out the stable Android 13 update to the Galaxy S20 series](https://www.androidauthority.com/android-13-galaxy-s20-series-3232005/)
+ - [Palantir Q3: revenue of $478M, up 22% YoY, vs. $470M est., US commercial customer count increased 124% YoY and US commercial revenue up 53% YoY; stock down 12%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221107/p19#a221107p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
