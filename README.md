@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 🚯 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - 🚯 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
+ - 🚖 [Title here](http://9gag.com/gag/az2ABbj)
+ - 🚯 [Not a good idea to use lighter to open the knot](http://9gag.com/gag/aeQ67dv)
+ - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
 
 --- 
 
