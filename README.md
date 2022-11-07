@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s new trophy was made by Swarovski](https://www.theverge.com/2022/11/7/23441056/fortnite-fncs-trophy-swarovski-epic-games)
- - [Airbnb will soon let you search by total price to avoid hidden cleaning fees](https://www.theverge.com/2022/11/7/23444561/airbnb-total-price-update-cleaning-fee-filter)
- - [Buying two games at Target will get you a third one for free](https://www.theverge.com/2022/11/7/23444518/target-games-sale-wireless-earbuds-gaming-laptop-lenovo-ipad-deal)<!-- TECH:END -->
+ - [Glass Onion’s new trailer invites you to an elaborate murder mystery party](https://www.theverge.com/23444665/glass-onion-knives-out-mystery-trailer-netflix)
+ - [The US DOJ seizes 50,676 bitcoin, worth around ~$1B, defrauded from the Silk Road in 2012 by James Zhong, who pled guilty to wire fraud &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/221107/p18#a221107p18)
+ - [5 things the Pixel Watch does better and worse than the Apple Watch Series 8](https://www.androidauthority.com/google-pixel-watch-vs-apple-watch-3229547/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
