@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with YouTube Shorts Director of Product Management Todd Sherman on UI challenges as YouTube rolls out the TikTok competitor to its TV apps &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221107/p21#a221107p21)
- - [IRS Seizes Another Silk Road Hacker&#39;s $3.36 Bitcoin Stash](https://www.wired.com/story/silk-road-bitcoin-seizure-james-zhong/)
- - [How to enable Taptic Chimes on your Apple Watch in watchOS 9](https://appleinsider.com/articles/22/11/07/how-to-enable-taptic-chimes-on-your-apple-watch-in-watchos-9?utm_medium=rss)<!-- TECH:END -->
+ - [Some NFT marketplaces stop honoring NFT royalties, usually a ~5-10% fee set by the creator and paid by sellers on secondary market sales, rocking the community &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/221107/p22#a221107p22)
+ - [Google’s Pixel 7 and 7 Pro get minor November update ahead of new features next month](https://www.theverge.com/2022/11/7/23445606/pixel-7-pro-november-update-battery-life-improvements-google)
+ - [Now Wordle has an editor in charge of picking the next answer](https://www.theverge.com/2022/11/7/23445167/wordle-the-new-york-times-editor-tracy-bennett)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
