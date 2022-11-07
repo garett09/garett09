@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holup](http://9gag.com/gag/a5Xr9NL)
- - 🚯 [Henry Cavill being sharp as a tack for almost 2 min](http://9gag.com/gag/az2AoEb)
- - 🚯 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)<!-- MEMES:END -->
+ - 🚖 [Title here](http://9gag.com/gag/az2ABbj)
+ - 🚯 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)<!-- MEMES:END -->
 
 --- 
 
