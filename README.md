@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House plans to push for antitrust legislation during the post-midterms lame duck session, perhaps the last chance for AICOA, Open App Markets Act, others &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/221106/p17#a221106p17)
- - [Amazon slashes MacBook Pro prices by up to $500 in Early Black Friday sale](https://appleinsider.com/articles/22/11/05/amazon-slashes-macbook-pro-prices-by-up-to-500-in-early-black-friday-sale?utm_medium=rss)
- - [iPhone 14 Pro lead times elevated but stable, iPhone 14 demand &#39;modest&#39;](https://appleinsider.com/articles/22/11/07/iphone-14-pro-lead-times-elevated-but-stable-iphone-14-demand-modest?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Mastodon&#39;s German-born founder and lead dev Eugen Rochko, on how a federated approach to social media mitigates hateful speech, why he built it, more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/221106/p18#a221106p18)
+ - [How to use Siren on your Apple Watch Ultra](https://www.androidauthority.com/how-to-apple-watch-ultra-siren-3231669/)
+ - [Two Lots of Blood Pressure Medicine Recalled: Is Yours Affected?     - CNET](https://www.cnet.com/health/medical/two-lots-of-blood-pressure-medicine-recalled-is-yours-affected/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
