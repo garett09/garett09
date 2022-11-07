@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Shorts are coming to your TV — and taking over the platform](https://www.theverge.com/2022/11/7/23444530/youtube-shorts-tv-app-tiktok)
- - [Samsung rolls out the stable Android 13 update to the Galaxy S20 series](https://www.androidauthority.com/android-13-galaxy-s20-series-3232005/)
- - [Palantir Q3: revenue of $478M, up 22% YoY, vs. $470M est., US commercial customer count increased 124% YoY and US commercial revenue up 53% YoY; stock down 12%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221107/p19#a221107p19)<!-- TECH:END -->
+ - [Apple begins Oscars push for &#39;Causeway&#39;](https://appleinsider.com/articles/22/11/07/apple-begins-oscars-push-for-causeway?utm_medium=rss)
+ - [To see climate risks your home faces, check out two new tools](https://www.theverge.com/2022/11/7/23444848/climate-risk-property-search-online-tools-fire-heat-flood-map)
+ - [Poweradd Pro Portable Charger review: Attractive portable charging](https://appleinsider.com/articles/22/11/07/poweradd-pro-portable-charger-review-a-modern-portable-charger-for-your-apple-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
