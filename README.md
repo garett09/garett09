@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📖 A library in your pocket](https://www.androidauthority.com/daily-authority-november-7-2022-3231749/)
- - [Binance CEO Changpeng Zhao plans to sell the remaining FTT tokens taken on from exiting FTX&#39;s Alameda in 2021; Binance received ~$2.1B from the previous sale &lpar;CoinDesk&rpar;](http://www.techmeme.com/221107/p2#a221107p2)
- - [UFC 281 Israel Adesanya vs. Alex Pereira: How to Watch, Start Times     - CNET](https://www.cnet.com/culture/sports/ufc-281-israel-adesanya-vs-alex-pereira-how-to-watch-start-times/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ahead of the US midterms, researchers say YouTube, which often flies under the radar, has misinformation blind spots that allow false narratives to slip through &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/221107/p5#a221107p5)
+ - [Sources: Alibaba, Biren, and other Chinese companies halt advanced chip production and tweak designs, responding to US sanctions that cap processing power &lpar;Financial Times&rpar;](http://www.techmeme.com/221107/p4#a221107p4)
+ - [Sources: Apple expects to produce at least 3M fewer iPhone 14 handsets than anticipated in 2022, aiming to make 87M or fewer, primarily due to softer demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/221107/p3#a221107p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
