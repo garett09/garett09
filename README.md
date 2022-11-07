@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple begins Oscars push for &#39;Causeway&#39;](https://appleinsider.com/articles/22/11/07/apple-begins-oscars-push-for-causeway?utm_medium=rss)
- - [To see climate risks your home faces, check out two new tools](https://www.theverge.com/2022/11/7/23444848/climate-risk-property-search-online-tools-fire-heat-flood-map)
- - [Poweradd Pro Portable Charger review: Attractive portable charging](https://appleinsider.com/articles/22/11/07/poweradd-pro-portable-charger-review-a-modern-portable-charger-for-your-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [The CW app: The best free streaming service you have never heard of](https://www.androidauthority.com/what-is-the-cw-app-3229286/)
+ - [Samsung tries adding Apple-style Back Tap to Galaxy S and Flip devices](https://appleinsider.com/articles/22/11/07/samsung-tries-adding-apple-style-back-tap-to-galaxy-s-and-flip-devices?utm_medium=rss)
+ - [BlockFi debuts a digital assets interest product for US accredited investors, after shutting down a yield-paying crypto product the SEC said was illegal &lpar;Tomio Geron/Protocol&rpar;](http://www.techmeme.com/221107/p20#a221107p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
