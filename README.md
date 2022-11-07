@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
- - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - 🚯 [Take notes.](http://9gag.com/gag/a1PXx88)<!-- MEMES:END -->
+ - 🚖 [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 🚯 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
 
 --- 
 
