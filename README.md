@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
- - 🚯 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
- - 🚯 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
+ - 🚖 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
+ - 🚯 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 🚯 [Take notes.](http://9gag.com/gag/a1PXx88)<!-- MEMES:END -->
 
 --- 
 
