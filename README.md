@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of the US midterms, researchers say YouTube, which often flies under the radar, has misinformation blind spots that allow false narratives to slip through &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/221107/p5#a221107p5)
- - [Sources: Alibaba, Biren, and other Chinese companies halt advanced chip production and tweak designs, responding to US sanctions that cap processing power &lpar;Financial Times&rpar;](http://www.techmeme.com/221107/p4#a221107p4)
- - [Sources: Apple expects to produce at least 3M fewer iPhone 14 handsets than anticipated in 2022, aiming to make 87M or fewer, primarily due to softer demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/221107/p3#a221107p3)<!-- TECH:END -->
+ - [How to manage Thunderbolt &amp; USB security in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-manage-thunderbolt-usb-security-in-macos-ventura?utm_medium=rss)
+ - [Research: Russia reactivates its troll and bot networks on Gab, Parler, and other platforms, seeking to influence the US midterms and erode support for Ukraine &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/221107/p9#a221107p9)
+ - [Amazon says it has ‘hundreds’ of Rivian electric vans making deliveries in the US](https://www.theverge.com/2022/11/7/23443995/amazon-rivian-electric-delivery-van-fleet-ev)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
