@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals Black Friday deals, including Pixel 6a for $300](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
- - [Nanoleaf is now for squares](https://www.theverge.com/2022/11/7/23445329/nanoleaf-lines-squared-release-date-price)
- - [The Secret Ballot Is US Democracy’s Last Line of Defense](https://www.wired.com/story/secret-ballot-voter-intimidation-2022-us-midterms/)<!-- TECH:END -->
+ - [T-Mobile may be looking to spend big on fiber home internet](https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search)
+ - [How to &#39;Quiet Quit&#39; Elon Musk&#39;s Twitter](https://www.wired.com/story/how-to-quiet-quit-elon-musks-twitter/)
+ - [The best Black Friday deals you can already get at Target](https://www.theverge.com/23433073/target-black-friday-2022-deals-cyber-monday-tech-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
