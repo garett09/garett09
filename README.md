@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
- - 🚯 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - 🚯 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)<!-- MEMES:END -->
+ - 🚖 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
+ - 🚯 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
+ - 🚯 [Family Guy...](http://9gag.com/gag/ap9LzpE)<!-- MEMES:END -->
 
 --- 
 
