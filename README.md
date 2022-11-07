@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - 🚯 [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 🚯 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
+ - 🚖 [Holup](http://9gag.com/gag/a5Xr9NL)
+ - 🚯 [Henry Cavill being sharp as a tack for almost 2 min](http://9gag.com/gag/az2AoEb)
+ - 🚯 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)<!-- MEMES:END -->
 
 --- 
 
