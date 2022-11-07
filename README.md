@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Algerian startup Yassir, which offers on-demand ride hailing, banking, and more, raised $150M led by BOND to expand overseas, bringing its funding to $193M &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/221107/p13#a221107p13)
- - [Hua Hong Semiconductor, China&#39;s second-largest chipmaker, receives approval for a ~$2.5B Shanghai IPO and plans to use the funds to build a plant in Wuxi, China &lpar;Reuters&rpar;](http://www.techmeme.com/221107/p12#a221107p12)
- - [Unity, which makes the eponymous game engine, merges with adtech company ironSource in a $4.4B all-stock deal; Unity stock is down ~75% YTD and ironSource ~50% &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221107/p11#a221107p11)<!-- TECH:END -->
+ - [Daily deals Nov. 7: $400 off 16-inch MacBook Pro, $200 off LG 32-inch UltraFine display, $250 off iRobot Roomba i7+, more](https://appleinsider.com/articles/22/11/07/daily-deals-nov-7-400-off-16-inch-macbook-pro-200-off-lg-32-inch-ultrafine-display-250-off-irobot-roomba-i7-more?utm_medium=rss)
+ - [A look at Ethereum&#39;s Shanghai update, expected in 2023, and its WARM Coinbase change, which could reduce fees by up to 26x for some major ecosystem participants &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/221107/p15#a221107p15)
+ - [Google&#39;s Pixel Fold Rumors: Will It Arrive Next Year?     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-fold-rumors-will-it-arrive-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
