@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 🚯 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
+ - 🚖 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
+ - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)
+ - 🚯 [Balancing Act](http://9gag.com/gag/a5XrjOo)<!-- MEMES:END -->
 
 --- 
 
