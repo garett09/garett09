@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some NFT marketplaces stop honoring NFT royalties, usually a ~5-10% fee set by the creator and paid by sellers on secondary market sales, rocking the community &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/221107/p22#a221107p22)
- - [Google’s Pixel 7 and 7 Pro get minor November update ahead of new features next month](https://www.theverge.com/2022/11/7/23445606/pixel-7-pro-november-update-battery-life-improvements-google)
- - [Now Wordle has an editor in charge of picking the next answer](https://www.theverge.com/2022/11/7/23445167/wordle-the-new-york-times-editor-tracy-bennett)<!-- TECH:END -->
+ - [Google reveals Black Friday deals, including Pixel 6a for $300](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
+ - [Nanoleaf is now for squares](https://www.theverge.com/2022/11/7/23445329/nanoleaf-lines-squared-release-date-price)
+ - [The Secret Ballot Is US Democracy’s Last Line of Defense](https://www.wired.com/story/secret-ballot-voter-intimidation-2022-us-midterms/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
