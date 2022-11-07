@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glass Onion’s new trailer invites you to an elaborate murder mystery party](https://www.theverge.com/23444665/glass-onion-knives-out-mystery-trailer-netflix)
- - [The US DOJ seizes 50,676 bitcoin, worth around ~$1B, defrauded from the Silk Road in 2012 by James Zhong, who pled guilty to wire fraud &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/221107/p18#a221107p18)
- - [5 things the Pixel Watch does better and worse than the Apple Watch Series 8](https://www.androidauthority.com/google-pixel-watch-vs-apple-watch-3229547/)<!-- TECH:END -->
+ - [Android 13 is rolling out to the Galaxy Note 20 series](https://www.androidauthority.com/android-13-galaxy-note-20-3231973/)
+ - [Star Wars spinoff The Acolyte adds Lee Jung-jae, Carrie-Anne Moss, and more to cast](https://www.theverge.com/2022/11/7/23444811/star-wars-the-acolyte-cast-lee-jung-jae-carrie-anne-moss-disney-plus)
+ - [Apple profiles NightWare PTSD nightmare-fighting Apple Watch app](https://appleinsider.com/articles/22/11/07/apple-profiles-nightware-ptsd-nightmare-fighting-apple-watch-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
