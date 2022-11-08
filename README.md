@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 3 is getting its November 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [How to track your luggage — or anything else — with AirTags](https://www.theverge.com/23447275/how-to-track-luggage-airtags-apple-lost-bags)
- - [Apple releases AirPods Pro 2 firmware update](https://appleinsider.com/articles/22/11/08/apple-releases-airpods-pro-2-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [First apparent leaks of Pixel 8 series show codenames, some expected specs](https://www.androidauthority.com/google-pixel-8-3232704/)
+ - [Apple AirPods lawsuit over charging case tech settled on eve of retrial](https://appleinsider.com/articles/22/11/08/apple-airpods-lawsuit-over-charging-case-tech-settled-on-eve-of-retrial?utm_medium=rss)
+ - [Apple Pacific Centre retail store opens on November 18](https://appleinsider.com/articles/22/11/08/apple-pacific-centre-retail-store-opens-on-november-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
