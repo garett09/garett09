@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation shows TrustCor Systems, used by Chrome, Safari, and Firefox as a root certificate authority, has connections to US intel and law enforcement &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/221108/p11#a221108p11)
- - [Garmin’s latest hybrid smartwatch is built like a tank with stellar battery life](https://www.androidauthority.com/garmin-instinct-crossover-3232385/)
- - [After Twitter Staff Cuts, Survivors Face ‘Radio Silence’](https://www.wired.com/story/musk-layoffs-twitter-management/)<!-- TECH:END -->
+ - [Sources: Apple&#39;s search for a new product design lead has been hindered by high turnover, leaving few candidates for a department still in Jony Ive&#39;s shadow &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221108/p16#a221108p16)
+ - [Tesla critic claims his anti-Tesla ad was banned from Twitter for ‘political’ reasons](https://www.theverge.com/2022/11/8/23446972/tesla-twitter-ad-ban-dawn-project-dan-odowd-elon-musk)
+ - [Eliyan, which develops NuLink to connect chiplet components more efficiently, raised a $40M Series A from Intel, Micron, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221108/p15#a221108p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
