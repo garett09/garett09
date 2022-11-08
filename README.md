@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get rekt](http://9gag.com/gag/aVbe9Dn)
- - 🚯 [Let there be light.](http://9gag.com/gag/az2AyAx)
- - 🚯 [The Offer](http://9gag.com/gag/aGEDqOZ)<!-- MEMES:END -->
+ - 🚖 [I was there 2400 B.C](http://9gag.com/gag/aEqnme9)
+ - 🚯 [Tattoo artist saves a client who fainted after getting his first tattoo](http://9gag.com/gag/a6qQ0jq)
+ - 🚯 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
 
 --- 
 
