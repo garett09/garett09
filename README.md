@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The creators of Pokémon Unite are bringing Monster Hunter to mobile](https://www.theverge.com/2022/11/8/23447143/monster-hunter-mobile-timi-studios-capcom)
- - [25 Best Gifts for Teens &lpar;2022&rpar;: Hydro Flasks, Record Players, and Apple Gear](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [The Roccat Sova Solved My Gaming Problems](https://www.wired.com/story/roccat-silva-rave/)<!-- TECH:END -->
+ - [Binance CEO Changpeng Zhao says that the company signed a non-binding LOI to fully acquire FTX and help cover the liquidity crunch, pending due diligence &lpar;@cz_binance&rpar;](http://www.techmeme.com/221108/p19#a221108p19)
+ - [The lawsuit that could rewrite the rules of AI copyright](https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data)
+ - [Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls](https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
