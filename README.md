@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [European Police brutality](http://9gag.com/gag/aQEx5pe)
- - 🚯 [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 🚯 [How can these guys passed as commercial pilot?](http://9gag.com/gag/a9qYGwL)<!-- MEMES:END -->
+ - 🚖 [Six years of college for this?](http://9gag.com/gag/aVbeBqd)
+ - 🚯 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
+ - 🚯 [Cat\u2019s reaction to getting a kiss](http://9gag.com/gag/amAzbwy)<!-- MEMES:END -->
 
 --- 
 
