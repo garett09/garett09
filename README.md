@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 🚯 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
- - 🚯 [El Salvador&#39;s fight against Gangs takes a new turn by destroying all their symbolism, including those placed on the graves of dead gang members.](http://9gag.com/gag/a7qdxAm)<!-- MEMES:END -->
+ - 🚖 [European Police brutality](http://9gag.com/gag/aQEx5pe)
+ - 🚯 [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 🚯 [How can these guys passed as commercial pilot?](http://9gag.com/gag/a9qYGwL)<!-- MEMES:END -->
 
 --- 
 
