@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [European Police brutality](http://9gag.com/gag/aQEx5pe)
- - 🚯 [Test driving a Maserati](http://9gag.com/gag/ap9Lnrp)
- - 🚯 [The Offer](http://9gag.com/gag/aGEDqOZ)<!-- MEMES:END -->
+ - 🚖 [Get rekt](http://9gag.com/gag/aVbe9Dn)
+ - 🚯 [RIP this guy](http://9gag.com/gag/aEqnmQx)
+ - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)<!-- MEMES:END -->
 
 --- 
 
