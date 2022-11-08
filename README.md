@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Get rekt](http://9gag.com/gag/aVbe9Dn)
- - 🚯 [RIP this guy](http://9gag.com/gag/aEqnmQx)
- - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)<!-- MEMES:END -->
+ - 🚯 [Let there be light.](http://9gag.com/gag/az2AyAx)
+ - 🚯 [The Offer](http://9gag.com/gag/aGEDqOZ)<!-- MEMES:END -->
 
 --- 
 
