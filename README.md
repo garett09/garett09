@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2022: Tips for Finding the Best Deals From Home](https://www.wired.com/story/black-friday-2022-tips-and-tricks/)
- - [On-chain data: FTX appears to have stopped processing withdrawal requests, starting at 6:37am ET &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/221108/p18#a221108p18)
- - [Inside Meta&#39;s Oversight Board after two years: $150M funding through 2025, ~2M appeals, 28 rulings, and 119 recommendations, as it begins to win over critics &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/221108/p17#a221108p17)<!-- TECH:END -->
+ - [The creators of Pokémon Unite are bringing Monster Hunter to mobile](https://www.theverge.com/2022/11/8/23447143/monster-hunter-mobile-timi-studios-capcom)
+ - [25 Best Gifts for Teens &lpar;2022&rpar;: Hydro Flasks, Record Players, and Apple Gear](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
+ - [The Roccat Sova Solved My Gaming Problems](https://www.wired.com/story/roccat-silva-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
