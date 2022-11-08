@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ABOMINATION](http://9gag.com/gag/az2AWVj)
- - 🚯 [Instant karma](http://9gag.com/gag/aA0PjEE)
- - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
+ - 🚖 [UK 5G in the centre of London\u2026](http://9gag.com/gag/amAzeb6)
+ - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)<!-- MEMES:END -->
 
 --- 
 
