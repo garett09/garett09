@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Renault are working on a ‘software-defined vehicle’](https://www.theverge.com/2022/11/8/23445325/google-renault-sdv-ai-digital-twin-android)
- - [How to generate a secure password with LastPass](https://www.androidauthority.com/generate-secure-password-lastpass-3231706/)
- - [Telegram adds video transcription, separate topics in large groups chats, NFT-like &quot;Collectible Usernames&quot; secured by the TON blockchain network, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/221108/p2#a221108p2)<!-- TECH:END -->
+ - [Apple is now more profitable than Chinese tech giants as its bargain with Beijing lets the company evade the tech crackdown while gaining from US chip sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/221108/p4#a221108p4)
+ - [Google is working with Renault to build a “vehicle of tomorrow”](https://www.androidauthority.com/google-renault-android-auto-sdv-car-3232436/)
+ - [Mediatek Dimensity 9200 announced: The 64-bit only era is here](https://www.androidauthority.com/mediatek-dimensity-9200-3230762/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
