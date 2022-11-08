@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there 2400 B.C](http://9gag.com/gag/aEqnme9)
- - 🚯 [Tattoo artist saves a client who fainted after getting his first tattoo](http://9gag.com/gag/a6qQ0jq)
+ - 🚖 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 🚯 [Sauce: Vanilla Sky](http://9gag.com/gag/aNwW7Y3)
  - 🚯 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
 
 --- 
