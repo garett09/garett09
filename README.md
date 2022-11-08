@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
- - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 🚯 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
+ - 🚖 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 🚯 [I&#39;m sure that guy had a stroke too](http://9gag.com/gag/aOxvEqv)
+ - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)<!-- MEMES:END -->
 
 --- 
 
