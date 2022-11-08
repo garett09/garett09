@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2022: The best deals in the early sales](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [Activision Blizzard reports Q3 net bookings down 3% YoY to $1.83B vs. $1.7B est., and MAUs down 6% YoY to 368M; Modern Warfare II made $1B+ in its first 10 days &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/221107/p26#a221107p26)
- - [&#39;Don&#39;t Worry Darling&#39; Review: Florence Pugh and Harry Styles Head to HBO Max     - CNET](https://www.cnet.com/culture/entertainment/dont-worry-darling-review-florence-pugh-and-harry-styles-head-to-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Strava’s Global Heatmap to see where people run, bike, and swim near you](https://www.androidauthority.com/strava-global-heatmap-3231112/)
+ - [Sources: Musk has pitched charging most or all users a subscription fee to use Twitter; internal estimates show the new Blue could actually lose Twitter money &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221107/p28#a221107p28)
+ - [Cargo Craft Bound for Space Station Troubled By Unusual Glitch     - CNET](https://www.cnet.com/science/space/cargo-craft-headed-to-space-station-troubled-by-unusual-glitch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
