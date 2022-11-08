@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance CEO Changpeng Zhao says that the company signed a non-binding LOI to fully acquire FTX and help cover the liquidity crunch, pending due diligence &lpar;@cz_binance&rpar;](http://www.techmeme.com/221108/p19#a221108p19)
- - [The lawsuit that could rewrite the rules of AI copyright](https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data)
- - [Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls](https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/)<!-- TECH:END -->
+ - [European Commission opens an in-depth investigation into Microsoft&#39;s proposed $69B Activision Blizzard acquisition, setting a March 23 deadline for phase two &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/221108/p20#a221108p20)
+ - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
+ - [LG’s new stretchable Hi-Res display is the first of its kind](https://www.androidauthority.com/lg-stretchable-display-3231968/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
