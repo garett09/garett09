@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PhotoRoom, which is bringing generative AI to its photo editing app for e-commerce vendors and SMBs, raised a $19M Series A; the app has 7M MAUs, 40M+ downloads &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221108/p1#a221108p1)
  - [60+ firms including Intel, Samsung, and TSMC form the Semiconductor Climate Consortium to cut greenhouse gas emissions &quot;throughout the electronics value chain&quot; &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/221107/p31#a221107p31)
- - [Indian edtech startup Unacademy cuts 350 jobs, or 10% of its workforce, in its second round of layoffs this year after cutting 1,000 roles in April 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221107/p30#a221107p30)
- - [Nvidia is offering Chinese customers the A800 GPU, which it says meets US export control rules, as an alternative to its A100 chip that the US banned for export &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/221107/p29#a221107p29)<!-- TECH:END -->
+ - [Indian edtech startup Unacademy cuts 350 jobs, or 10% of its workforce, in its second round of layoffs this year after cutting 1,000 roles in April 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221107/p30#a221107p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
