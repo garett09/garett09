@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Offer](http://9gag.com/gag/aGEDqOZ)
- - 🚯 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
- - 🚯 [Alpha crow](http://9gag.com/gag/aME9MwP)<!-- MEMES:END -->
+ - 🚖 [Message to all Americans and Brits](http://9gag.com/gag/awZVPj4)
+ - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)
+ - 🚯 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
 
 --- 
 
