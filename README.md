@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
  - 🚯 [Sauce: Vanilla Sky](http://9gag.com/gag/aNwW7Y3)<!-- MEMES:END -->
 
 --- 
