@@ -145,7 +145,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [UK 5G in the centre of London\u2026](http://9gag.com/gag/amAzeb6)
+ - 🚖 [Get rekt](http://9gag.com/gag/aVbe9Dn)
  - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
  - 🚯 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)<!-- MEMES:END -->
 
