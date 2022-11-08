@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds second developer beta for iOS 16.2, iPadOS 16.2, tvOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/11/08/apple-seeds-second-developer-beta-for-ios-162-ipados-162-tvos-162-watchos-92?utm_medium=rss)
- - [Apple issues second developer beta of macOS Ventura 13.1](https://appleinsider.com/articles/22/11/08/apple-issues-second-developer-beta-of-macos-ventura-131?utm_medium=rss)
- - [In a message to staff, FTX CEO Sam Bankman-Fried says withdrawals on FTX.com are &quot;effectively paused&quot; after FTX saw $6B in net withdrawals in 72 hours &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221108/p22#a221108p22)<!-- TECH:END -->
+ - [A look at data brokers selling campaigns &quot;comprehensive&quot; profiles on potential voters including thousands of data points such as phone geolocation data &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/221108/p23#a221108p23)
+ - [The midterms turned politicians into content creators](https://www.theverge.com/2022/11/8/23447655/midterm-elections-tiktok-bereal-josh-shapiro-john-fetterman-tim-ryan)
+ - [Temperatures are rising at super speed in the US](https://www.theverge.com/2022/11/8/23447081/us-climate-change-national-climate-assessment-draft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
