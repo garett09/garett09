@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Six years of college for this?](http://9gag.com/gag/aVbeBqd)
- - 🚯 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
- - 🚯 [Cat\u2019s reaction to getting a kiss](http://9gag.com/gag/amAzbwy)<!-- MEMES:END -->
+ - 🚖 [The Offer](http://9gag.com/gag/aGEDqOZ)
+ - 🚯 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
+ - 🚯 [Alpha crow](http://9gag.com/gag/aME9MwP)<!-- MEMES:END -->
 
 --- 
 
