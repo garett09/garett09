@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Commission opens an in-depth investigation into Microsoft&#39;s proposed $69B Activision Blizzard acquisition, setting a March 23 deadline for phase two &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/221108/p20#a221108p20)
- - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
- - [LG’s new stretchable Hi-Res display is the first of its kind](https://www.androidauthority.com/lg-stretchable-display-3231968/)<!-- TECH:END -->
+ - [Apple seeds second developer beta for iOS 16.2, iPadOS 16.2, tvOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/11/08/apple-seeds-second-developer-beta-for-ios-162-ipados-162-tvos-162-watchos-92?utm_medium=rss)
+ - [Apple issues second developer beta of macOS Ventura 13.1](https://appleinsider.com/articles/22/11/08/apple-issues-second-developer-beta-of-macos-ventura-131?utm_medium=rss)
+ - [In a message to staff, FTX CEO Sam Bankman-Fried says withdrawals on FTX.com are &quot;effectively paused&quot; after FTX saw $6B in net withdrawals in 72 hours &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221108/p22#a221108p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
