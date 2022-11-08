@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile may be looking to spend big on fiber home internet](https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search)
- - [How to &#39;Quiet Quit&#39; Elon Musk&#39;s Twitter](https://www.wired.com/story/how-to-quiet-quit-elon-musks-twitter/)
- - [The best Black Friday deals you can already get at Target](https://www.theverge.com/23433073/target-black-friday-2022-deals-cyber-monday-tech-games)<!-- TECH:END -->
+ - [Black Friday 2022: The best deals in the early sales](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [Activision Blizzard reports Q3 net bookings down 3% YoY to $1.83B vs. $1.7B est., and MAUs down 6% YoY to 368M; Modern Warfare II made $1B+ in its first 10 days &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/221107/p26#a221107p26)
+ - [&#39;Don&#39;t Worry Darling&#39; Review: Florence Pugh and Harry Styles Head to HBO Max     - CNET](https://www.cnet.com/culture/entertainment/dont-worry-darling-review-florence-pugh-and-harry-styles-head-to-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
