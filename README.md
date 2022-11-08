@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use Strava’s Global Heatmap to see where people run, bike, and swim near you](https://www.androidauthority.com/strava-global-heatmap-3231112/)
- - [Sources: Musk has pitched charging most or all users a subscription fee to use Twitter; internal estimates show the new Blue could actually lose Twitter money &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221107/p28#a221107p28)
- - [Cargo Craft Bound for Space Station Troubled By Unusual Glitch     - CNET](https://www.cnet.com/science/space/cargo-craft-headed-to-space-station-troubled-by-unusual-glitch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [60+ firms including Intel, Samsung, and TSMC form the Semiconductor Climate Consortium to cut greenhouse gas emissions &quot;throughout the electronics value chain&quot; &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/221107/p31#a221107p31)
+ - [Indian edtech startup Unacademy cuts 350 jobs, or 10% of its workforce, in its second round of layoffs this year after cutting 1,000 roles in April 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221107/p30#a221107p30)
+ - [Nvidia is offering Chinese customers the A800 GPU, which it says meets US export control rules, as an alternative to its A100 chip that the US banned for export &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/221107/p29#a221107p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
