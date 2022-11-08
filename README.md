@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - 🚯 [I&#39;m sure that guy had a stroke too](http://9gag.com/gag/aOxvEqv)
- - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)<!-- MEMES:END -->
+ - 🚖 [RIP Ethan Klein](http://9gag.com/gag/aOxvAOv)
+ - 🚯 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
+ - 🚯 [The power of negotiation](http://9gag.com/gag/aL19VBW)<!-- MEMES:END -->
 
 --- 
 
