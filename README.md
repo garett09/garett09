@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Message to all Americans and Brits](http://9gag.com/gag/awZVPj4)
- - 🚯 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)
- - 🚯 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
+ - 🚖 [If you can\u2019t understand comedy don\u2019t ruin everyone\u2019s fun time](http://9gag.com/gag/aYVLvY2)
+ - 🚯 [The Offer](http://9gag.com/gag/aGEDqOZ)
+ - 🚯 [Gonna eat like a bit*ch](http://9gag.com/gag/aVbe6GO)<!-- MEMES:END -->
 
 --- 
 
