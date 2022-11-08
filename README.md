@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019ve been here since 2010 and never posted once or even commented on any post, just upvotes until now because I just wanna share my relationship of 10 years with my 1st bestfriend. I never had my heart broken so much till he passed. Can\u2019t eat, Can\u2019t sleep and days of crying\u2026](http://9gag.com/gag/a3ZjOw3)
- - 🚯 [Audience becomes the choir in Rome.](http://9gag.com/gag/a4ojBQ6)
- - 🚯 [Impressions](http://9gag.com/gag/aVbe5D8)<!-- MEMES:END -->
+ - 🚖 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 🚯 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
+ - 🚯 [El Salvador&#39;s fight against Gangs takes a new turn by destroying all their symbolism, including those placed on the graves of dead gang members.](http://9gag.com/gag/a7qdxAm)<!-- MEMES:END -->
 
 --- 
 
