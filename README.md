@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at data brokers selling campaigns &quot;comprehensive&quot; profiles on potential voters including thousands of data points such as phone geolocation data &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/221108/p23#a221108p23)
- - [The midterms turned politicians into content creators](https://www.theverge.com/2022/11/8/23447655/midterm-elections-tiktok-bereal-josh-shapiro-john-fetterman-tim-ryan)
- - [Temperatures are rising at super speed in the US](https://www.theverge.com/2022/11/8/23447081/us-climate-change-national-climate-assessment-draft)<!-- TECH:END -->
+ - [The Galaxy Z Flip 3 is getting its November 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
+ - [How to track your luggage — or anything else — with AirTags](https://www.theverge.com/23447275/how-to-track-luggage-airtags-apple-lost-bags)
+ - [Apple releases AirPods Pro 2 firmware update](https://appleinsider.com/articles/22/11/08/apple-releases-airpods-pro-2-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
