@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s search for a new product design lead has been hindered by high turnover, leaving few candidates for a department still in Jony Ive&#39;s shadow &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221108/p16#a221108p16)
- - [Tesla critic claims his anti-Tesla ad was banned from Twitter for ‘political’ reasons](https://www.theverge.com/2022/11/8/23446972/tesla-twitter-ad-ban-dawn-project-dan-odowd-elon-musk)
- - [Eliyan, which develops NuLink to connect chiplet components more efficiently, raised a $40M Series A from Intel, Micron, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221108/p15#a221108p15)<!-- TECH:END -->
+ - [Black Friday 2022: Tips for Finding the Best Deals From Home](https://www.wired.com/story/black-friday-2022-tips-and-tricks/)
+ - [On-chain data: FTX appears to have stopped processing withdrawal requests, starting at 6:37am ET &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/221108/p18#a221108p18)
+ - [Inside Meta&#39;s Oversight Board after two years: $150M funding through 2025, ~2M appeals, 28 rulings, and 119 recommendations, as it begins to win over critics &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/221108/p17#a221108p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
