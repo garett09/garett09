@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Ethan Klein](http://9gag.com/gag/aOxvAOv)
- - 🚯 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
- - 🚯 [The power of negotiation](http://9gag.com/gag/aL19VBW)<!-- MEMES:END -->
+ - 🚖 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
+ - 🚯 [Audience becomes the choir in Rome.](http://9gag.com/gag/a4ojBQ6)
+ - 🚯 [Impressions](http://9gag.com/gag/aVbe5D8)<!-- MEMES:END -->
 
 --- 
 
