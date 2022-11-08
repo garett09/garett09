@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
- - 🚯 [This is very scary](http://9gag.com/gag/aQEx2dw)
- - 🚯 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)<!-- MEMES:END -->
+ - 🚖 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
+ - 🚯 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 🚯 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
 
 --- 
 
