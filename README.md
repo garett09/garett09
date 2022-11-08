@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you can\u2019t understand comedy don\u2019t ruin everyone\u2019s fun time](http://9gag.com/gag/aYVLvY2)
- - 🚯 [The Offer](http://9gag.com/gag/aGEDqOZ)
- - 🚯 [Gonna eat like a bit*ch](http://9gag.com/gag/aVbe6GO)<!-- MEMES:END -->
+ - 🚖 [European Police brutality](http://9gag.com/gag/aQEx5pe)
+ - 🚯 [Test driving a Maserati](http://9gag.com/gag/ap9Lnrp)
+ - 🚯 [The Offer](http://9gag.com/gag/aGEDqOZ)<!-- MEMES:END -->
 
 --- 
 
