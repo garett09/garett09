@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
- - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)<!-- MEMES:END -->
+ - 🚯 [Get rekt](http://9gag.com/gag/aVbe9Dn)
+ - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
 
 --- 
 
