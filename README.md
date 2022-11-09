@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🗣️ Dear Google, all Android users need this feature.](https://www.androidauthority.com/daily-authority-november-9-2022-3232957/)
- - [Poll: How many Google accounts do you have?](https://www.androidauthority.com/how-many-google-accounts-poll-3231780/)
- - [As China encourages digital yuan adoption among its citizens, experts say the digital currency opens up new forms of government surveillance and social control &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221109/p4#a221109p4)<!-- TECH:END -->
+ - [Forza Horizon 5 on PC gets improved ray tracing, DLSS, FSR, and more](https://www.theverge.com/2022/11/9/23448928/forza-horizon-5-ray-tracing-dlss-fsr-dlaa-pc-support)
+ - [Hours after announcing an emergency deal with Binance, FTX CEO Sam Bankman-Fried deletes a Twitter thread saying the exchange and assets were &quot;fine&quot; &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/221109/p6#a221109p6)
+ - [Filings: after taking over Twitter, Elon Musk sold 19.5M Tesla shares, worth almost $4B, between November 4-8; Musk retains a roughly 14% stake in Tesla &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/221109/p5#a221109p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
