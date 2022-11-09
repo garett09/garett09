@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
+ - 🚖 [UK 5G in the centre of London\u2026](http://9gag.com/gag/amAzeb6)
+ - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)<!-- MEMES:END -->
 
 --- 
 
