@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to create a river](http://9gag.com/gag/a4oZ4RZ)
- - 🚯 [Slap me](http://9gag.com/gag/amArX62)
- - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
+ - 🚖 [Serbian women&gt;](http://9gag.com/gag/a9qYGeL)
+ - 🚯 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - 🚯 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)<!-- MEMES:END -->
 
 --- 
 
