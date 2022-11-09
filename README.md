@@ -146,8 +146,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
+ - 🚯 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - 🚯 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)<!-- MEMES:END -->
 
 --- 
 
