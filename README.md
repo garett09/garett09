@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Apple Pay or Google Pay Instead of Plastic Cards](https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/)
- - [Best early Black Friday deals on Apple for the week of November 7](https://appleinsider.com/articles/22/11/07/best-early-black-friday-deals-on-apple-for-the-week-of-november-7?utm_medium=rss)
- - [NYC-based Laika, which offers companies an automated security compliance service, raised a $50M Series C led by Fin Capital, bringing its total funding to $98M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221108/p35#a221108p35)<!-- TECH:END -->
+ - [Agriconomie, an e-commerce store for European farmers to order agricultural supplies such as fertilizers and animal feed, has raised a $60.4M Series B &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221108/p38#a221108p38)
+ - [Strava Membership: How much does it cost, and is it worth it?](https://www.androidauthority.com/strava-membership-3231073/)
+ - [Microsoft releases 68 security fixes, including patches for six actively exploited Windows zero-day flaws and 11 vulnerabilities classified as Critical &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221108/p37#a221108p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
