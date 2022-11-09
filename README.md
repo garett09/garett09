@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man has some more screaming to do in a more private location.](http://9gag.com/gag/aEqnKBe)
- - 🚯 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - 🚯 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)<!-- MEMES:END -->
+ - 🚖 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
+ - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 --- 
 
