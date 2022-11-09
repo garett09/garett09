@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with CEO Dylan Field on scaling Figma, selling the company to Adobe, retaining autonomy, WebGL, making VR Figma for the metaverse, AGI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221109/p10#a221109p10)
- - [TSMC plans second Arizona plant following US grants](https://appleinsider.com/articles/22/11/09/tsmc-plans-second-arizona-plant-following-us-grants?utm_medium=rss)
- - [Sources: TSMC plans to announce a second chipmaking factory north of Phoenix, Arizona, in the coming months, investing roughly $12B and aiming to make 3nm chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221109/p9#a221109p9)<!-- TECH:END -->
+ - [Meta&#39;s 11,000 job cuts may be only the beginning](https://appleinsider.com/articles/22/11/09/metas-11000-job-cuts-may-be-only-the-beginning?utm_medium=rss)
+ - [Apple is working on a Custom Accessibility Mode for iOS 16.2 beta 2, codenamed Clarity, helping make the iPhone&#39;s and the iPad&#39;s UI more user-friendly &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/221109/p12#a221109p12)
+ - [Twitter Users Have Caused a Mastodon Meltdown](https://www.wired.com/story/twitter-users-mastodon-meltdown/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
