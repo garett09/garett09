@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Polar Ignite 3 comes with a daily ‘alertness’ forecast](https://www.theverge.com/2022/11/9/23449106/polar-ignite-3-smartwatch-fitness-tracker-alertness-levels)
- - [Razer made a customizable PS5 controller that — you guessed it — is very expensive](https://www.theverge.com/2022/11/9/23447894/razer-wolverine-v2-pro-wireless-playstation-5-ps5-pc-controller-price-features)
- - [3 things the Pixel Watch does better and worse than the Galaxy Watch 5](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-5-3231716/)<!-- TECH:END -->
+ - [Countries Hit Hardest by Climate Change May Finally Get Their Due](https://www.wired.com/story/cop27-climate-reparations/)
+ - [Google rolls out its Google One VPN to Windows and macOS in 22 countries; the service is available to Premium subscribers with 2TB+ storage &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221109/p28#a221109p28)
+ - [Microsoft’s DirectStorage 1.1 arrives to boost PC game load times with GPU decompression](https://www.theverge.com/2022/11/9/23449382/microsoft-directstorage-1-1-gpu-decompression-load-times-drivers-official)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
