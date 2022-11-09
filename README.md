@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - 🚯 [After 2 years of 9gag updates, I&#39;m less than a week from releasing my solo developed gladiator RPG - the nervousness is setting &lpar;context in comments&rpar;](http://9gag.com/gag/aQExGDq)
- - 🚯 [I guess It was `male privilege` that made her delete herself...](http://9gag.com/gag/aA0PnPZ)<!-- MEMES:END -->
+ - 🚖 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
+ - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)
+ - 🚯 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)<!-- MEMES:END -->
 
 --- 
 
