@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox reports Q3 revenue up 2% YoY to $517.7M, bookings up 10% YoY to $701.7M, and DAUs up 24% YoY to 58.8M; stock drops 15%+ on a larger-than-expected loss &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221109/p17#a221109p17)
- - [Here are our favorite ways to survive Thanksgiving](https://www.theverge.com/23440305/thanksgiving-devices-cooking-switch)
- - [Serif overhauls whole Affinity range, adds new iPad Publisher](https://appleinsider.com/articles/22/11/09/serif-overhauls-whole-affinity-range-adds-new-ipad-publisher?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 9: $210 off Apple Watch Series 8, original AirPods Pro for $160, 25% off TwelveSouth BookBook collection, more](https://appleinsider.com/articles/22/11/09/daily-deals-nov-9-210-off-apple-watch-series-8-original-airpods-pro-for-160-25-off-twelvesouth-bookbook-collection-more?utm_medium=rss)
+ - [The Quiet Invasion of &#39;Big Information&#39;](https://www.wired.com/story/big-information-relx-privacy-surveillance-data/)
+ - [Q&amp;A with the lawyers &quot;challenging the legality of GitHub Copilot&quot; through a proposed class action suit, which could have a huge impact on generative AI models &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221109/p18#a221109p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
