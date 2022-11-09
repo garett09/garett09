@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
- - 🚯 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
- - 🚯 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)<!-- MEMES:END -->
+ - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - 🚯 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)<!-- MEMES:END -->
 
 --- 
 
