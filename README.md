@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
- - 🚯 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)<!-- MEMES:END -->
+ - 🚖 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
+ - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
 
 --- 
 
