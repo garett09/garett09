@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s selling a nerfed GPU in China to get around export restrictions](https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions)
- - [Twitter plans to label select accounts &quot;Official&quot; when the new Blue launches; not all previously verified accounts will get the label, which won&#39;t be for sale &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221108/p32#a221108p32)
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)<!-- TECH:END -->
+ - [How to Use Apple Pay or Google Pay Instead of Plastic Cards](https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/)
+ - [Best early Black Friday deals on Apple for the week of November 7](https://appleinsider.com/articles/22/11/07/best-early-black-friday-deals-on-apple-for-the-week-of-november-7?utm_medium=rss)
+ - [NYC-based Laika, which offers companies an automated security compliance service, raised a $50M Series C led by Fin Capital, bringing its total funding to $98M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221108/p35#a221108p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
