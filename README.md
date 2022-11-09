@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [UK 5G in the centre of London\u2026](http://9gag.com/gag/amAzeb6)
- - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)<!-- MEMES:END -->
+ - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 🚯 [We all know sumpin up wiff dis white kid.](http://9gag.com/gag/axoDxMp)<!-- MEMES:END -->
 
 --- 
 
