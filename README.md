@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces a new joint venture, called Nintendo Systems, with DeNA, which co-developed several Nintendo titles for mobile, including Fire Emblem Heroes &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/221108/p41#a221108p41)
- - [Glow, which aims to automate the insurance process for SMEs, has raised a $22.5M Series A led by Cota Capital &lpar;JD Alois/Crowdfund Insider&rpar;](http://www.techmeme.com/221108/p40#a221108p40)
- - [Ethereum co-founder Anthony Di Iorio launches Andiami to promote decentralization of blockchain infrastructure through plug-and-play servers known as Cubes &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/221108/p39#a221108p39)<!-- TECH:END -->
+ - [Paris-based Mytraffic, which offers location analytics tech to measure vehicle and footfall traffic, raised a &amp;euro;30M Series B, bringing its total funding to &amp;euro;45M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221109/p1#a221109p1)
+ - [Apple to begin mass production on MR headset in early 2023](https://appleinsider.com/articles/22/11/09/apple-to-begin-mass-production-on-mr-headset-in-early-2023?utm_medium=rss)
+ - [Nintendo announces a new joint venture, called Nintendo Systems, with DeNA, which co-developed several Nintendo titles for mobile, including Fire Emblem Heroes &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/221108/p41#a221108p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
