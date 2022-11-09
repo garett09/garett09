@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok slashed its global revenue targets from $12B-$14.5B to ~$10B; employees complain that the company overspent in salaries, social events, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/221109/p3#a221109p3)
- - [A profile of Andreessen Horowitz&#39;s Sriram Krishnan, a former Twitter executive who is helping Elon Musk run Twitter and is reportedly part of his &quot;inner circle&quot; &lpar;Zoya Mateen/BBC&rpar;](http://www.techmeme.com/221109/p2#a221109p2)
- - [New Samsung Galaxy Z Flip 4 special edition gets exclusive UI and accessories](https://www.androidauthority.com/samsung-galaxy-z-flip-4-maison-margiela-edition-3232904/)<!-- TECH:END -->
+ - [As China encourages digital yuan adoption among its citizens, experts say the digital currency opens up new forms of government surveillance and social control &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221109/p4#a221109p4)
+ - [Twitter will soon have two checkmarks: Here’s what the second one signifies](https://www.androidauthority.com/twitter-official-accounts-3232963/)
+ - [Sources: TikTok cut its 2022 revenue target from $12B-$14.5B to ~$10B in September, as some staff complain of overspending on salaries, social events, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/221109/p3#a221109p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
