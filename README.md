@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
- - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)
- - 🚯 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)<!-- MEMES:END -->
+ - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
 
 --- 
 
