@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - 🚯 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
+ - 🚖 [How to create a river](http://9gag.com/gag/a4oZ4RZ)
+ - 🚯 [Slap me](http://9gag.com/gag/amArX62)
+ - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
 
 --- 
 
