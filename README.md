@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Countries Hit Hardest by Climate Change May Finally Get Their Due](https://www.wired.com/story/cop27-climate-reparations/)
- - [Google rolls out its Google One VPN to Windows and macOS in 22 countries; the service is available to Premium subscribers with 2TB+ storage &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221109/p28#a221109p28)
- - [Microsoft’s DirectStorage 1.1 arrives to boost PC game load times with GPU decompression](https://www.theverge.com/2022/11/9/23449382/microsoft-directstorage-1-1-gpu-decompression-load-times-drivers-official)<!-- TECH:END -->
+ - [Here are the best sports documentaries on Netflix, Disney Plus, and more](https://www.androidauthority.com/best-sports-documentaries-3232029/)
+ - [Andor’s designers approached it like a Star Wars period drama](https://www.theverge.com/23445550/star-wars-andor-production-costume-design-interview)
+ - [Musk Twitter mayhem continues with short-lived grey checkmark](https://appleinsider.com/articles/22/11/09/musk-twitter-mayhem-continues-with-short-lived-grey-checkmark?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
