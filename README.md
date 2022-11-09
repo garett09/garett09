@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Google Home users can sign up to test the redesigned app](https://www.theverge.com/2022/11/9/23449215/google-home-app-public-preview)
- - [DeFi Llama: the total value locked in DeFi has dropped by 12%+ in the past day, after hovering around $50B to $60B since June 2022 and $180B+ in December 2021 &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/221109/p33#a221109p33)
- - [Apple iCloud Photos now compatible with Windows 11 Photos](https://appleinsider.com/articles/22/11/09/apple-icloud-photos-now-compatible-with-windows-11-photos?utm_medium=rss)<!-- TECH:END -->
+ - [Binance won’t bail out FTX, cites reports of ‘mishandled customer funds’](https://www.theverge.com/2022/11/9/23450044/binance-ftx-acquisition-abandoned-alameda-crypto-contagion)
+ - [Paid checkmarks on Twitter roll out in new subscription plan](https://appleinsider.com/articles/22/11/09/paid-checkmarks-on-twitter-roll-out-in-new-subscription-plan?utm_medium=rss)
+ - [Hot Pod Summit LA: from Crooked to Coco](https://www.theverge.com/2022/11/9/23449989/hot-pod-summit-coco-conan-crooked-pod-save-spotify)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
