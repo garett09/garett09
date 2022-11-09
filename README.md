@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance won’t bail out FTX, cites reports of ‘mishandled customer funds’](https://www.theverge.com/2022/11/9/23450044/binance-ftx-acquisition-abandoned-alameda-crypto-contagion)
- - [Paid checkmarks on Twitter roll out in new subscription plan](https://appleinsider.com/articles/22/11/09/paid-checkmarks-on-twitter-roll-out-in-new-subscription-plan?utm_medium=rss)
- - [Hot Pod Summit LA: from Crooked to Coco](https://www.theverge.com/2022/11/9/23449989/hot-pod-summit-coco-conan-crooked-pod-save-spotify)<!-- TECH:END -->
+ - [The Pixel Watch calorie bug is a reminder of why ‘accuracy’ isn’t everything](https://www.theverge.com/2022/11/9/23449515/google-pixel-watch-fitbit-calorie-burn-wearable)
+ - [FTX-linked Alameda Research withdrew ~$37M worth of wrapped bitcoin from crypto exchange FTX.US on Wednesday &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/221109/p37#a221109p37)
+ - [Coinbase&#39;s stock closed down 9.54%, Robinhood closed down 13.76%, and MicroStrategy closed down 19.58%, amid a meltdown in crypto markets &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/221109/p36#a221109p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
