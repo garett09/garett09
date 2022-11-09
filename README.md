@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Details on the next Pixel phones are already leaking](https://www.theverge.com/2022/11/9/23449051/google-pixel-8-7a-pro-rumors-leaks-shiba-husky)
- - [Apple &amp; Amazon sued over illegal price fixing collusion](https://appleinsider.com/articles/22/11/09/apple-amazon-sued-over-illegal-price-fixing-collusion?utm_medium=rss)
- - [Google Nest Mini just hit a ridiculously giftable price of $18](https://www.androidauthority.com/google-nest-mini-deal-nov-2022-3233181/)<!-- TECH:END -->
+ - [Now Google Home users can sign up to test the redesigned app](https://www.theverge.com/2022/11/9/23449215/google-home-app-public-preview)
+ - [DeFi Llama: the total value locked in DeFi has dropped by 12%+ in the past day, after hovering around $50B to $60B since June 2022 and $180B+ in December 2021 &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/221109/p33#a221109p33)
+ - [Apple iCloud Photos now compatible with Windows 11 Photos](https://appleinsider.com/articles/22/11/09/apple-icloud-photos-now-compatible-with-windows-11-photos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
