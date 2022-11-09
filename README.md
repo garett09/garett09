@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best sports documentaries on Netflix, Disney Plus, and more](https://www.androidauthority.com/best-sports-documentaries-3232029/)
- - [Andor’s designers approached it like a Star Wars period drama](https://www.theverge.com/23445550/star-wars-andor-production-costume-design-interview)
- - [Musk Twitter mayhem continues with short-lived grey checkmark](https://appleinsider.com/articles/22/11/09/musk-twitter-mayhem-continues-with-short-lived-grey-checkmark?utm_medium=rss)<!-- TECH:END -->
+ - [Details on the next Pixel phones are already leaking](https://www.theverge.com/2022/11/9/23449051/google-pixel-8-7a-pro-rumors-leaks-shiba-husky)
+ - [Apple &amp; Amazon sued over illegal price fixing collusion](https://appleinsider.com/articles/22/11/09/apple-amazon-sued-over-illegal-price-fixing-collusion?utm_medium=rss)
+ - [Google Nest Mini just hit a ridiculously giftable price of $18](https://www.androidauthority.com/google-nest-mini-deal-nov-2022-3233181/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
