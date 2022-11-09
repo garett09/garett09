@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal of the Day: 21.5-inch iMac dips to all-time low $699.99](https://appleinsider.com/articles/22/11/09/deal-of-the-day-215-inch-imac-dips-to-all-time-low-69999?utm_medium=rss)
- - [Affinity Version 2 arrives to take on Adobe Creative Suite](https://www.theverge.com/2022/11/9/23448945/affinity-version-2-adobe-creative-app-features-price)
- - [Our Favorite Gadgets for Plant Parents](https://www.wired.com/story/our-favorite-gadgets-plant-parents/)<!-- TECH:END -->
+ - [The Polar Ignite 3 comes with a daily ‘alertness’ forecast](https://www.theverge.com/2022/11/9/23449106/polar-ignite-3-smartwatch-fitness-tracker-alertness-levels)
+ - [Razer made a customizable PS5 controller that — you guessed it — is very expensive](https://www.theverge.com/2022/11/9/23447894/razer-wolverine-v2-pro-wireless-playstation-5-ps5-pc-controller-price-features)
+ - [3 things the Pixel Watch does better and worse than the Galaxy Watch 5](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-5-3231716/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
