@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
- - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
  - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
 
 --- 
