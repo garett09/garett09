@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s 11,000 job cuts may be only the beginning](https://appleinsider.com/articles/22/11/09/metas-11000-job-cuts-may-be-only-the-beginning?utm_medium=rss)
- - [Apple is working on a Custom Accessibility Mode for iOS 16.2 beta 2, codenamed Clarity, helping make the iPhone&#39;s and the iPad&#39;s UI more user-friendly &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/221109/p12#a221109p12)
- - [Twitter Users Have Caused a Mastodon Meltdown](https://www.wired.com/story/twitter-users-mastodon-meltdown/)<!-- TECH:END -->
+ - [Roblox reports Q3 revenue up 2% YoY to $517.7M, bookings up 10% YoY to $701.7M, and DAUs up 24% YoY to 58.8M; stock drops 15%+ on a larger-than-expected loss &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221109/p17#a221109p17)
+ - [Here are our favorite ways to survive Thanksgiving](https://www.theverge.com/23440305/thanksgiving-devices-cooking-switch)
+ - [Serif overhauls whole Affinity range, adds new iPad Publisher](https://appleinsider.com/articles/22/11/09/serif-overhauls-whole-affinity-range-adds-new-ipad-publisher?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
