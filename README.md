@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forza Horizon 5 on PC gets improved ray tracing, DLSS, FSR, and more](https://www.theverge.com/2022/11/9/23448928/forza-horizon-5-ray-tracing-dlss-fsr-dlaa-pc-support)
- - [Hours after announcing an emergency deal with Binance, FTX CEO Sam Bankman-Fried deletes a Twitter thread saying the exchange and assets were &quot;fine&quot; &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/221109/p6#a221109p6)
- - [Filings: after taking over Twitter, Elon Musk sold 19.5M Tesla shares, worth almost $4B, between November 4-8; Musk retains a roughly 14% stake in Tesla &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/221109/p5#a221109p5)<!-- TECH:END -->
+ - [An interview with CEO Dylan Field on scaling Figma, selling the company to Adobe, retaining autonomy, WebGL, making VR Figma for the metaverse, AGI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221109/p10#a221109p10)
+ - [TSMC plans second Arizona plant following US grants](https://appleinsider.com/articles/22/11/09/tsmc-plans-second-arizona-plant-following-us-grants?utm_medium=rss)
+ - [Sources: TSMC plans to announce a second chipmaking factory north of Phoenix, Arizona, in the coming months, investing roughly $12B and aiming to make 3nm chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221109/p9#a221109p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
