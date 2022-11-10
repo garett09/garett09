@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 10: $800 M1 12.9-inch iPad Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/22/11/10/daily-deals-nov-10-800-m1-129-inch-ipad-pro-100-off-m2-macbook-airmore?utm_medium=rss)
- - [Early Black Friday MacBook Pro price war rages on, 14-inch models from $1,599](https://appleinsider.com/articles/22/11/10/early-black-friday-macbook-pro-price-war-rages-on-14-inch-models-from-1599?utm_medium=rss)
- - [BZFuture Black Friday: Get the Motospeed BK67 Keyboard for just $47.90](https://www.androidauthority.com/bzfuture-black-friday-deals-3233286/)<!-- TECH:END -->
+ - [John Wick: Chapter 4’s latest trailer introduces the new management](https://www.theverge.com/2022/11/10/23451451/john-wick-chapter-4-trailer-keanu-reeves-bill-skarsgard)
+ - [LG Display’s ‘stretchable’ prototype display could attach to skin, clothing, and furniture](https://www.theverge.com/2022/11/10/23451356/lg-display-stretchable-screen-prototype-announcement)
+ - [High-profile resignations put Twitter at risk of giant FTC fines](https://appleinsider.com/articles/22/11/10/high-profile-resignations-put-twitter-at-risk-of-giant-ftc-fines?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
