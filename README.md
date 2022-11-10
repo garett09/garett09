@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue’s new smart string lights arrive just in time for the holiday season](https://www.theverge.com/2022/11/10/23449652/philips-hue-festavia-string-lights-price-release-date)
- - [A look at Birdwatch, soon to be renamed Community Notes, as Twitter scales back professional debunkings: 194 people submitted notes posted in the past month &lpar;Washington Post&rpar;](http://www.techmeme.com/221110/p3#a221110p3)
- - [&#39;God of War Ragnarok&#39;: What Story Points To Remember Before Playing     - CNET](https://www.cnet.com/tech/gaming/god-of-war-ragnarok-what-story-points-to-remember-before-playing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new foldable flagship is coming on November 23](https://www.androidauthority.com/honor-magic-vs-3233471/)
+ - [Elon Musk ends remote work at Twitter, tells staff to prepare for ‘difficult times ahead’](https://www.theverge.com/2022/11/10/23450942/elon-musk-twitter-first-email-staff-difficult-times-ahead-remote-work)
+ - [The best smartwatches and fitness trackers for healthcare workers](https://www.androidauthority.com/best-smartwatch-healthcare-workers-3231786/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
