@@ -77,6 +77,24 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img src="https://img.shields.io/badge/-Adrian%20Garett%20Sian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/"/></a> &nbsp;
 
 ---
+    
+    
+### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
+<table>
+<tr>
+<td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&langs_count=10&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Garett's GitHub Stats" />
+</td>
+</tr>
+</table>
+    
+
+![Garett's Activity Graph](https://activity-graph.herokuapp.com/graph?username=garett09&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
+    
+---
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Languages & Platforms
 
@@ -98,22 +116,6 @@ while(dev.isCoding() && dev.isStuck())
     	
 
 ---
-
-### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
-<table>
-<tr>
-<td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
-</td>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&langs_count=10&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Garett's GitHub Stats" />
-</td>
-</tr>
-</table>
-
-![Garett's Activity Graph](https://activity-graph.herokuapp.com/graph?username=garett09&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
-
-
 
 
 ### :zap: Recent Activity
