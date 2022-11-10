@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Experts and Western officials say the Egyptian government&#39;s Android app for the COP27 climate summit could help spy on emails, messages, and voice conversations &lpar;Politico&rpar;](http://www.techmeme.com/221110/p8#a221110p8)
- - [Apple limits AirDrop in China, will reduce its use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)
- - [Best Amazon Deals: Ring Video Doorbells, Eero Mesh Routers and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Big Fight Over 403 Very Small Wasps](https://www.wired.com/story/big-fight-small-wasps-taxonomy-biodiversity/)
+ - [Apple limits AirDrop in China, will reduce its use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
