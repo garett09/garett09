@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
- - 🚯 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
- - 🚯 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
+ - 🚖 [Word Of Advice: DON&#39;T TOUCH IT.](http://9gag.com/gag/axogEMM)
+ - 🚯 [Wise words were spoken...](http://9gag.com/gag/aBd1qZO)
+ - 🚯 [He went for it](http://9gag.com/gag/az2A6db)<!-- MEMES:END -->
 
 --- 
 
