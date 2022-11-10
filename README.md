@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [Don&#39;t let anyone tell you otherwise.](http://9gag.com/gag/amAr0m4)
- - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
+ - 🚖 [Banksy has recently travelled to Ukraine and painted 2 pieces that we know of till now.](http://9gag.com/gag/agoqNqr)
+ - 🚯 [This cat getting the massage of his lifetime](http://9gag.com/gag/az2rgwZ)
+ - 🚯 [Shark Tank](http://9gag.com/gag/aeQY045)<!-- MEMES:END -->
 
 --- 
 
