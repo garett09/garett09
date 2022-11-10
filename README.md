@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
- - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
- - 🚯 [This is going whale](http://9gag.com/gag/aVbDW48)<!-- MEMES:END -->
+ - 🚯 [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
+ - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 --- 
 
