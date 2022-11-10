@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new foldable flagship is coming on November 23](https://www.androidauthority.com/honor-magic-vs-3233471/)
- - [Elon Musk ends remote work at Twitter, tells staff to prepare for ‘difficult times ahead’](https://www.theverge.com/2022/11/10/23450942/elon-musk-twitter-first-email-staff-difficult-times-ahead-remote-work)
- - [The best smartwatches and fitness trackers for healthcare workers](https://www.androidauthority.com/best-smartwatch-healthcare-workers-3231786/)<!-- TECH:END -->
+ - [Experts and Western officials say the Egyptian government&#39;s Android app for the COP27 climate summit could help spy on emails, messages, and voice conversations &lpar;Politico&rpar;](http://www.techmeme.com/221110/p8#a221110p8)
+ - [Apple limits AirDrop in China, will reduce its use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)
+ - [Best Amazon Deals: Ring Video Doorbells, Eero Mesh Routers and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
