@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Word Of Advice: DON&#39;T TOUCH IT.](http://9gag.com/gag/axogEMM)
- - 🚯 [Wise words were spoken...](http://9gag.com/gag/aBd1qZO)
- - 🚯 [He went for it](http://9gag.com/gag/az2A6db)<!-- MEMES:END -->
+ - 🚖 [Sure](http://9gag.com/gag/a2K5eB9)
+ - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
 
 --- 
 
