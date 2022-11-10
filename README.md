@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn she salty ;&rpar;](http://9gag.com/gag/a9qWLXL)
- - 🚯 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - 🚯 [Some third world country ig](http://9gag.com/gag/aDYj3bB)<!-- MEMES:END -->
+ - 🚖 [When you actually trust your own product .](http://9gag.com/gag/anzye5E)
+ - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
+ - 🚯 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)<!-- MEMES:END -->
 
 --- 
 
