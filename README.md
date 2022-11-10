@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you actually trust your own product .](http://9gag.com/gag/anzye5E)
+ - 🚖 [Some third world country ig](http://9gag.com/gag/aDYj3bB)
  - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
- - 🚯 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)<!-- MEMES:END -->
+ - 🚯 [Title](http://9gag.com/gag/a2KdYx1)<!-- MEMES:END -->
 
 --- 
 
