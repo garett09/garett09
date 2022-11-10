@@ -145,8 +145,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This show is a gem &lpar;Malcolm in the middle&rpar;](http://9gag.com/gag/amArXoj)
- - 🚯 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
+ - 🚖 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
+ - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
  - 🚯 [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)<!-- MEMES:END -->
 
 --- 
