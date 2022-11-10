@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
- - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
- - 🚯 [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)<!-- MEMES:END -->
+ - 🚖 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - 🚯 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [When you carry your team but nobody acknowledges your commitment.](http://9gag.com/gag/aNwWNpw)<!-- MEMES:END -->
 
 --- 
 
