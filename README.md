@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)
- - 🚯 [In marriage you play chess or play checkers](http://9gag.com/gag/a7qZbNm)
- - 🚯 [The embarrassment he felt was way too much. Lmao.](http://9gag.com/gag/ap9rv6M)<!-- MEMES:END -->
+ - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [Well, that does it!](http://9gag.com/gag/avQr0zW)
+ - 🚯 [______](http://9gag.com/gag/a9qWPrD)<!-- MEMES:END -->
 
 --- 
 
