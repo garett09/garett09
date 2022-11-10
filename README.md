@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - 🚯 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - 🚯 [When you carry your team but nobody acknowledges your commitment.](http://9gag.com/gag/aNwWNpw)<!-- MEMES:END -->
+ - 🚖 [Bear Attack](http://9gag.com/gag/agoq0Dq)
+ - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)
+ - 🚯 [We all know sumpin up wiff dis white kid.](http://9gag.com/gag/axoDxMp)<!-- MEMES:END -->
 
 --- 
 
