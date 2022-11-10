@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Wick: Chapter 4’s latest trailer introduces the new management](https://www.theverge.com/2022/11/10/23451451/john-wick-chapter-4-trailer-keanu-reeves-bill-skarsgard)
- - [LG Display’s ‘stretchable’ prototype display could attach to skin, clothing, and furniture](https://www.theverge.com/2022/11/10/23451356/lg-display-stretchable-screen-prototype-announcement)
- - [High-profile resignations put Twitter at risk of giant FTC fines](https://appleinsider.com/articles/22/11/10/high-profile-resignations-put-twitter-at-risk-of-giant-ftc-fines?utm_medium=rss)<!-- TECH:END -->
+ - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-2022-wear-os)
+ - [Wearables might be able to screen for premature birth](https://www.theverge.com/2022/11/10/23451084/wearable-whoop-premature-birth-pregnancy-study)
+ - [Your own personal Google: how Mem plans to reinvent note-taking apps with AI](https://www.theverge.com/2022/11/10/23424972/mem-ai-notes-app-search-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
