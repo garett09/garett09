@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York- and Bengaluru-based Amagi, a streaming video and ads infrastructure startup, raised a $100M+ Series F led by General Atlantic at a $1.4B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221110/p14#a221110p14)
- - [As FTX faces bankruptcy, an attempt to untangle its extremely complex corporate structure, which could pose a problem for liquidators and law enforcement &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/221110/p13#a221110p13)
- - [Apple&#39;s Emergency SOS is coming in November, cost $450M](https://appleinsider.com/articles/22/11/10/apple-spent-450-million-on-us-infrastructure-to-make-emergency-sos?utm_medium=rss)<!-- TECH:END -->
+ - [[Thread] FTX CEO SBF apologizes, says he &quot;fucked up&quot;, claims his priority is &quot;doing right by users&quot;, plans to raise funds and shutter Alameda, and more &lpar;@sbf_ftx&rpar;](http://www.techmeme.com/221110/p15#a221110p15)
+ - [The best new streaming movies this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [iPhone 14’s Emergency SOS via satellite feature is coming later this month](https://www.theverge.com/2022/11/10/23451069/apple-iphone-14-satellite-sos-globalstar-ios-16-update-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
