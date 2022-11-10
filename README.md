@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - 🚯 [Well, that does it!](http://9gag.com/gag/avQr0zW)
- - 🚯 [______](http://9gag.com/gag/a9qWPrD)<!-- MEMES:END -->
+ - 🚖 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
+ - 🚯 [Sweet life](http://9gag.com/gag/aEqR7BG)
+ - 🚯 [Who\u2019s going to North Korea for World Cup 2026? \ud83c\uddf0\ud83c\uddf5\u26bd\ufe0f](http://9gag.com/gag/aDYjGAw)<!-- MEMES:END -->
 
 --- 
 
