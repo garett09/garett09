@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts and Western officials say the Egyptian government&#39;s Android app for the COP27 climate summit could help spy on emails, messages, and voice conversations &lpar;Politico&rpar;](http://www.techmeme.com/221110/p8#a221110p8)
- - [The Big Fight Over 403 Very Small Wasps](https://www.wired.com/story/big-fight-small-wasps-taxonomy-biodiversity/)
- - [Apple limits AirDrop in China, will reduce its use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)<!-- TECH:END -->
+ - [A look at GOP plans for Big Tech if they retake the House: few new laws, hearings on Meta, Twitter, Google, and others, chipping away at Section 230, and more &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/221110/p9#a221110p9)
+ - [How to get your Apple Music Replay playlist today](https://appleinsider.com/articles/21/12/01/dont-get-spotify-fomo----heres-how-to-get-your-apple-music-replay?utm_medium=rss)
+ - [A Tweet Before Dying](https://www.wired.com/story/tweet-dying-revolutionary-internet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
