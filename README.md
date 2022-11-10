@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sure](http://9gag.com/gag/a2K5eB9)
- - 🚯 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
+ - 🚖 [This show is a gem &lpar;Malcolm in the middle&rpar;](http://9gag.com/gag/amArXoj)
+ - 🚯 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
+ - 🚯 [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)<!-- MEMES:END -->
 
 --- 
 
