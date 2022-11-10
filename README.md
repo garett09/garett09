@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some third world country ig](http://9gag.com/gag/aDYj3bB)
- - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
- - 🚯 [Title](http://9gag.com/gag/a2KdYx1)<!-- MEMES:END -->
+ - 🚖 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)
+ - 🚯 [In marriage you play chess or play checkers](http://9gag.com/gag/a7qZbNm)
+ - 🚯 [The embarrassment he felt was way too much. Lmao.](http://9gag.com/gag/ap9rv6M)<!-- MEMES:END -->
 
 --- 
 
