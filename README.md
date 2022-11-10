@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fake Twitter accounts of athletes and other prominent people, some now suspended, are spreading fake news amid the chaos around the new paid Blue checkmark &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221109/p40#a221109p40)
- - [Apple hires Facebook exec to lead its information systems department](https://appleinsider.com/articles/22/11/10/apple-hires-facebook-exec-to-lead-its-information-systems-department?utm_medium=rss)
- - [Source: Sam Bankman-Fried told investors that FTX needs a cash injection or the company would need to file for bankruptcy due to a shortfall of up to $8B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/221109/p39#a221109p39)<!-- TECH:END -->
+ - [Auto sales ‘overshoot’ will make it impossible to prevent the worst effects of climate change](https://www.theverge.com/2022/11/9/23450027/auto-sales-climate-vw-gm-toyota-hyundai-greenpeace)
+ - [&#39;Andor&#39; Episode 10 Explained: Cassian and Company Strike Back, With a Major Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-cassian-and-company-strike-back-with-a-major-sacrifice/#ftag=CAD590a51e)
+ - [Apple&#39;s AirTags for Your Checked Bags Are a Travel Essential     - CNET](https://www.cnet.com/tech/mobile/apples-airtags-for-your-checked-bags-are-a-travel-essential/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
