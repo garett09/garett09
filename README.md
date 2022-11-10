@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chris Rock is hosting a live comedy special on Netflix in early 2023](https://www.theverge.com/2022/11/10/23451880/netflix-chris-rock-comedy-live-special-2023)
- - [LGear Lightning 2-in-1 charger: Good for iPhones, not for AirPods](https://appleinsider.com/articles/22/11/10/lgear-lightning-2-in-1-charger-good-for-iphones-not-for-airpods?utm_medium=rss)
- - [Apple plans to expand AirDrop time limit to customers worldwide](https://appleinsider.com/articles/22/11/10/apple-plans-to-expand-airdrop-time-limit-to-customers-worldwide?utm_medium=rss)<!-- TECH:END -->
+ - [Tumblr will sell you two useless blue check marks for $8](https://www.theverge.com/2022/11/10/23451901/tumblr-blue-internet-checkmark-sale-twitter-verification-troll)
+ - [Spotify starts testing its own payments on Android — and Bumble will soon do the same](https://www.theverge.com/2022/11/10/23451643/spotify-google-android-user-choice-billing-now-available)
+ - [AMD announces its 4th-gen Epyc Genoa chips, based on the Zen 4 architecture, with up to 96 cores and support for DDR5, PCIe 5.0, and Compute Express Link &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/221110/p27#a221110p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
