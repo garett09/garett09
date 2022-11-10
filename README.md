@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Should Watch One of the Best TV Shows of 2022     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-best-tv-shows-of-2022/#ftag=CAD590a51e)
- - [Amazon becomes the world&#39;s first public company to lose $1T in market value, shrinking to ~$879B from $1.88T in July 2021; Microsoft lost $889B since Nov. 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221109/p38#a221109p38)
- - [Crypto Exchange Binance Walks Away From Rival FTX Trading Acquisition, Report Says     - CNET](https://www.cnet.com/personal-finance/crypto/crypto-exchange-binance-walks-away-from-rival-ftx-trading-acquisition-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fake Twitter accounts of athletes and other prominent people, some now suspended, are spreading fake news amid the chaos around the new paid Blue checkmark &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221109/p40#a221109p40)
+ - [Apple hires Facebook exec to lead its information systems department](https://appleinsider.com/articles/22/11/10/apple-hires-facebook-exec-to-lead-its-information-systems-department?utm_medium=rss)
+ - [Source: Sam Bankman-Fried told investors that FTX needs a cash injection or the company would need to file for bankruptcy due to a shortfall of up to $8B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/221109/p39#a221109p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
