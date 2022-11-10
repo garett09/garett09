@@ -103,10 +103,10 @@ while(dev.isCoding() && dev.isStuck())
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </td>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&langs_count=10&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Garett's GitHub Stats" />
 </td>
 </tr>
 </table>
