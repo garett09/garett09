@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-2022-wear-os)
- - [Wearables might be able to screen for premature birth](https://www.theverge.com/2022/11/10/23451084/wearable-whoop-premature-birth-pregnancy-study)
- - [Your own personal Google: how Mem plans to reinvent note-taking apps with AI](https://www.theverge.com/2022/11/10/23424972/mem-ai-notes-app-search-google)<!-- TECH:END -->
+ - [FTX reportedly used $10 billion of customer funds to prop up its owner’s trading firm](https://www.theverge.com/2022/11/10/23451484/ftx-customer-funds-alameda-research-sam-bankman-fried)
+ - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
+ - [Anita Sarkeesian Hates Talking About Gamergate—But She Has To](https://www.wired.com/story/anita-sarkeesian-gamergate-that-time-when/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
