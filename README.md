@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn she salty ;&rpar;](http://9gag.com/gag/a9qWLXL)
- - 🚯 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)
- - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)<!-- MEMES:END -->
+ - 🚖 [Show us One picture that sums up the country you live in.](http://9gag.com/gag/aYVKeKw)
+ - 🚯 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
+ - 🚯 [Title](http://9gag.com/gag/a2KdYx1)<!-- MEMES:END -->
 
 --- 
 
