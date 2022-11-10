@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
- - 🚯 [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
- - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
+ - 🚖 [Damn she salty ;&rpar;](http://9gag.com/gag/a9qWLXL)
+ - 🚯 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [Some third world country ig](http://9gag.com/gag/aDYj3bB)<!-- MEMES:END -->
 
 --- 
 
