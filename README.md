@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at GOP plans for Big Tech if they retake the House: few new laws, hearings on Meta, Twitter, Google, and others, chipping away at Section 230, and more &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/221110/p9#a221110p9)
- - [How to get your Apple Music Replay playlist today](https://appleinsider.com/articles/21/12/01/dont-get-spotify-fomo----heres-how-to-get-your-apple-music-replay?utm_medium=rss)
- - [A Tweet Before Dying](https://www.wired.com/story/tweet-dying-revolutionary-internet/)<!-- TECH:END -->
+ - [New York- and Bengaluru-based Amagi, a streaming video and ads infrastructure startup, raised a $100M+ Series F led by General Atlantic at a $1.4B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221110/p14#a221110p14)
+ - [As FTX faces bankruptcy, an attempt to untangle its extremely complex corporate structure, which could pose a problem for liquidators and law enforcement &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/221110/p13#a221110p13)
+ - [Apple&#39;s Emergency SOS is coming in November, cost $450M](https://appleinsider.com/articles/22/11/10/apple-spent-450-million-on-us-infrastructure-to-make-emergency-sos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
