@@ -140,7 +140,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Someone made a foldable iPhone using iPhone X internals and Motorola Razr parts](https://www.androidauthority.com/foldable-iphone-diy-project-3233411/)
  - [Law enforcement agents specializing in cryptocurrency investigations are leaving government agencies and joining firms like Binance, Coinbase, and Chainalysis &lpar;Gian M. Volpicelli/Wired&rpar;](http://www.techmeme.com/221110/p2#a221110p2)
- - [GitHub is experimenting &quot;Hey, GitHub!&quot;, a new voice-based interaction system for its Copilot software that will allow programmers to code with just their voice &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221110/p1#a221110p1)<!-- TECH:END -->
+ - [GitHub is experimenting with &quot;Hey, GitHub!&quot;, a voice-based interaction system for its Copilot software that will allow programmers to code with just their voice &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221110/p1#a221110p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
