@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vampire Survivors Available Today with Xbox Game Pass for Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/11/10/vampire-survivors-available-today-with-xbox-game-pass/)
  - [10 activities Frey can dive into in Forspoken](https://blog.playstation.com/2022/11/10/10-activities-frey-can-dive-into-in-forspoken/)
- - [Free Play Days – Overcooked! All You Can Eat, Just Die Already, and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2022/11/10/free-play-days-overcooked-all-you-can-eat-just-die-already-and-dragon-ball-xenoverse-2/)
- - [More than remasters: Taking Crisis Core Final Fantasy VII Reunion and Tactics Ogre: Reborn from handheld to console](https://blog.playstation.com/2022/11/10/more-than-remasters-taking-crisis-core-final-fantasy-vii-reunion-and-tactics-ogre-reborn-from-handheld-to-console/)<!-- GAME:END -->
+ - [Free Play Days – Overcooked! All You Can Eat, Just Die Already, and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2022/11/10/free-play-days-overcooked-all-you-can-eat-just-die-already-and-dragon-ball-xenoverse-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
