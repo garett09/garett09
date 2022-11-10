@@ -83,7 +83,7 @@ while(dev.isCoding() && dev.isStuck())
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D](http://github-readme-streak-stats.herokuapp.com?user=garett09&theme=highcontrast&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D" />
 </td>
 <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&langs_count=10&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Garett's GitHub Stats" />
