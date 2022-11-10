@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eight Things You Should Know Before Playing Return to Monkey Island](https://news.xbox.com/en-us/2022/11/09/eight-things-you-should-know-before-playing-return-to-monkey-island/)
- - [Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0 Season 01 Arrives November 16](https://news.xbox.com/en-us/2022/11/09/call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-2-0-season-01-arrives-november-16/)
- - [Everything to know about Call of Duty: Modern Warfare II and Warzone 2.0 Season 1, out November 16](https://blog.playstation.com/2022/11/09/everything-to-know-about-call-of-duty-modern-warfare-ii-and-warzone-2-0-season-1-out-november-16/)<!-- GAME:END -->
+ - [Andor’s prison trilogy weaponizes the iconic parts of the Star Wars universe](https://www.polygon.com/23449781/andor-prison-kino-loy-review-planet)
+ - [How to complete A Grave Mystery in Sonic Frontiers](https://www.pcgamer.com/sonic-frontiers-grave-mystery-puzzle)
+ - [Someone Is Livestreaming All Of Pokémon Scarlet And Violet A Week Ahead Of Release](https://kotaku.com/pokemon-scarlet-and-violet-nintendo-leak-livestream-1849766487)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
