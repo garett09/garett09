@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Mechanical Keyboards for PC &lpar;2022&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [Stay Organized on Outdoor Adventures With This Rugged Bin](https://www.wired.com/story/rux-70l-storage-bag-rave/)
- - [Apple&#39;s Emergency SOS is coming in November, after $450M investment](https://appleinsider.com/articles/22/11/10/apple-spent-450-million-on-us-infrastructure-to-make-emergency-sos?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 10: $800 M1 12.9-inch iPad Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/22/11/10/daily-deals-nov-10-800-m1-129-inch-ipad-pro-100-off-m2-macbook-airmore?utm_medium=rss)
+ - [Early Black Friday MacBook Pro price war rages on, 14-inch models from $1,599](https://appleinsider.com/articles/22/11/10/early-black-friday-macbook-pro-price-war-rages-on-14-inch-models-from-1599?utm_medium=rss)
+ - [BZFuture Black Friday: Get the Motospeed BK67 Keyboard for just $47.90](https://www.androidauthority.com/bzfuture-black-friday-deals-3233286/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
