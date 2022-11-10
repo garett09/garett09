@@ -145,9 +145,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bear Attack](http://9gag.com/gag/agoq0Dq)
- - 🚯 [ABOMINATION](http://9gag.com/gag/az2AWVj)
- - 🚯 [We all know sumpin up wiff dis white kid.](http://9gag.com/gag/axoDxMp)<!-- MEMES:END -->
+ - 🚖 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 🚯 [Don&#39;t let anyone tell you otherwise.](http://9gag.com/gag/amAr0m4)
+ - 🚯 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 --- 
 
