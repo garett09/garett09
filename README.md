@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] FTX CEO SBF apologizes, says he &quot;fucked up&quot;, claims his priority is &quot;doing right by users&quot;, plans to raise funds and shutter Alameda, and more &lpar;@sbf_ftx&rpar;](http://www.techmeme.com/221110/p15#a221110p15)
- - [The best new streaming movies this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [iPhone 14’s Emergency SOS via satellite feature is coming later this month](https://www.theverge.com/2022/11/10/23451069/apple-iphone-14-satellite-sos-globalstar-ios-16-update-release-date)<!-- TECH:END -->
+ - [13 Best Mechanical Keyboards for PC &lpar;2022&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Stay Organized on Outdoor Adventures With This Rugged Bin](https://www.wired.com/story/rux-70l-storage-bag-rave/)
+ - [Apple&#39;s Emergency SOS is coming in November, after $450M investment](https://appleinsider.com/articles/22/11/10/apple-spent-450-million-on-us-infrastructure-to-make-emergency-sos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
