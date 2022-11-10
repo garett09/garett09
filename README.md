@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
- - 🚯 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)
- - 🚯 [Title](http://9gag.com/gag/a2KdYx1)<!-- MEMES:END -->
+ - 🚖 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
+ - 🚯 [Who will win?](http://9gag.com/gag/aREKgYB)
+ - 🚯 [This is going whale](http://9gag.com/gag/aVbDW48)<!-- MEMES:END -->
 
 --- 
 
