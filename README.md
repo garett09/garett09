@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show us One picture that sums up the country you live in.](http://9gag.com/gag/aYVKeKw)
- - 🚯 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
- - 🚯 [Title](http://9gag.com/gag/a2KdYx1)<!-- MEMES:END -->
+ - 🚖 [Well, that does it!](http://9gag.com/gag/avQr0zW)
+ - 🚯 [Apple charges $250 to repair AirPod Pros &lpar;Gen 1&rpar;](http://9gag.com/gag/agoqGqK)
+ - 🚯 [Dude creates fake Nintendo account. Buys blue tick and posted this](http://9gag.com/gag/axogDwL)<!-- MEMES:END -->
 
 --- 
 
