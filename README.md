@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX reportedly used $10 billion of customer funds to prop up its owner’s trading firm](https://www.theverge.com/2022/11/10/23451484/ftx-customer-funds-alameda-research-sam-bankman-fried)
- - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
- - [Anita Sarkeesian Hates Talking About Gamergate—But She Has To](https://www.wired.com/story/anita-sarkeesian-gamergate-that-time-when/)<!-- TECH:END -->
+ - [Chris Rock is hosting a live comedy special on Netflix in early 2023](https://www.theverge.com/2022/11/10/23451880/netflix-chris-rock-comedy-live-special-2023)
+ - [LGear Lightning 2-in-1 charger: Good for iPhones, not for AirPods](https://appleinsider.com/articles/22/11/10/lgear-lightning-2-in-1-charger-good-for-iphones-not-for-airpods?utm_medium=rss)
+ - [Apple plans to expand AirDrop time limit to customers worldwide](https://appleinsider.com/articles/22/11/10/apple-plans-to-expand-airdrop-time-limit-to-customers-worldwide?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
