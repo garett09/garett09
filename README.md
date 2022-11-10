@@ -138,9 +138,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auto sales ‘overshoot’ will make it impossible to prevent the worst effects of climate change](https://www.theverge.com/2022/11/9/23450027/auto-sales-climate-vw-gm-toyota-hyundai-greenpeace)
- - [&#39;Andor&#39; Episode 10 Explained: Cassian and Company Strike Back, With a Major Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-cassian-and-company-strike-back-with-a-major-sacrifice/#ftag=CAD590a51e)
- - [Apple&#39;s AirTags for Your Checked Bags Are a Travel Essential     - CNET](https://www.cnet.com/tech/mobile/apples-airtags-for-your-checked-bags-are-a-travel-essential/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AutoLeadStar, which provides AI-powered marketing automation technology to car dealerships and manufacturers, raised $40M led by Riverwood Capital &lpar;Globes Online&rpar;](http://www.techmeme.com/221109/p45#a221109p45)
+ - [Substack adds the ability to hyperlink mentions of other Substack writers or publications in posts, plus cross-post to amplify other writers or posts via email &lpar;On Substack&rpar;](http://www.techmeme.com/221109/p44#a221109p44)
+ - [Ping, which helps remote workers and freelancers collect international payments in both fiat and crypto, has raised a $15M seed from investors including YC &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221109/p43#a221109p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
