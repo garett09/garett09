@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr will sell you two useless blue check marks for $8](https://www.theverge.com/2022/11/10/23451901/tumblr-blue-internet-checkmark-sale-twitter-verification-troll)
- - [Spotify starts testing its own payments on Android — and Bumble will soon do the same](https://www.theverge.com/2022/11/10/23451643/spotify-google-android-user-choice-billing-now-available)
- - [AMD announces its 4th-gen Epyc Genoa chips, based on the Zen 4 architecture, with up to 96 cores and support for DDR5, PCIe 5.0, and Compute Express Link &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/221110/p27#a221110p27)<!-- TECH:END -->
+ - [Apple rolls out new AirTag firmware update](https://appleinsider.com/articles/22/11/10/apple-rolls-out-new-airtag-firmware-update?utm_medium=rss)
+ - [Early Black Friday MacBook Pro price war rages on, 14-inch models from $1,599](https://appleinsider.com/articles/22/11/10/early-black-friday-macbook-pro-price-war-rages-on-14-inch-models-from-1599?utm_medium=rss)
+ - [Sources: Twitter&#39;s head of Trust &amp; Safety Yoel Roth and head of sales Robin Wheeler resigned today &lpar;Bloomberg&rpar;](http://www.techmeme.com/221110/p30#a221110p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
