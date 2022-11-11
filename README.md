@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 11: $50 off new iPad, 10% off 55-inch 4K OLED LG TV, Sony XM5 headphones for $291, more](https://appleinsider.com/articles/22/11/11/daily-deals-nov-11-50-off-new-ipad-10-off-55-inch-4k-oled-lg-tv-sony-xm5-headphones-for-291-more?utm_medium=rss)
- - [Poll: Have you had any major issues with your Pixel 7 phone?](https://www.androidauthority.com/google-pixel-7-major-issues-poll-3231787/)
- - [The Problem With Spinning Spacecraft](https://www.wired.com/story/the-problem-with-spinning-spacecraft/)<!-- TECH:END -->
+ - [What are the best comedies on Peacock to stream today?](https://www.androidauthority.com/best-comedies-on-peacock-movies-tv-3232653/)
+ - [Meal Kits Like Blue Apron Get My Picky Kids to Eat Real Food](https://www.wired.com/story/blue-apron-rave/)
+ - [Home Office Setup Guide: Webcams, Desks, Chairs, and More &lpar;2022&rpar;](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
