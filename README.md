@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details how it created the iPhone 14’s Emergency SOS via satellite system](https://www.androidauthority.com/apple-emergency-sos-via-satellite-behind-the-scenes-3233868/)
- - [Honor&#39;s Upcoming Foldable May Have Only One Skinny Screen     - CNET](https://www.cnet.com/tech/mobile/honors-upcoming-foldable-phone-may-have-just-one-skinny-screen/#ftag=CAD590a51e)
- - [Leica’s latest phone is all about its massive camera, but good luck finding one](https://www.androidauthority.com/leica-leitz-phone-2-3233856/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 now getting stable One UI 5 update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
+ - [Twitter reactivates its gray &quot;Official&quot; badge for select high-profile accounts, after a wave of impersonators bought blue checks &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/221111/p2#a221111p2)
+ - [Spotify Wrapped 2022: What is it and when will it be released?](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
