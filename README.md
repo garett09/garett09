@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Android Auto UI is rolling out as a public beta now, finally](https://www.androidauthority.com/new-android-auto-3234052/)
- - [The best Black Friday smartwatch deals: 35% off the Fitbit Versa 4](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [Waymo’s driverless taxis keep making incremental progress, while others flounder](https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress)<!-- TECH:END -->
+ - [The Fallout of the FTX Collapse](https://www.wired.com/story/the-fallout-of-the-ftx-collapse/)
+ - [How to replace your Wi-Fi router without disconnecting all your devices](https://www.theverge.com/23453354/keep-smart-home-devices-online-replace-wifi-router-how-to)
+ - [19 Great Holiday Gifts for Teens in 2022     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-teenagers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
