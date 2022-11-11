@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nobody expects the Spanish inquisition.](http://9gag.com/gag/az2r7Em)
- - 🚯 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - 🚯 [The Kherson retreat](http://9gag.com/gag/aNwdd24)<!-- MEMES:END -->
+ - 🚖 [Mamizou Futatsuiwa wearing Raphtalia clothes &lpar;by hikari Niki&rpar;](http://9gag.com/gag/ay28yVb)
+ - 🚯 [Everyone loves Snoop](http://9gag.com/gag/ay2LLVM)
+ - 🚯 [Always 1 there is.](http://9gag.com/gag/abv6pyv)<!-- MEMES:END -->
 
 --- 
 
