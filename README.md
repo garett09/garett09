@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TransUnion data breach exposes consumers&#39; financial information](https://appleinsider.com/articles/22/11/10/transunion-data-breach-exposes-consumers-financial-information?utm_medium=rss)
- - [The Bahamas Securities Commission freezes the assets of FTX Digital Markets and &quot;related parties&quot; and appoints an attorney as a provisional liquidator &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/221110/p31#a221110p31)
- - [Amazon’s next-generation Prime Air delivery drone can fly further and through ‘light’ rain](https://www.theverge.com/2022/11/10/23451851/amazon-mk30-drone-prime-air-delivery)<!-- TECH:END -->
+ - [Inside Elon Musk’s first meeting with Twitter employees](https://www.theverge.com/2022/11/10/23452196/elon-musk-twitter-employee-meeting-q-and-a)
+ - [The government’s done a deep-dive on how consumers have been hurt by crypto](https://www.theverge.com/2022/11/10/23452247/cfpb-complaint-bulletin-crypto-assets-scams)
+ - [Current and former FTX and Alameda staffers say the Bahamian operation SBF ran with housemates is full of conflicts of interest, nepotism, and lack of oversight &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/221110/p32#a221110p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
