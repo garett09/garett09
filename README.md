@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mamizou Futatsuiwa wearing Raphtalia clothes &lpar;by hikari Niki&rpar;](http://9gag.com/gag/ay28yVb)
- - 🚯 [Everyone loves Snoop](http://9gag.com/gag/ay2LLVM)
- - 🚯 [Always 1 there is.](http://9gag.com/gag/abv6pyv)<!-- MEMES:END -->
+ - 🚖 [Who will win?](http://9gag.com/gag/aREKgYB)
+ - 🚯 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)<!-- MEMES:END -->
 
 --- 
 
