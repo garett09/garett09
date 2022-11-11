@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Emergency SOS, Twitter chaos, Apple&#39;s Freeform in beta](https://appleinsider.com/articles/22/11/11/iphone-14-emergency-sos-twitter-chaos-apples-freeform-in-beta?utm_medium=rss)
- - [Columbia&#39;s Ski-Jacket Tech Is Going to the Moon](https://www.wired.com/story/columbia-jacket-tech-moon-lander/)
- - [16 Best Wireless Earbuds &lpar;2022&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [Daily deals Nov. 11: $50 off new iPad, 10% off 55-inch 4K OLED LG TV, Sony XM5 headphones for $291, more](https://appleinsider.com/articles/22/11/11/daily-deals-nov-11-50-off-new-ipad-10-off-55-inch-4k-oled-lg-tv-sony-xm5-headphones-for-291-more?utm_medium=rss)
+ - [Poll: Have you had any major issues with your Pixel 7 phone?](https://www.androidauthority.com/google-pixel-7-major-issues-poll-3231787/)
+ - [The Problem With Spinning Spacecraft](https://www.wired.com/story/the-problem-with-spinning-spacecraft/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
