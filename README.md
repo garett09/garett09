@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter launches, then kills, then relaunches ‘official’ gray verification tags](https://www.androidauthority.com/twitter-official-accounts-3232963/)
- - [Galaxy Watch 4 update is bricking the wearable for some &lpar;Updated: New firmware&rpar;](https://www.androidauthority.com/galaxy-watch-4-bricking-3232056/)
- - [Japan plans to invest up to $500M in a new semiconductor company led by Japanese firms including Sony and NEC that aims to start manufacturing by the late 2020s &lpar;Reuters&rpar;](http://www.techmeme.com/221110/p38#a221110p38)<!-- TECH:END -->
+ - [Google Doodle Honors Veterans Day with 3D Sculpture of the American Flag     - CNET](https://www.cnet.com/culture/internet/google-doodle-honors-veterans-day-with-3d-sculpture-of-the-american-flag/#ftag=CAD590a51e)
+ - [Apple Limits AirDrop Feature in China After Protestors Used It, Says Report     - CNET](https://www.cnet.com/tech/mobile/apple-limits-airdrop-feature-in-china-after-protestors-used-it-says-report/#ftag=CAD590a51e)
+ - [Twitter launches, then kills, then relaunches ‘official’ gray verification tags](https://www.androidauthority.com/twitter-official-accounts-3232963/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
