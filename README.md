@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - 🚯 [Let\u2019s go hit the gym!](http://9gag.com/gag/aoK21R3)
- - 🚯 [Effort is effort](http://9gag.com/gag/armObr0)<!-- MEMES:END -->
+ - 🚖 [______](http://9gag.com/gag/a9qWPrD)
+ - 🚯 [Officer is it okay to pet??](http://9gag.com/gag/anzybDV)
+ - 🚯 [Ukrainians in liberated villages digging up hidden flags](http://9gag.com/gag/aA0wDdL)<!-- MEMES:END -->
 
 --- 
 
