@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple details how it created the iPhone 14’s Emergency SOS via satellite system](https://www.androidauthority.com/apple-emergency-sos-via-satellite-behind-the-scenes-3233868/)
  - [Honor&#39;s Upcoming Foldable May Have Only One Skinny Screen     - CNET](https://www.cnet.com/tech/mobile/honors-upcoming-foldable-phone-may-have-just-one-skinny-screen/#ftag=CAD590a51e)
- - [Leica’s latest phone is all about its massive camera, but good luck finding one](https://www.androidauthority.com/leica-leitz-phone-2-3233856/)
- - [Netflix announces that its first-ever live, global streaming event will be a comedy special from Chris Rock in early 2023 &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/221111/p1#a221111p1)<!-- TECH:END -->
+ - [Leica’s latest phone is all about its massive camera, but good luck finding one](https://www.androidauthority.com/leica-leitz-phone-2-3233856/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
