@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - 🚯 [Rhythmness](http://9gag.com/gag/ay2LxpV)
- - 🚯 [North Kore... sorry, it&#39;s Dagestan, Russia. Huge Z&#39;s and V&#39;s made up of children holding portraits of their dead fathers. First they send you to meaningless death, then use your kids for propaganda.](http://9gag.com/gag/aKE2DAb)<!-- MEMES:END -->
+ - 🚖 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
+ - 🚯 [All of a sudden](http://9gag.com/gag/aQEMe17)
+ - 🚯 [Imagine going to prison for up to 5 years for this picture. If she carried a protest sign, she might be sentenced to execution. Yet it&#39;s not about clothing but freedom of an Islamic theocracy, an end to a terrorist regime that terrorizes from Afghanistan to Ukraine and Venezuela](http://9gag.com/gag/a04d5Mn)<!-- MEMES:END -->
 
 --- 
 
