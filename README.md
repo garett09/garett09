@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 4 now getting stable One UI 5 update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
- - [Twitter reactivates its gray &quot;Official&quot; badge for select high-profile accounts, after a wave of impersonators bought blue checks &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/221111/p2#a221111p2)
- - [Spotify Wrapped 2022: What is it and when will it be released?](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)<!-- TECH:END -->
+ - [Interviews with 36 current and former Twitter employees detail the excruciating chaos during Elon Musk&#39;s first two weeks in charge &lpar;New York Times&rpar;](http://www.techmeme.com/221111/p5#a221111p5)
+ - [Atari 50 is an incredible playable tour through video game history](https://www.theverge.com/23451349/atari-50-review-xbox-playstation-switch-steam)
+ - [Moscow-based Kaspersky plans to shut down its Kaspersky Secure Connection VPN in Russia, starting with the free version on November 15, 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221111/p4#a221111p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
