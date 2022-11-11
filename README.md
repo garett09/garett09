@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - 🚯 [What&#39;s your best excuse?](http://9gag.com/gag/aOxdrdD)
+ - 🚖 [Bro is more Donald Trump than Donald Trump himself](http://9gag.com/gag/aeQYbRB)
+ - 🚯 [You do that in my house, you getting shot. The floor is cleaned once a week with steam mop and bleach, then on the daily its vacuumed and washed by a roomba, you can eat of the floor, so unless you eat of the bottom of your shoes, yes they are dirtier.](http://9gag.com/gag/a5XZoWG)
  - 🚯 [This is what actual liberation looks like.](http://9gag.com/gag/aZDB34p)<!-- MEMES:END -->
 
 --- 
