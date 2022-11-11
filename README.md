@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepsi](http://9gag.com/gag/aqerL9Q)
- - 🚯 [What&#39;s your best excuse?](http://9gag.com/gag/aOxdrdD)
- - 🚯 [Kherson is ours! It was the only one capital of a region that russians could capture. But don&#39;t forget what price Ukrainians paid for it. Thousands of heroes would live if we had enough heavy weapons.](http://9gag.com/gag/aYVKgB0)<!-- MEMES:END -->
+ - 🚖 [Netflix](http://9gag.com/gag/aZDB3LV)
+ - 🚯 [A cross-over I didn&#39;t knew I wanted](http://9gag.com/gag/aL1MjVg)
+ - 🚯 [Pure joy of Kherson people](http://9gag.com/gag/axogz1M)<!-- MEMES:END -->
 
 --- 
 
