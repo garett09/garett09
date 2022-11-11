@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)
+ - 🚖 [Had to get emergency heart surgery. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8](http://9gag.com/gag/axogDgY)
  - 🚯 [Clerk doesn&#39;t know much, but yet can add 1+1](http://9gag.com/gag/a04d5oz)
- - 🚯 [A grandpa in one of liberated Kherson villages. \u201cHello boys. I\u2019ve stolen from Russians two Suzukas, or how do you call them \u201c&lpar;meaning Bazookas&rpar; \u201cYou\u2019ve got two grenade launchers!? Bring them here pops\u201d](http://9gag.com/gag/aoK2OXw)<!-- MEMES:END -->
+ - 🚯 [What is the point of living now?](http://9gag.com/gag/az2rqWZ)<!-- MEMES:END -->
 
 --- 
 
