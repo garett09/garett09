@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro is more Donald Trump than Donald Trump himself](http://9gag.com/gag/aeQYbRB)
- - 🚯 [You do that in my house, you getting shot. The floor is cleaned once a week with steam mop and bleach, then on the daily its vacuumed and washed by a roomba, you can eat of the floor, so unless you eat of the bottom of your shoes, yes they are dirtier.](http://9gag.com/gag/a5XZoWG)
- - 🚯 [This is what actual liberation looks like.](http://9gag.com/gag/aZDB34p)<!-- MEMES:END -->
+ - 🚖 [Pepsi](http://9gag.com/gag/aqerL9Q)
+ - 🚯 [What&#39;s your best excuse?](http://9gag.com/gag/aOxdrdD)
+ - 🚯 [Kherson is ours! It was the only one capital of a region that russians could capture. But don&#39;t forget what price Ukrainians paid for it. Thousands of heroes would live if we had enough heavy weapons.](http://9gag.com/gag/aYVKgB0)<!-- MEMES:END -->
 
 --- 
 
