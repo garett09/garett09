@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s not cheating if respecting](http://9gag.com/gag/agoqY8v)
- - 🚯 [Kherson is FREE.](http://9gag.com/gag/az2r9xK)
- - 🚯 [Residents of the Kherson Region meet the soldiers of the Special Operations Forces of Ukraine](http://9gag.com/gag/aA0w3A0)<!-- MEMES:END -->
+ - 🚖 [Residents of the Kherson Region meet the soldiers of the Special Operations Forces of Ukraine](http://9gag.com/gag/aA0w3A0)
+ - 🚯 [Huge...](http://9gag.com/gag/aGE00On)
+ - 🚯 [Demining in Kherson region](http://9gag.com/gag/armOGP6)<!-- MEMES:END -->
 
 --- 
 
