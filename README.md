@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
- - 🚯 [This is going whale](http://9gag.com/gag/aVbDW48)
- - 🚯 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
+ - 🚖 [9 months ago I had a hair transplant and did a AMA. \u2018Hairs\u2019 a before, during and after update](http://9gag.com/gag/a6qMQz9)
+ - 🚯 [Close enough](http://9gag.com/gag/aYVKKgN)
+ - 🚯 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)<!-- MEMES:END -->
 
 --- 
 
