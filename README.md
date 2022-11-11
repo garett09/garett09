@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix](http://9gag.com/gag/aZDB3LV)
- - 🚯 [A cross-over I didn&#39;t knew I wanted](http://9gag.com/gag/aL1MjVg)
- - 🚯 [Pure joy of Kherson people](http://9gag.com/gag/axogz1M)<!-- MEMES:END -->
+ - 🚖 [It&#39;s not cheating if respecting](http://9gag.com/gag/agoqY8v)
+ - 🚯 [Kherson is FREE.](http://9gag.com/gag/az2r9xK)
+ - 🚯 [Residents of the Kherson Region meet the soldiers of the Special Operations Forces of Ukraine](http://9gag.com/gag/aA0w3A0)<!-- MEMES:END -->
 
 --- 
 
