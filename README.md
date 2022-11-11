@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, that does it!](http://9gag.com/gag/avQr0zW)
- - 🚯 [Who\u2019s going to North Korea for World Cup 2026? \ud83c\uddf0\ud83c\uddf5\u26bd\ufe0f](http://9gag.com/gag/aDYjGAw)
- - 🚯 [Dude creates fake Nintendo account. Buys blue tick and posted this](http://9gag.com/gag/axogDwL)<!-- MEMES:END -->
+ - 🚖 [Pepsi](http://9gag.com/gag/aqerL9Q)
+ - 🚯 [Its like buying an apartment thats still an ugly construction site you need to anticipate the potentials](http://9gag.com/gag/aWG8M0A)
+ - 🚯 [Well, that does it!](http://9gag.com/gag/avQr0zW)<!-- MEMES:END -->
 
 --- 
 
