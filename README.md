@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Elon Musk’s first meeting with Twitter employees](https://www.theverge.com/2022/11/10/23452196/elon-musk-twitter-employee-meeting-q-and-a)
- - [The government’s done a deep-dive on how consumers have been hurt by crypto](https://www.theverge.com/2022/11/10/23452247/cfpb-complaint-bulletin-crypto-assets-scams)
- - [Current and former FTX and Alameda staffers say the Bahamian operation SBF ran with housemates is full of conflicts of interest, nepotism, and lack of oversight &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/221110/p32#a221110p32)<!-- TECH:END -->
+ - [Twitter reactivated the ‘Official’ gray check for accounts that are actually verified](https://www.theverge.com/2022/11/10/23452625/twitter-verified-official-blue-gray-check)
+ - [Amazon unveils Sparrow, a robotic arm using AI to move items of varying shapes and sizes for packaging, saying it identifies ~65% of Amazon&#39;s product inventory &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/221110/p35#a221110p35)
+ - [Sources: Indonesia&#39;s GoTo Group is planning to cut 1,000+ jobs, more than 10% of its workforce, and curb its costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/221110/p34#a221110p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
