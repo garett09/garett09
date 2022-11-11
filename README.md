@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [______](http://9gag.com/gag/a9qWPrD)
- - 🚯 [Officer is it okay to pet??](http://9gag.com/gag/anzybDV)
- - 🚯 [Ukrainians in liberated villages digging up hidden flags](http://9gag.com/gag/aA0wDdL)<!-- MEMES:END -->
+ - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [Rhythmness](http://9gag.com/gag/ay2LxpV)
+ - 🚯 [North Kore... sorry, it&#39;s Dagestan, Russia. Huge Z&#39;s and V&#39;s made up of children holding portraits of their dead fathers. First they send you to meaningless death, then use your kids for propaganda.](http://9gag.com/gag/aKE2DAb)<!-- MEMES:END -->
 
 --- 
 
