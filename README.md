@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Officer is it okay to pet??](http://9gag.com/gag/anzybDV)
- - 🚯 [RE](http://9gag.com/gag/aEqRY8N)
- - 🚯 [Out in the country.](http://9gag.com/gag/abv6bLE)<!-- MEMES:END -->
+ - 🚖 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 🚯 [What&#39;s your best excuse?](http://9gag.com/gag/aOxdrdD)
+ - 🚯 [This is what actual liberation looks like.](http://9gag.com/gag/aZDB34p)<!-- MEMES:END -->
 
 --- 
 
