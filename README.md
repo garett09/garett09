@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)
- - 🚯 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
- - 🚯 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)<!-- MEMES:END -->
+ - 🚖 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
+ - 🚯 [Let\u2019s go hit the gym!](http://9gag.com/gag/aoK21R3)
+ - 🚯 [Effort is effort](http://9gag.com/gag/armObr0)<!-- MEMES:END -->
 
 --- 
 
