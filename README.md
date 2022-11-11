@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen built a Star Trek captain’s chair that goes 12mph](https://www.theverge.com/2022/11/11/23453665/volkswagen-star-trek-office-chair-video)
- - [At the Overwatch League grand finals, a candy bar was the real winner](https://www.theverge.com/2022/11/11/23453321/overwatch-league-grand-finals-2022-dallas-fuel)
- - [The best early Black Friday deals you can already get](https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home)<!-- TECH:END -->
+ - [Hot damn, the Surface Pro 9’s battery is easier to replace](https://www.theverge.com/2022/11/11/23453263/microsoft-surface-pro-9-repairability-improved-ifixit-teardown)
+ - [You&#39;d Never Know AI Drew This Beautiful Comic Series     - CNET](https://www.cnet.com/culture/youd-never-know-ai-drew-this-beautiful-comic-series/#ftag=CAD590a51e)
+ - [President Joe Biden at COP27: 5 Things You Need to Know     - CNET](https://www.cnet.com/news/politics/president-joe-biden-at-cop27-5-things-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
