@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepsi](http://9gag.com/gag/aqerL9Q)
- - 🚯 [Its like buying an apartment thats still an ugly construction site you need to anticipate the potentials](http://9gag.com/gag/aWG8M0A)
- - 🚯 [Well, that does it!](http://9gag.com/gag/avQr0zW)<!-- MEMES:END -->
+ - 🚖 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
+ - 🚯 [This is going whale](http://9gag.com/gag/aVbDW48)
+ - 🚯 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
 
 --- 
 
