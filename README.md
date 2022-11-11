@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shareholders challenging Apple on unions &amp; alleged slave labor](https://appleinsider.com/articles/22/11/11/shareholders-challenging-apple-on-unions-alleged-slave-labor?utm_medium=rss)
- - [The Pixel 7 Pro is saving me from hearing a daily poop-related insult 🤷](https://www.androidauthority.com/call-screen-pixel-7-pro-3234070/)
- - [TikTok has quietly launched its livestreaming e-commerce feature TikTok Shop in the US this week; source: TikTok has invited select US businesses to participate &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/221111/p16#a221111p16)<!-- TECH:END -->
+ - [Tesla opens up its charging connector in a bid to become the North American standard](https://www.theverge.com/2022/11/11/23453587/tesla-connector-north-american-standard-ccs-combo)
+ - [Another major ad agency recommends pausing Twitter ad campaigns](https://www.theverge.com/2022/11/11/23453575/omnicom-media-group-twitter-advertising-pause)
+ - [Alibaba doesn&#39;t disclose its Singles&#39; Day sales for the first time, instead saying gross merchandise value was in line with 2021, when it had $76.1B in sales &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/221111/p17#a221111p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
