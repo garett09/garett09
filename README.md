@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Doodle Honors Veterans Day with 3D Sculpture of the American Flag     - CNET](https://www.cnet.com/culture/internet/google-doodle-honors-veterans-day-with-3d-sculpture-of-the-american-flag/#ftag=CAD590a51e)
- - [Apple Limits AirDrop Feature in China After Protestors Used It, Says Report     - CNET](https://www.cnet.com/tech/mobile/apple-limits-airdrop-feature-in-china-after-protestors-used-it-says-report/#ftag=CAD590a51e)
- - [Twitter launches, then kills, then relaunches ‘official’ gray verification tags](https://www.androidauthority.com/twitter-official-accounts-3232963/)<!-- TECH:END -->
+ - [Honor&#39;s Upcoming Foldable May Have Only One Skinny Screen     - CNET](https://www.cnet.com/tech/mobile/honors-upcoming-foldable-phone-may-have-just-one-skinny-screen/#ftag=CAD590a51e)
+ - [Leica’s latest phone is all about its massive camera, but good luck finding one](https://www.androidauthority.com/leica-leitz-phone-2-3233856/)
+ - [Netflix announces that its first-ever live, global streaming event will be a comedy special from Chris Rock in early 2023 &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/221111/p1#a221111p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
