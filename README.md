@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9 months ago I had a hair transplant and did a AMA. \u2018Hairs\u2019 a before, during and after update](http://9gag.com/gag/a6qMQz9)
- - 🚯 [Close enough](http://9gag.com/gag/aYVKKgN)
- - 🚯 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)<!-- MEMES:END -->
+ - 🚖 [Nobody expects the Spanish inquisition.](http://9gag.com/gag/az2r7Em)
+ - 🚯 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
+ - 🚯 [The Kherson retreat](http://9gag.com/gag/aNwdd24)<!-- MEMES:END -->
 
 --- 
 
