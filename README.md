@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are the best comedies on Peacock to stream today?](https://www.androidauthority.com/best-comedies-on-peacock-movies-tv-3232653/)
- - [Meal Kits Like Blue Apron Get My Picky Kids to Eat Real Food](https://www.wired.com/story/blue-apron-rave/)
- - [Home Office Setup Guide: Webcams, Desks, Chairs, and More &lpar;2022&rpar;](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
+ - [Internal note: Twitter has temporarily disabled sign-ups for Twitter Blue to &quot;help address impersonation issues&quot; affecting brands, politicians, and celebrities &lpar;Washington Post&rpar;](http://www.techmeme.com/221111/p14#a221111p14)
+ - [The best Continuity Camera mounts and stands for your iPhone](https://appleinsider.com/inside/magsafe/best/the-best-continuity-camera-mounts-and-stands-for-your-iphone?utm_medium=rss)
+ - [How Microsoft finally landed helicopters and gliders for Flight Simulator](https://www.theverge.com/2022/11/11/23452967/microsoft-flight-simulator-helicopters-gliders-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
