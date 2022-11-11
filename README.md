@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon unveils new Prime Air delivery drone MK30, claiming it is 25% quieter and can handle high temperatures and light rain, due to come into service in 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/221110/p37#a221110p37)
- - [Substack announces writer Bestseller badges based on the number of paid subscribers: purple for tens of thousands, orange for thousands, and white for hundreds &lpar;On Substack&rpar;](http://www.techmeme.com/221110/p36#a221110p36)
- - [Twitter reactivated the ‘Official’ gray check for accounts that are actually verified](https://www.theverge.com/2022/11/10/23452625/twitter-verified-official-blue-gray-check)<!-- TECH:END -->
+ - [Japan plans to invest up to $500M in a new semiconductor company led by Japanese firms including Sony and NEC that aims to start manufacturing by the late 2020s &lpar;Reuters&rpar;](http://www.techmeme.com/221110/p38#a221110p38)
+ - [How to add and switch profiles on an Amazon Fire tablet](https://www.androidauthority.com/profiles-amazon-fire-tablet-3233456/)
+ - [Amazon unveils new Prime Air delivery drone MK30, claiming it is 25% quieter and can handle high temperatures and light rain, due to come into service in 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/221110/p37#a221110p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
