@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Twitter users say the option to sign up for $8 Twitter Blue has disappeared from its iOS app; an error message says it will be available &quot;in the future&quot; &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221111/p8#a221111p8)
- - [TransUnion breached, consumers&#39; financial information exposed](https://appleinsider.com/articles/22/11/10/transunion-data-breach-exposes-consumers-financial-information?utm_medium=rss)
- - [Paperlike 2.1 review: Apple Pencil &amp; iPad use feels more like writing on paper](https://appleinsider.com/articles/22/11/11/paperlike-21-review-apple-pencil-ipad-use-feels-more-like-writing-on-paper?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Emergency SOS, Twitter chaos, Apple&#39;s Freeform in beta](https://appleinsider.com/articles/22/11/11/iphone-14-emergency-sos-twitter-chaos-apples-freeform-in-beta?utm_medium=rss)
+ - [Columbia&#39;s Ski-Jacket Tech Is Going to the Moon](https://www.wired.com/story/columbia-jacket-tech-moon-lander/)
+ - [16 Best Wireless Earbuds &lpar;2022&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
