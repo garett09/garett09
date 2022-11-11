@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
- - 🚯 [All of a sudden](http://9gag.com/gag/aQEMe17)
- - 🚯 [Imagine going to prison for up to 5 years for this picture. If she carried a protest sign, she might be sentenced to execution. Yet it&#39;s not about clothing but freedom of an Islamic theocracy, an end to a terrorist regime that terrorizes from Afghanistan to Ukraine and Venezuela](http://9gag.com/gag/a04d5Mn)<!-- MEMES:END -->
+ - 🚖 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)
+ - 🚯 [Clerk doesn&#39;t know much, but yet can add 1+1](http://9gag.com/gag/a04d5oz)
+ - 🚯 [A grandpa in one of liberated Kherson villages. \u201cHello boys. I\u2019ve stolen from Russians two Suzukas, or how do you call them \u201c&lpar;meaning Bazookas&rpar; \u201cYou\u2019ve got two grenade launchers!? Bring them here pops\u201d](http://9gag.com/gag/aoK2OXw)<!-- MEMES:END -->
 
 --- 
 
