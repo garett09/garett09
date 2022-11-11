@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Residents of the Kherson Region meet the soldiers of the Special Operations Forces of Ukraine](http://9gag.com/gag/aA0w3A0)
- - 🚯 [Huge...](http://9gag.com/gag/aGE00On)
- - 🚯 [Demining in Kherson region](http://9gag.com/gag/armOGP6)<!-- MEMES:END -->
+ - 🚖 [A cat-holic pope](http://9gag.com/gag/a9qWrEW)
+ - 🚯 [RE](http://9gag.com/gag/aEqRY8N)
+ - 🚯 [Do you wanna make money](http://9gag.com/gag/aYVKgn7)<!-- MEMES:END -->
 
 --- 
 
