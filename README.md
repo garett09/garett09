@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot damn, the Surface Pro 9’s battery is easier to replace](https://www.theverge.com/2022/11/11/23453263/microsoft-surface-pro-9-repairability-improved-ifixit-teardown)
- - [You&#39;d Never Know AI Drew This Beautiful Comic Series     - CNET](https://www.cnet.com/culture/youd-never-know-ai-drew-this-beautiful-comic-series/#ftag=CAD590a51e)
- - [President Joe Biden at COP27: 5 Things You Need to Know     - CNET](https://www.cnet.com/news/politics/president-joe-biden-at-cop27-5-things-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta is killing Portal and both its unreleased smartwatches](https://www.theverge.com/2022/11/11/23454019/meta-portal-smartwatch-efforts-shutting-down-hardware)
+ - [You, too, can have a rad name like ‘Rainnfall Heat Wave Extreme Winter Wilson’](https://www.theverge.com/2022/11/11/23453814/rainn-wilson-climate-change-name-twitter)
+ - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
