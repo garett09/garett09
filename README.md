@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 36 current and former Twitter employees detail the excruciating chaos during Elon Musk&#39;s first two weeks in charge &lpar;New York Times&rpar;](http://www.techmeme.com/221111/p5#a221111p5)
- - [Atari 50 is an incredible playable tour through video game history](https://www.theverge.com/23451349/atari-50-review-xbox-playstation-switch-steam)
- - [Moscow-based Kaspersky plans to shut down its Kaspersky Secure Connection VPN in Russia, starting with the free version on November 15, 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221111/p4#a221111p4)<!-- TECH:END -->
+ - [Some Twitter users say the option to sign up for $8 Twitter Blue has disappeared from its iOS app; an error message says it will be available &quot;in the future&quot; &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221111/p8#a221111p8)
+ - [TransUnion breached, consumers&#39; financial information exposed](https://appleinsider.com/articles/22/11/10/transunion-data-breach-exposes-consumers-financial-information?utm_medium=rss)
+ - [Paperlike 2.1 review: Apple Pencil &amp; iPad use feels more like writing on paper](https://appleinsider.com/articles/22/11/11/paperlike-21-review-apple-pencil-ipad-use-feels-more-like-writing-on-paper?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
