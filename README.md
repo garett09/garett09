@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [OnePlus Nord N300 review: Simple to a fault](https://www.androidauthority.com/oneplus-nord-n300-review-3231939/)
- - [A look at Mastodon&#39;s &quot;antiviral&quot; design and culture, where users push back at features and behaviors that promote virality, and embrace things that add friction &lpar;Clive Thompson/UX Collective&rpar;](http://www.techmeme.com/221112/p13#a221112p13)
- - [FTX says ‘unauthorized transactions’ drained millions from the exchange](https://www.theverge.com/2022/11/12/23454702/ftx-unauthorized-transactions-drained-millions-from-the-exchange-hack-bankruptcy-cryptocurrency)<!-- TECH:END -->
+ - [&#39;Andor&#39; Writer Unravels Episode 10&#39;s Heartbreaking Star Wars Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-writer-unravels-episode-10s-heartbreaking-star-wars-sacrifice/#ftag=CAD590a51e)
+ - [A look at Mastodon&#39;s &quot;antiviral&quot; design and culture, where users push back at features and behaviors that promote virality, and embrace things that add friction &lpar;Clive Thompson/UX Collective&rpar;](http://www.techmeme.com/221112/p13#a221112p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
