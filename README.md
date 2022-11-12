@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried says he is in the Bahamas, denying speculation on Twitter that he had flown to South America after FTX filed for bankruptcy &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221112/p8#a221112p8)
- - [Sources: Alameda CEO Caroline Ellison told staff on November 9 that she, SBF, and two FTX executives were aware that FTX lent its customers&#39; money to Alameda &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221112/p7#a221112p7)
- - [Don’t worry, these things are normal on your new Pixel 7](https://www.androidauthority.com/google-pixel-7-normal-issues-3232387/)<!-- TECH:END -->
+ - [Camera shootout: Google Pixel 7 Pro vs Apple iPhone 14 Pro Max](https://www.androidauthority.com/google-pixel-7-pro-vs-iphone-14-pro-max-camera-test-shootout-3229240/)
+ - [Why can’t pollsters reach Gen Z?](https://www.theverge.com/2022/11/12/23453798/midterms-election-whitmer-fetterman-democrats-red-wave-polling-discord-facebook-youtube)
+ - [Sam Bankman-Fried says he is in the Bahamas, denying speculation on Twitter that he had flown to South America after FTX filed for bankruptcy &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221112/p8#a221112p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
