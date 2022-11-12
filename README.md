@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Camera shootout: Google Pixel 7 Pro vs Apple iPhone 14 Pro Max](https://www.androidauthority.com/google-pixel-7-pro-vs-iphone-14-pro-max-camera-test-shootout-3229240/)
- - [Why can’t pollsters reach Gen Z?](https://www.theverge.com/2022/11/12/23453798/midterms-election-whitmer-fetterman-democrats-red-wave-polling-discord-facebook-youtube)
- - [Sam Bankman-Fried says he is in the Bahamas, denying speculation on Twitter that he had flown to South America after FTX filed for bankruptcy &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221112/p8#a221112p8)<!-- TECH:END -->
+ - [Sources: Sam Bankman-Fried and most of his inner circle are still in the Bahamas but many senior FTX executives left for Hong Kong and elsewhere in recent days &lpar;Bradley Saacks/Semafor&rpar;](http://www.techmeme.com/221112/p9#a221112p9)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-458-3233650/)
+ - [How to add relationships to contacts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-relationships-to-contacts-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
