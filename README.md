@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cute Girls](http://9gag.com/gag/adPq8xZ)
- - 🚯 [Russia told us Kherson voted to be part of russia. Press X to doubt](http://9gag.com/gag/aDYjd57)
- - 🚯 [Ferrari clown show Brazil edition](http://9gag.com/gag/awZ5MXQ)<!-- MEMES:END -->
+ - 🚖 [Fallen but not defeated](http://9gag.com/gag/adPqLej)
+ - 🚯 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
+ - 🚯 [&amp; after all these years, Ash finally wins!](http://9gag.com/gag/aBdw2XZ)<!-- MEMES:END -->
 
 --- 
 
