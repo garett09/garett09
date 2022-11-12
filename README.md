@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 12: $80 off 2022 iPad Air, $100 off M1 Mac mini, $80 off Bose TV Speaker, more](https://appleinsider.com/articles/22/11/12/daily-deals-nov-12-80-off-2022-ipad-air-100-off-m1-mac-mini-80-off-bose-tv-speaker-more?utm_medium=rss)
- - [Google Meet has become my favorite tool for troubleshooting my parents’ phones](https://www.androidauthority.com/google-meet-screen-share-troubleshoot-3233595/)
- - [New York Voted to Protect the Planet. California Did Not](https://www.wired.com/story/new-york-voted-to-protect-the-planet-california-did-not/)<!-- TECH:END -->
+ - [Alexa Might Not Get Much Smarter Than It Is Right Now](https://www.wired.com/story/amazon-alexa-reportedly-losing-money/)
+ - [How to Claim Your YouTube Handle](https://www.wired.com/story/how-to-claim-youtube-handle-set-up/)
+ - [Elon Musk Introduces Twitter Mayhem Mode](https://www.wired.com/story/elon-musk-twitter-security-mayhem-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
