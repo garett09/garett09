@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
- - 🚯 [A man ... in a men&#39;s prison ...](http://9gag.com/gag/a9qWL2L)
- - 🚯 [RE](http://9gag.com/gag/aEqRY8N)<!-- MEMES:END -->
+ - 🚖 [Being able to witness the collapse of twitter brings me joy.](http://9gag.com/gag/a7qZwLL)
+ - 🚯 [RE](http://9gag.com/gag/aEqRY8N)
+ - 🚯 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
 
 --- 
 
