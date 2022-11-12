@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Bankman-Fried and most of his inner circle are still in the Bahamas but many senior FTX executives left for Hong Kong and elsewhere in recent days &lpar;Bradley Saacks/Semafor&rpar;](http://www.techmeme.com/221112/p9#a221112p9)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-458-3233650/)
- - [How to add relationships to contacts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-relationships-to-contacts-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [FTX balance sheet: $900M in liquid assets the day before bankruptcy, including $470M in Robinhood shares owned by an SBF entity not listed in bankruptcy filings &lpar;Financial Times&rpar;](http://www.techmeme.com/221112/p12#a221112p12)
+ - [Report: FTX legal and finance teams learned that SBF implemented a &quot;backdoor&quot; in FTX&#39;s bookkeeping system to alter financial records without alerting others &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/221112/p11#a221112p11)
+ - [Apple’s new entry-level iPad is on sale for the first time for $50 off](https://www.theverge.com/2022/11/12/23453400/apple-10th-gen-ipad-gigabyte-aorus-monitor-lg-c2-oled-tv-playstation-xbox-gift-card-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
