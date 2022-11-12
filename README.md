@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [President Zelenskyys most dangerous moment in the war so far](http://9gag.com/gag/aWG8gn4)
- - 🚯 [Wow. just WOW!!](http://9gag.com/gag/aA0wGdZ)
- - 🚯 [Peak Twitter](http://9gag.com/gag/aeQYgXB)<!-- MEMES:END -->
+ - 🚖 [Rate my setup](http://9gag.com/gag/aKE2EKQ)
+ - 🚯 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
+ - 🚯 [Them](http://9gag.com/gag/aVbDbeK)<!-- MEMES:END -->
 
 --- 
 
