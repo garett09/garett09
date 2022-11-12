@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to hide your start and stop locations on Strava](https://www.androidauthority.com/how-to-hide-start-location-strava-3234283/)
- - [Beloved Batman Actor Kevin Conroy Dies at 66 Following Cancer Battle     - CNET](https://www.cnet.com/culture/entertainment/beloved-batman-actor-kevin-conroy-dies-at-66-following-cancer-battle/#ftag=CAD590a51e)
- - [How are these fake Roblox and Ohio governor Twitter accounts still up?](https://www.theverge.com/2022/11/11/23454237/twitter-verified-moderation-parodies-slipping-through-advertisers)<!-- TECH:END -->
+ - [FTX US general counsel says he is investigating &quot;abnormalities with wallet movements&quot; after $380M+ in crypto left FTX and FTX US wallets on November 11 &lpar;CoinDesk&rpar;](http://www.techmeme.com/221112/p1#a221112p1)
+ - [Sources: spreadsheets shown by SBF to FTX&#39;s regulatory and legal teams show that at least $1B of client funds that moved from FTX to Alameda is unaccounted for &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221111/p23#a221111p23)
+ - [How to hide your start and stop locations on Strava](https://www.androidauthority.com/how-to-hide-start-location-strava-3234283/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
