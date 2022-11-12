@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real new russian flag &lpar;makes surrendering so much easier&rpar;](http://9gag.com/gag/axogoEW)
- - 🚯 [Coke nail](http://9gag.com/gag/aBdw2zP)
- - 🚯 [Perfect timing](http://9gag.com/gag/aBdwnOA)<!-- MEMES:END -->
+ - 🚖 [President Zelenskyys most dangerous moment in the war so far](http://9gag.com/gag/aWG8gn4)
+ - 🚯 [Wow. just WOW!!](http://9gag.com/gag/aA0wGdZ)
+ - 🚯 [Peak Twitter](http://9gag.com/gag/aeQYgXB)<!-- MEMES:END -->
 
 --- 
 
