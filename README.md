@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is going whale](http://9gag.com/gag/aVbDW48)
- - 🚯 [What would it be](http://9gag.com/gag/aOxd0mM)
- - 🚯 [Looks like Twitter may actually become fun for once. A complete shithouse, but it&#39;ll be fun.](http://9gag.com/gag/aBdwg9z)<!-- MEMES:END -->
+ - 🚖 [______](http://9gag.com/gag/a9qWPrD)
+ - 🚯 [I had an Uncle like this, now I am this Uncle](http://9gag.com/gag/a1PdRL2)
+ - 🚯 [We shouldn&#39;t have monkey in cage](http://9gag.com/gag/abv6rx8)<!-- MEMES:END -->
 
 --- 
 
