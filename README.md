@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spongebob &gt; Marvel](http://9gag.com/gag/abv6g98)
- - 🚯 [Don&#39;t do that on the train](http://9gag.com/gag/avQr5G5)
+ - 🚖 [The real new russian flag &lpar;makes surrendering so much easier&rpar;](http://9gag.com/gag/axogoEW)
+ - 🚯 [Coke nail](http://9gag.com/gag/aBdw2zP)
  - 🚯 [Perfect timing](http://9gag.com/gag/aBdwnOA)<!-- MEMES:END -->
 
 --- 
