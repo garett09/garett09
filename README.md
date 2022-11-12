@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rate my setup](http://9gag.com/gag/aKE2EKQ)
- - 🚯 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
- - 🚯 [Them](http://9gag.com/gag/aVbDbeK)<!-- MEMES:END -->
+ - 🚖 [The goooodest boy, just a little weird smile](http://9gag.com/gag/a8qpq9O)
+ - 🚯 [Them](http://9gag.com/gag/aVbDbeK)
+ - 🚯 [Not real account but funny tweet](http://9gag.com/gag/aNwdwM4)<!-- MEMES:END -->
 
 --- 
 
