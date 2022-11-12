@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX says ‘unauthorized transactions’ drained millions from the exchange](https://www.theverge.com/2022/11/12/23454702/ftx-unauthorized-transactions-drained-millions-from-the-exchange-hack-bankruptcy-cryptocurrency)
- - [Google’s rolling out a Nest Wifi Pro update to fix slow internet speeds](https://www.theverge.com/2022/11/12/23454915/google-nest-wifi-pro-update-fix-slow-internet-speeds)
- - [Skip the flagships; now is a good time to buy a mid-range phone](https://www.androidauthority.com/good-time-buy-mid-range-phone-3229179/)<!-- TECH:END -->
+ - [OnePlus Nord N300 review: Simple to a fault](https://www.androidauthority.com/oneplus-nord-n300-review-3231939/)
+ - [A look at Mastodon&#39;s &quot;antiviral&quot; design and culture, where users push back at features and behaviors that promote virality, and embrace things that add friction &lpar;Clive Thompson/UX Collective&rpar;](http://www.techmeme.com/221112/p13#a221112p13)
+ - [FTX says ‘unauthorized transactions’ drained millions from the exchange](https://www.theverge.com/2022/11/12/23454702/ftx-unauthorized-transactions-drained-millions-from-the-exchange-hack-bankruptcy-cryptocurrency)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
