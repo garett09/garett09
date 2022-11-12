@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [______](http://9gag.com/gag/a9qWPrD)
- - 🚯 [I had an Uncle like this, now I am this Uncle](http://9gag.com/gag/a1PdRL2)
- - 🚯 [We shouldn&#39;t have monkey in cage](http://9gag.com/gag/abv6rx8)<!-- MEMES:END -->
+ - 🚖 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
+ - 🚯 [Is that racist to say](http://9gag.com/gag/aA0wgj0)
+ - 🚯 [2015 virtue signing vs 2022 reality](http://9gag.com/gag/a04dREZ)<!-- MEMES:END -->
 
 --- 
 
