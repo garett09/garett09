@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A cat-holic pope](http://9gag.com/gag/a9qWrEW)
- - 🚯 [RE](http://9gag.com/gag/aEqRY8N)
- - 🚯 [Do you wanna make money](http://9gag.com/gag/aYVKgn7)<!-- MEMES:END -->
+ - 🚖 [This is going whale](http://9gag.com/gag/aVbDW48)
+ - 🚯 [What would it be](http://9gag.com/gag/aOxd0mM)
+ - 🚯 [Looks like Twitter may actually become fun for once. A complete shithouse, but it&#39;ll be fun.](http://9gag.com/gag/aBdwg9z)<!-- MEMES:END -->
 
 --- 
 
