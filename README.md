@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppo Find X6 series: Everything we know so far and what we want to see](https://www.androidauthority.com/oppo-find-x6-series-3232606/)
  - [Best Internet Providers in Austin     - CNET](https://www.cnet.com/news/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
- - [Best Food Processors of 2022: KitchenAid and Cuisinart     - CNET](https://www.cnet.com/news/best-food-processors/#ftag=CAD590a51e)
- - [Best Massage Guns to Relieve Muscle Soreness     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Food Processors of 2022: KitchenAid and Cuisinart     - CNET](https://www.cnet.com/news/best-food-processors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
