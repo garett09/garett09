@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X6 series: Everything we know so far and what we want to see](https://www.androidauthority.com/oppo-find-x6-series-3232606/)
- - [Best Internet Providers in Austin     - CNET](https://www.cnet.com/news/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
- - [Best Food Processors of 2022: KitchenAid and Cuisinart     - CNET](https://www.cnet.com/news/best-food-processors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Weekly Authority: 📱 Peek at the Pixel 8](https://www.androidauthority.com/the-weekly-authority-november-12-2022-220-3233419/)
+ - [13 Best Deals: Camera Bags and Sex Tech](https://www.wired.com/story/weekend-deals-november-12-2022/)
+ - [Now’s the Time to Snag L.L. Bean’s Classic Duck Boots](https://www.wired.com/story/review-ll-bean-duck-boots/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
