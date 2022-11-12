@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being able to witness the collapse of twitter brings me joy.](http://9gag.com/gag/a7qZwLL)
- - 🚯 [RE](http://9gag.com/gag/aEqRY8N)
- - 🚯 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
+ - 🚖 [______](http://9gag.com/gag/a9qWPrD)
+ - 🚯 [Who would watch?](http://9gag.com/gag/aVbDwow)
+ - 🚯 [Little girl calls 911 for her dad](http://9gag.com/gag/aXnAgMD)<!-- MEMES:END -->
 
 --- 
 
