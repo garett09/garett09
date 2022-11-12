@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How are these fake Roblox and Ohio governor Twitter accounts still up?](https://www.theverge.com/2022/11/11/23454237/twitter-verified-moderation-parodies-slipping-through-advertisers)
- - [&#39;Andor&#39; Writer Dives Into Episode 10&#39;s Heartbreaking Star Wars Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-writer-dives-into-episode-10s-heartbreaking-star-wars-sacrifice/#ftag=CAD590a51e)
- - [Twitter-Musk Timeline: Twitter Blue Subscriptions Seemingly Paused     - CNET](https://www.cnet.com/news/social-media/twitter-musk-timeline-musk-twitter-blue-subscriptions-seemingly-paused/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to hide your start and stop locations on Strava](https://www.androidauthority.com/how-to-hide-start-location-strava-3234283/)
+ - [Beloved Batman Actor Kevin Conroy Dies at 66 Following Cancer Battle     - CNET](https://www.cnet.com/culture/entertainment/beloved-batman-actor-kevin-conroy-dies-at-66-following-cancer-battle/#ftag=CAD590a51e)
+ - [How are these fake Roblox and Ohio governor Twitter accounts still up?](https://www.theverge.com/2022/11/11/23454237/twitter-verified-moderation-parodies-slipping-through-advertisers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
