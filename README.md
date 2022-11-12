@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fallen but not defeated](http://9gag.com/gag/adPqLej)
+ - 🚖 [Don&#39;t do that on the train](http://9gag.com/gag/avQr5G5)
  - 🚯 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
- - 🚯 [&amp; after all these years, Ash finally wins!](http://9gag.com/gag/aBdw2XZ)<!-- MEMES:END -->
+ - 🚯 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)<!-- MEMES:END -->
 
 --- 
 
