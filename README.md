@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t do that on the train](http://9gag.com/gag/avQr5G5)
- - 🚯 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
- - 🚯 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)<!-- MEMES:END -->
+ - 🚖 [RE](http://9gag.com/gag/aEqRY8N)
+ - 🚯 [Do you wanna make money](http://9gag.com/gag/aYVKgn7)
+ - 🚯 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)<!-- MEMES:END -->
 
 --- 
 
