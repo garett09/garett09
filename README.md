@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
- - 🚯 [Is that racist to say](http://9gag.com/gag/aA0wgj0)
- - 🚯 [2015 virtue signing vs 2022 reality](http://9gag.com/gag/a04dREZ)<!-- MEMES:END -->
+ - 🚖 [Officer is it okay to pet??](http://9gag.com/gag/anzybDV)
+ - 🚯 [Being able to witness the collapse of twitter brings me joy.](http://9gag.com/gag/a7qZwLL)
+ - 🚯 [Someone created a fake account and bought a verification mark. After they tweeted about free insulin and crashed the stock if insulin company. Well done Elon Musk](http://9gag.com/gag/a8qp3gZ)<!-- MEMES:END -->
 
 --- 
 
