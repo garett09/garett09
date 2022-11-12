@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is killing Portal and both its unreleased smartwatches](https://www.theverge.com/2022/11/11/23454019/meta-portal-smartwatch-efforts-shutting-down-hardware)
- - [You, too, can have a rad name like ‘Rainnfall Heat Wave Extreme Winter Wilson’](https://www.theverge.com/2022/11/11/23453814/rainn-wilson-climate-change-name-twitter)
- - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)<!-- TECH:END -->
+ - [Apple getting sued over App Store user data collection](https://appleinsider.com/articles/22/11/12/apple-getting-sued-over-app-store-user-data-collection?utm_medium=rss)
+ - [Studio Ghibli’s hand-drawn Star Wars animation hits Disney Plus tomorrow](https://www.theverge.com/2022/11/11/23453230/studio-ghibli-star-wars-lucasfilm)
+ - [20 Best Early Black Friday Deals: Robot Vacuums, iPads, Instant Pots](https://www.wired.com/story/best-early-black-friday-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
