@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple getting sued over App Store user data collection](https://appleinsider.com/articles/22/11/12/apple-getting-sued-over-app-store-user-data-collection?utm_medium=rss)
- - [Studio Ghibli’s hand-drawn Star Wars animation hits Disney Plus tomorrow](https://www.theverge.com/2022/11/11/23453230/studio-ghibli-star-wars-lucasfilm)
- - [20 Best Early Black Friday Deals: Robot Vacuums, iPads, Instant Pots](https://www.wired.com/story/best-early-black-friday-deals-2022/)<!-- TECH:END -->
+ - [How are these fake Roblox and Ohio governor Twitter accounts still up?](https://www.theverge.com/2022/11/11/23454237/twitter-verified-moderation-parodies-slipping-through-advertisers)
+ - [&#39;Andor&#39; Writer Dives Into Episode 10&#39;s Heartbreaking Star Wars Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-writer-dives-into-episode-10s-heartbreaking-star-wars-sacrifice/#ftag=CAD590a51e)
+ - [Twitter-Musk Timeline: Twitter Blue Subscriptions Seemingly Paused     - CNET](https://www.cnet.com/news/social-media/twitter-musk-timeline-musk-twitter-blue-subscriptions-seemingly-paused/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
