@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX says it has been hacked, and instructs users not to install new upgrades and to delete FTX apps, after $600M+ in crypto left FTX wallets on November 11 &lpar;CoinDesk&rpar;](http://www.techmeme.com/221112/p1#a221112p1)
- - [Sources: spreadsheets shown by SBF to FTX&#39;s regulatory and legal teams show that at least $1B of client funds that moved from FTX to Alameda is unaccounted for &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221111/p23#a221111p23)
- - [How to hide your start and stop locations on Strava](https://www.androidauthority.com/how-to-hide-start-location-strava-3234283/)<!-- TECH:END -->
+ - [FTX&#39;s crash highlights flaws like Sequoia&#39;s lack of access to Alameda&#39;s balance sheet despite its due diligence and the investors failing to demand a board seat &lpar;Bloomberg&rpar;](http://www.techmeme.com/221112/p3#a221112p3)
+ - [Miami-Dade County and the Miami Heat are ending their arena naming rights deal with FTX; the county had signed a 19-year, $135M deal for the rights in 2021 &lpar;Brian Windhorst/ESPN&rpar;](http://www.techmeme.com/221112/p2#a221112p2)
+ - [FTX says it has been hacked, and instructs users not to install new upgrades and to delete FTX apps, after $600M+ in crypto left FTX wallets on November 11 &lpar;CoinDesk&rpar;](http://www.techmeme.com/221112/p1#a221112p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
