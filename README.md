@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa Might Not Get Much Smarter Than It Is Right Now](https://www.wired.com/story/amazon-alexa-reportedly-losing-money/)
- - [How to Claim Your YouTube Handle](https://www.wired.com/story/how-to-claim-youtube-handle-set-up/)
- - [Elon Musk Introduces Twitter Mayhem Mode](https://www.wired.com/story/elon-musk-twitter-security-mayhem-roundup/)<!-- TECH:END -->
+ - [Sam Bankman-Fried says he is in the Bahamas, denying speculation on Twitter that he had flown to South America after FTX filed for bankruptcy &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221112/p8#a221112p8)
+ - [Sources: Alameda CEO Caroline Ellison told staff on November 9 that she, SBF, and two FTX executives were aware that FTX lent its customers&#39; money to Alameda &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221112/p7#a221112p7)
+ - [Don’t worry, these things are normal on your new Pixel 7](https://www.androidauthority.com/google-pixel-7-normal-issues-3232387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
