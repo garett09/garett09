@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Had to get emergency heart surgery. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8](http://9gag.com/gag/axogDgY)
- - 🚯 [&amp; after all these years, Ash finally wins!](http://9gag.com/gag/aBdw2XZ)
- - 🚯 [Russia told us Kherson voted to be part of russia. Press X to doubt](http://9gag.com/gag/aDYjd57)<!-- MEMES:END -->
+ - 🚖 [Cute Girls](http://9gag.com/gag/adPq8xZ)
+ - 🚯 [Russia told us Kherson voted to be part of russia. Press X to doubt](http://9gag.com/gag/aDYjd57)
+ - 🚯 [Ferrari clown show Brazil edition](http://9gag.com/gag/awZ5MXQ)<!-- MEMES:END -->
 
 --- 
 
