@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 📱 Peek at the Pixel 8](https://www.androidauthority.com/the-weekly-authority-november-12-2022-220-3233419/)
- - [13 Best Deals: Camera Bags and Sex Tech](https://www.wired.com/story/weekend-deals-november-12-2022/)
- - [Now’s the Time to Snag L.L. Bean’s Classic Duck Boots](https://www.wired.com/story/review-ll-bean-duck-boots/)<!-- TECH:END -->
+ - [Daily deals Nov. 12: $80 off 2022 iPad Air, $100 off M1 Mac mini, $80 off Bose TV Speaker, more](https://appleinsider.com/articles/22/11/12/daily-deals-nov-12-80-off-2022-ipad-air-100-off-m1-mac-mini-80-off-bose-tv-speaker-more?utm_medium=rss)
+ - [Google Meet has become my favorite tool for troubleshooting my parents’ phones](https://www.androidauthority.com/google-meet-screen-share-troubleshoot-3233595/)
+ - [New York Voted to Protect the Planet. California Did Not](https://www.wired.com/story/new-york-voted-to-protect-the-planet-california-did-not/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
