@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)
- - 🚯 [Too good for the price-gouging bastards](http://9gag.com/gag/awZ5BP1)
- - 🚯 [Thanks to Harvard University, you can now virtually enter the Great Pyramid of Giza in 3D and 360\u00ba](http://9gag.com/gag/aDYj4XK)<!-- MEMES:END -->
+ - 🚖 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
+ - 🚯 [Finally after 25 years, congrats to ash ketchum / satoshi](http://9gag.com/gag/aA0wezg)
+ - 🚯 [Facists! Let them enrich you!](http://9gag.com/gag/aL1Mp9g)<!-- MEMES:END -->
 
 --- 
 
