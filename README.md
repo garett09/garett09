@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
- - 🚯 [Finally after 25 years, congrats to ash ketchum / satoshi](http://9gag.com/gag/aA0wezg)
- - 🚯 [Facists! Let them enrich you!](http://9gag.com/gag/aL1Mp9g)<!-- MEMES:END -->
+ - 🚖 [Meet Thomas Wadhouse, known throughout 18th century Yorkshire for a having a 7.5-inch nose. Guinness World Records gave him the posthumous title of `World&#39;s Largest Nose.` A wax reproduction of his head resides in the Ripley&#39;s Believe It or Not museum in London.](http://9gag.com/gag/aKE2xZj)
+ - 🚯 [So this happened : `Christmas` turned to `fart`](http://9gag.com/gag/aOxd3K6)
+ - 🚯 [How the times have changed](http://9gag.com/gag/awZ5Mbx)<!-- MEMES:END -->
 
 --- 
 
