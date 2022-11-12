@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX balance sheet: $900M in liquid assets the day before bankruptcy, including $470M in Robinhood shares owned by an SBF entity not listed in bankruptcy filings &lpar;Financial Times&rpar;](http://www.techmeme.com/221112/p12#a221112p12)
- - [Report: FTX legal and finance teams learned that SBF implemented a &quot;backdoor&quot; in FTX&#39;s bookkeeping system to alter financial records without alerting others &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/221112/p11#a221112p11)
- - [Apple’s new entry-level iPad is on sale for the first time for $50 off](https://www.theverge.com/2022/11/12/23453400/apple-10th-gen-ipad-gigabyte-aorus-monitor-lg-c2-oled-tv-playstation-xbox-gift-card-deal-sale)<!-- TECH:END -->
+ - [Google’s rolling out a Nest Wifi Pro update to fix slow internet speeds](https://www.theverge.com/2022/11/12/23454915/google-nest-wifi-pro-update-fix-slow-internet-speeds)
+ - [Skip the flagships; now is a good time to buy a mid-range phone](https://www.androidauthority.com/good-time-buy-mid-range-phone-3229179/)
+ - [AI Drew This Gorgeous Comic Series, But You&#39;d Never Know It     - CNET](https://www.cnet.com/culture/ai-drew-this-gorgeous-comic-series-but-youd-never-know-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
