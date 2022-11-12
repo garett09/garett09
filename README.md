@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RE](http://9gag.com/gag/aEqRY8N)
- - 🚯 [Do you wanna make money](http://9gag.com/gag/aYVKgn7)
- - 🚯 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)<!-- MEMES:END -->
+ - 🚖 [Spongebob &gt; Marvel](http://9gag.com/gag/abv6g98)
+ - 🚯 [Don&#39;t do that on the train](http://9gag.com/gag/avQr5G5)
+ - 🚯 [Perfect timing](http://9gag.com/gag/aBdwnOA)<!-- MEMES:END -->
 
 --- 
 
