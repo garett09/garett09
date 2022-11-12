@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [______](http://9gag.com/gag/a9qWPrD)
- - 🚯 [Who would watch?](http://9gag.com/gag/aVbDwow)
- - 🚯 [Little girl calls 911 for her dad](http://9gag.com/gag/aXnAgMD)<!-- MEMES:END -->
+ - 🚖 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)
+ - 🚯 [Too good for the price-gouging bastards](http://9gag.com/gag/awZ5BP1)
+ - 🚯 [Thanks to Harvard University, you can now virtually enter the Great Pyramid of Giza in 3D and 360\u00ba](http://9gag.com/gag/aDYj4XK)<!-- MEMES:END -->
 
 --- 
 
