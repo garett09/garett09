@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord N300 review: Simple to a fault](https://www.androidauthority.com/oneplus-nord-n300-review-3231939/)
- - [&#39;Andor&#39; Writer Unravels Episode 10&#39;s Heartbreaking Star Wars Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-writer-unravels-episode-10s-heartbreaking-star-wars-sacrifice/#ftag=CAD590a51e)
- - [A look at Mastodon&#39;s &quot;antiviral&quot; design and culture, where users push back at features and behaviors that promote virality, and embrace things that add friction &lpar;Clive Thompson/UX Collective&rpar;](http://www.techmeme.com/221112/p13#a221112p13)<!-- TECH:END -->
+ - [How to create routes and add stops in Apple Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-create-routes-and-add-stops-in-apple-maps?utm_medium=rss)
+ - [Cambodia&#39;s online gambling and scam industries keep recruiting &quot;cyber slave&quot; workers via trafficking and misleading ads despite police raids and global pressure &lpar;Rest of World&rpar;](http://www.techmeme.com/221112/p14#a221112p14)
+ - [Everything We Know About Bird Flu     - CNET](https://www.cnet.com/health/medical/everything-we-know-about-bird-flu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
