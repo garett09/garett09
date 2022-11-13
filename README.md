@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Unity CEO John Riccitiello, as he faces criticism for the company&#39;s targeted ads, his metaverse ambitions, years of dating the head of HR, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221113/p12#a221113p12)
  - [Twitter reportedly cut thousands of contractors without warning](https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk)
- - [&#39;Black Panther: Wakanda Forever&#39; Offers a Touching Tribute, With a Sexy New Antihero     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-offers-a-touching-tribute-with-a-sexy-new-antihero/#ftag=CAD590a51e)
- - [Elon Musk&#39;s Twitter Meltdown Is the New Greatest Show on Earth     - CNET](https://www.cnet.com/news/social-media/elon-musks-twitter-meltdown-is-the-new-greatest-show-on-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Yellowstone: Why Paramount&#39;s Big Show Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/news/how-to-watch-yellowstone-why-paramounts-big-show-isnt-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
