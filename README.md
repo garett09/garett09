@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reverse racism](http://9gag.com/gag/aL1MnoW)
- - 🚯 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)
- - 🚯 [Wish op can suck like that](http://9gag.com/gag/a8qp6nY)<!-- MEMES:END -->
+ - 🚖 [That&#39;s how Kherson residents hid Ukrainian flags during the Russian occupation of the city.](http://9gag.com/gag/anzyROV)
+ - 🚯 [Special medal for special operation](http://9gag.com/gag/aOxdeEr)
+ - 🚯 [Everything is fAr RigHt](http://9gag.com/gag/aqer8ej)<!-- MEMES:END -->
 
 --- 
 
