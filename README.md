@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch desperately needs an automatic bedtime mode](https://www.androidauthority.com/pixel-watch-bedtime-mode-3233545/)
- - [Browns vs. Dolphins Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-dolphins-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
- - [Charge Your iPhone on the Go With This $71 MagSafe Battery Pack     - CNET](https://www.cnet.com/deals/charge-your-iphone-on-the-go-with-this-71-magsafe-battery-pack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Black Friday MacBook Pro price war rages on, 14-inch models from $1,599](https://appleinsider.com/articles/22/11/10/early-black-friday-macbook-pro-price-war-rages-on-14-inch-models-from-1599?utm_medium=rss)
+ - [Ampere Apple Watch Charging Cable review: A better fast charger](https://appleinsider.com/articles/22/11/13/ampere-apple-watch-charging-cable-review-a-better-fast-charger?utm_medium=rss)
+ - [Netflix With Ads Isn&#39;t That Bad     - CNET](https://www.cnet.com/tech/services-and-software/netflix-with-ads-isnt-that-bad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
