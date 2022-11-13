@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thai ads are on another level](http://9gag.com/gag/az2rdvB)
- - 🚯 [100% cotton!](http://9gag.com/gag/aYVKEAO)
- - 🚯 [Your secret is safe with me!](http://9gag.com/gag/aBdw6pP)<!-- MEMES:END -->
+ - 🚖 [Reverse racism](http://9gag.com/gag/aL1MnoW)
+ - 🚯 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)
+ - 🚯 [Wish op can suck like that](http://9gag.com/gag/a8qp6nY)<!-- MEMES:END -->
 
 --- 
 
