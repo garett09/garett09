@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Unity CEO John Riccitiello, as he faces criticism for the company&#39;s targeted ads, his metaverse ambitions, years of dating the head of HR, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221113/p12#a221113p12)
- - [Twitter reportedly cut thousands of contractors without warning](https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk)
- - [How to Watch Yellowstone: Why Paramount&#39;s Big Show Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/news/how-to-watch-yellowstone-why-paramounts-big-show-isnt-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Space Force’s X-37B spaceplane returns to Earth after over two years in space](https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8)
+ - [Taco Bell&#39;s Beloved Enchirito Returns to the Menu This Week     - CNET](https://www.cnet.com/culture/taco-bells-beloved-enchirito-returns-to-the-menu-this-week/#ftag=CAD590a51e)
+ - [FTX Founder Sam Bankman-Fried Said to Be in the Bahamas     - CNET](https://www.cnet.com/personal-finance/crypto/ftx-founder-sam-bankman-fried-said-to-be-in-the-bahamas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
