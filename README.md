@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
- - 🚯 [That&#39;s what she said](http://9gag.com/gag/aVbDEmd)
- - 🚯 [I speak from personal experience](http://9gag.com/gag/a4oZNLv)<!-- MEMES:END -->
+ - 🚖 [Ferrari clown show Brazil edition](http://9gag.com/gag/awZ5MXQ)
+ - 🚯 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
+ - 🚯 [From the archives..](http://9gag.com/gag/aNwdpDr)<!-- MEMES:END -->
 
 --- 
 
