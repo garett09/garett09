@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you needed another proof these referendums are blatantly fake and ridiculous\u2026](http://9gag.com/gag/aPgMArn)
- - 🚯 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
- - 🚯 [Can&#39;t say it any better than that.](http://9gag.com/gag/a3Z74D8)<!-- MEMES:END -->
+ - 🚖 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
+ - 🚯 [We live in a house of cards](http://9gag.com/gag/az2rxyb)
+ - 🚯 [Filmed herself being racist. School told her to be less racist. Immediately played the victim card claiming she was being oppressed.](http://9gag.com/gag/aQEMz57)<!-- MEMES:END -->
 
 --- 
 
