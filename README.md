@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance and Huobi block deposits of FTX&#39;s native token, FTT, after 192M tokens worth ~$400M were released out of schedule and without warning &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/221113/p9#a221113p9)
- - [Apple continues hiring for its mixed-reality headset project](https://appleinsider.com/articles/22/11/13/apple-continues-hiring-for-its-mixed-reality-headset-project?utm_medium=rss)
- - [Sonic Frontiers Review: Delightful When It Goes Fast, Disappointing When It&#39;s Slow     - CNET](https://www.cnet.com/tech/gaming/sonic-frontiers-review-delightful-when-goes-fast-disappointing-when-its-slow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel Watch desperately needs an automatic bedtime mode](https://www.androidauthority.com/pixel-watch-bedtime-mode-3233545/)
+ - [Browns vs. Dolphins Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-dolphins-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
+ - [Charge Your iPhone on the Go With This $71 MagSafe Battery Pack     - CNET](https://www.cnet.com/deals/charge-your-iphone-on-the-go-with-this-71-magsafe-battery-pack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
