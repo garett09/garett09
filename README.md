@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
- - 🚯 [And Eli Lilli lossing 15 billion dollars because of an $8 check mark...](http://9gag.com/gag/a4oZn3Z)
- - 🚯 [A grandmother on her knees meets her grandson, who liberated Kherson.](http://9gag.com/gag/aXnAnvP)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)
+ - 🚯 [American women have filed a lawsuit against a well-known American organization in the state of New Hampshire for awarding the Miss America prize to a transgender man, in addition to the amount of $ 6,000 and a university scholarship.](http://9gag.com/gag/aMEwKXW)
+ - 🚯 [Reverse racism](http://9gag.com/gag/aL1MnoW)<!-- MEMES:END -->
 
 --- 
 
