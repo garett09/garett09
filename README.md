@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He doesn&#39;t want a baby-bottle](http://9gag.com/gag/anzyzxz)
- - 🚯 [Peak Twitter](http://9gag.com/gag/aeQYgXB)
- - 🚯 [And Eli Lilli lossing 15 billion dollars because of an $8 check mark...](http://9gag.com/gag/a4oZn3Z)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)
+ - 🚯 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
+ - 🚯 [It&#39;s not cheating if respecting](http://9gag.com/gag/agoqY8v)<!-- MEMES:END -->
 
 --- 
 
