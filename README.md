@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s see how many parents had one of those in their living room, too.](http://9gag.com/gag/a5XZQ7G)
- - 🚯 [It is windy day](http://9gag.com/gag/a8qpq7Z)
- - 🚯 [Finding new pal on the ward](http://9gag.com/gag/aNwdDWv)<!-- MEMES:END -->
+ - 🚖 [The goooodest boy, just a little weird smile](http://9gag.com/gag/a8qpq9O)
+ - 🚯 [Coke nail](http://9gag.com/gag/aBdw2zP)
+ - 🚯 [Rate my setup](http://9gag.com/gag/aKE2EKQ)<!-- MEMES:END -->
 
 --- 
 
