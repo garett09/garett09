@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**king hero \ud83e\udee1](http://9gag.com/gag/aZDBy7X)
- - 🚯 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
- - 🚯 [Wow. just WOW!!](http://9gag.com/gag/aA0wGdZ)<!-- MEMES:END -->
+ - 🚖 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
+ - 🚯 [And Eli Lilli lossing 15 billion dollars because of an $8 check mark...](http://9gag.com/gag/a4oZn3Z)
+ - 🚯 [A grandmother on her knees meets her grandson, who liberated Kherson.](http://9gag.com/gag/aXnAnvP)<!-- MEMES:END -->
 
 --- 
 
