@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
- - 🚯 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
- - 🚯 [Man goes full racist while getting kicked off a plane..](http://9gag.com/gag/aA0wEKE)<!-- MEMES:END -->
+ - 🚖 [Cast your vote!](http://9gag.com/gag/aqerX1Z)
+ - 🚯 [C. Can&#39;t tell.](http://9gag.com/gag/aA0wERR)
+ - 🚯 [How to pick up wahmens](http://9gag.com/gag/a4oZzGQ)<!-- MEMES:END -->
 
 --- 
 
