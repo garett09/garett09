@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Securities Commission of the Bahamas says it didn&#39;t order FTX to reopen withdrawals for Bahamas-based customers, refuting FTX&#39;s statement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221113/p5#a221113p5)
- - [Fathom, which develops AI for automating medical coding, raised a $46M Series B led by Alkeon Capital and Lightspeed, bringing its total funding to $61M &lpar;Fred Pennic/HIT Consultant&rpar;](http://www.techmeme.com/221113/p4#a221113p4)
- - [Crypto.com CEO admits the company accidentally sent 320K ETH, or ~$416M, to another crypto exchange, Gate.io, later clarifying that all the funds were returned &lpar;Molly White/Web3 is going just great&rpar;](http://www.techmeme.com/221113/p3#a221113p3)<!-- TECH:END -->
+ - [Elon Musk is failing to convince people that Twitter is a town square, telling users what they can and can&#39;t say for a laugh and charging $8 for the privilege &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/221113/p7#a221113p7)
+ - [Tampa-based Rewst, a robotic process automation startup serving managed service providers, raised a $21.5M Series A led by OpenView &lpar;Claudia Adrien/Channel Futures&rpar;](http://www.techmeme.com/221113/p6#a221113p6)
+ - [The Securities Commission of the Bahamas says it didn&#39;t order FTX to reopen withdrawals for Bahamas-based customers, refuting FTX&#39;s statement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221113/p5#a221113p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
