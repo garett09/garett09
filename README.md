@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
- - 🚯 [A softball player joins the dodgeball team](http://9gag.com/gag/ay2L4mM)
- - 🚯 [Ukrainian special forces crossing the Dnipro river. Kherson was just the beginning.](http://9gag.com/gag/aBdwV6N)<!-- MEMES:END -->
+ - 🚖 [From the archives..](http://9gag.com/gag/aNwdpDr)
+ - 🚯 [Horseshoe crabs are actually harmless despite their terrifying looks](http://9gag.com/gag/aOxdZYv)
+ - 🚯 [This is the Jet that will take the German national football team to Oman, where they will take another jet to actually arrive at the World Cup in Qatar.](http://9gag.com/gag/a9qW5N0)<!-- MEMES:END -->
 
 --- 
 
