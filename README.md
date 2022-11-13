@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kyte, which offers on-demand car rentals in 14 US cities, raised a $60M Series B led by InterAlpen, bringing its total funding to about $300M in equity and debt &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/221113/p1#a221113p1)
- - [YouTube is introducing a new &quot;Live Q&amp;A&quot; feature to make it easier for creators to select and manage questions from viewers in the chat during livestreams &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221112/p16#a221112p16)
- - [iCloud class action settlement payout won&#39;t even buy a cup of coffee](https://appleinsider.com/articles/22/11/12/icloud-class-action-settlement-payout-wont-even-buy-a-cup-of-coffee?utm_medium=rss)<!-- TECH:END -->
+ - [The Securities Commission of the Bahamas says it didn&#39;t order FTX to reopen withdrawals for Bahamas-based customers, refuting FTX&#39;s statement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221113/p5#a221113p5)
+ - [Fathom, which develops AI for automating medical coding, raised a $46M Series B led by Alkeon Capital and Lightspeed, bringing its total funding to $61M &lpar;Fred Pennic/HIT Consultant&rpar;](http://www.techmeme.com/221113/p4#a221113p4)
+ - [Crypto.com CEO admits the company accidentally sent 320K ETH, or ~$416M, to another crypto exchange, Gate.io, later clarifying that all the funds were returned &lpar;Molly White/Web3 is going just great&rpar;](http://www.techmeme.com/221113/p3#a221113p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
