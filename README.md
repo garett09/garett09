@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The goooodest boy, just a little weird smile](http://9gag.com/gag/a8qpq9O)
- - 🚯 [Coke nail](http://9gag.com/gag/aBdw2zP)
- - 🚯 [Rate my setup](http://9gag.com/gag/aKE2EKQ)<!-- MEMES:END -->
+ - 🚖 [American women have filed a lawsuit against a well-known American organization in the state of New Hampshire for awarding the Miss America prize to a transgender man, in addition to the amount of $ 6,000 and a university scholarship.](http://9gag.com/gag/aMEwKXW)
+ - 🚯 [This city is a circus. And i&#39;m a clown.](http://9gag.com/gag/aYVKrVw)
+ - 🚯 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)<!-- MEMES:END -->
 
 --- 
 
