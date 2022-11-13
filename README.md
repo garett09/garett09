@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From the archives..](http://9gag.com/gag/aNwdpDr)
- - 🚯 [Horseshoe crabs are actually harmless despite their terrifying looks](http://9gag.com/gag/aOxdZYv)
- - 🚯 [This is the Jet that will take the German national football team to Oman, where they will take another jet to actually arrive at the World Cup in Qatar.](http://9gag.com/gag/a9qW5N0)<!-- MEMES:END -->
+ - 🚖 [Pictures like this are beautiful. Congratulations Kherson for winning your independence. Imperialism doesn&#39;t belong to 21st century or civilized world.](http://9gag.com/gag/a8qpDbZ)
+ - 🚯 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)
+ - 🚯 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)<!-- MEMES:END -->
 
 --- 
 
