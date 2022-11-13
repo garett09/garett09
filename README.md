@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)
- - 🚯 [Using a multiutility kitchen sink](http://9gag.com/gag/aNwd1G3)
- - 🚯 [It&#39;s not cheating if respecting](http://9gag.com/gag/agoqY8v)<!-- MEMES:END -->
+ - 🚖 [When you are forced to wake up really early in the morning](http://9gag.com/gag/avQP0rM)
+ - 🚯 [Reverse racism](http://9gag.com/gag/aL1MnoW)
+ - 🚯 [The Cleanest Boi](http://9gag.com/gag/aWG8pz4)<!-- MEMES:END -->
 
 --- 
 
