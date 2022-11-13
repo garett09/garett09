@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud class action settlement payout won&#39;t even buy a cup of coffee](https://appleinsider.com/articles/22/11/12/icloud-class-action-settlement-payout-wont-even-buy-a-cup-of-coffee?utm_medium=rss)
- - [London-based Archax, the UK&#39;s only digital asset exchange licensed by the Financial Conduct Authority, raised a $28.5M Series A led by investment firm abrdn &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221112/p15#a221112p15)
- - [Travel Checklist: 9 Cheap Must-Have Gadgets for Your Next Trip     - CNET](https://www.cnet.com/tech/travel-checklist-9-cheap-must-have-gadgets-for-your-next-trip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kyte, which offers on-demand car rentals in 14 US cities, raised a $60M Series B led by InterAlpen, bringing its total funding to about $300M in equity and debt &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/221113/p1#a221113p1)
+ - [YouTube is introducing a new &quot;Live Q&amp;A&quot; feature to make it easier for creators to select and manage questions from viewers in the chat during livestreams &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221112/p16#a221112p16)
+ - [iCloud class action settlement payout won&#39;t even buy a cup of coffee](https://appleinsider.com/articles/22/11/12/icloud-class-action-settlement-payout-wont-even-buy-a-cup-of-coffee?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
