@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mid-air collision in Dallas airshow](http://9gag.com/gag/aeQY96B)
- - 🚯 [Lisa Robin Kelly was great as Laurie, this was her last episode.](http://9gag.com/gag/armOyvd)
- - 🚯 [Coke nail](http://9gag.com/gag/aBdw2zP)<!-- MEMES:END -->
+ - 🚖 [The 11th hour on the 11th day of the 11th month Canadians come together and for 1 minute we stop and freeze what we&#39;re doing and Remember. Toronto, ON.](http://9gag.com/gag/a9qWnAL)
+ - 🚯 [Well this backfired](http://9gag.com/gag/a3Z7GE8)
+ - 🚯 [Perfect timing](http://9gag.com/gag/aBdwnOA)<!-- MEMES:END -->
 
 --- 
 
