@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Formerly Incarcerated Job Seekers Need More Than Training](https://www.wired.com/story/employment-prison-jobs-digital-reputation/)
- - [LG C2 OLED TV review: you can’t go wrong](https://www.theverge.com/23453621/lg-c2-oled-tv-review)
- - [Daily deals Nov. 13: $159 AirPods, $500 off 14-inch MacBook Pro, $730 off LG 48-inch OLED Smart TV, more](https://appleinsider.com/articles/22/11/13/daily-deals-nov-13-159-airpods-500-off-14-inch-macbook-pro-730-off-lg-48-inch-oled-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [On Good Authority: Our team’s tips to kick a phone addiction](https://www.androidauthority.com/how-to-kick-a-phone-addiction-3226149/)
+ - [11 Best USB-C Cables &lpar;2022&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [8 Best TV Streaming Devices for 2022 &lpar;4K, HD&rpar;: Roku vs. Fire TV vs. Apple TV vs. Google](https://www.wired.com/gallery/best-4k-streaming-devices/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
