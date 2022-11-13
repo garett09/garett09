@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s how Kherson residents hid Ukrainian flags during the Russian occupation of the city.](http://9gag.com/gag/anzyROV)
- - 🚯 [Special medal for special operation](http://9gag.com/gag/aOxdeEr)
- - 🚯 [Everything is fAr RigHt](http://9gag.com/gag/aqer8ej)<!-- MEMES:END -->
+ - 🚖 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
+ - 🚯 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
+ - 🚯 [Man goes full racist while getting kicked off a plane..](http://9gag.com/gag/aA0wEKE)<!-- MEMES:END -->
 
 --- 
 
