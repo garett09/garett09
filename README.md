@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create routes and add stops in Apple Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-create-routes-and-add-stops-in-apple-maps?utm_medium=rss)
- - [Cambodia&#39;s online gambling and scam industries keep recruiting &quot;cyber slave&quot; workers via trafficking and misleading ads despite police raids and global pressure &lpar;Rest of World&rpar;](http://www.techmeme.com/221112/p14#a221112p14)
- - [Everything We Know About Bird Flu     - CNET](https://www.cnet.com/health/medical/everything-we-know-about-bird-flu/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Review: Belkin BoostCharge Pro Wireless Car Charger with MagSafe delivers the juice](https://appleinsider.com/articles/22/11/12/review-belkin-boostcharge-pro-wireless-car-charger-with-magsafe-delivers-the-juice?utm_medium=rss)
+ - [Beloved Batman Actor Kevin Conroy Dies at 66 After Cancer Battle     - CNET](https://www.cnet.com/culture/entertainment/beloved-batman-actor-kevin-conroy-dies-at-66-after-cancer-battle/#ftag=CAD590a51e)
+ - [&#39;Black Panther: Wakanda Forever&#39; Stands as a Touching Tribute, With a Sexy New Antihero     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-stands-as-a-touching-tribute-with-a-sexy-new-antihero/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
