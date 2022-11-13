@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The 11th hour on the 11th day of the 11th month Canadians come together and for 1 minute we stop and freeze what we&#39;re doing and Remember. Toronto, ON.](http://9gag.com/gag/a9qWnAL)
- - 🚯 [Well this backfired](http://9gag.com/gag/a3Z7GE8)
- - 🚯 [Perfect timing](http://9gag.com/gag/aBdwnOA)<!-- MEMES:END -->
+ - 🚖 [He doesn&#39;t want a baby-bottle](http://9gag.com/gag/anzyzxz)
+ - 🚯 [Peak Twitter](http://9gag.com/gag/aeQYgXB)
+ - 🚯 [And Eli Lilli lossing 15 billion dollars because of an $8 check mark...](http://9gag.com/gag/a4oZn3Z)<!-- MEMES:END -->
 
 --- 
 
