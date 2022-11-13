@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Ear Stick review: Great if you don’t like sticking things in your ears](https://www.androidauthority.com/nothing-ear-stick-review-3229214/)
- - [Where is the iPhone made? The journey from components to final assembly](https://www.androidauthority.com/where-is-the-iphone-made-3234349/)
- - [Sources: Twitter has eliminated ~4,400 of its ~5,500 contract staff, with cuts expected to significantly impact content moderation and the core infrastructure &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221113/p11#a221113p11)<!-- TECH:END -->
+ - [&#39;Black Panther: Wakanda Forever&#39; Offers a Touching Tribute, With a Sexy New Antihero     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-offers-a-touching-tribute-with-a-sexy-new-antihero/#ftag=CAD590a51e)
+ - [Elon Musk&#39;s Twitter Meltdown Is the New Greatest Show on Earth     - CNET](https://www.cnet.com/news/social-media/elon-musks-twitter-meltdown-is-the-new-greatest-show-on-earth/#ftag=CAD590a51e)
+ - [Nothing Ear Stick review: Great if you don’t like sticking things in your ears](https://www.androidauthority.com/nothing-ear-stick-review-3229214/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
