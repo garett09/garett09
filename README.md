@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t piss on it.](http://9gag.com/gag/aPgMRLw)
- - 🚯 [American women have filed a lawsuit against a well-known American organization in the state of New Hampshire for awarding the Miss America prize to a transgender man, in addition to the amount of $ 6,000 and a university scholarship.](http://9gag.com/gag/aMEwKXW)
- - 🚯 [Reverse racism](http://9gag.com/gag/aL1MnoW)<!-- MEMES:END -->
+ - 🚖 [Thai ads are on another level](http://9gag.com/gag/az2rdvB)
+ - 🚯 [100% cotton!](http://9gag.com/gag/aYVKEAO)
+ - 🚯 [Your secret is safe with me!](http://9gag.com/gag/aBdw6pP)<!-- MEMES:END -->
 
 --- 
 
