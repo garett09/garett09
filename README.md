@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday MacBook Pro price war rages on, 14-inch models from $1,599](https://appleinsider.com/articles/22/11/10/early-black-friday-macbook-pro-price-war-rages-on-14-inch-models-from-1599?utm_medium=rss)
- - [Ampere Apple Watch Charging Cable review: A better fast charger](https://appleinsider.com/articles/22/11/13/ampere-apple-watch-charging-cable-review-a-better-fast-charger?utm_medium=rss)
- - [Netflix With Ads Isn&#39;t That Bad     - CNET](https://www.cnet.com/tech/services-and-software/netflix-with-ads-isnt-that-bad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing Ear Stick review: Great if you don’t like sticking things in your ears](https://www.androidauthority.com/nothing-ear-stick-review-3229214/)
+ - [Where is the iPhone made? The journey from components to final assembly](https://www.androidauthority.com/where-is-the-iphone-made-3234349/)
+ - [Sources: Twitter has eliminated ~4,400 of its ~5,500 contract staff, with cuts expected to significantly impact content moderation and the core infrastructure &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221113/p11#a221113p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
