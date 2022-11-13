@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 13: $159 AirPods, $500 off 14-inch MacBook Pro, $730 off LG 48-inch OLED Smart TV, more](https://appleinsider.com/articles/22/11/13/daily-deals-nov-13-159-airpods-500-off-14-inch-macbook-pro-730-off-lg-48-inch-oled-smart-tv-more?utm_medium=rss)
- - [I wish I could customize the lights on my Nest speakers](https://www.androidauthority.com/nest-speaker-lights-3233208/)
- - [Three-Way Entanglement Results Hint at Better Quantum Codes](https://www.wired.com/story/three-way-entanglement-results-hint-at-better-quantum-codes/)<!-- TECH:END -->
+ - [Formerly Incarcerated Job Seekers Need More Than Training](https://www.wired.com/story/employment-prison-jobs-digital-reputation/)
+ - [LG C2 OLED TV review: you can’t go wrong](https://www.theverge.com/23453621/lg-c2-oled-tv-review)
+ - [Daily deals Nov. 13: $159 AirPods, $500 off 14-inch MacBook Pro, $730 off LG 48-inch OLED Smart TV, more](https://appleinsider.com/articles/22/11/13/daily-deals-nov-13-159-airpods-500-off-14-inch-macbook-pro-730-off-lg-48-inch-oled-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
