@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ferrari clown show Brazil edition](http://9gag.com/gag/awZ5MXQ)
- - 🚯 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
- - 🚯 [From the archives..](http://9gag.com/gag/aNwdpDr)<!-- MEMES:END -->
+ - 🚖 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
+ - 🚯 [A softball player joins the dodgeball team](http://9gag.com/gag/ay2L4mM)
+ - 🚯 [Ukrainian special forces crossing the Dnipro river. Kherson was just the beginning.](http://9gag.com/gag/aBdwV6N)<!-- MEMES:END -->
 
 --- 
 
