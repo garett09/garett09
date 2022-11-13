@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is failing to convince people that Twitter is a town square, telling users what they can and can&#39;t say for a laugh and charging $8 for the privilege &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/221113/p7#a221113p7)
- - [Tampa-based Rewst, a robotic process automation startup serving managed service providers, raised a $21.5M Series A led by OpenView &lpar;Claudia Adrien/Channel Futures&rpar;](http://www.techmeme.com/221113/p6#a221113p6)
- - [The Securities Commission of The Bahamas says it didn&#39;t order FTX to reopen withdrawals for Bahamas-based customers, refuting FTX&#39;s statement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221113/p5#a221113p5)<!-- TECH:END -->
+ - [A profile of Changpeng Zhao, as sources describe a divisive entrepreneur on a relentless drive to grow at all costs, including by ignoring regulatory compliance &lpar;Financial Times&rpar;](http://www.techmeme.com/221113/p8#a221113p8)
+ - [This Anker MagGo Charger Defeated My Battery Anxiety](https://www.wired.com/story/anker-maggo-charger-rave/)
+ - [I&#39;m Obsessed With Bloody Marys. This Is the Best Mix I&#39;ve Tried](https://www.wired.com/story/haand-toma-bloody-mary-kit-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
