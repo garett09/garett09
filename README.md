@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter reportedly cut thousands of contractors without warning](https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk)
  - [&#39;Black Panther: Wakanda Forever&#39; Offers a Touching Tribute, With a Sexy New Antihero     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-offers-a-touching-tribute-with-a-sexy-new-antihero/#ftag=CAD590a51e)
- - [Elon Musk&#39;s Twitter Meltdown Is the New Greatest Show on Earth     - CNET](https://www.cnet.com/news/social-media/elon-musks-twitter-meltdown-is-the-new-greatest-show-on-earth/#ftag=CAD590a51e)
- - [Nothing Ear Stick review: Great if you don’t like sticking things in your ears](https://www.androidauthority.com/nothing-ear-stick-review-3229214/)<!-- TECH:END -->
+ - [Elon Musk&#39;s Twitter Meltdown Is the New Greatest Show on Earth     - CNET](https://www.cnet.com/news/social-media/elon-musks-twitter-meltdown-is-the-new-greatest-show-on-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
