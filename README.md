@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance launches a recovery fund to help &quot;otherwise strong&quot; projects facing a liquidity crisis; Justin Sun says Tron, Huobi, and Poloniex will support Binance &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221114/p1#a221114p1)
- - [Daily Authority: 😨 Yes, no-mobile-phone-phobia is a thing](https://www.androidauthority.com/daily-authority-november-14-2022-3234394/)
- - [2023 Polestar 2 BST Edition 270 First Drive Review: The Sport EV for Suspension Nerds     - CNET](https://www.cnet.com/roadshow/news/2023-polestar-2-bst-edition-270-first-drive-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources and documents: Elon Musk&#39;s SpaceX orders a large ad package from Twitter, promoting Starlink in a &quot;takeover&quot; in Spain and Australia that can cost $250K+ &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/221114/p3#a221114p3)
+ - [Source: Michael Lewis shadowed Sam Bankman-Fried for the past six months and CAA is pitching Lewis&#39; yet-to-be-written book on FTX&#39;s collapse to Hollywood buyers &lpar;Richard Rushfield/The Ankler&rpar;](http://www.techmeme.com/221114/p2#a221114p2)
+ - [Binance announces a recovery fund to help &quot;otherwise strong&quot; projects facing a liquidity crisis; Justin Sun says Tron, Huobi, and Poloniex will support Binance &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221114/p1#a221114p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
