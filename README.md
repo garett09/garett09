@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes you just need a little help.](http://9gag.com/gag/a5XZwrg)
- - 🚯 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)
- - 🚯 [What&#39;s inside your bank card](http://9gag.com/gag/adPqnBB)<!-- MEMES:END -->
+ - 🚖 [This video made me happy...](http://9gag.com/gag/az2rGNm)
+ - 🚯 [Thagomizer](http://9gag.com/gag/a9qWmrZ)
+ - 🚯 [Not gonna lie ...](http://9gag.com/gag/aA0wMER)<!-- MEMES:END -->
 
 --- 
 
