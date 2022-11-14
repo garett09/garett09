@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - 🚯 [The good old WD-40 never disappoints](http://9gag.com/gag/a8qpDZ3)
- - 🚯 [Most of you people will agree](http://9gag.com/gag/aOxdDZN)<!-- MEMES:END -->
+ - 🚖 [Sometimes you just need a little help.](http://9gag.com/gag/a5XZwrg)
+ - 🚯 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)
+ - 🚯 [What&#39;s inside your bank card](http://9gag.com/gag/adPqnBB)<!-- MEMES:END -->
 
 --- 
 
