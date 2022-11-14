@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Effect of russian dragon teeth on an ukrainian tank](http://9gag.com/gag/a2Kdb09)
- - 🚯 [Shit happens](http://9gag.com/gag/aYVKqz0)
- - 🚯 [True, looked better in the cartoons.](http://9gag.com/gag/a3Z7WEN)<!-- MEMES:END -->
+ - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - 🚯 [Let&#39;s see if there is still hope for humantid- i mean humanity..](http://9gag.com/gag/amArxpj)
+ - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)<!-- MEMES:END -->
 
 --- 
 
