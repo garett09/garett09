@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing Material You-style color themes to desktop Chrome](https://www.theverge.com/2022/11/14/23457599/google-chrome-desktop-material-you-color-theming-feature)
- - [An investigation finds thousands of iOS and Android apps, including from the CDC and US Army, used Russia-based tech company Pushwoosh&#39;s code for notifications &lpar;Reuters&rpar;](http://www.techmeme.com/221114/p7#a221114p7)
- - [Apple TV+ nominated for nine Royal Television Society awards](https://appleinsider.com/articles/22/11/14/apple-tv-nominated-for-nine-royal-television-society-awards?utm_medium=rss)<!-- TECH:END -->
+ - [An in-depth look at North Korea&#39;s crypto cyber crime, used to support the regime: hacking Axie Infinity and Bangladesh Bank, running a fraudulent ICO, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/221114/p9#a221114p9)
+ - [The Pandemic Bike Boom Survives—in Cities That Stepped Up](https://www.wired.com/story/the-pandemic-bike-boom-survives-in-cities-that-stepped-up/)
+ - [Syng Cell Alpha Wireless Speakers Review: Spatial Sorcery, Bass Bother](https://www.wired.com/review/review-syng-cell-alpha-wireless-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
