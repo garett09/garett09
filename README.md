@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Ted Lasso&#39; billboards encourage World Cup participants](https://appleinsider.com/articles/22/11/14/apple-tv-ted-lasso-billboards-encourage-world-cup-participants?utm_medium=rss)
- - [Google Pixel foldable phone renders leak, but we’ve been burned before](https://www.androidauthority.com/google-pixel-fold-renders-3234559/)
- - [The stable version of Android 13 finds its way to the Galaxy Tab S8 series](https://www.androidauthority.com/galaxy-tab-s8-android-13-3234517/)<!-- TECH:END -->
+ - [WhatsApp’s companion mode beta lets you to link your account to multiple phones](https://www.androidauthority.com/whatsapp-companion-mode-3234583/)
+ - [Binance plans to implement a new Proof-of-Reserves protocol developed by Ethereum co-founder Vitalik Buterin after sharing a snapshot of its wallets last week &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/221114/p16#a221114p16)
+ - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; holiday special teaser released](https://appleinsider.com/articles/22/11/14/apple-tv-fraggle-rock-back-to-the-rock-holiday-special-teaser-released?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
