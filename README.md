@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter kills off &#39;Twitter for iPhone&#39; label and spoils everyone&#39;s fun](https://appleinsider.com/articles/22/11/14/twitter-kills-off-twitter-for-iphone-message-and-spoils-everyones-fun?utm_medium=rss)
- - [Amazon mass layoffs will reportedly ax 10,000 people this week](https://www.theverge.com/2022/11/14/23458097/amazon-layoffs-expected-10000-employees)
- - [Binance, Crypto.com execs tell investors to ‘ask me anything’ following the fall of FTX](https://www.theverge.com/2022/11/14/23457819/binance-crypto-dot-com-investors-ama-ftx-flops)<!-- TECH:END -->
+ - [Apple TV+ &#39;Ted Lasso&#39; billboards encourage World Cup participants](https://appleinsider.com/articles/22/11/14/apple-tv-ted-lasso-billboards-encourage-world-cup-participants?utm_medium=rss)
+ - [Google Pixel foldable phone renders leak, but we’ve been burned before](https://www.androidauthority.com/google-pixel-fold-renders-3234559/)
+ - [The stable version of Android 13 finds its way to the Galaxy Tab S8 series](https://www.androidauthority.com/galaxy-tab-s8-android-13-3234517/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
