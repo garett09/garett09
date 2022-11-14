@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s companion mode beta lets you to link your account to multiple phones](https://www.androidauthority.com/whatsapp-companion-mode-3234583/)
- - [Binance plans to implement a new Proof-of-Reserves protocol developed by Ethereum co-founder Vitalik Buterin after sharing a snapshot of its wallets last week &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/221114/p16#a221114p16)
- - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; holiday special teaser released](https://appleinsider.com/articles/22/11/14/apple-tv-fraggle-rock-back-to-the-rock-holiday-special-teaser-released?utm_medium=rss)<!-- TECH:END -->
+ - [Google to pay $392 million in record-breaking privacy settlement](https://www.androidauthority.com/google-privacy-settlement-3234647/)
+ - [iPhone Safari crashing during searches for select three-letter terms](https://appleinsider.com/articles/22/11/14/iphone-browser-safari-crashing-when-users-search-for-select-three-letter-terms?utm_medium=rss)
+ - [Maven, a digital health startup focused on women and families, raised a $90M Series E led by General Catalyst, bringing its total funding to $300M &lpar;Eric Rosenbaum/CNBC&rpar;](http://www.techmeme.com/221114/p18#a221114p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
