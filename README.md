@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says Apple is being more cautious with new hires](https://appleinsider.com/articles/22/11/14/tim-cook-says-apple-is-being-more-cautious-with-new-hires?utm_medium=rss)
- - [Google introduces one-stop app to manage all your health apps in one place](https://www.androidauthority.com/google-health-connect-app-3234491/)
- - [Now Android fitness apps like Peloton and MyFitnessPal can share data via Health Connect](https://www.theverge.com/2022/11/14/23458004/google-health-connect-fitness-tracking-api-beta)<!-- TECH:END -->
+ - [Twitter kills off &#39;Twitter for iPhone&#39; label and spoils everyone&#39;s fun](https://appleinsider.com/articles/22/11/14/twitter-kills-off-twitter-for-iphone-message-and-spoils-everyones-fun?utm_medium=rss)
+ - [Amazon mass layoffs will reportedly ax 10,000 people this week](https://www.theverge.com/2022/11/14/23458097/amazon-layoffs-expected-10000-employees)
+ - [Binance, Crypto.com execs tell investors to ‘ask me anything’ following the fall of FTX](https://www.theverge.com/2022/11/14/23457819/binance-crypto-dot-com-investors-ama-ftx-flops)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
