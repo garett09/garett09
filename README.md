@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
- - 🚯 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)
- - 🚯 [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)<!-- MEMES:END -->
+ - 🚖 [Size matters](http://9gag.com/gag/aWG8oV6)
+ - 🚯 [Wholesome....](http://9gag.com/gag/amArM6V)
+ - 🚯 [On the question `why did you come all the way here to Kherson for a speech` Zelenskyy answered that he just wanted a watermelon](http://9gag.com/gag/aGE0A66)<!-- MEMES:END -->
 
 --- 
 
