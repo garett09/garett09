@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seeking to diversify its revenue streams, Klarna launches a price comparison tool in the US, UK, and Nordics; Klarna acquired PriceRunner for ~$125M in 2022 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/221114/p5#a221114p5)
- - [DeviantArt announces DreamUp, a text-to-image generator based on Stable Diffusion, drawing intense criticism from its artist community &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221114/p4#a221114p4)
- - [Sources and docs: Elon Musk&#39;s SpaceX orders a large Twitter ad package, promoting Starlink in a &quot;takeover&quot; in Spain and Australia that can cost $250K+ per day &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/221114/p3#a221114p3)<!-- TECH:END -->
+ - [Google is bringing Material You-style color themes to desktop Chrome](https://www.theverge.com/2022/11/14/23457599/google-chrome-desktop-material-you-color-theming-feature)
+ - [An investigation finds thousands of iOS and Android apps, including from the CDC and US Army, used Russia-based tech company Pushwoosh&#39;s code for notifications &lpar;Reuters&rpar;](http://www.techmeme.com/221114/p7#a221114p7)
+ - [Apple TV+ nominated for nine Royal Television Society awards](https://appleinsider.com/articles/22/11/14/apple-tv-nominated-for-nine-royal-television-society-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
