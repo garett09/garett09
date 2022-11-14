@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Space Force’s X-37B spaceplane returns to Earth after over two years in space](https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8)
- - [Taco Bell&#39;s Beloved Enchirito Returns to the Menu This Week     - CNET](https://www.cnet.com/culture/taco-bells-beloved-enchirito-returns-to-the-menu-this-week/#ftag=CAD590a51e)
- - [FTX Founder Sam Bankman-Fried Said to Be in the Bahamas     - CNET](https://www.cnet.com/personal-finance/crypto/ftx-founder-sam-bankman-fried-said-to-be-in-the-bahamas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-binge-watch-now/#ftag=CAD590a51e)
+ - [More People Need to Watch the Absolute Best True Crime Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-absolute-best-true-crime-documentary-on-netflix/#ftag=CAD590a51e)
+ - [The Hunt for the FTX Thieves Has Begun](https://www.wired.com/story/ftx-hack-theft-crypto-tracing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
