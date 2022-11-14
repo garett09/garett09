@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - 🚯 [Just a happy birthday to my friend Nick](http://9gag.com/gag/aREKoVj)
- - 🚯 [WomeEeeN](http://9gag.com/gag/aQEMm0w)<!-- MEMES:END -->
+ - 🚖 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
+ - 🚯 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)
+ - 🚯 [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)<!-- MEMES:END -->
 
 --- 
 
