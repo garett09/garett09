@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait.. what??](http://9gag.com/gag/aREKv87)
- - 🚯 [I am this old](http://9gag.com/gag/a04dEVQ)
- - 🚯 [REAL ONES!](http://9gag.com/gag/a1PdEpb)<!-- MEMES:END -->
+ - 🚖 [Violent &#39;British&#39; gang sentenced to over 100 years.](http://9gag.com/gag/aGE02B5)
+ - 🚯 [Wait.. what??](http://9gag.com/gag/aREKv87)
+ - 🚯 [Iran...](http://9gag.com/gag/aoK2YpA)<!-- MEMES:END -->
 
 --- 
 
