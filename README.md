@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This video made me happy...](http://9gag.com/gag/az2rGNm)
- - 🚯 [Thagomizer](http://9gag.com/gag/a9qWmrZ)
+ - 🚖 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
+ - 🚯 [Reality Check](http://9gag.com/gag/aGE0Ggw)
  - 🚯 [Not gonna lie ...](http://9gag.com/gag/aA0wMER)<!-- MEMES:END -->
 
 --- 
