@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is real](http://9gag.com/gag/ay2LMry)
- - 🚯 [When you choose a hard escape instead of an easy way be like](http://9gag.com/gag/axogOmK)
- - 🚯 [Not gonna lie ...](http://9gag.com/gag/aA0wMER)<!-- MEMES:END -->
+ - 🚖 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
+ - 🚯 [Probably not](http://9gag.com/gag/aNwdBB0)
+ - 🚯 [Size matters](http://9gag.com/gag/aWG8oV6)<!-- MEMES:END -->
 
 --- 
 
