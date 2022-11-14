@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter is no longer fulfilling key prerequisites for it to claim Ireland as its &quot;main establishment&quot; under the EU&#39;s GDPR, following execs&#39; departures &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/221114/p20#a221114p20)
- - [Google location tracking results in largest privacy settlement ever](https://appleinsider.com/articles/22/11/14/google-location-tracking-results-in-largest-privacy-settlement-ever?utm_medium=rss)
- - [Tesla on trial: Autopilot and Elon Musk’s $56 billion pay package under scrutiny in separate cases](https://www.theverge.com/2022/11/14/23458254/elon-musk-tesla-trial-pay-shareholder-autopilot-crash)<!-- TECH:END -->
+ - [Steve Jobs&#39; Birkenstocks sold for $218,000](https://appleinsider.com/articles/22/11/14/steve-jobs-birkenstocks-sold-for-218000?utm_medium=rss)
+ - [The Epic Games-Apple antitrust battle resumes in appeals court; the US DOJ and state of California have been granted time to explain antitrust legal frameworks &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221114/p21#a221114p21)
+ - [We have sad news for anyone who somehow wanted a Facebook smartwatch](https://www.androidauthority.com/facebook-smartwatch-2-3234685/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
