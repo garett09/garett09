@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Camera sample leak: Galaxy S23 Ultra goes up against S22 Ultra, Pixel 7 Pro](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s22-ultra-vs-pixel-7-pro-camera-3234396/)
  - [Poll: Which dead smartphone brand would you resurrect?](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-3231953/)
- - [Call of Duty Warzone Legacy: How to See Your Highlights and Career Statistics     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-warzone-legacy-how-to-see-your-highlights-and-career-statistics/#ftag=CAD590a51e)
- - [A profile of Dan O&#39;Dowd, who made a fortune with his embedded systems OS company and is now obsessed with exposing Tesla&#39;s FSD beta as incomplete and unsafe &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/221113/p13#a221113p13)<!-- TECH:END -->
+ - [Call of Duty Warzone Legacy: How to See Your Highlights and Career Statistics     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-warzone-legacy-how-to-see-your-highlights-and-career-statistics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
