@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
- - 🚯 [Iran...](http://9gag.com/gag/aoK2YpA)
- - 🚯 [Finally!](http://9gag.com/gag/a8qpVLO)<!-- MEMES:END -->
+ - 🚖 [Saman Yasin, rapper from Iran is sentenced to death by hanging for \u201ehounding and war against god\u201c, as the verdict reads.](http://9gag.com/gag/avQrE8M)
+ - 🚯 [Rate this handiwork](http://9gag.com/gag/aDYjOq7)
+ - 🚯 [This snow graffiti.](http://9gag.com/gag/aMEwqbV)<!-- MEMES:END -->
 
 --- 
 
