@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
+ - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
  - 🚯 [What is wrong with you?](http://9gag.com/gag/armOqx5)
- - 🚯 [Talk about bad ideas...](http://9gag.com/gag/aQEMZE8)<!-- MEMES:END -->
+ - 🚯 [Hmm, he\u2019s also using an iPhone and an Apple watch instead of russian technology. If he hates the West so much, why does his outfit say otherwise?](http://9gag.com/gag/a2Kdbmp)<!-- MEMES:END -->
 
 --- 
 
