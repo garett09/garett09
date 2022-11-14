@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird overstated shared electric scooter revenue for two years](https://www.theverge.com/2022/11/14/23457688/bird-revenue-overstated-shared-electric-scooters-audit)
- - [Your Phone Can Determine If a Bridge Is Busted](https://www.wired.com/story/your-phone-can-determine-if-a-bridge-is-busted/)
- - [Apple TV+ nominated for nine Royal Television Society awards](https://appleinsider.com/articles/22/11/14/apple-tv-nominated-for-nine-royal-television-society-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s why Elizabeth Holmes thinks she shouldn’t go to prison](https://www.theverge.com/2022/11/14/23455228/elizabeth-holmes-why-shouldnt-go-prison-theranos-court)
+ - [Interviews with dozens of Apple Store employees in nine US cities show rising dissatisfaction thanks to increasing pressure to upsell, leading some to unionize &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/221114/p12#a221114p12)
+ - [Apple&#39;s $4B ad business at odds with internal culture and values](https://appleinsider.com/articles/22/11/14/apples-4b-ad-business-at-odds-with-internal-culture-and-values?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
