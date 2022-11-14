@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Size matters](http://9gag.com/gag/aWG8oV6)
- - 🚯 [Wholesome....](http://9gag.com/gag/amArM6V)
- - 🚯 [On the question `why did you come all the way here to Kherson for a speech` Zelenskyy answered that he just wanted a watermelon](http://9gag.com/gag/aGE0A66)<!-- MEMES:END -->
+ - 🚖 [Wait.. what??](http://9gag.com/gag/aREKv87)
+ - 🚯 [What is wrong with you?](http://9gag.com/gag/armOqx5)
+ - 🚯 [Talk about bad ideas...](http://9gag.com/gag/aQEMZE8)<!-- MEMES:END -->
 
 --- 
 
