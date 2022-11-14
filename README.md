@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - 🚯 [Let&#39;s see if there is still hope for humantid- i mean humanity..](http://9gag.com/gag/amArxpj)
- - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)<!-- MEMES:END -->
+ - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - 🚯 [I am this old](http://9gag.com/gag/a04dEVQ)
+ - 🚯 [Disney doesn&#39;t want to go broke after all](http://9gag.com/gag/aGE023K)<!-- MEMES:END -->
 
 --- 
 
