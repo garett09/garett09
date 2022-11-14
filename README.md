@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - 🚯 [Reality Check](http://9gag.com/gag/aGE0Ggw)
+ - 🚖 [This is real](http://9gag.com/gag/ay2LMry)
+ - 🚯 [When you choose a hard escape instead of an easy way be like](http://9gag.com/gag/axogOmK)
  - 🚯 [Not gonna lie ...](http://9gag.com/gag/aA0wMER)<!-- MEMES:END -->
 
 --- 
