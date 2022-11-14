@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pictures like this are beautiful. Congratulations Kherson for winning your independence. Imperialism doesn&#39;t belong to 21st century or civilized world.](http://9gag.com/gag/a8qpDbZ)
- - 🚯 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)
+ - 🚖 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
+ - 🚯 [What&#39;s inside your bank card](http://9gag.com/gag/adPqnBB)
  - 🚯 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)<!-- MEMES:END -->
 
 --- 
