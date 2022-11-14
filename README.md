@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - 🚯 [What&#39;s inside your bank card](http://9gag.com/gag/adPqnBB)
- - 🚯 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)<!-- MEMES:END -->
+ - 🚖 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
+ - 🚯 [So good](http://9gag.com/gag/aDYjZVd)
+ - 🚯 [There is no way to escape from this](http://9gag.com/gag/aL1MGAV)<!-- MEMES:END -->
 
 --- 
 
