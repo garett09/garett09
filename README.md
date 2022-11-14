@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait.. what??](http://9gag.com/gag/aREKv87)
+ - 🚖 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
  - 🚯 [What is wrong with you?](http://9gag.com/gag/armOqx5)
  - 🚯 [Talk about bad ideas...](http://9gag.com/gag/aQEMZE8)<!-- MEMES:END -->
 
