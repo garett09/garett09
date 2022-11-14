@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - 🚯 [What is wrong with you?](http://9gag.com/gag/armOqx5)
- - 🚯 [Hmm, he\u2019s also using an iPhone and an Apple watch instead of russian technology. If he hates the West so much, why does his outfit say otherwise?](http://9gag.com/gag/a2Kdbmp)<!-- MEMES:END -->
+ - 🚖 [Effect of russian dragon teeth on an ukrainian tank](http://9gag.com/gag/a2Kdb09)
+ - 🚯 [Shit happens](http://9gag.com/gag/aYVKqz0)
+ - 🚯 [True, looked better in the cartoons.](http://9gag.com/gag/a3Z7WEN)<!-- MEMES:END -->
 
 --- 
 
