@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Violent &#39;British&#39; gang sentenced to over 100 years.](http://9gag.com/gag/aGE02B5)
- - 🚯 [Wait.. what??](http://9gag.com/gag/aREKv87)
- - 🚯 [Iran...](http://9gag.com/gag/aoK2YpA)<!-- MEMES:END -->
+ - 🚖 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
+ - 🚯 [At least one good law](http://9gag.com/gag/ap9rAnn)
+ - 🚯 [Tom Cruise insane plane stunt \ud83d\udd25](http://9gag.com/gag/aGE0ODz)<!-- MEMES:END -->
 
 --- 
 
