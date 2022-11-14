@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - 🚖 [Wait.. what??](http://9gag.com/gag/aREKv87)
  - 🚯 [I am this old](http://9gag.com/gag/a04dEVQ)
- - 🚯 [Disney doesn&#39;t want to go broke after all](http://9gag.com/gag/aGE023K)<!-- MEMES:END -->
+ - 🚯 [REAL ONES!](http://9gag.com/gag/a1PdEpb)<!-- MEMES:END -->
 
 --- 
 
