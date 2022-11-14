@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; Birkenstocks sold for $218,000](https://appleinsider.com/articles/22/11/14/steve-jobs-birkenstocks-sold-for-218000?utm_medium=rss)
- - [The Epic Games-Apple antitrust battle resumes in appeals court; the US DOJ and state of California have been granted time to explain antitrust legal frameworks &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221114/p21#a221114p21)
- - [We have sad news for anyone who somehow wanted a Facebook smartwatch](https://www.androidauthority.com/facebook-smartwatch-2-3234685/)<!-- TECH:END -->
+ - [Steve Jobs&#39; Birkenstocks sold for $218,750](https://appleinsider.com/articles/22/11/14/steve-jobs-birkenstocks-sold-for-218000?utm_medium=rss)
+ - [How to set up Mastodon, an alternative social network](https://appleinsider.com/inside/macos/tips/how-to-set-up-mastodon-an-alternative-social-network?utm_medium=rss)
+ - [The tech industry’s moment of reckoning: layoffs and hiring freezes](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
