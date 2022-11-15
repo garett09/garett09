@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best mystery movies on Netflix](https://www.androidauthority.com/best-mystery-movies-on-netflix-3233121/)
- - [Sources: Vyacheslav &quot;Tank&quot; Penchukov, a Ukrainian accused of leading a cybercriminal group that raided SMBs with JabberZeus malware, is arrested in Switzerland &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221115/p29#a221115p29)
- - [The best Black Friday deals you can already get at Target](https://www.theverge.com/23433073/target-black-friday-2022-deals-cyber-monday-tech-games)<!-- TECH:END -->
+ - [Nearly 1 in 5 Americans listen to a podcast every day](https://www.theverge.com/2022/11/15/23460870/how-many-people-listen-podcast-spotify-acast-grammys)
+ - [Hands on with Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/articles/22/11/15/hands-on-with-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)
+ - [Walter Hamada is joining Paramount Pictures following his Warner Bros. Discovery exit](https://www.theverge.com/2022/11/15/23460747/walter-hamada-dc-films-paramount-pictures-the-conjuring-aquaman-warner-bros-discovery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
