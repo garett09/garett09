@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ideal for smart watches](http://9gag.com/gag/aOxdNRD)
- - 🚯 [Feudal Drip](http://9gag.com/gag/aYVKZrV)
- - 🚯 [Respect to Estonia!](http://9gag.com/gag/a4oZBbA)<!-- MEMES:END -->
+ - 🚖 [Karen](http://9gag.com/gag/adPqRj9)
+ - 🚯 [Totally normal behaviour](http://9gag.com/gag/ay2LZRM)
+ - 🚯 [What shall they do](http://9gag.com/gag/agoqpQq)<!-- MEMES:END -->
 
 --- 
 
