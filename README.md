@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals you can already get at Walmart](https://www.theverge.com/23440480/walmart-black-friday-2022-best-tech-deals-cyber-monday)
- - [Q&amp;A with Microsoft Gaming CEO Phil Spencer on running the division, how decisions are made, delaying big games, Xbox, Keystone, exclusives, rivals, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221115/p24#a221115p24)
- - [Google Pixel Watch now support’s Fitbit’s Sleep Profile](https://www.androidauthority.com/pixel-watch-sleep-profile-3235024/)<!-- TECH:END -->
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [Netflix is rolling out a feature to let account owners identify and remotely log out of devices they do not recognize or no longer want signed in &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221115/p26#a221115p26)
+ - [How DeviantArt is navigating the AI art minefield](https://www.theverge.com/2022/11/15/23449036/deviantart-ai-art-dreamup-training-data-controversy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
