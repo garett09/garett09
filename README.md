@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying ads on Twitter is ‘high-risk’ according to the world’s biggest ad agency](https://www.theverge.com/2022/11/14/23459254/twitter-high-risk-ads-groupm-advertisers-content-moderation)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
- - [A look at a doc from Twitter&#39;s trust and safety team on Nov. 1 that detailed how the new Blue subscription could be abused, largely ignored in a rush to launch &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221114/p23#a221114p23)<!-- TECH:END -->
+ - [In a Twitter Spaces chat, CEO Changpeng Zhao says Binance has seen a &quot;slight increase in withdrawals&quot; but otherwise &quot;it&#39;s still business as usual&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221114/p28#a221114p28)
+ - [Microsoft unveils Supply Chain Center software in preview to help customers track supply chains by combining data from its own programs plus Oracle and others &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/221114/p27#a221114p27)
+ - [Filing: Warren Buffett&#39;s Berkshire Hathaway discloses the purchase of ~60.1M American depositary shares of TSMC, worth $4.1B+, in Q3 2022 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221114/p26#a221114p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
