@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F*ck Whatever You Like Too](http://9gag.com/gag/a04dwQv)
+ - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
  - 🚯 [Past, present, and future had a time last night](http://9gag.com/gag/abv6EjB)
- - 🚯 [I think she lost something.](http://9gag.com/gag/adPqdyN)<!-- MEMES:END -->
+ - 🚯 [Beautiful people, beautiful skies, beautiful Dnipro](http://9gag.com/gag/aeQYdrv)<!-- MEMES:END -->
 
 --- 
 
