@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contentstack, a headless CMS for enterprises, raised an $80M Series C co-led by Georgian and Insight Partners, bringing its total funding to $169M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221115/p15#a221115p15)
- - [Apple plans to expand Emergency SOS via Satellite to France, Germany, Ireland, and the UK in December, after launching the service in the US and Canada &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/221115/p14#a221115p14)
- - [Emergency SOS via satellite available on Tuesday in US &amp; Canada](https://appleinsider.com/articles/22/11/15/emergency-sos-via-satellite-available-on-tuesday-in-us-canada?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Sam Bankman-Fried has unsuccessfully continued to attempt to raise $8B to plug FTX&#39;s shortfall, despite filing for bankruptcy and resigning as CEO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221115/p17#a221115p17)
+ - [9 Best Cheap Smartphones &lpar;2022&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [The Infinite Cloud Is a Fantasy](https://www.wired.com/story/cloud-data-storage-climate/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
