@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
- - 🚯 [Even after parting with his friend, they&#39;re always there for him](http://9gag.com/gag/axogQjM)
- - 🚯 [Fascinating earthquake](http://9gag.com/gag/anzy8NE)<!-- MEMES:END -->
+ - 🚖 [Tickets Please!!](http://9gag.com/gag/aDYjPX7)
+ - 🚯 [Cat being a bro](http://9gag.com/gag/aOxdN62)
+ - 🚯 [Respect to Estonia!](http://9gag.com/gag/a4oZBbA)<!-- MEMES:END -->
 
 --- 
 
