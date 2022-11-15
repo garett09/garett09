@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never skip the school](http://9gag.com/gag/awZ5dxB)
- - 🚯 [Ancient 9gag](http://9gag.com/gag/aqerDqL)
- - 🚯 [Me browsing the Funny section](http://9gag.com/gag/aGE07Qw)<!-- MEMES:END -->
+ - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - 🚯 [76 still in beta](http://9gag.com/gag/abv6EBv)
+ - 🚯 [F*ck Whatever You Like Too](http://9gag.com/gag/a04dwQv)<!-- MEMES:END -->
 
 --- 
 
