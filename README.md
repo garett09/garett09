@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [UAF getting in the Mood for the next Offense !](http://9gag.com/gag/a9qWN2Z)
- - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
- - 🚯 [What a sweet dude \ud83d\ude3f](http://9gag.com/gag/a6qM3ye)<!-- MEMES:END -->
+ - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - 🚯 [Yes](http://9gag.com/gag/aMEwvLW)
+ - 🚯 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)<!-- MEMES:END -->
 
 --- 
 
