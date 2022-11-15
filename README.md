@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)
- - 🚯 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
- - 🚯 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)<!-- MEMES:END -->
+ - 🚖 [When you get mad but also you have one of the best friend ever](http://9gag.com/gag/aPgMQOg)
+ - 🚯 [Am i a believer?](http://9gag.com/gag/aREKNR2)
+ - 🚯 [A classic](http://9gag.com/gag/aeQYyDm)<!-- MEMES:END -->
 
 --- 
 
