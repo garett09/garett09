@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/inside/iphone-14/tips/how-to-use-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)
- - [Report shows macOS had the least malware infections in 2022](https://appleinsider.com/articles/22/11/15/report-shows-macos-had-the-least-malware-infections-in-2022?utm_medium=rss)
- - [The Square Off Pro Chessboard Rekindled My Love of Chess](https://www.wired.com/story/square-off-pro-chessboard-rave/)<!-- TECH:END -->
+ - [[Thread] Sources: ~20 Twitter employees who criticized Elon Musk in Twitter&#39;s Slack channels were fired overnight via email &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221115/p20#a221115p20)
+ - [NASA’s Space Launch System rocket weathers the storm](https://www.theverge.com/2022/11/14/23458735/nasa-space-launch-system-nicole-rocket-artemis-1)
+ - [Meross launches its first Matter smart plug with 50% discount](https://appleinsider.com/articles/22/11/15/meross-launches-its-first-matter-smart-plug-with-50-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
