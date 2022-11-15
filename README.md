@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Launches Virtual Care Clinic for Common Ailments     - CNET](https://www.cnet.com/health/medical/amazon-launches-virtual-care-clinic-for-common-ailments/#ftag=CAD590a51e)
- - [Adorama knocks up to 68% off electronics during Black Friday Now Sale](https://appleinsider.com/articles/22/11/15/adorama-knocks-up-to-68-off-electronics-during-black-friday-now-sale?utm_medium=rss)
- - [Twitter says 2FA still works, but it’s looking into a ‘few cases’ where it didn’t](https://www.theverge.com/2022/11/15/23460940/twitter-2fa-two-factor-authentication-microservices)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 2 deep dive: Everything you need to know](https://www.androidauthority.com/snapdragon-8-gen-2-explained-3231826/)
+ - [5 things you need to know about the Snapdragon 8 Gen 2](https://www.androidauthority.com/snapdragon-8-gen-2-chipset-3233165/)
+ - [Qualcomm’s Snapdragon 8 Gen 2 gives us a glimpse of 2023’s Android flagships](https://www.theverge.com/2022/11/15/23458241/qualcomm-snapdragon-8-gen-2-chipset-processor-x70-5g-dynamic-spatial-audio)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
