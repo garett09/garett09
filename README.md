@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Los Angeles and Taipei-based GoFreight, which provides software to freight forwarders for building a storefront and managing operations, raised a $23M Series A &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221114/p30#a221114p30)
- - [Microsoft&#39;s Xbox publishes its first transparency report on content moderation and reveals it took action against more than 4.3M inauthentic accounts in H1 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221114/p29#a221114p29)
- - [In a Twitter Spaces chat, CEO Changpeng Zhao says Binance has seen a &quot;slight increase in withdrawals&quot; but otherwise &quot;it&#39;s still business as usual&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221114/p28#a221114p28)<!-- TECH:END -->
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [Nike is launching .Swoosh, an online store and trading platform for the brand&#39;s virtual sneakers, with the first collection to debut in January 2023 &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/221115/p1#a221115p1)
+ - [Los Angeles and Taipei-based GoFreight, which provides software to freight forwarders for building a storefront and managing operations, raised a $23M Series A &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221114/p30#a221114p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
