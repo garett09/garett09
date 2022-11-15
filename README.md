@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [76 still in beta](http://9gag.com/gag/abv6EBv)
- - 🚯 [Past, present, and future had a time last night](http://9gag.com/gag/abv6EjB)
+ - 🚖 [Better gifts](http://9gag.com/gag/aGE0ooX)
+ - 🚯 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
  - 🚯 [Man found a lost purse and returned it to owner&#39;s mother](http://9gag.com/gag/awZ58LR)<!-- MEMES:END -->
 
 --- 
