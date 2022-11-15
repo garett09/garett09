@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face](https://www.wired.com/story/alphabay-series-part-4-face-to-face/)
- - [WIRED&#39;s 2022 Wish List: 42 Incredible Gifts to Give and Get](https://www.wired.com/gallery/wish-list-2022-incredible-gifts/)
- - [Cerebras announces its Andromeda supercomputer, combining 16 wafer-sized WSE-2 chips to create 13.5M AI-optimized cores, available to customers and researchers &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221115/p8#a221115p8)<!-- TECH:END -->
+ - [Microsoft’s Xbox chief settles the Call of Duty PlayStation debate once and for all](https://www.theverge.com/2022/11/15/23459731/microsoft-call-of-duty-playstation-phil-spencer-comments)
+ - [AirVersa Purelle air purifier review: Thread connectivity for HomeKit users](https://appleinsider.com/articles/22/11/15/airversa-purelle-air-purifier-review-thread-connectivity-for-homekit-users?utm_medium=rss)
+ - [Apple&#39;s $4B ad business at odds with internal culture and values](https://appleinsider.com/articles/22/11/14/apples-4b-ad-business-at-odds-with-internal-culture-and-values?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
