@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait.. what??](http://9gag.com/gag/aREKv87)
- - 🚯 [Chadwick Boseman on Black Panther 2 T-T RIP King \\m/](http://9gag.com/gag/a8qpnK6)
- - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)<!-- MEMES:END -->
+ - 🚖 [UAF getting in the Mood for the next Offense !](http://9gag.com/gag/a9qWN2Z)
+ - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - 🚯 [What a sweet dude \ud83d\ude3f](http://9gag.com/gag/a6qM3ye)<!-- MEMES:END -->
 
 --- 
 
