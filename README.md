@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
- - [Netflix is rolling out a feature to let account owners identify and remotely log out of devices they do not recognize or no longer want signed in &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221115/p26#a221115p26)
- - [How DeviantArt is navigating the AI art minefield](https://www.theverge.com/2022/11/15/23449036/deviantart-ai-art-dreamup-training-data-controversy)<!-- TECH:END -->
+ - [Here are the best mystery movies on Netflix](https://www.androidauthority.com/best-mystery-movies-on-netflix-3233121/)
+ - [Sources: Vyacheslav &quot;Tank&quot; Penchukov, a Ukrainian accused of leading a cybercriminal group that raided SMBs with JabberZeus malware, is arrested in Switzerland &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221115/p29#a221115p29)
+ - [The best Black Friday deals you can already get at Target](https://www.theverge.com/23433073/target-black-friday-2022-deals-cyber-monday-tech-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
