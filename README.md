@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 💲 Google’s record-breaking settlement](https://www.androidauthority.com/daily-authority-november-15-2022-3234469/)
- - [Bankruptcy filings: FTX CEO John J. Ray III appoints new directors, discloses conversations with &quot;dozens&quot; of regulators, and estimates creditors at over 1M &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221115/p5#a221115p5)
- - [Samsung’s best mid-ranger is getting a Galaxy S23-like makeover next year](https://www.androidauthority.com/samsung-galaxy-a54-5g-3234872/)<!-- TECH:END -->
+ - [The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face](https://www.wired.com/story/alphabay-series-part-4-face-to-face/)
+ - [WIRED&#39;s 2022 Wish List: 42 Incredible Gifts to Give and Get](https://www.wired.com/gallery/wish-list-2022-incredible-gifts/)
+ - [Cerebras announces its Andromeda supercomputer, combining 16 wafer-sized WSE-2 chips to create 13.5M AI-optimized cores, available to customers and researchers &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221115/p8#a221115p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
