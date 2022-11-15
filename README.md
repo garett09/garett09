@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a Twitter Spaces chat, CEO Changpeng Zhao says Binance has seen a &quot;slight increase in withdrawals&quot; but otherwise &quot;it&#39;s still business as usual&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221114/p28#a221114p28)
- - [Microsoft unveils Supply Chain Center software in preview to help customers track supply chains by combining data from its own programs plus Oracle and others &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/221114/p27#a221114p27)
- - [Filing: Warren Buffett&#39;s Berkshire Hathaway discloses the purchase of ~60.1M American depositary shares of TSMC, worth $4.1B+, in Q3 2022 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221114/p26#a221114p26)<!-- TECH:END -->
+ - [Los Angeles and Taipei-based GoFreight, which provides software to freight forwarders for building a storefront and managing operations, raised a $23M Series A &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221114/p30#a221114p30)
+ - [Microsoft&#39;s Xbox publishes its first transparency report on content moderation and reveals it took action against more than 4.3M inauthentic accounts in H1 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221114/p29#a221114p29)
+ - [In a Twitter Spaces chat, CEO Changpeng Zhao says Binance has seen a &quot;slight increase in withdrawals&quot; but otherwise &quot;it&#39;s still business as usual&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221114/p28#a221114p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
