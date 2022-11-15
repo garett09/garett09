@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] Sources: ~20 Twitter employees who criticized Elon Musk in Twitter&#39;s Slack channels were fired overnight via email &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221115/p20#a221115p20)
- - [NASA’s Space Launch System rocket weathers the storm](https://www.theverge.com/2022/11/14/23458735/nasa-space-launch-system-nicole-rocket-artemis-1)
- - [Meross launches its first Matter smart plug with 50% discount](https://appleinsider.com/articles/22/11/15/meross-launches-its-first-matter-smart-plug-with-50-discount?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Apple Magic Charger&#39; was in the works, but killed](https://appleinsider.com/articles/22/11/15/apple-magic-charger-was-in-the-works-but-killed?utm_medium=rss)
+ - [Black Friday deal: lifetime Babbel language subscription on sale for $199](https://appleinsider.com/articles/22/11/15/black-friday-deal-lifetime-babbel-language-subscription-on-sale-for-199?utm_medium=rss)
+ - [How to combine images using Shortcuts](https://appleinsider.com/inside/macos/tips/how-to-combine-images-using-shortcuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
