@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
- - 🚯 [This.](http://9gag.com/gag/a3Z7Nv1)
- - 🚯 [This snow graffiti.](http://9gag.com/gag/aMEwqbV)<!-- MEMES:END -->
+ - 🚖 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
+ - 🚯 [Add a smile to your day \ud83d\ude01](http://9gag.com/gag/aGE07B0)
+ - 🚯 [Don&#39;t lie, you&#39;ve always wanted to do this](http://9gag.com/gag/aoK2n80)<!-- MEMES:END -->
 
 --- 
 
