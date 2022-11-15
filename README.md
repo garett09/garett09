@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; Birkenstocks sold for $218,750](https://appleinsider.com/articles/22/11/14/steve-jobs-birkenstocks-sold-for-218000?utm_medium=rss)
- - [How to set up Mastodon, an alternative social network](https://appleinsider.com/inside/macos/tips/how-to-set-up-mastodon-an-alternative-social-network?utm_medium=rss)
- - [The tech industry’s moment of reckoning: layoffs and hiring freezes](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)<!-- TECH:END -->
+ - [Elon Musk says he fired engineer who corrected him on Twitter](https://www.theverge.com/2022/11/14/23458247/elon-musk-fires-engineer-correcting-twitter)
+ - [Elon Musk fired at least one company engineer, who had publicly criticized Musk on the platform over Twitter&#39;s RPCs and Twitter being slow on Android &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221114/p22#a221114p22)
+ - [Nike is still trying to make NFTs happen with .Swoosh](https://www.theverge.com/2022/11/14/23458863/nike-nfts-happen-dot-swoosh-sneakers-crypto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
