@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - 🚯 [76 still in beta](http://9gag.com/gag/abv6EBv)
- - 🚯 [F*ck Whatever You Like Too](http://9gag.com/gag/a04dwQv)<!-- MEMES:END -->
+ - 🚖 [How do I get my neighbour&#39;s to stop parking on or blocking my driveway? I have called the local city and complained but yet these f**king losers don&#39;t stop...they didn&#39;t park this time because I was sitting in my suv...](http://9gag.com/gag/aKE2YBO)
+ - 🚯 [The floor is lava game in real life](http://9gag.com/gag/awZ5vYr)
+ - 🚯 [The Hardest Level](http://9gag.com/gag/aMEwWQx)<!-- MEMES:END -->
 
 --- 
 
