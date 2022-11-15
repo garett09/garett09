@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox chief settles the Call of Duty PlayStation debate once and for all](https://www.theverge.com/2022/11/15/23459731/microsoft-call-of-duty-playstation-phil-spencer-comments)
- - [AirVersa Purelle air purifier review: Thread connectivity for HomeKit users](https://appleinsider.com/articles/22/11/15/airversa-purelle-air-purifier-review-thread-connectivity-for-homekit-users?utm_medium=rss)
- - [Apple&#39;s $4B ad business at odds with internal culture and values](https://appleinsider.com/articles/22/11/14/apples-4b-ad-business-at-odds-with-internal-culture-and-values?utm_medium=rss)<!-- TECH:END -->
+ - [Contentstack, a headless CMS for enterprises, raised an $80M Series C co-led by Georgian and Insight Partners, bringing its total funding to $169M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221115/p15#a221115p15)
+ - [Apple plans to expand Emergency SOS via Satellite to France, Germany, Ireland, and the UK in December, after launching the service in the US and Canada &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/221115/p14#a221115p14)
+ - [Emergency SOS via satellite available on Tuesday in US &amp; Canada](https://appleinsider.com/articles/22/11/15/emergency-sos-via-satellite-available-on-tuesday-in-us-canada?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
