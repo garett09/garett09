@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - 🚯 [Yes](http://9gag.com/gag/aMEwvLW)
+ - 🚖 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)
+ - 🚯 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
  - 🚯 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)<!-- MEMES:END -->
 
 --- 
