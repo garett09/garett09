@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
- - 🚯 [Add a smile to your day \ud83d\ude01](http://9gag.com/gag/aGE07B0)
- - 🚯 [Don&#39;t lie, you&#39;ve always wanted to do this](http://9gag.com/gag/aoK2n80)<!-- MEMES:END -->
+ - 🚖 [Never skip the school](http://9gag.com/gag/awZ5dxB)
+ - 🚯 [Ancient 9gag](http://9gag.com/gag/aqerDqL)
+ - 🚯 [Me browsing the Funny section](http://9gag.com/gag/aGE07Qw)<!-- MEMES:END -->
 
 --- 
 
