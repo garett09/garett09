@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Logic.](http://9gag.com/gag/ap9r8v5)
- - 🚯 [Man found a lost purse and returned it to owner&#39;s mother](http://9gag.com/gag/awZ58LR)
- - 🚯 [Cool dad.](http://9gag.com/gag/az2rDgN)<!-- MEMES:END -->
+ - 🚖 [Wait.. what??](http://9gag.com/gag/aREKv87)
+ - 🚯 [Chadwick Boseman on Black Panther 2 T-T RIP King \\m/](http://9gag.com/gag/a8qpnK6)
+ - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)<!-- MEMES:END -->
 
 --- 
 
