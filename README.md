@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you get mad but also you have one of the best friend ever](http://9gag.com/gag/aPgMQOg)
- - 🚯 [Am i a believer?](http://9gag.com/gag/aREKNR2)
- - 🚯 [A classic](http://9gag.com/gag/aeQYyDm)<!-- MEMES:END -->
+ - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - 🚯 [Even after parting with his friend, they&#39;re always there for him](http://9gag.com/gag/axogQjM)
+ - 🚯 [Fascinating earthquake](http://9gag.com/gag/anzy8NE)<!-- MEMES:END -->
 
 --- 
 
