@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better gifts](http://9gag.com/gag/aGE0ooX)
- - 🚯 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
- - 🚯 [Man found a lost purse and returned it to owner&#39;s mother](http://9gag.com/gag/awZ58LR)<!-- MEMES:END -->
+ - 🚖 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
+ - 🚯 [It&#39;s just a prank](http://9gag.com/gag/aVbDddn)
+ - 🚯 [Drawback](http://9gag.com/gag/az2rBzm)<!-- MEMES:END -->
 
 --- 
 
