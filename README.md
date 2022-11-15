@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Apple Magic Charger&#39; was in the works, but killed](https://appleinsider.com/articles/22/11/15/apple-magic-charger-was-in-the-works-but-killed?utm_medium=rss)
- - [Black Friday deal: lifetime Babbel language subscription on sale for $199](https://appleinsider.com/articles/22/11/15/black-friday-deal-lifetime-babbel-language-subscription-on-sale-for-199?utm_medium=rss)
- - [How to combine images using Shortcuts](https://appleinsider.com/inside/macos/tips/how-to-combine-images-using-shortcuts?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday deals you can already get at Walmart](https://www.theverge.com/23440480/walmart-black-friday-2022-best-tech-deals-cyber-monday)
+ - [Q&amp;A with Microsoft Gaming CEO Phil Spencer on running the division, how decisions are made, delaying big games, Xbox, Keystone, exclusives, rivals, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221115/p24#a221115p24)
+ - [Google Pixel Watch now support’s Fitbit’s Sleep Profile](https://www.androidauthority.com/pixel-watch-sleep-profile-3235024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
