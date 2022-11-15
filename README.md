@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tickets Please!!](http://9gag.com/gag/aDYjPX7)
- - 🚯 [Cat being a bro](http://9gag.com/gag/aOxdN62)
+ - 🚖 [Ideal for smart watches](http://9gag.com/gag/aOxdNRD)
+ - 🚯 [Feudal Drip](http://9gag.com/gag/aYVKZrV)
  - 🚯 [Respect to Estonia!](http://9gag.com/gag/a4oZBbA)<!-- MEMES:END -->
 
 --- 
