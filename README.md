@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly 1 in 5 Americans listen to a podcast every day](https://www.theverge.com/2022/11/15/23460870/how-many-people-listen-podcast-spotify-acast-grammys)
- - [Hands on with Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/articles/22/11/15/hands-on-with-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)
- - [Walter Hamada is joining Paramount Pictures following his Warner Bros. Discovery exit](https://www.theverge.com/2022/11/15/23460747/walter-hamada-dc-films-paramount-pictures-the-conjuring-aquaman-warner-bros-discovery)<!-- TECH:END -->
+ - [Amazon Launches Virtual Care Clinic for Common Ailments     - CNET](https://www.cnet.com/health/medical/amazon-launches-virtual-care-clinic-for-common-ailments/#ftag=CAD590a51e)
+ - [Adorama knocks up to 68% off electronics during Black Friday Now Sale](https://appleinsider.com/articles/22/11/15/adorama-knocks-up-to-68-off-electronics-during-black-friday-now-sale?utm_medium=rss)
+ - [Twitter says 2FA still works, but it’s looking into a ‘few cases’ where it didn’t](https://www.theverge.com/2022/11/15/23460940/twitter-2fa-two-factor-authentication-microservices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
