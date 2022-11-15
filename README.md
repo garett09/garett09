@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - 🚖 [76 still in beta](http://9gag.com/gag/abv6EBv)
  - 🚯 [Past, present, and future had a time last night](http://9gag.com/gag/abv6EjB)
- - 🚯 [Beautiful people, beautiful skies, beautiful Dnipro](http://9gag.com/gag/aeQYdrv)<!-- MEMES:END -->
+ - 🚯 [Man found a lost purse and returned it to owner&#39;s mother](http://9gag.com/gag/awZ58LR)<!-- MEMES:END -->
 
 --- 
 
