@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI and Papers with Code unveil Galactica, an open source LLM for generating literature reviews, wiki articles, lecture notes, and more on scientific topics &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/221116/p1#a221116p1)
- - [Bigger Battles Over Voting Lie Ahead, Elections Officials Warn     - CNET](https://www.cnet.com/news/politics/secretaries-of-state-say-biggest-battle-for-democracy-still-lies-ahead/#ftag=CAD590a51e)
- - [Pacific island nation Tuvalu says it plans to build a replica of itself in the metaverse to preserve history and culture, as rising seas threaten its existence &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/221115/p41#a221115p41)<!-- TECH:END -->
+ - [B&amp;H throws massive early Black Friday sale, deals on Apple TV 4K, M2 iPad Pro, Macs](https://appleinsider.com/articles/22/11/16/bh-throws-massive-early-black-friday-sale-deals-on-apple-tv-4k-m2-ipad-pro-macs?utm_medium=rss)
+ - [Dubai-based baraka, a commission-free investment app for Middle East users to invest in US stocks and ETFs, raised a $20M Series A led by Valar Ventures &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/221116/p2#a221116p2)
+ - [Ora Funky Cat Review: Cute, Cheap, but Half-Baked](https://www.wired.com/review/review-ora-funky-cat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
