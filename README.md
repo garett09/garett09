@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday TV deals: 60% off the Hisense 55-inch R6 UHD Smart TV](https://www.androidauthority.com/best-tv-deals-2-1111250/)
- - [Linktree is letting creators add paywalls for premium content](https://www.theverge.com/2022/11/16/23462480/linktree-payment-lock-creators-paywall-premium-content)
- - [The best cases for the M2 iPad Pro](https://appleinsider.com/inside/ipad-pro/best/the-best-cases-for-the-m2-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Evernote agrees to be acquired by Milan-based app developer Bending Spoons, in a transaction expected to close in early 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221116/p24#a221116p24)
+ - [TSM FTX drops FTX](https://www.theverge.com/2022/11/16/23462708/tsm-ftx-suspends-drops-sponsorship-deal)
+ - [Early Black Friday Favorites: 5 Must-Have Deals Worth Checking Out Now     - CNET](https://www.cnet.com/deals/early-black-friday-favorites-5-must-have-deals-worth-checking-out-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
