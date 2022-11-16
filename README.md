@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokyo-based digital payments company Opn says it plans to acquire US payment processing provider MerchantE, sources say for approximately $400M &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/221115/p37#a221115p37)
- - [Apple is reportedly looking to buy chips from US and European fabs](https://www.theverge.com/2022/11/15/23461187/apple-chips-arizona-us-europe-tsmc)
- - [Elon Musk says the new Twitter Blue will relaunch on November 29 &quot;to make sure that it is rock solid&quot;, after pausing signups due to many fake verified accounts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221115/p36#a221115p36)<!-- TECH:END -->
+ - [Apple TV+ picked up then turned down rights to Trump book](https://appleinsider.com/articles/22/11/16/apple-tv-picked-up-then-turned-down-rights-to-trump-book?utm_medium=rss)
+ - [Cloudbrink, which offers networking tools to help secure hybrid workforces, emerges from stealth with $25M led by Highland Capital Partners and The Fabric &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/221115/p39#a221115p39)
+ - [NASA Has a Plan to Keep Space Dust From Hitting Webb Telescope&#39;s Mirror     - CNET](https://www.cnet.com/science/space/nasa-has-a-plan-to-keep-space-dust-from-hitting-webb-telescopes-mirror/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
