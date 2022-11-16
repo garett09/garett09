@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - 🚯 [Third players has entered the game?](http://9gag.com/gag/aWG8ypn)
- - 🚯 [Carls relatives were miserable bastards. Ellie was truly the light of his life.](http://9gag.com/gag/az2rzNx)<!-- MEMES:END -->
+ - 🚖 [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)
+ - 🚯 [The missile which killed 2 Poles landed in Przewod\u00f3w, Poland: 50.47099 lat, 23.93432 lon. The location has the latitude of Kyiv and longitude of Lviv. It\u2019s possible someone might have entered the wrong coordinates in a case of erroneous targeting. Just speculating though](http://9gag.com/gag/abv6D1O)
+ - 🚯 [Sweet home Alabama](http://9gag.com/gag/aBdwzvP)<!-- MEMES:END -->
 
 --- 
 
