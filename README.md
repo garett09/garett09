@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you don&#39;t get paid, but then it&#39;s going to cost you dearly.](http://9gag.com/gag/a4oZ0jQ)
- - 🚯 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - 🚯 [American language, you jerk!](http://9gag.com/gag/aZDBYM0)<!-- MEMES:END -->
+ - 🚖 [Moments of despair we&#39;ve all been through](http://9gag.com/gag/aA0wzw2)
+ - 🚯 [Peacefull city night](http://9gag.com/gag/aeQYwnB)
+ - 🚯 [Xin Ping is no happy that someone leaked private conversation to Paper. Canadian PM responds that he believes in free and fair talks.](http://9gag.com/gag/aMEwLvX)<!-- MEMES:END -->
 
 --- 
 
