@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stellar wallpapers: The newest James Webb photos fit for your Android phone](https://www.androidauthority.com/james-webb-wallpaper-3185747/)
- - [The best Visible deals: More Black Friday offers go live today!](https://www.androidauthority.com/best-visible-deals-1096134/)
- - [St. Louis Apple Store second to seek IAM union membership](https://appleinsider.com/articles/22/11/16/st-louis-apple-store-second-to-seek-iam-union-membership?utm_medium=rss)<!-- TECH:END -->
+ - [Cisco reports Q1 revenue up 6% YoY to $13.6B, vs. $13.3B est., including Secure, Agile Networks up 12% YoY to $6.68B, and increases its FY 2023 revenue guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221116/p28#a221116p28)
+ - [How to make your iPhone’s wallpaper a rotating gallery of good vibes](https://www.theverge.com/23461505/iphone-ios-16-lock-screen-photo-shuffle-nature-quick-tip-how-to)
+ - [iOS 16.2 beta gets &#39;Rapid Security Response&#39; update](https://appleinsider.com/articles/22/11/16/ios-162-beta-gets-rapid-security-response-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
