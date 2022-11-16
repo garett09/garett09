@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ picked up then turned down rights to Trump book](https://appleinsider.com/articles/22/11/16/apple-tv-picked-up-then-turned-down-rights-to-trump-book?utm_medium=rss)
- - [Cloudbrink, which offers networking tools to help secure hybrid workforces, emerges from stealth with $25M led by Highland Capital Partners and The Fabric &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/221115/p39#a221115p39)
- - [NASA Has a Plan to Keep Space Dust From Hitting Webb Telescope&#39;s Mirror     - CNET](https://www.cnet.com/science/space/nasa-has-a-plan-to-keep-space-dust-from-hitting-webb-telescopes-mirror/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pacific island nation Tuvalu says it plans to build a replica of itself in the metaverse to preserve history and culture, as rising seas threaten its existence &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/221115/p41#a221115p41)
+ - [Genesis X Convertible EV Concept Previews Future Design Language     - CNET](https://www.cnet.com/roadshow/news/genesis-x-convertible-ev-concept-previews-future-design-language/#ftag=CAD590a51e)
+ - [Genesis X Convertible Electric Concept Debuts     - CNET](https://www.cnet.com/roadshow/pictures/genesis-x-convertible-electric-concept-debuts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
