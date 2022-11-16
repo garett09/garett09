@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Simplilearn, which offers upskilling courses, bootcamps, and certifications, raised $45M led by GSV Ventures; Blackstone acquired a $250M majority stake in 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/221116/p4#a221116p4)
- - [Samsung Galaxy S21 series is getting its second update of the month](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [NASA’s Artemis 1 mission is finally headed towards the Moon](https://www.theverge.com/2022/11/16/23461490/nasa-artemis-1-success-launch-sls)<!-- TECH:END -->
+ - [Diesel’s latest smartwatch meshes chunky styling with Gen 6 technology](https://www.androidauthority.com/diesel-griffed-gen-6-3235400/)
+ - [Email: Elon Musk outlines &quot;Twitter 2.0&quot;, arguing the approach will be &quot;extremely hardcore&quot;; employees must reply &quot;yes&quot; by 5pm ET or get three months severance &lpar;Washington Post&rpar;](http://www.techmeme.com/221116/p6#a221116p6)
+ - [Daily Authority: 🐉 The chip to power 2023 Android flagships is here!](https://www.androidauthority.com/daily-authority-november-16-2022-3235363/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
