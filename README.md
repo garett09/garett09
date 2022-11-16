@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Awww so cute](http://9gag.com/gag/aQEMbdK)
  - 🚯 [Effective simulation?](http://9gag.com/gag/az2rwOp)
- - 🚯 [That&#39;s why maga republican love trump. It&#39;s refreshing hearing the truth even if it makes you look bad](http://9gag.com/gag/aBdweKO)<!-- MEMES:END -->
+ - 🚯 [Take a break from the news with this:](http://9gag.com/gag/ay2LwKy)<!-- MEMES:END -->
 
 --- 
 
