@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Oversight Board says Facebook should change the rules for wartime posts](https://www.theverge.com/2022/11/16/23462245/facebook-meta-oversight-board-russia-ukraine-nazi-post-violent-conflict)
- - [The 20-year boondoggle](https://www.theverge.com/c/23374767/dhs-homeland-security-bureaucracy-20-years)
- - [Citing a weakened market, Micron says wafer production for DRAM and NAND memory chips will be down about 20% over the past quarter; Micron&#39;s stock fall 5%+ &lpar;Will Feuer/Wall Street Journal&rpar;](http://www.techmeme.com/221116/p19#a221116p19)<!-- TECH:END -->
+ - [The House Financial Services Committee plans a hearing on FTX&#39;s collapse in December and invites Sam Bankman-Fried and other executives &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/221116/p21#a221116p21)
+ - [The best Black Friday phone deals: Save $250 on the OnePlus 10 Pro](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Google Fi’s throwing in a free year of YouTube Premium for Unlimited Plus subscribers](https://www.theverge.com/2022/11/16/23461304/google-fi-unlimited-plus-youtube-premium)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
