@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
- - 🚯 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
- - 🚯 [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)<!-- MEMES:END -->
+ - 🚖 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - 🚯 [Isd\u01dd\u0500](http://9gag.com/gag/a04dyGd)
+ - 🚯 [Pepe Title](http://9gag.com/gag/a9qWxnD)<!-- MEMES:END -->
 
 --- 
 
