@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pacific island nation Tuvalu says it plans to build a replica of itself in the metaverse to preserve history and culture, as rising seas threaten its existence &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/221115/p41#a221115p41)
- - [Genesis X Convertible EV Concept Previews Future Design Language     - CNET](https://www.cnet.com/roadshow/news/genesis-x-convertible-ev-concept-previews-future-design-language/#ftag=CAD590a51e)
- - [Genesis X Convertible Electric Concept Debuts     - CNET](https://www.cnet.com/roadshow/pictures/genesis-x-convertible-electric-concept-debuts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta AI and Papers with Code unveil Galactica, an open source LLM for generating literature reviews, wiki articles, lecture notes, and more on scientific topics &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/221116/p1#a221116p1)
+ - [Bigger Battles Over Voting Lie Ahead, Elections Officials Warn     - CNET](https://www.cnet.com/news/politics/secretaries-of-state-say-biggest-battle-for-democracy-still-lies-ahead/#ftag=CAD590a51e)
+ - [Pacific island nation Tuvalu says it plans to build a replica of itself in the metaverse to preserve history and culture, as rising seas threaten its existence &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/221115/p41#a221115p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
