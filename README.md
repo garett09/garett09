@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen](http://9gag.com/gag/adPqRj9)
- - 🚯 [Totally normal behaviour](http://9gag.com/gag/ay2LZRM)
- - 🚯 [What shall they do](http://9gag.com/gag/agoqpQq)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aGE0NX0)
+ - 🚯 [And everyone knows the reason why.](http://9gag.com/gag/a3Z7zR7)
+ - 🚯 [Welcome to Qatar](http://9gag.com/gag/aNwdG5K)<!-- MEMES:END -->
 
 --- 
 
