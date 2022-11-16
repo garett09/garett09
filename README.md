@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snaaaaaake](http://9gag.com/gag/awZ5G0y)
- - 🚯 [Gods stupid design](http://9gag.com/gag/aqerw2Z)
- - 🚯 [Sometimes you gotta love facebook](http://9gag.com/gag/ajVqvdp)<!-- MEMES:END -->
+ - 🚖 [I\u2019m just a guy who likes to draw, this is the latest piece I worked on.](http://9gag.com/gag/az2rwjB)
+ - 🚯 [Amazing cosplay](http://9gag.com/gag/a7qZBYq)
+ - 🚯 [Parenting can be tough at times.](http://9gag.com/gag/a8qpOeO)<!-- MEMES:END -->
 
 --- 
 
