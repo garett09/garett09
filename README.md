@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 years of cgi development later..](http://9gag.com/gag/a7qZGGw)
- - 🚯 [Last one was personal.](http://9gag.com/gag/ap9r7NE)
- - 🚯 [Time to find a new job](http://9gag.com/gag/adPq41Z)<!-- MEMES:END -->
+ - 🚖 [Awww so cute](http://9gag.com/gag/aQEMbdK)
+ - 🚯 [Effective simulation?](http://9gag.com/gag/az2rwOp)
+ - 🚯 [That&#39;s why maga republican love trump. It&#39;s refreshing hearing the truth even if it makes you look bad](http://9gag.com/gag/aBdweKO)<!-- MEMES:END -->
 
 --- 
 
