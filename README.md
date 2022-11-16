@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moments of despair we&#39;ve all been through](http://9gag.com/gag/aA0wzw2)
- - 🚯 [Peacefull city night](http://9gag.com/gag/aeQYwnB)
- - 🚯 [Xin Ping is no happy that someone leaked private conversation to Paper. Canadian PM responds that he believes in free and fair talks.](http://9gag.com/gag/aMEwLvX)<!-- MEMES:END -->
+ - 🚖 [Xin Ping is no happy that someone leaked private conversation to Paper. Canadian PM responds that he believes in free and fair talks.](http://9gag.com/gag/aMEwLvX)
+ - 🚯 [Karen](http://9gag.com/gag/adPqRj9)
+ - 🚯 [Qatari security prevents a Danish channel from filming the place and threatens to smash the camera](http://9gag.com/gag/aXnAO42)<!-- MEMES:END -->
 
 --- 
 
