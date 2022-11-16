@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The House Financial Services Committee plans a hearing on FTX&#39;s collapse in December and invites Sam Bankman-Fried and other executives &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/221116/p21#a221116p21)
- - [The best Black Friday phone deals: Save $250 on the OnePlus 10 Pro](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Google Fi’s throwing in a free year of YouTube Premium for Unlimited Plus subscribers](https://www.theverge.com/2022/11/16/23461304/google-fi-unlimited-plus-youtube-premium)<!-- TECH:END -->
+ - [Elon Musk defends his title as ‘technoking’ of Tesla, but not Twitter CEO](https://www.theverge.com/2022/11/16/23462668/elon-musk-trial-testimony-twitter-tesla-ceo-technoking)
+ - [Astropad Studio, Luna update adds iPad Pro Hover support, more gestures](https://appleinsider.com/articles/22/11/16/astropad-studio-luna-update-adds-ipad-pro-hover-support-more-gestures?utm_medium=rss)
+ - [A Lab-Grown Meat Startup Gets the FDA’s Stamp of Approval](https://www.wired.com/story/lab-grown-meat-approval/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
