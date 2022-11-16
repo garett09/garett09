@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German, French, and Norwegian data authorities warn against Qatar&#39;s World Cup app Hayya and infection-tracking app Ehteraz, citing privacy and security concerns &lpar;Politico&rpar;](http://www.techmeme.com/221116/p11#a221116p11)
- - [You told us: Most of you haven’t had any major issues with the Pixel 7 series](https://www.androidauthority.com/pixel-7-series-issues-poll-results-3235428/)
- - [A look at SBF&#39;s desperate efforts to raise $7B+ from Sequoia, Apollo, TPG, the Saudis, and others; FTX&#39;s internal accounting software hid FTX-Alameda transfers &lpar;Reuters&rpar;](http://www.techmeme.com/221116/p10#a221116p10)<!-- TECH:END -->
+ - [Apple will buy US-made chips from TSMC, confirms Tim Cook](https://appleinsider.com/articles/22/11/15/apple-will-buy-tsmc-arizona-plant-chips-confirms-tim-cook?utm_medium=rss)
+ - [For Alzheimer’s Scientists, the Amyloid Debate Has No Easy Answers](https://www.wired.com/story/for-alzheimers-scientists-the-amyloid-debate-has-no-easy-answers/)
+ - [Want to Archive Twitter? Good Luck With That](https://www.wired.com/story/twitter-archive-elon-musk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
