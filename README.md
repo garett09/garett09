@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite repeated assurances from Crypto.com CEO Kris Marszalek, customers worry over the exchange&#39;s solvency; Crypto.com&#39;s CRO token drops ~40% in the past week &lpar;CNBC&rpar;](http://www.techmeme.com/221116/p8#a221116p8)
- - [Elon Musk demands Twitter employees commit to ‘extremely hardcore’ culture or leave](https://www.theverge.com/2022/11/16/23462026/elon-musk-twitter-email-hardcore-or-severance)
- - [Tencent reports Q3 revenue down 2% YoY to ~$19.8B, below ~$20B estimates, and plans to distribute most of its ~$20B Meituan stake to shareholders as a dividend &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221116/p7#a221116p7)<!-- TECH:END -->
+ - [German, French, and Norwegian data authorities warn against Qatar&#39;s World Cup app Hayya and infection-tracking app Ehteraz, citing privacy and security concerns &lpar;Politico&rpar;](http://www.techmeme.com/221116/p11#a221116p11)
+ - [You told us: Most of you haven’t had any major issues with the Pixel 7 series](https://www.androidauthority.com/pixel-7-series-issues-poll-results-3235428/)
+ - [A look at SBF&#39;s desperate efforts to raise $7B+ from Sequoia, Apollo, TPG, the Saudis, and others; FTX&#39;s internal accounting software hid FTX-Alameda transfers &lpar;Reuters&rpar;](http://www.techmeme.com/221116/p10#a221116p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
