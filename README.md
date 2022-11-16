@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diesel’s latest smartwatch meshes chunky styling with Gen 6 technology](https://www.androidauthority.com/diesel-griffed-gen-6-3235400/)
- - [Email: Elon Musk outlines &quot;Twitter 2.0&quot;, arguing the approach will be &quot;extremely hardcore&quot;; employees must reply &quot;yes&quot; by 5pm ET or get three months severance &lpar;Washington Post&rpar;](http://www.techmeme.com/221116/p6#a221116p6)
- - [Daily Authority: 🐉 The chip to power 2023 Android flagships is here!](https://www.androidauthority.com/daily-authority-november-16-2022-3235363/)<!-- TECH:END -->
+ - [Despite repeated assurances from Crypto.com CEO Kris Marszalek, customers worry over the exchange&#39;s solvency; Crypto.com&#39;s CRO token drops ~40% in the past week &lpar;CNBC&rpar;](http://www.techmeme.com/221116/p8#a221116p8)
+ - [Elon Musk demands Twitter employees commit to ‘extremely hardcore’ culture or leave](https://www.theverge.com/2022/11/16/23462026/elon-musk-twitter-email-hardcore-or-severance)
+ - [Tencent reports Q3 revenue down 2% YoY to ~$19.8B, below ~$20B estimates, and plans to distribute most of its ~$20B Meituan stake to shareholders as a dividend &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221116/p7#a221116p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
