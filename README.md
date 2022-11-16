@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)
- - 🚯 [Male-dominated society](http://9gag.com/gag/adPqAEB)
- - 🚯 [Amazed but how?](http://9gag.com/gag/aGE0vm0)<!-- MEMES:END -->
+ - 🚖 [Snaaaaaake](http://9gag.com/gag/awZ5G0y)
+ - 🚯 [Gods stupid design](http://9gag.com/gag/aqerw2Z)
+ - 🚯 [Sometimes you gotta love facebook](http://9gag.com/gag/ajVqvdp)<!-- MEMES:END -->
 
 --- 
 
