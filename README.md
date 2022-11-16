@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Pro 9 &lpar;SQ3&rpar; review: Windows on Arm is not ready](https://www.theverge.com/23421326/microsoft-surface-pro-9-arm-qualcomm-sq3-review)
- - [Microsoft Surface Pro 9 &lpar;Intel&rpar; review: this is the one to buy](https://www.theverge.com/23450010/microsoft-surface-pro-9-intel-12th-gen-test-review-benchmark)
- - [Telehealth Sites Put Addiction Patient Data at Risk](https://www.wired.com/story/substance-abuse-telehealth-privacy-tracking-tech/)<!-- TECH:END -->
+ - [Meta’s Oversight Board says Facebook should change the rules for wartime posts](https://www.theverge.com/2022/11/16/23462245/facebook-meta-oversight-board-russia-ukraine-nazi-post-violent-conflict)
+ - [The 20-year boondoggle](https://www.theverge.com/c/23374767/dhs-homeland-security-bureaucracy-20-years)
+ - [Citing a weakened market, Micron says wafer production for DRAM and NAND memory chips will be down about 20% over the past quarter; Micron&#39;s stock fall 5%+ &lpar;Will Feuer/Wall Street Journal&rpar;](http://www.techmeme.com/221116/p19#a221116p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
