@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen](http://9gag.com/gag/adPqRj9)
- - 🚯 [The only thing i want from The Witcher 3\u2018s next gen update.](http://9gag.com/gag/aQEM5Ww)
- - 🚯 [Zelensky met with the Minister of Foreign Affairs of the Netherlands Wopke Hookstra. Damn, Dutch peoples are tall....](http://9gag.com/gag/a1Pd6xw)<!-- MEMES:END -->
+ - 🚖 [When you don&#39;t get paid, but then it&#39;s going to cost you dearly.](http://9gag.com/gag/a4oZ0jQ)
+ - 🚯 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
+ - 🚯 [American language, you jerk!](http://9gag.com/gag/aZDBYM0)<!-- MEMES:END -->
 
 --- 
 
