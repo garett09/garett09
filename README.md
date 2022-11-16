@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk defends his title as ‘technoking’ of Tesla, but not Twitter CEO](https://www.theverge.com/2022/11/16/23462668/elon-musk-trial-testimony-twitter-tesla-ceo-technoking)
- - [Astropad Studio, Luna update adds iPad Pro Hover support, more gestures](https://appleinsider.com/articles/22/11/16/astropad-studio-luna-update-adds-ipad-pro-hover-support-more-gestures?utm_medium=rss)
- - [A Lab-Grown Meat Startup Gets the FDA’s Stamp of Approval](https://www.wired.com/story/lab-grown-meat-approval/)<!-- TECH:END -->
+ - [The best Black Friday TV deals: 60% off the Hisense 55-inch R6 UHD Smart TV](https://www.androidauthority.com/best-tv-deals-2-1111250/)
+ - [Linktree is letting creators add paywalls for premium content](https://www.theverge.com/2022/11/16/23462480/linktree-payment-lock-creators-paywall-premium-content)
+ - [The best cases for the M2 iPad Pro](https://appleinsider.com/inside/ipad-pro/best/the-best-cases-for-the-m2-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
