@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aGE0NX0)
- - 🚯 [And everyone knows the reason why.](http://9gag.com/gag/a3Z7zR7)
- - 🚯 [Welcome to Qatar](http://9gag.com/gag/aNwdG5K)<!-- MEMES:END -->
+ - 🚖 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - 🚯 [Everyone on the world right now](http://9gag.com/gag/aL1MONM)
+ - 🚯 [Thief stealing police phone while the same police is trying to save him from being lynched](http://9gag.com/gag/a5XZANG)<!-- MEMES:END -->
 
 --- 
 
