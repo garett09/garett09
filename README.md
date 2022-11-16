@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)
- - 🚯 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
- - 🚯 [Karen](http://9gag.com/gag/adPqRj9)<!-- MEMES:END -->
+ - 🚖 [Time to find a new job](http://9gag.com/gag/adPq41Z)
+ - 🚯 [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)
+ - 🚯 [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)<!-- MEMES:END -->
 
 --- 
 
