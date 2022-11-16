@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - 🚯 [Everyone on the world right now](http://9gag.com/gag/aL1MONM)
- - 🚯 [Thief stealing police phone while the same police is trying to save him from being lynched](http://9gag.com/gag/a5XZANG)<!-- MEMES:END -->
+ - 🚖 [Karen](http://9gag.com/gag/adPqRj9)
+ - 🚯 [There&#39;s good boys, and then there&#39;s this boy!](http://9gag.com/gag/anzy390)
+ - 🚯 [Hey! how are ya!](http://9gag.com/gag/aNwdXRA)<!-- MEMES:END -->
 
 --- 
 
