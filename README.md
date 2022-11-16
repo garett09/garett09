@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will buy US-made chips from TSMC, confirms Tim Cook](https://appleinsider.com/articles/22/11/15/apple-will-buy-tsmc-arizona-plant-chips-confirms-tim-cook?utm_medium=rss)
- - [For Alzheimer’s Scientists, the Amyloid Debate Has No Easy Answers](https://www.wired.com/story/for-alzheimers-scientists-the-amyloid-debate-has-no-easy-answers/)
- - [Want to Archive Twitter? Good Luck With That](https://www.wired.com/story/twitter-archive-elon-musk/)<!-- TECH:END -->
+ - [Tapo takes on Arlo, Eufy with a low-cost smart security camera system](https://www.theverge.com/2022/11/16/23462054/tplink-tapo-smart-wirefree-security-camera-system-features-price-release-date)
+ - [Genesis&#39; crypto lending unit, which had $2.8B in active loans in Q3, suspends redemptions and new loan originations; trading and custody units are unaffected &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221116/p14#a221116p14)
+ - [Make your iPad Pro more productive with PITAKA PitaFlow and MagEZ Case Pro&#39;s wireless charging](https://appleinsider.com/articles/22/11/15/make-your-ipad-pro-more-productive-with-pitaka-pitaflow-and-magez-case-pros-wireless-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
