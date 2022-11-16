@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tapo takes on Arlo, Eufy with a low-cost smart security camera system](https://www.theverge.com/2022/11/16/23462054/tplink-tapo-smart-wirefree-security-camera-system-features-price-release-date)
- - [Genesis&#39; crypto lending unit, which had $2.8B in active loans in Q3, suspends redemptions and new loan originations; trading and custody units are unaffected &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221116/p14#a221116p14)
- - [Make your iPad Pro more productive with PITAKA PitaFlow and MagEZ Case Pro&#39;s wireless charging](https://appleinsider.com/articles/22/11/15/make-your-ipad-pro-more-productive-with-pitaka-pitaflow-and-magez-case-pros-wireless-charging?utm_medium=rss)<!-- TECH:END -->
+ - [China asks retired military to fill posts at Foxconn&#39;s iPhone factory](https://appleinsider.com/articles/22/11/16/china-asks-retired-military-to-fill-posts-at-foxconns-iphone-factory?utm_medium=rss)
+ - [‘Pentiment’ May Be 2022’s Best Game You’ve Never Heard Of](https://www.wired.com/story/pertinent-best-game-2022/)
+ - [The Stereotype of the Woke Teen Is &#39;Tárring&#39; Art](https://www.wired.com/story/tar-art-social-media-stereotypes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
