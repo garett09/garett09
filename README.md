@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China asks retired military to fill posts at Foxconn&#39;s iPhone factory](https://appleinsider.com/articles/22/11/16/china-asks-retired-military-to-fill-posts-at-foxconns-iphone-factory?utm_medium=rss)
- - [‘Pentiment’ May Be 2022’s Best Game You’ve Never Heard Of](https://www.wired.com/story/pertinent-best-game-2022/)
- - [The Stereotype of the Woke Teen Is &#39;Tárring&#39; Art](https://www.wired.com/story/tar-art-social-media-stereotypes/)<!-- TECH:END -->
+ - [Microsoft Surface Pro 9 &lpar;SQ3&rpar; review: Windows on Arm is not ready](https://www.theverge.com/23421326/microsoft-surface-pro-9-arm-qualcomm-sq3-review)
+ - [Microsoft Surface Pro 9 &lpar;Intel&rpar; review: this is the one to buy](https://www.theverge.com/23450010/microsoft-surface-pro-9-intel-12th-gen-test-review-benchmark)
+ - [Telehealth Sites Put Addiction Patient Data at Risk](https://www.wired.com/story/substance-abuse-telehealth-privacy-tracking-tech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
