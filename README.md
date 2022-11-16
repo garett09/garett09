@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco reports Q1 revenue up 6% YoY to $13.6B, vs. $13.3B est., including Secure, Agile Networks up 12% YoY to $6.68B, and increases its FY 2023 revenue guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221116/p28#a221116p28)
- - [How to make your iPhone’s wallpaper a rotating gallery of good vibes](https://www.theverge.com/23461505/iphone-ios-16-lock-screen-photo-shuffle-nature-quick-tip-how-to)
- - [iOS 16.2 beta gets &#39;Rapid Security Response&#39; update](https://appleinsider.com/articles/22/11/16/ios-162-beta-gets-rapid-security-response-update?utm_medium=rss)<!-- TECH:END -->
+ - [The UK blocks the sale of Newport Wafer Fab to Nexperia, owned by China&#39;s Wingtech, on national security grounds and orders Nexperia to divest 86% of Newport &lpar;Financial Times&rpar;](http://www.techmeme.com/221116/p30#a221116p30)
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [Qualcomm doubles down on augmented reality, spatial audio updates, more](https://www.androidauthority.com/qualcomm-snapdragon-day-2-2022-3235537/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
