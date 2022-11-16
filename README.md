@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3-Month Free Trials of Apple TV+ and Apple Music Come to Xbox Game Pass Ultimate Perks This Holiday](https://news.xbox.com/en-us/2022/11/16/apple-tv-and-apple-music-xbox-game-pass-ultimate-perks/)
- - [Cities: Skylines Goes International with Content Inspired by Places All Around the World](https://news.xbox.com/en-us/2022/11/15/cities-skylines-goes-international/)
- - [Check Out the Latest Updates From Minecraft’s the Mangrove Restoration Project](https://news.xbox.com/en-us/2022/11/15/check-out-the-latest-updates-from-minecrafts-the-mangrove-restoration-project/)<!-- GAME:END -->
+ - [Invoke the Might of the Pyre in the Latest Paladins Update](https://news.xbox.com/en-us/2022/11/16/invoke-the-might-of-the-pyre-in-the-latest-paladins-update/)
+ - [Build Connections with Games for Work, a New Microsoft Teams App](https://news.xbox.com/en-us/2022/11/16/build-connections-with-games-for-work-a-new-microsoft-teams-app/)
+ - [3-Month Free Trials of Apple TV+ and Apple Music Come to Xbox Game Pass Ultimate Perks This Holiday](https://news.xbox.com/en-us/2022/11/16/apple-tv-and-apple-music-xbox-game-pass-ultimate-perks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
