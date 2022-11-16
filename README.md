@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 2 deep dive: Everything you need to know](https://www.androidauthority.com/snapdragon-8-gen-2-explained-3231826/)
- - [5 things you need to know about the Snapdragon 8 Gen 2](https://www.androidauthority.com/snapdragon-8-gen-2-chipset-3233165/)
- - [Qualcomm’s Snapdragon 8 Gen 2 gives us a glimpse of 2023’s Android flagships](https://www.theverge.com/2022/11/15/23458241/qualcomm-snapdragon-8-gen-2-chipset-processor-x70-5g-dynamic-spatial-audio)<!-- TECH:END -->
+ - [Tokyo-based digital payments company Opn says it plans to acquire US payment processing provider MerchantE, sources say for approximately $400M &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/221115/p37#a221115p37)
+ - [Apple is reportedly looking to buy chips from US and European fabs](https://www.theverge.com/2022/11/15/23461187/apple-chips-arizona-us-europe-tsmc)
+ - [Elon Musk says the new Twitter Blue will relaunch on November 29 &quot;to make sure that it is rock solid&quot;, after pausing signups due to many fake verified accounts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221115/p36#a221115p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
