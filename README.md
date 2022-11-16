@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evernote agrees to be acquired by Milan-based app developer Bending Spoons, in a transaction expected to close in early 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221116/p24#a221116p24)
- - [TSM FTX drops FTX](https://www.theverge.com/2022/11/16/23462708/tsm-ftx-suspends-drops-sponsorship-deal)
- - [Early Black Friday Favorites: 5 Must-Have Deals Worth Checking Out Now     - CNET](https://www.cnet.com/deals/early-black-friday-favorites-5-must-have-deals-worth-checking-out-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stellar wallpapers: The newest James Webb photos fit for your Android phone](https://www.androidauthority.com/james-webb-wallpaper-3185747/)
+ - [The best Visible deals: More Black Friday offers go live today!](https://www.androidauthority.com/best-visible-deals-1096134/)
+ - [St. Louis Apple Store second to seek IAM union membership](https://appleinsider.com/articles/22/11/16/st-louis-apple-store-second-to-seek-iam-union-membership?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
