@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H throws massive early Black Friday sale, deals on Apple TV 4K, M2 iPad Pro, Macs](https://appleinsider.com/articles/22/11/16/bh-throws-massive-early-black-friday-sale-deals-on-apple-tv-4k-m2-ipad-pro-macs?utm_medium=rss)
- - [Dubai-based baraka, a commission-free investment app for Middle East users to invest in US stocks and ETFs, raised a $20M Series A led by Valar Ventures &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/221116/p2#a221116p2)
- - [Ora Funky Cat Review: Cute, Cheap, but Half-Baked](https://www.wired.com/review/review-ora-funky-cat/)<!-- TECH:END -->
+ - [The OnePlus 8 series is gaining Android 13 this week](https://www.androidauthority.com/oneplus-8-android-13-update-3235371/)
+ - [Musk pushes Twitter’s paid verification rollout to November 29](https://www.androidauthority.com/twitter-paid-verification-delayed-3235376/)
+ - [A look at Alphabet X&#39;s Mineral, which has developed ML-powered unmanned rovers for inspecting crops that can help agricultural companies improve crop yields &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/221116/p3#a221116p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
