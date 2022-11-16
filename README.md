@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time to find a new job](http://9gag.com/gag/adPq41Z)
- - 🚯 [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)
- - 🚯 [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)<!-- MEMES:END -->
+ - 🚖 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - 🚯 [Third players has entered the game?](http://9gag.com/gag/aWG8ypn)
+ - 🚯 [Carls relatives were miserable bastards. Ellie was truly the light of his life.](http://9gag.com/gag/az2rzNx)<!-- MEMES:END -->
 
 --- 
 
