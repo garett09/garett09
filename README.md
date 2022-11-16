@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Xin Ping is no happy that someone leaked private conversation to Paper. Canadian PM responds that he believes in free and fair talks.](http://9gag.com/gag/aMEwLvX)
- - 🚯 [Karen](http://9gag.com/gag/adPqRj9)
- - 🚯 [Qatari security prevents a Danish channel from filming the place and threatens to smash the camera](http://9gag.com/gag/aXnAO42)<!-- MEMES:END -->
+ - 🚖 [Obviously the paid fans were suspiciously well mannered.](http://9gag.com/gag/a9qWgLL)
+ - 🚯 [Freudian slip](http://9gag.com/gag/aBdwBAZ)
+ - 🚯 [Hey Jim, can you get the... Jim?](http://9gag.com/gag/aVbDyeM)<!-- MEMES:END -->
 
 --- 
 
