@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awww so cute](http://9gag.com/gag/aQEMbdK)
- - 🚯 [Effective simulation?](http://9gag.com/gag/az2rwOp)
- - 🚯 [Take a break from the news with this:](http://9gag.com/gag/ay2LwKy)<!-- MEMES:END -->
+ - 🚖 [Karen](http://9gag.com/gag/adPqRj9)
+ - 🚯 [The only thing i want from The Witcher 3\u2018s next gen update.](http://9gag.com/gag/aQEM5Ww)
+ - 🚯 [Zelensky met with the Minister of Foreign Affairs of the Netherlands Wopke Hookstra. Damn, Dutch peoples are tall....](http://9gag.com/gag/a1Pd6xw)<!-- MEMES:END -->
 
 --- 
 
