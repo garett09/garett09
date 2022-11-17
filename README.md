@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
- - [Free Play Days – NBA 2K23, Naruto to Boruto: Shinobi Striker, and Deep Rock Galactic](https://news.xbox.com/en-us/2022/11/17/free-play-days-nba-2k23-naruto-to-boruto-shinobi-striker-and-deep-rock-galactic/)
- - [Call of Duty: Warzone 2: What&#39;s Worth Knowing About Loadouts And Perks](https://kotaku.com/warzone-2-0-mw2-call-of-duty-loadout-best-perks-package-1849795523)<!-- GAME:END -->
+ - [Survive lurking horrors while you &#39;weaponize human cloning&#39; in Paradox&#39;s new deep-sea survival game](https://www.pcgamer.com/survive-lurking-horrors-while-you-weaponize-human-cloning-in-paradoxs-new-deep-sea-survival-game)
+ - [Genshin Impact Has Made Farming So Tedious, I&#39;m Regretting Everything](https://kotaku.com/genshin-impact-sumeru-farming-grinding-ascension-1849796058)
+ - [Sonic faces a whole multiverse of Eggmans and Eggbabies in newest Sonic Prime trailer](https://www.polygon.com/2022/11/17/23464423/sonic-prime-trailer-netflix-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
