@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Amazon devices are at record-low prices ahead of Black Friday](https://www.androidauthority.com/amazon-black-friday-deals-925192/)
- - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
- - [Shroud now has his own gaming PC — and a chunk of the company that made it](https://www.theverge.com/2022/11/17/23463562/maingear-shroud-mg-1-custom-prebuilt-gaming-pc)<!-- TECH:END -->
+ - [Here’s YouTube’s new startup sound](https://www.theverge.com/2022/11/17/23464799/youtube-new-startup-sound-animation-netflix-tudum)
+ - [General Motors says it will stop burning cash on electric vehicles by 2025](https://www.theverge.com/2022/11/17/23464509/general-motors-ev-profit-1-million-annual-2025)
+ - [TikTok begins testing its research API, announced in July, with members of its Content and Safety Advisory Councils, and is working on a content moderation API &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221117/p29#a221117p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
