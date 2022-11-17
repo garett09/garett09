@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunt a Monstrous Threat and Earn Bonus Rewards During Elder Scrolls Online’s Dark Heart of Skyrim Celebration](https://news.xbox.com/en-us/2022/11/17/elder-scrolls-onlines-dark-heart-of-skyrim-celebration/)
- - [Netflix&#39;s Sonic The Hedgehog Show Has Some Real Spiderverse Vibes](https://kotaku.com/sonic-prime-netflix-trailer-knuckles-tails-amy-rouge-1849797488)
- - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)<!-- GAME:END -->
+ - [All God of War Ragnarök Nornir Chests and puzzle solutions](https://www.polygon.com/god-of-war-ragnarok-guide/23433016/nornir-chest-locations-puzzle-solutions-svartalfheim-alfheim-health-rage)
+ - [Norco Available Now with Game Pass on Xbox One, Xbox Series X|S and PC](https://news.xbox.com/en-us/2022/11/17/norco-available-now-with-game-pass-on-xbox-one-xbox-series-xs-and-pc/)
+ - [My favorite city builder of 2022 just got a major update](https://www.pcgamer.com/my-favorite-city-builder-of-2022-just-got-a-major-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
