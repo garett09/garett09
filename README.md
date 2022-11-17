@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elgato&#39;s new Stream Deck + looks to go beyond streaming macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)
- - [Ikumi Nakamura Is Also An Urban Explorer, Releasing A Lovely Coffee Table Book](https://kotaku.com/ikumi-nakamura-e3-2019-book-urban-explorer-photo-1849794040)
- - [Huge HD mod for Batman Arkham City enhances more than 1,000 textures](https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer and hint for Thursday, November 17](https://www.pcgamer.com/wordle-516-answer-november-17)
+ - [Most of Blizzard&#39;s games won&#39;t be available in China as of next year](https://www.pcgamer.com/most-of-blizzards-games-wont-be-available-in-china-as-of-next-year)
+ - [Elgato&#39;s new Stream Deck + looks to go beyond streaming macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
