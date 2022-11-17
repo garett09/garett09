@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android will prompt you to update apps if they’re crashing](https://www.theverge.com/2022/11/17/23464040/android-google-play-store-update-crashing-apps-update-prompt)
- - [Bluetti Black Friday Sneak Peek: All of the doorbusters and giveaways](https://appleinsider.com/articles/22/11/17/bluetti-black-friday-sneak-peek-all-of-the-doorbusters-and-giveaways?utm_medium=rss)
- - [Twitter’s Moderation System Is in Tatters](https://www.wired.com/story/twitters-moderation-system-is-in-tatters/)<!-- TECH:END -->
+ - [Bankruptcy filings: FTX CEO John J. Ray III condemns SBF&#39;s &quot;unprecedented&quot; poor management practices, describing a &quot;complete failure of corporate controls&quot; &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/221117/p14#a221117p14)
+ - [iPhone not hit by Southeast Asia&#39;s collapsing smartphone market](https://appleinsider.com/articles/22/11/17/iphone-not-hit-by-southeast-asias-collapsing-smartphone-market?utm_medium=rss)
+ - [Shark FlexStyle Drying &amp; Styling System Review: A Cheaper Dyson Alternative](https://www.wired.com/review/shark-flexstyle-drying-and-styling-system/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
