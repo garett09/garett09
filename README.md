@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I watched at least three hours of television today...](http://9gag.com/gag/aQEMGgK)
- - 🚯 [Two Russian Kalibr cruise missiles shot down by german IRIS-T within seconds over Kyiv Oblast,](http://9gag.com/gag/a8qpBv1)
- - 🚯 [Husband Gets Revenge On Cheating Wife](http://9gag.com/gag/anzyp2B)<!-- MEMES:END -->
+ - 🚖 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
+ - 🚯 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
+ - 🚯 [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)<!-- MEMES:END -->
 
 --- 
 
