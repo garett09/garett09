@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best places to drop in Warzone 2 Al Mazrah](https://www.pcgamer.com/call-of-duty-warzone-2-best-starting-locations)
- - [Nvidia hit with class action suit over melting RTX 4090 GPU adapters](https://www.pcgamer.com/nvidia-hit-with-class-action-suit-over-melting-rtx-4090-gpu-adapters)
- - [US congresswoman Alexandria Ocasio-Cortez roasts crypto bros for scrub-tier League of Legends play](https://www.pcgamer.com/us-congresswoman-alexandria-ocasio-cortez-roasts-crypto-bros-for-scrub-tier-league-of-legends-play)<!-- GAME:END -->
+ - [Marvel&#39;s Midnight Suns is more Fire Emblem than XCOM](https://www.pcgamer.com/marvels-midnight-suns-is-more-fire-emblem-than-xcom)
+ - [Knockout City: High Society Heist introduces Poison Ball, Red Hand Crew, and more](https://blog.playstation.com/2022/11/17/knockout-city-high-society-heist-introduces-poison-ball-red-hand-crew-and-more/)
+ - [Black Friday: Unwrap Thrills with $50 off Xbox Series S, 900+ Games on Sale, and More!](https://news.xbox.com/en-us/2022/11/17/black-friday-unwrap-thrills-games-on-sale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
