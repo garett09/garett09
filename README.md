@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
- - 🚯 [Half of the world&#39;s GDP is in 3.6 % of land area](http://9gag.com/gag/adPq3YV)
- - 🚯 [Knees take a beating when you grow up older](http://9gag.com/gag/aMEwp7X)<!-- MEMES:END -->
+ - 🚖 [Choose one hot nurse](http://9gag.com/gag/aoK2XPm)
+ - 🚯 [This lady refused to fasten her seatbelt during landing on a flight from Bali to Singapore and delayed the whole plane](http://9gag.com/gag/axogpq1)
+ - 🚯 [A Chimp was born a couple days ago at the Sedgwick County Zoo. He had trouble getting oxygen so had to be kept at the vet. This video shows mom reuniting with him after almost 2 days apart.](http://9gag.com/gag/armb1ZB)<!-- MEMES:END -->
 
 --- 
 
