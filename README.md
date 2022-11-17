@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What school kids have to pass EVERYDAY just to get home. Making America Great Again](http://9gag.com/gag/avQrwnZ)
- - 🚯 [Time to find a new job](http://9gag.com/gag/adPq41Z)
- - 🚯 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)<!-- MEMES:END -->
+ - 🚖 [One for the homies](http://9gag.com/gag/aGE0mGG)
+ - 🚯 [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
+ - 🚯 [Some people just want to see the world burn](http://9gag.com/gag/a9qWxOj)<!-- MEMES:END -->
 
 --- 
 
