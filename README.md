@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents: Amazon is offering voluntary buyouts to some employees as it looks for ways to cut its headcount beyond the massive layoffs already underway &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/221116/p38#a221116p38)
- - [Intel unveils FakeCatcher, a web app to detect deepfakes in real time that works by analyzing the subtle &quot;blood flow&quot; in video pixels, claims 96% accuracy rate &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/221116/p37#a221116p37)
- - [Qualcomm debuts Snapdragon AR2 Gen 1 designed for slim AR glasses, using 4nm process, claims 2.5x better AI performance than XR2 with 50% less power consumption &lpar;Pranob Mehrotra/XDA Developers&rpar;](http://www.techmeme.com/221116/p36#a221116p36)<!-- TECH:END -->
+ - [Survey of 1,203 cybersecurity professionals: 33%+ said their organization lost more money from holiday or weekend ransomware attacks, up from 13% in 2021 &lpar;Meridith Levinson/Cybersecurity Software&rpar;](http://www.techmeme.com/221117/p1#a221117p1)
+ - [Blizzard will suspend World of Warcraft in China because of licensing dispute](https://www.theverge.com/2022/11/17/23463818/blizzard-netease-china-hearthstone-diablo-world-of-warcraft-unavailable)
+ - [Twitter&#39;s Fake-Account Problem Got Messier With Musk. It May Get Worse     - CNET](https://www.cnet.com/news/social-media/twitters-fake-account-problem-got-messier-with-musk-it-may-get-worse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
