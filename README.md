@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truck tries to run motorcycle over and then speeds over 100 mph. And then...](http://9gag.com/gag/a9qWgVL)
- - 🚯 [Gave hector hispanic attack](http://9gag.com/gag/ajVqb8x)
- - 🚯 [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/amArj1X)<!-- MEMES:END -->
+ - 🚖 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
+ - 🚯 [Russian soldiers in a small boat come under friendly fire from other Russian soldiers on tge far bank of the river - Reportedly while fleeing Kherson - Unknown number of Casualties](http://9gag.com/gag/a9qWQOL)
+ - 🚯 [Special price just for you](http://9gag.com/gag/aWG8KD4)<!-- MEMES:END -->
 
 --- 
 
