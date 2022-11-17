@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft Aspired to Kill Car Ownership. Now It Aims to Profit From It](https://www.wired.com/story/lyft-aspired-to-kill-car-ownership-now-it-aims-to-profit-from-it/)
- - [Google Black Friday deals are here: Pixel 6a for $300, Pixel 7 for $500](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
- - [Financial cybercrime group the Disneyland Team is spoofing bank domains using Punycode, a standard that lets browsers render domains with non-Latin alphabets &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221117/p4#a221117p4)<!-- TECH:END -->
+ - [Picture Limitless Creativity at Your Fingertips](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
+ - [What’s wrong with US broadband?](https://www.theverge.com/2022/11/17/23460070/internet-bill-broadband-survey-data-consumer-reports-cost)
+ - [Colombia lifts ban on 5G iPhones and iPads after appeal](https://appleinsider.com/articles/22/11/17/colombia-lifts-ban-on-5g-iphones-and-ipads-after-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
