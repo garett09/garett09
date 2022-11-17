@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time to find a new job](http://9gag.com/gag/adPq41Z)
- - 🚯 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 🚯 [Play stupid games.....](http://9gag.com/gag/abv6LGr)<!-- MEMES:END -->
+ - 🚖 [Tired of introverts and their dramas and gossips](http://9gag.com/gag/ajVqo9R)
+ - 🚯 [Old but gold](http://9gag.com/gag/aPgMKVQ)
+ - 🚯 [Heart Melting](http://9gag.com/gag/avQr3EW)<!-- MEMES:END -->
 
 --- 
 
