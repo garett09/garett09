@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tired of introverts and their dramas and gossips](http://9gag.com/gag/ajVqo9R)
- - 🚯 [Old but gold](http://9gag.com/gag/aPgMKVQ)
- - 🚯 [Heart Melting](http://9gag.com/gag/avQr3EW)<!-- MEMES:END -->
+ - 🚖 [I watched at least three hours of television today...](http://9gag.com/gag/aQEMGgK)
+ - 🚯 [Two Russian Kalibr cruise missiles shot down by german IRIS-T within seconds over Kyiv Oblast,](http://9gag.com/gag/a8qpBv1)
+ - 🚯 [Husband Gets Revenge On Cheating Wife](http://9gag.com/gag/anzyp2B)<!-- MEMES:END -->
 
 --- 
 
