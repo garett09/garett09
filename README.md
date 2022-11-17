@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta fired or disciplined more than 24 employees and contractors over the past year for allegedly taking over user accounts, sometimes for bribes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221117/p17#a221117p17)
- - [iPhone not hit by Southeast Asia&#39;s collapsing smartphone market](https://appleinsider.com/articles/22/11/17/iphone-not-hit-by-southeast-asias-collapsing-smartphone-market?utm_medium=rss)
- - [What is Qualcomm’s Oryon CPU and why is it important?](https://www.androidauthority.com/qualcomm-oryon-cpu-3233567/)<!-- TECH:END -->
+ - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
+ - [Elon Musk lays out options for remaining Twitter employees: click ‘yes’ or you’re done](https://www.theverge.com/2022/11/17/23464178/elon-musk-twitter-employees-ultimatum-severance-agreement-faq-document)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
