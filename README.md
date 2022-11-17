@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All God of War Ragnarök Nornir Chests and puzzle solutions](https://www.polygon.com/god-of-war-ragnarok-guide/23433016/nornir-chest-locations-puzzle-solutions-svartalfheim-alfheim-health-rage)
- - [Norco Available Now with Game Pass on Xbox One, Xbox Series X|S and PC](https://news.xbox.com/en-us/2022/11/17/norco-available-now-with-game-pass-on-xbox-one-xbox-series-xs-and-pc/)
- - [My favorite city builder of 2022 just got a major update](https://www.pcgamer.com/my-favorite-city-builder-of-2022-just-got-a-major-update)<!-- GAME:END -->
+ - [Even if Andor’s Luthen had a lightsaber, that wouldn’t make him a Jedi](https://www.polygon.com/star-wars/23464807/andor-luthen-lightsaber-jedi-theory)
+ - [Starsand is Out Now on Xbox One and Series X|S](https://news.xbox.com/en-us/2022/11/17/starsand-is-out-now-on-xbox-one-and-series-xs/)
+ - [Warzone 2 Unhinged BR modes let you become best frenemies on the fly](https://www.pcgamer.com/call-of-duty-warzone-2-unhinged-br)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
