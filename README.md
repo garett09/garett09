@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Picture Limitless Creativity at Your Fingertips](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
- - [What’s wrong with US broadband?](https://www.theverge.com/2022/11/17/23460070/internet-bill-broadband-survey-data-consumer-reports-cost)
- - [Colombia lifts ban on 5G iPhones and iPads after appeal](https://appleinsider.com/articles/22/11/17/colombia-lifts-ban-on-5g-iphones-and-ipads-after-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [Android will prompt you to update apps if they’re crashing](https://www.theverge.com/2022/11/17/23464040/android-google-play-store-update-crashing-apps-update-prompt)
+ - [Bluetti Black Friday Sneak Peek: All of the doorbusters and giveaways](https://appleinsider.com/articles/22/11/17/bluetti-black-friday-sneak-peek-all-of-the-doorbusters-and-giveaways?utm_medium=rss)
+ - [Twitter’s Moderation System Is in Tatters](https://www.wired.com/story/twitters-moderation-system-is-in-tatters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
