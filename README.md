@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A House Select Subcommittee investigation finds ID.me made &quot;baseless claims&quot; of rampant COVID-19 unemployment fraud &quot;to increase demand&quot; for its ID verification &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221117/p23#a221117p23)
- - [Sources: Palo Alto Networks to buy Cider Security, which helps enterprises identify security risks in DevOps pipelines, for $200M in cash and $100M in shares &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221117/p22#a221117p22)
- - [Spot AI, which offers a cloud-based analytics system to &quot;read&quot; security footage and offer insights, raised $40M, bringing its total funding to $63M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221117/p21#a221117p21)<!-- TECH:END -->
+ - [Google just launched a slew of helpful search features](https://www.androidauthority.com/google-search-features-3236058/)
+ - [Sources: SoftBank sells 29.35M Paytm shares, or a 4.5% stake, for $200M, causing Paytm stock to drop 9%+; Vision Fund was Paytm&#39;s second-largest shareholder &lpar;Reuters&rpar;](http://www.techmeme.com/221117/p26#a221117p26)
+ - [Save over $50 on the WH-1000MX5 in these killer Sony headphone deals](https://www.androidauthority.com/sony-headphone-deals-3231384/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
