@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are so wild to drive through a Christmas parade killing 6 people and injuring 61, so arrogant to dismiss your defence team and be own lawyer, so cold that rolling your eyes when the victims talk about their experiences. He just received 6 lifetimes + 1.230 years in jail.](http://9gag.com/gag/a2KdeNd)
- - 🚯 [Oops](http://9gag.com/gag/aMEwojX)
- - 🚯 [Let me fix it.](http://9gag.com/gag/ay2Ljbb)<!-- MEMES:END -->
+ - 🚖 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
+ - 🚯 [BFF!](http://9gag.com/gag/agoqWdg)
+ - 🚯 [Politicians during election](http://9gag.com/gag/aPgM5mV)<!-- MEMES:END -->
 
 --- 
 
