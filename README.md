@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bankruptcy filings: FTX CEO John J. Ray III condemns SBF&#39;s &quot;unprecedented&quot; poor management practices, describing a &quot;complete failure of corporate controls&quot; &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/221117/p14#a221117p14)
- - [iPhone not hit by Southeast Asia&#39;s collapsing smartphone market](https://appleinsider.com/articles/22/11/17/iphone-not-hit-by-southeast-asias-collapsing-smartphone-market?utm_medium=rss)
- - [Shark FlexStyle Drying &amp; Styling System Review: A Cheaper Dyson Alternative](https://www.wired.com/review/shark-flexstyle-drying-and-styling-system/)<!-- TECH:END -->
+ - [Strava training plans: How to begin one and train like the best](https://www.androidauthority.com/how-to-strava-training-plan-3193995/)
+ - [Daily deals Nov. 17: 8% off Apple Polishing Cloth, Xbox Elite Core controller for $100, $110 off Samsung 32-inch 4K monitor, more](https://appleinsider.com/articles/22/11/17/daily-deals-nov-17-8-off-apple-polishing-cloth-xbox-elite-controller-for-100-110-off-samsung-32-inch-4k-monitor-more?utm_medium=rss)
+ - [Why the Emoji Skin Tone You Choose Matters](https://www.wired.com/story/why-the-emoji-skin-tone-you-choose-matters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
