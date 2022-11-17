@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s YouTube’s new startup sound](https://www.theverge.com/2022/11/17/23464799/youtube-new-startup-sound-animation-netflix-tudum)
- - [General Motors says it will stop burning cash on electric vehicles by 2025](https://www.theverge.com/2022/11/17/23464509/general-motors-ev-profit-1-million-annual-2025)
- - [TikTok begins testing its research API, announced in July, with members of its Content and Safety Advisory Councils, and is working on a content moderation API &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221117/p29#a221117p29)<!-- TECH:END -->
+ - [Apple&#39;s Black Friday promo is here, but there are far better deals](https://appleinsider.com/articles/22/11/17/apples-black-friday-promo-is-here-but-there-are-far-better-deals?utm_medium=rss)
+ - [1Password embraces a passwordless future](https://www.theverge.com/2022/11/17/23464817/1password-passkey-support-security-apple-google)
+ - [JWST just spotted two unusually bright galaxies from the very early universe](https://www.theverge.com/2022/11/17/23464796/jwst-galaxies-early-universe-nasa-james-webb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
