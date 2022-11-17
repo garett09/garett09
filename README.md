@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of 1,203 cybersecurity professionals: 33%+ said their organization lost more money from holiday or weekend ransomware attacks, up from 13% in 2021 &lpar;Meridith Levinson/Cybersecurity Software&rpar;](http://www.techmeme.com/221117/p1#a221117p1)
- - [Blizzard will suspend World of Warcraft in China because of licensing dispute](https://www.theverge.com/2022/11/17/23463818/blizzard-netease-china-hearthstone-diablo-world-of-warcraft-unavailable)
- - [Twitter&#39;s Fake-Account Problem Got Messier With Musk. It May Get Worse     - CNET](https://www.cnet.com/news/social-media/twitters-fake-account-problem-got-messier-with-musk-it-may-get-worse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus, Xiaomi, Motorola, and others confirm Snapdragon 8 Gen 2 phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-2-phones-3235875/)
+ - [Jakarta-based Privy, which offers digital signature and identity verification services, raised a $48M Series C led by KKR, bringing its total funding to $71.6M &lpar;Mars W. Mosqueda Jr/DealStreetAsia&rpar;](http://www.techmeme.com/221117/p2#a221117p2)
+ - [&#39;The Wonder:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-wonder-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
