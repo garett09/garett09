@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 🚯 [BFF!](http://9gag.com/gag/agoqWdg)
- - 🚯 [Tired of introverts and their dramas and gossips](http://9gag.com/gag/ajVqo9R)<!-- MEMES:END -->
+ - 🚖 [Goat animation motion capture for Goat Simulator 3 by Coffee Stain Studio North](http://9gag.com/gag/aqerqjY)
+ - 🚯 [Which war ?](http://9gag.com/gag/aL1My2z)
+ - 🚯 [Life&#39;s better](http://9gag.com/gag/ajVqp3R)<!-- MEMES:END -->
 
 --- 
 
