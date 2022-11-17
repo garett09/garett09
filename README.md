@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepe Title](http://9gag.com/gag/a9qWxnD)
- - 🚯 [Why are cats like this?! wtf](http://9gag.com/gag/az2r6PB)
- - 🚯 [The Hague Court found Russians Igor Girkin, Sergey Dubinskiy and Ukrainian Leonid Harchenko guilty of shooting down MH17 plane. They also recognized Russian invasion of Ukraine in 2014 as international conflict and not a civil war.](http://9gag.com/gag/aoK2rXX)<!-- MEMES:END -->
+ - 🚖 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
+ - 🚯 [Half of the world&#39;s GDP is in 3.6 % of land area](http://9gag.com/gag/adPq3YV)
+ - 🚯 [Knees take a beating when you grow up older](http://9gag.com/gag/aMEwp7X)<!-- MEMES:END -->
 
 --- 
 
