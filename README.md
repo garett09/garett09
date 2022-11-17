@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a lovely da... Nope.](http://9gag.com/gag/aBdwANP)
- - 🚯 [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
- - 🚯 [Some people just want to see the world burn](http://9gag.com/gag/a9qWxOj)<!-- MEMES:END -->
+ - 🚖 [To tHe MoOn](http://9gag.com/gag/aoK2XZX)
+ - 🚯 [Oops](http://9gag.com/gag/aMEwojX)
+ - 🚯 [You only had one job Perry!](http://9gag.com/gag/amAre4o)<!-- MEMES:END -->
 
 --- 
 
