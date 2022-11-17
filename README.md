@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 🚯 [Russian soldiers in a small boat come under friendly fire from other Russian soldiers on tge far bank of the river - Reportedly while fleeing Kherson - Unknown number of Casualties](http://9gag.com/gag/a9qWQOL)
- - 🚯 [Special price just for you](http://9gag.com/gag/aWG8KD4)<!-- MEMES:END -->
+ - 🚖 [Pepe Title](http://9gag.com/gag/a9qWxnD)
+ - 🚯 [Why are cats like this?! wtf](http://9gag.com/gag/az2r6PB)
+ - 🚯 [The Hague Court found Russians Igor Girkin, Sergey Dubinskiy and Ukrainian Leonid Harchenko guilty of shooting down MH17 plane. They also recognized Russian invasion of Ukraine in 2014 as international conflict and not a civil war.](http://9gag.com/gag/aoK2rXX)<!-- MEMES:END -->
 
 --- 
 
