@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just launched a slew of helpful search features](https://www.androidauthority.com/google-search-features-3236058/)
- - [Sources: SoftBank sells 29.35M Paytm shares, or a 4.5% stake, for $200M, causing Paytm stock to drop 9%+; Vision Fund was Paytm&#39;s second-largest shareholder &lpar;Reuters&rpar;](http://www.techmeme.com/221117/p26#a221117p26)
- - [Save over $50 on the WH-1000MX5 in these killer Sony headphone deals](https://www.androidauthority.com/sony-headphone-deals-3231384/)<!-- TECH:END -->
+ - [Some Amazon devices are at record-low prices ahead of Black Friday](https://www.androidauthority.com/amazon-black-friday-deals-925192/)
+ - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
+ - [Shroud now has his own gaming PC — and a chunk of the company that made it](https://www.theverge.com/2022/11/17/23463562/maingear-shroud-mg-1-custom-prebuilt-gaming-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
