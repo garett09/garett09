@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scarlet and Violet are a step back for Pokémon’s open-world era](https://www.polygon.com/reviews/23462736/pokemon-scarlet-and-violet-review-release-date-nintendo-switch)
- - [New Global Xbox Survey Finds Families Plan to Connect Through Gaming This Holiday](https://news.xbox.com/en-us/2022/11/17/new-global-survey-families-connect-through-gaming-this-holiday/)
- - [Today&#39;s Wordle answer and hint for Thursday, November 17](https://www.pcgamer.com/wordle-516-answer-november-17)<!-- GAME:END -->
+ - [The best places to drop in Warzone 2 Al Mazrah](https://www.pcgamer.com/call-of-duty-warzone-2-best-starting-locations)
+ - [Nvidia hit with class action suit over melting RTX 4090 GPU adapters](https://www.pcgamer.com/nvidia-hit-with-class-action-suit-over-melting-rtx-4090-gpu-adapters)
+ - [US congresswoman Alexandria Ocasio-Cortez roasts crypto bros for scrub-tier League of Legends play](https://www.pcgamer.com/us-congresswoman-alexandria-ocasio-cortez-roasts-crypto-bros-for-scrub-tier-league-of-legends-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
