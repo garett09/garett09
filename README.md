@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Last one was personal.](http://9gag.com/gag/ap9r7NE)
- - 🚯 [Good luck eating all that without water.](http://9gag.com/gag/ap9ryR9)
- - 🚯 [Steve will always be there for you for better or for worse](http://9gag.com/gag/aGE03x0)<!-- MEMES:END -->
+ - 🚖 [Truck tries to run motorcycle over and then speeds over 100 mph. And then...](http://9gag.com/gag/a9qWgVL)
+ - 🚯 [Gave hector hispanic attack](http://9gag.com/gag/ajVqb8x)
+ - 🚯 [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/amArj1X)<!-- MEMES:END -->
 
 --- 
 
