@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK blocks the sale of Newport Wafer Fab to Nexperia, owned by China&#39;s Wingtech, on national security grounds and orders Nexperia to divest 86% of Newport &lpar;Financial Times&rpar;](http://www.techmeme.com/221116/p30#a221116p30)
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Qualcomm doubles down on augmented reality, spatial audio updates, more](https://www.androidauthority.com/qualcomm-snapdragon-day-2-2022-3235537/)<!-- TECH:END -->
+ - [Steve Aoki dropped the beat at Amazon during layoffs](https://www.theverge.com/2022/11/16/23463477/amazon-layoffs-steve-aoki-concert-twitch)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [A chat via DM with SBF on why regulators &quot;make everything worse&quot;, FTX and Alameda&#39;s &quot;messy accounting&quot;, why he regrets filing for bankruptcy, ethics, and more &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/221116/p32#a221116p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
