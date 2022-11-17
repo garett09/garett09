@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even if Andor’s Luthen had a lightsaber, that wouldn’t make him a Jedi](https://www.polygon.com/star-wars/23464807/andor-luthen-lightsaber-jedi-theory)
- - [Starsand is Out Now on Xbox One and Series X|S](https://news.xbox.com/en-us/2022/11/17/starsand-is-out-now-on-xbox-one-and-series-xs/)
- - [Warzone 2 Unhinged BR modes let you become best frenemies on the fly](https://www.pcgamer.com/call-of-duty-warzone-2-unhinged-br)<!-- GAME:END -->
+ - [Amazon’s Spider-Man spinoff expands Sony’s live-action Spider-Verse](https://www.polygon.com/23465129/silk-spider-man-spin-off-show-amazon-epix)
+ - [The best Warzone 2 loadouts so far](https://www.pcgamer.com/the-best-warzone-2-loadouts-so-far)
+ - [This WoW Geoguessr uses &#39;roughly 3 million images&#39; and I&#39;m still lost](https://www.pcgamer.com/this-wow-geoguessr-uses-roughly-3-million-images-and-im-still-lost)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
