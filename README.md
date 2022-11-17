@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elgato&#39;s new Stream Deck + looks to go beyond streaming macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)
  - [Ikumi Nakamura Is Also An Urban Explorer, Releasing A Lovely Coffee Table Book](https://kotaku.com/ikumi-nakamura-e3-2019-book-urban-explorer-photo-1849794040)
- - [Huge HD mod for Batman Arkham City enhances more than 1,000 textures](https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures)
- - [Buckle up, you&#39;re now entering PC gaming&#39;s peak for 2022](https://www.pcgamer.com/buckle-up-youre-now-entering-pc-gamings-peak-for-2022)<!-- GAME:END -->
+ - [Huge HD mod for Batman Arkham City enhances more than 1,000 textures](https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
