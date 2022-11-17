@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 best deals of the Crutchfield Black Friday sale](https://www.androidauthority.com/crutchfield-black-friday-sale-3236229/)
- - [Roku lays off 200 US employees](https://www.theverge.com/2022/11/17/23464849/roku-streaming-layoffs-200-employees-costs-advertising)
- - [Mei day: Overwatch 2 frees controversial hero](https://www.theverge.com/2022/11/17/23464865/overwatch-2-mei-battle-pass-sms-protect)<!-- TECH:END -->
+ - [Twitter-Musk News Timeline: Musk Backtracks on Remote Work, Senators Call for FTC Review     - CNET](https://www.cnet.com/news/social-media/twitter-musk-news-timeline-musk-backtracks-on-remote-work-senators-call-for-ftc-review/#ftag=CAD590a51e)
+ - [Whoa, This 2022 Insignia Fire TV Is Only $80 Right Now on Amazon     - CNET](https://www.cnet.com/deals/whoa-this-2022-insignia-fire-tv-is-only-80-dollars-right-now-on-amazon/#ftag=CAD590a51e)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
