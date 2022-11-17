@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To tHe MoOn](http://9gag.com/gag/aoK2XZX)
- - 🚯 [Oops](http://9gag.com/gag/aMEwojX)
- - 🚯 [You only had one job Perry!](http://9gag.com/gag/amAre4o)<!-- MEMES:END -->
+ - 🚖 [Oops](http://9gag.com/gag/aMEwojX)
+ - 🚯 [To tHe MoOn](http://9gag.com/gag/aoK2XZX)
+ - 🚯 [Hehe!!](http://9gag.com/gag/aqer02Z)<!-- MEMES:END -->
 
 --- 
 
