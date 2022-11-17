@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
- - [Elon Musk lays out options for remaining Twitter employees: click ‘yes’ or you’re done](https://www.theverge.com/2022/11/17/23464178/elon-musk-twitter-employees-ultimatum-severance-agreement-faq-document)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [A House Select Subcommittee investigation finds ID.me made &quot;baseless claims&quot; of rampant COVID-19 unemployment fraud &quot;to increase demand&quot; for its ID verification &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221117/p23#a221117p23)
+ - [Sources: Palo Alto Networks to buy Cider Security, which helps enterprises identify security risks in DevOps pipelines, for $200M in cash and $100M in shares &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221117/p22#a221117p22)
+ - [Spot AI, which offers a cloud-based analytics system to &quot;read&quot; security footage and offer insights, raised $40M, bringing its total funding to $63M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221117/p21#a221117p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
