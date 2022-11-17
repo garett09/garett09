@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jumplight Odyssey turns classic space anime into a roguelite, and you&#39;re captaining the ship](https://www.pcgamer.com/jumplight-odyssey-turns-classic-space-anime-into-a-roguelite-and-youre-captaining-the-ship)
- - [Speed Through Ancient Temples in Turbo Golf Racing Season 2: Aztec Run](https://news.xbox.com/en-us/2022/11/17/speed-through-ancient-temples-in-turbo-golf-racing-season-2-aztec-run/)
- - [All Warzone 2 contracts explained](https://www.pcgamer.com/call-of-duty-warzone-2-contracts)<!-- GAME:END -->
+ - [Gameheads Empowers Youth of Color to Pursue Careers in Gaming](https://news.xbox.com/en-us/2022/11/17/gameheads-empowers-youth-of-color-to-pursue-careers-in-gaming/)
+ - [Netflix’s 1899 has a mystery that goes deeper than the plot](https://www.polygon.com/23463136/netflix-1899-music-soundtrack-dark-creators)
+ - [Someone made a World of Warcraft GeoGuessr and now the last 18 years of my life have meaning](https://www.polygon.com/23464583/world-of-warcraft-geoguessr-location-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
