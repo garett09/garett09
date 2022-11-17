@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
+ - 🚖 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
  - 🚯 [BFF!](http://9gag.com/gag/agoqWdg)
- - 🚯 [Politicians during election](http://9gag.com/gag/aPgM5mV)<!-- MEMES:END -->
+ - 🚯 [Tired of introverts and their dramas and gossips](http://9gag.com/gag/ajVqo9R)<!-- MEMES:END -->
 
 --- 
 
