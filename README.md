@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goat animation motion capture for Goat Simulator 3 by Coffee Stain Studio North](http://9gag.com/gag/aqerqjY)
- - 🚯 [Which war ?](http://9gag.com/gag/aL1My2z)
- - 🚯 [Life&#39;s better](http://9gag.com/gag/ajVqp3R)<!-- MEMES:END -->
+ - 🚖 [Good ol&#39; Facebook cringe](http://9gag.com/gag/ap9rWm9)
+ - 🚯 [Life&#39;s better](http://9gag.com/gag/ajVqp3R)
+ - 🚯 [Which war ?](http://9gag.com/gag/aL1My2z)<!-- MEMES:END -->
 
 --- 
 
