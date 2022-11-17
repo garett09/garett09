@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good ol&#39; Facebook cringe](http://9gag.com/gag/ap9rWm9)
- - 🚯 [Life&#39;s better](http://9gag.com/gag/ajVqp3R)
- - 🚯 [Which war ?](http://9gag.com/gag/aL1My2z)<!-- MEMES:END -->
+ - 🚖 [Time to find a new job](http://9gag.com/gag/adPq41Z)
+ - 🚯 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
+ - 🚯 [Play stupid games.....](http://9gag.com/gag/abv6LGr)<!-- MEMES:END -->
 
 --- 
 
