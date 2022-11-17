@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - 🚯 [Isd\u01dd\u0500](http://9gag.com/gag/a04dyGd)
- - 🚯 [Pepe Title](http://9gag.com/gag/a9qWxnD)<!-- MEMES:END -->
+ - 🚖 [What school kids have to pass EVERYDAY just to get home. Making America Great Again](http://9gag.com/gag/avQrwnZ)
+ - 🚯 [Time to find a new job](http://9gag.com/gag/adPq41Z)
+ - 🚯 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)<!-- MEMES:END -->
 
 --- 
 
