@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pokémon Violet and Scarlet are the vast open worlds the series has been building to](https://www.theverge.com/23462858/pokemon-violet-scarlet-review-nintendo-switch)
  - [Daily Authority: 🖥️ A new hope for Arm PCs](https://www.androidauthority.com/daily-authority-17-november-2022-3235867/)
- - [Candy Crush shows little sign of disappearing after 10 years, with estimated earnings similar to the Star Trek or Superman franchises, sans the cultural impact &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221117/p3#a221117p3)
- - [OnePlus, Xiaomi, Motorola, and others confirm Snapdragon 8 Gen 2 phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-2-phones-3235875/)<!-- TECH:END -->
+ - [Candy Crush shows little sign of disappearing after 10 years, with estimated earnings similar to the Star Trek or Superman franchises, sans the cultural impact &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221117/p3#a221117p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
