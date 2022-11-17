@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Survive lurking horrors while you &#39;weaponize human cloning&#39; in Paradox&#39;s new deep-sea survival game](https://www.pcgamer.com/survive-lurking-horrors-while-you-weaponize-human-cloning-in-paradoxs-new-deep-sea-survival-game)
- - [Genshin Impact Has Made Farming So Tedious, I&#39;m Regretting Everything](https://kotaku.com/genshin-impact-sumeru-farming-grinding-ascension-1849796058)
- - [Sonic faces a whole multiverse of Eggmans and Eggbabies in newest Sonic Prime trailer](https://www.polygon.com/2022/11/17/23464423/sonic-prime-trailer-netflix-release-date)<!-- GAME:END -->
+ - [Jumplight Odyssey turns classic space anime into a roguelite, and you&#39;re captaining the ship](https://www.pcgamer.com/jumplight-odyssey-turns-classic-space-anime-into-a-roguelite-and-youre-captaining-the-ship)
+ - [Speed Through Ancient Temples in Turbo Golf Racing Season 2: Aztec Run](https://news.xbox.com/en-us/2022/11/17/speed-through-ancient-temples-in-turbo-golf-racing-season-2-aztec-run/)
+ - [All Warzone 2 contracts explained](https://www.pcgamer.com/call-of-duty-warzone-2-contracts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
