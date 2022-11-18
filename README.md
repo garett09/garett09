@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)
- - 🚯 [What a time to be alive! We might be witnessing Elon causing the downfall of his own company.](http://9gag.com/gag/a4ob496)
- - 🚯 [Step brother help me](http://9gag.com/gag/aoK1zmm)<!-- MEMES:END -->
+ - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚯 [Dad of War](http://9gag.com/gag/amAYX56)
+ - 🚯 [What a time to be alive! We might be witnessing Elon causing the downfall of his own company.](http://9gag.com/gag/a4ob496)<!-- MEMES:END -->
 
 --- 
 
