@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/aOxdXG2)
- - 🚯 [When cartoons were more creative! &lpar;and crazy&rpar;](http://9gag.com/gag/aEqYvoO)
- - 🚯 [Best deal ever!](http://9gag.com/gag/aBdWROA)<!-- MEMES:END -->
+ - 🚖 [Pepe Title](http://9gag.com/gag/a9qWxnD)
+ - 🚯 [I&#39;ve been thinking about making this for a long time. Finally went through my gallery and made it. Not much to choose from song wise. Any music ideas that would fit better?](http://9gag.com/gag/avQGpKZ)
+ - 🚯 [True](http://9gag.com/gag/armbvY6)<!-- MEMES:END -->
 
 --- 
 
