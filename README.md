@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
- - 🚯 [What having a 2-year-old toddler is like.](http://9gag.com/gag/aVbqz7v)
- - 🚯 [When cartoons were more creative! &lpar;and crazy&rpar;](http://9gag.com/gag/aEqYvoO)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/aOxdXG2)
+ - 🚯 [When cartoons were more creative! &lpar;and crazy&rpar;](http://9gag.com/gag/aEqYvoO)
+ - 🚯 [Best deal ever!](http://9gag.com/gag/aBdWROA)<!-- MEMES:END -->
 
 --- 
 
