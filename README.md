@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia&#39;s GoTo Group cuts 1,300 jobs, or ~12% of its workforce, to trim costs and improve finances &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221117/p40#a221117p40)
- - [Twitter’s living wake kicked off with Elon’s 5PM deadline](https://www.theverge.com/2022/11/17/23465659/rip-twitter-trending-elon-musk-ultimatum)
- - [Elon Musk&#39;s Ultimatum to Twitter Staff Leads to Reported Exodus     - CNET](https://www.cnet.com/culture/elon-musks-ultimatum-to-twitter-staff-leads-to-reported-exodus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now Samsung’s older mid-rangers are starting to receive stable Android 13](https://www.androidauthority.com/samsung-galaxy-a52-stable-android-13-update-one-ui-5-3236337/)
+ - [Twitter-Musk News Timeline: #RIPTwitter Trends After Employees Resign     - CNET](https://www.cnet.com/news/social-media/twitter-musk-news-timeline-riptwitter-trends-after-employees-resign/#ftag=CAD590a51e)
+ - [Hundreds of Twitter Employees Reportedly Resign After Musk&#39;s Ultimatum     - CNET](https://www.cnet.com/culture/hundreds-of-twitter-employees-reportedly-resign-after-musks-ultimatum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
