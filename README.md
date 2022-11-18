@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketmaster yanked its explanation for the Taylor Swift ticket debacle](https://www.theverge.com/2022/11/18/23466518/taylor-swift-ticketmaster-presale-ticket-debacle-explanation-blog-post)
- - [Taylor Swift is just as mad at Ticketmaster as you are](https://www.theverge.com/2022/11/18/23466465/taylor-swift-eras-tour-ticketmaster-statement)
- - [US Citizenship and Immigration Services data shows Twitter had nearly 300 people approved to work on H-1B visas in FY 2022 and Meta had more than 1,300 &lpar;CNN&rpar;](http://www.techmeme.com/221118/p10#a221118p10)<!-- TECH:END -->
+ - [These Samsung Black Friday phone deals have sent Amazon prices spiraling](https://www.androidauthority.com/samsung-black-friday-phone-deals-3236580/)
+ - [16 Best Black Friday Deals on Microsoft Hardware &lpar;2022&rpar;: Xbox Series S, Surface Laptops](https://www.wired.com/story/best-black-friday-microsoft-xbox-surface-laptop-deals-2022/)
+ - [Compared: New Apple Watch SE vs. Apple Watch SE 2020](https://appleinsider.com/articles/22/09/09/compared-new-apple-watch-se-vs-apple-watch-se-2020?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
