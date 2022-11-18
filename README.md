@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 21 to 25](https://news.xbox.com/en-us/2022/11/18/next-week-on-xbox-new-games-for-november-21-to-25/)
- - [Pokémon Scarlet and Violet really lean into the whole people-eat-Pokémon thing](https://www.polygon.com/pokemon/23464260/pokemon-scarlet-and-violet-paldea-eat-delicious-pokemon)
- - [Here&#39;s how perk packages work in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-perks-packages-custom)<!-- GAME:END -->
+ - [Darktide classes guide: Should you play as an Ogryn, Psyker, Veteran or Zealot?](https://www.pcgamer.com/warhammer-40000-darktide-classes-guide)
+ - [Marvel&#39;s Spider-Man: Miles Morales review](https://www.pcgamer.com/marvels-spider-man-miles-morales-review)
+ - [Marvel’s Spider-Man: Miles Morales is out now on PC](https://blog.playstation.com/2022/11/18/marvels-spider-man-miles-morales-is-out-now-on-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
