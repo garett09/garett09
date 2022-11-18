@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [1899 fails where Dark succeeded](https://www.polygon.com/23466793/1899-netflix-show-dark)
- - [You can play Warhammer 40K: Darktide on PC right now](https://www.polygon.com/23466857/warhammer-40k-darktide-pre-order-beta-early-access-release-time)
- - [Activision calls Epic&#39;s latest Google lawsuit allegations &#39;nonsense&#39;](https://www.pcgamer.com/activision-calls-epics-latest-google-lawsuit-allegations-nonsense)<!-- GAME:END -->
+ - [Smile, new Christmas movies, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/11/18/23457649/new-movies-watch-christmas-netflix-slumberland-smile-nope)
+ - [Why is Marvel afraid of Namor’s bulge?](https://www.polygon.com/23467043/black-panther-wakanda-forever-namor-bulge)
+ - [How Pokémon Scarlet and Violet’s multiplayer works &lpar;and doesn’t&rpar;](https://www.polygon.com/pokemon-scarlet-violet-guide/23466451/union-circle-multiplayer-exclusives-spawns-raids-trade-battle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
