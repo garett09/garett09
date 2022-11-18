@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Darktide classes guide: Should you play as an Ogryn, Psyker, Veteran or Zealot?](https://www.pcgamer.com/warhammer-40000-darktide-classes-guide)
- - [Marvel&#39;s Spider-Man: Miles Morales review](https://www.pcgamer.com/marvels-spider-man-miles-morales-review)
- - [Marvel’s Spider-Man: Miles Morales is out now on PC](https://blog.playstation.com/2022/11/18/marvels-spider-man-miles-morales-is-out-now-on-pc/)<!-- GAME:END -->
+ - [We built a PC live on Twitch](https://www.polygon.com/2022/11/18/23466196/gamestop-f1-pc-build-stream-polygon-twitch)
+ - [Share of the Week: God of War Ragnarök](https://blog.playstation.com/2022/11/18/share-of-the-week-god-of-war-ragnarok/)
+ - [Pokémon Scarlet and Violet’s open world needs better cities](https://www.polygon.com/pokemon/23464693/pokemon-scarlet-violet-cities-open-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
