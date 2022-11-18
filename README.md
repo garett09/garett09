@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚖 [A Chimp was born a couple days ago at the Sedgwick County Zoo. He had trouble getting oxygen so had to be kept at the vet. This video shows mom reuniting with him after almost 2 days apart.](http://9gag.com/gag/armb1ZB)
  - 🚯 [Dad of War](http://9gag.com/gag/amAYX56)
- - 🚯 [What a time to be alive! We might be witnessing Elon causing the downfall of his own company.](http://9gag.com/gag/a4ob496)<!-- MEMES:END -->
+ - 🚯 [Thats gonna be one looong world cup](http://9gag.com/gag/aDYW0r9)<!-- MEMES:END -->
 
 --- 
 
