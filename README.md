@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)
+ - 🚖 [Build quality.](http://9gag.com/gag/a04dr2X)
  - 🚯 [Madlad is unleashed](http://9gag.com/gag/aDYWwd9)
- - 🚯 [Thank you, Elon](http://9gag.com/gag/az28LDz)<!-- MEMES:END -->
+ - 🚯 [Black Friday deals coming up boyzzz](http://9gag.com/gag/a9qrMRD)<!-- MEMES:END -->
 
 --- 
 
