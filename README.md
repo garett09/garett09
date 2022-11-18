@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter-Musk News Timeline: Musk Backtracks on Remote Work, Senators Call for FTC Review     - CNET](https://www.cnet.com/news/social-media/twitter-musk-news-timeline-musk-backtracks-on-remote-work-senators-call-for-ftc-review/#ftag=CAD590a51e)
- - [Whoa, This 2022 Insignia Fire TV Is Only $80 Right Now on Amazon     - CNET](https://www.cnet.com/deals/whoa-this-2022-insignia-fire-tv-is-only-80-dollars-right-now-on-amazon/#ftag=CAD590a51e)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [Taylor Swift and Ticketmaster: Takeaways From the Insane Ticket Rush     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-ticketmaster-chaos-what-we-learned-from-the-insane-ticket-rush/#ftag=CAD590a51e)
+ - [Hundreds of Twitter employees post farewell messages and salute emojis in Slack and tweets, announcing their resignations after Elon Musk&#39;s &quot;hardcore&quot; ultimatum &lpar;The Verge&rpar;](http://www.techmeme.com/221117/p35#a221117p35)
+ - [Pokemon Scarlet and Violet Review: Too Much for the Switch to Handle     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-review-too-much-for-the-switch-to-handle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
