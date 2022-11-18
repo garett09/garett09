@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone 2 review-in-progress](https://www.pcgamer.com/call-of-duty-warzone-2-review)
- - [PlayStation’s Black Friday Deals 2022](https://blog.playstation.com/2022/11/17/playstations-black-friday-deals-2022/)
- - [Magic: The Gathering gets mechs in the new Brothers&#39; War set](https://www.pcgamer.com/magic-the-gathering-gets-mechs-in-the-new-brothers-war-set)<!-- GAME:END -->
+ - [Report: Legendary Sonic Designer Yuji Naka Arrested In Japan](https://kotaku.com/yuji-naka-sonic-hedgehog-dragon-quest-arrested-crime-1849799553)
+ - [How a bunch of art school grads made putrid, brilliant horror adventure Sanitarium](https://www.pcgamer.com/how-a-bunch-of-art-school-grads-made-putrid-brilliant-horror-adventure-sanitarium)
+ - [Call of Duty: Warzone 2 review-in-progress](https://www.pcgamer.com/call-of-duty-warzone-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
