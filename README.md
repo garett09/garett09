@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Build quality.](http://9gag.com/gag/a04dr2X)
- - 🚯 [Madlad is unleashed](http://9gag.com/gag/aDYWwd9)
- - 🚯 [Black Friday deals coming up boyzzz](http://9gag.com/gag/a9qrMRD)<!-- MEMES:END -->
+ - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚯 [Black Friday deals coming up boyzzz](http://9gag.com/gag/a9qrMRD)
+ - 🚯 [On November 15, the Kremlin spent more than $900 million shelling Ukraine. Meanwhile Russian cities:](http://9gag.com/gag/a8qyY5d)<!-- MEMES:END -->
 
 --- 
 
