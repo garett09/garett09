@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So you are ruthless](http://9gag.com/gag/aA0dRR9)
- - 🚯 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 🚯 [Stay gold, ponyboy](http://9gag.com/gag/ajVXQz1)<!-- MEMES:END -->
+ - 🚖 [Egglicious](http://9gag.com/gag/aDYjpL9)
+ - 🚯 [What having a 2-year-old toddler is like.](http://9gag.com/gag/aVbqz7v)
+ - 🚯 [The happiest dog on earth\ud83d\udc36\ud83e\udd7a](http://9gag.com/gag/amAYNo4)<!-- MEMES:END -->
 
 --- 
 
