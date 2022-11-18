@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Chosen season 3: Here’s what you need to know](https://www.androidauthority.com/the-chosen-season-3-3235941/)
- - [Closed-loop PLM software maker PTC to acquire ServiceMax, which offers cloud-based field service applications built on the Salesforce platform, for about $1.46B &lpar;Joseph F. Kovar/CRN&rpar;](http://www.techmeme.com/221118/p8#a221118p8)
- - [A Fire Upon the Deep Is Mind-Blowing Space Opera](https://www.wired.com/2022/11/geeks-guide-fire-upon-the-deep/)<!-- TECH:END -->
+ - [Ticketmaster yanked its explanation for the Taylor Swift ticket debacle](https://www.theverge.com/2022/11/18/23466518/taylor-swift-ticketmaster-presale-ticket-debacle-explanation-blog-post)
+ - [Taylor Swift is just as mad at Ticketmaster as you are](https://www.theverge.com/2022/11/18/23466465/taylor-swift-eras-tour-ticketmaster-statement)
+ - [US Citizenship and Immigration Services data shows Twitter had nearly 300 people approved to work on H-1B visas in FY 2022 and Meta had more than 1,300 &lpar;CNN&rpar;](http://www.techmeme.com/221118/p10#a221118p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
