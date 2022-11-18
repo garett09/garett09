@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: Apple&#39;s loaded M1 Max 16-inch MacBook Pro drops to record low price for 24 hours](https://appleinsider.com/articles/22/11/18/flash-deal-apples-loaded-m1-max-16-inch-macbook-pro-drops-to-record-low-price-for-24-hours?utm_medium=rss)
- - [AirPods Pro might help you hear better, but they’re not hearing aids](https://www.theverge.com/2022/11/18/23464277/apple-airpods-pro-otc-hearing-aids-wearables-headphones)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [The Chosen season 3: Here’s what you need to know](https://www.androidauthority.com/the-chosen-season-3-3235941/)
+ - [Closed-loop PLM software maker PTC to acquire ServiceMax, which offers cloud-based field service applications built on the Salesforce platform, for about $1.46B &lpar;Joseph F. Kovar/CRN&rpar;](http://www.techmeme.com/221118/p8#a221118p8)
+ - [A Fire Upon the Deep Is Mind-Blowing Space Opera](https://www.wired.com/2022/11/geeks-guide-fire-upon-the-deep/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
