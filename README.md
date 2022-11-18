@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift and Ticketmaster: Takeaways From the Insane Ticket Rush     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-ticketmaster-chaos-what-we-learned-from-the-insane-ticket-rush/#ftag=CAD590a51e)
- - [Hundreds of Twitter employees post farewell messages and salute emojis in Slack and tweets, announcing their resignations after Elon Musk&#39;s &quot;hardcore&quot; ultimatum &lpar;The Verge&rpar;](http://www.techmeme.com/221117/p35#a221117p35)
- - [Pokemon Scarlet and Violet Review: Too Much for the Switch to Handle     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-review-too-much-for-the-switch-to-handle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [1Password unveils &quot;passkey&quot; support for secure user logins to apps, and says it will work across platforms, including iOS and Android, coming in early 2023 &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/221117/p38#a221117p38)
+ - [Sydney-based Advanced Navigation, a developer of AI robotics and navigation technology, raised a $68M Series B led by KKR, bringing its total funding to $85M+ &lpar;David Simmons/Business News Australia&rpar;](http://www.techmeme.com/221117/p37#a221117p37)
+ - [These Three Weird Wordle Starter Words Practically Guarantee a Win Streak     - CNET](https://www.cnet.com/culture/these-three-weird-wordle-starter-words-practically-guarantee-a-winning-streak/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
