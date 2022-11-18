@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is seeking info on confidential deals that Elon Musk made with foreign investors over concerns they may be able to access Twitter users&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/221118/p5#a221118p5)
- - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
- - [Banish the Dark With the Wiz Luminaire Portable Light](https://www.wired.com/story/wiz-luminaire-mobile-portable-light-rave/)<!-- TECH:END -->
+ - [iPhone 14 Emergency SOS, Apple&#39;s MLS deal, Steve Jobs&#39; television](https://appleinsider.com/articles/22/11/18/iphone-14-emergency-sos-apples-mls-deal-steve-jobs-television?utm_medium=rss)
+ - [Pokémon Scarlet and Violet Rotom Phone review: it’s a literal lifesaver](https://www.theverge.com/games/2022/11/18/23461245/pokemon-scarlet-and-violet-rotom-phone-review-pokedex)
+ - [24 Gifts for a Digital Detox &lpar;2022&rpar;: R/C Cars, Puzzles, Handmade Irish Sweaters](https://www.wired.com/gallery/analog-gift-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
