@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Spider-Man spinoff expands Sony’s live-action Spider-Verse](https://www.polygon.com/23465129/silk-spider-man-spin-off-show-amazon-epix)
- - [The best Warzone 2 loadouts so far](https://www.pcgamer.com/the-best-warzone-2-loadouts-so-far)
- - [This WoW Geoguessr uses &#39;roughly 3 million images&#39; and I&#39;m still lost](https://www.pcgamer.com/this-wow-geoguessr-uses-roughly-3-million-images-and-im-still-lost)<!-- GAME:END -->
+ - [Call of Duty: Warzone 2 review-in-progress](https://www.pcgamer.com/call-of-duty-warzone-2-review)
+ - [PlayStation’s Black Friday Deals 2022](https://blog.playstation.com/2022/11/17/playstations-black-friday-deals-2022/)
+ - [Magic: The Gathering gets mechs in the new Brothers&#39; War set](https://www.pcgamer.com/magic-the-gathering-gets-mechs-in-the-new-brothers-war-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
