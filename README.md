@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Build quality.](http://9gag.com/gag/a04dr2X)
- - 🚯 [Shawshank escape goes wrong !](http://9gag.com/gag/a04bL6z)
- - 🚯 [Mommy](http://9gag.com/gag/avQGL85)<!-- MEMES:END -->
+ - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚯 [Let&#39;s collect the best of sponsor shaming for 2022 World Cup](http://9gag.com/gag/aREmVgG)
+ - 🚯 [Innocence of this beautiful beast..](http://9gag.com/gag/adP7p2d)<!-- MEMES:END -->
 
 --- 
 
