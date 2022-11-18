@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ~$300M of $420M from an FTX raise in October, 2021 went to SBF in a share sale that he said was partial reimbursement for buying out Binance&#39;s stake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221118/p13#a221118p13)
- - [&#39;Ted Lasso&#39; season three wraps filming, cast shares goodbyes](https://appleinsider.com/articles/22/11/18/ted-lasso-season-three-wraps-filming-cast-shares-goodbyes?utm_medium=rss)
- - [Qatar Bans Beer from World Cup     - CNET](https://www.cnet.com/culture/sports/qatar-bans-beer-from-world-cup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What matters about Matter, the new smart home standard](https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer)
+ - [Elon Musk&#39;s Twitter Meltdown Is A Spectacle We Can&#39;t Look Away From     - CNET](https://www.cnet.com/news/social-media/elon-musks-twitter-meltdown-is-a-spectacle-we-cant-look-away-from/#ftag=CAD590a51e)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
