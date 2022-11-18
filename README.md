@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia&#39;s GoTo Group cuts 1,300 jobs, or ~12% of its workforce, to trim costs and improve finances &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221117/p40#a221117p40)
  - [Twitter’s living wake kicked off with Elon’s 5PM deadline](https://www.theverge.com/2022/11/17/23465659/rip-twitter-trending-elon-musk-ultimatum)
- - [Qualcomm announces the Qualcomm S3 Gen 2 and Qualcomm S5 Gen 2 for wireless audio gear with support for spatial audio, improved ANC, lossless music, and more &lpar;Pranob Mehrotra/XDA Developers&rpar;](http://www.techmeme.com/221117/p39#a221117p39)
- - [1Password unveils &quot;passkey&quot; support for secure user logins to apps, and says it will work across platforms, including iOS and Android, coming in early 2023 &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/221117/p38#a221117p38)<!-- TECH:END -->
+ - [Elon Musk&#39;s Ultimatum to Twitter Staff Leads to Reported Exodus     - CNET](https://www.cnet.com/culture/elon-musks-ultimatum-to-twitter-staff-leads-to-reported-exodus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
