@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
- - 🚯 [Banksy\u2019s call to action](http://9gag.com/gag/ajVX0AR)
- - 🚯 [How to cut perfect with a sawzall](http://9gag.com/gag/aREmVwM)<!-- MEMES:END -->
+ - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚯 [When statistics doesn&#39;t lie](http://9gag.com/gag/aDYW3QO)
+ - 🚯 [Mommy](http://9gag.com/gag/avQGL85)<!-- MEMES:END -->
 
 --- 
 
