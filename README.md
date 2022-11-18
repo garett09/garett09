@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
- - 🚯 [Amen](http://9gag.com/gag/agoqwKv)
- - 🚯 [Choose one hot nurse](http://9gag.com/gag/aoK2XPm)<!-- MEMES:END -->
+ - 🚖 [Car crash in Riyadh](http://9gag.com/gag/aPgB6GG)
+ - 🚯 [Based](http://9gag.com/gag/aOxdXG2)
+ - 🚯 [The real shit show begins...](http://9gag.com/gag/aKEV4xO)<!-- MEMES:END -->
 
 --- 
 
