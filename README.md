@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies on HBO Max](https://www.polygon.com/what-to-watch/23458790/best-sci-fi-movies-hbo-max)
- - [The best armor in God of War Ragnarök](https://www.polygon.com/23462482/best-armor-sets-nidavellir-raven-tears)
- - [Pokémon Scarlet &amp; Violet guides](https://www.polygon.com/pokemon-scarlet-violet-guide/23424781/pokemon-violet-scarlet-guides-tips-evolutions-gyms-where-to-find)<!-- GAME:END -->
+ - [This Week on Xbox: Tons of Updates, New Games, and Events](https://news.xbox.com/en-us/2022/11/18/this-week-on-xbox-tons-of-updates-new-games-and-events/)
+ - [Blizzard Working On Overwatch 2’s Progression To Make It ‘More Rewarding’](https://kotaku.com/overwatch-2-battle-pass-xp-grind-rank-season-2-skins-1849802854)
+ - [7 things you should know before starting Marvel’s Spider-Man: Miles Morales](https://www.polygon.com/spider-man-miles-morales-guide-ps4-ps5/21536823/beginners-tips-venom-attacks-campaign-stealth-camo-training)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
