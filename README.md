@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What matters about Matter, the new smart home standard](https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer)
- - [Elon Musk&#39;s Twitter Meltdown Is A Spectacle We Can&#39;t Look Away From     - CNET](https://www.cnet.com/news/social-media/elon-musks-twitter-meltdown-is-a-spectacle-we-cant-look-away-from/#ftag=CAD590a51e)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [The Taylor Swift Chaos Is a Reckoning for Ticketmaster](https://www.wired.com/story/taylor-swift-ticketmaster-department-of-justice/)
+ - [The best Verizon deals of Black Friday 2022](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [Taylor Swift versus Ticketmaster: the latest on the tour that may break up a giant](https://www.theverge.com/2022/11/18/23466858/taylor-swift-ticketmaster-news-doj-investigation-eras-tour)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
