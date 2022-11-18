@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepe Title](http://9gag.com/gag/a9qWxnD)
- - 🚯 [I&#39;ve been thinking about making this for a long time. Finally went through my gallery and made it. Not much to choose from song wise. Any music ideas that would fit better?](http://9gag.com/gag/avQGpKZ)
- - 🚯 [True](http://9gag.com/gag/armbvY6)<!-- MEMES:END -->
+ - 🚖 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)
+ - 🚯 [What a time to be alive! We might be witnessing Elon causing the downfall of his own company.](http://9gag.com/gag/a4ob496)
+ - 🚯 [Step brother help me](http://9gag.com/gag/aoK1zmm)<!-- MEMES:END -->
 
 --- 
 
