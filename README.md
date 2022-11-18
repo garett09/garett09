@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Samsung Black Friday phone deals have sent Amazon prices spiraling](https://www.androidauthority.com/samsung-black-friday-phone-deals-3236580/)
- - [16 Best Black Friday Deals on Microsoft Hardware &lpar;2022&rpar;: Xbox Series S, Surface Laptops](https://www.wired.com/story/best-black-friday-microsoft-xbox-surface-laptop-deals-2022/)
- - [Compared: New Apple Watch SE vs. Apple Watch SE 2020](https://appleinsider.com/articles/22/09/09/compared-new-apple-watch-se-vs-apple-watch-se-2020?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: ~$300M of $420M from an FTX raise in October, 2021 went to SBF in a share sale that he said was partial reimbursement for buying out Binance&#39;s stake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221118/p13#a221118p13)
+ - [&#39;Ted Lasso&#39; season three wraps filming, cast shares goodbyes](https://appleinsider.com/articles/22/11/18/ted-lasso-season-three-wraps-filming-cast-shares-goodbyes?utm_medium=rss)
+ - [Qatar Bans Beer from World Cup     - CNET](https://www.cnet.com/culture/sports/qatar-bans-beer-from-world-cup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
