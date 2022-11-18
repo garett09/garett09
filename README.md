@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [A Chimp was born a couple days ago at the Sedgwick County Zoo. He had trouble getting oxygen so had to be kept at the vet. This video shows mom reuniting with him after almost 2 days apart.](http://9gag.com/gag/armb1ZB)
- - 🚯 [Dad of War](http://9gag.com/gag/amAYX56)
- - 🚯 [Thats gonna be one looong world cup](http://9gag.com/gag/aDYW0r9)<!-- MEMES:END -->
+ - 🚯 [This is definitely the best time of the year for cats](http://9gag.com/gag/aQE9qKq)
+ - 🚯 [Bro isn\u2019t asking anymore, he\u2019s demanding](http://9gag.com/gag/aZDmPAp)<!-- MEMES:END -->
 
 --- 
 
