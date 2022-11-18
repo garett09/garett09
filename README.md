@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Taylor Swift Chaos Is a Reckoning for Ticketmaster](https://www.wired.com/story/taylor-swift-ticketmaster-department-of-justice/)
- - [The best Verizon deals of Black Friday 2022](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [Taylor Swift versus Ticketmaster: the latest on the tour that may break up a giant](https://www.theverge.com/2022/11/18/23466858/taylor-swift-ticketmaster-news-doj-investigation-eras-tour)<!-- TECH:END -->
+ - [Hyundai’s Ioniq 6 electric streamliner makes its US debut, revealing 340-mile range](https://www.theverge.com/2022/11/18/23466094/hyundai-ioniq-6-us-debut-laas-range-features-ev)
+ - [Watch Yellowstone Season 5: Why Paramount&#39;s Top Show Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/news/watch-yellowstone-season-5-why-paramounts-top-show-isnt-on-paramount-plus/#ftag=CAD590a51e)
+ - [NASA Will Not Change the James Webb Telescope’s Name](https://www.wired.com/story/nasa-will-not-change-the-james-webb-telescopes-name/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
