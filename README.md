@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [Let&#39;s collect the best of sponsor shaming for 2022 World Cup](http://9gag.com/gag/aREmVgG)
- - 🚯 [Innocence of this beautiful beast..](http://9gag.com/gag/adP7p2d)<!-- MEMES:END -->
+ - 🚯 [`tHe WoRlD wE LiVe iN`](http://9gag.com/gag/a4obLVQ)
+ - 🚯 [Russian soldier surrendering after his comrades got killed. He followed the Ukrainian drone that lead him to the Ukrainian army](http://9gag.com/gag/az28V6z)<!-- MEMES:END -->
 
 --- 
 
