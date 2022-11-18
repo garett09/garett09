@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at FTX and Alameda shows UST&#39;s collapse in May increased their reliance on FTT, leading to $4B outflows from Alameda to FTX in June and July &lpar;Nansen&rpar;](http://www.techmeme.com/221118/p2#a221118p2)
- - [Watch an iFixit employee shoot a battery with a nail gun to teach us all about safety](https://www.theverge.com/2022/11/18/23465972/ifixit-battery-nail-gun-swelling-thermal-runaway-safety-lesson)
- - [The best podcasts to listen to on Spotify — tech, comedy, true crime, and more](https://www.androidauthority.com/best-podcasts-on-spotify-3229857/)<!-- TECH:END -->
+ - [JD.com reports Q3 revenue up 11% YoY to $34.2B, narrowly beating estimates, and ~$843M net income, reversing a ~$394M loss in Q3 2021 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/221118/p4#a221118p4)
+ - [Diverse Teams Are Needed to Save the Planet](https://www.wired.com/story/wired-impact-diversity-inclusion/)
+ - [Vizio M-Series Quantum X Review &lpar;2022&rpar;: Great TV, Good Price](https://www.wired.com/review/vizio-m-series-quantum-x-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
