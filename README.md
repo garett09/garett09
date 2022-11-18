@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [When statistics doesn&#39;t lie](http://9gag.com/gag/aDYW3QO)
+ - 🚖 [Build quality.](http://9gag.com/gag/a04dr2X)
+ - 🚯 [Shawshank escape goes wrong !](http://9gag.com/gag/a04bL6z)
  - 🚯 [Mommy](http://9gag.com/gag/avQGL85)<!-- MEMES:END -->
 
 --- 
