@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Friday, November 18](https://www.pcgamer.com/wordle-517-answer-november-18)
- - [10 things to know before starting Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23464426/beginners-guide-tips-levels-gyms-open-world-order)
- - [Which Pokémon Scarlet/Violet starter is the best?](https://www.polygon.com/pokemon-scarlet-violet-guide/23451483/which-starter-to-pick-best-sprigatito-quaxly-fuecoco-evolutions)<!-- GAME:END -->
+ - [Sonic creator Yuji Naka arrested for insider trading](https://www.polygon.com/23465970/sonic-yuji-naka-insider-trading-arrest-square-enix-dragon-quest-tact)
+ - [Blizzard says &#39;come back in, the water&#39;s lovely&#39; to lapsed WoW players](https://www.pcgamer.com/blizzard-says-come-back-in-the-waters-lovely-to-lapsed-wow-players)
+ - [Blizzard acknowledges no one&#39;s playing support in Overwatch 2, and that&#39;s a problem](https://www.pcgamer.com/blizzard-acknowledges-no-ones-playing-support-in-overwatch-2-and-thats-a-problem)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
