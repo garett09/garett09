@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car crash in Riyadh](http://9gag.com/gag/aPgB6GG)
- - 🚯 [Based](http://9gag.com/gag/aOxdXG2)
- - 🚯 [The real shit show begins...](http://9gag.com/gag/aKEV4xO)<!-- MEMES:END -->
+ - 🚖 [Egglicious](http://9gag.com/gag/aDYjpL9)
+ - 🚯 [He did not](http://9gag.com/gag/aXnqZ3b)
+ - 🚯 [Yesterday a cat with a broken leg came to the emergency room of the hospital in Bitlis, Turkey. The hospital staff, who noticed the situation, treated the cat.](http://9gag.com/gag/aVbqj8P)<!-- MEMES:END -->
 
 --- 
 
