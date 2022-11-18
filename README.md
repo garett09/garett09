@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Caroline Ellison, the risk-loving, &quot;very mathy&quot; Alameda Research CEO that sources say was &quot;virtually invisible&quot; in Alameda&#39;s last days &lpar;Forbes&rpar;](http://www.techmeme.com/221118/p6#a221118p6)
- - [The brand-new Echo Dot just got its first big discount](https://www.theverge.com/2022/11/18/23445448/echo-dot-apple-ipad-pro-sony-headphones-earbuds-anker-charging-tile-deal-sale)
- - [Snapdragon 8 Gen 2 vs Dimensity 9200: Which chip will reign supreme?](https://www.androidauthority.com/snapdragon-8-gen-2-vs-dimensity-9200-3236000/)<!-- TECH:END -->
+ - [Flash deal: Apple&#39;s loaded M1 Max 16-inch MacBook Pro drops to record low price for 24 hours](https://appleinsider.com/articles/22/11/18/flash-deal-apples-loaded-m1-max-16-inch-macbook-pro-drops-to-record-low-price-for-24-hours?utm_medium=rss)
+ - [AirPods Pro might help you hear better, but they’re not hearing aids](https://www.theverge.com/2022/11/18/23464277/apple-airpods-pro-otc-hearing-aids-wearables-headphones)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
