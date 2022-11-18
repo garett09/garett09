@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Emergency SOS, Apple&#39;s MLS deal, Steve Jobs&#39; television](https://appleinsider.com/articles/22/11/18/iphone-14-emergency-sos-apples-mls-deal-steve-jobs-television?utm_medium=rss)
- - [Pokémon Scarlet and Violet Rotom Phone review: it’s a literal lifesaver](https://www.theverge.com/games/2022/11/18/23461245/pokemon-scarlet-and-violet-rotom-phone-review-pokedex)
- - [24 Gifts for a Digital Detox &lpar;2022&rpar;: R/C Cars, Puzzles, Handmade Irish Sweaters](https://www.wired.com/gallery/analog-gift-guide/)<!-- TECH:END -->
+ - [A profile of Caroline Ellison, the risk-loving, &quot;very mathy&quot; Alameda Research CEO that sources say was &quot;virtually invisible&quot; in Alameda&#39;s last days &lpar;Forbes&rpar;](http://www.techmeme.com/221118/p6#a221118p6)
+ - [The brand-new Echo Dot just got its first big discount](https://www.theverge.com/2022/11/18/23445448/echo-dot-apple-ipad-pro-sony-headphones-earbuds-anker-charging-tile-deal-sale)
+ - [Snapdragon 8 Gen 2 vs Dimensity 9200: Which chip will reign supreme?](https://www.androidauthority.com/snapdragon-8-gen-2-vs-dimensity-9200-3236000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
