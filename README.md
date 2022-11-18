@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD.com reports Q3 revenue up 11% YoY to $34.2B, narrowly beating estimates, and ~$843M net income, reversing a ~$394M loss in Q3 2021 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/221118/p4#a221118p4)
- - [Diverse Teams Are Needed to Save the Planet](https://www.wired.com/story/wired-impact-diversity-inclusion/)
- - [Vizio M-Series Quantum X Review &lpar;2022&rpar;: Great TV, Good Price](https://www.wired.com/review/vizio-m-series-quantum-x-2022/)<!-- TECH:END -->
+ - [Sources: the US is seeking info on confidential deals that Elon Musk made with foreign investors over concerns they may be able to access Twitter users&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/221118/p5#a221118p5)
+ - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
+ - [Banish the Dark With the Wiz Luminaire Portable Light](https://www.wired.com/story/wiz-luminaire-mobile-portable-light-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
