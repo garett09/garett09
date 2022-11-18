@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Football Manager 2023 review](https://www.pcgamer.com/football-manager-2023-review)
- - [Tim Burton’s Wednesday makes everyone an outcast, leaving little room for outcasts](https://www.polygon.com/23462409/wednesday-review-netflix-tim-burton)
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 21 to 25](https://news.xbox.com/en-us/2022/11/18/next-week-on-xbox-new-games-for-november-21-to-25/)
+ - [Pokémon Scarlet and Violet really lean into the whole people-eat-Pokémon thing](https://www.polygon.com/pokemon/23464260/pokemon-scarlet-and-violet-paldea-eat-delicious-pokemon)
+ - [Here&#39;s how perk packages work in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-perks-packages-custom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
