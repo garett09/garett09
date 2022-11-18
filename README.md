@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We built a PC live on Twitch](https://www.polygon.com/2022/11/18/23466196/gamestop-f1-pc-build-stream-polygon-twitch)
- - [Share of the Week: God of War Ragnarök](https://blog.playstation.com/2022/11/18/share-of-the-week-god-of-war-ragnarok/)
- - [Pokémon Scarlet and Violet’s open world needs better cities](https://www.polygon.com/pokemon/23464693/pokemon-scarlet-violet-cities-open-world)<!-- GAME:END -->
+ - [Deep Rock Galactic Season 03: Plaguefall Infects Xbox](https://news.xbox.com/en-us/2022/11/18/deep-rock-galactic-season-03-plaguefall-infects-xbox/)
+ - [Valorant: How Riot launched a successful esports in a global pandemic](https://www.pcgamer.com/valorant-how-riot-launched-a-successful-esports-in-a-global-pandemic)
+ - [Sike: Overwatch 2 Requires Your Phone Number Yet Again](https://kotaku.com/overwatch-2-sms-protect-phone-number-requirement-patch-1849801537)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
