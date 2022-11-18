@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is quite funy.](http://9gag.com/gag/az28bmB)
- - 🚯 [Thats gonna be one looong world cup](http://9gag.com/gag/aDYW0r9)
- - 🚯 [Henry is Cavill](http://9gag.com/gag/ap9popn)<!-- MEMES:END -->
+ - 🚖 [Build quality.](http://9gag.com/gag/a04dr2X)
+ - 🚯 [All a matter of negotiating](http://9gag.com/gag/aZDmWx9)
+ - 🚯 [Black Friday deals coming up boyzzz](http://9gag.com/gag/a9qrMRD)<!-- MEMES:END -->
 
 --- 
 
