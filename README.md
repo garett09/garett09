@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [Black Friday deals coming up boyzzz](http://9gag.com/gag/a9qrMRD)
- - 🚯 [On November 15, the Kremlin spent more than $900 million shelling Ukraine. Meanwhile Russian cities:](http://9gag.com/gag/a8qyY5d)<!-- MEMES:END -->
+ - 🚖 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
+ - 🚯 [Banksy\u2019s call to action](http://9gag.com/gag/ajVX0AR)
+ - 🚯 [Bud Zero actually means zero Bud](http://9gag.com/gag/ap9p0GD)<!-- MEMES:END -->
 
 --- 
 
