@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As climate change threatens data centers, Amazon, Microsoft, and Google are tinkering with cooling options and building data centers in colder countries &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/221119/p9#a221119p9)
- - [Wickr’s free encrypted messaging app is shutting down next year](https://www.theverge.com/2022/11/19/23468065/wickr-free-encrypted-messaging-app-shutting-down-amazon-web-services)
- - [Smartphone ray tracing is here, but is it the real deal?](https://www.androidauthority.com/smartphone-ray-tracing-fact-check-3236029/)<!-- TECH:END -->
+ - [Wickr Me, the free encrypted messaging app acquired by AWS in 2021, will shut down on December 31, 2023 and stop accepting new users at the end of 2022 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221119/p10#a221119p10)
+ - [Save up to 41% on Nespresso Coffee and Espresso Machines     - CNET](https://www.cnet.com/deals/save-up-to-41-on-nespresso-coffee-and-espresso-machines/#ftag=CAD590a51e)
+ - [As climate change threatens data centers, Amazon, Microsoft, and Google are tinkering with cooling options and building data centers in colder countries &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/221119/p9#a221119p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
