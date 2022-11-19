@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)
- - [Musk is running a Twitter poll on reinstating Donald Trump, after saying in October that Twitter will form a &quot;content moderation council&quot; to make such decisions &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/221119/p6#a221119p6)
- - [Tim Cook attends opening of Adele&#39;s Las Vegas residency](https://appleinsider.com/articles/22/11/19/tim-cook-attends-opening-of-adeles-las-vegas-residency?utm_medium=rss)<!-- TECH:END -->
+ - [The DOJ has reportedly opened an antitrust investigation into Ticketmaster’s owner](https://www.theverge.com/2022/11/18/23466607/doj-department-of-justice-antitrust-investigation-ticketmaster-live-nation-taylor-swift)
+ - [Ripple says it is effectively &quot;operating outside of the US&quot; due to its legal fight with the SEC and is seeking a license in Ireland to drive EU expansion &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221119/p7#a221119p7)
+ - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
