@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
- - 🚯 [False Advertisement](http://9gag.com/gag/a9qrWZm)
- - 🚯 [Two Chinese women were tied up after allegedly picking up a take-out meal without wearing masks, the action was taken by authorities enforcing Covid rules](http://9gag.com/gag/ay2D8Wq)<!-- MEMES:END -->
+ - 🚖 [False Advertisement](http://9gag.com/gag/a9qrWZm)
+ - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)
+ - 🚯 [Wait for the weird guy in orange](http://9gag.com/gag/aGE1eGX)<!-- MEMES:END -->
 
 --- 
 
