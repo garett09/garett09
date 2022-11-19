@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Apple’s latest AirPods Pro are on sale at Woot for more than $50 off today](https://www.theverge.com/2022/11/19/23465286/apple-airpods-pro-2-wireless-earbuds-woot-black-friday-deal-sale)
- - [Interviews with lawyers, analysts, and employees at AI startups on unresolved questions concerning copyright and fair use shaping the future of generative AI &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221119/p3#a221119p3)
- - [India&#39;s new draft data protection bill proposes allowing cross-border data transfer with certain countries, unlike an earlier version which imposed restrictions &lpar;TechCrunch&rpar;](http://www.techmeme.com/221119/p2#a221119p2)<!-- TECH:END -->
+ - [Radar Image of Huge Buffalo Snowstorm Looks Like Buffalo Bills Logo     - CNET](https://www.cnet.com/culture/sports/radar-image-of-huge-buffalo-snowstorm-looks-like-buffalo-bills-logo/#ftag=CAD590a51e)
+ - [Best Android Phones to Buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
