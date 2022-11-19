@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartphone ray tracing is here, but is it the real deal?](https://www.androidauthority.com/smartphone-ray-tracing-fact-check-3236029/)
  - [FTX says it has fired CTO Gary Wang, engineering director Nishad Singh, and Alameda Research CEO Caroline Ellison &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221119/p8#a221119p8)
- - [Save up to 57% with Motorola’s stellar Black Friday deals](https://www.androidauthority.com/motorola-black-friday-deals-2022-3237910/)
- - [Waymo can now provide fully driverless rides in San Francisco](https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california)<!-- TECH:END -->
+ - [Save up to 57% with Motorola’s stellar Black Friday deals](https://www.androidauthority.com/motorola-black-friday-deals-2022-3237910/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
