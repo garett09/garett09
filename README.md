@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Difference between Friend and Best Friend](http://9gag.com/gag/a3ZqMv8)
- - 🚯 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [You will replay this](http://9gag.com/gag/az28r0m)<!-- MEMES:END -->
+ - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
+ - 🚯 [False Advertisement](http://9gag.com/gag/a9qrWZm)
+ - 🚯 [Two Chinese women were tied up after allegedly picking up a take-out meal without wearing masks, the action was taken by authorities enforcing Covid rules](http://9gag.com/gag/ay2D8Wq)<!-- MEMES:END -->
 
 --- 
 
