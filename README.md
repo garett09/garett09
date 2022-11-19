@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 5 best thrillers to watch on Netflix this November](https://www.polygon.com/what-to-watch/2022/11/19/23462265/best-thriller-movies-netflix-watch-november)
  - [Today&#39;s Wordle answer and hint for Saturday, November 19](https://www.pcgamer.com/wordle-518-answer-november-19)
- - [The major games still due in 2022, including a few potential dark horses](https://www.pcgamer.com/pc-game-release-dates-nov-dec-2022)
- - [How to earn cosmetics in Warhammer 40K: Vermintide](https://www.pcgamer.com/warhammer-40k-darktide-cosmetics-guide)<!-- GAME:END -->
+ - [The major games still due in 2022, including a few potential dark horses](https://www.pcgamer.com/pc-game-release-dates-nov-dec-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
