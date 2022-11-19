@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is quite funy.](http://9gag.com/gag/az28bmB)
- - 🚯 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)
- - 🚯 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)<!-- MEMES:END -->
+ - 🚖 [Xi Jingping and Thai Prime minister](http://9gag.com/gag/a04bLod)
+ - 🚯 [Uhhu](http://9gag.com/gag/aWGmWX6)
+ - 🚯 [Le Paris,peak of civilisation](http://9gag.com/gag/a04bPzO)<!-- MEMES:END -->
 
 --- 
 
