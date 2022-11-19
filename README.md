@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chadness level is over 9000000](http://9gag.com/gag/aGE1Dm6)
- - 🚯 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [Former beauty Queen, Miss Wyoming winner 1973 Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977.](http://9gag.com/gag/amAYzmX)<!-- MEMES:END -->
+ - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [Laser goes brrrr](http://9gag.com/gag/aME8w51)
+ - 🚯 [The Holy fire came to Saint Petersburg. Pretty early this year. Reportedly, the gas pipeline is on fire.](http://9gag.com/gag/aKEV2R3)<!-- MEMES:END -->
 
 --- 
 
