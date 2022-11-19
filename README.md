@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait what?](http://9gag.com/gag/abvp6XX)
- - 🚯 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [Former beauty Queen, Miss Wyoming winner 1973 Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977.](http://9gag.com/gag/amAYzmX)<!-- MEMES:END -->
+ - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [I love bouncing beat](http://9gag.com/gag/aPgB9QB)
+ - 🚯 [35 years old German technology](http://9gag.com/gag/agoLYBK)<!-- MEMES:END -->
 
 --- 
 
