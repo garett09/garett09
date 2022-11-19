@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 glitch that infected everyone with a hate plague set to be fixed in &#39;early December&#39;](https://www.pcgamer.com/sims-4-glitch-that-infected-everyone-with-a-hate-plague-set-to-be-fixed-in-early-december)
- - [One of PC gaming&#39;s most iconic guns just got nerfed](https://www.pcgamer.com/one-of-pc-gamings-most-iconic-guns-just-got-nerfed)
- - [The bloody thriller The Menu finishes the grim story that Pig started](https://www.polygon.com/reviews/23373306/the-menu-review-ralph-fiennes-anya-taylor-joy)<!-- GAME:END -->
+ - [The major games still due in 2022, including a few potential dark horses](https://www.pcgamer.com/pc-game-release-dates-nov-dec-2022)
+ - [How to earn cosmetics in Warhammer 40K: Vermintide](https://www.pcgamer.com/warhammer-40k-darktide-cosmetics-guide)
+ - [This $8 vaporwave FPS has you doing battle with CRT goblins and lightning whales across a dream universe](https://www.pcgamer.com/this-dollar8-vaporwave-fps-has-you-doing-battle-with-crt-goblins-and-lightning-whales-across-a-dream-universe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
