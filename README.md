@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 💲 Pixel-perfect Black Friday deals](https://www.androidauthority.com/the-weekly-authority-november-19-2022-221-3235911/)
- - [A look at South Korean conglomerate Naver&#39;s experiments with a fleet of ~100 office robots, including efforts to make employees comfortable with their presence &lpar;New York Times&rpar;](http://www.techmeme.com/221119/p4#a221119p4)
- - [47 Best Early Black Friday Deals &lpar;2022&rpar;: Robot Vacuums, Phones, Instant Pots](https://www.wired.com/story/best-early-black-friday-deals-2022-1/)<!-- TECH:END -->
+ - [Early Black Friday Deals Nov. 19: 12% off Apple Watch Series 8, $15 off Xbox Series S, 53% off Netgear Orbi Pro Mesh Wi-Fi, more](https://appleinsider.com/articles/22/11/19/early-black-friday-deals-nov-19-12-off-apple-watch-series-8-15-off-xbox-series-s-53-off-netgear-orbi-pro-mesh-wi-fi-more?utm_medium=rss)
+ - [The Nest Audio is my new relaxing white noise machine](https://www.androidauthority.com/nest-audio-white-noise-3234496/)
+ - [The Marine Lab in the Path of Climate Change’s Fury?](https://www.wired.com/story/the-marine-lab-in-the-path-of-climate-changes-fury/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
