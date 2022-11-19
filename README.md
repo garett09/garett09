@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches early Black Friday deals on iPads, AirPods &amp; Beats, prices as low as $89](https://appleinsider.com/articles/22/11/17/amazon-launches-early-black-friday-deals-on-ipads-airpods-beats-prices-as-low-as-89?utm_medium=rss)
- - [Wickr Me, the free encrypted messaging app acquired by AWS in 2021, will shut down on December 31, 2023 and stop accepting new users at the end of 2022 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221119/p10#a221119p10)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-binge-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nuphy Halo65 Wireless Mechanical Keyboard review: a small keyboard with a big price tag](https://appleinsider.com/articles/22/11/19/nuphy-halo65-wireless-mechanical-keyboard-review-a-small-keyboard-with-a-big-price-tag?utm_medium=rss)
+ - [FTX users flock to Telegram to reckon with their potential losses, where some say they believed FTX&#39;s links to the US made it unusually safe &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/221119/p11#a221119p11)
+ - [The Leap Second Has Jumped the Shark     - CNET](https://www.cnet.com/science/the-leap-second-has-jumped-the-shark/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
