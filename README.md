@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anime is the reason I won’t switch from Android to iPhone](https://www.androidauthority.com/anime-switch-android-iphone-3226249/)
  - [Apple’s latest AirPods Pro are on sale at Woot for more than $50 off today](https://www.theverge.com/2022/11/19/23465286/apple-airpods-pro-2-wireless-earbuds-woot-black-friday-deal-sale)
- - [Radar Image of Huge Buffalo Snowstorm Looks Like Buffalo Bills Logo     - CNET](https://www.cnet.com/culture/sports/radar-image-of-huge-buffalo-snowstorm-looks-like-buffalo-bills-logo/#ftag=CAD590a51e)
- - [Best Android Phones to Buy in 2022     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Radar Image of Huge Buffalo Snowstorm Looks Like Buffalo Bills Logo     - CNET](https://www.cnet.com/culture/sports/radar-image-of-huge-buffalo-snowstorm-looks-like-buffalo-bills-logo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
