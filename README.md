@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [Working on an excavator can also be jewelry](http://9gag.com/gag/a8qy4zQ)
- - 🚯 [That&#39;s interesting](http://9gag.com/gag/aOxzv9E)<!-- MEMES:END -->
+ - 🚖 [Give him a rap name](http://9gag.com/gag/adP7XVd)
+ - 🚯 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [Posts a video of himself stuck on a plane with Brazil fans - `The whole trip was like this`](http://9gag.com/gag/a2KrNyZ)<!-- MEMES:END -->
 
 --- 
 
