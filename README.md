@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/aOxdXG2)
- - 🚯 [What sorcery is this](http://9gag.com/gag/a8qy40Z)
- - 🚯 [Feminist vs Sharmaji](http://9gag.com/gag/aoK1p50)<!-- MEMES:END -->
+ - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [Meme](http://9gag.com/gag/aVbqemy)
+ - 🚯 [What sorcery is this](http://9gag.com/gag/a8qy40Z)<!-- MEMES:END -->
 
 --- 
 
