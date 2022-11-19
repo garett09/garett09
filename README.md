@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anime is the reason I won’t switch from Android to iPhone](https://www.androidauthority.com/anime-switch-android-iphone-3226249/)
- - [Apple’s latest AirPods Pro are on sale at Woot for more than $50 off today](https://www.theverge.com/2022/11/19/23465286/apple-airpods-pro-2-wireless-earbuds-woot-black-friday-deal-sale)
- - [Radar Image of Huge Buffalo Snowstorm Looks Like Buffalo Bills Logo     - CNET](https://www.cnet.com/culture/sports/radar-image-of-huge-buffalo-snowstorm-looks-like-buffalo-bills-logo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Weekly Authority: 💲 Pixel-perfect Black Friday deals](https://www.androidauthority.com/the-weekly-authority-november-19-2022-221-3235911/)
+ - [A look at South Korean conglomerate Naver&#39;s experiments with a fleet of ~100 office robots, including efforts to make employees comfortable with their presence &lpar;New York Times&rpar;](http://www.techmeme.com/221119/p4#a221119p4)
+ - [47 Best Early Black Friday Deals &lpar;2022&rpar;: Robot Vacuums, Phones, Instant Pots](https://www.wired.com/story/best-early-black-friday-deals-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
