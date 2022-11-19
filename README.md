@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Destabilizing Hack-and-Leak Operation Hits Moldova](https://www.wired.com/story/moldova-leaks-google-privacy-settlement-world-cup-apps/)
- - [It&#39;s Time to Make 3D TVs a Thing Again](https://www.wired.com/story/make-3d-tvs-a-thing-again/)
- - [The Prius Gets a Redesign That Actually Looks Cool](https://www.wired.com/story/toyota-prius-gets-a-redesign/)<!-- TECH:END -->
+ - [Photographer vs Google Pixel 7 Pro: Can machine beat man at photo editing?](https://www.androidauthority.com/google-pixel-7-pro-algorithm-vs-photo-editing-photographer-3233752/)
+ - [This MSCHF Puzzle—and the Chance of $2 Million—Brought My Family Closer](https://www.wired.com/story/mschf-two-million-dollar-puzzle-rave/)
+ - [The Best Hiking Gear &lpar;2022&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
