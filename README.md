@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [Laser goes brrrr](http://9gag.com/gag/aME8w51)
- - 🚯 [The Holy fire came to Saint Petersburg. Pretty early this year. Reportedly, the gas pipeline is on fire.](http://9gag.com/gag/aKEV2R3)<!-- MEMES:END -->
+ - 🚖 [Two Chinese women were tied up after allegedly picking up a take-out meal without wearing masks, the action was taken by authorities enforcing Covid rules](http://9gag.com/gag/ay2D8Wq)
+ - 🚯 [Lets do the government next!](http://9gag.com/gag/armbOLX)
+ - 🚯 [Imagine giving your money to assholes and being surprised when they f**k you over](http://9gag.com/gag/aWGmm7d)<!-- MEMES:END -->
 
 --- 
 
