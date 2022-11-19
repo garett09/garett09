@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
- - 🚯 [Number of suicides by natural causes will increase rapidly](http://9gag.com/gag/adP7j4B)
- - 🚯 [$1,200 each month](http://9gag.com/gag/armbKw7)<!-- MEMES:END -->
+ - 🚖 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
+ - 🚯 [Just a little homemade vodka. Cheers!](http://9gag.com/gag/axoVDjn)
+ - 🚯 [Wait a minute](http://9gag.com/gag/avQGPbZ)<!-- MEMES:END -->
 
 --- 
 
