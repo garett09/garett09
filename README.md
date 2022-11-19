@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest AirPods Pro are on sale at Woot for more than $50 off today](https://www.theverge.com/2022/11/19/23465286/apple-airpods-pro-2-wireless-earbuds-woot-black-friday-deal-sale)
  - [Interviews with lawyers, analysts, and employees at AI startups on unresolved questions concerning copyright and fair use shaping the future of generative AI &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221119/p3#a221119p3)
- - [India&#39;s new draft data protection bill proposes allowing cross-border data transfer with certain countries, unlike an earlier version which imposed restrictions &lpar;TechCrunch&rpar;](http://www.techmeme.com/221119/p2#a221119p2)
- - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [India&#39;s new draft data protection bill proposes allowing cross-border data transfer with certain countries, unlike an earlier version which imposed restrictions &lpar;TechCrunch&rpar;](http://www.techmeme.com/221119/p2#a221119p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
