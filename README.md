@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [`tHe WoRlD wE LiVe iN`](http://9gag.com/gag/a4obLVQ)
- - 🚯 [Russian soldier surrendering after his comrades got killed. He followed the Ukrainian drone that lead him to the Ukrainian army](http://9gag.com/gag/az28V6z)<!-- MEMES:END -->
+ - 🚖 [Henry is Cavill](http://9gag.com/gag/ap9popn)
+ - 🚯 [Russian soldier surrendering after his comrades got killed. He followed the Ukrainian drone that lead him to the Ukrainian army](http://9gag.com/gag/az28V6z)
+ - 🚯 [`tHe WoRlD wE LiVe iN`](http://9gag.com/gag/a4obLVQ)<!-- MEMES:END -->
 
 --- 
 
