@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you try to play the intro to Stairway To Heaven by Led Zeppelin at a guitar store, you will most likely be asked to stop or to leave. &lpar;Also known as The Forbidden Riff&rpar;](http://9gag.com/gag/aDYWRBZ)
- - 🚯 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)<!-- MEMES:END -->
+ - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
+ - 🚯 [Number of suicides by natural causes will increase rapidly](http://9gag.com/gag/adP7j4B)
+ - 🚯 [$1,200 each month](http://9gag.com/gag/armbKw7)<!-- MEMES:END -->
 
 --- 
 
