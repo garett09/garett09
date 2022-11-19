@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets do the government next!](http://9gag.com/gag/armbOLX)
- - 🚯 [Pickpocket justice](http://9gag.com/gag/aEqYR9O)
- - 🚯 [International Men&#39;s Day](http://9gag.com/gag/aYVxKjN)<!-- MEMES:END -->
+ - 🚖 [Difference between Friend and Best Friend](http://9gag.com/gag/a3ZqMv8)
+ - 🚯 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [You will replay this](http://9gag.com/gag/az28r0m)<!-- MEMES:END -->
 
 --- 
 
