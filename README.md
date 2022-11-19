@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two Chinese women were tied up after allegedly picking up a take-out meal without wearing masks, the action was taken by authorities enforcing Covid rules](http://9gag.com/gag/ay2D8Wq)
- - 🚯 [Lets do the government next!](http://9gag.com/gag/armbOLX)
- - 🚯 [Imagine giving your money to assholes and being surprised when they f**k you over](http://9gag.com/gag/aWGmm7d)<!-- MEMES:END -->
+ - 🚖 [Lets do the government next!](http://9gag.com/gag/armbOLX)
+ - 🚯 [Pickpocket justice](http://9gag.com/gag/aEqYR9O)
+ - 🚯 [International Men&#39;s Day](http://9gag.com/gag/aYVxKjN)<!-- MEMES:END -->
 
 --- 
 
