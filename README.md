@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give him a rap name](http://9gag.com/gag/adP7XVd)
- - 🚯 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [Posts a video of himself stuck on a plane with Brazil fans - `The whole trip was like this`](http://9gag.com/gag/a2KrNyZ)<!-- MEMES:END -->
+ - 🚖 [It be like that](http://9gag.com/gag/adP7XGd)
+ - 🚯 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
+ - 🚯 [Money buys everything. Even fans. These actors have been seen supporting multiple countries...](http://9gag.com/gag/a8qyp3d)<!-- MEMES:END -->
 
 --- 
 
