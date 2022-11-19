@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parallel Domain, which is building a data-generation platform for autonomy companies, has raised a $30M Series B led by March Capital &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221118/p23#a221118p23)
  - [ISEE, which develops tech to turn the most common logistics yard trucks into autonomous vehicles, has raised a $40M Series B led by Founders Fund &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/221118/p22#a221118p22)
- - [Robin Wheeler, Twitter&#39;s head of ad sales, seems to have left the company, a week after Elon Musk reportedly convinced her to stay; sources say she was fired &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221118/p21#a221118p21)
- - [Pickle Robot Company, which makes robots for unloading trucks at warehouses, has raised a $26M Series A led by Ranpak, JS Capital, Soros Capital, and others &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/221118/p20#a221118p20)<!-- TECH:END -->
+ - [Robin Wheeler, Twitter&#39;s head of ad sales, seems to have left the company, a week after Elon Musk reportedly convinced her to stay; sources say she was fired &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221118/p21#a221118p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
