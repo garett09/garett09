@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches early Black Friday deals on iPads, AirPods &amp; Beats, prices as low as $89](https://appleinsider.com/articles/22/11/17/amazon-launches-early-black-friday-deals-on-ipads-airpods-beats-prices-as-low-as-89?utm_medium=rss)
  - [Wickr Me, the free encrypted messaging app acquired by AWS in 2021, will shut down on December 31, 2023 and stop accepting new users at the end of 2022 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221119/p10#a221119p10)
- - [Save up to 41% on Nespresso Coffee and Espresso Machines     - CNET](https://www.cnet.com/deals/save-up-to-41-on-nespresso-coffee-and-espresso-machines/#ftag=CAD590a51e)
- - [As climate change threatens data centers, Amazon, Microsoft, and Google are tinkering with cooling options and building data centers in colder countries &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/221119/p9#a221119p9)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-binge-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
