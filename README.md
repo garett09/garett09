@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Before becoming a Call of Duty sequel factory, Treyarch made experimental 1998 action game Die By the Sword](https://www.pcgamer.com/saturday-crapshoot-die-by-the-sword)
  - [Tabletop creators are trapped in a boom and bust crowdfunding cycle](https://www.polygon.com/tabletop-games/23460944/tabletop-creators-are-trapped-in-a-boom-and-bust-crowdfunding-cycle)
- - [How The Menu connects to Succession and Game of Thrones](https://www.polygon.com/23467161/the-menu-succession-game-of-thrones-director-interview-mark-mylod)
- - [NFL Linebacker Retires After Selling Rare Pokémon Card For Over $650,000](https://kotaku.com/rare-pokemon-card-illustrator-blake-martinez-nfl-retire-1849803410)<!-- GAME:END -->
+ - [How The Menu connects to Succession and Game of Thrones](https://www.polygon.com/23467161/the-menu-succession-game-of-thrones-director-interview-mark-mylod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
