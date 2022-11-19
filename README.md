@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday Deals Nov. 19: 12% off Apple Watch Series 8, $15 off Xbox Series S, 53% off Netgear Orbi Pro Mesh Wi-Fi, more](https://appleinsider.com/articles/22/11/19/early-black-friday-deals-nov-19-12-off-apple-watch-series-8-15-off-xbox-series-s-53-off-netgear-orbi-pro-mesh-wi-fi-more?utm_medium=rss)
- - [The Nest Audio is my new relaxing white noise machine](https://www.androidauthority.com/nest-audio-white-noise-3234496/)
- - [The Marine Lab in the Path of Climate Change’s Fury?](https://www.wired.com/story/the-marine-lab-in-the-path-of-climate-changes-fury/)<!-- TECH:END -->
+ - [A Destabilizing Hack-and-Leak Operation Hits Moldova](https://www.wired.com/story/moldova-leaks-google-privacy-settlement-world-cup-apps/)
+ - [It&#39;s Time to Make 3D TVs a Thing Again](https://www.wired.com/story/make-3d-tvs-a-thing-again/)
+ - [The Prius Gets a Redesign That Actually Looks Cool](https://www.wired.com/story/toyota-prius-gets-a-redesign/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
