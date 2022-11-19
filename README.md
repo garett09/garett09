@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It be like that](http://9gag.com/gag/adP7XGd)
- - 🚯 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
- - 🚯 [Money buys everything. Even fans. These actors have been seen supporting multiple countries...](http://9gag.com/gag/a8qyp3d)<!-- MEMES:END -->
+ - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
+ - 🚯 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)<!-- MEMES:END -->
 
 --- 
 
