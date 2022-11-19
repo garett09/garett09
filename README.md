@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DOJ has reportedly opened an antitrust investigation into Ticketmaster’s owner](https://www.theverge.com/2022/11/18/23466607/doj-department-of-justice-antitrust-investigation-ticketmaster-live-nation-taylor-swift)
- - [Ripple says it is effectively &quot;operating outside of the US&quot; due to its legal fight with the SEC and is seeking a license in Ireland to drive EU expansion &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221119/p7#a221119p7)
- - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [FTX says it has fired CTO Gary Wang, engineering director Nishad Singh, and Alameda Research CEO Caroline Ellison &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221119/p8#a221119p8)
+ - [Save up to 57% with Motorola’s stellar Black Friday deals](https://www.androidauthority.com/motorola-black-friday-deals-2022-3237910/)
+ - [Waymo can now provide fully driverless rides in San Francisco](https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
