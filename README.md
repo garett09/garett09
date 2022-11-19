@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [False Advertisement](http://9gag.com/gag/a9qrWZm)
- - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)
- - 🚯 [Wait for the weird guy in orange](http://9gag.com/gag/aGE1eGX)<!-- MEMES:END -->
+ - 🚖 [Wait what?](http://9gag.com/gag/abvp6XX)
+ - 🚯 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
+ - 🚯 [Former beauty Queen, Miss Wyoming winner 1973 Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977.](http://9gag.com/gag/amAYzmX)<!-- MEMES:END -->
 
 --- 
 
