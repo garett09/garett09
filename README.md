@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - 🚯 [Feminist vs Sharmaji](http://9gag.com/gag/aoK1p50)
- - 🚯 [Just a little homemade vodka. Cheers!](http://9gag.com/gag/axoVDjn)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/aOxdXG2)
+ - 🚯 [What sorcery is this](http://9gag.com/gag/a8qy40Z)
+ - 🚯 [Feminist vs Sharmaji](http://9gag.com/gag/aoK1p50)<!-- MEMES:END -->
 
 --- 
 
