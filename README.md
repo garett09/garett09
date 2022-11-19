@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leonid Meteor Shower Could Bring Rare Shooting Star Outburst Tonight     - CNET](https://www.cnet.com/science/space/leonid-meteor-shower-could-bring-rare-shooting-star-outburst-tonight/#ftag=CAD590a51e)
- - [Nvidia thinks RTX 4090 cables melted because they weren’t fully plugged in](https://www.theverge.com/2022/11/18/23466974/nvidia-rtx-4090-power-cable-12vhpwr-melt-burn-plugged-in)
- - [Ted Lasso Shares Encouraging Words With US World Cup Players     - CNET](https://www.cnet.com/culture/entertainment/coach-ted-lasso-offers-encouragement-to-world-cup-players-in-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ISEE, which develops tech to turn the most common logistics yard trucks into autonomous vehicles, has raised a $40M Series B led by Founders Fund &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/221118/p22#a221118p22)
+ - [Robin Wheeler, Twitter&#39;s head of ad sales, seems to have left the company, a week after Elon Musk reportedly convinced her to stay; sources say she was fired &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221118/p21#a221118p21)
+ - [Pickle Robot Company, which makes robots for unloading trucks at warehouses, has raised a $26M Series A led by Ranpak, JS Capital, Soros Capital, and others &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/221118/p20#a221118p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
