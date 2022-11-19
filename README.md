@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)
- - [Analysis: FTX Ventures, which launched a $2B fund in January 2022, participated in 47 venture rounds that raised ~$3B, with the firm leading or co-leading 19 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/221119/p1#a221119p1)
- - [Apple Watch Ultra deals debut at Amazon ahead of Black Friday](https://appleinsider.com/articles/22/11/19/apple-watch-ultra-deals-debut-at-amazon-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Interviews with lawyers, analysts, and employees at AI startups on unresolved questions concerning copyright and fair use shaping the future of generative AI &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221119/p3#a221119p3)
+ - [India&#39;s new draft data protection bill proposes allowing cross-border data transfer with certain countries, unlike an earlier version which imposed restrictions &lpar;TechCrunch&rpar;](http://www.techmeme.com/221119/p2#a221119p2)
+ - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
