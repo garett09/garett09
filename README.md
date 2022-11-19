@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Henry is Cavill](http://9gag.com/gag/ap9popn)
- - 🚯 [Russian soldier surrendering after his comrades got killed. He followed the Ukrainian drone that lead him to the Ukrainian army](http://9gag.com/gag/az28V6z)
- - 🚯 [`tHe WoRlD wE LiVe iN`](http://9gag.com/gag/a4obLVQ)<!-- MEMES:END -->
+ - 🚖 [This is quite funy.](http://9gag.com/gag/az28bmB)
+ - 🚯 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)
+ - 🚯 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)<!-- MEMES:END -->
 
 --- 
 
