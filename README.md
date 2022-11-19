@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [Meme](http://9gag.com/gag/aVbqemy)
- - 🚯 [What sorcery is this](http://9gag.com/gag/a8qy40Z)<!-- MEMES:END -->
+ - 🚯 [Working on an excavator can also be jewelry](http://9gag.com/gag/a8qy4zQ)
+ - 🚯 [That&#39;s interesting](http://9gag.com/gag/aOxzv9E)<!-- MEMES:END -->
 
 --- 
 
