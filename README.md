@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
- - 🚯 [Just a little homemade vodka. Cheers!](http://9gag.com/gag/axoVDjn)
- - 🚯 [Wait a minute](http://9gag.com/gag/avQGPbZ)<!-- MEMES:END -->
+ - 🚖 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚯 [Feminist vs Sharmaji](http://9gag.com/gag/aoK1p50)
+ - 🚯 [Just a little homemade vodka. Cheers!](http://9gag.com/gag/axoVDjn)<!-- MEMES:END -->
 
 --- 
 
