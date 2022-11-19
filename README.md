@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photographer vs Google Pixel 7 Pro: Can machine beat man at photo editing?](https://www.androidauthority.com/google-pixel-7-pro-algorithm-vs-photo-editing-photographer-3233752/)
- - [This MSCHF Puzzle—and the Chance of $2 Million—Brought My Family Closer](https://www.wired.com/story/mschf-two-million-dollar-puzzle-rave/)
- - [The Best Hiking Gear &lpar;2022&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)<!-- TECH:END -->
+ - [Flash deal: AirPods Pro 2 crash to $197.99 today only, record low price](https://appleinsider.com/articles/22/11/19/flash-deal-airpods-pro-2-crash-to-19799-today-only-record-low-price?utm_medium=rss)
+ - [Musk is running a Twitter poll on reinstating Donald Trump, after saying in October that Twitter will form a &quot;content moderation council&quot; to make such decisions &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/221119/p6#a221119p6)
+ - [Tim Cook attends opening of Adele&#39;s Las Vegas residency](https://appleinsider.com/articles/22/11/19/tim-cook-attends-opening-of-adeles-las-vegas-residency?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
