@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tabletop creators are trapped in a boom and bust crowdfunding cycle](https://www.polygon.com/tabletop-games/23460944/tabletop-creators-are-trapped-in-a-boom-and-bust-crowdfunding-cycle)
  - [How The Menu connects to Succession and Game of Thrones](https://www.polygon.com/23467161/the-menu-succession-game-of-thrones-director-interview-mark-mylod)
- - [NFL Linebacker Retires After Selling Rare Pokémon Card For Over $650,000](https://kotaku.com/rare-pokemon-card-illustrator-blake-martinez-nfl-retire-1849803410)
- - [Pokémon Scarlet and Violet have condemned us all to wearing a school uniform](https://www.polygon.com/pokemon/23466267/pokemon-scarlet-violet-character-customization-outfits)<!-- GAME:END -->
+ - [NFL Linebacker Retires After Selling Rare Pokémon Card For Over $650,000](https://kotaku.com/rare-pokemon-card-illustrator-blake-martinez-nfl-retire-1849803410)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
