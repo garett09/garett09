@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [NFL Linebacker Retires After Selling Rare Pokémon Card For Over $650,000](https://kotaku.com/rare-pokemon-card-illustrator-blake-martinez-nfl-retire-1849803410)
  - [Pokémon Scarlet and Violet have condemned us all to wearing a school uniform](https://www.polygon.com/pokemon/23466267/pokemon-scarlet-violet-character-customization-outfits)
- - [21 Things I Wish I Knew Before Playing Warzone 2.0](https://kotaku.com/warzone-2-dmz-battle-royale-tips-1849803344)
- - [The 5 best thrillers to watch on Netflix this November](https://www.polygon.com/what-to-watch/2022/11/19/23462265/best-thriller-movies-netflix-watch-november)<!-- GAME:END -->
+ - [21 Things I Wish I Knew Before Playing Warzone 2.0](https://kotaku.com/warzone-2-dmz-battle-royale-tips-1849803344)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
