@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Smile, new Christmas movies, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/11/18/23457649/new-movies-watch-christmas-netflix-slumberland-smile-nope)
- - [Why is Marvel afraid of Namor’s bulge?](https://www.polygon.com/23467043/black-panther-wakanda-forever-namor-bulge)
- - [How Pokémon Scarlet and Violet’s multiplayer works &lpar;and doesn’t&rpar;](https://www.polygon.com/pokemon-scarlet-violet-guide/23466451/union-circle-multiplayer-exclusives-spawns-raids-trade-battle)<!-- GAME:END -->
+ - [Sims 4 glitch that infected everyone with a hate plague set to be fixed in &#39;early December&#39;](https://www.pcgamer.com/sims-4-glitch-that-infected-everyone-with-a-hate-plague-set-to-be-fixed-in-early-december)
+ - [One of PC gaming&#39;s most iconic guns just got nerfed](https://www.pcgamer.com/one-of-pc-gamings-most-iconic-guns-just-got-nerfed)
+ - [The bloody thriller The Menu finishes the grim story that Pig started](https://www.polygon.com/reviews/23373306/the-menu-review-ralph-fiennes-anya-taylor-joy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
