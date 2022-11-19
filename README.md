@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
- - 🚯 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)<!-- MEMES:END -->
+ - 🚖 [Chadness level is over 9000000](http://9gag.com/gag/aGE1Dm6)
+ - 🚯 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - 🚯 [Former beauty Queen, Miss Wyoming winner 1973 Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977.](http://9gag.com/gag/amAYzmX)<!-- MEMES:END -->
 
 --- 
 
