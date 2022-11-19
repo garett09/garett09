@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai’s Ioniq 6 electric streamliner makes its US debut, revealing 340-mile range](https://www.theverge.com/2022/11/18/23466094/hyundai-ioniq-6-us-debut-laas-range-features-ev)
- - [Watch Yellowstone Season 5: Why Paramount&#39;s Top Show Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/news/watch-yellowstone-season-5-why-paramounts-top-show-isnt-on-paramount-plus/#ftag=CAD590a51e)
- - [NASA Will Not Change the James Webb Telescope’s Name](https://www.wired.com/story/nasa-will-not-change-the-james-webb-telescopes-name/)<!-- TECH:END -->
+ - [Leonid Meteor Shower Could Bring Rare Shooting Star Outburst Tonight     - CNET](https://www.cnet.com/science/space/leonid-meteor-shower-could-bring-rare-shooting-star-outburst-tonight/#ftag=CAD590a51e)
+ - [Nvidia thinks RTX 4090 cables melted because they weren’t fully plugged in](https://www.theverge.com/2022/11/18/23466974/nvidia-rtx-4090-power-cable-12vhpwr-melt-burn-plugged-in)
+ - [Ted Lasso Shares Encouraging Words With US World Cup Players     - CNET](https://www.cnet.com/culture/entertainment/coach-ted-lasso-offers-encouragement-to-world-cup-players-in-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
