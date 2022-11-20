@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
- - 🚯 [Guys!! I have a good deal for you](http://9gag.com/gag/aNwAY60)
- - 🚯 [U.S.-provided MaxxPro AFV after running over a Russian mine in southern Ukraine, no casualties among the crew](http://9gag.com/gag/agoL5B1)<!-- MEMES:END -->
+ - 🚖 [Two Chinese women were tied up after allegedly picking up a take-out meal without wearing masks, the action was taken by authorities enforcing Covid rules](http://9gag.com/gag/ay2D8Wq)
+ - 🚯 [Very therapeutic. Like watching the sun set behind the ocean.](http://9gag.com/gag/aYVx7rV)
+ - 🚯 [He knew what to do](http://9gag.com/gag/aVbq0ey)<!-- MEMES:END -->
 
 --- 
 
