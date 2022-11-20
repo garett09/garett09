@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Sonos deals: save 20% on popular soundbars &amp; speakers](https://appleinsider.com/articles/22/11/20/black-friday-sonos-deals-save-20-on-popular-soundbars-speakers?utm_medium=rss)
- - [Blackstone to acquire a 52% stake in R Systems, a publicly traded Indian IT services company, for $359M &lpar;Reuters&rpar;](http://www.techmeme.com/221120/p1#a221120p1)
- - [China tops the US to take the top spot in research papers accepted by the prestigious International Solid-State Circuits Conference for its 2023 event &lpar;Yuki Okoshi/Nikkei Asia&rpar;](http://www.techmeme.com/221119/p14#a221119p14)<!-- TECH:END -->
+ - [Interviews with more than 24 people involved in the AT&amp;T/Time Warner merger, including Jeff Bewkes and Randall Stephenson, detail how it went disastrously awry &lpar;James B. Stewart/New York Times&rpar;](http://www.techmeme.com/221120/p3#a221120p3)
+ - [Altive: Xiaohongshu, considered as a Chinese equivalent to Instagram, has been valued at $10B-$16B in private markets in 2022, down from $20B in November 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221120/p2#a221120p2)
+ - [Black Friday Sonos deals: save 20% on popular soundbars &amp; speakers](https://appleinsider.com/articles/22/11/20/black-friday-sonos-deals-save-20-on-popular-soundbars-speakers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
