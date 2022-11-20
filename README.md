@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nuphy Halo65 Wireless Mechanical Keyboard review: a small keyboard with a big price tag](https://appleinsider.com/articles/22/11/19/nuphy-halo65-wireless-mechanical-keyboard-review-a-small-keyboard-with-a-big-price-tag?utm_medium=rss)
- - [FTX users flock to Telegram to reckon with their potential losses, where some say they believed FTX&#39;s links to the US made it unusually safe &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/221119/p11#a221119p11)
- - [The Leap Second Has Jumped the Shark     - CNET](https://www.cnet.com/science/the-leap-second-has-jumped-the-shark/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the dispute between FTX&#39;s new management and Bahamian regulators over who should control the company&#39;s assets, and how the fight may affect customers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221119/p12#a221119p12)
+ - [The US government still isn’t sure about Elon Musk’s Twitter](https://www.theverge.com/2022/11/19/23468283/us-government-elon-musk-twitter-investigation-investors-ftc-cfius)
+ - [This Simple NASA Artemis I Photo of Earth is Stark, Beautiful and Evocative     - CNET](https://www.cnet.com/science/space/this-simple-nasa-artemis-i-photo-of-earth-is-stark-beautiful-and-evocative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
