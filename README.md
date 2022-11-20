@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qatar World Cup apps are privacy nightmares, says EU](https://appleinsider.com/articles/22/11/20/eu-warns-against-downloading-qatar-world-cup-apps?utm_medium=rss)
- - [Midwives Are an Overlooked Climate Solution](https://www.wired.com/story/midwives-climate-change-reproductive-health/)
- - [The Shower Power Pro Is a Hassle-Free, Hydro-Powered Shower Speaker](https://www.wired.com/story/shower-power-rave/)<!-- TECH:END -->
+ - [Donald Trump says he sees &quot;a lot of problems at Twitter&quot;, doesn&#39;t see any reason to return, and plans to stick to Truth Social &lpar;Mark Niquette/Bloomberg&rpar;](http://www.techmeme.com/221120/p5#a221120p5)
+ - [The Logitech G Cloud is a failure from the future](https://www.androidauthority.com/logitech-g-cloud-review-3235113/)
+ - [How to Declutter Your Home Screen](https://www.wired.com/story/how-to-declutter-your-home-screen/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
