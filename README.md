@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the dispute between FTX&#39;s new management and Bahamian regulators over who should control the company&#39;s assets, and how the fight may affect customers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221119/p12#a221119p12)
- - [The US government still isn’t sure about Elon Musk’s Twitter](https://www.theverge.com/2022/11/19/23468283/us-government-elon-musk-twitter-investigation-investors-ftc-cfius)
- - [This Simple NASA Artemis I Photo of Earth is Stark, Beautiful and Evocative     - CNET](https://www.cnet.com/science/space/this-simple-nasa-artemis-i-photo-of-earth-is-stark-beautiful-and-evocative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says he’s letting Donald Trump back on Twitter](https://www.theverge.com/2022/11/19/23467280/donald-trump-twitter-back-elon-musk-poll)
+ - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
+ - [Twitter-Musk News Timeline: Musk Says He&#39;ll Let Trump Back Onto Twitter     - CNET](https://www.cnet.com/news/social-media/twitter-musk-news-timeline-musk-summons-engineers-as-worries-of-twitter-crash-grow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
