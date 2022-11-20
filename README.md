@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Clearing your first savage raid in Final Fantasy 14](https://www.pcgamer.com/great-moments-in-pc-gaming-clearing-your-first-savage-raid-in-final-fantasy-14)
- - [The Walking Dead didn’t survive its own success](https://www.polygon.com/23466503/walking-dead-review-season-11-ending)
- - [Black Panther: Wakanda Forever finally gave us superheroines unbound by men](https://www.polygon.com/23466460/black-panther-wakanda-forever-shuri-lupita-nyongo-letitia-wright)<!-- GAME:END -->
+ - [Jason David Frank, The Green Ranger, Has Died](https://kotaku.com/power-rangers-green-ranger-jason-david-frank-died-rip-1849806833)
+ - [There are altogether too many eyeballs in this Darkest Dungeon 2 update](https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update)
+ - [Do some sci-fi dungeoneering in the open beta of Endless Dungeon](https://www.pcgamer.com/do-some-sci-fi-dungeoneering-in-the-open-beta-of-endless-dungeon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
