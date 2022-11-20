@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before becoming a Call of Duty sequel factory, Treyarch made experimental 1998 action game Die By the Sword](https://www.pcgamer.com/saturday-crapshoot-die-by-the-sword)
- - [Tabletop creators are trapped in a boom and bust crowdfunding cycle](https://www.polygon.com/tabletop-games/23460944/tabletop-creators-are-trapped-in-a-boom-and-bust-crowdfunding-cycle)
- - [How The Menu connects to Succession and Game of Thrones](https://www.polygon.com/23467161/the-menu-succession-game-of-thrones-director-interview-mark-mylod)<!-- GAME:END -->
+ - [Broforce is coming back for one last job, will probably punch Satan](https://www.pcgamer.com/broforce-is-coming-back-for-one-last-job-will-probably-punch-satan)
+ - [Assassin&#39;s Creed Valhalla comes to a close with its final, December update](https://www.pcgamer.com/ac-valhalla-comes-to-a-close-with-its-final-december-update)
+ - [What&#39;s a weird quirk your PC has?](https://www.pcgamer.com/whats-a-weird-quirk-your-pc-has)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
