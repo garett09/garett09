@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - 🚯 [Large shipment of World Cup sponsor Budweiser now banned from consumption in Qatar to be used to water the playing fields](http://9gag.com/gag/aQE9d67)
- - 🚯 [Damn](http://9gag.com/gag/aREm7KG)<!-- MEMES:END -->
+ - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
+ - 🚯 [Rest in peace](http://9gag.com/gag/aEqY2BG)
+ - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)<!-- MEMES:END -->
 
 --- 
 
