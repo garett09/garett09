@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laser goes brrrr](http://9gag.com/gag/aME8w51)
- - 🚯 [I&#39;m developing a game where you play as skeleton &amp; defend your cemetery against humans!](http://9gag.com/gag/aGE1jNX)
- - 🚯 [The Turkish Armed Forces entered Syria and Iraq with 20 F-16 and 10 UAVs. A lot of areas are being bombed right now.](http://9gag.com/gag/a3ZqKK3)<!-- MEMES:END -->
+ - 🚖 [Cat : The what](http://9gag.com/gag/armb5xX)
+ - 🚯 [You shall not see](http://9gag.com/gag/aKEVjgO)
+ - 🚯 [Difference between Friend and Best Friend](http://9gag.com/gag/a3ZqMv8)<!-- MEMES:END -->
 
 --- 
 
