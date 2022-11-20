@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growth of esports tournaments in India, which are attracting prime-time TV audiences with both players and viewers mostly using mobile phones &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/221120/p4#a221120p4)
- - [Artiphon Orba 2 Review: A Fun, Touch-Sensitive Musical Instrument](https://www.wired.com/review/artiphon-orba-2/)
- - [Elon Musk Embraces Twitter&#39;s Radical Fact-Checking Experiment](https://www.wired.com/story/elon-musk-embraces-twitters-radical-crowdsourcing-experiment/)<!-- TECH:END -->
+ - [EU warns against downloading Qatar World Cup apps](https://appleinsider.com/articles/22/11/20/eu-warns-against-downloading-qatar-world-cup-apps?utm_medium=rss)
+ - [This is how I get Google Assistant to understand unpronouncable town names](https://www.androidauthority.com/google-assistant-routine-unpronouncable-town-name-3235485/)
+ - [A New Explanation for How Fireflies Flash in Sync](https://www.wired.com/story/a-new-explanation-for-how-fireflies-flash-in-sync/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
