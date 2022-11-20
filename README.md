@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court documents: FTX owes $3.1B to its 50 biggest unsecured creditors, with claims ranging from $21M to $226M; ten claims are over $100M each &lpar;Bloomberg&rpar;](http://www.techmeme.com/221120/p9#a221120p9)
- - [Harber Everyday Briefcase review: Strong and attractive protection for MacBook Pro](https://appleinsider.com/articles/22/11/20/harber-everyday-briefcase-review-strong-and-attractive-protection-for-macbook-pro?utm_medium=rss)
- - [Vikings Game Today: How to Watch, Livestream NFL Week 11     - CNET](https://www.cnet.com/tech/services-and-software/vikings-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Unstable Diffusion, which is trying to monetize AI porn generators; the group migrated from a subreddit to Discord, where it has over 45,000 members &lpar;TechCrunch&rpar;](http://www.techmeme.com/221120/p10#a221120p10)
+ - [Tesla museum exhibit teases Apple Music support](https://appleinsider.com/articles/22/11/20/tesla-museum-exhibit-teases-apple-music-support?utm_medium=rss)
+ - [13 Best Foods to Eat for Kidney Health     - CNET](https://www.cnet.com/health/nutrition/13-best-foods-to-eat-for-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
