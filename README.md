@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
- - 🚯 [Yep, totally the woman&#39;s fault](http://9gag.com/gag/ap9pGQM)
- - 🚯 [Now the legendary Rubik&#39;s Cube is easy to understand](http://9gag.com/gag/aqebnYv)<!-- MEMES:END -->
+ - 🚖 [Inside qatar football camps](http://9gag.com/gag/ay2DMN8)
+ - 🚯 [Looks like she doesn&#39;t needs stocks](http://9gag.com/gag/aL1D9pz)
+ - 🚯 [Follow the fingers](http://9gag.com/gag/aVbqwbP)<!-- MEMES:END -->
 
 --- 
 
