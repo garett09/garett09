@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Sunday, November 20](https://www.pcgamer.com/wordle-519-answer-november-20)
  - [Tips for the tip throne: Things you should know about Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40k-darktide-tips-hints)
- - [Obscure RTSes the world forgot about](https://www.pcgamer.com/obscure-rtses-the-world-forgot-about)
- - [Broforce is coming back for one last job, will probably punch Satan](https://www.pcgamer.com/broforce-is-coming-back-for-one-last-job-will-probably-punch-satan)<!-- GAME:END -->
+ - [Obscure RTSes the world forgot about](https://www.pcgamer.com/obscure-rtses-the-world-forgot-about)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
