@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [I love bouncing beat](http://9gag.com/gag/aPgB9QB)
- - 🚯 [35 years old German technology](http://9gag.com/gag/agoLYBK)<!-- MEMES:END -->
+ - 🚖 [This is quite funy.](http://9gag.com/gag/az28bmB)
+ - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)
+ - 🚯 [McDonald&#39;s France start to remove single use packaging, to replace them with washable ones](http://9gag.com/gag/aqebb6v)<!-- MEMES:END -->
 
 --- 
 
