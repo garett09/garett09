@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At COP27, an Historic Deal to Compensate Poor Nations for Climate Crisis Impacts     - CNET](https://www.cnet.com/science/climate/at-cop27-an-historic-deal-to-compensate-poor-nations-for-climate-crisis-impacts/#ftag=CAD590a51e)
  - [5 Best Black Friday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-black-friday-sonos-deals-2022/)
- - [Interviews with more than 24 people involved in the AT&amp;T/Time Warner merger, including Jeff Bewkes and Randall Stephenson, detail how it went disastrously awry &lpar;James B. Stewart/New York Times&rpar;](http://www.techmeme.com/221120/p3#a221120p3)
- - [Altive: Xiaohongshu, considered as a Chinese equivalent to Instagram, has been valued at $10B-$16B in private markets in 2022, down from $20B in November 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221120/p2#a221120p2)<!-- TECH:END -->
+ - [Interviews with more than 24 people involved in the AT&amp;T/Time Warner merger, including Jeff Bewkes and Randall Stephenson, detail how it went disastrously awry &lpar;James B. Stewart/New York Times&rpar;](http://www.techmeme.com/221120/p3#a221120p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
