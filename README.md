@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Difference between Friend and Best Friend](http://9gag.com/gag/a3ZqMv8)
- - 🚯 [Qatar right now](http://9gag.com/gag/aDYW1RO)
- - 🚯 [I&#39;m developing a game where you play as skeleton &amp; defend your cemetery against humans!](http://9gag.com/gag/aGE1jNX)<!-- MEMES:END -->
+ - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
+ - 🚯 [Le Paris,peak of civilisation](http://9gag.com/gag/a04bPzO)
+ - 🚯 [Wait what?](http://9gag.com/gag/abvp6XX)<!-- MEMES:END -->
 
 --- 
 
