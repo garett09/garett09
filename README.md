@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ambulances arrived in Kherson to replace those stolen by the Russians. So grateful to all the groups, donors and countries that have been helping to replace stolen ambulances.](http://9gag.com/gag/aME8xgA)
- - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - 🚯 [Okay the movies were a masterpiece](http://9gag.com/gag/aL1DwKx)<!-- MEMES:END -->
+ - 🚖 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
+ - 🚯 [Yep, totally the woman&#39;s fault](http://9gag.com/gag/ap9pGQM)
+ - 🚯 [Now the legendary Rubik&#39;s Cube is easy to understand](http://9gag.com/gag/aqebnYv)<!-- MEMES:END -->
 
 --- 
 
