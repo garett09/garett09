@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two Chinese women were tied up after allegedly picking up a take-out meal without wearing masks, the action was taken by authorities enforcing Covid rules](http://9gag.com/gag/ay2D8Wq)
- - 🚯 [Very therapeutic. Like watching the sun set behind the ocean.](http://9gag.com/gag/aYVx7rV)
- - 🚯 [He knew what to do](http://9gag.com/gag/aVbq0ey)<!-- MEMES:END -->
+ - 🚖 [Former beauty Queen, Miss Wyoming winner 1973 Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977.](http://9gag.com/gag/amAYzmX)
+ - 🚯 [Lets do the government next!](http://9gag.com/gag/armbOLX)
+ - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)<!-- MEMES:END -->
 
 --- 
 
