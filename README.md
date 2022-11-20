@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU warns against downloading Qatar World Cup apps](https://appleinsider.com/articles/22/11/20/eu-warns-against-downloading-qatar-world-cup-apps?utm_medium=rss)
- - [This is how I get Google Assistant to understand unpronouncable town names](https://www.androidauthority.com/google-assistant-routine-unpronouncable-town-name-3235485/)
- - [A New Explanation for How Fireflies Flash in Sync](https://www.wired.com/story/a-new-explanation-for-how-fireflies-flash-in-sync/)<!-- TECH:END -->
+ - [Qatar World Cup apps are privacy nightmares, says EU](https://appleinsider.com/articles/22/11/20/eu-warns-against-downloading-qatar-world-cup-apps?utm_medium=rss)
+ - [Midwives Are an Overlooked Climate Solution](https://www.wired.com/story/midwives-climate-change-reproductive-health/)
+ - [The Shower Power Pro Is a Hassle-Free, Hydro-Powered Shower Speaker](https://www.wired.com/story/shower-power-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
