@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
- - 🚯 [In Poland, a farmer who died in Przevodov after being hit by a Ukrainian rocket was buried with honors](http://9gag.com/gag/a8qy301)
- - 🚯 [Reading Arabic](http://9gag.com/gag/a3ZqQZ3)<!-- MEMES:END -->
+ - 🚖 [False Advertisement](http://9gag.com/gag/a9qrWZm)
+ - 🚯 [Please!!](http://9gag.com/gag/aKEVx8j)
+ - 🚯 [How tickle a crocodile 101](http://9gag.com/gag/aoK1eRn)<!-- MEMES:END -->
 
 --- 
 
