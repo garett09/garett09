@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [False Advertisement](http://9gag.com/gag/a9qrWZm)
- - 🚯 [Please!!](http://9gag.com/gag/aKEVx8j)
- - 🚯 [How tickle a crocodile 101](http://9gag.com/gag/aoK1eRn)<!-- MEMES:END -->
+ - 🚖 [Wait for the weird guy in orange](http://9gag.com/gag/aGE1eGX)
+ - 🚯 [Lets do the government next!](http://9gag.com/gag/armbOLX)
+ - 🚯 [I&#39;m developing a game where you play as skeleton &amp; defend your cemetery against humans!](http://9gag.com/gag/aGE1jNX)<!-- MEMES:END -->
 
 --- 
 
