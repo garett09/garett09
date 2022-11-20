@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for the weird guy in orange](http://9gag.com/gag/aGE1eGX)
- - 🚯 [Lets do the government next!](http://9gag.com/gag/armbOLX)
- - 🚯 [I&#39;m developing a game where you play as skeleton &amp; defend your cemetery against humans!](http://9gag.com/gag/aGE1jNX)<!-- MEMES:END -->
+ - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
+ - 🚯 [Guys!! I have a good deal for you](http://9gag.com/gag/aNwAY60)
+ - 🚯 [U.S.-provided MaxxPro AFV after running over a Russian mine in southern Ukraine, no casualties among the crew](http://9gag.com/gag/agoL5B1)<!-- MEMES:END -->
 
 --- 
 
