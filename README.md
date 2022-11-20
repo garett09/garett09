@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harber Everyday Briefcase review: Strong and attractive protection for MacBook Pro](https://appleinsider.com/articles/22/11/20/harber-everyday-briefcase-review-strong-and-attractive-protection-for-macbook-pro?utm_medium=rss)
- - [Feds arrest Russians allegedly behind ‘world’s largest’ pirated ebook library](https://www.theverge.com/2022/11/20/23469142/feds-arrest-russians-z-library-pirated-ebooks)
- - [Amazon&#39;s Black Friday Deals Came Early: Save Big on Echo, Kindle Readers, Fire Tablets and More     - CNET](https://www.cnet.com/deals/amazons-black-friday-deals-came-early-save-big-on-echo-kindle-readers-fire-tablets-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [Microsoft brings SwiftKey back to the iOS App Store citing &quot;customer feedback&quot;, after delisting the keyboard app on October 5, 2022 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221120/p8#a221120p8)
+ - [Power Rangers star Jason David Frank has died at age 49](https://www.theverge.com/2022/11/20/23469405/jason-david-frank-power-rangers-star-died-green-ranger)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
