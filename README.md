@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Former beauty Queen, Miss Wyoming winner 1973 Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977.](http://9gag.com/gag/amAYzmX)
- - 🚯 [Lets do the government next!](http://9gag.com/gag/armbOLX)
- - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)<!-- MEMES:END -->
+ - 🚖 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
+ - 🚯 [Chad woman saved guy from scamming](http://9gag.com/gag/a8qy5nV)
+ - 🚯 [Some mobilized Russian soldiers refuse to fight. They will certainly spend some time in prison ... but at least they will survive.](http://9gag.com/gag/a04bNLd)<!-- MEMES:END -->
 
 --- 
 
