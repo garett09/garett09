@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
- - 🚯 [Rest in peace](http://9gag.com/gag/aEqY2BG)
- - 🚯 [Damn](http://9gag.com/gag/aeQbb1Q)<!-- MEMES:END -->
+ - 🚖 [Ambulances arrived in Kherson to replace those stolen by the Russians. So grateful to all the groups, donors and countries that have been helping to replace stolen ambulances.](http://9gag.com/gag/aME8xgA)
+ - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
+ - 🚯 [Okay the movies were a masterpiece](http://9gag.com/gag/aL1DwKx)<!-- MEMES:END -->
 
 --- 
 
