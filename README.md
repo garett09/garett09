@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Inside qatar football camps](http://9gag.com/gag/ay2DMN8)
- - 🚯 [Looks like she doesn&#39;t needs stocks](http://9gag.com/gag/aL1D9pz)
- - 🚯 [Follow the fingers](http://9gag.com/gag/aVbqwbP)<!-- MEMES:END -->
+ - 🚖 [Winter has arrived in Ukraine](http://9gag.com/gag/aeQbAxm)
+ - 🚯 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
+ - 🚯 [Don&#39;t show this game to your Grandpa: `Beach Invasion 1944`](http://9gag.com/gag/aA0db1g)<!-- MEMES:END -->
 
 --- 
 
