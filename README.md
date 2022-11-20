@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Best Black Friday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-black-friday-sonos-deals-2022/)
  - [Interviews with more than 24 people involved in the AT&amp;T/Time Warner merger, including Jeff Bewkes and Randall Stephenson, detail how it went disastrously awry &lpar;James B. Stewart/New York Times&rpar;](http://www.techmeme.com/221120/p3#a221120p3)
- - [Altive: Xiaohongshu, considered as a Chinese equivalent to Instagram, has been valued at $10B-$16B in private markets in 2022, down from $20B in November 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221120/p2#a221120p2)
- - [Black Friday Sonos deals: save 20% on popular soundbars &amp; speakers](https://appleinsider.com/articles/22/11/20/black-friday-sonos-deals-save-20-on-popular-soundbars-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Altive: Xiaohongshu, considered as a Chinese equivalent to Instagram, has been valued at $10B-$16B in private markets in 2022, down from $20B in November 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221120/p2#a221120p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
