@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winter has arrived in Ukraine](http://9gag.com/gag/aeQbAxm)
- - 🚯 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
- - 🚯 [Don&#39;t show this game to your Grandpa: `Beach Invasion 1944`](http://9gag.com/gag/aA0db1g)<!-- MEMES:END -->
+ - 🚖 [Lovely...](http://9gag.com/gag/amAYvw6)
+ - 🚯 [The World Cup costs $200 billion. For the development and construction of the fusion reactor ITER, 20 billion will be invested over a period of 20 years. You can see how `important` energy autonomy is to our governments.](http://9gag.com/gag/a4obE8m)
+ - 🚯 [Happy](http://9gag.com/gag/a7qr1Lr)<!-- MEMES:END -->
 
 --- 
 
