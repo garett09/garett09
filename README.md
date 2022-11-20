@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you put these glasses on? You remind me of someone](http://9gag.com/gag/aZDmpM3)
- - 🚯 [Lifehacks](http://9gag.com/gag/avQG7NZ)
- - 🚯 [At just 19 years old, Elizabeth Holmes dropped out and launched Theranos which be valued at ten billion dollars. She currently awaits to report to prison in April 2023](http://9gag.com/gag/aeQbeYb)<!-- MEMES:END -->
+ - 🚖 [Laser goes brrrr](http://9gag.com/gag/aME8w51)
+ - 🚯 [Insurrectionist gets 15 months.... this one sparks joy](http://9gag.com/gag/a8qy3Mp)
+ - 🚯 [Unboxing a Scotland&#39;s baby box](http://9gag.com/gag/aKEVjQb)<!-- MEMES:END -->
 
 --- 
 
