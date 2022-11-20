@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday TV Deals: The Best Discounts on LG OLED, Roku TVs and More     - CNET](https://www.cnet.com/deals/best-black-friday-tv-deals/#ftag=CAD590a51e)
- - [Donald Trump says he sees &quot;a lot of problems at Twitter&quot;, doesn&#39;t see any reason to return, and plans to stick to Truth Social &lpar;Mark Niquette/Bloomberg&rpar;](http://www.techmeme.com/221120/p5#a221120p5)
- - [The Logitech G Cloud is a failure from the future](https://www.androidauthority.com/logitech-g-cloud-review-3235113/)<!-- TECH:END -->
+ - [Lossless audio: Is it worth the data drain?](https://www.androidauthority.com/streaming-lossless-audio-music-data-drain-3225532/)
+ - [Twitter&#39;s automated copyright strike system appears to be broken, as users upload full movies; some accounts with viral tweets were later suspended &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/221120/p6#a221120p6)
+ - [Black Friday TV Deals: The Best Discounts on LG OLED, Roku TVs and More     - CNET](https://www.cnet.com/deals/best-black-friday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
