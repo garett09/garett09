@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
- - 🚯 [Le Paris,peak of civilisation](http://9gag.com/gag/a04bPzO)
- - 🚯 [Wait what?](http://9gag.com/gag/abvp6XX)<!-- MEMES:END -->
+ - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
+ - 🚯 [In Poland, a farmer who died in Przevodov after being hit by a Ukrainian rocket was buried with honors](http://9gag.com/gag/a8qy301)
+ - 🚯 [Reading Arabic](http://9gag.com/gag/a3ZqQZ3)<!-- MEMES:END -->
 
 --- 
 
