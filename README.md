@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - 🚯 [Chad woman saved guy from scamming](http://9gag.com/gag/a8qy5nV)
- - 🚯 [Some mobilized Russian soldiers refuse to fight. They will certainly spend some time in prison ... but at least they will survive.](http://9gag.com/gag/a04bNLd)<!-- MEMES:END -->
+ - 🚯 [Large shipment of World Cup sponsor Budweiser now banned from consumption in Qatar to be used to water the playing fields](http://9gag.com/gag/aQE9d67)
+ - 🚯 [Damn](http://9gag.com/gag/aREm7KG)<!-- MEMES:END -->
 
 --- 
 
