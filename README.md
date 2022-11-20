@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuphy Halo65 Wireless Mechanical Keyboard review: a small keyboard with a big price tag](https://appleinsider.com/articles/22/11/19/nuphy-halo65-wireless-mechanical-keyboard-review-a-small-keyboard-with-a-big-price-tag?utm_medium=rss)
  - [Elon Musk says he’s letting Donald Trump back on Twitter](https://www.theverge.com/2022/11/19/23467280/donald-trump-twitter-back-elon-musk-poll)
- - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
- - [Twitter-Musk News Timeline: Musk Says He&#39;ll Let Trump Back Onto Twitter     - CNET](https://www.cnet.com/news/social-media/twitter-musk-news-timeline-musk-summons-engineers-as-worries-of-twitter-crash-grow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
