@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Walking Dead didn’t survive its own success](https://www.polygon.com/23466503/walking-dead-review-season-11-ending)
  - [Black Panther: Wakanda Forever finally gave us superheroines unbound by men](https://www.polygon.com/23466460/black-panther-wakanda-forever-shuri-lupita-nyongo-letitia-wright)
- - [Today&#39;s Wordle answer and hint for Sunday, November 20](https://www.pcgamer.com/wordle-519-answer-november-20)
- - [Tips for the tip throne: Things you should know about Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40k-darktide-tips-hints)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer and hint for Sunday, November 20](https://www.pcgamer.com/wordle-519-answer-november-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
