@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Obscure RTSes the world forgot about](https://www.pcgamer.com/obscure-rtses-the-world-forgot-about)
  - [Broforce is coming back for one last job, will probably punch Satan](https://www.pcgamer.com/broforce-is-coming-back-for-one-last-job-will-probably-punch-satan)
- - [Assassin&#39;s Creed Valhalla comes to a close with its final, December update](https://www.pcgamer.com/ac-valhalla-comes-to-a-close-with-its-final-december-update)
- - [What&#39;s a weird quirk your PC has?](https://www.pcgamer.com/whats-a-weird-quirk-your-pc-has)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Valhalla comes to a close with its final, December update](https://www.pcgamer.com/ac-valhalla-comes-to-a-close-with-its-final-december-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
