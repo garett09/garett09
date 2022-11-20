@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harber Everyday Briefcase review: Strong and attractive protection for MacBook Pro](https://appleinsider.com/articles/22/11/20/harber-everyday-briefcase-review-strong-and-attractive-protection-for-macbook-pro?utm_medium=rss)
  - [Feds arrest Russians allegedly behind ‘world’s largest’ pirated ebook library](https://www.theverge.com/2022/11/20/23469142/feds-arrest-russians-z-library-pirated-ebooks)
- - [Elon Musk&#39;s changes at Twitter threaten to set up a showdown with Apple and Google over in-app purchases for subscriptions and content moderation issues &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221120/p7#a221120p7)
- - [Apple Fellow Phil Schiller quits Twitter](https://appleinsider.com/articles/22/11/20/apple-fellow-phil-schiller-quits-twitter?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s Black Friday Deals Came Early: Save Big on Echo, Kindle Readers, Fire Tablets and More     - CNET](https://www.cnet.com/deals/amazons-black-friday-deals-came-early-save-big-on-echo-kindle-readers-fire-tablets-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
