@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laser goes brrrr](http://9gag.com/gag/aME8w51)
- - 🚯 [Insurrectionist gets 15 months.... this one sparks joy](http://9gag.com/gag/a8qy3Mp)
- - 🚯 [Unboxing a Scotland&#39;s baby box](http://9gag.com/gag/aKEVjQb)<!-- MEMES:END -->
+ - 🚖 [Difference between Friend and Best Friend](http://9gag.com/gag/a3ZqMv8)
+ - 🚯 [Qatar right now](http://9gag.com/gag/aDYW1RO)
+ - 🚯 [I&#39;m developing a game where you play as skeleton &amp; defend your cemetery against humans!](http://9gag.com/gag/aGE1jNX)<!-- MEMES:END -->
 
 --- 
 
