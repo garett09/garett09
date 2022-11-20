@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China tops the US to take the top spot in research papers accepted by the prestigious International Solid-State Circuits Conference for its 2023 event &lpar;Yuki Okoshi/Nikkei Asia&rpar;](http://www.techmeme.com/221119/p14#a221119p14)
- - [Nuphy Halo65 Wireless Mechanical Keyboard review: a small keyboard with a big price tag](https://appleinsider.com/articles/22/11/19/nuphy-halo65-wireless-mechanical-keyboard-review-a-small-keyboard-with-a-big-price-tag?utm_medium=rss)
- - [Historic Deal to Compensate Poor Nations For Climate Impacts Agreed at COP27     - CNET](https://www.cnet.com/science/climate/historic-deal-to-compensate-poor-nations-for-climate-impacts-agreed-at-cop27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Sonos deals: save 20% on popular soundbars &amp; speakers](https://appleinsider.com/articles/22/11/20/black-friday-sonos-deals-save-20-on-popular-soundbars-speakers?utm_medium=rss)
+ - [Blackstone to acquire a 52% stake in R Systems, a publicly traded Indian IT services company, for $359M &lpar;Reuters&rpar;](http://www.techmeme.com/221120/p1#a221120p1)
+ - [China tops the US to take the top spot in research papers accepted by the prestigious International Solid-State Circuits Conference for its 2023 event &lpar;Yuki Okoshi/Nikkei Asia&rpar;](http://www.techmeme.com/221119/p14#a221119p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
