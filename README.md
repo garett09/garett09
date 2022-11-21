@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monday’s top tech news: Don’t call it a comeback](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)
- - [Connecticut-based SponsorUnited, a SaaS database of the brand sponsorship industry, raised a $35M Series A led by Spectrum Equity at a $100M+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221121/p15#a221121p15)
- - [Three big takeaways from this year’s United Nations climate conference](https://www.theverge.com/2022/11/21/23471049/cop27-takeaways-egypt-climate-summit-united-nations)<!-- TECH:END -->
+ - [Sources: at an all-hands, Elon Musk said Twitter is done with layoffs and actively recruiting for roles in engineering and sales; Twitter has 2,700+ employees &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221121/p17#a221121p17)
+ - [Bob Iger steps back in as Disney CEO, replacing Bob Chapek](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)
+ - [The best Black Friday deals you can already get at Amazon](https://www.theverge.com/23466456/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
