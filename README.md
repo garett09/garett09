@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aeQbb1Q)
- - 🚯 [Qatar World Cup going well.](http://9gag.com/gag/aL1Dvwx)
- - 🚯 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)<!-- MEMES:END -->
+ - 🚖 [Katheryn Winnick](http://9gag.com/gag/aXnqPAD)
+ - 🚯 [False Advertisement](http://9gag.com/gag/a9qrWZm)
+ - 🚯 [These three together..... Seems fitting....](http://9gag.com/gag/a5XbQ7O)<!-- MEMES:END -->
 
 --- 
 
