@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft is back to releasing games on Steam, including Assassin’s Creed Valhalla](https://www.theverge.com/2022/11/21/23471589/ubisoft-return-steam-2022-assassins-creed-valhalla)
- - [How to use Homebrew on Mac to install third-party tools &amp; apps](https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps?utm_medium=rss)
- - [SUV crashes through Apple Store, kills one, injures many more](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)<!-- TECH:END -->
+ - [Despite Apple saying that usage data it collects does not include personally identifiable info, researchers say it contains an ID that is unique to the user &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/221121/p14#a221121p14)
+ - [Mondo is releasing vinyl soundtrack of Apple TV+ show &#39;Severance&#39;](https://appleinsider.com/articles/22/11/21/mondo-is-releasing-vinyl-soundtrack-of-apple-tv-show-severance?utm_medium=rss)
+ - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
