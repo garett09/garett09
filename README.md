@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Animals running in circles is so cool](http://9gag.com/gag/aZDmg1V)
- - 🚯 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
- - 🚯 [Title indeed.](http://9gag.com/gag/aGE1d5Z)<!-- MEMES:END -->
+ - 🚖 [In Kherson, russians stole 15000 items from museums. They looted bank vaults as well. More photos in comments.](http://9gag.com/gag/a7qr88r)
+ - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
+ - 🚯 [Make way for the KING........](http://9gag.com/gag/aeQb4O5)<!-- MEMES:END -->
 
 --- 
 
