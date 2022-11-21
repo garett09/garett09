@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)
- - 🚯 [Gentleman](http://9gag.com/gag/a8qyqzV)
- - 🚯 [Ninja man!](http://9gag.com/gag/a7qrqxm)<!-- MEMES:END -->
+ - 🚖 [K: You call throwing dynamite around a dating strategy? J: Hey, as long as it works](http://9gag.com/gag/aXnqrKV)
+ - 🚯 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
+ - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)<!-- MEMES:END -->
 
 --- 
 
