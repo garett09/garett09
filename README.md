@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
- - [Black Friday deals: get a 16-inch MacBook Pro for as low as $1,690](https://appleinsider.com/articles/22/11/21/black-friday-deals-get-a-16-inch-macbook-pro-for-as-low-as-1690?utm_medium=rss)
- - [Twitter reinstates the accounts of Ye, Project Veritas, and others, despite Musk&#39;s pledge to delay such decisions until forming a content moderation council &lpar;Ryan Lovelace/Washington Times&rpar;](http://www.techmeme.com/221121/p12#a221121p12)<!-- TECH:END -->
+ - [SUV crashes through Apple Store, kills one, injures many more [u]](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)
+ - [Elon Musk is laying off even more Twitter workers](https://www.theverge.com/2022/11/21/23471021/elon-musk-twitter-layoffs-sales-partnerships-workers)
+ - [Amazon Echo Dot &lpar;5th gen&rpar; review: Maybe the only Alexa smart speaker you need](https://www.androidauthority.com/amazon-echo-dot-5th-gen-review-3234533/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
