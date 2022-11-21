@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
- - 🚯 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
- - 🚯 [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)<!-- MEMES:END -->
+ - 🚖 [How you think it would happen VS how it would actually happen...](http://9gag.com/gag/ay2D3xW)
+ - 🚯 [What a deception...](http://9gag.com/gag/ajVX92p)
+ - 🚯 [Lucky bastard](http://9gag.com/gag/a3ZqGEm)<!-- MEMES:END -->
 
 --- 
 
