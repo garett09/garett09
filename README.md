@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Force Majeure](http://9gag.com/gag/aBdWdgz)
- - 🚯 [Yulia Prokhorova, the Russian woman who kept harassing Ukrainian refugees on the streets of Germany and Austria has been deported from Germany.](http://9gag.com/gag/adP7PQB)
- - 🚯 [Richard Hammond explains what he experienced during his coma after his 310mph jet car crash.](http://9gag.com/gag/aoK1KNA)<!-- MEMES:END -->
+ - 🚖 [Gentleman](http://9gag.com/gag/a8qyqzV)
+ - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
+ - 🚯 [You either die a villain, or live long enough to see yourself become a hero.](http://9gag.com/gag/aYVxV1v)<!-- MEMES:END -->
 
 --- 
 
