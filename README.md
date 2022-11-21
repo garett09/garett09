@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
- - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [He&#39;s almost finished](http://9gag.com/gag/armb3qy)<!-- MEMES:END -->
+ - 🚖 [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)
+ - 🚯 [I am the speed!](http://9gag.com/gag/agoL1Bn)
+ - 🚯 [Never again](http://9gag.com/gag/a6qbXAq)<!-- MEMES:END -->
 
 --- 
 
