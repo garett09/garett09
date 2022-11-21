@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 35 years painting minis, Chris Clayton wins it all at the UK Golden Demon 2022](https://www.polygon.com/tabletop-games/23460418/golden-demon-slayer-sword-winner-uk-2022-interview-chris-clayton-build-photographs-details-basing)
- - [Demonschool is a Persona-like tactical RPG about fast, frantic combat](https://www.pcgamer.com/demonschool-is-a-slick-persona-like-that-revels-in-the-beauty-of-simplicity)
- - [How to get the nuke in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-nuke-how-to)<!-- GAME:END -->
+ - [Warhammer 40K: Darktide&#39;s unlocks aren&#39;t worth the grind, yet](https://www.pcgamer.com/warhammer-40000-darktide-unlocks)
+ - [Twitch Star Gets ‘Cracker Pass&#39; From Wheat Thins After Getting Banned For Saying It](https://kotaku.com/hasan-hasanabi-piker-wheat-thins-cracker-twitch-ban-pas-1849807890)
+ - [Mario Kart 8 Deluxe’s Latest DLC Is Loaded With Classic Courses](https://kotaku.com/mario-kart-8-switch-dlc-maple-treeway-3ds-rainbow-road-1849807829)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
