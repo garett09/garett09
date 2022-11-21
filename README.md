@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gentleman](http://9gag.com/gag/a8qyqzV)
- - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - 🚯 [You either die a villain, or live long enough to see yourself become a hero.](http://9gag.com/gag/aYVxV1v)<!-- MEMES:END -->
+ - 🚖 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)
+ - 🚯 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
+ - 🚯 [Gentleman](http://9gag.com/gag/a8qyqzV)<!-- MEMES:END -->
 
 --- 
 
