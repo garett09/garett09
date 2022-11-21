@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Creeping up](http://9gag.com/gag/a3Zq1Qr)
- - 🚯 [Wait what?](http://9gag.com/gag/abvp6XX)
- - 🚯 [\u00a3175-a-night fan village at Qatar World Cup 2022](http://9gag.com/gag/aGE1pLG)<!-- MEMES:END -->
+ - 🚖 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
+ - 🚯 [Jump rope competition](http://9gag.com/gag/axoVBb2)
+ - 🚯 [You know the women who harassed UA refugee in Germany. What goes around comes around](http://9gag.com/gag/aBdWnMz)<!-- MEMES:END -->
 
 --- 
 
