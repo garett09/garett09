@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bees are cool!](http://9gag.com/gag/aKEVmr1)
- - 🚯 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
- - 🚯 [Ok Siri, how do you post anonymously?](http://9gag.com/gag/a9qr1x1)<!-- MEMES:END -->
+ - 🚖 [Force Majeure](http://9gag.com/gag/aBdWdgz)
+ - 🚯 [Yulia Prokhorova, the Russian woman who kept harassing Ukrainian refugees on the streets of Germany and Austria has been deported from Germany.](http://9gag.com/gag/adP7PQB)
+ - 🚯 [Richard Hammond explains what he experienced during his coma after his 310mph jet car crash.](http://9gag.com/gag/aoK1KNA)<!-- MEMES:END -->
 
 --- 
 
