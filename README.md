@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
- - [The Verge’s 2022 home tech holiday gift guide](https://www.theverge.com/23386171/smart-home-tech-holiday-gift-guide-2022-kitchen-gadgets-lights-smart-speakers-vacuums)
- - [My best purchase last Black Friday was a smart thermostat](https://www.androidauthority.com/tado-smart-thermostat-one-year-3235090/)<!-- TECH:END -->
+ - [Aqara pet feeder, HOOBS Pro hub, and other smart home news](https://appleinsider.com/articles/22/11/21/aqara-pet-feeder-hoobs-pro-hub-and-other-smart-home-news?utm_medium=rss)
+ - [The best Samsung Galaxy Tab deals of the Black Friday sales](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [Mass tech layoffs leave hundreds of H-1B visa holders scrambling for new jobs to stay in the US; Amazon, Meta, and others sponsored 45K+ in the last three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/221121/p11#a221121p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
