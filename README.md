@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 2 early benchmark results are in](https://www.androidauthority.com/snapdragon-8-gen-2-benchmarks-3234198/)
- - [Apple&#39;s App Store analytics may be able to identify users](https://appleinsider.com/articles/22/11/21/apples-app-store-analytics-may-be-able-to-identify-users?utm_medium=rss)
- - [This Copyright Lawsuit Could Shape the Future of Generative AI](https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/)<!-- TECH:END -->
+ - [Countdown to Black Friday deals Nov. 21: $199 AirPods Pro Gen 2, 23% off MagSafe Charger, $250 off Bose Soundbar 700, more](https://appleinsider.com/articles/22/11/21/countdown-to-black-friday-deals-nov-21-199-airpods-pro-gen-2-23-off-magsafe-charger-250-off-bose-soundbar-700-more?utm_medium=rss)
+ - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
+ - [Time’s up: the leap second is being scrapped](https://www.theverge.com/2022/11/21/23470759/leap-second-scrapped-2035-time-computer-chaos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
