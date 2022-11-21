@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite Apple saying that usage data it collects does not include personally identifiable info, researchers say it contains an ID that is unique to the user &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/221121/p14#a221121p14)
- - [Mondo is releasing vinyl soundtrack of Apple TV+ show &#39;Severance&#39;](https://appleinsider.com/articles/22/11/21/mondo-is-releasing-vinyl-soundtrack-of-apple-tv-show-severance?utm_medium=rss)
- - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)<!-- TECH:END -->
+ - [Monday’s top tech news: Don’t call it a comeback](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)
+ - [Connecticut-based SponsorUnited, a SaaS database of the brand sponsorship industry, raised a $35M Series A led by Spectrum Equity at a $100M+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221121/p15#a221121p15)
+ - [Three big takeaways from this year’s United Nations climate conference](https://www.theverge.com/2022/11/21/23471049/cop27-takeaways-egypt-climate-summit-united-nations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
