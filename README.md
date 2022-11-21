@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)
- - 🚯 [I am the speed!](http://9gag.com/gag/agoL1Bn)
- - 🚯 [Never again](http://9gag.com/gag/a6qbXAq)<!-- MEMES:END -->
+ - 🚖 [So many cakes, can you Imagine?](http://9gag.com/gag/aVbqo9n)
+ - 🚯 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
+ - 🚯 [From the depths of my gallery](http://9gag.com/gag/ap9p3NE)<!-- MEMES:END -->
 
 --- 
 
