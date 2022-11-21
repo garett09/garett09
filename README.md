@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Warzone 2 whack-a-mole begins as infinite XP bug discovered and patched within hours](https://www.pcgamer.com/the-warzone-2-whack-a-mole-begins-as-infinite-xp-bug-discovered-and-patched-within-hours)
- - [Today&#39;s Wordle answer and hint for Monday, November 21](https://www.pcgamer.com/wordle-520-answer-november-21)
- - [Five reasons Nreal&#39;s Air Glasses are the ultimate Steam Deck companion](https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion)<!-- GAME:END -->
+ - [Rockstar sets new rules for GTA Online roleplay servers after shutting down rapper&#39;s NFT grift](https://www.pcgamer.com/rockstar-sets-new-rules-for-gta-online-roleplay-servers-after-shutting-down-rappers-nft-grift)
+ - [SpongeBob and Skyrim are coming to Fall Guys](https://www.polygon.com/23466560/fall-guys-season-3-sunken-secrets-spongebob-squarepants-skyrim)
+ - [Overwatch 2 won&#39;t remove Tracer despite damage bug because she kinda sucks without it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
