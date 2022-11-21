@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 🎮 Skip this Android handheld](https://www.androidauthority.com/daily-authority-november-21-2022-3235869/)
  - [Black Friday deal: Microsoft Office for Mac Home &amp; Business 2021 lifetime license just $29.99](https://appleinsider.com/articles/22/11/21/black-friday-deal-microsoft-office-for-mac-home-business-2021-lifetime-license-just-2999?utm_medium=rss)
- - [Mark Cuban&#39;s Cost Plus Drugs Offers Prescription Medications at Huge Discounts     - CNET](https://www.cnet.com/science/biology/mark-cubans-cost-plus-drugs-offers-prescription-medications-at-huge-discounts/#ftag=CAD590a51e)
- - [Bob Iger steps back in as Disney CEO, replacing Bob Chapek](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)<!-- TECH:END -->
+ - [Mark Cuban&#39;s Cost Plus Drugs Offers Prescription Medications at Huge Discounts     - CNET](https://www.cnet.com/science/biology/mark-cubans-cost-plus-drugs-offers-prescription-medications-at-huge-discounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
