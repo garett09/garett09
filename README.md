@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/aA0dgeL)
+ - 🚖 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
  - 🚯 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
- - 🚯 [The Millers](http://9gag.com/gag/aA0dyL0)<!-- MEMES:END -->
+ - 🚯 [Wtf.](http://9gag.com/gag/az285Vm)<!-- MEMES:END -->
 
 --- 
 
