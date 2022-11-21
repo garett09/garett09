@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Countdown to Black Friday deals Nov. 21: $199 AirPods Pro Gen 2, 23% off MagSafe Charger, $250 off Bose Soundbar 700, more](https://appleinsider.com/articles/22/11/21/countdown-to-black-friday-deals-nov-21-199-airpods-pro-gen-2-23-off-magsafe-charger-250-off-bose-soundbar-700-more?utm_medium=rss)
- - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
- - [Time’s up: the leap second is being scrapped](https://www.theverge.com/2022/11/21/23470759/leap-second-scrapped-2035-time-computer-chaos)<!-- TECH:END -->
+ - [Mortgage Refinance Rates on Nov. 21, 2022: Rate Falls     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-21-2022-rate-falls/#ftag=CAD590a51e)
+ - [Graza&#39;s Extra Virgin Olive Oil Is the Trendiest Affordable Gift for Home Cooks     - CNET](https://www.cnet.com/news/grazas-extra-virgin-olive-oil-is-the-trendiest-affordable-gift-for-home-cooks/#ftag=CAD590a51e)
+ - [Want to Be Happier? Get More Sleep. 6 Ways Your Sleep Influences Mental Health     - CNET](https://www.cnet.com/health/mental/want-to-be-happier-get-more-sleep-6-ways-your-sleep-influences-mental-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
