@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
- - 🚯 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
- - 🚯 [Wtf.](http://9gag.com/gag/az285Vm)<!-- MEMES:END -->
+ - 🚖 [Animals running in circles is so cool](http://9gag.com/gag/aZDmg1V)
+ - 🚯 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
+ - 🚯 [Title indeed.](http://9gag.com/gag/aGE1d5Z)<!-- MEMES:END -->
 
 --- 
 
