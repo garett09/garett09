@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now the legendary Rubik&#39;s Cube is easy to understand](http://9gag.com/gag/aqebnYv)
- - 🚯 [Finnish army got a new K9 unit](http://9gag.com/gag/a6qbDVq)
- - 🚯 [April is a queen](http://9gag.com/gag/a8qyAOO)<!-- MEMES:END -->
+ - 🚖 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
+ - 🚯 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
+ - 🚯 [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)<!-- MEMES:END -->
 
 --- 
 
