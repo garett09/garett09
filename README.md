@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K: Darktide&#39;s unlocks aren&#39;t worth the grind, yet](https://www.pcgamer.com/warhammer-40000-darktide-unlocks)
- - [Twitch Star Gets ‘Cracker Pass&#39; From Wheat Thins After Getting Banned For Saying It](https://kotaku.com/hasan-hasanabi-piker-wheat-thins-cracker-twitch-ban-pas-1849807890)
- - [Mario Kart 8 Deluxe’s Latest DLC Is Loaded With Classic Courses](https://kotaku.com/mario-kart-8-switch-dlc-maple-treeway-3ds-rainbow-road-1849807829)<!-- GAME:END -->
+ - [Disney’s wild fantasy Strange World dreams big, with one big exception](https://www.polygon.com/23464232/strange-world-review-disney)
+ - [This Pokémon Scarlet And Violet Glitch Seems Made For Speedrun Exploitation](https://kotaku.com/pokemon-scarlet-violet-glitch-speedrun-joycon-exploit-1849808299)
+ - [Team Ninja boss seemingly confirms Ninja Gaiden and Dead or Alive reboots in slide presentation](https://www.pcgamer.com/team-ninja-boss-seemingly-confirms-ninja-gaiden-and-dead-or-alive-reboots-in-slide-presentation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
