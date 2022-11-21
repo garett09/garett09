@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How you think it would happen VS how it would actually happen...](http://9gag.com/gag/ay2D3xW)
- - 🚯 [What a deception...](http://9gag.com/gag/ajVX92p)
- - 🚯 [Lucky bastard](http://9gag.com/gag/a3ZqGEm)<!-- MEMES:END -->
+ - 🚖 [The Chip](http://9gag.com/gag/aPgBYMK)
+ - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
+ - 🚯 [He&#39;s almost finished](http://9gag.com/gag/armb3qy)<!-- MEMES:END -->
 
 --- 
 
