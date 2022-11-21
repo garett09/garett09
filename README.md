@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - 🚯 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)
- - 🚯 [Old but gold. Time to watch them again](http://9gag.com/gag/aGE18y0)<!-- MEMES:END -->
+ - 🚖 [If it works it works](http://9gag.com/gag/amAY1nV)
+ - 🚯 [Insurance](http://9gag.com/gag/aL1Devv)
+ - 🚯 [One minute behind the scenes of `Akira` &lpar;1988&rpar;](http://9gag.com/gag/a5XbB2O)<!-- MEMES:END -->
 
 --- 
 
