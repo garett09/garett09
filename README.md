@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Unstable Diffusion, which is trying to monetize AI porn generators; the group migrated from a subreddit to Discord, where it has over 45,000 members &lpar;TechCrunch&rpar;](http://www.techmeme.com/221120/p10#a221120p10)
- - [Tesla museum exhibit teases Apple Music support](https://appleinsider.com/articles/22/11/20/tesla-museum-exhibit-teases-apple-music-support?utm_medium=rss)
- - [13 Best Foods to Eat for Kidney Health     - CNET](https://www.cnet.com/health/nutrition/13-best-foods-to-eat-for-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
+ - [&#39;Andor&#39; Episode 11 Recap: An Escape Plan and a Glorious Space Battle     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-and-a-glorious-space-battle/#ftag=CAD590a51e)
+ - [Kanye West&#39;s Twitter Account Restored By Elon Musk     - CNET](https://www.cnet.com/culture/kanye-wests-twitter-account-restored-by-elon-musk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
