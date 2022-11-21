@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So many cakes, can you Imagine?](http://9gag.com/gag/aVbqo9n)
- - 🚯 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
- - 🚯 [From the depths of my gallery](http://9gag.com/gag/ap9p3NE)<!-- MEMES:END -->
+ - 🚖 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
+ - 🚯 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)
+ - 🚯 [Old but gold. Time to watch them again](http://9gag.com/gag/aGE18y0)<!-- MEMES:END -->
 
 --- 
 
