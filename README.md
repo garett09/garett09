@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
- - [&#39;Andor&#39; Episode 11 Recap: An Escape Plan and a Glorious Space Battle     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-and-a-glorious-space-battle/#ftag=CAD590a51e)
- - [Kanye West&#39;s Twitter Account Restored By Elon Musk     - CNET](https://www.cnet.com/culture/kanye-wests-twitter-account-restored-by-elon-musk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [Online sports-betting companies are cutting big deals with US colleges to promote gambling to students, like Caesars Sportsbook&#39;s $8.4M deal with Michigan State &lpar;New York Times&rpar;](http://www.techmeme.com/221120/p12#a221120p12)
+ - [Pokemon Scarlet and Violet: How To Find False Dragon Titan Pokemon     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-how-to-find-false-dragon-titan-pokemon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
