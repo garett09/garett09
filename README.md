@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Katheryn Winnick](http://9gag.com/gag/aXnqPAD)
- - 🚯 [False Advertisement](http://9gag.com/gag/a9qrWZm)
- - 🚯 [These three together..... Seems fitting....](http://9gag.com/gag/a5XbQ7O)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/aA0dgeL)
+ - 🚯 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
+ - 🚯 [The Millers](http://9gag.com/gag/aA0dyL0)<!-- MEMES:END -->
 
 --- 
 
