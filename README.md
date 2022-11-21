@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Vampire Horror Evil West: A Modern PS2 Action Game, In All The Best Ways](https://kotaku.com/evil-west-vampires-western-horror-shooter-review-1849809221)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Evil West review](https://www.pcgamer.com/evil-west-review)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet picnic exploit makes it easier to hunt shiny Pokémon](https://www.polygon.com/23471333/pokemon-scarlet-and-violet-how-to-catch-shiny-easy)
+ - [Did an NFL linebacker really give up football for Pokémon cards?](https://www.polygon.com/pokemon/23471530/blake-martinez-pokemon-card-sold-auction-retirement-nfl)
+ - [Try These Powerful Pokémon Scarlet And Violet Recipes To Boost Your Stats](https://kotaku.com/pokemon-scarlet-violet-sandwich-guide-recipes-picnic-1849809469)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
