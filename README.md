@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Brian Armstrong on crypto and economic freedom, Coinbase&#39;s &quot;no politics in the workplace&quot; policy, the crypto downturn, regulation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221121/p1#a221121p1)
- - [The best open ear headphones to spend your money on](https://www.androidauthority.com/best-open-ear-headphones-3229259/)
- - [Monday’s top tech news: Don’t call it a comeback](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [Elon Musk&#39;s Twitter starts the FIFA World Cup, traditionally one of the platform&#39;s busiest periods, with a depleted staff, potentially leading to serious issues &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/221121/p2#a221121p2)
+ - [You can now &lpar;unofficially&rpar; add 32-bit support to your Pixel 7 phone](https://www.androidauthority.com/google-pixel-7-32-bit-app-support-hack-3238134/)
+ - [An interview with Brian Armstrong on crypto and economic freedom, Coinbase&#39;s &quot;no politics in the workplace&quot; policy, the crypto downturn, regulation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221121/p1#a221121p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
