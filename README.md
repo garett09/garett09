@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar sets new rules for GTA Online roleplay servers after shutting down rapper&#39;s NFT grift](https://www.pcgamer.com/rockstar-sets-new-rules-for-gta-online-roleplay-servers-after-shutting-down-rappers-nft-grift)
- - [SpongeBob and Skyrim are coming to Fall Guys](https://www.polygon.com/23466560/fall-guys-season-3-sunken-secrets-spongebob-squarepants-skyrim)
- - [Overwatch 2 won&#39;t remove Tracer despite damage bug because she kinda sucks without it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)<!-- GAME:END -->
+ - [The best D&amp;D gift ideas for fans, players, and Dungeon Masters](https://www.polygon.com/deals/23464569/best-dnd-gifts-dungeons-dragons-dice-miniatures-campaigns-novels-cookbook)
+ - [Where to find DMZ keys in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-DMZ-keys)
+ - [Rockstar sets new rules for GTA Online roleplay servers after shutting down rapper&#39;s NFT grift](https://www.pcgamer.com/rockstar-sets-new-rules-for-gta-online-roleplay-servers-after-shutting-down-rappers-nft-grift)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
