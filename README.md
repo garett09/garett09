@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K: You call throwing dynamite around a dating strategy? J: Hey, as long as it works](http://9gag.com/gag/aXnqrKV)
- - 🚯 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aeQbb1Q)
+ - 🚯 [Qatar World Cup going well.](http://9gag.com/gag/aL1Dvwx)
+ - 🚯 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)<!-- MEMES:END -->
 
 --- 
 
