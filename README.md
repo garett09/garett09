@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Twitter starts the FIFA World Cup, traditionally one of the platform&#39;s busiest periods, with a depleted staff, potentially leading to serious issues &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/221121/p2#a221121p2)
- - [You can now &lpar;unofficially&rpar; add 32-bit support to your Pixel 7 phone](https://www.androidauthority.com/google-pixel-7-32-bit-app-support-hack-3238134/)
- - [An interview with Brian Armstrong on crypto and economic freedom, Coinbase&#39;s &quot;no politics in the workplace&quot; policy, the crypto downturn, regulation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221121/p1#a221121p1)<!-- TECH:END -->
+ - [A look at Gary Gensler&#39;s plan to regulate most crypto as securities and questions over the SEC&#39;s handling of FTX, which met the regulator before its implosion &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/221121/p5#a221121p5)
+ - [A look at things journalism could lose if Twitter dies: real-time feedback on stories, news outlets being publicly called out, DMs as a reporting tool, and more &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/221121/p4#a221121p4)
+ - [These vibrating LG Display panels turn car dashboards and headrests into speakers](https://www.theverge.com/2022/11/21/23470667/lg-display-vibrating-car-speaker-audio-ces)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
