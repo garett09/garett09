@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - 🚯 [Jump rope competition](http://9gag.com/gag/axoVBb2)
- - 🚯 [You know the women who harassed UA refugee in Germany. What goes around comes around](http://9gag.com/gag/aBdWnMz)<!-- MEMES:END -->
+ - 🚖 [ShakaBOOM!](http://9gag.com/gag/aZDmy56)
+ - 🚯 [Dog catch](http://9gag.com/gag/awZnzOy)
+ - 🚯 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)<!-- MEMES:END -->
 
 --- 
 
