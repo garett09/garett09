@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Warzone 2 whack-a-mole begins as infinite XP bug discovered and patched within hours](https://www.pcgamer.com/the-warzone-2-whack-a-mole-begins-as-infinite-xp-bug-discovered-and-patched-within-hours)
  - [Today&#39;s Wordle answer and hint for Monday, November 21](https://www.pcgamer.com/wordle-520-answer-november-21)
- - [Five reasons Nreal&#39;s Air Glasses are the ultimate Steam Deck companion](https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion)
- - [MSI&#39;s going all in this Black Friday—up to 35% off their gaming laptops and more](https://www.pcgamer.com/msis-going-all-in-this-black-fridayup-to-35-off-their-gaming-laptops-and-more)<!-- GAME:END -->
+ - [Five reasons Nreal&#39;s Air Glasses are the ultimate Steam Deck companion](https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
