@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SUV crashes through Apple Store, kills one, injures many more [u]](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)
- - [Elon Musk is laying off even more Twitter workers](https://www.theverge.com/2022/11/21/23471021/elon-musk-twitter-layoffs-sales-partnerships-workers)
- - [Amazon Echo Dot &lpar;5th gen&rpar; review: Maybe the only Alexa smart speaker you need](https://www.androidauthority.com/amazon-echo-dot-5th-gen-review-3234533/)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
+ - [SUV crashes through Apple Store, kills one, injures many more](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)
+ - [Sonic Frontiers buries its great ideas under soul-crushing design flaws](https://www.theverge.com/23471283/sonic-frontiers-review-sega-platforming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
