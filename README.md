@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mortgage Refinance Rates on Nov. 21, 2022: Rate Falls     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-21-2022-rate-falls/#ftag=CAD590a51e)
- - [Graza&#39;s Extra Virgin Olive Oil Is the Trendiest Affordable Gift for Home Cooks     - CNET](https://www.cnet.com/news/grazas-extra-virgin-olive-oil-is-the-trendiest-affordable-gift-for-home-cooks/#ftag=CAD590a51e)
- - [Want to Be Happier? Get More Sleep. 6 Ways Your Sleep Influences Mental Health     - CNET](https://www.cnet.com/health/mental/want-to-be-happier-get-more-sleep-6-ways-your-sleep-influences-mental-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
+ - [The Verge’s 2022 home tech holiday gift guide](https://www.theverge.com/23386171/smart-home-tech-holiday-gift-guide-2022-kitchen-gadgets-lights-smart-speakers-vacuums)
+ - [My best purchase last Black Friday was a smart thermostat](https://www.androidauthority.com/tado-smart-thermostat-one-year-3235090/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
