@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s wild fantasy Strange World dreams big, with one big exception](https://www.polygon.com/23464232/strange-world-review-disney)
- - [This Pokémon Scarlet And Violet Glitch Seems Made For Speedrun Exploitation](https://kotaku.com/pokemon-scarlet-violet-glitch-speedrun-joycon-exploit-1849808299)
- - [Team Ninja boss seemingly confirms Ninja Gaiden and Dead or Alive reboots in slide presentation](https://www.pcgamer.com/team-ninja-boss-seemingly-confirms-ninja-gaiden-and-dead-or-alive-reboots-in-slide-presentation)<!-- GAME:END -->
+ - [Brandy reprising her iconic Cinderella role for Disney’s Descendants movies](https://www.polygon.com/23471319/cinderella-1997-brandy-descendants)
+ - [Superliminal Comes to Xbox Series X November 21st, Free for Existing Owners](https://news.xbox.com/en-us/2022/11/21/superliminal-comes-to-xbox-series-x-november-21st-free-for-existing-owners/)
+ - [Wild Hearts Karakuri: Mastering an Ancient Technology](https://news.xbox.com/en-us/2022/11/21/wild-hearts-karakuri-mastering-an-ancient-technology/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
