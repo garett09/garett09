@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ShakaBOOM!](http://9gag.com/gag/aZDmy56)
- - 🚯 [Dog catch](http://9gag.com/gag/awZnzOy)
- - 🚯 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)<!-- MEMES:END -->
+ - 🚖 [Bees are cool!](http://9gag.com/gag/aKEVmr1)
+ - 🚯 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
+ - 🚯 [Ok Siri, how do you post anonymously?](http://9gag.com/gag/a9qr1x1)<!-- MEMES:END -->
 
 --- 
 
