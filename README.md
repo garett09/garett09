@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Gary Gensler&#39;s plan to regulate most crypto as securities and questions over the SEC&#39;s handling of FTX, which met the regulator before its implosion &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/221121/p5#a221121p5)
- - [A look at things journalism could lose if Twitter dies: real-time feedback on stories, news outlets being publicly called out, DMs as a reporting tool, and more &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/221121/p4#a221121p4)
- - [These vibrating LG Display panels turn car dashboards and headrests into speakers](https://www.theverge.com/2022/11/21/23470667/lg-display-vibrating-car-speaker-audio-ces)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 2 early benchmark results are in](https://www.androidauthority.com/snapdragon-8-gen-2-benchmarks-3234198/)
+ - [Apple&#39;s App Store analytics may be able to identify users](https://appleinsider.com/articles/22/11/21/apples-app-store-analytics-may-be-able-to-identify-users?utm_medium=rss)
+ - [This Copyright Lawsuit Could Shape the Future of Generative AI](https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
