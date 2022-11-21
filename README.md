@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)
- - 🚯 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - 🚯 [Gentleman](http://9gag.com/gag/a8qyqzV)<!-- MEMES:END -->
+ - 🚯 [Gentleman](http://9gag.com/gag/a8qyqzV)
+ - 🚯 [Ninja man!](http://9gag.com/gag/a7qrqxm)<!-- MEMES:END -->
 
 --- 
 
