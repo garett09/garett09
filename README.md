@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Kherson, russians stole 15000 items from museums. They looted bank vaults as well. More photos in comments.](http://9gag.com/gag/a7qr88r)
- - 🚯 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - 🚯 [Make way for the KING........](http://9gag.com/gag/aeQb4O5)<!-- MEMES:END -->
+ - 🚖 [Now the legendary Rubik&#39;s Cube is easy to understand](http://9gag.com/gag/aqebnYv)
+ - 🚯 [Finnish army got a new K9 unit](http://9gag.com/gag/a6qbDVq)
+ - 🚯 [April is a queen](http://9gag.com/gag/a8qyAOO)<!-- MEMES:END -->
 
 --- 
 
