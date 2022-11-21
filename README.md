@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best D&amp;D gift ideas for fans, players, and Dungeon Masters](https://www.polygon.com/deals/23464569/best-dnd-gifts-dungeons-dragons-dice-miniatures-campaigns-novels-cookbook)
- - [Where to find DMZ keys in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-DMZ-keys)
- - [Rockstar sets new rules for GTA Online roleplay servers after shutting down rapper&#39;s NFT grift](https://www.pcgamer.com/rockstar-sets-new-rules-for-gta-online-roleplay-servers-after-shutting-down-rappers-nft-grift)<!-- GAME:END -->
+ - [After 35 years painting minis, Chris Clayton wins it all at the UK Golden Demon 2022](https://www.polygon.com/tabletop-games/23460418/golden-demon-slayer-sword-winner-uk-2022-interview-chris-clayton-build-photographs-details-basing)
+ - [Demonschool is a Persona-like tactical RPG about fast, frantic combat](https://www.pcgamer.com/demonschool-is-a-slick-persona-like-that-revels-in-the-beauty-of-simplicity)
+ - [How to get the nuke in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-nuke-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
