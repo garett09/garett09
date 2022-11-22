@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2026.. How?](http://9gag.com/gag/aA0d42L)
- - 🚯 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
- - 🚯 [All it took them was 2 solid years of dedication. Started with no smile to smiling at their success.](http://9gag.com/gag/ap9pPgB)<!-- MEMES:END -->
+ - 🚖 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
+ - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
+ - 🚯 [Bros bangin](http://9gag.com/gag/amAYoAV)<!-- MEMES:END -->
 
 --- 
 
