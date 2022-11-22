@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)
- - 🚯 [Exercise... Terminated](http://9gag.com/gag/aGE1EzX)
- - 🚯 [That&#39;s one way to take it off the court.](http://9gag.com/gag/aME8vwP)<!-- MEMES:END -->
+ - 🚖 [From a mile crocodile](http://9gag.com/gag/awZnZzD)
+ - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
 
 --- 
 
