@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk told employees that Twitter won&#39;t relaunch paid verification until &quot;we&#39;re confident about significant impersonations not happening&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221121/p21#a221121p21)
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Twitter won’t restart paid verification until ‘significant impersonations’ stop, Elon Musk tells employees](https://www.theverge.com/2022/11/21/23472184/elon-musk-twitter-paid-verification-relaunch-delay-impersonations)<!-- TECH:END -->
+ - [Twitter is making DMs encrypted and adding video, voice chat, per Elon Musk](https://www.theverge.com/2022/11/21/23472174/twitter-dms-encrypted-elon-musk-voice-video-calling)
+ - [What Is Hive Social? Everything to Know About the Twitter Alternative     - CNET](https://www.cnet.com/culture/internet/what-is-hive-social-everything-to-know-about-the-twitter-alternative/#ftag=CAD590a51e)
+ - [Wild NASA Video Details Daring Plan to Snatch Rocks From Mars     - CNET](https://www.cnet.com/science/space/wild-nasa-video-details-daring-plan-to-snatch-rocks-from-mars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
