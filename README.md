@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s dance](http://9gag.com/gag/a7qrV5w)
- - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [That\u2019s bloody funny](http://9gag.com/gag/aKEVvb6)<!-- MEMES:END -->
+ - 🚖 [Damn chiago..](http://9gag.com/gag/a4obN8y)
+ - 🚯 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
+ - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)<!-- MEMES:END -->
 
 --- 
 
