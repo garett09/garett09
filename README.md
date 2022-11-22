@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s bugs are the funniest part of the game](https://www.polygon.com/pokemon/23471853/pokemon-scarlet-and-violet-glitches-funny-meme)
- - [Marvel&#39;s Avengers Spokesperson Removed After Offensive Tweets Unearthed](https://kotaku.com/crystal-dynamics-marvels-avengers-tweets-twitter-1849811672)
- - [Here&#39;s how to watch the 40th annual Golden Joystick Awards](https://www.pcgamer.com/heres-how-to-watch-the-40th-annual-golden-joystick-awards)<!-- GAME:END -->
+ - [EA Sports College Football won’t be out before 2024, says report](https://www.polygon.com/23473151/ea-sports-college-football-delayed-release-date-2024-ncaa)
+ - [Retro Andor Trailer Is Peak Star Wars Hype](https://kotaku.com/star-wars-andor-disney-plus-season-episode-12-retro-1849812283)
+ - [Explore the Weird West in Evil West, Available Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/11/22/explore-the-weird-west/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
