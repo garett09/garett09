@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [Math teacher](http://9gag.com/gag/a3Zq5zQ)
- - 🚯 [What a deception...](http://9gag.com/gag/ajVX92p)<!-- MEMES:END -->
+ - 🚖 [Math teacher](http://9gag.com/gag/a3Zq5zQ)
+ - 🚯 [We\u2019ve been doing it wrong all this time.](http://9gag.com/gag/aVbqZvO)
+ - 🚯 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
 
 --- 
 
