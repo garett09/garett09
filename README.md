@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If it works it works](http://9gag.com/gag/amAY1nV)
- - 🚯 [Insurance](http://9gag.com/gag/aL1Devv)
- - 🚯 [One minute behind the scenes of `Akira` &lpar;1988&rpar;](http://9gag.com/gag/a5XbB2O)<!-- MEMES:END -->
+ - 🚖 [When the judge reads your sentence](http://9gag.com/gag/aDYWYVw)
+ - 🚯 [Last spiral-shaped gear moves so fast it looks like a glitch](http://9gag.com/gag/a5XbBzO)
+ - 🚯 [Insurance](http://9gag.com/gag/aL1Devv)<!-- MEMES:END -->
 
 --- 
 
