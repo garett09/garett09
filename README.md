@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Need for Speed Unbound system requirements and unlock times revealed](https://www.pcgamer.com/need-for-speed-unbound-pc-system-requirements)
  - [Gungrave G.O.R.E Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2022/11/22/title-gungrave-g-o-r-e-available-today-with-xbox-game-pass/)
- - [The Knight Comes to Dead by Daylight: A Beginner’s Guide](https://news.xbox.com/en-us/2022/11/22/the-knight-comes-to-dead-by-daylight-a-beginners-guide/)
- - [God Of War Ragnarök Director ‘Would Love’ To Take A Swing At Castlevania](https://kotaku.com/god-of-war-ragnarok-director-dlc-castlevania-konami-1849813880)<!-- GAME:END -->
+ - [The Knight Comes to Dead by Daylight: A Beginner’s Guide](https://news.xbox.com/en-us/2022/11/22/the-knight-comes-to-dead-by-daylight-a-beginners-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
