@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the judge reads your sentence](http://9gag.com/gag/aDYWYVw)
- - 🚯 [Last spiral-shaped gear moves so fast it looks like a glitch](http://9gag.com/gag/a5XbBzO)
- - 🚯 [Insurance](http://9gag.com/gag/aL1Devv)<!-- MEMES:END -->
+ - 🚖 [Everytime im going through something I watch this. This guy is just pure strength.](http://9gag.com/gag/amAY6Y6)
+ - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
+ - 🚯 [What is going on?](http://9gag.com/gag/aXnqN1b)<!-- MEMES:END -->
 
 --- 
 
