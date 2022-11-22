@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Math teacher](http://9gag.com/gag/a3Zq5zQ)
- - 🚯 [We\u2019ve been doing it wrong all this time.](http://9gag.com/gag/aVbqZvO)
- - 🚯 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
+ - 🚖 [This fella](http://9gag.com/gag/avQG10Z)
+ - 🚯 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)
+ - 🚯 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)<!-- MEMES:END -->
 
 --- 
 
