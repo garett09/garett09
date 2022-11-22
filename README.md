@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which phone brand do you most want in your country?](https://www.androidauthority.com/phone-brand-most-want-your-country-poll-3238632/)
- - [Filings: FTX, Alameda, and other affiliates have $1.2B in cash reserves, below the $3.1B owed to the top 50 creditors; Alameda&#39;s reserves are largest at ~$393M &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/221122/p4#a221122p4)
- - [Daily Authority: 🔓 Samsung’s terrible password trend](https://www.androidauthority.com/daily-authority-november-22-2022-3238309/)<!-- TECH:END -->
+ - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
+ - [After criticism, India&#39;s government releases an updated and more &quot;balanced&quot; data protection bill, seeking passage in April or May 2023, the fourth such draft &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/221122/p11#a221122p11)
+ - [How to use Homebrew on Mac to install third-party tools &amp; apps](https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
