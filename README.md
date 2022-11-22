@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)
- - 🚯 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)<!-- MEMES:END -->
+ - 🚖 [The player felt bad when he realized](http://9gag.com/gag/armbxOX)
+ - 🚯 [Just... keep it](http://9gag.com/gag/avQGxDM)
+ - 🚯 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)<!-- MEMES:END -->
 
 --- 
 
