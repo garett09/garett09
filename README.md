@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report by China&#39;s Game Industry Group Committee claims video game addiction among minors is &quot;basically resolved&quot;, following curbs on approving new titles &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/221122/p17#a221122p17)
- - [Vivo X90 series released: New contenders for best camera phone](https://www.androidauthority.com/vivo-x90-series-3238709/)
- - [Wyze’s new BR30 smart bulb is designed for downlighting](https://www.theverge.com/2022/11/22/23472919/wyze-bulb-color-br30-price-features)<!-- TECH:END -->
+ - [Tee up with golf in Nintendo Switch Sports](https://www.theverge.com/2022/11/22/23473083/nintendo-switch-sports-golf-update-free)
+ - [Sony WF-1000XM5: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-wf-1000xm5-3235457/)
+ - [Best Gifts Available From Amazon: 22 Gifts from $10 to $200     - CNET](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
