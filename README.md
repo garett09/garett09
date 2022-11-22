@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From a mile crocodile](http://9gag.com/gag/awZnZzD)
- - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)<!-- MEMES:END -->
+ - 🚖 [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
+ - 🚯 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
 
 --- 
 
