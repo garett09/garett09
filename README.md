@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a bankruptcy hearing, FTX lawyers say a &quot;substantial amount&quot; of assets have been stolen from accounts; client names and addresses will be redacted for now &lpar;Ken Sweet/Associated Press&rpar;](http://www.techmeme.com/221122/p25#a221122p25)
- - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
- - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)<!-- TECH:END -->
+ - [How to Renew Your US Passport Online](https://www.wired.com/story/how-to-renew-passport-online/)
+ - [HP to lay off 4,000 to 6,000 employees, or up to 12% of its workforce, over the next three years as part of a plan to achieve $1.4B in annualized cost savings &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/221122/p27#a221122p27)
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
