@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From a mile crocodile](http://9gag.com/gag/awZnZzD)
- - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
+ - 🚖 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - 🚯 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)
+ - 🚯 [Mexicans in Qatar right now](http://9gag.com/gag/aDYWb9x)<!-- MEMES:END -->
 
 --- 
 
