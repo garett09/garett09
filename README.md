@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn chiago..](http://9gag.com/gag/a4obN8y)
+ - 🚖 [\u2026.. How?](http://9gag.com/gag/aA0d42L)
  - 🚯 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
- - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)<!-- MEMES:END -->
+ - 🚯 [All it took them was 2 solid years of dedication. Started with no smile to smiling at their success.](http://9gag.com/gag/ap9pPgB)<!-- MEMES:END -->
 
 --- 
 
