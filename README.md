@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tee up with golf in Nintendo Switch Sports](https://www.theverge.com/2022/11/22/23473083/nintendo-switch-sports-golf-update-free)
- - [Sony WF-1000XM5: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-wf-1000xm5-3235457/)
- - [Best Gifts Available From Amazon: 22 Gifts from $10 to $200     - CNET](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everyone thinks Apple’s negotiations with the NFL are dragging on](https://www.theverge.com/2022/11/22/23471824/apple-nfl-negotiations-sunday-ticket-dragging-on)
+ - [There are &#39;new&#39; Apple Car rumors floating around - but beware](https://appleinsider.com/articles/22/11/22/there-are-new-apple-car-rumors-floating-around---but-beware?utm_medium=rss)
+ - [Save Up to 45% Off Sitewide With Black Friday Deals at Solo Stove     - CNET](https://www.cnet.com/deals/save-up-to-45-off-sitewide-with-black-friday-deals-at-solo-stove/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
