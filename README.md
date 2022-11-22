@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harrison Ford is getting de-aged for Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)
- - [The world&#39;s most stunning gaming laptop is $800 off for Black Friday](https://www.pcgamer.com/the-worlds-most-stunning-gaming-laptop-is-dollar800-off-for-black-friday)
- - [My Favorite Bayonetta 3 Weapons Were Its Most Absurd Ones &lpar;Naturally&rpar;](https://kotaku.com/bayonetta-3-platinumgames-dead-end-express-switch-1849809951)<!-- GAME:END -->
+ - [Warzone 2&#39;s scariest weapon is a flying bomb, and that&#39;s OK](https://www.pcgamer.com/call-of-duty-warzone-2-bomb-drone-deadliest-weapon)
+ - [How to get God of War Ragnarök’s hidden armor set](https://www.polygon.com/23472046/steinbjorn-armor-set-chest-wrist-waist-locations-trolls)
+ - [NFTs, Crypto Banned From GTA Online Servers](https://kotaku.com/nft-crypto-gta-online-grand-theft-auto-online-banned-1849810293)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
