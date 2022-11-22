@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The player felt bad when he realized](http://9gag.com/gag/armbxOX)
- - 🚯 [Just... keep it](http://9gag.com/gag/avQGxDM)
- - 🚯 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)<!-- MEMES:END -->
+ - 🚖 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)
+ - 🚯 [Exercise... Terminated](http://9gag.com/gag/aGE1EzX)
+ - 🚯 [That&#39;s one way to take it off the court.](http://9gag.com/gag/aME8vwP)<!-- MEMES:END -->
 
 --- 
 
