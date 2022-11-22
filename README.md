@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guilty Gear Strive Fans Adore The New Twink DLC Character Sin Kiske](https://kotaku.com/guilty-gear-strive-sin-kiske-dlc-character-twink-1849812642)
- - [Dive into Sunken Secrets in the Latest Season of Fall Guys](https://news.xbox.com/en-us/2022/11/22/dive-into-sunken-secrets-in-the-latest-season-of-fall-guys/)
- - [Fortnite&#39;s Unofficial World Cup-Themed Skins Offer Pride Color Customization](https://kotaku.com/fortnite-epic-qatar-world-cup-soccer-skins-lgbtq-1849812426)<!-- GAME:END -->
+ - [Pokémon Scarlet And Violet’s Powerful New Moves, Explained](https://kotaku.com/pokemon-scarlet-violet-new-moves-attacks-1849813033)
+ - [Pokémon Squishmallows have arrived, time to hug round Pikachu](https://www.polygon.com/23460577/pokemon-squishmallow-where-to-buy-pikachu-gengar)
+ - [The best TV seasons you can watch in a day this holiday season](https://www.polygon.com/what-to-watch/23471157/best-tv-shows-short-seasons-netflix-hbo-hulu-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
