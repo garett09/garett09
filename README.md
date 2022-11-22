@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: at an all-hands, Elon Musk said Twitter is done with layoffs and actively recruiting for roles in engineering and sales; Twitter has 2,700+ employees &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221121/p17#a221121p17)
- - [Bob Iger steps back in as Disney CEO, replacing Bob Chapek](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)
- - [The best Black Friday deals you can already get at Amazon](https://www.theverge.com/23466456/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)<!-- TECH:END -->
+ - [Sources: Elon Musk told employees that Twitter won&#39;t relaunch paid verification until &quot;we&#39;re confident about significant impersonations not happening&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221121/p21#a221121p21)
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Twitter won’t restart paid verification until ‘significant impersonations’ stop, Elon Musk tells employees](https://www.theverge.com/2022/11/21/23472184/elon-musk-twitter-paid-verification-relaunch-delay-impersonations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
