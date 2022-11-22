@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Need for Speed Unbound system requirements and unlock times revealed](https://www.pcgamer.com/need-for-speed-unbound-pc-system-requirements)
- - [Gungrave G.O.R.E Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2022/11/22/title-gungrave-g-o-r-e-available-today-with-xbox-game-pass/)
- - [The Knight Comes to Dead by Daylight: A Beginner’s Guide](https://news.xbox.com/en-us/2022/11/22/the-knight-comes-to-dead-by-daylight-a-beginners-guide/)<!-- GAME:END -->
+ - [This budget Black Friday gaming PC doesn&#39;t look like every other gaming PC](https://www.pcgamer.com/this-budget-black-friday-gaming-pc-doesnt-look-like-every-other-gaming-pc)
+ - [Report: Big Game Companies Like Square Enix And Roblox Are Ignoring Climate Change](https://kotaku.com/climate-goals-targets-video-game-companies-carbon-1849810896)
+ - [Pokémon Scarlet and Violet Wo-Chien shrine and stake &lpar;purple&rpar; locations](https://www.polygon.com/pokemon-scarlet-violet-guide/23473575/wo-chien-shrine-purple-stake-locations-legendary-grasswither)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
