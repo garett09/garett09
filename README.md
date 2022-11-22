@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everytime im going through something I watch this. This guy is just pure strength.](http://9gag.com/gag/amAY6Y6)
- - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
- - 🚯 [What is going on?](http://9gag.com/gag/aXnqN1b)<!-- MEMES:END -->
+ - 🚖 [Better prize than the trophy.](http://9gag.com/gag/adP7OwV)
+ - 🚯 [Man realizes his earphones are not plugged in, dies inside with a smile on his face](http://9gag.com/gag/a8qy0yV)
+ - 🚯 [Everytime im going through something I watch this. This guy is just pure strength.](http://9gag.com/gag/amAY6Y6)<!-- MEMES:END -->
 
 --- 
 
