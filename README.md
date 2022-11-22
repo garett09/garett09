@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online used car marketplace Carvana&#39;s stock hits an all-time low, closing down 13% to $7.05 on Monday; the company&#39;s stock is down 97% in 2022 &lpar;Esha Dey/Bloomberg&rpar;](http://www.techmeme.com/221122/p14#a221122p14)
- - [Amazon Alexa bled $10 billion in cash in 2022](https://appleinsider.com/articles/22/11/22/amazon-alexa-bled-10-billion-in-cash-in-2022?utm_medium=rss)
- - [How to Watch Disney+ on Mac](https://appleinsider.com/inside/macos/tips/how-to-watch-disney-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch Disney+ on Mac](https://appleinsider.com/inside/macos/tips/how-to-watch-disney-on-mac?utm_medium=rss)
+ - [DJI introduces new O3 Air FPV camera, starting at $229](https://www.theverge.com/2022/11/22/23472970/dji-o3-air-fpv-camera-drone-flight-goggles-announcement-price)
+ - [Trek FX+ 2 Review: The Complete Ebike Commuter Package](https://www.wired.com/review/trek-fx-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
