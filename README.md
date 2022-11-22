@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The f**k..](http://9gag.com/gag/az28Peb)
- - 🚯 [Well, crap.](http://9gag.com/gag/a5Xbw6G)
- - 🚯 [Let&#39;s dance](http://9gag.com/gag/a7qrV5w)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s dance](http://9gag.com/gag/a7qrV5w)
+ - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
+ - 🚯 [That\u2019s bloody funny](http://9gag.com/gag/aKEVvb6)<!-- MEMES:END -->
 
 --- 
 
