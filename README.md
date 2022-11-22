@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
- - 🚯 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
- - 🚯 [Bros bangin](http://9gag.com/gag/amAYoAV)<!-- MEMES:END -->
+ - 🚖 [What a deception...](http://9gag.com/gag/ajVX92p)
+ - 🚯 [Ahhhh!!](http://9gag.com/gag/ajVXBj8)
+ - 🚯 [\u2026.. How?](http://9gag.com/gag/aA0d42L)<!-- MEMES:END -->
 
 --- 
 
