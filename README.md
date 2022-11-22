@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet And Violet’s Powerful New Moves, Explained](https://kotaku.com/pokemon-scarlet-violet-new-moves-attacks-1849813033)
- - [Pokémon Squishmallows have arrived, time to hug round Pikachu](https://www.polygon.com/23460577/pokemon-squishmallow-where-to-buy-pikachu-gengar)
- - [The best TV seasons you can watch in a day this holiday season](https://www.polygon.com/what-to-watch/23471157/best-tv-shows-short-seasons-netflix-hbo-hulu-amazon)<!-- GAME:END -->
+ - [Experience Autumn in Phantasy Star Online 2: New Genesis](https://news.xbox.com/en-us/2022/11/22/experience-autumn-in-phantasy-star-online-2-new-genesis/)
+ - [These Black Friday AMD graphics card deals have me seriously reconsidering my 8-year allegiance to Nvidia](https://www.pcgamer.com/these-black-friday-amd-graphics-card-deals-have-me-seriously-reconsidering-my-8-year-allegiance-to-nvidia)
+ - [Bayonetta Creator Shares His Two Cents On Fan Outrage Over Bayonetta 3’s Ending](https://kotaku.com/bayonetta-3-hideki-kamiya-ending-fans-hate-sequel-viola-1849813267)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
