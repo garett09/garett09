@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A glimmer of hope](http://9gag.com/gag/aVbqKXO)
- - 🚯 [Facts.](http://9gag.com/gag/anzb2AV)
- - 🚯 [Who has a better one?](http://9gag.com/gag/aKEVvvQ)<!-- MEMES:END -->
+ - 🚖 [The f**k..](http://9gag.com/gag/az28Peb)
+ - 🚯 [Well, crap.](http://9gag.com/gag/a5Xbw6G)
+ - 🚯 [Let&#39;s dance](http://9gag.com/gag/a7qrV5w)<!-- MEMES:END -->
 
 --- 
 
