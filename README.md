@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [Title](http://9gag.com/gag/aQE9AGW)
+ - 🚖 [Take this, FIFA.](http://9gag.com/gag/ay2D168)
+ - 🚯 [Do I still get extra karma points for this?](http://9gag.com/gag/aWGmvGZ)
  - 🚯 [Best deal of the century for the US, worst for the RU. The US report says that so far they have spent 5% of their annual military budget on the UA war, and in a year they will destroy 50% of the RU&#39;s conventional capability and all NATO troops are alive !](http://9gag.com/gag/az28O9m)<!-- MEMES:END -->
 
 --- 
