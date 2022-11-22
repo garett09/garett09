@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Genesis Global has $2.8B in outstanding loans, including ~30% of its lending made to related parties like its parent company DCG &lpar;Bloomberg&rpar;](http://www.techmeme.com/221122/p23#a221122p23)
- - [Amazon slashes AirPods to just $79 in latest round of holiday price cuts](https://appleinsider.com/articles/22/11/22/amazon-slashes-airpods-to-just-79-in-latest-round-of-holiday-price-cuts?utm_medium=rss)
- - [Since Elon Musk&#39;s takeover, sources say Twitter has in some cases chosen not to pay vendors, as it reviews and renegotiates deals to cut expenses &lpar;New York Times&rpar;](http://www.techmeme.com/221122/p22#a221122p22)<!-- TECH:END -->
+ - [In a bankruptcy hearing, FTX lawyers say a &quot;substantial amount&quot; of assets have been stolen from accounts; client names and addresses will be redacted for now &lpar;Ken Sweet/Associated Press&rpar;](http://www.techmeme.com/221122/p25#a221122p25)
+ - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
+ - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
