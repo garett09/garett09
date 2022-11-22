@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports College Football won’t be out before 2024, says report](https://www.polygon.com/23473151/ea-sports-college-football-delayed-release-date-2024-ncaa)
- - [Retro Andor Trailer Is Peak Star Wars Hype](https://kotaku.com/star-wars-andor-disney-plus-season-episode-12-retro-1849812283)
- - [Explore the Weird West in Evil West, Available Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/11/22/explore-the-weird-west/)<!-- GAME:END -->
+ - [Guilty Gear Strive Fans Adore The New Twink DLC Character Sin Kiske](https://kotaku.com/guilty-gear-strive-sin-kiske-dlc-character-twink-1849812642)
+ - [Dive into Sunken Secrets in the Latest Season of Fall Guys](https://news.xbox.com/en-us/2022/11/22/dive-into-sunken-secrets-in-the-latest-season-of-fall-guys/)
+ - [Fortnite&#39;s Unofficial World Cup-Themed Skins Offer Pride Color Customization](https://kotaku.com/fortnite-epic-qatar-world-cup-soccer-skins-lgbtq-1849812426)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
