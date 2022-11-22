@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
- - 🚯 [Math teacher](http://9gag.com/gag/a3Zq5zQ)
- - 🚯 [Did you remember group A?](http://9gag.com/gag/a8qy1np)<!-- MEMES:END -->
+ - 🚖 [A glimmer of hope](http://9gag.com/gag/aVbqKXO)
+ - 🚯 [Facts.](http://9gag.com/gag/anzb2AV)
+ - 🚯 [Who has a better one?](http://9gag.com/gag/aKEVvvQ)<!-- MEMES:END -->
 
 --- 
 
