@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo celebrates 25th Anniversary – Heads to Monaco for four-Day GT World Finals](https://blog.playstation.com/2022/11/22/gran-turismo-celebrates-25th-anniversary-heads-to-monaco-for-four-day-gt-world-finals/)
- - [Fight for Your Faction in Sea of Thieves Season Eight](https://news.xbox.com/en-us/2022/11/22/fight-for-your-faction-in-sea-of-thieves-season-eight/)
- - [The 5 best party board games](https://www.polygon.com/23471659/best-party-games-board-games-large-groups)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s bugs are the funniest part of the game](https://www.polygon.com/pokemon/23471853/pokemon-scarlet-and-violet-glitches-funny-meme)
+ - [Marvel&#39;s Avengers Spokesperson Removed After Offensive Tweets Unearthed](https://kotaku.com/crystal-dynamics-marvels-avengers-tweets-twitter-1849811672)
+ - [Here&#39;s how to watch the 40th annual Golden Joystick Awards](https://www.pcgamer.com/heres-how-to-watch-the-40th-annual-golden-joystick-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
