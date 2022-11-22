@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone thinks Apple’s negotiations with the NFL are dragging on](https://www.theverge.com/2022/11/22/23471824/apple-nfl-negotiations-sunday-ticket-dragging-on)
- - [There are &#39;new&#39; Apple Car rumors floating around - but beware](https://appleinsider.com/articles/22/11/22/there-are-new-apple-car-rumors-floating-around---but-beware?utm_medium=rss)
- - [Save Up to 45% Off Sitewide With Black Friday Deals at Solo Stove     - CNET](https://www.cnet.com/deals/save-up-to-45-off-sitewide-with-black-friday-deals-at-solo-stove/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google sees these scams as the ones to look out for this holiday season](https://www.androidauthority.com/google-scam-messages-3239127/)
+ - [The Race To Save Sam Bankman-Fried’s Other Crypto Exchange](https://www.wired.com/story/ftx-serum-crypto-exchange/)
+ - [Asahi Linux for Apple Silicon has come a long way in a few months](https://appleinsider.com/articles/22/11/22/asahi-linux-for-apple-silicon-has-come-a-long-way-in-a-few-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
