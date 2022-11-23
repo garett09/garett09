@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
- - 🚯 [Pedestrian, check out the car at the zebra crossing!](http://9gag.com/gag/a1Pb02Y)
- - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
+ - 🚖 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
+ - 🚯 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
 
 --- 
 
