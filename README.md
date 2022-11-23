@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)
- - 🚯 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
- - 🚯 [The Rush Hour films were funny AF](http://9gag.com/gag/aREmDO7)<!-- MEMES:END -->
+ - 🚖 [The f**k..](http://9gag.com/gag/az28Peb)
+ - 🚯 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - 🚯 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)<!-- MEMES:END -->
 
 --- 
 
