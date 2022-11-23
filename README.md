@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
- - 🚯 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
- - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
+ - 🚖 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
+ - 🚯 [This should be a go straight to jail card](http://9gag.com/gag/aDYWOGZ)
+ - 🚯 [Wtf did i just read](http://9gag.com/gag/aBdWXVQ)<!-- MEMES:END -->
 
 --- 
 
