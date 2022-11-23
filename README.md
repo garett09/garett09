@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can complete Destiny 2&#39;s new community event in minutes thanks to a cheese](https://www.pcgamer.com/destiny-2-eliksni-quarter-event-exploit)
- - [Pokémon Scarlet and Violet are better in co-op](https://www.polygon.com/23473921/pokemon-scarlet-and-violet-co-op-multiplayer)
- - [God of War Ragnarök’s best armor &lpar;and where to get it&rpar;](https://www.polygon.com/23462482/best-armor-sets-nidavellir-raven-tears)<!-- GAME:END -->
+ - [Elon Musk Hires PlayStation 3 Hacker To Fix Twitter](https://kotaku.com/elon-musk-twitter-playstation-3-george-hotz-tesla-1849816893)
+ - [I would die for B2EMO and Brasso](https://www.polygon.com/star-wars/23473555/andor-droid-b2emo-brasso-friendship-best-buds)
+ - [The Devil in Me is a low point for Supermassive&#39;s normally great horror anthology](https://www.pcgamer.com/the-devil-in-me-is-a-low-point-for-supermassives-normally-great-horror-anthology)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
