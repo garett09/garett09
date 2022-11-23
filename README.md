@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s now an official remake of the Xbox 360 Controller](https://www.pcgamer.com/theres-gonna-be-an-official-remake-of-the-xbox-360-controller)
- - [One Of The Best Deus Ex Games Is Disappearing](https://kotaku.com/deus-ex-go-shut-down-closed-closure-square-enix-mobile-1849814893)
- - [Darktide&#39;s 1.0.7 patch makes progress on crashes, lets you fix your ugly face](https://www.pcgamer.com/darktides-107-patch-makes-progress-on-crashes-lets-you-fix-your-ugly-face)<!-- GAME:END -->
+ - [Skyrim&#39;s tiny head mod is a crime against the laws of god and man alike](https://www.pcgamer.com/skyrims-tiny-head-mod-is-a-crime-against-the-laws-of-god-and-man-alike)
+ - [The best deals in the 2022 Steam Autumn Sale](https://www.pcgamer.com/steam-autumn-sale-2022-best-deals)
+ - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/the-fabelmans-review-steven-spielberg-paul-dano-michelle-williams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
