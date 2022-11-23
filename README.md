@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Target has deep Black Friday discounts on board games and the D&amp;D starter set](https://www.polygon.com/deals/2022/11/23/23475694/target-board-game-dungeons-and-dragons-sale-thanksgiving-black-friday)
- - [Microsoft Explains Why Elder Scrolls VI Will Be Exclusive And Call Of Duty Won&#39;t](https://kotaku.com/call-of-duty-xbox-exclusive-elder-scrolls-6-microsoft-1849818356)
- - [The Callisto Protocol will sell you extra death animations as DLC](https://www.pcgamer.com/the-callisto-protocol-will-sell-you-extra-death-animations-as-dlc)<!-- GAME:END -->
+ - [Black Adam, The Woman King, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/11/23/23470937/new-movies-watch-black-adam-vod-the-woman-king-vod-the-noel-story-netflix)
+ - [Pokémon Scarlet And Violet Are The Fastest-Selling Games In The History Of Nintendo](https://kotaku.com/pokemon-scarlet-violet-bugs-best-seller-nintendo-switch-1849818749)
+ - [Pokémon Scarlet and Violet sell 10M copies in spite of performance complaints](https://www.polygon.com/pokemon/23475973/pokemon-scarlet-violet-sells-10-million-copies-nintedo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
