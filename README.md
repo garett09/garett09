@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Mark Cuban&#39;s interactive streaming app Fireside acquires streaming platform Stremium and plans to launch on smart TVs, Amazon Fire TV, Roku, and other devices &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221123/p19#a221123p19)
- - [Capture Every Moment for Less this Black Friday with the Polaroid Go Mini Camera     - CNET](https://www.cnet.com/deals/capture-every-moment-for-less-this-black-friday-with-the-polaroid-go-mini-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s easier to change Alexa’s accent now if you’re into that](https://www.theverge.com/23475121/amazon-alexa-english-accent-switch-update-region-free)
+ - [Honor Magic Vs hands-on impressions: The on-paper foldable king](https://www.androidauthority.com/honor-magic-vs-hands-on-impressions-3240662/)
+ - [Moment Black Friday deals: save up to 60% on iPhone cases, cameras &amp; more](https://appleinsider.com/articles/22/11/23/moment-black-friday-deals-save-up-to-60-on-iphone-cases-cameras-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
