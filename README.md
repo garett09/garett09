@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Black Friday Deals That Actually Don&#39;t Suck     - CNET](https://www.cnet.com/deals/11-black-friday-deals-that-dont-suck/#ftag=CAD590a51e)
- - [Black Friday deal: Microsoft Office for Mac Home &amp; Business 2021 lifetime license just $29.99](https://appleinsider.com/articles/22/11/21/black-friday-deal-microsoft-office-for-mac-home-business-2021-lifetime-license-just-2999?utm_medium=rss)
- - [Violent Protests Reportedly Erupt at Main iPhone Factory in China     - CNET](https://www.cnet.com/tech/mobile/violent-protests-reportedly-erupt-at-main-iphone-factory-in-china/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
+ - [Black Friday iPad Pro deals: save up to $150 on M2 models, plus $29 off AppleCare](https://appleinsider.com/articles/22/11/23/black-friday-ipad-pro-deals-save-up-to-150-on-m2-models-plus-29-off-applecare?utm_medium=rss)
+ - [Sources: hundreds of Foxconn workers at Apple&#39;s iPhone plant in Zhengzhou clashed with security guards as protests erupted over unpaid wages and COVID-19 fear &lpar;Bloomberg&rpar;](http://www.techmeme.com/221123/p1#a221123p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
