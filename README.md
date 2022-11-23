@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019m not a racist\u2026 but this is true.](http://9gag.com/gag/agoL4Mr)
- - 🚯 [This should be a go straight to jail card](http://9gag.com/gag/aDYWOGZ)
- - 🚯 [A Thanksgiving tradition continues](http://9gag.com/gag/aZDmzX0)<!-- MEMES:END -->
+ - 🚖 [Mahlzeit](http://9gag.com/gag/aKEV8P6)
+ - 🚯 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
 
 --- 
 
