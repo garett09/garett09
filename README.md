@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
- - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)
- - 🚯 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)<!-- MEMES:END -->
+ - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
+ - 🚯 [Please don&#39;t try this out.](http://9gag.com/gag/aPgBdYQ)
+ - 🚯 [Special Edition](http://9gag.com/gag/aqebBNL)<!-- MEMES:END -->
 
 --- 
 
