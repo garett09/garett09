@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Core memory](http://9gag.com/gag/aGE1bE0)
+ - 🚖 [Gentleman](http://9gag.com/gag/aYVxA4v)
  - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)<!-- MEMES:END -->
+ - 🚯 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)<!-- MEMES:END -->
 
 --- 
 
