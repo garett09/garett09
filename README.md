@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor Magic Vs foldable launched: The cheapest Galaxy Z Fold 4 rival?](https://www.androidauthority.com/honor-magic-vs-foldable-3239537/)
- - [Diego Luna Is as Excited for &#39;Andor&#39; Season 2 as You Are](https://www.wired.com/story/diego-luna-andor-season-2-q-and-a/)
- - [A look at the 5G network challenges faced by telecom operators, including intense competition, tapering consumer demand, and sufficiency of 4G speeds &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/221123/p4#a221123p4)<!-- TECH:END -->
+ - [An interview with AMD CEO Lisa Su on AMD&#39;s success at catching up to Intel, huge bets on custom chips, the PC slump, export restrictions to China, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/221123/p5#a221123p5)
+ - [53 Early Best Buy Black Friday Deals &lpar;2022&rpar;: Phones, Instant Cameras, TVs](https://www.wired.com/story/best-buy-deals-black-friday-2022-3/)
+ - [Daily Authority: 🤑 Before spending, here’s how to save big](https://www.androidauthority.com/daily-authority-november-23-2022-3239511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
