@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Embracer is ripping a beloved mobile game away from people who paid for it](https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down)
- - [HP reports Q4 revenue down 11.2% YoY to $14.8B and Personal Systems revenue down 13% YoY to $10.3B, and forecasts a 10% drop in PC sales in FY 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/221122/p31#a221122p31)
- - [US Senators Urge Fidelity To Halt Bitcoin 401&lpar;k&rpar; Retirement Plans     - CNET](https://www.cnet.com/personal-finance/crypto/us-senators-urge-fidelity-to-halt-bitcoin-401k-retirement-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SBF says FTX had ~$60B in collateral in spring 2022, but a credit squeeze, market selloff, and &quot;run on the bank&quot; reduced it to $9B ahead of the bankruptcy &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221122/p32#a221122p32)
+ - [Apple in talks to acquire rights to &#39;The Big Short&#39; author&#39;s upcoming book on FTX crash](https://appleinsider.com/articles/22/11/23/apple-in-talks-to-acquire-rights-to-the-big-short-authors-upcoming-book-on-ftx-crash?utm_medium=rss)
+ - [When Does &#39;Andor&#39; Finale Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/when-does-andor-finale-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
