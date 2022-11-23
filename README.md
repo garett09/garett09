@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Paramount+ on Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-paramount-on-a-mac?utm_medium=rss)
- - [St. Louis Galleria Mall Apple Store has stopped unionization efforts](https://appleinsider.com/articles/22/11/23/st-louis-galleria-mall-apple-store-has-stopped-unionization-efforts?utm_medium=rss)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [Mark Cuban&#39;s interactive streaming app Fireside acquires streaming platform Stremium and plans to launch on smart TVs, Amazon Fire TV, Roku, and other devices &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221123/p19#a221123p19)
+ - [Capture Every Moment for Less this Black Friday with the Polaroid Go Mini Camera     - CNET](https://www.cnet.com/deals/capture-every-moment-for-less-this-black-friday-with-the-polaroid-go-mini-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
