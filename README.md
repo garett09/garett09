@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: of the estimated 140,000 accounts paying for Twitter Blue, many are far-right influencers, the average has 560 followers, some are spoofs, and more &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/221123/p14#a221123p14)
- - [The Logitech MX Keys made my laptop-to-PC transition a breeze](https://www.androidauthority.com/logitech-mx-keys-3238141/)
- - [The World Needs Processed Food](https://www.wired.com/story/processed-food-health-meat-substitute-environment/)<!-- TECH:END -->
+ - [Black Friday 2022: Get Discovery Plus for just $0.99 per month for 3 months](https://appleinsider.com/articles/22/11/23/black-friday-2022-get-discovery-plus-for-just-099-per-month-for-3-months?utm_medium=rss)
+ - [3 reasons to pick up the Sony WH-1000XM4 on sale &lpar;and 3 reasons to pass&rpar;](https://www.androidauthority.com/sony-wh-1000xm4-best-features-3238420/)
+ - [9 Best Action Cameras &lpar;2022&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
