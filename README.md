@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Wifi Pro review: easy to use, inexpensive, no subscriptions, and nice design, but Ethernet limited to 1Gbps, no Assistant, and few parental options &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221123/p12#a221123p12)
- - [Buy 10 Mac Studios, or this one Macintosh Color Classic](https://appleinsider.com/articles/22/11/23/buy-10-mac-studios-or-this-one-macintosh-color-classic?utm_medium=rss)
- - [The best video doorbell camera to buy right now](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
+ - [Analysis: of the estimated 140,000 accounts paying for Twitter Blue, many are far-right influencers, the average has 560 followers, some are spoofs, and more &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/221123/p14#a221123p14)
+ - [The Logitech MX Keys made my laptop-to-PC transition a breeze](https://www.androidauthority.com/logitech-mx-keys-3238141/)
+ - [The World Needs Processed Food](https://www.wired.com/story/processed-food-health-meat-substitute-environment/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
