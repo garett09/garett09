@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk Hires PlayStation 3 Hacker To Fix Twitter](https://kotaku.com/elon-musk-twitter-playstation-3-george-hotz-tesla-1849816893)
- - [I would die for B2EMO and Brasso](https://www.polygon.com/star-wars/23473555/andor-droid-b2emo-brasso-friendship-best-buds)
- - [The Devil in Me is a low point for Supermassive&#39;s normally great horror anthology](https://www.pcgamer.com/the-devil-in-me-is-a-low-point-for-supermassives-normally-great-horror-anthology)<!-- GAME:END -->
+ - [We’re watching The Santa Clauses for Hot Bernard](https://www.polygon.com/23460432/santa-clauses-bernard-elf-david-krumholtz-disney-plus)
+ - [Xbox Admits PlayStation Exclusives Are ‘Better Quality’](https://kotaku.com/xbox-playstation-exclusives-better-quality-activision-1849817231)
+ - [Netflix wants to make a &#39;triple-A&#39; PC shooter](https://www.pcgamer.com/netflix-wants-to-make-a-triple-a-pc-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
