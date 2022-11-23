@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.26 features Michelin Raceway Road Atlanta race circuit](https://blog.playstation.com/2022/11/23/gran-turismo-7-update-1-26-features-michelin-raceway-road-atlanta-race-circuit/)
- - [Squad adds largest military force in the world: the People&#39;s Liberation Army of China](https://www.pcgamer.com/squad-adds-largest-military-force-in-the-world-the-peoples-liberation-army-of-china)
- - [Deliver Us Mars gave me two climbing axes, a robot pal and a mystery to solve](https://www.pcgamer.com/deliver-us-mars-gave-me-two-climbing-axes-a-robot-pal-and-a-mystery-to-solve)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 28 to December 2](https://news.xbox.com/en-us/2022/11/23/next-week-on-xbox-new-games-for-november-28-to-december-2/)
+ - [Destiny 2 is daunting to play alone, but content creators are here to help](https://www.polygon.com/23458936/destiny-2-solo-twitch-streamers-youtube-guide)
+ - [Gran Turismo 7 Update 1.26 features Michelin Raceway Road Atlanta race circuit](https://blog.playstation.com/2022/11/23/gran-turismo-7-update-1-26-features-michelin-raceway-road-atlanta-race-circuit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
