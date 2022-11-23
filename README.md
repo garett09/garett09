@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Wednesday, November 23](https://www.pcgamer.com/wordle-522-answer-november-23)
- - [Andor has a post-credits scene you should definitely stick around for](https://www.polygon.com/star-wars/23473303/andor-post-credits-scene-death-star)
- - [Our favorite gaming chair now comes in Star Wars](https://www.pcgamer.com/our-favorite-gaming-chair-now-comes-in-star-wars)<!-- GAME:END -->
+ - [Modern Warfare 2&#39;s armour piercing rounds no longer pierce armour](https://www.pcgamer.com/modern-warfare-2s-armour-piercing-rounds-no-longer-pierce-armour)
+ - [Disco Elysium&#39;s elevator pitch: &#39;the greatest fantasy setting ever conceived&#39;](https://www.pcgamer.com/disco-elysiums-elevator-pitch-the-greatest-fantasy-setting-ever-conceived)
+ - [The hardest Tetris game ever is coming to Switch and PS4](https://www.polygon.com/23474921/tetris-the-grand-master-switch-ps4-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
