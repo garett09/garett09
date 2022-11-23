@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 2&#39;s armour piercing rounds no longer pierce armour](https://www.pcgamer.com/modern-warfare-2s-armour-piercing-rounds-no-longer-pierce-armour)
- - [Disco Elysium&#39;s elevator pitch: &#39;the greatest fantasy setting ever conceived&#39;](https://www.pcgamer.com/disco-elysiums-elevator-pitch-the-greatest-fantasy-setting-ever-conceived)
- - [The hardest Tetris game ever is coming to Switch and PS4](https://www.polygon.com/23474921/tetris-the-grand-master-switch-ps4-release-date)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.26 features Michelin Raceway Road Atlanta race circuit](https://blog.playstation.com/2022/11/23/gran-turismo-7-update-1-26-features-michelin-raceway-road-atlanta-race-circuit/)
+ - [Squad adds largest military force in the world: the People&#39;s Liberation Army of China](https://www.pcgamer.com/squad-adds-largest-military-force-in-the-world-the-peoples-liberation-army-of-china)
+ - [Deliver Us Mars gave me two climbing axes, a robot pal and a mystery to solve](https://www.pcgamer.com/deliver-us-mars-gave-me-two-climbing-axes-a-robot-pal-and-a-mystery-to-solve)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
