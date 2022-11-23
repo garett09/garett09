@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gentleman](http://9gag.com/gag/aYVxA4v)
- - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)<!-- MEMES:END -->
+ - 🚖 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)
+ - 🚯 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 🚯 [The Rush Hour films were funny AF](http://9gag.com/gag/aREmDO7)<!-- MEMES:END -->
 
 --- 
 
