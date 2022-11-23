@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday Google deals you can get](https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast)
- - [Paramount Plus Black Friday deal: save 50% on your first year of service](https://appleinsider.com/articles/22/11/22/paramount-plus-black-friday-deal-save-50-on-your-first-year-of-service?utm_medium=rss)
- - [Don’t miss these excellent Fitbit Black Friday offers](https://www.androidauthority.com/fitbit-black-friday-3239422/)<!-- TECH:END -->
+ - [Embracer is ripping a beloved mobile game away from people who paid for it](https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down)
+ - [HP reports Q4 revenue down 11.2% YoY to $14.8B and Personal Systems revenue down 13% YoY to $10.3B, and forecasts a 10% drop in PC sales in FY 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/221122/p31#a221122p31)
+ - [US Senators Urge Fidelity To Halt Bitcoin 401&lpar;k&rpar; Retirement Plans     - CNET](https://www.cnet.com/personal-finance/crypto/us-senators-urge-fidelity-to-halt-bitcoin-401k-retirement-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
