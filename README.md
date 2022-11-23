@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This budget Black Friday gaming PC doesn&#39;t look like every other gaming PC](https://www.pcgamer.com/this-budget-black-friday-gaming-pc-doesnt-look-like-every-other-gaming-pc)
- - [Report: Big Game Companies Like Square Enix And Roblox Are Ignoring Climate Change](https://kotaku.com/climate-goals-targets-video-game-companies-carbon-1849810896)
- - [Pokémon Scarlet and Violet Wo-Chien shrine and stake &lpar;purple&rpar; locations](https://www.polygon.com/pokemon-scarlet-violet-guide/23473575/wo-chien-shrine-purple-stake-locations-legendary-grasswither)<!-- GAME:END -->
+ - [There&#39;s now an official remake of the Xbox 360 Controller](https://www.pcgamer.com/theres-gonna-be-an-official-remake-of-the-xbox-360-controller)
+ - [One Of The Best Deus Ex Games Is Disappearing](https://kotaku.com/deus-ex-go-shut-down-closed-closure-square-enix-mobile-1849814893)
+ - [Darktide&#39;s 1.0.7 patch makes progress on crashes, lets you fix your ugly face](https://www.pcgamer.com/darktides-107-patch-makes-progress-on-crashes-lets-you-fix-your-ugly-face)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
