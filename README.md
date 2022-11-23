@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s easier to change Alexa’s accent now if you’re into that](https://www.theverge.com/23475121/amazon-alexa-english-accent-switch-update-region-free)
- - [Honor Magic Vs hands-on impressions: The on-paper foldable king](https://www.androidauthority.com/honor-magic-vs-hands-on-impressions-3240662/)
- - [Moment Black Friday deals: save up to 60% on iPhone cases, cameras &amp; more](https://appleinsider.com/articles/22/11/23/moment-black-friday-deals-save-up-to-60-on-iphone-cases-cameras-more?utm_medium=rss)<!-- TECH:END -->
+ - [Level-up your gaming in the Corsair Black Friday sale](https://www.androidauthority.com/corsair-black-friday-sale-3240838/)
+ - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
+ - [The best Black Friday deals under $25](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
