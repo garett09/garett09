@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2022: Get Discovery Plus for just $0.99 per month for 3 months](https://appleinsider.com/articles/22/11/23/black-friday-2022-get-discovery-plus-for-just-099-per-month-for-3-months?utm_medium=rss)
- - [3 reasons to pick up the Sony WH-1000XM4 on sale &lpar;and 3 reasons to pass&rpar;](https://www.androidauthority.com/sony-wh-1000xm4-best-features-3238420/)
- - [9 Best Action Cameras &lpar;2022&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [A look at a letter by eight House lawmakers from March discouraging the SEC from investigating crypto companies; five received donations from FTX employees &lpar;David Dayen/American Prospect&rpar;](http://www.techmeme.com/221123/p16#a221123p16)
+ - [Satechi Black Friday 2022: Get up to 30% off on all products](https://appleinsider.com/articles/22/11/23/satechi-black-friday-2022-get-up-to-30-off-on-all-products?utm_medium=rss)
+ - [Amazon is selling last year’s Apple TV 4K for $80, and that’s practically a steal](https://www.theverge.com/2022/11/23/23475134/apple-tv-4k-2021-sale-black-friday-cyber-monday-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
