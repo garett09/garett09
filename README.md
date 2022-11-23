@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares of Paytm closed at an all-time low on Tuesday, a week after the post-IPO lockup period for early investors expired, amid competition risk from Reliance &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221122/p33#a221122p33)
  - [SBF says FTX had ~$60B in collateral in spring 2022, but a credit squeeze, market selloff, and &quot;run on the bank&quot; reduced it to $9B ahead of the bankruptcy &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221122/p32#a221122p32)
- - [Apple in talks to acquire rights to &#39;The Big Short&#39; author&#39;s upcoming book on FTX crash](https://appleinsider.com/articles/22/11/23/apple-in-talks-to-acquire-rights-to-the-big-short-authors-upcoming-book-on-ftx-crash?utm_medium=rss)
- - [When Does &#39;Andor&#39; Finale Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/when-does-andor-finale-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple in talks to acquire rights to &#39;The Big Short&#39; author&#39;s upcoming book on FTX crash](https://appleinsider.com/articles/22/11/23/apple-in-talks-to-acquire-rights-to-the-big-short-authors-upcoming-book-on-ftx-crash?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
