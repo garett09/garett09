@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bollywood, without music is epic.](http://9gag.com/gag/az28Q9z)
- - 🚯 [Expectation exceeded](http://9gag.com/gag/anzbdwo)
- - 🚯 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
+ - 🚖 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - 🚯 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 🚯 [See comment](http://9gag.com/gag/a1Pbq18)<!-- MEMES:END -->
 
 --- 
 
