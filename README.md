@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You prefer stock Pixel 7 Pro images to a photographer’s edits](https://www.androidauthority.com/pixel-7-pro-photographer-edit-poll-results-3239543/)
- - [Honor’s new Magic VS foldable will be released outside China](https://www.theverge.com/2022/11/23/23474820/honors-magic-vs-price-release-date-features-foldable-smartphone)
- - [An interview with AMD CEO Lisa Su on AMD&#39;s success at catching up to Intel, huge bets on custom chips, the PC slump, export restrictions to China, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/221123/p5#a221123p5)<!-- TECH:END -->
+ - [Hundreds riot at Foxconn iPhone plant over conditions](https://appleinsider.com/articles/22/11/23/hundreds-riot-at-foxconn-iphone-plant-over-conditions?utm_medium=rss)
+ - [Amazon&#39;s Twitch makes changes to address child predation concerns, including mandatory phone verification and improving account termination for users under 13 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221123/p9#a221123p9)
+ - [Baidu EVP Dou Shen downplays the impact of US semiconductor restrictions, after the company stockpiled parts, and says its AI business would benefit long term &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/221123/p8#a221123p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
