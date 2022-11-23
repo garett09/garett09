@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a letter by eight House lawmakers from March discouraging the SEC from investigating crypto companies; five received donations from FTX employees &lpar;David Dayen/American Prospect&rpar;](http://www.techmeme.com/221123/p16#a221123p16)
- - [Satechi Black Friday 2022: Get up to 30% off on all products](https://appleinsider.com/articles/22/11/23/satechi-black-friday-2022-get-up-to-30-off-on-all-products?utm_medium=rss)
- - [Amazon is selling last year’s Apple TV 4K for $80, and that’s practically a steal](https://www.theverge.com/2022/11/23/23475134/apple-tv-4k-2021-sale-black-friday-cyber-monday-2022)<!-- TECH:END -->
+ - [Samsung’s Galaxy Watch 4 Classic and its slick rotating bezel is just $149](https://www.theverge.com/2022/11/23/23474965/samsung-galaxy-buds-earbuds-roomba-peak-design-ember-mug-deal-sale)
+ - [This is the best backpack I’ve ever owned](https://www.androidauthority.com/peak-design-everyday-backpack-v2-3235107/)
+ - [The Guardians of the Galaxy Holiday Special turns Christmas into lore](https://www.theverge.com/23475046/guardians-of-the-galaxy-holiday-special-review-disney-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
