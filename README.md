@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY Governor Kathy Hochul signs a bill imposing a two-year moratorium on new crypto-mining permits at fossil fuel plants, becoming the first US state to do so &lpar;New York Times&rpar;](http://www.techmeme.com/221122/p36#a221122p36)
- - [Windows Subsystem for Linux is now generally available for Windows 10 and 11 via the Microsoft Store, as Microsoft makes the Store version of WSL the default &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221122/p35#a221122p35)
- - [Florida-based care.ai, which uses AI-powered sensors to monitor and collect behavioral data on care facility patients, raised $27M from Crescent Cove Advisors &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/221122/p34#a221122p34)<!-- TECH:END -->
+ - [11 Black Friday Deals That Actually Don&#39;t Suck     - CNET](https://www.cnet.com/deals/11-black-friday-deals-that-dont-suck/#ftag=CAD590a51e)
+ - [Black Friday deal: Microsoft Office for Mac Home &amp; Business 2021 lifetime license just $29.99](https://appleinsider.com/articles/22/11/21/black-friday-deal-microsoft-office-for-mac-home-business-2021-lifetime-license-just-2999?utm_medium=rss)
+ - [Violent Protests Reportedly Erupt at Main iPhone Factory in China     - CNET](https://www.cnet.com/tech/mobile/violent-protests-reportedly-erupt-at-main-iphone-factory-in-china/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
