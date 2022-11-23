@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
- - 🚯 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
- - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
+ - 🚖 [Bollywood, without music is epic.](http://9gag.com/gag/az28Q9z)
+ - 🚯 [Expectation exceeded](http://9gag.com/gag/anzbdwo)
+ - 🚯 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
 
 --- 
 
