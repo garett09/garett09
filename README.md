@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We’re watching The Santa Clauses for Hot Bernard](https://www.polygon.com/23460432/santa-clauses-bernard-elf-david-krumholtz-disney-plus)
- - [Xbox Admits PlayStation Exclusives Are ‘Better Quality’](https://kotaku.com/xbox-playstation-exclusives-better-quality-activision-1849817231)
- - [Netflix wants to make a &#39;triple-A&#39; PC shooter](https://www.pcgamer.com/netflix-wants-to-make-a-triple-a-pc-shooter)<!-- GAME:END -->
+ - [All the Andor season 2 news we’ve heard so far](https://www.polygon.com/23475516/andor-season-2-release-date-cast-news)
+ - [The Witcher 3: Wild Hunt Next-Gen Update Hits Xbox Series X|S on December 14](https://news.xbox.com/en-us/2022/11/23/the-witcher-3-wild-hunt-next-gen-update-hits-xbox-series-xs-on-december-14/)
+ - [Valheim Mistlands Queen: How to find the powerful new boss monster](https://www.pcgamer.com/valheim-mistlands-queen-boss-location-sealbreaker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
