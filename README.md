@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mahlzeit](http://9gag.com/gag/aKEV8P6)
- - 🚯 [...](http://9gag.com/gag/awZnew4)
- - 🚯 [Has technology left this world and went too far away to another galaxy?](http://9gag.com/gag/aKEVpBZ)<!-- MEMES:END -->
+ - 🚖 [This fella](http://9gag.com/gag/avQG10Z)
+ - 🚯 [Colour correction](http://9gag.com/gag/agoL8Av)
+ - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
 
 --- 
 
