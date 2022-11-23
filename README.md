@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With 16 New Cards, Marvel Snap&#39;s Next Update Is Its Biggest Yet](https://kotaku.com/marvel-snap-deck-pool-5-6-season-thanos-what-cards-new-1849818132)
- - [This Black Friday deal combo has our favorite gaming mouse plus a headset for under $70](https://www.pcgamer.com/this-black-friday-deal-combo-has-our-favorite-gaming-mouse-plus-a-headset-for-under-dollar70)
- - [God of War Ragnarok Midgard 100% completion guide](https://www.polygon.com/god-of-war-ragnarok-guide/23448917/midgard-100-percent-guide-odins-ravens-nornir-chests-artifacts-lake-nine)<!-- GAME:END -->
+ - [Target has deep Black Friday discounts on board games and the D&amp;D starter set](https://www.polygon.com/deals/2022/11/23/23475694/target-board-game-dungeons-and-dragons-sale-thanksgiving-black-friday)
+ - [Microsoft Explains Why Elder Scrolls VI Will Be Exclusive And Call Of Duty Won&#39;t](https://kotaku.com/call-of-duty-xbox-exclusive-elder-scrolls-6-microsoft-1849818356)
+ - [The Callisto Protocol will sell you extra death animations as DLC](https://www.pcgamer.com/the-callisto-protocol-will-sell-you-extra-death-animations-as-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
