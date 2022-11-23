@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 🚯 [Please don&#39;t try this out.](http://9gag.com/gag/aPgBdYQ)
- - 🚯 [Special Edition](http://9gag.com/gag/aqebBNL)<!-- MEMES:END -->
+ - 🚖 [Peek-a-boo](http://9gag.com/gag/agoL6j1)
+ - 🚯 [Gold](http://9gag.com/gag/a9qrN06)
+ - 🚯 [404 wife not found](http://9gag.com/gag/armbr20)<!-- MEMES:END -->
 
 --- 
 
