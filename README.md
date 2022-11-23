@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Watch 4 Classic and its slick rotating bezel is just $149](https://www.theverge.com/2022/11/23/23474965/samsung-galaxy-buds-earbuds-roomba-peak-design-ember-mug-deal-sale)
- - [This is the best backpack I’ve ever owned](https://www.androidauthority.com/peak-design-everyday-backpack-v2-3235107/)
- - [The Guardians of the Galaxy Holiday Special turns Christmas into lore](https://www.theverge.com/23475046/guardians-of-the-galaxy-holiday-special-review-disney-plus)<!-- TECH:END -->
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-bose-apple-microsoft-deal-sale)
+ - [The best Black Friday streaming deals on Hulu, HBO Max, Paramount Plus, and more](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
+ - [Sources: Amazon plans to spend $1B+ per year to produce and release movies for theaters, starting with a few releases in 2023, and eventually 12 to 15 annually &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/221123/p17#a221123p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
