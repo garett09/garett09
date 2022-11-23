@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Andor season 2 news we’ve heard so far](https://www.polygon.com/23475516/andor-season-2-release-date-cast-news)
- - [The Witcher 3: Wild Hunt Next-Gen Update Hits Xbox Series X|S on December 14](https://news.xbox.com/en-us/2022/11/23/the-witcher-3-wild-hunt-next-gen-update-hits-xbox-series-xs-on-december-14/)
- - [Valheim Mistlands Queen: How to find the powerful new boss monster](https://www.pcgamer.com/valheim-mistlands-queen-boss-location-sealbreaker)<!-- GAME:END -->
+ - [Sony says &#39;the Battlefield franchise cannot keep up&#39; with COD](https://www.pcgamer.com/sony-says-the-battlefield-franchise-cannot-keep-up-with-cod)
+ - [Call Of Duty Removes Armor-Piercing Effects From…Armor-Piercing Ammunition](https://kotaku.com/call-of-duty-patch-weapon-modification-armor-ammo-1849817845)
+ - [Stellan Skarsgård’s Luthen is instantly one of the best Star Wars characters ever](https://www.polygon.com/star-wars/23475574/andor-luthen-stellan-skarsgard-finale-star-wars-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
