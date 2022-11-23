@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The day Conor McGregor almost go to the Gulag](http://9gag.com/gag/aEqYo9N)
- - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
+ - 🚖 [I\u2019m not a racist\u2026 but this is true.](http://9gag.com/gag/agoL4Mr)
+ - 🚯 [This should be a go straight to jail card](http://9gag.com/gag/aDYWOGZ)
+ - 🚯 [A Thanksgiving tradition continues](http://9gag.com/gag/aZDmzX0)<!-- MEMES:END -->
 
 --- 
 
