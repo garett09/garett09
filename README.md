@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fella](http://9gag.com/gag/avQG10Z)
- - 🚯 [Colour correction](http://9gag.com/gag/agoL8Av)
- - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
+ - 🚖 [New Core memory](http://9gag.com/gag/aGE1bE0)
+ - 🚯 [This fella](http://9gag.com/gag/avQG10Z)
+ - 🚯 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)<!-- MEMES:END -->
 
 --- 
 
