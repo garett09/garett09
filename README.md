@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even Hercules wants the list to be exposed](http://9gag.com/gag/agoL2gq)
- - 🚯 [Can\u2019t unsee it](http://9gag.com/gag/aQE9Zr8)
- - 🚯 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
+ - 🚖 [The day Conor McGregor almost go to the Gulag](http://9gag.com/gag/aEqYo9N)
+ - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - 🚯 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
 
 --- 
 
