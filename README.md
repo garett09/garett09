@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with @dril on Elon Musk&#39;s Twitter, which he says is &quot;a work in progress&quot;, like Hyperloop, and will be a &quot;beautiful thing at the end of the day&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/221123/p11#a221123p11)
- - [America’s Billion-Dollar Tree Problem Is Spreading](https://www.wired.com/story/billion-dollar-encroaching-tree-problem/)
- - [Dyson V12 Detect Slim Review: A Powerful and Lightweight Cordless Stick Vacuum](https://www.wired.com/review/dyson-v12-detect-slim/)<!-- TECH:END -->
+ - [Google Nest Wifi Pro review: easy to use, inexpensive, no subscriptions, and nice design, but Ethernet limited to 1Gbps, no Assistant, and few parental options &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221123/p12#a221123p12)
+ - [Buy 10 Mac Studios, or this one Macintosh Color Classic](https://appleinsider.com/articles/22/11/23/buy-10-mac-studios-or-this-one-macintosh-color-classic?utm_medium=rss)
+ - [The best video doorbell camera to buy right now](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
