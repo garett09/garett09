@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds riot at Foxconn iPhone plant over conditions](https://appleinsider.com/articles/22/11/23/hundreds-riot-at-foxconn-iphone-plant-over-conditions?utm_medium=rss)
- - [Amazon&#39;s Twitch makes changes to address child predation concerns, including mandatory phone verification and improving account termination for users under 13 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221123/p9#a221123p9)
- - [Baidu EVP Dou Shen downplays the impact of US semiconductor restrictions, after the company stockpiled parts, and says its AI business would benefit long term &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/221123/p8#a221123p8)<!-- TECH:END -->
+ - [An interview with @dril on Elon Musk&#39;s Twitter, which he says is &quot;a work in progress&quot;, like Hyperloop, and will be a &quot;beautiful thing at the end of the day&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/221123/p11#a221123p11)
+ - [America’s Billion-Dollar Tree Problem Is Spreading](https://www.wired.com/story/billion-dollar-encroaching-tree-problem/)
+ - [Dyson V12 Detect Slim Review: A Powerful and Lightweight Cordless Stick Vacuum](https://www.wired.com/review/dyson-v12-detect-slim/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
