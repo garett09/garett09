@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-bose-apple-microsoft-deal-sale)
- - [The best Black Friday streaming deals on Hulu, HBO Max, Paramount Plus, and more](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
- - [Sources: Amazon plans to spend $1B+ per year to produce and release movies for theaters, starting with a few releases in 2023, and eventually 12 to 15 annually &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/221123/p17#a221123p17)<!-- TECH:END -->
+ - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
+ - [The 10 best deals of the Jabra Black Friday sale](https://www.androidauthority.com/jabra-black-friday-sale-3240777/)
+ - [Elon Musk proposes letting nearly everyone Twitter banned back on the site](https://www.theverge.com/2022/11/23/23475472/elon-musk-twitter-unbanning-suspended-accounts-law-spam-amnesty)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
