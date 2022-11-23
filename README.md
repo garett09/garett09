@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Mahlzeit](http://9gag.com/gag/aKEV8P6)
- - 🚯 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
- - 🚯 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
+ - 🚯 [...](http://9gag.com/gag/awZnew4)
+ - 🚯 [Has technology left this world and went too far away to another galaxy?](http://9gag.com/gag/aKEVpBZ)<!-- MEMES:END -->
 
 --- 
 
