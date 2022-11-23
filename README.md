@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
- - 🚯 [This should be a go straight to jail card](http://9gag.com/gag/aDYWOGZ)
- - 🚯 [Wtf did i just read](http://9gag.com/gag/aBdWXVQ)<!-- MEMES:END -->
+ - 🚖 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - 🚯 [Hal was secretly already Heisenberg at the time](http://9gag.com/gag/armb2vX)
+ - 🚯 [Heretics! Heretics all of them!](http://9gag.com/gag/a1PbEoG)<!-- MEMES:END -->
 
 --- 
 
