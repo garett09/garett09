@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance CEO Changpeng Zhao says the exchange aims for a ~$1B fund to buy distressed assets and plans to make another bid for bankrupt lender Voyager Digital &lpar;Bloomberg&rpar;](http://www.techmeme.com/221124/p6#a221124p6)
- - [Daily Authority: 📱 Hands-on with this Galaxy Z Fold 4 rival](https://www.androidauthority.com/daily-authority-november-24-2022-3240917/)
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [240+ Best Black Friday Deals on TVs, Laptops, AirPods, Air Fryers and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $50: Huge Sales on Tech, Toys and More     - CNET](https://www.cnet.com/deals/black-friday-deals-under-50/#ftag=CAD590a51e)
+ - [Walmart&#39;s PS5 Black Friday Bundle Is Still Available, Get Yours Now     - CNET](https://www.cnet.com/deals/walmart-ps5-black-friday-bundle-available-once-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
