@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 🚯 [Belgian minister of foreign affairs dare to stand up to fifa boss Infantino while wearing a &#39;one love&#39; band in the stadion of Qatar. She has also a islamic background](http://9gag.com/gag/axoVQw1)
- - 🚯 [What movie is this](http://9gag.com/gag/aPgBzzB)<!-- MEMES:END -->
+ - 🚖 [`Rain drop` statue was removed after authorities learned that 9gag laughed at it](http://9gag.com/gag/aREmyvj)
+ - 🚯 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
+ - 🚯 [Before and after](http://9gag.com/gag/aBdWv1Z)<!-- MEMES:END -->
 
 --- 
 
