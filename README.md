@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
- - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - 🚯 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)<!-- MEMES:END -->
+ - 🚖 [German humor](http://9gag.com/gag/amAYQG4)
+ - 🚯 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
+ - 🚯 [Sneaky b*stard.](http://9gag.com/gag/aL1D3mM)<!-- MEMES:END -->
 
 --- 
 
