@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level-up your gaming in the Corsair Black Friday sale](https://www.androidauthority.com/corsair-black-friday-sale-3240838/)
- - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
- - [The best Black Friday deals under $25](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)<!-- TECH:END -->
+ - [HBO Max is working on a fix for playback errors on Apple TV 4K](https://www.theverge.com/2022/11/23/23475857/hbo-max-cant-play-error-apple-tv-4k-temporary-fix)
+ - [NFL Sunday Ticket streaming deal won&#39;t be finalized until 2023](https://appleinsider.com/articles/22/11/24/nfl-sunday-ticket-streaming-deal-wont-be-finalized-until-2023?utm_medium=rss)
+ - [Google blocklisted two Chrome &quot;SearchBlox&quot; extensions with 200K+ installs, after discovery of a backdoor that can be used to steal Roblox credentials and assets &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/221123/p21#a221123p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
