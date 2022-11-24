@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
- - 🚯 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
- - 🚯 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
+ - 🚖 [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - 🚯 [The Japanese national team left their changing room spotless after their historic World Cup win against Germany.](http://9gag.com/gag/aVbq8My)
+ - 🚯 [Night shift](http://9gag.com/gag/a5XbA2q)<!-- MEMES:END -->
 
 --- 
 
