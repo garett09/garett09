@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Glass Onion loses Knives Out’s sharp edge](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix)
- - [Unearthing Below: Striking Distance Studios detail The Callisto Protocol’s new area](https://blog.playstation.com/2022/11/24/unearthing-below-striking-distance-studios-detail-the-callisto-protocols-new-area/)
- - [Pokémon Scarlet and Violet&#39;s Murder Pup Is Already Banned](https://kotaku.com/pokemon-scarlet-violet-nintendo-houndstone-banned-1849820369)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight is aiming to feel more comfortable](https://www.polygon.com/23471176/world-of-warcraft-dragonflight-dragon-riding-valdrakken)
+ - [The 15 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
+ - [EA is real sorry it called that guy &#39;milkshake brain&#39;](https://www.pcgamer.com/ea-is-real-sorry-it-called-that-guy-milkshake-brain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
