@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - 🚯 [Why would you even apply ?](http://9gag.com/gag/adP7MAM)
- - 🚯 [She got a senior citizen discount later](http://9gag.com/gag/ay2DrDY)<!-- MEMES:END -->
+ - 🚖 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 🚯 [Before and after](http://9gag.com/gag/aBdWv1Z)
+ - 🚯 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
 
 --- 
 
