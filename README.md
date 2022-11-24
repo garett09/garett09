@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Thunderbolt dock deals, save up to $100!](https://appleinsider.com/articles/22/11/24/best-black-friday-thunderbolt-dock-deals-save-up-to-100?utm_medium=rss)
- - [One of the best Star Wars games in years is free on Epic right now](https://www.theverge.com/2022/11/24/23472969/star-wars-squadrons-free-epic-games-store)
- - [People are definitely eating pokémon in Scarlet and Violet](https://www.theverge.com/23466811/pokemon-scarlet-violet-eating-klawf-toedscool-food)<!-- TECH:END -->
+ - [Best Amazon Apple Black Friday deals: $550 off iPad Pro, $99 64GB Apple TV, $499 iPad Air, $500 off MacBook Pro, $199 AirPods Pro 2](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
+ - [Best Black Friday deals on 4K monitors, for as low as $199](https://appleinsider.com/articles/22/11/24/the-best-black-friday-deals-on-4k-monitors-for-as-low-as-199?utm_medium=rss)
+ - [Best Black Friday Thunderbolt dock deals, save up to $100!](https://appleinsider.com/articles/22/11/24/best-black-friday-thunderbolt-dock-deals-save-up-to-100?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
