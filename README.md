@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [240+ Best Black Friday Deals on TVs, Laptops, AirPods, Air Fryers and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CAD590a51e)
- - [Best Black Friday Deals Under $50: Huge Sales on Tech, Toys and More     - CNET](https://www.cnet.com/deals/black-friday-deals-under-50/#ftag=CAD590a51e)
- - [Walmart&#39;s PS5 Black Friday Bundle Is Still Available, Get Yours Now     - CNET](https://www.cnet.com/deals/walmart-ps5-black-friday-bundle-available-once-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Hibernator’s Guide to the Galaxy](https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy/)
+ - [Dubious rumor claims Apple scrapped a $49 Apple Pencil for iPhone](https://appleinsider.com/articles/22/11/24/dubious-rumor-claims-apple-scrapped-a-49-apple-pencil-for-iphone?utm_medium=rss)
+ - [A look at Huawei&#39;s future in Europe, as sources say the company is scaling back in the UK, France, and Belgium to focus on China, following US sanctions &lpar;Politico&rpar;](http://www.techmeme.com/221124/p9#a221124p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
