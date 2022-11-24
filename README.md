@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Pokémon Company Slashes Number Of TCG Cards In Online Packs, Claims It&#39;s &#39;Optimal&#39;](https://kotaku.com/pokemon-tcg-silver-tempest-lost-origin-code-cards-1849820076)
  - [Black Friday PC gaming deals UK 2022: the best deals on PCs, components and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk)
- - [Now Zuckerberg&#39;s building AIs to destroy us meatbags in grand strategy games](https://www.pcgamer.com/now-zuckerbergs-building-ais-to-destroy-us-meatbags-in-grand-strategy-games)
- - [Sonic Frontiers review](https://www.pcgamer.com/sonic-frontiers-review)<!-- GAME:END -->
+ - [Now Zuckerberg&#39;s building AIs to destroy us meatbags in grand strategy games](https://www.pcgamer.com/now-zuckerbergs-building-ais-to-destroy-us-meatbags-in-grand-strategy-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
