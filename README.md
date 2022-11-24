@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He better show her his weapon of ass destruction](http://9gag.com/gag/aGE1Gp6)
- - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - 🚯 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
+ - 🚖 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - 🚯 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 🚯 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
 
 --- 
 
