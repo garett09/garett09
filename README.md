@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
- - 🚯 [What? A fidget stick?](http://9gag.com/gag/aqebBWY)
- - 🚯 [404 wife not found](http://9gag.com/gag/armbr20)<!-- MEMES:END -->
+ - 🚖 [Before and after](http://9gag.com/gag/aBdWv1Z)
+ - 🚯 [`Rain drop` statue was removed after authorities learned that 9gag laughed at it](http://9gag.com/gag/aREmyvj)
+ - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)<!-- MEMES:END -->
 
 --- 
 
