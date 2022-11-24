@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
- - 🚯 [Russian soldier hid under the bed in Kherson, but nobody was left behind.](http://9gag.com/gag/aZDm5n6)
+ - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - 🚯 [Prime minister of Armenia refuses to sign CSTO declaration on joint assistance measures for Armenia. This means the CSTO, the Russian counter to NATO, has fallen apart. Russia is running out of allies fast.](http://9gag.com/gag/amAYwmX)
  - 🚯 [God for Ass](http://9gag.com/gag/aeQbBAQ)<!-- MEMES:END -->
 
 --- 
