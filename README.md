@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple scrapped a $49 Apple Pencil for iPhone, claims rumor](https://appleinsider.com/articles/22/11/24/dubious-rumor-claims-apple-scrapped-a-49-apple-pencil-for-iphone?utm_medium=rss)
- - [ConsenSys says it collects user data related to its on-chain wallet service MetaMask, following a similar announcement by decentralized exchange Uniswap &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/221124/p13#a221124p13)
- - [65daysofstatic&#39;s &#39;Wreckage Systems&#39; Pushes Algorithmic Music](https://www.wired.com/story/65daysofstatic-wreckage-systems-infinite-audio/)<!-- TECH:END -->
+ - [I Lost $17,000 in Crypto. Here’s How to Avoid My Mistake](https://www.wired.com/story/i-lost-17000-dollars-crypto-how-to-avoid/)
+ - [Apollo Air 2022 Review: Reliable but Quirky](https://www.wired.com/review/apollo-air-2022/)
+ - [Why the worst recipes imaginable are blowing up on TikTok](https://www.theverge.com/2022/11/24/23471033/tiktok-thanksgiving-food-recipes-ragebait-chefs-elis-kitchen-jane-brain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
