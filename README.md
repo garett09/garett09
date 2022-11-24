@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock&#39;s Black Friday deals offer steep discounts on robot vacuums](https://appleinsider.com/articles/22/11/24/roborocks-black-friday-deals-offer-steep-discounts-on-robot-vacuums?utm_medium=rss)
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
- - [Apple Black Friday deals: save up to $900 on MacBook Pro laptops](https://appleinsider.com/articles/22/11/24/apple-black-friday-deals-save-up-to-900-on-macbook-pro-laptops?utm_medium=rss)<!-- TECH:END -->
+ - [Binance CEO Changpeng Zhao says the exchange aims for a ~$1B fund to buy distressed assets and plans to make another bid for bankrupt lender Voyager Digital &lpar;Bloomberg&rpar;](http://www.techmeme.com/221124/p6#a221124p6)
+ - [Daily Authority: 📱 Hands-on with this Galaxy Z Fold 4 rival](https://www.androidauthority.com/daily-authority-november-24-2022-3240917/)
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
