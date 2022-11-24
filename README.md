@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call of Duty: Warzone 2 review](https://www.pcgamer.com/call-of-duty-warzone-2-review)
  - [There’s fascinating drama underneath Nanny’s obligatory Blumhouse scares](https://www.polygon.com/reviews/23475217/nanny-review-amazon-prime-video-horror)
- - [A massively ambitious 20-year-old Morrowind mod adds two major new regions](https://www.pcgamer.com/a-massively-ambitious-20-year-old-morrowind-mod-adds-two-major-new-regions)
- - [Warhammer 40,000: Darktide puts in some crafting upgrades and nice new cosmetics](https://www.pcgamer.com/warhammer-40000-darktide-puts-in-some-crafting-upgrades-and-nice-new-cosmetics)<!-- GAME:END -->
+ - [A massively ambitious 20-year-old Morrowind mod adds two major new regions](https://www.pcgamer.com/a-massively-ambitious-20-year-old-morrowind-mod-adds-two-major-new-regions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
