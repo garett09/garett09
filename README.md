@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Before and after](http://9gag.com/gag/aBdWv1Z)
- - 🚯 [`Rain drop` statue was removed after authorities learned that 9gag laughed at it](http://9gag.com/gag/aREmyvj)
- - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)<!-- MEMES:END -->
+ - 🚖 [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - 🚯 [Why would you even apply ?](http://9gag.com/gag/adP7MAM)
+ - 🚯 [She got a senior citizen discount later](http://9gag.com/gag/ay2DrDY)<!-- MEMES:END -->
 
 --- 
 
