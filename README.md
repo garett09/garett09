@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s update push continues as Galaxy Z Flip 3 gets stable One UI 5](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [Samsung Galaxy Z Fold 3 is now getting stable Android 13](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [Apple Watch Ultra deals debut at Amazon ahead of Black Friday](https://appleinsider.com/articles/22/11/19/apple-watch-ultra-deals-debut-at-amazon-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Roborock&#39;s Black Friday deals offer steep discounts on robot vacuums](https://appleinsider.com/articles/22/11/24/roborocks-black-friday-deals-offer-steep-discounts-on-robot-vacuums?utm_medium=rss)
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
+ - [Apple Black Friday deals: save up to $900 on MacBook Pro laptops](https://appleinsider.com/articles/22/11/24/apple-black-friday-deals-save-up-to-900-on-macbook-pro-laptops?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
