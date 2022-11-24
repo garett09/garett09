@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Project Zero reported five security flaws in devices with Mali GPUs in the summer, but Samsung, Xiaomi, Google, and others are yet to release patches &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221124/p20#a221124p20)
- - [The top 15 Canada Black Friday deals available right now](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)
- - [Black Friday Deals Under $25: Cheap Tech, Toys and More     - CNET](https://www.cnet.com/deals/black-friday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday deals: get 2 Microsoft Office for Mac Home &amp; Business 2021 licenses for $54.99](https://appleinsider.com/articles/22/11/24/black-friday-deals-get-2-microsoft-office-for-mac-home-business-2021-licenses-for-5499?utm_medium=rss)
+ - [Best Black Friday deals on Mac &amp; iPhone accessories, storage](https://appleinsider.com/articles/22/11/24/best-black-friday-deals-on-mac-iphone-accessories-storage?utm_medium=rss)
+ - [Google&#39;s Project Zero reported five security flaws in devices with Mali GPUs in the summer, but Samsung, Xiaomi, Google, and others are yet to release patches &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221124/p20#a221124p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
