@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
+ - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 🚯 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
 
 --- 
 
