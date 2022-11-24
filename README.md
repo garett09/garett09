@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 🚯 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
+ - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - 🚯 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 🚯 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)<!-- MEMES:END -->
 
 --- 
 
