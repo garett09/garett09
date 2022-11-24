@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
- - 🚯 [Prime minister of Armenia refuses to sign CSTO declaration on joint assistance measures for Armenia. This means the CSTO, the Russian counter to NATO, has fallen apart. Russia is running out of allies fast.](http://9gag.com/gag/amAYwmX)
- - 🚯 [God for Ass](http://9gag.com/gag/aeQbBAQ)<!-- MEMES:END -->
+ - 🚖 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
+ - 🚯 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
+ - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)<!-- MEMES:END -->
 
 --- 
 
