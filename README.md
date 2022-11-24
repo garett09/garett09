@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight is aiming to feel more comfortable](https://www.polygon.com/23471176/world-of-warcraft-dragonflight-dragon-riding-valdrakken)
- - [The 15 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
- - [EA is real sorry it called that guy &#39;milkshake brain&#39;](https://www.pcgamer.com/ea-is-real-sorry-it-called-that-guy-milkshake-brain)<!-- GAME:END -->
+ - [This former BioWare dev&#39;s alternate ME3 ending is canon as far as I&#39;m concerned](https://www.pcgamer.com/this-former-bioware-devs-alternate-me3-ending-is-canon-as-far-as-im-concerned)
+ - [The movies actually improved by watching while full of turkey and wine](https://www.polygon.com/what-to-watch/23471484/thanksgiving-movies-what-to-watch)
+ - [Sony Dumps On EA From A Great Height In Latest Court Docs](https://kotaku.com/sony-ps5-microsoft-series-x-activision-call-of-duty-1849820571)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
