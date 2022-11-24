@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This former BioWare dev&#39;s alternate ME3 ending is canon as far as I&#39;m concerned](https://www.pcgamer.com/this-former-bioware-devs-alternate-me3-ending-is-canon-as-far-as-im-concerned)
- - [The movies actually improved by watching while full of turkey and wine](https://www.polygon.com/what-to-watch/23471484/thanksgiving-movies-what-to-watch)
- - [Sony Dumps On EA From A Great Height In Latest Court Docs](https://kotaku.com/sony-ps5-microsoft-series-x-activision-call-of-duty-1849820571)<!-- GAME:END -->
+ - [Bones and All revives an age-old love story in a thrillingly bloody new way](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)
+ - [Hawked is a new extraction shooter looking for playtesters this weekend](https://www.pcgamer.com/hawked-is-a-new-extraction-shooter-looking-for-playtesters-this-weekend)
+ - [Microsoft’s acquisition of Activision ‘likely’ to face FTC lawsuit, report says](https://www.polygon.com/23476842/microsoft-activision-blizzard-ftc-lawsuit-likely)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
