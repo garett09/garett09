@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New fear unlocked](http://9gag.com/gag/awZnLQ4)
- - 🚯 [The day Conor McGregor almost go to the Gulag](http://9gag.com/gag/aEqYo9N)
- - 🚯 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
+ - 🚖 [See comment](http://9gag.com/gag/a1Pbq18)
+ - 🚯 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
+ - 🚯 [Before and after](http://9gag.com/gag/aBdWv1Z)<!-- MEMES:END -->
 
 --- 
 
