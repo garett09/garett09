@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hello traveler…have ye heard about TikTok Dabloons?](https://www.theverge.com/2022/11/24/23476821/what-is-tiktok-dabloons-meme-rpg-game-trend)
- - [Best Black Friday HomeKit deals on smart lighting, locks &amp; more](https://appleinsider.com/articles/22/11/24/best-black-friday-homekit-deals-on-smart-lighting-locks-more?utm_medium=rss)
- - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)<!-- TECH:END -->
+ - [Google&#39;s Project Zero reported five security flaws in devices with Mali GPUs in the summer, but Samsung, Xiaomi, Google, and others are yet to release patches &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221124/p20#a221124p20)
+ - [The top 15 Canada Black Friday deals available right now](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)
+ - [Black Friday Deals Under $25: Cheap Tech, Toys and More     - CNET](https://www.cnet.com/deals/black-friday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
