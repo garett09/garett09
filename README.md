@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hibernator’s Guide to the Galaxy](https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy/)
- - [Dubious rumor claims Apple scrapped a $49 Apple Pencil for iPhone](https://appleinsider.com/articles/22/11/24/dubious-rumor-claims-apple-scrapped-a-49-apple-pencil-for-iphone?utm_medium=rss)
- - [A look at Huawei&#39;s future in Europe, as sources say the company is scaling back in the UK, France, and Belgium to focus on China, following US sanctions &lpar;Politico&rpar;](http://www.techmeme.com/221124/p9#a221124p9)<!-- TECH:END -->
+ - [Apple scrapped a $49 Apple Pencil for iPhone, claims rumor](https://appleinsider.com/articles/22/11/24/dubious-rumor-claims-apple-scrapped-a-49-apple-pencil-for-iphone?utm_medium=rss)
+ - [ConsenSys says it collects user data related to its on-chain wallet service MetaMask, following a similar announcement by decentralized exchange Uniswap &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/221124/p13#a221124p13)
+ - [65daysofstatic&#39;s &#39;Wreckage Systems&#39; Pushes Algorithmic Music](https://www.wired.com/story/65daysofstatic-wreckage-systems-infinite-audio/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
