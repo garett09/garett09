@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Adam, The Woman King, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/11/23/23470937/new-movies-watch-black-adam-vod-the-woman-king-vod-the-noel-story-netflix)
- - [Pokémon Scarlet And Violet Are The Fastest-Selling Games In The History Of Nintendo](https://kotaku.com/pokemon-scarlet-violet-bugs-best-seller-nintendo-switch-1849818749)
- - [Pokémon Scarlet and Violet sell 10M copies in spite of performance complaints](https://www.polygon.com/pokemon/23475973/pokemon-scarlet-violet-sells-10-million-copies-nintedo-switch)<!-- GAME:END -->
+ - [Expensive Cars Have DLC Now, And It&#39;s Taking The Piss](https://kotaku.com/mercedes-bmw-car-dlc-subscription-unlock-video-games-1849818834)
+ - [What do Darktide&#39;s weapon symbols mean?](https://www.pcgamer.com/darktide-weapon-symbols-stats-icons)
+ - [Warzone 2 DMZ is more like an MMO than an extraction shooter](https://www.pcgamer.com/call-of-duty-warzone-2-dmz-is-the-mmo-i-didnt-know-i-wanted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
