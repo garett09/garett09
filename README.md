@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mortgage Refinance Rates on Nov. 24, 2022: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-24-2022-rates-decline/#ftag=CAD590a51e)
- - [Cool Holiday Gifts for Dads in 2022     - CNET](https://www.cnet.com/news/gifts-for-dad/#ftag=CAD590a51e)
- - [Mortgage Interest Rates Today for Nov. 24, 2022: Rates Decreased     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-nov-24-2022-rates-decreased/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [13 Best Soundbars for Every Budget &lpar;2022&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
+ - [Onyx Boox Leaf 2 review: ebook freedom](https://www.theverge.com/23462322/onyx-boox-leaf-2-ebook-reader-review-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
