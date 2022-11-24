@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German humor](http://9gag.com/gag/amAYQG4)
- - 🚯 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - 🚯 [Sneaky b*stard.](http://9gag.com/gag/aL1D3mM)<!-- MEMES:END -->
+ - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 🚯 [Russian soldier hid under the bed in Kherson, but nobody was left behind.](http://9gag.com/gag/aZDm5n6)
+ - 🚯 [God for Ass](http://9gag.com/gag/aeQbBAQ)<!-- MEMES:END -->
 
 --- 
 
