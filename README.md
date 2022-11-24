@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See comment](http://9gag.com/gag/a1Pbq18)
- - 🚯 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
- - 🚯 [Before and after](http://9gag.com/gag/aBdWv1Z)<!-- MEMES:END -->
+ - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
+ - 🚯 [Belgian minister of foreign affairs dare to stand up to fifa boss Infantino while wearing a &#39;one love&#39; band in the stadion of Qatar. She has also a islamic background](http://9gag.com/gag/axoVQw1)
+ - 🚯 [What movie is this](http://9gag.com/gag/aPgBzzB)<!-- MEMES:END -->
 
 --- 
 
