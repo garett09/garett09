@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Lost $17,000 in Crypto. Here’s How to Avoid My Mistake](https://www.wired.com/story/i-lost-17000-dollars-crypto-how-to-avoid/)
- - [Apollo Air 2022 Review: Reliable but Quirky](https://www.wired.com/review/apollo-air-2022/)
- - [Why the worst recipes imaginable are blowing up on TikTok](https://www.theverge.com/2022/11/24/23471033/tiktok-thanksgiving-food-recipes-ragebait-chefs-elis-kitchen-jane-brain)<!-- TECH:END -->
+ - [Mortgage Refinance Rates on Nov. 24, 2022: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-24-2022-rates-decline/#ftag=CAD590a51e)
+ - [Cool Holiday Gifts for Dads in 2022     - CNET](https://www.cnet.com/news/gifts-for-dad/#ftag=CAD590a51e)
+ - [Mortgage Interest Rates Today for Nov. 24, 2022: Rates Decreased     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-nov-24-2022-rates-decreased/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
