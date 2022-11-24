@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 🚯 [Every damn time!](http://9gag.com/gag/aKEVXNg)
- - 🚯 [Dank?](http://9gag.com/gag/a4obB36)<!-- MEMES:END -->
+ - 🚖 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 🚯 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - 🚯 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)<!-- MEMES:END -->
 
 --- 
 
