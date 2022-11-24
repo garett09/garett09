@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - 🚯 [The Japanese national team left their changing room spotless after their historic World Cup win against Germany.](http://9gag.com/gag/aVbq8My)
- - 🚯 [Night shift](http://9gag.com/gag/a5XbA2q)<!-- MEMES:END -->
+ - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 🚯 [What? A fidget stick?](http://9gag.com/gag/aqebBWY)
+ - 🚯 [404 wife not found](http://9gag.com/gag/armbr20)<!-- MEMES:END -->
 
 --- 
 
