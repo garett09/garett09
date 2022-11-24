@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [13 Best Soundbars for Every Budget &lpar;2022&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Onyx Boox Leaf 2 review: ebook freedom](https://www.theverge.com/23462322/onyx-boox-leaf-2-ebook-reader-review-android)<!-- TECH:END -->
+ - [Best Black Friday Thunderbolt dock deals, save up to $100!](https://appleinsider.com/articles/22/11/24/best-black-friday-thunderbolt-dock-deals-save-up-to-100?utm_medium=rss)
+ - [One of the best Star Wars games in years is free on Epic right now](https://www.theverge.com/2022/11/24/23472969/star-wars-squadrons-free-epic-games-store)
+ - [People are definitely eating pokémon in Scarlet and Violet](https://www.theverge.com/23466811/pokemon-scarlet-violet-eating-klawf-toedscool-food)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
