@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Thursday, November 24](https://www.pcgamer.com/wordle-523-answer-november-24)
- - [Early access game The Last Leviathan is about to be delisted](https://www.pcgamer.com/early-access-game-the-last-leviathan-is-about-to-be-delisted)
- - [Our favorite weapons for each class in Darktide](https://www.pcgamer.com/darktide-best-weapons)<!-- GAME:END -->
+ - [New Skyrim high-poly garlic mod has way more optimized vertices than the last high-poly Skyrim garlic mod](https://www.pcgamer.com/new-skyrim-high-poly-garlic-mod-has-way-more-optimized-vertices-than-the-last-high-poly-skyrim-garlic-mod)
+ - [Black Friday gaming monitor deals 2022: big-screen, high-refresh, and even 4K discount funkiness](https://www.pcgamer.com/black-friday-gaming-monitor-deals)
+ - [Black Friday gaming headset deals 2022: discounts that are music to our ears](https://www.pcgamer.com/black-friday-gaming-headset-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
