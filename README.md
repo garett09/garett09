@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All three founders of online trading service Pipe are stepping down as the company looks for a &quot;veteran&quot; CEO; Pipe raised $250M at a $2B valuation in May 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221123/p24#a221123p24)
  - [Sources: US senators raise concerns as hundreds of China-made DJI recreational drones have violated restricted airspace over Washington, DC in recent months &lpar;Politico&rpar;](http://www.techmeme.com/221123/p23#a221123p23)
- - [The best Black Friday deals on gaming laptops](https://www.theverge.com/23472236/black-friday-2022-gaming-laptop-deals-cyber-monday-acer-asus-alienware-dell)
- - [The 14 Black Friday Deals Everyone Has in Their Cart     - CNET](https://www.cnet.com/deals/the-14-black-friday-deals-everyone-has-in-their-cart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals on gaming laptops](https://www.theverge.com/23472236/black-friday-2022-gaming-laptop-deals-cyber-monday-acer-asus-alienware-dell)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
