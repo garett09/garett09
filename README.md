@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
- - 🚯 [How oil filters are made manually](http://9gag.com/gag/aKEVZ3N)
- - 🚯 [German humor](http://9gag.com/gag/amAYQG4)<!-- MEMES:END -->
+ - 🚖 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
+ - 🚯 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
 
 --- 
 
