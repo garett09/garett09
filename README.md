@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Apple Black Friday deals: $550 off iPad Pro, $99 64GB Apple TV, $499 iPad Air, $500 off MacBook Pro, $199 AirPods Pro 2](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
- - [Best Black Friday deals on 4K monitors, for as low as $199](https://appleinsider.com/articles/22/11/24/the-best-black-friday-deals-on-4k-monitors-for-as-low-as-199?utm_medium=rss)
- - [Best Black Friday Thunderbolt dock deals, save up to $100!](https://appleinsider.com/articles/22/11/24/best-black-friday-thunderbolt-dock-deals-save-up-to-100?utm_medium=rss)<!-- TECH:END -->
+ - [Hello traveler…have ye heard about TikTok Dabloons?](https://www.theverge.com/2022/11/24/23476821/what-is-tiktok-dabloons-meme-rpg-game-trend)
+ - [Best Black Friday HomeKit deals on smart lighting, locks &amp; more](https://appleinsider.com/articles/22/11/24/best-black-friday-homekit-deals-on-smart-lighting-locks-more?utm_medium=rss)
+ - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
