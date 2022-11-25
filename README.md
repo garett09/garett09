@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max failing to play content for some Apple TV 4K users](https://appleinsider.com/articles/22/11/25/hbo-max-failing-to-play-content-for-some-apple-tv-4k-users?utm_medium=rss)
- - [Report: several US states are investigating Genesis Global as part of an inquiry into interconnectedness of crypto firms, securities laws violations, and more &lpar;Christiana Loureiro/The Block&rpar;](http://www.techmeme.com/221125/p9#a221125p9)
- - [Get up to a 51% discount on Amazfit smartwatches with these Black Friday deals](https://www.androidauthority.com/amazfit-black-friday-3241471/)<!-- TECH:END -->
+ - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)
+ - [iRobot’s terrific Roomba i3 Plus EVO is on sale for $200 off for Black Friday](https://www.theverge.com/2022/11/25/23478206/irobot-roomba-i3-plus-evo-robot-vaccum-black-friday-deal-cyber-monday-sale)
+ - [Save up to $280 on these Amazon Eero Black Friday deals](https://www.androidauthority.com/eero-black-friday-3241483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
