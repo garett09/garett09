@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [The best Black Friday deals under $25](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
- - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)<!-- TECH:END -->
+ - [The best Black Friday streaming deals on Hulu, HBO Max, Paramount Plus, and more](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
+ - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
+ - [Get up to 50% off with these JBL Black Friday deals](https://www.androidauthority.com/jbl-black-friday-3241452/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
