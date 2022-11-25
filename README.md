@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [53 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022/)
- - [Best Black Friday iPad deals: prices as low as $269, live updates](https://appleinsider.com/articles/22/11/25/best-black-friday-ipad-deals-prices-as-low-as-269-live-updates?utm_medium=rss)
- - [Save up to 50% on audio as Bose enhances its Black Friday sale](https://www.androidauthority.com/bose-pre-black-friday-sale-3230875/)<!-- TECH:END -->
+ - [Germany-based Temedica, which offers a health data insight service to pharma companies, raised a &amp;euro;25M Series B extension, bringing its total Series B to &amp;euro;42M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221124/p22#a221124p22)
+ - [6 Tips to Spend Smarter and Avoid Debt This Black Friday and Cyber Monday     - CNET](https://www.cnet.com/personal-finance/6-tips-to-spend-smarter-and-avoid-debt-this-black-friday-and-cyber-monday/#ftag=CAD590a51e)
+ - [14 Best Black Friday Google Device Deals &lpar;2022&rpar;: Pixel 7, Pixel Watch, Nest Cam](https://www.wired.com/story/best-black-friday-google-device-deals-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
