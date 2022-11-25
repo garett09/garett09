@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - 🚯 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - 🚯 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)<!-- MEMES:END -->
+ - 🚖 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 🚯 [Women](http://9gag.com/gag/a2Kr39e)
+ - 🚯 [We meet again](http://9gag.com/gag/aPgB53Q)<!-- MEMES:END -->
 
 --- 
 
