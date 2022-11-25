@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best app to back up iPhone files to Mac or PC](https://appleinsider.com/articles/22/11/25/the-best-app-to-back-up-iphone-files-to-mac-or-pc?utm_medium=rss)
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Is Amazon Pushing Prices Higher? Legal Wars Are Waging to Prove It     - CNET](https://www.cnet.com/tech/services-and-software/is-amazon-overcharging-you-legal-wars-are-waging-to-prove-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
+ - [Foxconn paid 20,000 rioting workers to leave the company](https://appleinsider.com/articles/22/11/25/foxconn-paid-20000-rioting-workers-to-leave-the-company?utm_medium=rss)
+ - [Don&#39;t Miss Béis&#39; Only Sale of the Year     - CNET](https://www.cnet.com/deals/dont-miss-beis-only-sale-of-the-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
