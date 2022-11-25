@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)
- - 🚯 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - 🚯 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)<!-- MEMES:END -->
+ - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - 🚯 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
+ - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)<!-- MEMES:END -->
 
 --- 
 
