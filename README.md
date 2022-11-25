@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Gathering](https://blog.playstation.com/2022/11/25/share-of-the-week-gathering/)
- - [The excellent spacefighter sim Star Wars: Squadrons is free on the Epic store](https://www.pcgamer.com/the-excellent-spacefighter-sim-star-wars-squadrons-is-free-on-the-epic-store)
- - [12 Extraordinary Games You&#39;ll Want On Your Wishlist Straight Away](https://kotaku.com/steam-pc-demo-indie-trailer-wishlist-fps-indiegeddon-1849822010)<!-- GAME:END -->
+ - [Leonor Will Never Die rethinks Being John Malkovich in an era of movie obsession](https://www.polygon.com/reviews/23475458/leonor-will-never-die-review)
+ - [Black Friday gaming headset deals 2022: discounts that are music to our ears](https://www.pcgamer.com/black-friday-gaming-headset-deals)
+ - [Share of the Week: Gathering](https://blog.playstation.com/2022/11/25/share-of-the-week-gathering/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
