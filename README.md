@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet And Violet’s ‘Free Exploration’ Isn’t All It’s Cracked Up To Be](https://kotaku.com/pokemon-scarlet-violet-paldea-exploration-gym-battles-1849819034)
- - [How To Catch And Evolve Eevee In Pokémon Scarlet and Violet This Weekend](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-evolve-eevee-1849821727)
- - [Strange World’s directors explain the Disney movie’s unexpected ending and allegorical twist](https://www.polygon.com/23475439/strange-world-ending-spoilers)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Saga of Sins: new creature announcement](https://blog.playstation.com/2022/11/25/saga-of-sins-new-creature-announcement/)
+ - [The 30 best couch co-op games for Nintendo Switch](https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
