@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday laptop deals](https://www.theverge.com/23473739/black-friday-2022-laptop-deals-cyber-monday-apple-microsoft-amazon)
- - [Black Friday Deals: 345+ Best Black Friday Deals at Amazon, Best Buy and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-2022-live-updates/#ftag=CAD590a51e)
- - [Apple&#39;s 14-inch MacBook Pro with 32GB RAM is at the lowest price we&#39;ve seen this Black Friday](https://appleinsider.com/articles/22/11/25/apples-14-inch-macbook-pro-with-32gb-ram-is-at-the-lowest-price-weve-seen-this-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [The best Black Friday deals under $25](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
+ - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
