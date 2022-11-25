@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - 🚯 [I don\u2019t know. Also eating too spicy after turning 30\u2026you know you shouldn\u2019t\u2026](http://9gag.com/gag/armb76X)
- - 🚯 [Music is legit though](http://9gag.com/gag/aYVxX60)<!-- MEMES:END -->
+ - 🚖 [Sneaky b*stard.](http://9gag.com/gag/aL1D3mM)
+ - 🚯 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
+ - 🚯 [Found this legend meme in my old files](http://9gag.com/gag/aA0d5Eo)<!-- MEMES:END -->
 
 --- 
 
