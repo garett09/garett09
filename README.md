@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meeting a person that matches your energy and vibe](http://9gag.com/gag/aKEVMWj)
- - 🚯 [Got em .](http://9gag.com/gag/aEqYNme)
- - 🚯 [Oh vy](http://9gag.com/gag/a2Kre89)<!-- MEMES:END -->
+ - 🚖 [Hot Dog](http://9gag.com/gag/aOxzMMD)
+ - 🚯 [Little fella called on the strength of his ancestors and fought like a lion](http://9gag.com/gag/aOxzXd3)
+ - 🚯 [Ashamed roast chicken](http://9gag.com/gag/adP7Ezd)<!-- MEMES:END -->
 
 --- 
 
