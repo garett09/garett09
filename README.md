@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
- - 🚯 [Multitasking](http://9gag.com/gag/az28D1B)<!-- MEMES:END -->
+ - 🚖 [Meeting a person that matches your energy and vibe](http://9gag.com/gag/aKEVMWj)
+ - 🚯 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 🚯 [Oh vy](http://9gag.com/gag/a2Kre89)<!-- MEMES:END -->
 
 --- 
 
