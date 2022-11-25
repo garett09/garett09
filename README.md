@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 🚯 [Oh vy](http://9gag.com/gag/a2Kre89)
- - 🚯 [A black japanese. I can die in peace.](http://9gag.com/gag/a4obXq6)<!-- MEMES:END -->
+ - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
+ - 🚯 [Little fella called on the strength of his ancestors and fought like a lion](http://9gag.com/gag/aOxzXd3)
+ - 🚯 [Here is some `propaganda` for you. Su-57 is a big f**king DIY project. Change my mind.](http://9gag.com/gag/a9qr96W)<!-- MEMES:END -->
 
 --- 
 
