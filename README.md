@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 update purges &#39;wholly unacceptable content&#39; from its gallery](https://www.pcgamer.com/sims-4-update-purges-wholly-unacceptable-content-from-its-gallery)
- - [Here&#39;s how to start crafting in Warhammer 40K Darktide](https://www.pcgamer.com/warhammer-40000-darktide-crafting-diamantine-plasteel)
- - [All Genshin Impact codes from the version 3.3 livestream](https://www.pcgamer.com/genshin-impact-codes-3-3-livestream)<!-- GAME:END -->
+ - [Strange World’s directors explain the Disney movie’s unexpected ending and allegorical twist](https://www.polygon.com/23475439/strange-world-ending-spoilers)
+ - [Genshin Impact Version 3.3: Time for a game of cards](https://blog.playstation.com/2022/11/25/genshin-impact-version-3-3-time-for-a-game-of-cards/)
+ - [Sims 4 Gallery Update Removes All Your NSFW Creations](https://kotaku.com/the-sims-4-gallery-ea-nsfw-porn-filter-profanity-1849821666)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
