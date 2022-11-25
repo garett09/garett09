@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything in the Verge merch store is half off for Black Friday!](https://www.theverge.com/23477816/verge-merch-store-black-friday-cyber-monday-sale-2022)
- - [The best Black Friday deals you can get at Target](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)
- - [Spotify wanted amateurs to make podcasts — now one of their shows is topping the charts](https://www.theverge.com/2022/11/25/23475382/psychology-of-your-20s-podcast-spotify-anchor-hit)<!-- TECH:END -->
+ - [Best Black Friday deals on iPhone cases](https://appleinsider.com/articles/22/11/25/best-black-friday-deals-on-iphone-cases?utm_medium=rss)
+ - [27 Best Video Game Black Friday Deals &lpar;2022&rpar;: Switch, Playstation and Xbox](https://www.wired.com/story/best-black-friday-video-game-deals-2022/)
+ - [10 Black Friday Deals That Are at Historic Low Prices Right Now     - CNET](https://www.cnet.com/deals/10-black-friday-deals-that-are-at-historic-low-prices-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
