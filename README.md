@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 🚯 [Women](http://9gag.com/gag/a2Kr39e)
- - 🚯 [We meet again](http://9gag.com/gag/aPgB53Q)<!-- MEMES:END -->
+ - 🚖 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)
+ - 🚯 [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - 🚯 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)<!-- MEMES:END -->
 
 --- 
 
