@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)
- - [iRobot’s terrific Roomba i3 Plus EVO is on sale for $200 off for Black Friday](https://www.theverge.com/2022/11/25/23478206/irobot-roomba-i3-plus-evo-robot-vaccum-black-friday-deal-cyber-monday-sale)
- - [Save up to $280 on these Amazon Eero Black Friday deals](https://www.androidauthority.com/eero-black-friday-3241483/)<!-- TECH:END -->
+ - [Black Friday Deals: Shop 345+ Deals at Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-2022-live-updates/#ftag=CAD590a51e)
+ - [These Samsung Black Friday phone deals have sent Amazon prices spiraling](https://www.androidauthority.com/samsung-black-friday-phone-deals-3236580/)
+ - [Best VR Headsets of 2022     - CNET](https://www.cnet.com/tech/gaming/best-vr-headsets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
