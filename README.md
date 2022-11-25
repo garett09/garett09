@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange World’s directors explain the Disney movie’s unexpected ending and allegorical twist](https://www.polygon.com/23475439/strange-world-ending-spoilers)
- - [Genshin Impact Version 3.3: Time for a game of cards](https://blog.playstation.com/2022/11/25/genshin-impact-version-3-3-time-for-a-game-of-cards/)
- - [Sims 4 Gallery Update Removes All Your NSFW Creations](https://kotaku.com/the-sims-4-gallery-ea-nsfw-porn-filter-profanity-1849821666)<!-- GAME:END -->
+ - [Pokémon Scarlet And Violet’s ‘Free Exploration’ Isn’t All It’s Cracked Up To Be](https://kotaku.com/pokemon-scarlet-violet-paldea-exploration-gym-battles-1849819034)
+ - [How To Catch And Evolve Eevee In Pokémon Scarlet and Violet This Weekend](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-evolve-eevee-1849821727)
+ - [Strange World’s directors explain the Disney movie’s unexpected ending and allegorical twist](https://www.polygon.com/23475439/strange-world-ending-spoilers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
