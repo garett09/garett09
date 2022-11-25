@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
- - 🚯 [Best part of the movie](http://9gag.com/gag/aA0dzp0)
- - 🚯 [Hadis Najafi, medical student who was killed in the recent protests in iran dancing with her mom.](http://9gag.com/gag/a9qrg2o)<!-- MEMES:END -->
+ - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - 🚯 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
+ - 🚯 [Put some tittle here](http://9gag.com/gag/ay2Dbpp)<!-- MEMES:END -->
 
 --- 
 
