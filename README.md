@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
- - 🚯 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
- - 🚯 [Let&#39;s get a nice little explosion](http://9gag.com/gag/aGE14WX)<!-- MEMES:END -->
+ - 🚖 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
+ - 🚯 [I don\u2019t know. Also eating too spicy after turning 30\u2026you know you shouldn\u2019t\u2026](http://9gag.com/gag/armb76X)
+ - 🚯 [Music is legit though](http://9gag.com/gag/aYVxX60)<!-- MEMES:END -->
 
 --- 
 
