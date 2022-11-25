@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
- - [Happy Thanksgiving from AppleInsider](https://appleinsider.com/articles/22/11/24/happy-thanksgiving-from-appleinsider?utm_medium=rss)
- - [263+ Best Black Friday Deals Available to Buy Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [53 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022/)
+ - [Best Black Friday iPad deals: prices as low as $269, live updates](https://appleinsider.com/articles/22/11/25/best-black-friday-ipad-deals-prices-as-low-as-269-live-updates?utm_medium=rss)
+ - [Save up to 50% on audio as Bose enhances its Black Friday sale](https://www.androidauthority.com/bose-pre-black-friday-sale-3230875/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
