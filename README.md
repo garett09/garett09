@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: This is the phone brand you want most in your country](https://www.androidauthority.com/phone-brand-want-most-your-country-poll-results-3241244/)
- - [Watching &#39;1899&#39; on Netflix? Make Sure You Change This Setting     - CNET](https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-make-sure-you-change-this-setting/#ftag=CAD590a51e)
- - [68 Best Target Black Friday Deals &lpar;2022&rpar;: Apple, Nintendo, and Dyson](https://www.wired.com/story/best-target-black-friday-deals-2022/)<!-- TECH:END -->
+ - [21 Best Walmart Black Friday Deals &lpar;2022&rpar;: TVs, Earbuds, Meta Quest 2, and More](https://www.wired.com/story/best-walmart-black-friday-deals-2022/)
+ - [Save up to $200 on these Beats Black Friday deals](https://www.androidauthority.com/beats-black-friday-deals-2022-3241248/)
+ - [We asked, you told us: This is the phone brand you want most in your country](https://www.androidauthority.com/phone-brand-want-most-your-country-poll-results-3241244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
