@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is the right answer?](http://9gag.com/gag/aPgBN6R)
+ - 🚖 [A black japanese. I can die in peace.](http://9gag.com/gag/a4obXq6)
  - 🚯 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
- - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)<!-- MEMES:END -->
+ - 🚯 [Land of the.. free? &lpar;8:35&rpar;](http://9gag.com/gag/a6qbgVA)<!-- MEMES:END -->
 
 --- 
 
