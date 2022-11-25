@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
- - 🚯 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
- - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)<!-- MEMES:END -->
+ - 🚖 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
+ - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
+ - 🚯 [Multitasking](http://9gag.com/gag/az28D1B)<!-- MEMES:END -->
 
 --- 
 
