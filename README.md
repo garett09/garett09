@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
- - 🚯 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
- - 🚯 [Put some tittle here](http://9gag.com/gag/ay2Dbpp)<!-- MEMES:END -->
+ - 🚖 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 🚯 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - 🚯 [Let&#39;s get a nice little explosion](http://9gag.com/gag/aGE14WX)<!-- MEMES:END -->
 
 --- 
 
