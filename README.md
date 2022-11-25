@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- GAME:START -->
  - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)
  - [The best Newegg deals this Black Friday](https://www.pcgamer.com/the-best-newegg-deals-this-black-friday)
- - [A No Man&#39;s Sky standalone app lets you create bases and import them into the game](https://www.pcgamer.com/a-no-mans-sky-standalone-app-lets-you-design-bases-and-import-them-into-the-game)<!-- GAME:END -->
+ - [This Week on Xbox: Black Friday Deals, New Games, and Game Pass Additions](https://news.xbox.com/en-us/2022/11/25/this-week-on-xbox-black-friday-deals-new-games-and-game-pass-additions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
