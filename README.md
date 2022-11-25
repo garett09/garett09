@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday streaming deals on Hulu, HBO Max, Paramount Plus, and more](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
- - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
- - [Get up to 50% off with these JBL Black Friday deals](https://www.androidauthority.com/jbl-black-friday-3241452/)<!-- TECH:END -->
+ - [HBO Max failing to play content for some Apple TV 4K users](https://appleinsider.com/articles/22/11/25/hbo-max-failing-to-play-content-for-some-apple-tv-4k-users?utm_medium=rss)
+ - [Report: several US states are investigating Genesis Global as part of an inquiry into interconnectedness of crypto firms, securities laws violations, and more &lpar;Christiana Loureiro/The Block&rpar;](http://www.techmeme.com/221125/p9#a221125p9)
+ - [Get up to a 51% discount on Amazfit smartwatches with these Black Friday deals](https://www.androidauthority.com/amazfit-black-friday-3241471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
