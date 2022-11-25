@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar wants GTA Online players to steal $2 trillion &lpar;yes, trillion&rpar; in a week](https://www.pcgamer.com/rockstar-wants-gta-online-players-to-steal-dollar2-trillion-yes-trillion-in-a-week)
- - [Black Friday gaming chair deals 2022: cheap seats for gamers and streamers](https://www.pcgamer.com/black-friday-gaming-chair-deals)
- - [Vampire Survivors Adds A Death Bridge](https://kotaku.com/vampire-survivors-poncle-pc-steam-xbox-game-pass-action-1849822202)<!-- GAME:END -->
+ - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)
+ - [The best Newegg deals this Black Friday](https://www.pcgamer.com/the-best-newegg-deals-this-black-friday)
+ - [A No Man&#39;s Sky standalone app lets you create bases and import them into the game](https://www.pcgamer.com/a-no-mans-sky-standalone-app-lets-you-design-bases-and-import-them-into-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
