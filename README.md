@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 10 Pro is a fantastic deal at $550 for Black Friday](https://www.androidauthority.com/oneplus-10-pro-black-friday-amazon-3241258/)
- - [Elon Musk says Twitter will begin manually authenticating Blue, Grey, and Gold accounts as soon as next week](https://www.theverge.com/2022/11/25/23477550/twitter-manual-verification-blue-checkmark-gold-grey)
- - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [6 Best Black Friday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-black-friday-sonos-deals-2022-1/)
+ - [18 Best Kitchen and Home Deals for Black Friday &lpar;2022&rpar;: Cookware, Vacs, and More](https://www.wired.com/story/best-black-friday-kitchen-and-home-deals-2022/)
+ - [Up to 57% off Beats headphones in Black Friday sale](https://appleinsider.com/articles/22/11/25/up-to-57-off-beats-headphones-in-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
