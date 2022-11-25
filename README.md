@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Black Friday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-black-friday-sonos-deals-2022-1/)
- - [18 Best Kitchen and Home Deals for Black Friday &lpar;2022&rpar;: Cookware, Vacs, and More](https://www.wired.com/story/best-black-friday-kitchen-and-home-deals-2022/)
- - [Up to 57% off Beats headphones in Black Friday sale](https://appleinsider.com/articles/22/11/25/up-to-57-off-beats-headphones-in-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Nomad iPhone, AirPods, and AirTags accessories are up to 90% off for Black Friday](https://appleinsider.com/articles/22/11/25/nomad-iphone-airpods-and-airtags-accessories-are-up-to-90-off-for-black-friday?utm_medium=rss)
+ - [Get up to 57% off Beats headphones in Black Friday sale](https://appleinsider.com/articles/22/11/25/up-to-57-off-beats-headphones-in-black-friday-sale?utm_medium=rss)
+ - [Holiday deal: save 60% on a 1-year Sam&#39;s Club membership, now $19.99](https://appleinsider.com/articles/22/11/25/holiday-deal-save-60-on-a-1-year-sams-club-membership-now-1999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
