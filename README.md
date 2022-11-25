@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Saga of Sins: new creature announcement](https://blog.playstation.com/2022/11/25/saga-of-sins-new-creature-announcement/)
- - [The 30 best couch co-op games for Nintendo Switch](https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch)<!-- GAME:END -->
+ - [Share of the Week: Gathering](https://blog.playstation.com/2022/11/25/share-of-the-week-gathering/)
+ - [The excellent spacefighter sim Star Wars: Squadrons is free on the Epic store](https://www.pcgamer.com/the-excellent-spacefighter-sim-star-wars-squadrons-is-free-on-the-epic-store)
+ - [12 Extraordinary Games You&#39;ll Want On Your Wishlist Straight Away](https://kotaku.com/steam-pc-demo-indie-trailer-wishlist-fps-indiegeddon-1849822010)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
