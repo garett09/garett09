@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hot Dog](http://9gag.com/gag/aOxzMMD)
- - 🚯 [Little fella called on the strength of his ancestors and fought like a lion](http://9gag.com/gag/aOxzXd3)
- - 🚯 [Ashamed roast chicken](http://9gag.com/gag/adP7Ezd)<!-- MEMES:END -->
+ - 🚖 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 🚯 [Oh vy](http://9gag.com/gag/a2Kre89)
+ - 🚯 [A black japanese. I can die in peace.](http://9gag.com/gag/a4obXq6)<!-- MEMES:END -->
 
 --- 
 
