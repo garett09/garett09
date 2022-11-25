@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday TV deals: up to $2,000 off LG, Samsung, Sony 4K &amp; OLED models](https://appleinsider.com/articles/22/11/25/best-black-friday-tv-deals-up-to-2000-off-lg-samsung-sony-4k-oled-models?utm_medium=rss)
- - [The Galaxy S23 series could offer satellite support with a key upgrade](https://www.androidauthority.com/samsung-galaxy-s23-satellite-connectivity-3239529/)
- - [B&amp;H&#39;s Black Friday Deal Zone knocks $400 off Apple&#39;s loaded MacBook Pro 13-inch with M1](https://appleinsider.com/articles/22/11/25/bhs-black-friday-deal-zone-knocks-400-off-apples-loaded-macbook-pro-13-inch-with-m1?utm_medium=rss)<!-- TECH:END -->
+ - [We asked, you told us: This is the phone brand you want most in your country](https://www.androidauthority.com/phone-brand-want-most-your-country-poll-results-3241244/)
+ - [Watching &#39;1899&#39; on Netflix? Make Sure You Change This Setting     - CNET](https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-make-sure-you-change-this-setting/#ftag=CAD590a51e)
+ - [68 Best Target Black Friday Deals &lpar;2022&rpar;: Apple, Nintendo, and Dyson](https://www.wired.com/story/best-target-black-friday-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
