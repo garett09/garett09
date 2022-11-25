@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
- - 🚯 [Little fella called on the strength of his ancestors and fought like a lion](http://9gag.com/gag/aOxzXd3)
- - 🚯 [Here is some `propaganda` for you. Su-57 is a big f**king DIY project. Change my mind.](http://9gag.com/gag/a9qr96W)<!-- MEMES:END -->
+ - 🚖 [What is the right answer?](http://9gag.com/gag/aPgBN6R)
+ - 🚯 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
+ - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)<!-- MEMES:END -->
 
 --- 
 
