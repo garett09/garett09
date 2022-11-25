@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad iPhone, AirPods, and AirTags accessories are up to 90% off for Black Friday](https://appleinsider.com/articles/22/11/25/nomad-iphone-airpods-and-airtags-accessories-are-up-to-90-off-for-black-friday?utm_medium=rss)
- - [Get up to 57% off Beats headphones in Black Friday sale](https://appleinsider.com/articles/22/11/25/up-to-57-off-beats-headphones-in-black-friday-sale?utm_medium=rss)
- - [Holiday deal: save 60% on a 1-year Sam&#39;s Club membership, now $19.99](https://appleinsider.com/articles/22/11/25/holiday-deal-save-60-on-a-1-year-sams-club-membership-now-1999?utm_medium=rss)<!-- TECH:END -->
+ - [The best app to back up iPhone files to Mac or PC](https://appleinsider.com/articles/22/11/25/the-best-app-to-back-up-iphone-files-to-mac-or-pc?utm_medium=rss)
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [Is Amazon Pushing Prices Higher? Legal Wars Are Waging to Prove It     - CNET](https://www.cnet.com/tech/services-and-software/is-amazon-overcharging-you-legal-wars-are-waging-to-prove-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
