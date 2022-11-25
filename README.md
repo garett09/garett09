@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 🚯 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - 🚯 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)<!-- MEMES:END -->
+ - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 🚯 [Movie name &#39;The Package &#39;](http://9gag.com/gag/aA0dN2R)
+ - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
 
 --- 
 
