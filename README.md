@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
- - 🚯 [Movie name &#39;The Package &#39;](http://9gag.com/gag/aA0dN2R)
- - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
+ - 🚖 [Found this legend meme in my old files](http://9gag.com/gag/aA0d5Eo)
+ - 🚯 [Its evolving](http://9gag.com/gag/aBdWepO)
+ - 🚯 [As a fat person &lpar;no way that fat&rpar; After i saw this this was my motivation to go to the gym and lose weight](http://9gag.com/gag/aWGmXX4)<!-- MEMES:END -->
 
 --- 
 
