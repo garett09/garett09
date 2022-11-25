@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
- - [Foxconn paid 20,000 rioting workers to leave the company](https://appleinsider.com/articles/22/11/25/foxconn-paid-20000-rioting-workers-to-leave-the-company?utm_medium=rss)
- - [Don&#39;t Miss Béis&#39; Only Sale of the Year     - CNET](https://www.cnet.com/deals/dont-miss-beis-only-sale-of-the-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals on smart home tech](https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday)
+ - [The best Black Friday deals under $50](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)
+ - [My Favorite MagSafe Accessory Is on Sale For Black Friday, But There&#39;s a Catch     - CNET](https://www.cnet.com/tech/mobile/my-favorite-magsafe-accessory-is-on-sale-for-black-friday-but-theres-a-catch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
