@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)
- - 🚯 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - 🚯 [Body blender slide](http://9gag.com/gag/abvpn88)<!-- MEMES:END -->
+ - 🚖 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 🚯 [Body blender slide](http://9gag.com/gag/abvpn88)
+ - 🚯 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
 
 --- 
 
