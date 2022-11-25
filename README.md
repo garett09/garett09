@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sneaky b*stard.](http://9gag.com/gag/aL1D3mM)
- - 🚯 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
- - 🚯 [Found this legend meme in my old files](http://9gag.com/gag/aA0d5Eo)<!-- MEMES:END -->
+ - 🚖 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)
+ - 🚯 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
+ - 🚯 [Body blender slide](http://9gag.com/gag/abvpn88)<!-- MEMES:END -->
 
 --- 
 
