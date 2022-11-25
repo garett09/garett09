@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)
- - [The best Newegg deals this Black Friday](https://www.pcgamer.com/the-best-newegg-deals-this-black-friday)
- - [This Week on Xbox: Black Friday Deals, New Games, and Game Pass Additions](https://news.xbox.com/en-us/2022/11/25/this-week-on-xbox-black-friday-deals-new-games-and-game-pass-additions/)<!-- GAME:END -->
+ - [The best gaming headset is on sale for $54.99 for Black Friday](https://www.pcgamer.com/black-friday-best-gaming-headset-deal)
+ - [Finally, a free game about skateboard witches fighting corporate evil](https://www.pcgamer.com/finally-a-free-game-about-skateboard-witches-fighting-corporate-evil)
+ - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
