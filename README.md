@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)
- - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
- - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)<!-- MEMES:END -->
+ - 🚖 [That smile](http://9gag.com/gag/awZn651)
+ - 🚯 [Warning there no going back!](http://9gag.com/gag/a7qDv0e)
+ - 🚯 [Sometimes I `poop` a little longer in the bathroom to recharge](http://9gag.com/gag/a4oGpEA)<!-- MEMES:END -->
 
 --- 
 
