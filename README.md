@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [131 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-2/)
- - [23 Best Black Friday Ebike and Escooter Deals &lpar;2022&rpar;: Bike Accessories and More](https://www.wired.com/story/best-black-friday-ebike-escooter-deals-2022-1/)
- - [How to update apps on Apple TV 4K](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-update-apps-on-apple-tv-4k?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday deals at Amazon that you can still get](https://www.theverge.com/2022/11/25/23477656/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
+ - [Apple Tracks You More Than You Think](https://www.wired.com/story/apple-iphone-privacy-analytics-security-roundup/)
+ - [Mixfly ultra-compact Apple Watch charger review: Good enough, and inexpensive](https://appleinsider.com/articles/22/11/26/mixfly-ultra-compact-apple-watch-charger-review-good-enough-and-inexpensive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
