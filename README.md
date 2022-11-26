@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)
- - 🚯 [Two climate activists glued themselves to the conductors stand in Germany. These people feel so morally superior. More in comments.](http://9gag.com/gag/avQ70PZ)
- - 🚯 [Ukrainian soldiers in new winter gear](http://9gag.com/gag/awZQrgr)<!-- MEMES:END -->
+ - 🚖 [Warning there no going back!](http://9gag.com/gag/a7qDv0e)
+ - 🚯 [Pure derp](http://9gag.com/gag/aVbMz9n)
+ - 🚯 [Changing the driver during a visit in a safari park with wild animals](http://9gag.com/gag/aL18KAz)<!-- MEMES:END -->
 
 --- 
 
