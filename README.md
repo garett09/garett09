@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Earthworm Jim](http://9gag.com/gag/aVbqnGM)
- - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
- - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)<!-- MEMES:END -->
+ - 🚖 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)
+ - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
+ - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)<!-- MEMES:END -->
 
 --- 
 
