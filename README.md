@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I bought a Google Pixel in an unsupported country; here’s what you should know](https://www.androidauthority.com/google-pixel-unsupported-country-3238240/)
- - [5 Tips to Make Your Home Workout Space One You&#39;ll Actually Use     - CNET](https://www.cnet.com/health/fitness/5-tips-to-make-your-home-workout-space-one-youll-actually-use/#ftag=CAD590a51e)
- - [Pok Pok Playroom Kids&#39; Game Subscription Is the Perfect Gift for Families     - CNET](https://www.cnet.com/tech/services-and-software/pok-pok-playroom-kids-game-subscription-is-the-perfect-gift-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24 Best Black Friday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-black-friday-coffee-deals-2022-1/)
+ - [The best Black Friday deals on gaming laptops you can still get](https://www.theverge.com/23472236/black-friday-2022-gaming-laptop-deals-cyber-monday-acer-asus-alienware-dell)
+ - [The best Black Friday deals you can still get on 4K TVs](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
