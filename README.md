@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Black Friday Deals Under $50: 70+ Sales on Tech, Toys, Home and More     - CNET](https://www.cnet.com/deals/black-friday-deals-under-50/#ftag=CAD590a51e)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)
- - [Get an Oura Smart Ring for $50 Off Before Black Friday Ends     - CNET](https://www.cnet.com/deals/black-friday-oura-smart-ring-50-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts and employees detail Uber&#39;s struggles in Pakistan as it discontinues service in five cities, cuts spending, and faces increased competition from inDrive &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/221125/p13#a221125p13)
+ - [63 Best Black Friday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-black-friday-laptop-deals-2022-1/)
+ - [60 Best Black Friday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
