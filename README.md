@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Every Programmer Drops His Heart For A Second](http://9gag.com/gag/a4obDZv)
- - 🚯 [Most Sober England Supporter](http://9gag.com/gag/aKED4q3)
- - 🚯 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)<!-- MEMES:END -->
+ - 🚯 [Dodge 100](http://9gag.com/gag/a3ZMPD8)
+ - 🚯 [Time to go `home`](http://9gag.com/gag/aMEA19A)<!-- MEMES:END -->
 
 --- 
 
