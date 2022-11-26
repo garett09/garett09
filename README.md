@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)
- - [Cyber Monday SSD deals 2022: there&#39;s never been a better, or cheaper time to bag an SSD](https://www.pcgamer.com/cyber-monday-ssd-deals)
- - [The best movies leaving Netflix, Hulu, Prime, and HBO Max at the end of November 2022](https://www.polygon.com/what-to-watch/2022/11/26/23471753/best-movies-netflix-amazon-hulu-hbo-leaving-november-2022)<!-- GAME:END -->
+ - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)
+ - [My tiny hands are all over the best 60% gaming keyboard in the Cyber Monday sales](https://www.pcgamer.com/my-tiny-hands-are-all-over-the-best-60-gaming-keyboard-in-the-black-friday-sales)
+ - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
