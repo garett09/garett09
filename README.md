@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every Programmer Drops His Heart For A Second](http://9gag.com/gag/a4obDZv)
- - 🚯 [Dodge 100](http://9gag.com/gag/a3ZMPD8)
- - 🚯 [Time to go `home`](http://9gag.com/gag/aMEA19A)<!-- MEMES:END -->
+ - 🚖 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)
+ - 🚯 [Two climate activists glued themselves to the conductors stand in Germany. These people feel so morally superior. More in comments.](http://9gag.com/gag/avQ70PZ)
+ - 🚯 [Ukrainian soldiers in new winter gear](http://9gag.com/gag/awZQrgr)<!-- MEMES:END -->
 
 --- 
 
