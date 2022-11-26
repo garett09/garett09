@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Walmart Black Friday Deals &lpar;2022&rpar;: TVs, Earbuds, and More](https://www.wired.com/story/best-walmart-black-friday-deals-2022-1/)
- - [11 Great Cyber Monday Bluetooth Speaker Deals That Are Available Now     - CNET](https://www.cnet.com/tech/home-entertainment/11-great-cyber-monday-bluetooth-speaker-deals-that-are-available-now/#ftag=CAD590a51e)
- - [63 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-2/)<!-- TECH:END -->
+ - [The Weekly Authority: 📱 Pixel 7’s 32-bit support](https://www.androidauthority.com/the-weekly-authority-november-26-2022-222-3240960/)
+ - [Analysis: AI startup funding has been around 9%-10% of global VC investment in recent years, led by robotics, autonomous vehicles, and enterprise software &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/221126/p2#a221126p2)
+ - [The Physics of Scuba Diving](https://www.wired.com/story/the-physics-of-scuba-diving/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
