@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Betrayed](http://9gag.com/gag/aGE139Z)
- - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
- - 🚯 [Guess the country](http://9gag.com/gag/avQG3D5)<!-- MEMES:END -->
+ - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
+ - 🚯 [A black japanese. I can die in peace.](http://9gag.com/gag/a4obXq6)
+ - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)<!-- MEMES:END -->
 
 --- 
 
