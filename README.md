@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Betrayed](http://9gag.com/gag/aGE139Z)
- - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
- - 🚯 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)<!-- MEMES:END -->
+ - 🚖 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)
+ - 🚯 [That&#39;s all it takes, just some tittens in your face](http://9gag.com/gag/ap9pezb)
+ - 🚯 [Yeah!](http://9gag.com/gag/ajVX2RQ)<!-- MEMES:END -->
 
 --- 
 
