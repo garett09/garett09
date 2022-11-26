@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Warning there no going back!](http://9gag.com/gag/a7qDv0e)
- - 🚯 [Pure derp](http://9gag.com/gag/aVbMz9n)
- - 🚯 [Changing the driver during a visit in a safari park with wild animals](http://9gag.com/gag/aL18KAz)<!-- MEMES:END -->
+ - 🚖 [He finally got the arm](http://9gag.com/gag/aKEVbpN)
+ - 🚯 [Body blender slide](http://9gag.com/gag/abvpn88)
+ - 🚯 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)<!-- MEMES:END -->
 
 --- 
 
