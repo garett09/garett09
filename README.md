@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 10 MacBook Black Friday Weekend Deals](https://appleinsider.com/articles/22/11/26/top-10-macbook-black-friday-weekend-deals?utm_medium=rss)
- - [The best Black Friday 2022 deals on headphones and earbuds](https://www.theverge.com/23475130/black-friday-2022-headphones-earbuds-deals-cyber-monday-airpods-bose-sony)
- - [Inside Zhengzhou&#39;s &quot;iPhone City&quot; lockdown, where China&#39;s zero COVID-19 policy, related propaganda and fears, and Foxconn&#39;s missteps led to the worker riots &lpar;South China Morning Post&rpar;](http://www.techmeme.com/221126/p1#a221126p1)<!-- TECH:END -->
+ - [AirPods Pro 2 are AirPods Max in your pocket, says Apple](https://appleinsider.com/articles/22/11/25/airpods-pro-2-are-airpods-max-in-your-pocket-says-apple?utm_medium=rss)
+ - [Amazon&#39;s $79 AirPods deal is back for Black Friday, AirPods Pro 2 $199](https://appleinsider.com/articles/22/11/25/amazons-79-airpods-deal-is-back-for-black-friday-airpods-pro-2-199?utm_medium=rss)
+ - [116 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
