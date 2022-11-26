@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Best Black Friday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-black-friday-coffee-deals-2022-1/)
- - [The best Black Friday deals on gaming laptops you can still get](https://www.theverge.com/23472236/black-friday-2022-gaming-laptop-deals-cyber-monday-acer-asus-alienware-dell)
- - [The best Black Friday deals you can still get on 4K TVs](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-460-3241479/)
+ - [How to enroll and unenroll your Mac in the Apple public beta program](https://appleinsider.com/inside/macos/tips/how-to-enroll-and-unenroll-your-mac-in-the-apple-public-beta-program?utm_medium=rss)
+ - [Daily deals Nov. 26: $500 off 16-inch M1 Pro MacBook Pro, $60 off Apple Watch Ultra, $169 Smart Keyboard Folio, more](https://appleinsider.com/articles/22/11/26/daily-deals-nov-26-500-off-16-inch-m1-pro-macbook-pro-60-off-apple-watch-ultra-169-smart-keyboard-folio-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
