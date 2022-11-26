@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - 🚯 [Satellite video of Indonesia earthquake.](http://9gag.com/gag/amAYQ8d)
- - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)<!-- MEMES:END -->
+ - 🚖 [Betrayed](http://9gag.com/gag/aGE139Z)
+ - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
+ - 🚯 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)<!-- MEMES:END -->
 
 --- 
 
