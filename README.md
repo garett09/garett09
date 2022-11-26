@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s talk about the hypothetical Wednesday season 2](https://www.polygon.com/23475058/wednesday-netflix-ending-season-2)
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
- - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)<!-- GAME:END -->
+ - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
+ - [Cyber Monday gaming headset deals 2022: giving the gift of great audio this deals season](https://www.pcgamer.com/cyber-monday-gaming-headset-deals)
+ - [Let’s talk about the hypothetical Wednesday season 2](https://www.polygon.com/23475058/wednesday-netflix-ending-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
