@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a symphony performing music from A Plague Tale: Requiem](https://www.pcgamer.com/heres-a-symphony-performing-music-from-a-plague-tale-requiem)
- - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)
- - [11 obscure PC ports that time forgot](https://www.pcgamer.com/11-obscure-pc-ports-that-time-forgot)<!-- GAME:END -->
+ - [Overwatch 2 tank Ramattra&#39;s abilities revealed in debut gameplay trailer](https://www.pcgamer.com/overwatch-2s-new-tank-ramattras-abilities-revealed-in-debut-gameplay-trailer)
+ - [Cyber Monday SSD deals 2022: there&#39;s never been a better, or cheaper time to bag an SSD](https://www.pcgamer.com/cyber-monday-ssd-deals)
+ - [Here&#39;s a symphony performing music from A Plague Tale: Requiem](https://www.pcgamer.com/heres-a-symphony-performing-music-from-a-plague-tale-requiem)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
