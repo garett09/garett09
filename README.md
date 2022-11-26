@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
+ - 🚖 [Betrayed](http://9gag.com/gag/aGE139Z)
  - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
  - 🚯 [Guess the country](http://9gag.com/gag/avQG3D5)<!-- MEMES:END -->
 
