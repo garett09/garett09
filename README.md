@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday Google deals you can get](https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast)
- - [The Pixel Watch is proof that Wear OS isn’t bad, it just needs a lot of work](https://www.androidauthority.com/pixel-watch-wear-os-3238298/)
- - [Take Advantage of This Disney Plus Deal for Black Friday and Cyber Monday     - CNET](https://www.cnet.com/deals/take-advantage-of-this-disney-plus-deal-for-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Sci-Fi Movies to Watch on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-prime-video-to-watch-this-weekend/#ftag=CAD590a51e)
+ - [See NASA&#39;s Bold Artemis I Moon Mission Unfold in Stunning Images     - CNET](https://www.cnet.com/pictures/see-nasa-artemis-i-moon-mission-unfold-in-stunning-images/#ftag=CAD590a51e)
+ - [The Absolute Best Sci-Fi Movies to Watch on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
