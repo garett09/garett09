@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Secret Revealed](http://9gag.com/gag/aXnq5nP)
- - 🚯 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)
- - 🚯 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)<!-- MEMES:END -->
+ - 🚖 [Lol..](http://9gag.com/gag/aeQbvep)
+ - 🚯 [That smile](http://9gag.com/gag/awZn651)
+ - 🚯 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)<!-- MEMES:END -->
 
 --- 
 
