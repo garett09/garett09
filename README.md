@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [43 Best Video Game Black Friday Deals &lpar;2022&rpar;: Switch, Playstation, Xbox, and More](https://www.wired.com/story/best-black-friday-video-game-deals-2022-1/)
- - [An in-depth look at the US sanctions on China&#39;s chipmakers and worries over their impact on inflation and rising costs for Western manufacturers and customers &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/221126/p4#a221126p4)
- - [The DOJ is reportedly investigating rent-setting software company RealPage](https://www.theverge.com/2022/11/26/23479034/doj-investigating-rent-setting-software-company-realpage)<!-- TECH:END -->
+ - [The best Black Friday Google deals you can get](https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast)
+ - [The Pixel Watch is proof that Wear OS isn’t bad, it just needs a lot of work](https://www.androidauthority.com/pixel-watch-wear-os-3238298/)
+ - [Take Advantage of This Disney Plus Deal for Black Friday and Cyber Monday     - CNET](https://www.cnet.com/deals/take-advantage-of-this-disney-plus-deal-for-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
