@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That smile](http://9gag.com/gag/awZn651)
- - 🚯 [Warning there no going back!](http://9gag.com/gag/a7qDv0e)
- - 🚯 [Sometimes I `poop` a little longer in the bathroom to recharge](http://9gag.com/gag/a4oGpEA)<!-- MEMES:END -->
+ - 🚖 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)
+ - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)
+ - 🚯 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)<!-- MEMES:END -->
 
 --- 
 
