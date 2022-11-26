@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)
- - 🚯 [That&#39;s all it takes, just some tittens in your face](http://9gag.com/gag/ap9pezb)
- - 🚯 [Yeah!](http://9gag.com/gag/ajVX2RQ)<!-- MEMES:END -->
+ - 🚖 [Earthworm Jim](http://9gag.com/gag/aVbqnGM)
+ - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
+ - 🚯 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)<!-- MEMES:END -->
 
 --- 
 
