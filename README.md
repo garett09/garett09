@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday graphics card deals 2022: pixel pushers in stock and discounted](https://www.pcgamer.com/black-friday-graphics-card-deals)
- - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
- - [Black Friday gaming laptop deals 2022: discounts on laptops at every power-level](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
+ - [Cyber Monday gaming PC deals 2022: there&#39;ll still be rig discounts as far as the eye can see](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
+ - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
+ - [Black Friday graphics card deals 2022: pixel pushers in stock and discounted](https://www.pcgamer.com/black-friday-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
