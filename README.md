@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [James Burrows took the actors to Las Vegas for a vacation before the series began filming. There he told the cast, \u201cThis is your last vacation before you become famous.\u201d](http://9gag.com/gag/abvz32b)
- - 🚯 [Strret kids think they are good at driving, then they see this ....](http://9gag.com/gag/a7qrz4b)
- - 🚯 [My tummy feels funny](http://9gag.com/gag/aBd8RQx)<!-- MEMES:END -->
+ - 🚖 [Every Programmer Drops His Heart For A Second](http://9gag.com/gag/a4obDZv)
+ - 🚯 [Most Sober England Supporter](http://9gag.com/gag/aKED4q3)
+ - 🚯 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)<!-- MEMES:END -->
 
 --- 
 
