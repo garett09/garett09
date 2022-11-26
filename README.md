@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals at Amazon that you can still get](https://www.theverge.com/2022/11/25/23477656/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
- - [Apple Tracks You More Than You Think](https://www.wired.com/story/apple-iphone-privacy-analytics-security-roundup/)
- - [Mixfly ultra-compact Apple Watch charger review: Good enough, and inexpensive](https://appleinsider.com/articles/22/11/26/mixfly-ultra-compact-apple-watch-charger-review-good-enough-and-inexpensive?utm_medium=rss)<!-- TECH:END -->
+ - [I bought a Google Pixel in an unsupported country; here’s what you should know](https://www.androidauthority.com/google-pixel-unsupported-country-3238240/)
+ - [5 Tips to Make Your Home Workout Space One You&#39;ll Actually Use     - CNET](https://www.cnet.com/health/fitness/5-tips-to-make-your-home-workout-space-one-youll-actually-use/#ftag=CAD590a51e)
+ - [Pok Pok Playroom Kids&#39; Game Subscription Is the Perfect Gift for Families     - CNET](https://www.cnet.com/tech/services-and-software/pok-pok-playroom-kids-game-subscription-is-the-perfect-gift-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
