@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts and employees detail Uber&#39;s struggles in Pakistan as it discontinues service in five cities, cuts spending, and faces increased competition from inDrive &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/221125/p13#a221125p13)
- - [63 Best Black Friday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-black-friday-laptop-deals-2022-1/)
- - [60 Best Black Friday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2022/)<!-- TECH:END -->
+ - [The best Black Friday 2022 phone deals](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)
+ - [The best Black Friday deals you can get at Target](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)
+ - [69 Best Amazon Deals For Black Friday &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-amazon-black-friday-deals-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
