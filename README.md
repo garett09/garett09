@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [63 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-2/)
- - [Black Friday Deals: Over 300 Sales at Best Buy, Amazon, Walmart and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-2022-before-cyber-monday/#ftag=CAD590a51e)
- - [Elon Musk threatens to build alternative to Android and iPhone. It won’t happen.](https://www.androidauthority.com/elon-musk-alternative-iphone-android-3241680/)<!-- TECH:END -->
+ - [30 Best Walmart Black Friday Deals &lpar;2022&rpar;: TVs, Earbuds, and More](https://www.wired.com/story/best-walmart-black-friday-deals-2022-1/)
+ - [11 Great Cyber Monday Bluetooth Speaker Deals That Are Available Now     - CNET](https://www.cnet.com/tech/home-entertainment/11-great-cyber-monday-bluetooth-speaker-deals-that-are-available-now/#ftag=CAD590a51e)
+ - [63 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
