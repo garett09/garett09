@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Sci-Fi Movies to Watch on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-prime-video-to-watch-this-weekend/#ftag=CAD590a51e)
- - [See NASA&#39;s Bold Artemis I Moon Mission Unfold in Stunning Images     - CNET](https://www.cnet.com/pictures/see-nasa-artemis-i-moon-mission-unfold-in-stunning-images/#ftag=CAD590a51e)
- - [The Absolute Best Sci-Fi Movies to Watch on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [40 best Black Friday Apple deals on Amazon have been extended](https://appleinsider.com/articles/22/11/26/40-best-black-friday-apple-deals-on-amazon-have-been-extended?utm_medium=rss)
+ - [Source: the US DOJ is investigating whether rent-setting software made by RealPage is facilitating collusion among landlords to drive up rental prices &lpar;Heather Vogell/ProPublica&rpar;](http://www.techmeme.com/221126/p5#a221126p5)
+ - [60 Best Black Friday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2022-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
