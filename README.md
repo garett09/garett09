@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2022 phone deals](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)
- - [The best Black Friday deals you can get at Target](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)
- - [69 Best Amazon Deals For Black Friday &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-amazon-black-friday-deals-2022-1/)<!-- TECH:END -->
+ - [Top 10 MacBook Black Friday Weekend Deals](https://appleinsider.com/articles/22/11/26/top-10-macbook-black-friday-weekend-deals?utm_medium=rss)
+ - [The best Black Friday 2022 deals on headphones and earbuds](https://www.theverge.com/23475130/black-friday-2022-headphones-earbuds-deals-cyber-monday-airpods-bose-sony)
+ - [Inside Zhengzhou&#39;s &quot;iPhone City&quot; lockdown, where China&#39;s zero COVID-19 policy, related propaganda and fears, and Foxconn&#39;s missteps led to the worker riots &lpar;South China Morning Post&rpar;](http://www.techmeme.com/221126/p1#a221126p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
