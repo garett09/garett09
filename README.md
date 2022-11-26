@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals you can get at Walmart](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming)
- - [How Woolworths, Loblaws, and other retailers are developing digital advertising arms and profiling customers, aiming to become ad venues for large brands &lpar;Alistair Gray/Financial Times&rpar;](http://www.techmeme.com/221125/p11#a221125p11)
- - [The best Black Friday deals you can already get at Walmart](https://www.theverge.com/23440480/walmart-black-friday-2022-best-tech-deals-cyber-monday)<!-- TECH:END -->
+ - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
+ - [71 Great Best Buy Black Friday Deals &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-best-buy-black-friday-deals-2022/)
+ - [Hong Kong-based XanPool, a cross-border payments infrastructure provider for both crypto and fiat currencies, raised $41M in Q2 2022 at a $400M valuation &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/221125/p12#a221125p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
