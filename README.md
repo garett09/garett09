@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Betrayed](http://9gag.com/gag/aGE139Z)
- - 🚯 [The well-known old man in every hardware store who suddenly gives you advice](http://9gag.com/gag/a1Pbzy2)
- - 🚯 [Pilot Accidentally Gives Passenger Announcement to Air Traffic Control](http://9gag.com/gag/adP73Yd)<!-- MEMES:END -->
+ - 🚖 [I spent 3 years making a game that smashes `The Fifth Element` and `Crazy Taxi` together.](http://9gag.com/gag/a5Xb8qy)
+ - 🚯 [Men. Men will be men](http://9gag.com/gag/az28n4z)
+ - 🚯 [He knows what he is doing](http://9gag.com/gag/aoK1b4X)<!-- MEMES:END -->
 
 --- 
 
