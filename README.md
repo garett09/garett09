@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 📱 Pixel 7’s 32-bit support](https://www.androidauthority.com/the-weekly-authority-november-26-2022-222-3240960/)
- - [Analysis: AI startup funding has been around 9%-10% of global VC investment in recent years, led by robotics, autonomous vehicles, and enterprise software &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/221126/p2#a221126p2)
- - [The Physics of Scuba Diving](https://www.wired.com/story/the-physics-of-scuba-diving/)<!-- TECH:END -->
+ - [131 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-2/)
+ - [23 Best Black Friday Ebike and Escooter Deals &lpar;2022&rpar;: Bike Accessories and More](https://www.wired.com/story/best-black-friday-ebike-escooter-deals-2022-1/)
+ - [How to update apps on Apple TV 4K](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-update-apps-on-apple-tv-4k?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
