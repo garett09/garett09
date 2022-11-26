@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-460-3241479/)
- - [How to enroll and unenroll your Mac in the Apple public beta program](https://appleinsider.com/inside/macos/tips/how-to-enroll-and-unenroll-your-mac-in-the-apple-public-beta-program?utm_medium=rss)
- - [Daily deals Nov. 26: $500 off 16-inch M1 Pro MacBook Pro, $60 off Apple Watch Ultra, $169 Smart Keyboard Folio, more](https://appleinsider.com/articles/22/11/26/daily-deals-nov-26-500-off-16-inch-m1-pro-macbook-pro-60-off-apple-watch-ultra-169-smart-keyboard-folio-more?utm_medium=rss)<!-- TECH:END -->
+ - [43 Best Video Game Black Friday Deals &lpar;2022&rpar;: Switch, Playstation, Xbox, and More](https://www.wired.com/story/best-black-friday-video-game-deals-2022-1/)
+ - [An in-depth look at the US sanctions on China&#39;s chipmakers and worries over their impact on inflation and rising costs for Western manufacturers and customers &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/221126/p4#a221126p4)
+ - [The DOJ is reportedly investigating rent-setting software company RealPage](https://www.theverge.com/2022/11/26/23479034/doj-investigating-rent-setting-software-company-realpage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
