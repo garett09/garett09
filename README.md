@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
- - [71 Great Best Buy Black Friday Deals &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-best-buy-black-friday-deals-2022/)
- - [Hong Kong-based XanPool, a cross-border payments infrastructure provider for both crypto and fiat currencies, raised $41M in Q2 2022 at a $400M valuation &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/221125/p12#a221125p12)<!-- TECH:END -->
+ - [Top Black Friday Deals Under $50: 70+ Sales on Tech, Toys, Home and More     - CNET](https://www.cnet.com/deals/black-friday-deals-under-50/#ftag=CAD590a51e)
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)
+ - [Get an Oura Smart Ring for $50 Off Before Black Friday Ends     - CNET](https://www.cnet.com/deals/black-friday-oura-smart-ring-50-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
