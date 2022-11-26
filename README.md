@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)
- - 🚯 [Something seems off about these `white supremacists`.](http://9gag.com/gag/ay2xEKY)
- - 🚯 [My tummy feels funny](http://9gag.com/gag/aBd8RQx)<!-- MEMES:END -->
+ - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
+ - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)
+ - 🚯 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)<!-- MEMES:END -->
 
 --- 
 
