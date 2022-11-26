@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)
- - [My tiny hands are all over the best 60% gaming keyboard in the Cyber Monday sales](https://www.pcgamer.com/my-tiny-hands-are-all-over-the-best-60-gaming-keyboard-in-the-black-friday-sales)
- - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)<!-- GAME:END -->
+ - [Let’s talk about the hypothetical Wednesday season 2](https://www.polygon.com/23475058/wednesday-netflix-ending-season-2)
+ - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
+ - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
