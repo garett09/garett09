@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equal right done right](http://9gag.com/gag/awZnEgQ)
- - 🚯 [Can you spot the 118 Billion Dollar franchise?](http://9gag.com/gag/aNwze90)
- - 🚯 [PTSD Cat](http://9gag.com/gag/aZDgPKn)<!-- MEMES:END -->
+ - 🚖 [The Secret Revealed](http://9gag.com/gag/aXnq5nP)
+ - 🚯 [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)
+ - 🚯 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)<!-- MEMES:END -->
 
 --- 
 
