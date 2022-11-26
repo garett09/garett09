@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
- - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)
- - 🚯 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)<!-- MEMES:END -->
+ - 🚖 [James Burrows took the actors to Las Vegas for a vacation before the series began filming. There he told the cast, \u201cThis is your last vacation before you become famous.\u201d](http://9gag.com/gag/abvz32b)
+ - 🚯 [Strret kids think they are good at driving, then they see this ....](http://9gag.com/gag/a7qrz4b)
+ - 🚯 [My tummy feels funny](http://9gag.com/gag/aBd8RQx)<!-- MEMES:END -->
 
 --- 
 
