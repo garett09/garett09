@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deals: Shop 345+ Deals at Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-2022-live-updates/#ftag=CAD590a51e)
- - [These Samsung Black Friday phone deals have sent Amazon prices spiraling](https://www.androidauthority.com/samsung-black-friday-phone-deals-3236580/)
- - [Best VR Headsets of 2022     - CNET](https://www.cnet.com/tech/gaming/best-vr-headsets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals at Amazon](https://www.theverge.com/2022/11/25/23477656/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
+ - [33 Best Kitchen and Home Deals for Black Friday &lpar;2022&rpar;: Cookware, Vacs, and More](https://www.wired.com/story/best-black-friday-kitchen-and-home-deals-2022/)
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
