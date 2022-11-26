@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)
- - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)
- - 🚯 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)<!-- MEMES:END -->
+ - 🚖 [Chinese rocket sheds tiles during launch](http://9gag.com/gag/aYVx50O)
+ - 🚯 [Equal right done right](http://9gag.com/gag/awZnEgQ)
+ - 🚯 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)<!-- MEMES:END -->
 
 --- 
 
