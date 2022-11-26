@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday gaming laptop deals 2022: discounts on laptops at every power-level](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
  - [Today&#39;s Wordle answer and hint for Saturday, November 26](https://www.pcgamer.com/wordle-525-answer-november-26)
- - [I cannot stop laughing at Warzone 2 cheaters in flying boats](https://www.pcgamer.com/call-of-duty-warzone-2-flying-boat-cheater-hacker)
- - [Warhammer 40,000: Darktide progress will carry over into the full game, Fatshark confirms](https://www.pcgamer.com/warhammer-40000-darktide-progress-will-carry-over-into-the-full-game-fatshark-confirms)<!-- GAME:END -->
+ - [I cannot stop laughing at Warzone 2 cheaters in flying boats](https://www.pcgamer.com/call-of-duty-warzone-2-flying-boat-cheater-hacker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
