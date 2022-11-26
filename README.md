@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday gaming deals](https://www.theverge.com/23475747/best-black-friday-gaming-deals-games-xbox-ps5-headsets-mice-keyboards-controllers)
  - [40 best Black Friday Apple deals on Amazon have been extended](https://appleinsider.com/articles/22/11/26/40-best-black-friday-apple-deals-on-amazon-have-been-extended?utm_medium=rss)
- - [Source: the US DOJ is investigating whether rent-setting software made by RealPage is facilitating collusion among landlords to drive up rental prices &lpar;Heather Vogell/ProPublica&rpar;](http://www.techmeme.com/221126/p5#a221126p5)
- - [60 Best Black Friday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2022-1/)<!-- TECH:END -->
+ - [Limited-Time Cyber Monday TV Deals: Best Offers From Samsung, Roku, Sony, LG, Vizio and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
