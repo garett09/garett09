@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I spent 3 years making a game that smashes `The Fifth Element` and `Crazy Taxi` together.](http://9gag.com/gag/a5Xb8qy)
- - 🚯 [Men. Men will be men](http://9gag.com/gag/az28n4z)
- - 🚯 [He knows what he is doing](http://9gag.com/gag/aoK1b4X)<!-- MEMES:END -->
+ - 🚖 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
+ - 🚯 [Satellite video of Indonesia earthquake.](http://9gag.com/gag/amAYQ8d)
+ - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)<!-- MEMES:END -->
 
 --- 
 
