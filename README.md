@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday gaming deals](https://www.theverge.com/23475747/best-black-friday-gaming-deals-games-xbox-ps5-headsets-mice-keyboards-controllers)
- - [40 best Black Friday Apple deals on Amazon have been extended](https://appleinsider.com/articles/22/11/26/40-best-black-friday-apple-deals-on-amazon-have-been-extended?utm_medium=rss)
- - [Limited-Time Cyber Monday TV Deals: Best Offers From Samsung, Roku, Sony, LG, Vizio and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday weekend deal: B&amp;H shaves $500 off MacBook Pro 13-inch with M1](https://appleinsider.com/articles/22/11/26/black-friday-weekend-deal-bh-shaves-500-off-macbook-pro-13-inch-with-m1?utm_medium=rss)
+ - [The best Black Friday deals you can still get that make for great gifts](https://www.theverge.com/23475599/black-friday-deals-gift-ideas-cyber-monday-holiday-shopping)
+ - [Black Friday Weekend Deals: Over 300 Sales at Best Buy, Amazon, Walmart and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-2022-before-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
