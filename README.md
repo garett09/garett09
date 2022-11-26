@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He finally got the arm](http://9gag.com/gag/aKEVbpN)
- - 🚯 [Body blender slide](http://9gag.com/gag/abvpn88)
- - 🚯 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)<!-- MEMES:END -->
+ - 🚖 [Equal right done right](http://9gag.com/gag/awZnEgQ)
+ - 🚯 [Can you spot the 118 Billion Dollar franchise?](http://9gag.com/gag/aNwze90)
+ - 🚯 [PTSD Cat](http://9gag.com/gag/aZDgPKn)<!-- MEMES:END -->
 
 --- 
 
