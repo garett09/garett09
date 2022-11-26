@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk threatens to build alternative to Android and iPhone. It won’t happen.](https://www.androidauthority.com/elon-musk-alternative-iphone-android-3241680/)
  - [AirPods Pro 2 are AirPods Max in your pocket, says Apple](https://appleinsider.com/articles/22/11/25/airpods-pro-2-are-airpods-max-in-your-pocket-says-apple?utm_medium=rss)
- - [Amazon&#39;s $79 AirPods deal is back for Black Friday, AirPods Pro 2 $199](https://appleinsider.com/articles/22/11/25/amazons-79-airpods-deal-is-back-for-black-friday-airpods-pro-2-199?utm_medium=rss)
- - [116 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-1/)<!-- TECH:END -->
+ - [Amazon&#39;s $79 AirPods deal is back for Black Friday, AirPods Pro 2 $199](https://appleinsider.com/articles/22/11/25/amazons-79-airpods-deal-is-back-for-black-friday-airpods-pro-2-199?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
