@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming headset is on sale for $54.99 for Black Friday](https://www.pcgamer.com/black-friday-best-gaming-headset-deal)
- - [Finally, a free game about skateboard witches fighting corporate evil](https://www.pcgamer.com/finally-a-free-game-about-skateboard-witches-fighting-corporate-evil)
- - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)<!-- GAME:END -->
+ - [I cannot stop laughing at Warzone 2 cheaters in flying boats](https://www.pcgamer.com/call-of-duty-warzone-2-flying-boat-cheater-hacker)
+ - [The 1440p gaming monitor I bought for $500 a couple years ago is now $280](https://www.pcgamer.com/the-1440p-gaming-monitor-i-bought-for-dollar500-a-couple-years-ago-is-now-dollar280)
+ - [Warhammer 40,000: Darktide progress will carry over into the full game, Fatshark confirms](https://www.pcgamer.com/warhammer-40000-darktide-progress-will-carry-over-into-the-full-game-fatshark-confirms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
