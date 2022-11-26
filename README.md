@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
- - [Cyber Monday gaming headset deals 2022: giving the gift of great audio this deals season](https://www.pcgamer.com/cyber-monday-gaming-headset-deals)
- - [Let’s talk about the hypothetical Wednesday season 2](https://www.polygon.com/23475058/wednesday-netflix-ending-season-2)<!-- GAME:END -->
+ - [Here&#39;s a symphony performing music from A Plague Tale: Requiem](https://www.pcgamer.com/heres-a-symphony-performing-music-from-a-plague-tale-requiem)
+ - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)
+ - [11 obscure PC ports that time forgot](https://www.pcgamer.com/11-obscure-pc-ports-that-time-forgot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
