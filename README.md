@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 15 Impulse Purchases Aren&#39;t at Amazon or Best Buy -- and the Deals End Tonight     - CNET](https://www.cnet.com/deals/these-15-impulse-purchases-arent-at-amazon-or-best-buy-and-the-deals-end-tonight/#ftag=CAD590a51e)
- - [These 9 Black Friday Deals Are Still at Record Lows Ahead of Cyber Monday     - CNET](https://www.cnet.com/deals/these-9-black-friday-deals-are-still-at-record-lows-ahead-of-cyber-monday/#ftag=CAD590a51e)
- - [The Best Black Friday Deals Under $25 Ahead of Cyber Monday     - CNET](https://www.cnet.com/deals/black-friday-deals-under-25-for-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [159 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2022/)
+ - [Cyber Monday Deals on Amazon Devices Are Heating Up as Black Friday Ends     - CNET](https://www.cnet.com/deals/cyber-monday-deals-on-amazon-devices-are-heating-up-as-black-friday-ends/#ftag=CAD590a51e)
+ - [Black Friday Deals Stick Around at Google Store Leading Into Cyber Monday     - CNET](https://www.cnet.com/deals/black-friday-deals-stick-around-at-google-store-leading-into-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
