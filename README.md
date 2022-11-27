@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Horny for journalist](http://9gag.com/gag/aA0DY0g)
- - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
- - 🚯 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)<!-- MEMES:END -->
+ - 🚖 [Facts are important. Or so it used to be](http://9gag.com/gag/a1PKAKv)
+ - 🚯 [You\u2019re so funny you get a hug](http://9gag.com/gag/aZDgbrW)
+ - 🚯 [A true legend](http://9gag.com/gag/aqe1Z4v)<!-- MEMES:END -->
 
 --- 
 
