@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play 300+ modern games instantly on any PC for just $1 right now](https://www.pcgamer.com/play-300-modern-games-instantly-on-any-pc-for-just-dollar1-right-now)
- - [Settle for nothing less than 1440p, with this 27-inch 165Hz gaming monitor for under £200](https://www.pcgamer.com/settle-for-nothing-less-than-1440p-with-this-27-inch-165hz-gaming-monitor-for-under-pound200)
- - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)<!-- GAME:END -->
+ - [The best K-dramas to watch on Netflix and beyond](https://www.polygon.com/what-to-watch/23471062/best-k-dramas-netflix-watch-streaming)
+ - [Get 8 months of the best PC game streaming service for the price of 6](https://www.pcgamer.com/get-8-months-of-the-best-pc-game-streaming-service-for-the-price-of-6)
+ - [Play 300+ modern games instantly on any PC for just $1 right now](https://www.pcgamer.com/play-300-modern-games-instantly-on-any-pc-for-just-dollar1-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
