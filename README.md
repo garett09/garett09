@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)
- - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)<!-- GAME:END -->
+ - [Play 300+ modern games instantly on any PC for just $1 right now](https://www.pcgamer.com/play-300-modern-games-instantly-on-any-pc-for-just-dollar1-right-now)
+ - [Settle for nothing less than 1440p, with this 27-inch 165Hz gaming monitor for under £200](https://www.pcgamer.com/settle-for-nothing-less-than-1440p-with-this-27-inch-165hz-gaming-monitor-for-under-pound200)
+ - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
