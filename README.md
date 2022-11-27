@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 32-inch ultrawide Samsung gaming monitor is the cheapest it&#39;s ever been](https://www.pcgamer.com/this-32-inch-ultrawide-samsung-gaming-monitor-is-the-cheapest-its-ever-been)
- - [Midnight Suns has &#39;something like 65,000 lines of voiced dialogue&#39;](https://www.pcgamer.com/midnight-suns-has-something-like-65000-lines-of-voiced-dialogue)
- - [Check out the unique look of Fallout-inspired RPG Space Wreck](https://www.pcgamer.com/check-out-the-unique-look-of-fallout-inspired-rpg-space-wreck)<!-- GAME:END -->
+ - [Zotac GPUs are at their lowest prices ever for Cyber Monday](https://www.pcgamer.com/the-best-zotac-graphics-card-deals-for-cyber-monday)
+ - [This light gaming mouse is only $25, its all-time lowest price for Cyber Monday](https://www.pcgamer.com/this-light-gaming-mouse-is-only-dollar25-its-all-time-lowest-price-for-cyber-monday)
+ - [Retro GTA2-inspired shooter Geneshift becomes Gene Shift Auto, goes free-to-play](https://www.pcgamer.com/retro-gta2-inspired-shooter-geneshift-becomes-gene-shift-auto-goes-free-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
