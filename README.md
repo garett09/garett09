@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you spot the 118 Billion Dollar franchise?](http://9gag.com/gag/aNwze90)
- - 🚯 [Bike shorts](http://9gag.com/gag/aMEAbvM)
- - 🚯 [\ud83c\udde6\ud83c\uddf2 Nikol Pashinyan refused to sign a declaration following the Collective Security Treaty Organization &lpar;CSTO&rpar; summit. In fact, it means that the CSTO has collapsed completely. Putin dropped his pen, Lukashenko is shocked.](http://9gag.com/gag/aYV4p57)<!-- MEMES:END -->
+ - 🚖 [Bro knew what he was doing](http://9gag.com/gag/agoYNXr)
+ - 🚯 [Polnischer Adventskalender](http://9gag.com/gag/aNwzm93)
+ - 🚯 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)<!-- MEMES:END -->
 
 --- 
 
