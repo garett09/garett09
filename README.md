@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts are important. Or so it used to be](http://9gag.com/gag/a1PKAKv)
- - 🚯 [You\u2019re so funny you get a hug](http://9gag.com/gag/aZDgbrW)
- - 🚯 [A true legend](http://9gag.com/gag/aqe1Z4v)<!-- MEMES:END -->
+ - 🚖 [Iron wire worm extracted from Wild mantis](http://9gag.com/gag/aqebvLQ)
+ - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)
+ - 🚯 [Meatballs](http://9gag.com/gag/amAYj9y)<!-- MEMES:END -->
 
 --- 
 
