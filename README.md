@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown Plays A Harmless Prank On A Guy](http://9gag.com/gag/aEqB1pe)
- - 🚯 [Yo wtf](http://9gag.com/gag/a6qb02R)
- - 🚯 [Bike shorts](http://9gag.com/gag/aMEAbvM)<!-- MEMES:END -->
+ - 🚖 [That smile](http://9gag.com/gag/awZn651)
+ - 🚯 [How many idiots can you fit in 24 seconds?](http://9gag.com/gag/aBd83wA)
+ - 🚯 [Relatable AF](http://9gag.com/gag/aL18Png)<!-- MEMES:END -->
 
 --- 
 
