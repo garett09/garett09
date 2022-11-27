@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 of Target&#39;s Best Cyber Monday Deals Following Black Friday Sales     - CNET](https://www.cnet.com/deals/best-target-cyber-monday-deals-following-black-friday-sales/#ftag=CAD590a51e)
- - [Best True Wireless Sports Earbuds With Ear Hooks     - CNET](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
- - [Best AirPods Pro Accessories for 2022: Cases, Eartips, Wireless In-Flight Transmitters and Chargers     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [96 Best Amazon Deals For Cyber Monday &lpar;2022&rpar;: iPads, Kindles, and More](https://www.wired.com/story/best-amazon-cyber-monday-deals-2022/)
+ - [The best early Cyber Monday deals you can get now](https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones)
+ - [Microsoft makes the best laptop under $1,000 and I can’t recommend it enough](https://www.androidauthority.com/microsoft-surface-laptop-productivity-3240596/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
