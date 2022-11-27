@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zotac GPUs are at their lowest prices ever for Cyber Monday](https://www.pcgamer.com/the-best-zotac-graphics-card-deals-for-cyber-monday)
- - [This light gaming mouse is only $25, its all-time lowest price for Cyber Monday](https://www.pcgamer.com/this-light-gaming-mouse-is-only-dollar25-its-all-time-lowest-price-for-cyber-monday)
- - [Retro GTA2-inspired shooter Geneshift becomes Gene Shift Auto, goes free-to-play](https://www.pcgamer.com/retro-gta2-inspired-shooter-geneshift-becomes-gene-shift-auto-goes-free-to-play)<!-- GAME:END -->
+ - [Give your Steam Deck a sweet docking station to live in for 24% off this Cyber Monday](https://www.pcgamer.com/give-your-steam-deck-a-sweet-docking-station-to-live-in-for-24-off-this-cyber-monday)
+ - [Yakuza series chief director carries a spreadsheet of the karaoke songs he&#39;s sung—all 7,964 of them](https://www.pcgamer.com/yakuza-series-chief-director-carries-a-spreadsheet-of-the-karaoke-songs-hes-sungall-7964-of-them)
+ - [Zotac GPUs are at their lowest prices ever for Cyber Monday](https://www.pcgamer.com/the-best-zotac-graphics-card-deals-for-cyber-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
