@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That smile](http://9gag.com/gag/awZn651)
- - 🚯 [How many idiots can you fit in 24 seconds?](http://9gag.com/gag/aBd83wA)
- - 🚯 [Relatable AF](http://9gag.com/gag/aL18Png)<!-- MEMES:END -->
+ - 🚖 [Horny for journalist](http://9gag.com/gag/aA0DY0g)
+ - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
+ - 🚯 [Dayum that some good crack](http://9gag.com/gag/aNwzmd0)<!-- MEMES:END -->
 
 --- 
 
