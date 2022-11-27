@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Cyber Monday Deals Make This Smart Garage Accessory Impulsively Cheap -- Get One Today     - CNET](https://www.cnet.com/deals/chamberlain-myq-deal-cyber-monday/#ftag=CAD590a51e)
- - [68 Best Target Black Friday Deals Still Going &lpar;2022&rpar;](https://www.wired.com/story/best-target-black-friday-deals-2022-2/)
- - [How live-action YouTube kids channels Vlad and Niki, Like Nastya, and Kids Diana Show, with a total of ~300M subscribers, are building global franchises &lpar;R.T. Watson/Wall Street Journal&rpar;](http://www.techmeme.com/221127/p1#a221127p1)<!-- TECH:END -->
+ - [B&amp;H Cyber Monday Apple sale: $200 off M2 MacBook Air, up to $600 off MacBook Pro, $100 off iPad Pro M2](https://appleinsider.com/articles/22/11/27/bh-cyber-monday-apple-sale-200-off-m2-macbook-air-up-to-600-off-macbook-pro-100-off-ipad-pro-m2?utm_medium=rss)
+ - [Elon Musk claims &quot;all-time high&quot; new Twitter signups, averaging 2M+ a day in the last seven days till November 16, up 66% YoY, and ~8B daily user active minutes &lpar;Reuters&rpar;](http://www.techmeme.com/221127/p2#a221127p2)
+ - [Early Cyber Monday Deals Make This Smart Garage Accessory Impulsively Cheap -- Get One Today     - CNET](https://www.cnet.com/deals/chamberlain-myq-deal-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
