@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Polnischer Adventskalender](http://9gag.com/gag/aNwzm93)
- - 🚯 [Beggar wants a free drawing](http://9gag.com/gag/a6qVLnb)
+ - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
+ - 🚯 [Vehicle suspension that generate electricity](http://9gag.com/gag/aOxBmPD)
  - 🚯 [20 Mechanical Principles combined in a Useless Lego Machine](http://9gag.com/gag/aDYzojG)<!-- MEMES:END -->
 
 --- 
