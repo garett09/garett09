@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I don’t want a zoom lens on my next phone, I want two zoom lenses](https://www.androidauthority.com/dual-zoom-cameras-smartphone-opinion-3236386/)
- - [B&amp;H Cyber Monday Apple sale: $200 off M2 MacBook Air, up to $600 off MacBook Pro, $100 off iPad Pro M2](https://appleinsider.com/articles/22/11/27/bh-cyber-monday-apple-sale-200-off-m2-macbook-air-up-to-600-off-macbook-pro-100-off-ipad-pro-m2?utm_medium=rss)
- - [22 Best Cyber Monday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-cyber-monday-mattress-deals-2022/)<!-- TECH:END -->
+ - [78 Best Cyber Monday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-cyber-monday-phone-deals-tablet-watch-2022/)
+ - [Today I learned LG makes a space-saving cubicle monitor](https://www.theverge.com/2022/11/27/23480405/til-lg-libero-space-saving-cubicle-monitor)
+ - [21 Best Cyber Monday Sex Toy Deals &lpar;2022&rpar;: Dame, Lelo, and More](https://www.wired.com/story/best-cyber-monday-sex-toy-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
