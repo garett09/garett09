@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals you can get now](https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones)
- - [The Best Sci-Fi Movies on Netflix You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-can-watch-right-now/#ftag=CAD590a51e)
- - [300+ Cyber Monday Deals: Black Friday Discounts Still Available     - CNET](https://www.cnet.com/deals/cyber-monday-deals-2022-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s Minecraft bot, which has learned to complete complex tasks in Minecraft after being trained on 70K hours of video of people playing the game &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221127/p4#a221127p4)
+ - [Gran Turismo chief says devs are ‘looking into’ a PC port](https://www.theverge.com/2022/11/27/23480846/gran-turismo-chief-looking-into-pc-port-playstation)
+ - [A bunch of Sonos speakers are 20 percent off for Cyber Monday](https://www.theverge.com/2022/11/27/23480560/sonos-speakers-soundbars-cyber-monday-deal-best-buy-target)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
