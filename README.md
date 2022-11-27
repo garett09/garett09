@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That smile](http://9gag.com/gag/awZn651)
- - 🚯 [Hol up](http://9gag.com/gag/a9qAL0W)
- - 🚯 [Rapist bears with artillery weapons is definitely scary.](http://9gag.com/gag/aXnvpDv)<!-- MEMES:END -->
+ - 🚖 [He finally got the arm](http://9gag.com/gag/aKEVbpN)
+ - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)
+ - 🚯 [Bike shorts](http://9gag.com/gag/aMEAbvM)<!-- MEMES:END -->
 
 --- 
 
