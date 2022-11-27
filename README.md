@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [London crime: 3 dead, 1 stabbed in head, 1 shot and woman &#39;raped&#39; in popular park in horrific 24 hours of violence... &lpar;source: in comment&rpar;](http://9gag.com/gag/az2qrop)
- - 🚯 [Morocco wins from Belgium. Moroccans in Belgium](http://9gag.com/gag/aDYzjAB)
- - 🚯 [Moroccans riot in Brussel after football match win against Belgium](http://9gag.com/gag/aYV4KyN)<!-- MEMES:END -->
+ - 🚖 [Dude, nobody is gonna get it, there aren&#39;t enough pixels.](http://9gag.com/gag/aBd8wQQ)
+ - 🚯 [Moroccans riot in Brussel after football match win against Belgium](http://9gag.com/gag/aYV4KyN)
+ - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)<!-- MEMES:END -->
 
 --- 
 
