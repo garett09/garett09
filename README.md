@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday weekend deal: B&amp;H shaves $500 off MacBook Pro 13-inch with M1](https://appleinsider.com/articles/22/11/26/black-friday-weekend-deal-bh-shaves-500-off-macbook-pro-13-inch-with-m1?utm_medium=rss)
- - [The best Black Friday deals you can still get that make for great gifts](https://www.theverge.com/23475599/black-friday-deals-gift-ideas-cyber-monday-holiday-shopping)
- - [Black Friday Weekend Deals: Over 300 Sales at Best Buy, Amazon, Walmart and More     - CNET](https://www.cnet.com/deals/best-black-friday-deals-2022-before-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals that you can still get](https://www.theverge.com/23475097/black-friday-2022-deals-best-still-available-weekend-sales-tech-earbuds-laptops)
+ - [138 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-2/)
+ - [HyperX&#39;s Insane 300-Hour Gaming Headphones Are on Sale for Black Friday &lpar;2022&rpar;](https://www.wired.com/story/hyperx-cloud-alpha-sale-black-friday-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
