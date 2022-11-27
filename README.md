@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Avalanche at the Crans-Montana ski resort in Switzerland.](http://9gag.com/gag/agoYyz1)
- - 🚯 [It\u2019s just a puffy bear](http://9gag.com/gag/a8q8jg3)
- - 🚯 [Despite being only 14% of the 9gag population, Germans commit...](http://9gag.com/gag/aVbMPV2)<!-- MEMES:END -->
+ - 🚖 [China&#39;s `covid responder` is protecting its people by welding the door to lock them in side. Sorry for the tiktok vid but it seem to be the only way for news to get out of china these days.](http://9gag.com/gag/a1PKXdb)
+ - 🚯 [20 Mechanical Principles combined in a Useless Lego Machine](http://9gag.com/gag/aDYzojG)
+ - 🚯 [I can\u2019t speak french](http://9gag.com/gag/aBd8Y5P)<!-- MEMES:END -->
 
 --- 
 
