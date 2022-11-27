@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nostalgic](http://9gag.com/gag/aGEe9YK)
- - 🚯 [Great power comes with great responsibility.](http://9gag.com/gag/arm5vmV)
- - 🚯 [Facts are important. Or so it used to be](http://9gag.com/gag/a1PKAKv)<!-- MEMES:END -->
+ - 🚖 [Clown Plays A Harmless Prank On A Guy](http://9gag.com/gag/aEqB1pe)
+ - 🚯 [Yo wtf](http://9gag.com/gag/a6qb02R)
+ - 🚯 [Bike shorts](http://9gag.com/gag/aMEAbvM)<!-- MEMES:END -->
 
 --- 
 
