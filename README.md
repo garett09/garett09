@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every Programmer Drops His Heart For A Second](http://9gag.com/gag/a4obDZv)
- - 🚯 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
- - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)<!-- MEMES:END -->
+ - 🚖 [Iron wire worm extracted from Wild mantis](http://9gag.com/gag/aqebvLQ)
+ - 🚯 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)
+ - 🚯 [Donkeys mourn the loss of their friend](http://9gag.com/gag/aXnq5mg)<!-- MEMES:END -->
 
 --- 
 
