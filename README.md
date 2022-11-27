@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Iron wire worm extracted from Wild mantis](http://9gag.com/gag/aqebvLQ)
- - 🚯 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)
- - 🚯 [Donkeys mourn the loss of their friend](http://9gag.com/gag/aXnq5mg)<!-- MEMES:END -->
+ - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
+ - 🚯 [Iron wire worm extracted from Wild mantis](http://9gag.com/gag/aqebvLQ)
+ - 🚯 [Meatballs](http://9gag.com/gag/amAYj9y)<!-- MEMES:END -->
 
 --- 
 
