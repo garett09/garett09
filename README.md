@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I am a traditional cyclist who just got an e-bike, and here’s what I think](https://www.androidauthority.com/buy-e-bike-opinion-3222874/)
- - [The best early Cyber Monday 2022 phone deals you can get now](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)
- - [How iPads, iPhones, Macs are used in the special education classroom](https://appleinsider.com/articles/22/11/27/how-ipads-iphones-macs-are-used-in-the-special-education-classroom?utm_medium=rss)<!-- TECH:END -->
+ - [The best early Cyber Monday deals you can get on 4K TVs](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)
+ - [With Black Friday in the Rearview, Various Beats Headphones Remain at All-time Lows     - CNET](https://www.cnet.com/deals/black-friday-in-rearview-new-cyber-monday-deals-beats-headphones/#ftag=CAD590a51e)
+ - [Best Immunity Supplements for Winter 2022     - CNET](https://www.cnet.com/health/nutrition/best-immunity-supplements-for-winter-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
