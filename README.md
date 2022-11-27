@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out the unique look of Fallout-inspired RPG Space Wreck](https://www.pcgamer.com/check-out-the-unique-look-of-fallout-inspired-rpg-space-wreck)
- - [Overwatch 2 tank Ramattra&#39;s abilities revealed in debut gameplay trailer](https://www.pcgamer.com/overwatch-2s-new-tank-ramattras-abilities-revealed-in-debut-gameplay-trailer)
- - [Cyber Monday SSD deals 2022: there&#39;s never been a better, or cheaper time to bag an SSD](https://www.pcgamer.com/cyber-monday-ssd-deals)<!-- GAME:END -->
+ - [This 32-inch ultrawide Samsung gaming monitor is the cheapest it&#39;s ever been](https://www.pcgamer.com/this-32-inch-ultrawide-samsung-gaming-monitor-is-the-cheapest-its-ever-been)
+ - [Midnight Suns has &#39;something like 65,000 lines of voiced dialogue&#39;](https://www.pcgamer.com/midnight-suns-has-something-like-65000-lines-of-voiced-dialogue)
+ - [Check out the unique look of Fallout-inspired RPG Space Wreck](https://www.pcgamer.com/check-out-the-unique-look-of-fallout-inspired-rpg-space-wreck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
