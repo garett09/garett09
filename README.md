@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
- - 🚯 [Steal or no steal?](http://9gag.com/gag/a8q8jm1)
- - 🚯 [Golden dad jokes](http://9gag.com/gag/aL18BW5)<!-- MEMES:END -->
+ - 🚖 [From rags* to riches](http://9gag.com/gag/aYV4W5v)
+ - 🚯 [Sweet little baby](http://9gag.com/gag/aL1DYYv)
+ - 🚯 [N, you look 40..](http://9gag.com/gag/a3Zq9x7)<!-- MEMES:END -->
 
 --- 
 
