@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Walmart Black Friday Deals &lpar;2022&rpar;: TVs, Earbuds, and More](https://www.wired.com/story/best-walmart-black-friday-deals-2022-1/)
- - [68 Best Black Friday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2022-1/)
- - [30 Black Friday Deals on Amazon Devices &lpar;2022&rpar;: Kindle, Echo, Fire TV Stick](https://www.wired.com/story/best-black-friday-amazon-device-deals-2022/)<!-- TECH:END -->
+ - [These 15 Impulse Purchases Aren&#39;t at Amazon or Best Buy -- and the Deals End Tonight     - CNET](https://www.cnet.com/deals/these-15-impulse-purchases-arent-at-amazon-or-best-buy-and-the-deals-end-tonight/#ftag=CAD590a51e)
+ - [These 9 Black Friday Deals Are Still at Record Lows Ahead of Cyber Monday     - CNET](https://www.cnet.com/deals/these-9-black-friday-deals-are-still-at-record-lows-ahead-of-cyber-monday/#ftag=CAD590a51e)
+ - [The Best Black Friday Deals Under $25 Ahead of Cyber Monday     - CNET](https://www.cnet.com/deals/black-friday-deals-under-25-for-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
