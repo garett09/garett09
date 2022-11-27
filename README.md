@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro knew what he was doing](http://9gag.com/gag/agoYNXr)
- - 🚯 [Polnischer Adventskalender](http://9gag.com/gag/aNwzm93)
- - 🚯 [Chicks with d**ks on sports](http://9gag.com/gag/aBdWD4A)<!-- MEMES:END -->
+ - 🚖 [Avalanche at the Crans-Montana ski resort in Switzerland.](http://9gag.com/gag/agoYyz1)
+ - 🚯 [It\u2019s just a puffy bear](http://9gag.com/gag/a8q8jg3)
+ - 🚯 [Despite being only 14% of the 9gag population, Germans commit...](http://9gag.com/gag/aVbMPV2)<!-- MEMES:END -->
 
 --- 
 
