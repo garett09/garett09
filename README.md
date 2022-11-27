@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&#39;t unsee what you&#39;ve seen in prison](http://9gag.com/gag/a2K4qnO)
- - 🚯 [\ud83c\udde6\ud83c\uddf2 Nikol Pashinyan refused to sign a declaration following the Collective Security Treaty Organization &lpar;CSTO&rpar; summit. In fact, it means that the CSTO has collapsed completely. Putin dropped his pen, Lukashenko is shocked.](http://9gag.com/gag/aYV4p57)
- - 🚯 [Despite being only 14% of the 9gag population, Germans commit...](http://9gag.com/gag/aVbMPV2)<!-- MEMES:END -->
+ - 🚖 [London crime: 3 dead, 1 stabbed in head, 1 shot and woman &#39;raped&#39; in popular park in horrific 24 hours of violence... &lpar;source: in comment&rpar;](http://9gag.com/gag/az2qrop)
+ - 🚯 [Morocco wins from Belgium. Moroccans in Belgium](http://9gag.com/gag/aDYzjAB)
+ - 🚯 [Moroccans riot in Brussel after football match win against Belgium](http://9gag.com/gag/aYV4KyN)<!-- MEMES:END -->
 
 --- 
 
