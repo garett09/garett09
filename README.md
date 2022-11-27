@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo boss says he&#39;s &quot;considering and looking into&quot; PC port](https://www.pcgamer.com/gran-turismo-boss-says-hes-considering-and-looking-into-pc-port)
- - [The best K-dramas to watch on Netflix and beyond](https://www.polygon.com/what-to-watch/23471062/best-k-dramas-netflix-watch-streaming)
- - [Get 8 months of the best PC game streaming service for the price of 6](https://www.pcgamer.com/get-8-months-of-the-best-pc-game-streaming-service-for-the-price-of-6)<!-- GAME:END -->
+ - [Great moments in PC gaming: Getting so into VR you forget you&#39;re in VR](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-so-into-vr-you-forget-youre-in-vr)
+ - [Here&#39;s ray-traced Quake 1, because why not at this point](https://www.pcgamer.com/heres-ray-traced-quake-1-because-why-not-at-this-point)
+ - [Gran Turismo boss says he&#39;s &quot;considering and looking into&quot; PC port](https://www.pcgamer.com/gran-turismo-boss-says-hes-considering-and-looking-into-pc-port)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
