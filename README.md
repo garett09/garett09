@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Sunday, November 27](https://www.pcgamer.com/wordle-526-answer-november-27)
  - [Give your Steam Deck a sweet docking station to live in for 24% off this Cyber Monday](https://www.pcgamer.com/give-your-steam-deck-a-sweet-docking-station-to-live-in-for-24-off-this-cyber-monday)
- - [Yakuza series chief director carries a spreadsheet of the karaoke songs he&#39;s sung—all 7,964 of them](https://www.pcgamer.com/yakuza-series-chief-director-carries-a-spreadsheet-of-the-karaoke-songs-hes-sungall-7964-of-them)
- - [Zotac GPUs are at their lowest prices ever for Cyber Monday](https://www.pcgamer.com/the-best-zotac-graphics-card-deals-for-cyber-monday)<!-- GAME:END -->
+ - [Yakuza series chief director carries a spreadsheet of the karaoke songs he&#39;s sung—all 7,964 of them](https://www.pcgamer.com/yakuza-series-chief-director-carries-a-spreadsheet-of-the-karaoke-songs-hes-sungall-7964-of-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
