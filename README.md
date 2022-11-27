@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
- - 🚯 [Vehicle suspension that generate electricity](http://9gag.com/gag/aOxBmPD)
- - 🚯 [20 Mechanical Principles combined in a Useless Lego Machine](http://9gag.com/gag/aDYzojG)<!-- MEMES:END -->
+ - 🚖 [Every Programmer Drops His Heart For A Second](http://9gag.com/gag/a4obDZv)
+ - 🚯 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
+ - 🚯 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)<!-- MEMES:END -->
 
 --- 
 
