@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Sunday, November 27](https://www.pcgamer.com/wordle-526-answer-november-27)
- - [Give your Steam Deck a sweet docking station to live in for 24% off this Cyber Monday](https://www.pcgamer.com/give-your-steam-deck-a-sweet-docking-station-to-live-in-for-24-off-this-cyber-monday)
- - [Yakuza series chief director carries a spreadsheet of the karaoke songs he&#39;s sung—all 7,964 of them](https://www.pcgamer.com/yakuza-series-chief-director-carries-a-spreadsheet-of-the-karaoke-songs-hes-sungall-7964-of-them)<!-- GAME:END -->
+ - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)
+ - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
+ - [Today&#39;s Wordle answer and hint for Sunday, November 27](https://www.pcgamer.com/wordle-526-answer-november-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
