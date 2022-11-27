@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He finally got the arm](http://9gag.com/gag/aKEVbpN)
- - 🚯 [Betrayed](http://9gag.com/gag/aGE139Z)
- - 🚯 [Bike shorts](http://9gag.com/gag/aMEAbvM)<!-- MEMES:END -->
+ - 🚖 [LOL! Kanye made a literal list of jews that control the media!](http://9gag.com/gag/amAYjDo)
+ - 🚯 [Steal or no steal?](http://9gag.com/gag/a8q8jm1)
+ - 🚯 [Golden dad jokes](http://9gag.com/gag/aL18BW5)<!-- MEMES:END -->
 
 --- 
 
