@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)
- - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
- - [Today&#39;s Wordle answer and hint for Sunday, November 27](https://www.pcgamer.com/wordle-526-answer-november-27)<!-- GAME:END -->
+ - [Cyber Monday gaming headset deals 2022: giving the gift of great audio this deals season](https://www.pcgamer.com/cyber-monday-gaming-headset-deals)
+ - [Cyber Monday gaming PC deals 2022: there&#39;ll still be rig discounts as far as the eye can see](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
+ - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
