@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [96 Best Amazon Deals For Cyber Monday &lpar;2022&rpar;: iPads, Kindles, and More](https://www.wired.com/story/best-amazon-cyber-monday-deals-2022/)
- - [The best early Cyber Monday deals you can get now](https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones)
- - [Microsoft makes the best laptop under $1,000 and I can’t recommend it enough](https://www.androidauthority.com/microsoft-surface-laptop-productivity-3240596/)<!-- TECH:END -->
+ - [The best early Cyber Monday deals under $25 you can get now](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
+ - [The best early Cyber Monday deals you can still get at Target](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)
+ - [The best early Cyber Monday deals you can get at Best Buy](https://www.theverge.com/23477726/best-buy-black-friday-2022-cyber-monday-tech-deals-tvs-games-smartwatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
