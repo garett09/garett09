@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals you can get at Best Buy](https://www.theverge.com/23477726/best-buy-black-friday-2022-cyber-monday-tech-deals-tvs-games-smartwatch)
- - [11 Bluetooth Speaker Deals to Kickstart Your Cyber Monday Shopping     - CNET](https://www.cnet.com/tech/home-entertainment/11-great-early-cyber-monday-deals-on-bluetooth-speakers-that-you-can-snag-today/#ftag=CAD590a51e)
- - [Cyber Monday deal: M1 MacBook Air on sale for $799 at Amazon](https://appleinsider.com/articles/22/11/27/cyber-monday-deal-m1-macbook-air-on-sale-for-799-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [The best early Cyber Monday deals you can get now](https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones)
+ - [The Best Sci-Fi Movies on Netflix You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-can-watch-right-now/#ftag=CAD590a51e)
+ - [300+ Cyber Monday Deals: Black Friday Discounts Still Available     - CNET](https://www.cnet.com/deals/cyber-monday-deals-2022-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
