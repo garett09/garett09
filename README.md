@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol..](http://9gag.com/gag/aeQbvep)
- - 🚯 [That smile](http://9gag.com/gag/awZn651)
- - 🚯 [Jim did an awesome job with this one and the sequel.](http://9gag.com/gag/aME8RzG)<!-- MEMES:END -->
+ - 🚖 [Nostalgic](http://9gag.com/gag/aGEe9YK)
+ - 🚯 [Great power comes with great responsibility.](http://9gag.com/gag/arm5vmV)
+ - 🚯 [Facts are important. Or so it used to be](http://9gag.com/gag/a1PKAKv)<!-- MEMES:END -->
 
 --- 
 
