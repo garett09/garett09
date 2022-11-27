@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals that you can still get](https://www.theverge.com/23475097/black-friday-2022-deals-best-still-available-weekend-sales-tech-earbuds-laptops)
- - [138 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-2/)
- - [HyperX&#39;s Insane 300-Hour Gaming Headphones Are on Sale for Black Friday &lpar;2022&rpar;](https://www.wired.com/story/hyperx-cloud-alpha-sale-black-friday-2022/)<!-- TECH:END -->
+ - [20 Best Black Friday Soundbar and TV Deals &lpar;2022&rpar;: Samsung, Vizio, LG, and More](https://www.wired.com/story/best-black-friday-tv-soundbar-deals-2022-1/)
+ - [40 Best Kitchen and Home Deals for Black Friday &lpar;2022&rpar;: Cookware, Vacs, and More](https://www.wired.com/story/best-black-friday-kitchen-and-home-deals-2022/)
+ - [88 Best Amazon Deals For Black Friday &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-amazon-black-friday-deals-2022-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
