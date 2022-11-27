@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From rags* to riches](http://9gag.com/gag/aYV4W5v)
- - 🚯 [Sweet little baby](http://9gag.com/gag/aL1DYYv)
- - 🚯 [N, you look 40..](http://9gag.com/gag/a3Zq9x7)<!-- MEMES:END -->
+ - 🚖 [Polnischer Adventskalender](http://9gag.com/gag/aNwzm93)
+ - 🚯 [Beggar wants a free drawing](http://9gag.com/gag/a6qVLnb)
+ - 🚯 [20 Mechanical Principles combined in a Useless Lego Machine](http://9gag.com/gag/aDYzojG)<!-- MEMES:END -->
 
 --- 
 
