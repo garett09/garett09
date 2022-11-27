@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [68 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-2/)
  - [20 Best Black Friday Soundbar and TV Deals &lpar;2022&rpar;: Samsung, Vizio, LG, and More](https://www.wired.com/story/best-black-friday-tv-soundbar-deals-2022-1/)
- - [40 Best Kitchen and Home Deals for Black Friday &lpar;2022&rpar;: Cookware, Vacs, and More](https://www.wired.com/story/best-black-friday-kitchen-and-home-deals-2022/)
- - [88 Best Amazon Deals For Black Friday &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-amazon-black-friday-deals-2022-2/)<!-- TECH:END -->
+ - [Cyber Monday Deals on Amazon Devices Are Heating Up as Black Friday Ends     - CNET](https://www.cnet.com/deals/cyber-monday-deals-on-amazon-devices-are-heating-up-as-black-friday-ends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
