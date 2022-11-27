@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals you can get on 4K TVs](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)
- - [With Black Friday in the Rearview, Various Beats Headphones Remain at All-time Lows     - CNET](https://www.cnet.com/deals/black-friday-in-rearview-new-cyber-monday-deals-beats-headphones/#ftag=CAD590a51e)
- - [Best Immunity Supplements for Winter 2022     - CNET](https://www.cnet.com/health/nutrition/best-immunity-supplements-for-winter-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [171 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2022-1/)
+ - [78 Best Cyber Monday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-cyber-monday-laptop-deals-2022/)
+ - [Shanghai-based eRoad, which offers a cloud-based HR management service with a focus on payroll, raised a ~$140M Series D, after raising an ~$84M Series C &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/221127/p3#a221127p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
