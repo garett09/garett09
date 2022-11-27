@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [44 Best Apple Cyber Monday Deals &lpar;2022&rpar;: Apple Watch, iPads, AirPods](https://www.wired.com/story/apple-cyber-monday-deals-2022/)
- - [The best early Cyber Monday deals that make for great gifts](https://www.theverge.com/23475599/black-friday-deals-gift-ideas-cyber-monday-holiday-shopping)
- - [The best Live Activities in iOS 16.1](https://appleinsider.com/inside/ios-16/best/the-best-live-activities-in-ios-161?utm_medium=rss)<!-- TECH:END -->
+ - [I don’t want a zoom lens on my next phone, I want two zoom lenses](https://www.androidauthority.com/dual-zoom-cameras-smartphone-opinion-3236386/)
+ - [B&amp;H Cyber Monday Apple sale: $200 off M2 MacBook Air, up to $600 off MacBook Pro, $100 off iPad Pro M2](https://appleinsider.com/articles/22/11/27/bh-cyber-monday-apple-sale-200-off-m2-macbook-air-up-to-600-off-macbook-pro-100-off-ipad-pro-m2?utm_medium=rss)
+ - [22 Best Cyber Monday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-cyber-monday-mattress-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
