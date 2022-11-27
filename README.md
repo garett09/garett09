@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [68 Best Black Friday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-black-friday-laptop-deals-2022-2/)
- - [22 Best Black Friday Sex Toy Deals &lpar;2022&rpar;: Dame, Lelo, and More](https://www.wired.com/story/best-black-friday-sex-toy-deals-2022-2/)
- - [68 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-2/)<!-- TECH:END -->
+ - [Early Cyber Monday Deals Make This Smart Garage Accessory Impulsively Cheap -- Get One Today     - CNET](https://www.cnet.com/deals/chamberlain-myq-deal-cyber-monday/#ftag=CAD590a51e)
+ - [68 Best Target Black Friday Deals Still Going &lpar;2022&rpar;](https://www.wired.com/story/best-target-black-friday-deals-2022-2/)
+ - [How live-action YouTube kids channels Vlad and Niki, Like Nastya, and Kids Diana Show, with a total of ~300M subscribers, are building global franchises &lpar;R.T. Watson/Wall Street Journal&rpar;](http://www.techmeme.com/221127/p1#a221127p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
