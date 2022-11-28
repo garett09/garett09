@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can only see it once](http://9gag.com/gag/aYV4LzV)
- - 🚯 [She died on 19th of February 2022](http://9gag.com/gag/awZQKRy)
- - 🚯 [Ok idc](http://9gag.com/gag/aVbMqYK)<!-- MEMES:END -->
+ - 🚖 [Some of your friends, are not really your friends](http://9gag.com/gag/aZDg35p)
+ - 🚯 [Ok idc](http://9gag.com/gag/aVbMqYK)
+ - 🚯 [Belgian reporter is been assaulted live on Belgian TV.](http://9gag.com/gag/aVbMDRM)<!-- MEMES:END -->
 
 --- 
 
