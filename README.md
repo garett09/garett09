@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude, nobody is gonna get it, there aren&#39;t enough pixels.](http://9gag.com/gag/aBd8wQQ)
- - 🚯 [Moroccans riot in Brussel after football match win against Belgium](http://9gag.com/gag/aYV4KyN)
- - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)<!-- MEMES:END -->
+ - 🚖 [He finally got the arm](http://9gag.com/gag/aKEVbpN)
+ - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)
+ - 🚯 [Don&#39;t mess with water pressure](http://9gag.com/gag/axo0DQ2)<!-- MEMES:END -->
 
 --- 
 
