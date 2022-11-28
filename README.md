@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [96 Best Amazon Deals For Cyber Monday &lpar;2022&rpar;: iPads, Kindles, and More](https://www.wired.com/story/best-amazon-cyber-monday-deals-2022/)
- - [Poll: What’s your delivery tracking habit?](https://www.androidauthority.com/delivery-tracking-habit-poll-3241814/)
- - [It’s official: The Xiaomi 13 series is coming this week](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)<!-- TECH:END -->
+ - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
+ - [Daily Authority: 🚴 The ultimate e-bike test](https://www.androidauthority.com/daily-authority-november-28-2022-3241807/)
+ - [40 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
