@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She died on 19th of February 2022](http://9gag.com/gag/awZQKRy)
- - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)
- - 🚯 [Pretty damn well for holding the shot](http://9gag.com/gag/aL188wv)<!-- MEMES:END -->
+ - 🚖 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - 🚯 [Today, if this French driver criticizes environmental activists, please view it as a &#39;caution&#39; step. Knowing the truth, I am not happy.](http://9gag.com/gag/avQ7Oen)
+ - 🚯 [A fighter of the Armed Forces of Ukraine showed a Turkish `Kirpi` armored personnel carrier after a mine explosion and a direct hit by a shell on the car. Despite all the damage, the entire crew survived.](http://9gag.com/gag/a1PKoz2)<!-- MEMES:END -->
 
 --- 
 
