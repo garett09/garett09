@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Polygon’s 2022 PC gaming gift guide](https://www.polygon.com/23445716/2022-pc-gaming-gift-guide-keyboards-vr-headsets)
  - [Starship Troopers is getting a new shooter with the right studio behind it](https://www.polygon.com/23481844/starship-troopers-fps-extermination-release-date-offworld-industries)
- - [You Can Get An Xbox Series S For Under $200 Today](https://kotaku.com/xbox-series-s-amazon-sale-cyber-monday-black-friday-1849825440)
- - [Intel gaming laptops and 13th Gen Intel Core desktop CPUs are a gift for PC gamers this holiday season](https://www.pcgamer.com/intel-gaming-laptops-and-13th-gen-intel-core-desktop-cpus-are-a-gift-for-pc-gamers-this-holiday-season)<!-- GAME:END -->
+ - [Chosen Identity is low-key the best Dracthyr ability in World of Warcraft: Dragonflight](https://www.pcgamer.com/chosen-identity-is-low-key-the-best-dracthyr-ability-in-world-of-warcraft-dragonflight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
