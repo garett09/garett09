@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s newest mutant is the actual Sherlock Holmes](https://www.polygon.com/2022/11/28/23481962/marvel-x-men-sherlock-holmes)
- - [Just Dance 2023 Edition Out Now for Xbox Series X|S](https://news.xbox.com/en-us/2022/11/28/just-dance-2023-edition-xbox-series-xs/)
- - [Fuecoco Is The Best Pokémon Scarlet And Violet Starter, Unless...](https://kotaku.com/pokemon-scarlet-violet-best-starter-fuecoco-evolution-1849827880)<!-- GAME:END -->
+ - [How Pokémon Scarlet and Violet’s multiplayer works &lpar;and doesn’t&rpar;](https://www.polygon.com/pokemon-scarlet-violet-guide/23466451/union-circle-multiplayer-exclusives-spawns-raids-trade-battle)
+ - [Pokémon Scarlet and Violet EV training guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)
+ - [Report: Microsoft To Offer Sony 10 Years Of Call Of Duty To Close Activision Deal](https://kotaku.com/call-of-duty-microsoft-activision-merger-eu-10-years-1849828178)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
