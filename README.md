@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Promised Oceanic+ app for Apple Watch Ultra arriving Monday](https://appleinsider.com/articles/22/11/28/promised-oceanic-app-for-apple-watch-ultra-arriving-monday?utm_medium=rss)
- - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
- - [AppleTogether ask Apple Store staff about union busting for possible class action suit](https://appleinsider.com/articles/22/11/28/appletogether-ask-apple-store-staff-about-union-busting-for-possible-class-action-suit?utm_medium=rss)<!-- TECH:END -->
+ - [The best Cyber Monday deals on smart home tech](https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday)
+ - [The best Cyber Monday 2022 phone deals you can get now](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)
+ - [40 best Black Friday Apple deals on Amazon have been extended](https://appleinsider.com/articles/22/11/26/40-best-black-friday-apple-deals-on-amazon-have-been-extended?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
