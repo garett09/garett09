@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)
- - 🚯 [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)
- - 🚯 [Happy Family](http://9gag.com/gag/aKEDDD6)<!-- MEMES:END -->
+ - 🚖 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
+ - 🚯 [Funny things is none of the target audience showed up to support these](http://9gag.com/gag/a1PKopP)
+ - 🚯 [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)<!-- MEMES:END -->
 
 --- 
 
