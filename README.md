@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
- - 🚯 [Today, if this French driver criticizes environmental activists, please view it as a &#39;caution&#39; step. Knowing the truth, I am not happy.](http://9gag.com/gag/avQ7Oen)
- - 🚯 [A fighter of the Armed Forces of Ukraine showed a Turkish `Kirpi` armored personnel carrier after a mine explosion and a direct hit by a shell on the car. Despite all the damage, the entire crew survived.](http://9gag.com/gag/a1PKoz2)<!-- MEMES:END -->
+ - 🚖 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
+ - 🚯 [Men... I guess?](http://9gag.com/gag/a4oG7yd)
+ - 🚯 [Peskov accused EU of being russophobic after declaration of Russia as a terrorrism sponsor](http://9gag.com/gag/aWGqY0d)<!-- MEMES:END -->
 
 --- 
 
