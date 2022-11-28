@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some of your friends, are not really your friends](http://9gag.com/gag/aZDg35p)
- - 🚯 [Ok idc](http://9gag.com/gag/aVbMqYK)
- - 🚯 [Belgian reporter is been assaulted live on Belgian TV.](http://9gag.com/gag/aVbMDRM)<!-- MEMES:END -->
+ - 🚖 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 🚯 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)<!-- MEMES:END -->
 
 --- 
 
