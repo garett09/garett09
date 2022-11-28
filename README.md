@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s when World of Warcraft: Dragonflight releases in your time zone](https://www.pcgamer.com/world-of-warcraft-dragonflight-release-time-unlock)
  - [Competitive Farming Simulator is like an agriculture Grand Prix](https://www.pcgamer.com/competitive-farming-simulator-is-like-an-agriculture-grand-prix)
- - [Star Wars board games and miniatures get Cyber Monday deals on Amazon](https://www.polygon.com/deals/2022/11/28/23475281/star-wars-cyber-monday-deals-board-games-miniatures-x-wing-armada-legion-rebellion)
- - [Cyber Monday board game deals: Amazon cuts hundreds of titles up to 75%](https://www.polygon.com/deals/2022/11/28/23473347/amazon-cyber-monday-board-game-sale-gloomhaven-catan-descent-arkham-horror-pandemic)<!-- GAME:END -->
+ - [Star Wars board games and miniatures get Cyber Monday deals on Amazon](https://www.polygon.com/deals/2022/11/28/23475281/star-wars-cyber-monday-deals-board-games-miniatures-x-wing-armada-legion-rebellion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
