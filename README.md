@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Pokémon Scarlet and Violet’s multiplayer works &lpar;and doesn’t&rpar;](https://www.polygon.com/pokemon-scarlet-violet-guide/23466451/union-circle-multiplayer-exclusives-spawns-raids-trade-battle)
- - [Pokémon Scarlet and Violet EV training guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)
- - [Report: Microsoft To Offer Sony 10 Years Of Call Of Duty To Close Activision Deal](https://kotaku.com/call-of-duty-microsoft-activision-merger-eu-10-years-1849828178)<!-- GAME:END -->
+ - [How professions work in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-professions)
+ - [Yakuza&#39;s Cabaret Minigame Is Making A Triumphant Return](https://kotaku.com/like-a-dragon-gaiden-yakuza-sega-cabaret-hostess-model-1849828403)
+ - [The Witcher remake will be an open world &#39;reimagining&#39; of the original](https://www.pcgamer.com/the-witcher-remake-will-be-an-open-world-reimagining)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
