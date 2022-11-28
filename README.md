@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
- - 🚯 [Funny things is none of the target audience showed up to support these](http://9gag.com/gag/a1PKopP)
- - 🚯 [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)<!-- MEMES:END -->
+ - 🚖 [Satisfying](http://9gag.com/gag/aPg994G)
+ - 🚯 [#1!](http://9gag.com/gag/aXnvx0P)
+ - 🚯 [Ukrainian troops seized the positions of Kadyrovites, the level of sexual crimes has yet to be assessed](http://9gag.com/gag/aQEe3DW)<!-- MEMES:END -->
 
 --- 
 
