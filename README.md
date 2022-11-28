@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s how you make it.](http://9gag.com/gag/a8q8pje)
- - 🚯 [Haha gun powder goes brrrr](http://9gag.com/gag/a3ZM7nr)
- - 🚯 [Where is it, Bruce?!](http://9gag.com/gag/arm5OKp)<!-- MEMES:END -->
+ - 🚖 [Give me your best reaction pics &amp; GIFs. For all kind of situations.](http://9gag.com/gag/aOxBKqE)
+ - 🚯 [Horny for journalist](http://9gag.com/gag/aA0DY0g)
+ - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)<!-- MEMES:END -->
 
 --- 
 
