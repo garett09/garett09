@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyber Monday gaming PC deals 2022: rig discounts as far as the eye can see](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
  - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
- - [Today&#39;s Wordle answer and hint for Monday, November 28](https://www.pcgamer.com/wordle-527-answer-november-28)
- - [Here&#39;s when World of Warcraft: Dragonflight releases in your time zone](https://www.pcgamer.com/world-of-warcraft-dragonflight-release-time-unlock)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight leveling guide: How to get to 70 in style](https://www.pcgamer.com/world-of-warcraft-dragonflight-leveling-guide-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
