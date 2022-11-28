@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Cyber Monday Apple sale: $200 off M2 MacBook Air, up to $600 off MacBook Pro, $100 off iPad Pro M2](https://appleinsider.com/articles/22/11/27/bh-cyber-monday-apple-sale-200-off-m2-macbook-air-up-to-600-off-macbook-pro-100-off-ipad-pro-m2?utm_medium=rss)
- - [Musk says Apple threatened to withhold Twitter from App Store &quot;but won&#39;t tell us why&quot;, as he calls out Apple over lower Twitter ad spend and alleged censorship &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221128/p16#a221128p16)
- - [Elon Musk says Apple has ‘threatened to withhold Twitter’ from the App Store](https://www.theverge.com/2022/11/28/23482387/elon-musk-twitter-apple-threat-withhold-app-store)<!-- TECH:END -->
+ - [Apple cutting ad spend on Twitter sends Musk to war](https://appleinsider.com/articles/22/11/28/apple-cutting-ad-spend-on-twitter-sends-musk-to-war?utm_medium=rss)
+ - [US crypto exchange Kraken agrees to pay $360K+ to the Treasury Department to settle accusations of sanctions violations involving transactions by users in Iran &lpar;New York Times&rpar;](http://www.techmeme.com/221128/p18#a221128p18)
+ - [iPhone 15 rumored to get advanced image sensor from Sony](https://appleinsider.com/articles/22/11/28/iphone-15-rumored-to-get-advanced-image-sensor-from-sony?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
