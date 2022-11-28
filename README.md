@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give me your best reaction pics &amp; GIFs. For all kind of situations.](http://9gag.com/gag/aOxBKqE)
- - 🚯 [Horny for journalist](http://9gag.com/gag/aA0DY0g)
- - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)<!-- MEMES:END -->
+ - 🚖 [Happy Family](http://9gag.com/gag/aKEDDD6)
+ - 🚯 [They had one job](http://9gag.com/gag/a5XnP3O)
+ - 🚯 [If Elon bought the government](http://9gag.com/gag/aOxBbXr)<!-- MEMES:END -->
 
 --- 
 
