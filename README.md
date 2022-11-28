@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cutting ad spend on Twitter sends Musk to war](https://appleinsider.com/articles/22/11/28/apple-cutting-ad-spend-on-twitter-sends-musk-to-war?utm_medium=rss)
- - [US crypto exchange Kraken agrees to pay $360K+ to the Treasury Department to settle accusations of sanctions violations involving transactions by users in Iran &lpar;New York Times&rpar;](http://www.techmeme.com/221128/p18#a221128p18)
- - [iPhone 15 rumored to get advanced image sensor from Sony](https://appleinsider.com/articles/22/11/28/iphone-15-rumored-to-get-advanced-image-sensor-from-sony?utm_medium=rss)<!-- TECH:END -->
+ - [36 Best Video Game Cyber Monday Deals &lpar;2022&rpar;: Switch, Playstation, Xbox, and More](https://www.wired.com/story/best-cyber-monday-video-game-deals-2022/)
+ - [Amazon&#39;s Cyber Monday Apple deals are selling out, here&#39;s what&#39;s  left](https://appleinsider.com/articles/22/11/28/amazons-cyber-monday-apple-deals-are-selling-out-heres-whats-left?utm_medium=rss)
+ - [Pentiment’s pretty pages protect otherwise poor play](https://www.theverge.com/23482189/pentiment-xbox-obsidian-entertainment-impressions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
