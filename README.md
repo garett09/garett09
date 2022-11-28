@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp begins rolling out a Message Yourself feature, letting users send notes, reminders, and shopping lists to themselves &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/221128/p3#a221128p3)
- - [New Zealand says Twitter failed to detect or remove clips from the 2019 Christchurch terror attack until the government alerted the company &lpar;Eva Corlett/The Guardian&rpar;](http://www.techmeme.com/221128/p2#a221128p2)
- - [177 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2022-2/)<!-- TECH:END -->
+ - [How to enroll in and leave Apple&#39;s beta program on iOS &amp; iPadOS](https://appleinsider.com/inside/iphone/tips/how-to-enroll-in-and-leave-apples-beta-program-on-ios-ipados?utm_medium=rss)
+ - [Paris-based Kiln, an Ethereum &quot;staking-as-a-service&quot; startup, raised a &amp;euro;17M Series A from Consensys and more; Kiln has $500M+ of staked assets under management &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/221128/p7#a221128p7)
+ - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
