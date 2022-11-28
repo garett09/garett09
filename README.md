@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s rumored Disney acquisition is &#39;pure speculation&#39; says Bob Iger](https://appleinsider.com/articles/22/11/28/apples-rumored-disney-acquisition-is-pure-speculation-says-bob-iger?utm_medium=rss)
- - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)
- - [The best Cyber Monday deals under $100](https://www.theverge.com/23480442/cyber-monday-2022-tech-deals-under-100-streaming-speakers-gaming)<!-- TECH:END -->
+ - [B&amp;H Cyber Monday Apple sale: $200 off M2 MacBook Air, up to $600 off MacBook Pro, $100 off iPad Pro M2](https://appleinsider.com/articles/22/11/27/bh-cyber-monday-apple-sale-200-off-m2-macbook-air-up-to-600-off-macbook-pro-100-off-ipad-pro-m2?utm_medium=rss)
+ - [Musk says Apple threatened to withhold Twitter from App Store &quot;but won&#39;t tell us why&quot;, as he calls out Apple over lower Twitter ad spend and alleged censorship &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221128/p16#a221128p16)
+ - [Elon Musk says Apple has ‘threatened to withhold Twitter’ from the App Store](https://www.theverge.com/2022/11/28/23482387/elon-musk-twitter-apple-threat-withhold-app-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
