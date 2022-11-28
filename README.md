@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He finally got the arm](http://9gag.com/gag/aKEVbpN)
- - 🚯 [You can only see it once](http://9gag.com/gag/aYV4LzV)
- - 🚯 [Don&#39;t mess with water pressure](http://9gag.com/gag/axo0DQ2)<!-- MEMES:END -->
+ - 🚖 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
+ - 🚯 [Heil 9GAG](http://9gag.com/gag/a045bNX)
+ - 🚯 [But...](http://9gag.com/gag/aQEe9qr)<!-- MEMES:END -->
 
 --- 
 
