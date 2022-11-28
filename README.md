@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Cyber Monday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-cyber-monday-sonos-deals-2022/)
- - [These Cyber Monday Google Store Deals Are Live     - CNET](https://www.cnet.com/deals/these-cyber-monday-google-store-deals-are-already-live/#ftag=CAD590a51e)
- - [300+ Early Cyber Monday Deals from Amazon, Target, Best Buy     - CNET](https://www.cnet.com/deals/cyber-monday-deals-2022-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Cyber Monday Google Device Deals &lpar;2022&rpar;: Pixel 7, Pixel Watch, Nest Cam](https://www.wired.com/story/best-cyber-monday-google-device-deals-2022/)
+ - [China seems to be flooding Twitter with porn tweets mentioning places where people are protesting, overwhelming Twitter&#39;s radically reduced anti-propaganda team &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/221127/p5#a221127p5)
+ - [6 Best Cyber Monday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-cyber-monday-sonos-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
