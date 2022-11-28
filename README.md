@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our lunar ambitions depend on this fake Moon dirt](https://www.theverge.com/2022/11/28/23466674/nasa-artemis-moon-race-testing-lunar-regolith-dirt)
- - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)
- - [UK police report: financial losses from crypto fraud were up 32% YoY to &amp;pound;226M between October 2021 and September 2022 and cases rose 16% to 10,030 &lpar;Financial Times&rpar;](http://www.techmeme.com/221128/p11#a221128p11)<!-- TECH:END -->
+ - [Source: BlockFi plans to file for Chapter 11 bankruptcy protection later today and will lay off a large portion of its staff &lpar;Decrypt&rpar;](http://www.techmeme.com/221128/p13#a221128p13)
+ - [Best New Christmas Movies to Watch in 2022     - CNET](https://www.cnet.com/culture/entertainment/best-new-christmas-movies-to-stream/#ftag=CAD590a51e)
+ - [Meta fined $276 million over Facebook data leak involving more than 533 million users](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
