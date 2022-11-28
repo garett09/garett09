@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [54 Best Kitchen and Home Deals for Cyber Monday &lpar;2022&rpar;: Cookware, Vacs, and More](https://www.wired.com/story/best-cyber-monday-kitchen-and-home-deals-2022/)
- - [Spotify Instafest: How To Create and Share Your Dream Festival Lineup     - CNET](https://www.cnet.com/culture/internet/spotify-instafest-how-to-create-and-share-your-dream-festival-line-up/#ftag=CAD590a51e)
- - [The best early Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)<!-- TECH:END -->
+ - [Beats Headphones Are at an All-Time Low Price for Cyber Monday     - CNET](https://www.cnet.com/deals/beats-headphones-are-at-an-all-time-low-price-for-cyber-monday/#ftag=CAD590a51e)
+ - [The Best Cyber Monday TV Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)
+ - [Target Cyber Monday Deals: The Best 25 Discounts Live Now     - CNET](https://www.cnet.com/deals/target-cyber-monday-deals-the-best-25-discounts-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
