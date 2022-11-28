@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok idc](http://9gag.com/gag/aVbMqYK)
- - 🚯 [The largest quarantine camp in China&#39;s Guangzhou city is being built. It has 90,000 isolation pods.](http://9gag.com/gag/aGEeZpG)
- - 🚯 [Ccp start arresting people ....Update this video in case it will be banned later...](http://9gag.com/gag/a6qVO6A)<!-- MEMES:END -->
+ - 🚖 [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)
+ - 🚯 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
+ - 🚯 [Dude, nobody is gonna get it, there aren&#39;t enough pixels.](http://9gag.com/gag/aBd8wQQ)<!-- MEMES:END -->
 
 --- 
 
