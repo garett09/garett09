@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Deal Zone: M1 MacBook Air with 16GB RAM, 1TB SSD $1,199](https://appleinsider.com/articles/22/11/28/cyber-monday-deal-zone-m1-macbook-air-with-16gb-ram-1tb-ssd-1199?utm_medium=rss)
- - [171 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2022-2/)
- - [31 Cyber Monday Deals on Our Fave Amazon Devices: Kindles, Fire TV Sticks, Eero, and More](https://www.wired.com/story/best-cyber-monday-amazon-device-deals-2022/)<!-- TECH:END -->
+ - [It’s official: The Xiaomi 13 series is coming this week](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)
+ - [Cyber Monday: Clean your house with Roborock&#39;s robot vacuum deals](https://appleinsider.com/articles/22/11/28/cyber-monday-clean-your-house-with-roborocks-robot-vacuum-deals?utm_medium=rss)
+ - [Cyber Monday Deal Zone: M1 MacBook Air with 16GB RAM, 1TB SSD $1,199](https://appleinsider.com/articles/22/11/28/cyber-monday-deal-zone-m1-macbook-air-with-16gb-ram-1tb-ssd-1199?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
