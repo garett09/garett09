@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming PC deals 2022: rig discounts as far as the eye can see](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
- - [World of Warcraft: Dragonflight leveling guide: How to get to 70 in style](https://www.pcgamer.com/world-of-warcraft-dragonflight-leveling-guide-tips)<!-- GAME:END -->
+ - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)
+ - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
+ - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
