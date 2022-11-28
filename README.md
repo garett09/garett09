@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Best Video Game Cyber Monday Deals &lpar;2022&rpar;: Switch, Playstation, Xbox, and More](https://www.wired.com/story/best-cyber-monday-video-game-deals-2022/)
- - [Amazon&#39;s Cyber Monday Apple deals are selling out, here&#39;s what&#39;s  left](https://appleinsider.com/articles/22/11/28/amazons-cyber-monday-apple-deals-are-selling-out-heres-whats-left?utm_medium=rss)
- - [Pentiment’s pretty pages protect otherwise poor play](https://www.theverge.com/23482189/pentiment-xbox-obsidian-entertainment-impressions)<!-- TECH:END -->
+ - [The best Cyber Monday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)
+ - [Google paid millions to radio hosts to endorse the Pixel 4 — even though they hadn’t used it](https://www.theverge.com/2022/11/28/23482636/google-iheartmedia-pixel-4-ads-ftc-radio-hosts)
+ - [76 Best Cyber Monday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-cyber-monday-laptop-deals-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
