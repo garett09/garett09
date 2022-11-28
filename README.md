@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: BlockFi plans to file for Chapter 11 bankruptcy protection later today and will lay off a large portion of its staff &lpar;Decrypt&rpar;](http://www.techmeme.com/221128/p13#a221128p13)
- - [Best New Christmas Movies to Watch in 2022     - CNET](https://www.cnet.com/culture/entertainment/best-new-christmas-movies-to-stream/#ftag=CAD590a51e)
- - [Meta fined $276 million over Facebook data leak involving more than 533 million users](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr)<!-- TECH:END -->
+ - [Promised Oceanic+ app for Apple Watch Ultra arriving Monday](https://appleinsider.com/articles/22/11/28/promised-oceanic-app-for-apple-watch-ultra-arriving-monday?utm_medium=rss)
+ - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
+ - [AppleTogether ask Apple Store staff about union busting for possible class action suit](https://appleinsider.com/articles/22/11/28/appletogether-ask-apple-store-staff-about-union-busting-for-possible-class-action-suit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
