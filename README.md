@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man creates his own power generation resource by constructing a dam on a wastewater flowway.](http://9gag.com/gag/amA25NV)
- - 🚯 [Some of your friends, are not really your friends](http://9gag.com/gag/aZDg35p)
- - 🚯 [`Who in hell is that?!`](http://9gag.com/gag/anzj9zo)<!-- MEMES:END -->
+ - 🚖 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
+ - 🚯 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
+ - 🚯 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)<!-- MEMES:END -->
 
 --- 
 
