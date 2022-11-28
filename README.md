@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The internet archive has Palm Pilot apps now](https://www.pcgamer.com/the-internet-archive-has-palm-pilot-apps-now)
- - [Great moments in PC gaming: Getting so into VR you forget you&#39;re in VR](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-so-into-vr-you-forget-youre-in-vr)
- - [Here&#39;s ray-traced Quake 1, because why not at this point](https://www.pcgamer.com/heres-ray-traced-quake-1-because-why-not-at-this-point)<!-- GAME:END -->
+ - [Amouranth Streamed &#39;More Overwatch Than Hot Tub&#39; Last Month, Says &#39;Life Is Better&#39;](https://kotaku.com/amouranth-hot-tub-overwatch-stream-return-twitch-dance-1849824919)
+ - [TikTok roleplayers have made a viral game out of trading with capitalism cats](https://www.pcgamer.com/tiktok-roleplayers-have-made-a-viral-game-out-of-trading-with-capitalism-cats)
+ - [The internet archive has Palm Pilot apps now](https://www.pcgamer.com/the-internet-archive-has-palm-pilot-apps-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
