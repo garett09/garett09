@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel gaming laptops and 13th Gen Intel Core desktop CPUs are a gift for PC gamers this holiday season](https://www.pcgamer.com/intel-gaming-laptops-and-13th-gen-intel-core-desktop-cpus-are-a-gift-for-pc-gamers-this-holiday-season)
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
- - [End of Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2022/11/28/end-of-year-deals-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
+ - [Starship Troopers is getting a new shooter with the right studio behind it](https://www.polygon.com/23481844/starship-troopers-fps-extermination-release-date-offworld-industries)
+ - [You Can Get An Xbox Series S For Under $200 Today](https://kotaku.com/xbox-series-s-amazon-sale-cyber-monday-black-friday-1849825440)
+ - [Intel gaming laptops and 13th Gen Intel Core desktop CPUs are a gift for PC gamers this holiday season](https://www.pcgamer.com/intel-gaming-laptops-and-13th-gen-intel-core-desktop-cpus-are-a-gift-for-pc-gamers-this-holiday-season)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
