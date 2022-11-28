@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Family](http://9gag.com/gag/aKEDDD6)
- - 🚯 [They had one job](http://9gag.com/gag/a5XnP3O)
- - 🚯 [If Elon bought the government](http://9gag.com/gag/aOxBbXr)<!-- MEMES:END -->
+ - 🚖 [From rags* to riches](http://9gag.com/gag/aYV4W5v)
+ - 🚯 [It\u2019s just a puffy bear](http://9gag.com/gag/a8q8jg3)
+ - 🚯 [Despite being only 14% of the 9gag population, Germans commit...](http://9gag.com/gag/aVbMPV2)<!-- MEMES:END -->
 
 --- 
 
