@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals on smart home tech](https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday)
- - [The best Cyber Monday 2022 phone deals you can get now](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)
- - [40 best Black Friday Apple deals on Amazon have been extended](https://appleinsider.com/articles/22/11/26/40-best-black-friday-apple-deals-on-amazon-have-been-extended?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s rumored Disney acquisition is &#39;pure speculation&#39; says Bob Iger](https://appleinsider.com/articles/22/11/28/apples-rumored-disney-acquisition-is-pure-speculation-says-bob-iger?utm_medium=rss)
+ - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)
+ - [The best Cyber Monday deals under $100](https://www.theverge.com/23480442/cyber-monday-2022-tech-deals-under-100-streaming-speakers-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
