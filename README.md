@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ireland&#39;s Data Protection Commission fines Meta &amp;euro;265M for failing to safeguard data on 500M+ users from data scrapers, the third fine by the DPC on Meta &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221128/p10#a221128p10)
- - [32 Best Cyber Monday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-cyber-monday-coffee-deals-2022-1/)
- - [Target Cyber Monday: 27 Amazing Deals Live Right Now     - CNET](https://www.cnet.com/deals/target-cyber-monday-27-amazing-deals-live-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our lunar ambitions depend on this fake Moon dirt](https://www.theverge.com/2022/11/28/23466674/nasa-artemis-moon-race-testing-lunar-regolith-dirt)
+ - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)
+ - [UK police report: financial losses from crypto fraud were up 32% YoY to &amp;pound;226M between October 2021 and September 2022 and cases rose 16% to 10,030 &lpar;Financial Times&rpar;](http://www.techmeme.com/221128/p11#a221128p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
