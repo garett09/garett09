@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
- - 🚯 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
- - 🚯 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)<!-- MEMES:END -->
+ - 🚖 [You can only see it once](http://9gag.com/gag/aYV4LzV)
+ - 🚯 [She died on 19th of February 2022](http://9gag.com/gag/awZQKRy)
+ - 🚯 [Ok idc](http://9gag.com/gag/aVbMqYK)<!-- MEMES:END -->
 
 --- 
 
