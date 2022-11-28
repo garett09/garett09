@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
- - 🚯 [Men... I guess?](http://9gag.com/gag/a4oG7yd)
- - 🚯 [Peskov accused EU of being russophobic after declaration of Russia as a terrorrism sponsor](http://9gag.com/gag/aWGqY0d)<!-- MEMES:END -->
+ - 🚖 [Bro code](http://9gag.com/gag/a9qAWOL)
+ - 🚯 [Some of your friends, are not really your friends](http://9gag.com/gag/aZDg35p)
+ - 🚯 [Dude, nobody is gonna get it, there aren&#39;t enough pixels.](http://9gag.com/gag/aBd8wQQ)<!-- MEMES:END -->
 
 --- 
 
