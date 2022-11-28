@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s 2022 PC gaming gift guide](https://www.polygon.com/23445716/2022-pc-gaming-gift-guide-keyboards-vr-headsets)
- - [Starship Troopers is getting a new shooter with the right studio behind it](https://www.polygon.com/23481844/starship-troopers-fps-extermination-release-date-offworld-industries)
- - [Chosen Identity is low-key the best Dracthyr ability in World of Warcraft: Dragonflight](https://www.pcgamer.com/chosen-identity-is-low-key-the-best-dracthyr-ability-in-world-of-warcraft-dragonflight)<!-- GAME:END -->
+ - [Ranking All The Grand Theft Auto Games, From Worst To Best](https://kotaku.com/ranking-all-the-grand-theft-auto-games-from-worst-to-b-1791387873)
+ - [Starship Troopers: Extermination is a 12-player co-op FPS from the makers of Squad](https://www.pcgamer.com/starship-troopers-extermination-is-a-12-player-co-op-fps-from-the-makers-of-squad)
+ - [D&amp;D’s Amazon Cyber Monday sale includes the biggest discounts of the year](https://www.polygon.com/deals/23482120/dnd-cyber-monday-sale-discounts-critical-role-dragonlance-curse-of-strahd-starter-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
