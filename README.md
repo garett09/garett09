@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From rags* to riches](http://9gag.com/gag/aYV4W5v)
- - 🚯 [It\u2019s just a puffy bear](http://9gag.com/gag/a8q8jg3)
- - 🚯 [Despite being only 14% of the 9gag population, Germans commit...](http://9gag.com/gag/aVbMPV2)<!-- MEMES:END -->
+ - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
+ - 🚯 [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)
+ - 🚯 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
 
 --- 
 
