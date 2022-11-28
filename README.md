@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
- - 🚯 [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)
- - 🚯 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
+ - 🚖 [Gym balls...](http://9gag.com/gag/abvz09E)
+ - 🚯 [Haha gun powder goes brrrr](http://9gag.com/gag/a3ZM7nr)
+ - 🚯 [I\u2019d call my mum\u2026..](http://9gag.com/gag/a8q886O)<!-- MEMES:END -->
 
 --- 
 
