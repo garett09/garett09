@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals you can get at Best Buy](https://www.theverge.com/23477726/best-buy-black-friday-2022-cyber-monday-tech-deals-tvs-games-smartwatch)
- - [A crypto exchange agrees to pay $360,000 for possibly violating Iran sanctions](https://www.theverge.com/2022/11/28/23482884/crypto-exchange-kraken-fined-sanctions-violation-iran)
- - [Last Chance: 8 Cyber Monday Deals at Their Lowest Prices Ever     - CNET](https://www.cnet.com/deals/last-chance-cyber-monday-deals-lowest-prices-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ends tonight: save up to 41% on iRobot Roomba robot vacuums &amp; mops](https://appleinsider.com/articles/22/11/29/ends-tonight-save-up-to-41-on-irobot-roomba-robot-vacuums-mops?utm_medium=rss)
+ - [The FTC and seven US states settle with Google and iHeartMedia, requiring the companies to pay $9.4M for allegedly paying radio hosts for deceptive Pixel 4 ads &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221128/p23#a221128p23)
+ - [Sources: Twitter only has one staff left on a team dedicated to removing CSAM after layoffs, despite Musk saying removing child exploitation is top priority &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/221128/p22#a221128p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
