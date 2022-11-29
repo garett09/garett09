@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
- - 🚯 [Come on boy](http://9gag.com/gag/abvzv0v)
- - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 🚖 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
+ - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 🚯 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
 
 --- 
 
