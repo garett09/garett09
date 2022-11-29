@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ends tonight: save up to 41% on iRobot Roomba robot vacuums &amp; mops](https://appleinsider.com/articles/22/11/29/ends-tonight-save-up-to-41-on-irobot-roomba-robot-vacuums-mops?utm_medium=rss)
- - [The FTC and seven US states settle with Google and iHeartMedia, requiring the companies to pay $9.4M for allegedly paying radio hosts for deceptive Pixel 4 ads &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221128/p23#a221128p23)
- - [Sources: Twitter only has one staff left on a team dedicated to removing CSAM after layoffs, despite Musk saying removing child exploitation is top priority &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/221128/p22#a221128p22)<!-- TECH:END -->
+ - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
+ - [The best Cyber Monday deals available now](https://www.theverge.com/23481797/cyber-monday-2022-best-deals-tech-earbuds-smart-home-entertainment-gifts)
+ - [Memo: Evan Spiegel told Snap employees that he expects them to be in the company&#39;s offices 80% of the time, or four or more days a week, starting February 2023 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221128/p25#a221128p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
