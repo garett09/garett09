@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
- - 🚯 [Moves you learn when you grow up with a brother](http://9gag.com/gag/aKED6Ob)
- - 🚯 [Big &amp; Little](http://9gag.com/gag/amA2BgX)<!-- MEMES:END -->
+ - 🚖 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)
+ - 🚯 [Save and never use ... paper airplane](http://9gag.com/gag/aKED7y6)
+ - 🚯 [Deleted at least one time](http://9gag.com/gag/axo0oZW)<!-- MEMES:END -->
 
 --- 
 
