@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 14 Pro shipments may drop by 20M in Q4 says Kuo](https://appleinsider.com/articles/22/11/29/apples-iphone-14-pro-shipments-may-drop-by-20m-in-q4-says-kuo?utm_medium=rss)
- - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [iPhone 15 Ultra: What it may look like, and what to expect in 2023](https://appleinsider.com/articles/22/11/29/iphone-15-ultra-what-it-looks-like-and-what-to-expect-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [WaterField introduces elegant leather carrying bag for Apple Watch](https://appleinsider.com/articles/22/11/29/waterfield-introduces-elegant-leather-carrying-bag-for-apple-watch?utm_medium=rss)
+ - [Apple Pay set for South Korean launch on November 30](https://appleinsider.com/articles/22/11/29/apple-pay-set-for-south-korean-launch-on-november-30?utm_medium=rss)
+ - [Cyber Monday Deals Still Available: Don&#39;t Miss These 77 Sales Under $50     - CNET](https://www.cnet.com/deals/cyber-monday-deals-still-available-dont-miss-these-77-sales-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
