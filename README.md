@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classical plot structure](http://9gag.com/gag/a8q8E1Q)
- - 🚯 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)
- - 🚯 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)<!-- MEMES:END -->
+ - 🚖 [Ok idc](http://9gag.com/gag/aVbMqYK)
+ - 🚯 [Funny creative title](http://9gag.com/gag/aDYz4rG)
+ - 🚯 [I think the party is downstairs](http://9gag.com/gag/aEqBP4p)<!-- MEMES:END -->
 
 --- 
 
