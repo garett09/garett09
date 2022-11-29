@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Loot Boxes Would Be For Adults Only If Australian Bill Passes](https://kotaku.com/loot-box-law-ban-ratings-r18-adults-only-gambling-1849828855)
- - [Bohemia Interactive wants people to please stop using Arma 3 to create fake war footage](https://www.pcgamer.com/bohemia-interactive-wants-people-to-please-stop-using-arma-3-to-create-fake-war-footage)
- - [Keep your coffee hot at your desk all day with the best insulated mug I&#39;ve ever used](https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used)<!-- GAME:END -->
+ - [How does Warhammer 40K: Darktide compare to Vermintide 2?](https://www.pcgamer.com/how-does-warhammer-40k-darktide-compare-to-vermintide-2)
+ - [Cyberpunk: Edgerunners helped push CD Projekt to &#39;the best third quarter in our entire history&#39;](https://www.pcgamer.com/cyberpunk-edgerunners-helped-push-cd-projekt-to-the-best-third-quarter-in-our-entire-history)
+ - [Kickstarter Cancelled In The Most Brutal Way Possible](https://kotaku.com/kickstarter-survival-horror-pc-mystery-flesh-pit-1849829127)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
