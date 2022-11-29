@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE Q4: revenue up 7% YoY to $7.87B, vs. $7.37B est., including Intelligent Edge up 18% YoY to $965M, HPC &amp; AI down 14% YoY to $862M, and Compute up 16% YoY &lpar;Kathryn Hardison/Dow Jones Newswires&rpar;](http://www.techmeme.com/221129/p29#a221129p29)
- - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [Eufy cameras upload content to the cloud without owners knowledge](https://appleinsider.com/articles/22/11/29/eufy-cameras-upload-content-to-the-cloud-without-owners-knowledge?utm_medium=rss)<!-- TECH:END -->
+ - [Pinterest says it is ending the creator rewards program that it launched in 2021, which offered cash bonuses when creators completed certain goals &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/221129/p32#a221129p32)
+ - [CrowdStrike reports Q3 revenue up 53% YoY to $581M, vs. $574M est., subscription customers up 44% YoY to 21,146; stock drops 17% on weaker-than-expected growth &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221129/p31#a221129p31)
+ - [Man discovers why walking in NYC with $95,000 in iPhones is a bad idea](https://www.androidauthority.com/iphone-robbery-nyc-3242476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
