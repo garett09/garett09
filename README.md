@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used Apple Fitness Plus for 7 Days: Here’s my honest review](https://www.androidauthority.com/apple-fitness-plus-review-3233190/)
- - [YouTube Music gets in on year-in-review season with 2022 Recap](https://www.theverge.com/23483703/youtube-music-recap-2022-year-in-review-spotify-wrapped)
- - [Adobe: US consumers spent $11.3B on Cyber Monday, up 5.8% YoY, above Thanksgiving&#39;s $5.29B and Black Friday&#39;s $9.12B, driven in part by deeper discounts &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221129/p20#a221129p20)<!-- TECH:END -->
+ - [&#39;Mpox&#39; Is the New Name for Monkeypox, WHO Says     - CNET](https://www.cnet.com/health/medical/who-renames-monkeypox-as-mpox/#ftag=CAD590a51e)
+ - [The Second-Closest Supermassive Black Hole to Earth Could Soon Be Revealed     - CNET](https://www.cnet.com/science/space/the-second-closest-supermassive-black-hole-to-earth-could-soon-be-revealed/#ftag=CAD590a51e)
+ - [The Best Cyber Monday TV Deals From $100 LCD to QLED to OLED     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
