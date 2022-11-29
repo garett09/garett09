@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 🚯 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
+ - 🚖 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - 🚯 [Me at work](http://9gag.com/gag/anzjORb)
+ - 🚯 [Just be a good boy](http://9gag.com/gag/awZQgN4)<!-- MEMES:END -->
 
 --- 
 
