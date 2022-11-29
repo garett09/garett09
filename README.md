@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gym balls...](http://9gag.com/gag/abvz09E)
- - 🚯 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
- - 🚯 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
+ - 🚯 [It was taken by surprise](http://9gag.com/gag/a3ZMwP7)
+ - 🚯 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)<!-- MEMES:END -->
 
 --- 
 
