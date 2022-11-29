@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any advice?](http://9gag.com/gag/a045RxZ)
- - 🚯 [Meanwhile in CCP](http://9gag.com/gag/aDYzdR9)
+ - 🚖 [For Babies](http://9gag.com/gag/aA0DegR)
+ - 🚯 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
  - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 --- 
