@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
- - 🚯 [It was taken by surprise](http://9gag.com/gag/a3ZMwP7)
- - 🚯 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)<!-- MEMES:END -->
+ - 🚖 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
+ - 🚯 [Moves you learn when you grow up with a brother](http://9gag.com/gag/aKED6Ob)
+ - 🚯 [Big &amp; Little](http://9gag.com/gag/amA2BgX)<!-- MEMES:END -->
 
 --- 
 
