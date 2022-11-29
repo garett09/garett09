@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
- - [Cyber Week deals: $799 MacBook Air, up to $900 off MacBook Pro, $1,799 Mac Studio, more](https://appleinsider.com/articles/22/11/29/cyber-week-deals-799-macbook-air-up-to-900-off-macbook-pro-1799-mac-studio-more?utm_medium=rss)<!-- TECH:END -->
+ - [At its halfway point, NASA’s Artemis I mission breaks a record](https://www.theverge.com/2022/11/29/23484571/artemis-1-halfway-record-distance)
+ - [The best Netflix shows you aren’t watching: 10 hidden gems you’ll love](https://www.androidauthority.com/hidden-gems-on-netflix-tv-shows-3241920/)
+ - [AWS unveils Amazon Security Lake, a service that automatically centralizes an organization&#39;s security data from cloud and on-premises sources into a data lake &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221129/p24#a221129p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
