@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gimme your best Walmart dweller](http://9gag.com/gag/aVbM382)
- - 🚯 [Me at work](http://9gag.com/gag/anzjORb)
- - 🚯 [How dogs see me, just dont have the touch](http://9gag.com/gag/axo0WVY)<!-- MEMES:END -->
+ - 🚖 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - 🚯 [G&lpar;old&rpar;](http://9gag.com/gag/awZQgEQ)
+ - 🚯 [I bet he is with other girls right now.The boys:](http://9gag.com/gag/aYV4EDV)<!-- MEMES:END -->
 
 --- 
 
