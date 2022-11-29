@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Rapid Fire Plans quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-rapid-fire-plans)
- - [The best Kastov 762 loadouts for Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-kastov-762-loadouts)
- - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)<!-- GAME:END -->
+ - [Jurassic World Evolution 2: Dominion Malta Expansion launches December 8](https://blog.playstation.com/2022/11/29/jurassic-world-evolution-2-dominion-malta-expansion-launches-december-8/)
+ - [Jurassic World Evolution 2: Dominion Malta Expansion launches December 8](https://blog.playstation.com/2022/11/29/jurassic-world-evolution-2-dominion-malta-expansion-launches-december-8/)
+ - [Report suggests Microsoft soon to offer concessions in Activision deal](https://www.pcgamer.com/report-suggests-microsoft-soon-to-offer-concessions-in-activision-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
