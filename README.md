@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current Refinance Rates on Nov. 29, 2022: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-nov-29-2022-rates-decline/#ftag=CAD590a51e)
- - [Shinesty Boxers Are a Truly Fun and Functional Gift     - CNET](https://www.cnet.com/culture/fashion/shinesty-boxers-are-a-truly-fun-and-functional-gift/#ftag=CAD590a51e)
- - [Mortgage Rates on Nov. 29, 2022: Rates Tick Down     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-on-nov-29-2022-rates-tick-down/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I used Apple Fitness Plus for 7 Days: Here’s my honest review](https://www.androidauthority.com/apple-fitness-plus-review-3233190/)
+ - [YouTube Music gets in on year-in-review season with 2022 Recap](https://www.theverge.com/23483703/youtube-music-recap-2022-year-in-review-spotify-wrapped)
+ - [Adobe: US consumers spent $11.3B on Cyber Monday, up 5.8% YoY, above Thanksgiving&#39;s $5.29B and Black Friday&#39;s $9.12B, driven in part by deeper discounts &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221129/p20#a221129p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
