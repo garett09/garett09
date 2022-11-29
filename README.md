@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is still your one-stop shop for total nonsense about Apple](https://appleinsider.com/articles/22/11/29/tiktok-is-still-your-one-stop-shop-for-total-nonsense-about-apple?utm_medium=rss)
+ - [HPE Q4: revenue up 7% YoY to $7.87B, vs. $7.37B est., including Intelligent Edge up 18% YoY to $965M, HPC &amp; AI down 14% YoY to $862M, and Compute up 16% YoY &lpar;Kathryn Hardison/Dow Jones Newswires&rpar;](http://www.techmeme.com/221129/p29#a221129p29)
  - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [Man beaten, robbed of $95,000 worth of iPhones outside Apple Store](https://appleinsider.com/articles/22/11/29/man-robbed-of-95000-worth-of-iphones-outside-fifth-avenue-apple-store?utm_medium=rss)<!-- TECH:END -->
+ - [Eufy cameras upload content to the cloud without owners knowledge](https://appleinsider.com/articles/22/11/29/eufy-cameras-upload-content-to-the-cloud-without-owners-knowledge?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
