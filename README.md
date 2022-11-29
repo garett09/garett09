@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - 🚯 [Wikileaks leaked 250,000 confidential documents showing war crimes committed by the US in Afghanistan and Iraq. The only one jailed for it: the man who made the leak.](http://9gag.com/gag/a045eXz)<!-- MEMES:END -->
+ - 🚖 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - 🚯 [Come on boy](http://9gag.com/gag/abvzv0v)
+ - 🚯 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)<!-- MEMES:END -->
 
 --- 
 
