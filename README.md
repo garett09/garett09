@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Evolution 2: Dominion Malta Expansion launches December 8](https://blog.playstation.com/2022/11/29/jurassic-world-evolution-2-dominion-malta-expansion-launches-december-8/)
- - [Jurassic World Evolution 2: Dominion Malta Expansion launches December 8](https://blog.playstation.com/2022/11/29/jurassic-world-evolution-2-dominion-malta-expansion-launches-december-8/)
- - [Report suggests Microsoft soon to offer concessions in Activision deal](https://www.pcgamer.com/report-suggests-microsoft-soon-to-offer-concessions-in-activision-deal)<!-- GAME:END -->
+ - [Awaken your wanderlust with open world adventure Sable, out today on PS5](https://blog.playstation.com/2022/11/29/awaken-your-wanderlust-with-open-world-adventure-sable-out-today-on-ps5/)
+ - [Elite Dangerous’ aliens are pissed and they’re not gonna take it anymore](https://www.polygon.com/23482930/elite-dangerous-update-14-thargoids-war-galnet-rogue-signal-source)
+ - [How choosing ‘Girl’ in early RPGs inspired today’s game designers](https://www.polygon.com/23473203/pokemon-crystal-kris-gender-representation-trans-non-binary-characters-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
