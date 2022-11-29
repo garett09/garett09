@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok idc](http://9gag.com/gag/aVbMqYK)
- - 🚯 [Funny creative title](http://9gag.com/gag/aDYz4rG)
- - 🚯 [I think the party is downstairs](http://9gag.com/gag/aEqBP4p)<!-- MEMES:END -->
+ - 🚖 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - 🚯 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - 🚯 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
 
 --- 
 
