@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moves you learn when you grow up with a brother](http://9gag.com/gag/aKED6Ob)
- - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 🚯 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)<!-- MEMES:END -->
+ - 🚖 [Happy Family](http://9gag.com/gag/aKEDDD6)
+ - 🚯 [Ok idc](http://9gag.com/gag/aVbMqYK)
+ - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 --- 
 
