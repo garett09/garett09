@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarök’s endgame side quest has one last twist](https://www.polygon.com/god-of-war-ragnarok-guide/23484073/the-broken-prison-niflheim-walkthrough-puzzle-solutions-tyr-locations)
- - [Pokémon Scarlet and Violet Duplication Glitch Creates Endless Items](https://kotaku.com/pokemon-scarlet-violet-item-dupe-trick-tera-shard-1849831496)
- - [Report: Elden Ring Devs Say FromSoftware Engages In &#39;Some Level Of Crunch&#39;](https://kotaku.com/elden-ring-dark-souls-fromsoftware-games-crunch-bandai-1849831349)<!-- GAME:END -->
+ - [Russian intelligence shoots and kills alleged &#39;terrorists&#39; that were probably just S.T.A.L.K.E.R. LARPers](https://www.pcgamer.com/russian-intelligence-shoots-and-kills-alleged-terrorists-that-were-probably-just-stalker-larpers)
+ - [Overwatch 2 season 2 trailer reveals new Battle for Olympus mode, holiday skins](https://www.polygon.com/23484436/overwatch-2-season-2-skins-winter-wonderland-lunar-new-year-dates-modes)
+ - [Elon Musk Sleeps Next To A Deus Ex: Human Revolution Gun For No Reason](https://kotaku.com/elon-musk-deus-ex-replica-gun-photo-twitter-diet-coke-1849831722)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
