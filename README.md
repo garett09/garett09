@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At its halfway point, NASA’s Artemis I mission breaks a record](https://www.theverge.com/2022/11/29/23484571/artemis-1-halfway-record-distance)
- - [The best Netflix shows you aren’t watching: 10 hidden gems you’ll love](https://www.androidauthority.com/hidden-gems-on-netflix-tv-shows-3241920/)
- - [AWS unveils Amazon Security Lake, a service that automatically centralizes an organization&#39;s security data from cloud and on-premises sources into a data lake &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221129/p24#a221129p24)<!-- TECH:END -->
+ - [TikTok is still your one-stop shop for total nonsense about Apple](https://appleinsider.com/articles/22/11/29/tiktok-is-still-your-one-stop-shop-for-total-nonsense-about-apple?utm_medium=rss)
+ - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
+ - [Man beaten, robbed of $95,000 worth of iPhones outside Apple Store](https://appleinsider.com/articles/22/11/29/man-robbed-of-95000-worth-of-iphones-outside-fifth-avenue-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
