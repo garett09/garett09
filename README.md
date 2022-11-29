@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
- - [The best Cyber Monday deals available now](https://www.theverge.com/23481797/cyber-monday-2022-best-deals-tech-earbuds-smart-home-entertainment-gifts)
- - [Memo: Evan Spiegel told Snap employees that he expects them to be in the company&#39;s offices 80% of the time, or four or more days a week, starting February 2023 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221128/p25#a221128p25)<!-- TECH:END -->
+ - [78 Best Cyber Monday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-cyber-monday-phone-deals-tablet-watch-2022-1/)
+ - [FTX&#39;s collapse was exacerbated by centralization; FTX being a decentralized exchange, based on smart contracts, could have prevented SBF draining customer funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221128/p26#a221128p26)
+ - [Last Chance Cyber Monday Bed Accessory Deals: Save on Sheets, Pillows and Even Dog Beds     - CNET](https://www.cnet.com/deals/last-chance-cyber-monday-bed-accessory-deals-save-on-sheets-pillows-and-even-dog-beds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
