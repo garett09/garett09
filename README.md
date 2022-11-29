@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - 🚖 [Gimme your best Walmart dweller](http://9gag.com/gag/aVbM382)
  - 🚯 [Me at work](http://9gag.com/gag/anzjORb)
- - 🚯 [Just be a good boy](http://9gag.com/gag/awZQgN4)<!-- MEMES:END -->
+ - 🚯 [How dogs see me, just dont have the touch](http://9gag.com/gag/axo0WVY)<!-- MEMES:END -->
 
 --- 
 
