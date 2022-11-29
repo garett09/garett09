@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musicians aren&#39;t losing out from streaming music, UK regulator says](https://appleinsider.com/articles/22/11/29/musicians-arent-losing-out-from-streaming-music-uk-regulator-says?utm_medium=rss)
- - [A look at the FBI&#39;s January 6 investigation geofence warrant: Google identified 5K+ devices; dozens appear to have been in airplane mode or had data deleted &lpar;Mark Harris/Wired&rpar;](http://www.techmeme.com/221129/p15#a221129p15)
- - [Analysis: Palantir, which invested $450M since 2021 in early-stage companies via SPACs, has lost ~$333M, or 75% of its portfolio, offset against some revenue &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/221129/p14#a221129p14)<!-- TECH:END -->
+ - [Current Refinance Rates on Nov. 29, 2022: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-nov-29-2022-rates-decline/#ftag=CAD590a51e)
+ - [Shinesty Boxers Are a Truly Fun and Functional Gift     - CNET](https://www.cnet.com/culture/fashion/shinesty-boxers-are-a-truly-fun-and-functional-gift/#ftag=CAD590a51e)
+ - [Mortgage Rates on Nov. 29, 2022: Rates Tick Down     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-on-nov-29-2022-rates-tick-down/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
