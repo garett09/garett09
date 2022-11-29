@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Awesome Cyber Monday Deals on Bluetooth Speakers Ending Soon     - CNET](https://www.cnet.com/tech/home-entertainment/9-awesome-cyber-monday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
- - [7 shows like The Blacklist that you can stream right now](https://www.androidauthority.com/shows-like-the-blacklist-3238232/)
- - [AWS announces a new Graviton3E chip for high-performance computing tasks like weather forecasting and gene sequencing, competing with Intel, Nvidia, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/221129/p3#a221129p3)<!-- TECH:END -->
+ - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
+ - [TCL Stylus 5G Review: How 4 Months Went With This $258 Phone     - CNET](https://www.cnet.com/tech/mobile/tcl-stylus-5g-review-how-4-months-went-with-this-258-phone/#ftag=CAD590a51e)
+ - [Best Cyber Monday Under-$25 Deals That You Can Still Grab Today     - CNET](https://www.cnet.com/deals/cyber-monday-under-25-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
