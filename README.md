@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Crunchyroll on Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-crunchyroll-on-mac?utm_medium=rss)
- - [Best post-Cyber Monday deals: $229 AirPods Pro Gen 2 with AppleCare, $100 off M2 12.9-inch iPad Pro, $50 Wacom tablet, more](https://appleinsider.com/articles/22/11/29/best-post-cyber-monday-deals-229-airpods-pro-gen-2-with-applecare-100-off-m2-129-inch-ipad-pro-50-wacom-tablet-more?utm_medium=rss)
- - [The Reserve Bank of India plans to launch a retail pilot for its CBDC on December 1, after testing with nine banks since November 1 &lpar;Swati Bhat/Reuters&rpar;](http://www.techmeme.com/221129/p11#a221129p11)<!-- TECH:END -->
+ - [Musicians aren&#39;t losing out from streaming music, UK regulator says](https://appleinsider.com/articles/22/11/29/musicians-arent-losing-out-from-streaming-music-uk-regulator-says?utm_medium=rss)
+ - [A look at the FBI&#39;s January 6 investigation geofence warrant: Google identified 5K+ devices; dozens appear to have been in airplane mode or had data deleted &lpar;Mark Harris/Wired&rpar;](http://www.techmeme.com/221129/p15#a221129p15)
+ - [Analysis: Palantir, which invested $450M since 2021 in early-stage companies via SPACs, has lost ~$333M, or 75% of its portfolio, offset against some revenue &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/221129/p14#a221129p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
