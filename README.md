@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Best Cyber Monday Soundbar and TV Deals &lpar;2022&rpar;: Samsung, Vizio, LG, and More](https://www.wired.com/story/best-cyber-monday-tv-soundbar-deals-2022-1/)
- - [Cyber Monday deal: Mac Studio &lpar;M1 Max chip, 64GB RAM, 1TB SSD&rpar; discounted to $2,349](https://appleinsider.com/articles/22/11/27/cyber-monday-deal-mac-studio-m1-max-chip-64gb-ram-1tb-ssd-discounted-to-2349?utm_medium=rss)
- - [Google sued for false Pixel 4 ads wherein influencers lied about using the phone](https://www.androidauthority.com/google-pixel-4-ads-lawsuit-3242183/)<!-- TECH:END -->
+ - [34 Best Cyber Monday Headphone Deals &lpar;2022&rpar;: Earbuds, Headphones, Speakers, Record Players](https://www.wired.com/story/best-cyber-monday-headphone-deals-speakers-2022/)
+ - [Singapore-based Igloo, an AI-based insurtech platform for underserved groups in SE Asia, raised a $27M Series B extension, bringing the round&#39;s total to $46M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221129/p2#a221129p2)
+ - [Cyber Monday Deals on Headphones and Earbuds Ending Soon: Best Savings at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-cyber-monday-headphones-and-earbuds-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
