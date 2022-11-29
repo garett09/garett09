@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok idc](http://9gag.com/gag/aVbMqYK)
- - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 🚯 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)<!-- MEMES:END -->
+ - 🚖 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
+ - 🚯 [A hero of legendary proportions!](http://9gag.com/gag/aXnvjWz)
+ - 🚯 [Deleted at least one time](http://9gag.com/gag/axo0oZW)<!-- MEMES:END -->
 
 --- 
 
