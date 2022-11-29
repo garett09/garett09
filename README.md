@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Developers Find Their “Superpower” with Xbox Game Studios Game Camp](https://news.xbox.com/en-us/2022/11/29/xbox-game-studios-game-camp-feature-lemonjuice/)
- - [How EV training works in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)
- - [Levitation is a fantastic Half-Life: Alyx mod that apes Valve’s style almost too well](https://www.pcgamer.com/levitation-is-a-fantastic-half-life-alyx-mod-that-apes-valves-style-almost-too-well)<!-- GAME:END -->
+ - [Australia eyeballs an adults-only loot box law](https://www.pcgamer.com/australia-eyeballs-an-adults-only-loot-box-law)
+ - [The spectacular 3-screen Ridge Racer arcade sim left to rot, and the fans who saved a &#39;90s treasure](https://www.pcgamer.com/the-spectacular-3-screen-ridge-racer-arcade-sim-left-to-rot-and-the-fans-who-saved-a-90s-treasure)
+ - [Game Developers Find Their “Superpower” with Xbox Game Studios Game Camp](https://news.xbox.com/en-us/2022/11/29/xbox-game-studios-game-camp-feature-lemonjuice/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
