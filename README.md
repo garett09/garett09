@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Australia eyeballs an adults-only loot box law](https://www.pcgamer.com/australia-eyeballs-an-adults-only-loot-box-law)
- - [The spectacular 3-screen Ridge Racer arcade sim left to rot, and the fans who saved a &#39;90s treasure](https://www.pcgamer.com/the-spectacular-3-screen-ridge-racer-arcade-sim-left-to-rot-and-the-fans-who-saved-a-90s-treasure)
- - [Game Developers Find Their “Superpower” with Xbox Game Studios Game Camp](https://news.xbox.com/en-us/2022/11/29/xbox-game-studios-game-camp-feature-lemonjuice/)<!-- GAME:END -->
+ - [Watch the new Super Mario Bros. movie trailer for a peek at Peach and Donkey Kong](https://www.polygon.com/23484578/super-mario-bros-movie-trailer-nintendo-direct-peach)
+ - [Victoria 3 Players Think Communism Is Too OP](https://kotaku.com/victoria-3-communism-op-paradox-simulation-capitalism-1849832954)
+ - [Overwatch Season 2 is coming for all you Sojourn mains](https://www.pcgamer.com/overwatch-season-2-is-coming-for-all-you-sojourn-mains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
