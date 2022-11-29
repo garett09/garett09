@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Super Mario Bros. Movie Posters Show Off New Donk City](https://kotaku.com/super-mario-bros-movie-poster-leak-nintendo-direct-1849830996)
- - [How to complete the Stay a While quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-stay-a-while)
- - [Killmonger Is One Of Marvel Snap&#39;s Best Cards](https://kotaku.com/marvel-snap-killmonger-card-battler-zoo-deck-pool-2-1849813798)<!-- GAME:END -->
+ - [God of War Ragnarök’s endgame side quest has one last twist](https://www.polygon.com/god-of-war-ragnarok-guide/23484073/the-broken-prison-niflheim-walkthrough-puzzle-solutions-tyr-locations)
+ - [Pokémon Scarlet and Violet Duplication Glitch Creates Endless Items](https://kotaku.com/pokemon-scarlet-violet-item-dupe-trick-tera-shard-1849831496)
+ - [Report: Elden Ring Devs Say FromSoftware Engages In &#39;Some Level Of Crunch&#39;](https://kotaku.com/elden-ring-dark-souls-fromsoftware-games-crunch-bandai-1849831349)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
