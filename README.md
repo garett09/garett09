@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Mpox&#39; Is the New Name for Monkeypox, WHO Says     - CNET](https://www.cnet.com/health/medical/who-renames-monkeypox-as-mpox/#ftag=CAD590a51e)
- - [The Second-Closest Supermassive Black Hole to Earth Could Soon Be Revealed     - CNET](https://www.cnet.com/science/space/the-second-closest-supermassive-black-hole-to-earth-could-soon-be-revealed/#ftag=CAD590a51e)
- - [The Best Cyber Monday TV Deals From $100 LCD to QLED to OLED     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 14 Pro shipments may drop by 20M in Q4 says Kuo](https://appleinsider.com/articles/22/11/29/apples-iphone-14-pro-shipments-may-drop-by-20m-in-q4-says-kuo?utm_medium=rss)
+ - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
+ - [iPhone 15 Ultra: What it may look like, and what to expect in 2023](https://appleinsider.com/articles/22/11/29/iphone-15-ultra-what-it-looks-like-and-what-to-expect-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
