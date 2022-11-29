@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian intelligence shoots and kills alleged &#39;terrorists&#39; that were probably just S.T.A.L.K.E.R. LARPers](https://www.pcgamer.com/russian-intelligence-shoots-and-kills-alleged-terrorists-that-were-probably-just-stalker-larpers)
- - [Overwatch 2 season 2 trailer reveals new Battle for Olympus mode, holiday skins](https://www.polygon.com/23484436/overwatch-2-season-2-skins-winter-wonderland-lunar-new-year-dates-modes)
- - [Elon Musk Sleeps Next To A Deus Ex: Human Revolution Gun For No Reason](https://kotaku.com/elon-musk-deus-ex-replica-gun-photo-twitter-diet-coke-1849831722)<!-- GAME:END -->
+ - [Game Developers Find Their “Superpower” with Xbox Game Studios Game Camp](https://news.xbox.com/en-us/2022/11/29/xbox-game-studios-game-camp-feature-lemonjuice/)
+ - [How EV training works in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)
+ - [Levitation is a fantastic Half-Life: Alyx mod that apes Valve’s style almost too well](https://www.pcgamer.com/levitation-is-a-fantastic-half-life-alyx-mod-that-apes-valves-style-almost-too-well)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
