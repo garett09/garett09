@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hunt for the Kingpin Behind AlphaBay, Part 6: Endgame](https://www.wired.com/story/alphabay-series-part-6-endgame/)
- - [Companies are rushing to hire former Twitter misinformation experts, who were laid off or quit, seeking to avoid liability for false and toxic information &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221129/p8#a221129p8)
- - [Donald Trump&#39;s lawyer says a lawsuit against Twitter over banning his account is ongoing and Trump does not plan to withdraw the appeal, complicating his return &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/221129/p7#a221129p7)<!-- TECH:END -->
+ - [How to watch Crunchyroll on Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-crunchyroll-on-mac?utm_medium=rss)
+ - [Best post-Cyber Monday deals: $229 AirPods Pro Gen 2 with AppleCare, $100 off M2 12.9-inch iPad Pro, $50 Wacom tablet, more](https://appleinsider.com/articles/22/11/29/best-post-cyber-monday-deals-229-airpods-pro-gen-2-with-applecare-100-off-m2-129-inch-ipad-pro-50-wacom-tablet-more?utm_medium=rss)
+ - [The Reserve Bank of India plans to launch a retail pilot for its CBDC on December 1, after testing with nine banks since November 1 &lpar;Swati Bhat/Reuters&rpar;](http://www.techmeme.com/221129/p11#a221129p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
