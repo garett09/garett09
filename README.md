@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - 🚖 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
  - 🚯 [Come on boy](http://9gag.com/gag/abvzv0v)
- - 🚯 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)<!-- MEMES:END -->
+ - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 --- 
 
