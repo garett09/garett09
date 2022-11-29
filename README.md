@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [78 Best Cyber Monday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-cyber-monday-phone-deals-tablet-watch-2022-1/)
- - [FTX&#39;s collapse was exacerbated by centralization; FTX being a decentralized exchange, based on smart contracts, could have prevented SBF draining customer funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221128/p26#a221128p26)
- - [Last Chance Cyber Monday Bed Accessory Deals: Save on Sheets, Pillows and Even Dog Beds     - CNET](https://www.cnet.com/deals/last-chance-cyber-monday-bed-accessory-deals-save-on-sheets-pillows-and-even-dog-beds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Cyber Monday deals under $25 you can still get](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
+ - [69 Best Cyber Monday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-cyber-monday-phone-deals-tablet-watch-2022-1/)
+ - [FTX&#39;s collapse was exacerbated by centralization; FTX being a decentralized exchange, based on smart contracts, could have prevented SBF draining customer funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221128/p26#a221128p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
