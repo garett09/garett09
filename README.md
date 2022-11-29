@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [TCL Stylus 5G Review: How 4 Months Went With This $258 Phone     - CNET](https://www.cnet.com/tech/mobile/tcl-stylus-5g-review-how-4-months-went-with-this-258-phone/#ftag=CAD590a51e)
- - [Best Cyber Monday Under-$25 Deals That You Can Still Grab Today     - CNET](https://www.cnet.com/deals/cyber-monday-under-25-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Hunt for the Kingpin Behind AlphaBay, Part 6: Endgame](https://www.wired.com/story/alphabay-series-part-6-endgame/)
+ - [Companies are rushing to hire former Twitter misinformation experts, who were laid off or quit, seeking to avoid liability for false and toxic information &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221129/p8#a221129p8)
+ - [Donald Trump&#39;s lawyer says a lawsuit against Twitter over banning his account is ongoing and Trump does not plan to withdraw the appeal, complicating his return &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/221129/p7#a221129p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
