@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming headset deals 2022: giving the gift of great audio this deals season](https://www.pcgamer.com/cyber-monday-gaming-headset-deals)
- - [GTA&#39;s original devs thought the game was dead in the water](https://www.pcgamer.com/gtas-original-devs-thought-the-game-was-dead-in-the-water)
- - [Cyber Week graphics card deals 2022: the best prices on pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)<!-- GAME:END -->
+ - [How to complete the Rapid Fire Plans quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-rapid-fire-plans)
+ - [The best Kastov 762 loadouts for Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-kastov-762-loadouts)
+ - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
