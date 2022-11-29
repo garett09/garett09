@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - 🚯 [Young Brazilian Player Rodrygo trying to get some of Ronaldos Talent](http://9gag.com/gag/a1PKmpD)
- - 🚯 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
+ - 🚖 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - 🚯 [Wikileaks leaked 250,000 confidential documents showing war crimes committed by the US in Afghanistan and Iraq. The only one jailed for it: the man who made the leak.](http://9gag.com/gag/a045eXz)<!-- MEMES:END -->
 
 --- 
 
