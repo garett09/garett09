@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
- - 🚯 [A hero of legendary proportions!](http://9gag.com/gag/aXnvjWz)
- - 🚯 [Deleted at least one time](http://9gag.com/gag/axo0oZW)<!-- MEMES:END -->
+ - 🚖 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
+ - 🚯 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
+ - 🚯 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
 
 --- 
 
