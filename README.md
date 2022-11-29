@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Tuesday, November 29](https://www.pcgamer.com/wordle-528-answer-november-29)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/11/28/this-weeks-deals-with-gold-and-spotlight-sale-253/)
- - [This external cooler is as big as a PC](https://www.pcgamer.com/this-external-cooler-is-as-big-as-a-pc)<!-- GAME:END -->
+ - [Cyber Monday gaming headset deals 2022: giving the gift of great audio this deals season](https://www.pcgamer.com/cyber-monday-gaming-headset-deals)
+ - [GTA&#39;s original devs thought the game was dead in the water](https://www.pcgamer.com/gtas-original-devs-thought-the-game-was-dead-in-the-water)
+ - [Cyber Week graphics card deals 2022: the best prices on pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
