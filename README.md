@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For Babies](http://9gag.com/gag/aA0DegR)
- - 🚯 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
- - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 🚖 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
+ - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 🚯 [Big &amp; Little](http://9gag.com/gag/amA2BgX)<!-- MEMES:END -->
 
 --- 
 
