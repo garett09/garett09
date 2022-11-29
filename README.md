@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the new Super Mario Bros. movie trailer for a peek at Peach and Donkey Kong](https://www.polygon.com/23484578/super-mario-bros-movie-trailer-nintendo-direct-peach)
- - [Victoria 3 Players Think Communism Is Too OP](https://kotaku.com/victoria-3-communism-op-paradox-simulation-capitalism-1849832954)
- - [Overwatch Season 2 is coming for all you Sojourn mains](https://www.pcgamer.com/overwatch-season-2-is-coming-for-all-you-sojourn-mains)<!-- GAME:END -->
+ - [New weird Far Cry expansion alert: This one is about interdimensional aliens](https://www.pcgamer.com/new-weird-far-cry-expansion-alert-this-one-is-about-interdimensional-aliens)
+ - [Marvel’s Avengers gets its promised endgame content, 2 years later](https://www.polygon.com/23484913/marvels-avengers-update-cloning-lab-raid-winter-soldier)
+ - [World of Warcraft: Dragonflight&#39;s first max level players rode its OP crafting system over the finish line](https://www.pcgamer.com/world-of-warcraft-dragonflights-first-max-level-players-rode-its-op-crafting-system-over-the-finish-line)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
