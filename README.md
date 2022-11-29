@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How professions work in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-professions)
- - [Yakuza&#39;s Cabaret Minigame Is Making A Triumphant Return](https://kotaku.com/like-a-dragon-gaiden-yakuza-sega-cabaret-hostess-model-1849828403)
- - [The Witcher remake will be an open world &#39;reimagining&#39; of the original](https://www.pcgamer.com/the-witcher-remake-will-be-an-open-world-reimagining)<!-- GAME:END -->
+ - [Loot Boxes Would Be For Adults Only If Australian Bill Passes](https://kotaku.com/loot-box-law-ban-ratings-r18-adults-only-gambling-1849828855)
+ - [Bohemia Interactive wants people to please stop using Arma 3 to create fake war footage](https://www.pcgamer.com/bohemia-interactive-wants-people-to-please-stop-using-arma-3-to-create-fake-war-footage)
+ - [Keep your coffee hot at your desk all day with the best insulated mug I&#39;ve ever used](https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
