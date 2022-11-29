@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Family](http://9gag.com/gag/aKEDDD6)
- - 🚯 [Ok idc](http://9gag.com/gag/aVbMqYK)
+ - 🚖 [Any advice?](http://9gag.com/gag/a045RxZ)
+ - 🚯 [Meanwhile in CCP](http://9gag.com/gag/aDYzdR9)
  - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 --- 
