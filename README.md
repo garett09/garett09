@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - 🚯 [Small things makes a big difference](http://9gag.com/gag/aGEeB07)
- - 🚯 [Living the american dream](http://9gag.com/gag/aGEe8v6)<!-- MEMES:END -->
+ - 🚖 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)
+ - 🚯 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - 🚯 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
 
 --- 
 
