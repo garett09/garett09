@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New weird Far Cry expansion alert: This one is about interdimensional aliens](https://www.pcgamer.com/new-weird-far-cry-expansion-alert-this-one-is-about-interdimensional-aliens)
- - [Marvel’s Avengers gets its promised endgame content, 2 years later](https://www.polygon.com/23484913/marvels-avengers-update-cloning-lab-raid-winter-soldier)
- - [World of Warcraft: Dragonflight&#39;s first max level players rode its OP crafting system over the finish line](https://www.pcgamer.com/world-of-warcraft-dragonflights-first-max-level-players-rode-its-op-crafting-system-over-the-finish-line)<!-- GAME:END -->
+ - [Nintendo Shuts Down Smash World Tour, Organizers &#39;Losing Hundreds Of Thousands Of Dollars&#39;](https://kotaku.com/nintendo-smash-world-tour-fgc-shut-down-panda-esports-1849833867)
+ - [Leak: Mass Effect, Biomutant, More Coming To PlayStation Plus](https://kotaku.com/playstation-plus-mass-effect-legendary-biomutant-leaks-1847556405)
+ - [A new &#39;rogue-looter shooter&#39; about the machine betrayal of humanity is going into open beta soon](https://www.pcgamer.com/a-new-rogue-looter-shooter-about-the-machine-betrayal-of-humanity-is-going-into-open-beta-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
