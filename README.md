@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [50 refugees diagnosed with Diphtheria on the UK in the last two months.](http://9gag.com/gag/a7qDqEq)
- - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - 🚯 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)<!-- MEMES:END -->
+ - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 🚯 [Why?](http://9gag.com/gag/aREjo8j)
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
 
 --- 
 
