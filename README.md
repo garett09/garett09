@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please promise](http://9gag.com/gag/avQ716M)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 🚯 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)<!-- MEMES:END -->
+ - 🚖 [50 refugees diagnosed with Diphtheria on the UK in the last two months.](http://9gag.com/gag/a7qDqEq)
+ - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - 🚯 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)<!-- MEMES:END -->
 
 --- 
 
