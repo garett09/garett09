@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus’ Shrinking series starring Jason Segel and Harrison Ford drops in January](https://www.theverge.com/2022/11/30/23486067/apple-tv-plus-shrinking-harrison-ford-jason-segel-premiere-date)
- - [Wondershare FamiSafe is the full parental control suite](https://www.androidauthority.com/wondershare-famisafe-3242456/)
- - [NYC-based Teampay, a low-code service to help enterprises automate software purchasing, raised a $47M Series B, comprising $35.25M equity and $11.75M debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221130/p26#a221130p26)<!-- TECH:END -->
+ - [Google announces the winners of its 2022 Google Play awards](https://www.androidauthority.com/google-play-awards-3242861/)
+ - [Best Noise-Canceling Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [Meta Scales Back on New York Office Space Amid Company Restructuring     - CNET](https://www.cnet.com/news/social-media/meta-scales-back-on-new-york-office-space-amid-company-restructuring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
