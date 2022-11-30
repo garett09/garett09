@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Sam Bankman-Fried being interviewed by Andrew Ross Sorkin at the New York Times&#39; DealBook Summit &lpar;New York Times&rpar;](http://www.techmeme.com/221130/p35#a221130p35)
- - [Hands on with the Oceanic+ app and Apple Watch Ultra](https://appleinsider.com/articles/22/11/30/hands-on-with-the-oceanic-app-and-apple-watch-ultra?utm_medium=rss)
- - [1 billion people will be connected to 5G by the end of the year](https://www.theverge.com/2022/11/30/23486509/5g-subscribers-ericsson-mobility-report-november-2022-billion)<!-- TECH:END -->
+ - [YouTube has finally stopped crashing on Apple devices, for some](https://www.androidauthority.com/apple-youtube-crash-3243050/)
+ - [San Francisco&#39;s Killer Police Robots Threaten the City&#39;s Most Vulnerable](https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/)
+ - [Warner Bros. Discovery and Amazon are teaming up to produce new animated DC projects](https://www.theverge.com/2022/11/30/23486386/warner-bros-television-studios-amazon-dc-animation-harry-potter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
