@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO Pavel Durov says the messaging app plans to build a decentralized crypto exchange and noncustodial wallets &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/221130/p30#a221130p30)
- - [Amazon&#39;s Black Friday $1,599 MacBook Pro 14-inch deal is back](https://appleinsider.com/articles/22/11/30/amazons-black-friday-1599-macbook-pro-14-inch-deal-is-back?utm_medium=rss)
- - [How to buy an iPhone 14 Pro or Pro Max for the holidays](https://www.theverge.com/23485947/how-to-buy-iphone-14-pro-max-holidays-christmas)<!-- TECH:END -->
+ - [As FTX collapsed, mainstream news organizations often failed to give a straightforward assessment of exactly what happened and potential crimes involved &lpar;David Z. Morris/CoinDesk&rpar;](http://www.techmeme.com/221130/p31#a221130p31)
+ - [Elon Musk is dragging Apple into the culture wars](https://www.theverge.com/2022/11/30/23486572/elon-musk-twitter-apple-antitrust-payments-moderation-congress-republicans)
+ - [The year of 1 trillion streams](https://www.theverge.com/2022/11/29/23484646/music-streaming-trillion-spotify-apple-youtube-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
