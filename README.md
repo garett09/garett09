@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Disney now owns 100% of streaming tech company BAMTech after paying $900M for MLB&#39;s 15% stake in November 2022; Disney acquired a majority stake in 2017 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/221129/p39#a221129p39)
- - [Elon Musk is delaying Twitter’s paid verification to avoid Apple’s 30 percent cut](https://www.theverge.com/2022/11/29/23485300/elon-musk-twitter-blue-avoid-in-app-fee-ios)
- - [More People Should Watch One of the Very Best TV Shows of 2022     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-very-best-tv-shows-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazil&#39;s Chamber of Deputies has approved a longstanding crypto bill defining digital assets and their service providers; bill now requires president&#39;s approval &lpar;Kristin Majcher/The Block&rpar;](http://www.techmeme.com/221129/p40#a221129p40)
+ - [Disney Pays $900M for MLB&#39;s Last Stake in Streaming Company BAMTech     - CNET](https://www.cnet.com/tech/services-and-software/disney-pays-900m-for-mlbs-last-stake-in-streaming-company-bamtech/#ftag=CAD590a51e)
+ - [Filing: Disney now owns 100% of streaming tech company BAMTech after paying $900M for MLB&#39;s 15% stake in November 2022; Disney acquired a majority stake in 2017 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/221129/p39#a221129p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
