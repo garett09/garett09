@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
- - 🚯 [Come on boy](http://9gag.com/gag/abvzv0v)
- - 🚯 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
+ - 🚖 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - 🚯 [Critical hit](http://9gag.com/gag/a5XnG1g)
+ - 🚯 [A proper compliment](http://9gag.com/gag/aEqBorp)<!-- MEMES:END -->
 
 --- 
 
