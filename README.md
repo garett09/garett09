@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus now matches Samsung’s Android update pledge, but with a catch](https://www.androidauthority.com/oneplus-update-plan-3241938/)
- - [OnePlus says select 2023 phones will get four major Android updates](https://www.theverge.com/2022/11/30/23484102/oneplus-android-updates-2023-phones-extends-support-period-select-models)
- - [OnePlus 10 Pro gets November 2022 patch, plenty of fixes](https://www.androidauthority.com/oneplus-10-update-3148114/)<!-- TECH:END -->
+ - [Microsoft offers fix for Windows 11 gaming performance issues](https://www.theverge.com/2022/11/30/23485717/microsoft-windows-11-gaming-performance-issues-fix)
+ - [Wednesday’s top tech news: It’s-a me, another Mario trailer](https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog)
+ - [All the Disney Plus Star Wars series ranked from worst to best](https://www.androidauthority.com/disney-plus-star-wars-shows-ranked-3238504/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
