@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early M2 Max benchmarks may have just leaked online](https://appleinsider.com/articles/22/11/30/early-m2-max-benchmarks-may-have-just-leaked-online?utm_medium=rss)
- - [Apple Store crash victims sue Apple over &#39;100% preventable&#39; crash](https://appleinsider.com/articles/22/11/30/apple-store-crash-victims-sue-apple-over-100-preventable-crash?utm_medium=rss)
- - [A look at China&#39;s growing interest in the open-source Risc-V chip architecture after US sanctions, including enlisting Alibaba and Tencent to help design chips &lpar;Financial Times&rpar;](http://www.techmeme.com/221130/p11#a221130p11)<!-- TECH:END -->
+ - [Sources detail Alameda&#39;s early years, starting in fall 2017, as SBF shrugged off concerns about risky investments, leading several employees to quit in 2018 &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/221130/p15#a221130p15)
+ - [DeSantis demands Apple face Congress if Twitter is pulled](https://appleinsider.com/articles/22/11/29/governor-declares-apple-should-face-congress-if-twitter-is-pulled?utm_medium=rss)
+ - [Spotify releases Wrapped 2022 for users, adding a &quot;music personality&quot; feature, and says Joe Rogan, Emma Chamberlain, and others were its top podcasters &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/221130/p14#a221130p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
