@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 🚯 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)<!-- MEMES:END -->
+ - 🚖 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
+ - 🚯 [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
+ - 🚯 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)<!-- MEMES:END -->
 
 --- 
 
