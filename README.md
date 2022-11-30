@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - 🚯 [R.i.P](http://9gag.com/gag/aREjZPy)
- - 🚯 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
+ - 🚖 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 🚯 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)
+ - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)<!-- MEMES:END -->
 
 --- 
 
