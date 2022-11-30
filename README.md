@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher remake won&#39;t be out until sometime after The Witcher 4, and we have no idea when that will be](https://www.pcgamer.com/the-witcher-remake-wont-be-out-until-sometime-after-the-witcher-4-and-we-have-no-idea-when-that-will-be)
- - [Best winter-themed anime to get in the mood for the season](https://www.polygon.com/what-to-watch/23475773/best-anime-to-watch-this-winter-komi-cant-communicate-mushi-shi-a-place-further-than-the-universe)
- - [$100 Marvel Snap Bundle Reminds Me That, Yeah, This Is A Mobile Game](https://kotaku.com/marvel-snap-update-100-new-bundle-tokens-apocalypse-1849837025)<!-- GAME:END -->
+ - [Anime Fans Still Love Attack On Titan Creator Despite The Series&#39; Ending](https://kotaku.com/attack-on-titan-hajime-iseyama-anime-nyc-manga-ending-1849837900)
+ - [The Complete, Surprising Eight Year History Of LEGO&#39;s Poop Piece](https://kotaku.com/lego-city-toilet-set-poop-piece-6275030-cupcake-top-1849837540)
+ - [How to get powerful Paradox Pokémon in Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23486156/paradox-pokemon-great-tusk-iron-treads-area-zero-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
