@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - 🚯 [A birthday to remember](http://9gag.com/gag/aDYznYO)
- - 🚯 [My food&#39;s food](http://9gag.com/gag/az2qPAm)<!-- MEMES:END -->
+ - 🚖 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)
+ - 🚯 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)
+ - 🚯 [Why hadn\u2019t I ever heard a miniature Italian speak before?!](http://9gag.com/gag/a1PKmo6)<!-- MEMES:END -->
 
 --- 
 
