@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - 🚯 [Critical hit](http://9gag.com/gag/a5XnG1g)
- - 🚯 [A proper compliment](http://9gag.com/gag/aEqBorp)<!-- MEMES:END -->
+ - 🚖 [Come on boy](http://9gag.com/gag/abvzv0v)
+ - 🚯 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - 🚯 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)<!-- MEMES:END -->
 
 --- 
 
