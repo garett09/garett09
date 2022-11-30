@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft offers fix for Windows 11 gaming performance issues](https://www.theverge.com/2022/11/30/23485717/microsoft-windows-11-gaming-performance-issues-fix)
- - [Wednesday’s top tech news: It’s-a me, another Mario trailer](https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog)
- - [All the Disney Plus Star Wars series ranked from worst to best](https://www.androidauthority.com/disney-plus-star-wars-shows-ranked-3238504/)<!-- TECH:END -->
+ - [Sony is getting into the metaverse with a new motion-tracking system](https://www.theverge.com/2022/11/30/23485732/sony-mocopi-motion-capture-metaverse-vr-avatar-announcement-price)
+ - [Emboldened by FTX&#39;s collapse, the disgraced founders of Terra, Celsius, and Three Arrows Capital have reemerged, offering their thoughts on SBF, FTX, and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221130/p8#a221130p8)
+ - [You can now use your WhatsApp account on your Android tablet. Here’s how.](https://www.androidauthority.com/whatsapp-for-tablet-3242714/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
