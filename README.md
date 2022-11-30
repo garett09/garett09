@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)
- - 🚯 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - 🚯 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
+ - 🚖 [Cleaning up a beach by extracting small plastics from sand](http://9gag.com/gag/abvzegb)
+ - 🚯 [Smokin the frankincense yo](http://9gag.com/gag/aVbMKEw)
+ - 🚯 [Small things makes a big difference](http://9gag.com/gag/aGEeB07)<!-- MEMES:END -->
 
 --- 
 
