@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Please promise](http://9gag.com/gag/avQ716M)
- - 🚯 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 🚯 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)<!-- MEMES:END -->
 
 --- 
 
