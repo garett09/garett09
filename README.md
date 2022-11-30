@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise queue: There&#39;s a line to play Warhammer 40K: Darktide](https://www.pcgamer.com/surprise-queue-theres-a-line-to-play-warhammer-40k-darktide)
- - [Castle Panic is a gateway to co-op board games, now it’s even better](https://www.polygon.com/23484664/castle-panic-second-edition-preview-interview-release-date-price)
- - [Hold onto your butts, the Cocaine Bear trailer has arrived](https://www.polygon.com/23486375/cocaine-bear-movie-trailer)<!-- GAME:END -->
+ - [The Witcher remake won&#39;t be out until sometime after The Witcher 4, and we have no idea when that will be](https://www.pcgamer.com/the-witcher-remake-wont-be-out-until-sometime-after-the-witcher-4-and-we-have-no-idea-when-that-will-be)
+ - [Best winter-themed anime to get in the mood for the season](https://www.polygon.com/what-to-watch/23475773/best-anime-to-watch-this-winter-komi-cant-communicate-mushi-shi-a-place-further-than-the-universe)
+ - [$100 Marvel Snap Bundle Reminds Me That, Yeah, This Is A Mobile Game](https://kotaku.com/marvel-snap-update-100-new-bundle-tokens-apocalypse-1849837025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
