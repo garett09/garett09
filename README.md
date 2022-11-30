@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange World’s disastrous debut and the Treasure Planet curse](https://www.polygon.com/23484642/strange-world-disney-box-office-failure-treasure-planet-atlantis)
- - [Where to start The Shadow of His Wings quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-the-shadow-of-his-wings-quest-location)
- - [Marvel&#39;s Midnight Suns review](https://www.pcgamer.com/marvels-midnight-suns-review)<!-- GAME:END -->
+ - [Family Guy is going through a TikTok renaissance](https://www.polygon.com/23484528/family-guy-tiktok-youtube-cutaway-gags-good)
+ - [Your PlayStation Stars update for December 2022](https://blog.playstation.com/2022/11/30/your-playstation-stars-update-for-december-2022/)
+ - [Your PlayStation Stars update for December 2022](https://blog.playstation.com/2022/11/30/your-playstation-stars-update-for-december-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
