@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
- - 🚯 [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
- - 🚯 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)<!-- MEMES:END -->
+ - 🚖 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
+ - 🚯 [Come on boy](http://9gag.com/gag/abvzv0v)
+ - 🚯 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
 
 --- 
 
