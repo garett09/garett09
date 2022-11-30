@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck available in several Asian markets from December 17](https://www.pcgamer.com/steam-deck-available-in-several-asian-markets-from-december-17)
- - [Report highlights underpay and &#39;some level of crunching&#39; at FromSoftware](https://www.pcgamer.com/report-highlights-underpay-and-some-level-of-crunching-at-fromsoftware)
- - [Intel Arc graphics drivers are up 19% in some games one month on but it&#39;s not all good](https://www.pcgamer.com/intel-arc-graphics-drivers-are-up-to-19-in-games-one-month-on-but-its-not-all-good)<!-- GAME:END -->
+ - [Marvel&#39;s Midnight Suns review](https://www.pcgamer.com/marvels-midnight-suns-review)
+ - [Marvel’s Midnight Suns isn’t just XCOM with superheroes &lpar;and that’s a great thing&rpar;](https://www.polygon.com/reviews/23484477/marvels-midnight-suns-review-release-date-characters-pc-ps5-xbox-series-x)
+ - [Even after 30 hours of suffering through Overwatch League, many are yet to receive their viewership rewards](https://www.pcgamer.com/even-after-30-hours-of-suffering-through-overwatch-league-many-are-yet-to-receive-their-viewership-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
