@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As FTX collapsed, mainstream news organizations often failed to give a straightforward assessment of exactly what happened and potential crimes involved &lpar;David Z. Morris/CoinDesk&rpar;](http://www.techmeme.com/221130/p31#a221130p31)
- - [Elon Musk is dragging Apple into the culture wars](https://www.theverge.com/2022/11/30/23486572/elon-musk-twitter-apple-antitrust-payments-moderation-congress-republicans)
- - [The year of 1 trillion streams](https://www.theverge.com/2022/11/29/23484646/music-streaming-trillion-spotify-apple-youtube-google)<!-- TECH:END -->
+ - [A livestream of Sam Bankman-Fried being interviewed by Andrew Ross Sorkin at the New York Times&#39; DealBook Summit &lpar;New York Times&rpar;](http://www.techmeme.com/221130/p35#a221130p35)
+ - [Hands on with the Oceanic+ app and Apple Watch Ultra](https://appleinsider.com/articles/22/11/30/hands-on-with-the-oceanic-app-and-apple-watch-ultra?utm_medium=rss)
+ - [1 billion people will be connected to 5G by the end of the year](https://www.theverge.com/2022/11/30/23486509/5g-subscribers-ericsson-mobility-report-november-2022-billion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
