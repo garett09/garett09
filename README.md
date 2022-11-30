@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 season 19: release date, new dungeon, and big changes](https://www.pcgamer.com/destiny-2-season-19-release-date)
- - [Save Soccer!](https://news.xbox.com/en-us/2022/11/30/save-soccer/)
- - [Warhammer 40K: Darktide is off to a hell of a start](https://www.polygon.com/reviews/23484765/warhammer-40k-darktide-review-release-date-left-4-dead-classes-pc-xbox-series-x)<!-- GAME:END -->
+ - [Surprise queue: There&#39;s a line to play Warhammer 40K: Darktide](https://www.pcgamer.com/surprise-queue-theres-a-line-to-play-warhammer-40k-darktide)
+ - [Castle Panic is a gateway to co-op board games, now it’s even better](https://www.polygon.com/23484664/castle-panic-second-edition-preview-interview-release-date-price)
+ - [Hold onto your butts, the Cocaine Bear trailer has arrived](https://www.polygon.com/23486375/cocaine-bear-movie-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
