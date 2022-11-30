@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest says it is ending the creator rewards program that it launched in 2021, which offered cash bonuses when creators completed certain goals &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/221129/p32#a221129p32)
- - [CrowdStrike reports Q3 revenue up 53% YoY to $581M, vs. $574M est., subscription customers up 44% YoY to 21,146; stock drops 17% on weaker-than-expected growth &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221129/p31#a221129p31)
- - [Man discovers why walking in NYC with $95,000 in iPhones is a bad idea](https://www.androidauthority.com/iphone-robbery-nyc-3242476/)<!-- TECH:END -->
+ - [Global smartwatch shipments increased 30% YoY in Q3 2022, led by India, up 171%; Apple grew 48% YoY, Samsung dropped 2.7% YoY, and Noise grew 218% YoY &lpar;Woojin Son/Counterpoint Research&rpar;](http://www.techmeme.com/221129/p35#a221129p35)
+ - [Tim Cook scheduled to meet with Republican lawmakers](https://appleinsider.com/articles/22/11/30/tim-cook-scheduled-to-meet-with-republican-lawmakers?utm_medium=rss)
+ - [Lowest price ever: Apple MacBook Pro 16-inch $1,989, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/30/lowest-price-ever-apple-macbook-pro-16-inch-1989-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
