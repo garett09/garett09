@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Kindle Scribe review: great battery, display, and accessories, but lackluster notetaking, outdated document syncing and software, and small writing delay &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/221130/p19#a221130p19)
- - [Spotify Wrapped 2022 is live: Here’s everything you need to know](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)
- - [Amazon Kindle Scribe review: absolutely adequate](https://www.theverge.com/23484927/amazon-kindle-scribe-e-reader-notetaking-pen-review)<!-- TECH:END -->
+ - [The Apple Watch Action Button’s sole purpose is to do your bidding](https://www.theverge.com/23475900/apple-watch-ultra-action-button-of-the-month)
+ - [Apple TV+ &#39;Shrinking&#39; starring Harrison Ford &amp; Jason Segal streams January 27](https://appleinsider.com/articles/22/11/30/apple-tv-shrinking-starring-harrison-ford-jason-segal-streams-january-27?utm_medium=rss)
+ - [A look at Black American crypto investors, many of whom bought in near the top, as the market declines from its 2021 peak and some lose significant sums &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/221130/p21#a221130p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
