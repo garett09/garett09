@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
- - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - 🚯 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
+ - 🚖 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
+ - 🚯 [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
 
 --- 
 
