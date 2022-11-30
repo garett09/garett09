@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
- - 🚯 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
- - 🚯 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 🚯 [That is some in-tents camping](http://9gag.com/gag/aeQexeO)
+ - 🚯 [`I would trust my wife with my life.`](http://9gag.com/gag/aMEAvGX)<!-- MEMES:END -->
 
 --- 
 
