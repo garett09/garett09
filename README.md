@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Replay misses the point](https://www.theverge.com/23486187/apple-music-replay-spotify-wrapped-bad)
- - [Twitter faces ban in EU over too-loose content moderation](https://appleinsider.com/articles/22/11/30/twitter-faces-ban-in-eu-over-too-loose-content-moderation?utm_medium=rss)
- - [Claris FileMaker Pro &amp; FileMaker Server updated with macOS Ventura compatibility](https://appleinsider.com/articles/22/11/30/claris-filemaker-pro-filemaker-server-updated-with-macos-ventura-compatibility?utm_medium=rss)<!-- TECH:END -->
+ - [Telegram CEO Pavel Durov says the messaging app plans to build a decentralized crypto exchange and noncustodial wallets &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/221130/p30#a221130p30)
+ - [Amazon&#39;s Black Friday $1,599 MacBook Pro 14-inch deal is back](https://appleinsider.com/articles/22/11/30/amazons-black-friday-1599-macbook-pro-14-inch-deal-is-back?utm_medium=rss)
+ - [How to buy an iPhone 14 Pro or Pro Max for the holidays](https://www.theverge.com/23485947/how-to-buy-iphone-14-pro-max-holidays-christmas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
