@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come on boy](http://9gag.com/gag/abvzv0v)
- - 🚯 [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - 🚯 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)<!-- MEMES:END -->
+ - 🚖 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
 
 --- 
 
