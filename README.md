@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb launches a program to help renters find an apartment in 25 US markets and then list a spare room or occasionally the whole apartment on the platform &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221130/p24#a221130p24)
- - [Feeling the inflation crunch? This carrier locks you into a rate for 5 years.](https://www.androidauthority.com/visible-rate-lock-3242831/)
- - [Amazon&#39;s Black Friday $1,599 MacBook Pro 14-inch deal is back](https://appleinsider.com/articles/22/11/30/amazons-black-friday-1599-macbook-pro-14-inch-deal-is-back?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV Plus’ Shrinking series starring Jason Segel and Harrison Ford drops in January](https://www.theverge.com/2022/11/30/23486067/apple-tv-plus-shrinking-harrison-ford-jason-segel-premiere-date)
+ - [Wondershare FamiSafe is the full parental control suite](https://www.androidauthority.com/wondershare-famisafe-3242456/)
+ - [NYC-based Teampay, a low-code service to help enterprises automate software purchasing, raised a $47M Series B, comprising $35.25M equity and $11.75M debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221130/p26#a221130p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
