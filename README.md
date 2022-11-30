@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Alameda&#39;s early years, starting in fall 2017, as SBF shrugged off concerns about risky investments, leading several employees to quit in 2018 &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/221130/p15#a221130p15)
- - [DeSantis demands Apple face Congress if Twitter is pulled](https://appleinsider.com/articles/22/11/29/governor-declares-apple-should-face-congress-if-twitter-is-pulled?utm_medium=rss)
- - [Spotify releases Wrapped 2022 for users, adding a &quot;music personality&quot; feature, and says Joe Rogan, Emma Chamberlain, and others were its top podcasters &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/221130/p14#a221130p14)<!-- TECH:END -->
+ - [Amazon Kindle Scribe review: great battery, display, and accessories, but lackluster notetaking, outdated document syncing and software, and small writing delay &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/221130/p19#a221130p19)
+ - [Spotify Wrapped 2022 is live: Here’s everything you need to know](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)
+ - [Amazon Kindle Scribe review: absolutely adequate](https://www.theverge.com/23484927/amazon-kindle-scribe-e-reader-notetaking-pen-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
