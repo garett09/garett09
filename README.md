@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 🚯 [That is some in-tents camping](http://9gag.com/gag/aeQexeO)
- - 🚯 [`I would trust my wife with my life.`](http://9gag.com/gag/aMEAvGX)<!-- MEMES:END -->
+ - 🚖 [Please promise](http://9gag.com/gag/avQ716M)
+ - 🚯 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
 
 --- 
 
