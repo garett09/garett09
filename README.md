@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is getting into the metaverse with a new motion-tracking system](https://www.theverge.com/2022/11/30/23485732/sony-mocopi-motion-capture-metaverse-vr-avatar-announcement-price)
- - [Emboldened by FTX&#39;s collapse, the disgraced founders of Terra, Celsius, and Three Arrows Capital have reemerged, offering their thoughts on SBF, FTX, and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221130/p8#a221130p8)
- - [You can now use your WhatsApp account on your Android tablet. Here’s how.](https://www.androidauthority.com/whatsapp-for-tablet-3242714/)<!-- TECH:END -->
+ - [Early M2 Max benchmarks may have just leaked online](https://appleinsider.com/articles/22/11/30/early-m2-max-benchmarks-may-have-just-leaked-online?utm_medium=rss)
+ - [Apple Store crash victims sue Apple over &#39;100% preventable&#39; crash](https://appleinsider.com/articles/22/11/30/apple-store-crash-victims-sue-apple-over-100-preventable-crash?utm_medium=rss)
+ - [A look at China&#39;s growing interest in the open-source Risc-V chip architecture after US sanctions, including enlisting Alibaba and Tencent to help design chips &lpar;Financial Times&rpar;](http://www.techmeme.com/221130/p11#a221130p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
