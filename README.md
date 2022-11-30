@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - 🚯 [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
+ - 🚖 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 🚯 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)<!-- MEMES:END -->
 
 --- 
 
