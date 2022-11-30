@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Family Guy is going through a TikTok renaissance](https://www.polygon.com/23484528/family-guy-tiktok-youtube-cutaway-gags-good)
- - [Your PlayStation Stars update for December 2022](https://blog.playstation.com/2022/11/30/your-playstation-stars-update-for-december-2022/)
- - [Your PlayStation Stars update for December 2022](https://blog.playstation.com/2022/11/30/your-playstation-stars-update-for-december-2022/)<!-- GAME:END -->
+ - [Starfield, Bethesda&#39;s Next Big RPG, Has Survival Elements Without All The Stress](https://kotaku.com/starfield-survival-levels-bethesda-xbox-microsoft-1849836127)
+ - [Hands-on with Divine Knockout, the third-person platform fighter smashing onto PlayStation Plus December 6](https://blog.playstation.com/2022/11/30/hands-on-with-divine-knockout-the-third-person-platform-fighter-smashing-onto-playstation-plus-december-6/)
+ - [This New Open-World Dress-Up Game Looks Absolutely Stunning](https://kotaku.com/love-nikki-infinity-nintendo-breath-of-the-wild-pc-ps5-1849836269)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
