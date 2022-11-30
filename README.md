@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - 🚯 [G&lpar;old&rpar;](http://9gag.com/gag/awZQgEQ)
- - 🚯 [I bet he is with other girls right now.The boys:](http://9gag.com/gag/aYV4EDV)<!-- MEMES:END -->
+ - 🚖 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - 🚯 [R.i.P](http://9gag.com/gag/aREjZPy)
+ - 🚯 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
 
 --- 
 
