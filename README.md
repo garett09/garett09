@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield, Bethesda&#39;s Next Big RPG, Has Survival Elements Without All The Stress](https://kotaku.com/starfield-survival-levels-bethesda-xbox-microsoft-1849836127)
- - [Hands-on with Divine Knockout, the third-person platform fighter smashing onto PlayStation Plus December 6](https://blog.playstation.com/2022/11/30/hands-on-with-divine-knockout-the-third-person-platform-fighter-smashing-onto-playstation-plus-december-6/)
- - [This New Open-World Dress-Up Game Looks Absolutely Stunning](https://kotaku.com/love-nikki-infinity-nintendo-breath-of-the-wild-pc-ps5-1849836269)<!-- GAME:END -->
+ - [Destiny 2 season 19: release date, new dungeon, and big changes](https://www.pcgamer.com/destiny-2-season-19-release-date)
+ - [Save Soccer!](https://news.xbox.com/en-us/2022/11/30/save-soccer/)
+ - [Warhammer 40K: Darktide is off to a hell of a start](https://www.polygon.com/reviews/23484765/warhammer-40k-darktide-review-release-date-left-4-dead-classes-pc-xbox-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
