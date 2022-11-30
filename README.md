@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces the winners of its 2022 Google Play awards](https://www.androidauthority.com/google-play-awards-3242861/)
- - [Best Noise-Canceling Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [Meta Scales Back on New York Office Space Amid Company Restructuring     - CNET](https://www.cnet.com/news/social-media/meta-scales-back-on-new-york-office-space-amid-company-restructuring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Music Replay misses the point](https://www.theverge.com/23486187/apple-music-replay-spotify-wrapped-bad)
+ - [Twitter faces ban in EU over too-loose content moderation](https://appleinsider.com/articles/22/11/30/twitter-faces-ban-in-eu-over-too-loose-content-moderation?utm_medium=rss)
+ - [Claris FileMaker Pro &amp; FileMaker Server updated with macOS Ventura compatibility](https://appleinsider.com/articles/22/11/30/claris-filemaker-pro-filemaker-server-updated-with-macos-ventura-compatibility?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
