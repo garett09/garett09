@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cleaning up a beach by extracting small plastics from sand](http://9gag.com/gag/abvzegb)
- - 🚯 [Smokin the frankincense yo](http://9gag.com/gag/aVbMKEw)
- - 🚯 [Small things makes a big difference](http://9gag.com/gag/aGEeB07)<!-- MEMES:END -->
+ - 🚖 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - 🚯 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - 🚯 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
 
 --- 
 
