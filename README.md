@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
+ - 🚖 [One of my favorite videos of all time](http://9gag.com/gag/aWGqvj6)
+ - 🚯 [Nope. that&#39;s witchcraft](http://9gag.com/gag/abvzBNL)
+ - 🚯 [Peg was hot.](http://9gag.com/gag/axo0RvL)<!-- MEMES:END -->
 
 --- 
 
