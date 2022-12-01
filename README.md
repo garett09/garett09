@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)
- - 🚯 [Deploying straight to production without testing !](http://9gag.com/gag/anzjGOV)
- - 🚯 [Good boy gets kicked out of jiu jitsu tournament for protecting owner during match](http://9gag.com/gag/agoYKQ1)<!-- MEMES:END -->
+ - 🚖 [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
+ - 🚯 [Kings](http://9gag.com/gag/ap9QVV5)
+ - 🚯 [Greatest of All Time](http://9gag.com/gag/anzjGpz)<!-- MEMES:END -->
 
 --- 
 
