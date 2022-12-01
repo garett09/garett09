@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends has a multiverse too, and it’s packed with mysteries](https://www.polygon.com/23486473/league-of-legends-multiverse-explained-empyrean-star-guardian-dark-star-arcane)
- - [Top tips to get ready for Marvel’s Midnight Suns, out December 2](https://blog.playstation.com/2022/12/01/top-tips-to-get-ready-for-marvels-midnight-suns-out-december-2/)
- - [17 things I wish I knew before starting Marvel&#39;s Midnight Suns](https://www.pcgamer.com/midnight-suns-tips)<!-- GAME:END -->
+ - [The roguelite management sim that’s impossible to put down](https://www.polygon.com/reviews/23485121/stacklands-review-roguelite-management-sim-deck-builder)
+ - [Google’s moddable Doodle honors ‘the father of the video game cartridge’](https://www.polygon.com/23487868/google-doodle-jerry-lawson-cartridge-video-games-mods-tribute)
+ - [Coming to Xbox Game Pass: LEGO Star Wars: The Skywalker Saga, High on Life, Hello Neighbor 2, and More](https://news.xbox.com/en-us/2022/12/01/game-pass-december-2022-wave-1-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
