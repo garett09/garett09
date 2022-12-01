@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mad max THE OFFICE addition](http://9gag.com/gag/a9qAOAm)
- - 🚯 [Peg was hot.](http://9gag.com/gag/axo0RvL)
- - 🚯 [The details in this game are insane](http://9gag.com/gag/aOxBDzE)<!-- MEMES:END -->
+ - 🚖 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - 🚯 [Is this weird or a God&#39;s gift?](http://9gag.com/gag/abvzQoB)
+ - 🚯 [He&#39;s a playa](http://9gag.com/gag/a8q8VbO)<!-- MEMES:END -->
 
 --- 
 
