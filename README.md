@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The roguelite management sim that’s impossible to put down](https://www.polygon.com/reviews/23485121/stacklands-review-roguelite-management-sim-deck-builder)
- - [Google’s moddable Doodle honors ‘the father of the video game cartridge’](https://www.polygon.com/23487868/google-doodle-jerry-lawson-cartridge-video-games-mods-tribute)
- - [Coming to Xbox Game Pass: LEGO Star Wars: The Skywalker Saga, High on Life, Hello Neighbor 2, and More](https://news.xbox.com/en-us/2022/12/01/game-pass-december-2022-wave-1-announce/)<!-- GAME:END -->
+ - [US Labor Board torpedoes Activision&#39;s last-minute attempt to impede union vote](https://www.pcgamer.com/us-labor-board-torpedoes-activisions-last-minute-attempt-to-impede-union-vote)
+ - [A year after launch, Battlefield 2042 wants a second chance: &#39;We&#39;re feeling really good&#39;](https://www.pcgamer.com/a-year-after-launch-battlefield-2042-wants-a-second-chance-were-feeling-really-good)
+ - [Free Play Days – Battlefield 2042, Batora: Lost Haven, and Rainbow Six Siege](https://news.xbox.com/en-us/2022/12/01/free-play-days-battlefield-2042-batora-lost-haven-and-rainbow-six-siege/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
