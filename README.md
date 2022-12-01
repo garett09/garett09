@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 🚯 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - 🚯 [This title was deleted](http://9gag.com/gag/aA0DyLE)<!-- MEMES:END -->
+ - 🚖 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)
+ - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
 
 --- 
 
