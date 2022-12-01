@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)
- - 🚯 [Greatest of All Time](http://9gag.com/gag/anzjGpz)
- - 🚯 [10 for effort](http://9gag.com/gag/aL18rv6)<!-- MEMES:END -->
+ - 🚖 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 🚯 [Pelicans try to eat everything](http://9gag.com/gag/anzjGLz)
+ - 🚯 [Unlimited possibilities](http://9gag.com/gag/aL18r16)<!-- MEMES:END -->
 
 --- 
 
