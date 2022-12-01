@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Lord of the Rings show is recasting its most interesting actor](https://www.polygon.com/23488259/lord-of-the-rings-rings-of-power-amazon-series-casting-adar-season-2)
- - [Warzone 2.0&#39;s Revive Pistol Lets You Torture Players For Endless XP](https://kotaku.com/warzone-2-call-of-duty-mw2-xp-glitch-farm-1849842027)
- - [Sony&#39;s new full-body mobile motion capture kit is the next terrifying evolution for VTubers](https://www.pcgamer.com/sonys-new-full-body-mobile-motion-capture-kit-is-the-next-terrifying-evolution-for-vtubers)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in December](https://www.polygon.com/entertainment/2022/12/1/23482222/new-netflix-movies-tv-shows-watch-december-2022)
+ - [Ukranian indie Ringlorn Saga puts a fresh twist on the &#39;80s PC game that pioneered action-RPGs](https://www.pcgamer.com/ukranian-indie-ringlorn-saga-puts-a-fresh-twist-on-the-80s-pc-game-that-pioneered-action-rpgs)
+ - [This oppressively dark Soviet FPS now features a simply adorable little model train set](https://www.pcgamer.com/this-oppressively-dark-soviet-fps-now-features-a-simply-adorable-little-model-train-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
