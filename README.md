@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
- - 🚯 [Funny because its true](http://9gag.com/gag/aMEAWgG)
- - 🚯 [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)<!-- MEMES:END -->
+ - 🚖 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
+ - 🚯 [Bless her...](http://9gag.com/gag/a1PKLWP)
+ - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
 
 --- 
 
