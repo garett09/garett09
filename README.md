@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 🚯 [Why?](http://9gag.com/gag/aREjo8j)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
+ - 🚯 [Same same, but different.](http://9gag.com/gag/aBd8Xwz)
+ - 🚯 [Nope. that&#39;s witchcraft](http://9gag.com/gag/abvzBNL)<!-- MEMES:END -->
 
 --- 
 
