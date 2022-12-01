@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Hulu on Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-hulu-on-mac?utm_medium=rss)
- - [Twitter alternative Hive temporarily shuts down after researchers found vulnerabilities that would have let hackers access DMs and edit others&#39; Hive posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221201/p20#a221201p20)
- - [The $70 Echo Show 8 comes with a free Echo Show 5 at Amazon](https://www.theverge.com/2022/12/1/23486728/amazon-echo-show-bundle-disney-plus-jabra-earbuds-anker-charging-deal-sale)<!-- TECH:END -->
+ - [[Thread] Coinbase says Apple &quot;blocked our last&quot; Wallet iOS app release until the exchange disabled sending NFTs, claiming Apple wanted a 30% cut from gas fees &lpar;@coinbasewallet&rpar;](http://www.techmeme.com/221201/p21#a221201p21)
+ - [Google’s trying to prove it’s serious about Wear OS 3 with holiday updates](https://www.theverge.com/2022/12/1/23487832/google-keep-wear-os-3-pixel-watch)
+ - [Android is introducing an accessible reading mode and digital car key sharing](https://www.theverge.com/2022/12/1/23487812/android-update-accessibility-reading-mode-key-sharing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
