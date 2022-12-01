@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk claims Neuralink is about ‘six months’ away from first human trial](https://www.theverge.com/2022/11/30/23487307/neuralink-elon-musk-show-and-tell-2022)
- - [Musk says Neuralink expects human trials to begin in about six months pending FDA approval, and unveils work on implants to treat paralysis and improve vision &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/221130/p46#a221130p46)
- - [Neuralink Shows Sake the Monkey Typing With Its Brain Chip     - CNET](https://www.cnet.com/science/neuralink-shows-sake-the-monkey-typing-with-its-brain-chip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ICA Miami and other museums continue to collect and display NFTs even as the market sinks, arguing digital art has a long history and valuations are unimportant &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/221201/p1#a221201p1)
+ - [A Galaxy Z Flip 4-style foldable may be days away and it just leaked on video](https://www.androidauthority.com/oppo-find-n2-flip-3243213/)
+ - [All the Actually Important Stuff Neuralink Just Announced](https://www.wired.com/story/all-the-actually-important-stuff-neuralink-just-announced/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
