@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 🚯 [Pelicans try to eat everything](http://9gag.com/gag/anzjGLz)
- - 🚯 [Unlimited possibilities](http://9gag.com/gag/aL18r16)<!-- MEMES:END -->
+ - 🚖 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
+ - 🚯 [Greatest of All Time](http://9gag.com/gag/anzjGpz)
+ - 🚯 [Kings](http://9gag.com/gag/ap9QVV5)<!-- MEMES:END -->
 
 --- 
 
