@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] Coinbase says Apple &quot;blocked our last&quot; Wallet iOS app release until the exchange disabled sending NFTs, claiming Apple wanted a 30% cut from gas fees &lpar;@coinbasewallet&rpar;](http://www.techmeme.com/221201/p21#a221201p21)
- - [Google’s trying to prove it’s serious about Wear OS 3 with holiday updates](https://www.theverge.com/2022/12/1/23487832/google-keep-wear-os-3-pixel-watch)
- - [Android is introducing an accessible reading mode and digital car key sharing](https://www.theverge.com/2022/12/1/23487812/android-update-accessibility-reading-mode-key-sharing)<!-- TECH:END -->
+ - [Modder gives iPhone 14 Pro Max the worst feature of Android phones](https://www.androidauthority.com/modded-iphone-14-pro-max-3243462/)
+ - [New Amnesia game offers ‘semi-open world’ gameplay and a gun](https://www.theverge.com/2022/12/1/23486454/new-amnesia-game-the-bunker-xbox-playstation-pc)
+ - [RDNA 2 quietly arrives in budget laptops](https://www.theverge.com/2022/12/1/23488036/amd-ryzen-7000-rdna2-lenovo-ideapad-1-pricing-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
