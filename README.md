@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - 🚯 [Is this weird or a God&#39;s gift?](http://9gag.com/gag/abvzQoB)
- - 🚯 [He&#39;s a playa](http://9gag.com/gag/a8q8VbO)<!-- MEMES:END -->
+ - 🚖 [Plus size `model`](http://9gag.com/gag/aPg9xEK)
+ - 🚯 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - 🚯 [That last comment and reaction...](http://9gag.com/gag/a045MNZ)<!-- MEMES:END -->
 
 --- 
 
