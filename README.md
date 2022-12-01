@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch unveils Shield Mode, which lets streamers and mods activate customizable safety measures with one click, mass ban chatters using specific terms, and more &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/221130/p41#a221130p41)
- - [Elon Musk says he met with Tim Cook at Apple&#39;s HQ on Wednesday, and that Cook was clear that Apple &quot;never considered&quot; removing Twitter from the App Store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221130/p40#a221130p40)
- - [CDC Grants More Than $3 Billion to Health Departments Across US     - CNET](https://www.cnet.com/health/medical/cdc-grants-more-than-3-billion-to-health-departments-across-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to charge your Google Pixel Watch](https://www.androidauthority.com/how-to-charge-your-google-pixel-watch-3239339/)
+ - [Twitter says it&#39;s expanding recommended tweets to all users, including those who may not have seen them in the past &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/221130/p44#a221130p44)
+ - [OpenAI releases a demo of ChatGPT, a chatbot version of GPT-3 that answers follow-up questions, admits its mistakes, challenges incorrect premises, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221130/p43#a221130p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
