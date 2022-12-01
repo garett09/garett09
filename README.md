@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones’ next adventure, the Dial of Destiny, gets its first trailer](https://www.polygon.com/23143331/indiana-jones-5-dial-of-destiny-trailer-release-date)
- - [Let’s yell about the so-called 100 greatest movies of all time](https://www.polygon.com/23488438/sight-and-sound-top-100-movies-of-all-time-list-is-wrong)
- - [Show us your Warhammer 40K: Darktide characters](https://www.pcgamer.com/show-us-your-warhammer-40k-darktide-characters)<!-- GAME:END -->
+ - [The Guardians of the Galaxy Vol. 3’s first trailer gets the whole gang back together](https://www.polygon.com/23339773/guardians-galaxy-3-trailer-marvel-release-date)
+ - [Thrilling hunts await when Monster Hunter Rise hits PS5 and PS4 on January 20, 2023](https://blog.playstation.com/2022/12/01/thrilling-hunts-await-when-monster-hunter-rise-hits-ps5-and-ps4-on-january-20-2023/)
+ - [Monster Hunter Rise Ascends to New Heights on Xbox](https://news.xbox.com/en-us/2022/12/01/monster-hunter-rise-ascends-to-new-heights-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
