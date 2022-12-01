@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
- - 🚯 [Bless her...](http://9gag.com/gag/a1PKLWP)
+ - 🚖 [Finnish EU parlament candidate tries speak french. She told that she can speak it fluently...](http://9gag.com/gag/axo0492)
+ - 🚯 [It\u2019s happening. Repost.](http://9gag.com/gag/aL18rBW)
  - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
 
 --- 
