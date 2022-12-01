@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in December](https://www.polygon.com/entertainment/2022/12/1/23482222/new-netflix-movies-tv-shows-watch-december-2022)
- - [Ukranian indie Ringlorn Saga puts a fresh twist on the &#39;80s PC game that pioneered action-RPGs](https://www.pcgamer.com/ukranian-indie-ringlorn-saga-puts-a-fresh-twist-on-the-80s-pc-game-that-pioneered-action-rpgs)
- - [This oppressively dark Soviet FPS now features a simply adorable little model train set](https://www.pcgamer.com/this-oppressively-dark-soviet-fps-now-features-a-simply-adorable-little-model-train-set)<!-- GAME:END -->
+ - [Indiana Jones’ next adventure, the Dial of Destiny, gets its first trailer](https://www.polygon.com/23143331/indiana-jones-5-dial-of-destiny-trailer-release-date)
+ - [Let’s yell about the so-called 100 greatest movies of all time](https://www.polygon.com/23488438/sight-and-sound-top-100-movies-of-all-time-list-is-wrong)
+ - [Show us your Warhammer 40K: Darktide characters](https://www.pcgamer.com/show-us-your-warhammer-40k-darktide-characters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
