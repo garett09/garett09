@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will take one-third of TSMC chips made in Arizona](https://appleinsider.com/articles/22/12/01/apple-will-take-one-third-of-tsmc-chips-made-in-arizona?utm_medium=rss)
- - [Fleek, which is developing tools for Web3 companies, including for storage, billing, and hosting, raised a $25M Series A led by Polychain Capital &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/221201/p12#a221201p12)
- - [Apple had its best sales ever in October in the Chinese market](https://appleinsider.com/articles/22/12/01/apple-had-its-best-sales-ever-in-october-in-the-chinese-market?utm_medium=rss)<!-- TECH:END -->
+ - [Zendure SuperBase V is the ultimate power station](https://appleinsider.com/articles/22/12/01/zendure-superbase-v-is-the-ultimate-power-station?utm_medium=rss)
+ - [A look at online and smartphone gambling in the UK, legalized in 2005, as bettors lost &amp;pound;14B+ in four of the past five years and concerns about addiction rise &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p14#a221201p14)
+ - [Apple may see $8 billion holiday revenue drop over iPhone delays](https://appleinsider.com/articles/22/12/01/apple-may-see-8-billion-holiday-revenue-drop-over-iphone-delays?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
