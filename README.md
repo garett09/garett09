@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t shut down App Store Connect for the holidays](https://appleinsider.com/articles/22/12/01/apple-wont-shut-down-app-store-connect-for-the-holidays?utm_medium=rss)
- - [Frore Systems, which develops the AirJet system to better cool processors, raised $100M led by Qualcomm Ventures, bringing its total funding to $116M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221201/p17#a221201p17)
- - [New Apple Card applicants get 5% cashback on iPhone, Mac, more](https://appleinsider.com/articles/22/12/01/new-apple-card-applicants-get-5-cashback-on-iphone-mac-more?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch Hulu on Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-hulu-on-mac?utm_medium=rss)
+ - [Twitter alternative Hive temporarily shuts down after researchers found vulnerabilities that would have let hackers access DMs and edit others&#39; Hive posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221201/p20#a221201p20)
+ - [The $70 Echo Show 8 comes with a free Echo Show 5 at Amazon](https://www.theverge.com/2022/12/1/23486728/amazon-echo-show-bundle-disney-plus-jabra-earbuds-anker-charging-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
