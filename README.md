@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon CEO Andy Jassy says the company does not plan to stop selling &quot;Hebrews to Negroes: Wake Up Black America&quot;, an antisemitic film promoted by Kyrie Irving &lpar;Associated Press&rpar;](http://www.techmeme.com/221201/p8#a221201p8)
- - [Inside Amazon Air’s Quest to Seize the Skies](https://www.wired.com/story/amazon-air-quest-to-seize-the-skies/)
- - [In his NYT interview, SBF gave few straight answers while admitting to gross errors, denying claims of fraud, and claiming he &quot;didn&#39;t knowingly commingle funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p7#a221201p7)<!-- TECH:END -->
+ - [Apple will take one-third of TSMC chips made in Arizona](https://appleinsider.com/articles/22/12/01/apple-will-take-one-third-of-tsmc-chips-made-in-arizona?utm_medium=rss)
+ - [Fleek, which is developing tools for Web3 companies, including for storage, billing, and hosting, raised a $25M Series A led by Polychain Capital &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/221201/p12#a221201p12)
+ - [Apple had its best sales ever in October in the Chinese market](https://appleinsider.com/articles/22/12/01/apple-had-its-best-sales-ever-in-october-in-the-chinese-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
