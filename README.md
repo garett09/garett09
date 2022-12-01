@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Guardians of the Galaxy Vol. 3’s first trailer gets the whole gang back together](https://www.polygon.com/23339773/guardians-galaxy-3-trailer-marvel-release-date)
- - [Thrilling hunts await when Monster Hunter Rise hits PS5 and PS4 on January 20, 2023](https://blog.playstation.com/2022/12/01/thrilling-hunts-await-when-monster-hunter-rise-hits-ps5-and-ps4-on-january-20-2023/)
- - [Monster Hunter Rise Ascends to New Heights on Xbox](https://news.xbox.com/en-us/2022/12/01/monster-hunter-rise-ascends-to-new-heights-on-xbox/)<!-- GAME:END -->
+ - [New World is finally cracking down on &#39;shell companies&#39; to stop players from monopolizing the fun](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)
+ - [Why is this $10 Warzone skin one of the best selling things on Steam?](https://www.pcgamer.com/why-is-this-dollar10-warzone-skin-one-of-the-best-selling-things-on-steam)
+ - [The best World of Warcraft: Dragonflight easter eggs](https://www.pcgamer.com/world-of-warcraft-easter-eggs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
