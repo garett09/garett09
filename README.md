@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
- - 🚯 [Kings](http://9gag.com/gag/ap9QVV5)
- - 🚯 [Greatest of All Time](http://9gag.com/gag/anzjGpz)<!-- MEMES:END -->
+ - 🚖 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)
+ - 🚯 [Greatest of All Time](http://9gag.com/gag/anzjGpz)
+ - 🚯 [10 for effort](http://9gag.com/gag/aL18rv6)<!-- MEMES:END -->
 
 --- 
 
