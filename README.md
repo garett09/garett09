@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plus size `model`](http://9gag.com/gag/aPg9xEK)
- - 🚯 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - 🚯 [That last comment and reaction...](http://9gag.com/gag/a045MNZ)<!-- MEMES:END -->
+ - 🚖 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 🚯 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)
+ - 🚯 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)<!-- MEMES:END -->
 
 --- 
 
