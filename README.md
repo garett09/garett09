@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can earn money through Discord now](https://www.theverge.com/2022/12/1/23488381/discord-server-subscriptions-program-monetization)
- - [Coinbase says Apple forced it to remove NFT transfers from its iOS wallet](https://www.theverge.com/2022/12/1/23488448/coinbase-ios-wallet-app-apple-nft-fees-in-app-purchase-store)
- - [Epic’s free app that turns real-life items into 3D models is available now on iOS](https://www.theverge.com/2022/12/1/23488421/epic-games-realityscan-ios-app-scan-objects-3d-models)<!-- TECH:END -->
+ - [How to change your video doorbell ringtone](https://www.theverge.com/23488326/video-doorbell-ringtone-change-how-to)
+ - [Parler&#39;s owner says it &quot;has mutually agreed with Ye to terminate the intent of sale of Parler&quot;, after announcing the deal in October &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/221201/p28#a221201p28)
+ - [Today’s Google Doodle celebrates one of gaming’s hidden figures](https://www.theverge.com/2022/12/1/23488375/gerald-jerry-lawson-google-doodle-gaming-pioneer-inventor-cartridge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
