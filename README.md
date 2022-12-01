@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [The best holiday tablet deals: New low price on Galaxy Tab A8](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Watch this live Nintendo concert featuring holograms of K.K. Slider and Splatoon 3’s idols](https://www.theverge.com/2022/12/1/23488120/nintendo-live-2022-concert-holograms-k-k-slider-animal-crossing-splatoon-3)<!-- TECH:END -->
+ - [Nvidia’s melted power cables are an Nvidia problem, PCI standards body suggests](https://www.theverge.com/2022/12/1/23488276/nvidia-12vhpwr-cable-16-pin-pci-sig-response)
+ - [Discord renames Premium Memberships to Server Subscriptions and makes them available for all US creators; Discord will take a 10% cut of subscriptions &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/221201/p25#a221201p25)
+ - [How to block a phone number on Android](https://www.theverge.com/23484193/android-block-phone-number-pixel-samsung)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
