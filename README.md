@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 🚯 [Men ofcourse!](http://9gag.com/gag/a6qVjee)
- - 🚯 [Destruction level 100!](http://9gag.com/gag/aNwzOG6)<!-- MEMES:END -->
+ - 🚖 [Mad max THE OFFICE addition](http://9gag.com/gag/a9qAOAm)
+ - 🚯 [Peg was hot.](http://9gag.com/gag/axo0RvL)
+ - 🚯 [The details in this game are insane](http://9gag.com/gag/aOxBDzE)<!-- MEMES:END -->
 
 --- 
 
