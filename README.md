@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - 🚯 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)
- - 🚯 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)<!-- MEMES:END -->
+ - 🚖 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)
+ - 🚯 [Deploying straight to production without testing !](http://9gag.com/gag/anzjGOV)
+ - 🚯 [Good boy gets kicked out of jiu jitsu tournament for protecting owner during match](http://9gag.com/gag/agoYKQ1)<!-- MEMES:END -->
 
 --- 
 
