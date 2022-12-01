@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s melted power cables are an Nvidia problem, PCI standards body suggests](https://www.theverge.com/2022/12/1/23488276/nvidia-12vhpwr-cable-16-pin-pci-sig-response)
- - [Discord renames Premium Memberships to Server Subscriptions and makes them available for all US creators; Discord will take a 10% cut of subscriptions &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/221201/p25#a221201p25)
- - [How to block a phone number on Android](https://www.theverge.com/23484193/android-block-phone-number-pixel-samsung)<!-- TECH:END -->
+ - [You can earn money through Discord now](https://www.theverge.com/2022/12/1/23488381/discord-server-subscriptions-program-monetization)
+ - [Coinbase says Apple forced it to remove NFT transfers from its iOS wallet](https://www.theverge.com/2022/12/1/23488448/coinbase-ios-wallet-app-apple-nft-fees-in-app-purchase-store)
+ - [Epic’s free app that turns real-life items into 3D models is available now on iOS](https://www.theverge.com/2022/12/1/23488421/epic-games-realityscan-ios-app-scan-objects-3d-models)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
