@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 for effort](http://9gag.com/gag/aL18rv6)
- - 🚯 [A mall in Iran these days](http://9gag.com/gag/aWGq9yq)
- - 🚯 [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)<!-- MEMES:END -->
+ - 🚖 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
+ - 🚯 [Finnish EU parlament candidate tries speak french. She told that she can speak it fluently...](http://9gag.com/gag/axo0492)
+ - 🚯 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)<!-- MEMES:END -->
 
 --- 
 
