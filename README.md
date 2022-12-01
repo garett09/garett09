@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 1: $600 off Samsung 49-inch monitor, $5 off HomePod mini, 91% off Microsoft Office for Mac, more](https://appleinsider.com/articles/22/12/01/daily-deals-dec-1-600-off-samsung-49-inch-monitor-5-off-homepod-mini-91-off-microsoft-office-for-mac-more?utm_medium=rss)
- - [Samsung Galaxy A23 5G Review: Annoyingly Laggy](https://www.wired.com/review/samsung-galaxy-a23-5g/)
- - [Now 1Password remembers sites that use third-party accounts like Google or Facebook to log in](https://www.theverge.com/2022/12/1/23486783/1password-sign-in-passwordless-feature-google-apple-facebook)<!-- TECH:END -->
+ - [Apple won&#39;t shut down App Store Connect for the holidays](https://appleinsider.com/articles/22/12/01/apple-wont-shut-down-app-store-connect-for-the-holidays?utm_medium=rss)
+ - [Frore Systems, which develops the AirJet system to better cool processors, raised $100M led by Qualcomm Ventures, bringing its total funding to $116M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221201/p17#a221201p17)
+ - [New Apple Card applicants get 5% cashback on iPhone, Mac, more](https://appleinsider.com/articles/22/12/01/new-apple-card-applicants-get-5-cashback-on-iphone-mac-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
