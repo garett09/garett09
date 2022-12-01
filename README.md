@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
- - 🚯 [Finnish EU parlament candidate tries speak french. She told that she can speak it fluently...](http://9gag.com/gag/axo0492)
- - 🚯 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)<!-- MEMES:END -->
+ - 🚖 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - 🚯 [Funny because its true](http://9gag.com/gag/aMEAWgG)
+ - 🚯 [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)<!-- MEMES:END -->
 
 --- 
 
