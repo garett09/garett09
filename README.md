@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD: Moore&#39;s Law ain&#39;t dead, it&#39;s just a whole lot more expensive](https://www.pcgamer.com/amd-moores-law-aint-dead-its-just-a-whole-lot-more-expensive)
- - [Neon White is coming to PS4 and PS5 December 13](https://blog.playstation.com/2022/12/01/neon-white-is-coming-to-ps4-and-ps5-december-13/)
- - [Disney Dreamlight Valley just teased one of my favourite characters for next week&#39;s update](https://www.pcgamer.com/disney-dreamlight-valley-just-teased-one-of-my-favourite-characters-for-next-weeks-update)<!-- GAME:END -->
+ - [Amnesia: The Bunker gives the player a gun — but at what cost?](https://www.polygon.com/23486512/amnesia-the-bunker-announcement-trailer-protagonist-setting-weapon)
+ - [Indies highlights coming to PS4 &amp; PS5 in December 2022](https://blog.playstation.com/2022/12/01/indies-highlights-coming-to-ps4-ps5-in-december-2022/)
+ - [Amnesia: The Bunker promises a &#39;semi-open world&#39; with sandbox-style survival horror](https://www.pcgamer.com/amnesia-the-bunker-promises-a-semi-open-world-with-sandbox-style-survival-horror)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
