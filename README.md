@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zendure SuperBase V is the ultimate power station](https://appleinsider.com/articles/22/12/01/zendure-superbase-v-is-the-ultimate-power-station?utm_medium=rss)
- - [A look at online and smartphone gambling in the UK, legalized in 2005, as bettors lost &amp;pound;14B+ in four of the past five years and concerns about addiction rise &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p14#a221201p14)
- - [Apple may see $8 billion holiday revenue drop over iPhone delays](https://appleinsider.com/articles/22/12/01/apple-may-see-8-billion-holiday-revenue-drop-over-iphone-delays?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Dec. 1: $600 off Samsung 49-inch monitor, $5 off HomePod mini, 91% off Microsoft Office for Mac, more](https://appleinsider.com/articles/22/12/01/daily-deals-dec-1-600-off-samsung-49-inch-monitor-5-off-homepod-mini-91-off-microsoft-office-for-mac-more?utm_medium=rss)
+ - [Samsung Galaxy A23 5G Review: Annoyingly Laggy](https://www.wired.com/review/samsung-galaxy-a23-5g/)
+ - [Now 1Password remembers sites that use third-party accounts like Google or Facebook to log in](https://www.theverge.com/2022/12/1/23486783/1password-sign-in-passwordless-feature-google-apple-facebook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
