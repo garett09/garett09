@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of my favorite videos of all time](http://9gag.com/gag/aWGqvj6)
- - 🚯 [Nope. that&#39;s witchcraft](http://9gag.com/gag/abvzBNL)
- - 🚯 [Peg was hot.](http://9gag.com/gag/axo0RvL)<!-- MEMES:END -->
+ - 🚖 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
+ - 🚯 [Don&#39;t mind this post it&#39;s just a test](http://9gag.com/gag/a4oG6rp)
+ - 🚯 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)<!-- MEMES:END -->
 
 --- 
 
