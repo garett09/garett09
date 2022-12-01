@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US Labor Board torpedoes Activision&#39;s last-minute attempt to impede union vote](https://www.pcgamer.com/us-labor-board-torpedoes-activisions-last-minute-attempt-to-impede-union-vote)
- - [A year after launch, Battlefield 2042 wants a second chance: &#39;We&#39;re feeling really good&#39;](https://www.pcgamer.com/a-year-after-launch-battlefield-2042-wants-a-second-chance-were-feeling-really-good)
- - [Free Play Days – Battlefield 2042, Batora: Lost Haven, and Rainbow Six Siege](https://news.xbox.com/en-us/2022/12/01/free-play-days-battlefield-2042-batora-lost-haven-and-rainbow-six-siege/)<!-- GAME:END -->
+ - [AMD: Moore&#39;s Law ain&#39;t dead, it&#39;s just a whole lot more expensive](https://www.pcgamer.com/amd-moores-law-aint-dead-its-just-a-whole-lot-more-expensive)
+ - [Neon White is coming to PS4 and PS5 December 13](https://blog.playstation.com/2022/12/01/neon-white-is-coming-to-ps4-and-ps5-december-13/)
+ - [Disney Dreamlight Valley just teased one of my favourite characters for next week&#39;s update](https://www.pcgamer.com/disney-dreamlight-valley-just-teased-one-of-my-favourite-characters-for-next-weeks-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
