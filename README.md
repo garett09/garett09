@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 🚯 [Same same, but different.](http://9gag.com/gag/aBd8Xwz)
- - 🚯 [Nope. that&#39;s witchcraft](http://9gag.com/gag/abvzBNL)<!-- MEMES:END -->
+ - 🚖 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 🚯 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 🚯 [This title was deleted](http://9gag.com/gag/aA0DyLE)<!-- MEMES:END -->
 
 --- 
 
