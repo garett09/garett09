@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about the Fortnite Fracture event](https://www.pcgamer.com/fortnite-chapter-4-start-fracture-event)
- - [Tallneck Tidings: A Horizon holiday gift guide 2022](https://blog.playstation.com/2022/12/01/tallneck-tidings-a-horizon-holiday-gift-guide-2022/)
- - [Tallneck Tidings: A Horizon holiday gift guide 2022](https://blog.playstation.com/2022/12/01/tallneck-tidings-a-horizon-holiday-gift-guide-2022/)<!-- GAME:END -->
+ - [League of Legends has a multiverse too, and it’s packed with mysteries](https://www.polygon.com/23486473/league-of-legends-multiverse-explained-empyrean-star-guardian-dark-star-arcane)
+ - [Top tips to get ready for Marvel’s Midnight Suns, out December 2](https://blog.playstation.com/2022/12/01/top-tips-to-get-ready-for-marvels-midnight-suns-out-december-2/)
+ - [17 things I wish I knew before starting Marvel&#39;s Midnight Suns](https://www.pcgamer.com/midnight-suns-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
