@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modder gives iPhone 14 Pro Max the worst feature of Android phones](https://www.androidauthority.com/modded-iphone-14-pro-max-3243462/)
- - [New Amnesia game offers ‘semi-open world’ gameplay and a gun](https://www.theverge.com/2022/12/1/23486454/new-amnesia-game-the-bunker-xbox-playstation-pc)
- - [RDNA 2 quietly arrives in budget laptops](https://www.theverge.com/2022/12/1/23488036/amd-ryzen-7000-rdna2-lenovo-ideapad-1-pricing-release)<!-- TECH:END -->
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [The best holiday tablet deals: New low price on Galaxy Tab A8](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [Watch this live Nintendo concert featuring holograms of K.K. Slider and Splatoon 3’s idols](https://www.theverge.com/2022/12/1/23488120/nintendo-live-2022-concert-holograms-k-k-slider-animal-crossing-splatoon-3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
