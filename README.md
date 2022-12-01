@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pelicans try to eat everything](http://9gag.com/gag/anzjGLz)
- - 🚯 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 🚯 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)<!-- MEMES:END -->
+ - 🚖 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - 🚯 [I don&#39;t think she gets it](http://9gag.com/gag/aXnveR2)
+ - 🚯 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)<!-- MEMES:END -->
 
 --- 
 
