@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - 🚯 [I don&#39;t think she gets it](http://9gag.com/gag/aXnveR2)
- - 🚯 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)<!-- MEMES:END -->
+ - 🚖 [10 for effort](http://9gag.com/gag/aL18rv6)
+ - 🚯 [A mall in Iran these days](http://9gag.com/gag/aWGq9yq)
+ - 🚯 [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)<!-- MEMES:END -->
 
 --- 
 
