@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
- - 🚯 [Don&#39;t mind this post it&#39;s just a test](http://9gag.com/gag/a4oG6rp)
- - 🚯 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)<!-- MEMES:END -->
+ - 🚖 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 🚯 [Men ofcourse!](http://9gag.com/gag/a6qVjee)
+ - 🚯 [Destruction level 100!](http://9gag.com/gag/aNwzOG6)<!-- MEMES:END -->
 
 --- 
 
