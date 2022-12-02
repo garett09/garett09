@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)
- - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)
- - 🚯 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)<!-- MEMES:END -->
+ - 🚖 [Wtf?](http://9gag.com/gag/adP9WXB)
+ - 🚯 [Lord Commander](http://9gag.com/gag/abvzoBB)
+ - 🚯 [Mother of the Year](http://9gag.com/gag/aDYzLe9)<!-- MEMES:END -->
 
 --- 
 
