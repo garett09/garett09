@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the End of Trending](https://www.wired.com/story/twitter-trending-topics/)
- - [Why the World Fell for FTX CEO Sam Bankman-Fried](https://www.wired.com/story/plaintext-why-the-world-fell-for-sam-bankman-fried-ftx/)
- - [AI Reveals the Most Human Parts of Writing](https://www.wired.com/story/artificial-intelligence-writing-art/)<!-- TECH:END -->
+ - [Filing: US DOJ has requested that an independent examiner be appointed to review &quot;substantial and serious allegations of fraud, dishonesty&quot; in FTX&#39;s bankruptcy &lpar;CNBC&rpar;](http://www.techmeme.com/221202/p9#a221202p9)
+ - [The Verge’s 2022 holiday gift guide for working from home](https://www.theverge.com/23381124/work-from-home-wfh-remote-office-holiday-gift-guide-2022-supplies-tech-gadgets)
+ - [OtterBox is out with new power banks for iPhone and Apple Watch](https://appleinsider.com/articles/22/12/02/otterbox-is-out-with-new-power-banks-for-iphone-and-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
