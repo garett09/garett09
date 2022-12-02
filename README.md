@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No title](http://9gag.com/gag/aVbMRW8)
- - 🚯 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
- - 🚯 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)<!-- MEMES:END -->
+ - 🚖 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
+ - 🚯 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)
+ - 🚯 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)<!-- MEMES:END -->
 
 --- 
 
