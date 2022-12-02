@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free-in-2022?utm_medium=rss)
- - [Sources: Twitter offers advertisers generous incentives, including matching $500K to $1M in spending in 2022, in a bid to jump start its faltering business &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/221202/p4#a221202p4)
- - [Victrola’s Portable Record Player Brings the Party Anywhere](https://www.wired.com/story/victrola-re-spin-rave/)<!-- TECH:END -->
+ - [8 shows and movies like Wednesday to watch after finishing the Netflix series](https://www.androidauthority.com/shows-and-movies-like-wednesday-3242646/)
+ - [Ditch Your USB-A Dongle and Embrace the USB-C Life](https://www.wired.com/story/usb-c-dongle-rave/)
+ - [Palmer Luckey&#39;s Anduril, which builds autonomous systems for the US military, raised nearly $1.5B at a $7B pre-money valuation, up from $4.2B in June 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221202/p5#a221202p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
