@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox Winter Game Demo Event Heading Your Way](https://news.xbox.com/en-us/2022/12/02/idxbox-winter-game-demo-event-heading-your-way/)
- - [The GTX 1650 is now the most commonly used GPU among Steam users](https://www.pcgamer.com/the-gtx-1650-is-now-the-most-commonly-used-gpu-among-steam-users)
- - [Blizzard Albany becomes second unionized studio at Activision Blizzard](https://www.polygon.com/23490063/activision-blizzard-albany-qa-union-vote-win)<!-- GAME:END -->
+ - [Valve is giving away Steam Decks during The Game Awards](https://www.polygon.com/23490298/the-game-awards-2022-announcements-steam-deck-free-award-prize-register)
+ - [What The Callisto Protocol doesn’t teach you about its vague melee combat](https://www.polygon.com/guides/23490279/callisto-protocol-melee-combat-dodge-auto)
+ - [&#39;We don&#39;t want to be predatory&#39;—Darktide devs explain why they switched to an in-game currency to sell cosmetics](https://www.pcgamer.com/we-dont-want-to-be-predatorydarktide-devs-explain-why-they-switched-to-an-in-game-currency-to-sell-cosmetics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
