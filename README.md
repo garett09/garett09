@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Says It ‘Cares’ About Smash Bros. Fans As Tournament Dispute Continues](https://kotaku.com/nintendo-switch-smash-bros-tournament-cancelled-panda-1849847260)
- - [Transport Fever 2: Console Edition is Bringing the Full Transport Tycoon Cxperience to Xbox](https://news.xbox.com/en-us/2022/12/02/transport-fever-2-console-edition-preview/)
- - [The Best And Worst Battle Passes Of 2022 From Overwatch 2 To Fortnite](https://kotaku.com/the-best-and-worst-battle-passes-of-2022-1849846941)<!-- GAME:END -->
+ - [ID@Xbox Winter Game Demo Event Heading Your Way](https://news.xbox.com/en-us/2022/12/02/idxbox-winter-game-demo-event-heading-your-way/)
+ - [The GTX 1650 is now the most commonly used GPU among Steam users](https://www.pcgamer.com/the-gtx-1650-is-now-the-most-commonly-used-gpu-among-steam-users)
+ - [Blizzard Albany becomes second unionized studio at Activision Blizzard](https://www.polygon.com/23490063/activision-blizzard-albany-qa-union-vote-win)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
