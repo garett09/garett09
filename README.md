@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
- - 🚯 [Rick chases and catches particularly dangerous characters, and puts them in his prison, from which no one can escape, almost no one.](http://9gag.com/gag/a4oG5M6)
- - 🚯 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)<!-- MEMES:END -->
+ - 🚖 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
+ - 🚯 [A NJ high school recently held a private drag show during school hour where students performed for select staff to watch without parent&#39;s knowledge. Outraged parents showed up to the board meeting last week and blasted the school.](http://9gag.com/gag/a5Xn96L)
+ - 🚯 [Need For Speed: Most Wanted had the best pursuit system of the whole video games industry and is still unmatched today. PIT maneuvers,triangle formation, road blocks and tire spikes. And the infamous RHINO SLAP. The music is also completely dynamic and changes on the situation.](http://9gag.com/gag/anzj0vz)<!-- MEMES:END -->
 
 --- 
 
