@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is giving away Steam Decks during The Game Awards](https://www.polygon.com/23490298/the-game-awards-2022-announcements-steam-deck-free-award-prize-register)
- - [What The Callisto Protocol doesn’t teach you about its vague melee combat](https://www.polygon.com/guides/23490279/callisto-protocol-melee-combat-dodge-auto)
- - [&#39;We don&#39;t want to be predatory&#39;—Darktide devs explain why they switched to an in-game currency to sell cosmetics](https://www.pcgamer.com/we-dont-want-to-be-predatorydarktide-devs-explain-why-they-switched-to-an-in-game-currency-to-sell-cosmetics)<!-- GAME:END -->
+ - [This Week on Xbox: Exciting New Releases, Updates, and More](https://news.xbox.com/en-us/2022/12/02/this-week-on-xbox-exciting-new-releases-updates-and-more/)
+ - [The Callisto Protocol, The Kotaku Review](https://kotaku.com/callisto-protocol-review-dead-space-pc-ps5-goty-1849848054)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
