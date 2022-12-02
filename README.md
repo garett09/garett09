@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal doc: Alameda and FTX&#39;s largest venture bet was Bitcoin mining company Genesis Digital, investing a total of $1.15B between August 2021 and April 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221202/p15#a221202p15)
- - [Another Blizzard QA department wins union vote](https://www.theverge.com/2022/12/2/23489932/activision-blizzard-albany-qa-union)
- - [Clip Studio Paint cancels AI image generator amidst backlash from users](https://www.theverge.com/2022/12/2/23490068/clip-studio-paint-ai-image-generator-cancels-celsys-digital-illustration)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [I am using Sunbird with iMessage for Android. It works.](https://www.androidauthority.com/sunbird-imessage-android-3244025/)
+ - [Google Messages is getting end-to-end encrypted RCS group chats](https://www.theverge.com/2022/12/2/23490072/rcs-end-to-end-encryption-group-chats-messages-android-google-imessage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
