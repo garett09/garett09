@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 🚯 [Mother of the Year](http://9gag.com/gag/aDYzLe9)
- - 🚯 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)<!-- MEMES:END -->
+ - 🚖 [In time](http://9gag.com/gag/aYV4mPw)
+ - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)
+ - 🚯 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)<!-- MEMES:END -->
 
 --- 
 
