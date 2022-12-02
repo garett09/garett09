@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Swift PG42UQ](https://www.pcgamer.com/asus-rog-swift-pg42uq-gaming-monitor-review)
- - [I&#39;ve already seen far too much of The Callisto Protocol&#39;s grisly death animations](https://www.pcgamer.com/ive-already-seen-far-too-much-of-the-callisto-protocols-grisly-death-animations)
- - [Spider-Man: Miles Morales will stop honking an air horn during its most emotional scenes](https://www.pcgamer.com/spider-man-miles-morales-will-stop-honking-an-air-horn-during-its-most-emotional-scenes)<!-- GAME:END -->
+ - [The Callisto Protocol won&#39;t get NG+ until next year](https://www.pcgamer.com/the-callisto-protocol-wont-get-ng-until-next-year)
+ - [David Harbour’s kick-ass Santa movie Violent Night ain’t replacing Die Hard anytime soon](https://www.polygon.com/reviews/23488667/violent-night-review-david-harbour-killer-santa)
+ - [Technoblade&#39;s farewell is the top trending YouTube video of 2022](https://www.pcgamer.com/technoblades-farewell-is-the-top-trending-youtube-video-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
