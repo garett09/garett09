@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)
- - 🚯 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 🚯 [Arigato, Japan \ud83d\udc4c\ud83c\udffc](http://9gag.com/gag/aPg9zMq)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t make noise ffs](http://9gag.com/gag/aEqBbwK)
+ - 🚯 [Old one but I still love it lol hope you all do to :&rpar;](http://9gag.com/gag/aVbMrmO)
+ - 🚯 [Mother of the Year](http://9gag.com/gag/aDYzLe9)<!-- MEMES:END -->
 
 --- 
 
