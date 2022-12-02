@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - 🚖 [Alex Jones desperately tries to get Kanye West to clarify that he doesn&#39;t actually love Hitler ... but nope.](http://9gag.com/gag/aA0DNmo)
  - 🚯 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - 🚯 [No title](http://9gag.com/gag/aVbMRW8)<!-- MEMES:END -->
+ - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
 
 --- 
 
