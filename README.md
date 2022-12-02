@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 25th Anniversary and World Finals celebration continues with GT7](https://blog.playstation.com/2022/12/02/gran-turismo-25th-anniversary-and-world-finals-celebration-continues-with-gt7/)
- - [Next Week on Xbox: New Games for December 5 to 9](https://news.xbox.com/en-us/2022/12/02/next-week-on-xbox-new-games-for-december-5-to-9/)
- - [How to build a level 3 sandwich in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23486287/level-3-sandwich-ingredients-recipes-herba-mystica-sparkling-power)<!-- GAME:END -->
+ - [MelGeek Pixel](https://www.pcgamer.com/melgeek-pixel-gaming-keyboard)
+ - [PlayStation Partner Awards 2022 Japan Asia winners announced](https://blog.playstation.com/2022/12/02/playstation-partner-awards-2022-japan-asia-winners-announced/)
+ - [Gundam Evolution Launches Today on Xbox](https://news.xbox.com/en-us/2022/12/02/gundam-evolution-launch-post/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
