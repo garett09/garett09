@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - 🚯 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
- - 🚯 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)<!-- MEMES:END -->
+ - 🚖 [In time](http://9gag.com/gag/aYV4mPw)
+ - 🚯 [I HATE THEM!](http://9gag.com/gag/amA2O9d)
+ - 🚯 [You may be wondering how I shit my pants a bit.](http://9gag.com/gag/aA0DqnL)<!-- MEMES:END -->
 
 --- 
 
