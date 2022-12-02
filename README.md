@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - 🚯 [Brazilians right now](http://9gag.com/gag/aGEeNo5)
- - 🚯 [Japan no1](http://9gag.com/gag/awZQGED)<!-- MEMES:END -->
+ - 🚖 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - 🚯 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - 🚯 [No title](http://9gag.com/gag/aVbMRW8)<!-- MEMES:END -->
 
 --- 
 
