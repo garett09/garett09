@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In time](http://9gag.com/gag/aYV4mPw)
- - 🚯 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)
- - 🚯 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)<!-- MEMES:END -->
+ - 🚖 [Cant eat anything other than ice cream...](http://9gag.com/gag/ap9Q75D)
+ - 🚯 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - 🚯 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)<!-- MEMES:END -->
 
 --- 
 
