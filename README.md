@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
- - 🚯 [A NJ high school recently held a private drag show during school hour where students performed for select staff to watch without parent&#39;s knowledge. Outraged parents showed up to the board meeting last week and blasted the school.](http://9gag.com/gag/a5Xn96L)
- - 🚯 [Need For Speed: Most Wanted had the best pursuit system of the whole video games industry and is still unmatched today. PIT maneuvers,triangle formation, road blocks and tire spikes. And the infamous RHINO SLAP. The music is also completely dynamic and changes on the situation.](http://9gag.com/gag/anzj0vz)<!-- MEMES:END -->
+ - 🚖 [Dikhead being an a$s to an old disable lady &lpar;3:03&rpar;](http://9gag.com/gag/aBd8bmN)
+ - 🚯 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 🚯 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)<!-- MEMES:END -->
 
 --- 
 
