@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf?](http://9gag.com/gag/adP9WXB)
- - 🚯 [Lord Commander](http://9gag.com/gag/abvzoBB)
- - 🚯 [Mother of the Year](http://9gag.com/gag/aDYzLe9)<!-- MEMES:END -->
+ - 🚖 [Had me going at first](http://9gag.com/gag/aeQeqQj)
+ - 🚯 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)
+ - 🚯 [Cant eat anything other than ice cream...](http://9gag.com/gag/ap9Q75D)<!-- MEMES:END -->
 
 --- 
 
