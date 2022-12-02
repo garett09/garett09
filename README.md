@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MelGeek Pixel](https://www.pcgamer.com/melgeek-pixel-gaming-keyboard)
- - [PlayStation Partner Awards 2022 Japan Asia winners announced](https://blog.playstation.com/2022/12/02/playstation-partner-awards-2022-japan-asia-winners-announced/)
- - [Gundam Evolution Launches Today on Xbox](https://news.xbox.com/en-us/2022/12/02/gundam-evolution-launch-post/)<!-- GAME:END -->
+ - [We built the ultimate racing rig](https://www.polygon.com/2022/12/2/23489789/gamestop-f1-gameplay-polygon-twitch)
+ - [Share of the Week: Vistas](https://blog.playstation.com/2022/12/02/share-of-the-week-vistas/)
+ - [5 Things You May Have Missed in The Callisto Protocol Launch Trailer](https://news.xbox.com/en-us/2022/12/02/the-callisto-protocol-launch-post/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
