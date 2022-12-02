@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - 🚯 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)
- - 🚯 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)<!-- MEMES:END -->
+ - 🚖 [Had me going at first](http://9gag.com/gag/aeQeqQj)
+ - 🚯 [Football](http://9gag.com/gag/avQ7VR5)
+ - 🚯 [On the blackout](http://9gag.com/gag/aeQeE1q)<!-- MEMES:END -->
 
 --- 
 
