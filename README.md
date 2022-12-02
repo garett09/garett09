@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dikhead being an a$s to an old disable lady &lpar;3:03&rpar;](http://9gag.com/gag/aBd8bmN)
- - 🚯 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 🚯 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)<!-- MEMES:END -->
+ - 🚖 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - 🚯 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 🚯 [In time](http://9gag.com/gag/aYV4mPw)<!-- MEMES:END -->
 
 --- 
 
