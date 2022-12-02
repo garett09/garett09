@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re in Denial About the True Cost of a Twitter Implosion](https://www.wired.com/story/musk-denial-true-cost-twitter-implosion/)
- - [TikTok and Bumble plan to use StopNCII.org&#39;s database of hashes of nude images and videos to block revenge porn; Meta has been using it since last year &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/221202/p3#a221202p3)
- - [Daily Authority: 📺 YouTube’s 2022 top ten](https://www.androidauthority.com/daily-authority-december-2-2022-3243786/)<!-- TECH:END -->
+ - [How to watch &#39;A Charlie Brown Christmas&#39; for free in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free-in-2022?utm_medium=rss)
+ - [Sources: Twitter offers advertisers generous incentives, including matching $500K to $1M in spending in 2022, in a bid to jump start its faltering business &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/221202/p4#a221202p4)
+ - [Victrola’s Portable Record Player Brings the Party Anywhere](https://www.wired.com/story/victrola-re-spin-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
