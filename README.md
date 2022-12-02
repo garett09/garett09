@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - 🚯 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - 🚯 [In time](http://9gag.com/gag/aYV4mPw)<!-- MEMES:END -->
+ - 🚖 [No title](http://9gag.com/gag/aVbMRW8)
+ - 🚯 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
+ - 🚯 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)<!-- MEMES:END -->
 
 --- 
 
