@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cant eat anything other than ice cream...](http://9gag.com/gag/ap9Q75D)
- - 🚯 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - 🚯 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)<!-- MEMES:END -->
+ - 🚖 [In time](http://9gag.com/gag/aYV4mPw)
+ - 🚯 [At this point i can&#39;t even..](http://9gag.com/gag/a7qDg2A)
+ - 🚯 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)<!-- MEMES:END -->
 
 --- 
 
