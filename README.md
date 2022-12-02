@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [I am using Sunbird with iMessage for Android. It works.](https://www.androidauthority.com/sunbird-imessage-android-3244025/)
- - [Google Messages is getting end-to-end encrypted RCS group chats](https://www.theverge.com/2022/12/2/23490072/rcs-end-to-end-encryption-group-chats-messages-android-google-imessage)<!-- TECH:END -->
+ - [Best portable power stations to keep lights on &amp; iPhone charged in an emergency](https://appleinsider.com/inside/accessories-and-io/best/best-portable-power-stations-to-keep-keep-lights-on-iphone-charged-in-an-emergency?utm_medium=rss)
+ - [Use GarageBand to remix Zedd&#39;s &#39;Clarity&#39; on it&#39;s ten-year anniversary](https://appleinsider.com/articles/22/12/02/use-garageband-to-remix-zedds-clarity-on-its-ten-year-anniversary?utm_medium=rss)
+ - [Motorola’s Edge 30 Fusion is coming to the US in pink, and I don’t hate it](https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
