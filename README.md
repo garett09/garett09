@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Had me going at first](http://9gag.com/gag/aeQeqQj)
- - 🚯 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)
- - 🚯 [Cant eat anything other than ice cream...](http://9gag.com/gag/ap9Q75D)<!-- MEMES:END -->
+ - 🚖 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)
+ - 🚯 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
+ - 🚯 [Arigato, Japan \ud83d\udc4c\ud83c\udffc](http://9gag.com/gag/aPg9zMq)<!-- MEMES:END -->
 
 --- 
 
