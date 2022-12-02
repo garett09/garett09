@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: US DOJ has requested that an independent examiner be appointed to review &quot;substantial and serious allegations of fraud, dishonesty&quot; in FTX&#39;s bankruptcy &lpar;CNBC&rpar;](http://www.techmeme.com/221202/p9#a221202p9)
- - [The Verge’s 2022 holiday gift guide for working from home](https://www.theverge.com/23381124/work-from-home-wfh-remote-office-holiday-gift-guide-2022-supplies-tech-gadgets)
- - [OtterBox is out with new power banks for iPhone and Apple Watch](https://appleinsider.com/articles/22/12/02/otterbox-is-out-with-new-power-banks-for-iphone-and-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [iMac could have been made without a chin, proves new hack](https://appleinsider.com/articles/22/12/02/imac-could-have-been-made-without-a-chin-proves-new-hack?utm_medium=rss)
+ - [AWS launches Application Composer, a low-code tool for visually designing and building serverless applications with a drag-and-drop interface &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221202/p12#a221202p12)
+ - [Zendure SuperBase V is the ultimate power station](https://appleinsider.com/articles/22/12/01/zendure-superbase-v-is-the-ultimate-power-station?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
