@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If wrestling is fake, explain this ?](http://9gag.com/gag/a045zrq)
- - 🚯 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - 🚯 [Don&#39;t touch me mate](http://9gag.com/gag/aXnvQW9)<!-- MEMES:END -->
+ - 🚖 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 🚯 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
+ - 🚯 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)<!-- MEMES:END -->
 
 --- 
 
