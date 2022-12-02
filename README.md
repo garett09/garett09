@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 shows and movies like Wednesday to watch after finishing the Netflix series](https://www.androidauthority.com/shows-and-movies-like-wednesday-3242646/)
- - [Ditch Your USB-A Dongle and Embrace the USB-C Life](https://www.wired.com/story/usb-c-dongle-rave/)
- - [Palmer Luckey&#39;s Anduril, which builds autonomous systems for the US military, raised nearly $1.5B at a $7B pre-money valuation, up from $4.2B in June 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221202/p5#a221202p5)<!-- TECH:END -->
+ - [It’s the End of Trending](https://www.wired.com/story/twitter-trending-topics/)
+ - [Why the World Fell for FTX CEO Sam Bankman-Fried](https://www.wired.com/story/plaintext-why-the-world-fell-for-sam-bankman-fried-ftx/)
+ - [AI Reveals the Most Human Parts of Writing](https://www.wired.com/story/artificial-intelligence-writing-art/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
