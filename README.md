@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Callisto Protocol won&#39;t get NG+ until next year](https://www.pcgamer.com/the-callisto-protocol-wont-get-ng-until-next-year)
- - [David Harbour’s kick-ass Santa movie Violent Night ain’t replacing Die Hard anytime soon](https://www.polygon.com/reviews/23488667/violent-night-review-david-harbour-killer-santa)
- - [Technoblade&#39;s farewell is the top trending YouTube video of 2022](https://www.pcgamer.com/technoblades-farewell-is-the-top-trending-youtube-video-of-2022)<!-- GAME:END -->
+ - [Red Bull Capture Point 2022 winners announced, featuring Horizon Forbidden West and Gran Turismo 7](https://blog.playstation.com/2022/12/02/red-bull-capture-point-2022-winners-announced-featuring-horizon-forbidden-west-and-gran-turismo-7/)
+ - [Company of Heroes 3 will launch with mods ready for you to download](https://www.pcgamer.com/company-of-heroes-3-will-launch-with-mods-ready-for-you-to-download)
+ - [Hitman 3&#39;s winter roadmap sees the return of some familiar faces and invites you to murder them](https://www.pcgamer.com/hitman-3s-winter-roadmap-sees-the-return-of-some-familiar-faces-and-invites-you-to-murder-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
