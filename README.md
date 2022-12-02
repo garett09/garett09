@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5G on airplanes could mean the end of Airplane Mode](https://www.androidauthority.com/5g-on-airplanes-3244130/)
- - [Who Dies in &#39;The White Lotus&#39; Season 2? Clues From the First 5 Episodes     - CNET](https://www.cnet.com/culture/entertainment/who-dies-in-the-white-lotus-season-2-clues-from-the-first-5-episodes/#ftag=CAD590a51e)
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [How to cancel your PlayStation Plus subscription](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)
+ - [Flash deals: 16-inch MacBook Pro falls to $1,989, 1TB model $2,289](https://appleinsider.com/articles/22/12/02/flash-deals-16-inch-macbook-pro-falls-to-1989-1tb-model-2289?utm_medium=rss)
+ - [China is using phone trackers and other tools to track protestors, the first time mass surveillance has been directed at middle-class people in affluent cities &lpar;New York Times&rpar;](http://www.techmeme.com/221202/p19#a221202p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
