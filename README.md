@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In time](http://9gag.com/gag/aYV4mPw)
- - 🚯 [I HATE THEM!](http://9gag.com/gag/amA2O9d)
- - 🚯 [You may be wondering how I shit my pants a bit.](http://9gag.com/gag/aA0DqnL)<!-- MEMES:END -->
+ - 🚖 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - 🚯 [Rick chases and catches particularly dangerous characters, and puts them in his prison, from which no one can escape, almost no one.](http://9gag.com/gag/a4oG5M6)
+ - 🚯 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)<!-- MEMES:END -->
 
 --- 
 
