@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
- - 🚯 [Wtf?](http://9gag.com/gag/adP9WXB)
- - 🚯 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)<!-- MEMES:END -->
+ - 🚯 [Share your old hobbies :&rpar;](http://9gag.com/gag/ajVNzY0)
+ - 🚯 [US Air force just unveil its first 6th generation aircraft, the B21 Raider](http://9gag.com/gag/ay2xb0q)<!-- MEMES:END -->
 
 --- 
 
