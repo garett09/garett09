@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 👀 Pixel 7a peek](https://www.androidauthority.com/the-weekly-authority-december-3-2022-223-3243364/)
- - [The Twitter Files Revealed One Thing: Elon Musk Is Trapped](https://www.wired.com/story/the-twitter-files-revealed-one-thing-elon-musk-is-trapped/)
- - [You Should Be Using More Lube](https://www.wired.com/story/use-more-lube-rave/)<!-- TECH:END -->
+ - [Apple&#39;s new patent countersuit against AliveCor aims to &#39;set the record straight&#39;](https://appleinsider.com/articles/22/12/03/apples-new-patent-countersuit-against-alivecor-aims-to-set-the-record-straight?utm_medium=rss)
+ - [Google Pixel 7a: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-7a-3241861/)
+ - [16 Phone Accessories for People With Upper Extremity Disabilities](https://www.wired.com/gallery/best-phone-accessories-for-people-disabilities/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
