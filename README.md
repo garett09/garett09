@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which Cheap Wines Are Actually Good? Here&#39;s How to Tell     - CNET](https://www.cnet.com/news/which-cheap-wines-are-actually-good-heres-how-to-tell/#ftag=CAD590a51e)
  - [Elon Musk’s promised Twitter exposé on the Hunter Biden story is a flop that doxxed multiple people](https://www.theverge.com/2022/12/2/23490863/elon-musk-twitter-expose-hunter-biden-flop-doxxed-multiple-people)
- - [Sources: FTX&#39;s derivatives exchange LedgerX is for sale, attracting interest from Blockchain.com, Gemini, and others; Nov. 17 filing: LedgerX had ~$303M in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/221202/p23#a221202p23)
- - [6 Best Teas to Manage Anxiety and Stress     - CNET](https://www.cnet.com/health/mental/6-best-teas-to-manage-anxiety-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phones Under $500 for 2022: Upgrades at Low Prices     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
