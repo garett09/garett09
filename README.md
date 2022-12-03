@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher: Blood Origin’s latest trailer puts Jaskier in the prequel](https://www.theverge.com/2022/12/3/23491551/netflix-witcher-blood-origin-trailer-jaskier-michelle-yeoh)
- - [Use this app to watch nearly any streaming service on Mac](https://appleinsider.com/articles/22/12/03/use-this-app-to-watch-nearly-any-streaming-service-on-mac?utm_medium=rss)
- - [Future Pixel phones should have these AI-enabled features](https://www.androidauthority.com/google-pixel-future-ai-features-3229592/)<!-- TECH:END -->
+ - [The new Last of Us trailer shows us what Ellie and Joel are up against](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)
+ - [Apple tells suppliers to plan for shift of manufacturing out of China](https://appleinsider.com/articles/22/12/03/apple-tells-suppliers-to-plan-for-shift-of-manufacturing-out-of-china?utm_medium=rss)
+ - [A look at virtual currencies like Roblox&#39;s Robux, which have become many kids&#39; preferred way to be paid for chores or receive an allowance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221203/p11#a221203p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
