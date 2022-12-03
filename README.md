@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Last of Us trailer shows us what Ellie and Joel are up against](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)
- - [Apple tells suppliers to plan for shift of manufacturing out of China](https://appleinsider.com/articles/22/12/03/apple-tells-suppliers-to-plan-for-shift-of-manufacturing-out-of-china?utm_medium=rss)
- - [A look at virtual currencies like Roblox&#39;s Robux, which have become many kids&#39; preferred way to be paid for chores or receive an allowance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221203/p11#a221203p11)<!-- TECH:END -->
+ - [Fortnite’s latest live event was its strangest yet](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)
+ - [The new Last of Us trailer shows what Ellie and Joel are up against](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)
+ - [Apple tells suppliers to plan for shift of manufacturing out of China](https://appleinsider.com/articles/22/12/03/apple-tells-suppliers-to-plan-for-shift-of-manufacturing-out-of-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
