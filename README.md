@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big opening](http://9gag.com/gag/aYV46jN)
- - 🚯 [Its payback](http://9gag.com/gag/aDYzvBG)
- - 🚯 [Whose GF is she? Is she single?](http://9gag.com/gag/avQ7VyE)<!-- MEMES:END -->
+ - 🚖 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
+ - 🚯 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
+ - 🚯 [Self-defence course. What are you here for?](http://9gag.com/gag/a7qDXDr)<!-- MEMES:END -->
 
 --- 
 
