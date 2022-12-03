@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BABE......](http://9gag.com/gag/adP9wod)
- - 🚯 [7 sick days](http://9gag.com/gag/aOxB5ZM)
- - 🚯 [Lord Commander](http://9gag.com/gag/abvzoBB)<!-- MEMES:END -->
+ - 🚖 [Uruguay vs VAR](http://9gag.com/gag/aA0D5jE)
+ - 🚯 [Why did you shoot my ceiling](http://9gag.com/gag/aXnvO1D)
+ - 🚯 [Just a reminder this exists.](http://9gag.com/gag/a6qVRxL)<!-- MEMES:END -->
 
 --- 
 
