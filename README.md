@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 🚯 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
- - 🚯 [Self-defence course. What are you here for?](http://9gag.com/gag/a7qDXDr)<!-- MEMES:END -->
+ - 🚖 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)
+ - 🚯 [Darker ginger](http://9gag.com/gag/aYV467m)
+ - 🚯 [How To Slice Up A Whole Chicken](http://9gag.com/gag/aDYzedw)<!-- MEMES:END -->
 
 --- 
 
