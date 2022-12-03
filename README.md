@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter&#39;s US ad revenue was 80% below internal expectations for the week of the World Cup&#39;s Nov. 20 start, as Twitter keeps missing weekly ad targets &lpar;New York Times&rpar;](http://www.techmeme.com/221203/p2#a221203p2)
- - [Amazon&#39;s best Apple deals: $799 MacBook Air, $299 iPad, Apple Watch Ultra sale, $400 off MacBook Pro](https://appleinsider.com/articles/22/12/03/amazons-best-apple-deals-799-macbook-air-299-ipad-apple-watch-ultra-sale-400-off-macbook-pro?utm_medium=rss)
- - [Germany says it is not planning a blanket ban on telecom equipment made by Chinese companies, but will continue making such decisions on a case-by-case basis &lpar;Reuters&rpar;](http://www.techmeme.com/221203/p1#a221203p1)<!-- TECH:END -->
+ - [A profile of Duolingo, which has almost 15M DAUs, up 51% YoY, and 3.7M paying subscribers, as it expects its 2022 revenue to surpass $365M, up 45% from 2021 &lpar;Bill Gifford/Bloomberg&rpar;](http://www.techmeme.com/221203/p5#a221203p5)
+ - [A look at Apple&#39;s efforts to reduce dependence on Foxconn; sources: Apple wants other suppliers in China, Vietnam, and India to actively plan product assembly &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221203/p4#a221203p4)
+ - [Twitter&#39;s VP of trust and safety Ella Irwin says Twitter is heavily using automation to moderate speech, and favoring distribution restrictions to removal &lpar;Reuters&rpar;](http://www.techmeme.com/221203/p3#a221203p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
