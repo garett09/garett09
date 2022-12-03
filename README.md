@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lessons learned after living in an off-grid rental](https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review)
  - [A profile of Duolingo, which has almost 15M DAUs, up 51% YoY, and 3.7M paying subscribers, as it expects its 2022 revenue to surpass $365M, up 45% from 2021 &lpar;Bill Gifford/Bloomberg&rpar;](http://www.techmeme.com/221203/p5#a221203p5)
- - [A look at Apple&#39;s efforts to reduce dependence on Foxconn; sources: Apple wants other suppliers in China, Vietnam, and India to actively plan product assembly &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221203/p4#a221203p4)
- - [Twitter&#39;s VP of trust and safety Ella Irwin says Twitter is heavily using automation to moderate speech, and favoring distribution restrictions to removal &lpar;Reuters&rpar;](http://www.techmeme.com/221203/p3#a221203p3)<!-- TECH:END -->
+ - [A look at Apple&#39;s efforts to reduce dependence on Foxconn; sources: Apple wants other suppliers in China, Vietnam, and India to actively plan product assembly &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221203/p4#a221203p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
