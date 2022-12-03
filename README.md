@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
- - 🚯 [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)
- - 🚯 [Innit?](http://9gag.com/gag/a5Xn8bO)<!-- MEMES:END -->
+ - 🚖 [Sum pretty much ?](http://9gag.com/gag/aNwz7Nr)
+ - 🚯 [Early morning alcoholic problems](http://9gag.com/gag/a1PK93v)
+ - 🚯 [Roberto Carlos vs France &lpar;1997&rpar;](http://9gag.com/gag/abvz9ML)<!-- MEMES:END -->
 
 --- 
 
