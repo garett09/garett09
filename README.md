@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new patent countersuit against AliveCor aims to &#39;set the record straight&#39;](https://appleinsider.com/articles/22/12/03/apples-new-patent-countersuit-against-alivecor-aims-to-set-the-record-straight?utm_medium=rss)
- - [Google Pixel 7a: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-7a-3241861/)
- - [16 Phone Accessories for People With Upper Extremity Disabilities](https://www.wired.com/gallery/best-phone-accessories-for-people-disabilities/)<!-- TECH:END -->
+ - [End-to-End Encryption Is Coming to Android Group Chats](https://www.wired.com/story/end-to-end-encryption-android-group-chats/)
+ - [China’s Police State Targets Zero-Covid Protesters](https://www.wired.com/story/china-zero-covid-protest-crackdown/)
+ - [Marvel’s Midnight Suns is an unexpected triumph of tactics and friendship](https://www.theverge.com/23490255/marvel-midnight-suns-review-firaxis-xcom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
