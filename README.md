@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first trailer for The Witcher: Blood Origin has a very unexpected guest](https://www.pcgamer.com/the-first-trailer-for-the-witcher-prequel-series-has-a-very-unexpected-guest)
  - [Warhammer 40K: Darktide’s classes, reviewed](https://www.polygon.com/23488751/warhammer-40k-darktide-best-classes-abilities-perks)
- - [Activision Blizzard sees second successful union drive](https://www.pcgamer.com/activision-blizzard-sees-second-successful-union-drive)
- - [World of Warcraft: Dragonflight’s dragonriding is &lpar;almost&rpar; too good](https://www.polygon.com/23489970/world-of-warcraft-dragon-riding-flight)<!-- GAME:END -->
+ - [Activision Blizzard sees second successful union drive](https://www.pcgamer.com/activision-blizzard-sees-second-successful-union-drive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
