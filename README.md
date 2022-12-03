@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will be used in an anime, no doubt...](http://9gag.com/gag/aPg9z0q)
- - 🚯 [Uruguay vs VAR](http://9gag.com/gag/aA0D5jE)
- - 🚯 [Footage of duke picking up the danish notes and handing it to graham arnold who then changes formations](http://9gag.com/gag/agoYzV6)<!-- MEMES:END -->
+ - 🚖 [The first time in history, a spacecraft touched the Sun.](http://9gag.com/gag/awZQDx1)
+ - 🚯 [...](http://9gag.com/gag/abvzL1B)
+ - 🚯 [Full Auto](http://9gag.com/gag/aWGqeD4)<!-- MEMES:END -->
 
 --- 
 
