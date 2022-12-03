@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-461-3244123/)
- - [Elon Musk thinks the &quot;Twitter Files&quot; show that Twitter staff nefariously helped Joe Biden, but all they show is a team debating a difficult moderation decision &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/221203/p9#a221203p9)
- - [Your Tax Refund May be Smaller Next Year. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/your-tax-refund-may-be-smaller-next-year-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sirius XM flaw could’ve let hackers remotely unlock and start cars](https://www.theverge.com/2022/12/3/23491259/sirius-xm-hack-remotely-unlock-start-cars)
+ - [Get a HomePod mini in time for Christmas for $60](https://appleinsider.com/articles/22/12/02/get-a-homepod-mini-in-time-for-christmas-for-60?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-461-3244123/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
