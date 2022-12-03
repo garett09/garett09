@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a HomePod mini in time for Christmas for $60](https://appleinsider.com/articles/22/12/02/get-a-homepod-mini-in-time-for-christmas-for-60?utm_medium=rss)
- - [Spotify Wrapped is awesome, and I want more apps to copy it](https://www.androidauthority.com/please-copy-spotify-wrapped-3242361/)
- - [7 Best Carpet Cleaners &lpar;2022&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)<!-- TECH:END -->
+ - [Twitter reinstated the account of Andrew Anglin, the neo-Nazi who founded the white supremacist website The Daily Stormer, after originally banning him in 2013 &lpar;Lydia O&#39;Connor/HuffPost&rpar;](http://www.techmeme.com/221203/p8#a221203p8)
+ - [More controversies than iPhones -- November 2022 in review](https://appleinsider.com/articles/22/12/03/more-controversies-than-iphones----november-2022-in-review?utm_medium=rss)
+ - [Sources: Winklevoss twins&#39; Gemini crypto exchange is trying to recover $900M owed to it by Genesis Global and Genesis&#39; parent company Digital Currency Group &lpar;Financial Times&rpar;](http://www.techmeme.com/221203/p7#a221203p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
