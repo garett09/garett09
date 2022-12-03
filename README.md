@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)
- - 🚯 [Darker ginger](http://9gag.com/gag/aYV467m)
- - 🚯 [How To Slice Up A Whole Chicken](http://9gag.com/gag/aDYzedw)<!-- MEMES:END -->
+ - 🚖 [BABE......](http://9gag.com/gag/adP9wod)
+ - 🚯 [7 sick days](http://9gag.com/gag/aOxB5ZM)
+ - 🚯 [Lord Commander](http://9gag.com/gag/abvzoBB)<!-- MEMES:END -->
 
 --- 
 
