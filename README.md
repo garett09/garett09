@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sirius XM flaw could’ve let hackers remotely unlock and start cars](https://www.theverge.com/2022/12/3/23491259/sirius-xm-hack-remotely-unlock-start-cars)
- - [Get a HomePod mini in time for Christmas for $60](https://appleinsider.com/articles/22/12/02/get-a-homepod-mini-in-time-for-christmas-for-60?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-461-3244123/)<!-- TECH:END -->
+ - [Use this app to watch nearly any streaming service on Mac](https://appleinsider.com/articles/22/12/03/use-this-app-to-watch-nearly-any-streaming-service-on-mac?utm_medium=rss)
+ - [Future Pixel phones should have these AI-enabled features](https://www.androidauthority.com/google-pixel-future-ai-features-3229592/)
+ - [Tim Cook was able to placate Elon Musk within two days, but the chaos at Foxconn&#39;s &quot;iPhone City&quot; may become the greatest test of Cook&#39;s diplomatic skills yet &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/221203/p10#a221203p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
