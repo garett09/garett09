@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter reinstated the account of Andrew Anglin, the neo-Nazi who founded the white supremacist website The Daily Stormer, after originally banning him in 2013 &lpar;Lydia O&#39;Connor/HuffPost&rpar;](http://www.techmeme.com/221203/p8#a221203p8)
- - [More controversies than iPhones -- November 2022 in review](https://appleinsider.com/articles/22/12/03/more-controversies-than-iphones----november-2022-in-review?utm_medium=rss)
- - [Sources: Winklevoss twins&#39; Gemini crypto exchange is trying to recover $900M owed to it by Genesis Global and Genesis&#39; parent company Digital Currency Group &lpar;Financial Times&rpar;](http://www.techmeme.com/221203/p7#a221203p7)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-461-3244123/)
+ - [Elon Musk thinks the &quot;Twitter Files&quot; show that Twitter staff nefariously helped Joe Biden, but all they show is a team debating a difficult moderation decision &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/221203/p9#a221203p9)
+ - [Your Tax Refund May be Smaller Next Year. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/your-tax-refund-may-be-smaller-next-year-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
