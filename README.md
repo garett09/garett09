@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve’s Giving Away A Steam Deck Every Minute During The Game Awards](https://kotaku.com/free-steam-deck-giveaway-game-awards-2022-valve-1849849124)
- - [These incredible LAN party photos remind us how much work it used to be to play games together](https://www.pcgamer.com/these-incredible-lan-party-photos-remind-us-how-much-work-it-used-to-be-to-play-games-together)
- - [Victoria 3 designer on why communism is OP: &#39;We just implemented the mechanics the way we understood them&#39;](https://www.pcgamer.com/victoria-3-communism-op)<!-- GAME:END -->
+ - [Ed Boon Announces He Won&#39;t Be Announcing Anything At The Game Awards](https://kotaku.com/mortal-kombat-injustice-ed-boon-game-awards-netherrealm-1849849370)
+ - [Just two years after release, DJ rhythm game Fuser is being delisted](https://www.pcgamer.com/just-two-years-after-release-dj-rhythm-game-fuser-is-being-delisted)
+ - [Alpha test for Creative Assembly&#39;s new PvPvE shooter is live now](https://www.pcgamer.com/alpha-test-for-creative-assemblys-new-pvpve-shooter-is-live-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
