@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sum pretty much ?](http://9gag.com/gag/aNwz7Nr)
- - 🚯 [Early morning alcoholic problems](http://9gag.com/gag/a1PK93v)
- - 🚯 [Roberto Carlos vs France &lpar;1997&rpar;](http://9gag.com/gag/abvz9ML)<!-- MEMES:END -->
+ - 🚖 [It will be used in an anime, no doubt...](http://9gag.com/gag/aPg9z0q)
+ - 🚯 [Uruguay vs VAR](http://9gag.com/gag/aA0D5jE)
+ - 🚯 [Footage of duke picking up the danish notes and handing it to graham arnold who then changes formations](http://9gag.com/gag/agoYzV6)<!-- MEMES:END -->
 
 --- 
 
