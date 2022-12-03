@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ex-FTX US President Brett Harrison is raising money for a startup to build crypto trading software for big investors, seeking $6M at a $60M valuation &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/221202/p20#a221202p20)
- - [Best Mirror Workout 2022: Tempo, Tonal, Mirror and More     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
- - [How to cancel your PlayStation Plus subscription](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)<!-- TECH:END -->
+ - [A Twitter thread from Matt Taibbi exposes Twitter documents on the internal debate over the handling of content related to NY Post&#39;s Hunter Biden laptop story &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221202/p22#a221202p22)
+ - [The Amazon exec in charge of Prime Video, Twitch, and gaming is retiring again](https://www.theverge.com/2022/12/2/23490751/amazon-jeff-blackburn-retiring-andy-jassy-prime-video-twitch)
+ - [A US judge dismisses an indictment against Huawei CFO Meng Wanzhou, formally ending a criminal sanctions case that strained US-China relations &lpar;Reuters&rpar;](http://www.techmeme.com/221202/p21#a221202p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
