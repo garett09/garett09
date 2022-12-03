@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oooof](http://9gag.com/gag/aXnvyn9)
- - 🚯 [The Chad.](http://9gag.com/gag/aYV4Xv2)
+ - 🚖 [Volleyball Player Dives Into A Table, Makes the Save](http://9gag.com/gag/aREjqdj)
+ - 🚯 [When he is working but you want some attention too](http://9gag.com/gag/aXnvyy6)
  - 🚯 [Granny is at it again](http://9gag.com/gag/ay2xbWb)<!-- MEMES:END -->
 
 --- 
