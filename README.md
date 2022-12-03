@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [End-to-End Encryption Is Coming to Android Group Chats](https://www.wired.com/story/end-to-end-encryption-android-group-chats/)
- - [China’s Police State Targets Zero-Covid Protesters](https://www.wired.com/story/china-zero-covid-protest-crackdown/)
- - [Marvel’s Midnight Suns is an unexpected triumph of tactics and friendship](https://www.theverge.com/23490255/marvel-midnight-suns-review-firaxis-xcom)<!-- TECH:END -->
+ - [Get a HomePod mini in time for Christmas for $60](https://appleinsider.com/articles/22/12/02/get-a-homepod-mini-in-time-for-christmas-for-60?utm_medium=rss)
+ - [Spotify Wrapped is awesome, and I want more apps to copy it](https://www.androidauthority.com/please-copy-spotify-wrapped-3242361/)
+ - [7 Best Carpet Cleaners &lpar;2022&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
