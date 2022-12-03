@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
- - 🚯 [Life Hack](http://9gag.com/gag/aQEeLbw)
- - 🚯 [Good Morning England](http://9gag.com/gag/aVbM8Bd)<!-- MEMES:END -->
+ - 🚖 [It will be used in an anime, no doubt...](http://9gag.com/gag/aPg9z0q)
+ - 🚯 [It\u2019s a fkn joke](http://9gag.com/gag/aqe1EDp)
+ - 🚯 [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)<!-- MEMES:END -->
 
 --- 
 
