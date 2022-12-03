@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Volleyball Player Dives Into A Table, Makes the Save](http://9gag.com/gag/aREjqdj)
- - 🚯 [When he is working but you want some attention too](http://9gag.com/gag/aXnvyy6)
- - 🚯 [Granny is at it again](http://9gag.com/gag/ay2xbWb)<!-- MEMES:END -->
+ - 🚖 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
+ - 🚯 [Life Hack](http://9gag.com/gag/aQEeLbw)
+ - 🚯 [Good Morning England](http://9gag.com/gag/aVbM8Bd)<!-- MEMES:END -->
 
 --- 
 
