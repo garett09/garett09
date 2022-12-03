@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Up or down](http://9gag.com/gag/aKEDQ1N)
- - 🚯 [I think we reached the bottom of parental stupidity...](http://9gag.com/gag/a2K4e5w)
- - 🚯 [Probably the reason Japan won...](http://9gag.com/gag/aBd8p62)<!-- MEMES:END -->
+ - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
+ - 🚯 [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)
+ - 🚯 [Innit?](http://9gag.com/gag/a5Xn8bO)<!-- MEMES:END -->
 
 --- 
 
