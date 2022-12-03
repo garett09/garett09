@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Crypties, an awards ceremony calling itself the Oscars for Web 3.0, with awards for game of the year, investor of the year, social impact, and more &lpar;Jacob Bernstein/New York Times&rpar;](http://www.techmeme.com/221202/p24#a221202p24)
- - [Which Cheap Wines Are Actually Good? Here&#39;s How to Tell     - CNET](https://www.cnet.com/news/which-cheap-wines-are-actually-good-heres-how-to-tell/#ftag=CAD590a51e)
- - [Elon Musk’s promised Twitter exposé on the Hunter Biden story is a flop that doxxed multiple people](https://www.theverge.com/2022/12/2/23490863/elon-musk-twitter-expose-hunter-biden-flop-doxxed-multiple-people)<!-- TECH:END -->
+ - [Sources: Twitter&#39;s US ad revenue was 80% below internal expectations for the week of the World Cup&#39;s Nov. 20 start, as Twitter keeps missing weekly ad targets &lpar;New York Times&rpar;](http://www.techmeme.com/221203/p2#a221203p2)
+ - [Amazon&#39;s best Apple deals: $799 MacBook Air, $299 iPad, Apple Watch Ultra sale, $400 off MacBook Pro](https://appleinsider.com/articles/22/12/03/amazons-best-apple-deals-799-macbook-air-299-ipad-apple-watch-ultra-sale-400-off-macbook-pro?utm_medium=rss)
+ - [Germany says it is not planning a blanket ban on telecom equipment made by Chinese companies, but will continue making such decisions on a case-by-case basis &lpar;Reuters&rpar;](http://www.techmeme.com/221203/p1#a221203p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
