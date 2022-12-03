@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
- - 🚯 [It\u2019s a fkn joke](http://9gag.com/gag/aqe1EDp)
- - 🚯 [This Indian viewer came to help the South Korean streamer after watching her get harassed on the streets of Mumbai on stream.](http://9gag.com/gag/aVbMd4d)<!-- MEMES:END -->
+ - 🚖 [Oooof](http://9gag.com/gag/aXnvyn9)
+ - 🚯 [The Chad.](http://9gag.com/gag/aYV4Xv2)
+ - 🚯 [Granny is at it again](http://9gag.com/gag/ay2xbWb)<!-- MEMES:END -->
 
 --- 
 
