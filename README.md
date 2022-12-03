@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How many games can you play Nier: Automata&#39;s 2B in?](https://www.pcgamer.com/how-many-games-can-you-play-nier-automatas-2b-in)
  - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;December 2022&rpar;](https://www.polygon.com/what-to-watch/2022/12/3/23485932/best-new-movies-netflix-amazon-hbo-hulu-december-2022)
- - [Today&#39;s Wordle answer and hint for Saturday, December 3](https://www.pcgamer.com/wordle-532-answer-december-3)
- - [Ed Boon Announces He Won&#39;t Be Announcing Anything At The Game Awards](https://kotaku.com/mortal-kombat-injustice-ed-boon-game-awards-netherrealm-1849849370)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer and hint for Saturday, December 3](https://www.pcgamer.com/wordle-532-answer-december-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
