@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)
- - 🚯 [Darker ginger](http://9gag.com/gag/aYV467m)
- - 🚯 [At this point i can&#39;t even..](http://9gag.com/gag/a7qDg2A)<!-- MEMES:END -->
+ - 🚖 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
+ - 🚯 [It will be used in an anime, no doubt...](http://9gag.com/gag/aPg9z0q)
+ - 🚯 [Just a reminder this exists.](http://9gag.com/gag/a6qVRxL)<!-- MEMES:END -->
 
 --- 
 
