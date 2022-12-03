@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 🚯 [Ketamine was given to boys trapped in a cave in Thailand to keep them unconscious &amp; to prevent them from panicking during their six day rescue.](http://9gag.com/gag/aPg92xB)
- - 🚯 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)<!-- MEMES:END -->
+ - 🚖 [Big opening](http://9gag.com/gag/aYV46jN)
+ - 🚯 [Its payback](http://9gag.com/gag/aDYzvBG)
+ - 🚯 [Whose GF is she? Is she single?](http://9gag.com/gag/avQ7VyE)<!-- MEMES:END -->
 
 --- 
 
