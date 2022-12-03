@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard sees second successful union drive](https://www.pcgamer.com/activision-blizzard-sees-second-successful-union-drive)
  - [World of Warcraft: Dragonflight’s dragonriding is &lpar;almost&rpar; too good](https://www.polygon.com/23489970/world-of-warcraft-dragon-riding-flight)
- - [How many games can you play Nier: Automata&#39;s 2B in?](https://www.pcgamer.com/how-many-games-can-you-play-nier-automatas-2b-in)
- - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;December 2022&rpar;](https://www.polygon.com/what-to-watch/2022/12/3/23485932/best-new-movies-netflix-amazon-hbo-hulu-december-2022)<!-- GAME:END -->
+ - [How many games can you play Nier: Automata&#39;s 2B in?](https://www.pcgamer.com/how-many-games-can-you-play-nier-automatas-2b-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
