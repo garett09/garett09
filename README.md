@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Saturday, December 3](https://www.pcgamer.com/wordle-532-answer-december-3)
  - [Ed Boon Announces He Won&#39;t Be Announcing Anything At The Game Awards](https://kotaku.com/mortal-kombat-injustice-ed-boon-game-awards-netherrealm-1849849370)
- - [Just two years after release, DJ rhythm game Fuser is being delisted](https://www.pcgamer.com/just-two-years-after-release-dj-rhythm-game-fuser-is-being-delisted)
- - [Alpha test for Creative Assembly&#39;s new PvPvE shooter is live now](https://www.pcgamer.com/alpha-test-for-creative-assemblys-new-pvpve-shooter-is-live-now)<!-- GAME:END -->
+ - [Just two years after release, DJ rhythm game Fuser is being delisted](https://www.pcgamer.com/just-two-years-after-release-dj-rhythm-game-fuser-is-being-delisted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
