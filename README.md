@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to cancel your PlayStation Plus subscription](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)
- - [Flash deals: 16-inch MacBook Pro falls to $1,989, 1TB model $2,289](https://appleinsider.com/articles/22/12/02/flash-deals-16-inch-macbook-pro-falls-to-1989-1tb-model-2289?utm_medium=rss)
- - [China is using phone trackers and other tools to track protestors, the first time mass surveillance has been directed at middle-class people in affluent cities &lpar;New York Times&rpar;](http://www.techmeme.com/221202/p19#a221202p19)<!-- TECH:END -->
+ - [Sources: ex-FTX US President Brett Harrison is raising money for a startup to build crypto trading software for big investors, seeking $6M at a $60M valuation &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/221202/p20#a221202p20)
+ - [Best Mirror Workout 2022: Tempo, Tonal, Mirror and More     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
+ - [How to cancel your PlayStation Plus subscription](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
