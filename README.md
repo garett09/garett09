@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
- - 🚯 [Share your old hobbies :&rpar;](http://9gag.com/gag/ajVNzY0)
- - 🚯 [US Air force just unveil its first 6th generation aircraft, the B21 Raider](http://9gag.com/gag/ay2xb0q)<!-- MEMES:END -->
+ - 🚯 [It\u2019s a fkn joke](http://9gag.com/gag/aqe1EDp)
+ - 🚯 [This Indian viewer came to help the South Korean streamer after watching her get harassed on the streets of Mumbai on stream.](http://9gag.com/gag/aVbMd4d)<!-- MEMES:END -->
 
 --- 
 
