@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uruguay vs VAR](http://9gag.com/gag/aA0D5jE)
- - 🚯 [Why did you shoot my ceiling](http://9gag.com/gag/aXnvO1D)
- - 🚯 [Just a reminder this exists.](http://9gag.com/gag/a6qVRxL)<!-- MEMES:END -->
+ - 🚖 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
+ - 🚯 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
+ - 🚯 [This is what donations to politics can buy](http://9gag.com/gag/ajVN4WG)<!-- MEMES:END -->
 
 --- 
 
