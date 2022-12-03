@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
- - 🚯 [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 🚯 [This is what donations to politics can buy](http://9gag.com/gag/ajVN4WG)<!-- MEMES:END -->
+ - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
+ - 🚯 [Whose GF is she? Is she single?](http://9gag.com/gag/avQ7VyE)
+ - 🚯 [Darker ginger](http://9gag.com/gag/aYV467m)<!-- MEMES:END -->
 
 --- 
 
