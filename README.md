@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know what it is, you know what it is](http://9gag.com/gag/aA0D542)
- - 🚯 [Whose GF is she? Is she single?](http://9gag.com/gag/avQ7VyE)
- - 🚯 [Darker ginger](http://9gag.com/gag/aYV467m)<!-- MEMES:END -->
+ - 🚖 [How To Slice Up A Whole Chicken](http://9gag.com/gag/aDYzedw)
+ - 🚯 [Share your old hobbies :&rpar;](http://9gag.com/gag/ajVNzY0)
+ - 🚯 [The weekend tip.](http://9gag.com/gag/adP9DMj)<!-- MEMES:END -->
 
 --- 
 
