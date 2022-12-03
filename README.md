@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crusader Kings 3 makes it easier to abandon your unwanted bastard children](https://www.pcgamer.com/crusader-kings-3-makes-it-easier-to-abandon-your-unwanted-bastard-children)
  - [The first trailer for The Witcher: Blood Origin has a very unexpected guest](https://www.pcgamer.com/the-first-trailer-for-the-witcher-prequel-series-has-a-very-unexpected-guest)
- - [Warhammer 40K: Darktide’s classes, reviewed](https://www.polygon.com/23488751/warhammer-40k-darktide-best-classes-abilities-perks)
- - [Activision Blizzard sees second successful union drive](https://www.pcgamer.com/activision-blizzard-sees-second-successful-union-drive)<!-- GAME:END -->
+ - [Warhammer 40K: Darktide’s classes, reviewed](https://www.polygon.com/23488751/warhammer-40k-darktide-best-classes-abilities-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
