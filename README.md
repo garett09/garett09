@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will be used in an anime, no doubt...](http://9gag.com/gag/aPg9z0q)
- - 🚯 [It\u2019s a fkn joke](http://9gag.com/gag/aqe1EDp)
- - 🚯 [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)<!-- MEMES:END -->
+ - 🚖 [Up or down](http://9gag.com/gag/aKEDQ1N)
+ - 🚯 [I think we reached the bottom of parental stupidity...](http://9gag.com/gag/a2K4e5w)
+ - 🚯 [Probably the reason Japan won...](http://9gag.com/gag/aBd8p62)<!-- MEMES:END -->
 
 --- 
 
