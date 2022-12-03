@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lessons learned after living in an off-grid rental](https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review)
- - [A profile of Duolingo, which has almost 15M DAUs, up 51% YoY, and 3.7M paying subscribers, as it expects its 2022 revenue to surpass $365M, up 45% from 2021 &lpar;Bill Gifford/Bloomberg&rpar;](http://www.techmeme.com/221203/p5#a221203p5)
- - [A look at Apple&#39;s efforts to reduce dependence on Foxconn; sources: Apple wants other suppliers in China, Vietnam, and India to actively plan product assembly &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221203/p4#a221203p4)<!-- TECH:END -->
+ - [The Weekly Authority: 👀 Pixel 7a peek](https://www.androidauthority.com/the-weekly-authority-december-3-2022-223-3243364/)
+ - [The Twitter Files Revealed One Thing: Elon Musk Is Trapped](https://www.wired.com/story/the-twitter-files-revealed-one-thing-elon-musk-is-trapped/)
+ - [You Should Be Using More Lube](https://www.wired.com/story/use-more-lube-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
