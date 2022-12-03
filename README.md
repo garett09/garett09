@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Witcher: Blood Origin’s latest trailer puts Jaskier in the prequel](https://www.theverge.com/2022/12/3/23491551/netflix-witcher-blood-origin-trailer-jaskier-michelle-yeoh)
  - [Use this app to watch nearly any streaming service on Mac](https://appleinsider.com/articles/22/12/03/use-this-app-to-watch-nearly-any-streaming-service-on-mac?utm_medium=rss)
- - [Future Pixel phones should have these AI-enabled features](https://www.androidauthority.com/google-pixel-future-ai-features-3229592/)
- - [Tim Cook was able to placate Elon Musk within two days, but the chaos at Foxconn&#39;s &quot;iPhone City&quot; may become the greatest test of Cook&#39;s diplomatic skills yet &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/221203/p10#a221203p10)<!-- TECH:END -->
+ - [Future Pixel phones should have these AI-enabled features](https://www.androidauthority.com/google-pixel-future-ai-features-3229592/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
