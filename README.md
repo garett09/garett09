@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to spend less time on social media: Here are our team’s best tips](https://www.androidauthority.com/stop-social-media-addiction-3230401/)
- - [Netvue Birdfy Feeder Cam Review: Fun But Wonky](https://www.wired.com/review/netvue-birdfy-feeder-cam/)
- - [The Enigma of Dragonfly 44, the Galaxy That’s Almost Invisible](https://www.wired.com/story/the-enigma-of-dragonfly-44-the-galaxy-thats-almost-invisible/)<!-- TECH:END -->
+ - [How to Start a Cassette Collection in the 21st Century](https://www.wired.com/story/how-to-start-cassette-collection/)
+ - [Apple tells suppliers to plan for shift of manufacturing out of China](https://appleinsider.com/articles/22/12/03/apple-tells-suppliers-to-plan-for-shift-of-manufacturing-out-of-china?utm_medium=rss)
+ - [Elon Musk says Apple has fully resumed Twitter advertising](https://appleinsider.com/articles/22/12/04/musk-apple-has-fully-resumed-twitter-advertising?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
