@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Sunday, December 4](https://www.pcgamer.com/wordle-533-answer-december-4)
- - [Geralt and other Witcher characters will arrive in Lost Ark next year](https://www.pcgamer.com/geralt-and-other-witcher-characters-will-arrive-in-lost-ark-next-year)
- - [Patch fixes The Callisto Protocol&#39;s stuttering, which Glen Schofield blames on a &#39;freakin error&#39;](https://www.pcgamer.com/patch-fixes-the-callisto-protocols-stuttering-which-glen-schofield-blames-on-a-freakin-error)<!-- GAME:END -->
+ - [Introducing Fortnite Battle Royale Chapter 4 Season 1, live today](https://blog.playstation.com/2022/12/04/introducing-fortnite-battle-royale-chapter-4-season-1-live-today/)
+ - [Introducing Fortnite Battle Royale Chapter 4 Season 1, live today](https://blog.playstation.com/2022/12/04/introducing-fortnite-battle-royale-chapter-4-season-1-live-today/)
+ - [Today&#39;s Wordle answer and hint for Sunday, December 4](https://www.pcgamer.com/wordle-533-answer-december-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
