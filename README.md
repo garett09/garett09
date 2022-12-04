@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: mass shipments of Apple&#39;s AR/VR headset may be delayed until H2 2023, from previously estimated Q2 2023, due to &quot;software-related issues&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221204/p4#a221204p4)
- - [Kuo: software issues push Apple&#39;s mixed-reality headset to late 2023](https://appleinsider.com/articles/22/12/04/kuo-software-issues-push-apples-mixed-reality-headset-to-late-2023?utm_medium=rss)
- - [8 Best Weighted Blankets for 2022     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Nest Wifi Pro review: Wi-Fi 6E on the cheap](https://www.androidauthority.com/google-nest-wifi-pro-review-3242006/)
+ - [Elon Musk says Apple has fully resumed Twitter advertising](https://appleinsider.com/articles/22/12/04/musk-apple-has-fully-resumed-twitter-advertising?utm_medium=rss)
+ - [Apple&#39;s mixed-reality headset rumored to arrive in late 2023](https://appleinsider.com/articles/22/12/04/kuo-software-issues-push-apples-mixed-reality-headset-to-late-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
