@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chargers vs. Raiders Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chargers-vs-raiders-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
- - [Chiefs vs. Bengals Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-bengals-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
- - [Dolphins vs. 49ers Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-49ers-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)
+ - [Neuralink&#39;s Upgraded Brain Chip Hopes to Help the Blind See and the Paralyzed Walk     - CNET](https://www.cnet.com/science/neuralink-upgraded-brain-chip-hopes-to-help-the-blind-see-and-the-paralyzed-walk/#ftag=CAD590a51e)
+ - [Best PlayStation Deals: Save on Headsets, Refurb Consoles and More     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
