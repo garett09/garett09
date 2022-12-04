@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
- - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
- - 🚯 [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)<!-- MEMES:END -->
+ - 🚖 [A great launch it was](http://9gag.com/gag/a3ZMgG3)
+ - 🚯 [Here, take my money! Where can you do this?](http://9gag.com/gag/aoKObOn)
+ - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)<!-- MEMES:END -->
 
 --- 
 
