@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $199 AirPods Pro 2 deal returns, AirPods Max drop to $439](https://appleinsider.com/articles/22/12/04/amazons-199-airpods-pro-2-deal-returns-airpods-max-drop-to-439?utm_medium=rss)
- - [Taylor Swift fans are suing Ticketmaster over presale disaster](https://www.theverge.com/2022/12/4/23492382/taylor-swift-fans-ticketmaster-lawsuit-disaster)
- - [Google Nest Wifi Pro review: Wi-Fi 6E on the cheap](https://www.androidauthority.com/google-nest-wifi-pro-review-3242006/)<!-- TECH:END -->
+ - [Step aside ultrawide, ultra-tall monitors are perfect for reading and writing](https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/)
+ - [In an interview, SBF admits involvement in Alameda&#39;s largest uses of funds: spending $3B to buy out Binance&#39;s stake in FTX and pouring $4B into venture capital &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/221204/p5#a221204p5)
+ - [Amazon&#39;s $199 AirPods Pro 2 deal returns, AirPods Max drop to $439](https://appleinsider.com/articles/22/12/04/amazons-199-airpods-pro-2-deal-returns-airpods-max-drop-to-439?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
