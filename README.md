@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientist Proposes Building a 50 Acre &#39;Forest Bubble&#39; on Mars     - CNET](https://www.cnet.com/science/space/scientist-proposes-building-a-50-acre-forest-bubble-on-mars/#ftag=CAD590a51e)
- - [A look at FORM, a 1980s software used for the hardest particle physics problems, as it risks obsolescence while being maintained almost entirely by a retiree &lpar;Matt Von Hippel/Quanta Magazine&rpar;](http://www.techmeme.com/221204/p2#a221204p2)
- - [Boston- and London-based Zoe, a nutrition and health tracking app, raised &amp;pound;25M led by Accomplice at a &amp;pound;209M valuation, after closing a &amp;pound;48M Series B in May 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221204/p1#a221204p1)<!-- TECH:END -->
+ - [Autonomous trucking software company Embark lost ~98% of its market value, or ~$5B, since going public a year ago via a SPAC merger, amid a sector-wide downturn &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221204/p3#a221204p3)
+ - [iOS 16&#39;s Best iPhone Features: iMessage Updates, Lock Screen and More     - CNET](https://www.cnet.com/tech/mobile/ios-16s-best-iphone-features-imessage-updates-lock-screen-and-more/#ftag=CAD590a51e)
+ - [Best Resume Writing Services 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-resume-writing-services-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
