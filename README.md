@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You just don&#39;t get it](http://9gag.com/gag/a2KozKE)
- - 🚯 [They won&#39;t even know](http://9gag.com/gag/axo0pGL)
- - 🚯 [Yes](http://9gag.com/gag/amA7qmj)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t his father teach him to be a good Man?](http://9gag.com/gag/aeQeXxq)
+ - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)
+ - 🚯 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)<!-- MEMES:END -->
 
 --- 
 
