@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#39;t his father teach him to be a good Man?](http://9gag.com/gag/aeQeXxq)
- - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)
- - 🚯 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)<!-- MEMES:END -->
+ - 🚖 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)
+ - 🚯 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - 🚯 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)<!-- MEMES:END -->
 
 --- 
 
