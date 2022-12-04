@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)
- - 🚯 [Didn&#39;t his father teach him to be a good Man?](http://9gag.com/gag/aeQeXxq)
- - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)<!-- MEMES:END -->
+ - 🚖 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)
+ - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
+ - 🚯 [\u2026.](http://9gag.com/gag/amA2D59)<!-- MEMES:END -->
 
 --- 
 
