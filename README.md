@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scientist Proposes Building a 50 Acre &#39;Forest Bubble&#39; on Mars     - CNET](https://www.cnet.com/science/space/scientist-proposes-building-a-50-acre-forest-bubble-on-mars/#ftag=CAD590a51e)
  - [A look at FORM, a 1980s software used for the hardest particle physics problems, as it risks obsolescence while being maintained almost entirely by a retiree &lpar;Matt Von Hippel/Quanta Magazine&rpar;](http://www.techmeme.com/221204/p2#a221204p2)
- - [Boston- and London-based Zoe, a nutrition and health tracking app, raised &amp;pound;25M led by Accomplice at a &amp;pound;209M valuation, after closing a &amp;pound;48M Series B in May 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221204/p1#a221204p1)
- - [Saudi Arabian food delivery service Jahez agrees to acquire local rival The Chefz for ~$173M in a cash and stock deal &lpar;Shaji Mathew/Bloomberg&rpar;](http://www.techmeme.com/221203/p14#a221203p14)<!-- TECH:END -->
+ - [Boston- and London-based Zoe, a nutrition and health tracking app, raised &amp;pound;25M led by Accomplice at a &amp;pound;209M valuation, after closing a &amp;pound;48M Series B in May 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221204/p1#a221204p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
