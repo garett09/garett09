@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easy](http://9gag.com/gag/aA0D5do)
- - 🚯 [You know what the N stands for in Netflix](http://9gag.com/gag/aVbMn8K)
- - 🚯 [How to rescue a wounded.](http://9gag.com/gag/amA2jZj)<!-- MEMES:END -->
+ - 🚖 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
+ - 🚯 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
+ - 🚯 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)<!-- MEMES:END -->
 
 --- 
 
