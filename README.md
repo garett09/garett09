@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Holiday Gift Guide: best stocking stuffer ideas under $20 for Mac fans](https://appleinsider.com/articles/22/12/04/holiday-gift-guide-best-stocking-stuffer-ideas-under-20-for-mac-fans?utm_medium=rss)
  - [Step aside ultrawide, ultra-tall monitors are perfect for reading and writing](https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/)
- - [In an interview, SBF admits involvement in Alameda&#39;s largest uses of funds: spending $3B to buy out Binance&#39;s stake in FTX and pouring $4B into venture capital &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/221204/p5#a221204p5)
- - [Amazon&#39;s $199 AirPods Pro 2 deal returns, AirPods Max drop to $439](https://appleinsider.com/articles/22/12/04/amazons-199-airpods-pro-2-deal-returns-airpods-max-drop-to-439?utm_medium=rss)<!-- TECH:END -->
+ - [Best 3D Printing Accessories: Make the most of your 3D printer     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
