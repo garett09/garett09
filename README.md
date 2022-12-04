@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Apple has &quot;fully resumed&quot; advertising on Twitter, after claiming on November 28 that Apple had &quot;mostly stopped&quot; Twitter ads &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221203/p13#a221203p13)
  - [Noodle, the &#39;Bones/No Bones Day&#39; Dog of TikTok, Dies at Age 14     - CNET](https://www.cnet.com/culture/noodle-the-bonesno-bones-day-dog-of-tiktok-dies-at-age-14/#ftag=CAD590a51e)
- - [An interview with the co-founder of Vietnamese unicorn VNG, which offers games and services like Zalo, a messaging app that had 74M+ MAUs in Vietnam in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/221203/p12#a221203p12)
- - [Fortnite’s latest live event was its strangest yet](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)<!-- TECH:END -->
+ - [An interview with the co-founder of Vietnamese unicorn VNG, which offers games and services like Zalo, a messaging app that had 74M+ MAUs in Vietnam in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/221203/p12#a221203p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
