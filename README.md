@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The first time in history, a spacecraft touched the Sun.](http://9gag.com/gag/awZQDx1)
- - 🚯 [...](http://9gag.com/gag/abvzL1B)
- - 🚯 [Full Auto](http://9gag.com/gag/aWGqeD4)<!-- MEMES:END -->
+ - 🚖 [A great launch it was](http://9gag.com/gag/a3ZMgG3)
+ - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
+ - 🚯 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)<!-- MEMES:END -->
 
 --- 
 
