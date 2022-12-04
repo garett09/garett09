@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous trucking software company Embark lost ~98% of its market value, or ~$5B, since going public a year ago via a SPAC merger, amid a sector-wide downturn &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221204/p3#a221204p3)
- - [iOS 16&#39;s Best iPhone Features: iMessage Updates, Lock Screen and More     - CNET](https://www.cnet.com/tech/mobile/ios-16s-best-iphone-features-imessage-updates-lock-screen-and-more/#ftag=CAD590a51e)
- - [Best Resume Writing Services 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-resume-writing-services-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to spend less time on social media: Here are our team’s best tips](https://www.androidauthority.com/stop-social-media-addiction-3230401/)
+ - [Netvue Birdfy Feeder Cam Review: Fun But Wonky](https://www.wired.com/review/netvue-birdfy-feeder-cam/)
+ - [The Enigma of Dragonfly 44, the Galaxy That’s Almost Invisible](https://www.wired.com/story/the-enigma-of-dragonfly-44-the-galaxy-thats-almost-invisible/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
