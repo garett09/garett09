@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A great launch it was](http://9gag.com/gag/a3ZMgG3)
- - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
- - 🚯 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)<!-- MEMES:END -->
+ - 🚖 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)
+ - 🚯 [We need to protect her at all costs](http://9gag.com/gag/aBd850x)
+ - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)<!-- MEMES:END -->
 
 --- 
 
