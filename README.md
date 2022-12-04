@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
- - 🚯 [You just don&#39;t get it](http://9gag.com/gag/a2KozKE)
- - 🚯 [In case you are finding yourself in a situation of full ownership of a Mi-24, here is a 60 sec guide to starting your bird.](http://9gag.com/gag/awZX0OD)<!-- MEMES:END -->
+ - 🚖 [Anyone else?](http://9gag.com/gag/a2KoEYd)
+ - 🚯 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
+ - 🚯 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)<!-- MEMES:END -->
 
 --- 
 
