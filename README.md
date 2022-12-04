@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Patch fixes The Callisto Protocol&#39;s stuttering, which Glen Schofield blames on a &#39;freakin error&#39;](https://www.pcgamer.com/patch-fixes-the-callisto-protocols-stuttering-which-glen-schofield-blames-on-a-freakin-error)
  - [Which multiplayer shooter had the best bots?](https://www.pcgamer.com/which-multiplayer-shooter-had-the-best-bots)
- - [A quick tour of Discworld MUD, one of the longest-running online games ever](https://www.pcgamer.com/saturday-crapshoot-discworld-mud)
- - [New The Last of Us HBO trailer shows off more of its cast and locations](https://www.pcgamer.com/new-last-of-us-hbo-trailer-shows-off-more-of-its-cast-and-locations)<!-- GAME:END -->
+ - [A quick tour of Discworld MUD, one of the longest-running online games ever](https://www.pcgamer.com/saturday-crapshoot-discworld-mud)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
