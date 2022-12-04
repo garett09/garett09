@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No franchise is blowing itself up like Chucky — and that’s a good thing](https://www.polygon.com/entertainment/23488307/chucky-season-2-jennifer-tilly-seed-of-chucky)
- - [Epic does what Nintendon&#39;t, brings Geralt and the Doom Slayer to Fortnite](https://www.pcgamer.com/epic-does-what-nintendont-brings-geralt-and-the-doom-slayer-to-fortnite)
- - [Bioware celebrates Dragon Age Day with a new Dreadwolf teaser](https://www.pcgamer.com/bioware-celebrates-dragon-age-day-with-a-new-dreadwolf-teaser)<!-- GAME:END -->
+ - [This modder has been exploring the Souls series&#39; mysterious out-of-bounds cities](https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities)
+ - [Modders are adding Into the Spider-Verse animations and costumes into Spider-Man: Miles Morales](https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales)
+ - [No franchise is blowing itself up like Chucky — and that’s a good thing](https://www.polygon.com/entertainment/23488307/chucky-season-2-jennifer-tilly-seed-of-chucky)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
