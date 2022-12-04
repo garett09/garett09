@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)
- - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
- - 🚯 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)<!-- MEMES:END -->
+ - 🚖 [Easy](http://9gag.com/gag/aA0D5do)
+ - 🚯 [Who read this?](http://9gag.com/gag/aRE36K2)
+ - 🚯 [Homemade mozzarella cheese](http://9gag.com/gag/a04KvNL)<!-- MEMES:END -->
 
 --- 
 
