@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)
- - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
- - 🚯 [\u2026.](http://9gag.com/gag/amA2D59)<!-- MEMES:END -->
+ - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
+ - 🚯 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)<!-- MEMES:END -->
 
 --- 
 
