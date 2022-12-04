@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with the co-founder of Vietnamese unicorn VNG, which offers games and services like Zalo, a messaging app that had 74M+ MAUs in Vietnam in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/221203/p12#a221203p12)
  - [Fortnite’s latest live event was its strangest yet](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)
- - [The new Last of Us trailer shows what Ellie and Joel are up against](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)
- - [Apple tells suppliers to plan for shift of manufacturing out of China](https://appleinsider.com/articles/22/12/03/apple-tells-suppliers-to-plan-for-shift-of-manufacturing-out-of-china?utm_medium=rss)<!-- TECH:END -->
+ - [The new Last of Us trailer shows what Ellie and Joel are up against](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
