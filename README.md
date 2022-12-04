@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)
- - [Neuralink&#39;s Upgraded Brain Chip Hopes to Help the Blind See and the Paralyzed Walk     - CNET](https://www.cnet.com/science/neuralink-upgraded-brain-chip-hopes-to-help-the-blind-see-and-the-paralyzed-walk/#ftag=CAD590a51e)
- - [Best PlayStation Deals: Save on Headsets, Refurb Consoles and More     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Max Levchin on Affirm, the US CFPB&#39;s inquiry into BNPL services, problems with credit cards, the current economic environment, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/221204/p6#a221204p6)
+ - [Lead times for iPhone 14 Pro models improve, but still needs improvement](https://appleinsider.com/articles/22/12/04/lead-times-for-iphone-14-pro-models-improve-but-still-needs-improvement?utm_medium=rss)
+ - [DJI’s cheaper Mini 3 drone could launch very soon](https://www.theverge.com/2022/12/4/23492829/dji-mini-3-closer-launch-drone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
