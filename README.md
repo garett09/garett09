@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easy](http://9gag.com/gag/aA0D5do)
- - 🚯 [Who read this?](http://9gag.com/gag/aRE36K2)
- - 🚯 [Homemade mozzarella cheese](http://9gag.com/gag/a04KvNL)<!-- MEMES:END -->
+ - 🚖 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
+ - 🚯 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
+ - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
 
 --- 
 
