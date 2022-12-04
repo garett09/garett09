@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bioware celebrates Dragon Age Day with a new Dreadwolf teaser](https://www.pcgamer.com/bioware-celebrates-dragon-age-day-with-a-new-dreadwolf-teaser)
- - [Fortnite Chapter 4 brings a whole new map and Geralt of Rivia in the battle pass](https://www.polygon.com/fortnite/23490456/fortnite-chapter-4-new-map-island-battle-pass-geralt-patch-changes)
- - [The best Pokémon anime arcs to watch while you’re playing Scarlet and Violet](https://www.polygon.com/pokemon/23487840/best-pokemon-anime-arcs-streaming-pokemon-scarlet-and-violet)<!-- GAME:END -->
+ - [No franchise is blowing itself up like Chucky — and that’s a good thing](https://www.polygon.com/entertainment/23488307/chucky-season-2-jennifer-tilly-seed-of-chucky)
+ - [Epic does what Nintendon&#39;t, brings Geralt and the Doom Slayer to Fortnite](https://www.pcgamer.com/epic-does-what-nintendont-brings-geralt-and-the-doom-slayer-to-fortnite)
+ - [Bioware celebrates Dragon Age Day with a new Dreadwolf teaser](https://www.pcgamer.com/bioware-celebrates-dragon-age-day-with-a-new-dreadwolf-teaser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
