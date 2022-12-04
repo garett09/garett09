@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Start a Cassette Collection in the 21st Century](https://www.wired.com/story/how-to-start-cassette-collection/)
- - [Apple tells suppliers to plan for shift of manufacturing out of China](https://appleinsider.com/articles/22/12/03/apple-tells-suppliers-to-plan-for-shift-of-manufacturing-out-of-china?utm_medium=rss)
- - [Elon Musk says Apple has fully resumed Twitter advertising](https://appleinsider.com/articles/22/12/04/musk-apple-has-fully-resumed-twitter-advertising?utm_medium=rss)<!-- TECH:END -->
+ - [Best Sonos Setup &lpar;2022&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
+ - [Crime blotter: Video goes viral of Black Friday Apple Store thefts](https://appleinsider.com/articles/22/12/04/crime-blotter-video-goes-viral-of-black-friday-apple-store-thefts?utm_medium=rss)
+ - [Best PS4 Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
