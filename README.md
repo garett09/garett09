@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
- - 🚯 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
- - 🚯 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)<!-- MEMES:END -->
+ - 🚖 [Easy](http://9gag.com/gag/aA0D5do)
+ - 🚯 [Good Morning England](http://9gag.com/gag/aVbM8Bd)
+ - 🚯 [At this point i can&#39;t even..](http://9gag.com/gag/a7qDg2A)<!-- MEMES:END -->
 
 --- 
 
