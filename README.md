@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Geralt and other Witcher characters will arrive in Lost Ark next year](https://www.pcgamer.com/geralt-and-other-witcher-characters-will-arrive-in-lost-ark-next-year)
  - [Patch fixes The Callisto Protocol&#39;s stuttering, which Glen Schofield blames on a &#39;freakin error&#39;](https://www.pcgamer.com/patch-fixes-the-callisto-protocols-stuttering-which-glen-schofield-blames-on-a-freakin-error)
- - [Which multiplayer shooter had the best bots?](https://www.pcgamer.com/which-multiplayer-shooter-had-the-best-bots)
- - [A quick tour of Discworld MUD, one of the longest-running online games ever](https://www.pcgamer.com/saturday-crapshoot-discworld-mud)<!-- GAME:END -->
+ - [Which multiplayer shooter had the best bots?](https://www.pcgamer.com/which-multiplayer-shooter-had-the-best-bots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
