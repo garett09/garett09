@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Noodle, the &#39;Bones/No Bones Day&#39; Dog of TikTok, Dies at Age 14     - CNET](https://www.cnet.com/culture/noodle-the-bonesno-bones-day-dog-of-tiktok-dies-at-age-14/#ftag=CAD590a51e)
  - [An interview with the co-founder of Vietnamese unicorn VNG, which offers games and services like Zalo, a messaging app that had 74M+ MAUs in Vietnam in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/221203/p12#a221203p12)
- - [Fortnite’s latest live event was its strangest yet](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)
- - [The new Last of Us trailer shows what Ellie and Joel are up against](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)<!-- TECH:END -->
+ - [Fortnite’s latest live event was its strangest yet](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
