@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
- - 🚯 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
- - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
+ - 🚯 [Authority level: legendary](http://9gag.com/gag/aMEA3zx)
+ - 🚯 [No tip?](http://9gag.com/gag/aPgjw6P)<!-- MEMES:END -->
 
 --- 
 
