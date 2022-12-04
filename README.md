@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who can relate?](http://9gag.com/gag/aeQev7Q)
- - 🚯 [Best use of waste plastic bottles](http://9gag.com/gag/a6qVYYq)
- - 🚯 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)<!-- MEMES:END -->
+ - 🚖 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)
+ - 🚯 [*STARTS RETHINKING LIFE DECISIONS*](http://9gag.com/gag/aNwzy5G)
+ - 🚯 [A Chill glass of Carmenin Cider](http://9gag.com/gag/aYV4zq7)<!-- MEMES:END -->
 
 --- 
 
