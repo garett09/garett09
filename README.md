@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best use of waste plastic bottles](http://9gag.com/gag/a6qVYYq)
+ - 🚖 [Easy](http://9gag.com/gag/aA0D5do)
  - 🚯 [You know what the N stands for in Netflix](http://9gag.com/gag/aVbMn8K)
  - 🚯 [How to rescue a wounded.](http://9gag.com/gag/amA2jZj)<!-- MEMES:END -->
 
