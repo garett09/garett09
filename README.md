@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyberpunk 2077 is getting a Game of the Year edition](https://www.pcgamer.com/cyberpunk-2077-is-getting-a-game-of-the-year-edition)
  - [Here&#39;s a mod that promises to help Darktide run better on your low-end PC](https://www.pcgamer.com/heres-a-mod-that-promises-to-help-darktide-run-better-on-your-low-end-pc)
- - [This modder has been exploring the Souls series&#39; mysterious out-of-bounds cities](https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities)
- - [Modders are adding Into the Spider-Verse animations and costumes into Spider-Man: Miles Morales](https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales)<!-- GAME:END -->
+ - [This modder has been exploring the Souls series&#39; mysterious out-of-bounds cities](https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
