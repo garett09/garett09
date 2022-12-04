@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)
- - 🚯 [*STARTS RETHINKING LIFE DECISIONS*](http://9gag.com/gag/aNwzy5G)
- - 🚯 [A Chill glass of Carmenin Cider](http://9gag.com/gag/aYV4zq7)<!-- MEMES:END -->
+ - 🚯 [Didn&#39;t his father teach him to be a good Man?](http://9gag.com/gag/aeQeXxq)
+ - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)<!-- MEMES:END -->
 
 --- 
 
