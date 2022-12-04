@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sonos Setup &lpar;2022&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [Crime blotter: Video goes viral of Black Friday Apple Store thefts](https://appleinsider.com/articles/22/12/04/crime-blotter-video-goes-viral-of-black-friday-apple-store-thefts?utm_medium=rss)
- - [Best PS4 Gaming Headset for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: mass shipments of Apple&#39;s AR/VR headset may be delayed until H2 2023, from previously estimated Q2 2023, due to &quot;software-related issues&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221204/p4#a221204p4)
+ - [Kuo: software issues push Apple&#39;s mixed-reality headset to late 2023](https://appleinsider.com/articles/22/12/04/kuo-software-issues-push-apples-mixed-reality-headset-to-late-2023?utm_medium=rss)
+ - [8 Best Weighted Blankets for 2022     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
