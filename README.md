@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi Arabian food delivery service Jahez agrees to acquire local rival The Chefz for ~$173M in a cash and stock deal &lpar;Shaji Mathew/Bloomberg&rpar;](http://www.techmeme.com/221203/p14#a221203p14)
  - [Elon Musk says Apple has &quot;fully resumed&quot; advertising on Twitter, after claiming on November 28 that Apple had &quot;mostly stopped&quot; Twitter ads &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221203/p13#a221203p13)
- - [Noodle, the &#39;Bones/No Bones Day&#39; Dog of TikTok, Dies at Age 14     - CNET](https://www.cnet.com/culture/noodle-the-bonesno-bones-day-dog-of-tiktok-dies-at-age-14/#ftag=CAD590a51e)
- - [An interview with the co-founder of Vietnamese unicorn VNG, which offers games and services like Zalo, a messaging app that had 74M+ MAUs in Vietnam in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/221203/p12#a221203p12)<!-- TECH:END -->
+ - [Noodle, the &#39;Bones/No Bones Day&#39; Dog of TikTok, Dies at Age 14     - CNET](https://www.cnet.com/culture/noodle-the-bonesno-bones-day-dog-of-tiktok-dies-at-age-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
