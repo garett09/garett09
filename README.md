@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easy](http://9gag.com/gag/aA0D5do)
- - 🚯 [Good Morning England](http://9gag.com/gag/aVbM8Bd)
- - 🚯 [At this point i can&#39;t even..](http://9gag.com/gag/a7qDg2A)<!-- MEMES:END -->
+ - 🚖 [\u2026.](http://9gag.com/gag/amA2D59)
+ - 🚯 [Easy](http://9gag.com/gag/aA0D5do)
+ - 🚯 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)<!-- MEMES:END -->
 
 --- 
 
