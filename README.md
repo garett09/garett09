@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a mod that promises to help Darktide run better on your low-end PC](https://www.pcgamer.com/heres-a-mod-that-promises-to-help-darktide-run-better-on-your-low-end-pc)
  - [This modder has been exploring the Souls series&#39; mysterious out-of-bounds cities](https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities)
- - [Modders are adding Into the Spider-Verse animations and costumes into Spider-Man: Miles Morales](https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales)
- - [No franchise is blowing itself up like Chucky — and that’s a good thing](https://www.polygon.com/entertainment/23488307/chucky-season-2-jennifer-tilly-seed-of-chucky)<!-- GAME:END -->
+ - [Modders are adding Into the Spider-Verse animations and costumes into Spider-Man: Miles Morales](https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
