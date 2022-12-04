@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2026.](http://9gag.com/gag/amA2D59)
- - 🚯 [Easy](http://9gag.com/gag/aA0D5do)
+ - 🚖 [Who can relate?](http://9gag.com/gag/aeQev7Q)
+ - 🚯 [Best use of waste plastic bottles](http://9gag.com/gag/a6qVYYq)
  - 🚯 [Marvel ended with Endgame.](http://9gag.com/gag/ap9Qe08)<!-- MEMES:END -->
 
 --- 
