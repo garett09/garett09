@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday Gift Guide: best stocking stuffer ideas under $20 for Mac fans](https://appleinsider.com/articles/22/12/04/holiday-gift-guide-best-stocking-stuffer-ideas-under-20-for-mac-fans?utm_medium=rss)
- - [Step aside ultrawide, ultra-tall monitors are perfect for reading and writing](https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/)
- - [Best 3D Printing Accessories: Make the most of your 3D printer     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chargers vs. Raiders Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chargers-vs-raiders-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
+ - [Chiefs vs. Bengals Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-bengals-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
+ - [Dolphins vs. 49ers Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-49ers-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
