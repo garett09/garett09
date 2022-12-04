@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New The Last of Us HBO trailer shows off more of its cast and locations](https://www.pcgamer.com/new-last-of-us-hbo-trailer-shows-off-more-of-its-cast-and-locations)
- - [Crusader Kings 3 makes it easier to abandon your unwanted bastard children](https://www.pcgamer.com/crusader-kings-3-makes-it-easier-to-abandon-your-unwanted-bastard-children)
- - [The first trailer for The Witcher: Blood Origin has a very unexpected guest](https://www.pcgamer.com/the-first-trailer-for-the-witcher-prequel-series-has-a-very-unexpected-guest)<!-- GAME:END -->
+ - [Which multiplayer shooter had the best bots?](https://www.pcgamer.com/which-multiplayer-shooter-had-the-best-bots)
+ - [A quick tour of Discworld MUD, one of the longest-running online games ever](https://www.pcgamer.com/saturday-crapshoot-discworld-mud)
+ - [New The Last of Us HBO trailer shows off more of its cast and locations](https://www.pcgamer.com/new-last-of-us-hbo-trailer-shows-off-more-of-its-cast-and-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
