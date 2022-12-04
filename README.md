@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Pokémon anime arcs to watch while you’re playing Scarlet and Violet](https://www.polygon.com/pokemon/23487840/best-pokemon-anime-arcs-streaming-pokemon-scarlet-and-violet)
  - [Introducing Fortnite Battle Royale Chapter 4 Season 1, live today](https://blog.playstation.com/2022/12/04/introducing-fortnite-battle-royale-chapter-4-season-1-live-today/)
- - [Introducing Fortnite Battle Royale Chapter 4 Season 1, live today](https://blog.playstation.com/2022/12/04/introducing-fortnite-battle-royale-chapter-4-season-1-live-today/)
- - [Today&#39;s Wordle answer and hint for Sunday, December 4](https://www.pcgamer.com/wordle-533-answer-december-4)<!-- GAME:END -->
+ - [Introducing Fortnite Battle Royale Chapter 4 Season 1, live today](https://blog.playstation.com/2022/12/04/introducing-fortnite-battle-royale-chapter-4-season-1-live-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
