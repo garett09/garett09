@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Wifi Pro review: Wi-Fi 6E on the cheap](https://www.androidauthority.com/google-nest-wifi-pro-review-3242006/)
- - [Elon Musk says Apple has fully resumed Twitter advertising](https://appleinsider.com/articles/22/12/04/musk-apple-has-fully-resumed-twitter-advertising?utm_medium=rss)
- - [Apple&#39;s mixed-reality headset rumored to arrive in late 2023](https://appleinsider.com/articles/22/12/04/kuo-software-issues-push-apples-mixed-reality-headset-to-late-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s $199 AirPods Pro 2 deal returns, AirPods Max drop to $439](https://appleinsider.com/articles/22/12/04/amazons-199-airpods-pro-2-deal-returns-airpods-max-drop-to-439?utm_medium=rss)
+ - [Taylor Swift fans are suing Ticketmaster over presale disaster](https://www.theverge.com/2022/12/4/23492382/taylor-swift-fans-ticketmaster-lawsuit-disaster)
+ - [Google Nest Wifi Pro review: Wi-Fi 6E on the cheap](https://www.androidauthority.com/google-nest-wifi-pro-review-3242006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
