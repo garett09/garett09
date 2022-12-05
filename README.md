@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)
- - 🚯 [\u2026.](http://9gag.com/gag/amA2D59)
- - 🚯 [Well, that&#39;s enough internet for today](http://9gag.com/gag/a045rpq)<!-- MEMES:END -->
+ - 🚖 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
+ - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
+ - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
 
 --- 
 
