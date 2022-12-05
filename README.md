@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
- - [Around 300 QA workers at Microsoft-owned ZeniMax are organizing a union](https://www.theverge.com/2022/12/5/23495139/microsoft-union-zenimax-bethesda-cwa)
- - [Facebook threatens to ban news in the US over journalism bill](https://www.theverge.com/2022/12/5/23495067/facebook-threat-ban-news-us-journalism-bill)<!-- TECH:END -->
+ - [Apple may shift some iPad production away from China to India](https://www.theverge.com/2022/12/5/23494901/apple-ipad-china-india-supply-chain-protests)
+ - [This MacBook Pro 13-inch with 16GB RAM, 512GB SSD is $899 today only](https://appleinsider.com/articles/22/12/05/this-macbook-pro-13-inch-with-16gb-ram-512gb-ssd-is-899-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
