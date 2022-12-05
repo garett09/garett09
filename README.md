@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
- - 🚯 [New generation needs to know](http://9gag.com/gag/a2KoNnd)
- - 🚯 [Who said they weren&#39;t useful?](http://9gag.com/gag/aeQM36B)<!-- MEMES:END -->
+ - 🚖 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)
+ - 🚯 [\u2026.](http://9gag.com/gag/amA2D59)
+ - 🚯 [Well, that&#39;s enough internet for today](http://9gag.com/gag/a045rpq)<!-- MEMES:END -->
 
 --- 
 
