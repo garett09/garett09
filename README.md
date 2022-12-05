@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use foreign file systems in macOS](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-foreign-file-systems-in-macos?utm_medium=rss)
- - [Apple Watch Ultra is back on sale at Amazon, delivers by Christmas](https://appleinsider.com/articles/22/12/05/apple-watch-ultra-is-back-on-sale-at-amazon-delivers-by-christmas?utm_medium=rss)
- - [Cult classic Dwarf Fortress is hitting Steam this week with new pixel graphics](https://www.theverge.com/2022/12/5/23494450/dwarf-fortress-steam-itch-io-release-date)<!-- TECH:END -->
+ - [Apple considering shift of some iPad production into India](https://appleinsider.com/articles/22/12/05/apple-considering-shift-of-some-ipad-production-into-india?utm_medium=rss)
+ - [Now you won’t have to get a Real ID for two more years](https://www.theverge.com/2022/12/5/23494552/real-id-deadline-delay-2025)
+ - [Microsoft to raise Xbox first-party game prices from $60 to $70 in 2023](https://www.theverge.com/2022/12/5/23494765/microsoft-xbox-game-price-increase-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
