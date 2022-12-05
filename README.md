@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home+ 6, Aqara T1 Pro, Eufy debacle &amp; several HomeKit mini reviews](https://appleinsider.com/articles/22/12/05/home-6-aqara-t1-pro-eufy-debacle-several-homekit-mini-reviews?utm_medium=rss)
- - [Why automating trucking is harder than you think](https://www.theverge.com/2022/12/5/23490433/trucker-surveillance-autonomous-karen-levy-book-interview)
- - [Secret Service report: China-linked APT41 hackers stole $20M+ in US COVID-19 relief benefits, the first example of pandemic fraud by state-affiliated hackers &lpar;NBC News&rpar;](http://www.techmeme.com/221205/p11#a221205p11)<!-- TECH:END -->
+ - [You told us: You think Android and iOS could do with competition](https://www.androidauthority.com/android-ios-third-platform-poll-results-3244361/)
+ - [8 Best Phones With a 3.5-mm Headphone Jack &lpar;2022&rpar;: Rugged, Cheap, Luxe](https://www.wired.com/gallery/best-headphone-jack-phones/)
+ - [Nothing Phone &lpar;1&rpar; could come to the US -- but not soon](https://appleinsider.com/articles/22/12/05/nothing-phone-1-could-come-to-the-us----but-not-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
