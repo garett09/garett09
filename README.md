@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Sierpinski&#39;s Triangle - a famous fractal - originates from a simple rule](http://9gag.com/gag/aYVgwRx)
- - 🚯 [Gotta lower them Defcons](http://9gag.com/gag/axo0XDb)
- - 🚯 [Medieval armor vs arrows](http://9gag.com/gag/aoKNjP2)<!-- MEMES:END -->
+ - 🚖 [Encounter](http://9gag.com/gag/aVb3X9w)
+ - 🚯 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
+ - 🚯 [Last words](http://9gag.com/gag/a6qoLK9)<!-- MEMES:END -->
 
 --- 
 
