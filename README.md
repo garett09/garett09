@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
- - 🚯 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
- - 🚯 [...](http://9gag.com/gag/axo1GGb)<!-- MEMES:END -->
+ - 🚖 [Horrible video quality, but it makes it funnier to me.](http://9gag.com/gag/a4o7d1Z)
+ - 🚯 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - 🚯 [Authority level difference](http://9gag.com/gag/abvM5gL)<!-- MEMES:END -->
 
 --- 
 
