@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)
- - 🚯 [\u2026.](http://9gag.com/gag/amA2D59)
- - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
+ - 🚖 [Life Hack](http://9gag.com/gag/aQEeLbw)
+ - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)
+ - 🚯 [Dr Jordan Peterson showing just how pathetic the Woke really are](http://9gag.com/gag/aeQeoRB)<!-- MEMES:END -->
 
 --- 
 
