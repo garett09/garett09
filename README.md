@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You think Android and iOS could do with competition](https://www.androidauthority.com/android-ios-third-platform-poll-results-3244361/)
- - [8 Best Phones With a 3.5-mm Headphone Jack &lpar;2022&rpar;: Rugged, Cheap, Luxe](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Nothing Phone &lpar;1&rpar; could come to the US -- but not soon](https://appleinsider.com/articles/22/12/05/nothing-phone-1-could-come-to-the-us----but-not-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s $199 AirPods Pro 2 deal returns, AirPods Max drop to $439](https://appleinsider.com/articles/22/12/04/amazons-199-airpods-pro-2-deal-returns-airpods-max-drop-to-439?utm_medium=rss)
+ - [What was the best phone of 2022? Vote for your Reader’s Choice winner!](https://www.androidauthority.com/best-smartphone-2022-readers-choice-voting-3243941/)
+ - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
