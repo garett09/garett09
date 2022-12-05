@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - 🚯 [Title is Title, don&#39;t ask.](http://9gag.com/gag/a2Koqme)
- - 🚯 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)<!-- MEMES:END -->
+ - 🚖 [Authority level difference](http://9gag.com/gag/abvM5gL)
+ - 🚯 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)
+ - 🚯 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)<!-- MEMES:END -->
 
 --- 
 
