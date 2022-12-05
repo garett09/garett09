@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Authority level difference](http://9gag.com/gag/abvM5gL)
- - 🚯 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)
- - 🚯 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)<!-- MEMES:END -->
+ - 🚖 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)
+ - 🚯 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
+ - 🚯 [An Argentine reporter, after her wallet was stolen by a fan in Qatar, stated: `The police asked me how I want to punish the offender and choose between imprisoning him for 5 years or deporting him from the country immediately.`](http://9gag.com/gag/a4o7pXv)<!-- MEMES:END -->
 
 --- 
 
