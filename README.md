@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $199 AirPods Pro 2 deal returns, AirPods Max drop to $439](https://appleinsider.com/articles/22/12/04/amazons-199-airpods-pro-2-deal-returns-airpods-max-drop-to-439?utm_medium=rss)
- - [What was the best phone of 2022? Vote for your Reader’s Choice winner!](https://www.androidauthority.com/best-smartphone-2022-readers-choice-voting-3243941/)
- - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [Internal memo: Slack CEO and co-founder Stewart Butterfield plans to leave Salesforce in January, says the move has &quot;nothing to do&quot; with Bret Taylor&#39;s departure &lpar;Ellen Thomas/Insider&rpar;](http://www.techmeme.com/221205/p17#a221205p17)
+ - [Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
+ - [You can get the Samsung Galaxy Watch 5 Pro for its lowest price yet at Best Buy](https://www.theverge.com/2022/12/5/23493267/samsung-galaxy-watch-pro-logitech-apple-airpods-lego-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
