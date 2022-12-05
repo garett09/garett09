@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Horrible video quality, but it makes it funnier to me.](http://9gag.com/gag/a4o7d1Z)
- - 🚯 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - 🚯 [Authority level difference](http://9gag.com/gag/abvM5gL)<!-- MEMES:END -->
+ - 🚖 [How Sierpinski&#39;s Triangle - a famous fractal - originates from a simple rule](http://9gag.com/gag/aYVgwRx)
+ - 🚯 [Gotta lower them Defcons](http://9gag.com/gag/axo0XDb)
+ - 🚯 [Medieval armor vs arrows](http://9gag.com/gag/aoKNjP2)<!-- MEMES:END -->
 
 --- 
 
