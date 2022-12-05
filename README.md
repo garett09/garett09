@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Google Messages and how to use it](https://www.androidauthority.com/what-is-google-messages-3242467/)
- - [Take an unofficial look at this official OnePlus 11 render](https://www.androidauthority.com/oneplus-11-design-3244394/)
- - [Survey of 8,000 young people in nine European countries finds 34% have pirated content, 27% reported trolling someone, 22% reported inciting violence, and more &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221205/p5#a221205p5)<!-- TECH:END -->
+ - [SBF says John Ray III is not working with him or responding to messages, claims Ray made false statements, and dodges questions on Alameda and loaning funds &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/221205/p7#a221205p7)
+ - [The Era of One-Shot, Multimillion-Dollar Genetic Cures Is Here](https://www.wired.com/story/the-era-of-one-shot-multi-million-dollar-genetic-cures-is-here/)
+ - [26 Gifts Ideas for Audiophiles and Music Lovers &lpar;2022&rpar;: Record Players, Speakers, Headphones](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
