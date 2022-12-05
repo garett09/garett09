@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Foxconn expects its COVID-hit Zhengzhou plant to resume full production around late December to early January, but uncertainties remain &lpar;Reuters&rpar;](http://www.techmeme.com/221205/p2#a221205p2)
- - [A look at PostScript, Adobe&#39;s programming language for desktop publishing that debuted in 1984, as its source code is publicly released for the first time &lpar;David C. Brock/CHM&rpar;](http://www.techmeme.com/221205/p1#a221205p1)
- - [Poll: Did you miss the Galaxy Note line this year?](https://www.androidauthority.com/miss-samsung-galaxy-note-this-year-poll-3243802/)<!-- TECH:END -->
+ - [Chrome OS just got this Windows 95 feature](https://www.androidauthority.com/google-chrome-os-windows-95-feature-3244369/)
+ - [Daily Authority: 🧑‍🤝‍🧑 Top tips for snoozing social media](https://www.androidauthority.com/daily-authority-december-5-2022-3244345/)
+ - [Source: Foxconn expects its COVID-hit Zhengzhou plant to resume full production around late December to early January, but uncertainties remain &lpar;Reuters&rpar;](http://www.techmeme.com/221205/p2#a221205p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
