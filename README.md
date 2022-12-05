@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [English fan shouting \u2018Free Palestine\u2019 when being interviewed by Israeli Press](http://9gag.com/gag/avQOZeO)
- - 🚯 [Choose difficulty](http://9gag.com/gag/aNw1Z83)
- - 🚯 [Utrecht, Netherlands](http://9gag.com/gag/a1Povgb)<!-- MEMES:END -->
+ - 🚖 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - 🚯 [Title is Title, don&#39;t ask.](http://9gag.com/gag/a2Koqme)
+ - 🚯 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)<!-- MEMES:END -->
 
 --- 
 
