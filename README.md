@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life Hack](http://9gag.com/gag/aQEeLbw)
- - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)
- - 🚯 [Dr Jordan Peterson showing just how pathetic the Woke really are](http://9gag.com/gag/aeQeoRB)<!-- MEMES:END -->
+ - 🚖 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
+ - 🚯 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
+ - 🚯 [No tip?](http://9gag.com/gag/aPgjw6P)<!-- MEMES:END -->
 
 --- 
 
