@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Goblin mode&#39; overwhelmingly wins the first public-voted Oxford word of the year](https://www.pcgamer.com/goblin-mode-overwhelmingly-wins-the-first-public-voted-oxford-word-of-the-year)
- - [Today&#39;s Wordle answer and hint for Monday, December 5](https://www.pcgamer.com/wordle-534-answer-december-5)
- - [DLC-sized Skyrim mod adds fully voiced &#39;Bioware-style&#39; companions, over 9,000 lines of dialogue](https://www.pcgamer.com/dlc-sized-skyrim-mod-adds-fully-voiced-bioware-style-companions-over-9000-lines-of-dialogue)<!-- GAME:END -->
+ - [How to win dragon races in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-dragon-racing-guide)
+ - [The horror of Trump lives ‘very strongly’ in His Dark Materials’ S3](https://www.polygon.com/23489962/his-dark-materials-season-3-interview-trump)
+ - [Firaxis pulled out all the stops to let a dying fan play Midnight Suns](https://www.pcgamer.com/firaxis-pulled-out-all-the-stops-to-let-a-dying-fan-play-midnight-suns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
