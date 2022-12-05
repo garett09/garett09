@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers at Microsoft-owned ZeniMax Media voting to unionize 300 QA staff positions](https://www.polygon.com/23495140/microsoft-zenimax-media-union-vote-qa-workers)
- - [Starfield will cost $70 as Microsoft raises its base price for new games in 2023](https://www.pcgamer.com/starfield-will-cost-dollar70-as-microsoft-raises-its-base-price-for-new-games-in-2023)
- - [The first Disney Dreamlight Valley code is for a mysterious golden potato](https://www.pcgamer.com/disney-dreamlight-valley-codes-redeem)<!-- GAME:END -->
+ - [Riot’s League of Legends fighting game has a very deep tag system](https://www.polygon.com/23494770/riot-games-project-l-fighting-game-tag-system)
+ - [GameStop Gets Into Holiday Spirit With More Layoffs](https://kotaku.com/gamestop-layoffs-meme-stock-crypto-blockchain-1849856122)
+ - [After Backlash, Overwatch 2&#39;s New Tank Will Be Easier To Unlock For Free](https://kotaku.com/overwatch-2-new-hero-unlock-ramattra-season-2-battle-pa-1849856021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
