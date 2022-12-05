@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want this. Does that mean I&#39;m old?](http://9gag.com/gag/a6qomXm)
- - 🚯 [Yes](http://9gag.com/gag/amA7qmj)
- - 🚯 [Never forget the Christmas Truce of 1914.](http://9gag.com/gag/a4o74LZ)<!-- MEMES:END -->
+ - 🚖 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)
+ - 🚯 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - 🚯 [Authority level difference](http://9gag.com/gag/abvM5gL)<!-- MEMES:END -->
 
 --- 
 
