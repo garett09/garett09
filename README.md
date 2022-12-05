@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
- - 🚯 [Welp seems like Mongolia has had enough of its corruption. Today on December 5th people had enough of the corrupt government and crashed into the government palace.](http://9gag.com/gag/aQE34y2)
- - 🚯 [Yeeted to next life](http://9gag.com/gag/aEqx13G)<!-- MEMES:END -->
+ - 🚖 [No tip?](http://9gag.com/gag/aPgjw6P)
+ - 🚯 [English fan shouting \u2018Free Palestine\u2019 when being interviewed by Israeli Press](http://9gag.com/gag/avQOZeO)
+ - 🚯 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)<!-- MEMES:END -->
 
 --- 
 
