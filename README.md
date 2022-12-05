@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 is getting a Game of the Year edition](https://www.pcgamer.com/cyberpunk-2077-is-getting-a-game-of-the-year-edition)
- - [Here&#39;s a mod that promises to help Darktide run better on your low-end PC](https://www.pcgamer.com/heres-a-mod-that-promises-to-help-darktide-run-better-on-your-low-end-pc)
- - [This modder has been exploring the Souls series&#39; mysterious out-of-bounds cities](https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities)<!-- GAME:END -->
+ - [Five years after launch, heartfelt indie Rakuen is getting a &#39;major update&#39; and spin-off](https://www.pcgamer.com/five-years-after-launch-heartfelt-indie-rakuen-is-getting-a-major-update-and-spin-off)
+ - [Halo Infinite multiplayer creative director departs 343 Industries](https://www.pcgamer.com/halo-infinite-multiplayer-creative-director-departs-343-industries)
+ - [One of the NFL&#39;s best teams is full of Grand Theft Auto Online roleplayers](https://www.pcgamer.com/one-of-the-nfls-best-teams-is-full-of-grand-theft-auto-online-roleplayers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
