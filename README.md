@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s new tank hero Ramattra will need a support babysitter to thrive](https://www.pcgamer.com/overwatch-2s-new-tank-hero-ramattra-will-need-a-support-babysitter-to-thrive)
- - [Photo Mode now available in God of War Ragnarök](https://blog.playstation.com/2022/12/05/photo-mode-now-available-in-god-of-war-ragnarok/)
- - [Conquer a New Threat in Sniper Elite 5 –  Plus, a Free New DLC for All Players](https://news.xbox.com/en-us/2022/12/05/conquer-a-new-threat-in-sniper-elite-5-plus-a-free-new-dlc-for-all-players/)<!-- GAME:END -->
+ - [The German Empire Marches to Italy in a Free Expansion Today](https://news.xbox.com/en-us/2022/12/05/the-german-empire-marches-to-italy-in-a-free-expansion-today/)
+ - [Genshin Impact Fans Who Waited Two Years For Its Most Annoying Character Are Stronger Than Me](https://kotaku.com/genshin-impact-hoyoverse-scaramouche-wanderer-playable-1849855040)
+ - [Gwent development is ending in 2024, but CD Projekt wants the community to take over](https://www.pcgamer.com/gwent-development-is-ending-in-2024-but-cd-projekt-wants-the-community-to-take-over)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
