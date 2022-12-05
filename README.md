@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Slack CEO and co-founder Stewart Butterfield plans to leave Salesforce in January, says the move has &quot;nothing to do&quot; with Bret Taylor&#39;s departure &lpar;Ellen Thomas/Insider&rpar;](http://www.techmeme.com/221205/p17#a221205p17)
- - [Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
- - [You can get the Samsung Galaxy Watch 5 Pro for its lowest price yet at Best Buy](https://www.theverge.com/2022/12/5/23493267/samsung-galaxy-watch-pro-logitech-apple-airpods-lego-deal-sale)<!-- TECH:END -->
+ - [How to use foreign file systems in macOS](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-foreign-file-systems-in-macos?utm_medium=rss)
+ - [Apple Watch Ultra is back on sale at Amazon, delivers by Christmas](https://appleinsider.com/articles/22/12/05/apple-watch-ultra-is-back-on-sale-at-amazon-delivers-by-christmas?utm_medium=rss)
+ - [Cult classic Dwarf Fortress is hitting Steam this week with new pixel graphics](https://www.theverge.com/2022/12/5/23494450/dwarf-fortress-steam-itch-io-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
