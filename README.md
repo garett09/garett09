@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)
- - 🚯 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - 🚯 [Go ahead, take a walk](http://9gag.com/gag/aREjn5B)<!-- MEMES:END -->
+ - 🚖 [I know that feel](http://9gag.com/gag/aEqxdEN)
+ - 🚯 [You just don&#39;t get it](http://9gag.com/gag/a2KozKE)
+ - 🚯 [Never forget the Christmas Truce of 1914.](http://9gag.com/gag/a4o74LZ)<!-- MEMES:END -->
 
 --- 
 
