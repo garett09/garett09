@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know that feel](http://9gag.com/gag/aEqxdEN)
- - 🚯 [You just don&#39;t get it](http://9gag.com/gag/a2KozKE)
- - 🚯 [Never forget the Christmas Truce of 1914.](http://9gag.com/gag/a4o74LZ)<!-- MEMES:END -->
+ - 🚖 [No tip?](http://9gag.com/gag/aPgjw6P)
+ - 🚯 [Yes](http://9gag.com/gag/amA7qmj)
+ - 🚯 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
 
 --- 
 
