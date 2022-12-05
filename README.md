@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best Shooters Of 2022](https://kotaku.com/best-shooters-2022-pc-destiny-warzone-fortnite-apex-1849853877)
  - [Star Wars Jedi: Survivor Leak Makes Early 2023 Look Like Mayhem](https://kotaku.com/star-wars-jedi-fallen-order-survivor-release-date-steam-1849853989)
- - [How to print The Rise of the Video Game Union zine](https://www.polygon.com/guides/23485970/video-game-union-zine-printing-instructions)
- - [The Witcher 3&#39;s &#39;next-gen&#39; update polishes an RPG that&#39;s aged like a fine Toussaint red](https://www.pcgamer.com/the-witcher-3s-next-gen-update-polishes-an-rpg-thats-aged-like-a-fine-toussaint-red)<!-- GAME:END -->
+ - [How to print The Rise of the Video Game Union zine](https://www.polygon.com/guides/23485970/video-game-union-zine-printing-instructions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
