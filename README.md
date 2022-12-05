@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [His Dark Materials’ third and final season is its most ambitious yet](https://www.theverge.com/2022/12/5/23489871/his-dark-materials-hbo-season-3-final-cast-interviews)
- - [How to find your Spotify Wrapped](https://www.theverge.com/23494919/spotify-wrapped-2022-how-to)
- - [Google&#39;s latest Pixel drop brings VPN by Google and Clear Calling to Pixel 7 and 7 Pro, automatic speaker labels in the Recorder app to Pixel 6 or newer, more &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/221205/p21#a221205p21)<!-- TECH:END -->
+ - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
+ - [Around 300 QA workers at Microsoft-owned ZeniMax are organizing a union](https://www.theverge.com/2022/12/5/23495139/microsoft-union-zenimax-bethesda-cwa)
+ - [Facebook threatens to ban news in the US over journalism bill](https://www.theverge.com/2022/12/5/23495067/facebook-threat-ban-news-us-journalism-bill)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
