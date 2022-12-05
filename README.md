@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Encounter](http://9gag.com/gag/aVb3X9w)
- - 🚯 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
- - 🚯 [Last words](http://9gag.com/gag/a6qoLK9)<!-- MEMES:END -->
+ - 🚖 [English fan shouting \u2018Free Palestine\u2019 when being interviewed by Israeli Press](http://9gag.com/gag/avQOZeO)
+ - 🚯 [Choose difficulty](http://9gag.com/gag/aNw1Z83)
+ - 🚯 [Utrecht, Netherlands](http://9gag.com/gag/a1Povgb)<!-- MEMES:END -->
 
 --- 
 
