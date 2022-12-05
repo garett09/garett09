@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Authority level difference](http://9gag.com/gag/abvM5gL)
- - 🚯 [The donkey approves.](http://9gag.com/gag/a2KoPxE)
- - 🚯 [Terrible side profile*](http://9gag.com/gag/adPK6dN)<!-- MEMES:END -->
+ - 🚖 [I want this. Does that mean I&#39;m old?](http://9gag.com/gag/a6qomXm)
+ - 🚯 [Yes](http://9gag.com/gag/amA7qmj)
+ - 🚯 [Never forget the Christmas Truce of 1914.](http://9gag.com/gag/a4o74LZ)<!-- MEMES:END -->
 
 --- 
 
