@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Max Levchin on Affirm, the US CFPB&#39;s inquiry into BNPL services, problems with credit cards, the current economic environment, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/221204/p6#a221204p6)
- - [Lead times for iPhone 14 Pro models improve, but still needs improvement](https://appleinsider.com/articles/22/12/04/lead-times-for-iphone-14-pro-models-improve-but-still-needs-improvement?utm_medium=rss)
- - [DJI’s cheaper Mini 3 drone could launch very soon](https://www.theverge.com/2022/12/4/23492829/dji-mini-3-closer-launch-drone)<!-- TECH:END -->
+ - [&#39;The Midnight Club&#39;: The Full Ending Explained and Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-the-full-ending-explained-and-your-questions-answered/#ftag=CAD590a51e)
+ - [15 STEM Toys Your Smarty-Pants Kids Will Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)
+ - [The best New York subway apps for iPhone and iPad in 2022](https://appleinsider.com/articles/22/12/05/the-best-new-york-subway-apps-for-iphone-and-ipad-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
