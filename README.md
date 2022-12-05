@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
- - 🚯 [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
- - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
+ - 🚖 [Authority level difference](http://9gag.com/gag/abvM5gL)
+ - 🚯 [The donkey approves.](http://9gag.com/gag/a2KoPxE)
+ - 🚯 [Terrible side profile*](http://9gag.com/gag/adPK6dN)<!-- MEMES:END -->
 
 --- 
 
