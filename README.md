@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five years after launch, heartfelt indie Rakuen is getting a &#39;major update&#39; and spin-off](https://www.pcgamer.com/five-years-after-launch-heartfelt-indie-rakuen-is-getting-a-major-update-and-spin-off)
- - [Halo Infinite multiplayer creative director departs 343 Industries](https://www.pcgamer.com/halo-infinite-multiplayer-creative-director-departs-343-industries)
- - [One of the NFL&#39;s best teams is full of Grand Theft Auto Online roleplayers](https://www.pcgamer.com/one-of-the-nfls-best-teams-is-full-of-grand-theft-auto-online-roleplayers)<!-- GAME:END -->
+ - [DLC-sized Skyrim mod adds fully voiced &#39;Bioware-style&#39; companions, over 9,000 lines of dialogue](https://www.pcgamer.com/dlc-sized-skyrim-mod-adds-fully-voiced-bioware-style-companions-over-9000-lines-of-dialogue)
+ - [Five new Steam games you probably missed &lpar;December 5, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-5-2022)
+ - [Very Good Air Horn Bug Has Sadly Been Patched Out Of Spider-Man: Miles Morales](https://kotaku.com/spider-man-air-horn-bug-funny-update-ps5-ps4-miles-1849852551)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
