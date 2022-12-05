@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress review](https://www.pcgamer.com/dwarf-fortress-review)
- - [Dwarf Fortress’ Steam version immediately punched me in the gut](https://www.polygon.com/reviews/23490038/dwarf-fortress-steam-review-release-date-pc)
- - [The best Genshin Impact Wanderer build](https://www.pcgamer.com/genshin-impact-wanderer-build-scaramouche)<!-- GAME:END -->
+ - [Everything you need to enjoy a gaming Christmas away from home](https://www.pcgamer.com/everything-you-need-to-enjoy-a-gaming-christmas-away-from-home)
+ - [Assassin’s Creed Valhalla’s Final Content Update, The Last Chapter, Out Now](https://news.xbox.com/en-us/2022/12/05/assassins-creed-valhalla-last-chapter-update/)
+ - [Callisto Protocol Devs Rush Out Patches For Busted PC And Xbox Versions, Promise More Updates](https://kotaku.com/callisto-protocol-ray-tracing-pc-ps5-series-x-patch-1849853589)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
