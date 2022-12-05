@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Please Stop Freaking Out About This Giant Yellow Spider](https://www.wired.com/story/please-stop-freaking-out-about-this-giant-yellow-spider/)
- - [DJI Osmo Action 3 Review: Cheaper and Nearly as Good as a GoPro](https://www.wired.com/review/dji-osmo-action-3/)
- - [2022 Game-of-the-Year Nominees Favored Indies With Animals](https://www.wired.com/story/game-of-the-year-2022-nominees-best-indie/)<!-- TECH:END -->
+ - [Home+ 6, Aqara T1 Pro, Eufy debacle &amp; several HomeKit mini reviews](https://appleinsider.com/articles/22/12/05/home-6-aqara-t1-pro-eufy-debacle-several-homekit-mini-reviews?utm_medium=rss)
+ - [Why automating trucking is harder than you think](https://www.theverge.com/2022/12/5/23490433/trucker-surveillance-autonomous-karen-levy-book-interview)
+ - [Secret Service report: China-linked APT41 hackers stole $20M+ in US COVID-19 relief benefits, the first example of pandemic fraud by state-affiliated hackers &lpar;NBC News&rpar;](http://www.techmeme.com/221205/p11#a221205p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
