@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A wide-ranging interview with Cory Doctorow on lessons from science fiction, Big Tech&#39;s comeuppance, surveillance capitalism, smart contracts, dApps, and more &lpar;Christopher Byrd/New Yorker&rpar;](http://www.techmeme.com/221205/p3#a221205p3)
- - [Chrome OS just got this Windows 95 feature](https://www.androidauthority.com/google-chrome-os-windows-95-feature-3244369/)
- - [Daily Authority: 🧑‍🤝‍🧑 Top tips for snoozing social media](https://www.androidauthority.com/daily-authority-december-5-2022-3244345/)<!-- TECH:END -->
+ - [What is Google Messages and how to use it](https://www.androidauthority.com/what-is-google-messages-3242467/)
+ - [Take an unofficial look at this official OnePlus 11 render](https://www.androidauthority.com/oneplus-11-design-3244394/)
+ - [Survey of 8,000 young people in nine European countries finds 34% have pirated content, 27% reported trolling someone, 22% reported inciting violence, and more &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221205/p5#a221205p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
