@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [VAR enhance of the japan goal controversy. Technology is here to be extremely fair.](http://9gag.com/gag/awZQR7D)
- - 🚯 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - 🚯 [Authority level difference](http://9gag.com/gag/abvM5gL)<!-- MEMES:END -->
+ - 🚯 [\u2026.](http://9gag.com/gag/amA2D59)
+ - 🚯 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
 
 --- 
 
