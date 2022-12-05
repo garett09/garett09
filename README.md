@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Shooters Of 2022](https://kotaku.com/best-shooters-2022-pc-destiny-warzone-fortnite-apex-1849853877)
- - [Star Wars Jedi: Survivor Leak Makes Early 2023 Look Like Mayhem](https://kotaku.com/star-wars-jedi-fallen-order-survivor-release-date-steam-1849853989)
- - [How to print The Rise of the Video Game Union zine](https://www.polygon.com/guides/23485970/video-game-union-zine-printing-instructions)<!-- GAME:END -->
+ - [Overwatch 2&#39;s new tank hero Ramattra will need a support babysitter to thrive](https://www.pcgamer.com/overwatch-2s-new-tank-hero-ramattra-will-need-a-support-babysitter-to-thrive)
+ - [Photo Mode now available in God of War Ragnarök](https://blog.playstation.com/2022/12/05/photo-mode-now-available-in-god-of-war-ragnarok/)
+ - [Conquer a New Threat in Sniper Elite 5 –  Plus, a Free New DLC for All Players](https://news.xbox.com/en-us/2022/12/05/conquer-a-new-threat-in-sniper-elite-5-plus-a-free-new-dlc-for-all-players/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
