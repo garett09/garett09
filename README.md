@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)
- - 🚯 [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
- - 🚯 [An Argentine reporter, after her wallet was stolen by a fan in Qatar, stated: `The police asked me how I want to punish the offender and choose between imprisoning him for 5 years or deporting him from the country immediately.`](http://9gag.com/gag/a4o7pXv)<!-- MEMES:END -->
+ - 🚖 [DO IT!](http://9gag.com/gag/aEqxzEn)
+ - 🚯 [Japan manager Hajime Moriyasu bows to the fans to thank them for their support](http://9gag.com/gag/aL1j2Y6)
+ - 🚯 [Germans be like: `I did a journalism!`](http://9gag.com/gag/a2Komed)<!-- MEMES:END -->
 
 --- 
 
