@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creators of Journey return to PlayStation with Sky: Children of the Light, out December 6](https://blog.playstation.com/2022/12/05/creators-of-journey-return-to-playstation-with-sky-children-of-the-light-out-december-6/)
- - [Why precision matters: The best esports plays of 2022](https://www.pcgamer.com/why-precision-matters-the-best-esports-plays-of-2022)
- - [How to watch The Game Awards 2022](https://www.polygon.com/game-awards-tga/23490527/the-game-awards-ceremony-date-time-vote-nominees-when-is)<!-- GAME:END -->
+ - [Dwarf Fortress review](https://www.pcgamer.com/dwarf-fortress-review)
+ - [Dwarf Fortress’ Steam version immediately punched me in the gut](https://www.polygon.com/reviews/23490038/dwarf-fortress-steam-review-release-date-pc)
+ - [The best Genshin Impact Wanderer build](https://www.pcgamer.com/genshin-impact-wanderer-build-scaramouche)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
