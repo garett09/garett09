@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saudi arabia](http://9gag.com/gag/aBdxwBz)
- - 🚯 [Authority level difference](http://9gag.com/gag/abvM5gL)
- - 🚯 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)<!-- MEMES:END -->
+ - 🚖 [What th... What am I watching?](http://9gag.com/gag/aOxrv2N)
+ - 🚯 [Gooooooood](http://9gag.com/gag/aL1j89x)
+ - 🚯 [Tired of life?](http://9gag.com/gag/a6qoVR8)<!-- MEMES:END -->
 
 --- 
 
