@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Bike Computers &lpar;2022&rpar;: Garmin, Wahoo, Bontrager, Hammerhead](https://www.wired.com/gallery/bike-computers-buying-guide/)
- - [Polestar 2 gets an over-the-air performance boost ‘without the hassle of a subscription’](https://www.theverge.com/2022/12/6/23495253/polestar-2-performance-ota-upgrade-software-subscription)
- - [My weather app is now a dating sim](https://www.theverge.com/2022/12/6/23494827/carrot-weather-5-9-update-romance-relationship-layouts)<!-- TECH:END -->
+ - [Apple Card review 2022: Great for Apple buys, lacking everywhere else](https://appleinsider.com/articles/22/12/06/apple-card-review-2022-great-for-apple-buys-lacking-everywhere-else?utm_medium=rss)
+ - [Apple Music Sing turns iPhone &amp; Apple TV into karaoke machine](https://appleinsider.com/articles/22/12/06/apple-music-sing-turns-iphone-apple-tv-into-karaoke-machine?utm_medium=rss)
+ - [Best Apple repair toolkit essentials: Bits, screwdrivers, tweezers, opening tools, more](https://appleinsider.com/inside/iphone/best/best-apple-repair-toolkit-essentials?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
