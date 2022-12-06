@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kynseed review](https://www.pcgamer.com/kynseed-review)
- - [8 things you should know before starting Dwarf Fortress](https://www.polygon.com/guides/23487923/dwarf-fortress-beginner-tips-tricks-jobs-warnings-zones)
- - [Phishing scammers impersonate WhatsApp by buying a top ad spot on Google](https://www.pcgamer.com/whatsapp-web-china-scam-phishing)<!-- GAME:END -->
+ - [Watch the launch trailer for Destiny 2&#39;s Season of the Seraph](https://www.pcgamer.com/watch-the-launch-trailer-for-destiny-2s-season-of-the-seraph)
+ - [The best comics of 2022](https://www.polygon.com/2022/12/6/23488554/best-comics-2022-graphic-novels)
+ - [Third-Person Platform Fighter, Divine Knockout, Available Now on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/12/06/divine-knockout-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
