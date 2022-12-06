@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S20 series receives its December security update](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [How to secure iPads in medical offices, retail stores and more with Maclocks](https://appleinsider.com/articles/22/12/05/securing-ipads-in-medical-offices-retail-stores-with-maclocks?utm_medium=rss)
- - [How and why to use parental controls in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-and-why-to-use-parental-controls-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [How and why to use parental controls in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-and-why-to-use-parental-controls-in-macos-ventura?utm_medium=rss)
+ - [OtterBox Fre Series Case Review: Waterproof Your iPhone](https://appleinsider.com/articles/22/12/06/otterbox-fre-series-case-review-waterproof-your-iphone?utm_medium=rss)
+ - [Deals: Apple&#39;s M1 MacBook Pro drops to $999, save up to $500](https://appleinsider.com/articles/22/12/06/deals-apples-m1-macbook-pro-drops-to-999-save-up-to-500?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
