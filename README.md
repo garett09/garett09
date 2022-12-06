@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn noise-cancelling on or off on your Beats Studio 3](https://www.androidauthority.com/turn-on-noise-cancellation-beats-studio-3-3246037/)
- - [How to turn off the always-on display on an iPhone 14](https://www.androidauthority.com/how-to-turn-off-always-on-display-iphone-3246050/)
- - [Apple, AMD, and Nvidia have all indicated plans to buy chips from TSMC&#39;s planned Arizona fabs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221206/p43#a221206p43)<!-- TECH:END -->
+ - [Apple picks up ten Critics Choice Awards nominations](https://appleinsider.com/articles/22/12/06/apple-picks-up-ten-critics-choice-award-nominations?utm_medium=rss)
+ - [Chrome ‘@’ shortcuts search tabs, bookmarks, and history right from the address bar](https://www.theverge.com/2022/12/6/23496839/google-chrome-site-search-shortcuts-tabs-bookmarks-history)
+ - [How to charge your Beats Studio Buds](https://www.androidauthority.com/how-to-charge-beats-studio-buds-3246099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
