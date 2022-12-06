@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot’s League of Legends fighting game has a very deep tag system](https://www.polygon.com/23494770/riot-games-project-l-fighting-game-tag-system)
- - [GameStop Gets Into Holiday Spirit With More Layoffs](https://kotaku.com/gamestop-layoffs-meme-stock-crypto-blockchain-1849856122)
- - [After Backlash, Overwatch 2&#39;s New Tank Will Be Easier To Unlock For Free](https://kotaku.com/overwatch-2-new-hero-unlock-ramattra-season-2-battle-pa-1849856021)<!-- GAME:END -->
+ - [Rebellion is giving away Aliens vs Predator Classic 2000 on Steam](https://www.pcgamer.com/rebellion-is-giving-away-aliens-vs-predator-classic-2000-on-steam)
+ - [Apparently, you&#39;ve been able to download Bungie&#39;s first 3 FPSes for free for the past 17 years](https://www.pcgamer.com/apparently-youve-been-able-to-download-bungies-first-3-fpses-for-free-for-the-past-17-years)
+ - [Petting a dog in a videogame has never been more important than in Midnight Suns](https://www.pcgamer.com/midnight-suns-charlie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
