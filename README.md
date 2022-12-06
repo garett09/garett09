@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search brings continuous scrolling to desktop](https://www.theverge.com/2022/12/6/23495973/google-search-desktop-continuous-scrolling)
- - [Daily Authority: 📱 Pick your phone of the year](https://www.androidauthority.com/daily-authority-december-6-2022-3244507/)
- - [Apple’s DIY repair service launches in Europe](https://www.theverge.com/2022/12/6/23495979/apple-iphone-diy-repair-self-service-program-europe-spare-parts-12-13-macbook)<!-- TECH:END -->
+ - [&#39;Slow Horses&#39; nominated for UK Writers&#39; Guild award](https://appleinsider.com/articles/22/12/06/slow-horses-nominated-for-uk-writers-guild-award?utm_medium=rss)
+ - [Microsoft&#39;s President discusses the FTC opposing the Activision Blizzard acquisition and says the company offered Sony a 10-year Call of Duty licensing deal &lpar;Brad Smith/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p12#a221206p12)
+ - [Meta Oversight Board demands changes to ‘cross-check’ program that protected Donald Trump](https://www.theverge.com/2022/12/6/23495248/meta-oversight-board-cross-check-program-report-recommendations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
