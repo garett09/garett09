@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Krampus Kills, the Scariest Christmas Game of All Time?](https://news.xbox.com/en-us/2022/12/06/krampus-kills-the-scariest-christmas-game-of-all-time/)
- - [Back 4 Blood’s Third Expansion, River of Blood, Available Today](https://news.xbox.com/en-us/2022/12/06/back-4-bloods-third-expansion-river-of-blood-available-today/)
- - [This Mini Sega Arcade Cabinet Packed With Retro Games Would Make A Great Gift](https://kotaku.com/arcade-games-sega-retro-holiday-gift-classic-zaxxon-1849824745)<!-- GAME:END -->
+ - [The Witcher’s take on Pokémon Go is coming to a stop](https://www.polygon.com/23497135/the-witcher-monster-slayer-shutdown-mobile-game-pokemon-go)
+ - [Where to find the Elemental Rods in Marvel’s Midnight Suns](https://www.polygon.com/guides/23495553/elemental-earth-fire-air-water-rod-agatha-word-of-power-atum)
+ - [How to solve the Standing Stones puzzle in Marvel’s Midnight Suns](https://www.polygon.com/guides/23495624/standing-stones-solution-legendary-chest-atum-sigils)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
