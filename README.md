@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
- - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)
+ - 🚖 [Found this on way to work. True NCR legend](http://9gag.com/gag/amA7Xp4)
+ - 🚯 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
  - 🚯 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
 
 --- 
