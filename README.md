@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What th... What am I watching?](http://9gag.com/gag/aOxrv2N)
- - 🚯 [Gooooooood](http://9gag.com/gag/aL1j89x)
- - 🚯 [Tired of life?](http://9gag.com/gag/a6qoVR8)<!-- MEMES:END -->
+ - 🚖 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - 🚯 [Sigma male commented](http://9gag.com/gag/az2XryK)
+ - 🚯 [New year resolutions &lpar;sorry for low quality&rpar;](http://9gag.com/gag/aKEjDB3)<!-- MEMES:END -->
 
 --- 
 
