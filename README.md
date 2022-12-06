@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - 🚯 [Sigma male commented](http://9gag.com/gag/az2XryK)
- - 🚯 [New year resolutions &lpar;sorry for low quality&rpar;](http://9gag.com/gag/aKEjDB3)<!-- MEMES:END -->
+ - 🚖 [Ryan Babel mocking player diving](http://9gag.com/gag/avQOrjM)
+ - 🚯 [Now im pith off](http://9gag.com/gag/aqe77bR)
+ - 🚯 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)<!-- MEMES:END -->
 
 --- 
 
