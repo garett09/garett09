@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [DO IT!](http://9gag.com/gag/aEqxzEn)
- - 🚯 [Japan manager Hajime Moriyasu bows to the fans to thank them for their support](http://9gag.com/gag/aL1j2Y6)
- - 🚯 [Germans be like: `I did a journalism!`](http://9gag.com/gag/a2Komed)<!-- MEMES:END -->
+ - 🚖 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
+ - 🚯 [Goodbye mate](http://9gag.com/gag/amA79oy)
+ - 🚯 [How Sierpinski&#39;s Triangle - a famous fractal - originates from a simple rule](http://9gag.com/gag/aYVgwRx)<!-- MEMES:END -->
 
 --- 
 
