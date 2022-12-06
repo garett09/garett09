@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s like unwrapping a christmas presents](http://9gag.com/gag/amA7Xxv)
- - 🚯 [What is the difference?](http://9gag.com/gag/agoYRpq)
- - 🚯 [Bro discovered a new move](http://9gag.com/gag/ap920x5)<!-- MEMES:END -->
+ - 🚖 [What is the difference?](http://9gag.com/gag/agoYRpq)
+ - 🚯 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
+ - 🚯 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
 
 --- 
 
