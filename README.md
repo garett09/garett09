@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We live in a world!](http://9gag.com/gag/a04KpDd)
- - 🚯 [Now im pith off](http://9gag.com/gag/aqe77bR)
- - 🚯 [Happy independence day Finland!](http://9gag.com/gag/aL1jgRV)<!-- MEMES:END -->
+ - 🚖 [This brilliant illusion may completely dissappear once you know it was just some white paint.](http://9gag.com/gag/aBdx18Q)
+ - 🚯 [Alpha](http://9gag.com/gag/aL1jjqz)
+ - 🚯 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)<!-- MEMES:END -->
 
 --- 
 
