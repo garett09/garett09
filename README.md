@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook confirms the company will use chips made in Arizona](https://appleinsider.com/articles/22/12/06/apple-ceo-tim-cook-confirms-the-company-will-use-chips-made-in-arizona?utm_medium=rss)
- - [Ford is demanding its dealers get serious about EVs — two-thirds say they’re in](https://www.theverge.com/2022/12/6/23496960/ford-ev-dealer-investment-certification-charging)
- - [Apple Music Sing Adds &#39;Karaoke Mode&#39; to Streaming Songs](https://www.wired.com/story/apple-music-sing/)<!-- TECH:END -->
+ - [How to turn noise-cancelling on or off on your Beats Studio 3](https://www.androidauthority.com/turn-on-noise-cancellation-beats-studio-3-3246037/)
+ - [How to turn off the always-on display on an iPhone 14](https://www.androidauthority.com/how-to-turn-off-always-on-display-iphone-3246050/)
+ - [Apple, AMD, and Nvidia have all indicated plans to buy chips from TSMC&#39;s planned Arizona fabs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221206/p43#a221206p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
