@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How and why to use parental controls in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-and-why-to-use-parental-controls-in-macos-ventura?utm_medium=rss)
- - [OtterBox Fre Series Case Review: Waterproof Your iPhone](https://appleinsider.com/articles/22/12/06/otterbox-fre-series-case-review-waterproof-your-iphone?utm_medium=rss)
- - [Deals: Apple&#39;s M1 MacBook Pro drops to $999, save up to $500](https://appleinsider.com/articles/22/12/06/deals-apples-m1-macbook-pro-drops-to-999-save-up-to-500?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple scales back ambitious self-driving plans for its electric vehicle, now delayed to 2026 with a design that includes a steering wheel and pedals &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221206/p40#a221206p40)
+ - [17 Best Apple Deals: iPads, MacBooks, Apple Watches and AirPods](https://www.wired.com/story/apple-deals-december-2022/)
+ - [Are you a fan of The Chosen? Here are 7 other shows to watch next](https://www.androidauthority.com/shows-like-the-chosen-streaming-3244633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
