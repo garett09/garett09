@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher’s take on Pokémon Go is coming to a stop](https://www.polygon.com/23497135/the-witcher-monster-slayer-shutdown-mobile-game-pokemon-go)
- - [Where to find the Elemental Rods in Marvel’s Midnight Suns](https://www.polygon.com/guides/23495553/elemental-earth-fire-air-water-rod-agatha-word-of-power-atum)
- - [How to solve the Standing Stones puzzle in Marvel’s Midnight Suns](https://www.polygon.com/guides/23495624/standing-stones-solution-legendary-chest-atum-sigils)<!-- GAME:END -->
+ - [Gwent Being Left In The Cold As CD Projekt Red Plans To End Support](https://kotaku.com/witcher-3-cd-projeckt-red-gwent-cdpr-1849861433)
+ - [Warhammer 40K: Darktide runs shockingly well on the Steam Deck](https://www.pcgamer.com/warhammer-40k-darktide-runs-shockingly-well-on-the-steam-deck)
+ - [The Witcher’s take on Pokémon Go is coming to a stop](https://www.polygon.com/23497135/the-witcher-monster-slayer-shutdown-mobile-game-pokemon-go)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
