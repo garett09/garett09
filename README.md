@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege’s new season adds a new operator, map, and cross-play](https://www.polygon.com/23496719/rainbow-six-siege-solis-operation-solar-raid-cross-play-progression)
- - [Pokémon Scarlet and Violet gym leaders rematch guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23466830/gym-leader-rematch-party-team-counters-weaknesses-katy-brassius-iono-kofu-larry-tulip-ryme-grusha)
- - [Overwatch 2’s season 2 battle pass goes live: here’s what’s in it](https://www.polygon.com/23496487/overwatch-2-season-2-battle-pass-tiers-content-skins-coins)<!-- GAME:END -->
+ - [Krampus Kills, the Scariest Christmas Game of All Time?](https://news.xbox.com/en-us/2022/12/06/krampus-kills-the-scariest-christmas-game-of-all-time/)
+ - [Back 4 Blood’s Third Expansion, River of Blood, Available Today](https://news.xbox.com/en-us/2022/12/06/back-4-bloods-third-expansion-river-of-blood-available-today/)
+ - [This Mini Sega Arcade Cabinet Packed With Retro Games Would Make A Great Gift](https://kotaku.com/arcade-games-sega-retro-holiday-gift-classic-zaxxon-1849824745)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
