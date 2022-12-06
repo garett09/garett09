@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber reaches a $10M settlement with the City of Chicago for listing restaurants in Uber Eats and Postmates without consent and charging excess commissions &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221205/p26#a221205p26)
  - [SCOTUS refused to hear an appeal by Virginia-based Centripetal Networks to reinstate a $2.75B award to be paid by Cisco in a cybersecurity patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221205/p25#a221205p25)
- - [Mars &#39;Forest Bubble&#39;: 50 Acre Dome Proposed as Red Planet Nature Reserve     - CNET](https://www.cnet.com/science/space/mars-forest-bubble-50-acre-dome-proposed-as-red-planet-nature-reserve/#ftag=CAD590a51e)
- - [Neuralink Under Investigation for Potential Violation of Animal Welfare Act     - CNET](https://www.cnet.com/science/neuralink-under-investigation-for-potential-violation-of-animal-welfare-act/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mars &#39;Forest Bubble&#39;: 50 Acre Dome Proposed as Red Planet Nature Reserve     - CNET](https://www.cnet.com/science/space/mars-forest-bubble-50-acre-dome-proposed-as-red-planet-nature-reserve/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
