@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rebellion is giving away Aliens vs Predator Classic 2000 on Steam](https://www.pcgamer.com/rebellion-is-giving-away-aliens-vs-predator-classic-2000-on-steam)
- - [Apparently, you&#39;ve been able to download Bungie&#39;s first 3 FPSes for free for the past 17 years](https://www.pcgamer.com/apparently-youve-been-able-to-download-bungies-first-3-fpses-for-free-for-the-past-17-years)
- - [Petting a dog in a videogame has never been more important than in Midnight Suns](https://www.pcgamer.com/midnight-suns-charlie)<!-- GAME:END -->
+ - [Four Features That I Must Insist Every Game Includes](https://kotaku.com/video-game-new-features-design-ideas-npc-call-beremy-1849856036)
+ - [Fortnite has become a graphical powerhouse overnight](https://www.pcgamer.com/fortnite-has-become-a-graphical-powerhouse-overnight)
+ - [Rebellion is giving away Aliens vs Predator Classic 2000 on Steam](https://www.pcgamer.com/rebellion-is-giving-away-aliens-vs-predator-classic-2000-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
