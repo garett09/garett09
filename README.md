@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors’ first DLC expansion launches next week](https://www.polygon.com/23496479/vampire-survivors-dlc-release-date-steam-xbox-legacy-of-the-moonspell)
- - [AMD&#39;s RX 7900 XT/X reference cards reportedly not shipping to China because the packaging says &#39;Made in Taiwan&#39;](https://www.pcgamer.com/amds-rx-7900-xtx-reference-cards-reportedly-not-shipping-to-china-because-the-packaging-says-made-in-taiwan)
- - [Pokémon Scarlet And Violet’s Passive EXP Hack Feels Too Cruel To Use](https://kotaku.com/pokemon-scarlet-violet-passive-exp-hack-tips-how-to-1849858758)<!-- GAME:END -->
+ - [PlayStation Plus’ December games are Mass Effect and a new multiplayer brawler](https://www.polygon.com/23484042/playstation-plus-december-2022-games-essentials-ps4-ps5-mass-effect-biomutant)
+ - [The Callisto Protocol Director Blames Launch Issues On &#39;A Damn Clerical Error&#39;](https://kotaku.com/callisto-protocol-steam-ps5-bugs-glen-schofield-twitter-1849859440)
+ - [Hunt for Sorcerer Skulls in Conan Exiles: Age of Sorcery — Chapter 2](https://news.xbox.com/en-us/2022/12/06/hunt-for-sorcerer-skulls-in-conan-exiles-age-of-sorcery-chapter-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
