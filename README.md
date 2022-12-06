@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Steam Deck accessories in 2022](https://www.pcgamer.com/best-steam-deck-accessories)
  - [Crisis Core: Final Fantasy 7 Reunion review](https://www.pcgamer.com/crisis-core-final-fantasy-7-reunion-review)
- - [Crisis Core: Final Fantasy 7 Reunion is a vital reimagining in the revered saga](https://www.polygon.com/reviews/23494351/crisis-core-final-fantasy-7-reunion-review-release-date-square-enix-ff7)
- - [Today&#39;s Wordle answer and hint for Tuesday, December 6](https://www.pcgamer.com/wordle-535-answer-december-6)<!-- GAME:END -->
+ - [Crisis Core: Final Fantasy 7 Reunion is a vital reimagining in the revered saga](https://www.polygon.com/reviews/23494351/crisis-core-final-fantasy-7-reunion-review-release-date-square-enix-ff7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
