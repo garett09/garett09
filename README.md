@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
- - [Apple may shift some iPad production away from China to India](https://www.theverge.com/2022/12/5/23494901/apple-ipad-china-india-supply-chain-protests)
- - [This MacBook Pro 13-inch with 16GB RAM, 512GB SSD is $899 today only](https://appleinsider.com/articles/22/12/05/this-macbook-pro-13-inch-with-16gb-ram-512gb-ssd-is-899-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Save $200 on Apple&#39;s M2 MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/22/12/06/save-200-on-apples-m2-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
+ - [The NRLB says Apple interrogated and coerced employees in Atlanta](https://www.theverge.com/2022/12/5/23495357/apple-atlanta-union-cwa-nlrb-complaint-coercing-interrogating)
+ - [Runway, one of the two startups behind Stable Diffusion, raised a $50M Series C led by Felicis Ventures; sources: Runway&#39;s valuation is $500M, and ARR is ~$1M &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/221205/p24#a221205p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
