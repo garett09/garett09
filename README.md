@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This brilliant illusion may completely dissappear once you know it was just some white paint.](http://9gag.com/gag/aBdx18Q)
- - 🚯 [Alpha](http://9gag.com/gag/aL1jjqz)
- - 🚯 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)<!-- MEMES:END -->
+ - 🚖 [Saudi arabia](http://9gag.com/gag/aBdxwBz)
+ - 🚯 [Japan](http://9gag.com/gag/aKEjjeZ)
+ - 🚯 [In Japan, how smartphones are disinfected at local fast food restaurants](http://9gag.com/gag/amA77Vv)<!-- MEMES:END -->
 
 --- 
 
