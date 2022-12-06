@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found this on way to work. True NCR legend](http://9gag.com/gag/amA7Xp4)
- - 🚯 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
- - 🚯 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
+ - 🚖 [Saudi arabia](http://9gag.com/gag/aBdxwBz)
+ - 🚯 [Authority level difference](http://9gag.com/gag/abvM5gL)
+ - 🚯 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)<!-- MEMES:END -->
 
 --- 
 
