@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the launch trailer for Destiny 2&#39;s Season of the Seraph](https://www.pcgamer.com/watch-the-launch-trailer-for-destiny-2s-season-of-the-seraph)
- - [The best comics of 2022](https://www.polygon.com/2022/12/6/23488554/best-comics-2022-graphic-novels)
- - [Third-Person Platform Fighter, Divine Knockout, Available Now on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/12/06/divine-knockout-out-now/)<!-- GAME:END -->
+ - [Uncover the Secret Origin of Cheesy Gubbins in Two Point Campus: Space Academy](https://news.xbox.com/en-us/2022/12/06/two-point-campus-space-academy-dlc/)
+ - [Support for Gwent: The Witcher Card Game is coming to an end](https://www.polygon.com/23496337/gwent-shutting-down-support-sunset-witcher-card-game-project-gwentfinity)
+ - [The 11 biggest changes in Dwarf Fortress’ Steam release](https://www.polygon.com/guides/23494480/dwarf-fortress-biggest-changes-stream-graphics-menu-keyboard-shortcuts-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
