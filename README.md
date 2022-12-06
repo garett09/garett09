@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley Goes from the Toy Box to the Stars in Latest Content Update, Missions in Uncharted Space](https://news.xbox.com/en-us/2022/12/06/disney-dreamlight-valley-missions-in-uncharted-space-content-update/)
- - [Portal’s ray-tracing upgrade makes it weirdly scary](https://www.polygon.com/reviews/23494911/portal-rtx-review-ray-tracing-nvidia-valve)
- - [Avatar Legends DLC Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/12/06/avatar-legends-dlc-now-available-in-the-minecraft-marketplace/)<!-- GAME:END -->
+ - [Rainbow Six Siege’s new season adds a new operator, map, and cross-play](https://www.polygon.com/23496719/rainbow-six-siege-solis-operation-solar-raid-cross-play-progression)
+ - [Pokémon Scarlet and Violet gym leaders rematch guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23466830/gym-leader-rematch-party-team-counters-weaknesses-katy-brassius-iono-kofu-larry-tulip-ryme-grusha)
+ - [Overwatch 2’s season 2 battle pass goes live: here’s what’s in it](https://www.polygon.com/23496487/overwatch-2-season-2-battle-pass-tiers-content-skins-coins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
