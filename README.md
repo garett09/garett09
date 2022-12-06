@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)
- - 🚯 [It&#39;s like unwrapping a christmas presents](http://9gag.com/gag/amA7Xxv)
- - 🚯 [What is the difference?](http://9gag.com/gag/agoYRpq)<!-- MEMES:END -->
+ - 🚖 [It&#39;s like unwrapping a christmas presents](http://9gag.com/gag/amA7Xxv)
+ - 🚯 [What is the difference?](http://9gag.com/gag/agoYRpq)
+ - 🚯 [Bro discovered a new move](http://9gag.com/gag/ap920x5)<!-- MEMES:END -->
 
 --- 
 
