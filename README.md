@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card review 2022: Great for Apple buys, lacking everywhere else](https://appleinsider.com/articles/22/12/06/apple-card-review-2022-great-for-apple-buys-lacking-everywhere-else?utm_medium=rss)
- - [Apple Music Sing turns iPhone &amp; Apple TV into karaoke machine](https://appleinsider.com/articles/22/12/06/apple-music-sing-turns-iphone-apple-tv-into-karaoke-machine?utm_medium=rss)
- - [Best Apple repair toolkit essentials: Bits, screwdrivers, tweezers, opening tools, more](https://appleinsider.com/inside/iphone/best/best-apple-repair-toolkit-essentials?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S20 series receives its December security update](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [How to secure iPads in medical offices, retail stores and more with Maclocks](https://appleinsider.com/articles/22/12/05/securing-ipads-in-medical-offices-retail-stores-with-maclocks?utm_medium=rss)
+ - [How and why to use parental controls in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-and-why-to-use-parental-controls-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
