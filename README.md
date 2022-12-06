@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hong Kong officials and legislators criticize Google over a pro-democracy song, &quot;Glory to Kong Kong&quot;, appearing among the top results for the national anthem &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p18#a221206p18)
- - [FCC commissioner urges DOJ to investigate Apple and TikTok](https://appleinsider.com/articles/22/12/06/fcc-commissioner-urges-doj-to-investigate-apple-and-tiktok?utm_medium=rss)
- - [&#39;Inadequate&#39; AirTag&#39;s anti-stalking features lead to lawsuit](https://appleinsider.com/articles/22/12/06/inadequate-airtags-anti-stalking-features-lead-to-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Dec. 6: $500 off M1 13-inch MacBook Pro, $269 2021 10.2-inch iPad, Up to 32% off Cricut Explore Air 2, more](https://appleinsider.com/articles/22/12/06/daily-deals-dec-6-500-off-m1-13-inch-macbook-pro-269-2021-102-inch-ipad-up-to-32-off-cricut-explore-air-2-more?utm_medium=rss)
+ - [HBO &amp; Discovery may have settled on &#39;Max&#39; for combined streaming name](https://appleinsider.com/articles/22/12/06/hbo-discovery-may-have-settled-on-max-for-combined-streaming-name?utm_medium=rss)
+ - [A Good Fountain Pen—Like the Lamy 2000—Lets You Enjoy the Finer Things in Life](https://www.wired.com/story/lamy-2000-fountain-pen-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
