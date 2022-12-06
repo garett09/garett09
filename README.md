@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [We live in a world!](http://9gag.com/gag/a04KpDd)
- - 🚯 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)
- - 🚯 [Saudi arabia](http://9gag.com/gag/aBdxwBz)<!-- MEMES:END -->
+ - 🚯 [Now im pith off](http://9gag.com/gag/aqe77bR)
+ - 🚯 [Happy independence day Finland!](http://9gag.com/gag/aL1jgRV)<!-- MEMES:END -->
 
 --- 
 
