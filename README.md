@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ryan Babel mocking player diving](http://9gag.com/gag/avQOrjM)
- - 🚯 [Now im pith off](http://9gag.com/gag/aqe77bR)
- - 🚯 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)<!-- MEMES:END -->
+ - 🚖 [We live in a world!](http://9gag.com/gag/a04KpDd)
+ - 🚯 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)
+ - 🚯 [Saudi arabia](http://9gag.com/gag/aBdxwBz)<!-- MEMES:END -->
 
 --- 
 
