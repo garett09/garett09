@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is the difference?](http://9gag.com/gag/agoYRpq)
- - 🚯 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
+ - 🚖 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
+ - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)
  - 🚯 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
 
 --- 
