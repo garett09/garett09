@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s second-largest bank, VTB, is hit with a large DDoS attack causing its apps and website to go offline; &quot;IT Army of Ukraine&quot; claims credit for the attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221206/p41#a221206p41)
- - [How I learned that Google Lens is more than a gimmick](https://www.theverge.com/23496478/google-lens-apps-smart-home)
- - [New Apple Car rumor suggests 2026 debut at less than $100,000](https://appleinsider.com/articles/22/12/06/new-apple-car-rumor-suggests-2026-debut-at-less-than-100000?utm_medium=rss)<!-- TECH:END -->
+ - [Apple CEO Tim Cook confirms the company will use chips made in Arizona](https://appleinsider.com/articles/22/12/06/apple-ceo-tim-cook-confirms-the-company-will-use-chips-made-in-arizona?utm_medium=rss)
+ - [Ford is demanding its dealers get serious about EVs — two-thirds say they’re in](https://www.theverge.com/2022/12/6/23496960/ford-ev-dealer-investment-certification-charging)
+ - [Apple Music Sing Adds &#39;Karaoke Mode&#39; to Streaming Songs](https://www.wired.com/story/apple-music-sing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
