@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple scales back ambitious self-driving plans for its electric vehicle, now delayed to 2026 with a design that includes a steering wheel and pedals &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221206/p40#a221206p40)
- - [17 Best Apple Deals: iPads, MacBooks, Apple Watches and AirPods](https://www.wired.com/story/apple-deals-december-2022/)
- - [Are you a fan of The Chosen? Here are 7 other shows to watch next](https://www.androidauthority.com/shows-like-the-chosen-streaming-3244633/)<!-- TECH:END -->
+ - [Russia&#39;s second-largest bank, VTB, is hit with a large DDoS attack causing its apps and website to go offline; &quot;IT Army of Ukraine&quot; claims credit for the attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221206/p41#a221206p41)
+ - [How I learned that Google Lens is more than a gimmick](https://www.theverge.com/23496478/google-lens-apps-smart-home)
+ - [New Apple Car rumor suggests 2026 debut at less than $100,000](https://appleinsider.com/articles/22/12/06/new-apple-car-rumor-suggests-2026-debut-at-less-than-100000?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
