@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Slow Horses&#39; nominated for UK Writers&#39; Guild award](https://appleinsider.com/articles/22/12/06/slow-horses-nominated-for-uk-writers-guild-award?utm_medium=rss)
- - [Microsoft&#39;s President discusses the FTC opposing the Activision Blizzard acquisition and says the company offered Sony a 10-year Call of Duty licensing deal &lpar;Brad Smith/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p12#a221206p12)
- - [Meta Oversight Board demands changes to ‘cross-check’ program that protected Donald Trump](https://www.theverge.com/2022/12/6/23495248/meta-oversight-board-cross-check-program-report-recommendations)<!-- TECH:END -->
+ - [Hong Kong officials and legislators criticize Google over a pro-democracy song, &quot;Glory to Kong Kong&quot;, appearing among the top results for the national anthem &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p18#a221206p18)
+ - [FCC commissioner urges DOJ to investigate Apple and TikTok](https://appleinsider.com/articles/22/12/06/fcc-commissioner-urges-doj-to-investigate-apple-and-tiktok?utm_medium=rss)
+ - [&#39;Inadequate&#39; AirTag&#39;s anti-stalking features lead to lawsuit](https://appleinsider.com/articles/22/12/06/inadequate-airtags-anti-stalking-features-lead-to-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
