@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
- - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)
- - 🚯 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
+ - 🚖 [Some good news!](http://9gag.com/gag/aQE39oz)
+ - 🚯 [Choose difficulty](http://9gag.com/gag/aNw1Z83)
+ - 🚯 [Nobody reads this](http://9gag.com/gag/aoKN152)<!-- MEMES:END -->
 
 --- 
 
