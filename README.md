@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram debuts transparency tools to let users with professional accounts, like businesses and creators, know if their content is ineligible to be recommended &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221207/p35#a221207p35)
- - [You can&#39;t combine two Apple IDs -- but here&#39;s what you can do](https://appleinsider.com/inside/icloud/tips/you-cant-combine-two-apple-ids----but-heres-what-you-can-do?utm_medium=rss)
- - [Want more shows like His Dark Materials? What to watch after the final season](https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/)<!-- TECH:END -->
+ - [How to enable end-to-end encryption for your iCloud backups](https://www.theverge.com/23498690/apple-advanced-data-protection-icloud-encryption-iphone-mac-how-to)
+ - [Apple prepares to roll out 5G support in India before 2023](https://appleinsider.com/articles/22/12/07/apple-prepares-to-roll-out-5g-support-in-india-before-2023?utm_medium=rss)
+ - [Indiana sues TikTok for misleading users on child safety and data security](https://www.theverge.com/2022/12/7/23499017/tiktok-china-bytedance-lawsuit-mature-content-national-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
