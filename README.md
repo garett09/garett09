@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reaches 10-year deal with Nintendo for Call of Duty](https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement)
- - [Wordle, Elections Dominated Google Searches in 2022     - CNET](https://www.cnet.com/culture/internet/wordle-elections-dominated-google-searches-in-2022/#ftag=CAD590a51e)
- - [WhatsApp is adding official support for Meta’s Bitmoji-style avatars](https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers)<!-- TECH:END -->
+ - [Elon Musk says Twitter&#39;s deputy general counsel Jim Baker was &quot;exited&quot;, citing &quot;concerns&quot; over the &quot;suppression of information&quot; related to the &quot;Twitter Files&quot; &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/221207/p6#a221207p6)
+ - [Facing a large deficit in its treasury, DeFi protocol Sushi proposes diverting fees from the Kanpai protocol and reduces its runway requirement from $9M to $5M &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/221207/p5#a221207p5)
+ - [Apple Music Sing turns iPhone &amp; Apple TV into karaoke machine](https://appleinsider.com/articles/22/12/06/apple-music-sing-turns-iphone-apple-tv-into-karaoke-machine?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
