@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
+ - 🚖 [Uncertainty](http://9gag.com/gag/a04KNmn)
  - 🚯 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
- - 🚯 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)<!-- MEMES:END -->
+ - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
 
 --- 
 
