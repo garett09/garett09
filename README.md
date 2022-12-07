@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple picks up ten Critics Choice Awards nominations](https://appleinsider.com/articles/22/12/06/apple-picks-up-ten-critics-choice-award-nominations?utm_medium=rss)
- - [Chrome ‘@’ shortcuts search tabs, bookmarks, and history right from the address bar](https://www.theverge.com/2022/12/6/23496839/google-chrome-site-search-shortcuts-tabs-bookmarks-history)
- - [How to charge your Beats Studio Buds](https://www.androidauthority.com/how-to-charge-beats-studio-buds-3246099/)<!-- TECH:END -->
+ - [How, in two years, JioMart grew to fulfill 600K grocery deliveries per day in 260 Indian cities, via WhatsApp integration and using Dunzo for last-mile delivery &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/221206/p46#a221206p46)
+ - [Holiday deals: 16-inch MacBook Pro falls to $1,989, 1TB model $2,289](https://appleinsider.com/articles/22/12/02/flash-deals-16-inch-macbook-pro-falls-to-1989-1tb-model-2289?utm_medium=rss)
+ - [Armored Dinosaurs Didn&#39;t Just Use Their Sledgehammer Tails to Fight T. rex     - CNET](https://www.cnet.com/science/biology/armored-dinosaurs-didnt-just-use-their-sledgehammer-tails-to-fight-t-rex/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
