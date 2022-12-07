@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotaxis are now available to hail on the Uber app in Las Vegas](https://www.theverge.com/2022/12/7/23496383/uber-motional-av-robotaxi-las-vegas-ridehail)
- - [Twitter ads for Amazon, Snap, Uber, and other major brands appeared on the pages of at least two white nationalists, whose accounts were restored by Elon Musk &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/221207/p10#a221207p10)
- - [Twitter advertisers aren’t happy with ads appearing on pages of white nationalists](https://www.theverge.com/2022/12/7/23497928/twitter-advertisers-brand-safety-unbanned-accounts-white-nationalists)<!-- TECH:END -->
+ - [OpenAI&#39;s ChatGPT presents a potentially serious threat to Google, offering quick, comprehensive answers to difficult questions that require no further searches &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/221207/p15#a221207p15)
+ - [Airbnb Is Running Riot in Small-Town America](https://www.wired.com/story/airbnb-rentals-sedona-arizona/)
+ - [How to use cheat.sh in macOS Terminal](https://appleinsider.com/articles/22/12/07/how-to-use-cheatsh-in-macos-terminal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
