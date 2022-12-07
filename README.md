@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX announces Starshield, expanding Starlink for military and government applications, initially focusing on imagery, communications, and &quot;hosted payloads&quot; &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/221207/p18#a221207p18)
- - [Disney Dreamlight Valley comes to Apple Silicon Mac](https://appleinsider.com/articles/22/12/07/disney-dreamlight-valley-comes-to-apple-silicon-mac?utm_medium=rss)
- - [Poll: How long does it take to fully charge your phone?](https://www.androidauthority.com/how-long-charge-phone-poll-3248397/)<!-- TECH:END -->
+ - [Mobileye reports Q3 revenue up 38% YoY to $450M, beating $447M estimates, and a $45M net loss, up from $26M YoY, in its first post-IPO earnings &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/221207/p22#a221207p22)
+ - [In 2022, Picking a Game of the Year Is Ridiculous](https://www.wired.com/story/no-more-game-of-the-year/)
+ - [6 Best Advent Calendars &lpar;2022&rpar;: Lego Star Wars, Bonne Maman, Molly J](https://www.wired.com/gallery/best-advent-calendars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
