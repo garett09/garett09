@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobileye reports Q3 revenue up 38% YoY to $450M, beating $447M estimates, and a $45M net loss, up from $26M YoY, in its first post-IPO earnings &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/221207/p22#a221207p22)
- - [In 2022, Picking a Game of the Year Is Ridiculous](https://www.wired.com/story/no-more-game-of-the-year/)
- - [6 Best Advent Calendars &lpar;2022&rpar;: Lego Star Wars, Bonne Maman, Molly J](https://www.wired.com/gallery/best-advent-calendars/)<!-- TECH:END -->
+ - [A Row Erupts Over Texas’ Bold Bitcoin Battery Plan](https://www.wired.com/story/bitcoin-texas-power-grid/)
+ - [The deep inequalities of Facebook’s secretive cross-check moderation program](https://www.theverge.com/2022/12/7/23498030/facebook-moderation-scandal-xcheck-cross-check)
+ - [A look at the digital asset diehards at Art Basel in Miami, who tried to ignore the fallout from FTX&#39;s collapse even as FTX merch remained, hidden in storerooms &lpar;Bloomberg&rpar;](http://www.techmeme.com/221207/p24#a221207p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
