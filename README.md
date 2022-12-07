@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo’s first flip phone could beat the Galaxy Z Flip 4 in several ways](https://www.androidauthority.com/oppo-find-n2-flip-specs-leak-3246244/)
- - [Researchers find industrial robot exposure among Chinese workers led to a 7.5% decline in employment, 9% drop in hourly wages, and 14% increase in hours worked &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/221207/p1#a221207p1)
- - [Microsoft Announces 10-Year Deal to Bring Call of Duty to Nintendo Consoles     - CNET](https://www.cnet.com/tech/gaming/microsoft-announces-10-year-deal-to-bring-call-of-duty-to-nintendo-consoles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple may have started work on a Macbook with foldable screen](https://www.androidauthority.com/apple-macbook-foldable-3246252/)
+ - [Atomico: European startups are on track to raise $85B in 2022, down from $100B+ in 2021; the European tech industry lost ~$400B in value, dropping to $2.7T &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221207/p2#a221207p2)
+ - [Oppo’s first flip phone could beat the Galaxy Z Flip 4 in several ways](https://www.androidauthority.com/oppo-find-n2-flip-specs-leak-3246244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
