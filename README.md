@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop burning trees for energy, scientists urge ahead of UN Biodiversity Conference](https://www.theverge.com/2022/12/7/23498050/un-biodiversity-conference-forest-bioenergy-trees-scientists-letter)
- - [Scammers Are Scamming Other Scammers Out of Millions of Dollars](https://www.wired.com/story/cybercrime-hackers-scams-forums/)
- - [Xbox brings gaming soundscapes to Calm app for sleeping and meditation](https://www.theverge.com/2022/12/7/23497994/xbox-calm-app-video-game-soundscape-sleeping-announcement)<!-- TECH:END -->
+ - [How to reset Beats headphones and earbuds](https://www.androidauthority.com/how-to-reset-beats-headphones-and-earbuds-3248537/)
+ - [Apple plans to launch Advanced Data Protection, offering E2EE on iCloud backups, Notes, Photos, and more, in the US in 2022 and globally including China in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221207/p30#a221207p30)
+ - [Apple Kills Its Plan to Scan Your Photos for CSAM. Here’s What’s Next](https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
