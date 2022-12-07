@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This brings joy...](http://9gag.com/gag/axo10rK)
- - 🚯 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
+ - 🚖 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
+ - 🚯 [That was really close](http://9gag.com/gag/a04KK6Q)
  - 🚯 [Surgeon](http://9gag.com/gag/aGEjeN0)<!-- MEMES:END -->
 
 --- 
