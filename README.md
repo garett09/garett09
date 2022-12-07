@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uncertainty](http://9gag.com/gag/a04KNmn)
- - 🚯 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
- - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
+ - 🚖 [This scene in Jack Reacher.](http://9gag.com/gag/a04KdMv)
+ - 🚯 [This round of Rock, paper and scissors](http://9gag.com/gag/ap92GVn)
+ - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)<!-- MEMES:END -->
 
 --- 
 
