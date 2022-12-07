@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
- - 🚯 [Some languages are... different](http://9gag.com/gag/a04KQ8v)
- - 🚯 [Completely normal phenomenon](http://9gag.com/gag/a2Ko48E)<!-- MEMES:END -->
+ - 🚖 [This scene in Jack Reacher.](http://9gag.com/gag/a04KdMv)
+ - 🚯 [Scare crow scares the crows](http://9gag.com/gag/aNw10PA)
+ - 🚯 [Callisto protocol](http://9gag.com/gag/amA75PV)<!-- MEMES:END -->
 
 --- 
 
