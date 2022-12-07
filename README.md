@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She lost her self esteem in 11 seconds.](http://9gag.com/gag/a5XoWnO)
+ - 🚖 [Need sauce](http://9gag.com/gag/aMEjYNW)
  - 🚯 [Uncertainty](http://9gag.com/gag/a04KNmn)
- - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
+ - 🚯 [F*CK the She Hulk series](http://9gag.com/gag/aL1jpDW)<!-- MEMES:END -->
 
 --- 
 
