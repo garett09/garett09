@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The M3GAN trailer is for all the horror-movie sickos who love to laugh](https://www.polygon.com/23498364/megan-trailer-release-date)
- - [Genshin Impact’s Great New Card Game Is Becoming My Favorite Time Sink](https://kotaku.com/genshin-impact-genius-invokation-tcg-hoyoverse-cards-1849864121)
- - [The best anime of 2022](https://www.polygon.com/22919571/best-anime-2022)<!-- GAME:END -->
+ - [Dead Island 2: A Day in the Life of a Slayer](https://news.xbox.com/en-us/2022/12/07/dead-island-2-a-day-in-the-life-of-a-slayer/)
+ - [Path of Titans Updates with a New World, First Pterosaurs, First Plesiosaurs! Gameplay Trailer Narrated by Robert Irwin](https://news.xbox.com/en-us/2022/12/07/path-of-titans-updates-with-a-new-world-first-pterosaurs-first-plesiosaurs-gameplay-trailer-narrated-by-robert-irwin/)
+ - [Dwarf Fortress hit its 2-month sales estimate in under 24 hours](https://www.pcgamer.com/dwarf-fortress-hit-its-2-month-sales-estimate-in-under-24-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
