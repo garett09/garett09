@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This brings joy...](http://9gag.com/gag/axo10rK)
- - 🚯 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
- - 🚯 [I own a coffee in Morocco and those are the last seconds before the end of the game.](http://9gag.com/gag/aL1jgpv)<!-- MEMES:END -->
+ - 🚖 [This scene in Jack Reacher.](http://9gag.com/gag/a04KdMv)
+ - 🚯 [Retired today](http://9gag.com/gag/aNw1YgG)
+ - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
 
 --- 
 
