@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s ChatGPT presents a potentially serious threat to Google, offering quick, comprehensive answers to difficult questions that require no further searches &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/221207/p15#a221207p15)
- - [Airbnb Is Running Riot in Small-Town America](https://www.wired.com/story/airbnb-rentals-sedona-arizona/)
- - [How to use cheat.sh in macOS Terminal](https://appleinsider.com/articles/22/12/07/how-to-use-cheatsh-in-macos-terminal?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX announces Starshield, expanding Starlink for military and government applications, initially focusing on imagery, communications, and &quot;hosted payloads&quot; &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/221207/p18#a221207p18)
+ - [Disney Dreamlight Valley comes to Apple Silicon Mac](https://appleinsider.com/articles/22/12/07/disney-dreamlight-valley-comes-to-apple-silicon-mac?utm_medium=rss)
+ - [Poll: How long does it take to fully charge your phone?](https://www.androidauthority.com/how-long-charge-phone-poll-3248397/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
