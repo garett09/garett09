@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This scene in Jack Reacher.](http://9gag.com/gag/a04KdMv)
- - 🚯 [Retired today](http://9gag.com/gag/aNw1YgG)
- - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
+ - 🚖 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - 🚯 [12 Years later, still one of the funniest videos on the internet.](http://9gag.com/gag/aVb3DMP)
+ - 🚯 [Saudi arabia](http://9gag.com/gag/aBdxwBz)<!-- MEMES:END -->
 
 --- 
 
