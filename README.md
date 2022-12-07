@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No you don&#39;t](http://9gag.com/gag/a9qpEV0)
- - 🚯 [Same parent &lpar;both white&rpar; made two completely different pups, even their sound are opposited as well.](http://9gag.com/gag/aOxr30v)
- - 🚯 [She lost her self esteem in 11 seconds.](http://9gag.com/gag/a5XoWnO)<!-- MEMES:END -->
+ - 🚖 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
+ - 🚯 [Some languages are... different](http://9gag.com/gag/a04KQ8v)
+ - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)<!-- MEMES:END -->
 
 --- 
 
