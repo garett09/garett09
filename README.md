@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is adding official support for Meta’s Bitmoji-style avatars](https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers)
- - [You can now sign up for Telegram without a SIM](https://www.androidauthority.com/telegram-register-without-sim-card-3246256/)
- - [Signature Bank plans to reduce its crypto-tied deposits by $8B-$10B to under 15%; as of September 2022, ~23.5% of the bank&#39;s $103B deposits came from crypto &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/221207/p4#a221207p4)<!-- TECH:END -->
+ - [Microsoft reaches 10-year deal with Nintendo for Call of Duty](https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement)
+ - [Wordle, Elections Dominated Google Searches in 2022     - CNET](https://www.cnet.com/culture/internet/wordle-elections-dominated-google-searches-in-2022/#ftag=CAD590a51e)
+ - [WhatsApp is adding official support for Meta’s Bitmoji-style avatars](https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
