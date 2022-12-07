@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saudi arabia](http://9gag.com/gag/aBdxwBz)
- - 🚯 [Japan](http://9gag.com/gag/aKEjjeZ)
- - 🚯 [In Japan, how smartphones are disinfected at local fast food restaurants](http://9gag.com/gag/amA77Vv)<!-- MEMES:END -->
+ - 🚖 [This brings joy...](http://9gag.com/gag/axo10rK)
+ - 🚯 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
+ - 🚯 [Surgeon](http://9gag.com/gag/aGEjeN0)<!-- MEMES:END -->
 
 --- 
 
