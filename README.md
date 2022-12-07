@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
- - 🚯 [Based skeletons](http://9gag.com/gag/a4o73gQ)
- - 🚯 [Thank god](http://9gag.com/gag/aqe7nxL)<!-- MEMES:END -->
+ - 🚖 [She lost her self esteem in 11 seconds.](http://9gag.com/gag/a5XoWnO)
+ - 🚯 [Uncertainty](http://9gag.com/gag/a04KNmn)
+ - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
 
 --- 
 
