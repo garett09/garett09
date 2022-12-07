@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to reset Beats headphones and earbuds](https://www.androidauthority.com/how-to-reset-beats-headphones-and-earbuds-3248537/)
- - [Apple plans to launch Advanced Data Protection, offering E2EE on iCloud backups, Notes, Photos, and more, in the US in 2022 and globally including China in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221207/p30#a221207p30)
- - [Apple Kills Its Plan to Scan Your Photos for CSAM. Here’s What’s Next](https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/)<!-- TECH:END -->
+ - [Apple&#39;s plan to scan iPhone photos for child abuse material is dead](https://appleinsider.com/articles/22/12/07/apples-plan-to-scan-iphone-photos-for-child-abuse-material-is-dead?utm_medium=rss)
+ - [Wednesday’s Top Tech News: Chips born in the USA](https://www.theverge.com/2022/12/7/23497958/december-7-2022-tech-news-liveblog)
+ - [Apple drops controversial plans for child sexual abuse imagery scanning](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
