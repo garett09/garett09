@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some languages are... different](http://9gag.com/gag/a04KQ8v)
- - 🚯 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)
- - 🚯 [Dutch law on &#39;sick days&#39;](http://9gag.com/gag/aPgj3ZR)<!-- MEMES:END -->
+ - 🚖 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - 🚯 [Dutch law on &#39;sick days&#39;](http://9gag.com/gag/aPgj3ZR)
+ - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
 
 --- 
 
