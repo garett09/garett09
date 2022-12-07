@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - 🚯 [12 Years later, still one of the funniest videos on the internet.](http://9gag.com/gag/aVb3DMP)
- - 🚯 [Saudi arabia](http://9gag.com/gag/aBdxwBz)<!-- MEMES:END -->
+ - 🚖 [Winner gets the lady :&rpar;](http://9gag.com/gag/avQOL7E)
+ - 🚯 [Retired today](http://9gag.com/gag/aNw1YgG)
+ - 🚯 [Completely normal phenomenon](http://9gag.com/gag/a2Ko48E)<!-- MEMES:END -->
 
 --- 
 
