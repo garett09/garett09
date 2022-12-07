@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This scene in Jack Reacher.](http://9gag.com/gag/a04KdMv)
- - 🚯 [This round of Rock, paper and scissors](http://9gag.com/gag/ap92GVn)
- - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)<!-- MEMES:END -->
+ - 🚖 [No you don&#39;t](http://9gag.com/gag/a9qpEV0)
+ - 🚯 [Same parent &lpar;both white&rpar; made two completely different pups, even their sound are opposited as well.](http://9gag.com/gag/aOxr30v)
+ - 🚯 [She lost her self esteem in 11 seconds.](http://9gag.com/gag/a5XoWnO)<!-- MEMES:END -->
 
 --- 
 
