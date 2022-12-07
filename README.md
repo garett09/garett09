@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congrats Morocco!](http://9gag.com/gag/a3ZKKnv)
- - 🚯 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - 🚯 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
+ - 🚖 [Single berry in a plate. Ridiculous portions at local restaurant](http://9gag.com/gag/aDYxz7K)
+ - 🚯 [That was really close](http://9gag.com/gag/a04KK6Q)
+ - 🚯 [This scene in Jack Reacher.](http://9gag.com/gag/a04KdMv)<!-- MEMES:END -->
 
 --- 
 
