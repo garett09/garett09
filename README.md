@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch streamer merges breastfeeding with ‘hot tub meta’ perfectly](https://www.polygon.com/23496654/twitch-streamer-hot-tub-meta-overlay-breastfeeding)
- - [Microsoft encourages &#39;strong cyber hygiene&#39; in light of increasing Russian cyberattacks](https://www.pcgamer.com/microsoft-encourages-strong-cyber-hygiene-in-light-of-increasing-russian-cyberattacks)
- - [Diablo 4 is the Diablo I&#39;ve been waiting for](https://www.pcgamer.com/diablo-4-preview)<!-- GAME:END -->
+ - [The M3GAN trailer is for all the horror-movie sickos who love to laugh](https://www.polygon.com/23498364/megan-trailer-release-date)
+ - [Genshin Impact’s Great New Card Game Is Becoming My Favorite Time Sink](https://kotaku.com/genshin-impact-genius-invokation-tcg-hoyoverse-cards-1849864121)
+ - [The best anime of 2022](https://www.polygon.com/22919571/best-anime-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
