@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winner gets the lady :&rpar;](http://9gag.com/gag/avQOL7E)
- - 🚯 [Retired today](http://9gag.com/gag/aNw1YgG)
- - 🚯 [Completely normal phenomenon](http://9gag.com/gag/a2Ko48E)<!-- MEMES:END -->
+ - 🚖 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - 🚯 [Ma man came fully equipped](http://9gag.com/gag/aRE37oB)
+ - 🚯 [It\u2019s Tiny but it\u2019s Home](http://9gag.com/gag/a1PoWbw)<!-- MEMES:END -->
 
 --- 
 
