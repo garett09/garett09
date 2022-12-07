@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How, in two years, JioMart grew to fulfill 600K grocery deliveries per day in 260 Indian cities, via WhatsApp integration and using Dunzo for last-mile delivery &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/221206/p46#a221206p46)
- - [Holiday deals: 16-inch MacBook Pro falls to $1,989, 1TB model $2,289](https://appleinsider.com/articles/22/12/02/flash-deals-16-inch-macbook-pro-falls-to-1989-1tb-model-2289?utm_medium=rss)
- - [Armored Dinosaurs Didn&#39;t Just Use Their Sledgehammer Tails to Fight T. rex     - CNET](https://www.cnet.com/science/biology/armored-dinosaurs-didnt-just-use-their-sledgehammer-tails-to-fight-t-rex/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Holiday Gift Guide for Mac: affordable gift ideas under $100](https://appleinsider.com/articles/22/12/06/holiday-gift-guide-for-mac-affordable-gift-ideas-under-100?utm_medium=rss)
+ - [A survey finds that while 50% of businesses have adopted AI in 2022, 2.5x higher than in 2017, AI adoption has plateaued between 50%-60% for the past few years &lpar;McKinsey &amp; Company&rpar;](http://www.techmeme.com/221206/p47#a221206p47)
+ - [Tim Cook and President Biden came to Arizona to announce plans for American-made chips](https://www.theverge.com/2022/12/6/23497417/apple-tsmc-phoenix-fab-plans-biden-amd-nvidia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
