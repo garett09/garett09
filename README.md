@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coomooy 3-in-1 Wireless Charger Review: Save some cash with this decent stand](https://appleinsider.com/articles/22/12/08/coomooy-3-in-1-wireless-charger-review-save-some-cash-with-this-decent-stand?utm_medium=rss)
- - [IKEA and Sonos launch new SYMFONISK floor lamp speaker](https://appleinsider.com/articles/22/12/08/ikea-and-sonos-launch-new-symfonisk-floor-lamp-speaker?utm_medium=rss)
- - [How to use Apple&#39;s Health to share medical information](https://appleinsider.com/inside/apple-health/tips/how-to-use-apples-health-to-share-medical-information?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter Blue will cost more on an iPhone, than through a browser](https://appleinsider.com/articles/22/12/08/twitter-blue-will-cost-more-on-an-iphone-than-through-a-browser?utm_medium=rss)
+ - [How These AI-Powered Chatbots Keep Getting Better](https://www.wired.com/story/gadget-lab-podcast-577/)
+ - [Popular HR and Payroll Company Sequoia Discloses a Data Breach](https://www.wired.com/story/sequoia-hr-data-breach/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
