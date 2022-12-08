@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the best iPhone deals of the holiday season](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [Google’s latest Chrome browser modes can boost battery life and free up memory](https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization)
- - [FX’s Kindred series feels like a pale shadow of Octavia Butler’s seminal story](https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review)<!-- TECH:END -->
+ - [How to find iOS apps that run on Apple Silicon in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-find-ios-apps-that-run-on-apple-silicon-in-macos-ventura?utm_medium=rss)
+ - [Amazon is adding a TikTok-like feed of shoppable content to its app](https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok)
+ - [Affinity Bands expands Apple Watch collection with Peanuts, Betty Book, USPS](https://appleinsider.com/articles/22/12/08/affinity-bands-expands-apple-watch-collection-with-peanuts-betty-book-usps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
