@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man knows what he wants](http://9gag.com/gag/a6qoOON)
- - 🚯 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
- - 🚯 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)<!-- MEMES:END -->
+ - 🚖 [How?](http://9gag.com/gag/a7qMw6A)
+ - 🚯 [Nobody can&#39;t eat strudel like Christoph Waltz.](http://9gag.com/gag/a04KXWq)
+ - 🚯 [Need to add?](http://9gag.com/gag/aeQMO4p)<!-- MEMES:END -->
 
 --- 
 
