@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days Gone Director Blames &#39;Woke Reviewers&#39; For Game’s Middling Reception](https://kotaku.com/days-gone-review-reception-john-garvin-sony-bend-ps4-1849866450)
- - [What to know before starting Genshin Impact’s new trading card game](https://www.polygon.com/genshin-impact-guides/2022/12/7/23498881/genius-invokation-tcg-card-game-teyvat)
- - [Diablo 4’s skill tree is no longer that ancient, sick-ass hell tree](https://www.polygon.com/23498485/diablo-4-skill-tree-changes-alpha-beta)<!-- GAME:END -->
+ - [George R.R. Martin says he only has another 500 pages to write on Winds of Winter](https://www.polygon.com/game-of-thrones/23499159/george-rr-martin-winds-of-winter-finish-release-date-pages)
+ - [If you like Marvel&#39;s Midnight Suns, you&#39;ll like these Marvel comics](https://www.pcgamer.com/if-you-like-marvels-midnight-suns-youll-like-these-marvel-comics)
+ - [2022 Was The Year Big Video Games Stopped Coming Out](https://kotaku.com/2022-year-review-blockbuster-game-awards-cod-fortnite-1849856453)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
