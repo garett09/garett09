@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo: MCC&#39;s weirdly great post-launch support continues with Steam Workshop integration](https://www.pcgamer.com/halo-mccs-weirdly-great-post-launch-support-continues-with-steam-workshop-integration)
- - [Chivalry 2 gears up for &#39;Merry Chivmas&#39; with a massive update, free weekend, and &#39;yule goat&#39; weapon](https://www.pcgamer.com/chivalry-2-gears-up-for-merry-chivmas-with-a-massive-update-free-weekend-and-yule-goat-weapon)
- - [Metal: Hellsinger Turns up the Heat in Latest Content Update](https://news.xbox.com/en-us/2022/12/08/metal-hellsinger-turns-up-the-heat-in-latest-content-update/)<!-- GAME:END -->
+ - [The Backyard is Home to Over 15 Million Players](https://news.xbox.com/en-us/2022/12/08/the-backyard-is-home-to-over-15-million-players/)
+ - [The 14 best Stardew Valley mods to shake up your playthrough](https://www.polygon.com/gaming/23489878/stardew-valley-mods-extended)
+ - [Red Dead Redemption 2 mod gives Arthur a moonshine operation like Red Dead Online&#39;s](https://www.pcgamer.com/red-dead-redemption-2-mod-gives-arthur-a-moonshine-operation-like-red-dead-onlines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
