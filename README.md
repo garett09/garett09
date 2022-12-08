@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Blue will reportedly cost more from iPhones to offset ‘hidden 30 percent tax’](https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission)
- - [Debunking claims on Twitter handling the Hunter Biden laptop story, including that Twitter engaged in election interference or violated the First Amendment &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/221208/p6#a221208p6)
- - [Daily Authority: 🔍 Google’s year in search](https://www.androidauthority.com/daily-authority-december-8-2022-3248854/)<!-- TECH:END -->
+ - [The Court of Justice of the EU rules Google must delete search results about claimants who can prove the information is &quot;manifestly inaccurate&quot; &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/221208/p10#a221208p10)
+ - [Dyson announces the $949 Dyson Zone noise canceling headphones, which also use filters to block unwanted air particles, available for preorder in March 2023 &lpar;Andrew Liszewski/Gizmodo&rpar;](http://www.techmeme.com/221208/p9#a221208p9)
+ - [Coinbase CEO Brian Armstrong expects the exchange&#39;s 2022 revenue to be &quot;roughly half that or less&quot; than the ~$7B generated in 2021, as crypto prices fall &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/221208/p8#a221208p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
