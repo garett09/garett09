@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to enable end-to-end encryption for your iCloud backups](https://www.theverge.com/23498690/apple-advanced-data-protection-icloud-encryption-iphone-mac-how-to)
- - [Apple prepares to roll out 5G support in India before 2023](https://appleinsider.com/articles/22/12/07/apple-prepares-to-roll-out-5g-support-in-india-before-2023?utm_medium=rss)
- - [Indiana sues TikTok for misleading users on child safety and data security](https://www.theverge.com/2022/12/7/23499017/tiktok-china-bytedance-lawsuit-mature-content-national-security)<!-- TECH:END -->
+ - [How tensions grew between Salesforce co-CEOs Marc Benioff and Bret Taylor for months; sources: Benioff was frustrated about how Taylor was spending his time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221207/p40#a221207p40)
+ - [Amazon&#39;s $269 deal on Apple&#39;s iPad 9th Generation is back](https://appleinsider.com/articles/22/12/08/amazons-269-deal-on-apples-ipad-9th-generation-is-back?utm_medium=rss)
+ - [Plaid lays off approximately 260 employees, or 20% of its workforce, citing macroeconomic conditions; the company was valued at ~$13.4B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221207/p39#a221207p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
