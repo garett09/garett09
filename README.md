@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Backyard is Home to Over 15 Million Players](https://news.xbox.com/en-us/2022/12/08/the-backyard-is-home-to-over-15-million-players/)
- - [The 14 best Stardew Valley mods to shake up your playthrough](https://www.polygon.com/gaming/23489878/stardew-valley-mods-extended)
- - [Red Dead Redemption 2 mod gives Arthur a moonshine operation like Red Dead Online&#39;s](https://www.pcgamer.com/red-dead-redemption-2-mod-gives-arthur-a-moonshine-operation-like-red-dead-onlines)<!-- GAME:END -->
+ - [Feds Sue To Prevent Microsoft’s Activision Deal From Going Through](https://kotaku.com/activision-blizzard-microsoft-xbox-deal-ftc-sue-block-1849871076)
+ - [Season: A letter to the future, Thirsty Suitors and more now available for Demo Fest 2022](https://blog.playstation.com/2022/12/08/season-a-letter-to-the-future-thirsty-suitors-and-more-now-available-for-demo-fest-2022/)
+ - [Fall Guys x Gears of War Crossover Debuts Tonight on The Game Awards](https://news.xbox.com/en-us/2022/12/08/fall-guys-x-gears-of-war-cross-over-debuts-tonight-on-the-game-awards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
