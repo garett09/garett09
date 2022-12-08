@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2022](https://www.polygon.com/22927513/best-movies-2022)
- - [Wonder Woman 3 reportedly canceled as DC Studios prepares for a new era](https://www.polygon.com/23499752/wonder-woman-3-canceled-dc-studios-henry-cavill-superman)
- - [England footballer brings a whole-ass PC setup to the World Cup just to play Fortnite](https://www.pcgamer.com/england-footballer-brings-a-whole-ass-pc-setup-to-the-world-cup-just-to-play-fortnite)<!-- GAME:END -->
+ - [Hearthstone’s new hero class celebrates Warcraft’s best boss](https://www.polygon.com/gaming/23495569/world-of-warcraft-hearthstone-new-expansion-lich-king-hero-class)
+ - [The Biggest Gaming Disappointments Of 2022](https://kotaku.com/2022-gaming-elon-musk-twitter-microsoft-overwatch-2-1849865844)
+ - [Gabe Newell says Steam doesn&#39;t need a Call of Duty guarantee from Microsoft &#39;because we trust their intentions&#39;](https://www.pcgamer.com/gabe-newell-says-steam-doesnt-need-a-call-of-duty-guarantee-from-microsoft-because-we-trust-their-intentions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
