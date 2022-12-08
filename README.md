@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s called perfection, and it takes time.](http://9gag.com/gag/a9qpqYZ)
- - 🚯 [Must have been a lovely evening..](http://9gag.com/gag/adPKv8Z)
- - 🚯 [Confussion of da highest orda!!](http://9gag.com/gag/awZXgjr)<!-- MEMES:END -->
+ - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
+ - 🚯 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - 🚯 [The man knows what he wants](http://9gag.com/gag/a6qoOON)<!-- MEMES:END -->
 
 --- 
 
