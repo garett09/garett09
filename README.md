@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man knows what he wants](http://9gag.com/gag/a6qoOON)
- - 🚯 [Show me your favorite game glitches](http://9gag.com/gag/amA7Avv)
- - 🚯 [Self-fulfilling prophecy](http://9gag.com/gag/aeQMQvB)<!-- MEMES:END -->
+ - 🚖 [Show me your favorite game glitches](http://9gag.com/gag/amA7Avv)
+ - 🚯 [Deadpool making the multiverse a better place](http://9gag.com/gag/a4o7oev)
+ - 🚯 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
 
 --- 
 
