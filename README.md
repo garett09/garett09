@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops Apple&#39;s Magic Keyboard for 11-inch iPad Pro &amp; iPad Air to all-time low of $210](https://appleinsider.com/articles/22/12/08/amazon-drops-apples-magic-keyboard-for-11-inch-ipad-pro-ipad-air-to-all-time-low-of-210?utm_medium=rss)
- - [The 25 Best Family Board Games &lpar;2022&rpar;: Cascadia, Labyrinth, and More](https://www.wired.com/gallery/best-family-board-games/)
- - [Philips Hue lights are 20 percent off at Amazon when you buy three](https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale)<!-- TECH:END -->
+ - [Roku device owners: Sorry, you can’t get the cheaper Disney Plus with ads plan](https://www.androidauthority.com/disney-plus-with-ads-not-available-on-roku-3248962/)
+ - [Disney rolls out ad-supported Disney+ for $7.99 per month; the ad-free version will now cost $10.99 per month, up from $7.99 &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/221208/p24#a221208p24)
+ - [Cameo launches Cameo Kids, with personalized videos from popular animated characters like Thomas the Tank Engine, Blippi, and CoComelon&#39;s Nina, for $25 to $30 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221208/p23#a221208p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
