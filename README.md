@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Need sauce](http://9gag.com/gag/aMEjYNW)
- - 🚯 [Fastest animation made on the spot](http://9gag.com/gag/aqe7edM)
- - 🚯 [How romantic](http://9gag.com/gag/a5XoXqq)<!-- MEMES:END -->
+ - 🚖 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)
+ - 🚯 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)
+ - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)<!-- MEMES:END -->
 
 --- 
 
