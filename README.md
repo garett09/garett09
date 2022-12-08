@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub launches Copilot for Business, with corporate licensing and policy controls, for $19/user/month, and claims it won&#39;t store or share companies&#39; code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221208/p30#a221208p30)
- - [Xbox Game Pass subscribers will get access to every League of Legends and Valorant character](https://www.theverge.com/2022/12/8/23499055/xbox-game-pass-riot-games-league-of-legends-valorant-account)
- - [There is now a specific date for when Apple will need to stop using Lightning](https://www.androidauthority.com/apple-usb-c-date-3249143/)<!-- TECH:END -->
+ - [Windows 11 is finally getting a built-in screen recording tool](https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool)
+ - [Airtable, a developer of cloud-based collaboration software last valued at $11B in 2021, lays off 254 staffers or around 20% of its workforce &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221208/p31#a221208p31)
+ - [Google merges its Waze and Maps teams into one in latest cost-cutting measure](https://www.androidauthority.com/google-waze-maps-3249134/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
