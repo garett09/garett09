@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Katheryn Winnick](http://9gag.com/gag/amA7g0X)
- - 🚯 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - 🚯 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)<!-- MEMES:END -->
+ - 🚖 [The man knows what he wants](http://9gag.com/gag/a6qoOON)
+ - 🚯 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
+ - 🚯 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)<!-- MEMES:END -->
 
 --- 
 
