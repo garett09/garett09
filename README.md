@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)
- - 🚯 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
+ - 🚖 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - 🚯 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - 🚯 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
 
 --- 
 
