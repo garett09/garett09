@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot Games and Xbox Game Pass Benefits Coming Soon](https://news.xbox.com/en-us/2022/12/08/riot-games-and-xbox-game-pass-benefits-coming-soon/)
- - [In Elite Dangerous, humanity’s war against the Thargoids is going real, real bad](https://www.polygon.com/23500398/elite-dangerous-thargoid-war-progress-reset)
- - [Chained Echoes is a JRPG throwback that isn&#39;t scared to throw out old ideas](https://www.pcgamer.com/chained-echoes-is-a-jrpg-throwback-that-isnt-scared-to-throw-out-old-ideas)<!-- GAME:END -->
+ - [Report: Diablo IV Devs Say June Release Date Will Lead To More Crunch](https://kotaku.com/diablo-iv-activision-blizzard-crunch-delay-release-date-1849871922)
+ - [Dad’s Monster House Brings a Unique Horror Puzzle Adventure to Xbox](https://news.xbox.com/en-us/2022/12/08/dads-monster-house-brings-a-unique-horror-puzzle-adventure-to-xbox/)
+ - [This gorgeous Breath of the Wild-like is being made by an Overwatch 2 dev in his spare time](https://www.pcgamer.com/this-gorgeous-breath-of-the-wild-like-is-being-made-by-an-overwatch-2-dev-in-his-spare-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
