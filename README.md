@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 8: $50 off Apple Watch Ultra, $100 off iPad Air 5, 42% off Roomba J7, more](https://appleinsider.com/articles/22/12/08/daily-deals-dec-8-50-off-apple-watch-ultra-100-off-ipad-air-5-42-off-roomba-j7-more?utm_medium=rss)
  - [Twitter Blue will cost more on an iPhone, than through a browser](https://appleinsider.com/articles/22/12/08/twitter-blue-will-cost-more-on-an-iphone-than-through-a-browser?utm_medium=rss)
- - [How These AI-Powered Chatbots Keep Getting Better](https://www.wired.com/story/gadget-lab-podcast-577/)
- - [Popular HR and Payroll Company Sequoia Discloses a Data Breach](https://www.wired.com/story/sequoia-hr-data-breach/)<!-- TECH:END -->
+ - [NovaPlus A8 Duo review: Inexpensive Apple Pencil-like stylus for iPad](https://appleinsider.com/articles/22/12/07/novaplus-a8-duo-review-inexpensive-apple-pencil-like-stylus-for-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
