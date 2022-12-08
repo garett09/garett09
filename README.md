@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku device owners: Sorry, you can’t get the cheaper Disney Plus with ads plan](https://www.androidauthority.com/disney-plus-with-ads-not-available-on-roku-3248962/)
- - [Disney rolls out ad-supported Disney+ for $7.99 per month; the ad-free version will now cost $10.99 per month, up from $7.99 &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/221208/p24#a221208p24)
- - [Cameo launches Cameo Kids, with personalized videos from popular animated characters like Thomas the Tank Engine, Blippi, and CoComelon&#39;s Nina, for $25 to $30 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221208/p23#a221208p23)<!-- TECH:END -->
+ - [All of the best iPhone deals of the holiday season](https://www.androidauthority.com/best-iphone-deals-1117011/)
+ - [Google’s latest Chrome browser modes can boost battery life and free up memory](https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization)
+ - [FX’s Kindred series feels like a pale shadow of Octavia Butler’s seminal story](https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
