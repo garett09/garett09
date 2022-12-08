@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;It&#39;s a big deal for us too&#39;—Witcher showrunner totally gets disappointment over Henry Cavill leaving](https://www.pcgamer.com/its-a-big-deal-for-us-toowitcher-showrunner-totally-gets-disappointment-over-henry-cavill-leaving)
  - [Today&#39;s Wordle answer and hint for Thursday, December 8](https://www.pcgamer.com/wordle-537-answer-december-8)
- - [Things to read and watch after playing Darktide](https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide)
- - [These Christmas house displays put gamer RGB lights to shame](https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame)<!-- GAME:END -->
+ - [Things to read and watch after playing Darktide](https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
