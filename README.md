@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Breast won&#39;t stop growing](http://9gag.com/gag/a5Xo6bo)
- - 🚯 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
- - 🚯 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
+ - 🚖 [Superhero skills...](http://9gag.com/gag/a9qp6j6)
+ - 🚯 [A hell of a plot twist here.](http://9gag.com/gag/amA7WO9)
+ - 🚯 [RUNN!!](http://9gag.com/gag/agoX1vK)<!-- MEMES:END -->
 
 --- 
 
