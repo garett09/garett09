@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 8: $50 off Apple Watch Ultra, $100 off iPad Air 5, 42% off Roomba J7, more](https://appleinsider.com/articles/22/12/08/daily-deals-dec-8-50-off-apple-watch-ultra-100-off-ipad-air-5-42-off-roomba-j7-more?utm_medium=rss)
- - [Twitter Blue will cost more on an iPhone, than through a browser](https://appleinsider.com/articles/22/12/08/twitter-blue-will-cost-more-on-an-iphone-than-through-a-browser?utm_medium=rss)
- - [NovaPlus A8 Duo review: Inexpensive Apple Pencil-like stylus for iPad](https://appleinsider.com/articles/22/12/07/novaplus-a8-duo-review-inexpensive-apple-pencil-like-stylus-for-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s Magic Keyboard for 11-inch iPad Pro &amp; iPad Air to all-time low of $210](https://appleinsider.com/articles/22/12/08/amazon-drops-apples-magic-keyboard-for-11-inch-ipad-pro-ipad-air-to-all-time-low-of-210?utm_medium=rss)
+ - [The 25 Best Family Board Games &lpar;2022&rpar;: Cascadia, Labyrinth, and More](https://www.wired.com/gallery/best-family-board-games/)
+ - [Philips Hue lights are 20 percent off at Amazon when you buy three](https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
