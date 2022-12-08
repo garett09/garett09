@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Setpoint, whose software helps companies close loan transactions faster, raised a $43M Series A led by a16z and aims to be the &quot;Stripe for credit&quot; &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221207/p46#a221207p46)
- - [Pwn2Own Toronto 2022: participants earned a total of $400K for new exploits targeting Samsung Galaxy S22, printers, routers, and NAS devices on the first day &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/221207/p45#a221207p45)
- - [&#39;Wonder Woman 3&#39; as You Know It Is Reportedly Not Going Ahead     - CNET](https://www.cnet.com/culture/entertainment/wonder-woman-3-as-you-know-it-is-reportedly-not-going-ahead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: in January 2018, Alameda took loans worth $116M from Skype co-founder Jaan Tallinn and philanthropist Luke Ding, both backers of &quot;effective altruism&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/221208/p1#a221208p1)
+ - [Americans Are Moving Into Danger Zones](https://www.wired.com/story/americans-are-moving-into-danger-zones/)
+ - [WaterField releases a ballistic nylon carrying case for the iPhone](https://appleinsider.com/articles/22/12/08/waterfield-releases-a-ballistic-nylon-carrying-case-for-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
