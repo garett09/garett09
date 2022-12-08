@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
- - 🚯 [Not sure wtf is going on here but it&#39;s pretty insane.](http://9gag.com/gag/aXnxnRd)
- - 🚯 [Showed this pic to my gf... she said its true! b*tches actually think like that! wtf!](http://9gag.com/gag/aPgjg7n)<!-- MEMES:END -->
+ - 🚖 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)
+ - 🚯 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)<!-- MEMES:END -->
 
 --- 
 
