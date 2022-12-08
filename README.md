@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show me your favorite game glitches](http://9gag.com/gag/amA7Avv)
- - 🚯 [Deadpool making the multiverse a better place](http://9gag.com/gag/a4o7oev)
- - 🚯 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
+ - 🚖 [Good design](http://9gag.com/gag/ajVEPbg)
+ - 🚯 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)
+ - 🚯 [It took her 3months.....](http://9gag.com/gag/aRE3BzB)<!-- MEMES:END -->
 
 --- 
 
