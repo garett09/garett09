@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)
- - 🚯 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
- - 🚯 [Deadpool making the multiverse a better place](http://9gag.com/gag/a4o7oev)<!-- MEMES:END -->
+ - 🚖 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - 🚯 [Dear Netflix, ...](http://9gag.com/gag/aDYx7AG)
+ - 🚯 [Another stupid cyclist](http://9gag.com/gag/a1Po7AR)<!-- MEMES:END -->
 
 --- 
 
