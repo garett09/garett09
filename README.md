@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)
- - 🚯 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)
- - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)<!-- MEMES:END -->
+ - 🚖 [The man knows what he wants](http://9gag.com/gag/a6qoOON)
+ - 🚯 [Not sure wtf is going on here but it&#39;s pretty insane.](http://9gag.com/gag/aXnxnRd)
+ - 🚯 [Self-fulfilling prophecy](http://9gag.com/gag/aeQMQvB)<!-- MEMES:END -->
 
 --- 
 
