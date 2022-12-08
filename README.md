@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iMessage is getting a security feature straight out of a spy movie](https://www.androidauthority.com/imessage-contact-key-verification-3248853/)
  - [Sources: in January 2018, Alameda took loans worth $116M from Skype co-founder Jaan Tallinn and philanthropist Luke Ding, both backers of &quot;effective altruism&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/221208/p1#a221208p1)
- - [Americans Are Moving Into Danger Zones](https://www.wired.com/story/americans-are-moving-into-danger-zones/)
- - [WaterField releases a ballistic nylon carrying case for the iPhone](https://appleinsider.com/articles/22/12/08/waterfield-releases-a-ballistic-nylon-carrying-case-for-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Americans Are Moving Into Danger Zones](https://www.wired.com/story/americans-are-moving-into-danger-zones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
