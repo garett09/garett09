@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good design](http://9gag.com/gag/ajVEPbg)
- - 🚯 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)
- - 🚯 [It took her 3months.....](http://9gag.com/gag/aRE3BzB)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)
+ - 🚯 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
+ - 🚯 [Deadpool making the multiverse a better place](http://9gag.com/gag/a4o7oev)<!-- MEMES:END -->
 
 --- 
 
