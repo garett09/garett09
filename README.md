@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s called perfection, and it takes time.](http://9gag.com/gag/a9qpqYZ)
- - 🚯 [&lpar;\uff5e\uffe3\u25bd\uffe3&rpar;\uff5e](http://9gag.com/gag/amA7WYo)
- - 🚯 [The level of detail](http://9gag.com/gag/a6qoDMR)<!-- MEMES:END -->
+ - 🚖 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - 🚯 [Tom Cruise performs another crazy stunt](http://9gag.com/gag/aXnxLdg)
+ - 🚯 [Quite accurate.](http://9gag.com/gag/aBdx622)<!-- MEMES:END -->
 
 --- 
 
