@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Feds Sue To Prevent Microsoft’s Activision Deal From Going Through](https://kotaku.com/activision-blizzard-microsoft-xbox-deal-ftc-sue-block-1849871076)
- - [Season: A letter to the future, Thirsty Suitors and more now available for Demo Fest 2022](https://blog.playstation.com/2022/12/08/season-a-letter-to-the-future-thirsty-suitors-and-more-now-available-for-demo-fest-2022/)
- - [Fall Guys x Gears of War Crossover Debuts Tonight on The Game Awards](https://news.xbox.com/en-us/2022/12/08/fall-guys-x-gears-of-war-cross-over-debuts-tonight-on-the-game-awards/)<!-- GAME:END -->
+ - [Riot Games and Xbox Game Pass Benefits Coming Soon](https://news.xbox.com/en-us/2022/12/08/riot-games-and-xbox-game-pass-benefits-coming-soon/)
+ - [In Elite Dangerous, humanity’s war against the Thargoids is going real, real bad](https://www.polygon.com/23500398/elite-dangerous-thargoid-war-progress-reset)
+ - [Chained Echoes is a JRPG throwback that isn&#39;t scared to throw out old ideas](https://www.pcgamer.com/chained-echoes-is-a-jrpg-throwback-that-isnt-scared-to-throw-out-old-ideas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
