@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Rogue Trader is giving me strong OG Fallout vibes](https://www.polygon.com/23499890/warhammer-40k-rogue-trader-alpha-preview-review-fallout-isometric)
- - [Witcher 3 Next-Gen Update given Nvidia DLSS 3 frame-gen upgrade](https://www.pcgamer.com/witcher-3-next-gen-update-given-nvidia-dlss-3-frame-gen-upgrade)
- - [How to watch The Game Awards 2022](https://www.polygon.com/game-awards-tga/23490527/the-game-awards-2022-ceremony-date-time-vote-nominees)<!-- GAME:END -->
+ - [Halo: MCC&#39;s weirdly great post-launch support continues with Steam Workshop integration](https://www.pcgamer.com/halo-mccs-weirdly-great-post-launch-support-continues-with-steam-workshop-integration)
+ - [Chivalry 2 gears up for &#39;Merry Chivmas&#39; with a massive update, free weekend, and &#39;yule goat&#39; weapon](https://www.pcgamer.com/chivalry-2-gears-up-for-merry-chivmas-with-a-massive-update-free-weekend-and-yule-goat-weapon)
+ - [Metal: Hellsinger Turns up the Heat in Latest Content Update](https://news.xbox.com/en-us/2022/12/08/metal-hellsinger-turns-up-the-heat-in-latest-content-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
