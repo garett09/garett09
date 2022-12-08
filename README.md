@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Court of Justice of the EU rules Google must delete search results about claimants who can prove the information is &quot;manifestly inaccurate&quot; &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/221208/p10#a221208p10)
- - [Dyson announces the $949 Dyson Zone noise canceling headphones, which also use filters to block unwanted air particles, available for preorder in March 2023 &lpar;Andrew Liszewski/Gizmodo&rpar;](http://www.techmeme.com/221208/p9#a221208p9)
- - [Coinbase CEO Brian Armstrong expects the exchange&#39;s 2022 revenue to be &quot;roughly half that or less&quot; than the ~$7B generated in 2021, as crypto prices fall &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/221208/p8#a221208p8)<!-- TECH:END -->
+ - [Coomooy 3-in-1 Wireless Charger Review: Save some cash with this decent stand](https://appleinsider.com/articles/22/12/08/coomooy-3-in-1-wireless-charger-review-save-some-cash-with-this-decent-stand?utm_medium=rss)
+ - [IKEA and Sonos launch new SYMFONISK floor lamp speaker](https://appleinsider.com/articles/22/12/08/ikea-and-sonos-launch-new-symfonisk-floor-lamp-speaker?utm_medium=rss)
+ - [How to use Apple&#39;s Health to share medical information](https://appleinsider.com/inside/apple-health/tips/how-to-use-apples-health-to-share-medical-information?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
