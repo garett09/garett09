@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)
- - 🚯 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
+ - 🚖 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
+ - 🚯 [Not sure wtf is going on here but it&#39;s pretty insane.](http://9gag.com/gag/aXnxnRd)
+ - 🚯 [Showed this pic to my gf... she said its true! b*tches actually think like that! wtf!](http://9gag.com/gag/aPgjg7n)<!-- MEMES:END -->
 
 --- 
 
