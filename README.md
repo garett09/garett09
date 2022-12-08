@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
- - 🚯 [Dutch law on &#39;sick days&#39;](http://9gag.com/gag/aPgj3ZR)
+ - 🚖 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)
+ - 🚯 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
  - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
 
 --- 
