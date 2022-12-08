@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superhero skills...](http://9gag.com/gag/a9qp6j6)
- - 🚯 [A hell of a plot twist here.](http://9gag.com/gag/amA7WO9)
- - 🚯 [RUNN!!](http://9gag.com/gag/agoX1vK)<!-- MEMES:END -->
+ - 🚖 [Katheryn Winnick](http://9gag.com/gag/amA7g0X)
+ - 🚯 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - 🚯 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)<!-- MEMES:END -->
 
 --- 
 
