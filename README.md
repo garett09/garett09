@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
- - 🚯 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)
- - 🚯 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)<!-- MEMES:END -->
+ - 🚖 [Need sauce](http://9gag.com/gag/aMEjYNW)
+ - 🚯 [Fastest animation made on the spot](http://9gag.com/gag/aqe7edM)
+ - 🚯 [How romantic](http://9gag.com/gag/a5XoXqq)<!-- MEMES:END -->
 
 --- 
 
