@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s a big deal for us too&#39;—Witcher showrunner totally gets disappointment over Henry Cavill leaving](https://www.pcgamer.com/its-a-big-deal-for-us-toowitcher-showrunner-totally-gets-disappointment-over-henry-cavill-leaving)
- - [Today&#39;s Wordle answer and hint for Thursday, December 8](https://www.pcgamer.com/wordle-537-answer-december-8)
- - [Things to read and watch after playing Darktide](https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide)<!-- GAME:END -->
+ - [Wonder Woman 3 reportedly canceled as DC Studios prepares for a new era](https://www.polygon.com/23499752/wonder-woman-3-canceled-dc-studios-henry-cavill-superman)
+ - [England footballer brings a whole-ass PC setup to the World Cup just to play Fortnite](https://www.pcgamer.com/england-footballer-brings-a-whole-ass-pc-setup-to-the-world-cup-just-to-play-fortnite)
+ - [Truck load of limited edition handheld gaming consoles stolen](https://www.pcgamer.com/truck-load-of-limited-edition-handheld-gaming-consoles-stolen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
