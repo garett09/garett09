@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - 🚯 [Tom Cruise performs another crazy stunt](http://9gag.com/gag/aXnxLdg)
- - 🚯 [Quite accurate.](http://9gag.com/gag/aBdx622)<!-- MEMES:END -->
+ - 🚖 [My Breast won&#39;t stop growing](http://9gag.com/gag/a5Xo6bo)
+ - 🚯 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
+ - 🚯 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
 
 --- 
 
