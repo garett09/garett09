@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find iOS apps that run on Apple Silicon in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-find-ios-apps-that-run-on-apple-silicon-in-macos-ventura?utm_medium=rss)
- - [Amazon is adding a TikTok-like feed of shoppable content to its app](https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok)
- - [Affinity Bands expands Apple Watch collection with Peanuts, Betty Book, USPS](https://appleinsider.com/articles/22/12/08/affinity-bands-expands-apple-watch-collection-with-peanuts-betty-book-usps?utm_medium=rss)<!-- TECH:END -->
+ - [Get two months of Apple TV+ free with &#39;Emancipation&#39; promotion](https://appleinsider.com/articles/22/12/08/get-two-months-of-apple-tv-free-with-emancipation-promotion?utm_medium=rss)
+ - [Mike Flanagan is creating a TV series for The Dark Tower](https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon)
+ - [Some Twitch streamers are migrating to other services, burned out by earnings coupled to hours streamed, parasocial pressure from subscribers, and more &lpar;Fadeke Adegbuyi/Every&rpar;](http://www.techmeme.com/221208/p27#a221208p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
