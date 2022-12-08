@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How?](http://9gag.com/gag/a7qMw6A)
- - 🚯 [Nobody can&#39;t eat strudel like Christoph Waltz.](http://9gag.com/gag/a04KXWq)
- - 🚯 [Need to add?](http://9gag.com/gag/aeQMO4p)<!-- MEMES:END -->
+ - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
+ - 🚯 [Need sauce](http://9gag.com/gag/aMEjYNW)
+ - 🚯 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
 
 --- 
 
