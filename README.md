@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - 🚯 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)
- - 🚯 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
+ - 🚖 [Paris, in front of the Louvre Museum](http://9gag.com/gag/aBdx6XN)
+ - 🚯 [One more time.](http://9gag.com/gag/aWG1bnK)
+ - 🚯 [Maybe next time.](http://9gag.com/gag/awZXdWQ)<!-- MEMES:END -->
 
 --- 
 
