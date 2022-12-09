@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Carpool Karaoke: The Series on Apple TV+](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-carpool-karaoke-the-series-on-apple-tv?utm_medium=rss)
- - [Fossil Gen 6 Wellness Review: Avoid This Wear OS 3 Smartwatch](https://www.wired.com/review/fossil-gen-6-wellness/)
- - [The pint-sized DJI Mini 3 comes with a suitably mini price](https://www.theverge.com/2022/12/9/23501450/dji-mini-3-drone-announcement-price-date)<!-- TECH:END -->
+ - [Fortnite got a huge face-lift in chapter 4](https://www.theverge.com/2022/12/9/23500029/fortnite-chapter-4-unreal-engine-ue5-graphics-interview)
+ - [Elon Musk&#39;s Twitter Is Making Meta Look Smart](https://www.wired.com/story/plaintext-elon-musks-twitter-is-making-meta-look-smart/)
+ - [&#39;Cocaine Bear&#39; and the New Age of Internet Movies](https://www.wired.com/story/new-era-internet-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
