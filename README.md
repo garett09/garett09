@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paris, in front of the Louvre Museum](http://9gag.com/gag/aBdx6XN)
+ - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
  - 🚯 [One more time.](http://9gag.com/gag/aWG1bnK)
- - 🚯 [Maybe next time.](http://9gag.com/gag/awZXdWQ)<!-- MEMES:END -->
+ - 🚯 [Legend](http://9gag.com/gag/a4o7qYp)<!-- MEMES:END -->
 
 --- 
 
