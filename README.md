@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 445: One More For The Road](https://blog.playstation.com/2022/12/09/official-playstation-podcast-episode-445-one-more-for-the-road/)
- - [The Destiny 2: Lightfall trailer held one of The Game Awards’ flashiest moments](https://www.polygon.com/23501683/destiny-2-lightfall-strand-grappling-hook-thundercrash-trailer-game-awards)
- - [New Dead Island 2 gameplay reveals lethal melee weapons, gruesome combat, and more](https://blog.playstation.com/2022/12/09/new-dead-island-2-gameplay-reveals-lethal-melee-weapons-gruesome-combat-and-more/)<!-- GAME:END -->
+ - [Destiny 2 Xur location and items, Dec. 9-13](https://www.polygon.com/destiny-2-guide-walkthrough/2022/12/9/23501911/xur-location-and-items-dec-9-13)
+ - [Take Control of the Wheel in Need for Speed Unbound with EA Play](https://news.xbox.com/en-us/2022/12/09/take-control-of-the-wheel-in-need-for-speed-unbound-with-ea-play/)
+ - [Ixion review](https://www.pcgamer.com/ixion-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
