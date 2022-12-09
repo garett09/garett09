@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checkmate!](http://9gag.com/gag/axo13x1)
- - 🚯 [It happens](http://9gag.com/gag/axo16z2)
- - 🚯 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
+ - 🚖 [Milkshake](http://9gag.com/gag/awZXmZ1)
+ - 🚯 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
+ - 🚯 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)<!-- MEMES:END -->
 
 --- 
 
