@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - 🚯 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)
- - 🚯 [What the hell happened here](http://9gag.com/gag/agoX1rv)<!-- MEMES:END -->
+ - 🚖 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
+ - 🚯 [Who Framed Roger Rabbit](http://9gag.com/gag/ay2XWvX)
+ - 🚯 [It happens](http://9gag.com/gag/axo16z2)<!-- MEMES:END -->
 
 --- 
 
