@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FromSoftware’s next game is Armored Core VI](https://www.theverge.com/2022/12/8/23501255/fromsoftware-armored-core-vi-fires-of-rubicon-trailer-2023)
  - [The Game Awards 2022: all the announcements and trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
- - [Naoki Yoshida presents a new Final Fantasy XVI trailer at The Game Awards](https://www.theverge.com/2022/12/8/23500292/final-fantasy-16-trailer-the-game-awards)<!-- TECH:END -->
+ - [A guy playing an alto flute in The Game Awards orchestra won the night](https://www.theverge.com/2022/12/8/23501261/game-awards-flute-guy-pedro-eustache)
+ - [The biggest announcements and trailers from the Game Awards 2022](https://www.theverge.com/2022/12/8/23498405/game-awards-2022-best-trailers-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
