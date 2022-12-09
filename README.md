@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Self-fulfilling prophecy](http://9gag.com/gag/aeQMQvB)
- - 🚯 [Only 83 km outside Moscow](http://9gag.com/gag/aoKNRzx)
- - 🚯 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)<!-- MEMES:END -->
+ - 🚖 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
+ - 🚯 [Chapo riding the bench right now hoping to get traded.](http://9gag.com/gag/aL1j4qA)
+ - 🚯 [Elden Ring game of the year](http://9gag.com/gag/a9qp8W1)<!-- MEMES:END -->
 
 --- 
 
