@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He escorted them back to the car!](http://9gag.com/gag/amA7GYX)
- - 🚯 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - 🚯 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)<!-- MEMES:END -->
+ - 🚖 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - 🚯 [Actually overheard children talking like this for real](http://9gag.com/gag/aVb3KQK)
+ - 🚯 [So whats the lesson here?](http://9gag.com/gag/aDYxnBB)<!-- MEMES:END -->
 
 --- 
 
