@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI releases June 22, 2023](https://blog.playstation.com/2022/12/09/final-fantasy-xvi-releases-june-22-2023/)
- - [Chrome browser update means it won&#39;t hog your PC&#39;s memory so much](https://www.pcgamer.com/chrome-browser-update-means-it-wont-hog-your-pcs-memory-so-much)
- - [Today&#39;s Wordle answer and hint for Friday, December 9](https://www.pcgamer.com/wordle-538-answer-december-9)<!-- GAME:END -->
+ - [Nvidia RTX 4070 rumoured to have same core counts as the old RTX 3070](https://www.pcgamer.com/nvidia-rtx-4070-rumoured-to-have-same-core-counts-as-the-old-rtx-3070)
+ - [Amazon partners with basketball legend Steph Curry to make a ToeJam &amp; Earl movie](https://www.pcgamer.com/amazon-partners-with-basketball-legend-steph-curry-to-make-a-toejam-and-earl-movie)
+ - [Markiplier finally released his OnlyFans and broke the whole damn site](https://www.pcgamer.com/markiplier-finally-released-his-onlyfans-and-broke-the-whole-damn-site)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
