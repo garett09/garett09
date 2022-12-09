@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab an M2 MacBook Air for only $944 with B&amp;H&#39;s PayBoo Card](https://appleinsider.com/articles/22/12/08/grab-an-m2-macbook-air-for-only-944-with-bhs-payboo-card?utm_medium=rss)
- - [Oppo sets date for the launch of its new foldables](https://www.androidauthority.com/oppo-find-n2-launch-3249198/)
- - [The FTC is suing Microsoft to block its Activision Blizzard purchase](https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block)<!-- TECH:END -->
+ - [The SEC asks US public companies to disclose their exposure and risks related to crypto assets after &quot;recent bankruptcies and financial distress&quot; &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/221208/p33#a221208p33)
+ - [&#39;1899&#39; on Netflix: The Big Questions We Need Answered in Season 2     - CNET](https://www.cnet.com/culture/entertainment/1899-on-netflix-the-big-questions-we-need-answered-in-season-2/#ftag=CAD590a51e)
+ - [&#39;1899&#39; on Netflix&#39;s Bizarre Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/1899-on-netflixs-bizarre-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
