@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Xur location and items, Dec. 9-13](https://www.polygon.com/destiny-2-guide-walkthrough/2022/12/9/23501911/xur-location-and-items-dec-9-13)
- - [Take Control of the Wheel in Need for Speed Unbound with EA Play](https://news.xbox.com/en-us/2022/12/09/take-control-of-the-wheel-in-need-for-speed-unbound-with-ea-play/)
- - [Ixion review](https://www.pcgamer.com/ixion-review)<!-- GAME:END -->
+ - [Chainsaw Man&#39;s English-Language Cast Weighs In: Subs Vs. Dubs](https://kotaku.com/chainsaw-man-anime-subs-dubs-denji-makima-crunchyroll-1849825038)
+ - [Everyone’s Hot As Hell In Hades II, As They Should Be](https://kotaku.com/hades-2-release-date-early-access-chronos-melinoe-1849876057)
+ - [This artist imagined Idris Elba in Cyberpunk 2077… two years ago](https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
