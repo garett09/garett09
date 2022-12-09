@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - 🚯 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
- - 🚯 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)<!-- MEMES:END -->
+ - 🚖 [Paris, in front of the Louvre Museum](http://9gag.com/gag/aBdx6XN)
+ - 🚯 [Man fights a police dog handler on a night out](http://9gag.com/gag/aYVg1Lv)
+ - 🚯 [When I am asked to work longer on a Friday](http://9gag.com/gag/amA7Vwy)<!-- MEMES:END -->
 
 --- 
 
