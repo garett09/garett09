@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us Part I arrives on PC March 3, 2023](https://blog.playstation.com/2022/12/08/the-last-of-us-part-i-arrives-on-pc-march-3-2023/)
- - [The Game Awards 2022: Big Winners, World Exclusive Reveals, and More From the Premiere Video Game Awards Show](https://news.xbox.com/en-us/2022/12/08/the-game-awards-2022-recap/)
- - [The biggest announcements from The Game Awards 2022](https://www.polygon.com/game-awards-tga/23498669/the-game-awards-biggest-announcements-2022)<!-- GAME:END -->
+ - [Milf Hunter Won A Steam Deck And You Didn&#39;t](https://kotaku.com/steam-deck-game-awards-milf-hunter-trending-valve-tga-1849873280)
+ - [Guy crashes Elden Ring GOTY acceptance at The Game Awards, gets arrested](https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022)
+ - [All the trailers and announcements from The Game Awards 2022](https://www.pcgamer.com/game-awards-announcements-trailers-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
