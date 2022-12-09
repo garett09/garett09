@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU antitrust regulators plan to open a full-scale investigation into Broadcom&#39;s proposed $61B VMware acquisition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/221209/p19#a221209p19)
- - [Who’s snitching on the big crypto group chat?](https://www.theverge.com/2022/12/9/23502193/ftx-alameda-binance-kraken-tether-exchange-texts)
- - [Activists respond to Apple choosing encryption over invasive image scanning plans](https://www.theverge.com/2022/12/9/23500838/apple-csam-plans-dropped-eff-ncmec-cdt-reactions)<!-- TECH:END -->
+ - [Here are the shipping deadlines to get your holiday gifts there on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
+ - [Ireland&#39;s privacy watchdog says it is engaging with Twitter about giving data access to outsiders, amid concerns that Twitter could be in violation of GDPR &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/221209/p20#a221209p20)
+ - [$100 off the Galaxy Buds Pro, and more holiday headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
