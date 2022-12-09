@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC asks US public companies to disclose their exposure and risks related to crypto assets after &quot;recent bankruptcies and financial distress&quot; &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/221208/p33#a221208p33)
- - [&#39;1899&#39; on Netflix: The Big Questions We Need Answered in Season 2     - CNET](https://www.cnet.com/culture/entertainment/1899-on-netflix-the-big-questions-we-need-answered-in-season-2/#ftag=CAD590a51e)
- - [&#39;1899&#39; on Netflix&#39;s Bizarre Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/1899-on-netflixs-bizarre-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Game Awards 2022: all the announcements and trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
+ - [Hideo Kojima’s next game is Death Stranding 2](https://www.theverge.com/2022/12/8/23498369/death-stranding-2-kojima-game-awards)
+ - [The developers of Celeste debut the first trailer for their next game, Earthblade](https://www.theverge.com/2022/12/8/23500114/earthblade-trailer-extremely-ok-games-the-game-awards-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
