@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Console Warriors Mad, Sad At Xbox&#39;s Latest Awards No-Show](https://kotaku.com/microsoft-xbox-one-series-xs-the-game-awards-twitter-1849876803)
  - [Chainsaw Man&#39;s English-Language Cast Weighs In: Subs Vs. Dubs](https://kotaku.com/chainsaw-man-anime-subs-dubs-denji-makima-crunchyroll-1849825038)
- - [Everyone’s Hot As Hell In Hades II, As They Should Be](https://kotaku.com/hades-2-release-date-early-access-chronos-melinoe-1849876057)
- - [This artist imagined Idris Elba in Cyberpunk 2077… two years ago](https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago)<!-- GAME:END -->
+ - [Everyone’s Hot As Hell In Hades II, As They Should Be](https://kotaku.com/hades-2-release-date-early-access-chronos-melinoe-1849876057)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
