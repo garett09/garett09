@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
- - 🚯 [Who Framed Roger Rabbit](http://9gag.com/gag/ay2XWvX)
- - 🚯 [It happens](http://9gag.com/gag/axo16z2)<!-- MEMES:END -->
+ - 🚖 [Checkmate!](http://9gag.com/gag/axo13x1)
+ - 🚯 [It happens](http://9gag.com/gag/axo16z2)
+ - 🚯 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
 
 --- 
 
