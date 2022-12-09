@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: November 2022’s top downloads](https://blog.playstation.com/2022/12/09/playstation-store-november-2022s-top-downloads/)
- - [Unearth Past Secrets in ‘The Rogue’s Legacy’, Sea of Thieves’ Tenth Adventure, Live Until December 22!](https://news.xbox.com/en-us/2022/12/09/sea-of-thieves-adventure-rogues-legacy/)
- - [Genshin Impact emerges victorious in the bitter Game Awards war against Sonic Frontiers](https://www.pcgamer.com/genshin-impact-emerges-victorious-in-the-bitter-game-awards-war-against-sonic-frontiers)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 12 to 16](https://news.xbox.com/en-us/2022/12/09/next-week-on-xbox-new-games-for-december-12-to-16/)
+ - [That Viral Killer Train Game Is An Admirable, Original Mess](https://kotaku.com/choo-choo-charles-evil-train-game-pc-review-steam-1849866413)
+ - [Marvel Snap Gives Out Fantastic Free Storm Card In Confusing Event](https://kotaku.com/marvel-snap-card-game-storm-variant-second-dinner-1849874213)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
