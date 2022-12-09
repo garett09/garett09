@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Milf Hunter Won A Steam Deck And You Didn&#39;t](https://kotaku.com/steam-deck-game-awards-milf-hunter-trending-valve-tga-1849873280)
- - [Guy crashes Elden Ring GOTY acceptance at The Game Awards, gets arrested](https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022)
- - [All the trailers and announcements from The Game Awards 2022](https://www.pcgamer.com/game-awards-announcements-trailers-2022)<!-- GAME:END -->
+ - [Final Fantasy XVI releases June 22, 2023](https://blog.playstation.com/2022/12/09/final-fantasy-xvi-releases-june-22-2023/)
+ - [Chrome browser update means it won&#39;t hog your PC&#39;s memory so much](https://www.pcgamer.com/chrome-browser-update-means-it-wont-hog-your-pcs-memory-so-much)
+ - [Today&#39;s Wordle answer and hint for Friday, December 9](https://www.pcgamer.com/wordle-538-answer-december-9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
