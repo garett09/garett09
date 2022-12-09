@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West DLC takes Aloy to Los Angeles](https://www.polygon.com/game-awards-tga/23501180/horizon-forbidden-west-dlc-burning-shores-release-date-trailer)
- - [Discover a brutal new world in Behemoth for PS VR2￼](https://blog.playstation.com/2022/12/08/discover-a-brutal-new-world-in-behemoth-for-ps-vr2%ef%bf%bc/)
- - [Horizon Forbidden West Gets Massive Los Angeles DLC In April](https://kotaku.com/horizon-forbidden-west-dlc-expansion-ps5-sunwing-1849865342)<!-- GAME:END -->
+ - [The Last of Us Part I arrives on PC March 3, 2023](https://blog.playstation.com/2022/12/08/the-last-of-us-part-i-arrives-on-pc-march-3-2023/)
+ - [The Game Awards 2022: Big Winners, World Exclusive Reveals, and More From the Premiere Video Game Awards Show](https://news.xbox.com/en-us/2022/12/08/the-game-awards-2022-recap/)
+ - [The biggest announcements from The Game Awards 2022](https://www.polygon.com/game-awards-tga/23498669/the-game-awards-biggest-announcements-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
