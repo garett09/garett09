@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big &amp; Little](http://9gag.com/gag/a5XoB1G)
+ - 🚖 [Throwback to December 2013 when my home town decided to install a Christmas tree](http://9gag.com/gag/aDYxYV9)
  - 🚯 [It&#39;s good when you know nothing](http://9gag.com/gag/armgmGd)
- - 🚯 [Winona Ryder](http://9gag.com/gag/aEqxAvO)<!-- MEMES:END -->
+ - 🚯 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
 
 --- 
 
