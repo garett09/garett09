@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Big &amp; Little](http://9gag.com/gag/a5XoB1G)
- - 🚯 [The anguished cries of a family member of Mohsen Shekari, the 23-year-old protester in Iran who was executed by hanging this morning.](http://9gag.com/gag/az2XPZp)
- - 🚯 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
+ - 🚯 [It&#39;s good when you know nothing](http://9gag.com/gag/armgmGd)
+ - 🚯 [Winona Ryder](http://9gag.com/gag/aEqxAvO)<!-- MEMES:END -->
 
 --- 
 
