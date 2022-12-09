@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throwback to December 2013 when my home town decided to install a Christmas tree](http://9gag.com/gag/aDYxYV9)
- - 🚯 [It&#39;s good when you know nothing](http://9gag.com/gag/armgmGd)
- - 🚯 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
+ - 🚖 [Self-fulfilling prophecy](http://9gag.com/gag/aeQMQvB)
+ - 🚯 [Only 83 km outside Moscow](http://9gag.com/gag/aoKNRzx)
+ - 🚯 [Do Not Try At Home \u26a0\ufe0f](http://9gag.com/gag/aKEjmej)<!-- MEMES:END -->
 
 --- 
 
