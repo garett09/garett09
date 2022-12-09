@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Console Warriors Mad, Sad At Xbox&#39;s Latest Awards No-Show](https://kotaku.com/microsoft-xbox-one-series-xs-the-game-awards-twitter-1849876803)
- - [Chainsaw Man&#39;s English-Language Cast Weighs In: Subs Vs. Dubs](https://kotaku.com/chainsaw-man-anime-subs-dubs-denji-makima-crunchyroll-1849825038)
- - [Everyone’s Hot As Hell In Hades II, As They Should Be](https://kotaku.com/hades-2-release-date-early-access-chronos-melinoe-1849876057)<!-- GAME:END -->
+ - [Pokémon Go ‘Something Extraordinary’ Keldeo Special Research guide](https://www.polygon.com/pokemon-go-guide/23501836/keldeo-something-extraordinary-special-research-steps-tasks)
+ - [The Best Fits At The Game Awards 2022](https://kotaku.com/game-awards-2022-best-fashion-fits-drip-geoff-keighley-1849875118)
+ - [A single piece of Elden Ring DLC could steamroll most of 2023&#39;s big games](https://www.pcgamer.com/a-single-piece-of-elden-ring-dlc-could-streamroll-most-of-2023s-big-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
