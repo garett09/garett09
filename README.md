@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells crossing over with Castlevania in 2023](https://www.pcgamer.com/dead-cells-crossing-over-with-castlevania-in-2023)
- - [Returnal is coming to PC](https://blog.playstation.com/2022/12/08/returnal-is-coming-to-pc%ef%bf%bc/)
- - [Castlevania is back! Discover Dead Cells’ new DLC, Return to Castlevania](https://blog.playstation.com/2022/12/08/castlevania-is-back-discover-dead-cells-new-dlc-return-to-castlevania/)<!-- GAME:END -->
+ - [Dune: Awakening survival game trailer evokes the same awe as Villeneuve’s movie](https://www.polygon.com/game-awards-tga/23501119/dune-awakening-trailer-xbox-playstation-pc-release-date-price)
+ - [Immortals of Aveum is a magic shooter from the minds behind Dead Space and Call of Duty](https://www.polygon.com/game-awards-tga/23500921/immortals-of-aveum-trailer-announced-release-date)
+ - [Death Stranding 2 confirmed revealed by Hideo Kojima at The Game Awards](https://www.polygon.com/game-awards-tga/23501045/death-stranding-2-hideo-kojima-productions-announcement-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
