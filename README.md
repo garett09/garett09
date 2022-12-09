@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite got a huge face-lift in chapter 4](https://www.theverge.com/2022/12/9/23500029/fortnite-chapter-4-unreal-engine-ue5-graphics-interview)
- - [Elon Musk&#39;s Twitter Is Making Meta Look Smart](https://www.wired.com/story/plaintext-elon-musks-twitter-is-making-meta-look-smart/)
- - [&#39;Cocaine Bear&#39; and the New Age of Internet Movies](https://www.wired.com/story/new-era-internet-movies/)<!-- TECH:END -->
+ - [8 Best Smartwatches &lpar;2022&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Garmin Venu Sq 2 review: an excellent Fitbit alternative](https://www.theverge.com/23500640/garmin-venu-sq-2-review-smartwatch-fitness-tracker)
+ - [Jump into Portal on PC and Steam Deck for just $1](https://www.theverge.com/2022/12/9/23501523/portal-valve-pc-rtx-magic-keyboard-ipad-pro-air-paramount-plus-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
