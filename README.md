@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - 🚯 [One more time.](http://9gag.com/gag/aWG1bnK)
- - 🚯 [Legend](http://9gag.com/gag/a4o7qYp)<!-- MEMES:END -->
+ - 🚯 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
+ - 🚯 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)<!-- MEMES:END -->
 
 --- 
 
