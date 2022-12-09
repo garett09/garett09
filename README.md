@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is she into you?](http://9gag.com/gag/a9qpvV6)
- - 🚯 [C l o w n world](http://9gag.com/gag/aoKNxXw)
- - 🚯 [Ellen Ripley in the movie Alien &lpar;1979&rpar; was originally written to be man. Director Ridley Scott changed his mind when he watched The Hunger Games &lpar;2012&rpar; and realized that women can be action movie lead too.](http://9gag.com/gag/aGEjGm0)<!-- MEMES:END -->
+ - 🚖 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - 🚯 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)
+ - 🚯 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
 
 --- 
 
