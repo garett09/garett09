@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save it for meme collection](http://9gag.com/gag/aeQM70p)
- - 🚯 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
- - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
+ - 🚖 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
+ - 🚯 [Finnish show ask for Thailand capital name](http://9gag.com/gag/a7qMGMz)
+ - 🚯 [Old cartoons were are the best, the logic is insane](http://9gag.com/gag/aXnxRQb)<!-- MEMES:END -->
 
 --- 
 
