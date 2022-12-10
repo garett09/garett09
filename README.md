@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)
- - 🚯 [Real chad](http://9gag.com/gag/aQE3ZYe)
- - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)<!-- MEMES:END -->
+ - 🚖 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
+ - 🚯 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
 
 --- 
 
