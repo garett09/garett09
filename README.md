@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)
- - 🚯 [Sad sad](http://9gag.com/gag/a04K0jX)
- - 🚯 [The LA Rams have an assistant coach whose job is to make sure Head Coach Sean McVay doesn&#39;t run into the officials](http://9gag.com/gag/aYVgMw0)<!-- MEMES:END -->
+ - 🚖 [Milkshake](http://9gag.com/gag/awZXmZ1)
+ - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)
+ - 🚯 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)<!-- MEMES:END -->
 
 --- 
 
