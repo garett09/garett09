@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let its employees talk about discrimination and abuse](https://www.theverge.com/2022/12/10/23503083/apple-employees-discrimination-abuse-ndas)
- - [With &quot;Twitter Files&quot;, Elon Musk shows himself as an egregious example of what he wanted to expose: managers leveraging their social platforms for partisan ends &lpar;Eric Levitz/New York Magazine&rpar;](http://www.techmeme.com/221210/p11#a221210p11)
- - [Grab an M2 MacBook Air for only $944 with B&amp;H&#39;s Payboo Card](https://appleinsider.com/articles/22/12/08/grab-an-m2-macbook-air-for-only-944-with-bhs-payboo-card?utm_medium=rss)<!-- TECH:END -->
+ - [Two mystery Macs appear in Steam&#39;s hardware survey](https://appleinsider.com/articles/22/12/10/two-mystery-macs-appear-in-steams-hardware-survey?utm_medium=rss)
+ - [Humixx Car Mount review: iPhone clamp in a MagSafe world](https://appleinsider.com/articles/22/12/10/humixx-car-mount-review-iphone-clamp-in-a-magsafe-world?utm_medium=rss)
+ - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
