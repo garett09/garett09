@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Emily the Criminal gives Aubrey Plaza the perfect showcase](https://www.polygon.com/23301906/emily-the-criminal-review-aubrey-plaza-netflix)
  - [The Outbound Ghost dev defaces his own Steam page in dispute with publisher](https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher)
- - [Emancipation, del Toro’s Pinocchio, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/12/9/23494194/new-movies-watch-emancipation-will-smith-netflix-pinocchio-del-toro)
- - [The Kid Who Crashed The Game Awards Has A History Of Trolling](https://kotaku.com/game-awards-2022-bill-clinton-infowars-blizzcon-troll-1849877331)<!-- GAME:END -->
+ - [Emancipation, del Toro’s Pinocchio, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/12/9/23494194/new-movies-watch-emancipation-will-smith-netflix-pinocchio-del-toro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
