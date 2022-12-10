@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool, calm and collected](http://9gag.com/gag/agoX2zg)
- - 🚯 [Man fights a police dog handler on a night out](http://9gag.com/gag/aYVg1Lv)
- - 🚯 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)<!-- MEMES:END -->
+ - 🚖 [You just won A BRAND NEW CAR!!!](http://9gag.com/gag/aQE3O6r)
+ - 🚯 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
+ - 🚯 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)<!-- MEMES:END -->
 
 --- 
 
