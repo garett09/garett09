@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lawmakers in Greece approved a legislation banning commercial spyware after the government of Prime Minister Kyriakos Mitsotakis was accused of surveillance &lpar;Derek Gatopoulos/Associated Press&rpar;](http://www.techmeme.com/221210/p2#a221210p2)
  - [Huawei licenses key 5G tech to Oppo, amid a US crackdown, and says it has patent cross-licensing deals with 20 companies, including extended deals with Samsung &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/221210/p1#a221210p1)
- - [Source: the US DOJ is preparing a possible fraud case against Sam Bankman-Fried and others, examining cash flows to the Bahamas around FTX&#39;s bankruptcy filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/221209/p22#a221209p22)
- - [These Three Wordle Starter Words Almost Guarantee a Winning Streak     - CNET](https://www.cnet.com/culture/these-three-wordle-starter-words-almost-guarantee-a-winning-streak/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: the US DOJ is preparing a possible fraud case against Sam Bankman-Fried and others, examining cash flows to the Bahamas around FTX&#39;s bankruptcy filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/221209/p22#a221209p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
