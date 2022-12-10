@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool, calm and collected](http://9gag.com/gag/agoX2zg)
- - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)
- - 🚯 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)<!-- MEMES:END -->
+ - 🚖 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)
+ - 🚯 [Real chad](http://9gag.com/gag/aQE3ZYe)
+ - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
 
 --- 
 
