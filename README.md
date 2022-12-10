@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is she into you?](http://9gag.com/gag/a9qpvV6)
- - 🚯 [Bartender](http://9gag.com/gag/aDYxMoO)
- - 🚯 [Potato in the comments](http://9gag.com/gag/aOxrpn3)<!-- MEMES:END -->
+ - 🚖 [This Brazil fan went all out at the WC.](http://9gag.com/gag/aXnxW1z)
+ - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)
+ - 🚯 [Where are my testicles, summer?](http://9gag.com/gag/aYVgRAq)<!-- MEMES:END -->
 
 --- 
 
