@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Kid Who Crashed The Game Awards Has A History Of Trolling](https://kotaku.com/game-awards-2022-bill-clinton-infowars-blizzcon-troll-1849877331)
- - [Wild Hearts’ take on monster hunting takes a unique approach to its beasts](https://www.polygon.com/game-awards-tga/23502288/wild-hearts-omega-force-koei-tecmo-trailer-kemono)
- - [Mike Flanagan might be the only person who can do a Dark Tower series right](https://www.polygon.com/23502040/mike-flanagan-dark-tower-stephen-king-amazon-series-movies)<!-- GAME:END -->
+ - [The Outbound Ghost dev defaces his own Steam page in dispute with publisher](https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher)
+ - [Emancipation, del Toro’s Pinocchio, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/12/9/23494194/new-movies-watch-emancipation-will-smith-netflix-pinocchio-del-toro)
+ - [The Kid Who Crashed The Game Awards Has A History Of Trolling](https://kotaku.com/game-awards-2022-bill-clinton-infowars-blizzcon-troll-1849877331)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
