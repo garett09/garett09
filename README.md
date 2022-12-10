@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paris, in front of the Louvre Museum](http://9gag.com/gag/aBdx6XN)
- - 🚯 [Cat defend her boy](http://9gag.com/gag/aDYxOA7)
- - 🚯 [We live in a society.](http://9gag.com/gag/a8qoKbQ)<!-- MEMES:END -->
+ - 🚖 [Cool, calm and collected](http://9gag.com/gag/agoX2zg)
+ - 🚯 [Man fights a police dog handler on a night out](http://9gag.com/gag/aYVg1Lv)
+ - 🚯 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)<!-- MEMES:END -->
 
 --- 
 
