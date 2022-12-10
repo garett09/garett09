@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)
- - 🚯 [Real chad](http://9gag.com/gag/aQE3ZYe)
- - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
+ - 🚖 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
+ - 🚯 [F__ked around, Found out](http://9gag.com/gag/aDYxMv7)
+ - 🚯 [Not all boats lead to Rome](http://9gag.com/gag/aYVgm0w)<!-- MEMES:END -->
 
 --- 
 
