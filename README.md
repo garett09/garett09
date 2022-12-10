@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based 9fin, which offers AI-powered data analytics for debt markets, raised a $23M Series A+ led by Spark Capital, bringing its total funding to $37.2M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221209/p21#a221209p21)
- - [Microsoft May Create All-in-One &#39;Super App&#39; to Compete With Apple, Google     - CNET](https://www.cnet.com/news/microsoft-may-create-all-in-one-super-app-to-compete-with-apple-google/#ftag=CAD590a51e)
- - [8 Best Weighted Blankets for 2022     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stellantis is blaming EVs for its upcoming Jeep layoffs](https://www.theverge.com/2022/12/9/23502559/stellantis-electrification-costs-layoffs-plant-halt)
+ - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)
+ - [Loved &#39;Wednesday&#39; on Netflix? Stream These Addams Family Movies and TV Shows     - CNET](https://www.cnet.com/culture/entertainment/loved-wednesday-on-netflix-stream-these-addams-family-movies-and-tv-shows-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
