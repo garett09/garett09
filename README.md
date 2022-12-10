@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch Lady Gaga Do the Funky Viral Dance From Netflix Hit &#39;Wednesday&#39;     - CNET](https://www.cnet.com/culture/entertainment/watch-lady-gaga-do-the-funky-viral-dance-from-netflix-hit-wednesday/#ftag=CAD590a51e)
  - [Stellantis is blaming EVs for its upcoming Jeep layoffs](https://www.theverge.com/2022/12/9/23502559/stellantis-electrification-costs-layoffs-plant-halt)
- - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)
- - [Loved &#39;Wednesday&#39; on Netflix? Stream These Addams Family Movies and TV Shows     - CNET](https://www.cnet.com/culture/entertainment/loved-wednesday-on-netflix-stream-these-addams-family-movies-and-tv-shows-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
