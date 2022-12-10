@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
- - [Apple TV+ dramas earn two spots on AFI&#39;s best shows of the year list](https://appleinsider.com/articles/22/12/09/apple-tv-dramas-earn-two-spots-on-afis-best-shows-of-the-year-list?utm_medium=rss)
- - [Guillermo del Toro’s Pinocchio is a gnarly and spiritual fairy tale about what makes life beautiful](https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review)<!-- TECH:END -->
+ - [London-based 9fin, which offers AI-powered data analytics for debt markets, raised a $23M Series A+ led by Spark Capital, bringing its total funding to $37.2M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221209/p21#a221209p21)
+ - [Microsoft May Create All-in-One &#39;Super App&#39; to Compete With Apple, Google     - CNET](https://www.cnet.com/news/microsoft-may-create-all-in-one-super-app-to-compete-with-apple-google/#ftag=CAD590a51e)
+ - [8 Best Weighted Blankets for 2022     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
