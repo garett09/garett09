@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Milkshake](http://9gag.com/gag/awZXmZ1)
+ - 🚖 [Real chad](http://9gag.com/gag/aQE3ZYe)
  - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)
- - 🚯 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)<!-- MEMES:END -->
+ - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
 
 --- 
 
