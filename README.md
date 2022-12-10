@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s $8 Twitter Blue subscription is coming back with phone number verification and a higher price on iOS](https://www.theverge.com/2022/12/10/23503355/twitter-blue-verification-elon-musk-phone-number-ads)
- - [Deals: get a free $30 gift card with a Costco membership](https://appleinsider.com/articles/22/12/10/deals-get-a-free-30-gift-card-with-a-costco-membership?utm_medium=rss)
- - [Couchmaster Cybot review: an expensive couch prison](https://appleinsider.com/articles/22/12/10/couchmaster-cybot-review-an-expensive-couch-prison?utm_medium=rss)<!-- TECH:END -->
+ - [Grab a 14-inch MacBook Pro for just $1,574 with B&amp;H&#39;s Payboo Card](https://appleinsider.com/articles/22/12/10/grab-a-14-inch-macbook-pro-for-just-1574-with-bhs-payboo-card?utm_medium=rss)
+ - [MacCleaner Pro review: Simple, fast app for reclaiming storage space, speeding up Mac](https://appleinsider.com/articles/22/12/10/maccleaner-pro-review-simple-fast-app-for-reclaiming-storage-space-speeding-up-mac?utm_medium=rss)
+ - [Apple services are the best for staying connected when apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
