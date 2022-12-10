@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
- - 🚯 [True](http://9gag.com/gag/a7qMnne)
- - 🚯 [Pokemon segs](http://9gag.com/gag/aZD3Rvn)<!-- MEMES:END -->
+ - 🚖 [Is she into you?](http://9gag.com/gag/a9qpvV6)
+ - 🚯 [Bartender](http://9gag.com/gag/aDYxMoO)
+ - 🚯 [Potato in the comments](http://9gag.com/gag/aOxrpn3)<!-- MEMES:END -->
 
 --- 
 
