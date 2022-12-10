@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two mystery Macs appear in Steam&#39;s hardware survey](https://appleinsider.com/articles/22/12/10/two-mystery-macs-appear-in-steams-hardware-survey?utm_medium=rss)
- - [Humixx Car Mount review: iPhone clamp in a MagSafe world](https://appleinsider.com/articles/22/12/10/humixx-car-mount-review-iphone-clamp-in-a-magsafe-world?utm_medium=rss)
- - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s $8 Twitter Blue subscription is coming back with phone number verification and a higher price on iOS](https://www.theverge.com/2022/12/10/23503355/twitter-blue-verification-elon-musk-phone-number-ads)
+ - [Deals: get a free $30 gift card with a Costco membership](https://appleinsider.com/articles/22/12/10/deals-get-a-free-30-gift-card-with-a-costco-membership?utm_medium=rss)
+ - [Couchmaster Cybot review: an expensive couch prison](https://appleinsider.com/articles/22/12/10/couchmaster-cybot-review-an-expensive-couch-prison?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
