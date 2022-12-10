@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - 🚯 [Man fights a police dog handler on a night out](http://9gag.com/gag/aYVg1Lv)
- - 🚯 [This Brazil fan went all out at the WC.](http://9gag.com/gag/aXnxW1z)<!-- MEMES:END -->
+ - 🚖 [Paris, in front of the Louvre Museum](http://9gag.com/gag/aBdx6XN)
+ - 🚯 [Cat defend her boy](http://9gag.com/gag/aDYxOA7)
+ - 🚯 [We live in a society.](http://9gag.com/gag/a8qoKbQ)<!-- MEMES:END -->
 
 --- 
 
