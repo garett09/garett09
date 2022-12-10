@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Whale shoves all Darren Aronofsky’s worst themes into a fat suit](https://www.polygon.com/reviews/23351261/the-whale-review-brendan-fraser-darren-aronofsky)
  - [An upcoming RTS will incorporate the rollback tech that took Fighting games by storm](https://www.pcgamer.com/an-upcoming-rts-will-incorporate-the-rollback-tech-that-took-fighting-games-by-storm)
- - [$4.8 million paid to ZA/UM and one lawsuit dropped as the battle over Disco Elysium continues](https://www.pcgamer.com/dollar48-million-paid-to-zaum-and-one-lawsuit-dropped-as-the-battle-over-disco-elysium-continues)
- - [A pooping burglar derailed Guillermo del Toro’s original animation career](https://www.polygon.com/23502146/guillermo-del-toro-pinocchio-animation-interview)<!-- GAME:END -->
+ - [$4.8 million paid to ZA/UM and one lawsuit dropped as the battle over Disco Elysium continues](https://www.pcgamer.com/dollar48-million-paid-to-zaum-and-one-lawsuit-dropped-as-the-battle-over-disco-elysium-continues)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
