@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old cartoons were are the best, the logic is insane](http://9gag.com/gag/aXnxRQb)
- - 🚯 [Cool, calm and collected](http://9gag.com/gag/agoX2zg)
- - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
+ - 🚖 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)
+ - 🚯 [Real chad](http://9gag.com/gag/aQE3ZYe)
+ - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)<!-- MEMES:END -->
 
 --- 
 
