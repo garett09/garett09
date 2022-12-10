@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Mate 50 Pro: Still the mobile camera king?](https://www.androidauthority.com/huawei-mate-50-pro-camera-review-3244393/)
- - [Pink Snow Is Not a Cute Phenomenon—Here’s Why](https://www.wired.com/story/pink-snow-is-not-a-cute-phenomenon-heres-why/)
- - [Insta360 X3 Review: A 360 and Action Camera in One](https://www.wired.com/review/insta360-x3-360-action-camera/)<!-- TECH:END -->
+ - [Holiday Gift Guide: Best stocking stuffer gifts under $20 for iPhone &amp; iPad users](https://appleinsider.com/articles/22/12/10/holiday-gift-guide-best-stocking-stuffer-gifts-under-20-for-iphone-ipad-users?utm_medium=rss)
+ - [Attackers Keep Targeting the US Electric Grid](https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/)
+ - [Dyson’s Zone Air Purifying Headphones Will Cost $950](https://www.wired.com/story/dyson-zone-air-purifying-headset-costs-950-dollars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
