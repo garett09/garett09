@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A pooping burglar derailed Guillermo del Toro’s original animation career](https://www.polygon.com/23502146/guillermo-del-toro-pinocchio-animation-interview)
  - [Can the internet stop hating every woman on TV dealing with problems](https://www.polygon.com/23501769/white-lotus-portia-internet-hate-fandom-hbo)
- - [The best TV shows on Netflix](https://www.polygon.com/what-to-watch/23498549/best-tv-shows-netflix)
- - [Today&#39;s Wordle answer and hint for Saturday, December 10](https://www.pcgamer.com/wordle-539-answer-december-10)<!-- GAME:END -->
+ - [The best TV shows on Netflix](https://www.polygon.com/what-to-watch/23498549/best-tv-shows-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
