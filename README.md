@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Saturday, December 10](https://www.pcgamer.com/wordle-539-answer-december-10)
  - [Emily the Criminal gives Aubrey Plaza the perfect showcase](https://www.polygon.com/23301906/emily-the-criminal-review-aubrey-plaza-netflix)
- - [The Outbound Ghost dev defaces his own Steam page in dispute with publisher](https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher)
- - [Emancipation, del Toro’s Pinocchio, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/12/9/23494194/new-movies-watch-emancipation-will-smith-netflix-pinocchio-del-toro)<!-- GAME:END -->
+ - [The Outbound Ghost dev defaces his own Steam page in dispute with publisher](https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
