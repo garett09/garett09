@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
- - 🚯 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
- - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
+ - 🚖 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
+ - 🚯 [True](http://9gag.com/gag/a7qMnne)
+ - 🚯 [Pokemon segs](http://9gag.com/gag/aZD3Rvn)<!-- MEMES:END -->
 
 --- 
 
