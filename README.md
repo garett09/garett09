@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, worried about its reputation, is hesitant to release its capable bot LaMDA, but by waiting too long it may cede the market to competitors like ChatGPT &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/221210/p10#a221210p10)
  - [Use these Apple services to stay connected when physically far apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)
- - [SEC asks companies to disclose exposure to struggling crypto firms](https://www.theverge.com/2022/12/10/23502937/sec-disclose-cryptocurrency-bankruptcy-involvement)
- - [This Is What Might Happen if an Asteroid Crashed Into Your Town     - CNET](https://www.cnet.com/science/space/this-is-what-might-happen-if-an-asteroid-crashed-into-your-town/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC asks companies to disclose exposure to struggling crypto firms](https://www.theverge.com/2022/12/10/23502937/sec-disclose-cryptocurrency-bankruptcy-involvement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
