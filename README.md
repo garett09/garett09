@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Use these Apple services to stay connected when physically far apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)
  - [SEC asks companies to disclose exposure to struggling crypto firms](https://www.theverge.com/2022/12/10/23502937/sec-disclose-cryptocurrency-bankruptcy-involvement)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-462-3249579/)
- - [Three members of Twitter&#39;s Trust &amp; Safety Council, including two who have been members since 2016, resign, alleging Twitter&#39;s new leadership had shut them out &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/221210/p9#a221210p9)<!-- TECH:END -->
+ - [This Is What Might Happen if an Asteroid Crashed Into Your Town     - CNET](https://www.cnet.com/science/space/this-is-what-might-happen-if-an-asteroid-crashed-into-your-town/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
