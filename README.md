@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Republicans poised to take over the House in 2023, a look at the prospects of the bipartisan American Data Privacy and Protection Act in a divided Congress &lpar;Washington Post&rpar;](http://www.techmeme.com/221210/p8#a221210p8)
- - [Amazon Fire TV Cube &lpar;3rd gen&rpar; review: One box to rule them all?](https://www.androidauthority.com/amazon-fire-tv-cube-3rd-gen-review-3243902/)
- - [Apple’s terrific M1 iPad Air is matching its best price to date right now](https://www.theverge.com/2022/12/10/23501195/apple-ipad-air-2022-sony-wh-1000xm5-headphones-fitbit-versa-4-xbox-playstation-gift-cards-deal-sale)<!-- TECH:END -->
+ - [The Google Pixel 7 Pro is Android Authority’s pick for best phone of 2022](https://www.androidauthority.com/the-best-phone-2022-editors-choice-3245925/)
+ - [These Philips Hue string lights will make your Christmas tree sparkle](https://www.theverge.com/23501949/philips-hue-festavia-string-lights-review)
+ - [The Verge’s 2022 holiday gift guide for kids](https://www.theverge.com/23500508/holiday-gift-ideas-kids-children-teens-unique-tech-gadgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
