@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real chad](http://9gag.com/gag/aQE3ZYe)
- - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)
- - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
+ - 🚖 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
+ - 🚯 [Real chad](http://9gag.com/gag/aQE3ZYe)
+ - 🚯 [The anguished cries of a family member of Mohsen Shekari, the 23-year-old protester in Iran who was executed by hanging this morning.](http://9gag.com/gag/az2XPZp)<!-- MEMES:END -->
 
 --- 
 
