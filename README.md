@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday Gift Guide: Best stocking stuffer gifts under $20 for iPhone &amp; iPad users](https://appleinsider.com/articles/22/12/10/holiday-gift-guide-best-stocking-stuffer-gifts-under-20-for-iphone-ipad-users?utm_medium=rss)
- - [Attackers Keep Targeting the US Electric Grid](https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/)
- - [Dyson’s Zone Air Purifying Headphones Will Cost $950](https://www.wired.com/story/dyson-zone-air-purifying-headset-costs-950-dollars/)<!-- TECH:END -->
+ - [With Republicans poised to take over the House in 2023, a look at the prospects of the bipartisan American Data Privacy and Protection Act in a divided Congress &lpar;Washington Post&rpar;](http://www.techmeme.com/221210/p8#a221210p8)
+ - [Amazon Fire TV Cube &lpar;3rd gen&rpar; review: One box to rule them all?](https://www.androidauthority.com/amazon-fire-tv-cube-3rd-gen-review-3243902/)
+ - [Apple’s terrific M1 iPad Air is matching its best price to date right now](https://www.theverge.com/2022/12/10/23501195/apple-ipad-air-2022-sony-wh-1000xm5-headphones-fitbit-versa-4-xbox-playstation-gift-cards-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
