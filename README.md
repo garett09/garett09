@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite Elon Musk&#39;s opaque approach, the &quot;Twitter Files&quot; give a peek at moderation at scale and are a win for transparency, while failing to prove systemic bias &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221210/p6#a221210p6)
- - [The FTC will face hurdles to block Microsoft&#39;s Activision deal, as courts are skeptical of vertical merger challenges where two companies don&#39;t compete directly &lpar;New York Times&rpar;](http://www.techmeme.com/221210/p5#a221210p5)
- - [FTC officials seeking to block Microsoft&#39;s Activision deal are potentially more concerned about the future of cloud gaming than console-exclusive games &lpar;Bloomberg&rpar;](http://www.techmeme.com/221210/p4#a221210p4)<!-- TECH:END -->
+ - [The Weekly Authority: 👀 Pixel Fold renders break cover](https://www.androidauthority.com/the-weekly-authority-december-10-2022-224-3249024/)
+ - [Filson’s Ballistic Nylon Duffle Pack Really Is the Greatest Bag Ever Made](https://www.wired.com/story/filson-ballistic-nylon-duffle-pack-best-bag-ever/)
+ - [19 Best Deals: TVs, Soundbars, and Headphones](https://www.wired.com/story/weekend-deals-december-10-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
