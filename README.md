@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Brazil fan went all out at the WC.](http://9gag.com/gag/aXnxW1z)
+ - 🚖 [Cool, calm and collected](http://9gag.com/gag/agoX2zg)
  - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)
- - 🚯 [Where are my testicles, summer?](http://9gag.com/gag/aYVgRAq)<!-- MEMES:END -->
+ - 🚯 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)<!-- MEMES:END -->
 
 --- 
 
