@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You just won A BRAND NEW CAR!!!](http://9gag.com/gag/aQE3O6r)
- - 🚯 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
- - 🚯 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)<!-- MEMES:END -->
+ - 🚖 [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)
+ - 🚯 [Sad sad](http://9gag.com/gag/a04K0jX)
+ - 🚯 [The LA Rams have an assistant coach whose job is to make sure Head Coach Sean McVay doesn&#39;t run into the officials](http://9gag.com/gag/aYVgMw0)<!-- MEMES:END -->
 
 --- 
 
