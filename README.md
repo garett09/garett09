@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 👀 Pixel Fold renders break cover](https://www.androidauthority.com/the-weekly-authority-december-10-2022-224-3249024/)
- - [Filson’s Ballistic Nylon Duffle Pack Really Is the Greatest Bag Ever Made](https://www.wired.com/story/filson-ballistic-nylon-duffle-pack-best-bag-ever/)
- - [19 Best Deals: TVs, Soundbars, and Headphones](https://www.wired.com/story/weekend-deals-december-10-2022/)<!-- TECH:END -->
+ - [Huawei Mate 50 Pro: Still the mobile camera king?](https://www.androidauthority.com/huawei-mate-50-pro-camera-review-3244393/)
+ - [Pink Snow Is Not a Cute Phenomenon—Here’s Why](https://www.wired.com/story/pink-snow-is-not-a-cute-phenomenon-heres-why/)
+ - [Insta360 X3 Review: A 360 and Action Camera in One](https://www.wired.com/review/insta360-x3-360-action-camera/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
