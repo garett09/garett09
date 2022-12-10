@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [$4.8 million paid to ZA/UM and one lawsuit dropped as the battle over Disco Elysium continues](https://www.pcgamer.com/dollar48-million-paid-to-zaum-and-one-lawsuit-dropped-as-the-battle-over-disco-elysium-continues)
  - [A pooping burglar derailed Guillermo del Toro’s original animation career](https://www.polygon.com/23502146/guillermo-del-toro-pinocchio-animation-interview)
- - [Can the internet stop hating every woman on TV dealing with problems](https://www.polygon.com/23501769/white-lotus-portia-internet-hate-fandom-hbo)
- - [The best TV shows on Netflix](https://www.polygon.com/what-to-watch/23498549/best-tv-shows-netflix)<!-- GAME:END -->
+ - [Can the internet stop hating every woman on TV dealing with problems](https://www.polygon.com/23501769/white-lotus-portia-internet-hate-fandom-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
