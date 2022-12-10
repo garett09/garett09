@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Lady Gaga Do the Funky Viral Dance From Netflix Hit &#39;Wednesday&#39;     - CNET](https://www.cnet.com/culture/entertainment/watch-lady-gaga-do-the-funky-viral-dance-from-netflix-hit-wednesday/#ftag=CAD590a51e)
- - [Stellantis is blaming EVs for its upcoming Jeep layoffs](https://www.theverge.com/2022/12/9/23502559/stellantis-electrification-costs-layoffs-plant-halt)
- - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Three Wordle Starter Words Almost Guarantee a Winning Streak     - CNET](https://www.cnet.com/culture/these-three-wordle-starter-words-almost-guarantee-a-winning-streak/#ftag=CAD590a51e)
+ - [2022 Geminid Meteor Shower Ramps Up This Weekend as Peak Approaches     - CNET](https://www.cnet.com/science/space/2022-geminid-meteor-shower-ramps-up-this-weekend-as-peak-approaches/#ftag=CAD590a51e)
+ - [Watch Lady Gaga Do the Funky Viral Dance From Netflix Hit &#39;Wednesday&#39;     - CNET](https://www.cnet.com/culture/entertainment/watch-lady-gaga-do-the-funky-viral-dance-from-netflix-hit-wednesday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
