@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paris, in front of the Louvre Museum](http://9gag.com/gag/aBdx6XN)
- - 🚯 [Man fights a police dog handler on a night out](http://9gag.com/gag/aYVg1Lv)
- - 🚯 [When I am asked to work longer on a Friday](http://9gag.com/gag/amA7Vwy)<!-- MEMES:END -->
+ - 🚖 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
+ - 🚯 [My boss when I&#39;m 5 minutes late](http://9gag.com/gag/a4o7qgA)
+ - 🚯 [Vice President of the European Parliament got arrested](http://9gag.com/gag/aRE32p7)<!-- MEMES:END -->
 
 --- 
 
