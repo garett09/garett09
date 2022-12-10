@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can the internet stop hating every woman on TV dealing with problems](https://www.polygon.com/23501769/white-lotus-portia-internet-hate-fandom-hbo)
  - [The best TV shows on Netflix](https://www.polygon.com/what-to-watch/23498549/best-tv-shows-netflix)
- - [Today&#39;s Wordle answer and hint for Saturday, December 10](https://www.pcgamer.com/wordle-539-answer-december-10)
- - [Emily the Criminal gives Aubrey Plaza the perfect showcase](https://www.polygon.com/23301906/emily-the-criminal-review-aubrey-plaza-netflix)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer and hint for Saturday, December 10](https://www.pcgamer.com/wordle-539-answer-december-10)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
