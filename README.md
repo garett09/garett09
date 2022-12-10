@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 7 Pro is Android Authority’s pick for best phone of 2022](https://www.androidauthority.com/the-best-phone-2022-editors-choice-3245925/)
- - [These Philips Hue string lights will make your Christmas tree sparkle](https://www.theverge.com/23501949/philips-hue-festavia-string-lights-review)
- - [The Verge’s 2022 holiday gift guide for kids](https://www.theverge.com/23500508/holiday-gift-ideas-kids-children-teens-unique-tech-gadgets)<!-- TECH:END -->
+ - [SEC asks companies to disclose exposure to struggling crypto firms](https://www.theverge.com/2022/12/10/23502937/sec-disclose-cryptocurrency-bankruptcy-involvement)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-462-3249579/)
+ - [Three members of Twitter&#39;s Trust &amp; Safety Council, including two who have been members since 2016, resign, alleging Twitter&#39;s new leadership had shut them out &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/221210/p9#a221210p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
