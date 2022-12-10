@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
- - 🚯 [F__ked around, Found out](http://9gag.com/gag/aDYxMv7)
- - 🚯 [Not all boats lead to Rome](http://9gag.com/gag/aYVgm0w)<!-- MEMES:END -->
+ - 🚖 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
+ - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)
+ - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
 
 --- 
 
