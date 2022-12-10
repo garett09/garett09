@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)
- - 🚯 [Evil Wench! Heartless! I can&#39;t stand evil women](http://9gag.com/gag/amA7dPX)
- - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
+ - 🚖 [Save it for meme collection](http://9gag.com/gag/aeQM70p)
+ - 🚯 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
 
 --- 
 
