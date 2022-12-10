@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)
- - 🚯 [Father of the year](http://9gag.com/gag/aGEj71X)
- - 🚯 [Welcome to Germany](http://9gag.com/gag/a5Xo5EE)<!-- MEMES:END -->
+ - 🚖 [Real chad](http://9gag.com/gag/aQE3ZYe)
+ - 🚯 [Pristine clean](http://9gag.com/gag/ap92Ve5)
+ - 🚯 [Only 83 km outside Moscow](http://9gag.com/gag/aoKNRzx)<!-- MEMES:END -->
 
 --- 
 
