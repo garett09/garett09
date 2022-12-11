@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)
- - 🚯 [Evil Wench! Heartless! I can&#39;t stand evil women](http://9gag.com/gag/amA7dPX)
- - 🚯 [The end of an era.](http://9gag.com/gag/a7qMGqm)<!-- MEMES:END -->
+ - 🚖 [Confessed killer Stephen McDaniel keeps his body eerily still during 2 hour interrogation](http://9gag.com/gag/aGEjMOz)
+ - 🚯 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
+ - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)<!-- MEMES:END -->
 
 --- 
 
