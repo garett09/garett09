@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot is suing NetEase over an alleged Valorant clone](https://www.pcgamer.com/riot-is-suing-netease-over-an-alleged-valorant-clone)
- - [The Whale shoves all Darren Aronofsky’s worst themes into a fat suit](https://www.polygon.com/reviews/23351261/the-whale-review-brendan-fraser-darren-aronofsky)
- - [An upcoming RTS will incorporate the rollback tech that took Fighting games by storm](https://www.pcgamer.com/an-upcoming-rts-will-incorporate-the-rollback-tech-that-took-fighting-games-by-storm)<!-- GAME:END -->
+ - [Witcher showrunner: &#39;I&#39;ve never mocked the books&#39;](https://www.pcgamer.com/witcher-showrunner-ive-never-mocked-the-books)
+ - [Here&#39;s a rhythm game powered entirely by chill vibes](https://www.pcgamer.com/heres-a-rhythm-game-powered-entirely-by-chill-vibes)
+ - [Just how bad was the Aerosmith videogame, Revolution X?](https://www.pcgamer.com/saturday-crapshoot-revolution-x-featuring-aerosmith)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
