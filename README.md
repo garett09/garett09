@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality](http://9gag.com/gag/amA7ObX)
- - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
- - 🚯 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
+ - 🚖 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)
+ - 🚯 [There&#39;s this guy who catches lobsters and gives them snacks for their troubles.](http://9gag.com/gag/ajVEjv0)
+ - 🚯 [Are Eye Pee Ripley](http://9gag.com/gag/aL1jo45)<!-- MEMES:END -->
 
 --- 
 
