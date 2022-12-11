@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real chad](http://9gag.com/gag/aQE3ZYe)
- - 🚯 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
+ - 🚖 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
+ - 🚯 [Equality](http://9gag.com/gag/amA7ObX)
  - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)<!-- MEMES:END -->
 
 --- 
