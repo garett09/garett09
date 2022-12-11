@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab a 14-inch MacBook Pro for just $1,574 with B&amp;H&#39;s Payboo Card](https://appleinsider.com/articles/22/12/10/grab-a-14-inch-macbook-pro-for-just-1574-with-bhs-payboo-card?utm_medium=rss)
- - [MacCleaner Pro review: Simple, fast app for reclaiming storage space, speeding up Mac](https://appleinsider.com/articles/22/12/10/maccleaner-pro-review-simple-fast-app-for-reclaiming-storage-space-speeding-up-mac?utm_medium=rss)
- - [Apple services are the best for staying connected when apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)<!-- TECH:END -->
+ - [How Apple services are best for staying connected when apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)
+ - [How AI-based natural language processing algorithms can be applied to biological data to create protein-language models and cut drug discovery time to months &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/221210/p13#a221210p13)
+ - [Best Deals on Robot Vacuums: Save on Roomba, Roborock, Eufy and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
