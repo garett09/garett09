@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
- - 🚯 [The end of an era.](http://9gag.com/gag/a7qMGqm)
- - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)<!-- MEMES:END -->
+ - 🚖 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
+ - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)<!-- MEMES:END -->
 
 --- 
 
