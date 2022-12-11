@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple services are best for staying connected when apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)
- - [How AI-based natural language processing algorithms can be applied to biological data to create protein-language models and cut drug discovery time to months &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/221210/p13#a221210p13)
- - [Best Deals on Robot Vacuums: Save on Roomba, Roborock, Eufy and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter Blue to Relaunch Monday, With Blue Check Mark, Higher iOS Price, Company Says     - CNET](https://www.cnet.com/news/social-media/twitter-blue-to-relaunch-monday-with-blue-check-mark-higher-ios-price-company-says/#ftag=CAD590a51e)
+ - [Layoffs and rescinded job offers are threatening Amazon&#39;s reputation in the tech job market, where it was already facing challenges, per a leaked June 2022 memo &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/221210/p14#a221210p14)
+ - [How Apple services are best for staying connected when apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
