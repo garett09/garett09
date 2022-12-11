@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The developer who unlocked 90Hz on the Pixel 6A needs help finishing the project](https://www.theverge.com/2022/12/11/23503314/mod-unlocked-90hz-google-pixel-6a)
- - [Pitaka MagEZ Pro Case review: Wireless iPad charging at a steep price](https://appleinsider.com/articles/22/12/11/pitaka-magez-pro-case-review-wireless-ipad-charging-at-a-steep-price?utm_medium=rss)
- - [14 Best Portable Battery Chargers &lpar;2022&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [Amazon Fire TV Voice Remote Pro: Is it worth the upgrade?](https://www.androidauthority.com/amazon-fire-tv-voice-remote-pro-3242341/)
+ - [Jaguars vs. Titans Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jaguars-vs-titans-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)
+ - [Amazon Is Offering Another Chance to Snag Google Devices at Black Friday Prices     - CNET](https://www.cnet.com/deals/amazon-is-offering-another-chance-to-snag-google-devices-at-black-friday-prices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
