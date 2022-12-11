@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
- - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)<!-- MEMES:END -->
+ - 🚖 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)
+ - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
+ - 🚯 [It&#39;s a pretty good deal](http://9gag.com/gag/aPgjpQP)<!-- MEMES:END -->
 
 --- 
 
