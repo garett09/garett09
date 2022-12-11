@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Blue to Relaunch Monday, With Blue Check Mark, Higher iOS Price, Company Says     - CNET](https://www.cnet.com/news/social-media/twitter-blue-to-relaunch-monday-with-blue-check-mark-higher-ios-price-company-says/#ftag=CAD590a51e)
- - [Layoffs and rescinded job offers are threatening Amazon&#39;s reputation in the tech job market, where it was already facing challenges, per a leaked June 2022 memo &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/221210/p14#a221210p14)
- - [How Apple services are best for staying connected when apart](https://appleinsider.com/inside/ios/tips/use-these-apple-services-to-stay-connected-when-physically-far-apart?utm_medium=rss)<!-- TECH:END -->
+ - [Best King-Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Twitter Blue to Relaunch With, Twitter Says, &#39;Review&#39; for Check Marks     - CNET](https://www.cnet.com/news/social-media/twitter-blue-may-be-more-expensive-if-you-subscribe-via-apple/#ftag=CAD590a51e)
+ - [Twitter Blue to Relaunch Monday, With Blue Check Mark, Higher iOS Price, Company Says     - CNET](https://www.cnet.com/news/social-media/twitter-blue-to-relaunch-monday-with-blue-check-mark-higher-ios-price-company-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
