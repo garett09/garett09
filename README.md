@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
- - 🚯 [Watch out for cars](http://9gag.com/gag/aQE3B7W)
- - 🚯 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)<!-- MEMES:END -->
+ - 🚖 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)
+ - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
+ - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
 
 --- 
 
