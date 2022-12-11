@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best PS5 Gaming Headsets for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps5-gaming-headsets-for-2022/#ftag=CAD590a51e)
- - [Best King-Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [Twitter Blue to Relaunch With, Twitter Says, &#39;Review&#39; for Check Marks     - CNET](https://www.cnet.com/news/social-media/twitter-blue-may-be-more-expensive-if-you-subscribe-via-apple/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts warn of a &quot;hallucination&quot; problem with ChatGPT and LaMDA, as these chatbots take what they have learned and reshape it without regard for what is true &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/221211/p3#a221211p3)
+ - [A look at some early-adopters using ChatGPT, GPT-3, and other text generator bots to write business emails, find creative inspiration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/221211/p2#a221211p2)
+ - [Pactum, which offers AI-powered software to help big companies like Walmart automate routine supplier negotiations, raised a $20M Series A extension led by 3VC &lpar;Brendan Murray/Bloomberg&rpar;](http://www.techmeme.com/221211/p1#a221211p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
