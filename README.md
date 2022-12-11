@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony&#39;s CTO and NEC&#39;s CEO say US chip export controls may temporarily impact China&#39;s ability to procure chips but question the sanctions&#39; long-term effectiveness &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/221211/p4#a221211p4)
  - [11 Great Last-Minute Christmas Gifts You Can Print or Email     - CNET](https://www.cnet.com/deals/last-minute-gifts/#ftag=CAD590a51e)
- - [Experts warn of a &quot;hallucination&quot; problem with ChatGPT and LaMDA, as these chatbots take what they have learned and reshape it without regard for what is true &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/221211/p3#a221211p3)
- - [A look at some early-adopters using ChatGPT, GPT-3, and other text generator bots to write business emails, find creative inspiration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/221211/p2#a221211p2)<!-- TECH:END -->
+ - [Experts warn of a &quot;hallucination&quot; problem with ChatGPT and LaMDA, as these chatbots take what they have learned and reshape it without regard for what is true &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/221211/p3#a221211p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
