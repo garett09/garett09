@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)
- - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
- - 🚯 [Kung fu 80 lvl](http://9gag.com/gag/a8qoVg3)<!-- MEMES:END -->
+ - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
+ - 🚯 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 --- 
 
