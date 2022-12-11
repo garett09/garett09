@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [MacCleaner Pro review: Simple, fast app for reclaiming storage space, speeding up Mac](https://appleinsider.com/articles/22/12/10/maccleaner-pro-review-simple-fast-app-for-reclaiming-storage-space-speeding-up-mac?utm_medium=rss)
- - [Knock Some Names Off Your List With Up to 50% Off Toys and More at Walmart     - CNET](https://www.cnet.com/deals/knock-some-names-off-your-list-with-up-to-50-off-toys-and-more-at-walmart/#ftag=CAD590a51e)
- - [Ex-staffers say Twitter&#39;s mass firing of security staff and growing reliance on automation will help China and other authoritarian regimes in silencing critics &lpar;Adam Rawnsley/Rolling Stone&rpar;](http://www.techmeme.com/221211/p7#a221211p7)<!-- TECH:END -->
+ - [Apple Car can be a success without a wow factor](https://appleinsider.com/articles/22/12/11/apple-car-can-be-a-success-without-a-wow-factor?utm_medium=rss)
+ - [Apple AirPods Pro 2 drop to $199 &lpar;$50 off&rpar; with top holiday deal](https://appleinsider.com/articles/22/12/11/apple-airpods-pro-2-drop-to-199-50-off-with-top-holiday-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
