@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Android&#39;s New Distraction-Free Reading Mode](https://www.wired.com/story/how-to-use-reading-mode-android/)
- - [Uber&#39;s slow response to law enforcement requests and a complex request process are leaving drivers vulnerable to repeated attacks by riders using fake accounts &lpar;Dara Kerr/The Markup&rpar;](http://www.techmeme.com/221211/p5#a221211p5)
- - [Daily deals Dec. 11: $150 off 24-inch iMac, $100 off AnyCubic Resin 3D printer, $779 Apple Watch Ultra, more](https://appleinsider.com/articles/22/12/11/daily-deals-dec-11-150-off-24-inch-imac-100-off-anycubic-resin-3d-printer-779-apple-watch-ultra-more?utm_medium=rss)<!-- TECH:END -->
+ - [Pitaka MagEZ Pro Case review: Wireless iPad charging at a steep price](https://appleinsider.com/articles/22/12/11/pitaka-magez-pro-case-review-wireless-ipad-charging-at-a-steep-price?utm_medium=rss)
+ - [14 Best Portable Battery Chargers &lpar;2022&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Elon Musk tweeted an excerpt of Yoel Roth&#39;s doctoral dissertation, baselessly suggesting that the ex-Twitter executive is an advocate for child sexualization &lpar;Bloomberg&rpar;](http://www.techmeme.com/221211/p6#a221211p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
