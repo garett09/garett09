@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evil Wench! Heartless! I can&#39;t stand evil women](http://9gag.com/gag/amA7dPX)
- - 🚯 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)<!-- MEMES:END -->
+ - 🚖 [When the](http://9gag.com/gag/aqe7pYL)
+ - 🚯 [Right in the spot](http://9gag.com/gag/amA7bE6)
+ - 🚯 [Musicians!](http://9gag.com/gag/aGEj6Ow)<!-- MEMES:END -->
 
 --- 
 
