@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s this guy who catches lobsters and gives them snacks for their troubles.](http://9gag.com/gag/ajVEjv0)
- - 🚯 [Every morning at 5 AM](http://9gag.com/gag/a3ZKzqe)
- - 🚯 [Big brain time](http://9gag.com/gag/a2KoAw1)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aA0xvj2)
+ - 🚯 [Region Diff](http://9gag.com/gag/aEqxbMG)
+ - 🚯 [How to tell people who don\u2019t belong in a comic book store](http://9gag.com/gag/a04KWVq)<!-- MEMES:END -->
 
 --- 
 
