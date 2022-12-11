@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The developer who unlocked 90Hz on the Pixel 6A needs help finishing the project](https://www.theverge.com/2022/12/11/23503314/mod-unlocked-90hz-google-pixel-6a)
  - [Pitaka MagEZ Pro Case review: Wireless iPad charging at a steep price](https://appleinsider.com/articles/22/12/11/pitaka-magez-pro-case-review-wireless-ipad-charging-at-a-steep-price?utm_medium=rss)
- - [14 Best Portable Battery Chargers &lpar;2022&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Elon Musk tweeted an excerpt of Yoel Roth&#39;s doctoral dissertation, baselessly suggesting that the ex-Twitter executive is an advocate for child sexualization &lpar;Bloomberg&rpar;](http://www.techmeme.com/221211/p6#a221211p6)<!-- TECH:END -->
+ - [14 Best Portable Battery Chargers &lpar;2022&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
