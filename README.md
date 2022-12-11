@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
- - 🚯 [Finnish show ask for Thailand capital name](http://9gag.com/gag/a7qMGMz)
- - 🚯 [Old cartoons were are the best, the logic is insane](http://9gag.com/gag/aXnxRQb)<!-- MEMES:END -->
+ - 🚯 [An Activist from the \u201elast Generation\u201c in Switzerland used a to strong Glue and had to be freed with a Jackhammer](http://9gag.com/gag/aRE3y02)
+ - 🚯 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)<!-- MEMES:END -->
 
 --- 
 
