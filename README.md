@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bote Dock Hangout 240 Turns Every Gathering Into a Pool Party](https://www.wired.com/story/bote-dock-hangout-240-rave/)
- - [Sony&#39;s CTO and NEC&#39;s CEO say US chip export controls may temporarily impact China&#39;s ability to procure chips but question the sanctions&#39; long-term effectiveness &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/221211/p4#a221211p4)
- - [11 Great Last-Minute Christmas Gifts You Can Print or Email     - CNET](https://www.cnet.com/deals/last-minute-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi 13 series is official: Finally, a full-blown Galaxy S23 rival?](https://www.androidauthority.com/xiaomi-13-series-3249344/)
+ - [The iPad Pro M2 makes an extraordinary tablet feel a little more ordinary](https://www.androidauthority.com/apple-ipad-pro-m2-2022-review-3242319/)
+ - [Your Brain Uses Calculus to Control Fast Movements](https://www.wired.com/story/your-brain-uses-calculus-to-control-fast-movements/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
