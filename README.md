@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 540 answer and hint for Sunday, December 11](https://www.pcgamer.com/wordle-540-answer-december-11)
  - [Activision to &#39;nerf&#39; chart-topping Call of Duty skin by making it more visible, with some players seeking refunds](https://www.pcgamer.com/activision-to-nerf-chart-topping-call-of-duty-skin-by-making-it-more-visible-with-some-players-seeking-refunds)
- - [Witcher showrunner: &#39;I&#39;ve never mocked the books&#39;](https://www.pcgamer.com/witcher-showrunner-ive-never-mocked-the-books)
- - [Here&#39;s a rhythm game powered entirely by chill vibes](https://www.pcgamer.com/heres-a-rhythm-game-powered-entirely-by-chill-vibes)<!-- GAME:END -->
+ - [Witcher showrunner: &#39;I&#39;ve never mocked the books&#39;](https://www.pcgamer.com/witcher-showrunner-ive-never-mocked-the-books)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
