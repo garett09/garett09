@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Confessed killer Stephen McDaniel keeps his body eerily still during 2 hour interrogation](http://9gag.com/gag/aGEjMOz)
- - 🚯 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
- - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)<!-- MEMES:END -->
+ - 🚖 [Christmas wonders](http://9gag.com/gag/aGEjoZG)
+ - 🚯 [Finnish show ask for Thailand capital name](http://9gag.com/gag/a7qMGMz)
+ - 🚯 [When the](http://9gag.com/gag/aqe7pYL)<!-- MEMES:END -->
 
 --- 
 
