@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Great Last-Minute Christmas Gifts You Can Print or Email     - CNET](https://www.cnet.com/deals/last-minute-gifts/#ftag=CAD590a51e)
  - [Experts warn of a &quot;hallucination&quot; problem with ChatGPT and LaMDA, as these chatbots take what they have learned and reshape it without regard for what is true &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/221211/p3#a221211p3)
- - [A look at some early-adopters using ChatGPT, GPT-3, and other text generator bots to write business emails, find creative inspiration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/221211/p2#a221211p2)
- - [Pactum, which offers AI-powered software to help big companies like Walmart automate routine supplier negotiations, raised a $20M Series A extension led by 3VC &lpar;Brendan Murray/Bloomberg&rpar;](http://www.techmeme.com/221211/p1#a221211p1)<!-- TECH:END -->
+ - [A look at some early-adopters using ChatGPT, GPT-3, and other text generator bots to write business emails, find creative inspiration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/221211/p2#a221211p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
