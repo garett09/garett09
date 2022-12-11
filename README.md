@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - 🚯 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
- - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)<!-- MEMES:END -->
+ - 🚖 [There&#39;s this guy who catches lobsters and gives them snacks for their troubles.](http://9gag.com/gag/ajVEjv0)
+ - 🚯 [Every morning at 5 AM](http://9gag.com/gag/a3ZKzqe)
+ - 🚯 [Big brain time](http://9gag.com/gag/a2KoAw1)<!-- MEMES:END -->
 
 --- 
 
