@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
- - 🚯 [An Activist from the \u201elast Generation\u201c in Switzerland used a to strong Glue and had to be freed with a Jackhammer](http://9gag.com/gag/aRE3y02)
- - 🚯 [Race influence on opposite sex attraction](http://9gag.com/gag/aYVgPdm)<!-- MEMES:END -->
+ - 🚖 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)
+ - 🚯 [Evil Wench! Heartless! I can&#39;t stand evil women](http://9gag.com/gag/amA7dPX)
+ - 🚯 [The end of an era.](http://9gag.com/gag/a7qMGqm)<!-- MEMES:END -->
 
 --- 
 
