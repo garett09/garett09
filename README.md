@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best PS5 Gaming Headsets for 2022     - CNET](https://www.cnet.com/tech/gaming/best-ps5-gaming-headsets-for-2022/#ftag=CAD590a51e)
  - [Best King-Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [Twitter Blue to Relaunch With, Twitter Says, &#39;Review&#39; for Check Marks     - CNET](https://www.cnet.com/news/social-media/twitter-blue-may-be-more-expensive-if-you-subscribe-via-apple/#ftag=CAD590a51e)
- - [Twitter Blue to Relaunch Monday, With Blue Check Mark, Higher iOS Price, Company Says     - CNET](https://www.cnet.com/news/social-media/twitter-blue-to-relaunch-monday-with-blue-check-mark-higher-ios-price-company-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter Blue to Relaunch With, Twitter Says, &#39;Review&#39; for Check Marks     - CNET](https://www.cnet.com/news/social-media/twitter-blue-may-be-more-expensive-if-you-subscribe-via-apple/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
