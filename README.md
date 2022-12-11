@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-staffers say Twitter&#39;s mass firing of security staff and growing reliance on automation will help China and other authoritarian regimes in silencing critics &lpar;Adam Rawnsley/Rolling Stone&rpar;](http://www.techmeme.com/221211/p7#a221211p7)
- - [NASA successfully completes its Artemis I mission](https://www.theverge.com/2022/12/11/23503957/nasa-artemis-i-mission-orion-splashdown)
- - [Apple in 2023: AR, VR, HomePod, Mac Pro, AirPods Max](https://appleinsider.com/articles/22/12/11/apple-in-2023-ar-vr-homepod-mac-pro-airpods-max?utm_medium=rss)<!-- TECH:END -->
+ - [MacCleaner Pro review: Simple, fast app for reclaiming storage space, speeding up Mac](https://appleinsider.com/articles/22/12/10/maccleaner-pro-review-simple-fast-app-for-reclaiming-storage-space-speeding-up-mac?utm_medium=rss)
+ - [Knock Some Names Off Your List With Up to 50% Off Toys and More at Walmart     - CNET](https://www.cnet.com/deals/knock-some-names-off-your-list-with-up-to-50-off-toys-and-more-at-walmart/#ftag=CAD590a51e)
+ - [Ex-staffers say Twitter&#39;s mass firing of security staff and growing reliance on automation will help China and other authoritarian regimes in silencing critics &lpar;Adam Rawnsley/Rolling Stone&rpar;](http://www.techmeme.com/221211/p7#a221211p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
