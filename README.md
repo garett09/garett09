@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evil Wench! Heartless! I can&#39;t stand evil women](http://9gag.com/gag/amA7dPX)
- - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
- - 🚯 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)<!-- MEMES:END -->
+ - 🚖 [Glued to the street and cut out by police. Here: the exact moment you realize you&#39;re an idiot](http://9gag.com/gag/a2Kox39)
+ - 🚯 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)
+ - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)<!-- MEMES:END -->
 
 --- 
 
