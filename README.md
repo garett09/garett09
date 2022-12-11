@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas wonders](http://9gag.com/gag/aGEjoZG)
- - 🚯 [Finnish show ask for Thailand capital name](http://9gag.com/gag/a7qMGMz)
- - 🚯 [When the](http://9gag.com/gag/aqe7pYL)<!-- MEMES:END -->
+ - 🚖 [Are you not entertained ?](http://9gag.com/gag/aeQM2wO)
+ - 🚯 [The end of an era.](http://9gag.com/gag/a7qMGqm)
+ - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)<!-- MEMES:END -->
 
 --- 
 
