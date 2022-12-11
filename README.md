@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you liked both politics and flirting in Game of Thrones, here&#39;s your visual novel](https://www.pcgamer.com/if-you-liked-both-politics-and-flirting-in-game-of-thrones-heres-your-visual-novel)
- - [Here&#39;s to &#39;The Flute Guy&#39; a dark horse fan favorite from The Game Awards](https://www.pcgamer.com/heres-to-the-flute-guy-a-dark-horse-fan-favorite-from-the-game-awards)
- - [The 10 best documentaries of 2022](https://www.polygon.com/23500237/best-documentaries-2022)<!-- GAME:END -->
+ - [Adobe Embraces AI Art, Can Get In The Bin](https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495)
+ - [Check out this ambitious Final Fantasy Tactics mod](https://www.pcgamer.com/check-out-this-ambitious-final-fantasy-tactics-mod)
+ - [Steam sale on turn-based games ends soon](https://www.pcgamer.com/steam-sale-on-turn-based-games-ends-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
