@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacCleaner Pro review: Simple, fast app for reclaiming storage space, speeding up Mac](https://appleinsider.com/articles/22/12/10/maccleaner-pro-review-simple-fast-app-for-reclaiming-storage-space-speeding-up-mac?utm_medium=rss)
- - [Apple Car can be a success without a wow factor](https://appleinsider.com/articles/22/12/11/apple-car-can-be-a-success-without-a-wow-factor?utm_medium=rss)
- - [Apple AirPods Pro 2 drop to $199 &lpar;$50 off&rpar; with top holiday deal](https://appleinsider.com/articles/22/12/11/apple-airpods-pro-2-drop-to-199-50-off-with-top-holiday-deal?utm_medium=rss)<!-- TECH:END -->
+ - [The subpar performance of FAANG stocks, which account for more than 10% of the S&amp;P 500 weighting, will be a big drag on the market in the coming years &lpar;Kit Rees/Bloomberg&rpar;](http://www.techmeme.com/221211/p8#a221211p8)
+ - [Iowa stalker arrested for hiding three AirTags in victim&#39;s vehicle](https://appleinsider.com/articles/22/12/11/iowa-stalker-arrested-for-hiding-three-airtags-in-victims-vehicle?utm_medium=rss)
+ - [The Best Documentaries on Netflix in December 2022     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix-in-december-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
