@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/aA0xvj2)
- - 🚯 [Region Diff](http://9gag.com/gag/aEqxbMG)
- - 🚯 [How to tell people who don\u2019t belong in a comic book store](http://9gag.com/gag/a04KWVq)<!-- MEMES:END -->
+ - 🚖 [Equality](http://9gag.com/gag/amA7ObX)
+ - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
+ - 🚯 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
 
 --- 
 
