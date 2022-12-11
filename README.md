@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13 series is official: Finally, a full-blown Galaxy S23 rival?](https://www.androidauthority.com/xiaomi-13-series-3249344/)
- - [The iPad Pro M2 makes an extraordinary tablet feel a little more ordinary](https://www.androidauthority.com/apple-ipad-pro-m2-2022-review-3242319/)
- - [Your Brain Uses Calculus to Control Fast Movements](https://www.wired.com/story/your-brain-uses-calculus-to-control-fast-movements/)<!-- TECH:END -->
+ - [How to Use Android&#39;s New Distraction-Free Reading Mode](https://www.wired.com/story/how-to-use-reading-mode-android/)
+ - [Uber&#39;s slow response to law enforcement requests and a complex request process are leaving drivers vulnerable to repeated attacks by riders using fake accounts &lpar;Dara Kerr/The Markup&rpar;](http://www.techmeme.com/221211/p5#a221211p5)
+ - [Daily deals Dec. 11: $150 off 24-inch iMac, $100 off AnyCubic Resin 3D printer, $779 Apple Watch Ultra, more](https://appleinsider.com/articles/22/12/11/daily-deals-dec-11-150-off-24-inch-imac-100-off-anycubic-resin-3d-printer-779-apple-watch-ultra-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
