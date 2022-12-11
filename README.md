@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the](http://9gag.com/gag/aqe7pYL)
- - 🚯 [Right in the spot](http://9gag.com/gag/amA7bE6)
- - 🚯 [Musicians!](http://9gag.com/gag/aGEj6Ow)<!-- MEMES:END -->
+ - 🚖 [Pristine clean](http://9gag.com/gag/ap92Ve5)
+ - 🚯 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
+ - 🚯 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)<!-- MEMES:END -->
 
 --- 
 
