@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Unlock is Here: Riot Games and Benefits Come to Game Pass](https://news.xbox.com/en-us/2022/12/12/riot-games-and-benefits-come-to-game-pass/)
- - [Christopher Nolan recreated an atomic test ‘without computer graphics’ for new movie](https://www.polygon.com/23505762/christopher-nolan-oppenheimer-new-movie-atomic-test-cgi)
- - [Hold onto your hats, Returnal PC system requirements recommends 32GB RAM](https://www.pcgamer.com/returnal-pc-system-requirements)<!-- GAME:END -->
+ - [PC Requirements Reach New High As Popular PS5 Game Hits Steam](https://kotaku.com/pc-steam-returnal-ram-requirements-ps5-upgrade-1849884682)
+ - [Improved Experiences for the Xbox App on PC](https://news.xbox.com/en-us/2022/12/12/xbox-app-on-pc-updates-recap/)
+ - [When Jujutsu Kaisen season 2 comes out, based on everything we know](https://www.polygon.com/23499709/jujutsu-kaisen-season-2-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
