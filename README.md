@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - 🚯 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
- - 🚯 [Glued to the street and cut out by police. Here: the exact moment you realize you&#39;re an idiot](http://9gag.com/gag/a2Kox39)<!-- MEMES:END -->
+ - 🚖 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)
+ - 🚯 [Equality](http://9gag.com/gag/amA7ObX)
+ - 🚯 [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)<!-- MEMES:END -->
 
 --- 
 
