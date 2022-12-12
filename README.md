@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Lol](http://9gag.com/gag/aA0xvj2)
- - 🚯 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
- - 🚯 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
+ - 🚯 [How So?](http://9gag.com/gag/aPgj2wg)
+ - 🚯 [It&#39;s raining again](http://9gag.com/gag/aGEj5Zn)<!-- MEMES:END -->
 
 --- 
 
