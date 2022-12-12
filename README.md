@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the role of SBF&#39;s parents Joseph Bankman and Barbara Fried in FTX&#39;s rise; the Stanford Law professors have been in the Bahamas since FTX&#39;s collapse &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221212/p8#a221212p8)
- - [OnePlus 10T finally gets that sweet, stable Android 13 update](https://www.androidauthority.com/oneplus-10-update-3148114/)
- - [Apple looking at giant iPhone expansion in India at both retail &amp; manufacturing](https://appleinsider.com/articles/22/12/12/apple-looking-at-giant-iphone-expansion-in-india-at-both-retail-manufacturing?utm_medium=rss)<!-- TECH:END -->
+ - [Enterprise spending management software maker Coupa agrees to be acquired by PE firm Thoma Bravo for $6.15B in cash, a 30.5% premium on its Friday closing price &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/221212/p13#a221212p13)
+ - [Xiaomi announces the ~$575 Xiaomi 13 and ~$720 Xiaomi 13 Pro, adding a Snapdragon 8 Gen 2 chipset, available in China, and the Watch S2, Buds 4, and more &lpar;Jules Wang/Android Police&rpar;](http://www.techmeme.com/221212/p12#a221212p12)
+ - [These Algorithms Are Hunting for an EV Battery Mother Lode](https://www.wired.com/story/these-mining-algorithms-are-hunting-for-an-ev-battery-mother-lode/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
