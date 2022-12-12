@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You Are Beautiful, Melissa](http://9gag.com/gag/aXnx6Xd)
- - 🚯 [Why do you think they created anime and isekai.](http://9gag.com/gag/aRE3qZy)
- - 🚯 [The Ancient Languages](http://9gag.com/gag/a04KGYz)<!-- MEMES:END -->
+ - 🚖 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)
+ - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
+ - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
 
 --- 
 
