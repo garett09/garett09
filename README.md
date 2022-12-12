@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save 20% on select Dyson vacuums &amp; fans at eBay](https://appleinsider.com/articles/22/12/12/deals-save-20-on-select-dyson-vacuums-fans-at-ebay?utm_medium=rss)
- - [Dough’s next gaming monitor is a 27-inch OLED](https://www.theverge.com/23504925/dough-spectrum-oled-es07e2d-gaming-monitor-lg-27-240hz-price-release-date)
- - [Daily deals Dec. 12: $150 off M2 MacBook Air, Up to 31% off Blue microphones, up to $300 off storage, more](https://appleinsider.com/articles/22/12/12/daily-deals-dec-12-150-off-m2-macbook-air-up-to-31-off-blue-microphones-up-to-300-off-storage-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s latest AirPods Pro are back down to $199](https://www.theverge.com/2022/12/12/23505423/apple-airpods-pro-earbuds-oneplus-10-beats-fit-studio-deal-sale)
+ - [How much money you save with Apple One bundles in Fall 2022](https://appleinsider.com/inside/apple-one/tips/how-much-money-you-save-with-apple-one-bundles-in-fall-2022?utm_medium=rss)
+ - [A ‘scientific breakthrough’ in nuclear fusion? How to watch the announcement tomorrow](https://www.theverge.com/2022/12/12/23505416/nuclear-fusion-scientific-breakthrough-how-to-watch-announcement-biden)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
