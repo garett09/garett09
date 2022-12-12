@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterprise spending management software maker Coupa agrees to be acquired by PE firm Thoma Bravo for $6.15B in cash, a 30.5% premium on its Friday closing price &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/221212/p13#a221212p13)
- - [Xiaomi announces the ~$575 Xiaomi 13 and ~$720 Xiaomi 13 Pro, adding a Snapdragon 8 Gen 2 chipset, available in China, and the Watch S2, Buds 4, and more &lpar;Jules Wang/Android Police&rpar;](http://www.techmeme.com/221212/p12#a221212p12)
- - [These Algorithms Are Hunting for an EV Battery Mother Lode](https://www.wired.com/story/these-mining-algorithms-are-hunting-for-an-ev-battery-mother-lode/)<!-- TECH:END -->
+ - [Daily deals Dec. 12: $150 off M2 MacBook Air, Up to 31% off Blue microphones, up to $300 off storage, more](https://appleinsider.com/articles/22/12/12/daily-deals-dec-12-150-off-m2-macbook-air-up-to-31-off-blue-microphones-up-to-300-off-storage-more?utm_medium=rss)
+ - [Cliffset&#39;s Portable Silverware Set Has a Built-In Dishwasher](https://www.wired.com/story/cliffset-the-perfect-on-the-go-silverware-set/)
+ - [AMD Radeon RX 7900 XT / XTX review: 4K performance for less](https://www.theverge.com/23499697/amd-radeon-rx-7900-xt-xtx-review-benchmarks-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
