@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next 10](https://www.polygon.com/23497149/the-future-games-entertainment-polygon-next-10)
- - [6 big predictions for entertainment in 2032](https://www.polygon.com/23497220/2032-entertainment-predictions)
- - [Predicting the future of games is a fool’s errand, but let’s try anyway](https://www.polygon.com/23497119/video-games-in-10-years-future-predictions)<!-- GAME:END -->
+ - [The Witcher 3 hits even harder in a post-Cyberpunk 2077 world](https://www.polygon.com/reviews/23505326/the-witcher-3-next-gen-upgrade-review-ps5-xbox-series-x-pc)
+ - [GOG is giving away a free game to start its big Winter Sale](https://www.pcgamer.com/gog-winter-sale-2022)
+ - [AMD Radeon RX 7900 XT](https://www.pcgamer.com/amd-rx-7900-xt-review-performance-specs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
