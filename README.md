@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality](http://9gag.com/gag/amA7ObX)
+ - 🚖 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
  - 🚯 [OSHA Certified construction site](http://9gag.com/gag/ajVE4Xp)
- - 🚯 [Wtf!](http://9gag.com/gag/axo1wxK)<!-- MEMES:END -->
+ - 🚯 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 --- 
 
