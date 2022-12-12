@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
- - 🚯 [OSHA Certified construction site](http://9gag.com/gag/ajVE4Xp)
- - 🚯 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
+ - 🚖 [I can watch this all day](http://9gag.com/gag/abvM83L)
+ - 🚯 [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)
+ - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
 
 --- 
 
