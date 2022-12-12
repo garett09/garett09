@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest AirPods Pro are back down to $199](https://www.theverge.com/2022/12/12/23505423/apple-airpods-pro-earbuds-oneplus-10-beats-fit-studio-deal-sale)
- - [How much money you save with Apple One bundles in Fall 2022](https://appleinsider.com/inside/apple-one/tips/how-much-money-you-save-with-apple-one-bundles-in-fall-2022?utm_medium=rss)
- - [A ‘scientific breakthrough’ in nuclear fusion? How to watch the announcement tomorrow](https://www.theverge.com/2022/12/12/23505416/nuclear-fusion-scientific-breakthrough-how-to-watch-announcement-biden)<!-- TECH:END -->
+ - [Rivian and Mercedes-Benz electric van partnership is on hold indefinitely](https://www.theverge.com/2022/12/12/23505427/rivian-mercedes-benz-electric-van-ev-plans-hold-paused)
+ - [Livestreaming has gotten big, but is it business?](https://www.theverge.com/23505359/livestreaming-popular-big-business-vergecast)
+ - [How Did This Get Made? renews deal with SiriusXM](https://www.theverge.com/2022/12/12/23505694/how-did-this-get-made-renewed-stitcher-siriusxm-office-ladies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
