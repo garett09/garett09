@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon ranks the Star Wars](https://www.polygon.com/star-wars/23352914/best-star-wars-movies-tv-shows-ranked)
- - [Full Witcher 3 update patch notes include PC-exclusive &#39;Ultra+&#39; graphics setting](https://www.pcgamer.com/full-witcher-3-update-patch-notes-include-pc-exclusive-ultra-graphics-setting)
- - [Trying to play Destiny 2 without the API this weekend was a trip to the Dark Ages](https://www.pcgamer.com/trying-to-play-destiny-2-without-the-api-this-weekend-was-a-trip-to-the-dark-ages)<!-- GAME:END -->
+ - [Meet the Deathstalker of Wild Hearts](https://news.xbox.com/en-us/2022/12/12/meet-the-deathstalker-of-wild-hearts/)
+ - [Tower Princess: How to Become a Proper Knight](https://news.xbox.com/en-us/2022/12/12/tower-princess-how-to-become-a-proper-knight/)
+ - [Mike White has a plan &lpar;sorta&rpar; for The White Lotus season 3](https://www.polygon.com/23505926/white-lotus-season-3-release-date-cast-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
