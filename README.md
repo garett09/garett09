@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lockpicking lawyer himself](http://9gag.com/gag/aBdx5gO)
- - 🚯 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
- - 🚯 [Orcas](http://9gag.com/gag/aVb35Xv)<!-- MEMES:END -->
+ - 🚖 [This should catch on](http://9gag.com/gag/aXnxzwD)
+ - 🚯 [What&#39;s the price tag?](http://9gag.com/gag/aVb3rDK)
+ - 🚯 [Imagine you get eliminated from world cup and this horror waits for you at home](http://9gag.com/gag/aeQMEZp)<!-- MEMES:END -->
 
 --- 
 
