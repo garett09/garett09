@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)
- - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - 🚯 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)<!-- MEMES:END -->
+ - 🚖 [You Are Beautiful, Melissa](http://9gag.com/gag/aXnx6Xd)
+ - 🚯 [Why do you think they created anime and isekai.](http://9gag.com/gag/aRE3qZy)
+ - 🚯 [The Ancient Languages](http://9gag.com/gag/a04KGYz)<!-- MEMES:END -->
 
 --- 
 
