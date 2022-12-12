@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;December 12, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-12-2022)
- - [This Marathon mod 15 years in the making is practically an entirely new game](https://www.pcgamer.com/marathon-mod-apotheosis-x)
- - [The Witcher: Blood Origin isn’t a great sign for a post-Henry Cavill future](https://www.polygon.com/23501805/witcher-blood-origin-review-henry-cavill-universe)<!-- GAME:END -->
+ - [One of the best-reviewed games on Steam is about watching plastic ducks](https://www.pcgamer.com/one-of-the-best-reviewed-games-on-steam-is-about-watching-plastic-ducks)
+ - [Lunch Break](https://kotaku.com/salmon-illustration-concept-art-spaceships-sci-fi-1849880729)
+ - [Five new Steam games you probably missed &lpar;December 12, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-12-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
