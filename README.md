@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Puss in Boots on Hot Ones is the greatest crossover we never knew we needed](https://www.polygon.com/23505648/puss-in-boots-hot-ones)
- - [All romances you can pursue in the The Witcher 3](https://www.pcgamer.com/the-witcher-3-romances)
- - [How to complete the Calming the Land world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-calming-the-land)<!-- GAME:END -->
+ - [Polygon ranks the Star Wars](https://www.polygon.com/star-wars/23352914/best-star-wars-movies-tv-shows-ranked)
+ - [Full Witcher 3 update patch notes include PC-exclusive &#39;Ultra+&#39; graphics setting](https://www.pcgamer.com/full-witcher-3-update-patch-notes-include-pc-exclusive-ultra-graphics-setting)
+ - [Trying to play Destiny 2 without the API this weekend was a trip to the Dark Ages](https://www.pcgamer.com/trying-to-play-destiny-2-without-the-api-this-weekend-was-a-trip-to-the-dark-ages)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
