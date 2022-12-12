@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The strength of bonds in One Piece Odyssey](https://blog.playstation.com/2022/12/12/the-strength-of-bonds-in-one-piece-odyssey/)
- - [The Witcher 3: How to get all Ursine armor and weapons](https://www.pcgamer.com/the-witcher-3-ursine-armor-bear-school-gear)
- - [The Witcher 3: How to get all Feline armor and weapons](https://www.pcgamer.com/the-witcher-3-feline-armor-cat-school-gear)<!-- GAME:END -->
+ - [The Next 10](https://www.polygon.com/23497149/the-future-games-entertainment-polygon-next-10)
+ - [6 big predictions for entertainment in 2032](https://www.polygon.com/23497220/2032-entertainment-predictions)
+ - [Predicting the future of games is a fool’s errand, but let’s try anyway](https://www.polygon.com/23497119/video-games-in-10-years-future-predictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
