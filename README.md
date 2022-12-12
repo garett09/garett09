@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I can watch this all day](http://9gag.com/gag/abvM83L)
- - 🚯 [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)
- - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
+ - 🚯 [I wouldn&#39;t...](http://9gag.com/gag/aPgjqdG)
+ - 🚯 [Japanese oiran walk is a slow, graceful movement typically performed in a kimono. The oiran themselves were highly trained in the art of entertainment and were considered to be the pinnacle of Japanese beauty and elegance](http://9gag.com/gag/aPgjqZP)<!-- MEMES:END -->
 
 --- 
 
