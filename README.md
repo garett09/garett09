@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 hits even harder in a post-Cyberpunk 2077 world](https://www.polygon.com/reviews/23505326/the-witcher-3-next-gen-upgrade-review-ps5-xbox-series-x-pc)
- - [GOG is giving away a free game to start its big Winter Sale](https://www.pcgamer.com/gog-winter-sale-2022)
- - [AMD Radeon RX 7900 XT](https://www.pcgamer.com/amd-rx-7900-xt-review-performance-specs)<!-- GAME:END -->
+ - [Puss in Boots on Hot Ones is the greatest crossover we never knew we needed](https://www.polygon.com/23505648/puss-in-boots-hot-ones)
+ - [All romances you can pursue in the The Witcher 3](https://www.pcgamer.com/the-witcher-3-romances)
+ - [How to complete the Calming the Land world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-calming-the-land)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
