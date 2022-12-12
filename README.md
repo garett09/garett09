@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 12: $150 off M2 MacBook Air, Up to 31% off Blue microphones, up to $300 off storage, more](https://appleinsider.com/articles/22/12/12/daily-deals-dec-12-150-off-m2-macbook-air-up-to-31-off-blue-microphones-up-to-300-off-storage-more?utm_medium=rss)
- - [Cliffset&#39;s Portable Silverware Set Has a Built-In Dishwasher](https://www.wired.com/story/cliffset-the-perfect-on-the-go-silverware-set/)
- - [AMD Radeon RX 7900 XT / XTX review: 4K performance for less](https://www.theverge.com/23499697/amd-radeon-rx-7900-xt-xtx-review-benchmarks-price)<!-- TECH:END -->
+ - [What wearables does the Android Authority team use every day? &lpar;2022 Edition&rpar;](https://www.androidauthority.com/android-authority-wearables-2022-3241252/)
+ - [How to watch the FTX collapse hearings in Congress this week](https://www.theverge.com/2022/12/12/23505300/ftx-hearings-congress-live-stream-how-to-start-time-sam-bankman-fried)
+ - [Matter finally arrives on devices you can actually use](https://www.theverge.com/2022/12/12/23505097/matter-eve-firmware-update-available-now)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
