@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - 🚯 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
+ - 🚖 [Equality](http://9gag.com/gag/amA7ObX)
+ - 🚯 [OSHA Certified construction site](http://9gag.com/gag/ajVE4Xp)
+ - 🚯 [Wtf!](http://9gag.com/gag/axo1wxK)<!-- MEMES:END -->
 
 --- 
 
