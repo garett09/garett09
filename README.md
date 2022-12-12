@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
- - 🚯 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
- - 🚯 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)<!-- MEMES:END -->
+ - 🚖 [They hate us cuase they anus.](http://9gag.com/gag/a8qog13)
+ - 🚯 [Savor the flavor](http://9gag.com/gag/aZD3ON0)
+ - 🚯 [I wouldn&#39;t...](http://9gag.com/gag/aPgjqdG)<!-- MEMES:END -->
 
 --- 
 
