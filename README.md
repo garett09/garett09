@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can watch this all day](http://9gag.com/gag/abvM83L)
- - 🚯 [I wouldn&#39;t...](http://9gag.com/gag/aPgjqdG)
- - 🚯 [Japanese oiran walk is a slow, graceful movement typically performed in a kimono. The oiran themselves were highly trained in the art of entertainment and were considered to be the pinnacle of Japanese beauty and elegance](http://9gag.com/gag/aPgjqZP)<!-- MEMES:END -->
+ - 🚖 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
+ - 🚯 [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
+ - 🚯 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)<!-- MEMES:END -->
 
 --- 
 
