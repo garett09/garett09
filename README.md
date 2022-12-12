@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - 🚯 [Chivalry is dead](http://9gag.com/gag/a3ZKX4Q)
- - 🚯 [You Are Beautiful, Melissa](http://9gag.com/gag/aXnx6Xd)<!-- MEMES:END -->
+ - 🚖 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)
+ - 🚯 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
+ - 🚯 [Gentleman](http://9gag.com/gag/agoX6EW)<!-- MEMES:END -->
 
 --- 
 
