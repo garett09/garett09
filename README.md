@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meituan and Pinduoduo, pandemic winners in China, are adapting to renewed competition from Douyin, Alibaba, and others, as China sheds its zero-COVID-19 policy &lpar;Financial Times&rpar;](http://www.techmeme.com/221212/p1#a221212p1)
  - [Poll: Do you know your partner’s phone PIN code?](https://www.androidauthority.com/partner-loved-one-phone-pin-code-poll-3249974/)
- - [Daily Authority: 🏆 Meet the best smartphone of 2022](https://www.androidauthority.com/daily-authority-december-12-2022-3249941/)
- - [Samsung Galaxy S23 Ultra China listing reveals speed boost, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/)<!-- TECH:END -->
+ - [Daily Authority: 🏆 Meet the best smartphone of 2022](https://www.androidauthority.com/daily-authority-december-12-2022-3249941/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
