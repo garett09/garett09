@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This should catch on](http://9gag.com/gag/aXnxzwD)
- - 🚯 [What&#39;s the price tag?](http://9gag.com/gag/aVb3rDK)
- - 🚯 [Imagine you get eliminated from world cup and this horror waits for you at home](http://9gag.com/gag/aeQMEZp)<!-- MEMES:END -->
+ - 🚖 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
+ - 🚯 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
+ - 🚯 [Glued to the street and cut out by police. Here: the exact moment you realize you&#39;re an idiot](http://9gag.com/gag/a2Kox39)<!-- MEMES:END -->
 
 --- 
 
