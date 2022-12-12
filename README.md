@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)
- - 🚯 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
- - 🚯 [Gentleman](http://9gag.com/gag/agoX6EW)<!-- MEMES:END -->
+ - 🚖 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 🚯 [She has that Minecraft player inventory](http://9gag.com/gag/aMEjM36)
+ - 🚯 [Women\u2019s Work](http://9gag.com/gag/a9qpg0j)<!-- MEMES:END -->
 
 --- 
 
