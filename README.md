@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD RX 7900 XTX](https://www.pcgamer.com/amd-radeon-rx-7900-xtx-review-benchmarks-performance)
- - [Too Many Cooks’ creator hid an entire horror movie in Adult Swim’s yule log](https://www.polygon.com/23501856/adult-swim-yule-log-casper-kelly-watch-the-fireplace)
- - [The Last of Us will run on Steam Deck, creator confirms](https://www.pcgamer.com/the-last-of-us-will-run-on-steam-deck-creator-confirms)<!-- GAME:END -->
+ - [The strength of bonds in One Piece Odyssey](https://blog.playstation.com/2022/12/12/the-strength-of-bonds-in-one-piece-odyssey/)
+ - [The Witcher 3: How to get all Ursine armor and weapons](https://www.pcgamer.com/the-witcher-3-ursine-armor-bear-school-gear)
+ - [The Witcher 3: How to get all Feline armor and weapons](https://www.pcgamer.com/the-witcher-3-feline-armor-cat-school-gear)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
