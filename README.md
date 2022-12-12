@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - 🚯 [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
- - 🚯 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
+ - 🚖 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 🚯 [Chivalry is dead](http://9gag.com/gag/a3ZKX4Q)
+ - 🚯 [You Are Beautiful, Melissa](http://9gag.com/gag/aXnx6Xd)<!-- MEMES:END -->
 
 --- 
 
