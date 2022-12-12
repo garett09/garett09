@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Should Watch This Utterly Heartbreaking Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-utterly-heartbreaking-documentary-on-netflix/#ftag=CAD590a51e)
- - [&#39;The Witcher&#39; Prequel Series &#39;Blood Origin&#39; Has One Stellar Episode     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-prequel-series-blood-origin-has-one-stellar-episode/#ftag=CAD590a51e)
- - [The Witcher: Blood Origin isn’t witcher-y enough to stand out](https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel)<!-- TECH:END -->
+ - [The Sci-Fi Video Game Everyone Should Play at Least Once     - CNET](https://www.cnet.com/tech/gaming/the-sci-fi-video-game-everyone-should-play-at-least-once/#ftag=CAD590a51e)
+ - [With AI image generation tools like Stable Diffusion and DreamBooth, it&#39;s easy to make damaging deepfakes using just a few images of a person from social media &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221211/p10#a221211p10)
+ - [Done With &#39;1899&#39;? Time to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/done-with-1899-time-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
