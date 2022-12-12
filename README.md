@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - 🚯 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aA0xvj2)
+ - 🚯 [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
+ - 🚯 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
 
 --- 
 
