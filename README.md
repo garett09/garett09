@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
- - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - 🚯 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)<!-- MEMES:END -->
+ - 🚖 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
+ - 🚯 [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
+ - 🚯 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 --- 
 
