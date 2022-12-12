@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They hate us cuase they anus.](http://9gag.com/gag/a8qog13)
- - 🚯 [Savor the flavor](http://9gag.com/gag/aZD3ON0)
- - 🚯 [I wouldn&#39;t...](http://9gag.com/gag/aPgjqdG)<!-- MEMES:END -->
+ - 🚖 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
+ - 🚯 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
+ - 🚯 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)<!-- MEMES:END -->
 
 --- 
 
