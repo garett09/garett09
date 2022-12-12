@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Adobe Embraces AI Art, Can Get In The Bin](https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495)
- - [Check out this ambitious Final Fantasy Tactics mod](https://www.pcgamer.com/check-out-this-ambitious-final-fantasy-tactics-mod)
- - [Steam sale on turn-based games ends soon](https://www.pcgamer.com/steam-sale-on-turn-based-games-ends-soon)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 12, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-12-2022)
+ - [This Marathon mod 15 years in the making is practically an entirely new game](https://www.pcgamer.com/marathon-mod-apotheosis-x)
+ - [The Witcher: Blood Origin isn’t a great sign for a post-Henry Cavill future](https://www.polygon.com/23501805/witcher-blood-origin-review-henry-cavill-universe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
