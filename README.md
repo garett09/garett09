@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The NO part comes in when you realize you can\u2019t get around him.](http://9gag.com/gag/avQO46E)
- - 🚯 [Human opens backseat door for dog to get in, but dog called shotgun. -Not OP-](http://9gag.com/gag/aBdxNj2)
- - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
+ - 🚖 [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
+ - 🚯 [An apple a day](http://9gag.com/gag/awZXE4D)
+ - 🚯 [Aahhh, the progress in healthcare](http://9gag.com/gag/aGEjXEK)<!-- MEMES:END -->
 
 --- 
 
