@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s Community Notes, the crowd-powered feature to fact check tweets previously known as Birdwatch, starts rolling out to all users globally &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/221211/p9#a221211p9)
- - [Returnal is coming to PC, but you’ll need 32GB of RAM to play comfortably](https://www.theverge.com/2022/12/11/23504346/sony-returnal-pc-ram-recommendation)
- - [Popular $29.99 Microsoft Office for Mac Home &amp; Business 2021 deal returns](https://appleinsider.com/articles/22/12/01/popular-2999-microsoft-office-for-mac-home-business-2021-deal-returns?utm_medium=rss)<!-- TECH:END -->
+ - [More People Should Watch This Utterly Heartbreaking Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-utterly-heartbreaking-documentary-on-netflix/#ftag=CAD590a51e)
+ - [&#39;The Witcher&#39; Prequel Series &#39;Blood Origin&#39; Has One Stellar Episode     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-prequel-series-blood-origin-has-one-stellar-episode/#ftag=CAD590a51e)
+ - [The Witcher: Blood Origin isn’t witcher-y enough to stand out](https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
