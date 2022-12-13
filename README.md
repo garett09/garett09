@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
- - 🚯 [Opportunity](http://9gag.com/gag/a5XoO3O)<!-- MEMES:END -->
+ - 🚖 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
+ - 🚯 [Damn](http://9gag.com/gag/aMEjRmX)
+ - 🚯 [Better advice](http://9gag.com/gag/aVb3nNd)<!-- MEMES:END -->
 
 --- 
 
