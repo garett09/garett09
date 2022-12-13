@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women\u2019s Work](http://9gag.com/gag/a9qpg0j)
- - 🚯 [Look at what they did to my girl](http://9gag.com/gag/aQE30Bz)
- - 🚯 [The Ancient Languages](http://9gag.com/gag/a04KGYz)<!-- MEMES:END -->
+ - 🚖 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)
+ - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
 
 --- 
 
