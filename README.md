@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not bad for a girl](http://9gag.com/gag/aQE3GGq)
- - 🚯 [Savor the flavor](http://9gag.com/gag/aZD3ON0)
- - 🚯 [Aahhh, the progress in healthcare](http://9gag.com/gag/aGEjXEK)<!-- MEMES:END -->
+ - 🚖 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 🚯 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - 🚯 [California woman told the victim of an assault not to call the cops](http://9gag.com/gag/ajVEz38)<!-- MEMES:END -->
 
 --- 
 
