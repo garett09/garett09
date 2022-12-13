@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation’s 2022 Wrap-Up recaps playtime, trophies, and meows](https://www.theverge.com/2022/12/13/23507377/playstation-2022-wrap-up-recap-playtime-trophies-meows)
- - [Apple preparing for third-party app stores by 2024](https://appleinsider.com/articles/22/12/13/apple-preparing-for-third-party-app-stores-by-2024?utm_medium=rss)
- - [Apple hasn&#39;t left Monterey, Big Sur, iPadOS 15, iOS 15 behind yet](https://appleinsider.com/articles/22/12/13/apple-hasnt-left-monterey-big-sur-ipados-15-ios-15-behind-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Music rolls out to Tesla cars in holiday software update](https://appleinsider.com/articles/22/12/13/apple-music-rolls-out-to-tesla-cars-in-holiday-software-update?utm_medium=rss)
+ - [You might be ready for side loading on iPhone, but your parents aren&#39;t](https://appleinsider.com/articles/22/12/13/you-might-be-ready-for-side-loading-on-iphone-but-your-parents-arent?utm_medium=rss)
+ - [The star feature of next-gen Asus laptops is from another dimension](https://www.androidauthority.com/asus-3d-oled-3250740/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
