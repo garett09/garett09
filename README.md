@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Ancient Languages](http://9gag.com/gag/a04KGYz)
- - 🚯 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
- - 🚯 [Weirdly Specific PC issue](http://9gag.com/gag/aYVg3vO)<!-- MEMES:END -->
+ - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
+ - 🚯 [Opportunity](http://9gag.com/gag/a5XoO3O)<!-- MEMES:END -->
 
 --- 
 
