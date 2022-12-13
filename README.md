@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based cybersecurity startup Snyk raised $196.5M at a $7.4B valuation, down 12% from its round in September 2021, bringing its total raised to $1.075B &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221212/p22#a221212p22)
- - [Twitter Blue is back, letting you buy a blue checkmark again](https://www.theverge.com/2022/12/12/23506335/twitter-blue-verified-checkmarks-return-impersonation)
- - [Here’s where you can buy a PS5](https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy)<!-- TECH:END -->
+ - [The Avatar-themed concept car is barely driveable but looks like a futuristic fever dream](https://www.theverge.com/2022/12/12/23505738/mercedes-benz-vision-avtr-avatar-concept-car-hands-on)
+ - [FTX co-founder Sam Bankman-Fried arrested in the Bahamas](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)
+ - [The Absolute Best New Christmas Movies of 2022     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-new-christmas-movies-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
