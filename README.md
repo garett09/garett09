@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Veteran build in Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40000-darktide-veteran-build)
  - [The Witcher 3: How to get the good ending in Family Matters](https://www.pcgamer.com/the-witcher-3-family-matters-best-ending-choices)
- - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
- - [How to unlock the wrinkly testicle Nilfgaard armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-nilfgaard-netflix-armor)<!-- GAME:END -->
+ - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
