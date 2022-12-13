@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After spending 20 years simulating reality, the Dwarf Fortress devs have to get used to a new one: being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires)
- - [Crypto Kingpin Sam Bankman-Fried Arrested In The Bahamas](https://kotaku.com/ftx-sam-bankman-fried-arrested-charged-bahamas-crypto-1849885433)
- - [In 2022, battle royale finally got some real competition](https://www.pcgamer.com/in-2022-battle-royale-finally-got-some-real-competition)<!-- GAME:END -->
+ - [Dwarf Fortress now needs about 100 icons for spilled intestines, torn arteries and bruised tendons](https://www.pcgamer.com/dwarf-fortress-now-needs-about-100-icons-for-spilled-intestines-torn-arteries-and-bruised-tendons)
+ - [PC Modders Get Classics Like Half-Life, Max Payne Looking Brand New](https://kotaku.com/nvidia-rtx-remix-mods-modder-max-payne-swat-portal-pc-1849884871)
+ - [After spending 20 years simulating reality, the Dwarf Fortress devs have to get used to a new one: being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
