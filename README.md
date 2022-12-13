@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 16.2 now available with external display support](https://appleinsider.com/articles/22/12/13/ipados-162-now-available-with-external-display-support?utm_medium=rss)
- - [tvOS 16.2 with Apple Music Sing is available for the Apple TV](https://appleinsider.com/articles/22/12/13/tvos-162-with-apple-music-sing-is-available-for-the-apple-tv?utm_medium=rss)
- - [macOS Ventura 13.1 is out with new Freeform app and iCloud security updates](https://appleinsider.com/articles/22/12/13/macos-ventura-131-is-out-with-new-freeform-app-and-icloud-security-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ travel show &#39;The Reluctant Traveler&#39; lands on February 24](https://appleinsider.com/articles/22/12/13/apple-tv-travel-show-the-reluctant-traveler-lands-on-february-24?utm_medium=rss)
+ - [How to tip your Amazon driver](https://www.theverge.com/23507356/amazon-alexa-driver-tip-how-to)
+ - [Kentucky Route Zero joins Netflix’s mobile games lineup](https://www.theverge.com/2022/12/13/23502564/kentucky-route-zero-netflix-ios-android-mobile-games-twelve-minutes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
