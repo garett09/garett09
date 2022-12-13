@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar 2 takes an epic step forward for director James Cameron](https://www.polygon.com/reviews/23506051/avatar-2-way-water-review-james-cameron)
- - [How to craft the Staff of Embers in Valheim](https://www.pcgamer.com/valheim-staff-of-embers)
- - [Here&#39;s why first-gen OLED gaming monitors aren&#39;t truly PC optimized](https://www.pcgamer.com/heres-why-first-gen-oled-gaming-monitors-arent-truly-pc-optimized)<!-- GAME:END -->
+ - [Happy settings are beyond FromSoftware&#39;s &#39;capability or experiences,&#39; says Miyazaki](https://www.pcgamer.com/happy-settings-are-beyond-fromsoftwares-capability-or-experiences-says-miyazaki)
+ - [Every new Spider-Person in Spider-Man: Across the Spider-Verse, explained](https://www.polygon.com/23505869/spider-man-across-spiderverse-characters-cast)
+ - [One day, we’ll all play Red Dead just by thinking about it](https://www.polygon.com/c/23485904/next-10-art-gallery/red-dead-virtual-reality-artwork)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
