@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
- - 🚯 [Damn](http://9gag.com/gag/aMEjRmX)
- - 🚯 [Better advice](http://9gag.com/gag/aVb3nNd)<!-- MEMES:END -->
+ - 🚖 [Opportunity](http://9gag.com/gag/a5XoO3O)
+ - 🚯 [A Dutch girl wins a high jump competition and receives a portrait of Charlie Chaplin - 1940.](http://9gag.com/gag/ap92yDn)
+ - 🚯 [Since the soldiers on the China-India border cannot use firearms, here is how they fight](http://9gag.com/gag/ap92yZ8)<!-- MEMES:END -->
 
 --- 
 
