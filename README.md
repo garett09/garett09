@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His face though](http://9gag.com/gag/aEq2dPn)
- - 🚯 [Sn\u00f6wy](http://9gag.com/gag/aA0xnEE)
- - 🚯 [Yours free](http://9gag.com/gag/a7qMYXq)<!-- MEMES:END -->
+ - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 🚯 [Damn Nolan](http://9gag.com/gag/aDYxEyx)<!-- MEMES:END -->
 
 --- 
 
