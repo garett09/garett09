@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Car Lifts for Home Garages in 2022     - CNET](https://www.cnet.com/roadshow/news/best-car-lift-for-home-garage/#ftag=CAD590a51e)
- - [Best Fire Pit for 2022     - CNET](https://www.cnet.com/news/best-fire-pit/#ftag=CAD590a51e)
- - [Best Electric Toothbrush for 2022     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: US prosecutors charge Sam Bankman-Fried with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy, and money laundering &lpar;New York Times&rpar;](http://www.techmeme.com/221213/p9#a221213p9)
+ - [Tuesday’s top tech news: The law comes for Bankman-Fried](https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog)
+ - [Changpeng Zhao seeks to reassure Binance users on USDC outflows, saying they can &quot;withdraw any other stablecoin&quot;; Nansen shows $1.6B in ETH outflows in 24 hours &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/221213/p8#a221213p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
