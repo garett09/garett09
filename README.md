@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First look: New Dexcom G7 glucose monitor](https://appleinsider.com/articles/22/12/13/first-look-at-the-new-dexcom-g7-glucose-monitor?utm_medium=rss)
- - [The Real Fusion Energy Breakthrough Is Still Decades Away](https://www.wired.com/story/the-real-fusion-energy-breakthrough-is-still-decades-away/)
- - [Forensic analysis: hackers planted files on at least three Indian activists and likely colluded with police, yet 11 of 16 activists in related case still jailed &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221213/p23#a221213p23)<!-- TECH:END -->
+ - [New, lower price: Apple&#39;s 14-inch MacBook Pro dips to $1,529 with B&amp;H Payboo](https://appleinsider.com/articles/22/12/13/new-lower-price-apples-14-inch-macbook-pro-dips-to-1529-with-bh-payboo?utm_medium=rss)
+ - [Avatar: The Way of Water is a gorgeous rehash of all the first film’s triumphs and failures](https://www.theverge.com/23506880/avatar-the-way-of-water-review)
+ - [The EU publishes a draft approval of its preliminary US data sharing deal, struck in March to ease business sharing, after the US promised surveillance changes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221213/p27#a221213p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
