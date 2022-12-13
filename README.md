@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy settings are beyond FromSoftware&#39;s &#39;capability or experiences,&#39; says Miyazaki](https://www.pcgamer.com/happy-settings-are-beyond-fromsoftwares-capability-or-experiences-says-miyazaki)
- - [Every new Spider-Person in Spider-Man: Across the Spider-Verse, explained](https://www.polygon.com/23505869/spider-man-across-spiderverse-characters-cast)
- - [One day, we’ll all play Red Dead just by thinking about it](https://www.polygon.com/c/23485904/next-10-art-gallery/red-dead-virtual-reality-artwork)<!-- GAME:END -->
+ - [Junji Ito returns to Magic: The Gathering for Phyrexia: All Will Be One](https://www.polygon.com/23507184/mtg-junji-ito-phyrexia-all-will-be-one-previews-lands-foils-box-pricing-release-date)
+ - [High On Life: The Kotaku Review](https://kotaku.com/high-on-life-review-rick-and-morty-justin-roiland-1849888587)
+ - [Magic: The Gathering goes full Hellraiser with more Junji Ito art](https://www.pcgamer.com/magic-the-gathering-goes-full-hellraiser-with-more-junji-ito-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
