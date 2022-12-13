@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Opportunity](http://9gag.com/gag/a5XoO3O)
- - 🚯 [A Dutch girl wins a high jump competition and receives a portrait of Charlie Chaplin - 1940.](http://9gag.com/gag/ap92yDn)
- - 🚯 [Since the soldiers on the China-India border cannot use firearms, here is how they fight](http://9gag.com/gag/ap92yZ8)<!-- MEMES:END -->
+ - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - 🚯 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)<!-- MEMES:END -->
 
 --- 
 
