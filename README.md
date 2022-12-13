@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh... I like you](http://9gag.com/gag/aPgj2mQ)
- - 🚯 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
- - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
+ - 🚖 [The Ancient Languages](http://9gag.com/gag/a04KGYz)
+ - 🚯 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 🚯 [Weirdly Specific PC issue](http://9gag.com/gag/aYVg3vO)<!-- MEMES:END -->
 
 --- 
 
