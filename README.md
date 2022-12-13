@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy extends Upgrade+ program to iMac and Mac Studio](https://appleinsider.com/articles/22/12/13/best-buy-extends-upgrade-program-to-imac-and-mac-studio?utm_medium=rss)
- - [The Best Meta Quest 2 Games You Can Play Right Now &lpar;2022&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-2-games/)
- - [The Southern District of New York charges SBF with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy, money laundering, and more &lpar;CNBC&rpar;](http://www.techmeme.com/221213/p21#a221213p21)<!-- TECH:END -->
+ - [First look: New Dexcom G7 glucose monitor](https://appleinsider.com/articles/22/12/13/first-look-at-the-new-dexcom-g7-glucose-monitor?utm_medium=rss)
+ - [The Real Fusion Energy Breakthrough Is Still Decades Away](https://www.wired.com/story/the-real-fusion-energy-breakthrough-is-still-decades-away/)
+ - [Forensic analysis: hackers planted files on at least three Indian activists and likely colluded with police, yet 11 of 16 activists in related case still jailed &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221213/p23#a221213p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
