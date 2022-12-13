@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music rolls out to Tesla cars in holiday software update](https://appleinsider.com/articles/22/12/13/apple-music-rolls-out-to-tesla-cars-in-holiday-software-update?utm_medium=rss)
- - [You might be ready for side loading on iPhone, but your parents aren&#39;t](https://appleinsider.com/articles/22/12/13/you-might-be-ready-for-side-loading-on-iphone-but-your-parents-arent?utm_medium=rss)
- - [The star feature of next-gen Asus laptops is from another dimension](https://www.androidauthority.com/asus-3d-oled-3250740/)<!-- TECH:END -->
+ - [Netflix is making a live-action My Hero Academia film](https://www.theverge.com/2022/12/13/23507281/netflix-my-hero-academia-film-live-action-anime)
+ - [Citing flight risk, a magistrate judge in the Bahamas denies bail to Sam Bankman-Fried and says he should be remanded to Bahamian custody until February 8, 2023 &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/221213/p38#a221213p38)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
