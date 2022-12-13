@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2022 Wrap-Up is here — relive your top gaming moments of the year starting today](https://blog.playstation.com/2022/12/13/2022-wrap-up-is-here-relive-your-top-gaming-moments-of-the-year-starting-today/)
- - [Want excellent in-game accuracy? Check out these ASUS PC gaming peripherals.](https://www.pcgamer.com/want-excellent-in-game-accuracy-check-out-these-asus-pc-gaming-peripherals)
- - [Modders are on an RTX rampage having added ray tracing to Half-Life 2, Max Payne and even SWAT 4](https://www.pcgamer.com/modders-are-on-an-rtx-rampage-having-added-ray-tracing-to-half-life-2-max-payne-and-even-swat-4)<!-- GAME:END -->
+ - [The Witcher 3: How to get the good ending in Family Matters](https://www.pcgamer.com/the-witcher-3-family-matters-best-ending-choices)
+ - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
+ - [How to unlock the wrinkly testicle Nilfgaard armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-nilfgaard-netflix-armor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
