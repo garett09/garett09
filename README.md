@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google postpones Chrome changes that could have big impact on ad blocking extensions](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
- - [13 Best Tablets &lpar;2022&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2022&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)<!-- TECH:END -->
+ - [A look at Europe&#39;s chip self-sufficiency plans, aided by ASML and others; SEMI estimates 10 new facilities in Europe by 2025, compared to 21 in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/221213/p19#a221213p19)
+ - [iPhone 14 Crash Detection gets man to wife&#39;s accident before ambulance](https://appleinsider.com/articles/22/12/13/iphone-14-crash-detection-gets-man-to-wifes-accident-before-ambulance?utm_medium=rss)
+ - [Google One VPN: What is it, how much it costs, and more](https://www.androidauthority.com/google-one-vpn-3242938/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
