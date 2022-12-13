@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 🚯 [Savor the flavor](http://9gag.com/gag/aZD3ON0)<!-- MEMES:END -->
+ - 🚖 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
+ - 🚯 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)<!-- MEMES:END -->
 
 --- 
 
