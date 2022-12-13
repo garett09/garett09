@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)
- - 🚯 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
+ - 🚖 [Savor the flavor](http://9gag.com/gag/aZD3ON0)
+ - 🚯 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
+ - 🚯 [That could have been you](http://9gag.com/gag/a8qoxp1)<!-- MEMES:END -->
 
 --- 
 
