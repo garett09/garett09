@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Europe&#39;s chip self-sufficiency plans, aided by ASML and others; SEMI estimates 10 new facilities in Europe by 2025, compared to 21 in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/221213/p19#a221213p19)
- - [iPhone 14 Crash Detection gets man to wife&#39;s accident before ambulance](https://appleinsider.com/articles/22/12/13/iphone-14-crash-detection-gets-man-to-wifes-accident-before-ambulance?utm_medium=rss)
- - [Google One VPN: What is it, how much it costs, and more](https://www.androidauthority.com/google-one-vpn-3242938/)<!-- TECH:END -->
+ - [Best Buy extends Upgrade+ program to iMac and Mac Studio](https://appleinsider.com/articles/22/12/13/best-buy-extends-upgrade-program-to-imac-and-mac-studio?utm_medium=rss)
+ - [The Best Meta Quest 2 Games You Can Play Right Now &lpar;2022&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-2-games/)
+ - [The Southern District of New York charges SBF with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy, money laundering, and more &lpar;CNBC&rpar;](http://www.techmeme.com/221213/p21#a221213p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
