@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s new hero Ramattra was, for good reasons, a long time coming](https://www.polygon.com/23346023/overwatch-2-ramattra-interview-story-narrative)
- - [The Grammy Awards videogame category is kind of a mess](https://www.pcgamer.com/the-grammy-awards-videogame-category-is-kind-of-a-mess)
- - [D&amp;D CEO Thinks Hobby Is &#39;Under Monetized&#39; Compared To Video Games](https://kotaku.com/dungeons-and-dragons-dnd-fifth-edition-one-dnd-1849884812)<!-- GAME:END -->
+ - [After spending 20 years simulating reality, the Dwarf Fortress devs have to get used to a new one: being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires)
+ - [Crypto Kingpin Sam Bankman-Fried Arrested In The Bahamas](https://kotaku.com/ftx-sam-bankman-fried-arrested-charged-bahamas-crypto-1849885433)
+ - [In 2022, battle royale finally got some real competition](https://www.pcgamer.com/in-2022-battle-royale-finally-got-some-real-competition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
