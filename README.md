@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: US prosecutors charge Sam Bankman-Fried with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy, and money laundering &lpar;New York Times&rpar;](http://www.techmeme.com/221213/p9#a221213p9)
- - [Tuesday’s top tech news: The law comes for Bankman-Fried](https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog)
- - [Changpeng Zhao seeks to reassure Binance users on USDC outflows, saying they can &quot;withdraw any other stablecoin&quot;; Nansen shows $1.6B in ETH outflows in 24 hours &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/221213/p8#a221213p8)<!-- TECH:END -->
+ - [FTX lawyers says Bahamas officials worked to help SBF regain access to FTX Trading&#39;s systems, asking him to mint a coin and transfer funds to island officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/221213/p11#a221213p11)
+ - [Best Amazon Deals: Fire Tablets, Hey Dude Shoes, Renewed iPhones and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)
+ - [A look at some of the challenges with watermarking AI-generated text, as OpenAI works on developing a watermarking tool for ChatGPT and other systems &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221213/p10#a221213p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
