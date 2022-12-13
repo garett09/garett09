@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Studio Ghibli master Hayao Miyazaki’s new film will open next summer](https://www.polygon.com/23507040/how-do-you-live-studio-ghibli-hayao-miyazaki-release-date)
- - [How to complete the Fuel for the Forge quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-fuel-for-the-forge-magma-cores)
- - [Here&#39;s when The Witcher 3 next-gen update releases in your region](https://www.pcgamer.com/the-witcher-3-next-gen-update-release-times)<!-- GAME:END -->
+ - [2022 Wrap-Up is here — relive your top gaming moments of the year starting today](https://blog.playstation.com/2022/12/13/2022-wrap-up-is-here-relive-your-top-gaming-moments-of-the-year-starting-today/)
+ - [Want excellent in-game accuracy? Check out these ASUS PC gaming peripherals.](https://www.pcgamer.com/want-excellent-in-game-accuracy-check-out-these-asus-pc-gaming-peripherals)
+ - [Modders are on an RTX rampage having added ray tracing to Half-Life 2, Max Payne and even SWAT 4](https://www.pcgamer.com/modders-are-on-an-rtx-rampage-having-added-ray-tracing-to-half-life-2-max-payne-and-even-swat-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
