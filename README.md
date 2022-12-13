@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s End Of Year Wrap-Up Commemorates Your Gamer Shame](https://kotaku.com/playstation-4-ps5-ps-plus-wrap-up-sony-2022-end-of-year-1849889935)
- - [The Week In Games: High On Witchcraft](https://kotaku.com/december-2022-game-releases-out-this-week-high-on-life-1849889457)
- - [Destiny 2: Spire of the Watcher loot table and rolls guide](https://www.polygon.com/destiny-2-witch-queen-guide/23502540/destiny-2-spire-of-the-watcher-loot-table-and-rolls-guide-hierarchy-of-needs-long-arm-wilderflight)<!-- GAME:END -->
+ - [PlayStation’s year in review shows you how you spent 2022](https://www.polygon.com/23508215/playstation-year-in-review-wrapped-wrap-up-2022)
+ - [The state of Path of Exile](https://www.pcgamer.com/the-state-of-path-of-exile-2022)
+ - [Game Removes Loot Boxes, Players Revolt Instead Of Celebrate](https://kotaku.com/brawl-stars-loot-boxes-free-mobile-battle-pass-1849890262)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
