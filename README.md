@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
- - 🚯 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)<!-- MEMES:END -->
+ - 🚖 [His face though](http://9gag.com/gag/aEq2dPn)
+ - 🚯 [Sn\u00f6wy](http://9gag.com/gag/aA0xnEE)
+ - 🚯 [Yours free](http://9gag.com/gag/a7qMYXq)<!-- MEMES:END -->
 
 --- 
 
