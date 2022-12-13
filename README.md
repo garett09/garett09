@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
- - 🚯 [No shit Sherlock](http://9gag.com/gag/aL1jZoz)
+ - 🚖 [Not bad for a girl](http://9gag.com/gag/aQE3GGq)
+ - 🚯 [Savor the flavor](http://9gag.com/gag/aZD3ON0)
  - 🚯 [Aahhh, the progress in healthcare](http://9gag.com/gag/aGEjXEK)<!-- MEMES:END -->
 
 --- 
