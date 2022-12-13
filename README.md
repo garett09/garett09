@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is making a live-action My Hero Academia film](https://www.theverge.com/2022/12/13/23507281/netflix-my-hero-academia-film-live-action-anime)
- - [Citing flight risk, a magistrate judge in the Bahamas denies bail to Sam Bankman-Fried and says he should be remanded to Bahamian custody until February 8, 2023 &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/221213/p38#a221213p38)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [TikTok is testing a new horizontal full screen mode with select users globally &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221213/p39#a221213p39)
+ - [The many lies of Sam Bankman-Fried](https://www.theverge.com/2022/12/13/23507361/sam-bankman-fried-ftx-alameda-cftc-complaint-lies)
+ - [Tidal is testing a new DJ session feature for HiFi Plus subscribers](https://www.theverge.com/2022/12/13/23507759/tidal-dj-sessions-early-access-program-subscriber-livestream)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
