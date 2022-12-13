@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Junji Ito returns to Magic: The Gathering for Phyrexia: All Will Be One](https://www.polygon.com/23507184/mtg-junji-ito-phyrexia-all-will-be-one-previews-lands-foils-box-pricing-release-date)
- - [High On Life: The Kotaku Review](https://kotaku.com/high-on-life-review-rick-and-morty-justin-roiland-1849888587)
- - [Magic: The Gathering goes full Hellraiser with more Junji Ito art](https://www.pcgamer.com/magic-the-gathering-goes-full-hellraiser-with-more-junji-ito-art)<!-- GAME:END -->
+ - [Polygon’s merch store relaunches to celebrate our first 10 years](https://www.polygon.com/deals/23506284/polygon-merch-store-relaunch-merchandise-shirts)
+ - [Blade Runner TTRPG nails Ridley Scott’s vision, adds pitch-perfect investigative mechanics](https://www.polygon.com/reviews/23507498/blade-runner-the-role-playing-game-review)
+ - [Paris Hilton and Jimmy Fallon are being sued for promoting NFTs](https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-are-being-sued-for-promoting-nfts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
