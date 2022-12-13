@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New, lower price: Apple&#39;s 14-inch MacBook Pro dips to $1,529 with B&amp;H Payboo](https://appleinsider.com/articles/22/12/13/new-lower-price-apples-14-inch-macbook-pro-dips-to-1529-with-bh-payboo?utm_medium=rss)
- - [Avatar: The Way of Water is a gorgeous rehash of all the first film’s triumphs and failures](https://www.theverge.com/23506880/avatar-the-way-of-water-review)
- - [The EU publishes a draft approval of its preliminary US data sharing deal, struck in March to ease business sharing, after the US promised surveillance changes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221213/p27#a221213p27)<!-- TECH:END -->
+ - [iPadOS 16.2 now available with external display support](https://appleinsider.com/articles/22/12/13/ipados-162-now-available-with-external-display-support?utm_medium=rss)
+ - [tvOS 16.2 with Apple Music Sing is available for the Apple TV](https://appleinsider.com/articles/22/12/13/tvos-162-with-apple-music-sing-is-available-for-the-apple-tv?utm_medium=rss)
+ - [macOS Ventura 13.1 is out with new Freeform app and iCloud security updates](https://appleinsider.com/articles/22/12/13/macos-ventura-131-is-out-with-new-freeform-app-and-icloud-security-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
