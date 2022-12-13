@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ travel show &#39;The Reluctant Traveler&#39; lands on February 24](https://appleinsider.com/articles/22/12/13/apple-tv-travel-show-the-reluctant-traveler-lands-on-february-24?utm_medium=rss)
- - [How to tip your Amazon driver](https://www.theverge.com/23507356/amazon-alexa-driver-tip-how-to)
- - [Kentucky Route Zero joins Netflix’s mobile games lineup](https://www.theverge.com/2022/12/13/23502564/kentucky-route-zero-netflix-ios-android-mobile-games-twelve-minutes)<!-- TECH:END -->
+ - [PlayStation’s 2022 Wrap-Up recaps playtime, trophies, and meows](https://www.theverge.com/2022/12/13/23507377/playstation-2022-wrap-up-recap-playtime-trophies-meows)
+ - [Apple preparing for third-party app stores by 2024](https://appleinsider.com/articles/22/12/13/apple-preparing-for-third-party-app-stores-by-2024?utm_medium=rss)
+ - [Apple hasn&#39;t left Monterey, Big Sur, iPadOS 15, iOS 15 behind yet](https://appleinsider.com/articles/22/12/13/apple-hasnt-left-monterey-big-sur-ipados-15-ios-15-behind-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
