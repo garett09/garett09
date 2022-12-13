@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
- - 🚯 [An apple a day](http://9gag.com/gag/awZXE4D)
+ - 🚖 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
+ - 🚯 [No shit Sherlock](http://9gag.com/gag/aL1jZoz)
  - 🚯 [Aahhh, the progress in healthcare](http://9gag.com/gag/aGEjXEK)<!-- MEMES:END -->
 
 --- 
