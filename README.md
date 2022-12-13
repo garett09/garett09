@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 🚯 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
  - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 --- 
