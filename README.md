@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What does it mean?](http://9gag.com/gag/aKEjor6)
- - 🚯 [Equality](http://9gag.com/gag/amA7ObX)
- - 🚯 [California woman told the victim of an assault not to call the cops](http://9gag.com/gag/ajVEz38)<!-- MEMES:END -->
+ - 🚖 [On another episode of Idiots In Bikes](http://9gag.com/gag/aWG13w3)
+ - 🚯 [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
+ - 🚯 [Savor the flavor](http://9gag.com/gag/aZD3ON0)<!-- MEMES:END -->
 
 --- 
 
