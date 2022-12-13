@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Avatar-themed concept car is barely driveable but looks like a futuristic fever dream](https://www.theverge.com/2022/12/12/23505738/mercedes-benz-vision-avtr-avatar-concept-car-hands-on)
- - [FTX co-founder Sam Bankman-Fried arrested in the Bahamas](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)
- - [The Absolute Best New Christmas Movies of 2022     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-new-christmas-movies-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
+ - [Westworld is leaving HBO Max](https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery)
+ - [Email: Twitter dissolves its Trust and Safety Council, saying it isn&#39;t &quot;the best structure&quot; for &quot;external insights into our product and policy development work&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221212/p27#a221212p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
