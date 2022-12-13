@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 🚯 [Damn Nolan](http://9gag.com/gag/aDYxEyx)<!-- MEMES:END -->
+ - 🚯 [Yours free](http://9gag.com/gag/a7qMYXq)
+ - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)<!-- MEMES:END -->
 
 --- 
 
