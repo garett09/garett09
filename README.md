@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With what money?](http://9gag.com/gag/ap9mEv8)
- - 🚯 [Easy win. sorry for potato, not the wheelchair guy but the quality](http://9gag.com/gag/aeQMXLq)
- - 🚯 [BREAKING: Fusion reactor in the US reached a q factor of 1.3+ meaning they got an energy gain from the reaction. This is a first in fusion history!](http://9gag.com/gag/aqeK4NL)<!-- MEMES:END -->
+ - 🚖 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 🚯 [If you insist..](http://9gag.com/gag/aL1jy2A)
+ - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
 
 --- 
 
