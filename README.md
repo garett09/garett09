@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 🚯 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
- - 🚯 [If you insist..](http://9gag.com/gag/aL1jy2A)<!-- MEMES:END -->
+ - 🚖 [If you insist..](http://9gag.com/gag/aL1jy2A)
+ - 🚯 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
+ - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)<!-- MEMES:END -->
 
 --- 
 
