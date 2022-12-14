@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The masterpiece Banshees of Inisherin has a crucial 20-year backstory](https://www.polygon.com/23507996/the-banshees-of-inisherin-hbo-max-streaming)
- - [Martial Artists: Talking to the Creative Force Behind the Upcoming Wo Long: Fallen Dynasty](https://news.xbox.com/en-us/2022/12/14/martial-artists-talking-to-the-creative-force-behind-the-upcoming-wo-long-fallen-dynasty/)
- - [Critical Role&#39;s Matt Mercer will voice Minsc in Baldur&#39;s Gate 3](https://www.pcgamer.com/critical-roles-matt-mercer-will-voice-minsc-in-baldurs-gate-3)<!-- GAME:END -->
+ - [If You&#39;re Not Cheering In Pokémon Scarlet And Violet’s Raids, You&#39;re Doing It Wrong](https://kotaku.com/pokemon-scarlet-violet-tera-raid-cheer-guide-strategies-1849894259)
+ - [Epic is delisting almost every Unreal game, but making Unreal Tournament 3 free](https://www.pcgamer.com/epic-is-delisting-almost-every-unreal-game-but-making-unreal-tournament-3-free)
+ - [Epic Is Cutting The Servers For 17 Older Online Games](https://kotaku.com/epic-turning-off-service-unreal-gold-rock-band-steam-1849894078)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
