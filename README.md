@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games is taking a bunch of Rock Band and Unreal Tournament games offline](https://www.polygon.com/23509167/epic-games-online-shutdown-rock-band-unreal-tournament)
- - [Get to the World of Tanks Holiday Event](https://news.xbox.com/en-us/2022/12/14/get-to-the-world-of-tanks-holiday-event/)
- - [At least Disney’s National Treasure TV show gets the escape rooms right](https://www.polygon.com/23507833/national-treasure-edge-history-review-disney-plus)<!-- GAME:END -->
+ - [Do a Powerbomb creator Daniel Warren Johnson illustrates the scary future of corporate consolidation](https://www.polygon.com/c/23485904/next-10-art-gallery/daniel-warren-johnson-artwork-the-future-of-comics)
+ - [2K&#39;s launcher seems to negatively Midnight Suns&#39; performance, but you can turn it off](https://www.pcgamer.com/2ks-launcher-seems-to-negatively-midnight-suns-performance-but-you-can-turn-it-off)
+ - [Why you should play The Witcher 3 on the hardest difficulty](https://www.polygon.com/23507927/witcher-3-next-gen-upgrade-ps5-xbox-series-x-pc-difficulty-death-march)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
