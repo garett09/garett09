@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you insist..](http://9gag.com/gag/aL1jy2A)
- - 🚯 [Who&#39;s down there??](http://9gag.com/gag/avQObKE)
- - 🚯 [Damn](http://9gag.com/gag/aMEjRmX)<!-- MEMES:END -->
+ - 🚖 [After noticing that Ken slept with a photo of his late wife every night, one of the carers at Thistleton Lodge presented him with this incredible gift...](http://9gag.com/gag/a4oQ9zv)
+ - 🚯 [That Indian ascent still loops in my head.](http://9gag.com/gag/aeQr3Lj)
+ - 🚯 [Didn&#39;t happen to me. But worth sharing.](http://9gag.com/gag/ap9mqX9)<!-- MEMES:END -->
 
 --- 
 
