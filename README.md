@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected cameo \ud83d\udc40](http://9gag.com/gag/a6qOryN)
- - 🚯 [Finally i can die in peace.](http://9gag.com/gag/awZXRbW)
- - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
+ - 🚖 [With what money?](http://9gag.com/gag/ap9mEv8)
+ - 🚯 [Easy win. sorry for potato, not the wheelchair guy but the quality](http://9gag.com/gag/aeQMXLq)
+ - 🚯 [BREAKING: Fusion reactor in the US reached a q factor of 1.3+ meaning they got an energy gain from the reaction. This is a first in fusion history!](http://9gag.com/gag/aqeK4NL)<!-- MEMES:END -->
 
 --- 
 
