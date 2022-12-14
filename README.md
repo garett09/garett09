@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reportedly ditches Samsung, will rely on Samsung for future Samsung chips](https://www.androidauthority.com/samsung-chipset-development-team-smartphone-business-3250952/)
- - [Some Chinese students are using remote access software to cheat on TOEFL, GRE, and other US college entry exams, fueled by the introduction of at-home testing &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/221214/p6#a221214p6)
- - [Oppo claims its Bluetooth audio chip delivers wired quality](https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/)<!-- TECH:END -->
+ - [As Tesla&#39;s stock drops 54%+ in 2022, on pace for its worst year on record, investors criticize Elon Musk&#39;s involvement in Twitter and his lack of focus on Tesla &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/221214/p9#a221214p9)
+ - [Sources: some US banks that lent Elon Musk $13B to buy Twitter are preparing to book losses on the loans this quarter, as investors shy away from risky debt &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p8#a221214p8)
+ - [Microsoft Teams chat is coming to Outlook](https://www.theverge.com/2022/12/14/23508755/microsoft-outlook-teams-chat-integration-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
