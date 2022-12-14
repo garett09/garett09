@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung firing up new smartphone chip division to fight Apple dominance](https://appleinsider.com/articles/22/12/14/samsung-firing-up-new-smartphone-chip-division-to-fight-apple-dominance?utm_medium=rss)
- - [Microsoft partners with Viasat to expand its Airband Initiative satellite internet service to Africa, prioritizing the DRC, Nigeria, Egypt, Senegal, and more &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/221214/p20#a221214p20)
- - [Apple&#39;s HomePod &amp; other smart speakers help people feel less alone, more empowered](https://appleinsider.com/articles/22/12/14/apples-homepod-other-smart-speakers-help-people-feel-less-alone-more-empowered?utm_medium=rss)<!-- TECH:END -->
+ - [Tether plans to stop using loans denominated in its tether stablecoin throughout 2023, following a report on the potentially risky practice &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221214/p23#a221214p23)
+ - [The SEC charges eight influencers with securities fraud, alleging they used Twitter and Discord to manipulate stocks from January 2020 as part of a $100M scheme &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/221214/p22#a221214p22)
+ - [Apple TV+ docuseries &#39;Super League: The War for Football&#39; debuts on Jan. 13](https://appleinsider.com/articles/22/12/14/apple-tv-docuseries-super-league-the-war-for-football-debus-on-jan-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
