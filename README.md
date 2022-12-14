@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Do a Powerbomb creator Daniel Warren Johnson illustrates the scary future of corporate consolidation](https://www.polygon.com/c/23485904/next-10-art-gallery/daniel-warren-johnson-artwork-the-future-of-comics)
- - [2K&#39;s launcher seems to negatively Midnight Suns&#39; performance, but you can turn it off](https://www.pcgamer.com/2ks-launcher-seems-to-negatively-midnight-suns-performance-but-you-can-turn-it-off)
- - [Why you should play The Witcher 3 on the hardest difficulty](https://www.polygon.com/23507927/witcher-3-next-gen-upgrade-ps5-xbox-series-x-pc-difficulty-death-march)<!-- GAME:END -->
+ - [The masterpiece Banshees of Inisherin has a crucial 20-year backstory](https://www.polygon.com/23507996/the-banshees-of-inisherin-hbo-max-streaming)
+ - [Martial Artists: Talking to the Creative Force Behind the Upcoming Wo Long: Fallen Dynasty](https://news.xbox.com/en-us/2022/12/14/martial-artists-talking-to-the-creative-force-behind-the-upcoming-wo-long-fallen-dynasty/)
+ - [Critical Role&#39;s Matt Mercer will voice Minsc in Baldur&#39;s Gate 3](https://www.pcgamer.com/critical-roles-matt-mercer-will-voice-minsc-in-baldurs-gate-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
