@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
- - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 🚯 [Damn Nolan](http://9gag.com/gag/aDYxEyx)<!-- MEMES:END -->
+ - 🚖 [Finally i can die in peace.](http://9gag.com/gag/awZXRbW)
+ - 🚯 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
+ - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
 
 --- 
 
