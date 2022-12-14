@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details the global supply chain that continues to offer Russia access to Western components and electronics, including from Intel and AMD &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p17#a221214p17)
- - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)
- - [17 Best Tech Books to Gift &lpar;2022&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)<!-- TECH:END -->
+ - [Samsung firing up new smartphone chip division to fight Apple dominance](https://appleinsider.com/articles/22/12/14/samsung-firing-up-new-smartphone-chip-division-to-fight-apple-dominance?utm_medium=rss)
+ - [Microsoft partners with Viasat to expand its Airband Initiative satellite internet service to Africa, prioritizing the DRC, Nigeria, Egypt, Senegal, and more &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/221214/p20#a221214p20)
+ - [Apple&#39;s HomePod &amp; other smart speakers help people feel less alone, more empowered](https://appleinsider.com/articles/22/12/14/apples-homepod-other-smart-speakers-help-people-feel-less-alone-more-empowered?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
