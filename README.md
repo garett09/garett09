@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Confirms It’s Making A God Of War TV Show](https://kotaku.com/god-of-war-ragnarok-tv-show-amazon-last-of-us-expanse-1849895011)
- - [You can now pet Geralt&#39;s horse in The Witcher 3, and it&#39;s about time](https://www.pcgamer.com/you-can-now-pet-geralts-horse-in-the-witcher-3-and-its-about-time)
- - [Harry Potter Game Shows Off Some Straight-Up Wizard Murder](https://kotaku.com/hogwarts-legacy-j-k-rowling-terf-delay-avada-kedavra-1849894872)<!-- GAME:END -->
+ - [Fantavision 202X revealed for PS VR2, plus more Japanese-developed highlights](https://blog.playstation.com/2022/12/14/fantavision-202x-revealed-for-ps-vr2-plus-more-japanese-developed-highlights/)
+ - [TikTok turned an SNL comedy song into SZA’s most popular release](https://www.polygon.com/23509755/cuffing-season-big-boy-sza-snl-tiktok)
+ - [Why do relaxing farming life sims stress me out so much?](https://www.pcgamer.com/why-do-relaxing-farming-life-sims-stress-me-out-so-much)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
