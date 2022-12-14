@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.27 going live today with five new cars including the recently unveiled Ferrari Vision Gran Turismo](https://blog.playstation.com/2022/12/14/gran-turismo-7-update-1-27-going-live-today-with-five-new-cars-including-the-recently-unveiled-ferrari-vision-gran-turismo/)
- - [How to craft a feather cape in Valheim](https://www.pcgamer.com/valheim-feather-cape)
- - [Fortnite Winterfest 2022: Presents, free skins, and snowballs](https://www.pcgamer.com/fortnite-winterfest-2022-presents)<!-- GAME:END -->
+ - [Adam Driver fights dinosaurs in 65! Give 65 Best Picture right now!](https://www.polygon.com/23508940/65-trailer-adam-driver-dinosaurs-movie)
+ - [Super Nintendo World finally comes to the US in February 2023](https://www.polygon.com/23507259/super-nintendo-world-universal-studios-opening-date)
+ - [Destiny 2 Dawning 2022 guide: Collect ingredients and gifts, bake recipes](https://www.polygon.com/destiny-2-guide-walkthrough/23507936/dawning-20220-holiday-cookie-recipe-challenge-guide-list-ingredients-rewards-stay-frosty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
