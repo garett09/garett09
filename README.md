@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube expands its tools to curtail toxic comments, sending users a notification when their comment is removed and temporarily banning them from commenting &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221214/p13#a221214p13)
- - [Google won’t launch ChatGPT rival because of ‘reputational risk’](https://www.theverge.com/2022/12/14/23508756/google-vs-chatgpt-ai-replace-search-reputational-risk)
- - [TikTok starts testing a horizontal full-screen mode](https://www.theverge.com/2022/12/14/23508782/tiktok-full-screen-mode-test)<!-- TECH:END -->
+ - [An investigation details the global supply chain that continues to offer Russia access to Western components and electronics, including from Intel and AMD &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p17#a221214p17)
+ - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)
+ - [17 Best Tech Books to Gift &lpar;2022&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
