@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: M1 Mac mini now $599 with free expedited shipping](https://appleinsider.com/articles/22/12/14/deal-m1-mac-mini-now-599-with-free-expedited-shipping?utm_medium=rss)
- - [The golden age of the streaming wars has ended](https://www.theverge.com/2022/12/14/23507793/streaming-wars-hbo-max-netflix-ads-residuals-warrior-nun)
- - [Cambridge, UK-based semiconductor company Pragmatic raised a $35M Series C extension, bringing the round&#39;s total to $125M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221214/p30#a221214p30)<!-- TECH:END -->
+ - [The Nier: Automata anime is coming to Crunchyroll in January](https://www.theverge.com/2022/12/14/23509661/nier-automata-anime-crunchyroll-release-date)
+ - [Here are 37 last-minute gifts you can still get before the holidays](https://www.theverge.com/23505584/christmas-gifts-hanukkah-best-last-minute-tech-gaming-headphones-laptops-gadgets-shipping)
+ - [FuboTV is down during a World Cup semifinal game](https://www.theverge.com/2022/12/14/23509674/fubo-tv-down-france-morocco-world-cup-semifinal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
