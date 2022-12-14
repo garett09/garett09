@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mine too!](http://9gag.com/gag/a5XMeLE)
- - 🚯 [I hope you haven&#39;t seen this before compilation](http://9gag.com/gag/ajV86D8)
- - 🚯 [After noticing that Ken slept with a photo of his late wife every night, one of the carers at Thistleton Lodge presented him with this incredible gift...](http://9gag.com/gag/a4oQ9zv)<!-- MEMES:END -->
+ - 🚖 [If you insist..](http://9gag.com/gag/aL1jy2A)
+ - 🚯 [Who&#39;s down there??](http://9gag.com/gag/avQObKE)
+ - 🚯 [Damn](http://9gag.com/gag/aMEjRmX)<!-- MEMES:END -->
 
 --- 
 
