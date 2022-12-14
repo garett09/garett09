@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s year in review shows you how you spent 2022](https://www.polygon.com/23508215/playstation-year-in-review-wrapped-wrap-up-2022)
- - [The state of Path of Exile](https://www.pcgamer.com/the-state-of-path-of-exile-2022)
- - [Game Removes Loot Boxes, Players Revolt Instead Of Celebrate](https://kotaku.com/brawl-stars-loot-boxes-free-mobile-battle-pass-1849890262)<!-- GAME:END -->
+ - [Final Fantasy Remake Has A Painting With A Getty Watermark](https://kotaku.com/ff7-remake-crisis-core-painting-watermark-getty-mistake-1849890673)
+ - [Mega Man Battle Network Legacy Collection releases April 14, 2023](https://blog.playstation.com/2022/12/13/mega-man-battle-network-legacy-collection-releases-april-14-2023/)
+ - [LG&#39;s new OLED 240Hz monitors give 1440p gaming the respect it deserves](https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
