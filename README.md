@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Lawsuit Accuses Meta of Inflaming Civil War in Ethiopia](https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/)
- - [Responding to the &quot;Twitter Files&quot;, Jack Dorsey defends against attacks on Twitter staff, advocates for an open social media protocol, commits $1M/year to Signal &lpar;Jack Dorsey/Revue&rpar;](http://www.techmeme.com/221213/p42#a221213p42)
- - [Microsoft says some drivers certified by its Windows Hardware Developer Program were used to sign malware, but that no network breach has been detected &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221213/p41#a221213p41)<!-- TECH:END -->
+ - [Sources: Twitter is considering forcing all users to opt in to personalized ads and location data sharing, but may let Blue users opt out of personalized ads &lpar;Platformer&rpar;](http://www.techmeme.com/221213/p44#a221213p44)
+ - [US lawmakers introduce legislation that aims to ban TikTok or any social media company in, or under the influence of, China, Russia, and other US adversaries &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/221213/p43#a221213p43)
+ - [Jack Dorsey on Musk’s Twitter files: ‘There’s nothing to hide’](https://www.theverge.com/2022/12/13/23508240/jack-dorsey-twitter-files-response-bluesky-wikileaks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
