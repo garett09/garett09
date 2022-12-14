@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UBS says iPhone 14 Pro supply has improved, but not enough](https://appleinsider.com/articles/22/12/14/ubs-says-iphone-14-pro-supply-has-improved-but-not-enough?utm_medium=rss)
- - [Holiday Gift Guide: best iPhone &amp; iPad accessory gifts from $20 to $100](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-iphone-ipad-accessory-gifts-from-20-to-100?utm_medium=rss)
- - [The Grim Origins of an Ominous Methane Surge](https://www.wired.com/story/the-grim-origins-of-an-ominous-methane-surge/)<!-- TECH:END -->
+ - [Twitter&#39;s new moneymaking scheme is a giant violation of Apple&#39;s App Store guidelines](https://appleinsider.com/articles/22/12/14/twitters-new-moneymaking-scheme-is-a-giant-violation-of-apples-app-store-guidelines?utm_medium=rss)
+ - [How to use macOS startup keyboard commands to boot or recover](https://appleinsider.com/articles/22/12/14/how-to-use-macos-startup-keyboard-commands-to-boot-or-recover?utm_medium=rss)
+ - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
