@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s new moneymaking scheme is a giant violation of Apple&#39;s App Store guidelines](https://appleinsider.com/articles/22/12/14/twitters-new-moneymaking-scheme-is-a-giant-violation-of-apples-app-store-guidelines?utm_medium=rss)
- - [How to use macOS startup keyboard commands to boot or recover](https://appleinsider.com/articles/22/12/14/how-to-use-macos-startup-keyboard-commands-to-boot-or-recover?utm_medium=rss)
- - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)<!-- TECH:END -->
+ - [Apple seeds first developer beta for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/22/12/14/apple-seeds-first-developer-beta-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)
+ - [Apple releases the first developer beta for macOS Ventura 13.2](https://appleinsider.com/articles/22/12/14/apple-releases-the-first-developer-beta-for-macos-ventura-132?utm_medium=rss)
+ - [How to use Apple Watch to stay healthy while working from home](https://appleinsider.com/inside/apple-watch/tips/how-to-use-apple-watch-to-stay-healthy-while-working-from-home?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
