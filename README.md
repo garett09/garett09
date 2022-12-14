@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
- - 🚯 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
- - 🚯 [Unexpected cameo \ud83d\udc40](http://9gag.com/gag/a6qOryN)<!-- MEMES:END -->
+ - 🚖 [Unexpected cameo \ud83d\udc40](http://9gag.com/gag/a6qOryN)
+ - 🚯 [Finally i can die in peace.](http://9gag.com/gag/awZXRbW)
+ - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 --- 
 
