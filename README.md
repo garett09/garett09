@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Willow&#39; Release Schedule: When Does Episode 4 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/willow-release-schedule-when-does-episode-4-hit-disney-plus/#ftag=CAD590a51e)
- - [6 Best Teas for Anxiety and Stress     - CNET](https://www.cnet.com/health/mental/6-best-teas-to-manage-anxiety-and-stress/#ftag=CAD590a51e)
- - [Sources: Twitter is considering forcing all users to opt in to personalized ads and share their location data but may let Blue users opt out of personalized ads &lpar;Platformer&rpar;](http://www.techmeme.com/221213/p44#a221213p44)<!-- TECH:END -->
+ - [Sources: the US commerce department plans to put Chinese memory chip maker YMTC on its &quot;entity list&quot; as early as this week, limiting its ability to get US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/221213/p47#a221213p47)
+ - [A database of the FBI&#39;s threat information sharing program InfraGard containing contact details of its 80K+ members has been up for sale since December 10, 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221213/p46#a221213p46)
+ - [Quanergy Systems, a maker of lidar sensors and related software, files for bankruptcy, after going public via a $175M SPAC merger deal in February 2022 &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/221213/p45#a221213p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
