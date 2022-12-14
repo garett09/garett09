@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds first developer beta for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/22/12/14/apple-seeds-first-developer-beta-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)
- - [Apple releases the first developer beta for macOS Ventura 13.2](https://appleinsider.com/articles/22/12/14/apple-releases-the-first-developer-beta-for-macos-ventura-132?utm_medium=rss)
- - [How to use Apple Watch to stay healthy while working from home](https://appleinsider.com/inside/apple-watch/tips/how-to-use-apple-watch-to-stay-healthy-while-working-from-home?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon’s Plus Play hub for digital subscriptions comes with a free year of Netflix](https://www.theverge.com/2022/12/14/23509301/verizons-play-plus-beta-launches-netflix-free)
+ - [PayPal launches an integration with MetaMask that allows users to purchase and transfer ETH, rolling out to all US customers in the coming weeks &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/221214/p29#a221214p29)
+ - [Apple gear that isn&#39;t iPhone tops Christmas lists for many in 2022](https://appleinsider.com/articles/22/12/14/apple-gear-that-isnt-iphone-tops-christmas-lists-for-many-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
