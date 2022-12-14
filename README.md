@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
- - 🚯 [If you insist..](http://9gag.com/gag/aL1jy2A)
- - 🚯 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
+ - 🚖 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
+ - 🚯 [His face though](http://9gag.com/gag/aEq2dPn)
+ - 🚯 [Now waste your time](http://9gag.com/gag/abvM7Wr)<!-- MEMES:END -->
 
 --- 
 
