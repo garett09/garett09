@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
+ - 🚖 [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
+ - 🚯 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
  - 🚯 [Unexpected cameo \ud83d\udc40](http://9gag.com/gag/a6qOryN)<!-- MEMES:END -->
 
 --- 
