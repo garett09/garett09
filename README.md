@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 satellite rescue feature prompts challenging canyon rescue](https://appleinsider.com/articles/22/12/14/iphone-14-satellite-rescue-feature-prompts-challenging-canyon-rescue?utm_medium=rss)
- - [Apple gear that isn&#39;t iPhone tops Christmas lists for many in 2022](https://appleinsider.com/articles/22/12/14/apple-gear-that-isnt-iphone-tops-christmas-lists-for-many-in-2022?utm_medium=rss)
- - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [How to rip CDs &amp; use your own audio files in Music on macOS Ventura](https://appleinsider.com/inside/apple-music/tips/how-to-rip-cds-use-your-own-audio-files-in-music-on-macos-ventura?utm_medium=rss)
+ - [Holiday Gift Guide: Best luxury gifts for iPhone &amp; iPad users](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-luxury-gifts-for-iphone-ipad-users?utm_medium=rss)
+ - [Google’s making code formatting a breeze in Docs](https://www.theverge.com/2022/12/14/23509936/google-docs-code-blocks-smart-canvas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
