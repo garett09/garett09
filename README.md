@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
- - 🚯 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - 🚯 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)<!-- MEMES:END -->
+ - 🚖 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 🚯 [Damn Nolan](http://9gag.com/gag/aDYxEyx)<!-- MEMES:END -->
 
 --- 
 
