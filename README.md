@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
- - 🚯 [His face though](http://9gag.com/gag/aEq2dPn)
- - 🚯 [Now waste your time](http://9gag.com/gag/abvM7Wr)<!-- MEMES:END -->
+ - 🚖 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 🚯 [If you insist..](http://9gag.com/gag/aL1jy2A)
+ - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 --- 
 
