@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to enable cross-platform progression for The Witcher 3: Complete Edition](https://www.pcgamer.com/the-witcher-3-how-to-enable-cross-platform-progression)
- - [This nuclear fusion breakthrough is giving us major Fallout vibes, in a good way](https://www.pcgamer.com/this-nuclear-fusion-breakthrough-is-giving-us-major-fallout-vibes-in-a-good-way)
- - [Today&#39;s Wordle 543 answer and hint for Wednesday, December 14](https://www.pcgamer.com/wordle-543-answer-december-14)<!-- GAME:END -->
+ - [Fortnite Winterfest 2022: Presents, free skins, and snowballs](https://www.pcgamer.com/fortnite-winterfest-2022-presents)
+ - [World of Warcraft: Dragonflight Season 1 kicks off with a new raid, arena and lots of proto-drakes that need killing](https://www.pcgamer.com/world-of-warcraft-dragonflight-season-1-kicks-off-with-a-new-raid-arena-and-lots-of-proto-drakes-that-need-killing)
+ - [Wonder Woman 3 director speaks out on cancellation, still working on Rogue Squadron](https://www.polygon.com/23508767/wonder-woman-3-patty-jenkins-cancellation-rogue-squadron-dc-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
