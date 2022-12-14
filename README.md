@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
- - 🚯 [Title](http://9gag.com/gag/abvY5dL)
- - 🚯 [Look at me I&#39;m the referee now](http://9gag.com/gag/aqeKmAM)<!-- MEMES:END -->
+ - 🚖 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
+ - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
+ - 🚯 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)<!-- MEMES:END -->
 
 --- 
 
