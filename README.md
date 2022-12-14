@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Tesla&#39;s stock drops 54%+ in 2022, on pace for its worst year on record, investors criticize Elon Musk&#39;s involvement in Twitter and his lack of focus on Tesla &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/221214/p9#a221214p9)
- - [Sources: some US banks that lent Elon Musk $13B to buy Twitter are preparing to book losses on the loans this quarter, as investors shy away from risky debt &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p8#a221214p8)
- - [Microsoft Teams chat is coming to Outlook](https://www.theverge.com/2022/12/14/23508755/microsoft-outlook-teams-chat-integration-feature)<!-- TECH:END -->
+ - [YouTube expands its tools to curtail toxic comments, sending users a notification when their comment is removed and temporarily banning them from commenting &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221214/p13#a221214p13)
+ - [Google won’t launch ChatGPT rival because of ‘reputational risk’](https://www.theverge.com/2022/12/14/23508756/google-vs-chatgpt-ai-replace-search-reputational-risk)
+ - [TikTok starts testing a horizontal full-screen mode](https://www.theverge.com/2022/12/14/23508782/tiktok-full-screen-mode-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
