@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is testing a new horizontal full screen mode with select users globally &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221213/p39#a221213p39)
- - [The many lies of Sam Bankman-Fried](https://www.theverge.com/2022/12/13/23507361/sam-bankman-fried-ftx-alameda-cftc-complaint-lies)
- - [Tidal is testing a new DJ session feature for HiFi Plus subscribers](https://www.theverge.com/2022/12/13/23507759/tidal-dj-sessions-early-access-program-subscriber-livestream)<!-- TECH:END -->
+ - [A New Lawsuit Accuses Meta of Inflaming Civil War in Ethiopia](https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/)
+ - [Responding to the &quot;Twitter Files&quot;, Jack Dorsey defends against attacks on Twitter staff, advocates for an open social media protocol, commits $1M/year to Signal &lpar;Jack Dorsey/Revue&rpar;](http://www.techmeme.com/221213/p42#a221213p42)
+ - [Microsoft says some drivers certified by its Windows Hardware Developer Program were used to sign malware, but that no network breach has been detected &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221213/p41#a221213p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
