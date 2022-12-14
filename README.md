@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
- - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
- - 🚯 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)<!-- MEMES:END -->
+ - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 --- 
 
