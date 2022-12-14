@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - 🚯 [Please](http://9gag.com/gag/a2KZYYD)
- - 🚯 [Russia have steven segal but Ukraine has Universal Soldier - Jean Claude van Damme](http://9gag.com/gag/aGEZwO7)<!-- MEMES:END -->
+ - 🚖 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
+ - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
+ - 🚯 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)<!-- MEMES:END -->
 
 --- 
 
