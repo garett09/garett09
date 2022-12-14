@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 543 answer and hint for Wednesday, December 14](https://www.pcgamer.com/wordle-543-answer-december-14)
- - [Mario Kart 7 Gets Patched 10 Years After Last Update](https://kotaku.com/mario-kart-nintendo-7-3ds-patch-speedrun-exploit-1849891364)
- - [PSA: Firaxis put a whole dang Midnight Suns cartoon on YouTube](https://www.pcgamer.com/psa-firaxis-put-a-whole-dang-midnight-suns-cartoon-on-youtube)<!-- GAME:END -->
+ - [How to enable cross-platform progression for The Witcher 3: Complete Edition](https://www.pcgamer.com/the-witcher-3-how-to-enable-cross-platform-progression)
+ - [This nuclear fusion breakthrough is giving us major Fallout vibes, in a good way](https://www.pcgamer.com/this-nuclear-fusion-breakthrough-is-giving-us-major-fallout-vibes-in-a-good-way)
+ - [Today&#39;s Wordle 543 answer and hint for Wednesday, December 14](https://www.pcgamer.com/wordle-543-answer-december-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
