@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - 🚯 [Yours free](http://9gag.com/gag/a7qMYXq)
- - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)<!-- MEMES:END -->
+ - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
+ - 🚯 [Unexpected cameo \ud83d\udc40](http://9gag.com/gag/a6qOryN)<!-- MEMES:END -->
 
 --- 
 
