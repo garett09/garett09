@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Energy Supercross – The Official Videogame 6 – Available for Pre-Order](https://news.xbox.com/en-us/2022/12/14/monster-energy-supercross-the-official-videogame-6-available-for-pre-order/)
- - [Traveling through time to see future Pokémon, with Mr. Boop creator Alec Robbins](https://www.polygon.com/23465915/pokemon-in-the-future-art)
- - [John Walker&#39;s Top Ten Games Of 2022](https://kotaku.com/best-of-2022-horizon-forbidden-west-marvel-snap-pokemon-1849891927)<!-- GAME:END -->
+ - [Epic Games is taking a bunch of Rock Band and Unreal Tournament games offline](https://www.polygon.com/23509167/epic-games-online-shutdown-rock-band-unreal-tournament)
+ - [Get to the World of Tanks Holiday Event](https://news.xbox.com/en-us/2022/12/14/get-to-the-world-of-tanks-holiday-event/)
+ - [At least Disney’s National Treasure TV show gets the escape rooms right](https://www.polygon.com/23507833/national-treasure-edge-history-review-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
