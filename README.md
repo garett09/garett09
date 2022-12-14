@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)
- - [The Big &#39;1899&#39; Questions We Need Answered in Season 2     - CNET](https://www.cnet.com/culture/entertainment/the-big-1899-questions-we-need-answered-in-season-2/#ftag=CAD590a51e)
- - [If You&#39;re Watching &#39;1899&#39; on Netflix, You Need to Change This One Setting     - CNET](https://www.cnet.com/culture/entertainment/if-youre-watching-1899-on-netflix-you-need-to-change-this-one-setting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paytm will buy back up to 10.5M shares worth ~$103M at a 50%+ premium to the December 13 closing price, seeking to convince investors of a path to profitability &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/221214/p3#a221214p3)
+ - [The son of a murdered Ethiopian professor files a lawsuit against Meta in Kenya, alleging Meta&#39;s algorithms promote hateful and violent content for engagement &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/221214/p2#a221214p2)
+ - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
