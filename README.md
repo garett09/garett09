@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you insist..](http://9gag.com/gag/aL1jy2A)
- - 🚯 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
- - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)<!-- MEMES:END -->
+ - 🚖 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
+ - 🚯 [Please](http://9gag.com/gag/a2KZYYD)
+ - 🚯 [Russia have steven segal but Ukraine has Universal Soldier - Jean Claude van Damme](http://9gag.com/gag/aGEZwO7)<!-- MEMES:END -->
 
 --- 
 
