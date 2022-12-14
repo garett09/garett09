@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
- - 🚯 [An easy way to become Rich](http://9gag.com/gag/aA03YYp)
- - 🚯 [The betrayal](http://9gag.com/gag/amABXzy)<!-- MEMES:END -->
+ - 🚖 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
+ - 🚯 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - 🚯 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)<!-- MEMES:END -->
 
 --- 
 
