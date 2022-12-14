@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
- - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
- - 🚯 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)<!-- MEMES:END -->
+ - 🚖 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
+ - 🚯 [His face though](http://9gag.com/gag/aEq2dPn)
+ - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)<!-- MEMES:END -->
 
 --- 
 
