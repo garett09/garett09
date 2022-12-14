@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 🚯 [If you insist..](http://9gag.com/gag/aL1jy2A)
- - 🚯 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
+ - 🚖 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
+ - 🚯 [An easy way to become Rich](http://9gag.com/gag/aA03YYp)
+ - 🚯 [The betrayal](http://9gag.com/gag/amABXzy)<!-- MEMES:END -->
 
 --- 
 
