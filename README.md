@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Probably the best `Wear a seat belt` ad ever](http://9gag.com/gag/aZDLW40)
- - 🚯 [After noticing that Ken slept with a photo of his late wife every night, one of the carers at Thistleton Lodge presented him with this incredible gift...](http://9gag.com/gag/a4oQ9zv)
- - 🚯 [He doesn&#39;t mind strangers](http://9gag.com/gag/aA03V19)<!-- MEMES:END -->
+ - 🚖 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 🚯 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
+ - 🚯 [If you insist..](http://9gag.com/gag/aL1jy2A)<!-- MEMES:END -->
 
 --- 
 
