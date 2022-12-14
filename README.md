@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Supreme Court asks the Biden administration to weigh in on lyrics website Genius&#39; attempt to revive a lawsuit over Google&#39;s alleged theft of its work &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221213/p48#a221213p48)
- - [Meet the &#39;Wednesday&#39; Actor Who Turned &#39;Thing&#39; Into a Breakout Star     - CNET](https://www.cnet.com/culture/entertainment/meet-the-wednesday-actor-who-turned-thing-into-a-breakout-star/#ftag=CAD590a51e)
- - [Sources: the US commerce department plans to put Chinese memory chip maker YMTC on its &quot;entity list&quot; as early as this week, limiting its ability to get US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/221213/p47#a221213p47)<!-- TECH:END -->
+ - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)
+ - [The Big &#39;1899&#39; Questions We Need Answered in Season 2     - CNET](https://www.cnet.com/culture/entertainment/the-big-1899-questions-we-need-answered-in-season-2/#ftag=CAD590a51e)
+ - [If You&#39;re Watching &#39;1899&#39; on Netflix, You Need to Change This One Setting     - CNET](https://www.cnet.com/culture/entertainment/if-youre-watching-1899-on-netflix-you-need-to-change-this-one-setting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
