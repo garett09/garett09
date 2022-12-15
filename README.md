@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [12-yeard-old Jeremiah Johnson from Texas recently won the U12 MVP at the Youth National Championships in Miami](http://9gag.com/gag/aA031Op)
- - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
- - 🚯 [They did it, they actually did it!](http://9gag.com/gag/a2KZqbw)<!-- MEMES:END -->
+ - 🚖 [Chances of a car crush in that street - 100%](http://9gag.com/gag/a3ZQB03)
+ - 🚯 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
+ - 🚯 [12 random trips to the Island of a person who didn&#39;t kill himself](http://9gag.com/gag/aWGY633)<!-- MEMES:END -->
 
 --- 
 
