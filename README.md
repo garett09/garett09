@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [About 200 companies in China and Hong Kong, including Alibaba and JD.com, no longer face the threat of a US delisting after US inspectors reviewed their audits &lpar;Bloomberg&rpar;](http://www.techmeme.com/221215/p38#a221215p38)
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23393104/gift-guide-under-50-best-cheap-tech-holiday-ideas-2022-budget)
- - [How to use SSH for secure connections in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-ssh-for-secure-connections-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s North Carolina campus is still coming, but when is the question](https://appleinsider.com/articles/22/12/15/apples-north-carolina-campus-is-still-coming-but-when-is-the-question?utm_medium=rss)
+ - [Google is beta testing digital state ID cards in its Android Wallet app](https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland)
+ - [World of Warcraft veteran Chris Metzen returns to Blizzard](https://www.theverge.com/2022/12/15/23511391/world-of-warcraft-chris-metzen-blizzard-overwatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
