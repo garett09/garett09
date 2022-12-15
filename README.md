@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Tomb Raider game will be published by Amazon](https://www.pcgamer.com/the-new-tomb-raider-game-will-be-published-by-amazon)
- - [How the Players Shaped Clover Bite Studio’s Grime DLC: Colors of Rot](https://news.xbox.com/en-us/2022/12/15/how-the-players-shaped-clover-bite-studios-grime-dlc-colors-of-rot/)
- - [Former Warcraft creative director Chris Metzen is returning to Blizzard](https://www.pcgamer.com/former-warcraft-creative-director-chris-metzen-is-returning-to-blizzard)<!-- GAME:END -->
+ - [Avatar 2 doesn’t have a post-credits scene, an extended cut, or guaranteed sequels](https://www.polygon.com/23502389/avatar-2-way-water-post-credits-scene)
+ - [Xbox Podcast: Justin Roiland Says High on Life Players Will Be Discovering New Details ‘For Months’](https://news.xbox.com/en-us/2022/12/15/xbox-podcast-high-on-life/)
+ - [Dwarf Fortress defense guide: How to set traps and prepare your dwarves for battle](https://www.pcgamer.com/dwarf-fortress-drawbridge-military-combat-defense-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
