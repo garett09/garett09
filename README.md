@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
- - 🚯 [Who?](http://9gag.com/gag/aKEx316)
- - 🚯 [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)<!-- MEMES:END -->
+ - 🚖 [Dang, i cant keep up with the graphics scaling .](http://9gag.com/gag/avQ8nOq)
+ - 🚯 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)
+ - 🚯 [Passenger trains in US vs Europe](http://9gag.com/gag/aeQr6Eb)<!-- MEMES:END -->
 
 --- 
 
