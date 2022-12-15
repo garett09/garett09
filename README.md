@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
- - 🚯 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
- - 🚯 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
+ - 🚖 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
+ - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
+ - 🚯 [Who?](http://9gag.com/gag/aKEx316)<!-- MEMES:END -->
 
 --- 
 
