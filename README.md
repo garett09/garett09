@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
+ - 🚖 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
  - 🚯 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - 🚯 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)<!-- MEMES:END -->
+ - 🚯 [Magic ball](http://9gag.com/gag/aqeKNxY)<!-- MEMES:END -->
 
 --- 
 
