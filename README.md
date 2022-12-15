@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
- - 🚯 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - 🚯 [Magic ball](http://9gag.com/gag/aqeKNxY)<!-- MEMES:END -->
+ - 🚖 [Show name Loudermilk...](http://9gag.com/gag/a2KZN7Z)
+ - 🚯 [Probably the best `Wear a seat belt` ad ever](http://9gag.com/gag/aZDLW40)
+ - 🚯 [Good luck dealing with them, Europe](http://9gag.com/gag/ap9mopb)<!-- MEMES:END -->
 
 --- 
 
