@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They did it, they actually did it!](http://9gag.com/gag/a2KZqbw)
- - 🚯 [Did not see that coming](http://9gag.com/gag/amAB0mX)
- - 🚯 [Still better than how my mom used to wake me up](http://9gag.com/gag/aGEZxVZ)<!-- MEMES:END -->
+ - 🚖 [12-yeard-old Jeremiah Johnson from Texas recently won the U12 MVP at the Youth National Championships in Miami](http://9gag.com/gag/aA031Op)
+ - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
+ - 🚯 [They did it, they actually did it!](http://9gag.com/gag/a2KZqbw)<!-- MEMES:END -->
 
 --- 
 
