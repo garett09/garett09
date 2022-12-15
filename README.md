@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Tricky Quest to Protect Your Account](https://www.wired.com/story/meta-account-recovery-security/)
- - [Sony CRE-C10 Self-Fitting Hearing Aids Review: Affordable and Excellent](https://www.wired.com/review/sony-c10-self-fitting-hearing-aids/)
- - [You&#39;re Gonna Need a Crypto Wallet](https://www.wired.com/story/gadget-lab-podcast-578/)<!-- TECH:END -->
+ - [This year, I fell back in love with Chrome OS](https://www.androidauthority.com/love-chrome-os-3251538/)
+ - [Digital Eternity Is Just Around the Corner](https://www.wired.com/story/death-technology-memory/)
+ - [Yes, Android Phones Can Use Apple’s MagSafe Too. Here’s How](https://www.wired.com/story/android-magsafe-pixel-samsung-peak-design-everyday-case/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
