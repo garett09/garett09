@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
- - 🚯 [He\u2019s going to beat you someday \u2026](http://9gag.com/gag/aYVYeDx)
- - 🚯 [Sucks for him; she is the town bicycle](http://9gag.com/gag/a7q37De)<!-- MEMES:END -->
+ - 🚯 [Boiled feet](http://9gag.com/gag/awZAx1B)
+ - 🚯 [\u201cDude that is definitely from Korea\u201d starter pack](http://9gag.com/gag/aoKe9nn)<!-- MEMES:END -->
 
 --- 
 
