@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
- - [Best Kindle &lpar;2022&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
- - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)<!-- TECH:END -->
+ - [New 15.5-inch MacBook Air rumored to arrive in early 2023](https://appleinsider.com/articles/22/12/15/new-155-inch-macbook-air-rumored-to-arrive-in-early-2023?utm_medium=rss)
+ - [Instagram launches new tool to help hacked users regain account access](https://www.theverge.com/2022/12/15/23510803/instagram-hacked-account-support-regain-access-security)
+ - [Apple Maps redesign expands to Belgium and four other countries](https://appleinsider.com/articles/22/12/15/apple-maps-redesign-expands-to-belgium-and-four-other-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
