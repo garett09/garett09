@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
- - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
- - 🚯 [Who?](http://9gag.com/gag/aKEx316)<!-- MEMES:END -->
+ - 🚖 [Who?](http://9gag.com/gag/aKEx316)
+ - 🚯 [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
+ - 🚯 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
 
 --- 
 
