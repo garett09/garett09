@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find N2, Find N2 Flip launched: Oppo’s Galaxy Z Fold 4, Z Flip 4 rivals](https://www.androidauthority.com/oppo-find-n2-series-3248928/)
- - [Oppo&#39;s New Folding Phone is The Lightest One I&#39;ve Ever Carried     - CNET](https://www.cnet.com/tech/mobile/oppos-new-folding-phone-is-the-lightest-one-ive-ever-carried/#ftag=CAD590a51e)
- - [The mobile games market is set to fall in 2022 for the first time in over a decade; Newzoo forecasts revenues to drop by 6.4% to $92.2B, vs. 7.3% growth in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221215/p5#a221215p5)<!-- TECH:END -->
+ - [Filing: Elon Musk sells 22M Tesla shares, worth ~$3.6B, the fourth sale since announcing his Twitter takeover and third since declaring &quot;no further TSLA sales&quot; &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221215/p8#a221215p8)
+ - [Ex-Twitter employee receives over three years in prison for spying for Saudi Arabia](https://www.theverge.com/2022/12/15/23510619/twitter-employee-saudi-arabia-spying-sentenced-three-half-years-prison)
+ - [Foxconn begins easing most restrictions at its Zhengzhou plant, including those on workers&#39; daily movements, as China rolls back its COVID-19 rules &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221215/p7#a221215p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
