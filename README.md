@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen releases pair of new GaN chargers for your Apple gear](https://appleinsider.com/articles/22/12/15/ugreen-releases-pair-of-new-gan-chargers-for-your-apple-gear?utm_medium=rss)
- - [You can save $250 on the HP Spectre x360](https://www.theverge.com/2022/12/15/23510016/google-pixel-watch-hp-spectre-laptop-jabra-earbuds-deal-sale)
- - [The 26 best movies on Netflix: action, comedies, horror, and more](https://www.androidauthority.com/best-netflix-movies-3249582/)<!-- TECH:END -->
+ - [Microsoft adds full Teams integration to HoloLens 2 headsets, letting users view calendars and more, the first major update since co-founder Alex Kipman left &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221215/p35#a221215p35)
+ - [&#39;Mythic Quest&#39; spinoff series coming to Apple TV+](https://appleinsider.com/articles/22/12/15/mythic-quest-spinoff-series-coming-to-apple-tv?utm_medium=rss)
+ - [You’ll be able to do push-ups and pet a cute pup in Fire Emblem Engage’s main hub](https://www.theverge.com/2022/12/15/23511024/nintendo-fire-emblem-engage-somniel-main-hub-pet-dog)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
