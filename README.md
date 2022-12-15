@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantavision 202X revealed for PS VR2, plus more Japanese-developed highlights](https://blog.playstation.com/2022/12/14/fantavision-202x-revealed-for-ps-vr2-plus-more-japanese-developed-highlights/)
- - [TikTok turned an SNL comedy song into SZA’s most popular release](https://www.polygon.com/23509755/cuffing-season-big-boy-sza-snl-tiktok)
- - [Why do relaxing farming life sims stress me out so much?](https://www.pcgamer.com/why-do-relaxing-farming-life-sims-stress-me-out-so-much)<!-- GAME:END -->
+ - [You Can Finally Pet Your Horse In The Witcher 3](https://kotaku.com/witcher-3-roach-pet-horse-next-gen-update-cdpr-pals-1849895785)
+ - [Starfield cities: What we know about the major locations](https://www.pcgamer.com/starfield-cities-locations)
+ - [Finally, an RPG let me make the weird D&amp;D party of my dreams](https://www.pcgamer.com/finally-an-rpg-let-me-make-the-weird-dandd-party-of-my-dreams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
