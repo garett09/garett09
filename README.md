@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
- - 🚯 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
- - 🚯 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)<!-- MEMES:END -->
+ - 🚖 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
+ - 🚯 [He\u2019s going to beat you someday \u2026](http://9gag.com/gag/aYVYeDx)
+ - 🚯 [Sucks for him; she is the town bicycle](http://9gag.com/gag/a7q37De)<!-- MEMES:END -->
 
 --- 
 
