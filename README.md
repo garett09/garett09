@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chances of a car crush in that street - 100%](http://9gag.com/gag/a3ZQB03)
- - 🚯 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - 🚯 [12 random trips to the Island of a person who didn&#39;t kill himself](http://9gag.com/gag/aWGY633)<!-- MEMES:END -->
+ - 🚖 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
+ - 🚯 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
+ - 🚯 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
 
 --- 
 
