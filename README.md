@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This year, I fell back in love with Chrome OS](https://www.androidauthority.com/love-chrome-os-3251538/)
- - [Digital Eternity Is Just Around the Corner](https://www.wired.com/story/death-technology-memory/)
- - [Yes, Android Phones Can Use Apple’s MagSafe Too. Here’s How](https://www.wired.com/story/android-magsafe-pixel-samsung-peak-design-everyday-case/)<!-- TECH:END -->
+ - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
+ - [Best Kindle &lpar;2022&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
+ - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
