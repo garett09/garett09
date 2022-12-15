@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New 15.5-inch MacBook Air rumored to arrive in early 2023](https://appleinsider.com/articles/22/12/15/new-155-inch-macbook-air-rumored-to-arrive-in-early-2023?utm_medium=rss)
- - [Instagram launches new tool to help hacked users regain account access](https://www.theverge.com/2022/12/15/23510803/instagram-hacked-account-support-regain-access-security)
- - [Apple Maps redesign expands to Belgium and four other countries](https://appleinsider.com/articles/22/12/15/apple-maps-redesign-expands-to-belgium-and-four-other-countries?utm_medium=rss)<!-- TECH:END -->
+ - [Ugreen releases pair of new GaN chargers for your Apple gear](https://appleinsider.com/articles/22/12/15/ugreen-releases-pair-of-new-gan-chargers-for-your-apple-gear?utm_medium=rss)
+ - [You can save $250 on the HP Spectre x360](https://www.theverge.com/2022/12/15/23510016/google-pixel-watch-hp-spectre-laptop-jabra-earbuds-deal-sale)
+ - [The 26 best movies on Netflix: action, comedies, horror, and more](https://www.androidauthority.com/best-netflix-movies-3249582/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
