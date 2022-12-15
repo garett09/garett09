@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mine too!](http://9gag.com/gag/a5XMeLE)
- - 🚯 [Good luck dealing with them, Europe](http://9gag.com/gag/ap9mopb)
- - 🚯 [Show name Loudermilk...](http://9gag.com/gag/a2KZN7Z)<!-- MEMES:END -->
+ - 🚖 [One more reason to fear under/dark water](http://9gag.com/gag/awZA7pD)
+ - 🚯 [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
+ - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
 
 --- 
 
