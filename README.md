@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - 🚯 [His face though](http://9gag.com/gag/aEq2dPn)
- - 🚯 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)<!-- MEMES:END -->
+ - 🚖 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
+ - 🚯 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
+ - 🚯 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)<!-- MEMES:END -->
 
 --- 
 
