@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to rip CDs &amp; use your own audio files in Music on macOS Ventura](https://appleinsider.com/inside/apple-music/tips/how-to-rip-cds-use-your-own-audio-files-in-music-on-macos-ventura?utm_medium=rss)
- - [Holiday Gift Guide: Best luxury gifts for iPhone &amp; iPad users](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-luxury-gifts-for-iphone-ipad-users?utm_medium=rss)
- - [Google’s making code formatting a breeze in Docs](https://www.theverge.com/2022/12/14/23509936/google-docs-code-blocks-smart-canvas)<!-- TECH:END -->
+ - [Resident Evil Village’s VR mode will launch alongside Sony’s PSVR2 as a free update](https://www.theverge.com/2022/12/14/23510113/resident-evil-village-vr-mode-playstation-vr2-psvr2-free-update)
+ - [Twitter banned the @ElonJet account tracking Musk’s flights, reinstated it, then banned it again](https://www.theverge.com/2022/12/14/23509817/twitter-elonjets-ban-creator-jack-sweeney-links-trackers)
+ - [The Verge’s 2022 home tech holiday gift guide](https://www.theverge.com/23386171/smart-home-tech-holiday-gift-guide-2022-kitchen-gadgets-lights-smart-speakers-vacuums)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
