@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
- - 🚯 [Guys would you do it?](http://9gag.com/gag/anz9NXq)
- - 🚯 [Sneaky mancave](http://9gag.com/gag/awZAxn8)<!-- MEMES:END -->
+ - 🚖 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
+ - 🚯 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
+ - 🚯 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)<!-- MEMES:END -->
 
 --- 
 
