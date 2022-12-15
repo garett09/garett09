@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show name Loudermilk...](http://9gag.com/gag/a2KZN7Z)
- - 🚯 [Probably the best `Wear a seat belt` ad ever](http://9gag.com/gag/aZDLW40)
- - 🚯 [Good luck dealing with them, Europe](http://9gag.com/gag/ap9mopb)<!-- MEMES:END -->
+ - 🚖 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
+ - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)
+ - 🚯 [Did not see that coming](http://9gag.com/gag/amAB0mX)<!-- MEMES:END -->
 
 --- 
 
