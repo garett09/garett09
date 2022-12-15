@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hitman players about to be abandoned by Stadia will be able to transfer their progress](https://www.theverge.com/2022/12/15/23511313/hitman-stadia-progression-carryover-platforms-shutdown)
- - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
- - [A plasma physicist explains what’s next after this week’s nuclear fusion breakthrough](https://www.theverge.com/2022/12/15/23510819/nuclear-fusion-ignition-breakthrough-physicist-tammy-ma)<!-- TECH:END -->
+ - [About 200 companies in China and Hong Kong, including Alibaba and JD.com, no longer face the threat of a US delisting after US inspectors reviewed their audits &lpar;Bloomberg&rpar;](http://www.techmeme.com/221215/p38#a221215p38)
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23393104/gift-guide-under-50-best-cheap-tech-holiday-ideas-2022-budget)
+ - [How to use SSH for secure connections in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-ssh-for-secure-connections-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
