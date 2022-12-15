@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
- - 🚯 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
- - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)<!-- MEMES:END -->
+ - 🚖 [To board a plane with a gun on her](http://9gag.com/gag/aKEx3Dj)
+ - 🚯 [Who?](http://9gag.com/gag/aKEx316)
+ - 🚯 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)<!-- MEMES:END -->
 
 --- 
 
