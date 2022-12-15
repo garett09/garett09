@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One more reason to fear under/dark water](http://9gag.com/gag/awZA7pD)
- - 🚯 [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
- - 🚯 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
+ - 🚖 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
+ - 🚯 [Guys would you do it?](http://9gag.com/gag/anz9NXq)
+ - 🚯 [Sneaky mancave](http://9gag.com/gag/awZAxn8)<!-- MEMES:END -->
 
 --- 
 
