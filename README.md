@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Snyderverse is done, but Ben Affleck may still return in the director’s chair](https://www.polygon.com/23511212/james-gunn-ben-affleck-dc-return-to-direct)
- - [Spider-Man 2 Comes To PS5 In 2023, Insomniac Confirms](https://kotaku.com/spider-man-2-game-release-date-2023-ps5-insomniac-1849899487)
- - [Kojima Productions is making a Death Stranding movie](https://www.pcgamer.com/death-stranding-movie-announced)<!-- GAME:END -->
+ - [The new Tomb Raider game will be published by Amazon](https://www.pcgamer.com/the-new-tomb-raider-game-will-be-published-by-amazon)
+ - [How the Players Shaped Clover Bite Studio’s Grime DLC: Colors of Rot](https://news.xbox.com/en-us/2022/12/15/how-the-players-shaped-clover-bite-studios-grime-dlc-colors-of-rot/)
+ - [Former Warcraft creative director Chris Metzen is returning to Blizzard](https://www.pcgamer.com/former-warcraft-creative-director-chris-metzen-is-returning-to-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
