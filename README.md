@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar 2 doesn’t have a post-credits scene, an extended cut, or guaranteed sequels](https://www.polygon.com/23502389/avatar-2-way-water-post-credits-scene)
- - [Xbox Podcast: Justin Roiland Says High on Life Players Will Be Discovering New Details ‘For Months’](https://news.xbox.com/en-us/2022/12/15/xbox-podcast-high-on-life/)
- - [Dwarf Fortress defense guide: How to set traps and prepare your dwarves for battle](https://www.pcgamer.com/dwarf-fortress-drawbridge-military-combat-defense-guide)<!-- GAME:END -->
+ - [The Best Video Game Surprises Of 2022](https://kotaku.com/best-video-game-news-announcements-surprises-2022-1849899925)
+ - [I Played The 2022 Bratz Game, And It&#39;s As Bad As You Think](https://kotaku.com/bratz-dress-up-video-game-y2k-fashion-nostalgia-ps5-pc-1849900398)
+ - [Fire Emblem Engage’s Somniel looks like an even more fun version of Garreg Mach](https://www.polygon.com/pokemon/23511145/fire-emblem-engages-sonmiel-garreg-mach)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
