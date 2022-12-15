@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can Finally Pet Your Horse In The Witcher 3](https://kotaku.com/witcher-3-roach-pet-horse-next-gen-update-cdpr-pals-1849895785)
- - [Starfield cities: What we know about the major locations](https://www.pcgamer.com/starfield-cities-locations)
- - [Finally, an RPG let me make the weird D&amp;D party of my dreams](https://www.pcgamer.com/finally-an-rpg-let-me-make-the-weird-dandd-party-of-my-dreams)<!-- GAME:END -->
+ - [ArtStation Responds To AI Controversy, Makes Things Worse](https://kotaku.com/artstation-ai-art-generated-image-protest-controversy-1849895978)
+ - [All the Starfield factions and groups we know about so far](https://www.pcgamer.com/starfield-factions)
+ - [You Can Finally Pet Your Horse In The Witcher 3](https://kotaku.com/witcher-3-roach-pet-horse-next-gen-update-cdpr-pals-1849895785)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
