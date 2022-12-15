@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To board a plane with a gun on her](http://9gag.com/gag/aKEx3Dj)
- - 🚯 [Who?](http://9gag.com/gag/aKEx316)
- - 🚯 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)<!-- MEMES:END -->
+ - 🚖 [Who?](http://9gag.com/gag/aKEx316)
+ - 🚯 [Oh oh...](http://9gag.com/gag/a2KZdr1)
+ - 🚯 [Story behind the vin diesel meme: In 2016 one brazilian tv show called two Vin Diesel double&#39;s and said to them that they will meet the real Vin Diesel on stage, but it was all a plot to troll them as they just met each other.](http://9gag.com/gag/aBd0wvQ)<!-- MEMES:END -->
 
 --- 
 
