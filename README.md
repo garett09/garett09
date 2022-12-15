@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dang, i cant keep up with the graphics scaling .](http://9gag.com/gag/avQ8nOq)
- - 🚯 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)
- - 🚯 [Passenger trains in US vs Europe](http://9gag.com/gag/aeQr6Eb)<!-- MEMES:END -->
+ - 🚖 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
+ - 🚯 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
+ - 🚯 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)<!-- MEMES:END -->
 
 --- 
 
