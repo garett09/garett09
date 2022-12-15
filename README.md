@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The censorship wars have only just begun](https://www.polygon.com/23509686/censorship-banned-books-porn-internet-tiktok)
- - [Seasons greetings 2022 PlayStation.Blog and friends](https://blog.playstation.com/2022/12/15/seasons-greetings-2022-playstation-blog-and-friends/)
- - [Where is horror going? We asked Barbarian director Zach Cregger](https://www.polygon.com/23509279/future-horror-movies-barbarian-zach-cregger)<!-- GAME:END -->
+ - [Corsair Xeneon Flex OLED](https://www.pcgamer.com/corsair-xeneon-flex-oled)
+ - [PlayStation in 2023: Highlights](https://blog.playstation.com/2022/12/15/playstation-in-2023-highlights/)
+ - [Vampire Survivors’ First DLC Casts a Moonspell Today](https://news.xbox.com/en-us/2022/12/15/vampire-survivors-first-dlc-casts-a-moonspell-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
