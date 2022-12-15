@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [China clamps down on deepfakes with new regulations](https://www.pcgamer.com/china-clamps-down-on-deepfakes-with-new-regulations)
- - [The Worst Games Of 2022 According To Metacritic](https://kotaku.com/metacritic-worst-games-ps5-xbox-series-x-s-switch-2022-1849894126)
- - [Dell wants to change how we repair and recycle laptops in the future](https://www.pcgamer.com/dell-wants-to-change-how-we-repair-and-recycle-laptops)<!-- GAME:END -->
+ - [The censorship wars have only just begun](https://www.polygon.com/23509686/censorship-banned-books-porn-internet-tiktok)
+ - [Seasons greetings 2022 PlayStation.Blog and friends](https://blog.playstation.com/2022/12/15/seasons-greetings-2022-playstation-blog-and-friends/)
+ - [Where is horror going? We asked Barbarian director Zach Cregger](https://www.polygon.com/23509279/future-horror-movies-barbarian-zach-cregger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
