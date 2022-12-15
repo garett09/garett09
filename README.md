@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Elon Musk sells 22M Tesla shares, worth ~$3.6B, the fourth sale since announcing his Twitter takeover and third since declaring &quot;no further TSLA sales&quot; &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221215/p8#a221215p8)
- - [Ex-Twitter employee receives over three years in prison for spying for Saudi Arabia](https://www.theverge.com/2022/12/15/23510619/twitter-employee-saudi-arabia-spying-sentenced-three-half-years-prison)
- - [Foxconn begins easing most restrictions at its Zhengzhou plant, including those on workers&#39; daily movements, as China rolls back its COVID-19 rules &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221215/p7#a221215p7)<!-- TECH:END -->
+ - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
+ - [Analysis of weekly realized gains and losses of all personal crypto wallets in 2022: UST&#39;s collapse caused $20.5B in losses, Celsius and 3AC $33B, and FTX $9B &lpar;Chainalysis&rpar;](http://www.techmeme.com/221215/p13#a221215p13)
+ - [Google enables Matter on Google, Nest, and Android products you already own](https://www.androidauthority.com/google-nest-matter-3251197/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
