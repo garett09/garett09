@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
- - 🚯 [Boiled feet](http://9gag.com/gag/awZAx1B)
- - 🚯 [\u201cDude that is definitely from Korea\u201d starter pack](http://9gag.com/gag/aoKe9nn)<!-- MEMES:END -->
+ - 🚖 [They did it, they actually did it!](http://9gag.com/gag/a2KZqbw)
+ - 🚯 [Did not see that coming](http://9gag.com/gag/amAB0mX)
+ - 🚯 [Still better than how my mom used to wake me up](http://9gag.com/gag/aGEZxVZ)<!-- MEMES:END -->
 
 --- 
 
