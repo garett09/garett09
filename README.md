@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who?](http://9gag.com/gag/aKEx316)
- - 🚯 [Oh oh...](http://9gag.com/gag/a2KZdr1)
- - 🚯 [Story behind the vin diesel meme: In 2016 one brazilian tv show called two Vin Diesel double&#39;s and said to them that they will meet the real Vin Diesel on stage, but it was all a plot to troll them as they just met each other.](http://9gag.com/gag/aBd0wvQ)<!-- MEMES:END -->
+ - 🚖 [One more reason to fear under/dark water](http://9gag.com/gag/awZA7pD)
+ - 🚯 [Passenger trains in US vs Europe](http://9gag.com/gag/aeQr6Eb)
+ - 🚯 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
 
 --- 
 
