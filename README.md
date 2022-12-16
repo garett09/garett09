@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world](http://9gag.com/gag/aRE13Yq)
- - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)
- - 🚯 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
+ - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
+ - 🚯 [Old but gold.](http://9gag.com/gag/armGg9B)
+ - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)<!-- MEMES:END -->
 
 --- 
 
