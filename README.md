@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My Hero Academia is in Fortnite now, time to snipe Naruto](https://www.polygon.com/23511312/my-hero-academia-fortnite-skins-deku-all-might)
- - [Babylon is absolute fire — and everyone in it is burning](https://www.polygon.com/reviews/23511104/babylon-movie-review-damien-chazelle)
- - [Chinese players are being prepared for the end of World of Warcraft](https://www.pcgamer.com/chinese-players-are-being-prepared-for-the-end-of-world-of-warcraft)<!-- GAME:END -->
+ - [How to tell all those Na’vi kid characters apart in Avatar 2](https://www.polygon.com/23508975/avatar-2-way-water-navi-kids-actors-cast-guide)
+ - [The &#39;world&#39;s smallest city builder&#39; just launched on Steam](https://www.pcgamer.com/the-worlds-smallest-city-builder-just-launched-on-steam)
+ - [Help Shape History with Ara: History Untold’s Technical Alpha 2](https://news.xbox.com/en-us/2022/12/16/help-shape-history-with-ara-history-untolds-technical-alpha-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
