@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)
- - 🚯 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
- - 🚯 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
+ - 🚖 [Completely smashed](http://9gag.com/gag/aDY1WxB)
+ - 🚯 [Henry Cavill will officially star in and exec produce a live-action \u2018Warhammer 40K\u2019 series Amazon is in final talks to acquire the series](http://9gag.com/gag/aRE1j0A)
+ - 🚯 [Office Master Race](http://9gag.com/gag/aoKeOnn)<!-- MEMES:END -->
 
 --- 
 
