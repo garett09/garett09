@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook visits Apple Watch Ultra band maker &amp; Paralympians on the way out of Japan](https://appleinsider.com/articles/22/12/16/tim-cook-visits-apple-watch-ultra-band-maker-paralympians-on-the-way-out-of-japan?utm_medium=rss)
- - [Foxconn&#39;s Xingwei agrees to sell its entire stake in embattled Chinese chip conglomerate Tsinghua Unigroup for ~$771.79M &lpar;Meg Shen/Reuters&rpar;](http://www.techmeme.com/221216/p14#a221216p14)
- - [13 predictions for tech platforms in 2023](https://www.theverge.com/2022/12/16/23512588/tech-platform-predictions-2023-facebook-twitter-moderation)<!-- TECH:END -->
+ - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
+ - [Apple accused of creating illegal pseudo-union at Ohio store](https://appleinsider.com/articles/22/12/16/apple-accused-of-creating-illegal-pseudo-union-at-ohio-store?utm_medium=rss)
+ - [Sabrent dual NVMe SSD docking station review: Lots of storage, sufficient speed](https://appleinsider.com/articles/22/12/16/sabrent-dual-nvme-ssd-docking-station-review-lots-of-storage-sufficient-speed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
