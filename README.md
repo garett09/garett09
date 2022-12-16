@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)
- - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)
- - 🚯 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)<!-- MEMES:END -->
+ - 🚯 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
+ - 🚯 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
 
 --- 
 
