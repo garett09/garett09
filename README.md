@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Advent agrees to buy Maxar, which operates a constellation of satellites that collects images used by Google Maps and others, for $6.4B, including debt &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/221216/p9#a221216p9)
- - [Waymo’s driverless robotaxis are now doing airport trips in Phoenix](https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless)
- - [Storytelling Will Save the Earth](https://www.wired.com/story/environment-climate-change-storytelling/)<!-- TECH:END -->
+ - [The best deals under $25 that make great gifts](https://www.theverge.com/23500290/best-deals-under-25-gift-ideas-deal-sale)
+ - [Here’s How Robert Jordan Built The Wheel of Time](https://www.wired.com/2022/12/geeks-guide-robert-jordan/)
+ - [Amazon drops 11-inch iPad Pro M2 to $719, arrives by Christmas](https://appleinsider.com/articles/22/12/16/amazon-drops-11-inch-ipad-pro-m2-to-719-arrives-by-christmas?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
