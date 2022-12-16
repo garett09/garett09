@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daphne, indefatigable huntress of men](http://9gag.com/gag/az29qQx)
- - 🚯 [When Spanish triathlete Diego M\u00e9ntriga noticed that British triathlete J. Teagle went the wrong way before finish line, M\u00e9ntriga waited for him so he could take his deserved 3rd place. \u201cHe was in front of me the whole time. He deserved it.\u201d \u2014M\u00e9ntriga](http://9gag.com/gag/aA03DoR)
- - 🚯 [I would just go home](http://9gag.com/gag/a6qOorR)<!-- MEMES:END -->
+ - 🚖 [Finally an affordable size](http://9gag.com/gag/aRE1A97)
+ - 🚯 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - 🚯 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
 
 --- 
 
