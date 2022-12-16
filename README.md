@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)
- - 🚯 [Flushing a hole with high pressure water in order to prevent damage to pipes](http://9gag.com/gag/aqeKKKQ)
- - 🚯 [She&#39;s a keeper](http://9gag.com/gag/aDY1xB7)<!-- MEMES:END -->
+ - 🚖 [Even though the world sux right now, Be Thankful](http://9gag.com/gag/a4oQ76v)
+ - 🚯 [Censorship... sure bud](http://9gag.com/gag/aA03xWd)
+ - 🚯 [Amazing!](http://9gag.com/gag/ay2BDGp)<!-- MEMES:END -->
 
 --- 
 
