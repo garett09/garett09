@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ohh, the irony](http://9gag.com/gag/axozVwn)
- - 🚯 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
- - 🚯 [That was fast](http://9gag.com/gag/aVbYMVw)<!-- MEMES:END -->
+ - 🚖 [Daphne, indefatigable huntress of men](http://9gag.com/gag/az29qQx)
+ - 🚯 [When Spanish triathlete Diego M\u00e9ntriga noticed that British triathlete J. Teagle went the wrong way before finish line, M\u00e9ntriga waited for him so he could take his deserved 3rd place. \u201cHe was in front of me the whole time. He deserved it.\u201d \u2014M\u00e9ntriga](http://9gag.com/gag/aA03DoR)
+ - 🚯 [I would just go home](http://9gag.com/gag/a6qOorR)<!-- MEMES:END -->
 
 --- 
 
