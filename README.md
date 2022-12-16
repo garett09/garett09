@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to tell all those Na’vi kid characters apart in Avatar 2](https://www.polygon.com/23508975/avatar-2-way-water-navi-kids-actors-cast-guide)
- - [The &#39;world&#39;s smallest city builder&#39; just launched on Steam](https://www.pcgamer.com/the-worlds-smallest-city-builder-just-launched-on-steam)
- - [Help Shape History with Ara: History Untold’s Technical Alpha 2](https://news.xbox.com/en-us/2022/12/16/help-shape-history-with-ara-history-untolds-technical-alpha-2/)<!-- GAME:END -->
+ - [Free Play Days – Dragon Ball The Breakers, WWE 2K22, and Assassin’s Creed: Valhalla](https://news.xbox.com/en-us/2022/12/16/free-play-days-dragon-ball-the-breakers-wwe-2k22-and-assassins-creed-valhalla/)
+ - [The next decade of Critical Role is about paying it forward](https://www.polygon.com/23508164/the-future-of-critical-role)
+ - [Jilted Witcher And Superman Actor Henry Cavill Is Doing A Warhammer 40K Series](https://kotaku.com/henry-cavill-warhammer-40k-witcher-superman-amazon-1849903568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
