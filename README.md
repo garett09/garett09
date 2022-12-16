@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepsi?](http://9gag.com/gag/aL1gDXg)
- - 🚯 [I\u2019m never going in the ocean again](http://9gag.com/gag/aPgYB9B)
- - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
+ - 🚖 [Post your favorites in the comments](http://9gag.com/gag/a6qOM6q)
+ - 🚯 [Now that Cavill is out of the Witcher and Superman, can we make this one happen?](http://9gag.com/gag/aMEZwZG)
+ - 🚯 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)<!-- MEMES:END -->
 
 --- 
 
