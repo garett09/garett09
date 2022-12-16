@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance says Mazars, the auditing firm that worked on proof-of-reserves reports for Binance, Crypto.com, and others, has paused work for all crypto clients &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/221216/p4#a221216p4)
- - [Daily Authority: 💻 Time to reevaluate Chrome OS](https://www.androidauthority.com/daily-authority-december-16-2022-3255050/)
- - [Welcome to Digital Nomadland](https://www.wired.com/story/digital-nomad-village-madeira-portugal/)<!-- TECH:END -->
+ - [Big Tech Laid Off Thousands. Here’s Who Wants Them Next](https://www.wired.com/story/big-tech-layoffs-hiring/)
+ - [The Spawn of ChatGPT Will Try to Sell You Things](https://www.wired.com/story/the-spawn-of-chatgpt-will-try-to-sell-you-things/)
+ - [Fortnite just kicked off its latest anime collab with My Hero Academia](https://www.theverge.com/2022/12/16/23511424/fortnite-my-hero-academia-crossover)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
