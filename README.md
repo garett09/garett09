@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to connect your Fitbit and Noom accounts](https://www.androidauthority.com/connect-fitbit-noom-3182065/)
- - [Steam’s annual winter sale kicks off next week](https://www.theverge.com/2022/12/16/23512383/steam-winter-sale-2022)
- - [Elon Musk briefly showed up to a Twitter Space hosted by a BuzzFeed News reporter discussing the latest bans, but left after reporters asked him questions &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/221216/p3#a221216p3)<!-- TECH:END -->
+ - [Binance says Mazars, the auditing firm that worked on proof-of-reserves reports for Binance, Crypto.com, and others, has paused work for all crypto clients &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/221216/p4#a221216p4)
+ - [Daily Authority: 💻 Time to reevaluate Chrome OS](https://www.androidauthority.com/daily-authority-december-16-2022-3255050/)
+ - [Welcome to Digital Nomadland](https://www.wired.com/story/digital-nomad-village-madeira-portugal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
