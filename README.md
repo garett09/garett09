@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk temporarily suspends Twitter Spaces after being confronted by banned journalist](https://www.theverge.com/2022/12/16/23512930/elon-musk-twitter-spaces-washington-post-new-york-times-banned)
- - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
- - [The Verge’s 2022 holiday gift guide for creators](https://www.theverge.com/23385623/holiday-gift-ideas-2022-content-creator-artist-creative-tech-gear-camera-laptop)<!-- TECH:END -->
+ - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
+ - [LG’s UltraGear OLED gaming monitors look as good in person as I hoped](https://www.theverge.com/2022/12/15/23509735/lg-ultragear-oled-gaming-monitor-27-45-inch-display-first-look)
+ - [A Q&amp;A with OpenAI CEO Sam Altman about the lessons he learned from DALL-E 2&#39;s success, what DALL-E means for society, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221216/p12#a221216p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
