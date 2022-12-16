@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting thought, i didn&#39;t know.](http://9gag.com/gag/aQERey2)
- - 🚯 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
- - 🚯 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)<!-- MEMES:END -->
+ - 🚖 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)
+ - 🚯 [Interesting thought, i didn&#39;t know.](http://9gag.com/gag/aQERey2)
+ - 🚯 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)<!-- MEMES:END -->
 
 --- 
 
