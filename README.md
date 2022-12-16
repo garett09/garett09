@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who?](http://9gag.com/gag/aKEx316)
- - 🚯 [When you skip the tutorial on flight simulator](http://9gag.com/gag/aNwYdxK)
- - 🚯 [To not bark at the delivery man](http://9gag.com/gag/aoKe1Z3)<!-- MEMES:END -->
+ - 🚖 [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
+ - 🚯 [And your next line is `sauce`](http://9gag.com/gag/aeQrbbB)
+ - 🚯 [Removing people from a marriage proposal photo](http://9gag.com/gag/a8q3pve)<!-- MEMES:END -->
 
 --- 
 
