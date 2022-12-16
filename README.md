@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
- - 🚯 [Completely smashed](http://9gag.com/gag/aDY1WxB)
- - 🚯 [Pepsi?](http://9gag.com/gag/aL1gDXg)<!-- MEMES:END -->
+ - 🚯 [Amen to that](http://9gag.com/gag/a4oQbO6)
+ - 🚯 [This ain&#39;t 1872](http://9gag.com/gag/az298WZ)<!-- MEMES:END -->
 
 --- 
 
