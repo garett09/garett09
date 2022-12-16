@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoPro Hero 11 Mini Review: Smaller, Lighter, But Harder to Use](https://www.wired.com/review/gopro-hero-11-mini/)
- - [Sources: TikTok&#39;s efforts to cut ties with Beijing-based ByteDance have stumbled over hiring and retaining talent, as some key staff remain based in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/221216/p6#a221216p6)
- - [Big Tech Laid Off Thousands. Here’s Who Wants Them Next](https://www.wired.com/story/big-tech-layoffs-hiring/)<!-- TECH:END -->
+ - [The best tech gifts to give this Christmas](https://www.androidauthority.com/best-christmas-tech-gifts-3250586/)
+ - [&#39;Avatar&#39; Aims to Beat the Odds—Again](https://www.wired.com/story/avatar-way-of-water-box-office/)
+ - [Instagram Is a Site of Protest for the Chinese Diaspora](https://www.wired.com/story/china-protests-a4-memes-instagram/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
