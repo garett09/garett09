@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Winter Events, Exciting Upcoming Titles, and Updates](https://news.xbox.com/en-us/2022/12/16/this-week-on-xbox-winter-events-exciting-upcoming-titles-and-updates/)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [Alyssa Mercante’s Top 10 Games Of 2022](https://kotaku.com/best-games-2022-cult-of-the-lamb-marvel-snap-1849905598)<!-- GAME:END -->
+ - [Finally, the prog metal album that PC gaming deserves](https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves)
+ - [Potion Craft is Now Available on Xbox!](https://news.xbox.com/en-us/2022/12/16/potion-craft-is-now-available-on-xbox/)
+ - [New $100 Diablo IV ‘Collector’s Box’ Doesn’t Include Game](https://kotaku.com/diablo-iv-4-blizzard-collectors-box-contents-price-1849905649)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
