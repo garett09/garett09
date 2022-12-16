@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
- - 🚯 [Post your favorites in the comments](http://9gag.com/gag/a6qOM6q)
- - 🚯 [Completely smashed](http://9gag.com/gag/aDY1WxB)<!-- MEMES:END -->
+ - 🚖 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - 🚯 [Completely smashed](http://9gag.com/gag/aDY1WxB)
+ - 🚯 [Pepsi?](http://9gag.com/gag/aL1gDXg)<!-- MEMES:END -->
 
 --- 
 
