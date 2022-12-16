@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve hints at revised Steam Deck with better battery life and screen](https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen)
- - [Henry Cavill moves on to a Warhammer 40K series with Amazon](https://www.polygon.com/23512390/henry-cavill-warhammer-40k-amazon-witcher-superman)
- - [New World is running a free weekend to highlight its new edition and discount](https://www.pcgamer.com/new-world-is-running-a-free-weekend-to-highlight-its-new-edition-and-discount)<!-- GAME:END -->
+ - [My Hero Academia is in Fortnite now, time to snipe Naruto](https://www.polygon.com/23511312/my-hero-academia-fortnite-skins-deku-all-might)
+ - [Babylon is absolute fire — and everyone in it is burning](https://www.polygon.com/reviews/23511104/babylon-movie-review-damien-chazelle)
+ - [Chinese players are being prepared for the end of World of Warcraft](https://www.pcgamer.com/chinese-players-are-being-prepared-for-the-end-of-world-of-warcraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
