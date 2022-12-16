@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019m never going in the ocean again](http://9gag.com/gag/aPgYB9B)
- - 🚯 [Completely smashed](http://9gag.com/gag/aDY1WxB)
- - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
+ - 🚖 [Oh oh...](http://9gag.com/gag/a2KZdr1)
+ - 🚯 [There goes her future](http://9gag.com/gag/aWGY6pd)
+ - 🚯 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)<!-- MEMES:END -->
 
 --- 
 
