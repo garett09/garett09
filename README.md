@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech industry groups that include Meta and Google ask SCOTUS to overturn the Texas social media content moderation law, arguing it violates the First Amendment &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/221215/p40#a221215p40)
- - [Save $50 on the Apple Watch Ultra for holiday gift-giving](https://appleinsider.com/articles/22/12/15/save-50-on-the-apple-watch-ultra-for-holiday-gift-giving?utm_medium=rss)
- - [Google’s stranglehold on the mapping space could be challenged by new initiative from Meta, Microsoft, Amazon, and others](https://www.theverge.com/2022/12/15/23511455/oogle-maps-meta-microsoft-amazon-tomtom)<!-- TECH:END -->
+ - [Twitter suspends Mastodon after it tweeted about Elon’s jet](https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet)
+ - [Google is beta testing digital state ID cards in its Android Wallet app](https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland)
+ - [[Thread] Meta is shutting down Super, a Cameo-like app that let people pay creators or celebrities to interact with them in a live stream, on February 15, 2023 &lpar;Josh Constine/@joshconstine&rpar;](http://www.techmeme.com/221215/p41#a221215p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
