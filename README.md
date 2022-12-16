@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter suspends Mastodon after it tweeted about Elon’s jet](https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet)
- - [Google is beta testing digital state ID cards in its Android Wallet app](https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland)
- - [[Thread] Meta is shutting down Super, a Cameo-like app that let people pay creators or celebrities to interact with them in a live stream, on February 15, 2023 &lpar;Josh Constine/@joshconstine&rpar;](http://www.techmeme.com/221215/p41#a221215p41)<!-- TECH:END -->
+ - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
+ - [[Thread] Twitter suspends accounts of journalists who cover Elon Musk, including WaPo&#39;s Drew Harwell, NYT&#39;s Ryan Mac, CNN&#39;s Donie O&#39;Sullivan, and Aaron Rupar &lpar;Ben Collins/@oneunderscore__&rpar;](http://www.techmeme.com/221215/p42#a221215p42)
+ - [Twitter suspends Mastodon after it tweeted about Elon’s jet](https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
