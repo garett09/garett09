@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
- - [[Thread] Twitter suspends accounts of journalists who cover Elon Musk, including WaPo&#39;s Drew Harwell, NYT&#39;s Ryan Mac, CNN&#39;s Donie O&#39;Sullivan, and Aaron Rupar &lpar;Ben Collins/@oneunderscore__&rpar;](http://www.techmeme.com/221215/p42#a221215p42)
- - [Twitter suspends Mastodon after it tweeted about Elon’s jet](https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet)<!-- TECH:END -->
+ - [Twitter suspends the account of its rival Mastodon, and many links to some Mastodon servers no longer work on Twitter, which flags them as &quot;potentially harmful&quot; &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221215/p45#a221215p45)
+ - [Twitter is blocking links to Mastodon](https://www.theverge.com/2022/12/15/23512113/twitter-blocking-mastodon-links-elon-musk-elonjet)
+ - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
