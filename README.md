@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals under $25 that make great gifts](https://www.theverge.com/23500290/best-deals-under-25-gift-ideas-deal-sale)
- - [Here’s How Robert Jordan Built The Wheel of Time](https://www.wired.com/2022/12/geeks-guide-robert-jordan/)
- - [Amazon drops 11-inch iPad Pro M2 to $719, arrives by Christmas](https://appleinsider.com/articles/22/12/16/amazon-drops-11-inch-ipad-pro-m2-to-719-arrives-by-christmas?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk temporarily suspends Twitter Spaces after being confronted by banned journalist](https://www.theverge.com/2022/12/16/23512930/elon-musk-twitter-spaces-washington-post-new-york-times-banned)
+ - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
+ - [The Verge’s 2022 holiday gift guide for creators](https://www.theverge.com/23385623/holiday-gift-ideas-2022-content-creator-artist-creative-tech-gear-camera-laptop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
