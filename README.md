@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
- - [LG’s UltraGear OLED gaming monitors look as good in person as I hoped](https://www.theverge.com/2022/12/15/23509735/lg-ultragear-oled-gaming-monitor-27-45-inch-display-first-look)
- - [A Q&amp;A with OpenAI CEO Sam Altman about the lessons he learned from DALL-E 2&#39;s success, what DALL-E means for society, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221216/p12#a221216p12)<!-- TECH:END -->
+ - [Tim Cook visits Apple Watch Ultra band maker &amp; Paralympians on the way out of Japan](https://appleinsider.com/articles/22/12/16/tim-cook-visits-apple-watch-ultra-band-maker-paralympians-on-the-way-out-of-japan?utm_medium=rss)
+ - [Foxconn&#39;s Xingwei agrees to sell its entire stake in embattled Chinese chip conglomerate Tsinghua Unigroup for ~$771.79M &lpar;Meg Shen/Reuters&rpar;](http://www.techmeme.com/221216/p14#a221216p14)
+ - [13 predictions for tech platforms in 2023](https://www.theverge.com/2022/12/16/23512588/tech-platform-predictions-2023-facebook-twitter-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
