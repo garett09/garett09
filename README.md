@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US lawmakers question top game publishers on online extremism and hate](https://www.polygon.com/23512744/congress-letter-video-game-extremism-ea-microsoft-sony-activision)
- - [Share of the Week: God of War Ragnarök – Photo Mode](https://blog.playstation.com/2022/12/16/share-of-the-week-god-of-war-ragnarok-photo-mode/)
- - [Spread Cheer Throughout Tamriel During The Elder Scrolls Online’s New Life Festival](https://news.xbox.com/en-us/2022/12/16/spread-cheer-throughout-tamriel-and-get-rewards-during-the-elder-scrolls-onlines-new-life-festival/)<!-- GAME:END -->
+ - [Getting an Xbox Series X|S for the Holidays? Here’s What to Do First](https://news.xbox.com/en-us/2022/12/16/getting-an-xbox-for-holidays-what-to-do-first/)
+ - [Square Enix was the surprise Steam Deck champion of the year](https://www.pcgamer.com/square-enix-was-the-surprise-steam-deck-champion-of-the-year)
+ - [The Witcher 3’s Geralt is still the best dad in video games](https://www.polygon.com/23511405/witcher-3-next-gen-upgrade-ps5-xbox-series-x-pc-wild-hunt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
