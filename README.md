@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
- - 🚯 [South Sudan president wets himself during opening a new road project](http://9gag.com/gag/aoKeOo3)
- - 🚯 [Disney budget: best i can do is two bucks](http://9gag.com/gag/adPL9rM)<!-- MEMES:END -->
+ - 🚖 [Ohh, the irony](http://9gag.com/gag/axozVwn)
+ - 🚯 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
+ - 🚯 [That was fast](http://9gag.com/gag/aVbYMVw)<!-- MEMES:END -->
 
 --- 
 
