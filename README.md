@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh oh...](http://9gag.com/gag/a2KZdr1)
- - 🚯 [There goes her future](http://9gag.com/gag/aWGY6pd)
- - 🚯 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)<!-- MEMES:END -->
+ - 🚖 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
+ - 🚯 [Post your favorites in the comments](http://9gag.com/gag/a6qOM6q)
+ - 🚯 [Completely smashed](http://9gag.com/gag/aDY1WxB)<!-- MEMES:END -->
 
 --- 
 
