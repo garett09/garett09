@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of Rock Rhythm-Fighting Game Reveals Release Date and Unparalleled Gameplay](https://news.xbox.com/en-us/2022/12/16/god-of-rock-rhythm-fighting-game-reveals-release-date-and-unparalleled-gameplay/)
- - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
- - [Take a deep dive into underwater city builder Aquatico](https://www.pcgamer.com/take-a-deep-dive-into-underwater-city-builder-aquatico)<!-- GAME:END -->
+ - [Mythic Quest’s Charlotte Nicdao On How Gaming Is Like Acting](https://kotaku.com/charlotte-nicdao-mythic-quest-apple-tv-grand-theft-auto-1849905103)
+ - [For a limited time, Hunt: Showdown&#39;s map is literally on fire](https://www.pcgamer.com/for-a-limited-time-hunt-showdowns-map-is-literally-on-fire)
+ - [Ubisoft Winter Sale Has Big Savings On Games Like Mario + Rabbids Sparks Of Hope](https://kotaku.com/ubisoft-winter-sale-best-deals-switch-pc-xbox-far-cry-1849905089)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
