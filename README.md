@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
- - 🚯 [And your next line is `sauce`](http://9gag.com/gag/aeQrbbB)
- - 🚯 [Removing people from a marriage proposal photo](http://9gag.com/gag/a8q3pve)<!-- MEMES:END -->
+ - 🚖 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - 🚯 [I\u2019m never going in the ocean again](http://9gag.com/gag/aPgYB9B)
+ - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 --- 
 
