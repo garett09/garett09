@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
- - 🚯 [Old but gold.](http://9gag.com/gag/armGg9B)
- - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)<!-- MEMES:END -->
+ - 🚖 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)
+ - 🚯 [Flushing a hole with high pressure water in order to prevent damage to pipes](http://9gag.com/gag/aqeKKKQ)
+ - 🚯 [She&#39;s a keeper](http://9gag.com/gag/aDY1xB7)<!-- MEMES:END -->
 
 --- 
 
