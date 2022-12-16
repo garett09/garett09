@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally an affordable size](http://9gag.com/gag/aRE1A97)
- - 🚯 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
- - 🚯 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
+ - 🚖 [This stone effortlessly crumbling into smaller rocks](http://9gag.com/gag/amAB7Nd)
+ - 🚯 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 --- 
 
