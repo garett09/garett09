@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
- - 🚯 [Hoaxes in the movies](http://9gag.com/gag/avQ88eZ)
- - 🚯 [This will make you smile.](http://9gag.com/gag/awZAoV1)<!-- MEMES:END -->
+ - 🚖 [Clown world](http://9gag.com/gag/aRE13Yq)
+ - 🚯 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
+ - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 --- 
 
