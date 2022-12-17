@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just Cats. No politics. No war. Just Cats...](http://9gag.com/gag/aEq2PqO)
- - 🚯 [Henry Cavill in the last 24 hours](http://9gag.com/gag/aBd0gjz)
- - 🚯 [Feels kinda sad.](http://9gag.com/gag/aGEZdpX)<!-- MEMES:END -->
+ - 🚖 [Completely smashed](http://9gag.com/gag/aDY1WxB)
+ - 🚯 [When you&#39;re late for work but you&#39;re unemployed](http://9gag.com/gag/aZDLyVp)
+ - 🚯 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)<!-- MEMES:END -->
 
 --- 
 
