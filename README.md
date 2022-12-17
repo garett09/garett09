@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Henry Cavill in the last 24 hours](http://9gag.com/gag/aBd0gjz)
- - 🚯 [Guide to stir-frying](http://9gag.com/gag/aQERd9z)
- - 🚯 [England vs Italy intensifies](http://9gag.com/gag/aGEZdYZ)<!-- MEMES:END -->
+ - 🚖 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)
+ - 🚯 [This is now Netflix gets back to the top.](http://9gag.com/gag/aWGYxMx)
+ - 🚯 [Guide to stir-frying](http://9gag.com/gag/aQERd9z)<!-- MEMES:END -->
 
 --- 
 
