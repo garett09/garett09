@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, the prog metal album that PC gaming deserves](https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves)
- - [Potion Craft is Now Available on Xbox!](https://news.xbox.com/en-us/2022/12/16/potion-craft-is-now-available-on-xbox/)
- - [New $100 Diablo IV ‘Collector’s Box’ Doesn’t Include Game](https://kotaku.com/diablo-iv-4-blizzard-collectors-box-contents-price-1849905649)<!-- GAME:END -->
+ - [This tropical survival game is scratching my Wind Waker itch by adding sailing and mysterious ruins](https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins)
+ - [Bones and All, Black Adam, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/12/16/23503822/new-movies-watch-bones-all-timothee-chalamet-vod-black-adam-hbo-max-big-four-netflix)
+ - [Finally, the prog metal album that PC gaming deserves](https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
