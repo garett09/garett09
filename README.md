@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Doggo * head bang intensifies *](http://9gag.com/gag/aXnYgAz)
- - 🚯 [Exciting news!!](http://9gag.com/gag/aeQrMQm)
- - 🚯 [Just Cats. No politics. No war. Just Cats...](http://9gag.com/gag/aEq2PqO)<!-- MEMES:END -->
+ - 🚖 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
+ - 🚯 [Scientist Dolph Lundgren](http://9gag.com/gag/abvYGEX)
+ - 🚯 [Reason why it doesn\u2019t have first letter in the icon](http://9gag.com/gag/agonA4w)<!-- MEMES:END -->
 
 --- 
 
