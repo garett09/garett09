@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix this December](https://www.polygon.com/what-to-watch/2022/12/17/23507892/best-thriller-movies-netflix-watch-december)
- - [Today&#39;s Wordle 546 answer and hint for Saturday, December 17](https://www.pcgamer.com/wordle-546-answer-december-17)
- - [Avatar 2 doesn’t have an after-credits scene, an extended cut, or guaranteed sequels](https://www.polygon.com/23502389/avatar-2-way-water-post-credits-scene)<!-- GAME:END -->
+ - [High on Life is actually one of 2022’s best shooters](https://www.polygon.com/23512673/high-on-life-xbox-game-pass-best-first-person-shooters-2022)
+ - [The Secret To Training Powerful Pokémon In Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-what-are-ev-iv-training-1849905869)
+ - [Avatar: The Way of Water takes the secret-parentage mystery to the next level with Kiri](https://www.polygon.com/23512835/kiri-avatar-way-water-eywa-parents-sigourney-weaver-dad)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
