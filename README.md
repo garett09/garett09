@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [Tough decision](http://9gag.com/gag/aMEZZER)
+ - 🚖 [$140k Tesla quality](http://9gag.com/gag/a8q33M3)
+ - 🚯 [Loading a medieval 200lb crossbow vs loading Leonardo da Vinci&#39;s 300lb crossbow](http://9gag.com/gag/aL1gpbz)
  - 🚯 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)<!-- MEMES:END -->
 
 --- 
