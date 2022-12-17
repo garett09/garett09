@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even though the world sux right now, Be Thankful](http://9gag.com/gag/a4oQ76v)
- - 🚯 [Censorship... sure bud](http://9gag.com/gag/aA03xWd)
- - 🚯 [Amazing!](http://9gag.com/gag/ay2BDGp)<!-- MEMES:END -->
+ - 🚖 [Old but gold.](http://9gag.com/gag/armGg9B)
+ - 🚯 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)<!-- MEMES:END -->
 
 --- 
 
