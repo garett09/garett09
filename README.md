@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everyone has a shiny Pokémon now](https://www.polygon.com/pokemon/23513201/pokemon-scarlet-violet-shiny-hunting-easy-mark-hunting)
  - [Guillermo del Toro explains why he turned Pinocchio into one of his monsters](https://www.polygon.com/23511107/guillermo-del-toro-pinocchio-interview-netflix-monsters)
- - [High on Life is actually one of 2022’s best shooters](https://www.polygon.com/23512673/high-on-life-xbox-game-pass-best-first-person-shooters-2022)
- - [The Secret To Training Powerful Pokémon In Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-what-are-ev-iv-training-1849905869)<!-- GAME:END -->
+ - [High on Life is actually one of 2022’s best shooters](https://www.polygon.com/23512673/high-on-life-xbox-game-pass-best-first-person-shooters-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
