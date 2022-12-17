@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember to get a PRENUP when getting married so stuff like this doesn&#39;t happen](http://9gag.com/gag/aOxY0rM)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)
- - 🚯 [$140k Tesla quality](http://9gag.com/gag/a8q33M3)<!-- MEMES:END -->
+ - 🚖 [Oh no, it happened again.](http://9gag.com/gag/ay2BoRq)
+ - 🚯 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
+ - 🚯 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)<!-- MEMES:END -->
 
 --- 
 
