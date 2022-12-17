@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Avatar: The Way of Water&#39; Ending, Explained     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained/#ftag=CAD590a51e)
  - [TikTok is helping a new class of music business executives break through and circumvent the notoriously exclusive path that the industry usually requires &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/221216/p23#a221216p23)
- - [Best Roku Device Deals: Roku Ultra LT, Roku Streaming Stick 4K and More     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
- - [Does &#39;Avatar: The Way of Water&#39; Have a Post-Credits Scene?     - CNET](https://www.cnet.com/culture/entertainment/does-avatar-the-way-of-water-have-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Roku Device Deals: Roku Ultra LT, Roku Streaming Stick 4K and More     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
