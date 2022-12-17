@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone has a shiny Pokémon now](https://www.polygon.com/pokemon/23513201/pokemon-scarlet-violet-shiny-hunting-easy-mark-hunting)
- - [Guillermo del Toro explains why he turned Pinocchio into one of his monsters](https://www.polygon.com/23511107/guillermo-del-toro-pinocchio-interview-netflix-monsters)
- - [High on Life is actually one of 2022’s best shooters](https://www.polygon.com/23512673/high-on-life-xbox-game-pass-best-first-person-shooters-2022)<!-- GAME:END -->
+ - [The space whales are the best part of Avatar: The Way of Water](https://www.polygon.com/23511178/avatar-the-way-of-water-tulkun-space-whale-tattoos)
+ - [Almost 5 years after Frostpunk, its influence can still be felt in new city builders](https://www.pcgamer.com/almost-5-years-after-frostpunk-its-influence-can-still-be-felt-in-new-city-builders)
+ - [Everyone has a shiny Pokémon now](https://www.polygon.com/pokemon/23513201/pokemon-scarlet-violet-shiny-hunting-easy-mark-hunting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
