@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Alleged Russian Smuggling Ring Was Uncovered in New Hampshire](https://www.wired.com/story/russian-smuggling-ring-new-hampshire-security-roundup/)
- - [Charge ’67 EV Review: Exclusive Style, Premium Price](https://www.wired.com/review/review-charge-67/)
- - [Apple May Allow Rival App Stores on Some iPhones and iPads](https://www.wired.com/story/apple-outside-app-stores-eu/)<!-- TECH:END -->
+ - [Binance says it was hit by roughly $6B in net withdrawals between December 12 and December 14, which it was able to fulfill &quot;without breaking stride&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/221217/p10#a221217p10)
+ - [Reader’s Choice: Pick the best camera phone of 2022 in our blind shootout](https://www.androidauthority.com/readers-choice-camera-shootout-2022-3248308/)
+ - [14 Best Sleep Gadgets and Apps &lpar;2022&rpar;: Noise Machines, Blankets, Lights, and More](https://www.wired.com/gallery/best-sleep-gadgets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
