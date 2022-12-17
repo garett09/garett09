@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon has invested $75M so far to help Ukraine, including getting 10PB of government data out of the country in suitcase-sized Snowball Edges for AWS uploading &lpar;Russ Mitchell/Los Angeles Times&rpar;](http://www.techmeme.com/221217/p16#a221217p16)
  - [How to maximize your holiday footage by using Cinematic mode](https://appleinsider.com/inside/ios/tips/how-to-maximize-your-holiday-footage-by-using-cinematic-mode?utm_medium=rss)
- - [The Whoop 4.0 convinced me I don’t need a screen on my fitness tracker](https://www.androidauthority.com/whoop-4-0-review-3249953/)
- - [Source: Sam Bankman-Fried plans to reverse his decision to contest extradition to the US; legal experts say any trial is likely more than a year away &lpar;Jasper Ward/Reuters&rpar;](http://www.techmeme.com/221217/p15#a221217p15)<!-- TECH:END -->
+ - [The Whoop 4.0 convinced me I don’t need a screen on my fitness tracker](https://www.androidauthority.com/whoop-4-0-review-3249953/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
