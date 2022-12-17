@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker&#39;s security cameras brand Eufy quietly removed 10 commitments from its privacy page, including encryption, after questions about keeping those promises &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/221217/p14#a221217p14)
- - [Save $120 on Apple&#39;s Midnight M2 MacBook Air w/ 16GB RAM, 512GB SSD, in stock for Christmas](https://appleinsider.com/articles/22/12/17/save-120-on-apples-midnight-m2-macbook-air-w-16gb-ram-512gb-ssd-in-stock-for-christmas?utm_medium=rss)
- - [I used AI to settle the Android vs iPhone debate, here’s how it went](https://www.androidauthority.com/chatgpt-android-vs-iphone-3250623/)<!-- TECH:END -->
+ - [How to maximize your holiday footage by using Cinematic mode](https://appleinsider.com/inside/ios/tips/how-to-maximize-your-holiday-footage-by-using-cinematic-mode?utm_medium=rss)
+ - [The Whoop 4.0 convinced me I don’t need a screen on my fitness tracker](https://www.androidauthority.com/whoop-4-0-review-3249953/)
+ - [Source: Sam Bankman-Fried plans to reverse his decision to contest extradition to the US; legal experts say any trial is likely more than a year away &lpar;Jasper Ward/Reuters&rpar;](http://www.techmeme.com/221217/p15#a221217p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
