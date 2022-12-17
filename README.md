@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold.](http://9gag.com/gag/armGg9B)
- - 🚯 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - 🚖 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)
+ - 🚯 [P\u00f6ps don&#39;t play](http://9gag.com/gag/abvYYAX)
  - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)<!-- MEMES:END -->
 
 --- 
