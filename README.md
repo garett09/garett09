@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On December 16, Twitter reinstated at least 12 far-right accounts including election misinformation celeb Mike Lindell and popular QAnon fans like Patrick Byrne &lpar;Media Matters for America&rpar;](http://www.techmeme.com/221217/p1#a221217p1)
- - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
- - [&#39;Avatar: The Way of Water&#39; Ending, Explained     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: TuSimple plans to cut at least half its workforce, or ~700 employees, next week, as it scales back on building and testing self-driving truck systems &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/221217/p4#a221217p4)
+ - [Musk says Twitter will lift suspension of accounts that &quot;doxxed my location&quot;, after he ran a poll resulting in 58.7% users voting for immediate unsuspension &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221217/p3#a221217p3)
+ - [The people have spoken. Accounts who doxxed my location will have their suspension lifted now. https://twitter.com/... &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221217/p2#a221217p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
