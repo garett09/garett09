@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m sick of wide field of view cameras, but I’ll have to live with it](https://www.androidauthority.com/stuck-with-ultrawide-cameras-3238686/)
- - [The ‘30x30’ Conservation Goal Divides and Inspires at COP15](https://www.wired.com/story/the-30x30-conservation-goal-divides-and-inspires-at-cop15/)
- - [Our Favorite Hair Dryers and Diffusers &lpar;2022&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
+ - [An Alleged Russian Smuggling Ring Was Uncovered in New Hampshire](https://www.wired.com/story/russian-smuggling-ring-new-hampshire-security-roundup/)
+ - [Charge ’67 EV Review: Exclusive Style, Premium Price](https://www.wired.com/review/review-charge-67/)
+ - [Apple May Allow Rival App Stores on Some iPhones and iPads](https://www.wired.com/story/apple-outside-app-stores-eu/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
