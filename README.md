@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 💻 Chrome’s ad blocking’s safe, for now](https://www.androidauthority.com/the-weekly-authority-december-17-2022-225-3250520/)
- - [The Time for ‘Catalytic Government’ Is Now](https://www.wired.com/story/innovation-business-economy-government/)
- - [33 Best Deals on Last-Minute Holiday Gifts &lpar;2022&rpar;: Stand Mixers, Vacuums, Phones](https://www.wired.com/story/last-minute-deals-and-christmas-gifts-2022/)<!-- TECH:END -->
+ - [I’m sick of wide field of view cameras, but I’ll have to live with it](https://www.androidauthority.com/stuck-with-ultrawide-cameras-3238686/)
+ - [The ‘30x30’ Conservation Goal Divides and Inspires at COP15](https://www.wired.com/story/the-30x30-conservation-goal-divides-and-inspires-at-cop15/)
+ - [Our Favorite Hair Dryers and Diffusers &lpar;2022&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
