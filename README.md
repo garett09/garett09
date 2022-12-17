@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accounting firm BDO, whose Italian member BDO Italia recently signed off on reserves reports for Tether, says it is reconsidering its work for crypto companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221217/p11#a221217p11)
- - [Meta&#39;s VR ambitions Doomed as Carmack exits](https://appleinsider.com/articles/22/12/17/metas-vr-ambitions-doomed-as-carmack-exits?utm_medium=rss)
- - [The hottest and nottest smartphones of 2022 at launch, as voted on by you](https://www.androidauthority.com/hottest-coldest-smartphones-2022-3242747/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-463-3255344/)
+ - [Apple leaves the field in NFL Sunday Ticket negotiations](https://appleinsider.com/articles/22/12/17/apple-leaves-the-field-in-nfl-sunday-ticket-negotiations?utm_medium=rss)
+ - [Daily deals Dec. 17: $299 Apple Watch SE, $99 Apple TV 4K, $200 off Beats Studio3, more](https://appleinsider.com/articles/22/12/17/daily-deals-dec-17-299-apple-watch-se-99-apple-tv-4k-200-off-beats-studio3-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
