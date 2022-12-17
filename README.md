@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you Dad](http://9gag.com/gag/a7q33nw)
- - 🚯 [Amazing!](http://9gag.com/gag/ay2BDGp)
- - 🚯 [French policeman is pretty chill](http://9gag.com/gag/a8q3oKe)<!-- MEMES:END -->
+ - 🚖 [Value is in the eye of the beholder](http://9gag.com/gag/a2KZoZw)
+ - 🚯 [French policeman is pretty chill](http://9gag.com/gag/a8q3oKe)
+ - 🚯 [Internet dad damn ninjas cutting onions](http://9gag.com/gag/a2KZZ7d)<!-- MEMES:END -->
 
 --- 
 
