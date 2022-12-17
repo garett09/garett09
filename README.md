@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used AI to settle the Android vs iPhone debate, here’s how it went](https://www.androidauthority.com/chatgpt-android-vs-iphone-3250623/)
- - [A look at Backstage, Spotify&#39;s open-source developer platform used at Netflix, LinkedIn, Epic, Roku, Box, and 200+ others, which the company seeks to monetize &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221217/p13#a221217p13)
- - [13 Foods to Help Keep Your Kidneys Healthy     - CNET](https://www.cnet.com/health/nutrition/13-foods-to-help-keep-your-kidneys-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker&#39;s security cameras brand Eufy quietly removed 10 commitments from its privacy page, including encryption, after questions about keeping those promises &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/221217/p14#a221217p14)
+ - [Save $120 on Apple&#39;s Midnight M2 MacBook Air w/ 16GB RAM, 512GB SSD, in stock for Christmas](https://appleinsider.com/articles/22/12/17/save-120-on-apples-midnight-m2-macbook-air-w-16gb-ram-512gb-ssd-in-stock-for-christmas?utm_medium=rss)
+ - [I used AI to settle the Android vs iPhone debate, here’s how it went](https://www.androidauthority.com/chatgpt-android-vs-iphone-3250623/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
