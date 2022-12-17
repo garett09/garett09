@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)
- - 🚯 [P\u00f6ps don&#39;t play](http://9gag.com/gag/abvYYAX)
- - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)<!-- MEMES:END -->
+ - 🚖 [That&#39;s why you should read books.](http://9gag.com/gag/aDY1orK)
+ - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)
+ - 🚯 [Moonlight Bridge](http://9gag.com/gag/ap9mmyB)<!-- MEMES:END -->
 
 --- 
 
