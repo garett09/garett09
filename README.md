@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Completely smashed](http://9gag.com/gag/aDY1WxB)
- - 🚯 [When you&#39;re late for work but you&#39;re unemployed](http://9gag.com/gag/aZDLyVp)
- - 🚯 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)<!-- MEMES:END -->
+ - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚯 [Tough decision](http://9gag.com/gag/aMEZZER)
+ - 🚯 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)<!-- MEMES:END -->
 
 --- 
 
