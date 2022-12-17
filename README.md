@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Value is in the eye of the beholder](http://9gag.com/gag/a2KZoZw)
- - 🚯 [French policeman is pretty chill](http://9gag.com/gag/a8q3oKe)
- - 🚯 [Internet dad damn ninjas cutting onions](http://9gag.com/gag/a2KZZ7d)<!-- MEMES:END -->
+ - 🚖 [P\u00f6ps don&#39;t play](http://9gag.com/gag/abvYYAX)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)
+ - 🚯 [Rubber band magic](http://9gag.com/gag/ajV8qDG)<!-- MEMES:END -->
 
 --- 
 
