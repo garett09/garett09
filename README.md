@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Makes It Even Harder to Tell if You Broke Twitter&#39;s Rules     - CNET](https://www.cnet.com/news/social-media/elon-musk-makes-it-even-more-confusing-to-tell-if-you-broke-twitters-rules/#ftag=CAD590a51e)
- - [We Tested Night Mode on the iPhone 14 Pro, Pixel 7 Pro and Galaxy S22 Ultra     - CNET](https://www.cnet.com/tech/mobile/we-tested-night-mode-on-the-iphone-14-pro-pixel-7-pro-and-galaxy-s22-ultra/#ftag=CAD590a51e)
- - [The iPhone 14 Pro Cameras Are a Bigger Upgrade Than You Realize     - CNET](https://www.cnet.com/tech/mobile/the-iphone-14-pro-cameras-are-a-bigger-upgrade-than-you-realize/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I used AI to settle the Android vs iPhone debate, here’s how it went](https://www.androidauthority.com/chatgpt-android-vs-iphone-3250623/)
+ - [A look at Backstage, Spotify&#39;s open-source developer platform used at Netflix, LinkedIn, Epic, Roku, Box, and 200+ others, which the company seeks to monetize &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221217/p13#a221217p13)
+ - [13 Foods to Help Keep Your Kidneys Healthy     - CNET](https://www.cnet.com/health/nutrition/13-foods-to-help-keep-your-kidneys-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
