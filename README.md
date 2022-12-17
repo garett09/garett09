@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TuSimple plans to cut at least half its workforce, or ~700 employees, next week, as it scales back on building and testing self-driving truck systems &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/221217/p4#a221217p4)
- - [Musk says Twitter will lift suspension of accounts that &quot;doxxed my location&quot;, after he ran a poll resulting in 58.7% users voting for immediate unsuspension &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221217/p3#a221217p3)
- - [The people have spoken. Accounts who doxxed my location will have their suspension lifted now. https://twitter.com/... &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221217/p2#a221217p2)<!-- TECH:END -->
+ - [A first-person narrative on working as a human fallback for Brenda, a real estate conversational AI chatbot, as part of a team of about sixty operators &lpar;Laura Preston/n+1&rpar;](http://www.techmeme.com/221217/p8#a221217p8)
+ - [Report: Apple has backed out of the negotiations for the rights to NFL Sunday Ticket, leaving Amazon and Google as the frontrunners &lpar;Mike Florio/NBCSports.com&rpar;](http://www.techmeme.com/221217/p7#a221217p7)
+ - [Dropbox acquires FormSwift, a cloud-based service for creating, editing, and saving business and legal documents, for $95M in cash &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221217/p6#a221217p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
