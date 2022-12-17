@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Launches 48-Hour Weekend Sale Full of Last-Minute Gift Ideas     - CNET](https://www.cnet.com/deals/best-buy-launches-48-hour-weekend-sale-full-of-last-minute-gift-ideas/#ftag=CAD590a51e)
- - [A first-person narrative on working as a human fallback for Brenda, a real estate conversational AI chatbot, as part of a team of about sixty operators &lpar;Laura Preston/n+1&rpar;](http://www.techmeme.com/221217/p8#a221217p8)
- - [Report: Apple has backed out of the negotiations for the rights to NFL Sunday Ticket, leaving Amazon and Google as the frontrunners &lpar;Mike Florio/NBCSports.com&rpar;](http://www.techmeme.com/221217/p7#a221217p7)<!-- TECH:END -->
+ - [Analysis: multiple major Russian cities appear to have faced widespread GPS disruption during the past week, as part of efforts to evade Ukraine&#39;s drone attacks &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/221217/p9#a221217p9)
+ - [Oppo Find N2 hands-on impressions: A sign of things to come](https://www.androidauthority.com/oppo-find-n2-review-3255164/)
+ - [Best Buy Launches 48-Hour Weekend Sale Full of Last-Minute Gift Ideas     - CNET](https://www.cnet.com/deals/best-buy-launches-48-hour-weekend-sale-full-of-last-minute-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
