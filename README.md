@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
- - 🚯 [Scientist Dolph Lundgren](http://9gag.com/gag/abvYGEX)
+ - 🚖 [Oh no, it happened again.](http://9gag.com/gag/ay2BoRq)
+ - 🚯 [He Finnished it though](http://9gag.com/gag/aKEx7eb)
  - 🚯 [Reason why it doesn\u2019t have first letter in the icon](http://9gag.com/gag/agonA4w)<!-- MEMES:END -->
 
 --- 
