@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coyotes Unexpectedly Killed a Human in 2009. Scientists Now Know Why     - CNET](https://www.cnet.com/science/biology/coyotes-unexpectedly-killed-a-human-in-2009-scientists-now-know-why/#ftag=CAD590a51e)
- - [NASA Telescopes Identify Two Alien Worlds Mostly Made of Water     - CNET](https://www.cnet.com/science/space/nasa-telescopes-identify-two-alien-worlds-mostly-made-of-water/#ftag=CAD590a51e)
- - [Phones Were Boring in 2022. Here&#39;s Why They&#39;ll Be More Interesting in 2023     - CNET](https://www.cnet.com/tech/mobile/phones-were-boring-in-2022-heres-why-theyll-be-more-interesting-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal note: Meta advisor and ex-Oculus CTO John Carmack leaves the company after more than eight years, saying Meta is operating at &quot;half the effectiveness&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/221216/p21#a221216p21)
+ - [The Verge’s 2022 holiday gift guide for travelers](https://www.theverge.com/23411834/travel-gift-guide-2022-pillows-bags-adapters-chargers-ideas-tech)
+ - [Representatives from the UK, Germany, the European Commission, and the United Nations raise concerns over Twitter&#39;s suspension of US journalists &lpar;The Guardian&rpar;](http://www.techmeme.com/221216/p20#a221216p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
