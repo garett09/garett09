@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [P\u00f6ps don&#39;t play](http://9gag.com/gag/abvYYAX)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)
- - 🚯 [Rubber band magic](http://9gag.com/gag/ajV8qDG)<!-- MEMES:END -->
+ - 🚖 [Henry Cavill in the last 24 hours](http://9gag.com/gag/aBd0gjz)
+ - 🚯 [Guide to stir-frying](http://9gag.com/gag/aQERd9z)
+ - 🚯 [England vs Italy intensifies](http://9gag.com/gag/aGEZdYZ)<!-- MEMES:END -->
 
 --- 
 
