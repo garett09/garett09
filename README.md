@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 546 answer and hint for Saturday, December 17](https://www.pcgamer.com/wordle-546-answer-december-17)
  - [Avatar 2 doesn’t have an after-credits scene, an extended cut, or guaranteed sequels](https://www.polygon.com/23502389/avatar-2-way-water-post-credits-scene)
- - [This tropical survival game is scratching my Wind Waker itch by adding sailing and mysterious ruins](https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins)
- - [Bones and All, Black Adam, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/12/16/23503822/new-movies-watch-bones-all-timothee-chalamet-vod-black-adam-hbo-max-big-four-netflix)<!-- GAME:END -->
+ - [This tropical survival game is scratching my Wind Waker itch by adding sailing and mysterious ruins](https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
