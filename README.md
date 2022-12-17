@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-463-3255344/)
- - [Apple leaves the field in NFL Sunday Ticket negotiations](https://appleinsider.com/articles/22/12/17/apple-leaves-the-field-in-nfl-sunday-ticket-negotiations?utm_medium=rss)
- - [Daily deals Dec. 17: $299 Apple Watch SE, $99 Apple TV 4K, $200 off Beats Studio3, more](https://appleinsider.com/articles/22/12/17/daily-deals-dec-17-299-apple-watch-se-99-apple-tv-4k-200-off-beats-studio3-more?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk Makes It Even Harder to Tell if You Broke Twitter&#39;s Rules     - CNET](https://www.cnet.com/news/social-media/elon-musk-makes-it-even-more-confusing-to-tell-if-you-broke-twitters-rules/#ftag=CAD590a51e)
+ - [We Tested Night Mode on the iPhone 14 Pro, Pixel 7 Pro and Galaxy S22 Ultra     - CNET](https://www.cnet.com/tech/mobile/we-tested-night-mode-on-the-iphone-14-pro-pixel-7-pro-and-galaxy-s22-ultra/#ftag=CAD590a51e)
+ - [The iPhone 14 Pro Cameras Are a Bigger Upgrade Than You Realize     - CNET](https://www.cnet.com/tech/mobile/the-iphone-14-pro-cameras-are-a-bigger-upgrade-than-you-realize/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
