@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world](http://9gag.com/gag/aRE13Yq)
- - 🚯 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
+ - 🚖 [I wish my metabolism worked that quickly...](http://9gag.com/gag/aDY1g9B)
+ - 🚯 [Doxxing is not allowed. But it is when i do it.](http://9gag.com/gag/ajV8Nmq)
  - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 --- 
