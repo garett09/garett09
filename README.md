@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s why you should read books.](http://9gag.com/gag/aDY1orK)
- - 🚯 [Clown world](http://9gag.com/gag/aRE13Yq)
- - 🚯 [Moonlight Bridge](http://9gag.com/gag/ap9mmyB)<!-- MEMES:END -->
+ - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
+ - 🚯 [Hoaxes in the movies](http://9gag.com/gag/avQ88eZ)
+ - 🚯 [This will make you smile.](http://9gag.com/gag/awZAoV1)<!-- MEMES:END -->
 
 --- 
 
