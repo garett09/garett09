@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish my metabolism worked that quickly...](http://9gag.com/gag/aDY1g9B)
- - 🚯 [Doxxing is not allowed. But it is when i do it.](http://9gag.com/gag/ajV8Nmq)
- - 🚯 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
+ - 🚖 [Who](http://9gag.com/gag/a04QKwX)
+ - 🚯 [Amazing!](http://9gag.com/gag/ay2BDGp)
+ - 🚯 [Hoaxes in the movies](http://9gag.com/gag/avQ88eZ)<!-- MEMES:END -->
 
 --- 
 
