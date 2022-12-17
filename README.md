@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Legendary programmer John Carmack leaves Meta: &#39;This is the end of my decade in VR&#39;⁠](https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr)
  - [Riot files to terminate League of Legends sponsorship deal with failed crypto exchange FTX](https://www.pcgamer.com/riot-files-to-terminate-relationship-with-failed-crypto-exchange-ftx)
- - [Almost 5 years after Frostpunk, its influence can still be felt in new city builders](https://www.pcgamer.com/almost-5-years-after-frostpunk-its-influence-can-still-be-felt-in-new-city-builders)
- - [The space whales are the best part of Avatar: The Way of Water](https://www.polygon.com/23511178/avatar-the-way-of-water-tulkun-space-whale-tattoos)<!-- GAME:END -->
+ - [Almost 5 years after Frostpunk, its influence can still be felt in new city builders](https://www.pcgamer.com/almost-5-years-after-frostpunk-its-influence-can-still-be-felt-in-new-city-builders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
