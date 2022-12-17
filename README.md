@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no, it happened again.](http://9gag.com/gag/ay2BoRq)
- - 🚯 [He Finnished it though](http://9gag.com/gag/aKEx7eb)
- - 🚯 [Reason why it doesn\u2019t have first letter in the icon](http://9gag.com/gag/agonA4w)<!-- MEMES:END -->
+ - 🚖 [Remember to get a PRENUP when getting married so stuff like this doesn&#39;t happen](http://9gag.com/gag/aOxY0rM)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)
+ - 🚯 [$140k Tesla quality](http://9gag.com/gag/a8q33M3)<!-- MEMES:END -->
 
 --- 
 
