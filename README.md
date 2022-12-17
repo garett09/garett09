@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch crypto exchange Bitvavo, which uses DCG for its staking service, says it can&#39;t access ~$297M held at DCG and that DCG is &quot;experiencing liquidity problems&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/221216/p22#a221216p22)
- - [Black Adam: Post-Credits Scene, Messy DC Cameo Explained as Movie Hits HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-messy-dc-cameo-explained-as-movie-hits-hbo-max/#ftag=CAD590a51e)
- - [Pokémon Will Say Goodbye To Ash After 25 Years as the Anime&#39;s Star     - CNET](https://www.cnet.com/culture/entertainment/pokemon-will-say-goodbye-to-ash-after-25-years-as-the-animes-star/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok is helping a new class of music business executives break through and circumvent the notoriously exclusive path that the industry usually requires &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/221216/p23#a221216p23)
+ - [Best Roku Device Deals: Roku Ultra LT, Roku Streaming Stick 4K and More     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
+ - [Does &#39;Avatar: The Way of Water&#39; Have a Post-Credits Scene?     - CNET](https://www.cnet.com/culture/entertainment/does-avatar-the-way-of-water-have-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
