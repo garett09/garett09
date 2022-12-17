@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
- - 🚯 [Hoaxes in the movies](http://9gag.com/gag/avQ88eZ)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)<!-- MEMES:END -->
+ - 🚖 [Good Doggo * head bang intensifies *](http://9gag.com/gag/aXnYgAz)
+ - 🚯 [Exciting news!!](http://9gag.com/gag/aeQrMQm)
+ - 🚯 [Just Cats. No politics. No war. Just Cats...](http://9gag.com/gag/aEq2PqO)<!-- MEMES:END -->
 
 --- 
 
