@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance says it was hit by roughly $6B in net withdrawals between December 12 and December 14, which it was able to fulfill &quot;without breaking stride&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/221217/p10#a221217p10)
- - [Reader’s Choice: Pick the best camera phone of 2022 in our blind shootout](https://www.androidauthority.com/readers-choice-camera-shootout-2022-3248308/)
- - [14 Best Sleep Gadgets and Apps &lpar;2022&rpar;: Noise Machines, Blankets, Lights, and More](https://www.wired.com/gallery/best-sleep-gadgets/)<!-- TECH:END -->
+ - [Accounting firm BDO, whose Italian member BDO Italia recently signed off on reserves reports for Tether, says it is reconsidering its work for crypto companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221217/p11#a221217p11)
+ - [Meta&#39;s VR ambitions Doomed as Carmack exits](https://appleinsider.com/articles/22/12/17/metas-vr-ambitions-doomed-as-carmack-exits?utm_medium=rss)
+ - [The hottest and nottest smartphones of 2022 at launch, as voted on by you](https://www.androidauthority.com/hottest-coldest-smartphones-2022-3242747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
