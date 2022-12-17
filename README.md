@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal note: Meta advisor and ex-Oculus CTO John Carmack leaves the company after more than eight years, saying Meta is operating at &quot;half the effectiveness&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/221216/p21#a221216p21)
- - [The Verge’s 2022 holiday gift guide for travelers](https://www.theverge.com/23411834/travel-gift-guide-2022-pillows-bags-adapters-chargers-ideas-tech)
- - [Representatives from the UK, Germany, the European Commission, and the United Nations raise concerns over Twitter&#39;s suspension of US journalists &lpar;The Guardian&rpar;](http://www.techmeme.com/221216/p20#a221216p20)<!-- TECH:END -->
+ - [Dutch crypto exchange Bitvavo, which uses DCG for its staking service, says it can&#39;t access ~$297M held at DCG and that DCG is &quot;experiencing liquidity problems&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/221216/p22#a221216p22)
+ - [Black Adam: Post-Credits Scene, Messy DC Cameo Explained as Movie Hits HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-messy-dc-cameo-explained-as-movie-hits-hbo-max/#ftag=CAD590a51e)
+ - [Pokémon Will Say Goodbye To Ash After 25 Years as the Anime&#39;s Star     - CNET](https://www.cnet.com/culture/entertainment/pokemon-will-say-goodbye-to-ash-after-25-years-as-the-animes-star/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
