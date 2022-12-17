@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who](http://9gag.com/gag/a04QKwX)
+ - 🚖 [Thank you Dad](http://9gag.com/gag/a7q33nw)
  - 🚯 [Amazing!](http://9gag.com/gag/ay2BDGp)
- - 🚯 [Hoaxes in the movies](http://9gag.com/gag/avQ88eZ)<!-- MEMES:END -->
+ - 🚯 [French policeman is pretty chill](http://9gag.com/gag/a8q3oKe)<!-- MEMES:END -->
 
 --- 
 
