@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
- - 🚯 [In Russia, an officer informs a family that their son died in Ukraine. He hands them a medal with the words `CONGRATULATIONS TO YOU!`. Mother is not patriotic enough, so she is not happy about congratulations](http://9gag.com/gag/az29eNB)
- - 🚯 [Rooster and dog](http://9gag.com/gag/aL1g1pM)<!-- MEMES:END -->
+ - 🚖 [Oh no, it happened again.](http://9gag.com/gag/ay2BoRq)
+ - 🚯 [Wholesome human](http://9gag.com/gag/aDY1Y1Z)
+ - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
 
 --- 
 
