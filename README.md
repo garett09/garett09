@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On Your Mark !](http://9gag.com/gag/aXnYnPd)
- - 🚯 [When civil war comes to Europe, they will say no one knew why](http://9gag.com/gag/aXnYgXv)
- - 🚯 [You laugh u got to hell.](http://9gag.com/gag/aDY1D99)<!-- MEMES:END -->
+ - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚯 [On Your Mark !](http://9gag.com/gag/aXnYnPd)
+ - 🚯 [Song of the year](http://9gag.com/gag/ajV8mAx)<!-- MEMES:END -->
 
 --- 
 
