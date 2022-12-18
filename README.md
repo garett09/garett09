@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US prosecutors are seeking information from Democrats and Republicans about donations from SBF and ex-FTX executives Ryan Salame and Nishad Singh &lpar;New York Times&rpar;](http://www.techmeme.com/221217/p17#a221217p17)
- - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Hits HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-hits-hbo-max/#ftag=CAD590a51e)
- - [iPhone 14 Pro Cameras vs. 13 Pro: All the Ways They&#39;re Different     - CNET](https://www.cnet.com/tech/mobile/iphone-14-pro-cameras-vs-13-pro-all-the-ways-theyre-different/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix, HBO Max, and other streaming services scale back on experimental content that caters to smaller audiences, amid rising costs and increased competition &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/221217/p18#a221217p18)
+ - [&#39;Avatar: The Way of Water&#39; Ending Explained and Unanswered Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-and-unanswered-questions/#ftag=CAD590a51e)
+ - [Best Hallmark Christmas Movies of 2022     - CNET](https://www.cnet.com/culture/entertainment/best-2022-hallmark-christmas-movies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
