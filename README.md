@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Harrison Ford isn’t even the best thing about Yellowstone spinoff 1923](https://www.polygon.com/23513426/yellowstone-1923-review-harrison-ford)
  - [Today&#39;s Wordle 547 answer and hint for Sunday, December 18](https://www.pcgamer.com/wordle-547-answer-december-18)
- - [Darktide made us hungry for sick Warhammer 40K art, so here&#39;s 40 wallpapers for your desktop or phone](https://www.pcgamer.com/darktide-made-us-hungry-for-sick-warhammer-40k-art-so-heres-40-wallpapers-for-your-desktop-or-phone)
- - [HTC is making a new VR headset to compete with the Quest 2](https://www.pcgamer.com/htc-is-making-a-new-vr-headset-to-compete-with-the-quest-2)<!-- GAME:END -->
+ - [Darktide made us hungry for sick Warhammer 40K art, so here&#39;s 40 wallpapers for your desktop or phone](https://www.pcgamer.com/darktide-made-us-hungry-for-sick-warhammer-40k-art-so-heres-40-wallpapers-for-your-desktop-or-phone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
