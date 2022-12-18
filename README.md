@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On Your Mark !](http://9gag.com/gag/aXnYnPd)
- - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)<!-- MEMES:END -->
+ - 🚖 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
+ - 🚯 [Can we talk about the woman in the room?](http://9gag.com/gag/aWGY4QA)
+ - 🚯 [Mossberg 51 .22](http://9gag.com/gag/awZAyx8)<!-- MEMES:END -->
 
 --- 
 
