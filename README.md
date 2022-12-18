@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Huawei accounts for 59% of Germany&#39;s 5G radio access network equipment compared to 57% in 4G networks, despite intense diplomatic pressure from the US &lpar;Sarah Marsh/Reuters&rpar;](http://www.techmeme.com/221217/p19#a221217p19)
  - [Netflix, HBO Max, and other streaming services scale back on experimental content that caters to smaller audiences, amid rising costs and increased competition &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/221217/p18#a221217p18)
- - [&#39;Avatar: The Way of Water&#39; Ending Explained and Unanswered Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-and-unanswered-questions/#ftag=CAD590a51e)
- - [Best Hallmark Christmas Movies of 2022     - CNET](https://www.cnet.com/culture/entertainment/best-2022-hallmark-christmas-movies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Avatar: The Way of Water&#39; Ending Explained and Unanswered Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-and-unanswered-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
