@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bones and All finds fresh new blood in an age-old young-love story](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)
- - [Zotac GeForce RTX 4080 AMP Extreme Airo](https://www.pcgamer.com/zotac-geforce-rtx-4080-amp-extreme-airo)
- - [Avatar 2 took forever because James Cameron had to make sure Avatar 4 was ready to shoot](https://www.polygon.com/23502100/avatar-2-way-water-delay-explained)<!-- GAME:END -->
+ - [Make some nice outdoor spaces in this digital toy about gardening](https://www.pcgamer.com/make-some-nice-outdoor-spaces-in-this-digital-toy-about-gardening)
+ - [Climb some psychic crystals and get dreamcrungled in the latest Caves of Qud release](https://www.pcgamer.com/climb-some-psychic-crystals-and-get-dreamcrungled-in-the-latest-caves-of-qud-release)
+ - [Bones and All finds fresh new blood in an age-old young-love story](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
