@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Song of the year](http://9gag.com/gag/ajV8mAx)
- - 🚯 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
- - 🚯 [Thank you for the Best Final of my life!](http://9gag.com/gag/a5XMV6g)<!-- MEMES:END -->
+ - 🚖 [Need more time](http://9gag.com/gag/armGow0)
+ - 🚯 [Thank you for the Best Final of my life!](http://9gag.com/gag/a5XMV6g)
+ - 🚯 [When civil war comes to Europe, they will say no one knew why](http://9gag.com/gag/aXnYgXv)<!-- MEMES:END -->
 
 --- 
 
