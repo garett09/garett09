@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I don’t lose sleep over sleep-tracking data and neither should you](https://www.androidauthority.com/sleep-tracking-data-3244348/)
- - [Twitter Bans Accounts Promoting Other Social Networks     - CNET](https://www.cnet.com/news/social-media/twitter-bans-accounts-promoting-other-social-networks/#ftag=CAD590a51e)
- - [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors)<!-- TECH:END -->
+ - [How fast is 5G in the real world? Compared against 4G LTE](https://www.androidauthority.com/how-fast-is-5g-real-world-3249921/)
+ - [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors)
+ - [Twitter blocks user links to other social platforms, except for paid ads](https://appleinsider.com/articles/22/12/18/twitter-blocks-user-links-to-other-social-platforms-except-for-paid-ads?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
