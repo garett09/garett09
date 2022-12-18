@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no, it happened again.](http://9gag.com/gag/ay2BoRq)
- - 🚯 [Wholesome human](http://9gag.com/gag/aDY1Y1Z)
- - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
+ - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚯 [When you&#39;re late for work but you&#39;re unemployed](http://9gag.com/gag/aZDLyVp)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)<!-- MEMES:END -->
 
 --- 
 
