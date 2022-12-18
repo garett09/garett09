@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pro Display XDR update with Apple Silicon one of many in-development monitors](https://appleinsider.com/articles/22/12/18/pro-display-xdr-update-with-apple-silicon-one-of-many-in-development-monitors?utm_medium=rss)
- - [At-Home COVID Test Recall: Check If Yours Are Affected     - CNET](https://www.cnet.com/health/medical/at-home-covid-test-recall-check-if-yours-are-affected/#ftag=CAD590a51e)
- - [Crime blotter: Apple Store robbed at gunpoint, UPS driver stealing iPhones, more](https://appleinsider.com/articles/22/12/18/crime-blotter-apple-store-robbed-with-semiautomatic-gun?utm_medium=rss)<!-- TECH:END -->
+ - [LG’s Magic Remote is what finally got me to leave Roku behind](https://www.androidauthority.com/lg-magic-remote-3245846/)
+ - [Grab Your Last-Minute Gifts During the Final Day of Best Buy&#39;s Weekend Sale     - CNET](https://www.cnet.com/deals/best-buy-launches-48-hour-weekend-sale-full-of-last-minute-gift-ideas/#ftag=CAD590a51e)
+ - [Lions vs. Jets Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-jets-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
