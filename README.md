@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a final game](http://9gag.com/gag/aGEZL26)
- - 🚯 [Mbappe right now](http://9gag.com/gag/adPLveB)
- - 🚯 [`Russia is strong! Europe is freezing!` Students at a major Russian university in Tomsk study without heating their rooms. `Europe is about to surrender!`. Russia&#39;s oil and gas are produced in this city, and they are freezing, sitting in the oil fields](http://9gag.com/gag/agon1r1)<!-- MEMES:END -->
+ - 🚖 [When civil war comes to Europe, they will say no one knew why](http://9gag.com/gag/aXnYgXv)
+ - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)<!-- MEMES:END -->
 
 --- 
 
