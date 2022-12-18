@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter will stop users from promoting their presence on rival services, including Facebook, Mastodon, and Nostr, and will remove tweets and accounts that do so &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221218/p6#a221218p6)
  - [How fast is 5G in the real world? Compared against 4G LTE](https://www.androidauthority.com/how-fast-is-5g-real-world-3249921/)
- - [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors)
- - [Twitter blocks user links to other social platforms, except for paid ads](https://appleinsider.com/articles/22/12/18/twitter-blocks-user-links-to-other-social-platforms-except-for-paid-ads?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
