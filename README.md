@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Sources: US prosecutors are seeking information from Democrats and Republicans about donations from SBF and ex-FTX executives Ryan Salame and Nishad Singh &lpar;New York Times&rpar;](http://www.techmeme.com/221217/p17#a221217p17)
- - [Ford’s electric F-150 Lightning is getting more expensive, again](https://www.theverge.com/2022/12/17/23514435/ford-electric-f-150-lightning-price-increase)
- - [Netflix: The 47 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Hits HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-hits-hbo-max/#ftag=CAD590a51e)
+ - [iPhone 14 Pro Cameras vs. 13 Pro: All the Ways They&#39;re Different     - CNET](https://www.cnet.com/tech/mobile/iphone-14-pro-cameras-vs-13-pro-all-the-ways-theyre-different/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
