@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)
- - 🚯 [Pranking a chef](http://9gag.com/gag/a9qK18m)
- - 🚯 [I don&#39;t know what this is, but I want to eat it](http://9gag.com/gag/aYVYVD7)<!-- MEMES:END -->
+ - 🚖 [When you mention Ronaldo today, everyone think of another `Ronaldo`. But the current Ronaldo is not even the best Ronaldo. Deep inside, we all know that this is the best Ronaldo.](http://9gag.com/gag/aNwYw3A)
+ - 🚯 [This is what the Christmas tree looks like at the Kiev railway station. The backlight is powered by an exercise bike. Christmas will be even in darkness time](http://9gag.com/gag/avQ8QDd)
+ - 🚯 [You Have Been Warned](http://9gag.com/gag/az292Wp)<!-- MEMES:END -->
 
 --- 
 
