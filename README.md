@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out the demo for this sci-fi shooter fusing retro and modern elements](https://www.pcgamer.com/check-out-the-demo-for-this-sci-fi-shooter-fusing-retro-and-modern-elements)
- - [Legendary programmer John Carmack leaves Meta: &#39;This is the end of my decade in VR&#39;⁠](https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr)
- - [Riot files to terminate League of Legends sponsorship deal with failed crypto exchange FTX](https://www.pcgamer.com/riot-files-to-terminate-relationship-with-failed-crypto-exchange-ftx)<!-- GAME:END -->
+ - [ArtStation will allow artists to opt out of AI programs using their creations, but concerns remain](https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain)
+ - [Automate the collapse of reality in clicker Antimatter Dimensions, now on Steam](https://www.pcgamer.com/automate-the-collapse-of-reality-in-clicker-antimatter-dimensions-now-on-steam)
+ - [Maupiti Island was a detective game unlike any other](https://www.pcgamer.com/saturday-crapshoot-maupiti-island)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
