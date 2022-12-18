@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [On Your Mark !](http://9gag.com/gag/aXnYnPd)
- - 🚯 [Song of the year](http://9gag.com/gag/ajV8mAx)<!-- MEMES:END -->
+ - 🚖 [Tough decision](http://9gag.com/gag/aMEZZER)
+ - 🚯 [Rock, Paper, Scissors](http://9gag.com/gag/a9qKyZj)
+ - 🚯 [Good joke but shut up](http://9gag.com/gag/a8q3AbO)<!-- MEMES:END -->
 
 --- 
 
