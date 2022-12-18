@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon has invested $75M so far to help Ukraine, including getting 10PB of government data out of the country in suitcase-sized Snowball Edges for AWS uploading &lpar;Russ Mitchell/Los Angeles Times&rpar;](http://www.techmeme.com/221217/p16#a221217p16)
- - [How to maximize your holiday footage by using Cinematic mode](https://appleinsider.com/inside/ios/tips/how-to-maximize-your-holiday-footage-by-using-cinematic-mode?utm_medium=rss)
- - [The Whoop 4.0 convinced me I don’t need a screen on my fitness tracker](https://www.androidauthority.com/whoop-4-0-review-3249953/)<!-- TECH:END -->
+ - [Sources: US prosecutors are seeking information from Democrats and Republicans about donations from SBF and ex-FTX executives Ryan Salame and Nishad Singh &lpar;New York Times&rpar;](http://www.techmeme.com/221217/p17#a221217p17)
+ - [Ford’s electric F-150 Lightning is getting more expensive, again](https://www.theverge.com/2022/12/17/23514435/ford-electric-f-150-lightning-price-increase)
+ - [Netflix: The 47 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
