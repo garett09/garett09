@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Memoji on your iPhone](https://appleinsider.com/inside/ios/tips/how-to-use-memoji-on-your-iphone?utm_medium=rss)
- - [8 Best Electric Scooters &lpar;2022&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)
- - [Douyin has become China&#39;s fourth biggest e-commerce company by GMV, as short videos prove ideal as bait for long ads by giving higher purchase conversion rates &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/221218/p3#a221218p3)<!-- TECH:END -->
+ - [Matter won’t matter for a while, but don’t let that crush your smart home dreams](https://www.androidauthority.com/matter-smart-home-limitation-3255054/)
+ - [These At-Home Skincare Tools Make Beauty Feel Accessible](https://www.wired.com/story/at-home-beauty-tools-rave-theraface-pro-dermaflash-luxe-shark-flexstyle/)
+ - [Apple scales back plans for &#39;Extreme&#39; Apple Silicon Mac Pro](https://appleinsider.com/articles/22/12/18/apple-scales-back-plans-for-extreme-apple-silicon-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
