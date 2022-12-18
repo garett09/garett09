@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of iNaturalist, a not-for-profit social network that uses an ML algorithm to help users identify plants and animals, driving cooperation and consensus &lpar;Amy Harmon/New York Times&rpar;](http://www.techmeme.com/221218/p2#a221218p2)
- - [Free overnight shipping on 100s of gift ideas at B&amp;H Photo](https://appleinsider.com/articles/22/12/18/free-overnight-shipping-on-100s-of-gift-ideas-at-bh-photo?utm_medium=rss)
- - [A Q&amp;A with CA Rep. Ro Khanna about Elon Musk, being mentioned in the &quot;Twitter Files&quot;, passing antitrust and privacy laws, cryptocurrencies, FTX, and more &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/221218/p1#a221218p1)<!-- TECH:END -->
+ - [Evolv Terra Review: A Powerful Dual-Motor Escooter](https://www.wired.com/review/evolv-terra/)
+ - [A New Discipline Pushes Back Against Sowing Doubt](https://www.wired.com/story/agnotology-misinformation-opinion/)
+ - [As Someone Who Cooks, Here Are a Few Gifts I Would Love to Receive     - CNET](https://www.cnet.com/news/best-gifts-for-a-food-or-chef/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
