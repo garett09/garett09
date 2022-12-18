@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Watch 5 Pro is Android Authority’s pick for best wearable of 2022](https://www.androidauthority.com/best-smartwatch-fitness-tracker-2022-editors-choice-3249711/)
- - [Physicists Rewrite a Quantum Rule That Clashes With Our Universe](https://www.wired.com/story/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe/)
- - [How to Use Google Health Connect](https://www.wired.com/story/how-to-use-google-health-connect/)<!-- TECH:END -->
+ - [How to use Memoji on your iPhone](https://appleinsider.com/inside/ios/tips/how-to-use-memoji-on-your-iphone?utm_medium=rss)
+ - [8 Best Electric Scooters &lpar;2022&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)
+ - [Douyin has become China&#39;s fourth biggest e-commerce company by GMV, as short videos prove ideal as bait for long ads by giving higher purchase conversion rates &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/221218/p3#a221218p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
