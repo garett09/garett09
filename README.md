@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rendering problems irl](http://9gag.com/gag/aL1gpzP)
- - 🚯 [Had me in the first half ngl, sorry for it being twitter post](http://9gag.com/gag/armGMn6)
- - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
+ - 🚖 [Free wifi](http://9gag.com/gag/aeQrAnj)
+ - 🚯 [Didn\u2019t last long](http://9gag.com/gag/aYVY43V)
+ - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
 
 --- 
 
