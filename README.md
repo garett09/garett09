@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
- - 🚯 [Can we talk about the woman in the room?](http://9gag.com/gag/aWGY4QA)
- - 🚯 [Mossberg 51 .22](http://9gag.com/gag/awZAyx8)<!-- MEMES:END -->
+ - 🚖 [On Your Mark !](http://9gag.com/gag/aXnYnPd)
+ - 🚯 [When civil war comes to Europe, they will say no one knew why](http://9gag.com/gag/aXnYgXv)
+ - 🚯 [You laugh u got to hell.](http://9gag.com/gag/aDY1D99)<!-- MEMES:END -->
 
 --- 
 
