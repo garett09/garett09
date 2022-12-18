@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 15 Isn&#39;t the Only Exciting Phone Coming In 2023     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-15-isnt-the-only-exciting-phone-coming-in-2023/#ftag=CAD590a51e)
- - [Crisis Core Reunion Revives a Final Fantasy 7 Classic Magnificently     - CNET](https://www.cnet.com/tech/gaming/crisis-core-reunion-revives-a-final-fantasy-7-classic-magnificently/#ftag=CAD590a51e)
- - [Twitter will stop users from promoting their presence on rival services, including Facebook, Mastodon, and Nostr, and will remove tweets and accounts that do so &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221218/p6#a221218p6)<!-- TECH:END -->
+ - [A profile of ex-FTX Digital Markets co-CEO Ryan Salame, a big GOP donor who emerged as a central player in the FTX scandal after flagging fraud to regulators &lpar;New York Times&rpar;](http://www.techmeme.com/221218/p7#a221218p7)
+ - [Best weather apps for iPhone, iPad, and Mac in 2022](https://appleinsider.com/inside/ios/best/best-weather-apps-for-iphone-ipad-and-mac-in-2022?utm_medium=rss)
+ - [Top Apple deals on Amazon that you can get by Christmas](https://appleinsider.com/articles/22/12/18/top-apple-deals-on-amazon-that-you-can-get-by-christmas?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
