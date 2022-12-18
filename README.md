@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chances are, it is](http://9gag.com/gag/a7q31dx)
- - 🚯 [Rendering problems irl](http://9gag.com/gag/aL1gpzP)
- - 🚯 [Cats like warm places](http://9gag.com/gag/aYVYrE0)<!-- MEMES:END -->
+ - 🚖 [Clamping on to life](http://9gag.com/gag/abvYY2b)
+ - 🚯 [When you&#39;re late for work but you&#39;re unemployed](http://9gag.com/gag/aZDLyVp)
+ - 🚯 [This stone effortlessly crumbling into smaller rocks](http://9gag.com/gag/amAB7Nd)<!-- MEMES:END -->
 
 --- 
 
