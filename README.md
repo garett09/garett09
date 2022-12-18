@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bones and All finds fresh new blood in an age-old young-love story](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)
  - [Zotac GeForce RTX 4080 AMP Extreme Airo](https://www.pcgamer.com/zotac-geforce-rtx-4080-amp-extreme-airo)
- - [Avatar 2 took forever because James Cameron had to make sure Avatar 4 was ready to shoot](https://www.polygon.com/23502100/avatar-2-way-water-delay-explained)
- - [PSA: One of our favorite games of 2021 is free to keep on the Epic Games Store today](https://www.pcgamer.com/psa-one-of-our-favorite-games-of-2021-is-free-to-keep-on-the-epic-games-store-today)<!-- GAME:END -->
+ - [Avatar 2 took forever because James Cameron had to make sure Avatar 4 was ready to shoot](https://www.polygon.com/23502100/avatar-2-way-water-delay-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
