@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [40 years after being canceled, the D&amp;D cartoon will return as a comic](https://www.pcgamer.com/40-years-after-being-canceled-the-dandd-cartoon-will-return-as-a-comic)
  - [ArtStation will allow artists to opt out of AI programs using their creations, but concerns remain](https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain)
- - [Automate the collapse of reality in clicker Antimatter Dimensions, now on Steam](https://www.pcgamer.com/automate-the-collapse-of-reality-in-clicker-antimatter-dimensions-now-on-steam)
- - [Maupiti Island was a detective game unlike any other](https://www.pcgamer.com/saturday-crapshoot-maupiti-island)<!-- GAME:END -->
+ - [Automate the collapse of reality in clicker Antimatter Dimensions, now on Steam](https://www.pcgamer.com/automate-the-collapse-of-reality-in-clicker-antimatter-dimensions-now-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
