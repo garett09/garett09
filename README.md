@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter won’t matter for a while, but don’t let that crush your smart home dreams](https://www.androidauthority.com/matter-smart-home-limitation-3255054/)
- - [These At-Home Skincare Tools Make Beauty Feel Accessible](https://www.wired.com/story/at-home-beauty-tools-rave-theraface-pro-dermaflash-luxe-shark-flexstyle/)
- - [Apple scales back plans for &#39;Extreme&#39; Apple Silicon Mac Pro](https://appleinsider.com/articles/22/12/18/apple-scales-back-plans-for-extreme-apple-silicon-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Pro Display XDR update with Apple Silicon one of many in-development monitors](https://appleinsider.com/articles/22/12/18/pro-display-xdr-update-with-apple-silicon-one-of-many-in-development-monitors?utm_medium=rss)
+ - [At-Home COVID Test Recall: Check If Yours Are Affected     - CNET](https://www.cnet.com/health/medical/at-home-covid-test-recall-check-if-yours-are-affected/#ftag=CAD590a51e)
+ - [Crime blotter: Apple Store robbed at gunpoint, UPS driver stealing iPhones, more](https://appleinsider.com/articles/22/12/18/crime-blotter-apple-store-robbed-with-semiautomatic-gun?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
