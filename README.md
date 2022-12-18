@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [HTC is making a new VR headset to compete with the Quest 2](https://www.pcgamer.com/htc-is-making-a-new-vr-headset-to-compete-with-the-quest-2)
  - [Warcraft 3 Re-Reforged mod follows through on Blizzard promises](https://www.pcgamer.com/warcraft-3-re-reforged-mod-follows-through-on-blizzard-promises)
- - [40 years after being canceled, the D&amp;D cartoon will return as a comic](https://www.pcgamer.com/40-years-after-being-canceled-the-dandd-cartoon-will-return-as-a-comic)
- - [ArtStation will allow artists to opt out of AI programs using their creations, but concerns remain](https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain)<!-- GAME:END -->
+ - [40 years after being canceled, the D&amp;D cartoon will return as a comic](https://www.pcgamer.com/40-years-after-being-canceled-the-dandd-cartoon-will-return-as-a-comic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
