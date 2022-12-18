@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Haylou PurFree headphones review: A solid open-ear option](https://appleinsider.com/articles/22/12/18/haylou-purfree-headphones-review-a-solid-open-ear-option?utm_medium=rss)
- - [Twitter will remove accounts made to &quot;promote other social platforms&quot; and content that has links or usernames to Facebook, Mastodon, and others &lpar;@twittersupport&rpar;](http://www.techmeme.com/221218/p5#a221218p5)
- - [Target Is Offering Big Discounts on Next-Gen Video Games, Consoles and More     - CNET](https://www.cnet.com/deals/target-is-offering-big-discounts-on-next-gen-video-games-consoles-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I don’t lose sleep over sleep-tracking data and neither should you](https://www.androidauthority.com/sleep-tracking-data-3244348/)
+ - [Twitter Bans Accounts Promoting Other Social Networks     - CNET](https://www.cnet.com/news/social-media/twitter-bans-accounts-promoting-other-social-networks/#ftag=CAD590a51e)
+ - [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
