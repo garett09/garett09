@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Free overnight shipping on 100s of gift ideas at B&amp;H Photo](https://appleinsider.com/articles/22/12/18/free-overnight-shipping-on-100s-of-gift-ideas-at-bh-photo?utm_medium=rss)
  - [A Q&amp;A with CA Rep. Ro Khanna about Elon Musk, being mentioned in the &quot;Twitter Files&quot;, passing antitrust and privacy laws, cryptocurrencies, FTX, and more &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/221218/p1#a221218p1)
- - [Report: Huawei accounts for 59% of Germany&#39;s 5G radio access network equipment compared to 57% in 4G networks, despite intense diplomatic pressure from the US &lpar;Sarah Marsh/Reuters&rpar;](http://www.techmeme.com/221217/p19#a221217p19)
- - [Netflix, HBO Max, and other streaming services scale back on experimental content that caters to smaller audiences, amid rising costs and increased competition &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/221217/p18#a221217p18)<!-- TECH:END -->
+ - [Report: Huawei accounts for 59% of Germany&#39;s 5G radio access network equipment compared to 57% in 4G networks, despite intense diplomatic pressure from the US &lpar;Sarah Marsh/Reuters&rpar;](http://www.techmeme.com/221217/p19#a221217p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
