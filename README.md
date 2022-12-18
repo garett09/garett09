@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn\u2019t last long](http://9gag.com/gag/aYVY43V)
- - 🚯 [How to deal with online harassament 101](http://9gag.com/gag/aqeKeLL)
- - 🚯 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)<!-- MEMES:END -->
+ - 🚖 [Chances are, it is](http://9gag.com/gag/a7q31dx)
+ - 🚯 [Rendering problems irl](http://9gag.com/gag/aL1gpzP)
+ - 🚯 [Cats like warm places](http://9gag.com/gag/aYVYrE0)<!-- MEMES:END -->
 
 --- 
 
