@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Free wifi](http://9gag.com/gag/aeQrAnj)
- - 🚯 [Didn\u2019t last long](http://9gag.com/gag/aYVY43V)
- - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
+ - 🚖 [Didn\u2019t last long](http://9gag.com/gag/aYVY43V)
+ - 🚯 [How to deal with online harassament 101](http://9gag.com/gag/aqeKeLL)
+ - 🚯 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)<!-- MEMES:END -->
 
 --- 
 
