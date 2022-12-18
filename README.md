@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 547 answer and hint for Sunday, December 18](https://www.pcgamer.com/wordle-547-answer-december-18)
  - [Darktide made us hungry for sick Warhammer 40K art, so here&#39;s 40 wallpapers for your desktop or phone](https://www.pcgamer.com/darktide-made-us-hungry-for-sick-warhammer-40k-art-so-heres-40-wallpapers-for-your-desktop-or-phone)
- - [HTC is making a new VR headset to compete with the Quest 2](https://www.pcgamer.com/htc-is-making-a-new-vr-headset-to-compete-with-the-quest-2)
- - [Warcraft 3 Re-Reforged mod follows through on Blizzard promises](https://www.pcgamer.com/warcraft-3-re-reforged-mod-follows-through-on-blizzard-promises)<!-- GAME:END -->
+ - [HTC is making a new VR headset to compete with the Quest 2](https://www.pcgamer.com/htc-is-making-a-new-vr-headset-to-compete-with-the-quest-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
