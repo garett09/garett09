@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)
- - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
+ - 🚖 [Song of the year](http://9gag.com/gag/ajV8mAx)
+ - 🚯 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
+ - 🚯 [Thank you for the Best Final of my life!](http://9gag.com/gag/a5XMV6g)<!-- MEMES:END -->
 
 --- 
 
