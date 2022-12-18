@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Streamer xQc Says He Put $500,000 On France To Win The World Cup, Womp](https://kotaku.com/world-cup-final-bet-argentina-france-xqc-lose-money-1849909003)
  - [Make some nice outdoor spaces in this digital toy about gardening](https://www.pcgamer.com/make-some-nice-outdoor-spaces-in-this-digital-toy-about-gardening)
- - [Climb some psychic crystals and get dreamcrungled in the latest Caves of Qud release](https://www.pcgamer.com/climb-some-psychic-crystals-and-get-dreamcrungled-in-the-latest-caves-of-qud-release)
- - [Bones and All finds fresh new blood in an age-old young-love story](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)<!-- GAME:END -->
+ - [Climb some psychic crystals and get dreamcrungled in the latest Caves of Qud release](https://www.pcgamer.com/climb-some-psychic-crystals-and-get-dreamcrungled-in-the-latest-caves-of-qud-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
