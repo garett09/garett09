@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s Magic Remote is what finally got me to leave Roku behind](https://www.androidauthority.com/lg-magic-remote-3245846/)
- - [Grab Your Last-Minute Gifts During the Final Day of Best Buy&#39;s Weekend Sale     - CNET](https://www.cnet.com/deals/best-buy-launches-48-hour-weekend-sale-full-of-last-minute-gift-ideas/#ftag=CAD590a51e)
- - [Lions vs. Jets Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-jets-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Haylou PurFree headphones review: A solid open-ear option](https://appleinsider.com/articles/22/12/18/haylou-purfree-headphones-review-a-solid-open-ear-option?utm_medium=rss)
+ - [Twitter will remove accounts made to &quot;promote other social platforms&quot; and content that has links or usernames to Facebook, Mastodon, and others &lpar;@twittersupport&rpar;](http://www.techmeme.com/221218/p5#a221218p5)
+ - [Target Is Offering Big Discounts on Next-Gen Video Games, Consoles and More     - CNET](https://www.cnet.com/deals/target-is-offering-big-discounts-on-next-gen-video-games-consoles-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
