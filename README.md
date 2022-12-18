@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PSA: One of our favorite games of 2021 is free to keep on the Epic Games Store today](https://www.pcgamer.com/psa-one-of-our-favorite-games-of-2021-is-free-to-keep-on-the-epic-games-store-today)
  - [Netflix let Birdman’s director go as big and self-indulgent as he wanted on Bardo](https://www.polygon.com/23462465/bardo-review-netflix-birdman-director-alejandro-g-inarritu)
- - [The 13 best sci-fi movies since Avatar](https://www.polygon.com/23500600/best-sci-fi-movies-since-avatar)
- - [Harrison Ford isn’t even the best thing about Yellowstone spinoff 1923](https://www.polygon.com/23513426/yellowstone-1923-review-harrison-ford)<!-- GAME:END -->
+ - [The 13 best sci-fi movies since Avatar](https://www.polygon.com/23500600/best-sci-fi-movies-since-avatar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
