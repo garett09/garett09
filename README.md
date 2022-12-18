@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clamping on to life](http://9gag.com/gag/abvYY2b)
- - 🚯 [When you&#39;re late for work but you&#39;re unemployed](http://9gag.com/gag/aZDLyVp)
- - 🚯 [This stone effortlessly crumbling into smaller rocks](http://9gag.com/gag/amAB7Nd)<!-- MEMES:END -->
+ - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)
+ - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
 
 --- 
 
