@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [When you&#39;re late for work but you&#39;re unemployed](http://9gag.com/gag/aZDLyVp)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)<!-- MEMES:END -->
+ - 🚖 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)
+ - 🚯 [Pranking a chef](http://9gag.com/gag/a9qK18m)
+ - 🚯 [I don&#39;t know what this is, but I want to eat it](http://9gag.com/gag/aYVYVD7)<!-- MEMES:END -->
 
 --- 
 
