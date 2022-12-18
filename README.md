@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Zotac GeForce RTX 4080 AMP Extreme Airo](https://www.pcgamer.com/zotac-geforce-rtx-4080-amp-extreme-airo)
  - [Avatar 2 took forever because James Cameron had to make sure Avatar 4 was ready to shoot](https://www.polygon.com/23502100/avatar-2-way-water-delay-explained)
- - [PSA: One of our favorite games of 2021 is free to keep on the Epic Games Store today](https://www.pcgamer.com/psa-one-of-our-favorite-games-of-2021-is-free-to-keep-on-the-epic-games-store-today)
- - [Netflix let Birdman’s director go as big and self-indulgent as he wanted on Bardo](https://www.polygon.com/23462465/bardo-review-netflix-birdman-director-alejandro-g-inarritu)<!-- GAME:END -->
+ - [PSA: One of our favorite games of 2021 is free to keep on the Epic Games Store today](https://www.pcgamer.com/psa-one-of-our-favorite-games-of-2021-is-free-to-keep-on-the-epic-games-store-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
