@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evolv Terra Review: A Powerful Dual-Motor Escooter](https://www.wired.com/review/evolv-terra/)
- - [A New Discipline Pushes Back Against Sowing Doubt](https://www.wired.com/story/agnotology-misinformation-opinion/)
- - [As Someone Who Cooks, Here Are a Few Gifts I Would Love to Receive     - CNET](https://www.cnet.com/news/best-gifts-for-a-food-or-chef/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Watch 5 Pro is Android Authority’s pick for best wearable of 2022](https://www.androidauthority.com/best-smartwatch-fitness-tracker-2022-editors-choice-3249711/)
+ - [Physicists Rewrite a Quantum Rule That Clashes With Our Universe](https://www.wired.com/story/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe/)
+ - [How to Use Google Health Connect](https://www.wired.com/story/how-to-use-google-health-connect/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
