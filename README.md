@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn\u2019t last long](http://9gag.com/gag/aYVY43V)
- - 🚯 [Old people will know](http://9gag.com/gag/aMEZxDA)
- - 🚯 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)<!-- MEMES:END -->
+ - 🚖 [Free wifi](http://9gag.com/gag/aeQrAnj)
+ - 🚯 [Tribal rep George Gillette crying as 154,000 acres of land is signed away for a new dam in North Dakota in 1948](http://9gag.com/gag/a1PQrLP)
+ - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
 
 --- 
 
