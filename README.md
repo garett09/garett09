@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tough decision](http://9gag.com/gag/aMEZZER)
- - 🚯 [Rock, Paper, Scissors](http://9gag.com/gag/a9qKyZj)
- - 🚯 [Good joke but shut up](http://9gag.com/gag/a8q3AbO)<!-- MEMES:END -->
+ - 🚖 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)
+ - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)<!-- MEMES:END -->
 
 --- 
 
