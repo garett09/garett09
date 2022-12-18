@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Gangsta gangsta](http://9gag.com/gag/a9qKpA6)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)
- - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
+ - 🚯 [In Russia, an officer informs a family that their son died in Ukraine. He hands them a medal with the words `CONGRATULATIONS TO YOU!`. Mother is not patriotic enough, so she is not happy about congratulations](http://9gag.com/gag/az29eNB)
+ - 🚯 [Rooster and dog](http://9gag.com/gag/aL1g1pM)<!-- MEMES:END -->
 
 --- 
 
