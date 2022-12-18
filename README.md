@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harrison Ford isn’t even the best thing about Yellowstone spinoff 1923](https://www.polygon.com/23513426/yellowstone-1923-review-harrison-ford)
- - [Today&#39;s Wordle 547 answer and hint for Sunday, December 18](https://www.pcgamer.com/wordle-547-answer-december-18)
- - [Darktide made us hungry for sick Warhammer 40K art, so here&#39;s 40 wallpapers for your desktop or phone](https://www.pcgamer.com/darktide-made-us-hungry-for-sick-warhammer-40k-art-so-heres-40-wallpapers-for-your-desktop-or-phone)<!-- GAME:END -->
+ - [Netflix let Birdman’s director go as big and self-indulgent as he wanted on Bardo](https://www.polygon.com/23462465/bardo-review-netflix-birdman-director-alejandro-g-inarritu)
+ - [The 13 best sci-fi movies since Avatar](https://www.polygon.com/23500600/best-sci-fi-movies-since-avatar)
+ - [Harrison Ford isn’t even the best thing about Yellowstone spinoff 1923](https://www.polygon.com/23513426/yellowstone-1923-review-harrison-ford)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
