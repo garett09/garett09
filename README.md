@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
- - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
- - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 🚖 [1744 your wife is cheating.](http://9gag.com/gag/aXnYPdV)
+ - 🚯 [Coffee?](http://9gag.com/gag/aVbYmry)
+ - 🚯 [The Evolution of Wednesday Addams](http://9gag.com/gag/ajV8xAQ)<!-- MEMES:END -->
 
 --- 
 
