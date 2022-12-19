@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says polls will decide major policies at Twitter and then launches a poll that asks &quot;Should I step down as head of Twitter?&quot;; &quot;Yes&quot; is leading by 10%+ &lpar;Washington Post&rpar;](http://www.techmeme.com/221218/p8#a221218p8)
- - [Mastodon Features That Twitter Should Steal &lpar;but Won’t&rpar;](https://www.wired.com/story/mastodon-features-that-twitter-should-steal-but-wont/)
- - [Here Are Taco Bell&#39;s 2 New Mexican Pizzas     - CNET](https://www.cnet.com/culture/here-are-taco-bells-2-new-mexican-pizzas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Avatar: The Way of Water&#39; Ending Explained, Unanswered Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-unanswered-questions/#ftag=CAD590a51e)
+ - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Lands on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-lands-on-hbo-max/#ftag=CAD590a51e)
+ - [Elon Musk proposes stepping down as head of Twitter in poll](https://www.theverge.com/2022/12/18/23515764/elon-musk-head-twit-poll-tesla-doxxing-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
