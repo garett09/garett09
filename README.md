@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamer xQc Says He Put $500,000 On France To Win The World Cup, Womp](https://kotaku.com/world-cup-final-bet-argentina-france-xqc-lose-money-1849909003)
- - [Make some nice outdoor spaces in this digital toy about gardening](https://www.pcgamer.com/make-some-nice-outdoor-spaces-in-this-digital-toy-about-gardening)
- - [Climb some psychic crystals and get dreamcrungled in the latest Caves of Qud release](https://www.pcgamer.com/climb-some-psychic-crystals-and-get-dreamcrungled-in-the-latest-caves-of-qud-release)<!-- GAME:END -->
+ - [Whoa Scoob, Shaggy&#39;s gonna be like, the bad guy in a Five Nights at Freddy&#39;s movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)
+ - [Collectible tactics game Duelyst is back, and free as ever, in Duelyst 2](https://www.pcgamer.com/collectible-tactics-game-duelyst-is-back-and-free-as-ever-in-duelyst-2)
+ - [Streamer xQc Says He Put $500,000 On France To Win The World Cup, Womp](https://kotaku.com/world-cup-final-bet-argentina-france-xqc-lose-money-1849909003)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
