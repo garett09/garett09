@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
+ - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
+ - 🚯 [The point](http://9gag.com/gag/a1PQ062)
+ - 🚯 [Thought it might be appreciated here.](http://9gag.com/gag/avQ8EEX)<!-- MEMES:END -->
 
 --- 
 
