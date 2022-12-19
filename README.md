@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
  - 🚯 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
- - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 🚯 [Elon Dogg Snoop Musk](http://9gag.com/gag/aeQrOEQ)<!-- MEMES:END -->
 
 --- 
 
