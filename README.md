@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
  - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
- - 🚯 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
+ - 🚯 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)<!-- MEMES:END -->
 
 --- 
 
