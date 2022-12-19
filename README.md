@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud Shared Photo Library vs. Shared Albums in Photos](https://appleinsider.com/inside/icloud/vs/icloud-shared-photo-library-vs-shared-albums-in-photos?utm_medium=rss)
- - [Crypto.com&#39;s 2022 World Cup sponsorship, a symbol of how aggressively crypto companies spent on ads to gain users, was largely overshadowed by FTX&#39;s collapse &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/221219/p10#a221219p10)
- - [The Chilling White Lotus Scene That Epitomized 2022](https://www.wired.com/story/white-lotus-scene-epitomized-2022/)<!-- TECH:END -->
+ - [Apple iOS 16 and iPadOS 16 &lpar;2022&rpar;: How to Download, New Features, Supported Devices](https://www.wired.com/story/apple-iphone-ios-16-ipados-16-new-features/)
+ - [Empathy in the Age of AI](https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/)
+ - [YouTube announces Courses in India, letting teachers post videos and reading materials for free or for a fee in several regional languages, rolling out &quot;soon&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221219/p12#a221219p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
