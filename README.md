@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t go out on dates with guys who don&#39;t open the doors f...](http://9gag.com/gag/axozW8M)
- - 🚯 [Police in SWAT gear fear for their safety.](http://9gag.com/gag/a4oQ3gw)
- - 🚯 [Old people will know](http://9gag.com/gag/aMEZxDA)<!-- MEMES:END -->
+ - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
+ - 🚯 [Buenos Aires after Argentina won the World cup!](http://9gag.com/gag/aNwY96w)
+ - 🚯 [Fact Checked: TRUE](http://9gag.com/gag/armG3jK)<!-- MEMES:END -->
 
 --- 
 
