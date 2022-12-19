@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As I see 9GAG now...](http://9gag.com/gag/aoKeWXA)
+ - 🚖 [Catch it](http://9gag.com/gag/a4oQzVv)
  - 🚯 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
- - 🚯 [Every man is born knowing this signal](http://9gag.com/gag/aPgYPwg)<!-- MEMES:END -->
+ - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 --- 
 
