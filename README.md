@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - 🚯 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)
+ - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 🚯 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
  - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 --- 
