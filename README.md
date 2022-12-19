@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon brings Matter to Echo devices, plugs, bulbs, and other devices you own](https://www.androidauthority.com/amazon-alexa-matter-3257894/)
- - [Analysis of Elon Musk&#39;s reported attempts to raise more money for Twitter via an equity sale at an absurd price, why his successor will be unpopular, and more &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221219/p24#a221219p24)
- - [How to use Lensa and its AI art features on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-use-lensa-and-its-ai-art-features-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube’s testing out Courses, multiple audio tracks, and easier search](https://www.theverge.com/2022/12/19/23517317/youtube-courses-audio-tracks-text-search)
+ - [More People Need to Watch This Absolutely Riveting Mystery on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-absolutely-riveting-mystery-on-prime-video/#ftag=CAD590a51e)
+ - [Historic Agreement to Fight Biodiversity Loss Signed at UN Conference     - CNET](https://www.cnet.com/science/climate/historic-agreement-to-fight-biodiversity-loss-signed-at-un-conference/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
