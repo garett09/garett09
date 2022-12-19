@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jane Goodall take the rehabilitated chimpanzee, back into the wild, and he is incredibly thankful to her. \ud83c\udfa5 Jane Goodall](http://9gag.com/gag/ajV87O1)
- - 🚯 [Old people will know](http://9gag.com/gag/aMEZxDA)
- - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
+ - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - 🚯 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)
+ - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 --- 
 
