@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s testing out Courses, multiple audio tracks, and easier search](https://www.theverge.com/2022/12/19/23517317/youtube-courses-audio-tracks-text-search)
- - [More People Need to Watch This Absolutely Riveting Mystery on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-absolutely-riveting-mystery-on-prime-video/#ftag=CAD590a51e)
- - [Historic Agreement to Fight Biodiversity Loss Signed at UN Conference     - CNET](https://www.cnet.com/science/climate/historic-agreement-to-fight-biodiversity-loss-signed-at-un-conference/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ImagenAI, which uses AI to help photographers edit photos and automate post-production work, raised $30M from Summit Partners, bringing total raised to $34M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221219/p25#a221219p25)
+ - [Apple shares details of AirTag firmware updates](https://appleinsider.com/articles/22/12/19/apple-shares-details-of-airtag-firmware-updates?utm_medium=rss)
+ - [More People Need to Watch This Spanish Time Travel Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-spanish-time-travel-gem-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
