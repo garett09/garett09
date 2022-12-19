@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
- - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
+ - 🚖 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
+ - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 --- 
 
