@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - 🚯 [Buenos Aires after Argentina won the World cup!](http://9gag.com/gag/aNwY96w)
- - 🚯 [Fact Checked: TRUE](http://9gag.com/gag/armG3jK)<!-- MEMES:END -->
+ - 🚖 [Jane Goodall take the rehabilitated chimpanzee, back into the wild, and he is incredibly thankful to her. \ud83c\udfa5 Jane Goodall](http://9gag.com/gag/ajV87O1)
+ - 🚯 [Old people will know](http://9gag.com/gag/aMEZxDA)
+ - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
 
 --- 
 
