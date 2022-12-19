@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
- - 🚯 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)<!-- MEMES:END -->
+ - 🚯 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
 
 --- 
 
