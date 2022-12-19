@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helm.ai, which uses an unsupervised learning approach to its autonomous driving software, raised a $31M Series C led by Freeman Group at a $431M valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/221219/p23#a221219p23)
- - [Paris Commercial Court fines Apple over &#39;abusive&#39; App Store policy](https://appleinsider.com/articles/22/12/19/paris-commercial-court-fines-apple-over-abusive-app-store-policy?utm_medium=rss)
- - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-catch-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 11 series: What we know so far, what we want to see &lpar;Updated: Dec. 19&rpar;](https://www.androidauthority.com/oneplus-11-pro-3177299/)
+ - [Binance.US announces deal to acquire assets of bankrupt crypto firm Voyager](https://www.theverge.com/2022/12/19/23516961/binance-us-bankrupt-voyager-crypto-acquire-assets)
+ - [With These Three Wordle Starter Words It&#39;s Hard to Lose     - CNET](https://www.cnet.com/culture/with-these-three-wordle-starter-words-its-hard-to-lose/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
