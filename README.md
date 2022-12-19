@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [1744 your wife is cheating.](http://9gag.com/gag/aXnYPdV)
- - 🚯 [Coffee?](http://9gag.com/gag/aVbYmry)
- - 🚯 [The Evolution of Wednesday Addams](http://9gag.com/gag/ajV8xAQ)<!-- MEMES:END -->
+ - 🚯 [FBI open up !! Ohhh](http://9gag.com/gag/aWGYoZd)
+ - 🚯 [Use your words](http://9gag.com/gag/aqeKx7M)<!-- MEMES:END -->
 
 --- 
 
