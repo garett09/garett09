@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of ex-FTX Digital Markets co-CEO Ryan Salame, a big GOP donor who emerged as a central player in the FTX scandal after flagging fraud to regulators &lpar;New York Times&rpar;](http://www.techmeme.com/221218/p7#a221218p7)
- - [Best weather apps for iPhone, iPad, and Mac in 2022](https://appleinsider.com/inside/ios/best/best-weather-apps-for-iphone-ipad-and-mac-in-2022?utm_medium=rss)
- - [Top Apple deals on Amazon that you can get by Christmas](https://appleinsider.com/articles/22/12/18/top-apple-deals-on-amazon-that-you-can-get-by-christmas?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk says polls will decide major policies at Twitter and then launches a poll that asks &quot;Should I step down as head of Twitter?&quot;; &quot;Yes&quot; is leading by 10%+ &lpar;Washington Post&rpar;](http://www.techmeme.com/221218/p8#a221218p8)
+ - [Mastodon Features That Twitter Should Steal &lpar;but Won’t&rpar;](https://www.wired.com/story/mastodon-features-that-twitter-should-steal-but-wont/)
+ - [Here Are Taco Bell&#39;s 2 New Mexican Pizzas     - CNET](https://www.cnet.com/culture/here-are-taco-bells-2-new-mexican-pizzas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
