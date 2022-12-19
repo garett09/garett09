@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When civil war comes to Europe, they will say no one knew why](http://9gag.com/gag/aXnYgXv)
+ - 🚖 [You laugh u got to hell.](http://9gag.com/gag/aDY1D99)
  - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [Need more time](http://9gag.com/gag/armGow0)<!-- MEMES:END -->
+ - 🚯 [Everything?!?](http://9gag.com/gag/a8q3qeZ)<!-- MEMES:END -->
 
 --- 
 
