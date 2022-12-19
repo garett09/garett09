@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catch it](http://9gag.com/gag/a4oQzVv)
- - 🚯 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
+ - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
  - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 --- 
