@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
- - 🚯 [Elon Dogg Snoop Musk](http://9gag.com/gag/aeQrOEQ)<!-- MEMES:END -->
+ - 🚖 [As I see 9GAG now...](http://9gag.com/gag/aoKeWXA)
+ - 🚯 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
+ - 🚯 [Every man is born knowing this signal](http://9gag.com/gag/aPgYPwg)<!-- MEMES:END -->
 
 --- 
 
