@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Mickey Mouse Christmas shorts aren’t on Disney Plus](https://www.polygon.com/23511326/mickey-magical-christmas-snowed-house-mouse-nutcracker)
- - [Marvel Snap Has A Whole Ton Of Plans For 2023](https://kotaku.com/marvel-snap-second-dinner-features-card-battler-2023-1849910339)
- - [Where to find the Valor vendor in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-valor-vendor)<!-- GAME:END -->
+ - [FIFA video game correctly predicts its fourth — and likely last — World Cup winner in a row](https://www.polygon.com/23517126/fifa-23-world-cup-prediction-correct-ea-sports-argentina)
+ - [Witcher 3 Hotfix Should Help Stop It From Crashing So Much On PC](https://kotaku.com/witcher-3-pc-next-gen-upgrade-crash-framerate-ray-trace-1849910781)
+ - [Some people say I love you, Tom Cruise jumps out of airplanes](https://www.polygon.com/23516948/mission-impossible-dead-reckoning-tom-cruise-stunt-i-cant-believe-this-man)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
