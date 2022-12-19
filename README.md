@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia ends support for its GameStream feature on Shield devices](https://www.theverge.com/2022/12/19/23516370/nvidia-gamestream-feature-shield-devices-end-of-support)
- - [A deep dive into the race to develop a quantum computer, which could help address climate change and food scarcity, break current encryption protocols, and more &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/221219/p7#a221219p7)
- - [Microsoft Teams Premium is now available as a free 30-day trial](https://www.theverge.com/2022/12/19/23516363/microsoft-teams-premium-available-beta-free-trial-price-announcement)<!-- TECH:END -->
+ - [iCloud Shared Photo Library vs. Shared Albums in Photos](https://appleinsider.com/inside/icloud/vs/icloud-shared-photo-library-vs-shared-albums-in-photos?utm_medium=rss)
+ - [Crypto.com&#39;s 2022 World Cup sponsorship, a symbol of how aggressively crypto companies spent on ads to gain users, was largely overshadowed by FTX&#39;s collapse &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/221219/p10#a221219p10)
+ - [The Chilling White Lotus Scene That Epitomized 2022](https://www.wired.com/story/white-lotus-scene-epitomized-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
