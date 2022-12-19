@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A murder story](http://9gag.com/gag/aeQrOzQ)
- - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
- - 🚯 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
+ - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 --- 
 
