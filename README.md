@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Useful muffler knot](http://9gag.com/gag/abvYA8b)
- - 🚯 [After 36 years](http://9gag.com/gag/a8q3AgZ)
- - 🚯 [Last penalty from the streets of Buenos Aires](http://9gag.com/gag/aQERQnw)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t go out on dates with guys who don&#39;t open the doors f...](http://9gag.com/gag/axozW8M)
+ - 🚯 [Police in SWAT gear fear for their safety.](http://9gag.com/gag/a4oQ3gw)
+ - 🚯 [Old people will know](http://9gag.com/gag/aMEZxDA)<!-- MEMES:END -->
 
 --- 
 
