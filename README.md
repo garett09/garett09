@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ offers first look &#39;Liaison&#39; ahead of Feb. 24 premiere](https://appleinsider.com/articles/22/12/19/apple-tv-offers-first-look-liaison-ahead-of-feb-24-premiere?utm_medium=rss)
- - [Apple has a key advantage over Meta in augmented reality](https://appleinsider.com/articles/22/12/19/apple-has-a-key-advantage-over-meta-in-augmented-reality?utm_medium=rss)
- - [The Metropolitan Opera restarts processing ticket orders, nine days after a suspected ransomware attack took its website offline and paralyzed its box office &lpar;Dan Bilefsky/New York Times&rpar;](http://www.techmeme.com/221219/p20#a221219p20)<!-- TECH:END -->
+ - [What does my perfect 2022 smartphone look like?](https://www.androidauthority.com/perfect-smartphone-2022-3243847/)
+ - [The Mystery of Nevada’s Ancient Reptilian Boneyard](https://www.wired.com/story/the-mystery-of-nevadas-ancient-reptilian-boneyard/)
+ - [Editing videos takes forever, Wondershare Filmora 12 sets creators free](https://www.androidauthority.com/wondershare-filmora-12-3250579/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
