@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon replaces MacBook Pro order with dog food](https://appleinsider.com/articles/22/12/19/amazon-replaces-macbook-pro-order-with-dog-food?utm_medium=rss)
- - [The DOJ says Karl Sebastian Greenwood, who co-founded the $4B+ fraudulent OneCoin scheme, has pleaded guilty to wire fraud and other charges &lpar;Associated Press&rpar;](http://www.techmeme.com/221219/p16#a221219p16)
- - [Your custom Android home screens really wowed us in 2022!](https://www.androidauthority.com/android-home-screens-2022-3242895/)<!-- TECH:END -->
+ - [Apple TV+ offers first look &#39;Liaison&#39; ahead of Feb. 24 premiere](https://appleinsider.com/articles/22/12/19/apple-tv-offers-first-look-liaison-ahead-of-feb-24-premiere?utm_medium=rss)
+ - [Apple has a key advantage over Meta in augmented reality](https://appleinsider.com/articles/22/12/19/apple-has-a-key-advantage-over-meta-in-augmented-reality?utm_medium=rss)
+ - [The Metropolitan Opera restarts processing ticket orders, nine days after a suspected ransomware attack took its website offline and paralyzed its box office &lpar;Dan Bilefsky/New York Times&rpar;](http://www.techmeme.com/221219/p20#a221219p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
