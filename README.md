@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
+ - 🚖 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
+ - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
  - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 --- 
