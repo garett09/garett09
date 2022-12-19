@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA video game correctly predicts its fourth — and likely last — World Cup winner in a row](https://www.polygon.com/23517126/fifa-23-world-cup-prediction-correct-ea-sports-argentina)
- - [Witcher 3 Hotfix Should Help Stop It From Crashing So Much On PC](https://kotaku.com/witcher-3-pc-next-gen-upgrade-crash-framerate-ray-trace-1849910781)
- - [Some people say I love you, Tom Cruise jumps out of airplanes](https://www.polygon.com/23516948/mission-impossible-dead-reckoning-tom-cruise-stunt-i-cant-believe-this-man)<!-- GAME:END -->
+ - [The Best Way To Get Pokémon Scarlet &amp; Violet’s Only Cinderace](https://kotaku.com/pokemon-scarlet-violet-cinderace-tera-raid-best-moveset-1849911055)
+ - [Epic slammed with half-a-billion dollar FTC fine in landmark ruling over Fortnite&#39;s failure to protect childrens&#39; privacy](https://www.pcgamer.com/Epic-slammed-with-half-a-billion-dollar-FTC-fine-in-landmark-ruling-over-Fortnites-failure-to-protect-childrens-privacy)
+ - [FIFA video game correctly predicts its fourth — and likely last — World Cup winner in a row](https://www.polygon.com/23517126/fifa-23-world-cup-prediction-correct-ea-sports-argentina)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
