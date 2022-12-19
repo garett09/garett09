@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - 🚯 [The point](http://9gag.com/gag/a1PQ062)
- - 🚯 [Thought it might be appreciated here.](http://9gag.com/gag/avQ8EEX)<!-- MEMES:END -->
+ - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 --- 
 
