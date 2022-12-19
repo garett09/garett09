@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - 🚯 [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - 🚯 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
+ - 🚖 [A murder story](http://9gag.com/gag/aeQrOzQ)
+ - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
+ - 🚯 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
 
 --- 
 
