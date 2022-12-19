@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You laugh u got to hell.](http://9gag.com/gag/aDY1D99)
- - 🚯 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 🚯 [Everything?!?](http://9gag.com/gag/a8q3qeZ)<!-- MEMES:END -->
+ - 🚖 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 🚯 [Need more time](http://9gag.com/gag/armGow0)
+ - 🚯 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)<!-- MEMES:END -->
 
 --- 
 
