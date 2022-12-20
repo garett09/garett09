@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Argentina&#39;s coach expression after winning world cup. trying so hard not to gets emotional, but in the end he can&#39;t hold it.](http://9gag.com/gag/az29OOz)
- - 🚯 [Dog Driver](http://9gag.com/gag/aPgYQAQ)
- - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
+ - 🚖 [Window!? what a luxury](http://9gag.com/gag/aA032jp)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
+ - 🚯 [The sad truth.](http://9gag.com/gag/a8q3eoY)<!-- MEMES:END -->
 
 --- 
 
