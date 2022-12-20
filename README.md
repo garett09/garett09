@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peek a boo!](http://9gag.com/gag/aXnY2g6)
- - 🚯 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)
- - 🚯 [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)<!-- MEMES:END -->
+ - 🚖 [Man&#39;s bestfriend](http://9gag.com/gag/aoKeLBn)
+ - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
+ - 🚯 [That&#39;s the attitude!!](http://9gag.com/gag/aQER27d)<!-- MEMES:END -->
 
 --- 
 
