@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man&#39;s bestfriend](http://9gag.com/gag/aoKeLBn)
+ - 🚖 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
  - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
- - 🚯 [That&#39;s the attitude!!](http://9gag.com/gag/aQER27d)<!-- MEMES:END -->
+ - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 --- 
 
