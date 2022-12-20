@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Support charity and win a set of Winter Wonderland gaming peripherals by entering our giveaway!](https://www.pcgamer.com/support-charity-and-win-a-set-of-winter-wonderland-gaming-peripherals-by-entering-our-giveaway)
- - [Activision Blizzard President Leaves To Take Over Bored Ape Yacht Club](https://kotaku.com/activision-blizzard-daniel-alegre-yuga-labs-bayc-ceo-1849914535)
- - [PS.Blog Game of the Year 2022: The Winners](https://blog.playstation.com/2022/12/20/ps-blog-game-of-the-year-2022-the-winners/)<!-- GAME:END -->
+ - [James Cameron scrapped a Na’vi space battle from Avatar 2 that would have been incredible](https://www.polygon.com/23517363/avatar-way-water-navi-space-battle-deleted-scene-high-ground-sequel)
+ - [Sony&#39;s solution to poor DualSense Edge wireless battery life: Plug it in](https://www.pcgamer.com/sonys-solution-to-poor-dualsense-edge-wireless-battery-life-plug-it-in)
+ - [Support charity and win a set of Winter Wonderland gaming peripherals by entering our giveaway!](https://www.pcgamer.com/support-charity-and-win-a-set-of-winter-wonderland-gaming-peripherals-by-entering-our-giveaway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
