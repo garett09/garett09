@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Bergmite be shiny?](https://www.polygon.com/pokemon-go-guide/23518996/can-bergmite-be-shiny-form-spotlight-hour-december-20)
- - [Call Of Duty&#39;s Year-Defining New Mode Is Everything Shooters Should Aspire To Be](https://kotaku.com/call-of-duty-dmz-2022-warzone-modern-warfare-extraction-1849915175)
- - [The 25 Best Games On Xbox Game Pass](https://kotaku.com/the-12-best-games-on-xbox-game-pass-1841477023)<!-- GAME:END -->
+ - [Overwatch 2’s cheapest skin is this 1-coin Gingerbread Bastion](https://www.polygon.com/23519171/overwatch-2-gingerbread-bastion-skin-shop)
+ - [Overwatch 2 – Winter Wonderland Event 2022](https://news.xbox.com/en-us/2022/12/20/overwatch-2-winter-wonderland-event-2022/)
+ - [Marvel Snap’s winter event gives you a card signed by actual Nick Fury](https://www.polygon.com/23518736/marvel-snap-winterverse-event-rewards-list-nick-fury-samuel-l-jackson)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
