@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - 🚯 [When your dog knows what kind of driver you are.](http://9gag.com/gag/aMEZzXx)
- - 🚯 [Big brain time](http://9gag.com/gag/a2KZD2p)<!-- MEMES:END -->
+ - 🚖 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)
+ - 🚯 [And some pickles, please.](http://9gag.com/gag/aVbYZA2)
+ - 🚯 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)<!-- MEMES:END -->
 
 --- 
 
