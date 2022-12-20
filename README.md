@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dog Driver](http://9gag.com/gag/aPgYQAQ)
- - 🚯 [Argentina&#39;s coach expression after winning world cup. trying so hard not to gets emotional, but in the end he can&#39;t hold it.](http://9gag.com/gag/az29OOz)
+ - 🚖 [Argentina&#39;s coach expression after winning world cup. trying so hard not to gets emotional, but in the end he can&#39;t hold it.](http://9gag.com/gag/az29OOz)
+ - 🚯 [Dog Driver](http://9gag.com/gag/aPgYQAQ)
  - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 --- 
