@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - 🚯 [World cup problems](http://9gag.com/gag/aeQrZOv)
- - 🚯 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 🚖 [Every christmas](http://9gag.com/gag/aL1gX0v)
+ - 🚯 [The design is very human. Very easy to use](http://9gag.com/gag/aDY1Xnw)
+ - 🚯 [Tis the season](http://9gag.com/gag/aVbY2Ry)<!-- MEMES:END -->
 
 --- 
 
