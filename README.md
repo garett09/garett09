@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to craft a Dead Raiser in Valheim](https://www.pcgamer.com/valheim-dead-raiser)
- - [AMD dismisses reports of RDNA 3 graphics bugs](https://www.pcgamer.com/amd-dismisses-reports-of-rdna-3-graphics-bugs)
- - [The Witcher 3 next-gen re-release solidifies its status as my eternal GOTY](https://www.pcgamer.com/the-witcher-3-next-gen-re-release-solidifies-its-status-as-my-eternal-goty)<!-- GAME:END -->
+ - [DualSense Edge wireless controller hands-on — key takeaways](https://blog.playstation.com/2022/12/20/dualsense-edge-wireless-controller-hands-on-key-takeaways/)
+ - [Pokémon outgrew Ash Ketchum after his championship, but the losing is why we loved him](https://www.polygon.com/pokemon/23517302/pokemon-ash-ketchum-retired-protagonist-anime-game)
+ - [FIFA 23 predicted the winner of the world cup in November](https://www.pcgamer.com/fifa-23-predicted-the-winner-of-the-world-cup-in-november)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
