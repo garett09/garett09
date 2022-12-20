@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - 🚯 [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - 🚯 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)<!-- MEMES:END -->
+ - 🚖 [FBI open up !! Ohhh](http://9gag.com/gag/aWGYoZd)
+ - 🚯 [Absolutely insane 12.000W halide lamp](http://9gag.com/gag/a2KZDK9)
+ - 🚯 [Gonna get shot real quick in the club](http://9gag.com/gag/ap9mxbD)<!-- MEMES:END -->
 
 --- 
 
