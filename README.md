@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS had a vulnerability that Lockdown Mode wouldn&#39;t defeat](https://appleinsider.com/articles/22/12/20/macos-had-a-vulnerability-that-lockdown-mode-wouldnt-defeat?utm_medium=rss)
- - [JP Morgan cuts AAPL target price over iPhone 14 Pro shipment issues](https://appleinsider.com/articles/22/12/20/jp-morgan-cuts-aapl-target-price-over-iphone-14-pro-shipment-issues?utm_medium=rss)
- - [Amazon agrees to settle two EU antitrust cases related to third-party sellers on its platform, won&#39;t pay a fine, and will adhere to commitments for seven years &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221220/p14#a221220p14)<!-- TECH:END -->
+ - [TikTok begins telling users why a video was recommended in the For You feed, such as previous interactions or followed accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221220/p18#a221220p18)
+ - [How to create emergency contacts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-emergency-contacts-in-ios-16?utm_medium=rss)
+ - [Spaceflight Companies Promised to Do Science—So How’s It Going?](https://www.wired.com/story/spaceflight-companies-promised-to-do-science-so-hows-it-going/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
