@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)
- - 🚯 [Death by snu snu it is](http://9gag.com/gag/aeQr7Nb)
- - 🚯 [Broken](http://9gag.com/gag/amABpp2)<!-- MEMES:END -->
+ - 🚖 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - 🚯 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)
+ - 🚯 [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)<!-- MEMES:END -->
 
 --- 
 
