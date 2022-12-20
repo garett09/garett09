@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 549 answer and hint for Tuesday, December 20](https://www.pcgamer.com/wordle-549-answer-december-20)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Countdown Sale](https://news.xbox.com/en-us/2022/12/19/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-countdown-sale-5/)
- - [NASA Robot Sends One Of The Saddest Tweets I Have Ever Seen](https://kotaku.com/nasa-insight-rover-mars-sad-tweet-rip-goodbye-esa-1849913028)<!-- GAME:END -->
+ - [The Witcher 3 next-gen re-release solidifies its status as my eternal GOTY](https://www.pcgamer.com/the-witcher-3-next-gen-re-release-solidifies-its-status-as-my-eternal-goty)
+ - [Best Early Access 2022: Disney Dreamlight Valley](https://www.pcgamer.com/best-early-access-2022-disney-dreamlight-valley)
+ - [Best Roguelike 2022: Vampire Survivors](https://www.pcgamer.com/best-roguelike-2022-vampire-survivors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
