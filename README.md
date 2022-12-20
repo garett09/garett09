@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DualSense Edge wireless controller hands-on — key takeaways](https://blog.playstation.com/2022/12/20/dualsense-edge-wireless-controller-hands-on-key-takeaways/)
- - [Pokémon outgrew Ash Ketchum after his championship, but the losing is why we loved him](https://www.polygon.com/pokemon/23517302/pokemon-ash-ketchum-retired-protagonist-anime-game)
- - [FIFA 23 predicted the winner of the world cup in November](https://www.pcgamer.com/fifa-23-predicted-the-winner-of-the-world-cup-in-november)<!-- GAME:END -->
+ - [Nvidia&#39;s AI-generated photo-based graphics will blow your tiny mind](https://www.pcgamer.com/nvidias-ai-generated-photo-based-graphics-will-blow-your-tiny-mind)
+ - [Internet squared: After meme-crashing the Game Awards, &#39;reformed orthodox rabbi&#39; Bill Clinton comes to Elden Ring](https://www.pcgamer.com/internet-squared-after-meme-crashing-the-game-awards-reformed-orthodox-rabbi-bill-clinton-comes-to-elden-ring)
+ - [DualSense Edge wireless controller hands-on — key takeaways](https://blog.playstation.com/2022/12/20/dualsense-edge-wireless-controller-hands-on-key-takeaways/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
