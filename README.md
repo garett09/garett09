@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every christmas](http://9gag.com/gag/aL1gX0v)
- - 🚯 [The design is very human. Very easy to use](http://9gag.com/gag/aDY1Xnw)
- - 🚯 [Tis the season](http://9gag.com/gag/aVbY2Ry)<!-- MEMES:END -->
+ - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - 🚯 [Peek a boo!](http://9gag.com/gag/aXnY2g6)
+ - 🚯 [No one ever responded to treatment that fast, it must have combined with the previous treatments... His levels were almost three times the norm. We almost had to call the police](http://9gag.com/gag/ajV8Bwg)<!-- MEMES:END -->
 
 --- 
 
