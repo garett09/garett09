@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Quest to Defuse Guyana’s Carbon Bomb](https://www.wired.com/story/the-quest-to-defuse-carbon-bomb-guyana/)
- - [Changpeng Zhao confirms Binance acquired the remaining 49% stake in Indonesia&#39;s crypto exchange Tokocrypto; the unit will cut 58% of jobs and replace its CEO &lpar;Norman Harsono/Bloomberg&rpar;](http://www.techmeme.com/221220/p9#a221220p9)
- - [Amazon quietly launches Prime Gaming in India, weeks after testing the service, offering Prime and Video subscribers access to mobile, PC, and Mac games &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221220/p8#a221220p8)<!-- TECH:END -->
+ - [macOS had a vulnerability that Lockdown Mode wouldn&#39;t defeat](https://appleinsider.com/articles/22/12/20/macos-had-a-vulnerability-that-lockdown-mode-wouldnt-defeat?utm_medium=rss)
+ - [JP Morgan cuts AAPL target price over iPhone 14 Pro shipment issues](https://appleinsider.com/articles/22/12/20/jp-morgan-cuts-aapl-target-price-over-iphone-14-pro-shipment-issues?utm_medium=rss)
+ - [Amazon agrees to settle two EU antitrust cases related to third-party sellers on its platform, won&#39;t pay a fine, and will adhere to commitments for seven years &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221220/p14#a221220p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
