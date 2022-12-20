@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok begins telling users why a video was recommended in the For You feed, such as previous interactions or followed accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221220/p18#a221220p18)
- - [How to create emergency contacts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-emergency-contacts-in-ios-16?utm_medium=rss)
- - [Spaceflight Companies Promised to Do Science—So How’s It Going?](https://www.wired.com/story/spaceflight-companies-promised-to-do-science-so-hows-it-going/)<!-- TECH:END -->
+ - [The biggest smartphone fails of 2022](https://www.androidauthority.com/biggest-smartphone-fails-of-2022-3242255/)
+ - [Save Your Gear From the Elements With These Waterproof Bags](https://www.wired.com/story/matador-flatpak-dry-bag-rave/)
+ - [Billionaires Are A Security Threat](https://www.wired.com/story/twitter-elon-musk-open-source-platforms/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
