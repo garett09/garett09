@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to password protect a PDF document](https://www.androidauthority.com/how-to-password-protect-pdf-3258202/)
- - [Apple adds Mac desktops &amp; Studio Display to Self Repair Program](https://appleinsider.com/articles/22/12/20/apple-adds-mac-desktops-studio-display-to-self-repair-program?utm_medium=rss)
- - [These are the biggest smartwatch fails and flops of 2022](https://www.androidauthority.com/biggest-smartwatch-fails-2022-3245313/)<!-- TECH:END -->
+ - [The European Union opens an investigation into Broadcom&#39;s proposed $61B VMware acquisition, after EU regulators warn over its impact on prices and innovation &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p28#a221220p28)
+ - [NASA&#39;s Insight Mars Lander Is Dying, This May Be Its Last Image     - CNET](https://www.cnet.com/science/space/nasas-insight-mars-lander-is-dying-this-may-be-its-last-image/#ftag=CAD590a51e)
+ - [&#39;Oppenheimer&#39; Trailer Reveals Cillian Murphy as &#39;Father of the Atomic Bomb&#39;     - CNET](https://www.cnet.com/culture/entertainment/oppenheimer-trailer-reveals-cillian-murphy-as-father-of-the-atomic-bomb/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
