@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [James Cameron scrapped a Na’vi space battle from Avatar 2 that would have been incredible](https://www.polygon.com/23517363/avatar-way-water-navi-space-battle-deleted-scene-high-ground-sequel)
- - [Sony&#39;s solution to poor DualSense Edge wireless battery life: Plug it in](https://www.pcgamer.com/sonys-solution-to-poor-dualsense-edge-wireless-battery-life-plug-it-in)
- - [Support charity and win a set of Winter Wonderland gaming peripherals by entering our giveaway!](https://www.pcgamer.com/support-charity-and-win-a-set-of-winter-wonderland-gaming-peripherals-by-entering-our-giveaway)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour: Can Bergmite be shiny?](https://www.polygon.com/pokemon-go-guide/23518996/can-bergmite-be-shiny-form-spotlight-hour-december-20)
+ - [Call Of Duty&#39;s Year-Defining New Mode Is Everything Shooters Should Aspire To Be](https://kotaku.com/call-of-duty-dmz-2022-warzone-modern-warfare-extraction-1849915175)
+ - [The 25 Best Games On Xbox Game Pass](https://kotaku.com/the-12-best-games-on-xbox-game-pass-1841477023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
