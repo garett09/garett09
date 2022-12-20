@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1744 your wife is cheating.](http://9gag.com/gag/aXnYPdV)
- - 🚯 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
- - 🚯 [No one ever responded to treatment that fast, it must have combined with the previous treatments... His levels were almost three times the norm. We almost had to call the police](http://9gag.com/gag/ajV8Bwg)<!-- MEMES:END -->
+ - 🚖 [Peek a boo!](http://9gag.com/gag/aXnY2g6)
+ - 🚯 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)
+ - 🚯 [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)<!-- MEMES:END -->
 
 --- 
 
