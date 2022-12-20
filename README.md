@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FBI open up !! Ohhh](http://9gag.com/gag/aWGYoZd)
- - 🚯 [Absolutely insane 12.000W halide lamp](http://9gag.com/gag/a2KZDK9)
- - 🚯 [Gonna get shot real quick in the club](http://9gag.com/gag/ap9mxbD)<!-- MEMES:END -->
+ - 🚖 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 🚯 [When your dog knows what kind of driver you are.](http://9gag.com/gag/aMEZzXx)
+ - 🚯 [Big brain time](http://9gag.com/gag/a2KZD2p)<!-- MEMES:END -->
 
 --- 
 
