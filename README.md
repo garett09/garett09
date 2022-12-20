@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1744 your wife is cheating.](http://9gag.com/gag/aXnYPdV)
- - 🚯 [FBI open up !! Ohhh](http://9gag.com/gag/aWGYoZd)
- - 🚯 [Use your words](http://9gag.com/gag/aqeKx7M)<!-- MEMES:END -->
+ - 🚖 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)
+ - 🚯 [Maybe](http://9gag.com/gag/aRE1vvB)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 --- 
 
