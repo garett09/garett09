@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - 🚯 [Didn\u2019t know seagulls we\u2019re allowed on bikes](http://9gag.com/gag/aeQrmYQ)
- - 🚯 [Lukashenko finally speaks truth: `You know, we are co-aggressors, the most pernicious, toxic people on the planet. We only have one argument - which one&#39;s worse. Putin says it&#39;s me, I was starting to think it&#39;s him. Today we decided we are together, same amount. That&#39;s it`](http://9gag.com/gag/aeQrx2p)<!-- MEMES:END -->
+ - 🚖 [Dog Driver](http://9gag.com/gag/aPgYQAQ)
+ - 🚯 [Argentina&#39;s coach expression after winning world cup. trying so hard not to gets emotional, but in the end he can&#39;t hold it.](http://9gag.com/gag/az29OOz)
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 --- 
 
