@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android and Google Chrome will soon no longer trust certificates from TrustCor Systems, following Firefox and Edge, over alleged ties to a US defense contractor &lpar;Mishaal Rahman/Esper Blog&rpar;](http://www.techmeme.com/221220/p33#a221220p33)
- - [The Pixel 8 camera might adopt a new HDR technique](https://www.theverge.com/2022/12/20/23519193/google-pixel-8-camera-rumor-staggered-hdr-sensor)
- - [Best Holiday Gifts Under $300 for 2022     - CNET](https://www.cnet.com/tech/mobile/best-holiday-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [James Cameron Justifies Jack&#39;s &#39;Titanic&#39; Death With Science     - CNET](https://www.cnet.com/culture/entertainment/james-cameron-justifies-jacks-titanic-death-with-science/#ftag=CAD590a51e)
+ - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)
+ - [US prosecutors say two men conspired with Russian hackers to tamper with JFK airport&#39;s taxi queuing software, allegedly letting drivers cut the line for a fee &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/221220/p34#a221220p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
