@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 3 years of work, modders have remastered the first Star Wars FPS](https://www.pcgamer.com/after-3-years-of-work-modders-have-remastered-the-first-star-wars-fps)
- - [The Best Gaming Merch of 2022 You Can Actually Show Off](https://kotaku.com/video-game-merch-clothes-vinyl-destiny-mass-effect-1849912046)
- - [Ashley Bardhan&#39;s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-plague-tale-tamagotchi-1849911976)<!-- GAME:END -->
+ - [John Carmack Quits Meta, Says &#39;This Is The End Of My Decade In VR&#39;](https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694)
+ - [Star Wars: Dark Forces Looks Fantastic In 2022](https://kotaku.com/star-wars-dark-forces-mod-remake-rebuild-fps-pc-1849912441)
+ - [High On Life Is Now The Most Popular Game On Game Pass](https://kotaku.com/high-on-life-game-pass-most-popular-xbox-pc-forza-halo-1849912640)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
