@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)
- - 🚯 [And some pickles, please.](http://9gag.com/gag/aVbYZA2)
- - 🚯 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)<!-- MEMES:END -->
+ - 🚯 [Monke land](http://9gag.com/gag/anz92YE)
+ - 🚯 [The sad truth.](http://9gag.com/gag/a8q3eoY)<!-- MEMES:END -->
 
 --- 
 
