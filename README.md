@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trash me all day but it&#39;ll still cost you $8](http://9gag.com/gag/ay2BYBV)
- - 🚯 [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
- - 🚯 [In Moscow, unknown persons pelted the Finnish embassy with sledgehammers. &lpar;whatch the dude in white hat lol&rpar;](http://9gag.com/gag/aWGY2X4)<!-- MEMES:END -->
+ - 🚖 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)
+ - 🚯 [Death by snu snu it is](http://9gag.com/gag/aeQr7Nb)
+ - 🚯 [Broken](http://9gag.com/gag/amABpp2)<!-- MEMES:END -->
 
 --- 
 
