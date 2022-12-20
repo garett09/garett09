@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- GAME:START -->
  - [The Witcher 3 next-gen re-release solidifies its status as my eternal GOTY](https://www.pcgamer.com/the-witcher-3-next-gen-re-release-solidifies-its-status-as-my-eternal-goty)
  - [Best Early Access 2022: Disney Dreamlight Valley](https://www.pcgamer.com/best-early-access-2022-disney-dreamlight-valley)
- - [Best Roguelike 2022: Vampire Survivors](https://www.pcgamer.com/best-roguelike-2022-vampire-survivors)<!-- GAME:END -->
+ - [Signalis turns survival horror into a dreamlike experience I can&#39;t forget](https://www.pcgamer.com/signalis-turns-survival-horror-into-a-dreamlike-experience-i-cant-forget)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
