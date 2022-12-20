@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean financial super app Toss raised $405M Series G at a 9.1T won valuation, or ~$7B, after a 8.5T won valuation in June &#39;21; Toss Bank has 5M users &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/221220/p24#a221220p24)
- - [UCOMX Nano 3-in-1 Wireless Charger review: Budget-friendly alternative to the MagSafe Duo](https://appleinsider.com/articles/22/12/20/ucomx-nano-3-in-1-wireless-charger-review-budget-friendly-alternative-to-the-magsafe-duo?utm_medium=rss)
- - [How to merge Calendars in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-merge-calendars-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [How to password protect a PDF document](https://www.androidauthority.com/how-to-password-protect-pdf-3258202/)
+ - [Apple adds Mac desktops &amp; Studio Display to Self Repair Program](https://appleinsider.com/articles/22/12/20/apple-adds-mac-desktops-studio-display-to-self-repair-program?utm_medium=rss)
+ - [These are the biggest smartwatch fails and flops of 2022](https://www.androidauthority.com/biggest-smartwatch-fails-2022-3245313/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
