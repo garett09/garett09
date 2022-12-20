@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Union opens an investigation into Broadcom&#39;s proposed $61B VMware acquisition, after EU regulators warn over its impact on prices and innovation &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p28#a221220p28)
- - [NASA&#39;s Insight Mars Lander Is Dying, This May Be Its Last Image     - CNET](https://www.cnet.com/science/space/nasas-insight-mars-lander-is-dying-this-may-be-its-last-image/#ftag=CAD590a51e)
- - [&#39;Oppenheimer&#39; Trailer Reveals Cillian Murphy as &#39;Father of the Atomic Bomb&#39;     - CNET](https://www.cnet.com/culture/entertainment/oppenheimer-trailer-reveals-cillian-murphy-as-father-of-the-atomic-bomb/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods recovered after Find My tracked down thieving hotel employee](https://appleinsider.com/articles/22/12/20/airpods-recovered-after-find-my-tracked-down-thieving-hotel-employee?utm_medium=rss)
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Dec. 20&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
+ - [Sen. Warren&#39;s Digital Asset Anti-Money Laundering Act would be a disaster for civil liberties, effectively adding surveillance for all blockchain participants &lpar;Marta Belcher/CoinDesk&rpar;](http://www.techmeme.com/221220/p30#a221220p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
