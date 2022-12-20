@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Google Pixel 8 camera leak points to major upgrade](https://www.androidauthority.com/google-pixel-8-camera-leak-staggered-hdr-3250930/)
- - [More evidence emerges about the Pixel Tablet Pro](https://www.androidauthority.com/google-pixel-tablet-pro-3258263/)
- - [Chinese media reports: Xiaomi starts laying off ~15% of its 35,314 employees amid weaker sales due to China&#39;s COVID-19 lockdowns and slower consumer spending &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221220/p2#a221220p2)<!-- TECH:END -->
+ - [Remote work and tech layoffs hollow out San Francisco, where only 43.1% of workers are back at offices, compared to LA&#39;s 46.1%, NYC&#39;s 47.6%, and Austin&#39;s 62.7% &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p4#a221220p4)
+ - [We asked, you told us: Chrome OS has plenty of regular users](https://www.androidauthority.com/chrome-os-use-last-year-poll-results-3258273/)
+ - [&#39;Santa Should Phase Out Coal&#39; For Naughty Kids This Christmas     - CNET](https://www.cnet.com/culture/santa-should-phase-out-coal-for-naughty-kids-this-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
