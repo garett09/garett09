@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DCG is attempting to raise capital and avoid bankruptcy for its Genesis subsidiary in part to avert a $350M loan repayment to Todd Boehly&#39;s Eldridge &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/221220/p6#a221220p6)
- - [An analysis shows how Chinese-language bots on Twitter drowned out tweets about protests over China&#39;s zero-COVID-19 policy, as people sought to evade censors &lpar;New York Times&rpar;](http://www.techmeme.com/221220/p5#a221220p5)
- - [The 29 Absolute Best Movies to Watch on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-29-absolute-best-movies-to-watch-on-amazon-prime-video-in-december-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Quest to Defuse Guyana’s Carbon Bomb](https://www.wired.com/story/the-quest-to-defuse-carbon-bomb-guyana/)
+ - [Changpeng Zhao confirms Binance acquired the remaining 49% stake in Indonesia&#39;s crypto exchange Tokocrypto; the unit will cut 58% of jobs and replace its CEO &lpar;Norman Harsono/Bloomberg&rpar;](http://www.techmeme.com/221220/p9#a221220p9)
+ - [Amazon quietly launches Prime Gaming in India, weeks after testing the service, offering Prime and Video subscribers access to mobile, PC, and Mac games &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221220/p8#a221220p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
