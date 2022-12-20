@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods recovered after Find My tracked down thieving hotel employee](https://appleinsider.com/articles/22/12/20/airpods-recovered-after-find-my-tracked-down-thieving-hotel-employee?utm_medium=rss)
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Dec. 20&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
- - [Sen. Warren&#39;s Digital Asset Anti-Money Laundering Act would be a disaster for civil liberties, effectively adding surveillance for all blockchain participants &lpar;Marta Belcher/CoinDesk&rpar;](http://www.techmeme.com/221220/p30#a221220p30)<!-- TECH:END -->
+ - [Internal documents show that, going back to 2017, Twitter worked with the Pentagon to whitelist CENTCOM accounts used in online foreign influence campaigns &lpar;Lee Fang/The Intercept&rpar;](http://www.techmeme.com/221220/p31#a221220p31)
+ - [Netflix&#39;s Top Hit Shows and Movies, Ranked &lpar;According to Netflix&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-top-hit-shows-and-movies-ranked-according-to-netflix/#ftag=CAD590a51e)
+ - [AirPods recovered after Find My tracked down thieving hotel employee](https://appleinsider.com/articles/22/12/20/airpods-recovered-after-find-my-tracked-down-thieving-hotel-employee?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
