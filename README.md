@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - 🚯 [What a Beauty !](http://9gag.com/gag/aNwYB0K)
- - 🚯 [No one ever responded to treatment that fast, it must have combined with the previous treatments... His levels were almost three times the norm. We almost had to call the police](http://9gag.com/gag/ajV8Bwg)<!-- MEMES:END -->
+ - 🚖 [Peek a boo!](http://9gag.com/gag/aXnY2g6)
+ - 🚯 [This DIY fridge](http://9gag.com/gag/aGEZOVK)
+ - 🚯 [This `special Christmas edition`](http://9gag.com/gag/a9qKDWW)<!-- MEMES:END -->
 
 --- 
 
