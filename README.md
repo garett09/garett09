@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truth be told...](http://9gag.com/gag/aBd0O2z)
- - 🚯 [What a Beauty !](http://9gag.com/gag/aNwYB0K)
- - 🚯 [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)<!-- MEMES:END -->
+ - 🚖 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
+ - 🚯 [Aww splendid!](http://9gag.com/gag/ap9m8nn)
+ - 🚯 [*crickets chirping*](http://9gag.com/gag/aQERVre)<!-- MEMES:END -->
 
 --- 
 
