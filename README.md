@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Welcome a rainbow of quacking ducks to your keyboard these holidays](https://www.pcgamer.com/welcome-a-rainbow-of-quacking-ducks-to-your-keyboard-these-holidays)
  - [Somehow, our favorite game of 2018 got even better in 2022](https://www.pcgamer.com/into-the-breach-advanced-edition-2022)
- - [The best abandonware games](https://www.pcgamer.com/the-best-abandonware-games)
- - [The Holiday Sale promotion comes to PlayStation Store](https://blog.playstation.com/2022/12/20/the-holiday-sale-promotion-comes-to-playstation-store/)<!-- GAME:END -->
+ - [The best abandonware games](https://www.pcgamer.com/the-best-abandonware-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
