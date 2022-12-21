@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Bankman-Fried&#39;s legal team is discussing a post-extradition deal with the DOJ to let him be released on bail, subject to approval from a judge &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p7#a221221p7)
- - [Don’t expect a Raspberry Pi 5 next year](https://www.theverge.com/2022/12/21/23520400/raspberry-pi-5-release-date-pandemic-supply-chain-constraints-delay-eben-upton-ceo)
- - [US-based crypto miner Core Scientific files for Chapter 11 bankruptcy in Texas, estimating its liabilities and assets at $1B-$10B and creditors at 1,000-5,000 &lpar;CoinDesk&rpar;](http://www.techmeme.com/221221/p6#a221221p6)<!-- TECH:END -->
+ - [YouTube expected to beat Apple to NFL Sunday Ticket](https://appleinsider.com/articles/22/12/21/youtube-expected-to-beat-apple-to-nfl-sunday-ticket?utm_medium=rss)
+ - [George Hotz, aka geohot, who joined Twitter on November 18 after Elon Musk&#39;s &quot;extremely hardcore&quot; pledge, resigned, saying he could not make &quot;any real impact&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221221/p9#a221221p9)
+ - [The best holiday phone deals: Save 33% on the Pixel 6a](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
