@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried agrees voluntarily to be extradited to the US, where he faces criminal and civil charges including conspiracy, fraud, and money laundering &lpar;CNBC&rpar;](http://www.techmeme.com/221220/p37#a221220p37)
- - [Sources: the NFL is in advanced talks to give YouTube exclusive Sunday Ticket rights; a deal could be reached as early as December 21 after an NFL owner meeting &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/221220/p36#a221220p36)
- - [&#39;Black Adam 2&#39; Not Happening at DC, Says The Rock     - CNET](https://www.cnet.com/culture/black-adam-2-not-happening-at-dc-says-the-rock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukrainian Vice PM Mykhailo Fedorov expects 10K+ more Starlink terminals to arrive in the coming months, saying &quot;all financial issues have been resolved&quot; for now &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p39#a221220p39)
+ - [Get Apple&#39;s 1TB MacBook Pro 16-inch for $2,249](https://appleinsider.com/articles/22/12/21/get-apples-1tb-macbook-pro-16-inch-for-2249?utm_medium=rss)
+ - [Elon Musk says he will resign as CEO once he finds someone &quot;foolish enough to take the job&quot;, after which time he plans to run the &quot;software and servers teams&quot; &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221220/p38#a221220p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
