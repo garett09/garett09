@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail steps Netflix may take to reduce US password sharing, like charging account owners an extra sharing fee at just below the $6.99 ad-supported tier &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221221/p24#a221221p24)
- - [NASA’s InSight lander loses power, enters retirement on Mars](https://www.theverge.com/2022/12/21/23521050/nasa-insight-mars-lander-marsquake)
- - [Meta is making the Quest 2’s GPU more powerful](https://www.theverge.com/2022/12/21/23521349/meta-quest-2-gpu-more-powerful)<!-- TECH:END -->
+ - [8 Most Exciting Rumored Phones Coming Out in 2023     - CNET](https://www.cnet.com/tech/mobile/8-most-exciting-rumored-phones-coming-out-in-2023/#ftag=CAD590a51e)
+ - [Micron reports Q1 revenue down ~47% YoY to $4.09B and plans to reduce its workforce by ~10% over the next year; Micron had 48,000 employees in September 2022 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/221221/p25#a221221p25)
+ - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Comes to HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-comes-to-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
