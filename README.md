@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the intelligence and battle management system, built around software developed by Palantir, that has given Ukraine a high-tech edge in Russia&#39;s war &lpar;David Ignatius/Washington Post&rpar;](http://www.techmeme.com/221221/p22#a221221p22)
- - [Best Robot Vacuums of 2022     - CNET](https://www.cnet.com/news/best-robot-vacuum/#ftag=CAD590a51e)
- - [Netflix will start streaming Nike Training Club classes next week](https://www.theverge.com/2022/12/21/23521005/netflix-nike-training-club-fitness-streaming)<!-- TECH:END -->
+ - [Sources detail steps Netflix may take to reduce US password sharing, like charging account owners an extra sharing fee at just below the $6.99 ad-supported tier &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221221/p24#a221221p24)
+ - [NASA’s InSight lander loses power, enters retirement on Mars](https://www.theverge.com/2022/12/21/23521050/nasa-insight-mars-lander-marsquake)
+ - [Meta is making the Quest 2’s GPU more powerful](https://www.theverge.com/2022/12/21/23521349/meta-quest-2-gpu-more-powerful)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
