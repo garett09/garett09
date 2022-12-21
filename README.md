@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K A R M A](http://9gag.com/gag/a8q3nR3)
- - 🚯 [Before &lpar;270lbs&rpar; and current &lpar;180lbs&rpar;](http://9gag.com/gag/a5XMx3g)
- - 🚯 [Short and sweet](http://9gag.com/gag/a9qKVED)<!-- MEMES:END -->
+ - 🚖 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
+ - 🚯 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
+ - 🚯 [Scum](http://9gag.com/gag/aQERNLw)<!-- MEMES:END -->
 
 --- 
 
