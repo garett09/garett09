@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK says sharing Netflix passwords could be illegal](https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal?utm_medium=rss)
- - [Pixelmator Pro adds new Machine Learning deband feature](https://appleinsider.com/articles/22/12/21/pixelmator-pro-adds-new-machine-learning-deband-feature?utm_medium=rss)
- - [Raspberry Pi CEO Eben Upton says 2023 will be a &quot;recovery year&quot; for the company and customers should not expect the Pi 5, due to ongoing supply chain issues &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/221221/p14#a221221p14)<!-- TECH:END -->
+ - [Apple has two big CarPlay problems](https://appleinsider.com/articles/22/12/21/apple-has-two-big-carplay-problems?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Dec. 21&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-21-2022-3258016/)
+ - [Twitter says Community Notes will require contributors to achieve a &quot;Rating Impact&quot; of 5+ by rating enough notes before they can write notes themselves &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/221221/p15#a221221p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
