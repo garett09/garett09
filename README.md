@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deep Voodoo, founded by South Park creators Trey Parker and Matt Stone to develop deepfake technology and cost-effective visual effects, raised $20M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221221/p20#a221221p20)
- - [11 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
- - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: US National Cyber Director Chris Inglis is expected to step down and retire in the next two months, after serving since July 2021 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/221221/p21#a221221p21)
+ - [Instagram Recap 2022: A New Reels Template Makes It Easy to Customize     - CNET](https://www.cnet.com/news/social-media/instagram-recap-2022-a-new-reels-template-makes-it-easy-to-customize/#ftag=CAD590a51e)
+ - [Amazon discounts the Apple Watch Ultra to $749 with delivery by Christmas for many](https://appleinsider.com/articles/22/12/21/amazon-discounts-the-apple-watch-ultra-to-749-with-delivery-by-christmas-for-many?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
