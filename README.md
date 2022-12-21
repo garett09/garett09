@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never go full retarded](http://9gag.com/gag/aA03mRo)
- - 🚯 [Old\u00a0chronicles record the event](http://9gag.com/gag/abvYE4r)
- - 🚯 [I demand equal rights](http://9gag.com/gag/a9qKVpL)<!-- MEMES:END -->
+ - 🚖 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - 🚯 [Currency of Love](http://9gag.com/gag/aVbYB8K)
+ - 🚯 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
 
 --- 
 
