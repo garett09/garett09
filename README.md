@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - 🚯 [This was removed so I&#39;m re-uploading it](http://9gag.com/gag/agondEK)
- - 🚯 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
+ - 🚖 [K A R M A](http://9gag.com/gag/a8q3nR3)
+ - 🚯 [Before &lpar;270lbs&rpar; and current &lpar;180lbs&rpar;](http://9gag.com/gag/a5XMx3g)
+ - 🚯 [Short and sweet](http://9gag.com/gag/a9qKVED)<!-- MEMES:END -->
 
 --- 
 
