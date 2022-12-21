@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coming back to NSFW after Long time](http://9gag.com/gag/amABmgV)
- - 🚯 [When your browser history follows you](http://9gag.com/gag/a8q304p)
- - 🚯 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
+ - 🚖 [Kid perfectly imitating the sound of a lawn cutter](http://9gag.com/gag/a8q3V5V)
+ - 🚯 [Little Timmy](http://9gag.com/gag/anz9GAB)
+ - 🚯 [How to stop the children from entering the living room](http://9gag.com/gag/armGzKX)<!-- MEMES:END -->
 
 --- 
 
