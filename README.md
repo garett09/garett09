@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is pure gold](http://9gag.com/gag/axozRmD)
+ - 🚖 [Truth be told...](http://9gag.com/gag/aBd0O2z)
  - 🚯 [What a Beauty !](http://9gag.com/gag/aNwYB0K)
- - 🚯 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
+ - 🚯 [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)<!-- MEMES:END -->
 
 --- 
 
