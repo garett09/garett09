@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can grab a $1,099 VR headset pack for $499 from Pimax&#39;s new refurb store](https://www.pcgamer.com/you-can-grab-a-dollar1099-vr-headset-pack-for-dollar499-from-pimaxs-new-refurb-store)
  - [Welcome a rainbow of quacking ducks to your keyboard these holidays](https://www.pcgamer.com/welcome-a-rainbow-of-quacking-ducks-to-your-keyboard-these-holidays)
- - [Somehow, our favorite game of 2018 got even better in 2022](https://www.pcgamer.com/into-the-breach-advanced-edition-2022)
- - [The best abandonware games](https://www.pcgamer.com/the-best-abandonware-games)<!-- GAME:END -->
+ - [Somehow, our favorite game of 2018 got even better in 2022](https://www.pcgamer.com/into-the-breach-advanced-edition-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
