@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sound....like dropping a broomstick on tile](http://9gag.com/gag/az29Z5p)
- - 🚯 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - 🚯 [Got promoted and fired in the same day..](http://9gag.com/gag/amABdRX)<!-- MEMES:END -->
+ - 🚖 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - 🚯 [This was removed so I&#39;m re-uploading it](http://9gag.com/gag/agondEK)
+ - 🚯 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
 
 --- 
 
