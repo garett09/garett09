@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube expected to beat Apple to NFL Sunday Ticket](https://appleinsider.com/articles/22/12/21/youtube-expected-to-beat-apple-to-nfl-sunday-ticket?utm_medium=rss)
- - [George Hotz, aka geohot, who joined Twitter on November 18 after Elon Musk&#39;s &quot;extremely hardcore&quot; pledge, resigned, saying he could not make &quot;any real impact&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221221/p9#a221221p9)
- - [The best holiday phone deals: Save 33% on the Pixel 6a](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Samsung backs down, prioritizes OLED design Apple wanted](https://appleinsider.com/articles/22/12/21/samsung-backs-down-prioritizes-oled-design-apple-wanted?utm_medium=rss)
+ - [In a Twitter Space, Elon Musk says he expects Twitter to &quot;be okay&quot; next year after cost cutting, claiming the company was on course to spend ~$5B in 2023 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221221/p11#a221221p11)
+ - [What is Steam: The popular gaming platform explained](https://www.androidauthority.com/what-is-steam-3254981/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
