@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
- - 🚯 [Currency of Love](http://9gag.com/gag/aVbYB8K)
- - 🚯 [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)<!-- MEMES:END -->
+ - 🚯 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - 🚯 [Currency of Love](http://9gag.com/gag/aVbYB8K)<!-- MEMES:END -->
 
 --- 
 
