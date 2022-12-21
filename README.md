@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)
- - [It&#39;s back: get a HomePod mini for just $60](https://appleinsider.com/articles/22/12/02/get-a-homepod-mini-in-time-for-christmas-for-60?utm_medium=rss)
- - [Best Balance Transfer Credit Cards for December 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deep Voodoo, founded by South Park creators Trey Parker and Matt Stone to develop deepfake technology and cost-effective visual effects, raised $20M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221221/p20#a221221p20)
+ - [11 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
+ - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
