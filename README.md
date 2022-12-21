@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid perfectly imitating the sound of a lawn cutter](http://9gag.com/gag/a8q3V5V)
- - 🚯 [Little Timmy](http://9gag.com/gag/anz9GAB)
- - 🚯 [How to stop the children from entering the living room](http://9gag.com/gag/armGzKX)<!-- MEMES:END -->
+ - 🚖 [What a Beauty !](http://9gag.com/gag/aNwYB0K)
+ - 🚯 [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)
+ - 🚯 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
 
 --- 
 
