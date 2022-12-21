@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - 🚯 [Currency of Love](http://9gag.com/gag/aVbYB8K)
- - 🚯 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
+ - 🚖 [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
+ - 🚯 [K A R M A](http://9gag.com/gag/a8q3nR3)
+ - 🚯 [Im done with the creep Simp Posts](http://9gag.com/gag/a6qOxDq)<!-- MEMES:END -->
 
 --- 
 
