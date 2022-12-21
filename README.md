@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
- - 🚯 [*crickets chirping*](http://9gag.com/gag/aQERVre)
- - 🚯 [Aww splendid!](http://9gag.com/gag/ap9m8nn)<!-- MEMES:END -->
+ - 🚖 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
+ - 🚯 [Currency of Love](http://9gag.com/gag/aVbYB8K)
+ - 🚯 [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)<!-- MEMES:END -->
 
 --- 
 
