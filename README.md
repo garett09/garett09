@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [James Cameron Justifies Jack&#39;s &#39;Titanic&#39; Death With Science     - CNET](https://www.cnet.com/culture/entertainment/james-cameron-justifies-jacks-titanic-death-with-science/#ftag=CAD590a51e)
- - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)
- - [US prosecutors say two men conspired with Russian hackers to tamper with JFK airport&#39;s taxi queuing software, allegedly letting drivers cut the line for a fee &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/221220/p34#a221220p34)<!-- TECH:END -->
+ - [Sam Bankman-Fried agrees voluntarily to be extradited to the US, where he faces criminal and civil charges including conspiracy, fraud, and money laundering &lpar;CNBC&rpar;](http://www.techmeme.com/221220/p37#a221220p37)
+ - [Sources: the NFL is in advanced talks to give YouTube exclusive Sunday Ticket rights; a deal could be reached as early as December 21 after an NFL owner meeting &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/221220/p36#a221220p36)
+ - [&#39;Black Adam 2&#39; Not Happening at DC, Says The Rock     - CNET](https://www.cnet.com/culture/black-adam-2-not-happening-at-dc-says-the-rock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
