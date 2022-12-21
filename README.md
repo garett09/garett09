@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you prefer fingerprint scanners or face unlock?](https://www.androidauthority.com/fingerprint-scanners-face-unlock-poll-3250022/)
- - [XRAI Glass Wants to Subtitle Life for Deaf and Hearing-Impaired Users](https://www.wired.com/story/xrai-glass-caption-ar-glasses-first-look/)
- - [Mastodon Is Hurtling Toward a Tipping Point](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)<!-- TECH:END -->
+ - [UK says sharing Netflix passwords could be illegal](https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal?utm_medium=rss)
+ - [Pixelmator Pro adds new Machine Learning deband feature](https://appleinsider.com/articles/22/12/21/pixelmator-pro-adds-new-machine-learning-deband-feature?utm_medium=rss)
+ - [Raspberry Pi CEO Eben Upton says 2023 will be a &quot;recovery year&quot; for the company and customers should not expect the Pi 5, due to ongoing supply chain issues &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/221221/p14#a221221p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
