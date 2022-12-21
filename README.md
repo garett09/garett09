@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
- - 🚯 [Beautiful family portrait](http://9gag.com/gag/aZDLRgz)
- - 🚯 [Using AI for autonomous farming](http://9gag.com/gag/a5XM5RV)<!-- MEMES:END -->
+ - 🚖 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - 🚯 [I miss shows like mythbuster... simple times](http://9gag.com/gag/axozYPb)
+ - 🚯 [When your browser history follows you](http://9gag.com/gag/a8q304p)<!-- MEMES:END -->
 
 --- 
 
