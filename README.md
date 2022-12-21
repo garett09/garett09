@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aeQr7dO)
- - 🚯 [How to stop the children from entering the living room](http://9gag.com/gag/armGzKX)
- - 🚯 [Bruh...](http://9gag.com/gag/a7q3nzr)<!-- MEMES:END -->
+ - 🚖 [This is pure gold](http://9gag.com/gag/axozRmD)
+ - 🚯 [What a Beauty !](http://9gag.com/gag/aNwYB0K)
+ - 🚯 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
 
 --- 
 
