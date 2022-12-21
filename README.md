@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peek a boo!](http://9gag.com/gag/aXnY2g6)
- - 🚯 [This DIY fridge](http://9gag.com/gag/aGEZOVK)
- - 🚯 [This `special Christmas edition`](http://9gag.com/gag/a9qKDWW)<!-- MEMES:END -->
+ - 🚖 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
+ - 🚯 [Beautiful family portrait](http://9gag.com/gag/aZDLRgz)
+ - 🚯 [Using AI for autonomous farming](http://9gag.com/gag/a5XM5RV)<!-- MEMES:END -->
 
 --- 
 
