@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t get it, was so hard while kissing her earlier](http://9gag.com/gag/aQERBjW)
- - 🚯 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - 🚯 [Talkative Kratos?](http://9gag.com/gag/aqeKBYv)<!-- MEMES:END -->
+ - 🚖 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - 🚯 [What!!](http://9gag.com/gag/ajV8K9G)
+ - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
 
 --- 
 
