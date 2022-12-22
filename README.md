@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
- - 🚯 [Monk mom...](http://9gag.com/gag/aDY1rN9)
- - 🚯 [If being petty was a sport...](http://9gag.com/gag/aGEZ6qK)<!-- MEMES:END -->
+ - 🚯 [Men&#39;s Help Line Letter Of The Month.](http://9gag.com/gag/aKExnNN)
+ - 🚯 [So many guys are victims of female grooming](http://9gag.com/gag/aeQryLj)<!-- MEMES:END -->
 
 --- 
 
