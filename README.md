@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
- - 🚯 [Tis but a scratch](http://9gag.com/gag/awZAP2x)<!-- MEMES:END -->
+ - 🚖 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
+ - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - 🚯 [Time to put out the fire](http://9gag.com/gag/aMEZD2X)<!-- MEMES:END -->
 
 --- 
 
