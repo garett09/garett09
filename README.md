@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - 🚯 [The negotiations were short](http://9gag.com/gag/aXnYzZv)
- - 🚯 [So, I&#39;m not the only one?](http://9gag.com/gag/awZADKR)<!-- MEMES:END -->
+ - 🚖 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)
+ - 🚯 [So, I&#39;m not the only one?](http://9gag.com/gag/awZADKR)
+ - 🚯 [Well.. just posted to let you all know](http://9gag.com/gag/a8q3XG6)<!-- MEMES:END -->
 
 --- 
 
