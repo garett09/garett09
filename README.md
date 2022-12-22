@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
- - 🚯 [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
- - 🚯 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)<!-- MEMES:END -->
+ - 🚖 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - 🚯 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 🚯 [This was removed so I&#39;m re-uploading it](http://9gag.com/gag/agondEK)<!-- MEMES:END -->
 
 --- 
 
