@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bruh...](http://9gag.com/gag/a7q3nzr)
- - 🚯 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)<!-- MEMES:END -->
+ - 🚖 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
+ - 🚯 [The negotiations were short](http://9gag.com/gag/aXnYzZv)
+ - 🚯 [So, I&#39;m not the only one?](http://9gag.com/gag/awZADKR)<!-- MEMES:END -->
 
 --- 
 
