@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
- - 🚯 [Men&#39;s Help Line Letter Of The Month.](http://9gag.com/gag/aKExnNN)
- - 🚯 [So many guys are victims of female grooming](http://9gag.com/gag/aeQryLj)<!-- MEMES:END -->
+ - 🚯 [What!!](http://9gag.com/gag/ajV8K9G)
+ - 🚯 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)<!-- MEMES:END -->
 
 --- 
 
