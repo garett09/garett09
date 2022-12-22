@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best apps for reading library books on iPhone and iPad](https://appleinsider.com/inside/ipad/tips/best-apps-for-reading-library-books-on-iphone-and-ipad?utm_medium=rss)
- - [Sam Bankman-Fried appears in US federal court charged with wire fraud and other crimes; judge grants bail with a $250M bond and custody at his parents&#39; CA home &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/221222/p26#a221222p26)
- - [Daily Deals Dec. 22: 34% off Logitech 4K Webcam, 28% off Roku Stick &amp; more](https://appleinsider.com/articles/22/12/22/daily-deals-dec-22-34-off-logitech-4k-webcam-28-off-roku-stick-more?utm_medium=rss)<!-- TECH:END -->
+ - [Internal documents detail Google&#39;s new performance review process, estimating 6% of full-time employees will get low ratings starting in 2023, versus 2% before &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/221222/p27#a221222p27)
+ - [Target Recalls This Children&#39;s Blanket After Two Deaths Linked to It     - CNET](https://www.cnet.com/health/sleep/target-recalls-this-childrens-blanket-after-two-deaths-linked-to-it/#ftag=CAD590a51e)
+ - [Stress Eating Is Real. These 7 Strategies Can Help You Stop     - CNET](https://www.cnet.com/health/mental/stress-eating-is-real-these-7-strategies-can-help-you-stop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
