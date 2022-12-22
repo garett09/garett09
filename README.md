@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google might be hitting the panic button to protect Search from ChatGPT](https://www.androidauthority.com/google-chatgpt-ai-3259557/)
  - [Internal documents detail Google&#39;s new performance review process, estimating 6% of full-time employees will get low ratings starting in 2023, versus 2% before &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/221222/p27#a221222p27)
- - [Target Recalls This Children&#39;s Blanket After Two Deaths Linked to It     - CNET](https://www.cnet.com/health/sleep/target-recalls-this-childrens-blanket-after-two-deaths-linked-to-it/#ftag=CAD590a51e)
- - [Stress Eating Is Real. These 7 Strategies Can Help You Stop     - CNET](https://www.cnet.com/health/mental/stress-eating-is-real-these-7-strategies-can-help-you-stop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Target Recalls This Children&#39;s Blanket After Two Deaths Linked to It     - CNET](https://www.cnet.com/health/sleep/target-recalls-this-childrens-blanket-after-two-deaths-linked-to-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
