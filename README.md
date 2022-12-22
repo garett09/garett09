@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customs data: Chinese companies imported $2.3B worth of semiconductor manufacturing machines in November, down 40% YoY and the lowest level since May 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p16#a221222p16)
- - [Our favorite reader-created Android wallpapers of 2022](https://www.androidauthority.com/best-android-wallpapers-2022-3242430/)
- - [The Bittersweet Defeat of Mpox](https://www.wired.com/story/the-bittersweet-defeat-of-mpox/)<!-- TECH:END -->
+ - [Therabody Smart Goggles Review: Heat, Vibrations, and Massage](https://www.wired.com/review/therabody-smart-goggles/)
+ - [The Best Automated Espresso, Latte, &amp; Cappuccino Makers &lpar;2022&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+ - [Apple adds new Shortcuts actions for Books, Wallpapers](https://appleinsider.com/articles/22/12/22/apple-adds-new-shortcuts-actions-for-books-wallpapers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
