@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: aiming to appease the US government, TikTok offers to operate more of its business at arm&#39;s length and allow more outside scrutiny by Oracle and others &lpar;Reuters&rpar;](http://www.techmeme.com/221222/p9#a221222p9)
- - [Sources: at a town hall, Tencent CEO Pony Ma ranted for 10 minutes about staff laziness, graft, &quot;superficial&quot; reforms, Tencent&#39;s aging social network, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p8#a221222p8)
- - [Record $300 savings on the Galaxy Tab S8 Plus, and more holiday tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD for $1,199](https://appleinsider.com/articles/22/12/20/get-apples-m1-macbook-air-with-16gb-ram-1tb-ssd-for-1199?utm_medium=rss)
+ - [Mastodon, nostr, and other decentralized social networks are having a moment, despite some complexity, propelled by the apparent decline of Twitter and Meta &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/221222/p13#a221222p13)
+ - [Users report horizontal lines on iPhone 14 Pro display at startup](https://appleinsider.com/articles/22/12/22/users-report-horizontal-lines-on-iphone-14-pro-display-at-startup?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
