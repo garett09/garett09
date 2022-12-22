@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring is on sale for the first time ever in the Steam Winter Sale](https://www.pcgamer.com/elden-ring-is-on-sale-for-the-first-time-ever-in-the-steam-winter-sale)
- - [Square Enix is giving up on its Final Fantasy kart racing game](https://www.polygon.com/23521067/chocobo-gp-square-enix-final-fantasy-kart-racing)
- - [The best Great British Bake Off seasons to feast upon](https://www.polygon.com/23521136/best-great-british-baking-show-bake-off-seasons-netflix-gbbo)<!-- GAME:END -->
+ - [The Steam Winter Sale Has Started, Here Are The Best Deals](https://kotaku.com/steam-winter-sale-2022-christmas-best-deals-pc-witcher-1849924685)
+ - [Steam, Xbox, and PlayStation sales flood your shelves with more games to play](https://www.polygon.com/23522971/steam-sale-xbox-playstation-winter-2022-deals)
+ - [Norway Reserve is Available Now in Call of the Wild: The Angler](https://news.xbox.com/en-us/2022/12/22/norway-reserve-is-available-now-in-call-of-the-wild-the-angler/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
