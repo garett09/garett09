@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)
- - 🚯 [So, I&#39;m not the only one?](http://9gag.com/gag/awZADKR)
- - 🚯 [Well.. just posted to let you all know](http://9gag.com/gag/a8q3XG6)<!-- MEMES:END -->
+ - 🚖 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
 
 --- 
 
