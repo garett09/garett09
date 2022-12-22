@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I blame shit-tok](http://9gag.com/gag/ajV8dvq)
- - 🚯 [They&#39;re also fighting the intergalactic empire, the army of the undead and the avengers at the same time!](http://9gag.com/gag/aNwYG14)
- - 🚯 [Miss Universe contestant from Ukraine](http://9gag.com/gag/aDY1qXN)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t get it, was so hard while kissing her earlier](http://9gag.com/gag/aQERBjW)
+ - 🚯 [Miss Universe contestant from Ukraine](http://9gag.com/gag/aDY1qXN)
+ - 🚯 [Little Girl Thinks Old Man In Supermarket Is Really Santa!](http://9gag.com/gag/a5XM9Xr)<!-- MEMES:END -->
 
 --- 
 
