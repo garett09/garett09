@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - 🚯 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - 🚖 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
+ - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
  - 🚯 [Tis but a scratch](http://9gag.com/gag/awZAP2x)<!-- MEMES:END -->
 
 --- 
