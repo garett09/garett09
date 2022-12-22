@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t get it, was so hard while kissing her earlier](http://9gag.com/gag/aQERBjW)
- - 🚯 [Miss Universe contestant from Ukraine](http://9gag.com/gag/aDY1qXN)
- - 🚯 [Little Girl Thinks Old Man In Supermarket Is Really Santa!](http://9gag.com/gag/a5XM9Xr)<!-- MEMES:END -->
+ - 🚖 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
+ - 🚯 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 🚯 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)<!-- MEMES:END -->
 
 --- 
 
