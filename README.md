@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
- - 🚯 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
- - 🚯 [Scum](http://9gag.com/gag/aQERNLw)<!-- MEMES:END -->
+ - 🚖 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - 🚯 [First time bowling](http://9gag.com/gag/aQERNwe)
+ - 🚯 [You had one job...](http://9gag.com/gag/aRE1NDQ)<!-- MEMES:END -->
 
 --- 
 
