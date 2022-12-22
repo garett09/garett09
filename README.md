@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon didn’t reinvent itself in 2022, and maybe it shouldn’t have to](https://www.polygon.com/23513659/pokemon-open-world-2022-year-in-review)
- - [The GTA 6 leak was one of the biggest ever, and the only winners were the news writers](https://www.pcgamer.com/the-gta-6-leak-was-one-of-the-biggest-ever-and-the-only-winners-were-the-news-writers)
- - [World of Warcraft to get six updates in the next year](https://www.polygon.com/23522309/world-of-warcraft-dragonflight-roadmap-season-1-2)<!-- GAME:END -->
+ - [16 easy mounts to get in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-mounts-easy)
+ - [Gloomwood&#39;s final update of the year adds a pub and lets you quicksave](https://www.pcgamer.com/gloomwoods-final-update-of-the-year-adds-a-pub-and-lets-you-quicksave)
+ - [The mistakes from Shadowlands that World of Warcraft: Dragonflight fixed](https://www.pcgamer.com/the-mistakes-from-shadowlands-that-world-of-warcraft-dragonflight-fixed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
