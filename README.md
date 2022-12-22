@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google might be hitting the panic button to protect Search from ChatGPT](https://www.androidauthority.com/google-chatgpt-ai-3259557/)
- - [Internal documents detail Google&#39;s new performance review process, estimating 6% of full-time employees will get low ratings starting in 2023, versus 2% before &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/221222/p27#a221222p27)
- - [Target Recalls This Children&#39;s Blanket After Two Deaths Linked to It     - CNET](https://www.cnet.com/health/sleep/target-recalls-this-childrens-blanket-after-two-deaths-linked-to-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s 16-inch MacBook Pro is back on sale for $1,999, plus $80 off AppleCare](https://appleinsider.com/articles/22/12/22/apples-16-inch-macbook-pro-is-back-on-sale-for-1999-plus-80-off-applecare?utm_medium=rss)
+ - [A 1974 US privacy law that prevents the sharing of citizens&#39; data between US agencies is forcing the government to use and pay millions annually to data brokers &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/221222/p28#a221222p28)
+ - [FTX Co-Founder Sam Bankman-Fried Released on $250 Million Bail, Reports Say     - CNET](https://www.cnet.com/personal-finance/crypto/ftx-co-founder-sam-bankman-fried-released-on-250-million-bail-reports-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
