@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well.. just posted to let you all know](http://9gag.com/gag/a8q3XG6)
- - 🚯 [Journalistic little aloof](http://9gag.com/gag/a04QDyz)
- - 🚯 [Day 302 of my 3 day war. Great success! 100,000 wages I dont have to pay! I remain a master strategist.](http://9gag.com/gag/ajV8jrg)<!-- MEMES:END -->
+ - 🚖 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - 🚯 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)<!-- MEMES:END -->
 
 --- 
 
