@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
- - 🚯 [What!!](http://9gag.com/gag/ajV8K9G)
- - 🚯 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t get it, was so hard while kissing her earlier](http://9gag.com/gag/aQERBjW)
+ - 🚯 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 🚯 [Talkative Kratos?](http://9gag.com/gag/aqeKBYv)<!-- MEMES:END -->
 
 --- 
 
