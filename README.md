@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter begins rolling out public view counts for tweets, expanding on video view counts and analytics; Elon Musk says they will show how &quot;alive Twitter is&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221222/p22#a221222p22)
- - [Google might just be on to something with gaming Chromebooks](https://www.androidauthority.com/gaming-chromebooks-3251738/)
- - [YouTube beats Apple to win the rights to NFL Sunday Ticket](https://www.androidauthority.com/youtube-nfl-sunday-ticket-3259447/)<!-- TECH:END -->
+ - [Exclusive: Here’s Google’s entire 2023-2025 roadmap for Pixel phones](https://www.androidauthority.com/google-pixel-roadmap-2023-3259454/)
+ - [Investigation: Eric Schmidt helps fund the salaries of over 24 Biden administration officials through the Federation of American Scientists and Schmidt Futures &lpar;Alex Thompson/Politico&rpar;](http://www.techmeme.com/221222/p25#a221222p25)
+ - [The SEC&#39;s complaint against Caroline Ellison and Gary Wang says FTX&#39;s FTT token is a security as it was sold as an investment contract &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221222/p24#a221222p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
