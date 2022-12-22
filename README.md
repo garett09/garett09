@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A young reindeer herder protect its land in Skábma – Snowfall, to PS4 &amp; PS5 next year](https://blog.playstation.com/2022/12/22/a-young-reindeer-herder-protect-its-land-in-skabma-snowfall-to-ps4-ps5-next-year/)
  - [The 2022 Steam Winter Sale is live](https://www.pcgamer.com/steam-winter-sale-2022-live)
- - [How Bloodborne paved the way for one of 2022’s breakout hits](https://www.polygon.com/gaming/23521420/bloodborne-zelda-tunic-interview-soulslikes-puzzles-best-indie-games-2022)
- - [Mythic Quest’s Charlotte Nicdao Teaches Us Some Handy Australian Slang](https://kotaku.com/charlotte-nicdao-mythic-quest-australian-slang-old-mate-1849923409)<!-- GAME:END -->
+ - [How Bloodborne paved the way for one of 2022’s breakout hits](https://www.polygon.com/gaming/23521420/bloodborne-zelda-tunic-interview-soulslikes-puzzles-best-indie-games-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
