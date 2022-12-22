@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
- - 🚯 [First time bowling](http://9gag.com/gag/aQERNwe)
- - 🚯 [You had one job...](http://9gag.com/gag/aRE1NDQ)<!-- MEMES:END -->
+ - 🚖 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - 🚯 [Share your most random gifs](http://9gag.com/gag/aBd0j9Q)
+ - 🚯 [Selling weed to a cop](http://9gag.com/gag/awZAPVW)<!-- MEMES:END -->
 
 --- 
 
