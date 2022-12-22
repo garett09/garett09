@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m hooked on Call of Duty like it&#39;s 2008 again &lpar;please don&#39;t tell any cool people&rpar;](https://www.pcgamer.com/im-hooked-on-call-of-duty-like-its-2008-again-please-dont-tell-any-cool-people)
- - [Grounded finally makes survival fun](https://www.pcgamer.com/grounded-finally-makes-survival-fun)
- - [Best Sandbox 2022: Teardown](https://www.pcgamer.com/best-sandbox-2022-teardown)<!-- GAME:END -->
+ - [Asus pushes Intel&#39;s Core i9 13900K over 9GHz setting new world record](https://www.pcgamer.com/asus-pushes-intels-core-i9-13900k-over-9ghz-setting-new-world-record)
+ - [Blizzard&#39;s survival game team has &#39;doubled in size&#39; and BlizzCon is coming back](https://www.pcgamer.com/blizzards-survival-game-team-has-doubled-in-size-and-blizzcon-is-coming-back)
+ - [I&#39;m hooked on Call of Duty like it&#39;s 2008 again &lpar;please don&#39;t tell any cool people&rpar;](https://www.pcgamer.com/im-hooked-on-call-of-duty-like-its-2008-again-please-dont-tell-any-cool-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
