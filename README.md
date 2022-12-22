@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bruh...](http://9gag.com/gag/a7q3nzr)
- - 🚯 [What!!](http://9gag.com/gag/ajV8K9G)
- - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
+ - 🚖 [I blame shit-tok](http://9gag.com/gag/ajV8dvq)
+ - 🚯 [They&#39;re also fighting the intergalactic empire, the army of the undead and the avengers at the same time!](http://9gag.com/gag/aNwYG14)
+ - 🚯 [Miss Universe contestant from Ukraine](http://9gag.com/gag/aDY1qXN)<!-- MEMES:END -->
 
 --- 
 
