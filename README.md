@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar court: The case for and against Spider](https://www.polygon.com/23521274/avatar-way-water-spider-jack-champion)
- - [Celebrating 25 Years of Gran Turismo](https://blog.playstation.com/2022/12/22/celebrating-25-years-of-gran-turismo/)
- - [Square Enix Abandons Its Chocobo Racing Game Just 9 Months After Launch](https://kotaku.com/chocobo-racing-gp-switch-final-fantasy-mario-kart-1849922771)<!-- GAME:END -->
+ - [The State Of Xbox And Game Pass In 2022](https://kotaku.com/xbox-game-pass-2022-year-in-review-series-s-activision-1849920388)
+ - [The Witcher 3 made a small change that causes huge ripples](https://www.polygon.com/23522481/witcher-3-next-gen-quick-sign-cast-rules)
+ - [Colorful peripherals made PC gaming approachable in a way I never expected](https://www.pcgamer.com/colorful-peripherals-made-pc-gaming-approachable-in-a-way-i-never-expected)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
