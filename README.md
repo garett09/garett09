@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The negotiations were short](http://9gag.com/gag/aXnYzZv)
- - 🚯 [I blame shit-tok](http://9gag.com/gag/ajV8dvq)
- - 🚯 [Journalistic little aloof](http://9gag.com/gag/a04QDyz)<!-- MEMES:END -->
+ - 🚖 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 🚯 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - 🚯 [Tis but a scratch](http://9gag.com/gag/awZAP2x)<!-- MEMES:END -->
 
 --- 
 
