@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon didn’t reinvent itself in 2022, and maybe it shouldn’t have to](https://www.polygon.com/23513659/pokemon-open-world-2022-year-in-review)
  - [The GTA 6 leak was one of the biggest ever, and the only winners were the news writers](https://www.pcgamer.com/the-gta-6-leak-was-one-of-the-biggest-ever-and-the-only-winners-were-the-news-writers)
- - [World of Warcraft to get six updates in the next year](https://www.polygon.com/23522309/world-of-warcraft-dragonflight-roadmap-season-1-2)
- - [Amazon&#39;s adding shorts and tights to a new Lost Ark class to dial-down the lewdness](https://www.pcgamer.com/amazons-adding-shorts-and-tights-to-a-new-lost-ark-class-to-dial-down-the-lewdness)<!-- GAME:END -->
+ - [World of Warcraft to get six updates in the next year](https://www.polygon.com/23522309/world-of-warcraft-dragonflight-roadmap-season-1-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
