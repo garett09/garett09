@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Technically.... He&#39;s right](http://9gag.com/gag/aDY1NPd)
- - 🚯 [Short and sweet](http://9gag.com/gag/a9qKVED)
- - 🚯 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)<!-- MEMES:END -->
+ - 🚖 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - 🚯 [Monk mom...](http://9gag.com/gag/aDY1rN9)
+ - 🚯 [If being petty was a sport...](http://9gag.com/gag/aGEZ6qK)<!-- MEMES:END -->
 
 --- 
 
