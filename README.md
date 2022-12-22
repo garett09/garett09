@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Therabody Smart Goggles Review: Heat, Vibrations, and Massage](https://www.wired.com/review/therabody-smart-goggles/)
- - [The Best Automated Espresso, Latte, &amp; Cappuccino Makers &lpar;2022&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
- - [Apple adds new Shortcuts actions for Books, Wallpapers](https://appleinsider.com/articles/22/12/22/apple-adds-new-shortcuts-actions-for-books-wallpapers?utm_medium=rss)<!-- TECH:END -->
+ - [NFL announces multi-year YouTube deal for Sunday Ticket](https://appleinsider.com/articles/22/12/22/nfl-announces-multi-year-youtube-deal-for-sunday-ticket?utm_medium=rss)
+ - [The most underrated smartphones of 2022](https://www.androidauthority.com/underrated-smartphones-2022-3240579/)
+ - [The best new streaming movies this week on Netflix, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
