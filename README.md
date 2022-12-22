@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD for $1,199](https://appleinsider.com/articles/22/12/20/get-apples-m1-macbook-air-with-16gb-ram-1tb-ssd-for-1199?utm_medium=rss)
- - [Mastodon, nostr, and other decentralized social networks are having a moment, despite some complexity, propelled by the apparent decline of Twitter and Meta &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/221222/p13#a221222p13)
- - [Users report horizontal lines on iPhone 14 Pro display at startup](https://appleinsider.com/articles/22/12/22/users-report-horizontal-lines-on-iphone-14-pro-display-at-startup?utm_medium=rss)<!-- TECH:END -->
+ - [Customs data: Chinese companies imported $2.3B worth of semiconductor manufacturing machines in November, down 40% YoY and the lowest level since May 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p16#a221222p16)
+ - [Our favorite reader-created Android wallpapers of 2022](https://www.androidauthority.com/best-android-wallpapers-2022-3242430/)
+ - [The Bittersweet Defeat of Mpox](https://www.wired.com/story/the-bittersweet-defeat-of-mpox/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
