@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with LinkedIn&#39;s Chief Product Officer Tomer Cohen on the number of people hired via LinkedIn being a core metric, generative AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221222/p5#a221222p5)
- - [The SEC charges ex-Alameda CEO Caroline Ellison and ex-FTX CTO Gary Wang for their role in defrauding FTX&#39;s investors at SBF&#39;s direction between 2019 and 2022 &lpar;U.S. Securities and Exchange Commission&rpar;](http://www.techmeme.com/221222/p4#a221222p4)
- - [Associates of FTX Founder Plead Guilty to Fraud Charges     - CNET](https://www.cnet.com/personal-finance/crypto/associates-of-ftx-founder-plead-guilty-to-fraud-charges/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TuSimple confirms plans to lay off 25% of its workforce, or an estimated 350 workers, following a rough year for the self-driving trucking company &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221222/p6#a221222p6)
+ - [Q&amp;A with LinkedIn&#39;s Chief Product Officer Tomer Cohen on the number of people hired via LinkedIn being a core metric, generative AI, regulation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221222/p5#a221222p5)
+ - [The SEC charges ex-Alameda CEO Caroline Ellison and ex-FTX CTO Gary Wang for their role in defrauding FTX&#39;s investors at SBF&#39;s direction between 2019 and 2022 &lpar;U.S. Securities and Exchange Commission&rpar;](http://www.techmeme.com/221222/p4#a221222p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
