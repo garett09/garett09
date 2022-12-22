@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bruh...](http://9gag.com/gag/a7q3nzr)
- - 🚯 [Share your most random gifs](http://9gag.com/gag/aBd0j9Q)
- - 🚯 [Selling weed to a cop](http://9gag.com/gag/awZAPVW)<!-- MEMES:END -->
+ - 🚖 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
+ - 🚯 [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
+ - 🚯 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)<!-- MEMES:END -->
 
 --- 
 
