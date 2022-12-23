@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wife material](http://9gag.com/gag/aBd0Mvx)
- - 🚯 [The captive orca Tilikum looking at its trainers. There have only been 4 human deaths caused by orcas as of 2019, and Tilikum was responsible for 3 of them.](http://9gag.com/gag/aA03A9E)
- - 🚯 [Best Day Ever!](http://9gag.com/gag/az29wLZ)<!-- MEMES:END -->
+ - 🚖 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
+ - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
 
 --- 
 
