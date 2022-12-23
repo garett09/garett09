@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: Absolution sets up the future of the franchise in the least obvious way](https://www.polygon.com/23521191/dragon-age-absolution-rezaren-tevinter-dreadwolf)
- - [12 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)
- - [The Top 4 Romance Anime to Watch During The 2022 Cuffing Season](https://kotaku.com/2022-2023-cuffing-season-romance-anime-urusei-yatsura-1849924718)<!-- GAME:END -->
+ - [20 must-play indie gems available with the PlayStation Plus Game Catalog](https://blog.playstation.com/2022/12/23/20-must-play-indie-gems-available-with-the-playstation-plus-game-catalog/)
+ - [The metaverse has legs but nowhere to go](https://www.pcgamer.com/the-metaverse-has-legs-but-nowhere-to-go)
+ - [Dragon Age: Absolution sets up the future of the franchise in the least obvious way](https://www.polygon.com/23521191/dragon-age-absolution-rezaren-tevinter-dreadwolf)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
