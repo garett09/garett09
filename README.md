@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You people disgust me](http://9gag.com/gag/aKExyo3)
- - 🚯 [Good night](http://9gag.com/gag/a4oQg3v)
- - 🚯 [Based](http://9gag.com/gag/a6qOg3b)<!-- MEMES:END -->
+ - 🚖 [The captive orca Tilikum looking at its trainers. There have only been 4 human deaths caused by orcas as of 2019, and Tilikum was responsible for 3 of them.](http://9gag.com/gag/aA03A9E)
+ - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
+ - 🚯 [These assholes who kicked an unconscious man in the head - please help identify them. Maybe from Portland.](http://9gag.com/gag/a9qK4N1)<!-- MEMES:END -->
 
 --- 
 
