@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My severe Steam Deck FOMO still won&#39;t let me take the handheld PC plunge](https://www.pcgamer.com/my-severe-steam-deck-fomo-still-wont-let-me-take-the-handheld-pc-plunge)
- - [After almost a year with the Steam Deck I&#39;ve finally been converted](https://www.pcgamer.com/after-almost-a-year-with-the-steam-deck-ive-finally-been-converted)
- - [Souls clones barely stood a chance in 2022, but Steelrising at least had style](https://www.pcgamer.com/souls-clones-barely-stood-a-chance-in-2022-but-steelrising-at-least-had-style)<!-- GAME:END -->
+ - [Dragon Age: Absolution sets up the future of the franchise in the least obvious way](https://www.polygon.com/23521191/dragon-age-absolution-rezaren-tevinter-dreadwolf)
+ - [12 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)
+ - [The Top 4 Romance Anime to Watch During The 2022 Cuffing Season](https://kotaku.com/2022-2023-cuffing-season-romance-anime-urusei-yatsura-1849924718)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
