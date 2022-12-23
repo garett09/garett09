@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange Bullish, backed by Peter Thiel, and Far Peak, a SPAC led by ex-NYSE President Thomas Farley, call off their planned $9B merger announced in 2021 &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/221222/p30#a221222p30)
- - [Wear This Sneaky &#39;Snack Scarf&#39; to Smuggle Food Out of Holiday Parties     - CNET](https://www.cnet.com/culture/wear-this-sneaky-snack-scarf-to-smuggle-food-out-of-holiday-parties/#ftag=CAD590a51e)
- - [LastPass says a threat actor stole a backup copy of its customers&#39; encrypted vault data using cloud storage keys stolen from a LastPass employee in August 2022 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/221222/p29#a221222p29)<!-- TECH:END -->
+ - [Research: tens of thousands of Twitter poll bot votes can cost less than $100, potentially undermining Elon Musk&#39;s move to rely on polls for company decisions &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/221222/p31#a221222p31)
+ - [ITC finds Apple guilty of heart rate monitoring patent infringement](https://appleinsider.com/articles/22/12/23/itc-finds-apple-guilty-of-heart-rate-monitoring-patent-infringement?utm_medium=rss)
+ - [Hackers stole encrypted LastPass password vaults, and we’re just now hearing about it](https://www.theverge.com/2022/12/22/23523322/lastpass-data-breach-cloud-encrypted-password-vault-hackers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
