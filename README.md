@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/a6qOg3b)
- - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
+ - 🚖 [Do you have any talent?](http://9gag.com/gag/aBd0M0Q)
+ - 🚯 [Watching shows be like:](http://9gag.com/gag/aNwYMoK)
+ - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)<!-- MEMES:END -->
 
 --- 
 
