@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s like a battle royale by that point](http://9gag.com/gag/axozw82)
- - 🚯 [Are you working this weekend bro?](http://9gag.com/gag/aPgYq9w)
- - 🚯 [Denied entry because of facial recognition database. Get ready boys &amp; girls, it&#39;s only the beginning](http://9gag.com/gag/aBd0eoQ)<!-- MEMES:END -->
+ - 🚖 [Fascinating behaviors at the airport](http://9gag.com/gag/az29wdz)
+ - 🚯 [Rage comics are so hot right now](http://9gag.com/gag/aKExMrj)
+ - 🚯 [Cocky young guy VS an old man that actually did some boxing xD](http://9gag.com/gag/anz9Peo)<!-- MEMES:END -->
 
 --- 
 
