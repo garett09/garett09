@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fascinating behaviors at the airport](http://9gag.com/gag/az29wdz)
- - 🚯 [Rage comics are so hot right now](http://9gag.com/gag/aKExMrj)
- - 🚯 [Cocky young guy VS an old man that actually did some boxing xD](http://9gag.com/gag/anz9Peo)<!-- MEMES:END -->
+ - 🚖 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
+ - 🚯 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)
+ - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)<!-- MEMES:END -->
 
 --- 
 
