@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Previous post vanished, and also this in .....](http://9gag.com/gag/aoKe7O0)
- - 🚯 [2023 is gon be lit...](http://9gag.com/gag/a2KZ6dD)
- - 🚯 [Damn james.. that was 3rd degree burn](http://9gag.com/gag/aRE1qGy)<!-- MEMES:END -->
+ - 🚖 [Merry Christmas, John.](http://9gag.com/gag/aZDLYA6)
+ - 🚯 [Rage comics are so hot right now](http://9gag.com/gag/aKExMrj)
+ - 🚯 [Brutal](http://9gag.com/gag/aeQrB9q)<!-- MEMES:END -->
 
 --- 
 
