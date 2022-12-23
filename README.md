@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [My severe Steam Deck FOMO still won&#39;t let me take the handheld PC plunge](https://www.pcgamer.com/my-severe-steam-deck-fomo-still-wont-let-me-take-the-handheld-pc-plunge)
  - [After almost a year with the Steam Deck I&#39;ve finally been converted](https://www.pcgamer.com/after-almost-a-year-with-the-steam-deck-ive-finally-been-converted)
- - [Souls clones barely stood a chance in 2022, but Steelrising at least had style](https://www.pcgamer.com/souls-clones-barely-stood-a-chance-in-2022-but-steelrising-at-least-had-style)
- - [Pentiment&#39;s biggest success was making me think about failure](https://www.pcgamer.com/pentiments-biggest-success-was-making-me-think-about-failure)<!-- GAME:END -->
+ - [Souls clones barely stood a chance in 2022, but Steelrising at least had style](https://www.pcgamer.com/souls-clones-barely-stood-a-chance-in-2022-but-steelrising-at-least-had-style)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
