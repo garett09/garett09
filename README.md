@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Hackers obtained LastPass customer data vaults in recent data breach](https://appleinsider.com/articles/22/12/23/hackers-obtained-lastpass-customer-data-vaults-in-recent-data-breach?utm_medium=rss)
  - [Microsoft files a rebuttal to the FTC&#39;s lawsuit to block its Activision deal, saying the deal won&#39;t hurt competition and that it isn&#39;t the top game developer &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/221222/p34#a221222p34)
- - [President Jair Bolsonaro signs into law Brazil&#39;s first crypto framework, which defines digital assets and provides ground rules for crypto brokerages &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p33#a221222p33)<!-- TECH:END -->
+ - [Best Unlimited Data Plans in 2022     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
