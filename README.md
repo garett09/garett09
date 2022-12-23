@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers obtained LastPass customer data vaults in recent data breach](https://appleinsider.com/articles/22/12/23/hackers-obtained-lastpass-customer-data-vaults-in-recent-data-breach?utm_medium=rss)
- - [Tesla beat Apple to an AirPower-like multi-device charger](https://appleinsider.com/articles/22/12/23/tesla-beat-apple-to-an-airpower-like-multi-device-charger?utm_medium=rss)
- - [San Jose-based Tredence, which offers data analytics services for retail, healthcare, and other industries, raised a $175M Series B led by Advent International &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/221223/p5#a221223p5)<!-- TECH:END -->
+ - [BenQ 34-inch ultrawide 2K monitor review: Perfect for Universal Control](https://appleinsider.com/articles/22/12/23/benq-34-inch-ultrawide-2k-monitor-review-perfect-for-universal-control?utm_medium=rss)
+ - [Jessica Henwick Shot a Movie on a Phone. It Wasn’t Exactly Easy](https://www.wired.com/story/phone-cameras-in-film/)
+ - [No, You Haven’t Won a Yeti Cooler From Dick’s Sporting Goods](https://www.wired.com/story/email-scam-dicks-sporting-goods-yeti-cooler/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
