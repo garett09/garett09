@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wife material](http://9gag.com/gag/aBd0Mvx)
- - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
- - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)<!-- MEMES:END -->
+ - 🚖 [Previous post vanished, and also this in .....](http://9gag.com/gag/aoKe7O0)
+ - 🚯 [2023 is gon be lit...](http://9gag.com/gag/a2KZ6dD)
+ - 🚯 [Damn james.. that was 3rd degree burn](http://9gag.com/gag/aRE1qGy)<!-- MEMES:END -->
 
 --- 
 
