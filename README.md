@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Deals: Samsung Cordless Vacuum, Massage Guns and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)
- - [Twitter will now let Blue subscribers upload 60-minute, 1080p videos up to 2GB on the web; iOS and Android users are still limited to 10-minute, 512MB videos &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221223/p4#a221223p4)
- - [Filing: Meta agrees to pay $725M to settle a class-action lawsuit accusing the company of letting third parties, including Cambridge Analytica, access user data &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/221223/p3#a221223p3)<!-- TECH:END -->
+ - [Hackers obtained LastPass customer data vaults in recent data breach](https://appleinsider.com/articles/22/12/23/hackers-obtained-lastpass-customer-data-vaults-in-recent-data-breach?utm_medium=rss)
+ - [Tesla beat Apple to an AirPower-like multi-device charger](https://appleinsider.com/articles/22/12/23/tesla-beat-apple-to-an-airpower-like-multi-device-charger?utm_medium=rss)
+ - [San Jose-based Tredence, which offers data analytics services for retail, healthcare, and other industries, raised a $175M Series B led by Advent International &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/221223/p5#a221223p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
