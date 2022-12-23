@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [These assholes who kicked an unconscious man in the head - please help identify them. Maybe from Portland.](http://9gag.com/gag/a9qK4N1)
- - 🚯 [Yes, it happened again. Don&#39;t laugh...it could have happened to anyone...twice...](http://9gag.com/gag/a3ZQgvN)
- - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
+ - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
+ - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
 
 --- 
 
