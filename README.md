@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These assholes who kicked an unconscious man in the head - please help identify them. Maybe from Portland.](http://9gag.com/gag/a9qK4N1)
- - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - 🚯 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
+ - 🚖 [Tis but a scratch](http://9gag.com/gag/awZAP2x)
+ - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - 🚯 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
 
 --- 
 
