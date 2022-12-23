@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
- - 🚯 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)
- - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)<!-- MEMES:END -->
+ - 🚖 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)
+ - 🚯 [You remember, right?](http://9gag.com/gag/ay2Bjep)
+ - 🚯 [When your girlfriend&#39;s best friend turns out to be a Pron Actress, and she seduces you.](http://9gag.com/gag/adPLDpV)<!-- MEMES:END -->
 
 --- 
 
