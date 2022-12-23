@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
- - 🚯 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
- - 🚯 [Weird how that works, eh?](http://9gag.com/gag/aVbYp0d)<!-- MEMES:END -->
+ - 🚖 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
+ - 🚯 [Tis but a scratch](http://9gag.com/gag/awZAP2x)
+ - 🚯 [Show didn\u2019t just film a rape, but doubled up and filmed her reaction to watching the video](http://9gag.com/gag/a04QDEL)<!-- MEMES:END -->
 
 --- 
 
