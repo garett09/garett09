@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meross Smart WiFi Lamp Review: Small design, big customization](https://appleinsider.com/articles/22/12/23/meross-smart-wifi-lamp-review-small-design-big-customization?utm_medium=rss)
- - [My Android TV went bust this year and I won’t buy another one anytime soon](https://www.androidauthority.com/android-tv-update-problem-3241842/)
- - [Save Up to 72% on Body Massagers and Get Relief From Sore Muscles     - CNET](https://www.cnet.com/deals/save-up-to-72-on-body-massagers-and-get-relief-from-sore-muscles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Mastodon CEO Eugen Rochko on scaling the network, plans for a Mozilla-like split revenue model, shunning ads, talking to investors, and more &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221223/p12#a221223p12)
+ - [AT&amp;T will launch broadband service in states it doesn&#39;t currently serve via a joint venture with BlackRock, initially reaching 1.5M customer locations in the US &lpar;Will Feuer/Wall Street Journal&rpar;](http://www.techmeme.com/221223/p10#a221223p10)
+ - [Apple pulls option to upgrade to new HomeKit architecture in iOS 16.2](https://www.theverge.com/2022/12/22/23522418/apple-ios16-2-homekit-home-app-upgrade-removed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
