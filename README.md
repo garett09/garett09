@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
- - 🚯 [Tis but a scratch](http://9gag.com/gag/awZAP2x)
- - 🚯 [Show didn\u2019t just film a rape, but doubled up and filmed her reaction to watching the video](http://9gag.com/gag/a04QDEL)<!-- MEMES:END -->
+ - 🚖 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
+ - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)
+ - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)<!-- MEMES:END -->
 
 --- 
 
