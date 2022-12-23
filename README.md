@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tis but a scratch](http://9gag.com/gag/awZAP2x)
- - 🚯 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
- - 🚯 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
+ - 🚖 [Make your crushes Christmas something special!](http://9gag.com/gag/amABZOd)
+ - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)
+ - 🚯 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
 
 --- 
 
