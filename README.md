@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)
- - 🚯 [You remember, right?](http://9gag.com/gag/ay2Bjep)
- - 🚯 [When your girlfriend&#39;s best friend turns out to be a Pron Actress, and she seduces you.](http://9gag.com/gag/adPLDpV)<!-- MEMES:END -->
+ - 🚖 [Wife material](http://9gag.com/gag/aBd0Mvx)
+ - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
+ - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)<!-- MEMES:END -->
 
 --- 
 
