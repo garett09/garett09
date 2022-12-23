@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TokToking Apple employee terminated over medical leave, not videos](https://appleinsider.com/articles/22/12/23/toktoking-apple-employee-terminated-over-medical-leave-not-videos?utm_medium=rss)
- - [Research: tens of thousands of Twitter poll bot votes can cost less than $100, potentially undermining Elon Musk&#39;s move to rely on polls for company decisions &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/221222/p31#a221222p31)
- - [NASA&#39;s Groundbreaking Mars Insight Lander Mission Meets Dusty Demise     - CNET](https://www.cnet.com/science/space/nasas-groundbreaking-mars-insight-lander-mission-meets-dusty-demise/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hackers obtained LastPass customer data vaults in recent data breach](https://appleinsider.com/articles/22/12/23/hackers-obtained-lastpass-customer-data-vaults-in-recent-data-breach?utm_medium=rss)
+ - [Microsoft files a rebuttal to the FTC&#39;s lawsuit to block its Activision deal, saying the deal won&#39;t hurt competition and that it isn&#39;t the top game developer &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/221222/p34#a221222p34)
+ - [President Jair Bolsonaro signs into law Brazil&#39;s first crypto framework, which defines digital assets and provides ground rules for crypto brokerages &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p33#a221222p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
