@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meross Smart WiFi Lamp Review: Small design, big customization](https://appleinsider.com/articles/22/12/23/meross-smart-wifi-lamp-review-small-design-big-customization?utm_medium=rss)
  - [My Android TV went bust this year and I won’t buy another one anytime soon](https://www.androidauthority.com/android-tv-update-problem-3241842/)
- - [Save Up to 72% on Body Massagers and Get Relief From Sore Muscles     - CNET](https://www.cnet.com/deals/save-up-to-72-on-body-massagers-and-get-relief-from-sore-muscles/#ftag=CAD590a51e)
- - [Ireland&#39;s Data Protection Commission says it looking into reports that details of approximately 5.4M Twitter users were leaked online in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221223/p9#a221223p9)<!-- TECH:END -->
+ - [Save Up to 72% on Body Massagers and Get Relief From Sore Muscles     - CNET](https://www.cnet.com/deals/save-up-to-72-on-body-massagers-and-get-relief-from-sore-muscles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
