@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
- - 🚯 [The carp &#39;ghosted&#39; Clarkson and his dad.](http://9gag.com/gag/a5XM3gr)
- - 🚯 [Excited Puppy](http://9gag.com/gag/avQ8w4O)<!-- MEMES:END -->
+ - 🚖 [These assholes who kicked an unconscious man in the head - please help identify them. Maybe from Portland.](http://9gag.com/gag/a9qK4N1)
+ - 🚯 [Yes, it happened again. Don&#39;t laugh...it could have happened to anyone...twice...](http://9gag.com/gag/a3ZQgvN)
+ - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
 
 --- 
 
