@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We voted, you voted: Everyone loves a Pixel camera, Xperia not so much](https://www.androidauthority.com/teamaa-vs-reader-blind-camera-3258408/)
- - [How to Use Physics to Tell If That Steph Curry Video Is Real](https://www.wired.com/story/how-to-use-physics-to-tell-if-that-steph-curry-video-is-real/)
- - [11 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2022&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
+ - [ITC finds Apple guilty of heart rate monitoring patent infringement](https://appleinsider.com/articles/22/12/23/itc-finds-apple-guilty-of-heart-rate-monitoring-patent-infringement?utm_medium=rss)
+ - [Missing in action: The smartphones we didn’t see in 2022](https://www.androidauthority.com/missing-phones-2022-3241275/)
+ - [13 Best Air Purifiers &lpar;2022&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
