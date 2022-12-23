@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BenQ 34-inch ultrawide 2K monitor review: Perfect for Universal Control](https://appleinsider.com/articles/22/12/23/benq-34-inch-ultrawide-2k-monitor-review-perfect-for-universal-control?utm_medium=rss)
- - [Jessica Henwick Shot a Movie on a Phone. It Wasn’t Exactly Easy](https://www.wired.com/story/phone-cameras-in-film/)
- - [No, You Haven’t Won a Yeti Cooler From Dick’s Sporting Goods](https://www.wired.com/story/email-scam-dicks-sporting-goods-yeti-cooler/)<!-- TECH:END -->
+ - [We voted, you voted: Everyone loves a Pixel camera, Xperia not so much](https://www.androidauthority.com/teamaa-vs-reader-blind-camera-3258408/)
+ - [How to Use Physics to Tell If That Steph Curry Video Is Real](https://www.wired.com/story/how-to-use-physics-to-tell-if-that-steph-curry-video-is-real/)
+ - [11 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2022&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
