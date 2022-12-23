@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: Apple M1 Max MacBook Pro 16-inch &lpar;32GB RAM, 1TB SSD&rpar; on sale for $2,999](https://appleinsider.com/articles/22/12/23/lowest-price-ever-apple-m1-max-macbook-pro-16-inch-32gb-ram-1tb-ssd-on-sale-for-2999?utm_medium=rss)
- - [Twitter Is No Longer a Creative Haven](https://www.wired.com/story/plaintext-twitter-is-no-longer-a-creative-haven/)
- - [Cambridge Analytica suit settled for historic $725 million [u]](https://appleinsider.com/articles/22/12/23/cambridge-analytica-suit-settled-for-historic-725-million?utm_medium=rss)<!-- TECH:END -->
+ - [My Android TV went bust this year and I won’t buy another one anytime soon](https://www.androidauthority.com/android-tv-update-problem-3241842/)
+ - [Save Up to 72% on Body Massagers and Get Relief From Sore Muscles     - CNET](https://www.cnet.com/deals/save-up-to-72-on-body-massagers-and-get-relief-from-sore-muscles/#ftag=CAD590a51e)
+ - [Ireland&#39;s Data Protection Commission says it looking into reports that details of approximately 5.4M Twitter users were leaked online in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221223/p9#a221223p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
