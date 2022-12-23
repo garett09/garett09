@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry Christmas, John.](http://9gag.com/gag/aZDLYA6)
- - 🚯 [Rage comics are so hot right now](http://9gag.com/gag/aKExMrj)
- - 🚯 [Brutal](http://9gag.com/gag/aeQrB9q)<!-- MEMES:END -->
+ - 🚖 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
+ - 🚯 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
+ - 🚯 [Weird how that works, eh?](http://9gag.com/gag/aVbYp0d)<!-- MEMES:END -->
 
 --- 
 
