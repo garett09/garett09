@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philadelphia-based Exyn, which develops AI-powered navigation tech for drones and robots, raised a $35M Series B from Reliance and others at a ~$107M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221224/p4#a221224p4)
- - [TikTok’s Dream Worlds Thrived in a Nightmare Year](https://www.wired.com/story/tiktok-dream-worlds/)
- - [Transformative Businesses Are Born in Tough Times](https://www.wired.com/story/business-economy-startups/)<!-- TECH:END -->
+ - [Tips for the tech obsessed to avoid social faux pas this holiday season](https://www.androidauthority.com/holiday-tips-for-the-tech-obsessed-3232822/)
+ - [31 Best Nintendo Switch Games for Every Player &lpar;2022&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
+ - [This Christmas, It’s ‘Firmageddon’ as Climate Change Hits Oregon](https://www.wired.com/story/this-christmas-its-firmageddon-as-climate-change-hits-oregon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
