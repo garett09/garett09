@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC orders Mastercard to give its rivals customer data for processing debit card payments, alleging Mastercard used tokenization to block competing networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/221223/p17#a221223p17)
- - [Reporter Gets Hilariously Grumpy on Camera About Covering Storm, Goes Viral     - CNET](https://www.cnet.com/culture/reporter-gets-hilariously-grumpy-on-camera-about-covering-storm-goes-viral/#ftag=CAD590a51e)
- - [Tesla Announces $300 AirPower-Like Wireless Charging Mat     - CNET](https://www.cnet.com/tech/mobile/tesla-announces-300-airpower-like-wireless-charging-mat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Service Providers for Streaming in 2022     - CNET](https://www.cnet.com/news/best-internet-providers-for-streaming/#ftag=CAD590a51e)
+ - [The 4 Best HDMI Cables for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-hdmi-cable/#ftag=CAD590a51e)
+ - [Best Instant Pot of 2022     - CNET](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
