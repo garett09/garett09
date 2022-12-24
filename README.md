@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What were the biggest streaming flops of 2022?](https://www.androidauthority.com/biggest-streaming-flops-of-2022-worst-movies-on-netflix-3236653/)
- - [Mastodon&#39;s decentralized nature raises concerns about the liability of users running their own instances, under copyright and privacy laws around the world &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/221224/p6#a221224p6)
- - [Merry Christmas to all of you, from all of us at AppleInsider](https://appleinsider.com/articles/22/12/24/merry-christmas-to-all-of-you-from-all-of-us-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
+ - [Merry Christmas to all of you, from all of us at AppleInsider](https://appleinsider.com/articles/22/12/24/merry-christmas-to-all-of-you-from-all-of-us-at-appleinsider?utm_medium=rss)
+ - [9 great games for your PlayStation from 2022](https://www.theverge.com/23494185/playstation-ps5-ps4-games-best-2022-roundup)
+ - [What were the biggest streaming flops of 2022?](https://www.androidauthority.com/biggest-streaming-flops-of-2022-worst-movies-on-netflix-3236653/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
