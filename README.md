@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His flirting skills are unquestionable](http://9gag.com/gag/abvYnAO)
- - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
- - 🚯 [They are spectacular](http://9gag.com/gag/aKExQx6)<!-- MEMES:END -->
+ - 🚖 [When your girlfriend&#39;s best friend turns out to be a Pron Actress, and she seduces you.](http://9gag.com/gag/adPLDpV)
+ - 🚯 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
+ - 🚯 [Not my f**king problem](http://9gag.com/gag/a4oQOep)<!-- MEMES:END -->
 
 --- 
 
