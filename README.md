@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
- - 🚯 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)
- - 🚯 [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)<!-- MEMES:END -->
+ - 🚖 [Well well well](http://9gag.com/gag/aNwYxYr)
+ - 🚯 [Every dog fall in love one day...](http://9gag.com/gag/aA03WG9)
+ - 🚯 [The Volcano Cap Mushroom Erupt](http://9gag.com/gag/aVbYnRP)<!-- MEMES:END -->
 
 --- 
 
