@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)
- - 🚯 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
- - 🚯 [Indian food](http://9gag.com/gag/a2KZeEY)<!-- MEMES:END -->
+ - 🚖 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)
+ - 🚯 [Before and after leg lengthening.](http://9gag.com/gag/aeQr8ov)
+ - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
 
 --- 
 
