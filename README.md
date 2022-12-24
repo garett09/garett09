@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Deals Dec. 24: $220 off Roborock robot vacuum, Mac Studio for $1,849, $199 AirPods Pro 2 &amp; more](https://appleinsider.com/articles/22/12/24/daily-deals-dec-24-220-off-roborock-robot-vacuum-mac-studio-for-1849-199-airpods-pro-2-more?utm_medium=rss)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-464-3259575/)
- - [Bengals vs. Patriots Livestream: How to Watch NFL Week 16 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bengals-vs-patriots-livestream-how-to-watch-nfl-week-16-online-today/#ftag=CAD590a51e)
- - [Deals: 25% off refurbished Sonos One SL Speaker &amp; Beam Soundbar](https://appleinsider.com/articles/22/12/23/deals-25-off-refurbished-sonos-one-sl-speaker-beam-soundbar?utm_medium=rss)<!-- TECH:END -->
+ - [How Kindle novelists are using ChatGPT](https://www.theverge.com/23520625/chatgpt-openai-amazon-kindle-novel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
