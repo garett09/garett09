@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merry Christmas to all of you, from all of us at AppleInsider](https://appleinsider.com/articles/22/12/24/merry-christmas-to-all-of-you-from-all-of-us-at-appleinsider?utm_medium=rss)
- - [9 great games for your PlayStation from 2022](https://www.theverge.com/23494185/playstation-ps5-ps4-games-best-2022-roundup)
- - [What were the biggest streaming flops of 2022?](https://www.androidauthority.com/biggest-streaming-flops-of-2022-worst-movies-on-netflix-3236653/)<!-- TECH:END -->
+ - [Joe Biden signs into law an $858B defense policy bill that confers more power and obligations on US Cyber Command &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/221224/p7#a221224p7)
+ - [Best Steam Deck Accessories for Expanding Your System     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)
+ - [Best Games on Xbox Game Pass: New Shooters Kick Off December     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-best-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
