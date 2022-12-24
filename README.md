@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He Dieded!](http://9gag.com/gag/anz9Pg0)
- - 🚯 [Indian food](http://9gag.com/gag/a2KZeEY)
- - 🚯 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)<!-- MEMES:END -->
+ - 🚖 [Make your crushes Christmas something special!](http://9gag.com/gag/amABZOd)
+ - 🚯 [Leave the king alone](http://9gag.com/gag/a5XMLXN)
+ - 🚯 [One last game](http://9gag.com/gag/aeQ5KYq)<!-- MEMES:END -->
 
 --- 
 
