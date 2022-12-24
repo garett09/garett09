@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Biden signs into law an $858B defense policy bill that confers more power and obligations on US Cyber Command &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/221224/p7#a221224p7)
- - [Best Steam Deck Accessories for Expanding Your System     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)
- - [Best Games on Xbox Game Pass: New Shooters Kick Off December     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-best-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Monitors We&#39;ve Tested in 2022     - CNET](https://www.cnet.com/tech/computing/best-monitors-weve-tested-in-2022/#ftag=CAD590a51e)
+ - [Best BBQ to Order Online From Goldbelly     - CNET](https://www.cnet.com/news/best-bbq-to-order-online-from-goldbelly/#ftag=CAD590a51e)
+ - [Joe Biden signs into law an $858B defense policy bill that confers more power and obligations on US Cyber Command &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/221224/p7#a221224p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
