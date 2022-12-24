@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC orders Mastercard to provide customer data to its competitors for debit card payments, alleging Mastercard used tokenization to block competing networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/221223/p17#a221223p17)
- - [Tesla Announces $300 AirPower-Like Wireless Charging Mat     - CNET](https://www.cnet.com/tech/mobile/tesla-announces-300-airpower-like-wireless-charging-mat/#ftag=CAD590a51e)
- - [&#39;Black Panther&#39; Sequel Script Was Very Different Before Chadwick Boseman Died     - CNET](https://www.cnet.com/culture/entertainment/black-panther-sequel-script-was-very-different-before-chadwick-boseman-died/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC orders Mastercard to give its rivals customer data for processing debit card payments, alleging Mastercard used tokenization to block competing networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/221223/p17#a221223p17)
+ - [Reporter Gets Hilariously Grumpy on Camera About Covering Storm, Goes Viral     - CNET](https://www.cnet.com/culture/reporter-gets-hilariously-grumpy-on-camera-about-covering-storm-goes-viral/#ftag=CAD590a51e)
+ - [Tesla Announces $300 AirPower-Like Wireless Charging Mat     - CNET](https://www.cnet.com/tech/mobile/tesla-announces-300-airpower-like-wireless-charging-mat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
