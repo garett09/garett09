@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Not my f**king problem](http://9gag.com/gag/a4oQOep)
- - 🚯 [Work smarter not harder](http://9gag.com/gag/aDY1Ej9)
- - 🚯 [I&#39;m doin my part](http://9gag.com/gag/aoKebpw)<!-- MEMES:END -->
+ - 🚯 [French police charging firefighters, firefighters not having any of it](http://9gag.com/gag/az29Wmz)
+ - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)<!-- MEMES:END -->
 
 --- 
 
