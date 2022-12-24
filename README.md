@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 553 answer and hint for Saturday, December 24](https://www.pcgamer.com/wordle-553-answer-december-24)
- - [This Week on Xbox: Exploring Your New Xbox Series S and Game Updates](https://news.xbox.com/en-us/2022/12/23/this-week-on-xbox-exploring-your-new-xbox-series-s-and-game-updates/)
- - [Glass Onion, Top Gun 2, and every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/23/23517032/new-movies-watch-glass-onion-netflix-top-gun-maverick-paramount-plus-aftersun-vod)<!-- GAME:END -->
+ - [Is it weird that I still play games at 1080p?](https://www.pcgamer.com/is-it-weird-that-i-still-play-games-at-1080p)
+ - [Ubisoft is failing spectacularly at remaking its most beloved games](https://www.pcgamer.com/ubisoft-is-failing-spectacularly-at-remaking-its-most-beloved-games)
+ - [2022 was Twitch&#39;s most dramatic year yet](https://www.pcgamer.com/2022-was-twitchs-most-dramatic-year-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
