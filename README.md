@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russians Hacked JFK Airport Taxi Dispatch in Line-Skipping Scheme](https://www.wired.com/story/russia-jfk-taxi-hack-security-roundup/)
- - [35 Best Couch Co-Op Games &lpar;2022&rpar;: PS4/5, Xbox, PC, Switch](https://www.wired.com/gallery/best-local-couch-co-op-games/)
- - [10 Best Meal Kit Delivery Services &lpar;2022&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)<!-- TECH:END -->
+ - [I let my Coros watch train me for a marathon, here’s how it went](https://www.androidauthority.com/garmin-coros-marathon-training-plan-3240771/)
+ - [Mastodon 101: how to follow &lpar;and unfollow&rpar; other accounts](https://www.theverge.com/23519279/mastodon-instance-follow-friend)
+ - [Marvel Snap is kind of like a wild comic book story generator](https://www.theverge.com/games/23511433/marvel-snap-comic-book-generator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
