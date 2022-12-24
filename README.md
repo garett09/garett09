@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Is The Muppet Christmas Carol better with or without its controversially deleted song?](https://www.polygon.com/23518742/muppet-christmas-carol-streaming-deleted-song-when-love-is-gone)
  - [What does Santa the action hero stand for?](https://www.polygon.com/23495040/violent-night-fatman-superhero-action-santa)
- - [The best Christmas action movies that aren’t Die Hard](https://www.polygon.com/what-to-watch/23486977/best-action-movies-christmas-streaming-die-hard)
- - [Is it weird that I still play games at 1080p?](https://www.pcgamer.com/is-it-weird-that-i-still-play-games-at-1080p)<!-- GAME:END -->
+ - [The best Christmas action movies that aren’t Die Hard](https://www.polygon.com/what-to-watch/23486977/best-action-movies-christmas-streaming-die-hard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
