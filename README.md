@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)
- - 🚯 [Before and after leg lengthening.](http://9gag.com/gag/aeQr8ov)
- - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
+ - 🚖 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
+ - 🚯 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
+ - 🚯 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)<!-- MEMES:END -->
 
 --- 
 
