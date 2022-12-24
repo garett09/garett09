@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
- - 🚯 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
- - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)<!-- MEMES:END -->
+ - 🚖 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
+ - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
+ - 🚯 [Reposting this rage comic I did a few years ago.](http://9gag.com/gag/aBd0pMN)<!-- MEMES:END -->
 
 --- 
 
