@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow Power Kit review: off-grid living made easy](https://www.theverge.com/23508869/ecoflow-power-kit-review-off-grid-vanlife)
- - [The 2022 crypto winter showed the digital asset ecosystem is more interconnected than many participants realize, despite decentralization being a core tenet &lpar;Bloomberg&rpar;](http://www.techmeme.com/221224/p3#a221224p3)
- - [A look at some NFT utility cases like gaming, as NFT trading volume fell from $17B in January 2022 to $400M in November 2022, amid the crypto market slump &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/221224/p2#a221224p2)<!-- TECH:END -->
+ - [Philadelphia-based Exyn, which develops AI-powered navigation tech for drones and robots, raised a $35M Series B from Reliance and others at a ~$107M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221224/p4#a221224p4)
+ - [TikTok’s Dream Worlds Thrived in a Nightmare Year](https://www.wired.com/story/tiktok-dream-worlds/)
+ - [Transformative Businesses Are Born in Tough Times](https://www.wired.com/story/business-economy-startups/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
