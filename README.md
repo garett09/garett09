@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French police charging firefighters, firefighters not having any of it](http://9gag.com/gag/az29Wmz)
- - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)
- - 🚯 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)<!-- MEMES:END -->
+ - 🚖 [*Slow claps*](http://9gag.com/gag/aoKebZe)
+ - 🚯 [Who reads this?](http://9gag.com/gag/ay2Bg7V)
+ - 🚯 [Another day in enriched paris.](http://9gag.com/gag/axozxv2)<!-- MEMES:END -->
 
 --- 
 
