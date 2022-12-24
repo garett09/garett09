@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
- - 🚯 [When your girlfriend&#39;s best friend turns out to be a Pron Actress, and she seduces you.](http://9gag.com/gag/adPLDpV)
- - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)<!-- MEMES:END -->
+ - 🚖 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)
+ - 🚯 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
+ - 🚯 [Indian food](http://9gag.com/gag/a2KZeEY)<!-- MEMES:END -->
 
 --- 
 
