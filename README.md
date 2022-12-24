@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Slow claps*](http://9gag.com/gag/aoKebZe)
- - 🚯 [Who reads this?](http://9gag.com/gag/ay2Bg7V)
- - 🚯 [Another day in enriched paris.](http://9gag.com/gag/axozxv2)<!-- MEMES:END -->
+ - 🚖 [Reposting this rage comic I did a few years ago.](http://9gag.com/gag/aBd0pMN)
+ - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)
+ - 🚯 [Indian food](http://9gag.com/gag/a2KZeEY)<!-- MEMES:END -->
 
 --- 
 
