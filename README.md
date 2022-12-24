@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tips for the tech obsessed to avoid social faux pas this holiday season](https://www.androidauthority.com/holiday-tips-for-the-tech-obsessed-3232822/)
- - [31 Best Nintendo Switch Games for Every Player &lpar;2022&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [This Christmas, It’s ‘Firmageddon’ as Climate Change Hits Oregon](https://www.wired.com/story/this-christmas-its-firmageddon-as-climate-change-hits-oregon/)<!-- TECH:END -->
+ - [Russians Hacked JFK Airport Taxi Dispatch in Line-Skipping Scheme](https://www.wired.com/story/russia-jfk-taxi-hack-security-roundup/)
+ - [35 Best Couch Co-Op Games &lpar;2022&rpar;: PS4/5, Xbox, PC, Switch](https://www.wired.com/gallery/best-local-couch-co-op-games/)
+ - [10 Best Meal Kit Delivery Services &lpar;2022&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
