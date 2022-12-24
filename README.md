@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Christmas action movies that aren’t Die Hard](https://www.polygon.com/what-to-watch/23486977/best-action-movies-christmas-streaming-die-hard)
  - [Is it weird that I still play games at 1080p?](https://www.pcgamer.com/is-it-weird-that-i-still-play-games-at-1080p)
- - [Ubisoft is failing spectacularly at remaking its most beloved games](https://www.pcgamer.com/ubisoft-is-failing-spectacularly-at-remaking-its-most-beloved-games)
- - [2022 was Twitch&#39;s most dramatic year yet](https://www.pcgamer.com/2022-was-twitchs-most-dramatic-year-yet)<!-- GAME:END -->
+ - [Ubisoft is failing spectacularly at remaking its most beloved games](https://www.pcgamer.com/ubisoft-is-failing-spectacularly-at-remaking-its-most-beloved-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
