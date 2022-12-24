@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You people disgust me](http://9gag.com/gag/aKExyo3)
- - 🚯 [Show didn\u2019t just film a rape, but doubled up and filmed her reaction to watching the video](http://9gag.com/gag/a04QDEL)
- - 🚯 [Not my f**king problem](http://9gag.com/gag/a4oQOep)<!-- MEMES:END -->
+ - 🚖 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
+ - 🚯 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
+ - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)<!-- MEMES:END -->
 
 --- 
 
