@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court transcript from plea hearing: Caroline Ellison said she and Sam Bankman-Fried knowingly misled lenders about how much Alameda was borrowing from FTX &lpar;Reuters&rpar;](http://www.techmeme.com/221223/p15#a221223p15)
- - [Deals: 25% off refurbished Sonos One SL Speaker &amp; Beam Soundbar](https://appleinsider.com/articles/22/12/23/deals-25-off-refurbished-sonos-one-sl-speaker-beam-soundbar?utm_medium=rss)
- - [Search Engine You.com Launches ChatGPT-Style Chatbot, But Don&#39;t Trust It Fully Yet     - CNET](https://www.cnet.com/tech/services-and-software/search-engine-you-com-launches-chatgpt-style-chatbot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla Announces $300 AirPower-Like Wireless Charging Mat     - CNET](https://www.cnet.com/tech/mobile/tesla-announces-300-airpower-like-wireless-charging-mat/#ftag=CAD590a51e)
+ - [&#39;Black Panther&#39; Sequel Script Was Very Different Before Chadwick Boseman Died     - CNET](https://www.cnet.com/culture/entertainment/black-panther-sequel-script-was-very-different-before-chadwick-boseman-died/#ftag=CAD590a51e)
+ - [Get AirPods Pro 2 for $199 with deals from Verizon &amp; Amazon](https://appleinsider.com/articles/22/12/23/get-airpods-pro-2-for-199-with-deals-from-verizon-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
