@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EcoFlow Power Kit review: off-grid living made easy](https://www.theverge.com/23508869/ecoflow-power-kit-review-off-grid-vanlife)
  - [The 2022 crypto winter showed the digital asset ecosystem is more interconnected than many participants realize, despite decentralization being a core tenet &lpar;Bloomberg&rpar;](http://www.techmeme.com/221224/p3#a221224p3)
- - [A look at some NFT utility cases like gaming, as NFT trading volume fell from $17B in January 2022 to $400M in November 2022, amid the crypto market slump &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/221224/p2#a221224p2)
- - [Congress passes a bill to let the FCC regulate rates for prison calling services, tackling the issue of inmates having to pay extortionate rates for calls &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221224/p1#a221224p1)<!-- TECH:END -->
+ - [A look at some NFT utility cases like gaming, as NFT trading volume fell from $17B in January 2022 to $400M in November 2022, amid the crypto market slump &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/221224/p2#a221224p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
