@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I let my Coros watch train me for a marathon, here’s how it went](https://www.androidauthority.com/garmin-coros-marathon-training-plan-3240771/)
- - [Mastodon 101: how to follow &lpar;and unfollow&rpar; other accounts](https://www.theverge.com/23519279/mastodon-instance-follow-friend)
- - [Marvel Snap is kind of like a wild comic book story generator](https://www.theverge.com/games/23511433/marvel-snap-comic-book-generator)<!-- TECH:END -->
+ - [Best keyboards for iPad in 2022](https://appleinsider.com/inside/ipad/best/best-keyboards-for-ipad-in-2022?utm_medium=rss)
+ - [Twitter restores a feature that promotes suicide prevention hotlines and other safety resources, after reportedly removing it following an order by Elon Musk &lpar;Kenneth Li/Reuters&rpar;](http://www.techmeme.com/221224/p5#a221224p5)
+ - [I let my Coros watch train me for a marathon, here’s how it went](https://www.androidauthority.com/garmin-coros-marathon-training-plan-3240771/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
