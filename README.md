@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
- - 🚯 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
- - 🚯 [Reposting this rage comic I did a few years ago.](http://9gag.com/gag/aBd0pMN)<!-- MEMES:END -->
+ - 🚖 [Not my f**king problem](http://9gag.com/gag/a4oQOep)
+ - 🚯 [Work smarter not harder](http://9gag.com/gag/aDY1Ej9)
+ - 🚯 [I&#39;m doin my part](http://9gag.com/gag/aoKebpw)<!-- MEMES:END -->
 
 --- 
 
