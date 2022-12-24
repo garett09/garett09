@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not my f**king problem](http://9gag.com/gag/a4oQOep)
- - 🚯 [French police charging firefighters, firefighters not having any of it](http://9gag.com/gag/az29Wmz)
- - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)<!-- MEMES:END -->
+ - 🚖 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
+ - 🚯 [You people disgust me](http://9gag.com/gag/aKExyo3)
+ - 🚯 [Not my f**king problem](http://9gag.com/gag/a4oQOep)<!-- MEMES:END -->
 
 --- 
 
