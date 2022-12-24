@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best keyboards for iPad in 2022](https://appleinsider.com/inside/ipad/best/best-keyboards-for-ipad-in-2022?utm_medium=rss)
- - [Twitter restores a feature that promotes suicide prevention hotlines and other safety resources, after reportedly removing it following an order by Elon Musk &lpar;Kenneth Li/Reuters&rpar;](http://www.techmeme.com/221224/p5#a221224p5)
- - [I let my Coros watch train me for a marathon, here’s how it went](https://www.androidauthority.com/garmin-coros-marathon-training-plan-3240771/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-464-3259575/)
+ - [Bengals vs. Patriots Livestream: How to Watch NFL Week 16 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bengals-vs-patriots-livestream-how-to-watch-nfl-week-16-online-today/#ftag=CAD590a51e)
+ - [Deals: 25% off refurbished Sonos One SL Speaker &amp; Beam Soundbar](https://appleinsider.com/articles/22/12/23/deals-25-off-refurbished-sonos-one-sl-speaker-beam-soundbar?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
