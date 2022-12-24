@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
- - 🚯 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)
- - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)<!-- MEMES:END -->
+ - 🚖 [Save and never use it](http://9gag.com/gag/a7q3RdL)
+ - 🚯 [Leave the king alone](http://9gag.com/gag/a5XMLXN)
+ - 🚯 [There was a parcel apocalypse in China due to a new wave of coronavirus: 37 million people were infected in one day and all logistics just stopped.](http://9gag.com/gag/aBd0DZO)<!-- MEMES:END -->
 
 --- 
 
