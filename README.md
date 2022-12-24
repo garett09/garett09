@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Make your crushes Christmas something special!](http://9gag.com/gag/amABZOd)
- - 🚯 [Leave the king alone](http://9gag.com/gag/a5XMLXN)
- - 🚯 [One last game](http://9gag.com/gag/aeQ5KYq)<!-- MEMES:END -->
+ - 🚖 [He Dieded!](http://9gag.com/gag/anz9Pg0)
+ - 🚯 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
+ - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)<!-- MEMES:END -->
 
 --- 
 
