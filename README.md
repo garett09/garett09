@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congress passes a bill to let the FCC regulate rates for prison calling services, tackling the issue of inmates having to pay extortionate rates for calls &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221224/p1#a221224p1)
  - [Tencent confirms it joined the open-source chip group RISC-V International as a premier member; 13 out of 25 members are from China, including ZTE and Huawei &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221223/p18#a221223p18)
- - [Best Internet Service Providers for Streaming in 2022     - CNET](https://www.cnet.com/news/best-internet-providers-for-streaming/#ftag=CAD590a51e)
- - [The 4 Best HDMI Cables for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-hdmi-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Service Providers for Streaming in 2022     - CNET](https://www.cnet.com/news/best-internet-providers-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
