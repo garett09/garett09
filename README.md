@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Dec. 24: $220 off Roborock robot vacuum, Mac Studio for $1,849, $199 AirPods Pro 2 &amp; more](https://appleinsider.com/articles/22/12/24/daily-deals-dec-24-220-off-roborock-robot-vacuum-mac-studio-for-1849-199-airpods-pro-2-more?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-464-3259575/)
- - [How Kindle novelists are using ChatGPT](https://www.theverge.com/23520625/chatgpt-openai-amazon-kindle-novel)<!-- TECH:END -->
+ - [What were the biggest streaming flops of 2022?](https://www.androidauthority.com/biggest-streaming-flops-of-2022-worst-movies-on-netflix-3236653/)
+ - [Mastodon&#39;s decentralized nature raises concerns about the liability of users running their own instances, under copyright and privacy laws around the world &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/221224/p6#a221224p6)
+ - [Merry Christmas to all of you, from all of us at AppleInsider](https://appleinsider.com/articles/22/12/24/merry-christmas-to-all-of-you-from-all-of-us-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
