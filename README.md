@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress passes a bill to let the FCC regulate rates for prison calling services, tackling the issue of inmates having to pay extortionate rates for calls &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221224/p1#a221224p1)
- - [Tencent confirms it joined the open-source chip group RISC-V International as a premier member; 13 out of 25 members are from China, including ZTE and Huawei &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221223/p18#a221223p18)
- - [Best Internet Service Providers for Streaming in 2022     - CNET](https://www.cnet.com/news/best-internet-providers-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 2022 crypto winter showed the digital asset ecosystem is more interconnected than many participants realize, despite decentralization being a core tenet &lpar;Bloomberg&rpar;](http://www.techmeme.com/221224/p3#a221224p3)
+ - [A look at some NFT utility cases like gaming, as NFT trading volume fell from $17B in January 2022 to $400M in November 2022, amid the crypto market slump &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/221224/p2#a221224p2)
+ - [Congress passes a bill to let the FCC regulate rates for prison calling services, tackling the issue of inmates having to pay extortionate rates for calls &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221224/p1#a221224p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
