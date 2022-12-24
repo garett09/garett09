@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your girlfriend&#39;s best friend turns out to be a Pron Actress, and she seduces you.](http://9gag.com/gag/adPLDpV)
- - 🚯 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
- - 🚯 [Not my f**king problem](http://9gag.com/gag/a4oQOep)<!-- MEMES:END -->
+ - 🚖 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
+ - 🚯 [When your girlfriend&#39;s best friend turns out to be a Pron Actress, and she seduces you.](http://9gag.com/gag/adPLDpV)
+ - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)<!-- MEMES:END -->
 
 --- 
 
