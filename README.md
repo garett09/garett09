@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The weirdest news stories of 2022](https://www.pcgamer.com/the-weirdest-news-stories-of-2022)
- - [Best Co-op 2022: Monster Hunter Rise](https://www.pcgamer.com/best-co-op-2022-monster-hunter-rise)
- - [Turns out I can&#39;t strategize better than Ferrari. Thanks for letting me know, F1 Manager 2022](https://www.pcgamer.com/turns-out-i-cant-strategize-better-than-ferrari-thanks-for-letting-me-know-f1-manager-2022)<!-- GAME:END -->
+ - [Stealth is everywhere in games, but the innovations of Thief have been forgotten](https://www.pcgamer.com/stealth-is-everywhere-in-games-but-the-innovations-of-thief-have-been-forgotten)
+ - [Marvel&#39;s Midnight Suns has the best amnesiac protagonist since Knights of the Old Republic](https://www.pcgamer.com/marvels-midnight-suns-has-the-best-amnesiac-protagonist-since-knights-of-the-old-republic)
+ - [The weirdest news stories of 2022](https://www.pcgamer.com/the-weirdest-news-stories-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
