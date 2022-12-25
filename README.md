@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supply chain experts warn of a months-long disruption risk to Apple&#39;s iPhone production and operations due to worker absenteeism, amid China&#39;s COVID-19 wave &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/221225/p2#a221225p2)
- - [Twitter employees shed light on Elon Musk&#39;s erratic leadership; a Signal message shows Musk wanted &quot;full access&quot; for Bari Weiss, which staff refused to grant &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/221225/p1#a221225p1)
- - [Daily Deals Dec. 24: $220 off Roborock robot vacuum, Mac Studio for $1,849, $199 AirPods Pro 2 &amp; more](https://appleinsider.com/articles/22/12/24/daily-deals-dec-24-220-off-roborock-robot-vacuum-mac-studio-for-1849-199-airpods-pro-2-more?utm_medium=rss)<!-- TECH:END -->
+ - [Sensor Tower: Pinduoduo&#39;s marketplace Temu gained 10.8M installations in the US since Sep. 1, and became the most downloaded US app between Nov. 1 and Dec. 14 &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/221225/p3#a221225p3)
+ - [In a Painful Year, Romance Nerds Embraced Radical Pleasure](https://www.wired.com/story/romance-book-nerds-heroes/)
+ - [Get Ready to Play &#39;Guess the Viral Variant&#39;](https://www.wired.com/story/covid-19-pandemic-variants-health/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
