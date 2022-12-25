@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 🚯 [Belarus Special Forces doing a tour of the country&#39;s malls, demonstrating how they will totally destroy NATO](http://9gag.com/gag/ajV5rMq)
- - 🚯 [Pizza without Pineapple](http://9gag.com/gag/aqegmvM)<!-- MEMES:END -->
+ - 🚖 [Hang on a second](http://9gag.com/gag/aRE0w8M)
+ - 🚯 [Indian food](http://9gag.com/gag/a2KZeEY)
+ - 🚯 [Show me your best cursed images](http://9gag.com/gag/aA03n1o)<!-- MEMES:END -->
 
 --- 
 
