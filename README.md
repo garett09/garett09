@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [43 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [What Music Did You Stream in 2022? Here&#39;s How to Find Your Recaps](https://www.wired.com/story/how-to-find-2022-spotify-youtube-apple-music-recaps/)
- - [How to use Sonos speakers with Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-sonos-speakers-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [I customized my Sony DualSense controller: Here’s how it went](https://www.androidauthority.com/customize-dualsense-3242040/)
+ - [How to Turn Your Phone Into a Webcam &lpar;2022&rpar;: Mac, Windows, iPhone, Android](https://www.wired.com/story/use-your-phone-as-webcam/)
+ - [43 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
