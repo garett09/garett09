@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He Dieded!](http://9gag.com/gag/anz9Pg0)
- - 🚯 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
- - 🚯 [Save and never use it](http://9gag.com/gag/a7q3RdL)<!-- MEMES:END -->
+ - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
+ - 🚯 [China, people waiting other to die, so they can get the bed.](http://9gag.com/gag/aA03W9g)
+ - 🚯 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)<!-- MEMES:END -->
 
 --- 
 
