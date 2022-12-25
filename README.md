@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: Pinduoduo&#39;s marketplace Temu gained 10.8M installations in the US since Sep. 1, and became the most downloaded US app between Nov. 1 and Dec. 14 &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/221225/p3#a221225p3)
- - [In a Painful Year, Romance Nerds Embraced Radical Pleasure](https://www.wired.com/story/romance-book-nerds-heroes/)
- - [Get Ready to Play &#39;Guess the Viral Variant&#39;](https://www.wired.com/story/covid-19-pandemic-variants-health/)<!-- TECH:END -->
+ - [How to move data to a new Mac](https://appleinsider.com/articles/21/10/19/how-to-move-data-to-a-new-macbook-pro?utm_medium=rss)
+ - [15 best Android games released in 2022](https://www.androidauthority.com/best-android-games-released-2022-3249875/)
+ - [A New Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations](https://www.wired.com/story/a-new-computer-proof-blows-up-centuries-old-fluid-equations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
