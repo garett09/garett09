@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are our team member’s favorite Google Assistant commands](https://www.androidauthority.com/favorite-google-assistant-commands-3249519/)
- - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)
- - [Why scientists laid ‘murder’ to rest](https://www.theverge.com/23523181/murder-hornet-problematic-insect-common-name-change)<!-- TECH:END -->
+ - [Got a new PS5 for Christmas? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
+ - [A love letter for the original Steam Link: I regret taking you for granted](https://www.theverge.com/2022/12/25/23524514/valve-original-steam-link-discontinued-app-latency-bug)
+ - [What keeping a bullet journal taught me about using to-do list apps](https://www.theverge.com/23520891/bullet-journal-lessons-to-do-list-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
