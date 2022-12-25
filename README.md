@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [These are our team member’s favorite Google Assistant commands](https://www.androidauthority.com/favorite-google-assistant-commands-3249519/)
- - [Playing Metroid Prime on a Steam Deck shouldn’t feel this good](https://www.theverge.com/2022/12/25/23518873/metroid-prime-trilogy-valve-steam-deck-primehack-emudeck-emulation)
- - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)<!-- TECH:END -->
+ - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)
+ - [Why scientists laid ‘murder’ to rest](https://www.theverge.com/23523181/murder-hornet-problematic-insect-common-name-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
