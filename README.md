@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First things to do with your new Android phone](https://www.androidauthority.com/first-things-new-android-phone-setup-631133/)
  - [I customized my Sony DualSense controller: Here’s how it went](https://www.androidauthority.com/customize-dualsense-3242040/)
- - [How to Turn Your Phone Into a Webcam &lpar;2022&rpar;: Mac, Windows, iPhone, Android](https://www.wired.com/story/use-your-phone-as-webcam/)
- - [43 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [Make Sure You Watch This Whip-Smart Time Travel Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/make-sure-you-watch-this-whip-smart-time-travel-gem-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
