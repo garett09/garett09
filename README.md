@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s go f*ck!](http://9gag.com/gag/aMEYb86)
- - 🚯 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
- - 🚯 [Show me your best cursed images](http://9gag.com/gag/aA03n1o)<!-- MEMES:END -->
+ - 🚖 [Alizee](http://9gag.com/gag/aPgRyvq)
+ - 🚯 [NYC shop owner takes matters into his own hands, blocks shoplifter and forces her to pay.](http://9gag.com/gag/aOx0yW3)
+ - 🚯 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)<!-- MEMES:END -->
 
 --- 
 
