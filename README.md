@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at XRAI Glass, an Android app for the deaf and hard of hearing that can caption real-life conversations when paired with $379 Nreal Air AR glasses &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/221224/p8#a221224p8)
- - [Best Monitors We&#39;ve Tested in 2022     - CNET](https://www.cnet.com/tech/computing/best-monitors-weve-tested-in-2022/#ftag=CAD590a51e)
- - [Best BBQ to Order Online From Goldbelly     - CNET](https://www.cnet.com/news/best-bbq-to-order-online-from-goldbelly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These software &amp; streaming deals can still be ordered for Christmas](https://appleinsider.com/articles/22/12/25/these-software-streaming-deals-can-still-be-ordered-for-christmas?utm_medium=rss)
+ - [Three-Legged Deer Caught in Christmas Lights Gets Help From Human Heroes     - CNET](https://www.cnet.com/science/biology/three-legged-deer-caught-up-in-christmas-lights-gets-help-from-human-heroes/#ftag=CAD590a51e)
+ - [Here Are the 10 Most Distracting Christmas Songs     - CNET](https://www.cnet.com/culture/entertainment/here-are-the-10-most-distracting-christmas-songs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
