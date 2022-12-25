@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)
- - 🚯 [Show me your best cursed images](http://9gag.com/gag/aA03n1o)
+ - 🚖 [Before and after leg lengthening.](http://9gag.com/gag/aeQr8ov)
+ - 🚯 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
  - 🚯 [French police charging firefighters, firefighters not having any of it](http://9gag.com/gag/az29Wmz)<!-- MEMES:END -->
 
 --- 
