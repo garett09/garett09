@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How many episodes is The Witcher: Blood Origin?](https://www.polygon.com/23521634/witcher-blood-origin-how-many-episodes-list)
  - [2022 was a stellar year for adventure games](https://www.pcgamer.com/2022-was-a-stellar-year-for-adventure-games)
- - [Stealth is everywhere in games, but the innovations of Thief have been forgotten](https://www.pcgamer.com/stealth-is-everywhere-in-games-but-the-innovations-of-thief-have-been-forgotten)
- - [Marvel&#39;s Midnight Suns has the best amnesiac protagonist since Knights of the Old Republic](https://www.pcgamer.com/marvels-midnight-suns-has-the-best-amnesiac-protagonist-since-knights-of-the-old-republic)<!-- GAME:END -->
+ - [Stealth is everywhere in games, but the innovations of Thief have been forgotten](https://www.pcgamer.com/stealth-is-everywhere-in-games-but-the-innovations-of-thief-have-been-forgotten)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
