@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 554 answer and hint for Sunday, December 25](https://www.pcgamer.com/wordle-554-answer-december-25)
- - [The Witcher: Blood Origin isn’t a great sign for a post-Henry Cavill future](https://www.polygon.com/23501805/witcher-blood-origin-review-henry-cavill-universe)
- - [What The Witcher’s Conjunction of the Spheres is actually all about](https://www.polygon.com/22838482/witcher-conjunction-of-the-spheres-explained)<!-- GAME:END -->
+ - [The weirdest news stories of 2022](https://www.pcgamer.com/the-weirdest-news-stories-of-2022)
+ - [Best Co-op 2022: Monster Hunter Rise](https://www.pcgamer.com/best-co-op-2022-monster-hunter-rise)
+ - [Turns out I can&#39;t strategize better than Ferrari. Thanks for letting me know, F1 Manager 2022](https://www.pcgamer.com/turns-out-i-cant-strategize-better-than-ferrari-thanks-for-letting-me-know-f1-manager-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
