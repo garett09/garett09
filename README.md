@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)
- - 🚯 [The advantages of a ventilated cold roof \u00ae](http://9gag.com/gag/aVb0OKy)
- - 🚯 [Why...why can we never have snow over christmas](http://9gag.com/gag/ay2o5Kp)<!-- MEMES:END -->
+ - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
+ - 🚯 [Belarus Special Forces doing a tour of the country&#39;s malls, demonstrating how they will totally destroy NATO](http://9gag.com/gag/ajV5rMq)
+ - 🚯 [Pizza without Pineapple](http://9gag.com/gag/aqegmvM)<!-- MEMES:END -->
 
 --- 
 
