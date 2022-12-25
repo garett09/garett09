@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)
- - [2022, the year Google came so close but didn’t quite nail it](https://www.androidauthority.com/2022-google-retrospective-3245307/)
- - [Christmas deals: $749 Apple Watch Ultra, $89 Apple Pencil 2, 49% off AirTag Leather Loop &amp; more](https://appleinsider.com/articles/22/12/25/christmas-deals-749-apple-watch-ultra-89-apple-pencil-2-49-off-airtag-leather-loop-more?utm_medium=rss)<!-- TECH:END -->
+ - [These are our team member’s favorite Google Assistant commands](https://www.androidauthority.com/favorite-google-assistant-commands-3249519/)
+ - [Playing Metroid Prime on a Steam Deck shouldn’t feel this good](https://www.theverge.com/2022/12/25/23518873/metroid-prime-trilogy-valve-steam-deck-primehack-emudeck-emulation)
+ - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
