@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [Disney’s gorgeous animated fantasy Strange World only has one flaw](https://www.polygon.com/23464232/strange-world-review-disney-streaming)
- - [Death Stranding Director&#39;s Cut is free on the Epic Games Store right now](https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now)
+ - [Death Stranding is free on the Epic Games Store right now](https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now)
  - [How many episodes is The Witcher: Blood Origin?](https://www.polygon.com/23521634/witcher-blood-origin-how-many-episodes-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
