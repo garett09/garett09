@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indian food](http://9gag.com/gag/a2KZeEY)
- - 🚯 [The Volcano Cap Mushroom Erupt](http://9gag.com/gag/aVbYnRP)
- - 🚯 [Him or her the end](http://9gag.com/gag/aeQrX9W)<!-- MEMES:END -->
+ - 🚖 [Love sports](http://9gag.com/gag/aA0gR4L)
+ - 🚯 [There was a parcel apocalypse in China due to a new wave of coronavirus: 37 million people were infected in one day and all logistics just stopped.](http://9gag.com/gag/aBd0DZO)
+ - 🚯 [India is not for beginners](http://9gag.com/gag/az296zq)<!-- MEMES:END -->
 
 --- 
 
