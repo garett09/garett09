@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world](http://9gag.com/gag/ajV82VG)
- - 🚯 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
- - 🚯 [China, people waiting other to die, so they can get the bed.](http://9gag.com/gag/aA03W9g)<!-- MEMES:END -->
+ - 🚖 [There was a parcel apocalypse in China due to a new wave of coronavirus: 37 million people were infected in one day and all logistics just stopped.](http://9gag.com/gag/aBd0DZO)
+ - 🚯 [What&#39;s the difference between jam and peanut butter?](http://9gag.com/gag/a5XRp2E)
+ - 🚯 [Drone footage of a volcanic eruption from above by Bjorn Steinbekk...](http://9gag.com/gag/aL106Ax)<!-- MEMES:END -->
 
 --- 
 
