@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to move data to a new Mac](https://appleinsider.com/articles/21/10/19/how-to-move-data-to-a-new-macbook-pro?utm_medium=rss)
- - [15 best Android games released in 2022](https://www.androidauthority.com/best-android-games-released-2022-3249875/)
- - [A New Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations](https://www.wired.com/story/a-new-computer-proof-blows-up-centuries-old-fluid-equations/)<!-- TECH:END -->
+ - [43 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [What Music Did You Stream in 2022? Here&#39;s How to Find Your Recaps](https://www.wired.com/story/how-to-find-2022-spotify-youtube-apple-music-recaps/)
+ - [How to use Sonos speakers with Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-sonos-speakers-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
