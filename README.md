@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hang on a second](http://9gag.com/gag/aRE0w8M)
- - 🚯 [Indian food](http://9gag.com/gag/a2KZeEY)
- - 🚯 [Show me your best cursed images](http://9gag.com/gag/aA03n1o)<!-- MEMES:END -->
+ - 🚖 [We were to young for understand](http://9gag.com/gag/aYVY8rO)
+ - 🚯 [Alizee](http://9gag.com/gag/aPgRyvq)
+ - 🚯 [Denmark is planning to demolish the `ghettos` and spread out immigrants around the cities in order to break the segregation. Do you think it will work?](http://9gag.com/gag/aYV7j30)<!-- MEMES:END -->
 
 --- 
 
