@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 🚯 [Based](http://9gag.com/gag/amABDWd)
- - 🚯 [The Volcano Cap Mushroom Erupt](http://9gag.com/gag/aVbYnRP)<!-- MEMES:END -->
+ - 🚖 [Before and after leg lengthening.](http://9gag.com/gag/aeQr8ov)
+ - 🚯 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
+ - 🚯 [4$ to look like a clown in front of the world](http://9gag.com/gag/aNwYbG0)<!-- MEMES:END -->
 
 --- 
 
