@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Flipper Zero, a $200 portable security penetration testing tool for hackers of all levels to intercept and replay signals from IoT sensors and more &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/221225/p5#a221225p5)
  - [Got a new PS5 for Christmas? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
- - [A love letter for the original Steam Link: I regret taking you for granted](https://www.theverge.com/2022/12/25/23524514/valve-original-steam-link-discontinued-app-latency-bug)
- - [What keeping a bullet journal taught me about using to-do list apps](https://www.theverge.com/23520891/bullet-journal-lessons-to-do-list-apps)<!-- TECH:END -->
+ - [A love letter for the original Steam Link: I regret taking you for granted](https://www.theverge.com/2022/12/25/23524514/valve-original-steam-link-discontinued-app-latency-bug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
