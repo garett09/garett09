@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [A look at Flipper Zero, a $200 portable security penetration testing tool for hackers of all levels to intercept and replay signals from IoT sensors and more &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/221225/p5#a221225p5)
  - [Got a new PS5 for Christmas? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
- - [A love letter for the original Steam Link: I regret taking you for granted](https://www.theverge.com/2022/12/25/23524514/valve-original-steam-link-discontinued-app-latency-bug)<!-- TECH:END -->
+ - [Why Yellowstone, Paramount&#39;s No. 1 Hit Show, Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/culture/why-yellowstone-paramounts-no-1-hit-show-isnt-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
