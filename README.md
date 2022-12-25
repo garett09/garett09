@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We were to young for understand](http://9gag.com/gag/aYVY8rO)
- - 🚯 [Alizee](http://9gag.com/gag/aPgRyvq)
- - 🚯 [Denmark is planning to demolish the `ghettos` and spread out immigrants around the cities in order to break the segregation. Do you think it will work?](http://9gag.com/gag/aYV7j30)<!-- MEMES:END -->
+ - 🚖 [On today\u2019s episode of f*#k around and find out:](http://9gag.com/gag/a5XM4wg)
+ - 🚯 [Denmark is planning to demolish the `ghettos` and spread out immigrants around the cities in order to break the segregation. Do you think it will work?](http://9gag.com/gag/aYV7j30)
+ - 🚯 [Short title](http://9gag.com/gag/a9qRjXD)<!-- MEMES:END -->
 
 --- 
 
