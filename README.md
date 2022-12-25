@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current and former CISA employees and sources detail an agency lacking a clearly defined strategic direction and whose leadership is often focused on its PR &lpar;CyberScoop&rpar;](http://www.techmeme.com/221224/p9#a221224p9)
  - [Microsoft employee accidentally announces Notepad is getting tabs in Windows 11](https://www.theverge.com/2022/12/24/23525732/microsoft-windows-11-notepad-tabs-feature-leak)
- - [These software &amp; streaming deals can still be ordered for Christmas](https://appleinsider.com/articles/22/12/25/these-software-streaming-deals-can-still-be-ordered-for-christmas?utm_medium=rss)
- - [Three-Legged Deer Caught in Christmas Lights Gets Help From Human Heroes     - CNET](https://www.cnet.com/science/biology/three-legged-deer-caught-up-in-christmas-lights-gets-help-from-human-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These software &amp; streaming deals can still be ordered for Christmas](https://appleinsider.com/articles/22/12/25/these-software-streaming-deals-can-still-be-ordered-for-christmas?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
