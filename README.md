@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 🚯 [I&#39;m the god of GIFs](http://9gag.com/gag/aNw0eoA)
- - 🚯 [Dog Crashes Golf Cart into Car](http://9gag.com/gag/amA5XXV)<!-- MEMES:END -->
+ - 🚖 [Rage 500](http://9gag.com/gag/avQo2Nd)
+ - 🚯 [Nanomachines son](http://9gag.com/gag/aWGEZO6)
+ - 🚯 [Times are changing](http://9gag.com/gag/anz5YR5)<!-- MEMES:END -->
 
 --- 
 
