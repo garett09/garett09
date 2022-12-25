@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rage 500](http://9gag.com/gag/avQo2Nd)
- - 🚯 [Nanomachines son](http://9gag.com/gag/aWGEZO6)
- - 🚯 [Times are changing](http://9gag.com/gag/anz5YR5)<!-- MEMES:END -->
+ - 🚖 [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)
+ - 🚯 [The advantages of a ventilated cold roof \u00ae](http://9gag.com/gag/aVb0OKy)
+ - 🚯 [Why...why can we never have snow over christmas](http://9gag.com/gag/ay2o5Kp)<!-- MEMES:END -->
 
 --- 
 
