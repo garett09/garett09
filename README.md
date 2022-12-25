@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indian food](http://9gag.com/gag/a2KZeEY)
- - 🚯 [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 🚯 [The craziest part from Home Alone was that Kevin got all those groceries for $19](http://9gag.com/gag/armovz0)<!-- MEMES:END -->
+ - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
+ - 🚯 [I&#39;m the god of GIFs](http://9gag.com/gag/aNw0eoA)
+ - 🚯 [Dog Crashes Golf Cart into Car](http://9gag.com/gag/amA5XXV)<!-- MEMES:END -->
 
 --- 
 
