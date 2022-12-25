@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just got a new Xbox Series X/S? Here’s what you should do first.](https://www.androidauthority.com/new-xbox-series-x-s-guide-1186228/)
  - [2022, the year Google came so close but didn’t quite nail it](https://www.androidauthority.com/2022-google-retrospective-3245307/)
- - [Christmas deals: $749 Apple Watch Ultra, $89 Apple Pencil 2, 49% off AirTag Leather Loop &amp; more](https://appleinsider.com/articles/22/12/25/christmas-deals-749-apple-watch-ultra-89-apple-pencil-2-49-off-airtag-leather-loop-more?utm_medium=rss)
- - [Q&amp;A with author and labor lawyer Orly Lobel about AI&#39;s ability to help mitigate human biases in hiring and compensation, privacy regulation, and more &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221225/p4#a221225p4)<!-- TECH:END -->
+ - [Christmas deals: $749 Apple Watch Ultra, $89 Apple Pencil 2, 49% off AirTag Leather Loop &amp; more](https://appleinsider.com/articles/22/12/25/christmas-deals-749-apple-watch-ultra-89-apple-pencil-2-49-off-airtag-leather-loop-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
