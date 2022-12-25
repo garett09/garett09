@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate Christmas videogame: Die Hard](https://www.pcgamer.com/saturday-crapshoot-die-hard)
- - [Is The Muppet Christmas Carol better with or without its controversially deleted song?](https://www.polygon.com/23518742/muppet-christmas-carol-streaming-deleted-song-when-love-is-gone)
- - [What does Santa the action hero stand for?](https://www.polygon.com/23495040/violent-night-fatman-superhero-action-santa)<!-- GAME:END -->
+ - [Today&#39;s Wordle 554 answer and hint for Sunday, December 25](https://www.pcgamer.com/wordle-554-answer-december-25)
+ - [The Witcher: Blood Origin isn’t a great sign for a post-Henry Cavill future](https://www.polygon.com/23501805/witcher-blood-origin-review-henry-cavill-universe)
+ - [What The Witcher’s Conjunction of the Spheres is actually all about](https://www.polygon.com/22838482/witcher-conjunction-of-the-spheres-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
