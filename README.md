@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You little sh*t!](http://9gag.com/gag/a1PRe42)
- - 🚯 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
+ - 🚖 [Indians offering prayers in Yamuna river filled with Industrial waste foam](http://9gag.com/gag/anz5YrB)
+ - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 --- 
 
