@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s not just you: spam is back](https://www.pcgamer.com/its-not-just-you-spam-is-back)
  - [The best MMO stories of 2022](https://www.pcgamer.com/the-best-mmo-stories-of-2022)
- - [Dorfromantik was 2022&#39;s &#39;no thoughts, just vibes&#39; game of the year](https://www.pcgamer.com/dorfromantik-was-2022s-no-thoughts-just-vibes-game-of-the-year)
- - [Best Platformer 2022: Neon White](https://www.pcgamer.com/best-platformer-2022-neon-white)<!-- GAME:END -->
+ - [Dorfromantik was 2022&#39;s &#39;no thoughts, just vibes&#39; game of the year](https://www.pcgamer.com/dorfromantik-was-2022s-no-thoughts-just-vibes-game-of-the-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
