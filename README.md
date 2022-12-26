@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 🚯 [NYC shop owner takes matters into his own hands, blocks shoplifter and forces her to pay.](http://9gag.com/gag/aOx0yW3)
- - 🚯 [Except for a small percent of the population, nothing can save them anymore, that&#39;s their true nature, suffering from a burst inflated ego fueled by years of hyper-realistic fake `toughness`. Their mind cannot comprehend what&#39;s happening.](http://9gag.com/gag/avQogen)<!-- MEMES:END -->
+ - 🚖 [Denmark is planning to demolish the `ghettos` and spread out immigrants around the cities in order to break the segregation. Do you think it will work?](http://9gag.com/gag/aYV7j30)
+ - 🚯 [Short title](http://9gag.com/gag/a9qRjXD)
+ - 🚯 [Small boom](http://9gag.com/gag/aGEZP9G)<!-- MEMES:END -->
 
 --- 
 
