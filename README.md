@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)
- - 🚯 [Those dishes ain\u2019t cleaning themselves?](http://9gag.com/gag/awZo7yR)
- - 🚯 [`This entire lecture is bullshit` ... auch](http://9gag.com/gag/aQE1ny7)<!-- MEMES:END -->
+ - 🚖 [Santa, Lord of Coal](http://9gag.com/gag/adP5Yj9)
+ - 🚯 [Short title](http://9gag.com/gag/a9qRjXD)
+ - 🚯 [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)<!-- MEMES:END -->
 
 --- 
 
