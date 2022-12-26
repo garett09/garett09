@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2022 Was the Year Of Elden Ring](https://kotaku.com/elden-ring-goty-2022-dlc-fromsoftware-dark-souls-1849925353)
- - [PC Gamer Hardware Awards: The best gaming monitors of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-monitors-of-2022)
- - [The Year In Gaming Apologies](https://kotaku.com/apologize-games-splatoon-3-porn-assassin-s-creed-leaks-1849925385)<!-- GAME:END -->
+ - [Carolyn Petit’s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-vampire-survivors-fortnite-1849927777)
+ - [Strange World’s Magic: The Gathering-like card game is even more fleshed out than we see](https://www.polygon.com/23521408/strange-world-card-game-magic-the-gathering)
+ - [2022 Was the Year Of Elden Ring](https://kotaku.com/elden-ring-goty-2022-dlc-fromsoftware-dark-souls-1849925353)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
