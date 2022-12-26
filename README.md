@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 🚯 [That\u2019s not how it works! That\u2019s not how any of this works!](http://9gag.com/gag/aPgRGgG)
- - 🚯 [The seks](http://9gag.com/gag/ap9me1E)<!-- MEMES:END -->
+ - 🚖 [You little sh*t!](http://9gag.com/gag/a1PRe42)
+ - 🚯 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
+ - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
 
 --- 
 
