@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Dec. 26: 49% off Dreametech Robot Vacuum, 40% off Seagate Expansion external hard drive &amp; more](https://appleinsider.com/articles/22/12/26/daily-deals-dec-26-59-off-dreametech-robot-vacuum-40-off-seagate-expansion-external-hard-drive-more?utm_medium=rss)
- - [Apple halts HomeKit upgrade, Ring swatting, and more smart home news](https://appleinsider.com/articles/22/12/26/apple-halts-homekit-upgrade-ring-swatting-and-more-smart-home-news?utm_medium=rss)
- - [No hablo Español? Don’t rely on Google Translate to save you](https://www.androidauthority.com/google-translate-travel-3245900/)<!-- TECH:END -->
+ - [Best USB-C travel docks for Mac or iPad](https://appleinsider.com/inside/accessories-and-io/best/best-usb-c-travel-docks-for-your-mac-or-ipad?utm_medium=rss)
+ - [2022 in review: AppleInsider&#39;s favorite articles of the year](https://appleinsider.com/articles/22/12/26/2022-in-review-appleinsiders-favorite-articles-of-the-year?utm_medium=rss)
+ - [A look at the Central African Republic&#39;s decision to adopt bitcoin in September 2021 and launch its own &quot;Sangocoin&quot; currency, which has stalled after weak sales &lpar;Ben Hunte/VICE&rpar;](http://www.techmeme.com/221226/p6#a221226p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
