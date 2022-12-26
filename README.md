@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 🚯 [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 🚯 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
+ - 🚖 [Short title](http://9gag.com/gag/a9qRjXD)
+ - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 --- 
 
