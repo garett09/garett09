@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Way of Water’s world box office continued to soar through Christmas](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
- - [The Witcher: Blood Origin completely retcons the Witchers’ origin story](https://www.polygon.com/23522931/witcher-blood-origin-elves-connections-explained)
- - [The Best &lpar;And Worst&rpar; Video Game Names Of 2022](https://kotaku.com/best-game-name-titles-goty-ps5-switch-xbox-nintendo-1849923973)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming laptops of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2022)
+ - [The best Netflix original movies of 2022](https://www.polygon.com/what-to-watch/23516874/best-netflix-original-movies-2022)
+ - [The 10 Biggest Kotaku Posts Of 2022](https://kotaku.com/kotaku-top-posts-hentai-netflix-twitch-simpsons-nft-1849925288)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
