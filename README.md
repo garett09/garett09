@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Glass Onion is louder, sillier, and sunnier than Knives Out](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix-streaming)
- - [Disney’s gorgeous animated fantasy Strange World only has one flaw](https://www.polygon.com/23464232/strange-world-review-disney-streaming)
- - [Death Stranding is free on the Epic Games Store right now](https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now)<!-- GAME:END -->
+ - [The best MMO stories of 2022](https://www.pcgamer.com/the-best-mmo-stories-of-2022)
+ - [Dorfromantik was 2022&#39;s &#39;no thoughts, just vibes&#39; game of the year](https://www.pcgamer.com/dorfromantik-was-2022s-no-thoughts-just-vibes-game-of-the-year)
+ - [Best Platformer 2022: Neon White](https://www.pcgamer.com/best-platformer-2022-neon-white)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
