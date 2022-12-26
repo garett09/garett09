@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - 🚯 [Indians offering prayers in Yamuna river filled with Industrial waste foam](http://9gag.com/gag/anz5YrB)
- - 🚯 [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)<!-- MEMES:END -->
+ - 🚖 [Short title](http://9gag.com/gag/a9qRjXD)
+ - 🚯 [Egg potion](http://9gag.com/gag/aBdg9XA)
+ - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 --- 
 
