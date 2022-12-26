@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title for that thing they don&#39;t know we do](http://9gag.com/gag/aYV7wxv)
- - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)
- - 🚯 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
+ - 🚖 [Following the trend](http://9gag.com/gag/awZoKeW)
+ - 🚯 [Merry Christmas Ladies and Gentlemen.](http://9gag.com/gag/aOx0qgN)
+ - 🚯 [Monkey wedding crashers](http://9gag.com/gag/aVb0Wxd)<!-- MEMES:END -->
 
 --- 
 
