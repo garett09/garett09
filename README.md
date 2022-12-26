@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Have you ever printed your Google Photos?](https://www.androidauthority.com/print-google-photos-poll-3250028/)
- - [Here’s What’s Next for Pig Organ Transplants](https://www.wired.com/story/heres-whats-next-for-pig-organ-transplants/)
- - [Three Music Legends Collaborated on One Nintendo Game. Sparks Flew](https://www.wired.com/story/mario-rabbids-composers-kirkhope-shimomura-coker/)<!-- TECH:END -->
+ - [Daily Deals Dec. 26: 49% off Dreametech Robot Vacuum, 40% off Seagate Expansion external hard drive &amp; more](https://appleinsider.com/articles/22/12/26/daily-deals-dec-26-59-off-dreametech-robot-vacuum-40-off-seagate-expansion-external-hard-drive-more?utm_medium=rss)
+ - [Apple halts HomeKit upgrade, Ring swatting, and more smart home news](https://appleinsider.com/articles/22/12/26/apple-halts-homekit-upgrade-ring-swatting-and-more-smart-home-news?utm_medium=rss)
+ - [No hablo Español? Don’t rely on Google Translate to save you](https://www.androidauthority.com/google-translate-travel-3245900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
