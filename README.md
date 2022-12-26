@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Following the trend](http://9gag.com/gag/awZoKeW)
- - 🚯 [Merry Christmas Ladies and Gentlemen.](http://9gag.com/gag/aOx0qgN)
- - 🚯 [Monkey wedding crashers](http://9gag.com/gag/aVb0Wxd)<!-- MEMES:END -->
+ - 🚖 [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)
+ - 🚯 [Those dishes ain\u2019t cleaning themselves?](http://9gag.com/gag/awZo7yR)
+ - 🚯 [`This entire lecture is bullshit` ... auch](http://9gag.com/gag/aQE1ny7)<!-- MEMES:END -->
 
 --- 
 
