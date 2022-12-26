@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - 🚯 [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
- - 🚯 [The seks](http://9gag.com/gag/ap9me1E)<!-- MEMES:END -->
+ - 🚖 [Ok, what?](http://9gag.com/gag/abvryev)
+ - 🚯 [Of course I know him he&#39;s me](http://9gag.com/gag/armoKoV)
+ - 🚯 [Man needs a $200,000 and up annual salary and 6&#39;5` under 30](http://9gag.com/gag/a1PRMRw)<!-- MEMES:END -->
 
 --- 
 
