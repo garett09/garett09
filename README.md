@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok, what?](http://9gag.com/gag/abvryev)
- - 🚯 [Of course I know him he&#39;s me](http://9gag.com/gag/armoKoV)
- - 🚯 [Man needs a $200,000 and up annual salary and 6&#39;5` under 30](http://9gag.com/gag/a1PRMRw)<!-- MEMES:END -->
+ - 🚖 [My fav. Sports is Women&#39;s Beach Volleyball](http://9gag.com/gag/ap95B3W)
+ - 🚯 [The Witcher Lore: `Elves are a beautiful and long-lived race. They have pointed ears, sharp features` Netflix:](http://9gag.com/gag/aNw0nZv)
+ - 🚯 [Purrrrfect!](http://9gag.com/gag/aGEgx10)<!-- MEMES:END -->
 
 --- 
 
