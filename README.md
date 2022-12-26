@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry XMAS!!!!](http://9gag.com/gag/aXnjXX9)
- - 🚯 [I study abroad and flights are expensive af, so I spend the holidays 1500km away from my family. Decided to pick up christmas shifts so my colleagues can have time off. Shout out to all service workers still busting ass! Merry Christmas!](http://9gag.com/gag/aRE0Poj)
- - 🚯 [Merry Christmas Ladies and Gentlemen.](http://9gag.com/gag/aOx0qgN)<!-- MEMES:END -->
+ - 🚖 [I study abroad and flights are expensive af, so I spend the holidays 1500km away from my family. Decided to pick up christmas shifts so my colleagues can have time off. Shout out to all service workers still busting ass! Merry Christmas!](http://9gag.com/gag/aRE0Poj)
+ - 🚯 [Merry Christmas Ladies and Gentlemen.](http://9gag.com/gag/aOx0qgN)
+ - 🚯 [Monkey wedding crashers](http://9gag.com/gag/aVb0Wxd)<!-- MEMES:END -->
 
 --- 
 
