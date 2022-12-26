@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Innocent or horny](http://9gag.com/gag/aOxY6nE)
- - 🚯 [The old PeePee TP problem.](http://9gag.com/gag/anz5XWB)
- - 🚯 [Find Rudolph](http://9gag.com/gag/a8q3rKV)<!-- MEMES:END -->
+ - 🚖 [Merry XMAS!!!!](http://9gag.com/gag/aXnjXX9)
+ - 🚯 [How to pick up a duck](http://9gag.com/gag/a1PRYqP)
+ - 🚯 [Best christmas decoration](http://9gag.com/gag/ago5Vyq)<!-- MEMES:END -->
 
 --- 
 
