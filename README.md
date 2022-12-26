@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My fav. Sports is Women&#39;s Beach Volleyball](http://9gag.com/gag/ap95B3W)
- - 🚯 [The Witcher Lore: `Elves are a beautiful and long-lived race. They have pointed ears, sharp features` Netflix:](http://9gag.com/gag/aNw0nZv)
- - 🚯 [Purrrrfect!](http://9gag.com/gag/aGEgx10)<!-- MEMES:END -->
+ - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 🚯 [That\u2019s not how it works! That\u2019s not how any of this works!](http://9gag.com/gag/aPgRGgG)
+ - 🚯 [The seks](http://9gag.com/gag/ap9me1E)<!-- MEMES:END -->
 
 --- 
 
