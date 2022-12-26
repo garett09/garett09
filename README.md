@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Santa, Lord of Coal](http://9gag.com/gag/adP5Yj9)
- - 🚯 [Short title](http://9gag.com/gag/a9qRjXD)
- - 🚯 [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)<!-- MEMES:END -->
+ - 🚖 [Innocent or horny](http://9gag.com/gag/aOxY6nE)
+ - 🚯 [The old PeePee TP problem.](http://9gag.com/gag/anz5XWB)
+ - 🚯 [Find Rudolph](http://9gag.com/gag/a8q3rKV)<!-- MEMES:END -->
 
 --- 
 
