@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry XMAS!!!!](http://9gag.com/gag/aXnjXX9)
- - 🚯 [How to pick up a duck](http://9gag.com/gag/a1PRYqP)
- - 🚯 [Best christmas decoration](http://9gag.com/gag/ago5Vyq)<!-- MEMES:END -->
+ - 🚖 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
+ - 🚯 [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
+ - 🚯 [The seks](http://9gag.com/gag/ap9me1E)<!-- MEMES:END -->
 
 --- 
 
