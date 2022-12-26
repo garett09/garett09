@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Advance 2 Perfected The Series 20 Years Ago &lpar;Maybe Video Games, Too&rpar;](https://kotaku.com/sonic-advance-2-hedgehog-sega-gba-fast-dimps-boost-mode-1849922856)
- - [All the big games that shut down in 2022](https://www.pcgamer.com/all-the-big-games-that-shut-down-in-2022)
- - [How NFT video games crashed and burned](https://www.polygon.com/23521430/nft-video-games-crypto-failed-decentraland-axie-infinity)<!-- GAME:END -->
+ - [Avatar: The Way of Water’s world box office continued to soar through Christmas](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
+ - [The Witcher: Blood Origin completely retcons the Witchers’ origin story](https://www.polygon.com/23522931/witcher-blood-origin-elves-connections-explained)
+ - [The Best &lpar;And Worst&rpar; Video Game Names Of 2022](https://kotaku.com/best-game-name-titles-goty-ps5-switch-xbox-nintendo-1849923973)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
