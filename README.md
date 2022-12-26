@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indians offering prayers in Yamuna river filled with Industrial waste foam](http://9gag.com/gag/anz5YrB)
- - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 🚯 [Egg potion](http://9gag.com/gag/aBdg9XA)
+ - 🚯 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
 
 --- 
 
