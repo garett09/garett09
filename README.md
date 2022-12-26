@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Short title](http://9gag.com/gag/a9qRjXD)
- - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - 🚖 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
  - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 --- 
