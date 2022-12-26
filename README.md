@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
- - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
+ - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
  - 🚯 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 --- 
