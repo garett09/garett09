@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Flipper Zero, a $200 portable security penetration testing tool for hackers of all levels to intercept and replay signals from IoT sensors and more &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/221225/p5#a221225p5)
- - [Got a new PS5 for Christmas? Here are 7 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
- - [Why Yellowstone, Paramount&#39;s No. 1 Hit Show, Isn&#39;t on Paramount Plus     - CNET](https://www.cnet.com/culture/why-yellowstone-paramounts-no-1-hit-show-isnt-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Foods That Will Make You Happier in 2023     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CAD590a51e)
+ - [Christmas Day Deals at Amazon, Best Buy, Walmart and More to Shop Today     - CNET](https://www.cnet.com/deals/best-christmas-day-shopping-deals-at-amazon-best-buy-walmart-and-more-now/#ftag=CAD590a51e)
+ - [A look at Flipper Zero, a $200 portable security penetration testing tool for hackers of all levels to intercept and replay signals from IoT sensors and more &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/221225/p5#a221225p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
