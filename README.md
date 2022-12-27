@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 🚯 [Please arrest mommy](http://9gag.com/gag/aYV7K2V)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 🚖 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 🚯 [Ok, what?](http://9gag.com/gag/abvryev)
+ - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)<!-- MEMES:END -->
 
 --- 
 
