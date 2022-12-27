@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s co-op mod made the adventure new again](https://www.pcgamer.com/elden-rings-co-op-mod-made-the-adventure-new-again)
- - [A rough launch hasn&#39;t stopped Darktide being the best Warhammer 40,000 game ever](https://www.pcgamer.com/a-rough-launch-hasnt-stopped-darktide-being-the-best-warhammer-40000-game-ever)
- - [Best Story 2022: The Case of the Golden Idol](https://www.pcgamer.com/best-story-2022-the-case-of-the-golden-idol)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best graphics card of 2022](https://www.pcgamer.com/pcgamer-hardware-awards-best-graphics-card-2022)
+ - [PC Gamer Hardware Awards: The best CPUs of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-cpus-of-2022)
+ - [PC Gamer&#39;s highest hardware review scores of 2022... and the five lowest](https://www.pcgamer.com/top-pc-gamer-hardware-reviews-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
