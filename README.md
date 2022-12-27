@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solana-based NFT projects DeGods and Y00ts plan to leave the SOL ecosystem for Ethereum and Polygon, respectively; DeGods had asked for $5M to stay on SOL &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/221227/p4#a221227p4)
- - [An interview with AI researcher and MacArthur Fellow Yejin Choi on misconceptions about AI, GPT-3, training models to make moral decisions, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/221227/p3#a221227p3)
- - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [The $1.7T US funding package included the INFORM Act, forcing Amazon, Meta, and others to verify prolific sellers to combat counterfeit and dangerous goods &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/221227/p6#a221227p6)
+ - [5 things we want to see from Xiaomi in 2023](https://www.androidauthority.com/xiaomi-2023-3245818/)
+ - [AI or No, It’s Always Too Soon to Sound the Death Knell of Art](https://www.wired.com/story/art-history-photography-painting-dalle-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
