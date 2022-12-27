@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
- - 🚯 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - 🚯 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)<!-- MEMES:END -->
+ - 🚖 [When the car battery has to do God\u2019s work at minus 40 degrees](http://9gag.com/gag/az21q3p)
+ - 🚯 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 --- 
 
