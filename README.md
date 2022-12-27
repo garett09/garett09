@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you see it...](http://9gag.com/gag/a1PRYDR)
- - 🚯 [You little sh*t!](http://9gag.com/gag/a1PRe42)
- - 🚯 [One title, please!](http://9gag.com/gag/ajV5q1G)<!-- MEMES:END -->
+ - 🚖 [One title, please!](http://9gag.com/gag/ajV5q1G)
+ - 🚯 [Very informative](http://9gag.com/gag/aA0gwzE)
+ - 🚯 [Nestbox](http://9gag.com/gag/aEqgRLG)<!-- MEMES:END -->
 
 --- 
 
