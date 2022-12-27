@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [&#39;Glass Onion&#39; Review: Daniel Craig Looks Sharp in Hilarious Whodunit on Netflix     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-review-daniel-craig-looks-sharp-in-hilarious-whodunit-on-netflix/#ftag=CAD590a51e)
- - [A profile of Senegal-based Wave, Francophone West Africa&#39;s only unicorn and the first non-telco, non-bank offering mobile money services in eight countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/221227/p2#a221227p2)<!-- TECH:END -->
+ - [Solana-based NFT projects DeGods and Y00ts plan to leave the SOL ecosystem for Ethereum and Polygon, respectively; DeGods had asked for $5M to stay on SOL &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/221227/p4#a221227p4)
+ - [An interview with AI researcher and MacArthur Fellow Yejin Choi on misconceptions about AI, GPT-3, training models to make moral decisions, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/221227/p3#a221227p3)
+ - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
