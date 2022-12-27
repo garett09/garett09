@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 556 answer and hint for Tuesday, December 27](https://www.pcgamer.com/wordle-556-answer-december-27)
- - [Here&#39;s what Skyrim and Fallout modders want to see in Starfield mods](https://www.pcgamer.com/heres-what-skyrim-and-fallout-modders-want-to-see-in-starfield-mods)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)<!-- GAME:END -->
+ - [Elden Ring&#39;s co-op mod made the adventure new again](https://www.pcgamer.com/elden-rings-co-op-mod-made-the-adventure-new-again)
+ - [A rough launch hasn&#39;t stopped Darktide being the best Warhammer 40,000 game ever](https://www.pcgamer.com/a-rough-launch-hasnt-stopped-darktide-being-the-best-warhammer-40000-game-ever)
+ - [Best Story 2022: The Case of the Golden Idol](https://www.pcgamer.com/best-story-2022-the-case-of-the-golden-idol)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
