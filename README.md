@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your post got 1000 points](http://9gag.com/gag/aGEgD57)
- - 🚯 [Mandatory paternity tests](http://9gag.com/gag/ap95L15)
- - 🚯 [Double standards](http://9gag.com/gag/aQE18D7)<!-- MEMES:END -->
+ - 🚖 [One title, please!](http://9gag.com/gag/ajV5q1G)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)<!-- MEMES:END -->
 
 --- 
 
