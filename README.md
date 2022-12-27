@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marry Christmas.](http://9gag.com/gag/az21Loq)
- - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
+ - 🚖 [Another one bites the dust](http://9gag.com/gag/a3ZRjrQ)
+ - 🚯 [How is it possible?](http://9gag.com/gag/ay2o8oW)
+ - 🚯 [Your post got 1000 points](http://9gag.com/gag/aGEgD57)<!-- MEMES:END -->
 
 --- 
 
