@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best headphones to look forward to in 2023](https://www.androidauthority.com/best-headphones-2023-3242766/)
- - [iPhone Self Repair Program, Twitter, Studio Display webcam &#39;fix&#39; - Apple&#39;s April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
- - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [LastPass&#39; breach update was full of spin, omitted helpful but damning info, provided rosy interpretations hiding a failure to contain August&#39;s breach, and more &lpar;Wladimir Palant/Almost Secure&rpar;](http://www.techmeme.com/221227/p14#a221227p14)
+ - [Know the holiday return policies for Amazon, Target, Walmart, and others](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
+ - [LG’s working with AI startup Asleep on TVs, washers, fridges, and more that can track sleep](https://www.theverge.com/23527858/lg-sleep-tech-ai-asleep-tv-washer-fridge-smart-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
