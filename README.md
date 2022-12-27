@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s Year in Review serves up highlights of your 2022 playtime](https://www.pcgamer.com/steams-year-in-review-serves-up-highlights-of-your-2022-playtime)
- - [Carolyn Petit’s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-vampire-survivors-fortnite-1849927777)
- - [Strange World’s Magic: The Gathering-like card game is even more fleshed out than we see](https://www.polygon.com/23521408/strange-world-card-game-magic-the-gathering)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)
+ - [Devs of Warhammer 40k: Gladius have cooked up a cool world for their new project](https://www.pcgamer.com/devs-of-warhammer-40k-gladius-have-cooked-up-a-cool-world-for-their-new-project)
+ - [Steam Deck OS 3.4 update beefs up the desktop mode](https://www.pcgamer.com/the-steam-deck-os-34-update-beefed-up-the-desktop-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
