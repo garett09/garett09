@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
- - 🚯 [Elephant knew better than to mess with two alpha males](http://9gag.com/gag/aRE0mEq)
- - 🚯 [...](http://9gag.com/gag/anz5b5E)<!-- MEMES:END -->
+ - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 🚯 [Please arrest mommy](http://9gag.com/gag/aYV7K2V)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 --- 
 
