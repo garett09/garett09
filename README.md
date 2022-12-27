@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi K60 series announced: Redmi phones finally get wireless charging](https://www.androidauthority.com/redmi-k60-series-3260252/)
- - [German researchers bought a US military device, last used in Afghanistan in 2012, with fingerprints, iris scans, and other data on 2,632 people, for $68 on eBay &lpar;New York Times&rpar;](http://www.techmeme.com/221227/p8#a221227p8)
- - [Nokia G400 5G Review: Fine, But With Lackluster Software Updates](https://www.wired.com/review/nokia-g400-5g/)<!-- TECH:END -->
+ - [BAYC, Doodles, Pudgy Penguins, and other NFT projects are diversifying into real-world assets, including toys, albums, and sports teams, to generate new revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/221227/p10#a221227p10)
+ - [In 2022, I stopped using my VR headset](https://www.androidauthority.com/stopped-using-vr-headset-3257772/)
+ - [How to Use Your Smartphone to Cope With Vision Loss &lpar;2022&rpar;](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
