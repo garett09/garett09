@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What network does Google Fi use?](https://www.androidauthority.com/what-network-does-google-fi-use-3260343/)
- - [4 More Lots of Blood Pressure Medication Recalled Over Impurity     - CNET](https://www.cnet.com/health/medical/4-more-lots-of-blood-pressure-medication-recalled-over-impurity/#ftag=CAD590a51e)
- - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
+ - [Social media shadowbanning is real and tech firms should be more transparent about it; survey: ~1 in 10 US social media users think they&#39;ve been shadowbanned &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/221227/p16#a221227p16)
+ - [Tips and Natural Cold, Fever Remedies for When Your Child Is Sick     - CNET](https://www.cnet.com/health/medical/tips-and-natural-cold-fever-remedies-for-when-your-child-is-sick/#ftag=CAD590a51e)
+ - [What network does Google Fi use?](https://www.androidauthority.com/what-network-does-google-fi-use-3260343/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
