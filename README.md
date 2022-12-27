@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
- - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)<!-- MEMES:END -->
+ - 🚯 [Ok, what?](http://9gag.com/gag/abvryev)
+ - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
 
 --- 
 
