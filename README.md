@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll take the refrigerator lightbulb](http://9gag.com/gag/aoK520n)
+ - 🚖 [Be the change you want to see in the world](http://9gag.com/gag/aNw0d8w)
  - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
+ - 🚯 [True.](http://9gag.com/gag/aeQ5Y1Q)<!-- MEMES:END -->
 
 --- 
 
