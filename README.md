@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H&#39;s Mega Deal Zone offers 100s of year-end discounts](https://appleinsider.com/articles/22/12/27/bhs-mega-deal-zone-offers-100s-of-year-end-discounts?utm_medium=rss)
  - [Octane X App launches on iPadOS for GPU rendering workflows](https://appleinsider.com/articles/22/12/27/octane-x-app-launches-on-ipados-for-gpu-rendering-workflows?utm_medium=rss)
- - [iPad mini 6 review: One year later, still a great reader and streamer](https://appleinsider.com/articles/22/12/27/ipad-mini-6-review-one-year-later-still-a-great-reader-and-streamer?utm_medium=rss)
- - [Source: the DOJ launches a criminal investigation into $370M+ in assets stolen from FTX as the exchange collapsed, separate from its fraud case against SBF &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/221227/p15#a221227p15)<!-- TECH:END -->
+ - [iPad mini 6 review: One year later, still a great reader and streamer](https://appleinsider.com/articles/22/12/27/ipad-mini-6-review-one-year-later-still-a-great-reader-and-streamer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
