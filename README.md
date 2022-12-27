@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marry Christmas](http://9gag.com/gag/a3ZRjmr)
- - 🚯 [How is it possible?](http://9gag.com/gag/ay2o8oW)
- - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
+ - 🚖 [Your post got 1000 points](http://9gag.com/gag/aGEgD57)
+ - 🚯 [Iranian streets. Govement unable to force mandatory hijab](http://9gag.com/gag/adP5qg2)
+ - 🚯 [Instant cape...](http://9gag.com/gag/ap95r5W)<!-- MEMES:END -->
 
 --- 
 
