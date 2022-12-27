@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Cubchoo be shiny?](https://www.polygon.com/pokemon-go-guide/23522817/can-cubchoo-be-shiny-beartic-spotlight-hour-december)
- - [The era of Netflix password sharing will end soon, somehow](https://www.polygon.com/23527825/netflix-price-charging-fee-sharing-password)
- - [Pokémon Players Are Getting Wrecked By This Weird Little Crow Right Now](https://kotaku.com/pokemon-scarlet-violet-murkrow-prankster-tailwind-1849931152)<!-- GAME:END -->
+ - [First look at Bleach: Thousand-Year Blood War part 2, hitting this summer](https://www.polygon.com/23528051/bleach-thousand-year-blood-war-second-cour-season-release-date-trailer)
+ - [Pentiment Soundtrack Available Now, Vinyl Coming Next Year](https://news.xbox.com/en-us/2022/12/27/pentiment-soundtrack-vinyl/)
+ - [Hot Damn: Another Activision Blizzard Studio Is Unionizing](https://kotaku.com/wow-dragonflight-activision-blizzard-proletariat-union-1849931437)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
