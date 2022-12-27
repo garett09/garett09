@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First look at Bleach: Thousand-Year Blood War part 2, hitting this summer](https://www.polygon.com/23528051/bleach-thousand-year-blood-war-second-cour-season-release-date-trailer)
- - [Pentiment Soundtrack Available Now, Vinyl Coming Next Year](https://news.xbox.com/en-us/2022/12/27/pentiment-soundtrack-vinyl/)
- - [Hot Damn: Another Activision Blizzard Studio Is Unionizing](https://kotaku.com/wow-dragonflight-activision-blizzard-proletariat-union-1849931437)<!-- GAME:END -->
+ - [Capcom Shuts Down Fan Remakes Of Original Resident Evil And Code: Veronica](https://kotaku.com/resident-evil-code-veronica-fan-remake-capcom-1849931638)
+ - [PlayStation Plus’ free games for 2022: The most value for the least cost](https://www.polygon.com/23527733/playstation-ps-plus-essential-free-games-list-2022)
+ - [First look at Bleach: Thousand-Year Blood War part 2, hitting this summer](https://www.polygon.com/23528051/bleach-thousand-year-blood-war-second-cour-season-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
