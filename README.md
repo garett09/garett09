@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please arrest mommy](http://9gag.com/gag/aYV7K2V)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
- - 🚯 [If you see it...](http://9gag.com/gag/a1PRYDR)<!-- MEMES:END -->
+ - 🚖 [True.](http://9gag.com/gag/aeQ5Y1Q)
+ - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - 🚯 [I like animals and I like good news, so I&#39;m doing a series of posts about how different animals have been saved from extinction &lpar;Part 17&rpar;](http://9gag.com/gag/awZonZR)<!-- MEMES:END -->
 
 --- 
 
