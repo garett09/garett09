@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - 🚯 [Ok, what?](http://9gag.com/gag/abvryev)
- - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
+ - 🚖 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 🚯 [9gagers&lpar;including me&rpar; be like :](http://9gag.com/gag/a3ZRMK3)
+ - 🚯 [Time to do it](http://9gag.com/gag/aGEgeoX)<!-- MEMES:END -->
 
 --- 
 
