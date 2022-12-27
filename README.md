@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
- - 🚯 [Give a man a fish...](http://9gag.com/gag/amA570X)
- - 🚯 [Suicide should count as an organ failure.](http://9gag.com/gag/ajV5EQ0)<!-- MEMES:END -->
+ - 🚖 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 🚯 [Cops raid hospital room of terminally-ill Kansas man, 69, with just weeks left to live to seize THC paste and weed vape he uses to ease cancer pain](http://9gag.com/gag/amA57B9)
+ - 🚯 [HAPPY INDEPENDENCE to Tartarstan, 61.4% voted to be their own state, but the fascist Russians refused to recognize this.](http://9gag.com/gag/a2KRo2w)<!-- MEMES:END -->
 
 --- 
 
