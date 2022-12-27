@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After shortages, chipmakers face swelling inventories, mirroring the economy, as consumers cut spending; analysis shows falling lead times in recent months &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/221227/p12#a221227p12)
- - [5 Best Password Managers &lpar;2022&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
- - [The Year Music Reminded Us About the Beauty of Analog Life](https://www.wired.com/story/beyonce-2022-year-of-statement-albums/)<!-- TECH:END -->
+ - [How to remove the background from multiple photos in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-remove-the-background-from-multiple-photos-in-ios-16?utm_medium=rss)
+ - [These were the 10 best streaming TV shows of 2022](https://www.androidauthority.com/best-streaming-tv-shows-2022-3249871/)
+ - [Kuo: Apple plans an updated iPad mini in late 2023 or H1 2024, with a new chip as its main selling point; a foldable iPad is unlikely to replace the mini &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221227/p13#a221227p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
