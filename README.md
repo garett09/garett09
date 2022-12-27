@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - 🚯 [Very informative](http://9gag.com/gag/aA0gwzE)
- - 🚯 [Nestbox](http://9gag.com/gag/aEqgRLG)<!-- MEMES:END -->
+ - 🚖 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 🚯 [Ok, what?](http://9gag.com/gag/abvryev)
+ - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)<!-- MEMES:END -->
 
 --- 
 
