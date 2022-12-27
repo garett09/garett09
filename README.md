@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LastPass&#39; breach update was full of spin, omitted helpful but damning info, provided rosy interpretations hiding a failure to contain August&#39;s breach, and more &lpar;Wladimir Palant/Almost Secure&rpar;](http://www.techmeme.com/221227/p14#a221227p14)
- - [Know the holiday return policies for Amazon, Target, Walmart, and others](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [LG’s working with AI startup Asleep on TVs, washers, fridges, and more that can track sleep](https://www.theverge.com/23527858/lg-sleep-tech-ai-asleep-tv-washer-fridge-smart-home)<!-- TECH:END -->
+ - [Octane X App launches on iPadOS for GPU rendering workflows](https://appleinsider.com/articles/22/12/27/octane-x-app-launches-on-ipados-for-gpu-rendering-workflows?utm_medium=rss)
+ - [iPad mini 6 review: One year later, still a great reader and streamer](https://appleinsider.com/articles/22/12/27/ipad-mini-6-review-one-year-later-still-a-great-reader-and-streamer?utm_medium=rss)
+ - [Source: the DOJ launches a criminal investigation into $370M+ in assets stolen from FTX as the exchange collapsed, separate from its fraud case against SBF &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/221227/p15#a221227p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
