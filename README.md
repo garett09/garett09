@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $1.7T US funding package included the INFORM Act, forcing Amazon, Meta, and others to verify prolific sellers to combat counterfeit and dangerous goods &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/221227/p6#a221227p6)
- - [5 things we want to see from Xiaomi in 2023](https://www.androidauthority.com/xiaomi-2023-3245818/)
- - [AI or No, It’s Always Too Soon to Sound the Death Knell of Art](https://www.wired.com/story/art-history-photography-painting-dalle-ai/)<!-- TECH:END -->
+ - [Redmi K60 series announced: Redmi phones finally get wireless charging](https://www.androidauthority.com/redmi-k60-series-3260252/)
+ - [German researchers bought a US military device, last used in Afghanistan in 2012, with fingerprints, iris scans, and other data on 2,632 people, for $68 on eBay &lpar;New York Times&rpar;](http://www.techmeme.com/221227/p8#a221227p8)
+ - [Nokia G400 5G Review: Fine, But With Lackluster Software Updates](https://www.wired.com/review/nokia-g400-5g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
