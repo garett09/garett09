@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 trends that shaped PlayStation gaming in 2022](https://blog.playstation.com/2022/12/27/7-trends-that-shaped-playstation-gaming-in-2022/)
- - [Our favorite movie scenes of the year](https://www.polygon.com/23516876/best-movie-scenes-moments-2022)
- - [I thrashed the RTX 4090 for 8 hours straight training Stable Diffusion to paint like my uncle Hermann](https://www.pcgamer.com/nvidia-rtx-4090-stable-diffusion-training-aharon-kahana)<!-- GAME:END -->
+ - [Matilda’s viral showstopping finale isn’t the musical’s only incredible song](https://www.polygon.com/23527882/matilda-musical-netflix-songs-clips)
+ - [Metropolis, Sherlock Holmes, and more enter public domain in 2023](https://www.polygon.com/entertainment/23527444/public-domain-2023-sherlock-holmes-metropolis)
+ - [7 trends that shaped PlayStation gaming in 2022](https://blog.playstation.com/2022/12/27/7-trends-that-shaped-playstation-gaming-in-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
