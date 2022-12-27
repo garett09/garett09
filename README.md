@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True.](http://9gag.com/gag/aeQ5Y1Q)
- - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - 🚯 [I like animals and I like good news, so I&#39;m doing a series of posts about how different animals have been saved from extinction &lpar;Part 17&rpar;](http://9gag.com/gag/awZonZR)<!-- MEMES:END -->
+ - 🚖 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
+ - 🚯 [Elephant knew better than to mess with two alpha males](http://9gag.com/gag/aRE0mEq)
+ - 🚯 [...](http://9gag.com/gag/anz5b5E)<!-- MEMES:END -->
 
 --- 
 
