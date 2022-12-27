@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Social media shadowbanning is real and tech firms should be more transparent about it; survey: ~1 in 10 US social media users think they&#39;ve been shadowbanned &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/221227/p16#a221227p16)
- - [Tips and Natural Cold, Fever Remedies for When Your Child Is Sick     - CNET](https://www.cnet.com/health/medical/tips-and-natural-cold-fever-remedies-for-when-your-child-is-sick/#ftag=CAD590a51e)
- - [What network does Google Fi use?](https://www.androidauthority.com/what-network-does-google-fi-use-3260343/)<!-- TECH:END -->
+ - [LG Innotek is ready to put true optical zoom lenses in the next wave of flagship phones](https://www.theverge.com/2022/12/27/23528191/lg-innotek-optical-telephoto-zoom-smartphone-camera)
+ - [Tips and Natural Cold, Fever Remedies for When Your Child Is Sick     - CNET](https://www.cnet.com/health/medical/tips-and-natural-cold-fever-remedies-for-when-your-child-is-sick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
