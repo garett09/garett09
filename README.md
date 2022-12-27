@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Octane X App launches on iPadOS for GPU rendering workflows](https://appleinsider.com/articles/22/12/27/octane-x-app-launches-on-ipados-for-gpu-rendering-workflows?utm_medium=rss)
- - [iPhone gains China market share in declining smartphone market](https://appleinsider.com/articles/22/12/27/iphone-gains-china-market-share-in-declining-smartphone-market?utm_medium=rss)
- - [How to remove the background from multiple photos in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-remove-the-background-from-multiple-photos-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [The best headphones to look forward to in 2023](https://www.androidauthority.com/best-headphones-2023-3242766/)
+ - [iPhone Self Repair Program, Twitter, Studio Display webcam &#39;fix&#39; - Apple&#39;s April 2022 in review](https://appleinsider.com/articles/22/05/01/self-repair-launches-twitter-sells-and-studio-display-isnt-fixed---april-2022-in-review?utm_medium=rss)
+ - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
