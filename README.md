@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BAYC, Doodles, Pudgy Penguins, and other NFT projects are diversifying into real-world assets, including toys, albums, and sports teams, to generate new revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/221227/p10#a221227p10)
- - [In 2022, I stopped using my VR headset](https://www.androidauthority.com/stopped-using-vr-headset-3257772/)
- - [How to Use Your Smartphone to Cope With Vision Loss &lpar;2022&rpar;](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)<!-- TECH:END -->
+ - [After shortages, chipmakers face swelling inventories, mirroring the economy, as consumers cut spending; analysis shows falling lead times in recent months &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/221227/p12#a221227p12)
+ - [5 Best Password Managers &lpar;2022&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
+ - [The Year Music Reminded Us About the Beauty of Analog Life](https://www.wired.com/story/beyonce-2022-year-of-statement-albums/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
