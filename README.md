@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - 🚯 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 🚖 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 🚯 [One title, please!](http://9gag.com/gag/ajV5q1G)
+ - 🚯 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)<!-- MEMES:END -->
 
 --- 
 
