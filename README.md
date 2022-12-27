@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be the change you want to see in the world](http://9gag.com/gag/aNw0d8w)
- - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 🚯 [True.](http://9gag.com/gag/aeQ5Y1Q)<!-- MEMES:END -->
+ - 🚖 [If you see it...](http://9gag.com/gag/a1PRYDR)
+ - 🚯 [You little sh*t!](http://9gag.com/gag/a1PRe42)
+ - 🚯 [One title, please!](http://9gag.com/gag/ajV5q1G)<!-- MEMES:END -->
 
 --- 
 
