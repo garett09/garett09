@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best SSDs of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-ssd-of-2022)
- - [PlayStation Plus hands out Fallout 76 and Star Wars Jedi: Fallen Order in January](https://www.polygon.com/23529515/playstation-plus-january-2023-games-essentials-ps4-ps5)
- - [Levi Winslow’s Top 9 Games Of 2022](https://kotaku.com/elden-ring-evil-west-sifu-kotaku-best-games-2022-goty-1849934333)<!-- GAME:END -->
+ - [Chainsaw Man’s episode endings tell the whole story of the anime adaptation](https://www.polygon.com/23528252/chainsaw-man-endings-songs-anime-finale)
+ - [I Hope You Didn&#39;t Just Buy Star Wars Jedi: Fallen Order Because It&#39;s January&#39;s PS Plus Game](https://kotaku.com/jedi-fallen-order-star-wars-ps-plus-free-january-2023-1849934565)
+ - [PC Gamer Hardware Awards: The best SSDs of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-ssd-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
