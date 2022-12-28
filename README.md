@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC&#39;s planned Arizona chip plant is catalyzing real estate development in northern Phoenix, bringing in hundreds of skilled workers from Taiwan, and more &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/221228/p18#a221228p18)
- - [12 Best Camera Accessories for Phones &lpar;2022&rpar;: Apps, Tripods, Mics, and More](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android/)
- - [9 great games for your VR headset from 2022](https://www.theverge.com/23500956/vr-virtual-reality-games-meta-quest-oculus-2022-roundup)<!-- TECH:END -->
+ - [Daily Deals Dec 28: Apple Watch SE for $249, 45% off Samsung Soundbar &amp; More](https://appleinsider.com/articles/22/12/28/daily-deals-dec-28-apple-watch-se-for-249-45-off-samsung-soundbar-more?utm_medium=rss)
+ - [After Amazon workers in Staten Island voted to unionize in April, similar movements at other US warehouses fizzled out, stymied by turnover and company efforts &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/221228/p19#a221228p19)
+ - [What were the best streaming services of 2022?](https://www.androidauthority.com/what-were-the-best-streaming-services-of-2022-3248969/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
