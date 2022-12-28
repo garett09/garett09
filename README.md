@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court records: SBF is expected to enter a plea before a new judge on January 3, after the original judge recused herself as her husband&#39;s law firm advised FTX &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221228/p21#a221228p21)
- - [CCS Insight: global shipments of VR and AR devices fell 12%+ YoY to 9.6M in 2022; NPD Group: US sales of VR headsets fell 2% YoY to $1.1B as of early December &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221228/p20#a221228p20)
- - [LG to Unveil New, Flat Smartphone Camera Module at CES     - CNET](https://www.cnet.com/tech/mobile/lg-to-unveil-new-flat-smartphone-camera-module-at-ces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LastPass Data Breach: It&#39;s Time to Ditch This Password Manager](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
+ - [These Weird Wordle Starter Words Practically Guarantee a a Winning Streak     - CNET](https://www.cnet.com/culture/these-weird-wordle-starter-words-practically-guarantee-a-a-winning-streak/#ftag=CAD590a51e)
+ - [iPhone Storage Tricks That Free Up the Space You Need     - CNET](https://www.cnet.com/tech/mobile/iphone-storage-tricks-that-free-up-the-space-you-need/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
