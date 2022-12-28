@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 🚖 [Dude busts out a facemelting freebird solo using just a harmonica](http://9gag.com/gag/a6qNQnA)
+ - 🚯 [One title, please!](http://9gag.com/gag/ajV5q1G)
  - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
 
 --- 
