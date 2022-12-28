@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investors sue Gemini and Tyler and Cameron Winklevoss over offering Gemini Trust Earn interest-bearing accounts, which Gemini failed to register as securities &lpar;Joe Schneider/Bloomberg&rpar;](http://www.techmeme.com/221228/p15#a221228p15)
- - [ySky Auto Phone Lockbox Review: Decent procrastination counter-measure](https://appleinsider.com/articles/22/12/28/ysky-auto-phone-lockbox-review-decent-procrastination-counter-measure?utm_medium=rss)
- - [Best iOS apps for cooking basics in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [MCU Phase 4 movies and TV shows ranked from worst to best](https://www.androidauthority.com/mcu-phase-4-ranks-3257755/)
+ - [Poll: Do you use a budgeting app to track your expenses?](https://www.androidauthority.com/budgeting-app-poll-3250042/)
+ - [Sure, Kids Can Develop iPhone Apps. But It’s Not Easy](https://www.wired.com/story/iphone-app-development-swift-playgrounds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
