@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 🚖 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - 🚯 [Naughty List](http://9gag.com/gag/aYV7e0x)
+ - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 --- 
 
