@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - 🚯 [Naughty List](http://9gag.com/gag/aYV7e0x)
- - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 🚖 [I&#39;m not ready yet](http://9gag.com/gag/aMEYwLP)
+ - 🚯 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
+ - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
 
 --- 
 
