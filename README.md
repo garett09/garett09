@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Google&#39;s hilarious results for `shoplifter`](http://9gag.com/gag/aA0g3QR)
- - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
+ - 🚖 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
  - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
 
 --- 
