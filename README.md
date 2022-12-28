@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 557 answer and hint for Wednesday, December 28](https://www.pcgamer.com/wordle-557-answer-december-28)
- - [I&#39;m still waiting for MMOs to get a lot weirder](https://www.pcgamer.com/im-still-waiting-for-mmos-to-get-a-lot-weirder)
- - [The Nier: Automata anime has a firm release date and release trailer](https://www.pcgamer.com/the-nier-automata-anime-has-a-firm-release-date-and-release-trailer)<!-- GAME:END -->
+ - [The best bugs of 2022](https://www.pcgamer.com/the-best-bugs-of-2022)
+ - [Years after release, Death Stranding keeps delivering](https://www.pcgamer.com/years-after-release-death-stranding-keeps-delivering)
+ - [Best Comedy 2022: Trombone Champ](https://www.pcgamer.com/best-comedy-2022-trombone-champ)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
