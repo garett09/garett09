@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - 🚯 [It is you.](http://9gag.com/gag/avQo8j5)
- - 🚯 [It do be like that](http://9gag.com/gag/aMEYZOV)<!-- MEMES:END -->
+ - 🚖 [Tissue almost disappeared \ud83d\udc40](http://9gag.com/gag/aWGEYBq)
+ - 🚯 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 --- 
 
