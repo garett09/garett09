@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s online game regulator approves 45 foreign video games, including Nintendo&#39;s Pok&amp;eacute;mon Unite, effectively marking the end of Beijing&#39;s crackdown &lpar;Reuters&rpar;](http://www.techmeme.com/221228/p5#a221228p5)
- - [Court filings: Sam Bankman-Fried said in an affidavit that he and Gary Wang borrowed $546M+ from Alameda to buy a nearly 8% stake, or ~56M shares, in Robinhood &lpar;Bloomberg&rpar;](http://www.techmeme.com/221228/p4#a221228p4)
- - [Samsung promises to complete One UI 5 rollout in the next 4 days](https://www.androidauthority.com/samsung-one-ui-5-rollout-deadline-3260533/)<!-- TECH:END -->
+ - [A look at North Dimension, a little-known Alameda Research subsidiary, where the SEC says FTX told customers to wire funds to trade without disclosing the ties &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/221228/p9#a221228p9)
+ - [Alameda-linked wallets traded Lido, Polygon, Uniswap, and other tokens for ether and USDT, before swapping for bitcoin, taking their holdings to 47.6 BTC &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221228/p8#a221228p8)
+ - [India&#39;s government-backed nonprofit Open Network for Digital Commerce is holding trials in over 85 cities, including Bengaluru, after raising $22M &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/221228/p7#a221228p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
