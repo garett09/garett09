@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9gagers&lpar;including me&rpar; be like :](http://9gag.com/gag/a3ZRMK3)
+ - 🚖 [If you see it...](http://9gag.com/gag/a1PRYDR)
  - 🚯 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
- - 🚯 [Give a man a fish...](http://9gag.com/gag/amA570X)<!-- MEMES:END -->
+ - 🚯 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)<!-- MEMES:END -->
 
 --- 
 
