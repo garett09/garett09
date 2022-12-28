@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)
  - 🚯 [Suicide should count as an organ failure.](http://9gag.com/gag/ajV5EQ0)
- - 🚯 [Those are some quite big babies](http://9gag.com/gag/avQo71q)<!-- MEMES:END -->
+ - 🚯 [Time to do it](http://9gag.com/gag/aGEgeoX)<!-- MEMES:END -->
 
 --- 
 
