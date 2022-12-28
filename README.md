@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)
- - [Amazon’s started to deliver orders by drones in California and Texas](https://www.theverge.com/2022/12/28/23529705/amazon-drone-delivery-prime-air-california-texas)
- - [A hacker leaks API keys belonging to users of crypto trading service 3Commas, which said its users were &quot;phished&quot;; 3Commas CEO confirms the leaked data &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221228/p22#a221228p22)<!-- TECH:END -->
+ - [Marvel Bringing Stan Lee Documentary to Disney Plus in 2023     - CNET](https://www.cnet.com/culture/entertainment/marvel-bringing-stan-lee-documentary-to-disney-plus-in-2023/#ftag=CAD590a51e)
+ - [Q&amp;A with Christopher Phillips, the VP and GM of Google Geo, which oversees Maps and Waze, on the future of navigation, more visual and immersive maps, and more &lpar;Danny Lewis/Wall Street Journal&rpar;](http://www.techmeme.com/221228/p23#a221228p23)
+ - [How Weightlifting Burns Body Fat, Even After You Work Out     - CNET](https://www.cnet.com/health/fitness/how-weightlifting-burns-body-fat-even-after-your-workout/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
