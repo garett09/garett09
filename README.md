@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 🚯 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 🚖 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)
+ - 🚯 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)<!-- MEMES:END -->
 
 --- 
 
