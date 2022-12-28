@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - 🚯 [Same old life, new year](http://9gag.com/gag/ap95mZW)
- - 🚯 [You\u2019re not a kitten anymore.](http://9gag.com/gag/aPgRRWR)<!-- MEMES:END -->
+ - 🚖 [Google&#39;s hilarious results for `shoplifter`](http://9gag.com/gag/aA0g3QR)
+ - 🚯 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
+ - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
 
 --- 
 
