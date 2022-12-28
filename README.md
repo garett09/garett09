@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know, you know](http://9gag.com/gag/a2KR4o1)
- - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)
- - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 🚖 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
+ - 🚯 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
+ - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)<!-- MEMES:END -->
 
 --- 
 
