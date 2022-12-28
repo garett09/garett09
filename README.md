@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Worth a try](http://9gag.com/gag/anz5bLo)
- - 🚯 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)<!-- MEMES:END -->
+ - 🚖 [Training LOTR style](http://9gag.com/gag/a6qNKjN)
+ - 🚯 [Ancient wisdom is still relevant](http://9gag.com/gag/ago55pw)
+ - 🚯 [A shamefur dispray](http://9gag.com/gag/amA5vP6)<!-- MEMES:END -->
 
 --- 
 
