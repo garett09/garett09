@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D will change to defend itself against crypto and other forms of exploitation](https://www.polygon.com/23529385/one-dnd-scandal-ogl-srd-crypto-nft-intellectual-property)
- - [High On Life Players Are Getting Perma-Trapped In Applebee’s](https://kotaku.com/high-on-life-rick-and-morty-applebees-game-pass-xbox-1849935068)
- - [Chainsaw Man’s episode endings tell the whole story of the anime adaptation](https://www.polygon.com/23528252/chainsaw-man-endings-songs-anime-finale)<!-- GAME:END -->
+ - [Where to find every Security Drone in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23519796/destiny-2-security-drone-locations-revision-zero-operation-seraphs-shield)
+ - [How to open that locked door in Destiny 2’s Operation: Seraph Station](https://www.polygon.com/destiny-2-witch-queen-guide/23529567/operation-seraph-station-dog-pet-triumph-security-drone-revision-zero)
+ - [Stranger Things, Wednesday, and The Sandman are Netflix’s biggest 2022 hits](https://www.polygon.com/23529697/biggest-netflix-movies-tv-shows-2022-most-watched-popular-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
