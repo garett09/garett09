@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ZipRecruiter: 37% of laid off or fired tech workers were able to find a job within a month of starting their search and ~79% were able to within three months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221227/p22#a221227p22)
  - [Kraken says it is closing its cryptocurrency exchange services in Japan, operated by Payward Asia, on January 31 2023, weeks after cutting its workforce by 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/221227/p21#a221227p21)
- - [Southwest Airlines says the operational meltdown over the holiday weekend was partly caused by its scheduling software, which a union rep called as &quot;outdated&quot; &lpar;Taylor Rains/Insider&rpar;](http://www.techmeme.com/221227/p20#a221227p20)
- - [Court filing: Intel and VLSI Technology agreed to end a patent dispute in Delaware where Intel previously said VLSI had asked for more than $4B in damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221227/p19#a221227p19)<!-- TECH:END -->
+ - [Southwest Airlines says the operational meltdown over the holiday weekend was partly caused by its scheduling software, which a union rep called as &quot;outdated&quot; &lpar;Taylor Rains/Insider&rpar;](http://www.techmeme.com/221227/p20#a221227p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
