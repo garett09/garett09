@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Training LOTR style](http://9gag.com/gag/a6qNKjN)
- - 🚯 [Ancient wisdom is still relevant](http://9gag.com/gag/ago55pw)
- - 🚯 [A shamefur dispray](http://9gag.com/gag/amA5vP6)<!-- MEMES:END -->
+ - 🚖 [Philosoraptor confused](http://9gag.com/gag/a7qwr2w)
+ - 🚯 [And the winner of the weirdest debate ever is](http://9gag.com/gag/a4oR3Bm)
+ - 🚯 [Move your shit or be shit on](http://9gag.com/gag/a4oR3DA)<!-- MEMES:END -->
 
 --- 
 
