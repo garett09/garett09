@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)
- - 🚯 [Suicide should count as an organ failure.](http://9gag.com/gag/ajV5EQ0)
- - 🚯 [Time to do it](http://9gag.com/gag/aGEgeoX)<!-- MEMES:END -->
+ - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 🚯 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 --- 
 
