@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some telehealth companies are running social media ads promoting drugs for unapproved uses, showing benefits and paid testimonials but not risks or side effects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221228/p2#a221228p2)
- - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)
- - [Poll: Did you get any Android-powered devices for Christmas?](https://www.androidauthority.com/android-powered-devices-christmas-gift-december-3260518/)<!-- TECH:END -->
+ - [You told us: Here’s the last time you sideloaded an app on your phone](https://www.androidauthority.com/last-time-sideload-apps-phone-poll-results-3260528/)
+ - [Bitcoin miner Argo Blockchain will avoid bankruptcy filing after agreeing to sell its Helios mining facility in Texas to Galaxy Digital for $65M and a $35M loan &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/221228/p3#a221228p3)
+ - [Some telehealth companies are running social media ads promoting drugs for unapproved uses, showing benefits and paid testimonials but not risks or side effects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221228/p2#a221228p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
