@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find every Security Drone in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23519796/destiny-2-security-drone-locations-revision-zero-operation-seraphs-shield)
- - [How to open that locked door in Destiny 2’s Operation: Seraph Station](https://www.polygon.com/destiny-2-witch-queen-guide/23529567/operation-seraph-station-dog-pet-triumph-security-drone-revision-zero)
- - [Stranger Things, Wednesday, and The Sandman are Netflix’s biggest 2022 hits](https://www.polygon.com/23529697/biggest-netflix-movies-tv-shows-2022-most-watched-popular-streaming)<!-- GAME:END -->
+ - [The Witcher: Blood Origin changes Ciri’s story and sets up Witcher season 3 &lpar;maybe&rpar;](https://www.polygon.com/23529356/witcher-blood-origin-post-credits-prophecy-ending-explained)
+ - [High on Life can trap players inside Applebee&#39;s forever](https://www.pcgamer.com/high-on-life-can-trap-players-inside-applebees-forever)
+ - [Where to find every Security Drone in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23519796/destiny-2-security-drone-locations-revision-zero-operation-seraphs-shield)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
