@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House bans TikTok on all House-managed devices, citing a &quot;high risk due to a number of security issues&quot;, following similar bans for US government devices &lpar;Moira Warburton/Reuters&rpar;](http://www.techmeme.com/221228/p12#a221228p12)
- - [Crispr’s Quest to Slay Donegal Amy](https://www.wired.com/story/crispr-treatment-donegal-amy/)
- - [The Best TV Shows of 2022—and How to Watch Them](https://www.wired.com/story/best-tv-2022/)<!-- TECH:END -->
+ - [Investors sue Gemini and Tyler and Cameron Winklevoss over offering Gemini Trust Earn interest-bearing accounts, which Gemini failed to register as securities &lpar;Joe Schneider/Bloomberg&rpar;](http://www.techmeme.com/221228/p15#a221228p15)
+ - [ySky Auto Phone Lockbox Review: Decent procrastination counter-measure](https://appleinsider.com/articles/22/12/28/ysky-auto-phone-lockbox-review-decent-procrastination-counter-measure?utm_medium=rss)
+ - [Best iOS apps for cooking basics in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
