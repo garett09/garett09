@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tissue almost disappeared \ud83d\udc40](http://9gag.com/gag/aWGEYBq)
- - 🚯 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
- - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 🚖 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
+ - 🚯 [Same old life, new year](http://9gag.com/gag/ap95mZW)
+ - 🚯 [You\u2019re not a kitten anymore.](http://9gag.com/gag/aPgRRWR)<!-- MEMES:END -->
 
 --- 
 
