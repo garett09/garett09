@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There may never be another Crysis moment for PC gaming](https://www.pcgamer.com/there-may-never-be-another-crysis-moment-for-pc-gaming)
- - [Let&#39;s roast some great RPGs for their absolutely god-awful names](https://www.pcgamer.com/lets-roast-some-great-rpgs-for-their-absolutely-god-awful-names)
- - [The best bugs of 2022](https://www.pcgamer.com/the-best-bugs-of-2022)<!-- GAME:END -->
+ - [All the PC Gamer hardware reviews from 2022](https://www.pcgamer.com/pc-gamer-hardware-reviews-2022)
+ - [The best TV episodes of the year](https://www.polygon.com/23488385/best-tv-episodes-2022)
+ - [Hogwarts Legacy Transphobia Controversy Fuels Reddit Drama](https://kotaku.com/hogwarts-legacy-controversy-reddit-harry-potter-rowling-1849933298)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
