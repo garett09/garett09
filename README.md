@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Philosoraptor confused](http://9gag.com/gag/a7qwr2w)
- - 🚯 [And the winner of the weirdest debate ever is](http://9gag.com/gag/a4oR3Bm)
- - 🚯 [Move your shit or be shit on](http://9gag.com/gag/a4oR3DA)<!-- MEMES:END -->
+ - 🚖 [If you know, you know](http://9gag.com/gag/a2KR4o1)
+ - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)
+ - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 --- 
 
