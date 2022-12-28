@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MCU Phase 4 movies and TV shows ranked from worst to best](https://www.androidauthority.com/mcu-phase-4-ranks-3257755/)
- - [Poll: Do you use a budgeting app to track your expenses?](https://www.androidauthority.com/budgeting-app-poll-3250042/)
- - [Sure, Kids Can Develop iPhone Apps. But It’s Not Easy](https://www.wired.com/story/iphone-app-development-swift-playgrounds/)<!-- TECH:END -->
+ - [TSMC&#39;s planned Arizona chip plant is catalyzing real estate development in northern Phoenix, bringing in hundreds of skilled workers from Taiwan, and more &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/221228/p18#a221228p18)
+ - [12 Best Camera Accessories for Phones &lpar;2022&rpar;: Apps, Tripods, Mics, and More](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android/)
+ - [9 great games for your VR headset from 2022](https://www.theverge.com/23500956/vr-virtual-reality-games-meta-quest-oculus-2022-roundup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
