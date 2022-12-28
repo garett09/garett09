@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at North Dimension, a little-known Alameda Research subsidiary, where the SEC says FTX told customers to wire funds to trade without disclosing the ties &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/221228/p9#a221228p9)
- - [Alameda-linked wallets traded Lido, Polygon, Uniswap, and other tokens for ether and USDT, before swapping for bitcoin, taking their holdings to 47.6 BTC &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221228/p8#a221228p8)
- - [India&#39;s government-backed nonprofit Open Network for Digital Commerce is holding trials in over 85 cities, including Bengaluru, after raising $22M &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/221228/p7#a221228p7)<!-- TECH:END -->
+ - [The US House bans TikTok on all House-managed devices, citing a &quot;high risk due to a number of security issues&quot;, following similar bans for US government devices &lpar;Moira Warburton/Reuters&rpar;](http://www.techmeme.com/221228/p12#a221228p12)
+ - [Crispr’s Quest to Slay Donegal Amy](https://www.wired.com/story/crispr-treatment-donegal-amy/)
+ - [The Best TV Shows of 2022—and How to Watch Them](https://www.wired.com/story/best-tv-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
