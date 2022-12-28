@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you see it...](http://9gag.com/gag/a1PRYDR)
- - 🚯 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
- - 🚯 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)<!-- MEMES:END -->
+ - 🚖 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 🚯 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 🚯 [If you see it...](http://9gag.com/gag/a1PRYDR)<!-- MEMES:END -->
 
 --- 
 
