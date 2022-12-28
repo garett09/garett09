@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An anonymous Twitter user leaks an alleged list of API keys belonging to crypto trading service 3Commas&#39; users, after 3Commas said its users had been &quot;phished&quot; &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221228/p22#a221228p22)
- - [LastPass Data Breach: It&#39;s Time to Ditch This Password Manager](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
- - [These Weird Wordle Starter Words Practically Guarantee a a Winning Streak     - CNET](https://www.cnet.com/culture/these-weird-wordle-starter-words-practically-guarantee-a-a-winning-streak/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)
+ - [Amazon’s started to deliver orders by drones in California and Texas](https://www.theverge.com/2022/12/28/23529705/amazon-drone-delivery-prime-air-california-texas)
+ - [A hacker leaks API keys belonging to users of crypto trading service 3Commas, which said its users were &quot;phished&quot;; 3Commas CEO confirms the leaked data &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221228/p22#a221228p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
