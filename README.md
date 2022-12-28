@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)
- - 🚯 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)<!-- MEMES:END -->
+ - 🚖 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 🚯 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)<!-- MEMES:END -->
 
 --- 
 
