@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)
- - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 🚯 [This is Biznesss](http://9gag.com/gag/a1PRWO2)<!-- MEMES:END -->
+ - 🚖 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
+ - 🚯 [Find the cat](http://9gag.com/gag/aQE1R3z)
+ - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)<!-- MEMES:END -->
 
 --- 
 
