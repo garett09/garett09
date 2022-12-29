@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for January 2023](https://news.xbox.com/en-us/2022/12/29/new-games-with-gold-for-january-2023/)
- - [The best video essays of 2022](https://www.polygon.com/what-to-watch/23500291/best-video-essays-2022-youtube)
- - [20 Best Steam Deck Games Of 2022](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)<!-- GAME:END -->
+ - [Xbox Games With Gold opens 2023 with two more from the bargain bin](https://www.polygon.com/23530986/xbox-free-games-with-gold-january-2023-xbox-one-xbox-series-x)
+ - [The State Of PlayStation In 2022](https://kotaku.com/sony-2022-ps5-ps4-year-in-review-playstation-plus-1849934363)
+ - [PC Gamer Hardware Awards: The best microphone of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-microphone-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
