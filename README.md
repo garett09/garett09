@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
- - 🚯 [Meme](http://9gag.com/gag/a5XRX2N)
- - 🚯 [I play F.E.A.R. every year, what a masterpiece](http://9gag.com/gag/aDYgYvO)<!-- MEMES:END -->
+ - 🚖 [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)
+ - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - 🚯 [This is Biznesss](http://9gag.com/gag/a1PRWO2)<!-- MEMES:END -->
 
 --- 
 
