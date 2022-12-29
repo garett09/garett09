@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US case against Avraham Eisenberg, who claimed his &quot;highly profitable trading strategy&quot; was legal, over allegedly exploiting Mango Markets &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/221229/p10#a221229p10)
- - [Best two-factor authentication apps for iOS 16 in 2023](https://appleinsider.com/inside/ios-16/tips/best-two-factor-authentication-apps-for-ios-16-in-2023?utm_medium=rss)
- - [MacBook Air ships, Apple Arcade loses games, and Chris Evans&#39; iPhone - Apple&#39;s July 2022 in review](https://appleinsider.com/articles/22/08/01/macbook-air-ships-apple-arcade-loses-games-and-chris-evans-iphone---july-2022-in-review?utm_medium=rss)<!-- TECH:END -->
+ - [5 things we want to see from budget phones in 2023](https://www.androidauthority.com/budget-phones-2023-3248472/)
+ - [Is It 2023 Yet?](https://www.wired.com/story/gadget-lab-podcast-579/)
+ - [Meross Smart Garage Door Opener review: Not your father&#39;s garage door opener](https://appleinsider.com/articles/22/12/29/meross-smart-garage-door-opener-review-not-your-fathers-garage-door-opener?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
