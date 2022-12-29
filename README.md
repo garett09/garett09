@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jon Peddie Research: shipments of discrete GPUs fell 42% YoY to ~14M in Q3 2022, including ~6.9M units for desktop PCs, the lowest number since at least Q3 2005 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221229/p2#a221229p2)
  - [The Redmi K60 could come to global markets as Poco F5 Pro](https://www.androidauthority.com/poco-f5-pro-redmi-k60-3260786/)
- - [The SEC says FTX made two $100M investments using customer funds in fintech company Dave in March 2022 and blockchain startup Mysten Labs in September 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/221229/p1#a221229p1)
- - [&#39;Glass Onion&#39; on Netflix: Ending Explained, Celebrity Cameos, Burning Questions     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-on-netflix-ending-explained-celebrity-cameos-burning-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The SEC says FTX made two $100M investments using customer funds in fintech company Dave in March 2022 and blockchain startup Mysten Labs in September 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/221229/p1#a221229p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
