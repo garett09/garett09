@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 🚯 [And the bigger fish ate the little fish](http://9gag.com/gag/aNw0PB4)
- - 🚯 [The truck didn&#39;t want anyone to pass them, got what it deserved](http://9gag.com/gag/a1PR12G)<!-- MEMES:END -->
+ - 🚖 [Find the cat](http://9gag.com/gag/aQE1R3z)
+ - 🚯 [It was at this moment he knew...](http://9gag.com/gag/ago5gA1)
+ - 🚯 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)<!-- MEMES:END -->
 
 --- 
 
