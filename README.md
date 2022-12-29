@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games With Gold opens 2023 with two more from the bargain bin](https://www.polygon.com/23530986/xbox-free-games-with-gold-january-2023-xbox-one-xbox-series-x)
- - [The State Of PlayStation In 2022](https://kotaku.com/sony-2022-ps5-ps4-year-in-review-playstation-plus-1849934363)
- - [PC Gamer Hardware Awards: The best microphone of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-microphone-of-2022)<!-- GAME:END -->
+ - [Dwarf Fortress faces mind-boggling reality of hiring second programmer](https://www.pcgamer.com/dwarf-fortress-faces-mind-boggling-reality-of-hiring-second-programmer)
+ - [Chainsaw Man Does The Shonen Anime Trio Formula Right](https://kotaku.com/anime-chainsaw-man-mappa-aki-denji-power-naruto-1849935738)
+ - [PC Gamer Hardware Awards: The best gaming headsets of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
