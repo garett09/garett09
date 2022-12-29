@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best New Christmas Movies on Hallmark     - CNET](https://www.cnet.com/culture/entertainment/the-best-new-christmas-movies-on-hallmark-2022/#ftag=CAD590a51e)
- - [Samsung Galaxy A34 could come in four funky colors](https://www.androidauthority.com/samsung-galaxy-a34-colors-3260979/)
- - [How to use Stacks and Quick Look in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-stacks-and-quick-look-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Pelé, Brazilian Soccer Star, Dies at 82     - CNET](https://www.cnet.com/culture/sports/pele-brazilian-soccer-star-dies-at-82/#ftag=CAD590a51e)
+ - [Marvel Bringing Official Stan Lee Documentary to Disney Plus in 2023     - CNET](https://www.cnet.com/culture/entertainment/marvel-bringing-official-stan-lee-documentary-to-disney-plus-in-2023/#ftag=CAD590a51e)
+ - [The Best Christmas Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-christmas-movies-on-netflix-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
