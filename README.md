@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whos the girl on the right](http://9gag.com/gag/a5XRE4E)
- - 🚯 [This is a game changer](http://9gag.com/gag/a9qRE9D)
- - 🚯 [Tobey knows what&#39;s up](http://9gag.com/gag/avQooqE)<!-- MEMES:END -->
+ - 🚖 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - 🚯 [This is the only acceptable Metaverse](http://9gag.com/gag/aoK5gO3)
+ - 🚯 [There&#39;s always next year](http://9gag.com/gag/aL10v9g)<!-- MEMES:END -->
 
 --- 
 
