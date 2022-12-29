@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
- - 🚯 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 🚖 [Whos the girl on the right](http://9gag.com/gag/a5XRE4E)
+ - 🚯 [This is a game changer](http://9gag.com/gag/a9qRE9D)
+ - 🚯 [Tobey knows what&#39;s up](http://9gag.com/gag/avQooqE)<!-- MEMES:END -->
 
 --- 
 
