@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Find the cat](http://9gag.com/gag/aQE1R3z)
- - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
- - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)<!-- MEMES:END -->
+ - 🚖 [It all makes sense now](http://9gag.com/gag/aNw0DmA)
+ - 🚯 [Even the gays are waking up](http://9gag.com/gag/amA5gYX)
+ - 🚯 [Construction tips 101](http://9gag.com/gag/axo7onK)<!-- MEMES:END -->
 
 --- 
 
