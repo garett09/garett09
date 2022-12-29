@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Nice glasses](http://9gag.com/gag/aQE1Xg7)
- - 🚯 [Find the cat](http://9gag.com/gag/aQE1R3z)
- - 🚯 [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)<!-- MEMES:END -->
+ - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - 🚯 [Find the cat](http://9gag.com/gag/aQE1R3z)<!-- MEMES:END -->
 
 --- 
 
