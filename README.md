@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pelé, Brazilian Soccer Star, Dies at 82     - CNET](https://www.cnet.com/culture/sports/pele-brazilian-soccer-star-dies-at-82/#ftag=CAD590a51e)
- - [Marvel Bringing Official Stan Lee Documentary to Disney Plus in 2023     - CNET](https://www.cnet.com/culture/entertainment/marvel-bringing-official-stan-lee-documentary-to-disney-plus-in-2023/#ftag=CAD590a51e)
- - [The Best Christmas Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-christmas-movies-on-netflix-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An obituary of Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple shuts the iOS app down on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)
+ - [Save $150 on this M2 MacBook Air with 16GB RAM &amp; 512GB SSD, plus free next day delivery](https://appleinsider.com/articles/22/12/29/save-150-on-this-m2-macbook-air-with-16gb-ram-512gb-ssd-plus-free-next-day-delivery?utm_medium=rss)
+ - [Pelé, Brazilian Soccer Star, Dies at 82     - CNET](https://www.cnet.com/culture/sports/pele-brazilian-soccer-star-dies-at-82/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
