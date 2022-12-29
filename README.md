@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - 🚯 [It all makes sense now](http://9gag.com/gag/aNw0DmA)
- - 🚯 [T. Hanks](http://9gag.com/gag/az21xRz)<!-- MEMES:END -->
+ - 🚖 [Find the cat](http://9gag.com/gag/aQE1R3z)
+ - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
+ - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)<!-- MEMES:END -->
 
 --- 
 
