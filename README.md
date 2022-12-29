@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things we want to see from budget phones in 2023](https://www.androidauthority.com/budget-phones-2023-3248472/)
- - [Is It 2023 Yet?](https://www.wired.com/story/gadget-lab-podcast-579/)
- - [Meross Smart Garage Door Opener review: Not your father&#39;s garage door opener](https://appleinsider.com/articles/22/12/29/meross-smart-garage-door-opener-review-not-your-fathers-garage-door-opener?utm_medium=rss)<!-- TECH:END -->
+ - [PHANTOM X2 Series: Premium smartphones with revolutionary camera technology](https://www.androidauthority.com/phantom-x2-series-3260286/)
+ - [It’s Time to Break Bad Pandemic Learning Habits](https://www.wired.com/story/its-time-to-break-bad-pandemic-learning-habits/)
+ - [Machine Learning Could Create the Perfect Game Bosses](https://www.wired.com/story/machine-learning-ai-game-development-bosses-enemies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
