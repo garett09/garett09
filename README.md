@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard developer Proletariat is unionizing](https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing)
  - [YouTuber: Logan Paul’s NFT ‘Game’ Is A Big Crypto Scam](https://kotaku.com/logan-paul-cryptozoo-blockchain-scam-youtube-nft-crypto-1849935953)
- - [Kojima: MGS2 &#39;Seemed Impossible To Release&#39; After 9/11, Nearly Quit](https://kotaku.com/hideo-kojima-metal-gear-solid-2-death-stranding-1849935746)
- - [The Witcher: Blood Origin changes Ciri’s story and sets up Witcher season 3 &lpar;maybe&rpar;](https://www.polygon.com/23529356/witcher-blood-origin-post-credits-prophecy-ending-explained)<!-- GAME:END -->
+ - [Kojima: MGS2 &#39;Seemed Impossible To Release&#39; After 9/11, Nearly Quit](https://kotaku.com/hideo-kojima-metal-gear-solid-2-death-stranding-1849935746)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
