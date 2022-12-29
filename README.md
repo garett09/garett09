@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 may be 35% more power efficient with new TSMC 3nm chip](https://appleinsider.com/articles/22/12/29/iphone-15-may-be-35-more-power-efficient-with-new-tsmc-3nm-chip?utm_medium=rss)
- - [Best Dark Sky alternatives for iOS 16 in 2023](https://appleinsider.com/inside/ios-16/tips/best-dark-sky-alternatives-for-ios-16-in-2023?utm_medium=rss)
- - [Apple&#39;s August 2022 in review: iPhone 14 event looms, roaming AirTags, and more](https://appleinsider.com/articles/22/09/03/roaming-airtags-luck-and-crime----august-2022-in-review?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch can act as reliable &amp; accurate stress indicator](https://appleinsider.com/articles/22/12/29/apple-watch-can-act-as-reliable-accurate-stress-indicator?utm_medium=rss)
+ - [Poll: Which smartphone brand surprised you the most in 2022?](https://www.androidauthority.com/smartphone-brand-surprised-you-poll-3250985/)
+ - [Texans came together to save more than 1,500 bats from wintery doom](https://www.theverge.com/2022/12/29/23530840/bats-rescue-texas-houston-humane-society-winter-storm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
