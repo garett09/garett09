@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best rhythm game finally came to PC this year and took over my life](https://www.pcgamer.com/the-best-rhythm-game-finally-came-to-pc-this-year-and-took-over-my-life)
- - [GOTY Runner Up 2022: Marvel&#39;s Midnight Suns](https://www.pcgamer.com/goty-runner-up-2022-marvels-midnight-suns)
- - [The PC finally got a Smash Bros. worth celebrating in 2022](https://www.pcgamer.com/the-pc-finally-got-a-smash-bros-worth-celebrating-in-2022)<!-- GAME:END -->
+ - [So, so many Vampire Survivors clones came out this year](https://www.pcgamer.com/so-so-many-vampire-survivors-clones-came-out-this-year)
+ - [2023&#39;s looking like another banger year for deckbuilders](https://www.pcgamer.com/2023s-looking-like-another-banger-year-for-deckbuilders)
+ - [The best rhythm game finally came to PC this year and took over my life](https://www.pcgamer.com/the-best-rhythm-game-finally-came-to-pc-this-year-and-took-over-my-life)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
