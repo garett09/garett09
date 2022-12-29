@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch can act as reliable &amp; accurate stress indicator](https://appleinsider.com/articles/22/12/29/apple-watch-can-act-as-reliable-accurate-stress-indicator?utm_medium=rss)
- - [Poll: Which smartphone brand surprised you the most in 2022?](https://www.androidauthority.com/smartphone-brand-surprised-you-poll-3250985/)
- - [Texans came together to save more than 1,500 bats from wintery doom](https://www.theverge.com/2022/12/29/23530840/bats-rescue-texas-houston-humane-society-winter-storm)<!-- TECH:END -->
+ - [The Best New Christmas Movies on Hallmark     - CNET](https://www.cnet.com/culture/entertainment/the-best-new-christmas-movies-on-hallmark-2022/#ftag=CAD590a51e)
+ - [Samsung Galaxy A34 could come in four funky colors](https://www.androidauthority.com/samsung-galaxy-a34-colors-3260979/)
+ - [How to use Stacks and Quick Look in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-stacks-and-quick-look-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
