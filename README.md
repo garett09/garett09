@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice glasses](http://9gag.com/gag/aQE1Xg7)
- - 🚯 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 🚯 [Find the cat](http://9gag.com/gag/aQE1R3z)<!-- MEMES:END -->
+ - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
+ - 🚯 [Meme](http://9gag.com/gag/a5XRX2N)
+ - 🚯 [I play F.E.A.R. every year, what a masterpiece](http://9gag.com/gag/aDYgYvO)<!-- MEMES:END -->
 
 --- 
 
