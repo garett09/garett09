@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 558 answer and hint for Thursday, December 29](https://www.pcgamer.com/wordle-558-answer-december-29)
- - [These 4TB m.2 SSDs are among the cheapest we&#39;ve seen](https://www.pcgamer.com/these-4tb-m2-ssds-are-among-the-cheapest-weve-seen)
- - [Nvidia&#39;s RTX 4070 Ti preorder price in China isn&#39;t pretty](https://www.pcgamer.com/nvidias-rtx-4070-ti-preorder-price-in-china-isnt-pretty)<!-- GAME:END -->
+ - [The best rhythm game finally came to PC this year and took over my life](https://www.pcgamer.com/the-best-rhythm-game-finally-came-to-pc-this-year-and-took-over-my-life)
+ - [GOTY Runner Up 2022: Marvel&#39;s Midnight Suns](https://www.pcgamer.com/goty-runner-up-2022-marvels-midnight-suns)
+ - [The PC finally got a Smash Bros. worth celebrating in 2022](https://www.pcgamer.com/the-pc-finally-got-a-smash-bros-worth-celebrating-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
