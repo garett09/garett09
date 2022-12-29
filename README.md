@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PHANTOM X2 Series: Premium smartphones with revolutionary camera technology](https://www.androidauthority.com/phantom-x2-series-3260286/)
- - [It’s Time to Break Bad Pandemic Learning Habits](https://www.wired.com/story/its-time-to-break-bad-pandemic-learning-habits/)
- - [Machine Learning Could Create the Perfect Game Bosses](https://www.wired.com/story/machine-learning-ai-game-development-bosses-enemies/)<!-- TECH:END -->
+ - [Daily Deals Dec. 29: $200 off Apple 11-inch iPad Pro, Fire 8 tablet 50% off &amp; more](https://appleinsider.com/articles/22/12/29/daily-deals-dec-29-200-off-apple-11-inch-ipad-pro-fire-8-tablet-50-off-more?utm_medium=rss)
+ - [What were the best streaming movies that flew under the radar in 2022?](https://www.androidauthority.com/underrated-streaming-movies-of-2022-3258624/)
+ - [The best new streaming movies this week on Netflix, HBO Max, Hulu, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
