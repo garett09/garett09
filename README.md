@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 🚯 [Make your bets](http://9gag.com/gag/az21emz)
- - 🚯 [And the bigger fish ate the little fish](http://9gag.com/gag/aNw0PB4)<!-- MEMES:END -->
+ - 🚯 [And the bigger fish ate the little fish](http://9gag.com/gag/aNw0PB4)
+ - 🚯 [The truck didn&#39;t want anyone to pass them, got what it deserved](http://9gag.com/gag/a1PR12G)<!-- MEMES:END -->
 
 --- 
 
