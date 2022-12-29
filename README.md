@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Best cooking apps for iOS in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
- - [An obituary of Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple shuts the iOS app down on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)
- - [Save $150 on this M2 MacBook Air with 16GB RAM &amp; 512GB SSD, plus free next day delivery](https://appleinsider.com/articles/22/12/29/save-150-on-this-m2-macbook-air-with-16gb-ram-512gb-ssd-plus-free-next-day-delivery?utm_medium=rss)<!-- TECH:END -->
+ - [Questions Swirl About Potential Twitter Hack Affecting 400M Accounts     - CNET](https://www.cnet.com/news/social-media/questions-swirl-about-potential-twitter-hack-affecting-400-million-accounts/#ftag=CAD590a51e)
+ - [An obituary for Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple plans to kill the iOS app on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
