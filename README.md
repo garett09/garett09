@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Dec. 29: $200 off Apple 11-inch iPad Pro, Fire 8 tablet 50% off &amp; more](https://appleinsider.com/articles/22/12/29/daily-deals-dec-29-200-off-apple-11-inch-ipad-pro-fire-8-tablet-50-off-more?utm_medium=rss)
- - [What were the best streaming movies that flew under the radar in 2022?](https://www.androidauthority.com/underrated-streaming-movies-of-2022-3258624/)
- - [The best new streaming movies this week on Netflix, HBO Max, Hulu, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [6 things we want to see from Apple in 2023](https://www.androidauthority.com/apple-2023-3260821/)
+ - [Chinese media: two government institutions and Huaban plan to launch China Digital Assets Trading Platform, an NFT marketplace that will allow secondary trading &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221229/p17#a221229p17)
+ - [Kickstart Your Morning With This $180 Ninja Espresso and Coffee Machine -- Today Only     - CNET](https://www.cnet.com/deals/kickstart-your-morning-with-this-180-ninja-espresso-and-coffee-machine-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
