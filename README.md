@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 🚯 [No! Please, Kill Me](http://9gag.com/gag/aPgRZ4q)
- - 🚯 [This is the only acceptable Metaverse](http://9gag.com/gag/aoK5gO3)<!-- MEMES:END -->
+ - 🚖 [How did your husband die?](http://9gag.com/gag/aKEd6pg)
+ - 🚯 [There&#39;s always next year](http://9gag.com/gag/aL10v9g)
+ - 🚯 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)<!-- MEMES:END -->
 
 --- 
 
