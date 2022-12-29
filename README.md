@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instant Justice gets served to a bully beating up a blind kid. We need more wolves like him to attack the bad wolves out there](http://9gag.com/gag/aL10pqM)
- - 🚯 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
+ - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 🚯 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)<!-- MEMES:END -->
 
 --- 
 
