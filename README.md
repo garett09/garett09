@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How did your husband die?](http://9gag.com/gag/aKEd6pg)
- - 🚯 [There&#39;s always next year](http://9gag.com/gag/aL10v9g)
- - 🚯 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)<!-- MEMES:END -->
+ - 🚖 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - 🚯 [Make your bets](http://9gag.com/gag/az21emz)
+ - 🚯 [And the bigger fish ate the little fish](http://9gag.com/gag/aNw0PB4)<!-- MEMES:END -->
 
 --- 
 
