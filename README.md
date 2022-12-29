@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solana cofounders Anatoly Yakovenko and Raj Gokal scramble to move past FTX&#39;s stain on their token, down 96% from November 2021; FTX and Alameda bought 58M+ SOL &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221229/p6#a221229p6)
- - [Behind the rise of &quot;cozy&quot; games that encourage players to take their time in open worlds devoid of competition and went from niche to video game fixture in 2022 &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221229/p5#a221229p5)
- - [PlayStation Plus Deals: How to Save Cash on Sony&#39;s Gaming Subscriptions     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2022 saw the re-emergence of hacktivism on a large scale, with some new tactics and approaches blurring the lines between hacktivism and state-sponsored attacks &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/221229/p8#a221229p8)
+ - [The Singularity of Allison Williams](https://www.wired.com/story/singularity-allison-williams-m3gan/)
+ - [Samsung’s latest fridge will be even better for TikTok](https://www.theverge.com/2022/12/29/23530623/samsung-smart-fridge-tiktok-display-tv-ces-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
