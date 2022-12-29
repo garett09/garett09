@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
- - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)
- - 🚯 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)<!-- MEMES:END -->
+ - 🚯 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
+ - 🚯 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 --- 
 
