@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 things we want to see from Apple in 2023](https://www.androidauthority.com/apple-2023-3260821/)
- - [Chinese media: two government institutions and Huaban plan to launch China Digital Assets Trading Platform, an NFT marketplace that will allow secondary trading &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221229/p17#a221229p17)
- - [Kickstart Your Morning With This $180 Ninja Espresso and Coffee Machine -- Today Only     - CNET](https://www.cnet.com/deals/kickstart-your-morning-with-this-180-ninja-espresso-and-coffee-machine-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 may be 35% more power efficient with new TSMC 3nm chip](https://appleinsider.com/articles/22/12/29/iphone-15-may-be-35-more-power-efficient-with-new-tsmc-3nm-chip?utm_medium=rss)
+ - [Best Dark Sky alternatives for iOS 16 in 2023](https://appleinsider.com/inside/ios-16/tips/best-dark-sky-alternatives-for-ios-16-in-2023?utm_medium=rss)
+ - [Apple&#39;s August 2022 in review: iPhone 14 event looms, roaming AirTags, and more](https://appleinsider.com/articles/22/09/03/roaming-airtags-luck-and-crime----august-2022-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
