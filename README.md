@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best cooking apps for iOS in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
  - [An obituary of Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple shuts the iOS app down on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)
- - [Save $150 on this M2 MacBook Air with 16GB RAM &amp; 512GB SSD, plus free next day delivery](https://appleinsider.com/articles/22/12/29/save-150-on-this-m2-macbook-air-with-16gb-ram-512gb-ssd-plus-free-next-day-delivery?utm_medium=rss)
- - [Pelé, Brazilian Soccer Star, Dies at 82     - CNET](https://www.cnet.com/culture/sports/pele-brazilian-soccer-star-dies-at-82/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $150 on this M2 MacBook Air with 16GB RAM &amp; 512GB SSD, plus free next day delivery](https://appleinsider.com/articles/22/12/29/save-150-on-this-m2-macbook-air-with-16gb-ram-512gb-ssd-plus-free-next-day-delivery?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
