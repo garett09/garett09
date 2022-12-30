@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)
- - 🚯 [The cliff](http://9gag.com/gag/ap95gn9)
- - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
+ - 🚖 [:DD](http://9gag.com/gag/a9qRy8K)
+ - 🚯 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
+ - 🚯 [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)<!-- MEMES:END -->
 
 --- 
 
