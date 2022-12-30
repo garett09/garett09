@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - 🚯 [The weeknd is such a good person](http://9gag.com/gag/a5XRQ5g)
+ - 🚖 [Guy who identifies as rich](http://9gag.com/gag/adP5Bjj)
+ - 🚯 [McDonalds](http://9gag.com/gag/aqegRNP)
  - 🚯 [This is the sportsmanship that the world wants!](http://9gag.com/gag/aQE1g8w)<!-- MEMES:END -->
 
 --- 
