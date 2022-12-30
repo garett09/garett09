@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [17 Fantastic Games That Went Under The Radar In 2022](https://kotaku.com/2022-goty-underrated-hidden-gems-best-games-1849936105)
  - [Watching AI evolve this year has been a rollercoaster](https://www.pcgamer.com/watching-ai-evolve-this-year-has-been-a-rollercoaster)
- - [Kenneth Shepard&#39;s Top Five Games Of 2022](https://kotaku.com/best-games-2022-pokemon-legends-arceus-overwatch-ofk-1849935691)
- - [The biggest gaming controversies of 2022](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2022)<!-- GAME:END -->
+ - [Kenneth Shepard&#39;s Top Five Games Of 2022](https://kotaku.com/best-games-2022-pokemon-legends-arceus-overwatch-ofk-1849935691)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
