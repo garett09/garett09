@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cliff](http://9gag.com/gag/ap95gn9)
- - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)<!-- MEMES:END -->
+ - 🚖 [Yep.](http://9gag.com/gag/a8q5An6)
+ - 🚯 [Wanting sharia law while fleeing from sharia law](http://9gag.com/gag/aYV7O7q)
+ - 🚯 [Just one more thing...... &lpar;a joke for the boomers&rpar;](http://9gag.com/gag/aEqgVX9)<!-- MEMES:END -->
 
 --- 
 
