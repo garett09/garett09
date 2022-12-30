@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It all makes sense now](http://9gag.com/gag/aNw0DmA)
- - 🚯 [Even the gays are waking up](http://9gag.com/gag/amA5gYX)
- - 🚯 [Construction tips 101](http://9gag.com/gag/axo7onK)<!-- MEMES:END -->
+ - 🚖 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - 🚯 [The weeknd is such a good person](http://9gag.com/gag/a5XRQ5g)
+ - 🚯 [This is the sportsmanship that the world wants!](http://9gag.com/gag/aQE1g8w)<!-- MEMES:END -->
 
 --- 
 
