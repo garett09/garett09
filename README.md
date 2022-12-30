@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - 🚯 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - 🚯 [Give me some of your favourite downvote gifs.](http://9gag.com/gag/aRE0Zj7)<!-- MEMES:END -->
+ - 🚖 [Different style of beep-beeps](http://9gag.com/gag/a6qNX8b)
+ - 🚯 [True](http://9gag.com/gag/amA51KX)
+ - 🚯 [Everyone gets a turn.](http://9gag.com/gag/avQoeQd)<!-- MEMES:END -->
 
 --- 
 
