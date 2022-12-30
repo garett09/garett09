@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 559 answer and hint for Friday, December 30](https://www.pcgamer.com/wordle-559-answer-december-30)
- - [Get £50 off this Samsung WQHD 144Hz curved gaming monitor](https://www.pcgamer.com/get-pound50-off-this-samsung-wqhd-144hz-curved-gaming-monitor)
- - [Here&#39;s a quirky little game with excellent sailing ships to explore and battle in](https://www.pcgamer.com/heres-a-quirky-little-game-with-excellent-sailing-ships-to-explore-and-battle-in)<!-- GAME:END -->
+ - [Call of Duty campaigns are in desperate need of new mechanics that stick](https://www.pcgamer.com/call-of-duty-campaigns-are-in-desperate-need-of-new-mechanics-that-stick)
+ - [Game of the Year 2022: Elden Ring](https://www.pcgamer.com/game-of-the-year-2022-elden-ring)
+ - [Robbing from the rich in Mount &amp; Blade 2: Bannerlord](https://www.pcgamer.com/robbing-from-the-rich-in-mount-and-blade-2-bannerlord)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
