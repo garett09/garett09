@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bahamas&#39; Securities Commission says it is holding FTX assets worth $3.5B on a temporary basis and plans to deliver them to customers and creditors who own them &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p3#a221230p3)
- - [LastPass password vaults crackable for $100, alleges 1Password](https://appleinsider.com/articles/22/12/29/lastpass-password-vaults-crackable-for-100-alleges-1password?utm_medium=rss)
- - [Canada&#39;s competition tribunal approves Rogers&#39; $14.77B bid to acquire Shaw, saying the deal is &quot;not likely to prevent or lessen competition substantially&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p2#a221230p2)<!-- TECH:END -->
+ - [Huawei has exited &quot;crisis mode&quot; following US restrictions and expects ~$91.5B in 2022 revenue, unchanged from 2021, due to growing telco infrastructure sales &lpar;Dan Strumpf/Wall Street Journal&rpar;](http://www.techmeme.com/221230/p4#a221230p4)
+ - [15 Movies We Can’t Wait to See in 2023](https://www.wired.com/story/most-anticipated-movies-2023/)
+ - [The Magic of mRNA Will Push Medical Advances for Everyone](https://www.wired.com/story/medicine-mrna-health-science/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
