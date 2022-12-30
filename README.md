@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn hopes to retain workers by offering cash bonuses](https://appleinsider.com/articles/22/12/28/foxconn-hopes-to-retain-workers-by-offering-cash-bonuses?utm_medium=rss)
- - [Apple looks to Luxshare for iPhone 15 Pro Max assembly](https://appleinsider.com/articles/22/12/28/apple-looks-to-luxshare-for-iphone-15-pro-max-assembly?utm_medium=rss)
- - [House of Representatives bans staff use of &#39;high risk&#39; TikTok](https://appleinsider.com/articles/22/12/28/house-of-representatives-bans-staff-use-of-high-risk-tiktok?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Mac mini with 16GB RAM, 512GB SSD is back in stock for $999](https://appleinsider.com/articles/22/12/30/apples-mac-mini-with-16gb-ram-512gb-ssd-is-back-in-stock-for-999?utm_medium=rss)
+ - [Google Voice Can Now Flag Suspected Spam Calls     - CNET](https://www.cnet.com/tech/services-and-software/google-voice-can-now-flag-suspected-spam-calls/#ftag=CAD590a51e)
+ - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
