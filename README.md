@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best streaming shows you might have missed in 2022](https://www.androidauthority.com/best-streaming-shows-missed-2022-hidden-gems-3258892/)
- - [New iPads, mostly new Apple TV, and old problems -- October 2022 in review](https://appleinsider.com/articles/22/12/30/new-ipads-mostly-new-apple-tv-and-old-problems----october-2022-in-review?utm_medium=rss)
- - [It&#39;s Time for iPhone Owners to Say Goodby to the Dark Sky Weather App     - CNET](https://www.cnet.com/tech/services-and-software/its-time-for-iphone-owners-to-say-goodby-to-the-dark-sky-weather-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto has built a toy financial system and had a toy financial crisis; in order to work in the long run it has to prove its real usefulness outside of finance &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221230/p9#a221230p9)
+ - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)
+ - [Here are the best streaming shows you might have missed in 2022](https://www.androidauthority.com/best-streaming-shows-missed-2022-hidden-gems-3258892/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
