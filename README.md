@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto has built a toy financial system and had a toy financial crisis; in order to work in the long run it has to prove its real usefulness outside of finance &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221230/p9#a221230p9)
- - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)
- - [Here are the best streaming shows you might have missed in 2022](https://www.androidauthority.com/best-streaming-shows-missed-2022-hidden-gems-3258892/)<!-- TECH:END -->
+ - [2022 Was a Ridiculously Good Year for TV. These Are the Best Shows     - CNET](https://www.cnet.com/culture/entertainment/2022-was-a-ridiculously-good-year-for-tv-these-are-the-best-shows/#ftag=CAD590a51e)
+ - [Taylor Swift Just Had Her Most Epically Creative Year Yet     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-just-had-her-most-epically-creative-year-yet/#ftag=CAD590a51e)
+ - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
