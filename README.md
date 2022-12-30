@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
- - 🚯 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)
- - 🚯 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)<!-- MEMES:END -->
+ - 🚖 [Yep.](http://9gag.com/gag/a8q5An6)
+ - 🚯 [Meirl](http://9gag.com/gag/awZo3gr)
+ - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)<!-- MEMES:END -->
 
 --- 
 
