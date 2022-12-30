@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deer seen walking around on its bones](http://9gag.com/gag/aMEY4yR)
- - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)
- - 🚯 [I mean what else is there to do?](http://9gag.com/gag/adP5Oyj)<!-- MEMES:END -->
+ - 🚖 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
+ - 🚯 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - 🚯 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
 
 --- 
 
