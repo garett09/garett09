@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
- - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - 🚯 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)<!-- MEMES:END -->
+ - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
+ - 🚯 [It do be like that even after 30 years](http://9gag.com/gag/avQoWwW)
+ - 🚯 [Even the gays are waking up](http://9gag.com/gag/amA5gYX)<!-- MEMES:END -->
 
 --- 
 
