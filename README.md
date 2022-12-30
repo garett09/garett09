@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Different style of beep-beeps](http://9gag.com/gag/a6qNX8b)
- - 🚯 [True](http://9gag.com/gag/amA51KX)
- - 🚯 [Everyone gets a turn.](http://9gag.com/gag/avQoeQd)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
+ - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
+ - 🚯 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
 
 --- 
 
