@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep.](http://9gag.com/gag/a8q5An6)
- - 🚯 [Wanting sharia law while fleeing from sharia law](http://9gag.com/gag/aYV7O7q)
- - 🚯 [Just one more thing...... &lpar;a joke for the boomers&rpar;](http://9gag.com/gag/aEqgVX9)<!-- MEMES:END -->
+ - 🚖 [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
+ - 🚯 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)
+ - 🚯 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)<!-- MEMES:END -->
 
 --- 
 
