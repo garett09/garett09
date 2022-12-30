@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep.](http://9gag.com/gag/a8q5An6)
- - 🚯 [Meirl](http://9gag.com/gag/awZo3gr)
- - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)<!-- MEMES:END -->
+ - 🚖 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
+ - 🚯 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - 🚯 [Give me some of your favourite downvote gifs.](http://9gag.com/gag/aRE0Zj7)<!-- MEMES:END -->
 
 --- 
 
