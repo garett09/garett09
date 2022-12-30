@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google changes its appeals process for accounts flagged as containing CSAM; the content deemed exploitative will still be removed from Google and reported &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/221230/p11#a221230p11)
  - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)
- - [Source: FTX founder Sam Bankman-Fried is likely to plead not guilty to eight counts of fraud at a hearing next week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221230/p10#a221230p10)
- - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Sam Bankman-Fried will likely plead not guilty to fraud and other charges at a January 3 hearing; SBF returns to Twitter to deny he moved Alameda funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221230/p10#a221230p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
