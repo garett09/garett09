@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei has exited &quot;crisis mode&quot; following US restrictions and expects ~$91.5B in 2022 revenue, unchanged from 2021, due to growing telco infrastructure sales &lpar;Dan Strumpf/Wall Street Journal&rpar;](http://www.techmeme.com/221230/p4#a221230p4)
- - [15 Movies We Can’t Wait to See in 2023](https://www.wired.com/story/most-anticipated-movies-2023/)
- - [The Magic of mRNA Will Push Medical Advances for Everyone](https://www.wired.com/story/medicine-mrna-health-science/)<!-- TECH:END -->
+ - [The top wearables we hope to see in 2023](https://www.androidauthority.com/top-wearables-we-hope-to-see-2023-3248828/)
+ - [The Password Isn’t Dead Yet. You Need a Hardware Key](https://www.wired.com/story/hardware-security-key-passwords-passkeys/)
+ - [How to Live on the Precipice of Tomorrow](https://www.wired.com/story/history-predictions-change-precipice-future/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
