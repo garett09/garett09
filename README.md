@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best cooking apps for iOS in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
- - [Questions Swirl About Potential Twitter Hack Affecting 400M Accounts     - CNET](https://www.cnet.com/news/social-media/questions-swirl-about-potential-twitter-hack-affecting-400-million-accounts/#ftag=CAD590a51e)
- - [An obituary for Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple plans to kill the iOS app on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)<!-- TECH:END -->
+ - [Sources: the FBI is investigating the leak of ~100K API keys linked to users of crypto trading service 3Commas, as a victims group claims to have lost over $20M &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221229/p25#a221229p25)
+ - [Sources detail Elon Musk&#39;s Twitter cost-cutting measures, including closing a data center, reducing training for new staff, and canceling janitorial services &lpar;New York Times&rpar;](http://www.techmeme.com/221229/p24#a221229p24)
+ - [WhatsApp Communities: Everything you need to know](https://www.androidauthority.com/whatsapp-communities-explained-3261009/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
