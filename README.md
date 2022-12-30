@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top wearables we hope to see in 2023](https://www.androidauthority.com/top-wearables-we-hope-to-see-2023-3248828/)
- - [The Password Isn’t Dead Yet. You Need a Hardware Key](https://www.wired.com/story/hardware-security-key-passwords-passkeys/)
- - [How to Live on the Precipice of Tomorrow](https://www.wired.com/story/history-predictions-change-precipice-future/)<!-- TECH:END -->
+ - [5 things we want to see from Google in 2023](https://www.androidauthority.com/google-2023-3255381/)
+ - [The 10 Best and Cruelest Games of 2022](https://www.wired.com/story/best-video-games-2022/)
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
