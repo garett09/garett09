@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week on Xbox: Great Xbox Moments From 2022](https://news.xbox.com/en-us/2022/12/30/this-week-on-xbox-great-xbox-moments-from-2022/)
  - [PC Gamer Hardware Awards: The best gaming keyboards of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2022)
- - [Video Game Gear: 10 Things We Got In 2022 That We Now Can&#39;t Live Without](https://kotaku.com/best-game-hardware-keyboard-controller-steam-deck-ipad-1849936086)
- - [In White Noise, Noah Baumbach takes Netflix’s money and runs](https://www.polygon.com/reviews/23522513/white-noise-review-netflix)<!-- GAME:END -->
+ - [Video Game Gear: 10 Things We Got In 2022 That We Now Can&#39;t Live Without](https://kotaku.com/best-game-hardware-keyboard-controller-steam-deck-ipad-1849936086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
