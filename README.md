@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [:DD](http://9gag.com/gag/a9qRy8K)
- - 🚯 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
- - 🚯 [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)<!-- MEMES:END -->
+ - 🚖 [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)
+ - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
+ - 🚯 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)<!-- MEMES:END -->
 
 --- 
 
