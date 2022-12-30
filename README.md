@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otterbox Terrus Apple Watch Band review: Casual and reliable](https://appleinsider.com/articles/22/12/30/otterbox-terrus-apple-watch-band-review-casual-and-reliable?utm_medium=rss)
- - [iPad Pro now has excellent options for professional video editors](https://appleinsider.com/articles/22/12/30/ipad-pro-now-has-excellent-options-for-professional-video-editors?utm_medium=rss)
- - [Daily Deals Dec. 30: 23% off eufy Home Security Camera System, Samsung Galaxy Watch 4 $199 &amp; more](https://appleinsider.com/articles/22/12/30/daily-deals-dec-30-23-off-eufy-home-security-camera-system-samsung-galaxy-watch-4-199-more?utm_medium=rss)<!-- TECH:END -->
+ - [Foxconn hopes to retain workers by offering cash bonuses](https://appleinsider.com/articles/22/12/28/foxconn-hopes-to-retain-workers-by-offering-cash-bonuses?utm_medium=rss)
+ - [Apple looks to Luxshare for iPhone 15 Pro Max assembly](https://appleinsider.com/articles/22/12/28/apple-looks-to-luxshare-for-iphone-15-pro-max-assembly?utm_medium=rss)
+ - [House of Representatives bans staff use of &#39;high risk&#39; TikTok](https://appleinsider.com/articles/22/12/28/house-of-representatives-bans-staff-use-of-high-risk-tiktok?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
