@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a game changer](http://9gag.com/gag/a9qRE9D)
- - 🚯 [It do be like that even after 30 years](http://9gag.com/gag/avQoWwW)
- - 🚯 [Even the gays are waking up](http://9gag.com/gag/amA5gYX)<!-- MEMES:END -->
+ - 🚖 [It do be like that even after 30 years](http://9gag.com/gag/avQoWwW)
+ - 🚯 [Pay me to show me pee pee](http://9gag.com/gag/aeQ51DB)
+ - 🚯 [This is the sportsmanship that the world wants!](http://9gag.com/gag/aQE1g8w)<!-- MEMES:END -->
 
 --- 
 
