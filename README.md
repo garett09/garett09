@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - 🚯 [The cliff](http://9gag.com/gag/ap95gn9)
- - 🚯 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)<!-- MEMES:END -->
+ - 🚖 [Meirl](http://9gag.com/gag/awZo3gr)
+ - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
+ - 🚯 [Yep.](http://9gag.com/gag/a8q5An6)<!-- MEMES:END -->
 
 --- 
 
