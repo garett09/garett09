@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meirl](http://9gag.com/gag/awZo3gr)
- - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
- - 🚯 [Yep.](http://9gag.com/gag/a8q5An6)<!-- MEMES:END -->
+ - 🚖 [Deer seen walking around on its bones](http://9gag.com/gag/aMEY4yR)
+ - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)
+ - 🚯 [I mean what else is there to do?](http://9gag.com/gag/adP5Oyj)<!-- MEMES:END -->
 
 --- 
 
