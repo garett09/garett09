@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A little kitty trick](http://9gag.com/gag/aNw09OK)
- - 🚯 [How you see yourself vs how you really look](http://9gag.com/gag/aOx0ZB2)
- - 🚯 [Most impressive video for a long time for me. Bakhmut. Today. Price of Victory. I hope I will never forget the heroes and what they&#39;ve been through for me. Thanks each and every of you for your tax money, kind words and showing russian bots their place.](http://9gag.com/gag/aA0gK9p)<!-- MEMES:END -->
+ - 🚖 [Dumb ass.](http://9gag.com/gag/a4oRnzA)
+ - 🚯 [Cooonfusian of da highest orda](http://9gag.com/gag/a9qR55m)
+ - 🚯 [How to read news 101](http://9gag.com/gag/ap956nE)<!-- MEMES:END -->
 
 --- 
 
