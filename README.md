@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Genshin Impact, Final Fantasy 14’s demands are a breeze](https://www.polygon.com/23530862/final-fantasy-14-online-gameplay-length-genshin-impact-how-long)
- - [I just found out what Wi-Fi means and it&#39;s sending me](https://www.pcgamer.com/i-just-found-out-what-wi-fi-means-and-its-sending-me)
- - [I thought Elden Ring was going to be hot garbage, then it took over my life](https://www.pcgamer.com/i-thought-elden-ring-was-going-to-be-hot-garbage-then-it-took-over-my-life)<!-- GAME:END -->
+ - [Watching AI evolve this year has been a rollercoaster](https://www.pcgamer.com/watching-ai-evolve-this-year-has-been-a-rollercoaster)
+ - [Kenneth Shepard&#39;s Top Five Games Of 2022](https://kotaku.com/best-games-2022-pokemon-legends-arceus-overwatch-ofk-1849935691)
+ - [The biggest gaming controversies of 2022](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
