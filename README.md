@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku&#39;s Top 10 Games Of 2022](https://kotaku.com/goty-best-games-2022-elden-ring-god-war-ragnarok-marvel-1849934499)
- - [17 Fantastic Games That Went Under The Radar In 2022](https://kotaku.com/2022-goty-underrated-hidden-gems-best-games-1849936105)
- - [Watching AI evolve this year has been a rollercoaster](https://www.pcgamer.com/watching-ai-evolve-this-year-has-been-a-rollercoaster)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming keyboards of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2022)
+ - [Video Game Gear: 10 Things We Got In 2022 That We Now Can&#39;t Live Without](https://kotaku.com/best-game-hardware-keyboard-controller-steam-deck-ipad-1849936086)
+ - [In White Noise, Noah Baumbach takes Netflix’s money and runs](https://www.polygon.com/reviews/23522513/white-noise-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
