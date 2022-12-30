@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2022 was a warning shot for the big-budget games industry](https://www.pcgamer.com/2022-was-a-warning-shot-for-the-big-budget-games-industry)
  - [Call of Duty campaigns are in desperate need of new mechanics that stick](https://www.pcgamer.com/call-of-duty-campaigns-are-in-desperate-need-of-new-mechanics-that-stick)
- - [Game of the Year 2022: Elden Ring](https://www.pcgamer.com/game-of-the-year-2022-elden-ring)
- - [Robbing from the rich in Mount &amp; Blade 2: Bannerlord](https://www.pcgamer.com/robbing-from-the-rich-in-mount-and-blade-2-bannerlord)<!-- GAME:END -->
+ - [Game of the Year 2022: Elden Ring](https://www.pcgamer.com/game-of-the-year-2022-elden-ring)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
