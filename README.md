@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy who identifies as rich](http://9gag.com/gag/adP5Bjj)
- - 🚯 [McDonalds](http://9gag.com/gag/aqegRNP)
- - 🚯 [This is the sportsmanship that the world wants!](http://9gag.com/gag/aQE1g8w)<!-- MEMES:END -->
+ - 🚖 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - 🚯 [Poor Kid](http://9gag.com/gag/aGEgZG6)
+ - 🚯 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)<!-- MEMES:END -->
 
 --- 
 
