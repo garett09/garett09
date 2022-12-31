@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously I hate these fkn things](http://9gag.com/gag/a6qN5QL)
- - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)
- - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)<!-- MEMES:END -->
+ - 🚖 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
+ - 🚯 [Great idea !](http://9gag.com/gag/aqeg87Z)
+ - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)<!-- MEMES:END -->
 
 --- 
 
