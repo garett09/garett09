@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: founder Richard Liu berated JD.com executives for poor performance and remains the undisputed decision maker despite having quit many frontline roles &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/221231/p1#a221231p1)
  - [Barbara Walters, Trailblazing TV Journalist, Dies at 93     - CNET](https://www.cnet.com/culture/entertainment/barbara-walters-trailblazing-tv-journalist-dies-at-93/#ftag=CAD590a51e)
- - [A look at the disastrous 2022 for NFT-based games, after interest from EA, Ubisoft, Zynga, Niantic, and others, as the community grew more niche and scam-filled &lpar;Ryan Broderick/Polygon&rpar;](http://www.techmeme.com/221230/p14#a221230p14)
- - [FTX says it would seek the return of its digital assets held by the Bahamas, claiming the value was ~$296M when transferred on November 12 and is now ~$167M &lpar;Nathan Crooks/The Block&rpar;](http://www.techmeme.com/221230/p13#a221230p13)<!-- TECH:END -->
+ - [A look at the disastrous 2022 for NFT-based games, after interest from EA, Ubisoft, Zynga, Niantic, and others, as the community grew more niche and scam-filled &lpar;Ryan Broderick/Polygon&rpar;](http://www.techmeme.com/221230/p14#a221230p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
