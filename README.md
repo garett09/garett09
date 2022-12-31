@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update Android Right Now to Fix a Scary Remote-Execution Flaw](https://www.wired.com/story/android-ios-16-windows-10-critical-update-december-2022/)
- - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
- - [Road Robots Are Coming to the Rescue](https://www.wired.com/story/robots-infrastructure-transport/)<!-- TECH:END -->
+ - [reWASD is the best controller software you’re not using](https://www.androidauthority.com/rewasd-3248563/)
+ - [Alaska’s Arctic Waterways Are Turning a Foreboding Orange](https://www.wired.com/story/alaskas-arctic-waterways-are-turning-a-foreboding-orange/)
+ - [What is 5G? The Complete Guide to When, Why, and How](https://www.wired.com/story/wired-guide-5g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
