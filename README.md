@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 560 answer and hint for Saturday, December 31](https://www.pcgamer.com/wordle-560-answer-december-31)
  - [How do the Home Alone videogames hold up?](https://www.pcgamer.com/saturday-crapshoot-home-alone)
- - [Why&#39;d nobody tell me about the heavy metal turtle racing scene in this JRPG?](https://www.pcgamer.com/whyd-nobody-tell-me-about-the-heavy-metal-turtle-racing-scene-in-this-jrpg)
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/30/23528136/new-movies-watch-white-noise-netflix-black-phone-prime)<!-- GAME:END -->
+ - [Why&#39;d nobody tell me about the heavy metal turtle racing scene in this JRPG?](https://www.pcgamer.com/whyd-nobody-tell-me-about-the-heavy-metal-turtle-racing-scene-in-this-jrpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
