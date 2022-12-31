@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)
- - 🚯 [Yep.](http://9gag.com/gag/a8q5An6)
- - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
+ - 🚖 [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
+ - 🚯 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)
+ - 🚯 [Dumb ass.](http://9gag.com/gag/a4oRnzA)<!-- MEMES:END -->
 
 --- 
 
