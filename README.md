@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta buys Netherlands-based Luxexcel, which uses 3D printing to make prescription lenses for smart glasses; Meta reportedly worked with Luxexcel on Project Aria &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221231/p7#a221231p7)
- - [Upgrading your iPad just for external display support isn&#39;t for everybody](https://appleinsider.com/articles/22/12/31/upgrading-your-ipad-just-for-external-display-support-isnt-for-everybody?utm_medium=rss)
- - [You Guide to Counting Calories the Right Way     - CNET](https://www.cnet.com/health/nutrition/your-guide-to-counting-calories-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pohl Schmitt Weight Scale review: A cheap way to achieve your New Year&#39;s resolution](https://appleinsider.com/articles/22/12/31/pohl-schmitt-weight-scale-review-a-cheap-way-to-achieve-your-new-years-resolution?utm_medium=rss)
+ - [A look at 2022&#39;s worst breaches, leaks, ransomware attacks, state-sponsored hacking campaigns, and digital takeovers, including at least two Twilio breaches &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/221231/p8#a221231p8)
+ - [Meta acquires Netherlands-based Luxexcel, which 3D prints prescription lenses for smart glasses; Meta and Luxexcel reportedly worked together on Project Aria &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221231/p7#a221231p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
