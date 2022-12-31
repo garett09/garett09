@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone gets a turn.](http://9gag.com/gag/avQoeQd)
- - 🚯 [Big TIDDIES equal big tips?](http://9gag.com/gag/aPgRPXV)
- - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)<!-- MEMES:END -->
+ - 🚖 [Well, can you?](http://9gag.com/gag/a6qN5mN)
+ - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
+ - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
 
 --- 
 
