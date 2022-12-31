@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meirl](http://9gag.com/gag/awZo3gr)
+ - 🚖 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)
  - 🚯 [Yep.](http://9gag.com/gag/a8q5An6)
- - 🚯 [Great idea !](http://9gag.com/gag/aqeg87Z)<!-- MEMES:END -->
+ - 🚯 [When you think Netflix already hit rock bottom and then...](http://9gag.com/gag/aeQ5ZPW)<!-- MEMES:END -->
 
 --- 
 
