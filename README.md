@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great idea !](http://9gag.com/gag/aqeg87Z)
- - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
- - 🚯 [Jennifer didn\u2019t took that well](http://9gag.com/gag/aoK5xmn)<!-- MEMES:END -->
+ - 🚖 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)
+ - 🚯 [Don&#39;t miss out on the real ones.](http://9gag.com/gag/aGEgAqG)
+ - 🚯 [Pray for my homeboy](http://9gag.com/gag/aVb02zn)<!-- MEMES:END -->
 
 --- 
 
