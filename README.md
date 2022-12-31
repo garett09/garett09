@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meirl](http://9gag.com/gag/awZo3gr)
+ - 🚖 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)
  - 🚯 [:DD](http://9gag.com/gag/a9qRy8K)
- - 🚯 [Dumb ass.](http://9gag.com/gag/a4oRnzA)<!-- MEMES:END -->
+ - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)<!-- MEMES:END -->
 
 --- 
 
