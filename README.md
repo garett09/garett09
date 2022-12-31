@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy&#39;s parliament approves a 26% tax on gains of &amp;euro;2,000+ from crypto trading per tax period and offers incentives for declaring crypto profits for tax purposes &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/221230/p12#a221230p12)
- - [&#39;Avatar: The Way of Water&#39; Ending Explained and Other Lingering Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-and-other-lingering-questions/#ftag=CAD590a51e)
- - [Does &#39;Avatar: The Way of Water&#39; Have a Post-Credits Scene?     - CNET](https://www.cnet.com/culture/entertainment/does-avatar-the-way-of-water-have-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the disastrous 2022 for NFT-based games, after interest from EA, Ubisoft, Zynga, Niantic, and others, as the community grew more niche and scam-filled &lpar;Ryan Broderick/Polygon&rpar;](http://www.techmeme.com/221230/p14#a221230p14)
+ - [FTX says it would seek the return of its digital assets held by the Bahamas, claiming the value was ~$296M when transferred on November 12 and is now ~$167M &lpar;Nathan Crooks/The Block&rpar;](http://www.techmeme.com/221230/p13#a221230p13)
+ - [Improve Your Target Shopping Experience With These 4 Simple Tips     - CNET](https://www.cnet.com/deals/improve-your-target-shopping-experience-with-these-4-simple-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
