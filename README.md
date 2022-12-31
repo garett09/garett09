@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You get two guesses as to what puzzle game Sushi for Robots is about](https://www.pcgamer.com/you-get-two-guesses-as-to-what-puzzle-game-sushi-for-robots-is-about)
- - [This Week on Xbox: Great Xbox Moments From 2022](https://news.xbox.com/en-us/2022/12/30/this-week-on-xbox-great-xbox-moments-from-2022/)
- - [PC Gamer Hardware Awards: The best gaming keyboards of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2022)<!-- GAME:END -->
+ - [Why&#39;d nobody tell me about the heavy metal turtle racing scene in this JRPG?](https://www.pcgamer.com/whyd-nobody-tell-me-about-the-heavy-metal-turtle-racing-scene-in-this-jrpg)
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/30/23528136/new-movies-watch-white-noise-netflix-black-phone-prime)
+ - [You get two guesses as to what puzzle game Sushi for Robots is about](https://www.pcgamer.com/you-get-two-guesses-as-to-what-puzzle-game-sushi-for-robots-is-about)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
