@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked screener copies of big movies tend to surface at year&#39;s end, but didn&#39;t in 2022, probably due to more security, streaming, and shorter release windows &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/221231/p9#a221231p9)
- - [Pohl Schmitt Weight Scale review: A cheap way to achieve your New Year&#39;s resolution](https://appleinsider.com/articles/22/12/31/pohl-schmitt-weight-scale-review-a-cheap-way-to-achieve-your-new-years-resolution?utm_medium=rss)
- - [A look at 2022&#39;s worst breaches, leaks, ransomware attacks, state-sponsored hacking campaigns, and digital takeovers, including at least two Twilio breaches &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/221231/p8#a221231p8)<!-- TECH:END -->
+ - [Happy New Year from AppleInsider](https://appleinsider.com/articles/22/12/31/happy-new-year-from-appleinsider?utm_medium=rss)
+ - [Maybe Don&#39;t Use TikTok for Financial Advice     - CNET](https://www.cnet.com/personal-finance/maybe-dont-use-tiktok-for-financial-advice/#ftag=CAD590a51e)
+ - [Leaked screener copies of big movies tend to surface at year&#39;s end, but didn&#39;t in 2022, probably due to more security, streaming, and shorter release windows &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/221231/p9#a221231p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
