@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumb ass.](http://9gag.com/gag/a4oRnzA)
- - 🚯 [Cooonfusian of da highest orda](http://9gag.com/gag/a9qR55m)
- - 🚯 [How to read news 101](http://9gag.com/gag/ap956nE)<!-- MEMES:END -->
+ - 🚖 [Yep.](http://9gag.com/gag/a8q5An6)
+ - 🚯 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)
+ - 🚯 [Great idea !](http://9gag.com/gag/aqeg87Z)<!-- MEMES:END -->
 
 --- 
 
