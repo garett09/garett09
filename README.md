@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2022 saw launcher bloat turn from a minor annoyance into a genuine problem](https://www.pcgamer.com/2022-saw-launcher-bloat-turn-from-a-minor-annoyance-into-a-genuine-problem)
  - [Today&#39;s Wordle 560 answer and hint for Saturday, December 31](https://www.pcgamer.com/wordle-560-answer-december-31)
- - [How do the Home Alone videogames hold up?](https://www.pcgamer.com/saturday-crapshoot-home-alone)
- - [Why&#39;d nobody tell me about the heavy metal turtle racing scene in this JRPG?](https://www.pcgamer.com/whyd-nobody-tell-me-about-the-heavy-metal-turtle-racing-scene-in-this-jrpg)<!-- GAME:END -->
+ - [How do the Home Alone videogames hold up?](https://www.pcgamer.com/saturday-crapshoot-home-alone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
