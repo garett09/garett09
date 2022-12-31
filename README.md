@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The year in NFT buffoonery: Rug pulls, hacks, and poor choices](https://www.pcgamer.com/the-year-in-nft-buffoonery-rug-pulls-hacks-and-poor-choices)
- - [Elden Ring&#39;s environment is still my gaming highlight of 2022](https://www.pcgamer.com/elden-rings-environment-is-still-my-gaming-highlight-of-2022)
- - [TV showrunners and game developers have become allies at long last](https://www.pcgamer.com/tv-showrunners-and-game-developers-have-become-allies-at-long-last)<!-- GAME:END -->
+ - [After a terrible 2021 for hardware, was 2022 really any better?](https://www.pcgamer.com/was-2022-really-any-better-for-pc-gaming)
+ - [Taking the Steam Deck to a bar was a mixed experience](https://www.pcgamer.com/steam-deck-in-a-bar)
+ - [How to watch the New Year’s Eve 2022 ball drop and every weird special](https://www.polygon.com/23531043/new-years-eve-2022-watch-ball-drop-live-tv-specials-concerts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
