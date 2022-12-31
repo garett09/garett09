@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
+ - 🚖 [For girls in their 20s .](http://9gag.com/gag/adP5QND)
  - 🚯 [Great idea !](http://9gag.com/gag/aqeg87Z)
- - 🚯 [Meirl](http://9gag.com/gag/awZo3gr)<!-- MEMES:END -->
+ - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)<!-- MEMES:END -->
 
 --- 
 
