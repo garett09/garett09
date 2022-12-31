@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New roguelite nails the desperation and permadeath of Roman Gladiator battles](https://www.polygon.com/23531444/gladiator-video-game-we-who-are-about-die-pc-steam)
- - [After a terrible 2021 for hardware, was 2022 really any better?](https://www.pcgamer.com/was-2022-really-any-better-for-pc-gaming)
- - [Taking the Steam Deck to a bar was a mixed experience](https://www.pcgamer.com/steam-deck-in-a-bar)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards 2022: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2022-the-winners)
+ - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/23516875/best-new-horror-movies-2022-scariest-how-scary)
+ - [New roguelite nails the desperation and permadeath of Roman Gladiator battles](https://www.polygon.com/23531444/gladiator-video-game-we-who-are-about-die-pc-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
