@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
- - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
- - 🚯 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)<!-- MEMES:END -->
+ - 🚖 [How you see yourself vs how you really look](http://9gag.com/gag/aOx0ZB2)
+ - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)
+ - 🚯 [Big TIDDIES equal big tips?](http://9gag.com/gag/aPgRPXV)<!-- MEMES:END -->
 
 --- 
 
