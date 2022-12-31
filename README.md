@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: founder Richard Liu berated JD.com executives for poor performance and remains the undisputed decision maker despite having quit many frontline roles &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/221231/p1#a221231p1)
- - [Barbara Walters, Trailblazing TV Journalist, Dies at 93     - CNET](https://www.cnet.com/culture/entertainment/barbara-walters-trailblazing-tv-journalist-dies-at-93/#ftag=CAD590a51e)
- - [A look at the disastrous 2022 for NFT-based games, after interest from EA, Ubisoft, Zynga, Niantic, and others, as the community grew more niche and scam-filled &lpar;Ryan Broderick/Polygon&rpar;](http://www.techmeme.com/221230/p14#a221230p14)<!-- TECH:END -->
+ - [Predictions for 2023: competition for Meta&#39;s metaverse, Apple&#39;s AR/VR headset debut, generative AI integration into products, continuing crypto gloom, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221231/p3#a221231p3)
+ - [Meta&#39;s dramatic implosion, Elon Musk&#39;s Twitter train wreck, and Amazon&#39;s labor uprising show that 2022 was not just a disastrous year, but a reckoning for tech &lpar;Brian Merchant/The Atlantic&rpar;](http://www.techmeme.com/221231/p2#a221231p2)
+ - [Sources: founder Richard Liu berated JD.com executives for poor performance and remains the undisputed decision maker despite having quit many frontline roles &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/221231/p1#a221231p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
