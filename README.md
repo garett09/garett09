@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
- - 🚯 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)
+ - 🚖 [Meirl](http://9gag.com/gag/awZo3gr)
+ - 🚯 [:DD](http://9gag.com/gag/a9qRy8K)
  - 🚯 [Dumb ass.](http://9gag.com/gag/a4oRnzA)<!-- MEMES:END -->
 
 --- 
