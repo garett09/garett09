@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is still working on a wrist wearable device, wants to move its hardware manufacturing out of China, but is struggling to find necessary suppliers &lpar;Washington Post&rpar;](http://www.techmeme.com/221231/p5#a221231p5)
- - [5 things we want to see from Samsung in 2023](https://www.androidauthority.com/samsung-2023-3251045/)
- - [How to visit top sights in Singapore using Apple Pay, Apple Wallet, and zero cash](https://appleinsider.com/articles/22/12/31/how-to-visit-top-sights-in-singapore-using-apple-pay-apple-wallet-and-zero-cash?utm_medium=rss)<!-- TECH:END -->
+ - [Report: AMD, Intel, Nvidia, and others are slashing their orders with TSMC, with the contract manufacturer&#39;s Q1 2023 sales projected to decrease by 15% QoQ &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221231/p6#a221231p6)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-465-3260993/)
+ - [7 Daily Habits That&#39;ll Improve Your Mental Health in 2023     - CNET](https://www.cnet.com/health/mental/7-daily-habits-thatll-improve-your-mental-health-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
