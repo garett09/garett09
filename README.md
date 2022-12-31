@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jennifer didn\u2019t took that well](http://9gag.com/gag/aoK5xmn)
- - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
- - 🚯 [Well, can you?](http://9gag.com/gag/a6qN5mN)<!-- MEMES:END -->
+ - 🚖 [When you think Netflix already hit rock bottom and then...](http://9gag.com/gag/aeQ5ZPW)
+ - 🚯 [It\u2019s Whoopin\u2019 Time!](http://9gag.com/gag/ap95bep)
+ - 🚯 [*unzips](http://9gag.com/gag/aMEYvMP)<!-- MEMES:END -->
 
 --- 
 
