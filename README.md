@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cooonfusian of da highest orda](http://9gag.com/gag/a9qR55m)
- - 🚯 [At first you think wow and then you realize that this is a screenshot from the game and you think wow even harder.](http://9gag.com/gag/aA0g4Yd)
- - 🚯 [Working late today honey.](http://9gag.com/gag/aPgR8NR)<!-- MEMES:END -->
+ - 🚖 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)
+ - 🚯 [Yep.](http://9gag.com/gag/a8q5An6)
+ - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
 
 --- 
 
