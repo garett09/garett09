@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep.](http://9gag.com/gag/a8q5An6)
- - 🚯 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)
- - 🚯 [Great idea !](http://9gag.com/gag/aqeg87Z)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
+ - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
+ - 🚯 [Took them 10 business day to jump in the f**king pool](http://9gag.com/gag/aRE044j)<!-- MEMES:END -->
 
 --- 
 
