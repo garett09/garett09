@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, can you?](http://9gag.com/gag/a6qN5mN)
- - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
- - 🚯 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
+ - 🚖 [Seriously I hate these fkn things](http://9gag.com/gag/a6qN5QL)
+ - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)
+ - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)<!-- MEMES:END -->
 
 --- 
 
