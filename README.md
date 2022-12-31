@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter will soon let you swipe between tweets, topics, and trends](https://www.theverge.com/2022/12/30/23532743/twitter-swipe-views-timeline-elon-musk)
- - [Google Settles Washington DC, Indiana Lawsuits Totaling $29.5 Million     - CNET](https://www.cnet.com/news/privacy/google-settles-washington-dc-indiana-lawsuits-totaling-29-5-million/#ftag=CAD590a51e)
- - [Google changes its appeals process for CSAM-flagged accounts; content deemed exploitative will still be removed and reported but users can plead their innocence &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/221230/p11#a221230p11)<!-- TECH:END -->
+ - [Italy&#39;s parliament approves a 26% tax on gains of &amp;euro;2,000+ from crypto trading per tax period and offers incentives for declaring crypto profits for tax purposes &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/221230/p12#a221230p12)
+ - [&#39;Avatar: The Way of Water&#39; Ending Explained and Other Lingering Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-and-other-lingering-questions/#ftag=CAD590a51e)
+ - [Does &#39;Avatar: The Way of Water&#39; Have a Post-Credits Scene?     - CNET](https://www.cnet.com/culture/entertainment/does-avatar-the-way-of-water-have-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
