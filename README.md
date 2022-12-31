@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Factorio has sold 3.5 million copies](https://www.pcgamer.com/factorio-has-sold-35-million-copies)
  - [Cult of the Lamb&#39;s first big update will bring new attacks for every weapon](https://www.pcgamer.com/cult-of-the-lambs-first-big-update-will-bring-new-attacks-for-every-weapon)
- - [The 10 best comic book panels of 2022](https://www.polygon.com/23528498/best-comics-2022-art-panels)
- - [PC Gamer Hardware Awards 2022: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2022-the-winners)<!-- GAME:END -->
+ - [The 10 best comic book panels of 2022](https://www.polygon.com/23528498/best-comics-2022-art-panels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
