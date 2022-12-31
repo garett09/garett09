@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How you see yourself vs how you really look](http://9gag.com/gag/aOx0ZB2)
- - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)
- - 🚯 [Big TIDDIES equal big tips?](http://9gag.com/gag/aPgRPXV)<!-- MEMES:END -->
+ - 🚖 [Deer seen walking around on its bones](http://9gag.com/gag/aMEY4yR)
+ - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
+ - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)<!-- MEMES:END -->
 
 --- 
 
