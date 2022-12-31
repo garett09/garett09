@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2022 saw launcher bloat turn from a minor annoyance into a genuine problem](https://www.pcgamer.com/2022-saw-launcher-bloat-turn-from-a-minor-annoyance-into-a-genuine-problem)
- - [Today&#39;s Wordle 560 answer and hint for Saturday, December 31](https://www.pcgamer.com/wordle-560-answer-december-31)
- - [How do the Home Alone videogames hold up?](https://www.pcgamer.com/saturday-crapshoot-home-alone)<!-- GAME:END -->
+ - [Elden Ring&#39;s environment is still my gaming highlight of 2022](https://www.pcgamer.com/elden-rings-environment-is-still-my-gaming-highlight-of-2022)
+ - [TV showrunners and game developers have become allies at long last](https://www.pcgamer.com/tv-showrunners-and-game-developers-have-become-allies-at-long-last)
+ - [2022 saw launcher bloat turn from a minor annoyance into a genuine problem](https://www.pcgamer.com/2022-saw-launcher-bloat-turn-from-a-minor-annoyance-into-a-genuine-problem)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
