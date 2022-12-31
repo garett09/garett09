@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)
- - 🚯 [Yep.](http://9gag.com/gag/a8q5An6)
- - 🚯 [When you think Netflix already hit rock bottom and then...](http://9gag.com/gag/aeQ5ZPW)<!-- MEMES:END -->
+ - 🚖 [My Babybed, took me 7 months to design and build. Its all made with Joints, no Nails or Screws. In Comments there are some closeups.](http://9gag.com/gag/a9qR2WZ)
+ - 🚯 [No milk](http://9gag.com/gag/armox3p)
+ - 🚯 [Extra steps](http://9gag.com/gag/a6qNBqR)<!-- MEMES:END -->
 
 --- 
 
