@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ernst &amp; Young: US tech IPO deal proceeds plummeted 94%, from $155.8B in 2021 to $8.6B in 2022; FactSet: no tech IPO raised $1B in 2022, compared to 15 in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/221231/p4#a221231p4)
  - [Predictions for 2023: competition for Meta&#39;s metaverse, Apple&#39;s AR/VR headset debut, generative AI integration into products, continuing crypto gloom, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221231/p3#a221231p3)
- - [Meta&#39;s dramatic implosion, Elon Musk&#39;s Twitter train wreck, and Amazon&#39;s labor uprising show that 2022 was not just a disastrous year, but a reckoning for tech &lpar;Brian Merchant/The Atlantic&rpar;](http://www.techmeme.com/221231/p2#a221231p2)
- - [Sources: founder Richard Liu berated JD.com executives for poor performance and remains the undisputed decision maker despite having quit many frontline roles &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/221231/p1#a221231p1)<!-- TECH:END -->
+ - [Meta&#39;s dramatic implosion, Elon Musk&#39;s Twitter train wreck, and Amazon&#39;s labor uprising show that 2022 was not just a disastrous year, but a reckoning for tech &lpar;Brian Merchant/The Atlantic&rpar;](http://www.techmeme.com/221231/p2#a221231p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
