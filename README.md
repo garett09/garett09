@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 10 best comic book panels of 2022](https://www.polygon.com/23528498/best-comics-2022-art-panels)
  - [PC Gamer Hardware Awards 2022: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2022-the-winners)
- - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/23516875/best-new-horror-movies-2022-scariest-how-scary)
- - [New roguelite nails the desperation and permadeath of Roman Gladiator battles](https://www.polygon.com/23531444/gladiator-video-game-we-who-are-about-die-pc-steam)<!-- GAME:END -->
+ - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/23516875/best-new-horror-movies-2022-scariest-how-scary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
