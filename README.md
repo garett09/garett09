@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cult of the Lamb&#39;s first big update will bring new attacks for every weapon](https://www.pcgamer.com/cult-of-the-lambs-first-big-update-will-bring-new-attacks-for-every-weapon)
  - [The 10 best comic book panels of 2022](https://www.polygon.com/23528498/best-comics-2022-art-panels)
- - [PC Gamer Hardware Awards 2022: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2022-the-winners)
- - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/23516875/best-new-horror-movies-2022-scariest-how-scary)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards 2022: The best gear of year](https://www.pcgamer.com/pc-gamer-hardware-awards-2022-the-winners)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
