@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Babybed, took me 7 months to design and build. Its all made with Joints, no Nails or Screws. In Comments there are some closeups.](http://9gag.com/gag/a9qR2WZ)
- - 🚯 [No milk](http://9gag.com/gag/armox3p)
- - 🚯 [Extra steps](http://9gag.com/gag/a6qNBqR)<!-- MEMES:END -->
+ - 🚖 [Great idea !](http://9gag.com/gag/aqeg87Z)
+ - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
+ - 🚯 [Jennifer didn\u2019t took that well](http://9gag.com/gag/aoK5xmn)<!-- MEMES:END -->
 
 --- 
 
