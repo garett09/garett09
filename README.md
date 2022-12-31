@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - 🚯 [Great idea !](http://9gag.com/gag/aqeg87Z)
- - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)<!-- MEMES:END -->
+ - 🚖 [Cooonfusian of da highest orda](http://9gag.com/gag/a9qR55m)
+ - 🚯 [At first you think wow and then you realize that this is a screenshot from the game and you think wow even harder.](http://9gag.com/gag/aA0g4Yd)
+ - 🚯 [Working late today honey.](http://9gag.com/gag/aPgR8NR)<!-- MEMES:END -->
 
 --- 
 
