@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: AMD, Intel, Nvidia, and others are slashing their orders with TSMC, with the contract manufacturer&#39;s Q1 2023 sales projected to decrease by 15% QoQ &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221231/p6#a221231p6)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-465-3260993/)
- - [7 Daily Habits That&#39;ll Improve Your Mental Health in 2023     - CNET](https://www.cnet.com/health/mental/7-daily-habits-thatll-improve-your-mental-health-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta buys Netherlands-based Luxexcel, which uses 3D printing to make prescription lenses for smart glasses; Meta reportedly worked with Luxexcel on Project Aria &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221231/p7#a221231p7)
+ - [Upgrading your iPad just for external display support isn&#39;t for everybody](https://appleinsider.com/articles/22/12/31/upgrading-your-ipad-just-for-external-display-support-isnt-for-everybody?utm_medium=rss)
+ - [You Guide to Counting Calories the Right Way     - CNET](https://www.cnet.com/health/nutrition/your-guide-to-counting-calories-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
