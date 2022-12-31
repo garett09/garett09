@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How do the Home Alone videogames hold up?](https://www.pcgamer.com/saturday-crapshoot-home-alone)
  - [Why&#39;d nobody tell me about the heavy metal turtle racing scene in this JRPG?](https://www.pcgamer.com/whyd-nobody-tell-me-about-the-heavy-metal-turtle-racing-scene-in-this-jrpg)
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/30/23528136/new-movies-watch-white-noise-netflix-black-phone-prime)
- - [You get two guesses as to what puzzle game Sushi for Robots is about](https://www.pcgamer.com/you-get-two-guesses-as-to-what-puzzle-game-sushi-for-robots-is-about)<!-- GAME:END -->
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/30/23528136/new-movies-watch-white-noise-netflix-black-phone-prime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
