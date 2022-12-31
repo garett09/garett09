@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [reWASD is the best controller software you’re not using](https://www.androidauthority.com/rewasd-3248563/)
- - [Alaska’s Arctic Waterways Are Turning a Foreboding Orange](https://www.wired.com/story/alaskas-arctic-waterways-are-turning-a-foreboding-orange/)
- - [What is 5G? The Complete Guide to When, Why, and How](https://www.wired.com/story/wired-guide-5g/)<!-- TECH:END -->
+ - [Stop Using Social Media Apps. The Web Version Is Often Better](https://www.wired.com/story/stop-using-social-media-apps-the-web-version-is-better/)
+ - [The Many Metaphors of Metamorphosis](https://www.wired.com/story/animals-metaphor-politics-change-hope/)
+ - [Save 30% on Eufy&#39;s Smart Scale P2 and Grab One for Just $35 Today     - CNET](https://www.cnet.com/deals/save-30-on-eufys-smart-scale-p2-and-grab-one-for-just-35-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
