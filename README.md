@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deer seen walking around on its bones](http://9gag.com/gag/aMEY4yR)
- - 🚯 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
- - 🚯 [Scarry ass game](http://9gag.com/gag/ajV5gGg)<!-- MEMES:END -->
+ - 🚖 [Everyone gets a turn.](http://9gag.com/gag/avQoeQd)
+ - 🚯 [Big TIDDIES equal big tips?](http://9gag.com/gag/aPgRPXV)
+ - 🚯 [A little kitty trick](http://9gag.com/gag/aNw09OK)<!-- MEMES:END -->
 
 --- 
 
