@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ernst &amp; Young: US tech IPO deal proceeds plummeted 94%, from $155.8B in 2021 to $8.6B in 2022; FactSet: no tech IPO raised $1B in 2022, compared to 15 in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/221231/p4#a221231p4)
- - [Predictions for 2023: competition for Meta&#39;s metaverse, Apple&#39;s AR/VR headset debut, generative AI integration into products, continuing crypto gloom, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221231/p3#a221231p3)
- - [Meta&#39;s dramatic implosion, Elon Musk&#39;s Twitter train wreck, and Amazon&#39;s labor uprising show that 2022 was not just a disastrous year, but a reckoning for tech &lpar;Brian Merchant/The Atlantic&rpar;](http://www.techmeme.com/221231/p2#a221231p2)<!-- TECH:END -->
+ - [Update Android Right Now to Fix a Scary Remote-Execution Flaw](https://www.wired.com/story/android-ios-16-windows-10-critical-update-december-2022/)
+ - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
+ - [Road Robots Are Coming to the Rescue](https://www.wired.com/story/robots-infrastructure-transport/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
