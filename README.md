@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think Netflix already hit rock bottom and then...](http://9gag.com/gag/aeQ5ZPW)
- - 🚯 [It\u2019s Whoopin\u2019 Time!](http://9gag.com/gag/ap95bep)
- - 🚯 [*unzips](http://9gag.com/gag/aMEYvMP)<!-- MEMES:END -->
+ - 🚖 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)
+ - 🚯 [One last time for 2022](http://9gag.com/gag/aA0g2Mg)
+ - 🚯 [Happy new year, fellow degenerates](http://9gag.com/gag/aDYgVpN)<!-- MEMES:END -->
 
 --- 
 
