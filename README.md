@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop Using Social Media Apps. The Web Version Is Often Better](https://www.wired.com/story/stop-using-social-media-apps-the-web-version-is-better/)
- - [The Many Metaphors of Metamorphosis](https://www.wired.com/story/animals-metaphor-politics-change-hope/)
- - [Save 30% on Eufy&#39;s Smart Scale P2 and Grab One for Just $35 Today     - CNET](https://www.cnet.com/deals/save-30-on-eufys-smart-scale-p2-and-grab-one-for-just-35-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta is still working on a wrist wearable device, wants to move its hardware manufacturing out of China, but is struggling to find necessary suppliers &lpar;Washington Post&rpar;](http://www.techmeme.com/221231/p5#a221231p5)
+ - [5 things we want to see from Samsung in 2023](https://www.androidauthority.com/samsung-2023-3251045/)
+ - [How to visit top sights in Singapore using Apple Pay, Apple Wallet, and zero cash](https://appleinsider.com/articles/22/12/31/how-to-visit-top-sights-in-singapore-using-apple-pay-apple-wallet-and-zero-cash?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
