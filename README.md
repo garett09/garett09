@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slow and careful...](http://9gag.com/gag/ajV5R60)
- - 🚯 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - 🚯 [First time in my life celebrating new year alone, my father passed away at august, and i left home and live alone because i&#39;m not comfortable to live with my step mom and her family, but at least i have good beer and good beef, happy new year guys!](http://9gag.com/gag/adP5oOQ)<!-- MEMES:END -->
+ - 🚖 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
+ - 🚯 [First time in my life celebrating new year alone, my father passed away at august, and i left home and live alone because i&#39;m not comfortable to live with my step mom and her family, but at least i have good beer and good beef, happy new year guys!](http://9gag.com/gag/adP5oOQ)
+ - 🚯 [Slow and careful...](http://9gag.com/gag/ajV5R60)<!-- MEMES:END -->
 
 --- 
 
