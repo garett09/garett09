@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The running man](http://9gag.com/gag/aPgRQYG)
- - 🚯 [2022 is over, here is a charisma buff to help you in 2023!](http://9gag.com/gag/aGEg2P5)
- - 🚯 [NATO Secretary General Jens Stoltenberg eloquently explains why supporting Ukraine is unquestionably necessary](http://9gag.com/gag/aNw04qb)<!-- MEMES:END -->
+ - 🚖 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
+ - 🚯 [This didn&#39;t age well](http://9gag.com/gag/anz5xQL)
+ - 🚯 [Did someone just order some freedom?](http://9gag.com/gag/aA0gX8Z)<!-- MEMES:END -->
 
 --- 
 
