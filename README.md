@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
- - 🚯 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
- - 🚯 [When you think Netflix already hit rock bottom and then...](http://9gag.com/gag/aeQ5ZPW)<!-- MEMES:END -->
+ - 🚖 [Sportsmanship at its finest](http://9gag.com/gag/aMEYOG1)
+ - 🚯 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
+ - 🚯 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)<!-- MEMES:END -->
 
 --- 
 
