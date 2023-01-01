@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)
  - [Hats off to the brands that actually listened in 2022](https://www.androidauthority.com/hat-tip-brand-feedback-2022-3258899/)
- - [&#39;Star Wars: The Bad Batch&#39; Season 2 Release Schedule: When Will Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-release-schedule-when-will-episode-1-hit-disney-plus/#ftag=CAD590a51e)
- - [Brydge ProDock review: A vertical Thunderbolt 4 docking station for modern Macs](https://appleinsider.com/articles/23/01/01/brydge-prodock-review-a-vertical-thunderbolt-4-docking-station-for-modern-macs?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Star Wars: The Bad Batch&#39; Season 2 Release Schedule: When Will Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-release-schedule-when-will-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
