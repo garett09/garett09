@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hats off to the brands that actually listened in 2022](https://www.androidauthority.com/hat-tip-brand-feedback-2022-3258899/)
  - [Brydge ProDock review: A vertical Thunderbolt 4 docking station for modern Macs](https://appleinsider.com/articles/23/01/01/brydge-prodock-review-a-vertical-thunderbolt-4-docking-station-for-modern-macs?utm_medium=rss)
- - [As an adult with ADHD, Bluetooth trackers are a massive game-changer for me](https://www.androidauthority.com/tile-bluetooth-trackers-adhd-3255402/)
- - [Hands-on with Pixel 7 Pro&#39;s Real Tone, which claims to render skin tones more accurately in photos, compared with the Galaxy S22 Ultra and iPhone 14 Pro Max &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/230101/p7#a230101p7)<!-- TECH:END -->
+ - [As an adult with ADHD, Bluetooth trackers are a massive game-changer for me](https://www.androidauthority.com/tile-bluetooth-trackers-adhd-3255402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
