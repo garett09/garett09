@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jennifer didn\u2019t took that well](http://9gag.com/gag/aoK5xmn)
- - 🚯 [Overly aggressive driving](http://9gag.com/gag/a6qNGwb)
- - 🚯 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)<!-- MEMES:END -->
+ - 🚖 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
+ - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
+ - 🚯 [Overly aggressive driving](http://9gag.com/gag/a6qNGwb)<!-- MEMES:END -->
 
 --- 
 
