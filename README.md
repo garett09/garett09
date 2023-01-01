@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, can you?](http://9gag.com/gag/a6qN5mN)
- - 🚯 [Facts](http://9gag.com/gag/a4oRw3Z)
- - 🚯 [Now it will be easier to find the main characters](http://9gag.com/gag/az214qz)<!-- MEMES:END -->
+ - 🚖 [Welp](http://9gag.com/gag/aVb0L3y)
+ - 🚯 [Did you see this popcorn the speed , the finest, someone that is sharing the butter not just putting few drops on the top of the popcorns . Amazing](http://9gag.com/gag/ajV5WMq)
+ - 🚯 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)<!-- MEMES:END -->
 
 --- 
 
