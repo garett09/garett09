@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
- - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
- - 🚯 [Overly aggressive driving](http://9gag.com/gag/a6qNGwb)<!-- MEMES:END -->
+ - 🚖 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
+ - 🚯 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
+ - 🚯 [When you think Netflix already hit rock bottom and then...](http://9gag.com/gag/aeQ5ZPW)<!-- MEMES:END -->
 
 --- 
 
