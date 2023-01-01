@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grubhub was ordered to pay $3.5M to settle a lawsuit filed by the Washington DC AG&#39;s office for charging hidden fees and using deceptive marketing techniques &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230101/p1#a230101p1)
- - [First pretrial hearing in the FTC&#39;s case against Microsoft&#39;s $69B bid to take over Activision Blizzard set for January 3, 2023 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/221231/p12#a221231p12)
- - [Employment in tech occupations grew 12% YoY to a record 6.39M in November 2022, as workers eye banking, retail, health care, and manufacturing amid tech layoffs &lpar;New York Times&rpar;](http://www.techmeme.com/221231/p11#a221231p11)<!-- TECH:END -->
+ - [Experts weigh in on Meta&#39;s impending decision to lift Donald Trump&#39;s Facebook and Instagram ban; source: the announcement will be made later than January 7 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230101/p3#a230101p3)
+ - [Google has agreed to pay $29.5M to settle lawsuits with Washington DC and Indiana over location tracking practices, after agreeing to pay ~$392M to 40 US states &lpar;Jared Gans/The Hill&rpar;](http://www.techmeme.com/230101/p2#a230101p2)
+ - [Grubhub was ordered to pay $3.5M to settle a lawsuit filed by the Washington DC AG&#39;s office for charging hidden fees and using deceptive marketing techniques &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230101/p1#a230101p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
