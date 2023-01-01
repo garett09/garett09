@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
- - 🚯 [I never felt so embarrassed in my life... But that guy is the real MVP, he just laughed about it and said it&#39;s fine, you probably needed it. He&#39;s not wrong](http://9gag.com/gag/a9qRO6Z)
- - 🚯 [Nice](http://9gag.com/gag/az21Yzm)<!-- MEMES:END -->
+ - 🚖 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
+ - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
+ - 🚯 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)<!-- MEMES:END -->
 
 --- 
 
