@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A partial list of all the EVs that qualify for the new $7,500 tax credit](https://www.theverge.com/2023/1/1/23534707/ev-tax-credit-eligible-vehicle-list-tesla-chevy-cadillac-vw)
  - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)
- - [Hats off to the brands that actually listened in 2022](https://www.androidauthority.com/hat-tip-brand-feedback-2022-3258899/)
- - [&#39;Star Wars: The Bad Batch&#39; Season 2 Release Schedule: When Will Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-release-schedule-when-will-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hats off to the brands that actually listened in 2022](https://www.androidauthority.com/hat-tip-brand-feedback-2022-3258899/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
