@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
- - 🚯 [The Hero that the World should not forget!! Dr. Li Wenliang](http://9gag.com/gag/a1PRLWb)
- - 🚯 [Walking through my neighborhood late at night](http://9gag.com/gag/aDYgXzw)<!-- MEMES:END -->
+ - 🚖 [Jennifer didn\u2019t took that well](http://9gag.com/gag/aoK5xmn)
+ - 🚯 [Well, can you?](http://9gag.com/gag/a6qN5mN)
+ - 🚯 [Darwin Approves](http://9gag.com/gag/aNw096G)<!-- MEMES:END -->
 
 --- 
 
