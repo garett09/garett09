@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [PISSLOSI&#39;S NET WORTH.](http://9gag.com/gag/avQomZO)
- - 🚯 [Cursed punishment](http://9gag.com/gag/az21YwZ)
- - 🚯 [Sad new year noises](http://9gag.com/gag/ay2oP3W)<!-- MEMES:END -->
+ - 🚖 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)
+ - 🚯 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)
+ - 🚯 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)<!-- MEMES:END -->
 
 --- 
 
