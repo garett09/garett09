@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Hats off to the brands that actually listened in 2022](https://www.androidauthority.com/hat-tip-brand-feedback-2022-3258899/)
- - [Brydge ProDock review: A vertical Thunderbolt 4 docking station for modern Macs](https://appleinsider.com/articles/23/01/01/brydge-prodock-review-a-vertical-thunderbolt-4-docking-station-for-modern-macs?utm_medium=rss)
- - [As an adult with ADHD, Bluetooth trackers are a massive game-changer for me](https://www.androidauthority.com/tile-bluetooth-trackers-adhd-3255402/)<!-- TECH:END -->
+ - [&#39;Star Wars: The Bad Batch&#39; Season 2 Release Schedule: When Will Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-release-schedule-when-will-episode-1-hit-disney-plus/#ftag=CAD590a51e)
+ - [Brydge ProDock review: A vertical Thunderbolt 4 docking station for modern Macs](https://appleinsider.com/articles/23/01/01/brydge-prodock-review-a-vertical-thunderbolt-4-docking-station-for-modern-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
