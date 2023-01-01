@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jennifer didn\u2019t took that well](http://9gag.com/gag/aoK5xmn)
- - 🚯 [Well, can you?](http://9gag.com/gag/a6qN5mN)
- - 🚯 [Darwin Approves](http://9gag.com/gag/aNw096G)<!-- MEMES:END -->
+ - 🚖 [The running man](http://9gag.com/gag/aPgRQYG)
+ - 🚯 [2022 is over, here is a charisma buff to help you in 2023!](http://9gag.com/gag/aGEg2P5)
+ - 🚯 [NATO Secretary General Jens Stoltenberg eloquently explains why supporting Ukraine is unquestionably necessary](http://9gag.com/gag/aNw04qb)<!-- MEMES:END -->
 
 --- 
 
