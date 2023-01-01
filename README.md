@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Store robbed twice in one week, an attempted De Niro theft](https://appleinsider.com/articles/23/01/01/crime-blotter-apple-store-robbed-twice-in-one-week-an-attempted-de-niro-theft?utm_medium=rss)
- - [Daily Deals Jan. 1: $150 off M2 MacBook Air, $150 off Studio Display, 37% off TurboTax Home &amp; Business, more](https://appleinsider.com/articles/23/01/01/daily-deals-jan-1-150-off-m2-macbook-air-150-off-studio-display-37-off-turbotax-home-business-more?utm_medium=rss)
- - [13 Best Fitness Trackers &lpar;2022&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [My tech resolution for 2023 is to smarten up my home](https://www.androidauthority.com/making-a-smart-home-3241825/)
+ - [Apple Music karaoke launches and the FBI hates new security features -- December 2022 in review](https://appleinsider.com/articles/23/01/01/apple-music-karaoke-launches-and-the-fbi-hates-new-security-features----december-2022-in-review?utm_medium=rss)
+ - [Pohl Schmitt Weight Scale review: A cheap way to achieve your New Year&#39;s resolution](https://appleinsider.com/articles/22/12/31/pohl-schmitt-weight-scale-review-a-cheap-way-to-achieve-your-new-years-resolution?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
