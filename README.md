@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise and fall of Alameda Research, whose troubles began well before the crypto crash as it took big gambles, winning some and losing plenty &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230101/p4#a230101p4)
- - [Experts weigh in on Meta&#39;s impending decision to lift Donald Trump&#39;s Facebook and Instagram ban; source: the announcement will be made later than January 7 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230101/p3#a230101p3)
- - [Best Checking Accounts for January 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-checking-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dark Sky is officially dead. Here are the best alternatives](https://www.androidauthority.com/best-dark-sky-alternatives-3261054/)
+ - [Verizon decommissioned its 3G network on December 31, the last major US carrier to do so after AT&amp;T and T-Mobile turned off services earlier in 2022 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230101/p5#a230101p5)
+ - [A look at the rise and fall of Alameda Research, whose troubles began well before the crypto crash as it took big gambles, winning some and losing plenty &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230101/p4#a230101p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
