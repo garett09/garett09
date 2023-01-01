@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dark Sky is officially dead. Here are the best alternatives](https://www.androidauthority.com/best-dark-sky-alternatives-3261054/)
- - [Verizon decommissioned its 3G network on December 31, the last major US carrier to do so after AT&amp;T and T-Mobile turned off services earlier in 2022 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230101/p5#a230101p5)
- - [A look at the rise and fall of Alameda Research, whose troubles began well before the crypto crash as it took big gambles, winning some and losing plenty &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230101/p4#a230101p4)<!-- TECH:END -->
+ - [WaterField&#39;s Miles Laptop Bag can hold a 16-inch MacBook Pro and a MacBook Air](https://appleinsider.com/articles/23/01/01/waterfields-miles-laptop-bag-can-hold-a-16-inch-macbook-pro-and-a-macbook-air?utm_medium=rss)
+ - [How to &lpar;Finally&rpar; Break That Bad Habit](https://www.wired.com/story/how-to-break-bad-habits/)
+ - [Happiness Should Be the Most Important KPI for Tech Employers](https://www.wired.com/story/happiness-employment-labor-business/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
