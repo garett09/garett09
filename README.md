@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2023 will be a make-or-break year for Game Pass](https://www.pcgamer.com/2023-will-be-a-make-or-break-year-for-game-pass)
- - [The developers we want to hear from in 2023](https://www.pcgamer.com/the-developers-we-want-to-hear-from-in-2023)
- - [Publishers should be thanking modders for making their old games playable](https://www.pcgamer.com/publishers-should-be-thanking-modders-for-making-their-old-games-playable)<!-- GAME:END -->
+ - [This is the most demanding PC game in terms of GPU power &#39;and for a long time it had no graphics&#39;](https://www.pcgamer.com/this-is-the-most-demanding-pc-game-in-terms-of-gpu-power-and-for-a-long-time-it-had-no-graphics)
+ - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/23527861/new-netflix-movies-tv-shows-watch-january-2023)
+ - [2023 will be a make-or-break year for Game Pass](https://www.pcgamer.com/2023-will-be-a-make-or-break-year-for-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
