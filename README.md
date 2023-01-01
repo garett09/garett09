@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/entertainment/2023/1/1/23528576/disney-plus-new-movies-tv-watch-january-2023)
  - [Kaleidoscope’s random-episode gimmick can’t save a Netflix heist show gone wrong](https://www.polygon.com/23531210/kaleidoscope-netflix-review-heist-show-random-episodes-cast)
- - [What we want to see from PC gaming hardware in 2023](https://www.pcgamer.com/pc-gaming-hardware-2023-what-we-want)
- - [Polygon’s 50 most anticipated games of 2023](https://www.polygon.com/gaming/23520658/2023-upcoming-video-games-pc-nintendo-switch-ps4-ps5-xbox)<!-- GAME:END -->
+ - [What we want to see from PC gaming hardware in 2023](https://www.pcgamer.com/pc-gaming-hardware-2023-what-we-want)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
