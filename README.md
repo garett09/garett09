@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Safety device for when your tower is on fire.](http://9gag.com/gag/anz5DEV)
- - 🚯 [NATO Secretary General Jens Stoltenberg eloquently explains why supporting Ukraine is unquestionably necessary](http://9gag.com/gag/aNw04qb)
- - 🚯 [2022 is over, here is a charisma buff to help you in 2023!](http://9gag.com/gag/aGEg2P5)<!-- MEMES:END -->
+ - 🚖 [Did you see this popcorn the speed , the finest, someone that is sharing the butter not just putting few drops on the top of the popcorns . Amazing](http://9gag.com/gag/ajV5WMq)
+ - 🚯 [Stupid girl gets mauled by a huge grizzly. Don&#39;t make her mistake, folks.](http://9gag.com/gag/az21Omb)
+ - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)<!-- MEMES:END -->
 
 --- 
 
