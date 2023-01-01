@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 streaming movies we can’t wait to watch in 2023](https://www.androidauthority.com/upcoming-streaming-movies-in-2023-3257886/)
  - [My tech resolution for 2023 is to smarten up my home](https://www.androidauthority.com/making-a-smart-home-3241825/)
- - [Apple Music karaoke launches and the FBI hates new security features -- December 2022 in review](https://appleinsider.com/articles/23/01/01/apple-music-karaoke-launches-and-the-fbi-hates-new-security-features----december-2022-in-review?utm_medium=rss)
- - [Pohl Schmitt Weight Scale review: A cheap way to achieve your New Year&#39;s resolution](https://appleinsider.com/articles/22/12/31/pohl-schmitt-weight-scale-review-a-cheap-way-to-achieve-your-new-years-resolution?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Music karaoke launches and the FBI hates new security features -- December 2022 in review](https://appleinsider.com/articles/23/01/01/apple-music-karaoke-launches-and-the-fbi-hates-new-security-features----december-2022-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
