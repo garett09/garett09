@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Their is those who know, and the others](http://9gag.com/gag/aqegWRL)
- - 🚯 [Maybe in another life...](http://9gag.com/gag/anz5GLb)
+ - 🚖 [PISSLOSI&#39;S NET WORTH.](http://9gag.com/gag/avQomZO)
+ - 🚯 [Cursed punishment](http://9gag.com/gag/az21YwZ)
  - 🚯 [Sad new year noises](http://9gag.com/gag/ay2oP3W)<!-- MEMES:END -->
 
 --- 
