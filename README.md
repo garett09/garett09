@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [That\u2019s right](http://9gag.com/gag/amA5pRV)
- - 🚯 [Shake the balls](http://9gag.com/gag/aXnjemv)
- - 🚯 [Ronaldo loves coffee](http://9gag.com/gag/aXnjeqv)<!-- MEMES:END -->
+ - 🚯 [Maybe in another life...](http://9gag.com/gag/anz5GLb)
+ - 🚯 [Based](http://9gag.com/gag/aXnjedD)<!-- MEMES:END -->
 
 --- 
 
