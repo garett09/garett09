@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
- - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
- - 🚯 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)<!-- MEMES:END -->
+ - 🚖 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)
+ - 🚯 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
+ - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)<!-- MEMES:END -->
 
 --- 
 
