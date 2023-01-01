@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [A look at the rise and fall of Alameda Research, whose troubles began well before the crypto crash as it took big gambles, winning some and losing plenty &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230101/p4#a230101p4)
  - [Experts weigh in on Meta&#39;s impending decision to lift Donald Trump&#39;s Facebook and Instagram ban; source: the announcement will be made later than January 7 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230101/p3#a230101p3)
- - [Google has agreed to pay $29.5M to settle lawsuits with Washington DC and Indiana over location tracking practices, after agreeing to pay ~$392M to 40 US states &lpar;Jared Gans/The Hill&rpar;](http://www.techmeme.com/230101/p2#a230101p2)<!-- TECH:END -->
+ - [Best Checking Accounts for January 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-checking-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
