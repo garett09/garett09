@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at ABBA Voyage, the hit London concert performed by 3D digital avatars of the band created from motion capture, as its producers plan a global expansion &lpar;Jenni Reid/CNBC&rpar;](http://www.techmeme.com/221231/p10#a221231p10)
- - [Pohl Schmitt Weight Scale review: A cheap way to achieve your New Year&#39;s resolution](https://appleinsider.com/articles/22/12/31/pohl-schmitt-weight-scale-review-a-cheap-way-to-achieve-your-new-years-resolution?utm_medium=rss)
- - [Happy New Year from AppleInsider](https://appleinsider.com/articles/22/12/31/happy-new-year-from-appleinsider?utm_medium=rss)<!-- TECH:END -->
+ - [Employment in tech occupations grew 12% YoY to a record 6.39M in November 2022, as workers eye banking, retail, health care, and manufacturing amid tech layoffs &lpar;New York Times&rpar;](http://www.techmeme.com/221231/p11#a221231p11)
+ - [Everything I Learned Taking Cold Showers in 2022     - CNET](https://www.cnet.com/culture/internet/features/everything-i-learned-taking-cold-showers-for-the-whole-of-2022/#ftag=CAD590a51e)
+ - [A look at ABBA Voyage, the hit London concert performed by 3D digital avatars of the band created from motion capture, as its producers plan a global expansion &lpar;Jenni Reid/CNBC&rpar;](http://www.techmeme.com/221231/p10#a221231p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
