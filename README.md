@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did you see this popcorn the speed , the finest, someone that is sharing the butter not just putting few drops on the top of the popcorns . Amazing](http://9gag.com/gag/ajV5WMq)
- - 🚯 [Stupid girl gets mauled by a huge grizzly. Don&#39;t make her mistake, folks.](http://9gag.com/gag/az21Omb)
- - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)<!-- MEMES:END -->
+ - 🚖 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
+ - 🚯 [Well, can you?](http://9gag.com/gag/a6qN5mN)
+ - 🚯 [Give me some of your favourite downvote gifs.](http://9gag.com/gag/aRE0Zj7)<!-- MEMES:END -->
 
 --- 
 
