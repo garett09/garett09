@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sportsmanship at its finest](http://9gag.com/gag/aMEYOG1)
- - 🚯 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
- - 🚯 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)<!-- MEMES:END -->
+ - 🚖 [Their is those who know, and the others](http://9gag.com/gag/aqegWRL)
+ - 🚯 [Maybe in another life...](http://9gag.com/gag/anz5GLb)
+ - 🚯 [Sad new year noises](http://9gag.com/gag/ay2oP3W)<!-- MEMES:END -->
 
 --- 
 
