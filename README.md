@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)
- - 🚯 [One last time for 2022](http://9gag.com/gag/aA0g2Mg)
- - 🚯 [Happy new year, fellow degenerates](http://9gag.com/gag/aDYgVpN)<!-- MEMES:END -->
+ - 🚖 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)
+ - 🚯 [The Hero that the World should not forget!! Dr. Li Wenliang](http://9gag.com/gag/a1PRLWb)
+ - 🚯 [Walking through my neighborhood late at night](http://9gag.com/gag/aDYgXzw)<!-- MEMES:END -->
 
 --- 
 
