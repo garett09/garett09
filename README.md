@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 561 answer and hint for Sunday, January 1](https://www.pcgamer.com/todays-wordle-561-answer-and-hint-for-sunday-january-1)
  - [The Sam &amp; Max remaster continues with a trailer for The Devil&#39;s Playhouse](https://www.pcgamer.com/the-sam-and-max-remaster-continues-with-a-trailer-for-the-devils-playhouse)
- - [Factorio has sold 3.5 million copies](https://www.pcgamer.com/factorio-has-sold-35-million-copies)
- - [Cult of the Lamb&#39;s first big update will bring new attacks for every weapon](https://www.pcgamer.com/cult-of-the-lambs-first-big-update-will-bring-new-attacks-for-every-weapon)<!-- GAME:END -->
+ - [Factorio has sold 3.5 million copies](https://www.pcgamer.com/factorio-has-sold-35-million-copies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
