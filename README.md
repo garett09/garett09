@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at ABBA Voyage, the hit London concert performed by 3D digital avatars of the band created from motion capture, as its producers plan a global expansion &lpar;Jenni Reid/CNBC&rpar;](http://www.techmeme.com/221231/p10#a221231p10)
  - [Pohl Schmitt Weight Scale review: A cheap way to achieve your New Year&#39;s resolution](https://appleinsider.com/articles/22/12/31/pohl-schmitt-weight-scale-review-a-cheap-way-to-achieve-your-new-years-resolution?utm_medium=rss)
- - [Happy New Year from AppleInsider](https://appleinsider.com/articles/22/12/31/happy-new-year-from-appleinsider?utm_medium=rss)
- - [Tesla broke labor laws by telling workers not to discuss pay, NLRB claims](https://www.theverge.com/2022/12/31/23533743/tesla-florida-workers-pay-working-conditions-nlrb)<!-- TECH:END -->
+ - [Happy New Year from AppleInsider](https://appleinsider.com/articles/22/12/31/happy-new-year-from-appleinsider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
