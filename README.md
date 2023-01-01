@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My severe Steam Deck FOMO still won&#39;t let me take the handheld PC plunge](https://www.pcgamer.com/my-severe-steam-deck-fomo-still-wont-let-me-take-the-handheld-pc-plunge)
- - [Today&#39;s Wordle 561 answer and hint for Sunday, January 1](https://www.pcgamer.com/todays-wordle-561-answer-and-hint-for-sunday-january-1)
- - [The Sam &amp; Max remaster continues with a trailer for The Devil&#39;s Playhouse](https://www.pcgamer.com/the-sam-and-max-remaster-continues-with-a-trailer-for-the-devils-playhouse)<!-- GAME:END -->
+ - [2023 will be a make-or-break year for Game Pass](https://www.pcgamer.com/2023-will-be-a-make-or-break-year-for-game-pass)
+ - [The developers we want to hear from in 2023](https://www.pcgamer.com/the-developers-we-want-to-hear-from-in-2023)
+ - [Publishers should be thanking modders for making their old games playable](https://www.pcgamer.com/publishers-should-be-thanking-modders-for-making-their-old-games-playable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
