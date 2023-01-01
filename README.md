@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kaleidoscope’s random-episode gimmick can’t save a Netflix heist show gone wrong](https://www.polygon.com/23531210/kaleidoscope-netflix-review-heist-show-random-episodes-cast)
  - [What we want to see from PC gaming hardware in 2023](https://www.pcgamer.com/pc-gaming-hardware-2023-what-we-want)
- - [Polygon’s 50 most anticipated games of 2023](https://www.polygon.com/gaming/23520658/2023-upcoming-video-games-pc-nintendo-switch-ps4-ps5-xbox)
- - [This is the most demanding PC game in terms of GPU power &#39;and for a long time it had no graphics&#39;](https://www.pcgamer.com/this-is-the-most-demanding-pc-game-in-terms-of-gpu-power-and-for-a-long-time-it-had-no-graphics)<!-- GAME:END -->
+ - [Polygon’s 50 most anticipated games of 2023](https://www.polygon.com/gaming/23520658/2023-upcoming-video-games-pc-nintendo-switch-ps4-ps5-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
