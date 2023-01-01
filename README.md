@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
- - 🚯 [Well, can you?](http://9gag.com/gag/a6qN5mN)
- - 🚯 [Give me some of your favourite downvote gifs.](http://9gag.com/gag/aRE0Zj7)<!-- MEMES:END -->
+ - 🚯 [I never felt so embarrassed in my life... But that guy is the real MVP, he just laughed about it and said it&#39;s fine, you probably needed it. He&#39;s not wrong](http://9gag.com/gag/a9qRO6Z)
+ - 🚯 [Nice](http://9gag.com/gag/az21Yzm)<!-- MEMES:END -->
 
 --- 
 
