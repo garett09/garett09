@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A partial list of all the EVs that qualify for the new $7,500 tax credit](https://www.theverge.com/2023/1/1/23534707/ev-tax-credit-eligible-vehicle-list-tesla-chevy-cadillac-vw)
- - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)
- - [Hats off to the brands that actually listened in 2022](https://www.androidauthority.com/hat-tip-brand-feedback-2022-3258899/)<!-- TECH:END -->
+ - [Google phones: A history of the Nexus and Pixel lineup so far](https://www.androidauthority.com/google-phones-nexus-pixel-history-3260339/)
+ - [iPhone 14 Pro long term review: Still worth the upgrade](https://appleinsider.com/articles/23/01/01/iphone-14-pro-long-term-review-still-worth-the-upgrade?utm_medium=rss)
+ - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
