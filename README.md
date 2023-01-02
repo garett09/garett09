@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least Squidward had backup](http://9gag.com/gag/a2KRxK9)
- - 🚯 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - 🚯 [One slip away from dying](http://9gag.com/gag/amA5n82)<!-- MEMES:END -->
+ - 🚖 [Tradition](http://9gag.com/gag/a4oRWDQ)
+ - 🚯 [She finally got the doggo](http://9gag.com/gag/a7qwGPb)
+ - 🚯 [Simple physics lesson](http://9gag.com/gag/aMEYWz1)<!-- MEMES:END -->
 
 --- 
 
