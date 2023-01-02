@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
- - 🚯 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - 🚯 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)<!-- MEMES:END -->
+ - 🚖 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 🚯 [Their is those who know, and the others](http://9gag.com/gag/aqegWRL)
+ - 🚯 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)<!-- MEMES:END -->
 
 --- 
 
