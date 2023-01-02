@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
- - 🚯 [How the turn tabled](http://9gag.com/gag/aZD7Rb6)
- - 🚯 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)<!-- MEMES:END -->
+ - 🚖 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
+ - 🚯 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 🚯 [Lets welcome 2023 with a BANG!!!](http://9gag.com/gag/az21O2m)<!-- MEMES:END -->
 
 --- 
 
