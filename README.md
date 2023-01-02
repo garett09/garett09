@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to format flash drives for Mac and PC](https://appleinsider.com/inside/macos-ventura/tips/how-to-format-flash-drives-for-mac-and-pc?utm_medium=rss)
  - [The best streaming shows we can’t wait to watch in 2023](https://www.androidauthority.com/streaming-shows-of-2023-3249869/)
- - [Daily Deals Jan. 2: M1 MacBook Air $899, 56% off Touchscreen Portable Monitor, 44% off new Echo Dot &amp; more](https://appleinsider.com/articles/23/01/02/daily-deals-jan-2-m1-macbook-air-899-56-off-touchscreen-portable-monitor-44-off-new-echo-dot-more?utm_medium=rss)
- - [A look back at a tough year for startups, from plummeting investment to scarce public listings, as 2023 shapes up to be even more difficult &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/230102/p9#a230102p9)<!-- TECH:END -->
+ - [Daily Deals Jan. 2: M1 MacBook Air $899, 56% off Touchscreen Portable Monitor, 44% off new Echo Dot &amp; more](https://appleinsider.com/articles/23/01/02/daily-deals-jan-2-m1-macbook-air-899-56-off-touchscreen-portable-monitor-44-off-new-echo-dot-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
