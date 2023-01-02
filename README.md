@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s right](http://9gag.com/gag/amA5pRV)
- - 🚯 [Maybe in another life...](http://9gag.com/gag/anz5GLb)
- - 🚯 [Based](http://9gag.com/gag/aXnjedD)<!-- MEMES:END -->
+ - 🚖 [Welp](http://9gag.com/gag/aVb0L3y)
+ - 🚯 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
+ - 🚯 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)<!-- MEMES:END -->
 
 --- 
 
