@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - 🚯 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
- - 🚯 [Tell me what?](http://9gag.com/gag/abvrxvE)<!-- MEMES:END -->
+ - 🚖 [That\u2019s right](http://9gag.com/gag/amA5pRV)
+ - 🚯 [I lost my father into Alzheimer&#39;s - absolutely the worst feeling ever when he didn&#39;t recognize us. I should have tried this - just for a brief moment with him before we totally lost him](http://9gag.com/gag/aKEdLDb)
+ - 🚯 [Shake the balls](http://9gag.com/gag/aXnjemv)<!-- MEMES:END -->
 
 --- 
 
