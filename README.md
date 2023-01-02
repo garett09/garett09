@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep it real](http://9gag.com/gag/aXnjGXg)
- - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - 🚯 [The only good Karen.](http://9gag.com/gag/ay2ozAY)<!-- MEMES:END -->
+ - 🚖 [It applies to other jobs as well](http://9gag.com/gag/ap95dMM)
+ - 🚯 [If I&#39;m rich...](http://9gag.com/gag/aQE1N97)
+ - 🚯 [How the turn tabled](http://9gag.com/gag/aZD7Rb6)<!-- MEMES:END -->
 
 --- 
 
