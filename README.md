@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
- - 🚯 [Chessussy](http://9gag.com/gag/a8q5QbZ)
- - 🚯 [Strong Men](http://9gag.com/gag/avQo4RE)<!-- MEMES:END -->
+ - 🚖 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)
+ - 🚯 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
+ - 🚯 [Jail](http://9gag.com/gag/a4oRrWw)<!-- MEMES:END -->
 
 --- 
 
