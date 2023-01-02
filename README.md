@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
- - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
- - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)<!-- MEMES:END -->
+ - 🚖 [At least Squidward had backup](http://9gag.com/gag/a2KRxK9)
+ - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
+ - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)<!-- MEMES:END -->
 
 --- 
 
