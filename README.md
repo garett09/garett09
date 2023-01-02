@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welp](http://9gag.com/gag/aVb0L3y)
- - 🚯 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
- - 🚯 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)<!-- MEMES:END -->
+ - 🚖 [Great Success](http://9gag.com/gag/aA0gZ7o)
+ - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
+ - 🚯 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)<!-- MEMES:END -->
 
 --- 
 
