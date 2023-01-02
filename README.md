@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to open a Mac DMG file in Windows](https://appleinsider.com/inside/macos/tips/how-to-open-a-mac-dmg-file-in-windows?utm_medium=rss)
- - [What Is a Pig Butchering Scam?](https://www.wired.com/story/what-is-pig-butchering-scam/)
- - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)<!-- TECH:END -->
+ - [Video Games Need Better Dinosaurs. Paleontologists Can Help](https://www.wired.com/story/video-game-dinosaurs/)
+ - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
+ - [&#39;Fortnite&#39; will return to iPhone in 2023, says Epic CEO](https://appleinsider.com/articles/23/01/02/fortnite-will-return-to-ios-in-2023-says-epic-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
