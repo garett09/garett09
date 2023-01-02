@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
- - 🚯 [A group of scientists and engineers from Mexico decided to intentionally crash a Boeing 727. They wanted to study which seats had the best chance for survival](http://9gag.com/gag/a2KRxAO)
- - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
+ - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
+ - 🚯 [Chessussy](http://9gag.com/gag/a8q5QbZ)
+ - 🚯 [Strong Men](http://9gag.com/gag/avQo4RE)<!-- MEMES:END -->
 
 --- 
 
