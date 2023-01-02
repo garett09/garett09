@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 🚯 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
- - 🚯 [It&#39;s that time again for wage increases.](http://9gag.com/gag/amA5KQ4)<!-- MEMES:END -->
+ - 🚖 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
+ - 🚯 [Cyclist on his way to annoy pilots](http://9gag.com/gag/a3ZRp9m)
+ - 🚯 [Like jury duty](http://9gag.com/gag/a9qRZ6o)<!-- MEMES:END -->
 
 --- 
 
