@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best EVs Coming in 2023: BMW, Kia, Hyundai, Ford, Jeep, and More](https://www.wired.com/story/the-17-best-evs-coming-in-2023/)
- - [The Food Chain Should Be a Food Circle](https://www.wired.com/story/agriculture-food-chain-sustainability/)
- - [14 Best Paper Planners &lpar;2022&rpar;: Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/gallery/our-favorite-paper-planners/)<!-- TECH:END -->
+ - [How to open a Mac DMG file in Windows](https://appleinsider.com/inside/macos/tips/how-to-open-a-mac-dmg-file-in-windows?utm_medium=rss)
+ - [What Is a Pig Butchering Scam?](https://www.wired.com/story/what-is-pig-butchering-scam/)
+ - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
