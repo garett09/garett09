@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CES 2023 preview: All the PC gaming hardware you can expect from the show](https://www.pcgamer.com/ces-2023-preview)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [The 2023 movie preview](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)<!-- GAME:END -->
+ - [23 indie games to look forward to in 2023](https://www.polygon.com/gaming/23507157/2023-upcoming-indie-video-games-pc-nintendo-switch-ps4-ps5-xbox)
+ - [Netflix’s Sonic Prime would be one of the great Sonic games if you could actually play it](https://www.polygon.com/23529306/netflix-sonic-prime-review-season-1-games)
+ - [CES 2023 preview: All the PC gaming hardware you can expect from the show](https://www.pcgamer.com/ces-2023-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
