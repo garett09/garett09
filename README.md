@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the turn tabled](http://9gag.com/gag/aZD7Rb6)
- - 🚯 [Fact check......](http://9gag.com/gag/aZD7RVn)
- - 🚯 [Draw me Jack \ud83d\udc99](http://9gag.com/gag/a8q5n9Y)<!-- MEMES:END -->
+ - 🚖 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
+ - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
+ - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)<!-- MEMES:END -->
 
 --- 
 
