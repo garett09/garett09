@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s right](http://9gag.com/gag/amA5pRV)
- - 🚯 [I lost my father into Alzheimer&#39;s - absolutely the worst feeling ever when he didn&#39;t recognize us. I should have tried this - just for a brief moment with him before we totally lost him](http://9gag.com/gag/aKEdLDb)
- - 🚯 [Shake the balls](http://9gag.com/gag/aXnjemv)<!-- MEMES:END -->
+ - 🚖 [At least Squidward had backup](http://9gag.com/gag/a2KRxK9)
+ - 🚯 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 🚯 [One slip away from dying](http://9gag.com/gag/amA5n82)<!-- MEMES:END -->
 
 --- 
 
