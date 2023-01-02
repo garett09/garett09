@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Advice to your 16 years old self](http://9gag.com/gag/az21DYK)
- - 🚯 [Life hack](http://9gag.com/gag/a9qRNNL)
- - 🚯 [Also Shotguns](http://9gag.com/gag/aPgRzWn)<!-- MEMES:END -->
+ - 🚖 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
+ - 🚯 [A group of scientists and engineers from Mexico decided to intentionally crash a Boeing 727. They wanted to study which seats had the best chance for survival](http://9gag.com/gag/a2KRxAO)
+ - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
 
 --- 
 
