@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)
- - 🚯 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - 🚯 [Jail](http://9gag.com/gag/a4oRrWw)<!-- MEMES:END -->
+ - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 🚯 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
+ - 🚯 [It&#39;s that time again for wage increases.](http://9gag.com/gag/amA5KQ4)<!-- MEMES:END -->
 
 --- 
 
