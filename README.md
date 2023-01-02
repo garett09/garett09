@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you the designated photographer at social gatherings?](https://www.androidauthority.com/designated-photographer-social-gatherings-poll-3260550/)
- - [What is the Titan M2 security chip in Google’s Pixel phones?](https://www.androidauthority.com/titan-m2-google-3261547/)
- - [Luke Dashjr, one of the original core BTC developers, says someone stole &quot;basically&quot; all his BTC by compromising his PGP key; a wallet shows ~217 BTC were moved &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/230102/p3#a230102p3)<!-- TECH:END -->
+ - [The 14 Best EVs Coming in 2023: BMW, Kia, Hyundai, Ford, Jeep, and More](https://www.wired.com/story/the-17-best-evs-coming-in-2023/)
+ - [The Food Chain Should Be a Food Circle](https://www.wired.com/story/agriculture-food-chain-sustainability/)
+ - [14 Best Paper Planners &lpar;2022&rpar;: Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/gallery/our-favorite-paper-planners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
