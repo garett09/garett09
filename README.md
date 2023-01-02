@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our most anticipated movies of 2022](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)
- - [What we want to see in a Steam Deck 2: more power, less noise, and bright colors](https://www.pcgamer.com/steam-deck-2)
- - [The arrival of Overwatch 2 meant the slow destruction of my favourite mode](https://www.pcgamer.com/the-arrival-of-overwatch-2-meant-the-slow-destruction-of-my-favourite-mode)<!-- GAME:END -->
+ - [CES 2023 preview: All the PC gaming hardware you can expect from the show](https://www.pcgamer.com/ces-2023-preview)
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
+ - [The 2023 movie preview](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
