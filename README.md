@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least Squidward had backup](http://9gag.com/gag/a2KRxK9)
- - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)<!-- MEMES:END -->
+ - 🚖 [Climate change denier gets demolished.](http://9gag.com/gag/amA5b7d)
+ - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
+ - 🚯 [Fireworks show in San Diego where a computer glitch caused the entire 18 minute show to go off in 25 seconds](http://9gag.com/gag/aNw0qW4)<!-- MEMES:END -->
 
 --- 
 
