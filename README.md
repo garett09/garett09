@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - 🚯 [Their is those who know, and the others](http://9gag.com/gag/aqegWRL)
- - 🚯 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)<!-- MEMES:END -->
+ - 🚖 [Keep it real](http://9gag.com/gag/aXnjGXg)
+ - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
+ - 🚯 [The only good Karen.](http://9gag.com/gag/ay2ozAY)<!-- MEMES:END -->
 
 --- 
 
