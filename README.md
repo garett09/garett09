@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Climate change denier gets demolished.](http://9gag.com/gag/amA5b7d)
- - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - 🚯 [Fireworks show in San Diego where a computer glitch caused the entire 18 minute show to go off in 25 seconds](http://9gag.com/gag/aNw0qW4)<!-- MEMES:END -->
+ - 🚖 [Advice to your 16 years old self](http://9gag.com/gag/az21DYK)
+ - 🚯 [Life hack](http://9gag.com/gag/a9qRNNL)
+ - 🚯 [Also Shotguns](http://9gag.com/gag/aPgRzWn)<!-- MEMES:END -->
 
 --- 
 
