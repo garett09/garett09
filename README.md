@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tradition](http://9gag.com/gag/a4oRWDQ)
- - 🚯 [She finally got the doggo](http://9gag.com/gag/a7qwGPb)
- - 🚯 [Simple physics lesson](http://9gag.com/gag/aMEYWz1)<!-- MEMES:END -->
+ - 🚖 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
+ - 🚯 [How the turn tabled](http://9gag.com/gag/aZD7Rb6)
+ - 🚯 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)<!-- MEMES:END -->
 
 --- 
 
