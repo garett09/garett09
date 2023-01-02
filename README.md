@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 🚯 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
- - 🚯 [Fireworks show in San Diego where a computer glitch caused the entire 18 minute show to go off in 25 seconds](http://9gag.com/gag/aNw0qW4)<!-- MEMES:END -->
+ - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
 
 --- 
 
