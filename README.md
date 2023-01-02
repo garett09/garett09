@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Stolen AirPods give up thief&#39;s location with Find My](https://appleinsider.com/articles/23/01/02/stolen-airpods-give-up-thiefs-location-with-find-my?utm_medium=rss)
- - [The Polar H10 chest strap is the unsung hero of our wearables team](https://www.androidauthority.com/polar-h10-review-3260710/)
- - [Amazon&#39;s $299 iPad deal is still available for January 2023](https://appleinsider.com/articles/23/01/02/amazons-299-ipad-deal-is-still-available-for-january-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Developers cautiously welcome prospect of third-party app stores](https://appleinsider.com/articles/23/01/02/developers-cautiously-welcome-prospect-of-third-party-app-stores?utm_medium=rss)
+ - [The Polar H10 chest strap is the unsung hero of our wearables team](https://www.androidauthority.com/polar-h10-review-3260710/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
