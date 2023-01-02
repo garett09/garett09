@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
- - 🚯 [Cyclist on his way to annoy pilots](http://9gag.com/gag/a3ZRp9m)
- - 🚯 [Like jury duty](http://9gag.com/gag/a9qRZ6o)<!-- MEMES:END -->
+ - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 🚯 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
+ - 🚯 [Fireworks show in San Diego where a computer glitch caused the entire 18 minute show to go off in 25 seconds](http://9gag.com/gag/aNw0qW4)<!-- MEMES:END -->
 
 --- 
 
