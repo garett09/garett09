@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video Games Need Better Dinosaurs. Paleontologists Can Help](https://www.wired.com/story/video-game-dinosaurs/)
- - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
- - [&#39;Fortnite&#39; will return to iPhone in 2023, says Epic CEO](https://appleinsider.com/articles/23/01/02/fortnite-will-return-to-ios-in-2023-says-epic-ceo?utm_medium=rss)<!-- TECH:END -->
+ - [An overview of Chinese tech companies&#39; rush to match generative AI tools like DALL-E 2 despite tighter regulations, censorship, US chip sanctions, and more &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230102/p8#a230102p8)
+ - [Should you keep your phone in a thermal case this winter?](https://www.androidauthority.com/phoozy-thermal-phone-case-3251672/)
+ - [Daily Deals Jan. 2: M1 MacBook Air $899, 56% off Touchscreen Portable Monitor, 44% off new Echo Dot &amp; more](https://appleinsider.com/articles/23/01/02/daily-deals-jan-2-m1-macbook-air-899-56-off-touchscreen-portable-monitor-44-off-new-echo-dot-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
