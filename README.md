@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great Success](http://9gag.com/gag/aA0gZ7o)
- - 🚯 [Welp](http://9gag.com/gag/aVb0L3y)
- - 🚯 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)<!-- MEMES:END -->
+ - 🚖 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
+ - 🚯 [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
+ - 🚯 [Tell me what?](http://9gag.com/gag/abvrxvE)<!-- MEMES:END -->
 
 --- 
 
