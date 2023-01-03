@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👀 Samsung’s early CES surprises](https://www.androidauthority.com/daily-authority-january-3-2023-3261532/)
- - [A profile of blockchain auditing service CertiK, which inspects smart contracts to help clients like Yuga Labs avoid critical bugs that can lead to lost crypto &lpar;Clive Thompson/MIT Technology Review&rpar;](http://www.techmeme.com/230103/p5#a230103p5)
- - [Chinese media: Foxconn says its Zhengzhou plant is operating with ~200,000 workers, or ~90% capacity, back to around reported normal levels, after disruptions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230103/p4#a230103p4)<!-- TECH:END -->
+ - [Replying to the FTC&#39;s lawsuit, Microsoft bizarrely claims not to know when Call of Duty was first released or have details on Activision&#39;s budget and resources &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230103/p7#a230103p7)
+ - [Furbo 360 Dog Camera Review: A Watchful Eye](https://www.wired.com/review/furbo-360-dog-camera/)
+ - [Encryption Faces an Existential Threat in Europe](https://www.wired.com/story/encryption-faces-an-existential-threat-in-europe/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
