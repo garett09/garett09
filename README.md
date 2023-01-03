@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuesday’s top tech news: CES kicks off 2023 with a bang](https://www.theverge.com/2023/1/3/23536793/january-3-2023-tech-news-liveblog)
- - [Legal filings: Google alleges over 50 instances of India&#39;s antitrust investigators copy-pasting parts of the EU&#39;s antitrust ruling, sometimes word-for-word &lpar;Reuters&rpar;](http://www.techmeme.com/230103/p14#a230103p14)
- - [Apple adds third-generation iPad mini to list of obsolete products](https://appleinsider.com/articles/23/01/03/apple-adds-third-generation-ipad-mini-to-list-of-obsolete-products?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: save up to 40% on Beats at Amazon today](https://appleinsider.com/articles/23/01/03/deals-save-up-to-40-on-beats-at-amazon-today?utm_medium=rss)
+ - [10 best quiz games and trivia games for Android](https://www.androidauthority.com/best-quiz-games-and-trivia-games-for-android-692955/)
+ - [Fossil announces Gen 6 Hybrid Wellness Edition with 2-week battery life](https://www.androidauthority.com/gen-6-hybrid-wellness-3261827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
