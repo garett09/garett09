@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - 🚯 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)<!-- MEMES:END -->
+ - 🚖 [A group of scientists and engineers from Mexico decided to intentionally crash a Boeing 727. They wanted to study which seats had the best chance for survival](http://9gag.com/gag/a2KRxAO)
+ - 🚯 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
+ - 🚯 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)<!-- MEMES:END -->
 
 --- 
 
