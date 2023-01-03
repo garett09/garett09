@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jail](http://9gag.com/gag/a4oRrWw)
- - 🚯 [A seagull in human form](http://9gag.com/gag/ago5br6)
- - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/axo7n11)
+ - 🚯 [Strong Men](http://9gag.com/gag/avQo4RE)
+ - 🚯 [Persistence](http://9gag.com/gag/abvrLdL)<!-- MEMES:END -->
 
 --- 
 
