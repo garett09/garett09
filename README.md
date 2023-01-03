@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)
- - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - 🚯 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)<!-- MEMES:END -->
+ - 🚖 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 🚯 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 🚯 [The only good Karen.](http://9gag.com/gag/ay2ozAY)<!-- MEMES:END -->
 
 --- 
 
