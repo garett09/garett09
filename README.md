@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - 🚯 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
- - 🚯 [An apple a day, keeps the evil spirits away &lpar;Cr: DoctorLoops&rpar;](http://9gag.com/gag/a6qN869)<!-- MEMES:END -->
+ - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
+ - 🚯 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)<!-- MEMES:END -->
 
 --- 
 
