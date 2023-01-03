@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
- - 🚯 [Rebecca.](http://9gag.com/gag/axo7K11)
- - 🚯 [Capitan?](http://9gag.com/gag/ajV5j2R)<!-- MEMES:END -->
+ - 🚖 [Men are simple](http://9gag.com/gag/a3ZRzy3)
+ - 🚯 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚯 [Heroes](http://9gag.com/gag/aEqgyXe)<!-- MEMES:END -->
 
 --- 
 
