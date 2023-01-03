@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
- - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
+ - 🚖 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
+ - 🚯 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
+ - 🚯 [An apple a day, keeps the evil spirits away &lpar;Cr: DoctorLoops&rpar;](http://9gag.com/gag/a6qN869)<!-- MEMES:END -->
 
 --- 
 
