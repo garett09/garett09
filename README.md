@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save up to 40% on Beats at Amazon today](https://appleinsider.com/articles/23/01/03/deals-save-up-to-40-on-beats-at-amazon-today?utm_medium=rss)
- - [10 best quiz games and trivia games for Android](https://www.androidauthority.com/best-quiz-games-and-trivia-games-for-android-692955/)
- - [Fossil announces Gen 6 Hybrid Wellness Edition with 2-week battery life](https://www.androidauthority.com/gen-6-hybrid-wellness-3261827/)<!-- TECH:END -->
+ - [Disney+ marketing chief jumps to Apple TV+](https://appleinsider.com/articles/23/01/03/disney-marketing-chief-jumps-to-apple-tv?utm_medium=rss)
+ - [Acer Swift Go notebooks bring OLED displays in light-and-thin chassis](https://www.androidauthority.com/acer-swift-go-3261815/)
+ - [The best Cricket Wireless deals of 2023: Free phones, plan discounts, and more](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
