@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OtterBox launches new iPhone case with integrated grip &amp; MagSafe support](https://appleinsider.com/articles/23/01/03/otterbox-launches-new-iphone-case-with-integrated-grip-magsafe-support?utm_medium=rss)
- - [Judge sets SBF&#39;s trial for early October, allows redaction of SBF&#39;s bond signers&#39; names for now, and amends bail terms to keep SBF from accessing FTX funds &lpar;CoinDesk&rpar;](http://www.techmeme.com/230103/p26#a230103p26)
- - [CWA announces that about 300 quality-assurance testers in Microsoft&#39;s ZeniMax unit have voted to form a union, the first in the US for Microsoft &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p25#a230103p25)<!-- TECH:END -->
+ - [Apple&#39;s MagSafe foundation for new Qi2 wireless charging standard](https://appleinsider.com/articles/23/01/03/apples-magsafe-is-the-foundation-for-new-wireless-charging-standard?utm_medium=rss)
+ - [Samsung introduces pair of Studio Display competitors at CES 2023](https://appleinsider.com/articles/23/01/02/samsung-introduces-pair-of-studio-display-competitors-at-ces-2023?utm_medium=rss)
+ - [Asus Gaming Laptops Overwhelm with 2023 Updates     - CNET](https://www.cnet.com/tech/computing/asus-gaming-laptops-overwhelm-with-2023-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
