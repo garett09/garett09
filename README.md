@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple dips below $2T market cap as investors fear further supply chain issues](https://appleinsider.com/articles/23/01/03/apple-dips-below-2t-market-cap-as-investors-fear-further-supply-chain-issues?utm_medium=rss)
  - [Disney+ marketing chief jumps to Apple TV+](https://appleinsider.com/articles/23/01/03/disney-marketing-chief-jumps-to-apple-tv?utm_medium=rss)
- - [Acer Swift Go notebooks bring OLED displays in light-and-thin chassis](https://www.androidauthority.com/acer-swift-go-3261815/)
- - [The best Cricket Wireless deals of 2023: Free phones, plan discounts, and more](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)<!-- TECH:END -->
+ - [Apple&#39;s market cap sinks below $2T in intraday trading, as its stock continues to slide; a year ago, Apple was the first company to reach a $3T market cap &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230103/p20#a230103p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
