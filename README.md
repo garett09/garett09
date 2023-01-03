@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A seagull in human form](http://9gag.com/gag/ago5br6)
- - 🚯 [Jail](http://9gag.com/gag/a4oRrWw)
- - 🚯 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/axo7n11)
+ - 🚯 [This AI-generated video showing the evolution of visual expression.](http://9gag.com/gag/abvrLn8)
+ - 🚯 [Mother of noots](http://9gag.com/gag/ap95j55)<!-- MEMES:END -->
 
 --- 
 
