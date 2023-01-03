@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify President Harley Finkelstein says the company&#39;s Audiences tool, pooling data for upload to Meta and Google&#39;s ad platforms, is a key focus going forward &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p13#a230102p13)
- - [LG’s 2023 OLED TVs are brighter &lpar;again&rpar; and make webOS smarter](https://www.theverge.com/2023/1/2/23535050/lg-2023-oled-evo-g3-c3-tvs-announced-features)
- - [Space Solar Power Satellite Could Help Realize Our Sci-Fi Dreams of Unlimited Energy     - CNET](https://www.cnet.com/science/space/space-solar-power-satellite-could-help-realize-our-sci-fi-dreams-of-unlimited-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 15 Best PS5 Games To Play Right Now     - CNET](https://www.cnet.com/culture/the-15-best-ps5-games-to-play-right-now/#ftag=CAD590a51e)
+ - [Don&#39;t Throw Out Your Old TV Before You Read This     - CNET](https://www.cnet.com/tech/home-entertainment/dont-throw-out-your-old-tv-before-you-read-this/#ftag=CAD590a51e)
+ - [Shopify President Harley Finkelstein says the company&#39;s Audiences marketing tool, which uploads customer data to Meta and Google&#39;s ad platforms, is a key focus &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p13#a230102p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
