@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/axo7n11)
- - 🚯 [Strong Men](http://9gag.com/gag/avQo4RE)
- - 🚯 [Persistence](http://9gag.com/gag/abvrLdL)<!-- MEMES:END -->
+ - 🚖 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)
+ - 🚯 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
+ - 🚯 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)<!-- MEMES:END -->
 
 --- 
 
