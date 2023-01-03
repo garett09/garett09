@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&#39;s &#39;1899&#39; Canceled After One Season     - CNET](https://www.cnet.com/culture/entertainment/netflixs-1899-canceled-after-one-season/#ftag=CAD590a51e)
- - [Arlo is taking away security camera features you paid for](https://www.theverge.com/2023/1/2/23536194/arlo-eol-security-cameras-pro-baby-q-gen-3-lights-doorbell)
- - [All the news from NASA’s James Webb Space Telescope mission](https://www.theverge.com/22851639/nasa-james-webb-space-telescope-mission-launch-news-updates)<!-- TECH:END -->
+ - [Shopify President Harley Finkelstein says the company&#39;s Audiences tool, pooling data for upload to Meta and Google&#39;s ad platforms, is a key focus going forward &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p13#a230102p13)
+ - [LG’s 2023 OLED TVs are brighter &lpar;again&rpar; and make webOS smarter](https://www.theverge.com/2023/1/2/23535050/lg-2023-oled-evo-g3-c3-tvs-announced-features)
+ - [Space Solar Power Satellite Could Help Realize Our Sci-Fi Dreams of Unlimited Energy     - CNET](https://www.cnet.com/science/space/space-solar-power-satellite-could-help-realize-our-sci-fi-dreams-of-unlimited-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
