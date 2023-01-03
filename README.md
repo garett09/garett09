@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This AI-generated video showing the evolution of visual expression.](http://9gag.com/gag/abvrLn8)
- - 🚯 [Mother of noots](http://9gag.com/gag/ap95j55)
- - 🚯 [Persistence](http://9gag.com/gag/abvrLdL)<!-- MEMES:END -->
+ - 🚖 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
+ - 🚯 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚯 [A group of scientists and engineers from Mexico decided to intentionally crash a Boeing 727. They wanted to study which seats had the best chance for survival](http://9gag.com/gag/a2KRxAO)<!-- MEMES:END -->
 
 --- 
 
