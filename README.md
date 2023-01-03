@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese media: Foxconn says its Zhengzhou plant is operating with ~200,000 workers, or ~90% capacity, back to around reported normal levels, after disruptions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230103/p4#a230103p4)
- - [Google’s Pixel Fold production plans hint at Q4 launch](https://www.androidauthority.com/google-pixel-fold-release-date-3261752/)
- - [Samsung Display’s latest foldable concept can both slide and fold](https://www.theverge.com/2023/1/3/23536788/samsung-display-flex-hybrid-foldable-slidable-ces-2022)<!-- TECH:END -->
+ - [Daily Authority: 👀 Samsung’s early CES surprises](https://www.androidauthority.com/daily-authority-january-3-2023-3261532/)
+ - [A profile of blockchain auditing service CertiK, which inspects smart contracts to help clients like Yuga Labs avoid critical bugs that can lead to lost crypto &lpar;Clive Thompson/MIT Technology Review&rpar;](http://www.techmeme.com/230103/p5#a230103p5)
+ - [Chinese media: Foxconn says its Zhengzhou plant is operating with ~200,000 workers, or ~90% capacity, back to around reported normal levels, after disruptions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230103/p4#a230103p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
