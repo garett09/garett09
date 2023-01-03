@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/axo7n11)
- - 🚯 [This AI-generated video showing the evolution of visual expression.](http://9gag.com/gag/abvrLn8)
- - 🚯 [Mother of noots](http://9gag.com/gag/ap95j55)<!-- MEMES:END -->
+ - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
+ - 🚯 [Amen](http://9gag.com/gag/a8q59K3)
+ - 🚯 [Could&#39;ve easily done 100kg more](http://9gag.com/gag/aPgR00R)<!-- MEMES:END -->
 
 --- 
 
