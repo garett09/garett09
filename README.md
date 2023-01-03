@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
- - 🚯 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
- - 🚯 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
+ - 🚖 [A seagull in human form](http://9gag.com/gag/ago5br6)
+ - 🚯 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)<!-- MEMES:END -->
 
 --- 
 
