@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Buy Hitman 3 for $21 right now and you&#39;ll get the first two games for free](https://www.pcgamer.com/buy-hitman-3-for-dollar21-right-now-and-youll-get-the-first-two-games-for-free)
- - [Super Lesbian Animal RPG is a big hit with the target audience](https://www.pcgamer.com/super-lesbian-animal-rpg-is-a-big-hit-with-the-target-audience)
- - [All The Hitman Games Are Getting Fused Into One Mega Murder Sim](https://kotaku.com/hitman-3-world-assassination-dlc-delisted-steam-io-1849945934)<!-- GAME:END -->
+ - [FIFA 23 players find Ryan Reynolds Easter eggs in the commentary](https://www.polygon.com/23537282/fifa-23-wrexham-easter-egg-ryan-reynolds-rob-mcelhenney-commentary)
+ - [Overwatch 2’s new mode gives you godlike powers for the next two weeks](https://www.polygon.com/23537885/overwatch-2-battle-for-olympus-mode-dates)
+ - [Amazon&#39;s MMO Covers Up New Hero To Make Her Less Risqué](https://kotaku.com/amazon-lost-ark-the-artist-shorts-tights-lewd-cosmetic-1849946336)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
