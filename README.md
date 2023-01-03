@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s 13th-gen mobile processor delivers the first 24-core laptop CPU](https://www.androidauthority.com/intel-13th-gen-cpu-3261852/)
- - [&#39;Glass Onion&#39;: Ending Explained, Celebrity Cameos, Burning Questions     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-ending-explained-celebrity-cameos-burning-questions/#ftag=CAD590a51e)
- - [Samsung Galaxy S23 Rumors: Price, Launch Date, Cameras and More     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-rumors-price-launch-date-cameras-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OtterBox launches new iPhone case with integrated grip &amp; MagSafe support](https://appleinsider.com/articles/23/01/03/otterbox-launches-new-iphone-case-with-integrated-grip-magsafe-support?utm_medium=rss)
+ - [Judge sets SBF&#39;s trial for early October, allows redaction of SBF&#39;s bond signers&#39; names for now, and amends bail terms to keep SBF from accessing FTX funds &lpar;CoinDesk&rpar;](http://www.techmeme.com/230103/p26#a230103p26)
+ - [CWA announces that about 300 quality-assurance testers in Microsoft&#39;s ZeniMax unit have voted to form a union, the first in the US for Microsoft &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p25#a230103p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
