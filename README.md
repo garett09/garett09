@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus Zephyrus gaming laptops are getting a &#39;maxed out&#39; makeover for CES 2023](https://www.pcgamer.com/asus-rog-zephyrus-gaming-laptop-ces-2023)
- - [The Witcher 3: Dos and Don’ts For Fighting Werewolves](https://kotaku.com/the-witcher-3-how-to-beat-werewolves-healing-cursed-oil-1849945080)
- - [Twitch not loading correctly? You&#39;re not alone](https://www.pcgamer.com/twitch-not-loading-correctly-youre-not-alone)<!-- GAME:END -->
+ - [Workers at Microsoft-owned ZeniMax Media voted ‘yes’ to unionize 300 QA staff positions](https://www.polygon.com/23495140/microsoft-zenimax-media-union-vote-qa-workers)
+ - [15 hidden gems to grab before the Steam Winter Sale ends](https://www.pcgamer.com/15-hidden-gems-to-grab-before-the-steam-winter-sale-ends)
+ - [Where To Catch Up On Pokémon Before Ash And Pikachu&#39;s Farewell](https://kotaku.com/pokemon-anime-where-to-stream-netflix-prime-ash-pikachu-1849945348)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
