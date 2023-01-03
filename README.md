@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
- - 🚯 [The N Pass](http://9gag.com/gag/a8q5OM6)
- - 🚯 [The sound of a child laughing](http://9gag.com/gag/a2KRpK1)<!-- MEMES:END -->
+ - 🚖 [Tough](http://9gag.com/gag/aDYg9jx)
+ - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 🚯 [He&#39;s probably cheating on me](http://9gag.com/gag/a04Rq6v)<!-- MEMES:END -->
 
 --- 
 
