@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
- - 🚯 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 🚯 [The only good Karen.](http://9gag.com/gag/ay2ozAY)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/axo7n11)
+ - 🚯 [A set up from the start](http://9gag.com/gag/a1PRB66)
+ - 🚯 [I can do this with 1ton](http://9gag.com/gag/a1PRB4P)<!-- MEMES:END -->
 
 --- 
 
