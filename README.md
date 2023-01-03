@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung made a laptop display that folds and slides at the same time](https://www.androidauthority.com/samsung-flex-hybrid-3261743/)
- - [Casper Mattress Review: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
- - [Email: SpaceX is raising $750M in a round likely led by a16z at a $137B valuation; the company raised $2B+ in 2022 and was valued at $127M in May &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230103/p2#a230103p2)<!-- TECH:END -->
+ - [Chinese media: Foxconn says its Zhengzhou plant is operating with ~200,000 workers, or ~90% capacity, back to around reported normal levels, after disruptions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230103/p4#a230103p4)
+ - [Google’s Pixel Fold production plans hint at Q4 launch](https://www.androidauthority.com/google-pixel-fold-release-date-3261752/)
+ - [Samsung Display’s latest foldable concept can both slide and fold](https://www.theverge.com/2023/1/3/23536788/samsung-display-flex-hybrid-foldable-slidable-ces-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
