@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
- - 🚯 [You have to test a theory, to prove it, not just word of mouth from scammers](http://9gag.com/gag/aeQ5zgO)
- - 🚯 [Bob!](http://9gag.com/gag/armoEEp)<!-- MEMES:END -->
+ - 🚖 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - 🚯 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)<!-- MEMES:END -->
 
 --- 
 
