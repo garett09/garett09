@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men are simple](http://9gag.com/gag/a3ZRzy3)
- - 🚯 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
- - 🚯 [Heroes](http://9gag.com/gag/aEqgyXe)<!-- MEMES:END -->
+ - 🚖 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - 🚯 [You have to test a theory, to prove it, not just word of mouth from scammers](http://9gag.com/gag/aeQ5zgO)
+ - 🚯 [Bob!](http://9gag.com/gag/armoEEp)<!-- MEMES:END -->
 
 --- 
 
