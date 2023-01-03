@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
- - [Racer improved 1000% by mod that replaces supercars with man in dolly cart](https://www.pcgamer.com/racer-improved-1000-by-mod-that-replaces-supercars-with-man-in-dolly-cart)
- - [How to watch Nvidia&#39;s CES keynote today](https://www.pcgamer.com/how-to-watch-nvidias-ces-keynote-today)<!-- GAME:END -->
+ - [This funky-looking controller is at the center of Alienware&#39;s prototype home game streaming ecosystem](https://www.pcgamer.com/this-funky-looking-controller-is-at-the-center-of-alienwares-prototype-home-game-streaming-ecosystem)
+ - [Intel&#39;s new $196 16-thread Core i5 is an awesome reason to upgrade from an older CPU](https://www.pcgamer.com/intel-core-i5-13400-specs-announcement)
+ - [Intel&#39;s new 24-core i9 13950HX gaming laptop chip runs at a meteoric 5.6GHz](https://www.pcgamer.com/intel-13th-gen-hx-series-laptop-chip-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
