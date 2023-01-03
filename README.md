@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Replying to the FTC&#39;s lawsuit, Microsoft bizarrely claims not to know when Call of Duty was first released or have details on Activision&#39;s budget and resources &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230103/p7#a230103p7)
- - [Furbo 360 Dog Camera Review: A Watchful Eye](https://www.wired.com/review/furbo-360-dog-camera/)
- - [Encryption Faces an Existential Threat in Europe](https://www.wired.com/story/encryption-faces-an-existential-threat-in-europe/)<!-- TECH:END -->
+ - [India may spare AirPods, Apple Watch from USB-C charger rules](https://appleinsider.com/articles/23/01/03/india-may-spare-airpods-apple-watch-from-usb-c-charger-rules?utm_medium=rss)
+ - [Google&#39;s Jigsaw and UN-backed Tech Against Terrorism plan to release a free moderation tool to help smaller websites flag and remove terrorist material &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230103/p9#a230103p9)
+ - [Dell unveils second-gen Concept Nyx, the gaming controller of the future](https://www.androidauthority.com/dell-concept-nyx-3259079/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
