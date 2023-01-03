@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tough](http://9gag.com/gag/aDYg9jx)
- - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 🚯 [He&#39;s probably cheating on me](http://9gag.com/gag/a04Rq6v)<!-- MEMES:END -->
+ - 🚖 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚯 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
+ - 🚯 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
 
 --- 
 
