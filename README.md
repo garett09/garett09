@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Way of Water’s world box office continued to soar through New Years](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
- - [The 5 best sci-fi board games](https://www.polygon.com/tabletop-games/23529779/best-sci-fi-board-games)
- - [Dark creators mourn Netflix killing their new show 1899](https://www.polygon.com/23536946/netflix-1899-canceled-season-2-3)<!-- GAME:END -->
+ - [The best thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [The best action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
+ - [Russian officials are considering a &#39;Russian Electronic Arts&#39; to save the country&#39;s crumbling games industry](https://www.pcgamer.com/russian-officials-are-considering-a-russian-electronic-arts-to-save-the-countrys-crumbling-games-industry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
