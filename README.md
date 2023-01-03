@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer is joining the OLED party with a pair of speedy 240Hz displays](https://www.pcgamer.com/acer-is-joining-the-oled-party-with-a-pair-of-speedy-240hz-displays)
- - [Alienware now makes 14-inch and 18-inch gaming laptops](https://www.pcgamer.com/alienware-now-makes-14-inch-and-18-inch-gaming-laptops)
- - [I&#39;m afraid Alienware&#39;s new 500Hz gaming monitor won&#39;t make me any better at shooters](https://www.pcgamer.com/im-afraid-alienwares-new-500hz-gaming-monitor-wont-make-me-any-better-at-shooters)<!-- GAME:END -->
+ - [Asus announces its RTX 40-series ROG Strix gaming laptop lineup](https://www.pcgamer.com/asus-strix-gaming-laptops-ces-2023)
+ - [New Lego Super Mario sets go deep, but not Lego Waluigi deep](https://www.polygon.com/23537096/lego-mario-2023-series-6)
+ - [Nvidia announces that Atomic Heart and Witchfire will support DLSS 3 at launch](https://www.pcgamer.com/nvidia-announces-that-atomic-heart-and-witchfire-will-support-dlss-3-at-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
