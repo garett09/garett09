@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Should Watch This ‘90s Movie That’s Basically Just Cyberpunk 2077](https://kotaku.com/strange-days-streaming-cyberpunk-2077-braindance-1849945692)
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
- - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)<!-- GAME:END -->
+ - [Buy Hitman 3 for $21 right now and you&#39;ll get the first two games for free](https://www.pcgamer.com/buy-hitman-3-for-dollar21-right-now-and-youll-get-the-first-two-games-for-free)
+ - [Super Lesbian Animal RPG is a big hit with the target audience](https://www.pcgamer.com/super-lesbian-animal-rpg-is-a-big-hit-with-the-target-audience)
+ - [All The Hitman Games Are Getting Fused Into One Mega Murder Sim](https://kotaku.com/hitman-3-world-assassination-dlc-delisted-steam-io-1849945934)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
