@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus announces its RTX 40-series ROG Strix gaming laptop lineup](https://www.pcgamer.com/asus-strix-gaming-laptops-ces-2023)
- - [New Lego Super Mario sets go deep, but not Lego Waluigi deep](https://www.polygon.com/23537096/lego-mario-2023-series-6)
- - [Nvidia announces that Atomic Heart and Witchfire will support DLSS 3 at launch](https://www.pcgamer.com/nvidia-announces-that-atomic-heart-and-witchfire-will-support-dlss-3-at-launch)<!-- GAME:END -->
+ - [Asus Zephyrus gaming laptops are getting a &#39;maxed out&#39; makeover for CES 2023](https://www.pcgamer.com/asus-rog-zephyrus-gaming-laptop-ces-2023)
+ - [The Witcher 3: Dos and Don’ts For Fighting Werewolves](https://kotaku.com/the-witcher-3-how-to-beat-werewolves-healing-cursed-oil-1849945080)
+ - [Twitch not loading correctly? You&#39;re not alone](https://www.pcgamer.com/twitch-not-loading-correctly-youre-not-alone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
