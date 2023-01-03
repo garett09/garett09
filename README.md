@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/axo7n11)
- - 🚯 [A set up from the start](http://9gag.com/gag/a1PRB66)
- - 🚯 [I can do this with 1ton](http://9gag.com/gag/a1PRB4P)<!-- MEMES:END -->
+ - 🚖 [A seagull in human form](http://9gag.com/gag/ago5br6)
+ - 🚯 [Jail](http://9gag.com/gag/a4oRrWw)
+ - 🚯 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
 
 --- 
 
