@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [The best action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
- - [Russian officials are considering a &#39;Russian Electronic Arts&#39; to save the country&#39;s crumbling games industry](https://www.pcgamer.com/russian-officials-are-considering-a-russian-electronic-arts-to-save-the-countrys-crumbling-games-industry)<!-- GAME:END -->
+ - [Acer is joining the OLED party with a pair of speedy 240Hz displays](https://www.pcgamer.com/acer-is-joining-the-oled-party-with-a-pair-of-speedy-240hz-displays)
+ - [Alienware now makes 14-inch and 18-inch gaming laptops](https://www.pcgamer.com/alienware-now-makes-14-inch-and-18-inch-gaming-laptops)
+ - [I&#39;m afraid Alienware&#39;s new 500Hz gaming monitor won&#39;t make me any better at shooters](https://www.pcgamer.com/im-afraid-alienwares-new-500hz-gaming-monitor-wont-make-me-any-better-at-shooters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
