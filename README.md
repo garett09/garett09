@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers at Microsoft-owned ZeniMax Media voted ‘yes’ to unionize 300 QA staff positions](https://www.polygon.com/23495140/microsoft-zenimax-media-union-vote-qa-workers)
- - [15 hidden gems to grab before the Steam Winter Sale ends](https://www.pcgamer.com/15-hidden-gems-to-grab-before-the-steam-winter-sale-ends)
- - [Where To Catch Up On Pokémon Before Ash And Pikachu&#39;s Farewell](https://kotaku.com/pokemon-anime-where-to-stream-netflix-prime-ash-pikachu-1849945348)<!-- GAME:END -->
+ - [You Should Watch This ‘90s Movie That’s Basically Just Cyberpunk 2077](https://kotaku.com/strange-days-streaming-cyberpunk-2077-braindance-1849945692)
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
