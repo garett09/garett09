@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India may spare AirPods, Apple Watch from USB-C charger rules](https://appleinsider.com/articles/23/01/03/india-may-spare-airpods-apple-watch-from-usb-c-charger-rules?utm_medium=rss)
- - [Google&#39;s Jigsaw and UN-backed Tech Against Terrorism plan to release a free moderation tool to help smaller websites flag and remove terrorist material &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230103/p9#a230103p9)
- - [Dell unveils second-gen Concept Nyx, the gaming controller of the future](https://www.androidauthority.com/dell-concept-nyx-3259079/)<!-- TECH:END -->
+ - [The GE Cync smart home products you already own probably won’t get Matter](https://www.androidauthority.com/cync-matter-3260900/)
+ - [I Threw a Holiday Party in Horizon Worlds. It Didn’t Go Well](https://www.wired.com/story/holiday-party-horizon-worlds-the-metaverse-doesnt-exist/)
+ - [Filing: lawyers for Sam Bankman-Fried ask a judge to redact the names of the two people who intend to sign on as sureties to his bail, citing media scrutiny &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/230103/p11#a230103p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
