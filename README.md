@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
- - 🚯 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - 🚯 [An apple a day, keeps the evil spirits away &lpar;Cr: DoctorLoops&rpar;](http://9gag.com/gag/a6qN869)<!-- MEMES:END -->
+ - 🚖 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 🚯 [The N Pass](http://9gag.com/gag/a8q5OM6)
+ - 🚯 [The sound of a child laughing](http://9gag.com/gag/a2KRpK1)<!-- MEMES:END -->
 
 --- 
 
