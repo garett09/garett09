@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next gen Apple Watch Ultra to get micro LED display](https://appleinsider.com/articles/23/01/03/next-gen-apple-watch-ultra-to-get-micro-led-display?utm_medium=rss)
- - [Apple allegedly working on cheaper &#39;AirPods Lite&#39;](https://appleinsider.com/articles/23/01/03/apple-allegedly-working-on-cheaper-airpods-lite?utm_medium=rss)
- - [Monday Night Football Cancelled after Buffalo Bills&#39; Damar Hamlin Collapses on Field     - CNET](https://www.cnet.com/culture/sports/monday-night-football-cancelled-after-buffalo-bills-damar-hamlin-collapses-on-field/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 Pro line could boast titanium frame, haptic buttons, and 8 gigs of RAM](https://appleinsider.com/articles/23/01/03/iphone-15-pro-line-could-boast-titanium-frame-haptic-buttons-and-8-gigs-of-ram?utm_medium=rss)
+ - [India releases draft online gaming rules, seeking to create a self-regulatory body and to require parental consent for gamers under 18, for public consultation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230102/p14#a230102p14)
+ - [Next gen Apple Watch Ultra to get micro LED display](https://appleinsider.com/articles/23/01/03/next-gen-apple-watch-ultra-to-get-micro-led-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
