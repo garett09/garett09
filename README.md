@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A seagull in human form](http://9gag.com/gag/ago5br6)
- - 🚯 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚖 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚯 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
  - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)<!-- MEMES:END -->
 
 --- 
