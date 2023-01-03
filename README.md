@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This funky-looking controller is at the center of Alienware&#39;s prototype home game streaming ecosystem](https://www.pcgamer.com/this-funky-looking-controller-is-at-the-center-of-alienwares-prototype-home-game-streaming-ecosystem)
- - [Intel&#39;s new $196 16-thread Core i5 is an awesome reason to upgrade from an older CPU](https://www.pcgamer.com/intel-core-i5-13400-specs-announcement)
- - [Intel&#39;s new 24-core i9 13950HX gaming laptop chip runs at a meteoric 5.6GHz](https://www.pcgamer.com/intel-13th-gen-hx-series-laptop-chip-announcement)<!-- GAME:END -->
+ - [Avatar: The Way of Water’s world box office continued to soar through New Years](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
+ - [The 5 best sci-fi board games](https://www.polygon.com/tabletop-games/23529779/best-sci-fi-board-games)
+ - [Dark creators mourn Netflix killing their new show 1899](https://www.polygon.com/23536946/netflix-1899-canceled-season-2-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
