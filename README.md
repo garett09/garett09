@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best PS5 Games To Play Right Now     - CNET](https://www.cnet.com/culture/the-15-best-ps5-games-to-play-right-now/#ftag=CAD590a51e)
- - [Don&#39;t Throw Out Your Old TV Before You Read This     - CNET](https://www.cnet.com/tech/home-entertainment/dont-throw-out-your-old-tv-before-you-read-this/#ftag=CAD590a51e)
- - [Shopify President Harley Finkelstein says the company&#39;s Audiences marketing tool, which uploads customer data to Meta and Google&#39;s ad platforms, is a key focus &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p13#a230102p13)<!-- TECH:END -->
+ - [Next gen Apple Watch Ultra to get micro LED display](https://appleinsider.com/articles/23/01/03/next-gen-apple-watch-ultra-to-get-micro-led-display?utm_medium=rss)
+ - [Apple allegedly working on cheaper &#39;AirPods Lite&#39;](https://appleinsider.com/articles/23/01/03/apple-allegedly-working-on-cheaper-airpods-lite?utm_medium=rss)
+ - [Monday Night Football Cancelled after Buffalo Bills&#39; Damar Hamlin Collapses on Field     - CNET](https://www.cnet.com/culture/sports/monday-night-football-cancelled-after-buffalo-bills-damar-hamlin-collapses-on-field/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
