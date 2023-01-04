@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 🚯 [Good.](http://9gag.com/gag/aXnj1KV)
- - 🚯 [None of us thought about it](http://9gag.com/gag/aNw0beb)<!-- MEMES:END -->
+ - 🚖 [You have to test a theory, to prove it, not just word of mouth from scammers](http://9gag.com/gag/aeQ5zgO)
+ - 🚯 [Cat cr\u00fcelty](http://9gag.com/gag/aQE1jK8)
+ - 🚯 [So what now then , Master?](http://9gag.com/gag/axo7reY)<!-- MEMES:END -->
 
 --- 
 
