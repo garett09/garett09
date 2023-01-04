@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the Sun Unleash Intense but &#39;Pretty&#39; Eruption That Should Miss Earth     - CNET](https://www.cnet.com/science/space/watch-the-sun-unleash-intense-but-pretty-eruption-that-should-miss-earth/#ftag=CAD590a51e)
- - [You&#39;re Gonna Need a Bigger Desk: Samsung&#39;s New Gaming Monitor Is a Beast     - CNET](https://www.cnet.com/tech/computing/youre-gonna-need-a-bigger-desk-samsungs-new-gaming-monitor-is-a-beast/#ftag=CAD590a51e)
- - [Asus&#39;s 3D Laptop Screen Enters the OLED Dimension     - CNET](https://www.cnet.com/tech/computing/asuss-3d-laptop-screen-enters-the-oled-dimension/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Created a Smaller Version of One of Its Supersized Wall TVs     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-created-smaller-version-one-of-its-supersized-wall-tvs/#ftag=CAD590a51e)
+ - [Best TVs of CES 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-of-ces-2023/#ftag=CAD590a51e)
+ - [The Tiny Samsung Freestyle Projector Can Now Stream Games, Too     - CNET](https://www.cnet.com/tech/home-entertainment/the-tiny-samsung-freestyle-projector-can-now-stream-games-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
