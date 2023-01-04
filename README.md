@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kingston shows off new IronKey USB-C Vault Privacy 50C drive](https://appleinsider.com/articles/23/01/04/kingston-shows-off-new-ironkey-usb-c-vault-privacy-50c-drive?utm_medium=rss)
- - [Coinbase reaches a $100M settlement with New York regulators over violating anti-money-laundering laws, comprising a $50M fine and $50M to boost compliance &lpar;New York Times&rpar;](http://www.techmeme.com/230104/p15#a230104p15)
- - [Roku to sell its own smart TVs this spring with Roku OLED TVs coming later](https://www.androidauthority.com/roku-smart-tvs-3260706/)<!-- TECH:END -->
+ - [JBL reveals new range of earbuds and speakers during CES 2023](https://appleinsider.com/articles/23/01/04/jbl-reveals-new-range-of-earbuds-and-speakers-during-ces-2023?utm_medium=rss)
+ - [Eve’s newest smart home devices are launching with Matter out of the box](https://www.androidauthority.com/eve-smart-home-matter-devices-3261107/)
+ - [The Samsung Galaxy A14 5G has a big screen and a small price](https://www.androidauthority.com/samsung-galaxy-a14-3261830/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
