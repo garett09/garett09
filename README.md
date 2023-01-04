@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who needs RGB inside your PC case when you can project holograms instead?](https://www.pcgamer.com/who-needs-rgb-inside-your-pc-case-when-you-can-project-holograms)
- - [The trend in 16:10 gaming laptops over CES 2023 shows we&#39;re finally evolving](https://www.pcgamer.com/the-trend-in-1610-gaming-laptops-over-ces-2023-shows-were-finally-evolving)
- - [Death Stranding 2 is mirroring Metal Gear Solid 2, and going La-li-lu-le-lo](https://www.pcgamer.com/kojception-death-stranding-2-is-mirroring-metal-gear-solid-2-and-going-la-le-lu-li-lo)<!-- GAME:END -->
+ - [Evil Dead’s latest reboot already looks more fun than the last one](https://www.polygon.com/23537610/evil-dead-rise-reboot-trailer-release-date-cast)
+ - [The Last of Us multiplayer game still on track for 2023 reveal](https://www.polygon.com/23538796/the-last-of-us-multiplayer-tlou-naughty-dog-concept-art-playstation)
+ - [Wizards of the Coast reportedly cancels at least 5 video games](https://www.polygon.com/23538612/wizards-coast-dungeons-dragons-video-game-cancellations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
