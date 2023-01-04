@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)
- - [OnePlus 11 is officially here but you’ll have to wait another month to get it](https://www.androidauthority.com/oneplus-11-specs-price-features-availability-3262282/)
- - [This new Withings device wants your pee!](https://www.androidauthority.com/withings-u-scan-3262169/)<!-- TECH:END -->
+ - [Daily Authority: 📱 OnePlus 11 goes official, Pixel 7a leaks on video, and more](https://www.androidauthority.com/daily-authority-january-4-2023-3262250/)
+ - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)
+ - [Alogic releases slew of new charging tech at CES 2023](https://appleinsider.com/articles/23/01/04/alogic-releases-slew-of-new-charging-tech-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
