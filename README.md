@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have to test a theory, to prove it, not just word of mouth from scammers](http://9gag.com/gag/aeQ5zgO)
- - 🚯 [Cat cr\u00fcelty](http://9gag.com/gag/aQE1jK8)
- - 🚯 [So what now then , Master?](http://9gag.com/gag/axo7reY)<!-- MEMES:END -->
+ - 🚖 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
+ - 🚯 [Atta Boy!!!](http://9gag.com/gag/a4oRB8d)
+ - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)<!-- MEMES:END -->
 
 --- 
 
