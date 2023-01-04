@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere Analysis: a decade-long original TV show spending boom is expected to slow to a crawl in 2023; streaming services will cut growth from 25% in 2022 to 8% &lpar;Alex Barker/Financial Times&rpar;](http://www.techmeme.com/230104/p1#a230104p1)
  - [Catalyst releases Essential Case for AirPods Pro 2](https://appleinsider.com/articles/23/01/04/catalyst-releases-essential-case-for-airpods-pro-2?utm_medium=rss)
- - [Scosche announces slate of new charging products for 2023](https://appleinsider.com/articles/23/01/04/scosche-announces-slate-of-new-charging-products-for-2023?utm_medium=rss)
- - [Zens announces charging products for Apple devices at CES 2023](https://appleinsider.com/articles/23/01/04/zens-announces-charging-products-for-apple-devices-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Scosche announces slate of new charging products for 2023](https://appleinsider.com/articles/23/01/04/scosche-announces-slate-of-new-charging-products-for-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
