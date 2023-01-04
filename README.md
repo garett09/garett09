@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - 🚯 [Atta Boy!!!](http://9gag.com/gag/a4oRB8d)
- - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)<!-- MEMES:END -->
+ - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
+ - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 🚯 [Jail](http://9gag.com/gag/a4oRrWw)<!-- MEMES:END -->
 
 --- 
 
