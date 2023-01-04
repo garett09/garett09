@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 Word: AMSTERDAM...](http://9gag.com/gag/aoK5QwX)
- - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
+ - 🚖 [Oh oh oh](http://9gag.com/gag/aQE1W67)
+ - 🚯 [Ah dogs !](http://9gag.com/gag/az21pnN)
+ - 🚯 [They really picked the wrong day...](http://9gag.com/gag/aVb0pLv)<!-- MEMES:END -->
 
 --- 
 
