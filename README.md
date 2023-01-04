@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Very inventive ways this beekeeper protects his bees from invading hornets](http://9gag.com/gag/a04RyXL)
- - 🚯 [I never post my work here even though i\u2019m a 9gagger for years\u2026 so i wanted to share a teaser of my next film with you guys. I hope you will enjoy. I\u2019m the film director/writer for this new baby that i work on for 8 years with scientists... More info in the comment section.](http://9gag.com/gag/a04R3WQ)
- - 🚯 [The best leg of darts you will ever see.](http://9gag.com/gag/ago5eYW)<!-- MEMES:END -->
+ - 🚯 [The best leg of darts you will ever see.](http://9gag.com/gag/ago5eYW)
+ - 🚯 [Caught red handed\u2026](http://9gag.com/gag/a2KRppp)<!-- MEMES:END -->
 
 --- 
 
