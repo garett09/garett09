@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)
- - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
+ - 🚖 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
+ - 🚯 [What he hell Taika was thinking?](http://9gag.com/gag/axo751n)
+ - 🚯 [Train loaded with 42 Turkish-made BMC Kirpi 4x4 MRAPs was observed in Romania](http://9gag.com/gag/a1PR9NG)<!-- MEMES:END -->
 
 --- 
 
