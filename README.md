@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
- - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 🚯 [Jail](http://9gag.com/gag/a4oRrWw)<!-- MEMES:END -->
+ - 🚖 [None of us thought about it](http://9gag.com/gag/aNw0beb)
+ - 🚯 [Now you know where this classic line originated from](http://9gag.com/gag/aL105dg)
+ - 🚯 [I never post my work here even though i\u2019m a 9gagger for years\u2026 so i wanted to share a teaser of my next film with you guys. I hope you will enjoy. I\u2019m the film director/writer for this new baby that i work on for 8 years with scientists... More info in the comment section.](http://9gag.com/gag/a04R3WQ)<!-- MEMES:END -->
 
 --- 
 
