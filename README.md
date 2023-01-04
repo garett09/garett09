@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
- - 🚯 [What he hell Taika was thinking?](http://9gag.com/gag/axo751n)
- - 🚯 [Train loaded with 42 Turkish-made BMC Kirpi 4x4 MRAPs was observed in Romania](http://9gag.com/gag/a1PR9NG)<!-- MEMES:END -->
+ - 🚖 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 🚯 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)<!-- MEMES:END -->
 
 --- 
 
