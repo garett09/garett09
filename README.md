@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL splits its 2023 smart TVs into two distinct lines](https://www.androidauthority.com/tcl-smart-tvs-2023-3262379/)
- - [TCL Nxtpaper Phone Concept hands-on: I’m in love](https://www.androidauthority.com/tcl-nxtpaper-phone-3262239/)
- - [ViewSonic reveals 27-inch 4K OLED Studio Display competitor, more](https://appleinsider.com/articles/23/01/04/viewsonic-reveals-27-inch-4k-oled-studio-display-competitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [TCL RayNeo X2 hands-on: Maybe the world is ready for Google Glass now?](https://www.androidauthority.com/tcl-rayneo-x2-3262266/)
+ - [Samsung’s new SmartThings Station is a hub, smart button, and wireless charger](https://www.androidauthority.com/samsung-smartthings-station-3261865/)
+ - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
