@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is preparing a version of Bing that uses the OpenAI software behind ChatGPT to answer some search queries, which could launch by March 2023 &lpar;The Information&rpar;](http://www.techmeme.com/230103/p31#a230103p31)
- - [Govee reveals AI-driven TV sync box for its smart lights](https://appleinsider.com/articles/23/01/04/govee-reveals-ai-driven-tv-sync-box-for-its-smart-lights?utm_medium=rss)
- - [SEC filing: Amazon secures an $8B loan from DBS Bank, Mizuho Bank, and others, that will mature in 364 days and will be used for &quot;general corporate purposes&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230103/p30#a230103p30)<!-- TECH:END -->
+ - [The US Federal Reserve, FDIC, and OCC release a joint statement warning banks that issuing or holding crypto is likely inconsistent with safe banking practices &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p33#a230103p33)
+ - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)
+ - [Twitter says it is relaxing its policy for cause-based ads in the US and plans to expand the political advertising the company permits in the coming weeks &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/230103/p32#a230103p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
