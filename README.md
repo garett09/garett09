@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
- - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 🚯 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)<!-- MEMES:END -->
+ - 🚖 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
+ - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)
+ - 🚯 [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)<!-- MEMES:END -->
 
 --- 
 
