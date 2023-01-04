@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 4070 Ti](https://www.pcgamer.com/nvidia-rtx-4070-ti-review-benchmarks-performance)
- - [Cooler Master&#39;s latest mech keyboard is a calamitous clash of colours](https://www.pcgamer.com/cooler-masters-latest-mech-keyboard-is-a-calamitous-clash-of-colours)
- - [The biggest new and returning TV shows coming in 2023](https://www.polygon.com/23528392/biggest-new-tv-shows-2023-upcoming)<!-- GAME:END -->
+ - [Clue has a new look for a new generation of board game fans — and it goes on sale today](https://www.polygon.com/23537904/clue-board-game-2023-refresh-ryan-reynolds-movie)
+ - [Screw dying, says Hideo Kojima, &#39;I&#39;ll probably become an AI and stick around&#39;](https://www.pcgamer.com/screw-dying-says-hideo-kojima-ill-probably-become-an-ai-and-stick-around)
+ - [Nvidia RTX 4070 Ti](https://www.pcgamer.com/nvidia-rtx-4070-ti-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
