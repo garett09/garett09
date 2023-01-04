@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)
- - [This may be the most bizarre PC manual ever](https://www.pcgamer.com/this-may-be-the-most-bizarre-pc-manual-ever)
- - [Gaming monitors with tiny screens in the stands and built-in Wi-Fi antennas? Sure](https://www.pcgamer.com/gaming-monitors-with-tiny-screens-in-the-stands-and-built-in-wi-fi-antennas-sure)<!-- GAME:END -->
+ - [Nvidia RTX 4070 Ti](https://www.pcgamer.com/nvidia-rtx-4070-ti-review-benchmarks-performance)
+ - [Cooler Master&#39;s latest mech keyboard is a calamitous clash of colours](https://www.pcgamer.com/cooler-masters-latest-mech-keyboard-is-a-calamitous-clash-of-colours)
+ - [The biggest new and returning TV shows coming in 2023](https://www.polygon.com/23528392/biggest-new-tv-shows-2023-upcoming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
