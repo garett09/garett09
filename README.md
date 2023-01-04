@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus outs absurdly fast 540Hz monitor, potentially pricey 27-inch OLED monitor and more](https://www.pcgamer.com/asus-outs-absurdly-fast-540hz-monitor-potentially-pricey-27-inch-oled-monitor-and-more)
- - [Elden Ring clinches Steam&#39;s GOTY award in results with only one weird surprise](https://www.pcgamer.com/elden-ring-clinches-steams-goty-award-in-results-with-only-one-weird-surprise)
- - [Blade Runner 1997 is still the cyberpunk experience to beat](https://www.pcgamer.com/blade-runner-1997-is-still-the-cyberpunk-experience-to-beat)<!-- GAME:END -->
+ - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)
+ - [This may be the most bizarre PC manual ever](https://www.pcgamer.com/this-may-be-the-most-bizarre-pc-manual-ever)
+ - [Gaming monitors with tiny screens in the stands and built-in Wi-Fi antennas? Sure](https://www.pcgamer.com/gaming-monitors-with-tiny-screens-in-the-stands-and-built-in-wi-fi-antennas-sure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
