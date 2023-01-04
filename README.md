@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`I help you`](http://9gag.com/gag/aZD7533)
- - 🚯 [You&#39;re Dead](http://9gag.com/gag/aVb0pzv)
- - 🚯 [The race proceeded, and everything was fine. But still, goddamn. I&#39;ve never seen people being so united in anything](http://9gag.com/gag/aNw070b)<!-- MEMES:END -->
+ - 🚖 [1 Word: AMSTERDAM...](http://9gag.com/gag/aoK5QwX)
+ - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
 --- 
 
