@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trova Home personal safe now available to order](https://appleinsider.com/articles/23/01/04/trova-home-personal-safe-now-available-to-order?utm_medium=rss)
- - [Stellantis will mass-produce Archer’s electric air taxi as part of $150 million deal](https://www.theverge.com/2023/1/4/23538953/stellantis-archer-electric-air-taxi-evtol-midnight-mass-produce-investment)
- - [Apple Confluence retail store will close until March for renovations](https://appleinsider.com/articles/23/01/04/apple-confluence-retail-store-will-close-until-march-for-renovations?utm_medium=rss)<!-- TECH:END -->
+ - [Watch the Sun Unleash Intense but &#39;Pretty&#39; Eruption That Should Miss Earth     - CNET](https://www.cnet.com/science/space/watch-the-sun-unleash-intense-but-pretty-eruption-that-should-miss-earth/#ftag=CAD590a51e)
+ - [You&#39;re Gonna Need a Bigger Desk: Samsung&#39;s New Gaming Monitor Is a Beast     - CNET](https://www.cnet.com/tech/computing/youre-gonna-need-a-bigger-desk-samsungs-new-gaming-monitor-is-a-beast/#ftag=CAD590a51e)
+ - [Asus&#39;s 3D Laptop Screen Enters the OLED Dimension     - CNET](https://www.cnet.com/tech/computing/asuss-3d-laptop-screen-enters-the-oled-dimension/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
