@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Withings device wants your pee!](https://www.androidauthority.com/withings-u-scan-3262169/)
- - [Report: Indian crypto exchanges lost 81% of their trading volume between July and October 2022, as traders turned to foreign exchanges due to India&#39;s crypto tax &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230104/p3#a230104p3)
- - [Chinese regulators approve Ant Group&#39;s plan to raise ~$1.5B for its consumer unit, signaling progress in the government-ordered overhaul of the fintech firm &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230104/p2#a230104p2)<!-- TECH:END -->
+ - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)
+ - [OnePlus 11 is officially here but you’ll have to wait another month to get it](https://www.androidauthority.com/oneplus-11-specs-price-features-availability-3262282/)
+ - [This new Withings device wants your pee!](https://www.androidauthority.com/withings-u-scan-3262169/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
