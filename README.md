@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drop’s desktop computer speakers are tempting me to ditch the headset](https://www.theverge.com/2023/1/4/23538580/drop-bmr1-nearfield-monitor-desktop-computer-speakers-ces-price)
- - [The Global X Fintech ETF dropped 52% in 2022, above the broader financial sector&#39;s 12% drop and Nasdaq Composite Index&#39;s 33%, weighed down by interest rates &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/230104/p14#a230104p14)
- - [This dashcam of your dreams comes with T-Mobile connectivity and AI smarts](https://www.androidauthority.com/nextbase-iq-dashcam-3262328/)<!-- TECH:END -->
+ - [Kingston shows off new IronKey USB-C Vault Privacy 50C drive](https://appleinsider.com/articles/23/01/04/kingston-shows-off-new-ironkey-usb-c-vault-privacy-50c-drive?utm_medium=rss)
+ - [Coinbase reaches a $100M settlement with New York regulators over violating anti-money-laundering laws, comprising a $50M fine and $50M to boost compliance &lpar;New York Times&rpar;](http://www.techmeme.com/230104/p15#a230104p15)
+ - [Roku to sell its own smart TVs this spring with Roku OLED TVs coming later](https://www.androidauthority.com/roku-smart-tvs-3260706/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
