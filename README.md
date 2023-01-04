@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very inventive ways this beekeeper protects his bees from invading hornets](http://9gag.com/gag/a04RyXL)
- - 🚯 [The best leg of darts you will ever see.](http://9gag.com/gag/ago5eYW)
- - 🚯 [Caught red handed\u2026](http://9gag.com/gag/a2KRppp)<!-- MEMES:END -->
+ - 🚖 [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)
+ - 🚯 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
 --- 
 
