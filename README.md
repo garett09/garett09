@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL RayNeo X2 hands-on: Maybe the world is ready for Google Glass now?](https://www.androidauthority.com/tcl-rayneo-x2-3262266/)
- - [Samsung’s new SmartThings Station is a hub, smart button, and wireless charger](https://www.androidauthority.com/samsung-smartthings-station-3261865/)
- - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)<!-- TECH:END -->
+ - [The US SEC files a limited objection to Binance.US&#39; $1B bid for bankrupt crypto lender Voyager, citing insufficient details on how Binance can afford the deal &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230104/p27#a230104p27)
+ - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)
+ - [Hyper&#39;s new SSD enclosure &amp; docks are made with recycled material](https://appleinsider.com/articles/23/01/04/hypers-new-ssd-enclosure-docks-are-made-with-recycled-material?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
