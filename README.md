@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now you know where this classic line originated from](http://9gag.com/gag/aL105dg)
- - 🚯 [I tried my best...now i&#39;m wearing same clothes every day](http://9gag.com/gag/aoK5wXw)
- - 🚯 [I never post my work here even though i\u2019m a 9gagger for years\u2026 so i wanted to share a teaser of my next film with you guys. I hope you will enjoy. I\u2019m the film director/writer for this new baby that i work on for 8 years with scientists... More info in the comment section.](http://9gag.com/gag/a04R3WQ)<!-- MEMES:END -->
+ - 🚖 [Atta Boy!!!](http://9gag.com/gag/a4oRB8d)
+ - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 --- 
 
