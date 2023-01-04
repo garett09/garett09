@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX&#39;s collapse has forced the global sports industry to rethink lucrative crypto sponsorship deals, some of which were replacing gambling partners &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/230104/p18#a230104p18)
- - [Lockly Smart Safe pings your iPhone with tamper alerts](https://appleinsider.com/articles/23/01/04/lockly-smart-safe-pings-your-iphone-with-tamper-alerts?utm_medium=rss)
- - [Almost 50% off the Asus Chromebook Flip C434, and more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
+ - [Garmin Dash Cam Live announced: Ever wanted a dash cam with LTE?](https://www.androidauthority.com/garmin-dash-cam-live-3262453/)
+ - [NFT service Magic Eden, the largest Solana marketplace, blames a hacked image caching service after some users were served porn and TV stills instead of the NFT &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/230104/p20#a230104p20)
+ - [If your Internet is good enough, GeForce NOW Ultimate will stream games at 4K and 240 FPS](https://appleinsider.com/articles/23/01/04/nvidia-launches-new-geforce-now-ultimate-tier?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
