@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at CES 2023: advanced driver assistance systems, iterative TV improvements, Matter-compatible smart home devices, laptops, hearables, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230103/p37#a230103p37)
- - [Twitter&#39;s head of product and engineering Behnam Rezaei and acting head of human resources Katie Marcotte, who was at Twitter for 10 years, have resigned &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230103/p36#a230103p36)
- - [Financial e-commerce and consumer data analytics company GoLogiq agrees to acquire blockchain fintech GammaRey for $320M in an all-stock deal &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/230103/p35#a230103p35)<!-- TECH:END -->
+ - [Catalyst releases Essential Case for AirPods Pro 2](https://appleinsider.com/articles/23/01/04/catalyst-releases-essential-case-for-airpods-pro-2?utm_medium=rss)
+ - [Scosche announces slate of new charging products for 2023](https://appleinsider.com/articles/23/01/04/scosche-announces-slate-of-new-charging-products-for-2023?utm_medium=rss)
+ - [Zens announces charging products for Apple devices at CES 2023](https://appleinsider.com/articles/23/01/04/zens-announces-charging-products-for-apple-devices-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
