@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logan Paul Says Some Of His NFT Game Devs Were &#39;Con Men,&#39; But He Didn&#39;t Scam](https://kotaku.com/logan-paul-coffeezilla-youtube-cryptozoo-nft-game-scam-1849949957)
- - [What games did you play over the holidays?](https://www.pcgamer.com/what-games-did-you-play-over-the-holidays)
- - [Creators Connect in Xbox Pilot Program](https://news.xbox.com/en-us/2023/01/04/creators-connect-in-xbox-pilot-program/)<!-- GAME:END -->
+ - [BattleTech is officially one of the biggest names in tabletop gaming now](https://www.polygon.com/tabletop-games/23538869/battletech-sales-numbers-2022)
+ - [Secret Room In Switch Exclusive Lashes Out Against Dev Dysfunction](https://kotaku.com/sports-story-golf-dev-room-how-find-rpg-nintendo-switch-1849950373)
+ - [Star Wars Fans Waited 20 Years For This Excellent LEGO Set](https://kotaku.com/lego-star-wars-tie-bomber-2023-review-75347-minifigs-1849950293)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
