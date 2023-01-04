@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Financial e-commerce and consumer data analytics company GoLogiq agrees to acquire blockchain fintech GammaRey for $320M in an all-stock deal &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/230103/p35#a230103p35)
- - [Samsung announces brand new Freestyle projector at CES 2023](https://www.androidauthority.com/samsung-freestyle-2023-projector-3262219/)
- - [Samsung announces the OLED S95C 4K TV, the perfect display for gamers](https://www.androidauthority.com/samsung-announces-oled-s95c-qn95-3262209/)<!-- TECH:END -->
+ - [What to expect at CES 2023: advanced driver assistance systems, iterative TV improvements, Matter-compatible smart home devices, laptops, hearables, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230103/p37#a230103p37)
+ - [Twitter&#39;s head of product and engineering Behnam Rezaei and acting head of human resources Katie Marcotte, who was at Twitter for 10 years, have resigned &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230103/p36#a230103p36)
+ - [Financial e-commerce and consumer data analytics company GoLogiq agrees to acquire blockchain fintech GammaRey for $320M in an all-stock deal &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/230103/p35#a230103p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
