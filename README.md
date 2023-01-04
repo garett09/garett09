@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh oh oh](http://9gag.com/gag/aQE1W67)
- - 🚯 [Ah dogs !](http://9gag.com/gag/az21pnN)
- - 🚯 [They really picked the wrong day...](http://9gag.com/gag/aVb0pLv)<!-- MEMES:END -->
+ - 🚖 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
 
 --- 
 
