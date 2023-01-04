@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google embraces Nvidia GeForce Now with Asus&#39;s latest Chromebook](https://www.pcgamer.com/google-embraces-nvidia-geforce-now-with-asuss-latest-chromebook)
- - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
- - [Netflix’s Kaleidoscope has a random order, but there are better paths](https://www.polygon.com/23538715/netflix-kaleidoscope-chronological-best-watch-order)<!-- GAME:END -->
+ - [Logan Paul Says Some Of His NFT Game Devs Were &#39;Con Men,&#39; But He Didn&#39;t Scam](https://kotaku.com/logan-paul-coffeezilla-youtube-cryptozoo-nft-game-scam-1849949957)
+ - [What games did you play over the holidays?](https://www.pcgamer.com/what-games-did-you-play-over-the-holidays)
+ - [Creators Connect in Xbox Pilot Program](https://news.xbox.com/en-us/2023/01/04/creators-connect-in-xbox-pilot-program/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
