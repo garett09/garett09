@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MagSafe foundation for new Qi2 wireless charging standard](https://appleinsider.com/articles/23/01/03/apples-magsafe-is-the-foundation-for-new-wireless-charging-standard?utm_medium=rss)
- - [Samsung introduces pair of Studio Display competitors at CES 2023](https://appleinsider.com/articles/23/01/02/samsung-introduces-pair-of-studio-display-competitors-at-ces-2023?utm_medium=rss)
- - [Asus Gaming Laptops Overwhelm with 2023 Updates     - CNET](https://www.cnet.com/tech/computing/asus-gaming-laptops-overwhelm-with-2023-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Microsoft is preparing a version of Bing that uses the OpenAI software behind ChatGPT to answer some search queries, which could launch by March 2023 &lpar;The Information&rpar;](http://www.techmeme.com/230103/p31#a230103p31)
+ - [Govee reveals AI-driven TV sync box for its smart lights](https://appleinsider.com/articles/23/01/04/govee-reveals-ai-driven-tv-sync-box-for-its-smart-lights?utm_medium=rss)
+ - [SEC filing: Amazon secures an $8B loan from DBS Bank, Mizuho Bank, and others, that will mature in 364 days and will be used for &quot;general corporate purposes&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230103/p30#a230103p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
