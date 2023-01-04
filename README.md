@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Dead’s latest reboot already looks more fun than the last one](https://www.polygon.com/23537610/evil-dead-rise-reboot-trailer-release-date-cast)
- - [The Last of Us multiplayer game still on track for 2023 reveal](https://www.polygon.com/23538796/the-last-of-us-multiplayer-tlou-naughty-dog-concept-art-playstation)
- - [Wizards of the Coast reportedly cancels at least 5 video games](https://www.polygon.com/23538612/wizards-coast-dungeons-dragons-video-game-cancellations)<!-- GAME:END -->
+ - [Ryan Reynolds and Rob McElhenney Easter eggs discovered in FIFA 23](https://www.pcgamer.com/ryan-reynolds-and-rob-mcelhenney-easter-eggs-discovered-in-fifa-23)
+ - [Phison has its 14GB/s PCIe 5.0 SSD controller ready but there are no drives in sight](https://www.pcgamer.com/phison-has-its-14gbs-pcie-50-ssd-controller-ready-but-there-are-no-drives-in-sight)
+ - [Elgato Stream Deck +](https://www.pcgamer.com/elgato-stream-deck-plus-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
