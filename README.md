@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ryan Reynolds and Rob McElhenney Easter eggs discovered in FIFA 23](https://www.pcgamer.com/ryan-reynolds-and-rob-mcelhenney-easter-eggs-discovered-in-fifa-23)
- - [Phison has its 14GB/s PCIe 5.0 SSD controller ready but there are no drives in sight](https://www.pcgamer.com/phison-has-its-14gbs-pcie-50-ssd-controller-ready-but-there-are-no-drives-in-sight)
- - [Elgato Stream Deck +](https://www.pcgamer.com/elgato-stream-deck-plus-review)<!-- GAME:END -->
+ - [Google embraces Nvidia GeForce Now with Asus&#39;s latest Chromebook](https://www.pcgamer.com/google-embraces-nvidia-geforce-now-with-asuss-latest-chromebook)
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
+ - [Netflix’s Kaleidoscope has a random order, but there are better paths](https://www.polygon.com/23538715/netflix-kaleidoscope-chronological-best-watch-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
