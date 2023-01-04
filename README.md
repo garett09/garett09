@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity company Rapid7 hires Peiter &quot;Mudge&quot; Zatko, the former Twitter security chief and whistleblower, to advise consulting clients &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230104/p13#a230104p13)
- - [Wedbush lowers AAPL price target, cites uncertain environment](https://appleinsider.com/articles/23/01/04/wedbush-lowers-aapl-price-target-cites-uncertain-environment?utm_medium=rss)
- - [Bonk, a Shiba Inu-themed coin on Solana issued on December 25, has risen 2,220% in the past week and 150% in the past 24 hours, offsetting some of SOL&#39;s decline &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230104/p12#a230104p12)<!-- TECH:END -->
+ - [Drop’s desktop computer speakers are tempting me to ditch the headset](https://www.theverge.com/2023/1/4/23538580/drop-bmr1-nearfield-monitor-desktop-computer-speakers-ces-price)
+ - [The Global X Fintech ETF dropped 52% in 2022, above the broader financial sector&#39;s 12% drop and Nasdaq Composite Index&#39;s 33%, weighed down by interest rates &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/230104/p14#a230104p14)
+ - [This dashcam of your dreams comes with T-Mobile connectivity and AI smarts](https://www.androidauthority.com/nextbase-iq-dashcam-3262328/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
