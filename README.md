@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sound of a child laughing](http://9gag.com/gag/a2KRpK1)
- - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 🚯 [Good.](http://9gag.com/gag/aXnj1KV)<!-- MEMES:END -->
+ - 🚖 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 🚯 [Good.](http://9gag.com/gag/aXnj1KV)
+ - 🚯 [None of us thought about it](http://9gag.com/gag/aNw0beb)<!-- MEMES:END -->
 
 --- 
 
