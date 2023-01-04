@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Federal Reserve, FDIC, and OCC release a joint statement warning banks that issuing or holding crypto is likely inconsistent with safe banking practices &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p33#a230103p33)
- - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)
- - [Twitter says it is relaxing its policy for cause-based ads in the US and plans to expand the political advertising the company permits in the coming weeks &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/230103/p32#a230103p32)<!-- TECH:END -->
+ - [Financial e-commerce and consumer data analytics company GoLogiq agrees to acquire blockchain fintech GammaRey for $320M in an all-stock deal &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/230103/p35#a230103p35)
+ - [Samsung announces brand new Freestyle projector at CES 2023](https://www.androidauthority.com/samsung-freestyle-2023-projector-3262219/)
+ - [Samsung announces the OLED S95C 4K TV, the perfect display for gamers](https://www.androidauthority.com/samsung-announces-oled-s95c-qn95-3262209/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
