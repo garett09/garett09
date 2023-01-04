@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL reveals new range of earbuds and speakers during CES 2023](https://appleinsider.com/articles/23/01/04/jbl-reveals-new-range-of-earbuds-and-speakers-during-ces-2023?utm_medium=rss)
- - [Eve’s newest smart home devices are launching with Matter out of the box](https://www.androidauthority.com/eve-smart-home-matter-devices-3261107/)
- - [The Samsung Galaxy A14 5G has a big screen and a small price](https://www.androidauthority.com/samsung-galaxy-a14-3261830/)<!-- TECH:END -->
+ - [FTX&#39;s collapse has forced the global sports industry to rethink lucrative crypto sponsorship deals, some of which were replacing gambling partners &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/230104/p18#a230104p18)
+ - [Lockly Smart Safe pings your iPhone with tamper alerts](https://appleinsider.com/articles/23/01/04/lockly-smart-safe-pings-your-iphone-with-tamper-alerts?utm_medium=rss)
+ - [Almost 50% off the Asus Chromebook Flip C434, and more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
