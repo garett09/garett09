@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
- - 🚯 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 🚯 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
+ - 🚖 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
+ - 🚯 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)
+ - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 --- 
 
