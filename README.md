@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 564 answer and hint for Wednesday, January 4](https://www.pcgamer.com/wordle-564-answer-january-4)
- - [Tár and Marcel the Shell With Shoes On are basically the exact same movie](https://www.polygon.com/23537592/tar-vs-marcel-the-shell-with-shoes-on-same-movie)
- - [Wizards of the Coast has reportedly canceled at least five videogames in development](https://www.pcgamer.com/wizards-of-the-coast-has-reportedly-canceled-at-least-five-videogames-in-development)<!-- GAME:END -->
+ - [Asus outs absurdly fast 540Hz monitor, potentially pricey 27-inch OLED monitor and more](https://www.pcgamer.com/asus-outs-absurdly-fast-540hz-monitor-potentially-pricey-27-inch-oled-monitor-and-more)
+ - [Elden Ring clinches Steam&#39;s GOTY award in results with only one weird surprise](https://www.pcgamer.com/elden-ring-clinches-steams-goty-award-in-results-with-only-one-weird-surprise)
+ - [Blade Runner 1997 is still the cyberpunk experience to beat](https://www.pcgamer.com/blade-runner-1997-is-still-the-cyberpunk-experience-to-beat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
