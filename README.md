@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)
- - 🚯 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
- - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
+ - 🚖 [`I help you`](http://9gag.com/gag/aZD7533)
+ - 🚯 [You&#39;re Dead](http://9gag.com/gag/aVb0pzv)
+ - 🚯 [The race proceeded, and everything was fine. But still, goddamn. I&#39;ve never seen people being so united in anything](http://9gag.com/gag/aNw070b)<!-- MEMES:END -->
 
 --- 
 
