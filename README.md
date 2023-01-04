@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 OnePlus 11 goes official, Pixel 7a leaks on video, and more](https://www.androidauthority.com/daily-authority-january-4-2023-3262250/)
- - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)
- - [Alogic releases slew of new charging tech at CES 2023](https://appleinsider.com/articles/23/01/04/alogic-releases-slew-of-new-charging-tech-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [A look at three pieces of Indian government legislation planned in 2023 to regulate US tech giants, mixing EU antitrust rules with China-style surveillance &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/230104/p7#a230104p7)
+ - [Wednesday’s top tech news: CES gets smart about peeing](https://www.theverge.com/2023/1/4/23538557/january-4-2023-tech-news-liveblog)
+ - [Twitter users in Australia and New Zealand report the service being down for over 12 hours, starting around 6:40am AEST on January 4 &lpar;Zachariah Kelly/Gizmodo Australia&rpar;](http://www.techmeme.com/230104/p6#a230104p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
