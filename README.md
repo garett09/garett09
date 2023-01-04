@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clue has a new look for a new generation of board game fans — and it goes on sale today](https://www.polygon.com/23537904/clue-board-game-2023-refresh-ryan-reynolds-movie)
- - [Screw dying, says Hideo Kojima, &#39;I&#39;ll probably become an AI and stick around&#39;](https://www.pcgamer.com/screw-dying-says-hideo-kojima-ill-probably-become-an-ai-and-stick-around)
- - [Nvidia RTX 4070 Ti](https://www.pcgamer.com/nvidia-rtx-4070-ti-review-benchmarks-performance)<!-- GAME:END -->
+ - [Who needs RGB inside your PC case when you can project holograms instead?](https://www.pcgamer.com/who-needs-rgb-inside-your-pc-case-when-you-can-project-holograms)
+ - [The trend in 16:10 gaming laptops over CES 2023 shows we&#39;re finally evolving](https://www.pcgamer.com/the-trend-in-1610-gaming-laptops-over-ces-2023-shows-were-finally-evolving)
+ - [Death Stranding 2 is mirroring Metal Gear Solid 2, and going La-li-lu-le-lo](https://www.pcgamer.com/kojception-death-stranding-2-is-mirroring-metal-gear-solid-2-and-going-la-le-lu-li-lo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
