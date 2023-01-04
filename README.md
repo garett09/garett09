@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese regulators approve Ant Group&#39;s plan to raise ~$1.5B for its consumer unit, signaling progress in the firm&#39;s government-ordered overhaul &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230104/p2#a230104p2)
  - [Ampere Analysis: a decade-long original TV show spending boom is expected to slow to a crawl in 2023; streaming services will cut growth from 25% in 2022 to 8% &lpar;Alex Barker/Financial Times&rpar;](http://www.techmeme.com/230104/p1#a230104p1)
- - [Catalyst releases Essential Case for AirPods Pro 2](https://appleinsider.com/articles/23/01/04/catalyst-releases-essential-case-for-airpods-pro-2?utm_medium=rss)
- - [Scosche announces slate of new charging products for 2023](https://appleinsider.com/articles/23/01/04/scosche-announces-slate-of-new-charging-products-for-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Chrysler&#39;s CES Concept Reimagines the Car as an Autonomous AI Assistant     - CNET](https://www.cnet.com/roadshow/news/chryslers-synthesis-ces-concept-autonomous-ai-assistant/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
