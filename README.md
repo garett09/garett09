@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)
- - 🚯 [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)<!-- MEMES:END -->
+ - 🚖 [It&#39;s 2006 saturday morning and your torrent downloaded overnight](http://9gag.com/gag/aGEgWgz)
+ - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
+ - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
 
 --- 
 
