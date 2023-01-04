@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Dash Cam Live announced: Ever wanted a dash cam with LTE?](https://www.androidauthority.com/garmin-dash-cam-live-3262453/)
- - [NFT service Magic Eden, the largest Solana marketplace, blames a hacked image caching service after some users were served porn and TV stills instead of the NFT &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/230104/p20#a230104p20)
- - [If your Internet is good enough, GeForce NOW Ultimate will stream games at 4K and 240 FPS](https://appleinsider.com/articles/23/01/04/nvidia-launches-new-geforce-now-ultimate-tier?utm_medium=rss)<!-- TECH:END -->
+ - [Trova Home personal safe now available to order](https://appleinsider.com/articles/23/01/04/trova-home-personal-safe-now-available-to-order?utm_medium=rss)
+ - [Stellantis will mass-produce Archer’s electric air taxi as part of $150 million deal](https://www.theverge.com/2023/1/4/23538953/stellantis-archer-electric-air-taxi-evtol-midnight-mass-produce-investment)
+ - [Apple Confluence retail store will close until March for renovations](https://appleinsider.com/articles/23/01/04/apple-confluence-retail-store-will-close-until-march-for-renovations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
