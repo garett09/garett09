@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You want these two smartphone camera improvements in 2023](https://www.androidauthority.com/what-want-see-smartphone-cameras-2023-poll-results-3262333/)
- - [Sources: crypto lender Genesis Global laid off 30% of its staff, after cutting 20% of its 260 workforce in 2022, and is considering filing for bankruptcy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230105/p29#a230105p29)
- - [The best Android emulators for PC and Mac of 2023](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)<!-- TECH:END -->
+ - [Alibaba, Tencent, and other Chinese tech giants have struck a truce with the government, accepting lower growth and more controls as China eases its crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230105/p30#a230105p30)
+ - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
+ - [The Pixel’s January software update has broken auto Bluetooth pairing for some](https://www.androidauthority.com/pixel-auto-bluetooth-pairing-3263107/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
