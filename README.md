@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD announces Ryzen 7000 laptop CPUs including the new 7040 series of chips named Phoenix, their first laptop-centric Zen 4 CPUs using TSMC&#39;s 4nm process &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230105/p1#a230105p1)
- - [The US SEC accuses alleged fraudster Neil Chandran and four others of scamming investors for $45M+ on the false promise of selling blockchain technology &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230104/p38#a230104p38)
- - [Sony Unveils Project Leonardo, an Accessibility Controller for PS5     - CNET](https://www.cnet.com/tech/gaming/sony-unveils-project-leonardo-an-accessibility-controller-for-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CircleCI says it&#39;s investigating a &quot;security incident&quot; and &quot;out of an abundance of caution&quot; all customers should &quot;rotate any and all secrets stored in CircleCI&quot; &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230105/p3#a230105p3)
+ - [Asus’ new Xbox controller rocks an OLED display and tri-mode connectivity](https://www.androidauthority.com/asus-rog-raikiri-pro-xbox-controller-3262864/)
+ - [Plex Discover will exit beta in Q1 2023](https://www.androidauthority.com/plex-discover-beta-end-3262866/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
