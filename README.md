@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can literally see her 2 braincells trying to figure that out...](http://9gag.com/gag/ap95yYE)
- - 🚯 [Wish this was fake](http://9gag.com/gag/aQE102d)
+ - 🚖 [Dead on arrival.](http://9gag.com/gag/a9qRo9D)
+ - 🚯 [I&#39;m pretty sure that cats see things that we can not see. This video was taken hours after the dog passed away. They were best friends.](http://9gag.com/gag/a8q5Zgd)
  - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
 
 --- 
