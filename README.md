@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The beauty of Lego’s Dungeons &amp; Dragons set is in the googly eye of the Beholder](https://www.polygon.com/23540538/dnd-lego-ideas-announced-release-date-price-50th-anniversary-set)
- - [Power Your Adventure with the Xbox Series X and Forza Horizon 5 Premium Edition Bundle](https://news.xbox.com/en-us/2023/01/05/xbox-series-x-forza-horizon-5-premium-edition-bundle/)
- - [Guy Allegedly Stole Hundreds Of Thousands From Work And Then Lost It All On GameStop](https://kotaku.com/office-space-gamestop-meme-stock-crime-theft-1849953405)<!-- GAME:END -->
+ - [Shieldmaiden Is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/01/05/shieldmaiden-is-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [The PS5 shortage is over, says PlayStation boss](https://www.polygon.com/23540717/playstation-5-ps5-where-to-buy-shortage-supply)
+ - [How to set up a metal industry in Dwarf Fortress](https://www.polygon.com/guides/23539366/dwarf-fortress-metal-ore-list-bars-alloys-smelting-armor-weapons-uses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
