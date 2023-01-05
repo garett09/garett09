@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would You Sell One of Your Kidneys?](https://www.wired.com/story/kidney-donor-compensation-market/)
- - [Apple Books ditches voice actors for AI narration](https://appleinsider.com/articles/23/01/05/apple-books-ditches-voice-actors-for-ai-narration?utm_medium=rss)
- - [Source: FTX&#39;s former top lawyer Daniel Friedberg has cooperated with US prosecutors, telling them what he knew of SBF and others misusing customer funds &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/230105/p6#a230105p6)<!-- TECH:END -->
+ - [US bank Silvergate, which caters to crypto clients, reports liquidating debt to cover $8.1B in withdrawals as FTX collapsed and laying off 40% of its staff &lpar;David Benoit/Wall Street Journal&rpar;](http://www.techmeme.com/230105/p9#a230105p9)
+ - [How an Iraqi Instagram Influencer Became a People Smuggler](https://www.wired.com/story/how-an-iraqi-instagram-influencer-became-an-unlikely-people-smuggler/)
+ - [Digital Traders Want to Go Fish](https://www.wired.com/story/fishing-online-trading/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
