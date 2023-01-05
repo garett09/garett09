@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 565 answer and hint for Thursday, January 5](https://www.pcgamer.com/wordle-565-answer-january-5)
- - [How the high-end horror movie The Menu connects to Game of Thrones and Succession](https://www.polygon.com/23467161/the-menu-succession-game-of-thrones-director-interview-mark-mylod)
- - [Sony shows off Project Leonardo, its accessibility controller](https://www.pcgamer.com/sony-shows-off-project-leonardo-its-accessibility-controller)<!-- GAME:END -->
+ - [AMD&#39;s new 3D V-Cache CPUs are hella quick but there&#39;s no clear pick for gamers](https://www.pcgamer.com/amds-new-3d-v-cache-cpus-are-hella-quick-but-theres-no-clear-pick-for-gamers)
+ - [&#39;We win… and it&#39;s your fault!&#39;—Dwarf Fortress hits almost half a million sold in under a month](https://www.pcgamer.com/we-win-and-its-your-faultdwarf-fortress-hits-almost-half-a-million-sold-in-under-a-month)
+ - [Where to buy an Nvidia RTX 4070 Ti today: early retailer listings from $840–$1,050](https://www.pcgamer.com/where-to-buy-rtx-4070-ti)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
