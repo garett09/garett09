@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US bank Silvergate, which caters to crypto clients, reports liquidating debt to cover $8.1B in withdrawals as FTX collapsed and laying off 40% of its staff &lpar;David Benoit/Wall Street Journal&rpar;](http://www.techmeme.com/230105/p9#a230105p9)
- - [How an Iraqi Instagram Influencer Became a People Smuggler](https://www.wired.com/story/how-an-iraqi-instagram-influencer-became-an-unlikely-people-smuggler/)
- - [Digital Traders Want to Go Fish](https://www.wired.com/story/fishing-online-trading/)<!-- TECH:END -->
+ - [SECURAM launches smart light and smart dimmer switches](https://appleinsider.com/articles/23/01/05/securam-launches-smart-light-and-smart-dimmer-switches?utm_medium=rss)
+ - [Kensington launches silent mechanical keyboard, ergonomic trackpads](https://appleinsider.com/articles/23/01/05/kensington-launches-silent-mechanical-keyboard-ergonomic-trackpads?utm_medium=rss)
+ - [OWC&#39;s Thunderbolt Go Dock has built-in power supply &amp; 11 ports](https://appleinsider.com/articles/23/01/05/owcs-thunderbolt-go-dock-has-built-in-power-supply-11-ports?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
