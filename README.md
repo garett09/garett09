@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
- - 🚯 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)
- - 🚯 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)<!-- MEMES:END -->
+ - 🚖 [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)
+ - 🚯 [Ahhh!](http://9gag.com/gag/a3ZRXX7)
+ - 🚯 [Dead on arrival.](http://9gag.com/gag/a9qRo9D)<!-- MEMES:END -->
 
 --- 
 
