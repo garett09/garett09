@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CircleCI says it&#39;s investigating a &quot;security incident&quot; and &quot;out of an abundance of caution&quot; all customers should &quot;rotate any and all secrets stored in CircleCI&quot; &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230105/p3#a230105p3)
- - [Asus’ new Xbox controller rocks an OLED display and tri-mode connectivity](https://www.androidauthority.com/asus-rog-raikiri-pro-xbox-controller-3262864/)
- - [Plex Discover will exit beta in Q1 2023](https://www.androidauthority.com/plex-discover-beta-end-3262866/)<!-- TECH:END -->
+ - [Sources: Dell plans to stop using chips made in China by 2024 and tells suppliers to significantly reduce the number of China-made components in its products &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230105/p4#a230105p4)
+ - [CircleCI says it&#39;s investigating &quot;a security incident&quot; and &quot;out of an abundance of caution&quot; all customers should &quot;rotate any and all secrets stored in CircleCI&quot; &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230105/p3#a230105p3)
+ - [Asus’ new Xbox controller rocks an OLED display and tri-mode connectivity](https://www.androidauthority.com/asus-rog-raikiri-pro-xbox-controller-3262864/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
