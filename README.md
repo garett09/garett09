@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SECURAM launches smart light and smart dimmer switches](https://appleinsider.com/articles/23/01/05/securam-launches-smart-light-and-smart-dimmer-switches?utm_medium=rss)
- - [Kensington launches silent mechanical keyboard, ergonomic trackpads](https://appleinsider.com/articles/23/01/05/kensington-launches-silent-mechanical-keyboard-ergonomic-trackpads?utm_medium=rss)
- - [OWC&#39;s Thunderbolt Go Dock has built-in power supply &amp; 11 ports](https://appleinsider.com/articles/23/01/05/owcs-thunderbolt-go-dock-has-built-in-power-supply-11-ports?utm_medium=rss)<!-- TECH:END -->
+ - [Ring Car Cam &amp; new Peephole Cam launch at CES 2023](https://appleinsider.com/articles/23/01/05/ring-car-cam-new-peephole-cam-launch-at-ces-2023?utm_medium=rss)
+ - [AMD trying to take on Apple Silicon with Ryzen 7040](https://appleinsider.com/articles/23/01/05/amd-trying-to-take-on-apple-silicon-with-ryzen-7040?utm_medium=rss)
+ - [Brava announces glass front app-controlled smart oven at CES 2023](https://appleinsider.com/articles/23/01/05/brava-announces-glass-front-app-controlled-smart-oven-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
