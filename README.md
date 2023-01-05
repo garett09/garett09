@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Cricket 22, For the King, and Saints Row](https://news.xbox.com/en-us/2023/01/05/free-play-days-cricket-22-for-the-king-and-saints-row/)
- - [AMD crams 16 Zen 4 cores into gaming laptops with the Ryzen 7045 Series](https://www.pcgamer.com/amd-crams-16-zen-4-cores-into-gaming-laptops-with-the-ryzen-7045-series)
- - [Noctua delays new 140mm fans by nearly a year due to &#39;strict quality standards&#39;](https://www.pcgamer.com/noctua-delays-new-140mm-fans-by-nearly-a-year-due-to-strict-quality-standards)<!-- GAME:END -->
+ - [The beauty of Lego’s Dungeons &amp; Dragons set is in the googly eye of the Beholder](https://www.polygon.com/23540538/dnd-lego-ideas-announced-release-date-price-50th-anniversary-set)
+ - [Power Your Adventure with the Xbox Series X and Forza Horizon 5 Premium Edition Bundle](https://news.xbox.com/en-us/2023/01/05/xbox-series-x-forza-horizon-5-premium-edition-bundle/)
+ - [Guy Allegedly Stole Hundreds Of Thousands From Work And Then Lost It All On GameStop](https://kotaku.com/office-space-gamestop-meme-stock-crime-theft-1849953405)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
