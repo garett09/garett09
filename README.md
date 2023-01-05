@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [This is how I know I&#39;m getting old](http://9gag.com/gag/a3ZRoQN)
- - 🚯 [Let&#39;s not forget this](http://9gag.com/gag/adP5302)<!-- MEMES:END -->
+ - 🚯 [.webp](http://9gag.com/gag/aXnj8X6)
+ - 🚯 [Honest inquiry](http://9gag.com/gag/aDYgB0B)<!-- MEMES:END -->
 
 --- 
 
