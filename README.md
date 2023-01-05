@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never swim in the Great Lakes...](http://9gag.com/gag/anz5pX0)
- - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)
- - 🚯 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
+ - 🚖 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 🚯 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
+ - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 --- 
 
