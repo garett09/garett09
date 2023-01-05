@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC files a limited objection to Binance.US&#39; $1B bid for bankrupt crypto lender Voyager, citing insufficient details on how Binance can afford the deal &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230104/p27#a230104p27)
- - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)
- - [Hyper&#39;s new SSD enclosure &amp; docks are made with recycled material](https://appleinsider.com/articles/23/01/04/hypers-new-ssd-enclosure-docks-are-made-with-recycled-material?utm_medium=rss)<!-- TECH:END -->
+ - [A US judge rules that the crypto deposits in bankrupt crypto lender Celsius Network&#39;s yield-bearing accounts belong to Celsius and not individual holders &lpar;Crystal Kim/Axios&rpar;](http://www.techmeme.com/230104/p29#a230104p29)
+ - [Govee shows off Matter certified M1 light strip at CES 2023](https://appleinsider.com/articles/23/01/04/govee-shows-off-matter-certified-m1-light-strip-at-ces-2023?utm_medium=rss)
+ - [Hands on: Samsung&#39;s impressive new monitors from CES 2023](https://appleinsider.com/articles/23/01/05/hands-on-samsungs-impressive-new-monitors-from-ces-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
