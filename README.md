@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No one reads this anyway](http://9gag.com/gag/aNw0yoG)
- - 🚯 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
- - 🚯 [Can def relate to this lol](http://9gag.com/gag/aRE76rM)<!-- MEMES:END -->
+ - 🚖 [Light sn\u00e4c](http://9gag.com/gag/ay2ojmY)
+ - 🚯 [\u201cDing Jinhao was here\u201d](http://9gag.com/gag/aOx06LN)
+ - 🚯 [Didn\u2019t liam neeson do that in the first Taken](http://9gag.com/gag/a1PR40v)<!-- MEMES:END -->
 
 --- 
 
