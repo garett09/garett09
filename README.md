@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - 🚯 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - 🚯 [Brick laying on top of what? How is it staying put?](http://9gag.com/gag/ajV543g)<!-- MEMES:END -->
+ - 🚖 [No one reads this anyway](http://9gag.com/gag/aNw0yoG)
+ - 🚯 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - 🚯 [Can def relate to this lol](http://9gag.com/gag/aRE76rM)<!-- MEMES:END -->
 
 --- 
 
