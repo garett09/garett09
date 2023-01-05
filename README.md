@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 🚯 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
+ - 🚖 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
+ - 🚯 [That battery pack](http://9gag.com/gag/awZo6nR)
+ - 🚯 [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)<!-- MEMES:END -->
 
 --- 
 
