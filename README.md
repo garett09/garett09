@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacker allegedly leaks a data set containing email addresses of 200M+ Twitter users, apparently a cleaner version of the 400M set circulating in December 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230104/p32#a230104p32)
- - [Project Leonardo is a very different PS5 controller for gamers with disabilities](https://www.androidauthority.com/project-leonardo-3262790/)
- - [Internal email: Fanatics is selling its 60% stake in sports NFT company Candy Digital to an investor group led by Mike Novogratz&#39;s Galaxy Digital &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/230104/p31#a230104p31)<!-- TECH:END -->
+ - [CES 2023 Live Blog: Samsung, Sony, LG, TCL, AMD and Nvidia&#39;s Biggest Reveals     - CNET](https://www.cnet.com/tech/ces-2023-live-blog-samsung-sony-lg-tcl-and-nvidias-biggest-reveals/#ftag=CAD590a51e)
+ - [Apple quietly launches a catalogue of books narrated by AI on its Books app, in a move that publishers, authors, and agents say could upend the audiobook market &lpar;Leyland Cecco/The Guardian&rpar;](http://www.techmeme.com/230104/p35#a230104p35)
+ - [Acer Adds More OLED Laptops With New Swift Go and Swift X     - CNET](https://www.cnet.com/tech/computing/acer-adds-more-oled-laptops-with-new-swift-go-and-swift-x/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
