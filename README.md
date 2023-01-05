@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku Cracks 70 Million Active Accounts     - CNET](https://www.cnet.com/tech/services-and-software/roku-cracks-70-million-active-accounts/#ftag=CAD590a51e)
- - [OWC&#39;s Thunderbolt Go Dock has built-in power supply &amp; 11 ports](https://appleinsider.com/articles/23/01/05/owcs-thunderbolt-go-dock-has-built-in-power-supply-11-ports?utm_medium=rss)
- - [Snag a Grade A Refurbished 2022 iPhone SE for As Low As $300     - CNET](https://www.cnet.com/deals/snag-a-grade-a-refurbished-2022-iphone-se-for-as-low-as-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Twinkly Entertainment Hub will sync LED lights with videos](https://appleinsider.com/articles/23/01/05/new-twinkly-entertainment-hub-will-sync-led-lights-with-videos?utm_medium=rss)
+ - [Weak November iPhone shipments not a big deal in the long run, says UBS](https://appleinsider.com/articles/23/01/05/weak-november-iphone-shipments-not-a-big-deal-in-the-long-run-says-ubs?utm_medium=rss)
+ - [IOGEAR announces new 4K multi-device keyboard &amp; monitor switch](https://appleinsider.com/articles/23/01/05/iogear-announces-new-4k-multi-device-keyboard-monitor-switch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
