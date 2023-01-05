@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter laid off ~40 data scientists and engineers working on ad optimization, as it targets the ads products and other areas considered to be failing &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230105/p26#a230105p26)
- - [Aqara debuts HomeKit Secure Video doorbell and deadbolt lock](https://appleinsider.com/articles/23/01/05/aqara-debuts-homekit-secure-video-doorbell-and-deadbolt-lock?utm_medium=rss)
- - [The Best Movies You Missed in 2022—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-2022/)<!-- TECH:END -->
+ - [Turla, a Russian Espionage Group, Piggybacked on Other Hackers&#39; USB Infections](https://www.wired.com/story/russia-turla-fsb-usb-infection/)
+ - [Motorola could beat rivals to the punch with two-way satellite messaging](https://www.androidauthority.com/motorola-bullitt-two-way-satellite-messaging-3262384/)
+ - [Snapdragon Satellite for Android is Qualcomm’s answer to Apple’s Emergency SOS](https://www.androidauthority.com/qualcomm-snapdragon-satellite-3262887/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
