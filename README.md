@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [.webp](http://9gag.com/gag/aXnj8X6)
- - 🚯 [Honest inquiry](http://9gag.com/gag/aDYgB0B)<!-- MEMES:END -->
+ - 🚖 [A life hacks that every burglar should know](http://9gag.com/gag/anz5ArL)
+ - 🚯 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
+ - 🚯 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)<!-- MEMES:END -->
 
 --- 
 
