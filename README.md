@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Light sn\u00e4c](http://9gag.com/gag/ay2ojmY)
- - 🚯 [\u201cDing Jinhao was here\u201d](http://9gag.com/gag/aOx06LN)
- - 🚯 [Didn\u2019t liam neeson do that in the first Taken](http://9gag.com/gag/a1PR40v)<!-- MEMES:END -->
+ - 🚖 [You can literally see her 2 braincells trying to figure that out...](http://9gag.com/gag/ap95yYE)
+ - 🚯 [Wish this was fake](http://9gag.com/gag/aQE102d)
+ - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
 
 --- 
 
