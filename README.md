@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take High on Life, Forza Horizon 5, and More on the Go with Xbox Cloud Gaming for the New Razer Edge](https://news.xbox.com/en-us/2023/01/05/razer-edge-pre-order-xbox-cloud-gaming/)
- - [Sim Wong Hoo, founder of Sound Blaster maker Creative Labs, has died](https://www.pcgamer.com/sim-wong-hoo-founder-of-sound-blaster-maker-creative-labs-has-died)
- - [The PS5 Is Getting An Ultra Customizable Controller That Lets New Fans Play](https://kotaku.com/ps5-project-leonardo-accessibility-controller-1849954609)<!-- GAME:END -->
+ - [College student made app that exposes AI-written essays](https://www.polygon.com/23540714/chatgpt-plagiarism-app-gptzero-artifical-intelligence-ai)
+ - [PS2 Emulator Development Ceases Following Death Threats](https://kotaku.com/ps2-emulator-android-aethersx2-developer-death-threats-1849955012)
+ - [How to get into Destiny 2](https://www.polygon.com/destiny-2-witch-queen-guide/23392341/beginners-guide-starting-tips-lightfall-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
