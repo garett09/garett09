@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer min-maxes its RTX 40-series gaming laptop lineup](https://www.pcgamer.com/razer-min-maxes-its-rtx-40-series-gaming-laptop-lineup)
- - [Controversial Marvel Snap Card Getting Nerfed, With More Tweaks Coming Later](https://kotaku.com/marvel-snap-leader-nerf-change-leaked-patch-notes-2023-1849954315)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Take High on Life, Forza Horizon 5, and More on the Go with Xbox Cloud Gaming for the New Razer Edge](https://news.xbox.com/en-us/2023/01/05/razer-edge-pre-order-xbox-cloud-gaming/)
+ - [Sim Wong Hoo, founder of Sound Blaster maker Creative Labs, has died](https://www.pcgamer.com/sim-wong-hoo-founder-of-sound-blaster-maker-creative-labs-has-died)
+ - [The PS5 Is Getting An Ultra Customizable Controller That Lets New Fans Play](https://kotaku.com/ps5-project-leonardo-accessibility-controller-1849954609)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
