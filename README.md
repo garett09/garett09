@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game companies post absurdly broad salary ranges to &#39;comply&#39; with new pay transparency laws](https://www.pcgamer.com/game-companies-post-absurdly-broad-salary-ranges-to-comply-with-new-transparency-laws)
- - [You’re telling me Emily hasn’t been in Paris for a year yet?](https://www.polygon.com/23540603/emily-paris-season-3)
- - [Crappy Mobile Games Accidentally Led To The Best Version Of Vampire Survivors](https://kotaku.com/vampire-survivors-free-iphone-steam-mobile-smartphone-1849955308)<!-- GAME:END -->
+ - [D&amp;D’s stricter licensing rules might impact some beloved RPGs](https://www.polygon.com/23540640/dnd-ogl-1-1-leak-dungeons-dragons-pathfinder-2e-wotc-hasbro)
+ - [Overwatch 2 introduces chaotic new deathmatch mode and equally chaotic bugs](https://www.pcgamer.com/overwatch-2-introduces-chaotic-new-deathmatch-mode-and-equally-chaotic-bugs)
+ - [‘The hardest part was the poop’: An oral history of Babylon’s explosive elephant opening](https://www.polygon.com/23522938/babylon-elephant-poop-scene-damien-chazelle-oral-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
