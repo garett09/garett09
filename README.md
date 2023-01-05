@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)
- - 🚯 [Ahhh!](http://9gag.com/gag/a3ZRXX7)
- - 🚯 [Dead on arrival.](http://9gag.com/gag/a9qRo9D)<!-- MEMES:END -->
+ - 🚖 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
+ - 🚯 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)
+ - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
 
 --- 
 
