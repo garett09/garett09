@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Twinkly Entertainment Hub will sync LED lights with videos](https://appleinsider.com/articles/23/01/05/new-twinkly-entertainment-hub-will-sync-led-lights-with-videos?utm_medium=rss)
- - [Weak November iPhone shipments not a big deal in the long run, says UBS](https://appleinsider.com/articles/23/01/05/weak-november-iphone-shipments-not-a-big-deal-in-the-long-run-says-ubs?utm_medium=rss)
- - [IOGEAR announces new 4K multi-device keyboard &amp; monitor switch](https://appleinsider.com/articles/23/01/05/iogear-announces-new-4k-multi-device-keyboard-monitor-switch?utm_medium=rss)<!-- TECH:END -->
+ - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)
+ - [Amazon will add Matter over Thread support to Echo and eero](https://appleinsider.com/articles/23/01/05/amazon-will-add-matter-over-thread-support-to-echo-and-eero?utm_medium=rss)
+ - [Lenovo ThinkPhone hands-on: The business phone you might actually buy](https://www.androidauthority.com/lenovo-thinkphone-hands-on-3262084/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
