@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s 2006 saturday morning and your torrent downloaded overnight](http://9gag.com/gag/aGEgWgz)
+ - 🚖 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
  - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
+ - 🚯 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
 
 --- 
 
