@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules that the crypto deposits in bankrupt crypto lender Celsius Network&#39;s yield-bearing accounts belong to Celsius and not individual holders &lpar;Crystal Kim/Axios&rpar;](http://www.techmeme.com/230104/p29#a230104p29)
- - [Govee shows off Matter certified M1 light strip at CES 2023](https://appleinsider.com/articles/23/01/04/govee-shows-off-matter-certified-m1-light-strip-at-ces-2023?utm_medium=rss)
- - [Hands on: Samsung&#39;s impressive new monitors from CES 2023](https://appleinsider.com/articles/23/01/05/hands-on-samsungs-impressive-new-monitors-from-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Sony Releases Its First Accessible Controller](https://www.wired.com/story/sony-releases-first-accessible-controller-project-leonardo/)
+ - [New Panasonic LUMIX S5II cameras are great for livestreamers](https://appleinsider.com/articles/23/01/04/new-panasonic-lumix-s5ii-cameras-are-great-for-livestreamers?utm_medium=rss)
+ - [Amazon’s confirms its massive layoffs will affect 18,000 employees](https://www.theverge.com/2023/1/4/23539737/amazon-layoffs-thousands-17000)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
