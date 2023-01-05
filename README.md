@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 🚯 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
- - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
+ - 🚖 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
+ - 🚯 [You can literally see her 2 braincells trying to figure that out...](http://9gag.com/gag/ap95yYE)
+ - 🚯 [Sorry for the long potato. Here&#39;s a post.](http://9gag.com/gag/a2KRQ5Y)<!-- MEMES:END -->
 
 --- 
 
