@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Releases Its First Accessible Controller](https://www.wired.com/story/sony-releases-first-accessible-controller-project-leonardo/)
- - [New Panasonic LUMIX S5II cameras are great for livestreamers](https://appleinsider.com/articles/23/01/04/new-panasonic-lumix-s5ii-cameras-are-great-for-livestreamers?utm_medium=rss)
- - [Amazon’s confirms its massive layoffs will affect 18,000 employees](https://www.theverge.com/2023/1/4/23539737/amazon-layoffs-thousands-17000)<!-- TECH:END -->
+ - [A hacker allegedly leaks a data set containing email addresses of 200M+ Twitter users, apparently a cleaner version of the 400M set circulating in December 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230104/p32#a230104p32)
+ - [Project Leonardo is a very different PS5 controller for gamers with disabilities](https://www.androidauthority.com/project-leonardo-3262790/)
+ - [Internal email: Fanatics is selling its 60% stake in sports NFT company Candy Digital to an investor group led by Mike Novogratz&#39;s Galaxy Digital &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/230104/p31#a230104p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
