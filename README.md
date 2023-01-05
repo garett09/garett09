@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [Driver randomly stops in intersection.](http://9gag.com/gag/ay2ogB8)
- - 🚯 [Bad lip reading AOC](http://9gag.com/gag/adP5Z6B)<!-- MEMES:END -->
+ - 🚖 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
+ - 🚯 [This is probably the only solution at the moment](http://9gag.com/gag/aPgRKjn)
+ - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
 --- 
 
