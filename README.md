@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
- - 🚯 [This is probably the only solution at the moment](http://9gag.com/gag/aPgRKjn)
- - 🚯 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
+ - 🚖 [Never swim in the Great Lakes...](http://9gag.com/gag/anz5pX0)
+ - 🚯 [`I help you`](http://9gag.com/gag/aZD7533)
+ - 🚯 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
 
 --- 
 
