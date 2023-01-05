@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi Thunderbolt 4 Slim Hub review: Portable, speedy, and flexible](https://appleinsider.com/articles/23/01/05/satechi-thunderbolt-4-slim-hub-review-portable-speedy-and-flexible?utm_medium=rss)
- - [CES 2023 Android announcements: New Android Auto is here for all, more](https://www.androidauthority.com/android-ces-2023-3262767/)
- - [Razer reveals the release date for the Razer Edge and Razer Edge 5G](https://www.androidauthority.com/razor-edge-release-date-3262459/)<!-- TECH:END -->
+ - [Source: Twitter laid off ~40 data scientists and engineers working on ad optimization, as it targets the ads products and other areas considered to be failing &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230105/p26#a230105p26)
+ - [Aqara debuts HomeKit Secure Video doorbell and deadbolt lock](https://appleinsider.com/articles/23/01/05/aqara-debuts-homekit-secure-video-doorbell-and-deadbolt-lock?utm_medium=rss)
+ - [The Best Movies You Missed in 2022—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
