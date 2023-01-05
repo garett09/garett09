@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - 🚯 [But can you moo?](http://9gag.com/gag/amA5jQy)
- - 🚯 [Sorry for the long potato. Here&#39;s a post.](http://9gag.com/gag/a2KRQ5Y)<!-- MEMES:END -->
+ - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 🚯 [This is how I know I&#39;m getting old](http://9gag.com/gag/a3ZRoQN)
+ - 🚯 [Let&#39;s not forget this](http://9gag.com/gag/adP5302)<!-- MEMES:END -->
 
 --- 
 
