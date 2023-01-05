@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s stricter licensing rules might impact some beloved RPGs](https://www.polygon.com/23540640/dnd-ogl-1-1-leak-dungeons-dragons-pathfinder-2e-wotc-hasbro)
- - [Overwatch 2 introduces chaotic new deathmatch mode and equally chaotic bugs](https://www.pcgamer.com/overwatch-2-introduces-chaotic-new-deathmatch-mode-and-equally-chaotic-bugs)
- - [‘The hardest part was the poop’: An oral history of Babylon’s explosive elephant opening](https://www.polygon.com/23522938/babylon-elephant-poop-scene-damien-chazelle-oral-history)<!-- GAME:END -->
+ - [After &#39;Retiring,&#39; Vince McMahon Wants Back In WWE](https://kotaku.com/vince-mcmahon-wwe-wrestling-return-retirement-raw-1849956387)
+ - [Bloober on Silent Hill 2 remake: &#39;We want to stick close to the original&#39;](https://www.pcgamer.com/bloober-on-silent-hill-2-remake-we-want-to-stick-close-to-the-original)
+ - [2022 was the year the dam broke on major videogame unions](https://www.pcgamer.com/2022-was-the-year-the-dam-broke-on-major-videogame-unions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
