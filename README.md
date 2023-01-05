@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring Car Cam &amp; new Peephole Cam launch at CES 2023](https://appleinsider.com/articles/23/01/05/ring-car-cam-new-peephole-cam-launch-at-ces-2023?utm_medium=rss)
- - [AMD trying to take on Apple Silicon with Ryzen 7040](https://appleinsider.com/articles/23/01/05/amd-trying-to-take-on-apple-silicon-with-ryzen-7040?utm_medium=rss)
- - [Brava announces glass front app-controlled smart oven at CES 2023](https://appleinsider.com/articles/23/01/05/brava-announces-glass-front-app-controlled-smart-oven-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Roku Cracks 70 Million Active Accounts     - CNET](https://www.cnet.com/tech/services-and-software/roku-cracks-70-million-active-accounts/#ftag=CAD590a51e)
+ - [OWC&#39;s Thunderbolt Go Dock has built-in power supply &amp; 11 ports](https://appleinsider.com/articles/23/01/05/owcs-thunderbolt-go-dock-has-built-in-power-supply-11-ports?utm_medium=rss)
+ - [Snag a Grade A Refurbished 2022 iPhone SE for As Low As $300     - CNET](https://www.cnet.com/deals/snag-a-grade-a-refurbished-2022-iphone-se-for-as-low-as-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
