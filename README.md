@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)
- - [Amazon will add Matter over Thread support to Echo and eero](https://appleinsider.com/articles/23/01/05/amazon-will-add-matter-over-thread-support-to-echo-and-eero?utm_medium=rss)
- - [Lenovo ThinkPhone hands-on: The business phone you might actually buy](https://www.androidauthority.com/lenovo-thinkphone-hands-on-3262084/)<!-- TECH:END -->
+ - [Satechi Thunderbolt 4 Slim Hub review: Portable, speedy, and flexible](https://appleinsider.com/articles/23/01/05/satechi-thunderbolt-4-slim-hub-review-portable-speedy-and-flexible?utm_medium=rss)
+ - [CES 2023 Android announcements: New Android Auto is here for all, more](https://www.androidauthority.com/android-ces-2023-3262767/)
+ - [Razer reveals the release date for the Razer Edge and Razer Edge 5G](https://www.androidauthority.com/razor-edge-release-date-3262459/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
