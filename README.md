@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 🚯 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)
- - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
+ - 🚖 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)
+ - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
+ - 🚯 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
 
 --- 
 
