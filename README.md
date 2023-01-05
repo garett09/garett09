@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turla, a Russian Espionage Group, Piggybacked on Other Hackers&#39; USB Infections](https://www.wired.com/story/russia-turla-fsb-usb-infection/)
- - [Motorola could beat rivals to the punch with two-way satellite messaging](https://www.androidauthority.com/motorola-bullitt-two-way-satellite-messaging-3262384/)
- - [Snapdragon Satellite for Android is Qualcomm’s answer to Apple’s Emergency SOS](https://www.androidauthority.com/qualcomm-snapdragon-satellite-3262887/)<!-- TECH:END -->
+ - [You told us: You want these two smartphone camera improvements in 2023](https://www.androidauthority.com/what-want-see-smartphone-cameras-2023-poll-results-3262333/)
+ - [Sources: crypto lender Genesis Global laid off 30% of its staff, after cutting 20% of its 260 workforce in 2022, and is considering filing for bankruptcy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230105/p29#a230105p29)
+ - [The best Android emulators for PC and Mac of 2023](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
