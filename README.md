@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)
- - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - 🚯 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
+ - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 🚯 [Driver randomly stops in intersection.](http://9gag.com/gag/ay2ogB8)
+ - 🚯 [Bad lip reading AOC](http://9gag.com/gag/adP5Z6B)<!-- MEMES:END -->
 
 --- 
 
