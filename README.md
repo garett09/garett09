@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - 🚯 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
+ - 🚖 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - 🚯 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
  - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
 
 --- 
