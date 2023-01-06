@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)
- - 🚯 [Shaq On Yao Ming](http://9gag.com/gag/aA0eYKR)
- - 🚯 [Uncle seggs-pert](http://9gag.com/gag/aqenmQp)<!-- MEMES:END -->
+ - 🚖 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)
+ - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
 
 --- 
 
