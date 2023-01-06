@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - 🚯 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
- - 🚯 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)<!-- MEMES:END -->
+ - 🚖 [How I met your mother](http://9gag.com/gag/aA0gn8p)
+ - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
+ - 🚯 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
 
 --- 
 
