@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Are Some Of The Best Warzone 2.0 Loadouts Right Now](https://kotaku.com/warzone-2-call-of-duty-mw2-best-loadout-taq-fennec-1849960855)
- - [LG&#39;s beautiful 97-inch OLED TV wants you to ditch those ugly cables](https://www.pcgamer.com/lgs-beautiful-97-inch-oled-tv-wants-you-to-ditch-those-ugly-cables)
- - [AI-Controlled VTuber Streams Games On Twitch, Denies Holocaust](https://kotaku.com/vtuber-twitch-holocaust-denial-minecraft-ai-chatgpt-1849960527)<!-- GAME:END -->
+ - [The Menu, Puss in Boots: The Last Wish, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/6/23537685/new-movies-watch-menu-hbo-max-netflix-pale-blue-eye-puss-in-boots-2)
+ - [Does M3GAN have a post-credits scene?](https://www.polygon.com/23543047/m3gan-post-credits-scene-megan-sequel-ending-explained)
+ - [Pokémon anime will end Ash’s journey with a reunion of old pals](https://www.polygon.com/23542929/pokemon-anime-ash-leaving-brock-misty-reunion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
