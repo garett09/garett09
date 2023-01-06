@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook and NVCA: US VC deal count fell 14% YoY in 2022 from 18,521 to 15,852, deal value fell 30% to $238.3B, and exit value dropped from $753.2B to $71.4B &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230106/p11#a230106p11)
- - [Apple TV+ is expanding its European production teams](https://appleinsider.com/articles/23/01/06/apple-tv-is-expanding-its-european-production-teams?utm_medium=rss)
- - [iPhone SE 4 allegedly canceled, perhaps over Apple&#39;s 5G modem failures](https://appleinsider.com/articles/23/01/06/iphone-se-4-allegedly-canceled-over-apples-5g-modem-failures?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter Promised Them Severance. They Got Nothing](https://www.wired.com/story/twitter-employees-severance/)
+ - [Dridex banking malware modified to spread using macOS](https://appleinsider.com/articles/23/01/06/dridex-banking-malware-modified-to-spread-using-macos?utm_medium=rss)
+ - [Kuo: Apple canceled its fourth gen iPhone SE, in which it planned to debut its own 5G modem; the cancelation could be due to poor sales of mid-to-low-end phones &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230106/p12#a230106p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
