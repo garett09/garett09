@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 🚯 [Men are simple creatures](http://9gag.com/gag/avQz2oX)
- - 🚯 [I bet Shutterstock and other stock websites love this](http://9gag.com/gag/aVbwjEw)<!-- MEMES:END -->
+ - 🚖 [Dads are Best Moms](http://9gag.com/gag/aRE7g7Q)
+ - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)
+ - 🚯 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)<!-- MEMES:END -->
 
 --- 
 
