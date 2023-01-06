@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards of the Coast reportedly cancels at least 5 video games](https://www.polygon.com/23538612/wizards-coast-dungeons-dragons-video-game-cancellations)
- - [Next Week on Xbox: New Games for January 9 to 13](https://news.xbox.com/en-us/2023/01/06/next-week-on-xbox-new-games-for-january-9-to-13/)
- - [The Best First-Person Shooters You Can Play In 2023](https://kotaku.com/best-shooters-fps-2013-ps5-xbox-pc-switch-free-ios-1849949369)<!-- GAME:END -->
+ - [Indie highlights coming to PS4 &amp; PS5 in January 2023](https://blog.playstation.com/2023/01/06/indie-highlights-coming-to-ps4-ps5-in-january-2023/)
+ - [Indie highlights coming to PS4 &amp; PS5 in January 2023](https://blog.playstation.com/2023/01/06/indie-highlights-coming-to-ps4-ps5-in-january-2023/)
+ - [Marvel Snap’s powerful Leader gets a nerf, with more on the way](https://www.polygon.com/23542287/marvel-snap-leader-nerf-card-patch-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
