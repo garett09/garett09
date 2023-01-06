@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus might skip the OnePlus 11 Pro this year](https://www.androidauthority.com/oneplus-11-pro-skip-3263092/)
  - [Stellantis announces Mobilisights, a business unit focused on selling software using connected vehicle data to enterprises, utilities, and other organizations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230106/p1#a230106p1)
- - [Samsung projects lowest profits in 8 years owing to weak smartphone demand](https://www.androidauthority.com/samsung-q4-2022-profit-decline-3263536/)
- - [Ram 1500 Revolution BEV Concept Charges Into the Future     - CNET](https://www.cnet.com/roadshow/pictures/ram-1500-revolution-bev-concept-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares     - CNET](https://www.cnet.com/tech/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
