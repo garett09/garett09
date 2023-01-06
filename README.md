@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - 🚯 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
- - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
+ - 🚖 [Men are simple creatures](http://9gag.com/gag/avQz2oX)
+ - 🚯 [1997 was truly a great year for music. every genre was awesome!](http://9gag.com/gag/aeQDNZp)
+ - 🚯 [The simplest creatures in the world.](http://9gag.com/gag/awZB06D)<!-- MEMES:END -->
 
 --- 
 
