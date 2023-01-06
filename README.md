@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: due to development issues, Apple is &quot;more likely&quot; to debut its mixed-reality headset in the spring or at WWDC than in January as previously predicted &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/230106/p3#a230106p3)
- - [Smart Home, Health Tech, and Everything Else We Saw at CES](https://www.wired.com/story/gadget-lab-podcast-580/)
- - [The Best of CES 2023: Cars, PCs, Hearing Aids, and Wireless TVs](https://www.wired.com/gallery/best-of-ces-2023/)<!-- TECH:END -->
+ - [Crypto exchange Huobi plans to lay off 20% of its ~1,100 staff, citing the &quot;bear market&quot;; CoinGecko: Huobi had the 8th largest exchange volume in November 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/230106/p5#a230106p5)
+ - [iLive 3-in-1 Wireless Charging Stand review: A quirky travel charger](https://appleinsider.com/articles/23/01/06/ilive-3-in-1-wireless-charging-stand-review-a-quirky-travel-charger?utm_medium=rss)
+ - [Salesforce&#39;s layoffs hit Tableau, acquired for $15.7B in 2019, harder than other divisions, after CEO Mark Nelson was ousted in late December 2022 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230106/p4#a230106p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
