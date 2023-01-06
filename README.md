@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus might skip the OnePlus 11 Pro this year](https://www.androidauthority.com/oneplus-11-pro-skip-3263092/)
- - [Stellantis announces Mobilisights, a business unit focused on selling software using connected vehicle data to enterprises, utilities, and other organizations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230106/p1#a230106p1)
- - [CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares     - CNET](https://www.cnet.com/tech/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s huge Vegas billboard tells Apple to stop dropping the ball](https://www.androidauthority.com/google-billboard-apple-iphone-android-imessage-rcs-3263568/)
+ - [&#39;The Last of Us&#39; HBO Adaptation Goes Way Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-goes-way-beyond-the-playstation-game/#ftag=CAD590a51e)
+ - [OnePlus might skip the OnePlus 11 Pro this year](https://www.androidauthority.com/oneplus-11-pro-skip-3263092/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
