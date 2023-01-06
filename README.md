@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 566 answer and hint for Friday, January 6](https://www.pcgamer.com/wordle-566-answer-january-6)
- - [The Duke Nukem Forever leaker just dropped the source code for another beloved &#39;90s FPS](https://www.pcgamer.com/the-duke-nukem-forever-leaker-just-dropped-the-source-code-for-another-beloved-90s-fps)
- - [Oops: Microsoft Called FTC Unconstitutional, Regrets The Error](https://kotaku.com/microsoft-activision-xbox-ftc-lawsuit-unconstitutional-1849956418)<!-- GAME:END -->
+ - [All Genshin Impact codes from the version 3.4 livestream](https://www.pcgamer.com/genshin-impact-codes-3-4-livestream)
+ - [Asus heard you like OLED so it slapped one on an Xbox controller](https://www.pcgamer.com/asus-heard-you-like-oled-so-it-slapped-one-on-an-xbox-controller)
+ - [What if Tim Burton was a game developer? Dark adventure Children of Silentown answers the question](https://www.pcgamer.com/what-if-tim-burton-was-a-game-developer-dark-adventure-children-of-silentown-answers-the-question)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
