@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I met your mother](http://9gag.com/gag/aA0gn8p)
- - 🚯 [Lol](http://9gag.com/gag/aXngEnv)
- - 🚯 [Day off. It&#39;s raining. No chores to do. Finally starting this game.](http://9gag.com/gag/aXngEyD)<!-- MEMES:END -->
+ - 🚖 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
+ - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
+ - 🚯 [Yes, she is a real lecturer from Faculty of Economics and Administrative Sciences, Adnan Menderes University, Turkey. IG: @fidannatalay](http://9gag.com/gag/a5XWeBE)<!-- MEMES:END -->
 
 --- 
 
