@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [Now you know your shit](http://9gag.com/gag/a8qGLLY)
- - 🚯 [Don&#39;t let go](http://9gag.com/gag/aKE7wBW)<!-- MEMES:END -->
+ - 🚖 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
+ - 🚯 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
+ - 🚯 [Oh shit.](http://9gag.com/gag/ap95OOE)<!-- MEMES:END -->
 
 --- 
 
