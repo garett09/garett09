@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
- - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
- - 🚯 [Yes, she is a real lecturer from Faculty of Economics and Administrative Sciences, Adnan Menderes University, Turkey. IG: @fidannatalay](http://9gag.com/gag/a5XWeBE)<!-- MEMES:END -->
+ - 🚖 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
+ - 🚯 [Men are simple creatures](http://9gag.com/gag/avQz2oX)
+ - 🚯 [I bet Shutterstock and other stock websites love this](http://9gag.com/gag/aVbwjEw)<!-- MEMES:END -->
 
 --- 
 
