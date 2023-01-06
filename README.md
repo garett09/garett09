@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Irish DPC&#39;s &amp;euro;390M Meta fine, issued at the behest of European Data Protection Board, is a harbinger of how EU may crack down on Big Tech in the next two years &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230106/p14#a230106p14)
- - [Best TV for 2023: Samsung, TCL, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Why This Decked-Out Smart Mixer is Actually a Big Deal     - CNET](https://www.cnet.com/news/why-this-decked-out-smart-mixer-is-actually-a-big-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Twitter staff in the US and other countries laid off by Elon Musk in November say they had not received information about the severance they were promised &lpar;Wired&rpar;](http://www.techmeme.com/230106/p15#a230106p15)
+ - [Sun Unleashes Powerful X-Class Solar Flare With More Expected     - CNET](https://www.cnet.com/science/space/sun-unleashes-powerful-x-class-solar-flare-with-more-expected/#ftag=CAD590a51e)
+ - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
