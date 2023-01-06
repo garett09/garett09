@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 3.4 livestream](https://www.pcgamer.com/genshin-impact-codes-3-4-livestream)
- - [Asus heard you like OLED so it slapped one on an Xbox controller](https://www.pcgamer.com/asus-heard-you-like-oled-so-it-slapped-one-on-an-xbox-controller)
- - [What if Tim Burton was a game developer? Dark adventure Children of Silentown answers the question](https://www.pcgamer.com/what-if-tim-burton-was-a-game-developer-dark-adventure-children-of-silentown-answers-the-question)<!-- GAME:END -->
+ - [M3GAN is gleeful, unhinged fun — but it’s smarter than it looks](https://www.polygon.com/23540740/m3gan-movie-review-release-date-cast)
+ - [Microsoft realises criticising the FTC&#39;s constitutionality was dumb and offers a forelock-tugging retraction](https://www.pcgamer.com/microsoft-realises-criticising-the-ftcs-constitutionality-was-dumb-and-offers-a-forelock-tugging-retraction)
+ - [Three months after release and with no players, Let It Die&#39;s sequel is being mothballed](https://www.pcgamer.com/three-months-after-release-and-with-no-players-let-it-dies-sequel-is-being-mothballed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
