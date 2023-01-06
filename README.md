@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Version 3.4 lets players venture into Sumeru, the Desert of Hadramaveth](https://blog.playstation.com/2023/01/06/genshin-impact-version-3-4-lets-players-venture-into-sumeru-the-desert-of-hadramaveth/)
- - [Amazon Prime’s free games for January: The Evil Within 2, Lawn Mowing Simulator](https://www.polygon.com/23542119/amazon-prime-gaming-free-games-january-2023)
- - [Guilty Gear Strive streamers are being hammered by hackers](https://www.pcgamer.com/guilty-gear-strive-streamers-are-being-hammered-by-hackers)<!-- GAME:END -->
+ - [Wizards of the Coast reportedly cancels at least 5 video games](https://www.polygon.com/23538612/wizards-coast-dungeons-dragons-video-game-cancellations)
+ - [Next Week on Xbox: New Games for January 9 to 13](https://news.xbox.com/en-us/2023/01/06/next-week-on-xbox-new-games-for-january-9-to-13/)
+ - [The Best First-Person Shooters You Can Play In 2023](https://kotaku.com/best-shooters-fps-2013-ps5-xbox-pc-switch-free-ios-1849949369)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
