@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - 🚯 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - 🚯 [Oh shit.](http://9gag.com/gag/ap95OOE)<!-- MEMES:END -->
+ - 🚖 [I bet Shutterstock and other stock websites love this](http://9gag.com/gag/aVbwjEw)
+ - 🚯 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
+ - 🚯 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)<!-- MEMES:END -->
 
 --- 
 
