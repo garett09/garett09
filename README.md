@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
- - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)
- - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
+ - 🚖 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
+ - 🚯 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)<!-- MEMES:END -->
 
 --- 
 
