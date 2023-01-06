@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo 3&#39;s Holy Grail, the &#39;Pimps at Sea&#39; build, has leaked](https://www.pcgamer.com/halo-3s-holy-grail-the-pimps-at-sea-build-has-leaked)
- - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
- - [James Cameron forced to finish Avatar 3 after making too much money](https://www.polygon.com/23542684/avatar-3-release-date-story-james-cameron-sequels-fire-navi)<!-- GAME:END -->
+ - [People can’t stop thirsting over the new Clue characters](https://www.polygon.com/23542567/new-clue-chef-white-hot-online)
+ - [Netflix’s Christian Bale horror mystery The Pale Blue Eye is at its best when it gets pulpy](https://www.polygon.com/reviews/23540723/the-pale-blue-eye-netflix-review-christian-bale)
+ - [Halo 3&#39;s Holy Grail, the &#39;Pimps at Sea&#39; build, has leaked](https://www.pcgamer.com/halo-3s-holy-grail-the-pimps-at-sea-build-has-leaked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
