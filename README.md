@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a device that will let you smell anime](https://www.pcgamer.com/finally-a-device-that-will-let-you-smell-anime)
- - [Let’s Kill High On Life’s Most Annoying Boss](https://kotaku.com/high-on-life-nipulon-boss-fight-beat-game-pass-1849959194)
- - [Trigun Stampede’s Pilot Episode Puts Any Gripes Over CGI Anime To Rest](https://kotaku.com/trigun-stampede-remake-anime-crunchyroll-review-cgi-1849959172)<!-- GAME:END -->
+ - [Halo 3&#39;s Holy Grail, the &#39;Pimps at Sea&#39; build, has leaked](https://www.pcgamer.com/halo-3s-holy-grail-the-pimps-at-sea-build-has-leaked)
+ - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
+ - [James Cameron forced to finish Avatar 3 after making too much money](https://www.polygon.com/23542684/avatar-3-release-date-story-james-cameron-sequels-fire-navi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
