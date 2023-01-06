@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)
- - 🚯 [Why?!](http://9gag.com/gag/ay2e7RY)<!-- MEMES:END -->
+ - 🚖 [Main character energy.](http://9gag.com/gag/aBdmRzP)
+ - 🚯 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
+ - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
 
 --- 
 
