@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp can now let you bypass internet crackdowns](https://www.androidauthority.com/whatsapp-proxy-support-3263572/)
  - [Google’s huge Vegas billboard tells Apple to stop dropping the ball](https://www.androidauthority.com/google-billboard-apple-iphone-android-imessage-rcs-3263568/)
- - [&#39;The Last of Us&#39; HBO Adaptation Goes Way Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-goes-way-beyond-the-playstation-game/#ftag=CAD590a51e)
- - [OnePlus might skip the OnePlus 11 Pro this year](https://www.androidauthority.com/oneplus-11-pro-skip-3263092/)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; HBO Adaptation Goes Way Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-goes-way-beyond-the-playstation-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
