@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [\ud83c\uddf2\ud83c\uddfdMexico at War against Sinaloa Cartel - MAF helicopters engage residential areas containing cartel members](http://9gag.com/gag/ajV96X8)
- - 🚯 [Henrique Cavilla has been confirmed for new Superman role](http://9gag.com/gag/a5XWNAq)<!-- MEMES:END -->
+ - 🚖 [How I met your mother](http://9gag.com/gag/aA0gn8p)
+ - 🚯 [Lol](http://9gag.com/gag/aXngEnv)
+ - 🚯 [Day off. It&#39;s raining. No chores to do. Finally starting this game.](http://9gag.com/gag/aXngEyD)<!-- MEMES:END -->
 
 --- 
 
