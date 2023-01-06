@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is set to unveil a strategy in the coming weeks that calls for cybersecurity regulation impacting all critical US infrastructure &lpar;Washington Post&rpar;](http://www.techmeme.com/230105/p36#a230105p36)
- - [3AC liquidators have subpoenaed founders Zhu Su and Kyle Davies, who have resisted cooperation, via Twitter to disclose documents related to the fund&#39;s collapse &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230105/p35#a230105p35)
- - [CES 2023 Highlights: A Flying Car, Enormous TVs and a Laptop-Charging Bike     - CNET](https://www.cnet.com/tech/ces-2023-highlights-a-flying-car-enormous-tvs-and-a-laptop-charging-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung expects Q4 operating profit fell by 69% YoY to $3.37B, an eight-year low, citing a greater than expected decline in memory chip demand &lpar;CNBC&rpar;](http://www.techmeme.com/230105/p37#a230105p37)
+ - [NFL Cancels Bills-Bengals Game After Hamlin Cardiac Arrest     - CNET](https://www.cnet.com/culture/sports/nfl-cancels-bills-bengals-game-after-hamlin-cardiac-arrest/#ftag=CAD590a51e)
+ - [Sources: the White House is set to unveil a strategy in the coming weeks that calls for cybersecurity regulation impacting all critical US infrastructure &lpar;Washington Post&rpar;](http://www.techmeme.com/230105/p36#a230105p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
