@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Year 2022](https://blog.playstation.com/2023/01/06/share-of-the-year-2022/)
- - [Everything we know about Genshin Impact 3.4](https://www.pcgamer.com/genshin-impact-3-4-release-date)
- - [World of Warcraft support studio to form third union under Activision Blizzard](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote)<!-- GAME:END -->
+ - [Trigun Stampede’s Pilot Episode Puts Any Gripes Over CGI Anime To Rest](https://kotaku.com/trigun-stampede-remake-anime-crunchyroll-review-cgi-1849959172)
+ - [Let It Die battle royale spinoff Deathverse is getting only kinda canceled](https://www.polygon.com/23542272/deathverse-let-it-die-offline-suspension-service-canceled)
+ - [A Fatal Warzone 2 Glitch Is Making Helicopters Explode](https://kotaku.com/cod-warzone-2-helicopter-glitch-reddit-activision-1849958729)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
