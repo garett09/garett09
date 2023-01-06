@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stellantis announces Mobilisights, a business unit focused on selling software using connected vehicle data to enterprises, utilities, and other organizations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230106/p1#a230106p1)
  - [Samsung projects lowest profits in 8 years owing to weak smartphone demand](https://www.androidauthority.com/samsung-q4-2022-profit-decline-3263536/)
- - [Ram 1500 Revolution BEV Concept Charges Into the Future     - CNET](https://www.cnet.com/roadshow/pictures/ram-1500-revolution-bev-concept-debut/#ftag=CAD590a51e)
- - [Kuo predicts spring debut for Apple mixed-reality headset](https://appleinsider.com/articles/23/01/06/kuo-predicts-spring-debut-for-apple-mixed-reality-device?utm_medium=rss)<!-- TECH:END -->
+ - [Ram 1500 Revolution BEV Concept Charges Into the Future     - CNET](https://www.cnet.com/roadshow/pictures/ram-1500-revolution-bev-concept-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
