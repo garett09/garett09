@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Air with 16GB RAM is $150 off &amp; in stock](https://appleinsider.com/articles/23/01/06/apples-m2-macbook-air-with-16gb-ram-is-150-off-in-stock?utm_medium=rss)
- - [Daily Deals Jan. 6: Save $50 on Apple Watch Series 8, Kindle Scribe 14% off &amp; more](https://appleinsider.com/articles/23/01/06/daily-deals-jan-6-save-50-on-apple-watch-series-8-kindle-scribe-14-off-more?utm_medium=rss)
- - [Bengaluru-based KreditBee, which operates a digital lending service for personal loans, raised a $100M Series D extension, bringing the round&#39;s total to $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230106/p6#a230106p6)<!-- TECH:END -->
+ - [Apple TV+ is expanding its European production teams](https://appleinsider.com/articles/23/01/06/apple-tv-is-expanding-its-european-production-teams?utm_medium=rss)
+ - [The best Verizon deals: Free flagship phones and plan discounts](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [Wear OS no longer needs your phone for Google Maps navigation](https://www.androidauthority.com/wear-os-google-maps-2-3263665/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
