@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - 🚖 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
  - 🚯 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
+ - 🚯 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)<!-- MEMES:END -->
 
 --- 
 
