@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Main character energy.](http://9gag.com/gag/aBdmRzP)
- - 🚯 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
- - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
+ - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 🚯 [The power of being a good D sucker.](http://9gag.com/gag/aQE1L1d)
+ - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)<!-- MEMES:END -->
 
 --- 
 
