@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds like a good plan](http://9gag.com/gag/aYVyjVO)
- - 🚯 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - 🚯 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)<!-- MEMES:END -->
+ - 🚖 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 🚯 [Now you know your shit](http://9gag.com/gag/a8qGLLY)
+ - 🚯 [Don&#39;t let go](http://9gag.com/gag/aKE7wBW)<!-- MEMES:END -->
 
 --- 
 
