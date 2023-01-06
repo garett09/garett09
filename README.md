@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Promised Them Severance. They Got Nothing](https://www.wired.com/story/twitter-employees-severance/)
- - [Dridex banking malware modified to spread using macOS](https://appleinsider.com/articles/23/01/06/dridex-banking-malware-modified-to-spread-using-macos?utm_medium=rss)
- - [Kuo: Apple canceled its fourth gen iPhone SE, in which it planned to debut its own 5G modem; the cancelation could be due to poor sales of mid-to-low-end phones &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230106/p12#a230106p12)<!-- TECH:END -->
+ - [Amazon S3 will now automatically encrypt all new objects added on buckets on the server side using AES-256; AWS has had server-side encryption for over a decade &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230106/p13#a230106p13)
+ - [Razer Blade 16 and Blade 18 hands-on: Too big, or just right?](https://www.androidauthority.com/razer-blade-16-and-blade-18-3263147/)
+ - [OnePlus could be getting close to launching its rumored tablet](https://www.androidauthority.com/oneplus-tablet-rumor-3263766/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
