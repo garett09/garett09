@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ is expanding its European production teams](https://appleinsider.com/articles/23/01/06/apple-tv-is-expanding-its-european-production-teams?utm_medium=rss)
- - [The best Verizon deals: Free flagship phones and plan discounts](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [Wear OS no longer needs your phone for Google Maps navigation](https://www.androidauthority.com/wear-os-google-maps-2-3263665/)<!-- TECH:END -->
+ - [Researcher earns $1M via Immunefi bug bounty platform after discovering a vulnerability in several Polkadot parachains that could have been exploited for~$200M &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230106/p9#a230106p9)
+ - [Satechi reveals 200W 6-Port USB-C GaN charger at CES 2023](https://appleinsider.com/articles/23/01/06/satechi-reveals-200w-6-port-usb-c-gan-charger-at-ces-2023?utm_medium=rss)
+ - [CES 2023: all the news from the year’s biggest tech conference](https://www.theverge.com/23496511/ces-2023-news-products-announcements-tvs-laptops-fitness-trackers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
