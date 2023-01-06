@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon S3 will now automatically encrypt all new objects added on buckets on the server side using AES-256; AWS has had server-side encryption for over a decade &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230106/p13#a230106p13)
- - [Razer Blade 16 and Blade 18 hands-on: Too big, or just right?](https://www.androidauthority.com/razer-blade-16-and-blade-18-3263147/)
- - [OnePlus could be getting close to launching its rumored tablet](https://www.androidauthority.com/oneplus-tablet-rumor-3263766/)<!-- TECH:END -->
+ - [Irish DPC&#39;s &amp;euro;390M Meta fine, issued at the behest of European Data Protection Board, is a harbinger of how EU may crack down on Big Tech in the next two years &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230106/p14#a230106p14)
+ - [Best TV for 2023: Samsung, TCL, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [Why This Decked-Out Smart Mixer is Actually a Big Deal     - CNET](https://www.cnet.com/news/why-this-decked-out-smart-mixer-is-actually-a-big-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
