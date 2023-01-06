@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie highlights coming to PS4 &amp; PS5 in January 2023](https://blog.playstation.com/2023/01/06/indie-highlights-coming-to-ps4-ps5-in-january-2023/)
- - [Indie highlights coming to PS4 &amp; PS5 in January 2023](https://blog.playstation.com/2023/01/06/indie-highlights-coming-to-ps4-ps5-in-january-2023/)
- - [Marvel Snap’s powerful Leader gets a nerf, with more on the way](https://www.polygon.com/23542287/marvel-snap-leader-nerf-card-patch-notes)<!-- GAME:END -->
+ - [Share of the Year 2022](https://blog.playstation.com/2023/01/06/share-of-the-year-2022/)
+ - [Everything we know about Genshin Impact 3.4](https://www.pcgamer.com/genshin-impact-3-4-release-date)
+ - [World of Warcraft support studio to form third union under Activision Blizzard](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
