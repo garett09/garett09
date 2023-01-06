@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men are simple creatures](http://9gag.com/gag/avQz2oX)
- - 🚯 [1997 was truly a great year for music. every genre was awesome!](http://9gag.com/gag/aeQDNZp)
- - 🚯 [The simplest creatures in the world.](http://9gag.com/gag/awZB06D)<!-- MEMES:END -->
+ - 🚖 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)
+ - 🚯 [Shaq On Yao Ming](http://9gag.com/gag/aA0eYKR)
+ - 🚯 [Uncle seggs-pert](http://9gag.com/gag/aqenmQp)<!-- MEMES:END -->
 
 --- 
 
