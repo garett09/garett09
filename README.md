@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ShiftCam SnapGrip review: Better iPhone photos with MagSafe](https://appleinsider.com/articles/23/01/06/shiftcam-snapgrip-review-better-iphone-photos-with-magsafe?utm_medium=rss)
- - [Daily Authority: 📡 From cellular to satellite](https://www.androidauthority.com/daily-authority-january-6-2023-3263546/)
- - [Friday’s top tech news: let’s give it up for the laptops of CES](https://www.theverge.com/2023/1/6/23542026/january-6-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Poll: Do you display your digital photos around the house?](https://www.androidauthority.com/display-digital-photos-house-poll-3263628/)
+ - [Kuo predicts spring debut for Apple mixed-reality headset](https://appleinsider.com/articles/23/01/06/kuo-predicts-spring-debut-for-apple-mixed-reality-device?utm_medium=rss)
+ - [New Apple Card users can get a &#39;free&#39; Wall Street Journal subscription](https://appleinsider.com/articles/23/01/06/new-apple-card-users-can-get-a-free-wall-street-journal-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
