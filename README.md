@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange Huobi plans to lay off 20% of its ~1,100 staff, citing the &quot;bear market&quot;; CoinGecko: Huobi had the 8th largest exchange volume in November 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/230106/p5#a230106p5)
- - [iLive 3-in-1 Wireless Charging Stand review: A quirky travel charger](https://appleinsider.com/articles/23/01/06/ilive-3-in-1-wireless-charging-stand-review-a-quirky-travel-charger?utm_medium=rss)
- - [Salesforce&#39;s layoffs hit Tableau, acquired for $15.7B in 2019, harder than other divisions, after CEO Mark Nelson was ousted in late December 2022 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230106/p4#a230106p4)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Air with 16GB RAM is $150 off &amp; in stock](https://appleinsider.com/articles/23/01/06/apples-m2-macbook-air-with-16gb-ram-is-150-off-in-stock?utm_medium=rss)
+ - [Daily Deals Jan. 6: Save $50 on Apple Watch Series 8, Kindle Scribe 14% off &amp; more](https://appleinsider.com/articles/23/01/06/daily-deals-jan-6-save-50-on-apple-watch-series-8-kindle-scribe-14-off-more?utm_medium=rss)
+ - [Bengaluru-based KreditBee, which operates a digital lending service for personal loans, raised a $100M Series D extension, bringing the round&#39;s total to $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230106/p6#a230106p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
