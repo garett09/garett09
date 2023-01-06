@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you display your digital photos around the house?](https://www.androidauthority.com/display-digital-photos-house-poll-3263628/)
- - [Kuo predicts spring debut for Apple mixed-reality headset](https://appleinsider.com/articles/23/01/06/kuo-predicts-spring-debut-for-apple-mixed-reality-device?utm_medium=rss)
- - [New Apple Card users can get a &#39;free&#39; Wall Street Journal subscription](https://appleinsider.com/articles/23/01/06/new-apple-card-users-can-get-a-free-wall-street-journal-subscription?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: due to development issues, Apple is &quot;more likely&quot; to debut its mixed-reality headset in the spring or at WWDC than in January as previously predicted &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/230106/p3#a230106p3)
+ - [Smart Home, Health Tech, and Everything Else We Saw at CES](https://www.wired.com/story/gadget-lab-podcast-580/)
+ - [The Best of CES 2023: Cars, PCs, Hearing Aids, and Wireless TVs](https://www.wired.com/gallery/best-of-ces-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
