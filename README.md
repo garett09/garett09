@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
- - 🚯 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)<!-- MEMES:END -->
+ - 🚖 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
+ - 🚯 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
+ - 🚯 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)<!-- MEMES:END -->
 
 --- 
 
