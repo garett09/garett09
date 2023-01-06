@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dead on arrival.](http://9gag.com/gag/a9qRo9D)
- - 🚯 [I&#39;m pretty sure that cats see things that we can not see. This video was taken hours after the dog passed away. They were best friends.](http://9gag.com/gag/a8q5Zgd)
- - 🚯 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
+ - 🚖 [Sounds like a good plan](http://9gag.com/gag/aYVyjVO)
+ - 🚯 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
+ - 🚯 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)<!-- MEMES:END -->
 
 --- 
 
