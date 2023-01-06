@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher earns $1M via Immunefi bug bounty platform after discovering a vulnerability in several Polkadot parachains that could have been exploited for~$200M &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230106/p9#a230106p9)
+ - [Researchers: cybercriminals look for ways to use ChatGPT to create hacking tools, share AI generated malware code in forums, discuss creating dating scam bots &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/230106/p10#a230106p10)
  - [Satechi reveals 200W 6-Port USB-C GaN charger at CES 2023](https://appleinsider.com/articles/23/01/06/satechi-reveals-200w-6-port-usb-c-gan-charger-at-ces-2023?utm_medium=rss)
- - [CES 2023: all the news from the year’s biggest tech conference](https://www.theverge.com/23496511/ces-2023-news-products-announcements-tvs-laptops-fitness-trackers)<!-- TECH:END -->
+ - [iPhone SE 4 allegedly canceled over Apple&#39;s 5G modem failures](https://appleinsider.com/articles/23/01/06/iphone-se-4-allegedly-canceled-over-apples-5g-modem-failures?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
