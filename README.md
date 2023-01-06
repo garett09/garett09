@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After &#39;Retiring,&#39; Vince McMahon Wants Back In WWE](https://kotaku.com/vince-mcmahon-wwe-wrestling-return-retirement-raw-1849956387)
- - [Bloober on Silent Hill 2 remake: &#39;We want to stick close to the original&#39;](https://www.pcgamer.com/bloober-on-silent-hill-2-remake-we-want-to-stick-close-to-the-original)
- - [2022 was the year the dam broke on major videogame unions](https://www.pcgamer.com/2022-was-the-year-the-dam-broke-on-major-videogame-unions)<!-- GAME:END -->
+ - [The Duke Nukem Forever leaker just dropped the source code for another beloved &#39;90s FPS](https://www.pcgamer.com/the-duke-nukem-forever-leaker-just-dropped-the-source-code-for-another-beloved-90s-fps)
+ - [Oops: Microsoft Called FTC Unconstitutional, Regrets The Error](https://kotaku.com/microsoft-activision-xbox-ftc-lawsuit-unconstitutional-1849956418)
+ - [After &#39;Retiring,&#39; Vince McMahon Wants Back In WWE](https://kotaku.com/vince-mcmahon-wwe-wrestling-return-retirement-raw-1849956387)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
