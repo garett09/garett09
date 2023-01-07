@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC is working on a rule, which could be finalized this quarter, to make it easier for investors to sue VCs for bad behavior, negligence, and recklessness &lpar;Sam Sutton/Politico&rpar;](http://www.techmeme.com/230107/p1#a230107p1)
- - [Sources: the SEC and EDNY are scrutinizing transfers between DCG and the lending arm of its subsidiary Genesis; the probes have not accused DCG of wrongdoing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230106/p20#a230106p20)
- - [Best Laptops for 2023: The 14 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IBM SVP and Director of Research says the company will no longer pursue numeric patent leadership and will instead focus on open innovation and collaboration &lpar;Dar&amp;iacute;o Gil/Fortune&rpar;](http://www.techmeme.com/230107/p3#a230107p3)
+ - [IBM&#39;s US patent count fell 44% YoY in 2022 to 4,743, behind Samsung&#39;s 8,513, losing its top spot after decades as the company refocuses on its core businesses &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230107/p2#a230107p2)
+ - [The SEC is working on a rule, which could be finalized this quarter, to make it easier for investors to sue VCs for bad behavior, negligence, and recklessness &lpar;Sam Sutton/Politico&rpar;](http://www.techmeme.com/230107/p1#a230107p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
