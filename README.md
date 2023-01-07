@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy frog..](http://9gag.com/gag/aGEdV0n)
- - 🚯 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)
- - 🚯 [She walked right into that one.](http://9gag.com/gag/aZDyPOp)<!-- MEMES:END -->
+ - 🚖 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)
+ - 🚯 [I\u2019ve been asking her since 3 years ago](http://9gag.com/gag/aVb0ngd)
+ - 🚯 [Oh no](http://9gag.com/gag/armVvy0)<!-- MEMES:END -->
 
 --- 
 
