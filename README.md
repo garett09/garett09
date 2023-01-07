@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Monkey Island, Terminator actor Earl Boen has died](https://www.pcgamer.com/monkey-island-terminator-actor-earl-boen-has-died)
  - [The Menu, Puss in Boots: The Last Wish, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/6/23537685/new-movies-watch-menu-hbo-max-netflix-pale-blue-eye-puss-in-boots-2)
- - [Does M3GAN have a post-credits scene?](https://www.polygon.com/23543047/m3gan-post-credits-scene-megan-sequel-ending-explained)
- - [Pokémon anime will end Ash’s journey with a reunion of old pals](https://www.polygon.com/23542929/pokemon-anime-ash-leaving-brock-misty-reunion)<!-- GAME:END -->
+ - [Redfall creative director says Arkane&#39;s vampire shooter is not like Left 4 Dead &#39;at all&#39;](https://www.pcgamer.com/redfall-creative-director-says-arkanes-vampire-shooter-is-not-like-left-4-dead-at-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
