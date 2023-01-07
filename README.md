@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some former Twitter employees in the US finally received their official severance agreements, but offering only one month of base pay as severance &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230107/p10#a230107p10)
- - [The six best apps a personal trainer uses to stay fit](https://appleinsider.com/articles/23/01/07/the-six-best-apps-a-personal-trainer-uses-to-stay-fit?utm_medium=rss)
- - [Thanks to Samsung, I&#39;m Excited About Foldable Phones Again     - CNET](https://www.cnet.com/tech/mobile/thanks-to-samsung-im-excited-about-foldable-phones-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HTC Vive interview: The new flagship VR headset makes its debut](https://www.androidauthority.com/htc-vive-interview-ces-3264053/)
+ - [Cherry KC 6000C for Mac review: A mediocre wired keyboard](https://appleinsider.com/articles/23/01/07/cherry-kc-6000c-for-mac-review-a-mediocre-wired-keyboard?utm_medium=rss)
+ - [The Razer Kiyo Pro Ultra is an enormous webcam that keeps you looking great](https://www.androidauthority.com/razer-kiyo-pro-ultra-3264203/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
