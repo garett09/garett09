@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
- - 🚯 [India&#39;s tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state](http://9gag.com/gag/avQz0KZ)
- - 🚯 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
+ - 🚖 [Trust me bro](http://9gag.com/gag/aeQDK9b)
+ - 🚯 [She gave birth to a gentleman \u2665\ufe0f](http://9gag.com/gag/aGEdYy0)
+ - 🚯 [Crazy frog..](http://9gag.com/gag/aGEdV0n)<!-- MEMES:END -->
 
 --- 
 
