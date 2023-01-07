@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Twitter staff in the US and other countries laid off by Elon Musk in November say they had not received information about the severance they were promised &lpar;Wired&rpar;](http://www.techmeme.com/230106/p15#a230106p15)
- - [Sun Unleashes Powerful X-Class Solar Flare With More Expected     - CNET](https://www.cnet.com/science/space/sun-unleashes-powerful-x-class-solar-flare-with-more-expected/#ftag=CAD590a51e)
- - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Ohio man pleads guilty to stealing 712+ bitcoins seized by the IRS in a case against his brother, who was convicted of running money laundering service Helix &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230106/p16#a230106p16)
+ - [What CES 2023 Showed Me About the Future of Work     - CNET](https://www.cnet.com/tech/computing/what-ces-2023-showed-me-about-the-future-of-work/#ftag=CAD590a51e)
+ - [In This Dystopian New Graphic Novel, the Jan. 6 Attack Succeeded     - CNET](https://www.cnet.com/culture/internet/in-this-dystopian-new-graphic-novel-the-january-6-attack-succeeded/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
