@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure Art](http://9gag.com/gag/aVbwWw8)
- - 🚯 [Checkmate](http://9gag.com/gag/armVROd)
- - 🚯 [Never late to apologise](http://9gag.com/gag/aBdmrWP)<!-- MEMES:END -->
+ - 🚖 [Crazy frog..](http://9gag.com/gag/aGEdV0n)
+ - 🚯 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)
+ - 🚯 [She walked right into that one.](http://9gag.com/gag/aZDyPOp)<!-- MEMES:END -->
 
 --- 
 
