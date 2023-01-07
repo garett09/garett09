@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 PC games that everyone has to love](https://www.pcgamer.com/the-10-pc-games-that-everyone-has-to-love)
- - [Netflix’s Copenhagen Cowboy is the most boring version of the coolest show ever](https://www.polygon.com/reviews/23541139/netflix-copenhagen-cowboy-review-season-1)
- - [Trigun Stampede’s Vash is a top contender for anime’s hottest boi in 2023](https://www.polygon.com/23541394/trigun-stampede-crunchyroll-streaming-vash-stampede-cutie)<!-- GAME:END -->
+ - [Bad Mojo was one of the grossest games ever made](https://www.pcgamer.com/saturday-crapshoot-badmojo)
+ - [This ambitious Dark Souls 3 total conversion will remix the game and add all-new content](https://www.pcgamer.com/this-ambitious-dark-souls-3-total-conversion-will-remix-the-game-and-add-all-new-content)
+ - [The 10 PC games that everyone has to love](https://www.pcgamer.com/the-10-pc-games-that-everyone-has-to-love)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
