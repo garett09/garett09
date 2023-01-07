@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mandiant: Russian cyberespionage group Turla piggybacked on other hackers&#39; decade-old malware that spread via USB drives to stealthily access victim networks &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230107/p4#a230107p4)
- - [Blue River Technology interview: Autonomous farming is the future](https://www.androidauthority.com/blue-river-technology-interview-ces-3263650/)
- - [CSA interview: Matter will drastically improve your smart home experience](https://www.androidauthority.com/csa-matter-interview-ces-3263588/)<!-- TECH:END -->
+ - [The Weekly Authority: ✋ Pixel 7a hands-on, CES surprises](https://www.androidauthority.com/the-weekly-authority-january-4-2023-226-3262355/)
+ - [The 10 Best Toaster Ovens of 2023 Reviewed by Experts     - CNET](https://www.cnet.com/news/best-toaster-oven/#ftag=CAD590a51e)
+ - [A 3D Printing Renaissance Is Coming for Tabletop Games](https://www.wired.com/story/3d-printing-tabletop-games-wargaming/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
