@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)
- - [IBM SVP and Director of Research says the company will no longer pursue numeric patent leadership and will instead focus on open innovation and collaboration &lpar;Dar&amp;iacute;o Gil/Fortune&rpar;](http://www.techmeme.com/230107/p3#a230107p3)
- - [IBM&#39;s US patent count fell 44% YoY in 2022 to 4,743, behind Samsung&#39;s 8,513, losing its top spot after decades as the company refocuses on its core businesses &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230107/p2#a230107p2)<!-- TECH:END -->
+ - [Blue River Technology interview: Autonomous farming is the future](https://www.androidauthority.com/blue-river-technology-interview-ces-3263650/)
+ - [CSA interview: Matter will drastically improve your smart home experience](https://www.androidauthority.com/csa-matter-interview-ces-3263588/)
+ - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
