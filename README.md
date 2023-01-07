@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not in the army but i&#39;ll definitely try her](http://9gag.com/gag/ay2epeb)
- - 🚯 [Lol](http://9gag.com/gag/aeQD6BO)
- - 🚯 [This is the bullshido of coffee](http://9gag.com/gag/aL1w9EV)<!-- MEMES:END -->
+ - 🚖 [Because the 90&#39;s](http://9gag.com/gag/aWGx6r2)
+ - 🚯 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
+ - 🚯 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)<!-- MEMES:END -->
 
 --- 
 
