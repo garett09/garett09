@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
- - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
- - 🚯 [Look how proud they are, i bet their fathers feel the same too.. no wonder many men chose spending time with their hobbies rather than comitting themselves into realtionship, pls teach your kids self control folks](http://9gag.com/gag/aeQD3gq)<!-- MEMES:END -->
+ - 🚖 [Range rover](http://9gag.com/gag/armVpGy)
+ - 🚯 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)<!-- MEMES:END -->
 
 --- 
 
