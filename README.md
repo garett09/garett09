@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A doctor says she faced a wave of anti-vaccine harassment after Twitter ignored her pleas to stop the spread of an image of a fake tweet created in her name &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/230107/p6#a230107p6)
  - [The Samsung Galaxy S23 will likely be announced on February 1st](https://www.theverge.com/2023/1/7/23543609/samsung-galaxy-s23-unpacked-event-leak-february)
- - [Dridex banking malware modified to spread using macOS](https://appleinsider.com/articles/23/01/06/dridex-banking-malware-modified-to-spread-using-macos?utm_medium=rss)
- - [Microsoft is adding OpenAI writing tech to Office](https://appleinsider.com/articles/23/01/07/microsoft-plans-adding-openai-chatbot-tech-to-productivity-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Dridex banking malware modified to spread using macOS](https://appleinsider.com/articles/23/01/06/dridex-banking-malware-modified-to-spread-using-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
