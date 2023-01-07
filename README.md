@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you buy an Afeela, the car made by Sony and Honda?](https://www.androidauthority.com/afeela-poll-3264130/)
- - [The Galaxy S23 launch date may have been confirmed from Samsung itself](https://www.androidauthority.com/galaxy-s23-launch-date-3264113/)
- - [Xencelabs Graphic Tablet review: a great midrange tablet for artists](https://appleinsider.com/articles/23/01/07/xencelabs-graphic-tablet-review-a-great-midrange-tablet-for-artists?utm_medium=rss)<!-- TECH:END -->
+ - [Icoma Tatamel hands-on: A mini transformable e-bike](https://www.androidauthority.com/the-icoma-tatamel-is-the-swiss-army-knife-of-e-bikes-3262788/)
+ - [CES 2023: all the news from the year’s biggest tech conference](https://www.theverge.com/23496511/ces-2023-news-products-announcements-tvs-laptops-fitness-trackers)
+ - [TweetDeck.com is down, but TweetDeck still works](https://www.theverge.com/2023/1/7/23543797/tweetdeck-twitter-url-redirect-error-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
