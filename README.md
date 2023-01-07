@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stereotype](http://9gag.com/gag/aEqPzmG)
- - 🚯 [Directed by Christopher Nolan...](http://9gag.com/gag/aWGxMwZ)
- - 🚯 [He ain&#39;t lying.](http://9gag.com/gag/aOx7vBN)<!-- MEMES:END -->
+ - 🚖 [This is the bullshido of coffee](http://9gag.com/gag/aL1w9EV)
+ - 🚯 [Almost there..](http://9gag.com/gag/aEqPR8M)
+ - 🚯 [Directed by Christopher Nolan...](http://9gag.com/gag/aWGxMwZ)<!-- MEMES:END -->
 
 --- 
 
