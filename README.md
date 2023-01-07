@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cars, Rides, and Auto Tech of CES 2023](https://www.wired.com/story/the-best-cars-rides-and-auto-tech-of-ces-2023/)
- - [Slack Discloses Breach of Its Github Code Repository](https://www.wired.com/story/slack-data-breach-security-news-roundup/)
- - [New Details Emerge About Apple’s Mixed-Reality Headset](https://www.wired.com/story/apple-mixed-reality-headset-details-emerge/)<!-- TECH:END -->
+ - [The Samsung Galaxy S23 will likely be announced on February 1st](https://www.theverge.com/2023/1/7/23543609/samsung-galaxy-s23-unpacked-event-leak-february)
+ - [Dridex banking malware modified to spread using macOS](https://appleinsider.com/articles/23/01/06/dridex-banking-malware-modified-to-spread-using-macos?utm_medium=rss)
+ - [Microsoft is adding OpenAI writing tech to Office](https://appleinsider.com/articles/23/01/07/microsoft-plans-adding-openai-chatbot-tech-to-productivity-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
