@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: ✋ Pixel 7a hands-on, CES surprises](https://www.androidauthority.com/the-weekly-authority-january-4-2023-226-3262355/)
- - [The 10 Best Toaster Ovens of 2023 Reviewed by Experts     - CNET](https://www.cnet.com/news/best-toaster-oven/#ftag=CAD590a51e)
- - [A 3D Printing Renaissance Is Coming for Tabletop Games](https://www.wired.com/story/3d-printing-tabletop-games-wargaming/)<!-- TECH:END -->
+ - [Daily deals Jan. 7: $550 off 14-inch MacBook Pro, $50 off Apple Watch Ultra, $200 off Samsung M8 monitor, more](https://appleinsider.com/articles/23/01/07/daily-deals-jan-7-550-off-14-inch-macbook-pro-50-off-apple-watch-ultra-200-off-samsung-m8-monitor-more?utm_medium=rss)
+ - [US Cities Are Falling Out of Love With the Parking Lot](https://www.wired.com/story/us-cities-are-falling-out-of-love-with-the-parking-lot/)
+ - [Best of CES 2023 Awards: The best products from the show](https://www.androidauthority.com/best-of-ces-2023-awards-3264046/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
