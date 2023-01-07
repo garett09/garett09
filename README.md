@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 567 answer and hint for Saturday, January 7](https://www.pcgamer.com/wordle-567-answer-january-7)
- - [Monkey Island, Terminator actor Earl Boen has died](https://www.pcgamer.com/monkey-island-terminator-actor-earl-boen-has-died)
- - [The Menu, Puss in Boots: The Last Wish, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/6/23537685/new-movies-watch-menu-hbo-max-netflix-pale-blue-eye-puss-in-boots-2)<!-- GAME:END -->
+ - [The tech that went too far at CES 2023](https://www.pcgamer.com/the-tech-that-went-too-far-at-ces-2023)
+ - [The PC gaming announcements you don&#39;t want to miss from CES 2023](https://www.pcgamer.com/the-pc-gaming-announcements-you-dont-want-to-miss-from-ces-2023)
+ - [The best movies that just hit streaming in January](https://www.polygon.com/what-to-watch/2023/1/7/23536989/best-new-movies-netflix-amazon-hbo-hulu-january-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
