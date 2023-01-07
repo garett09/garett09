@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)
- - 🚯 [I\u2019ve been asking her since 3 years ago](http://9gag.com/gag/aVb0ngd)
- - 🚯 [Oh no](http://9gag.com/gag/armVvy0)<!-- MEMES:END -->
+ - 🚖 [The borders are open for you.](http://9gag.com/gag/anz4BBo)
+ - 🚯 [Beacouuuuuuuse\ud83e\udd23](http://9gag.com/gag/aXng01b)
+ - 🚯 [Flawless performance](http://9gag.com/gag/aZDyWpX)<!-- MEMES:END -->
 
 --- 
 
