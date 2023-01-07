@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Jan. 7: $550 off 14-inch MacBook Pro, $50 off Apple Watch Ultra, $200 off Samsung M8 monitor, more](https://appleinsider.com/articles/23/01/07/daily-deals-jan-7-550-off-14-inch-macbook-pro-50-off-apple-watch-ultra-200-off-samsung-m8-monitor-more?utm_medium=rss)
- - [US Cities Are Falling Out of Love With the Parking Lot](https://www.wired.com/story/us-cities-are-falling-out-of-love-with-the-parking-lot/)
- - [Best of CES 2023 Awards: The best products from the show](https://www.androidauthority.com/best-of-ces-2023-awards-3264046/)<!-- TECH:END -->
+ - [The Best Cars, Rides, and Auto Tech of CES 2023](https://www.wired.com/story/the-best-cars-rides-and-auto-tech-of-ces-2023/)
+ - [Slack Discloses Breach of Its Github Code Repository](https://www.wired.com/story/slack-data-breach-security-news-roundup/)
+ - [New Details Emerge About Apple’s Mixed-Reality Headset](https://www.wired.com/story/apple-mixed-reality-headset-details-emerge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
