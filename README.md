@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy frog..](http://9gag.com/gag/aGEdV0n)
- - 🚯 [Journalists in prison because they photographed south Sudan president pissing himself.](http://9gag.com/gag/aA0ePBL)
+ - 🚖 [I just want to be a wizard](http://9gag.com/gag/aPg7GWg)
+ - 🚯 [Rumor say both of them still asking](http://9gag.com/gag/ap9GL5M)
  - 🚯 [Why not](http://9gag.com/gag/az2mAmB)<!-- MEMES:END -->
 
 --- 
