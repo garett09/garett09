@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 567 answer and hint for Saturday, January 7](https://www.pcgamer.com/wordle-567-answer-january-7)
  - [Monkey Island, Terminator actor Earl Boen has died](https://www.pcgamer.com/monkey-island-terminator-actor-earl-boen-has-died)
- - [The Menu, Puss in Boots: The Last Wish, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/6/23537685/new-movies-watch-menu-hbo-max-netflix-pale-blue-eye-puss-in-boots-2)
- - [Redfall creative director says Arkane&#39;s vampire shooter is not like Left 4 Dead &#39;at all&#39;](https://www.pcgamer.com/redfall-creative-director-says-arkanes-vampire-shooter-is-not-like-left-4-dead-at-all)<!-- GAME:END -->
+ - [The Menu, Puss in Boots: The Last Wish, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/6/23537685/new-movies-watch-menu-hbo-max-netflix-pale-blue-eye-puss-in-boots-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
