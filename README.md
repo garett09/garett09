@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [30 Indie Games You Should Know About Releasing In 2023](https://kotaku.com/2023-indie-game-release-date-roundup-pc-ps5-xbox-switch-1849960941)
- - [Pokémon Go Chespin Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/1/7/23542585/chespin-community-day-event-times-shiny-moveset-bonuses)
- - [The tech that went too far at CES 2023](https://www.pcgamer.com/the-tech-that-went-too-far-at-ces-2023)<!-- GAME:END -->
+ - [Trigun Stampede’s Vash is a top contender for anime’s hottest boi in 2023](https://www.polygon.com/23541394/trigun-stampede-crunchyroll-streaming-vash-stampede-cutie)
+ - [Pokémon Go finally brings the elusive Kecleon to the game](https://www.polygon.com/23543617/pokemon-go-kecleon-chespin-community-day)
+ - [30 Indie Games You Should Know About Releasing In 2023](https://kotaku.com/2023-indie-game-release-date-roundup-pc-ps5-xbox-switch-1849960941)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
