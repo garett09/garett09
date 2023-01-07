@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
- - 🚯 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)
- - 🚯 [She walked right into that one.](http://9gag.com/gag/aZDyPOp)<!-- MEMES:END -->
+ - 🚖 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
+ - 🚯 [Hmm](http://9gag.com/gag/aPg7yAG)
+ - 🚯 [Look how proud they are, i bet their fathers feel the same too.. no wonder many men chose spending time with their hobbies rather than comitting themselves into realtionship, pls teach your kids self control folks](http://9gag.com/gag/aeQD3gq)<!-- MEMES:END -->
 
 --- 
 
