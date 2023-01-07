@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Icoma Tatamel hands-on: A mini transformable e-bike](https://www.androidauthority.com/the-icoma-tatamel-is-the-swiss-army-knife-of-e-bikes-3262788/)
- - [CES 2023: all the news from the year’s biggest tech conference](https://www.theverge.com/23496511/ces-2023-news-products-announcements-tvs-laptops-fitness-trackers)
- - [TweetDeck.com is down, but TweetDeck still works](https://www.theverge.com/2023/1/7/23543797/tweetdeck-twitter-url-redirect-error-elon-musk)<!-- TECH:END -->
+ - [Sources: some former Twitter employees in the US finally received their official severance agreements, but offering only one month of base pay as severance &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230107/p10#a230107p10)
+ - [The six best apps a personal trainer uses to stay fit](https://appleinsider.com/articles/23/01/07/the-six-best-apps-a-personal-trainer-uses-to-stay-fit?utm_medium=rss)
+ - [Thanks to Samsung, I&#39;m Excited About Foldable Phones Again     - CNET](https://www.cnet.com/tech/mobile/thanks-to-samsung-im-excited-about-foldable-phones-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
