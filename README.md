@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HTC Vive interview: The new flagship VR headset makes its debut](https://www.androidauthority.com/htc-vive-interview-ces-3264053/)
- - [Cherry KC 6000C for Mac review: A mediocre wired keyboard](https://appleinsider.com/articles/23/01/07/cherry-kc-6000c-for-mac-review-a-mediocre-wired-keyboard?utm_medium=rss)
- - [The Razer Kiyo Pro Ultra is an enormous webcam that keeps you looking great](https://www.androidauthority.com/razer-kiyo-pro-ultra-3264203/)<!-- TECH:END -->
+ - [LG’s META tech for OLED TVs is much better than the terrible name implies](https://www.androidauthority.com/lg-meta-3264225/)
+ - [Marseille-based Volta Medical, whose AI assistant helps surgeons in cardiac ablation procedures, raised a &amp;euro;36M Series B, bringing its total funding to over &amp;euro;70M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/230107/p12#a230107p12)
+ - [The JBL Bar 1300X is like a full surround sound system, but in a soundbar](https://www.androidauthority.com/jbl-bar-1300x-3264208/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
