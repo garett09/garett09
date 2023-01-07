@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
- - 🚯 [Hmm](http://9gag.com/gag/aPg7yAG)
- - 🚯 [Look how proud they are, i bet their fathers feel the same too.. no wonder many men chose spending time with their hobbies rather than comitting themselves into realtionship, pls teach your kids self control folks](http://9gag.com/gag/aeQD3gq)<!-- MEMES:END -->
+ - 🚖 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
+ - 🚯 [India&#39;s tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state](http://9gag.com/gag/avQz0KZ)
+ - 🚯 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
 
 --- 
 
