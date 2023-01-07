@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Store incharge let&#39;s homeless street kids choose what to watch on the display TV every evening](http://9gag.com/gag/armVKX0)
- - 🚯 [Happy weekend](http://9gag.com/gag/agoAVnK)
- - 🚯 [Ginger](http://9gag.com/gag/a7qW702)<!-- MEMES:END -->
+ - 🚖 [Crazy frog..](http://9gag.com/gag/aGEdV0n)
+ - 🚯 [Journalists in prison because they photographed south Sudan president pissing himself.](http://9gag.com/gag/aA0ePBL)
+ - 🚯 [Why not](http://9gag.com/gag/az2mAmB)<!-- MEMES:END -->
 
 --- 
 
