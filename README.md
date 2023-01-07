@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mojo Vision, which demonstrated a working prototype of its smart contact lenses in 2022, pivots to focus on micro-LED display tech and lays off 75% of staff &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230107/p8#a230107p8)
- - [Most Innovative EVs, Electric Bikes and Rideables at CES 2023     - CNET](https://www.cnet.com/roadshow/news/most-innovative-evs-electric-bikes-and-rideables-at-ces-2023/#ftag=CAD590a51e)
- - [CES 2023&#39;s Most Incredible Reveals: Flying Boats, Acrobatic Screens and Hidden Gaming Inputs     - CNET](https://www.cnet.com/tech/ces-2023s-most-incredible-reveals-flying-boats-acrobatic-screens-and-hidden-gaming-inputs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Would you buy an Afeela, the car made by Sony and Honda?](https://www.androidauthority.com/afeela-poll-3264130/)
+ - [The Galaxy S23 launch date may have been confirmed from Samsung itself](https://www.androidauthority.com/galaxy-s23-launch-date-3264113/)
+ - [Xencelabs Graphic Tablet review: a great midrange tablet for artists](https://appleinsider.com/articles/23/01/07/xencelabs-graphic-tablet-review-a-great-midrange-tablet-for-artists?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
