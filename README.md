@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mandiant: Russian cyberespionage group Turla piggybacked on other hackers&#39; decade-old malware that spread via USB drives to stealthily access victim networks &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230107/p4#a230107p4)
  - [Blue River Technology interview: Autonomous farming is the future](https://www.androidauthority.com/blue-river-technology-interview-ces-3263650/)
- - [CSA interview: Matter will drastically improve your smart home experience](https://www.androidauthority.com/csa-matter-interview-ces-3263588/)
- - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [CSA interview: Matter will drastically improve your smart home experience](https://www.androidauthority.com/csa-matter-interview-ces-3263588/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
