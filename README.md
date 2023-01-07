@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because the 90&#39;s](http://9gag.com/gag/aWGx6r2)
- - 🚯 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
+ - 🚖 [This father was unable to purchase a complete cake for his daughter&#39;s birthday, and she was not expecting one.](http://9gag.com/gag/aPg7MxQ)
+ - 🚯 [Hmm](http://9gag.com/gag/aPg7yAG)
  - 🚯 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)<!-- MEMES:END -->
 
 --- 
