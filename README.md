@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This father was unable to purchase a complete cake for his daughter&#39;s birthday, and she was not expecting one.](http://9gag.com/gag/aPg7MxQ)
- - 🚯 [Hmm](http://9gag.com/gag/aPg7yAG)
- - 🚯 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)<!-- MEMES:END -->
+ - 🚖 [Stereotype](http://9gag.com/gag/aEqPzmG)
+ - 🚯 [Directed by Christopher Nolan...](http://9gag.com/gag/aWGxMwZ)
+ - 🚯 [He ain&#39;t lying.](http://9gag.com/gag/aOx7vBN)<!-- MEMES:END -->
 
 --- 
 
