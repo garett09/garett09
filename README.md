@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 10 PC games that everyone has to love](https://www.pcgamer.com/the-10-pc-games-that-everyone-has-to-love)
  - [Netflix’s Copenhagen Cowboy is the most boring version of the coolest show ever](https://www.polygon.com/reviews/23541139/netflix-copenhagen-cowboy-review-season-1)
- - [Trigun Stampede’s Vash is a top contender for anime’s hottest boi in 2023](https://www.polygon.com/23541394/trigun-stampede-crunchyroll-streaming-vash-stampede-cutie)
- - [Pokémon Go finally brings the elusive Kecleon to the game](https://www.polygon.com/23543617/pokemon-go-kecleon-chespin-community-day)<!-- GAME:END -->
+ - [Trigun Stampede’s Vash is a top contender for anime’s hottest boi in 2023](https://www.polygon.com/23541394/trigun-stampede-crunchyroll-streaming-vash-stampede-cutie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
