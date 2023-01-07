@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 🚯 [Crazy frog..](http://9gag.com/gag/aGEdV0n)
+ - 🚖 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)
+ - 🚯 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
  - 🚯 [Skillfully threaded..](http://9gag.com/gag/axo9N6n)<!-- MEMES:END -->
 
 --- 
