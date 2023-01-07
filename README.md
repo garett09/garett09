@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The tech that went too far at CES 2023](https://www.pcgamer.com/the-tech-that-went-too-far-at-ces-2023)
- - [The PC gaming announcements you don&#39;t want to miss from CES 2023](https://www.pcgamer.com/the-pc-gaming-announcements-you-dont-want-to-miss-from-ces-2023)
- - [The best movies that just hit streaming in January](https://www.polygon.com/what-to-watch/2023/1/7/23536989/best-new-movies-netflix-amazon-hbo-hulu-january-2023)<!-- GAME:END -->
+ - [30 Indie Games You Should Know About Releasing In 2023](https://kotaku.com/2023-indie-game-release-date-roundup-pc-ps5-xbox-switch-1849960941)
+ - [Pokémon Go Chespin Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/1/7/23542585/chespin-community-day-event-times-shiny-moveset-bonuses)
+ - [The tech that went too far at CES 2023](https://www.pcgamer.com/the-tech-that-went-too-far-at-ces-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
