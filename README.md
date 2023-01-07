@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trust me bro](http://9gag.com/gag/aeQDK9b)
- - 🚯 [She gave birth to a gentleman \u2665\ufe0f](http://9gag.com/gag/aGEdYy0)
- - 🚯 [Crazy frog..](http://9gag.com/gag/aGEdV0n)<!-- MEMES:END -->
+ - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
+ - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
+ - 🚯 [Look how proud they are, i bet their fathers feel the same too.. no wonder many men chose spending time with their hobbies rather than comitting themselves into realtionship, pls teach your kids self control folks](http://9gag.com/gag/aeQD3gq)<!-- MEMES:END -->
 
 --- 
 
