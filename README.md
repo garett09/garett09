@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The borders are open for you.](http://9gag.com/gag/anz4BBo)
- - 🚯 [Beacouuuuuuuse\ud83e\udd23](http://9gag.com/gag/aXng01b)
- - 🚯 [Flawless performance](http://9gag.com/gag/aZDyWpX)<!-- MEMES:END -->
+ - 🚖 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
+ - 🚯 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)
+ - 🚯 [She walked right into that one.](http://9gag.com/gag/aZDyPOp)<!-- MEMES:END -->
 
 --- 
 
