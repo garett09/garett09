@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
- - 🚯 [Women&#39;s basketball be like:](http://9gag.com/gag/a5XW7vr)
- - 🚯 [India&#39;s tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state](http://9gag.com/gag/avQz0KZ)<!-- MEMES:END -->
+ - 🚖 [Not in the army but i&#39;ll definitely try her](http://9gag.com/gag/ay2epeb)
+ - 🚯 [Lol](http://9gag.com/gag/aeQD6BO)
+ - 🚯 [This is the bullshido of coffee](http://9gag.com/gag/aL1w9EV)<!-- MEMES:END -->
 
 --- 
 
