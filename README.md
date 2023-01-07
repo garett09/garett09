@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-466-3263118/)
- - [GPTZero, an app made by a Princeton student to detect if an academic essay was written by a human or by OpenAI&#39;s ChatGPT, goes viral &lpar;Tony Ho Tran/The Daily Beast&rpar;](http://www.techmeme.com/230107/p7#a230107p7)
- - [Inside Apple&#39;s Singapore Marina Bay Sands retail store](https://appleinsider.com/articles/23/01/07/inside-apples-singapore-apple-marina-bay-sands-retail-store?utm_medium=rss)<!-- TECH:END -->
+ - [Mojo Vision, which demonstrated a working prototype of its smart contact lenses in 2022, pivots to focus on micro-LED display tech and lays off 75% of staff &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230107/p8#a230107p8)
+ - [Most Innovative EVs, Electric Bikes and Rideables at CES 2023     - CNET](https://www.cnet.com/roadshow/news/most-innovative-evs-electric-bikes-and-rideables-at-ces-2023/#ftag=CAD590a51e)
+ - [CES 2023&#39;s Most Incredible Reveals: Flying Boats, Acrobatic Screens and Hidden Gaming Inputs     - CNET](https://www.cnet.com/tech/ces-2023s-most-incredible-reveals-flying-boats-acrobatic-screens-and-hidden-gaming-inputs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
