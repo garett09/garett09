@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just want to be a wizard](http://9gag.com/gag/aPg7GWg)
- - 🚯 [Rumor say both of them still asking](http://9gag.com/gag/ap9GL5M)
- - 🚯 [Why not](http://9gag.com/gag/az2mAmB)<!-- MEMES:END -->
+ - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
+ - 🚯 [Women&#39;s basketball be like:](http://9gag.com/gag/a5XW7vr)
+ - 🚯 [India&#39;s tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state](http://9gag.com/gag/avQz0KZ)<!-- MEMES:END -->
 
 --- 
 
