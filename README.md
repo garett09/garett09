@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)
- - 🚯 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 🚯 [Skillfully threaded..](http://9gag.com/gag/axo9N6n)<!-- MEMES:END -->
+ - 🚖 [Trust me bro](http://9gag.com/gag/aeQDK9b)
+ - 🚯 [Not in the army but i&#39;ll definitely try her](http://9gag.com/gag/ay2epeb)
+ - 🚯 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)<!-- MEMES:END -->
 
 --- 
 
