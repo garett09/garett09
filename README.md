@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Range rover](http://9gag.com/gag/armVpGy)
- - 🚯 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
- - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)<!-- MEMES:END -->
+ - 🚖 [Happy weekend](http://9gag.com/gag/agoAVnK)
+ - 🚯 [Store incharge let&#39;s homeless street kids choose what to watch on the display TV every evening](http://9gag.com/gag/armVKX0)
+ - 🚯 [The most polite and professional police officer in the world](http://9gag.com/gag/a7qW7V2)<!-- MEMES:END -->
 
 --- 
 
