@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Ohio man pleads guilty to stealing 712+ bitcoins seized by the IRS in a case against his brother, who was convicted of running money laundering service Helix &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230106/p16#a230106p16)
- - [What CES 2023 Showed Me About the Future of Work     - CNET](https://www.cnet.com/tech/computing/what-ces-2023-showed-me-about-the-future-of-work/#ftag=CAD590a51e)
- - [In This Dystopian New Graphic Novel, the Jan. 6 Attack Succeeded     - CNET](https://www.cnet.com/culture/internet/in-this-dystopian-new-graphic-novel-the-january-6-attack-succeeded/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Video averaged 9.6M viewers for its first season as the exclusive rights holder of the NFL&#39;s Thursday Night Football, down 41% from 2021&#39;s average &lpar;Daniel Frankel/Next TV&rpar;](http://www.techmeme.com/230106/p18#a230106p18)
+ - [Roku reports ending 2022 with more than 70M accounts globally, up 16.5% from the end of 2021, and says streaming hours grew 19% YoY to 87.4B in 2022 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/230106/p17#a230106p17)
+ - [2023 Best TV Shows Coming to Netflix, HBO, Disney Plus and More     - CNET](https://www.cnet.com/culture/entertainment/2023-best-tv-shows-coming-to-netflix-hbo-disney-plus-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
