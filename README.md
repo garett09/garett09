@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s Ant Group says founder Jack Ma no longer controls the fintech giant after a series of shareholding adjustments that saw him give up most voting rights &lpar;Reuters&rpar;](http://www.techmeme.com/230106/p19#a230106p19)
- - [Amazon Prime Video averaged 9.6M viewers for its first season as the exclusive rights holder of the NFL&#39;s Thursday Night Football, down 41% from 2021&#39;s average &lpar;Daniel Frankel/Next TV&rpar;](http://www.techmeme.com/230106/p18#a230106p18)
- - [Hate Giving Blood? Not Anymore, With This Mixed Reality Experience     - CNET](https://www.cnet.com/health/medical/hate-giving-blood-not-anymore-with-this-mixed-reality-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the SEC and EDNY are scrutinizing transfers between DCG and the lending arm of its subsidiary Genesis; the probes have not accused DCG of wrongdoing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230106/p20#a230106p20)
+ - [Best Laptops for 2023: The 14 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
+ - [China&#39;s Ant Group says founder Jack Ma no longer controls the fintech giant after a series of shareholding adjustments that saw him give up most voting rights &lpar;Reuters&rpar;](http://www.techmeme.com/230106/p19#a230106p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
