@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s Ant Group says founder Jack Ma no longer controls the fintech giant after a series of shareholding adjustments that saw him give up most voting rights &lpar;Reuters&rpar;](http://www.techmeme.com/230106/p19#a230106p19)
  - [Amazon Prime Video averaged 9.6M viewers for its first season as the exclusive rights holder of the NFL&#39;s Thursday Night Football, down 41% from 2021&#39;s average &lpar;Daniel Frankel/Next TV&rpar;](http://www.techmeme.com/230106/p18#a230106p18)
- - [Roku reports ending 2022 with more than 70M accounts globally, up 16.5% from the end of 2021, and says streaming hours grew 19% YoY to 87.4B in 2022 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/230106/p17#a230106p17)
- - [2023 Best TV Shows Coming to Netflix, HBO, Disney Plus and More     - CNET](https://www.cnet.com/culture/entertainment/2023-best-tv-shows-coming-to-netflix-hbo-disney-plus-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hate Giving Blood? Not Anymore, With This Mixed Reality Experience     - CNET](https://www.cnet.com/health/medical/hate-giving-blood-not-anymore-with-this-mixed-reality-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
