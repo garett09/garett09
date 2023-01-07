@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy weekend](http://9gag.com/gag/agoAVnK)
- - 🚯 [Store incharge let&#39;s homeless street kids choose what to watch on the display TV every evening](http://9gag.com/gag/armVKX0)
- - 🚯 [The most polite and professional police officer in the world](http://9gag.com/gag/a7qW7V2)<!-- MEMES:END -->
+ - 🚖 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
+ - 🚯 [Women&#39;s basketball be like:](http://9gag.com/gag/a5XW7vr)
+ - 🚯 [How I met your mother](http://9gag.com/gag/aA0gn8p)<!-- MEMES:END -->
 
 --- 
 
