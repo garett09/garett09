@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 568 answer and hint for Sunday, January 8](https://www.pcgamer.com/wordle-568-answer-january-8)
  - [100% essential Skyrim mod lets you see yourself in the inventory menu](https://www.pcgamer.com/100-essential-skyrim-mod-lets-you-see-yourself-in-the-inventory-menu)
- - [Artist banned from art subreddit because their work looked AI-generated](https://www.pcgamer.com/artist-banned-from-art-subreddit-because-their-work-looked-ai-generated)
- - [Microsoft runs pro-union ad in push to acquire Activision Blizzard](https://www.pcgamer.com/microsoft-runs-pro-union-ad-in-push-to-acquire-activision-blizzard)<!-- GAME:END -->
+ - [Artist banned from art subreddit because their work looked AI-generated](https://www.pcgamer.com/artist-banned-from-art-subreddit-because-their-work-looked-ai-generated)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
