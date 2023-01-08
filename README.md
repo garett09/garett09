@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The hell of making Avatar 2 totally paid off](https://www.polygon.com/23542793/avatar-way-of-water-actors-underwater-motion-capture-making-of)
- - [How to watch Games Done Quick 2023](https://www.polygon.com/23541380/gdq-games-done-quick-2023-schedule-speedruns)
- - [Today&#39;s Wordle 568 answer and hint for Sunday, January 8](https://www.pcgamer.com/wordle-568-answer-january-8)<!-- GAME:END -->
+ - [The game studios changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
+ - [Watch the terrifying animated short that inspired Top Gun: Maverick](https://www.polygon.com/23540677/top-gun-maverick-watch-animated-short-inspiration)
+ - [The hell of making Avatar 2 totally paid off](https://www.polygon.com/23542793/avatar-way-of-water-actors-underwater-motion-capture-making-of)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
