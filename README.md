@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This indie dev made a free, 3D horror version of Minesweeper set in a masquerade ball](https://www.pcgamer.com/this-indie-dev-made-a-free-3d-horror-version-of-minesweeper-set-in-a-masquerade-ball)
  - [The game studios changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
- - [Watch the terrifying animated short that inspired Top Gun: Maverick](https://www.polygon.com/23540677/top-gun-maverick-watch-animated-short-inspiration)
- - [The hell of making Avatar 2 totally paid off](https://www.polygon.com/23542793/avatar-way-of-water-actors-underwater-motion-capture-making-of)<!-- GAME:END -->
+ - [Watch the terrifying animated short that inspired Top Gun: Maverick](https://www.polygon.com/23540677/top-gun-maverick-watch-animated-short-inspiration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
