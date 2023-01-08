@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVE Online has two expansions coming in 2023 following a 2022 boom](https://www.pcgamer.com/eve-online-has-two-expansions-coming-in-2023-following-a-2022-boom)
- - [Left 4 Dead prototype leaks](https://www.pcgamer.com/left-4-dead-prototype-leaks)
- - [TF2 voice cast chaos now includes ABBA parody because why not](https://www.pcgamer.com/tf2-voice-cast-chaos-now-includes-abba-parody-because-why-not)<!-- GAME:END -->
+ - [Microsoft runs pro-union ad in push to acquire Activision Blizzard](https://www.pcgamer.com/microsoft-runs-pro-union-ad-in-push-to-acquire-activision-blizzard)
+ - [NYC public schools have banned ChatGPT over cheating concerns, while the bot itself insists it is anti-plagiarism](https://www.pcgamer.com/nyc-public-schools-have-banned-chatgpt-over-cheating-concerns-while-the-bot-itself-insists-it-is-anti-plagiarism)
+ - [EVE Online has two expansions coming in 2023 following a 2022 boom](https://www.pcgamer.com/eve-online-has-two-expansions-coming-in-2023-following-a-2022-boom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
