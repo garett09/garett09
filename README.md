@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wasn&#39;t my fault](http://9gag.com/gag/aKE7PXQ)
- - 🚯 [Blurr your vision, tell me what do you see](http://9gag.com/gag/aOx7d86)
- - 🚯 [Why does tapping one&#39;s \u00e1ss is considered to be a way to support /cheer them up ?](http://9gag.com/gag/aMExwEV)<!-- MEMES:END -->
+ - 🚖 [Hmm](http://9gag.com/gag/aPg7yAG)
+ - 🚯 [India&#39;s tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state](http://9gag.com/gag/avQz0KZ)
+ - 🚯 [Not in the army but i&#39;ll definitely try her](http://9gag.com/gag/ay2epeb)<!-- MEMES:END -->
 
 --- 
 
