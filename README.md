@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Browser Add-Ons to Make Downloading Videos Easy](https://www.wired.com/story/10-browser-add-ons-extensions-download-videos-photos/)
- - [Daily deals Jan. 8: $50 off Apple Watch Series 8, 31% off Roborock Q5+ Robot Vacuum, $200 off 75-inch LG 4K Smart TV, more](https://appleinsider.com/articles/23/01/08/daily-deals-jan-8-50-off-apple-watch-series-8-31-off-roborock-q5-robot-vacuum-200-off-75-inch-lg-4k-smart-tv-more?utm_medium=rss)
- - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple&#39;s headset &quot;Reality Pro&quot; to be unveiled this spring, before WWDC; new Mac Pro will have the same design as current Intel model, no expandable RAM &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230108/p5#a230108p5)
+ - [Apple&#39;s mixed reality headset may launch before WWDC](https://appleinsider.com/articles/23/01/08/apples-mixed-reality-headset-may-launch-before-wwdc?utm_medium=rss)
+ - [The OnePlus 11 5G Had My Curiosity, but Now Has My Attention     - CNET](https://www.cnet.com/tech/mobile/the-oneplus-11-5g-had-my-curiosity-but-now-has-my-attention/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
