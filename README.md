@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s mixed reality headset debut expected in the spring](https://appleinsider.com/articles/23/01/08/apples-mixed-reality-headset-may-launch-before-wwdc?utm_medium=rss)
- - [Apple&#39;s muted 2023 hardware launches to include Mac Pro with fixed memory](https://appleinsider.com/articles/23/01/08/apples-muted-2023-hardware-launches-to-include-mac-pro-with-fixed-memory?utm_medium=rss)
- - [Chargers vs. Broncos Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chargers-vs-broncos-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cherry KC 6000C for Mac review: A mediocre wired keyboard](https://appleinsider.com/articles/23/01/07/cherry-kc-6000c-for-mac-review-a-mediocre-wired-keyboard?utm_medium=rss)
+ - [Lion Energy Power Bank review: Not an ordinary power source](https://appleinsider.com/articles/23/01/08/lion-energy-power-bank-review-not-an-ordinary-power-source?utm_medium=rss)
+ - [Razer Kiyo Pro Ultra 4K webcam hands on, from CES 2023](https://appleinsider.com/articles/23/01/08/ces-2023-hands-on-razer-kiyo-pro-ultra-4k-webcam?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
