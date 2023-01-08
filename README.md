@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best apps to stay fit, recommended by a personal trainer](https://appleinsider.com/articles/23/01/07/the-six-best-apps-a-personal-trainer-uses-to-stay-fit?utm_medium=rss)
- - [Despite a recent pledge by Chinese officials to support tech to boost growth, VCs and foreign investors remain wary after a brutal, two-year regulatory campaign &lpar;Financial Times&rpar;](http://www.techmeme.com/230107/p13#a230107p13)
- - [CES 2023: all the news from the year’s biggest tech conference](https://www.theverge.com/23496511/ces-2023-news-products-announcements-tvs-laptops-fitness-trackers)<!-- TECH:END -->
+ - [The CES 2023 Products You Can Actually Buy This Year     - CNET](https://www.cnet.com/tech/the-ces-2023-products-you-can-actually-buy-this-year/#ftag=CAD590a51e)
+ - [Cherry KC 6000C for Mac review: A mediocre wired keyboard](https://appleinsider.com/articles/23/01/07/cherry-kc-6000c-for-mac-review-a-mediocre-wired-keyboard?utm_medium=rss)
+ - [The Wonders of CES 2023: Flying Cars, an 8K Projector and Screens That Shape Shift     - CNET](https://www.cnet.com/tech/the-wonders-of-ces-2023-flying-cars-an-8k-projector-and-screens-that-shape-shift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
