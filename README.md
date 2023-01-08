@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Artist banned from art subreddit because their work looked AI-generated](https://www.pcgamer.com/artist-banned-from-art-subreddit-because-their-work-looked-ai-generated)
  - [Microsoft runs pro-union ad in push to acquire Activision Blizzard](https://www.pcgamer.com/microsoft-runs-pro-union-ad-in-push-to-acquire-activision-blizzard)
- - [NYC public schools have banned ChatGPT over cheating concerns, while the bot itself insists it is anti-plagiarism](https://www.pcgamer.com/nyc-public-schools-have-banned-chatgpt-over-cheating-concerns-while-the-bot-itself-insists-it-is-anti-plagiarism)
- - [EVE Online has two expansions coming in 2023 following a 2022 boom](https://www.pcgamer.com/eve-online-has-two-expansions-coming-in-2023-following-a-2022-boom)<!-- GAME:END -->
+ - [NYC public schools have banned ChatGPT over cheating concerns, while the bot itself insists it is anti-plagiarism](https://www.pcgamer.com/nyc-public-schools-have-banned-chatgpt-over-cheating-concerns-while-the-bot-itself-insists-it-is-anti-plagiarism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
