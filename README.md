@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audeze interview: The Maxwell is our best-sounding gaming headset to date](https://www.androidauthority.com/audeze-interview-ces-3264287/)
  - [The economic downturn is hurting the creator economy, one of the most-hyped sectors of the past decade, in particular since its middle class hasn&#39;t yet emerged &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230108/p6#a230108p6)
- - [The Future of Work on Display at CES 2023     - CNET](https://www.cnet.com/tech/computing/the-future-of-work-on-display-at-ces-2023/#ftag=CAD590a51e)
- - [CTA interview: This year’s CES is all about sustainability](https://www.androidauthority.com/cta-interview-ces-3264273/)<!-- TECH:END -->
+ - [The Future of Work on Display at CES 2023     - CNET](https://www.cnet.com/tech/computing/the-future-of-work-on-display-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
