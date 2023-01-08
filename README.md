@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There you go](http://9gag.com/gag/aVbwqBy)
- - 🚯 [I\u2019m like this. No one gets me](http://9gag.com/gag/aRE7mBj)
- - 🚯 [Heresy!](http://9gag.com/gag/aPg7WEq)<!-- MEMES:END -->
+ - 🚖 [Wasn&#39;t my fault](http://9gag.com/gag/aKE7PXQ)
+ - 🚯 [Skill 22: ability to do what OP does](http://9gag.com/gag/a7qWDpb)
+ - 🚯 [Oh yes right there](http://9gag.com/gag/aDY4zrd)<!-- MEMES:END -->
 
 --- 
 
