@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the bullshido of coffee](http://9gag.com/gag/aL1w9EV)
- - 🚯 [Almost there..](http://9gag.com/gag/aEqPR8M)
- - 🚯 [Directed by Christopher Nolan...](http://9gag.com/gag/aWGxMwZ)<!-- MEMES:END -->
+ - 🚖 [Wasn&#39;t my fault](http://9gag.com/gag/aKE7PXQ)
+ - 🚯 [Blurr your vision, tell me what do you see](http://9gag.com/gag/aOx7d86)
+ - 🚯 [Why does tapping one&#39;s \u00e1ss is considered to be a way to support /cheer them up ?](http://9gag.com/gag/aMExwEV)<!-- MEMES:END -->
 
 --- 
 
