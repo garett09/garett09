@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
- - 🚯 [Guys this screw keeps blinking and hitting the window, anyone know what it&#39;s for?](http://9gag.com/gag/aPg74bV)
- - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)<!-- MEMES:END -->
+ - 🚯 [Win-win](http://9gag.com/gag/aOx7BK2)
+ - 🚯 [Lube is little bit expensive nowadays](http://9gag.com/gag/awZBQbW)<!-- MEMES:END -->
 
 --- 
 
