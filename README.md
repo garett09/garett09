@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm](http://9gag.com/gag/aPg7yAG)
- - 🚯 [India&#39;s tallest elephant, Thechikottukavu Ramachandran - Still alive at age 58 he has killed a record 15 people and 3 elephants in his lifetime and is branded as the most dangerous captive elephant in the state](http://9gag.com/gag/avQz0KZ)
- - 🚯 [Not in the army but i&#39;ll definitely try her](http://9gag.com/gag/ay2epeb)<!-- MEMES:END -->
+ - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
+ - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
+ - 🚯 [Range rover](http://9gag.com/gag/armVpGy)<!-- MEMES:END -->
 
 --- 
 
