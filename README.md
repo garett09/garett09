@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Important Tech Trends at CES 2023     - CNET](https://www.cnet.com/tech/the-most-important-tech-trends-at-ces-2023/#ftag=CAD590a51e)
- - [Sources: the US attorney&#39;s office for the Western District of Washington sent subpoenas to US-based hedge funds for records of their communications with Binance &lpar;Washington Post&rpar;](http://www.techmeme.com/230108/p1#a230108p1)
- - [The Best EVs, Electric Bikes and Rideables We Saw at CES 2023     - CNET](https://www.cnet.com/roadshow/news/the-best-evs-electric-bikes-and-rideables-we-saw-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After years of hype, 5G took a back seat at CES 2023, as the industry focuses on laying the groundwork for self-driving cars, AR, and expanding IoT in cities &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230108/p3#a230108p3)
+ - [Seattle Public Schools sue TikTok, YouTube, Facebook, Snap, Instagram, and their parent companies for allegedly causing a youth mental health crisis &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230108/p2#a230108p2)
+ - [The Most Important Tech Trends at CES 2023     - CNET](https://www.cnet.com/tech/the-most-important-tech-trends-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
