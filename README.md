@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
- - 🚯 [Win-win](http://9gag.com/gag/aOx7BK2)
- - 🚯 [We live in a video game world](http://9gag.com/gag/aDY4zmd)<!-- MEMES:END -->
+ - 🚖 [There you go](http://9gag.com/gag/aVbwqBy)
+ - 🚯 [I\u2019m like this. No one gets me](http://9gag.com/gag/aRE7mBj)
+ - 🚯 [Heresy!](http://9gag.com/gag/aPg7WEq)<!-- MEMES:END -->
 
 --- 
 
