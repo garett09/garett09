@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audeze interview: The Maxwell is our best-sounding gaming headset to date](https://www.androidauthority.com/audeze-interview-ces-3264287/)
- - [The economic downturn is hurting the creator economy, one of the most-hyped sectors of the past decade, in particular since its middle class hasn&#39;t yet emerged &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230108/p6#a230108p6)
- - [The Future of Work on Display at CES 2023     - CNET](https://www.cnet.com/tech/computing/the-future-of-work-on-display-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best smart home tech we saw at CES 2023](https://www.androidauthority.com/best-smart-home-ces-2023-3263458/)
+ - [Lenovo Yoga Book 9i hands-on: bringing dual-screens to a new level](https://www.androidauthority.com/lenovo-yoga-book-9i-hands-on-3262633/)
+ - [The Cyberspace Administration of China will start regulating &quot;deep synthesis&quot; tech like AI-powered image, audio and text-generation software starting next week &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/230108/p7#a230108p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
