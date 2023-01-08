@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s headset &quot;Reality Pro&quot; to be unveiled this spring, before WWDC; new Mac Pro will have the same design as current Intel model, no expandable RAM &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230108/p5#a230108p5)
- - [Apple&#39;s mixed reality headset may launch before WWDC](https://appleinsider.com/articles/23/01/08/apples-mixed-reality-headset-may-launch-before-wwdc?utm_medium=rss)
- - [The OnePlus 11 5G Had My Curiosity, but Now Has My Attention     - CNET](https://www.cnet.com/tech/mobile/the-oneplus-11-5g-had-my-curiosity-but-now-has-my-attention/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s muted 2023 hardware launches to include Mac Pro with fixed memory](https://appleinsider.com/articles/23/01/08/apples-muted-2023-hardware-launches-to-include-mac-pro-with-fixed-memory?utm_medium=rss)
+ - [We Were Amazed by LG&#39;s Wireless 97-Inch OLED TV     - CNET](https://www.cnet.com/tech/home-entertainment/we-were-amazed-by-lgs-wireless-97-inch-oled-tv/#ftag=CAD590a51e)
+ - [Renew Your Kitchen With Deals on New and Used Appliances From GE, Cuisinart and More     - CNET](https://www.cnet.com/deals/renew-your-kitchen-with-deals-on-new-and-used-appliances-from-ge-cuisinart-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
