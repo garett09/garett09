@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s muted 2023 hardware launches to include Mac Pro with fixed memory](https://appleinsider.com/articles/23/01/08/apples-muted-2023-hardware-launches-to-include-mac-pro-with-fixed-memory?utm_medium=rss)
- - [We Were Amazed by LG&#39;s Wireless 97-Inch OLED TV     - CNET](https://www.cnet.com/tech/home-entertainment/we-were-amazed-by-lgs-wireless-97-inch-oled-tv/#ftag=CAD590a51e)
- - [Renew Your Kitchen With Deals on New and Used Appliances From GE, Cuisinart and More     - CNET](https://www.cnet.com/deals/renew-your-kitchen-with-deals-on-new-and-used-appliances-from-ge-cuisinart-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CTA interview: This year’s CES is all about sustainability](https://www.androidauthority.com/cta-interview-ces-3264273/)
+ - [The cost of doing business: Apple&#39;s App Store fees explained](https://appleinsider.com/articles/23/01/08/the-cost-of-doing-business-apples-app-store-fees-explained?utm_medium=rss)
+ - [Save Over 90% on Microsoft Office 2021 and Get Lifetime Access for Just $30     - CNET](https://www.cnet.com/deals/save-over-90-on-microsoft-office-2021-and-get-lifetime-access-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
