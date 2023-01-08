@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cherry KC 6000C for Mac review: A mediocre wired keyboard](https://appleinsider.com/articles/23/01/07/cherry-kc-6000c-for-mac-review-a-mediocre-wired-keyboard?utm_medium=rss)
- - [Lion Energy Power Bank review: Not an ordinary power source](https://appleinsider.com/articles/23/01/08/lion-energy-power-bank-review-not-an-ordinary-power-source?utm_medium=rss)
- - [Razer Kiyo Pro Ultra 4K webcam hands on, from CES 2023](https://appleinsider.com/articles/23/01/08/ces-2023-hands-on-razer-kiyo-pro-ultra-4k-webcam?utm_medium=rss)<!-- TECH:END -->
+ - [Get these workout accessories for the fitness newbie in your life](https://appleinsider.com/articles/23/01/08/get-these-workout-accessories-for-the-fitness-newbie-in-your-life?utm_medium=rss)
+ - [Best TV Deals of 2023: Save Up to $1,200 on TVs from LG, Samsung and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
+ - [Best 3D Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
