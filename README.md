@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart home tech we saw at CES 2023](https://www.androidauthority.com/best-smart-home-ces-2023-3263458/)
- - [Lenovo Yoga Book 9i hands-on: bringing dual-screens to a new level](https://www.androidauthority.com/lenovo-yoga-book-9i-hands-on-3262633/)
- - [The Cyberspace Administration of China will start regulating &quot;deep synthesis&quot; tech like AI-powered image, audio and text-generation software starting next week &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/230108/p7#a230108p7)<!-- TECH:END -->
+ - [Apple&#39;s mixed reality headset debut expected in the spring](https://appleinsider.com/articles/23/01/08/apples-mixed-reality-headset-may-launch-before-wwdc?utm_medium=rss)
+ - [Apple&#39;s muted 2023 hardware launches to include Mac Pro with fixed memory](https://appleinsider.com/articles/23/01/08/apples-muted-2023-hardware-launches-to-include-mac-pro-with-fixed-memory?utm_medium=rss)
+ - [Chargers vs. Broncos Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chargers-vs-broncos-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
