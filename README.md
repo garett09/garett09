@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CTA interview: This year’s CES is all about sustainability](https://www.androidauthority.com/cta-interview-ces-3264273/)
- - [The cost of doing business: Apple&#39;s App Store fees explained](https://appleinsider.com/articles/23/01/08/the-cost-of-doing-business-apples-app-store-fees-explained?utm_medium=rss)
- - [Save Over 90% on Microsoft Office 2021 and Get Lifetime Access for Just $30     - CNET](https://www.cnet.com/deals/save-over-90-on-microsoft-office-2021-and-get-lifetime-access-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The economic downturn is hurting the creator economy, one of the most-hyped sectors of the past decade, in particular since its middle class hasn&#39;t yet emerged &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230108/p6#a230108p6)
+ - [The Future of Work on Display at CES 2023     - CNET](https://www.cnet.com/tech/computing/the-future-of-work-on-display-at-ces-2023/#ftag=CAD590a51e)
+ - [CTA interview: This year’s CES is all about sustainability](https://www.androidauthority.com/cta-interview-ces-3264273/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
