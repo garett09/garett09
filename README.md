@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s META tech for OLED TVs is much better than the terrible name implies](https://www.androidauthority.com/lg-meta-3264225/)
- - [Marseille-based Volta Medical, whose AI assistant helps surgeons in cardiac ablation procedures, raised a &amp;euro;36M Series B, bringing its total funding to over &amp;euro;70M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/230107/p12#a230107p12)
- - [The JBL Bar 1300X is like a full surround sound system, but in a soundbar](https://www.androidauthority.com/jbl-bar-1300x-3264208/)<!-- TECH:END -->
+ - [The best apps to stay fit, recommended by a personal trainer](https://appleinsider.com/articles/23/01/07/the-six-best-apps-a-personal-trainer-uses-to-stay-fit?utm_medium=rss)
+ - [Despite a recent pledge by Chinese officials to support tech to boost growth, VCs and foreign investors remain wary after a brutal, two-year regulatory campaign &lpar;Financial Times&rpar;](http://www.techmeme.com/230107/p13#a230107p13)
+ - [CES 2023: all the news from the year’s biggest tech conference](https://www.theverge.com/23496511/ces-2023-news-products-announcements-tvs-laptops-fitness-trackers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
