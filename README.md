@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
+ - 🚖 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
  - 🚯 [Win-win](http://9gag.com/gag/aOx7BK2)
- - 🚯 [Lube is little bit expensive nowadays](http://9gag.com/gag/awZBQbW)<!-- MEMES:END -->
+ - 🚯 [We live in a video game world](http://9gag.com/gag/aDY4zmd)<!-- MEMES:END -->
 
 --- 
 
