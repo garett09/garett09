@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Your Brain Distinguishes Memories From Perceptions](https://www.wired.com/story/how-your-brain-distinguishes-memories-from-perceptions/)
- - [10 Best Xbox Game Pass Games &lpar;January 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
- - [How Often Should You Update Your Profile Photos?](https://www.wired.com/story/how-often-you-should-update-profile-photos/)<!-- TECH:END -->
+ - [10 Browser Add-Ons to Make Downloading Videos Easy](https://www.wired.com/story/10-browser-add-ons-extensions-download-videos-photos/)
+ - [Daily deals Jan. 8: $50 off Apple Watch Series 8, 31% off Roborock Q5+ Robot Vacuum, $200 off 75-inch LG 4K Smart TV, more](https://appleinsider.com/articles/23/01/08/daily-deals-jan-8-50-off-apple-watch-series-8-31-off-roborock-q5-robot-vacuum-200-off-75-inch-lg-4k-smart-tv-more?utm_medium=rss)
+ - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
