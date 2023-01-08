@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
+ - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
  - 🚯 [#BelieveAllWomen](http://9gag.com/gag/agoALD6)
- - 🚯 [Supportive parents](http://9gag.com/gag/aqenNeQ)<!-- MEMES:END -->
+ - 🚯 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)<!-- MEMES:END -->
 
 --- 
 
