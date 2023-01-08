@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shut your wh\u00f6re mouth](http://9gag.com/gag/aBdmrMx)
- - 🚯 [Doesn&#39;t warn about alligators](http://9gag.com/gag/a04NpMX)
- - 🚯 [I guess those students are OP 9gaggers now.](http://9gag.com/gag/aeQDpq5)<!-- MEMES:END -->
+ - 🚖 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)
+ - 🚯 [Civic owner tries to block bus over fight with driver, ends up getting instant justice by infuriated passengers](http://9gag.com/gag/a7qWr7e)
+ - 🚯 [American justice](http://9gag.com/gag/a8qGprY)<!-- MEMES:END -->
 
 --- 
 
