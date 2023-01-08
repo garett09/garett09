@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Propaganda fail](http://9gag.com/gag/aEqPB4o)
- - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 🚯 [Listen closely..](http://9gag.com/gag/ay2eXEW)<!-- MEMES:END -->
+ - 🚖 [I guess those students are OP 9gaggers now.](http://9gag.com/gag/aeQDpq5)
+ - 🚯 [Toss corned beef and a grenade right after that.](http://9gag.com/gag/aGEdx4w)
+ - 🚯 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)<!-- MEMES:END -->
 
 --- 
 
