@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm](http://9gag.com/gag/aPg7yAG)
- - 🚯 [Reality check.](http://9gag.com/gag/a1PWbLb)
- - 🚯 [Well... it wasn&#39;t a surprise if it&#39;s come from #00000 woman](http://9gag.com/gag/a4o3b5Q)<!-- MEMES:END -->
+ - 🚖 [Ofcourse honey](http://9gag.com/gag/avQzGgZ)
+ - 🚯 [The disrespect 2](http://9gag.com/gag/agoAqow)
+ - 🚯 [Stereotype](http://9gag.com/gag/aEqPzmG)<!-- MEMES:END -->
 
 --- 
 
