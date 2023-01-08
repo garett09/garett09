@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess those students are OP 9gaggers now.](http://9gag.com/gag/aeQDpq5)
- - 🚯 [Because the 90&#39;s](http://9gag.com/gag/aWGx6r2)
- - 🚯 [The disrespect 2](http://9gag.com/gag/agoAqow)<!-- MEMES:END -->
+ - 🚖 [Can&#39;t just imagine what male genders will be doing during dribbling](http://9gag.com/gag/a9qnpbL)
+ - 🚯 [Beefy underwear.](http://9gag.com/gag/aGEdjO0)
+ - 🚯 [Activate bro code](http://9gag.com/gag/awZBXer)<!-- MEMES:END -->
 
 --- 
 
