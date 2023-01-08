@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
- - 🚯 [#BelieveAllWomen](http://9gag.com/gag/agoALD6)
- - 🚯 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)<!-- MEMES:END -->
+ - 🚖 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
+ - 🚯 [Guys this screw keeps blinking and hitting the window, anyone know what it&#39;s for?](http://9gag.com/gag/aPg74bV)
+ - 🚯 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)<!-- MEMES:END -->
 
 --- 
 
