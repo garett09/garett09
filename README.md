@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Twitter cuts more staff in its diminished trust and safety team handling global content moderation and in a unit mitigating hate speech and harassment &lpar;Bloomberg&rpar;](http://www.techmeme.com/230107/p16#a230107p16)
  - [DoNotPay plans to use its AI-based legal advisor to coach a defendant via an earpiece to fight a speeding ticket in an unnamed US courtroom in February 2023 &lpar;Lauren Leffer/Gizmodo&rpar;](http://www.techmeme.com/230107/p15#a230107p15)
- - [The number of active users on Mastodon dropped from a peak of over 2.5M in early December 2022 to about 1.8M in the first week of January 2023 &lpar;Josh Nicholas/The Guardian&rpar;](http://www.techmeme.com/230107/p14#a230107p14)
- - [The CES 2023 Products You Can Actually Buy This Year     - CNET](https://www.cnet.com/tech/the-ces-2023-products-you-can-actually-buy-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The number of active users on Mastodon dropped from a peak of over 2.5M in early December 2022 to about 1.8M in the first week of January 2023 &lpar;Josh Nicholas/The Guardian&rpar;](http://www.techmeme.com/230107/p14#a230107p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
