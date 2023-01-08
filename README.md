@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ofcourse honey](http://9gag.com/gag/avQzGgZ)
- - 🚯 [The disrespect 2](http://9gag.com/gag/agoAqow)
- - 🚯 [Stereotype](http://9gag.com/gag/aEqPzmG)<!-- MEMES:END -->
+ - 🚖 [Heresy!](http://9gag.com/gag/aPg7WEq)
+ - 🚯 [Doctors are miracle workers](http://9gag.com/gag/aNwgA26)
+ - 🚯 [Priorities](http://9gag.com/gag/adPV7bM)<!-- MEMES:END -->
 
 --- 
 
