@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wasn&#39;t my fault](http://9gag.com/gag/aKE7PXQ)
- - 🚯 [Skill 22: ability to do what OP does](http://9gag.com/gag/a7qWDpb)
- - 🚯 [Oh yes right there](http://9gag.com/gag/aDY4zrd)<!-- MEMES:END -->
+ - 🚖 [The disrespect 2](http://9gag.com/gag/agoAqow)
+ - 🚯 [#BelieveAllWomen](http://9gag.com/gag/agoALD6)
+ - 🚯 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)<!-- MEMES:END -->
 
 --- 
 
