@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
- - 🚯 [Well... it wasn&#39;t a surprise if it&#39;s come from #00000 woman](http://9gag.com/gag/a4o3b5Q)
- - 🚯 [The color of magic](http://9gag.com/gag/aRE7mjA)<!-- MEMES:END -->
+ - 🚖 [Crazy frog..](http://9gag.com/gag/aGEdV0n)
+ - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
+ - 🚯 [Doesn&#39;t warn about alligators](http://9gag.com/gag/a04NpMX)<!-- MEMES:END -->
 
 --- 
 
