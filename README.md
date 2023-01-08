@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Columbia University&#39;s Creative Machines Lab, which is exploring questions around artificial consciousness and the possibility of self-aware robots &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/230108/p4#a230108p4)
- - [LG&#39;s Wireless 97-Inch OLED TV Comes With a Massive Surprise     - CNET](https://www.cnet.com/tech/home-entertainment/lgs-wireless-97-inch-oled-tv-its-massive-size-wasnt-the-biggest-surprise/#ftag=CAD590a51e)
- - [CES 2023&#39;s Cant-Miss Highlights: A Crazy 8K Projector, a Real Flying Car and the Tesla of the Sea     - CNET](https://www.cnet.com/tech/ces-2023s-cant-miss-highlights-a-crazy-8k-projector-a-real-flying-car-and-the-tesla-of-the-sea/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Often Should You Update Your Profile Photos?](https://www.wired.com/story/how-often-you-should-update-profile-photos/)
+ - [The Madness of CES 2023 in Photos](https://www.wired.com/gallery/ces-2023-photos-roger-kisby/)
+ - [Wellness on Wheels Is Possible](https://www.wired.com/story/wellness-cars-driving-transportation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
