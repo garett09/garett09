@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heresy!](http://9gag.com/gag/aPg7WEq)
- - 🚯 [Doctors are miracle workers](http://9gag.com/gag/aNwgA26)
- - 🚯 [Priorities](http://9gag.com/gag/adPV7bM)<!-- MEMES:END -->
+ - 🚖 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
+ - 🚯 [Guys this screw keeps blinking and hitting the window, anyone know what it&#39;s for?](http://9gag.com/gag/aPg74bV)
+ - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)<!-- MEMES:END -->
 
 --- 
 
