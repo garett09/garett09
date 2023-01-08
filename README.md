@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Often Should You Update Your Profile Photos?](https://www.wired.com/story/how-often-you-should-update-profile-photos/)
- - [The Madness of CES 2023 in Photos](https://www.wired.com/gallery/ces-2023-photos-roger-kisby/)
- - [Wellness on Wheels Is Possible](https://www.wired.com/story/wellness-cars-driving-transportation/)<!-- TECH:END -->
+ - [How Your Brain Distinguishes Memories From Perceptions](https://www.wired.com/story/how-your-brain-distinguishes-memories-from-perceptions/)
+ - [10 Best Xbox Game Pass Games &lpar;January 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
+ - [How Often Should You Update Your Profile Photos?](https://www.wired.com/story/how-often-you-should-update-profile-photos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
