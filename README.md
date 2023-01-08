@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I guess those students are OP 9gaggers now.](http://9gag.com/gag/aeQDpq5)
- - 🚯 [Toss corned beef and a grenade right after that.](http://9gag.com/gag/aGEdx4w)
- - 🚯 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)<!-- MEMES:END -->
+ - 🚯 [Because the 90&#39;s](http://9gag.com/gag/aWGx6r2)
+ - 🚯 [The disrespect 2](http://9gag.com/gag/agoAqow)<!-- MEMES:END -->
 
 --- 
 
