@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TF2 voice cast chaos now includes ABBA parody because why not](https://www.pcgamer.com/tf2-voice-cast-chaos-now-includes-abba-parody-because-why-not)
- - [Bad Mojo was one of the grossest games ever made](https://www.pcgamer.com/saturday-crapshoot-badmojo)
- - [This ambitious Dark Souls 3 total conversion will remix the game and add all-new content](https://www.pcgamer.com/this-ambitious-dark-souls-3-total-conversion-will-remix-the-game-and-add-all-new-content)<!-- GAME:END -->
+ - [EVE Online has two expansions coming in 2023 following a 2022 boom](https://www.pcgamer.com/eve-online-has-two-expansions-coming-in-2023-following-a-2022-boom)
+ - [Left 4 Dead prototype leaks](https://www.pcgamer.com/left-4-dead-prototype-leaks)
+ - [TF2 voice cast chaos now includes ABBA parody because why not](https://www.pcgamer.com/tf2-voice-cast-chaos-now-includes-abba-parody-because-why-not)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
