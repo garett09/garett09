@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If your woman say she can&#39;t cook, show this to her](http://9gag.com/gag/agoAyzK)
- - 🚯 [Civic owner tries to block bus over fight with driver, ends up getting instant justice by infuriated passengers](http://9gag.com/gag/a7qWr7e)
- - 🚯 [American justice](http://9gag.com/gag/a8qGprY)<!-- MEMES:END -->
+ - 🚖 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
+ - 🚯 [Well... it wasn&#39;t a surprise if it&#39;s come from #00000 woman](http://9gag.com/gag/a4o3b5Q)
+ - 🚯 [The color of magic](http://9gag.com/gag/aRE7mjA)<!-- MEMES:END -->
 
 --- 
 
