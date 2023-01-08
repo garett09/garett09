@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The kiss cam drained his soul](http://9gag.com/gag/aVbwXDP)
- - 🚯 [Religion explained\u2026in forty three seconds](http://9gag.com/gag/aeQD3vq)
- - 🚯 [Range rover](http://9gag.com/gag/armVpGy)<!-- MEMES:END -->
+ - 🚖 [Shut your wh\u00f6re mouth](http://9gag.com/gag/aBdmrMx)
+ - 🚯 [Doesn&#39;t warn about alligators](http://9gag.com/gag/a04NpMX)
+ - 🚯 [I guess those students are OP 9gaggers now.](http://9gag.com/gag/aeQDpq5)<!-- MEMES:END -->
 
 --- 
 
