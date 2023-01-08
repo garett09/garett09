@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [After years of hype, 5G took a back seat at CES 2023, as the industry focuses on laying the groundwork for self-driving cars, AR, and expanding IoT in cities &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230108/p3#a230108p3)
- - [Seattle Public Schools sue TikTok, YouTube, Facebook, Snap, Instagram, and their parent companies for allegedly causing a youth mental health crisis &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230108/p2#a230108p2)
- - [The Most Important Tech Trends at CES 2023     - CNET](https://www.cnet.com/tech/the-most-important-tech-trends-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We&#39;ve Never Seen Anything Like HTC&#39;s Standalone VR Headset     - CNET](https://www.cnet.com/tech/computing/weve-never-seen-anything-like-htcs-standalone-vr-headset/#ftag=CAD590a51e)
+ - [Seattle Public Schools sue TikTok, YouTube, Facebook, Snap, Instagram, and their parent companies for allegedly causing a youth mental health crisis &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230108/p2#a230108p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
