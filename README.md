@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Class, More Content, All Black Desert](https://news.xbox.com/en-us/2023/01/09/new-class-more-content-all-black-desert/)
- - [The Fashion Legend That&#39;s Influenced Some Of Your Favorite Games And Manga](https://kotaku.com/vivienne-westwood-video-games-nana-anime-final-fantasy-1849965424)
- - [Some Overwatch 2 Players Can&#39;t Stand This &#39;Pay To Lose&#39; Skin](https://kotaku.com/overwatch-2-battle-for-olympus-widowmaker-medusa-skin-1849965432)<!-- GAME:END -->
+ - [Should you play as a boy or girl in Persona 3 Portable?](https://www.polygon.com/guides/23542712/persona-3-portable-p3p-male-female-differences-vs-girl-boy-social-links)
+ - [6 Games To Play Now You&#39;ve Finished Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-games-like-digimon-cult-lamb-1849965748)
+ - [Combining Trauma with Feelgood — The Story of Wavetale](https://news.xbox.com/en-us/2023/01/09/combining-trauma-with-feelgood-the-story-of-wavetale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
