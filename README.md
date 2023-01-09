@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
- - 🚯 [It&#39;s almost like you need a vacation from your vacation](http://9gag.com/gag/a6qKKxA)
- - 🚯 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)<!-- MEMES:END -->
+ - 🚖 [Only men knows](http://9gag.com/gag/axo91Np)
+ - 🚯 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - 🚯 [Your daily dose of &#39;Murica](http://9gag.com/gag/a5XWWgy)<!-- MEMES:END -->
 
 --- 
 
