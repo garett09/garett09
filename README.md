@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you play as a boy or girl in Persona 3 Portable?](https://www.polygon.com/guides/23542712/persona-3-portable-p3p-male-female-differences-vs-girl-boy-social-links)
- - [6 Games To Play Now You&#39;ve Finished Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-games-like-digimon-cult-lamb-1849965748)
- - [Combining Trauma with Feelgood — The Story of Wavetale](https://news.xbox.com/en-us/2023/01/09/combining-trauma-with-feelgood-the-story-of-wavetale/)<!-- GAME:END -->
+ - [New Home Flipping Game Is Totally Not Creepy Or Scary At All](https://kotaku.com/regular-home-renovation-simulator-house-flipper-creepy-1849966123)
+ - [Belarus legalises piracy for content from &#39;unfriendly&#39; countries](https://www.pcgamer.com/belarus-legalises-piracy-for-content-from-unfriendly-countries)
+ - [Should you play as a boy or girl in Persona 3 Portable?](https://www.polygon.com/guides/23542712/persona-3-portable-p3p-male-female-differences-vs-girl-boy-social-links)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
