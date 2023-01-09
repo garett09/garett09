@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add custom Quick Actions to macOS Ventura Finder](https://appleinsider.com/articles/23/01/09/how-to-add-custom-quick-actions-to-macos-ventura-finder?utm_medium=rss)
- - [SteamDB: Valve&#39;s Steam platform crossed 10M concurrent in-game players for the first time on January 7 and recently exceeded 33M concurrent online users &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230109/p9#a230109p9)
- - [Wireless Power Consortium interview: Qi2 is all about interoperability](https://www.androidauthority.com/wireless-power-consortium-interview-ces-3264495/)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board overturns Facebook&#39;s decision to remove a post that said &quot;death to Khamenei&quot;, referencing the Iranian leader, after violent protests &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/230109/p12#a230109p12)
+ - [Zeus 270w Wall Charger review: Big power in a compact body](https://appleinsider.com/articles/23/01/09/zeus-270w-wall-charger-review-big-power-in-a-compact-body?utm_medium=rss)
+ - [LinkedIn posts and Apple job listings suggest Apple plans to open its first flagship stores in India, likely beyond the reported 22,000 sq. ft. store in Mumbai &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230109/p11#a230109p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
