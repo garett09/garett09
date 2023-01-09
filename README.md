@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worlds, which builds &quot;digital twins&quot; of floor operations for industrial companies to help boost productivity, raised a $21.2M Series A led by Moneta Ventures &lpar;VentureBeat&rpar;](http://www.techmeme.com/230109/p28#a230109p28)
- - [Apple looking to drop Broadcom as wi-fi, bluetooth, cellular supplier](https://appleinsider.com/articles/23/01/09/apple-looking-to-drop-broadcom-as-wi-fi-bluetooth-cellular-supplier?utm_medium=rss)
- - [Meta rolls out a Variance Reduction System, its AI ad-targeting tech meant to comply with its DOJ settlement and reduce discrimination in housing ads, in the US &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230109/p27#a230109p27)<!-- TECH:END -->
+ - [Meta plans to stop new software updates and some social features for the original Quest but will fix critical bugs until 2024; the headset launched in 2019 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230109/p29#a230109p29)
+ - [What to Know About Bird Flu, or Avian Influenza     - CNET](https://www.cnet.com/health/medical/what-to-know-about-bird-flu-or-avian-influenza/#ftag=CAD590a51e)
+ - [Best Cellphone Deals: Save Big on Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
