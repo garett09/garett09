@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Jan. 9: $300 off eufy Clean by Anker RoboVac, LG 65&quot; 4K Smart TV for $1,649 &amp; more](https://appleinsider.com/articles/23/01/09/daily-deals-jan-9-300-off-eufy-clean-by-anker-robovac-lg-65-4k-smart-tv-for-1649-more?utm_medium=rss)
- - [Vista Equity Partners agrees to acquire insurance tech company Duck Creek Technologies for $2.6B in cash, or $19 per share; Duck Creek stock jumps 45%+ &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/230109/p17#a230109p17)
- - [Structured 3.0.1 review: No frills, attractive daily planner](https://appleinsider.com/articles/23/01/09/structured-301-review-no-frills-attractive-daily-planner?utm_medium=rss)<!-- TECH:END -->
+ - [Crunchbase: Black US founders raised around 1%, or an estimated $2.254B, of the total US venture capital raised in 2022, down from the record 1.3% in 2021 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/230109/p19#a230109p19)
+ - [Supplies of iPhone 14 Pro models almost back to expected levels](https://appleinsider.com/articles/23/01/09/supplies-of-iphone-14-pro-models-almost-back-to-expected-levels?utm_medium=rss)
+ - [SCOTUS lets Meta&#39;s WhatsApp pursue a lawsuit accusing Israel&#39;s NSO Group of exploiting a bug to install spyware, allowing surveillance on 1,400 people &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/230109/p18#a230109p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
