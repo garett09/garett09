@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only men knows](http://9gag.com/gag/axo91Np)
- - 🚯 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - 🚯 [Your daily dose of &#39;Murica](http://9gag.com/gag/a5XWWgy)<!-- MEMES:END -->
+ - 🚖 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
+ - 🚯 [Sorry for the arrow, but can we respect the fact that during an insurrection that guy is selling cotton candy?](http://9gag.com/gag/aGEdpeZ)
+ - 🚯 [He the cat](http://9gag.com/gag/aA0ebLp)<!-- MEMES:END -->
 
 --- 
 
