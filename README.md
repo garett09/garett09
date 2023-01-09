@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 🚯 [Science...](http://9gag.com/gag/a5XWW1G)
- - 🚯 [Father-son quality time](http://9gag.com/gag/a4o33ry)<!-- MEMES:END -->
+ - 🚖 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - 🚯 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
+ - 🚯 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)<!-- MEMES:END -->
 
 --- 
 
