@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD for $1,349, a $300 discount](https://appleinsider.com/articles/23/01/09/get-apples-m1-macbook-air-with-16gb-ram-1tb-ssd-for-1349-a-300-discount?utm_medium=rss)
- - [Best of CES 2023: 7 Stunning Tech Innovations to Watch for This Year     - CNET](https://www.cnet.com/tech/best-of-ces-2023-7-stunning-tech-innovations-to-watch-for-this-year/#ftag=CAD590a51e)
- - [How to tether an iPhone to make a wireless hotspot](https://appleinsider.com/inside/iphone/tips/how-to-tether-an-iphone-to-make-a-wireless-hotspot?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Crash Detection now causing problems in Minnesota](https://appleinsider.com/articles/23/01/09/apple-crash-detection-now-causing-problems-in-minnesota?utm_medium=rss)
+ - [Instagram will replace the Shop shortcut with one for Reels in the navigation bar at the bottom of the app next month and give Compose button the center spot &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230109/p23#a230109p23)
+ - [Lion Prowler Energy Power Bank review: Not an ordinary power source](https://appleinsider.com/articles/23/01/08/lion-energy-power-bank-review-not-an-ordinary-power-source?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
