@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
- - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)<!-- MEMES:END -->
+ - 🚖 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
+ - 🚯 [It&#39;s almost like you need a vacation from your vacation](http://9gag.com/gag/a6qKKxA)
+ - 🚯 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)<!-- MEMES:END -->
 
 --- 
 
