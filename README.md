@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This official D&amp;D Lego set doubles as a fully playable gaming map](https://www.pcgamer.com/this-official-dandd-lego-set-doubles-as-a-fully-playable-gaming-map)
  - [Taste Sweet Victory with Special Edition Xbox Oreo Cookies and Delicious Prizes](https://news.xbox.com/en-us/2023/01/09/oreo-xbox-prizes-halo-forza-sea-of-thieves/)
- - [Today&#39;s Wordle 569 answer and hint for Monday, January 9](https://www.pcgamer.com/wordle-569-answer-january-9)
- - [Blood Origin shows the Witcher series isn&#39;t interested in winning back hardcore fans](https://www.pcgamer.com/blood-origin-shows-the-witcher-series-isnt-interested-in-winning-back-hardcore-fans)<!-- GAME:END -->
+ - [Today&#39;s Wordle 569 answer and hint for Monday, January 9](https://www.pcgamer.com/wordle-569-answer-january-9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
