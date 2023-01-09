@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
- - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)
- - 🚯 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)<!-- MEMES:END -->
+ - 🚖 [Drive safely](http://9gag.com/gag/amAv5jd)
+ - 🚯 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
+ - 🚯 [Damn](http://9gag.com/gag/aYVyKN0)<!-- MEMES:END -->
 
 --- 
 
