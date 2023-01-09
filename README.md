@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - 🚯 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
- - 🚯 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aYVyKN0)
+ - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)
+ - 🚯 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
 
 --- 
 
