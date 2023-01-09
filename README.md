@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Fantasy Shows to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-shows-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)
- - [Netflix: The 49 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-movies-to-watch/#ftag=CAD590a51e)
- - [How to get Apple TV &amp; HomePod working in hotels](https://appleinsider.com/inside/apple-tv/tips/how-to-get-apple-tv-homepod-working-in-hotels?utm_medium=rss)<!-- TECH:END -->
+ - [Russia&#39;s invasion of Ukraine boosted European investments in dual-use tech like autonomous drones, rockets for satellites, and more &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230108/p9#a230108p9)
+ - [The Best TVs We Saw at CES 2023     - CNET](https://www.cnet.com/tech/home-entertainment/the-best-tvs-we-saw-at-ces-2023/#ftag=CAD590a51e)
+ - [Netflix: The 52 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-binge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
