@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess he&#39;s a cat person](http://9gag.com/gag/aYVyYM0)
- - 🚯 [Let&#39;s get rid of the shitposters](http://9gag.com/gag/a04NQPL)
- - 🚯 [Still alive](http://9gag.com/gag/aMExZEW)<!-- MEMES:END -->
+ - 🚖 [Bikes](http://9gag.com/gag/aeQDMMO)
+ - 🚯 [Finally not bikini armor LOL &lpar; sauce : handyman saitou anime &rpar;, a relaxing fantasy story](http://9gag.com/gag/aWGxYzn)
+ - 🚯 [Pipe lining is the process of lining old dirty pipes with a liner that is soaked in a combination of resin and epoxy. Making the old pipes complete new without ripping them out.](http://9gag.com/gag/aoKPeww)<!-- MEMES:END -->
 
 --- 
 
