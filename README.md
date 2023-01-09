@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Joker is pregnant, and there’s a perfectly reasonable explanation as to why](https://www.polygon.com/2023/1/9/23546541/joker-pregnant-batman-comic-gives-birth)
- - [This new AI can mimic human voices with only 3 seconds of training](https://www.pcgamer.com/this-new-ai-can-mimic-human-voices-with-only-3-seconds-of-training)
- - [Bring Your Game-Changing Idea to Life at Imagine Cup 2023](https://news.xbox.com/en-us/2023/01/09/bring-your-game-changing-idea-to-life-at-imagine-cup-2023/)<!-- GAME:END -->
+ - [EA, you&#39;ve created a time paradox! Dead Space&#39;s pre-order bonus is Dead Space 2](https://www.pcgamer.com/ea-youve-created-a-time-paradox-dead-spaces-pre-order-bonus-is-dead-space-2)
+ - [I&#39;m obsessed with this Nintendo Switch-inspired mechanical keyboard](https://www.pcgamer.com/im-obsessed-with-this-nintendo-switch-inspired-mechanical-keyboard)
+ - [Report: Callisto Protocol Devs Left Out Of Credits Despite ‘Intense’ Work](https://kotaku.com/callisto-protocol-crunch-credits-dead-space-schofield-1849967065)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
