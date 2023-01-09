@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We stay winning](http://9gag.com/gag/az2mq8N)
- - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)
- - 🚯 [There has been an unfortunate security breach and civilians are advised to be vigilant](http://9gag.com/gag/a1PWRMv)<!-- MEMES:END -->
+ - 🚖 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
+ - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)
+ - 🚯 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)<!-- MEMES:END -->
 
 --- 
 
