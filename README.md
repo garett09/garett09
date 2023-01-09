@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to tether an iPhone to make a wireless hotspot](https://appleinsider.com/inside/iphone/tips/how-to-tether-an-iphone-to-make-a-wireless-hotspot?utm_medium=rss)
- - [Rolling Square AirCard &amp; AirCard E with Find My -- Hands on](https://appleinsider.com/articles/23/01/09/rolling-square-aircard-aircard-e-with-find-my----hands-on?utm_medium=rss)
- - [A celebrity photo lawsuit claims Twitter’s copyright process is broken](https://www.theverge.com/2023/1/9/23537351/twitter-lawsuit-dmca-copyright-infringement-backgrid)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD for $1,349, a $300 discount](https://appleinsider.com/articles/23/01/09/get-apples-m1-macbook-air-with-16gb-ram-1tb-ssd-for-1349-a-300-discount?utm_medium=rss)
+ - [Best of CES 2023: 7 Stunning Tech Innovations to Watch for This Year     - CNET](https://www.cnet.com/tech/best-of-ces-2023-7-stunning-tech-innovations-to-watch-for-this-year/#ftag=CAD590a51e)
+ - [How to tether an iPhone to make a wireless hotspot](https://appleinsider.com/inside/iphone/tips/how-to-tether-an-iphone-to-make-a-wireless-hotspot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
