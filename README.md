@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t just imagine what male genders will be doing during dribbling](http://9gag.com/gag/a9qnpbL)
- - 🚯 [Beefy underwear.](http://9gag.com/gag/aGEdjO0)
- - 🚯 [Activate bro code](http://9gag.com/gag/awZBXer)<!-- MEMES:END -->
+ - 🚖 [No way.... No frickin way](http://9gag.com/gag/amAv2qd)
+ - 🚯 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
+ - 🚯 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)<!-- MEMES:END -->
 
 --- 
 
