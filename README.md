@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do you hear?](http://9gag.com/gag/anz4Mbq)
- - 🚯 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
- - 🚯 [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)<!-- MEMES:END -->
+ - 🚖 [Beefy underwear.](http://9gag.com/gag/aGEdjO0)
+ - 🚯 [Can&#39;t just imagine what male genders will be doing during dribbling](http://9gag.com/gag/a9qnpbL)
+ - 🚯 [Guess he&#39;s a cat person](http://9gag.com/gag/aYVyYM0)<!-- MEMES:END -->
 
 --- 
 
