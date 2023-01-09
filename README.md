@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps gets parking information with SpotHero integration](https://appleinsider.com/articles/23/01/09/apple-maps-gets-parking-information-with-spothero-integration?utm_medium=rss)
+ - [How to tether an iPhone to make a wireless hotspot](https://appleinsider.com/inside/iphone/tips/how-to-tether-an-iphone-to-make-a-wireless-hotspot?utm_medium=rss)
  - [Rolling Square AirCard &amp; AirCard E with Find My -- Hands on](https://appleinsider.com/articles/23/01/09/rolling-square-aircard-aircard-e-with-find-my----hands-on?utm_medium=rss)
- - [MSI says Afterburner isn’t abandoned, despite its developer’s doubts](https://www.theverge.com/2023/1/9/23546476/msi-afterburner-abandoned-dead-unwinder-developer-russia-ukraine-war)<!-- TECH:END -->
+ - [A celebrity photo lawsuit claims Twitter’s copyright process is broken](https://www.theverge.com/2023/1/9/23537351/twitter-lawsuit-dmca-copyright-infringement-backgrid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
