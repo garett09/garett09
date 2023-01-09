@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drive safely](http://9gag.com/gag/amAv5jd)
+ - 🚖 [Nothing happens!](http://9gag.com/gag/amAvv06)
  - 🚯 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)
- - 🚯 [Damn](http://9gag.com/gag/aYVyKN0)<!-- MEMES:END -->
+ - 🚯 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)<!-- MEMES:END -->
 
 --- 
 
