@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Crash Detection now causing problems in Minnesota](https://appleinsider.com/articles/23/01/09/apple-crash-detection-now-causing-problems-in-minnesota?utm_medium=rss)
- - [Instagram will replace the Shop shortcut with one for Reels in the navigation bar at the bottom of the app next month and give Compose button the center spot &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230109/p23#a230109p23)
- - [Lion Prowler Energy Power Bank review: Not an ordinary power source](https://appleinsider.com/articles/23/01/08/lion-energy-power-bank-review-not-an-ordinary-power-source?utm_medium=rss)<!-- TECH:END -->
+ - [Top Apple deals on Amazon for the week of January 9th](https://appleinsider.com/articles/23/01/09/top-apple-deals-on-amazon-for-the-week-of-january-9th?utm_medium=rss)
+ - [A shady iOS app selling IAP subs called &quot;ChatGPT Chat GPT AI With GPT-3&quot; that is not affiliated with OpenAI has been a top paid app on the App Store for days &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/230109/p24#a230109p24)
+ - [We tried Tesla&#39;s wireless charger -- but we can&#39;t show you](https://appleinsider.com/articles/23/01/09/we-tried-teslas-wireless-charger----but-we-cant-show-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
