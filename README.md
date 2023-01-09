@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beefy underwear.](http://9gag.com/gag/aGEdjO0)
- - 🚯 [Can&#39;t just imagine what male genders will be doing during dribbling](http://9gag.com/gag/a9qnpbL)
- - 🚯 [Guess he&#39;s a cat person](http://9gag.com/gag/aYVyYM0)<!-- MEMES:END -->
+ - 🚖 [Jonathan Lee Riches has sued over 4,000 companies and individuals, and holds the world record for the largest amount of lawsuits filed, including suits against Bill Gates and Pope Benedict XVI. When he found out that he held the record, he sued Guinness.](http://9gag.com/gag/aoKPpW3)
+ - 🚯 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
+ - 🚯 [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)<!-- MEMES:END -->
 
 --- 
 
