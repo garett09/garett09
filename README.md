@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get these workout accessories for the fitness newbie in your life](https://appleinsider.com/articles/23/01/08/get-these-workout-accessories-for-the-fitness-newbie-in-your-life?utm_medium=rss)
- - [Best TV Deals of 2023: Save Up to $1,200 on TVs from LG, Samsung and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Best 3D Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Fantasy Shows to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-shows-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)
+ - [Netflix: The 49 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-movies-to-watch/#ftag=CAD590a51e)
+ - [How to get Apple TV &amp; HomePod working in hotels](https://appleinsider.com/inside/apple-tv/tips/how-to-get-apple-tv-homepod-working-in-hotels?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
