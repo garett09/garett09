@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Mutant Ape Planet&#39; NFT developer accused of $2.9 million rug pull](https://www.pcgamer.com/mutant-ape-planet-nft-developer-accused-of-dollar29-million-rug-pull)
- - [Anime Fighting Game Under Attack By Hackers Who Have Made It Unplayable](https://kotaku.com/guilty-gear-strike-r-code-exploit-hack-online-game-cras-1849966315)
- - [Dead Space 2 Free On Steam For Those Who Order PC Remake](https://kotaku.com/dead-space-remake-free-steam-deck-game-pass-1849966307)<!-- GAME:END -->
+ - [The Joker is pregnant, and there’s a perfectly reasonable explanation as to why](https://www.polygon.com/2023/1/9/23546541/joker-pregnant-batman-comic-gives-birth)
+ - [This new AI can mimic human voices with only 3 seconds of training](https://www.pcgamer.com/this-new-ai-can-mimic-human-voices-with-only-3-seconds-of-training)
+ - [Bring Your Game-Changing Idea to Life at Imagine Cup 2023](https://news.xbox.com/en-us/2023/01/09/bring-your-game-changing-idea-to-life-at-imagine-cup-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
