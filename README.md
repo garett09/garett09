@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bikes](http://9gag.com/gag/aeQDMMO)
- - 🚯 [Finally not bikini armor LOL &lpar; sauce : handyman saitou anime &rpar;, a relaxing fantasy story](http://9gag.com/gag/aWGxYzn)
- - 🚯 [Pipe lining is the process of lining old dirty pipes with a liner that is soaked in a combination of resin and epoxy. Making the old pipes complete new without ripping them out.](http://9gag.com/gag/aoKPeww)<!-- MEMES:END -->
+ - 🚖 [American theft](http://9gag.com/gag/avQznGb)
+ - 🚯 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
+ - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
 
 --- 
 
