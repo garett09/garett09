@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchbase: Black US founders raised around 1%, or an estimated $2.254B, of the total US venture capital raised in 2022, down from the record 1.3% in 2021 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/230109/p19#a230109p19)
- - [Supplies of iPhone 14 Pro models almost back to expected levels](https://appleinsider.com/articles/23/01/09/supplies-of-iphone-14-pro-models-almost-back-to-expected-levels?utm_medium=rss)
- - [SCOTUS lets Meta&#39;s WhatsApp pursue a lawsuit accusing Israel&#39;s NSO Group of exploiting a bug to install spyware, allowing surveillance on 1,400 people &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/230109/p18#a230109p18)<!-- TECH:END -->
+ - [Apple Maps gets parking information with SpotHero integration](https://appleinsider.com/articles/23/01/09/apple-maps-gets-parking-information-with-spothero-integration?utm_medium=rss)
+ - [Rolling Square AirCard &amp; AirCard E with Find My -- Hands on](https://appleinsider.com/articles/23/01/09/rolling-square-aircard-aircard-e-with-find-my----hands-on?utm_medium=rss)
+ - [MSI says Afterburner isn’t abandoned, despite its developer’s doubts](https://www.theverge.com/2023/1/9/23546476/msi-afterburner-abandoned-dead-unwinder-developer-russia-ukraine-war)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
