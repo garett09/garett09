@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aYVyKN0)
- - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 🚯 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
+ - 🚖 [Something is missing...](http://9gag.com/gag/a2KW4QD)
+ - 🚯 [Science...](http://9gag.com/gag/a5XWW1G)
+ - 🚯 [Father-son quality time](http://9gag.com/gag/a4o33ry)<!-- MEMES:END -->
 
 --- 
 
