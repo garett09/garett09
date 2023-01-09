@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Home Flipping Game Is Totally Not Creepy Or Scary At All](https://kotaku.com/regular-home-renovation-simulator-house-flipper-creepy-1849966123)
- - [Belarus legalises piracy for content from &#39;unfriendly&#39; countries](https://www.pcgamer.com/belarus-legalises-piracy-for-content-from-unfriendly-countries)
- - [Should you play as a boy or girl in Persona 3 Portable?](https://www.polygon.com/guides/23542712/persona-3-portable-p3p-male-female-differences-vs-girl-boy-social-links)<!-- GAME:END -->
+ - [&#39;Mutant Ape Planet&#39; NFT developer accused of $2.9 million rug pull](https://www.pcgamer.com/mutant-ape-planet-nft-developer-accused-of-dollar29-million-rug-pull)
+ - [Anime Fighting Game Under Attack By Hackers Who Have Made It Unplayable](https://kotaku.com/guilty-gear-strike-r-code-exploit-hack-online-game-cras-1849966315)
+ - [Dead Space 2 Free On Steam For Those Who Order PC Remake](https://kotaku.com/dead-space-remake-free-steam-deck-game-pass-1849966307)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
