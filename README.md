@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - 🚯 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
- - 🚯 [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)<!-- MEMES:END -->
+ - 🚖 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - 🚯 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
+ - 🚯 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)<!-- MEMES:END -->
 
 --- 
 
