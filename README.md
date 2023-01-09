@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American theft](http://9gag.com/gag/avQznGb)
- - 🚯 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
- - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
+ - 🚖 [What do you hear?](http://9gag.com/gag/anz4Mbq)
+ - 🚯 [We stay winning](http://9gag.com/gag/az2mq8N)
+ - 🚯 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)<!-- MEMES:END -->
 
 --- 
 
