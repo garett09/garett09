@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
- - 🚯 [Someone\u2019s a little eager to get on the road.](http://9gag.com/gag/aDY4g9N)
- - 🚯 [We stay winning](http://9gag.com/gag/az2mq8N)<!-- MEMES:END -->
+ - 🚖 [We stay winning](http://9gag.com/gag/az2mq8N)
+ - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)
+ - 🚯 [There has been an unfortunate security breach and civilians are advised to be vigilant](http://9gag.com/gag/a1PWRMv)<!-- MEMES:END -->
 
 --- 
 
