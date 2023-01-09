@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK will pay &amp;pound;24M to settle with French IT group Atos, which challenged awarding an &amp;pound;850M supercomputer contract to Microsoft to forecast weather and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230109/p14#a230109p14)
- - [Sources: after Kevin McCarthy made concessions for the speakership, the GOP plans a subcommittee and hearings to investigate Big Tech, like the &quot;Twitter Files&quot; &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/230109/p13#a230109p13)
- - [Meta&#39;s Oversight Board overturns Facebook&#39;s decision to remove a post that said &quot;death to Khamenei&quot;, referencing the Iranian leader, after violent protests &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/230109/p12#a230109p12)<!-- TECH:END -->
+ - [Daily Deals Jan. 9: $300 off eufy Clean by Anker RoboVac, LG 65&quot; 4K Smart TV for $1,649 &amp; more](https://appleinsider.com/articles/23/01/09/daily-deals-jan-9-300-off-eufy-clean-by-anker-robovac-lg-65-4k-smart-tv-for-1649-more?utm_medium=rss)
+ - [Vista Equity Partners agrees to acquire insurance tech company Duck Creek Technologies for $2.6B in cash, or $19 per share; Duck Creek stock jumps 45%+ &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/230109/p17#a230109p17)
+ - [Structured 3.0.1 review: No frills, attractive daily planner](https://appleinsider.com/articles/23/01/09/structured-301-review-no-frills-attractive-daily-planner?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
