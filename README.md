@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This official D&amp;D Lego set doubles as a fully playable gaming map](https://www.pcgamer.com/this-official-dandd-lego-set-doubles-as-a-fully-playable-gaming-map)
- - [Taste Sweet Victory with Special Edition Xbox Oreo Cookies and Delicious Prizes](https://news.xbox.com/en-us/2023/01/09/oreo-xbox-prizes-halo-forza-sea-of-thieves/)
- - [Today&#39;s Wordle 569 answer and hint for Monday, January 9](https://www.pcgamer.com/wordle-569-answer-january-9)<!-- GAME:END -->
+ - [Genshin Impact is getting a one-off beetle fighting game mode](https://www.pcgamer.com/genshin-impact-is-getting-a-one-off-beetle-fighting-game-mode)
+ - [People are lavishing praise on this fan-made Whiterun map for Halo Infinite](https://www.pcgamer.com/people-are-lavishing-praise-on-this-fan-made-whiterun-map-for-halo-infinite)
+ - [Hello Games resurrects Joe Danger as a free browser game](https://www.pcgamer.com/hello-games-resurrects-joe-danger-as-a-free-browser-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
