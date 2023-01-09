@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2&#39;s cool new chainmail shader will take you around 12 hours to get](https://www.pcgamer.com/destiny-2-iron-countershade-unlock)
- - [World&#39;s worst cookie gets an Xbox version](https://www.pcgamer.com/worlds-worst-cookie-gets-an-xbox-version)
- - [Welcome to Training Mode, a week of stories about games and health](https://www.polygon.com/23539042/training-mode-special-issue)<!-- GAME:END -->
+ - [New Class, More Content, All Black Desert](https://news.xbox.com/en-us/2023/01/09/new-class-more-content-all-black-desert/)
+ - [The Fashion Legend That&#39;s Influenced Some Of Your Favorite Games And Manga](https://kotaku.com/vivienne-westwood-video-games-nana-anime-final-fantasy-1849965424)
+ - [Some Overwatch 2 Players Can&#39;t Stand This &#39;Pay To Lose&#39; Skin](https://kotaku.com/overwatch-2-battle-for-olympus-widowmaker-medusa-skin-1849965432)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
