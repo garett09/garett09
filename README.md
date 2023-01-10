@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued again over App Store data collection allegations](https://appleinsider.com/articles/23/01/10/apple-sued-again-over-app-store-data-collection-allegations?utm_medium=rss)
- - [How to Use Wi-Fi Calling on Your iPhone, Android Phone, or Tablet](https://www.wired.com/story/how-to-use-wifi-calling/)
- - [What This Fearsome Weapon Reveals About Early Americans](https://www.wired.com/story/what-this-fearsome-weapon-reveals-about-early-americans/)<!-- TECH:END -->
+ - [Cameron Winklevoss writes to DCG&#39;s board, demanding CEO Barry Silbert&#39;s removal and alleging he and Genesis publicly lied, after his resolution deadline passed &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230110/p14#a230110p14)
+ - [Yale releases two new HomeKit-connected smart safes](https://appleinsider.com/articles/23/01/10/yale-releases-two-new-homekit-connected-smart-safes?utm_medium=rss)
+ - [Netgear Orbi RBK863 Review: For Big Spenders With Large Homes](https://www.wired.com/review/netgear-orbi-rbk863/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
