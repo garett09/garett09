@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports to pull Madden touchdown celebration after Damar Hamlin’s collapse](https://www.polygon.com/23548929/madden-touchdown-celebration-damar-hamlin-patch-removed)
- - [Fortnite on the fritz as Epic struggles to squish multiple major bugs](https://www.pcgamer.com/fortnite-on-the-fritz-as-epic-struggles-to-squish-multiple-major-bugs)
- - [The Last of Us TV show is a massive critical hit](https://www.pcgamer.com/the-last-of-us-tv-show-is-a-massive-critical-hit)<!-- GAME:END -->
+ - [Your Guide To Crafting The Perfect Gaming TikTok For You Page](https://kotaku.com/tiktok-gaming-tips-tech-reviews-cod-cosplay-rpg-twitch-1849972027)
+ - [Someone Recreated The Entire Halo 1 Warthog Finale In Halo Infinite](https://kotaku.com/halo-infinite-ce-warthog-run-final-level-remake-forge-1849972015)
+ - [31 Of The Biggest Games Coming In 2023](https://kotaku.com/2023-video-games-zelda-final-fantasy-assassins-creed-1849971337)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
