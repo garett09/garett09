@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta is beginning to wind down support for the original Quest VR headset](https://www.pcgamer.com/meta-is-beginning-to-wind-down-support-for-the-original-quest-vr-headset)
- - [Final Fantasy 16 producer wonders why people think a PC version exists &lpar;it&#39;s because Square Enix previously announced one&rpar;](https://www.pcgamer.com/final-fantasy-16-producer-wonders-why-people-think-a-pc-version-exists-its-because-square-enix-previously-one)
- - [Midsommar’s Ari Aster returns to take Joaquin Phoenix on an even weirder journey in Beau Is Afraid](https://www.polygon.com/23547525/beau-afraid-trailer-ari-aster-joaquin-phoenix)<!-- GAME:END -->
+ - [It&#39;s A Big Month For RPGs On Game Pass, But Make The Most Out Of What&#39;s Leaving](https://kotaku.com/xbox-january-2023-is-persona-on-game-pass-monster-hunt-1849969715)
+ - [Shadow Power Upgrade](https://www.pcgamer.com/shadow-power-upgrade-review)
+ - [James Cameron’s Avatar team tried to celebrate ‘all indigenous cultures on Earth’](https://www.polygon.com/23546639/avatar-way-water-navi-design-indigenous-appropriation-discussion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
