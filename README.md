@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
- - 🚯 [We\u2019re all pain addicts here, aren\u2019t we?](http://9gag.com/gag/axo9ynM)
- - 🚯 [Roasted](http://9gag.com/gag/aVbwgvv)<!-- MEMES:END -->
+ - 🚖 [Nothing happens!](http://9gag.com/gag/amAvv06)
+ - 🚯 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
 
 --- 
 
