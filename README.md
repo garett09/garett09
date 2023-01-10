@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you own a power bank for your smartphone?](https://www.androidauthority.com/own-power-bank-smartphone-poll-3264867/)
- - [Does NordVPN work with Netflix?](https://www.androidauthority.com/does-nordvpn-work-with-netflix-3262553/)
- - [Google releases the Extension SDK for developers to bring new features, like the new Photo Picker API that launched with Android 13, to older Android versions &lpar;Adam Conway/XDA Developers&rpar;](http://www.techmeme.com/230110/p6#a230110p6)<!-- TECH:END -->
+ - [TickTick 6.4.20 review: Prioritized to-do list with focus timer](https://appleinsider.com/articles/23/01/10/ticktick-6420-review-prioritized-to-do-list-with-focus-timer?utm_medium=rss)
+ - [Apple&#39;s most affordable Mac mini is 18 years old](https://appleinsider.com/articles/23/01/10/apples-most-affordable-mac-mini-is-18-years-old?utm_medium=rss)
+ - [Does Dry January Really Make People Healthier?](https://www.wired.com/story/does-dry-january-really-make-people-healthier/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
