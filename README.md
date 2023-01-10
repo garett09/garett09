@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - 🚯 [They were taught to be a victim.](http://9gag.com/gag/aZDy0Dn)
- - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
+ - 🚖 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - 🚯 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
+ - 🚯 [Better Football](http://9gag.com/gag/aDY47m9)<!-- MEMES:END -->
 
 --- 
 
