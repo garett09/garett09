@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to stop new software updates and some social features for the original Quest but will fix critical bugs until 2024; the headset launched in 2019 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230109/p29#a230109p29)
- - [What to Know About Bird Flu, or Avian Influenza     - CNET](https://www.cnet.com/health/medical/what-to-know-about-bird-flu-or-avian-influenza/#ftag=CAD590a51e)
- - [Best Cellphone Deals: Save Big on Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: e-commerce spending on ByteDance&#39;s Douyin in China reached $208B in 2022, up 76% YoY; shoppers in Southeast Asia spent $4.4B on TikTok in 2022 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230109/p30#a230109p30)
+ - [China&#39;s Historic Zhurong Rover May Have Gone Silent on Dusty Mars     - CNET](https://www.cnet.com/science/space/chinas-historic-zhurong-mars-rover-may-have-gone-silent/#ftag=CAD590a51e)
+ - [In This Dystopian New Graphic Novel, the Jan. 6 Attack Succeeded     - CNET](https://www.cnet.com/culture/internet/in-this-dystopian-new-graphic-novel-the-january-6-attack-succeeded/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
