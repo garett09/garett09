@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1st date](http://9gag.com/gag/a7qWMn2)
- - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)
- - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
+ - 🚖 [10 Years Later](http://9gag.com/gag/ay2eMOq)
+ - 🚯 [Only men knows](http://9gag.com/gag/axo91Np)
+ - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
 
 --- 
 
