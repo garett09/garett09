@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Easy Company, which just launched a &quot;social&quot; crypto wallet in beta featuring an &quot;Instagram-like experience&quot; for viewing NFTs, raised a $14.2M seed &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230110/p18#a230110p18)
- - [A New York judge sentences Nikhil Wahi, brother of Coinbase PM Ishan Wahi, to 10 months for his role in a scheme to trade on information about upcoming listings &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/230110/p19#a230110p19)
- - [Apple names broadcasters for MLS Season Pass on Apple TV+](https://appleinsider.com/articles/23/01/10/apple-names-broadcasters-for-mls-season-pass-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds second developer beta for macOS Ventura 13.2](https://appleinsider.com/articles/23/01/10/apple-seeds-second-developer-beta-for-macos-ventura-132?utm_medium=rss)
+ - [Apple opens up Podcasts Subscriptions to publishers on rival services](https://appleinsider.com/articles/23/01/10/apple-opens-up-podcasts-subscriptions-to-publishers-on-rival-services?utm_medium=rss)
+ - [Nothing Phone 1 comes to the US through beta membership](https://www.androidauthority.com/nothing-phone-1-us-3264970/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
