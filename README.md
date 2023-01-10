@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s A Big Month For RPGs On Game Pass, But Make The Most Out Of What&#39;s Leaving](https://kotaku.com/xbox-january-2023-is-persona-on-game-pass-monster-hunt-1849969715)
- - [Shadow Power Upgrade](https://www.pcgamer.com/shadow-power-upgrade-review)
- - [James Cameron’s Avatar team tried to celebrate ‘all indigenous cultures on Earth’](https://www.polygon.com/23546639/avatar-way-water-navi-design-indigenous-appropriation-discussion)<!-- GAME:END -->
+ - [Detroit Lions&#39; Jamaal Williams Defends Pokémon From Disrespect](https://kotaku.com/nfl-detroit-lions-jamaal-williams-pokemon-naruto-1849970075)
+ - [The Rescue Of Logan Paul&#39;s Old Pig Has The Internet Aghast](https://kotaku.com/logan-paul-pearl-pig-crypto-animal-rescue-youtube-1849970003)
+ - [Where to unlock the Euphrosyne alliance raid in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23546698/euphrosyne-raid-unlock-location-alliance-myths-of-the-realm-gear-6-3-item-level)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
