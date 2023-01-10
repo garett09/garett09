@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HUP!](http://9gag.com/gag/aDY4dn7)
- - 🚯 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)<!-- MEMES:END -->
+ - 🚖 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - 🚯 [The wonders of engineering keeping people safe](http://9gag.com/gag/aBdmdYx)
+ - 🚯 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)<!-- MEMES:END -->
 
 --- 
 
