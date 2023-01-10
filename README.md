@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The wonders of engineering keeping people safe](http://9gag.com/gag/aBdmdYx)
- - 🚯 [People who know](http://9gag.com/gag/aMExKwV)
- - 🚯 [10 Years Later](http://9gag.com/gag/ay2eMOq)<!-- MEMES:END -->
+ - 🚖 [Damn Woman](http://9gag.com/gag/aQEdExr)
+ - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)
+ - 🚯 [Sigma move](http://9gag.com/gag/aVbwwDy)<!-- MEMES:END -->
 
 --- 
 
