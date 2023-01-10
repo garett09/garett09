@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Damn Woman](http://9gag.com/gag/aQEdExr)
- - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)
- - 🚯 [Sigma move](http://9gag.com/gag/aVbwwDy)<!-- MEMES:END -->
+ - 🚯 [Leave rdj alone lol..](http://9gag.com/gag/aA0e05R)
+ - 🚯 [Archivist Gregory Schnakenberg found a long-forgotten roll of silent 8mm film marked `The Philippines 1942`, thinking it was WWII footage. After specialists&#39; care and digitization, it was found out to be:](http://9gag.com/gag/a04Nebn)<!-- MEMES:END -->
 
 --- 
 
