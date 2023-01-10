@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone &lpar;1&rpar; rolls out in the US via a $299 &quot;beta membership&quot; offered through June 2023, but the company says the phone &quot;may not work with all US carriers&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230110/p28#a230110p28)
- - [Right-to-Repair Advocates Question John Deere’s New Promises](https://www.wired.com/story/right-to-repair-advocates-question-john-deeres-new-promises/)
- - [Deals: save $50 on every Apple Watch Ultra](https://appleinsider.com/articles/23/01/10/deals-save-50-on-every-apple-watch-ultra?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung reveals Galaxy Unpacked date for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-unpacked-s23-3265117/)
+ - [Sources: Cloud Software Group, the parent company of Citrix and Tibco, begin layoffs impacting thousands of employees &lpar;Wade Tyler Millward/CRN&rpar;](http://www.techmeme.com/230110/p29#a230110p29)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
