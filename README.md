@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple TV on an Android device](https://www.androidauthority.com/can-you-watch-apple-tv-on-android-tv-phone-tablet-3263856/)
- - [Sources: Microsoft ditched a dual-screen design for the Surface Duo 3 and pivoted to a foldable screen design with 180-degree hinge and external cover display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230110/p25#a230110p25)
- - [A look at Intel&#39;s struggles with launching Sapphire Rapids, originally slated for mid-2022, which Intel says has led to changes in product design and testing &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230110/p24#a230110p24)<!-- TECH:END -->
+ - [Nothing Phone &lpar;1&rpar; rolls out in the US via a $299 &quot;beta membership&quot; offered through June 2023, but the company says the phone &quot;may not work with all US carriers&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230110/p28#a230110p28)
+ - [Right-to-Repair Advocates Question John Deere’s New Promises](https://www.wired.com/story/right-to-repair-advocates-question-john-deeres-new-promises/)
+ - [Deals: save $50 on every Apple Watch Ultra](https://appleinsider.com/articles/23/01/10/deals-save-50-on-every-apple-watch-ultra?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
