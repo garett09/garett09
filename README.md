@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Tate](http://9gag.com/gag/ajV9930)
- - 🚯 [General Kenobi](http://9gag.com/gag/ajV9Pgq)
- - 🚯 [Alarm! ALARM!](http://9gag.com/gag/ap9GGYb)<!-- MEMES:END -->
+ - 🚖 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - 🚯 [People who know](http://9gag.com/gag/aMExKwV)
+ - 🚯 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)<!-- MEMES:END -->
 
 --- 
 
