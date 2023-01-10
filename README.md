@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Midsommar’s Ari Aster returns to take Joaquin Phoenix on an even weirder journey in Beau Is Afraid](https://www.polygon.com/23547525/beau-afraid-trailer-ari-aster-joaquin-phoenix)
- - [Coming to Xbox Game Pass: Monster Hunter Rise, Persona 3 Portable, and Persona 4 Golden](https://news.xbox.com/en-us/2023/01/10/game-pass-january-2023-wave-1-announce/)
- - [Where to find the Lost Banana in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-lost-banana-location)<!-- GAME:END -->
+ - [Meta is beginning to wind down support for the original Quest VR headset](https://www.pcgamer.com/meta-is-beginning-to-wind-down-support-for-the-original-quest-vr-headset)
+ - [Final Fantasy 16 producer wonders why people think a PC version exists &lpar;it&#39;s because Square Enix previously announced one&rpar;](https://www.pcgamer.com/final-fantasy-16-producer-wonders-why-people-think-a-pc-version-exists-its-because-square-enix-previously-one)
+ - [Midsommar’s Ari Aster returns to take Joaquin Phoenix on an even weirder journey in Beau Is Afraid](https://www.polygon.com/23547525/beau-afraid-trailer-ari-aster-joaquin-phoenix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
