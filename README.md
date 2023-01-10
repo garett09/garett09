@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
- - 🚯 [The wonders of engineering keeping people safe](http://9gag.com/gag/aBdmdYx)
- - 🚯 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)<!-- MEMES:END -->
+ - 🚖 [The Tate](http://9gag.com/gag/ajV9930)
+ - 🚯 [Please say no more](http://9gag.com/gag/a7qWqob)
+ - 🚯 [Me too, Alex](http://9gag.com/gag/aBdmddA)<!-- MEMES:END -->
 
 --- 
 
