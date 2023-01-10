@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Guide To Crafting The Perfect Gaming TikTok For You Page](https://kotaku.com/tiktok-gaming-tips-tech-reviews-cod-cosplay-rpg-twitch-1849972027)
- - [Someone Recreated The Entire Halo 1 Warthog Finale In Halo Infinite](https://kotaku.com/halo-infinite-ce-warthog-run-final-level-remake-forge-1849972015)
- - [31 Of The Biggest Games Coming In 2023](https://kotaku.com/2023-video-games-zelda-final-fantasy-assassins-creed-1849971337)<!-- GAME:END -->
+ - [Overwatch Drags Ramattra Into Its Sinful Obsession With Feet](https://kotaku.com/overwatch-drags-ramattra-into-its-sinful-obsession-with-1849972581)
+ - [Internet Misogynist Andrew Tate Back In Custody Following Brief Hospital Visit](https://kotaku.com/andrew-tate-hospital-released-jail-arrested-romania-1849972453)
+ - [Madden NFL 23 will cut CPR touchdown celebration following Damar Hamlin&#39;s cardiac arrest](https://www.pcgamer.com/madden-nfl-23-will-cut-cpr-touchdown-celebration-following-damar-hamlins-cardiac-arrest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
