@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is in talks to invest $10B in OpenAI at a $29B valuation as part of a deal to get 75% of OpenAI&#39;s profits until it recoups its investment &lpar;Semafor&rpar;](http://www.techmeme.com/230109/p34#a230109p34)
  - [Microsoft unveils text-to-speech AI model VALL-E, which was trained on English speech data and can simulate a person&#39;s voice with three seconds of sample audio &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230109/p33#a230109p33)
- - [New Apple ads show off iPhone 14 Action Mode and iOS 16 Undo Send in Messages](https://appleinsider.com/articles/23/01/10/new-apple-ads-show-off-iphone-14-action-mode-and-ios-16-undo-send-in-messages?utm_medium=rss)
- - [Microsoft acquires Fungible, a maker of data processing units for data centers that has raised $300M+; December 2022 reports suggested the deal is worth ~$190M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230109/p32#a230109p32)<!-- TECH:END -->
+ - [New Apple ads show off iPhone 14 Action Mode and iOS 16 Undo Send in Messages](https://appleinsider.com/articles/23/01/10/new-apple-ads-show-off-iphone-14-action-mode-and-ios-16-undo-send-in-messages?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
