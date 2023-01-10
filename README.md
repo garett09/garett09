@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TickTick 6.4.20 review: Prioritized to-do list with focus timer](https://appleinsider.com/articles/23/01/10/ticktick-6420-review-prioritized-to-do-list-with-focus-timer?utm_medium=rss)
- - [Apple&#39;s most affordable Mac mini is 18 years old](https://appleinsider.com/articles/23/01/10/apples-most-affordable-mac-mini-is-18-years-old?utm_medium=rss)
- - [Does Dry January Really Make People Healthier?](https://www.wired.com/story/does-dry-january-really-make-people-healthier/)<!-- TECH:END -->
+ - [Apple sued again over App Store data collection allegations](https://appleinsider.com/articles/23/01/10/apple-sued-again-over-app-store-data-collection-allegations?utm_medium=rss)
+ - [How to Use Wi-Fi Calling on Your iPhone, Android Phone, or Tablet](https://www.wired.com/story/how-to-use-wifi-calling/)
+ - [What This Fearsome Weapon Reveals About Early Americans](https://www.wired.com/story/what-this-fearsome-weapon-reveals-about-early-americans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
