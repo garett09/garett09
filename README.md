@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
- - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)
+ - 🚖 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
+ - 🚯 [We\u2019re all pain addicts here, aren\u2019t we?](http://9gag.com/gag/axo9ynM)
  - 🚯 [Roasted](http://9gag.com/gag/aVbwgvv)<!-- MEMES:END -->
 
 --- 
