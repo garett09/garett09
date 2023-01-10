@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - 🚯 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
+ - 🚖 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
+ - 🚯 [99-million-year-old dinosaur tail found preserved in amber - It is covered completely in feathers](http://9gag.com/gag/a04NeGn)
+ - 🚯 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)<!-- MEMES:END -->
 
 --- 
 
