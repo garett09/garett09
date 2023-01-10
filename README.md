@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel debuts new Sapphire Rapids CPUs across 52 models ranging from $415 to $17K with up to 60 cores and support for PCIe 5.0 and DDR5, to rival AMD Genoa chips &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230110/p21#a230110p21)
- - [A Siemens S7-1500 Logic Controller Flaw Raises the Specter of Stuxnet](https://www.wired.com/story/siemens-s7-1500-logic-controller-flaw/)
- - [Apple issues second developer beta for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/10/apple-issues-second-developer-beta-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)<!-- TECH:END -->
+ - [Xfinity Stream app adds long-overdue AirPlay functionality](https://appleinsider.com/articles/23/01/10/xfinity-stream-app-adds-long-overdue-airplay-functionality?utm_medium=rss)
+ - [Meta adds more limits on targeting users under 18 with ads, including removing the options to target teens users based on gender and in-app activity &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230110/p22#a230110p22)
+ - [Astronomers May Have Just Spotted the Universe’s First Galaxies](https://www.wired.com/story/astronomers-may-have-just-spotted-the-universes-first-galaxies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
