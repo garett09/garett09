@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Results of an AI request to turn countries into a villain](http://9gag.com/gag/aqen1KY)
- - 🚯 [Not again..](http://9gag.com/gag/aA0ebMR)
- - 🚯 [The price of Russian Urals oil fell to $37.80 per barrel, well below the $60 per barrel limit set by the G-7 \u2014 following sanctions targeting Russia&#39;s oil revenue.](http://9gag.com/gag/anz4QOz)<!-- MEMES:END -->
+ - 🚖 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - 🚯 [1st date](http://9gag.com/gag/a7qWMn2)
+ - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
 
 --- 
 
