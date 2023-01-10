@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
- - 🚯 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
- - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
+ - 🚖 [HUP!](http://9gag.com/gag/aDY4dn7)
+ - 🚯 [Nothing happens!](http://9gag.com/gag/amAvv06)
+ - 🚯 [Drive safely](http://9gag.com/gag/amAv5jd)<!-- MEMES:END -->
 
 --- 
 
