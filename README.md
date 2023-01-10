@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn Woman](http://9gag.com/gag/aQEdExr)
- - 🚯 [Leave rdj alone lol..](http://9gag.com/gag/aA0e05R)
- - 🚯 [Archivist Gregory Schnakenberg found a long-forgotten roll of silent 8mm film marked `The Philippines 1942`, thinking it was WWII footage. After specialists&#39; care and digitization, it was found out to be:](http://9gag.com/gag/a04Nebn)<!-- MEMES:END -->
+ - 🚖 [Dude blew his interview in the first 5 minutes after he entered the building](http://9gag.com/gag/aGEdzEZ)
+ - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)
+ - 🚯 [1st date](http://9gag.com/gag/a7qWMn2)<!-- MEMES:END -->
 
 --- 
 
