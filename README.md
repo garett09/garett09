@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: e-commerce spending on ByteDance&#39;s Douyin in China reached $208B in 2022, up 76% YoY; shoppers in Southeast Asia spent $4.4B on TikTok in 2022 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230109/p30#a230109p30)
- - [China&#39;s Historic Zhurong Rover May Have Gone Silent on Dusty Mars     - CNET](https://www.cnet.com/science/space/chinas-historic-zhurong-mars-rover-may-have-gone-silent/#ftag=CAD590a51e)
- - [In This Dystopian New Graphic Novel, the Jan. 6 Attack Succeeded     - CNET](https://www.cnet.com/culture/internet/in-this-dystopian-new-graphic-novel-the-january-6-attack-succeeded/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft unveils text-to-speech AI model VALL-E, which was trained on English speech data and can simulate a person&#39;s voice with three seconds of sample audio &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230109/p33#a230109p33)
+ - [New Apple ads show off iPhone 14 Action Mode and iOS 16 Undo Send in Messages](https://appleinsider.com/articles/23/01/10/new-apple-ads-show-off-iphone-14-action-mode-and-ios-16-undo-send-in-messages?utm_medium=rss)
+ - [Microsoft acquires Fungible, a maker of data processing units for data centers that has raised $300M+; December 2022 reports suggested the deal is worth ~$190M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230109/p32#a230109p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
