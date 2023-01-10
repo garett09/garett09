@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 Years Later](http://9gag.com/gag/ay2eMOq)
- - 🚯 [Only men knows](http://9gag.com/gag/axo91Np)
- - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
+ - 🚖 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)
+ - 🚯 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
+ - 🚯 [People who know](http://9gag.com/gag/aMExKwV)<!-- MEMES:END -->
 
 --- 
 
