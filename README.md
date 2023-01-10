@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - 🚯 [People who know](http://9gag.com/gag/aMExKwV)
- - 🚯 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)<!-- MEMES:END -->
+ - 🚯 [They were taught to be a victim.](http://9gag.com/gag/aZDy0Dn)
+ - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
 
 --- 
 
