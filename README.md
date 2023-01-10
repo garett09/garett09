@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft dumping ton of cash into ChatGPT Office infusion](https://appleinsider.com/articles/23/01/10/microsoft-dumping-ton-of-cash-into-chatgpt-office-infusion?utm_medium=rss)
- - [16 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [German drugmaker BioNTech acquires London-based AI startup InstaDeep for up to &amp;pound;562M to help harness machine learning to improve drug discovery &lpar;Hannah Kuchler/Financial Times&rpar;](http://www.techmeme.com/230110/p16#a230110p16)<!-- TECH:END -->
+ - [Future of MagSafe, and the new Qi2 wireless charging spec](https://appleinsider.com/articles/23/01/10/future-of-magsafe-and-the-new-qi2-wireless-charging-spec?utm_medium=rss)
+ - [Apple&#39;s 14-inch MacBook Pro dips to $1,599 at Amazon, plus $400 off additional models](https://appleinsider.com/articles/23/01/10/apples-14-inch-macbook-pro-dips-to-1599-at-amazon-plus-400-off-additional-models?utm_medium=rss)
+ - [Three years after ending mainstream support for Windows 7, Microsoft ends premium extended security support for the OS and support for Windows 8.1 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230110/p17#a230110p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
