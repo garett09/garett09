@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cameron Winklevoss writes to DCG&#39;s board, demanding CEO Barry Silbert&#39;s removal and alleging he and Genesis publicly lied, after his resolution deadline passed &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230110/p14#a230110p14)
- - [Yale releases two new HomeKit-connected smart safes](https://appleinsider.com/articles/23/01/10/yale-releases-two-new-homekit-connected-smart-safes?utm_medium=rss)
- - [Netgear Orbi RBK863 Review: For Big Spenders With Large Homes](https://www.wired.com/review/netgear-orbi-rbk863/)<!-- TECH:END -->
+ - [Microsoft dumping ton of cash into ChatGPT Office infusion](https://appleinsider.com/articles/23/01/10/microsoft-dumping-ton-of-cash-into-chatgpt-office-infusion?utm_medium=rss)
+ - [16 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
+ - [German drugmaker BioNTech acquires London-based AI startup InstaDeep for up to &amp;pound;562M to help harness machine learning to improve drug discovery &lpar;Hannah Kuchler/Financial Times&rpar;](http://www.techmeme.com/230110/p16#a230110p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
