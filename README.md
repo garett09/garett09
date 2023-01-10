@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude blew his interview in the first 5 minutes after he entered the building](http://9gag.com/gag/aGEdzEZ)
- - 🚯 [Bikes](http://9gag.com/gag/aeQDMMO)
- - 🚯 [1st date](http://9gag.com/gag/a7qWMn2)<!-- MEMES:END -->
+ - 🚖 [The Tate](http://9gag.com/gag/ajV9930)
+ - 🚯 [General Kenobi](http://9gag.com/gag/ajV9Pgq)
+ - 🚯 [Alarm! ALARM!](http://9gag.com/gag/ap9GGYb)<!-- MEMES:END -->
 
 --- 
 
