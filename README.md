@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds second developer beta for macOS Ventura 13.2](https://appleinsider.com/articles/23/01/10/apple-seeds-second-developer-beta-for-macos-ventura-132?utm_medium=rss)
- - [Apple opens up Podcasts Subscriptions to publishers on rival services](https://appleinsider.com/articles/23/01/10/apple-opens-up-podcasts-subscriptions-to-publishers-on-rival-services?utm_medium=rss)
- - [Nothing Phone 1 comes to the US through beta membership](https://www.androidauthority.com/nothing-phone-1-us-3264970/)<!-- TECH:END -->
+ - [Intel debuts new Sapphire Rapids CPUs across 52 models ranging from $415 to $17K with up to 60 cores and support for PCIe 5.0 and DDR5, to rival AMD Genoa chips &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230110/p21#a230110p21)
+ - [A Siemens S7-1500 Logic Controller Flaw Raises the Specter of Stuxnet](https://www.wired.com/story/siemens-s7-1500-logic-controller-flaw/)
+ - [Apple issues second developer beta for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/10/apple-issues-second-developer-beta-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
