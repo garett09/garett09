@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
- - 🚯 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
- - 🚯 [Better Football](http://9gag.com/gag/aDY47m9)<!-- MEMES:END -->
+ - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)
+ - 🚯 [Roasted](http://9gag.com/gag/aVbwgvv)<!-- MEMES:END -->
 
 --- 
 
