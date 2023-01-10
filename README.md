@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;re a peasant Harry, I&#39;m a what?](http://9gag.com/gag/ay2eevY)
- - 🚯 [Results of an AI request to turn countries into a villain](http://9gag.com/gag/aqen1KY)
- - 🚯 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)<!-- MEMES:END -->
+ - 🚖 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
+ - 🚯 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
+ - 🚯 [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)<!-- MEMES:END -->
 
 --- 
 
