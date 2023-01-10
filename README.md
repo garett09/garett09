@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Detroit Lions&#39; Jamaal Williams Defends Pokémon From Disrespect](https://kotaku.com/nfl-detroit-lions-jamaal-williams-pokemon-naruto-1849970075)
- - [The Rescue Of Logan Paul&#39;s Old Pig Has The Internet Aghast](https://kotaku.com/logan-paul-pearl-pig-crypto-animal-rescue-youtube-1849970003)
- - [Where to unlock the Euphrosyne alliance raid in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23546698/euphrosyne-raid-unlock-location-alliance-myths-of-the-realm-gear-6-3-item-level)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour: Can Swirlix be shiny?](https://www.polygon.com/pokemon-go-guide/23548512/can-swirlix-be-shiny-spotlight-hour-january)
+ - [Start Your One Piece Odyssey Adventure with the Free Demo Available Today](https://news.xbox.com/en-us/2023/01/10/one-piece-odyssey-demo/)
+ - [Marvel&#39;s Midnight Suns has competition from an indie game with an extremely similar name and premise](https://www.pcgamer.com/marvels-midnight-suns-has-competition-from-an-indie-game-with-an-extremely-similar-name-and-premise)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
