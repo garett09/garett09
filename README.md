@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Lost Banana in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-lost-banana-location)
- - [Kat VR C2+](https://www.pcgamer.com/kat-vr-c2-plus-treadmill-review)
- - [Rumoured AI-enhanced Nvidia graphics driver could boost performance by 30%](https://www.pcgamer.com/rumoured-ai-enhanced-nvidia-graphics-driver-could-boost-performance-by-30)<!-- GAME:END -->
+ - [Midsommar’s Ari Aster returns to take Joaquin Phoenix on an even weirder journey in Beau Is Afraid](https://www.polygon.com/23547525/beau-afraid-trailer-ari-aster-joaquin-phoenix)
+ - [Coming to Xbox Game Pass: Monster Hunter Rise, Persona 3 Portable, and Persona 4 Golden](https://news.xbox.com/en-us/2023/01/10/game-pass-january-2023-wave-1-announce/)
+ - [Where to find the Lost Banana in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-lost-banana-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
