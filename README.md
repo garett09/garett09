@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
- - 🚯 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
- - 🚯 [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)<!-- MEMES:END -->
+ - 🚖 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - 🚯 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
+ - 🚯 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
 
 --- 
 
