@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Tate](http://9gag.com/gag/ajV9930)
- - 🚯 [Please say no more](http://9gag.com/gag/a7qWqob)
- - 🚯 [Me too, Alex](http://9gag.com/gag/aBdmddA)<!-- MEMES:END -->
+ - 🚖 [That&#39;s high 20s for you weenies...](http://9gag.com/gag/aWGxGq6)
+ - 🚯 [Me too!](http://9gag.com/gag/agoAAnW)
+ - 🚯 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)<!-- MEMES:END -->
 
 --- 
 
