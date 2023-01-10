@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s high 20s for you weenies...](http://9gag.com/gag/aWGxGq6)
- - 🚯 [Me too!](http://9gag.com/gag/agoAAnW)
- - 🚯 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)<!-- MEMES:END -->
+ - 🚖 [The wonders of engineering keeping people safe](http://9gag.com/gag/aBdmdYx)
+ - 🚯 [People who know](http://9gag.com/gag/aMExKwV)
+ - 🚯 [10 Years Later](http://9gag.com/gag/ay2eMOq)<!-- MEMES:END -->
 
 --- 
 
