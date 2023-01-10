@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xfinity Stream app adds long-overdue AirPlay functionality](https://appleinsider.com/articles/23/01/10/xfinity-stream-app-adds-long-overdue-airplay-functionality?utm_medium=rss)
- - [Meta adds more limits on targeting users under 18 with ads, including removing the options to target teens users based on gender and in-app activity &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230110/p22#a230110p22)
- - [Astronomers May Have Just Spotted the Universe’s First Galaxies](https://www.wired.com/story/astronomers-may-have-just-spotted-the-universes-first-galaxies/)<!-- TECH:END -->
+ - [How to watch Apple TV on an Android device](https://www.androidauthority.com/can-you-watch-apple-tv-on-android-tv-phone-tablet-3263856/)
+ - [Sources: Microsoft ditched a dual-screen design for the Surface Duo 3 and pivoted to a foldable screen design with 180-degree hinge and external cover display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230110/p25#a230110p25)
+ - [A look at Intel&#39;s struggles with launching Sapphire Rapids, originally slated for mid-2022, which Intel says has led to changes in product design and testing &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230110/p24#a230110p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
