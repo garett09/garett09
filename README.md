@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Swirlix be shiny?](https://www.polygon.com/pokemon-go-guide/23548512/can-swirlix-be-shiny-spotlight-hour-january)
- - [Start Your One Piece Odyssey Adventure with the Free Demo Available Today](https://news.xbox.com/en-us/2023/01/10/one-piece-odyssey-demo/)
- - [Marvel&#39;s Midnight Suns has competition from an indie game with an extremely similar name and premise](https://www.pcgamer.com/marvels-midnight-suns-has-competition-from-an-indie-game-with-an-extremely-similar-name-and-premise)<!-- GAME:END -->
+ - [Duelyst source code is now free for everyone, &#39;no strings attached&#39;](https://www.pcgamer.com/duelyst-source-code-is-now-free-for-everyone-no-strings-attached)
+ - [One Of The Most Beloved Nintendo Controllers Is Back To Fix Switch Joy-Con Drift](https://kotaku.com/joy-con-drift-switch-gamecube-controller-wavebird-nyxi-1849970883)
+ - [The creators of Hulu’s Koala Man flip the adult animation script with sincerity](https://www.polygon.com/23548310/koala-man-hulu-creators-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
