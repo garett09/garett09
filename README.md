@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HUP!](http://9gag.com/gag/aDY4dn7)
- - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)
- - 🚯 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)<!-- MEMES:END -->
+ - 🚖 [Milk....mmmm...](http://9gag.com/gag/a3ZwGZe)
+ - 🚯 [If you did 10 years of therapy. That just means you&#39;re unstable, not a therapist](http://9gag.com/gag/aEqP0EN)
+ - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
 
 --- 
 
