@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals Galaxy Unpacked date for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-unpacked-s23-3265117/)
- - [Sources: Cloud Software Group, the parent company of Citrix and Tibco, begin layoffs impacting thousands of employees &lpar;Wade Tyler Millward/CRN&rpar;](http://www.techmeme.com/230110/p29#a230110p29)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Twitter makes the newly named &quot;For You&quot; algorithmic feed the default, rolling out initially to iOS users &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230110/p36#a230110p36)
+ - [LeanTaaS, which sells AI-powered capacity optimization software to healthcare providers, buys automation firm Hospital IQ, valuing the combined company at $1B+ &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/230110/p35#a230110p35)
+ - [Nevada&#39;s US senators claim the FCC&#39;s new broadband maps, which will be used to allocate $42.45B in grants, are filled with mistakes and overstate coverage &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230110/p34#a230110p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
