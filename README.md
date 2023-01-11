@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox showcase coming to highlight 2023 games, but Starfield won’t be there](https://www.polygon.com/23546669/xbox-showcase-january-2023-developer-direct-when-date-time)
- - [This Warzone TikTok Shows Why DMZ Is So Amazing In Less Than A Minute](https://kotaku.com/call-of-duty-warzone-dmz-tiktok-ghost-soap-tarkov-mw2-1849975052)
- - [SZA’s ‘Kill Bill’ video is a fitting tribute to Tarantino’s martial arts revenge classic](https://www.polygon.com/2023/1/11/23550214/szas-kill-bill-music-video-quentin-tarantino)<!-- GAME:END -->
+ - [PlayStation Plus’ January Update Has Something For Everyone](https://kotaku.com/ps-plus-january-2023-devil-may-cry-ps1-classic-ps5-ps4-1849975731)
+ - [Deep Rock Galactic sold millions of copies last year, and I reckon its wholesome community is to blame](https://www.pcgamer.com/deep-rock-galactic-sold-millions-of-copies-last-year-and-i-reckon-its-wholesome-community-is-to-blame)
+ - [New on Apple Arcade in January: Pokémon creators’ brilliant solitaire game](https://www.polygon.com/23549897/apple-arcade-new-releases-best-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
