@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Character.AI, founded by two former Google researchers to offer &quot;plausible conversation&quot; with famous people, like William Shakespeare and Elon Musk &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230111/p5#a230111p5)
- - [We asked, you told us: You’re intrigued by a RISC-V Android phone](https://www.androidauthority.com/buy-risc-v-android-phone-poll-results-3265290/)
- - [An overview of the adoption of Matter, the new open-source smart home interoperability standard, across the devices and controllers on display at CES 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230111/p4#a230111p4)<!-- TECH:END -->
+ - [Court documents: New England Patriots owner Robert Kraft, NFL star Tom Brady, a Peter Thiel-linked trust, and more own FTX Group stock, now considered worthless &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230111/p6#a230111p6)
+ - [Microsoft May Back ChatGPT Creator With $10 Billion Investment     - CNET](https://www.cnet.com/tech/microsoft-may-back-chatgpt-creator-with-10-billion-investment/#ftag=CAD590a51e)
+ - [A profile of Character.AI, founded by two former Google researchers to offer &quot;plausible conversation&quot; with famous people, like William Shakespeare and Elon Musk &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230111/p5#a230111p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
