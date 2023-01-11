@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat demands to be let in](http://9gag.com/gag/a4o368m)
- - 🚯 [French animation hits different [Dofus: Book 1]](http://9gag.com/gag/aVbwE9d)
- - 🚯 [That&#39;s what i call a smooth transition.](http://9gag.com/gag/a9qn5dW)<!-- MEMES:END -->
+ - 🚖 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
+ - 🚯 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)<!-- MEMES:END -->
 
 --- 
 
