@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an op-ed, Joe Biden asks Republicans and Democrats to unite &quot;to pass strong bipartisan legislation to hold Big Tech accountable&quot;, saying the risks are clear &lpar;Joe Biden/Wall Street Journal&rpar;](http://www.techmeme.com/230111/p28#a230111p28)
- - [Ender-3 V2 Neo review: 3D printing, with the beginner in mind](https://appleinsider.com/articles/23/01/11/ender-3-v2-neo-review-3d-printing-with-the-beginner-in-mind?utm_medium=rss)
- - [Kuo doubles down on iPhone 15 Pro having no physical buttons](https://appleinsider.com/articles/23/01/11/kuo-doubles-down-on-iphone-15-pro-having-no-physical-buttons?utm_medium=rss)<!-- TECH:END -->
+ - [President Biden wants more bipartisan efforts against Big Tech](https://appleinsider.com/articles/23/01/11/president-biden-wants-more-bipartisan-efforts-against-big-tech?utm_medium=rss)
+ - [Apple spending $240M to expand its Austin, Texas campus](https://appleinsider.com/articles/23/01/11/apple-spending-240m-to-expand-its-austin-texas-campus?utm_medium=rss)
+ - [Apple Fitness+ Kickboxing Review: Beginners, beware](https://appleinsider.com/articles/23/01/11/apple-fitness-kickboxing-review-beginners-beware?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
