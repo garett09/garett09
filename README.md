@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Is About To Get Some Big Energy Saving Updates](https://kotaku.com/xbox-microsoft-carbon-environment-console-update-1849976465)
- - [A new MechWarrior game is coming in 2024](https://www.pcgamer.com/a-new-mechwarrior-game-is-coming-in-2024)
- - [How to win Marvel Snap’s featured location, Altar of Death](https://www.polygon.com/guides/2023/1/11/23501179/marvel-snap-featured-location-altar-death-destroy-deck)<!-- GAME:END -->
+ - [Ubisoft Has Canceled At Least Seven Games In Six Months](https://kotaku.com/ubisoft-7-canceled-games-splinter-cell-assasin-s-creed-1849976552)
+ - [Xbox Is About To Get Some Big Energy-Saving Updates](https://kotaku.com/xbox-microsoft-carbon-environment-console-update-1849976465)
+ - [A new MechWarrior game is coming in 2024](https://www.pcgamer.com/a-new-mechwarrior-game-is-coming-in-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
