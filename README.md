@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance admits flaws in maintaining its Paxos-managed BUSD stablecoin, which should be backed 1:1; ChainArgos: BUSD was undercollateralized by $1B+ in 2020-21 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230111/p8#a230111p8)
- - [Judge rules Apple Watch infringes Masimo pulse oximetry patent](https://appleinsider.com/articles/23/01/11/judge-rules-apple-watch-infringes-masimo-pulse-oximetry-patent?utm_medium=rss)
- - [How Section 19a of Germany&#39;s Competition Act gives antitrust authorities the power to divest and sanction Big Tech, as the EU slowly rolls out its enforcement &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230111/p7#a230111p7)<!-- TECH:END -->
+ - [Zoom Wants to Make You an Avatar &lpar;Not the James Cameron Kind&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/zoom-wants-to-make-you-an-avatar-not-the-james-cameron-kind/#ftag=CAD590a51e)
+ - [FTX Has Wrecked the Crypto Party in Paradise](https://www.wired.com/story/bahamas-ftx-crypto-party/)
+ - [Mass Climate Migration Is Coming](https://www.wired.com/story/migration-climate-environment-refugees/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
