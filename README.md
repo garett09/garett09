@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Dog Accessories &lpar;2022&rpar;: Dog Beds, Pet Cameras, Carriers, and More](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
- - [How Tinder changed everything](https://www.theverge.com/23549905/tinder-swipe-creation-dating-app-revolution-land-of-the-giants)
- - [Why some of the biggest names in tech and auto are teaming up on virtual power plants](https://www.theverge.com/2023/1/11/23548812/gm-google-nest-virtual-power-plants-rmi-ford-electricity-grid)<!-- TECH:END -->
+ - [Ender-3 V2 Neo review: 3D printing, with the beginner in mind](https://appleinsider.com/articles/23/01/11/ender-3-v2-neo-review-3d-printing-with-the-beginner-in-mind?utm_medium=rss)
+ - [US police app SweepWizard, built by ODIN, leaked data, including location and names, on officers, 5,770 suspects, and others due to a simple misconfiguration &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/230111/p21#a230111p21)
+ - [In a Discord post, OpenAI says it&#39;s &quot;starting to&quot; consider monetizing ChatGPT, possibly via ChatGPT Professional, polls members on payment preferences, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230111/p20#a230111p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
