@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
- - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
- - 🚯 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)<!-- MEMES:END -->
+ - 🚖 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
+ - 🚯 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
+ - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)<!-- MEMES:END -->
 
 --- 
 
