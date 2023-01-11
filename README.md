@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
- - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
+ - 🚖 [10 Years Later](http://9gag.com/gag/ay2eMOq)
+ - 🚯 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
  - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)<!-- MEMES:END -->
 
 --- 
