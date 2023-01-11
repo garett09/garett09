@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 🚯 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
- - 🚯 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)<!-- MEMES:END -->
+ - 🚯 [It is what it is](http://9gag.com/gag/aXngV86)
+ - 🚯 [Crowds greeting Poland\u2019s President Andrzej Duda tonight in Lviv](http://9gag.com/gag/aXng4Mg)<!-- MEMES:END -->
 
 --- 
 
