@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US ITC judge rules that some Apple Watches infringe on one of five Masimo pulse oximeter patents related to using light sensors to measure blood oxygen levels &lpar;Amanda Pedersen/Medical Device + Diagnostic Industry&rpar;](http://www.techmeme.com/230110/p40#a230110p40)
  - [Filing: Google warns Android growth in India will stall due to the CCI&#39;s antitrust order that requires making &quot;far-reaching changes&quot; to its mobile platform &lpar;Reuters&rpar;](http://www.techmeme.com/230110/p39#a230110p39)
- - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)
- - [X project Mineral, which debuted in March 2018 to use AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, graduates into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)<!-- TECH:END -->
+ - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
