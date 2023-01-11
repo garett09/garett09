@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Chinese researchers claimed to break RSA encryption using quantum computers, experts are skeptical and caution that any commercial benefits are years away &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230111/p15#a230111p15)
- - [Drug Shortages Aren’t New. The Tripledemic Just Made You Look](https://www.wired.com/story/drug-shortages-arent-new-the-tripledemic-just-made-you-look/)
- - [PC market got hammered in holiday season, but Apple didn&#39;t](https://appleinsider.com/articles/23/01/11/pc-market-got-hammered-in-holiday-season-but-apple-didnt?utm_medium=rss)<!-- TECH:END -->
+ - [19 Best Dog Accessories &lpar;2022&rpar;: Dog Beds, Pet Cameras, Carriers, and More](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [How Tinder changed everything](https://www.theverge.com/23549905/tinder-swipe-creation-dating-app-revolution-land-of-the-giants)
+ - [Why some of the biggest names in tech and auto are teaming up on virtual power plants](https://www.theverge.com/2023/1/11/23548812/gm-google-nest-virtual-power-plants-rmi-ford-electricity-grid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
