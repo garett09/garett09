@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People who know](http://9gag.com/gag/aMExKwV)
- - 🚯 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
- - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
+ - 🚖 [10 Years Later](http://9gag.com/gag/ay2eMOq)
+ - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)
+ - 🚯 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)<!-- MEMES:END -->
 
 --- 
 
