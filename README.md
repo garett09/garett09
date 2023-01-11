@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 Years Later](http://9gag.com/gag/ay2eMOq)
- - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)
- - 🚯 [People who know](http://9gag.com/gag/aMExKwV)<!-- MEMES:END -->
+ - 🚖 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)
+ - 🚯 [Damn Woman](http://9gag.com/gag/aQEdExr)
+ - 🚯 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)<!-- MEMES:END -->
 
 --- 
 
