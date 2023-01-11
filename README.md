@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot apologises for awful League of Legends cinematic after fan backlash](https://www.pcgamer.com/riot-apologises-for-awful-league-of-legends-cinematic-after-fan-backlash)
- - [The science fiction and fantasy books we’re excited for in 2023](https://www.polygon.com/23546367/new-books-science-fiction-fantasy-2023)
- - [D&amp;D is getting a live-action TV adaptation from the writer and director of Dodgeball](https://www.pcgamer.com/dandd-is-getting-a-live-action-tv-adaptation-from-the-writer-and-director-of-dodgeball)<!-- GAME:END -->
+ - [The original Zelda in VR would have exploded my 6 year-old brain](https://www.pcgamer.com/the-original-zelda-in-vr-would-have-exploded-my-6-year-old-brain)
+ - [Xbox and Bethesda to Present Developer_Direct Livestream on January 25](https://news.xbox.com/en-us/2023/01/11/xbox-bethesda-present-developer-direct-livestream-january-25/)
+ - [The Weirdest Nintendo Switch Accessories You Can Buy](https://kotaku.com/nintendo-switch-peripheral-controller-joy-con-case-1849970300)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
