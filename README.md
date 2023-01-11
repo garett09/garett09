@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You guys got wives?](http://9gag.com/gag/aZDynB0)
- - 🚯 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
- - 🚯 [Why didn\u2019t he though?](http://9gag.com/gag/a2KWwQw)<!-- MEMES:END -->
+ - 🚖 [10 Years Later](http://9gag.com/gag/ay2eMOq)
+ - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)
+ - 🚯 [People who know](http://9gag.com/gag/aMExKwV)<!-- MEMES:END -->
 
 --- 
 
