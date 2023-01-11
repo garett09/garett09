@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your desk is probably too tall for you — here’s how to fix it](https://www.polygon.com/23547045/how-to-set-up-your-desk-ergonomics)
- - [This year is stacked with promising FPS games](https://www.pcgamer.com/this-year-is-stacked-with-promising-fps-games)
- - [New Dragon Ball Z: Kakarot DLC gameplay featuring Bardock revealed](https://blog.playstation.com/2023/01/11/new-dragon-ball-z-kakarot-dlc-gameplay-featuring-bardock-revealed/)<!-- GAME:END -->
+ - [Xbox showcase coming to highlight 2023 games, but Starfield won’t be there](https://www.polygon.com/23546669/xbox-showcase-january-2023-developer-direct-when-date-time)
+ - [This Warzone TikTok Shows Why DMZ Is So Amazing In Less Than A Minute](https://kotaku.com/call-of-duty-warzone-dmz-tiktok-ghost-soap-tarkov-mw2-1849975052)
+ - [SZA’s ‘Kill Bill’ video is a fitting tribute to Tarantino’s martial arts revenge classic](https://www.polygon.com/2023/1/11/23550214/szas-kill-bill-music-video-quentin-tarantino)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
