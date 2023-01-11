@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)
- - 🚯 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 🚯 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)<!-- MEMES:END -->
+ - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - 🚯 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
+ - 🚯 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)<!-- MEMES:END -->
 
 --- 
 
