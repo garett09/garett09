@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
- - 🚯 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)<!-- MEMES:END -->
+ - 🚖 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
 
 --- 
 
