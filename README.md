@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter makes the newly named &quot;For You&quot; algorithmic feed the default, rolling out initially to iOS users &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230110/p36#a230110p36)
- - [LeanTaaS, which sells AI-powered capacity optimization software to healthcare providers, buys automation firm Hospital IQ, valuing the combined company at $1B+ &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/230110/p35#a230110p35)
- - [Nevada&#39;s US senators claim the FCC&#39;s new broadband maps, which will be used to allocate $42.45B in grants, are filled with mistakes and overstate coverage &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230110/p34#a230110p34)<!-- TECH:END -->
+ - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)
+ - [Alphabet graduates its X Moonshot project Mineral, which uses AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)
+ - [Apple may be designing its own Apple Watch MicroLED screen](https://appleinsider.com/articles/23/01/11/apple-may-be-designing-its-own-apple-watch-microled-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
