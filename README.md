@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom Wants to Make You an Avatar &lpar;Not the James Cameron Kind&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/zoom-wants-to-make-you-an-avatar-not-the-james-cameron-kind/#ftag=CAD590a51e)
- - [FTX Has Wrecked the Crypto Party in Paradise](https://www.wired.com/story/bahamas-ftx-crypto-party/)
- - [Mass Climate Migration Is Coming](https://www.wired.com/story/migration-climate-environment-refugees/)<!-- TECH:END -->
+ - [After Chinese researchers claimed to break RSA encryption using quantum computers, experts are skeptical and caution that any commercial benefits are years away &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230111/p15#a230111p15)
+ - [Drug Shortages Aren’t New. The Tripledemic Just Made You Look](https://www.wired.com/story/drug-shortages-arent-new-the-tripledemic-just-made-you-look/)
+ - [PC market got hammered in holiday season, but Apple didn&#39;t](https://appleinsider.com/articles/23/01/11/pc-market-got-hammered-in-holiday-season-but-apple-didnt?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
