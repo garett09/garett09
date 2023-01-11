@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ender-3 V2 Neo review: 3D printing, with the beginner in mind](https://appleinsider.com/articles/23/01/11/ender-3-v2-neo-review-3d-printing-with-the-beginner-in-mind?utm_medium=rss)
- - [US police app SweepWizard, built by ODIN, leaked data, including location and names, on officers, 5,770 suspects, and others due to a simple misconfiguration &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/230111/p21#a230111p21)
- - [In a Discord post, OpenAI says it&#39;s &quot;starting to&quot; consider monetizing ChatGPT, possibly via ChatGPT Professional, polls members on payment preferences, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230111/p20#a230111p20)<!-- TECH:END -->
+ - [Android 13 could soon allow you to transfer eSIM profiles on Pixel phones](https://www.androidauthority.com/android-13-esim-profiles-3265397/)
+ - [Apple spending $240M to expand its Austin, Texas campus](https://appleinsider.com/articles/23/01/11/apple-spending-240m-to-expand-its-austin-texas-campus?utm_medium=rss)
+ - [The Verge and The Cut Partner on Seventh Season of Land of the Giants Podcast – About the Multi-Billion Dollar Dating App Industry](https://www.theverge.com/2023/1/11/23550213/the-verge-and-the-cut-partner-on-seventh-season-of-land-of-the-giants-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
