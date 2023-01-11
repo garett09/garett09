@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 could soon allow you to transfer eSIM profiles on Pixel phones](https://www.androidauthority.com/android-13-esim-profiles-3265397/)
- - [Apple spending $240M to expand its Austin, Texas campus](https://appleinsider.com/articles/23/01/11/apple-spending-240m-to-expand-its-austin-texas-campus?utm_medium=rss)
- - [The Verge and The Cut Partner on Seventh Season of Land of the Giants Podcast – About the Multi-Billion Dollar Dating App Industry](https://www.theverge.com/2023/1/11/23550213/the-verge-and-the-cut-partner-on-seventh-season-of-land-of-the-giants-podcast)<!-- TECH:END -->
+ - [Microsoft announces 365 Basic for $1.99 per month, replacing the 100GB OneDrive subscription, rolling out globally on January 30 with ad-free Outlook and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230111/p26#a230111p26)
+ - [The Guardian confirms a ransomware attack in December 2022 and that the personal data of UK staff was accessed, possibly via a phishing attempt &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230111/p25#a230111p25)
+ - [The US Just Greenlit High-Tech Alternatives to Animal Testing](https://www.wired.com/story/the-us-just-greenlit-high-tech-alternatives-to-animal-testing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
