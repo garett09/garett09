@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
- - 🚯 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
- - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)<!-- MEMES:END -->
+ - 🚖 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
+ - 🚯 [Adios](http://9gag.com/gag/aRE7Mjq)
+ - 🚯 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)<!-- MEMES:END -->
 
 --- 
 
