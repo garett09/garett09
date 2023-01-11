@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monkey business](http://9gag.com/gag/awZB1dW)
- - 🚯 [Cat demands to be let in](http://9gag.com/gag/a4o368m)
- - 🚯 [Poor kitty didn&#39;t know](http://9gag.com/gag/awZBm91)<!-- MEMES:END -->
+ - 🚖 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)
+ - 🚯 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - 🚯 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)<!-- MEMES:END -->
 
 --- 
 
