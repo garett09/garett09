@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Google warns Android growth in India will stall due to the CCI&#39;s antitrust order that requires making &quot;far-reaching changes&quot; to its mobile platform &lpar;Reuters&rpar;](http://www.techmeme.com/230110/p39#a230110p39)
  - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)
- - [Alphabet graduates its X Moonshot project Mineral, which uses AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)
- - [Apple may be designing its own Apple Watch MicroLED screen](https://appleinsider.com/articles/23/01/11/apple-may-be-designing-its-own-apple-watch-microled-screen?utm_medium=rss)<!-- TECH:END -->
+ - [X project Mineral, which debuted in March 2018 to use AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, graduates into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
