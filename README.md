@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you did 10 years of therapy. That just means you&#39;re unstable, not a therapist](http://9gag.com/gag/aEqP0EN)
- - 🚯 [This is how you Repair the black community in the US](http://9gag.com/gag/aBdmZR2)
+ - 🚖 [People who know](http://9gag.com/gag/aMExKwV)
+ - 🚯 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
  - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
 
 --- 
