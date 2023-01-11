@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - 🚯 [99-million-year-old dinosaur tail found preserved in amber - It is covered completely in feathers](http://9gag.com/gag/a04NeGn)
- - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
+ - 🚖 [HUP!](http://9gag.com/gag/aDY4dn7)
+ - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)
+ - 🚯 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)<!-- MEMES:END -->
 
 --- 
 
