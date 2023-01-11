@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus’ January Update Has Something For Everyone](https://kotaku.com/ps-plus-january-2023-devil-may-cry-ps1-classic-ps5-ps4-1849975731)
- - [Deep Rock Galactic sold millions of copies last year, and I reckon its wholesome community is to blame](https://www.pcgamer.com/deep-rock-galactic-sold-millions-of-copies-last-year-and-i-reckon-its-wholesome-community-is-to-blame)
- - [New on Apple Arcade in January: Pokémon creators’ brilliant solitaire game](https://www.polygon.com/23549897/apple-arcade-new-releases-best-games)<!-- GAME:END -->
+ - [Stop us if you heard this one already: Skull and Bones is delayed](https://www.polygon.com/2023/1/11/23550511/skull-and-bones-delayed-release-date-ubisoft)
+ - [A 16-Bit Ninja Game Asks What If Mega Man But Body Horror](https://kotaku.com/vengeful-guardian-moonrider-review-mega-man-robo-cop-1849976056)
+ - [Inside the long road to release the lost Mark Hamill video game movie Virtually Heroes](https://www.polygon.com/23548793/mark-hamill-movie-virtually-heroes-video-game-satire-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
