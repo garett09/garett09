@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Zelda in VR would have exploded my 6 year-old brain](https://www.pcgamer.com/the-original-zelda-in-vr-would-have-exploded-my-6-year-old-brain)
- - [Xbox and Bethesda to Present Developer_Direct Livestream on January 25](https://news.xbox.com/en-us/2023/01/11/xbox-bethesda-present-developer-direct-livestream-january-25/)
- - [The Weirdest Nintendo Switch Accessories You Can Buy](https://kotaku.com/nintendo-switch-peripheral-controller-joy-con-case-1849970300)<!-- GAME:END -->
+ - [Your desk is probably too tall for you — here’s how to fix it](https://www.polygon.com/23547045/how-to-set-up-your-desk-ergonomics)
+ - [This year is stacked with promising FPS games](https://www.pcgamer.com/this-year-is-stacked-with-promising-fps-games)
+ - [New Dragon Ball Z: Kakarot DLC gameplay featuring Bardock revealed](https://blog.playstation.com/2023/01/11/new-dragon-ball-z-kakarot-dlc-gameplay-featuring-bardock-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
