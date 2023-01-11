@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Milk....mmmm...](http://9gag.com/gag/a3ZwGZe)
- - 🚯 [If you did 10 years of therapy. That just means you&#39;re unstable, not a therapist](http://9gag.com/gag/aEqP0EN)
- - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
+ - 🚖 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)
+ - 🚯 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
+ - 🚯 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)<!-- MEMES:END -->
 
 --- 
 
