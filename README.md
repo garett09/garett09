@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden wants more bipartisan efforts against Big Tech](https://appleinsider.com/articles/23/01/11/president-biden-wants-more-bipartisan-efforts-against-big-tech?utm_medium=rss)
- - [Apple spending $240M to expand its Austin, Texas campus](https://appleinsider.com/articles/23/01/11/apple-spending-240m-to-expand-its-austin-texas-campus?utm_medium=rss)
- - [Apple Fitness+ Kickboxing Review: Beginners, beware](https://appleinsider.com/articles/23/01/11/apple-fitness-kickboxing-review-beginners-beware?utm_medium=rss)<!-- TECH:END -->
+ - [Supply chain software startup Flexport lays off 20% of its global workforce, or roughly 640 employees; the company was valued at $8B in February 2022 &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/230111/p32#a230111p32)
+ - [All the Find My gear at CES 2023 - hands on](https://appleinsider.com/articles/23/01/11/all-the-find-my-gear-at-ces-2023---hands-on?utm_medium=rss)
+ - [Equity management service Carta cuts 10% of its staff, possibly impacting ~200 workers, as it sues a former CTO; the company was valued at $7.4B in August 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/230111/p31#a230111p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
