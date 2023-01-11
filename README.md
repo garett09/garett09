@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
- - 🚯 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
+ - 🚖 [Monkey business](http://9gag.com/gag/awZB1dW)
+ - 🚯 [Cat demands to be let in](http://9gag.com/gag/a4o368m)
+ - 🚯 [Poor kitty didn&#39;t know](http://9gag.com/gag/awZBm91)<!-- MEMES:END -->
 
 --- 
 
