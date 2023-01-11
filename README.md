@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supply chain software startup Flexport lays off 20% of its global workforce, or roughly 640 employees; the company was valued at $8B in February 2022 &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/230111/p32#a230111p32)
- - [All the Find My gear at CES 2023 - hands on](https://appleinsider.com/articles/23/01/11/all-the-find-my-gear-at-ces-2023---hands-on?utm_medium=rss)
- - [Equity management service Carta cuts 10% of its staff, possibly impacting ~200 workers, as it sues a former CTO; the company was valued at $7.4B in August 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/230111/p31#a230111p31)<!-- TECH:END -->
+ - [Sources: GroupM clients cut Twitter ad spending by 40%-50% since Elon Musk took over; Standard Media Index sees fewer January and February ad bookings in 2023 &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230111/p34#a230111p34)
+ - [Twitter says that the company&#39;s investigation found &quot;no evidence&quot; that its users&#39; data sold online was obtained by exploiting vulnerabilities in its systems &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230111/p33#a230111p33)
+ - [Apple may ditch physical power and volume buttons on the iPhone 15 Pro](https://www.androidauthority.com/apple-15-pro-buttons-3265558/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
