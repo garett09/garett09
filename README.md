@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court documents: New England Patriots owner Robert Kraft, NFL star Tom Brady, a Peter Thiel-linked trust, and more own FTX Group stock, now considered worthless &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230111/p6#a230111p6)
- - [Microsoft May Back ChatGPT Creator With $10 Billion Investment     - CNET](https://www.cnet.com/tech/microsoft-may-back-chatgpt-creator-with-10-billion-investment/#ftag=CAD590a51e)
- - [A profile of Character.AI, founded by two former Google researchers to offer &quot;plausible conversation&quot; with famous people, like William Shakespeare and Elon Musk &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230111/p5#a230111p5)<!-- TECH:END -->
+ - [Binance admits flaws in maintaining its Paxos-managed BUSD stablecoin, which should be backed 1:1; ChainArgos: BUSD was undercollateralized by $1B+ in 2020-21 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230111/p8#a230111p8)
+ - [Judge rules Apple Watch infringes Masimo pulse oximetry patent](https://appleinsider.com/articles/23/01/11/judge-rules-apple-watch-infringes-masimo-pulse-oximetry-patent?utm_medium=rss)
+ - [How Section 19a of Germany&#39;s Competition Act gives antitrust authorities the power to divest and sanction Big Tech, as the EU slowly rolls out its enforcement &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230111/p7#a230111p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
