@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop us if you heard this one already: Skull and Bones is delayed](https://www.polygon.com/2023/1/11/23550511/skull-and-bones-delayed-release-date-ubisoft)
- - [A 16-Bit Ninja Game Asks What If Mega Man But Body Horror](https://kotaku.com/vengeful-guardian-moonrider-review-mega-man-robo-cop-1849976056)
- - [Inside the long road to release the lost Mark Hamill video game movie Virtually Heroes](https://www.polygon.com/23548793/mark-hamill-movie-virtually-heroes-video-game-satire-interview)<!-- GAME:END -->
+ - [Xbox Is About To Get Some Big Energy Saving Updates](https://kotaku.com/xbox-microsoft-carbon-environment-console-update-1849976465)
+ - [A new MechWarrior game is coming in 2024](https://www.pcgamer.com/a-new-mechwarrior-game-is-coming-in-2024)
+ - [How to win Marvel Snap’s featured location, Altar of Death](https://www.polygon.com/guides/2023/1/11/23501179/marvel-snap-featured-location-altar-death-destroy-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
