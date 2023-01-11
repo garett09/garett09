@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)
- - 🚯 [Damn Woman](http://9gag.com/gag/aQEdExr)
- - 🚯 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)<!-- MEMES:END -->
+ - 🚖 [Cat demands to be let in](http://9gag.com/gag/a4o368m)
+ - 🚯 [French animation hits different [Dofus: Book 1]](http://9gag.com/gag/aVbwE9d)
+ - 🚯 [That&#39;s what i call a smooth transition.](http://9gag.com/gag/a9qn5dW)<!-- MEMES:END -->
 
 --- 
 
