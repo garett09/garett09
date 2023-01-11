@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces 365 Basic for $1.99 per month, replacing the 100GB OneDrive subscription, rolling out globally on January 30 with ad-free Outlook and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230111/p26#a230111p26)
- - [The Guardian confirms a ransomware attack in December 2022 and that the personal data of UK staff was accessed, possibly via a phishing attempt &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230111/p25#a230111p25)
- - [The US Just Greenlit High-Tech Alternatives to Animal Testing](https://www.wired.com/story/the-us-just-greenlit-high-tech-alternatives-to-animal-testing/)<!-- TECH:END -->
+ - [In an op-ed, Joe Biden asks Republicans and Democrats to unite &quot;to pass strong bipartisan legislation to hold Big Tech accountable&quot;, saying the risks are clear &lpar;Joe Biden/Wall Street Journal&rpar;](http://www.techmeme.com/230111/p28#a230111p28)
+ - [Ender-3 V2 Neo review: 3D printing, with the beginner in mind](https://appleinsider.com/articles/23/01/11/ender-3-v2-neo-review-3d-printing-with-the-beginner-in-mind?utm_medium=rss)
+ - [Kuo doubles down on iPhone 15 Pro having no physical buttons](https://appleinsider.com/articles/23/01/11/kuo-doubles-down-on-iphone-15-pro-having-no-physical-buttons?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
