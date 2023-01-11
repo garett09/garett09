@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 🚯 [It is what it is](http://9gag.com/gag/aXngV86)
- - 🚯 [Crowds greeting Poland\u2019s President Andrzej Duda tonight in Lviv](http://9gag.com/gag/aXng4Mg)<!-- MEMES:END -->
+ - 🚖 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
+ - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - 🚯 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)<!-- MEMES:END -->
 
 --- 
 
