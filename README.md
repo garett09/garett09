@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
- - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
- - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
+ - 🚖 [&#39;Mary Jane&#39; just entered the chat..](http://9gag.com/gag/a9qnv56)
+ - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)
+ - 🚯 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)<!-- MEMES:END -->
 
 --- 
 
