@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: December 2022’s top downloads](https://blog.playstation.com/2023/01/12/playstation-store-december-2022s-top-downloads/)
- - [Zoinks! There’s nudity and swearing and stuff in this Velma show](https://www.polygon.com/23550866/velma-hbo-max-scooby-doo-explained)
- - [All Grand Line Quiz answers in One Piece Odyssey](https://www.pcgamer.com/one-piece-odyssey-grand-line-quiz-answers)<!-- GAME:END -->
+ - [The viral sensation Skinamarink is this generation’s Blair Witch Project](https://www.polygon.com/23550409/skinamarink-vs-blair-witch-project-horror-movie-tiktok)
+ - [Season: A letter to the future new story trailer revealed, PS5 features detailed](https://blog.playstation.com/2023/01/12/season-a-letter-to-the-future-new-story-trailer-revealed-ps5-features-detailed/)
+ - [Disney Dreamlight Valley: How to restore the Cheerful Chums Club banner](https://www.pcgamer.com/disney-dreamlight-valley-cheerful-chums-club-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
