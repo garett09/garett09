@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&#39;Mary Jane&#39; just entered the chat..](http://9gag.com/gag/a9qnv56)
- - 🚯 [Choose wisely](http://9gag.com/gag/az2m58x)
- - 🚯 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)<!-- MEMES:END -->
+ - 🚖 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - 🚯 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
+ - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)<!-- MEMES:END -->
 
 --- 
 
