@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F*ck zodicas signs. How do you use dual screen setups?](http://9gag.com/gag/aoKPKvx)
- - 🚯 [I `found` them](http://9gag.com/gag/ajV9x61)
- - 🚯 [He is a genius](http://9gag.com/gag/awZBLW8)<!-- MEMES:END -->
+ - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - 🚯 [So\u2026 who did you summoned this time whiskers?](http://9gag.com/gag/aVbwmnv)
+ - 🚯 [I `found` them](http://9gag.com/gag/ajV9x61)<!-- MEMES:END -->
 
 --- 
 
