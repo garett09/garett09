@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
- - 🚯 [Adios](http://9gag.com/gag/aRE7Mjq)
- - 🚯 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)<!-- MEMES:END -->
+ - 🚖 [F*ck zodicas signs. How do you use dual screen setups?](http://9gag.com/gag/aoKPKvx)
+ - 🚯 [I `found` them](http://9gag.com/gag/ajV9x61)
+ - 🚯 [He is a genius](http://9gag.com/gag/awZBLW8)<!-- MEMES:END -->
 
 --- 
 
