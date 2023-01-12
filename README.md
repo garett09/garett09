@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)
- - 🚯 [Best so far](http://9gag.com/gag/avQzxOb)
- - 🚯 [Some of you need to remember this](http://9gag.com/gag/aA0eMd9)<!-- MEMES:END -->
+ - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - 🚯 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
+ - 🚯 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)<!-- MEMES:END -->
 
 --- 
 
