@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 🚯 [Steve carell being steve carell](http://9gag.com/gag/a6qKjQA)
- - 🚯 [Live at work](http://9gag.com/gag/agoAEoq)<!-- MEMES:END -->
+ - 🚖 [Why is 9gag getting worse by the day?](http://9gag.com/gag/aOx74wv)
+ - 🚯 [World Cup winner McAlister shows off his winners medal to his fans in his tiny club Brighton](http://9gag.com/gag/aVbwV0y)
+ - 🚯 [Holup, did they say 10 year old ?](http://9gag.com/gag/axo9YP1)<!-- MEMES:END -->
 
 --- 
 
