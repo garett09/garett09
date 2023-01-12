@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Tim Cook shares video to mark Chinese New Year on social media](https://appleinsider.com/articles/23/01/12/tim-cook-shares-video-to-mark-chinese-new-year-on-social-media?utm_medium=rss)
- - [Is Hulu Plus Live TV worth $70+ every month? We did the math](https://www.androidauthority.com/is-hulu-live-tv-worth-it-3265419/)
- - [Daily Deals Jan. 12: $250 off 14-inch MacBook Pro, 46% off 75-inch Samsung Smart TV &amp; more](https://appleinsider.com/articles/23/01/12/daily-deals-jan-12-250-off-14-inch-macbook-pro-46-off-75-inch-samsung-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with all the best Apple accessories at CES 2023](https://appleinsider.com/articles/23/01/12/hands-on-with-all-the-best-apple-accessories-at-ces-2023?utm_medium=rss)
+ - [Facer faces competition from TimeShow, a new watch face app from Mobvoi](https://www.androidauthority.com/timeshow-watch-faces-3265866/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
