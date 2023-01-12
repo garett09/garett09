@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I desperately need to go to this JRPG Taco Bell](https://www.polygon.com/23550940/taco-bell-jrpg-meme-twitter-xenoblade-chronicles)
- - [Ubisoft is having a bad time, cancels more unannounced games as its share price plunges](https://www.pcgamer.com/ubisoft-is-having-a-bad-time-cancels-more-unannounced-games-as-its-share-price-plunges)
- - [Fortnite&#39;s Plague Doc Skin Is Back After Three Years, Fans Blame COVID](https://kotaku.com/fortnite-plague-doctor-grim-medicine-store-return-covid-1849977313)<!-- GAME:END -->
+ - [Gigabyte Z790 Aorus Master](https://www.pcgamer.com/gigabyte-z790-aorus-master)
+ - [Roomba testers found sensitive images uploaded to social media](https://www.pcgamer.com/roomba-testers-found-sensitive-images-uploaded-to-social-media)
+ - [I desperately need to go to this JRPG Taco Bell](https://www.polygon.com/23550940/taco-bell-jrpg-meme-twitter-xenoblade-chronicles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
