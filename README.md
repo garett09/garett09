@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 🚯 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
- - 🚯 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)<!-- MEMES:END -->
+ - 🚖 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
+ - 🚯 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)
+ - 🚯 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)<!-- MEMES:END -->
 
 --- 
 
