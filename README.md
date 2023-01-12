@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)
- - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 🚯 [Adios](http://9gag.com/gag/aRE7Mjq)<!-- MEMES:END -->
+ - 🚖 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - 🚯 [Did he?](http://9gag.com/gag/avQzRNb)
+ - 🚯 [Such a deep voice, awesome](http://9gag.com/gag/aYVy1jv)<!-- MEMES:END -->
 
 --- 
 
