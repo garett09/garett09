@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons-themed workouts put fantasy twist on fitness](https://www.polygon.com/23550538/dungeons-and-dragons-dnd-manual-of-gainful-exercise-book-review)
- - [GOG has quietly killed off its Steam-import service](https://www.pcgamer.com/gog-has-quietly-killed-off-its-steam-import-service)
- - [Avatar’s unkillable Colonel Quaritch could be the perfect villain for an eternal war](https://www.polygon.com/23550537/avatar-the-way-of-water-colonel-quaritch-perfect-villain)<!-- GAME:END -->
+ - [Spiritfarer turned death into a management sim that still hits hard](https://www.polygon.com/sub-gems/23549157/spiritfarer-netflix-subscription-mobile-best-management-sims)
+ - [Rocket League Players Found The Optimal Way To Cheat](https://kotaku.com/rocket-league-machine-learning-cheating-nexto-bot-1849980593)
+ - [Painterly Photography Game’s New Trailer Introduces Characters You’ll Meet At The End Of Things](https://kotaku.com/season-a-letter-to-the-future-trailer-pc-playstation-1849977452)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
