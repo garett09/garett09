@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spiritfarer turned death into a management sim that still hits hard](https://www.polygon.com/sub-gems/23549157/spiritfarer-netflix-subscription-mobile-best-management-sims)
- - [Rocket League Players Found The Optimal Way To Cheat](https://kotaku.com/rocket-league-machine-learning-cheating-nexto-bot-1849980593)
- - [Painterly Photography Game’s New Trailer Introduces Characters You’ll Meet At The End Of Things](https://kotaku.com/season-a-letter-to-the-future-trailer-pc-playstation-1849977452)<!-- GAME:END -->
+ - [Simon Pegg is the Hogwarts headmaster in Hogwarts Legacy](https://www.pcgamer.com/simon-pegg-is-the-hogwarts-headmaster-in-hogwarts-legacy)
+ - [Gifts Galore: Celebrating 12 Years of DC Universe Online](https://news.xbox.com/en-us/2023/01/12/gifts-galore-celebrating-12-years-of-dc-universe-online/)
+ - [Prototypes for a Lenovo handheld gaming console show up on sale in China](https://www.pcgamer.com/prototypes-for-a-lenovo-handheld-gaming-console-show-up-on-sale-in-china)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
