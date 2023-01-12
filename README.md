@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TECNO goes global: The PHANTOM X2 Series leads the charge in premium innovation](https://www.androidauthority.com/tecno-phantom-x2-series-3265847/)
- - [Rent the Runway partners with Amazon to launch an Amazon Fashion online storefront featuring new and second-hand items, expecting ~$4.6M in revenue in Q3 2023 &lpar;Olivia Rockeman/Bloomberg&rpar;](http://www.techmeme.com/230112/p25#a230112p25)
- - [Apple will provide more transparency on App Store removals](https://appleinsider.com/articles/23/01/12/apple-will-provide-more-transparency-on-app-store-removals?utm_medium=rss)<!-- TECH:END -->
+ - [Medium creates its own Mastodon instance, plans to offer it as a service for members, promises reliable moderation and smoother onboarding, and more &lpar;Tony Stubblebine/The Official Medium Blog&rpar;](http://www.techmeme.com/230112/p27#a230112p27)
+ - [ExxonMobil accurately predicted climate change while publicly dismissing it](https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate)
+ - [T-Mobile allegedly wants to buy Mint Mobile, the carrier owned by Ryan Reynolds](https://www.androidauthority.com/t-mobile-mint-mobile-3265992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
