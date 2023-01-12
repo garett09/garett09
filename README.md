@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - 🚯 [Did he?](http://9gag.com/gag/avQzRNb)
- - 🚯 [Such a deep voice, awesome](http://9gag.com/gag/aYVy1jv)<!-- MEMES:END -->
+ - 🚖 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
+ - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
 
 --- 
 
