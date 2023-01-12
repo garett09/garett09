@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD proved that Apple skipping 4nm chips isn&#39;t a big deal](https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal?utm_medium=rss)
- - [How to Download Videos to Watch Offline &lpar;2023&rpar;: Netflix, YouTube, Hulu, and More](https://www.wired.com/story/how-to-download-videos-to-watch-offline/)
- - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)<!-- TECH:END -->
+ - [Waterfield iPhone Pouch review: unassuming functionality](https://appleinsider.com/articles/23/01/12/waterfield-iphone-pouch-review-unassuming-functionality?utm_medium=rss)
+ - [How to run iPadOS apps on macOS Ventura in 2023](https://appleinsider.com/inside/macos-ventura/tips/how-to-find-ios-apps-that-run-on-apple-silicon-in-macos-ventura?utm_medium=rss)
+ - [Intel breaks the 6GHz barrier with $699 Core i9-13900KS processor](https://www.theverge.com/2023/1/12/23551748/intel-6ghz-processor-core-i9-13900k-release-date-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
