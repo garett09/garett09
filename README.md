@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
- - 🚯 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)
- - 🚯 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)<!-- MEMES:END -->
+ - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - 🚯 [That movie not legendary because of the bugssss](http://9gag.com/gag/a8qGDPp)
+ - 🚯 [I don&#39;t wanna go outside...there&#39;s germs and dumb people out there.](http://9gag.com/gag/anz4xLE)<!-- MEMES:END -->
 
 --- 
 
