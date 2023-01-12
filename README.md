@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
- - 🚯 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
- - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)<!-- MEMES:END -->
+ - 🚖 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
+ - 🚯 [Epic anime fight.](http://9gag.com/gag/ap9GAn8)
+ - 🚯 [Bruh](http://9gag.com/gag/aMExXDA)<!-- MEMES:END -->
 
 --- 
 
