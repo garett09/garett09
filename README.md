@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The viral sensation Skinamarink is this generation’s Blair Witch Project](https://www.polygon.com/23550409/skinamarink-vs-blair-witch-project-horror-movie-tiktok)
- - [Season: A letter to the future new story trailer revealed, PS5 features detailed](https://blog.playstation.com/2023/01/12/season-a-letter-to-the-future-new-story-trailer-revealed-ps5-features-detailed/)
- - [Disney Dreamlight Valley: How to restore the Cheerful Chums Club banner](https://www.pcgamer.com/disney-dreamlight-valley-cheerful-chums-club-banner)<!-- GAME:END -->
+ - [These incredible Hitman 2 speedruns will make you believe an assassin can fly](https://www.pcgamer.com/these-incredible-hitman-2-speedruns-will-make-you-believe-an-assassin-can-fly)
+ - [Marvel Snap’s Creator Says Players Who Snap At The Start Are Smart, Actually](https://kotaku.com/marvel-snap-ben-brode-round-one-1-stats-cubes-best-tips-1849978932)
+ - [Free Play Days – I Am Fish](https://news.xbox.com/en-us/2023/01/12/free-play-days-i-am-fish/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
