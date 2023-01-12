@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet&#39;s life sciences unit Verily lays off about 15% of its staff, or more than 200 employees, and discontinues work on several products &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230111/p37#a230111p37)
- - [Google strikes back in search antitrust lawsuit](https://www.theverge.com/2023/1/11/23550023/google-search-antitrust-doj-state-lawsuit-unsealed)
- - [In the Next Pandemic, Let’s Pay People to Get Vaccinated](https://www.wired.com/story/lets-pay-people-to-get-vaccinated/)<!-- TECH:END -->
+ - [AWS partners with Ava Labs, which develops the Avalanche blockchain, to support Avalanche&#39;s infrastructure and dApp ecosystem through the AWS marketplace &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230111/p39#a230111p39)
+ - [T-Mobile Rumored To Be Buying Ryan Reynolds&#39; Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/t-mobile-rumored-to-be-buying-ryan-reynolds-mint-mobile/#ftag=CAD590a51e)
+ - [Apple’s Music and TV apps for Windows are now available in preview](https://www.theverge.com/2023/1/11/23551025/apple-music-tv-devices-windows-apps-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
