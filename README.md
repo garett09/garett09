@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waterfield iPhone Pouch review: unassuming functionality](https://appleinsider.com/articles/23/01/12/waterfield-iphone-pouch-review-unassuming-functionality?utm_medium=rss)
- - [How to run iPadOS apps on macOS Ventura in 2023](https://appleinsider.com/inside/macos-ventura/tips/how-to-find-ios-apps-that-run-on-apple-silicon-in-macos-ventura?utm_medium=rss)
- - [Intel breaks the 6GHz barrier with $699 Core i9-13900KS processor](https://www.theverge.com/2023/1/12/23551748/intel-6ghz-processor-core-i9-13900k-release-date-price)<!-- TECH:END -->
+ - [Tim Cook shares video to mark Chinese New Year on social media](https://appleinsider.com/articles/23/01/12/tim-cook-shares-video-to-mark-chinese-new-year-on-social-media?utm_medium=rss)
+ - [Is Hulu Plus Live TV worth $70+ every month? We did the math](https://www.androidauthority.com/is-hulu-live-tv-worth-it-3265419/)
+ - [Daily Deals Jan. 12: $250 off 14-inch MacBook Pro, 46% off 75-inch Samsung Smart TV &amp; more](https://appleinsider.com/articles/23/01/12/daily-deals-jan-12-250-off-14-inch-macbook-pro-46-off-75-inch-samsung-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
