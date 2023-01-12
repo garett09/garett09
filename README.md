@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adios](http://9gag.com/gag/aRE7Mjq)
- - 🚯 [Please do your best.](http://9gag.com/gag/aWGxbM6)
- - 🚯 [Where do I sign up?](http://9gag.com/gag/aNwg4KA)<!-- MEMES:END -->
+ - 🚖 [Most](http://9gag.com/gag/aWGxn6Z)
+ - 🚯 [We live in a society](http://9gag.com/gag/a3ZwAo1)
+ - 🚯 [The truth must be spoken!](http://9gag.com/gag/abvG45L)<!-- MEMES:END -->
 
 --- 
 
