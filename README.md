@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS 3 support expands, another watch gets the update](https://www.androidauthority.com/wear-os-3-watch-3266014/)
- - [HBO Max hikes subscription price as it deletes content](https://appleinsider.com/articles/23/01/12/hbo-max-hikes-subscription-price-as-it-deletes-content?utm_medium=rss)
- - [Butter Payments, which uses AI to help companies catch accidental subscription churn, raised a $21.5M Series A from Norwest, sources say at a ~$100M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230112/p29#a230112p29)<!-- TECH:END -->
+ - [The SEC charges Genesis and Gemini with the unregistered offering and sale of securities to retail investors through a Gemini crypto lending program &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230112/p31#a230112p31)
+ - [2022 Wasn&#39;t the Hottest on Record. That&#39;s Nothing to Celebrate](https://www.wired.com/story/2022-wasnt-the-hottest-on-record-thats-nothing-to-celebrate/)
+ - [Best MagSafe and Magnetic iPhone Accessories for 2023     - CNET](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
