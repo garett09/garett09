@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bulgarian police say London-based crypto lender Nexo&#39;s office in Sofia was raided on Thursday, seeking information on suspected money laundering and tax crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p16#a230112p16)
- - [BeOS lives on, in the new Haiku OS Beta 4](https://appleinsider.com/articles/23/01/12/beos-lives-on-in-the-new-haiku-os-beta-4?utm_medium=rss)
- - [Waterfield iPhone Pouch review: unassuming functionality](https://appleinsider.com/articles/23/01/12/waterfield-iphone-pouch-review-unassuming-functionality?utm_medium=rss)<!-- TECH:END -->
+ - [Sam Bankman-Fried publishes a Substack post offering his account of how FTX collapsed, sticking to his claims of innocence, even as ex-executives plead guilty &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230112/p19#a230112p19)
+ - [Sources: crypto broker Genesis owes creditors more than $3B, leading DCG to explore selling venture assets, estimated to be worth ~$500M, to raise cash &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230112/p18#a230112p18)
+ - [Galaxy Watches and Buds 2 Pro are now better companions for your phone’s camera](https://www.androidauthority.com/samsung-galaxy-watch-galaxy-buds-2-pro-camera-update-3265783/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
