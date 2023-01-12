@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 🚯 [So\u2026 who did you summoned this time whiskers?](http://9gag.com/gag/aVbwmnv)
- - 🚯 [I `found` them](http://9gag.com/gag/ajV9x61)<!-- MEMES:END -->
+ - 🚖 [Adios](http://9gag.com/gag/aRE7Mjq)
+ - 🚯 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - 🚯 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)<!-- MEMES:END -->
 
 --- 
 
