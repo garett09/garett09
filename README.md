@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Johnny Yong Bosch will reprise his role as Vash the Stampede in Trigun Stampede](https://www.polygon.com/23551626/johnny-yong-bosch-trigun-stampede-cast-announcement)
- - [Yes, Intel has released the fastest gaming CPU ever for $699 and no, you don&#39;t need it](https://www.pcgamer.com/intel-core-i9-13900ks-release-date-price)
- - [The Surprising Reason Twitch Star Amouranth Hasn&#39;t Ditched NSFW Content &lpar;Yet&rpar;](https://kotaku.com/amouranth-twitch-twitter-onlyfans-nsfw-hot-tub-staff-1849979742)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons-themed workouts put fantasy twist on fitness](https://www.polygon.com/23550538/dungeons-and-dragons-dnd-manual-of-gainful-exercise-book-review)
+ - [GOG has quietly killed off its Steam-import service](https://www.pcgamer.com/gog-has-quietly-killed-off-its-steam-import-service)
+ - [Avatar’s unkillable Colonel Quaritch could be the perfect villain for an eternal war](https://www.polygon.com/23550537/avatar-the-way-of-water-colonel-quaritch-perfect-villain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
