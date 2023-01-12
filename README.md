@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC charges Genesis and Gemini with the unregistered offering and sale of securities to retail investors through a Gemini crypto lending program &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230112/p31#a230112p31)
- - [2022 Wasn&#39;t the Hottest on Record. That&#39;s Nothing to Celebrate](https://www.wired.com/story/2022-wasnt-the-hottest-on-record-thats-nothing-to-celebrate/)
- - [Best MagSafe and Magnetic iPhone Accessories for 2023     - CNET](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile has Pixel owners confused as it fails to deliver January’s update](https://www.androidauthority.com/t-mobile-pixel-update-3266100/)
+ - [Apple racks up 21 nominations for the 2023 NAACP Image Awards](https://appleinsider.com/articles/23/01/12/apple-racks-up-21-nominations-for-the-2023-naacp-image-awards?utm_medium=rss)
+ - [Apple shareholder meeting to be held on March 10](https://appleinsider.com/articles/23/01/12/apple-shareholder-meeting-to-be-held-on-march-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
