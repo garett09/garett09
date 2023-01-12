@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most](http://9gag.com/gag/aWGxn6Z)
- - 🚯 [We live in a society](http://9gag.com/gag/a3ZwAo1)
- - 🚯 [The truth must be spoken!](http://9gag.com/gag/abvG45L)<!-- MEMES:END -->
+ - 🚖 [Mother i must feed](http://9gag.com/gag/a2KWDOp)
+ - 🚯 [Wierd intro](http://9gag.com/gag/aVbwL0M)
+ - 🚯 [Title](http://9gag.com/gag/abvGBQB)<!-- MEMES:END -->
 
 --- 
 
