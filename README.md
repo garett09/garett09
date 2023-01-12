@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox consoles are about to get a little bit greener](https://www.polygon.com/23551636/xbox-series-x-microsoft-carbon-aware-shutdown-sleep)
- - [YouTube&#39;s new profanity rules are punishing creators retroactively, and they&#39;re furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
- - [Ash Ketchum inspired a generation of Pokémon fans — and his voice actor](https://www.polygon.com/pokemon/23548987/pokemon-anime-ultimate-journeys-voice-actor-interview)<!-- GAME:END -->
+ - [PlayStation Store: December 2022’s top downloads](https://blog.playstation.com/2023/01/12/playstation-store-december-2022s-top-downloads/)
+ - [Zoinks! There’s nudity and swearing and stuff in this Velma show](https://www.polygon.com/23550866/velma-hbo-max-scooby-doo-explained)
+ - [All Grand Line Quiz answers in One Piece Odyssey](https://www.pcgamer.com/one-piece-odyssey-grand-line-quiz-answers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
