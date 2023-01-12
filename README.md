@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried publishes a Substack post offering his account of how FTX collapsed, sticking to his claims of innocence, even as ex-executives plead guilty &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230112/p19#a230112p19)
- - [Sources: crypto broker Genesis owes creditors more than $3B, leading DCG to explore selling venture assets, estimated to be worth ~$500M, to raise cash &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230112/p18#a230112p18)
- - [Galaxy Watches and Buds 2 Pro are now better companions for your phone’s camera](https://www.androidauthority.com/samsung-galaxy-watch-galaxy-buds-2-pro-camera-update-3265783/)<!-- TECH:END -->
+ - [AMD proved that Apple skipping 4nm chips isn&#39;t a big deal](https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal?utm_medium=rss)
+ - [How to Download Videos to Watch Offline &lpar;2023&rpar;: Netflix, YouTube, Hulu, and More](https://www.wired.com/story/how-to-download-videos-to-watch-offline/)
+ - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
