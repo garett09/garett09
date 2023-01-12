@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These incredible Hitman 2 speedruns will make you believe an assassin can fly](https://www.pcgamer.com/these-incredible-hitman-2-speedruns-will-make-you-believe-an-assassin-can-fly)
- - [Marvel Snap’s Creator Says Players Who Snap At The Start Are Smart, Actually](https://kotaku.com/marvel-snap-ben-brode-round-one-1-stats-cubes-best-tips-1849978932)
- - [Free Play Days – I Am Fish](https://news.xbox.com/en-us/2023/01/12/free-play-days-i-am-fish/)<!-- GAME:END -->
+ - [Johnny Yong Bosch will reprise his role as Vash the Stampede in Trigun Stampede](https://www.polygon.com/23551626/johnny-yong-bosch-trigun-stampede-cast-announcement)
+ - [Yes, Intel has released the fastest gaming CPU ever for $699 and no, you don&#39;t need it](https://www.pcgamer.com/intel-core-i9-13900ks-release-date-price)
+ - [The Surprising Reason Twitch Star Amouranth Hasn&#39;t Ditched NSFW Content &lpar;Yet&rpar;](https://kotaku.com/amouranth-twitch-twitter-onlyfans-nsfw-hot-tub-staff-1849979742)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
