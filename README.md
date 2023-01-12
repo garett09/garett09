@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook shares video to mark Chinese New Year on social media](https://appleinsider.com/articles/23/01/12/tim-cook-shares-video-to-mark-chinese-new-year-on-social-media?utm_medium=rss)
- - [Hands on with all the best Apple accessories at CES 2023](https://appleinsider.com/articles/23/01/12/hands-on-with-all-the-best-apple-accessories-at-ces-2023?utm_medium=rss)
- - [Facer faces competition from TimeShow, a new watch face app from Mobvoi](https://www.androidauthority.com/timeshow-watch-faces-3265866/)<!-- TECH:END -->
+ - [TECNO goes global: The PHANTOM X2 Series leads the charge in premium innovation](https://www.androidauthority.com/tecno-phantom-x2-series-3265847/)
+ - [Rent the Runway partners with Amazon to launch an Amazon Fashion online storefront featuring new and second-hand items, expecting ~$4.6M in revenue in Q3 2023 &lpar;Olivia Rockeman/Bloomberg&rpar;](http://www.techmeme.com/230112/p25#a230112p25)
+ - [Apple will provide more transparency on App Store removals](https://appleinsider.com/articles/23/01/12/apple-will-provide-more-transparency-on-app-store-removals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
