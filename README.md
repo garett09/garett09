@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter staff in Singapore have been reassigned as remote workers until further notice, amid cost-cuts which include not paying rent on global HQ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p5#a230112p5)
- - [An NLRB official rejects Amazon&#39;s attempt to overturn an April 2022 Staten Island warehouse union victory, citing lack of evidence; Amazon intends to appeal &lpar;New York Times&rpar;](http://www.techmeme.com/230112/p4#a230112p4)
- - [Employment scams, which lure applicants via fake job offers and websites to reveal sensitive data or pay for work equipment, are targeting laid-off tech workers &lpar;Imani Moise/Wall Street Journal&rpar;](http://www.techmeme.com/230112/p3#a230112p3)<!-- TECH:END -->
+ - [TSMC reports Q4 revenue up 26.7% YoY to $19.93B and net income up 78% YoY to $9.72B, beating estimates of ~$9.5B, even as the chip industry downturn continues &lpar;Reuters&rpar;](http://www.techmeme.com/230112/p7#a230112p7)
+ - [Sources: Twitter is leaving at least 12 international offices due to closures or not paying rent, including in Hong Kong, Mexico, Ghana, Australia, and India &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/230112/p6#a230112p6)
+ - [Sources: Twitter staff in Singapore have been reassigned as remote workers until further notice, amid cost-cuts which include not paying rent on global HQ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p5#a230112p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
