@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Ubisoft&#39;s stock drops ~15% after the company slashed its forecasts, reported &quot;markedly and surprisingly slower&quot; holiday sales, and delayed games &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230112/p11#a230112p11)
- - [Chinese social media becomes consumed by a debate on &quot;zero Covid&quot; ending, challenging government censors&#39; efforts to control the narrative without overstepping &lpar;New York Times&rpar;](http://www.techmeme.com/230112/p10#a230112p10)
- - [South Korean social media giant&#39;s Kakao Entertainment, which offers apps for animated shows and novels, raised $930M from Saudi Arabia&#39;s PIF and Singapore&#39;s GIC &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p9#a230112p9)<!-- TECH:END -->
+ - [Bulgarian police say London-based crypto lender Nexo&#39;s office in Sofia was raided on Thursday, seeking information on suspected money laundering and tax crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p16#a230112p16)
+ - [BeOS lives on, in the new Haiku OS Beta 4](https://appleinsider.com/articles/23/01/12/beos-lives-on-in-the-new-haiku-os-beta-4?utm_medium=rss)
+ - [Waterfield iPhone Pouch review: unassuming functionality](https://appleinsider.com/articles/23/01/12/waterfield-iphone-pouch-review-unassuming-functionality?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
