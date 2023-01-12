@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mother i must feed](http://9gag.com/gag/a2KWDOp)
- - 🚯 [Wierd intro](http://9gag.com/gag/aVbwL0M)
- - 🚯 [Title](http://9gag.com/gag/abvGBQB)<!-- MEMES:END -->
+ - 🚖 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - 🚯 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)
+ - 🚯 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)<!-- MEMES:END -->
 
 --- 
 
