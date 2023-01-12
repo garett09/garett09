@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Simon Pegg is the Hogwarts headmaster in Hogwarts Legacy](https://www.pcgamer.com/simon-pegg-is-the-hogwarts-headmaster-in-hogwarts-legacy)
- - [Gifts Galore: Celebrating 12 Years of DC Universe Online](https://news.xbox.com/en-us/2023/01/12/gifts-galore-celebrating-12-years-of-dc-universe-online/)
- - [Prototypes for a Lenovo handheld gaming console show up on sale in China](https://www.pcgamer.com/prototypes-for-a-lenovo-handheld-gaming-console-show-up-on-sale-in-china)<!-- GAME:END -->
+ - [High On Life And Rick And Morty Creator Facing Domestic Violence Charges](https://kotaku.com/justin-roiland-domestic-violence-rick-and-morty-high-on-1849981421)
+ - [PS5 Owners Are Worried About Standing The Console Vertically &lpar;They Shouldn&#39;t Be&rpar;](https://kotaku.com/ps5-playstation-5-repair-leak-vertical-liquid-youtube-1849981264)
+ - [Gaming YouTubers say their videos are being demonetized due to profanity policies](https://www.polygon.com/23549991/youtube-gaming-profanity-swearing-rtgame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
