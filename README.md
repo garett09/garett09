@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is 9gag getting worse by the day?](http://9gag.com/gag/aOx74wv)
- - 🚯 [50 year old Eminem nailing his Rap god live performance effortlessly](http://9gag.com/gag/a1PWEN2)
- - 🚯 [Dogs4lyfe123 Hotmail](http://9gag.com/gag/abvGQ8r)<!-- MEMES:END -->
+ - 🚖 [Corporate.Perspective.](http://9gag.com/gag/avQzdOq)
+ - 🚯 [Satan is calling God so that he can send him somewhere worse than hell](http://9gag.com/gag/aBdmOqP)
+ - 🚯 [Holup, did they say 10 year old ?](http://9gag.com/gag/axo9YP1)<!-- MEMES:END -->
 
 --- 
 
