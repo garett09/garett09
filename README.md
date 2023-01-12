@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)
- - 🚯 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)<!-- MEMES:END -->
+ - 🚖 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)
+ - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 🚯 [Adios](http://9gag.com/gag/aRE7Mjq)<!-- MEMES:END -->
 
 --- 
 
