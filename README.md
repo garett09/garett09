@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 🚯 [Epic anime fight.](http://9gag.com/gag/ap9GAn8)
- - 🚯 [Damn the flight to Australia was worth it. look what i saw](http://9gag.com/gag/a04NEWn)<!-- MEMES:END -->
+ - 🚯 [Steve carell being steve carell](http://9gag.com/gag/a6qKjQA)
+ - 🚯 [Live at work](http://9gag.com/gag/agoAEoq)<!-- MEMES:END -->
 
 --- 
 
