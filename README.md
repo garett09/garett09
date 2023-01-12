@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medium creates its own Mastodon instance, plans to offer it as a service for members, promises reliable moderation and smoother onboarding, and more &lpar;Tony Stubblebine/The Official Medium Blog&rpar;](http://www.techmeme.com/230112/p27#a230112p27)
- - [ExxonMobil accurately predicted climate change while publicly dismissing it](https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate)
- - [T-Mobile allegedly wants to buy Mint Mobile, the carrier owned by Ryan Reynolds](https://www.androidauthority.com/t-mobile-mint-mobile-3265992/)<!-- TECH:END -->
+ - [Sources: low-code app development tools maker OutSystems raised $228.4M in October 2022 at a $4.3B valuation, 55% lower than the $9.5B valuation from Feb. 2021 &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230112/p28#a230112p28)
+ - [New OtterBox iPhone 14 cases celebrate Chinese New Year](https://appleinsider.com/articles/23/01/12/new-otterbox-iphone-14-cases-celebrate-chinese-new-year?utm_medium=rss)
+ - [Cybercriminals shall not pass: how to protect your Macs and yourself from the most popular cyber threats](https://appleinsider.com/articles/23/01/12/cybercriminals-shall-not-pass-how-to-protect-your-macs-and-yourself-from-the-most-popular-cyber-threats?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
