@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
- - 🚯 [Time to dance!](http://9gag.com/gag/ay2evNq)
- - 🚯 [Laugh before getting scratched](http://9gag.com/gag/a8qGVeQ)<!-- MEMES:END -->
+ - 🚖 [Bruh is a fckng 8... Lol](http://9gag.com/gag/adPVe0M)
+ - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)
+ - 🚯 [Adios](http://9gag.com/gag/aRE7Mjq)<!-- MEMES:END -->
 
 --- 
 
