@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Buy Used on eBay &lpar;2023&rpar;: A Beginner&#39;s Guide](https://www.wired.com/story/how-to-buy-used-on-ebay/)
- - [Why the Search for Life in Space Starts With Ancient Earth](https://www.wired.com/story/why-the-search-for-life-in-space-starts-with-ancient-earth/)
- - [Apple says it is committed to book narrators, expands AI reading anyway](https://appleinsider.com/articles/23/01/13/apple-says-it-is-committed-to-book-narrators-expands-ai-reading-anyway?utm_medium=rss)<!-- TECH:END -->
+ - [AI Isn’t Hollywood’s Villain—It’s a Flawed Hero](https://www.wired.com/story/artificial-intelligence-film/)
+ - [The TikTok That Will Be the Great Unsolved Mystery of This Era](https://www.wired.com/story/internet-mystery-26-year-old-nursing-assistant/)
+ - [9 Best USB Flash Drives &lpar;2023&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
