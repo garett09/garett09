@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need a spin-off&#39;s of these characters lives. Gigitty](http://9gag.com/gag/aMExWPG)
- - 🚯 [The quality control was so good they forgot to finish the video](http://9gag.com/gag/agoAZm1)
- - 🚯 [Like trying to plant an unstable anti-personnel mine...](http://9gag.com/gag/aNwgq7G)<!-- MEMES:END -->
+ - 🚖 [I wish to see some reaction memes about this in the comments.](http://9gag.com/gag/a6qKGVq)
+ - 🚯 [The future of television is here](http://9gag.com/gag/a1PWVGb)
+ - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)<!-- MEMES:END -->
 
 --- 
 
