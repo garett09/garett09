@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Not this again....](http://9gag.com/gag/abvGEME)
- - 🚯 [I love Wizards](http://9gag.com/gag/a04Nwyd)
+ - 🚯 [Silly wet little guy](http://9gag.com/gag/adPVdqN)
  - 🚯 [Never thought I&#39;d buy a game side by side with a pirate. How about side by side with a friend?](http://9gag.com/gag/adPVdQd)<!-- MEMES:END -->
 
 --- 
