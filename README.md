@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The future of television is here](http://9gag.com/gag/a1PWVGb)
- - 🚯 [Those damn ITALIANS again!](http://9gag.com/gag/a4o3VZZ)
- - 🚯 [What&#39;s a CD Drive](http://9gag.com/gag/aRE7DPA)<!-- MEMES:END -->
+ - 🚖 [Can I get some sauce?](http://9gag.com/gag/amAvnr9)
+ - 🚯 [A hole.](http://9gag.com/gag/aGEdb0X)
+ - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)<!-- MEMES:END -->
 
 --- 
 
