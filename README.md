@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some users of AI companion chatbot Replika, which offers a $70 romantic Pro version, say the free &quot;friend&quot; version is getting more sexually aggressive &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230113/p3#a230113p3)
- - [Banning ChatGPT in schools will be hard, so teachers should treat ChatGPT like a calculator: assume students are using it unless they are physically supervised &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230113/p2#a230113p2)
- - [5 Super-Simple Ways to Improve Your Next Target Trip and Save Some Cash     - CNET](https://www.cnet.com/deals/5-super-simple-ways-to-improve-your-target-shopping-trip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook salary to drop 40%, at his request](https://appleinsider.com/articles/23/01/13/tim-cook-salary-to-drop-40-at-his-request?utm_medium=rss)
+ - [Daily Authority: 📺 New Chromecast with Google TV incoming](https://www.androidauthority.com/daily-authority-january-13-2023-3266324/)
+ - [Twitter users say Tweetbot, Twitterrific, and other third-party apps are broken, possibly due to Twitter&#39;s API being down; Twitter has offered no explanation &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230113/p5#a230113p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
