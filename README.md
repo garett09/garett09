@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
- - 🚯 [Sleepy catto vs Spidey](http://9gag.com/gag/a5XWD0E)
- - 🚯 [....](http://9gag.com/gag/aVbwdwn)<!-- MEMES:END -->
+ - 🚖 [Not this again....](http://9gag.com/gag/abvGEME)
+ - 🚯 [I love Wizards](http://9gag.com/gag/a04Nwyd)
+ - 🚯 [Never thought I&#39;d buy a game side by side with a pirate. How about side by side with a friend?](http://9gag.com/gag/adPVdQd)<!-- MEMES:END -->
 
 --- 
 
