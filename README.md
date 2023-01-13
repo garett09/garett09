@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bruh is a fckng 8... Lol](http://9gag.com/gag/adPVe0M)
- - 🚯 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)
- - 🚯 [Adios](http://9gag.com/gag/aRE7Mjq)<!-- MEMES:END -->
+ - 🚖 [The future of television is here](http://9gag.com/gag/a1PWVGb)
+ - 🚯 [Top gear memes are the best](http://9gag.com/gag/aEqPZmN)
+ - 🚯 [Ba dum tsss](http://9gag.com/gag/aKE7pB6)<!-- MEMES:END -->
 
 --- 
 
