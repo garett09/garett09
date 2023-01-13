@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheese](http://9gag.com/gag/aBdmobQ)
- - 🚯 [Can I get some sauce?](http://9gag.com/gag/amAvnr9)
- - 🚯 [Finally, equality](http://9gag.com/gag/aA0emBp)<!-- MEMES:END -->
+ - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
+ - 🚯 [Sleepy catto vs Spidey](http://9gag.com/gag/a5XWD0E)
+ - 🚯 [....](http://9gag.com/gag/aVbwdwn)<!-- MEMES:END -->
 
 --- 
 
