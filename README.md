@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook salary to drop 40%, at his request](https://appleinsider.com/articles/23/01/13/tim-cook-salary-to-drop-40-at-his-request?utm_medium=rss)
- - [Daily Authority: 📺 New Chromecast with Google TV incoming](https://www.androidauthority.com/daily-authority-january-13-2023-3266324/)
- - [Twitter users say Tweetbot, Twitterrific, and other third-party apps are broken, possibly due to Twitter&#39;s API being down; Twitter has offered no explanation &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230113/p5#a230113p5)<!-- TECH:END -->
+ - [Singapore- and NY-based Holmusk, which offers real-world clinical data and analytics for the behavioral health industry, raised a $45M Series B led by Veradigm &lpar;Rachel Chitra/DealStreetAsia&rpar;](http://www.techmeme.com/230113/p7#a230113p7)
+ - [Think Twice Before Buying a New Samsung Galaxy S22 Right Now     - CNET](https://www.cnet.com/tech/mobile/think-twice-before-buying-a-new-samsung-galaxy-s22-right-now/#ftag=CAD590a51e)
+ - [Best Chromebook 2023: 8 Options to Fit Any Budget     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
