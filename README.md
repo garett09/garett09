@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore- and NY-based Holmusk, which offers real-world clinical data and analytics for the behavioral health industry, raised a $45M Series B led by Veradigm &lpar;Rachel Chitra/DealStreetAsia&rpar;](http://www.techmeme.com/230113/p7#a230113p7)
- - [Think Twice Before Buying a New Samsung Galaxy S22 Right Now     - CNET](https://www.cnet.com/tech/mobile/think-twice-before-buying-a-new-samsung-galaxy-s22-right-now/#ftag=CAD590a51e)
- - [Best Chromebook 2023: 8 Options to Fit Any Budget     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Buy Used on eBay &lpar;2023&rpar;: A Beginner&#39;s Guide](https://www.wired.com/story/how-to-buy-used-on-ebay/)
+ - [Why the Search for Life in Space Starts With Ancient Earth](https://www.wired.com/story/why-the-search-for-life-in-space-starts-with-ancient-earth/)
+ - [Apple says it is committed to book narrators, expands AI reading anyway](https://appleinsider.com/articles/23/01/13/apple-says-it-is-committed-to-book-narrators-expands-ai-reading-anyway?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
