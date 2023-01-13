@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Stuck on the Apple Logo? 5 Effective Methods Are Here](https://appleinsider.com/articles/23/01/13/iphone-stuck-on-the-apple-logo-5-effective-methods-are-here?utm_medium=rss)
- - [NSA Director Paul Nakasone urges Congress to renew the FISA&#39;s Section 702, set to expire in 2023, saying the surveillance law protects the US from cyberattacks &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230112/p41#a230112p41)
- - [Sources: the Cyberspace Administration of China acquired a 1% stake, or &quot;golden shares&quot;, in an Alibaba subsidiary, and plans to do the same for a Tencent unit &lpar;Financial Times&rpar;](http://www.techmeme.com/230112/p40#a230112p40)<!-- TECH:END -->
+ - [Crypto.com lays off about 20% of its global workforce citing the crypto downturn and the FTX implosion as reasons &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230113/p1#a230113p1)
+ - [A new Chromecast with Google TV is in the pipeline](https://www.androidauthority.com/new-chromecast-with-google-tv-2023-3266266/)
+ - [iPhone Stuck on the Apple Logo? 5 Effective Methods Are Here](https://appleinsider.com/articles/23/01/13/iphone-stuck-on-the-apple-logo-5-effective-methods-are-here?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
