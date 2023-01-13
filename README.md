@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Isn’t Hollywood’s Villain—It’s a Flawed Hero](https://www.wired.com/story/artificial-intelligence-film/)
- - [The TikTok That Will Be the Great Unsolved Mystery of This Era](https://www.wired.com/story/internet-mystery-26-year-old-nursing-assistant/)
- - [9 Best USB Flash Drives &lpar;2023&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 MacBook Air with 16GB RAM for $1,099 for a limited time](https://appleinsider.com/articles/23/01/13/get-apples-m1-macbook-air-with-16gb-ram-for-1099-for-a-limited-time?utm_medium=rss)
+ - [Apollo Neuro review: a case study in the wellness Wild West](https://www.theverge.com/23552577/apollo-neuro-review-stress-wearable)
+ - [Working Through It](https://www.theverge.com/c/23546117/ukraine-tech-workers-russia-war)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
