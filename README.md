@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - 🚯 [An off-duty mime hits the gym.](http://9gag.com/gag/a4o3w4Z)
- - 🚯 [Not sure if gusta](http://9gag.com/gag/a5XW51V)<!-- MEMES:END -->
+ - 🚖 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 🚯 [The greatest of all time](http://9gag.com/gag/a2KWOWd)
+ - 🚯 [*screeching intensifies*](http://9gag.com/gag/aqenDGZ)<!-- MEMES:END -->
 
 --- 
 
