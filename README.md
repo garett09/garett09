@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D maker backs off new licensing rules that led to fan revolt](https://www.polygon.com/23553669/dungeons-dragons-dnd-ogl-wizards-of-the-coast-licensing)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Share of the Week: Unlucky](https://blog.playstation.com/2023/01/13/share-of-the-week-unlucky/)<!-- GAME:END -->
+ - [Biggest leak in Valve&#39;s history includes pretty much everything from Portal, TF2, and Half-Life 2](https://www.pcgamer.com/biggest-leak-in-valves-history-includes-pretty-much-everything-from-portal-tf2-and-half-life-2)
+ - [The Dream Of DRM-Free Steam PC Games Is Fading Away](https://kotaku.com/gog-connect-cd-projekt-valve-steam-pc-gaming-drm-1849985921)
+ - [Pokémon Scarlet and Violet’s legendaries look amazing in TCG expansion](https://www.polygon.com/23553597/pokemon-tcg-scarlet-violet-koraidon-miraidon-trading-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
