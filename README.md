@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google argues that gutting Section 230 would &quot;upend the internet&quot; in a brief filed with the US Supreme Court ahead of a YouTube case involving terrorist content &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230112/p34#a230112p34)
- - [SEC proxy filing: Apple plans to reduce Tim Cook&#39;s compensation by 40%+ to $49M in 2023, from $99.4M in 2022, citing investor guidance and a request from Cook &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230112/p33#a230112p33)
- - [CNET Is Experimenting With an AI Assist. Here&#39;s Why     - CNET](https://www.cnet.com/tech/cnet-is-experimenting-with-an-ai-assist-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: in 2022, illicit crypto transaction volume rose to an all-time high of $20.1B, of which 44% came from activity associated with sanctioned entities &lpar;Chainalysis&rpar;](http://www.techmeme.com/230112/p35#a230112p35)
+ - [Apple CEO Tim Cook Could Take 40% Pay Cut in 2023     - CNET](https://www.cnet.com/tech/apple-ceo-tim-cook-could-take-40-pay-cut-in-2023/#ftag=CAD590a51e)
+ - [Google argues that gutting Section 230 would &quot;upend the internet&quot; in a brief filed with the US Supreme Court ahead of a YouTube case involving terrorist content &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230112/p34#a230112p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
