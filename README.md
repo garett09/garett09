@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s M1 MacBook Air with 16GB RAM for $1,099 for a limited time](https://appleinsider.com/articles/23/01/13/get-apples-m1-macbook-air-with-16gb-ram-for-1099-for-a-limited-time?utm_medium=rss)
- - [Apollo Neuro review: a case study in the wellness Wild West](https://www.theverge.com/23552577/apollo-neuro-review-stress-wearable)
- - [Working Through It](https://www.theverge.com/c/23546117/ukraine-tech-workers-russia-war)<!-- TECH:END -->
+ - [MoviePass returns, backed by cryptocurrency firm](https://appleinsider.com/articles/23/01/13/moviepass-returns-backed-by-cryptocurrency-firm?utm_medium=rss)
+ - [Apple Music chief Oliver Schusser will help lead Apple TV+](https://appleinsider.com/articles/23/01/13/apple-music-chief-oliver-schusser-will-help-lead-apple-tv?utm_medium=rss)
+ - [Get Apple&#39;s M1 MacBook Air with 16GB RAM for $1,099 for a limited time](https://appleinsider.com/articles/23/01/13/get-apples-m1-macbook-air-with-16gb-ram-for-1099-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
