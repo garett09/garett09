@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
- - 🚯 [I love Wizards](http://9gag.com/gag/a04Nwyd)
+ - 🚖 [Cheese](http://9gag.com/gag/aBdmobQ)
+ - 🚯 [Can I get some sauce?](http://9gag.com/gag/amAvnr9)
  - 🚯 [Finally, equality](http://9gag.com/gag/aA0emBp)<!-- MEMES:END -->
 
 --- 
