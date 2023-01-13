@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a new hub of free, ad-supported streaming channels as it looks to compete with Roku, Paramount&#39;s Pluto TV, and Fox&#39;s Tubi &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230113/p12#a230113p12)
- - [YouTube creators are ducking outraged by its swearing policy](https://www.theverge.com/2023/1/13/23553746/youtube-swearing-advertising-policy-change)
- - [Samsung Galaxy S23 Ultra and Plus images leak ahead of the February 1st launch event](https://www.theverge.com/2023/1/13/23553571/samsung-galaxy-s23-ultra-plus)<!-- TECH:END -->
+ - [Sources: Goldman Sachs&#39; Platform Solutions lost ~$2B in 2022, mostly due to the Apple Card and Goldman&#39;s installment-lending platform GreenSky &lpar;Sridhar Natarajan/Bloomberg&rpar;](http://www.techmeme.com/230113/p14#a230113p14)
+ - [Check your LG TV, as it may have just been recalled for a safety risk](https://www.androidauthority.com/lg-tv-recall-3266506/)
+ - [After criticism, YouTube plans to change a policy announced in November that limits ads or demonetizes a creator&#39;s video if they swear in the first 15 seconds &lpar;The Verge&rpar;](http://www.techmeme.com/230113/p13#a230113p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
