@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MoviePass returns, backed by cryptocurrency firm](https://appleinsider.com/articles/23/01/13/moviepass-returns-backed-by-cryptocurrency-firm?utm_medium=rss)
- - [Apple Music chief Oliver Schusser will help lead Apple TV+](https://appleinsider.com/articles/23/01/13/apple-music-chief-oliver-schusser-will-help-lead-apple-tv?utm_medium=rss)
- - [Get Apple&#39;s M1 MacBook Air with 16GB RAM for $1,099 for a limited time](https://appleinsider.com/articles/23/01/13/get-apples-m1-macbook-air-with-16gb-ram-for-1099-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
+ - [Goldman lost $1.2 billion in 2022 mostly because of Apple Card](https://appleinsider.com/articles/23/01/13/goldman-lost-12-billion-in-2022-mostly-because-of-apple-card?utm_medium=rss)
+ - [‘Immer, Zlaz’ Reveals the Private Life of a Sci-Fi Genius](https://www.wired.com/2023/01/geeks-guide-roger-zelazny-talk/)
+ - [Apple might use LG to produce micro LED Apple Watch displays](https://appleinsider.com/articles/23/01/13/apple-might-use-lg-to-produce-micro-led-apple-watch-displays?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
