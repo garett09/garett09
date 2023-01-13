@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yellowjackets season 2 trailer brings Elijah Wood and more bad vibes](https://www.polygon.com/23553596/yellowjackets-season-2-trailer-elijah-wood)
- - [Nvidia&#39;s latest AI lets you maintain uncanny valley levels of eye contact on camera](https://www.pcgamer.com/nvidia-broadcast-eye-contact-out-now)
- - [How The Last of Us became ‘the greatest story that has ever been told in video games’](https://www.polygon.com/gaming/23552202/last-of-us-greatest-video-game-status)<!-- GAME:END -->
+ - [D&amp;D maker backs off new licensing rules that led to fan revolt](https://www.polygon.com/23553669/dungeons-dragons-dnd-ogl-wizards-of-the-coast-licensing)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Share of the Week: Unlucky](https://blog.playstation.com/2023/01/13/share-of-the-week-unlucky/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
