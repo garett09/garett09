@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 🚯 [The greatest of all time](http://9gag.com/gag/a2KWOWd)
- - 🚯 [*screeching intensifies*](http://9gag.com/gag/aqenDGZ)<!-- MEMES:END -->
+ - 🚖 [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
+ - 🚯 [Time to dance!](http://9gag.com/gag/ay2evNq)
+ - 🚯 [Laugh before getting scratched](http://9gag.com/gag/a8qGVeQ)<!-- MEMES:END -->
 
 --- 
 
