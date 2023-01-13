@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish to see some reaction memes about this in the comments.](http://9gag.com/gag/a6qKGVq)
- - 🚯 [The future of television is here](http://9gag.com/gag/a1PWVGb)
- - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)<!-- MEMES:END -->
+ - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
+ - 🚯 [Map of European countries in which it is illegal to publicly display communist symbols.](http://9gag.com/gag/awZBGA8)
+ - 🚯 [German Defense Minister Christine Lambrecht announced her resignation a few minutes ago. Good news for Germany and the world. This is what happens when you try to run a ministry with incompetence.](http://9gag.com/gag/a8qGXP6)<!-- MEMES:END -->
 
 --- 
 
