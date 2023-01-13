@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 🚯 [Computer Skills - Level: Hollywood](http://9gag.com/gag/axo9Y5L)
- - 🚯 [Serbian police in cooperation with German police arrested entire company that was scaming people out of millions with fake cryptocurrency](http://9gag.com/gag/a9qnD7D)<!-- MEMES:END -->
+ - 🚖 [Hmmmm](http://9gag.com/gag/armVqed)
+ - 🚯 [Tricked the trickster](http://9gag.com/gag/aDY4Q1w)
+ - 🚯 [Jennifer Connelly aged like fine wine](http://9gag.com/gag/aVbwRWM)<!-- MEMES:END -->
 
 --- 
 
