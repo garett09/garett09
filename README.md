@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Justin Roiland’s High On Life Studio Was Previously Sued For Sexual Harassment](https://kotaku.com/high-life-justin-roiland-squanch-sexual-harassment-xbox-1849986831)
- - [New League of Legends action game leaks from Riot Forge](https://www.polygon.com/23553927/league-of-legends-mageseeker-sylas-demacia-riot-forge-game-leak)
- - [Vinland Saga Season 2’s Farming Arc Is Planting Seeds For A Phenomenal Payoff](https://kotaku.com/vinland-saga-season-2-anime-mappa-netflix-crunchyroll-1849985803)<!-- GAME:END -->
+ - [This Week on Xbox: Upcoming Games, Updates, and Events](https://news.xbox.com/en-us/2023/01/13/this-week-on-xbox-upcoming-games-updates-and-events/)
+ - [Fortnite’s new skin has JoJo’s Bizarre Adventure fans feeling so much](https://www.polygon.com/23553901/fornite-new-skin-jojos-bizarre-adventure-jolyne)
+ - [Halo Infinite Devs Use Fan&#39;s Pokémon Map To Help With Game&#39;s Aiming Issues](https://kotaku.com/halo-infinite-xbox-pokemon-forge-diglett-343-industries-1849986942)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
