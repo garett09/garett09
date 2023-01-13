@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman lost $1.2 billion in 2022 mostly because of Apple Card](https://appleinsider.com/articles/23/01/13/goldman-lost-12-billion-in-2022-mostly-because-of-apple-card?utm_medium=rss)
- - [‘Immer, Zlaz’ Reveals the Private Life of a Sci-Fi Genius](https://www.wired.com/2023/01/geeks-guide-roger-zelazny-talk/)
- - [Apple might use LG to produce micro LED Apple Watch displays](https://appleinsider.com/articles/23/01/13/apple-might-use-lg-to-produce-micro-led-apple-watch-displays?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube is testing a new hub of free, ad-supported streaming channels as it looks to compete with Roku, Paramount&#39;s Pluto TV, and Fox&#39;s Tubi &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230113/p12#a230113p12)
+ - [YouTube creators are ducking outraged by its swearing policy](https://www.theverge.com/2023/1/13/23553746/youtube-swearing-advertising-policy-change)
+ - [Samsung Galaxy S23 Ultra and Plus images leak ahead of the February 1st launch event](https://www.theverge.com/2023/1/13/23553571/samsung-galaxy-s23-ultra-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
