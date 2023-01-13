@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not this again....](http://9gag.com/gag/abvGEME)
- - 🚯 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)
- - 🚯 [Come here, you see... it&#39;s empty](http://9gag.com/gag/ajV9dbG)<!-- MEMES:END -->
+ - 🚖 [Hmmmm](http://9gag.com/gag/armVqed)
+ - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 🚯 [The future of television is here](http://9gag.com/gag/a1PWVGb)<!-- MEMES:END -->
 
 --- 
 
