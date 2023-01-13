@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paizo commits to legal battle against Wizards over the future of Pathfinder and D&amp;D](https://www.polygon.com/23553389/dnd-ogl-paizo-orc-open-rpg-creative-license-announcement)
- - [Fortnite disables hurdling after it keeps launching players into the stratosphere](https://www.pcgamer.com/fortnite-disables-hurdling-after-it-keeps-launching-players-into-the-stratosphere)
- - [Ubisoft CEO tells staff the ball is in their court to turn the company around](https://www.pcgamer.com/ubisoft-ceo-tells-staff-the-ball-is-in-their-court-to-turn-the-company-around)<!-- GAME:END -->
+ - [How The Last of Us became ‘the greatest story that has ever been told in video games’](https://www.polygon.com/gaming/23552202/last-of-us-greatest-video-game-status)
+ - [Next Week on Xbox: New Games for January 16 to 20](https://news.xbox.com/en-us/2023/01/13/next-week-on-xbox-new-games-for-january-16-to-20/)
+ - [Ubisoft&#39;s Never-ending Skull And Bones Delays: The Complete, Decade-Long Saga](https://kotaku.com/ubisoft-assassins-creed-skull-and-bones-pirate-delays-1849982468)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
