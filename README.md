@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Can I get some sauce?](http://9gag.com/gag/amAvnr9)
- - 🚯 [A hole.](http://9gag.com/gag/aGEdb0X)
- - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)<!-- MEMES:END -->
+ - 🚯 [Izzit..?](http://9gag.com/gag/amAvngj)
+ - 🚯 [Completely normal reaction](http://9gag.com/gag/a6qK83N)<!-- MEMES:END -->
 
 --- 
 
