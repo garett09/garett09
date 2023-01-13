@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Last of Us became ‘the greatest story that has ever been told in video games’](https://www.polygon.com/gaming/23552202/last-of-us-greatest-video-game-status)
- - [Next Week on Xbox: New Games for January 16 to 20](https://news.xbox.com/en-us/2023/01/13/next-week-on-xbox-new-games-for-january-16-to-20/)
- - [Ubisoft&#39;s Never-ending Skull And Bones Delays: The Complete, Decade-Long Saga](https://kotaku.com/ubisoft-assassins-creed-skull-and-bones-pirate-delays-1849982468)<!-- GAME:END -->
+ - [Yellowjackets season 2 trailer brings Elijah Wood and more bad vibes](https://www.polygon.com/23553596/yellowjackets-season-2-trailer-elijah-wood)
+ - [Nvidia&#39;s latest AI lets you maintain uncanny valley levels of eye contact on camera](https://www.pcgamer.com/nvidia-broadcast-eye-contact-out-now)
+ - [How The Last of Us became ‘the greatest story that has ever been told in video games’](https://www.polygon.com/gaming/23552202/last-of-us-greatest-video-game-status)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
