@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Assassin&#39;s Creed Mirage will be smaller because Ubisoft knows big games are getting tiresome](https://www.pcgamer.com/assassins-creed-mirage-will-be-smaller-because-ubisoft-knows-big-games-are-getting-tiresome)
  - [Today&#39;s Wordle 573 answer and hint for Friday, January 13](https://www.pcgamer.com/wordle-573-answer-january-13)
- - [So far, HBO&#39;s The Last of Us is a surprisingly simple adaptation](https://www.pcgamer.com/so-far-hbos-the-last-of-us-is-a-surprisingly-simple-adaptation)
- - [Pokémon Scarlet and Violet Cinderace 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23539007/cinderace-7-star-tera-raid-counters-builds-slowbro-espathra)<!-- GAME:END -->
+ - [So far, HBO&#39;s The Last of Us is a surprisingly simple adaptation](https://www.pcgamer.com/so-far-hbos-the-last-of-us-is-a-surprisingly-simple-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
