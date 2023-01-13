@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Not this again....](http://9gag.com/gag/abvGEME)
- - 🚯 [Silly wet little guy](http://9gag.com/gag/adPVdqN)
- - 🚯 [Never thought I&#39;d buy a game side by side with a pirate. How about side by side with a friend?](http://9gag.com/gag/adPVdQd)<!-- MEMES:END -->
+ - 🚯 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)
+ - 🚯 [Come here, you see... it&#39;s empty](http://9gag.com/gag/ajV9dbG)<!-- MEMES:END -->
 
 --- 
 
