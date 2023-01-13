@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strong Bad’s back with a video tribute to Homestar Runner’s Trogdor](https://www.polygon.com/23553742/homestar-runner-trogdor-20-years-peasant-quest-video)
- - [Call of Duty: Modern Warfare 2’s DMZ mode is &lpar;almost&rpar; too good to be free](https://www.polygon.com/23551852/call-of-duty-modern-warfare-2-dmz-warzone-2-0-mode-open-world)
- - [When M3GAN will be streaming, based on what we know](https://www.polygon.com/23553823/m3gan-streaming-date-when-vod-peacock-prime-video)<!-- GAME:END -->
+ - [Justin Roiland’s High On Life Studio Was Previously Sued For Sexual Harassment](https://kotaku.com/high-life-justin-roiland-squanch-sexual-harassment-xbox-1849986831)
+ - [New League of Legends action game leaks from Riot Forge](https://www.polygon.com/23553927/league-of-legends-mageseeker-sylas-demacia-riot-forge-game-leak)
+ - [Vinland Saga Season 2’s Farming Arc Is Planting Seeds For A Phenomenal Payoff](https://kotaku.com/vinland-saga-season-2-anime-mappa-netflix-crunchyroll-1849985803)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
