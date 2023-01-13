@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People doing things with their hands](http://9gag.com/gag/aZDyzZ9)
- - 🚯 [Most Honest Shark Tank Pitch Ever](http://9gag.com/gag/aZDyvPn)
- - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
+ - 🚖 [The future of television is here](http://9gag.com/gag/a1PWVGb)
+ - 🚯 [Those damn ITALIANS again!](http://9gag.com/gag/a4o3VZZ)
+ - 🚯 [What&#39;s a CD Drive](http://9gag.com/gag/aRE7DPA)<!-- MEMES:END -->
 
 --- 
 
