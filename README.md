@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Upcoming Games, Updates, and Events](https://news.xbox.com/en-us/2023/01/13/this-week-on-xbox-upcoming-games-updates-and-events/)
- - [Fortnite’s new skin has JoJo’s Bizarre Adventure fans feeling so much](https://www.polygon.com/23553901/fornite-new-skin-jojos-bizarre-adventure-jolyne)
- - [Halo Infinite Devs Use Fan&#39;s Pokémon Map To Help With Game&#39;s Aiming Issues](https://kotaku.com/halo-infinite-xbox-pokemon-forge-diglett-343-industries-1849986942)<!-- GAME:END -->
+ - [The Official Pokémon TikTok Accidentally Makes Pikachu A Potty Mouth](https://kotaku.com/pokemon-tiktok-pikachu-clap-your-motherfucking-hands-1849987598)
+ - [GTA 6’s Leak Showed Us The Future, Now It’s Hard To Care About GTA Online](https://kotaku.com/gta-6-leak-gameplay-gta-online-old-rockstar-new-update-1849987014)
+ - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
