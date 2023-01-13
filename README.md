@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Biggest leak in Valve&#39;s history includes pretty much everything from Portal, TF2, and Half-Life 2](https://www.pcgamer.com/biggest-leak-in-valves-history-includes-pretty-much-everything-from-portal-tf2-and-half-life-2)
- - [The Dream Of DRM-Free Steam PC Games Is Fading Away](https://kotaku.com/gog-connect-cd-projekt-valve-steam-pc-gaming-drm-1849985921)
- - [Pokémon Scarlet and Violet’s legendaries look amazing in TCG expansion](https://www.polygon.com/23553597/pokemon-tcg-scarlet-violet-koraidon-miraidon-trading-card-game)<!-- GAME:END -->
+ - [Strong Bad’s back with a video tribute to Homestar Runner’s Trogdor](https://www.polygon.com/23553742/homestar-runner-trogdor-20-years-peasant-quest-video)
+ - [Call of Duty: Modern Warfare 2’s DMZ mode is &lpar;almost&rpar; too good to be free](https://www.polygon.com/23551852/call-of-duty-modern-warfare-2-dmz-warzone-2-0-mode-open-world)
+ - [When M3GAN will be streaming, based on what we know](https://www.polygon.com/23553823/m3gan-streaming-date-when-vod-peacock-prime-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
