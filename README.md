@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft CEO tells staff the ball is in their court to turn the company around](https://www.pcgamer.com/ubisoft-ceo-tells-staff-the-ball-is-in-their-court-to-turn-the-company-around)
- - [Assassin&#39;s Creed Mirage will be smaller because Ubisoft knows big games are getting tiresome](https://www.pcgamer.com/assassins-creed-mirage-will-be-smaller-because-ubisoft-knows-big-games-are-getting-tiresome)
- - [Today&#39;s Wordle 573 answer and hint for Friday, January 13](https://www.pcgamer.com/wordle-573-answer-january-13)<!-- GAME:END -->
+ - [Paizo commits to legal battle against Wizards over the future of Pathfinder and D&amp;D](https://www.polygon.com/23553389/dnd-ogl-paizo-orc-open-rpg-creative-license-announcement)
+ - [Fortnite disables hurdling after it keeps launching players into the stratosphere](https://www.pcgamer.com/fortnite-disables-hurdling-after-it-keeps-launching-players-into-the-stratosphere)
+ - [Ubisoft CEO tells staff the ball is in their court to turn the company around](https://www.pcgamer.com/ubisoft-ceo-tells-staff-the-ball-is-in-their-court-to-turn-the-company-around)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
