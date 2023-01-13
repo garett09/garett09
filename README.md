@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - 🚯 [Top gear memes are the best](http://9gag.com/gag/aEqPZmN)
- - 🚯 [9 Year Old Maryland Girl Finds 15 million Year Old Megalodon Tooth in the Chesapeake Bay](http://9gag.com/gag/az2mQLq)<!-- MEMES:END -->
+ - 🚖 [People doing things with their hands](http://9gag.com/gag/aZDyzZ9)
+ - 🚯 [Most Honest Shark Tank Pitch Ever](http://9gag.com/gag/aZDyvPn)
+ - 🚯 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
 
 --- 
 
