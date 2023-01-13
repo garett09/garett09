@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmmm](http://9gag.com/gag/armVqed)
- - 🚯 [Tricked the trickster](http://9gag.com/gag/aDY4Q1w)
- - 🚯 [Jennifer Connelly aged like fine wine](http://9gag.com/gag/aVbwRWM)<!-- MEMES:END -->
+ - 🚖 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - 🚯 [An off-duty mime hits the gym.](http://9gag.com/gag/a4o3w4Z)
+ - 🚯 [Not sure if gusta](http://9gag.com/gag/a5XW51V)<!-- MEMES:END -->
 
 --- 
 
