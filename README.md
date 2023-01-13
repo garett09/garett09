@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corporate.Perspective.](http://9gag.com/gag/avQzdOq)
- - 🚯 [Satan is calling God so that he can send him somewhere worse than hell](http://9gag.com/gag/aBdmOqP)
- - 🚯 [Holup, did they say 10 year old ?](http://9gag.com/gag/axo9YP1)<!-- MEMES:END -->
+ - 🚖 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 🚯 [Computer Skills - Level: Hollywood](http://9gag.com/gag/axo9Y5L)
+ - 🚯 [Serbian police in cooperation with German police arrested entire company that was scaming people out of millions with fake cryptocurrency](http://9gag.com/gag/a9qnD7D)<!-- MEMES:END -->
 
 --- 
 
