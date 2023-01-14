@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Muse S is intriguing, but I prefer my sleep tracking at arms length](https://www.androidauthority.com/muse-s-review-3262849/)
  - [The best equipment and technology for runners in 2023](https://appleinsider.com/articles/23/01/14/the-best-equipment-and-technology-for-runners-in-2023?utm_medium=rss)
- - [How Elon Musk&#39;s Twitter moderation cuts boosted hate speech outside the US and Canada, where 75%+ of the service&#39;s 280M DAUs live, including in Japan and India &lpar;Washington Post&rpar;](http://www.techmeme.com/230114/p10#a230114p10)
- - [Apple&#39;s Services penetration isn&#39;t high despite years of growth](https://appleinsider.com/articles/23/01/14/apples-services-penetration-isnt-high-despite-years-of-growth?utm_medium=rss)<!-- TECH:END -->
+ - [The 6 Most Important Tech Trends We Saw at CES 2023     - CNET](https://www.cnet.com/tech/the-6-most-important-tech-trends-we-saw-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
