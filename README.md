@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-467-3265883/)
- - [Hands on with all the best HomeKit gear announced so far this year](https://appleinsider.com/articles/23/01/14/hands-on-with-all-the-best-homekit-gear-announced-so-far-this-year?utm_medium=rss)
- - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Republican lawmakers push for crypto regulation with new panel](https://www.theverge.com/2023/1/14/23554905/republicans-crypto-regulation-panel-politics)
+ - [Customs data shows China&#39;s chip imports fell 15% in 2022 to 538.4B units, the first annual drop since at least 2004; imports grew 17% in 2021 and 22% in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230114/p9#a230114p9)
+ - [Harber London Commuter Backpack review: Fashion meets tech](https://appleinsider.com/articles/23/01/14/harber-london-commuter-backpack-review-fashion-meets-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
