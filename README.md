@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How All-In, a podcast moderated by Jason Calacanis and his billionaire pals that often tops tech-podcast charts, gives an insight into Twitter under Elon Musk &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/230114/p5#a230114p5)
- - [Hackers are exploiting a critical remote code execution vulnerability in unpatched versions of the Control Web Panel, a widely used interface for web hosting &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230114/p4#a230114p4)
- - [Emails show Twitter is offering free ad space by matching ad spending up to $250K; all ads must run by February 28, a period that includes the Super Bowl &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230114/p3#a230114p3)<!-- TECH:END -->
+ - [The Weekly Authority: 📅 Galaxy Unpacked date confirmed](https://www.androidauthority.com/weekly-authority-january-14-2023-227-3265361/)
+ - [AI Is Taking On Ever-Larger Puzzles](https://www.wired.com/story/artificial-intelligence-puzzles/)
+ - [17 Best Deals: Headphones, Gaming Gear, and Switch Games](https://www.wired.com/story/weekend-deals-jan-14-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
