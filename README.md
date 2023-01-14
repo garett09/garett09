@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
- - 🚯 [Loving this new format](http://9gag.com/gag/aQEdBqe)
- - 🚯 [Cant f**kin find it with my sm0l nails](http://9gag.com/gag/ap9GzqD)<!-- MEMES:END -->
+ - 🚖 [High-Speed Trains hahahahaha](http://9gag.com/gag/aDY4Q7K)
+ - 🚯 [............i cant even](http://9gag.com/gag/aQEdBdW)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
 
 --- 
 
