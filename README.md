@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - 🚯 [Waka waka](http://9gag.com/gag/aqenpMZ)
- - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)<!-- MEMES:END -->
+ - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
+ - 🚯 [Wut ? you filming me bro.. not cool](http://9gag.com/gag/a6qKedm)
+ - 🚯 [Good memories](http://9gag.com/gag/aoKPGZA)<!-- MEMES:END -->
 
 --- 
 
