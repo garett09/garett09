@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lisa Marie Presley, Singer and Elvis Presley&#39;s Daughter, Dies at 54     - CNET](https://www.cnet.com/culture/entertainment/lisa-marie-presley-singer-and-elvis-presley-daughter-dies-at-54/#ftag=CAD590a51e)
- - [Lisa Marie Presley: Remembering the Gen X Kid Who Lost Her Dad     - CNET](https://www.cnet.com/culture/lisa-marie-presley-remembering-the-gen-x-kid-who-lost-her-dad/#ftag=CAD590a51e)
- - [Google Cloud introduces an AI tool designed to help retailers keep track of their inventory by analyzing imagery from retailers&#39; ceiling cameras, robots, more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230113/p18#a230113p18)<!-- TECH:END -->
+ - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Toyota took classic AE86s and filled them with batteries and hydrogen](https://www.theverge.com/2023/1/13/23554387/toyota-ae86-bev-h2-hydrogen-electric-concepts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
