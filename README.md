@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Muse S is intriguing, but I prefer my sleep tracking at arms length](https://www.androidauthority.com/muse-s-review-3262849/)
- - [What We Know About the iOS 16.3 Beta 2     - CNET](https://www.cnet.com/tech/services-and-software/what-we-know-about-the-ios-16-3-beta-2/#ftag=CAD590a51e)
- - [More People Need to Watch This Taut Netflix Survival Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-taut-netflix-survival-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Norton Password Manager hacked, warning users about breaches](https://appleinsider.com/articles/23/01/14/nortonlifelock-warns-of-password-manager-account-breaches?utm_medium=rss)
+ - [Oakywood Magsafe Collection Review: perfect for home office](https://appleinsider.com/articles/23/01/14/oakywood-magsafe-collection-review-perfect-for-home-office?utm_medium=rss)
+ - [These are real earrings — and also real earbuds](https://www.theverge.com/2023/1/14/23555210/nova-audio-earrings-earbuds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
