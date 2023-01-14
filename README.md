@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Is Reportedly Testing MacBooks With Touchscreens](https://www.wired.com/story/apple-tests-touchscreen-macbooks/)
- - [7 Best Chef’s Knives for Your Kitchen &lpar;2023&rpar;: Affordable, Japanese, Carbon Steel](https://www.wired.com/story/best-chef-knives/)
- - [Russian Ransomware Gang Attack Destabilizes UK Royal Mail](https://www.wired.com/story/royal-mail-ransomware-attack-security-roundup/)<!-- TECH:END -->
+ - [Is Oppo intentionally trying to ruin OnePlus?](https://www.androidauthority.com/oppo-ruin-oneplus-opinion-3260867/)
+ - [Daily deals Jan. 14: $100 off M1 MacBook Air, $100 off Dyson Cyclone V10, $250 off 65-inch Amazon Fire TV, more](https://appleinsider.com/articles/23/01/14/daily-deals-jan-14-100-off-m1-macbook-air-100-off-dyson-cyclone-v10-250-off-65-inch-amazon-fire-tv-more?utm_medium=rss)
+ - [Amazon is testing $12/year Prime Lite in India with free two-day delivery and ad-supported Prime Video in SD; Prime costs $18/year or $2.20/month in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230114/p7#a230114p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
