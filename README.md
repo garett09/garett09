@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need a spin-off&#39;s of these characters lives. Gigitty](http://9gag.com/gag/aMExWPG)
- - 🚯 [Harder Daddy](http://9gag.com/gag/adPVrND)
- - 🚯 [Completely Normal Phenomenon](http://9gag.com/gag/ajV9Gq8)<!-- MEMES:END -->
+ - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
+ - 🚯 [That&#39;s just wonderful.](http://9gag.com/gag/a8qGXnY)
+ - 🚯 [They also make dependable calculators unlike Pique](http://9gag.com/gag/a04NWgQ)<!-- MEMES:END -->
 
 --- 
 
