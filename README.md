@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ditching the Galaxy S24 Plus is the right move for Samsung](https://www.androidauthority.com/samsung-galaxy-s24-plus-2024-3265828/)
- - [Hands on with all the best HomeKit gear announced so far this year](https://appleinsider.com/articles/23/01/14/hands-on-with-all-the-best-homekit-gear-announced-so-far-this-year?utm_medium=rss)
- - [This Craftsman V20 5-Tool Combo Kit Is Down to Just $149     - CNET](https://www.cnet.com/deals/this-craftsman-v20-5-tool-combo-kit-is-down-to-just-149/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best equipment and technology for runners in 2023](https://appleinsider.com/articles/23/01/14/the-best-equipment-and-technology-for-runners-in-2023?utm_medium=rss)
+ - [How Elon Musk&#39;s Twitter moderation cuts boosted hate speech outside the US and Canada, where 75%+ of the service&#39;s 280M DAUs live, including in Japan and India &lpar;Washington Post&rpar;](http://www.techmeme.com/230114/p10#a230114p10)
+ - [Apple&#39;s Services penetration isn&#39;t high despite years of growth](https://appleinsider.com/articles/23/01/14/apples-services-penetration-isnt-high-despite-years-of-growth?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
