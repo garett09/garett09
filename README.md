@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
- - 🚯 [They also make dependable calculators unlike Pique](http://9gag.com/gag/a04NWgQ)
- - 🚯 [That&#39;s just wonderful.](http://9gag.com/gag/a8qGXnY)<!-- MEMES:END -->
+ - 🚯 [Behold! The invention we have all been waiting for](http://9gag.com/gag/aYVynZN)
+ - 🚯 [They also make dependable calculators unlike Pique](http://9gag.com/gag/a04NWgQ)<!-- MEMES:END -->
 
 --- 
 
