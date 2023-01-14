@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
- - 🚯 [Show me the best middle finger gif](http://9gag.com/gag/aA0eNZp)
- - 🚯 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)<!-- MEMES:END -->
+ - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
+ - 🚯 [Forgotten legend](http://9gag.com/gag/a8qGnxQ)
+ - 🚯 [That&#39;s just wonderful.](http://9gag.com/gag/a8qGXnY)<!-- MEMES:END -->
 
 --- 
 
