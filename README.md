@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not this again....](http://9gag.com/gag/abvGEME)
- - 🚯 [Waka waka](http://9gag.com/gag/aqenpMZ)
- - 🚯 [Men&#39;s room?](http://9gag.com/gag/aRE7yXy)<!-- MEMES:END -->
+ - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
+ - 🚯 [Show me the best middle finger gif](http://9gag.com/gag/aA0eNZp)
+ - 🚯 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)<!-- MEMES:END -->
 
 --- 
 
