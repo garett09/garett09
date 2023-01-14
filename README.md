@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Toyota took classic AE86s and filled them with batteries and hydrogen](https://www.theverge.com/2023/1/13/23554387/toyota-ae86-bev-h2-hydrogen-electric-concepts)<!-- TECH:END -->
+ - [A San Francisco federal judge rules that the laid-off Twitter workers must pursue severance claims in individual arbitration rather than a class-action lawsuit &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/230113/p19#a230113p19)
+ - [Spotify is having an outage](https://www.theverge.com/2023/1/13/23554575/spotify-down-outage-songs-not-playing-streaming)
+ - [Friday’s top tech news: unexpected price cuts at Tesla](https://www.theverge.com/2023/1/13/23553314/january-13-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
