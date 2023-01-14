@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The secret to butt-whooping Plane acting, with Gerard Butler and Mike Colter](https://www.polygon.com/23553743/plane-gerard-butler-mike-colter-cast-interview)
  - [Neck exercises &lpar;neck-xercises&rpar; for gamers](https://www.polygon.com/23547243/neck-exercises-for-back-pain-when-gaming)
- - [An obsessive gamer’s guide to chronic pain peripherals](https://www.polygon.com/23550861/gaming-with-chronic-pain-best-controller-chair-peripherals)
- - [10 true crime series and movies that are actually good](https://www.polygon.com/what-to-watch/23548229/best-true-crime-shows-movies-netflix-streaming)<!-- GAME:END -->
+ - [An obsessive gamer’s guide to chronic pain peripherals](https://www.polygon.com/23550861/gaming-with-chronic-pain-best-controller-chair-peripherals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
