@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
- - 🚯 [Bathroom Cleaner](http://9gag.com/gag/aMExDrX)
- - 🚯 [Real question. maybe, maybe, maybe, the way etc](http://9gag.com/gag/agoA6Yw)<!-- MEMES:END -->
+ - 🚖 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - 🚯 [Waka waka](http://9gag.com/gag/aqenpMZ)
+ - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)<!-- MEMES:END -->
 
 --- 
 
