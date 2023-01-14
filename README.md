@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 true crime series and movies that are actually good](https://www.polygon.com/what-to-watch/23548229/best-true-crime-shows-movies-netflix-streaming)
  - [Today&#39;s Wordle 574 answer and hint for Saturday, January 14](https://www.pcgamer.com/wordle-574-answer-january-14)
- - [Skull and Bones shows off new gameplay, and it’s still not very impressive](https://www.pcgamer.com/skull-and-bones-shows-off-new-gameplay-and-its-still-not-very-impressive)
- - [Amelia Dimoldenberg’s interview with Andrew Garfield shows professional flirting at work](https://www.polygon.com/23554228/amelia-dimoldenberg-andrew-garfield-golden-globes)<!-- GAME:END -->
+ - [Skull and Bones shows off new gameplay, and it’s still not very impressive](https://www.pcgamer.com/skull-and-bones-shows-off-new-gameplay-and-its-still-not-very-impressive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
