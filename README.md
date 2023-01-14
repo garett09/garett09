@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forgotten legend](http://9gag.com/gag/a8qGnxQ)
- - 🚯 [That&#39;s a crime](http://9gag.com/gag/ay2eZdp)
- - 🚯 [A man with Down syndrome who recently retired after 32 years of working at McDonalds](http://9gag.com/gag/ay2eVKq)<!-- MEMES:END -->
+ - 🚖 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
+ - 🚯 [Bathroom Cleaner](http://9gag.com/gag/aMExDrX)
+ - 🚯 [Real question. maybe, maybe, maybe, the way etc](http://9gag.com/gag/agoA6Yw)<!-- MEMES:END -->
 
 --- 
 
