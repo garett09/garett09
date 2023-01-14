@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 574 answer and hint for Saturday, January 14](https://www.pcgamer.com/wordle-574-answer-january-14)
  - [Skull and Bones shows off new gameplay, and it’s still not very impressive](https://www.pcgamer.com/skull-and-bones-shows-off-new-gameplay-and-its-still-not-very-impressive)
- - [Amelia Dimoldenberg’s interview with Andrew Garfield shows professional flirting at work](https://www.polygon.com/23554228/amelia-dimoldenberg-andrew-garfield-golden-globes)
- - [Creating the Sci-fi Roguelike Shoulders of Giants](https://news.xbox.com/en-us/2023/01/13/preorder-sci-fi-roguelike-shoulders-of-giants-today-releasing-january-26th/)<!-- GAME:END -->
+ - [Amelia Dimoldenberg’s interview with Andrew Garfield shows professional flirting at work](https://www.polygon.com/23554228/amelia-dimoldenberg-andrew-garfield-golden-globes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
