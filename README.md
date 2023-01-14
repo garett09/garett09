@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
+ - 🚖 [Jailbreaking cars](http://9gag.com/gag/aKE7ywj)
  - 🚯 [Forgotten legend](http://9gag.com/gag/a8qGnxQ)
- - 🚯 [That&#39;s just wonderful.](http://9gag.com/gag/a8qGXnY)<!-- MEMES:END -->
+ - 🚯 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)<!-- MEMES:END -->
 
 --- 
 
