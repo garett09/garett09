@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [The Muse S is intriguing, but I prefer my sleep tracking at arms length](https://www.androidauthority.com/muse-s-review-3262849/)
- - [The best equipment and technology for runners in 2023](https://appleinsider.com/articles/23/01/14/the-best-equipment-and-technology-for-runners-in-2023?utm_medium=rss)
- - [The 6 Most Important Tech Trends We Saw at CES 2023     - CNET](https://www.cnet.com/tech/the-6-most-important-tech-trends-we-saw-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What We Know About the iOS 16.3 Beta 2     - CNET](https://www.cnet.com/tech/services-and-software/what-we-know-about-the-ios-16-3-beta-2/#ftag=CAD590a51e)
+ - [More People Need to Watch This Taut Netflix Survival Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-taut-netflix-survival-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
