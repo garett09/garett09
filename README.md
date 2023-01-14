@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Microsoft are vacating some of their Washington office buildings in Seattle and Bellevue, respectively, amid job cuts and popularity of remote work &lpar;Paul Roberts/The Seattle Times&rpar;](http://www.techmeme.com/230114/p2#a230114p2)
- - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 $24.99 &lpar;90% off&rpar;](https://appleinsider.com/articles/23/01/14/lowest-price-ever-microsoft-office-for-mac-home-business-2021-2499-90-off?utm_medium=rss)
- - [Three ex-employees say SoundHound laid off ~200 people, or ~50% of staff, with two weeks of severance that will only be paid if the company can raise more money &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230114/p1#a230114p1)<!-- TECH:END -->
+ - [How All-In, a podcast moderated by Jason Calacanis and his billionaire pals that often tops tech-podcast charts, gives an insight into Twitter under Elon Musk &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/230114/p5#a230114p5)
+ - [Hackers are exploiting a critical remote code execution vulnerability in unpatched versions of the Control Web Panel, a widely used interface for web hosting &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230114/p4#a230114p4)
+ - [Emails show Twitter is offering free ad space by matching ad spending up to $250K; all ads must run by February 28, a period that includes the Super Bowl &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230114/p3#a230114p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
