@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CI/CD service CircleCI says hackers infected an employee&#39;s laptop and stole 2FA-backed credentials to breach the company&#39;s systems and data in December 2022 &lpar;Derek B. Johnson/SC Media&rpar;](http://www.techmeme.com/230113/p20#a230113p20)
- - [A San Francisco federal judge rules that the laid-off Twitter workers must pursue severance claims in individual arbitration rather than a class-action lawsuit &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/230113/p19#a230113p19)
- - [Spotify is having an outage](https://www.theverge.com/2023/1/13/23554575/spotify-down-outage-songs-not-playing-streaming)<!-- TECH:END -->
+ - [Meta and Microsoft are vacating some of their Washington office buildings in Seattle and Bellevue, respectively, amid job cuts and popularity of remote work &lpar;Paul Roberts/The Seattle Times&rpar;](http://www.techmeme.com/230114/p2#a230114p2)
+ - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 $24.99 &lpar;90% off&rpar;](https://appleinsider.com/articles/23/01/14/lowest-price-ever-microsoft-office-for-mac-home-business-2021-2499-90-off?utm_medium=rss)
+ - [Three ex-employees say SoundHound laid off ~200 people, or ~50% of staff, with two weeks of severance that will only be paid if the company can raise more money &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230114/p1#a230114p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
