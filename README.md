@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need a spin-off&#39;s of these characters lives. Gigitty](http://9gag.com/gag/aMExWPG)
- - 🚯 [They also make dependable calculators unlike Pique](http://9gag.com/gag/a04NWgQ)
- - 🚯 [Bathroom Cleaner](http://9gag.com/gag/aMExDrX)<!-- MEMES:END -->
+ - 🚖 [Forgotten legend](http://9gag.com/gag/a8qGnxQ)
+ - 🚯 [That&#39;s a crime](http://9gag.com/gag/ay2eZdp)
+ - 🚯 [A man with Down syndrome who recently retired after 32 years of working at McDonalds](http://9gag.com/gag/ay2eVKq)<!-- MEMES:END -->
 
 --- 
 
