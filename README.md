@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Baby Monitors to Buy in 2023     - CNET](https://www.cnet.com/health/parenting/best-baby-monitor/#ftag=CAD590a51e)
  - [Microsoft fixed an issue that made Windows Start menu and taskbar shortcuts disappear](https://www.theverge.com/2023/1/13/23553370/microsoft-start-menu-taskbar-shortcuts-windows-disappearing-it)
- - [Motorola Moto G Play &lpar;2023&rpar; review: Limited reach](https://www.androidauthority.com/motorola-moto-g-play-2023-review-3265042/)
- - [Sources: DOJ cleared its antitrust chief Jonathan Kanter to oversee probes involving Google; Google had sought his recusal, citing his work with Yelp and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230113/p17#a230113p17)<!-- TECH:END -->
+ - [Motorola Moto G Play &lpar;2023&rpar; review: Limited reach](https://www.androidauthority.com/motorola-moto-g-play-2023-review-3265042/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
