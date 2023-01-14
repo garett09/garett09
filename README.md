@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 true crime series and movies that are actually good](https://www.polygon.com/what-to-watch/23548229/best-true-crime-shows-movies-netflix-streaming)
- - [Today&#39;s Wordle 574 answer and hint for Saturday, January 14](https://www.pcgamer.com/wordle-574-answer-january-14)
- - [Skull and Bones shows off new gameplay, and it’s still not very impressive](https://www.pcgamer.com/skull-and-bones-shows-off-new-gameplay-and-its-still-not-very-impressive)<!-- GAME:END -->
+ - [Neck exercises &lpar;neck-xercises&rpar; for gamers](https://www.polygon.com/23547243/neck-exercises-for-back-pain-when-gaming)
+ - [An obsessive gamer’s guide to chronic pain peripherals](https://www.polygon.com/23550861/gaming-with-chronic-pain-best-controller-chair-peripherals)
+ - [10 true crime series and movies that are actually good](https://www.polygon.com/what-to-watch/23548229/best-true-crime-shows-movies-netflix-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
