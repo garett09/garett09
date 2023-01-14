@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sick, Netflix’s Noise, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/13/23544720/new-movies-watch-sick-peacock-noise-netflix-devotion-vod)
- - [An Enclave-themed group in Fallout 76 roleplayed the villains so hard it turned everyone against them](https://www.pcgamer.com/an-enclave-themed-group-in-fallout-76-roleplayed-the-villains-so-hard-it-turned-everyone-against-them)
- - [Released Today, The Last Google Stadia Game Is A Piece Of History](https://kotaku.com/google-stadia-play-final-last-game-worm-snake-weird-1849987880)<!-- GAME:END -->
+ - [Amelia Dimoldenberg’s interview with Andrew Garfield shows professional flirting at work](https://www.polygon.com/23554228/amelia-dimoldenberg-andrew-garfield-golden-globes)
+ - [Creating the Sci-fi Roguelike Shoulders of Giants](https://news.xbox.com/en-us/2023/01/13/preorder-sci-fi-roguelike-shoulders-of-giants-today-releasing-january-26th/)
+ - [Sick, Netflix’s Noise, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/13/23544720/new-movies-watch-sick-peacock-noise-netflix-devotion-vod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
