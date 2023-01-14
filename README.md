@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skull and Bones shows off new gameplay, and it’s still not very impressive](https://www.pcgamer.com/skull-and-bones-shows-off-new-gameplay-and-its-still-not-very-impressive)
  - [Amelia Dimoldenberg’s interview with Andrew Garfield shows professional flirting at work](https://www.polygon.com/23554228/amelia-dimoldenberg-andrew-garfield-golden-globes)
- - [Creating the Sci-fi Roguelike Shoulders of Giants](https://news.xbox.com/en-us/2023/01/13/preorder-sci-fi-roguelike-shoulders-of-giants-today-releasing-january-26th/)
- - [Sick, Netflix’s Noise, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/13/23544720/new-movies-watch-sick-peacock-noise-netflix-devotion-vod)<!-- GAME:END -->
+ - [Creating the Sci-fi Roguelike Shoulders of Giants](https://news.xbox.com/en-us/2023/01/13/preorder-sci-fi-roguelike-shoulders-of-giants-today-releasing-january-26th/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
