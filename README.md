@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple prepares HomeKit architecture rollout redo in iOS 16.3 beta](https://appleinsider.com/articles/23/01/14/apple-prepares-homekit-architecture-rollout-redo-in-ios-163-beta?utm_medium=rss)
- - [An FTX lawyer told the Delaware bankruptcy court that SBF asked FTX cofounder Gary Wang to create a secret backdoor to let Alameda borrow $65B of clients&#39; money &lpar;Pete Syme/Insider&rpar;](http://www.techmeme.com/230114/p8#a230114p8)
- - [7 Natural Sleep Aids to Try Instead of Melatonin     - CNET](https://www.cnet.com/health/sleep/7-natural-sleep-aids-to-try-instead-of-melatonin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-467-3265883/)
+ - [Hands on with all the best HomeKit gear announced so far this year](https://appleinsider.com/articles/23/01/14/hands-on-with-all-the-best-homekit-gear-announced-so-far-this-year?utm_medium=rss)
+ - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
