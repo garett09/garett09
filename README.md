@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This indie micro-Morrowind keeps getting better with each update](https://www.pcgamer.com/this-indie-micro-morrowind-keeps-getting-better-with-each-update)
  - [What’s happening with Microsoft’s acquisition of Activision Blizzard](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [The secret to butt-whooping Plane acting, with Gerard Butler and Mike Colter](https://www.polygon.com/23553743/plane-gerard-butler-mike-colter-cast-interview)
- - [Neck exercises &lpar;neck-xercises&rpar; for gamers](https://www.polygon.com/23547243/neck-exercises-for-back-pain-when-gaming)<!-- GAME:END -->
+ - [The secret to butt-whooping Plane acting, with Gerard Butler and Mike Colter](https://www.polygon.com/23553743/plane-gerard-butler-mike-colter-cast-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
