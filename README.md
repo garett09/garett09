@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republican lawmakers push for crypto regulation with new panel](https://www.theverge.com/2023/1/14/23554905/republicans-crypto-regulation-panel-politics)
- - [Customs data shows China&#39;s chip imports fell 15% in 2022 to 538.4B units, the first annual drop since at least 2004; imports grew 17% in 2021 and 22% in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230114/p9#a230114p9)
- - [Harber London Commuter Backpack review: Fashion meets tech](https://appleinsider.com/articles/23/01/14/harber-london-commuter-backpack-review-fashion-meets-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Ditching the Galaxy S24 Plus is the right move for Samsung](https://www.androidauthority.com/samsung-galaxy-s24-plus-2024-3265828/)
+ - [Hands on with all the best HomeKit gear announced so far this year](https://appleinsider.com/articles/23/01/14/hands-on-with-all-the-best-homekit-gear-announced-so-far-this-year?utm_medium=rss)
+ - [This Craftsman V20 5-Tool Combo Kit Is Down to Just $149     - CNET](https://www.cnet.com/deals/this-craftsman-v20-5-tool-combo-kit-is-down-to-just-149/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
