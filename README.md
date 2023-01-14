@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetooth LE Audio might not be the winner we all think it is](https://www.androidauthority.com/bluetooth-le-audio-pros-cons-3257883/)
- - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
- - [When Did the Anthropocene Actually Begin?](https://www.wired.com/story/when-did-the-anthropocene-actually-begin/)<!-- TECH:END -->
+ - [Apple Is Reportedly Testing MacBooks With Touchscreens](https://www.wired.com/story/apple-tests-touchscreen-macbooks/)
+ - [7 Best Chef’s Knives for Your Kitchen &lpar;2023&rpar;: Affordable, Japanese, Carbon Steel](https://www.wired.com/story/best-chef-knives/)
+ - [Russian Ransomware Gang Attack Destabilizes UK Royal Mail](https://www.wired.com/story/royal-mail-ransomware-attack-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
