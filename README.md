@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
- - 🚯 [Wut ? you filming me bro.. not cool](http://9gag.com/gag/a6qKedm)
- - 🚯 [Good memories](http://9gag.com/gag/aoKPGZA)<!-- MEMES:END -->
+ - 🚖 [Men&#39;s room?](http://9gag.com/gag/aRE7yXy)
+ - 🚯 [Not this again....](http://9gag.com/gag/abvGEME)
+ - 🚯 [On one hand, he tried to runaway and was resisting. On the other, that was a lot of tasing. i think the taser directly caused his death. Cocain and Weed were found in his system.](http://9gag.com/gag/aA0eZLR)<!-- MEMES:END -->
 
 --- 
 
