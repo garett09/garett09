@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Oppo intentionally trying to ruin OnePlus?](https://www.androidauthority.com/oppo-ruin-oneplus-opinion-3260867/)
- - [Daily deals Jan. 14: $100 off M1 MacBook Air, $100 off Dyson Cyclone V10, $250 off 65-inch Amazon Fire TV, more](https://appleinsider.com/articles/23/01/14/daily-deals-jan-14-100-off-m1-macbook-air-100-off-dyson-cyclone-v10-250-off-65-inch-amazon-fire-tv-more?utm_medium=rss)
- - [Amazon is testing $12/year Prime Lite in India with free two-day delivery and ad-supported Prime Video in SD; Prime costs $18/year or $2.20/month in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230114/p7#a230114p7)<!-- TECH:END -->
+ - [Apple prepares HomeKit architecture rollout redo in iOS 16.3 beta](https://appleinsider.com/articles/23/01/14/apple-prepares-homekit-architecture-rollout-redo-in-ios-163-beta?utm_medium=rss)
+ - [An FTX lawyer told the Delaware bankruptcy court that SBF asked FTX cofounder Gary Wang to create a secret backdoor to let Alameda borrow $65B of clients&#39; money &lpar;Pete Syme/Insider&rpar;](http://www.techmeme.com/230114/p8#a230114p8)
+ - [7 Natural Sleep Aids to Try Instead of Melatonin     - CNET](https://www.cnet.com/health/sleep/7-natural-sleep-aids-to-try-instead-of-melatonin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
