@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CI/CD service CircleCI says hackers infected an employee&#39;s laptop and stole 2FA-backed credentials to breach the company&#39;s systems and data in December 2022 &lpar;Derek B. Johnson/SC Media&rpar;](http://www.techmeme.com/230113/p20#a230113p20)
  - [A San Francisco federal judge rules that the laid-off Twitter workers must pursue severance claims in individual arbitration rather than a class-action lawsuit &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/230113/p19#a230113p19)
- - [Spotify is having an outage](https://www.theverge.com/2023/1/13/23554575/spotify-down-outage-songs-not-playing-streaming)
- - [Friday’s top tech news: unexpected price cuts at Tesla](https://www.theverge.com/2023/1/13/23553314/january-13-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Spotify is having an outage](https://www.theverge.com/2023/1/13/23554575/spotify-down-outage-songs-not-playing-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
