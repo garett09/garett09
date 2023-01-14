@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The quality control was so good they forgot to finish the video](http://9gag.com/gag/agoAZm1)
- - 🚯 [Loving this new format](http://9gag.com/gag/aQEdBqe)
- - 🚯 [That&#39;s a crime](http://9gag.com/gag/ay2eZdp)<!-- MEMES:END -->
+ - 🚖 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
+ - 🚯 [Just do it](http://9gag.com/gag/aL1wVDM)
+ - 🚯 [German Defense Minister Christine Lambrecht announced her resignation a few minutes ago. Good news for Germany and the world. This is what happens when you try to run a ministry with incompetence.](http://9gag.com/gag/a8qGXP6)<!-- MEMES:END -->
 
 --- 
 
