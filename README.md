@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [............i cant even](http://9gag.com/gag/aQEdBdW)
- - 🚯 [High-Speed Trains hahahahaha](http://9gag.com/gag/aDY4Q7K)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
+ - 🚖 [That&#39;s a crime](http://9gag.com/gag/ay2eZdp)
+ - 🚯 [Tobey knew what&#39;s up](http://9gag.com/gag/a1PWB3b)
+ - 🚯 [Call an ambulance..](http://9gag.com/gag/aeQDyRQ)<!-- MEMES:END -->
 
 --- 
 
