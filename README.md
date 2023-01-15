@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans microLED displays in everything after 2024 Apple Watch Ultra update](https://appleinsider.com/articles/23/01/15/apple-plans-microled-displays-in-everything-after-2024-apple-watch-ultra-update?utm_medium=rss)
- - [Two years after the Bahamas launched the world&#39;s first CBDC, the Sand Dollar&#39;s adoption has been sluggish as FTX&#39;s demise only fuels digital fiat skepticism &lpar;Jim Wyss/Bloomberg&rpar;](http://www.techmeme.com/230115/p4#a230115p4)
- - [I’m so fed up with streaming platforms that I’m going back to physical DVDs](https://www.androidauthority.com/streaming-fatigue-physical-dvd-3240983/)<!-- TECH:END -->
+ - [Adding touchscreens to Macs is paramount to Apple&#39;s goals of unifying software and services on its devices and keeping up with a younger, touch-first generation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230115/p5#a230115p5)
+ - [The Echo Show 15 may be the best screen for your kitchen island](https://www.androidauthority.com/amazon-echo-show-15-review-3260741/)
+ - [Daily deals Jan. 15: $20 off Bose Sport Earbuds, $200 off M2 MacBook Air, $200 off Bluetti EB3A Solar Generator and Panel](https://appleinsider.com/articles/23/01/15/daily-deals-jan-15-20-off-bose-sport-earbuds-200-off-m2-macbook-air-200-off-bluetti-eb3a-solar-generator-and-panel?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
