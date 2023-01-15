@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Getting started with Arduino on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/getting-started-with-arduino-on-macos-ventura?utm_medium=rss)
  - [A look at VR support groups and communities helping members process cancer diagnoses and death, question their marriages, turn over childhood traumas, and more &lpar;Hana Kiros/MIT Technology Review&rpar;](http://www.techmeme.com/230115/p6#a230115p6)
- - [Who should be the next CEO of Twitter?](https://www.theverge.com/2023/1/15/23556300/who-should-be-twitter-next-ceo-after-elon-musk)
- - [How to Switch From a Digital to Analog Stopwatch on iPhone](https://appleinsider.com/articles/23/01/15/how-to-switch-from-a-digital-to-analog-stopwatch-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Why Carbs Are Not Your Enemy     - CNET](https://www.cnet.com/health/nutrition/why-carbs-are-not-your-enemy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
