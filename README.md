@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Best Air Purifiers for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)
- - [Best Cheap Meal Delivery Service in 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
- - [Internal messages: Twitter intentionally suspended access to third-party clients last Thursday; staff questioned when an explanation would be provided publicly &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230114/p12#a230114p12)<!-- TECH:END -->
+ - [How Finland, ranked first of 41 European countries in a media literacy survey, teaches students to spot misinformation on social media, starting in preschool &lpar;Jenny Gross/New York Times&rpar;](http://www.techmeme.com/230114/p13#a230114p13)
+ - [Goofy Mars Rock Spotted by NASA Rover Might Be a Meteorite     - CNET](https://www.cnet.com/science/space/goofy-mars-rock-spotted-by-nasa-rover-might-be-a-meteorite/#ftag=CAD590a51e)
+ - [&#39;Girl With a Pearl Earring,&#39; This Time Featuring Robots and AirPods     - CNET](https://www.cnet.com/culture/internet/girl-with-a-pearl-earring-this-time-featuring-robots-and-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
