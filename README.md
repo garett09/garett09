@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of, and interview with, DeepMind CEO Demis Hassabis on AGI, &quot;not moving fast and breaking things&quot;, launching the Sparrow chatbot in 2023, and more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/230115/p2#a230115p2)
- - [TikTok, Instagram, and other social media platforms expect age verification measures in the UK&#39;s Online Safety Bill to reduce user numbers, hitting ad revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/230115/p1#a230115p1)
- - [China&#39;s central bank says Ant Group and 13 other firms &quot;have basically completed business rectification&quot; under financial regulators&#39; guidance and supervision &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230114/p14#a230114p14)<!-- TECH:END -->
+ - [Researchers detail reproducibility issues in health care AI; a 2021 review found health-related ML models perform especially poorly on reproducibility measures &lpar;Emily Sohn/Nature&rpar;](http://www.techmeme.com/230115/p3#a230115p3)
+ - [Apple&#39;s App Store changed the software world 15 years ago](https://appleinsider.com/articles/23/01/15/apples-app-store-changed-the-software-world-15-years-ago?utm_medium=rss)
+ - [Apple&#39;s workhorse MacBook Air is 15 years old](https://appleinsider.com/articles/23/01/15/apples-workhorse-macbook-air-is-15-years-old?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
