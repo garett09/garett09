@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)
- - 🚯 [Women&#39;s sports](http://9gag.com/gag/anz487o)<!-- MEMES:END -->
+ - 🚖 [Boys will be boys](http://9gag.com/gag/a6qK63L)
+ - 🚯 [See my flag](http://9gag.com/gag/a8qGgwp)
+ - 🚯 [If you are poor, you are de@d.](http://9gag.com/gag/a3ZwOX1)<!-- MEMES:END -->
 
 --- 
 
