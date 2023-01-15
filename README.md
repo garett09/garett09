@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Behold! The invention we have all been waiting for](http://9gag.com/gag/aYVynZN)
+ - 🚖 [Waka waka](http://9gag.com/gag/aqenpMZ)
  - 🚯 [Boys will be boys](http://9gag.com/gag/aRE7pK5)
- - 🚯 [Guess the ending](http://9gag.com/gag/amAvZL4)<!-- MEMES:END -->
+ - 🚯 [\u201cFall seven times and stand up eight.\u201d \u2013 Japanese Proverb](http://9gag.com/gag/ajV9458)<!-- MEMES:END -->
 
 --- 
 
