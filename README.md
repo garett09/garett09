@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This gnarly FPS with a rear view mirror wants you shooting backwards](https://www.pcgamer.com/this-gnarly-fps-with-a-rear-view-mirror-wants-you-shooting-backwards)
  - [The Last of Us creators had to make Pedro Pascal’s Joel softer than in the games](https://www.polygon.com/23552872/last-us-pedro-pascal-joel-changes-game)
- - [Today&#39;s Wordle 575 answer and hint for Sunday, January 15](https://www.pcgamer.com/wordle-575-answer-january-15)
- - [The Dungeons &amp; Dragons community imploded over a leaked draft of a license change](https://www.pcgamer.com/the-dungeons-and-dragons-community-imploded-over-a-leaked-draft-of-a-license-change)<!-- GAME:END -->
+ - [Today&#39;s Wordle 575 answer and hint for Sunday, January 15](https://www.pcgamer.com/wordle-575-answer-january-15)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
