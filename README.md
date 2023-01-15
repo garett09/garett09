@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skyblivion announces 2025 release date](https://www.pcgamer.com/skyblivion-announces-2025-release-date)
  - [This gnarly FPS with a rear view mirror wants you shooting backwards](https://www.pcgamer.com/this-gnarly-fps-with-a-rear-view-mirror-wants-you-shooting-backwards)
- - [The Last of Us creators had to make Pedro Pascal’s Joel softer than in the games](https://www.polygon.com/23552872/last-us-pedro-pascal-joel-changes-game)
- - [Today&#39;s Wordle 575 answer and hint for Sunday, January 15](https://www.pcgamer.com/wordle-575-answer-january-15)<!-- GAME:END -->
+ - [The Last of Us creators had to make Pedro Pascal’s Joel softer than in the games](https://www.polygon.com/23552872/last-us-pedro-pascal-joel-changes-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
