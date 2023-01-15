@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Justin Roiland&#39;s Squanch Games quietly settled a sexual harassment lawsuit in 2019](https://www.pcgamer.com/justin-roilands-squanch-games-quietly-settled-a-sexual-harassment-lawsuit-in-2019)
- - [This indie micro-Morrowind keeps getting better with each update](https://www.pcgamer.com/this-indie-micro-morrowind-keeps-getting-better-with-each-update)
- - [What’s happening with Microsoft’s acquisition of Activision Blizzard](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
+ - [In 1998, hardboiled gumshoe Detective Barbie cracked the case of the carnival caper](https://www.pcgamer.com/saturday-crapshoot-detective-barbie)
+ - [Lost Ark players with inactive accounts caught by wave of bot bans](https://www.pcgamer.com/lost-ark-players-with-inactive-accounts-caught-by-wave-of-bot-bans)
+ - [Justin Roiland&#39;s Squanch Games quietly settled a sexual harassment lawsuit in 2019](https://www.pcgamer.com/justin-roilands-squanch-games-quietly-settled-a-sexual-harassment-lawsuit-in-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
