@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real question. maybe, maybe, maybe, the way etc](http://9gag.com/gag/agoA6Yw)
- - 🚯 [An then everything change when the Master Race attack](http://9gag.com/gag/a5XW9Eq)
- - 🚯 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)<!-- MEMES:END -->
+ - 🚖 [............i cant even](http://9gag.com/gag/aQEdBdW)
+ - 🚯 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
 
 --- 
 
