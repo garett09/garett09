@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The break we all need.](http://9gag.com/gag/aL1w7gv)
- - 🚯 [Goats eating tomatoes](http://9gag.com/gag/amAv4Dd)
- - 🚯 [Boston sculpture](http://9gag.com/gag/amAve96)<!-- MEMES:END -->
+ - 🚖 [............i cant even](http://9gag.com/gag/aQEdBdW)
+ - 🚯 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
 
 --- 
 
