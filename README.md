@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 575 answer and hint for Sunday, January 15](https://www.pcgamer.com/wordle-575-answer-january-15)
  - [The Dungeons &amp; Dragons community imploded over a leaked draft of a license change](https://www.pcgamer.com/the-dungeons-and-dragons-community-imploded-over-a-leaked-draft-of-a-license-change)
- - [One Piece Odyssey review](https://www.pcgamer.com/one-piece-odyssey-review)
- - [In 1998, hardboiled gumshoe Detective Barbie cracked the case of the carnival caper](https://www.pcgamer.com/saturday-crapshoot-detective-barbie)<!-- GAME:END -->
+ - [One Piece Odyssey review](https://www.pcgamer.com/one-piece-odyssey-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
