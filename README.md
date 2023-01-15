@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Messing With Firefighters Trying To Do Their Job](http://9gag.com/gag/amAvKM4)
- - 🚯 [............i cant even](http://9gag.com/gag/aQEdBdW)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
+ - 🚖 [Behold! The invention we have all been waiting for](http://9gag.com/gag/aYVynZN)
+ - 🚯 [Pic of the day](http://9gag.com/gag/ay2erby)
+ - 🚯 [Throwback to when the sound technician cut yoko ono voice off during the performance of her husband and chuck berry](http://9gag.com/gag/adPVwjB)<!-- MEMES:END -->
 
 --- 
 
