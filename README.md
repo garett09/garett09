@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Behold! The invention we have all been waiting for](http://9gag.com/gag/aYVynZN)
- - 🚯 [Pic of the day](http://9gag.com/gag/ay2erby)
- - 🚯 [Throwback to when the sound technician cut yoko ono voice off during the performance of her husband and chuck berry](http://9gag.com/gag/adPVwjB)<!-- MEMES:END -->
+ - 🚖 [I&#39;m starting over guys, wish me luck](http://9gag.com/gag/a9qnw30)
+ - 🚯 [Hopefully amusing to some. Maybe even original content here.](http://9gag.com/gag/a5XW3Bo)
+ - 🚯 [A hammer woman](http://9gag.com/gag/aA0e5Dp)<!-- MEMES:END -->
 
 --- 
 
