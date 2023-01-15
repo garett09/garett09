@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m so fed up with streaming platforms that I’m going back to physical DVDs](https://www.androidauthority.com/streaming-fatigue-physical-dvd-3240983/)
  - [Apple plans microLED displays in everything after 2024 Apple Watch Ultra update](https://appleinsider.com/articles/23/01/15/apple-plans-microled-displays-in-everything-after-2024-apple-watch-ultra-update?utm_medium=rss)
- - [Crime blotter: An Apple Store theft in Alabama and iPhone searches](https://appleinsider.com/articles/23/01/15/crime-blotter-an-apple-store-theft-in-alabama-and-iphone-searches?utm_medium=rss)<!-- TECH:END -->
+ - [Two years after the Bahamas launched the world&#39;s first CBDC, the Sand Dollar&#39;s adoption has been sluggish as FTX&#39;s demise only fuels digital fiat skepticism &lpar;Jim Wyss/Bloomberg&rpar;](http://www.techmeme.com/230115/p4#a230115p4)
+ - [I’m so fed up with streaming platforms that I’m going back to physical DVDs](https://www.androidauthority.com/streaming-fatigue-physical-dvd-3240983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
