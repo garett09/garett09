@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Finland, ranked first of 41 European countries in a media literacy survey, teaches students to spot misinformation on social media, starting in preschool &lpar;Jenny Gross/New York Times&rpar;](http://www.techmeme.com/230114/p13#a230114p13)
- - [Goofy Mars Rock Spotted by NASA Rover Might Be a Meteorite     - CNET](https://www.cnet.com/science/space/goofy-mars-rock-spotted-by-nasa-rover-might-be-a-meteorite/#ftag=CAD590a51e)
- - [&#39;Girl With a Pearl Earring,&#39; This Time Featuring Robots and AirPods     - CNET](https://www.cnet.com/culture/internet/girl-with-a-pearl-earring-this-time-featuring-robots-and-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s central bank says Ant Group and 13 other firms &quot;have basically completed business rectification&quot; under financial regulators&#39; guidance and supervision &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230114/p14#a230114p14)
+ - [Best Headphones for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
+ - [Best Mirror Workout 2023: Tempo, Tonal, Mirror and More     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
