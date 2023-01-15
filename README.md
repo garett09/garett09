@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Boys will be boys](http://9gag.com/gag/a6qK63L)
- - 🚯 [See my flag](http://9gag.com/gag/a8qGgwp)
+ - 🚯 [Every language has its own abnormalities.](http://9gag.com/gag/a5XWYxG)
  - 🚯 [If you are poor, you are de@d.](http://9gag.com/gag/a3ZwOX1)<!-- MEMES:END -->
 
 --- 
