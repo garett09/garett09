@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The New Europegadishu ..Yep, Welcome refugees...](http://9gag.com/gag/ay2emBp)
- - 🚯 [Real question. maybe, maybe, maybe, the way etc](http://9gag.com/gag/agoA6Yw)
- - 🚯 [Tango touches chicken if tango wants chicken...](http://9gag.com/gag/avQzBxZ)<!-- MEMES:END -->
+ - 🚖 [She got some nice breasts, is famous and sing well](http://9gag.com/gag/aQEdN1z)
+ - 🚯 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
 
 --- 
 
