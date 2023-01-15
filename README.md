@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best personal safety apps for your iPhone](https://appleinsider.com/inside/ios/best/the-best-personal-safety-apps-for-your-iphone?utm_medium=rss)
- - [Adding touchscreens to Macs will help Apple further unify software and services, keep up with a touch-first generation, and pick up a bigger piece of PC market &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230115/p5#a230115p5)
- - [The Echo Show 15 may be the best screen for your kitchen island](https://www.androidauthority.com/amazon-echo-show-15-review-3260741/)<!-- TECH:END -->
+ - [How to Switch From a Digital to Analog Stopwatch on iPhone](https://appleinsider.com/articles/23/01/15/how-to-switch-from-a-digital-to-analog-stopwatch-on-iphone?utm_medium=rss)
+ - [The best movies shot on phones](https://www.androidauthority.com/the-best-movies-shot-on-phones-3248629/)
+ - [Hands on: best HomeKit gear announced so far in 2023](https://appleinsider.com/articles/23/01/14/hands-on-with-all-the-best-homekit-gear-announced-so-far-this-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
