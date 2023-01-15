@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyblivion announces 2025 release date](https://www.pcgamer.com/skyblivion-announces-2025-release-date)
- - [This gnarly FPS with a rear view mirror wants you shooting backwards](https://www.pcgamer.com/this-gnarly-fps-with-a-rear-view-mirror-wants-you-shooting-backwards)
- - [The Last of Us creators had to make Pedro Pascal’s Joel softer than in the games](https://www.polygon.com/23552872/last-us-pedro-pascal-joel-changes-game)<!-- GAME:END -->
+ - [The Last of Us premieres today on HBO](https://blog.playstation.com/2023/01/15/the-last-of-us-premieres-today-on-hbo/)
+ - [This Witcher 3 mod can help snatch valuable performance from its hungry ray tracing](https://www.pcgamer.com/this-witcher-3-mod-can-help-snatch-valuable-performance-from-its-hungry-ray-tracing)
+ - [&#39;AI Art&#39; Companies &amp; DeviantArt Are Being Sued By Artists](https://kotaku.com/ai-art-stable-diffusion-midjourney-lawsuit-sued-court-1849991363)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
