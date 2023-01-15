@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of, and interview with, DeepMind CEO Demis Hassabis on AGI, &quot;not moving fast and breaking things&quot;, launching the Sparrow chatbot in 2023, and more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/230115/p2#a230115p2)
  - [TikTok, Instagram, and other social media platforms expect age verification measures in the UK&#39;s Online Safety Bill to reduce user numbers, hitting ad revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/230115/p1#a230115p1)
- - [China&#39;s central bank says Ant Group and 13 other firms &quot;have basically completed business rectification&quot; under financial regulators&#39; guidance and supervision &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230114/p14#a230114p14)
- - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s central bank says Ant Group and 13 other firms &quot;have basically completed business rectification&quot; under financial regulators&#39; guidance and supervision &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230114/p14#a230114p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
