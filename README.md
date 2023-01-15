@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [............i cant even](http://9gag.com/gag/aQEdBdW)
- - 🚯 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
+ - 🚖 [The New Europegadishu ..Yep, Welcome refugees...](http://9gag.com/gag/ay2emBp)
+ - 🚯 [Maegan hall sex scandal looks like Officer Jeanne in Hot Fuzz...](http://9gag.com/gag/aL1wOAg)
+ - 🚯 [Is it possible?](http://9gag.com/gag/aMEx0VW)<!-- MEMES:END -->
 
 --- 
 
