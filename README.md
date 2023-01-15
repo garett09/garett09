@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German riot police defeated and humiliated by some kind of mud wizard](http://9gag.com/gag/a5XWY2L)
- - 🚯 [Divorcustyryops](http://9gag.com/gag/avQzM2b)
- - 🚯 [The break we all need.](http://9gag.com/gag/aL1w7gv)<!-- MEMES:END -->
+ - 🚖 [The break we all need.](http://9gag.com/gag/aL1w7gv)
+ - 🚯 [Goats eating tomatoes](http://9gag.com/gag/amAv4Dd)
+ - 🚯 [Boston sculpture](http://9gag.com/gag/amAve96)<!-- MEMES:END -->
 
 --- 
 
