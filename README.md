@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getting started with Arduino on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/getting-started-with-arduino-on-macos-ventura?utm_medium=rss)
- - [A look at VR support groups and communities helping members process cancer diagnoses and death, question their marriages, turn over childhood traumas, and more &lpar;Hana Kiros/MIT Technology Review&rpar;](http://www.techmeme.com/230115/p6#a230115p6)
- - [Why Carbs Are Not Your Enemy     - CNET](https://www.cnet.com/health/nutrition/why-carbs-are-not-your-enemy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tweetbot is &lpar;mostly&rpar; working again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage)
+ - [The Wordle Starter Words That Practically Guarantee a Winning Streak     - CNET](https://www.cnet.com/culture/the-wordle-starter-words-that-practically-guarantee-a-a-winning-streak/#ftag=CAD590a51e)
+ - [Everything I Learned Taking Only Cold Showers for an Entire Year     - CNET](https://www.cnet.com/culture/internet/features/everything-i-learned-taking-only-cold-showers-for-an-entire-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
