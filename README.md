@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boys will be boys](http://9gag.com/gag/a6qK63L)
- - 🚯 [Every language has its own abnormalities.](http://9gag.com/gag/a5XWYxG)
- - 🚯 [If you are poor, you are de@d.](http://9gag.com/gag/a3ZwOX1)<!-- MEMES:END -->
+ - 🚖 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)
+ - 🚯 [Women&#39;s sports](http://9gag.com/gag/anz487o)<!-- MEMES:END -->
 
 --- 
 
