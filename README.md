@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [............i cant even](http://9gag.com/gag/aQEdBdW)
- - 🚯 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
+ - 🚖 [An opportunity we can&#39;t afford to miss](http://9gag.com/gag/aKE7Xwg)
+ - 🚯 [Never seen Gordon Ramsay laugh so nervously before](http://9gag.com/gag/aeQDy4j)
+ - 🚯 [Good movies](http://9gag.com/gag/a4o3m61)<!-- MEMES:END -->
 
 --- 
 
