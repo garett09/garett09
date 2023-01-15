@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok, Instagram, and other social media platforms expect age verification measures in the UK&#39;s Online Safety Bill to reduce user numbers, hitting ad revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/230115/p1#a230115p1)
  - [China&#39;s central bank says Ant Group and 13 other firms &quot;have basically completed business rectification&quot; under financial regulators&#39; guidance and supervision &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230114/p14#a230114p14)
- - [Best Headphones for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [Best Mirror Workout 2023: Tempo, Tonal, Mirror and More     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
