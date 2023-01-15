@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: An Apple Store theft in Alabama and iPhone searches](https://appleinsider.com/articles/23/01/15/crime-blotter-an-apple-store-theft-in-alabama-and-iphone-searches?utm_medium=rss)
- - [How to Use the iPhone 14’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-iphone-14-emergency-satellite-sos/)
- - [Twitter apps are still broken and Musk is still silent](https://www.theverge.com/2023/1/13/23553161/third-party-twitter-clients-apps-outage-twitterific-tweetbot)<!-- TECH:END -->
+ - [I’m so fed up with streaming platforms that I’m going back to physical DVDs](https://www.androidauthority.com/streaming-fatigue-physical-dvd-3240983/)
+ - [Apple plans microLED displays in everything after 2024 Apple Watch Ultra update](https://appleinsider.com/articles/23/01/15/apple-plans-microled-displays-in-everything-after-2024-apple-watch-ultra-update?utm_medium=rss)
+ - [Crime blotter: An Apple Store theft in Alabama and iPhone searches](https://appleinsider.com/articles/23/01/15/crime-blotter-an-apple-store-theft-in-alabama-and-iphone-searches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
