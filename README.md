@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...](http://9gag.com/gag/ajV94jG)
- - 🚯 [What?!](http://9gag.com/gag/ajV9e51)
- - 🚯 [German police getting stuck in the mud reminds me of this movie scene from `The King`](http://9gag.com/gag/aOx7LNE)<!-- MEMES:END -->
+ - 🚖 [German riot police defeated and humiliated by some kind of mud wizard](http://9gag.com/gag/a5XWY2L)
+ - 🚯 [Divorcustyryops](http://9gag.com/gag/avQzM2b)
+ - 🚯 [The break we all need.](http://9gag.com/gag/aL1w7gv)<!-- MEMES:END -->
 
 --- 
 
