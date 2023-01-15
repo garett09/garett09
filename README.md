@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She got some nice breasts, is famous and sing well](http://9gag.com/gag/aQEdN1z)
- - 🚯 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
+ - 🚖 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)
+ - 🚯 [Women&#39;s sports](http://9gag.com/gag/anz487o)<!-- MEMES:END -->
 
 --- 
 
