@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The New Europegadishu ..Yep, Welcome refugees...](http://9gag.com/gag/ay2emBp)
- - 🚯 [Maegan hall sex scandal looks like Officer Jeanne in Hot Fuzz...](http://9gag.com/gag/aL1wOAg)
- - 🚯 [Is it possible?](http://9gag.com/gag/aMEx0VW)<!-- MEMES:END -->
+ - 🚯 [Real question. maybe, maybe, maybe, the way etc](http://9gag.com/gag/agoA6Yw)
+ - 🚯 [Tango touches chicken if tango wants chicken...](http://9gag.com/gag/avQzBxZ)<!-- MEMES:END -->
 
 --- 
 
