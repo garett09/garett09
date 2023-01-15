@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s App Store changed the software world 15 years ago](https://appleinsider.com/articles/23/01/15/apples-app-store-changed-the-software-world-15-years-ago?utm_medium=rss)
- - [Testing spatial audio on the Pixel 7 is a confusing but delightful experience](https://www.androidauthority.com/google-pixel-spatial-audio-3265806/)
- - [10 Best Smart Home Lighting &lpar;2023&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)<!-- TECH:END -->
+ - [Crime blotter: An Apple Store theft in Alabama and iPhone searches](https://appleinsider.com/articles/23/01/15/crime-blotter-an-apple-store-theft-in-alabama-and-iphone-searches?utm_medium=rss)
+ - [How to Use the iPhone 14’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-iphone-14-emergency-satellite-sos/)
+ - [Twitter apps are still broken and Musk is still silent](https://www.theverge.com/2023/1/13/23553161/third-party-twitter-clients-apps-outage-twitterific-tweetbot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
