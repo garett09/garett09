@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal messages: Twitter intentionally suspended access to third-party clients last Thursday; staff questioned when an explanation would be provided publicly &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230114/p12#a230114p12)
- - [Oakywood Magsafe Collection Review: perfect for a home office](https://appleinsider.com/articles/23/01/14/oakywood-magsafe-collection-review-perfect-for-home-office?utm_medium=rss)
- - [SIA says chip companies proposed 40+ projects across the US worth ~$200B since 2020, as the US realizes that chips are now as central to modern economies as oil &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230114/p11#a230114p11)<!-- TECH:END -->
+ - [The 6 Best Air Purifiers for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)
+ - [Best Cheap Meal Delivery Service in 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
+ - [Internal messages: Twitter intentionally suspended access to third-party clients last Thursday; staff questioned when an explanation would be provided publicly &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230114/p12#a230114p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
