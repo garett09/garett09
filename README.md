@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last of Us creators had to make Pedro Pascal’s Joel softer than in the games](https://www.polygon.com/23552872/last-us-pedro-pascal-joel-changes-game)
  - [Today&#39;s Wordle 575 answer and hint for Sunday, January 15](https://www.pcgamer.com/wordle-575-answer-january-15)
- - [The Dungeons &amp; Dragons community imploded over a leaked draft of a license change](https://www.pcgamer.com/the-dungeons-and-dragons-community-imploded-over-a-leaked-draft-of-a-license-change)
- - [One Piece Odyssey review](https://www.pcgamer.com/one-piece-odyssey-review)<!-- GAME:END -->
+ - [The Dungeons &amp; Dragons community imploded over a leaked draft of a license change](https://www.pcgamer.com/the-dungeons-and-dragons-community-imploded-over-a-leaked-draft-of-a-license-change)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
