@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adding touchscreens to Macs is paramount to Apple&#39;s goals of unifying software and services on its devices and keeping up with a younger, touch-first generation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230115/p5#a230115p5)
- - [The Echo Show 15 may be the best screen for your kitchen island](https://www.androidauthority.com/amazon-echo-show-15-review-3260741/)
- - [Daily deals Jan. 15: $20 off Bose Sport Earbuds, $200 off M2 MacBook Air, $200 off Bluetti EB3A Solar Generator and Panel](https://appleinsider.com/articles/23/01/15/daily-deals-jan-15-20-off-bose-sport-earbuds-200-off-m2-macbook-air-200-off-bluetti-eb3a-solar-generator-and-panel?utm_medium=rss)<!-- TECH:END -->
+ - [The best personal safety apps for your iPhone](https://appleinsider.com/inside/ios/best/the-best-personal-safety-apps-for-your-iphone?utm_medium=rss)
+ - [Adding touchscreens to Macs will help Apple further unify software and services, keep up with a touch-first generation, and pick up a bigger piece of PC market &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230115/p5#a230115p5)
+ - [The Echo Show 15 may be the best screen for your kitchen island](https://www.androidauthority.com/amazon-echo-show-15-review-3260741/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
