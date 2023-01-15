@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tweetbot is &lpar;mostly&rpar; working again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage)
- - [The Wordle Starter Words That Practically Guarantee a Winning Streak     - CNET](https://www.cnet.com/culture/the-wordle-starter-words-that-practically-guarantee-a-a-winning-streak/#ftag=CAD590a51e)
- - [Everything I Learned Taking Only Cold Showers for an Entire Year     - CNET](https://www.cnet.com/culture/internet/features/everything-i-learned-taking-only-cold-showers-for-an-entire-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to add a security key to an Apple ID in iOS 16.3](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)
+ - [&#39;The Mandalorian&#39; Season 3: New Trailer Teases, March Release Date and Baby Yoda&#39;s Future     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-new-trailer-teases-march-release-date-and-baby-yoda-future/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 1 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-1-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
