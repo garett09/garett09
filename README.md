@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One Piece Odyssey review](https://www.pcgamer.com/one-piece-odyssey-review)
  - [In 1998, hardboiled gumshoe Detective Barbie cracked the case of the carnival caper](https://www.pcgamer.com/saturday-crapshoot-detective-barbie)
- - [Lost Ark players with inactive accounts caught by wave of bot bans](https://www.pcgamer.com/lost-ark-players-with-inactive-accounts-caught-by-wave-of-bot-bans)
- - [Justin Roiland&#39;s Squanch Games quietly settled a sexual harassment lawsuit in 2019](https://www.pcgamer.com/justin-roilands-squanch-games-quietly-settled-a-sexual-harassment-lawsuit-in-2019)<!-- GAME:END -->
+ - [Lost Ark players with inactive accounts caught by wave of bot bans](https://www.pcgamer.com/lost-ark-players-with-inactive-accounts-caught-by-wave-of-bot-bans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
