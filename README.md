@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s something !](http://9gag.com/gag/a9qnZyj)
- - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)
- - 🚯 [Women&#39;s sports](http://9gag.com/gag/anz487o)<!-- MEMES:END -->
+ - 🚖 [...](http://9gag.com/gag/ajV94jG)
+ - 🚯 [What?!](http://9gag.com/gag/ajV9e51)
+ - 🚯 [German police getting stuck in the mud reminds me of this movie scene from `The King`](http://9gag.com/gag/aOx7LNE)<!-- MEMES:END -->
 
 --- 
 
