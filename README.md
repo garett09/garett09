@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Norton Password Manager hacked, warning users about breaches](https://appleinsider.com/articles/23/01/14/nortonlifelock-warns-of-password-manager-account-breaches?utm_medium=rss)
- - [Oakywood Magsafe Collection Review: perfect for home office](https://appleinsider.com/articles/23/01/14/oakywood-magsafe-collection-review-perfect-for-home-office?utm_medium=rss)
- - [These are real earrings — and also real earbuds](https://www.theverge.com/2023/1/14/23555210/nova-audio-earrings-earbuds)<!-- TECH:END -->
+ - [Internal messages: Twitter intentionally suspended access to third-party clients last Thursday; staff questioned when an explanation would be provided publicly &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230114/p12#a230114p12)
+ - [Oakywood Magsafe Collection Review: perfect for a home office](https://appleinsider.com/articles/23/01/14/oakywood-magsafe-collection-review-perfect-for-home-office?utm_medium=rss)
+ - [SIA says chip companies proposed 40+ projects across the US worth ~$200B since 2020, as the US realizes that chips are now as central to modern economies as oil &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230114/p11#a230114p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
