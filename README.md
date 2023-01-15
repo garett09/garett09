@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail reproducibility issues in health care AI; a 2021 review found health-related ML models perform especially poorly on reproducibility measures &lpar;Emily Sohn/Nature&rpar;](http://www.techmeme.com/230115/p3#a230115p3)
  - [Apple&#39;s App Store changed the software world 15 years ago](https://appleinsider.com/articles/23/01/15/apples-app-store-changed-the-software-world-15-years-ago?utm_medium=rss)
- - [Apple&#39;s workhorse MacBook Air is 15 years old](https://appleinsider.com/articles/23/01/15/apples-workhorse-macbook-air-is-15-years-old?utm_medium=rss)<!-- TECH:END -->
+ - [Testing spatial audio on the Pixel 7 is a confusing but delightful experience](https://www.androidauthority.com/google-pixel-spatial-audio-3265806/)
+ - [10 Best Smart Home Lighting &lpar;2023&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
