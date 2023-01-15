@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m starting over guys, wish me luck](http://9gag.com/gag/a9qnw30)
- - 🚯 [Hopefully amusing to some. Maybe even original content here.](http://9gag.com/gag/a5XW3Bo)
- - 🚯 [A hammer woman](http://9gag.com/gag/aA0e5Dp)<!-- MEMES:END -->
+ - 🚖 [Real question. maybe, maybe, maybe, the way etc](http://9gag.com/gag/agoA6Yw)
+ - 🚯 [An then everything change when the Master Race attack](http://9gag.com/gag/a5XW9Eq)
+ - 🚯 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)<!-- MEMES:END -->
 
 --- 
 
