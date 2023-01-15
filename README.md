@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s a crime](http://9gag.com/gag/ay2eZdp)
- - 🚯 [Tobey knew what&#39;s up](http://9gag.com/gag/a1PWB3b)
- - 🚯 [Call an ambulance..](http://9gag.com/gag/aeQDyRQ)<!-- MEMES:END -->
+ - 🚖 [Messing With Firefighters Trying To Do Their Job](http://9gag.com/gag/amAvKM4)
+ - 🚯 [............i cant even](http://9gag.com/gag/aQEdBdW)
+ - 🚯 [Was it worth it though](http://9gag.com/gag/aeQDy8O)<!-- MEMES:END -->
 
 --- 
 
