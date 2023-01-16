@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tweetbot is back down again](https://www.theverge.com/2023/1/15/23556359/tweetbot-twitter-online-third-party-apps-outage)
- - [Europe&#39;s rapid delivery market has consolidated down to three companies: Getir, the largest player that operates in seven European countries, Flink, and Gopuff &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230115/p7#a230115p7)
- - [How to add a security key to an Apple ID in iOS 16.3](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)<!-- TECH:END -->
+ - [Source: the CEO of Clearco, which offers capital to e-commerce firms for a cut of future revenue, resigns as growth at the well-funded startup grinds to a halt &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230115/p8#a230115p8)
+ - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-29-absolute-best-movies-to-watch/#ftag=CAD590a51e)
+ - [Here&#39;s the New Most Expensive Fast Food Chain     - CNET](https://www.cnet.com/news/heres-the-new-most-expensive-fast-food-chain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
