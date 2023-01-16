@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese ride-hailing giant Didi says regulators have lifted a ban on new user registrations, signaling an end to a longrunning regulatory crackdown &lpar;Reuters&rpar;](http://www.techmeme.com/230116/p4#a230116p4)
- - [Games Done Quick charity speedrun event raises $2.6 million](https://www.theverge.com/2023/1/16/23557081/games-done-quick-2023-speedrunning-stream-record-charity-donation)
- - [Daily Authority: 📽️ The big streaming platform problem, solved?](https://www.androidauthority.com/daily-authority-january-16-2023-3266868/)<!-- TECH:END -->
+ - [Shiba Inu developers plan to launch Shibarium, an Ethereum Layer 2 network, in the coming weeks, focusing on the metaverse and gaming applications &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230116/p7#a230116p7)
+ - [Now Xiaomi is taking away home security camera features you paid for](https://www.androidauthority.com/xiaomi-home-security-cameras-cloud-storage-3266925/)
+ - [&#39;Pachinko,&#39; &#39;Black Bird&#39; win at Critics&#39; Choice Awards](https://appleinsider.com/articles/23/01/16/pachinko-black-bird-win-at-critics-choice-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
