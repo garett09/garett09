@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;re best friends with bad luck.](http://9gag.com/gag/aDY4qYw)
- - 🚯 [In Red Dead Redemption 2, you can follow along the camp cook Mr. Pearson and observe him preparing the whole meal](http://9gag.com/gag/abvGLY9)
- - 🚯 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)<!-- MEMES:END -->
+ - 🚖 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
+ - 🚯 [Why have you betrayed me hooman](http://9gag.com/gag/aKE7Rjj)
+ - 🚯 [Nonononoyes](http://9gag.com/gag/anz4695)<!-- MEMES:END -->
 
 --- 
 
