@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experience the Galaxy S23 before anyone else at these global locations](https://www.androidauthority.com/samsung-galaxy-s23-launch-events-3267041/)
- - [Big MacBook Pro announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)
- - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Russian attacks on Ukraine&#39;s electrical grid are straining its mobile network, leading to a global hunt for equipment like batteries to keep the system online &lpar;William Mauldin/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p20#a230116p20)
+ - [Report: Google working on an AirTag competitor, codenamed “grogu”](https://www.androidauthority.com/google-tracker-grogu-3267081/)
+ - [How to get started coding for Arduino on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-get-started-coding-for-arduino-on-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
