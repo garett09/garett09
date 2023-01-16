@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Extra sleep](http://9gag.com/gag/anz4Zq0)
- - 🚯 [Brothers reunited](http://9gag.com/gag/anz43PL)
- - 🚯 [Go woke go broke](http://9gag.com/gag/aQEdbn2)<!-- MEMES:END -->
+ - 🚖 [F**k Amazon I guess](http://9gag.com/gag/aQEdb82)
+ - 🚯 [Pinnacle of 00s man](http://9gag.com/gag/aNwgM13)
+ - 🚯 [Well that backfired](http://9gag.com/gag/aGEdvj5)<!-- MEMES:END -->
 
 --- 
 
