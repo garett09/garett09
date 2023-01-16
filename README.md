@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A messy era of gay comedies is finally paying off](https://www.polygon.com/23552517/good-gay-comedies-then-now)
- - [Awesome Games Done Quick 2023 Makes $2.6 Million For Cancer Charity](https://kotaku.com/agdq-gdq-super-mario-speedruns-charity-awesome-games-1849992141)
- - [Valheim&#39;s next biome is the land of the dead](https://www.pcgamer.com/valheims-next-biome-is-the-land-of-the-dead)<!-- GAME:END -->
+ - [Beyond Good &amp; Evil 2 Still In Development, Claims Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-release-michel-ancel-1849992412)
+ - [Stray&#39;s raising money for real stray cats](https://www.pcgamer.com/strays-raising-money-for-real-strays)
+ - [How to find the Gun Van in GTA Online](https://www.pcgamer.com/gta-online-gun-van-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
