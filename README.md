@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice egg.](http://9gag.com/gag/aEqP54N)
- - 🚯 [And done](http://9gag.com/gag/amAveL2)
- - 🚯 [Divorcustyryops](http://9gag.com/gag/avQzM2b)<!-- MEMES:END -->
+ - 🚖 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
+ - 🚯 [Woke Velma](http://9gag.com/gag/aeQDL3Q)
+ - 🚯 [Let&#39;s confuse the young ones](http://9gag.com/gag/aDY4ve9)<!-- MEMES:END -->
 
 --- 
 
