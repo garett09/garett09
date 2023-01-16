@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple honors Dr. Martin Luther King Jr. with free book, homepage tribute](https://appleinsider.com/articles/23/01/16/apple-honors-dr-martin-luther-king-jr-with-free-book-homepage-tribute?utm_medium=rss)
- - [Ant Group partners with BNPL service Splitit to let Alipay users on AliExpress in Europe pay for items in installments, starting in Germany, Spain, and France &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230116/p12#a230116p12)
- - [DaVinci Resolve Speed Editor Review: The Wheel of &lpar;Saving&rpar; Time](https://www.wired.com/review/davinci-resolve-speed-editor/)<!-- TECH:END -->
+ - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [Apple&#39;s India iPhone plan will hit China manufacturers hard](https://appleinsider.com/articles/23/01/16/apples-india-iphone-plan-will-hit-china-manufacturers-hard?utm_medium=rss)
+ - [Sources: the European Commission is preparing a statement of objections to Microsoft&#39;s $69B Activision Blizzard deal, set to be released in the coming weeks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230116/p14#a230116p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
