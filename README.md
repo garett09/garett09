@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
- - 🚯 [And done](http://9gag.com/gag/amAveL2)
- - 🚯 [Sunday riddle](http://9gag.com/gag/amAvZ84)<!-- MEMES:END -->
+ - 🚖 [Poor little prince...](http://9gag.com/gag/a04NG1v)
+ - 🚯 [The King has finally been dethroned](http://9gag.com/gag/aYVyB92)
+ - 🚯 [Staying in character](http://9gag.com/gag/ap9G7m8)<!-- MEMES:END -->
 
 --- 
 
