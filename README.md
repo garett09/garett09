@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon slashes AirPods Pro 2 to $199.99, save an extra $40 vs. Amazon](https://appleinsider.com/articles/23/01/16/verizon-slashes-airpods-pro-2-to-19999-save-an-extra-40-vs-amazon?utm_medium=rss)
- - [AI art generators targeted in lawsuit for intellectual property theft](https://appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft?utm_medium=rss)
- - [Samsung accidentally confirms One UI 5.1, which phones will get it](https://www.androidauthority.com/one-ui-5-1-3266994/)<!-- TECH:END -->
+ - [Some US universities, including Alabama&#39;s Auburn and the University of Oklahoma, are banning TikTok on their Wi-Fi networks, causing annoyance among students &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230116/p19#a230116p19)
+ - [A Galaxy S22 Ultra shot this short film from an Oscar-winning filmmaker](https://www.androidauthority.com/samsung-galaxy-s22-ultra-film-3266999/)
+ - [Big Apple announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
