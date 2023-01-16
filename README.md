@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms iPhone 14 Pro display bug, is working on a fix](https://www.androidauthority.com/apple-iphone-14-pro-display-bug-3266872/)
- - [YouTube could soon become your free cable operator](https://www.androidauthority.com/youtube-free-tv-channels-3266873/)
- - [Netflix: The 49 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 design change might finally take care of that crease](https://www.androidauthority.com/samsung-galaxy-z-fold-5-design-crease-3266882/)
+ - [How Apple&#39;s supply chain is leaving China: moving some iPad and MacBook production to Foxconn&#39;s Vietnam plants in May, more iPhone production in India, and more &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230116/p1#a230116p1)
+ - [Apple confirms iPhone 14 Pro display bug, is working on a fix](https://www.androidauthority.com/apple-iphone-14-pro-display-bug-3266872/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
