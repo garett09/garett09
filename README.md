@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How dark is it](http://9gag.com/gag/a8qGNOZ)
- - 🚯 [And done](http://9gag.com/gag/amAveL2)
- - 🚯 [My son is with a golddigger. He\u2019s a loser. Gotta be honest. I worked super hard for a good life and I just willed all my assets to be liquidated and the money will go to my nephew in Mexico. He has no idea he\u2019s my beneficiary. Leaving my sons gf a shovel with a golddigger sign](http://9gag.com/gag/aL1w7O5)<!-- MEMES:END -->
+ - 🚖 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
+ - 🚯 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
+ - 🚯 [And done](http://9gag.com/gag/amAveL2)<!-- MEMES:END -->
 
 --- 
 
