@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shiba Inu developers plan to launch Shibarium, an Ethereum Layer 2 network, in the coming weeks, focusing on the metaverse and gaming applications &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230116/p7#a230116p7)
- - [Now Xiaomi is taking away home security camera features you paid for](https://www.androidauthority.com/xiaomi-home-security-cameras-cloud-storage-3266925/)
- - [&#39;Pachinko,&#39; &#39;Black Bird&#39; win at Critics&#39; Choice Awards](https://appleinsider.com/articles/23/01/16/pachinko-black-bird-win-at-critics-choice-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: seeking to win US allies, TikTok has proposed a complex, $1.5B plan to reorganize its US operations, including oversight of its key algorithms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230116/p10#a230116p10)
+ - [Powerup 4.0 Paper Airplane Review: Level up your hobby plane](https://appleinsider.com/articles/23/01/16/powerup-40-paper-airplane-review-level-up-your-hobby-plane?utm_medium=rss)
+ - [Exynos beats the Snapdragon for ray tracing performance](https://www.androidauthority.com/smartphone-ray-tracing-benchmarks-3261541/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
