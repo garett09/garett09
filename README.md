@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: seeking to win US allies, TikTok has proposed a complex, $1.5B plan to reorganize its US operations, including oversight of its key algorithms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230116/p10#a230116p10)
- - [Powerup 4.0 Paper Airplane Review: Level up your hobby plane](https://appleinsider.com/articles/23/01/16/powerup-40-paper-airplane-review-level-up-your-hobby-plane?utm_medium=rss)
- - [Exynos beats the Snapdragon for ray tracing performance](https://www.androidauthority.com/smartphone-ray-tracing-benchmarks-3261541/)<!-- TECH:END -->
+ - [Apple honors Dr. Martin Luther King Jr. with free book, homepage tribute](https://appleinsider.com/articles/23/01/16/apple-honors-dr-martin-luther-king-jr-with-free-book-homepage-tribute?utm_medium=rss)
+ - [Ant Group partners with BNPL service Splitit to let Alipay users on AliExpress in Europe pay for items in installments, starting in Germany, Spain, and France &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230116/p12#a230116p12)
+ - [DaVinci Resolve Speed Editor Review: The Wheel of &lpar;Saving&rpar; Time](https://www.wired.com/review/davinci-resolve-speed-editor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
