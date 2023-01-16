@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Living with a lion as a pet](http://9gag.com/gag/aPg7bdg)
- - 🚯 [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)
- - 🚯 [Woke Velma](http://9gag.com/gag/aeQDL3Q)<!-- MEMES:END -->
+ - 🚖 [How dark is it](http://9gag.com/gag/a8qGNOZ)
+ - 🚯 [And done](http://9gag.com/gag/amAveL2)
+ - 🚯 [My son is with a golddigger. He\u2019s a loser. Gotta be honest. I worked super hard for a good life and I just willed all my assets to be liquidated and the money will go to my nephew in Mexico. He has no idea he\u2019s my beneficiary. Leaving my sons gf a shovel with a golddigger sign](http://9gag.com/gag/aL1w7O5)<!-- MEMES:END -->
 
 --- 
 
