@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 1 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-1-hit-hbo-max/#ftag=CAD590a51e)
  - [How to Switch From a Digital to Analog Stopwatch on iPhone](https://appleinsider.com/articles/23/01/15/how-to-switch-from-a-digital-to-analog-stopwatch-on-iphone?utm_medium=rss)
- - [AI tech like ChatGPT can be used by bad actors to lobby within democracies at incredible speed and scope, costing far less than troll farms like Russia&#39;s IRA &lpar;New York Times&rpar;](http://www.techmeme.com/230115/p9#a230115p9)
- - [Museum Asks Public to Reinvent a Classic Painting, With Wild Results     - CNET](https://www.cnet.com/culture/internet/museum-asks-public-to-reinvent-a-classic-painting-with-wild-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI tech like ChatGPT can be used by bad actors to lobby within democracies at incredible speed and scope, costing far less than troll farms like Russia&#39;s IRA &lpar;New York Times&rpar;](http://www.techmeme.com/230115/p9#a230115p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
