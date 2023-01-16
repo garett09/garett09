@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Greninja Is Coming To Pokémon Scarlet And Violet In 7-Star Raids](https://kotaku.com/pokemon-scarlet-violet-greninja-nintendo-switch-raid-1849992111)
- - [You have a higher chance of winning the silicon lottery with a Core i9 13900KF than the 13900K](https://www.pcgamer.com/you-have-a-higher-chance-of-winning-the-silicon-lottery-with-a-core-i9-13900kf-than-the-13900k)
- - [Nvidia said to be shipping newer, cheaper GPUs to partners for the RTX 40-series](https://www.pcgamer.com/nvidia-said-to-be-shipping-newer-cheaper-gpus-to-partners-for-the-rtx-40-series)<!-- GAME:END -->
+ - [A messy era of gay comedies is finally paying off](https://www.polygon.com/23552517/good-gay-comedies-then-now)
+ - [Awesome Games Done Quick 2023 Makes $2.6 Million For Cancer Charity](https://kotaku.com/agdq-gdq-super-mario-speedruns-charity-awesome-games-1849992141)
+ - [Valheim&#39;s next biome is the land of the dead](https://www.pcgamer.com/valheims-next-biome-is-the-land-of-the-dead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
