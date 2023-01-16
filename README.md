@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only true religion](http://9gag.com/gag/aDY4qbK)
- - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/az2mv5x)
- - 🚯 [The age of famous people in history during certain event is just astonishing.](http://9gag.com/gag/amAvO16)<!-- MEMES:END -->
+ - 🚖 [Sunday riddle](http://9gag.com/gag/amAvZ84)
+ - 🚯 [What?!](http://9gag.com/gag/ajV9e51)
+ - 🚯 [How dark is it](http://9gag.com/gag/a8qGNOZ)<!-- MEMES:END -->
 
 --- 
 
