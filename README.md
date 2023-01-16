@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sunday riddle](http://9gag.com/gag/amAvZ84)
- - 🚯 [What?!](http://9gag.com/gag/ajV9e51)
- - 🚯 [How dark is it](http://9gag.com/gag/a8qGNOZ)<!-- MEMES:END -->
+ - 🚖 [Nice egg.](http://9gag.com/gag/aEqP54N)
+ - 🚯 [And done](http://9gag.com/gag/amAveL2)
+ - 🚯 [Divorcustyryops](http://9gag.com/gag/avQzM2b)<!-- MEMES:END -->
 
 --- 
 
