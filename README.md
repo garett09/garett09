@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go woke go broke](http://9gag.com/gag/aQEdbn2)
- - 🚯 [Today I finished my debt, and now I own a piece of Mexico. It ain&#39;t much but it&#39;s honest work!](http://9gag.com/gag/a4o3g9Q)
- - 🚯 [Things you should learn at age of 4](http://9gag.com/gag/ap9G7KE)<!-- MEMES:END -->
+ - 🚖 [Extra sleep](http://9gag.com/gag/anz4Zq0)
+ - 🚯 [Brothers reunited](http://9gag.com/gag/anz43PL)
+ - 🚯 [Go woke go broke](http://9gag.com/gag/aQEdbn2)<!-- MEMES:END -->
 
 --- 
 
