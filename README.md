@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Apple&#39;s India iPhone plan will hit China manufacturers hard](https://appleinsider.com/articles/23/01/16/apples-india-iphone-plan-will-hit-china-manufacturers-hard?utm_medium=rss)
- - [Sources: the European Commission is preparing a statement of objections to Microsoft&#39;s $69B Activision Blizzard deal, set to be released in the coming weeks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230116/p14#a230116p14)<!-- TECH:END -->
+ - [Experts raise concerns about Germany&#39;s plan to heat homes with heat expelled by data centers as the warm air isn&#39;t hot enough for most district heating networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230116/p17#a230116p17)
+ - [Daily Deals Jan. 16: $300 off M1 MacBook Air, $199 AirPods Pro 2, 50% off an AutoSky Dash Cam &amp; more](https://appleinsider.com/articles/23/01/16/daily-deals-jan-16-300-off-m1-macbook-air-199-airpods-pro-2-50-off-an-autosky-dash-cam-more?utm_medium=rss)
+ - [The Galaxy S23 needs to better compete with the Pixel 7](https://www.androidauthority.com/galaxy-s23-compete-pixel-7-opinion-3265367/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
