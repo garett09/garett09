@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
- - 🚯 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
- - 🚯 [And done](http://9gag.com/gag/amAveL2)<!-- MEMES:END -->
+ - 🚖 [Women be like](http://9gag.com/gag/amAvE89)
+ - 🚯 [Oh that perfect jiggly jiggly](http://9gag.com/gag/aqenPbj)
+ - 🚯 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)<!-- MEMES:END -->
 
 --- 
 
