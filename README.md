@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
- - 🚯 [Ultra instinct](http://9gag.com/gag/aOx7Xqy)
- - 🚯 [Mom Parrot Plays Peekaboo with her babies](http://9gag.com/gag/a4o3vM1)<!-- MEMES:END -->
+ - 🚖 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
+ - 🚯 [And done](http://9gag.com/gag/amAveL2)
+ - 🚯 [Sunday riddle](http://9gag.com/gag/amAvZ84)<!-- MEMES:END -->
 
 --- 
 
