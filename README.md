@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some US universities, including Alabama&#39;s Auburn and the University of Oklahoma, are banning TikTok on their Wi-Fi networks, causing annoyance among students &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230116/p19#a230116p19)
- - [A Galaxy S22 Ultra shot this short film from an Oscar-winning filmmaker](https://www.androidauthority.com/samsung-galaxy-s22-ultra-film-3266999/)
- - [Big Apple announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)<!-- TECH:END -->
+ - [How many people can watch Hulu at once? Here’s the limit](https://www.androidauthority.com/how-many-people-can-watch-hulu-at-once-3266983/)
+ - [It’s way easier to make your own custom alarm sounds with the official Clock app](https://www.androidauthority.com/clock-custom-alarm-3267011/)
+ - [Save up to 43% on memory cards &amp; portable drives from SanDisk, Samsung &amp; more](https://appleinsider.com/articles/23/01/16/save-up-to-43-on-memory-cards-portable-drives-from-sandisk-samsung-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
