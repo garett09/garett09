@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are all the ways you can charge your AirPods Pro](https://www.androidauthority.com/how-to-charge-airpods-pro-3267091/)
  - [Russian attacks on Ukraine&#39;s electrical grid are straining its mobile network, leading to a global hunt for equipment like batteries to keep the system online &lpar;William Mauldin/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p20#a230116p20)
- - [Report: Google working on an AirTag competitor, codenamed “grogu”](https://www.androidauthority.com/google-tracker-grogu-3267081/)
- - [How to get started coding for Arduino on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-get-started-coding-for-arduino-on-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Google working on an AirTag competitor, codenamed “grogu”](https://www.androidauthority.com/google-tracker-grogu-3267081/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
