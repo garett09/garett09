@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)
- - 🚯 [Hmm wait a minute](http://9gag.com/gag/a7qWmEb)
- - 🚯 [Woke Velma has an 8% audience score](http://9gag.com/gag/aMEx0wx)<!-- MEMES:END -->
+ - 🚖 [When you&#39;re best friends with bad luck.](http://9gag.com/gag/aDY4qYw)
+ - 🚯 [In Red Dead Redemption 2, you can follow along the camp cook Mr. Pearson and observe him preparing the whole meal](http://9gag.com/gag/abvGLY9)
+ - 🚯 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)<!-- MEMES:END -->
 
 --- 
 
