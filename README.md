@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beyond Good &amp; Evil 2 Still In Development, Claims Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-release-michel-ancel-1849992412)
- - [Stray&#39;s raising money for real stray cats](https://www.pcgamer.com/strays-raising-money-for-real-strays)
- - [How to find the Gun Van in GTA Online](https://www.pcgamer.com/gta-online-gun-van-location)<!-- GAME:END -->
+ - [Biden wants to hold big tech accountable for the &#39;experiment they are running on our children&#39;](https://www.pcgamer.com/joe-biden-section-230-call-for-reform)
+ - [The Legend of Vox Machina is more D&amp;D than ever, and it works](https://www.polygon.com/reviews/23551992/legend-vox-machina-critical-role-season-2-review-release-date)
+ - [The Last Of Us Episode One Recap: Taking A Ride](https://kotaku.com/the-last-of-us-hbo-episode-one-recap-review-joel-ellie-1849991813)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
