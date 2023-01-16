@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An opportunity we can&#39;t afford to miss](http://9gag.com/gag/aKE7Xwg)
- - 🚯 [Never seen Gordon Ramsay laugh so nervously before](http://9gag.com/gag/aeQDy4j)
- - 🚯 [Good movies](http://9gag.com/gag/a4o3m61)<!-- MEMES:END -->
+ - 🚖 [Tobey knew what&#39;s up](http://9gag.com/gag/a1PWB3b)
+ - 🚯 [Call an ambulance..](http://9gag.com/gag/aeQDyRQ)
+ - 🚯 [An then everything change when the Master Race attack](http://9gag.com/gag/a5XW9Eq)<!-- MEMES:END -->
 
 --- 
 
