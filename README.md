@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan rock paper scissors championship](http://9gag.com/gag/ay2erBV)
- - 🚯 [Something positive for a change here](http://9gag.com/gag/aVbwr7v)
- - 🚯 [Just going to the toilet](http://9gag.com/gag/aDY492N)<!-- MEMES:END -->
+ - 🚖 [Living with a lion as a pet](http://9gag.com/gag/aPg7bdg)
+ - 🚯 [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)
+ - 🚯 [Woke Velma](http://9gag.com/gag/aeQDL3Q)<!-- MEMES:END -->
 
 --- 
 
