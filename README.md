@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us premieres today on HBO](https://blog.playstation.com/2023/01/15/the-last-of-us-premieres-today-on-hbo/)
- - [This Witcher 3 mod can help snatch valuable performance from its hungry ray tracing](https://www.pcgamer.com/this-witcher-3-mod-can-help-snatch-valuable-performance-from-its-hungry-ray-tracing)
- - [&#39;AI Art&#39; Companies &amp; DeviantArt Are Being Sued By Artists](https://kotaku.com/ai-art-stable-diffusion-midjourney-lawsuit-sued-court-1849991363)<!-- GAME:END -->
+ - [Nobody Wants To Buy The Ugly Crypto House](https://kotaku.com/crypto-house-nft-dogecoin-bitcoin-collapse-real-estate-1849991498)
+ - [Five new Steam games you probably missed &lpar;January 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-16-2023)
+ - [Well, here&#39;s Shrek in Fallout 4](https://www.pcgamer.com/well-heres-shrek-in-fallout-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
