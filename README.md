@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Biden wants to hold big tech accountable for the &#39;experiment they are running on our children&#39;](https://www.pcgamer.com/joe-biden-section-230-call-for-reform)
- - [The Legend of Vox Machina is more D&amp;D than ever, and it works](https://www.polygon.com/reviews/23551992/legend-vox-machina-critical-role-season-2-review-release-date)
- - [The Last Of Us Episode One Recap: Taking A Ride](https://kotaku.com/the-last-of-us-hbo-episode-one-recap-review-joel-ellie-1849991813)<!-- GAME:END -->
+ - [16 Of The Best Adventure Games Of The Last Decade Are Just $10](https://kotaku.com/unavowed-humble-bundle-wadjet-eye-games-shardlight-1849992868)
+ - [As D&amp;D struggles with licensing chaos, the publisher of the Alien and Blade Runner RPGs takes its shot](https://www.pcgamer.com/as-dandd-struggles-with-licensing-chaos-the-publisher-of-the-alien-and-blade-runner-rpgs-takes-its-shot)
+ - [Lemmings-like puzzler Tin Hearts marches towards full release](https://www.pcgamer.com/lemmings-like-puzzler-tin-hearts-marches-towards-full-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
