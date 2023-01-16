@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k Amazon I guess](http://9gag.com/gag/aQEdb82)
- - 🚯 [Pinnacle of 00s man](http://9gag.com/gag/aNwgM13)
- - 🚯 [Well that backfired](http://9gag.com/gag/aGEdvj5)<!-- MEMES:END -->
+ - 🚖 [Japan rock paper scissors championship](http://9gag.com/gag/ay2erBV)
+ - 🚯 [Something positive for a change here](http://9gag.com/gag/aVbwr7v)
+ - 🚯 [Just going to the toilet](http://9gag.com/gag/aDY492N)<!-- MEMES:END -->
 
 --- 
 
