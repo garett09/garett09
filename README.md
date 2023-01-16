@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts raise concerns about Germany&#39;s plan to heat homes with heat expelled by data centers as the warm air isn&#39;t hot enough for most district heating networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230116/p17#a230116p17)
- - [Daily Deals Jan. 16: $300 off M1 MacBook Air, $199 AirPods Pro 2, 50% off an AutoSky Dash Cam &amp; more](https://appleinsider.com/articles/23/01/16/daily-deals-jan-16-300-off-m1-macbook-air-199-airpods-pro-2-50-off-an-autosky-dash-cam-more?utm_medium=rss)
- - [The Galaxy S23 needs to better compete with the Pixel 7](https://www.androidauthority.com/galaxy-s23-compete-pixel-7-opinion-3265367/)<!-- TECH:END -->
+ - [Verizon slashes AirPods Pro 2 to $199.99, save an extra $40 vs. Amazon](https://appleinsider.com/articles/23/01/16/verizon-slashes-airpods-pro-2-to-19999-save-an-extra-40-vs-amazon?utm_medium=rss)
+ - [AI art generators targeted in lawsuit for intellectual property theft](https://appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft?utm_medium=rss)
+ - [Samsung accidentally confirms One UI 5.1, which phones will get it](https://www.androidauthority.com/one-ui-5-1-3266994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
