@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
- - 🚯 [Why have you betrayed me hooman](http://9gag.com/gag/aKE7Rjj)
- - 🚯 [Nonononoyes](http://9gag.com/gag/anz4695)<!-- MEMES:END -->
+ - 🚖 [We need out of the box thinking.exe](http://9gag.com/gag/a04NDXv)
+ - 🚯 [N\u00a0\u00a0](http://9gag.com/gag/aQEdDg2)
+ - 🚯 [Well, well, well, if it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aoKPGP0)<!-- MEMES:END -->
 
 --- 
 
