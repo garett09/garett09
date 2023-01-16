@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
- - 🚯 [Woke Velma](http://9gag.com/gag/aeQDL3Q)
- - 🚯 [Let&#39;s confuse the young ones](http://9gag.com/gag/aDY4ve9)<!-- MEMES:END -->
+ - 🚖 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
+ - 🚯 [Ultra instinct](http://9gag.com/gag/aOx7Xqy)
+ - 🚯 [Mom Parrot Plays Peekaboo with her babies](http://9gag.com/gag/a4o3vM1)<!-- MEMES:END -->
 
 --- 
 
