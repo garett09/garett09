@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How many people can watch Hulu at once? Here’s the limit](https://www.androidauthority.com/how-many-people-can-watch-hulu-at-once-3266983/)
- - [It’s way easier to make your own custom alarm sounds with the official Clock app](https://www.androidauthority.com/clock-custom-alarm-3267011/)
- - [Save up to 43% on memory cards &amp; portable drives from SanDisk, Samsung &amp; more](https://appleinsider.com/articles/23/01/16/save-up-to-43-on-memory-cards-portable-drives-from-sandisk-samsung-more?utm_medium=rss)<!-- TECH:END -->
+ - [Experience the Galaxy S23 before anyone else at these global locations](https://www.androidauthority.com/samsung-galaxy-s23-launch-events-3267041/)
+ - [Big MacBook Pro announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)
+ - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
