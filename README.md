@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor little prince...](http://9gag.com/gag/a04NG1v)
- - 🚯 [The King has finally been dethroned](http://9gag.com/gag/aYVyB92)
- - 🚯 [Staying in character](http://9gag.com/gag/ap9G7m8)<!-- MEMES:END -->
+ - 🚖 [Nadine hurrying over for her milk!](http://9gag.com/gag/a04NGGL)
+ - 🚯 [`He&#39;s Weird, Lets Join Him`](http://9gag.com/gag/aZDyKjz)
+ - 🚯 [Freedom](http://9gag.com/gag/aBdmME1)<!-- MEMES:END -->
 
 --- 
 
