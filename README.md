@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If Family guy was a sitcom](http://9gag.com/gag/aZD0b8n)
- - 🚯 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)
- - 🚯 [A man of culture](http://9gag.com/gag/a9qEbVL)<!-- MEMES:END -->
+ - 🚖 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
+ - 🚯 [His expression says it all](http://9gag.com/gag/aeQDvZj)
+ - 🚯 [Well... that was expected by everyone involved...](http://9gag.com/gag/aEqP9QN)<!-- MEMES:END -->
 
 --- 
 
