@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Pro Mac mini vs Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)
- - [M2 Pro Mac mini returns line to four Thunderbolt ports](https://appleinsider.com/articles/23/01/17/m2-pro-mac-mini-returns-line-to-four-thunderbolt-ports?utm_medium=rss)
- - [Apple reclaims smartphone market lead despite 17% contraction](https://appleinsider.com/articles/23/01/17/apple-reclaims-smartphone-market-lead-despite-17-contraction?utm_medium=rss)<!-- TECH:END -->
+ - [Supreme Court asks feds to weigh in on Apple patent dispute](https://appleinsider.com/articles/23/01/17/supreme-court-asks-feds-to-weigh-in-on-apple-patent-dispute?utm_medium=rss)
+ - [Apple 14- and 16-Inch MacBook Pro and Mac Mini &lpar;2023&rpar;: Specs, Release Date, Price](https://www.wired.com/story/apple-macbook-pro-14-16-inch-2023-mac-mini-m2/)
+ - [See Rihanna Strut Her Stuff in Teaser for Super Bowl Halftime Show     - CNET](https://www.cnet.com/culture/entertainment/see-rihanna-strut-her-stuff-in-teaser-for-super-bowl-halftime-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
