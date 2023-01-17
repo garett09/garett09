@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fire Emblem Engage does what so many tactics games can’t](https://www.polygon.com/reviews/23554012/fire-emblem-engage-review-divine-nintendo-switch-release-date)
  - [Blizzard is blaming NetEase for its games going offline in China next week](https://www.pcgamer.com/blizzard-is-blaming-netease-for-its-games-going-offline-in-china-next-week)
- - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
- - [Your laptop will be faster and thinner in 2024 thanks to CAMM memory](https://www.pcgamer.com/your-laptop-will-be-faster-and-thinner-in-2024-thanks-to-camm-memory)<!-- GAME:END -->
+ - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
