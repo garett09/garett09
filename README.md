@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tried to pull over the wrong one this time](http://9gag.com/gag/aA0enE2)
- - 🚯 [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)
- - 🚯 [Men and women are different](http://9gag.com/gag/aDY4E3B)<!-- MEMES:END -->
+ - 🚖 [We all know who&#39;s targeted... \ud83d\udc40](http://9gag.com/gag/aBd2R4z)
+ - 🚯 [A beverage worthy of a road trip with kids](http://9gag.com/gag/aOx3q9r)
+ - 🚯 [Oh jeez louiz](http://9gag.com/gag/amAPLX6)<!-- MEMES:END -->
 
 --- 
 
