@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Classic Retro Games You Can Play For Free](https://kotaku.com/free-retro-arcade-games-download-ps5-xbox-switch-pc-ios-1849997851)
- - [The Last of Us was HBO&#39;s second most popular series premiere in over 10 years](https://www.pcgamer.com/the-last-of-us-was-hbos-second-most-popular-series-premiere-in-over-10-years)
- - [The Best Way To Get Pokémon Scarlet And Violet’s Only Greninja](https://kotaku.com/pokemon-scarlet-violet-greninja-tera-raid-best-moves-1849997732)<!-- GAME:END -->
+ - [The Sims 4 is getting DLC undies and messy bathrooms in two new kits](https://www.pcgamer.com/the-sims-4-is-getting-dlc-undies-and-messy-bathrooms-in-two-new-kits)
+ - [Ubisoft Employees Asked To Strike Over CEO&#39;s Comments, Pay Demands](https://kotaku.com/ubisoft-strike-pay-demands-guillemot-ceo-far-cry-ac-1849998251)
+ - [More restricted military intel ends up on the War Thunder forums](https://www.pcgamer.com/more-restricted-military-intel-ends-up-on-the-war-thunder-forums)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
