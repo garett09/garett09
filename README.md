@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Nest appears to be working on AirTag-like location trackers, codenamed &quot;Grogu&quot;, with support for Bluetooth LE and UWB, possibly for launch at I/O &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230117/p12#a230117p12)
- - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)
- - [Foxconn replaces iPhone business chief in wake of factory issues](https://appleinsider.com/articles/23/01/17/foxconn-replaces-iphone-business-chief-in-wake-of-factory-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Interviews with 24+ people detail Elon Musk&#39;s destructive Twitter leadership: brutal layoffs, relaunching Blue, losing money, and breaking the company&#39;s culture &lpar;The Verge&rpar;](http://www.techmeme.com/230117/p14#a230117p14)
+ - [Amazon Fire HD 8 and 8 Plus Review &lpar;2022&rpar;: Unrivaled Value](https://www.wired.com/review/amazon-fire-hd-8-2022/)
+ - [Mental Health Apps Won’t Get You Off the Couch](https://www.wired.com/story/are-mental-health-apps-worth-trying/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
