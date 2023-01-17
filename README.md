@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)
- - 🚯 [Woke Velma](http://9gag.com/gag/aeQDL3Q)
- - 🚯 [So unnecessary](http://9gag.com/gag/aKE7bnW)<!-- MEMES:END -->
+ - 🚖 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
+ - 🚯 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)
+ - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
 
 --- 
 
