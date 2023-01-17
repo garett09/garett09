@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His expression says it all](http://9gag.com/gag/aeQDvZj)
- - 🚯 [Yeah, right](http://9gag.com/gag/ajVmrjq)
- - 🚯 [Aged like milk](http://9gag.com/gag/agoByzr)<!-- MEMES:END -->
+ - 🚖 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
+ - 🚯 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)
+ - 🚯 [Which one are you?](http://9gag.com/gag/aREXggQ)<!-- MEMES:END -->
 
 --- 
 
