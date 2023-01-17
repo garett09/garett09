@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid a wave of lawsuits claiming Tesla dangerously overhyped its self-driving software, an overview of Tesla from its erratic CEO to its erratic Autopilot AI &lpar;Christopher Cox/New York Times&rpar;](http://www.techmeme.com/230117/p33#a230117p33)
- - [Tuesday’s top tech news: An Apple &lpar;a&rpar; day](https://www.theverge.com/2023/1/17/23558537/january-17-2023-tech-news-liveblog)
- - [New podcast creation has fallen off a cliff](https://www.theverge.com/2023/1/17/23559638/new-podcasts-down-apple-spotify-amazon-audible-hot-pod-summit)<!-- TECH:END -->
+ - [Canalys: global smartphone shipments fell 17% YoY in Q4 2022, while FY 2022 shipments fell 11% YoY to fewer than 1.2B units, the lowest they&#39;ve been since 2013 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230117/p36#a230117p36)
+ - [Apple has agreed to hire a third-party firm to conduct an audit of its US labor practices, according to an investor coalition that has pushed for the assessment &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/230117/p35#a230117p35)
+ - [Galaxy S23 series could see big price hike, but don’t jump to conclusions yet](https://www.androidauthority.com/samsung-galaxy-s23-prices-3267702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
