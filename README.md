@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher: firmware for 290+ MSI motherboards has a default UEFI Secure Boot setting that lets any OS run, even those lacking a signature &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230117/p5#a230117p5)
- - [We asked, you told us: Here’s how you keep your phone in your pocket](https://www.androidauthority.com/how-keep-phone-in-pocket-poll-results-3267339/)
- - [Best Wireless Earbuds for 2023: Top Picks for Every Listener     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK amends the Online Safety Bill to make senior managers at tech companies criminally liable for failures to protect minors, following demands by Tory MPs &lpar;Charles Hymas/Telegraph&rpar;](http://www.techmeme.com/230117/p7#a230117p7)
+ - [Microsoft CEO Satya Nadella says the company plans to integrate OpenAI&#39;s tools into all of its products and make them available for other businesses to build on &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230117/p6#a230117p6)
+ - [Daily Authority: 👀 Google’s “Grogu” tracker](https://www.androidauthority.com/daily-authority-january-17-2023-3267010/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
