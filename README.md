@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
+ - 🚖 [That execution tho!](http://9gag.com/gag/aMExgwV)
  - 🚯 [Women be like](http://9gag.com/gag/amAvE89)
- - 🚯 [That execution tho!](http://9gag.com/gag/aMExgwV)<!-- MEMES:END -->
+ - 🚯 [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)<!-- MEMES:END -->
 
 --- 
 
