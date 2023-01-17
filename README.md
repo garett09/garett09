@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Seedot be shiny?](https://www.polygon.com/pokemon-go-guide/23559581/can-seedot-be-shiny-spotlight-hour-january)
- - [How Mud-Covered Oysters inspired the Indie Automation Game, Atrio: The Dark Wild](https://news.xbox.com/en-us/2023/01/17/how-mud-covered-oysters-inspired-the-indie-automation-game-atrio-the-dark-wild/)
- - [Rainbow Six Film In Works From John Wick Director And Michael B. Jordan](https://kotaku.com/rainbow-six-siege-film-john-wick-director-stahelski-1849997381)<!-- GAME:END -->
+ - [5 Classic Retro Games You Can Play For Free](https://kotaku.com/free-retro-arcade-games-download-ps5-xbox-switch-pc-ios-1849997851)
+ - [The Last of Us was HBO&#39;s second most popular series premiere in over 10 years](https://www.pcgamer.com/the-last-of-us-was-hbos-second-most-popular-series-premiere-in-over-10-years)
+ - [The Best Way To Get Pokémon Scarlet And Violet’s Only Greninja](https://kotaku.com/pokemon-scarlet-violet-greninja-tera-raid-best-moves-1849997732)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
