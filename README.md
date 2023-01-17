@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women be like](http://9gag.com/gag/amAvE89)
- - 🚯 [Whoa big lady!](http://9gag.com/gag/anz4pWz)
- - 🚯 [You need to start doing questions, dave](http://9gag.com/gag/axo9pRb)<!-- MEMES:END -->
+ - 🚖 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
+ - 🚯 [You need to start doing questions, dave](http://9gag.com/gag/axo9pRb)
+ - 🚯 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)<!-- MEMES:END -->
 
 --- 
 
