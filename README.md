@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
- - 🚯 [Well... that was expected by everyone involved...](http://9gag.com/gag/aEqP9QN)
- - 🚯 [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)<!-- MEMES:END -->
+ - 🚖 [Like pottery!](http://9gag.com/gag/a5XEedG)
+ - 🚯 [So unnecessary](http://9gag.com/gag/aKE7bnW)
+ - 🚯 [If Family guy was a sitcom](http://9gag.com/gag/aZD0b8n)<!-- MEMES:END -->
 
 --- 
 
