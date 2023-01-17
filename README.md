@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI-written &quot;fact-checked&quot; CNET article had major errors, leading CNET to add notes to almost all AI pieces saying they are being reviewed &quot;for accuracy&quot; &lpar;Jon Christian/Futurism&rpar;](http://www.techmeme.com/230117/p25#a230117p25)
- - [40% price drop on the Amazon Fire HD 8, and more tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Galaxy S10 series gets its January 2023 update, which could be its last](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)<!-- TECH:END -->
+ - [M2 Mac mini vs M1 Mac mini - compared](https://appleinsider.com/inside/mac-mini/vs/m2-mac-mini-vs-m1-mac-mini---compared?utm_medium=rss)
+ - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)
+ - [The Samsung Galaxy Watch 5 is getting a battery diagnostic tool](https://www.theverge.com/2023/1/17/23558711/samsung-galaxy-watch-5-battery-wear-os-3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
