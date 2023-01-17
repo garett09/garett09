@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone is fired](http://9gag.com/gag/aqen0zp)
- - 🚯 [Never fall asleep near friends.](http://9gag.com/gag/aA0e8jL)
- - 🚯 [Men and women are different](http://9gag.com/gag/aDY4E3B)<!-- MEMES:END -->
+ - 🚖 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
+ - 🚯 [Hadouken and bicycle kicks](http://9gag.com/gag/aVb7j62)
+ - 🚯 [Whats yours?](http://9gag.com/gag/a5XEe5G)<!-- MEMES:END -->
 
 --- 
 
