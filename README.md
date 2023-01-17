@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft is contemplating cutting roughly 5% of its workforce, or ~11,000 jobs, and could announce the layoffs in the coming days &lpar;Mark Kleinman/Sky News&rpar;](http://www.techmeme.com/230117/p31#a230117p31)
- - [Discord acquires Gas, a poll-based app with 1M+ DAUs that&#39;s popular among teens for helping them share compliments with each other &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230117/p30#a230117p30)
- - [You can now switch your Stadia controller to Bluetooth, but only until December](https://www.androidauthority.com/stadia-controller-bluetooth-2-3267607/)<!-- TECH:END -->
+ - [Amid a wave of lawsuits claiming Tesla dangerously overhyped its self-driving software, an overview of Tesla from its erratic CEO to its erratic Autopilot AI &lpar;Christopher Cox/New York Times&rpar;](http://www.techmeme.com/230117/p33#a230117p33)
+ - [Tuesday’s top tech news: An Apple &lpar;a&rpar; day](https://www.theverge.com/2023/1/17/23558537/january-17-2023-tech-news-liveblog)
+ - [New podcast creation has fallen off a cliff](https://www.theverge.com/2023/1/17/23559638/new-podcasts-down-apple-spotify-amazon-audible-hot-pod-summit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
