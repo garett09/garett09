@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
- - 🚯 [You need to start doing questions, dave](http://9gag.com/gag/axo9pRb)
- - 🚯 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)<!-- MEMES:END -->
+ - 🚖 [Women be like](http://9gag.com/gag/amAvE89)
+ - 🚯 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
+ - 🚯 [My son is with a golddigger. He\u2019s a loser. Gotta be honest. I worked super hard for a good life and I just willed all my assets to be liquidated and the money will go to my nephew in Mexico. He has no idea he\u2019s my beneficiary. Leaving my sons gf a shovel with a golddigger sign](http://9gag.com/gag/aL1w7O5)<!-- MEMES:END -->
 
 --- 
 
