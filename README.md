@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [H\u00f6rny time](http://9gag.com/gag/az2m3PN)
- - 🚯 [A solid answer](http://9gag.com/gag/aDY45XB)
+ - 🚖 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
+ - 🚯 [Women be like](http://9gag.com/gag/amAvE89)
  - 🚯 [That execution tho!](http://9gag.com/gag/aMExgwV)<!-- MEMES:END -->
 
 --- 
