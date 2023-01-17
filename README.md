@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store’s top downloads of 2022](https://blog.playstation.com/2023/01/17/playstation-stores-top-downloads-of-2022/)
- - [Getty Images files suit against one of the biggest AI art tools](https://www.pcgamer.com/getty-images-files-suit-against-one-of-the-biggest-ai-art-tools)
- - [Attack on Titan’s final season roars to life this March](https://www.polygon.com/23558561/attack-on-titan-final-season-part-3-premiere-release-date)<!-- GAME:END -->
+ - [Suicide Squad Leak Has Fans Worried About Its Online Features](https://kotaku.com/suicide-squad-battle-pass-live-service-online-leak-1849995339)
+ - [Stellaris&#39; latest DLC offers new ways to mess with pre-spaceflight societies](https://www.pcgamer.com/stellaris-latest-dlc-offers-new-ways-to-mess-with-pre-spaceflight-societies)
+ - [New Forspoken Collection revealed](https://blog.playstation.com/2023/01/17/new-forspoken-collection-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
