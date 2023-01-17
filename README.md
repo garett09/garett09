@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Titan Rune dungeons work in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-titan-rune-dungeons-wotlk)
- - [All romances you can pursue in the The Witcher 3](https://www.pcgamer.com/the-witcher-3-romances)
- - [Modders have voiced the entirety of original Final Fantasy 7](https://www.pcgamer.com/modders-have-voiced-the-entirety-of-original-final-fantasy-7)<!-- GAME:END -->
+ - [Blizzard is blaming NetEase for its games going offline in China next week](https://www.pcgamer.com/blizzard-is-blaming-netease-for-its-games-going-offline-in-china-next-week)
+ - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
+ - [Your laptop will be faster and thinner in 2024 thanks to CAMM memory](https://www.pcgamer.com/your-laptop-will-be-faster-and-thinner-in-2024-thanks-to-camm-memory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
