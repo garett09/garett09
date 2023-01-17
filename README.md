@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 Ultra&#39;s Secret Weapon Could Be This New Samsung Chip     - CNET](https://www.cnet.com/tech/mobile/the-galaxy-s23-ultras-secret-weapon-could-be-this-new-samsung-chip/#ftag=CAD590a51e)
- - [Microsoft makes Azure OpenAI Service, debuted in 2021, broadly available, giving customers access to the GPT-3.5 language model, DALL-E 2, and &quot;soon&quot; ChatGPT &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230116/p22#a230116p22)
- - [WWE Royal Rumble 2023: How to Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: activist investor Ryan Cohen has built a stake worth hundreds of millions of dollars in Alibaba and is pushing the company to accelerate stock buybacks &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p24#a230116p24)
+ - [Samsung debuts what could be the Galaxy S23 Ultra’s main camera sensor](https://www.androidauthority.com/samsung-isocell-hp2-camera-sensor-3267301/)
+ - [Wikimedia says the UK&#39;s Online Safety Bill was designed for social media and a proposed change, expected Tuesday, would limit Wikipedia&#39;s freedom of expression &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230116/p23#a230116p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
