@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomic Heart has a great aesthetic in search of a more interesting game](https://www.pcgamer.com/atomic-heart-preview)
- - [Atomic Heart is a very Russian kind of throwback](https://www.polygon.com/23553661/atomic-heart-preview-russia-mundfish-soviet-fps)
- - [Today&#39;s Wordle 577 answer and hint for Tuesday, January 17](https://www.pcgamer.com/wordle-577-answer-january-17)<!-- GAME:END -->
+ - [How Titan Rune dungeons work in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-titan-rune-dungeons-wotlk)
+ - [All romances you can pursue in the The Witcher 3](https://www.pcgamer.com/the-witcher-3-romances)
+ - [Modders have voiced the entirety of original Final Fantasy 7](https://www.pcgamer.com/modders-have-voiced-the-entirety-of-original-final-fantasy-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
