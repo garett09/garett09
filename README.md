@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best apps for a healthy pregnancy on iPhone in 2023](https://appleinsider.com/inside/iphone/best/best-apps-for-a-healthy-pregnancy-on-iphone-in-2023?utm_medium=rss)
- - [Life as a 21st-Century Trucker](https://www.wired.com/story/life-as-a-21st-century-trucker/)
- - [Crypto prices are recovering in January so far: bitcoin is up 26%, including 22% in the past week, to over $20,000, ether is up 29%, and meme coins are rising &lpar;Reuters&rpar;](http://www.techmeme.com/230117/p10#a230117p10)<!-- TECH:END -->
+ - [Google&#39;s Nest appears to be working on AirTag-like location trackers, codenamed &quot;Grogu&quot;, with support for Bluetooth LE and UWB, possibly for launch at I/O &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230117/p12#a230117p12)
+ - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)
+ - [Foxconn replaces iPhone business chief in wake of factory issues](https://appleinsider.com/articles/23/01/17/foxconn-replaces-iphone-business-chief-in-wake-of-factory-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
