@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Mac mini vs M1 Mac mini - compared](https://appleinsider.com/inside/mac-mini/vs/m2-mac-mini-vs-m1-mac-mini---compared?utm_medium=rss)
- - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)
- - [The Samsung Galaxy Watch 5 is getting a battery diagnostic tool](https://www.theverge.com/2023/1/17/23558711/samsung-galaxy-watch-5-battery-wear-os-3)<!-- TECH:END -->
+ - [M2 Pro Mac mini vs Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)
+ - [M2 Pro Mac mini returns line to four Thunderbolt ports](https://appleinsider.com/articles/23/01/17/m2-pro-mac-mini-returns-line-to-four-thunderbolt-ports?utm_medium=rss)
+ - [Apple reclaims smartphone market lead despite 17% contraction](https://appleinsider.com/articles/23/01/17/apple-reclaims-smartphone-market-lead-despite-17-contraction?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
