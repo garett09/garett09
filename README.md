@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK amends the Online Safety Bill to make senior managers at tech companies criminally liable for failures to protect minors, following demands by Tory MPs &lpar;Charles Hymas/Telegraph&rpar;](http://www.techmeme.com/230117/p7#a230117p7)
- - [Microsoft CEO Satya Nadella says the company plans to integrate OpenAI&#39;s tools into all of its products and make them available for other businesses to build on &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230117/p6#a230117p6)
- - [Daily Authority: 👀 Google’s “Grogu” tracker](https://www.androidauthority.com/daily-authority-january-17-2023-3267010/)<!-- TECH:END -->
+ - [Best apps for a healthy pregnancy on iPhone in 2023](https://appleinsider.com/inside/iphone/best/best-apps-for-a-healthy-pregnancy-on-iphone-in-2023?utm_medium=rss)
+ - [Life as a 21st-Century Trucker](https://www.wired.com/story/life-as-a-21st-century-trucker/)
+ - [Crypto prices are recovering in January so far: bitcoin is up 26%, including 22% in the past week, to over $20,000, ether is up 29%, and meme coins are rising &lpar;Reuters&rpar;](http://www.techmeme.com/230117/p10#a230117p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
