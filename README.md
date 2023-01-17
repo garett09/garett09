@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Pro is Apple&#39;s last Intel computer standing](https://appleinsider.com/articles/23/01/17/mac-pro-is-apples-last-intel-computer-standing?utm_medium=rss)
- - [Apple produced an event video for M2 Mac mini &amp; MacBook Pro](https://appleinsider.com/articles/23/01/17/apple-produced-an-event-video-for-mac-mini-macbook-pro?utm_medium=rss)
- - [Bluetti new year sale brings up to $1,400 in savings for whole-home backup solutions](https://appleinsider.com/articles/23/01/17/bluetti-new-year-sale-brings-up-to-1400-in-savings-for-whole-home-backup-solutions?utm_medium=rss)<!-- TECH:END -->
+ - [An AI-written &quot;fact-checked&quot; CNET article had major errors, leading CNET to add notes to almost all AI pieces saying they are being reviewed &quot;for accuracy&quot; &lpar;Jon Christian/Futurism&rpar;](http://www.techmeme.com/230117/p25#a230117p25)
+ - [40% price drop on the Amazon Fire HD 8, and more tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [Galaxy S10 series gets its January 2023 update, which could be its last](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
