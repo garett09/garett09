@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at official Galaxy S23 cases](https://www.androidauthority.com/samsung-galaxy-s23-cases-3267311/)
- - [Sources: activist investor Ryan Cohen has built a stake worth hundreds of millions of dollars in Alibaba and is pushing the company to accelerate stock buybacks &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p24#a230116p24)
- - [Samsung debuts what could be the Galaxy S23 Ultra’s main camera sensor](https://www.androidauthority.com/samsung-isocell-hp2-camera-sensor-3267301/)<!-- TECH:END -->
+ - [Pixel Fold dummy reveals ‘accurate’ dimensions, hinge-design, and more](https://www.androidauthority.com/google-pixel-fold-case-model-3267322/)
+ - [Samsung announces the ISOCELL HP2, a 200-megapixel, 1/1.3-inch smartphone camera sensor with pixel binning, that could debut in the upcoming Galaxy S23 Ultra &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230117/p1#a230117p1)
+ - [Here’s your first look at official Galaxy S23 cases](https://www.androidauthority.com/samsung-galaxy-s23-cases-3267311/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
