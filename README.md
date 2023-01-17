@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)
- - 🚯 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
- - 🚯 [Women be like](http://9gag.com/gag/amAvE89)<!-- MEMES:END -->
+ - 🚖 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)
+ - 🚯 [Woke Velma](http://9gag.com/gag/aeQDL3Q)
+ - 🚯 [So unnecessary](http://9gag.com/gag/aKE7bnW)<!-- MEMES:END -->
 
 --- 
 
