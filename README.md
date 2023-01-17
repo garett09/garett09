@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S23 Ultra&#39;s Secret Weapon Could Be This New Samsung Chip     - CNET](https://www.cnet.com/tech/mobile/the-galaxy-s23-ultras-secret-weapon-could-be-this-new-samsung-chip/#ftag=CAD590a51e)
  - [Microsoft makes Azure OpenAI Service, debuted in 2021, broadly available, giving customers access to the GPT-3.5 language model, DALL-E 2, and &quot;soon&quot; ChatGPT &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230116/p22#a230116p22)
- - [WWE Royal Rumble 2023: How to Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)
- - [How Duolingo Turned Me Into A Monster     - CNET](https://www.cnet.com/culture/internet/features/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WWE Royal Rumble 2023: How to Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
