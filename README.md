@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
- - 🚯 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)
- - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
+ - 🚖 [Women be like](http://9gag.com/gag/amAvE89)
+ - 🚯 [Whoa big lady!](http://9gag.com/gag/anz4pWz)
+ - 🚯 [You need to start doing questions, dave](http://9gag.com/gag/axo9pRb)<!-- MEMES:END -->
 
 --- 
 
