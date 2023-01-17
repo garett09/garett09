@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like pottery!](http://9gag.com/gag/a5XEedG)
- - 🚯 [So unnecessary](http://9gag.com/gag/aKE7bnW)
- - 🚯 [If Family guy was a sitcom](http://9gag.com/gag/aZD0b8n)<!-- MEMES:END -->
+ - 🚖 [If Family guy was a sitcom](http://9gag.com/gag/aZD0b8n)
+ - 🚯 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)
+ - 🚯 [A man of culture](http://9gag.com/gag/a9qEbVL)<!-- MEMES:END -->
 
 --- 
 
