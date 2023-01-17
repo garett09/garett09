@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)
- - [There’s little engaging about Fire Emblem Engage](https://www.theverge.com/23557639/fire-emblem-engage-nintendo-switch-review)
- - [Big Tech’s Layoffs Highlight How the US Fails Immigrant Workers](https://www.wired.com/story/big-techs-layoffs-highlight-how-the-us-fails-immigrant-workers/)<!-- TECH:END -->
+ - [Mac Pro is Apple&#39;s last Intel computer standing](https://appleinsider.com/articles/23/01/17/mac-pro-is-apples-last-intel-computer-standing?utm_medium=rss)
+ - [Google says the FEC dismissed GOP claims that Gmail was filtering campaign ad emails, after the company showed the spam filter was for &quot;commercial reasons&quot; &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230117/p21#a230117p21)
+ - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
