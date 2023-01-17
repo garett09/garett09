@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
- - 🚯 [His expression says it all](http://9gag.com/gag/aeQDvZj)
- - 🚯 [Well... that was expected by everyone involved...](http://9gag.com/gag/aEqP9QN)<!-- MEMES:END -->
+ - 🚖 [His expression says it all](http://9gag.com/gag/aeQDvZj)
+ - 🚯 [Yeah, right](http://9gag.com/gag/ajVmrjq)
+ - 🚯 [Aged like milk](http://9gag.com/gag/agoByzr)<!-- MEMES:END -->
 
 --- 
 
