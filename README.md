@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 24+ people detail Elon Musk&#39;s destructive Twitter leadership: brutal layoffs, relaunching Blue, losing money, and breaking the company&#39;s culture &lpar;The Verge&rpar;](http://www.techmeme.com/230117/p14#a230117p14)
- - [Amazon Fire HD 8 and 8 Plus Review &lpar;2022&rpar;: Unrivaled Value](https://www.wired.com/review/amazon-fire-hd-8-2022/)
- - [Mental Health Apps Won’t Get You Off the Couch](https://www.wired.com/story/are-mental-health-apps-worth-trying/)<!-- TECH:END -->
+ - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)
+ - [There’s little engaging about Fire Emblem Engage](https://www.theverge.com/23557639/fire-emblem-engage-nintendo-switch-review)
+ - [Big Tech’s Layoffs Highlight How the US Fails Immigrant Workers](https://www.wired.com/story/big-techs-layoffs-highlight-how-the-us-fails-immigrant-workers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
