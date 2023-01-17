@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This modder won&#39;t stop adding Wallace from Wallace &amp; Gromit into random games](https://www.pcgamer.com/this-modder-wont-stop-adding-wallace-from-wallace-and-gromit-into-random-games)
- - [Persona 3 Portable is messy, weird, and lovable on modern platforms](https://www.polygon.com/reviews/23557216/persona-3-portable-game-pass-steam-switch-ps4-ps5-xbox-series-x-review)
- - [Persona 4 Golden has a totally different spirit than Persona 5](https://www.polygon.com/reviews/23550304/persona-4-golden-review-steam-deck-switch-xbox-game-pass-ps4-ps5-release-date)<!-- GAME:END -->
+ - [The Nier: Automata Anime Has Secret Codes In It Because Of Course It Does](https://kotaku.com/crunchyroll-anime-nier-yoko-taro-secret-message-2b-9s-1849995964)
+ - [The Week In Games: Engaging Persona-lities](https://kotaku.com/january-game-releases-out-this-week-fire-emblem-engage-1849995477)
+ - [Forspoken&#39;s PC requirements are out and actually kinda weird](https://www.pcgamer.com/forspokens-pc-requirements-are-out-and-actually-kinda-weird)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
