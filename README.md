@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nier: Automata Anime Has Secret Codes In It Because Of Course It Does](https://kotaku.com/crunchyroll-anime-nier-yoko-taro-secret-message-2b-9s-1849995964)
- - [The Week In Games: Engaging Persona-lities](https://kotaku.com/january-game-releases-out-this-week-fire-emblem-engage-1849995477)
- - [Forspoken&#39;s PC requirements are out and actually kinda weird](https://www.pcgamer.com/forspokens-pc-requirements-are-out-and-actually-kinda-weird)<!-- GAME:END -->
+ - [Elden Ring scholar pits 50 bad dogs against the game’s roster of bosses](https://www.polygon.com/23558978/elden-ring-bjornthebear-youtube-caelid-dog-boss-fight-challenge)
+ - [The dopest rap videos directed by big-name movie directors](https://www.polygon.com/23546180/best-rap-hip-hop-music-videos-by-movie-directors)
+ - [The Sims 4 is getting new micro-content for skivvies and your privy](https://www.polygon.com/23559145/sims-4-simtimates-bathroom-clutter-kit-announcements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
