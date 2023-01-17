@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad Leak Has Fans Worried About Its Online Features](https://kotaku.com/suicide-squad-battle-pass-live-service-online-leak-1849995339)
- - [Stellaris&#39; latest DLC offers new ways to mess with pre-spaceflight societies](https://www.pcgamer.com/stellaris-latest-dlc-offers-new-ways-to-mess-with-pre-spaceflight-societies)
- - [New Forspoken Collection revealed](https://blog.playstation.com/2023/01/17/new-forspoken-collection-revealed/)<!-- GAME:END -->
+ - [This modder won&#39;t stop adding Wallace from Wallace &amp; Gromit into random games](https://www.pcgamer.com/this-modder-wont-stop-adding-wallace-from-wallace-and-gromit-into-random-games)
+ - [Persona 3 Portable is messy, weird, and lovable on modern platforms](https://www.polygon.com/reviews/23557216/persona-3-portable-game-pass-steam-switch-ps4-ps5-xbox-series-x-review)
+ - [Persona 4 Golden has a totally different spirit than Persona 5](https://www.polygon.com/reviews/23550304/persona-4-golden-review-steam-deck-switch-xbox-game-pass-ps4-ps5-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
