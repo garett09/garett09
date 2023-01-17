@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
- - 🚯 [Hadouken and bicycle kicks](http://9gag.com/gag/aVb7j62)
- - 🚯 [Whats yours?](http://9gag.com/gag/a5XEe5G)<!-- MEMES:END -->
+ - 🚖 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
+ - 🚯 [Well... that was expected by everyone involved...](http://9gag.com/gag/aEqP9QN)
+ - 🚯 [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)<!-- MEMES:END -->
 
 --- 
 
