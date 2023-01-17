@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researcher: firmware for 290+ MSI motherboards has a default UEFI Secure Boot setting that lets any OS run, even those lacking a signature &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230117/p5#a230117p5)
  - [We asked, you told us: Here’s how you keep your phone in your pocket](https://www.androidauthority.com/how-keep-phone-in-pocket-poll-results-3267339/)
- - [A look at Elon Musk&#39;s options to meet financial obligations from a $13B Twitter buyout debt; sources: the first interest installment could be due by January-end &lpar;Financial Times&rpar;](http://www.techmeme.com/230117/p4#a230117p4)
- - [Sources: Foxconn appoints Michael Chiang as the head of its iPhone assembly business, replacing longtime leader Wang Charng-yang, after a tough year in China &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230117/p3#a230117p3)<!-- TECH:END -->
+ - [Best Wireless Earbuds for 2023: Top Picks for Every Listener     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
