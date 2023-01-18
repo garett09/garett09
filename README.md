@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Micron outs 24GB and 48GB DDR5 modules but your games don&#39;t care](https://www.pcgamer.com/micron-outs-24gb-and-48gb-ddr5-modules-but-your-games-dont-care)
- - [Asus ROG Azoth](https://www.pcgamer.com/asus-rog-azoth-gaming-keyboard-review)
- - [Today&#39;s Wordle 578 answer and hint for Wednesday, January 18](https://www.pcgamer.com/wordle-578-answer-january-18)<!-- GAME:END -->
+ - [Class-action filed by artists against wave of AI image generators](https://www.pcgamer.com/class-action-filed-by-artists-against-wave-of-ai-image-generators)
+ - [How to get Sand Grease Pupa in Genshin Impact 3.4](https://www.pcgamer.com/genshin-impact-sand-grease-pupa-locations)
+ - [Guilty Gear Xrd Rev 2 is finally getting rollback netcode after six years](https://www.pcgamer.com/guilty-gear-xrd-rev-2-is-finally-getting-rollback-netcode-after-six-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
