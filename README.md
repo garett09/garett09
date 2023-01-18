@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange’s next epic role: Magical Wife Guy](https://www.polygon.com/23559602/doctor-strange-clea-new-marvel-comic)
- - [D&amp;D leadership issues a fresh apology, details next steps to update the OGL](https://www.polygon.com/23560935/dnd-dungeons-dragons-ogl-update-apology-explained)
- - [16 Of The Best Action Games You Can Play In 2023](https://kotaku.com/best-action-games-ps4-ps5-xbox-pc-switch-1850001678)<!-- GAME:END -->
+ - [Microsoft Slashes 10K Jobs, Including At Xbox And Halo Studios](https://kotaku.com/microsoft-layoff-xbox-343-halo-bethesda-coalition-1850002600)
+ - [Warzone 2 is getting its most-requested feature in Season 2, but we&#39;ll have to wait a bit longer](https://www.pcgamer.com/warzone-2-is-getting-its-most-requested-feature-in-season-2-but-well-have-to-wait-a-bit-longer)
+ - [Fortnite’s New Weekly Quest System Sucks, Even With Changes](https://kotaku.com/fortnite-weekly-quests-old-epic-patch-update-chapter-4-1850002299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
