@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canalys: global smartphone shipments fell 17% YoY in Q4 2022, while FY 2022 shipments fell 11% YoY to fewer than 1.2B units, the lowest they&#39;ve been since 2013 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230117/p36#a230117p36)
- - [Apple has agreed to hire a third-party firm to conduct an audit of its US labor practices, according to an investor coalition that has pushed for the assessment &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/230117/p35#a230117p35)
- - [Galaxy S23 series could see big price hike, but don’t jump to conclusions yet](https://www.androidauthority.com/samsung-galaxy-s23-prices-3267702/)<!-- TECH:END -->
+ - [You can finally repair your own Samsung Galaxy S22](https://www.theverge.com/2023/1/17/23558880/samsung-galaxy-s22-self-repair-diy-ifixit-expansion)
+ - [Supernova Ghosts Discovered in Most Detailed Radio Image of Milky Way     - CNET](https://www.cnet.com/science/space/supernova-ghosts-discovered-in-most-detailed-radio-image-of-milky-way/#ftag=CAD590a51e)
+ - [Nick Cave Hates ChatGPT Song Written in His Style: &#39;A Grotesque Mockery&#39;     - CNET](https://www.cnet.com/culture/entertainment/nick-cave-hates-chatgpt-song-written-in-his-style-replication-as-travesty/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
