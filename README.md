@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all know who&#39;s targeted... \ud83d\udc40](http://9gag.com/gag/aBd2R4z)
- - 🚯 [Whats yours?](http://9gag.com/gag/a5XEe5G)
- - 🚯 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)<!-- MEMES:END -->
+ - 🚖 [Lions are jus jerk sometimes](http://9gag.com/gag/aRE7Y5Q)
+ - 🚯 [Guys literally only want one thing and it&#39;s f**king disgusting](http://9gag.com/gag/aVb7Q3v)
+ - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
 
 --- 
 
