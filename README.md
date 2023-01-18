@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 🚯 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)
- - 🚯 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
+ - 🚖 [Folding a paper 11 times](http://9gag.com/gag/a6qEwzN)
+ - 🚯 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - 🚯 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
 
 --- 
 
