@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tchia will release Spring 2023 on PS4 &amp; PS5: fresh gameplay details shared](https://blog.playstation.com/2023/01/18/tchia-will-release-spring-2023-on-ps4-ps5-fresh-gameplay-details-shared/)
  - [From The Last Jedi to Glass Onion, Rian Johnson keeps murdering the past](https://www.polygon.com/23559579/rian-johnson-theme-glass-onion-star-wars-kill-the-past)
- - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)
- - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)<!-- GAME:END -->
+ - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
