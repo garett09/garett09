@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation and documents: over 600 US police entities have access, without oversight, to a database on 150M+ money transfers in the US and over 20 countries &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230118/p18#a230118p18)
- - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
- - [WaterField&#39;s Magnetic Laptop Sleeve now fits MacBook Pro](https://appleinsider.com/articles/23/01/18/waterfields-magnetic-laptop-sleeve-now-fits-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)
+ - [TikTok expands its state-controlled media label to over 40 markets globally, including the US and China, after a pilot in Russia, Ukraine, and Belarus in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230118/p23#a230118p23)
+ - [China plans to launch Strong Nation Transport, a ride-hailing app to rival Didi, initially targeting Communist party members and government employees &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230118/p22#a230118p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
