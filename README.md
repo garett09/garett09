@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to the new South Africa. Proudly brought to you by the ANC.](http://9gag.com/gag/aREXwgB)
- - 🚯 [Tried to pull over the wrong one this time](http://9gag.com/gag/aA0enE2)
- - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
+ - 🚖 [Tried to pull over the wrong one this time](http://9gag.com/gag/aA0enE2)
+ - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
+ - 🚯 [Mission accomplished](http://9gag.com/gag/armMv4X)<!-- MEMES:END -->
 
 --- 
 
