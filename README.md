@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Genesis creditors are negotiating a bankruptcy plan with the firm and would agree to a forbearance period in exchange for cash payments and DCG equity &lpar;The Block&rpar;](http://www.techmeme.com/230118/p28#a230118p28)
- - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [Apple seeds Release Candidate betas for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/18/apple-seeds-release-candidate-betas-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch, Siri, Muay Thai combo ends in accidental police raid](https://appleinsider.com/articles/23/01/18/apple-watch-siri-muay-thai-combo-ends-in-accidental-police-raid?utm_medium=rss)
+ - [Three Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)
+ - [CES Hands On: The best smart home gear coming in 2023](https://appleinsider.com/articles/23/01/18/ces-hands-on-the-best-smart-home-gear-coming-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
