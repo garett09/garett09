@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech MX Keys Review: Smart choice for multi-device users](https://appleinsider.com/articles/23/01/18/logitech-mx-keys-review-smart-choice-for-multi-device-users?utm_medium=rss)
- - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Twitter&#39;s Q4 2022 revenue fell ~35% YoY to $1.025B, 72% of its internal goal for Q4; it hopes to generate $732M in Q1 2023, which would be down 39% YoY &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230118/p27#a230118p27)
+ - [Google Podcasts has stopped appearing in Search results](https://www.androidauthority.com/google-podcasts-search-2-3268992/)
+ - [Apple Card is a drag on Goldman Sachs, says CEO](https://appleinsider.com/articles/23/01/18/apple-card-is-a-drag-on-goldman-sachs-says-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
