@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Slashes 10K Jobs, Including At Xbox And Halo Studios](https://kotaku.com/microsoft-layoff-xbox-343-halo-bethesda-coalition-1850002600)
- - [Warzone 2 is getting its most-requested feature in Season 2, but we&#39;ll have to wait a bit longer](https://www.pcgamer.com/warzone-2-is-getting-its-most-requested-feature-in-season-2-but-well-have-to-wait-a-bit-longer)
- - [Fortnite’s New Weekly Quest System Sucks, Even With Changes](https://kotaku.com/fortnite-weekly-quests-old-epic-patch-update-chapter-4-1850002299)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare 2 and Warzone 2.0 season 2 have been delayed a few weeks](https://www.polygon.com/call-of-duty/23560985/call-of-duty-modern-warfare-2-warzone-2-0-season-2-patch-update-release-date)
+ - [Microsoft mass layoffs reportedly impact Bethesda, Halo Infinite teams](https://www.polygon.com/23561210/microsoft-layoffs-xbox-bethesda-halo-infinite-343-industries)
+ - [Funko Pop is getting a Dungeons and Dragons line](https://www.polygon.com/23547209/dnd-dungeons-dragons-movie-funko-pop-honor-among-thieves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
