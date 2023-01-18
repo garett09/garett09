@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Apple shifts from China, experts worry India will struggle with iPhone production due to supply chain issues, labor woes, a lack of automation, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230118/p8#a230118p8)
- - [We asked, you told us: A ton of you have a Chromecast with Google TV](https://www.androidauthority.com/own-chromecast-google-tv-poll-results-3267887/)
- - [Samsung Galaxy S23, S23 Plus, and S23 Ultra specs allegedly leak, showing 6.1, 6.6, and 6.8-inch screens, Snapdragon 8 Gen 2, the Ultra&#39;s 200MP sensor, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230118/p7#a230118p7)<!-- TECH:END -->
+ - [Apple focusing on mixed-reality headset, high-end shelved for now](https://appleinsider.com/articles/23/01/18/apple-focuses-on-mixed-reality-headset-as-apple-glass-stays-shelved?utm_medium=rss)
+ - [Twitter begins offering an annual Blue plan for $84 on the web, saving around 12% for a monthly web subscription and 36% for an iOS subscription &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230118/p11#a230118p11)
+ - [Metaverse Landlords Are Creating a New Class System](https://www.wired.com/story/63bea1b42ccafaf71be68f2d/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
