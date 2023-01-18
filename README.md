@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys literally only want one thing and it&#39;s f**king disgusting](http://9gag.com/gag/aVb7Q3v)
- - 🚯 [It&#39;s not everyday you get to see stuff like this](http://9gag.com/gag/aeQA3Pq)
- - 🚯 [I wonder how common that is in companies \ud83c\udff4\u2620\ufe0f](http://9gag.com/gag/abvVqRL)<!-- MEMES:END -->
+ - 🚖 [We all know who&#39;s targeted... \ud83d\udc40](http://9gag.com/gag/aBd2R4z)
+ - 🚯 [Whats yours?](http://9gag.com/gag/a5XEe5G)
+ - 🚯 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)<!-- MEMES:END -->
 
 --- 
 
