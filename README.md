@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reveals new Macs, including a $600 Mac Mini](https://www.androidauthority.com/apple-m2-pro-max-macbook-pro-mac-mini-3267804/)
- - [A profile of DCG CEO Barry Silbert, a finance veteran who built a crypto conglomerate and is now fighting to keep DCG&#39;s brokerage firm Genesis out of bankruptcy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230118/p2#a230118p2)
- - [Best Prepaid Phones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple won the battle, but Samsung won the war in 2022](https://www.androidauthority.com/canalys-q4-2022-smartphone-market-share-3267830/)
+ - [Enterprise AI startup Mad Street Den, which provides image and video recognition to the retail sector, raised a $30M Series C led by Avatar Growth Capital &lpar;Malvika Maloo/VCCircle&rpar;](http://www.techmeme.com/230118/p3#a230118p3)
+ - [Apple reveals new Macs, including a $600 Mac Mini](https://www.androidauthority.com/apple-m2-pro-max-macbook-pro-mac-mini-3267804/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
