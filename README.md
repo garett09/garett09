@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This scene still haunts me](http://9gag.com/gag/aEqPe3G)
- - 🚯 [The husband of this woman is sticking with her even after she made a mockery of his existence. Lmfao](http://9gag.com/gag/axo9Xo2)
- - 🚯 [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)<!-- MEMES:END -->
+ - 🚖 [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
+ - 🚯 [Oh jeez louiz](http://9gag.com/gag/amAPLX6)
+ - 🚯 [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)<!-- MEMES:END -->
 
 --- 
 
