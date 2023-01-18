@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 🚯 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
- - 🚯 [Accountability is cryptonite](http://9gag.com/gag/aNwpZ1w)<!-- MEMES:END -->
+ - 🚖 [Like pottery!](http://9gag.com/gag/a5XEedG)
+ - 🚯 [If only they could touch them](http://9gag.com/gag/aWGjWrx)
+ - 🚯 [I live in a third world country and would like to move, but I think about this a lot. Is EU/Aus/NZ really all sunshine and roses?](http://9gag.com/gag/aOx3bMD)<!-- MEMES:END -->
 
 --- 
 
