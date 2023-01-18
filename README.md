@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch, Siri, Muay Thai combo ends in accidental police raid](https://appleinsider.com/articles/23/01/18/apple-watch-siri-muay-thai-combo-ends-in-accidental-police-raid?utm_medium=rss)
- - [Three Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)
- - [CES Hands On: The best smart home gear coming in 2023](https://appleinsider.com/articles/23/01/18/ces-hands-on-the-best-smart-home-gear-coming-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods, AirPods Pro, AirPods Max get new firmware update](https://appleinsider.com/articles/23/01/18/airpods-airpods-pro-airpods-max-get-new-firmware-update?utm_medium=rss)
+ - [Cloudian, a hybrid cloud data management and storage tech vendor, raised $60M from Digital Alpha, Intel Capital, and others, bringing its total funding to $233M &lpar;Joseph F. Kovar/CRN&rpar;](http://www.techmeme.com/230118/p31#a230118p31)
+ - [Here’s how to preorder Apple’s new HomePod](https://www.theverge.com/23560885/apple-homepod-second-gen-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
