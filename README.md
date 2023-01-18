@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)
- - 🚯 [&gt;&gt;&gt;&gt;&gt;&gt;.....&lt;&lt;&lt;&lt;&lt;&lt;](http://9gag.com/gag/a8qEjQe)
- - 🚯 [He can be sweet sometimes](http://9gag.com/gag/aL1pPwg)<!-- MEMES:END -->
+ - 🚖 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
+ - 🚯 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - 🚯 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
 
 --- 
 
