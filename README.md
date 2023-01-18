@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple focusing on mixed-reality headset, high-end shelved for now](https://appleinsider.com/articles/23/01/18/apple-focuses-on-mixed-reality-headset-as-apple-glass-stays-shelved?utm_medium=rss)
- - [Twitter begins offering an annual Blue plan for $84 on the web, saving around 12% for a monthly web subscription and 36% for an iOS subscription &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230118/p11#a230118p11)
- - [Metaverse Landlords Are Creating a New Class System](https://www.wired.com/story/63bea1b42ccafaf71be68f2d/)<!-- TECH:END -->
+ - [The UK&#39;s Online Safety Bill has become complex and confusing, things it sought to avoid, leaving social media companies grappling with implementing the rules &lpar;Helen Thomas/Financial Times&rpar;](http://www.techmeme.com/230118/p14#a230118p14)
+ - [Poll: Do you want better performance or longer battery life in 2023?](https://www.androidauthority.com/better-performance-longer-battery-life-smartphones-2023-3267908/)
+ - [Best safety apps for college students for iPhone](https://appleinsider.com/inside/iphone/best/best-safety-apps-for-college-students-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
