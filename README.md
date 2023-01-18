@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
- - 🚯 [Mission accomplished](http://9gag.com/gag/armMv4X)
- - 🚯 [His expression says it all](http://9gag.com/gag/aeQDvZj)<!-- MEMES:END -->
+ - 🚖 [Welcome to the new South Africa. Proudly brought to you by the ANC.](http://9gag.com/gag/aREXwgB)
+ - 🚯 [Tried to pull over the wrong one this time](http://9gag.com/gag/aA0enE2)
+ - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
 
 --- 
 
