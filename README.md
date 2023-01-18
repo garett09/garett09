@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 is getting DLC undies and messy bathrooms in two new kits](https://www.pcgamer.com/the-sims-4-is-getting-dlc-undies-and-messy-bathrooms-in-two-new-kits)
- - [Ubisoft Employees Asked To Strike Over CEO&#39;s Comments, Pay Demands](https://kotaku.com/ubisoft-strike-pay-demands-guillemot-ceo-far-cry-ac-1849998251)
- - [More restricted military intel ends up on the War Thunder forums](https://www.pcgamer.com/more-restricted-military-intel-ends-up-on-the-war-thunder-forums)<!-- GAME:END -->
+ - [Dead Stadia Game Lives On Through Sneaky Steam Update](https://kotaku.com/google-stadia-dead-game-preservation-gunsport-pc-steam-1849999089)
+ - [MSI MAG Z790 Tomahawk WiFi](https://www.pcgamer.com/msi-mag-z790-tomahawk-wifi)
+ - [Games Under 20 promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/17/games-under-20-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
