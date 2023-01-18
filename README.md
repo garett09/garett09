@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)
- - [TikTok expands its state-controlled media label to over 40 markets globally, including the US and China, after a pilot in Russia, Ukraine, and Belarus in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230118/p23#a230118p23)
- - [China plans to launch Strong Nation Transport, a ride-hailing app to rival Didi, initially targeting Communist party members and government employees &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230118/p22#a230118p22)<!-- TECH:END -->
+ - [Logitech MX Keys Review: Smart choice for multi-device users](https://appleinsider.com/articles/23/01/18/logitech-mx-keys-review-smart-choice-for-multi-device-users?utm_medium=rss)
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
