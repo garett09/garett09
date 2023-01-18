@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tchia will release Spring 2023 on PS4 &amp; PS5: fresh gameplay details shared](https://blog.playstation.com/2023/01/18/tchia-will-release-spring-2023-on-ps4-ps5-fresh-gameplay-details-shared/)
- - [From The Last Jedi to Glass Onion, Rian Johnson keeps murdering the past](https://www.polygon.com/23559579/rian-johnson-theme-glass-onion-star-wars-kill-the-past)
- - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)<!-- GAME:END -->
+ - [Returnal launches on PC February 15](https://blog.playstation.com/2023/01/18/returnal-launches-on-pc-february-15/)
+ - [Returnal launches on PC February 15](https://blog.playstation.com/2023/01/18/returnal-launches-on-pc-february-15/)
+ - [HBO’s Last of Us opening twist improves on the game, but only a little bit](https://www.polygon.com/23553817/last-us-episode-1-prologue-sarah-death)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
