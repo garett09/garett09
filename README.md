@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s Online Safety Bill has become complex and confusing, things it sought to avoid, leaving social media companies grappling with implementing the rules &lpar;Helen Thomas/Financial Times&rpar;](http://www.techmeme.com/230118/p14#a230118p14)
- - [Poll: Do you want better performance or longer battery life in 2023?](https://www.androidauthority.com/better-performance-longer-battery-life-smartphones-2023-3267908/)
- - [Best safety apps for college students for iPhone](https://appleinsider.com/inside/iphone/best/best-safety-apps-for-college-students-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple announces an updated HomePod, featuring a similar design to the original device from 2018, available for order for $299, shipping February 3 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230118/p15#a230118p15)
+ - [What It Takes to Build a Game in a War Zone](https://www.wired.com/story/ukraine-stalker-2-gsc-game-world-development-war/)
+ - [Apple may never be able to quit manufacturing in China](https://appleinsider.com/articles/23/01/18/apple-may-never-be-able-to-quit-manufacturing-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
