@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter&#39;s Q4 2022 revenue fell ~35% YoY to $1.025B, 72% of its internal goal for Q4; it hopes to generate $732M in Q1 2023, which would be down 39% YoY &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230118/p27#a230118p27)
- - [Google Podcasts has stopped appearing in Search results](https://www.androidauthority.com/google-podcasts-search-2-3268992/)
- - [Apple Card is a drag on Goldman Sachs, says CEO](https://appleinsider.com/articles/23/01/18/apple-card-is-a-drag-on-goldman-sachs-says-ceo?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Genesis creditors are negotiating a bankruptcy plan with the firm and would agree to a forbearance period in exchange for cash payments and DCG equity &lpar;The Block&rpar;](http://www.techmeme.com/230118/p28#a230118p28)
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [Apple seeds Release Candidate betas for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/18/apple-seeds-release-candidate-betas-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
