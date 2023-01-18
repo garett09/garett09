@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
- - 🚯 [Oh jeez louiz](http://9gag.com/gag/amAPLX6)
- - 🚯 [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)<!-- MEMES:END -->
+ - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
+ - 🚯 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
+ - 🚯 [Accountability is cryptonite](http://9gag.com/gag/aNwpZ1w)<!-- MEMES:END -->
 
 --- 
 
