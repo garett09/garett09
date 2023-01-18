@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
- - 🚯 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 🚖 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
+ - 🚯 [Accountability is cryptonite](http://9gag.com/gag/aNwpZ1w)
+ - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
 
 --- 
 
