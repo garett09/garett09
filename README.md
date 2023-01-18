@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like pottery!](http://9gag.com/gag/a5XEedG)
- - 🚯 [If only they could touch them](http://9gag.com/gag/aWGjWrx)
- - 🚯 [I live in a third world country and would like to move, but I think about this a lot. Is EU/Aus/NZ really all sunshine and roses?](http://9gag.com/gag/aOx3bMD)<!-- MEMES:END -->
+ - 🚖 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - 🚯 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
+ - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
 
 --- 
 
