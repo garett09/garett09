@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare 2 and Warzone 2.0 season 2 have been delayed a few weeks](https://www.polygon.com/call-of-duty/23560985/call-of-duty-modern-warfare-2-warzone-2-0-season-2-patch-update-release-date)
- - [Microsoft mass layoffs reportedly impact Bethesda, Halo Infinite teams](https://www.polygon.com/23561210/microsoft-layoffs-xbox-bethesda-halo-infinite-343-industries)
- - [Funko Pop is getting a Dungeons and Dragons line](https://www.polygon.com/23547209/dnd-dungeons-dragons-movie-funko-pop-honor-among-thieves)<!-- GAME:END -->
+ - [Comixology hit hard by Amazon’s massive layoffs](https://www.polygon.com/23561212/comixology-amazon-mass-layoff-2023)
+ - [The Pokémon Tier List Everyone Is Waiting On For Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-paradox-smogon-tier-rankings-1850003381)
+ - [Hello Tomorrow! has a big-time ‘Elon Musk in Fallout’ vibe](https://www.polygon.com/23561299/hello-tomorrow-trailer-apple-release-february-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
