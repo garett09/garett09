@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on an iPad-based smart display with smart home controls, video, and FaceTime and on a new Apple TV for H1 2024 with a faster processor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230118/p33#a230118p33)
- - [5 Best Sex Tech Deals From Lelo’s Anniversary Sale: Vibrators, Lube, Condoms](https://www.wired.com/story/lelo-anniversary-sale-january-2023/)
- - [AirPods, AirPods Pro, AirPods Max get new firmware update](https://appleinsider.com/articles/23/01/18/airpods-airpods-pro-airpods-max-get-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Testing HomePod mini&#39;s new 16.3 smart home features](https://appleinsider.com/articles/23/01/18/testing-homepod-minis-new-163-smart-home-features?utm_medium=rss)
+ - [Apple is reportedly working on an iPad-like smart display](https://www.theverge.com/2023/1/18/23561455/apple-smart-display-ipad-tv-home-controller)
+ - [&#39;Ted Lasso&#39; returns to Apple TV+ in spring 2023](https://appleinsider.com/articles/23/01/18/ted-lasso-returns-to-apple-tv-in-spring-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
