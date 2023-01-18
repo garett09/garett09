@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all know who&#39;s targeted... \ud83d\udc40](http://9gag.com/gag/aBd2R4z)
- - 🚯 [A beverage worthy of a road trip with kids](http://9gag.com/gag/aOx3q9r)
- - 🚯 [Oh jeez louiz](http://9gag.com/gag/amAPLX6)<!-- MEMES:END -->
+ - 🚖 [Guys literally only want one thing and it&#39;s f**king disgusting](http://9gag.com/gag/aVb7Q3v)
+ - 🚯 [It&#39;s not everyday you get to see stuff like this](http://9gag.com/gag/aeQA3Pq)
+ - 🚯 [I wonder how common that is in companies \ud83c\udff4\u2620\ufe0f](http://9gag.com/gag/abvVqRL)<!-- MEMES:END -->
 
 --- 
 
