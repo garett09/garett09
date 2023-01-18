@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)
- - [Netflix announces every new movie coming to the service in 2023](https://www.polygon.com/23559113/new-netflix-movies-2023-releases)
- - [You can pick up the Command &amp; Conquer Remaster for a ridiculously low price right now](https://www.pcgamer.com/you-can-pick-up-the-command-and-conquer-remaster-for-a-ridiculously-low-price-right-now)<!-- GAME:END -->
+ - [From The Last Jedi to Glass Onion, Rian Johnson keeps murdering the past](https://www.polygon.com/23559579/rian-johnson-theme-glass-onion-star-wars-kill-the-past)
+ - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)
+ - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
