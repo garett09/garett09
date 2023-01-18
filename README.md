@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Class-action filed by artists against wave of AI image generators](https://www.pcgamer.com/class-action-filed-by-artists-against-wave-of-ai-image-generators)
- - [How to get Sand Grease Pupa in Genshin Impact 3.4](https://www.pcgamer.com/genshin-impact-sand-grease-pupa-locations)
- - [Guilty Gear Xrd Rev 2 is finally getting rollback netcode after six years](https://www.pcgamer.com/guilty-gear-xrd-rev-2-is-finally-getting-rollback-netcode-after-six-years)<!-- GAME:END -->
+ - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)
+ - [Netflix announces every new movie coming to the service in 2023](https://www.polygon.com/23559113/new-netflix-movies-2023-releases)
+ - [You can pick up the Command &amp; Conquer Remaster for a ridiculously low price right now](https://www.pcgamer.com/you-can-pick-up-the-command-and-conquer-remaster-for-a-ridiculously-low-price-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
