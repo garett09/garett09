@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lions are jus jerk sometimes](http://9gag.com/gag/aRE7Y5Q)
- - 🚯 [Guys literally only want one thing and it&#39;s f**king disgusting](http://9gag.com/gag/aVb7Q3v)
- - 🚯 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)<!-- MEMES:END -->
+ - 🚖 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
+ - 🚯 [Mission accomplished](http://9gag.com/gag/armMv4X)
+ - 🚯 [His expression says it all](http://9gag.com/gag/aeQDvZj)<!-- MEMES:END -->
 
 --- 
 
