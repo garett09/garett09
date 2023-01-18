@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He can be sweet sometimes](http://9gag.com/gag/aL1pPwg)
- - 🚯 [Monty python is a national treasure](http://9gag.com/gag/a047YmQ)
- - 🚯 [Twinkle Toes!](http://9gag.com/gag/aEqp7oe)<!-- MEMES:END -->
+ - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
+ - 🚯 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)
+ - 🚯 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
 
 --- 
 
