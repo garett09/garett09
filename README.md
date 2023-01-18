@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Returnal launches on PC February 15](https://blog.playstation.com/2023/01/18/returnal-launches-on-pc-february-15/)
- - [Returnal launches on PC February 15](https://blog.playstation.com/2023/01/18/returnal-launches-on-pc-february-15/)
- - [HBO’s Last of Us opening twist improves on the game, but only a little bit](https://www.polygon.com/23553817/last-us-episode-1-prologue-sarah-death)<!-- GAME:END -->
+ - [Jett: The Far Shore’s new campaign, Given Time, available for free on January 31](https://blog.playstation.com/2023/01/18/jett-the-far-shores-new-campaign-given-time-available-for-free-on-january-31/)
+ - [No Zelda game is closer to Breath of the Wild than the 1986 original](https://www.polygon.com/zelda/23559119/legend-of-zelda-breath-of-the-wild-review-nintendo-switch)
+ - [Overwatch 2’s Year Of The Rabbit Event Is Already Disappointing Fans](https://kotaku.com/overwatch-2-ow-ramattra-biohazard-year-of-the-rabbit-1850001153)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
