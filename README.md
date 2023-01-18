@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally repair your own Samsung Galaxy S22](https://www.theverge.com/2023/1/17/23558880/samsung-galaxy-s22-self-repair-diy-ifixit-expansion)
- - [Supernova Ghosts Discovered in Most Detailed Radio Image of Milky Way     - CNET](https://www.cnet.com/science/space/supernova-ghosts-discovered-in-most-detailed-radio-image-of-milky-way/#ftag=CAD590a51e)
- - [Nick Cave Hates ChatGPT Song Written in His Style: &#39;A Grotesque Mockery&#39;     - CNET](https://www.cnet.com/culture/entertainment/nick-cave-hates-chatgpt-song-written-in-his-style-replication-as-travesty/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [By suing Genesis and Gemini over Gemini Earn in 2023, the SEC is years late to addressing the crypto lending product, which was marketed like a security &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230117/p39#a230117p39)
+ - [Bored Ape Yacht Club Is Trying to Revive NFTs With Atomic Poop     - CNET](https://www.cnet.com/culture/bored-ape-yacht-club-is-trying-to-revive-nfts-with-atomic-poop/#ftag=CAD590a51e)
+ - [&#39;Jung_E&#39; on Netflix: A Beautifully Heartrending Sci-Fi Thriller     - CNET](https://www.cnet.com/culture/entertainment/jung-e-on-netflix-a-beautifully-heartrending-sci-fi-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
