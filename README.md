@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Comixology hit hard by Amazon’s massive layoffs](https://www.polygon.com/23561212/comixology-amazon-mass-layoff-2023)
- - [The Pokémon Tier List Everyone Is Waiting On For Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-paradox-smogon-tier-rankings-1850003381)
- - [Hello Tomorrow! has a big-time ‘Elon Musk in Fallout’ vibe](https://www.polygon.com/23561299/hello-tomorrow-trailer-apple-release-february-2023)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons Owners &#39;Sorry&#39; After Week Of Very Bad Press](https://kotaku.com/d-d-ogl-dungeons-dragons-wizards-coast-wotc-apology-1850003674)
+ - [Returnal comes to PC in February, drops 32GB &#39;recommended&#39; RAM requirement](https://www.pcgamer.com/returnal-pc-release-date)
+ - [6 Years Later, Popular Guilty Gear Game Finally Gets Smooth Online Gameplay](https://kotaku.com/guilty-gear-xrd-rev-2-rollback-online-netcode-steam-pc-1850003545)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
