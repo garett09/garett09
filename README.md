@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stadia exclusive saved by sneaking it into the Steam version of its sequel](https://www.polygon.com/23560661/google-stadia-shut-down-hypert-gunsport-steam)
- - [Ubisoft Devs Grill Boss On Shifting Blame And Chasing Trends](https://kotaku.com/ubisoft-assassin-s-creed-mirage-far-cry-delay-canceled-1850001343)
- - [Coffee Talk Episode 2 has immaculate vibes, coffee, talk, and releases 4/20 if you know what I mean](https://www.pcgamer.com/coffee-talk-episode-2-has-immaculate-vibes-coffee-talk-and-releases-420-if-you-know-what-i-mean)<!-- GAME:END -->
+ - [Doctor Strange’s next epic role: Magical Wife Guy](https://www.polygon.com/23559602/doctor-strange-clea-new-marvel-comic)
+ - [D&amp;D leadership issues a fresh apology, details next steps to update the OGL](https://www.polygon.com/23560935/dnd-dungeons-dragons-ogl-update-apology-explained)
+ - [16 Of The Best Action Games You Can Play In 2023](https://kotaku.com/best-action-games-ps4-ps5-xbox-pc-switch-1850001678)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
