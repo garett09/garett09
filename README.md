@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
- - 🚯 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
- - 🚯 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
+ - 🚖 [He can be sweet sometimes](http://9gag.com/gag/aL1pPwg)
+ - 🚯 [Monty python is a national treasure](http://9gag.com/gag/a047YmQ)
+ - 🚯 [Twinkle Toes!](http://9gag.com/gag/aEqp7oe)<!-- MEMES:END -->
 
 --- 
 
