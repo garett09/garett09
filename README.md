@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces an updated HomePod, featuring a similar design to the original device from 2018, available for order for $299, shipping February 3 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230118/p15#a230118p15)
- - [What It Takes to Build a Game in a War Zone](https://www.wired.com/story/ukraine-stalker-2-gsc-game-world-development-war/)
- - [Apple may never be able to quit manufacturing in China](https://appleinsider.com/articles/23/01/18/apple-may-never-be-able-to-quit-manufacturing-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [Investigation and documents: over 600 US police entities have access, without oversight, to a database on 150M+ money transfers in the US and over 20 countries &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230118/p18#a230118p18)
+ - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
+ - [WaterField&#39;s Magnetic Laptop Sleeve now fits MacBook Pro](https://appleinsider.com/articles/23/01/18/waterfields-magnetic-laptop-sleeve-now-fits-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
