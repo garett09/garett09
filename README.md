@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [National geographic guys thought that the bear was hibernating, Turns out that they were wrong](http://9gag.com/gag/avQ5noM)
- - 🚯 [A father with 84 kids laugh hysterically at interviewer for only having one wife](http://9gag.com/gag/a8qE4eY)
- - 🚯 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)<!-- MEMES:END -->
+ - 🚖 [Audrey plaza is the best](http://9gag.com/gag/aDYdGZ9)
+ - 🚯 [They were made for each other](http://9gag.com/gag/a1PrdoD)
+ - 🚯 [I must say I am impressed](http://9gag.com/gag/armMO5K)<!-- MEMES:END -->
 
 --- 
 
