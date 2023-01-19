@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: ransomware attackers received at least ~$457M in 2022, a low estimate, down from ~$766M in 2020 and 2021, as victims increasingly refuse to pay &lpar;Chainalysis&rpar;](http://www.techmeme.com/230119/p15#a230119p15)
- - [Element Case Special Ops Apple Watch band review: For those who like to play rough](https://appleinsider.com/articles/23/01/19/element-case-special-ops-apple-watch-band-review-for-those-who-like-to-play-rough?utm_medium=rss)
- - [Twitter’s ‘Vox Populi’ Is a Lie](https://www.wired.com/story/twitter-digital-governance-elon-musk-polls/)<!-- TECH:END -->
+ - [Steam Deck review, after one year, 435 hours playing games, and 100+ updates: Valve has fixed many issues, making play smooth and the device a compelling buy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230119/p19#a230119p19)
+ - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
+ - [8 Best Travel Bags &lpar;2023&rpar;: Carry-On Luggage, Duffel, Budget](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
