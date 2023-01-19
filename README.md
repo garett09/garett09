@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
- - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
- - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 🚖 [Where is my baby](http://9gag.com/gag/a4oEZmA)
+ - 🚯 [Nobody tested the playground equipment when I was a kid.. That&#39;s why old folks are missing limbs and having scars since childhood](http://9gag.com/gag/a1PrK9w)
+ - 🚯 [And gold teeth](http://9gag.com/gag/aA0bDz2)<!-- MEMES:END -->
 
 --- 
 
