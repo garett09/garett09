@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinDesk retains investment bankers at Lazard to help the outlet explore options including a partial or full sale after &quot;numerous&quot; indications of interest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p5#a230119p5)
- - [Analysis: Series B valuations fell 50% from a $250M median in Q1 2022 to a $125M median in Q4 2022; Q4 2022&#39;s VC activity by volume resembled that of Q2 2020 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230119/p4#a230119p4)
- - [Apple is working on an iPad-based stay-at-home Pixel Tablet rival: Report](https://www.androidauthority.com/apple-ipad-smart-display-3269353/)<!-- TECH:END -->
+ - [Wikimedia launches an updated Wikipedia design, including improved search and accessibility, a refreshed table of contents, and easier language switching &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230119/p9#a230119p9)
+ - [Crypto exchange OKX reports $7.5B in reserves excluding its token; CryptoQuant rates OKX as 100% &quot;clean&quot;, not relying on its native token, while Binance is 87% &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230119/p8#a230119p8)
+ - [National Australia Bank creates the AUDN stablecoin, the second major Australian bank after ANZ&#39;s A$DC, letting customers settle transactions on the blockchain &lpar;James Eyers/Australian Financial Review&rpar;](http://www.techmeme.com/230119/p7#a230119p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
