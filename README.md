@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Testing HomePod mini&#39;s new 16.3 smart home features](https://appleinsider.com/articles/23/01/18/testing-homepod-minis-new-163-smart-home-features?utm_medium=rss)
- - [Apple is reportedly working on an iPad-like smart display](https://www.theverge.com/2023/1/18/23561455/apple-smart-display-ipad-tv-home-controller)
- - [&#39;Ted Lasso&#39; returns to Apple TV+ in spring 2023](https://appleinsider.com/articles/23/01/18/ted-lasso-returns-to-apple-tv-in-spring-2023?utm_medium=rss)<!-- TECH:END -->
+ - [A Damning US Report Lays Bare Amazon’s Worker Injury Crisis](https://www.wired.com/story/a-damning-us-report-lays-bare-amazons-worker-injury-crisis/)
+ - [Apple announces premiere dates for more Apple TV+ shows](https://appleinsider.com/articles/23/01/19/apple-announces-premiere-dates-for-more-apple-tv-shows?utm_medium=rss)
+ - [Five Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
