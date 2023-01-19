@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s been real! Microsoft will stop selling Windows 10 licenses this month](https://www.pcgamer.com/its-been-real-microsoft-will-stop-selling-windows-10-licenses-this-month)
- - [Q&amp;A with Roberta &amp; Ken Williams, developers of reimagined Colossal Cave, out today](https://blog.playstation.com/2023/01/19/qa-with-roberta-ken-williams-developers-of-reimagined-colossal-cave-out-today/)
- - [Age of Wonders 4 is coming, and you won&#39;t have to wait long to play](https://www.pcgamer.com/age-of-wonders-4-is-coming-and-you-wont-have-to-wait-long-to-play)<!-- GAME:END -->
+ - [RTX 4060 Ti is rumoured to have RTX 3070 speed for 80% its power](https://www.pcgamer.com/rtx-4060-ti-is-rumoured-to-have-rtx-3070-speed-for-80-its-power)
+ - [Someone Made a GeoGuessr For Elden Ring](https://kotaku.com/elden-ring-geoguessr-geography-map-world-pois-1850007231)
+ - [Nobody Saves the World – Impossible Dungeon Free Update](https://news.xbox.com/en-us/2023/01/19/nobody-saves-the-world-impossible-dungeon-free-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
