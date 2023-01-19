@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reed Hastings will step down as CEO of Netflix but stay on as executive chair; COO Greg Peters has been promoted as co-CEO with Ted Sarandos &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230119/p29#a230119p29)
- - [Sundance 2023: all the latest movie reviews and updates from the festival](https://www.theverge.com/2023/1/19/23560909/sundance-film-festival-2023-news-trailers-reviews)
- - [Vannevar Labs, which makes software for security agencies to process information, raised a $75M Series B led by Felicis, bringing its total funding to $90M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230119/p28#a230119p28)<!-- TECH:END -->
+ - [Twitter quietly updates its developer agreement with a clause banning third-party clients, after claiming the company was enforcing &quot;long-standing API rules&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230119/p31#a230119p31)
+ - [Netflix reports Q4 revenue up 1.9% YoY to $7.85B, $55M net income, down from $607M YoY, 231M paid memberships, adding 7.66M subscribers vs. 4.57M expected &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/230119/p30#a230119p30)
+ - [Apple hit with third class-action lawsuit over data collection practices](https://appleinsider.com/articles/23/01/19/apple-hit-with-third-class-action-lawsuit-over-data-collection-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
