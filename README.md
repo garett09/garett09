@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most important tabletop games of 2023](https://www.polygon.com/tabletop-games/23561230/best-new-board-games-ttrpg-2023-preview-dnd)
- - [After D&amp;D’s missteps, Paizo’s Pathfinder and Starfinder enter 2023 stronger than ever](https://www.polygon.com/tabletop-games/23560520/pathfinder-starfinder-2023-preview-how-to-get-started)
- - [D&amp;D 5th edition comes to a close in 2023 against a backdrop of fan anger](https://www.polygon.com/23558767/dnd-dungeons-dragons-2023-release-schedule)<!-- GAME:END -->
+ - [Scream 6 trailer promises a Ghostface that’s ‘something different’](https://www.polygon.com/23561429/scream-6-movie-trailer-release-date-jenna-ortega)
+ - [Lemmings-like puzzler Tin Hearts marches towards full release](https://www.pcgamer.com/lemmings-like-puzzler-tin-hearts-marches-towards-full-release)
+ - [Past and Present Collide in ‘The Secret Wilds’, Sea of Thieves’ 11th Adventure, Live Until February 2!](https://news.xbox.com/en-us/2023/01/19/sea-of-thieves-adventure-11-the-secret-wilds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
