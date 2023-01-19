@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)
- - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
- - 🚯 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
+ - 🚖 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
+ - 🚯 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
+ - 🚯 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)<!-- MEMES:END -->
 
 --- 
 
