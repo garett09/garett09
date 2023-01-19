@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series US pricing leaks and it’s good news!](https://www.androidauthority.com/samsung-galaxy-s23-us-price-3269337/)
- - [Walmart-backed Indian fintech company PhonePe raised $350M from General Atlantic at a $12B+ valuation, with plans to raise as much as $1B in tranches &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/230119/p2#a230119p2)
- - [An analysis of 11 online pharmacies selling abortion pills: at least nine use third-party trackers such as Google Analytics to collect and share sensitive data &lpar;Jennifer Gollan/ProPublica&rpar;](http://www.techmeme.com/230119/p1#a230119p1)<!-- TECH:END -->
+ - [Upcoming Moto G phones leak: In for a downgrade? &lpar;Updated: Price&rpar;](https://www.androidauthority.com/motorola-moto-g53-g73-3266884/)
+ - [FTX posed as a haven from tumbling currencies and inflation in Africa, where the company recruited users via glitzy events, $5 sign-up bonuses, and giveaways &lpar;Alexandra Wexler/Wall Street Journal&rpar;](http://www.techmeme.com/230119/p3#a230119p3)
+ - [Samsung Galaxy S23 series US pricing leaks and it’s good news!](https://www.androidauthority.com/samsung-galaxy-s23-us-price-3269337/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
