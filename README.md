@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck review, after one year, 435 hours playing games, and 100+ updates: Valve has fixed many issues, making play smooth and the device a compelling buy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230119/p19#a230119p19)
- - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
- - [8 Best Travel Bags &lpar;2023&rpar;: Carry-On Luggage, Duffel, Budget](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)<!-- TECH:END -->
+ - [Android 13 has been installed on 5.2% of all devices since launch](https://www.androidauthority.com/android-13-stats-3269519/)
+ - [A foldable and rollable phone? Here’s one company imagining how it would look.](https://www.androidauthority.com/foldable-rollable-phone-3269527/)
+ - [We Need to Talk About Your Stove](https://www.wired.com/story/gadget-lab-podcast-582/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
