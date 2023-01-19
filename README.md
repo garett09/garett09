@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX 4060 Ti is rumoured to have RTX 3070 speed for 80% its power](https://www.pcgamer.com/rtx-4060-ti-is-rumoured-to-have-rtx-3070-speed-for-80-its-power)
- - [Someone Made a GeoGuessr For Elden Ring](https://kotaku.com/elden-ring-geoguessr-geography-map-world-pois-1850007231)
- - [Nobody Saves the World – Impossible Dungeon Free Update](https://news.xbox.com/en-us/2023/01/19/nobody-saves-the-world-impossible-dungeon-free-update/)<!-- GAME:END -->
+ - [Anime Awards 2023 nominees include impressive totals from Spy X Family and Attack on Titan](https://www.polygon.com/23562601/anime-awards-2023-best-anime-nominees-crunchyroll)
+ - [UnderDungeon, the First Dungeon Crawler Starring Cats, is Out Now on Xbox](https://news.xbox.com/en-us/2023/01/19/underdungeon-the-first-dungeon-crawler-starring-cats-is-out-now-on-xbox-consoles/)
+ - [Netflix’s Junji Ito Maniac translates Ito very faithfully and horrifically](https://www.polygon.com/23561351/netflix-maniac-junji-ito-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
