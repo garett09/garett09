@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Damning US Report Lays Bare Amazon’s Worker Injury Crisis](https://www.wired.com/story/a-damning-us-report-lays-bare-amazons-worker-injury-crisis/)
- - [Apple announces premiere dates for more Apple TV+ shows](https://appleinsider.com/articles/23/01/19/apple-announces-premiere-dates-for-more-apple-tv-shows?utm_medium=rss)
- - [Five Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)<!-- TECH:END -->
+ - [Mailchimp says a hacker accessed the data of 133 accounts via employee social engineering, first detected on January 11 and its second breach in six months &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230118/p35#a230118p35)
+ - [Galaxy S23 could be using slightly tweaked version of Snapdragon 8 Gen 2](https://www.androidauthority.com/snapdragon-8-gen-2-galaxy-s23-3269288/)
+ - [&#39;Ted Lasso&#39; Season 3 Will Premiere This Spring. Here&#39;s a First Look     - CNET](https://www.cnet.com/culture/entertainment/ted-lasso-season-3-will-premiere-this-spring-get-a-first-look/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
