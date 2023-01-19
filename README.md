@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 🚯 [Well unless you are all cops.](http://9gag.com/gag/aREXAmy)
- - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 🚖 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
+ - 🚯 [F*** of B****](http://9gag.com/gag/aWGjMy3)
+ - 🚯 [You got a friend in me](http://9gag.com/gag/az2MADN)<!-- MEMES:END -->
 
 --- 
 
