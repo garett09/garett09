@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Stitch in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-unlock-stitch)
- - [How to get Yaoyao for free in Genshin Impact](https://www.pcgamer.com/genshin-impact-yaoyao-free)
- - [Free Play Days – Tiny Tina’s Wonderlands and Space Crew Legendary Edition](https://news.xbox.com/en-us/2023/01/19/free-play-days-tiny-tinas-wonderlands-and-space-crew-legendary-edition/)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
+ - [PlayStation VR2: 13 new titles and launch lineup revealed](https://blog.playstation.com/2023/01/19/playstation-vr2-13-new-titles-and-launch-lineup-revealed/)
+ - [Scare yourself stupid with these unconventional horror gems](https://www.pcgamer.com/scare-yourself-stupid-with-these-unconventional-horror-gems)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
