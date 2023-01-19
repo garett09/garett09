@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Audrey plaza is the best](http://9gag.com/gag/aDYdGZ9)
- - 🚯 [How to give medication to your cat](http://9gag.com/gag/a047poz)
- - 🚯 [Jinkies](http://9gag.com/gag/aBd2Yx2)<!-- MEMES:END -->
+ - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
+ - 🚯 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
 
 --- 
 
