@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikimedia launches an updated Wikipedia design, including improved search and accessibility, a refreshed table of contents, and easier language switching &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230119/p9#a230119p9)
- - [Crypto exchange OKX reports $7.5B in reserves excluding its token; CryptoQuant rates OKX as 100% &quot;clean&quot;, not relying on its native token, while Binance is 87% &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230119/p8#a230119p8)
- - [National Australia Bank creates the AUDN stablecoin, the second major Australian bank after ANZ&#39;s A$DC, letting customers settle transactions on the blockchain &lpar;James Eyers/Australian Financial Review&rpar;](http://www.techmeme.com/230119/p7#a230119p7)<!-- TECH:END -->
+ - [How to store extended file attributes in iCloud](https://appleinsider.com/inside/icloud/tips/how-to-store-extended-file-attributes-in-icloud?utm_medium=rss)
+ - [Check out this leaked 200MP Galaxy S23 Ultra camera sample](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200mp-camera-sample-3269435/)
+ - [A look at the art world&#39;s deal-with-the-devil approach to the NFT market, after allegations that FTX bought the $24.4M trove of 107 Bored Apes NFTs at Sotheby&#39;s &lpar;Nate Freeman/Vanity Fair&rpar;](http://www.techmeme.com/230119/p12#a230119p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
