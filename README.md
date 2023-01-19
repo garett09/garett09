@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter quietly updates its developer agreement with a clause banning third-party clients, after claiming the company was enforcing &quot;long-standing API rules&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230119/p31#a230119p31)
- - [Netflix reports Q4 revenue up 1.9% YoY to $7.85B, $55M net income, down from $607M YoY, 231M paid memberships, adding 7.66M subscribers vs. 4.57M expected &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/230119/p30#a230119p30)
- - [Apple hit with third class-action lawsuit over data collection practices](https://appleinsider.com/articles/23/01/19/apple-hit-with-third-class-action-lawsuit-over-data-collection-practices?utm_medium=rss)<!-- TECH:END -->
+ - [Logitech Pop Keys keyboard review: Colorful, customizable and a dream to type with](https://appleinsider.com/articles/23/01/19/logitech-pop-keys-keyboard-colorful-customizable-and-a-dream-to-type-with?utm_medium=rss)
+ - [Texas Instruments names COO Haviv Ilan as its next CEO starting on April 1, replacing Rich Templeton, who has been CEO for 19 years and will remain its chairman &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230119/p34#a230119p34)
+ - [SEC filing: T-Mobile says a hacker stole data for ~37M customer accounts, including names and addresses, but no passwords, SSNs, or financial information &lpar;Catherine Larkin/Bloomberg&rpar;](http://www.techmeme.com/230119/p33#a230119p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
