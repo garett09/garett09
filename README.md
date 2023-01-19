@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Pro Mac mini vs Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)
- - [Fix for iPhone 14 Pro Max horizontal lines bug is in iOS 16.3](https://appleinsider.com/articles/23/01/19/fix-for-iphone-14-pro-max-horizontal-lines-bug-is-in-ios-163?utm_medium=rss)
- - [First M2 Pro benchmarks prove big improvement over M1 Max](https://appleinsider.com/articles/23/01/19/first-m2-pro-benchmarks-show-dramatic-improvement-over-even-m1-max?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: ransomware attackers received at least ~$457M in 2022, a low estimate, down from ~$766M in 2020 and 2021, as victims increasingly refuse to pay &lpar;Chainalysis&rpar;](http://www.techmeme.com/230119/p15#a230119p15)
+ - [Element Case Special Ops Apple Watch band review: For those who like to play rough](https://appleinsider.com/articles/23/01/19/element-case-special-ops-apple-watch-band-review-for-those-who-like-to-play-rough?utm_medium=rss)
+ - [Twitter’s ‘Vox Populi’ Is a Lie](https://www.wired.com/story/twitter-digital-governance-elon-musk-polls/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
