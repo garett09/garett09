@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 has been installed on 5.2% of all devices since launch](https://www.androidauthority.com/android-13-stats-3269519/)
- - [A foldable and rollable phone? Here’s one company imagining how it would look.](https://www.androidauthority.com/foldable-rollable-phone-3269527/)
- - [We Need to Talk About Your Stove](https://www.wired.com/story/gadget-lab-podcast-582/)<!-- TECH:END -->
+ - [Will the Metaverse Live Up to the Hype? Game Developers Aren’t Impressed](https://www.wired.com/story/metaverse-video-games-fortnite-zuckerberg/)
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [Daily Deals Jan. 19: $50 off 2023 14-inch MacBook Pro, Google Nest Doorbell for $80, Apple Watch Series 8 for $88 &amp; more](https://appleinsider.com/articles/23/01/19/daily-deals-jan-19-50-off-2023-14-inch-macbook-pro-google-nest-doorbell-for-80-apple-watch-series-8-for-88-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
