@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blurblurblurrrrrrr](http://9gag.com/gag/ay2MLeV)
- - 🚯 [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
- - 🚯 [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)<!-- MEMES:END -->
+ - 🚖 [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
+ - 🚯 [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)
+ - 🚯 [The little things](http://9gag.com/gag/abvVZ6B)<!-- MEMES:END -->
 
 --- 
 
