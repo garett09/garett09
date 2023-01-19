@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to store extended file attributes in iCloud](https://appleinsider.com/inside/icloud/tips/how-to-store-extended-file-attributes-in-icloud?utm_medium=rss)
- - [Check out this leaked 200MP Galaxy S23 Ultra camera sample](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200mp-camera-sample-3269435/)
- - [A look at the art world&#39;s deal-with-the-devil approach to the NFT market, after allegations that FTX bought the $24.4M trove of 107 Bored Apes NFTs at Sotheby&#39;s &lpar;Nate Freeman/Vanity Fair&rpar;](http://www.techmeme.com/230119/p12#a230119p12)<!-- TECH:END -->
+ - [M2 Pro Mac mini vs Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)
+ - [Fix for iPhone 14 Pro Max horizontal lines bug is in iOS 16.3](https://appleinsider.com/articles/23/01/19/fix-for-iphone-14-pro-max-horizontal-lines-bug-is-in-ios-163?utm_medium=rss)
+ - [First M2 Pro benchmarks prove big improvement over M1 Max](https://appleinsider.com/articles/23/01/19/first-m2-pro-benchmarks-show-dramatic-improvement-over-even-m1-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
