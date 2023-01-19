@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will the Metaverse Live Up to the Hype? Game Developers Aren’t Impressed](https://www.wired.com/story/metaverse-video-games-fortnite-zuckerberg/)
+ - [Sony announces the PlayStation VR2&#39;s full launch game lineup, including Tetris Effect and 12 other new titles; the PSVR 2 will not be backwards compatible &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230119/p24#a230119p24)
  - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [Daily Deals Jan. 19: $50 off 2023 14-inch MacBook Pro, Google Nest Doorbell for $80, Apple Watch Series 8 for $88 &amp; more](https://appleinsider.com/articles/23/01/19/daily-deals-jan-19-50-off-2023-14-inch-macbook-pro-google-nest-doorbell-for-80-apple-watch-series-8-for-88-more?utm_medium=rss)<!-- TECH:END -->
+ - [What you need to know about virtual reality in 2023](https://appleinsider.com/inside/apple-vr/tips/what-you-need-to-know-about-virtual-reality-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
