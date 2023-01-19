@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 🚯 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
- - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 🚖 [Blurblurblurrrrrrr](http://9gag.com/gag/ay2MLeV)
+ - 🚯 [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
+ - 🚯 [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)<!-- MEMES:END -->
 
 --- 
 
