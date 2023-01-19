@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
- - 🚯 [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)
- - 🚯 [The little things](http://9gag.com/gag/abvVZ6B)<!-- MEMES:END -->
+ - 🚖 [National geographic guys thought that the bear was hibernating, Turns out that they were wrong](http://9gag.com/gag/avQ5noM)
+ - 🚯 [A father with 84 kids laugh hysterically at interviewer for only having one wife](http://9gag.com/gag/a8qE4eY)
+ - 🚯 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)<!-- MEMES:END -->
 
 --- 
 
