@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Audrey plaza is the best](http://9gag.com/gag/aDYdGZ9)
- - 🚯 [They were made for each other](http://9gag.com/gag/a1PrdoD)
- - 🚯 [I must say I am impressed](http://9gag.com/gag/armMO5K)<!-- MEMES:END -->
+ - 🚖 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - 🚯 [Well this is awkward...](http://9gag.com/gag/aL1pMXx)
+ - 🚯 [Trying to think Fast and Furious family joke here!](http://9gag.com/gag/a9qErb0)<!-- MEMES:END -->
 
 --- 
 
