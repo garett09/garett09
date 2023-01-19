@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Under press\u00fcre](http://9gag.com/gag/a047vrn)
- - 🚯 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 🚖 [He can be sweet sometimes](http://9gag.com/gag/aL1pPwg)
+ - 🚯 [Jinkies](http://9gag.com/gag/aBd2Yx2)
+ - 🚯 [How to give medication to your cat](http://9gag.com/gag/a047poz)<!-- MEMES:END -->
 
 --- 
 
