@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I really think such people should pay double](http://9gag.com/gag/a4oEbwZ)
- - 🚯 [First round](http://9gag.com/gag/aYVoxW2)
- - 🚯 [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)<!-- MEMES:END -->
+ - 🚖 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
+ - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - 🚯 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
 
 --- 
 
