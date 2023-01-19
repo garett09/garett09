@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal says hackers accessed sensitive data of ~35K users, including addresses and social security numbers, in a credential stuffing attack in December 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230119/p27#a230119p27)
- - [Brazil watchdog investigates Apple over App Store payment rules](https://appleinsider.com/articles/23/01/19/brazil-watchdog-investigates-apple-over-app-store-payment-rules?utm_medium=rss)
- - [CB Insights: global fintech funding amounted to $75.2B in 2022, down 46% YoY, but up 52% compared to 2020; US fintech funding was down 50% YoY to $32.8B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230119/p26#a230119p26)<!-- TECH:END -->
+ - [Reed Hastings will step down as CEO of Netflix but stay on as executive chair; COO Greg Peters has been promoted as co-CEO with Ted Sarandos &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230119/p29#a230119p29)
+ - [Sundance 2023: all the latest movie reviews and updates from the festival](https://www.theverge.com/2023/1/19/23560909/sundance-film-festival-2023-news-trailers-reviews)
+ - [Vannevar Labs, which makes software for security agencies to process information, raised a $75M Series B led by Felicis, bringing its total funding to $90M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230119/p28#a230119p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
