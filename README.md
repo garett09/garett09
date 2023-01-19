@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He can be sweet sometimes](http://9gag.com/gag/aL1pPwg)
- - 🚯 [Jinkies](http://9gag.com/gag/aBd2Yx2)
- - 🚯 [How to give medication to your cat](http://9gag.com/gag/a047poz)<!-- MEMES:END -->
+ - 🚖 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - 🚯 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
+ - 🚯 [Well unless you are all cops.](http://9gag.com/gag/aREXAmy)<!-- MEMES:END -->
 
 --- 
 
