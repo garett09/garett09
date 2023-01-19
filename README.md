@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blurblurblurrrrrrr](http://9gag.com/gag/ay2MLeV)
- - 🚯 [So yeah..this happened](http://9gag.com/gag/aBd2wMZ)
- - 🚯 [Sorry mr.duct-tape, looks like you can&#39;t fix it this time..](http://9gag.com/gag/a2K7dQZ)<!-- MEMES:END -->
+ - 🚖 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - 🚯 [Wow it must have been a whole week since the last threat. I was already wondering if something happened to him. Glad to see he&#39;s alright.](http://9gag.com/gag/ap9NpR9)
+ - 🚯 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)<!-- MEMES:END -->
 
 --- 
 
