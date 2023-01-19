@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blurblurblurrrrrrr](http://9gag.com/gag/ay2MLeV)
- - 🚯 [I really think such people should pay double](http://9gag.com/gag/a4oEbwZ)
- - 🚯 [Every horror movie ever](http://9gag.com/gag/a1PrbQG)<!-- MEMES:END -->
+ - 🚖 [Pretty good advice from Mr Horror](http://9gag.com/gag/aMEKwAR)
+ - 🚯 [Every horror movie ever](http://9gag.com/gag/a1PrbQG)
+ - 🚯 [Trying to think Fast and Furious family joke here!](http://9gag.com/gag/a9qErb0)<!-- MEMES:END -->
 
 --- 
 
