@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scream 6 trailer promises a Ghostface that’s ‘something different’](https://www.polygon.com/23561429/scream-6-movie-trailer-release-date-jenna-ortega)
- - [Lemmings-like puzzler Tin Hearts marches towards full release](https://www.pcgamer.com/lemmings-like-puzzler-tin-hearts-marches-towards-full-release)
- - [Past and Present Collide in ‘The Secret Wilds’, Sea of Thieves’ 11th Adventure, Live Until February 2!](https://news.xbox.com/en-us/2023/01/19/sea-of-thieves-adventure-11-the-secret-wilds/)<!-- GAME:END -->
+ - [How to unlock Stitch in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-unlock-stitch)
+ - [How to get Yaoyao for free in Genshin Impact](https://www.pcgamer.com/genshin-impact-yaoyao-free)
+ - [Free Play Days – Tiny Tina’s Wonderlands and Space Crew Legendary Edition](https://news.xbox.com/en-us/2023/01/19/free-play-days-tiny-tinas-wonderlands-and-space-crew-legendary-edition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
