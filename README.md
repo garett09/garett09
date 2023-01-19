@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
- - 🚯 [F*** of B****](http://9gag.com/gag/aWGjMy3)
- - 🚯 [You got a friend in me](http://9gag.com/gag/az2MADN)<!-- MEMES:END -->
+ - 🚖 [Audrey plaza is the best](http://9gag.com/gag/aDYdGZ9)
+ - 🚯 [How to give medication to your cat](http://9gag.com/gag/a047poz)
+ - 🚯 [Jinkies](http://9gag.com/gag/aBd2Yx2)<!-- MEMES:END -->
 
 --- 
 
