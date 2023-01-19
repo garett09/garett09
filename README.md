@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First round](http://9gag.com/gag/aYVoxW2)
- - 🚯 [When you&#39;re trying to access the bios menu after booting](http://9gag.com/gag/anzQbPq)
- - 🚯 [I need to watch Ranma\u00bd again](http://9gag.com/gag/aoKMO9m)<!-- MEMES:END -->
+ - 🚖 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)
+ - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - 🚯 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
 
 --- 
 
