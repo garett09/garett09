@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
- - 🚯 [Well this is awkward...](http://9gag.com/gag/aL1pMXx)
- - 🚯 [Trying to think Fast and Furious family joke here!](http://9gag.com/gag/a9qErb0)<!-- MEMES:END -->
+ - 🚖 [Blurblurblurrrrrrr](http://9gag.com/gag/ay2MLeV)
+ - 🚯 [So yeah..this happened](http://9gag.com/gag/aBd2wMZ)
+ - 🚯 [Sorry mr.duct-tape, looks like you can&#39;t fix it this time..](http://9gag.com/gag/a2K7dQZ)<!-- MEMES:END -->
 
 --- 
 
