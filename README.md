@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime Awards 2023 nominees include impressive totals from Spy X Family and Attack on Titan](https://www.polygon.com/23562601/anime-awards-2023-best-anime-nominees-crunchyroll)
- - [UnderDungeon, the First Dungeon Crawler Starring Cats, is Out Now on Xbox](https://news.xbox.com/en-us/2023/01/19/underdungeon-the-first-dungeon-crawler-starring-cats-is-out-now-on-xbox-consoles/)
- - [Netflix’s Junji Ito Maniac translates Ito very faithfully and horrifically](https://www.polygon.com/23561351/netflix-maniac-junji-ito-review)<!-- GAME:END -->
+ - [Apparently Joe Rogan Is A Scrublord At Fighting Games](https://kotaku.com/joe-rogan-podcast-experience-dead-or-alive-marie-rose-1850008136)
+ - [I&#39;m Begging Marvel Snap To Stop With All The Annoying Featured Zones](https://kotaku.com/marvel-snap-rickety-bridge-best-decks-card-zone-update-1850008057)
+ - [Minecraft&#39;s most annoying feature is finally turned off in the latest update](https://www.pcgamer.com/minecrafts-most-annoying-feature-is-finally-turned-off-in-the-latest-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
