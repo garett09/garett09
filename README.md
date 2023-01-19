@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty good advice from Mr Horror](http://9gag.com/gag/aMEKwAR)
- - 🚯 [Every horror movie ever](http://9gag.com/gag/a1PrbQG)
- - 🚯 [Trying to think Fast and Furious family joke here!](http://9gag.com/gag/a9qErb0)<!-- MEMES:END -->
+ - 🚖 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - 🚯 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
+ - 🚯 [Sorry WHAT](http://9gag.com/gag/armMbbV)<!-- MEMES:END -->
 
 --- 
 
