@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
- - 🚯 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
- - 🚯 [Sorry WHAT](http://9gag.com/gag/armMbbV)<!-- MEMES:END -->
+ - 🚖 [First round](http://9gag.com/gag/aYVoxW2)
+ - 🚯 [When you&#39;re trying to access the bios menu after booting](http://9gag.com/gag/anzQbPq)
+ - 🚯 [I need to watch Ranma\u00bd again](http://9gag.com/gag/aoKMO9m)<!-- MEMES:END -->
 
 --- 
 
