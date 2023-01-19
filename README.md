@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [PlayStation VR2: 13 new titles and launch lineup revealed](https://blog.playstation.com/2023/01/19/playstation-vr2-13-new-titles-and-launch-lineup-revealed/)
- - [Scare yourself stupid with these unconventional horror gems](https://www.pcgamer.com/scare-yourself-stupid-with-these-unconventional-horror-gems)<!-- GAME:END -->
+ - [It&#39;s been real! Microsoft will stop selling Windows 10 licenses this month](https://www.pcgamer.com/its-been-real-microsoft-will-stop-selling-windows-10-licenses-this-month)
+ - [Q&amp;A with Roberta &amp; Ken Williams, developers of reimagined Colossal Cave, out today](https://blog.playstation.com/2023/01/19/qa-with-roberta-ken-williams-developers-of-reimagined-colossal-cave-out-today/)
+ - [Age of Wonders 4 is coming, and you won&#39;t have to wait long to play](https://www.pcgamer.com/age-of-wonders-4-is-coming-and-you-wont-have-to-wait-long-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
