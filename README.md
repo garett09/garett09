@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
- - 🚯 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - 🚯 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
+ - 🚖 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
+ - 🚯 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
+ - 🚯 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
 
 --- 
 
