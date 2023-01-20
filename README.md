@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pro Gaming Champ Says He Peed In A Bottle During $205,000 Tourney](https://kotaku.com/dota-2-tournament-skiter-pee-bottle-valve-steam-pgl-1850011645)
- - [Neopets faces class-action lawsuit over huge data breach](https://www.polygon.com/23563880/neopets-class-action-lawsuit-data-breach-hack)
- - [A New Year Rings in New EA Play Rewards!](https://news.xbox.com/en-us/2023/01/20/a-new-year-rings-in-new-ea-play-rewards/)<!-- GAME:END -->
+ - [Share of the Week – Star Wars Jedi: Fallen Order](https://blog.playstation.com/2023/01/20/share-of-the-week-star-wars-jedi-fallen-order-2/)
+ - [Welcome to the Hunt! An Intro to Monster Hunter Rise on Xbox and PC](https://news.xbox.com/en-us/2023/01/20/monster-hunter-rise-out-on-xbox-and-pc/)
+ - [League of Legends’ stinker cinematic belies a bigger trend](https://www.polygon.com/23562774/league-of-legends-brink-of-infinity-cinematic-controversy-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
