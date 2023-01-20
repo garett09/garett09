@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warzone 2.0 Is Ditching 2v2 Gulags For Boring 1v1 Showdowns](https://kotaku.com/warzone-2-gulag-2v2-1v1-cod-changes-season-mw2-wz2-1850012590)
  - [Fish Play Pokémon Scarlet And Violet, Accidentally Commit Credit Card Fraud](https://kotaku.com/pokemon-scarlet-violet-fish-youtube-credit-card-1850012376)
- - [If you ever want to read The Winds of Winter, pray for the New York Giants](https://www.polygon.com/entertainment/23560856/winds-of-winter-release-date-george-r-r-martin-new-york-giants-football)
- - [After 14 years, Risen is back—I decided to find out why](https://www.pcgamer.com/after-14-years-risen-is-backi-decided-to-find-out-why)<!-- GAME:END -->
+ - [If you ever want to read The Winds of Winter, pray for the New York Giants](https://www.polygon.com/entertainment/23560856/winds-of-winter-release-date-george-r-r-martin-new-york-giants-football)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
