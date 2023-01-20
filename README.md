@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
+ - 🚖 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
  - 🚯 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - 🚯 [First round](http://9gag.com/gag/aYVoxW2)<!-- MEMES:END -->
+ - 🚯 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
 
 --- 
 
