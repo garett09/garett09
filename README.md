@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [When you think you\u2019re close](http://9gag.com/gag/az2Mm8m)
- - 🚯 [Humanity has failed](http://9gag.com/gag/aGEpgLw)<!-- MEMES:END -->
+ - 🚖 [Warning Label](http://9gag.com/gag/aeQAMXQ)
+ - 🚯 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
+ - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
 --- 
 
