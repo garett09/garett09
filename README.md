@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That raven in The Legend of Vox Machina’s intro is key to season 2](https://www.polygon.com/23564004/legend-vox-machina-matron-ravens-black-robe-woman)
- - [With The Last Of Us, Pedro Pascal Becomes The Internet&#39;s Daddy](https://kotaku.com/pedro-pascal-last-of-us-joel-daddy-game-of-thrones-1850013031)
- - [To make an AI chat bot behave, Kenyan workers say they were &#39;mentally scarred&#39; by graphic text](https://www.pcgamer.com/chatgpt-outsourcing-report-time)<!-- GAME:END -->
+ - [This Week on Xbox: Fresh New Games, Updates, and Events](https://news.xbox.com/en-us/2023/01/20/this-week-on-xbox-fresh-new-games-updates-and-events/)
+ - [Xbox&#39;s Phil Spencer Says Microsoft&#39;s 10K Layoffs &#39;Hurts&#39; In Email To Staff](https://kotaku.com/phil-spencer-xbox-layoffs-microsoft-zenimax-1850013315)
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
