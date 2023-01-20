@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us co-creator says lack of credit for HBO show ‘an argument for unionization’](https://www.polygon.com/23563751/the-last-of-us-hbo-bruce-straley-neil-druckmann-credit-unionization)
- - [7 Wonders: Edifice expands the hit board game with... FOMO](https://www.polygon.com/23562853/7-wonders-game-edifice-expansion-asmodee)
- - [How the Trading Post works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-trading-post)<!-- GAME:END -->
+ - [Which mode should you pick in Fire Emblem Engage?](https://www.polygon.com/23547269/fire-emblem-engage-casual-classic-mode-normal-hard-maddening-difficulty-nintendo-switch)
+ - [How to make the most of Fire Emblem Engage’s bond and emblem rings](https://www.polygon.com/23547259/fire-emblem-engage-bond-fragment-ring-chamber-sp-skills-passive-arena-bulletin-board-somniel)
+ - [Why you should explore the Somniel in Fire Emblem Engage](https://www.polygon.com/guides/23547256/fire-emblem-engage-somniel-guide-arena-cafe-training-ring-bond-sp-items-animals-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
