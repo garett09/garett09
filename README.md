@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man charged with murder looks on while his Google searches from the day his wife disappeared are read in court](http://9gag.com/gag/a5XErVN)
- - 🚯 [It&#39;s not just a kangaroo.](http://9gag.com/gag/anzQNxo)
- - 🚯 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)<!-- MEMES:END -->
+ - 🚖 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
+ - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - 🚯 [My life is a lie.](http://9gag.com/gag/aWGj1A3)<!-- MEMES:END -->
 
 --- 
 
