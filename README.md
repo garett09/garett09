@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 2,300+ game developers: 45% don&#39;t buy the promise of the metaverse, 53% support unionization, 91% say harassment by players is an issue, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230120/p12#a230120p12)
- - [Spotify rant demands decisive action against Apple](https://appleinsider.com/articles/23/01/20/spotify-rant-demands-decisive-action-against-apple?utm_medium=rss)
- - [It’s Not Sci-Fi—NASA Is Funding These Mind-Blowing Projects](https://www.wired.com/story/its-not-sci-fi-nasa-is-funding-these-mind-blowing-projects/)<!-- TECH:END -->
+ - [HomePod is back, M2 Pro and M2 Max MacBook Pro, and M2 Mac mini](https://appleinsider.com/articles/23/01/20/homepod-is-back-m2-pro-and-m2-max-macbook-pro-and-m2-mac-mini?utm_medium=rss)
+ - [Experts argue the TikTok ban by over two dozen US states is a reflection of government groupthink and an overreaction to an app officials don&#39;t fully understand &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230120/p13#a230120p13)
+ - [How Apple&#39;s sleep tracker can help you lose weight](https://appleinsider.com/articles/23/01/20/how-apples-sleep-tracker-can-help-you-lose-weight?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
