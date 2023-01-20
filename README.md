@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me you love your cat without telling me you love your cat](http://9gag.com/gag/abvVrYL)
- - 🚯 [When you meet your arch-nemesis](http://9gag.com/gag/aPg3YqG)
- - 🚯 [Such as.. *looks around anxiously* talking](http://9gag.com/gag/abvVr5v)<!-- MEMES:END -->
+ - 🚖 [Awe that&#39;s sweet...](http://9gag.com/gag/amAPYw2)
+ - 🚯 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
 
 --- 
 
