@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod is back, M2 Pro and M2 Max MacBook Pro, and M2 Mac mini](https://appleinsider.com/articles/23/01/20/homepod-is-back-m2-pro-and-m2-max-macbook-pro-and-m2-mac-mini?utm_medium=rss)
- - [Experts argue the TikTok ban by over two dozen US states is a reflection of government groupthink and an overreaction to an app officials don&#39;t fully understand &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230120/p13#a230120p13)
- - [How Apple&#39;s sleep tracker can help you lose weight](https://appleinsider.com/articles/23/01/20/how-apples-sleep-tracker-can-help-you-lose-weight?utm_medium=rss)<!-- TECH:END -->
+ - [Welcome to the Era of Internet Blackouts](https://www.wired.com/story/cloudflare-internet-blackouts-report/)
+ - [ChatGPT Stole Your Work. So What Are You Going to Do?](https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/)
+ - [You Can Use This Silly Game to Do Some Serious Physics](https://www.wired.com/story/you-can-use-this-silly-game-to-do-some-serious-physics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
