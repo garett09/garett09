@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Train to Busan’s director made a sci-fi action movie for Alita: Battle Angel fans](https://www.polygon.com/reviews/23562867/jung-e-review-yeon-sang-ho-train-to-busan-director-netflix)
- - [Next Week on Xbox – New Games for January 23 to 27](https://news.xbox.com/en-us/2023/01/20/next-week-on-xbox-new-games-for-january-23-to-27/)
- - [Spectacular Destiny 2 Fit Is Right Out Of The Mummy](https://kotaku.com/destiny-2-brendan-fraser-the-mummy-transmog-outfit-1850009255)<!-- GAME:END -->
+ - [Pro Gaming Champ Says He Peed In A Bottle During $205,000 Tourney](https://kotaku.com/dota-2-tournament-skiter-pee-bottle-valve-steam-pgl-1850011645)
+ - [Neopets faces class-action lawsuit over huge data breach](https://www.polygon.com/23563880/neopets-class-action-lawsuit-data-breach-hack)
+ - [A New Year Rings in New EA Play Rewards!](https://news.xbox.com/en-us/2023/01/20/a-new-year-rings-in-new-ea-play-rewards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
