@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on Apple&#39;s MacBook Pro 2023 &amp; new Mac mini, prices as low as $499](https://appleinsider.com/articles/23/01/20/save-100-on-apples-2023-macbook-pro-mac-mini-prices-as-low-as-499?utm_medium=rss)
- - [Netflix 3.0 Is Coming](https://www.wired.com/story/reed-hastings-netflix-end-of-era/)
- - [The best Microsoft 365 package for your budget in 2023](https://appleinsider.com/inside/mac/best/the-best-microsoft-365-package-for-your-budget-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Internal records: Twitter lost about 80% of staff since Elon Musk took over and now has around 1,300 employees, including fewer than 550 full-time engineers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230120/p24#a230120p24)
+ - [All the Obnoxious Ways People Are Leaving Twitter](https://www.wired.com/story/obnoxious-twitter-sign-offs/)
+ - [In a staff call, CNET and Red Ventures execs said they were pausing AI-generated content on CNET and other sites and offered details on their proprietary tool &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230120/p23#a230120p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
