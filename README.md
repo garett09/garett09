@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Trilogy Arrives On Steam, Still Broken &lpar;But On Sale&rpar;](https://kotaku.com/gta-trilogy-remaster-steam-pc-broken-vice-city-sale-1850009168)
- - [New Soulslike Game Is A Solid Marriage Between Nioh And Sekiro](https://kotaku.com/wo-long-fallen-dynasty-demo-preview-team-ninja-nioh-1850008864)
- - [Former Halo Infinite dev criticizes studio leadership, says layoffs &#39;shouldn&#39;t have happened&#39;](https://www.pcgamer.com/former-halo-infinite-dev-criticizes-studio-leadership-says-layoffs-shouldnt-have-happened)<!-- GAME:END -->
+ - [Game that promised no paid DLC ever is getting paid DLC: &#39;We need a way to continue to fund the development&#39;](https://www.pcgamer.com/game-that-promised-no-paid-dlc-ever-is-getting-paid-dlc-we-need-a-way-to-continue-to-fund-the-development)
+ - [This new &#39;turn-based city builder&#39; challenges you to terraform and colonize Mars](https://www.pcgamer.com/this-new-turn-based-city-builder-challenges-you-to-terraform-and-colonize-mars)
+ - [Obsidian was in talks to make an Avatar game, says studio boss](https://www.pcgamer.com/obsidian-was-in-talks-to-make-an-avatar-game-says-studio-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
