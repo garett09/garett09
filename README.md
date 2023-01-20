@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First round](http://9gag.com/gag/aYVoxW2)
- - 🚯 [90 degrees.](http://9gag.com/gag/az2Mqjz)
- - 🚯 [Where is my baby](http://9gag.com/gag/a4oEZmA)<!-- MEMES:END -->
+ - 🚖 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
+ - 🚯 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 🚯 [First round](http://9gag.com/gag/aYVoxW2)<!-- MEMES:END -->
 
 --- 
 
