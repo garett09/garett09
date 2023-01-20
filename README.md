@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [According to six employees and an internal doc, staff at TikTok and ByteDance engage in &quot;heating&quot;, inflating views for videos to court influencers and brands &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230120/p19#a230120p19)
- - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
- - [Retailers are slashing last-gen MacBook Pros by up to $600 to make way for 2023 models](https://appleinsider.com/articles/23/01/20/retailers-are-slashing-last-gen-macbook-pros-by-up-to-600-to-make-way-for-2023-models?utm_medium=rss)<!-- TECH:END -->
+ - [Roku Express &lpar;2022&rpar; review: All aboard the Roku Express?](https://www.androidauthority.com/roku-express-2022-review-3258509/)
+ - [Sources: Google is pushing advertisers to work with third-party resellers directly as it seeks to reduce its overheads related to advertising services &lpar;Ronan Shields/Digiday&rpar;](http://www.techmeme.com/230120/p20#a230120p20)
+ - [New images show off Samsung’s 360 degree hinge that could come to the Fold 5](https://www.androidauthority.com/samsung-display-hinge-3270159/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
