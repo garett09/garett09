@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto lender Genesis Global Capital has filed for Chapter 11 bankruptcy in New York, listing the estimated range for both assets and liabilities from $1B-$10B &lpar;Kevin Simauchi/Bloomberg&rpar;](http://www.techmeme.com/230120/p1#a230120p1)
- - [Amazon plans to hike Music Unlimited&#39;s monthly prices by $1 and &amp;pound;1 to $10.99 and &amp;pound;10.99 in the US and UK on February 21, matching Apple Music&#39;s October increase &lpar;Billboard&rpar;](http://www.techmeme.com/230119/p38#a230119p38)
- - [Google&#39;s 2023 Doodle Contest Asks Schoolkids What They Are Grateful For     - CNET](https://www.cnet.com/culture/internet/googles-2023-doodle-contest-asks-schoolkids-what-they-are-grateful-for/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The OnePlus 11 might get a downgrade in the US](https://www.androidauthority.com/oneplus-11-charging-3269910/)
+ - [Sources: Nintendo plans to increase production of its six-year-old Switch console in the coming fiscal year, starting in April 2023, as demand remains strong &lpar;Bloomberg&rpar;](http://www.techmeme.com/230120/p4#a230120p4)
+ - [Slovakia-based Photoneo, the parent company of robotic warehouse automation startup Brightpick, raised an additional $19M, bringing its total Series B to $40M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230120/p3#a230120p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
