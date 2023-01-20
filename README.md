@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
- - 🚯 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)<!-- MEMES:END -->
+ - 🚖 [First round](http://9gag.com/gag/aYVoxW2)
+ - 🚯 [90 degrees.](http://9gag.com/gag/az2Mqjz)
+ - 🚯 [Where is my baby](http://9gag.com/gag/a4oEZmA)<!-- MEMES:END -->
 
 --- 
 
