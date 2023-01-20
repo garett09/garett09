@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game that promised no paid DLC ever is getting paid DLC: &#39;We need a way to continue to fund the development&#39;](https://www.pcgamer.com/game-that-promised-no-paid-dlc-ever-is-getting-paid-dlc-we-need-a-way-to-continue-to-fund-the-development)
- - [This new &#39;turn-based city builder&#39; challenges you to terraform and colonize Mars](https://www.pcgamer.com/this-new-turn-based-city-builder-challenges-you-to-terraform-and-colonize-mars)
- - [Obsidian was in talks to make an Avatar game, says studio boss](https://www.pcgamer.com/obsidian-was-in-talks-to-make-an-avatar-game-says-studio-boss)<!-- GAME:END -->
+ - [Battlefield&#39;s Classes Are Finally Coming Back To 2042](https://kotaku.com/battlefield-2042-class-classes-recon-assault-engineer-1850009801)
+ - [War Thunder Players Are, Once Again, Posting Military Documents On Forums](https://kotaku.com/war-thunder-military-documents-classified-leak-forum-1850009524)
+ - [Game that promised no paid DLC ever is getting paid DLC: &#39;We need a way to continue to fund the development&#39;](https://www.pcgamer.com/game-that-promised-no-paid-dlc-ever-is-getting-paid-dlc-we-need-a-way-to-continue-to-fund-the-development)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
