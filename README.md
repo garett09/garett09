@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bankruptcy filing: Genesis Global owes more than $3.6B to its top 50 creditors, including $766M to Winklevoss&#39; Gemini Trust Company &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230120/p18#a230120p18)
- - [M2 Pro &amp; Max GPUs are fast -- but not faster than M1 Ultra](https://appleinsider.com/articles/23/01/20/m2-pro-max-gpus-are-fast----but-not-faster-than-m1-ultra?utm_medium=rss)
- - [Why Does AI Art Look Like a ’70s Prog-Rock Album Cover?](https://www.wired.com/story/generative-ai-style-movement-throwback/)<!-- TECH:END -->
+ - [According to six employees and an internal doc, staff at TikTok and ByteDance engage in &quot;heating&quot;, inflating views for videos to court influencers and brands &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230120/p19#a230120p19)
+ - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
+ - [Retailers are slashing last-gen MacBook Pros by up to $600 to make way for 2023 models](https://appleinsider.com/articles/23/01/20/retailers-are-slashing-last-gen-macbook-pros-by-up-to-600-to-make-way-for-2023-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
