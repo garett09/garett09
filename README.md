@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
- - 🚯 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
- - 🚯 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
+ - 🚖 [A man charged with murder looks on while his Google searches from the day his wife disappeared are read in court](http://9gag.com/gag/a5XErVN)
+ - 🚯 [It&#39;s not just a kangaroo.](http://9gag.com/gag/anzQNxo)
+ - 🚯 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)<!-- MEMES:END -->
 
 --- 
 
