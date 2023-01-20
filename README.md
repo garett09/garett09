@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which mode should you pick in Fire Emblem Engage?](https://www.polygon.com/23547269/fire-emblem-engage-casual-classic-mode-normal-hard-maddening-difficulty-nintendo-switch)
- - [How to make the most of Fire Emblem Engage’s bond and emblem rings](https://www.polygon.com/23547259/fire-emblem-engage-bond-fragment-ring-chamber-sp-skills-passive-arena-bulletin-board-somniel)
- - [Why you should explore the Somniel in Fire Emblem Engage](https://www.polygon.com/guides/23547256/fire-emblem-engage-somniel-guide-arena-cafe-training-ring-bond-sp-items-animals-nintendo-switch)<!-- GAME:END -->
+ - [Train to Busan’s director made a sci-fi action movie for Alita: Battle Angel fans](https://www.polygon.com/reviews/23562867/jung-e-review-yeon-sang-ho-train-to-busan-director-netflix)
+ - [Next Week on Xbox – New Games for January 23 to 27](https://news.xbox.com/en-us/2023/01/20/next-week-on-xbox-new-games-for-january-23-to-27/)
+ - [Spectacular Destiny 2 Fit Is Right Out Of The Mummy](https://kotaku.com/destiny-2-brendan-fraser-the-mummy-transmog-outfit-1850009255)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
