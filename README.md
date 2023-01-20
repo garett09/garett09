@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awe that&#39;s sweet...](http://9gag.com/gag/amAPYw2)
- - 🚯 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 🚖 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
+ - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
  - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
 
 --- 
