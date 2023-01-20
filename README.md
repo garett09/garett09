@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Dutch privacy negotiators, empowered by GDPR, have spurred major changes at Google, Microsoft, Zoom, and others, as the Netherlands punches above its weight &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230120/p21#a230120p21)
- - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
- - [Feds looking at Goldman Sachs&#39; Apple Card business unit](https://appleinsider.com/articles/23/01/20/feds-looking-at-goldman-sachs-apple-card-business-unit?utm_medium=rss)<!-- TECH:END -->
+ - [Save $100 on Apple&#39;s MacBook Pro 2023 &amp; new Mac mini, prices as low as $499](https://appleinsider.com/articles/23/01/20/save-100-on-apples-2023-macbook-pro-mac-mini-prices-as-low-as-499?utm_medium=rss)
+ - [Netflix 3.0 Is Coming](https://www.wired.com/story/reed-hastings-netflix-end-of-era/)
+ - [The best Microsoft 365 package for your budget in 2023](https://appleinsider.com/inside/mac/best/the-best-microsoft-365-package-for-your-budget-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
