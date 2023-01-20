@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Micr\u00f6wave hac](http://9gag.com/gag/a0475rd)
- - 🚯 [First round](http://9gag.com/gag/aYVoxW2)
- - 🚯 [When the answer is infront of you and you still got it wrong....](http://9gag.com/gag/aNwpAKr)<!-- MEMES:END -->
+ - 🚖 [Oh well](http://9gag.com/gag/a6qEOo9)
+ - 🚯 [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
+ - 🚯 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)<!-- MEMES:END -->
 
 --- 
 
