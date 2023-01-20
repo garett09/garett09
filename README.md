@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku Express &lpar;2022&rpar; review: All aboard the Roku Express?](https://www.androidauthority.com/roku-express-2022-review-3258509/)
- - [Sources: Google is pushing advertisers to work with third-party resellers directly as it seeks to reduce its overheads related to advertising services &lpar;Ronan Shields/Digiday&rpar;](http://www.techmeme.com/230120/p20#a230120p20)
- - [New images show off Samsung’s 360 degree hinge that could come to the Fold 5](https://www.androidauthority.com/samsung-display-hinge-3270159/)<!-- TECH:END -->
+ - [How Dutch privacy negotiators, empowered by GDPR, have spurred major changes at Google, Microsoft, Zoom, and others, as the Netherlands punches above its weight &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230120/p21#a230120p21)
+ - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
+ - [Feds looking at Goldman Sachs&#39; Apple Card business unit](https://appleinsider.com/articles/23/01/20/feds-looking-at-goldman-sachs-apple-card-business-unit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
