@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the Era of Internet Blackouts](https://www.wired.com/story/cloudflare-internet-blackouts-report/)
- - [ChatGPT Stole Your Work. So What Are You Going to Do?](https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/)
- - [You Can Use This Silly Game to Do Some Serious Physics](https://www.wired.com/story/you-can-use-this-silly-game-to-do-some-serious-physics/)<!-- TECH:END -->
+ - [Canalys: Xiaomi shipments in India fell 40% YoY in Q4 2022 amid government scrutiny, falling behind Samsung and Vivo after being the top seller for 20 quarters &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/230120/p16#a230120p16)
+ - [6 Best Night-Lights &lpar;2023&rpar;: For Babies, Kids, and Teens](https://www.wired.com/gallery/best-nightlights/)
+ - [The Small but Mighty Danger of Echo Chamber Extremism](https://www.wired.com/story/media-echo-chamber-extremism/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
