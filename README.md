@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - 🚯 [My life is a lie.](http://9gag.com/gag/aWGj1A3)
- - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
+ - 🚖 [Oh well](http://9gag.com/gag/a6qEOo9)
+ - 🚯 [When you think you\u2019re close](http://9gag.com/gag/az2Mm8m)
+ - 🚯 [Humanity has failed](http://9gag.com/gag/aGEpgLw)<!-- MEMES:END -->
 
 --- 
 
