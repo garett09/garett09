@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - 🚯 [It&#39;s not just a kangaroo.](http://9gag.com/gag/anzQNxo)
- - 🚯 [My life is a lie.](http://9gag.com/gag/aWGj1A3)<!-- MEMES:END -->
+ - 🚯 [Tell me you love your cat without telling me you love your cat](http://9gag.com/gag/abvVrYL)
+ - 🚯 [When you meet your arch-nemesis](http://9gag.com/gag/aPg3YqG)<!-- MEMES:END -->
 
 --- 
 
