@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week – Star Wars Jedi: Fallen Order](https://blog.playstation.com/2023/01/20/share-of-the-week-star-wars-jedi-fallen-order-2/)
- - [Welcome to the Hunt! An Intro to Monster Hunter Rise on Xbox and PC](https://news.xbox.com/en-us/2023/01/20/monster-hunter-rise-out-on-xbox-and-pc/)
- - [League of Legends’ stinker cinematic belies a bigger trend](https://www.polygon.com/23562774/league-of-legends-brink-of-infinity-cinematic-controversy-explained)<!-- GAME:END -->
+ - [Fish Play Pokémon Scarlet And Violet, Accidentally Commit Credit Card Fraud](https://kotaku.com/pokemon-scarlet-violet-fish-youtube-credit-card-1850012376)
+ - [If you ever want to read The Winds of Winter, pray for the New York Giants](https://www.polygon.com/entertainment/23560856/winds-of-winter-release-date-george-r-r-martin-new-york-giants-football)
+ - [After 14 years, Risen is back—I decided to find out why](https://www.pcgamer.com/after-14-years-risen-is-backi-decided-to-find-out-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
