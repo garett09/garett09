@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Chinese government grants Didi permission to republish its apps on Apple&#39;s, Huawei&#39;s, Xiaomi&#39;s, and other app stores, after over a year of regulatory limbo &lpar;Bloomberg&rpar;](http://www.techmeme.com/230120/p10#a230120p10)
- - [Apple TV+ content currently unavailable due to outage [u]](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
- - [Google cuts 12,000 jobs in latest round of big tech layoffs](https://www.theverge.com/2023/1/20/23563706/google-layoffs-12000-jobs-cut-sundar-pichai)<!-- TECH:END -->
+ - [A survey of 2,300+ game developers: 45% don&#39;t buy the promise of the metaverse, 53% support unionization, 91% say harassment by players is an issue, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230120/p12#a230120p12)
+ - [Spotify rant demands decisive action against Apple](https://appleinsider.com/articles/23/01/20/spotify-rant-demands-decisive-action-against-apple?utm_medium=rss)
+ - [It’s Not Sci-Fi—NASA Is Funding These Mind-Blowing Projects](https://www.wired.com/story/its-not-sci-fi-nasa-is-funding-these-mind-blowing-projects/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
