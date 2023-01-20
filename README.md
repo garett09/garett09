@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Chinese government grants Didi permission to republish its apps on Apple&#39;s, Huawei&#39;s, Xiaomi&#39;s, and other app stores, after over a year of regulatory limbo &lpar;Bloomberg&rpar;](http://www.techmeme.com/230120/p10#a230120p10)
  - [Apple TV+ content currently unavailable due to outage [u]](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
- - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)
- - [Autonomous vehicles in China face legal and financial issues, including different rules set by local governments, less funding, and uncertain profit prospects &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230120/p6#a230120p6)<!-- TECH:END -->
+ - [Google cuts 12,000 jobs in latest round of big tech layoffs](https://www.theverge.com/2023/1/20/23563706/google-layoffs-12000-jobs-cut-sundar-pichai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
