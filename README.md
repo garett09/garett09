@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Warning Label](http://9gag.com/gag/aeQAMXQ)
- - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
- - 🚯 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)<!-- MEMES:END -->
+ - 🚖 [Mr mime knows something we don&#39;t](http://9gag.com/gag/aOx3YeR)
+ - 🚯 [First round](http://9gag.com/gag/aYVoxW2)
+ - 🚯 [A man charged with murder looks on while his Google searches from the day his wife disappeared are read in court](http://9gag.com/gag/a5XErVN)<!-- MEMES:END -->
 
 --- 
 
