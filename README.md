@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
- - 🚯 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - 🚯 [My life is a lie.](http://9gag.com/gag/aWGj1A3)
  - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
 
 --- 
