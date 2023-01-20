@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canalys: Xiaomi shipments in India fell 40% YoY in Q4 2022 amid government scrutiny, falling behind Samsung and Vivo after being the top seller for 20 quarters &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/230120/p16#a230120p16)
- - [6 Best Night-Lights &lpar;2023&rpar;: For Babies, Kids, and Teens](https://www.wired.com/gallery/best-nightlights/)
- - [The Small but Mighty Danger of Echo Chamber Extremism](https://www.wired.com/story/media-echo-chamber-extremism/)<!-- TECH:END -->
+ - [Amazon already dropped the price on Apple&#39;s 2023 MacBook Pro 14-inch](https://appleinsider.com/articles/23/01/19/amazon-already-dropped-the-price-on-apples-2023-macbook-pro-14-inch?utm_medium=rss)
+ - [Meta, Twitter, Microsoft, Yelp, and others file amicus briefs supporting Google in Gonzalez v. Google, asking SCOTUS not to weaken Section 230 protections &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230120/p17#a230120p17)
+ - [Porsche brings CarPlay to older models with new upgrades](https://appleinsider.com/articles/23/01/20/porsche-brings-carplay-to-older-models-with-new-upgrades?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
