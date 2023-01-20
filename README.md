@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change classes in Fire Emblem Engage](https://www.polygon.com/guides/23562780/fire-emblem-engage-change-class-weapon-proficiency-master-second-seals-level-base-advanced-special)
- - [I finally bought the massive 4K OLED gaming monitor I’ve been fiending for, and I couldn&#39;t be happier](https://www.pcgamer.com/i-finally-bought-the-massive-4k-oled-gaming-monitor-ive-been-fiending-for-and-i-couldnt-be-happier)
- - [The Last of Us co-creator &#39;isn’t getting a credit or a nickel&#39; from the HBO show](https://www.pcgamer.com/the-last-of-us-co-creator-isnt-getting-a-credit-or-a-nickel-from-the-hbo-show)<!-- GAME:END -->
+ - [Wait, again? War Thunder fans just can&#39;t help themselves when it comes to posting sensitive military documents](https://www.pcgamer.com/wait-again-war-thunder-fans-just-cant-help-themselves-when-it-comes-to-posting-sensitive-military-documents)
+ - [Invincible is finally coming back for season 2 later this year](https://www.polygon.com/23564634/invincible-season-2-release-date-cast-amazon-prime)
+ - [GOG is giving away this lovely little island adventure game for free](https://www.pcgamer.com/gog-is-giving-away-this-lovely-little-island-adventure-game-for-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
