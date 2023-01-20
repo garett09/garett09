@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 🚖 [Micr\u00f6wave hac](http://9gag.com/gag/a0475rd)
  - 🚯 [First round](http://9gag.com/gag/aYVoxW2)
- - 🚯 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)<!-- MEMES:END -->
+ - 🚯 [When the answer is infront of you and you still got it wrong....](http://9gag.com/gag/aNwpAKr)<!-- MEMES:END -->
 
 --- 
 
