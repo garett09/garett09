@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Paper Theater solutions in the Genshin Impact Lantern Rite event](https://www.pcgamer.com/genshin-impact-paper-theater-solutions)
- - [The reality of gaming in Iran: &quot;We are fighting against censorship to be able to play&quot;](https://www.pcgamer.com/the-reality-of-gaming-in-iran-we-are-fighting-against-censorship-to-be-able-to-play)
- - [ASRock heard you like AMD X670 mobos, so it turned a B650 into an X670 with an add-in card](https://www.pcgamer.com/asrock-heard-you-like-amd-x670-mobos-so-it-turned-a-b650-into-an-x670-with-an-add-in-card)<!-- GAME:END -->
+ - [The Last of Us co-creator says lack of credit for HBO show ‘an argument for unionization’](https://www.polygon.com/23563751/the-last-of-us-hbo-bruce-straley-neil-druckmann-credit-unionization)
+ - [7 Wonders: Edifice expands the hit board game with... FOMO](https://www.polygon.com/23562853/7-wonders-game-edifice-expansion-asmodee)
+ - [How the Trading Post works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-trading-post)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
