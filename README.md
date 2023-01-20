@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous vehicles in China face legal and financial issues, including different rules set by local governments, less funding, and uncertain profit prospects &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230120/p6#a230120p6)
- - [We asked, you told us: Most of you have a charger with a USB-C port](https://www.androidauthority.com/usb-c-smartphone-charger-poll-results-3269965/)
- - [Another year, another T-Mobile data breach](https://www.androidauthority.com/t-mobile-data-breach-37-million-accounts-3269945/)<!-- TECH:END -->
+ - [Apple TV+ content currently unavailable due to outage [u]](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
+ - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)
+ - [Autonomous vehicles in China face legal and financial issues, including different rules set by local governments, less funding, and uncertain profit prospects &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230120/p6#a230120p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
