@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone 2.0 Is Ditching 2v2 Gulags For Boring 1v1 Showdowns](https://kotaku.com/warzone-2-gulag-2v2-1v1-cod-changes-season-mw2-wz2-1850012590)
- - [Fish Play Pokémon Scarlet And Violet, Accidentally Commit Credit Card Fraud](https://kotaku.com/pokemon-scarlet-violet-fish-youtube-credit-card-1850012376)
- - [If you ever want to read The Winds of Winter, pray for the New York Giants](https://www.polygon.com/entertainment/23560856/winds-of-winter-release-date-george-r-r-martin-new-york-giants-football)<!-- GAME:END -->
+ - [That raven in The Legend of Vox Machina’s intro is key to season 2](https://www.polygon.com/23564004/legend-vox-machina-matron-ravens-black-robe-woman)
+ - [With The Last Of Us, Pedro Pascal Becomes The Internet&#39;s Daddy](https://kotaku.com/pedro-pascal-last-of-us-joel-daddy-game-of-thrones-1850013031)
+ - [To make an AI chat bot behave, Kenyan workers say they were &#39;mentally scarred&#39; by graphic text](https://www.pcgamer.com/chatgpt-outsourcing-report-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
