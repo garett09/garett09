@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon already dropped the price on Apple&#39;s 2023 MacBook Pro 14-inch](https://appleinsider.com/articles/23/01/19/amazon-already-dropped-the-price-on-apples-2023-macbook-pro-14-inch?utm_medium=rss)
- - [Meta, Twitter, Microsoft, Yelp, and others file amicus briefs supporting Google in Gonzalez v. Google, asking SCOTUS not to weaken Section 230 protections &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230120/p17#a230120p17)
- - [Porsche brings CarPlay to older models with new upgrades](https://appleinsider.com/articles/23/01/20/porsche-brings-carplay-to-older-models-with-new-upgrades?utm_medium=rss)<!-- TECH:END -->
+ - [Bankruptcy filing: Genesis Global owes more than $3.6B to its top 50 creditors, including $766M to Winklevoss&#39; Gemini Trust Company &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230120/p18#a230120p18)
+ - [M2 Pro &amp; Max GPUs are fast -- but not faster than M1 Ultra](https://appleinsider.com/articles/23/01/20/m2-pro-max-gpus-are-fast----but-not-faster-than-m1-ultra?utm_medium=rss)
+ - [Why Does AI Art Look Like a ’70s Prog-Rock Album Cover?](https://www.wired.com/story/generative-ai-style-movement-throwback/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
