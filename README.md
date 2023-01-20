@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Pop Keys keyboard review: Colorful, customizable and a dream to type with](https://appleinsider.com/articles/23/01/19/logitech-pop-keys-keyboard-colorful-customizable-and-a-dream-to-type-with?utm_medium=rss)
- - [Texas Instruments names COO Haviv Ilan as its next CEO starting on April 1, replacing Rich Templeton, who has been CEO for 19 years and will remain its chairman &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230119/p34#a230119p34)
- - [SEC filing: T-Mobile says a hacker stole data for ~37M customer accounts, including names and addresses, but no passwords, SSNs, or financial information &lpar;Catherine Larkin/Bloomberg&rpar;](http://www.techmeme.com/230119/p33#a230119p33)<!-- TECH:END -->
+ - [Crypto lender Nexo agrees to pay $45M in penalties to settle US SEC and state charges for failing to register the offer and sale of its Earn Interest Product &lpar;The Block&rpar;](http://www.techmeme.com/230119/p35#a230119p35)
+ - [BP makes an order for EV charging stations from US-based Tritium](https://www.theverge.com/2023/1/19/23562864/bp-pulse-orders-tritium-dc-fast-ev-electric-vehicle-chargers)
+ - [Twitter officially kills off all third-party client apps](https://appleinsider.com/articles/23/01/19/twitter-officially-kills-off-all-third-party-client-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
