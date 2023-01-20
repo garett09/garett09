@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where is my baby](http://9gag.com/gag/a4oEZmA)
- - 🚯 [Nobody tested the playground equipment when I was a kid.. That&#39;s why old folks are missing limbs and having scars since childhood](http://9gag.com/gag/a1PrK9w)
- - 🚯 [And gold teeth](http://9gag.com/gag/aA0bDz2)<!-- MEMES:END -->
+ - 🚖 [The American dream](http://9gag.com/gag/a0475YL)
+ - 🚯 [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
+ - 🚯 [Micr\u00f6wave hac](http://9gag.com/gag/a0475rd)<!-- MEMES:END -->
 
 --- 
 
