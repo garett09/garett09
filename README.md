@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC charges Avraham Eisenberg with manipulating Mango Markets&#39; governance token MNGO to steal $116M of crypto assets and says MNGO was sold as a security &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230120/p25#a230120p25)
- - [&#39;Ted Lasso&#39; Season 3 Premieres This Spring. Here&#39;s a First Look     - CNET](https://www.cnet.com/culture/entertainment/ted-lasso-season-3-premieres-this-spring-get-a-first-look/#ftag=CAD590a51e)
- - [6 Ways to Cope With Seasonal Affective Disorder This Winter     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-seasonal-affective-disorder-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says     - CNET](https://www.cnet.com/tech/computing/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/#ftag=CAD590a51e)
+ - [Feds Seize Additional $150 Million in FTX Assets in Case Against Co-Founder     - CNET](https://www.cnet.com/personal-finance/crypto/feds-seize-additional-150-million-in-ftx-assets-in-case-against-co-founder/#ftag=CAD590a51e)
+ - [The US SEC charges Avraham Eisenberg with manipulating Mango Markets&#39; governance token MNGO to steal $116M of crypto assets and says MNGO was sold as a security &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230120/p25#a230120p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
