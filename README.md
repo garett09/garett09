@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Humanity has failed](http://9gag.com/gag/aGEpgLw)
- - 🚯 [Really?](http://9gag.com/gag/ap9N5e9)
- - 🚯 [Flat nose dogs and folded ear cats are now BANNED in The Netherlands](http://9gag.com/gag/aYVoywV)<!-- MEMES:END -->
+ - 🚖 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
+ - 🚯 [His reaction when she won at the end is priceless.](http://9gag.com/gag/a047QbQ)
+ - 🚯 [Humanity has failed](http://9gag.com/gag/aGEpgLw)<!-- MEMES:END -->
 
 --- 
 
