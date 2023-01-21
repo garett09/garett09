@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk teases ‘higher priced’ Twitter Blue subscription with no ads](https://www.theverge.com/2023/1/21/23565364/elon-musk-twitter-blue-subscription-no-ads)
  - [I took Sony’s best pocket camera on vacation and regretted it](https://www.androidauthority.com/sony-zv-1-vacation-regret-3251582/)
- - [Filings: Signature Bank borrowed $10B in Q4 from Federal Home Loan Banks, the system originally designed to support mortgage lending; Silvergate borrowed $3.6B &lpar;Eric Wallerstein/Wall Street Journal&rpar;](http://www.techmeme.com/230121/p9#a230121p9)
- - [iPhone 15 Pro may use thinner curved bezels for display](https://appleinsider.com/articles/23/01/21/iphone-15-pro-may-use-thinner-curved-bezels-for-display?utm_medium=rss)<!-- TECH:END -->
+ - [Filings: Signature Bank borrowed $10B in Q4 from Federal Home Loan Banks, the system originally designed to support mortgage lending; Silvergate borrowed $3.6B &lpar;Eric Wallerstein/Wall Street Journal&rpar;](http://www.techmeme.com/230121/p9#a230121p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
