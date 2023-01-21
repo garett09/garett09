@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
- - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)<!-- MEMES:END -->
+ - 🚖 [My life is a lie.](http://9gag.com/gag/aWGj1A3)
+ - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)
+ - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
 --- 
 
