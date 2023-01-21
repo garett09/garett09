@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix this January](https://www.polygon.com/what-to-watch/2023/1/21/23558844/best-thriller-movies-netflix-watch-january-2023)
- - [Wordle hint and answer today: Let&#39;s solve #581, January 21](https://www.pcgamer.com/wordle-hint-answer-today-581-january-21)
- - [The people trying to work in a virtual office have found themselves in a real mess](https://www.pcgamer.com/the-people-trying-to-work-in-a-virtual-office-have-found-themselves-in-a-real-mess)<!-- GAME:END -->
+ - [Pokémon Go Larvitar Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/1/21/23564050/larvitar-community-day-classic-tyranitar-shiny-special-move-times)
+ - [Roblox wants an older audience, but it’s leaving younger players behind](https://www.polygon.com/23563104/roblox-experience-guidelines-age-assault-safety)
+ - [The 5 best thrillers to watch on Netflix this January](https://www.polygon.com/what-to-watch/2023/1/21/23558844/best-thriller-movies-netflix-watch-january-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
