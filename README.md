@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
- - 🚯 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)
- - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)
+ - 🚯 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
+ - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)<!-- MEMES:END -->
 
 --- 
 
