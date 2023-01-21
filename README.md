@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Wandering Earth II takes a sci-fi blockbuster in a stranger, darker direction](https://www.polygon.com/reviews/23564389/the-wandering-earth-ii-review-sci-fi-blockbuster-china-prequel)
  - [Pokémon Go Larvitar Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/1/21/23564050/larvitar-community-day-classic-tyranitar-shiny-special-move-times)
- - [Roblox wants an older audience, but it’s leaving younger players behind](https://www.polygon.com/23563104/roblox-experience-guidelines-age-assault-safety)
- - [The 5 best thrillers to watch on Netflix this January](https://www.polygon.com/what-to-watch/2023/1/21/23558844/best-thriller-movies-netflix-watch-january-2023)<!-- GAME:END -->
+ - [Roblox wants an older audience, but it’s leaving younger players behind](https://www.polygon.com/23563104/roblox-experience-guidelines-age-assault-safety)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
