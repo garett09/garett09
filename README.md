@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech companies like Google and Microsoft have offered a muted response to unrest in Iran, prompting side projects by employees to fight censorship and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230121/p6#a230121p6)
  - [Google cuts most of the Area 120 team and will graduate three of the incubator&#39;s projects in 2023; sources: staff not involved in those projects were laid off &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230121/p5#a230121p5)
- - [Emails and sources: Google fired 16% of its ~400-person Fuchsia OS team, Research cut jobs in low traction areas, and Cloud cut operational and other roles &lpar;New York Times&rpar;](http://www.techmeme.com/230121/p4#a230121p4)
- - [AWS will spend $35B on new data centers in Virginia by 2040, creating ~1,000 jobs, in exchange for tax breaks and potential performance grants of up to $140M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230121/p3#a230121p3)<!-- TECH:END -->
+ - [Emails and sources: Google fired 16% of its ~400-person Fuchsia OS team, Research cut jobs in low traction areas, and Cloud cut operational and other roles &lpar;New York Times&rpar;](http://www.techmeme.com/230121/p4#a230121p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
