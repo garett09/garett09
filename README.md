@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Warning Label](http://9gag.com/gag/aeQAMXQ)
- - 🚯 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
- - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
+ - 🚖 [Humanity has failed](http://9gag.com/gag/aGEpgLw)
+ - 🚯 [Really?](http://9gag.com/gag/ap9N5e9)
+ - 🚯 [Flat nose dogs and folded ear cats are now BANNED in The Netherlands](http://9gag.com/gag/aYVoywV)<!-- MEMES:END -->
 
 --- 
 
