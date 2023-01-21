@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 5 best thrillers to watch on Netflix this January](https://www.polygon.com/what-to-watch/2023/1/21/23558844/best-thriller-movies-netflix-watch-january-2023)
  - [Wordle hint and answer today: Let&#39;s solve #581, January 21](https://www.pcgamer.com/wordle-hint-answer-today-581-january-21)
- - [The people trying to work in a virtual office have found themselves in a real mess](https://www.pcgamer.com/the-people-trying-to-work-in-a-virtual-office-have-found-themselves-in-a-real-mess)
- - [Marvel&#39;s Avengers won&#39;t be supported after September](https://www.pcgamer.com/marvels-avengers-wont-be-supported-after-september)<!-- GAME:END -->
+ - [The people trying to work in a virtual office have found themselves in a real mess](https://www.pcgamer.com/the-people-trying-to-work-in-a-virtual-office-have-found-themselves-in-a-real-mess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
