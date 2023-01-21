@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel&#39;s Avengers won&#39;t be supported after September](https://www.pcgamer.com/marvels-avengers-wont-be-supported-after-september)
  - [Xbox boss Phil Spencer says layoffs were &#39;painful&#39; but necessary for &#39;long-term success&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-layoffs-were-painful-but-necessary-for-long-term-success)
- - [Big Switch Eshop Sale: Discounts On Lego, Resident Evil, And More](https://kotaku.com/nintendo-switch-eshop-sale-resident-evil-lego-one-piece-1850014030)
- - [Violent Night, Netflix’s JUNG_E, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/20/23557567/new-movies-watch-violent-night-netflix-jung-e-aftersun)<!-- GAME:END -->
+ - [Big Switch Eshop Sale: Discounts On Lego, Resident Evil, And More](https://kotaku.com/nintendo-switch-eshop-sale-resident-evil-lego-one-piece-1850014030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
