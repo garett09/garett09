@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Netflix co-CEOs Greg Peters and Ted Sarandos about shared leadership, what role Reed Hastings may play, adding FAST channels, the ad tier, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230121/p11#a230121p11)
  - [Tests confirm macOS Finder isn&#39;t scanning for CSAM images](https://appleinsider.com/articles/23/01/21/tests-confirm-macos-finder-isnt-scanning-for-csam-images?utm_medium=rss)
- - [Sweeping Milky Way Portrait Captures More Than 3 Billion Stars     - CNET](https://www.cnet.com/science/space/sweeping-milky-way-portrait-captures-more-than-3-billion-stars/#ftag=CAD590a51e)
- - [Your Next Android Phone Will Be Better Because of Apple and Magnets     - CNET](https://www.cnet.com/tech/mobile/your-next-android-phone-will-be-better-because-of-apple-and-magnets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sweeping Milky Way Portrait Captures More Than 3 Billion Stars     - CNET](https://www.cnet.com/science/space/sweeping-milky-way-portrait-captures-more-than-3-billion-stars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
