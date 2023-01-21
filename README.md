@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Friday’s top tech news: job cuts come for Google](https://www.theverge.com/2023/1/20/23563699/january-20-2023-tech-news-liveblog)
  - [ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says     - CNET](https://www.cnet.com/tech/computing/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/#ftag=CAD590a51e)
- - [Feds Seize Additional $150 Million in FTX Assets in Case Against Co-Founder     - CNET](https://www.cnet.com/personal-finance/crypto/feds-seize-additional-150-million-in-ftx-assets-in-case-against-co-founder/#ftag=CAD590a51e)
- - [Twitter will stop forcing you onto its “For you” timeline](https://www.theverge.com/2023/1/20/23564806/twitter-for-you-timeline-update-default-remember-tabs)<!-- TECH:END -->
+ - [Feds Seize Additional $150 Million in FTX Assets in Case Against Co-Founder     - CNET](https://www.cnet.com/personal-finance/crypto/feds-seize-additional-150-million-in-ftx-assets-in-case-against-co-founder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
