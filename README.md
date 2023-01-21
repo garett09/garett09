@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wandering Earth II takes a sci-fi blockbuster in a stranger, darker direction](https://www.polygon.com/reviews/23564389/the-wandering-earth-ii-review-sci-fi-blockbuster-china-prequel)
- - [Pokémon Go Larvitar Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/1/21/23564050/larvitar-community-day-classic-tyranitar-shiny-special-move-times)
- - [Roblox wants an older audience, but it’s leaving younger players behind](https://www.polygon.com/23563104/roblox-experience-guidelines-age-assault-safety)<!-- GAME:END -->
+ - [Phantom Liberty will be the biggest add-on CD Projekt has ever made⁠—by budget](https://www.pcgamer.com/phantom-liberty-will-be-the-biggest-add-on-cd-projekt-has-ever-madeby-budget)
+ - [Overwatch 2 players are mistakenly blaming Mercy for its balance problems](https://www.pcgamer.com/overwatch-2-players-are-mistakenly-blaming-mercy-for-its-balance-problems)
+ - [The Wandering Earth II takes a sci-fi blockbuster in a stranger, darker direction](https://www.polygon.com/reviews/23564389/the-wandering-earth-ii-review-sci-fi-blockbuster-china-prequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
