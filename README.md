@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aha, the sex...](http://9gag.com/gag/aL1p0gV)
- - 🚯 [Really?](http://9gag.com/gag/ap9N5e9)
- - 🚯 [I never celebrate birthdays, not my thing](http://9gag.com/gag/aWGjxnZ)<!-- MEMES:END -->
+ - 🚖 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
+ - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)
+ - 🚯 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)<!-- MEMES:END -->
 
 --- 
 
