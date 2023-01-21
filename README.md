@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚖 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚯 [And they\u2019re quite reliable too](http://9gag.com/gag/aWGjEB6)
  - 🚯 [New Superhero?](http://9gag.com/gag/a8qEEw1)<!-- MEMES:END -->
 
 --- 
