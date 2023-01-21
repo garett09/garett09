@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)
- - 🚯 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
- - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)<!-- MEMES:END -->
+ - 🚖 [To the moon and beyond](http://9gag.com/gag/aA0bGmp)
+ - 🚯 [This is David Hampson AKA `The Silent Man` - A UK citizen who is repeatedly arrested for standing on a certain road to block traffic. He never speaks a word, not even to the court or his lawyer. Every time he is released he repeats the same crime and remains silent](http://9gag.com/gag/abvVv3v)
+ - 🚯 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)<!-- MEMES:END -->
 
 --- 
 
