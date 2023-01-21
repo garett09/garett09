@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friday’s top tech news: job cuts come for Google](https://www.theverge.com/2023/1/20/23563699/january-20-2023-tech-news-liveblog)
- - [ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says     - CNET](https://www.cnet.com/tech/computing/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/#ftag=CAD590a51e)
- - [Feds Seize Additional $150 Million in FTX Assets in Case Against Co-Founder     - CNET](https://www.cnet.com/personal-finance/crypto/feds-seize-additional-150-million-in-ftx-assets-in-case-against-co-founder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The main reason ChatGPT is a threat to Google is because the latter&#39;s monopoly position allowed search to degenerate into a spam-ridden, SEO-fueled hellscape &lpar;Can Duruk/Margins&rpar;](http://www.techmeme.com/230121/p1#a230121p1)
+ - [China&#39;s second-largest chip foundry Hua Hong signs a $6.7B wafer fab deal to produce 65nm, 55nm, 40nm, and other chips, as China pivots away from sub-14nm tech &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/230120/p27#a230120p27)
+ - [VR edtech company Dreamscape Learn, developed through a two-year partnership between Arizona State University and Dreamscape Immersive, raised a $20M Series A &lpar;Jeff Gifford/Phoenix Business Journal&rpar;](http://www.techmeme.com/230120/p26#a230120p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
