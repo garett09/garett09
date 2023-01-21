@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
- - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)<!-- MEMES:END -->
+ - 🚖 [Aha, the sex...](http://9gag.com/gag/aL1p0gV)
+ - 🚯 [Really?](http://9gag.com/gag/ap9N5e9)
+ - 🚯 [I never celebrate birthdays, not my thing](http://9gag.com/gag/aWGjxnZ)<!-- MEMES:END -->
 
 --- 
 
