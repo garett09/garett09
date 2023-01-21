@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Say what again?](http://9gag.com/gag/a1Pr1VP)
- - 🚯 [Humanity has failed](http://9gag.com/gag/aGEpgLw)
- - 🚯 [Checkmate Simps.](http://9gag.com/gag/aA0bGO9)<!-- MEMES:END -->
+ - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
+ - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚯 [New Superhero?](http://9gag.com/gag/a8qEEw1)<!-- MEMES:END -->
 
 --- 
 
