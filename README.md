@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)
+ - 🚖 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
  - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
+ - 🚯 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)<!-- MEMES:END -->
 
 --- 
 
