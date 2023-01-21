@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
- - 🚯 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
+ - 🚖 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
+ - 🚯 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
  - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
 --- 
