@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro may use thinner curved bezels for display](https://appleinsider.com/articles/23/01/21/iphone-15-pro-may-use-thinner-curved-bezels-for-display?utm_medium=rss)
- - [The Amazon Echo Studio’s big update makes it one of the best smart speakers](https://www.androidauthority.com/amazon-echo-studio-review-update-3266034/)
- - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [I took Sony’s best pocket camera on vacation and regretted it](https://www.androidauthority.com/sony-zv-1-vacation-regret-3251582/)
+ - [Filings: Signature Bank borrowed $10B in Q4 from Federal Home Loan Banks, the system originally designed to support mortgage lending; Silvergate borrowed $3.6B &lpar;Eric Wallerstein/Wall Street Journal&rpar;](http://www.techmeme.com/230121/p9#a230121p9)
+ - [iPhone 15 Pro may use thinner curved bezels for display](https://appleinsider.com/articles/23/01/21/iphone-15-pro-may-use-thinner-curved-bezels-for-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
