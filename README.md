@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: Sayonara S23 price hike!](https://www.androidauthority.com/weekly-authority-january-21-228-3267378/)
- - [15 Best Deals: Hiking, Camping, and Outdoor Gear](https://www.wired.com/story/weekend-deals-jan-21-2023/)
- - [How to Spot AI-Generated Art, According to Artists](https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/)<!-- TECH:END -->
+ - [How to cancel a subscription to Tweetbot or other Twitter clients](https://appleinsider.com/inside/ios-16/tips/how-to-cancel-a-subscription-to-tweetbot-or-other-twitter-clients?utm_medium=rss)
+ - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)
+ - [Daily deals Jan. 21: $499 M2 Mac mini, $100 off 34-inch Alienware Curved OLED monitor, $25 off TurboTax Deluxe, &amp; more](https://appleinsider.com/articles/23/01/21/daily-deals-jan-21-499-m2-mac-mini-100-off-34-inch-alienware-curved-oled-monitor-25-off-turbotax-deluxe-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
