@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Warning Label](http://9gag.com/gag/aeQAMXQ)
+ - 🚖 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
  - 🚯 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
  - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
