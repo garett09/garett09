@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
- - 🚯 [His reaction when she won at the end is priceless.](http://9gag.com/gag/a047QbQ)
- - 🚯 [Humanity has failed](http://9gag.com/gag/aGEpgLw)<!-- MEMES:END -->
+ - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
+ - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)<!-- MEMES:END -->
 
 --- 
 
