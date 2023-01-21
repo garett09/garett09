@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wait, again? War Thunder fans just can&#39;t help themselves when it comes to posting sensitive military documents](https://www.pcgamer.com/wait-again-war-thunder-fans-just-cant-help-themselves-when-it-comes-to-posting-sensitive-military-documents)
- - [Invincible is finally coming back for season 2 later this year](https://www.polygon.com/23564634/invincible-season-2-release-date-cast-amazon-prime)
- - [GOG is giving away this lovely little island adventure game for free](https://www.pcgamer.com/gog-is-giving-away-this-lovely-little-island-adventure-game-for-free)<!-- GAME:END -->
+ - [Xbox boss Phil Spencer says layoffs were &#39;painful&#39; but necessary for &#39;long-term success&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-layoffs-were-painful-but-necessary-for-long-term-success)
+ - [Big Switch Eshop Sale: Discounts On Lego, Resident Evil, And More](https://kotaku.com/nintendo-switch-eshop-sale-resident-evil-lego-one-piece-1850014030)
+ - [Violent Night, Netflix’s JUNG_E, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/1/20/23557567/new-movies-watch-violent-night-netflix-jung-e-aftersun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
