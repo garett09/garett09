@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
- - 🚯 [And they\u2019re quite reliable too](http://9gag.com/gag/aWGjEB6)
- - 🚯 [New Superhero?](http://9gag.com/gag/a8qEEw1)<!-- MEMES:END -->
+ - 🚖 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
+ - 🚯 [Butt how?](http://9gag.com/gag/aEqp86p)
+ - 🚯 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)<!-- MEMES:END -->
 
 --- 
 
