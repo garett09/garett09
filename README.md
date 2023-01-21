@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US prosecutors provide a list of ~$700M worth of Sam Bankman-Fried&#39;s seized assets, including ~$525M in Robinhood stock and $94.5M cash at Silvergate Bank &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/230121/p2#a230121p2)
- - [The main reason ChatGPT is a threat to Google is because the latter&#39;s monopoly position allowed search to degenerate into a spam-ridden, SEO-fueled hellscape &lpar;Can Duruk/Margins&rpar;](http://www.techmeme.com/230121/p1#a230121p1)
- - [China&#39;s second-largest chip foundry Hua Hong signs a $6.7B wafer fab deal to produce 65nm, 55nm, 40nm, and other chips, as China pivots away from sub-14nm tech &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/230120/p27#a230120p27)<!-- TECH:END -->
+ - [Google cuts most of the Area 120 team and will graduate three of the incubator&#39;s projects in 2023; sources: staff not involved in those projects were laid off &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230121/p5#a230121p5)
+ - [Emails and sources: Google fired 16% of its ~400-person Fuchsia OS team, Research cut jobs in low traction areas, and Cloud cut operational and other roles &lpar;New York Times&rpar;](http://www.techmeme.com/230121/p4#a230121p4)
+ - [AWS will spend $35B on new data centers in Virginia by 2040, creating ~1,000 jobs, in exchange for tax breaks and potential performance grants of up to $140M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230121/p3#a230121p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
