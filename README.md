@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-468-3269778/)
- - [Pick up Apple&#39;s M2 Mac mini 2023 for just $499](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
- - [How Apple&#39;s lean hiring may help it avoid layoffs; Apple&#39;s workforce grew 20% from 2019 to 2022, Amazon&#39;s grew 100%, Meta 94%, Alphabet 57%, Microsoft 53% &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230121/p8#a230121p8)<!-- TECH:END -->
+ - [iPhone 15 Pro may use thinner curved bezels for display](https://appleinsider.com/articles/23/01/21/iphone-15-pro-may-use-thinner-curved-bezels-for-display?utm_medium=rss)
+ - [The Amazon Echo Studio’s big update makes it one of the best smart speakers](https://www.androidauthority.com/amazon-echo-studio-review-update-3266034/)
+ - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
