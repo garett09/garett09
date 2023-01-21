@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Muppets Inside was a classic of the &#39;CD-ROM full of stuff&#39; era](https://www.pcgamer.com/saturday-crapshoot-muppets-inside)
- - [Phantom Liberty will be the biggest add-on CD Projekt has ever made⁠—by budget](https://www.pcgamer.com/phantom-liberty-will-be-the-biggest-add-on-cd-projekt-has-ever-madeby-budget)
- - [Overwatch 2 players are mistakenly blaming Mercy for its balance problems](https://www.pcgamer.com/overwatch-2-players-are-mistakenly-blaming-mercy-for-its-balance-problems)<!-- GAME:END -->
+ - [The most vital Dwarf Fortress mod has arrived for Steam, complete with 3D visuals](https://www.pcgamer.com/the-most-vital-dwarf-fortress-mod-has-arrived-for-steam-complete-with-3d-visuals)
+ - [Elder Scrolls Online teases involvement of immortal Lovecraft crab tentacle demon in this year&#39;s expansion](https://www.pcgamer.com/elder-scrolls-online-teases-involvement-of-immortal-lovecraft-crab-tentacle-demon-in-this-years-expansion)
+ - [Muppets Inside was a classic of the &#39;CD-ROM full of stuff&#39; era](https://www.pcgamer.com/saturday-crapshoot-muppets-inside)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
