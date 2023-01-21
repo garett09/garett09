@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech companies like Google and Microsoft have offered a muted response to unrest in Iran, prompting side projects by employees to fight censorship and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230121/p6#a230121p6)
- - [Google cuts most of the Area 120 team and will graduate three of the incubator&#39;s projects in 2023; sources: staff not involved in those projects were laid off &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230121/p5#a230121p5)
- - [Emails and sources: Google fired 16% of its ~400-person Fuchsia OS team, Research cut jobs in low traction areas, and Cloud cut operational and other roles &lpar;New York Times&rpar;](http://www.techmeme.com/230121/p4#a230121p4)<!-- TECH:END -->
+ - [The Weekly Authority: Sayonara S23 price hike!](https://www.androidauthority.com/weekly-authority-january-21-228-3267378/)
+ - [15 Best Deals: Hiking, Camping, and Outdoor Gear](https://www.wired.com/story/weekend-deals-jan-21-2023/)
+ - [How to Spot AI-Generated Art, According to Artists](https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
