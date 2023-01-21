@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #581, January 21](https://www.pcgamer.com/wordle-hint-answer-today-581-january-21)
  - [The people trying to work in a virtual office have found themselves in a real mess](https://www.pcgamer.com/the-people-trying-to-work-in-a-virtual-office-have-found-themselves-in-a-real-mess)
- - [Marvel&#39;s Avengers won&#39;t be supported after September](https://www.pcgamer.com/marvels-avengers-wont-be-supported-after-september)
- - [Xbox boss Phil Spencer says layoffs were &#39;painful&#39; but necessary for &#39;long-term success&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-layoffs-were-painful-but-necessary-for-long-term-success)<!-- GAME:END -->
+ - [Marvel&#39;s Avengers won&#39;t be supported after September](https://www.pcgamer.com/marvels-avengers-wont-be-supported-after-september)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
