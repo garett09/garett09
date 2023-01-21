@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
- - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
- - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)<!-- MEMES:END -->
+ - 🚖 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)
+ - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
+ - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
 --- 
 
