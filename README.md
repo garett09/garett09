@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s fledgling drone delivery unit, which has struggled due to safety concerns and now faces layoffs and other cost-cutting measures &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230121/p10#a230121p10)
- - [AltspaceVR is shutting down as Microsoft’s mixed reality division shrinks](https://www.theverge.com/2023/1/21/23565188/altspace-vr-shutting-down-microsoft-layoffs)
- - [Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-35-absolute-best-tv-shows-to-watch-in-january-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tests confirm macOS Finder isn&#39;t scanning for CSAM images](https://appleinsider.com/articles/23/01/21/tests-confirm-macos-finder-isnt-scanning-for-csam-images?utm_medium=rss)
+ - [Sweeping Milky Way Portrait Captures More Than 3 Billion Stars     - CNET](https://www.cnet.com/science/space/sweeping-milky-way-portrait-captures-more-than-3-billion-stars/#ftag=CAD590a51e)
+ - [Your Next Android Phone Will Be Better Because of Apple and Magnets     - CNET](https://www.cnet.com/tech/mobile/your-next-android-phone-will-be-better-because-of-apple-and-magnets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
