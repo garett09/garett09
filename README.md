@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk teases ‘higher priced’ Twitter Blue subscription with no ads](https://www.theverge.com/2023/1/21/23565364/elon-musk-twitter-blue-subscription-no-ads)
- - [I took Sony’s best pocket camera on vacation and regretted it](https://www.androidauthority.com/sony-zv-1-vacation-regret-3251582/)
- - [Filings: Signature Bank borrowed $10B in Q4 from Federal Home Loan Banks, the system originally designed to support mortgage lending; Silvergate borrowed $3.6B &lpar;Eric Wallerstein/Wall Street Journal&rpar;](http://www.techmeme.com/230121/p9#a230121p9)<!-- TECH:END -->
+ - [A look at Amazon&#39;s fledgling drone delivery unit, which has struggled due to safety concerns and now faces layoffs and other cost-cutting measures &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230121/p10#a230121p10)
+ - [AltspaceVR is shutting down as Microsoft’s mixed reality division shrinks](https://www.theverge.com/2023/1/21/23565188/altspace-vr-shutting-down-microsoft-layoffs)
+ - [Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-35-absolute-best-tv-shows-to-watch-in-january-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
