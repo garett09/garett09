@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
- - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [To the moon and beyond](http://9gag.com/gag/aA0bGmp)<!-- MEMES:END -->
+ - 🚖 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
+ - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)<!-- MEMES:END -->
 
 --- 
 
