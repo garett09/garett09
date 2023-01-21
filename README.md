@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US State Department Ditches Times New Roman for Calibri](https://www.wired.com/story/us-state-department-calibri-times-new-roman-fonts/)
- - [A Promising HIV Vaccine Just Failed an Important Clinical Trial     - CNET](https://www.cnet.com/health/medical/a-promising-hiv-vaccine-just-failed-an-important-clinical-trial/#ftag=CAD590a51e)
- - [Microsoft Is Shutting Down Its Social VR Platform AltspaceVR     - CNET](https://www.cnet.com/tech/computing/microsoft-is-shutting-down-its-social-vr-platform-altspacevr/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US SEC charges Avraham Eisenberg with manipulating Mango Markets&#39; governance token MNGO to steal $116M of crypto assets and says MNGO was sold as a security &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230120/p25#a230120p25)
+ - [&#39;Ted Lasso&#39; Season 3 Premieres This Spring. Here&#39;s a First Look     - CNET](https://www.cnet.com/culture/entertainment/ted-lasso-season-3-premieres-this-spring-get-a-first-look/#ftag=CAD590a51e)
+ - [6 Ways to Cope With Seasonal Affective Disorder This Winter     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-seasonal-affective-disorder-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
