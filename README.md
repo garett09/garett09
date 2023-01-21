@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
- - 🚯 [Warning Label](http://9gag.com/gag/aeQAMXQ)
- - 🚯 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)<!-- MEMES:END -->
+ - 🚖 [Warning Label](http://9gag.com/gag/aeQAMXQ)
+ - 🚯 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
+ - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
 --- 
 
