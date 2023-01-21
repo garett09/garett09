@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to cancel a subscription to Tweetbot or other Twitter clients](https://appleinsider.com/inside/ios-16/tips/how-to-cancel-a-subscription-to-tweetbot-or-other-twitter-clients?utm_medium=rss)
- - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)
- - [Daily deals Jan. 21: $499 M2 Mac mini, $100 off 34-inch Alienware Curved OLED monitor, $25 off TurboTax Deluxe, &amp; more](https://appleinsider.com/articles/23/01/21/daily-deals-jan-21-499-m2-mac-mini-100-off-34-inch-alienware-curved-oled-monitor-25-off-turbotax-deluxe-more?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram Notifications Get Less Annoying With a ‘Quiet Mode’](https://www.wired.com/story/instagram-quiet-mode-notifications/)
+ - [The Biggest US Surveillance Program You Didn’t Know About](https://www.wired.com/story/trac-money-transfer-surveillance-security-roundup/)
+ - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
