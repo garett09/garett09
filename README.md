@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the two smart home products I miss the most after moving to a rental](https://www.androidauthority.com/smart-home-products-blinds-locks-3248405/)
- - [15 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Current and ex-Amazon managers and execs say focus on managing costs should have come sooner, ideas aren&#39;t evaluated with the same rigor as before, and more &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/230121/p7#a230121p7)<!-- TECH:END -->
+ - [How to use SCP to transfer files in the macOS Terminal](https://appleinsider.com/inside/macos/tips/how-to-use-scp-to-transfer-files-in-the-macos-terminal?utm_medium=rss)
+ - [Amazon’s kid-friendly Kindle is nearly 30 percent off right now](https://www.theverge.com/2023/1/21/23563924/amazon-kindle-kids-samsung-frame-tv-motorola-moto-g-stylus-phone-anker-511-charger-deal-sale)
+ - [These are the two smart home products I miss the most after moving to a rental](https://www.androidauthority.com/smart-home-products-blinds-locks-3248405/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
