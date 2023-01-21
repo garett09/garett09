@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
- - 🚯 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)<!-- MEMES:END -->
+ - 🚖 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
+ - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
+ - 🚯 [To the moon and beyond](http://9gag.com/gag/aA0bGmp)<!-- MEMES:END -->
 
 --- 
 
