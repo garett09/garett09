@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram Notifications Get Less Annoying With a ‘Quiet Mode’](https://www.wired.com/story/instagram-quiet-mode-notifications/)
- - [The Biggest US Surveillance Program You Didn’t Know About](https://www.wired.com/story/trac-money-transfer-surveillance-security-roundup/)
- - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [These are the two smart home products I miss the most after moving to a rental](https://www.androidauthority.com/smart-home-products-blinds-locks-3248405/)
+ - [15 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Current and ex-Amazon managers and execs say focus on managing costs should have come sooner, ideas aren&#39;t evaluated with the same rigor as before, and more &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/230121/p7#a230121p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
