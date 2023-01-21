@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
+ - 🚖 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
  - 🚯 [Oh well](http://9gag.com/gag/a6qEOo9)
- - 🚯 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)<!-- MEMES:END -->
+ - 🚯 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)<!-- MEMES:END -->
 
 --- 
 
