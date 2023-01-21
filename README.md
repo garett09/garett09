@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
- - 🚯 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
- - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
+ - 🚖 [Say what again?](http://9gag.com/gag/a1Pr1VP)
+ - 🚯 [Humanity has failed](http://9gag.com/gag/aGEpgLw)
+ - 🚯 [Checkmate Simps.](http://9gag.com/gag/aA0bGO9)<!-- MEMES:END -->
 
 --- 
 
