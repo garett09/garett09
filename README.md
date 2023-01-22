@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To the moon and beyond](http://9gag.com/gag/aA0bGmp)
- - 🚯 [Kombucha under the microscope! Thousands of living cells in a single drop](http://9gag.com/gag/aL1pp5P)
- - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
+ - 🚖 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)
+ - 🚯 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
+ - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)<!-- MEMES:END -->
 
 --- 
 
