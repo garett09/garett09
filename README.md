@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After a wave of layoffs, 343 studio head declares &#39;Halo and the Master Chief are here to stay&#39;](https://www.pcgamer.com/after-a-wave-of-layoffs-343-studio-head-declares-halo-and-the-master-chief-are-here-to-stay)
  - [Become a true artist with The Joy of Painting mod for Morrowind](https://www.pcgamer.com/become-a-true-artist-with-the-joy-of-painting-mod-for-morrowind)
- - [Wordle hint and answer today: Let&#39;s solve #582, January 22](https://www.pcgamer.com/wordle-hint-answer-today-582-january-22)
- - [Great moments in PC gaming: Building a robot servant in The Sims 4](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-robot-servant-in-the-sims-4)<!-- GAME:END -->
+ - [Wordle hint and answer today: Let&#39;s solve #582, January 22](https://www.pcgamer.com/wordle-hint-answer-today-582-january-22)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
