@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Apple timed the launch of its new MacBook Pro, Mac mini, and HomePod to boost its Q2 revenue, while avoiding supply issues during the holiday season &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230122/p4#a230122p4)
- - [Retrofitting my rented home with SwitchBot smart home tools has been a lifesaver](https://www.androidauthority.com/switchbot-smart-home-3267515/)
- - [New HomePod mini model isn&#39;t being worked on right now](https://appleinsider.com/articles/23/01/22/new-homepod-mini-model-probably-isnt-being-worked-on-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [After Apple&#39;s busy January, the rest of the quarter may be quiet](https://appleinsider.com/articles/23/01/22/after-apples-busy-january-the-rest-of-the-quarter-may-be-quiet?utm_medium=rss)
+ - [Analysis: Apple timed the new MacBook Pro, Mac mini, and HomePod launch to boost this quarter&#39;s revenue, while avoiding supply issues during the holiday season &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230122/p4#a230122p4)
+ - [Retrofitting my rented home with SwitchBot smart home tools has been a lifesaver](https://www.androidauthority.com/switchbot-smart-home-3267515/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
