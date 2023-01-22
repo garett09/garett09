@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God: well, at least it&#39;s not poop](http://9gag.com/gag/a5XEQbN)
+ - 🚖 [Idiot getting bamboozled after trying to bypass highway toll](http://9gag.com/gag/a7qEqZb)
  - 🚯 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [Look he is the human who saved me.](http://9gag.com/gag/a0474MB)<!-- MEMES:END -->
+ - 🚯 [After holidays in Poland:D](http://9gag.com/gag/aoKMy1x)<!-- MEMES:END -->
 
 --- 
 
