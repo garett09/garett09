@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merriam-Webster acquires popular Wordle clone, Quordle](https://www.theverge.com/2023/1/22/23566622/merriam-webster-acquires-quordle-wordle-clone)
- - [&#39;The Last of Us&#39; HBO Adaptation Brings Its Universe Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-brings-its-universe-beyond-the-playstation-game/#ftag=CAD590a51e)
- - [How some US incarcerated people use contraband mobile phones to educate themselves, make TikToks, find love, publicize prison conditions, earn money, and more &lpar;Keri Blakinger/The Marshall Project&rpar;](http://www.techmeme.com/230122/p5#a230122p5)<!-- TECH:END -->
+ - [Samsung may put its free TV Plus streaming app into other manufacturers’ TVs](https://www.theverge.com/2023/1/22/23566741/samsung-free-tv-plus-streaming-tcl)
+ - [Researchers and ex-Twitter staff: physical attacks in the US have tracked with spikes in some hate speech on Twitter, notably anti-Semitic and anti-gay rhetoric &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230122/p6#a230122p6)
+ - [&#39;Jung_E&#39; on Netflix: That Bittersweet Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/jung-e-on-netflix-that-bittersweet-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
