@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most vital Dwarf Fortress mod has arrived for Steam, complete with 3D visuals](https://www.pcgamer.com/the-most-vital-dwarf-fortress-mod-has-arrived-for-steam-complete-with-3d-visuals)
- - [Elder Scrolls Online teases involvement of immortal Lovecraft crab tentacle demon in this year&#39;s expansion](https://www.pcgamer.com/elder-scrolls-online-teases-involvement-of-immortal-lovecraft-crab-tentacle-demon-in-this-years-expansion)
- - [Muppets Inside was a classic of the &#39;CD-ROM full of stuff&#39; era](https://www.pcgamer.com/saturday-crapshoot-muppets-inside)<!-- GAME:END -->
+ - [Endless Dungeon has a release date, and you can get Dungeon of the Endless for free](https://www.pcgamer.com/endless-dungeon-has-a-release-date-and-you-can-get-dungeon-of-the-endless-for-free)
+ - [Cool Water Alert: Watch water drain from fish tank bullet holes in Phantom Fury](https://www.pcgamer.com/cool-water-alert-watch-water-drain-from-fish-tank-bullet-holes-in-phantom-fury)
+ - [The most vital Dwarf Fortress mod has arrived for Steam, complete with 3D visuals](https://www.pcgamer.com/the-most-vital-dwarf-fortress-mod-has-arrived-for-steam-complete-with-3d-visuals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
