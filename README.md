@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checkmate Simps.](http://9gag.com/gag/aA0bGO9)
- - 🚯 [Awesome idea](http://9gag.com/gag/a4oEnX6)
- - 🚯 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)
+ - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)
+ - 🚯 [Pspspspspssssss](http://9gag.com/gag/aeQA1zj)<!-- MEMES:END -->
 
 --- 
 
