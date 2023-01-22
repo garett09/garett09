@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot getting bamboozled after trying to bypass highway toll](http://9gag.com/gag/a7qEqZb)
- - 🚯 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [After holidays in Poland:D](http://9gag.com/gag/aoKMy1x)<!-- MEMES:END -->
+ - 🚖 [Kombucha under the microscope! Thousands of living cells in a single drop](http://9gag.com/gag/aL1pp5P)
+ - 🚯 [To this day I thought I was just imagining that old games somehow used to look better than they actually did. turns out it was because of crt TVs/monitors](http://9gag.com/gag/amAPWzV)
+ - 🚯 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)<!-- MEMES:END -->
 
 --- 
 
