@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
- - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚖 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)
+ - 🚯 [.](http://9gag.com/gag/aeQAOZB)
  - 🚯 [Come back king](http://9gag.com/gag/amAPGZy)<!-- MEMES:END -->
 
 --- 
