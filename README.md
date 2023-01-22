@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #582, January 22](https://www.pcgamer.com/wordle-hint-answer-today-582-january-22)
  - [Great moments in PC gaming: Building a robot servant in The Sims 4](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-robot-servant-in-the-sims-4)
- - [Here&#39;s four hours of Skyblivion](https://www.pcgamer.com/heres-four-hours-of-skyblivion)
- - [Endless Dungeon has a release date, and you can get Dungeon of the Endless for free](https://www.pcgamer.com/endless-dungeon-has-a-release-date-and-you-can-get-dungeon-of-the-endless-for-free)<!-- GAME:END -->
+ - [Here&#39;s four hours of Skyblivion](https://www.pcgamer.com/heres-four-hours-of-skyblivion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
