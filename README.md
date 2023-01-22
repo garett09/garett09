@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
- - 🚯 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)
- - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)<!-- MEMES:END -->
+ - 🚖 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
+ - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚯 [Trying Foreign Food](http://9gag.com/gag/aZD0D89)<!-- MEMES:END -->
 
 --- 
 
