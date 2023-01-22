@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
- - 🚯 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
- - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
+ - 🚖 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
+ - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚯 [Come back king](http://9gag.com/gag/amAPGZy)<!-- MEMES:END -->
 
 --- 
 
