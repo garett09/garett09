@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Apple&#39;s busy January, the rest of the quarter may be quiet](https://appleinsider.com/articles/23/01/22/after-apples-busy-january-the-rest-of-the-quarter-may-be-quiet?utm_medium=rss)
- - [How to start a workout with your voice on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-start-a-workout-with-your-voice-on-apple-watch?utm_medium=rss)
- - [Step aside emulation, I restored my old Nintendo instead](https://www.androidauthority.com/nintendo-console-repair-3265051/)<!-- TECH:END -->
+ - [The Amazfit Falcon flirts with premium watch territory](https://www.androidauthority.com/amazfit-falcon-review-3269357/)
+ - [Lisa Marie Presley: A Famous &#39;70s Kid Who Felt Like a Friend     - CNET](https://www.cnet.com/culture/lisa-marie-presley-a-famous-70s-kid-who-felt-like-a-friend/#ftag=CAD590a51e)
+ - [&#39;White Lotus&#39; Stars Confirm Father of Daphne&#39;s Kids     - CNET](https://www.cnet.com/culture/entertainment/white-lotus-season-2-stars-confirm-father-of-daphnes-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
