@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot getting bamboozled after trying to bypass highway toll](http://9gag.com/gag/a7qEqZb)
- - 🚯 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
- - 🚯 [+30% recoil stabilization -40% mobility](http://9gag.com/gag/avQ5yqW)<!-- MEMES:END -->
+ - 🚖 [A hero will rise](http://9gag.com/gag/aqeje4R)
+ - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)
+ - 🚯 [Butt how?](http://9gag.com/gag/aEqp86p)<!-- MEMES:END -->
 
 --- 
 
