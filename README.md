@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; HBO Adaptation Brings Its Universe Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-brings-its-universe-beyond-the-playstation-game/#ftag=CAD590a51e)
  - [How some US incarcerated people use contraband mobile phones to educate themselves, make TikToks, find love, publicize prison conditions, earn money, and more &lpar;Keri Blakinger/The Marshall Project&rpar;](http://www.techmeme.com/230122/p5#a230122p5)
- - [iOS 16.3 Is Coming Soon: The New Features That Could Hit Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-3-is-coming-soon-the-new-feature-that-could-hit-your-iphone/#ftag=CAD590a51e)
- - [The Amazfit Falcon flirts with premium watch territory](https://www.androidauthority.com/amazfit-falcon-review-3269357/)<!-- TECH:END -->
+ - [Stop Spending So Much Money on Ebooks. Do This Instead     - CNET](https://www.cnet.com/tech/services-and-software/stop-spending-so-much-money-on-ebooks-do-this-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
