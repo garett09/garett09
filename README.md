@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Mittens, a ruthless Chess.com bot with a kitten avatar introduced on January 1 that is driving more people than ever to play in the site&#39;s history &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230122/p2#a230122p2)
  - [Hackers leak police raid plans, confidential reports, AWS private keys, and other sensitive data from the servers of ODIN, which makes apps for the US police &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230122/p1#a230122p1)
- - [Missouri-based Paytient, which offers health payment accounts to health care and insurance companies, raised a $40M Series B, bringing its total funding to $63M &lpar;Annie Burky/Fierce Healthcare&rpar;](http://www.techmeme.com/230121/p15#a230121p15)
- - [CommuteAir took down a 2019 copy of the US No Fly List, after a researcher said they found it on an unsecured server and that it had 1.5M+ entries, many aliases &lpar;The Daily Dot&rpar;](http://www.techmeme.com/230121/p14#a230121p14)<!-- TECH:END -->
+ - [Missouri-based Paytient, which offers health payment accounts to health care and insurance companies, raised a $40M Series B, bringing its total funding to $63M &lpar;Annie Burky/Fierce Healthcare&rpar;](http://www.techmeme.com/230121/p15#a230121p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
