@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s a King Edward VII in all of you.](http://9gag.com/gag/aA0bgQd)
- - 🚯 [Oh hey there, Spider-Man!](http://9gag.com/gag/aMEKKvW)
- - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
+ - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
+ - 🚯 [Trying Foreign Food](http://9gag.com/gag/aZD0D89)
+ - 🚯 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)<!-- MEMES:END -->
 
 --- 
 
