@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Missouri-based Paytient, which offers health payment accounts to health care and insurance companies, raised a $40M Series B, bringing its total funding to $63M &lpar;Annie Burky/Fierce Healthcare&rpar;](http://www.techmeme.com/230121/p15#a230121p15)
  - [CommuteAir took down a 2019 copy of the US No Fly List, after a researcher said they found it on an unsecured server and that it had 1.5M+ entries, many aliases &lpar;The Daily Dot&rpar;](http://www.techmeme.com/230121/p14#a230121p14)
- - [Listen Notes: ~219K podcasts were created in 2022, down nearly 80% from a peak of ~1M in 2020 and lower than the pre-pandemic high of ~337K in 2019 &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/230121/p13#a230121p13)
- - [Microsoft layoffs effectively kill HoloLens &amp; mixed reality projects](https://appleinsider.com/articles/23/01/21/ms-layoffs-effectively-kills-off-mixed-reality-projects?utm_medium=rss)<!-- TECH:END -->
+ - [Listen Notes: ~219K podcasts were created in 2022, down nearly 80% from a peak of ~1M in 2020 and lower than the pre-pandemic high of ~337K in 2019 &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/230121/p13#a230121p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
