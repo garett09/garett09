@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Netflix co-CEOs Greg Peters and Ted Sarandos about shared leadership, what role Reed Hastings may play, adding FAST channels, the ad tier, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230121/p11#a230121p11)
- - [Tests confirm macOS Finder isn&#39;t scanning for CSAM images](https://appleinsider.com/articles/23/01/21/tests-confirm-macos-finder-isnt-scanning-for-csam-images?utm_medium=rss)
- - [Sweeping Milky Way Portrait Captures More Than 3 Billion Stars     - CNET](https://www.cnet.com/science/space/sweeping-milky-way-portrait-captures-more-than-3-billion-stars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft has laid off the entire teams behind the virtual reality platform AltspaceVR, which will shut down in March, and the Mixed Reality Tool Kit framework &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/230121/p12#a230121p12)
+ - [Fuel 4-in-1 Power Station review: Small footprint, big capabilities](https://appleinsider.com/articles/23/01/22/fuel-4-in-1-power-station-review-small-footprint-big-capabilities?utm_medium=rss)
+ - [Tests confirm macOS Finder isn&#39;t scanning for CSAM images](https://appleinsider.com/articles/23/01/21/tests-confirm-macos-finder-isnt-scanning-for-csam-images?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
