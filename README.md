@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
- - 🚯 [This is how the zombie apocalypse starts](http://9gag.com/gag/ap9NNxM)
+ - 🚯 [Kombucha under the microscope! Thousands of living cells in a single drop](http://9gag.com/gag/aL1pp5P)
  - 🚯 [Trying Foreign Food](http://9gag.com/gag/aZD0D89)<!-- MEMES:END -->
 
 --- 
