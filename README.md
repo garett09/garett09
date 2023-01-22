@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Apple&#39;s busy January, the rest of the quarter may be quiet](https://appleinsider.com/articles/23/01/22/after-apples-busy-january-the-rest-of-the-quarter-may-be-quiet?utm_medium=rss)
- - [Analysis: Apple timed the new MacBook Pro, Mac mini, and HomePod launch to boost this quarter&#39;s revenue, while avoiding supply issues during the holiday season &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230122/p4#a230122p4)
- - [Retrofitting my rented home with SwitchBot smart home tools has been a lifesaver](https://www.androidauthority.com/switchbot-smart-home-3267515/)<!-- TECH:END -->
+ - [Step aside emulation, I restored my old Nintendo instead](https://www.androidauthority.com/nintendo-console-repair-3265051/)
+ - [The next MacBook Air and iMac could come with a 3nm M3 chip](https://www.theverge.com/2023/1/22/23566265/apple-m3-macbook-air-imac-gurman)
+ - [Google Welcomes Lunar New Year 2023 With Year of the Rabbit Doodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-lunar-new-year-2023-with-year-of-the-rabbit-doodle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
