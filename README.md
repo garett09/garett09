@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sundiro Honda x Muji MS01 Test Ride &lpar;$700&rpar;: Stylish, but Underpowered](https://www.wired.com/story/first-ride-sundiro-honda-x-muji-ms01/)
- - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
- - [Apple appeals UK mobile browser investigation by attacking the word &#39;shall&#39;](https://appleinsider.com/articles/23/01/22/apple-appeals-uk-mobile-browser-investigation-by-attacking-the-word-shall?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: Apple timed the launch of its new MacBook Pro, Mac mini, and HomePod to boost its Q2 revenue, while avoiding supply issues during the holiday season &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230122/p4#a230122p4)
+ - [Retrofitting my rented home with SwitchBot smart home tools has been a lifesaver](https://www.androidauthority.com/switchbot-smart-home-3267515/)
+ - [New HomePod mini model isn&#39;t being worked on right now](https://appleinsider.com/articles/23/01/22/new-homepod-mini-model-probably-isnt-being-worked-on-right-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
