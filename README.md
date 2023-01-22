@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)
- - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)
- - 🚯 [Pspspspspssssss](http://9gag.com/gag/aeQA1zj)<!-- MEMES:END -->
+ - 🚖 [EasyJet allowed a plane to take off with a backless seat, then asked OP to delete the tweet before word spread](http://9gag.com/gag/aWGjjE4)
+ - 🚯 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)
+ - 🚯 [Just keep filming the grapes](http://9gag.com/gag/ay2MeRV)<!-- MEMES:END -->
 
 --- 
 
