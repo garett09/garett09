@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German maintainance train got fire, in Freilasing, Bayern. Aftermath in comments](http://9gag.com/gag/aWGjjM2)
- - 🚯 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
- - 🚯 [As long as he\u2019s all right.](http://9gag.com/gag/aeQA1ej)<!-- MEMES:END -->
+ - 🚖 [Checkmate Simps.](http://9gag.com/gag/aA0bGO9)
+ - 🚯 [Awesome idea](http://9gag.com/gag/a4oEnX6)
+ - 🚯 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
 
 --- 
 
