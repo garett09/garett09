@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [+30% recoil stabilization -40% mobility](http://9gag.com/gag/avQ5yqW)
- - 🚯 [I&#39;ll never understand men](http://9gag.com/gag/a1PrW3P)
- - 🚯 [A hero will rise](http://9gag.com/gag/aqeje4R)<!-- MEMES:END -->
+ - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
+ - 🚯 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
+ - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
 
 --- 
 
