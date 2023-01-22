@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Formula 0.5](http://9gag.com/gag/aA0b6Op)
+ - 🚖 [Come back king](http://9gag.com/gag/amAPGZy)
  - 🚯 [NVIDIA just released a new Eye Contact feature that uses AI to make you look into the camera](http://9gag.com/gag/aVb7EMw)
- - 🚯 [Pretty much this](http://9gag.com/gag/a7qEOqL)<!-- MEMES:END -->
+ - 🚯 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)<!-- MEMES:END -->
 
 --- 
 
