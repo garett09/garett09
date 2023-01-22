@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [Trying Foreign Food](http://9gag.com/gag/aZD0D89)
- - 🚯 [De-bloating a steer by removing accumulated gas](http://9gag.com/gag/a5XEWKG)<!-- MEMES:END -->
+ - 🚖 [German maintainance train got fire, in Freilasing, Bayern. Aftermath in comments](http://9gag.com/gag/aWGjjM2)
+ - 🚯 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
+ - 🚯 [As long as he\u2019s all right.](http://9gag.com/gag/aeQA1ej)<!-- MEMES:END -->
 
 --- 
 
