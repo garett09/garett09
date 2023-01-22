@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come back king](http://9gag.com/gag/amAPGZy)
- - 🚯 [NVIDIA just released a new Eye Contact feature that uses AI to make you look into the camera](http://9gag.com/gag/aVb7EMw)
- - 🚯 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)<!-- MEMES:END -->
+ - 🚖 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 🚯 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
+ - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
 
 --- 
 
