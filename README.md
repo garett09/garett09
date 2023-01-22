@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple appeals UK mobile browser investigation by attacking the word &#39;shall&#39;](https://appleinsider.com/articles/23/01/22/apple-appeals-uk-mobile-browser-investigation-by-attacking-the-word-shall?utm_medium=rss)
- - [A Microsoft foldable doesn’t make sense anymore, or does it?](https://www.androidauthority.com/microsoft-surface-duo-3-foldable-opinion-3269372/)
- - [Coros Apex 2 Pro Review: For Practical Outdoors People](https://www.wired.com/review/coros-apex-2-pro/)<!-- TECH:END -->
+ - [Sundiro Honda x Muji MS01 Test Ride &lpar;$700&rpar;: Stylish, but Underpowered](https://www.wired.com/story/first-ride-sundiro-honda-x-muji-ms01/)
+ - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
+ - [Apple appeals UK mobile browser investigation by attacking the word &#39;shall&#39;](https://appleinsider.com/articles/23/01/22/apple-appeals-uk-mobile-browser-investigation-by-attacking-the-word-shall?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
