@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Creators from India&#39;s hinterland are going viral on YouTube Shorts and running into copyright issues for &quot;fact channels&quot; that add context to other users&#39; videos &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230122/p3#a230122p3)
- - [This Mythbustin’ Nashville YouTuber Is on a Guitar Gear Mission](https://www.wired.com/story/jim-lill-interview-youtube/)
- - [The 9 Best Flower Delivery Services for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple appeals UK mobile browser investigation by attacking the word &#39;shall&#39;](https://appleinsider.com/articles/23/01/22/apple-appeals-uk-mobile-browser-investigation-by-attacking-the-word-shall?utm_medium=rss)
+ - [A Microsoft foldable doesn’t make sense anymore, or does it?](https://www.androidauthority.com/microsoft-surface-duo-3-foldable-opinion-3269372/)
+ - [Coros Apex 2 Pro Review: For Practical Outdoors People](https://www.wired.com/review/coros-apex-2-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
