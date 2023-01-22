@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Step aside emulation, I restored my old Nintendo instead](https://www.androidauthority.com/nintendo-console-repair-3265051/)
- - [The next MacBook Air and iMac could come with a 3nm M3 chip](https://www.theverge.com/2023/1/22/23566265/apple-m3-macbook-air-imac-gurman)
- - [Google Welcomes Lunar New Year 2023 With Year of the Rabbit Doodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-lunar-new-year-2023-with-year-of-the-rabbit-doodle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Apple&#39;s busy January, the rest of the quarter may be quiet](https://appleinsider.com/articles/23/01/22/after-apples-busy-january-the-rest-of-the-quarter-may-be-quiet?utm_medium=rss)
+ - [How to start a workout with your voice on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-start-a-workout-with-your-voice-on-apple-watch?utm_medium=rss)
+ - [Step aside emulation, I restored my old Nintendo instead](https://www.androidauthority.com/nintendo-console-repair-3265051/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
