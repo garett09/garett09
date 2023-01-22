@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft layoffs effectively kill HoloLens &amp; mixed reality projects](https://appleinsider.com/articles/23/01/21/ms-layoffs-effectively-kills-off-mixed-reality-projects?utm_medium=rss)
  - [Microsoft has laid off the entire teams behind the virtual reality platform AltspaceVR, which will shut down in March, and the Mixed Reality Tool Kit framework &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/230121/p12#a230121p12)
- - [Fuel 4-in-1 Power Station review: Small footprint, big capabilities](https://appleinsider.com/articles/23/01/22/fuel-4-in-1-power-station-review-small-footprint-big-capabilities?utm_medium=rss)
- - [Tests confirm macOS Finder isn&#39;t scanning for CSAM images](https://appleinsider.com/articles/23/01/21/tests-confirm-macos-finder-isnt-scanning-for-csam-images?utm_medium=rss)<!-- TECH:END -->
+ - [Fuel 4-in-1 Power Station review: Small footprint, big capabilities](https://appleinsider.com/articles/23/01/22/fuel-4-in-1-power-station-review-small-footprint-big-capabilities?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
