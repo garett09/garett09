@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
+ - 🚖 [To the moon and beyond](http://9gag.com/gag/aA0bGmp)
+ - 🚯 [Kombucha under the microscope! Thousands of living cells in a single drop](http://9gag.com/gag/aL1pp5P)
  - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
 
 --- 
