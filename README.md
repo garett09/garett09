@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Teeth-Whitening Strips and Toothpaste for 2023     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips-and-toothpaste/#ftag=CAD590a51e)
- - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
- - [A look at Mittens, a ruthless Chess.com bot with a kitten avatar introduced on January 1 that is driving more people than ever to play in the site&#39;s history &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230122/p2#a230122p2)<!-- TECH:END -->
+ - [Creators from India&#39;s hinterland are going viral on YouTube Shorts and running into copyright issues for &quot;fact channels&quot; that add context to other users&#39; videos &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230122/p3#a230122p3)
+ - [This Mythbustin’ Nashville YouTuber Is on a Guitar Gear Mission](https://www.wired.com/story/jim-lill-interview-youtube/)
+ - [The 9 Best Flower Delivery Services for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
