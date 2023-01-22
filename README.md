@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homelander younger days](http://9gag.com/gag/aA0bGR9)
- - 🚯 [Kombucha under the microscope! Thousands of living cells in a single drop](http://9gag.com/gag/aL1pp5P)
- - 🚯 [Trying Foreign Food](http://9gag.com/gag/aZD0D89)<!-- MEMES:END -->
+ - 🚖 [Perfect](http://9gag.com/gag/a3ZE5Oe)
+ - 🚯 [Formula 0.5](http://9gag.com/gag/aA0b6Op)
+ - 🚯 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)<!-- MEMES:END -->
 
 --- 
 
