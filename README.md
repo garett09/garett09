@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another relationshit post](http://9gag.com/gag/a047nRL)
- - 🚯 [This fearless little guy](http://9gag.com/gag/amAPMr2)
+ - 🚖 [Serenade Sad](http://9gag.com/gag/abvVebB)
+ - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
  - 🚯 [Lmfao this is great](http://9gag.com/gag/axoMbQD)<!-- MEMES:END -->
 
 --- 
