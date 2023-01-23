@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
- - 🚯 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
- - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
+ - 🚖 [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - 🚯 [.](http://9gag.com/gag/aeQAOZB)
+ - 🚯 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
 
 --- 
 
