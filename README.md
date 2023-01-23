@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t believe this Elden Ring Halo map isn&#39;t actually imported from Elden Ring](https://www.pcgamer.com/i-cant-believe-this-elden-ring-halo-map-isnt-actually-imported-from-elden-ring)
- - [In a mad display of devotion, these gamers are fighting Souls series bosses over and over again until Elden Ring DLC is announced](https://www.pcgamer.com/in-a-mad-display-of-devotion-these-gamers-are-fighting-souls-series-bosses-over-and-over-again-until-elden-ring-dlc-is-announced)
- - [How to farm a ton of bond fragments in Fire Emblem Engage](https://www.polygon.com/guides/23564368/fire-emblem-engage-bond-fragments-achievements-donations-training-yard-fishing)<!-- GAME:END -->
+ - [SteamWorld’s new city builder game has a great underground twist](https://www.polygon.com/23568266/steamworld-build-announcement-trailer-thunderful)
+ - [It’s The Best Time Of Year For This Cozy, Slow Burn Game](https://kotaku.com/a-space-for-the-unbound-review-indie-game-steam-pc-1850020374)
+ - [10 Manga You Should Read If You Loved Chainsaw Man](https://kotaku.com/chainsaw-man-manga-dandadan-kaiju-no-8-hells-paradise-1850020318)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
