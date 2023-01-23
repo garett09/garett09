@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini M2 packs a performance punch for under $600](https://appleinsider.com/articles/23/01/23/mac-mini-m2-packs-a-performance-punch-for-under-600?utm_medium=rss)
- - [Monday’s top tech news: the beginning of the end for Windows 10](https://www.theverge.com/2023/1/23/23567280/january-23-2023-tech-news-liveblog)
- - [Get Microsoft Office for Mac Home &amp; Business 2021 for $29.99 - limited time offer](https://appleinsider.com/articles/23/01/23/get-microsoft-office-for-mac-home-business-2021-for-2999---limited-time-offer?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Get the whole Microsoft Office suite for just $29.99 &lpar;all-time low!&rpar;](https://www.androidauthority.com/microsoft-office-deal-3270908/)
+ - [Harley Quinn wants you to get yours this Valentine’s Day](https://www.theverge.com/2023/1/23/23568227/harley-quinn-probemlatic-valentines-day-hbo-max)
+ - [Lightyear has stopped production on its solar-powered EV after three months](https://www.theverge.com/2023/1/23/23568154/lightyear-0-stopped-production-2-ev)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
