@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wall-E](http://9gag.com/gag/a047X2Z)
- - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
- - 🚯 [Come back king](http://9gag.com/gag/amAPGZy)<!-- MEMES:END -->
+ - 🚖 [Yeah\u2026](http://9gag.com/gag/aeQA4VO)
+ - 🚯 [Serenade Sad](http://9gag.com/gag/abvVebB)
+ - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 --- 
 
