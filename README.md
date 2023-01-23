@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook held all his Apple stock in 2022, as other execs sold](https://appleinsider.com/articles/23/01/23/tim-cook-held-all-his-apple-stock-in-2022-as-other-execs-sold?utm_medium=rss)
- - [How to Use Stage Manager With Your iPad and Mac &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-stage-manager-with-ipad-and-mac/)
- - [Sony and Honda’s EV goes where the Apple Car never did](https://www.theverge.com/2023/1/23/23564431/sony-honda-ev-afeela-apple-subscription-lease-software)<!-- TECH:END -->
+ - [Apple MacBook Pro &lpar;16-inch, M2 Max&rpar; review: incredible performance and speakers, big battery gains, and gorgeous display, but pricey and limited upgradability &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230123/p12#a230123p12)
+ - [Pick up Apple&#39;s M2 Mac mini 2023 for just $499](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
+ - [Apple Watch 9 will be skipped for Apple Watch X, says sketchy rumor](https://appleinsider.com/articles/23/01/23/apple-watch-9-will-be-skipped-for-apple-watch-x-says-sketchy-rumor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
