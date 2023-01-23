@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
- - 🚯 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
- - 🚯 [Serenade Sad](http://9gag.com/gag/abvVebB)<!-- MEMES:END -->
+ - 🚖 [Wall-E](http://9gag.com/gag/a047X2Z)
+ - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 🚯 [Come back king](http://9gag.com/gag/amAPGZy)<!-- MEMES:END -->
 
 --- 
 
