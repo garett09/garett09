@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [343, Hit By Layoffs And Key Departures, Says It Will Keep Making Halo Games](https://kotaku.com/343-studios-halo-infinite-layoffs-microsoft-bungie-1850016947)
- - [GTA Online has its own Dark Souls-style critical security vulnerability on PC](https://www.pcgamer.com/grand-theft-auto-online-has-its-own-dark-souls-style-critical-security-vulnerability-on-pc)
- - [After a wave of layoffs, 343 studio head declares &#39;Halo and the Master Chief are here to stay&#39;](https://www.pcgamer.com/after-a-wave-of-layoffs-343-studio-head-declares-halo-and-the-master-chief-are-here-to-stay)<!-- GAME:END -->
+ - [Marvel&#39;s Avengers Is Ending Development, Giving Away Cosmetics](https://kotaku.com/marvels-avengers-shutting-down-end-development-license-1850017092)
+ - [Five new Steam games you probably missed &lpar;January 23, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-23-2023)
+ - [The neon cities of Industries of Titan rise from the depths to full release this month](https://www.pcgamer.com/the-neon-cities-of-industries-of-titan-rise-from-the-depths-to-full-release-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
