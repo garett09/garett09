@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soft iPhone sales will hit Apple&#39;s Q1 2023 finances, weak dollar will help](https://appleinsider.com/articles/23/01/23/soft-iphone-sales-will-hit-apples-q1-2023-finances-weak-dollar-will-help?utm_medium=rss)
- - [Manga-based series &#39;Drops of God&#39; comes to Apple TV+ in 2023](https://appleinsider.com/articles/23/01/23/manga-based-series-drops-of-god-comes-to-apple-tv-in-2023?utm_medium=rss)
- - [Apple&#39;s headset to use 3D operating system that looks like iOS](https://appleinsider.com/articles/23/01/23/apples-headset-to-use-3d-operating-system-that-looks-like-ios?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)
+ - [The best tech gifts for under $25](https://www.theverge.com/23156368/best-cheap-tech-gadgets-under-25)
+ - [Apple releases iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 with FIDO key support for Apple ID, Advanced Data Protection, security fixes, and more &lpar;Mahmoud Itani/XDA Developers&rpar;](http://www.techmeme.com/230123/p28#a230123p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
