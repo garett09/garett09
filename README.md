@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tape storage was up in 2022 while HDD sales fell](https://www.pcgamer.com/in-2022-tape-storage-was-up-while-hdd-sales-fell)
  - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [TV’s most comforting show confronts despair like only it can](https://www.polygon.com/entertainment/23563024/all-creatures-great-and-small-season-3-analysis)
- - [Why The Last of Us creators swapped spores for Cordyceps networks](https://www.polygon.com/entertainment/23562421/last-of-us-cordyceps-spores-tv-show-hbo)<!-- GAME:END -->
+ - [TV’s most comforting show confronts despair like only it can](https://www.polygon.com/entertainment/23563024/all-creatures-great-and-small-season-3-analysis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
