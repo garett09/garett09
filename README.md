@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s headset to use 3D operating system that looks like iOS](https://appleinsider.com/articles/23/01/23/apples-headset-to-use-3d-operating-system-that-looks-like-ios?utm_medium=rss)
- - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)
- - [Apple gives some older iPhones OS updates, going back to iPhone 5s](https://appleinsider.com/articles/23/01/23/apple-gives-some-older-iphones-os-updates-going-back-to-iphone-5s?utm_medium=rss)<!-- TECH:END -->
+ - [Soft iPhone sales will hit Apple&#39;s Q1 2023 finances, weak dollar will help](https://appleinsider.com/articles/23/01/23/soft-iphone-sales-will-hit-apples-q1-2023-finances-weak-dollar-will-help?utm_medium=rss)
+ - [Manga-based series &#39;Drops of God&#39; comes to Apple TV+ in 2023](https://appleinsider.com/articles/23/01/23/manga-based-series-drops-of-god-comes-to-apple-tv-in-2023?utm_medium=rss)
+ - [Apple&#39;s headset to use 3D operating system that looks like iOS](https://appleinsider.com/articles/23/01/23/apples-headset-to-use-3d-operating-system-that-looks-like-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
