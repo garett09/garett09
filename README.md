@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [.](http://9gag.com/gag/aeQAOZB)
- - 🚯 [Ir\u00f6n Mike](http://9gag.com/gag/a7qE0oz)
- - 🚯 [Lord of balls](http://9gag.com/gag/aqej8nZ)<!-- MEMES:END -->
+ - 🚖 [That&#39;s n\u00f6t how you play the game](http://9gag.com/gag/aGEp8MX)
+ - 🚯 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 🚯 [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)<!-- MEMES:END -->
 
 --- 
 
