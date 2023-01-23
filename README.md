@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Avengers Is Ending Development, Giving Away Cosmetics](https://kotaku.com/marvels-avengers-shutting-down-end-development-license-1850017092)
- - [Five new Steam games you probably missed &lpar;January 23, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-23-2023)
- - [The neon cities of Industries of Titan rise from the depths to full release this month](https://www.pcgamer.com/the-neon-cities-of-industries-of-titan-rise-from-the-depths-to-full-release-this-month)<!-- GAME:END -->
+ - [Ready your cyberbike and tear out a robot&#39;s guts with a grappling hook in Gripper](https://www.pcgamer.com/ready-your-cyberbike-and-tear-out-a-robots-guts-with-a-grappling-hook-in-gripper)
+ - [The No-Fly List Has Been Leaked, TSA Investigating &#39;Cybersecurity Incident&#39;](https://kotaku.com/tsa-no-fly-list-leak-hack-hacked-pokemon-terrorist-1850017149)
+ - [Lost Ark&#39;s Witcher crossover is a disappointment](https://www.pcgamer.com/lost-arks-witcher-crossover-is-a-disappointment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
