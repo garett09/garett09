@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $500 on MacBooks, iPads, Apple TV 4K at Amazon this week](https://appleinsider.com/articles/23/01/23/save-up-to-500-on-macbooks-ipads-apple-tv-4k-at-amazon-this-week?utm_medium=rss)
- - [Fortnite on iOS is about to become even more limited](https://www.theverge.com/2023/1/23/23567661/fortnite-ios-mac-google-play-v-bucks-parental-controls)
- - [Dbrand Nintendoes what Valve Nintenwon’t](https://www.theverge.com/23567250/dbrand-switchdeck-steam-deck-nintendo-switch-skin)<!-- TECH:END -->
+ - [Apple&#39;s headset to use 3D operating system that looks like iOS](https://appleinsider.com/articles/23/01/23/apples-headset-to-use-3d-operating-system-that-looks-like-ios?utm_medium=rss)
+ - [Keychron Q1 Pro review: Finally a wireless &amp; metal mechanical keyboard](https://appleinsider.com/articles/23/01/21/keychron-q1-pro-review-finally-a-wireless-metal-mechanical-keyboard?utm_medium=rss)
+ - [Apple gives some older iPhones OS updates, going back to iPhone 5s](https://appleinsider.com/articles/23/01/23/apple-gives-some-older-iphones-os-updates-going-back-to-iphone-5s?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
