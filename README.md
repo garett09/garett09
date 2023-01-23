@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most important award](http://9gag.com/gag/a047V1O)
- - 🚯 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)
- - 🚯 [The sport has become a embarrassment. A salute to you and those like you Mr. Pierluigi.](http://9gag.com/gag/a2K7w2O)<!-- MEMES:END -->
+ - 🚖 [You cant catch us uwu!](http://9gag.com/gag/avQ5WZZ)
+ - 🚯 [Oh, No Anyway.](http://9gag.com/gag/a4oEnE6)
+ - 🚯 [It is always morally correct to post this again and again...](http://9gag.com/gag/a9qEznL)<!-- MEMES:END -->
 
 --- 
 
