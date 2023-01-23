@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Serenade Sad](http://9gag.com/gag/abvVebB)
- - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
- - 🚯 [Lmfao this is great](http://9gag.com/gag/axoMbQD)<!-- MEMES:END -->
+ - 🚖 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 --- 
 
