@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may put its free TV Plus streaming app into other manufacturers’ TVs](https://www.theverge.com/2023/1/22/23566741/samsung-free-tv-plus-streaming-tcl)
- - [Researchers and ex-Twitter staff: physical attacks in the US have tracked with spikes in some hate speech on Twitter, notably anti-Semitic and anti-gay rhetoric &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230122/p6#a230122p6)
- - [&#39;Jung_E&#39; on Netflix: That Bittersweet Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/jung-e-on-netflix-that-bittersweet-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: activist investor Elliott Management has made a multibillion-dollar investment in Salesforce &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230122/p7#a230122p7)
+ - [More People Need to Watch This Dark Netflix Time Travel Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-dark-netflix-time-travel-thriller/#ftag=CAD590a51e)
+ - [A Vet Picks His Top 5 Dog Breeds:     - CNET](https://www.cnet.com/culture/a-vet-picks-his-top-5-dog-breeds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
