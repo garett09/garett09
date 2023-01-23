@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [+30% recoil stabilization -40% mobility](http://9gag.com/gag/avQ5yqW)
- - 🚯 [Idiot getting bamboozled after trying to bypass highway toll](http://9gag.com/gag/a7qEqZb)
+ - 🚖 [Butt how?](http://9gag.com/gag/aEqp86p)
+ - 🚯 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
  - 🚯 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
 
 --- 
