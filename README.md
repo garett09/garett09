@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)
- - [The best tech gifts for under $25](https://www.theverge.com/23156368/best-cheap-tech-gadgets-under-25)
- - [Apple releases iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 with FIDO key support for Apple ID, Advanced Data Protection, security fixes, and more &lpar;Mahmoud Itani/XDA Developers&rpar;](http://www.techmeme.com/230123/p28#a230123p28)<!-- TECH:END -->
+ - [Mac mini M2 packs a performance punch for under $600](https://appleinsider.com/articles/23/01/23/mac-mini-m2-packs-a-performance-punch-for-under-600?utm_medium=rss)
+ - [Monday’s top tech news: the beginning of the end for Windows 10](https://www.theverge.com/2023/1/23/23567280/january-23-2023-tech-news-liveblog)
+ - [Get Microsoft Office for Mac Home &amp; Business 2021 for $29.99 - limited time offer](https://appleinsider.com/articles/23/01/23/get-microsoft-office-for-mac-home-business-2021-for-2999---limited-time-offer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
