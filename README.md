@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forspoken reviews roundup: &#39;remarkably generic&#39;](https://www.pcgamer.com/forspoken-review-roundup)
- - [Three years after its original release, the latest Trackmania is finally coming to Steam](https://www.pcgamer.com/three-years-after-its-original-release-the-latest-trackmania-is-finally-coming-to-steam)
- - [The next SteamWorld game is a city builder, and there&#39;s a free demo out now](https://www.pcgamer.com/the-next-steamworld-game-is-a-city-builder-and-theres-a-free-demo-out-now)<!-- GAME:END -->
+ - [I can&#39;t believe this Elden Ring Halo map isn&#39;t actually imported from Elden Ring](https://www.pcgamer.com/i-cant-believe-this-elden-ring-halo-map-isnt-actually-imported-from-elden-ring)
+ - [In a mad display of devotion, these gamers are fighting Souls series bosses over and over again until Elden Ring DLC is announced](https://www.pcgamer.com/in-a-mad-display-of-devotion-these-gamers-are-fighting-souls-series-bosses-over-and-over-again-until-elden-ring-dlc-is-announced)
+ - [How to farm a ton of bond fragments in Fire Emblem Engage](https://www.polygon.com/guides/23564368/fire-emblem-engage-bond-fragments-achievements-donations-training-yard-fishing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
