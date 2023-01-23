@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)
- - 🚯 [.](http://9gag.com/gag/aeQAOZB)
- - 🚯 [Come back king](http://9gag.com/gag/amAPGZy)<!-- MEMES:END -->
+ - 🚖 [Most important award](http://9gag.com/gag/a047V1O)
+ - 🚯 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)
+ - 🚯 [The sport has become a embarrassment. A salute to you and those like you Mr. Pierluigi.](http://9gag.com/gag/a2K7w2O)<!-- MEMES:END -->
 
 --- 
 
