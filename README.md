@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Roses](http://9gag.com/gag/aPg3oqw)
- - 🚯 [Lord of balls](http://9gag.com/gag/aqej8nZ)
- - 🚯 [Ir\u00f6n Mike](http://9gag.com/gag/a7qE0oz)<!-- MEMES:END -->
+ - 🚖 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 🚯 [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - 🚯 [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)<!-- MEMES:END -->
 
 --- 
 
