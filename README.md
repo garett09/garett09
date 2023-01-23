@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maths Teacher AD](http://9gag.com/gag/amAP1vV)
- - 🚯 [Danielle Marsh](http://9gag.com/gag/ap9NRLD)
- - 🚯 [When your Favored Enemy class bonus kicks in](http://9gag.com/gag/anzQO2q)<!-- MEMES:END -->
+ - 🚖 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 🚯 [Been dreaming of this for 6 years](http://9gag.com/gag/aXnoMWP)
+ - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 --- 
 
