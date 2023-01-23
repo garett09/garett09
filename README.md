@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Pro &lpar;16-inch, M2 Max&rpar; review: incredible performance and speakers, big battery gains, and gorgeous display, but pricey and limited upgradability &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230123/p12#a230123p12)
- - [Pick up Apple&#39;s M2 Mac mini 2023 for just $499](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
- - [Apple Watch 9 will be skipped for Apple Watch X, says sketchy rumor](https://appleinsider.com/articles/23/01/23/apple-watch-9-will-be-skipped-for-apple-watch-x-says-sketchy-rumor?utm_medium=rss)<!-- TECH:END -->
+ - [SCOTUS asks the Biden administration for its views on the constitutionality of Florida&#39;s and Texas&#39; social media laws, likely postponing a decision until 2024 &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/230123/p16#a230123p16)
+ - [Pick up Apple&#39;s M2 Mac mini 2023 for just $549](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
+ - [2023 will be the year foldables go mainstream](https://www.androidauthority.com/2023-year-foldables-mainstream-3269994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
