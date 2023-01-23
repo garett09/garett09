@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new Mac Mini is up to $100 off at Adorama](https://www.theverge.com/2023/1/23/23567359/apple-m2-mac-mini-preorder-xbox-elite-controller-blue-yeti-deal-sale)
- - [Spotify lays off 6% of workforce, loses content chief](https://appleinsider.com/articles/23/01/23/spotify-lays-off-6-of-workforce-loses-content-chief?utm_medium=rss)
- - [Apple&#39;s M2 chips appear to have two subtle upgrades, making performance cores more efficient and efficiency cores more performant, helping improve battery life &lpar;Ben Bajarin/Creative Strategies&rpar;](http://www.techmeme.com/230123/p17#a230123p17)<!-- TECH:END -->
+ - [Google Pixel 8: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [Fuel 4-in-1 Power Station review: Small footprint, big capabilities](https://appleinsider.com/articles/23/01/22/fuel-4-in-1-power-station-review-small-footprint-big-capabilities?utm_medium=rss)
+ - [AirPods Max back-ordered, but don&#39;t expect new model](https://appleinsider.com/articles/23/01/23/airpods-max-back-ordered-but-dont-expect-new-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
