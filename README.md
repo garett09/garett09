@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Watch the Xbox &amp; Bethesda Developer_Direct on Wednesday](https://news.xbox.com/en-us/2023/01/23/xbox-bethesda-developer-direct-how-to-watch/)
- - [Dragon Age 4 just lost its veteran production director](https://www.pcgamer.com/dragon-age-4-just-lost-its-veteran-production-director)
- - [Dungeons &amp; Dragons movie trailer has yet more jokes, very fat dragon](https://www.polygon.com/23567423/dungeons-and-dragons-trailer-the-fat-dragon-one)<!-- GAME:END -->
+ - [D&amp;D movie villain revealed and, no, it’s not Vecna](https://www.polygon.com/23567509/dungeons-dragons-dnd-movie-villain-vecna-szass-tam)
+ - [HBO’s The Last Of Us Does Tess Dirty](https://kotaku.com/hbo-last-of-us-tess-anna-torv-episode-two-death-kiss-1850018175)
+ - [This rhythm game just became one of Steam&#39;s worst games of all time](https://www.pcgamer.com/this-rhythm-game-just-became-one-of-steams-worst-games-of-all-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
