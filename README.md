@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Issued a base](http://9gag.com/gag/a9qEmzL)
- - 🚯 [Unpopular Opinion](http://9gag.com/gag/a2K7y11)
- - 🚯 [Also an horologist](http://9gag.com/gag/armMxpB)<!-- MEMES:END -->
+ - 🚖 [Just another relationshit post](http://9gag.com/gag/a047nRL)
+ - 🚯 [This fearless little guy](http://9gag.com/gag/amAPMr2)
+ - 🚯 [Lmfao this is great](http://9gag.com/gag/axoMbQD)<!-- MEMES:END -->
 
 --- 
 
