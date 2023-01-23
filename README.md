@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How WWE’s ‘WarGames’ finally made it into a video game after 35 years](https://www.polygon.com/23564646/wwe-2k23-release-date-preview-wargames)
- - [Merriam-Webster now has its own, appropriately impossible Wordle clone](https://www.pcgamer.com/merriam-webster-now-has-its-own-appropriately-impossible-wordle-clone)
- - [Three episodes in, the Nier: Automata anime has been blindsided by delays](https://www.pcgamer.com/three-episodes-in-the-nier-automata-anime-has-been-blindsided-by-delays)<!-- GAME:END -->
+ - [Avatar: The Way of Water’s box office surpasses $2 billion](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
+ - [World War Z: Aftermath’s Horde Mode XL update launches tomorrow](https://blog.playstation.com/2023/01/23/world-war-z-aftermaths-horde-mode-xl-update-launches-tomorrow/)
+ - [Mahokenshi review](https://www.pcgamer.com/mahokenshi-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
