@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India asks Twitter and YouTube to remove videos and tweets of a BBC documentary on 2002 religious riots in Prime Minister Narendra Modi&#39;s home state of Gujarat &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/230123/p3#a230123p3)
- - [Nier Automata anime hit by delays after first three episodes already released](https://www.theverge.com/2023/1/23/23567272/nier-automata-anime-delayed-episode-4-covid-19)
- - [A look at the challenge of moderating livestreams for children and vulnerable users, even if age verification can be improved and privacy concerns addressed &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230123/p2#a230123p2)<!-- TECH:END -->
+ - [Nokia signs a multiyear cross-license patent agreement with Samsung, covering fundamental 5G and other tech, after the previous deal expired at the end of 2022 &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/230123/p6#a230123p6)
+ - [Genesis Global Capital&#39;s bankruptcy marks the end of an era of crypto lenders trying to bring the centuries-old banking model to digital currencies &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230123/p5#a230123p5)
+ - [Binance says Signature Bank will only handle transactions of over $100,000, starting on February 1, as the US bank decreases its exposure to crypto markets &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230123/p4#a230123p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
