@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS asks the Biden administration for its views on the constitutionality of Florida&#39;s and Texas&#39; social media laws, likely postponing a decision until 2024 &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/230123/p16#a230123p16)
- - [Pick up Apple&#39;s M2 Mac mini 2023 for just $549](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
- - [2023 will be the year foldables go mainstream](https://www.androidauthority.com/2023-year-foldables-mainstream-3269994/)<!-- TECH:END -->
+ - [Apple’s new Mac Mini is up to $100 off at Adorama](https://www.theverge.com/2023/1/23/23567359/apple-m2-mac-mini-preorder-xbox-elite-controller-blue-yeti-deal-sale)
+ - [Spotify lays off 6% of workforce, loses content chief](https://appleinsider.com/articles/23/01/23/spotify-lays-off-6-of-workforce-loses-content-chief?utm_medium=rss)
+ - [Apple&#39;s M2 chips appear to have two subtle upgrades, making performance cores more efficient and efficiency cores more performant, helping improve battery life &lpar;Ben Bajarin/Creative Strategies&rpar;](http://www.techmeme.com/230123/p17#a230123p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
