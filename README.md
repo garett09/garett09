@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Way of Water’s box office surpasses $2 billion](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
- - [World War Z: Aftermath’s Horde Mode XL update launches tomorrow](https://blog.playstation.com/2023/01/23/world-war-z-aftermaths-horde-mode-xl-update-launches-tomorrow/)
- - [Mahokenshi review](https://www.pcgamer.com/mahokenshi-review)<!-- GAME:END -->
+ - [How to Watch the Xbox &amp; Bethesda Developer_Direct on Wednesday](https://news.xbox.com/en-us/2023/01/23/xbox-bethesda-developer-direct-how-to-watch/)
+ - [Dragon Age 4 just lost its veteran production director](https://www.pcgamer.com/dragon-age-4-just-lost-its-veteran-production-director)
+ - [Dungeons &amp; Dragons movie trailer has yet more jokes, very fat dragon](https://www.polygon.com/23567423/dungeons-and-dragons-trailer-the-fat-dragon-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
