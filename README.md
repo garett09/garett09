@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah\u2026](http://9gag.com/gag/aeQA4VO)
- - 🚯 [Serenade Sad](http://9gag.com/gag/abvVebB)
- - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
+ - 🚖 [Issued a base](http://9gag.com/gag/a9qEmzL)
+ - 🚯 [Unpopular Opinion](http://9gag.com/gag/a2K7y11)
+ - 🚯 [Also an horologist](http://9gag.com/gag/armMxpB)<!-- MEMES:END -->
 
 --- 
 
