@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia signs a multiyear cross-license patent agreement with Samsung, covering fundamental 5G and other tech, after the previous deal expired at the end of 2022 &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/230123/p6#a230123p6)
- - [Genesis Global Capital&#39;s bankruptcy marks the end of an era of crypto lenders trying to bring the centuries-old banking model to digital currencies &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230123/p5#a230123p5)
- - [Binance says Signature Bank will only handle transactions of over $100,000, starting on February 1, as the US bank decreases its exposure to crypto markets &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230123/p4#a230123p4)<!-- TECH:END -->
+ - [Spotify plans to lay off around 6% of its workforce, says content head Dawn Ostroff will leave the company, and reorganizes engineering and product groups &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/230123/p8#a230123p8)
+ - [The Internet Is Breeding Hordes of Adult &#39;Bluey&#39; Fans](https://www.wired.com/story/bluey-internet-fandom/)
+ - [Hey EV Owners: It’d Take a Fraction of You to Prop Up the Grid](https://www.wired.com/story/hey-ev-owners-itd-take-a-fraction-of-you-to-prop-up-the-grid/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
