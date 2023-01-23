@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American police simulator](http://9gag.com/gag/a9qEyA1)
- - 🚯 [.](http://9gag.com/gag/aeQAOZB)
- - 🚯 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
+ - 🚖 [.](http://9gag.com/gag/aeQAOZB)
+ - 🚯 [Ir\u00f6n Mike](http://9gag.com/gag/a7qE0oz)
+ - 🚯 [Lord of balls](http://9gag.com/gag/aqej8nZ)<!-- MEMES:END -->
 
 --- 
 
