@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Timothée Chalamet even makes stumping for Apple seem cool](https://www.polygon.com/23567624/timothee-chalamet-apple-tv-trailer-call-me)
- - [Forspoken Release Trailer Exploits Bogus Accolades](https://kotaku.com/forspoken-reviews-square-enix-trailer-tiktok-lies-1850018495)
- - [Sega’s teasing the most unexpected Dreamcast revival](https://www.polygon.com/23567653/sega-cosmic-smash-vrs-teaser-dreamcast)<!-- GAME:END -->
+ - [The PS5’s Luxe New Controller Might Be A Game Changer &lpar;If You Can Afford It&rpar;](https://kotaku.com/dualsense-edge-controller-playstation-5-review-kotaku-1850018508)
+ - [Pokémon Fan Says US Customs Destroyed $4,000 Classic Game](https://kotaku.com/rare-pokemon-game-worth-yellow-wata-games-us-customs-1850018581)
+ - [343 Industries denies reports it’s not making Halo games anymore](https://www.polygon.com/23567502/343-industries-still-making-halo-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
