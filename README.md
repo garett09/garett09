@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You cant catch us uwu!](http://9gag.com/gag/avQ5WZZ)
- - 🚯 [Oh, No Anyway.](http://9gag.com/gag/a4oEnE6)
- - 🚯 [It is always morally correct to post this again and again...](http://9gag.com/gag/a9qEznL)<!-- MEMES:END -->
+ - 🚖 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 🚯 [Come back king](http://9gag.com/gag/amAPGZy)
+ - 🚯 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
 
 --- 
 
