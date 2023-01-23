@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
- - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 🚖 [Lmfao this is great](http://9gag.com/gag/axoMbQD)
+ - 🚯 [Whose picture you will paste in it?](http://9gag.com/gag/aEqpMDe)
  - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 --- 
