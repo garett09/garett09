@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
- - 🚯 [American police simulator](http://9gag.com/gag/a9qEyA1)
- - 🚯 [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)<!-- MEMES:END -->
+ - 🚖 [Maths Teacher AD](http://9gag.com/gag/amAP1vV)
+ - 🚯 [Danielle Marsh](http://9gag.com/gag/ap9NRLD)
+ - 🚯 [When your Favored Enemy class bonus kicks in](http://9gag.com/gag/anzQO2q)<!-- MEMES:END -->
 
 --- 
 
