@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D movie villain revealed and, no, it’s not Vecna](https://www.polygon.com/23567509/dungeons-dragons-dnd-movie-villain-vecna-szass-tam)
- - [HBO’s The Last Of Us Does Tess Dirty](https://kotaku.com/hbo-last-of-us-tess-anna-torv-episode-two-death-kiss-1850018175)
- - [This rhythm game just became one of Steam&#39;s worst games of all time](https://www.pcgamer.com/this-rhythm-game-just-became-one-of-steams-worst-games-of-all-time)<!-- GAME:END -->
+ - [Timothée Chalamet even makes stumping for Apple seem cool](https://www.polygon.com/23567624/timothee-chalamet-apple-tv-trailer-call-me)
+ - [Forspoken Release Trailer Exploits Bogus Accolades](https://kotaku.com/forspoken-reviews-square-enix-trailer-tiktok-lies-1850018495)
+ - [Sega’s teasing the most unexpected Dreamcast revival](https://www.polygon.com/23567653/sega-cosmic-smash-vrs-teaser-dreamcast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
