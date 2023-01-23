@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify plans to lay off around 6% of its workforce, says content head Dawn Ostroff will leave the company, and reorganizes engineering and product groups &lpar;Eva Mathews/Reuters&rpar;](http://www.techmeme.com/230123/p8#a230123p8)
- - [The Internet Is Breeding Hordes of Adult &#39;Bluey&#39; Fans](https://www.wired.com/story/bluey-internet-fandom/)
- - [Hey EV Owners: It’d Take a Fraction of You to Prop Up the Grid](https://www.wired.com/story/hey-ev-owners-itd-take-a-fraction-of-you-to-prop-up-the-grid/)<!-- TECH:END -->
+ - [Tim Cook held all his Apple stock in 2022, as other execs sold](https://appleinsider.com/articles/23/01/23/tim-cook-held-all-his-apple-stock-in-2022-as-other-execs-sold?utm_medium=rss)
+ - [How to Use Stage Manager With Your iPad and Mac &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-stage-manager-with-ipad-and-mac/)
+ - [Sony and Honda’s EV goes where the Apple Car never did](https://www.theverge.com/2023/1/23/23564431/sony-honda-ev-afeela-apple-subscription-lease-software)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
