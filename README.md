@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
- - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
- - 🚯 [Greta lying to the world.](http://9gag.com/gag/aPg3obw)<!-- MEMES:END -->
+ - 🚖 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
+ - 🚯 [Damn that thing is hot](http://9gag.com/gag/aNwpOy4)
+ - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
 
 --- 
 
