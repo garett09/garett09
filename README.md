@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf is it??!! And what the f**k is it made off!!??](http://9gag.com/gag/aVb7KBd)
- - 🚯 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
- - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)<!-- MEMES:END -->
+ - 🚖 [Wall-E](http://9gag.com/gag/a047X2Z)
+ - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 🚯 [Taliban before/after USA invasion. Yes, Its Funny.](http://9gag.com/gag/a047MeX)<!-- MEMES:END -->
 
 --- 
 
