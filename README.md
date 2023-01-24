@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thieves take $100k of goods from Beavercreek Apple Store](https://appleinsider.com/articles/23/01/24/thieves-take-100k-of-goods-from-beavercreek-apple-store?utm_medium=rss)
- - [Poll: Which smartphone button placement do you prefer?](https://www.androidauthority.com/smartphone-button-placement-prefer-poll-3271025/)
- - [Amazon launches a $5 monthly subscription for unlimited prescription medications](https://www.theverge.com/2023/1/24/23568919/amazon-rxpass-medical-subscription-prescription-healthcare-service)<!-- TECH:END -->
+ - [Sources: increased SEC scrutiny of Circle, eToro, Galaxy Digital, and other crypto companies have blocked them from going public in the US over the past year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230124/p15#a230124p15)
+ - [A look at Sam Bankman-Fried&#39;s $400M investment in obscure hedge fund Modulo, shortly before FTX collapsed; Modulo&#39;s executives had close ties to SBF and FTX &lpar;New York Times&rpar;](http://www.techmeme.com/230124/p14#a230124p14)
+ - [M2 Pro &amp; Max MacBook Pro SSD write speeds faster than M1](https://appleinsider.com/articles/23/01/24/m2-pro-max-macbook-pro-ssd-write-speeds-faster-than-m1?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
