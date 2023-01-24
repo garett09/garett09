@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [US sues Google over digital ad market monopoly](https://appleinsider.com/articles/23/01/24/us-sues-google-over-digital-ad-market-monopoly?utm_medium=rss)
- - [Roborock’s Dyad Pro is a smart vac and mop without robot prices](https://www.androidauthority.com/roborock-dyad-pro-review-3269211/)
- - [Apple&#39;s M2 Mac mini 512GB is on sale for $699 thanks to a $100 discount](https://appleinsider.com/articles/23/01/24/apples-m2-mac-mini-512gb-is-on-sale-for-699-thanks-to-a-100-discount?utm_medium=rss)<!-- TECH:END -->
+ - [DOJ files lawsuit against Google for having a digital ad monopoly](https://www.androidauthority.com/doj-google-lawsuit-3271329/)
+ - [Google Sued by US Department of Justice for Second Time Over Ad Dominance     - CNET](https://www.cnet.com/news/politics/google-sued-by-us-department-of-justice-for-second-time-over-ad-dominance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
