@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US sues Google over digital ad market monopoly](https://appleinsider.com/articles/23/01/24/us-sues-google-over-digital-ad-market-monopoly?utm_medium=rss)
- - [DOJ files lawsuit against Google for having a digital ad monopoly](https://www.androidauthority.com/doj-google-lawsuit-3271329/)
- - [Google Sued by US Department of Justice for Second Time Over Ad Dominance     - CNET](https://www.cnet.com/news/politics/google-sued-by-us-department-of-justice-for-second-time-over-ad-dominance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Q2: revenue up 2% YoY to $52.7B, net income down 12% YoY to $16.4B, Cloud revenue up 22% YoY to $27.1B, Windows OEM revenue down 39% YoY; stock up 4%+ &lpar;Microsoft&rpar;](http://www.techmeme.com/230124/p30#a230124p30)
+ - [Google to shut down spam backdoor for political campaigns](https://www.theverge.com/2023/1/24/23569761/google-gmail-spam-backdoor-republicans-gop-rnc-nrsc)
+ - [Research: African tech startups raised $1.55B in 71 debt deals in 2022, up from $767M in 2021, and startup funding rose 8% YoY, compared to a 35% drop globally &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/230124/p29#a230124p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
