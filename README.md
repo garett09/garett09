@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [War Thunder](http://9gag.com/gag/a8qEenV)
- - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
- - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
+ - 🚖 [He takes his job seriously](http://9gag.com/gag/aoKMxye)
+ - 🚯 [For centuries, women have been oppressed !](http://9gag.com/gag/axoM3YK)
+ - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)<!-- MEMES:END -->
 
 --- 
 
