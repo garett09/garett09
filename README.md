@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmfao this is great](http://9gag.com/gag/axoMbQD)
- - 🚯 [Whose picture you will paste in it?](http://9gag.com/gag/aEqpMDe)
- - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
+ - 🚖 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 🚯 [Don&#39;t miss the adult one](http://9gag.com/gag/aDYdVgO)
+ - 🚯 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
 
 --- 
 
