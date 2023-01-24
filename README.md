@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod software version 16.3 is here alongside tvOS 16.3](https://appleinsider.com/articles/23/01/24/homepod-software-version-163-is-here-alongside-tvos-163?utm_medium=rss)
- - [A review of Ivory, a new iOS Mastodon app released by Tapbots, maker of now-defunct Tweetbot: inspired design, Tweetbot-like gestures, custom filters, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/230124/p26#a230124p26)
- - [Riot Games says it will not pay a ransom after hackers exfiltrated source code for League of Legends, Teamfight Tactics, and a &quot;legacy anticheat platform&quot; &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230124/p25#a230124p25)<!-- TECH:END -->
+ - [US sues Google over digital ad market monopoly](https://appleinsider.com/articles/23/01/24/us-sues-google-over-digital-ad-market-monopoly?utm_medium=rss)
+ - [Roborock’s Dyad Pro is a smart vac and mop without robot prices](https://www.androidauthority.com/roborock-dyad-pro-review-3269211/)
+ - [Apple&#39;s M2 Mac mini 512GB is on sale for $699 thanks to a $100 discount](https://appleinsider.com/articles/23/01/24/apples-m2-mac-mini-512gb-is-on-sale-for-699-thanks-to-a-100-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
