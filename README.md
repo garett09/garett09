@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s new native Mac app is now in open beta](https://www.theverge.com/2023/1/24/23568872/whatsapp-macos-catalyst-app-ipad)
- - [Meta Chief AI Scientist Yann LeCun says ChatGPT is &quot;not particularly innovative&quot; in its underlying techniques and other research labs are doing similar work &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/230124/p6#a230124p6)
- - [Amazon&#39;s RxPass Is a $5 Monthly Subscription for Generic Prescriptions     - CNET](https://www.cnet.com/news/amazons-rxpass-is-a-5-monthly-subscription-for-generic-prescriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Battle Over Bike Lanes Needs a Mindset Shift](https://www.wired.com/story/the-battle-over-bike-lanes-needs-a-mindset-shift/)
+ - [This Startup Is Using AI to Unearth New Smells](https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/)
+ - [Sources: bankrupt crypto lender BlockFi plans to sell $160M of loans backed by ~68K bitcoin mining rigs; some have already defaulted or seem undercollateralized &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230124/p9#a230124p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
