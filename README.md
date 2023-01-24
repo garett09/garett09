@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
- - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
- - 🚯 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
+ - 🚖 [Nice](http://9gag.com/gag/anzQrv5)
+ - 🚯 [Teacher forbid bring laptops in class](http://9gag.com/gag/ap9NYKB)
+ - 🚯 [Greeters guild at Tesco](http://9gag.com/gag/abvVRbX)<!-- MEMES:END -->
 
 --- 
 
