@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Entry level M2 Mac mini, 2023 MacBook Pro have slower SSD than predecessors](https://appleinsider.com/articles/23/01/24/entry-level-m2-mac-mini-2023-macbook-pro-have-slower-ssd-than-predecessors?utm_medium=rss)
- - [The Earth Is Begging You to Accept Smaller EV Batteries](https://www.wired.com/story/the-earth-is-begging-you-to-accept-smaller-ev-batteries/)
- - [Microsoft Cloud revenue grew 22% YoY to $27.1B, including Intelligent Cloud up 18% YoY to $21.5B, which was driven by Azure and other cloud services up 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230124/p32#a230124p32)<!-- TECH:END -->
+ - [Galaxy S23 pricing likely won’t change in the US, but may go up everywhere else](https://www.androidauthority.com/galaxy-s23-pricing-3271432/)
+ - [FCC Issues Record Cease and Desist to Halt Targeted Mortgage Scam Robocalls     - CNET](https://www.cnet.com/personal-finance/mortgages/fcc-issues-record-cease-and-desist-to-halt-targeted-mortgage-scam-robocalls/#ftag=CAD590a51e)
+ - [Twitter updates its web version to default to the timeline a user had open last, rather than reverting to the algorithmic feed; coming to iOS and Android &quot;soon&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230124/p33#a230124p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
