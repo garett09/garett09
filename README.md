@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: increased SEC scrutiny of Circle, eToro, Galaxy Digital, and other crypto companies have blocked them from going public in the US over the past year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230124/p15#a230124p15)
- - [A look at Sam Bankman-Fried&#39;s $400M investment in obscure hedge fund Modulo, shortly before FTX collapsed; Modulo&#39;s executives had close ties to SBF and FTX &lpar;New York Times&rpar;](http://www.techmeme.com/230124/p14#a230124p14)
- - [M2 Pro &amp; Max MacBook Pro SSD write speeds faster than M1](https://appleinsider.com/articles/23/01/24/m2-pro-max-macbook-pro-ssd-write-speeds-faster-than-m1?utm_medium=rss)<!-- TECH:END -->
+ - [Best bags for MacBook Pro in 2023](https://appleinsider.com/articles/23/01/24/best-bags-for-macbook-pro-in-2023?utm_medium=rss)
+ - [Google Pixels have one photography weakness, and it isn’t their camera](https://www.androidauthority.com/google-pixel-camera-accessory-ecosystem-opinion-3267345/)
+ - [Taiwan&#39;s Foxconn and Apple suppliers Pegatron, Quanta, and Compal plan to grow their manufacturing presence in Mexico in 2023 to diversify from China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230124/p16#a230124p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
