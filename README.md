@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s second most-wishlisted game is a huge mystery—here&#39;s what we know about it](https://www.pcgamer.com/steams-second-most-wishlisted-game-is-a-huge-mysteryheres-what-we-know-about-it)
- - [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy)
- - [Anarchist hacker exposes the TSA&#39;s 1.5 million-name no-fly list](https://www.pcgamer.com/anarchist-hacker-exposes-the-tsas-15-million-name-no-fly-list)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Holiday Matsuri](https://kotaku.com/holiday-matsuri-2022-cosplay-photos-gallery-video-1850021628)
+ - [Blizzard once again bans Overwatch 2 &#39;sexual harassment simulator,&#39; but not before it reappeared in the popular list](https://www.pcgamer.com/blizzard-once-again-bans-overwatch-2-sexual-harassment-simulator-but-not-before-it-reappeared-in-the-popular-list)
+ - [Steam&#39;s second most-wishlisted game is a huge mystery—here&#39;s what we know about it](https://www.pcgamer.com/steams-second-most-wishlisted-game-is-a-huge-mysteryheres-what-we-know-about-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
