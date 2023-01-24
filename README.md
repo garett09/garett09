@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
- - 🚯 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
- - 🚯 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
+ - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
+ - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
+ - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)<!-- MEMES:END -->
 
 --- 
 
