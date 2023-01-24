@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible creator Robert Kirkman actually loves superheroes](https://www.polygon.com/23568128/invincible-robert-kirkman-comic-season-2)
- - [Twitch Streamer Plays Elden Ring Using Only Her Brain](https://kotaku.com/twitch-streamer-elden-ring-play-brain-eeg-perrikaryal-1850024234)
- - [League of Legends Source Code Hacked, Riot Refuses To Pay Blackmail](https://kotaku.com/league-legends-team-fight-riot-games-hack-source-code-1850024256)<!-- GAME:END -->
+ - [Workers at World of Warcraft studio Proletariat withdraw union petition](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote-withdrawn)
+ - [Pokémon Go Spotlight Hour: Can Tynamo be shiny?](https://www.polygon.com/pokemon-go-guide/23569388/can-tynamo-be-shiny-spotlight-hour-january)
+ - [Where to watch every Oscar-nominated movie](https://www.polygon.com/23567506/oscar-movies-2023-netflix-where-to-watch-stream-amazon-hulu-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
