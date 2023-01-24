@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
- - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
- - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)<!-- MEMES:END -->
+ - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
+ - 🚯 [Greta lying to the world.](http://9gag.com/gag/aPg3obw)<!-- MEMES:END -->
 
 --- 
 
