@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise, surprise: the cell carriers didn’t get rid of passwords](https://www.theverge.com/2023/1/23/23568485/zenphone-support-gone-at-t-verizon-t-mobile-password-app)
- - [Filings: Apple&#39;s US lobbying spend grew 44% YoY to $9.4M in 2022; Amazon&#39;s grew 2% to $19.7M, Meta&#39;s fell 4.6% to $19.2M; Google spent $10.9M, Microsoft $9.8M &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230123/p32#a230123p32)
- - [The Meta Quest’s improved hand tracking is now the default](https://www.theverge.com/2023/1/23/23568391/meta-quest-hand-tracking-2-0-default)<!-- TECH:END -->
+ - [Sources: the DOJ is poised to sue Google over its dominance in the $278.6B US digital advertising market before the end of the week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230123/p33#a230123p33)
+ - [Apple still on track for iPad Pro revamp with OLED display in 2024](https://appleinsider.com/articles/23/01/24/apple-still-on-track-for-ipad-pro-revamp-with-oled-display-in-2024?utm_medium=rss)
+ - [&#39;The Last of Us&#39; Episode 2 Makes Major Changes to Game&#39;s Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-2-makes-major-changes-to-the-games-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
