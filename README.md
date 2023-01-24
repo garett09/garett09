@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp releases a beta version of its native macOS app, built using Mac Catalyst, to all users via its website, following a limited TestFlight app beta &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230124/p22#a230124p22)
- - [Pick up Apple&#39;s M2 Mac mini 2023 for just $549](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
- - [New &#39;Today at Apple&#39; and video launch for Data Privacy Day](https://appleinsider.com/articles/23/01/24/new-today-at-apple-and-video-launch-for-data-privacy-day?utm_medium=rss)<!-- TECH:END -->
+ - [HomePod software version 16.3 is here alongside tvOS 16.3](https://appleinsider.com/articles/23/01/24/homepod-software-version-163-is-here-alongside-tvos-163?utm_medium=rss)
+ - [A review of Ivory, a new iOS Mastodon app released by Tapbots, maker of now-defunct Tweetbot: inspired design, Tweetbot-like gestures, custom filters, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/230124/p26#a230124p26)
+ - [Riot Games says it will not pay a ransom after hackers exfiltrated source code for League of Legends, Teamfight Tactics, and a &quot;legacy anticheat platform&quot; &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230124/p25#a230124p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
