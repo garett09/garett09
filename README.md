@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wall-E](http://9gag.com/gag/a047X2Z)
- - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
- - 🚯 [Taliban before/after USA invasion. Yes, Its Funny.](http://9gag.com/gag/a047MeX)<!-- MEMES:END -->
+ - 🚖 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
+ - 🚯 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
+ - 🚯 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
 
 --- 
 
