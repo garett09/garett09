@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The war footage we needed](http://9gag.com/gag/aBd2XB1)
- - 🚯 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)
- - 🚯 [This movie was f**king amazing. Cosmic horror at its best. The animatronics and effects are so well done that they hold up even to this day &lpar;better than few CGI movies these days&rpar;. This might be the best horror, thriller movie I&#39;ve watched since a long time &lpar;I know it&#39;s old&rpar;.](http://9gag.com/gag/aQEomLw)<!-- MEMES:END -->
+ - 🚖 [When the world doesn\u2019t love you back](http://9gag.com/gag/axoMY62)
+ - 🚯 [Good job, Vladimir!](http://9gag.com/gag/a1PrOwb)
+ - 🚯 [Crypress Hill](http://9gag.com/gag/a9qE2xj)<!-- MEMES:END -->
 
 --- 
 
