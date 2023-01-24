@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal messages: TikTok told some of its US workers they could lose their jobs unless they show they have moved to an address near their assigned offices &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230123/p31#a230123p31)
- - [Elon Musk gets serious about 420 at securities fraud trial](https://www.theverge.com/2023/1/23/23568257/elon-musk-securities-fraud-trial-testimony-420-tesla-pif)
- - [Source: Satya Nadella voiced concerns Microsoft was slow to commercialize its AI research advances; in 2022, its researchers said Apple and Google seemed ahead &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230123/p30#a230123p30)<!-- TECH:END -->
+ - [Surprise, surprise: the cell carriers didn’t get rid of passwords](https://www.theverge.com/2023/1/23/23568485/zenphone-support-gone-at-t-verizon-t-mobile-password-app)
+ - [Filings: Apple&#39;s US lobbying spend grew 44% YoY to $9.4M in 2022; Amazon&#39;s grew 2% to $19.7M, Meta&#39;s fell 4.6% to $19.2M; Google spent $10.9M, Microsoft $9.8M &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230123/p32#a230123p32)
+ - [The Meta Quest’s improved hand tracking is now the default](https://www.theverge.com/2023/1/23/23568391/meta-quest-hand-tracking-2-0-default)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
