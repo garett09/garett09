@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmfao this is great](http://9gag.com/gag/axoMbQD)
+ - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
  - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - 🚯 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
+ - 🚯 [Is this what seks is like?](http://9gag.com/gag/aA0bK59)<!-- MEMES:END -->
 
 --- 
 
