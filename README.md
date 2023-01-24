@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
+ - 🚖 [A zoo in China organizes a \u201chandover ceremony\u201d for going from year of the tiger to year of the rabbit ahead of the Chinese New Year.](http://9gag.com/gag/agoB25w)
  - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - 🚯 [Is this what seks is like?](http://9gag.com/gag/aA0bK59)<!-- MEMES:END -->
+ - 🚯 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
 
 --- 
 
