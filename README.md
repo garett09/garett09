@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers at World of Warcraft studio Proletariat withdraw union petition](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote-withdrawn)
- - [Pokémon Go Spotlight Hour: Can Tynamo be shiny?](https://www.polygon.com/pokemon-go-guide/23569388/can-tynamo-be-shiny-spotlight-hour-january)
- - [Where to watch every Oscar-nominated movie](https://www.polygon.com/23567506/oscar-movies-2023-netflix-where-to-watch-stream-amazon-hulu-hbo)<!-- GAME:END -->
+ - [The 11 Best Metroidvanias To Get Lost In Right Now](https://kotaku.com/metroid-dread-bloodstained-metroidvania-hollow-knight-1850025013)
+ - [Nicholas Hoult plays the ‘passionate’ fan as a form of evil in The Menu](https://www.polygon.com/23568001/the-menu-nicholas-hoult-ending-theme)
+ - [Forspoken demo is now on PC](https://www.pcgamer.com/forspoken-demo-is-now-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
