@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wall-E](http://9gag.com/gag/a047X2Z)
- - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
- - 🚯 [9gager getting married](http://9gag.com/gag/aNwpR14)<!-- MEMES:END -->
+ - 🚖 [Lmfao this is great](http://9gag.com/gag/axoMbQD)
+ - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 🚯 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
 
 --- 
 
