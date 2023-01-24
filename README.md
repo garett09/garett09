@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Complaints about Cyberpunk 2077 being too linear are &#39;completely justified&#39; says quest director](https://www.pcgamer.com/complaints-about-cyberpunk-2077-being-too-linear-are-completely-justified-says-quest-director)
- - [Warhammer 40K: Darktide Xbox launch delayed so developer can iron out problems](https://www.polygon.com/2023/1/24/23569913/warhammer-40k-darktide-fatshark-open-letter-community-criticism-crafting)
- - [Titanfall 2 now costs less than a Big Mac, its lowest ever price on Steam](https://www.pcgamer.com/titanfall-2-now-costs-less-than-a-big-mac-its-lowest-ever-price-on-steam)<!-- GAME:END -->
+ - [Adult Swim drops Justin Roiland from Rick &amp; Morty after domestic violence charges](https://www.pcgamer.com/adult-swim-drops-justin-roiland-from-rick-and-morty-after-domestic-violence-charges)
+ - [Rick And Morty Ditches Roiland, Recasting Voices Following Domestic Abuse Allegations](https://kotaku.com/rick-morty-season-7-voice-justin-roiland-domestic-abuse-1850026753)
+ - [Forspoken Fails To Credit Localizers, Quality Assurance Testers](https://kotaku.com/forspoken-ps5-credits-localization-quality-assurance-qa-1850026704)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
