@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The team behind Desperados 3 and Shadow Tactics wants you to lead an undead pirate crew to riches and glory](https://www.pcgamer.com/the-team-behind-desperados-3-and-shadow-tactics-wants-you-to-lead-an-undead-pirate-crew-to-riches-and-glory)
- - [All Hogwarts Legacy discussion banned on one of the world&#39;s largest gaming forums](https://www.pcgamer.com/hogwarts-legacy-discussion-banned-on-one-of-the-worlds-largest-gaming-forums)
- - [Here are the 2023 Oscar nominations](https://www.polygon.com/23568882/oscar-nominations-2023-list)<!-- GAME:END -->
+ - [The Week In Games: Magical Parkour And Spooky Spaceships](https://kotaku.com/january-game-releases-this-week-forspoken-dead-space-1850019859)
+ - [Warhammer 40K’s new status quo is absolutely wild](https://www.polygon.com/23567890/warhammer-40k-dark-imperium-explained-chaos-gate-roboute-guilliman-return-godblight)
+ - [Microsoft subpoenas Sony, and all the latest on the Activision Blizzard acquisition](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
