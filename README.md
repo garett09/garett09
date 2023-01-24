@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best bags for MacBook Pro in 2023](https://appleinsider.com/articles/23/01/24/best-bags-for-macbook-pro-in-2023?utm_medium=rss)
- - [Google Pixels have one photography weakness, and it isn’t their camera](https://www.androidauthority.com/google-pixel-camera-accessory-ecosystem-opinion-3267345/)
- - [Taiwan&#39;s Foxconn and Apple suppliers Pegatron, Quanta, and Compal plan to grow their manufacturing presence in Mexico in 2023 to diversify from China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230124/p16#a230124p16)<!-- TECH:END -->
+ - [9 Best Coffee Subscription Boxes We’ve Tasted &lpar;2022&rpar;: Gifting, Fresh, Decaf, Single-Origin](https://www.wired.com/story/best-coffee-subscriptions/)
+ - [Daily Deals Jan. 24: $550 off 14-inch MacBook Pro, 20% off Bose Smart Soundbar 900, $100 off M2 iPad Pro 12.9-inch with AppleCare &amp; more](https://appleinsider.com/articles/23/01/24/daily-deals-jan-24-550-off-14-inch-macbook-pro-20-off-bose-smart-soundbar-900-100-off-m2-ipad-pro-129-inch-with-applecare-more?utm_medium=rss)
+ - [Apple TV+ short gets Oscar nominations, &#39;Emancipation&#39; shut out](https://appleinsider.com/articles/23/01/24/apple-tv-short-gets-oscar-nominations-emancipation-shut-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
