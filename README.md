@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Wall-E](http://9gag.com/gag/a047X2Z)
- - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
- - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)<!-- MEMES:END -->
+ - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 🚯 [9gager getting married](http://9gag.com/gag/aNwpR14)<!-- MEMES:END -->
 
 --- 
 
