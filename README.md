@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Vivillon map and pattern guide](https://www.polygon.com/pokemon-go-guide/23569524/vivillon-patterns-map-regions-medal-friends-locations-how-to-catch-scatterbug-spewpa-candy)
- - [The World&#39;s Biggest Chess Site Is Popping Off So Much, Fans Can&#39;t Play](https://kotaku.com/chess-server-magnus-carlsen-cheating-scandal-netflix-1850025575)
- - [Washington Post Shutting Down Gaming Section Amid Wider Layoffs](https://kotaku.com/washington-post-launcher-layoffs-giant-bomb-games-media-1850025471)<!-- GAME:END -->
+ - [Overwatch 2&#39;s ‘Sexual Harassment Simulator’ Mode Made A Brief Return](https://kotaku.com/overwatch-2-custom-game-mode-sexual-assault-blizzard-1850025765)
+ - [Fatshark pauses Darktide content updates as it apologizes botched launch](https://www.pcgamer.com/fatshark-pauses-darktide-content-updates-as-it-apologizes-botched-launch)
+ - [Stranger Things’ Finn Wolfhard has somehow become a TikTok transition](https://www.polygon.com/23569348/finn-wolfhard-snapping-video-tiktok-trend-stranger-things-meme)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
