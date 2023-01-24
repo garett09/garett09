@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice](http://9gag.com/gag/anzQrv5)
- - 🚯 [Teacher forbid bring laptops in class](http://9gag.com/gag/ap9NYKB)
- - 🚯 [Greeters guild at Tesco](http://9gag.com/gag/abvVRbX)<!-- MEMES:END -->
+ - 🚖 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
+ - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
+ - 🚯 [Can&#39;t afford California? Move to Texas.](http://9gag.com/gag/ay2MvWM)<!-- MEMES:END -->
 
 --- 
 
