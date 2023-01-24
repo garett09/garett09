@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Battle Over Bike Lanes Needs a Mindset Shift](https://www.wired.com/story/the-battle-over-bike-lanes-needs-a-mindset-shift/)
- - [This Startup Is Using AI to Unearth New Smells](https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/)
- - [Sources: bankrupt crypto lender BlockFi plans to sell $160M of loans backed by ~68K bitcoin mining rigs; some have already defaulted or seem undercollateralized &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230124/p9#a230124p9)<!-- TECH:END -->
+ - [Thieves take $100k of goods from Beavercreek Apple Store](https://appleinsider.com/articles/23/01/24/thieves-take-100k-of-goods-from-beavercreek-apple-store?utm_medium=rss)
+ - [Poll: Which smartphone button placement do you prefer?](https://www.androidauthority.com/smartphone-button-placement-prefer-poll-3271025/)
+ - [Amazon launches a $5 monthly subscription for unlimited prescription medications](https://www.theverge.com/2023/1/24/23568919/amazon-rxpass-medical-subscription-prescription-healthcare-service)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
