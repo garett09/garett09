@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Samsung may bump up the brightness to 1750 nits on all Galaxy S23 models](https://www.androidauthority.com/samsung-s23-brightness-3271168/)
- - [Right-to-repair advocate urges Apple to let resellers bypass security protocols](https://appleinsider.com/articles/23/01/24/right-to-repair-advocate-urges-apple-to-let-resellers-bypass-security-protocols?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp releases a beta version of its native macOS app, built using Mac Catalyst, to all users via its website, following a limited TestFlight app beta &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230124/p22#a230124p22)
+ - [Pick up Apple&#39;s M2 Mac mini 2023 for just $549](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
+ - [New &#39;Today at Apple&#39; and video launch for Data Privacy Day](https://appleinsider.com/articles/23/01/24/new-today-at-apple-and-video-launch-for-data-privacy-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
