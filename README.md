@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are the Forspoken release times for each region](https://www.pcgamer.com/forspoken-release-times)
  - [OpenAI&#39;s ChatGPT Pro ain&#39;t gonna be cheap](https://www.pcgamer.com/openais-chatgpt-pro-aint-gonna-be-cheap)
- - [I think AMD needs to stop letting interns update its upcoming CPU info pages](https://www.pcgamer.com/i-think-amd-needs-to-stop-letting-interns-update-its-upcoming-cpu-info-pages)
- - [Swearing rats mod for Oblivion puts its vermin in permanent meltdown mode](https://www.pcgamer.com/swearing-rats-mod-for-oblivion-puts-its-vermin-in-permanent-meltdown-mode)<!-- GAME:END -->
+ - [I think AMD needs to stop letting interns update its upcoming CPU info pages](https://www.pcgamer.com/i-think-amd-needs-to-stop-letting-interns-update-its-upcoming-cpu-info-pages)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
