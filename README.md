@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He takes his job seriously](http://9gag.com/gag/aoKMxye)
- - 🚯 [For centuries, women have been oppressed !](http://9gag.com/gag/axoM3YK)
- - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)<!-- MEMES:END -->
+ - 🚖 [Wtf is it??!! And what the f**k is it made off!!??](http://9gag.com/gag/aVb7KBd)
+ - 🚯 [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
+ - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)<!-- MEMES:END -->
 
 --- 
 
