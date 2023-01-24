@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Coffee Subscription Boxes We’ve Tasted &lpar;2022&rpar;: Gifting, Fresh, Decaf, Single-Origin](https://www.wired.com/story/best-coffee-subscriptions/)
- - [Daily Deals Jan. 24: $550 off 14-inch MacBook Pro, 20% off Bose Smart Soundbar 900, $100 off M2 iPad Pro 12.9-inch with AppleCare &amp; more](https://appleinsider.com/articles/23/01/24/daily-deals-jan-24-550-off-14-inch-macbook-pro-20-off-bose-smart-soundbar-900-100-off-m2-ipad-pro-129-inch-with-applecare-more?utm_medium=rss)
- - [Apple TV+ short gets Oscar nominations, &#39;Emancipation&#39; shut out](https://appleinsider.com/articles/23/01/24/apple-tv-short-gets-oscar-nominations-emancipation-shut-out?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Samsung may bump up the brightness to 1750 nits on all Galaxy S23 models](https://www.androidauthority.com/samsung-s23-brightness-3271168/)
+ - [Right-to-repair advocate urges Apple to let resellers bypass security protocols](https://appleinsider.com/articles/23/01/24/right-to-repair-advocate-urges-apple-to-let-resellers-bypass-security-protocols?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
