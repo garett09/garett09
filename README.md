@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Magical Parkour And Spooky Spaceships](https://kotaku.com/january-game-releases-this-week-forspoken-dead-space-1850019859)
- - [Warhammer 40K’s new status quo is absolutely wild](https://www.polygon.com/23567890/warhammer-40k-dark-imperium-explained-chaos-gate-roboute-guilliman-return-godblight)
- - [Microsoft subpoenas Sony, and all the latest on the Activision Blizzard acquisition](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
+ - [&#39;Honestly, this sucks,&#39; says Chess.com as its servers can&#39;t keep up with Chess&#39;s explosive popularity](https://www.pcgamer.com/honestly-this-sucks-says-chesscom-as-its-servers-cant-keep-up-with-chesss-explosive-popularity)
+ - [This indie adventure has you playing the hapless security guard from every horror movie](https://www.pcgamer.com/this-indie-adventure-has-you-playing-the-hapless-security-guard-from-every-horror-movie)
+ - [Tabletop funding was down on Kickstarter in 2022, but more campaigns succeeded overall](https://www.polygon.com/tabletop-games/23552590/kickstarter-top-10-largest-most-backed-board-games-campaigns-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
