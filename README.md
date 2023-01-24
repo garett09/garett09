@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 11 Best Metroidvanias To Get Lost In Right Now](https://kotaku.com/metroid-dread-bloodstained-metroidvania-hollow-knight-1850025013)
- - [Nicholas Hoult plays the ‘passionate’ fan as a form of evil in The Menu](https://www.polygon.com/23568001/the-menu-nicholas-hoult-ending-theme)
- - [Forspoken demo is now on PC](https://www.pcgamer.com/forspoken-demo-is-now-on-pc)<!-- GAME:END -->
+ - [Pokémon Go Vivillon map and pattern guide](https://www.polygon.com/pokemon-go-guide/23569524/vivillon-patterns-map-regions-medal-friends-locations-how-to-catch-scatterbug-spewpa-candy)
+ - [The World&#39;s Biggest Chess Site Is Popping Off So Much, Fans Can&#39;t Play](https://kotaku.com/chess-server-magnus-carlsen-cheating-scandal-netflix-1850025575)
+ - [Washington Post Shutting Down Gaming Section Amid Wider Layoffs](https://kotaku.com/washington-post-launcher-layoffs-giant-bomb-games-media-1850025471)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
