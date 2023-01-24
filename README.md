@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The ending](http://9gag.com/gag/aNwp4Gb)
- - 🚯 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
- - 🚯 [Greta lying to the world.](http://9gag.com/gag/aPg3obw)<!-- MEMES:END -->
+ - 🚯 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 🚯 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
 
 --- 
 
