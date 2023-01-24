@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Chief AI Scientist Yann LeCun says ChatGPT is &quot;not particularly innovative&quot; in its underlying techniques and other research labs are doing similar work &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/230124/p6#a230124p6)
  - [Someone fitted a Pixel 5a battery into a Pixel 4a for 17% extra battery life](https://www.androidauthority.com/google-pixel-5a-battery-in-pixel-4a-3271005/)
- - [How Esther Crawford, Twitter&#39;s director of product management, became one of the most influential leaders from the old guard in Elon Musk&#39;s &quot;hardcore&quot; Twitter &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230124/p5#a230124p5)
- - [Google Messages could finally get this staple messaging feature](https://www.androidauthority.com/google-messages-user-profiles-3270992/)<!-- TECH:END -->
+ - [How Esther Crawford, Twitter&#39;s director of product management, became one of the most influential leaders from the old guard in Elon Musk&#39;s &quot;hardcore&quot; Twitter &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230124/p5#a230124p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
