@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - 🚯 [Don&#39;t miss the adult one](http://9gag.com/gag/aDYdVgO)
- - 🚯 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t miss the adult one](http://9gag.com/gag/aDYdVgO)
+ - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 🚯 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
 
 --- 
 
