@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
- - 🚯 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
- - 🚯 [Can&#39;t afford California? Move to Texas.](http://9gag.com/gag/ay2MvWM)<!-- MEMES:END -->
+ - 🚖 [Totally normal](http://9gag.com/gag/anzQGWE)
+ - 🚯 [The ending](http://9gag.com/gag/aNwp4Gb)
+ - 🚯 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)<!-- MEMES:END -->
 
 --- 
 
