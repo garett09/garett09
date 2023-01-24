@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s ‘Sexual Harassment Simulator’ Mode Made A Brief Return](https://kotaku.com/overwatch-2-custom-game-mode-sexual-assault-blizzard-1850025765)
- - [Fatshark pauses Darktide content updates as it apologizes botched launch](https://www.pcgamer.com/fatshark-pauses-darktide-content-updates-as-it-apologizes-botched-launch)
- - [Stranger Things’ Finn Wolfhard has somehow become a TikTok transition](https://www.polygon.com/23569348/finn-wolfhard-snapping-video-tiktok-trend-stranger-things-meme)<!-- GAME:END -->
+ - [Complaints about Cyberpunk 2077 being too linear are &#39;completely justified&#39; says quest director](https://www.pcgamer.com/complaints-about-cyberpunk-2077-being-too-linear-are-completely-justified-says-quest-director)
+ - [Warhammer 40K: Darktide Xbox launch delayed so developer can iron out problems](https://www.polygon.com/2023/1/24/23569913/warhammer-40k-darktide-fatshark-open-letter-community-criticism-crafting)
+ - [Titanfall 2 now costs less than a Big Mac, its lowest ever price on Steam](https://www.pcgamer.com/titanfall-2-now-costs-less-than-a-big-mac-its-lowest-ever-price-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
