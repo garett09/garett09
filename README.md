@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard games go dark in China, with no return in sight: &#39;This is so tragic,&#39; says former Hearthstone director](https://www.pcgamer.com/blizzard-games-go-dark-in-china-with-no-return-in-sight-this-is-so-tragic-says-former-hearthstone-director)
- - [Top Smash Ultimate Player Throws Controller At Tournament, Sparks &#39;Privilege&#39; Discourse](https://kotaku.com/super-smash-bros-ultimate-kazuya-chrom-riddles-genesis-1850020737)
- - [M&amp;M’s ‘spokescandies’ controversy, explained](https://www.polygon.com/23567793/m-and-m-spokescandies-controversy-explained-shoe-change-green-tucker-carlson)<!-- GAME:END -->
+ - [Steam&#39;s second most-wishlisted game is a huge mystery—here&#39;s what we know about it](https://www.pcgamer.com/steams-second-most-wishlisted-game-is-a-huge-mysteryheres-what-we-know-about-it)
+ - [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy)
+ - [Anarchist hacker exposes the TSA&#39;s 1.5 million-name no-fly list](https://www.pcgamer.com/anarchist-hacker-exposes-the-tsas-15-million-name-no-fly-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
