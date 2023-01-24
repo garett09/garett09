@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Honestly, this sucks,&#39; says Chess.com as its servers can&#39;t keep up with Chess&#39;s explosive popularity](https://www.pcgamer.com/honestly-this-sucks-says-chesscom-as-its-servers-cant-keep-up-with-chesss-explosive-popularity)
- - [This indie adventure has you playing the hapless security guard from every horror movie](https://www.pcgamer.com/this-indie-adventure-has-you-playing-the-hapless-security-guard-from-every-horror-movie)
- - [Tabletop funding was down on Kickstarter in 2022, but more campaigns succeeded overall](https://www.polygon.com/tabletop-games/23552590/kickstarter-top-10-largest-most-backed-board-games-campaigns-2022)<!-- GAME:END -->
+ - [Invincible creator Robert Kirkman actually loves superheroes](https://www.polygon.com/23568128/invincible-robert-kirkman-comic-season-2)
+ - [Twitch Streamer Plays Elden Ring Using Only Her Brain](https://kotaku.com/twitch-streamer-elden-ring-play-brain-eeg-perrikaryal-1850024234)
+ - [League of Legends Source Code Hacked, Riot Refuses To Pay Blackmail](https://kotaku.com/league-legends-team-fight-riot-games-hack-source-code-1850024256)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
