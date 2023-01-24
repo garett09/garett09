@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A zoo in China organizes a \u201chandover ceremony\u201d for going from year of the tiger to year of the rabbit ahead of the Chinese New Year.](http://9gag.com/gag/agoB25w)
- - 🚯 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - 🚯 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
+ - 🚖 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 🚯 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
+ - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 --- 
 
