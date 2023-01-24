@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Get the whole Microsoft Office suite for just $29.99 &lpar;all-time low!&rpar;](https://www.androidauthority.com/microsoft-office-deal-3270908/)
- - [Harley Quinn wants you to get yours this Valentine’s Day](https://www.theverge.com/2023/1/23/23568227/harley-quinn-probemlatic-valentines-day-hbo-max)
- - [Lightyear has stopped production on its solar-powered EV after three months](https://www.theverge.com/2023/1/23/23568154/lightyear-0-stopped-production-2-ev)<!-- TECH:END -->
+ - [Internal messages: TikTok told some of its US workers they could lose their jobs unless they show they have moved to an address near their assigned offices &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230123/p31#a230123p31)
+ - [Elon Musk gets serious about 420 at securities fraud trial](https://www.theverge.com/2023/1/23/23568257/elon-musk-securities-fraud-trial-testimony-420-tesla-pif)
+ - [Source: Satya Nadella voiced concerns Microsoft was slow to commercialize its AI research advances; in 2022, its researchers said Apple and Google seemed ahead &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230123/p30#a230123p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
