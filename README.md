@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unintentional](http://9gag.com/gag/anzQGY5)
- - 🚯 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
- - 🚯 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)<!-- MEMES:END -->
+ - 🚖 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
+ - 🚯 [It was her intention!](http://9gag.com/gag/abvVE4v)
+ - 🚯 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)<!-- MEMES:END -->
 
 --- 
 
