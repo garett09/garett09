@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fallout TV series set photos show iconic Red Rocket gas station](https://www.pcgamer.com/new-fallout-tv-series-set-photos-show-iconic-red-rocket-gas-station)
- - [The Masters Of Stealth Tactics Are Back With A New Pirate Game](https://kotaku.com/shadow-gambit-desperadoes-tactics-stealth-tactics-pc-1850027223)
- - [Drake and Lil Yachty do a Steam Deck handoff between moving SUVs](https://www.pcgamer.com/drake-and-lil-yachty-do-a-steam-deck-handoff-between-moving-suvs)<!-- GAME:END -->
+ - [40K: Darktide&#39;s Xbox Release Delayed So PC Version Can Be Fixed](https://kotaku.com/warhammer-40k-darktide-pc-xbox-series-x-s-delay-content-1850026660)
+ - [Almost 35,000 PayPal accounts breached using known credentials](https://www.pcgamer.com/almost-35000-paypal-accounts-breached-using-known-credentials)
+ - [Justin Roiland out at High on Life studio Squanch Games after felony charges](https://www.polygon.com/23570027/justin-roiland-rick-and-morty-squanch-games-outed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
