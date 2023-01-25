@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite guide: How to eliminate a player without using ranged weapons](https://www.polygon.com/fortnite-guide/23571176/ranged-weapons-eliminate-a-player-week-8-quests-chapter-4-season-1)
- - [Witch From Mercury&#39;s Suletta Joins The List of Anime Protags Who&#39;ve Committed War Crimes](https://kotaku.com/gundam-witch-from-mercury-death-note-code-geass-anime-1850029871)
- - [You Can Tell Forspoken To Shut Up &lpar;And Other Important Settings&rpar;](https://kotaku.com/forspoken-chatter-cuff-best-settings-parkour-1850029744)<!-- GAME:END -->
+ - [4 ways Deadpool brings his fourth-wall breaking antics to Marvel’s Midnight Suns](https://blog.playstation.com/2023/01/25/4-ways-deadpool-brings-his-fourth-wall-breaking-antics-to-marvels-midnight-suns/)
+ - [5 anime to watch to fill the Chainsaw Man-sized hole in your heart](https://www.polygon.com/23554477/chainsaw-man-anime-to-watch-dorohedoro)
+ - [With Roiland Out, Rick And Morty Fans Are ‘Auditioning’ For Season 7](https://kotaku.com/justin-roiland-rick-and-morty-season-7-s7-fan-audition-1850030797)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
