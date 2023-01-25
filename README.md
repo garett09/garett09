@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
+ - 🚖 [A zoo in China organizes a \u201chandover ceremony\u201d for going from year of the tiger to year of the rabbit ahead of the Chinese New Year.](http://9gag.com/gag/agoB25w)
  - 🚯 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
- - 🚯 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
+ - 🚯 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)<!-- MEMES:END -->
 
 --- 
 
