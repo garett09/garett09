@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Legends Gets an April 18 Release Date at Developer_Direct](https://news.xbox.com/en-us/2023/01/25/minecraft-legends-releases-april-18/)
- - [Warhammer 40K’s latest variant has an even higher barrier to entry](https://www.polygon.com/tabletop-games/23570836/warhammer-40k-boarding-actions-price-what-books-do-you-need)
- - [4 ways Deadpool brings his fourth-wall breaking antics to Marvel’s Midnight Suns](https://blog.playstation.com/2023/01/25/4-ways-deadpool-brings-his-fourth-wall-breaking-antics-to-marvels-midnight-suns/)<!-- GAME:END -->
+ - [14 Exciting Games To Expect From Nintendo Switch In 2023](https://kotaku.com/nintendo-switch-zelda-tears-release-date-exclusives-1850031190)
+ - [What Is Hi-Fi Rush, the Surprise Game Out of Developer_Direct?](https://news.xbox.com/en-us/2023/01/25/hi-fi-rush-preview-out-now-hands-on/)
+ - [Evil Within studio announces rhythm action game Hi-Fi Rush, and it&#39;s out today](https://www.pcgamer.com/evil-within-studio-announces-rhythm-action-game-hi-fi-rush-and-its-out-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
