@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After unofficial walkouts in 2022, hundreds of Amazon workers in a UK warehouse are striking, an unprecedented step by UK workers, after 98% voted in favor &lpar;Nate Lanxon/Bloomberg&rpar;](http://www.techmeme.com/230125/p7#a230125p7)
- - [The Rebellion Amazon Can No Longer Ignore](https://www.wired.com/story/amazon-strike-uk-pay/)
- - [Daily Authority: ❌ Pixel’s photography weakness](https://www.androidauthority.com/daily-authority-january-25-2023-3271508/)<!-- TECH:END -->
+ - [Texas Instruments reports Q4 revenue down 3.4% YoY to $4.67B, breaking a run of double-digit growth since 2020, and issues tepid Q1 guidance below estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230125/p10#a230125p10)
+ - [Airlines and Cattle Farmers Have Beef With Google’s Climate Math](https://www.wired.com/story/airlines-and-cattle-farmers-have-beef-with-googles-climate-math/)
+ - [Celebrities, TikTok, and a Cat Bot Are Crashing Chess.com](https://www.wired.com/story/chess-dot-com-tiktok-mittens-scandal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
