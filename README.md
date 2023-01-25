@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Precision Neuroscience, co-founded by a Neuralink co-founder to create a less invasive brain implant to track diseases, raised a $41M Series B &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230125/p14#a230125p14)
- - [Shutterstock launches a tool to let Creative Flow users create images based on text prompts, part of a partnership with OpenAI; images are &quot;ready for licensing&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230125/p13#a230125p13)
- - [Sources: EU antitrust regulators plan an investigation into Microsoft over Teams, focusing on tying the service to Office, after a complaint by Slack in 2020 &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/230125/p12#a230125p12)<!-- TECH:END -->
+ - [Apple Mac Mini &lpar;M2 Pro, 2023&rpar; Review: The Missing Piece](https://www.wired.com/review/apple-mac-mini-2023/)
+ - [Seattle-based DevZero, which offers tools to help developers build and test code in the cloud, raised a $5M seed and $21M Series A and launches its platform &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230125/p16#a230125p16)
+ - [Elon Musk&#39;s Twitter has reinstated several Hindu nationalist accounts that were popular in India; upon returning, some have tweeted material denigrating Muslims &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p15#a230125p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
