@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ announces raft of new children&#39;s shows](https://appleinsider.com/articles/23/01/25/apple-tv-announces-raft-of-new-childrens-shows?utm_medium=rss)
- - [Big changes in store for Android in India, may affect it globally in the future](https://www.androidauthority.com/android-india-changes-3271735/)
- - [After uproar, Twitter suspends the verified account of US white nationalist Nick Fuentes, one day after lifting his ban from July 2021 &lpar;Dan Ladden-Hall/The Daily Beast&rpar;](http://www.techmeme.com/230125/p27#a230125p27)<!-- TECH:END -->
+ - [Sony LinkBuds S vs WF-1000XM4: Does a $130 price gap make a big difference?](https://www.androidauthority.com/sony-linkbuds-s-vs-wf-1000xm4-3265268/)
+ - [Save 36% on the Skagen Gen 6, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [Surfing docuseries &#39;Make or Break&#39; season two debuts on February 17](https://appleinsider.com/articles/23/01/25/surfing-docuseries-make-or-break-season-two-debuts-on-february-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
