@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 pricing likely won’t change in the US, but may go up everywhere else](https://www.androidauthority.com/galaxy-s23-pricing-3271432/)
- - [FCC Issues Record Cease and Desist to Halt Targeted Mortgage Scam Robocalls     - CNET](https://www.cnet.com/personal-finance/mortgages/fcc-issues-record-cease-and-desist-to-halt-targeted-mortgage-scam-robocalls/#ftag=CAD590a51e)
- - [Twitter updates its web version to default to the timeline a user had open last, rather than reverting to the algorithmic feed; coming to iOS and Android &quot;soon&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230124/p33#a230124p33)<!-- TECH:END -->
+ - [Autonomous construction equipment maker Built Robotics acquihires Y Combinator-backed Roin Technologies, known for its concrete finishing robots &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/230124/p36#a230124p36)
+ - [Apple gearing up to re-release revamped HomeKit architecture](https://appleinsider.com/articles/23/01/25/apple-gearing-up-to-re-release-revamped-homekit-architecture?utm_medium=rss)
+ - [2,300-Year-Old &#39;Golden&#39; Egyptian Mummy Unwrapped After Century in Museum Basement     - CNET](https://www.cnet.com/science/biology/2300-year-old-golden-egyptian-mummy-unwrapped-after-century-in-museum-basement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
