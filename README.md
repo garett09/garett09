@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Nightwing’s Butt Artist is back on the job](https://www.polygon.com/2023/1/25/23571017/nightwing-butt-titans-nicola-scott-dc-comics)
- - [How to complete the Resisting the Storm quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-resisting-the-storm)
- - [Dragonflight’s first patch introduces the World of Warcraft trading post](https://www.polygon.com/23569962/dragonflights-first-patch-introduces-the-world-of-warcraft-trading-post)<!-- GAME:END -->
+ - [Fortnite guide: How to eliminate a player without using ranged weapons](https://www.polygon.com/fortnite-guide/23571176/ranged-weapons-eliminate-a-player-week-8-quests-chapter-4-season-1)
+ - [Witch From Mercury&#39;s Suletta Joins The List of Anime Protags Who&#39;ve Committed War Crimes](https://kotaku.com/gundam-witch-from-mercury-death-note-code-geass-anime-1850029871)
+ - [You Can Tell Forspoken To Shut Up &lpar;And Other Important Settings&rpar;](https://kotaku.com/forspoken-chatter-cuff-best-settings-parkour-1850029744)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
