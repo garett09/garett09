@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 8 best video games to get you into Warhammer 40K](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)
- - [How Dead Space taps into PS5 haptics and adaptive triggers for immersive horror](https://blog.playstation.com/2023/01/25/how-dead-space-taps-into-ps5-haptics-and-adaptive-triggers-for-immersive-horror/)
- - [Forspoken&#39;s PC port is another fine Square Enix mess](https://www.pcgamer.com/forspokens-pc-port-is-another-fine-square-enix-mess)<!-- GAME:END -->
+ - [D&amp;D’s next anthology, Keys from the Golden Vault, detailed with little fanfare online](https://www.polygon.com/23570920/dungeons-dragons-dnd-keys-from-the-golden-vault-anthology-reveal)
+ - [Hogwarts Legacy Doesn’t Care If You Use Unforgivable Curses](https://kotaku.com/hogwarts-legacy-harry-potter-unforgivable-curse-rowling-1850029565)
+ - [Workers at eBay-owned trading card marketplace TCGplayer want to unionize](https://www.polygon.com/23561476/tcgplayer-union-ebay-cwa-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
