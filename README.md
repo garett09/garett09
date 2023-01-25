@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was her intention!](http://9gag.com/gag/abvVE4v)
- - 🚯 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
- - 🚯 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
+ - 🚖 [For real?](http://9gag.com/gag/axoM482)
+ - 🚯 [Teacher forbid bring laptops in class](http://9gag.com/gag/ap9NYKB)
+ - 🚯 [When your friend is a dick but supportive](http://9gag.com/gag/aKE6OeW)<!-- MEMES:END -->
 
 --- 
 
