@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s education minister demos BharOS, a homegrown mobile OS claimed to ship with no preloaded apps, share no user data, and incapable of running malware &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230125/p6#a230125p6)
- - [Microsoft is investigating a &quot;potential networking issue&quot; impacting Teams, Azure, Outlook, and more, taking them down in India, Japan, the UK, and elsewhere &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230125/p5#a230125p5)
- - [Sources: Marc Benioff&#39;s controversial acquisitions, focus on growth over profits, celebrity relationships, and philanthropic pursuits have vexed shareholders &lpar;Financial Times&rpar;](http://www.techmeme.com/230125/p4#a230125p4)<!-- TECH:END -->
+ - [After unofficial walkouts in 2022, hundreds of Amazon workers in a UK warehouse are striking, an unprecedented step by UK workers, after 98% voted in favor &lpar;Nate Lanxon/Bloomberg&rpar;](http://www.techmeme.com/230125/p7#a230125p7)
+ - [The Rebellion Amazon Can No Longer Ignore](https://www.wired.com/story/amazon-strike-uk-pay/)
+ - [Daily Authority: ❌ Pixel’s photography weakness](https://www.androidauthority.com/daily-authority-january-25-2023-3271508/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
