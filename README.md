@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sir, get out of the shop.](http://9gag.com/gag/aA0bq62)
- - 🚯 [Something goes wrong during a live interview with a dog adoption association.](http://9gag.com/gag/aNwpRqG)
- - 🚯 [Karen Time 4:6](http://9gag.com/gag/aeQARmb)<!-- MEMES:END -->
+ - 🚖 [The town of Palmanova, Italy, built as a star fort by the Venetian Republic in 1593.](http://9gag.com/gag/a6qE8Rb)
+ - 🚯 [Sir, get out of the shop.](http://9gag.com/gag/aA0bq62)
+ - 🚯 [Unintentional](http://9gag.com/gag/anzQGY5)<!-- MEMES:END -->
 
 --- 
 
