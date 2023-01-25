@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla&#39;s Hurting From Elon Musk&#39;s Twitter Meltdowns. The Question Is: How Much?     - CNET](https://www.cnet.com/tech/teslas-hurting-from-elon-musks-twitter-meltdowns-the-question-is-how-much/#ftag=CAD590a51e)
- - [Maxed out MacBook Air &amp; MacBook Pro - what you get for the money](https://appleinsider.com/articles/23/01/25/maxed-out-macbook-air-macbook-pro---what-you-get-for-the-money?utm_medium=rss)
- - [Tech Titan vs. Government Goliath: What Google&#39;s New Antitrust Suit Means     - CNET](https://www.cnet.com/tech/tech-titan-vs-government-goliath-what-googles-new-antitrust-suit-means/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SK Hynix announces its LPDDR5T chip for mobile devices, with a 9.6Gbps data transfer speed, 13% faster than the previous LPDDR5X &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230125/p30#a230125p30)
+ - [Redfall gets a May 2nd release date and more gameplay footage](https://www.theverge.com/2023/1/25/23500219/redfall-release-date-xbox-bethesda)
+ - [Hi-Fi Rush, a new rhythm-action game from the developers of The Evil Within, is out today](https://www.theverge.com/2023/1/25/23571460/microsoft-hi-fi-rush-tango-gameworks-xbox-developer-direct)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
