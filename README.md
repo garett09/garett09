@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After an antitrust order, Google plans to add third-party billing in India for games in February, updates its agreements with phonemakers and partners, and more &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230125/p25#a230125p25)
- - [Daily Deals Jan. 25: AirPods Pro for $199, up to $200 off 12.9-inch iPad Pro, $150 off 24-inch iMac &amp; more](https://appleinsider.com/articles/23/01/25/daily-deals-jan-25-airpods-pro-for-199-up-to-200-off-129-inch-ipad-pro-150-off-24-inch-imac-more?utm_medium=rss)
- - [Amsterdam-listed e-commerce company Prosus and parent Naspers plan to lay off 30% of their corporate workforce; Prosus employed 30,000 globally in March 2022 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/230125/p24#a230125p24)<!-- TECH:END -->
+ - [Apple TV+ announces raft of new children&#39;s shows](https://appleinsider.com/articles/23/01/25/apple-tv-announces-raft-of-new-childrens-shows?utm_medium=rss)
+ - [Big changes in store for Android in India, may affect it globally in the future](https://www.androidauthority.com/android-india-changes-3271735/)
+ - [After uproar, Twitter suspends the verified account of US white nationalist Nick Fuentes, one day after lifting his ban from July 2021 &lpar;Dan Ladden-Hall/The Daily Beast&rpar;](http://www.techmeme.com/230125/p27#a230125p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
