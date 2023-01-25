@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the world doesn\u2019t love you back](http://9gag.com/gag/axoMY62)
- - 🚯 [Good job, Vladimir!](http://9gag.com/gag/a1PrOwb)
- - 🚯 [Crypress Hill](http://9gag.com/gag/a9qE2xj)<!-- MEMES:END -->
+ - 🚖 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
+ - 🚯 [Eaten by the hyenas?](http://9gag.com/gag/a7qEA1e)
+ - 🚯 [Teacher forbid bring laptops in class](http://9gag.com/gag/ap9NYKB)<!-- MEMES:END -->
 
 --- 
 
