@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you?](http://9gag.com/gag/aREXNZQ)
- - 🚯 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
- - 🚯 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
+ - 🚖 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
+ - 🚯 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)
+ - 🚯 [Karen against a performer](http://9gag.com/gag/armM8mX)<!-- MEMES:END -->
 
 --- 
 
