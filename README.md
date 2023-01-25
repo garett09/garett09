@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
- - 🚯 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
- - 🚯 [Karen Time 4:6](http://9gag.com/gag/aeQARmb)<!-- MEMES:END -->
+ - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)
+ - 🚯 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)<!-- MEMES:END -->
 
 --- 
 
