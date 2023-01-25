@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [120Hz is the way](http://9gag.com/gag/a7qE6zb)
- - 🚯 [Imagine your woman walking away when you needed her the most. Sad](http://9gag.com/gag/aYVonBm)
- - 🚯 [Don\u2019t mess with Texas](http://9gag.com/gag/aOx3AZ2)<!-- MEMES:END -->
+ - 🚖 [Sir, get out of the shop.](http://9gag.com/gag/aA0bq62)
+ - 🚯 [Something goes wrong during a live interview with a dog adoption association.](http://9gag.com/gag/aNwpRqG)
+ - 🚯 [Karen Time 4:6](http://9gag.com/gag/aeQARmb)<!-- MEMES:END -->
 
 --- 
 
