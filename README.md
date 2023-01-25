@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This is the most famous punch Batman’s ever thrown](https://www.polygon.com/23569816/batman-best-punch)
- - [Roller Drama review](https://www.pcgamer.com/roller-drama-review)
- - [Obsidian once had plans for a Rick &amp; Morty game](https://www.pcgamer.com/obsidian-once-had-plans-for-a-rick-and-morty-game)<!-- GAME:END -->
+ - [The 8 best video games to get you into Warhammer 40K](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)
+ - [How Dead Space taps into PS5 haptics and adaptive triggers for immersive horror](https://blog.playstation.com/2023/01/25/how-dead-space-taps-into-ps5-haptics-and-adaptive-triggers-for-immersive-horror/)
+ - [Forspoken&#39;s PC port is another fine Square Enix mess](https://www.pcgamer.com/forspokens-pc-port-is-another-fine-square-enix-mess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
