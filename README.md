@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
- - 🚯 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
- - 🚯 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)<!-- MEMES:END -->
+ - 🚖 [Have you?](http://9gag.com/gag/aREXNZQ)
+ - 🚯 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
+ - 🚯 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
 
 --- 
 
