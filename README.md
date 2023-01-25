@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s next anthology, Keys from the Golden Vault, detailed with little fanfare online](https://www.polygon.com/23570920/dungeons-dragons-dnd-keys-from-the-golden-vault-anthology-reveal)
- - [Hogwarts Legacy Doesn’t Care If You Use Unforgivable Curses](https://kotaku.com/hogwarts-legacy-harry-potter-unforgivable-curse-rowling-1850029565)
- - [Workers at eBay-owned trading card marketplace TCGplayer want to unionize](https://www.polygon.com/23561476/tcgplayer-union-ebay-cwa-announcement)<!-- GAME:END -->
+ - [The best Nightwing’s Butt Artist is back on the job](https://www.polygon.com/2023/1/25/23571017/nightwing-butt-titans-nicola-scott-dc-comics)
+ - [How to complete the Resisting the Storm quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-resisting-the-storm)
+ - [Dragonflight’s first patch introduces the World of Warcraft trading post](https://www.polygon.com/23569962/dragonflights-first-patch-introduces-the-world-of-warcraft-trading-post)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
