@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird laws are the best laws](http://9gag.com/gag/aKE6pNb)
- - 🚯 [That&#39;s some big crackers](http://9gag.com/gag/ap9NdXE)
- - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
+ - 🚖 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
+ - 🚯 [Grandmadonna, please STAHP.](http://9gag.com/gag/a4oExZm)
+ - 🚯 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)<!-- MEMES:END -->
 
 --- 
 
