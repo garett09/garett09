@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Adult Swim drops Justin Roiland from Rick &amp; Morty after domestic violence charges](https://www.pcgamer.com/adult-swim-drops-justin-roiland-from-rick-and-morty-after-domestic-violence-charges)
- - [Rick And Morty Ditches Roiland, Recasting Voices Following Domestic Abuse Allegations](https://kotaku.com/rick-morty-season-7-voice-justin-roiland-domestic-abuse-1850026753)
- - [Forspoken Fails To Credit Localizers, Quality Assurance Testers](https://kotaku.com/forspoken-ps5-credits-localization-quality-assurance-qa-1850026704)<!-- GAME:END -->
+ - [New Fallout TV series set photos show iconic Red Rocket gas station](https://www.pcgamer.com/new-fallout-tv-series-set-photos-show-iconic-red-rocket-gas-station)
+ - [The Masters Of Stealth Tactics Are Back With A New Pirate Game](https://kotaku.com/shadow-gambit-desperadoes-tactics-stealth-tactics-pc-1850027223)
+ - [Drake and Lil Yachty do a Steam Deck handoff between moving SUVs](https://www.pcgamer.com/drake-and-lil-yachty-do-a-steam-deck-handoff-between-moving-suvs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
