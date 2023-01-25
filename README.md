@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clark Kent got nothing on him](http://9gag.com/gag/aWGjR0A)
- - 🚯 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
- - 🚯 [120Hz is the way](http://9gag.com/gag/a7qE6zb)<!-- MEMES:END -->
+ - 🚖 [120Hz is the way](http://9gag.com/gag/a7qE6zb)
+ - 🚯 [Imagine your woman walking away when you needed her the most. Sad](http://9gag.com/gag/aYVonBm)
+ - 🚯 [Don\u2019t mess with Texas](http://9gag.com/gag/aOx3AZ2)<!-- MEMES:END -->
 
 --- 
 
