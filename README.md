@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [14 Exciting Games To Expect From Nintendo Switch In 2023](https://kotaku.com/nintendo-switch-zelda-tears-release-date-exclusives-1850031190)
- - [What Is Hi-Fi Rush, the Surprise Game Out of Developer_Direct?](https://news.xbox.com/en-us/2023/01/25/hi-fi-rush-preview-out-now-hands-on/)
- - [Evil Within studio announces rhythm action game Hi-Fi Rush, and it&#39;s out today](https://www.pcgamer.com/evil-within-studio-announces-rhythm-action-game-hi-fi-rush-and-its-out-today)<!-- GAME:END -->
+ - [How Minecraft Legends Twists Classic Minecraft Ideas Into All-New Shapes](https://news.xbox.com/en-us/2023/01/25/how-minecraft-legends-twists-classic-ideas-into-all-new-shapes/)
+ - [Everything We Saw At Today&#39;s Xbox Developer Direct](https://kotaku.com/xbox-developer-direct-forza-minecraft-legends-eso-hi-fi-1850031995)
+ - [The Elder Scrolls Online is returning to Vvardenfall in Shadow Over Morrowind](https://www.pcgamer.com/the-elder-scrolls-online-is-returning-to-vvardenfall-in-shadow-over-morrowind)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
