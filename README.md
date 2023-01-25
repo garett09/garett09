@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
- - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)
- - 🚯 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)<!-- MEMES:END -->
+ - 🚖 [Weird laws are the best laws](http://9gag.com/gag/aKE6pNb)
+ - 🚯 [That&#39;s some big crackers](http://9gag.com/gag/ap9NdXE)
+ - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
 
 --- 
 
