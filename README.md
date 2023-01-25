@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams and Outlook down due to ‘networking issue’](https://www.theverge.com/2023/1/25/23570598/microsoft-teams-outlook-down-outage-issues)
- - [Here’s how Flip to Shhh could work on the Pixel Fold](https://www.androidauthority.com/flip-to-shhh-pixel-fold-3271533/)
- - [Bowers &amp; Wilkins PI7 S2 Earbuds Review: Same Fantastic Sound, But Only Slight Improvements     - CNET](https://www.cnet.com/tech/mobile/bowers-wilkins-pi7-s2-earbuds-review-same-fantastic-sound-but-only-slight-improvements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India&#39;s education minister demos BharOS, a homegrown mobile OS claimed to ship with no preloaded apps, share no user data, and incapable of running malware &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230125/p6#a230125p6)
+ - [Microsoft is investigating a &quot;potential networking issue&quot; impacting Teams, Azure, Outlook, and more, taking them down in India, Japan, the UK, and elsewhere &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230125/p5#a230125p5)
+ - [Sources: Marc Benioff&#39;s controversial acquisitions, focus on growth over profits, celebrity relationships, and philanthropic pursuits have vexed shareholders &lpar;Financial Times&rpar;](http://www.techmeme.com/230125/p4#a230125p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
