@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix announces its LPDDR5T chip for mobile devices, with a 9.6Gbps data transfer speed, 13% faster than the previous LPDDR5X &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230125/p30#a230125p30)
- - [Redfall gets a May 2nd release date and more gameplay footage](https://www.theverge.com/2023/1/25/23500219/redfall-release-date-xbox-bethesda)
- - [Hi-Fi Rush, a new rhythm-action game from the developers of The Evil Within, is out today](https://www.theverge.com/2023/1/25/23571460/microsoft-hi-fi-rush-tango-gameworks-xbox-developer-direct)<!-- TECH:END -->
+ - [Tesla made more money in 2022 than ever before, but its future still looks rocky](https://www.theverge.com/2023/1/25/23571618/tesla-q4-2022-earnings-revenue-profit-prices-demand)
+ - [IBM plans to lay off about 1.5% of its global workforce, or around 3,900 jobs, focusing on workers who remained after spinning off Kyndryl and Watson Health &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230125/p32#a230125p32)
+ - [Best Low-Interest Personal Loans for January 2023     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
