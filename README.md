@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For real?](http://9gag.com/gag/axoM482)
- - 🚯 [Teacher forbid bring laptops in class](http://9gag.com/gag/ap9NYKB)
- - 🚯 [When your friend is a dick but supportive](http://9gag.com/gag/aKE6OeW)<!-- MEMES:END -->
+ - 🚖 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
+ - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)
+ - 🚯 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
 
 --- 
 
