@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $300 on Apple&#39;s M2 Mac mini &amp; new MacBook Pro 2023](https://appleinsider.com/articles/23/01/25/save-up-to-300-on-apples-m2-mac-mini-new-macbook-pro-2023?utm_medium=rss)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [Generative AI Won’t Revolutionize Game Development Just Yet](https://www.wired.com/story/generative-ai-video-game-development/)<!-- TECH:END -->
+ - [Tesla&#39;s Hurting From Elon Musk&#39;s Twitter Meltdowns. The Question Is: How Much?     - CNET](https://www.cnet.com/tech/teslas-hurting-from-elon-musks-twitter-meltdowns-the-question-is-how-much/#ftag=CAD590a51e)
+ - [Maxed out MacBook Air &amp; MacBook Pro - what you get for the money](https://appleinsider.com/articles/23/01/25/maxed-out-macbook-air-macbook-pro---what-you-get-for-the-money?utm_medium=rss)
+ - [Tech Titan vs. Government Goliath: What Google&#39;s New Antitrust Suit Means     - CNET](https://www.cnet.com/tech/tech-titan-vs-government-goliath-what-googles-new-antitrust-suit-means/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
