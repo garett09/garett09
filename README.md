@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [4 ways Deadpool brings his fourth-wall breaking antics to Marvel’s Midnight Suns](https://blog.playstation.com/2023/01/25/4-ways-deadpool-brings-his-fourth-wall-breaking-antics-to-marvels-midnight-suns/)
- - [5 anime to watch to fill the Chainsaw Man-sized hole in your heart](https://www.polygon.com/23554477/chainsaw-man-anime-to-watch-dorohedoro)
- - [With Roiland Out, Rick And Morty Fans Are ‘Auditioning’ For Season 7](https://kotaku.com/justin-roiland-rick-and-morty-season-7-s7-fan-audition-1850030797)<!-- GAME:END -->
+ - [Minecraft Legends Gets an April 18 Release Date at Developer_Direct](https://news.xbox.com/en-us/2023/01/25/minecraft-legends-releases-april-18/)
+ - [Warhammer 40K’s latest variant has an even higher barrier to entry](https://www.polygon.com/tabletop-games/23570836/warhammer-40k-boarding-actions-price-what-books-do-you-need)
+ - [4 ways Deadpool brings his fourth-wall breaking antics to Marvel’s Midnight Suns](https://blog.playstation.com/2023/01/25/4-ways-deadpool-brings-his-fourth-wall-breaking-antics-to-marvels-midnight-suns/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
