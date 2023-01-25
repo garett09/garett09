@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Instruments reports Q4 revenue down 3.4% YoY to $4.67B, breaking a run of double-digit growth since 2020, and issues tepid Q1 guidance below estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230125/p10#a230125p10)
- - [Airlines and Cattle Farmers Have Beef With Google’s Climate Math](https://www.wired.com/story/airlines-and-cattle-farmers-have-beef-with-googles-climate-math/)
- - [Celebrities, TikTok, and a Cat Bot Are Crashing Chess.com](https://www.wired.com/story/chess-dot-com-tiktok-mittens-scandal/)<!-- TECH:END -->
+ - [NYC-based Precision Neuroscience, co-founded by a Neuralink co-founder to create a less invasive brain implant to track diseases, raised a $41M Series B &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230125/p14#a230125p14)
+ - [Shutterstock launches a tool to let Creative Flow users create images based on text prompts, part of a partnership with OpenAI; images are &quot;ready for licensing&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230125/p13#a230125p13)
+ - [Sources: EU antitrust regulators plan an investigation into Microsoft over Teams, focusing on tying the service to Office, after a complaint by Slack in 2020 &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/230125/p12#a230125p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
