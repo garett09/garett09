@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
- - 🚯 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)
- - 🚯 [Karen against a performer](http://9gag.com/gag/armM8mX)<!-- MEMES:END -->
+ - 🚖 [Imagine your woman walking away when you needed her the most. Sad](http://9gag.com/gag/aYVonBm)
+ - 🚯 [120Hz is the way](http://9gag.com/gag/a7qE6zb)
+ - 🚯 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
 
 --- 
 
