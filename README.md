@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony LinkBuds S vs WF-1000XM4: Does a $130 price gap make a big difference?](https://www.androidauthority.com/sony-linkbuds-s-vs-wf-1000xm4-3265268/)
- - [Save 36% on the Skagen Gen 6, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [Surfing docuseries &#39;Make or Break&#39; season two debuts on February 17](https://appleinsider.com/articles/23/01/25/surfing-docuseries-make-or-break-season-two-debuts-on-february-17?utm_medium=rss)<!-- TECH:END -->
+ - [Save up to $300 on Apple&#39;s M2 Mac mini &amp; new MacBook Pro 2023](https://appleinsider.com/articles/23/01/25/save-up-to-300-on-apples-m2-mac-mini-new-macbook-pro-2023?utm_medium=rss)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [Generative AI Won’t Revolutionize Game Development Just Yet](https://www.wired.com/story/generative-ai-video-game-development/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
