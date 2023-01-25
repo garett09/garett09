@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Teams and Outlook down due to ‘networking issue’](https://www.theverge.com/2023/1/25/23570598/microsoft-teams-outlook-down-outage-issues)
  - [Here’s how Flip to Shhh could work on the Pixel Fold](https://www.androidauthority.com/flip-to-shhh-pixel-fold-3271533/)
- - [Sources: Apple is quietly enhancing maps, search, and online advertising on iOS to further separate its services from those offered on rival Android &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230125/p3#a230125p3)
- - [Whoever designed this soda-themed phone was on coke](https://www.androidauthority.com/coca-cola-phone-3271516/)<!-- TECH:END -->
+ - [Bowers &amp; Wilkins PI7 S2 Earbuds Review: Same Fantastic Sound, But Only Slight Improvements     - CNET](https://www.cnet.com/tech/mobile/bowers-wilkins-pi7-s2-earbuds-review-same-fantastic-sound-but-only-slight-improvements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
