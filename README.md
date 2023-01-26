@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know what to do](http://9gag.com/gag/a4oEmo6)
- - 🚯 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
- - 🚯 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
+ - 🚖 [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
+ - 🚯 [Really?](http://9gag.com/gag/a2K7ADY)
+ - 🚯 [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)<!-- MEMES:END -->
 
 --- 
 
