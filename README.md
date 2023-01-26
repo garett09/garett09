@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)
- - 🚯 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
- - 🚯 [When japanese tv thought Cristiano was brazilian...](http://9gag.com/gag/adP8RV2)<!-- MEMES:END -->
+ - 🚖 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
+ - 🚯 [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
+ - 🚯 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
 
 --- 
 
