@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s pushing its expanded DM options](https://www.theverge.com/2023/1/26/23571901/tiktok-dm-options-expanded-email)
- - [The Samsung Galaxy S23 might be able to survive a waist-high drop on concrete](https://www.theverge.com/2023/1/26/23554215/samsung-galaxy-s23-corning-gorilla-glass-victus-2)
- - [Substack introduces private accounts, search and chat improvements, easy template creation, toggling between publications, inline footnotes, and LaTeX support &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230126/p27#a230126p27)<!-- TECH:END -->
+ - [NYC-based Pearl Health, which helps primary care doctors using data science, raised a $75M Series B led by a16z and Viking, bringing its total funding to $100M+ &lpar;AlleyWatch&rpar;](http://www.techmeme.com/230126/p29#a230126p29)
+ - [Google adds new Chrome for Android feature to lock your Incognito tabs](https://www.androidauthority.com/chrome-android-incognito-3272389/)
+ - [What is Material You? Google’s design language explained](https://www.androidauthority.com/what-is-google-material-you-3272386/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
