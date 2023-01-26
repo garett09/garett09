@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
- - 🚯 [It was her intention!](http://9gag.com/gag/abvVE4v)
+ - 🚖 [You know what to do](http://9gag.com/gag/a4oEmo6)
+ - 🚯 [Damn](http://9gag.com/gag/amAPKp6)
  - 🚯 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)<!-- MEMES:END -->
 
 --- 
