@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online has a major security vulnerability &lpar;again&rpar;](https://www.polygon.com/23573029/gta-online-security-vulnerability-corrupted-accounts-cheaters)
- - [Alas, Logan Lerman is not playing Poseidon in the Disney Plus Percy Jackson series](https://www.polygon.com/23571468/percy-jackson-poseidon-casting-disney-plus)
- - [SteamWorld Takes on a Whole New Genre, Coming to Xbox This Year](https://news.xbox.com/en-us/2023/01/26/steamworld-takes-on-a-whole-new-genre-coming-to-xbox-this-year/)<!-- GAME:END -->
+ - [Tycoon Games on Consoles? Live your CEO Dream with Startup Company](https://news.xbox.com/en-us/2023/01/26/tycoon-games-on-consoles-live-your-ceo-dream-with-startup-company/)
+ - [Bungie&#39;s narrative team reveals why SIVA never came back in Destiny 2](https://www.pcgamer.com/bungies-narrative-team-reveals-why-siva-never-came-back-in-destiny-2)
+ - [PlayStation 5: What To Expect From Sony&#39;s Console In 2023](https://kotaku.com/playstation-5-games-2023-vr2-spider-man-2-last-of-us-1850036923)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
