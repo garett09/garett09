@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans to launch an NFT initiative in April, with more than a dozen crypto-native partners and a focus on blockchain-based gaming &lpar;Michael Bodley/Blockworks&rpar;](http://www.techmeme.com/230126/p31#a230126p31)
- - [24 hours with Apple&#39;s new 2023 MacBook Pros](https://appleinsider.com/articles/23/01/26/24-hours-with-apples-new-2023-macbook-pros?utm_medium=rss)
- - [Intel reports Q4 revenue down 32% YoY to $14B, vs. $14.46B est., Data Center and AI down 33% YoY, and Q1 2023 revenue guidance below estimates; stock drops 7%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230126/p30#a230126p30)<!-- TECH:END -->
+ - [Leak reveals new details about the Pro version of the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-pro-3272485/)
+ - [The best Samsung Galaxy deals ahead of the S23 launch](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [Robot Cars Are Causing 911 False Alarms in San Francisco](https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
