@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Samurai Yakuza Game Will Guest-Star A World-Famous Wrestler And An Internet Hottie](https://kotaku.com/yakuza-like-a-dragon-ishin-kenny-omega-rahul-kohli-gues-1850035711)
- - [From Concept Art to Cosplay: Creating iconic characters for God of War Ragnarök](https://blog.playstation.com/2023/01/26/from-concept-art-to-cosplay-creating-iconic-characters-for-god-of-war-ragnarok/)
- - [Add Deadpool to Your Midnight Suns Roster Today!](https://news.xbox.com/en-us/2023/01/26/deadpool-marvels-midnight-suns/)<!-- GAME:END -->
+ - [$2,000 Steam Game Starts With 8-Minute-Long Men’s Rights Rant](https://kotaku.com/steam-2000-dollar-pc-game-hidden-unknown-mens-rights-1850036043)
+ - [OddBallers Brings Chaotic Multiplayer Dodgeball Action to Xbox Today](https://news.xbox.com/en-us/2023/01/26/oddballers-launches-on-xbox-today/)
+ - [The Last of Us Part 3 might not happen, according to Naughty Dog’s Neil Druckmann](https://www.polygon.com/23572852/the-last-of-us-part-3-release-naughty-dog-announcement-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
