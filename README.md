@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie is finally giving players a way to earn classic shaders and armour sets](https://www.pcgamer.com/destiny-2-lightfall-legacy-focusing-shaders)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [Dead Space’s accessibility options contain an amazing tool](https://www.polygon.com/23571524/dead-space-remake-accessibility-content-warnings-hide-disturbing-imagery-settings)<!-- GAME:END -->
+ - [Even if you find Deadpool funny, you won&#39;t get much out of Marvel&#39;s Midnight Suns&#39; first DLC](https://www.pcgamer.com/even-if-you-find-deadpool-funny-you-wont-get-much-out-of-marvels-midnight-suns-first-dlc)
+ - [Magic: The Gathering and Smite Collide in New Season of Monsters](https://news.xbox.com/en-us/2023/01/26/magic-the-gathering-and-smite-collide/)
+ - [Deadpool brings more queer chaos to Marvel’s Midnight Suns](https://www.polygon.com/reviews/23571777/midnight-suns-deadpool-dlc-review-marvel-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
