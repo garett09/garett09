@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the Jungle, which helps recruitment through feature-rich profiles, a job board, and more, raised a &amp;euro;50M Series C, bringing its total funding to &amp;euro;79M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230126/p5#a230126p5)
- - [The long-awaited OnePlus Pad could debut alongside OnePlus 11](https://www.androidauthority.com/oneplus-pad-oneplus-11-3271510/)
- - [Sources: Accel Partners and Tiger Global are in talks to sell their remaining Flipkart stakes, ~1% and ~4% respectively, to parent company Walmart for ~$1.5B &lpar;The Economic Times&rpar;](http://www.techmeme.com/230126/p4#a230126p4)<!-- TECH:END -->
+ - [Miss a removable battery, microSD slot, and 3.5mm port? This phone is for you.](https://www.androidauthority.com/tcl-ion-x-3272056/)
+ - [Daily Authority: 📱 Big changes coming for Android in India](https://www.androidauthority.com/daily-authority-january-26-2023-3272034/)
+ - [Welcome to the Jungle, which helps recruitment through feature-rich profiles, a job board, and more, raised a &amp;euro;50M Series C, bringing its total funding to &amp;euro;79M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230126/p5#a230126p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
