@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
- - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
+ - 🚖 [You know what to do](http://9gag.com/gag/a4oEmo6)
+ - 🚯 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
+ - 🚯 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
 
 --- 
 
