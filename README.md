@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer today: Let&#39;s solve #586, January 26](https://www.pcgamer.com/wordle-hint-answer-today-586-january-26)
- - [Justice for Miranda finally achieved, thanks to Mass Effect mod](https://www.pcgamer.com/justice-for-miranda-finally-achieved-thanks-to-mass-effect-mod)
- - [Microsoft is shutting down its metaverse](https://www.pcgamer.com/microsoft-is-shutting-down-its-metaverse)<!-- GAME:END -->
+ - [Realism mod for Fallout 4 fixes its most unbelievable part: your ability to survive the intro](https://www.pcgamer.com/realism-mod-for-fallout-4-fixes-its-most-unbelievable-part-your-ability-to-survive-the-intro)
+ - [Here&#39;s when Dead Space releases in your time zone](https://www.pcgamer.com/dead-space-release-times)
+ - [Sierra&#39;s classic city builder returns next month with Pharaoh: A New Era](https://www.pcgamer.com/sierras-classic-city-builder-returns-next-month-with-pharaoh-a-new-era)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
