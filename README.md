@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - 🚯 [Equality](http://9gag.com/gag/a04739X)
- - 🚯 [She is amazing \u2764\ufe0f](http://9gag.com/gag/aOx35K6)<!-- MEMES:END -->
+ - 🚖 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
+ - 🚯 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
+ - 🚯 [Better hold grudges](http://9gag.com/gag/aL1pooW)<!-- MEMES:END -->
 
 --- 
 
