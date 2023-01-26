@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s the problem with living in socialist Denmark. It&#39;s regulating for the cost of living](http://9gag.com/gag/a4oEgbZ)
- - 🚯 [I posted this 6 months ago, time for another PSA reminder](http://9gag.com/gag/a4oEgoQ)
- - 🚯 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)<!-- MEMES:END -->
+ - 🚖 [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
+ - 🚯 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 --- 
 
