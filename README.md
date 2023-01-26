@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The University of Texas at Austin plans to launch a large-scale, low-cost online MSc program in AI, the first of its kind among elite computing schools &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230126/p15#a230126p15)
- - [Filing: crypto exchange Mango Markets sues alleged exploiter Avraham Eisenberg for $47M in damages, saying he returned only $67M of the roughly $114M he netted &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230126/p14#a230126p14)
- - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)<!-- TECH:END -->
+ - [ChatGPT Isn’t the Only Way to Use AI in Education](https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/)
+ - [Documents: besides FTX, US bank Silvergate has been used by 12+ crypto companies that were fined, closed, bankrupt, or under investigation, including Binance &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/230126/p16#a230126p16)
+ - [The University of Texas at Austin plans to launch a large-scale, low-cost online MSc program in AI, the first of its kind among elite computing schools &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230126/p15#a230126p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
