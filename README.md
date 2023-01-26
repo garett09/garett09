@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The floor is lava](http://9gag.com/gag/a9qEZjW)
- - 🚯 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
- - 🚯 [Countries mentioned or referred in the Bible](http://9gag.com/gag/avQ5mbd)<!-- MEMES:END -->
+ - 🚖 [A tarantula infected with Ophiocordyceps](http://9gag.com/gag/aL1pWnW)
+ - 🚯 [500.000 is what I would have guessed...](http://9gag.com/gag/abvVmZb)
+ - 🚯 [The floor is lava](http://9gag.com/gag/a9qEZjW)<!-- MEMES:END -->
 
 --- 
 
