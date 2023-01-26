@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Realism mod for Fallout 4 fixes its most unbelievable part: your ability to survive the intro](https://www.pcgamer.com/realism-mod-for-fallout-4-fixes-its-most-unbelievable-part-your-ability-to-survive-the-intro)
- - [Here&#39;s when Dead Space releases in your time zone](https://www.pcgamer.com/dead-space-release-times)
- - [Sierra&#39;s classic city builder returns next month with Pharaoh: A New Era](https://www.pcgamer.com/sierras-classic-city-builder-returns-next-month-with-pharaoh-a-new-era)<!-- GAME:END -->
+ - [US trying to head off EU approval of Microsoft-Activision merger — plus all the latest on the deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [DualSense Edge wireless controller launches globally today](https://blog.playstation.com/2023/01/26/dualsense-edge-wireless-controller-launches-globally-today/)
+ - [Improve your RTX 4090&#39;s thermals by playing in a -53°C snowdrift](https://www.pcgamer.com/improve-your-rtx-4090s-thermals-by-playing-in-a-53c-snowdrift)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
