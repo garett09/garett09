@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Racing games and an N64 classic join Xbox Game Pass for February](https://www.polygon.com/23573364/xbox-game-pass-pc-february-2023-games-release-date)
- - [Introducing Strayed Lights](https://news.xbox.com/en-us/2023/01/26/introducing-strayed-lights/)
- - [Shazam! Fury of the Gods’ trailer feels like the end of an era for DC movies](https://www.polygon.com/23573025/shazam-fury-gods-2-trailer-dceu-new-movies-black-adam)<!-- GAME:END -->
+ - [The Day Before developers now say the launch delay was planned before the Steam takedown](https://www.pcgamer.com/the-day-before-developers-now-say-the-launch-delay-was-planned-before-the-steam-takedown)
+ - [Clunky Hero, the Bizarre Anti-hero, is out Now for Xbox](https://news.xbox.com/en-us/2023/01/26/clunky-hero-the-bizarre-anti-hero-is-out-now-for-xbox/)
+ - [Does Grand Theft Auto: The Trilogy work yet?](https://www.polygon.com/23573243/grand-theft-auto-gta-trilogy-definitive-edition-work-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
