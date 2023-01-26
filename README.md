@@ -140,8 +140,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
  - [Daily Deals Jan. 26: $310 off 14-inch MacBook Pro, Apple Studio Display $1,299, 24-inch iMac $1,099 &amp; more](https://appleinsider.com/articles/23/01/26/daily-deals-jan-26-310-off-14-inch-macbook-pro-apple-studio-display-1299-24-inch-imac-1099-more?utm_medium=rss)
- - [The best use for AI eye contact tech is making movie stars look straight at the camera](https://www.theverge.com/2023/1/26/23572459/ai-eye-contact-tech-nvidia-movie-edit-clips)
  - [The Best Personal Safety Devices, Apps, and Alarms &lpar;2023&rpar;](https://www.wired.com/story/best-personal-safety-tech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
