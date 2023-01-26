@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Golf clap for Noah Schnapp hiding a scathing Stranger Things Easter egg in his yearbook quote](https://www.polygon.com/23571569/noah-schnapp-stranger-things-clip-senior-quote-yearbook)
- - [Season: A Letter to the Future is one of the best games I’ve played in years](https://www.polygon.com/reviews/23569855/season-a-letter-to-the-future-review-ps5-ps4-pc-release-date-genre)
- - [The Queen Of Elden Ring Won’t Stop Finding New Ways To Beat The Game](https://kotaku.com/elden-ring-twitch-ps5-pc-dancepad-missmikkaa-malenia-1850032182)<!-- GAME:END -->
+ - [Bungie is finally giving players a way to earn classic shaders and armour sets](https://www.pcgamer.com/destiny-2-lightfall-legacy-focusing-shaders)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
+ - [Dead Space’s accessibility options contain an amazing tool](https://www.polygon.com/23571524/dead-space-remake-accessibility-content-warnings-hide-disturbing-imagery-settings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
