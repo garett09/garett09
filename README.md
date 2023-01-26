@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tycoon Games on Consoles? Live your CEO Dream with Startup Company](https://news.xbox.com/en-us/2023/01/26/tycoon-games-on-consoles-live-your-ceo-dream-with-startup-company/)
- - [Bungie&#39;s narrative team reveals why SIVA never came back in Destiny 2](https://www.pcgamer.com/bungies-narrative-team-reveals-why-siva-never-came-back-in-destiny-2)
- - [PlayStation 5: What To Expect From Sony&#39;s Console In 2023](https://kotaku.com/playstation-5-games-2023-vr2-spider-man-2-last-of-us-1850036923)<!-- GAME:END -->
+ - [Racing games and an N64 classic join Xbox Game Pass for February](https://www.polygon.com/23573364/xbox-game-pass-pc-february-2023-games-release-date)
+ - [Introducing Strayed Lights](https://news.xbox.com/en-us/2023/01/26/introducing-strayed-lights/)
+ - [Shazam! Fury of the Gods’ trailer feels like the end of an era for DC movies](https://www.polygon.com/23573025/shazam-fury-gods-2-trailer-dceu-new-movies-black-adam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
