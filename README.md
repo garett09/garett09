@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)
- - 🚯 [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 🚯 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
+ - 🚖 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
+ - 🚯 [Equality](http://9gag.com/gag/a04739X)
+ - 🚯 [She is amazing \u2764\ufe0f](http://9gag.com/gag/aOx35K6)<!-- MEMES:END -->
 
 --- 
 
