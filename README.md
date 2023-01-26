@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audi Activesphere Is a Mighty Morphin&#39; EV Coupe That&#39;s Also a Pickup     - CNET](https://www.cnet.com/roadshow/news/audi-activesphere-is-a-mighty-morphin-ev-coupe-thats-also-a-pickup/#ftag=CAD590a51e)
- - [Audi Activesphere Is a Transforming All-Terrain EV     - CNET](https://www.cnet.com/roadshow/pictures/audi-activesphere-is-a-transforming-all-terrain-ev/#ftag=CAD590a51e)
- - [Why I&#39;m Excited About the OnePlus 11 5G     - CNET](https://www.cnet.com/tech/mobile/why-im-excited-about-the-oneplus-11-5g/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok’s pushing its expanded DM options](https://www.theverge.com/2023/1/26/23571901/tiktok-dm-options-expanded-email)
+ - [The Samsung Galaxy S23 might be able to survive a waist-high drop on concrete](https://www.theverge.com/2023/1/26/23554215/samsung-galaxy-s23-corning-gorilla-glass-victus-2)
+ - [Substack introduces private accounts, search and chat improvements, easy template creation, toggling between publications, inline footnotes, and LaTeX support &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230126/p27#a230126p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
