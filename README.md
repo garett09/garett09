@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Isn’t the Only Way to Use AI in Education](https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/)
- - [Documents: besides FTX, US bank Silvergate has been used by 12+ crypto companies that were fined, closed, bankrupt, or under investigation, including Binance &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/230126/p16#a230126p16)
- - [The University of Texas at Austin plans to launch a large-scale, low-cost online MSc program in AI, the first of its kind among elite computing schools &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230126/p15#a230126p15)<!-- TECH:END -->
+ - [Daily Deals Jan. 26: $310 off 14-inch MacBook Pro, Apple Studio Display $1,299, 24-inch iMac $1,099 &amp; more](https://appleinsider.com/articles/23/01/26/daily-deals-jan-26-310-off-14-inch-macbook-pro-apple-studio-display-1299-24-inch-imac-1099-more?utm_medium=rss)
+ - [The best use for AI eye contact tech is making movie stars look straight at the camera](https://www.theverge.com/2023/1/26/23572459/ai-eye-contact-tech-nvidia-movie-edit-clips)
+ - [The Best Personal Safety Devices, Apps, and Alarms &lpar;2023&rpar;](https://www.wired.com/story/best-personal-safety-tech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
