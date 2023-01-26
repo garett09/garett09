@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Pearl Health, which helps primary care doctors using data science, raised a $75M Series B led by a16z and Viking, bringing its total funding to $100M+ &lpar;AlleyWatch&rpar;](http://www.techmeme.com/230126/p29#a230126p29)
- - [Google adds new Chrome for Android feature to lock your Incognito tabs](https://www.androidauthority.com/chrome-android-incognito-3272389/)
- - [What is Material You? Google’s design language explained](https://www.androidauthority.com/what-is-google-material-you-3272386/)<!-- TECH:END -->
+ - [Sources: Amazon plans to launch an NFT initiative in April, with more than a dozen crypto-native partners and a focus on blockchain-based gaming &lpar;Michael Bodley/Blockworks&rpar;](http://www.techmeme.com/230126/p31#a230126p31)
+ - [24 hours with Apple&#39;s new 2023 MacBook Pros](https://appleinsider.com/articles/23/01/26/24-hours-with-apples-new-2023-macbook-pros?utm_medium=rss)
+ - [Intel reports Q4 revenue down 32% YoY to $14B, vs. $14.46B est., Data Center and AI down 33% YoY, and Q1 2023 revenue guidance below estimates; stock drops 7%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230126/p30#a230126p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
