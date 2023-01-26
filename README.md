@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is so much going on here!](http://9gag.com/gag/ay2MAAM)
- - 🚯 [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
- - 🚯 [`The only acceptable way to pronounce tequila`](http://9gag.com/gag/aoKMAA2)<!-- MEMES:END -->
+ - 🚖 [Karen against a performer](http://9gag.com/gag/armM8mX)
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)
+ - 🚯 [A tarantula infected with Ophiocordyceps](http://9gag.com/gag/aL1pWnW)<!-- MEMES:END -->
 
 --- 
 
