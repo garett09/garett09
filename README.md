@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
- - 🚯 [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
- - 🚯 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
+ - 🚖 [The floor is lava](http://9gag.com/gag/a9qEZjW)
+ - 🚯 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
+ - 🚯 [Countries mentioned or referred in the Bible](http://9gag.com/gag/avQ5mbd)<!-- MEMES:END -->
 
 --- 
 
