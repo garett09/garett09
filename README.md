@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen against a performer](http://9gag.com/gag/armM8mX)
- - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)
- - 🚯 [A tarantula infected with Ophiocordyceps](http://9gag.com/gag/aL1pWnW)<!-- MEMES:END -->
+ - 🚖 [That&#39;s the problem with living in socialist Denmark. It&#39;s regulating for the cost of living](http://9gag.com/gag/a4oEgbZ)
+ - 🚯 [I posted this 6 months ago, time for another PSA reminder](http://9gag.com/gag/a4oEgoQ)
+ - 🚯 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)<!-- MEMES:END -->
 
 --- 
 
