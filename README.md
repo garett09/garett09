@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
- - 🚯 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
- - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
+ - 🚖 [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
+ - 🚯 [Only 4?](http://9gag.com/gag/abvVm9p)
+ - 🚯 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
 
 --- 
 
