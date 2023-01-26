@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York AG Letitia James asks Madison Square Garden Entertainment for information on the alleged use of facial recognition to deny access to ticket holders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230126/p9#a230126p9)
- - [Smartphone sales are so bad even the holidays couldn’t help, says IDC](https://www.theverge.com/2023/1/26/23572369/smartphone-shipments-2022-down-idc-holiday-inflation)
- - [Worldwide smartphone shipments declined 18.3% YoY to 300.3M in Q4 2022, the largest ever drop in a quarter; Apple dropped 14.9%, Samsung 15.6%, and Xiaomi 26.3% &lpar;IDC&rpar;](http://www.techmeme.com/230126/p8#a230126p8)<!-- TECH:END -->
+ - [A look at Google&#39;s evolving legal strategy to combat the DOJ&#39;s antitrust claims; sources say Google believed an ad unit spinoff could help end multiple cases &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230126/p11#a230126p11)
+ - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
+ - [ChatGPT Is Coming for Classrooms. Don&#39;t Panic](https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
