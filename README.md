@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yandex says a former employee is responsible for the leak of a 44.7GB source code repository on a hacking forum and that the company&#39;s systems were not hacked &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230126/p26#a230126p26)
- - [Samsung will use Snapdragon for the Galaxy S23 and other flagships globally](https://www.androidauthority.com/samsung-snapdragon-chips-3272292/)
- - [Apple pauses in-house Wi-Fi chip development](https://appleinsider.com/articles/23/01/26/apple-pauses-in-house-wi-fi-chip-development?utm_medium=rss)<!-- TECH:END -->
+ - [Audi Activesphere Is a Mighty Morphin&#39; EV Coupe That&#39;s Also a Pickup     - CNET](https://www.cnet.com/roadshow/news/audi-activesphere-is-a-mighty-morphin-ev-coupe-thats-also-a-pickup/#ftag=CAD590a51e)
+ - [Audi Activesphere Is a Transforming All-Terrain EV     - CNET](https://www.cnet.com/roadshow/pictures/audi-activesphere-is-a-transforming-all-terrain-ev/#ftag=CAD590a51e)
+ - [Why I&#39;m Excited About the OnePlus 11 5G     - CNET](https://www.cnet.com/tech/mobile/why-im-excited-about-the-oneplus-11-5g/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
