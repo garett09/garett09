@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 🚯 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
+ - 🚖 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
+ - 🚯 [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
  - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 --- 
