@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
- - 🚯 [Really?](http://9gag.com/gag/a2K7ADY)
- - 🚯 [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)<!-- MEMES:END -->
+ - 🚖 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
+ - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - 🚯 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
 
 --- 
 
