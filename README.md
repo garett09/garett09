@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
- - [Daily Deals Jan. 26: $310 off 14-inch MacBook Pro, Apple Studio Display $1,299, 24-inch iMac $1,099 &amp; more](https://appleinsider.com/articles/23/01/26/daily-deals-jan-26-310-off-14-inch-macbook-pro-apple-studio-display-1299-24-inch-imac-1099-more?utm_medium=rss)
- - [The Best Personal Safety Devices, Apps, and Alarms &lpar;2023&rpar;](https://www.wired.com/story/best-personal-safety-tech/)<!-- TECH:END -->
+ - [A 116-page bankruptcy document details FTX&#39;s extensive list of creditors, including AWS, Apple, Meta, Binance, the WSJ, and the Prime Minister of the Bahamas &lpar;The Block&rpar;](http://www.techmeme.com/230126/p23#a230126p23)
+ - [Save 38% on the Amazon Halo View, and more great smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
+ - [Most Criminal Cryptocurrency Funnels Through Just 5 Exchanges](https://www.wired.com/story/cryptocurrency-money-laundering-chainalysis-report/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
