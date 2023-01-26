@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
+ - 🚖 [Dirty Sanchez](http://9gag.com/gag/az2M3eK)
  - 🚯 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
- - 🚯 [Better hold grudges](http://9gag.com/gag/aL1pooW)<!-- MEMES:END -->
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 --- 
 
