@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: SoftBank&#39;s new startup bets hit a record low in Q4 2022, with eight investment rounds totaling $2.1B; source: Vision Fund investments were below $350M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230126/p1#a230126p1)
- - [Using automation, Trellix patches nearly 62K open-source projects susceptible to a Python path traversal flaw first disclosed in 2007, affecting ~350K projects &lpar;Menghan Xiao/SC Media&rpar;](http://www.techmeme.com/230125/p40#a230125p40)
- - [New Jersey-based AtomicJar, which is building a cloud version of its co-founders&#39; open-source microservices testing tool Testcontainers, raised a $25M Series A &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230125/p39#a230125p39)<!-- TECH:END -->
+ - [CNET&#39;s EIC reflects on the outlet&#39;s AI use and lessons learned, like ensuring that bylines and disclosures are visible and plagiarism checks are done properly &lpar;Connie Guglielmo/CNET&rpar;](http://www.techmeme.com/230126/p3#a230126p3)
+ - [Angle Health, a service that helps its clients&#39; employees navigate telehealth, behavioral, and insurance benefits, raised a $58M Series A led by Portage &lpar;Anastassia Gliadkovskaya/Fierce Heal ...&rpar;](http://www.techmeme.com/230126/p2#a230126p2)
+ - [Analysis: SoftBank&#39;s new startup bets hit a record low in Q4 2022, with eight investment rounds totaling $2.1B; source: Vision Fund investments were below $350M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230126/p1#a230126p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
