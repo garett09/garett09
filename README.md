@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Google&#39;s evolving legal strategy to combat the DOJ&#39;s antitrust claims; sources say Google believed an ad unit spinoff could help end multiple cases &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230126/p11#a230126p11)
- - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
- - [ChatGPT Is Coming for Classrooms. Don&#39;t Panic](https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/)<!-- TECH:END -->
+ - [The University of Texas at Austin plans to launch a large-scale, low-cost online MSc program in AI, the first of its kind among elite computing schools &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230126/p15#a230126p15)
+ - [Filing: crypto exchange Mango Markets sues alleged exploiter Avraham Eisenberg for $47M in damages, saying he returned only $67M of the roughly $114M he netted &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230126/p14#a230126p14)
+ - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
