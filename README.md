@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - 🚯 [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
+ - 🚖 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - 🚯 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 --- 
 
