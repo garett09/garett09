@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A tarantula infected with Ophiocordyceps](http://9gag.com/gag/aL1pWnW)
- - 🚯 [500.000 is what I would have guessed...](http://9gag.com/gag/abvVmZb)
- - 🚯 [The floor is lava](http://9gag.com/gag/a9qEZjW)<!-- MEMES:END -->
+ - 🚖 [There is so much going on here!](http://9gag.com/gag/ay2MAAM)
+ - 🚯 [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
+ - 🚯 [`The only acceptable way to pronounce tequila`](http://9gag.com/gag/aoKMAA2)<!-- MEMES:END -->
 
 --- 
 
