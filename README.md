@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [$2,000 Steam Game Starts With 8-Minute-Long Men’s Rights Rant](https://kotaku.com/steam-2000-dollar-pc-game-hidden-unknown-mens-rights-1850036043)
- - [OddBallers Brings Chaotic Multiplayer Dodgeball Action to Xbox Today](https://news.xbox.com/en-us/2023/01/26/oddballers-launches-on-xbox-today/)
- - [The Last of Us Part 3 might not happen, according to Naughty Dog’s Neil Druckmann](https://www.polygon.com/23572852/the-last-of-us-part-3-release-naughty-dog-announcement-story)<!-- GAME:END -->
+ - [GTA Online has a major security vulnerability &lpar;again&rpar;](https://www.polygon.com/23573029/gta-online-security-vulnerability-corrupted-accounts-cheaters)
+ - [Alas, Logan Lerman is not playing Poseidon in the Disney Plus Percy Jackson series](https://www.polygon.com/23571468/percy-jackson-poseidon-casting-disney-plus)
+ - [SteamWorld Takes on a Whole New Genre, Coming to Xbox This Year](https://news.xbox.com/en-us/2023/01/26/steamworld-takes-on-a-whole-new-genre-coming-to-xbox-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
