@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even if you find Deadpool funny, you won&#39;t get much out of Marvel&#39;s Midnight Suns&#39; first DLC](https://www.pcgamer.com/even-if-you-find-deadpool-funny-you-wont-get-much-out-of-marvels-midnight-suns-first-dlc)
- - [Magic: The Gathering and Smite Collide in New Season of Monsters](https://news.xbox.com/en-us/2023/01/26/magic-the-gathering-and-smite-collide/)
- - [Deadpool brings more queer chaos to Marvel’s Midnight Suns](https://www.polygon.com/reviews/23571777/midnight-suns-deadpool-dlc-review-marvel-release-date)<!-- GAME:END -->
+ - [The Samurai Yakuza Game Will Guest-Star A World-Famous Wrestler And An Internet Hottie](https://kotaku.com/yakuza-like-a-dragon-ishin-kenny-omega-rahul-kohli-gues-1850035711)
+ - [From Concept Art to Cosplay: Creating iconic characters for God of War Ragnarök](https://blog.playstation.com/2023/01/26/from-concept-art-to-cosplay-creating-iconic-characters-for-god-of-war-ragnarok/)
+ - [Add Deadpool to Your Midnight Suns Roster Today!](https://news.xbox.com/en-us/2023/01/26/deadpool-marvels-midnight-suns/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
