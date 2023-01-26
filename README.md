@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dirty Sanchez](http://9gag.com/gag/az2M3eK)
- - 🚯 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
- - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
+ - 🚖 [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 🚯 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
+ - 🚯 [Justin Roiland after adult swim fired him from Rick and Morty:](http://9gag.com/gag/a8qEQyp)<!-- MEMES:END -->
 
 --- 
 
