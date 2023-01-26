@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A 116-page bankruptcy document details FTX&#39;s extensive list of creditors, including AWS, Apple, Meta, Binance, the WSJ, and the Prime Minister of the Bahamas &lpar;The Block&rpar;](http://www.techmeme.com/230126/p23#a230126p23)
- - [Save 38% on the Amazon Halo View, and more great smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [Most Criminal Cryptocurrency Funnels Through Just 5 Exchanges](https://www.wired.com/story/cryptocurrency-money-laundering-chainalysis-report/)<!-- TECH:END -->
+ - [Yandex says a former employee is responsible for the leak of a 44.7GB source code repository on a hacking forum and that the company&#39;s systems were not hacked &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230126/p26#a230126p26)
+ - [Samsung will use Snapdragon for the Galaxy S23 and other flagships globally](https://www.androidauthority.com/samsung-snapdragon-chips-3272292/)
+ - [Apple pauses in-house Wi-Fi chip development](https://appleinsider.com/articles/23/01/26/apple-pauses-in-house-wi-fi-chip-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
