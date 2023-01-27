@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Reparations Won’t Work](https://www.wired.com/story/tonga-climate-reparations-environment/)
- - [M&amp;M’s Are the Best Trolls on the Internet](https://www.wired.com/story/m-and-m-s-tucker-carlson-trolling-controversy/)
- - [Samsung Galaxy A14 5G Review: A Phenomenal $200 Phone](https://www.wired.com/review/samsung-galaxy-a14-5g/)<!-- TECH:END -->
+ - [Daily Deals Jan. 27: $200 off 2023 MacBook Pro, Apple Watch Series 6 from $190-$200, up to 36% off Sony TVs &amp; more](https://appleinsider.com/articles/23/01/27/daily-deals-jan-27-200-off-2023-macbook-pro-apple-watch-series-6-from-190-200-up-to-36-off-sony-tvs-more?utm_medium=rss)
+ - [Documents and sources: Meta sees a path to recovery with AI-enhanced ad systems that are less dependent on user data, rising Reels viewership, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230127/p7#a230127p7)
+ - [The 25 Best Amazon Prime Shows Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
