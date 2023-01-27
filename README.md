@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new GPUs are pretty poor value according to...AMD](https://www.pcgamer.com/amds-new-gpus-are-pretty-poor-value-according-toamd)
- - [How to fix the Comms Array in Dead Space](https://www.pcgamer.com/dead-space-comms-array-puzzle-solution)
- - [Wordle hint and answer today: Let&#39;s solve #587, January 27](https://www.pcgamer.com/wordle-hint-answer-today-587-january-27)<!-- GAME:END -->
+ - [GoldenEye controls better on Xbox than on Switch](https://www.polygon.com/23573980/goldeneye-controls-switch-xbox)
+ - [Vampire survival game passes three million sold, is adding castles with multiple floors](https://www.pcgamer.com/vampire-survival-game-passes-three-million-sold-is-adding-castles-with-multiple-floors)
+ - [Russia says popular games have &#39;hidden inserts&#39; targeting its youth, and it wants to whip up a ban list](https://www.pcgamer.com/russia-says-popular-games-have-hidden-inserts-targeting-its-youth-and-it-wants-to-whip-up-a-ban-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
