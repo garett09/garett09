@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for January 30 to February 3](https://news.xbox.com/en-us/2023/01/27/next-week-on-xbox-new-games-for-january-30-to-february-3/)
- - [Last year&#39;s most ridiculous FMV game is getting a VR version](https://www.pcgamer.com/last-years-most-ridiculous-fmv-game-is-getting-a-vr-version)
- - [Intel maintains next-gen Meteor Lake CPUs still &#39;on track&#39; for this year despite $700M losses](https://www.pcgamer.com/intel-maintains-next-gen-meteor-lake-cpus-still-on-track-for-this-year-despite-dollar700m-losses)<!-- GAME:END -->
+ - [The Kaguya-sama: Love is War movie trailer reveals what happened after THAT kiss](https://www.polygon.com/23574216/kaguya-sama-love-is-war-movie-trailer-release-date)
+ - [Cat Person may go viral again as a movie, but for all the wrong reasons](https://www.polygon.com/23571353/cat-person-movie-review)
+ - [AMD Ryzen 7 7700](https://www.pcgamer.com/amd-ryzen-7-7700-cpu-review-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
