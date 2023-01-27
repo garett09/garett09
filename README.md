@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
- - 🚯 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
- - 🚯 [Wtf. Italy this time... They&#39;re attacking all over Europe](http://9gag.com/gag/aVb7pXd)<!-- MEMES:END -->
+ - 🚖 [Metro](http://9gag.com/gag/a8qEZeY)
+ - 🚯 [Theyre literally getting packed up by russia and they STILL worried about us.](http://9gag.com/gag/a9qExBm)
+ - 🚯 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
 
 --- 
 
