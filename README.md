@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Webcams &lpar;2023&rpar;: Razer, Logitech, and More](https://www.wired.com/gallery/best-webcams/)
- - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
- - [Twitter co-founder Biz Stone says Elon Musk &quot;doesn&#39;t seem like&quot; the right owner for Twitter and claims morale and content improvements have been lost under Musk &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230127/p5#a230127p5)<!-- TECH:END -->
+ - [Climate Reparations Won’t Work](https://www.wired.com/story/tonga-climate-reparations-environment/)
+ - [M&amp;M’s Are the Best Trolls on the Internet](https://www.wired.com/story/m-and-m-s-tucker-carlson-trolling-controversy/)
+ - [Samsung Galaxy A14 5G Review: A Phenomenal $200 Phone](https://www.wired.com/review/samsung-galaxy-a14-5g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
