@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak once again points to higher Galaxy S23 pricing for Europe](https://www.androidauthority.com/samsung-galaxy-s23-pricing-germany-3272661/)
- - [CASETiFY launches two protective cases and a sleeve for MacBook Pro](https://appleinsider.com/articles/23/01/27/casetify-launches-two-protective-cases-and-a-sleeve-for-macbook-pro?utm_medium=rss)
- - [A look at crypto money laundering in 2022: illicit addresses sent nearly $23.8B, up 68% YoY, four addresses got $1B+ combined, DeFi got record funds, and more &lpar;Chainalysis&rpar;](http://www.techmeme.com/230127/p1#a230127p1)<!-- TECH:END -->
+ - [After losing billions on mobile bets, Japanese e-commerce giant Rakuten raised ~$1.9B for its mobile business and plans to sell its banking and securities units &lpar;Finbarr Flynn/Bloomberg&rpar;](http://www.techmeme.com/230127/p4#a230127p4)
+ - [Nothing Phone 2: Everything we know so far](https://www.androidauthority.com/nothing-phone-2-release-date-rumors-specs-price-leaks-3271344/)
+ - [Crispr Wants to Feed the World](https://www.wired.com/story/crispr-gene-editing-climate/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
