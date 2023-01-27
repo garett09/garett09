@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After losing billions on mobile bets, Japanese e-commerce giant Rakuten raised ~$1.9B for its mobile business and plans to sell its banking and securities units &lpar;Finbarr Flynn/Bloomberg&rpar;](http://www.techmeme.com/230127/p4#a230127p4)
- - [Nothing Phone 2: Everything we know so far](https://www.androidauthority.com/nothing-phone-2-release-date-rumors-specs-price-leaks-3271344/)
- - [Crispr Wants to Feed the World](https://www.wired.com/story/crispr-gene-editing-climate/)<!-- TECH:END -->
+ - [4 Best Webcams &lpar;2023&rpar;: Razer, Logitech, and More](https://www.wired.com/gallery/best-webcams/)
+ - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
+ - [Twitter co-founder Biz Stone says Elon Musk &quot;doesn&#39;t seem like&quot; the right owner for Twitter and claims morale and content improvements have been lost under Musk &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230127/p5#a230127p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
