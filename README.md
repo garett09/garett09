@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When frequency matches](http://9gag.com/gag/a2K73Md)
- - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - 🚯 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)<!-- MEMES:END -->
+ - 🚖 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - 🚯 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
+ - 🚯 [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)<!-- MEMES:END -->
 
 --- 
 
