@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak reveals new details about the Pro version of the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-pro-3272485/)
- - [The best Samsung Galaxy deals ahead of the S23 launch](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Robot Cars Are Causing 911 False Alarms in San Francisco](https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/)<!-- TECH:END -->
+ - [24 hours with Apple&#39;s new 2023 MacBook Pros](https://appleinsider.com/articles/23/01/26/24-hours-with-apples-new-2023-macbook-pros?utm_medium=rss)
+ - [Why More People Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
+ - [Best Smoke Detector for 2023     - CNET](https://www.cnet.com/news/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
