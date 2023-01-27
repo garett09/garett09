@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Whoever designed this soda-themed phone was on coke &lpar;Update: Realme&rpar;](https://www.androidauthority.com/coca-cola-phone-3271516/)
- - [GoldenEye 007 Hits Nintendo Switch, Xbox     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-xbox/#ftag=CAD590a51e)
- - [Munich-based smart thermostat startup tado raised &amp;euro;43M led by Trill Impact Ventures, after its plans to go public via a SPAC merger fell apart in September 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230126/p36#a230126p36)<!-- TECH:END -->
+ - [Best At-Home Cooking Kits and Classes to Gift This Year     - CNET](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)
+ - [13 Gifts Any High School Graduate Will Truly Appreciate     - CNET](https://www.cnet.com/news/high-school-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
