@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This dreamlike indie RPG is a dense, perfectly refined bite of Elder Scrolls](https://www.pcgamer.com/this-dreamlike-indie-rpg-is-a-dense-perfectly-refined-bite-of-elder-scrolls)
- - [Bungie Explains Destiny 2&#39;s Recent 20-Hour Outage](https://kotaku.com/bungie-destiny-2-outage-servers-offline-why-jan-24-1850038131)
- - [New Far Cry Multiplayer And Far Cry 7 Both In Works At Ubisoft](https://kotaku.com/far-cry-7-multiplayer-ubisoft-star-wars-snowdrop-1850038103)<!-- GAME:END -->
+ - [Bond is Back! GoldenEye 007 Arrives on Xbox Game Pass](https://news.xbox.com/en-us/2023/01/26/goldeneye-007-xbox-game-pass-out-now/)
+ - [I&#39;m instantly hooked on this colony sim where you build a town on the ocean](https://www.pcgamer.com/im-instantly-hooked-on-this-colony-sim-where-you-build-a-town-on-the-ocean)
+ - [This dreamlike indie RPG is a dense, perfectly refined bite of Elder Scrolls](https://www.pcgamer.com/this-dreamlike-indie-rpg-is-a-dense-perfectly-refined-bite-of-elder-scrolls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
