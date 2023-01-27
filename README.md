@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing skills!](http://9gag.com/gag/aXno1vb)
- - 🚯 [Stage 3 breast, stage 1 breast, and stage 3 small cell lung. The woman is The Terminator](http://9gag.com/gag/aBd2eKA)
- - 🚯 [This is both scary and amazing at the same time.](http://9gag.com/gag/aeQAB7v)<!-- MEMES:END -->
+ - 🚖 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)
+ - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
 
 --- 
 
