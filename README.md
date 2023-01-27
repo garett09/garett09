@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
- - 🚯 [When the L community got ejected from a Pride event because the T community felt uncomfortable...](http://9gag.com/gag/awZMW4D)
+ - 🚖 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
+ - 🚯 [15-year old Fahim, from Bangladesh, was playing hide and seek with his friends. He chose a shipping container as a hiding spot, then fell asleep. The boy was found 6 days later in a Malaysian port.](http://9gag.com/gag/amAPZO6)
  - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
 
 --- 
