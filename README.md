@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now I know where this sound came from](http://9gag.com/gag/aMEK5GA)
- - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)
- - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
+ - 🚖 [Wtf. Italy this time... They&#39;re attacking all over Europe](http://9gag.com/gag/aVb7pXd)
+ - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)
+ - 🚯 [Theyre literally getting packed up by russia and they STILL worried about us.](http://9gag.com/gag/a9qExBm)<!-- MEMES:END -->
 
 --- 
 
