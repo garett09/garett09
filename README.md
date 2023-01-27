@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two women saved in Canada thanks to Apple&#39;s Emergency SOS via Satellite](https://appleinsider.com/articles/23/01/27/two-women-saved-in-canada-thanks-to-apples-emergency-sos-via-satellite?utm_medium=rss)
- - [Mac mini with M2 review: More power for less money](https://appleinsider.com/articles/23/01/27/mac-mini-with-m2-review-more-power-for-less-money?utm_medium=rss)
- - [The 20 best TV shows on Freevee to binge watch](https://www.androidauthority.com/best-tv-shows-on-freevee-3270204/)<!-- TECH:END -->
+ - [Amazon Kindle Scribe review: Not very remarkable, still note-worthy](https://www.androidauthority.com/amazon-kindle-scribe-review-3271218/)
+ - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
+ - [Get Apple&#39;s M1 Pro MacBook Pro 14&quot; with 32GB memory for $2,099 today only](https://appleinsider.com/articles/23/01/27/get-apples-m1-pro-macbook-pro-14-with-32gb-memory-for-2099-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
