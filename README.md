@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
- - 🚯 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 🚯 [Companies care about profit more than anything else.](http://9gag.com/gag/ay2MrZX)<!-- MEMES:END -->
+ - 🚯 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)
+ - 🚯 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)<!-- MEMES:END -->
 
 --- 
 
