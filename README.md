@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That procgen road trip game is getting a genre-shifting prequel](https://www.pcgamer.com/that-procgen-road-trip-game-is-getting-a-genre-shifting-prequel)
- - [Dead Space’s secret ‘alternative ending’ is a better setup for Dead Space 2](https://www.polygon.com/23574108/dead-space-remake-secret-ending-alternate-sequel)
- - [AMD Ryzen 9 7900](https://www.pcgamer.com/amd-ryzen-7-7900-cpu-review-benchmarks)<!-- GAME:END -->
+ - [You People tries to solve racism with cringe](https://www.polygon.com/reviews/23572985/you-people-review-netflix)
+ - [Share of the Week: Lightsabers](https://blog.playstation.com/2023/01/27/share-of-the-week-lightsabers/)
+ - [From Galactic Conquest to Racing Rivalries to Spongetastic Antics, the THQ Nordic and Handy Games Publisher Sale Has Something for Everyone](https://news.xbox.com/en-us/2023/01/27/from-galactic-conquest-to-racing-rivalries-to-spongetastic-antics-the-thq-nordic-and-handy-games-publisher-sale-has-something-for-everyone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
