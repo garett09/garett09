@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You People tries to solve racism with cringe](https://www.polygon.com/reviews/23572985/you-people-review-netflix)
- - [Share of the Week: Lightsabers](https://blog.playstation.com/2023/01/27/share-of-the-week-lightsabers/)
- - [From Galactic Conquest to Racing Rivalries to Spongetastic Antics, the THQ Nordic and Handy Games Publisher Sale Has Something for Everyone](https://news.xbox.com/en-us/2023/01/27/from-galactic-conquest-to-racing-rivalries-to-spongetastic-antics-the-thq-nordic-and-handy-games-publisher-sale-has-something-for-everyone/)<!-- GAME:END -->
+ - [How to find the Peng treasure in Dead Space](https://www.polygon.com/guides/23574398/dead-space-remake-peng-treasure-location-chapter)
+ - [Hi-Fi Rush: How the Films of Edgar Wright Inspired Tango Gameworks’ New Game](https://news.xbox.com/en-us/2023/01/27/hi-fi-rush-edgar-wright-inspiration/)
+ - [A Ness main may win the Super Bowl](https://www.polygon.com/23574520/bengals-joe-burrow-smash-bros)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
