@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
- - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)
- - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
+ - 🚖 [When frequency matches](http://9gag.com/gag/a2K73Md)
+ - 🚯 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - 🚯 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)<!-- MEMES:END -->
 
 --- 
 
