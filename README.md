@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
- - [&#39;Menswear Guy&#39; Marks a Shift in Twitter&#39;s Main Characters](https://www.wired.com/story/menswear-guy-twitter-main-character-shift/)
- - [Intel just took the worst beating in earnings in over a decade](https://appleinsider.com/articles/23/01/27/intel-just-took-the-worst-beating-in-earnings-in-over-a-decade?utm_medium=rss)<!-- TECH:END -->
+ - [Two women saved in Canada thanks to Apple&#39;s Emergency SOS via Satellite](https://appleinsider.com/articles/23/01/27/two-women-saved-in-canada-thanks-to-apples-emergency-sos-via-satellite?utm_medium=rss)
+ - [Mac mini with M2 review: More power for less money](https://appleinsider.com/articles/23/01/27/mac-mini-with-m2-review-more-power-for-less-money?utm_medium=rss)
+ - [The 20 best TV shows on Freevee to binge watch](https://www.androidauthority.com/best-tv-shows-on-freevee-3270204/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
