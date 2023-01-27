@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An inspiring story...](http://9gag.com/gag/amAPexX)
- - 🚯 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
- - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
+ - 🚖 [Now I know where this sound came from](http://9gag.com/gag/aMEK5GA)
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)
+ - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
 
 --- 
 
