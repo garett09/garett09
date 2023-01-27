@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GoldenEye controls better on Xbox than on Switch](https://www.polygon.com/23573980/goldeneye-controls-switch-xbox)
- - [Vampire survival game passes three million sold, is adding castles with multiple floors](https://www.pcgamer.com/vampire-survival-game-passes-three-million-sold-is-adding-castles-with-multiple-floors)
- - [Russia says popular games have &#39;hidden inserts&#39; targeting its youth, and it wants to whip up a ban list](https://www.pcgamer.com/russia-says-popular-games-have-hidden-inserts-targeting-its-youth-and-it-wants-to-whip-up-a-ban-list)<!-- GAME:END -->
+ - [How to unlock Deadpool in Marvel&#39;s Midnight Suns](https://www.pcgamer.com/marvels-midnight-suns-how-to-unlock-deadpool)
+ - [Like A Dragon: Ishin brings that Yakuza flair regardless of the era](https://www.pcgamer.com/like-a-dragon-ishin-brings-that-yakuza-flair-regardless-of-the-era)
+ - [Like A Dragon: Ishin! is the Yakuza games’ Red Dead — and a great place to start](https://www.polygon.com/23574077/like-a-dragon-ishin-preview-yakuza-sega)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
