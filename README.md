@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Metro](http://9gag.com/gag/a8qEZeY)
- - 🚯 [Theyre literally getting packed up by russia and they STILL worried about us.](http://9gag.com/gag/a9qExBm)
- - 🚯 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
+ - 🚖 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - 🚯 [Hmmmm.](http://9gag.com/gag/az2Mw0b)
+ - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
 
 --- 
 
