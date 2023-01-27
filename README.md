@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam launches a new &#39;Discovery Hub&#39; dedicated to DLC](https://www.pcgamer.com/steam-launches-a-new-discovery-hub-dedicated-to-dlc)
- - [This Week on Xbox: Dead Space, Developer Direct, Updates, and More](https://news.xbox.com/en-us/2023/01/27/this-week-on-xbox-dead-space-developer-direct-updates-and-more/)
- - [Cowboy Bebop creator made it through one scene of the Netflix version](https://www.polygon.com/2023/1/27/23574886/cowboy-bebop-creator-made-it-through-one-scene-of-the-netflix-version)<!-- GAME:END -->
+ - [M&amp;M’s ‘spokescandies’ controversy, explained](https://www.polygon.com/23567793/m-and-m-spokescandies-controversy-explained-shoe-change-green-tucker-carlson)
+ - [Assassin’s Creed Comic May Have Hidden Message From Frustrated Artist](https://kotaku.com/assassins-creed-comic-converts-hidden-message-isu-1850042556)
+ - [Is Starfield delayed or not?](https://www.polygon.com/23571596/starfield-release-date-delayed-xbox-developer-direct)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
