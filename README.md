@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Deadpool in Marvel&#39;s Midnight Suns](https://www.pcgamer.com/marvels-midnight-suns-how-to-unlock-deadpool)
- - [Like A Dragon: Ishin brings that Yakuza flair regardless of the era](https://www.pcgamer.com/like-a-dragon-ishin-brings-that-yakuza-flair-regardless-of-the-era)
- - [Like A Dragon: Ishin! is the Yakuza games’ Red Dead — and a great place to start](https://www.polygon.com/23574077/like-a-dragon-ishin-preview-yakuza-sega)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for January 30 to February 3](https://news.xbox.com/en-us/2023/01/27/next-week-on-xbox-new-games-for-january-30-to-february-3/)
+ - [Last year&#39;s most ridiculous FMV game is getting a VR version](https://www.pcgamer.com/last-years-most-ridiculous-fmv-game-is-getting-a-vr-version)
+ - [Intel maintains next-gen Meteor Lake CPUs still &#39;on track&#39; for this year despite $700M losses](https://www.pcgamer.com/intel-maintains-next-gen-meteor-lake-cpus-still-on-track-for-this-year-despite-dollar700m-losses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
