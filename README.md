@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find the Peng treasure in Dead Space](https://www.polygon.com/guides/23574398/dead-space-remake-peng-treasure-location-chapter)
- - [Hi-Fi Rush: How the Films of Edgar Wright Inspired Tango Gameworks’ New Game](https://news.xbox.com/en-us/2023/01/27/hi-fi-rush-edgar-wright-inspiration/)
- - [A Ness main may win the Super Bowl](https://www.polygon.com/23574520/bengals-joe-burrow-smash-bros)<!-- GAME:END -->
+ - [Behind the Cartoon Sci-fi Artwork of Roguelike Shoulders of Giants – Out Now](https://news.xbox.com/en-us/2023/01/27/behind-the-cartoon-sci-fi-artwork-of-roguelike-shoulders-of-giants-out-now/)
+ - [Sherlock Holmes: The Awakened invites you to cross-examine the creepiest evil doll I&#39;ve ever seen](https://www.pcgamer.com/sherlock-holmes-the-awakened-invites-you-to-cross-examine-the-creepiest-evil-doll-ive-ever-seen)
+ - [GoldenEye 007 ‘Facility’ mission walkthrough](https://www.polygon.com/guides/23572826/facility-door-decoder-006-dr-doak-double-agent-remote-mine-keycard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
