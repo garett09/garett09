@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 🚯 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
- - 🚯 [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)<!-- MEMES:END -->
+ - 🚖 [An inspiring story...](http://9gag.com/gag/amAPexX)
+ - 🚯 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
+ - 🚯 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 --- 
 
