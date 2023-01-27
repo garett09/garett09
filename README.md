@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 🚯 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
- - 🚯 [Karma got this little monster](http://9gag.com/gag/aKE6MzN)<!-- MEMES:END -->
+ - 🚯 [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 🚯 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
 
 --- 
 
