@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Day Before developers now say the launch delay was planned before the Steam takedown](https://www.pcgamer.com/the-day-before-developers-now-say-the-launch-delay-was-planned-before-the-steam-takedown)
- - [Clunky Hero, the Bizarre Anti-hero, is out Now for Xbox](https://news.xbox.com/en-us/2023/01/26/clunky-hero-the-bizarre-anti-hero-is-out-now-for-xbox/)
- - [Does Grand Theft Auto: The Trilogy work yet?](https://www.polygon.com/23573243/grand-theft-auto-gta-trilogy-definitive-edition-work-yet)<!-- GAME:END -->
+ - [This dreamlike indie RPG is a dense, perfectly refined bite of Elder Scrolls](https://www.pcgamer.com/this-dreamlike-indie-rpg-is-a-dense-perfectly-refined-bite-of-elder-scrolls)
+ - [Bungie Explains Destiny 2&#39;s Recent 20-Hour Outage](https://kotaku.com/bungie-destiny-2-outage-servers-offline-why-jan-24-1850038131)
+ - [New Far Cry Multiplayer And Far Cry 7 Both In Works At Ubisoft](https://kotaku.com/far-cry-7-multiplayer-ubisoft-star-wars-snowdrop-1850038103)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
