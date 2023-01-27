@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 🚯 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 🚯 [15-year old Fahim, from Bangladesh, was playing hide and seek with his friends. He chose a shipping container as a hiding spot, then fell asleep. The boy was found 6 days later in a Malaysian port.](http://9gag.com/gag/amAPZO6)<!-- MEMES:END -->
+ - 🚖 [Amazing skills!](http://9gag.com/gag/aXno1vb)
+ - 🚯 [Stage 3 breast, stage 1 breast, and stage 3 small cell lung. The woman is The Terminator](http://9gag.com/gag/aBd2eKA)
+ - 🚯 [This is both scary and amazing at the same time.](http://9gag.com/gag/aeQAB7v)<!-- MEMES:END -->
 
 --- 
 
