@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Any Apple AR headset user may be able to create and sell content](https://appleinsider.com/articles/23/01/27/any-apple-ar-headset-user-may-be-able-to-create-and-sell-content?utm_medium=rss)
- - [World Surf League declares Apple Watch as official sports equipment](https://appleinsider.com/articles/23/01/27/world-surf-league-declares-apple-watch-as-official-sports-equipment?utm_medium=rss)
- - [Satechi&#39;s new Pro Hub Slim adds seven ports to MacBooks](https://appleinsider.com/articles/23/01/27/satechis-new-pro-hub-slim-adds-seven-ports-to-macbooks?utm_medium=rss)<!-- TECH:END -->
+ - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
+ - [&#39;Menswear Guy&#39; Marks a Shift in Twitter&#39;s Main Characters](https://www.wired.com/story/menswear-guy-twitter-main-character-shift/)
+ - [Intel just took the worst beating in earnings in over a decade](https://appleinsider.com/articles/23/01/27/intel-just-took-the-worst-beating-in-earnings-in-over-a-decade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
