@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoever designed this soda-themed phone was on coke &lpar;Update: Realme&rpar;](https://www.androidauthority.com/coca-cola-phone-3271516/)
- - [Best At-Home Cooking Kits and Classes to Gift This Year     - CNET](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)
- - [13 Gifts Any High School Graduate Will Truly Appreciate     - CNET](https://www.cnet.com/news/high-school-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Friday’s top tech news: a remake and a remaster](https://www.theverge.com/2023/1/27/23573946/january-27-2023-tech-news-liveblog)
+ - [Apple vs Samsung: The ultimate head-to-head](https://www.androidauthority.com/iphone-vs-samsung-3266172/)
+ - [You told us: Most of you think the Pixel needs more camera accessories](https://www.androidauthority.com/google-pixel-camera-accessories-poll-results-3272630/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
