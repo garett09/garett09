@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Jan. 27: $200 off 2023 MacBook Pro, Apple Watch Series 6 from $190-$200, up to 36% off Sony TVs &amp; more](https://appleinsider.com/articles/23/01/27/daily-deals-jan-27-200-off-2023-macbook-pro-apple-watch-series-6-from-190-200-up-to-36-off-sony-tvs-more?utm_medium=rss)
- - [Documents and sources: Meta sees a path to recovery with AI-enhanced ad systems that are less dependent on user data, rising Reels viewership, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230127/p7#a230127p7)
- - [The 25 Best Amazon Prime Shows Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [Any Apple AR headset user may be able to create and sell content](https://appleinsider.com/articles/23/01/27/any-apple-ar-headset-user-may-be-able-to-create-and-sell-content?utm_medium=rss)
+ - [World Surf League declares Apple Watch as official sports equipment](https://appleinsider.com/articles/23/01/27/world-surf-league-declares-apple-watch-as-official-sports-equipment?utm_medium=rss)
+ - [Satechi&#39;s new Pro Hub Slim adds seven ports to MacBooks](https://appleinsider.com/articles/23/01/27/satechis-new-pro-hub-slim-adds-seven-ports-to-macbooks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
