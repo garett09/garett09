@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 🚯 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
- - 🚯 [Justin Roiland after adult swim fired him from Rick and Morty:](http://9gag.com/gag/a8qEQyp)<!-- MEMES:END -->
+ - 🚖 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
+ - 🚯 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)
+ - 🚯 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)<!-- MEMES:END -->
 
 --- 
 
