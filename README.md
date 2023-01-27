@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Kaguya-sama: Love is War movie trailer reveals what happened after THAT kiss](https://www.polygon.com/23574216/kaguya-sama-love-is-war-movie-trailer-release-date)
- - [Cat Person may go viral again as a movie, but for all the wrong reasons](https://www.polygon.com/23571353/cat-person-movie-review)
- - [AMD Ryzen 7 7700](https://www.pcgamer.com/amd-ryzen-7-7700-cpu-review-benchmarks)<!-- GAME:END -->
+ - [That procgen road trip game is getting a genre-shifting prequel](https://www.pcgamer.com/that-procgen-road-trip-game-is-getting-a-genre-shifting-prequel)
+ - [Dead Space’s secret ‘alternative ending’ is a better setup for Dead Space 2](https://www.polygon.com/23574108/dead-space-remake-secret-ending-alternate-sequel)
+ - [AMD Ryzen 9 7900](https://www.pcgamer.com/amd-ryzen-7-7900-cpu-review-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
