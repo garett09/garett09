@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 Max MacBook Pro 16&quot; is on sale for $3,199 &lpar;$300 off&rpar; &amp; in stock](https://appleinsider.com/articles/23/01/28/apples-m2-max-macbook-pro-16-is-on-sale-for-3199-300-off-in-stock?utm_medium=rss)
- - [As the GOP assumes leadership of the US House, antitrust subcommittee&#39;s bipartisan efforts to curb the power of big tech shift to a focus on free-speech issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/230128/p8#a230128p8)
- - [Put These 7 Home Security Myths to Rest Once and for All     - CNET](https://www.cnet.com/news/put-these-7-home-security-myths-to-rest-once-and-for-all/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Studio Display doesn&#39;t shine in the light of competition](https://appleinsider.com/articles/23/01/28/apples-studio-display-doesnt-shine-in-the-light-of-competition?utm_medium=rss)
+ - [Are ad-supported streaming services worth it?](https://www.androidauthority.com/ad-supported-streaming-services-3265549/)
+ - [Manchester United vs. Reading Livestream: How to Watch FA Cup Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/manchester-united-vs-reading-livestream-how-to-watch-fa-cup-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
