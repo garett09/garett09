@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ella seems cool](http://9gag.com/gag/aBd2Doz)
- - 🚯 [The dentist can tell](http://9gag.com/gag/amAPD2d)
- - 🚯 [This special public transport system for blind people in the UK](http://9gag.com/gag/aDYdBLx)<!-- MEMES:END -->
+ - 🚖 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)
+ - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
+ - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
 
 --- 
 
