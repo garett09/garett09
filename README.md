@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its annual report, Intel says the European Commission is revisiting its antitrust case against the firm even after the General Court overturned a &amp;euro;1.06B fine &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230127/p19#a230127p19)
- - [Filing: the DOJ accuses Sam Bankman-Fried of messaging online FTX US&#39; general counsel, a potential witness, and asks a judge to ban his private communications &lpar;New York Times&rpar;](http://www.techmeme.com/230127/p18#a230127p18)
- - [Twitter will take less severe action against rule-breaking accounts, like limiting the reach of tweets; suspensions will be reserved for severe violations &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230127/p17#a230127p17)<!-- TECH:END -->
+ - [All.health, the successor to Jawbone, seeks to dismiss an investor suit for alleged fraud; the startup has raised at least $65M, according to a 2019 filing &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230128/p3#a230128p3)
+ - [Amazon will charge US Prime members delivery fees for Fresh grocery orders under $150 from February 28, changing its free delivery policy on orders over $35 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230128/p2#a230128p2)
+ - [Microsoft, GitHub, and OpenAI told a San Francisco federal court to dismiss a proposed class action suit against Copilot, citing fair use of open-source code &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230128/p1#a230128p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
