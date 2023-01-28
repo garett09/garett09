@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celebrate International Lego Day With Hot Deals on Lego Sets     - CNET](https://www.cnet.com/deals/celebrate-international-lego-day-with-hot-deals-on-lego-sets/#ftag=CAD590a51e)
  - [Q&amp;A with Princeton CS professor Arvind Narayanan on why he calls ChatGPT a &quot;bullshit generator&quot;, his worries over its boom, developing his AI taxonomy, and more &lpar;Julia Angwin/The Markup&rpar;](http://www.techmeme.com/230128/p9#a230128p9)
- - [Prime Video: The Absolute Best Sci-Fi TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-absolute-best-sci-fi-tv-shows-to-stream-now/#ftag=CAD590a51e)
- - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-29-absolute-best-films-to-watch-in-january-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Japan and the Netherlands join US with tough chip controls on China](https://www.theverge.com/2023/1/28/23574032/japan-netherlands-chips-semiconductors-china-export-controls)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
