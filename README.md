@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Who&#39;s up for a bit of WW2 Tactics? Second Front releases this week](https://www.pcgamer.com/whos-up-for-a-bit-of-ww2-tactics-second-front-releases-this-week)
  - [17-year-old D&amp;D Online is getting a &#39;mini expansion&#39; this year](https://www.pcgamer.com/17-year-old-dandd-online-is-getting-a-mini-expansion-this-year)
- - [Slay some demons with the power of rock in Power Chord&#39;s full release](https://www.pcgamer.com/slay-some-demons-with-the-power-of-rock-in-power-chords-full-release)
- - [Forspoken’s gravest sin? It has no chill](https://www.polygon.com/23573344/forspoken-jrpg-writing-frey-cringe-dialogue)<!-- GAME:END -->
+ - [Slay some demons with the power of rock in Power Chord&#39;s full release](https://www.pcgamer.com/slay-some-demons-with-the-power-of-rock-in-power-chords-full-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
