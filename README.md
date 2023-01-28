@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yesyesyesno](http://9gag.com/gag/aYVo0zV)
- - 🚯 [Hmmmm.](http://9gag.com/gag/az2Mw0b)
- - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)<!-- MEMES:END -->
+ - 🚖 [Ella seems cool](http://9gag.com/gag/aBd2Doz)
+ - 🚯 [The dentist can tell](http://9gag.com/gag/amAPD2d)
+ - 🚯 [This special public transport system for blind people in the UK](http://9gag.com/gag/aDYdBLx)<!-- MEMES:END -->
 
 --- 
 
