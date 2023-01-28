@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dead Space’s remake misses a major storytelling opportunity](https://www.polygon.com/23573120/dead-space-remake-isaac-clarke-voice-ishimura-writing)
  - [The best movies leaving Netflix, Hulu, Prime, and HBO Max at the end of January 2023](https://www.polygon.com/what-to-watch/2023/1/28/23567677/best-movies-netflix-amazon-hulu-hbo-leaving-january-2023)
- - [Wordle hint and answer today: Let&#39;s solve #588, January 28](https://www.pcgamer.com/wordle-hint-answer-today-588-january-28)
- - [Phil Spencer Says Halo Studio Remains ‘Critical’ To Xbox Despite Cuts](https://kotaku.com/halo-infinite-xbox-layoffs-starfield-game-pass-1850043324)<!-- GAME:END -->
+ - [Wordle hint and answer today: Let&#39;s solve #588, January 28](https://www.pcgamer.com/wordle-hint-answer-today-588-january-28)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
