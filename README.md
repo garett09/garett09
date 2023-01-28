@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capcom’s major Street Fighter 5 tournament ditches PlayStation consoles for PCs](https://www.theverge.com/2023/1/28/23575521/capcom-cup-tournament-street-fighter-5-pc)
- - [Apple&#39;s Studio Display doesn&#39;t shine in the light of competition](https://appleinsider.com/articles/23/01/28/apples-studio-display-doesnt-shine-in-the-light-of-competition?utm_medium=rss)
- - [Are ad-supported streaming services worth it?](https://www.androidauthority.com/ad-supported-streaming-services-3265549/)<!-- TECH:END -->
+ - [Q&amp;A with Princeton CS professor Arvind Narayanan on why he calls ChatGPT a &quot;bullshit generator&quot;, his worries over its boom, developing his AI taxonomy, and more &lpar;Julia Angwin/The Markup&rpar;](http://www.techmeme.com/230128/p9#a230128p9)
+ - [Prime Video: The Absolute Best Sci-Fi TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-absolute-best-sci-fi-tv-shows-to-stream-now/#ftag=CAD590a51e)
+ - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-29-absolute-best-films-to-watch-in-january-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
