@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All.health, the successor to Jawbone, seeks to dismiss an investor suit for alleged fraud; the startup has raised at least $65M, according to a 2019 filing &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230128/p3#a230128p3)
- - [Amazon will charge US Prime members delivery fees for Fresh grocery orders under $150 from February 28, changing its free delivery policy on orders over $35 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230128/p2#a230128p2)
- - [Microsoft, GitHub, and OpenAI told a San Francisco federal court to dismiss a proposed class action suit against Copilot, citing fair use of open-source code &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230128/p1#a230128p1)<!-- TECH:END -->
+ - [What poet, playboy, and prophet of investment bubbles Charles Mackay, plagiarizing in 1841 on the Dutch tulip bubble, can tell us about crypto&#39;s rise and fall &lpar;Tim Harford/Financial Times&rpar;](http://www.techmeme.com/230128/p5#a230128p5)
+ - [Gaggle, which offers a tool for monitoring online student communication, says it will no longer flag LGBTQ keywords in assignments after discrimination concerns &lpar;Mark Keierleber/The 74&rpar;](http://www.techmeme.com/230128/p4#a230128p4)
+ - [All.health, the successor to Jawbone, seeks to dismiss an investor suit for alleged fraud; the startup has raised at least $65M, according to a 2019 filing &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230128/p3#a230128p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
