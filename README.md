@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 20 best movies to watch on Amazon Freevee](https://www.androidauthority.com/best-movies-on-freevee-3269577/)
- - [Best MacBook Pro protective cases](https://appleinsider.com/inside/macbook-pro/best/best-non-bag-macbook-pro-protective-cases?utm_medium=rss)
- - [Why 2023 is the perfect time for the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-2023-release-date-3269170/)<!-- TECH:END -->
+ - [As the GOP assumes leadership of the US House, antitrust subcommittee&#39;s bipartisan efforts to curb the power of big tech shift to a focus on free-speech issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/230128/p8#a230128p8)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-469-3272378/)
+ - [Best Small Soundbar of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-small-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
