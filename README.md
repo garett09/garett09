@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting insight in the mind of Russian people being inteviewed by the Dutch news. Sorry for the mediocre translation,](http://9gag.com/gag/aMEKpVW)
- - 🚯 [Hmmmm.](http://9gag.com/gag/az2Mw0b)
- - 🚯 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)<!-- MEMES:END -->
+ - 🚖 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)
+ - 🚯 [Now I see the funny side](http://9gag.com/gag/aZD0eDX)
+ - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)<!-- MEMES:END -->
 
 --- 
 
