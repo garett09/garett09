@@ -140,7 +140,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter says moving forward, account suspension will be for &quot;severe or ongoing, repeat violations&quot; of its rules, and users can appeal suspensions from Feb. 1 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230127/p17#a230127p17)
+ - [Twitter will take less severe action against rule-breaking accounts, like limiting the reach of tweets; suspensions will be reserved for severe violations &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230127/p17#a230127p17)
  - [Twitter vows to take ‘less severe actions’ against rule-breaking accounts](https://www.theverge.com/2023/1/27/23575170/twitter-less-severe-actions-suspensions-reinstatement)
  - [GoldenEye 007 Hits Nintendo Switch, Xbox: How to Play and Fix Switch Controls     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-xbox-how-to-play-and-fix-switch-controls/#ftag=CAD590a51e)<!-- TECH:END -->
 
