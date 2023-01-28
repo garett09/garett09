@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store prices set to increase in United Kingdom, others](https://appleinsider.com/articles/23/01/27/app-store-prices-set-to-increase-in-united-kingdom-others?utm_medium=rss)
- - [Jonathan Majors is a bodybuilder yearning to be truly seen in Magazine Dreams](https://www.theverge.com/23574457/magazine-dreams-jonathan-majors-sundance-review)
- - [Best Banks for Joint Accounts for January 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-banks-for-joint-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail the pressure inside Meta and Google to move faster with AI amid the surge of attention around ChatGPT, potentially sweeping safety concerns aside &lpar;Washington Post&rpar;](http://www.techmeme.com/230127/p16#a230127p16)
+ - [New York City-based Paradigm, whose tech streamlines data aggregation and patient recruitment to speed up clinical trials, launches with a $203M Series A &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/230127/p15#a230127p15)
+ - [Now Is a Very Bad Time to Buy Samsung&#39;s Galaxy S22     - CNET](https://www.cnet.com/tech/mobile/now-is-a-very-bad-time-to-buy-samsungs-galaxy-s22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
