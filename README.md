@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail the pressure inside Meta and Google to move faster with AI amid the surge of attention around ChatGPT, potentially sweeping safety concerns aside &lpar;Washington Post&rpar;](http://www.techmeme.com/230127/p16#a230127p16)
- - [New York City-based Paradigm, whose tech streamlines data aggregation and patient recruitment to speed up clinical trials, launches with a $203M Series A &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/230127/p15#a230127p15)
- - [Now Is a Very Bad Time to Buy Samsung&#39;s Galaxy S22     - CNET](https://www.cnet.com/tech/mobile/now-is-a-very-bad-time-to-buy-samsungs-galaxy-s22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter says moving forward, account suspension will be for &quot;severe or ongoing, repeat violations&quot; of its rules, and users can appeal suspensions from Feb. 1 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230127/p17#a230127p17)
+ - [Twitter vows to take ‘less severe actions’ against rule-breaking accounts](https://www.theverge.com/2023/1/27/23575170/twitter-less-severe-actions-suspensions-reinstatement)
+ - [GoldenEye 007 Hits Nintendo Switch, Xbox: How to Play and Fix Switch Controls     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-xbox-how-to-play-and-fix-switch-controls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
