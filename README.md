@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Jan. 28: $200 off 24-inch iMac, $500 off Sony 55-inch 4K OLED TV, 39% off Fezibo standing desk &amp; more](https://appleinsider.com/articles/23/01/28/daily-deals-jan-28-200-off-24-inch-imac-500-off-sony-55-inch-4k-oled-tv-39-off-fezibo-standing-desk-more?utm_medium=rss)
- - [Google and Amazon smart speakers promised easier shopping, its still not here](https://www.androidauthority.com/amazon-google-smart-speaker-shopping-3267618/)
- - [The Best Climbing Gear for Beginners &lpar;2023&rpar;: Harnesses, Belay Devices, and Helmets](https://www.wired.com/gallery/best-climbing-gear/)<!-- TECH:END -->
+ - [Apple’s VR Vision Comes Into Focus](https://www.wired.com/story/apple-focuses-its-vr-vision/)
+ - [A Link to News Site Meduza Can &lpar;Technically&rpar; Land You in Russian Prison](https://www.wired.com/story/meduza-russia-outlaw-security-roundup/)
+ - [Daily deals Jan. 28: $200 off 24-inch iMac, $500 off Sony 55-inch 4K OLED TV, 39% off Fezibo standing desk &amp; more](https://appleinsider.com/articles/23/01/28/daily-deals-jan-28-200-off-24-inch-imac-500-off-sony-55-inch-4k-oled-tv-39-off-fezibo-standing-desk-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
