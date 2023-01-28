@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Is Episode 3 Out on HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-is-episode-3-out-on-hbo-max/#ftag=CAD590a51e)
  - [Celebrate International Lego Day With Hot Deals on Lego Sets     - CNET](https://www.cnet.com/deals/celebrate-international-lego-day-with-hot-deals-on-lego-sets/#ftag=CAD590a51e)
- - [Q&amp;A with Princeton CS professor Arvind Narayanan on why he calls ChatGPT a &quot;bullshit generator&quot;, his worries over its boom, developing his AI taxonomy, and more &lpar;Julia Angwin/The Markup&rpar;](http://www.techmeme.com/230128/p9#a230128p9)
- - [Japan and the Netherlands join US with tough chip controls on China](https://www.theverge.com/2023/1/28/23574032/japan-netherlands-chips-semiconductors-china-export-controls)<!-- TECH:END -->
+ - [Q&amp;A with Princeton CS professor Arvind Narayanan on why he calls ChatGPT a &quot;bullshit generator&quot;, his worries over its boom, developing his AI taxonomy, and more &lpar;Julia Angwin/The Markup&rpar;](http://www.techmeme.com/230128/p9#a230128p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
