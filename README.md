@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role cast was thrilled to rewrite history with Legend of Vox Machina](https://www.polygon.com/23574551/the-legend-of-vox-machina-cast-changes-critical-role)
- - [Dead Space’s remake misses a major storytelling opportunity](https://www.polygon.com/23573120/dead-space-remake-isaac-clarke-voice-ishimura-writing)
- - [The best movies leaving Netflix, Hulu, Prime, and HBO Max at the end of January 2023](https://www.polygon.com/what-to-watch/2023/1/28/23567677/best-movies-netflix-amazon-hulu-hbo-leaving-january-2023)<!-- GAME:END -->
+ - [Forspoken’s gravest sin? It has no chill](https://www.polygon.com/23573344/forspoken-jrpg-writing-frey-cringe-dialogue)
+ - [Bungie reveals technical culprit behind Destiny&#39;s vanished triumphs and 20-hour downtime](https://www.pcgamer.com/bungie-reveals-technical-culprit-behind-destinys-vanished-triumphs-and-20-hour-downtime)
+ - [Critical Role cast was thrilled to rewrite history with Legend of Vox Machina](https://www.polygon.com/23574551/the-legend-of-vox-machina-cast-changes-critical-role)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
