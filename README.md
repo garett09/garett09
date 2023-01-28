@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M2 Max MacBook Pro 16&quot; is on sale for $3,199 &lpar;$300 off&rpar; &amp; in stock](https://appleinsider.com/articles/23/01/28/apples-m2-max-macbook-pro-16-is-on-sale-for-3199-300-off-in-stock?utm_medium=rss)
  - [As the GOP assumes leadership of the US House, antitrust subcommittee&#39;s bipartisan efforts to curb the power of big tech shift to a focus on free-speech issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/230128/p8#a230128p8)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-469-3272378/)
- - [Best Small Soundbar of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-small-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Put These 7 Home Security Myths to Rest Once and for All     - CNET](https://www.cnet.com/news/put-these-7-home-security-myths-to-rest-once-and-for-all/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
