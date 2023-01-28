@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She knew all along](http://9gag.com/gag/aZD0YRW)
- - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
- - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)<!-- MEMES:END -->
+ - 🚖 [Ella seems cool](http://9gag.com/gag/aBd2Doz)
+ - 🚯 [O-word](http://9gag.com/gag/aBd2D4P)
+ - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
 
 --- 
 
