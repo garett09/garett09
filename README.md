@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #588, January 28](https://www.pcgamer.com/wordle-hint-answer-today-588-january-28)
  - [Phil Spencer Says Halo Studio Remains ‘Critical’ To Xbox Despite Cuts](https://kotaku.com/halo-infinite-xbox-layoffs-starfield-game-pass-1850043324)
- - [12 survival games to look forward to in 2023](https://www.pcgamer.com/12-survival-games-to-look-forward-to-in-2023)
- - [M3GAN, Netflix’s You People, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/1/27/23567450/new-movies-watch-m3gan-netflix-you-people)<!-- GAME:END -->
+ - [12 survival games to look forward to in 2023](https://www.pcgamer.com/12-survival-games-to-look-forward-to-in-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
