@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)
- - 🚯 [Now I see the funny side](http://9gag.com/gag/aZD0eDX)
+ - 🚖 [Hmmmm.](http://9gag.com/gag/az2Mw0b)
+ - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)
  - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)<!-- MEMES:END -->
 
 --- 
