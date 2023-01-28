@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
- - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)
- - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
+ - 🚯 [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 🚯 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)<!-- MEMES:END -->
 
 --- 
 
