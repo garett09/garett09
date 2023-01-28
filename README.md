@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big brain Dad](http://9gag.com/gag/aqejwrY)
- - 🚯 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
- - 🚯 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)<!-- MEMES:END -->
+ - 🚖 [Interesting insight in the mind of Russian people being inteviewed by the Dutch news. Sorry for the mediocre translation,](http://9gag.com/gag/aMEKpVW)
+ - 🚯 [Hmmmm.](http://9gag.com/gag/az2Mw0b)
+ - 🚯 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)<!-- MEMES:END -->
 
 --- 
 
