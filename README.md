@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To lane split](http://9gag.com/gag/aNwpXX4)
- - 🚯 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
- - 🚯 [Companies care about profit more than anything else.](http://9gag.com/gag/ay2MrZX)<!-- MEMES:END -->
+ - 🚖 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
+ - 🚯 [Companies care about profit more than anything else.](http://9gag.com/gag/ay2MrZX)
+ - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
 
 --- 
 
