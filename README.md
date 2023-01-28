@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies leaving Netflix, Hulu, Prime, and HBO Max at the end of January 2023](https://www.polygon.com/what-to-watch/2023/1/28/23567677/best-movies-netflix-amazon-hulu-hbo-leaving-january-2023)
  - [Wordle hint and answer today: Let&#39;s solve #588, January 28](https://www.pcgamer.com/wordle-hint-answer-today-588-january-28)
- - [Phil Spencer Says Halo Studio Remains ‘Critical’ To Xbox Despite Cuts](https://kotaku.com/halo-infinite-xbox-layoffs-starfield-game-pass-1850043324)
- - [12 survival games to look forward to in 2023](https://www.pcgamer.com/12-survival-games-to-look-forward-to-in-2023)<!-- GAME:END -->
+ - [Phil Spencer Says Halo Studio Remains ‘Critical’ To Xbox Despite Cuts](https://kotaku.com/halo-infinite-xbox-layoffs-starfield-game-pass-1850043324)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
