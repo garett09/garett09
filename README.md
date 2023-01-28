@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forspoken’s gravest sin? It has no chill](https://www.polygon.com/23573344/forspoken-jrpg-writing-frey-cringe-dialogue)
- - [Bungie reveals technical culprit behind Destiny&#39;s vanished triumphs and 20-hour downtime](https://www.pcgamer.com/bungie-reveals-technical-culprit-behind-destinys-vanished-triumphs-and-20-hour-downtime)
- - [Critical Role cast was thrilled to rewrite history with Legend of Vox Machina](https://www.polygon.com/23574551/the-legend-of-vox-machina-cast-changes-critical-role)<!-- GAME:END -->
+ - [17-year-old D&amp;D Online is getting a &#39;mini expansion&#39; this year](https://www.pcgamer.com/17-year-old-dandd-online-is-getting-a-mini-expansion-this-year)
+ - [Slay some demons with the power of rock in Power Chord&#39;s full release](https://www.pcgamer.com/slay-some-demons-with-the-power-of-rock-in-power-chords-full-release)
+ - [Forspoken’s gravest sin? It has no chill](https://www.polygon.com/23573344/forspoken-jrpg-writing-frey-cringe-dialogue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
