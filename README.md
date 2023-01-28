@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The highest form of flattery](http://9gag.com/gag/a5XEmRr)
- - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)
- - 🚯 [Edumacation is important](http://9gag.com/gag/a8qEZZ3)<!-- MEMES:END -->
+ - 🚖 [Big brain Dad](http://9gag.com/gag/aqejwrY)
+ - 🚯 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
+ - 🚯 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)<!-- MEMES:END -->
 
 --- 
 
