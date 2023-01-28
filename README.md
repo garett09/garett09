@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why 2023 is the perfect time for the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-2023-release-date-3269170/)
- - [9 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
- - [Q&amp;A with Microsoft Gaming CEO Phil Spencer, on having no major Xbox releases in 2022, its outlook for 2023, layoffs, Activision deal amid FTC lawsuit, and more &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/230128/p7#a230128p7)<!-- TECH:END -->
+ - [The 20 best movies to watch on Amazon Freevee](https://www.androidauthority.com/best-movies-on-freevee-3269577/)
+ - [Best MacBook Pro protective cases](https://appleinsider.com/inside/macbook-pro/best/best-non-bag-macbook-pro-protective-cases?utm_medium=rss)
+ - [Why 2023 is the perfect time for the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-2023-release-date-3269170/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
