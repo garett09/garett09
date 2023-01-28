@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Capcom’s major Street Fighter 5 tournament ditches PlayStation consoles for PCs](https://www.theverge.com/2023/1/28/23575521/capcom-cup-tournament-street-fighter-5-pc)
  - [Apple&#39;s Studio Display doesn&#39;t shine in the light of competition](https://appleinsider.com/articles/23/01/28/apples-studio-display-doesnt-shine-in-the-light-of-competition?utm_medium=rss)
- - [Are ad-supported streaming services worth it?](https://www.androidauthority.com/ad-supported-streaming-services-3265549/)
- - [Manchester United vs. Reading Livestream: How to Watch FA Cup Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/manchester-united-vs-reading-livestream-how-to-watch-fa-cup-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are ad-supported streaming services worth it?](https://www.androidauthority.com/ad-supported-streaming-services-3265549/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
