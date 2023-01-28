@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: 👀 Pixel Tablet Pro deets leak](https://www.androidauthority.com/weekly-authority-january-28-229-3272111/)
- - [Why &#39;Velma&#39; Is the Internet’s New Punching Bag](https://www.wired.com/story/velma-hbo-max-internet-backlash/)
- - [Doctors, Get Ready for Your AI Assistants](https://www.wired.com/story/doctors-artificial-intelligence-medicine/)<!-- TECH:END -->
+ - [Daily deals Jan. 28: $200 off 24-inch iMac, $500 off Sony 55-inch 4K OLED TV, 39% off Fezibo standing desk &amp; more](https://appleinsider.com/articles/23/01/28/daily-deals-jan-28-200-off-24-inch-imac-500-off-sony-55-inch-4k-oled-tv-39-off-fezibo-standing-desk-more?utm_medium=rss)
+ - [Google and Amazon smart speakers promised easier shopping, its still not here](https://www.androidauthority.com/amazon-google-smart-speaker-shopping-3267618/)
+ - [The Best Climbing Gear for Beginners &lpar;2023&rpar;: Harnesses, Belay Devices, and Helmets](https://www.wired.com/gallery/best-climbing-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
