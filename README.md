@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ella seems cool](http://9gag.com/gag/aBd2Doz)
- - 🚯 [O-word](http://9gag.com/gag/aBd2D4P)
- - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
+ - 🚖 [Pelosi sold $3 Million of Google stock 4 weeks ago. Yesterday, the DOJ opened a lawsuit against Google to break up their tech monopoly.](http://9gag.com/gag/a5XE8GN)
+ - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
+ - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
 
 --- 
 
