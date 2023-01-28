@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter will take less severe action against rule-breaking accounts, like limiting the reach of tweets; suspensions will be reserved for severe violations &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230127/p17#a230127p17)
- - [Twitter vows to take ‘less severe actions’ against rule-breaking accounts](https://www.theverge.com/2023/1/27/23575170/twitter-less-severe-actions-suspensions-reinstatement)
- - [GoldenEye 007 Hits Nintendo Switch, Xbox: How to Play and Fix Switch Controls     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-xbox-how-to-play-and-fix-switch-controls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In its annual report, Intel says the European Commission is revisiting its antitrust case against the firm even after the General Court overturned a &amp;euro;1.06B fine &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230127/p19#a230127p19)
+ - [Filing: the DOJ accuses Sam Bankman-Fried of messaging online FTX US&#39; general counsel, a potential witness, and asks a judge to ban his private communications &lpar;New York Times&rpar;](http://www.techmeme.com/230127/p18#a230127p18)
+ - [Twitter will take less severe action against rule-breaking accounts, like limiting the reach of tweets; suspensions will be reserved for severe violations &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230127/p17#a230127p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
