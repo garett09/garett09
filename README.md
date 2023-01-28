@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)
- - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
- - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
+ - 🚖 [She knew all along](http://9gag.com/gag/aZD0YRW)
+ - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
+ - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)<!-- MEMES:END -->
 
 --- 
 
