@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What poet, playboy, and prophet of investment bubbles Charles Mackay, plagiarizing in 1841 on the Dutch tulip bubble, can tell us about crypto&#39;s rise and fall &lpar;Tim Harford/Financial Times&rpar;](http://www.techmeme.com/230128/p5#a230128p5)
- - [Gaggle, which offers a tool for monitoring online student communication, says it will no longer flag LGBTQ keywords in assignments after discrimination concerns &lpar;Mark Keierleber/The 74&rpar;](http://www.techmeme.com/230128/p4#a230128p4)
- - [All.health, the successor to Jawbone, seeks to dismiss an investor suit for alleged fraud; the startup has raised at least $65M, according to a 2019 filing &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230128/p3#a230128p3)<!-- TECH:END -->
+ - [ShareChat employees and investors shed light on the company&#39;s leadership crisis and say revenue has not kept pace with cash burn and the ~$5B 2022 valuation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230128/p6#a230128p6)
+ - [MoviePass Tests a New Unlimited Movie-Watching Plan as Beta Goes Nationwide     - CNET](https://www.cnet.com/tech/mobile/moviepass-tests-a-new-unlimited-movie-watching-plan-as-beta-goes-nationwide/#ftag=CAD590a51e)
+ - [What poet, playboy, and prophet of investment bubbles Charles Mackay, plagiarizing in 1841 on the Dutch tulip bubble, can tell us about crypto&#39;s rise and fall &lpar;Tim Harford/Financial Times&rpar;](http://www.techmeme.com/230128/p5#a230128p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
