@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every type of infected in The Last of Us](https://www.polygon.com/23570026/the-last-of-us-infected-zombies-all-types)
- - [The Kerbals are doing some cute animations on the basics of spaceflight](https://www.pcgamer.com/the-kerbals-are-doing-some-cute-animations-on-the-basics-of-spaceflight)
- - [Mahokenshi adds a new twist to the flourishing deckbuilder genre](https://www.polygon.com/23574441/mahokenshi-deckbuilding-tactics-release-date-review-impressions)<!-- GAME:END -->
+ - [Mario Movie&#39;s Donkey Kong Voice Is Just Seth Rogen](https://kotaku.com/super-mario-bros-movie-trailer-seth-rogen-donkey-kong-1850046619)
+ - [This rendercore shoot &#39;em up is the first Vampire Survivors riff to really make me feel something](https://www.pcgamer.com/this-rendercore-shoot-em-up-is-the-first-vampire-survivors-riff-to-really-make-me-feel-something)
+ - [Every type of infected in The Last of Us](https://www.polygon.com/23570026/the-last-of-us-infected-zombies-all-types)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
