@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
- - 🚯 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)
- - 🚯 [Tyre Nichols beat to death by these officers in Memphis. Now that all the officers were black.. attorneys say \u201cit doesn\u2019t matter if the officers were black\u201d](http://9gag.com/gag/aMEKRyM)<!-- MEMES:END -->
+ - 🚖 [The dentist can tell](http://9gag.com/gag/amAPD2d)
+ - 🚯 [Tyre Nichols beat to death by these officers in Memphis. Now that all the officers were black.. attorneys say \u201cit doesn\u2019t matter if the officers were black\u201d](http://9gag.com/gag/aMEKRyM)
+ - 🚯 [Really?](http://9gag.com/gag/awZMqxD)<!-- MEMES:END -->
 
 --- 
 
