@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)
- - 🚯 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
- - 🚯 [The dentist can tell](http://9gag.com/gag/amAPD2d)<!-- MEMES:END -->
+ - 🚖 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 🚯 [Oblivion](http://9gag.com/gag/a8q1W7p)
+ - 🚯 [Coordination challenge](http://9gag.com/gag/aRErw7A)<!-- MEMES:END -->
 
 --- 
 
