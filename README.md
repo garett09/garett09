@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
- - 🚯 [The dentist can tell](http://9gag.com/gag/amAPD2d)
- - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)<!-- MEMES:END -->
+ - 🚖 [You really don&#39;t](http://9gag.com/gag/amAPD32)
+ - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
+ - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 --- 
 
