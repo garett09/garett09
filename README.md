@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Combustion vs Electric](http://9gag.com/gag/a8qErN3)
- - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)
- - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)<!-- MEMES:END -->
+ - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
+ - 🚯 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)
+ - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)<!-- MEMES:END -->
 
 --- 
 
