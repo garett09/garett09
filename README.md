@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #589, January 29](https://www.pcgamer.com/wordle-hint-answer-today-589-january-29)
  - [Choose-your-own-murder game Loretta comes out next month](https://www.pcgamer.com/choose-your-own-murder-game-loretta-comes-out-next-month)
- - [Ubisoft rumored to be working on multiplayer Far Cry as well as inevitable Far Cry 7](https://www.pcgamer.com/ubisoft-rumored-to-be-working-on-multiplayer-far-cry-as-well-as-inevitable-far-cry-7)
- - [Phil Spencer says &#39;2022 was too light on games&#39;](https://www.pcgamer.com/phil-spencer-says-2022-was-too-light-on-games)<!-- GAME:END -->
+ - [Ubisoft rumored to be working on multiplayer Far Cry as well as inevitable Far Cry 7](https://www.pcgamer.com/ubisoft-rumored-to-be-working-on-multiplayer-far-cry-as-well-as-inevitable-far-cry-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
