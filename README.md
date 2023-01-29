@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer today: Let&#39;s solve #589, January 29](https://www.pcgamer.com/wordle-hint-answer-today-589-january-29)
- - [Choose-your-own-murder game Loretta comes out next month](https://www.pcgamer.com/choose-your-own-murder-game-loretta-comes-out-next-month)
- - [Ubisoft rumored to be working on multiplayer Far Cry as well as inevitable Far Cry 7](https://www.pcgamer.com/ubisoft-rumored-to-be-working-on-multiplayer-far-cry-as-well-as-inevitable-far-cry-7)<!-- GAME:END -->
+ - [8 movies like Dead Space to watch as a break from vivisecting Necromorphs](https://www.polygon.com/what-to-watch/23574260/movies-like-dead-space-sci-fi-horror-movies)
+ - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)
+ - [Wordle hint and answer today: Let&#39;s solve #589, January 29](https://www.pcgamer.com/wordle-hint-answer-today-589-january-29)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
