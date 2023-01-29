@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWE Royal Rumble 2023: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
  - [Meme-stock mania companies, including GameStop and AMC Entertainment, have raised $4.7B since the hype began in January 2021, but failed to boost performance &lpar;Financial Times&rpar;](http://www.techmeme.com/230128/p10#a230128p10)
- - [New BRAW Toolbox app brings Blackmagic codecs to Final Cut Pro](https://appleinsider.com/articles/23/01/28/new-braw-toolbox-app-brings-blackmagic-codecs-to-final-cut-pro?utm_medium=rss)
- - [&#39;The Last of Us&#39; Release Schedule: When Is Episode 3 Out on HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-is-episode-3-out-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft, GitHub, and OpenAI ask court to throw out AI copyright lawsuit](https://www.theverge.com/2023/1/28/23575919/microsoft-openai-github-dismiss-copilot-ai-copyright-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
