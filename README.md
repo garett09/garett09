@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mahokenshi adds a new twist to the flourishing deckbuilder genre](https://www.polygon.com/23574441/mahokenshi-deckbuilding-tactics-release-date-review-impressions)
  - [Intel is having a very bad time](https://www.pcgamer.com/intel-is-having-a-very-bad-time)
- - [8 movies like Dead Space to watch as a break from vivisecting Necromorphs](https://www.polygon.com/what-to-watch/23574260/movies-like-dead-space-sci-fi-horror-movies)
- - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
+ - [8 movies like Dead Space to watch as a break from vivisecting Necromorphs](https://www.polygon.com/what-to-watch/23574260/movies-like-dead-space-sci-fi-horror-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
