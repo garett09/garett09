@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft rumored to be working on multiplayer Far Cry as well as inevitable Far Cry 7](https://www.pcgamer.com/ubisoft-rumored-to-be-working-on-multiplayer-far-cry-as-well-as-inevitable-far-cry-7)
  - [Phil Spencer says &#39;2022 was too light on games&#39;](https://www.pcgamer.com/phil-spencer-says-2022-was-too-light-on-games)
- - [Check out this Ultima-style RPG with a modern indie flair](https://www.pcgamer.com/check-out-this-ultima-style-rpg-with-a-modern-indie-flair)
- - [This mod for a 20-year-old Star Wars game recreates the series&#39; iconic duels with its best lightsaber combat](https://www.pcgamer.com/this-mod-for-a-20-year-old-star-wars-game-recreates-the-series-iconic-duels-with-its-best-lightsaber-combat)<!-- GAME:END -->
+ - [Check out this Ultima-style RPG with a modern indie flair](https://www.pcgamer.com/check-out-this-ultima-style-rpg-with-a-modern-indie-flair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
