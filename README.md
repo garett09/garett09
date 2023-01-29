@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In this 1991 sim game, you played as Ant Jesus](https://www.pcgamer.com/saturday-crapshoot-simant)
- - [Who&#39;s up for a bit of WW2 Tactics? Second Front releases this week](https://www.pcgamer.com/whos-up-for-a-bit-of-ww2-tactics-second-front-releases-this-week)
- - [17-year-old D&amp;D Online is getting a &#39;mini expansion&#39; this year](https://www.pcgamer.com/17-year-old-dandd-online-is-getting-a-mini-expansion-this-year)<!-- GAME:END -->
+ - [Phil Spencer says &#39;2022 was too light on games&#39;](https://www.pcgamer.com/phil-spencer-says-2022-was-too-light-on-games)
+ - [Check out this Ultima-style RPG with a modern indie flair](https://www.pcgamer.com/check-out-this-ultima-style-rpg-with-a-modern-indie-flair)
+ - [This mod for a 20-year-old Star Wars game recreates the series&#39; iconic duels with its best lightsaber combat](https://www.pcgamer.com/this-mod-for-a-20-year-old-star-wars-game-recreates-the-series-iconic-duels-with-its-best-lightsaber-combat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
