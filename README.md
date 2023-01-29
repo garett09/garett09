@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Weirdest Island on Earth](http://9gag.com/gag/a9q1j3D)
- - 🚯 [Sadio Man\u00e9, the Senegalese Bayern Munich football player is transforming Bambaly, his native Senegal village: He built an hospital, a school and he is paying 80 euros a month all its citizens. Recently he installed a 4G network and built a postal office.](http://9gag.com/gag/aZDrb09)
- - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
+ - 🚖 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 🚯 [This special public transport system for blind people in the UK](http://9gag.com/gag/aDYdBLx)
+ - 🚯 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)<!-- MEMES:END -->
 
 --- 
 
