@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The dentist can tell](http://9gag.com/gag/amAPD2d)
- - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
- - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)<!-- MEMES:END -->
+ - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
+ - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)
+ - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)<!-- MEMES:END -->
 
 --- 
 
