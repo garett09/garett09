@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court records since 2011 show how police in some US states used digital data, like text messages, search history, and emails, in abortion-related prosecutions &lpar;TechCrunch&rpar;](http://www.techmeme.com/230129/p7#a230129p7)
- - [NASA Webb Telescope Zooms in on One of Solar System&#39;s Oddest Objects     - CNET](https://www.cnet.com/science/space/nasa-webb-telescope-zooms-in-on-one-of-solar-systems-oddest-objects/#ftag=CAD590a51e)
- - [Bright Green Comet Passing Earth Is Visible in Dark Skies Now     - CNET](https://www.cnet.com/science/space/bright-green-comet-passing-earth-is-visible-in-dark-skies-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twelve South BookBook for MacBook Review: Fun and Functional](https://appleinsider.com/articles/23/01/29/twelve-south-bookbook-for-macbook-review-fun-and-functional?utm_medium=rss)
+ - [Is Your Poop Normal? 10 Things It Can Reveal About Your Health     - CNET](https://www.cnet.com/health/nutrition/is-your-poop-normal-10-things-it-can-reveal-about-your-health/#ftag=CAD590a51e)
+ - [GoldenEye 007 Hits Nintendo Switch and Xbox: How to Play, Fix Switch Controls     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-and-xbox-how-to-play-fix-switch-controls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
