@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pelosi sold $3 Million of Google stock 4 weeks ago. Yesterday, the DOJ opened a lawsuit against Google to break up their tech monopoly.](http://9gag.com/gag/a5XE8GN)
- - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)<!-- MEMES:END -->
+ - 🚖 [Really?](http://9gag.com/gag/awZMqxD)
+ - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)
+ - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)<!-- MEMES:END -->
 
 --- 
 
