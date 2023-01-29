@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Debbie Harry, 1977](http://9gag.com/gag/a4oEMEQ)
- - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)
- - 🚯 [Combustion vs Electric](http://9gag.com/gag/a8qErN3)<!-- MEMES:END -->
+ - 🚖 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
+ - 🚯 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)
+ - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)<!-- MEMES:END -->
 
 --- 
 
