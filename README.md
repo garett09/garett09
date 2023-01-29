@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenWeb, which helps outlets target readers with ads and manage comments, acquires Jeeng, an audience management service used by over 650 publishers, for $100M &lpar;CTech&rpar;](http://www.techmeme.com/230128/p12#a230128p12)
- - [M2 MacBook Pro teardown reveals memory &amp; storage changes](https://appleinsider.com/articles/23/01/27/m2-macbook-pro-teardown-reveals-memory-storage-changes?utm_medium=rss)
- - [San Francisco asked California regulators to halt or scale back the expansion of Cruise and Waymo, after repeated incidents with stopped and idle robotaxis &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/230128/p11#a230128p11)<!-- TECH:END -->
+ - [Toronto-based Smile CDR, which offers services for health and clinical data interoperability, raised a ~$30M Series B led by UPMC Enterprises and others &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230129/p2#a230129p2)
+ - [WWE Royal Rumble 2023 Results, Full Recap and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-results-full-recap-and-match-ratings/#ftag=CAD590a51e)
+ - [The US Federal Reserve rejected Custodia Bank&#39;s application to become a Federal Reserve System member, citing safety risks with the bank&#39;s crypto-focused model &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/230129/p1#a230129p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
