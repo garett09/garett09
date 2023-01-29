@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twelve South BookBook for MacBook Review: Fun and Functional](https://appleinsider.com/articles/23/01/29/twelve-south-bookbook-for-macbook-review-fun-and-functional?utm_medium=rss)
- - [Is Your Poop Normal? 10 Things It Can Reveal About Your Health     - CNET](https://www.cnet.com/health/nutrition/is-your-poop-normal-10-things-it-can-reveal-about-your-health/#ftag=CAD590a51e)
- - [GoldenEye 007 Hits Nintendo Switch and Xbox: How to Play, Fix Switch Controls     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-and-xbox-how-to-play-fix-switch-controls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Bizarre Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-bizarre-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)
+ - [A Vet Names His Top 5 Dog Breeds     - CNET](https://www.cnet.com/culture/a-vet-names-his-top-5-dog-breeds/#ftag=CAD590a51e)
+ - [Seriously, Hold Off on Buying a Samsung Galaxy S22     - CNET](https://www.cnet.com/tech/mobile/hold-off-on-buying-samsungs-galaxy-s22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
