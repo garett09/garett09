@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The dentist can tell](http://9gag.com/gag/amAPD2d)
- - 🚯 [Tyre Nichols beat to death by these officers in Memphis. Now that all the officers were black.. attorneys say \u201cit doesn\u2019t matter if the officers were black\u201d](http://9gag.com/gag/aMEKRyM)
- - 🚯 [Really?](http://9gag.com/gag/awZMqxD)<!-- MEMES:END -->
+ - 🚖 [The Weirdest Island on Earth](http://9gag.com/gag/a9q1j3D)
+ - 🚯 [Sadio Man\u00e9, the Senegalese Bayern Munich football player is transforming Bambaly, his native Senegal village: He built an hospital, a school and he is paying 80 euros a month all its citizens. Recently he installed a 4G network and built a postal office.](http://9gag.com/gag/aZDrb09)
+ - 🚯 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
 
 --- 
 
