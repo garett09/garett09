@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: US Black Web3 founders raised $60M in 2022, up from $16M in 2021; total money raised by US Web3 startups in 2022 fell to $11.9B from $16.5B in 2021 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/230129/p8#a230129p8)
  - [The Bizarre Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-bizarre-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)
- - [A Vet Names His Top 5 Dog Breeds     - CNET](https://www.cnet.com/culture/a-vet-names-his-top-5-dog-breeds/#ftag=CAD590a51e)
- - [Seriously, Hold Off on Buying a Samsung Galaxy S22     - CNET](https://www.cnet.com/tech/mobile/hold-off-on-buying-samsungs-galaxy-s22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Vet Names His Top 5 Dog Breeds     - CNET](https://www.cnet.com/culture/a-vet-names-his-top-5-dog-breeds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
