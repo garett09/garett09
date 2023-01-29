@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based Smile CDR, which offers services for health and clinical data interoperability, raised a ~$30M Series B led by UPMC Enterprises and others &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230129/p2#a230129p2)
- - [WWE Royal Rumble 2023 Results, Full Recap and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-results-full-recap-and-match-ratings/#ftag=CAD590a51e)
- - [The US Federal Reserve rejected Custodia Bank&#39;s application to become a Federal Reserve System member, citing safety risks with the bank&#39;s crypto-focused model &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/230129/p1#a230129p1)<!-- TECH:END -->
+ - [How the &quot;enshittification&quot; cycle, in which platforms first are good to users and business customers before abusing them, has infected TikTok, Amazon, and others &lpar;Cory Doctorow/Pluralistic&rpar;](http://www.techmeme.com/230129/p4#a230129p4)
+ - [The White House publishes a roadmap for mitigating risks posed by cryptocurrencies and urges Congress to hasten efforts to create a crypto regulatory framework &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/230129/p3#a230129p3)
+ - [Toronto-based Smile CDR, which offers services for health and clinical data interoperability, raised a ~$30M Series B led by UPMC Enterprises and others &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230129/p2#a230129p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
