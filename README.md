@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
+ - 🚖 [Pelosi sold $3 Million of Google stock 4 weeks ago. Yesterday, the DOJ opened a lawsuit against Google to break up their tech monopoly.](http://9gag.com/gag/a5XE8GN)
  - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)<!-- MEMES:END -->
+ - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)<!-- MEMES:END -->
 
 --- 
 
