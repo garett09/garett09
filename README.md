@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget more megapixels, your next phone’s camera could offer whiter teeth](https://www.androidauthority.com/qualcomm-snapdragon-semantic-segmentation-teeth-3263645/)
- - [Analysis: Florida startups raised $9.7B in 601 deals in 2022 vs. $7.8B in 652 deals in 2021; VC funding fell 40%+ in 2022 in California, Massachusetts, and NY &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230129/p6#a230129p6)
- - [Best Phones Coming in 2023: Galaxy S23, iPhone 15 and More     - CNET](https://www.cnet.com/tech/mobile/best-phones-coming-in-2023-galaxy-s23-iphone-15-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus Zenfone 9 revisited: The good and the bad, six months later](https://www.androidauthority.com/asus-zenfone-9-review-revisited-3261772/)
+ - [Save $200 on the Sonos Arc Soundbar, now $699 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/23/01/29/save-200-on-the-sonos-arc-soundbar-now-699-lowest-price-ever?utm_medium=rss)
+ - [Why Spatial Audio is the future of the music industry, even if you hate it](https://appleinsider.com/articles/23/01/29/why-spatial-audio-is-the-future-of-the-music-industry-even-if-you-hate-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
