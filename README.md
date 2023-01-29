@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
- - 🚯 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)
- - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)<!-- MEMES:END -->
+ - 🚖 [Pelosi sold $3 Million of Google stock 4 weeks ago. Yesterday, the DOJ opened a lawsuit against Google to break up their tech monopoly.](http://9gag.com/gag/a5XE8GN)
+ - 🚯 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
+ - 🚯 [What part of the middle east is this filmed in?](http://9gag.com/gag/a4o14ZQ)<!-- MEMES:END -->
 
 --- 
 
