@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really?](http://9gag.com/gag/awZMqxD)
+ - 🚖 [Shut it down](http://9gag.com/gag/a4oEMp1)
  - 🚯 [...](http://9gag.com/gag/a047ryd)
- - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)<!-- MEMES:END -->
+ - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 --- 
 
