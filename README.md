@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel is having a very bad time](https://www.pcgamer.com/intel-is-having-a-very-bad-time)
  - [8 movies like Dead Space to watch as a break from vivisecting Necromorphs](https://www.polygon.com/what-to-watch/23574260/movies-like-dead-space-sci-fi-horror-movies)
- - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)
- - [Wordle hint and answer today: Let&#39;s solve #589, January 29](https://www.pcgamer.com/wordle-hint-answer-today-589-january-29)<!-- GAME:END -->
+ - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
