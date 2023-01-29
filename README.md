@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the &quot;enshittification&quot; cycle, in which platforms first are good to users and business customers before abusing them, has infected TikTok, Amazon, and others &lpar;Cory Doctorow/Pluralistic&rpar;](http://www.techmeme.com/230129/p4#a230129p4)
- - [The White House publishes a roadmap for mitigating risks posed by cryptocurrencies and urges Congress to hasten efforts to create a crypto regulatory framework &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/230129/p3#a230129p3)
- - [Toronto-based Smile CDR, which offers services for health and clinical data interoperability, raised a ~$30M Series B led by UPMC Enterprises and others &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230129/p2#a230129p2)<!-- TECH:END -->
+ - [Crime blotter: iPhone thefts at Disneyland, Ohio Apple Store update](https://appleinsider.com/articles/23/01/29/crime-blotter-iphone-thefts-at-disneyland-ohio-apple-store-update?utm_medium=rss)
+ - [Researchers detail how ProGen, an LLM trained on 280M proteins, designed proteins with anti-microbial properties that were tested in real life and shown to work &lpar;Karmela Padavic-Callaghan/New Scientist&rpar;](http://www.techmeme.com/230129/p5#a230129p5)
+ - [Garmin Forerunner 255 Review: Great Running Watch](https://www.wired.com/review/garmin-forerunner-255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
