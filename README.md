@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Daily deals Jan. 29: $40 off Logitech MX Keys Mini, $110 off M1 MacBook Air, $400 off 65-inch LG OLED TV, more](https://appleinsider.com/articles/23/01/29/daily-deals-jan-29-40-off-logitech-mx-keys-mini-110-off-m1-macbook-air-400-off-65-inch-lg-oled-tv-more?utm_medium=rss)
- - [The Pixel 5 is the most underrated Pixel to date and I wish it had a successor](https://www.androidauthority.com/pixel-5-underrated-3213120/)
- - [This App From Schneider Electric Can Help Optimize Your Home’s Energy Use—for a Price](https://www.wired.com/story/schneider-home-energy-management/)<!-- TECH:END -->
+ - [iOS 16.3 Brings These New Features to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-3-brings-these-new-features-to-your-iphone/#ftag=CAD590a51e)
+ - [The Pixel 5 is the most underrated Pixel to date and I wish it had a successor](https://www.androidauthority.com/pixel-5-underrated-3213120/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
