@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: iPhone thefts at Disneyland, Ohio Apple Store update](https://appleinsider.com/articles/23/01/29/crime-blotter-iphone-thefts-at-disneyland-ohio-apple-store-update?utm_medium=rss)
- - [Researchers detail how ProGen, an LLM trained on 280M proteins, designed proteins with anti-microbial properties that were tested in real life and shown to work &lpar;Karmela Padavic-Callaghan/New Scientist&rpar;](http://www.techmeme.com/230129/p5#a230129p5)
- - [Garmin Forerunner 255 Review: Great Running Watch](https://www.wired.com/review/garmin-forerunner-255/)<!-- TECH:END -->
+ - [Daily deals Jan. 29: $40 off Logitech MX Keys Mini, $110 off M1 MacBook Air, $400 off 65-inch LG OLED TV, more](https://appleinsider.com/articles/23/01/29/daily-deals-jan-29-40-off-logitech-mx-keys-mini-110-off-m1-macbook-air-400-off-65-inch-lg-oled-tv-more?utm_medium=rss)
+ - [The Pixel 5 is the most underrated Pixel to date and I wish it had a successor](https://www.androidauthority.com/pixel-5-underrated-3213120/)
+ - [This App From Schneider Electric Can Help Optimize Your Home’s Energy Use—for a Price](https://www.wired.com/story/schneider-home-energy-management/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
