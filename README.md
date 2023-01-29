@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 🚯 [This special public transport system for blind people in the UK](http://9gag.com/gag/aDYdBLx)
- - 🚯 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)<!-- MEMES:END -->
+ - 🚖 [The dentist can tell](http://9gag.com/gag/amAPD2d)
+ - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
+ - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)<!-- MEMES:END -->
 
 --- 
 
