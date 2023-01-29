@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music has a pesky censorship bug on Nest Hubs; here’s how to bypass it](https://www.androidauthority.com/youtube-music-censorship-nest-hub-3270256/)
- - [19 Everyday Products Made of Recycled Materials &lpar;2023&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
- - [Best Resume Writing Services 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Top-Secret Prototype Display Will Blow Your Mind     - CNET](https://www.cnet.com/tech/home-entertainment/this-top-secret-prototype-display-will-blow-your-mind/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 Rumors: Release Date, Price and Smarter Cameras     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-rumors-release-date-price-and-smarter-cameras/#ftag=CAD590a51e)
+ - [Crime blotter: iPhone thefts at Disney World, Ohio Apple Store update](https://appleinsider.com/articles/23/01/29/crime-blotter-iphone-thefts-at-disneyland-ohio-apple-store-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
