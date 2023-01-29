@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
+ - 🚖 [Hmmm](http://9gag.com/gag/aeQgN1m)
+ - 🚯 [Really?](http://9gag.com/gag/awZMqxD)
  - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 --- 
