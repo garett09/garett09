@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really?](http://9gag.com/gag/awZMqxD)
+ - 🚖 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)
  - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)
- - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)<!-- MEMES:END -->
+ - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)<!-- MEMES:END -->
 
 --- 
 
