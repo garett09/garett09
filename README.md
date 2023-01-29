@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmm](http://9gag.com/gag/aeQgN1m)
- - 🚯 [Really?](http://9gag.com/gag/awZMqxD)
- - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
+ - 🚖 [Silverback sees a little girl banging her chest so he charges her](http://9gag.com/gag/a9qEo91)
+ - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)
+ - 🚯 [Tyre Nichols beat to death by these officers in Memphis. Now that all the officers were black.. attorneys say \u201cit doesn\u2019t matter if the officers were black\u201d](http://9gag.com/gag/aMEKRyM)<!-- MEMES:END -->
 
 --- 
 
