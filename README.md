@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)
- - 🚯 [Shut it down](http://9gag.com/gag/a4oEMp1)
- - 🚯 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)<!-- MEMES:END -->
+ - 🚖 [Really?](http://9gag.com/gag/awZMqxD)
+ - 🚯 [...](http://9gag.com/gag/a047ryd)
+ - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)<!-- MEMES:END -->
 
 --- 
 
