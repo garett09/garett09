@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pelosi sold $3 Million of Google stock 4 weeks ago. Yesterday, the DOJ opened a lawsuit against Google to break up their tech monopoly.](http://9gag.com/gag/a5XE8GN)
- - 🚯 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
- - 🚯 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
+ - 🚖 [Matt Doesnt Know](http://9gag.com/gag/aA0bn39)
+ - 🚯 [Abrupt elevator chaos](http://9gag.com/gag/a8qEBBQ)
+ - 🚯 [Tyre Nichols beat to death by these officers in Memphis. Now that all the officers were black.. attorneys say \u201cit doesn\u2019t matter if the officers were black\u201d](http://9gag.com/gag/aMEKRyM)<!-- MEMES:END -->
 
 --- 
 
