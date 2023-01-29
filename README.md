@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Silverback sees a little girl banging her chest so he charges her](http://9gag.com/gag/a9qEo91)
- - 🚯 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - 🚯 [Tyre Nichols beat to death by these officers in Memphis. Now that all the officers were black.. attorneys say \u201cit doesn\u2019t matter if the officers were black\u201d](http://9gag.com/gag/aMEKRyM)<!-- MEMES:END -->
+ - 🚖 [Debbie Harry, 1977](http://9gag.com/gag/a4oEMEQ)
+ - 🚯 [Trying to get sent to women\u2019s prison for that easier prison life](http://9gag.com/gag/ap9NWBM)
+ - 🚯 [Combustion vs Electric](http://9gag.com/gag/a8qErN3)<!-- MEMES:END -->
 
 --- 
 
