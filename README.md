@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what it’s like using the Nothing Phone 1 in the United States](https://www.androidauthority.com/nothing-phone-1-in-us-3271293/)
- - [Asus Zenfone 9 revisited: The good and the bad, six months later](https://www.androidauthority.com/asus-zenfone-9-review-revisited-3261772/)
- - [San Francisco wants to slow robotaxi rollout over blocked traffic and false 911 calls](https://www.theverge.com/2023/1/29/23576422/san-francisco-cruise-waymo-robotaxi-rollout)<!-- TECH:END -->
+ - [Court records since 2011 show how police in some US states used digital data, like text messages, search history, and emails, in abortion-related prosecutions &lpar;TechCrunch&rpar;](http://www.techmeme.com/230129/p7#a230129p7)
+ - [NASA Webb Telescope Zooms in on One of Solar System&#39;s Oddest Objects     - CNET](https://www.cnet.com/science/space/nasa-webb-telescope-zooms-in-on-one-of-solar-systems-oddest-objects/#ftag=CAD590a51e)
+ - [Bright Green Comet Passing Earth Is Visible in Dark Skies Now     - CNET](https://www.cnet.com/science/space/bright-green-comet-passing-earth-is-visible-in-dark-skies-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
