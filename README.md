@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone will attempt to crack US market in 2023](https://appleinsider.com/articles/23/01/30/nothing-phone-will-attempt-to-crack-us-market-in-2023?utm_medium=rss)
- - [Mercedes-Benz details Drive Pilot, a Level 3 hands-free driving system approved in Nevada for speeds up to 40 mph; it requires the driver&#39;s face to stay visible &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230130/p17#a230130p17)
- - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Fourth class-action lawsuit filed against Apple for alleged privacy violations](https://appleinsider.com/articles/23/01/30/fourth-class-action-lawsuit-filed-against-apple-for-alleged-privacy-violations?utm_medium=rss)
+ - [Apple Support app gains 3 languages, expands into 118 new regions](https://appleinsider.com/articles/23/01/30/apple-support-app-gains-3-languages-expands-into-118-new-regions?utm_medium=rss)
+ - [Every Apple Mac mini M2 &amp; M2 Pro is up to $200 off with these exclusive deals](https://appleinsider.com/articles/23/01/30/every-apple-mac-mini-m2-m2-pro-is-up-to-200-off-with-these-exclusive-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
