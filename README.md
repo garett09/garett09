@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet The Man Who Got Kadabra Banned From Pokémon For 20 Years](https://kotaku.com/pokemon-tcg-uri-geller-kadabra-card-ban-nintendo-1850050358)
- - [CEO of OpenAI says misuse of artificial intelligence could be &#39;lights out for all&#39;](https://www.pcgamer.com/ceo-of-openai-says-misuse-of-artificial-intelligence-could-be-lights-out-for-all)
- - [State bar associations shout &#39;objection your honor!&#39; to scare AI lawyer away from court](https://www.pcgamer.com/state-bar-associations-shout-objection-your-honor-to-scare-ai-lawyer-away-from-court)<!-- GAME:END -->
+ - [Activision Blizzard exec says The Last of Us&#39; success on HBO proves the Microsoft buyout should go through](https://www.pcgamer.com/activision-blizzard-exec-says-the-last-of-us-success-on-hbo-proves-the-microsoft-buyout-should-go-through)
+ - [The Crew 3 is real and an announcement is coming tomorrow](https://www.pcgamer.com/the-crew-3-is-real-and-an-announcement-is-coming-tomorrow)
+ - [Meet The Man Who Got Kadabra Banned From Pokémon For 20 Years](https://kotaku.com/pokemon-tcg-uri-geller-kadabra-card-ban-nintendo-1850050358)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
