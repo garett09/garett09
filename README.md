@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - 🚯 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)<!-- MEMES:END -->
+ - 🚖 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)<!-- MEMES:END -->
 
 --- 
 
