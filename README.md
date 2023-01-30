@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of US TV Show Creators Explain Massive Change From The Game](https://kotaku.com/last-us-hbo-show-bill-frank-neil-druckman-craig-mazin-1850048289)
- - [A major Street Fighter tournament is ditching PlayStations in favour of PC](https://www.pcgamer.com/a-major-street-fighter-tournament-is-ditching-playstations-in-favour-of-pc)
- - [James Cameron and Hayao Miyazaki’s beautiful cursed dreams](https://www.polygon.com/23574291/james-cameron-avatar-war-nature-hayao-miyazaki)<!-- GAME:END -->
+ - [Dive into the System in Backfirewall_ on Xbox Now](https://news.xbox.com/en-us/2023/01/30/dive-into-the-system-in-backfirewall_-on-xbox-now/)
+ - [Roboquest Hits Xbox Game Preview &lpar;and Game Pass&rpar;](https://news.xbox.com/en-us/2023/01/30/roboquest-hits-xbox-game-preview-and-game-pass/)
+ - [Belarusian KGB adds World of Tanks studio boss to terrorist list](https://www.pcgamer.com/belarusian-kgb-adds-world-of-tanks-studio-boss-to-terrorist-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
