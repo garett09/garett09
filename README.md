@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oops](http://9gag.com/gag/aPgZyGB)
- - 🚯 [What part of the middle east is this filmed in?](http://9gag.com/gag/a4o14ZQ)
- - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
+ - 🚖 [Coordination challenge](http://9gag.com/gag/aRErw7A)
+ - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 🚯 [That\u2019s why I smile ladies](http://9gag.com/gag/aqeG2LZ)<!-- MEMES:END -->
 
 --- 
 
