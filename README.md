@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple plans to release a foldable iPad in 2024, featuring a carbon fiber kickstand, as well as an updated iPad mini, after a quiet 2023 for the iPad &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p2#a230130p2)
- - [Apple to launch a foldable iPad next year: Analyst](https://www.androidauthority.com/apple-foldable-ipad-3273349/)
- - [Foldable iPad could arrive as early as next year, claims noted Apple analyst](https://www.theverge.com/2023/1/30/23577407/apple-ipad-foldable-analyst-ming-chi-kuo-2024-release-date)<!-- TECH:END -->
+ - [TikTok CEO Shou Zi Chew plans to testify before the House Energy and Commerce Committee on March 23, the first appearance by a TikTok CEO before Congress &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p3#a230130p3)
+ - [OnePlus V Fold and OnePlus V Flip could be the next Samsung rivals](https://www.androidauthority.com/oneplus-v-fold-oneplus-v-flip-3273360/)
+ - [Monday’s top tech news: the chip war ramps up](https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
