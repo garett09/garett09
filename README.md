@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seeing the world of Horizon Call of the Mountain through new eyes](https://blog.playstation.com/2023/01/30/seeing-the-world-of-horizon-call-of-the-mountain-through-new-eyes/)
- - [How to complete the Innovating the Engine quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-innovating-the-engine)
- - [Warzone 2&#39;s wiping DMZ progress and players don&#39;t quite know how to feel about it](https://www.pcgamer.com/warzone-2s-wiping-dmz-progress-and-players-dont-quite-know-how-to-feel-about-it)<!-- GAME:END -->
+ - [Microsoft says Sony isn&#39;t telling the truth to EU regulators about Call of Duty](https://www.pcgamer.com/microsoft-says-sony-isnt-telling-the-truth-to-eu-regulators-about-call-of-duty)
+ - [HBO&#39;s The Last Of Us Reclaims The Queerness Its World Forgot](https://kotaku.com/last-of-us-hbo-bill-frank-gay-nick-offerman-bartlett-1850035741)
+ - [Where to find the Dead Space Peng statue](https://www.pcgamer.com/dead-space-peng-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
