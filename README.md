@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok CEO to Testify Before House Panel in March     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-ceo-to-testify-before-house-panel-in-march/#ftag=CAD590a51e)
- - [Mastercard and Binance launch the prepaid Binance Card in Brazil, seeking to &quot;broaden the connection between traditional finance and crypto&quot;, after Argentina &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/230130/p11#a230130p11)
- - [An interview with Harvard Business School professor Shoshana Zuboff on her frustrations with fragmented efforts to restrain tech companies, privacy, and more &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/230130/p10#a230130p10)<!-- TECH:END -->
+ - [Daily Deals Jan. 30: $600 off 16&quot; MacBook Pro, $100 off Bose speakers, Apple Watch Series 7 &lpar;Cellular&rpar; for $279 &amp; more](https://appleinsider.com/articles/23/01/30/daily-deals-jan-30-600-off-16-macbook-pro-100-off-bose-speakers-apple-watch-series-7-cellular-for-279-more?utm_medium=rss)
+ - [What to expect from Samsung&#39;s Unpacked event on February 1: Galaxy S23, S23 Plus, S23 Ultra, and Galaxy Book 3, but likely no tablets, earbuds, or smartwatches &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p13#a230130p13)
+ - [10 best Android lock screen apps and lock screen replacement apps](https://www.androidauthority.com/best-android-lock-screen-apps-lock-screen-replacement-apps-565514/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
