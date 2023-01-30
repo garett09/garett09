@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#39;re horny](http://9gag.com/gag/aZD0ABW)
- - 🚯 [Who was that?](http://9gag.com/gag/awZzNWD)
- - 🚯 [Supplies](http://9gag.com/gag/aEq8dZx)<!-- MEMES:END -->
+ - 🚖 [You really don&#39;t](http://9gag.com/gag/amAPD32)
+ - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 🚯 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
 
 --- 
 
