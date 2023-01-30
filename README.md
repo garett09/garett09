@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple renews comedy &#39;Acapulco&#39; for third season](https://appleinsider.com/articles/23/01/30/apple-renews-comedy-acapulco-for-third-season?utm_medium=rss)
- - [Competing rumor says no folding iPad in 2024](https://appleinsider.com/articles/23/01/30/competing-rumor-says-no-folding-ipad-in-2024?utm_medium=rss)
- - [Sources: the US Department of Commerce told some companies it would no longer grant licenses to export US technology to Huawei, as it moves toward a total ban &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230130/p19#a230130p19)<!-- TECH:END -->
+ - [Payment card services company Marqeta agrees to acquire New York-based fintech infrastructure startup Power Finance for $223M, plus $52M subject to a milestone &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230130/p21#a230130p21)
+ - [Apple execs face allegations of union-busting by NLRB](https://appleinsider.com/articles/23/01/30/apple-execs-face-allegations-of-union-busting-by-nlrb?utm_medium=rss)
+ - [The US NLRB says comments by Apple executives and policies imposed on employees violate workers&#39; rights, after a complaint by a former Apple employee in 2021 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230130/p20#a230130p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
