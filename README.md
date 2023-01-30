@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coordination challenge](http://9gag.com/gag/aRErw7A)
- - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 🚯 [That\u2019s why I smile ladies](http://9gag.com/gag/aqeG2LZ)<!-- MEMES:END -->
+ - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 🚯 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - 🚯 [Criminal minds](http://9gag.com/gag/a9q1MzZ)<!-- MEMES:END -->
 
 --- 
 
