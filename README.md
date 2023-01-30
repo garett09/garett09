@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US Department of Commerce told some companies it would no longer grant licenses to export US technology to Huawei, as it moves toward a total ban &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230130/p19#a230130p19)
- - [Is HBO Max with ads a good deal?](https://www.androidauthority.com/hbo-max-with-ads-3273712/)
- - [ElevenLabs found an uptick in &quot;voice cloning misuse cases&quot; during its recent beta; Motherboard finds deepfake voices of Emma Watson, Joe Rogan, others on 4chan &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230130/p18#a230130p18)<!-- TECH:END -->
+ - [Apple renews comedy &#39;Acapulco&#39; for third season](https://appleinsider.com/articles/23/01/30/apple-renews-comedy-acapulco-for-third-season?utm_medium=rss)
+ - [Competing rumor says no folding iPad in 2024](https://appleinsider.com/articles/23/01/30/competing-rumor-says-no-folding-ipad-in-2024?utm_medium=rss)
+ - [Sources: the US Department of Commerce told some companies it would no longer grant licenses to export US technology to Huawei, as it moves toward a total ban &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230130/p19#a230130p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
