@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok CEO Shou Zi Chew plans to testify before the House Energy and Commerce Committee on March 23, the first appearance by a TikTok CEO before Congress &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p3#a230130p3)
- - [OnePlus V Fold and OnePlus V Flip could be the next Samsung rivals](https://www.androidauthority.com/oneplus-v-fold-oneplus-v-flip-3273360/)
- - [Monday’s top tech news: the chip war ramps up](https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [The Galaxy Z Fold 4 will finally have some competition at MWC](https://www.androidauthority.com/honor-magic-vs-foldable-galaxy-z-fold-4-3273382/)
+ - [The English Premier League strikes a four-year deal with blockchain fantasy sports startup Sorare; sources say Sorare will pay tens of millions per year &lpar;Financial Times&rpar;](http://www.techmeme.com/230130/p7#a230130p7)
+ - [South Korea&#39;s K-pop industry is embracing the metaverse, expanding on commonplace virtual counterparts for artists, including by creating the virtual band Mave &lpar;New York Times&rpar;](http://www.techmeme.com/230130/p6#a230130p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
