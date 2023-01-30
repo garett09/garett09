@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Strikes Back with the World of Warships: Legends Lunar New Year Update](https://news.xbox.com/en-us/2023/01/30/world-of-warships-legends-lunar-new-year-update/)
- - [Fans Think Sony Is Teasing A New Uncharted Starring Nathan Drake’s Kid](https://kotaku.com/uncharted-5-cassie-drake-naughty-dog-ps5-release-date-1850049001)
- - [The Last Of US TV Show Creators Explain Massive Change From The Game](https://kotaku.com/last-us-hbo-show-bill-frank-neil-druckman-craig-mazin-1850048289)<!-- GAME:END -->
+ - [Howl’s Moving Castle fashion collection captures the magic of the movie](https://www.polygon.com/23577876/howls-moving-castle-loewe-collaboration-how-to-buy)
+ - [Poker Face creators desperately wanted a hero to call bullshit, so they invented one](https://www.polygon.com/23573399/poker-face-nora-lilla-zuckerman-interview)
+ - [Disgaea 7: Vows of the Virtueless and Rhapsody: Marl Kingdom Chronicles coming to PS5](https://blog.playstation.com/2023/01/30/disgaea-7-vows-of-the-virtueless-and-rhapsody-marl-kingdom-chronicles-coming-to-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
