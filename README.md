@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Annie Wersching, who played Tess in The Last of Us game, has died at 45](https://www.polygon.com/23577445/annie-wersching-tess-last-of-us)
- - [F1 champ Max Verstappen&#39;s private jet has a sim racing rig in it](https://www.pcgamer.com/f1-champ-max-verstappens-private-jet-has-a-sim-racing-rig-in-it)
- - [Asus TUF Gaming B650 Plus WiFi](https://www.pcgamer.com/asus-tuf-gaming-b650-plus-wifi)<!-- GAME:END -->
+ - [Warzone 2&#39;s wiping DMZ progress and players don&#39;t quite know how to feel about it](https://www.pcgamer.com/warzone-2s-wiping-dmz-progress-and-players-dont-quite-know-how-to-feel-about-it)
+ - [This Lego Intel Arc A750 GPU has a working fan made of meat cleavers](https://www.pcgamer.com/this-lego-intel-arc-a750-gpu-has-a-working-fan-made-out-of-meat-cleavers)
+ - [Assassin&#39;s Creed artist smuggles complaint into comic asking if &#39;someone can explain how to write this shit&#39;](https://www.pcgamer.com/assassins-creed-artist-smuggles-complaint-into-comic-asking-if-someone-can-explain-how-to-write-this-shit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
