@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)
- - [How Duolingo Made Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-made-me-into-a-monster/#ftag=CAD590a51e)
- - [Check out these emulated calculators at the Internet Archive](https://www.theverge.com/2023/1/29/23576677/emulated-calculators-internet-archive-mame)<!-- TECH:END -->
+ - [How to Watch Love Island 2023: Stream Winter Season 9 Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-winter-love-island-2023-from-anywhere/#ftag=CAD590a51e)
+ - [iPhone 14 Crash Detection false positives are now a problem in Japan](https://appleinsider.com/articles/23/01/30/iphone-14-crash-detection-false-positives-are-now-a-problem-in-japan?utm_medium=rss)
+ - [More People Need to Watch This Unnerving Netflix True Crime Documentary     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-unnerving-netflix-true-crime-documentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
