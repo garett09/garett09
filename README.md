@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [The Last of Us episode 3 is the ‘San Junipero’ of zombie stories](https://www.polygon.com/23571500/last-of-us-drop-episode-3-review-nick-offerman-murray-bartlett)
- - [HBO’s The Last of Us improves on the game’s implied gay romance](https://www.polygon.com/23574585/last-of-us-bill-frank-gay-game-show)<!-- GAME:END -->
+ - [Looks like Amazon&#39;s making a Tomb Raider movie and series to go with its game](https://www.pcgamer.com/looks-like-amazons-making-a-tomb-raider-movie-and-series-to-go-with-its-game)
+ - [HyperX&#39;s January keycap was a cute winter kitty and I missed it](https://www.pcgamer.com/hyperxs-january-keycap-was-a-cute-winter-kitty-and-i-missed-it)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
