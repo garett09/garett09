@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Jan. 30: $600 off 16&quot; MacBook Pro, $100 off Bose speakers, Apple Watch Series 7 &lpar;Cellular&rpar; for $279 &amp; more](https://appleinsider.com/articles/23/01/30/daily-deals-jan-30-600-off-16-macbook-pro-100-off-bose-speakers-apple-watch-series-7-cellular-for-279-more?utm_medium=rss)
- - [What to expect from Samsung&#39;s Unpacked event on February 1: Galaxy S23, S23 Plus, S23 Ultra, and Galaxy Book 3, but likely no tablets, earbuds, or smartwatches &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p13#a230130p13)
- - [10 best Android lock screen apps and lock screen replacement apps](https://www.androidauthority.com/best-android-lock-screen-apps-lock-screen-replacement-apps-565514/)<!-- TECH:END -->
+ - [$330 off the Pixel 6 Pro, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Loupedeck Live and Loupedeck CT review: Customizable controls for creative pros](https://appleinsider.com/articles/23/01/30/loupedeck-live-and-loupedeck-ct-review-customizable-controls-for-creative-pros?utm_medium=rss)
+ - [&#39;Carnival Row&#39; Season 2 Is Almost Here: Let&#39;s Refresh Our Memories     - CNET](https://www.cnet.com/culture/entertainment/carnival-row-season-2-is-almost-here-lets-jog-our-memories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
