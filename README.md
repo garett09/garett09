@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Miami Marlins Star Outfielder, Jazz Chisholm Jr., Will Grace the Cover of MLB The Show 23](https://news.xbox.com/en-us/2023/01/30/mlb-the-show-23-cover-athlete-announce/)
- - [Mister Sinister makes destroying the X-Men, Avengers, Eternals, and Thanos look downright fabulous](https://www.polygon.com/2023/1/30/23574771/x-men-2011-sins-of-sinister-marvel-crossover)
- - [Marie Kondo exiting her Marie Kondo phase is totally OK](https://www.polygon.com/23578292/marie-kondo-given-up-tidying-sparks-joy)<!-- GAME:END -->
+ - [Meet The Man Who Got Kadabra Banned From Pokémon For 20 Years](https://kotaku.com/pokemon-tcg-uri-geller-kadabra-card-ban-nintendo-1850050358)
+ - [CEO of OpenAI says misuse of artificial intelligence could be &#39;lights out for all&#39;](https://www.pcgamer.com/ceo-of-openai-says-misuse-of-artificial-intelligence-could-be-lights-out-for-all)
+ - [State bar associations shout &#39;objection your honor!&#39; to scare AI lawyer away from court](https://www.pcgamer.com/state-bar-associations-shout-objection-your-honor-to-scare-ai-lawyer-away-from-court)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
