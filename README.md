@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Microsoft Office for Mac Home &amp; Business 2021 for $29.99 - limited time offer](https://appleinsider.com/articles/23/01/23/get-microsoft-office-for-mac-home-business-2021-for-2999---limited-time-offer?utm_medium=rss)
- - [Another ultra-premium phone could be getting a one-inch camera sensor](https://www.androidauthority.com/oppo-find-x6-3273576/)
- - [Apple TV+ Timothee Chalamet ad campaign continues with &#39;A Taste&#39;](https://appleinsider.com/articles/23/01/30/apple-tv-timothee-chalamet-ad-campaign-continues-with-a-taste?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing Phone will attempt to crack US market in 2023](https://appleinsider.com/articles/23/01/30/nothing-phone-will-attempt-to-crack-us-market-in-2023?utm_medium=rss)
+ - [Mercedes-Benz details Drive Pilot, a Level 3 hands-free driving system approved in Nevada for speeds up to 40 mph; it requires the driver&#39;s face to stay visible &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230130/p17#a230130p17)
+ - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
