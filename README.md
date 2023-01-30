@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
- - 🚯 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
+ - 🚖 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
+ - 🚯 [Mark Lutchman](http://9gag.com/gag/anzgX6q)
+ - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 --- 
 
