@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At the annual awards for the best Hispanic streamer they put the chat for a second and this is what was seen:](http://9gag.com/gag/aRErPq5)
- - 🚯 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
- - 🚯 [Debbie Harry, 1977](http://9gag.com/gag/a4oEMEQ)<!-- MEMES:END -->
+ - 🚖 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
+ - 🚯 [That\u2019s why I smile ladies](http://9gag.com/gag/aqeG2LZ)
+ - 🚯 [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)<!-- MEMES:END -->
 
 --- 
 
