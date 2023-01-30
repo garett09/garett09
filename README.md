@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
- - [How to Extend Your Eero Mesh With Amazon Echo Speakers &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-amazon-echo-speakers-as-eero-wi-fi-extenders/)
- - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok CEO to Testify Before House Panel in March     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-ceo-to-testify-before-house-panel-in-march/#ftag=CAD590a51e)
+ - [Mastercard and Binance launch the prepaid Binance Card in Brazil, seeking to &quot;broaden the connection between traditional finance and crypto&quot;, after Argentina &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/230130/p11#a230130p11)
+ - [An interview with Harvard Business School professor Shoshana Zuboff on her frustrations with fragmented efforts to restrain tech companies, privacy, and more &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/230130/p10#a230130p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
