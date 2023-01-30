@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth class-action lawsuit filed against Apple for alleged privacy violations](https://appleinsider.com/articles/23/01/30/fourth-class-action-lawsuit-filed-against-apple-for-alleged-privacy-violations?utm_medium=rss)
- - [Apple Support app gains 3 languages, expands into 118 new regions](https://appleinsider.com/articles/23/01/30/apple-support-app-gains-3-languages-expands-into-118-new-regions?utm_medium=rss)
- - [Every Apple Mac mini M2 &amp; M2 Pro is up to $200 off with these exclusive deals](https://appleinsider.com/articles/23/01/30/every-apple-mac-mini-m2-m2-pro-is-up-to-200-off-with-these-exclusive-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the US Department of Commerce told some companies it would no longer grant licenses to export US technology to Huawei, as it moves toward a total ban &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230130/p19#a230130p19)
+ - [Is HBO Max with ads a good deal?](https://www.androidauthority.com/hbo-max-with-ads-3273712/)
+ - [ElevenLabs found an uptick in &quot;voice cloning misuse cases&quot; during its recent beta; Motherboard finds deepfake voices of Emma Watson, Joe Rogan, others on 4chan &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230130/p18#a230130p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
