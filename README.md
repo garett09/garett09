@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 🚯 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
- - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
+ - 🚖 [Oops](http://9gag.com/gag/aPgZyGB)
+ - 🚯 [What part of the middle east is this filmed in?](http://9gag.com/gag/a4o14ZQ)
+ - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 --- 
 
