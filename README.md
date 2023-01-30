@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Top tech tips to fool your boss into thinking you&#39;re working hard](https://www.pcgamer.com/top-tech-tips-to-fool-your-boss-into-thinking-youre-working-hard)
  - [PlayStation kicks off new year with increased supply of PS5 consoles, new spot](https://blog.playstation.com/2023/01/30/playstation-kicks-off-new-year-with-increased-supply-of-ps5-consoles-new-spot/)
- - [Wordle hint and answer today: Let&#39;s solve #590, January 30](https://www.pcgamer.com/wordle-hint-answer-today-590-january-30)
- - [The cyberpunk future looks upsettingly meaty](https://www.pcgamer.com/the-cyberpunk-future-looks-upsettingly-meaty)<!-- GAME:END -->
+ - [PlayStation kicks off new year with increased supply of PS5 consoles, new spot](https://blog.playstation.com/2023/01/30/playstation-kicks-off-new-year-with-increased-supply-of-ps5-consoles-new-spot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
