@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$330 off the Pixel 6 Pro, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Loupedeck Live and Loupedeck CT review: Customizable controls for creative pros](https://appleinsider.com/articles/23/01/30/loupedeck-live-and-loupedeck-ct-review-customizable-controls-for-creative-pros?utm_medium=rss)
- - [&#39;Carnival Row&#39; Season 2 Is Almost Here: Let&#39;s Refresh Our Memories     - CNET](https://www.cnet.com/culture/entertainment/carnival-row-season-2-is-almost-here-lets-jog-our-memories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Microsoft Office for Mac Home &amp; Business 2021 for $29.99 - limited time offer](https://appleinsider.com/articles/23/01/23/get-microsoft-office-for-mac-home-business-2021-for-2999---limited-time-offer?utm_medium=rss)
+ - [Another ultra-premium phone could be getting a one-inch camera sensor](https://www.androidauthority.com/oppo-find-x6-3273576/)
+ - [Apple TV+ Timothee Chalamet ad campaign continues with &#39;A Taste&#39;](https://appleinsider.com/articles/23/01/30/apple-tv-timothee-chalamet-ad-campaign-continues-with-a-taste?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
