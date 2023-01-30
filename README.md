@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 4 will finally have some competition at MWC](https://www.androidauthority.com/honor-magic-vs-foldable-galaxy-z-fold-4-3273382/)
- - [The English Premier League strikes a four-year deal with blockchain fantasy sports startup Sorare; sources say Sorare will pay tens of millions per year &lpar;Financial Times&rpar;](http://www.techmeme.com/230130/p7#a230130p7)
- - [South Korea&#39;s K-pop industry is embracing the metaverse, expanding on commonplace virtual counterparts for artists, including by creating the virtual band Mave &lpar;New York Times&rpar;](http://www.techmeme.com/230130/p6#a230130p6)<!-- TECH:END -->
+ - [Sources: key Apple supplier Jabil begins making AirPods enclosures, or plastic bodies, in India before shipping them to China and Vietnam for assembly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230130/p9#a230130p9)
+ - [Inside Apple Third Street Promenade: a luxe temple in SoCal](https://appleinsider.com/articles/23/01/30/inside-apple-third-street-promenade-a-luxe-temple-in-socal?utm_medium=rss)
+ - [A profile of Jonathan Kanter, the DOJ&#39;s assistant AG for antitrust, a longtime Google foe who filed the US anti-monopoly lawsuit to break up its ad business &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p8#a230130p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
