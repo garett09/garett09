@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
- - 🚯 [Mark Lutchman](http://9gag.com/gag/anzgX6q)
- - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
+ - 🚖 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
+ - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)<!-- MEMES:END -->
 
 --- 
 
