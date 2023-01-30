@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 🚯 [Oblivion](http://9gag.com/gag/a8q1W7p)
- - 🚯 [Coordination challenge](http://9gag.com/gag/aRErw7A)<!-- MEMES:END -->
+ - 🚖 [When you&#39;re horny](http://9gag.com/gag/aZD0ABW)
+ - 🚯 [Who was that?](http://9gag.com/gag/awZzNWD)
+ - 🚯 [Supplies](http://9gag.com/gag/aEq8dZx)<!-- MEMES:END -->
 
 --- 
 
