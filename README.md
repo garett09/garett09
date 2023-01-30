@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)
- - 🚯 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
+ - 🚖 [At the annual awards for the best Hispanic streamer they put the chat for a second and this is what was seen:](http://9gag.com/gag/aRErPq5)
+ - 🚯 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
+ - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 --- 
 
