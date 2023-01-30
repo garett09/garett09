@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The cyberpunk future looks upsettingly meaty](https://www.pcgamer.com/the-cyberpunk-future-looks-upsettingly-meaty)
  - [Looks like Amazon&#39;s making a Tomb Raider movie and series to go with its game](https://www.pcgamer.com/looks-like-amazons-making-a-tomb-raider-movie-and-series-to-go-with-its-game)
- - [HyperX&#39;s January keycap was a cute winter kitty and I missed it](https://www.pcgamer.com/hyperxs-january-keycap-was-a-cute-winter-kitty-and-i-missed-it)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [HyperX&#39;s January keycap was a cute winter kitty and I missed it](https://www.pcgamer.com/hyperxs-january-keycap-was-a-cute-winter-kitty-and-i-missed-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
