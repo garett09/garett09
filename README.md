@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
- - 🚯 [Criminal minds](http://9gag.com/gag/a9q1MzZ)<!-- MEMES:END -->
+ - 🚖 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
+ - 🚯 [Debbie Harry, 1977](http://9gag.com/gag/a4oEMEQ)<!-- MEMES:END -->
 
 --- 
 
