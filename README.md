@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 🚖 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)
+ - 🚯 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
  - 🚯 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
 
 --- 
