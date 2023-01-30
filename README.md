@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Movie&#39;s Donkey Kong Voice Is Just Seth Rogen](https://kotaku.com/super-mario-bros-movie-trailer-seth-rogen-donkey-kong-1850046619)
- - [This rendercore shoot &#39;em up is the first Vampire Survivors riff to really make me feel something](https://www.pcgamer.com/this-rendercore-shoot-em-up-is-the-first-vampire-survivors-riff-to-really-make-me-feel-something)
- - [Every type of infected in The Last of Us](https://www.polygon.com/23570026/the-last-of-us-infected-zombies-all-types)<!-- GAME:END -->
+ - [Dead Island 2 will have cards instead of a skill tree](https://www.pcgamer.com/dead-island-2-will-have-cards-instead-of-a-skill-tree)
+ - [A surreal first person adventure based on a cult animated series just dropped its first gameplay trailer](https://www.pcgamer.com/a-surreal-first-person-adventure-based-on-a-cult-animated-series-just-dropped-its-first-gameplay-trailer)
+ - [Thank You, Hi-Fi Rush, For Coming Out Of Nowhere](https://kotaku.com/hi-fi-rush-bethesda-marketing-trailer-release-xbox-pc-1850046838)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
