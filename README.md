@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
- - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)<!-- MEMES:END -->
+ - 🚖 [Why am I not surprised..](http://9gag.com/gag/armn4BK)
+ - 🚯 [Family arrested at a #Krasnodar restaurant `Na Drovoi` for having an anti-war conversation. Person overheard Olesya &amp; Alexei Ovchinnikov&#39;s table conversation and called the police. Police arrested them at the restaurant and took away their 9-year-old child.](http://9gag.com/gag/agogG2q)
+ - 🚯 [And the Game of the Year goes to...](http://9gag.com/gag/aQEX80z)<!-- MEMES:END -->
 
 --- 
 
