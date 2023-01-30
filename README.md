@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: key Apple supplier Jabil begins making AirPods enclosures, or plastic bodies, in India before shipping them to China and Vietnam for assembly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230130/p9#a230130p9)
- - [Inside Apple Third Street Promenade: a luxe temple in SoCal](https://appleinsider.com/articles/23/01/30/inside-apple-third-street-promenade-a-luxe-temple-in-socal?utm_medium=rss)
- - [A profile of Jonathan Kanter, the DOJ&#39;s assistant AG for antitrust, a longtime Google foe who filed the US anti-monopoly lawsuit to break up its ad business &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p8#a230130p8)<!-- TECH:END -->
+ - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
+ - [How to Extend Your Eero Mesh With Amazon Echo Speakers &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-amazon-echo-speakers-as-eero-wi-fi-extenders/)
+ - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
