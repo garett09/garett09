@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biggest reveal\u2026.. ever!](http://9gag.com/gag/aBd2DVD)
- - 🚯 [That\u2019s why I smile ladies](http://9gag.com/gag/aqeG2LZ)
- - 🚯 [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)<!-- MEMES:END -->
+ - 🚖 [In Japan, they put a barcode in the meat package that darkens when the meat spoils, reacting to ammonia. When it darkens, the barcode is unreadable.](http://9gag.com/gag/ajVg6vQ)
+ - 🚯 [Meanwhile in the Nordics](http://9gag.com/gag/aGEzVOz)
+ - 🚯 [Movie&#39;s name is Top Secret](http://9gag.com/gag/a8q1jKY)<!-- MEMES:END -->
 
 --- 
 
