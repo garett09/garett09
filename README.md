@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft says Sony isn&#39;t telling the truth to EU regulators about Call of Duty](https://www.pcgamer.com/microsoft-says-sony-isnt-telling-the-truth-to-eu-regulators-about-call-of-duty)
- - [HBO&#39;s The Last Of Us Reclaims The Queerness Its World Forgot](https://kotaku.com/last-of-us-hbo-bill-frank-gay-nick-offerman-bartlett-1850035741)
- - [Where to find the Dead Space Peng statue](https://www.pcgamer.com/dead-space-peng-location)<!-- GAME:END -->
+ - [The Last Of US TV Show Creators Explain Massive Change From The Game](https://kotaku.com/last-us-hbo-show-bill-frank-neil-druckman-craig-mazin-1850048289)
+ - [A major Street Fighter tournament is ditching PlayStations in favour of PC](https://www.pcgamer.com/a-major-street-fighter-tournament-is-ditching-playstations-in-favour-of-pc)
+ - [James Cameron and Hayao Miyazaki’s beautiful cursed dreams](https://www.polygon.com/23574291/james-cameron-avatar-war-nature-hayao-miyazaki)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
