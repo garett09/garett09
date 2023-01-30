@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 🚯 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - 🚯 [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)<!-- MEMES:END -->
+ - 🚖 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
+ - 🚯 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 🚯 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)<!-- MEMES:END -->
 
 --- 
 
