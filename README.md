@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At the annual awards for the best Hispanic streamer they put the chat for a second and this is what was seen:](http://9gag.com/gag/aRErPq5)
- - 🚯 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
- - 🚯 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
+ - 🚖 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 🚯 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
+ - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 --- 
 
