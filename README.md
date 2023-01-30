@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can finally battle your friends in Marvel Snap this week](https://www.polygon.com/23578288/marvel-snap-battle-mode-friends-multiplayer)
- - [Spongebob’s New Game Isn’t Quite The Sequel To Battle For Bikini Bottom I Wanted](https://kotaku.com/spongebob-squarepants-cosmic-shake-review-xbox-ps5-1850049425)
- - [There’s a Smash Bros. fight in the Mario movie](https://www.polygon.com/23578167/mario-bros-movie-trailer-smash-bros-donkey-kong-seth-rogen)<!-- GAME:END -->
+ - [Miami Marlins Star Outfielder, Jazz Chisholm Jr., Will Grace the Cover of MLB The Show 23](https://news.xbox.com/en-us/2023/01/30/mlb-the-show-23-cover-athlete-announce/)
+ - [Mister Sinister makes destroying the X-Men, Avengers, Eternals, and Thanos look downright fabulous](https://www.polygon.com/2023/1/30/23574771/x-men-2011-sins-of-sinister-marvel-crossover)
+ - [Marie Kondo exiting her Marie Kondo phase is totally OK](https://www.polygon.com/23578292/marie-kondo-given-up-tidying-sparks-joy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
