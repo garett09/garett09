@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone 2&#39;s wiping DMZ progress and players don&#39;t quite know how to feel about it](https://www.pcgamer.com/warzone-2s-wiping-dmz-progress-and-players-dont-quite-know-how-to-feel-about-it)
- - [This Lego Intel Arc A750 GPU has a working fan made of meat cleavers](https://www.pcgamer.com/this-lego-intel-arc-a750-gpu-has-a-working-fan-made-out-of-meat-cleavers)
- - [Assassin&#39;s Creed artist smuggles complaint into comic asking if &#39;someone can explain how to write this shit&#39;](https://www.pcgamer.com/assassins-creed-artist-smuggles-complaint-into-comic-asking-if-someone-can-explain-how-to-write-this-shit)<!-- GAME:END -->
+ - [Seeing the world of Horizon Call of the Mountain through new eyes](https://blog.playstation.com/2023/01/30/seeing-the-world-of-horizon-call-of-the-mountain-through-new-eyes/)
+ - [How to complete the Innovating the Engine quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-innovating-the-engine)
+ - [Warzone 2&#39;s wiping DMZ progress and players don&#39;t quite know how to feel about it](https://www.pcgamer.com/warzone-2s-wiping-dmz-progress-and-players-dont-quite-know-how-to-feel-about-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
