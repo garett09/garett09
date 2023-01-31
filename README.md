@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [2023 HomePod review roundup: similar sound, same price](https://appleinsider.com/articles/23/01/31/2023-homepod-review-roundup-similar-sound-same-price?utm_medium=rss)
- - [A Cheese Expert Explains How to Find Great Cheese for Cheap     - CNET](https://www.cnet.com/news/cheese-expert-on-how-to-find-great-cheese-for-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU wants to hammer big tech &amp; streamers with 5G build bill](https://appleinsider.com/articles/23/01/31/eu-wants-to-hammer-big-tech-streamers-with-5g-build-bill?utm_medium=rss)
+ - [Instagram’s co-founders are back with Artifact, a kind of TikTok for text](https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app)
+ - [The Dead Space remake works on Steam Deck now](https://www.theverge.com/2023/1/31/23579574/dead-space-remake-steam-deck-support-hotfix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
