@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
- - 🚯 [Love this serie](http://9gag.com/gag/anzgjxb)
- - 🚯 [Gadsenglappern](http://9gag.com/gag/ap9gQzb)<!-- MEMES:END -->
+ - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
+ - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)<!-- MEMES:END -->
 
 --- 
 
