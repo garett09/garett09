@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ear](http://9gag.com/gag/aQEX9O2)
+ - 🚖 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
  - 🚯 [Love this serie](http://9gag.com/gag/anzgjxb)
- - 🚯 [Strong independent women move Appliances with the best techniques,](http://9gag.com/gag/amAgY6j)<!-- MEMES:END -->
+ - 🚯 [Gadsenglappern](http://9gag.com/gag/ap9gQzb)<!-- MEMES:END -->
 
 --- 
 
