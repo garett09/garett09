@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [January is now the only good movie month](https://www.polygon.com/23564509/january-movies-2023-best-month)
- - [Cyberpunk 2077 patch delivers DLSS 3 ahead of painstakingly extreme ray tracing mode](https://www.pcgamer.com/cyberpunk-2077-patch-delivers-dlss-3-ahead-of-painstakingly-extreme-ray-tracing-mode)
- - [Fortnite’s next Dragon Ball Super collab introduces Gohan and Piccolo](https://www.polygon.com/fortnite/23579538/fortnite-x-dragon-ball-super-2023-event-trailer-gameplay-details)<!-- GAME:END -->
+ - [Age of Empires II: Definitive Edition on Console is Out Now, Includes Optimized Controls and New Tutorials](https://news.xbox.com/en-us/2023/01/31/age-of-empires-2-definitive-edition-on-console-available-now/)
+ - [7 New Destiny 2 Exotics Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-exotics-strand-stasis-winterbite-1850053531)
+ - [The 20-inch Pokémon Squishmallows are absolutely massive](https://www.polygon.com/23579586/pokemon-squishmallow-pikachu-gengar-20-inch-jazwares)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
