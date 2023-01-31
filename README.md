@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
- - 🚯 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)<!-- MEMES:END -->
+ - 🚖 [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 🚯 [Lucky for the gentleman that his domestic violence `incident` was caught on camera.](http://9gag.com/gag/agogGXx)
+ - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
 
 --- 
 
