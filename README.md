@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
- - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)<!-- MEMES:END -->
+ - 🚖 [Love this serie](http://9gag.com/gag/anzgjxb)
+ - 🚯 [Dead man walking.](http://9gag.com/gag/a6q1VK9)
+ - 🚯 [How many hours flying experience do you have? Pilot: `Yes.`](http://9gag.com/gag/a2K14ow)<!-- MEMES:END -->
 
 --- 
 
