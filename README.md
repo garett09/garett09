@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 🚯 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - 🚯 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
+ - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 🚯 [Lucky for the gentleman that his domestic violence `incident` was caught on camera.](http://9gag.com/gag/agogGXx)
+ - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)<!-- MEMES:END -->
 
 --- 
 
