@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch social enterprise Fairphone, which makes sustainable, modular consumer electronics, raised &amp;euro;49M in &quot;growth capital&quot;, bringing its total funding to ~&amp;euro;86.6M &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230131/p13#a230131p13)
- - [Why Bother Bringing Back the Dodo?](https://www.wired.com/story/colossal-dodo-deextinction/)
- - [You Really Need to Update Firefox and Android Right Now](https://www.wired.com/story/firefox-android-security-patch-critical-update-january-2023/)<!-- TECH:END -->
+ - [A look at the history of generative AI and developments that paved the way for breakthroughs, including CUDA, convolutional neural networks, and transformers &lpar;Haomiao Huang/Ars Technica&rpar;](http://www.techmeme.com/230131/p15#a230131p15)
+ - [Raycon Everyday Earbuds &lpar;E25&rpar; Review: Not Just for YouTubers](https://www.wired.com/review/raycon-everyday-earbuds/)
+ - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
