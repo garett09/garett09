@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
- - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
+ - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 🚯 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)<!-- MEMES:END -->
 
 --- 
 
