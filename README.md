@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This New Fantasy Beat &#39;Em Up Is Like Dragon&#39;s Crown With Druids](https://kotaku.com/helvetii-team-kwakwa-vanillaware-odin-sphere-pc-switch-1850049685)
- - [Report: Sony Slashes PlayStation VR2 Production After Disappointing Preorders](https://kotaku.com/playstation-vr2-price-preorder-sony-ps5-virtual-reality-1850052811)
- - [Alice Is Missing expansion takes the RPG’s silent storytelling in challenging directions](https://www.polygon.com/23577920/alice-is-missing-expansion-silent-falls-spenser-starke-interview)<!-- GAME:END -->
+ - [January is now the only good movie month](https://www.polygon.com/23564509/january-movies-2023-best-month)
+ - [Cyberpunk 2077 patch delivers DLSS 3 ahead of painstakingly extreme ray tracing mode](https://www.pcgamer.com/cyberpunk-2077-patch-delivers-dlss-3-ahead-of-painstakingly-extreme-ray-tracing-mode)
+ - [Fortnite’s next Dragon Ball Super collab introduces Gohan and Piccolo](https://www.polygon.com/fortnite/23579538/fortnite-x-dragon-ball-super-2023-event-trailer-gameplay-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
