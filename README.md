@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valentine&#39;s Day gift ideas for the tech lover in your life](https://appleinsider.com/articles/23/01/31/valentines-day-gift-ideas-for-the-tech-lover-in-your-life?utm_medium=rss)
- - [OpenAI releases a free web-based tool to help determine if text was written by a human or a machine, giving a score of one to five based on its confidence level &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230131/p24#a230131p24)
- - [A look at Microsoft&#39;s 343 Industries, the prized studio behind Halo, after a leadership overhaul, layoffs, and more; sources detail a pivot to Unreal Engine &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230131/p23#a230131p23)<!-- TECH:END -->
+ - [Paramount+ and Showtime streaming services are merging](https://appleinsider.com/articles/23/01/31/paramount-and-showtime-streaming-services-are-merging?utm_medium=rss)
+ - [20.5-inch MacBook Pro with foldable display rumored for 2025, no folding iPad in 2024](https://appleinsider.com/articles/23/01/31/205-inch-macbook-pro-with-foldable-display-rumored-for-2025-no-folding-ipad-in-2024?utm_medium=rss)
+ - [A look at US cases that may define the bounds of free speech online, including Gonzalez v. Google, Twitter v. Taamneh, and a fight over CA&#39;s kid safety law &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230131/p27#a230131p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
