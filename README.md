@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox, Nintendo, and Sony reportedly skipping E3 2023](https://www.polygon.com/23579327/xbox-nintendo-sony-skipping-e3-2023)
- - [Japan officially designates today Final Fantasy 7 Day](https://www.pcgamer.com/japan-officially-designates-today-final-fantasy-7-day)
- - [Sony&#39;s expecting a severe drop in PSVR 2 sales from a projected 2 million](https://www.pcgamer.com/sonys-expecting-a-severe-drop-in-psvr-2-sales-from-a-projected-2-million)<!-- GAME:END -->
+ - [Avatar: The Last Airbender’s new gacha RPG launches](https://www.polygon.com/23578604/avatar-last-airbender-generations-android-ios-release-date)
+ - [Deceive Inc. is a groovy game of deception and subterfuge – coming March 21](https://blog.playstation.com/2023/01/31/deceive-inc-is-a-groovy-game-of-deception-and-subterfuge-coming-march-21/)
+ - [Xbox, Nintendo, and Sony reportedly skipping E3 2023](https://www.polygon.com/23579327/xbox-nintendo-sony-skipping-e3-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
