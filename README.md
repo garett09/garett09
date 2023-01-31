@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
- - 🚯 [MMA Fighter vs Dog.](http://9gag.com/gag/a1P1Aob)<!-- MEMES:END -->
+ - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 🚯 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
 
 --- 
 
