@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge allows the names of the two people who posted SBF&#39;s $250M bail to be made public, but stays the ruling until at least February 7 expecting an appeal &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230131/p3#a230131p3)
- - [Meta, Google, and Amazon leadership are conjuring their companies&#39; &quot;scrappy&quot; startup roots in internal messaging, asking staff to work harder or face layoffs &lpar;Vox&rpar;](http://www.techmeme.com/230131/p2#a230131p2)
- - [The latest T-Mobile breach affected Google Fi customers too](https://www.androidauthority.com/t-mobile-breach-google-fi-user-data-3273310/)<!-- TECH:END -->
+ - [Poll: Do you use your phone in the shower or bath?](https://www.androidauthority.com/use-phone-shower-bath-poll-3273964/)
+ - [Samsung reports Q4 mobile profit of ~$1.38B, down from ~$2.15B a year earlier, but says its 2023 chip investment will be similar to 2022, in contrast to rivals &lpar;Reuters&rpar;](http://www.techmeme.com/230131/p5#a230131p5)
+ - [Facebook can secretly kill your phone batteries, former employee claims](https://www.androidauthority.com/facebook-kill-smartphone-batteries-3273949/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
