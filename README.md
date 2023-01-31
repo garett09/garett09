@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Huge Dong Makes Appearance During Streaming Awards Show](https://kotaku.com/thegrefg-premios-esland-streamer-twitch-dong-wang-dick-1850051103)
  - [Dead Space fans think &#39;indecipherable&#39; New Game+ log points to more remakes in the future](https://www.pcgamer.com/dead-space-fans-think-indecipherable-new-game-log-points-to-more-remakes-in-the-future)
- - [This hilarious game is made of 56 frantic minigames that you only need a single button to play](https://www.pcgamer.com/this-hilarious-game-is-made-of-56-frantic-minigames-that-you-only-need-a-single-button-to-play)
- - [Report: Microsoft, Sony &amp; Nintendo All Skipping E3 2023](https://kotaku.com/xbox-playstation-nintendo-skipping-e3-2023-ditch-pass-1850051216)<!-- GAME:END -->
+ - [This hilarious game is made of 56 frantic minigames that you only need a single button to play](https://www.pcgamer.com/this-hilarious-game-is-made-of-56-frantic-minigames-that-you-only-need-a-single-button-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
