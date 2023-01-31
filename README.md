@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard exec says The Last of Us&#39; success on HBO proves the Microsoft buyout should go through](https://www.pcgamer.com/activision-blizzard-exec-says-the-last-of-us-success-on-hbo-proves-the-microsoft-buyout-should-go-through)
- - [The Crew 3 is real and an announcement is coming tomorrow](https://www.pcgamer.com/the-crew-3-is-real-and-an-announcement-is-coming-tomorrow)
- - [Meet The Man Who Got Kadabra Banned From Pokémon For 20 Years](https://kotaku.com/pokemon-tcg-uri-geller-kadabra-card-ban-nintendo-1850050358)<!-- GAME:END -->
+ - [Dead Space fans think &#39;indecipherable&#39; New Game+ log points to more remakes in the future](https://www.pcgamer.com/dead-space-fans-think-indecipherable-new-game-log-points-to-more-remakes-in-the-future)
+ - [This hilarious game is made of 56 frantic minigames that you only need a single button to play](https://www.pcgamer.com/this-hilarious-game-is-made-of-56-frantic-minigames-that-you-only-need-a-single-button-to-play)
+ - [Report: Microsoft, Sony &amp; Nintendo All Skipping E3 2023](https://kotaku.com/xbox-playstation-nintendo-skipping-e3-2023-ditch-pass-1850051216)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
