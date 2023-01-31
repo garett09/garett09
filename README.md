@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you use your phone in the shower or bath?](https://www.androidauthority.com/use-phone-shower-bath-poll-3273964/)
- - [Samsung reports Q4 mobile profit of ~$1.38B, down from ~$2.15B a year earlier, but says its 2023 chip investment will be similar to 2022, in contrast to rivals &lpar;Reuters&rpar;](http://www.techmeme.com/230131/p5#a230131p5)
- - [Facebook can secretly kill your phone batteries, former employee claims](https://www.androidauthority.com/facebook-kill-smartphone-batteries-3273949/)<!-- TECH:END -->
+ - [Huge leak reveals the full list of One UI 5.1 features &lpar;Updated&rpar;](https://www.androidauthority.com/one-ui-5-1-features-changes-availability-3273308/)
+ - [Amazon&#39;s third-party &quot;seller services&quot;, a large and growing part of the company&#39;s revenue that is also profitable, has filled its Marketplace with junk products &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/230131/p6#a230131p6)
+ - [Poll: Do you use your phone in the shower or bath?](https://www.androidauthority.com/use-phone-shower-bath-poll-3273964/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
