@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount+ and Showtime streaming services are merging](https://appleinsider.com/articles/23/01/31/paramount-and-showtime-streaming-services-are-merging?utm_medium=rss)
- - [20.5-inch MacBook Pro with foldable display rumored for 2025, no folding iPad in 2024](https://appleinsider.com/articles/23/01/31/205-inch-macbook-pro-with-foldable-display-rumored-for-2025-no-folding-ipad-in-2024?utm_medium=rss)
- - [A look at US cases that may define the bounds of free speech online, including Gonzalez v. Google, Twitter v. Taamneh, and a fight over CA&#39;s kid safety law &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230131/p27#a230131p27)<!-- TECH:END -->
+ - [James Gunn’s DC Universe will debut a new Batman movie, the Green Lantern Corps, and a Booster Gold series](https://www.theverge.com/entertainment/2023/1/31/23579837/dc-studios-james-gunn-batman-superman-legacy-supergirl-the-authority-paradise-lost)
+ - [PayPal says it will lay off around 2,000 employees, about 7% of its workforce, &quot;over the coming weeks&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/230131/p28#a230131p28)
+ - [Paramount+ and Showtime streaming services are merging](https://appleinsider.com/articles/23/01/31/paramount-and-showtime-streaming-services-are-merging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
