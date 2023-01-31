@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires II: Definitive Edition on Console is Out Now, Includes Optimized Controls and New Tutorials](https://news.xbox.com/en-us/2023/01/31/age-of-empires-2-definitive-edition-on-console-available-now/)
- - [7 New Destiny 2 Exotics Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-exotics-strand-stasis-winterbite-1850053531)
- - [The 20-inch Pokémon Squishmallows are absolutely massive](https://www.polygon.com/23579586/pokemon-squishmallow-pikachu-gengar-20-inch-jazwares)<!-- GAME:END -->
+ - [Invisible players run rampant in Escape from Tarkov—&#39;What an absolute circus&#39;](https://www.pcgamer.com/invisible-players-run-rampant-in-escape-from-tarkovwhat-an-absolute-circus)
+ - [It’s a boy! The Sims 4’s infant update arrives in March](https://www.polygon.com/23579807/the-sims-4-infant-baby-update-release-date-announcement-march)
+ - [Industries of Titan review](https://www.pcgamer.com/industries-of-titan-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
