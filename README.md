@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s why I smile ladies](http://9gag.com/gag/aqeG2LZ)
- - 🚯 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
- - 🚯 [The ancient library of Tibet. Only 5% has been translated](http://9gag.com/gag/aqeGbmM)<!-- MEMES:END -->
+ - 🚖 [The Best Jacket In 2023!](http://9gag.com/gag/a2K1mRw)
+ - 🚯 [Right in the feels .](http://9gag.com/gag/aeQgGxp)
+ - 🚯 [This is me now.](http://9gag.com/gag/abvg6nE)<!-- MEMES:END -->
 
 --- 
 
