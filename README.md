@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 Stay Human Anniversary Update: New Content, Features, and Fixes](https://news.xbox.com/en-us/2023/01/31/dying-light-2-stay-human-anniversary-update-new-content-features-and-fixes/)
- - [Terraria devs want 2023 to be &#39;the year of Terraria crossplay&#39;](https://www.pcgamer.com/terraria-devs-want-2023-to-be-the-year-of-terraria-crossplay)
- - [Your questions about Marvel Snap’s battle mode, answered](https://www.polygon.com/guides/23568522/marvel-snap-friendly-battle-update)<!-- GAME:END -->
+ - [The Most Anticipated Games of 2023 &lpar;According to the Xbox Wire Team&rpar;](https://news.xbox.com/en-us/2023/01/31/most-anticipated-games-2023/)
+ - [This Fallout 4 synth power armor mod looks so sick it makes me want to join the Institute](https://www.pcgamer.com/this-fallout-4-synth-power-armor-mod-looks-so-sick-it-makes-me-want-to-join-the-institute)
+ - [Rumbleverse, the battle royale brawler, is shutting down](https://www.polygon.com/23577658/rumbleverse-shutdown-battle-royale-epic-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
