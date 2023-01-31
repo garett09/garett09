@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 2: Everything we know and what we want to see](https://www.androidauthority.com/apple-watch-ultra-2-release-date-rumors-price-specs-3273020/)
- - [What is Disney Plus with ads?](https://www.androidauthority.com/what-is-disney-plus-with-ads-3273776/)
- - [Apple &amp; Google will have to tighten health app requirements, say researchers](https://appleinsider.com/articles/23/01/31/apple-google-will-have-to-tighten-health-app-requirements-say-researchers?utm_medium=rss)<!-- TECH:END -->
+ - [Valentine&#39;s Day gift ideas for the tech lover in your life](https://appleinsider.com/articles/23/01/31/valentines-day-gift-ideas-for-the-tech-lover-in-your-life?utm_medium=rss)
+ - [OpenAI releases a free web-based tool to help determine if text was written by a human or a machine, giving a score of one to five based on its confidence level &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230131/p24#a230131p24)
+ - [A look at Microsoft&#39;s 343 Industries, the prized studio behind Halo, after a leadership overhaul, layoffs, and more; sources detail a pivot to Unreal Engine &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230131/p23#a230131p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
