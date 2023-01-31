@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 is finally turning babies into real Sims on March 14](https://www.pcgamer.com/sims-4-is-finally-turning-babies-into-real-sims-on-march-14)
- - [The next Sims game &#39;is not an MMO&#39; Maxis clarifies](https://www.pcgamer.com/the-next-sims-game-is-not-an-mmo-maxis-clarifies)
- - [Seven Tips to Become the Best Inkulinati Master](https://news.xbox.com/en-us/2023/01/31/seven-tips-to-become-the-best-inkulinati-master/)<!-- GAME:END -->
+ - [Threadlings? Tangles? Lashes? New Destiny 2: Lightfall trailer focuses on exotic gear and Strand effects](https://www.pcgamer.com/threadlings-tangles-lashes-new-destiny-2-lightfall-trailer-focuses-on-exotic-gear-and-strand-effects)
+ - [Marvel Snap&#39;s Most Hated Card Gets Another Huge Change](https://kotaku.com/marvel-snap-leader-nerf-update-wolverine-battle-mode-1850054974)
+ - [The Sims 4’s new patch adds hearing aids, binders, and more inclusive options](https://www.polygon.com/23579998/the-sims-4-patch-medical-wearables-shapewear-binders-trans-affirming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
