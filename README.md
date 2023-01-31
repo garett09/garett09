@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU wants to hammer big tech &amp; streamers with 5G build bill](https://appleinsider.com/articles/23/01/31/eu-wants-to-hammer-big-tech-streamers-with-5g-build-bill?utm_medium=rss)
- - [Instagram’s co-founders are back with Artifact, a kind of TikTok for text](https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app)
- - [The Dead Space remake works on Steam Deck now](https://www.theverge.com/2023/1/31/23579574/dead-space-remake-steam-deck-support-hotfix)<!-- TECH:END -->
+ - [Apple Watch Ultra 2: Everything we know and what we want to see](https://www.androidauthority.com/apple-watch-ultra-2-release-date-rumors-price-specs-3273020/)
+ - [What is Disney Plus with ads?](https://www.androidauthority.com/what-is-disney-plus-with-ads-3273776/)
+ - [Apple &amp; Google will have to tighten health app requirements, say researchers](https://appleinsider.com/articles/23/01/31/apple-google-will-have-to-tighten-health-app-requirements-say-researchers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
