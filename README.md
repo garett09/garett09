@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - 🚯 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 🚯 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
+ - 🚖 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
+ - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 --- 
 
