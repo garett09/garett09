@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Payment card services company Marqeta agrees to acquire New York-based fintech infrastructure startup Power Finance for $223M, plus $52M subject to a milestone &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230130/p21#a230130p21)
- - [Apple execs face allegations of union-busting by NLRB](https://appleinsider.com/articles/23/01/30/apple-execs-face-allegations-of-union-busting-by-nlrb?utm_medium=rss)
- - [The US NLRB says comments by Apple executives and policies imposed on employees violate workers&#39; rights, after a complaint by a former Apple employee in 2021 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230130/p20#a230130p20)<!-- TECH:END -->
+ - [Samsung reports Q4 operating profit of ~$3.5B, down 69% YoY, its lowest since Q3 2014, and revenue of ~$57.3B, down 8% YoY, citing weak consumer demand &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/230130/p24#a230130p24)
+ - [A look at MetaBirkins, 100 NFTs created by a self-described entrepreneur and artist in 2021, as Herm&amp;egrave;s goes to court in NYC seeking to stop the use of its brand &lpar;Erin Mulvaney/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p23#a230130p23)
+ - [Sources: Microsoft, Nintendo, and Sony won&#39;t be part of E3 to be held in-person from June 13 to June 16, 2023; conference didn&#39;t happen in 2022 due to COVID-19 &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/230130/p22#a230130p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
