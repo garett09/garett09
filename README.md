@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goalkeeper used 110% of his brain](http://9gag.com/gag/ay29nAq)
- - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
- - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)<!-- MEMES:END -->
+ - 🚖 [Ear](http://9gag.com/gag/aQEX9O2)
+ - 🚯 [Love this serie](http://9gag.com/gag/anzgjxb)
+ - 🚯 [Strong independent women move Appliances with the best techniques,](http://9gag.com/gag/amAgY6j)<!-- MEMES:END -->
 
 --- 
 
