@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender’s new gacha RPG launches](https://www.polygon.com/23578604/avatar-last-airbender-generations-android-ios-release-date)
- - [Deceive Inc. is a groovy game of deception and subterfuge – coming March 21](https://blog.playstation.com/2023/01/31/deceive-inc-is-a-groovy-game-of-deception-and-subterfuge-coming-march-21/)
- - [Xbox, Nintendo, and Sony reportedly skipping E3 2023](https://www.polygon.com/23579327/xbox-nintendo-sony-skipping-e3-2023)<!-- GAME:END -->
+ - [This New Fantasy Beat &#39;Em Up Is Like Dragon&#39;s Crown With Druids](https://kotaku.com/helvetii-team-kwakwa-vanillaware-odin-sphere-pc-switch-1850049685)
+ - [Report: Sony Slashes PlayStation VR2 Production After Disappointing Preorders](https://kotaku.com/playstation-vr2-price-preorder-sony-ps5-virtual-reality-1850052811)
+ - [Alice Is Missing expansion takes the RPG’s silent storytelling in challenging directions](https://www.polygon.com/23577920/alice-is-missing-expansion-silent-falls-spenser-starke-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
