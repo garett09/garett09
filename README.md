@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love this serie](http://9gag.com/gag/anzgjxb)
- - 🚯 [Dead man walking.](http://9gag.com/gag/a6q1VK9)
- - 🚯 [How many hours flying experience do you have? Pilot: `Yes.`](http://9gag.com/gag/a2K14ow)<!-- MEMES:END -->
+ - 🚖 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
+ - 🚯 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
 
 --- 
 
