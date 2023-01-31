@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Threadlings? Tangles? Lashes? New Destiny 2: Lightfall trailer focuses on exotic gear and Strand effects](https://www.pcgamer.com/threadlings-tangles-lashes-new-destiny-2-lightfall-trailer-focuses-on-exotic-gear-and-strand-effects)
- - [Marvel Snap&#39;s Most Hated Card Gets Another Huge Change](https://kotaku.com/marvel-snap-leader-nerf-update-wolverine-battle-mode-1850054974)
- - [The Sims 4’s new patch adds hearing aids, binders, and more inclusive options](https://www.polygon.com/23579998/the-sims-4-patch-medical-wearables-shapewear-binders-trans-affirming)<!-- GAME:END -->
+ - [Dying Light 2 Stay Human Anniversary Update: New Content, Features, and Fixes](https://news.xbox.com/en-us/2023/01/31/dying-light-2-stay-human-anniversary-update-new-content-features-and-fixes/)
+ - [Terraria devs want 2023 to be &#39;the year of Terraria crossplay&#39;](https://www.pcgamer.com/terraria-devs-want-2023-to-be-the-year-of-terraria-crossplay)
+ - [Your questions about Marvel Snap’s battle mode, answered](https://www.polygon.com/guides/23568522/marvel-snap-friendly-battle-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
