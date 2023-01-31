@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
- - 🚯 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)<!-- MEMES:END -->
+ - 🚖 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
+ - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
+ - 🚯 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)<!-- MEMES:END -->
 
 --- 
 
