@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
- - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
- - 🚯 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
+ - 🚖 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
+ - 🚯 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 🚯 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)<!-- MEMES:END -->
 
 --- 
 
