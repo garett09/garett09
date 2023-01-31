@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
- - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
- - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
+ - 🚖 [Suicide by cop........ Nah. Suicide by Hunter](http://9gag.com/gag/a3Z1dp8)
+ - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - 🚯 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
 
 --- 
 
