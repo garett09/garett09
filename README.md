@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Best Jacket In 2023!](http://9gag.com/gag/a2K1mRw)
- - 🚯 [Right in the feels .](http://9gag.com/gag/aeQgGxp)
- - 🚯 [This is me now.](http://9gag.com/gag/abvg6nE)<!-- MEMES:END -->
+ - 🚖 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
 
 --- 
 
