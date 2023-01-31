@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [James Gunn’s DC Universe will debut a new Batman movie, the Green Lantern Corps, and a Booster Gold series](https://www.theverge.com/entertainment/2023/1/31/23579837/dc-studios-james-gunn-batman-superman-legacy-supergirl-the-authority-paradise-lost)
- - [PayPal says it will lay off around 2,000 employees, about 7% of its workforce, &quot;over the coming weeks&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/230131/p28#a230131p28)
- - [Paramount+ and Showtime streaming services are merging](https://appleinsider.com/articles/23/01/31/paramount-and-showtime-streaming-services-are-merging?utm_medium=rss)<!-- TECH:END -->
+ - [Apple won&#39;t guarantee advertising viewer counts for MLS Season Pass](https://appleinsider.com/articles/23/01/31/apple-wont-guarantee-advertising-viewer-counts-for-mls-season-pass?utm_medium=rss)
+ - [The real aim of the Big Tech layoffs is to bring workers to heel and cultivate an insecure workforce, as an actual recession has yet to hit the tech sector &lpar;Brian Merchant/Los Angeles Times&rpar;](http://www.techmeme.com/230131/p30#a230131p30)
+ - [Apple M1 vs M2 chips: How do they compare?](https://www.androidauthority.com/apple-m1-vs-m2-3274309/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
