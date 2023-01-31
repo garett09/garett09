@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Invisible players run rampant in Escape from Tarkov—&#39;What an absolute circus&#39;](https://www.pcgamer.com/invisible-players-run-rampant-in-escape-from-tarkovwhat-an-absolute-circus)
- - [It’s a boy! The Sims 4’s infant update arrives in March](https://www.polygon.com/23579807/the-sims-4-infant-baby-update-release-date-announcement-march)
- - [Industries of Titan review](https://www.pcgamer.com/industries-of-titan-review)<!-- GAME:END -->
+ - [Sims 4 is finally turning babies into real Sims on March 14](https://www.pcgamer.com/sims-4-is-finally-turning-babies-into-real-sims-on-march-14)
+ - [The next Sims game &#39;is not an MMO&#39; Maxis clarifies](https://www.pcgamer.com/the-next-sims-game-is-not-an-mmo-maxis-clarifies)
+ - [Seven Tips to Become the Best Inkulinati Master](https://news.xbox.com/en-us/2023/01/31/seven-tips-to-become-the-best-inkulinati-master/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
