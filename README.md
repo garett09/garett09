@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
- - 🚯 [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 🚖 [Oops](http://9gag.com/gag/aPgZyGB)
+ - 🚯 [Mark Lutchman](http://9gag.com/gag/anzgX6q)
  - 🚯 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
 
 --- 
