@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
- - 🚯 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)<!-- MEMES:END -->
+ - 🚖 [Gadsenglappern](http://9gag.com/gag/ap9gQzb)
+ - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
 
 --- 
 
