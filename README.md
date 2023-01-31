@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Spaceport at the Edge of the World](https://www.wired.com/story/scotland-village-spaceport-peatland/)
- - [Instagram launches Notes, its AIM-like text status feature, in Europe and Japan, delayed to comply with local laws, expanding on Asia, North America, and LatAm &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230131/p10#a230131p10)
- - [A draft EU proposal details plans to ask Netflix, Alphabet, and other &quot;large traffic generators&quot; to help pay for next-generation internet infrastructure &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230131/p9#a230131p9)<!-- TECH:END -->
+ - [Dutch social enterprise Fairphone, which makes sustainable, modular consumer electronics, raised &amp;euro;49M in &quot;growth capital&quot;, bringing its total funding to ~&amp;euro;86.6M &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230131/p13#a230131p13)
+ - [Why Bother Bringing Back the Dodo?](https://www.wired.com/story/colossal-dodo-deextinction/)
+ - [You Really Need to Update Firefox and Android Right Now](https://www.wired.com/story/firefox-android-security-patch-critical-update-january-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
