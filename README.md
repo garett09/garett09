@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI Filter Revealed My Secret Self](https://www.wired.com/story/ai-filter-beauty-tiktok/)
- - [A roundup of potential rivals to OpenAI&#39;s ChatGPT service: DeepMind&#39;s Sparrow, Google&#39;s LaMDA, Anthropic&#39;s Claude, and Character AI &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/230131/p16#a230131p16)
- - [Nothing Ear 2 leaks again: More like Nothing Ear 1 2023 Edition?](https://www.androidauthority.com/nothing-ear-2-design-features-3274104/)<!-- TECH:END -->
+ - [6 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [2023 HomePod review roundup: similar sound, same price](https://appleinsider.com/articles/23/01/31/2023-homepod-review-roundup-similar-sound-same-price?utm_medium=rss)
+ - [A Cheese Expert Explains How to Find Great Cheese for Cheap     - CNET](https://www.cnet.com/news/cheese-expert-on-how-to-find-great-cheese-for-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
