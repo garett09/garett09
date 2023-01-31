@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 🚯 [Lucky for the gentleman that his domestic violence `incident` was caught on camera.](http://9gag.com/gag/agogGXx)
- - 🚯 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)<!-- MEMES:END -->
+ - 🚖 [Goalkeeper used 110% of his brain](http://9gag.com/gag/ay29nAq)
+ - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)<!-- MEMES:END -->
 
 --- 
 
