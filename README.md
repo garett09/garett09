@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches its MLS Season Pass in over 100 territories, giving soccer fans access to all MLS matches, playoffs, and more for $14.99/month or $99/year &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/230201/p14#a230201p14)
- - [Jony Ive redesigns Comic Relief&#39;s iconic red nose [u]](https://appleinsider.com/articles/23/02/01/jony-ive-redesigns-comic-reliefs-iconic-red-nose?utm_medium=rss)
- - [Cincinnati cop fired for tracking ex with AirTag](https://appleinsider.com/articles/23/02/01/cincinnati-cop-fired-for-tracking-ex-with-airtag?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix lists its rules and exemptions to prevent password sharing, including that all devices should be on the same &quot;primary&quot; Wi-Fi at least once every 31 days &lpar;David Satin/The Streamable&rpar;](http://www.techmeme.com/230201/p17#a230201p17)
+ - [Indiana-based blockchain startup SIMBA Chain, which has worked on various US military projects, raised $30M from the US Air Force, after raising $1.5M in 2020 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230201/p16#a230201p16)
+ - [Fact-Checkers Are Scrambling to Fight Disinformation With AI](https://www.wired.com/story/fact-checkers-ai-chatgpt-misinformation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
