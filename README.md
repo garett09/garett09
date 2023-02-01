@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024 Apple Watch Ultra will get 10% larger display, claims sketchy report](https://appleinsider.com/articles/23/02/01/2024-apple-watch-ultra-will-get-10-larger-display-claims-sketchy-report?utm_medium=rss)
- - [Digital fingerprinting startup Addressable, which claims to have matched over 17M anonymous crypto wallets with social media accounts, raised a $7.5M seed &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230201/p24#a230201p24)
- - [Apple&#39;s iPhone is boiling oil resistant -- briefly](https://appleinsider.com/articles/23/02/01/apples-iphone-is-boiling-oil-resistant----briefly?utm_medium=rss)<!-- TECH:END -->
+ - [Pakistan &quot;degrades&quot; Wikipedia in the country for 48 hours for not removing &quot;sacrilegious contents&quot; and warns of a full block if it fails to remove such content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230201/p27#a230201p27)
+ - [A US judge amends Sam Bankman-Fried&#39;s bail terms, prohibiting him from contacting any current or former FTX or Alameda employees and bans Signal and other apps &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230201/p26#a230201p26)
+ - [Best Low-Interest Personal Loans for February 2023     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
