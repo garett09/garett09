@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doughnut-shaped laser beam used to create fibre optics from thin air](https://www.pcgamer.com/doughnut-shaped-laser-beam-used-to-create-fibre-optics-from-thin-air)
- - [8 anime to catch up on for 2023’s biggest releases](https://www.polygon.com/23560479/2023-best-anime-to-catch-up-on-demon-slayer-jujutsu-kaisen)
- - [Pokémon Squishmallows officially out at Walmart stores](https://www.polygon.com/pokemon/23543043/pokemon-squishmallow-walmart-target-rerelease)<!-- GAME:END -->
+ - [Dead Island 2 devs detail its gruesome procedural violence-modelling tech](https://www.pcgamer.com/dead-island-2-devs-detail-its-gruesome-procedural-violence-modelling-tech)
+ - [Nvidia publishes workaround to the Discord bug hobbling GPU memory](https://www.pcgamer.com/nvidia-publishes-workaround-to-the-discord-bug-hobbling-gpu-memory)
+ - [PS5 Creators: How Forspoken harnesses PS5’s power](https://blog.playstation.com/2023/02/01/ps5-creators-how-forspoken-harnesses-ps5s-power/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
