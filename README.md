@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pakistan &quot;degrades&quot; Wikipedia in the country for 48 hours for not removing &quot;sacrilegious contents&quot; and warns of a full block if it fails to remove such content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230201/p27#a230201p27)
- - [A US judge amends Sam Bankman-Fried&#39;s bail terms, prohibiting him from contacting any current or former FTX or Alameda employees and bans Signal and other apps &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230201/p26#a230201p26)
- - [Best Low-Interest Personal Loans for February 2023     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra vs Galaxy S23 Plus vs Galaxy S23: Which one to buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s23-plus-vs-galaxy-s23-3274088/)
+ - [Samsung debuts the $1,200+ Galaxy S23 Ultra, similar to the S22 Ultra but with a 200MP main camera, more robust image stabilization, and better battery life &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230201/p30#a230201p30)
+ - [Samsung Galaxy Unpacked 2023: all the news and updates from the event](https://www.theverge.com/23577653/samsung-galaxy-unpacked-2023-news-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
