@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - 🚯 [Best sound eva](http://9gag.com/gag/axoB1WY)
- - 🚯 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
+ - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 🚯 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)<!-- MEMES:END -->
 
 --- 
 
