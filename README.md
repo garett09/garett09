@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)
- - 🚯 [Wait ...what?](http://9gag.com/gag/aA0GdNo)
- - 🚯 [Best sound eva](http://9gag.com/gag/axoB1WY)<!-- MEMES:END -->
+ - 🚖 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - 🚯 [Hidden messages](http://9gag.com/gag/a4o17Dy)<!-- MEMES:END -->
 
 --- 
 
