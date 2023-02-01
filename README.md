@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
+ - 🚯 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
 
 --- 
 
