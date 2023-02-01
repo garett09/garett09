@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV Valentione’s Day 2023 event guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/2/1/23581794/valentiones-day-2023-quest-location-outfit-emote-emissary-eat-chocolate)
- - [Report: EA Cancels Joint Apex Legends And Titanfall Game](https://kotaku.com/titanfall-3-apex-legends-respawn-ea-cancelled-layoffs-1850061241)
- - [AI-Generated Seinfeld-Like Twitch ‘TV Show’ Is Peak Absurdity](https://kotaku.com/twitch-nothing-forever-ai-generated-seinfeld-dalle-show-1850061075)<!-- GAME:END -->
+ - [MrBeast&#39;s &#39;charity porn&#39; shows the morally complicated reality of YouTube philanthropy](https://www.pcgamer.com/mrbeasts-charity-porn-shows-the-morally-complicated-reality-of-youtube-philanthropy)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
+ - [It&#39;s Time For This Great, Forgotten Dead Space Game To Return](https://kotaku.com/dead-space-remake-phone-mobile-android-ios-rerelease-1850061662)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
