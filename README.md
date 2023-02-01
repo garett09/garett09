@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s new $249 GPU price wipes out Nvidia at the entry-level](https://www.pcgamer.com/intels-new-dollar249-gpu-price-wipes-out-nvidia-at-the-entry-level)
- - [Every new movie and show coming to Disney Plus in February](https://www.polygon.com/entertainment/2023/2/1/23578040/disney-plus-new-movies-tv-watch-february-2023)
- - [Xbox Celebrates Black History Month](https://news.xbox.com/en-us/2023/02/01/xbox-celebrates-black-history-month/)<!-- GAME:END -->
+ - [In Knock at the Cabin, the old M. Night Shyamalan haunts the new one](https://www.polygon.com/reviews/23581395/knock-at-the-cabin-review-m-night-shyamalan-dave-bautista)
+ - [Turns out an ungodly amount of hidden rabbits was my perfect wind-down game this week](https://www.pcgamer.com/turns-out-an-ungodly-amount-of-hidden-rabbits-was-my-perfect-wind-down-game-this-week)
+ - [Hold the Line in Gundam Evolution Season 3 – Defencer](https://news.xbox.com/en-us/2023/02/01/gundam-evolution-season-3-defencer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
