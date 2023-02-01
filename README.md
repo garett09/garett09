@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2 devs detail its gruesome procedural violence-modelling tech](https://www.pcgamer.com/dead-island-2-devs-detail-its-gruesome-procedural-violence-modelling-tech)
- - [Nvidia publishes workaround to the Discord bug hobbling GPU memory](https://www.pcgamer.com/nvidia-publishes-workaround-to-the-discord-bug-hobbling-gpu-memory)
- - [PS5 Creators: How Forspoken harnesses PS5’s power](https://blog.playstation.com/2023/02/01/ps5-creators-how-forspoken-harnesses-ps5s-power/)<!-- GAME:END -->
+ - [Intel&#39;s new $249 GPU price wipes out Nvidia at the entry-level](https://www.pcgamer.com/intels-new-dollar249-gpu-price-wipes-out-nvidia-at-the-entry-level)
+ - [Every new movie and show coming to Disney Plus in February](https://www.polygon.com/entertainment/2023/2/1/23578040/disney-plus-new-movies-tv-watch-february-2023)
+ - [Xbox Celebrates Black History Month](https://news.xbox.com/en-us/2023/02/01/xbox-celebrates-black-history-month/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
