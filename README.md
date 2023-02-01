@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta increases its share repurchase authorization by $40B and says it bought back $27.93B in stock in 2022 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230201/p42#a230201p42)
- - [Rokform Rugged iPad Case review: Strong protection in a slim casing](https://appleinsider.com/articles/23/02/01/rokform-rugged-ipad-case-review-strong-protection-in-a-slim-casing?utm_medium=rss)
- - [Meta takes a $4.2B restructuring charge in Q4, which includes costs for early office space termination, data center redesign, and severance for laid-off staff &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/230201/p41#a230201p41)<!-- TECH:END -->
+ - [More People Need to Watch This Highly Unnerving Netflix True Crime Movie     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-highly-unnerving-netflix-true-crime-movie/#ftag=CAD590a51e)
+ - [This Mars Rock Looks Like a Funky Chicken, and I Love It     - CNET](https://www.cnet.com/science/space/this-mars-rock-looks-like-a-funky-chicken-and-i-love-it/#ftag=CAD590a51e)
+ - [Facebook Parent Meta&#39;s Revenue Beats Expectations Amid Cost Cuts     - CNET](https://www.cnet.com/news/social-media/facebook-parent-metas-revenue-beats-expectations-amid-cost-cuts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
