@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone’s got a Triforce tattoo](https://www.polygon.com/zelda/23580122/legend-of-zelda-triforce-tattoo)
- - [Logan director may reimagine Swamp Thing for James Gunn’s DCU](https://www.polygon.com/23581571/swamp-thing-movie-dcu-director-james-mangold)
- - [Dead Space Remake Exploit Earns You Infinite Money, Ammo](https://kotaku.com/dead-space-infinite-money-exploit-pulse-rifle-ammo-1850060247)<!-- GAME:END -->
+ - [How Sea of Thieves pirates teamed up with the Parkinson’s Foundation](https://www.polygon.com/23580232/sea-of-thieves-parkinsons-foundation-charity-streaming)
+ - [Hitman’s new mode transforms it into one of the best roguelikes ever](https://www.polygon.com/reviews/23581384/hitman-3-freelancer-mode-roguelike-world-of-assassination)
+ - [Everyone’s got a Triforce tattoo](https://www.polygon.com/zelda/23580122/legend-of-zelda-triforce-tattoo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
