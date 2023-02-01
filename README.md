@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of nearly 25K US adults: 29.5% used Twitter in December 2022 and January 2023 vs. 32.4% in October 2022; Democrats&#39; usage fell as Republicans&#39; was flat &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/230131/p41#a230131p41)
- - [Intel is cutting 2023 employee compensation to preserve cash for investment, ranging from 5% of the base pay for mid-level managers to 25% for CEO Pat Gelsinger &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230131/p40#a230131p40)
- - [More People Should Watch This Incredibly Eerie Horror on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-incredibly-eerie-horror-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apex Legends Mobile is shutting down after less than a year](https://www.androidauthority.com/apex-legends-mobile-shutting-down-3273938/)
+ - [Sentra, which classifies cloud data according to sensitivity and tracks cloud data security, raised a $30M Series A led by Standard Investments &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230201/p2#a230201p2)
+ - [The Best TV Adaptations of Video Games, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-best-tv-adaptations-of-video-games-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
