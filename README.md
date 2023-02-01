@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - 🚯 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - 🚯 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)<!-- MEMES:END -->
+ - 🚖 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 🚯 [You had one rule private](http://9gag.com/gag/aYVrypO)
+ - 🚯 [Now that&#39;s too much](http://9gag.com/gag/agog5ZK)<!-- MEMES:END -->
 
 --- 
 
