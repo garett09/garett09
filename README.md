@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gadsenglappern](http://9gag.com/gag/ap9gQzb)
- - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
+ - 🚖 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
+ - 🚯 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 🚯 [Romantic vibes](http://9gag.com/gag/aqeGrAY)<!-- MEMES:END -->
 
 --- 
 
