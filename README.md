@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a major Pixel Buds A-Series pairing bug, but a fix is on the way](https://www.androidauthority.com/google-pixel-buds-a-series-pairing-bug-fix-3274607/)
- - [Egyptian microfinance lending and payments service MNT-Halan raised $260M in equity and $140M in debt via bond issuances at a ~$1B post-money valuation &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230201/p8#a230201p8)
- - [Western Digital raised $900M from Apollo Global and Elliott, sources say as a precursor to a merger with Japan&#39;s Kioxia, as the memory chip industry struggles &lpar;Bloomberg&rpar;](http://www.techmeme.com/230201/p7#a230201p7)<!-- TECH:END -->
+ - [A look at Spanish-language livestreaming growth on Twitch; the platform&#39;s audience for Spanish, its fastest-growing language, grew sixfold from 2019 to 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230201/p12#a230201p12)
+ - [Jony Ive redesigns Comic Relief&#39;s iconic red nose](https://appleinsider.com/articles/23/02/01/jony-ive-redesigns-comic-reliefs-iconic-red-nose?utm_medium=rss)
+ - [A report by the White House&#39;s NTIA describes Apple and Google as &quot;gatekeepers&quot; of mobile app stores and suggests legislation to improve competition and choice &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/230201/p11#a230201p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
