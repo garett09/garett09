@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [MAD WORLD](http://9gag.com/gag/adPgKKd)<!-- MEMES:END -->
+ - 🚖 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)
+ - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
+ - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
 
 --- 
 
