@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - 🚯 [Hidden messages](http://9gag.com/gag/a4o17Dy)<!-- MEMES:END -->
+ - 🚖 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
+ - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
+ - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 --- 
 
