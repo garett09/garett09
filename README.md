@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goalkeeper used 110% of his brain](http://9gag.com/gag/ay29nAq)
- - 🚯 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
+ - 🚖 [Best sound eva](http://9gag.com/gag/axoB1WY)
+ - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
+ - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
 
 --- 
 
