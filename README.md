@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Galaxy Unpacked live here: Catch the Galaxy S23 reveal and more!](https://www.androidauthority.com/galaxy-unpacked-2023-3272913/)
- - [The best iPhone deals: Save as much as $1,000 on Apple flagships](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [Is Tubi Safe? How does it work?](https://www.androidauthority.com/is-tubi-safe-how-does-tubi-work-3274327/)<!-- TECH:END -->
+ - [Passenger uses AirTag to track wallet after airline couldn&#39;t find it](https://appleinsider.com/articles/23/02/01/passenger-uses-airtag-to-track-wallet-after-airline-couldnt-find-it?utm_medium=rss)
+ - [As memory prices plunge, SK hynix reports its biggest quarterly operating loss on record in Q4, ~$1.4B vs. estimates of ~$900M, on a 38% YoY drop in revenue &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230131/p37#a230131p37)
+ - [Join CNET&#39;s Samsung Unpacked Watch Party as We Await the Galaxy S23     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-watch-party-as-we-await-the-galaxy-s23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
