@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)<!-- MEMES:END -->
+ - 🚖 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 🚯 [Always trust your instinct !](http://9gag.com/gag/aEq8xZp)
+ - 🚯 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)<!-- MEMES:END -->
 
 --- 
 
