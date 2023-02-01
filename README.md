@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best sound eva](http://9gag.com/gag/axoB1WY)
+ - 🚖 [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)
  - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
+ - 🚯 [MAD WORLD](http://9gag.com/gag/adPgKKd)<!-- MEMES:END -->
 
 --- 
 
