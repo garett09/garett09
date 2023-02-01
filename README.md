@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Space patch fixes annoying fuzzy textures one day after Digital Foundry callout](https://www.pcgamer.com/dead-space-patch-fixes-annoying-fuzzy-textures-one-day-after-digital-foundry-callout)
- - [The Sims 4 Update Adds Trans-Inclusive Top Surgery Body Scar Options](https://kotaku.com/sims-4-update-console-pc-trans-inclusive-top-surgery-1850056313)
- - [Rumbleverse, the wrestling battle royale, is shutting down only six months after launch](https://www.pcgamer.com/rumbleverse-the-wrestling-battle-royale-is-shutting-down-only-six-months-after-launch)<!-- GAME:END -->
+ - [The Art Of Ghost Of Tsushima](https://kotaku.com/ghost-of-tsushima-concept-art-illustrations-ps4-ps5-1850051610)
+ - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/31/critics-choice-promotion-comes-to-playstation-store-3/)
+ - [Final Fantasy 14 team sets a raid world first, then gets busted for cheating](https://www.pcgamer.com/final-fantasy-14-team-sets-a-raid-world-first-then-gets-busted-for-cheating)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
