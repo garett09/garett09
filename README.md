@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bean obsessed crypto-weeb community harvested for $2.74m in cryptocurrency &amp; NFTs](https://www.pcgamer.com/bean-obsessed-crypto-weebs-robbed-of-dollar274m-of-cryptocurrency-and-nfts)
- - [Sims 4 players love the game&#39;s new trans and disability-inclusive cosmetics update](https://www.pcgamer.com/sims-4-players-love-the-games-new-trans-and-disability-inclusive-cosmetics-update)
- - [AMD clings onto profitability as Intel burns cash](https://www.pcgamer.com/amd-clings-onto-profitability-as-intel-burns-cash)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in February](https://www.polygon.com/entertainment/2023/2/1/23578014/new-netflix-movies-tv-shows-watch-february-2023)
+ - [EA&#39;s final FIFA game is on-track to be the best-selling in series history](https://www.pcgamer.com/eas-final-fifa-game-is-the-best-selling-in-series-history-so-far)
+ - [Bean obsessed crypto-weeb community harvested for $2.74m in cryptocurrency &amp; NFTs](https://www.pcgamer.com/bean-obsessed-crypto-weebs-robbed-of-dollar274m-of-cryptocurrency-and-nfts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
