@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [Hidden messages](http://9gag.com/gag/a4o17Dy)<!-- MEMES:END -->
+ - 🚖 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 🚯 [Translation is not needed](http://9gag.com/gag/a9q1Rwm)
+ - 🚯 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
 
 --- 
 
