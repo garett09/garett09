@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
- - 🚯 [Respect.](http://9gag.com/gag/aeQgMPQ)
- - 🚯 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
+ - 🚖 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
+ - 🚯 [MAD WORLD](http://9gag.com/gag/adPgKKd)
+ - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
 
 --- 
 
