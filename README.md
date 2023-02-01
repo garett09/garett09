@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
- - 🚯 [MAD WORLD](http://9gag.com/gag/adPgKKd)
- - 🚯 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
+ - 🚖 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)
+ - 🚯 [Wait ...what?](http://9gag.com/gag/aA0GdNo)
+ - 🚯 [Best sound eva](http://9gag.com/gag/axoB1WY)<!-- MEMES:END -->
 
 --- 
 
