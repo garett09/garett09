@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
- - 🚯 [You had one rule private](http://9gag.com/gag/aYVrypO)
- - 🚯 [Now that&#39;s too much](http://9gag.com/gag/agog5ZK)<!-- MEMES:END -->
+ - 🚖 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
+ - 🚯 [Hidden messages](http://9gag.com/gag/a4o17Dy)<!-- MEMES:END -->
 
 --- 
 
