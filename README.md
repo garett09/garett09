@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Knock at the Cabin, the old M. Night Shyamalan haunts the new one](https://www.polygon.com/reviews/23581395/knock-at-the-cabin-review-m-night-shyamalan-dave-bautista)
- - [Turns out an ungodly amount of hidden rabbits was my perfect wind-down game this week](https://www.pcgamer.com/turns-out-an-ungodly-amount-of-hidden-rabbits-was-my-perfect-wind-down-game-this-week)
- - [Hold the Line in Gundam Evolution Season 3 – Defencer](https://news.xbox.com/en-us/2023/02/01/gundam-evolution-season-3-defencer/)<!-- GAME:END -->
+ - [Everyone’s got a Triforce tattoo](https://www.polygon.com/zelda/23580122/legend-of-zelda-triforce-tattoo)
+ - [Logan director may reimagine Swamp Thing for James Gunn’s DCU](https://www.polygon.com/23581571/swamp-thing-movie-dcu-director-james-mangold)
+ - [Dead Space Remake Exploit Earns You Infinite Money, Ammo](https://kotaku.com/dead-space-infinite-money-exploit-pulse-rifle-ammo-1850060247)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
