@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
+ - 🚖 [Dog barbershop](http://9gag.com/gag/axoB1NW)
+ - 🚯 [This goes out to the bros in fresh mining for good content.](http://9gag.com/gag/aDYDWg7)
+ - 🚯 [Kids](http://9gag.com/gag/ajVgEqQ)<!-- MEMES:END -->
 
 --- 
 
