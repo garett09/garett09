@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft&#39;s Trading Post is live now and will give you enough free cash to buy most of the stock](https://www.pcgamer.com/world-of-warcrafts-trading-post-is-live-now-and-will-give-you-enough-free-cash-to-buy-most-of-the-stock)
- - [Resident Evil 4 Remake is ditching QTEs and I couldn&#39;t be more upset](https://www.pcgamer.com/resident-evil-4-remake-is-ditching-qtes-and-i-couldnt-be-more-upset)
- - [Watch AI generate weird Seinfeld episodes about nothing, forever](https://www.pcgamer.com/watch-ai-generate-weird-seinfeld-episodes-about-nothing-forever)<!-- GAME:END -->
+ - [Doughnut-shaped laser beam used to create fibre optics from thin air](https://www.pcgamer.com/doughnut-shaped-laser-beam-used-to-create-fibre-optics-from-thin-air)
+ - [8 anime to catch up on for 2023’s biggest releases](https://www.polygon.com/23560479/2023-best-anime-to-catch-up-on-demon-slayer-jujutsu-kaisen)
+ - [Pokémon Squishmallows officially out at Walmart stores](https://www.polygon.com/pokemon/23543043/pokemon-squishmallow-walmart-target-rerelease)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
