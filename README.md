@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MAD WORLD](http://9gag.com/gag/adPgKKd)
- - 🚯 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)
- - 🚯 [So nice and colorful!](http://9gag.com/gag/aYVr46N)<!-- MEMES:END -->
+ - 🚖 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 🚯 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 --- 
 
