@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy S23 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-samsung-galaxy-s23-alternatives-3272078/)
- - [Samsung is working with Google and Qualcomm to produce &quot;extended reality&quot; products and experiences running on a special version of Android &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/230201/p34#a230201p34)
- - [Samsung reveals Galaxy Book3 series at Unpacked](https://appleinsider.com/articles/23/02/01/samsung-reveals-galaxy-book3-series-at-unpacked?utm_medium=rss)<!-- TECH:END -->
+ - [Netlify, a service for building dynamic websites and storefronts, acquires its rival Gatsby, which had raised $46.8M to date, for an undisclosed price &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230201/p35#a230201p35)
+ - [These Samsung Galaxy S23 Best Buy deals take some beating](https://www.androidauthority.com/samsung-galaxy-s23-best-buy-deals-3273078/)
+ - [Samsung reveals its plans to start working on extended reality devices](https://www.androidauthority.com/samsung-extended-reality-3274896/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
