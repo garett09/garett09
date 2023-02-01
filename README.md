@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Sea of Thieves pirates teamed up with the Parkinson’s Foundation](https://www.polygon.com/23580232/sea-of-thieves-parkinsons-foundation-charity-streaming)
- - [Hitman’s new mode transforms it into one of the best roguelikes ever](https://www.polygon.com/reviews/23581384/hitman-3-freelancer-mode-roguelike-world-of-assassination)
- - [Everyone’s got a Triforce tattoo](https://www.polygon.com/zelda/23580122/legend-of-zelda-triforce-tattoo)<!-- GAME:END -->
+ - [FFXIV Valentione’s Day 2023 event guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/2/1/23581794/valentiones-day-2023-quest-location-outfit-emote-emissary-eat-chocolate)
+ - [Report: EA Cancels Joint Apex Legends And Titanfall Game](https://kotaku.com/titanfall-3-apex-legends-respawn-ea-cancelled-layoffs-1850061241)
+ - [AI-Generated Seinfeld-Like Twitch ‘TV Show’ Is Peak Absurdity](https://kotaku.com/twitch-nothing-forever-ai-generated-seinfeld-dalle-show-1850061075)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
