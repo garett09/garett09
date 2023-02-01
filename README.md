@@ -140,8 +140,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Feb. 1: $500 off MacBook Pro 13&quot;, $400 off LG UltraWide Monitor, 47% off Apple Watch Series 7 &amp; more](https://appleinsider.com/articles/23/02/01/daily-deals-feb-1-500-off-macbook-pro-13-400-off-lg-ultrawide-monitor-47-off-apple-watch-series-7-more?utm_medium=rss)
- - [Sources: a US judge rejects the FTC&#39;s bid for a preliminary injunction to block Meta&#39;s Within acquisition, giving the FTC one week to decide whether to appeal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230201/p22#a230201p22)
+ - [2024 Apple Watch Ultra will get 10% larger display, claims sketchy report](https://appleinsider.com/articles/23/02/01/2024-apple-watch-ultra-will-get-10-larger-display-claims-sketchy-report?utm_medium=rss)
+ - [Digital fingerprinting startup Addressable, which claims to have matched over 17M anonymous crypto wallets with social media accounts, raised a $7.5M seed &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230201/p24#a230201p24)
  - [Apple&#39;s iPhone is boiling oil resistant -- briefly](https://appleinsider.com/articles/23/02/01/apples-iphone-is-boiling-oil-resistant----briefly?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
