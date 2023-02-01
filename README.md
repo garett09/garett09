@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)
- - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
- - 🚯 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
+ - 🚖 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
+ - 🚯 [Respect.](http://9gag.com/gag/aeQgMPQ)
+ - 🚯 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 --- 
 
