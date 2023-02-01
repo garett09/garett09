@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra vs Galaxy S23 Plus vs Galaxy S23: Which one to buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s23-plus-vs-galaxy-s23-3274088/)
- - [Samsung debuts the $1,200+ Galaxy S23 Ultra, similar to the S22 Ultra but with a 200MP main camera, more robust image stabilization, and better battery life &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230201/p30#a230201p30)
- - [Samsung Galaxy Unpacked 2023: all the news and updates from the event](https://www.theverge.com/23577653/samsung-galaxy-unpacked-2023-news-products)<!-- TECH:END -->
+ - [The best Samsung Galaxy S23 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-samsung-galaxy-s23-alternatives-3272078/)
+ - [Samsung is working with Google and Qualcomm to produce &quot;extended reality&quot; products and experiences running on a special version of Android &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/230201/p34#a230201p34)
+ - [Samsung reveals Galaxy Book3 series at Unpacked](https://appleinsider.com/articles/23/02/01/samsung-reveals-galaxy-book3-series-at-unpacked?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
