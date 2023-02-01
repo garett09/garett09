@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast&#39;s &#39;charity porn&#39; shows the morally complicated reality of YouTube philanthropy](https://www.pcgamer.com/mrbeasts-charity-porn-shows-the-morally-complicated-reality-of-youtube-philanthropy)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
- - [It&#39;s Time For This Great, Forgotten Dead Space Game To Return](https://kotaku.com/dead-space-remake-phone-mobile-android-ios-rerelease-1850061662)<!-- GAME:END -->
+ - [EA, which loves to cancel Titanfall games, cancels secret Titanfall game](https://www.polygon.com/23581952/ea-cancels-titanfall-sequel-again-monsters)
+ - [One Of The Lowkey Best Nintendo Switch Deals Is Back](https://kotaku.com/nintendo-switch-voucher-mario-kart-fire-emblem-discount-1850062170)
+ - [Resident Evil 4 Remake Removes Ashley’s Health Bar, Adds Side-Quests](https://kotaku.com/resident-evil-4-remake-re4-ashley-qte-knife-durability-1850062148)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
