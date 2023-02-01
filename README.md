@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - 🚯 [Best sound eva](http://9gag.com/gag/axoB1WY)
+ - 🚯 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 --- 
 
