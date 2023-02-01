@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dog barbershop](http://9gag.com/gag/axoB1NW)
- - 🚯 [This goes out to the bros in fresh mining for good content.](http://9gag.com/gag/aDYDWg7)
- - 🚯 [Kids](http://9gag.com/gag/ajVgEqQ)<!-- MEMES:END -->
+ - 🚖 [MAD WORLD](http://9gag.com/gag/adPgKKd)
+ - 🚯 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)
+ - 🚯 [So nice and colorful!](http://9gag.com/gag/aYVr46N)<!-- MEMES:END -->
 
 --- 
 
