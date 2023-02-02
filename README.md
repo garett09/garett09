@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 deep-cut Dave Bautista movies to watch right now](https://www.polygon.com/what-to-watch/23579525/best-dave-bautista-movies-watch-stream-action-fights)
- - [We now know the massive changes coming to Destiny 2&#39;s DPS meta in Lightfall](https://www.pcgamer.com/we-now-know-the-massive-changes-coming-to-destiny-2s-dps-meta-in-lightfall)
- - [The Last Of Us Star Was Afraid This N64 Classic Would Ruin His Life](https://kotaku.com/last-of-us-hbo-nick-offerman-bill-banjo-kazooie-n64-1850065488)<!-- GAME:END -->
+ - [AI Seinfeld is taking over Twitch](https://www.polygon.com/23582937/ai-seinfeld-twitch-stream)
+ - [Overwatch 2’s new map sends players &lpar;back&rpar; to Antarctica, where secrets await](https://www.polygon.com/23582019/overwatch-2-season-3-control-map-antarctic-peninsula-mei)
+ - [This &#39;professional&#39; end-of-the-world simulator is now available on Steam](https://www.pcgamer.com/this-professional-end-of-the-world-simulator-is-now-available-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
