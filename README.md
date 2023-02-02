@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tough times or Recession ?](http://9gag.com/gag/aqeG1N7)
- - 🚯 [What would you do?](http://9gag.com/gag/ap9gm95)
- - 🚯 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aOxQr76)
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 --- 
 
