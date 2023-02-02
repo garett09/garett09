@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Seinfeld is taking over Twitch](https://www.polygon.com/23582937/ai-seinfeld-twitch-stream)
- - [Overwatch 2’s new map sends players &lpar;back&rpar; to Antarctica, where secrets await](https://www.polygon.com/23582019/overwatch-2-season-3-control-map-antarctic-peninsula-mei)
- - [This &#39;professional&#39; end-of-the-world simulator is now available on Steam](https://www.pcgamer.com/this-professional-end-of-the-world-simulator-is-now-available-on-steam)<!-- GAME:END -->
+ - [The Last of Us’ Nick Offerman’s video game obsession ended with Banjo-Kazooie](https://www.polygon.com/23583217/the-last-of-us-nick-offerman-video-games-banjo-kazooie)
+ - [Overwatch 2&#39;s new Antarctic map has ice drills, fishing, and immortal penguins](https://www.pcgamer.com/overwatch-2s-new-antarctic-map-has-ice-drills-fishing-and-immortal-penguins)
+ - [6 games that had a huge impact on PC gaming, but are rarely celebrated today](https://www.pcgamer.com/6-games-that-had-a-huge-impact-on-pc-gaming-but-are-rarely-celebrated-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
