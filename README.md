@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interracial banging](http://9gag.com/gag/aWGgjgZ)
- - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 🚖 [Where Do I Find This Form ?](http://9gag.com/gag/aBdn2wO)
+ - 🚯 [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
+ - 🚯 [Neat](http://9gag.com/gag/aoKgPOX)<!-- MEMES:END -->
 
 --- 
 
