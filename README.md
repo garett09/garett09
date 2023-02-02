@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Case for Outsourcing Morality to AI](https://www.wired.com/story/philosophy-artificial-intelligence-responsibility-gap/)
- - [Aro Home Review: Box It Out](https://www.wired.com/review/aro-home/)
- - [23 great cases for your new Samsung Galaxy S23 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s23-ultra-cases-3273407/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra vs Galaxy Z Flip 4: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-z-flip-4-3273285/)
+ - [9 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
+ - [How to recover Apple ID accounts with Advanced Data Protection on](https://appleinsider.com/inside/ios-16/tips/how-to-recover-apple-id-accounts-with-advanced-data-protection-on?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
