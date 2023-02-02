@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brookfield&#39;s $15B commitment to help finance Intel&#39;s Arizona complex may spur PE firms and their infrastructure funds to help reassert US chip competitiveness &lpar;Bloomberg&rpar;](http://www.techmeme.com/230202/p26#a230202p26)
- - [Samsung Galaxy S23 Ultra vs Galaxy Z Fold 4: Which one should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-z-fold-4-3273288/)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [Apple Watch Series 9: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-watch-series-9-release-date-rumors-price-specs-3273945/)
+ - [Samsung’s Good Lock just got a much-needed quality of life update](https://www.androidauthority.com/samsung-good-lock-2-3275443/)
+ - [What Is Blockchain? The Complete WIRED Guide](https://www.wired.com/story/guide-blockchain/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
