@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Feb. 2: AirPods for $99, $200 off MacBook Air, iPad Air 5 $499 &amp; more](https://appleinsider.com/articles/23/02/02/daily-deals-feb-2-airpods-for-99-200-off-macbook-air-ipad-air-5-499-more?utm_medium=rss)
- - [Samsung Unpacked Recap: Everything Announced, From Galaxy S23 to Galaxy Book 3 Ultra     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-recap-everything-announced-from-galaxy-s23-to-galaxy-book-3-ultra/#ftag=CAD590a51e)
- - [NYC- and Tel Aviv-based Gem Security, which is building a cloud threat detection and response service, comes out of stealth with an $11M seed led by Team8 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230202/p21#a230202p21)<!-- TECH:END -->
+ - [How to fix Wi-Fi 6 problems on Mac mini by splitting your SSID](https://appleinsider.com/articles/23/02/02/how-to-fix-wi-fi-6-problems-on-mac-mini-by-splitting-your-ssid?utm_medium=rss)
+ - [Jeff Williams has taken control of Apple&#39;s industrial design team](https://appleinsider.com/articles/23/02/02/jeff-williams-has-taken-control-of-apples-industrial-design-team?utm_medium=rss)
+ - [Samsung Galaxy S23 Ultra vs Galaxy S21 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-s21-ultra-3274330/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
