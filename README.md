@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - 🚯 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - 🚯 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)<!-- MEMES:END -->
 
 --- 
 
