@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What could go wrong?](http://9gag.com/gag/a9q11qW)
- - 🚯 [So that&#39;s how they do it!](http://9gag.com/gag/aA0Gbpg)
- - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)<!-- MEMES:END -->
+ - 🚖 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 🚯 [Dog Jesus](http://9gag.com/gag/agogQGn)<!-- MEMES:END -->
 
 --- 
 
