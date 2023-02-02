@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Anden’s custom deliveries in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23546954/anden-custom-delivery-weekly-unlock-location-pixie)
- - [Resident Evil 4 Remake’s Rain Is Setting People Off](https://kotaku.com/resident-evil-4-remake-rain-raindrops-re4-gta-trilogy-1850066682)
- - [Play Counter-Strike 1.6 in your browser](https://www.pcgamer.com/play-counter-strike-16-in-your-browser)<!-- GAME:END -->
+ - [Starfield release date speculation has eclipsed everything else about the RPG](https://www.pcgamer.com/starfield-release-date-speculation-has-eclipsed-everything-else-about-the-rpg)
+ - [T-Pain Changed Music Forever, Now He&#39;s Coming For Twitch](https://kotaku.com/tpain-y2k-rapper-twitch-nappy-boy-gaming-stream-team-1850067397)
+ - [The Sims 4’s latest expansion gives you even more family options to play God with](https://www.polygon.com/23583427/sims-4-growing-together-expansion-pack-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
