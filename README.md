@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge dismissed a proposed class action lawsuit accusing Coinbase of selling unregistered securities and failing to register as a broker-dealer &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230202/p3#a230202p3)
- - [Nothing’s Carl Pei pokes fun at the Galaxy S23 series with same shirt guy meme](https://www.androidauthority.com/samsung-galaxy-s23-carl-pei-nothing-3275122/)
- - [How to delete stations on Pandora](https://www.androidauthority.com/delete-stations-pandora-3275106/)<!-- TECH:END -->
+ - [Daily Authority: 🌌 The Galaxy S23 series is finally here](https://www.androidauthority.com/daily-authority-february-2-2023-3275110/)
+ - [UBS study: ChatGPT reached ~100M MAUs with ~13M daily unique visitors in January, two months after launch, becoming the fastest-growing consumer app ever &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230202/p5#a230202p5)
+ - [Twitter will end free access to the Twitter API starting February 9, ending support for both v1.1 and v2, and make a paid version available &lpar;TechCrunch&rpar;](http://www.techmeme.com/230202/p4#a230202p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
