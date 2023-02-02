@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA pulls the plug on Apex Legends Mobile and the planned mobile version of its Battlefield franchise, as mobile remains a hard market to crack for the company &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p1#a230202p1)
- - [The Strange and Unique Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-strange-and-unique-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)
- - [Craft, whose data platform helps supply chain, procurement, and risk managers monitor their networks of suppliers, raised a $32M Series B led by BAM Elevate &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230201/p49#a230201p49)<!-- TECH:END -->
+ - [Kiwi Farms, a forum for online harassment campaigns, has managed to stay online after being dropped by Cloudflare, as posters congregate on Telegram and Discord &lpar;Ali Breland/Mother Jones&rpar;](http://www.techmeme.com/230202/p2#a230202p2)
+ - [Here’s why Samsung skipped satellite connectivity on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-satellite-connectivity-missing-3275109/)
+ - [Amazon’s delivery drones served fewer than 10 houses in their first month](https://www.theverge.com/2023/2/2/23582294/amazon-prime-air-drone-delivery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
