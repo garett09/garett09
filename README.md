@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)
+ - 🚖 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
  - 🚯 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)<!-- MEMES:END -->
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 --- 
 
