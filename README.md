@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Need to Watch This Highly Unnerving Netflix True Crime Movie     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-highly-unnerving-netflix-true-crime-movie/#ftag=CAD590a51e)
- - [This Mars Rock Looks Like a Funky Chicken, and I Love It     - CNET](https://www.cnet.com/science/space/this-mars-rock-looks-like-a-funky-chicken-and-i-love-it/#ftag=CAD590a51e)
- - [Facebook Parent Meta&#39;s Revenue Beats Expectations Amid Cost Cuts     - CNET](https://www.cnet.com/news/social-media/facebook-parent-metas-revenue-beats-expectations-amid-cost-cuts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft announces the general availability of Teams Premium for $10 a month per user, with AI-generated notes powered by OpenAI&#39;s GPT-3.5 in the coming months &lpar;Nicole Herskowitz/Microsoft 365 Blog&rpar;](http://www.techmeme.com/230201/p45#a230201p45)
+ - [Apple Original film &#39;Tetris&#39; set to premeire at SXSW](https://appleinsider.com/articles/23/02/01/apple-original-film-tetris-set-to-premeire-at-sxsw?utm_medium=rss)
+ - [Mark Zuckerberg says Meta&#39;s management theme in 2023 is the &quot;Year of Efficiency&quot; and emphasizes the role of AI in driving the company forward &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230201/p44#a230201p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
