@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 🚯 [The actor who played Gomez&lpar;father&rpar; is the last living out of the original cast.](http://9gag.com/gag/az2e9pZ)
  - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)<!-- MEMES:END -->
 
 --- 
