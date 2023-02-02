@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – For Honor, Eiyuden Chronicle: Rising, and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2023/02/02/free-play-days-for-honor-eiyuden-chronicle-rising-and-naruto-to-boruto-shinobi-striker/)
- - [Fans huff the copium as Platinum Games teases MGR:Revengeance&#39;s 10th anniversary](https://www.pcgamer.com/fans-huff-the-copium-as-platinum-games-teases-mgrrevengeances-10th-anniversary)
- - [The studio that made Wallace and Gromit is coming for Star Wars](https://www.polygon.com/star-wars/23582777/star-wars-visions-volume-2-release-date-aardman-cartoon-saloon)<!-- GAME:END -->
+ - [How two D&amp;D adventures connect to the Dungeons &amp; Dragons movie](https://www.polygon.com/23581742/dungeons-dragons-dnd-adventures-to-play-before-honor-among-thieves-movie)
+ - [LG&#39;s latest tech could fix the biggest problem with gaming OLEDs](https://www.pcgamer.com/lgs-latest-tech-could-fix-the-biggest-problem-with-gaming-oleds)
+ - [Sony Is Adding Discord Voice Integration To The PlayStation 5](https://kotaku.com/playstation-5-sony-beta-discord-data-transfer-ps4-1850065160)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
