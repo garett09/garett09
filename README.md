@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - 🚖 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
  - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 🚯 [I got you](http://9gag.com/gag/awZzZqr)<!-- MEMES:END -->
+ - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
 
 --- 
 
