@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [PS5 Beta Introduces Discord Voice Chat, VRR support for 1440p, and more](https://blog.playstation.com/2023/02/02/ps5-beta-introduces-discord-voice-chat-vrr-support-for-1440p-and-more/)
- - [Ubisoft&#39;s launcher broke Steam games on Linux and Steam Deck](https://www.pcgamer.com/ubisofts-launcher-broke-steam-games-on-linux-and-steam-deck)
- - [Amnesia: The Bunker delayed into May after a &#39;tough winter&#39;](https://www.pcgamer.com/amnesia-the-bunker-delayed-into-may-after-a-tough-winter)<!-- GAME:END -->
+ - [PS5 Beta Introduces Discord Voice Chat, VRR support for 1440p, and more](https://blog.playstation.com/2023/02/02/ps5-beta-introduces-discord-voice-chat-vrr-support-for-1440p-and-more/)
+ - [Ubisoft&#39;s launcher broke Steam games on Linux and Steam Deck](https://www.pcgamer.com/ubisofts-launcher-broke-steam-games-on-linux-and-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
