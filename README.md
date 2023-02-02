@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aOxQr76)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 🚖 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
+ - 🚯 [Reporting for luck purposes,hope it works](http://9gag.com/gag/anzg4oo)
+ - 🚯 [It&#39;s amazing that Rowling was once the icon of the left but politics has moved so far that she&#39;s a pariah to those who once worshipped the ground she walked on.](http://9gag.com/gag/a8q1EZ1)<!-- MEMES:END -->
 
 --- 
 
