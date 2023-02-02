@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How two D&amp;D adventures connect to the Dungeons &amp; Dragons movie](https://www.polygon.com/23581742/dungeons-dragons-dnd-adventures-to-play-before-honor-among-thieves-movie)
- - [LG&#39;s latest tech could fix the biggest problem with gaming OLEDs](https://www.pcgamer.com/lgs-latest-tech-could-fix-the-biggest-problem-with-gaming-oleds)
- - [Sony Is Adding Discord Voice Integration To The PlayStation 5](https://kotaku.com/playstation-5-sony-beta-discord-data-transfer-ps4-1850065160)<!-- GAME:END -->
+ - [5 deep-cut Dave Bautista movies to watch right now](https://www.polygon.com/what-to-watch/23579525/best-dave-bautista-movies-watch-stream-action-fights)
+ - [We now know the massive changes coming to Destiny 2&#39;s DPS meta in Lightfall](https://www.pcgamer.com/we-now-know-the-massive-changes-coming-to-destiny-2s-dps-meta-in-lightfall)
+ - [The Last Of Us Star Was Afraid This N64 Classic Would Ruin His Life](https://kotaku.com/last-of-us-hbo-nick-offerman-bill-banjo-kazooie-n64-1850065488)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
