@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces Fourth Quarter and Fiscal Year 2022 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/230202/p29#a230202p29)
- - [Amazon.com Announces Fourth Quarter Results &lpar;Amazon&rpar;](http://www.techmeme.com/230202/p28#a230202p28)
- - [Samsung Galaxy S23 Ultra vs Galaxy S20 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s20-ultra-3271688/)<!-- TECH:END -->
+ - [Netflix’s US Password-Sharing Crackdown Isn’t Happening—Yet](https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/)
+ - [Apple Services revenue hit an all-time high of $20 billion](https://appleinsider.com/articles/23/02/02/apple-services-revenue-hit-an-all-time-high-of-20-billion?utm_medium=rss)
+ - [Apple posts $117.15B in revenue, first miss in four years](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
