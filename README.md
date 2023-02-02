@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA, which loves to cancel Titanfall games, cancels secret Titanfall game](https://www.polygon.com/23581952/ea-cancels-titanfall-sequel-again-monsters)
- - [One Of The Lowkey Best Nintendo Switch Deals Is Back](https://kotaku.com/nintendo-switch-voucher-mario-kart-fire-emblem-discount-1850062170)
- - [Resident Evil 4 Remake Removes Ashley’s Health Bar, Adds Side-Quests](https://kotaku.com/resident-evil-4-remake-re4-ashley-qte-knife-durability-1850062148)<!-- GAME:END -->
+ - [Facebook&#39;s VR Division Lost $13.72 Billion In 2022](https://kotaku.com/facebook-metaverse-vr-2022-billions-13-billion-quest-2-1850062517)
+ - [EA has reportedly canceled a singleplayer Apex Legends game](https://www.pcgamer.com/ea-has-reportedly-canceled-a-singleplayer-apex-legends-game)
+ - [The February PC game releases and events you should know about](https://www.pcgamer.com/the-february-pc-game-releases-and-events-you-should-know-about)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
