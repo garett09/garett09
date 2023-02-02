@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yankees legend Derek Jeter is your MLB The Show 23 Collector’s Edition cover athlete](https://blog.playstation.com/2023/02/02/yankees-legend-derek-jeter-is-your-mlb-the-show-23-collectors-edition-cover-athlete/)
- - [Join the Party in Sea of Thieves’ Next Community Day on February 11!](https://news.xbox.com/en-us/2023/02/02/sea-of-thieves-community-day-rewards/)
- - [Video games are becoming more accessible — and games are better for it](https://www.polygon.com/gaming/23581909/video-game-disability-accessibility-xbox-god-of-war)<!-- GAME:END -->
+ - [An error in Samsung&#39;s 980 Pro firmware is causing SSDs to die. I&#39;d check your drive right now tbh](https://www.pcgamer.com/an-error-in-samsungs-980-pro-firmware-is-causing-ssds-to-die-id-check-your-drive-right-now-tbh)
+ - [Take The Journey Of A Lifetime In Deliver Us Mars, Out Today On Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2023/02/02/deliver-us-mars-out-now-launch/)
+ - [Trigun Stampede had to completely transform Trigun to be faithful to Trigun](https://www.polygon.com/23578531/trigun-stampede-anime-review-analysis-controversy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
