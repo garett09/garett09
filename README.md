@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)
- - [The Kremlin Has Entered the Chat](https://www.wired.com/story/the-kremlin-has-entered-the-chat/)
- - [After a splashy launch, sources say Amazon Prime Air made drone deliveries to &lt;10 houses between December 29 and mid-January; records: the FAA limits the drones &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230202/p10#a230202p10)<!-- TECH:END -->
+ - [We see you, Samsung: Global markets are subsidizing US Galaxy S23 prices](https://www.androidauthority.com/samsung-global-markets-subsidizing-usa-galaxy-s23-prices-3275201/)
+ - [Sony announces a beta version of Discord for the PlayStation 5 in the US, Canada, Japan, and the UK, adds Variable Refresh Rate support for 1440p, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230202/p13#a230202p13)
+ - [How the US Could Ban TikTok in 7 Not-So-Easy Steps](https://www.wired.com/story/how-the-us-could-ban-tiktok-in-7-not-so-easy-steps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
