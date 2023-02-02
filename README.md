@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best speech ever](http://9gag.com/gag/aWGg4vd)
+ - 🚖 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
  - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)<!-- MEMES:END -->
 
 --- 
 
