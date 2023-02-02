@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix Wi-Fi 6 problems on Mac mini by splitting your SSID](https://appleinsider.com/articles/23/02/02/how-to-fix-wi-fi-6-problems-on-mac-mini-by-splitting-your-ssid?utm_medium=rss)
- - [Jeff Williams has taken control of Apple&#39;s industrial design team](https://appleinsider.com/articles/23/02/02/jeff-williams-has-taken-control-of-apples-industrial-design-team?utm_medium=rss)
- - [Samsung Galaxy S23 Ultra vs Galaxy S21 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-s21-ultra-3274330/)<!-- TECH:END -->
+ - [Brookfield&#39;s $15B commitment to help finance Intel&#39;s Arizona complex may spur PE firms and their infrastructure funds to help reassert US chip competitiveness &lpar;Bloomberg&rpar;](http://www.techmeme.com/230202/p26#a230202p26)
+ - [Samsung Galaxy S23 Ultra vs Galaxy Z Fold 4: Which one should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-z-fold-4-3273288/)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
