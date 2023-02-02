@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
- - 🚯 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)<!-- MEMES:END -->
+ - 🚖 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 🚯 [I got you](http://9gag.com/gag/awZzZqr)<!-- MEMES:END -->
 
 --- 
 
