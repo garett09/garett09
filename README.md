@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US sportswear outlet Fanatics plans to launch livestreamed shopping unit Fanatics Live in H2 2023 and hires ex-Google executive and Snap VP Nick Bell as its CEO &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p17#a230202p17)
- - [Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro-3272214/)
- - [Scientists Grew Mini Human Guts Inside Mice](https://www.wired.com/story/scientists-grew-mini-human-guts-inside-mice/)<!-- TECH:END -->
+ - [The Case for Outsourcing Morality to AI](https://www.wired.com/story/philosophy-artificial-intelligence-responsibility-gap/)
+ - [Aro Home Review: Box It Out](https://www.wired.com/review/aro-home/)
+ - [23 great cases for your new Samsung Galaxy S23 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s23-ultra-cases-3273407/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
