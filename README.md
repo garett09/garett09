@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony testing Discord voice chat and much more for next PS5 system update](https://www.polygon.com/23582646/ps5-beta-system-update-discord-voice-chat-1440p-vrr)
- - [February’s best Blu-ray and 4K UHD releases for the modern media doomsday prepper](https://www.polygon.com/deals/2023/2/2/23573155/bluray-4k-uhd-disc-review-february-2023)
- - [Where to get Happy Pet Snacks in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-happy-pet-snacks)<!-- GAME:END -->
+ - [Yankees legend Derek Jeter is your MLB The Show 23 Collector’s Edition cover athlete](https://blog.playstation.com/2023/02/02/yankees-legend-derek-jeter-is-your-mlb-the-show-23-collectors-edition-cover-athlete/)
+ - [Join the Party in Sea of Thieves’ Next Community Day on February 11!](https://news.xbox.com/en-us/2023/02/02/sea-of-thieves-community-day-rewards/)
+ - [Video games are becoming more accessible — and games are better for it](https://www.polygon.com/gaming/23581909/video-game-disability-accessibility-xbox-god-of-war)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
