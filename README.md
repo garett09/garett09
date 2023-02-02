@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where Do I Find This Form ?](http://9gag.com/gag/aBdn2wO)
- - 🚯 [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
- - 🚯 [Neat](http://9gag.com/gag/aoKgPOX)<!-- MEMES:END -->
+ - 🚖 [Air stewardess doesn\u2019t speak English](http://9gag.com/gag/aNwPpgK)
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 🚯 [What Men dream of when they go out...](http://9gag.com/gag/avQAzN5)<!-- MEMES:END -->
 
 --- 
 
