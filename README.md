@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Portside, which provides business management software to aircraft operators, raised a $50M Series B led by Insight Partners, bringing its total funding to $70M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230202/p27#a230202p27)
- - [What is Chegg and how much does it cost?](https://www.androidauthority.com/what-is-chegg-3273806/)
- - [Oppo Find X6 series: What we know so far and what we want to see &lpar;Update Feb 2&rpar;](https://www.androidauthority.com/oppo-find-x6-series-3232606/)<!-- TECH:END -->
+ - [Alphabet Announces Fourth Quarter and Fiscal Year 2022 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/230202/p29#a230202p29)
+ - [Amazon.com Announces Fourth Quarter Results &lpar;Amazon&rpar;](http://www.techmeme.com/230202/p28#a230202p28)
+ - [Samsung Galaxy S23 Ultra vs Galaxy S20 Ultra: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s20-ultra-3271688/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
