@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - 🚯 [The actor who played Gomez&lpar;father&rpar; is the last living out of the original cast.](http://9gag.com/gag/az2e9pZ)
+ - 🚖 [What could go wrong?](http://9gag.com/gag/a9q11qW)
+ - 🚯 [So that&#39;s how they do it!](http://9gag.com/gag/aA0Gbpg)
  - 🚯 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)<!-- MEMES:END -->
 
 --- 
