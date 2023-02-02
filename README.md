@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - 🚯 [What would you do?](http://9gag.com/gag/ap9gm95)
- - 🚯 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)<!-- MEMES:END -->
+ - 🚖 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)
+ - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 --- 
 
