@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 9: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-watch-series-9-release-date-rumors-price-specs-3273945/)
- - [Samsung’s Good Lock just got a much-needed quality of life update](https://www.androidauthority.com/samsung-good-lock-2-3275443/)
- - [What Is Blockchain? The Complete WIRED Guide](https://www.wired.com/story/guide-blockchain/)<!-- TECH:END -->
+ - [Portside, which provides business management software to aircraft operators, raised a $50M Series B led by Insight Partners, bringing its total funding to $70M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230202/p27#a230202p27)
+ - [What is Chegg and how much does it cost?](https://www.androidauthority.com/what-is-chegg-3273806/)
+ - [Oppo Find X6 series: What we know so far and what we want to see &lpar;Update Feb 2&rpar;](https://www.androidauthority.com/oppo-find-x6-series-3232606/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
