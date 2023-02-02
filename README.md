@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An error in Samsung&#39;s 980 Pro firmware is causing SSDs to die. I&#39;d check your drive right now tbh](https://www.pcgamer.com/an-error-in-samsungs-980-pro-firmware-is-causing-ssds-to-die-id-check-your-drive-right-now-tbh)
- - [Take The Journey Of A Lifetime In Deliver Us Mars, Out Today On Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2023/02/02/deliver-us-mars-out-now-launch/)
- - [Trigun Stampede had to completely transform Trigun to be faithful to Trigun](https://www.polygon.com/23578531/trigun-stampede-anime-review-analysis-controversy)<!-- GAME:END -->
+ - [Free Play Days – For Honor, Eiyuden Chronicle: Rising, and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2023/02/02/free-play-days-for-honor-eiyuden-chronicle-rising-and-naruto-to-boruto-shinobi-striker/)
+ - [Fans huff the copium as Platinum Games teases MGR:Revengeance&#39;s 10th anniversary](https://www.pcgamer.com/fans-huff-the-copium-as-platinum-games-teases-mgrrevengeances-10th-anniversary)
+ - [The studio that made Wallace and Gromit is coming for Star Wars](https://www.polygon.com/star-wars/23582777/star-wars-visions-volume-2-release-date-aardman-cartoon-saloon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
