@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You had one rule private](http://9gag.com/gag/aYVrypO)
- - 🚯 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 🚖 [Tough times or Recession ?](http://9gag.com/gag/aqeG1N7)
+ - 🚯 [What would you do?](http://9gag.com/gag/ap9gm95)
+ - 🚯 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)<!-- MEMES:END -->
 
 --- 
 
