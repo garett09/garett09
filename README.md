@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces the general availability of Teams Premium for $10 a month per user, with AI-generated notes powered by OpenAI&#39;s GPT-3.5 in the coming months &lpar;Nicole Herskowitz/Microsoft 365 Blog&rpar;](http://www.techmeme.com/230201/p45#a230201p45)
- - [Apple Original film &#39;Tetris&#39; set to premeire at SXSW](https://appleinsider.com/articles/23/02/01/apple-original-film-tetris-set-to-premeire-at-sxsw?utm_medium=rss)
- - [Mark Zuckerberg says Meta&#39;s management theme in 2023 is the &quot;Year of Efficiency&quot; and emphasizes the role of AI in driving the company forward &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230201/p44#a230201p44)<!-- TECH:END -->
+ - [Sources: Tiger Global aims to raise $5B for its latest fund, down from the $6B target it set in October 2022; Tiger raised $12.7B for its last fund in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230201/p47#a230201p47)
+ - [Sources: Netflix told advertisers that sign-ups for its ad tier doubled in January 2023 over December 2022; Netflix predicted 1.75M ad tier subscribers in Q1 &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230201/p46#a230201p46)
+ - [Pinterest’s new round of layoffs comes weeks after its last cuts](https://www.theverge.com/2023/2/1/23582250/pinterest-layoffs-second-round-december)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
