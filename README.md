@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We see you, Samsung: Global markets are subsidizing US Galaxy S23 prices](https://www.androidauthority.com/samsung-global-markets-subsidizing-usa-galaxy-s23-prices-3275201/)
- - [Sony announces a beta version of Discord for the PlayStation 5 in the US, Canada, Japan, and the UK, adds Variable Refresh Rate support for 1440p, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230202/p13#a230202p13)
- - [How the US Could Ban TikTok in 7 Not-So-Easy Steps](https://www.wired.com/story/how-the-us-could-ban-tiktok-in-7-not-so-easy-steps/)<!-- TECH:END -->
+ - [US sportswear outlet Fanatics plans to launch livestreamed shopping unit Fanatics Live in H2 2023 and hires ex-Google executive and Snap VP Nick Bell as its CEO &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p17#a230202p17)
+ - [Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro-3272214/)
+ - [Scientists Grew Mini Human Guts Inside Mice](https://www.wired.com/story/scientists-grew-mini-human-guts-inside-mice/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
