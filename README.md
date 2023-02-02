@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s US Password-Sharing Crackdown Isn’t Happening—Yet](https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/)
- - [Apple Services revenue hit an all-time high of $20 billion](https://appleinsider.com/articles/23/02/02/apple-services-revenue-hit-an-all-time-high-of-20-billion?utm_medium=rss)
- - [Apple posts $117.15B in revenue, first miss in four years](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook: iPhone manufacturing shortfall main reason for earnings miss](https://appleinsider.com/articles/23/02/02/tim-cook-iphone-manufacturing-is-the-main-reason-for-earnings-miss?utm_medium=rss)
+ - [Apple earnings hit hard by iPhone production problems in China](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
+ - [Unopened first-gen iPhone expected to fetch $50,000 at auction](https://appleinsider.com/articles/23/02/02/unopened-first-gen-iphone-expected-to-fetch-50000-at-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
