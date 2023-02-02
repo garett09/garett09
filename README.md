@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
- - 🚯 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 🚖 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - 🚯 [What would you do?](http://9gag.com/gag/ap9gm95)
+ - 🚯 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)<!-- MEMES:END -->
 
 --- 
 
