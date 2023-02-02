@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
- - 🚯 [Always trust your instinct !](http://9gag.com/gag/aEq8xZp)
- - 🚯 [Security guard receives and attends to ghost in sanatorium](http://9gag.com/gag/aoKg2Gm)<!-- MEMES:END -->
+ - 🚖 [Interracial banging](http://9gag.com/gag/aWGgjgZ)
+ - 🚯 [Damn](http://9gag.com/gag/aOxQr76)
+ - 🚯 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 --- 
 
