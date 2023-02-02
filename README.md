@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 🚯 [Neat](http://9gag.com/gag/aoKgPOX)
- - 🚯 [Thanks God](http://9gag.com/gag/az2e1gj)<!-- MEMES:END -->
+ - 🚖 [Neat](http://9gag.com/gag/aoKgPOX)
+ - 🚯 [MAD WORLD](http://9gag.com/gag/adPgKKd)
+ - 🚯 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 --- 
 
