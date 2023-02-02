@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra vs Galaxy Z Flip 4: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-z-flip-4-3273285/)
- - [9 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
- - [How to recover Apple ID accounts with Advanced Data Protection on](https://appleinsider.com/inside/ios-16/tips/how-to-recover-apple-id-accounts-with-advanced-data-protection-on?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals Feb. 2: AirPods for $99, $200 off MacBook Air, iPad Air 5 $499 &amp; more](https://appleinsider.com/articles/23/02/02/daily-deals-feb-2-airpods-for-99-200-off-macbook-air-ipad-air-5-499-more?utm_medium=rss)
+ - [Samsung Unpacked Recap: Everything Announced, From Galaxy S23 to Galaxy Book 3 Ultra     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-recap-everything-announced-from-galaxy-s23-to-galaxy-book-3-ultra/#ftag=CAD590a51e)
+ - [NYC- and Tel Aviv-based Gem Security, which is building a cloud threat detection and response service, comes out of stealth with an $11M seed led by Team8 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230202/p21#a230202p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
