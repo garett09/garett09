@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kingman church scene remake](http://9gag.com/gag/aL1vnZA)
- - 🚯 [Compounding Is The 8th Wonder...!](http://9gag.com/gag/awZzyZQ)
- - 🚯 [Talk about falling for someone](http://9gag.com/gag/agogQVn)<!-- MEMES:END -->
+ - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
+ - 🚯 [I got you](http://9gag.com/gag/awZzZqr)
+ - 🚯 [I dont know if its true](http://9gag.com/gag/aZDrDBn)<!-- MEMES:END -->
 
 --- 
 
