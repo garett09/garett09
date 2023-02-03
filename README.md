@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You cannot make this up](http://9gag.com/gag/a9q1v8W)
- - 🚯 [A Mandarin set on fire](http://9gag.com/gag/aEq8A9K)
- - 🚯 [Someone forgot the dog](http://9gag.com/gag/a1P1mVY)<!-- MEMES:END -->
+ - 🚖 [Motorcycle airbag suit in action.](http://9gag.com/gag/a5X1VnO)
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 🚯 [Environmental activist superglues himself on the road then tosses the empty plastic bottle down the drain](http://9gag.com/gag/aVbxbjw)<!-- MEMES:END -->
 
 --- 
 
