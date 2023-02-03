@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3D Printer Does Homework ChatGPT Wrote!!!](http://9gag.com/gag/a1P10Aw)
- - 🚯 [You cannot make this up](http://9gag.com/gag/a9q1v8W)
+ - 🚖 [You cannot make this up](http://9gag.com/gag/a9q1v8W)
+ - 🚯 [A Mandarin set on fire](http://9gag.com/gag/aEq8A9K)
  - 🚯 [Someone forgot the dog](http://9gag.com/gag/a1P1mVY)<!-- MEMES:END -->
 
 --- 
