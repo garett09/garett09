@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara begins rollout of Matter firmware for M2 hubs](https://appleinsider.com/articles/23/02/03/aqara-begins-rollout-of-matter-firmware-for-m2-hubs?utm_medium=rss)
- - [Sources: FTC is preparing an antitrust lawsuit against Amazon, though the timing remains in flux, and is scrutinizing Amazon Prime&#39;s bundling practices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230203/p12#a230203p12)
- - [Even your antique Mac can use Mastodon](https://appleinsider.com/articles/23/02/03/even-your-antique-mac-can-use-mastodon?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon reports spending $16.6B on content in 2022, up 28% YoY, of which about $7B went to originals, live sports, and licensed content included with Prime &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230203/p16#a230203p16)
+ - [The best Samsung Galaxy S23 Plus cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-plus-cases-3273405/)
+ - [14-inch MacBook Pro review: A true spec bump to an existing powerhouse](https://appleinsider.com/articles/23/02/03/14-inch-macbook-pro-review-a-true-spec-bump-to-an-existing-powerhouse?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
