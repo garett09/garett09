@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - 🚯 [The US is currently tracking a massive Chinese spy balloon flying in the stratosphere above US mainland &lpar;pictured below&rpar; and waiting for the right moment to shoot it down. It&#39;s so big that the public can see it from the ground. I kid you not, check any US media.](http://9gag.com/gag/aKEmAg6)
- - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)<!-- MEMES:END -->
+ - 🚖 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
+ - 🚯 [Best speech ever](http://9gag.com/gag/aWGg4vd)
+ - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
 
 --- 
 
