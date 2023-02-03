@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)<!-- MEMES:END -->
+ - 🚖 [Mommy cat introduces baby cat to big doggo](http://9gag.com/gag/aoKgVj2)
+ - 🚯 [Yeah, sounds about right](http://9gag.com/gag/a4o16DQ)
+ - 🚯 [Thievery will not be tolerated](http://9gag.com/gag/aME4BDx)<!-- MEMES:END -->
 
 --- 
 
