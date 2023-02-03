@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pakistan&#39;s telecommunication authority blocks Wikipedia in the country, saying the site failed to remove &quot;sacrilegious&quot; content &lpar;Kamran Haider/Bloomberg&rpar;](http://www.techmeme.com/230203/p22#a230203p22)
- - [Twitter cuts off API access to Movetodon, one of the best tools for finding and following one&#39;s own Twitter followers on Mastodon &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230203/p21#a230203p21)
- - [Q&amp;A with Sam Altman about AI systems replacing search engines, OpenAI&#39;s Microsoft investment, how artificial general intelligence could &quot;break capitalism&quot;, more &lpar;Forbes&rpar;](http://www.techmeme.com/230203/p20#a230203p20)<!-- TECH:END -->
+ - [Italy&#39;s privacy watchdog orders SF-based AI chatbot maker Replika, which operates a freemium &quot;virtual friendship&quot; service, to stop processing local users&#39; data &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230203/p24#a230203p24)
+ - [The EU has reportedly issued a formal warning to Microsoft over the Activision Blizzard deal](https://www.theverge.com/2023/2/3/23584621/eu-formal-warning-microsoft-activision-blizzard-acquisition)
+ - [Apple collects nearly all of the profit in the worldwide smartphone market](https://appleinsider.com/articles/23/02/03/apple-collects-nearly-all-of-the-profit-in-the-worldwide-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
