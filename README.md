@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - 🚯 [Oh no, oh no, oh no no no](http://9gag.com/gag/a8q16XQ)
- - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)<!-- MEMES:END -->
+ - 🚖 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
+ - 🚯 [Best speech ever](http://9gag.com/gag/aWGg4vd)
+ - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
 
 --- 
 
