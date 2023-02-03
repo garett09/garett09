@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pedro Pascal Barely Remembers Getting Last Of Us Role Thanks To Ambien](https://kotaku.com/last-of-us-hbo-pedro-pascal-joel-ambien-sleeping-pill-1850071288)
- - [Activision Blizzard to pay $35M fine in SEC settlement](https://www.polygon.com/23584578/activision-blizzard-sec-settlement)
- - [Add CrossfireX to the long list of games shutting down](https://www.polygon.com/23584708/crossfirex-shutting-down-xbox-smilegate-remedy)<!-- GAME:END -->
+ - [AI Seinfeld is taking over Twitch](https://www.polygon.com/23582937/ai-seinfeld-twitch-stream)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Elden Ring streamer strums Margit to death with an actual acoustic guitar](https://www.pcgamer.com/elden-ring-streamer-strums-margit-to-death-with-an-actual-acoustic-guitar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
