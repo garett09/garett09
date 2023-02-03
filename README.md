@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you planning to buy a new phone this year?](https://www.androidauthority.com/buy-new-phone-2023-poll-3275783/)
- - [Twitter expands Blue to Saudi Arabia, France, Germany, Italy, Portugal, and Spain, and plans to launch a new Spaces tab with curated spaces and podcasts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230203/p2#a230203p2)
- - [Google says its 2022 phones were its best selling devices ever](https://www.androidauthority.com/google-2022-pixel-phones-sales-3274531/)<!-- TECH:END -->
+ - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)
+ - [Despite power upgrade, the Galaxy S23 series still has a GOS toggle](https://www.androidauthority.com/samsung-galaxy-s23-performance-3273777/)
+ - [Poll: Are you planning to buy a new phone this year?](https://www.androidauthority.com/buy-new-phone-2023-poll-3275783/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
