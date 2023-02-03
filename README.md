@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The World&#39;s Biggest Airplane, Destroyed In Ukraine, Is Coming To Flight Simulator](https://kotaku.com/antonov-an-225-mriya-flight-simulator-ukraine-war-1850067770)
- - [Sims 4 trans-inclusive update faces culture war backlash in record time](https://www.pcgamer.com/sims-4-trans-inclusive-update-faces-culture-war-backlash-in-record-time)
- - [Back 4 Blood won&#39;t get any more new content as Turtle Rock pivots to an all-new game](https://www.pcgamer.com/back-4-blood-wont-get-any-more-new-content-as-turtle-rock-pivots-to-an-all-new-game)<!-- GAME:END -->
+ - [It’s OK If A Game Wraps Up, They Don’t All Have To Be Fortnite](https://kotaku.com/back-4-blood-left-4-dead-turtle-rock-live-service-dead-1850068212)
+ - [Bandai Namco announces Elden Ring anniversary event, but I&#39;d put those piping hot DLC expectations on ice, champ](https://www.pcgamer.com/bandai-namco-announces-elden-ring-anniversary-event-but-id-put-those-piping-hot-dlc-expectations-on-ice-champ)
+ - [The Story Of Nintendo&#39;s Favorite Football Team](https://kotaku.com/the-story-of-nintendos-favorite-football-team-1850057687)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
