@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even your antique Mac can use Mastodon](https://appleinsider.com/articles/23/02/03/even-your-antique-mac-can-use-mastodon?utm_medium=rss)
- - [A group of MEPs launches a website for European parliament staff and EU officials to warn about &quot;shady lobbying&quot; by Big Tech and other interest groups &lpar;Jennifer Rankin/The Guardian&rpar;](http://www.techmeme.com/230203/p3#a230203p3)
- - [Boeing’s 747 Should Have Been Retired Years Ago](https://www.wired.com/story/last-boeing-747/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra vs iPhone 14 Pro and Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-iphone-14-pro-max-vs-iphone-14-pro-3272202/)
+ - [As the spat between Binance and WazirX escalates, Binance invites the Indian exchange to withdraw its assets held in Binance wallets after February 3 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230203/p4#a230203p4)
+ - [Congress Has a Lo-Fi Plan to Fix the Classified Documents Mess](https://www.wired.com/story/congress-classified-documents-scandal-fix/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
