@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sundar Pichai says Google will make LLMs like LaMDA available &quot;in the coming weeks and months&quot;, and users will be able to use them &quot;as a companion to search&quot; &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230202/p43#a230202p43)
- - [Amazon slashes Apple Watch Series 8 to $349 in latest round of price cuts](https://appleinsider.com/articles/23/02/03/amazon-slashes-apple-watch-series-8-to-349-in-latest-round-of-price-cuts?utm_medium=rss)
- - [Tim Cook says iPhone revenue would have grown without supply constraints, currency fluctuations were a challenge, and layoffs are a &quot;last resort kind of thing&quot; &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p42#a230202p42)<!-- TECH:END -->
+ - [Apple Pay Later being tested by employees, coming soon](https://appleinsider.com/articles/23/02/02/apple-pay-later-is-being-tested-by-employees-and-will-arrive-soon?utm_medium=rss)
+ - [Apple&#39;s Q1 earnings hit hard by iPhone production problems](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
+ - [A former employee of IoT manufacturer Ubiquiti pleaded guilty to stealing gigabytes of confidential data in December 2020 and extorting the company for ransom &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230202/p44#a230202p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
