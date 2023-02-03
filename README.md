@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy&#39;s privacy watchdog orders SF-based AI chatbot maker Replika, which operates a freemium &quot;virtual friendship&quot; service, to stop processing local users&#39; data &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230203/p24#a230203p24)
- - [The EU has reportedly issued a formal warning to Microsoft over the Activision Blizzard deal](https://www.theverge.com/2023/2/3/23584621/eu-formal-warning-microsoft-activision-blizzard-acquisition)
- - [Apple collects nearly all of the profit in the worldwide smartphone market](https://appleinsider.com/articles/23/02/03/apple-collects-nearly-all-of-the-profit-in-the-worldwide-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [Emergency services continue to slam Apple&#39;s Crash Detection](https://appleinsider.com/articles/23/02/03/emergency-services-continue-to-slam-apples-crash-detection?utm_medium=rss)
+ - [Italy&#39;s privacy watchdog orders San Francisco-based AI chatbot maker Replika to stop processing local users&#39; data over concerns its tech poses risks to minors &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230203/p24#a230203p24)
+ - [The EU has reportedly issued a formal warning to Microsoft over the Activision Blizzard deal](https://www.theverge.com/2023/2/3/23584621/eu-formal-warning-microsoft-activision-blizzard-acquisition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
