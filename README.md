@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer today: Let&#39;s solve #594, February 3](https://www.pcgamer.com/wordle-hint-answer-today-594-february-3)
- - [Two years after launch, live-service dodgeball game Knockout City is shutting down](https://www.pcgamer.com/two-years-after-launch-live-service-dodgeball-game-knockout-city-is-shutting-down)
- - [Razer&#39;s new gaming mouse is its lightest ever](https://www.pcgamer.com/razers-new-gaming-mouse-is-its-lightest-ever)<!-- GAME:END -->
+ - [Deep Rock Galactic celebrates five years of free updates by letting you play without them, says &#39;we are not slowing down&#39;](https://www.pcgamer.com/deep-rock-galactic-celebrates-five-years-of-free-updates-by-letting-you-play-without-them-says-we-are-not-slowing-down)
+ - [Beef-up Hitman&#39;s Freelancer mode with this variant map mod](https://www.pcgamer.com/beef-up-hitmans-freelancer-mode-with-this-variant-map-mod)
+ - [Eagle-eyed gamer spots Starfield feature hiding in plain sight](https://www.pcgamer.com/eagle-eyed-gamer-spots-starfield-feature-hiding-in-plain-sight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
