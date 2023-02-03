@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
- - 🚯 [What could go wrong?](http://9gag.com/gag/a9q11qW)
- - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
+ - 🚖 [3D Printer Does Homework ChatGPT Wrote!!!](http://9gag.com/gag/a1P10Aw)
+ - 🚯 [You cannot make this up](http://9gag.com/gag/a9q1v8W)
+ - 🚯 [Someone forgot the dog](http://9gag.com/gag/a1P1mVY)<!-- MEMES:END -->
 
 --- 
 
