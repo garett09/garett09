@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports spending $16.6B on content in 2022, up 28% YoY, of which about $7B went to originals, live sports, and licensed content included with Prime &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230203/p16#a230203p16)
- - [The best Samsung Galaxy S23 Plus cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-plus-cases-3273405/)
- - [14-inch MacBook Pro review: A true spec bump to an existing powerhouse](https://appleinsider.com/articles/23/02/03/14-inch-macbook-pro-review-a-true-spec-bump-to-an-existing-powerhouse?utm_medium=rss)<!-- TECH:END -->
+ - [Chrome to get feature that quickly erases 15 minutes of browser data on Android](https://www.androidauthority.com/chrome-quick-delete-3276089/)
+ - [Apple TV celebrates Black History Month with curation by Dr. Jelani Cobb](https://appleinsider.com/articles/23/02/03/apple-tv-celebrates-black-history-month-with-curation-by-dr-jelani-cobb?utm_medium=rss)
+ - [Elon Musk says Twitter will start sharing revenue from reply-thread ads with creators who are subscribed to Twitter Blue Verified, but doesn&#39;t share any details &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230203/p18#a230203p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
