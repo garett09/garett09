@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Struggling with deck building? Try these unconventional card games](https://www.polygon.com/dear-polygon/23584526/deck-building-approachable-marvel-snap-slay-the-spire-inscryption)
- - [More games need Forspoken’s parkour](https://www.polygon.com/23582758/forspoken-magic-parkour-square-enix-open-world-flow)
- - [Elgato Stream Deck + or Loupedeck Live S? Here&#39;s our streaming gadget pick](https://www.pcgamer.com/elgato-stream-deck-versus-loupedeck-live-s)<!-- GAME:END -->
+ - [Real-Life Squid Game Contestants Claim ‘Rigged’ Reality Show Caused ‘Torment and Trauma’](https://kotaku.com/squid-game-netflix-reality-show-legal-action-unsafe-1850070999)
+ - [All of my internet converges with TikTok’s ‘Harder, Better, Faster, Whopper’](https://www.polygon.com/23582814/harder-better-faster-whopper-tiktok-undertale)
+ - [This New Wholesome Anime Is Basically Gay Spy x Family](https://kotaku.com/buddy-daddies-spy-x-family-anime-yaoi-1850057304)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
