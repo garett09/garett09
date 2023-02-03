@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I got you](http://9gag.com/gag/awZzZqr)
- - 🚯 [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
- - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 🚖 [Dog Jesus](http://9gag.com/gag/agogQGn)
+ - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
+ - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
 
 --- 
 
