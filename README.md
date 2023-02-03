@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea lawmakers pave the way for Apple Pay launch](https://appleinsider.com/articles/23/02/03/south-korea-lawmakers-pave-the-way-for-apple-pay-launch?utm_medium=rss)
- - [Vivo X90, X90 Pro go global: Where’s the X90 Pro Plus?](https://www.androidauthority.com/vivo-x90-x90-pro-global-launch-3275266/)
- - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Even your antique Mac can use Mastodon](https://appleinsider.com/articles/23/02/03/even-your-antique-mac-can-use-mastodon?utm_medium=rss)
+ - [A group of MEPs launches a website for European parliament staff and EU officials to warn about &quot;shady lobbying&quot; by Big Tech and other interest groups &lpar;Jennifer Rankin/The Guardian&rpar;](http://www.techmeme.com/230203/p3#a230203p3)
+ - [Boeing’s 747 Should Have Been Retired Years Ago](https://www.wired.com/story/last-boeing-747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
