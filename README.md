@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Capital of Canada](http://9gag.com/gag/ay29MAM)
- - 🚯 [Thievery will not be tolerated](http://9gag.com/gag/aME4BDx)
- - 🚯 [If they try to chop you just stand your ground](http://9gag.com/gag/aL1vLRv)<!-- MEMES:END -->
+ - 🚯 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)
+ - 🚯 [Yea.. Fun...](http://9gag.com/gag/awZzgy8)<!-- MEMES:END -->
 
 --- 
 
