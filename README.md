@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His opponent was probably Yor Briar from `spy x family`](http://9gag.com/gag/aEq8VpO)
+ - 🚖 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
  - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)
- - 🚯 [There we go again back to the classics](http://9gag.com/gag/az2ePem)<!-- MEMES:END -->
+ - 🚯 [May Bring Depression](http://9gag.com/gag/avQAQr5)<!-- MEMES:END -->
 
 --- 
 
