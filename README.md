@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The world&#39;s biggest plane, destroyed in Ukraine, will fly again in Microsoft Flight Simulator](https://www.pcgamer.com/the-worlds-biggest-plane-destroyed-in-ukraine-will-fly-again-in-microsoft-flight-simulator)
- - [Apparently Video Game Characters Look Great In Drag](https://kotaku.com/pokemon-drag-queen-velvet-caveat-bayonetta-cosplay-1850072418)
- - [Destroyed Ukrainian airplane, the world’s largest, to live on in Microsoft Flight Simulator](https://www.polygon.com/23585039/msfs-antonov-225-worlds-largest-airplane-ukraine-microsoft-flight-simulator)<!-- GAME:END -->
+ - [Discord voice chat is coming to PlayStation 5](https://www.pcgamer.com/discord-voice-chat-is-coming-to-playstation-5)
+ - [YouTuber Logan Paul Slapped With Class-Action Lawsuit Over NFT &#39;Game&#39;](https://kotaku.com/youtube-logan-paul-cryptozoo-nft-lawsuit-scam-fraud-1850072693)
+ - [How to make the Dead Space remake less scary](https://www.polygon.com/guides/23585108/is-dead-space-scary-remake-jump-scares)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
