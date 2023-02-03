@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin miner Marathon Digital sold 1,500 BTC in January, amid a rallying crypto market, to cover some of its expenses; Marathon still holds 11,418 BTC &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230203/p1#a230203p1)
- - [Google has rolled out a fix for the Pixel Buds A-Series pairing bug](https://www.androidauthority.com/google-pixel-buds-a-series-pairing-bug-fix-3274607/)
- - [Google is getting ready to take on ChatGPT, announces Feb. 8 Search event](https://www.androidauthority.com/google-search-ai-event-3275765/)<!-- TECH:END -->
+ - [Twitter expands Blue to Saudi Arabia, France, Germany, Italy, Portugal, and Spain, and plans to launch a new Spaces tab with curated spaces and podcasts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230203/p2#a230203p2)
+ - [Google says its 2022 phones were its best selling devices ever](https://www.androidauthority.com/google-2022-pixel-phones-sales-3274531/)
+ - [Bitcoin miner Marathon Digital sold 1,500 BTC in January, amid a rallying crypto market, to cover some of its expenses; Marathon still holds 11,418 BTC &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230203/p1#a230203p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
