@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some US emergency services operators say they are inundated with false calls placed by the Apple Watches or iPhone 14s of skiers and other fitness enthusiasts &lpar;Matt Richtel/New York Times&rpar;](http://www.techmeme.com/230203/p9#a230203p9)
- - [14-inch MacBook Pro review: A true spec bump to an existing powerhouse](https://appleinsider.com/articles/23/02/03/14-inch-macbook-pro-review-a-true-spec-bump-to-an-existing-powerhouse?utm_medium=rss)
- - [Daily Deals Feb. 3: M2 Mac mini $549, $230 off Roborock S7 Plus, 44% off Apple Smart Keyboard &amp; more](https://appleinsider.com/articles/23/02/03/daily-deals-feb-3-m2-mac-mini-549-230-off-roborock-s7-plus-44-off-apple-smart-keyboard-more?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara begins rollout of Matter firmware for M2 hubs](https://appleinsider.com/articles/23/02/03/aqara-begins-rollout-of-matter-firmware-for-m2-hubs?utm_medium=rss)
+ - [Sources: FTC is preparing an antitrust lawsuit against Amazon, though the timing remains in flux, and is scrutinizing Amazon Prime&#39;s bundling practices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230203/p12#a230203p12)
+ - [Even your antique Mac can use Mastodon](https://appleinsider.com/articles/23/02/03/even-your-antique-mac-can-use-mastodon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
