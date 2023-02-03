@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - 🚯 [Translation is not needed](http://9gag.com/gag/a9q1Rwm)
- - 🚯 [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)<!-- MEMES:END -->
+ - 🚖 [Capital of Canada](http://9gag.com/gag/ay29MAM)
+ - 🚯 [Thievery will not be tolerated](http://9gag.com/gag/aME4BDx)
+ - 🚯 [If they try to chop you just stand your ground](http://9gag.com/gag/aL1vLRv)<!-- MEMES:END -->
 
 --- 
 
