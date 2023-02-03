@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
- - 🚯 [Best speech ever](http://9gag.com/gag/aWGg4vd)
- - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
+ - 🚖 [His opponent was probably Yor Briar from `spy x family`](http://9gag.com/gag/aEq8VpO)
+ - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)
+ - 🚯 [There we go again back to the classics](http://9gag.com/gag/az2ePem)<!-- MEMES:END -->
 
 --- 
 
