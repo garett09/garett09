@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Motorcycle airbag suit in action.](http://9gag.com/gag/a5X1VnO)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 🚯 [Environmental activist superglues himself on the road then tosses the empty plastic bottle down the drain](http://9gag.com/gag/aVbxbjw)<!-- MEMES:END -->
+ - 🚖 [Environmental activist superglues himself on the road then tosses the empty plastic bottle down the drain](http://9gag.com/gag/aVbxbjw)
+ - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 🚯 [I&#39;ll just grab the pope&#39;s hand](http://9gag.com/gag/anzgzBo)<!-- MEMES:END -->
 
 --- 
 
