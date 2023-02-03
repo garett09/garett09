@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Capital of Canada](http://9gag.com/gag/ay29MAM)
- - 🚯 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)
- - 🚯 [Yea.. Fun...](http://9gag.com/gag/awZzgy8)<!-- MEMES:END -->
+ - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
+ - 🚯 [Oh no, oh no, oh no no no](http://9gag.com/gag/a8q16XQ)
+ - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)<!-- MEMES:END -->
 
 --- 
 
