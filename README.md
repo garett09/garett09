@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - 🚯 [I got you](http://9gag.com/gag/awZzZqr)
- - 🚯 [I dont know if its true](http://9gag.com/gag/aZDrDBn)<!-- MEMES:END -->
+ - 🚯 [Translation is not needed](http://9gag.com/gag/a9q1Rwm)
+ - 🚯 [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)<!-- MEMES:END -->
 
 --- 
 
