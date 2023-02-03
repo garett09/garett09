@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Startup T2 Wants to Terminate Twitter](https://www.wired.com/story/plaintext-startup-t2-wants-to-terminate-twitter/)
- - [What Would Earth’s Temperature Be Like Without an Atmosphere?](https://www.wired.com/story/what-would-earths-temperature-be-like-without-an-atmosphere/)
- - [A New Drug Switched Off My Appetite. What’s Left?](https://www.wired.com/story/new-drug-switched-off-appetite-mounjaro/)<!-- TECH:END -->
+ - [Some US emergency services operators say they are inundated with false calls placed by the Apple Watches or iPhone 14s of skiers and other fitness enthusiasts &lpar;Matt Richtel/New York Times&rpar;](http://www.techmeme.com/230203/p9#a230203p9)
+ - [14-inch MacBook Pro review: A true spec bump to an existing powerhouse](https://appleinsider.com/articles/23/02/03/14-inch-macbook-pro-review-a-true-spec-bump-to-an-existing-powerhouse?utm_medium=rss)
+ - [Daily Deals Feb. 3: M2 Mac mini $549, $230 off Roborock S7 Plus, 44% off Apple Smart Keyboard &amp; more](https://appleinsider.com/articles/23/02/03/daily-deals-feb-3-m2-mac-mini-549-230-off-roborock-s7-plus-44-off-apple-smart-keyboard-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
