@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)
- - [Despite power upgrade, the Galaxy S23 series still has a GOS toggle](https://www.androidauthority.com/samsung-galaxy-s23-performance-3273777/)
- - [Poll: Are you planning to buy a new phone this year?](https://www.androidauthority.com/buy-new-phone-2023-poll-3275783/)<!-- TECH:END -->
+ - [Samsung has some lofty Galaxy S23 series sales goals](https://www.androidauthority.com/samsung-galaxy-s23-series-sales-goals-3275869/)
+ - [Daily Authority: 😲 Google takes on ChatGPT](https://www.androidauthority.com/daily-authority-february-3-2023-3275389/)
+ - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
