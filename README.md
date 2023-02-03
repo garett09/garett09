@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 🚯 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)
- - 🚯 [May Bring Depression](http://9gag.com/gag/avQAQr5)<!-- MEMES:END -->
+ - 🚖 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
+ - 🚯 [What could go wrong?](http://9gag.com/gag/a9q11qW)
+ - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
 
 --- 
 
