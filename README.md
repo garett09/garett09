@@ -140,8 +140,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has some lofty Galaxy S23 series sales goals](https://www.androidauthority.com/samsung-galaxy-s23-series-sales-goals-3275869/)
- - [Daily Authority: 😲 Google takes on ChatGPT](https://www.androidauthority.com/daily-authority-february-3-2023-3275389/)
+ - [South Korea lawmakers pave the way for Apple Pay launch](https://appleinsider.com/articles/23/02/03/south-korea-lawmakers-pave-the-way-for-apple-pay-launch?utm_medium=rss)
+ - [Vivo X90, X90 Pro go global: Where’s the X90 Pro Plus?](https://www.androidauthority.com/vivo-x90-x90-pro-global-launch-3275266/)
  - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
