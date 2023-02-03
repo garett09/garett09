@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I got you](http://9gag.com/gag/awZzZqr)
- - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 🚯 [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
+ - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 --- 
 
