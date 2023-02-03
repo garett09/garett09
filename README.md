@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eldritch horror fishing game Dredge launches in March](https://www.polygon.com/23584298/dredge-horror-fishing-game-release-date-platforms)
- - [A look at Pistol Whip’s PlayStation VR2 haptics upgrade, out Feb 22.](https://blog.playstation.com/2023/02/03/a-look-at-pistol-whips-playstation-vr2-haptics-upgrade-out-feb-22/)
- - [Can Command &amp; Conquer devs make a great World War I strategy game?](https://www.polygon.com/23583606/the-great-war-western-front-release-date-preview-pc-world-war-1-video-games-rts)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 6 to 10](https://news.xbox.com/en-us/2023/02/03/next-week-on-xbox-new-games-for-february-6-to-10/)
+ - [The Legend of Vox Machina made one of Critical Role’s biggest moments even better](https://www.polygon.com/23583361/legend-vox-machina-critical-role-episode-8-vex)
+ - [The Last Of Us Episode 3 Recap: The Ballad Of Bill And Frank](https://kotaku.com/last-of-us-hbo-show-bill-frank-recap-nick-offerman-1850058856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
