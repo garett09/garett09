@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap Players Think An Objectively Nice Emote Is Toxic](https://kotaku.com/marvel-snap-ms-marvel-emote-toxic-twitter-reddit-1850070029)
- - [Season: A Letter To The Future - The Kotaku Review](https://kotaku.com/season-a-letter-to-the-future-ps5-steam-pc-game-review-1850069978)
- - [Nier: Automata’s Yoko Taro made a new 15-minute music video based on the game](https://www.polygon.com/2023/2/3/23584391/nier-automata-yoko-taro-anime-puppet-show-music-video)<!-- GAME:END -->
+ - [Struggling with deck building? Try these unconventional card games](https://www.polygon.com/dear-polygon/23584526/deck-building-approachable-marvel-snap-slay-the-spire-inscryption)
+ - [More games need Forspoken’s parkour](https://www.polygon.com/23582758/forspoken-magic-parkour-square-enix-open-world-flow)
+ - [Elgato Stream Deck + or Loupedeck Live S? Here&#39;s our streaming gadget pick](https://www.pcgamer.com/elgato-stream-deck-versus-loupedeck-live-s)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
