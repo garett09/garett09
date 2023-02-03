@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Seinfeld is taking over Twitch](https://www.polygon.com/23582937/ai-seinfeld-twitch-stream)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Elden Ring streamer strums Margit to death with an actual acoustic guitar](https://www.pcgamer.com/elden-ring-streamer-strums-margit-to-death-with-an-actual-acoustic-guitar)<!-- GAME:END -->
+ - [This Week on Xbox: Anime Month, New Game Releases, and More](https://news.xbox.com/en-us/2023/02/03/this-week-on-xbox-anime-month-new-game-releases-and-more/)
+ - [EA&#39;s Monster Hunter-like has no plans for microtransactions, all post-launch content will be free](https://www.pcgamer.com/eas-monster-hunter-like-has-no-plans-for-microtransactions-all-post-launch-content-will-be-free)
+ - [Twitch’s Mega Popular AI Streamer Now Pulling In Thousands Of Viewers With Reaction Content](https://kotaku.com/ai-twitch-streamer-neuro-sama-react-seinfeld-elden-ring-1850071918)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
