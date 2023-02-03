@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook: iPhone manufacturing shortfall main reason for earnings miss](https://appleinsider.com/articles/23/02/02/tim-cook-iphone-manufacturing-is-the-main-reason-for-earnings-miss?utm_medium=rss)
- - [Apple earnings hit hard by iPhone production problems in China](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
- - [Unopened first-gen iPhone expected to fetch $50,000 at auction](https://appleinsider.com/articles/23/02/02/unopened-first-gen-iphone-expected-to-fetch-50000-at-auction?utm_medium=rss)<!-- TECH:END -->
+ - [Sundar Pichai says Google will make LLMs like LaMDA available &quot;in the coming weeks and months&quot;, and users will be able to use them &quot;as a companion to search&quot; &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230202/p43#a230202p43)
+ - [Amazon slashes Apple Watch Series 8 to $349 in latest round of price cuts](https://appleinsider.com/articles/23/02/03/amazon-slashes-apple-watch-series-8-to-349-in-latest-round-of-price-cuts?utm_medium=rss)
+ - [Tim Cook says iPhone revenue would have grown without supply constraints, currency fluctuations were a challenge, and layoffs are a &quot;last resort kind of thing&quot; &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p42#a230202p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
