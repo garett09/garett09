@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
- - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 🚯 [Dog Jesus](http://9gag.com/gag/agogQGn)<!-- MEMES:END -->
+ - 🚖 [I got you](http://9gag.com/gag/awZzZqr)
+ - 🚯 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
+ - 🚯 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 --- 
 
