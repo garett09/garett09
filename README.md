@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dog Jesus](http://9gag.com/gag/agogQGn)
- - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 🚖 [So that&#39;s how they do it!](http://9gag.com/gag/aA0Gbpg)
+ - 🚯 [Calm Down](http://9gag.com/gag/aZDr0P3)
  - 🚯 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 --- 
