@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic celebrates five years of free updates by letting you play without them, says &#39;we are not slowing down&#39;](https://www.pcgamer.com/deep-rock-galactic-celebrates-five-years-of-free-updates-by-letting-you-play-without-them-says-we-are-not-slowing-down)
- - [Beef-up Hitman&#39;s Freelancer mode with this variant map mod](https://www.pcgamer.com/beef-up-hitmans-freelancer-mode-with-this-variant-map-mod)
- - [Eagle-eyed gamer spots Starfield feature hiding in plain sight](https://www.pcgamer.com/eagle-eyed-gamer-spots-starfield-feature-hiding-in-plain-sight)<!-- GAME:END -->
+ - [Intel Core i5 13400F](https://www.pcgamer.com/intel-core-i5-13400f-review-benchmarks)
+ - [HHKB Professional Hybrid Type S](https://www.pcgamer.com/hhkb-professional-hybrid-type-s-review)
+ - [AMD&#39;s new laptop APU nearly twice as fast as Steam Deck in leaked graphics benchmark](https://www.pcgamer.com/amds-new-laptop-apu-nearly-twice-as-fast-as-steam-deck-in-leaked-graphics-benchmark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
