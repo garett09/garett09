@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Anime Month, New Game Releases, and More](https://news.xbox.com/en-us/2023/02/03/this-week-on-xbox-anime-month-new-game-releases-and-more/)
- - [EA&#39;s Monster Hunter-like has no plans for microtransactions, all post-launch content will be free](https://www.pcgamer.com/eas-monster-hunter-like-has-no-plans-for-microtransactions-all-post-launch-content-will-be-free)
- - [Twitch’s Mega Popular AI Streamer Now Pulling In Thousands Of Viewers With Reaction Content](https://kotaku.com/ai-twitch-streamer-neuro-sama-react-seinfeld-elden-ring-1850071918)<!-- GAME:END -->
+ - [The world&#39;s biggest plane, destroyed in Ukraine, will fly again in Microsoft Flight Simulator](https://www.pcgamer.com/the-worlds-biggest-plane-destroyed-in-ukraine-will-fly-again-in-microsoft-flight-simulator)
+ - [Apparently Video Game Characters Look Great In Drag](https://kotaku.com/pokemon-drag-queen-velvet-caveat-bayonetta-cosplay-1850072418)
+ - [Destroyed Ukrainian airplane, the world’s largest, to live on in Microsoft Flight Simulator](https://www.polygon.com/23585039/msfs-antonov-225-worlds-largest-airplane-ukraine-microsoft-flight-simulator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
