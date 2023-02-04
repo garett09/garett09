@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discord voice chat is coming to PlayStation 5](https://www.pcgamer.com/discord-voice-chat-is-coming-to-playstation-5)
- - [YouTuber Logan Paul Slapped With Class-Action Lawsuit Over NFT &#39;Game&#39;](https://kotaku.com/youtube-logan-paul-cryptozoo-nft-lawsuit-scam-fraud-1850072693)
- - [How to make the Dead Space remake less scary](https://www.polygon.com/guides/23585108/is-dead-space-scary-remake-jump-scares)<!-- GAME:END -->
+ - [Knock at the Cabin’s ending has the perfect M. Night Shyamalan twist](https://www.polygon.com/23583438/knock-at-the-cabin-ending-twist-m-night-shyamalan)
+ - [Man, Steam&#39;s official website has come a long way in 21 years](https://www.pcgamer.com/man-steams-official-website-has-come-a-long-way-in-21-years)
+ - [Black Panther: Wakanda Forever, Plane, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/2/3/23574064/new-movies-watch-black-panther-wakanda-forever-disney-plus-plane-vod-skinamarink-shudder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
