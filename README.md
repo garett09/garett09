@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flipkart-owned Indian fashion retailer Myntra is penalizing users who return items too often; studies: 25% to 40% of clothes sold online in India are returned &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230204/p6#a230204p6)
  - [Best TV for 2023: Samsung, TCL, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Instacart Perks Cheat Sheet: Everything You Should Take Advantage of This Year     - CNET](https://www.cnet.com/deals/instacart-perks-cheat-sheet-everything-you-should-take-advantage-of-this-year/#ftag=CAD590a51e)
- - [Alphabet, Amazon, and other tech firms begin 2023 by championing austerity after facing the worst year on Wall Street in 2022 since the 2008 financial crisis &lpar;New York Times&rpar;](http://www.techmeme.com/230204/p5#a230204p5)<!-- TECH:END -->
+ - [Instacart Perks Cheat Sheet: Everything You Should Take Advantage of This Year     - CNET](https://www.cnet.com/deals/instacart-perks-cheat-sheet-everything-you-should-take-advantage-of-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
