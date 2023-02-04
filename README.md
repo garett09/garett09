@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And they have feelings too](http://9gag.com/gag/ajVgxpx)
- - 🚯 [Facts](http://9gag.com/gag/aEq8WEG)
- - 🚯 [A Real Clown!!!](http://9gag.com/gag/aVbxEjw)<!-- MEMES:END -->
+ - 🚖 [A Real Clown!!!](http://9gag.com/gag/aVbxEjw)
+ - 🚯 [Nature is so complex.](http://9gag.com/gag/axoBRMp)
+ - 🚯 [Farmer sprays poop at protestors trespassing on his land](http://9gag.com/gag/aDYD83w)<!-- MEMES:END -->
 
 --- 
 
