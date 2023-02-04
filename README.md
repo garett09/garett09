@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Environmental activist superglues himself on the road then tosses the empty plastic bottle down the drain](http://9gag.com/gag/aVbxbjw)
- - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 🚯 [I&#39;ll just grab the pope&#39;s hand](http://9gag.com/gag/anzgzBo)<!-- MEMES:END -->
+ - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
+ - 🚯 [Dog Jesus](http://9gag.com/gag/agogQGn)
+ - 🚯 [What could go wrong?](http://9gag.com/gag/a9q11qW)<!-- MEMES:END -->
 
 --- 
 
