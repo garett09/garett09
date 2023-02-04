@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Electrify America is increasing prices at its DC fast charging stations](https://www.theverge.com/2023/2/3/23584747/electrify-america-price-increase-ev-charging-stations-march-2023)
- - [&#39;Myst&#39; is coming back to iPhone &amp; iPad for 30th anniversary](https://appleinsider.com/articles/23/02/03/myst-is-coming-back-to-iphone-ipad-for-30th-anniversary?utm_medium=rss)<!-- TECH:END -->
+ - [Onehouse, a cloud data lake service based on the Apache Hudi platform, raised a $25M Series A led by Addition and Greylock, bringing its total funding to $33M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230203/p27#a230203p27)
+ - [An analysis of 68 news domains: 45 ranked worse in UK Google search results in January 2023 vs. January 2022; those with non-news content saw the biggest gains &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/230203/p26#a230203p26)
+ - [Nvidia says there’s a fix for Discord slowing down your GPU](https://www.theverge.com/2023/2/3/23585155/nvidia-discord-slowdown-fix-rtx-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
