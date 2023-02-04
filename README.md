@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Compounding Is The 8th Wonder...!](http://9gag.com/gag/awZzyZQ)
- - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
+ - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
+ - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 🚯 [Clearest pic of the Chinese spy balloon currently above the US so far &lpar;source: Stormchaser TS&rpar;. The device alone with the solar panels is about 50-60m in length.](http://9gag.com/gag/aVbxm8O)<!-- MEMES:END -->
 
 --- 
 
