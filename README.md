@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-470-3275511/)
- - [A viral tweet alleges bias as ChatGPT refuses to write a poem about positive attributes of Trump but writes one about Biden; sources: OpenAI doesn&#39;t know why &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230204/p11#a230204p11)
- - [Deal: Score 2 months of Xbox Game Pass Ultimate for just $9.99](https://www.androidauthority.com/xbox-game-pass-ultimate-deal-3276262/)<!-- TECH:END -->
+ - [Sources: the US is weighing sanctions on Tiandy, Uniview, and other Chinese surveillance tech makers over sales to Iran in 2022 as protests swept the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230204/p12#a230204p12)
+ - [Save 50% on Apple&#39;s iPad 10th Generation, now just $224.99 &lpar;cheapest price ever&rpar;](https://appleinsider.com/articles/23/02/04/save-50-on-apples-ipad-10th-generation-now-just-22499-cheapest-price-ever?utm_medium=rss)
+ - [Meta wins fight to buy VR startup Within](https://www.theverge.com/2023/2/1/23575041/meta-within-vr-acquisition-ftc-antitrust-lawsuit-injunction-denied)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
