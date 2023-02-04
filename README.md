@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT testing shows the chatbot struggles with basic arithmetic questions, confidently offering entertaining but wrong answers, an inherent problem with LLMs &lpar;Josh Zumbrun/Wall Street Journal&rpar;](http://www.techmeme.com/230203/p31#a230203p31)
- - [LeafLink, whose e-commerce marketplace connects 3,700+ cannabis brands with 8,400+ cannabis retailers, raised a $100M Series D co-led by CPMG, L2, and Nosara &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230203/p30#a230203p30)
- - [Treasury Prime, which offers APIs to help businesses integrate with banks, raised a $40M Series C led by BAM Elevate, bringing its total raised to about $73M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230203/p29#a230203p29)<!-- TECH:END -->
+ - [A US judge denies the FTC&#39;s bid to stop Meta&#39;s acquisition of Within, rejecting the regulator&#39;s concerns of the deal reducing competition in the AR/VR market &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/230204/p1#a230204p1)
+ - [A federal jury in San Francisco finds Elon Musk not liable in a Tesla shareholder suit over 2018 tweets in which he said he was considering taking Tesla private &lpar;CNBC&rpar;](http://www.techmeme.com/230203/p32#a230203p32)
+ - [ChatGPT testing shows the chatbot struggles with basic arithmetic questions, confidently offering entertaining but wrong answers, an inherent problem with LLMs &lpar;Josh Zumbrun/Wall Street Journal&rpar;](http://www.techmeme.com/230203/p31#a230203p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
