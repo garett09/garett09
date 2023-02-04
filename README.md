@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [Dog Jesus](http://9gag.com/gag/agogQGn)
- - 🚯 [I almost dropped a log\u2026](http://9gag.com/gag/aXnr41D)<!-- MEMES:END -->
+ - 🚖 [I got you](http://9gag.com/gag/awZzZqr)
+ - 🚯 [Environmental activist superglues himself on the road then tosses the empty plastic bottle down the drain](http://9gag.com/gag/aVbxbjw)
+ - 🚯 [Well played](http://9gag.com/gag/axoBbQb)<!-- MEMES:END -->
 
 --- 
 
