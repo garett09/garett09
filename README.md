@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
- - 🚯 [But careful you might hurt their feelings!](http://9gag.com/gag/a9q1vo1)
- - 🚯 [The US is currently tracking a massive Chinese spy balloon flying in the stratosphere above US mainland &lpar;pictured below&rpar; and waiting for the right moment to shoot it down. It&#39;s so big that the public can see it from the ground. I kid you not, check any US media.](http://9gag.com/gag/aKEmAg6)<!-- MEMES:END -->
+ - 🚖 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
+ - 🚯 [These racing games are getting out of hand](http://9gag.com/gag/aOxQDRM)
+ - 🚯 [But careful you might hurt their feelings!](http://9gag.com/gag/a9q1vo1)<!-- MEMES:END -->
 
 --- 
 
