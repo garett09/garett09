@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Sdui, whose software provides communication and diary tools for schools, raised an $18M Series A extension, bringing total Series A to &amp;euro;25M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/230203/p28#a230203p28)
- - [The Chinese Spy Balloon Shows the Downsides of Spy Balloons](https://www.wired.com/story/china-spy-balloon-2023/)
- - [Onehouse, a cloud data lake service based on the Apache Hudi platform, raised a $25M Series A led by Addition and Greylock, bringing its total funding to $33M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230203/p27#a230203p27)<!-- TECH:END -->
+ - [LeafLink, whose e-commerce marketplace connects 3,700+ cannabis brands with 8,400+ cannabis retailers, raised a $100M Series D co-led by CPMG, L2, and Nosara &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230203/p30#a230203p30)
+ - [Treasury Prime, which offers APIs to help businesses integrate with banks, raised a $40M Series C led by BAM Elevate, bringing its total raised to about $73M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230203/p29#a230203p29)
+ - [Germany-based Sdui, whose software provides communication and diary tools for schools, raised an $18M Series A extension, bringing total Series A to &amp;euro;25M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/230203/p28#a230203p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
