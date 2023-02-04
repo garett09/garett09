@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)
- - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
+ - 🚖 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)
+ - 🚯 [Ladies and Gentlemen, we got him](http://9gag.com/gag/aKEmOqN)
+ - 🚯 [These racing games are getting out of hand](http://9gag.com/gag/aOxQDRM)<!-- MEMES:END -->
 
 --- 
 
