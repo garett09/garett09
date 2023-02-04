@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)
- - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
+ - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
+ - 🚯 [Sorry guys i know this is not twitter but...](http://9gag.com/gag/aOxQZPv)
+ - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
 
 --- 
 
