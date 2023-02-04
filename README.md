@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knock at the Cabin’s original ending was much darker](https://www.polygon.com/23585061/knock-at-the-cabin-ending-book-vs-movie-m-night-shyamalan)
- - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)
- - [The DCU plans do what Marvel can’t anymore: adapt comics](https://www.polygon.com/23584690/new-dc-movies-batman-superman-vs-marvel)<!-- GAME:END -->
+ - [3 things I learned about the 40K hobby by building a scale model airplane](https://www.polygon.com/tabletop-games/23580330/painting-warhammer-40k-miniatures-model-airplane)
+ - [Check out this modder&#39;s doomed quest to turn a Nintendo Switch into a Steam Deck](https://www.pcgamer.com/check-out-this-modders-doomed-quest-to-turn-a-nintendo-switch-into-a-steam-deck)
+ - [Knock at the Cabin’s original ending was much darker](https://www.polygon.com/23585061/knock-at-the-cabin-ending-book-vs-movie-m-night-shyamalan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
