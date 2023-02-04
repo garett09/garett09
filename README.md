@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [Sorry guys i know this is not twitter but...](http://9gag.com/gag/aOxQZPv)
+ - 🚖 [Compounding Is The 8th Wonder...!](http://9gag.com/gag/awZzyZQ)
+ - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)
  - 🚯 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
 
 --- 
