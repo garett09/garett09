@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Trek To Yomi Is The Best Time You’ll Never Want To Have Again](https://kotaku.com/trek-to-yomi-nintendo-switch-game-diary-flying-wild-hog-1850072041)
  - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;February 2023&rpar;](https://www.polygon.com/what-to-watch/2023/2/4/23576758/best-new-movies-netflix-amazon-hbo-hulu-february-2023)
- - [Wordle hint and answer today: Let&#39;s solve #595, February 4](https://www.pcgamer.com/wordle-hint-answer-today-595-february-4)
- - [Become a Malkavian PI in pursuit of a serial killer in this Vampire Jam 2022 winner](https://www.pcgamer.com/become-a-malkavian-pi-in-pursuit-of-a-serial-killer-in-this-vampire-jam-2022-winner)<!-- GAME:END -->
+ - [Wordle hint and answer today: Let&#39;s solve #595, February 4](https://www.pcgamer.com/wordle-hint-answer-today-595-february-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
