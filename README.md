@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Financial influencers are pumping out videos promoting dubious ChatGPT get-rich-quick schemes, such as selling chatbot-generated tutorials on sites like Udemy &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230204/p15#a230204p15)
- - [Spotify’s founder helped develop an AI-powered body health scanner](https://www.theverge.com/2023/2/4/23585948/spotify-founder-daniel-ek-ai-body-health-scanner)
- - [Apple is &#39;world&#39;s most admired company&#39; for 16th straight year](https://appleinsider.com/articles/23/02/04/apple-is-worlds-most-admired-company-for-16th-straight-year?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus 11 Is Coming Soon, and I Can&#39;t Wait to Try It     - CNET](https://www.cnet.com/tech/mobile/the-oneplus-11-is-coming-soon-and-i-cant-wait-to-try-it/#ftag=CAD590a51e)
+ - [US Shoots Down Suspected Chinese Spy Balloon Over Atlantic     - CNET](https://www.cnet.com/news/politics/us-shoots-down-suspected-chinese-spy-balloon-over-atlantic/#ftag=CAD590a51e)
+ - [Best Dog Toys, According to the Experts: Our Dogs     - CNET](https://www.cnet.com/news/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
