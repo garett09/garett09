@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 📦 Unpacking Galaxy Unpacked](https://www.androidauthority.com/weekly-authority-february-4-2023-230-3275339/)
- - [The 10 Best Games on PlayStation Plus](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
- - [37 Great Valentine&#39;s Day Deals: Instant Cameras, Weighted Blankets, and More](https://www.wired.com/story/weekend-deals-february-4-2023/)<!-- TECH:END -->
+ - [What are Hearables and what’s at play?](https://www.androidauthority.com/what-are-hearables-and-whats-at-play-3243928/)
+ - [The Climate Crisis Is Threatening Spain’s Saffron Crop](https://www.wired.com/story/the-climate-crisis-is-threatening-spains-saffron-crop/)
+ - [The Weekly Authority: 📦 Unpacking Galaxy Unpacked](https://www.androidauthority.com/weekly-authority-february-4-2023-230-3275339/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
