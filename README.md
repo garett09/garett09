@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #595, February 4](https://www.pcgamer.com/wordle-hint-answer-today-595-february-4)
  - [Become a Malkavian PI in pursuit of a serial killer in this Vampire Jam 2022 winner](https://www.pcgamer.com/become-a-malkavian-pi-in-pursuit-of-a-serial-killer-in-this-vampire-jam-2022-winner)
- - [Let’s talk about the end of Knock at the Cabin](https://www.polygon.com/23583438/knock-at-the-cabin-ending-twist-m-night-shyamalan)
- - [Man, Steam&#39;s official website has come a long way in 21 years](https://www.pcgamer.com/man-steams-official-website-has-come-a-long-way-in-21-years)<!-- GAME:END -->
+ - [Let’s talk about the end of Knock at the Cabin](https://www.polygon.com/23583438/knock-at-the-cabin-ending-twist-m-night-shyamalan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
