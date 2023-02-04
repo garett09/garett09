@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York AG fines a stalkerware developer $410K and forces him to alert his customers&#39; victims that they are being secretly monitored using one of his apps &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230204/p13#a230204p13)
- - [You should spring-clean your smart home](https://www.androidauthority.com/smart-home-clean-3267100/)
- - [The Galaxy S23 seems boring, but it’s exactly what we wanted from Samsung](https://www.androidauthority.com/samsung-galaxy-s23-specs-opinion-3274226/)<!-- TECH:END -->
+ - [New Macs, HomePod, and an event deleted scene -- January 2023 in review](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
+ - [Google&#39;s Chromium team working on non-WebKit browser for iOS](https://appleinsider.com/articles/23/02/04/googles-chromium-team-work-on-non-webkit-browser-for-ios?utm_medium=rss)
+ - [A look at little-known UK-based fintech Transactive, which processes &amp;euro;1B+ monthly and has UK and Lithuania licenses, and questions about staff ties to scammers &lpar;Donal Griffin/Bloomberg&rpar;](http://www.techmeme.com/230204/p14#a230204p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
