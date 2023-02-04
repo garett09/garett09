@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aerial Picture of an uncontacted Amazon Tribe](http://9gag.com/gag/ay2935y)
- - 🚯 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
- - 🚯 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)<!-- MEMES:END -->
+ - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
+ - 🚯 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)
+ - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
 
 --- 
 
