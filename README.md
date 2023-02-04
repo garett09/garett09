@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet, Amazon, and other tech firms begin 2023 by championing austerity after facing the worst year on Wall Street in 2022 since the 2008 financial crisis &lpar;New York Times&rpar;](http://www.techmeme.com/230204/p5#a230204p5)
- - [Utah lawmakers are fast tracking two bills that would require social media companies to age verify users, grant parents access to their kids&#39; accounts, and more &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230204/p4#a230204p4)
- - [The LockBit ransomware gang claims ION Trading UK paid a ransom after the group&#39;s cyberattack on the software firm upended derivatives trading around the world &lpar;Bloomberg&rpar;](http://www.techmeme.com/230204/p3#a230204p3)<!-- TECH:END -->
+ - [Best TV for 2023: Samsung, TCL, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [Instacart Perks Cheat Sheet: Everything You Should Take Advantage of This Year     - CNET](https://www.cnet.com/deals/instacart-perks-cheat-sheet-everything-you-should-take-advantage-of-this-year/#ftag=CAD590a51e)
+ - [Alphabet, Amazon, and other tech firms begin 2023 by championing austerity after facing the worst year on Wall Street in 2022 since the 2008 financial crisis &lpar;New York Times&rpar;](http://www.techmeme.com/230204/p5#a230204p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
