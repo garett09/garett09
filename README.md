@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are Hearables and what’s at play?](https://www.androidauthority.com/what-are-hearables-and-whats-at-play-3243928/)
- - [The Climate Crisis Is Threatening Spain’s Saffron Crop](https://www.wired.com/story/the-climate-crisis-is-threatening-spains-saffron-crop/)
- - [The Weekly Authority: 📦 Unpacking Galaxy Unpacked](https://www.androidauthority.com/weekly-authority-february-4-2023-230-3275339/)<!-- TECH:END -->
+ - [Googling for Software Downloads Is Extra Risky Right Now](https://www.wired.com/story/google-ads-malware-software-downloads-security-roundup/)
+ - [China’s XPeng G9 Could Be the Best Electric SUV Around](https://www.wired.com/story/first-drive-xpeng-g9/)
+ - [10 Best Merino Wool Apparel &lpar;2023&rpar;: Hoodies, Shirts, Pants, and Socks](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
