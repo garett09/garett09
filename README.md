@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)
+ - 🚖 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
  - 🚯 [Ladies and Gentlemen, we got him](http://9gag.com/gag/aKEmOqN)
- - 🚯 [These racing games are getting out of hand](http://9gag.com/gag/aOxQDRM)<!-- MEMES:END -->
+ - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
 
 --- 
 
