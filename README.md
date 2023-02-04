@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Real Clown!!!](http://9gag.com/gag/aVbxEjw)
- - 🚯 [Nature is so complex.](http://9gag.com/gag/axoBRMp)
- - 🚯 [Farmer sprays poop at protestors trespassing on his land](http://9gag.com/gag/aDYD83w)<!-- MEMES:END -->
+ - 🚖 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
+ - 🚯 [Motorcycle airbag suit in action.](http://9gag.com/gag/a5X1VnO)
+ - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
 
 --- 
 
