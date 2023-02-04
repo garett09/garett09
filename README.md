@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
- - 🚯 [Motorcycle airbag suit in action.](http://9gag.com/gag/a5X1VnO)
- - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
+ - 🚖 [Citric acid crystals I grew in my basement for 8 months. Well anyway...](http://9gag.com/gag/a8q1ADQ)
+ - 🚯 [ESPN brought to you by pepsi](http://9gag.com/gag/a6q12Dq)
+ - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)<!-- MEMES:END -->
 
 --- 
 
