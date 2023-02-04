@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Onehouse, a cloud data lake service based on the Apache Hudi platform, raised a $25M Series A led by Addition and Greylock, bringing its total funding to $33M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230203/p27#a230203p27)
- - [An analysis of 68 news domains: 45 ranked worse in UK Google search results in January 2023 vs. January 2022; those with non-news content saw the biggest gains &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/230203/p26#a230203p26)
- - [Nvidia says there’s a fix for Discord slowing down your GPU](https://www.theverge.com/2023/2/3/23585155/nvidia-discord-slowdown-fix-rtx-update)<!-- TECH:END -->
+ - [Germany-based Sdui, whose software provides communication and diary tools for schools, raised an $18M Series A extension, bringing total Series A to &amp;euro;25M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/230203/p28#a230203p28)
+ - [The Chinese Spy Balloon Shows the Downsides of Spy Balloons](https://www.wired.com/story/china-spy-balloon-2023/)
+ - [Onehouse, a cloud data lake service based on the Apache Hudi platform, raised a $25M Series A led by Addition and Greylock, bringing its total funding to $33M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230203/p27#a230203p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
