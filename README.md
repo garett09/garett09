@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - 🚯 [Dog Jesus](http://9gag.com/gag/agogQGn)
- - 🚯 [What could go wrong?](http://9gag.com/gag/a9q11qW)<!-- MEMES:END -->
+ - 🚖 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
+ - 🚯 [I dont know if its true](http://9gag.com/gag/aZDrDBn)
+ - 🚯 [Sorry guys i know this is not twitter but...](http://9gag.com/gag/aOxQZPv)<!-- MEMES:END -->
 
 --- 
 
