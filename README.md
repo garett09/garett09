@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I got you](http://9gag.com/gag/awZzZqr)
- - 🚯 [Environmental activist superglues himself on the road then tosses the empty plastic bottle down the drain](http://9gag.com/gag/aVbxbjw)
- - 🚯 [Well played](http://9gag.com/gag/axoBbQb)<!-- MEMES:END -->
+ - 🚖 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)
+ - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)
+ - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
 
 --- 
 
