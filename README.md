@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trek To Yomi Is The Best Time You’ll Never Want To Have Again](https://kotaku.com/trek-to-yomi-nintendo-switch-game-diary-flying-wild-hog-1850072041)
- - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;February 2023&rpar;](https://www.polygon.com/what-to-watch/2023/2/4/23576758/best-new-movies-netflix-amazon-hbo-hulu-february-2023)
- - [Wordle hint and answer today: Let&#39;s solve #595, February 4](https://www.pcgamer.com/wordle-hint-answer-today-595-february-4)<!-- GAME:END -->
+ - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)
+ - [The DCU plans do what Marvel can’t anymore: adapt comics](https://www.polygon.com/23584690/new-dc-movies-batman-superman-vs-marvel)
+ - [Why is Hogwarts Legacy, a Harry Potter video game, so controversial?](https://www.polygon.com/23584328/hogwarts-legacy-controversy-jk-rowling-explainer-transphobia-release-boycott)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
