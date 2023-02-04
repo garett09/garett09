@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
- - 🚯 [These racing games are getting out of hand](http://9gag.com/gag/aOxQDRM)
- - 🚯 [But careful you might hurt their feelings!](http://9gag.com/gag/a9q1vo1)<!-- MEMES:END -->
+ - 🚖 [Aerial Picture of an uncontacted Amazon Tribe](http://9gag.com/gag/ay2935y)
+ - 🚯 [There we go again back to the classics](http://9gag.com/gag/az2ePem)
+ - 🚯 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)<!-- MEMES:END -->
 
 --- 
 
