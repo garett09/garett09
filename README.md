@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is weighing sanctions on Tiandy, Uniview, and other Chinese surveillance tech makers over sales to Iran in 2022 as protests swept the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230204/p12#a230204p12)
- - [Save 50% on Apple&#39;s iPad 10th Generation, now just $224.99 &lpar;cheapest price ever&rpar;](https://appleinsider.com/articles/23/02/04/save-50-on-apples-ipad-10th-generation-now-just-22499-cheapest-price-ever?utm_medium=rss)
- - [Meta wins fight to buy VR startup Within](https://www.theverge.com/2023/2/1/23575041/meta-within-vr-acquisition-ftc-antitrust-lawsuit-injunction-denied)<!-- TECH:END -->
+ - [New York AG fines a stalkerware developer $410K and forces him to alert his customers&#39; victims that they are being secretly monitored using one of his apps &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230204/p13#a230204p13)
+ - [The Galaxy S23 seems boring, but it’s exactly what we wanted from Samsung](https://www.androidauthority.com/samsung-galaxy-s23-specs-opinion-3274226/)
+ - [Casexy review: These adorable phones cases can take a hit](https://appleinsider.com/articles/23/02/04/casexy-review-these-adorable-phones-cases-can-take-a-hit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
