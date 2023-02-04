@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knock at the Cabin’s ending has the perfect M. Night Shyamalan twist](https://www.polygon.com/23583438/knock-at-the-cabin-ending-twist-m-night-shyamalan)
- - [Man, Steam&#39;s official website has come a long way in 21 years](https://www.pcgamer.com/man-steams-official-website-has-come-a-long-way-in-21-years)
- - [Black Panther: Wakanda Forever, Plane, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/2/3/23574064/new-movies-watch-black-panther-wakanda-forever-disney-plus-plane-vod-skinamarink-shudder)<!-- GAME:END -->
+ - [Become a Malkavian PI in pursuit of a serial killer in this Vampire Jam 2022 winner](https://www.pcgamer.com/become-a-malkavian-pi-in-pursuit-of-a-serial-killer-in-this-vampire-jam-2022-winner)
+ - [Let’s talk about the end of Knock at the Cabin](https://www.polygon.com/23583438/knock-at-the-cabin-ending-twist-m-night-shyamalan)
+ - [Man, Steam&#39;s official website has come a long way in 21 years](https://www.pcgamer.com/man-steams-official-website-has-come-a-long-way-in-21-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
