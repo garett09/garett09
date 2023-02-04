@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Googling for Software Downloads Is Extra Risky Right Now](https://www.wired.com/story/google-ads-malware-software-downloads-security-roundup/)
- - [China’s XPeng G9 Could Be the Best Electric SUV Around](https://www.wired.com/story/first-drive-xpeng-g9/)
- - [10 Best Merino Wool Apparel &lpar;2023&rpar;: Hoodies, Shirts, Pants, and Socks](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
+ - [A look at T2, a Twitter alternative founded by a former employee of Google&#39;s Area 120 to offer a &quot;2007 Twitter&quot; vibe that Musk&#39;s platform no longer supplies &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230204/p9#a230204p9)
+ - [Google Pixel 6a revisited: The good and bad, six months later](https://www.androidauthority.com/google-pixel-6a-revisited-3241298/)
+ - [Watch These Movies for Only $5 in Theaters During Black History Month     - CNET](https://www.cnet.com/culture/entertainment/watch-these-movies-for-only-5-in-theaters-during-black-history-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
