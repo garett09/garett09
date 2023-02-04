@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at T2, a Twitter alternative founded by a former employee of Google&#39;s Area 120 to offer a &quot;2007 Twitter&quot; vibe that Musk&#39;s platform no longer supplies &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230204/p9#a230204p9)
- - [Google Pixel 6a revisited: The good and bad, six months later](https://www.androidauthority.com/google-pixel-6a-revisited-3241298/)
- - [Watch These Movies for Only $5 in Theaters During Black History Month     - CNET](https://www.cnet.com/culture/entertainment/watch-these-movies-for-only-5-in-theaters-during-black-history-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deal: Score 2 months of Xbox Game Pass Ultimate for just $9.99](https://www.androidauthority.com/xbox-game-pass-ultimate-deal-3276262/)
+ - [Background check services TruthFinder and Instant Checkmate confirm a data breach after hackers leak a 2019 database allegedly containing the info of 20M users &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230204/p10#a230204p10)
+ - [Newcastle vs. West Ham Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-west-ham-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
