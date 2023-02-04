@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Macs, HomePod, and an event deleted scene -- January 2023 in review](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
- - [Google&#39;s Chromium team working on non-WebKit browser for iOS](https://appleinsider.com/articles/23/02/04/googles-chromium-team-work-on-non-webkit-browser-for-ios?utm_medium=rss)
- - [A look at little-known UK-based fintech Transactive, which processes &amp;euro;1B+ monthly and has UK and Lithuania licenses, and questions about staff ties to scammers &lpar;Donal Griffin/Bloomberg&rpar;](http://www.techmeme.com/230204/p14#a230204p14)<!-- TECH:END -->
+ - [Financial influencers are pumping out videos promoting dubious ChatGPT get-rich-quick schemes, such as selling chatbot-generated tutorials on sites like Udemy &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230204/p15#a230204p15)
+ - [Spotify’s founder helped develop an AI-powered body health scanner](https://www.theverge.com/2023/2/4/23585948/spotify-founder-daniel-ek-ai-body-health-scanner)
+ - [Apple is &#39;world&#39;s most admired company&#39; for 16th straight year](https://appleinsider.com/articles/23/02/04/apple-is-worlds-most-admired-company-for-16th-straight-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
