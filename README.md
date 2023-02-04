@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Does The Journeyman Project deserve its cult status?](https://www.pcgamer.com/saturday-crapshoot-the-journeyman-project)
  - [Sons of the Forest will launch in Early Access to avoid another delay](https://www.pcgamer.com/sons-of-the-forest-will-launch-in-early-access-to-avoid-another-delay)
- - [A Columbian Judge claims to have used ChatGPT to help decide a case](https://www.pcgamer.com/a-columbian-judge-claims-to-have-used-chatgpt-to-decide-a-case)
- - [3 things I learned about the 40K hobby by building a scale model airplane](https://www.polygon.com/tabletop-games/23580330/painting-warhammer-40k-miniatures-model-airplane)<!-- GAME:END -->
+ - [A Colombian Judge claims to have used ChatGPT to help decide a case](https://www.pcgamer.com/a-columbian-judge-claims-to-have-used-chatgpt-to-decide-a-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
