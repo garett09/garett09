@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Citric acid crystals I grew in my basement for 8 months. Well anyway...](http://9gag.com/gag/a8q1ADQ)
- - 🚯 [ESPN brought to you by pepsi](http://9gag.com/gag/a6q12Dq)
- - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)<!-- MEMES:END -->
+ - 🚖 [Such a chad](http://9gag.com/gag/a6q1D4L)
+ - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)
+ - 🚯 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)<!-- MEMES:END -->
 
 --- 
 
