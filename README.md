@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge denies the FTC&#39;s bid to stop Meta&#39;s acquisition of Within, rejecting the regulator&#39;s concerns of the deal reducing competition in the AR/VR market &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/230204/p1#a230204p1)
- - [A federal jury in San Francisco finds Elon Musk not liable in a Tesla shareholder suit over 2018 tweets in which he said he was considering taking Tesla private &lpar;CNBC&rpar;](http://www.techmeme.com/230203/p32#a230203p32)
- - [ChatGPT testing shows the chatbot struggles with basic arithmetic questions, confidently offering entertaining but wrong answers, an inherent problem with LLMs &lpar;Josh Zumbrun/Wall Street Journal&rpar;](http://www.techmeme.com/230203/p31#a230203p31)<!-- TECH:END -->
+ - [The LockBit ransomware gang claims ION Trading UK paid a ransom after the group&#39;s cyberattack on the software firm upended derivatives trading around the world &lpar;Bloomberg&rpar;](http://www.techmeme.com/230204/p3#a230204p3)
+ - [Valencia-based Jeff, which provides a frontend app, data insights, and other tools to manage businesses, raised a $90M Series C, split ~50/50 in equity and debt &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/230204/p2#a230204p2)
+ - [A US judge denies the FTC&#39;s bid to stop Meta&#39;s acquisition of Within, rejecting the regulator&#39;s concerns of the deal reducing competition in the AR/VR market &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/230204/p1#a230204p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
