@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Score 2 months of Xbox Game Pass Ultimate for just $9.99](https://www.androidauthority.com/xbox-game-pass-ultimate-deal-3276262/)
- - [Background check services TruthFinder and Instant Checkmate confirm a data breach after hackers leak a 2019 database allegedly containing the info of 20M users &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230204/p10#a230204p10)
- - [Newcastle vs. West Ham Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-west-ham-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-470-3275511/)
+ - [A viral tweet alleges bias as ChatGPT refuses to write a poem about positive attributes of Trump but writes one about Biden; sources: OpenAI doesn&#39;t know why &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230204/p11#a230204p11)
+ - [Deal: Score 2 months of Xbox Game Pass Ultimate for just $9.99](https://www.androidauthority.com/xbox-game-pass-ultimate-deal-3276262/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
