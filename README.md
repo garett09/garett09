@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet, Amazon, and other tech firms begin 2023 by championing austerity after facing the worst year on Wall Street in 2022 since the 2008 financial crisis &lpar;New York Times&rpar;](http://www.techmeme.com/230204/p5#a230204p5)
  - [Utah lawmakers are fast tracking two bills that would require social media companies to age verify users, grant parents access to their kids&#39; accounts, and more &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230204/p4#a230204p4)
- - [The LockBit ransomware gang claims ION Trading UK paid a ransom after the group&#39;s cyberattack on the software firm upended derivatives trading around the world &lpar;Bloomberg&rpar;](http://www.techmeme.com/230204/p3#a230204p3)
- - [Valencia-based Jeff, which provides a frontend app, data insights, and other tools to manage businesses, raised a $90M Series C, split ~50/50 in equity and debt &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/230204/p2#a230204p2)<!-- TECH:END -->
+ - [The LockBit ransomware gang claims ION Trading UK paid a ransom after the group&#39;s cyberattack on the software firm upended derivatives trading around the world &lpar;Bloomberg&rpar;](http://www.techmeme.com/230204/p3#a230204p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
