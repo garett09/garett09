@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has discussed adding a higher end &quot;Ultra&quot; model to its lineup in 2024, in addition to iPhone Pro and Pro Max models &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230205/p3#a230205p3)
- - [I’m training for a 250K race with an Apple Watch Ultra. It’s perfect.](https://www.androidauthority.com/apple-watch-ultra-marathon-3273730/)
- - [4 Best Cheap Phone Plans &lpar;2023&rpar;: Alternatives to Verizon, AT&amp;T, and T-Mobile](https://www.wired.com/story/guide-to-mvno-phone-plans/)<!-- TECH:END -->
+ - [Apple could introduce a pricier iPhone ‘Ultra’ in 2024](https://www.theverge.com/2023/2/5/23586459/apple-iphone-ultra-2024-price)
+ - [Mac Studio may never get updated, because new Mac Pro is coming](https://appleinsider.com/articles/23/02/05/mac-pro-with-apple-silicon-could-delay-mac-studio-refresh-to-m3-chip-generation?utm_medium=rss)
+ - [New super high-end iPhone could arrive by 2024](https://appleinsider.com/articles/23/02/05/new-pro-beating-iphone-ultra-model-could-arrive-by-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
