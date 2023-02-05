@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
- - 🚯 [A classic](http://9gag.com/gag/agogxbr)
- - 🚯 [The shock in his eyes](http://9gag.com/gag/aeQg7Dq)<!-- MEMES:END -->
+ - 🚖 [They let her shoot again.](http://9gag.com/gag/a1P1DY8)
+ - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - 🚯 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)<!-- MEMES:END -->
 
 --- 
 
