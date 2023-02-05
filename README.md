@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Rip Sweden](http://9gag.com/gag/anzgDvn)
- - 🚯 [Americans see a German jet for the first time in 1944](http://9gag.com/gag/a7q1pKx)
- - 🚯 [Well played](http://9gag.com/gag/axoBbQb)<!-- MEMES:END -->
+ - 🚯 [Well played](http://9gag.com/gag/axoBbQb)
+ - 🚯 [Americans see a German jet for the first time in 1944](http://9gag.com/gag/a7q1pKx)<!-- MEMES:END -->
 
 --- 
 
