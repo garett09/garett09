@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)
- - 🚯 [Tinder RPG](http://9gag.com/gag/aA0G2xL)<!-- MEMES:END -->
+ - 🚖 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
+ - 🚯 [A US jet just shut down the Chinese spy balloon](http://9gag.com/gag/a8q1K0Q)
+ - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)<!-- MEMES:END -->
 
 --- 
 
