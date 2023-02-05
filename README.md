@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nope](http://9gag.com/gag/aDYDXpN)
- - 🚯 [These racing games are getting out of hand](http://9gag.com/gag/aOxQDRM)
- - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)<!-- MEMES:END -->
+ - 🚖 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)
+ - 🚯 [Extwa kwispy](http://9gag.com/gag/amAgnr4)
+ - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)<!-- MEMES:END -->
 
 --- 
 
