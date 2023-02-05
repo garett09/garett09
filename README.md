@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raycast Is the Launcher App Apple Wishes It Made](https://www.wired.com/story/raycast-app-launcher-productivity-tool/)
- - [Daily Deals Feb. 5: $150 off M2 Pro 14-inch MacBook Pro, 91% off Microsoft Office for Mac, 13% off Bose Noise Cancelling Headphones 700](https://appleinsider.com/articles/23/02/05/daily-deals-feb-5-150-off-m2-pro-14-inch-macbook-pro-91-off-microsoft-office-for-mac-13-off-bose-noise-cancelling-headphones-700?utm_medium=rss)
- - [Apple iOS 16 and iPadOS 16 &lpar;2023&rpar;: How to Download, New Features, Supported Devices](https://www.wired.com/story/apple-iphone-ios-16-ipados-16-new-features/)<!-- TECH:END -->
+ - [Sources: Apple has discussed adding a higher end &quot;Ultra&quot; model to its lineup in 2024, in addition to iPhone Pro and Pro Max models &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230205/p3#a230205p3)
+ - [I’m training for a 250K race with an Apple Watch Ultra. It’s perfect.](https://www.androidauthority.com/apple-watch-ultra-marathon-3273730/)
+ - [4 Best Cheap Phone Plans &lpar;2023&rpar;: Alternatives to Verizon, AT&amp;T, and T-Mobile](https://www.wired.com/story/guide-to-mvno-phone-plans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
