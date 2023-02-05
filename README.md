@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Guillemot family&#39;s attempts to retain control of Ubisoft, which has hit setbacks that led to a stock plunge and made the company a takeover target &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/230205/p5#a230205p5)
  - [Users discover iCloud Backup issues following iOS 16.3 update](https://appleinsider.com/articles/23/02/05/users-discover-icloud-backup-issues-following-ios-163-update?utm_medium=rss)
- - [&#39;Black Panther: Wakanda Forever&#39; Post-Credits Scene and MCU Future Hints, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-mcu-future-hints-explained/#ftag=CAD590a51e)
- - [The 9 Best Mattresses for Heavy People for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Black Panther: Wakanda Forever&#39; Post-Credits Scene and MCU Future Hints, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-mcu-future-hints-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
