@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhammer 40K’s angriest big boy is back and he’s going to fight you](https://www.polygon.com/23583380/warhammer-40k-angron-primarch-world-eaters-lore-explainer)
  - [Wordle hint and answer today: Let&#39;s solve #596, February 5](https://www.pcgamer.com/wordle-hint-answer-today-596-february-5)
- - [Evil Dead: The Game gets a new &#39;Splatter Royale&#39; mode](https://www.pcgamer.com/evil-dead-the-game-gets-a-new-splatter-royale-mode)
- - [Explore a vast industrial hulk with your trusty climbing axes in this eerie first person platformer](https://www.pcgamer.com/explore-a-vast-industrial-hulk-with-your-trusty-climbing-axes-in-this-eerie-first-person-platformer)<!-- GAME:END -->
+ - [Evil Dead: The Game gets a new &#39;Splatter Royale&#39; mode](https://www.pcgamer.com/evil-dead-the-game-gets-a-new-splatter-royale-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
