@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Noibat Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/2/4/23584669/noibat-community-day-shiny-noivern-meta-bonuses)
  - [Shocking no one, real-life Squid Game seems to have been a bad idea](https://www.pcgamer.com/shocking-no-one-real-life-squid-game-seems-to-have-been-a-bad-idea)
- - [Dreamy Zelda-like Anodyne is free to keep this weekend](https://www.pcgamer.com/dreamy-zelda-like-anodyne-is-free-to-keep-this-weekend)
- - [Does The Journeyman Project deserve its cult status?](https://www.pcgamer.com/saturday-crapshoot-the-journeyman-project)<!-- GAME:END -->
+ - [Dreamy Zelda-like Anodyne is free to keep this weekend](https://www.pcgamer.com/dreamy-zelda-like-anodyne-is-free-to-keep-this-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
