@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They let her shoot again.](http://9gag.com/gag/a1P1DY8)
- - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
- - 🚯 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)<!-- MEMES:END -->
+ - 🚖 [Gigachad](http://9gag.com/gag/aOxQZK2)
+ - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)
+ - 🚯 [Tinder RPG](http://9gag.com/gag/aA0G2xL)<!-- MEMES:END -->
 
 --- 
 
