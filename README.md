@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)
- - 🚯 [Extwa kwispy](http://9gag.com/gag/amAgnr4)
- - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)<!-- MEMES:END -->
+ - 🚖 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - 🚯 [Journalism](http://9gag.com/gag/a2K1Oee)
+ - 🚯 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)<!-- MEMES:END -->
 
 --- 
 
