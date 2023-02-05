@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Trigun Stampede’s ending credits have a beautiful secret hiding in plain sight](https://www.polygon.com/23579445/trigun-stampede-secret-ending-sequence-break-down)
  - [Warhammer 40K’s angriest big boy is back and he’s going to fight you](https://www.polygon.com/23583380/warhammer-40k-angron-primarch-world-eaters-lore-explainer)
- - [Wordle hint and answer today: Let&#39;s solve #596, February 5](https://www.pcgamer.com/wordle-hint-answer-today-596-february-5)
- - [Evil Dead: The Game gets a new &#39;Splatter Royale&#39; mode](https://www.pcgamer.com/evil-dead-the-game-gets-a-new-splatter-royale-mode)<!-- GAME:END -->
+ - [Wordle hint and answer today: Let&#39;s solve #596, February 5](https://www.pcgamer.com/wordle-hint-answer-today-596-february-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
