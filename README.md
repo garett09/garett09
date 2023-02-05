@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dreamy Zelda-like Anodyne is free to keep this weekend](https://www.pcgamer.com/dreamy-zelda-like-anodyne-is-free-to-keep-this-weekend)
  - [Does The Journeyman Project deserve its cult status?](https://www.pcgamer.com/saturday-crapshoot-the-journeyman-project)
- - [Sons of the Forest will launch in Early Access to avoid another delay](https://www.pcgamer.com/sons-of-the-forest-will-launch-in-early-access-to-avoid-another-delay)
- - [A Colombian Judge claims to have used ChatGPT to help decide a case](https://www.pcgamer.com/a-columbian-judge-claims-to-have-used-chatgpt-to-decide-a-case)<!-- GAME:END -->
+ - [Sons of the Forest will launch in Early Access to avoid another delay](https://www.pcgamer.com/sons-of-the-forest-will-launch-in-early-access-to-avoid-another-delay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
