@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A classic](http://9gag.com/gag/agogxbr)
- - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)
- - 🚯 [You already have the image of the actual incident. It&#39;s ridiculous to search for a Google stock photo for your article.](http://9gag.com/gag/aNwPjB6)<!-- MEMES:END -->
+ - 🚖 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)
+ - 🚯 [Nightmare fuel](http://9gag.com/gag/anzgnZV)
+ - 🚯 [But careful you might hurt their feelings!](http://9gag.com/gag/a9q1vo1)<!-- MEMES:END -->
 
 --- 
 
