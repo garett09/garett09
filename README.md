@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe cases are coming for our Android phones; bring them on!](https://www.androidauthority.com/magsafe-cases-android-phones-3275280/)
- - [The 8 Best 4K TVs for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Galaxy S23 Models Compared: Every Difference Between the Base, Plus and Ultra     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-models-compared-every-difference-between-the-base-plus-and-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shargeek Retro 67 review: Nostalgia plus power equal a winning formula](https://appleinsider.com/articles/23/02/05/shargeek-retro-67-review-nostalgia-plus-power-equal-a-winning-formula?utm_medium=rss)
+ - [Soup Recall: See if You&#39;re Affected by Rao&#39;s Labeling Mishap     - CNET](https://www.cnet.com/news/soup-recall-see-if-youre-affected-by-raos-labeling-mishap/#ftag=CAD590a51e)
+ - [MagSafe cases are coming for our Android phones; bring them on!](https://www.androidauthority.com/magsafe-cases-android-phones-3275280/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
