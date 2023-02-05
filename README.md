@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Journalism](http://9gag.com/gag/a2K1Oee)
- - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)
- - 🚯 [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)<!-- MEMES:END -->
+ - 🚖 [Kids are cruel](http://9gag.com/gag/aOxQGXv)
+ - 🚯 [Turn the table. flip the burger.](http://9gag.com/gag/aA0GZ02)
+ - 🚯 [Embrace the warmth](http://9gag.com/gag/az2eQNZ)<!-- MEMES:END -->
 
 --- 
 
