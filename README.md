@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could introduce a pricier iPhone ‘Ultra’ in 2024](https://www.theverge.com/2023/2/5/23586459/apple-iphone-ultra-2024-price)
- - [Mac Studio may never get updated, because new Mac Pro is coming](https://appleinsider.com/articles/23/02/05/mac-pro-with-apple-silicon-could-delay-mac-studio-refresh-to-m3-chip-generation?utm_medium=rss)
- - [New super high-end iPhone could arrive by 2024](https://appleinsider.com/articles/23/02/05/new-pro-beating-iphone-ultra-model-could-arrive-by-2024?utm_medium=rss)<!-- TECH:END -->
+ - [MagSafe cases are coming for our Android phones; bring them on!](https://www.androidauthority.com/magsafe-cases-android-phones-3275280/)
+ - [The 8 Best 4K TVs for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
+ - [Galaxy S23 Models Compared: Every Difference Between the Base, Plus and Ultra     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-models-compared-every-difference-between-the-base-plus-and-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
