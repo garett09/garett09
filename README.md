@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Activision deal is the biggest test yet of the new alignment on antitrust enforcement between the US FTC, the European Commission, and the UK&#39;s CMA &lpar;New York Times&rpar;](http://www.techmeme.com/230205/p4#a230205p4)
- - [Elon Musk says bots with ‘good content’ can use Twitter’s API for free](https://www.theverge.com/2023/2/5/23586577/elon-musk-bots-good-content-twitters-api-free)
- - [Sleep Experts Reveal Why We Dream and the Meaning Behind Them     - CNET](https://www.cnet.com/health/sleep/sleep-experts-reveal-why-we-dream-and-the-meaning-behind-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
+ - [8 Chromebook Myths To Ignore When Laptop Shopping     - CNET](https://www.cnet.com/tech/computing/8-chromebook-myths-to-ignore-when-laptop-shopping/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Activision deal is the biggest test yet of the new alignment on antitrust enforcement between the US FTC, the European Commission, and the UK&#39;s CMA &lpar;New York Times&rpar;](http://www.techmeme.com/230205/p4#a230205p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
