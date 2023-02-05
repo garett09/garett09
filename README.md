@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids are cruel](http://9gag.com/gag/aOxQGXv)
- - 🚯 [Turn the table. flip the burger.](http://9gag.com/gag/aA0GZ02)
- - 🚯 [Embrace the warmth](http://9gag.com/gag/az2eQNZ)<!-- MEMES:END -->
+ - 🚖 [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
+ - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
 
 --- 
 
