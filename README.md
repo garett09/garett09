@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How 1M female health care workers in India are using WhatsApp to fight dangerous medical misinformation and combat the country&#39;s high maternal mortality rates &lpar;Sanket Jain/MIT Technology Review&rpar;](http://www.techmeme.com/230205/p2#a230205p2)
- - [These Apps Will Keep Your EV from Running Out of Juice](https://www.wired.com/story/apps-find-electric-vehicle-battery-charge-locations/)
- - [Meta’s Gruesome Content Broke Him. Now He Wants It to Pay](https://www.wired.com/story/meta-kenya-lawsuit-outsourcing-content-moderation/)<!-- TECH:END -->
+ - [Apple iOS 16 and iPadOS 16 &lpar;2023&rpar;: How to Download, New Features, Supported Devices](https://www.wired.com/story/apple-iphone-ios-16-ipados-16-new-features/)
+ - [Apple HomePod Review &lpar;2023&rpar;: Old and Stale](https://www.wired.com/review/apple-homepod-2023/)
+ - [How 1M female health care workers in India are using WhatsApp to fight dangerous medical misinformation and combat the country&#39;s high maternal mortality rates &lpar;Sanket Jain/MIT Technology Review&rpar;](http://www.techmeme.com/230205/p2#a230205p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
