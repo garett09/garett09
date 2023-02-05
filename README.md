@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan: 53% of institutional traders predict AI will be the most influential technology for trading in the next three years; 72% have no plans to trade crypto &lpar;Greg Ritchie/Bloomberg&rpar;](http://www.techmeme.com/230205/p1#a230205p1)
- - [Epic deals: save up to 50% on M2 MacBook Air &amp; get an M2 iPad Pro 256GB for $455](https://appleinsider.com/articles/23/02/05/epic-deals-save-up-to-50-on-m2-macbook-air-get-an-m2-ipad-pro-256gb-for-455?utm_medium=rss)
- - [A look at &quot;de-influencers&quot;, a rising cohort of TikTok users criticizing viral products and promoting thoughtful shopping; #deinfluencing videos passed 68M views &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230204/p17#a230204p17)<!-- TECH:END -->
+ - [How 1M female health care workers in India are using WhatsApp to fight dangerous medical misinformation and combat the country&#39;s high maternal mortality rates &lpar;Sanket Jain/MIT Technology Review&rpar;](http://www.techmeme.com/230205/p2#a230205p2)
+ - [These Apps Will Keep Your EV from Running Out of Juice](https://www.wired.com/story/apps-find-electric-vehicle-battery-charge-locations/)
+ - [Meta’s Gruesome Content Broke Him. Now He Wants It to Pay](https://www.wired.com/story/meta-kenya-lawsuit-outsourcing-content-moderation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
