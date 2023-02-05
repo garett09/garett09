@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rip Sweden](http://9gag.com/gag/anzgDvn)
- - 🚯 [Well played](http://9gag.com/gag/axoBbQb)
- - 🚯 [Americans see a German jet for the first time in 1944](http://9gag.com/gag/a7q1pKx)<!-- MEMES:END -->
+ - 🚖 [A classic](http://9gag.com/gag/agogxbr)
+ - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)<!-- MEMES:END -->
 
 --- 
 
