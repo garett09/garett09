@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nightmare fuel](http://9gag.com/gag/anzgnZV)
- - 🚯 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
- - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)<!-- MEMES:END -->
+ - 🚖 [Indeed](http://9gag.com/gag/aGEzOKX)
+ - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
+ - 🚯 [But careful you might hurt their feelings!](http://9gag.com/gag/a9q1vo1)<!-- MEMES:END -->
 
 --- 
 
