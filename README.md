@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - 🚖 [Street cat &lpar;black one&rpar; vs house cat &lpar;white one&rpar; reaction to fireworks.](http://9gag.com/gag/a9q1VPZ)
  - 🚯 [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
- - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - 🚯 [Kids are cruel](http://9gag.com/gag/aOxQGXv)<!-- MEMES:END -->
 
 --- 
 
