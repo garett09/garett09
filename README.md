@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iOS 16 and iPadOS 16 &lpar;2023&rpar;: How to Download, New Features, Supported Devices](https://www.wired.com/story/apple-iphone-ios-16-ipados-16-new-features/)
- - [Apple HomePod Review &lpar;2023&rpar;: Old and Stale](https://www.wired.com/review/apple-homepod-2023/)
- - [How 1M female health care workers in India are using WhatsApp to fight dangerous medical misinformation and combat the country&#39;s high maternal mortality rates &lpar;Sanket Jain/MIT Technology Review&rpar;](http://www.techmeme.com/230205/p2#a230205p2)<!-- TECH:END -->
+ - [Raycast Is the Launcher App Apple Wishes It Made](https://www.wired.com/story/raycast-app-launcher-productivity-tool/)
+ - [Daily Deals Feb. 5: $150 off M2 Pro 14-inch MacBook Pro, 91% off Microsoft Office for Mac, 13% off Bose Noise Cancelling Headphones 700](https://appleinsider.com/articles/23/02/05/daily-deals-feb-5-150-off-m2-pro-14-inch-macbook-pro-91-off-microsoft-office-for-mac-13-off-bose-noise-cancelling-headphones-700?utm_medium=rss)
+ - [Apple iOS 16 and iPadOS 16 &lpar;2023&rpar;: How to Download, New Features, Supported Devices](https://www.wired.com/story/apple-iphone-ios-16-ipados-16-new-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
