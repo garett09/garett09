@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Purported Dragon Age: Dreadwolf leak shows actionized combat in a part of Thedas we&#39;ve never seen before](https://www.pcgamer.com/purported-dragon-age-dreadwolf-leak-shows-actionized-combat-in-a-part-of-thedas-weve-never-seen-before)
  - [Trigun Stampede’s ending credits have a beautiful secret hiding in plain sight](https://www.polygon.com/23579445/trigun-stampede-secret-ending-sequence-break-down)
- - [Warhammer 40K’s angriest big boy is back and he’s going to fight you](https://www.polygon.com/23583380/warhammer-40k-angron-primarch-world-eaters-lore-explainer)
- - [Wordle hint and answer today: Let&#39;s solve #596, February 5](https://www.pcgamer.com/wordle-hint-answer-today-596-february-5)<!-- GAME:END -->
+ - [Warhammer 40K’s angriest big boy is back and he’s going to fight you](https://www.polygon.com/23583380/warhammer-40k-angron-primarch-world-eaters-lore-explainer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
