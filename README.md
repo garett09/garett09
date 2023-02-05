@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Evil Dead: The Game gets a new &#39;Splatter Royale&#39; mode](https://www.pcgamer.com/evil-dead-the-game-gets-a-new-splatter-royale-mode)
  - [Explore a vast industrial hulk with your trusty climbing axes in this eerie first person platformer](https://www.pcgamer.com/explore-a-vast-industrial-hulk-with-your-trusty-climbing-axes-in-this-eerie-first-person-platformer)
- - [Great moments in PC gaming: Blasting off the wall of death in Motocross Madness](https://www.pcgamer.com/great-moments-in-pc-gaming-blasting-off-the-wall-of-death-in-motocross-madness)
- - [Pokémon Go Noibat Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/2/4/23584669/noibat-community-day-shiny-noivern-meta-bonuses)<!-- GAME:END -->
+ - [Great moments in PC gaming: Blasting off the wall of death in Motocross Madness](https://www.pcgamer.com/great-moments-in-pc-gaming-blasting-off-the-wall-of-death-in-motocross-madness)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
