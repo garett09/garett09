@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A classic](http://9gag.com/gag/agogxbr)
- - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
- - 🚯 [Gigachad](http://9gag.com/gag/aOxQZK2)<!-- MEMES:END -->
+ - 🚖 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/a8q1D0Q)
+ - 🚯 [Nightmare fuel](http://9gag.com/gag/anzgnZV)
+ - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)<!-- MEMES:END -->
 
 --- 
 
