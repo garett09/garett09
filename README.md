@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [8 Chromebook Myths To Ignore When Laptop Shopping     - CNET](https://www.cnet.com/tech/computing/8-chromebook-myths-to-ignore-when-laptop-shopping/#ftag=CAD590a51e)
- - [Microsoft&#39;s Activision deal is the biggest test yet of the new alignment on antitrust enforcement between the US FTC, the European Commission, and the UK&#39;s CMA &lpar;New York Times&rpar;](http://www.techmeme.com/230205/p4#a230205p4)<!-- TECH:END -->
+ - [Users discover iCloud Backup issues following iOS 16.3 update](https://appleinsider.com/articles/23/02/05/users-discover-icloud-backup-issues-following-ios-163-update?utm_medium=rss)
+ - [&#39;Black Panther: Wakanda Forever&#39; Post-Credits Scene and MCU Future Hints, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-mcu-future-hints-explained/#ftag=CAD590a51e)
+ - [The 9 Best Mattresses for Heavy People for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
