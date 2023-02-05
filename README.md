@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
- - 🚯 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
- - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
+ - 🚖 [Chinese balloon close up](http://9gag.com/gag/aVbxZbO)
+ - 🚯 [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)
+ - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)<!-- MEMES:END -->
 
 --- 
 
