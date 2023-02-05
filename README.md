@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic deals: save up to 50% on M2 MacBook Air &amp; get an M2 iPad Pro 256GB for $455](https://appleinsider.com/articles/23/02/05/epic-deals-save-up-to-50-on-m2-macbook-air-get-an-m2-ipad-pro-256gb-for-455?utm_medium=rss)
  - [A look at &quot;de-influencers&quot;, a rising cohort of TikTok users criticizing viral products and promoting thoughtful shopping; #deinfluencing videos passed 68M views &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230204/p17#a230204p17)
- - [Best Cellphone Deals: Save Big on Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
- - [US Shoots Down Suspected Chinese Spy Balloon Over Atlantic     - CNET](https://www.cnet.com/news/politics/us-shoots-down-suspected-chinese-spy-balloon-over-atlantic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cellphone Deals: Save Big on Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
