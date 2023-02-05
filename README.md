@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indeed](http://9gag.com/gag/aGEzOKX)
- - 🚯 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
- - 🚯 [But careful you might hurt their feelings!](http://9gag.com/gag/a9q1vo1)<!-- MEMES:END -->
+ - 🚖 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - 🚯 [A classic](http://9gag.com/gag/agogxbr)
+ - 🚯 [The shock in his eyes](http://9gag.com/gag/aeQg7Dq)<!-- MEMES:END -->
 
 --- 
 
