@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 11 Is Coming Soon, and I Can&#39;t Wait to Try It     - CNET](https://www.cnet.com/tech/mobile/the-oneplus-11-is-coming-soon-and-i-cant-wait-to-try-it/#ftag=CAD590a51e)
+ - [Epic deals: save up to 50% on M2 MacBook Air &amp; get an M2 iPad Pro 256GB for $455](https://appleinsider.com/articles/23/02/05/epic-deals-save-up-to-50-on-m2-macbook-air-get-an-m2-ipad-pro-256gb-for-455?utm_medium=rss)
  - [US Shoots Down Suspected Chinese Spy Balloon Over Atlantic     - CNET](https://www.cnet.com/news/politics/us-shoots-down-suspected-chinese-spy-balloon-over-atlantic/#ftag=CAD590a51e)
- - [Best Dog Toys, According to the Experts: Our Dogs     - CNET](https://www.cnet.com/news/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tottenham vs. Man City Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-man-city-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
