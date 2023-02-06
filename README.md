@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 🚖 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - 🚯 [The building collapsed during the 7.8M earthquake in Malatya, Turkey.](http://9gag.com/gag/a5X1AWG)
+ - 🚯 [Lemme do it for you](http://9gag.com/gag/aZDrod3)<!-- MEMES:END -->
 
 --- 
 
