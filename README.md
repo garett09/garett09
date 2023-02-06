@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)
- - [Since buying Twitter, Elon Musk says his workload has reached 120+ hours per week, leading to little sleep and growing back pain, as he runs multiple companies &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/230206/p6#a230206p6)
- - [A profile of blockchain gaming pioneer Yat Siu, who founded Animoca Brands, valued at $5.9B in September 2022, as he copes with the crypto winter and regulators &lpar;Financial Times&rpar;](http://www.techmeme.com/230206/p5#a230206p5)<!-- TECH:END -->
+ - [A profile of Sam Bankman-Fried&#39;s psychiatrist Dr. George Lerner, hired as a coach at FTX in early 2022, as prosecutors seek his communications with executives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230206/p9#a230206p9)
+ - [The Original Joel on &#39;The Last of Us&#39; Was Skeptical of the Show](https://www.wired.com/story/the-last-of-us-cast-q-and-a/)
+ - [The Taliban Can’t Stop TikTok](https://www.wired.com/story/the-taliban-cant-stop-tiktok/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
