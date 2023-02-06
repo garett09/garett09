@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ next season won’t have a new character](https://www.polygon.com/23587698/apex-legends-season-16-new-character-classes-team-deathmatch)
- - [Bleak Sword DX does brutal, lo-fi Elden Ring, one pixelated square at a time](https://www.polygon.com/23584695/bleak-sword-dx-pc-switch-trailer-release-date)
- - [Apex Legends Is Finally Getting A TDM Mode, But Axing Arenas](https://kotaku.com/apex-legends-team-deathmatch-mode-season-16-arenas-1850077549)<!-- GAME:END -->
+ - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)
+ - [Play Darkest Dungeon 2 for free with a new limited time demo](https://www.pcgamer.com/play-darkest-dungeon-2-for-free-with-a-new-limited-time-demo)
+ - [Xbox Celebrates Safer Internet Day with Minecraft’s New Privacy-Themed Learning World and Safety Tips for Parents](https://news.xbox.com/en-us/2023/02/06/xbox-safer-internet-day-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
