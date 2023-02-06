@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poco X5 Pro review: Upping the budget ante](https://www.androidauthority.com/poco-x5-pro-review-3266402/)
- - [a16z used all 15M of its UNI tokens to vote against a proposal to deploy Uniswap V3 on the BNB Chain using the Wormhole bridge; voting concludes on February 10 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230206/p11#a230206p11)
- - [Analysis: despite Elon Musk&#39;s pledge in late November, CSAM still spreads on Twitter, sometimes recommended by its algorithm; one video drew over 120,000 views &lpar;New York Times&rpar;](http://www.techmeme.com/230206/p10#a230206p10)<!-- TECH:END -->
+ - [Samsung executive Raju Pullan says the company has started making its Galaxy Fold, Flip, and S23 smartphones in India, seeking to surpass Xiaomi in the market &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230206/p13#a230206p13)
+ - [Dell to cut 6,650 jobs as PC market downturn continues](https://appleinsider.com/articles/23/02/06/dell-to-cut-6650-jobs-as-pc-market-downturn-continues?utm_medium=rss)
+ - [Raphael Saadiq Found the Perfect Sound for Marvel’s New Show](https://www.wired.com/story/marvel-moon-girl-and-devil-dinosaur-raphael-saadiq/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
