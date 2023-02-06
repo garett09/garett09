@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virginia-based ShiftMed, a labor marketplace for flexible nursing jobs, raised $200M led by Panoramic Ventures and says 350K+ nurses and aides use its app &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230206/p18#a230206p18)
- - [February 2023 Android security patch here, but will T-Mobile Pixel users get it?](https://www.androidauthority.com/february-2023-android-security-patch-3276821/)
- - [Apple updates tvOS and HomePod Software to 16.3.1](https://appleinsider.com/articles/23/02/06/apple-updates-tvos-and-homepod-software-to-1631?utm_medium=rss)<!-- TECH:END -->
+ - [US, France, Italy, others send alerts about ransomware hitting VMware ESXi servers, despite a patch being available in Feb. 2021; Censys: 3,200+ servers hacked &lpar;Apurva Venkat/CSO&rpar;](http://www.techmeme.com/230206/p21#a230206p21)
+ - [The 19 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Microsoft announces an in-person press event at its Redmond HQ on February 7 at 10am PT, expected to focus mainly on its OpenAI partnership and ChatGPT for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230206/p20#a230206p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
