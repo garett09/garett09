@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung executive Raju Pullan says the company has started making its Galaxy Fold, Flip, and S23 smartphones in India, seeking to surpass Xiaomi in the market &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230206/p13#a230206p13)
- - [Dell to cut 6,650 jobs as PC market downturn continues](https://appleinsider.com/articles/23/02/06/dell-to-cut-6650-jobs-as-pc-market-downturn-continues?utm_medium=rss)
- - [Raphael Saadiq Found the Perfect Sound for Marvel’s New Show](https://www.wired.com/story/marvel-moon-girl-and-devil-dinosaur-raphael-saadiq/)<!-- TECH:END -->
+ - [7 Best Cheap Smartphones &lpar;2023&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [A look at the Four Horsemen of the Tech Recession: a hangover from pandemic-era growth, hardware lifecycles, the end of zero interest rates, and Apple&#39;s ATT &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230206/p14#a230206p14)
+ - [Daily Deals Feb. 6: 30% off Apple Pencil 2, $600 off 16-inch MacBook Pro, AirPods Pro 2 for $199 &amp; more](https://appleinsider.com/articles/23/02/06/daily-deals-feb-6-30-off-apple-pencil-2-600-off-16-inch-macbook-pro-airpods-pro-2-for-200-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
