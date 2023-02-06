@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy review-in-progress: It&#39;d be a lot easier to dismiss Hogwarts Legacy if it weren&#39;t so good](https://www.pcgamer.com/hogwarts-legacy-review)
- - [Boy, there sure is a lot of murderin&#39; in Hogwarts Legacy](https://www.pcgamer.com/boy-there-sure-is-a-lot-of-murderin-in-hogwarts-legacy)
- - [A 90-minute demo for immersive detective sim Shadows of Doubt has just landed](https://www.pcgamer.com/a-90-minute-demo-for-immersive-detective-sim-shadows-of-doubt-has-just-landed)<!-- GAME:END -->
+ - [The Day Before trainwreck continues with accusations it&#39;s copied other game trailers](https://www.pcgamer.com/the-day-before-trainwreck-continues-with-accusations-its-copied-other-game-trailers)
+ - [What time does Marvel Snap’s February 2023 season start?](https://www.polygon.com/guides/2023/2/6/23432806/marvel-snap-february-new-season-release-time)
+ - [Hogwarts Legacy review-in-progress: It&#39;d be a lot easier to dismiss Hogwarts Legacy if it weren&#39;t so good](https://www.pcgamer.com/hogwarts-legacy-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
