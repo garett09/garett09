@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As More Games Disappear Forever, John Carmack Has Some Great Advice About Preservation](https://kotaku.com/vr-meta-facebook-carmack-shutdown-failure-close-echo-1850076140)
- - [Activision Blizzard will pay a $35M fine to the SEC](https://www.pcgamer.com/activision-blizzard-will-pay-a-dollar35m-fine-to-the-sec)
- - [Purported Dragon Age: Dreadwolf leak shows actionized combat in a part of Thedas we&#39;ve never seen before](https://www.pcgamer.com/purported-dragon-age-dreadwolf-leak-shows-actionized-combat-in-a-part-of-thedas-weve-never-seen-before)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-6-2023)
+ - [This adorable, Wind Waker-inspired platformer casts you as a friendly delivery witch](https://www.pcgamer.com/this-adorable-wind-waker-inspired-platformer-casts-you-as-a-friendly-delivery-witch)
+ - [As More Games Disappear Forever, John Carmack Has Some Great Advice About Preservation](https://kotaku.com/vr-meta-facebook-carmack-shutdown-failure-close-echo-1850076140)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
