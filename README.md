@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
+ - 🚖 [Hogwart Legacy so far been looking quite good](http://9gag.com/gag/aDYDq3G)
+ - 🚯 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - 🚯 [How unfortunate](http://9gag.com/gag/aVbx4Qd)<!-- MEMES:END -->
 
 --- 
 
