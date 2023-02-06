@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn on subtitles on Freevee to get the most out of your free streaming](https://www.androidauthority.com/how-to-turn-on-subtitles-on-freevee-3276851/)
- - [ChatGPT users are finding various &quot;jailbreaks&quot; that get the tool to seemingly ignore its own content restrictions and provide unfettered responses &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230206/p23#a230206p23)
- - [Google &amp; Microsoft gearing up for AI chatbot market battle](https://appleinsider.com/articles/23/02/06/google-microsoft-gearing-up-for-ai-chatbot-market-battle?utm_medium=rss)<!-- TECH:END -->
+ - [Pinterest reports Q4 revenue up 4% YoY to $877M, vs. $886.3M est., $17M net income, and global MAUs up 4% YoY to 450M; stock drops 10%+ on a weak Q1 forecast &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230206/p25#a230206p25)
+ - [Internal doc: just ~180K US users were paying for subscriptions to Twitter, including Twitter Blue, as of mid-January; the US number is ~62% of the global total &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230206/p24#a230206p24)
+ - [Beats Fit Pro getting three new colors soon](https://appleinsider.com/articles/23/02/06/beats-fit-pro-getting-three-new-colors-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
