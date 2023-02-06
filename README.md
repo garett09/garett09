@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US, France, Italy, others send alerts about ransomware hitting VMware ESXi servers, despite a patch being available in Feb. 2021; Censys: 3,200+ servers hacked &lpar;Apurva Venkat/CSO&rpar;](http://www.techmeme.com/230206/p21#a230206p21)
- - [The 19 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Microsoft announces an in-person press event at its Redmond HQ on February 7 at 10am PT, expected to focus mainly on its OpenAI partnership and ChatGPT for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230206/p20#a230206p20)<!-- TECH:END -->
+ - [How to turn on subtitles on Freevee to get the most out of your free streaming](https://www.androidauthority.com/how-to-turn-on-subtitles-on-freevee-3276851/)
+ - [ChatGPT users are finding various &quot;jailbreaks&quot; that get the tool to seemingly ignore its own content restrictions and provide unfettered responses &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230206/p23#a230206p23)
+ - [Google &amp; Microsoft gearing up for AI chatbot market battle](https://appleinsider.com/articles/23/02/06/google-microsoft-gearing-up-for-ai-chatbot-market-battle?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
