@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Travelers use AirTag to track lost luggage all the way to the donation pile](https://appleinsider.com/articles/23/02/06/travelers-use-airtag-to-track-lost-luggage-all-the-way-to-the-donation-pile?utm_medium=rss)
- - [Timothee Chalamet feels like overlooked beauty in latest Apple TV+ ad](https://appleinsider.com/articles/23/02/06/timothee-chalamet-feels-like-overlooked-beauty-in-latest-apple-tv-ad?utm_medium=rss)
- - [Introducing the Overwatch 2 dating sim](https://www.theverge.com/2023/2/6/23584934/overwatch-2-dating-sim-season-3-valentines-event)<!-- TECH:END -->
+ - [Virginia-based ShiftMed, a labor marketplace for flexible nursing jobs, raised $200M led by Panoramic Ventures and says 350K+ nurses and aides use its app &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230206/p18#a230206p18)
+ - [February 2023 Android security patch here, but will T-Mobile Pixel users get it?](https://www.androidauthority.com/february-2023-android-security-patch-3276821/)
+ - [Apple updates tvOS and HomePod Software to 16.3.1](https://appleinsider.com/articles/23/02/06/apple-updates-tvos-and-homepod-software-to-1631?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
