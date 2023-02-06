@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)
- - [Play Darkest Dungeon 2 for free with a new limited time demo](https://www.pcgamer.com/play-darkest-dungeon-2-for-free-with-a-new-limited-time-demo)
- - [Xbox Celebrates Safer Internet Day with Minecraft’s New Privacy-Themed Learning World and Safety Tips for Parents](https://news.xbox.com/en-us/2023/02/06/xbox-safer-internet-day-2023/)<!-- GAME:END -->
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
+ - [Here’s everything coming in Overwatch 2 season 3](https://www.polygon.com/23587980/overwatch-2-season-3-date-skins-new-map-battle-pass)
+ - [Finally, Overwatch 2 gets a dating sim and more in season 3](https://www.pcgamer.com/overwatch-2-season-3-roadmap-events)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
