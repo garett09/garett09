@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What about leap years!?](http://9gag.com/gag/az2eBdm)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)<!-- MEMES:END -->
+ - 🚖 [They went home afterwords and ate their feelings.](http://9gag.com/gag/ap9gdgp)
+ - 🚯 [Kids are cruel](http://9gag.com/gag/aOxQGXv)
+ - 🚯 [Huehuehue](http://9gag.com/gag/aBdn44z)<!-- MEMES:END -->
 
 --- 
 
