@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Street cat &lpar;black one&rpar; vs house cat &lpar;white one&rpar; reaction to fireworks.](http://9gag.com/gag/a9q1VPZ)
- - 🚯 [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
- - 🚯 [Kids are cruel](http://9gag.com/gag/aOxQGXv)<!-- MEMES:END -->
+ - 🚖 [What about leap years!?](http://9gag.com/gag/az2eBdm)
+ - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)<!-- MEMES:END -->
 
 --- 
 
