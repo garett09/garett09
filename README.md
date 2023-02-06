@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Day Before trainwreck continues with accusations it&#39;s copied other game trailers](https://www.pcgamer.com/the-day-before-trainwreck-continues-with-accusations-its-copied-other-game-trailers)
- - [What time does Marvel Snap’s February 2023 season start?](https://www.polygon.com/guides/2023/2/6/23432806/marvel-snap-february-new-season-release-time)
- - [Hogwarts Legacy review-in-progress: It&#39;d be a lot easier to dismiss Hogwarts Legacy if it weren&#39;t so good](https://www.pcgamer.com/hogwarts-legacy-review)<!-- GAME:END -->
+ - [Hogwarts Legacy review roundup: &#39;the Harry Potter RPG I’ve always wanted to play&#39;](https://www.pcgamer.com/hogwarts-legacy-review-roundup-the-harry-potter-rpg-ive-always-wanted-to-play)
+ - [How to get a broom and fly high in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-flying-broom)
+ - [How to import your Hogwarts house and wand into Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-import-house-wand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
