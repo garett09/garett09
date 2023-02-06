@@ -140,8 +140,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 on sale for $199: the ultimate earbuds experience at a discount](https://appleinsider.com/articles/23/02/06/airpods-pro-2-on-sale-for-199-the-ultimate-earbuds-experience-at-a-discount?utm_medium=rss)
- - [Q&amp;A with former Oculus CTO John Carmack about his AGI startup Keen, ways to &quot;solve&quot; AGI, how it can impact the economy, &quot;groupthink&quot; of AI companies, and more &lpar;Dallas Innovates&rpar;](http://www.techmeme.com/230205/p7#a230205p7)
+ - [India&#39;s Ministry of Electronics and Information Technology starts &quot;the process to ban&quot; 138 betting and 94 loan lending apps that &quot;reportedly have Chinese links&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230205/p8#a230205p8)
+ - [The 2023 Grammy Awards Just Finished: Here&#39;s the Full List of Winners     - CNET](https://www.cnet.com/culture/entertainment/the-2023-grammy-awards-just-finished-heres-the-full-list-of-winners/#ftag=CAD590a51e)
  - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 4 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-4-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
