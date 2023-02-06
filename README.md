@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [Journalism](http://9gag.com/gag/a2K1Oee)<!-- MEMES:END -->
+ - 🚯 [Nope](http://9gag.com/gag/aDYDXpN)
+ - 🚯 [Adult male zebra tries to drown a young foal who is not his offspring](http://9gag.com/gag/anzgEqE)<!-- MEMES:END -->
 
 --- 
 
