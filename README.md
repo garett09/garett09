@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Gold medals](http://9gag.com/gag/agogd3w)
- - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - 🚯 [How unfortunate](http://9gag.com/gag/aVbx4Qd)<!-- MEMES:END -->
+ - 🚯 [Journalism](http://9gag.com/gag/a2K1Oee)
+ - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
 
 --- 
 
