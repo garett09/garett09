@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Okay, this is funny lol](http://9gag.com/gag/aL1vWGA)
- - 🚯 [Just a man and his Capybara hanging out...](http://9gag.com/gag/ajVgM40)
+ - 🚖 [Well well well..](http://9gag.com/gag/aBdnjY2)
+ - 🚯 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
  - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 --- 
