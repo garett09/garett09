@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty Images sues Stability AI in the US, alleging it copied 12M+ images without permission or compensation to use as training data in creating Stable Diffusion &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230206/p16#a230206p16)
- - [OnePlus Pad leak reveals keyboard, stylus, and other details ahead of launch](https://www.androidauthority.com/oneplus-pad-leak-3276717/)
- - [Save big money right now on a Google Pixel 7 or Pixel 7 Pro, no strings attached](https://www.androidauthority.com/google-pixel-7-deal-feb-2023-3276754/)<!-- TECH:END -->
+ - [Travelers use AirTag to track lost luggage all the way to the donation pile](https://appleinsider.com/articles/23/02/06/travelers-use-airtag-to-track-lost-luggage-all-the-way-to-the-donation-pile?utm_medium=rss)
+ - [Timothee Chalamet feels like overlooked beauty in latest Apple TV+ ad](https://appleinsider.com/articles/23/02/06/timothee-chalamet-feels-like-overlooked-beauty-in-latest-apple-tv-ad?utm_medium=rss)
+ - [Introducing the Overwatch 2 dating sim](https://www.theverge.com/2023/2/6/23584934/overwatch-2-dating-sim-season-3-valentines-event)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
