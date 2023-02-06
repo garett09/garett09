@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - 🚯 [The building collapsed during the 7.8M earthquake in Malatya, Turkey.](http://9gag.com/gag/a5X1AWG)
- - 🚯 [Lemme do it for you](http://9gag.com/gag/aZDrod3)<!-- MEMES:END -->
+ - 🚖 [Lemme do it for you](http://9gag.com/gag/aZDrod3)
+ - 🚯 [In Antep, as rescue workers search for survivors in one building, another collapses.](http://9gag.com/gag/aNwPGAv)
+ - 🚯 [The building collapsed during the 7.8M earthquake in Malatya, Turkey.](http://9gag.com/gag/a5X1AWG)<!-- MEMES:END -->
 
 --- 
 
