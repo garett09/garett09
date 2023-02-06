@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How unfortunate](http://9gag.com/gag/aVbx4Qd)
- - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
+ - 🚖 [Gold medals](http://9gag.com/gag/agogd3w)
+ - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)<!-- MEMES:END -->
 
 --- 
 
