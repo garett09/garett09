@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;February 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-6-2023)
- - [This adorable, Wind Waker-inspired platformer casts you as a friendly delivery witch](https://www.pcgamer.com/this-adorable-wind-waker-inspired-platformer-casts-you-as-a-friendly-delivery-witch)
- - [As More Games Disappear Forever, John Carmack Has Some Great Advice About Preservation](https://kotaku.com/vr-meta-facebook-carmack-shutdown-failure-close-echo-1850076140)<!-- GAME:END -->
+ - [Here&#39;s a detailed look at Tekken 8&#39;s new battle system](https://www.pcgamer.com/heres-a-detailed-look-at-tekken-8s-new-battle-system)
+ - [These GameCube keycaps are adorable and on sale](https://www.pcgamer.com/these-gamecube-keycaps-are-adorable-and-on-sale)
+ - [First ever Grammy award for videogame score goes to AC Valhalla: Dawn of Ragnarok composer](https://www.pcgamer.com/first-ever-grammy-award-for-videogame-score-goes-to-ac-valhalla-dawn-of-ragnarok-composer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
