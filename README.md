@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 discounts in China might not be a bad sign](https://appleinsider.com/articles/23/02/06/iphone-14-discounts-in-china-might-not-be-a-bad-sign?utm_medium=rss)
- - [A Looming El Niño Could Dry the Amazon](https://www.wired.com/story/a-looming-el-nino-could-dry-the-amazon/)
- - [Maximize your savings with the best tax software for 2023](https://appleinsider.com/inside/app-store/best/best-tax-software?utm_medium=rss)<!-- TECH:END -->
+ - [Getty Images sues Stability AI in the US, alleging it copied 12M+ images without permission or compensation to use as training data in creating Stable Diffusion &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230206/p16#a230206p16)
+ - [OnePlus Pad leak reveals keyboard, stylus, and other details ahead of launch](https://www.androidauthority.com/oneplus-pad-leak-3276717/)
+ - [Save big money right now on a Google Pixel 7 or Pixel 7 Pro, no strings attached](https://www.androidauthority.com/google-pixel-7-deal-feb-2023-3276754/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
