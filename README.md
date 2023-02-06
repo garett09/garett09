@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fifth Season RPG will expose N.K. Jemisin’s Broken Earth to a new audience](https://www.polygon.com/tabletop-games/23582882/fifth-season-broken-earth-ttrpg-n-k-jemisin-green-ronin)
- - [Dragon Age: Dreadwolf Leaks Show God Of War-Style Combat](https://kotaku.com/dragon-age-dreadwolf-gameplay-leaks-bioware-god-of-war-1850078647)
- - [Matthew McConaughey is secret agent Elvis in Netflix’s new animated series](https://www.polygon.com/23587858/elvis-netflix-streaming-matthew-mcconaughey-animated)<!-- GAME:END -->
+ - [Overwatch 2 is about to make playing support easier, except for Mercy](https://www.pcgamer.com/overwatch-2-season-3-mercy-support-balance-patch)
+ - [Overwatch 2 balance patch includes big changes for tanks, nerfs for Mercy](https://www.polygon.com/23588040/overwatch-2-season-3-balance-patch-tank-changes-mercy)
+ - [Apex Legends is finally getting team deathmatch](https://www.pcgamer.com/apex-legends-is-finally-getting-team-deathmatch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
