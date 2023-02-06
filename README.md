@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
- - 🚯 [Nope](http://9gag.com/gag/aDYDXpN)
- - 🚯 [Adult male zebra tries to drown a young foal who is not his offspring](http://9gag.com/gag/anzgEqE)<!-- MEMES:END -->
+ - 🚖 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)
+ - 🚯 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)<!-- MEMES:END -->
 
 --- 
 
