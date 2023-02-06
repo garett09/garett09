@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How unfortunate](http://9gag.com/gag/aVbx4Qd)
- - 🚯 [Video creator claims that the Queen\u2019s Guard \u201cverbally attacked\u201d their step mum\u2026 when it\u2019s against the rules to touch the Guard or their steeds](http://9gag.com/gag/aZDroZ6)
- - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)<!-- MEMES:END -->
+ - 🚖 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
 
 --- 
 
