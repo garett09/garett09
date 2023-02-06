@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [A building collapsed due to aftershocks in Turkey](http://9gag.com/gag/aA0Gq00)
- - 🚯 [Just a man and his Capybara hanging out...](http://9gag.com/gag/ajVgM40)<!-- MEMES:END -->
+ - 🚖 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - 🚯 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)
+ - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
 
 --- 
 
