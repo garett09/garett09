@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a detailed look at Tekken 8&#39;s new battle system](https://www.pcgamer.com/heres-a-detailed-look-at-tekken-8s-new-battle-system)
- - [These GameCube keycaps are adorable and on sale](https://www.pcgamer.com/these-gamecube-keycaps-are-adorable-and-on-sale)
- - [First ever Grammy award for videogame score goes to AC Valhalla: Dawn of Ragnarok composer](https://www.pcgamer.com/first-ever-grammy-award-for-videogame-score-goes-to-ac-valhalla-dawn-of-ragnarok-composer)<!-- GAME:END -->
+ - [The Last of Us episode 5 will air early, out of the way of the Super Bowl](https://www.polygon.com/23585101/last-us-episode-5-release-super-bowl)
+ - [Who Are Kathleen And Perry In HBO’s The Last Of Us?](https://kotaku.com/the-last-of-us-kathleen-perry-hbo-kansas-city-episode-4-1850065319)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
