@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy review roundup: &#39;the Harry Potter RPG I’ve always wanted to play&#39;](https://www.pcgamer.com/hogwarts-legacy-review-roundup-the-harry-potter-rpg-ive-always-wanted-to-play)
- - [How to get a broom and fly high in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-flying-broom)
- - [How to import your Hogwarts house and wand into Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-import-house-wand)<!-- GAME:END -->
+ - [MLB The Show 23 new Storylines mode: The Negro Leagues Season 1](https://blog.playstation.com/2023/02/06/mlb-the-show-23-new-storylines-mode-the-negro-leagues-season-1/)
+ - [Company of Heroes 3&#39;s tactical pause lets you snatch control of the battlefield](https://www.pcgamer.com/company-of-heroes-3s-tactical-pause-lets-you-snatch-control-of-the-battlefield)
+ - [This cute platformer is like a Studio Ghibli movie about a hypnotic alien cat](https://www.pcgamer.com/this-cute-platformer-is-like-a-studio-ghibli-movie-about-a-hypnotic-alien-cat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
