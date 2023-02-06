@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GoldenEye 007 marked a massive change in the course of game design](https://www.polygon.com/23585033/goldeneye-007-xbox-series-x-nintendo-switch-online-best-fps)
- - [These New Pokémon Cards Are Making People A Fortune](https://kotaku.com/pokemon-tcg-crown-zenith-prices-giratina-vstar-gold-1850077190)
- - [How to open locked doors in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-locked-doors-alohomora)<!-- GAME:END -->
+ - [Apex Legends’ next season won’t have a new character](https://www.polygon.com/23587698/apex-legends-season-16-new-character-classes-team-deathmatch)
+ - [Bleak Sword DX does brutal, lo-fi Elden Ring, one pixelated square at a time](https://www.polygon.com/23584695/bleak-sword-dx-pc-switch-trailer-release-date)
+ - [Apex Legends Is Finally Getting A TDM Mode, But Axing Arenas](https://kotaku.com/apex-legends-team-deathmatch-mode-season-16-arenas-1850077549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
