@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - 🚯 [Tinder RPG](http://9gag.com/gag/aA0G2xL)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
+ - 🚖 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 🚯 [Journalism](http://9gag.com/gag/a2K1Oee)<!-- MEMES:END -->
 
 --- 
 
