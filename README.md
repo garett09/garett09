@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gold medals](http://9gag.com/gag/agogd3w)
- - 🚯 [Journalism](http://9gag.com/gag/a2K1Oee)
- - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
+ - 🚖 [How unfortunate](http://9gag.com/gag/aVbx4Qd)
+ - 🚯 [Video creator claims that the Queen\u2019s Guard \u201cverbally attacked\u201d their step mum\u2026 when it\u2019s against the rules to touch the Guard or their steeds](http://9gag.com/gag/aZDroZ6)
+ - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)<!-- MEMES:END -->
 
 --- 
 
