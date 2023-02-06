@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nope](http://9gag.com/gag/aDYDXpN)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)<!-- MEMES:END -->
+ - 🚖 [Gold medals](http://9gag.com/gag/agogd3w)
+ - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 🚯 [How unfortunate](http://9gag.com/gag/aVbx4Qd)<!-- MEMES:END -->
 
 --- 
 
