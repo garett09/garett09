@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They went home afterwords and ate their feelings.](http://9gag.com/gag/ap9gdgp)
- - 🚯 [Kids are cruel](http://9gag.com/gag/aOxQGXv)
- - 🚯 [Huehuehue](http://9gag.com/gag/aBdn44z)<!-- MEMES:END -->
+ - 🚖 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - 🚯 [Tinder RPG](http://9gag.com/gag/aA0G2xL)
+ - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
 
 --- 
 
