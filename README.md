@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Cheap Smartphones &lpar;2023&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [A look at the Four Horsemen of the Tech Recession: a hangover from pandemic-era growth, hardware lifecycles, the end of zero interest rates, and Apple&#39;s ATT &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230206/p14#a230206p14)
- - [Daily Deals Feb. 6: 30% off Apple Pencil 2, $600 off 16-inch MacBook Pro, AirPods Pro 2 for $199 &amp; more](https://appleinsider.com/articles/23/02/06/daily-deals-feb-6-30-off-apple-pencil-2-600-off-16-inch-macbook-pro-airpods-pro-2-for-200-more?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 discounts in China might not be a bad sign](https://appleinsider.com/articles/23/02/06/iphone-14-discounts-in-china-might-not-be-a-bad-sign?utm_medium=rss)
+ - [A Looming El Niño Could Dry the Amazon](https://www.wired.com/story/a-looming-el-nino-could-dry-the-amazon/)
+ - [Maximize your savings with the best tax software for 2023](https://appleinsider.com/inside/app-store/best/best-tax-software?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
