@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well..](http://9gag.com/gag/aBdnjY2)
- - 🚯 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
- - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - 🚖 [Nope](http://9gag.com/gag/aDYDXpN)
+ - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)<!-- MEMES:END -->
 
 --- 
 
