@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lemme do it for you](http://9gag.com/gag/aZDrod3)
- - 🚯 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 🚯 [Just a man and his Capybara hanging out...](http://9gag.com/gag/ajVgM40)<!-- MEMES:END -->
+ - 🚖 [Okay, this is funny lol](http://9gag.com/gag/aL1vWGA)
+ - 🚯 [Just a man and his Capybara hanging out...](http://9gag.com/gag/ajVgM40)
+ - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 --- 
 
