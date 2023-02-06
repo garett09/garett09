@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
- - [Here’s everything coming in Overwatch 2 season 3](https://www.polygon.com/23587980/overwatch-2-season-3-date-skins-new-map-battle-pass)
- - [Finally, Overwatch 2 gets a dating sim and more in season 3](https://www.pcgamer.com/overwatch-2-season-3-roadmap-events)<!-- GAME:END -->
+ - [The Fifth Season RPG will expose N.K. Jemisin’s Broken Earth to a new audience](https://www.polygon.com/tabletop-games/23582882/fifth-season-broken-earth-ttrpg-n-k-jemisin-green-ronin)
+ - [Dragon Age: Dreadwolf Leaks Show God Of War-Style Combat](https://kotaku.com/dragon-age-dreadwolf-gameplay-leaks-bioware-god-of-war-1850078647)
+ - [Matthew McConaughey is secret agent Elvis in Netflix’s new animated series](https://www.polygon.com/23587858/elvis-netflix-streaming-matthew-mcconaughey-animated)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
