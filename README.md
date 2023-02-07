@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn grandpa](http://9gag.com/gag/a5X1gyO)
- - 🚯 [Hmmm](http://9gag.com/gag/aoKg7pm)
- - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
+ - 🚖 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)
+ - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - 🚯 [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)<!-- MEMES:END -->
 
 --- 
 
