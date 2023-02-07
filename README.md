@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brazilians need to teach Los Angeles PD how to deal with a guy with a knife](http://9gag.com/gag/a9q1wym)
- - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)
- - 🚯 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
+ - 🚖 [Sound check](http://9gag.com/gag/anzg0jL)
+ - 🚯 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - 🚯 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)<!-- MEMES:END -->
 
 --- 
 
