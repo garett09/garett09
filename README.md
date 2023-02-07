@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York City public middle and high school for girls is using ChatGPT-generated lesson plans to help students examine the chatbot&#39;s usefulness and pitfalls &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230207/p11#a230207p11)
- - [Internal memo: Meta plans to revamp Horizon Worlds, including opening the app to users aged 13-17, seeking to improve user retention as competition intensifies &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230207/p10#a230207p10)
- - [Nintendo cuts its full-year earnings and revenue outlook, including operating income from ~$3.8B to ~$3.6B, and revises Switch sales forecasts from ~19M to ~18M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p9#a230207p9)<!-- TECH:END -->
+ - [The LockBit ransomware gang claims responsibility for an attack on the UK&#39;s Royal Mail that halted international shipping, contradicting an earlier statement &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230207/p14#a230207p14)
+ - [Marshall Stanmore III review: Wildly impressive but imperfect Bluetooth speaker](https://appleinsider.com/articles/23/02/07/marshall-stanmore-iii-review-wildly-impressive-but-imperfect-bluetooth-speaker?utm_medium=rss)
+ - [Research: Australian startups raised AU$7.4B across 712 deals in 2022, down from AU$10.6B across 731 deals in 2021, as six startups hit unicorn status &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/230207/p13#a230207p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
