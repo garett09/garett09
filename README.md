@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Journalism](http://9gag.com/gag/a2K1Oee)
- - 🚯 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)
- - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - 🚖 [Brazilians need to teach Los Angeles PD how to deal with a guy with a knife](http://9gag.com/gag/a9q1wym)
+ - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)
+ - 🚯 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
 
 --- 
 
