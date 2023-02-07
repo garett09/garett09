@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft rolls out the updated Bing, which uses a next-gen OpenAI model and Microsoft&#39;s Prometheus model, in &quot;limited preview&quot; at bing.com/new &lpar;GeekWire&rpar;](http://www.techmeme.com/230207/p27#a230207p27)
- - [iPhone 15 Pro rumored to get 2,500-nit display panels from Samsung](https://appleinsider.com/articles/23/02/07/iphone-15-pro-rumored-to-get-2500-nit-display-panels-from-samsung?utm_medium=rss)
- - [Super Bowl LVII: how to watch the Kansas City Chiefs play the Philadelphia Eagles](https://www.theverge.com/23588292/super-bowl-lvii-how-to-watch-kansas-city-chiefs-philadelphia-eagles)<!-- TECH:END -->
+ - [Google bizarrely believes that iPhone photos can be fixed on a Pixel](https://appleinsider.com/articles/23/02/07/google-bizarrely-believes-that-iphone-photos-can-be-fixed-on-a-pixel?utm_medium=rss)
+ - [How to pin a comment on Instagram](https://www.androidauthority.com/how-to-pin-comment-ig-3280463/)
+ - [7 Best Valentine’s Day Sex Toy Deals &lpar;2023&rpar;: Vibrators and Suction Toys](https://www.wired.com/story/valentines-day-sex-toy-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
