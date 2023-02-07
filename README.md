@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch is officially the third-best-selling console of all time](https://www.polygon.com/23589062/nintendo-switch-third-best-selling-game-console)
- - [How to find Field Guide pages in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-field-guide-pages)
- - [Garden of the Sea joins PS VR2 launch line-up!](https://blog.playstation.com/2023/02/07/garden-of-the-sea-joins-ps-vr2-launch-line-up/)<!-- GAME:END -->
+ - [Fantasia nearly sunk Disney animation, but Dumbo helped rescue it](https://www.polygon.com/23578363/disney-animated-classics-fantasia-dumbo)
+ - [This choice-heavy Chinese FMV game about teens electrocuted for tech addiction feels like a cult classic](https://www.pcgamer.com/this-choice-heavy-chinese-fmv-game-about-teens-electrocuted-for-tech-addiction-feels-like-a-cult-classic)
+ - [How to open the eye chests in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-how-to-open-eye-chests)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
