@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp updates Status, adding a Private Audience Selector, Status Reactions, 30-second Voice Status messages, and more, rolling out on iOS, Android, and web &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230207/p7#a230207p7)
- - [An FTC official says the agency does not plan to appeal its US federal court loss over Meta&#39;s Within acquisition, but could still appeal to an internal judge &lpar;Reuters&rpar;](http://www.techmeme.com/230207/p6#a230207p6)
- - [An interview with Apple executives Tim Millet and Bob Borchers on M2, building on M1, transitioning from Intel, the future of Mac gaming, Metal APIs, and more &lpar;Matthew Panzarino/TechCrunch&rpar;](http://www.techmeme.com/230207/p5#a230207p5)<!-- TECH:END -->
+ - [A New York City public middle and high school for girls is using ChatGPT-generated lesson plans to help students examine the chatbot&#39;s usefulness and pitfalls &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230207/p11#a230207p11)
+ - [Internal memo: Meta plans to revamp Horizon Worlds, including opening the app to users aged 13-17, seeking to improve user retention as competition intensifies &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230207/p10#a230207p10)
+ - [Nintendo cuts its full-year earnings and revenue outlook, including operating income from ~$3.8B to ~$3.6B, and revises Switch sales forecasts from ~19M to ~18M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p9#a230207p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
