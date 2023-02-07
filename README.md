@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple claps back at CMA over cloud gaming proposals](https://appleinsider.com/articles/23/02/07/apple-claps-back-at-cma-over-cloud-gaming-proposals?utm_medium=rss)
- - [Google&#39;s Pixel 7 is suffering from defects with buttons and lenses](https://appleinsider.com/articles/23/02/07/googles-pixel-7-is-suffering-from-defects-with-buttons-and-lenses?utm_medium=rss)
- - [Ex-Coinbase manager Ishan Wahi pleads guilty to two counts of conspiracy to commit wire fraud, after his brother Nikhil was sentenced to 10 months in January &lpar;Reuters&rpar;](http://www.techmeme.com/230207/p19#a230207p19)<!-- TECH:END -->
+ - [Mozilla is also developing a non-WebKit browser for iOS](https://appleinsider.com/articles/23/02/07/mozilla-is-also-developing-a-non-webkit-browser-for-ios?utm_medium=rss)
+ - [The best Boost Mobile deals: Get the 5GB for just $5/month](https://www.androidauthority.com/best-boost-mobile-deals-839972/)
+ - [Meta’s VR hellscape might soon be invaded by children](https://www.theverge.com/2023/2/7/23589100/meta-horizon-worlds-teen-users-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
