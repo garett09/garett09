@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ignite a romantic Valentine&#39;s Day with big sales on Bluetti power stations &amp; solar panels](https://appleinsider.com/articles/23/02/07/ignite-a-romantic-valentines-day-with-big-sales-on-bluetti-power-stations-solar-panels?utm_medium=rss)
- - [Jobber, which offers operations management tools for home service businesses, raised a $100M Series D led by General Atlantic and passed $100M in 2022 revenue &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230207/p16#a230207p16)
- - [MIcrosoft Outlook users suffered overnight outage, fixes rolling out](https://appleinsider.com/articles/23/02/07/outlook-users-cant-send-emails-as-microsoft-suffers-overnight-outage?utm_medium=rss)<!-- TECH:END -->
+ - [What Creepy Video Game Sounds Do to Your Brain](https://www.wired.com/story/game-horror-sounds-psychology-dead-space-remake-scorn/)
+ - [The Age of AI Hacking Is Closer Than You Think](https://www.wired.com/story/artificial-intelligence-hacking-bruce-schneier/)
+ - [If you need an instant vintage Apple collection, here&#39;s where to get it](https://appleinsider.com/articles/23/02/07/if-you-need-an-instant-vintage-apple-collection-heres-where-to-get-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
