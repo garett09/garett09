@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmm](http://9gag.com/gag/aoKg7pm)
- - 🚯 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
- - 🚯 [Checked and true](http://9gag.com/gag/aRErdoA)<!-- MEMES:END -->
+ - 🚖 [Checked and true](http://9gag.com/gag/aRErdoA)
+ - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 🚯 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)<!-- MEMES:END -->
 
 --- 
 
