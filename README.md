@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pour One Out For Mercy Because Overwatch Just Nerfed Her Into The Ground](https://kotaku.com/mercy-overwatch-2-nerf-guardian-angel-movement-support-1850080024)
- - [This DIY kit gave my Steam Deck the early 2000s clear plastic aesthetic I crave](https://www.pcgamer.com/this-diy-kit-gave-my-steam-deck-the-early-2000s-clear-plastic-aesthetic-i-crave)
- - [Dr Disrespect&#39;s Deadrop is moving to &#39;less frequent but much larger&#39; updates](https://www.pcgamer.com/dr-disrespects-deadrop-is-moving-to-less-frequent-but-much-larger-updates)<!-- GAME:END -->
+ - [The Art Of God of War Ragnarök](https://kotaku.com/god-of-war-ragnarok-concept-art-illustrations-making-of-1850068713)
+ - [Google unveils its own ChatGPT-like AI chatbot](https://www.pcgamer.com/google-unveils-its-own-chatgpt-like-ai-chatbot)
+ - [That AI generated Seinfeld show has already been suspended from Twitch](https://www.pcgamer.com/that-ai-generated-seinfeld-show-has-already-been-suspended-from-twitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
