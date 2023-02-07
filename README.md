@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla is also developing a non-WebKit browser for iOS](https://appleinsider.com/articles/23/02/07/mozilla-is-also-developing-a-non-webkit-browser-for-ios?utm_medium=rss)
- - [The best Boost Mobile deals: Get the 5GB for just $5/month](https://www.androidauthority.com/best-boost-mobile-deals-839972/)
- - [Meta’s VR hellscape might soon be invaded by children](https://www.theverge.com/2023/2/7/23589100/meta-horizon-worlds-teen-users-metaverse)<!-- TECH:END -->
+ - [After debuting in China last month, the 6.7&quot; OnePlus 11 ships in the US on Feb. 16 at $699, $200 less than OnePlus 10, with a 5000 mAh battery, Wi-Fi 7 support &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230207/p21#a230207p21)
+ - [The best OnePlus 11 alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/best-oneplus-11-alternatives-3272655/)
+ - [Google Search will start blurring explicit imagery by default soon](https://www.androidauthority.com/google-search-blur-3280353/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
