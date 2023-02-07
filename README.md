@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google bizarrely believes that iPhone photos can be fixed on a Pixel](https://appleinsider.com/articles/23/02/07/google-bizarrely-believes-that-iphone-photos-can-be-fixed-on-a-pixel?utm_medium=rss)
- - [How to pin a comment on Instagram](https://www.androidauthority.com/how-to-pin-comment-ig-3280463/)
- - [7 Best Valentine’s Day Sex Toy Deals &lpar;2023&rpar;: Vibrators and Suction Toys](https://www.wired.com/story/valentines-day-sex-toy-deals/)<!-- TECH:END -->
+ - [Microsoft Taps ChatGPT to Boost Bing—and Beat Google](https://www.wired.com/story/microsoft-taps-chatgpt-to-boost-bing-and-beat-google/)
+ - [Apple issues first firmware update for MagSafe Duo](https://appleinsider.com/articles/23/02/07/apple-issues-first-firmware-update-for-magsafe-duo?utm_medium=rss)
+ - [Qustodio: kids aged 4 to 18 used TikTok for 107 minutes per day on average in 2022, up from 82 minutes in 2020, and 60% longer than YouTube&#39;s 67 minutes per day &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230207/p30#a230207p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
