@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am batman](http://9gag.com/gag/a2K1pND)
- - 🚯 [In fact, it\u2019s happened 7 times.](http://9gag.com/gag/adPgWn9)
- - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 🚖 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
+ - 🚯 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)<!-- MEMES:END -->
 
 --- 
 
