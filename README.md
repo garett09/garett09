@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This adorable rhythm game keeps kicking my ass](https://www.polygon.com/gaming/23588209/rhythm-game-melatonin-cozy-kicking-my-ass)
- - [Prepare for Destiny 2: Lightfall with the Beyond Light expansion, available with PlayStation Plus](https://blog.playstation.com/2023/02/07/prepare-for-destiny-2-lightfall-with-the-beyond-light-expansion-available-with-playstation-plus/)
- - [Deliver Us Mars review](https://www.pcgamer.com/deliver-us-mars-review)<!-- GAME:END -->
+ - [Popular Elden Ring Ending Proves Players Are Thirsty For Ranni](https://kotaku.com/elden-ring-ranni-questline-ending-achievement-fromsoft-1850083349)
+ - [How to fast travel in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-fast-travel-map)
+ - [How to unlock every spell in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-spells-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
