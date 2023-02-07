@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astronimo crash-lands into Steam Early Access soon](https://www.pcgamer.com/astronimo-crash-lands-into-steam-early-access-soon)
- - [Wordle hint and answer #598: Tuesday, February 7](https://www.pcgamer.com/wordle-hint-answer-today-598-february-7)
- - [Tiny 11 lets you run Windows 11 on underpowered machines](https://www.pcgamer.com/tiny-11-lets-you-run-windows-11-on-underpowered-machines)<!-- GAME:END -->
+ - [I&#39;d be very excited for the performance of the RTX 4060 if I didn&#39;t fear Nvidia&#39;s pricing](https://www.pcgamer.com/id-be-very-excited-for-the-performance-of-the-rtx-4060-if-i-didnt-fear-nvidias-pricing)
+ - [For a small fortune you can buy a piece of PC graphics history](https://www.pcgamer.com/for-a-small-fortune-you-too-can-buy-a-piece-of-pc-gaming-graphics-history)
+ - [Astronimo crash-lands into Steam Early Access soon](https://www.pcgamer.com/astronimo-crash-lands-into-steam-early-access-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
