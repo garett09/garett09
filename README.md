@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: prosecutors and SBF&#39;s lawyers agree to let SBF use Zoom, email, WhatsApp with restrictions, and more, but not Signal and other ephemeral apps &lpar;Brian Quarmby/Cointelegraph&rpar;](http://www.techmeme.com/230207/p2#a230207p2)
- - [Microsoft one ups Google with surprise AI event later today!](https://www.androidauthority.com/microsoft-ai-chatgpt-event-3277091/)
- - [The February 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
+ - [SoftBank reports a Q4 loss of ~$5B for its Vision Fund, its fourth straight quarterly loss, and investments of less than $350M in only a few startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p4#a230207p4)
+ - [Tinder rolls out incognito mode, a step up from fully hiding profiles, for Tinder+, Gold, and Premium users, profile blocking, and other safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230207/p3#a230207p3)
+ - [The Snapdragon naming scheme could get complicated &lpar;again&rpar;](https://www.androidauthority.com/qualcomm-snapdragon-naming-scheme-3277099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
