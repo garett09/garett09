@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - 🚯 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
- - 🚯 [What about leap years!?](http://9gag.com/gag/az2eBdm)<!-- MEMES:END -->
+ - 🚖 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - 🚯 [Monkey strike back at a tourist, who threw a bottle into his crib](http://9gag.com/gag/armn0Q5)
+ - 🚯 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)<!-- MEMES:END -->
 
 --- 
 
