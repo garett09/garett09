@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to link your Harry Potter Fan Club and WB Games accounts in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23587634/account-link-rewards-harry-potter-fan-club-wb-games-wizarding-world)
- - [How wand selection works in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23581903/wand-selection-quiz-change-ollivanders-style-wood-length-flexibility-core)
- - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)<!-- GAME:END -->
+ - [Tiny 11 lets you run Windows 11 on underpowered machines](https://www.pcgamer.com/tiny-11-lets-you-run-windows-11-on-underpowered-machines)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/06/this-weeks-deals-with-gold-and-spotlight-sale-261/)
+ - [How to link your Harry Potter Fan Club and WB Games accounts in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23587634/account-link-rewards-harry-potter-fan-club-wb-games-wizarding-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
