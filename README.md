@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
- - 🚯 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)<!-- MEMES:END -->
+ - 🚖 [Hmmm](http://9gag.com/gag/aoKg7pm)
+ - 🚯 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - 🚯 [Checked and true](http://9gag.com/gag/aRErdoA)<!-- MEMES:END -->
 
 --- 
 
