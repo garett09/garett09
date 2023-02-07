@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic Mike’s Last Dance gives the series’ hot-guy fantasies a whole new shape](https://www.polygon.com/reviews/23588352/magic-mikes-last-dance-review-channing-tatum)
- - [Players’ Choice: Vote for January 2023’s best new game](https://blog.playstation.com/2023/02/07/players-choice-vote-for-january-2023s-best-new-game/)
- - [If You Like HBO’s The Last Of Us, Here’s How To Catch Up On The Series](https://kotaku.com/the-last-of-us-tlou-ps4-ps5-how-to-play-games-comics-1850082367)<!-- GAME:END -->
+ - [This adorable rhythm game keeps kicking my ass](https://www.polygon.com/gaming/23588209/rhythm-game-melatonin-cozy-kicking-my-ass)
+ - [Prepare for Destiny 2: Lightfall with the Beyond Light expansion, available with PlayStation Plus](https://blog.playstation.com/2023/02/07/prepare-for-destiny-2-lightfall-with-the-beyond-light-expansion-available-with-playstation-plus/)
+ - [Deliver Us Mars review](https://www.pcgamer.com/deliver-us-mars-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
