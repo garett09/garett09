@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
- - 🚯 [Stranger encounter](http://9gag.com/gag/aOxQOEE)
- - 🚯 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
+ - 🚖 [Damn grandpa](http://9gag.com/gag/a5X1gyO)
+ - 🚯 [Hmmm](http://9gag.com/gag/aoKg7pm)
+ - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
 
 --- 
 
