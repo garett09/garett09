@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lemme do it for you](http://9gag.com/gag/aZDrod3)
- - 🚯 [In Antep, as rescue workers search for survivors in one building, another collapses.](http://9gag.com/gag/aNwPGAv)
- - 🚯 [The building collapsed during the 7.8M earthquake in Malatya, Turkey.](http://9gag.com/gag/a5X1AWG)<!-- MEMES:END -->
+ - 🚖 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)
+ - 🚯 [What about leap years!?](http://9gag.com/gag/az2eBdm)
+ - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
 
 --- 
 
