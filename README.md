@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k around and find out](http://9gag.com/gag/anzg025)
- - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)
- - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
+ - 🚖 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - 🚯 [Stranger encounter](http://9gag.com/gag/aOxQOEE)
+ - 🚯 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
 
 --- 
 
