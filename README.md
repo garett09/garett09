@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope I&#39;ll win today](http://9gag.com/gag/aA0G7E2)
- - 🚯 [Time to cook.](http://9gag.com/gag/aeQgqnQ)
- - 🚯 [Stranger encounter](http://9gag.com/gag/aOxQOEE)<!-- MEMES:END -->
+ - 🚖 [I am batman](http://9gag.com/gag/a2K1pND)
+ - 🚯 [In fact, it\u2019s happened 7 times.](http://9gag.com/gag/adPgWn9)
+ - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
 
 --- 
 
