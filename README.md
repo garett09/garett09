@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Super Bowl won&#39;t have any crypto ads this year as FTX and others back out after buying early; crypto companies bought around five spots for last year&#39;s game &lpar;John Ourand/Sports Business Journal&rpar;](http://www.techmeme.com/230206/p28#a230206p28)
  - [Twitter&#39;s iOS and Android apps now default to the timeline the user had open last, instead of the algorithmic feed, after a similar web update in January &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230206/p27#a230206p27)
- - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)
- - [Earthquake Aftershocks May Rock Turkey and Syria for Months, Even Years](https://www.wired.com/story/aftershocks-may-rock-turkey-and-syria-for-months-even-years/)<!-- TECH:END -->
+ - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
