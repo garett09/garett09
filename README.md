@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S23 users say the smartphone uses ~60GB of its storage for Android and pre-installed apps, four times more than the Google Pixel 7 Pro&#39;s ~15GB &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230206/p31#a230206p31)
  - [Apple to hold first in-person AI summit in years](https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years?utm_medium=rss)
- - [Google has started requiring local regulatory approval for loan apps in Nigeria and Kenya, after imposing similar rules in India, Indonesia, and the Philippines &lpar;Alexander Onukwue/Semafor&rpar;](http://www.techmeme.com/230206/p30#a230206p30)
- - [Apple execs discuss how company pushes technology to the limit with M2](https://appleinsider.com/articles/23/02/07/apple-execs-discuss-how-company-pushes-technology-to-the-limit-with-m2?utm_medium=rss)<!-- TECH:END -->
+ - [Google Play began requiring local regulatory approval for loan apps in Nigeria and Kenya on January 31, matching rules in India, Indonesia, and the Philippines &lpar;Alexander Onukwue/Semafor&rpar;](http://www.techmeme.com/230206/p30#a230206p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
