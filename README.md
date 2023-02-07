@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Creepy Video Game Sounds Do to Your Brain](https://www.wired.com/story/game-horror-sounds-psychology-dead-space-remake-scorn/)
- - [The Age of AI Hacking Is Closer Than You Think](https://www.wired.com/story/artificial-intelligence-hacking-bruce-schneier/)
- - [If you need an instant vintage Apple collection, here&#39;s where to get it](https://appleinsider.com/articles/23/02/07/if-you-need-an-instant-vintage-apple-collection-heres-where-to-get-it?utm_medium=rss)<!-- TECH:END -->
+ - [Apple claps back at CMA over cloud gaming proposals](https://appleinsider.com/articles/23/02/07/apple-claps-back-at-cma-over-cloud-gaming-proposals?utm_medium=rss)
+ - [Google&#39;s Pixel 7 is suffering from defects with buttons and lenses](https://appleinsider.com/articles/23/02/07/googles-pixel-7-is-suffering-from-defects-with-buttons-and-lenses?utm_medium=rss)
+ - [Ex-Coinbase manager Ishan Wahi pleads guilty to two counts of conspiracy to commit wire fraud, after his brother Nikhil was sentenced to 10 months in January &lpar;Reuters&rpar;](http://www.techmeme.com/230207/p19#a230207p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
