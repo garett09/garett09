@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The LockBit ransomware gang claims responsibility for an attack on the UK&#39;s Royal Mail that halted international shipping, contradicting an earlier statement &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230207/p14#a230207p14)
- - [Marshall Stanmore III review: Wildly impressive but imperfect Bluetooth speaker](https://appleinsider.com/articles/23/02/07/marshall-stanmore-iii-review-wildly-impressive-but-imperfect-bluetooth-speaker?utm_medium=rss)
- - [Research: Australian startups raised AU$7.4B across 712 deals in 2022, down from AU$10.6B across 731 deals in 2021, as six startups hit unicorn status &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/230207/p13#a230207p13)<!-- TECH:END -->
+ - [Ignite a romantic Valentine&#39;s Day with big sales on Bluetti power stations &amp; solar panels](https://appleinsider.com/articles/23/02/07/ignite-a-romantic-valentines-day-with-big-sales-on-bluetti-power-stations-solar-panels?utm_medium=rss)
+ - [Jobber, which offers operations management tools for home service businesses, raised a $100M Series D led by General Atlantic and passed $100M in 2022 revenue &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230207/p16#a230207p16)
+ - [MIcrosoft Outlook users suffered overnight outage, fixes rolling out](https://appleinsider.com/articles/23/02/07/outlook-users-cant-send-emails-as-microsoft-suffers-overnight-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
