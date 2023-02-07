@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After debuting in China last month, the 6.7&quot; OnePlus 11 ships in the US on Feb. 16 at $699, $200 less than OnePlus 10, with a 5000 mAh battery, Wi-Fi 7 support &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230207/p21#a230207p21)
- - [The best OnePlus 11 alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/best-oneplus-11-alternatives-3272655/)
- - [Google Search will start blurring explicit imagery by default soon](https://www.androidauthority.com/google-search-blur-3280353/)<!-- TECH:END -->
+ - [Save $150 on Apple&#39;s 2023 MacBook Pro 14-inch with upgraded M2 Pro chip, 1TB SSD](https://appleinsider.com/articles/23/02/07/save-150-on-apples-2023-macbook-pro-14-inch-with-upgraded-m2-pro-chip-1tb-ssd?utm_medium=rss)
+ - [A live blog of Microsoft&#39;s press event, where more details on its OpenAI partnership and ChatGPT for Bing are expected &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230207/p23#a230207p23)
+ - [How to Watch Google’s AI Search Event Live](https://www.wired.com/story/how-to-watch-google-ai-search-event-live-free/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
