@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D exec: OGL fiasco worsened by lack of respect for Wizards of the Coast](https://www.polygon.com/23589767/dnd-dungeons-dragons-ogl-controversy-executive-producer-interview)
- - [It’s 2023 and we’re all rereading Animorphs](https://www.polygon.com/23588490/animorphs-book-pdf-audiobook-graphic-novel-movie-k-a-applegate)
- - [Hi-Fi Rush is proof that Unreal Engine games can be gloriously stutter-free](https://www.pcgamer.com/hi-fi-rush-is-proof-that-unreal-engine-games-can-be-gloriously-stutter-free)<!-- GAME:END -->
+ - [Can you change your appearance in Hogwarts Legacy?](https://www.polygon.com/hogwarts-legacy-guide/23590014/change-appearance-hair-face-scars-complexion-moles-freckles-color-eyebrow)
+ - [PS5 Subreddit Doesn’t Want Players To Bring Up Harry Potter Author](https://kotaku.com/hogwarts-legacy-ps5-subreddit-jk-rowling-transphobia-1850085297)
+ - [Genshin Impact Characters As Valentine Dates, Ranked](https://kotaku.com/genshin-impact-valentine-s-day-hoyoverse-1850085317)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
