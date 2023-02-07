@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
- - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
- - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
+ - 🚖 [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)
+ - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
 --- 
 
