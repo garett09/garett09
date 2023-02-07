@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art Of God of War Ragnarök](https://kotaku.com/god-of-war-ragnarok-concept-art-illustrations-making-of-1850068713)
- - [Google unveils its own ChatGPT-like AI chatbot](https://www.pcgamer.com/google-unveils-its-own-chatgpt-like-ai-chatbot)
- - [That AI generated Seinfeld show has already been suspended from Twitch](https://www.pcgamer.com/that-ai-generated-seinfeld-show-has-already-been-suspended-from-twitch)<!-- GAME:END -->
+ - [Juggle enemies to hell with a grappling hook and mighty kick in this stylish FPS](https://www.pcgamer.com/juggle-enemies-to-hell-with-a-grappling-hook-and-mighty-kick-in-this-stylish-fps)
+ - [One of the industry&#39;s more skeptical CEOs thinks AI tools will &#39;raise the bar&#39; for videogames](https://www.pcgamer.com/strauss-zelnick-ai-tools)
+ - [The Art Of God of War Ragnarök](https://kotaku.com/god-of-war-ragnarok-concept-art-illustrations-making-of-1850068713)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
