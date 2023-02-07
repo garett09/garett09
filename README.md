@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The February 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [A look at Moscow&#39;s Safe City, an AI surveillance system with 217K connected cameras designed to catch criminals that is now seen as a tool of digital repression &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/230207/p1#a230207p1)
- - [Samsung Galaxy S23 users say the smartphone uses ~60GB of its storage for Android and pre-installed apps, four times more than the Google Pixel 7 Pro&#39;s ~15GB &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230206/p31#a230206p31)<!-- TECH:END -->
+ - [Document: prosecutors and SBF&#39;s lawyers agree to let SBF use Zoom, email, WhatsApp with restrictions, and more, but not Signal and other ephemeral apps &lpar;Brian Quarmby/Cointelegraph&rpar;](http://www.techmeme.com/230207/p2#a230207p2)
+ - [Microsoft one ups Google with surprise AI event later today!](https://www.androidauthority.com/microsoft-ai-chatgpt-event-3277091/)
+ - [The February 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
