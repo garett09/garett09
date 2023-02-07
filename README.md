@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)
- - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)<!-- MEMES:END -->
+ - 🚖 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - 🚯 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
+ - 🚯 [What about leap years!?](http://9gag.com/gag/az2eBdm)<!-- MEMES:END -->
 
 --- 
 
