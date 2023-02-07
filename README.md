@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)
- - 🚯 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
- - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
+ - 🚖 [Journalism](http://9gag.com/gag/a2K1Oee)
+ - 🚯 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)
+ - 🚯 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 --- 
 
