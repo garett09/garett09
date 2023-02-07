@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
- - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
- - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 🚖 [Stranger encounter](http://9gag.com/gag/aOxQOEE)
+ - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
 
 --- 
 
