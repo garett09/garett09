@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;d be very excited for the performance of the RTX 4060 if I didn&#39;t fear Nvidia&#39;s pricing](https://www.pcgamer.com/id-be-very-excited-for-the-performance-of-the-rtx-4060-if-i-didnt-fear-nvidias-pricing)
- - [For a small fortune you can buy a piece of PC graphics history](https://www.pcgamer.com/for-a-small-fortune-you-too-can-buy-a-piece-of-pc-gaming-graphics-history)
- - [Astronimo crash-lands into Steam Early Access soon](https://www.pcgamer.com/astronimo-crash-lands-into-steam-early-access-soon)<!-- GAME:END -->
+ - [Nintendo Switch is officially the third-best-selling console of all time](https://www.polygon.com/23589062/nintendo-switch-third-best-selling-game-console)
+ - [How to find Field Guide pages in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-field-guide-pages)
+ - [Garden of the Sea joins PS VR2 launch line-up!](https://blog.playstation.com/2023/02/07/garden-of-the-sea-joins-ps-vr2-launch-line-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
