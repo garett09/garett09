@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f lady](http://9gag.com/gag/abvgLwv)
- - 🚯 [Damn grandpa](http://9gag.com/gag/a5X1gyO)
- - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
+ - 🚖 [Hope I&#39;ll win today](http://9gag.com/gag/aA0G7E2)
+ - 🚯 [Time to cook.](http://9gag.com/gag/aeQgqnQ)
+ - 🚯 [Stranger encounter](http://9gag.com/gag/aOxQOEE)<!-- MEMES:END -->
 
 --- 
 
