@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
- - 🚯 [Monkey strike back at a tourist, who threw a bottle into his crib](http://9gag.com/gag/armn0Q5)
- - 🚯 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)<!-- MEMES:END -->
+ - 🚖 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)
+ - 🚯 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - 🚯 [Hope I&#39;ll win today](http://9gag.com/gag/aA0G7E2)<!-- MEMES:END -->
 
 --- 
 
