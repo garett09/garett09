@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank reports a Q4 loss of ~$5B for its Vision Fund, its fourth straight quarterly loss, and investments of less than $350M in only a few startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p4#a230207p4)
- - [Tinder rolls out incognito mode, a step up from fully hiding profiles, for Tinder+, Gold, and Premium users, profile blocking, and other safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230207/p3#a230207p3)
- - [The Snapdragon naming scheme could get complicated &lpar;again&rpar;](https://www.androidauthority.com/qualcomm-snapdragon-naming-scheme-3277099/)<!-- TECH:END -->
+ - [A PlayStation Vita emulator for Android is launching in just a few days](https://www.androidauthority.com/vita3k-playstation-vita-emulator-android-3277131/)
+ - [SoftBank reports a Q3 loss of ~$5B for its Vision Fund, its fourth straight quarterly loss, and investments of less than $350M in only a few startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p4#a230207p4)
+ - [Tinder rolls out incognito mode, a step up from fully hiding profiles, for Tinder+, Gold, and Premium users, profile blocking, and other safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230207/p3#a230207p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
