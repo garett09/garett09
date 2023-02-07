@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Journey to Deep Space with the Stellar Shift Special Edition Wireless Controller](https://news.xbox.com/en-us/2023/02/07/stellar-shift-special-edition-wireless-controller-xbox/)
- - [Bayonetta Origins trades bullets for spell books and puzzles in charming fashion](https://www.polygon.com/23588351/bayonetta-origins-cereza-lost-demon-nintendo-switch-release-date)
- - [&#39;It was going to transform into a giant spider that launched eggs and had babies running around!&#39; Bungie devs discuss Destiny 2&#39;s next class](https://www.pcgamer.com/destiny-2-dev-on-why-strand-is-the-high-apm-class-and-theyre-a-bit-scared-of-it)<!-- GAME:END -->
+ - [Magic Mike’s Last Dance gives the series’ hot-guy fantasies a whole new shape](https://www.polygon.com/reviews/23588352/magic-mikes-last-dance-review-channing-tatum)
+ - [Players’ Choice: Vote for January 2023’s best new game](https://blog.playstation.com/2023/02/07/players-choice-vote-for-january-2023s-best-new-game/)
+ - [If You Like HBO’s The Last Of Us, Here’s How To Catch Up On The Series](https://kotaku.com/the-last-of-us-tlou-ps4-ps5-how-to-play-games-comics-1850082367)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
