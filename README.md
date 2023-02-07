@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - 🚯 [Monkey strike back at a tourist, who threw a bottle into his crib](http://9gag.com/gag/armn0Q5)
- - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)
+ - 🚯 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
 
 --- 
 
