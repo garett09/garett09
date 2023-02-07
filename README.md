@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)
- - 🚯 [What about leap years!?](http://9gag.com/gag/az2eBdm)
- - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
+ - 🚖 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 🚯 [Monkey strike back at a tourist, who threw a bottle into his crib](http://9gag.com/gag/armn0Q5)
+ - 🚯 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
 
 --- 
 
