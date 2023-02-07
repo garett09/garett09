@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sound check](http://9gag.com/gag/anzg0jL)
- - 🚯 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - 🚯 [Bro cracked the matrix !!!](http://9gag.com/gag/axoB8rD)<!-- MEMES:END -->
+ - 🚖 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 🚯 [What the f lady](http://9gag.com/gag/abvgLwv)
+ - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)<!-- MEMES:END -->
 
 --- 
 
