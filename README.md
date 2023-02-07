@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Elden Ring Ending Proves Players Are Thirsty For Ranni](https://kotaku.com/elden-ring-ranni-questline-ending-achievement-fromsoft-1850083349)
- - [How to fast travel in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-fast-travel-map)
- - [How to unlock every spell in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-spells-guide)<!-- GAME:END -->
+ - [Pharaoh: A New Era used a &#39;certified Egyptologist to ensure the game&#39;s historical accuracy&#39;](https://www.pcgamer.com/pharaoh-a-new-era-used-a-certified-egyptologist-to-ensure-the-games-historical-accuracy)
+ - [7 Things To Do In Destiny 2 Before Lightfall](https://kotaku.com/destiny-2-witch-queen-lightfall-revision-zero-exotics-1850083666)
+ - [World&#39;s First Anime AMV Creator Has Passed Away](https://kotaku.com/james-kaposztas-first-anime-music-video-amv-1850083510)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
