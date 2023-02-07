@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stranger encounter](http://9gag.com/gag/aOxQOEE)
- - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 🚖 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
+ - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
  - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
 
 --- 
