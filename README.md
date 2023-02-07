@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Ways Minecraft Legends Twists PvP into a Brand New Action-Strategy Experience](https://news.xbox.com/en-us/2023/02/07/minecraft-legends-pvp-ping-cross-platform-fast-travel/)
- - [Pokémon Go Spotlight Hour: Can Pidgey be shiny?](https://www.polygon.com/pokemon-go-guide/23589590/can-pidgey-be-shiny-spotlight-hour-february)
- - [Halo Infinite: Noble Intention Event Launch](https://news.xbox.com/en-us/2023/02/07/halo-infintite-noble-intention-event-launch/)<!-- GAME:END -->
+ - [One of the biggest games on Steam right now is a Next Fest demo](https://www.pcgamer.com/one-of-the-biggest-games-on-steam-right-now-is-a-next-fest-demo)
+ - [Twitch, YouTube Streamers Raise Big Funds For Syria-Turkey Earthquake Relief](https://kotaku.com/twitch-streamers-youtube-syria-turkey-earthquake-hasan-1850084424)
+ - [The Best And Worst Parts Of Each Pokémon Game](https://kotaku.com/pokemon-games-best-worst-part-scarlet-violet-red-blue-1850084491)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
