@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checked and true](http://9gag.com/gag/aRErdoA)
- - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 🚯 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)<!-- MEMES:END -->
+ - 🚖 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
 
 --- 
 
