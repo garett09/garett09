@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. Discovery is backtracking on its plan to shut down Discovery Plus](https://www.theverge.com/2023/2/8/23590789/warner-bros-hbo-max-discovery-plus)
- - [Google&#39;s AI demo event in Paris paled in comparison to Microsoft&#39;s &quot;new Bing&quot; announcement, highlighting Google&#39;s need to widely release its ChatGPT competitor &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230208/p27#a230208p27)
- - [UK regulator shoots down Microsoft&#39;s $68.7B Activison deal](https://appleinsider.com/articles/23/02/08/uk-regulator-shoots-down-microsofts-687b-activison-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals Feb. 8: Apple Watch Series 7 $299, iMac $789, Shark AI Robot Vacuum $199 &amp; more](https://appleinsider.com/articles/23/02/08/daily-deals-feb-8-apple-watch-series-7-299-imac-789-shark-ai-robot-vacuum-199-more?utm_medium=rss)
+ - [Google and Microsoft&#39;s race to add AI chatbots to search results comes loaded with risk; Bing shows results in a sidebar with citations, something Google lacks &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230208/p28#a230208p28)
+ - [Chaos reigns in Discovery+ &amp; HBO Max streaming service merger](https://appleinsider.com/articles/23/02/08/chaos-reigns-in-discovery-hbo-max-streaming-service-merger?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
