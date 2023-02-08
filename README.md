@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How pro-military groups in Myanmar are using Telegram channels, many with ~10K followers, to share abusive sexual videos and images of women and to doxx them &lpar;Pallabi Munsi/CNN&rpar;](http://www.techmeme.com/230208/p19#a230208p19)
- - [How the Artists of &#39;Destiny 2&#39; Gave Life to Its Big, Bad Enemy](https://www.wired.com/story/destiny-2-art-witch-queen-lightwall-the-darkness/)
- - [US officials and researchers say TikTok&#39;s proposed algorithm oversight faces practical difficulties and may not offer answers on possible Chinese influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230208/p18#a230208p18)<!-- TECH:END -->
+ - [UK regulator shoots down Microsoft&#39;s $68.7B Activison deal](https://appleinsider.com/articles/23/02/08/uk-regulator-shoots-down-microsofts-687b-activison-deal?utm_medium=rss)
+ - [Google&#39;s Bard announcement on Twitter included a GIF that shows the AI chatbot offering an inaccurate answer to a question about the James Webb Space Telescope &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230208/p22#a230208p22)
+ - [How to Detect AI-Generated Text, According to Researchers](https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
