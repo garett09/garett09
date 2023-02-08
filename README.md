@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/az2en1j)
- - 🚯 [The seething does not stop](http://9gag.com/gag/aYVr8p7)
- - 🚯 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
+ - 🚖 [It&#39;s so risky, but they were just saving their....](http://9gag.com/gag/aoKg7Pw)
+ - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
+ - 🚯 [The speed of light!!!](http://9gag.com/gag/avQAMEn)<!-- MEMES:END -->
 
 --- 
 
