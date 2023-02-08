@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
- - 🚯 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
- - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
+ - 🚖 [`Zombie` beetle controlled by parasites after death](http://9gag.com/gag/a8q1ROV)
+ - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 🚯 [Hmmm](http://9gag.com/gag/aoKg7pm)<!-- MEMES:END -->
 
 --- 
 
