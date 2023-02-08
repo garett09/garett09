@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why gamers are fighting over whether or not it&#39;s OK to play Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-jk-rowling-trans-rights)
- - [Twitter’s API changes could spell harassment for fan accounts](https://www.polygon.com/23591537/twitter-api-change-tweetbot-fandom-harassment-elon-musk)
- - [Here&#39;s A Soulslike That Anyone Could Play, Probably](https://kotaku.com/wo-long-fallen-dynasty-morale-soulslike-team-ninja-1850090466)<!-- GAME:END -->
+ - [Every Game Boy and GBA game now on Nintendo Switch](https://www.polygon.com/23591771/nintendo-switch-online-game-boy-gba-games-list)
+ - [All the biggest announcements from today’s Nintendo Direct](https://www.polygon.com/23590977/nintendo-direct-february-2023-everything-announced)
+ - [Zelda: Tears Of The Kingdom Is Nintendo&#39;s First $70 Game](https://kotaku.com/zelda-tears-kingdom-70-switch-price-increase-eshop-1850086003)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
