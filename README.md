@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA finds Microsoft&#39;s proposed $69B Activision Blizzard acquisition will harm competition in the UK&#39;s gaming market and asks Microsoft for remedies &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230208/p16#a230208p16)
- - [Uber reports Q4 revenue up 49% YoY to $8.6B, gross bookings rose 19% YOY to $30.7B, and a record 2.1B customer trips, up 19% YoY; UBER jumps 7%+ pre-market &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230208/p15#a230208p15)
- - [Biden demands antitrust action against Big Tech during State of the Union](https://appleinsider.com/articles/23/02/08/biden-demands-antitrust-action-against-big-tech-during-state-of-the-union?utm_medium=rss)<!-- TECH:END -->
+ - [How pro-military groups in Myanmar are using Telegram channels, many with ~10K followers, to share abusive sexual videos and images of women and to doxx them &lpar;Pallabi Munsi/CNN&rpar;](http://www.techmeme.com/230208/p19#a230208p19)
+ - [How the Artists of &#39;Destiny 2&#39; Gave Life to Its Big, Bad Enemy](https://www.wired.com/story/destiny-2-art-witch-queen-lightwall-the-darkness/)
+ - [US officials and researchers say TikTok&#39;s proposed algorithm oversight faces practical difficulties and may not offer answers on possible Chinese influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230208/p18#a230208p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
