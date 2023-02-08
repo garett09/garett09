@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay launching in South Korea &#39;in the coming months&#39;](https://appleinsider.com/articles/23/02/08/apple-pay-launching-in-south-korea-in-the-coming-months?utm_medium=rss)
- - [Science researchers are excited about AI chatbots like ChatGPT but apprehensive about their propensity to produce errors and misleading info on technical topics &lpar;Nature&rpar;](http://www.techmeme.com/230208/p13#a230208p13)
- - [Twitter reinstates Republican Senator Steve Daines, banned for a hunting photo flagged for &quot;graphic violence&quot;, after Elon Musk stepped in and amended the rule &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p12#a230208p12)<!-- TECH:END -->
+ - [The UK CMA finds Microsoft&#39;s proposed $69B Activision Blizzard acquisition will harm competition in the UK&#39;s gaming market and asks Microsoft for remedies &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230208/p16#a230208p16)
+ - [Uber reports Q4 revenue up 49% YoY to $8.6B, gross bookings rose 19% YOY to $30.7B, and a record 2.1B customer trips, up 19% YoY; UBER jumps 7%+ pre-market &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230208/p15#a230208p15)
+ - [Biden demands antitrust action against Big Tech during State of the Union](https://appleinsider.com/articles/23/02/08/biden-demands-antitrust-action-against-big-tech-during-state-of-the-union?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
