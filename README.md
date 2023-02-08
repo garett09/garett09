@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix begins rolling out new password sharing rules in Canada, Spain, Portugal, and New Zealand; other countries will be added in the next few months &lpar;David Friend/Canadian Press&rpar;](http://www.techmeme.com/230208/p33#a230208p33)
- - [Clay Bavor, a Google veteran of 18 years who recently led the company&#39;s AR/VR efforts, leaves to start an AI company with former Salesforce co-CEO Bret Taylor &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230208/p32#a230208p32)
- - [Google&#39;s &#39;Bard&#39; chatbot makes factual error in first demo](https://appleinsider.com/articles/23/02/08/googles-bard-chatbot-makes-factual-error-in-first-demo?utm_medium=rss)<!-- TECH:END -->
+ - [Chiliz, the crypto startup behind fan token platform Socios, launches Layer 1 blockchain Chiliz Chain 2.0, a fork of the BNB Chain &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230208/p36#a230208p36)
+ - [Show off your thoughts with Twitter Blue&#39;s new 4000 character limit](https://appleinsider.com/articles/23/02/08/show-off-your-thoughts-with-twitter-blues-new-4000-character-limit?utm_medium=rss)
+ - [NASA Finds Surprise Evidence of Ancient Water Ripples on Mars     - CNET](https://www.cnet.com/science/space/nasa-finds-surprise-evidence-of-ancient-water-ripples-on-mars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
