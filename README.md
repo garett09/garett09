@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
- - 🚯 [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 🚯 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
  - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
 --- 
