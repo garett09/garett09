@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was a quick tour](http://9gag.com/gag/awZzw7r)
- - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
- - 🚯 [The speed of light!!!](http://9gag.com/gag/avQAMEn)<!-- MEMES:END -->
+ - 🚖 [In fact, it\u2019s happened 7 times.](http://9gag.com/gag/adPgWn9)
+ - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 🚯 [When Harry Potter makes you think](http://9gag.com/gag/aVbxpod)<!-- MEMES:END -->
 
 --- 
 
