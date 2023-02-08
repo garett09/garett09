@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can you change your appearance in Hogwarts Legacy?](https://www.polygon.com/hogwarts-legacy-guide/23590014/change-appearance-hair-face-scars-complexion-moles-freckles-color-eyebrow)
- - [PS5 Subreddit Doesn’t Want Players To Bring Up Harry Potter Author](https://kotaku.com/hogwarts-legacy-ps5-subreddit-jk-rowling-transphobia-1850085297)
- - [Genshin Impact Characters As Valentine Dates, Ranked](https://kotaku.com/genshin-impact-valentine-s-day-hoyoverse-1850085317)<!-- GAME:END -->
+ - [Bobby Kotick Says UK Will Become &#39;Death Valley&#39; If Microsoft Purchase Isn&#39;t Approved](https://kotaku.com/activision-bobby-kotick-uk-cma-microsoft-xbox-deal-69-1850085219)
+ - [Where to find Slurp barrels in Fortnite](https://www.pcgamer.com/fortnite-slurp-barrel-locations-weekly-challenge)
+ - [Production has begun on EA&#39;s singleplayer Iron Man game](https://www.pcgamer.com/production-has-begun-on-eas-singleplayer-iron-man-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
