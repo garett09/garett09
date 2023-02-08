@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 🚯 [Damn](http://9gag.com/gag/az2en1j)
- - 🚯 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
+ - 🚖 [Stranger encounter](http://9gag.com/gag/aOxQOEE)
+ - 🚯 [Come on yall, time to cancel Amy Adam&#39;s for this Me too scandal](http://9gag.com/gag/abvgNwX)
+ - 🚯 [Stealth zero](http://9gag.com/gag/az2enyp)<!-- MEMES:END -->
 
 --- 
 
