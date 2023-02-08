@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
- - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
- - 🚯 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
+ - 🚖 [To ignore the eviction notice](http://9gag.com/gag/aKEmoA1)
+ - 🚯 [Damn grandpa](http://9gag.com/gag/a5X1gyO)
+ - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
 --- 
 
