@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bank of England publishes two papers on a new digital pound, seeming to favor centralized databases over a blockchain and imposing a &amp;pound;10K limit per person &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230208/p10#a230208p10)
- - [Corporate expense management tool TripActions rebrands as Navan, consolidates its services into one app, and plans to integrate OpenAI&#39;s ChatGPT &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p9#a230208p9)
- - [Wednesday’s top tech news: after Microsoft’s AI blowout, it’s Google’s turn](https://www.theverge.com/2023/2/8/23590634/february-8-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Apple Pay launching in South Korea &#39;in the coming months&#39;](https://appleinsider.com/articles/23/02/08/apple-pay-launching-in-south-korea-in-the-coming-months?utm_medium=rss)
+ - [Science researchers are excited about AI chatbots like ChatGPT but apprehensive about their propensity to produce errors and misleading info on technical topics &lpar;Nature&rpar;](http://www.techmeme.com/230208/p13#a230208p13)
+ - [Twitter reinstates Republican Senator Steve Daines, banned for a hunting photo flagged for &quot;graphic violence&quot;, after Elon Musk stepped in and amended the rule &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p12#a230208p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
