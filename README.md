@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dune landscape](http://9gag.com/gag/avQAB2q)
- - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 🚖 [Nice\u2026.oh wait](http://9gag.com/gag/avQAj6q)
+ - 🚯 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
+ - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)<!-- MEMES:END -->
 
 --- 
 
