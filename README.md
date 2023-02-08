@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k around and find out](http://9gag.com/gag/anzg025)
- - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 🚖 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
+ - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
+ - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
 
 --- 
 
