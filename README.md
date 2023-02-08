@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can unlock D&amp;D’s ‘Keys from the Golden Vault’ anthology right now](https://www.polygon.com/deals/2023/2/8/23589440/how-to-preorder-dungeons-dragons-adventure-keys-from-the-golden-vault-access)
- - [Bing&#39;s cool new AI chat feature still doesn&#39;t solve the biggest problem with AI-generated content](https://www.pcgamer.com/bings-cool-new-ai-chat-feature-still-doesnt-solve-the-biggest-problem-with-ai-generated-content)
- - [Hogwarts Legacy Is Dominating Twitch Right Now](https://kotaku.com/hogwarts-legacy-harry-potter-game-twitch-release-1850089148)<!-- GAME:END -->
+ - [Destiny 2 reveals bold plan to stop slamming you into walls and insta-killing you for literally no good reason](https://www.pcgamer.com/destiny-2-reveals-plan-to-stop-slamming-you-into-a-wall-and-insta-killing-you-for-literally-no-good-reason)
+ - [Pokémon Go Valentine’s Day 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/2/8/23591068/valentines-day-2023-timed-research-event-lovely-wishes-shiny-frillish-jellicent-tapu-lele)
+ - [Bobby Kotick Is Stoking Chinese Fear To Champion The Microsoft Acquisition](https://kotaku.com/bobby-kotick-activision-blizzard-microsoft-china-1850089106)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
