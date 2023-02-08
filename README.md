@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)
- - 🚯 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
- - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)<!-- MEMES:END -->
+ - 🚖 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
+ - 🚯 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)
+ - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)<!-- MEMES:END -->
 
 --- 
 
