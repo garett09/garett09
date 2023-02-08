@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Whisker Squadron: Survivor is a neon Star Fox roguelite that you can play on PC right now](https://www.pcgamer.com/whisker-squadron-survivor-is-a-neon-star-fox-roguelite-that-you-can-play-on-pc-right-now)
- - [This Mass Effect/The Office mashup convinced me Michael Scott is the canonical Commander Shepard](https://www.pcgamer.com/this-mass-effectthe-office-mashup-convinced-me-michael-scott-is-the-canonical-commander-shepard)
- - [UK regulator provisionally opposes Microsoft-Activision  deal, but leaves door open](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Madden NFL 23, Atomic Heart, Mount &amp; Blade II: Bannerlord, and More](https://news.xbox.com/en-us/2023/02/08/game-pass-february-2023-wave-1-announce/)
+ - [15 game demos to try before Steam Next Fest ends](https://www.polygon.com/what-to-play/23589354/steam-next-fest-best-demos-recommendations-what-to-play)
+ - [Nintendo responds to falling profits with 10% raise for Japanese staff](https://www.polygon.com/23590709/nintendo-japan-pay-raise)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
