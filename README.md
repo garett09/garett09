@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Air gets a $200 price drop at B&amp;H Photo](https://appleinsider.com/articles/23/02/08/apples-m2-macbook-air-gets-a-200-price-drop-at-bh-photo?utm_medium=rss)
- - [Google Maps adds AR views &amp; more Live Activities](https://appleinsider.com/articles/23/02/08/google-maps-adds-ar-views-more-live-activities?utm_medium=rss)
- - [Baffling Apple Watch rumor expects expensive new lineup in 2024](https://appleinsider.com/articles/23/02/08/baffling-apple-watch-rumor-expects-expensive-new-lineup-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
+ - [Android 14 schedule: When is it launching?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [How to install Android 14 on your phone right now](https://www.androidauthority.com/install-android-14-3280834/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
