@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rolls-Royce Spectre EV First Drive: Elegant, Understated, Silent](https://www.wired.com/story/first-drive-rolls-royce-spectre/)
- - [Magic, which is developing a code-generating tool similar to GitHub&#39;s Copilot, raised a $23M Series A led by Alphabet&#39;s CapitalG &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230207/p36#a230207p36)
- - [7 Hand Soaps That Fight Germs, From Cheap to Luxury     - CNET](https://www.cnet.com/health/personal-care/best-hand-soap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Synergy Research: enterprise cloud spending in Q4 grew 21% YoY to $61.6B, but that growth was hampered by the strong US dollar and a restricted Chinese market &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/230207/p37#a230207p37)
+ - [Best Headset for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
+ - [Microsoft thinks AI can beat Google at search — CEO Satya Nadella explains why](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
