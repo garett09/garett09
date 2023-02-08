@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - 🚯 [She thought she was getting away from paying child support](http://9gag.com/gag/a04ZgZq)
- - 🚯 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)<!-- MEMES:END -->
+ - 🚖 [Dune landscape](http://9gag.com/gag/avQAB2q)
+ - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
 
 --- 
 
