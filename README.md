@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In fact, it\u2019s happened 7 times.](http://9gag.com/gag/adPgWn9)
- - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 🚯 [When Harry Potter makes you think](http://9gag.com/gag/aVbxpod)<!-- MEMES:END -->
+ - 🚖 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 🚯 [Damn](http://9gag.com/gag/az2en1j)
+ - 🚯 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
 
 --- 
 
