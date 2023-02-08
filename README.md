@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [“It’s Hard as Hell, But It’s Fair”: The Callisto Protocol Gets a Free Hardcore Mode](https://news.xbox.com/en-us/2023/02/08/the-callisto-protocol-hardcore-mode/)
- - [Peloton bikes are some Black Mirror shit and unfortunately I’m into it](https://www.polygon.com/23588361/black-mirror-peloton-breakout)
- - [6 Ways To Improve Your PS5 Controller’s Poor Battery Life](https://kotaku.com/ps5-dualsense-controller-poor-battery-tips-gamepad-sony-1850085285)<!-- GAME:END -->
+ - [YouTuber trumps Razer with massive six-foot mechanical keyboard](https://www.pcgamer.com/youtuber-trumps-razer-with-massive-six-foot-mechanical-keyboard)
+ - [Everything You Should Know About Marvel Snap’s Game-Changing New Season](https://kotaku.com/marvel-snap-best-deck-modok-cards-variants-quantum-1850087823)
+ - [How to open eye chests in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23590147/unlock-open-eye-chests-rewards-disillusionment-spell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
