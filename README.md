@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
- - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
- - 🚯 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
+ - 🚖 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - 🚯 [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 🚯 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
 --- 
 
