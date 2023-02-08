@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chiliz, the crypto startup behind fan token platform Socios, launches Layer 1 blockchain Chiliz Chain 2.0, a fork of the BNB Chain &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230208/p36#a230208p36)
- - [Show off your thoughts with Twitter Blue&#39;s new 4000 character limit](https://appleinsider.com/articles/23/02/08/show-off-your-thoughts-with-twitter-blues-new-4000-character-limit?utm_medium=rss)
- - [NASA Finds Surprise Evidence of Ancient Water Ripples on Mars     - CNET](https://www.cnet.com/science/space/nasa-finds-surprise-evidence-of-ancient-water-ripples-on-mars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robinhood says it&#39;s working with the DOJ to buy up to 55M shares, over 7% of the company&#39;s outstanding shares, that were bought by Sam Bankman-Fried in 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230208/p42#a230208p42)
+ - [Source: crypto exchange Kraken is facing a SEC probe over whether it offered unregistered securities; the probe could lead to a settlement in the coming days &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/230208/p41#a230208p41)
+ - [Affirm misses with Q2 revenue up 11% YoY to $400M, vs. $416M est., and plans to lay off 19% of its workforce; shares drop 16%+ after hours &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230208/p40#a230208p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
