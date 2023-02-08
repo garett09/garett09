@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood says it&#39;s working with the DOJ to buy up to 55M shares, over 7% of the company&#39;s outstanding shares, that were bought by Sam Bankman-Fried in 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230208/p42#a230208p42)
- - [Source: crypto exchange Kraken is facing a SEC probe over whether it offered unregistered securities; the probe could lead to a settlement in the coming days &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/230208/p41#a230208p41)
- - [Affirm misses with Q2 revenue up 11% YoY to $400M, vs. $416M est., and plans to lay off 19% of its workforce; shares drop 16%+ after hours &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230208/p40#a230208p40)<!-- TECH:END -->
+ - [Android 14 has a hidden feature that can help you find and delete bloatware](https://www.androidauthority.com/android-14-uninstall-bloatware-3281078/)
+ - [Many Twitter users worldwide are reporting issues with the site and say they are not able to tweet, except via an API or by scheduling tweets &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/230208/p44#a230208p44)
+ - [The Political Theater Behind the State of the Union Data Privacy Push](https://www.wired.com/story/sotu-privacy-congress-biden/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
