@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK regulator shoots down Microsoft&#39;s $68.7B Activison deal](https://appleinsider.com/articles/23/02/08/uk-regulator-shoots-down-microsofts-687b-activison-deal?utm_medium=rss)
- - [Google&#39;s Bard announcement on Twitter included a GIF that shows the AI chatbot offering an inaccurate answer to a question about the James Webb Space Telescope &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230208/p22#a230208p22)
- - [How to Detect AI-Generated Text, According to Researchers](https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/)<!-- TECH:END -->
+ - [Warner Bros. Discovery is backtracking on its plan to shut down Discovery Plus](https://www.theverge.com/2023/2/8/23590789/warner-bros-hbo-max-discovery-plus)
+ - [Google&#39;s AI demo event in Paris paled in comparison to Microsoft&#39;s &quot;new Bing&quot; announcement, highlighting Google&#39;s need to widely release its ChatGPT competitor &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230208/p27#a230208p27)
+ - [UK regulator shoots down Microsoft&#39;s $68.7B Activison deal](https://appleinsider.com/articles/23/02/08/uk-regulator-shoots-down-microsofts-687b-activison-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
