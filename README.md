@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy Merlin Trials: How to solve every challenge](https://www.pcgamer.com/hogwarts-legacy-merlin-trials-solutions)
- - [Gigabyte B650E Aorus Master](https://www.pcgamer.com/gigabyte-b650e-aorus-master)
- - [Wordle hint and answer #599: Wednesday, February 8](https://www.pcgamer.com/wordle-hint-answer-today-599-february-8)<!-- GAME:END -->
+ - [Whisker Squadron: Survivor is a neon Star Fox roguelite that you can play on PC right now](https://www.pcgamer.com/whisker-squadron-survivor-is-a-neon-star-fox-roguelite-that-you-can-play-on-pc-right-now)
+ - [This Mass Effect/The Office mashup convinced me Michael Scott is the canonical Commander Shepard](https://www.pcgamer.com/this-mass-effectthe-office-mashup-convinced-me-michael-scott-is-the-canonical-commander-shepard)
+ - [UK regulator provisionally opposes Microsoft-Activision  deal, but leaves door open](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
