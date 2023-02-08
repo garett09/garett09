@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dark Forces II: Jedi Knight Levels Remade In Unreal, Actually Playable](https://kotaku.com/star-wars-dark-forces-jedi-knight-unreal-engine-pc-mod-1850085680)
  - [Bobby Kotick Says UK Will Become &#39;Death Valley&#39; If Microsoft Purchase Isn&#39;t Approved](https://kotaku.com/activision-bobby-kotick-uk-cma-microsoft-xbox-deal-69-1850085219)
- - [Where to find Slurp barrels in Fortnite](https://www.pcgamer.com/fortnite-slurp-barrel-locations-weekly-challenge)
- - [Production has begun on EA&#39;s singleplayer Iron Man game](https://www.pcgamer.com/production-has-begun-on-eas-singleplayer-iron-man-game)<!-- GAME:END -->
+ - [Where to find Slurp barrels in Fortnite](https://www.pcgamer.com/fortnite-slurp-barrel-locations-weekly-challenge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
