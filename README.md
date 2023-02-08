@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber trumps Razer with massive six-foot mechanical keyboard](https://www.pcgamer.com/youtuber-trumps-razer-with-massive-six-foot-mechanical-keyboard)
- - [Everything You Should Know About Marvel Snap’s Game-Changing New Season](https://kotaku.com/marvel-snap-best-deck-modok-cards-variants-quantum-1850087823)
- - [How to open eye chests in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23590147/unlock-open-eye-chests-rewards-disillusionment-spell)<!-- GAME:END -->
+ - [M. Night Shyamalan’s cameos secretly show how far he’s come as a creator](https://www.polygon.com/23589900/m-night-shyamalan-movie-cameos-explained-haha)
+ - [Hogwarts Legacy Clock Tower puzzle: How to open the doors](https://www.pcgamer.com/hogwarts-legacy-clock-tower-puzzle)
+ - [As Bobby Kotick tries to scare them off, UK regulators say let&#39;s take a closer look at the Activision Blizzard deal](https://www.pcgamer.com/as-bobby-kotick-tries-to-scare-them-off-uk-regulators-say-lets-take-a-closer-look-at-microsofts-acquisition-of-activision-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
