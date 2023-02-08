@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
- - 🚯 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)
- - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)<!-- MEMES:END -->
+ - 🚖 [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 🚯 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 🚯 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
 
 --- 
 
