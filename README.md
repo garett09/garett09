@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Teach them early](http://9gag.com/gag/aXnrBgD)
- - 🚯 [Everyone is in trouble when he is around, but this time..](http://9gag.com/gag/aME4gQX)
- - 🚯 [Equality gap debate](http://9gag.com/gag/ap9g4Bb)<!-- MEMES:END -->
+ - 🚖 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
+ - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
+ - 🚯 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
 
 --- 
 
