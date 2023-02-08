@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stranger encounter](http://9gag.com/gag/aOxQOEE)
- - 🚯 [Come on yall, time to cancel Amy Adam&#39;s for this Me too scandal](http://9gag.com/gag/abvgNwX)
- - 🚯 [Stealth zero](http://9gag.com/gag/az2enyp)<!-- MEMES:END -->
+ - 🚖 [Teach them early](http://9gag.com/gag/aXnrBgD)
+ - 🚯 [Everyone is in trouble when he is around, but this time..](http://9gag.com/gag/aME4gQX)
+ - 🚯 [Equality gap debate](http://9gag.com/gag/ap9g4Bb)<!-- MEMES:END -->
 
 --- 
 
