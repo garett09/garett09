@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Zombie` beetle controlled by parasites after death](http://9gag.com/gag/a8q1ROV)
- - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 🚯 [Hmmm](http://9gag.com/gag/aoKg7pm)<!-- MEMES:END -->
+ - 🚖 [That was a quick tour](http://9gag.com/gag/awZzw7r)
+ - 🚯 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
+ - 🚯 [The speed of light!!!](http://9gag.com/gag/avQAMEn)<!-- MEMES:END -->
 
 --- 
 
