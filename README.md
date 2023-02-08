@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod 2 review: A great smart speaker that struggles to stand out](https://appleinsider.com/articles/23/02/08/homepod-2-review-a-great-smart-speaker-that-struggles-to-stand-out?utm_medium=rss)
- - [Mac is less popular among Apple customers than iPhone, iPad, Apple Watch](https://appleinsider.com/articles/23/02/08/mac-is-less-popular-among-apple-customers-than-iphone-ipad-apple-watch?utm_medium=rss)
- - [Meet Frida, the Robot That Paints AI-Driven Art in Real Life     - CNET](https://www.cnet.com/science/meet-frida-the-robot-that-paints-ai-driven-art-in-real-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix begins rolling out new password sharing rules in Canada, Spain, Portugal, and New Zealand; other countries will be added in the next few months &lpar;David Friend/Canadian Press&rpar;](http://www.techmeme.com/230208/p33#a230208p33)
+ - [Clay Bavor, a Google veteran of 18 years who recently led the company&#39;s AR/VR efforts, leaves to start an AI company with former Salesforce co-CEO Bret Taylor &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230208/p32#a230208p32)
+ - [Google&#39;s &#39;Bard&#39; chatbot makes factual error in first demo](https://appleinsider.com/articles/23/02/08/googles-bard-chatbot-makes-factual-error-in-first-demo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
