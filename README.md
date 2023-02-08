@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice\u2026.oh wait](http://9gag.com/gag/avQAj6q)
- - 🚯 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
- - 🚯 [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)<!-- MEMES:END -->
+ - 🚖 [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)
+ - 🚯 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
+ - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)<!-- MEMES:END -->
 
 --- 
 
