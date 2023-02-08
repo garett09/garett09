@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
- - [Android 14 schedule: When is it launching?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [How to install Android 14 on your phone right now](https://www.androidauthority.com/install-android-14-3280834/)<!-- TECH:END -->
+ - [HomePod 2 review: A great smart speaker that struggles to stand out](https://appleinsider.com/articles/23/02/08/homepod-2-review-a-great-smart-speaker-that-struggles-to-stand-out?utm_medium=rss)
+ - [Mac is less popular among Apple customers than iPhone, iPad, Apple Watch](https://appleinsider.com/articles/23/02/08/mac-is-less-popular-among-apple-customers-than-iphone-ipad-apple-watch?utm_medium=rss)
+ - [Meet Frida, the Robot That Paints AI-Driven Art in Real Life     - CNET](https://www.cnet.com/science/meet-frida-the-robot-that-paints-ai-driven-art-in-real-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
