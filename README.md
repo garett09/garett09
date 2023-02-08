@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Entropik, which uses AI to analyze consumers&#39; expressions, eye gaze, and more, raised a $25M Series B in equity and debt led by Bessemer and SIG &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/230208/p6#a230208p6)
- - [Daily Authority: 💥 Is the old OnePlus back?](https://www.androidauthority.com/daily-authority-february-8-2023-3280680/)
- - [Google Chrome on desktop is getting a biometric boost](https://www.androidauthority.com/google-chrome-desktop-biometric-authentication-passwords-3280710/)<!-- TECH:END -->
+ - [The Bank of England publishes two papers on a new digital pound, seeming to favor centralized databases over a blockchain and imposing a &amp;pound;10K limit per person &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230208/p10#a230208p10)
+ - [Corporate expense management tool TripActions rebrands as Navan, consolidates its services into one app, and plans to integrate OpenAI&#39;s ChatGPT &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p9#a230208p9)
+ - [Wednesday’s top tech news: after Microsoft’s AI blowout, it’s Google’s turn](https://www.theverge.com/2023/2/8/23590634/february-8-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
