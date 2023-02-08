@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: eBay plans to lay off ~500 employees, ~4% of its total workforce, to create space to invest in &quot;new technologies, customer innovations, and key markets&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230207/p35#a230207p35)
- - [10 tips for taking the best selfie: follow these steps for stunning results](https://www.androidauthority.com/tips-take-good-selfie-3277021/)
- - [Source: Microsoft plans to release software to help large companies create and customize their own chatbots using ChatGPT technology later this year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230207/p34#a230207p34)<!-- TECH:END -->
+ - [Rolls-Royce Spectre EV First Drive: Elegant, Understated, Silent](https://www.wired.com/story/first-drive-rolls-royce-spectre/)
+ - [Magic, which is developing a code-generating tool similar to GitHub&#39;s Copilot, raised a $23M Series A led by Alphabet&#39;s CapitalG &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230207/p36#a230207p36)
+ - [7 Hand Soaps That Fight Germs, From Cheap to Luxury     - CNET](https://www.cnet.com/health/personal-care/best-hand-soap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
