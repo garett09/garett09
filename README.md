@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Madden NFL 23, Atomic Heart, Mount &amp; Blade II: Bannerlord, and More](https://news.xbox.com/en-us/2023/02/08/game-pass-february-2023-wave-1-announce/)
- - [15 game demos to try before Steam Next Fest ends](https://www.polygon.com/what-to-play/23589354/steam-next-fest-best-demos-recommendations-what-to-play)
- - [Nintendo responds to falling profits with 10% raise for Japanese staff](https://www.polygon.com/23590709/nintendo-japan-pay-raise)<!-- GAME:END -->
+ - [“It’s Hard as Hell, But It’s Fair”: The Callisto Protocol Gets a Free Hardcore Mode](https://news.xbox.com/en-us/2023/02/08/the-callisto-protocol-hardcore-mode/)
+ - [Peloton bikes are some Black Mirror shit and unfortunately I’m into it](https://www.polygon.com/23588361/black-mirror-peloton-breakout)
+ - [6 Ways To Improve Your PS5 Controller’s Poor Battery Life](https://kotaku.com/ps5-dualsense-controller-poor-battery-tips-gamepad-sony-1850085285)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
