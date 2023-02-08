@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [M. Night Shyamalan’s cameos secretly show how far he’s come as a creator](https://www.polygon.com/23589900/m-night-shyamalan-movie-cameos-explained-haha)
- - [Hogwarts Legacy Clock Tower puzzle: How to open the doors](https://www.pcgamer.com/hogwarts-legacy-clock-tower-puzzle)
- - [As Bobby Kotick tries to scare them off, UK regulators say let&#39;s take a closer look at the Activision Blizzard deal](https://www.pcgamer.com/as-bobby-kotick-tries-to-scare-them-off-uk-regulators-say-lets-take-a-closer-look-at-microsofts-acquisition-of-activision-blizzard)<!-- GAME:END -->
+ - [Read a bit of Neil Gaiman’s new Sandman story that comes with this bonkers box set](https://www.polygon.com/23590886/sandman-comic-neil-gaiman-complete-set-preview)
+ - [Cops Accidentally Mistake Nintendo Direct For Bomb Threat](https://kotaku.com/nintendo-direct-police-cops-cal-state-threat-email-joke-1850088816)
+ - [The transcendent Spirited Away stage play is coming to theaters soon](https://www.polygon.com/23591143/spirited-away-stage-play-movie-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
