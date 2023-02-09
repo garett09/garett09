@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab an Apple HomePod mini for just $84.99](https://appleinsider.com/articles/23/02/09/grab-an-apple-homepod-mini-for-just-8499?utm_medium=rss)
- - [Bing Brings the AI: 5 Things to Try With Microsoft&#39;s New Search Tools     - CNET](https://www.cnet.com/tech/services-and-software/microsofts-new-ai-powered-bing-here-are-5-things-youll-be-able-to-do/#ftag=CAD590a51e)
- - [This Fake Skin Fools Mosquitoes—to Fight the Diseases They Spread](https://www.wired.com/story/this-fake-skin-fools-mosquitoes-to-fight-the-diseases-they-spread/)<!-- TECH:END -->
+ - [Every James Bond Movie, Ranked: The Best &lpar;and Worst&rpar; of Bond     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked-the-best-and-worst-of-bond/#ftag=CAD590a51e)
+ - [Spider-Man Noir Live-Action Show May Be in Works at Amazon     - CNET](https://www.cnet.com/culture/entertainment/spider-man-noir-live-action-show-may-be-in-works-at-amazon/#ftag=CAD590a51e)
+ - [Apple executives explain Apple Silicon &amp; Neural Engine in new interview](https://appleinsider.com/articles/23/02/09/apple-executives-explain-apple-silicon-neural-engine-in-new-interview?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
