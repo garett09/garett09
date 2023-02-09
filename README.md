@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
- - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
- - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
+ - 🚖 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
+ - 🚯 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
+ - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
 
 --- 
 
