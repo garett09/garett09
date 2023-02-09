@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Idris Elba doesn’t need James Bond, he has Luther](https://www.polygon.com/23592547/idris-elba-luther-movie-netflix-trailer)
- - [Marvel Snap&#39;s Most Popular Cards Are Now Less Powerful](https://kotaku.com/marvel-snap-zabu-silver-surfer-nerf-patch-best-deck-1850093864)
- - [Puny Asus Mini-ITX motherboard has a chipset on a stick](https://www.pcgamer.com/puny-asus-mini-itx-motherboard-has-a-chipset-on-a-stick)<!-- GAME:END -->
+ - [Mini Metroidvania Ascent captures the joy of the genre in 30 minutes](https://www.polygon.com/23587848/ascent-metroidvania-freeware-pico-8-indie)
+ - [Don’t Sleep On Keke Palmer’s Amazing Twitch Streams](https://kotaku.com/keke-palmer-twitch-streamer-sims-4-tekken-7-nope-1850094181)
+ - [Atomic Heart detailed system requirements revealed](https://www.pcgamer.com/atomic-heart-pc-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
