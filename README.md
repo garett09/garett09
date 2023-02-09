@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every James Bond Movie, Ranked: The Best &lpar;and Worst&rpar; of Bond     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked-the-best-and-worst-of-bond/#ftag=CAD590a51e)
- - [Spider-Man Noir Live-Action Show May Be in Works at Amazon     - CNET](https://www.cnet.com/culture/entertainment/spider-man-noir-live-action-show-may-be-in-works-at-amazon/#ftag=CAD590a51e)
- - [Apple executives explain Apple Silicon &amp; Neural Engine in new interview](https://appleinsider.com/articles/23/02/09/apple-executives-explain-apple-silicon-neural-engine-in-new-interview?utm_medium=rss)<!-- TECH:END -->
+ - [How to check your CPU temperature on a Windows PC](https://www.androidauthority.com/how-to-check-cpu-temp-windows-3281498/)
+ - [&#39;Star Wars: Young Jedi Adventures&#39; Gets May Release Date on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/star-wars-young-jedi-adventures-gets-may-4-release-date-on-disney-plus/#ftag=CAD590a51e)
+ - [Russia’s Ransomware Gangs Are Being Named and Shamed](https://www.wired.com/story/conti-trickbot-ransomware-sanctions-uk-us/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
