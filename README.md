@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revamped &#39;Myst Mobile&#39; lands on iPad, iPhone](https://appleinsider.com/articles/23/02/09/revamped-myst-mobile-lands-on-ipad-iphone?utm_medium=rss)
- - [PayPal reports Q4 revenue up 7% YoY to $7.38B, vs. $7.39B est., payments volume up 5% YoY to $357.4B, vs. $360.3B est., and net income of $921M &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230209/p27#a230209p27)
- - [PayPal says its CEO and president Dan Schulman will retire and leave the company at the end 2023; he will remain a member of PayPal&#39;s board of directors &lpar;CNBC&rpar;](http://www.techmeme.com/230209/p26#a230209p26)<!-- TECH:END -->
+ - [The US DOT says it is investigating Neuralink over the potentially illegal movement of hazardous pathogens, after an alert from an animal welfare advocacy group &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/230209/p30#a230209p30)
+ - [Cloudflare reports Q4 revenue up 42% YoY to $274.7M, vs. $274.1M est., and FY 2023 revenue guidance between $1.33B and $1.34B, vs. $1.31B est.; stock is up 10%+ &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/230209/p29#a230209p29)
+ - [My Strange Day With Bing’s New AI Chatbot](https://www.wired.com/story/my-strange-day-with-bings-new-ai-chatbot/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
