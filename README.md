@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Super Bowl LVII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/inside/ios-16/tips/how-to-watch-super-bowl-lvii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
- - [OWC Thunderbolt Go Dock review: Ditch the big power brick](https://appleinsider.com/articles/23/02/09/fpw-owc-thunderbolt-go-dock-review-ditch-the-big-power-brick?utm_medium=rss)
- - [Nextracker, which sells solar trackers and licenses energy management software to solar project developers, raised $638M in its Nasdaq IPO at a $3.4B+ valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230209/p16#a230209p16)<!-- TECH:END -->
+ - [Jony Ive&#39;s Red Nose: Unexpectedly well designed](https://appleinsider.com/articles/23/02/09/jony-ives-red-nose-unexpectedly-well-designed?utm_medium=rss)
+ - [Cloudflare debuts Wildebeest, an open-source ActivityPub server built on Cloudflare&#39;s Supercloud that makes it easier to self-host a robust Mastodon instance &lpar;Celso Martinho/The Cloudflare Blog&rpar;](http://www.techmeme.com/230209/p18#a230209p18)
+ - [The Chatbot Search Wars Have Begun](https://www.wired.com/story/fast-forward-the-chatbot-search-wars-have-begun/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
