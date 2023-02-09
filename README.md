@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive&#39;s Red Nose: Unexpectedly well designed](https://appleinsider.com/articles/23/02/09/jony-ives-red-nose-unexpectedly-well-designed?utm_medium=rss)
- - [Cloudflare debuts Wildebeest, an open-source ActivityPub server built on Cloudflare&#39;s Supercloud that makes it easier to self-host a robust Mastodon instance &lpar;Celso Martinho/The Cloudflare Blog&rpar;](http://www.techmeme.com/230209/p18#a230209p18)
- - [The Chatbot Search Wars Have Begun](https://www.wired.com/story/fast-forward-the-chatbot-search-wars-have-begun/)<!-- TECH:END -->
+ - [Apple Music interviews halftime star Rihanna ahead of Super Bowl LVII](https://appleinsider.com/articles/23/02/09/apple-music-interviews-halftime-star-rihanna-ahead-of-super-bowl-lvii?utm_medium=rss)
+ - [Rejecting a deal on Sam Bankman-Fried using encrypted messaging apps, a judge orders his lawyers to make a plan to tighten his bail to ensure messages are saved &lpar;New York Times&rpar;](http://www.techmeme.com/230209/p19#a230209p19)
+ - [Google ChatGPT Rival Bard Flubs Fact About NASA&#39;s Webb Space Telescope     - CNET](https://www.cnet.com/science/space/googles-chatgpt-rival-bard-called-out-for-nasa-webb-space-telescope-error/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
