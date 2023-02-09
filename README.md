@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music interviews halftime star Rihanna ahead of Super Bowl LVII](https://appleinsider.com/articles/23/02/09/apple-music-interviews-halftime-star-rihanna-ahead-of-super-bowl-lvii?utm_medium=rss)
- - [Rejecting a deal on Sam Bankman-Fried using encrypted messaging apps, a judge orders his lawyers to make a plan to tighten his bail to ensure messages are saved &lpar;New York Times&rpar;](http://www.techmeme.com/230209/p19#a230209p19)
- - [Google ChatGPT Rival Bard Flubs Fact About NASA&#39;s Webb Space Telescope     - CNET](https://www.cnet.com/science/space/googles-chatgpt-rival-bard-called-out-for-nasa-webb-space-telescope-error/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab an Apple HomePod mini for just $84.99](https://appleinsider.com/articles/23/02/09/grab-an-apple-homepod-mini-for-just-8499?utm_medium=rss)
+ - [Bing Brings the AI: 5 Things to Try With Microsoft&#39;s New Search Tools     - CNET](https://www.cnet.com/tech/services-and-software/microsofts-new-ai-powered-bing-here-are-5-things-youll-be-able-to-do/#ftag=CAD590a51e)
+ - [This Fake Skin Fools Mosquitoes—to Fight the Diseases They Spread](https://www.wired.com/story/this-fake-skin-fools-mosquitoes-to-fight-the-diseases-they-spread/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
