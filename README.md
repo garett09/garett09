@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are you eating?](http://9gag.com/gag/aME4RRX)
- - 🚯 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
- - 🚯 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)<!-- MEMES:END -->
+ - 🚖 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
+ - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)
+ - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
 
 --- 
 
