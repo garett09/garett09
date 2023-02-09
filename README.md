@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Writing about themselves...](http://9gag.com/gag/avQA3Z5)
- - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 🚯 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)<!-- MEMES:END -->
+ - 🚖 [ChadGirl](http://9gag.com/gag/aRErYmy)
+ - 🚯 [Applying for any High-Tech firm jobs in California is like this, can confirm](http://9gag.com/gag/a6q1vee)
+ - 🚯 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)<!-- MEMES:END -->
 
 --- 
 
