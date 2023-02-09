@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
- - 🚯 [Nightmare fuel](http://9gag.com/gag/ajVg24g)
- - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)<!-- MEMES:END -->
+ - 🚖 [Pianist @elomrce enchanting everyone by beautifully playing Interstellar theme](http://9gag.com/gag/agogMXq)
+ - 🚯 [LIES, DECEPTION!](http://9gag.com/gag/aYVVjNm)
+ - 🚯 [Trully uncanny](http://9gag.com/gag/aME4gWX)<!-- MEMES:END -->
 
 --- 
 
