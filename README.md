@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #600: Thursday, February 9](https://www.pcgamer.com/wordle-hint-answer-today-600-february-9)
- - [Japan&#39;s Nintendo Direct Had A Very Nice Surprise](https://kotaku.com/nintendo-direct-japan-natsu-mon-boku-no-natsuyasumi-1850091855)
- - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)<!-- GAME:END -->
+ - [Here&#39;s when Hogwarts Legacy releases in your time zone](https://www.pcgamer.com/hogwarts-legacy-release-times-unlock)
+ - [Inject Dead Cells&#39; Castlevania DLC straight into my veins please](https://www.pcgamer.com/inject-dead-cells-castlevania-dlc-straight-into-my-veins-please)
+ - [Tech companies say the metaverse is coming, but PC gamers know it’s already been here for years](https://www.pcgamer.com/tech-companies-say-the-metaverse-is-coming-but-pc-gamers-know-its-already-been-here-for-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
