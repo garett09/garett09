@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether claims $700M in Q4 profit, in addition to its reserves, and $67.04B in total assets and $66.08B in liabilities; Tether-secured loans were down by $300M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230209/p10#a230209p10)
- - [Want to Delete Your Twitter DMs? Good Luck With That](https://www.wired.com/story/delete-twitter-dms-gdpr/)
- - [The End of Grading](https://www.wired.com/story/the-end-of-grading/)<!-- TECH:END -->
+ - [Coincover, which offers tools to 300+ companies to protect digital assets from hacks or human error, raised $30M led by Foundation, taking its funding to $41.6M &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230209/p11#a230209p11)
+ - [16 Best N95, KF94, and KN95 Face Masks &lpar;2022&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
+ - [Cryptocurrency’s Myth of Anonymity](https://www.wired.com/story/gadget-lab-podcast-585/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
