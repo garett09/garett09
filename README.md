@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 great cases for your new Samsung Galaxy S23 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s23-ultra-cases-3273407/)
- - [Twitter&#39;s voluntary report to EU regulators on how it was tackling disinformation lacked data and didn&#39;t include commitments on empowering fact-checkers &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230209/p2#a230209p2)
- - [We asked, you told us: Here’s how you feel about buying a new phone in 2023](https://www.androidauthority.com/buy-new-phone-2023-poll-results-3281222/)<!-- TECH:END -->
+ - [How to add money to your Venmo account](https://www.androidauthority.com/add-money-venmo-3280589/)
+ - [Your Tech Stuff Is Getting Slightly More Repairable](https://www.wired.com/story/us-pirg-repairability-scorecard-2023/)
+ - [10 excellent cases for your brand new OnePlus 11](https://www.androidauthority.com/best-oneplus-11-cases-3280685/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
