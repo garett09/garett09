@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
- - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 🚯 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
+ - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 🚯 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)<!-- MEMES:END -->
 
 --- 
 
