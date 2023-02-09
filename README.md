@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Android 14’s first preview has landed](https://www.androidauthority.com/daily-authority-february-9-2023-3280682/)
- - [How to add money to your Venmo account](https://www.androidauthority.com/add-money-venmo-3280589/)
- - [Your Tech Stuff Is Getting Slightly More Repairable](https://www.wired.com/story/us-pirg-repairability-scorecard-2023/)<!-- TECH:END -->
+ - [SpaceX COO Gwynne Shotwell says the company limited Ukraine&#39;s military from using Starlink to control drones as its service was &quot;never meant to be weaponized&quot; &lpar;Joey Roulette/Reuters&rpar;](http://www.techmeme.com/230209/p6#a230209p6)
+ - [Inside FTX&#39;s final hours, described by employees, chat logs, and Sam Bankman-Fried: panic selling assets, trying to raise funds, SBF&#39;s silence, and bankruptcy &lpar;Financial Times&rpar;](http://www.techmeme.com/230209/p5#a230209p5)
+ - [The Federation data: active users on decentralized social networks are up from ~600K to ~2.6M in a few months, challenging claims about a failing &quot;fediverse&quot; &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230209/p4#a230209p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
