@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Writing about themselves...](http://9gag.com/gag/avQA3Z5)
+ - 🚖 [GWGB.](http://9gag.com/gag/a9q1QxL)
  - 🚯 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)<!-- MEMES:END -->
+ - 🚯 [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)<!-- MEMES:END -->
 
 --- 
 
