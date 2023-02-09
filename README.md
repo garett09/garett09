@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 🚯 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 🚯 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
  - 🚯 [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)<!-- MEMES:END -->
 
 --- 
