@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks Like The Witcher 3 ‘Next-Gen’ Update Added Realistic Vaginas, Too](https://kotaku.com/witcher-3-next-gen-update-vagina-model-crone-ps5-xbox-1850094573)
- - [Is found-footage horror a dead genre?](https://www.polygon.com/23591677/found-footage-horror-dead-replaced-screenlife-immersive)
- - [Calling all Pilots: SD Gundam Battle Alliance comes to Xbox Game Pass!](https://news.xbox.com/en-us/2023/02/09/sd-gundam-battle-alliance-comes-to-xbox-game-pass/)<!-- GAME:END -->
+ - [Xbox Celebrates Super Bowl LVII with a Week Full of Activities, Community Engagement, and Fun](https://news.xbox.com/en-us/2023/02/09/xbox-celebrates-super-bowl-with-week-full-of-community-engagement/)
+ - [Hearthstone&#39;s new Naxxramas miniset launches next week and we have a Legendary card to reveal](https://www.pcgamer.com/new-hearthstone-miniset-and-exclusive-legendary-minion-revealed)
+ - [How to get rewards in Fortnite’s School of Llama website event](https://www.polygon.com/fortnite-guide/2023/2/9/23589403/school-of-llama-website-event-rewards-not-working-quests)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
