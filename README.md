@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Super Bowl LVII with a Week Full of Activities, Community Engagement, and Fun](https://news.xbox.com/en-us/2023/02/09/xbox-celebrates-super-bowl-with-week-full-of-community-engagement/)
- - [Hearthstone&#39;s new Naxxramas miniset launches next week and we have a Legendary card to reveal](https://www.pcgamer.com/new-hearthstone-miniset-and-exclusive-legendary-minion-revealed)
- - [How to get rewards in Fortnite’s School of Llama website event](https://www.polygon.com/fortnite-guide/2023/2/9/23589403/school-of-llama-website-event-rewards-not-working-quests)<!-- GAME:END -->
+ - [How to give the Game Boy and GBA games a retro look on Nintendo Switch](https://www.polygon.com/guides/23593050/game-boy-advance-nintendo-switch-online-filter-classic-feel)
+ - [The original Mickey Mouse was an actual mouse](https://www.polygon.com/century-of-disney/23589246/mickey-mouse-origins-creation-who-how-why)
+ - [Assassin&#39;s Creed Black Flag, Origins Director Latest To Leave Ubisoft](https://kotaku.com/assassins-creed-black-flag-origins-minecraft-ubisoft-1850095545)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
