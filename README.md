@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fatal Frame: Mask of the Lunar Eclipse is a slow stroll through survival horror](https://www.polygon.com/23591410/fatal-frame-mask-lunar-eclipse-remaster-preview-impressions)
- - [Metroid Prime Remastered also has Wii-style pointer controls — and they feel great](https://www.polygon.com/gaming/23592370/metroid-prime-remastered-controls-wii-pointer-dual-stick-classic-gamecube)
- - [Silicon wafers are getting cheaper but CPUs and GPUs may not follow](https://www.pcgamer.com/silicon-wafers-are-getting-cheaper-but-cpus-and-gpus-may-not-follow)<!-- GAME:END -->
+ - [The third Sword Art Online movie sells out one of the best characters](https://www.polygon.com/23591091/sword-art-online-progressive-scherzo-deep-night-review-anime-movie)
+ - [How Clash: Artifacts of Chaos Uses Traditional Techniques to Look Like an Animated Illustration](https://news.xbox.com/en-us/2023/02/09/clash-artifacts-of-chaos-art-style/)
+ - [Switch Online members can save on new games, even Zelda: Tears of the Kingdom](https://www.polygon.com/deals/2023/2/2/23582037/nintendo-switch-online-game-digital-vouchers-discount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
