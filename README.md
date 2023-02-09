@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX COO Gwynne Shotwell says the company limited Ukraine&#39;s military from using Starlink to control drones as its service was &quot;never meant to be weaponized&quot; &lpar;Joey Roulette/Reuters&rpar;](http://www.techmeme.com/230209/p6#a230209p6)
- - [Inside FTX&#39;s final hours, described by employees, chat logs, and Sam Bankman-Fried: panic selling assets, trying to raise funds, SBF&#39;s silence, and bankruptcy &lpar;Financial Times&rpar;](http://www.techmeme.com/230209/p5#a230209p5)
- - [The Federation data: active users on decentralized social networks are up from ~600K to ~2.6M in a few months, challenging claims about a failing &quot;fediverse&quot; &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230209/p4#a230209p4)<!-- TECH:END -->
+ - [Hugh Laurie joins Apple TV+ hit &#39;Tehran&#39; for its third season](https://appleinsider.com/articles/23/02/09/hugh-laurie-joins-apple-tv-hit-tehran-for-its-third-season?utm_medium=rss)
+ - [The Out-of-Control Spread of Crowd-Control Tech](https://www.wired.com/story/out-of-control-spread-of-crowd-control-tech/)
+ - [Investigation: AI tools rate photos of women as more sexually suggestive than photos of men, especially if nipples, pregnant bellies, or exercise are involved &lpar;The Guardian&rpar;](http://www.techmeme.com/230209/p9#a230209p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
