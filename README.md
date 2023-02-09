@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coincover, which offers tools to 300+ companies to protect digital assets from hacks or human error, raised $30M led by Foundation, taking its funding to $41.6M &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230209/p11#a230209p11)
- - [16 Best N95, KF94, and KN95 Face Masks &lpar;2022&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
- - [Cryptocurrency’s Myth of Anonymity](https://www.wired.com/story/gadget-lab-podcast-585/)<!-- TECH:END -->
+ - [Tech Is Changing What it Means to Have Dominant Hand](https://www.wired.com/story/handedness-digital-technology/)
+ - [Big Agnes Copper Spur UL1 Review: Small Tent, Big Winner](https://www.wired.com/review/big-agnes-copper-spur-ul1/)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Trailer, Plot, Cast, First Reactions, Release Date     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-trailer-plot-cast-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
