@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The golden years: Sony’s waterproof Xperia Z flagship turns 10](https://www.androidauthority.com/xperia-z-10-years-3276632/)
- - [8 Best Vibrators &lpar;2023&rpar;: Cheap, Powerful, Flexible](https://www.wired.com/gallery/best-vibrators/)
- - [iPhone 14 is a bigger upgrade over iPhone 13 than most would expect](https://appleinsider.com/articles/23/02/09/iphone-14-is-a-bigger-upgrade-over-iphone-13-than-most-would-expect?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch Super Bowl LVII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/inside/ios-16/tips/how-to-watch-super-bowl-lvii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
+ - [OWC Thunderbolt Go Dock review: Ditch the big power brick](https://appleinsider.com/articles/23/02/09/fpw-owc-thunderbolt-go-dock-review-ditch-the-big-power-brick?utm_medium=rss)
+ - [Nextracker, which sells solar trackers and licenses energy management software to solar project developers, raised $638M in its Nasdaq IPO at a $3.4B+ valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230209/p16#a230209p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
