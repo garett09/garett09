@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ChadGirl](http://9gag.com/gag/aRErYmy)
- - 🚯 [Applying for any High-Tech firm jobs in California is like this, can confirm](http://9gag.com/gag/a6q1vee)
- - 🚯 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)<!-- MEMES:END -->
+ - 🚖 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
+ - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - 🚯 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
 
 --- 
 
