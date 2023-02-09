@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pianist @elomrce enchanting everyone by beautifully playing Interstellar theme](http://9gag.com/gag/agogMXq)
- - 🚯 [LIES, DECEPTION!](http://9gag.com/gag/aYVVjNm)
- - 🚯 [Trully uncanny](http://9gag.com/gag/aME4gWX)<!-- MEMES:END -->
+ - 🚖 [What are you eating?](http://9gag.com/gag/aME4RRX)
+ - 🚯 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 🚯 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)<!-- MEMES:END -->
 
 --- 
 
