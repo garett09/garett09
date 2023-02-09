@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic&#39;s new set has the only interesting poison mechanic I&#39;ve seen in a game](https://www.pcgamer.com/magics-new-set-has-the-only-interesting-poison-mechanic-ive-seen-in-a-game)
- - [Hogwarts Legacy Spoilers Are All Over The Internet, As Is Harry Potter Tradition](https://kotaku.com/hogwarts-legacy-ending-spoilers-twitter-death-potter-1850096246)
- - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)<!-- GAME:END -->
+ - [This eerie RPG looks like Baldur&#39;s Gate on Game Boy, and it&#39;s out soon](https://www.pcgamer.com/this-eerie-rpg-looks-like-baldurs-gate-on-game-boy-and-its-out-soon)
+ - [Every item you can buy in Hogwarts Legacy &lpar;and where to buy them&rpar;](https://www.polygon.com/hogwarts-legacy-guide/23592174/items-mandrakes-fluxweed-shrivelfig-venomous-tentaculua-dogweed-deathcap-potions)
+ - [World of Warcraft is ditching Twitter integration](https://www.pcgamer.com/world-of-warcraft-is-ditching-twitter-integration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
