@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugh Laurie joins Apple TV+ hit &#39;Tehran&#39; for its third season](https://appleinsider.com/articles/23/02/09/hugh-laurie-joins-apple-tv-hit-tehran-for-its-third-season?utm_medium=rss)
- - [The Out-of-Control Spread of Crowd-Control Tech](https://www.wired.com/story/out-of-control-spread-of-crowd-control-tech/)
- - [Investigation: AI tools rate photos of women as more sexually suggestive than photos of men, especially if nipples, pregnant bellies, or exercise are involved &lpar;The Guardian&rpar;](http://www.techmeme.com/230209/p9#a230209p9)<!-- TECH:END -->
+ - [Tether claims $700M in Q4 profit, in addition to its reserves, and $67.04B in total assets and $66.08B in liabilities; Tether-secured loans were down by $300M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230209/p10#a230209p10)
+ - [Want to Delete Your Twitter DMs? Good Luck With That](https://www.wired.com/story/delete-twitter-dms-gdpr/)
+ - [The End of Grading](https://www.wired.com/story/the-end-of-grading/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
