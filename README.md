@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
- - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)
- - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
+ - 🚖 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
+ - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
 
 --- 
 
