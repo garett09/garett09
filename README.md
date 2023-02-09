@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silicon wafers are getting cheaper but CPUs and GPUs may not follow](https://www.pcgamer.com/silicon-wafers-are-getting-cheaper-but-cpus-and-gpus-may-not-follow)
- - [You’s secret to rooting for a bad guy: Surround him with worse people](https://www.polygon.com/reviews/23591818/you-season-4-part-1-netflix-review)
- - [Google&#39;s new AI didn&#39;t do a racism but its public screw up still knocked $100B off the books](https://www.pcgamer.com/googles-new-ai-didnt-do-a-racism-but-its-public-screw-up-still-knocked-dollar100b-off-the-books)<!-- GAME:END -->
+ - [Fatal Frame: Mask of the Lunar Eclipse is a slow stroll through survival horror](https://www.polygon.com/23591410/fatal-frame-mask-lunar-eclipse-remaster-preview-impressions)
+ - [Metroid Prime Remastered also has Wii-style pointer controls — and they feel great](https://www.polygon.com/gaming/23592370/metroid-prime-remastered-controls-wii-pointer-dual-stick-classic-gamecube)
+ - [Silicon wafers are getting cheaper but CPUs and GPUs may not follow](https://www.pcgamer.com/silicon-wafers-are-getting-cheaper-but-cpus-and-gpus-may-not-follow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
