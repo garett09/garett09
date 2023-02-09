@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Is Changing What it Means to Have Dominant Hand](https://www.wired.com/story/handedness-digital-technology/)
- - [Big Agnes Copper Spur UL1 Review: Small Tent, Big Winner](https://www.wired.com/review/big-agnes-copper-spur-ul1/)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Trailer, Plot, Cast, First Reactions, Release Date     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-trailer-plot-cast-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The golden years: Sony’s waterproof Xperia Z flagship turns 10](https://www.androidauthority.com/xperia-z-10-years-3276632/)
+ - [8 Best Vibrators &lpar;2023&rpar;: Cheap, Powerful, Flexible](https://www.wired.com/gallery/best-vibrators/)
+ - [iPhone 14 is a bigger upgrade over iPhone 13 than most would expect](https://appleinsider.com/articles/23/02/09/iphone-14-is-a-bigger-upgrade-over-iphone-13-than-most-would-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
