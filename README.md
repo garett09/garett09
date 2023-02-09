@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
- - 🚯 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
+ - 🚖 [What are you eating?](http://9gag.com/gag/aME4RRX)
+ - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
  - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
 
 --- 
