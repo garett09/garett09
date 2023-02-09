@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch owners are getting more Game Boy Advance games, thank goodness](https://www.polygon.com/23592765/game-boy-advance-gba-nintendo-best-console)
- - [10 Video Game Kisses We Can’t Forget](https://kotaku.com/best-video-game-kisses-witcher-sonic-kirby-1850095732)
- - [7 Ways To Save Space On Your PS5’s SSD](https://kotaku.com/ps5-ssd-hard-drive-storage-save-space-upgrade-expand-1850095909)<!-- GAME:END -->
+ - [Magic&#39;s new set has the only interesting poison mechanic I&#39;ve seen in a game](https://www.pcgamer.com/magics-new-set-has-the-only-interesting-poison-mechanic-ive-seen-in-a-game)
+ - [Hogwarts Legacy Spoilers Are All Over The Internet, As Is Harry Potter Tradition](https://kotaku.com/hogwarts-legacy-ending-spoilers-twitter-death-potter-1850096246)
+ - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
