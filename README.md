@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Literally in a couple of days they were asking the man for help, even the producers had to help them](http://9gag.com/gag/a5XXp1V)
- - 🚯 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)
- - 🚯 [Find the red light before it finds you](http://9gag.com/gag/a6q1WVb)<!-- MEMES:END -->
+ - 🚖 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
+ - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
 
 --- 
 
