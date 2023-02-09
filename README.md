@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 has a hidden feature that can help you find and delete bloatware](https://www.androidauthority.com/android-14-uninstall-bloatware-3281078/)
- - [Many Twitter users worldwide are reporting issues with the site and say they are not able to tweet, except via an API or by scheduling tweets &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/230208/p44#a230208p44)
- - [The Political Theater Behind the State of the Union Data Privacy Push](https://www.wired.com/story/sotu-privacy-congress-biden/)<!-- TECH:END -->
+ - [The CISA publishes a recovery script for the ESXiArgs ransomware, which affected more than 3,800 organizations in the US, France, Italy, and other countries &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230208/p48#a230208p48)
+ - [How to block emails in Outlook](https://www.androidauthority.com/how-to-block-emails-outlook-3281131/)
+ - [Twitter says its free APIs will work until February 13, when it launches a low-usage plan for $100/month and a limited free plan, and deprecates its Premium API &lpar;@twitterdev&rpar;](http://www.techmeme.com/230208/p47#a230208p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
