@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CISA publishes a recovery script for the ESXiArgs ransomware, which affected more than 3,800 organizations in the US, France, Italy, and other countries &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230208/p48#a230208p48)
- - [How to block emails in Outlook](https://www.androidauthority.com/how-to-block-emails-outlook-3281131/)
- - [Twitter says its free APIs will work until February 13, when it launches a low-usage plan for $100/month and a limited free plan, and deprecates its Premium API &lpar;@twitterdev&rpar;](http://www.techmeme.com/230208/p47#a230208p47)<!-- TECH:END -->
+ - [How to unfreeze your Venmo account](https://www.androidauthority.com/unfreeze-venmo-account-3280440/)
+ - [An interview with Satya Nadella on Microsoft&#39;s partnership with OpenAI, using AI in a search engine, the competition with Google, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230208/p49#a230208p49)
+ - [Twitter&#39;s Upcoming Change Could Impact Your Favorite Bot     - CNET](https://www.cnet.com/news/social-media/twitters-upcoming-change-could-impact-your-favorite-bot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
