@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 📱 Android 14’s first preview has landed](https://www.androidauthority.com/daily-authority-february-9-2023-3280682/)
  - [How to add money to your Venmo account](https://www.androidauthority.com/add-money-venmo-3280589/)
- - [Your Tech Stuff Is Getting Slightly More Repairable](https://www.wired.com/story/us-pirg-repairability-scorecard-2023/)
- - [10 excellent cases for your brand new OnePlus 11](https://www.androidauthority.com/best-oneplus-11-cases-3280685/)<!-- TECH:END -->
+ - [Your Tech Stuff Is Getting Slightly More Repairable](https://www.wired.com/story/us-pirg-repairability-scorecard-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
