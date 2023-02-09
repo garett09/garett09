@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mini Metroidvania Ascent captures the joy of the genre in 30 minutes](https://www.polygon.com/23587848/ascent-metroidvania-freeware-pico-8-indie)
- - [Don’t Sleep On Keke Palmer’s Amazing Twitch Streams](https://kotaku.com/keke-palmer-twitch-streamer-sims-4-tekken-7-nope-1850094181)
- - [Atomic Heart detailed system requirements revealed](https://www.pcgamer.com/atomic-heart-pc-system-requirements)<!-- GAME:END -->
+ - [Looks Like The Witcher 3 ‘Next-Gen’ Update Added Realistic Vaginas, Too](https://kotaku.com/witcher-3-next-gen-update-vagina-model-crone-ps5-xbox-1850094573)
+ - [Is found-footage horror a dead genre?](https://www.polygon.com/23591677/found-footage-horror-dead-replaced-screenlife-immersive)
+ - [Calling all Pilots: SD Gundam Battle Alliance comes to Xbox Game Pass!](https://news.xbox.com/en-us/2023/02/09/sd-gundam-battle-alliance-comes-to-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
