@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
- - 🚯 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 🚯 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
  - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)<!-- MEMES:END -->
 
 --- 
