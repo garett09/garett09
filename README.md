@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are you eating?](http://9gag.com/gag/aME4RRX)
- - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
+ - 🚖 [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
+ - 🚯 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
 
 --- 
 
