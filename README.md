@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Game Boy and GBA game now on Nintendo Switch](https://www.polygon.com/23591771/nintendo-switch-online-game-boy-gba-games-list)
- - [All the biggest announcements from today’s Nintendo Direct](https://www.polygon.com/23590977/nintendo-direct-february-2023-everything-announced)
- - [Zelda: Tears Of The Kingdom Is Nintendo&#39;s First $70 Game](https://kotaku.com/zelda-tears-kingdom-70-switch-price-increase-eshop-1850086003)<!-- GAME:END -->
+ - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)
+ - [Nintendo confirms Zelda: Tears of the Kingdom will cost $69.99](https://www.polygon.com/23591112/nintendo-zelda-tears-of-kingdom-price-hike-cost)
+ - [Samba de Amigo Is Coming Back On The Nintendo Switch](https://kotaku.com/samba-de-amigo-nintendo-switch-sega-dreamcast-new-drop-1850091541)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
