@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
- - 🚯 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
- - 🚯 [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)<!-- MEMES:END -->
+ - 🚖 [Writing about themselves...](http://9gag.com/gag/avQA3Z5)
+ - 🚯 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 🚯 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)<!-- MEMES:END -->
 
 --- 
 
