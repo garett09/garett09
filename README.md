@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to give the Game Boy and GBA games a retro look on Nintendo Switch](https://www.polygon.com/guides/23593050/game-boy-advance-nintendo-switch-online-filter-classic-feel)
- - [The original Mickey Mouse was an actual mouse](https://www.polygon.com/century-of-disney/23589246/mickey-mouse-origins-creation-who-how-why)
- - [Assassin&#39;s Creed Black Flag, Origins Director Latest To Leave Ubisoft](https://kotaku.com/assassins-creed-black-flag-origins-minecraft-ubisoft-1850095545)<!-- GAME:END -->
+ - [Switch owners are getting more Game Boy Advance games, thank goodness](https://www.polygon.com/23592765/game-boy-advance-gba-nintendo-best-console)
+ - [10 Video Game Kisses We Can’t Forget](https://kotaku.com/best-video-game-kisses-witcher-sonic-kirby-1850095732)
+ - [7 Ways To Save Space On Your PS5’s SSD](https://kotaku.com/ps5-ssd-hard-drive-storage-save-space-upgrade-expand-1850095909)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
