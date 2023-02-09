@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
- - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
+ - 🚖 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
 
 --- 
 
