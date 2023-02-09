@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
  - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
 
 --- 
