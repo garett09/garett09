@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
- - 🚯 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
+ - 🚖 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
+ - 🚯 [Nightmare fuel](http://9gag.com/gag/ajVg24g)
+ - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)<!-- MEMES:END -->
 
 --- 
 
