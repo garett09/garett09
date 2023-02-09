@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Hogwarts Legacy releases in your time zone](https://www.pcgamer.com/hogwarts-legacy-release-times-unlock)
- - [Inject Dead Cells&#39; Castlevania DLC straight into my veins please](https://www.pcgamer.com/inject-dead-cells-castlevania-dlc-straight-into-my-veins-please)
- - [Tech companies say the metaverse is coming, but PC gamers know it’s already been here for years](https://www.pcgamer.com/tech-companies-say-the-metaverse-is-coming-but-pc-gamers-know-its-already-been-here-for-years)<!-- GAME:END -->
+ - [Silicon wafers are getting cheaper but CPUs and GPUs may not follow](https://www.pcgamer.com/silicon-wafers-are-getting-cheaper-but-cpus-and-gpus-may-not-follow)
+ - [You’s secret to rooting for a bad guy: Surround him with worse people](https://www.polygon.com/reviews/23591818/you-season-4-part-1-netflix-review)
+ - [Google&#39;s new AI didn&#39;t do a racism but its public screw up still knocked $100B off the books](https://www.pcgamer.com/googles-new-ai-didnt-do-a-racism-but-its-public-screw-up-still-knocked-dollar100b-off-the-books)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
