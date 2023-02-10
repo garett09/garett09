@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [16 Years After Release, Team Fortress 2 Is Getting A Major Update](https://kotaku.com/tf2-team-fortress-2-update-new-content-summer-pc-valve-1850096628)
  - [TF2 is getting an &#39;update-sized update&#39; this summer, but the community has to make it themselves](https://www.pcgamer.com/tf2-is-getting-an-update-sized-update-this-summer-but-the-community-has-to-make-it-themselves)
- - [Sony Accuses Microsoft Of &#39;Harassment&#39; In Court Battle](https://kotaku.com/microsoft-sony-ftc-activision-court-battle-legal-xbox-1850096915)
- - [Kirby’s new Switch remaster has the chaos of a Smash Bros. match with 4 players](https://www.polygon.com/23593171/kirby-return-to-dream-land-deluxe-nintendo-switch)<!-- GAME:END -->
+ - [Sony Accuses Microsoft Of &#39;Harassment&#39; In Court Battle](https://kotaku.com/microsoft-sony-ftc-activision-court-battle-legal-xbox-1850096915)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
