@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: bankrupt crypto lender Celsius wants to raise $14.4M by selling coupons and credits it got from mining company Bitmain &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230210/p12#a230210p12)
- - [Helix Presidents Day Mattress Sale Offers 25% Off Sitewide Plus Two Free Pillows     - CNET](https://www.cnet.com/deals/helix-25-off-presidents-day-mattress-sale/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/these-are-the-absolute-best-netflix-fantasy-movies-to-check-out-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jason Momoa has family feelings in the trailer for Fast X](https://www.theverge.com/23594357/fast-x-trailer-jason-momoa-rita-moreno)
+ - [Arcane Is a Work of Art](https://www.wired.com/2023/02/geeks-guide-netflix-arcane/)
+ - [&#39;Shrinking&#39; comedy breaks top ten, says streaming aggregator](https://appleinsider.com/articles/23/02/10/shrinking-comedy-breaks-top-ten-says-streaming-aggregator?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
