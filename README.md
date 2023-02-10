@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Division 2 update broke things so bad the game can&#39;t be updated again until they fix the system for delivering updates](https://www.pcgamer.com/a-division-2-update-broke-things-so-bad-the-game-cant-be-updated-again-until-they-fix-the-system-for-delivering-updates)
- - [Final Fantasy 14 suspends automatic housing demolition following the Turkey-Syria earthquake](https://www.pcgamer.com/final-fantasy-14-suspends-automatic-housing-demolition-following-the-turkey-syria-earthquake)
- - [When and how to watch Rihanna’s Super Bowl halftime show](https://www.polygon.com/23592813/super-bowl-halftime-show-rihanna-how-watch-full-video)<!-- GAME:END -->
+ - [Razer Blade 16](https://www.pcgamer.com/razer-blade-16-review-rtx-4090-mobile-performance)
+ - [PlayStation VR2 unboxing](https://blog.playstation.com/2023/02/10/playstation-vr2-unboxing/)
+ - [PlayStation VR2 unboxing](https://blog.playstation.com/2023/02/10/playstation-vr2-unboxing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
