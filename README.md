@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everybody that say different, belongs in jail at least....](http://9gag.com/gag/avQQ05n)
- - 🚯 [I&#39;m in this picture and I don&#39;t like it](http://9gag.com/gag/a7qqKpb)
- - 🚯 [The legend is back.. oh the back !!](http://9gag.com/gag/anzzXvn)<!-- MEMES:END -->
+ - 🚖 [I&#39;m in this picture and I don&#39;t like it](http://9gag.com/gag/a7qqKpb)
+ - 🚯 [The legend is back.. oh the back !!](http://9gag.com/gag/anzzXvn)
+ - 🚯 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)<!-- MEMES:END -->
 
 --- 
 
