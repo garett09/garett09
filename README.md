@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Momoa has family feelings in the trailer for Fast X](https://www.theverge.com/23594357/fast-x-trailer-jason-momoa-rita-moreno)
- - [Arcane Is a Work of Art](https://www.wired.com/2023/02/geeks-guide-netflix-arcane/)
- - [&#39;Shrinking&#39; comedy breaks top ten, says streaming aggregator](https://appleinsider.com/articles/23/02/10/shrinking-comedy-breaks-top-ten-says-streaming-aggregator?utm_medium=rss)<!-- TECH:END -->
+ - [Yoko Taro’s new game is about Sega running the world](https://www.theverge.com/2023/2/10/23594337/yoko-taro-404-game-reset-sega)
+ - [Analysis: Apple&#39;s 2020-2022 revenue per new hire was $2.51M, up from $1.17M during 2017-2019, and higher than Meta&#39;s $0.79M, Microsoft&#39;s $1.06M, and other peers &lpar;Saksha Menezes/Bloomberg&rpar;](http://www.techmeme.com/230210/p14#a230210p14)
+ - [Apple sure has a lot of patents about adding a camera to the Apple Watch](https://www.theverge.com/2023/2/10/23594122/apple-watch-camera-wearable-patent)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
