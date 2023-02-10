@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Says New Games Are Still ‘Under Development’ For 7-Year-Old Switch](https://kotaku.com/nintendo-switch-2-pro-metroid-prime-4-zelda-mario-1850098941)
- - [Philips Evnia 34M2C7600MV](https://www.pcgamer.com/philips-evnia-34m2c7600mv-review)
- - [PlayStation Store: January 2023’s top downloads](https://blog.playstation.com/2023/02/10/playstation-store-january-2023s-top-downloads/)<!-- GAME:END -->
+ - [The Legend of Vox Machina is filling a huge gap in the animation world](https://www.polygon.com/23590859/legend-vox-machina-adult-animation-fantasy)
+ - [Share of the Week – Season: A letter to the future](https://blog.playstation.com/2023/02/10/share-of-the-week-season-a-letter-to-the-future/)
+ - [Share of the Week – Season: A letter to the future](https://blog.playstation.com/2023/02/10/share-of-the-week-season-a-letter-to-the-future/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
