@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Vox Machina is filling a huge gap in the animation world](https://www.polygon.com/23590859/legend-vox-machina-adult-animation-fantasy)
- - [Share of the Week – Season: A letter to the future](https://blog.playstation.com/2023/02/10/share-of-the-week-season-a-letter-to-the-future/)
- - [Share of the Week – Season: A letter to the future](https://blog.playstation.com/2023/02/10/share-of-the-week-season-a-letter-to-the-future/)<!-- GAME:END -->
+ - [Dead Space&#39;s ‘Stomp Stuff’ Button Is Top Tier](https://kotaku.com/dead-space-1-remake-remaster-stomp-button-ea-1850099539)
+ - [Hi-Fi Rush, which was helmed by The Evil Within 2&#39;s director, sure seems to be teasing The Evil Within 3](https://www.pcgamer.com/hi-fi-rush-which-was-helmed-by-the-evil-within-2s-director-sure-seems-to-be-teasing-the-evil-within-3)
+ - [Buy Your Valentine These $1,500 Sailor Moon Boots Or You Don&#39;t Love Them](https://kotaku.com/jimmy-choo-sailor-moon-collab-valentines-day-release-1850099690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
