@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Did a pre-order/trade-in deal change your mind about buying a phone?](https://www.androidauthority.com/preorder-trade-in-deal-change-mind-phone-poll-3281798/)
- - [OPPO Find N2 Flip is coming next week, and it’s a global launch](https://www.androidauthority.com/oppo-find-n2-flip-launch-3281460/)
- - [Cloudflare wants to help you set up your own Mastodon server in ‘minutes’](https://www.theverge.com/2023/2/10/23593966/cloudflare-mastodon-server-wildebeest-instance-fediverse)<!-- TECH:END -->
+ - [Meet the Creator of North Korea’s Favorite Crypto Privacy Service](https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/)
+ - [The Generative AI Race Has a Dirty Secret](https://www.wired.com/story/the-generative-ai-search-race-has-a-dirty-secret/)
+ - [Covid Can Boost Your Response to Flu Vaccines—if You’re a Man](https://www.wired.com/story/covid-immunity-sex-differences/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
