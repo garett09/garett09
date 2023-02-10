@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 🚖 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
  - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)<!-- MEMES:END -->
+ - 🚯 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
 
 --- 
 
