@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple avoided Big Tech&#39;s mass layoffs](https://appleinsider.com/articles/23/02/10/how-apple-avoided-big-techs-mass-layoffs?utm_medium=rss)
- - [14 Best Soundbars for Every Budget &lpar;2023&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Researchers: some Reddit usernames and other keywords cause ChatGPT to give bizarre responses, likely due to the web data OpenAI scraped to train its model &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230210/p10#a230210p10)<!-- TECH:END -->
+ - [Filing: bankrupt crypto lender Celsius wants to raise $14.4M by selling coupons and credits it got from mining company Bitmain &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230210/p12#a230210p12)
+ - [Helix Presidents Day Mattress Sale Offers 25% Off Sitewide Plus Two Free Pillows     - CNET](https://www.cnet.com/deals/helix-25-off-presidents-day-mattress-sale/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/these-are-the-absolute-best-netflix-fantasy-movies-to-check-out-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
