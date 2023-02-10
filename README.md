@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
- - 🚯 [K.O !](http://9gag.com/gag/aDYY0vN)
- - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
+ - 🚖 [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)
+ - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)<!-- MEMES:END -->
 
 --- 
 
