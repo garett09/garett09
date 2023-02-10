@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Creator of North Korea’s Favorite Crypto Privacy Service](https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/)
- - [The Generative AI Race Has a Dirty Secret](https://www.wired.com/story/the-generative-ai-search-race-has-a-dirty-secret/)
- - [Covid Can Boost Your Response to Flu Vaccines—if You’re a Man](https://www.wired.com/story/covid-immunity-sex-differences/)<!-- TECH:END -->
+ - [Sources: Microsoft is preparing to share its plans for integrating OpenAI&#39;s language tech and the Prometheus model in Word, Outlook, other Office apps, in March &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230210/p8#a230210p8)
+ - [USB-C on iPhone 15 might still require MFi certified cables](https://appleinsider.com/articles/23/02/10/usb-c-on-iphone-15-might-still-require-mfi-certified-cables?utm_medium=rss)
+ - [Wiz’s SpaceSense Smart Lights Aren’t Worth Making the Switch](https://www.wired.com/story/wiz-spacesense-smart-lights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
