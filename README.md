@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
- - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
+ - 🚖 [Everybody that say different, belongs in jail at least....](http://9gag.com/gag/avQQ05n)
+ - 🚯 [I&#39;m in this picture and I don&#39;t like it](http://9gag.com/gag/a7qqKpb)
+ - 🚯 [The legend is back.. oh the back !!](http://9gag.com/gag/anzzXvn)<!-- MEMES:END -->
 
 --- 
 
