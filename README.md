@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive designed the royal emblem for King Charles&#39; coronation](https://appleinsider.com/articles/23/02/10/jony-ive-designed-the-royal-emblem-for-king-charles-coronation?utm_medium=rss)
  - [Twitter is running ads next to tweets from Holocaust deniers](https://www.theverge.com/2023/2/10/23594756/twitter-ads-toxic-content-holocaust-deniers-media-matters-report-study)
- - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)
- - [Apple: No apps circumvented user privacy controls](https://appleinsider.com/articles/23/02/10/apple-no-apps-circumvented-user-privacy-controls?utm_medium=rss)<!-- TECH:END -->
+ - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
