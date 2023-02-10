@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Regret asking.](http://9gag.com/gag/a4ooKoQ)
- - 🚯 [He&#39;s a man of focus, commitment and sheer will.](http://9gag.com/gag/az22gGN)
- - 🚯 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)<!-- MEMES:END -->
+ - 🚖 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)
+ - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
 
 --- 
 
