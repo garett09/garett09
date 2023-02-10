@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM signs a long-term deal with GlobalFoundries to establish exclusive production capacity at the chip maker&#39;s New York facility for GM&#39;s key auto suppliers &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/230210/p4#a230210p4)
  - [Sources: Microsoft cuts jobs in its Surface, HoloLens, and Xbox units; heavy cuts to the HoloLens hardware team raise questions about the goggles&#39; third version &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230210/p3#a230210p3)
- - [Samsung Galaxy A34, A54 prices leak: Expect a price hike](https://www.androidauthority.com/samsung-galaxy-a34-a54-prices-3281785/)
- - [San Diego-based Faro Health, whose cloud computing software provides real-time insights for clinical trials, raised a $20M Series A led by General Catalyst &lpar;Fred Pennic/HIT Consultant&rpar;](http://www.techmeme.com/230210/p2#a230210p2)<!-- TECH:END -->
+ - [Samsung Galaxy A34, A54 prices leak: Expect a price hike](https://www.androidauthority.com/samsung-galaxy-a34-a54-prices-3281785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
