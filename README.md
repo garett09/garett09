@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Online Flower Delivery Services &lpar;2023&rpar;: Sustainable and Dried Flowers](https://www.wired.com/story/best-flower-delivery-services/)
- - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)
+ - [How to delete your Uber account](https://www.androidauthority.com/how-to-delete-your-uber-account-3282018/)
+ - [4 Best Online Flower Delivery Services &lpar;2023&rpar;: Sustainable and Dried Flowers](https://www.wired.com/story/best-flower-delivery-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
