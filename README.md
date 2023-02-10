@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - 🚯 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)
- - 🚯 [Dallas stars fans dares an older hockey spectator for an ass whooping. He instead gets his own ass handed back to him](http://9gag.com/gag/aYVVbp7)<!-- MEMES:END -->
+ - 🚖 [Regret asking.](http://9gag.com/gag/a4ooKoQ)
+ - 🚯 [He&#39;s a man of focus, commitment and sheer will.](http://9gag.com/gag/az22gGN)
+ - 🚯 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)<!-- MEMES:END -->
 
 --- 
 
