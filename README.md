@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yoko Taro’s new game is about Sega running the world](https://www.theverge.com/2023/2/10/23594337/yoko-taro-404-game-reset-sega)
- - [Analysis: Apple&#39;s 2020-2022 revenue per new hire was $2.51M, up from $1.17M during 2017-2019, and higher than Meta&#39;s $0.79M, Microsoft&#39;s $1.06M, and other peers &lpar;Saksha Menezes/Bloomberg&rpar;](http://www.techmeme.com/230210/p14#a230210p14)
- - [Apple sure has a lot of patents about adding a camera to the Apple Watch](https://www.theverge.com/2023/2/10/23594122/apple-watch-camera-wearable-patent)<!-- TECH:END -->
+ - [Save up to 50% on Hyper docks, hubs &amp; accessories with Super Bowl coupon](https://appleinsider.com/articles/23/02/10/save-up-to-50-on-hyper-docks-hubs-accessories-with-super-bowl-coupon?utm_medium=rss)
+ - [Here&#39;s what the Apple Glasgow retail store union negotiated for itself](https://appleinsider.com/articles/23/02/10/heres-what-the-apple-glasgow-retail-store-union-negotiated-for-itself?utm_medium=rss)
+ - [Boulies Master Series chair review: Built for gaming, ideal for productivity](https://appleinsider.com/articles/23/02/10/boulies-master-series-chair-review-built-for-gaming-ideal-for-productivity?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
