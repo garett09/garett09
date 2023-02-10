@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
- - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
- - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
+ - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
+ - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)<!-- MEMES:END -->
 
 --- 
 
