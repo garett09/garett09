@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US SDNY jury finds a digital artist violated Herm&amp;egrave;s&#39; rights to the Birkin trademark by creating and selling MetaBirkin NFTs depicting versions of the handbags &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230209/p33#a230209p33)
- - [As ChatGPT and other LLMs repackage info into superficial approximations, like lossy compression for images, the web will become a blurrier version of itself &lpar;Ted Chiang/New Yorker&rpar;](http://www.techmeme.com/230209/p32#a230209p32)
- - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: darknet markets made $1.5B in revenue in 2022, down from $3.1B in 2021, led by Hydra Market, despite being shut down by German police in April 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/230209/p34#a230209p34)
+ - [Apple TV owners can accept iCloud terms without an iPhone or iPad](https://appleinsider.com/articles/23/02/10/apple-tv-owners-can-accept-icloud-terms-without-an-iphone-or-ipad?utm_medium=rss)
+ - [A US jury finds an artist violated Herm&amp;egrave;s&#39; rights to the Birkin trademark in 2021 by creating and selling MetaBirkin 100 NFTs depicting versions of the handbags &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230209/p33#a230209p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
