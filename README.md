@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is preparing to share its plans for integrating OpenAI&#39;s language tech and the Prometheus model in Word, Outlook, other Office apps, in March &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230210/p8#a230210p8)
- - [USB-C on iPhone 15 might still require MFi certified cables](https://appleinsider.com/articles/23/02/10/usb-c-on-iphone-15-might-still-require-mfi-certified-cables?utm_medium=rss)
- - [Wiz’s SpaceSense Smart Lights Aren’t Worth Making the Switch](https://www.wired.com/story/wiz-spacesense-smart-lights/)<!-- TECH:END -->
+ - [12 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Def Jam Just Signed a Bunch of NFT Whales](https://www.wired.com/story/def-jam-signs-nft-whales/)
+ - [Down the Chatbot Rabbit Hole](https://www.wired.com/story/plaintext-down-the-chatbot-rabbit-hole/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
