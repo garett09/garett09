@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&#39;oops&#39;](http://9gag.com/gag/aoKK08e)
- - 🚯 [German habits](http://9gag.com/gag/a8qqY4O)
- - 🚯 [Our battle will be legendary..Siff probably](http://9gag.com/gag/a044PDQ)<!-- MEMES:END -->
+ - 🚖 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
+ - 🚯 [K.O !](http://9gag.com/gag/aDYY0vN)
+ - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
 
 --- 
 
