@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Super Bowl for free](https://www.polygon.com/deals/2023/2/10/23594155/super-bowl-stream-free-trial-subscriptions-how-to)
- - [Remedy plans to release a new game each year from now on](https://www.pcgamer.com/remedy-plans-to-release-a-new-game-each-year-from-now-on)
- - [Reddit gets hacked after employee falls victim to phishing attack](https://www.pcgamer.com/reddit-gets-hacked-after-employee-falls-victim-to-phishing-attack)<!-- GAME:END -->
+ - [Only Some Switch Games Will Be $70, Nintendo Says](https://kotaku.com/nintendo-switch-zelda-tears-kingdom-price-metroid-prime-1850101021)
+ - [This Week on Xbox: Fantasy, Football, Updates, and Events](https://news.xbox.com/en-us/2023/02/10/this-week-on-xbox-fantasy-football-updates-and-events/)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
