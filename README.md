@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the economics of Microsoft and Google inserting LLMs into search, crushing profitability and requiring massive capex, and the impact on the companies &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230209/p35#a230209p35)
  - [How to completely delete your Venmo account](https://www.androidauthority.com/delete-venmo-account-3281762/)
- - [Valentine&#39;s Day gift idea: get $200 in Restaurant.com gift cards for $20](https://appleinsider.com/articles/23/02/10/valentines-day-gift-idea-get-200-in-restaurantcom-gift-cards-for-20?utm_medium=rss)
- - [Analysis: darknet markets made $1.5B in revenue in 2022, down from $3.1B in 2021, led by Hydra Market, despite being shut down by German police in April 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/230209/p34#a230209p34)<!-- TECH:END -->
+ - [Valentine&#39;s Day gift idea: get $200 in Restaurant.com gift cards for $20](https://appleinsider.com/articles/23/02/10/valentines-day-gift-idea-get-200-in-restaurantcom-gift-cards-for-20?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
