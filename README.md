@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Donald Glover’s Swarm trailer puts a bloody spin on celeb obsession](https://www.polygon.com/23594113/swarm-trailer-donald-glover-release)
- - [12 movies for Harry Potter fans who don’t want to watch Harry Potter](https://www.polygon.com/what-to-watch/23591129/best-movies-like-harry-potter-fantasy-hogwarts-legacy)
- - [Next Week on Xbox: New Games for February 13 to 17](https://news.xbox.com/en-us/2023/02/10/next-week-on-xbox-new-games-for-february-13-to-17/)<!-- GAME:END -->
+ - [Nintendo Says New Games Are Still ‘Under Development’ For 7-Year-Old Switch](https://kotaku.com/nintendo-switch-2-pro-metroid-prime-4-zelda-mario-1850098941)
+ - [Philips Evnia 34M2C7600MV](https://www.pcgamer.com/philips-evnia-34m2c7600mv-review)
+ - [PlayStation Store: January 2023’s top downloads](https://blog.playstation.com/2023/02/10/playstation-store-january-2023s-top-downloads/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
