@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
- - 🚯 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/a044vrv)
- - 🚯 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
+ - 🚖 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
+ - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
 
 --- 
 
