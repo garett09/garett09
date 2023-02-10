@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just want to talk to him](http://9gag.com/gag/aREEPBq)
- - 🚯 [&#39;oops&#39;](http://9gag.com/gag/aoKK08e)
- - 🚯 [Never stop horny](http://9gag.com/gag/a6qqyMq)<!-- MEMES:END -->
+ - 🚖 [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 🚯 [Feminists](http://9gag.com/gag/agoov26)
+ - 🚯 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
 
 --- 
 
