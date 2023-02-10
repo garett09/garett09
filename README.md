@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 🚯 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - 🚯 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
+ - 🚖 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
+ - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
+ - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
 
 --- 
 
