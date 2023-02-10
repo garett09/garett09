@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - 🚯 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
- - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)<!-- MEMES:END -->
+ - 🚖 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 🚯 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/a044vrv)
+ - 🚯 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
 
 --- 
 
