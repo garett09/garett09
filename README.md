@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
- - 🚯 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
- - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)<!-- MEMES:END -->
+ - 🚖 [I just want to talk to him](http://9gag.com/gag/aREEPBq)
+ - 🚯 [&#39;oops&#39;](http://9gag.com/gag/aoKK08e)
+ - 🚯 [Never stop horny](http://9gag.com/gag/a6qqyMq)<!-- MEMES:END -->
 
 --- 
 
