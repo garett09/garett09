@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
- - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 🚯 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/a044vrv)<!-- MEMES:END -->
+ - 🚖 [&#39;oops&#39;](http://9gag.com/gag/aoKK08e)
+ - 🚯 [German habits](http://9gag.com/gag/a8qqY4O)
+ - 🚯 [Our battle will be legendary..Siff probably](http://9gag.com/gag/a044PDQ)<!-- MEMES:END -->
 
 --- 
 
