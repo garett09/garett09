@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOT says it is investigating Neuralink over the potentially illegal movement of hazardous pathogens, after an alert from an animal welfare advocacy group &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/230209/p30#a230209p30)
- - [Cloudflare reports Q4 revenue up 42% YoY to $274.7M, vs. $274.1M est., and FY 2023 revenue guidance between $1.33B and $1.34B, vs. $1.31B est.; stock is up 10%+ &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/230209/p29#a230209p29)
- - [My Strange Day With Bing’s New AI Chatbot](https://www.wired.com/story/my-strange-day-with-bings-new-ai-chatbot/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Reddit suffered a cyberattack on February 5, allowing hackers to access some documents, code, and business systems; the company says user passwords are safe &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230209/p31#a230209p31)
+ - [&#39;You&#39; Season 4 Review: Netflix Thriller Is a Mixed Bag     - CNET](https://www.cnet.com/culture/entertainment/you-season-4-review-netflix-thriller-is-a-mixed-bag/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
