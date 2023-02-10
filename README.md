@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Space&#39;s ‘Stomp Stuff’ Button Is Top Tier](https://kotaku.com/dead-space-1-remake-remaster-stomp-button-ea-1850099539)
- - [Hi-Fi Rush, which was helmed by The Evil Within 2&#39;s director, sure seems to be teasing The Evil Within 3](https://www.pcgamer.com/hi-fi-rush-which-was-helmed-by-the-evil-within-2s-director-sure-seems-to-be-teasing-the-evil-within-3)
- - [Buy Your Valentine These $1,500 Sailor Moon Boots Or You Don&#39;t Love Them](https://kotaku.com/jimmy-choo-sailor-moon-collab-valentines-day-release-1850099690)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom amiibo support guide, confirmed rewards &lpar;so far&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/nintendo-switch-amiibo-support-rewards-gliders-totk-botw-2)
+ - [Hogwarts Legacy’s Steam Forums Are A Mess Right Now](https://kotaku.com/hogwarts-legacy-pc-valve-steam-jk-rowling-transphobia-1850100096)
+ - [Yu Yu Hakusho&#39;s Justin Cook On Why The Anime Series Still Resonates 30 Years Later](https://kotaku.com/justin-cook-anime-yu-yu-hakusho-30th-anniversary-1850096416)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
