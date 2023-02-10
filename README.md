@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Blade 16](https://www.pcgamer.com/razer-blade-16-review-rtx-4090-mobile-performance)
- - [PlayStation VR2 unboxing](https://blog.playstation.com/2023/02/10/playstation-vr2-unboxing/)
- - [PlayStation VR2 unboxing](https://blog.playstation.com/2023/02/10/playstation-vr2-unboxing/)<!-- GAME:END -->
+ - [Players’ Choice: Best of PS5](https://blog.playstation.com/2023/02/10/players-choice-best-of-ps5/)
+ - [The Witcher 3&#39;s next-gen update has added detailed vaginas to female monsters, apparently by mistake?](https://www.pcgamer.com/the-witcher-3s-next-gen-update-has-added-detailed-vaginas-to-female-monsters-apparently-by-mistake)
+ - [Razer Blade 16](https://www.pcgamer.com/razer-blade-16-review-rtx-4090-mobile-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
