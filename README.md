@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
  - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
+ - 🚯 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/a044vrv)<!-- MEMES:END -->
 
 --- 
 
