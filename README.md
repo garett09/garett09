@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [Def Jam Just Signed a Bunch of NFT Whales](https://www.wired.com/story/def-jam-signs-nft-whales/)
- - [Down the Chatbot Rabbit Hole](https://www.wired.com/story/plaintext-down-the-chatbot-rabbit-hole/)<!-- TECH:END -->
+ - [How Apple avoided Big Tech&#39;s mass layoffs](https://appleinsider.com/articles/23/02/10/how-apple-avoided-big-techs-mass-layoffs?utm_medium=rss)
+ - [14 Best Soundbars for Every Budget &lpar;2023&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
+ - [Researchers: some Reddit usernames and other keywords cause ChatGPT to give bizarre responses, likely due to the web data OpenAI scraped to train its model &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230210/p10#a230210p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
