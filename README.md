@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Best of PS5](https://blog.playstation.com/2023/02/10/players-choice-best-of-ps5/)
- - [The Witcher 3&#39;s next-gen update has added detailed vaginas to female monsters, apparently by mistake?](https://www.pcgamer.com/the-witcher-3s-next-gen-update-has-added-detailed-vaginas-to-female-monsters-apparently-by-mistake)
- - [Razer Blade 16](https://www.pcgamer.com/razer-blade-16-review-rtx-4090-mobile-performance)<!-- GAME:END -->
+ - [Donald Glover’s Swarm trailer puts a bloody spin on celeb obsession](https://www.polygon.com/23594113/swarm-trailer-donald-glover-release)
+ - [12 movies for Harry Potter fans who don’t want to watch Harry Potter](https://www.polygon.com/what-to-watch/23591129/best-movies-like-harry-potter-fantasy-hogwarts-legacy)
+ - [Next Week on Xbox: New Games for February 13 to 17](https://news.xbox.com/en-us/2023/02/10/next-week-on-xbox-new-games-for-february-13-to-17/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
