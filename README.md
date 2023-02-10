@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 50% on Hyper docks, hubs &amp; accessories with Super Bowl coupon](https://appleinsider.com/articles/23/02/10/save-up-to-50-on-hyper-docks-hubs-accessories-with-super-bowl-coupon?utm_medium=rss)
- - [Here&#39;s what the Apple Glasgow retail store union negotiated for itself](https://appleinsider.com/articles/23/02/10/heres-what-the-apple-glasgow-retail-store-union-negotiated-for-itself?utm_medium=rss)
- - [Boulies Master Series chair review: Built for gaming, ideal for productivity](https://appleinsider.com/articles/23/02/10/boulies-master-series-chair-review-built-for-gaming-ideal-for-productivity?utm_medium=rss)<!-- TECH:END -->
+ - [4 Best Online Flower Delivery Services &lpar;2023&rpar;: Sustainable and Dried Flowers](https://www.wired.com/story/best-flower-delivery-services/)
+ - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
