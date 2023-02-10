@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m in this picture and I don&#39;t like it](http://9gag.com/gag/a7qqKpb)
- - 🚯 [The legend is back.. oh the back !!](http://9gag.com/gag/anzzXvn)
- - 🚯 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)<!-- MEMES:END -->
+ - 🚖 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)
+ - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
 
 --- 
 
