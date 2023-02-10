@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warren Beatty’s Dick Tracy returns in a sequel to one of the weirdest things I’ve ever seen](https://www.polygon.com/23594837/dick-tracy-warren-beatty-zoom-tcm-special-2023)
- - [Hollow Knight: Silksong playtester encourages patience, says it&#39;s a &#39;glorious game worth the wait&#39;](https://www.pcgamer.com/hollow-knight-silksong-playtester-encourages-patience-says-its-a-glorious-game-worth-the-wait)
- - [The Best &lpar;And Worst&rpar; Super Bowl Video Game Ads](https://kotaku.com/video-game-super-bowl-ad-god-of-war-pokemon-xbox-switch-1850101152)<!-- GAME:END -->
+ - [Do you love Psychonauts 2? Here’s a 32-part documentary about it](https://www.polygon.com/23595018/psychonauts-2-double-fine-psychodyssey-documentary)
+ - [Everything to know about The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/23594712/zelda-tears-kingdom-release-date-trailers-gameplay-story-botw-2)
+ - [Activision Blizzard CEO Bobby Kotick says Sony is &#39;not returning our calls&#39;](https://www.pcgamer.com/activision-blizzard-ceo-bobby-kotick-says-sony-is-not-returning-our-calls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
