@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deserved it](http://9gag.com/gag/awZZbY4)
- - 🚯 [Did he break his legs?](http://9gag.com/gag/avQQZ2X)
- - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)<!-- MEMES:END -->
+ - 🚖 [Did he break his legs?](http://9gag.com/gag/avQQZ2X)
+ - 🚯 [Such determination](http://9gag.com/gag/anzzYdo)
+ - 🚯 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
 
 --- 
 
