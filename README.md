@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)
- - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
- - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
+ - 🚖 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
 
 --- 
 
