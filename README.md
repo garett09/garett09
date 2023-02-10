@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
- - 🚯 [What are you eating?](http://9gag.com/gag/aME4RRX)
- - 🚯 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
+ - 🚖 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
+ - 🚯 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
+ - 🚯 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)<!-- MEMES:END -->
 
 --- 
 
