@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
- - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - 🚯 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
+ - 🚖 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)
+ - 🚯 [Those bastards lied to me](http://9gag.com/gag/aXnn0dg)
+ - 🚯 [Growing up with this guy makes it even harder to watch](http://9gag.com/gag/anzzq3b)<!-- MEMES:END -->
 
 --- 
 
