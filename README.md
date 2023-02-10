@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)
- - [How to delete your Uber account](https://www.androidauthority.com/how-to-delete-your-uber-account-3282018/)
- - [4 Best Online Flower Delivery Services &lpar;2023&rpar;: Sustainable and Dried Flowers](https://www.wired.com/story/best-flower-delivery-services/)<!-- TECH:END -->
+ - [Twitter is running ads next to tweets from Holocaust deniers](https://www.theverge.com/2023/2/10/23594756/twitter-ads-toxic-content-holocaust-deniers-media-matters-report-study)
+ - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)
+ - [Apple: No apps circumvented user privacy controls](https://appleinsider.com/articles/23/02/10/apple-no-apps-circumvented-user-privacy-controls?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
