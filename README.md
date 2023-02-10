@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Only Some Switch Games Will Be $70, Nintendo Says](https://kotaku.com/nintendo-switch-zelda-tears-kingdom-price-metroid-prime-1850101021)
- - [This Week on Xbox: Fantasy, Football, Updates, and Events](https://news.xbox.com/en-us/2023/02/10/this-week-on-xbox-fantasy-football-updates-and-events/)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Warren Beatty’s Dick Tracy returns in a sequel to one of the weirdest things I’ve ever seen](https://www.polygon.com/23594837/dick-tracy-warren-beatty-zoom-tcm-special-2023)
+ - [Hollow Knight: Silksong playtester encourages patience, says it&#39;s a &#39;glorious game worth the wait&#39;](https://www.pcgamer.com/hollow-knight-silksong-playtester-encourages-patience-says-its-a-glorious-game-worth-the-wait)
+ - [The Best &lpar;And Worst&rpar; Super Bowl Video Game Ads](https://kotaku.com/video-game-super-bowl-ad-god-of-war-pokemon-xbox-switch-1850101152)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
