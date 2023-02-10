@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #601: Friday, February 10](https://www.pcgamer.com/wordle-hint-answer-today-601-february-10)
- - [16 Years After Release, Team Fortress 2 Is Getting A Major Update](https://kotaku.com/tf2-team-fortress-2-update-new-content-summer-pc-valve-1850096628)
- - [TF2 is getting an &#39;update-sized update&#39; this summer, but the community has to make it themselves](https://www.pcgamer.com/tf2-is-getting-an-update-sized-update-this-summer-but-the-community-has-to-make-it-themselves)<!-- GAME:END -->
+ - [A Division 2 update broke things so bad the game can&#39;t be updated again until they fix the system for delivering updates](https://www.pcgamer.com/a-division-2-update-broke-things-so-bad-the-game-cant-be-updated-again-until-they-fix-the-system-for-delivering-updates)
+ - [Final Fantasy 14 suspends automatic housing demolition following the Turkey-Syria earthquake](https://www.pcgamer.com/final-fantasy-14-suspends-automatic-housing-demolition-following-the-turkey-syria-earthquake)
+ - [When and how to watch Rihanna’s Super Bowl halftime show](https://www.polygon.com/23592813/super-bowl-halftime-show-rihanna-how-watch-full-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
