@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Mercury Research: x86 CPU shipments from Intel, AMD, and others fell 34% YoY and 19% QoQ in Q4, the biggest drops in 30 years; 374M units were shipped in 2022 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230211/p1#a230211p1)
- - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 5 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-5-hit-hbo-max/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Episode 5 Recap: A Tale of Two Brothers     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-a-tale-of-two-brothers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Winter Love Island 2023: Stream Season 9 Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-winter-love-island-2023-from-anywhere/#ftag=CAD590a51e)
+ - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
