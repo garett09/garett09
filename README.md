@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
- - 🚯 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)
- - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)<!-- MEMES:END -->
+ - 🚖 [A true friendship](http://9gag.com/gag/anzzNpn)
+ - 🚯 [Drawing Cartoon Portrait in Disney Style](http://9gag.com/gag/aGEEwG7)
+ - 🚯 [Argh!](http://9gag.com/gag/avQQg3Z)<!-- MEMES:END -->
 
 --- 
 
