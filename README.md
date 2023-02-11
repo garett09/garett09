@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the newly launched Bitcoin mixer Sinbad.io, which appears to have become the preferred outlet for North Korean hackers to launder stolen crypto &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230211/p4#a230211p4)
- - [The 5 Best Cat Toys for Your Beloved Pet     - CNET](https://www.cnet.com/news/best-cat-toys/#ftag=CAD590a51e)
- - [An overview of macro tech trends, with a focus on the e-commerce slowdown, Amazon, layoffs, advertising, and generative AI opportunities beyond text and images &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230211/p3#a230211p3)<!-- TECH:END -->
+ - [The Weekly Authority: 👀 Android 14 preview lands, Bard AI fail](https://www.androidauthority.com/the-weekly-authority-february-11-2023-231-3281432/)
+ - [Where to Stream the Super Bowl LVII &lpar;2023&rpar;: Puppy Bowl and Great American Rescue Bowl](https://www.wired.com/story/how-to-watch-stream-super-bowl-puppy-bowl-2023/)
+ - [News Publishers Are Wary of the Microsoft Bing Chatbot’s Media Diet](https://www.wired.com/story/news-publishers-are-wary-of-the-microsoft-bing-chatbots-media-diet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
