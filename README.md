@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feminists](http://9gag.com/gag/agoov26)
- - 🚯 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
- - 🚯 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
+ - 🚖 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
+ - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)
+ - 🚯 [`they are offended on her behalf`](http://9gag.com/gag/a0449zq)<!-- MEMES:END -->
 
 --- 
 
