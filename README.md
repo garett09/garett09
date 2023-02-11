@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A true friendship](http://9gag.com/gag/anzzNpn)
- - 🚯 [Drawing Cartoon Portrait in Disney Style](http://9gag.com/gag/aGEEwG7)
- - 🚯 [Argh!](http://9gag.com/gag/avQQg3Z)<!-- MEMES:END -->
+ - 🚖 [New tire in Africa](http://9gag.com/gag/a6qqLXb)
+ - 🚯 [Ever see ^ on a bank note before?](http://9gag.com/gag/aQEEx98)
+ - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)<!-- MEMES:END -->
 
 --- 
 
