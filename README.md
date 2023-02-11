@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
- - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)
- - 🚯 [Earthquake looters](http://9gag.com/gag/aMEE1pM)<!-- MEMES:END -->
+ - 🚖 [Just a prank bro](http://9gag.com/gag/a6qqQqN)
+ - 🚯 [Such determination](http://9gag.com/gag/anzzYdo)
+ - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
 
 --- 
 
