@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/11/23587539/best-thriller-movies-netflix-watch-february-2023)
- - [Wordle hint and answer #602: Saturday, February 11](https://www.pcgamer.com/wordle-hint-answer-today-602-february-11)
- - [HBO’s The Last Of Us Show Just Nailed One Of The Game’s Best Moments](https://kotaku.com/the-last-of-us-hbo-episode-5-sniper-henry-kathleen-s1e5-1850102084)<!-- GAME:END -->
+ - [The making of Vox Machina’s Umbrasyl fight, from Critical Role arc to epic animated finale](https://www.polygon.com/23592049/critical-role-legend-vox-machina-season-2-ending-umbrasyl-oral-history)
+ - [Counter-Strike: Global Offensive smashes all-time player record 11 years after release like the boss it is](https://www.pcgamer.com/counter-strike-global-offensive-smashes-all-time-player-record-11-years-after-release-like-the-boss-it-is)
+ - [The 5 best thrillers to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/11/23587539/best-thriller-movies-netflix-watch-february-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
