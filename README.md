@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Screeching like a clicker with The Last of Us voice actor Misty Lee](https://www.polygon.com/23589765/last-us-misty-lee-clicker-interview-hbo)
  - [The making of Vox Machina’s Umbrasyl fight, from Critical Role arc to epic animated finale](https://www.polygon.com/23592049/critical-role-legend-vox-machina-season-2-ending-umbrasyl-oral-history)
- - [Counter-Strike: Global Offensive smashes all-time player record 11 years after release like the boss it is](https://www.pcgamer.com/counter-strike-global-offensive-smashes-all-time-player-record-11-years-after-release-like-the-boss-it-is)
- - [The 5 best thrillers to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/11/23587539/best-thriller-movies-netflix-watch-february-2023)<!-- GAME:END -->
+ - [Counter-Strike: Global Offensive smashes all-time player record 11 years after release like the boss it is](https://www.pcgamer.com/counter-strike-global-offensive-smashes-all-time-player-record-11-years-after-release-like-the-boss-it-is)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
