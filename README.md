@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive designed the royal emblem for King Charles&#39; coronation](https://appleinsider.com/articles/23/02/10/jony-ive-designed-the-royal-emblem-for-king-charles-coronation?utm_medium=rss)
- - [Twitter is running ads next to tweets from Holocaust deniers](https://www.theverge.com/2023/2/10/23594756/twitter-ads-toxic-content-holocaust-deniers-media-matters-report-study)
- - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra review: powerful 200MP camera, awesome display, excellent battery life, and fast processor, but expensive and no charging speed upgrade &lpar;Mark Spoonauer/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230210/p19#a230210p19)
+ - [My 13-Year-Old LeBron &#39;Overrated&#39; Tweet Has Returned to Haunt Me     - CNET](https://www.cnet.com/news/social-media/my-13-year-old-lebron-overrated-tweet-has-returned-to-haunt-me/#ftag=CAD590a51e)
+ - [Jony Ive’s latest design is the emblem for King Charles’ coronation](https://www.theverge.com/2023/2/10/23595028/jony-ive-lovefrom-king-charles-iii-coronation-emblem)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
