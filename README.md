@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta has delayed finalizing multiple teams&#39; budgets while it prepares a fresh round of job cuts, slowing down projects even in priority areas &lpar;Financial Times&rpar;](http://www.techmeme.com/230211/p6#a230211p6)
- - [Samsung Galaxy Z Fold 4 revisited: The good and the bad, six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-4-review-revisited-3275483/)
- - [18 Best Bluetooth Speakers &lpar;2023&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-471-3282209/)
+ - [Apple works with UKESF to get more girls into electronics](https://appleinsider.com/articles/23/02/11/apple-works-with-ukesf-to-get-more-girls-into-electronics?utm_medium=rss)
+ - [Multitask With Ease: This Adjustable Stand for Your Device Is Just $7     - CNET](https://www.cnet.com/deals/multitask-with-ease-this-adjustable-stand-for-your-device-is-just-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
