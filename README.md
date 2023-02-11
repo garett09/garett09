@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read these comics while you wait for the DCU’s new TV shows and movies](https://www.polygon.com/deals/23584372/dc-comics-universe-tv-movies-collection)
- - [How to make a rhythm game for people who have no rhythm](https://www.polygon.com/gaming/23594230/hi-fi-rush-interview-rhythm-game-development)
- - [Starfield fans already have some very convincing theories on how its main quest begins](https://www.pcgamer.com/starfield-fans-already-have-some-very-convincing-theories-on-how-its-main-quest-begins)<!-- GAME:END -->
+ - [Guns and spells clash in real-time cooperative RPG Dark Envoy](https://www.pcgamer.com/guns-and-spells-clash-in-real-time-cooperative-rpg-dark-envoy)
+ - [20 years on, this mod adds new lightsabers, character models, and quality of life fixes to one  of the best Star Wars games](https://www.pcgamer.com/20-years-on-this-mod-adds-new-lightsabers-character-models-and-quality-of-life-fixes-to-one-of-the-best-star-wars-games)
+ - [Read these comics while you wait for the DCU’s new TV shows and movies](https://www.polygon.com/deals/23584372/dc-comics-universe-tv-movies-collection)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
