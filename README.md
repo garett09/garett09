@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 👀 Android 14 preview lands, Bard AI fail](https://www.androidauthority.com/the-weekly-authority-february-11-2023-231-3281432/)
- - [Where to Stream the Super Bowl LVII &lpar;2023&rpar;: Puppy Bowl and Great American Rescue Bowl](https://www.wired.com/story/how-to-watch-stream-super-bowl-puppy-bowl-2023/)
- - [News Publishers Are Wary of the Microsoft Bing Chatbot’s Media Diet](https://www.wired.com/story/news-publishers-are-wary-of-the-microsoft-bing-chatbots-media-diet/)<!-- TECH:END -->
+ - [Daily deals Feb. 11; $310 off 14-inch M1 MacBook Pro, $51 off Sony Wireless Headphones, 43% off inBloom Hydroponics, more](https://appleinsider.com/articles/23/02/11/daily-deals-feb-11-310-off-14-inch-m1-macbook-pro-51-off-sony-wireless-headphones-43-off-inbloom-hydroponics-more?utm_medium=rss)
+ - [Samsung Galaxy S23 Ultra’s 45W fast charging is actually fast this time](https://www.androidauthority.com/samsung-galaxy-s23-ultra-charging-speed-45w-3280776/)
+ - [Wanted: Dead Birds and Bats, Felled by Renewables](https://www.wired.com/story/wanted-dead-birds-and-bats-felled-by-renewables/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
