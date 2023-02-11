@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&#39;oops&#39;](http://9gag.com/gag/aoKK08e)
- - 🚯 [Bros](http://9gag.com/gag/a6qqLKq)
- - 🚯 [Drawing Cartoon Portrait in Disney Style](http://9gag.com/gag/aGEEwG7)<!-- MEMES:END -->
+ - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
+ - 🚯 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
+ - 🚯 [K.O !](http://9gag.com/gag/aDYY0vN)<!-- MEMES:END -->
 
 --- 
 
