@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 🚯 [Feminists](http://9gag.com/gag/agoov26)
- - 🚯 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
+ - 🚖 [&#39;oops&#39;](http://9gag.com/gag/aoKK08e)
+ - 🚯 [Bros](http://9gag.com/gag/a6qqLKq)
+ - 🚯 [Drawing Cartoon Portrait in Disney Style](http://9gag.com/gag/aGEEwG7)<!-- MEMES:END -->
 
 --- 
 
