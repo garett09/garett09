@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 11; $310 off 14-inch M1 MacBook Pro, $51 off Sony Wireless Headphones, 43% off inBloom Hydroponics, more](https://appleinsider.com/articles/23/02/11/daily-deals-feb-11-310-off-14-inch-m1-macbook-pro-51-off-sony-wireless-headphones-43-off-inbloom-hydroponics-more?utm_medium=rss)
- - [Samsung Galaxy S23 Ultra’s 45W fast charging is actually fast this time](https://www.androidauthority.com/samsung-galaxy-s23-ultra-charging-speed-45w-3280776/)
- - [Wanted: Dead Birds and Bats, Felled by Renewables](https://www.wired.com/story/wanted-dead-birds-and-bats-felled-by-renewables/)<!-- TECH:END -->
+ - [Deals: Become an AI master with these amazing ChatGPT offers](https://www.androidauthority.com/chatgpt-deals-3281992/)
+ - [OnePlus Pad Android Tablet: Details, Specs, Release Date](https://www.wired.com/story/oneplus-pad-android-tablet/)
+ - [iRobot Roomba Combo j7+ Review: Beautiful Vacuum, but Directionless](https://www.wired.com/review/irobot-roomba-combo-j7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
