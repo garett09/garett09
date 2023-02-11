@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Read these comics while you wait for the DCU’s new TV shows and movies](https://www.polygon.com/deals/23584372/dc-comics-universe-tv-movies-collection)
  - [How to make a rhythm game for people who have no rhythm](https://www.polygon.com/gaming/23594230/hi-fi-rush-interview-rhythm-game-development)
- - [Starfield fans already have some very convincing theories on how its main quest begins](https://www.pcgamer.com/starfield-fans-already-have-some-very-convincing-theories-on-how-its-main-quest-begins)
- - [Nintendo just reissued one of the most important games of all time](https://www.polygon.com/sub-gems/23594354/warioware-inc-game-boy-advance-nintendo-switch-online-expansion-pack)<!-- GAME:END -->
+ - [Starfield fans already have some very convincing theories on how its main quest begins](https://www.pcgamer.com/starfield-fans-already-have-some-very-convincing-theories-on-how-its-main-quest-begins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
