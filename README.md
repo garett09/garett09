@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some good fun](http://9gag.com/gag/aQEE63d)
- - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
- - 🚯 [Did he break his legs?](http://9gag.com/gag/avQQZ2X)<!-- MEMES:END -->
+ - 🚖 [Feminists](http://9gag.com/gag/agoov26)
+ - 🚯 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
+ - 🚯 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
 
 --- 
 
