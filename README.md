@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 5 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-5-hit-hbo-max/#ftag=CAD590a51e)
  - [Microsoft Office with AI text generation coming as soon as March](https://appleinsider.com/articles/23/02/11/microsoft-office-with-ai-text-generation-coming-as-soon-as-march?utm_medium=rss)
- - [Best Phone Plan Deals: Free Streaming Services, $200 Gift Cards, Unlimited 5G and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
- - [Watch 2023 Super Bowl Commercials Before the Big Game: Best Ads So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Plan Deals: Free Streaming Services, $200 Gift Cards, Unlimited 5G and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
