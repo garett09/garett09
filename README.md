@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such determination](http://9gag.com/gag/anzzYdo)
- - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
- - 🚯 [Just a prank bro](http://9gag.com/gag/a6qqQqN)<!-- MEMES:END -->
+ - 🚖 [2013 when Tom Cruise made this lad follow him around with gas heater at Dublin premiere of Oblivion.](http://9gag.com/gag/aOxxy12)
+ - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
+ - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)<!-- MEMES:END -->
 
 --- 
 
