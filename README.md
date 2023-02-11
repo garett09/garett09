@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is paying me to use Bing and it ain’t half-bad](https://www.androidauthority.com/bing-microsoft-rewards-3276522/)
- - [Save $200 on Apple&#39;s new MacBook Pro 16-inch with 1TB SSD](https://appleinsider.com/articles/23/02/11/save-200-on-apples-new-macbook-pro-16-inch-with-1tb-ssd?utm_medium=rss)
- - [Some Googlers reportedly aren’t happy about Bard’s ‘rushed’ announcement](https://www.theverge.com/2023/2/11/23595496/google-rushed-bard-announcement-report)<!-- TECH:END -->
+ - [How to use classic Atari, Commodore, and Sinclair software on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-classic-atari-commodore-and-sinclair-software-on-your-mac?utm_medium=rss)
+ - [Samsung Galaxy Watch 6: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)
+ - [An advertising joint venture by Deutsche Telekom, Orange, Telefonica, and Vodafone to rival Meta and Google wins unconditional EU antitrust approval &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/230211/p8#a230211p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
