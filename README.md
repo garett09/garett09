@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Military before psycho test existence](http://9gag.com/gag/ap990y9)
- - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)
- - 🚯 [Some good fun](http://9gag.com/gag/aQEE63d)<!-- MEMES:END -->
+ - 🚖 [Some good fun](http://9gag.com/gag/aQEE63d)
+ - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
+ - 🚯 [Did he break his legs?](http://9gag.com/gag/avQQZ2X)<!-- MEMES:END -->
 
 --- 
 
