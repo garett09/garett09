@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some local legislators and residents in Northern Virginia, home to ~275 data centers with dozens more planned, complain of land use, cooling fan noise, and more &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/230211/p10#a230211p10)
  - [The Fossil Gen 6 Hybrid Wellness Edition is health-focused but lacks focus](https://www.androidauthority.com/fossil-gen-6-hybrid-wellness-edition-review-3281220/)
- - [Pathmatics estimates the monthly revenue from Twitter&#39;s top 1,000 advertisers fell 60%+ from around $127M in October 2022 to just over $48M by January 25, 2023 &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/230211/p9#a230211p9)
- - [The Best Lego Kits: According to the CNET Staff Who Built Them     - CNET](https://www.cnet.com/deals/best-lego-kits-according-cnet-staff-who-built-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
