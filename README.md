@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deserved it](http://9gag.com/gag/awZZbY4)
- - 🚯 [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)<!-- MEMES:END -->
+ - 🚖 [Military before psycho test existence](http://9gag.com/gag/ap990y9)
+ - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)
+ - 🚯 [Some good fun](http://9gag.com/gag/aQEE63d)<!-- MEMES:END -->
 
 --- 
 
