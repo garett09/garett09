@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
- - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
- - 🚯 [The rehbinder effect](http://9gag.com/gag/aNwwdAb)<!-- MEMES:END -->
+ - 🚖 [Military before psycho test existence](http://9gag.com/gag/ap990y9)
+ - 🚯 [2013 when Tom Cruise made this lad follow him around with gas heater at Dublin premiere of Oblivion.](http://9gag.com/gag/aOxxy12)
+ - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
 
 --- 
 
