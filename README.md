@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guns and spells clash in real-time cooperative RPG Dark Envoy](https://www.pcgamer.com/guns-and-spells-clash-in-real-time-cooperative-rpg-dark-envoy)
- - [20 years on, this mod adds new lightsabers, character models, and quality of life fixes to one  of the best Star Wars games](https://www.pcgamer.com/20-years-on-this-mod-adds-new-lightsabers-character-models-and-quality-of-life-fixes-to-one-of-the-best-star-wars-games)
- - [Read these comics while you wait for the DCU’s new TV shows and movies](https://www.polygon.com/deals/23584372/dc-comics-universe-tv-movies-collection)<!-- GAME:END -->
+ - [EVE Online&#39;s far-future boardroom sharks are using their powers for good with an in-game charity drive](https://www.pcgamer.com/eve-onlines-far-future-boardroom-sharks-are-using-their-powers-for-good-with-an-in-game-charity-drive)
+ - [This is Amazon: Guardians of Eden, another entry for your worst games of all time list](https://www.pcgamer.com/saturday-crapshoot-amazon-guardians-of-eden)
+ - [Guns and spells clash in real-time cooperative RPG Dark Envoy](https://www.pcgamer.com/guns-and-spells-clash-in-real-time-cooperative-rpg-dark-envoy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
