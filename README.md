@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)
- - [The Last of Us has a bleakness problem that goes beyond ‘apocalypse fatigue’](https://www.polygon.com/23594563/last-us-episode-5-kathleen-henry-sam-game)<!-- GAME:END -->
+ - [HBO’s The Last Of Us Show Just Nailed One Of The Game’s Best Moments](https://kotaku.com/the-last-of-us-hbo-episode-5-sniper-henry-kathleen-s1e5-1850102084)
+ - [This Last of Us actor is happy he got the ‘best death of the season’](https://www.polygon.com/23594469/last-us-death-episode-5-perry-bloater)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
