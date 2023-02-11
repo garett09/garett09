@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-471-3282209/)
- - [Apple works with UKESF to get more girls into electronics](https://appleinsider.com/articles/23/02/11/apple-works-with-ukesf-to-get-more-girls-into-electronics?utm_medium=rss)
- - [Multitask With Ease: This Adjustable Stand for Your Device Is Just $7     - CNET](https://www.cnet.com/deals/multitask-with-ease-this-adjustable-stand-for-your-device-is-just-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is paying me to use Bing and it ain’t half-bad](https://www.androidauthority.com/bing-microsoft-rewards-3276522/)
+ - [Save $200 on Apple&#39;s new MacBook Pro 16-inch with 1TB SSD](https://appleinsider.com/articles/23/02/11/save-200-on-apples-new-macbook-pro-16-inch-with-1tb-ssd?utm_medium=rss)
+ - [Some Googlers reportedly aren’t happy about Bard’s ‘rushed’ announcement](https://www.theverge.com/2023/2/11/23595496/google-rushed-bard-announcement-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
