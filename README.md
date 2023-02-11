@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a prank bro](http://9gag.com/gag/a6qqQqN)
- - 🚯 [Such determination](http://9gag.com/gag/anzzYdo)
- - 🚯 [Big Fan](http://9gag.com/gag/aNwwWKK)<!-- MEMES:END -->
+ - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
+ - 🚯 [Big Fan](http://9gag.com/gag/aNwwWKK)
+ - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)<!-- MEMES:END -->
 
 --- 
 
