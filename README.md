@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 5 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-5-hit-hbo-max/#ftag=CAD590a51e)
- - [Microsoft Office with AI text generation coming as soon as March](https://appleinsider.com/articles/23/02/11/microsoft-office-with-ai-text-generation-coming-as-soon-as-march?utm_medium=rss)
- - [Best Phone Plan Deals: Free Streaming Services, $200 Gift Cards, Unlimited 5G and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Episode 5 Recap: A Tale of Two Brothers     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-a-tale-of-two-brothers/#ftag=CAD590a51e)
+ - [Microsoft Office with AI text generation coming as soon as March](https://appleinsider.com/articles/23/02/11/microsoft-office-with-ai-text-generation-coming-as-soon-as-march?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
