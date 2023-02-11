@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use classic Atari, Commodore, and Sinclair software on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-classic-atari-commodore-and-sinclair-software-on-your-mac?utm_medium=rss)
- - [Samsung Galaxy Watch 6: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)
- - [An advertising joint venture by Deutsche Telekom, Orange, Telefonica, and Vodafone to rival Meta and Google wins unconditional EU antitrust approval &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/230211/p8#a230211p8)<!-- TECH:END -->
+ - [The Fossil Gen 6 Hybrid Wellness Edition is health-focused but lacks focus](https://www.androidauthority.com/fossil-gen-6-hybrid-wellness-edition-review-3281220/)
+ - [Pathmatics estimates the monthly revenue from Twitter&#39;s top 1,000 advertisers fell 60%+ from around $127M in October 2022 to just over $48M by January 25, 2023 &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/230211/p9#a230211p9)
+ - [The Best Lego Kits: According to the CNET Staff Who Built Them     - CNET](https://www.cnet.com/deals/best-lego-kits-according-cnet-staff-who-built-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
