@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Become an AI master with these amazing ChatGPT offers](https://www.androidauthority.com/chatgpt-deals-3281992/)
- - [OnePlus Pad Android Tablet: Details, Specs, Release Date](https://www.wired.com/story/oneplus-pad-android-tablet/)
- - [iRobot Roomba Combo j7+ Review: Beautiful Vacuum, but Directionless](https://www.wired.com/review/irobot-roomba-combo-j7/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 revisited: The good and the bad, six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-4-review-revisited-3275483/)
+ - [18 Best Bluetooth Speakers &lpar;2023&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
+ - [How to Watch Something Other Than the Super Bowl](https://www.wired.com/story/how-to-watch-entertainment-other-than-super-bowl-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
