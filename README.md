@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2013 when Tom Cruise made this lad follow him around with gas heater at Dublin premiere of Oblivion.](http://9gag.com/gag/aOxxy12)
- - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
- - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)<!-- MEMES:END -->
+ - 🚖 [The best assistant ever or not](http://9gag.com/gag/aeQQGeB)
+ - 🚯 [Complete guide to be japanese student](http://9gag.com/gag/aGEE0p5)
+ - 🚯 [Im noticing a pattern](http://9gag.com/gag/aoKK28x)<!-- MEMES:END -->
 
 --- 
 
