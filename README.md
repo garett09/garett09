@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra review: powerful 200MP camera, awesome display, excellent battery life, and fast processor, but expensive and no charging speed upgrade &lpar;Mark Spoonauer/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230210/p19#a230210p19)
- - [My 13-Year-Old LeBron &#39;Overrated&#39; Tweet Has Returned to Haunt Me     - CNET](https://www.cnet.com/news/social-media/my-13-year-old-lebron-overrated-tweet-has-returned-to-haunt-me/#ftag=CAD590a51e)
- - [Jony Ive’s latest design is the emblem for King Charles’ coronation](https://www.theverge.com/2023/2/10/23595028/jony-ive-lovefrom-king-charles-iii-coronation-emblem)<!-- TECH:END -->
+ - [Microsoft Office with AI text generation coming as soon as March](https://appleinsider.com/articles/23/02/11/microsoft-office-with-ai-text-generation-coming-as-soon-as-march?utm_medium=rss)
+ - [Best Phone Plan Deals: Free Streaming Services, $200 Gift Cards, Unlimited 5G and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
+ - [Watch 2023 Super Bowl Commercials Before the Big Game: Best Ads So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
