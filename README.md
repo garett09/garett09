@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo just reissued one of the most important games of all time](https://www.polygon.com/sub-gems/23594354/warioware-inc-game-boy-advance-nintendo-switch-online-expansion-pack)
- - [Screeching like a clicker with The Last of Us voice actor Misty Lee](https://www.polygon.com/23589765/last-us-misty-lee-clicker-interview-hbo)
- - [The making of Vox Machina’s Umbrasyl fight, from Critical Role arc to epic animated finale](https://www.polygon.com/23592049/critical-role-legend-vox-machina-season-2-ending-umbrasyl-oral-history)<!-- GAME:END -->
+ - [How to make a rhythm game for people who have no rhythm](https://www.polygon.com/gaming/23594230/hi-fi-rush-interview-rhythm-game-development)
+ - [Starfield fans already have some very convincing theories on how its main quest begins](https://www.pcgamer.com/starfield-fans-already-have-some-very-convincing-theories-on-how-its-main-quest-begins)
+ - [Nintendo just reissued one of the most important games of all time](https://www.polygon.com/sub-gems/23594354/warioware-inc-game-boy-advance-nintendo-switch-online-expansion-pack)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
