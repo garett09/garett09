@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best assistant ever or not](http://9gag.com/gag/aeQQGeB)
+ - 🚖 [Talk about fearless! This woman removing bees with her bare hands is a testament to her bravery and quick thinking. Who needs protective gear when you have nerves of steel?! \ud83d\udc1d #BeeRemoval #BareHanded](http://9gag.com/gag/a8qqpnO)
  - 🚯 [Complete guide to be japanese student](http://9gag.com/gag/aGEE0p5)
- - 🚯 [Im noticing a pattern](http://9gag.com/gag/aoKK28x)<!-- MEMES:END -->
+ - 🚯 [The rehbinder effect](http://9gag.com/gag/aNwwdAb)<!-- MEMES:END -->
 
 --- 
 
