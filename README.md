@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New tire in Africa](http://9gag.com/gag/a6qqLXb)
- - 🚯 [Ever see ^ on a bank note before?](http://9gag.com/gag/aQEEx98)
- - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)<!-- MEMES:END -->
+ - 🚖 [Did he break his legs?](http://9gag.com/gag/avQQZ2X)
+ - 🚯 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)
+ - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
 
 --- 
 
