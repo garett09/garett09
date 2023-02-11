@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #602: Saturday, February 11](https://www.pcgamer.com/wordle-hint-answer-today-602-february-11)
  - [HBO’s The Last Of Us Show Just Nailed One Of The Game’s Best Moments](https://kotaku.com/the-last-of-us-hbo-episode-5-sniper-henry-kathleen-s1e5-1850102084)
- - [This Last of Us actor is happy he got the ‘best death of the season’](https://www.polygon.com/23594469/last-us-death-episode-5-perry-bloater)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [This Last of Us actor is happy he got the ‘best death of the season’](https://www.polygon.com/23594469/last-us-death-episode-5-perry-bloater)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
