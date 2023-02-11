@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 5 Best Cat Toys for Your Beloved Pet     - CNET](https://www.cnet.com/news/best-cat-toys/#ftag=CAD590a51e)
  - [An overview of macro tech trends, with a focus on the e-commerce slowdown, Amazon, layoffs, advertising, and generative AI opportunities beyond text and images &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230211/p3#a230211p3)
- - [The City of Oakland confirms reports of a ransomware attack on its networks but says 911, financial data, and fire and emergency resources were not impacted &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230211/p2#a230211p2)
- - [Mercury Research: x86 CPU shipments from Intel, AMD, and others fell 34% YoY and 19% QoQ in Q4, the biggest drops in 30 years; 374M units were shipped in 2022 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230211/p1#a230211p1)<!-- TECH:END -->
+ - [The City of Oakland confirms reports of a ransomware attack on its networks but says 911, financial data, and fire and emergency resources were not impacted &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230211/p2#a230211p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
