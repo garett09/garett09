@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy review](https://www.pcgamer.com/hogwarts-legacy-review)
- - [I&#39;m loving this chill city builder with storybook looks and fairytale charm](https://www.pcgamer.com/im-loving-this-chill-city-builder-with-storybook-looks-and-fairytale-charm)
- - [Players are modding Hogwarts Legacy to make their characters paler](https://www.pcgamer.com/players-are-modding-hogwarts-legacy-to-make-their-characters-paler)<!-- GAME:END -->
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)
+ - [The Last of Us has a bleakness problem that goes beyond ‘apocalypse fatigue’](https://www.polygon.com/23594563/last-us-episode-5-kathleen-henry-sam-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
