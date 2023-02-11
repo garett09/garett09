@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a prank bro](http://9gag.com/gag/a6qqQqN)
- - 🚯 [Such determination](http://9gag.com/gag/anzzYdo)
- - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
+ - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
+ - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
+ - 🚯 [The rehbinder effect](http://9gag.com/gag/aNwwdAb)<!-- MEMES:END -->
 
 --- 
 
