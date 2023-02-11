@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you love Psychonauts 2? Here’s a 32-part documentary about it](https://www.polygon.com/23595018/psychonauts-2-double-fine-psychodyssey-documentary)
- - [Everything to know about The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/23594712/zelda-tears-kingdom-release-date-trailers-gameplay-story-botw-2)
- - [Activision Blizzard CEO Bobby Kotick says Sony is &#39;not returning our calls&#39;](https://www.pcgamer.com/activision-blizzard-ceo-bobby-kotick-says-sony-is-not-returning-our-calls)<!-- GAME:END -->
+ - [Hogwarts Legacy review](https://www.pcgamer.com/hogwarts-legacy-review)
+ - [I&#39;m loving this chill city builder with storybook looks and fairytale charm](https://www.pcgamer.com/im-loving-this-chill-city-builder-with-storybook-looks-and-fairytale-charm)
+ - [Players are modding Hogwarts Legacy to make their characters paler](https://www.pcgamer.com/players-are-modding-hogwarts-legacy-to-make-their-characters-paler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
