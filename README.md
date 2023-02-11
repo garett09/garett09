@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did he break his legs?](http://9gag.com/gag/avQQZ2X)
- - 🚯 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)
- - 🚯 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
+ - 🚖 [Just a prank bro](http://9gag.com/gag/a6qqQqN)
+ - 🚯 [Such determination](http://9gag.com/gag/anzzYdo)
+ - 🚯 [Big Fan](http://9gag.com/gag/aNwwWKK)<!-- MEMES:END -->
 
 --- 
 
