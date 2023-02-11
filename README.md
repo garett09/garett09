@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
- - 🚯 [Military before psycho test existence](http://9gag.com/gag/ap990y9)
- - 🚯 [`they are offended on her behalf`](http://9gag.com/gag/a0449zq)<!-- MEMES:END -->
+ - 🚖 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
+ - 🚯 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)
+ - 🚯 [Deserved it](http://9gag.com/gag/awZZbY4)<!-- MEMES:END -->
 
 --- 
 
