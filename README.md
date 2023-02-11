@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mercury Research: x86 CPU shipments from Intel, AMD, and others fell 34% YoY and 19% QoQ in Q4, the biggest drops in 30 years; 374M units were shipped in 2022 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230211/p1#a230211p1)
  - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 5 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-5-hit-hbo-max/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Episode 5 Recap: A Tale of Two Brothers     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-a-tale-of-two-brothers/#ftag=CAD590a51e)
- - [Microsoft Office with AI text generation coming as soon as March](https://appleinsider.com/articles/23/02/11/microsoft-office-with-ai-text-generation-coming-as-soon-as-march?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Episode 5 Recap: A Tale of Two Brothers     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-a-tale-of-two-brothers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
