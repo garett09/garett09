@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta has delayed finalizing multiple teams&#39; budgets while it prepares a fresh round of job cuts, slowing down projects even in priority areas &lpar;Financial Times&rpar;](http://www.techmeme.com/230211/p6#a230211p6)
  - [Samsung Galaxy Z Fold 4 revisited: The good and the bad, six months later](https://www.androidauthority.com/samsung-galaxy-z-fold-4-review-revisited-3275483/)
- - [18 Best Bluetooth Speakers &lpar;2023&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [How to Watch Something Other Than the Super Bowl](https://www.wired.com/story/how-to-watch-entertainment-other-than-super-bowl-2023/)<!-- TECH:END -->
+ - [18 Best Bluetooth Speakers &lpar;2023&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
