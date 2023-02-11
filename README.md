@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Engineer makes dual-port iPhone by adding USB-C](https://appleinsider.com/articles/23/02/11/engineer-makes-dual-port-iphone-by-adding-usb-c?utm_medium=rss)
  - [Some local legislators and residents in Northern Virginia, home to ~275 data centers with dozens more planned, complain of land use, cooling fan noise, and more &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/230211/p10#a230211p10)
- - [The Fossil Gen 6 Hybrid Wellness Edition is health-focused but lacks focus](https://www.androidauthority.com/fossil-gen-6-hybrid-wellness-edition-review-3281220/)
- - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Improve Your OnePlus With This Magnificent Mechanical Keyboard     - CNET](https://www.cnet.com/tech/computing/improve-your-oneplus-with-this-magnificent-mechanical-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
