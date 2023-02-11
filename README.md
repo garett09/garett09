@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVE Online&#39;s far-future boardroom sharks are using their powers for good with an in-game charity drive](https://www.pcgamer.com/eve-onlines-far-future-boardroom-sharks-are-using-their-powers-for-good-with-an-in-game-charity-drive)
- - [This is Amazon: Guardians of Eden, another entry for your worst games of all time list](https://www.pcgamer.com/saturday-crapshoot-amazon-guardians-of-eden)
- - [Guns and spells clash in real-time cooperative RPG Dark Envoy](https://www.pcgamer.com/guns-and-spells-clash-in-real-time-cooperative-rpg-dark-envoy)<!-- GAME:END -->
+ - [Broken Arrow is a convincing attempt at a modern warfare RTS](https://www.pcgamer.com/broken-arrow-is-a-convincing-attempt-at-a-modern-warfare-rts)
+ - [Wandering Sword may be the wuxia RPG I&#39;ve been waiting for](https://www.pcgamer.com/wandering-sword-may-be-the-wuxia-rpg-ive-been-waiting-for)
+ - [The Last Of Us Episode 5 Recap: The Saga Of Henry And Sam](https://kotaku.com/last-of-us-tlou-s1e5-henry-sam-hbo-kathleen-kansas-city-1850104162)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
