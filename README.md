@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Fan](http://9gag.com/gag/aNwwWKK)
- - 🚯 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
- - 🚯 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)<!-- MEMES:END -->
+ - 🚖 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
+ - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)
+ - 🚯 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)<!-- MEMES:END -->
 
 --- 
 
