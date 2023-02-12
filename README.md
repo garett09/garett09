@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Apple&#39;s efforts to develop new financial services, which have suffered from slow progress and missed deadlines due to engineering and technical setbacks &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230212/p5#a230212p5)
  - [Apple&#39;s iPhone hardware subscription could arrive by March](https://appleinsider.com/articles/23/02/12/apples-iphone-hardware-subscription-could-arrive-by-march?utm_medium=rss)
- - [I built a fully-connected smart home without breaking the bank, so can you](https://www.androidauthority.com/affordable-connected-smart-home-3261996/)
- - [Man City vs. Aston Villa Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-aston-villa-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I built a fully-connected smart home without breaking the bank, so can you](https://www.androidauthority.com/affordable-connected-smart-home-3261996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
