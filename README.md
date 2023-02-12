@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Vox Machina season 2 ends with a surprising villain for the future](https://www.polygon.com/23594728/legend-vox-machina-season-3-villain)
- - [Resident Evil 4 is partying like it&#39;s 2011 with a deluge of day-one DLC](https://www.pcgamer.com/resident-evil-4-is-partying-like-its-2011-with-a-deluge-of-day-one-dlc)
- - [When does Apex Legends’ new season launch?](https://www.polygon.com/guides/23594280/apex-legends-season-16-release-date-launch-time)<!-- GAME:END -->
+ - [Dark Souls 3 joins the growing list of games with fun Unreal Engine 5 mockups](https://www.pcgamer.com/dark-souls-3-joins-the-growing-list-of-games-with-fun-unreal-engine-5-mockups)
+ - [&#39;Mario Rap&#39; Makes Comeback In Super Mario Bros. Movie Super Bowl Commercial](https://kotaku.com/super-mario-bros-super-bowl-commercial-rap-halftime-1850105865)
+ - [A remake of the first Atelier game is coming to Steam in summer 2023](https://www.pcgamer.com/a-remake-of-the-first-atelier-game-is-coming-to-steam-in-summer-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
