@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Faith can move mountains in every direction](http://9gag.com/gag/aGEEDoZ)
- - 🚯 [So much wuzz about non important stuff...](http://9gag.com/gag/a9qqY6L)
- - 🚯 [Airbnb](http://9gag.com/gag/aeQQeW5)<!-- MEMES:END -->
+ - 🚖 [Social medias in USA reports of balloons over USA again, No official statements from US authorities as of now.](http://9gag.com/gag/aDYYz8d)
+ - 🚯 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
+ - 🚯 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)<!-- MEMES:END -->
 
 --- 
 
