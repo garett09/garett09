@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
- - 🚯 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
- - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
+ - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
+ - 🚯 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)<!-- MEMES:END -->
 
 --- 
 
