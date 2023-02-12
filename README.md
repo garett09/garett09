@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon-owned Woot slashes 14-inch MacBook Pro to $1,469.99](https://appleinsider.com/articles/23/02/12/amazon-owned-woot-slashes-14-inch-macbook-pro-to-146999?utm_medium=rss)
+ - [Meta&#39;s limited ad targeting options and Amazon&#39;s ad product investments are leading brands to shift their budgets to Amazon; Amazon&#39;s ad business grew 19% in Q4 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230211/p14#a230211p14)
  - [Apple&#39;s Jony Ive Crowns King Charles With Coronation Logo     - CNET](https://www.cnet.com/culture/apples-jony-ive-crowns-king-charles-with-coronation-logo/#ftag=CAD590a51e)
- - [Sources and memo: Zappos laid off over 300 employees in January, or ~20% of its workforce, including in customer service, as part of broader layoffs at Amazon &lpar;Kirsten Grind/Wall Street Journal&rpar;](http://www.techmeme.com/230211/p13#a230211p13)<!-- TECH:END -->
+ - [Amazon-owned Woot slashes 14-inch MacBook Pro to $1,469.99](https://appleinsider.com/articles/23/02/12/amazon-owned-woot-slashes-14-inch-macbook-pro-to-146999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
