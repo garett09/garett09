@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Age is just a number](http://9gag.com/gag/aOxxdjv)
- - 🚯 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
- - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
+ - 🚖 [Andrew Santino as Joe Biden](http://9gag.com/gag/aGEE1xX)
+ - 🚯 [Faith can move mountains in every direction](http://9gag.com/gag/aGEEDoZ)
+ - 🚯 [Talk about fearless! This woman removing bees with her bare hands is a testament to her bravery and quick thinking. Who needs protective gear when you have nerves of steel?! \ud83d\udc1d #BeeRemoval #BareHanded](http://9gag.com/gag/a8qqpnO)<!-- MEMES:END -->
 
 --- 
 
