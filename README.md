@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fatshark details upcoming changes to Darktide&#39;s gear acquisition and crafting](https://www.pcgamer.com/fatshark-details-upcoming-changes-to-darktides-gear-acquisition-and-crafting)
  - [Broken Arrow is a convincing attempt at a modern warfare RTS](https://www.pcgamer.com/broken-arrow-is-a-convincing-attempt-at-a-modern-warfare-rts)
- - [Wandering Sword may be the wuxia RPG I&#39;ve been waiting for](https://www.pcgamer.com/wandering-sword-may-be-the-wuxia-rpg-ive-been-waiting-for)
- - [The Last Of Us Episode 5 Recap: The Saga Of Henry And Sam](https://kotaku.com/last-of-us-tlou-s1e5-henry-sam-hbo-kathleen-kansas-city-1850104162)<!-- GAME:END -->
+ - [Wandering Sword may be the wuxia RPG I&#39;ve been waiting for](https://www.pcgamer.com/wandering-sword-may-be-the-wuxia-rpg-ive-been-waiting-for)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
