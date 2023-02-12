@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s limited ad targeting options and Amazon&#39;s ad product investments are leading brands to shift their budgets to Amazon; Amazon&#39;s ad business grew 19% in Q4 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230211/p14#a230211p14)
- - [Apple&#39;s Jony Ive Crowns King Charles With Coronation Logo     - CNET](https://www.cnet.com/culture/apples-jony-ive-crowns-king-charles-with-coronation-logo/#ftag=CAD590a51e)
- - [Amazon-owned Woot slashes 14-inch MacBook Pro to $1,469.99](https://appleinsider.com/articles/23/02/12/amazon-owned-woot-slashes-14-inch-macbook-pro-to-146999?utm_medium=rss)<!-- TECH:END -->
+ - [Another Russian Spacecraft Docked to ISS Has Sprung a Leak     - CNET](https://www.cnet.com/science/space/another-russian-spacecraft-docked-to-iss-has-sprung-a-leak/#ftag=CAD590a51e)
+ - [Stock exchange data: Alibaba sold its remaining 3.16% Paytm stake for ~$167.14M, days after Paytm posted its first quarterly operating profit post IPO &lpar;Reuters&rpar;](http://www.techmeme.com/230212/p1#a230212p1)
+ - [Best Smart Soundbar for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
