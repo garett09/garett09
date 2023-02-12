@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
- - 🚯 [Oops](http://9gag.com/gag/awZZn0Q)
- - 🚯 [Can You Spot 10 Signs of a Childish Adult?](http://9gag.com/gag/a6qq7G9)<!-- MEMES:END -->
+ - 🚯 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
+ - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
 
 --- 
 
