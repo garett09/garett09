@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a slowing digital ad market, Apple&#39;s ATT changes, tech companies&#39; internal turmoil, weak content moderation, and more are contributing to a junk ad epidemic &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/230212/p6#a230212p6)
- - [Best and Worst TV and Movie Couples to Spend Valentine&#39;s Day With     - CNET](https://www.cnet.com/culture/best-and-worst-tv-and-movie-couples-to-spend-valentines-day-with/#ftag=CAD590a51e)
- - [Watch 2023 Super Bowl Commercials Before the Big Game: Best Ads So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)
+ - [Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR for Xfinity Users     - CNET](https://www.cnet.com/tech/home-entertainment/comcast-will-air-super-bowl-57-in-4k-with-dolby-vision-hdr-for-xfinity-users/#ftag=CAD590a51e)
+ - [How a slowing digital ad market, Apple&#39;s ATT changes, tech companies&#39; internal turmoil, weak content moderation, and more are contributing to a junk ad epidemic &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/230212/p6#a230212p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
