@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
- - 🚯 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
- - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
+ - 🚯 [A true friendship](http://9gag.com/gag/anzzNpn)
+ - 🚯 [Can You Spot 10 Signs of a Childish Adult?](http://9gag.com/gag/a6qq7G9)<!-- MEMES:END -->
 
 --- 
 
