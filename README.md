@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Social medias in USA reports of balloons over USA again, No official statements from US authorities as of now.](http://9gag.com/gag/aDYYz8d)
- - 🚯 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
- - 🚯 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)<!-- MEMES:END -->
+ - 🚖 [Oops](http://9gag.com/gag/awZZn0Q)
+ - 🚯 [That movie white noise just played out in Ohio with an airborne toxic event. Media black out, with distracting stories of ufos.](http://9gag.com/gag/aYVV4d0)
+ - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
 
 --- 
 
