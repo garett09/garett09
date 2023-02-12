@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 retro games emulators you didn’t know you could play on your Android phone](https://www.androidauthority.com/retro-games-emulators-android-phones-3275933/)
- - [Creating trustworthy generative AI requires resources probably on the scale of what companies like Microsoft and Google possess, making them even more powerful &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230212/p3#a230212p3)
- - [Google staff criticize company leadership over the Bard announcement, calling the unveil &quot;botched&quot;, &quot;myopic&quot;, and &quot;un-Googley&quot; on the internal forum Memegen &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230212/p2#a230212p2)<!-- TECH:END -->
+ - [Crime blotter: Man accused of using Siri in cop car to set up alibi](https://appleinsider.com/articles/23/02/12/crime-blotter-man-accused-of-using-siri-in-cop-car-to-set-up-alibi?utm_medium=rss)
+ - [A look at &quot;liquid&quot; neural nets, which change their underlying algorithms based on observed inputs, making them more flexible than standard ML neural networks &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/230212/p4#a230212p4)
+ - [God Did the World a Favor by Destroying Twitter](https://www.wired.com/story/god-did-us-a-favor-by-destroying-twitter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
