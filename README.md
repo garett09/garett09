@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not trading in my old Samsung smartwatch solved my battery anxiety problem](https://www.androidauthority.com/samsung-galaxy-watch-auto-switch-3276510/)
- - [Updated 24-inch iMac may not arrive until late 2023](https://appleinsider.com/articles/23/02/12/updated-24-inch-imac-may-not-arrive-until-late-2023?utm_medium=rss)
- - [Inside Apple&#39;s efforts to develop new financial services, which have suffered from slow progress and missed deadlines due to engineering and technical setbacks &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230212/p5#a230212p5)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Episode 5 Recap: Sam and Henry&#39;s Twisty Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-sam-and-henry-twisty-story/#ftag=CAD590a51e)
+ - [Best Kids&#39; Tablets for 2023     - CNET](https://www.cnet.com/tech/computing/best-kids-tablet/#ftag=CAD590a51e)
+ - [Not trading in my old Samsung smartwatch solved my battery anxiety problem](https://www.androidauthority.com/samsung-galaxy-watch-auto-switch-3276510/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
