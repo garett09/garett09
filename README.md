@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #603: Sunday, February 12](https://www.pcgamer.com/wordle-hint-answer-today-603-february-12)
  - [Total War: Warhammer 3 DLC planned for April release](https://www.pcgamer.com/total-war-warhammer-3-dlc-planned-for-april-release)
- - [Fatshark details upcoming changes to Darktide&#39;s gear acquisition and crafting](https://www.pcgamer.com/fatshark-details-upcoming-changes-to-darktides-gear-acquisition-and-crafting)
- - [Broken Arrow is a convincing attempt at a modern warfare RTS](https://www.pcgamer.com/broken-arrow-is-a-convincing-attempt-at-a-modern-warfare-rts)<!-- GAME:END -->
+ - [Fatshark details upcoming changes to Darktide&#39;s gear acquisition and crafting](https://www.pcgamer.com/fatshark-details-upcoming-changes-to-darktides-gear-acquisition-and-crafting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
