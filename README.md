@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Fan](http://9gag.com/gag/aNwwWKK)
- - 🚯 [Feminists](http://9gag.com/gag/agoov26)
- - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
+ - 🚖 [Age is just a number](http://9gag.com/gag/aOxxdjv)
+ - 🚯 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
+ - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
 
 --- 
 
