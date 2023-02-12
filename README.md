@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When opportunity knocks](http://9gag.com/gag/amAA9RX)
- - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
- - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
+ - 🚖 [Faith can move mountains in every direction](http://9gag.com/gag/aGEEDoZ)
+ - 🚯 [So much wuzz about non important stuff...](http://9gag.com/gag/a9qqY6L)
+ - 🚯 [Airbnb](http://9gag.com/gag/aeQQeW5)<!-- MEMES:END -->
 
 --- 
 
