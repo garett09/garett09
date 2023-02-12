@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What’s next for Halo?](https://www.polygon.com/23590852/halo-infinite-343-industries-future-franchise-reboot)
  - [Watch all the trailers that played during the Super Bowl](https://www.polygon.com/23594543/super-bowl-2023-movie-trailers)
- - [Westworld reinvented the idea of evil AI with each season](https://www.polygon.com/23587998/westworld-season-summaries)
- - [Darth Vader, the problematic fanzine fave of 1977](https://www.polygon.com/23583700/darth-vader-fan-art-1977-zines)<!-- GAME:END -->
+ - [Westworld reinvented the idea of evil AI with each season](https://www.polygon.com/23587998/westworld-season-summaries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
