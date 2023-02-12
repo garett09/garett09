@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Last of Us&#39; Episode 5 Recap: Sam and Henry&#39;s Twisty Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-sam-and-henry-twisty-story/#ftag=CAD590a51e)
- - [Best Kids&#39; Tablets for 2023     - CNET](https://www.cnet.com/tech/computing/best-kids-tablet/#ftag=CAD590a51e)
- - [Not trading in my old Samsung smartwatch solved my battery anxiety problem](https://www.androidauthority.com/samsung-galaxy-watch-auto-switch-3276510/)<!-- TECH:END -->
+ - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)
+ - [Etekcity ESN-C551S food scale review: An inexpensive way to keep your body lean](https://appleinsider.com/articles/23/02/12/etekcity-esn-c551s-food-scale-review-an-inexpensive-way-to-keep-your-body-lean?utm_medium=rss)
+ - [&#39;The Last of Us&#39; Episode 5 Recap: Sam and Henry&#39;s Twisty Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-sam-and-henry-twisty-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
