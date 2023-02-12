@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Super Bowl’s deaf National Anthem singer is an Oscar-winning Star Wars actor you should know](https://www.polygon.com/23592674/super-bowl-2023-who-sings-national-anthem-deaf-actor-troy-kotsur)
  - [Great moments in PC gaming: Parrying Metal Gear Ray in Metal Gear Rising Revengeance](https://www.pcgamer.com/great-moments-in-pc-gaming-parrying-metal-gear-ray-in-metal-gear-rising-revengeance)
- - [Wordle hint and answer #603: Sunday, February 12](https://www.pcgamer.com/wordle-hint-answer-today-603-february-12)
- - [Total War: Warhammer 3 DLC planned for April release](https://www.pcgamer.com/total-war-warhammer-3-dlc-planned-for-april-release)<!-- GAME:END -->
+ - [Wordle hint and answer #603: Sunday, February 12](https://www.pcgamer.com/wordle-hint-answer-today-603-february-12)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
