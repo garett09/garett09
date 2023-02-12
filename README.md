@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)
- - [Etekcity ESN-C551S food scale review: An inexpensive way to keep your body lean](https://appleinsider.com/articles/23/02/12/etekcity-esn-c551s-food-scale-review-an-inexpensive-way-to-keep-your-body-lean?utm_medium=rss)
- - [&#39;The Last of Us&#39; Episode 5 Recap: Sam and Henry&#39;s Twisty Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-5-recap-sam-and-henry-twisty-story/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How a slowing digital ad market, Apple&#39;s ATT changes, tech companies&#39; internal turmoil, weak content moderation, and more are contributing to a junk ad epidemic &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/230212/p6#a230212p6)
+ - [Don’t attempt this RGB Steam Deck mod just yet](https://www.theverge.com/2023/2/12/23596535/steam-deck-rgb-mod-warning)
+ - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
