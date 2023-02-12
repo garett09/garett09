@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple&#39;s efforts to develop new financial services, which have suffered from slow progress and missed deadlines due to engineering and technical setbacks &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230212/p5#a230212p5)
- - [Apple&#39;s iPhone hardware subscription could arrive by March](https://appleinsider.com/articles/23/02/12/apples-iphone-hardware-subscription-could-arrive-by-march?utm_medium=rss)
- - [I built a fully-connected smart home without breaking the bank, so can you](https://www.androidauthority.com/affordable-connected-smart-home-3261996/)<!-- TECH:END -->
+ - [Not trading in my old Samsung smartwatch solved my battery anxiety problem](https://www.androidauthority.com/samsung-galaxy-watch-auto-switch-3276510/)
+ - [Updated 24-inch iMac may not arrive until late 2023](https://appleinsider.com/articles/23/02/12/updated-24-inch-imac-may-not-arrive-until-late-2023?utm_medium=rss)
+ - [Inside Apple&#39;s efforts to develop new financial services, which have suffered from slow progress and missed deadlines due to engineering and technical setbacks &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230212/p5#a230212p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
