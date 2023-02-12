@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
- - 🚯 [A true friendship](http://9gag.com/gag/anzzNpn)
- - 🚯 [Can You Spot 10 Signs of a Childish Adult?](http://9gag.com/gag/a6qq7G9)<!-- MEMES:END -->
+ - 🚖 [Big Fan](http://9gag.com/gag/aNwwWKK)
+ - 🚯 [Oops](http://9gag.com/gag/awZZn0Q)
+ - 🚯 [Something is shining green lasers down to Earth from space from satellites, this was near Hawaii](http://9gag.com/gag/aQEE9pw)<!-- MEMES:END -->
 
 --- 
 
