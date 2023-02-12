@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Social medias in USA reports of balloons over USA again, No official statements from US authorities as of now.](http://9gag.com/gag/aDYYz8d)
- - 🚯 [Something is shining green lasers down to Earth from space from satellites, this was near Hawaii](http://9gag.com/gag/aQEE9pw)
- - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
+ - 🚖 [Miguel is busy, mate](http://9gag.com/gag/aqee76v)
+ - 🚯 [Damn it.](http://9gag.com/gag/ap992MW)
+ - 🚯 [Eye of the beholder](http://9gag.com/gag/aBdd09Q)<!-- MEMES:END -->
 
 --- 
 
