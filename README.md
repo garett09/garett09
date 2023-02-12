@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last of Us’ Big Fungus... why won’t you let me love you](https://www.polygon.com/23591772/last-us-big-infected-bloater-episode-5-big-fungus)
  - [What’s next for Halo?](https://www.polygon.com/23590852/halo-infinite-343-industries-future-franchise-reboot)
- - [Watch all the trailers that played during the Super Bowl](https://www.polygon.com/23594543/super-bowl-2023-movie-trailers)
- - [Westworld reinvented the idea of evil AI with each season](https://www.polygon.com/23587998/westworld-season-summaries)<!-- GAME:END -->
+ - [Watch all the trailers that played during the Super Bowl](https://www.polygon.com/23594543/super-bowl-2023-movie-trailers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
