@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Engineer makes dual-port iPhone by adding USB-C](https://appleinsider.com/articles/23/02/11/engineer-makes-dual-port-iphone-by-adding-usb-c?utm_medium=rss)
- - [Some local legislators and residents in Northern Virginia, home to ~275 data centers with dozens more planned, complain of land use, cooling fan noise, and more &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/230211/p10#a230211p10)
- - [Improve Your OnePlus With This Magnificent Mechanical Keyboard     - CNET](https://www.cnet.com/tech/computing/improve-your-oneplus-with-this-magnificent-mechanical-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Opera says it is testing a new ChatGPT-powered &quot;shorten&quot; feature in its browser that provides bulleted summaries of articles or webpages in the sidebar &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230211/p12#a230211p12)
+ - [Vactidy Nimble T6 robot vacuum review: Limited smarts, budget price](https://appleinsider.com/articles/23/02/12/vactidy-nimble-t6-robot-vacuum-review-limited-smarts-budget-price?utm_medium=rss)
+ - [Ford’s reportedly working on a $3.5 billion battery plant in Michigan](https://www.theverge.com/2023/2/11/23595909/ford-battery-plant-michigan-evs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
