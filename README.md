@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us’ Big Fungus... why won’t you let me love you](https://www.polygon.com/23591772/last-us-big-infected-bloater-episode-5-big-fungus)
- - [What’s next for Halo?](https://www.polygon.com/23590852/halo-infinite-343-industries-future-franchise-reboot)
- - [Watch all the trailers that played during the Super Bowl](https://www.polygon.com/23594543/super-bowl-2023-movie-trailers)<!-- GAME:END -->
+ - [The Legend of Vox Machina season 2 ends with a surprising villain for the future](https://www.polygon.com/23594728/legend-vox-machina-season-3-villain)
+ - [Resident Evil 4 is partying like it&#39;s 2011 with a deluge of day-one DLC](https://www.pcgamer.com/resident-evil-4-is-partying-like-its-2011-with-a-deluge-of-day-one-dlc)
+ - [When does Apex Legends’ new season launch?](https://www.polygon.com/guides/23594280/apex-legends-season-16-release-date-launch-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
