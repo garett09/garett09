@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Man accused of using Siri in cop car to set up alibi](https://appleinsider.com/articles/23/02/12/crime-blotter-man-accused-of-using-siri-in-cop-car-to-set-up-alibi?utm_medium=rss)
- - [A look at &quot;liquid&quot; neural nets, which change their underlying algorithms based on observed inputs, making them more flexible than standard ML neural networks &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/230212/p4#a230212p4)
- - [God Did the World a Favor by Destroying Twitter](https://www.wired.com/story/god-did-us-a-favor-by-destroying-twitter/)<!-- TECH:END -->
+ - [Best apps to learn Spanish on iPhone, iPad, or Mac](https://appleinsider.com/inside/ios/best/best-apps-to-learn-spanish-on-iphone-ipad-or-mac?utm_medium=rss)
+ - [BenQ treVolo U review: Voice clarity and wireless freedom](https://appleinsider.com/articles/23/02/12/benq-trevolo-u-review-voice-clarity-and-wireless-freedom?utm_medium=rss)
+ - [Daily deals Feb. 12: $15 off HomePod mini, 26% off M1 Pro 14-inch MacBook Pro, Giftcard bonuses, more](https://appleinsider.com/articles/23/02/12/daily-deals-feb-12-15-off-homepod-mini-26-off-m1-pro-14-inch-macbook-pro-giftcard-bonuses-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
