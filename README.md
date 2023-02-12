@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Fan](http://9gag.com/gag/aNwwWKK)
- - 🚯 [Oops](http://9gag.com/gag/awZZn0Q)
- - 🚯 [Something is shining green lasers down to Earth from space from satellites, this was near Hawaii](http://9gag.com/gag/aQEE9pw)<!-- MEMES:END -->
+ - 🚖 [Something is shining green lasers down to Earth from space from satellites, this was near Hawaii](http://9gag.com/gag/aQEE9pw)
+ - 🚯 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
+ - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
 
 --- 
 
