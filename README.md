@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oops](http://9gag.com/gag/awZZn0Q)
- - 🚯 [That movie white noise just played out in Ohio with an airborne toxic event. Media black out, with distracting stories of ufos.](http://9gag.com/gag/aYVV4d0)
+ - 🚖 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
+ - 🚯 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
  - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
 
 --- 
