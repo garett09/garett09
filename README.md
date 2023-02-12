@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Andrew Santino as Joe Biden](http://9gag.com/gag/aGEE1xX)
- - 🚯 [Faith can move mountains in every direction](http://9gag.com/gag/aGEEDoZ)
- - 🚯 [Talk about fearless! This woman removing bees with her bare hands is a testament to her bravery and quick thinking. Who needs protective gear when you have nerves of steel?! \ud83d\udc1d #BeeRemoval #BareHanded](http://9gag.com/gag/a8qqpnO)<!-- MEMES:END -->
+ - 🚖 [The secret behind ChatGPT](http://9gag.com/gag/aqeeLz7)
+ - 🚯 [Can You Spot 10 Signs of a Childish Adult?](http://9gag.com/gag/a6qq7G9)
+ - 🚯 [Asking a fashion blogger a nuclear weapon question](http://9gag.com/gag/aoKK290)<!-- MEMES:END -->
 
 --- 
 
