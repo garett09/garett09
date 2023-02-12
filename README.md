@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
- - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
- - 🚯 [Feminists](http://9gag.com/gag/agoov26)<!-- MEMES:END -->
+ - 🚖 [Big Fan](http://9gag.com/gag/aNwwWKK)
+ - 🚯 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
+ - 🚯 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)<!-- MEMES:END -->
 
 --- 
 
