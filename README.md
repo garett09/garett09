@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
- - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)
- - 🚯 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)<!-- MEMES:END -->
+ - 🚖 [When opportunity knocks](http://9gag.com/gag/amAA9RX)
+ - 🚯 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
+ - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
 
 --- 
 
