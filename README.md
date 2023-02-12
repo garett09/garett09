@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best apps to learn Spanish on iPhone, iPad, or Mac](https://appleinsider.com/inside/ios/best/best-apps-to-learn-spanish-on-iphone-ipad-or-mac?utm_medium=rss)
- - [BenQ treVolo U review: Voice clarity and wireless freedom](https://appleinsider.com/articles/23/02/12/benq-trevolo-u-review-voice-clarity-and-wireless-freedom?utm_medium=rss)
- - [Daily deals Feb. 12: $15 off HomePod mini, 26% off M1 Pro 14-inch MacBook Pro, Giftcard bonuses, more](https://appleinsider.com/articles/23/02/12/daily-deals-feb-12-15-off-homepod-mini-26-off-m1-pro-14-inch-macbook-pro-giftcard-bonuses-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iPhone hardware subscription could arrive by March](https://appleinsider.com/articles/23/02/12/apples-iphone-hardware-subscription-could-arrive-by-march?utm_medium=rss)
+ - [I built a fully-connected smart home without breaking the bank, so can you](https://www.androidauthority.com/affordable-connected-smart-home-3261996/)
+ - [Man City vs. Aston Villa Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-aston-villa-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
