@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The secret behind ChatGPT](http://9gag.com/gag/aqeeLz7)
- - 🚯 [Can You Spot 10 Signs of a Childish Adult?](http://9gag.com/gag/a6qq7G9)
- - 🚯 [Asking a fashion blogger a nuclear weapon question](http://9gag.com/gag/aoKK290)<!-- MEMES:END -->
+ - 🚖 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
+ - 🚯 [Bro gambled his life](http://9gag.com/gag/ajVV62q)
+ - 🚯 [Feminists](http://9gag.com/gag/agoov26)<!-- MEMES:END -->
 
 --- 
 
