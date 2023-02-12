@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Military before psycho test existence](http://9gag.com/gag/ap990y9)
- - 🚯 [2013 when Tom Cruise made this lad follow him around with gas heater at Dublin premiere of Oblivion.](http://9gag.com/gag/aOxxy12)
- - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
+ - 🚖 [2013 when Tom Cruise made this lad follow him around with gas heater at Dublin premiere of Oblivion.](http://9gag.com/gag/aOxxy12)
+ - 🚯 [5 Black cops. No riots??](http://9gag.com/gag/aMEEbqV)
+ - 🚯 [Earthquake looters](http://9gag.com/gag/aMEE1pM)<!-- MEMES:END -->
 
 --- 
 
