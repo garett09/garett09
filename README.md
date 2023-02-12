@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Souls 3 joins the growing list of games with fun Unreal Engine 5 mockups](https://www.pcgamer.com/dark-souls-3-joins-the-growing-list-of-games-with-fun-unreal-engine-5-mockups)
- - [&#39;Mario Rap&#39; Makes Comeback In Super Mario Bros. Movie Super Bowl Commercial](https://kotaku.com/super-mario-bros-super-bowl-commercial-rap-halftime-1850105865)
- - [A remake of the first Atelier game is coming to Steam in summer 2023](https://www.pcgamer.com/a-remake-of-the-first-atelier-game-is-coming-to-steam-in-summer-2023)<!-- GAME:END -->
+ - [Here&#39;s a management game best described as &#39;terraform and chill&#39;](https://www.pcgamer.com/heres-a-management-game-best-described-as-terraform-and-chill)
+ - [EA Originals to publish more big-budget games as well as small indies](https://www.pcgamer.com/ea-originals-to-publish-more-big-budget-games-as-well-as-small-indies)
+ - [Finally, after 21 years, Morrowind meets my exacting standards of realism and immersion with this mod that adds footprints](https://www.pcgamer.com/finally-after-21-years-morrowind-meets-my-exacting-standards-of-realism-and-immersion-with-this-mod-that-adds-footprints)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
