@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [How a slowing digital ad market, Apple&#39;s ATT changes, tech companies&#39; internal turmoil, weak content moderation, and more are contributing to a junk ad epidemic &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/230212/p6#a230212p6)
- - [Don’t attempt this RGB Steam Deck mod just yet](https://www.theverge.com/2023/2/12/23596535/steam-deck-rgb-mod-warning)
- - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)<!-- TECH:END -->
+ - [Best and Worst TV and Movie Couples to Spend Valentine&#39;s Day With     - CNET](https://www.cnet.com/culture/best-and-worst-tv-and-movie-couples-to-spend-valentines-day-with/#ftag=CAD590a51e)
+ - [Watch 2023 Super Bowl Commercials Before the Big Game: Best Ads So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
