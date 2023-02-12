@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2013 when Tom Cruise made this lad follow him around with gas heater at Dublin premiere of Oblivion.](http://9gag.com/gag/aOxxy12)
- - 🚯 [5 Black cops. No riots??](http://9gag.com/gag/aMEEbqV)
- - 🚯 [Earthquake looters](http://9gag.com/gag/aMEE1pM)<!-- MEMES:END -->
+ - 🚖 [Big Fan](http://9gag.com/gag/aNwwWKK)
+ - 🚯 [Feminists](http://9gag.com/gag/agoov26)
+ - 🚯 [Is that.. ? It all seems like yesterday](http://9gag.com/gag/aNwwK10)<!-- MEMES:END -->
 
 --- 
 
