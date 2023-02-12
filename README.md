@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Russian Spacecraft Docked to ISS Has Sprung a Leak     - CNET](https://www.cnet.com/science/space/another-russian-spacecraft-docked-to-iss-has-sprung-a-leak/#ftag=CAD590a51e)
- - [Stock exchange data: Alibaba sold its remaining 3.16% Paytm stake for ~$167.14M, days after Paytm posted its first quarterly operating profit post IPO &lpar;Reuters&rpar;](http://www.techmeme.com/230212/p1#a230212p1)
- - [Best Smart Soundbar for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Creating trustworthy generative AI requires resources probably on the scale of what companies like Microsoft and Google possess, making them even more powerful &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230212/p3#a230212p3)
+ - [Google staff criticize company leadership over the Bard announcement, calling the unveil &quot;botched&quot;, &quot;myopic&quot;, and &quot;un-Googley&quot; on the internal forum Memegen &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230212/p2#a230212p2)
+ - [Another Russian Spacecraft Docked to ISS Has Sprung a Leak     - CNET](https://www.cnet.com/science/space/another-russian-spacecraft-docked-to-iss-has-sprung-a-leak/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
