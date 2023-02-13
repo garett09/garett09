@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Extinct No More: Sniffer Coming to Minecraft Update 1.20](https://news.xbox.com/en-us/2023/02/13/extinct-no-more-sniffer-coming-to-minecraft-update-1-20/)
- - [Overwatch 2 Valentine’s Day event brings back a Hanzo classic](https://www.polygon.com/23597760/overwatch-2-valentines-day-event-skins-dating-sim)
- - [Hbomberguy’s jump into comics chronicles the rise of history’s dumbest villain](https://www.polygon.com/23588329/hbomberguys-jump-into-comics-chronicles-the-rise-of-historys-dumbest-villain)<!-- GAME:END -->
+ - [You&#39;ve got 3 days left to play one of the best demos on Steam right now](https://www.pcgamer.com/youve-got-3-days-left-to-play-one-of-the-best-demos-on-steam-right-now)
+ - [Our reality has become one giant Amazon Fulfilment Center, says designer of this provocative game about the warehouse of the future](https://www.pcgamer.com/our-reality-has-become-one-giant-amazon-fulfilment-center-says-designer-of-this-provocative-game-about-the-warehouse-of-the-future)
+ - [The Witcher 3&#39;s next-gen vaginas are going away](https://www.pcgamer.com/the-witcher-3s-next-gen-vaginas-are-going-away)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
