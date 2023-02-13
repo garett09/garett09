@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 4 starts getting One UI 5.1](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
- - [Galaxy S23 software is here for older Samsung flagships &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)
- - [Sex educators, adult stars, and sex workers complain about Instagram, saying Meta&#39;s moderation has gotten more punitive and less predictable since SESTA-FOSTA &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/230213/p2#a230213p2)<!-- TECH:END -->
+ - [Nike&#39;s Vaporfly Racing Shoe Is Getting A Reboot](https://www.wired.com/story/nike-zoomx-vaporfly-next-3/)
+ - [Leaked Sony Xperia 1 V renders have us xperiencing déjà vu](https://www.theverge.com/2023/2/13/23597385/sony-xperia-1-v-leaked-renders-features-cameras-design-screen)
+ - [Publishers worry that Microsoft&#39;s and Google&#39;s search chatbots, which summarize key info from articles, may undermine their businesses and spread misinformation &lpar;Wired&rpar;](http://www.techmeme.com/230213/p4#a230213p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
