@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are just an idiot in car](http://9gag.com/gag/anzzypB)
- - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - 🚯 [Mike Tyson doing side quests](http://9gag.com/gag/ajVV9jq)<!-- MEMES:END -->
+ - 🚖 [Trash women wet dream](http://9gag.com/gag/az22mwb)
+ - 🚯 [Perfect](http://9gag.com/gag/aeQQDnQ)
+ - 🚯 [Outstanding moves](http://9gag.com/gag/aWGGxLA)<!-- MEMES:END -->
 
 --- 
 
