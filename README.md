@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Company of Heroes 3&#39;s Allied Forces represent the global effort to defeat the Nazis](https://www.pcgamer.com/company-of-heroes-3s-allied-forces-represent-the-global-effort-to-defeat-the-nazis)
- - [Double Fine just dropped a 22-hour documentary series on the making of Psychonauts 2](https://www.pcgamer.com/double-fine-just-dropped-a-22-hour-documentary-series-on-the-making-of-psychonauts-2)
- - [Warthog fistfights, barrel goblins, and wooden ghosts: This action-RPG is 10 times weirder than Elden Ring](https://www.pcgamer.com/warthog-fistfights-barrel-goblins-and-wooden-ghosts-this-action-rpg-is-10-times-weirder-than-elden-ring)<!-- GAME:END -->
+ - [Wild Hearts review-in-progress: Stuck in a monstrous shadow](https://www.pcgamer.com/wild-hearts-review-in-progress-stuck-in-a-monstrous-shadow)
+ - [Wild Hearts: Explaining Karakuri, the Unique Monster-Slaying Crafting System](https://news.xbox.com/en-us/2023/02/13/wild-hearts-explaining-karakuri/)
+ - [Wild Hearts combines Monster Hunter and Death Stranding into one excellent RPG](https://www.polygon.com/reviews/23594905/wild-hearts-review-monster-hunter-fortnite-death-stranding-kojima-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
