@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)
- - 🚯 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)
- - 🚯 [FBI open up](http://9gag.com/gag/aYVVLv7)<!-- MEMES:END -->
+ - 🚖 [Something is shining green lasers down to Earth from space from satellites, this was near Hawaii](http://9gag.com/gag/aQEE9pw)
+ - 🚯 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
+ - 🚯 [Highly confused](http://9gag.com/gag/a7qqwrx)<!-- MEMES:END -->
 
 --- 
 
