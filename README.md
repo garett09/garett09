@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ve got 3 days left to play one of the best demos on Steam right now](https://www.pcgamer.com/youve-got-3-days-left-to-play-one-of-the-best-demos-on-steam-right-now)
- - [Our reality has become one giant Amazon Fulfilment Center, says designer of this provocative game about the warehouse of the future](https://www.pcgamer.com/our-reality-has-become-one-giant-amazon-fulfilment-center-says-designer-of-this-provocative-game-about-the-warehouse-of-the-future)
- - [The Witcher 3&#39;s next-gen vaginas are going away](https://www.pcgamer.com/the-witcher-3s-next-gen-vaginas-are-going-away)<!-- GAME:END -->
+ - [The Last of Us’ Cordyceps nightmare is already at work in Batman comics](https://www.polygon.com/2023/2/13/23597540/cordyceps-batman-poison-ivy-comic)
+ - [The Batgirl cast is making Batgirl sound like a huge loss](https://www.polygon.com/23597690/batgirl-release-cast-brendan-fraser-leslie-grace-why-canceled)
+ - [Witcher 3 Vagina Modder Claims CDPR Used Mod Without Permission](https://kotaku.com/witcher-3-update-vagina-nexus-mods-permission-cdpr-1850109216)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
