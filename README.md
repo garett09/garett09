@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
- - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
+ - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - 🚯 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)<!-- MEMES:END -->
 
 --- 
 
