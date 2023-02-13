@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)
- - [Comcast Will Air Super Bowl 57 in 4K With Dolby Vision HDR for Xfinity Users     - CNET](https://www.cnet.com/tech/home-entertainment/comcast-will-air-super-bowl-57-in-4k-with-dolby-vision-hdr-for-xfinity-users/#ftag=CAD590a51e)
- - [How a slowing digital ad market, Apple&#39;s ATT changes, tech companies&#39; internal turmoil, weak content moderation, and more are contributing to a junk ad epidemic &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/230212/p6#a230212p6)<!-- TECH:END -->
+ - [&#39;The Flash&#39; Super Bowl Trailer Reveals Both Keaton and Affleck as Batman     - CNET](https://www.cnet.com/culture/entertainment/the-flash-super-bowl-trailer-reveals-both-keaton-and-affleck-as-batman/#ftag=CAD590a51e)
+ - [The Absolute Best Documentaries to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)
+ - [Sources: the SEC has told crypto firm Paxos it plans to sue the company, alleging the Binance USD token, which it issues and lists, is an unregistered security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p8#a230212p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
