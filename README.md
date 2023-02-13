@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us’ Cordyceps nightmare is already at work in Batman comics](https://www.polygon.com/2023/2/13/23597540/cordyceps-batman-poison-ivy-comic)
- - [The Batgirl cast is making Batgirl sound like a huge loss](https://www.polygon.com/23597690/batgirl-release-cast-brendan-fraser-leslie-grace-why-canceled)
- - [Witcher 3 Vagina Modder Claims CDPR Used Mod Without Permission](https://kotaku.com/witcher-3-update-vagina-nexus-mods-permission-cdpr-1850109216)<!-- GAME:END -->
+ - [The Transformers movies are one long Optimus Prime villain origin story](https://www.polygon.com/23574801/transformers-movies-evil-optimus-prime-villain)
+ - [Xbox Confirms That Game Pass Leads To ‘Decline’ In Sales](https://kotaku.com/xbox-game-pass-sales-decline-cma-report-activision-deal-1850109961)
+ - [Arrested Development is leaving Netflix soon](https://www.polygon.com/23598338/arrested-development-netflix-leaving-streaming-where)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
