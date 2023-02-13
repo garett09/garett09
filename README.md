@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marketplace Pulse: in a first, Amazon&#39;s average cut of each sale reached 51.8% in 2022, up from 48% in 2021, 45.8% in 2020, 40% in 2017, and 35.2% in 2016 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230213/p11#a230213p11)
- - [13 Best Face Masks We Actually Like to Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-face-masks/)
- - [Daily Deals Feb. 13: 14&quot; MacBook Pro $1,689, $200 off M2 MacBook Air, $500 off 27&quot; iMac  &amp; more](https://appleinsider.com/articles/23/02/13/daily-deals-feb-13-14-macbook-pro-1689-200-off-m2-macbook-air-500-off-27-imac-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple supplier Salcomp has big plans for India](https://appleinsider.com/articles/23/02/13/apple-supplier-salcomp-has-big-plans-for-india?utm_medium=rss)
+ - [Apple Watch Ultra dips to $729.99 with hidden Amazon discount](https://appleinsider.com/articles/23/02/13/apple-watch-ultra-dips-to-72999-with-hidden-amazon-discount?utm_medium=rss)
+ - [15.5-inch MacBook Air rumored to arrive in early April 2023](https://appleinsider.com/articles/23/02/13/155-inch-macbook-air-rumored-to-arrive-in-early-april-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
