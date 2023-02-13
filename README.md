@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult PC gaming icon &#39;Super Mario&#39; resurrects his &#39;80s rap classic in nostalgic Super Bowl ad](https://www.pcgamer.com/cult-pc-gaming-icon-super-mario-resurrects-his-80s-rap-classic-in-nostalgic-super-bowl-ad)
- - [Wordle hint and answer #604: Monday, February 13](https://www.pcgamer.com/wordle-hint-answer-today-604-february-13)
- - [Here&#39;s when Wild Hearts releases in your timezone and when you can start the EA Play First trial](https://www.pcgamer.com/wild-hearts-release-time)<!-- GAME:END -->
+ - [Double Fine just dropped a 22-hour documentary series on the making of Psychonauts 2](https://www.pcgamer.com/double-fine-just-dropped-a-22-hour-documentary-series-on-the-making-of-psychonauts-2)
+ - [Warthog fistfights, barrel goblins, and wooden ghosts: This action-RPG is 10 times weirder than Elden Ring](https://www.pcgamer.com/warthog-fistfights-barrel-goblins-and-wooden-ghosts-this-action-rpg-is-10-times-weirder-than-elden-ring)
+ - [Who needs FIFA? EA ‘closing in’ on deal with Premier League](https://www.polygon.com/23597413/fifa-ea-sports-fc-premier-league-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
