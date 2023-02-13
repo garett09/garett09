@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a management game best described as &#39;terraform and chill&#39;](https://www.pcgamer.com/heres-a-management-game-best-described-as-terraform-and-chill)
- - [EA Originals to publish more big-budget games as well as small indies](https://www.pcgamer.com/ea-originals-to-publish-more-big-budget-games-as-well-as-small-indies)
- - [Finally, after 21 years, Morrowind meets my exacting standards of realism and immersion with this mod that adds footprints](https://www.pcgamer.com/finally-after-21-years-morrowind-meets-my-exacting-standards-of-realism-and-immersion-with-this-mod-that-adds-footprints)<!-- GAME:END -->
+ - [Michael Keaton is back as Batman in The Flash, but wait, is that Christian Bale?](https://www.polygon.com/23597010/batman-michael-keaton-flash-movie-christian-bale)
+ - [Guardians of the Galaxy Vol. 3 trailer sets up a bittersweet goodbye](https://www.polygon.com/23597017/guardians-of-the-galaxy-vol-3-trailer-super-bowl-gotg3)
+ - [Transformers: Rise of Beasts trailer shows off Mirage and a few other Autobots](https://www.polygon.com/23597014/transformers-rise-of-beasts-trailer-beast-wars-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
