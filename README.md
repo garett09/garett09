@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Wireless Headphones &lpar;2023&rpar;: Earbuds, Noise Canceling, and More](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Citizen Scientists Show Light Pollution Erases Stars From the Sky](https://www.wired.com/story/citizen-scientists-show-light-pollution-erases-stars-from-the-sky/)
- - [&#39;Love in the Time of Fentanyl&#39; Tells the Whole Truth](https://www.wired.com/story/love-in-the-time-of-fentanyl-review/)<!-- TECH:END -->
+ - [Marketplace Pulse: in a first, Amazon&#39;s average cut of each sale reached 51.8% in 2022, up from 48% in 2021, 45.8% in 2020, 40% in 2017, and 35.2% in 2016 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230213/p11#a230213p11)
+ - [13 Best Face Masks We Actually Like to Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-face-masks/)
+ - [Daily Deals Feb. 13: 14&quot; MacBook Pro $1,689, $200 off M2 MacBook Air, $500 off 27&quot; iMac  &amp; more](https://appleinsider.com/articles/23/02/13/daily-deals-feb-13-14-macbook-pro-1689-200-off-m2-macbook-air-500-off-27-imac-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
