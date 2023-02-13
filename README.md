@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`..why can&#39;t I get an erection?!? Motherf](http://9gag.com/gag/a6qqOVA)
- - 🚯 [Ancient animals](http://9gag.com/gag/aOxxB82)
- - 🚯 [Highly confused](http://9gag.com/gag/a7qqwrx)<!-- MEMES:END -->
+ - 🚖 [Ancient animals](http://9gag.com/gag/aOxxB82)
+ - 🚯 [Best version](http://9gag.com/gag/aZDDyX3)
+ - 🚯 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)<!-- MEMES:END -->
 
 --- 
 
