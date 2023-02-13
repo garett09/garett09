@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There\u2019s a difference](http://9gag.com/gag/a7qqExm)
- - 🚯 [When you design something for a 2-year mission and that turns into 10.5 years. Kudos to the engineers!](http://9gag.com/gag/adPPVAD)
- - 🚯 [Perfect](http://9gag.com/gag/aeQQDnQ)<!-- MEMES:END -->
+ - 🚖 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
+ - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
+ - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
 
 --- 
 
