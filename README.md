@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim’s latest release — yes, we know — is an outstanding board game](https://www.polygon.com/23594254/skyrim-board-game-review-modiphius)
- - [Dead Island 2 celebrates going gold by changing its release date one last time, so now it&#39;s releasing a week earlier](https://www.pcgamer.com/dead-island-2-celebrates-going-gold-by-changing-its-release-date-one-last-time-so-now-its-releasing-a-week-earlier)
- - [Here&#39;s another good reason to keep your GeForce Experience software up to date](https://www.pcgamer.com/heres-another-good-reason-to-keep-your-geforce-experience-software-up-to-date)<!-- GAME:END -->
+ - [Your Favorite Voice Actors Call Out AI Sites Copying Voices Without Consent](https://kotaku.com/ai-voice-actors-steve-blum-elevenlabs-contracts-sell-1850108292)
+ - [Zelda: Tears Of The Kingdom Shot Has Fans Gushing About Graphics](https://kotaku.com/zelda-tears-kingdom-botw-2-graphics-improvements-1850108255)
+ - [The deepfake scam era begins with an AI-generated Joe Rogan pushing penis pills on TikTok](https://www.pcgamer.com/the-deepfake-scam-era-begins-with-an-ai-generated-joe-rogan-pushing-penis-pills-on-tiktok)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
