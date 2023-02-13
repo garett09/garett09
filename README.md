@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 33% on the Pixel 6a, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [Bakkt will shut down its consumer-facing crypto app on March 16, two years after debuting with launch partners including Starbucks, Best Buy, and Choice Hotels &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230213/p14#a230213p14)
- - [Apple supplier Salcomp has big plans for India](https://appleinsider.com/articles/23/02/13/apple-supplier-salcomp-has-big-plans-for-india?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT Bing trial expands to more users, iOS version on the way](https://appleinsider.com/articles/23/02/13/chatgpt-bing-trial-expands-to-more-users-ios-version-on-the-way?utm_medium=rss)
+ - [Ouster and Velodyne announce the &quot;completion of their merger of equals&quot;, further consolidating the lidar industry, which is key to Level 4 autonomous vehicles &lpar;Ed Garsten/Forbes&rpar;](http://www.techmeme.com/230213/p16#a230213p16)
+ - [M2 Pro Mac mini review: Best price to performance Apple Silicon yet](https://appleinsider.com/articles/23/02/13/m2-pro-mac-mini-review-best-price-to-performance-apple-silicon-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
