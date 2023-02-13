@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fixes Siri bug in tvOS 16.3.2 &amp; HomePod update](https://appleinsider.com/articles/23/02/13/apple-fixes-siri-bug-in-tvos-1632-homepod-update?utm_medium=rss)
- - [macOS Ventura 13.2.1 is here with bug fixes and improvements](https://appleinsider.com/articles/23/02/13/macos-ventura-1321-is-here-with-bug-fixes-and-improvements?utm_medium=rss)
- - [Carl Pei reviews the OnePlus 11, calls it ‘beautiful’ but has ‘no real identity’](https://www.androidauthority.com/oneplus-11-review-carl-pei-3282732/)<!-- TECH:END -->
+ - [A look at the growing torrent of deepfake porn harassment targeted at women, as a Twitch streamer gets caught and admits to buying deepfakes of fellow streamers &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230213/p18#a230213p18)
+ - [15.5-inch MacBook Air rumored to arrive in early April 2023](https://appleinsider.com/articles/23/02/13/155-inch-macbook-air-rumored-to-arrive-in-early-april-2023?utm_medium=rss)
+ - [Updated 24-inch iMac may not arrive until late 2023](https://appleinsider.com/articles/23/02/12/updated-24-inch-imac-may-not-arrive-until-late-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
