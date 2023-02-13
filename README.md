@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doggy Bathroom Review: An Expensive Bin for Your Pup&#39;s Business](https://www.wired.com/review/doggy-bathroom/)
- - [I Found My Chosen Family on Social Media](https://www.wired.com/story/instagram-chosen-family-social-media/)
- - [A look at Eindhoven, a small, low-rise Dutch city home to ASML, chipmaker NXP, and other tech companies, which was a focus as the US prepared to restrict China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/230213/p8#a230213p8)<!-- TECH:END -->
+ - [19 Best Wireless Headphones &lpar;2023&rpar;: Earbuds, Noise Canceling, and More](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Citizen Scientists Show Light Pollution Erases Stars From the Sky](https://www.wired.com/story/citizen-scientists-show-light-pollution-erases-stars-from-the-sky/)
+ - [&#39;Love in the Time of Fentanyl&#39; Tells the Whole Truth](https://www.wired.com/story/love-in-the-time-of-fentanyl-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
