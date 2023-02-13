@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
+ - 🚖 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
  - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - 🚯 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)<!-- MEMES:END -->
+ - 🚯 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)<!-- MEMES:END -->
 
 --- 
 
