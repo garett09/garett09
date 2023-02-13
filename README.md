@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing torrent of deepfake porn harassment targeted at women, as a Twitch streamer gets caught and admits to buying deepfakes of fellow streamers &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230213/p18#a230213p18)
- - [15.5-inch MacBook Air rumored to arrive in early April 2023](https://appleinsider.com/articles/23/02/13/155-inch-macbook-air-rumored-to-arrive-in-early-april-2023?utm_medium=rss)
- - [Updated 24-inch iMac may not arrive until late 2023](https://appleinsider.com/articles/23/02/12/updated-24-inch-imac-may-not-arrive-until-late-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will try to talk its way out of a $40 billion fine on Tuesday](https://appleinsider.com/articles/23/02/13/apple-will-try-to-talk-its-way-out-of-a-40-billion-fine-on-tuesday?utm_medium=rss)
+ - [&#39;Loverwatch&#39; Left Me Wishing for a Third First Date](https://www.wired.com/story/loverwatch-let-me-date-moira/)
+ - [Rigetti Computing names a new CTO and CFO and cuts 28% of its staff, as the quantum computing startup aims to finish its 84-qubit machine Ankaa this quarter &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230213/p20#a230213p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
