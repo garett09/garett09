@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
- - 🚯 [Oops](http://9gag.com/gag/awZZn0Q)
+ - 🚖 [Oops](http://9gag.com/gag/awZZn0Q)
+ - 🚯 [PC with perfect water cooling](http://9gag.com/gag/abvvYNr)
  - 🚯 [Please](http://9gag.com/gag/aoKK55g)<!-- MEMES:END -->
 
 --- 
