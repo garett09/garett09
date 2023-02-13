@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to plan your entire weekend around Rihanna’s Super Bowl halftime show](https://www.polygon.com/23592813/super-bowl-halftime-show-rihanna-how-watch-full-video)
- - [&#39;Trans Witches Are Witches&#39; game bundles raise over $79,000 in protest of Hogwarts Legacy](https://www.pcgamer.com/trans-witches-are-witches-game-bundles-raise-over-dollar79000-in-protest-of-hogwarts-legacy)
- - [The best Super Bowl commercials of 2023](https://www.polygon.com/23587790/best-super-bowl-commercials-2023-watch)<!-- GAME:END -->
+ - [Rihanna&#39;s Halftime Show Looked Like A Smash Bros. Stage](https://kotaku.com/rihanna-super-bowl-halftime-smash-bros-nintendo-nfl-1850106370)
+ - [The Super Mario Bros. Movie revives the Super Mario Bros. Super Show rap](https://www.polygon.com/23597125/super-mario-bros-movie-rap-commercial-easter-eggs)
+ - [Rihanna’s Super Bowl halftime show would make a great Super Smash Bros. stage](https://www.polygon.com/23597129/rihanna-super-bowl-halftime-show-super-smash-stage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
