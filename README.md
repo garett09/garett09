@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [C-Smash VRS reimagines Sega’s iconic futuristic sports puzzler for PS VR2, demo out next month](https://blog.playstation.com/2023/02/13/c-smash-vrs-reimagines-segas-iconic-futuristic-sports-puzzler-for-ps-vr2-demo-out-next-month/)
- - [Why is every character suddenly an ‘antihero’ now?](https://www.polygon.com/23589217/antiheroes-the-boys-batman-superman-buffy-spike-defined)
- - [The Day Before devs say a calendar app stole their trademark, YouTube is delisting their videos, and no doubt the dog&#39;s eyeing up their homework](https://www.pcgamer.com/the-day-before-devs-say-a-calendar-app-stole-their-trademark-youtube-is-delisting-their-videos-and-no-doubt-the-dogs-eyeing-up-their-homework)<!-- GAME:END -->
+ - [Skyrim’s latest release — yes, we know — is an outstanding board game](https://www.polygon.com/23594254/skyrim-board-game-review-modiphius)
+ - [Dead Island 2 celebrates going gold by changing its release date one last time, so now it&#39;s releasing a week earlier](https://www.pcgamer.com/dead-island-2-celebrates-going-gold-by-changing-its-release-date-one-last-time-so-now-its-releasing-a-week-earlier)
+ - [Here&#39;s another good reason to keep your GeForce Experience software up to date](https://www.pcgamer.com/heres-another-good-reason-to-keep-your-geforce-experience-software-up-to-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
