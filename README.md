@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will try to talk its way out of a $40 billion fine on Tuesday](https://appleinsider.com/articles/23/02/13/apple-will-try-to-talk-its-way-out-of-a-40-billion-fine-on-tuesday?utm_medium=rss)
- - [&#39;Loverwatch&#39; Left Me Wishing for a Third First Date](https://www.wired.com/story/loverwatch-let-me-date-moira/)
- - [Rigetti Computing names a new CTO and CFO and cuts 28% of its staff, as the quantum computing startup aims to finish its 84-qubit machine Ankaa this quarter &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230213/p20#a230213p20)<!-- TECH:END -->
+ - [Netflix Standard vs Premium: Which upper-tier subscription is for you?](https://www.androidauthority.com/netflix-standard-vs-premium-3282785/)
+ - [Rewatch Rihanna&#39;s Super Bowl Halftime Show Right Here     - CNET](https://www.cnet.com/culture/entertainment/rewatch-rihannas-super-bowl-halftime-show-right-here/#ftag=CAD590a51e)
+ - [Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230213/p23#a230213p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
