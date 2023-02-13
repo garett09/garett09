@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple supplier Salcomp has big plans for India](https://appleinsider.com/articles/23/02/13/apple-supplier-salcomp-has-big-plans-for-india?utm_medium=rss)
- - [Apple Watch Ultra dips to $729.99 with hidden Amazon discount](https://appleinsider.com/articles/23/02/13/apple-watch-ultra-dips-to-72999-with-hidden-amazon-discount?utm_medium=rss)
- - [15.5-inch MacBook Air rumored to arrive in early April 2023](https://appleinsider.com/articles/23/02/13/155-inch-macbook-air-rumored-to-arrive-in-early-april-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Save 33% on the Pixel 6a, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Bakkt will shut down its consumer-facing crypto app on March 16, two years after debuting with launch partners including Starbucks, Best Buy, and Choice Hotels &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230213/p14#a230213p14)
+ - [Apple supplier Salcomp has big plans for India](https://appleinsider.com/articles/23/02/13/apple-supplier-salcomp-has-big-plans-for-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
