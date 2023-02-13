@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - 🚯 [Cat doing CPR to his human and brought him back to life](http://9gag.com/gag/aREE7p5)
- - 🚯 [Sigourney Weaver at 73 vs Madonna at 64. Age gracefully, it\u2019s more pleasant for the eyes](http://9gag.com/gag/a9qqK4W)<!-- MEMES:END -->
+ - 🚖 [American officer with nuclear briefcase during Ronald Raegan visit in Moscow, 1988](http://9gag.com/gag/amAA2RX)
+ - 🚯 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
+ - 🚯 [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)<!-- MEMES:END -->
 
 --- 
 
