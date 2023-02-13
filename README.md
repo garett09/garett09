@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ancient animals](http://9gag.com/gag/aOxxB82)
- - 🚯 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
- - 🚯 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
+ - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
+ - 🚯 [Splash 1](http://9gag.com/gag/aKEE7vj)<!-- MEMES:END -->
 
 --- 
 
