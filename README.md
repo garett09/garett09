@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something is shining green lasers down to Earth from space from satellites, this was near Hawaii](http://9gag.com/gag/aQEE9pw)
- - 🚯 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
- - 🚯 [Highly confused](http://9gag.com/gag/a7qqwrx)<!-- MEMES:END -->
+ - 🚖 [Penalti in a practice shot](http://9gag.com/gag/a5XXRwL)
+ - 🚯 [In this scene snap only deflects McGonagalls attack to disarm the two behind him. Doesn&#39;t cast a single spell to attack. Upon seeing her attack he seems hurt. What a perfect spy who always was on the right side.](http://9gag.com/gag/aWGGYo4)
+ - 🚯 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)<!-- MEMES:END -->
 
 --- 
 
