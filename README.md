@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
- - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - 🚯 [Splash 1](http://9gag.com/gag/aKEE7vj)<!-- MEMES:END -->
+ - 🚖 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
+ - 🚯 [Highly confused](http://9gag.com/gag/a7qqwrx)
+ - 🚯 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)<!-- MEMES:END -->
 
 --- 
 
