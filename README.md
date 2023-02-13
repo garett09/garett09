@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike&#39;s Vaporfly Racing Shoe Is Getting A Reboot](https://www.wired.com/story/nike-zoomx-vaporfly-next-3/)
- - [Leaked Sony Xperia 1 V renders have us xperiencing déjà vu](https://www.theverge.com/2023/2/13/23597385/sony-xperia-1-v-leaked-renders-features-cameras-design-screen)
- - [Publishers worry that Microsoft&#39;s and Google&#39;s search chatbots, which summarize key info from articles, may undermine their businesses and spread misinformation &lpar;Wired&rpar;](http://www.techmeme.com/230213/p4#a230213p4)<!-- TECH:END -->
+ - [Razer Blade 18 review: gigantic QHD, 16:10, 240Hz display, upgradeable RAM and SSD, and lots of power, but incredibly pricey at $3,800 and mediocre battery life &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230213/p7#a230213p7)
+ - [Nomad Modern Leather Case review: Elegant protection for AirPods Pro 2](https://appleinsider.com/articles/23/02/13/nomad-modern-leather-case-review-elegant-protection-for-airpods-pro-2?utm_medium=rss)
+ - [A look at Andy Jassy&#39;s challenges running Amazon, down by $1T in market cap since he took over: cutting costs, layoffs, boosting Prime subscribers, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230213/p6#a230213p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
