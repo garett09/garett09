@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel reportedly seeking even more government funding for new German fab](https://www.pcgamer.com/intel-reportedly-seeking-even-more-government-funding-for-new-german-fab)
- - [This polar survival management sim is based on real historical horrors](https://www.pcgamer.com/this-polar-survival-management-sim-is-based-on-real-historical-horrors)
- - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)<!-- GAME:END -->
+ - [Wordle hint and answer #604: Monday, February 13](https://www.pcgamer.com/wordle-hint-answer-today-604-february-13)
+ - [Here&#39;s when Wild Hearts releases in your timezone and when you can start the EA Play First trial](https://www.pcgamer.com/wild-hearts-release-time)
+ - [Intel reportedly seeking even more government funding for new German fab](https://www.pcgamer.com/intel-reportedly-seeking-even-more-government-funding-for-new-german-fab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
