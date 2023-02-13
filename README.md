@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wild Hearts review-in-progress: Stuck in a monstrous shadow](https://www.pcgamer.com/wild-hearts-review-in-progress-stuck-in-a-monstrous-shadow)
- - [Wild Hearts: Explaining Karakuri, the Unique Monster-Slaying Crafting System](https://news.xbox.com/en-us/2023/02/13/wild-hearts-explaining-karakuri/)
- - [Wild Hearts combines Monster Hunter and Death Stranding into one excellent RPG](https://www.polygon.com/reviews/23594905/wild-hearts-review-monster-hunter-fortnite-death-stranding-kojima-release-date)<!-- GAME:END -->
+ - [C-Smash VRS reimagines Sega’s iconic futuristic sports puzzler for PS VR2, demo out next month](https://blog.playstation.com/2023/02/13/c-smash-vrs-reimagines-segas-iconic-futuristic-sports-puzzler-for-ps-vr2-demo-out-next-month/)
+ - [Why is every character suddenly an ‘antihero’ now?](https://www.polygon.com/23589217/antiheroes-the-boys-batman-superman-buffy-spike-defined)
+ - [The Day Before devs say a calendar app stole their trademark, YouTube is delisting their videos, and no doubt the dog&#39;s eyeing up their homework](https://www.pcgamer.com/the-day-before-devs-say-a-calendar-app-stole-their-trademark-youtube-is-delisting-their-videos-and-no-doubt-the-dogs-eyeing-up-their-homework)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
