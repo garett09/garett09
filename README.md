@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dropping a camera to the bottom of Antarctica](http://9gag.com/gag/aYVVLMx)
- - 🚯 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
- - 🚯 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)<!-- MEMES:END -->
+ - 🚖 [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
+ - 🚯 [Oops](http://9gag.com/gag/awZZn0Q)
+ - 🚯 [Please](http://9gag.com/gag/aoKK55g)<!-- MEMES:END -->
 
 --- 
 
