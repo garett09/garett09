@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s next flagship ups camera resolution, keeps headphone jack even in 2023](https://www.androidauthority.com/sony-xperia-1-v-renders-specs-3282458/)
  - [How to Rewatch Rihanna&#39;s Spectacular Super Bowl Halftime Show     - CNET](https://www.cnet.com/culture/entertainment/how-to-rewatch-rihannas-spectacular-super-bowl-halftime-show/#ftag=CAD590a51e)
- - [Watch This Masterpiece on Netflix Before It&#39;s Too Late     - CNET](https://www.cnet.com/culture/entertainment/watch-this-masterpiece-on-netflix-before-its-too-late/#ftag=CAD590a51e)
- - [More People Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watch This Masterpiece on Netflix Before It&#39;s Too Late     - CNET](https://www.cnet.com/culture/entertainment/watch-this-masterpiece-on-netflix-before-its-too-late/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
