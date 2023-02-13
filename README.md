@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Blade 18 review: gigantic QHD, 16:10, 240Hz display, upgradeable RAM and SSD, and lots of power, but incredibly pricey at $3,800 and mediocre battery life &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230213/p7#a230213p7)
- - [Nomad Modern Leather Case review: Elegant protection for AirPods Pro 2](https://appleinsider.com/articles/23/02/13/nomad-modern-leather-case-review-elegant-protection-for-airpods-pro-2?utm_medium=rss)
- - [A look at Andy Jassy&#39;s challenges running Amazon, down by $1T in market cap since he took over: cutting costs, layoffs, boosting Prime subscribers, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230213/p6#a230213p6)<!-- TECH:END -->
+ - [Doggy Bathroom Review: An Expensive Bin for Your Pup&#39;s Business](https://www.wired.com/review/doggy-bathroom/)
+ - [I Found My Chosen Family on Social Media](https://www.wired.com/story/instagram-chosen-family-social-media/)
+ - [A look at Eindhoven, a small, low-rise Dutch city home to ASML, chipmaker NXP, and other tech companies, which was a focus as the US prepared to restrict China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/230213/p8#a230213p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
