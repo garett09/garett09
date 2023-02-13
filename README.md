@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Bing trial expands to more users, iOS version on the way](https://appleinsider.com/articles/23/02/13/chatgpt-bing-trial-expands-to-more-users-ios-version-on-the-way?utm_medium=rss)
- - [Ouster and Velodyne announce the &quot;completion of their merger of equals&quot;, further consolidating the lidar industry, which is key to Level 4 autonomous vehicles &lpar;Ed Garsten/Forbes&rpar;](http://www.techmeme.com/230213/p16#a230213p16)
- - [M2 Pro Mac mini review: Best price to performance Apple Silicon yet](https://appleinsider.com/articles/23/02/13/m2-pro-mac-mini-review-best-price-to-performance-apple-silicon-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Apple fixes Siri bug in tvOS 16.3.2 &amp; HomePod update](https://appleinsider.com/articles/23/02/13/apple-fixes-siri-bug-in-tvos-1632-homepod-update?utm_medium=rss)
+ - [macOS Ventura 13.2.1 is here with bug fixes and improvements](https://appleinsider.com/articles/23/02/13/macos-ventura-1321-is-here-with-bug-fixes-and-improvements?utm_medium=rss)
+ - [Carl Pei reviews the OnePlus 11, calls it ‘beautiful’ but has ‘no real identity’](https://www.androidauthority.com/oneplus-11-review-carl-pei-3282732/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
