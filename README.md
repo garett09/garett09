@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wild Logistics of Rihanna&#39;s Super Bowl Halftime Show](https://www.wired.com/story/super-bowl-rihanna-halftime-tech-flying/)
- - [Watch 2023 Super Bowl Ads: All the Best Commercials So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)
- - [Chiefs&#39; Travis Kelce Scores With &#39;Stanky Leg&#39; Super Bowl Dance     - CNET](https://www.cnet.com/culture/entertainment/chiefs-travis-kelce-scores-with-stanky-leg-super-bowl-dance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
+ - [A Stanford student used a prompt injection attack to reveal Bing Chat&#39;s codename Sydney and its initial prompt that governs how the service interacts with users &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230212/p9#a230212p9)
+ - [Look What ChatGPT Did to My Online Dating Profile     - CNET](https://www.cnet.com/culture/internet/look-what-chatgpt-did-to-my-online-dating-profile/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
