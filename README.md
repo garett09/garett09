@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trash women wet dream](http://9gag.com/gag/az22mwb)
- - 🚯 [Perfect](http://9gag.com/gag/aeQQDnQ)
- - 🚯 [Outstanding moves](http://9gag.com/gag/aWGGxLA)<!-- MEMES:END -->
+ - 🚖 [Ancient animals](http://9gag.com/gag/aOxxB82)
+ - 🚯 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
+ - 🚯 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 --- 
 
