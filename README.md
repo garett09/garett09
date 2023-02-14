@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dreams: Your final nominees for the 4th Annual Impy Awards](https://blog.playstation.com/2023/02/14/dreams-your-final-nominees-for-the-4th-annual-impy-awards/)
- - [Yu-Gi-Oh! Master Duel Celebrates Its First Anniversary on Xbox – Now is a Great Time to Duel](https://news.xbox.com/en-us/2023/02/14/yu-gi-oh-master-duel-celebrates-its-first-anniversary-on-xbox-now-is-a-great-time-to-duel/)
- - [Ant-Man and the Wasp: Quantumania goes too big and too small at the same time](https://www.polygon.com/reviews/23597532/ant-man-wasp-quantumania-review-mcu)<!-- GAME:END -->
+ - [Valiant: A New World of Tanks Season Arrives with Bold Rewards](https://news.xbox.com/en-us/2023/02/14/valiant-a-new-world-of-tanks-season-arrives-with-bold-rewards/)
+ - [Mick Gordon is donating his fee for Atomic Heart to humanitarian aid for Ukraine](https://www.pcgamer.com/mick-gordon-is-donating-his-fee-for-atomic-heart-to-humanitarian-aid-for-ukraine)
+ - [How to learn Avada Kedavra in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23599230/avada-kedavra-killing-unforgivable-curse-quest-sebastian-sallow-consequences-shadow-relic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
