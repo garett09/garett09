@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you sacrifice wireless charging on a flagship if it has fast wired charging?](https://www.androidauthority.com/wireless-charging-poll-3283119/)
- - [NFT marketplace Magic Eden partners with payments service MoonPay to let users buy digital collectibles using credit or debit cards, Apple Pay, or Google Pay &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230214/p8#a230214p8)
- - [Amazon CEO Andy Jassy says the company plans to &quot;go big&quot; on physical retail stores in 2023, blaming a lack of &quot;normalcy&quot; during the pandemic for its stumbles &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230214/p7#a230214p7)<!-- TECH:END -->
+ - [The Galaxy S23 series is off to an encouraging start](https://www.androidauthority.com/samsung-galaxy-s23-pre-sales-performance-3283144/)
+ - [Keanu Reeves Will Never Surrender to the Machines](https://www.wired.com/story/keanu-reeves-chad-stahelski-interview/)
+ - [A look at Eric Schmidt-backed startup Ishtari, which uses machine learning to virtually assemble and test war machines from computer models of each component &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230214/p11#a230214p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
