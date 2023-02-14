@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Modi administration&#39;s attempts to strengthen government control over the internet in India and its battle with Big Tech, which keeps giving in &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/230214/p5#a230214p5)
- - [It’s not just you: Google Photos is broken on the latest iOS update](https://www.androidauthority.com/google-photos-broken-ios-update-3283062/)
- - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can you sacrifice wireless charging on a flagship if it has fast wired charging?](https://www.androidauthority.com/wireless-charging-poll-3283119/)
+ - [NFT marketplace Magic Eden partners with payments service MoonPay to let users buy digital collectibles using credit or debit cards, Apple Pay, or Google Pay &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230214/p8#a230214p8)
+ - [Amazon CEO Andy Jassy says the company plans to &quot;go big&quot; on physical retail stores in 2023, blaming a lack of &quot;normalcy&quot; during the pandemic for its stumbles &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230214/p7#a230214p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
