@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)<!-- MEMES:END -->
+ - 🚖 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)
+ - 🚯 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
+ - 🚯 [Russians play warcrimes like others play golf...](http://9gag.com/gag/aA00bwo)<!-- MEMES:END -->
 
 --- 
 
