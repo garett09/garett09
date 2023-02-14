@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s India production dream hindered by low yields and a lack of urgency](https://appleinsider.com/articles/23/02/14/apples-india-production-dream-hindered-by-low-yields-and-a-lack-of-urgency?utm_medium=rss)
- - [Apple Watch Crash Detection leads medics to car thrown 60 feet below road](https://appleinsider.com/articles/23/02/14/apple-watch-crash-detection-leads-medics-to-car-thrown-60-feet-below-road?utm_medium=rss)
- - [Bitcoin Investors Are Plotting a Major Coup](https://www.wired.com/story/crypto-bitcoin-grayscale-coup/)<!-- TECH:END -->
+ - [Sources detail tensions during the US-TikTok negotiations over the Chinese government&#39;s role and influence, including a possible veto over a future deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230214/p15#a230214p15)
+ - [Samsung Galaxy S23 Ultra review: The boss of Android](https://www.androidauthority.com/samsung-galaxy-s23-ultra-review-3280337/)
+ - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
