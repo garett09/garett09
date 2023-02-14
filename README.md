@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail tensions during the US-TikTok negotiations over the Chinese government&#39;s role and influence, including a possible veto over a future deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230214/p15#a230214p15)
- - [Samsung Galaxy S23 Ultra review: The boss of Android](https://www.androidauthority.com/samsung-galaxy-s23-ultra-review-3280337/)
- - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)<!-- TECH:END -->
+ - [Gigi Sohn returns to Congress for a third try at securing empty FCC chair](https://www.theverge.com/2023/2/14/23599075/gigi-sohn-fcc-net-neutrality-broadband-midterms-biden-white-house)
+ - [Tuesday’s top tech news: A trio of breakages](https://www.theverge.com/2023/2/14/23598998/february-14-2023-tech-news-liveblog)
+ - [Sources detail tensions during the US-TikTok negotiations over the Chinese government&#39;s role and influence, including a possible veto over a future deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230214/p15#a230214p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
