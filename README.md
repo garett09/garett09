@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These anime about grown-up love get under your skin](https://www.polygon.com/23598350/romance-anime-adults-ghibli)
- - [When does Modern Warfare 2 and Warzone 2.0 season 2 launch?](https://www.polygon.com/guides/2023/2/14/23599035/call-of-duty-mw2-warzone-season-2-release-time-changes)
- - [The damage has been done to Samsung&#39;s sickly 990 Pro SSDs despite the new firmware fix](https://www.pcgamer.com/the-damage-has-been-done-to-samsungs-sickly-990-pro-ssds-despite-the-new-firmware-fix)<!-- GAME:END -->
+ - [Halo dropped the ball on Cortana’s villainous turn](https://www.polygon.com/23561086/cortana-halo-villain-twist)
+ - [Call of Duty: Modern Warfare 2&#39;s going to give the best player in the world a one-of-a-kind prize](https://www.pcgamer.com/call-of-duty-modern-warfare-2s-going-to-give-the-best-player-in-the-world-a-one-of-a-kind-prize)
+ - [10 of Xbox’s Most Romantic Moments](https://news.xbox.com/en-us/2023/02/14/valentines-day-most-romantic-moments-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
