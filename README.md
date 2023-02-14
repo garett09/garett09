@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neeva debuts AI search tool NeevaAI, which provides real-time info with citations and works &quot;pretty impressively&quot;, in Europe and Canada, following a US launch &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230213/p30#a230213p30)
- - [Bigscreen unveils Bigscreen Beyond, a $999 PC-powered wired VR headset with two OLED 2560&amp;times;2560 displays, a 127g visor, and SteamVR tracking, shipping in Q3 2023 &lpar;Ian Hamilton/UploadVR&rpar;](http://www.techmeme.com/230213/p29#a230213p29)
- - [If Google Photos is broken for you on iOS, you’re not alone](https://www.theverge.com/2023/2/13/23598709/google-photos-ios-16-3-1-crash-broken)<!-- TECH:END -->
+ - [India-based insurance marketplace InsuranceDekho raised a $150M Series A, including $40M in debt, source says at a $475M-$500M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230213/p32#a230213p32)
+ - [Former Gemini Trust Chief Operating Officer Noah Perlman joined Binance in January 2023 as its chief compliance officer, in time for a US regulatory squeeze &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230213/p31#a230213p31)
+ - [Neeva expands its AI search tool NeevaAI, which provides real-time info with citations, to logged-in users in Europe and Canada, after a US launch in January &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230213/p30#a230213p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
