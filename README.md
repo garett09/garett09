@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audiobook narrators complain Apple may have used them to train AI voices](https://appleinsider.com/articles/23/02/14/audiobook-narrators-complain-apple-may-have-used-them-to-train-ai-voices?utm_medium=rss)
- - [GitHub announces that Copilot for Business, the company&#39;s $19/month enterprise version of its AI-powered code completion tool, is now generally available &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230214/p26#a230214p26)
- - [Hyundai and Kia are offering free anti-theft software updates for 8M+ vehicles, after hundreds of car thefts inspired by the viral &quot;Kia Challenge&quot; on TikTok &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230214/p25#a230214p25)<!-- TECH:END -->
+ - [Q&amp;A with Mozilla CEO Mitchell Baker on the company&#39;s history, battling Microsoft, working with rivals, generative AI, Apple&#39;s WebKit, iOS, Chrome, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230214/p28#a230214p28)
+ - [Dating Apps Crack Down on Romance Scammers](https://www.wired.com/story/dating-apps-tools-to-thwart-scams/)
+ - [Tuesday’s top tech news: a trio of breakages](https://www.theverge.com/2023/2/14/23598998/february-14-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
