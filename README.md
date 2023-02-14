@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo dropped the ball on Cortana’s villainous turn](https://www.polygon.com/23561086/cortana-halo-villain-twist)
- - [Call of Duty: Modern Warfare 2&#39;s going to give the best player in the world a one-of-a-kind prize](https://www.pcgamer.com/call-of-duty-modern-warfare-2s-going-to-give-the-best-player-in-the-world-a-one-of-a-kind-prize)
- - [10 of Xbox’s Most Romantic Moments](https://news.xbox.com/en-us/2023/02/14/valentines-day-most-romantic-moments-gaming/)<!-- GAME:END -->
+ - [Dreams: Your final nominees for the 4th Annual Impy Awards](https://blog.playstation.com/2023/02/14/dreams-your-final-nominees-for-the-4th-annual-impy-awards/)
+ - [Yu-Gi-Oh! Master Duel Celebrates Its First Anniversary on Xbox – Now is a Great Time to Duel](https://news.xbox.com/en-us/2023/02/14/yu-gi-oh-master-duel-celebrates-its-first-anniversary-on-xbox-now-is-a-great-time-to-duel/)
+ - [Ant-Man and the Wasp: Quantumania goes too big and too small at the same time](https://www.polygon.com/reviews/23597532/ant-man-wasp-quantumania-review-mcu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
