@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Changes Are Coming To Destiny 2 In Lightfall And Beyond](https://kotaku.com/destiny-2-lightfall-final-shape-exotics-power-crafting-1850110225)
- - [The Transformers movies are one long Optimus Prime villain origin story](https://www.polygon.com/23574801/transformers-movies-evil-optimus-prime-villain)
- - [Xbox Confirms That Game Pass Leads To ‘Decline’ In Sales](https://kotaku.com/xbox-game-pass-sales-decline-cma-report-activision-deal-1850109961)<!-- GAME:END -->
+ - [Bungie Accidentally Showcases AI-Generated Destiny Image, Asks For Help Spotting Them](https://kotaku.com/bungie-destiny-ai-art-generated-image-midjourney-1850110190)
+ - [Hogwarts Legacy best talents: How to build your wizard](https://www.pcgamer.com/hogwarts-legacy-best-talents)
+ - [This desolate action-RPG about a city at the end of time is 11 years in the making](https://www.pcgamer.com/this-desolate-action-rpg-11-years-in-the-making-about-a-city-at-the-end-of-time-is-doing-incredible-things-with-pixel-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
