@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frictional has a new &#39;SOMA-style&#39; game quietly in the works](https://www.pcgamer.com/frictional-has-a-new-soma-style-game-quietly-in-the-works)
- - [Kevin Conroy found recording the Arkham games frustrating: &#39;‘What the f**k do they want me to say?’](https://www.pcgamer.com/kevin-conroy-found-recording-the-arkham-games-frustrating-what-the-fk-do-they-want-me-to-say)
- - [Where to find Troll Bogeys in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-troll-bogeys)<!-- GAME:END -->
+ - [Boyfriend Dungeon out today, learn Do’s and Don’ts of dating your weapon](https://blog.playstation.com/2023/02/14/boyfriend-dungeon-out-today-learn-dos-and-donts-of-dating-your-weapon/)
+ - [The most batshit video game of 2023 is already here](https://www.polygon.com/reviews/23598212/wanted-dead-review-steam-xbox-ps5)
+ - [Frictional has a new &#39;SOMA-style&#39; game quietly in the works](https://www.pcgamer.com/frictional-has-a-new-soma-style-game-quietly-in-the-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
