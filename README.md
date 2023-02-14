@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Jigsaw plans to test video ads in Germany to &quot;prebunk&quot; misinformation, after promising results with a pilot project in Poland, Czechia, and Slovakia &lpar;David Klepper/Associated Press&rpar;](http://www.techmeme.com/230213/p35#a230213p35)
- - [E-book pirate site Z-Library relaunches with unique domain names for each user, after the US DOJ seized 200+ domain names connected to the site in November 2022 &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230213/p34#a230213p34)
- - [Amazon&#39;s Zoox says its fully autonomous vehicle carried staff between its two main buildings in Foster City, California on public roads for the first time &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/230213/p33#a230213p33)<!-- TECH:END -->
+ - [Here’s how Android 14 will play nicely with third-party app stores](https://www.androidauthority.com/android-14-third-party-app-stores-3283004/)
+ - [Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230214/p2#a230214p2)
+ - [Samsung rolls out One UI 5.1 for Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
