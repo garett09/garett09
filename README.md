@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The femme fatale is never more fatal than in sci-fi](https://www.polygon.com/23584915/sci-fi-neo-noir-movies-femme-fatales)
- - [Wordle hint and answer #605: Tuesday, February 14](https://www.pcgamer.com/wordle-hint-answer-today-605-february-14)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/13/this-weeks-deals-with-gold-and-spotlight-sale-262/)<!-- GAME:END -->
+ - [WoW player hits level cap without even arriving at the starting area in 200-day grinding ordeal](https://www.pcgamer.com/wow-player-hits-level-cap-without-even-arriving-at-the-starting-area-in-200-day-grinding-ordeal)
+ - [This city builder lets you build a civilisation on the back of a space whale with its own &#39;desires and agenda&#39;](https://www.pcgamer.com/this-city-builder-lets-you-build-a-civilisation-on-the-back-of-a-space-whale-with-its-own-desires-and-agenda)
+ - [Motherboard sales dropped by as much as 55% in 2022](https://www.pcgamer.com/motherboard-sales-dropped-by-as-much-as-55-in-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
