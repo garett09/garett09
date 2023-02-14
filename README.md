@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
+ - 🚖 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
  - 🚯 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)
- - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
+ - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
 
 --- 
 
