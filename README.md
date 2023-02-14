@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - 🚯 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
- - 🚯 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)<!-- MEMES:END -->
+ - 🚖 [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)<!-- MEMES:END -->
 
 --- 
 
