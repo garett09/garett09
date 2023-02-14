@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)<!-- MEMES:END -->
+ - 🚖 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
+ - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)
+ - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
 
 --- 
 
