@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happened?](http://9gag.com/gag/a1PPRGb)
- - 🚯 [Ohio](http://9gag.com/gag/amAAoLv)
- - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
+ - 🚖 [For the gentleman on the go](http://9gag.com/gag/a5XXX0O)
+ - 🚯 [Why not?](http://9gag.com/gag/a6qqDQ9)
+ - 🚯 [I can imagine the pain](http://9gag.com/gag/aEqq04O)<!-- MEMES:END -->
 
 --- 
 
