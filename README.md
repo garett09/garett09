@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s actively working on the next Tom Holland Spider-Man movie](https://www.polygon.com/23599714/marvel-new-tom-holland-spider-man-movie)
- - [Which Disney couples would survive their happily ever afters, ranked](https://www.polygon.com/23594979/best-disney-couples-princess-valentines-day)
- - [New Tomb Raider Is Sorta Like Vampire Survivors With Bad Microtransactions](https://kotaku.com/tomb-raider-reloaded-vampire-survivors-ios-android-1850113591)<!-- GAME:END -->
+ - [MLB The Show 23’s Negro Leagues Feature is the Start of a Powerful Multi-Year Journey](https://news.xbox.com/en-us/2023/02/14/mlb-the-show-23-negro-leagues-feature/)
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
+ - [Marvel’s actively working on the next Tom Holland Spider-Man movie](https://www.polygon.com/23599714/marvel-new-tom-holland-spider-man-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
