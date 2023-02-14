@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Boyfriend Dungeon out today, learn Do’s and Don’ts of dating your weapon](https://blog.playstation.com/2023/02/14/boyfriend-dungeon-out-today-learn-dos-and-donts-of-dating-your-weapon/)
- - [The most batshit video game of 2023 is already here](https://www.polygon.com/reviews/23598212/wanted-dead-review-steam-xbox-ps5)
- - [Frictional has a new &#39;SOMA-style&#39; game quietly in the works](https://www.pcgamer.com/frictional-has-a-new-soma-style-game-quietly-in-the-works)<!-- GAME:END -->
+ - [These anime about grown-up love get under your skin](https://www.polygon.com/23598350/romance-anime-adults-ghibli)
+ - [When does Modern Warfare 2 and Warzone 2.0 season 2 launch?](https://www.polygon.com/guides/2023/2/14/23599035/call-of-duty-mw2-warzone-season-2-release-time-changes)
+ - [The damage has been done to Samsung&#39;s sickly 990 Pro SSDs despite the new firmware fix](https://www.pcgamer.com/the-damage-has-been-done-to-samsungs-sickly-990-pro-ssds-despite-the-new-firmware-fix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
