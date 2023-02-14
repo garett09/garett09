@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Geekbench 6 interview: It’s a big improvement over its predecessor](https://www.androidauthority.com/geekbench-6-interview-3283050/)
- - [Geekbench 6: What you need to know about the next-generation benchmark](https://www.androidauthority.com/geekbench-6-3282480/)
- - [5 Best Water Leak Detectors &lpar;2023&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
+ - [DARPA says its Air Combat Evolution developers used AI to successfully fly a modified F-16 test aircraft multiple times in December 2022 &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230214/p18#a230214p18)
+ - [Audiobook Narrators Fear Spotify Used Their Voices to Train AI](https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/)
+ - [Cisco brings 0% financing for iPad bundles to enterprise partners](https://appleinsider.com/articles/23/02/14/cisco-brings-0-financing-for-ipad-bundles-to-enterprise-partners?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
