@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - 🚯 [Hunt saboteurs refuse to move off private property, huntsman jumps gate anyways](http://9gag.com/gag/aMEEEmP)
+ - 🚖 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)
+ - 🚯 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)
  - 🚯 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 --- 
