@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe     - CNET](https://www.cnet.com/science/space/astronomers-spot-asteroid-hours-before-it-turns-into-fireball-over-earth/#ftag=CAD590a51e)
- - [Ahead of Valentine&#39;s Day, These Are The Top Searched Date Night Ideas on Google     - CNET](https://www.cnet.com/culture/ahead-of-valentines-day-these-are-the-top-searched-date-night-ideas-on-google/#ftag=CAD590a51e)
- - [NASA Spots Mysterious Spokes Moving Along Saturn&#39;s Rings     - CNET](https://www.cnet.com/science/space/nasa-spots-mysterious-spokes-moving-along-saturns-rings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to delete your Outlook email account](https://www.androidauthority.com/how-to-delete-outlook-email-account-3282907/)
+ - [Apple wants to expand its sports streaming with NBA games](https://appleinsider.com/articles/23/02/14/apple-wants-to-expand-its-sports-streaming-with-nba-games?utm_medium=rss)
+ - [Report: TikTok is planning to let creators charge for content and is working on the Creator Fund 2.0, which could pay creators with more than 100K followers &lpar;Aaron Mok/Insider&rpar;](http://www.techmeme.com/230213/p26#a230213p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
