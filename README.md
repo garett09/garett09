@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valiant: A New World of Tanks Season Arrives with Bold Rewards](https://news.xbox.com/en-us/2023/02/14/valiant-a-new-world-of-tanks-season-arrives-with-bold-rewards/)
- - [Mick Gordon is donating his fee for Atomic Heart to humanitarian aid for Ukraine](https://www.pcgamer.com/mick-gordon-is-donating-his-fee-for-atomic-heart-to-humanitarian-aid-for-ukraine)
- - [How to learn Avada Kedavra in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23599230/avada-kedavra-killing-unforgivable-curse-quest-sebastian-sallow-consequences-shadow-relic)<!-- GAME:END -->
+ - [Marvel’s actively working on the next Tom Holland Spider-Man movie](https://www.polygon.com/23599714/marvel-new-tom-holland-spider-man-movie)
+ - [Which Disney couples would survive their happily ever afters, ranked](https://www.polygon.com/23594979/best-disney-couples-princess-valentines-day)
+ - [New Tomb Raider Is Sorta Like Vampire Survivors With Bad Microtransactions](https://kotaku.com/tomb-raider-reloaded-vampire-survivors-ios-android-1850113591)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
