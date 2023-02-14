@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Privacy Sandbox on Android in beta, starting with a small number of Android 13 devices and bringing the OS in line with Apple&#39;s ATT updates &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230214/p23#a230214p23)
- - [After backlash, Spotify removes a clause that let Apple use audiobooks from Findaway Voices to develop synthetic voices; Spotify acquired Findaway in June 2022 &lpar;Shubham Agarwal/Wired&rpar;](http://www.techmeme.com/230214/p22#a230214p22)
- - [Privacy Sandbox beta is rolling out now to select phones: Here’s what to expect](https://www.androidauthority.com/privacy-sandbox-beta-3282781/)<!-- TECH:END -->
+ - [Hyundai and Kia are offering a free anti-theft software upgrade for over 8M vehicles, after a rash of car thefts inspired by the viral &quot;Kia Challenge&quot; on TikTok &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230214/p25#a230214p25)
+ - [Ikea has a new Matter-enabled indoor air quality monitor](https://appleinsider.com/articles/23/02/14/ikea-has-a-new-matter-enabled-indoor-air-quality-monitor?utm_medium=rss)
+ - [Bing&#39;s ChatGPT experiment is deeply flawed, and is the future of search](https://appleinsider.com/articles/23/02/14/bings-chatgpt-experiment-is-deeply-flawed-and-is-the-future-of-search?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
