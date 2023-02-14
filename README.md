@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be careful with your wishes, they may come true \ud83d\udc81](http://9gag.com/gag/aGEELbG)
- - 🚯 [No money no honey](http://9gag.com/gag/aNwwwnr)
- - 🚯 [American thing](http://9gag.com/gag/aoKKyQw)<!-- MEMES:END -->
+ - 🚖 [Ohio](http://9gag.com/gag/amAAoLv)
+ - 🚯 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
+ - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)<!-- MEMES:END -->
 
 --- 
 
