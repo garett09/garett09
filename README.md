@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
- - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)
+ - 🚖 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
+ - 🚯 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)
  - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
 
 --- 
