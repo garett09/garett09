@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW player hits level cap without even arriving at the starting area in 200-day grinding ordeal](https://www.pcgamer.com/wow-player-hits-level-cap-without-even-arriving-at-the-starting-area-in-200-day-grinding-ordeal)
- - [This city builder lets you build a civilisation on the back of a space whale with its own &#39;desires and agenda&#39;](https://www.pcgamer.com/this-city-builder-lets-you-build-a-civilisation-on-the-back-of-a-space-whale-with-its-own-desires-and-agenda)
- - [Motherboard sales dropped by as much as 55% in 2022](https://www.pcgamer.com/motherboard-sales-dropped-by-as-much-as-55-in-2022)<!-- GAME:END -->
+ - [Frictional has a new &#39;SOMA-style&#39; game quietly in the works](https://www.pcgamer.com/frictional-has-a-new-soma-style-game-quietly-in-the-works)
+ - [Kevin Conroy found recording the Arkham games frustrating: &#39;‘What the f**k do they want me to say?’](https://www.pcgamer.com/kevin-conroy-found-recording-the-arkham-games-frustrating-what-the-fk-do-they-want-me-to-say)
+ - [Where to find Troll Bogeys in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-troll-bogeys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
