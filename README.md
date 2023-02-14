@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Mozilla CEO Mitchell Baker on the company&#39;s history, battling Microsoft, working with rivals, generative AI, Apple&#39;s WebKit, iOS, Chrome, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230214/p28#a230214p28)
- - [Dating Apps Crack Down on Romance Scammers](https://www.wired.com/story/dating-apps-tools-to-thwart-scams/)
- - [Tuesday’s top tech news: a trio of breakages](https://www.theverge.com/2023/2/14/23598998/february-14-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Apple issues firmware update for MagSafe 3 charging cable](https://appleinsider.com/articles/23/02/14/apple-issues-firmware-update-for-magsafe-3-charging-cable?utm_medium=rss)
+ - [Q&amp;A with Mozilla CEO Mitchell Baker on the company&#39;s history, battling Microsoft, working with rivals, generative AI, WebKit, iOS, Chrome, Mastodon, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230214/p28#a230214p28)
+ - [Dating Apps Crack Down on Romance Scammers](https://www.wired.com/story/dating-apps-tools-to-thwart-scams/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
