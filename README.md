@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
- - 🚯 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
- - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
+ - 🚖 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - 🚯 [Hunt saboteurs refuse to move off private property, huntsman jumps gate anyways](http://9gag.com/gag/aMEEEmP)
+ - 🚯 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 --- 
 
