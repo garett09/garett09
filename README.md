@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - 🚯 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - 🚯 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)<!-- MEMES:END -->
+ - 🚖 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
+ - 🚯 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
+ - 🚯 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
 
 --- 
 
