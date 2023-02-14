@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S23 series is off to an encouraging start](https://www.androidauthority.com/samsung-galaxy-s23-pre-sales-performance-3283144/)
- - [Keanu Reeves Will Never Surrender to the Machines](https://www.wired.com/story/keanu-reeves-chad-stahelski-interview/)
- - [A look at Eric Schmidt-backed startup Ishtari, which uses machine learning to virtually assemble and test war machines from computer models of each component &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230214/p11#a230214p11)<!-- TECH:END -->
+ - [Apple&#39;s India production dream hindered by low yields and a lack of urgency](https://appleinsider.com/articles/23/02/14/apples-india-production-dream-hindered-by-low-yields-and-a-lack-of-urgency?utm_medium=rss)
+ - [Apple Watch Crash Detection leads medics to car thrown 60 feet below road](https://appleinsider.com/articles/23/02/14/apple-watch-crash-detection-leads-medics-to-car-thrown-60-feet-below-road?utm_medium=rss)
+ - [Bitcoin Investors Are Plotting a Major Coup](https://www.wired.com/story/crypto-bitcoin-grayscale-coup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
