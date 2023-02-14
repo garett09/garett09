@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Step right up and choose your champion](http://9gag.com/gag/aREEBMQ)
- - 🚯 [Tip for the ladies out there](http://9gag.com/gag/aPggxBg)
- - 🚯 [Cowards](http://9gag.com/gag/aYVVGYw)<!-- MEMES:END -->
+ - 🚖 [Be careful with your wishes, they may come true \ud83d\udc81](http://9gag.com/gag/aGEELbG)
+ - 🚯 [No money no honey](http://9gag.com/gag/aNwwwnr)
+ - 🚯 [American thing](http://9gag.com/gag/aoKKyQw)<!-- MEMES:END -->
 
 --- 
 
