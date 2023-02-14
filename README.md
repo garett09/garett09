@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DARPA says its Air Combat Evolution developers used AI to successfully fly a modified F-16 test aircraft multiple times in December 2022 &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230214/p18#a230214p18)
- - [Audiobook Narrators Fear Spotify Used Their Voices to Train AI](https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/)
- - [Cisco brings 0% financing for iPad bundles to enterprise partners](https://appleinsider.com/articles/23/02/14/cisco-brings-0-financing-for-ipad-bundles-to-enterprise-partners?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches Privacy Sandbox on Android in beta, starting with a small number of Android 13 devices and bringing the OS in line with Apple&#39;s ATT updates &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230214/p23#a230214p23)
+ - [After backlash, Spotify removes a clause that let Apple use audiobooks from Findaway Voices to develop synthetic voices; Spotify acquired Findaway in June 2022 &lpar;Shubham Agarwal/Wired&rpar;](http://www.techmeme.com/230214/p22#a230214p22)
+ - [Privacy Sandbox beta is rolling out now to select phones: Here’s what to expect](https://www.androidauthority.com/privacy-sandbox-beta-3282781/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
