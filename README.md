@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
- - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 🚯 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)<!-- MEMES:END -->
+ - 🚖 [Step right up and choose your champion](http://9gag.com/gag/aREEBMQ)
+ - 🚯 [Tip for the ladies out there](http://9gag.com/gag/aPggxBg)
+ - 🚯 [Cowards](http://9gag.com/gag/aYVVGYw)<!-- MEMES:END -->
 
 --- 
 
