@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gigi Sohn returns to Congress for a third try at securing empty FCC chair](https://www.theverge.com/2023/2/14/23599075/gigi-sohn-fcc-net-neutrality-broadband-midterms-biden-white-house)
- - [Tuesday’s top tech news: A trio of breakages](https://www.theverge.com/2023/2/14/23598998/february-14-2023-tech-news-liveblog)
- - [Sources detail tensions during the US-TikTok negotiations over the Chinese government&#39;s role and influence, including a possible veto over a future deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230214/p15#a230214p15)<!-- TECH:END -->
+ - [Geekbench 6 interview: It’s a big improvement over its predecessor](https://www.androidauthority.com/geekbench-6-interview-3283050/)
+ - [Geekbench 6: What you need to know about the next-generation benchmark](https://www.androidauthority.com/geekbench-6-3282480/)
+ - [5 Best Water Leak Detectors &lpar;2023&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
