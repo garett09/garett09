@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23’s Negro Leagues Feature is the Start of a Powerful Multi-Year Journey](https://news.xbox.com/en-us/2023/02/14/mlb-the-show-23-negro-leagues-feature/)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [Marvel’s actively working on the next Tom Holland Spider-Man movie](https://www.polygon.com/23599714/marvel-new-tom-holland-spider-man-movie)<!-- GAME:END -->
+ - [Destiny 2 just dropped its biggest twist since Cayde-6 got killed off and I&#39;m a mess](https://www.pcgamer.com/destiny-2-just-dropped-its-biggest-twist-since-cayde-6-got-killed-off-and-im-a-mess)
+ - [Magic Mirror is the first item card for Disney’s Magic: The Gathering competitor](https://www.polygon.com/23598452/lorcana-disney-tcg-ccg-mtg-new-card-reveal-february-2023)
+ - [Experts Taught Me How To Score A Boyfriend In World of Warcraft](https://kotaku.com/couples-advice-how-to-get-boyfriend-wow-fortnite-1850114588)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
