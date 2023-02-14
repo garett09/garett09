@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Just Had Its Best Season Finale Ever](https://kotaku.com/destiny-2-lightfall-rasputin-traveler-witness-pyramid-1850115067)
- - [Hogwarts Legacy&#39;s first patch hasn&#39;t fixed performance issues for everyone](https://www.pcgamer.com/hogwarts-legacy-february-patch-notes)
- - [Early Plans For God of War Ragnarök Involved A Big Death And A Wild Twist](https://kotaku.com/god-of-war-ragnarok-kratos-atreus-death-cut-story-ps5-1850114816)<!-- GAME:END -->
+ - [Overwatch dating sim: How to play Loverwatch and unlock rewards](https://www.pcgamer.com/overwatch-dating-sim-loverwatch-guide)
+ - [14+ Awesome Games To Play After Cyberpunk 2077](https://kotaku.com/best-games-like-cyberpunk-2077-rpg-open-world-1850114740)
+ - [Does Xbox Game Pass really cannibalize a publisher’s sales?](https://www.polygon.com/23600042/xbox-game-pass-lower-sales-cannibalize-uk-regulators-cma-activision)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
