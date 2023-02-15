@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)
- - 🚯 [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)<!-- MEMES:END -->
+ - 🚖 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
+ - 🚯 [Something i just learned](http://9gag.com/gag/a8qq64Y)
+ - 🚯 [In 1860](http://9gag.com/gag/aDYYY4d)<!-- MEMES:END -->
 
 --- 
 
