@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has postponed the release of its MR headset from around April to June 2023, at its annual WWDC, after testing showed hardware and software issues &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230215/p32#a230215p32)
- - [Community Health Systems, which owns ~80 hospitals in 16 US states, says hackers stole data on up to 1M patients; Russia-linked malware gang Clop takes credit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230215/p31#a230215p31)
- - [How to fix Siri Suggestions launching the wrong iOS 16 features](https://appleinsider.com/inside/siri/tips/how-to-fix-siri-suggestions-launching-the-wrong-ios-16-features?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases macOS Big Sur 11.7.4 with Safari Favorites icon fix](https://appleinsider.com/articles/23/02/15/apple-releases-macos-big-sur-1174-with-safari-favorites-icon-fix?utm_medium=rss)
+ - [Twilio reports Q4 revenue up 22% YoY to $1.02B, vs. $1B est., and 290K+ active customer accounts, and authorizes a $1B share buyback program; TWLO jumps 12%+ &lpar;Chris Ciaccia/Seeking Alpha&rpar;](http://www.techmeme.com/230215/p36#a230215p36)
+ - [Shopify reports Q4 revenue up 26% YoY to $1.73B, vs. $1.65B est., and GMV up 13% YoY to $61B, and forecasts a Q1 2023 revenue growth below expectations &lpar;Lucy Papachristou/Bloomberg&rpar;](http://www.techmeme.com/230215/p35#a230215p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
