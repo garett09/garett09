@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This character was hilarious](http://9gag.com/gag/aKEE1nZ)
- - 🚯 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)
- - 🚯 [Men are simple](http://9gag.com/gag/avQQ1MZ)<!-- MEMES:END -->
+ - 🚖 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - 🚯 [B\u00fclly](http://9gag.com/gag/a9qqqGW)
+ - 🚯 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)<!-- MEMES:END -->
 
 --- 
 
