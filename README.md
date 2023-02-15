@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazilian neobank Nubank reports Q4 revenue up 128% YoY to $1.45B, $58M net income, up from $66.1M net loss YoY, and says it ended 2022 with 74.6M customers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230214/p39#a230214p39)
- - [Filing: Berkshire Hathaway cut its holdings of TSMC&#39;s American depositary shares by 86% last quarter to 8.29M, valued at $617.7M; TSMC&#39;s stock drops 3.8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230214/p38#a230214p38)
- - [Dropbox losing external drive functionality due to Apple API change](https://appleinsider.com/articles/23/02/15/dropbox-losing-external-drive-functionality-due-to-apple-api-change?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft releases 77 security fixes, patching three actively exploited zero-day flaws in Windows and Office, and nine critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230215/p1#a230215p1)
+ - [Tel Aviv-based MDI Health, whose AI-powered service helps clinicians customize and manage medication for patients, raised a $20M Series A led by Intel Capital &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230214/p40#a230214p40)
+ - [Brazilian neobank Nubank reports Q4 revenue up 128% YoY to $1.45B, $58M net income, up from $66.1M net loss YoY, and says it ended 2022 with 74.6M customers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230214/p39#a230214p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
