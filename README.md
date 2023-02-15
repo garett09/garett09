@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 12-inch MacBook may be coming closer to a rebirth](https://appleinsider.com/articles/23/02/15/apples-12-inch-macbook-may-be-coming-closer-to-a-rebirth?utm_medium=rss)
- - [Apple has new plans for 2023 Major League Soccer games](https://appleinsider.com/articles/23/02/15/apple-has-new-plans-for-2023-major-league-soccer-games?utm_medium=rss)
- - [Snap launches ray tracing support for its AR Lens Studio globally, initially partnering with Tiffany &amp; Co to let users try on and purchase bracelets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230215/p25#a230215p25)<!-- TECH:END -->
+ - [Wednesday’s top tech news: another year of the Chief Twit](https://www.theverge.com/2023/2/15/23600703/february-15-2023-tech-news-liveblog)
+ - [Elon Musk’s New Twitter Superpower Is Dangerous](https://www.wired.com/story/elon-musks-new-twitter-superpower-is-dangerous/)
+ - [Sources: US DOJ has ramped up work in recent months on a potential antitrust complaint into whether Apple has monopoly power through the App Store and iOS &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230215/p27#a230215p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
