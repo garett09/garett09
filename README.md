@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat sees his friend after a long time](http://9gag.com/gag/anzzvr5)
- - 🚯 [Pumpers paradise](http://9gag.com/gag/agoo74K)
- - 🚯 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)<!-- MEMES:END -->
+ - 🚖 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)
+ - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)
+ - 🚯 [In 1860](http://9gag.com/gag/aDYYY4d)<!-- MEMES:END -->
 
 --- 
 
