@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wednesday’s top tech news: another year of the Chief Twit](https://www.theverge.com/2023/2/15/23600703/february-15-2023-tech-news-liveblog)
- - [Elon Musk’s New Twitter Superpower Is Dangerous](https://www.wired.com/story/elon-musks-new-twitter-superpower-is-dangerous/)
- - [Sources: US DOJ has ramped up work in recent months on a potential antitrust complaint into whether Apple has monopoly power through the App Store and iOS &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230215/p27#a230215p27)<!-- TECH:END -->
+ - [SanDisk Professional Pro-Blade system: Fast, but an answer to a question nobody is asking](https://appleinsider.com/articles/23/02/15/sandisk-professional-pro-blade-system-fast-but-an-answer-to-a-question-nobody-is-asking?utm_medium=rss)
+ - [Oura Ring 3 review: The fitness tracker that puts you first](https://www.androidauthority.com/oura-ring-3-review-3280855/)
+ - [The US SEC proposes a rule that could bar investment advisers from storing assets at crypto platforms and lenders that are not registered as exchanges or banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230215/p28#a230215p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
