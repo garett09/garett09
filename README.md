@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speaking at a conference, Elon Musk says he is &quot;guessing toward the end&quot; of 2023 will be time for a new Twitter CEO as the company will be in &quot;stable condition&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p7#a230215p7)
- - [ASML reported a breach to authorities after a former employee in China misappropriated proprietary data, resulting in possible export controls violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p6#a230215p6)
- - [Paris-based Brigad, which connects self-employed hospitality professionals with short-term assignments, raised a &amp;euro;33 Series B led by Balderton Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230215/p5#a230215p5)<!-- TECH:END -->
+ - [A profile of Flipkart and CEO Kalyan Krishnamurthy, as losses mount, competition from Amazon and others intensifies, and Modi&#39;s government tightens regulations &lpar;Mihir Dalal/Rest of World&rpar;](http://www.techmeme.com/230215/p10#a230215p10)
+ - [This new smartwatch pops open to reveal tiny wireless earbuds](https://www.androidauthority.com/huawei-watch-buds-global-launch-3282460/)
+ - [Uniswap token holders vote to deploy to Binance&#39;s BNB blockchain using the Wormhole bridge, with 66% in favor, a move a16z voted to oppose with its 15M UNI &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230215/p9#a230215p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
