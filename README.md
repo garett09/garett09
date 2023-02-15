@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reminds me of the movies `Dredd` or `The Raid`...](http://9gag.com/gag/amAA1Ev)
- - 🚯 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - 🚯 [Michigan school shooting, a black man killed 3 students randomly, Alexandria Verner, Brian Fraser and a unidentified third student](http://9gag.com/gag/aQEEvZK)<!-- MEMES:END -->
+ - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
+ - 🚯 [Best version](http://9gag.com/gag/aZDDyX3)
+ - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
 
 --- 
 
