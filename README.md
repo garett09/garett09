@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SanDisk Professional Pro-Blade system: Fast, but an answer to a question nobody is asking](https://appleinsider.com/articles/23/02/15/sandisk-professional-pro-blade-system-fast-but-an-answer-to-a-question-nobody-is-asking?utm_medium=rss)
- - [Oura Ring 3 review: The fitness tracker that puts you first](https://www.androidauthority.com/oura-ring-3-review-3280855/)
- - [The US SEC proposes a rule that could bar investment advisers from storing assets at crypto platforms and lenders that are not registered as exchanges or banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230215/p28#a230215p28)<!-- TECH:END -->
+ - [House Judiciary subpoenas Tim Cook &amp; rest of big tech about alleged collusion](https://appleinsider.com/articles/23/02/15/house-judiciary-subpoenas-tim-cook-rest-of-big-tech-about-alleged-collusion?utm_medium=rss)
+ - [Amazon plans to stop buying from European distributors in 2024 and buy products directly from brands; Amazon&#39;s international unit losses totaled $7.75B in 2022 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230215/p30#a230215p30)
+ - [8 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
