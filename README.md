@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Flipkart and CEO Kalyan Krishnamurthy, as losses mount, competition from Amazon and others intensifies, and Modi&#39;s government tightens regulations &lpar;Mihir Dalal/Rest of World&rpar;](http://www.techmeme.com/230215/p10#a230215p10)
- - [This new smartwatch pops open to reveal tiny wireless earbuds](https://www.androidauthority.com/huawei-watch-buds-global-launch-3282460/)
- - [Uniswap token holders vote to deploy to Binance&#39;s BNB blockchain using the Wormhole bridge, with 66% in favor, a move a16z voted to oppose with its 15M UNI &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230215/p9#a230215p9)<!-- TECH:END -->
+ - [How BandLab, a music production app and social network for creators, woos users through its SongStarter AI tool, which generates royalty-free instrumental ideas &lpar;Catherine Wang/Forbes&rpar;](http://www.techmeme.com/230215/p13#a230215p13)
+ - [An in-depth look at how OpenAI&#39;s ChatGPT decodes input queries to produce a &quot;reasonable continuation&quot; of the text, the underlying dataset, neural nets, and more &lpar;Stephen Wolfram Writings&rpar;](http://www.techmeme.com/230215/p12#a230215p12)
+ - [After a series of disastrous bets and a market downturn, SoftBank&#39;s future rests on a successful Arm IPO and turnaround at the mostly dormant Vision Funds &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230215/p11#a230215p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
