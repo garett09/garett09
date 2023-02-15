@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Pro Mac mini review: Best price to performance Apple Silicon yet](https://appleinsider.com/articles/23/02/13/m2-pro-mac-mini-review-best-price-to-performance-apple-silicon-yet?utm_medium=rss)
- - [At a recent event, senior executives at gaming firms like Tencent and NetEase said they are looking to better promote China&#39;s culture, as regulations ease up &lpar;South China Morning Post&rpar;](http://www.techmeme.com/230215/p2#a230215p2)
- - [Google Photos is broken on the latest iOS update &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-photos-broken-ios-update-3283062/)<!-- TECH:END -->
+ - [Musk Reportedly Pushed Algorithm Change to Boost His Tweets     - CNET](https://www.cnet.com/news/social-media/musk-reportedly-pushed-algorithm-change-to-boost-his-tweets/#ftag=CAD590a51e)
+ - [Xiaomi&#39;s earlier mover advantages are eroding in India, where it is facing declining shipments, a tax investigation, and key top-level management departures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230215/p4#a230215p4)
+ - [An investigation exposes &quot;Team Jorge&quot;, an Israeli hacking and social media disinformation unit for hire claiming covert involvement in 33 presidential elections &lpar;The Guardian&rpar;](http://www.techmeme.com/230215/p3#a230215p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
