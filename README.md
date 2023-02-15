@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 🚯 [I&#39;m just going to leave this here . . .](http://9gag.com/gag/aoKKMo3)<!-- MEMES:END -->
+ - 🚖 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
+ - 🚯 [Professionals and experts](http://9gag.com/gag/aDYY2bO)
+ - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)<!-- MEMES:END -->
 
 --- 
 
