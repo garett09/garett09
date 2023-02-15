@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find N2 Flip review: Flippin’ fabulous](https://www.androidauthority.com/oppo-find-n2-flip-review-3281282/)
- - [OPPO Find N2 Flip launched globally: Look out, Samsung, competition is here](https://www.androidauthority.com/oppo-find-n2-flip-global-3285291/)
- - [US Border Patrol Is Finally Able to Check E-Passport Data](https://www.wired.com/story/us-border-patrol-epassport-verification/)<!-- TECH:END -->
+ - [Mobile carriers sell more iPhones than Apple retail stores](https://appleinsider.com/articles/23/02/15/mobile-carriers-sell-more-iphones-than-apple-retail-stores?utm_medium=rss)
+ - [A Robot Finds More Trouble Under the Doomsday Glacier](https://www.wired.com/story/a-robot-finds-more-trouble-under-the-doomsday-glacier/)
+ - [How to use your Apple Watch to control other devices](https://www.theverge.com/23599332/apple-watch-remote-control-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
