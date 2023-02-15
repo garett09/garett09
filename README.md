@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bankrupt crypto lender Celsius proposes a sale to investment firm NovaWulf, founded in 2021 by Wall Street dealmakers; smaller creditors may regain 70% of funds &lpar;Benjamin Robertson/The Block&rpar;](http://www.techmeme.com/230215/p14#a230215p14)
- - [China iPhone demand may kick-start smartphone market recovery](https://appleinsider.com/articles/23/02/15/china-iphone-demand-may-kick-start-smartphone-market-recovery?utm_medium=rss)
- - [The Scramble to Save Twitter’s Research From Elon Musk](https://www.wired.com/story/the-scramble-to-save-twitters-research-from-elon-musk/)<!-- TECH:END -->
+ - [Tel Aviv-based Oligo Security, which offers security and observability tools to find and prevent open-source vulnerabilities, raised $28M in seed and Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230215/p18#a230215p18)
+ - [Supersize Electric Cars Are Pushing Road Safety to the Limit](https://www.wired.com/story/supersize-evs-are-pushing-road-safety-to-the-limit/)
+ - [The Future of Weight Loss Looks a Lot Like Its Past](https://www.wired.com/story/fda-weight-loss-drugs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
