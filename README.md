@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Oligo Security, which offers security and observability tools to find and prevent open-source vulnerabilities, raised $28M in seed and Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230215/p18#a230215p18)
- - [Supersize Electric Cars Are Pushing Road Safety to the Limit](https://www.wired.com/story/supersize-evs-are-pushing-road-safety-to-the-limit/)
- - [The Future of Weight Loss Looks a Lot Like Its Past](https://www.wired.com/story/fda-weight-loss-drugs/)<!-- TECH:END -->
+ - [The best streaming device to buy right now](https://www.theverge.com/21375098/best-streaming-device)
+ - [Best MacBooks &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [Influencer Is a Real Job. It&#39;s Time to Act Like It](https://www.wired.com/story/emily-hund-influencer-industry/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
