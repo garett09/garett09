@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [House Judiciary subpoenas Tim Cook &amp; rest of big tech about alleged collusion](https://appleinsider.com/articles/23/02/15/house-judiciary-subpoenas-tim-cook-rest-of-big-tech-about-alleged-collusion?utm_medium=rss)
- - [Amazon plans to stop buying from European distributors in 2024 and buy products directly from brands; Amazon&#39;s international unit losses totaled $7.75B in 2022 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230215/p30#a230215p30)
- - [8 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [Sources: Apple has postponed the release of its MR headset from around April to June 2023, at its annual WWDC, after testing showed hardware and software issues &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230215/p32#a230215p32)
+ - [Community Health Systems, which owns ~80 hospitals in 16 US states, says hackers stole data on up to 1M patients; Russia-linked malware gang Clop takes credit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230215/p31#a230215p31)
+ - [How to fix Siri Suggestions launching the wrong iOS 16 features](https://appleinsider.com/inside/siri/tips/how-to-fix-siri-suggestions-launching-the-wrong-ios-16-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
