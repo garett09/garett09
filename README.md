@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cities: Skylines Remastered Edition Is Now Available &lpar;Yes, With 25 Buildable Tiles&rpar;](https://news.xbox.com/en-us/2023/02/15/cities-skylines-remastered-now-available/)
  - [Wordle hint and answer #606: Wednesday, February 15](https://www.pcgamer.com/wordle-hint-answer-today-606-february-15)
- - [Give your Steam Deck some old school chic with a transparent, coloured backplate](https://www.pcgamer.com/give-your-steam-deck-some-old-school-chic-with-a-transparent-coloured-backplate)
- - [Pro-net neutrality FCC nominee says ISPs are doing everything they can to keep her out](https://www.pcgamer.com/gigi-sohn-FCC-hearing)<!-- GAME:END -->
+ - [Give your Steam Deck some old school chic with a transparent, coloured backplate](https://www.pcgamer.com/give-your-steam-deck-some-old-school-chic-with-a-transparent-coloured-backplate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
