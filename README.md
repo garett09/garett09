@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobile carriers sell more iPhones than Apple retail stores](https://appleinsider.com/articles/23/02/15/mobile-carriers-sell-more-iphones-than-apple-retail-stores?utm_medium=rss)
- - [A Robot Finds More Trouble Under the Doomsday Glacier](https://www.wired.com/story/a-robot-finds-more-trouble-under-the-doomsday-glacier/)
- - [How to use your Apple Watch to control other devices](https://www.theverge.com/23599332/apple-watch-remote-control-how-to)<!-- TECH:END -->
+ - [Apple&#39;s 12-inch MacBook may be coming closer to a rebirth](https://appleinsider.com/articles/23/02/15/apples-12-inch-macbook-may-be-coming-closer-to-a-rebirth?utm_medium=rss)
+ - [Apple has new plans for 2023 Major League Soccer games](https://appleinsider.com/articles/23/02/15/apple-has-new-plans-for-2023-major-league-soccer-games?utm_medium=rss)
+ - [Snap launches ray tracing support for its AR Lens Studio globally, initially partnering with Tiffany &amp; Co to let users try on and purchase bracelets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230215/p25#a230215p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
