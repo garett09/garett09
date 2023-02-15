@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
- - 🚯 [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)
- - 🚯 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)<!-- MEMES:END -->
+ - 🚖 [It\u2019s Valentine\u2019s Day](http://9gag.com/gag/agoo1zK)
+ - 🚯 [Michigan school shooting, a black man killed 3 students randomly, Alexandria Verner, Brian Fraser and a unidentified third student](http://9gag.com/gag/aQEEvZK)
+ - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
 
 --- 
 
