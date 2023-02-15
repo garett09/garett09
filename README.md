@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-to-stream-on-hbo-max/#ftag=CAD590a51e)
- - [A US jury convicts Russian businessman Vladislav Klyushin for his role in a $90M insider trading scheme that hacked companies to get non-public financial data &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230214/p31#a230214p31)
- - [Google Fiber Rolls Out New 5 Gig Plan     - CNET](https://www.cnet.com/news/google-fiber-rolls-out-new-5-gig-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple Pay Later will evaluate borrowers based on their spending history, which Apple devices they own, whether they applied for an Apple Card, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230214/p34#a230214p34)
+ - [A look at Vietnam&#39;s plans to make Ho Chi Minh City a startup hub; report: Vietnam drew a record $2.6B in VC funding across 233 deals in 2021, up from $700M YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/230214/p33#a230214p33)
+ - [Berkshire Hathaway now owns 5.8% of public Apple stock](https://appleinsider.com/articles/23/02/15/berkshire-hathaway-now-owns-58-of-public-apple-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
