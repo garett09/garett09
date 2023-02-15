@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve backtracks on Team Fortress 2 update wording after people got way too excited: &#39;We&#39;ve been bamboozled&#39;](https://www.pcgamer.com/valve-backtracks-on-team-fortress-2-update-wording-after-people-got-way-too-excited-weve-been-bamboozled)
- - [Leaked PS Plus February Line-Up Is Looking Stacked AF](https://kotaku.com/playstation-plus-horizon-forbidden-west-ps5-february-1850117692)
- - [Returnal review](https://www.pcgamer.com/returnal-review)<!-- GAME:END -->
+ - [Doom Composer Donates His Atomic Heart Fee To Ukraine After Russia Controversy](https://kotaku.com/atomic-heart-doom-ukraine-red-cross-mundfish-1850118104)
+ - [Horizon Forbidden West comes to PS Plus Extra in February](https://www.polygon.com/23599546/playstation-plus-games-for-february-2023-extra-premium)
+ - [The Top 30 Best Anime Of The Decade, Ranked](https://kotaku.com/best-anime-ranked-decade-attack-on-titan-demon-slayer-1850117910)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
