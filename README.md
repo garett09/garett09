@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Cold Blooded Vaults in Fortnite](https://www.pcgamer.com/fortnite-cold-blooded-vault-unlock-exotic-weapon)
- - [Apex Legends Hits New Peak Player Count Thanks To Team Deathmatch](https://kotaku.com/apex-legends-player-count-team-deathmatch-tdm-season-16-1850119310)
- - [VRChat Sex Worker Denied Entry To US Over ‘Prostitution’](https://kotaku.com/vrchat-vr-digital-sex-worker-prostitution-denied-visa-1850119196)<!-- GAME:END -->
+ - [How to unlock and change the Room of Requirement in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23599966/room-of-requirement-expansion-unlock-change-decorations-vivarium-station)
+ - [Hogwarts Legacy datamined potion would&#39;ve made choosing talents easier](https://www.pcgamer.com/hogwarts-legacy-talent-reset-potion-mod)
+ - [Lies of P official gameplay trailer is a steampunk Bloodbourne](https://www.pcgamer.com/lies-of-p-official-gameplay-trailer-is-a-steampunk-bloodbourne)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
