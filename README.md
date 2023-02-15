@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator’s FF7 pack lets you clean up Midgar](https://www.polygon.com/23600867/powerwash-simulators-final-fantasy-ff7-midgar-special-pack-release-date-announcement)
- - [The Kaguya-sama: Love Is War movie gives the series a new start — and a new ending](https://www.polygon.com/23599780/kaguya-sama-love-is-war-first-kiss-that-never-ends-review-anime)
- - [The Light Brigade brings a dark VR roguelike shooter to PS VR2, out February 22](https://blog.playstation.com/2023/02/15/the-light-brigade-brings-a-dark-vr-roguelike-shooter-to-ps-vr2-out-february-22/)<!-- GAME:END -->
+ - [Valve backtracks on Team Fortress 2 update wording after people got way too excited: &#39;We&#39;ve been bamboozled&#39;](https://www.pcgamer.com/valve-backtracks-on-team-fortress-2-update-wording-after-people-got-way-too-excited-weve-been-bamboozled)
+ - [Leaked PS Plus February Line-Up Is Looking Stacked AF](https://kotaku.com/playstation-plus-horizon-forbidden-west-ps5-february-1850117692)
+ - [Returnal review](https://www.pcgamer.com/returnal-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
