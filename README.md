@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)
- - 🚯 [Stupid as they come](http://9gag.com/gag/a7qqV3L)
- - 🚯 [I\u2019m free!!!!! I\u2019m being released from hospital! I beat the brain blood clots! I\u2019ll post my bill later. Thank you for the memes.](http://9gag.com/gag/anzzx9o)<!-- MEMES:END -->
+ - 🚖 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - 🚯 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
+ - 🚯 [B\u00fclly](http://9gag.com/gag/a9qqqGW)<!-- MEMES:END -->
 
 --- 
 
