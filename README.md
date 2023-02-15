@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - 🚯 [B\u00fclly](http://9gag.com/gag/a9qqqGW)
- - 🚯 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)<!-- MEMES:END -->
+ - 🚖 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
+ - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)
+ - 🚯 [That&#39;ll Be 500$ Please](http://9gag.com/gag/aKEE921)<!-- MEMES:END -->
 
 --- 
 
