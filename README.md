@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
- - 🚯 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 🚯 [Still he looks kinda surprised](http://9gag.com/gag/amAA6G6)<!-- MEMES:END -->
+ - 🚖 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - 🚯 [In 1860](http://9gag.com/gag/aDYYY4d)
+ - 🚯 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)<!-- MEMES:END -->
 
 --- 
 
