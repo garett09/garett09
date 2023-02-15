@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Finish You season 4 part 1 before the next part drops](https://www.polygon.com/23601157/netflix-you-season-4-part-1-2-penn-badgley)
- - [Score The Clutch Touchdowns in Madden NFL 23 – Now Available on The Play List](https://news.xbox.com/en-us/2023/02/15/score-the-clutch-touchdowns-in-madden-nfl-23-now-available-on-the-play-list/)
- - [Dead by Daylight’s next Killer is an evil tech CEO, the Skull Merchant](https://www.polygon.com/23599440/dead-by-daylight-skull-merchant-tools-of-torment-chapter-details)<!-- GAME:END -->
+ - [Gargoyles’ David Xanatos is so evil and cool, a 1,500-year-old trope was named after him](https://www.polygon.com/23592498/gargoyles-david-xanatos-gambit0-explained)
+ - [How I Successfully Combined Two Opposite Genres with Brok the InvestiGator, Out March First](https://news.xbox.com/en-us/2023/02/15/how-i-successfully-combined-two-opposite-genres-with-brok-the-investigator-out-march-first/)
+ - [Minecraft 1.2 – Cherry Blossom Trees Take the Overworld by Storm](https://news.xbox.com/en-us/2023/02/15/minecraft-1-2-cherry-blossom-trees-take-the-overworld-by-storm/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
