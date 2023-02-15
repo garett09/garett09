@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For Mash get SMASH ...](http://9gag.com/gag/a8qq7Vp)
- - 🚯 [Hmm](http://9gag.com/gag/aWGGGL2)
- - 🚯 [Singapore Family Shoot](http://9gag.com/gag/aZDDZzn)<!-- MEMES:END -->
+ - 🚖 [I&#39;m just going to leave this here . . .](http://9gag.com/gag/aoKKMo3)
+ - 🚯 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
 
 --- 
 
