@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s Valentine\u2019s Day](http://9gag.com/gag/agoo1zK)
- - 🚯 [Michigan school shooting, a black man killed 3 students randomly, Alexandria Verner, Brian Fraser and a unidentified third student](http://9gag.com/gag/aQEEvZK)
- - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
+ - 🚖 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - 🚯 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - 🚯 [Something i just learned](http://9gag.com/gag/a8qq64Y)<!-- MEMES:END -->
 
 --- 
 
