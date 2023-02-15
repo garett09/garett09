@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How BandLab, a music production app and social network for creators, woos users through its SongStarter AI tool, which generates royalty-free instrumental ideas &lpar;Catherine Wang/Forbes&rpar;](http://www.techmeme.com/230215/p13#a230215p13)
- - [An in-depth look at how OpenAI&#39;s ChatGPT decodes input queries to produce a &quot;reasonable continuation&quot; of the text, the underlying dataset, neural nets, and more &lpar;Stephen Wolfram Writings&rpar;](http://www.techmeme.com/230215/p12#a230215p12)
- - [After a series of disastrous bets and a market downturn, SoftBank&#39;s future rests on a successful Arm IPO and turnaround at the mostly dormant Vision Funds &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230215/p11#a230215p11)<!-- TECH:END -->
+ - [Bankrupt crypto lender Celsius proposes a sale to investment firm NovaWulf, founded in 2021 by Wall Street dealmakers; smaller creditors may regain 70% of funds &lpar;Benjamin Robertson/The Block&rpar;](http://www.techmeme.com/230215/p14#a230215p14)
+ - [China iPhone demand may kick-start smartphone market recovery](https://appleinsider.com/articles/23/02/15/china-iphone-demand-may-kick-start-smartphone-market-recovery?utm_medium=rss)
+ - [The Scramble to Save Twitter’s Research From Elon Musk](https://www.wired.com/story/the-scramble-to-save-twitters-research-from-elon-musk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
