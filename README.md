@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the mind of Junon in The Wreck](https://blog.playstation.com/2023/02/15/explore-the-mind-of-junon-in-the-wreck/)
- - [Riot Forge reveals League spinoff The Mageseeker and new release dates](https://www.polygon.com/23599206/riot-forge-mageseeker-league-of-legends-story-release-date)
- - [Multiverse stories produce the most nihilistic villains](https://www.polygon.com/23589732/multiverse-movie-villain-kang-everything-everywhere-batman-rick-morty)<!-- GAME:END -->
+ - [PowerWash Simulator’s FF7 pack lets you clean up Midgar](https://www.polygon.com/23600867/powerwash-simulators-final-fantasy-ff7-midgar-special-pack-release-date-announcement)
+ - [The Kaguya-sama: Love Is War movie gives the series a new start — and a new ending](https://www.polygon.com/23599780/kaguya-sama-love-is-war-first-kiss-that-never-ends-review-anime)
+ - [The Light Brigade brings a dark VR roguelike shooter to PS VR2, out February 22](https://blog.playstation.com/2023/02/15/the-light-brigade-brings-a-dark-vr-roguelike-shooter-to-ps-vr2-out-february-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
