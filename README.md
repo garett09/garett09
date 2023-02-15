@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)
- - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)
- - 🚯 [In 1860](http://9gag.com/gag/aDYYY4d)<!-- MEMES:END -->
+ - 🚯 [Stupid as they come](http://9gag.com/gag/a7qqV3L)
+ - 🚯 [I\u2019m free!!!!! I\u2019m being released from hospital! I beat the brain blood clots! I\u2019ll post my bill later. Thank you for the memes.](http://9gag.com/gag/anzzx9o)<!-- MEMES:END -->
 
 --- 
 
