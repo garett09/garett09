@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best streaming device to buy right now](https://www.theverge.com/21375098/best-streaming-device)
- - [Best MacBooks &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Influencer Is a Real Job. It&#39;s Time to Act Like It](https://www.wired.com/story/emily-hund-influencer-industry/)<!-- TECH:END -->
+ - [OPPO Find N2 Flip review: Flippin’ fabulous](https://www.androidauthority.com/oppo-find-n2-flip-review-3281282/)
+ - [OPPO Find N2 Flip launched globally: Look out, Samsung, competition is here](https://www.androidauthority.com/oppo-find-n2-flip-global-3285291/)
+ - [US Border Patrol Is Finally Able to Check E-Passport Data](https://www.wired.com/story/us-border-patrol-epassport-verification/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
