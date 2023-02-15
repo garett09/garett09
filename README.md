@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML says it reported a breach to authorities after an ex-employee in China misappropriated proprietary data resulting in possible export controls violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p6#a230215p6)
- - [Paris-based Brigad, which connects self-employed hospitality professionals with short-term assignments, raised a &amp;euro;33 Series B led by Balderton Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230215/p5#a230215p5)
- - [Musk Reportedly Pushed Algorithm Change to Boost His Tweets     - CNET](https://www.cnet.com/news/social-media/musk-reportedly-pushed-algorithm-change-to-boost-his-tweets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Speaking at a conference, Elon Musk says he is &quot;guessing toward the end&quot; of 2023 will be time for a new Twitter CEO as the company will be in &quot;stable condition&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p7#a230215p7)
+ - [ASML reported a breach to authorities after a former employee in China misappropriated proprietary data, resulting in possible export controls violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p6#a230215p6)
+ - [Paris-based Brigad, which connects self-employed hospitality professionals with short-term assignments, raised a &amp;euro;33 Series B led by Balderton Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230215/p5#a230215p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
