@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock and change the Room of Requirement in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23599966/room-of-requirement-expansion-unlock-change-decorations-vivarium-station)
- - [Hogwarts Legacy datamined potion would&#39;ve made choosing talents easier](https://www.pcgamer.com/hogwarts-legacy-talent-reset-potion-mod)
- - [Lies of P official gameplay trailer is a steampunk Bloodbourne](https://www.pcgamer.com/lies-of-p-official-gameplay-trailer-is-a-steampunk-bloodbourne)<!-- GAME:END -->
+ - [MultiVersus’ Daily Player Count Plunges By 99 Percent, But Maybe Pickle Rick Can Save It](https://kotaku.com/multiversus-steam-pc-pickle-rick-morty-player-count-1850120234)
+ - [Behold the incredibly blursed Dagoth Ur pie](https://www.polygon.com/23601393/dagoth-ur-morrowind-pie-ai)
+ - [‘All Your Base Are Belong To Us’ Game Out On Steam, But Without Famous Meme](https://kotaku.com/all-your-base-meme-zero-wing-out-on-steam-pc-mega-drive-1850120124)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
