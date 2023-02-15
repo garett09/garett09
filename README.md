@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #606: Wednesday, February 15](https://www.pcgamer.com/wordle-hint-answer-today-606-february-15)
  - [Give your Steam Deck some old school chic with a transparent, coloured backplate](https://www.pcgamer.com/give-your-steam-deck-some-old-school-chic-with-a-transparent-coloured-backplate)
- - [Pro-net neutrality FCC nominee says ISPs are doing everything they can to keep her out](https://www.pcgamer.com/gigi-sohn-FCC-hearing)
- - [In 1999 Nintendo Had A Real-Life Wrestling Match Starring Mario And Pikachu](https://kotaku.com/nintendo-smash-bros-wrestling-wwe-wcw-pikachu-mario-1850115376)<!-- GAME:END -->
+ - [Pro-net neutrality FCC nominee says ISPs are doing everything they can to keep her out](https://www.pcgamer.com/gigi-sohn-FCC-hearing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
