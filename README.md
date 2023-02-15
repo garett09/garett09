@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 🚯 [Best version](http://9gag.com/gag/aZDDyX3)
- - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
+ - 🚖 [This character was hilarious](http://9gag.com/gag/aKEE1nZ)
+ - 🚯 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)
+ - 🚯 [Men are simple](http://9gag.com/gag/avQQ1MZ)<!-- MEMES:END -->
 
 --- 
 
