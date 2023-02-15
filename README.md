@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)
- - 🚯 [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)
- - 🚯 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)<!-- MEMES:END -->
+ - 🚖 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - 🚯 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
 
 --- 
 
