@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 🚯 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)
- - 🚯 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
+ - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
+ - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)
+ - 🚯 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)<!-- MEMES:END -->
 
 --- 
 
