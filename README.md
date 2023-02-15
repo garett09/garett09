@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
- - 🚯 [Professionals and experts](http://9gag.com/gag/aDYY2bO)
- - 🚯 [It all goes back to culture](http://9gag.com/gag/armmmLB)<!-- MEMES:END -->
+ - 🚖 [For Mash get SMASH ...](http://9gag.com/gag/a8qq7Vp)
+ - 🚯 [Hmm](http://9gag.com/gag/aWGGGL2)
+ - 🚯 [Singapore Family Shoot](http://9gag.com/gag/aZDDZzn)<!-- MEMES:END -->
 
 --- 
 
