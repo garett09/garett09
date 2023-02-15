@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - 🚯 [Something i just learned](http://9gag.com/gag/a8qq64Y)
- - 🚯 [In 1860](http://9gag.com/gag/aDYYY4d)<!-- MEMES:END -->
+ - 🚖 [Cat sees his friend after a long time](http://9gag.com/gag/anzzvr5)
+ - 🚯 [Pumpers paradise](http://9gag.com/gag/agoo74K)
+ - 🚯 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)<!-- MEMES:END -->
 
 --- 
 
