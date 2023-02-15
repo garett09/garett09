@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gargoyles’ David Xanatos is so evil and cool, a 1,500-year-old trope was named after him](https://www.polygon.com/23592498/gargoyles-david-xanatos-gambit0-explained)
- - [How I Successfully Combined Two Opposite Genres with Brok the InvestiGator, Out March First](https://news.xbox.com/en-us/2023/02/15/how-i-successfully-combined-two-opposite-genres-with-brok-the-investigator-out-march-first/)
- - [Minecraft 1.2 – Cherry Blossom Trees Take the Overworld by Storm](https://news.xbox.com/en-us/2023/02/15/minecraft-1-2-cherry-blossom-trees-take-the-overworld-by-storm/)<!-- GAME:END -->
+ - [How to unlock Cold Blooded Vaults in Fortnite](https://www.pcgamer.com/fortnite-cold-blooded-vault-unlock-exotic-weapon)
+ - [Apex Legends Hits New Peak Player Count Thanks To Team Deathmatch](https://kotaku.com/apex-legends-player-count-team-deathmatch-tdm-season-16-1850119310)
+ - [VRChat Sex Worker Denied Entry To US Over ‘Prostitution’](https://kotaku.com/vrchat-vr-digital-sex-worker-prostitution-denied-visa-1850119196)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
