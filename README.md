@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - 🚯 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - 🚯 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
+ - 🚖 [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)
+ - 🚯 [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)<!-- MEMES:END -->
 
 --- 
 
