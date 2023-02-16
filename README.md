@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cancelled HomeKit architecture upgrade will return in iOS 16.4](https://appleinsider.com/articles/23/02/16/cancelled-homekit-architecture-upgrade-will-return-in-ios-164?utm_medium=rss)
- - [Apple&#39;s iOS 16.4 and iPadOS 16.4 betas add support for Safari web apps on the homescreen to send push notifications and show notification badges &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230216/p31#a230216p31)
- - [In an email, Google&#39;s Search SVP tells staff to rewrite Bard&#39;s bad responses in a &quot;neutral tone&quot; and to &quot;not imply emotion&quot; as the tool &quot;learns best by example&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230216/p30#a230216p30)<!-- TECH:END -->
+ - [It’s Always Sunny Inside a Generative AI Conference](https://www.wired.com/story/jasper-generative-ai-conference-2023/)
+ - [The FCC is investigating whether ISPs exaggerated their coverage to authorities preparing to distribute billions in subsidies for broadband in underserved areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/230216/p34#a230216p34)
+ - [Apple may be cutting contractors in an effort to cut costs](https://appleinsider.com/articles/23/02/16/apple-may-be-cutting-contractors-in-an-effort-to-cut-costs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
