@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reddit Sued Over Forum That Launched GameStop Meme Stock Mania](https://kotaku.com/gamestop-meme-stock-wallstreetbets-reddit-lawsuit-1850124493)
- - [Zelda 2 was Nintendo at its best: unpredictable](https://www.polygon.com/zelda/23600112/zelda-2-adventure-of-link-nes-tears-of-the-kingdom)
- - [Disney cracking down on Marvel’s Phase 5 output and beyond](https://www.polygon.com/23603081/disney-marvel-release-schedule-2023-phase-5)<!-- GAME:END -->
+ - [Bungie is going to sell a &#39;booster&#39; that unlocks the new Destiny 2: Lightfall subclass on your alt](https://www.pcgamer.com/bungie-is-going-to-sell-a-booster-that-unlocks-the-new-destiny-2-lightfall-subclass-on-your-alt)
+ - [Legendary Calvin And Hobbes Creator Is Back With Story Book For Adults After 28 Years Away](https://kotaku.com/calvin-and-hobbes-comic-creator-bill-waterson-new-book-1850124744)
+ - [Resident Evil 4 Remake system requirements are pleasantly mild](https://www.pcgamer.com/resident-evil-4-remake-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
