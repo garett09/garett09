@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tuna to go](http://9gag.com/gag/avQQxRX)
- - 🚯 [They&#39;re many and among us...](http://9gag.com/gag/aeQQ7jq)
- - 🚯 [Me after a second after into Hogwarts Legacy.](http://9gag.com/gag/aQEE2b7)<!-- MEMES:END -->
+ - 🚖 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
 
 --- 
 
