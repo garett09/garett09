@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
- - 🚯 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
- - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
+ - 🚖 [What was that about seeds?](http://9gag.com/gag/a1PPL9w)
+ - 🚯 [I am the English language your honour](http://9gag.com/gag/aVbbKgO)
+ - 🚯 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
 
 --- 
 
