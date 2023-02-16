@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 adoption rate higher than iOS 15, but iPadOS 16 lags](https://appleinsider.com/articles/23/02/16/ios-16-adoption-rate-higher-than-ios-15-but-ipados-16-lags-behind-ipados-15?utm_medium=rss)
- - [Microsoft authorizes Parallels Desktop 18 to support Windows 11 on Apple&#39;s M1 and M2 Macs, after previously only licensing ARM versions of Windows to OEMs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230216/p27#a230216p27)
- - [Microsoft gives official blessing to Windows 11 for ARM on Parallels](https://appleinsider.com/articles/23/02/16/microsoft-gives-official-blessing-to-windows-11-for-arm-on-parallels?utm_medium=rss)<!-- TECH:END -->
+ - [Big changes to Podcasts for listeners &amp; creators are coming in iOS 16.4](https://appleinsider.com/articles/23/02/16/big-changes-to-podcasts-for-listeners-creators-are-coming-in-ios-164?utm_medium=rss)
+ - [Whoop whoop: the excellent Whoop fitness tracker got more affordable](https://www.theverge.com/2023/2/16/23602633/whoop-subscription-wearable-fitness-tracker-pricing-inflation)
+ - [Tile tracker adds new indetectable mode, claims it helps victims of stalking](https://appleinsider.com/articles/23/02/16/tile-tracker-adds-new-anti-theft-measure-claims-it-helps-victims-of-stalking?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
