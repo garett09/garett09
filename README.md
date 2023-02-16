@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)
- - 🚯 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)<!-- MEMES:END -->
+ - 🚖 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
+ - 🚯 [Always check the source](http://9gag.com/gag/awZZO7W)
+ - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 --- 
 
