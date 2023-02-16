@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien’s Xenomorph is the ‘perfect organism,’ fit for any sci-fi story](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott)
- - [Explore Powderfall Bluffs in Slime Rancher 2: Song of the Sabers Free Update](https://news.xbox.com/en-us/2023/02/16/slime-rancher-2-song-of-the-sabers-update/)
- - [Doja Cat Streams ‘Satanic’ PowerWash Simulator On Twitch](https://kotaku.com/doja-cat-powerwash-simulator-twitch-streaming-satanic-1850123175)<!-- GAME:END -->
+ - [Winnie-the-Pooh: Blood and Honey gets three things right past its clickbait premise](https://www.polygon.com/reviews/23602955/winnie-the-pooh-blood-and-honey-review-horror)
+ - [Introducing Minecraft x Crocs](https://news.xbox.com/en-us/2023/02/16/introducing-minecraft-x-crocs/)
+ - [Nintendo&#39;s GBA Emulation For The Switch Is Stunning](https://kotaku.com/nintendo-switch-online-worth-it-zelda-mario-emulation-1850123109)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
