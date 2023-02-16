@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Train Your Dragon gets the live-action-remake treatment in 2025](https://www.polygon.com/23601846/how-to-train-your-dragon-live-action-release-date)
- - [How to learn and use unforgivable curses in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-unforgivable-curses)
- - [Valve Edits Blog Post, Walking Back Team Fortress 2 Hype](https://kotaku.com/tf2-team-fortress-2-valve-update-holiday-pc-steam-1850120486)<!-- GAME:END -->
+ - [Genshin Impact developer&#39;s next game draws 2M sign-ups as its launch nears](https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears)
+ - [Two More Online Shooters Are Winding Up, But In The Best Ways Possible](https://kotaku.com/natural-selection-spellbreak-steam-shooter-online-pc-1850120304)
+ - [How to Train Your Dragon gets the live-action-remake treatment in 2025](https://www.polygon.com/23601846/how-to-train-your-dragon-live-action-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
