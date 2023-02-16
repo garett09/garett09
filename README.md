@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games for PlayStation VR 2](https://www.polygon.com/what-to-play/23601726/playstation-vr-2-psvr2-ps5-sony-best-games)
- - [PlayStation VR 2 could become a huge leap — right now, it’s a small step](https://www.polygon.com/reviews/23601086/playstation-vr-2-review-ps5-release-date-price-horizon-vr-call-of-the-mountain)
- - [PS VR2: The Kotaku Review](https://kotaku.com/ps-vr2-ps5-sony-oculus-meta-quest-valve-index-alyx-1850121563)<!-- GAME:END -->
+ - [This fishing game is wonderfully therapeutic—until you find a Lovecraftian abomination in your net](https://www.pcgamer.com/this-fishing-game-is-wonderfully-therapeuticuntil-you-find-a-lovecraftian-abomination-in-your-net)
+ - [MLB The Show 23’s gameplay features detailed](https://blog.playstation.com/2023/02/16/mlb-the-show-23s-gameplay-features-detailed/)
+ - [Explore the Mysteries of The Frosted Heights in Disney Dreamlight Valley’s New Update “A Festival of Friendship”](https://news.xbox.com/en-us/2023/02/16/explore-the-mysteries-of-the-frosted-heights-in-disney-dreamlight-valleys-new-update-a-festival-of-friendship/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
