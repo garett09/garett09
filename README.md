@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a &#39;Retina&#39; display is, and why it matters](https://appleinsider.com/articles/23/02/16/what-a-retina-display-is-and-why-it-matters?utm_medium=rss)
- - [Apple continues to evolve the hinge it may use on a folding iPhone](https://appleinsider.com/articles/23/02/16/apple-continues-to-evolve-the-hinge-it-may-use-on-a-folding-iphone?utm_medium=rss)
- - [The Supreme Court could be about to decide the legal fate of AI search](https://www.theverge.com/2023/2/16/23591290/supreme-court-section-230-gonzalez-google-bard-bing-ai-search-algorithms)<!-- TECH:END -->
+ - [Apple working on how to read back iMessages in the sender&#39;s voice](https://appleinsider.com/articles/23/02/16/apple-working-on-how-to-read-back-imessages-in-the-senders-voice?utm_medium=rss)
+ - [The Secret to Cleaning a Cast-Iron Skillet Is Already In Your Pantry     - CNET](https://www.cnet.com/news/how-to-clean-cast-iron-skillet/#ftag=CAD590a51e)
+ - [Save $300 on a Pixel 7 and Get 6 Free Months of Service When You Prepay at Mint Mobile     - CNET](https://www.cnet.com/deals/mint-mobile-pixel-7-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
