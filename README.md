@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter updates its policies to allow cannabis ads targeting US states where cannabis is legal, promoting brands or providing info but not offering direct sales &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230215/p37#a230215p37)
- - [Apple Delays AR/VR Headset Reveal to WWDC, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-delays-arvr-headset-reveal-to-wwdc-report-says/#ftag=CAD590a51e)
- - [Galaxy S23 and S23 Plus First Look: Larger Battery and More Power     - CNET](https://www.cnet.com/tech/mobile/galaxy-s23-and-s23-plus-first-look-larger-battery-and-more-power/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Audio Technica ATH-M50x Review: Still great in 2023](https://appleinsider.com/articles/23/02/16/audio-technica-ath-m50x-review-still-great-in-2023?utm_medium=rss)
+ - [GitHub updates Copilot with better and more secure code suggestions and says 46% of developers&#39; code files across all languages were generated with Copilot &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230215/p38#a230215p38)
+ - [Apple TV will stream MLS games in 1080p](https://www.theverge.com/2023/2/15/23601561/apple-mls-season-pass-soccer-streaming-service-1080p)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
