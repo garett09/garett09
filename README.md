@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What was that about seeds?](http://9gag.com/gag/a1PPL9w)
- - 🚯 [I am the English language your honour](http://9gag.com/gag/aVbbKgO)
- - 🚯 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
+ - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
+ - 🚯 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
+ - 🚯 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)<!-- MEMES:END -->
 
 --- 
 
