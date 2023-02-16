@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audio Technica ATH-M50x Review: Still great in 2023](https://appleinsider.com/articles/23/02/16/audio-technica-ath-m50x-review-still-great-in-2023?utm_medium=rss)
- - [GitHub updates Copilot with better and more secure code suggestions and says 46% of developers&#39; code files across all languages were generated with Copilot &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230215/p38#a230215p38)
- - [Apple TV will stream MLS games in 1080p](https://www.theverge.com/2023/2/15/23601561/apple-mls-season-pass-soccer-streaming-service-1080p)<!-- TECH:END -->
+ - [Binance Chief Strategy Officer Patrick Hillmann says the company expects to pay monetary penalties to settle US regulatory and law enforcement investigations &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230215/p39#a230215p39)
+ - [Tom Holland Will Return as Spider-Man, Kevin Feige Says     - CNET](https://www.cnet.com/culture/entertainment/tom-holland-will-return-as-spider-man-kevin-feige-says/#ftag=CAD590a51e)
+ - [MediaTek announces first chip in Dimensity 7000 series](https://www.androidauthority.com/mediatek-dimensity-7200-3285227/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
