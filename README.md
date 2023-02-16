@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Winnie-the-Pooh: Blood and Honey gets three things right past its clickbait premise](https://www.polygon.com/reviews/23602955/winnie-the-pooh-blood-and-honey-review-horror)
- - [Introducing Minecraft x Crocs](https://news.xbox.com/en-us/2023/02/16/introducing-minecraft-x-crocs/)
- - [Nintendo&#39;s GBA Emulation For The Switch Is Stunning](https://kotaku.com/nintendo-switch-online-worth-it-zelda-mario-emulation-1850123109)<!-- GAME:END -->
+ - [Reddit Sued Over Forum That Launched GameStop Meme Stock Mania](https://kotaku.com/gamestop-meme-stock-wallstreetbets-reddit-lawsuit-1850124493)
+ - [Zelda 2 was Nintendo at its best: unpredictable](https://www.polygon.com/zelda/23600112/zelda-2-adventure-of-link-nes-tears-of-the-kingdom)
+ - [Disney cracking down on Marvel’s Phase 5 output and beyond](https://www.polygon.com/23603081/disney-marvel-release-schedule-2023-phase-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
