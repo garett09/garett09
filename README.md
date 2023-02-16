@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumbf**k thinks it&#39;s funny to knock over pizza boxes and get&#39;s kicked out](http://9gag.com/gag/aREEoE2)
- - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)
- - 🚯 [When the movie Beethoven &lpar;1992&rpar; was filmed, the actor playing the oldest kid was 12, the mom was 29, and the dad was... 56.](http://9gag.com/gag/az22OBj)<!-- MEMES:END -->
+ - 🚖 [And the best background actress award goes to the lady with the sandwich. The boys S2 Ep4 At 59:12](http://9gag.com/gag/avQQE2O)
+ - 🚯 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
+ - 🚯 [Isn&#39;t that obvious?](http://9gag.com/gag/aeQQVem)<!-- MEMES:END -->
 
 --- 
 
