@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gameplay details from Destiny 2: Lightfall’s first mission](https://blog.playstation.com/2023/02/16/gameplay-details-from-destiny-2-lightfalls-first-mission/)
- - [How to join friends and enable crossplay in Wild Hearts multiplayer](https://www.polygon.com/wild-hearts-guides/23601323/multiplayer-crossplay-join-friends-start-session-story-progression-playstation-ps5-xbox-pc)
- - [What does ‘Awakening condition not met’ mean in Wild Hearts?](https://www.polygon.com/wild-hearts-guides/23601317/awakening-condition-not-met-upgrade-tree)<!-- GAME:END -->
+ - [Wild Hearts immersive PS5 haptics and triggers features detailed](https://blog.playstation.com/2023/02/16/wild-hearts-immersive-ps5-haptics-and-triggers-features-detailed/)
+ - [Free Play Days – Far Cry 6 and NBA 2K23](https://news.xbox.com/en-us/2023/02/16/free-play-days-far-cry-6-and-nba-2k23/)
+ - [BTS gets an official Lego set for K-pop smash ‘Dynamite’](https://www.polygon.com/23602562/bts-lego-set-official-dynamite-price-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
