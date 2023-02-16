@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hogwarts Legacy Discord is an unreadable battleground](https://www.polygon.com/23598433/hogwarts-legacy-harry-potter-discord-toxic)
- - [Keanu Reeves Continues To Have The Best Tech Takes](https://kotaku.com/keanu-reeves-john-wick-4-deepfake-nfts-contract-ban-1850122781)
- - [Crypto Bro From Big Crash May Lose Access To League Of Legends](https://kotaku.com/ftx-crypto-crash-sbf-league-legends-securities-fraud-1850122547)<!-- GAME:END -->
+ - [Huesera takes pregnancy body horror up to 11](https://www.polygon.com/reviews/23601603/huesera-the-bone-woman-movie-review)
+ - [Sword and Fairy: Together Forever Coming to Game Pass on July 6](https://news.xbox.com/en-us/2023/02/16/sword-and-fairy-together-forever-game-pass-july-6/)
+ - [Where to find Lightstone and Mirrorstone in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602758/lightstone-mirrorstone-weapon-upgrade-ore-tsukumo-shrine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
