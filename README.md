@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Huesera takes pregnancy body horror up to 11](https://www.polygon.com/reviews/23601603/huesera-the-bone-woman-movie-review)
- - [Sword and Fairy: Together Forever Coming to Game Pass on July 6](https://news.xbox.com/en-us/2023/02/16/sword-and-fairy-together-forever-game-pass-july-6/)
- - [Where to find Lightstone and Mirrorstone in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602758/lightstone-mirrorstone-weapon-upgrade-ore-tsukumo-shrine)<!-- GAME:END -->
+ - [Alien’s Xenomorph is the ‘perfect organism,’ fit for any sci-fi story](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott)
+ - [Explore Powderfall Bluffs in Slime Rancher 2: Song of the Sabers Free Update](https://news.xbox.com/en-us/2023/02/16/slime-rancher-2-song-of-the-sabers-update/)
+ - [Doja Cat Streams ‘Satanic’ PowerWash Simulator On Twitch](https://kotaku.com/doja-cat-powerwash-simulator-twitch-streaming-satanic-1850123175)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
