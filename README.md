@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This fishing game is wonderfully therapeutic—until you find a Lovecraftian abomination in your net](https://www.pcgamer.com/this-fishing-game-is-wonderfully-therapeuticuntil-you-find-a-lovecraftian-abomination-in-your-net)
- - [MLB The Show 23’s gameplay features detailed](https://blog.playstation.com/2023/02/16/mlb-the-show-23s-gameplay-features-detailed/)
- - [Explore the Mysteries of The Frosted Heights in Disney Dreamlight Valley’s New Update “A Festival of Friendship”](https://news.xbox.com/en-us/2023/02/16/explore-the-mysteries-of-the-frosted-heights-in-disney-dreamlight-valleys-new-update-a-festival-of-friendship/)<!-- GAME:END -->
+ - [Gameplay details from Destiny 2: Lightfall’s first mission](https://blog.playstation.com/2023/02/16/gameplay-details-from-destiny-2-lightfalls-first-mission/)
+ - [How to join friends and enable crossplay in Wild Hearts multiplayer](https://www.polygon.com/wild-hearts-guides/23601323/multiplayer-crossplay-join-friends-start-session-story-progression-playstation-ps5-xbox-pc)
+ - [What does ‘Awakening condition not met’ mean in Wild Hearts?](https://www.polygon.com/wild-hearts-guides/23601317/awakening-condition-not-met-upgrade-tree)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
