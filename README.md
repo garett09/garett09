@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least he&#39;s notable](http://9gag.com/gag/az22RAp)
- - 🚯 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - 🚯 [I bet he didn&#39;t see it coming.](http://9gag.com/gag/a1PPL0D)<!-- MEMES:END -->
+ - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
+ - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)
+ - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
 
 --- 
 
