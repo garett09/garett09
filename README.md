@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: YouTube CEO Susan Wojcicki, who has led the site for the last nine years, plans to step down and will be replaced by her longtime lieutenant Neal Mohan &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230216/p22#a230216p22)
- - [TikTok announces TikTok Trivia, a livestreamed trivia quiz hosted daily between February 22 and 26, open to those 18 and over in the US with a $500K price pool &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230216/p21#a230216p21)
- - [What Chatbot Bloopers Reveal About the Future of AI](https://www.wired.com/story/bing-chatbot-errors-ai-future/)<!-- TECH:END -->
+ - [Apple releases first developer betas for iOS 16.4 and iPadOS 16.4](https://appleinsider.com/articles/23/02/16/apple-releases-first-developer-betas-for-ios-164-and-ipados-164?utm_medium=rss)
+ - [Microsoft to support Windows 11 on Apple M1 and M2 Macs through Parallels partnership](https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines)
+ - [Apple seeds the first developer beta for macOS Ventura 13.3](https://appleinsider.com/articles/23/02/16/apple-seeds-the-first-developer-beta-for-macos-ventura-133?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
