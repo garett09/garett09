@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Dumbf**k thinks it&#39;s funny to knock over pizza boxes and get&#39;s kicked out](http://9gag.com/gag/aREEoE2)
- - 🚯 [This guy sitting near switches on the water tap as soon as somebody walks in. Indian weddings creates 1000s of BS jobs?](http://9gag.com/gag/adPPnQd)
- - 🚯 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)<!-- MEMES:END -->
+ - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)
+ - 🚯 [When the movie Beethoven &lpar;1992&rpar; was filmed, the actor playing the oldest kid was 12, the mom was 29, and the dad was... 56.](http://9gag.com/gag/az22OBj)<!-- MEMES:END -->
 
 --- 
 
