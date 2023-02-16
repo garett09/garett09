@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus’ Daily Player Count Plunges By 99 Percent, But Maybe Pickle Rick Can Save It](https://kotaku.com/multiversus-steam-pc-pickle-rick-morty-player-count-1850120234)
- - [Behold the incredibly blursed Dagoth Ur pie](https://www.polygon.com/23601393/dagoth-ur-morrowind-pie-ai)
- - [‘All Your Base Are Belong To Us’ Game Out On Steam, But Without Famous Meme](https://kotaku.com/all-your-base-meme-zero-wing-out-on-steam-pc-mega-drive-1850120124)<!-- GAME:END -->
+ - [How to Train Your Dragon gets the live-action-remake treatment in 2025](https://www.polygon.com/23601846/how-to-train-your-dragon-live-action-release-date)
+ - [How to learn and use unforgivable curses in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-unforgivable-curses)
+ - [Valve Edits Blog Post, Walking Back Team Fortress 2 Hype](https://kotaku.com/tf2-team-fortress-2-valve-update-holiday-pc-steam-1850120486)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
