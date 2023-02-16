@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not today](http://9gag.com/gag/a8qqmEV)
- - 🚯 [And the best background actress award goes to the lady with the sandwich. The boys S2 Ep4 At 59:12](http://9gag.com/gag/avQQE2O)
- - 🚯 [Fastest hand in the east.](http://9gag.com/gag/aBddG01)<!-- MEMES:END -->
+ - 🚖 [MySQL](http://9gag.com/gag/aqeeWNp)
+ - 🚯 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
+ - 🚯 [Isn&#39;t that obvious?](http://9gag.com/gag/aeQQVem)<!-- MEMES:END -->
 
 --- 
 
