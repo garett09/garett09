@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gettin a bit excited](http://9gag.com/gag/a5XXzjE)
- - 🚯 [Nice transition ngl.](http://9gag.com/gag/amAAm1d)
- - 🚯 [And suddenly, a car](http://9gag.com/gag/aA00XYE)<!-- MEMES:END -->
+ - 🚖 [At least he&#39;s notable](http://9gag.com/gag/az22RAp)
+ - 🚯 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 🚯 [I bet he didn&#39;t see it coming.](http://9gag.com/gag/a1PPL0D)<!-- MEMES:END -->
 
 --- 
 
