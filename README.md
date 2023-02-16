@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - 🚯 [Always check the source](http://9gag.com/gag/awZZO7W)
+ - 🚖 [Enjoy your dreams tonight....](http://9gag.com/gag/a2KKyvY)
+ - 🚯 [Date Night](http://9gag.com/gag/aPggAwG)
  - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 --- 
