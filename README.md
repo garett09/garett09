@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 🚯 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
- - 🚯 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)<!-- MEMES:END -->
+ - 🚖 [Tuna to go](http://9gag.com/gag/avQQxRX)
+ - 🚯 [They&#39;re many and among us...](http://9gag.com/gag/aeQQ7jq)
+ - 🚯 [Me after a second after into Hogwarts Legacy.](http://9gag.com/gag/aQEE2b7)<!-- MEMES:END -->
 
 --- 
 
