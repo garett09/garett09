@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔍 A fantastic flip phone find!](https://www.androidauthority.com/daily-authority-february-16-2023-3285958/)
- - [Microsoft reflects on the new Bing: 71% gave AI answers a thumbs up, Bing can become repetitive after 15+ questions, a few sessions over two hours, and more &lpar;Bing Blogs&rpar;](http://www.techmeme.com/230216/p3#a230216p3)
- - [The Reserve Bank of India publishes a list of 32 entities, including Google Pay and Amazon Pay, that can act as online payment aggregators in the country &lpar;Anup Roy/Bloomberg&rpar;](http://www.techmeme.com/230216/p2#a230216p2)<!-- TECH:END -->
+ - [Jaime Rogozinski, who created r/WallStreetBets, sues Reddit, arguing the company breached its contract by removing him as a moderator in 2020 &lpar;Akane Otani/Wall Street Journal&rpar;](http://www.techmeme.com/230216/p6#a230216p6)
+ - [Casetify launches collaboration with &#39;The Office&#39;-branded accessories](https://appleinsider.com/articles/23/02/16/casetify-launches-collaboration-with-the-office-branded-accessories?utm_medium=rss)
+ - [Plex makes it easier to skip movie and TV show credits](https://www.theverge.com/2023/2/16/23602333/plex-skip-credits-feature-detection-server-streaming-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
