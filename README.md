@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat sees his friend after a long time](http://9gag.com/gag/anzzvr5)
- - 🚯 [Gettin a bit excited](http://9gag.com/gag/a5XXzjE)
- - 🚯 [Nice transition ngl.](http://9gag.com/gag/amAAm1d)<!-- MEMES:END -->
+ - 🚖 [Gettin a bit excited](http://9gag.com/gag/a5XXzjE)
+ - 🚯 [Nice transition ngl.](http://9gag.com/gag/amAAm1d)
+ - 🚯 [And suddenly, a car](http://9gag.com/gag/aA00XYE)<!-- MEMES:END -->
 
 --- 
 
