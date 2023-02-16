@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jaime Rogozinski, who created r/WallStreetBets, sues Reddit, arguing the company breached its contract by removing him as a moderator in 2020 &lpar;Akane Otani/Wall Street Journal&rpar;](http://www.techmeme.com/230216/p6#a230216p6)
- - [Casetify launches collaboration with &#39;The Office&#39;-branded accessories](https://appleinsider.com/articles/23/02/16/casetify-launches-collaboration-with-the-office-branded-accessories?utm_medium=rss)
- - [Plex makes it easier to skip movie and TV show credits](https://www.theverge.com/2023/2/16/23602333/plex-skip-credits-feature-detection-server-streaming-announcement)<!-- TECH:END -->
+ - [An interview with CS professor and ex-NHTSA adviser Missy Cummings, who says people are &quot;over-trusting&quot; Tesla&#39;s Autopilot, GM&#39;s Super Cruise, and other systems &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230216/p10#a230216p10)
+ - [A profile of FTX co-founder and CTO Gary Wang, a roommate to Sam Bankman-Fried at MIT who is cooperating with the US, as insiders say he may have key insights &lpar;Bloomberg&rpar;](http://www.techmeme.com/230216/p9#a230216p9)
+ - [The 15 Best Presidents’ Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-presidents-day-deals-sales-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
