@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 🚯 [Kinda Rich Guy](http://9gag.com/gag/aDYYXoN)
- - 🚯 [Let the teacher browse some study material](http://9gag.com/gag/aGEE2xX)<!-- MEMES:END -->
+ - 🚖 [Cat sees his friend after a long time](http://9gag.com/gag/anzzvr5)
+ - 🚯 [Gettin a bit excited](http://9gag.com/gag/a5XXzjE)
+ - 🚯 [Nice transition ngl.](http://9gag.com/gag/amAAm1d)<!-- MEMES:END -->
 
 --- 
 
