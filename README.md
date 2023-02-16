@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
- - 🚯 [MySQL](http://9gag.com/gag/aqeeWNp)
- - 🚯 [Isn&#39;t that obvious?](http://9gag.com/gag/aeQQVem)<!-- MEMES:END -->
+ - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚯 [Kinda Rich Guy](http://9gag.com/gag/aDYYXoN)
+ - 🚯 [Let the teacher browse some study material](http://9gag.com/gag/aGEE2xX)<!-- MEMES:END -->
 
 --- 
 
