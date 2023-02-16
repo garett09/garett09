@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)
- - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
+ - 🚖 [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
+ - 🚯 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
+ - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
 
 --- 
 
