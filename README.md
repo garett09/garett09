@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact drops actor who admitted to sexual misconduct and pledges to scrub him from the game entirely](https://www.pcgamer.com/genshin-impact-drops-actor-who-admitted-to-sexual-misconduct-and-pledges-to-scrub-him-from-the-game-entirely)
- - [You don&#39;t need an expensive gaming keyboard](https://www.pcgamer.com/you-dont-need-an-expensive-gaming-keyboard)
- - [Wild Hearts weapon tips: How to use each one](https://www.pcgamer.com/wild-hearts-weapons-tips)<!-- GAME:END -->
+ - [The best games for PlayStation VR 2](https://www.polygon.com/what-to-play/23601726/playstation-vr-2-psvr2-ps5-sony-best-games)
+ - [PlayStation VR 2 could become a huge leap — right now, it’s a small step](https://www.polygon.com/reviews/23601086/playstation-vr-2-review-ps5-release-date-price-horizon-vr-call-of-the-mountain)
+ - [PS VR2: The Kotaku Review](https://kotaku.com/ps-vr2-ps5-sony-oculus-meta-quest-valve-index-alyx-1850121563)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
