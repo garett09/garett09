@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple working on how to read back iMessages in the sender&#39;s voice](https://appleinsider.com/articles/23/02/16/apple-working-on-how-to-read-back-imessages-in-the-senders-voice?utm_medium=rss)
- - [The Secret to Cleaning a Cast-Iron Skillet Is Already In Your Pantry     - CNET](https://www.cnet.com/news/how-to-clean-cast-iron-skillet/#ftag=CAD590a51e)
- - [Save $300 on a Pixel 7 and Get 6 Free Months of Service When You Prepay at Mint Mobile     - CNET](https://www.cnet.com/deals/mint-mobile-pixel-7-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: YouTube CEO Susan Wojcicki, who has led the site for the last nine years, plans to step down and will be replaced by her longtime lieutenant Neal Mohan &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230216/p22#a230216p22)
+ - [TikTok announces TikTok Trivia, a livestreamed trivia quiz hosted daily between February 22 and 26, open to those 18 and over in the US with a $500K price pool &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230216/p21#a230216p21)
+ - [What Chatbot Bloopers Reveal About the Future of AI](https://www.wired.com/story/bing-chatbot-errors-ai-future/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
