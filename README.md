@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based esports tournament company VSPO raised a $265M Series C from Saudi Arabia&#39;s Savvy Games Group, seeking to reboot pro gaming in China after a lull &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230216/p15#a230216p15)
- - [The Best Eero Wi-Fi Mesh Routers &lpar;2023&rpar;: Eero 6, 6+, Pro 6, and More Tips](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
- - [Q&amp;A with IBM CEO Arvind Krishna on OpenAI&#39;s ChatGPT, research into LLMs, companies using AI, Deep Blue and chess, practical uses for generative AI, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230216/p14#a230216p14)<!-- TECH:END -->
+ - [What a &#39;Retina&#39; display is, and why it matters](https://appleinsider.com/articles/23/02/16/what-a-retina-display-is-and-why-it-matters?utm_medium=rss)
+ - [Apple continues to evolve the hinge it may use on a folding iPhone](https://appleinsider.com/articles/23/02/16/apple-continues-to-evolve-the-hinge-it-may-use-on-a-folding-iphone?utm_medium=rss)
+ - [The Supreme Court could be about to decide the legal fate of AI search](https://www.theverge.com/2023/2/16/23591290/supreme-court-section-230-gonzalez-google-bard-bing-ai-search-algorithms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
