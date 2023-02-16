@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like Samsung might revive the Fan Edition with the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-3285992/)
- - [You can now control your Xbox with the Google Home app](https://www.androidauthority.com/control-xbox-google-home-app-3285971/)
- - [Big Tech CEOs Hit With House Subpoenas Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/big-tech-ceos-hit-with-house-subpoenas-over-censorship-claims/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A brief history of Rust, a programming language that emerged from a side project and has been instrumental in driving the shift toward memory safe programming &lpar;Clive Thompson/MIT Technology Review&rpar;](http://www.techmeme.com/230216/p1#a230216p1)
+ - [OnePlus made a mistake, will NOT update the OnePlus 11R for 4 years](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)
+ - [Looks like Samsung might revive the Fan Edition with the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-3285992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
