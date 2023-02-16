@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
+ - 🚖 [Weekly Free Games Report o7](http://9gag.com/gag/ay22Yyp)
+ - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
