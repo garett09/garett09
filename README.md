@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Buy your man some flowers girls.](http://9gag.com/gag/aKEEWA1)
+ - 🚖 [Dumbf**k thinks it&#39;s funny to knock over pizza boxes and get&#39;s kicked out](http://9gag.com/gag/aREEoE2)
  - 🚯 [This guy sitting near switches on the water tap as soon as somebody walks in. Indian weddings creates 1000s of BS jobs?](http://9gag.com/gag/adPPnQd)
  - 🚯 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)<!-- MEMES:END -->
 
