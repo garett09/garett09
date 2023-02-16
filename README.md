@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [You can now control your Xbox with the Google Home app](https://www.androidauthority.com/control-xbox-google-home-app-3285971/)
- - [BTS now have their very own Lego set — with figures of all seven bandmembers](https://www.theverge.com/23601599/lego-bts-dynamite-music-video-set-release-date-price)
- - [An interview with TikTok CEO Shou Zi Chew as he works to persuade US lawmakers that the app is not a national security threat, calling suspicions &quot;misinformed&quot; &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230215/p44#a230215p44)<!-- TECH:END -->
+ - [Big Tech CEOs Hit With House Subpoenas Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/big-tech-ceos-hit-with-house-subpoenas-over-censorship-claims/#ftag=CAD590a51e)
+ - [BTS now have their very own Lego set — with figures of all seven bandmembers](https://www.theverge.com/23601599/lego-bts-dynamite-music-video-set-release-date-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
