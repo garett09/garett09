@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A brief history of Rust, a programming language that emerged from a side project and has been instrumental in driving the shift toward memory safe programming &lpar;Clive Thompson/MIT Technology Review&rpar;](http://www.techmeme.com/230216/p1#a230216p1)
- - [OnePlus made a mistake, will NOT update the OnePlus 11R for 4 years](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)
- - [Looks like Samsung might revive the Fan Edition with the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-3285992/)<!-- TECH:END -->
+ - [Daily Authority: 🔍 A fantastic flip phone find!](https://www.androidauthority.com/daily-authority-february-16-2023-3285958/)
+ - [Microsoft reflects on the new Bing: 71% gave AI answers a thumbs up, Bing can become repetitive after 15+ questions, a few sessions over two hours, and more &lpar;Bing Blogs&rpar;](http://www.techmeme.com/230216/p3#a230216p3)
+ - [The Reserve Bank of India publishes a list of 32 entities, including Google Pay and Amazon Pay, that can act as online payment aggregators in the country &lpar;Anup Roy/Bloomberg&rpar;](http://www.techmeme.com/230216/p2#a230216p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
