@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weekly Free Games Report o7](http://9gag.com/gag/ay22Yyp)
- - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 🚖 [Me after a second after into Hogwarts Legacy.](http://9gag.com/gag/aQEE2b7)
+ - 🚯 [Revenge of the cat](http://9gag.com/gag/adPPoQZ)
+ - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
 
 --- 
 
