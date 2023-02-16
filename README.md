@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with CS professor and ex-NHTSA adviser Missy Cummings, who says people are &quot;over-trusting&quot; Tesla&#39;s Autopilot, GM&#39;s Super Cruise, and other systems &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230216/p10#a230216p10)
- - [A profile of FTX co-founder and CTO Gary Wang, a roommate to Sam Bankman-Fried at MIT who is cooperating with the US, as insiders say he may have key insights &lpar;Bloomberg&rpar;](http://www.techmeme.com/230216/p9#a230216p9)
- - [The 15 Best Presidents’ Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-presidents-day-deals-sales-2023/)<!-- TECH:END -->
+ - [PlayStation VR2 review: excellent OLED displays, comfortable, solid controllers, and immersive headset haptics, but pricey and limited games at launch &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/230216/p13#a230216p13)
+ - [What a &#39;Retina&#39; display is, and why it matters](https://appleinsider.com/articles/23/02/16/what-a-retina-display-is-and-why-it-matters?utm_medium=rss)
+ - [Crypto Buyers Beware: 1 in 4 New Tokens of Any Value Is a Scam](https://www.wired.com/story/new-crypto-token-scams-2022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
