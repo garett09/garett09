@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad console beep](http://9gag.com/gag/anzzR35)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 🚯 [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)<!-- MEMES:END -->
+ - 🚖 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
+ - 🚯 [MySQL](http://9gag.com/gag/aqeeWNp)
+ - 🚯 [Isn&#39;t that obvious?](http://9gag.com/gag/aeQQVem)<!-- MEMES:END -->
 
 --- 
 
