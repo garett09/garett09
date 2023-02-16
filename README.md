@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me after a second after into Hogwarts Legacy.](http://9gag.com/gag/aQEE2b7)
- - 🚯 [Revenge of the cat](http://9gag.com/gag/adPPoQZ)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
+ - 🚖 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
+ - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)
+ - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 --- 
 
