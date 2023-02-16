@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wild Hearts immersive PS5 haptics and triggers features detailed](https://blog.playstation.com/2023/02/16/wild-hearts-immersive-ps5-haptics-and-triggers-features-detailed/)
- - [Free Play Days – Far Cry 6 and NBA 2K23](https://news.xbox.com/en-us/2023/02/16/free-play-days-far-cry-6-and-nba-2k23/)
- - [BTS gets an official Lego set for K-pop smash ‘Dynamite’](https://www.polygon.com/23602562/bts-lego-set-official-dynamite-price-release-date)<!-- GAME:END -->
+ - [The Hogwarts Legacy Discord is an unreadable battleground](https://www.polygon.com/23598433/hogwarts-legacy-harry-potter-discord-toxic)
+ - [Keanu Reeves Continues To Have The Best Tech Takes](https://kotaku.com/keanu-reeves-john-wick-4-deepfake-nfts-contract-ban-1850122781)
+ - [Crypto Bro From Big Crash May Lose Access To League Of Legends](https://kotaku.com/ftx-crypto-crash-sbf-league-legends-securities-fraud-1850122547)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
