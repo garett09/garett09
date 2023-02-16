@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #607: Thursday, February 16](https://www.pcgamer.com/wordle-hint-answer-today-607-february-16)
  - [Quantum computing just got another step closer](https://www.pcgamer.com/quantum-computing-just-got-closer-with-scalable-chaplets)
- - [Experts say the AI singularity could be here in the next two decades](https://www.pcgamer.com/experts-say-the-ai-singularity-could-be-here-in-the-next-two-decades)
- - [Genshin Impact developer&#39;s next game draws 2M sign-ups as its launch nears](https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears)<!-- GAME:END -->
+ - [Experts say the AI singularity could be here in the next two decades](https://www.pcgamer.com/experts-say-the-ai-singularity-could-be-here-in-the-next-two-decades)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
