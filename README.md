@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wild Hearts weapon tips: How to use each one](https://www.pcgamer.com/wild-hearts-weapons-tips)
  - [Deep Rock Galactic dev launches publishing label for Danish studios](https://www.polygon.com/23599324/deep-rock-galactic-developer-ghost-ship-games-publishing)
- - [Wordle hint and answer #607: Thursday, February 16](https://www.pcgamer.com/wordle-hint-answer-today-607-february-16)
- - [Quantum computing just got another step closer](https://www.pcgamer.com/quantum-computing-just-got-closer-with-scalable-chaplets)<!-- GAME:END -->
+ - [Wordle hint and answer #607: Thursday, February 16](https://www.pcgamer.com/wordle-hint-answer-today-607-february-16)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
