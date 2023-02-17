@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Effing legend](http://9gag.com/gag/adPPx8N)
- - 🚯 [Ternary FTW](http://9gag.com/gag/ap99br5)
- - 🚯 [No. You. Cannot. Pick. Your. Gender. You are either a man or a woman. Period!](http://9gag.com/gag/anzzDP0)<!-- MEMES:END -->
+ - 🚖 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
 
 --- 
 
