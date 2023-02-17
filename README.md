@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
- - 🚯 [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
- - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
+ - 🚖 [Time to quit Tinder, move to Duolingo.](http://9gag.com/gag/a1PPqDG)
+ - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
