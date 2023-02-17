@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite now has a Bandcamp radio station](https://www.theverge.com/2023/2/17/23604406/fortnite-bandcamp-epic-games-radio-music)
- - [Tile Anti-Theft Mode makes its trackers ‘invisible,’ with a $1 million fine for misuse](https://www.theverge.com/2023/2/17/23603989/tile-location-tracker-anti-theft-mode)
- - [The 41 Best Films on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Apple making the case that Apple Silicon Mac &amp; iPhone are great gaming machines](https://appleinsider.com/articles/23/02/17/apple-making-the-case-that-apple-silicon-mac-iphone-are-great-gaming-machines?utm_medium=rss)
+ - [Sources: Jump is the unidentified &quot;US trading firm&quot; that the SEC has said helped support the TerraUSD stablecoin in May 2021; Jump was not accused of wrongdoing &lpar;The Block&rpar;](http://www.techmeme.com/230217/p23#a230217p23)
+ - [How to Watch the Unrated Version of &#39;Megan&#39;: Release Date and More     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-the-unrated-version-of-megan-release-date-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
