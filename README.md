@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Want to run Windows on your Apple Silicon Mac? Microsoft says OK](https://www.androidauthority.com/microsoft-allow-authorized-windows-11-apple-silicon-macs-3286514/)
  - [Poll: Has your Galaxy S23 order arrived early?](https://www.androidauthority.com/samsung-galaxy-s23-order-early-poll-3286493/)
- - [New Galaxy S23 feature promises protection against nasty images](https://www.androidauthority.com/samsung-message-guard-3286488/)
- - [Best PS5 Headsets for 2023: Top Headsets Ranked     - CNET](https://www.cnet.com/tech/gaming/best-ps5-gaming-headsets-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Galaxy S23 feature promises protection against nasty images](https://www.androidauthority.com/samsung-message-guard-3286488/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
