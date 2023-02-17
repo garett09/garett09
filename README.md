@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be getting a secret slice of Google Chrome search earnings](https://appleinsider.com/articles/23/02/17/apple-may-be-getting-a-slice-of-google-chrome-search-earnings?utm_medium=rss)
- - [iPhone leading the charge for China smartphone market recovery](https://appleinsider.com/articles/23/02/17/iphone-leading-the-charge-for-china-smartphone-market-recovery?utm_medium=rss)
- - [Source: Binance is considering de-listing USDC and other tokens and ending relationships with US partners, including VC investments, amid regulatory scrutiny &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230217/p12#a230217p12)<!-- TECH:END -->
+ - [Source: Microsoft is demoing Bing chatbot to ad agencies, saying it plans paid links within the chatbox responses and industry-specific ads &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230217/p15#a230217p15)
+ - [Microsoft says it is looking at limiting Bing chatbot conversation length and adding tools to let users restart conversations or get more control over tone &lpar;New York Times&rpar;](http://www.techmeme.com/230217/p14#a230217p14)
+ - [The US launches an initiative of non-legally binding guidelines promoting international cooperation on militaries&#39; responsible use of AI and autonomous weapons &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/230217/p13#a230217p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
