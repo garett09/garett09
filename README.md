@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First public betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, watchOS 9.4 arrive](https://appleinsider.com/articles/23/02/17/first-public-betas-for-ios-164-ipados-164-tvos-164-watchos-94-arrive?utm_medium=rss)
- - [Data Breaches: The Complete WIRED Guide](https://www.wired.com/story/wired-guide-to-data-breaches/)
- - [Amazon asks corporate staff to be back in the office at least three days per week, starting May 1, after previously leaving the decisions to team leaders &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230217/p21#a230217p21)<!-- TECH:END -->
+ - [Fortnite now has a Bandcamp radio station](https://www.theverge.com/2023/2/17/23604406/fortnite-bandcamp-epic-games-radio-music)
+ - [Tile Anti-Theft Mode makes its trackers ‘invisible,’ with a $1 million fine for misuse](https://www.theverge.com/2023/2/17/23603989/tile-location-tracker-anti-theft-mode)
+ - [The 41 Best Films on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
