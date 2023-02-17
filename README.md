@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you’re confused why Marvel movies on Disney Plus bounce around aspect ratios...](https://www.polygon.com/23604022/marvel-movies-disney-plus-black-bars-fullscreen-imax-enhanced-off)
- - [Like a Dragon: Ishin! review](https://www.pcgamer.com/like-a-dragon-ishin-review)
- - [Next Week on Xbox: New Games for February 20 to 24](https://news.xbox.com/en-us/2023/02/17/next-week-on-xbox-new-games-for-february-20-to-24/)<!-- GAME:END -->
+ - [RIP: New PS5 VR Horror Game Makes Things Scarier If You Blink](https://kotaku.com/psvr2-horror-switchback-vr-eye-tracking-trailer-release-1850127438)
+ - [Drums Rock launches February 22: PS VR2 features detailed](https://blog.playstation.com/2023/02/17/drums-rock-launches-february-22-ps-vr2-features-detailed/)
+ - [The good news is that you can grab an RTX 4090 laptop for $2,851](https://www.pcgamer.com/the-good-news-is-that-you-can-grab-an-rtx-4090-laptop-for-dollar2851)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
