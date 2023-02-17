@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo posts its worst revenue fall in 14 years with Q3 revenue of $15.3B, down 24% YoY, and net income of $437M, down 32% YoY, and warns of job cuts &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230217/p2#a230217p2)
- - [Samsung has created a zero-click antivirus for messages](https://www.theverge.com/2023/2/17/23603919/samsung-message-guard-malware-zero-click-exploit-security-feature)
- - [Bitcoin Miners Are Playing a High-Stakes Game of Chicken](https://www.wired.com/story/bitcoin-mining-halving-crypto-winter/)<!-- TECH:END -->
+ - [Sources: Meta gave ~10% of staff subpar ratings in recent performance reviews, a sign of more workforce reductions, and cut a bonus metric to 85% of its target &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230217/p4#a230217p4)
+ - [Bulgaria and London-based Dronamics, which says it has a license to operate autonomous, long-range, cargo drones in Europe, raised a $40M pre-Series A &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230217/p3#a230217p3)
+ - [One Startup’s Plan to Help Africa Lure Back Its AI Talent](https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
