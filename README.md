@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 3.5 livestream](https://www.pcgamer.com/genshin-impact-codes-3-5-livestream)
- - [Why are people arguing about Atomic Heart?](https://www.pcgamer.com/why-are-people-arguing-about-atomic-heart)
- - [Octopath Traveler 2 is eight good stories in search of a great one](https://www.polygon.com/reviews/23602774/octopath-traveler-2-review-switch-ps5-pc-release-date-characters-jrpg)<!-- GAME:END -->
+ - [It&#39;s a great weekend for trying big games for free](https://www.pcgamer.com/its-a-great-weekend-for-trying-big-games-for-free)
+ - [Wild Hearts devs acknowledge the PC port runs terribly and promise fix next week](https://www.pcgamer.com/wild-hearts-devs-acknowledge-the-pc-port-runs-terribly-and-promise-fix-next-week)
+ - [A thank you from Guerrilla: Horizon Forbidden West’s one-year anniversary](https://blog.playstation.com/2023/02/17/a-thank-you-from-guerrilla-horizon-forbidden-wests-one-year-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
