@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
- - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)
- - 🚯 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
+ - 🚖 [Effing legend](http://9gag.com/gag/adPPx8N)
+ - 🚯 [Ternary FTW](http://9gag.com/gag/ap99br5)
+ - 🚯 [No. You. Cannot. Pick. Your. Gender. You are either a man or a woman. Period!](http://9gag.com/gag/anzzDP0)<!-- MEMES:END -->
 
 --- 
 
