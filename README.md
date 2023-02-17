@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate Batman&#39;s Birthday And Buy The Game He Dies In For Half Off](https://kotaku.com/batman-steam-games-sale-gotham-knights-arkham-keaton-1850128182)
- - [Share of the Week: Romance](https://blog.playstation.com/2023/02/17/share-of-the-week-romance/)
- - [Hogwarts Legacy: Support Animal Conservation with the Magical Beasts Quiz](https://news.xbox.com/en-us/2023/02/17/hogwarts-legacy-animal-conservation-quiz/)<!-- GAME:END -->
+ - [Get Immersed in the World of Dragon Ball Z: Kakarot and Season Pass 2, Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/02/17/get-immersed-in-the-world-of-dragon-ball-z-kakarot-and-season-pass-2-now-on-xbox-series-xs/)
+ - [On Physical: 100, every ripped athlete is also a devout cheerleader](https://www.polygon.com/23602763/physical-100-season-1-review)
+ - [GameStop Employee Explains What Made Her Close A Store And Never Come Back](https://kotaku.com/gamestop-meme-stock-nft-pre-orders-hogwarts-legacy-1850128791)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
