@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
+ - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
  - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 --- 
 
