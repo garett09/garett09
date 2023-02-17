@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kang went from Marvel’s weirdest villain to the MCU’s future](https://www.polygon.com/23602923/who-is-kang-he-who-remains-immortus-council-of-kangs)
- - [Deeply weird Alice video basically begs EA to fund the game](https://www.pcgamer.com/deeply-weird-alice-video-basically-begs-ea-to-fund-the-game)
- - [It&#39;s a great weekend for trying big games for free](https://www.pcgamer.com/its-a-great-weekend-for-trying-big-games-for-free)<!-- GAME:END -->
+ - [If you’re confused why Marvel movies on Disney Plus bounce around aspect ratios...](https://www.polygon.com/23604022/marvel-movies-disney-plus-black-bars-fullscreen-imax-enhanced-off)
+ - [Like a Dragon: Ishin! review](https://www.pcgamer.com/like-a-dragon-ishin-review)
+ - [Next Week on Xbox: New Games for February 20 to 24](https://news.xbox.com/en-us/2023/02/17/next-week-on-xbox-new-games-for-february-20-to-24/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
