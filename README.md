@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Buy your man some flowers girls.](http://9gag.com/gag/aKEEWA1)
- - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
+ - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚯 [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)
+ - 🚯 [I am the English language your honour](http://9gag.com/gag/aVbbKgO)<!-- MEMES:END -->
 
 --- 
 
