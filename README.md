@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jeff Minter interview: the legendary game designer on his upcoming PS4 &amp; PS5 arcade title Akka Arrh](https://blog.playstation.com/2023/02/17/jeff-minter-interview-the-legendary-game-designer-on-his-upcoming-ps4-ps5-arcade-title-akka-arrh/)
- - [Tales of Symphonia Remastered, One of the Most Beloved Installments of the Series, is Now Available on Xbox](https://news.xbox.com/en-us/2023/02/17/tales-of-symphonia-remastered-one-of-the-most-beloved-installments-of-the-series-is-now-available-on-xbox/)
- - [How I became the real monster in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602634/wild-hearts-pet-monsters-gladefruit-hare-small-kemono-whos-the-real-monster-here)<!-- GAME:END -->
+ - [Celebrate Batman&#39;s Birthday And Buy The Game He Dies In For Half Off](https://kotaku.com/batman-steam-games-sale-gotham-knights-arkham-keaton-1850128182)
+ - [Share of the Week: Romance](https://blog.playstation.com/2023/02/17/share-of-the-week-romance/)
+ - [Hogwarts Legacy: Support Animal Conservation with the Magical Beasts Quiz](https://news.xbox.com/en-us/2023/02/17/hogwarts-legacy-animal-conservation-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
