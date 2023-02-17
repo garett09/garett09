@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 🚯 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
+ - 🚖 [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)
+ - 🚯 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
+ - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 --- 
 
