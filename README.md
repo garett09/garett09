@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tile tracker adds new indetectable mode, claims it helps victims of stalking](https://appleinsider.com/articles/23/02/16/tile-tracker-adds-new-anti-theft-measure-claims-it-helps-victims-of-stalking?utm_medium=rss)
- - [Want to run Windows on your Apple Silicon Mac? Microsoft says OK](https://www.androidauthority.com/microsoft-allow-authorized-windows-11-apple-silicon-macs-3286514/)
- - [The Mate SUV electric cargo bike is coming to replace your expensive car](https://www.theverge.com/2023/2/17/23603896/mate-suv-electric-cargo-bike-price-date-specs)<!-- TECH:END -->
+ - [Lenovo posts its worst revenue fall in 14 years with Q3 revenue of $15.3B, down 24% YoY, and net income of $437M, down 32% YoY, and warns of job cuts &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230217/p2#a230217p2)
+ - [Samsung has created a zero-click antivirus for messages](https://www.theverge.com/2023/2/17/23603919/samsung-message-guard-malware-zero-click-exploit-security-feature)
+ - [Bitcoin Miners Are Playing a High-Stakes Game of Chicken](https://www.wired.com/story/bitcoin-mining-halving-crypto-winter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
