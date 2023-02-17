@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s a great weekend for trying big games for free](https://www.pcgamer.com/its-a-great-weekend-for-trying-big-games-for-free)
- - [Wild Hearts devs acknowledge the PC port runs terribly and promise fix next week](https://www.pcgamer.com/wild-hearts-devs-acknowledge-the-pc-port-runs-terribly-and-promise-fix-next-week)
- - [A thank you from Guerrilla: Horizon Forbidden West’s one-year anniversary](https://blog.playstation.com/2023/02/17/a-thank-you-from-guerrilla-horizon-forbidden-wests-one-year-anniversary/)<!-- GAME:END -->
+ - [Kang went from Marvel’s weirdest villain to the MCU’s future](https://www.polygon.com/23602923/who-is-kang-he-who-remains-immortus-council-of-kangs)
+ - [Deeply weird Alice video basically begs EA to fund the game](https://www.pcgamer.com/deeply-weird-alice-video-basically-begs-ea-to-fund-the-game)
+ - [It&#39;s a great weekend for trying big games for free](https://www.pcgamer.com/its-a-great-weekend-for-trying-big-games-for-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
