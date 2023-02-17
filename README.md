@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Immersed in the World of Dragon Ball Z: Kakarot and Season Pass 2, Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/02/17/get-immersed-in-the-world-of-dragon-ball-z-kakarot-and-season-pass-2-now-on-xbox-series-xs/)
- - [On Physical: 100, every ripped athlete is also a devout cheerleader](https://www.polygon.com/23602763/physical-100-season-1-review)
- - [GameStop Employee Explains What Made Her Close A Store And Never Come Back](https://kotaku.com/gamestop-meme-stock-nft-pre-orders-hogwarts-legacy-1850128791)<!-- GAME:END -->
+ - [Making Live TV for Not For Broadcast](https://news.xbox.com/en-us/2023/02/17/making-live-tv-for-not-for-broadcast/)
+ - [Dead By Daylight’s New Character Ends Game&#39;s Apparent Foot Fetish Trend](https://kotaku.com/dead-by-daylight-skull-merchant-foot-fetish-torment-1850129211)
+ - [Super Nintendo World delivers on the ultimate Mario Kart fantasy](https://www.polygon.com/23604424/super-nintendo-world-mario-kart-bowsers-challenge-universal-studios-hollywood)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
