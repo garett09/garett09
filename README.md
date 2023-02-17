@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 1 finally gets stable Android 13](https://www.androidauthority.com/nothing-phone-1-android-13-update-3286477/)
  - [Analysis: 24% of the tokens launched in 2022 that &quot;got traction&quot; saw a price drop of 90% or more in the first week of trading, suggesting pump-and-dump activity &lpar;Chainalysis&rpar;](http://www.techmeme.com/230216/p39#a230216p39)
- - [A patent and job listing hint at Meta working on an advanced smart glasses assistant; docs show staff have been testing a proactive assistant on Ray-Ban Stories &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230216/p38#a230216p38)
- - [OpenAI plans to improve ChatGPT&#39;s behavior to reduce biases, allow more user customization, and get more public input into decision-making about system defaults &lpar;OpenAI&rpar;](http://www.techmeme.com/230216/p37#a230216p37)<!-- TECH:END -->
+ - [A patent and job listing hint at Meta working on an advanced smart glasses assistant; docs show staff have been testing a proactive assistant on Ray-Ban Stories &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230216/p38#a230216p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
