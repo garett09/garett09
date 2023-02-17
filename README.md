@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 🚖 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
+ - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
