@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: City-Builder Taken Off Steam After Fan Goes Rogue](https://kotaku.com/workers-resources-steam-pc-dmca-takedown-communism-1850125125)
- - [Here&#39;s a thoroughly Slavic cyberpunk stealth-action game](https://www.pcgamer.com/heres-a-thoroughly-slavic-cyberpunk-stealth-action-game)
- - [This solo-developed &#39;cross between Dark Alliance and Dark Souls&#39; is shaping up to be my next RPG obsession](https://www.pcgamer.com/this-solo-developed-cross-between-dark-alliance-and-dark-souls-is-shaping-up-to-be-my-next-rpg-obsession)<!-- GAME:END -->
+ - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)
+ - [Cyberpunk 2077 Gets One Thig Right: Cars Need Buttons](https://kotaku.com/cyberpunk-2077-car-touchscreen-tesla-model-3-volvo-1850125350)
+ - [Report: City-Builder Taken Off Steam After Fan Goes Rogue](https://kotaku.com/workers-resources-steam-pc-dmca-takedown-communism-1850125125)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
