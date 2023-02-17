@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta gave ~10% of staff subpar ratings in recent performance reviews, a sign of more workforce reductions, and cut a bonus metric to 85% of its target &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230217/p4#a230217p4)
- - [Bulgaria and London-based Dronamics, which says it has a license to operate autonomous, long-range, cargo drones in Europe, raised a $40M pre-Series A &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230217/p3#a230217p3)
- - [One Startup’s Plan to Help Africa Lure Back Its AI Talent](https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/)<!-- TECH:END -->
+ - [Is Samsung’s 200MP camera a genuine upgrade or a gimmick?](https://www.androidauthority.com/samsung-200mp-camera-3286077/)
+ - [The Case for More—and Better—Sex Scenes](https://www.wired.com/story/sex-scenes-tv-movies-discourse/)
+ - [An AO3 Algorithm Would be Horrible, Actually](https://www.wired.com/story/aoc-fanfiction-algorithms/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
