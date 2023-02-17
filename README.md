@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚖 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
  - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
+ - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 --- 
 
