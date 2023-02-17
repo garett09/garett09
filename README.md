@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP: New PS5 VR Horror Game Makes Things Scarier If You Blink](https://kotaku.com/psvr2-horror-switchback-vr-eye-tracking-trailer-release-1850127438)
- - [Drums Rock launches February 22: PS VR2 features detailed](https://blog.playstation.com/2023/02/17/drums-rock-launches-february-22-ps-vr2-features-detailed/)
- - [The good news is that you can grab an RTX 4090 laptop for $2,851](https://www.pcgamer.com/the-good-news-is-that-you-can-grab-an-rtx-4090-laptop-for-dollar2851)<!-- GAME:END -->
+ - [Jeff Minter interview: the legendary game designer on his upcoming PS4 &amp; PS5 arcade title Akka Arrh](https://blog.playstation.com/2023/02/17/jeff-minter-interview-the-legendary-game-designer-on-his-upcoming-ps4-ps5-arcade-title-akka-arrh/)
+ - [Tales of Symphonia Remastered, One of the Most Beloved Installments of the Series, is Now Available on Xbox](https://news.xbox.com/en-us/2023/02/17/tales-of-symphonia-remastered-one-of-the-most-beloved-installments-of-the-series-is-now-available-on-xbox/)
+ - [How I became the real monster in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602634/wild-hearts-pet-monsters-gladefruit-hare-small-kemono-whos-the-real-monster-here)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
