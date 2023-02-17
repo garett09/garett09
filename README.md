@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman Sachs move casts shadow over Apple Savings accounts](https://appleinsider.com/articles/23/02/15/goldman-sachs-drops-consumer-credit-expansion-casting-shadow-over-apple-savings-accounts?utm_medium=rss)
- - [Galaxy Book 3 Series Proves Samsung&#39;s Pro Laptops Are Leveling Up     - CNET](https://www.cnet.com/tech/computing/galaxy-book-3-proves-samsungs-pro-laptops-are-leveling-up/#ftag=CAD590a51e)
- - [Samsung Galaxy S23 vs. Google Pixel 7: Compare the Specs of Both Android Phones     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-vs-google-pixel-7-compare-the-specs-of-both-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything new in the iOS 16.4 beta](https://appleinsider.com/articles/23/02/17/ios-164-beta-brings-multitude-of-user-facing-changes?utm_medium=rss)
+ - [NASA&#39;s Webb Space Telescope Reveals Never-Before-Seen Details of Pandora&#39;s Cluster     - CNET](https://www.cnet.com/science/space/nasas-webb-space-telescope-reveals-new-details-of-pandoras-cluster/#ftag=CAD590a51e)
+ - [iPhone 15 Pro USB-C port allegedly shown in photo](https://appleinsider.com/articles/23/02/17/iphone-15-pro-usb-c-port-allegedly-shown-in-photo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
