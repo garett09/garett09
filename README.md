@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoDaddy says it discovered a multi-year security breach in early December 2022 where unknown attackers stole source code and installed malware on its servers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230217/p19#a230217p19)
- - [Apple&#39;s AR headset &amp; 15-inch MacBook Air rumors, macOS disrupts Dropbox](https://appleinsider.com/articles/23/02/17/apples-ar-headset-15-inch-macbook-air-rumors-macos-disrupts-dropbox?utm_medium=rss)
- - [Samsung says the Message Guard feature in Galaxy S23 series will prevent zero-click exploits via messaging apps by detecting malware hidden in image attachments &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230217/p18#a230217p18)<!-- TECH:END -->
+ - [First public betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, watchOS 9.4 arrive](https://appleinsider.com/articles/23/02/17/first-public-betas-for-ios-164-ipados-164-tvos-164-watchos-94-arrive?utm_medium=rss)
+ - [Data Breaches: The Complete WIRED Guide](https://www.wired.com/story/wired-guide-to-data-breaches/)
+ - [Amazon asks corporate staff to be back in the office at least three days per week, starting May 1, after previously leaving the decisions to team leaders &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230217/p21#a230217p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
