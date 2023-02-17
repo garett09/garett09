@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 🚖 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
+ - 🚯 [WTF happened to the water!!!](http://9gag.com/gag/aKEEW8b)<!-- MEMES:END -->
 
 --- 
 
