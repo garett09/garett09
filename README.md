@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Samsung’s 200MP camera a genuine upgrade or a gimmick?](https://www.androidauthority.com/samsung-200mp-camera-3286077/)
- - [The Case for More—and Better—Sex Scenes](https://www.wired.com/story/sex-scenes-tv-movies-discourse/)
- - [An AO3 Algorithm Would be Horrible, Actually](https://www.wired.com/story/aoc-fanfiction-algorithms/)<!-- TECH:END -->
+ - [Apple may be getting a slice of Google Chrome search earnings](https://appleinsider.com/articles/23/02/17/apple-may-be-getting-a-slice-of-google-chrome-search-earnings?utm_medium=rss)
+ - [The FTC launches an Office of Technology, increasing the number of technologists on staff to ~22, up from the current 10, ahead of legal battles with Big Tech &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230217/p10#a230217p10)
+ - [Samsung Galaxy S23 and Galaxy S23 Ultra Review: Cruise Control](https://www.wired.com/review/samsung-galaxy-s23-and-s23-ultra/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
