@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
+ - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
  - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)
- - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
