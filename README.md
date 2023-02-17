@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be getting a slice of Google Chrome search earnings](https://appleinsider.com/articles/23/02/17/apple-may-be-getting-a-slice-of-google-chrome-search-earnings?utm_medium=rss)
- - [The FTC launches an Office of Technology, increasing the number of technologists on staff to ~22, up from the current 10, ahead of legal battles with Big Tech &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230217/p10#a230217p10)
- - [Samsung Galaxy S23 and Galaxy S23 Ultra Review: Cruise Control](https://www.wired.com/review/samsung-galaxy-s23-and-s23-ultra/)<!-- TECH:END -->
+ - [Apple may be getting a secret slice of Google Chrome search earnings](https://appleinsider.com/articles/23/02/17/apple-may-be-getting-a-slice-of-google-chrome-search-earnings?utm_medium=rss)
+ - [iPhone leading the charge for China smartphone market recovery](https://appleinsider.com/articles/23/02/17/iphone-leading-the-charge-for-china-smartphone-market-recovery?utm_medium=rss)
+ - [Source: Binance is considering de-listing USDC and other tokens and ending relationships with US partners, including VC investments, amid regulatory scrutiny &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230217/p12#a230217p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
