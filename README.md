@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung is thinking about a Galaxy Watch with a projector](https://www.androidauthority.com/samsung-galaxy-watch-projector-patent-3286480/)
  - [iPhone 15 Pro renders leak: Say hello to USB-C](https://www.androidauthority.com/iphone-15-pro-renders-design-3286479/)
- - [Sources: ByteDance&#39;s Slack-like app Feishu, which reportedly had ~9.3M MAUs in November 2022, reached $100M revenue in 2022, up 270% from 2021 &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230217/p1#a230217p1)
- - [Nothing Phone 1 finally gets stable Android 13](https://www.androidauthority.com/nothing-phone-1-android-13-update-3286477/)<!-- TECH:END -->
+ - [Sources: ByteDance&#39;s Slack-like app Feishu, which reportedly had ~9.3M MAUs in November 2022, reached $100M revenue in 2022, up 270% from 2021 &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230217/p1#a230217p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
