@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
- - 🚯 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 🚖 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - 🚯 [Rent:](http://9gag.com/gag/aOxxG93)
+ - 🚯 [Give this man a medal for speaking up](http://9gag.com/gag/aoKKnXA)<!-- MEMES:END -->
 
 --- 
 
