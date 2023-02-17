@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tile tracker adds new indetectable mode, claims it helps victims of stalking](https://appleinsider.com/articles/23/02/16/tile-tracker-adds-new-anti-theft-measure-claims-it-helps-victims-of-stalking?utm_medium=rss)
  - [Want to run Windows on your Apple Silicon Mac? Microsoft says OK](https://www.androidauthority.com/microsoft-allow-authorized-windows-11-apple-silicon-macs-3286514/)
- - [Poll: Has your Galaxy S23 order arrived early?](https://www.androidauthority.com/samsung-galaxy-s23-order-early-poll-3286493/)
- - [New Galaxy S23 feature promises protection against nasty images](https://www.androidauthority.com/samsung-message-guard-3286488/)<!-- TECH:END -->
+ - [The Mate SUV electric cargo bike is coming to replace your expensive car](https://www.theverge.com/2023/2/17/23603896/mate-suv-electric-cargo-bike-price-date-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
