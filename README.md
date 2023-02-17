@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Freak will fix one of Pokémon Scarlet and Violet’s overpowered Pokémon](https://www.polygon.com/23604643/pokemon-scarlet-violet-february-2023-patch-notes)
- - [This early access survival game just climbed over Starfield to become the most-wishlisted game on Steam](https://www.pcgamer.com/this-early-access-survival-game-just-climbed-over-starfield-to-become-the-most-wishlisted-game-on-steam)
- - [This Week on Xbox: Minecraft Crocs, Wild Hearts, and More](https://news.xbox.com/en-us/2023/02/17/this-week-on-xbox-minecraft-crocs-wild-hearts-and-more/)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 449: Busy Season](https://blog.playstation.com/2023/02/17/official-playstation-podcast-episode-449-busy-season/)
+ - [One Piece’s long lost Dragon Ball Z crossover episode is finally coming to America](https://www.polygon.com/23604689/one-pieces-dragon-ball-z-crossover-toonami-release-date-episode-590)
+ - [Where to find Pointed Scales and Crustaceous Moss in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23604213/pointed-scales-crustaceous-moss-small-kemono-slay-kill-hunt-pet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
