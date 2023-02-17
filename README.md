@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)
- - 🚯 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
- - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 🚖 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
 
 --- 
 
