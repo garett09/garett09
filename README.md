@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 449: Busy Season](https://blog.playstation.com/2023/02/17/official-playstation-podcast-episode-449-busy-season/)
- - [One Piece’s long lost Dragon Ball Z crossover episode is finally coming to America](https://www.polygon.com/23604689/one-pieces-dragon-ball-z-crossover-toonami-release-date-episode-590)
- - [Where to find Pointed Scales and Crustaceous Moss in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23604213/pointed-scales-crustaceous-moss-small-kemono-slay-kill-hunt-pet)<!-- GAME:END -->
+ - [&#39;Leaked&#39; Starfield image turns out to be AI-generated fake](https://www.pcgamer.com/starfield-leak-fake-ai)
+ - [Indie city builder removed from Steam after angry fan claims ownership of a game mode](https://www.pcgamer.com/indie-city-builder-removed-from-steam-after-angry-fan-claims-ownership-of-a-game-mode)
+ - [Woman who sells virtual sex in VRChat denied US visa for &#39;prostitution&#39;](https://www.pcgamer.com/woman-who-sells-virtual-sex-in-vrchat-denied-us-visa-for-prostitution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
