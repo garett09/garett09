@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple making the case that Apple Silicon Mac &amp; iPhone are great gaming machines](https://appleinsider.com/articles/23/02/17/apple-making-the-case-that-apple-silicon-mac-iphone-are-great-gaming-machines?utm_medium=rss)
- - [Sources: Jump is the unidentified &quot;US trading firm&quot; that the SEC has said helped support the TerraUSD stablecoin in May 2021; Jump was not accused of wrongdoing &lpar;The Block&rpar;](http://www.techmeme.com/230217/p23#a230217p23)
- - [How to Watch the Unrated Version of &#39;Megan&#39;: Release Date and More     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-the-unrated-version-of-megan-release-date-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Twitter plans to unveil a new policy that only Blue subscribers will be able to use SMS-based two-factor authentication &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/230217/p25#a230217p25)
+ - [Sources: Blockchain.com, which lent $270M to 3AC, is attempting to sell off assets, as it seeks to raise capital even at a severely lowered valuation &lpar;Decrypt&rpar;](http://www.techmeme.com/230217/p24#a230217p24)
+ - [Apple seeds public beta for macOS Ventura 13.3](https://appleinsider.com/articles/23/02/17/apple-seeds-public-beta-for-macos-ventura-133?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
