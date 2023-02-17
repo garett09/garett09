@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
- - 🚯 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 🚖 [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
+ - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
