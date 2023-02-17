@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Making Live TV for Not For Broadcast](https://news.xbox.com/en-us/2023/02/17/making-live-tv-for-not-for-broadcast/)
- - [Dead By Daylight’s New Character Ends Game&#39;s Apparent Foot Fetish Trend](https://kotaku.com/dead-by-daylight-skull-merchant-foot-fetish-torment-1850129211)
- - [Super Nintendo World delivers on the ultimate Mario Kart fantasy](https://www.polygon.com/23604424/super-nintendo-world-mario-kart-bowsers-challenge-universal-studios-hollywood)<!-- GAME:END -->
+ - [Game Freak will fix one of Pokémon Scarlet and Violet’s overpowered Pokémon](https://www.polygon.com/23604643/pokemon-scarlet-violet-february-2023-patch-notes)
+ - [This early access survival game just climbed over Starfield to become the most-wishlisted game on Steam](https://www.pcgamer.com/this-early-access-survival-game-just-climbed-over-starfield-to-become-the-most-wishlisted-game-on-steam)
+ - [This Week on Xbox: Minecraft Crocs, Wild Hearts, and More](https://news.xbox.com/en-us/2023/02/17/this-week-on-xbox-minecraft-crocs-wild-hearts-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
