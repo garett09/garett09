@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is MODOK, Marvel’s big-headed Ant-Man and the Wasp: Quantumania villain?](https://www.polygon.com/23601096/ant-man-quantumania-modok-mcu)
- - [Player count plummets for Warner Bros.’ Smash-like MultiVersus](https://www.polygon.com/23603292/multiversus-player-count-base-free-play-wb-games)
- - [Breath of the Wild Fans Are Still Finding New Tricks Nearly Six Years Later](https://kotaku.com/legend-of-zelda-breath-of-the-wild-botw-tricks-shrines-1850124895)<!-- GAME:END -->
+ - [Report: City-Builder Taken Off Steam After Fan Goes Rogue](https://kotaku.com/workers-resources-steam-pc-dmca-takedown-communism-1850125125)
+ - [Here&#39;s a thoroughly Slavic cyberpunk stealth-action game](https://www.pcgamer.com/heres-a-thoroughly-slavic-cyberpunk-stealth-action-game)
+ - [This solo-developed &#39;cross between Dark Alliance and Dark Souls&#39; is shaping up to be my next RPG obsession](https://www.pcgamer.com/this-solo-developed-cross-between-dark-alliance-and-dark-souls-is-shaping-up-to-be-my-next-rpg-obsession)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
