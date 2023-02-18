@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
- - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
+ - 🚖 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - 🚯 [DK Metcalf can fly](http://9gag.com/gag/aOxxnPR)<!-- MEMES:END -->
 
 --- 
 
