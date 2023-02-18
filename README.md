@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NBA app is going to let you digitally possess a live player](https://www.theverge.com/2023/2/17/23604719/nba-app-possess-overlay-yourself-live-game)
- - [Amazon’s Alexa app gets more Sonos-y with new multiroom audio controls](https://www.theverge.com/2023/2/17/23604605/amazon-alexa-app-multiroom-audio-active-media-list)
- - [Higround, Crunchyroll Collab on Jujutsu Kaisen Gaming Keyboards     - CNET](https://www.cnet.com/tech/gaming/higround-crunchyroll-collab-on-jujutsu-kaisen-gaming-keyboards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says users will be able to manage tasks created across Google apps like Gmail, Calendar, and Assistant from within Google Tasks, starting in March 2023 &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/230217/p28#a230217p28)
+ - [The best Samsung Galaxy deals: Save up to $1,000 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [Microsoft plans to increase the price of using Bing Search APIs by up to 10x starting on May 1, including for image and news search, and adds APIs with LLMs &lpar;Pradeep Viswanathan/BigTechWire&rpar;](http://www.techmeme.com/230217/p27#a230217p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
