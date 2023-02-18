@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A human player beat a top-ranked AI system in 14 out 15 games of Go, using tactics suggested by a computer program that had probed the AI system for weaknesses &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230218/p12#a230218p12)
- - [Biden and some GOP senators have formed a loose alliance in asking SCOTUS to change Section 230 protections when hearing Gonzalez v. Google on February 21 &lpar;NBC News&rpar;](http://www.techmeme.com/230218/p11#a230218p11)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [WhatsApp adds picture-in-picture video calls to iOS app](https://appleinsider.com/articles/23/02/18/whatsapp-adds-picture-in-picture-video-calls-to-ios-app?utm_medium=rss)
+ - [A human player beat a top-ranked AI system in 14 out 15 games of Go, using tactics suggested by a computer program that had probed the AI system for weaknesses &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230218/p12#a230218p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
