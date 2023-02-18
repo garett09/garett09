@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 5 best sci-fi movies to watch on Netflix in February](https://www.polygon.com/what-to-watch/2023/2/18/23597682/best-sci-fi-movies-netflix-february-2023)
  - [Wordle hint and answer #609: Saturday, February 18](https://www.pcgamer.com/wordle-hint-answer-today-609-february-18)
- - [What Ant-Man and the Wasp: Quantumania’s ending means for the future of the MCU](https://www.polygon.com/23603178/ant-man-quantumania-end-scenes-kang-incursions)
- - [Even Mario’s creator wasn’t sure a Nintendo theme park could work](https://www.polygon.com/23604910/miyamoto-takahashi-super-nintendo-world-interview-mario)<!-- GAME:END -->
+ - [What Ant-Man and the Wasp: Quantumania’s ending means for the future of the MCU](https://www.polygon.com/23603178/ant-man-quantumania-end-scenes-kang-incursions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
