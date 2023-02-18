@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are no excuses to wear new shoes.](http://9gag.com/gag/awZZepR)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 🚖 [Gonna cry?](http://9gag.com/gag/aKEEX2b)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
+ - 🚯 [Illegal immigrants march through the European capital Brussels chanting &#39;F**k You Belgium&#39;. This is how they show their great gratitude.](http://9gag.com/gag/aqeeB2M)<!-- MEMES:END -->
 
 --- 
 
