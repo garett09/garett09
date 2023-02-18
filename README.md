@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gonna cry?](http://9gag.com/gag/aKEEX2b)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 🚖 [I would pay.](http://9gag.com/gag/amAAKL2)
+ - 🚯 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
+ - 🚯 [She really *shot* herself in the foot there](http://9gag.com/gag/aGEE6EX)<!-- MEMES:END -->
 
 --- 
 
