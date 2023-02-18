@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 🚯 [There are no excuses to wear new shoes.](http://9gag.com/gag/awZZepR)<!-- MEMES:END -->
+ - 🚖 [CAT scan of a surf fin in a dudes lower back!](http://9gag.com/gag/a8qqw3e)
+ - 🚯 [Me : I hate my job, it sucks. People who actually have shitty jobs :](http://9gag.com/gag/aNww8jb)
+ - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 --- 
 
