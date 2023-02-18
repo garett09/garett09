@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked docs detail reputation management company Eliminalia&#39;s tactics to remove public-interest info from the internet, like via fake sites and copyright claims &lpar;Phineas Rueckert/Forbidden Stories&rpar;](http://www.techmeme.com/230218/p7#a230218p7)
  - [The depictions of various interactions with Bing&#39;s AI show that the chatbot is doing what it was trained to do, albeit more broadly than Microsoft would prefer &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/230218/p6#a230218p6)
- - [Sources: the UK government will conduct a war-game exercise to prepare for a chip shortage if China invades Taiwan, which would cause dire economic consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p5#a230218p5)
- - [Some US students say hiring managers and college admissions officers are holding their social media content around subjects like mental health against them &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/230218/p4#a230218p4)<!-- TECH:END -->
+ - [Sources: the UK government will conduct a war-game exercise to prepare for a chip shortage if China invades Taiwan, which would cause dire economic consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p5#a230218p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
