@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenSea briefly removes marketplace fees to compete with no-fee marketplace Blur, which topped OpenSea in daily trading volume on February 15 for the first time &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230217/p29#a230217p29)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)
- - [Heart Disease Screenings: When to Do Them and Why You Need One     - CNET](https://www.cnet.com/health/medical/heart-disease-screenings-when-to-do-them-and-why-you-need-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter says only Blue subscribers will be able to use SMS-based 2FA after March 20, 2023; non-Blue users can use an authenticator app or physical security key &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230217/p30#a230217p30)
+ - [Official: Twitter will now charge for SMS two-factor authentication](https://www.theverge.com/2023/2/17/23605073/twitter-blue-charge-sms-2fa)
+ - [OpenSea briefly removes marketplace fees to compete with no-fee marketplace Blur, which topped OpenSea in daily trading volume on February 15 for the first time &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230217/p29#a230217p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
