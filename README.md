@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nature is brutal](http://9gag.com/gag/a9qqVz6)
- - 🚯 [It is known](http://9gag.com/gag/awZZ8W4)
+ - 🚖 [There are no excuses to wear new shoes.](http://9gag.com/gag/awZZepR)
+ - 🚯 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
  - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
 
 --- 
