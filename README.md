@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CAT scan of a surf fin in a dudes lower back!](http://9gag.com/gag/a8qqw3e)
- - 🚯 [Me : I hate my job, it sucks. People who actually have shitty jobs :](http://9gag.com/gag/aNww8jb)
- - 🚯 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 🚖 [We need more men like this](http://9gag.com/gag/a9qqX4L)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
+ - 🚯 [Good! Because today&#39;s leg day!](http://9gag.com/gag/aGEE6LX)<!-- MEMES:END -->
 
 --- 
 
