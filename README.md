@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Leaked&#39; Starfield image turns out to be AI-generated fake](https://www.pcgamer.com/starfield-leak-fake-ai)
- - [Indie city builder removed from Steam after angry fan claims ownership of a game mode](https://www.pcgamer.com/indie-city-builder-removed-from-steam-after-angry-fan-claims-ownership-of-a-game-mode)
- - [Woman who sells virtual sex in VRChat denied US visa for &#39;prostitution&#39;](https://www.pcgamer.com/woman-who-sells-virtual-sex-in-vrchat-denied-us-visa-for-prostitution)<!-- GAME:END -->
+ - [Even Mario’s creator wasn’t sure a Nintendo theme park could work](https://www.polygon.com/23604910/miyamoto-takahashi-super-nintendo-world-interview-mario)
+ - [Indigenous group demands Final Fantasy 14 remove Far Northern Attire DLC](https://www.pcgamer.com/indigenous-group-demands-final-fantasy-14-remove-far-northern-attire-dlc)
+ - [Beamdog is giving fans a chance to put themselves in Baldur&#39;s Gate](https://www.pcgamer.com/beamdog-is-giving-fans-a-chance-to-put-themselves-in-baldurs-gate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
