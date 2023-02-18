@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The theft of ASML&#39;s IP in China, the company&#39;s third-biggest market, could spark even tighter controls on ASML, creating problems for its growth in the country &lpar;South China Morning Post&rpar;](http://www.techmeme.com/230218/p2#a230218p2)
- - [A look at the 31 new emoji added in the first iOS 16.4 beta drawn from Unicode&#39;s Emoji 15.0, including a shaking face, two pushing hands, and a plain pink heart &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/230218/p1#a230218p1)
- - [Custodia Bank CEO Caitlin Long says she warned law enforcement of crypto frauds beforehand and blames regulators for &quot;throwing the baby out with the bathwater&quot; &lpar;Caitlin Long&rpar;](http://www.techmeme.com/230217/p32#a230217p32)<!-- TECH:END -->
+ - [The depictions of various interactions with Bing&#39;s AI show that the chatbot is doing what it was trained to do, albeit more broadly than Microsoft would prefer &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/230218/p6#a230218p6)
+ - [Sources: the UK government will conduct a war-game exercise to prepare for a chip shortage if China invades Taiwan, which would cause dire economic consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p5#a230218p5)
+ - [Some US students say hiring managers and college admissions officers are holding their social media content around subjects like mental health against them &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/230218/p4#a230218p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
