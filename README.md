@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 💰 S23 Ultra tops Samsung’s pre-orders](https://www.androidauthority.com/the-weekly-authority-february-18-2023-232-3286142/)
- - [25 Best Presidents’ Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-presidents-day-deals-sales-2023/)
- - [How to Protect Your Kids From Adult Content—Without Censorship](https://www.wired.com/story/how-to-protect-kids-from-adult-content-without-censorship/)<!-- TECH:END -->
+ - [Daily deals Feb. 18: 31% off Apple Pencil Gen 2, $70 off Razer Ornata Keyboard, $100 off 34-inch Dell Curved Monitor, more](https://appleinsider.com/articles/23/02/18/daily-deals-feb-18-31-off-apple-pencil-gen-2-70-off-razer-ornata-keyboard-100-off-34-inch-dell-curved-monitor-more?utm_medium=rss)
+ - [Google Magic Eraser vs Samsung Object Eraser: Which one is better?](https://www.androidauthority.com/google-magic-eraser-vs-samsung-object-eraser-3285666/)
+ - [The Floods, the Farms, and the River That Roared Back](https://www.wired.com/story/the-floods-the-farms-and-the-river-that-roared-back/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
