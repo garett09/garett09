@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Government silenced him](http://9gag.com/gag/aZDD4O6)
- - 🚯 [Boss: i need you to do some overtime. Me: say no more](http://9gag.com/gag/ajVVjBR)
- - 🚯 [She really *shot* herself in the foot there](http://9gag.com/gag/aGEE6EX)<!-- MEMES:END -->
+ - 🚖 [Maybe I was just horny](http://9gag.com/gag/aBddo32)
+ - 🚯 [This is painful to watch](http://9gag.com/gag/a7qqn02)
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
 
 --- 
 
