@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
+ - 🚖 [Time to quit Tinder, move to Duolingo.](http://9gag.com/gag/a1PPqDG)
+ - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
+ - 🚯 [It is known](http://9gag.com/gag/awZZ8W4)<!-- MEMES:END -->
 
 --- 
 
