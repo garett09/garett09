@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What Ant-Man and the Wasp: Quantumania’s ending means for the future of the MCU](https://www.polygon.com/23603178/ant-man-quantumania-end-scenes-kang-incursions)
  - [Even Mario’s creator wasn’t sure a Nintendo theme park could work](https://www.polygon.com/23604910/miyamoto-takahashi-super-nintendo-world-interview-mario)
- - [Indigenous group demands Final Fantasy 14 remove Far Northern Attire DLC](https://www.pcgamer.com/indigenous-group-demands-final-fantasy-14-remove-far-northern-attire-dlc)
- - [Beamdog is giving fans a chance to put themselves in Baldur&#39;s Gate](https://www.pcgamer.com/beamdog-is-giving-fans-a-chance-to-put-themselves-in-baldurs-gate)<!-- GAME:END -->
+ - [Indigenous group demands Final Fantasy 14 remove Far Northern Attire DLC](https://www.pcgamer.com/indigenous-group-demands-final-fantasy-14-remove-far-northern-attire-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
