@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden and some GOP senators have formed a loose alliance in asking SCOTUS to change Section 230 protections when hearing Gonzalez v. Google on February 21 &lpar;NBC News&rpar;](http://www.techmeme.com/230218/p11#a230218p11)
  - [Forget smart lights, smart blinds is where it’s at](https://www.androidauthority.com/smart-blinds-vs-lights-3270438/)
- - [13 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Twitter&#39;s text-based two-factor authentication becomes a paid-only feature](https://appleinsider.com/articles/23/02/18/twitters-text-based-two-factor-authentication-becomes-a-paid-only-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Starlink’s testing a ‘Global Roaming’ internet service for $200 per month](https://www.theverge.com/2023/2/18/23605400/starlink-global-roaming-service-spacex-satellite-internet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
