@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s first playtests are coming in just a few weeks](https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks)
- - [Diablo 4 open beta confirmed for March](https://www.polygon.com/23605534/diablo-4-open-beta-release-date-early-access-blizzard)
- - [Diablo IV Open Beta Dates Announced](https://news.xbox.com/en-us/2023/02/18/diablo-iv-open-beta-dates-announced/)<!-- GAME:END -->
+ - [iFixit throws its hat in the ring with its own 2TB SSD upgrade for Steam Deck](https://www.pcgamer.com/ifixit-throws-its-hat-in-the-ring-with-its-own-2tb-ssd-upgrade-for-steam-deck)
+ - [Pokémon Go Regirock, Regice, and Registeel Go Tour: Hoenn codes](https://www.polygon.com/pokemon-go-guide/2023/2/18/23605612/redeem-regirock-registeel-regice-go-tour-hoenn-codes-timed-research)
+ - [Diablo 4&#39;s first playtests are coming in just a few weeks](https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
