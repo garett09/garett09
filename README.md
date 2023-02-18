@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
- - 🚯 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
+ - 🚖 [Seriously?](http://9gag.com/gag/aREEGDB)
+ - 🚯 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
 
 --- 
 
