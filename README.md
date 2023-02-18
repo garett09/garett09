@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
- - 🚯 [Adding expressions to a cat](http://9gag.com/gag/armm0MB)
- - 🚯 [Life hacks](http://9gag.com/gag/awZZjOx)<!-- MEMES:END -->
+ - 🚖 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
+ - 🚯 [Wise men say only fools rush in...](http://9gag.com/gag/aREE9j2)
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
 
 --- 
 
