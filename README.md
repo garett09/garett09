@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A human player beat a top-ranked AI system in 14 out 15 games of Go, using tactics suggested by a computer program that had probed the AI system for weaknesses &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230218/p12#a230218p12)
  - [Biden and some GOP senators have formed a loose alliance in asking SCOTUS to change Section 230 protections when hearing Gonzalez v. Google on February 21 &lpar;NBC News&rpar;](http://www.techmeme.com/230218/p11#a230218p11)
- - [Forget smart lights, smart blinds is where it’s at](https://www.androidauthority.com/smart-blinds-vs-lights-3270438/)
- - [Starlink’s testing a ‘Global Roaming’ internet service for $200 per month](https://www.theverge.com/2023/2/18/23605400/starlink-global-roaming-service-spacex-satellite-internet)<!-- TECH:END -->
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
