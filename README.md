@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe I was just horny](http://9gag.com/gag/aBddo32)
- - 🚯 [This is painful to watch](http://9gag.com/gag/a7qqn02)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
+ - 🚖 [Nature is brutal](http://9gag.com/gag/a9qqVz6)
+ - 🚯 [Gonna cry?](http://9gag.com/gag/aKEEX2b)
+ - 🚯 [Love at first sight #ps6secure](http://9gag.com/gag/aL113MW)<!-- MEMES:END -->
 
 --- 
 
