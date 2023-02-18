@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Custodia Bank CEO Caitlin Long says she warned law enforcement of crypto frauds before hand and blames regulators for &quot;throwing the baby out with the bathwater&quot; &lpar;Caitlin Long&rpar;](http://www.techmeme.com/230217/p32#a230217p32)
- - [Bird ends its operations in San Francisco saying the city&#39;s fines are five to six times higher than any other city and &quot;has the most onerous regulations&quot; &lpar;Heather Knight/San Francisco Chronicle&rpar;](http://www.techmeme.com/230217/p31#a230217p31)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The theft of ASML&#39;s IP in China, the company&#39;s third-biggest market, could spark even tighter controls on ASML, creating problems for its growth in the country &lpar;South China Morning Post&rpar;](http://www.techmeme.com/230218/p2#a230218p2)
+ - [A look at the 31 new emoji added in the first iOS 16.4 beta drawn from Unicode&#39;s Emoji 15.0, including a shaking face, two pushing hands, and a plain pink heart &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/230218/p1#a230218p1)
+ - [Custodia Bank CEO Caitlin Long says she warned law enforcement of crypto frauds beforehand and blames regulators for &quot;throwing the baby out with the bathwater&quot; &lpar;Caitlin Long&rpar;](http://www.techmeme.com/230217/p32#a230217p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
