@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vangers dressed like a racing game, but it was really a decent into madness](https://www.pcgamer.com/saturday-crapshoot-vangers)
  - [Rainbow Six Siege is going to start doing evil things to mouse and keyboard players on console](https://www.pcgamer.com/rainbow-six-siege-is-going-to-start-doing-evil-things-to-mouse-and-keyboard-players-on-console)
- - [iFixit throws its hat in the ring with its own 2TB SSD upgrade for Steam Deck](https://www.pcgamer.com/ifixit-throws-its-hat-in-the-ring-with-its-own-2tb-ssd-upgrade-for-steam-deck)
- - [Pokémon Go Regirock, Regice, and Registeel Go Tour: Hoenn codes](https://www.polygon.com/pokemon-go-guide/2023/2/18/23605612/redeem-regirock-registeel-regice-go-tour-hoenn-codes-timed-research)<!-- GAME:END -->
+ - [iFixit throws its hat in the ring with its own 2TB SSD upgrade for Steam Deck](https://www.pcgamer.com/ifixit-throws-its-hat-in-the-ring-with-its-own-2tb-ssd-upgrade-for-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
