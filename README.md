@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [There are no excuses to wear new shoes.](http://9gag.com/gag/awZZepR)
- - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 🚯 [It is known](http://9gag.com/gag/awZZ8W4)<!-- MEMES:END -->
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
