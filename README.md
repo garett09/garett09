@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-472-3286235/)
- - [Presidents Day Sales 2023: Best Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
- - [US regulators expanding their crypto investigations has led some companies to look to financial hubs overseas, including Singapore, Hong Kong, Europe, and Dubai &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p9#a230218p9)<!-- TECH:END -->
+ - [Forget smart lights, smart blinds is where it’s at](https://www.androidauthority.com/smart-blinds-vs-lights-3270438/)
+ - [13 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [Twitter&#39;s text-based two-factor authentication becomes a paid-only feature](https://appleinsider.com/articles/23/02/18/twitters-text-based-two-factor-authentication-becomes-a-paid-only-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
