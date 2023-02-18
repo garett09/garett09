@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 18: 31% off Apple Pencil Gen 2, $70 off Razer Ornata Keyboard, $100 off 34-inch Dell Curved Monitor, more](https://appleinsider.com/articles/23/02/18/daily-deals-feb-18-31-off-apple-pencil-gen-2-70-off-razer-ornata-keyboard-100-off-34-inch-dell-curved-monitor-more?utm_medium=rss)
- - [Google Magic Eraser vs Samsung Object Eraser: Which one is better?](https://www.androidauthority.com/google-magic-eraser-vs-samsung-object-eraser-3285666/)
- - [The Floods, the Farms, and the River That Roared Back](https://www.wired.com/story/the-floods-the-farms-and-the-river-that-roared-back/)<!-- TECH:END -->
+ - [Apple issues beta firmware update for Studio Display](https://appleinsider.com/articles/23/02/18/apple-issues-beta-firmware-update-for-studio-display?utm_medium=rss)
+ - [Microsoft Is Forcibly Removing Internet Explorer From Your PC](https://www.wired.com/story/microsoft-removing-internet-explorer-from-pcs/)
+ - [The Age of AI Hacking Is Closer Than You Think](https://www.wired.com/story/artificial-intelligence-hacking-bruce-schneier/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
