@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Siege is going to start doing evil things to mouse and keyboard players on console](https://www.pcgamer.com/rainbow-six-siege-is-going-to-start-doing-evil-things-to-mouse-and-keyboard-players-on-console)
  - [iFixit throws its hat in the ring with its own 2TB SSD upgrade for Steam Deck](https://www.pcgamer.com/ifixit-throws-its-hat-in-the-ring-with-its-own-2tb-ssd-upgrade-for-steam-deck)
- - [Pokémon Go Regirock, Regice, and Registeel Go Tour: Hoenn codes](https://www.polygon.com/pokemon-go-guide/2023/2/18/23605612/redeem-regirock-registeel-regice-go-tour-hoenn-codes-timed-research)
- - [Diablo 4&#39;s first playtests are coming in just a few weeks](https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks)<!-- GAME:END -->
+ - [Pokémon Go Regirock, Regice, and Registeel Go Tour: Hoenn codes](https://www.polygon.com/pokemon-go-guide/2023/2/18/23605612/redeem-regirock-registeel-regice-go-tour-hoenn-codes-timed-research)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
