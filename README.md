@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4&#39;s first playtests are coming in just a few weeks](https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks)
  - [Diablo 4 open beta confirmed for March](https://www.polygon.com/23605534/diablo-4-open-beta-release-date-early-access-blizzard)
- - [Diablo IV Open Beta Dates Announced](https://news.xbox.com/en-us/2023/02/18/diablo-iv-open-beta-dates-announced/)
- - [The Nevers never had a chance — and still doesn’t, even with unaired episodes streaming for free](https://www.polygon.com/23598491/the-nevers-season-1-free-online-unaired-episodes)<!-- GAME:END -->
+ - [Diablo IV Open Beta Dates Announced](https://news.xbox.com/en-us/2023/02/18/diablo-iv-open-beta-dates-announced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
