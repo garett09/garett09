@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5 Pro revisited: The good and the bad six months later](https://www.androidauthority.com/galaxy-watch-5-pro-review-revisited-3282262/)
- - [Twitter&#39;s Two-Factor Authentication Change &#39;Doesn&#39;t Make Sense&#39;](https://www.wired.com/story/twitter-sms-2fa-twitter-blue/)
- - [Shop Best Buy&#39;s Huge Weekend-Long Presidents Day Sale on Tech, Appliances and More     - CNET](https://www.cnet.com/deals/best-buy-launches-huge-weekend-long-presidents-day-sale-on-tech-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-472-3286235/)
+ - [US regulators expanding their crypto investigations has led some companies to look to financial hubs overseas, including Singapore, Hong Kong, Europe, and Dubai &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p9#a230218p9)
+ - [Samsung Galaxy Watch 5 Pro revisited: The good and the bad six months later](https://www.androidauthority.com/galaxy-watch-5-pro-review-revisited-3282262/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
