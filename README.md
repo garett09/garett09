@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Nevers never had a chance — and still doesn’t, even with unaired episodes streaming for free](https://www.polygon.com/23598491/the-nevers-season-1-free-online-unaired-episodes)
  - [Microsoft Reportedly Made An AI That Plays Minecraft For You](https://kotaku.com/microsoft-minecraft-ai-tech-demo-voice-commands-1850131169)
- - [The 5 best sci-fi movies to watch on Netflix in February](https://www.polygon.com/what-to-watch/2023/2/18/23597682/best-sci-fi-movies-netflix-february-2023)
- - [Wordle hint and answer #609: Saturday, February 18](https://www.pcgamer.com/wordle-hint-answer-today-609-february-18)<!-- GAME:END -->
+ - [The 5 best sci-fi movies to watch on Netflix in February](https://www.polygon.com/what-to-watch/2023/2/18/23597682/best-sci-fi-movies-netflix-february-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
