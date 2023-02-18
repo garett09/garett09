@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Planny 7.5 review: Boost productivity with predictive AI](https://appleinsider.com/articles/23/02/18/planny-75-review-boost-productivity-with-predictive-ai?utm_medium=rss)
- - [I tried Google Photos’ printing service: Great prices, unmatched convenience](https://www.androidauthority.com/google-photos-print-service-review-3282649/)
- - [Save Big With Presidents Day Deals at StackSocial     - CNET](https://www.cnet.com/deals/save-big-with-presidents-day-deals-at-stacksocial/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 Pro revisited: The good and the bad six months later](https://www.androidauthority.com/galaxy-watch-5-pro-review-revisited-3282262/)
+ - [Twitter&#39;s Two-Factor Authentication Change &#39;Doesn&#39;t Make Sense&#39;](https://www.wired.com/story/twitter-sms-2fa-twitter-blue/)
+ - [Shop Best Buy&#39;s Huge Weekend-Long Presidents Day Sale on Tech, Appliances and More     - CNET](https://www.cnet.com/deals/best-buy-launches-huge-weekend-long-presidents-day-sale-on-tech-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
