@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
+ - 🚖 [Gonna cry?](http://9gag.com/gag/aKEEX2b)
  - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 🚯 [DK Metcalf can fly](http://9gag.com/gag/aOxxnPR)<!-- MEMES:END -->
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
