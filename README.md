@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would pay.](http://9gag.com/gag/amAAKL2)
- - 🚯 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
+ - 🚖 [The Government silenced him](http://9gag.com/gag/aZDD4O6)
+ - 🚯 [Boss: i need you to do some overtime. Me: say no more](http://9gag.com/gag/ajVVjBR)
  - 🚯 [She really *shot* herself in the foot there](http://9gag.com/gag/aGEE6EX)<!-- MEMES:END -->
 
 --- 
