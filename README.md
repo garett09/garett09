@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues beta firmware update for Studio Display](https://appleinsider.com/articles/23/02/18/apple-issues-beta-firmware-update-for-studio-display?utm_medium=rss)
- - [Microsoft Is Forcibly Removing Internet Explorer From Your PC](https://www.wired.com/story/microsoft-removing-internet-explorer-from-pcs/)
- - [The Age of AI Hacking Is Closer Than You Think](https://www.wired.com/story/artificial-intelligence-hacking-bruce-schneier/)<!-- TECH:END -->
+ - [Planny 7.5 review: Boost productivity with predictive AI](https://appleinsider.com/articles/23/02/18/planny-75-review-boost-productivity-with-predictive-ai?utm_medium=rss)
+ - [I tried Google Photos’ printing service: Great prices, unmatched convenience](https://www.androidauthority.com/google-photos-print-service-review-3282649/)
+ - [Save Big With Presidents Day Deals at StackSocial     - CNET](https://www.cnet.com/deals/save-big-with-presidents-day-deals-at-stacksocial/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
