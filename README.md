@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously?](http://9gag.com/gag/aREEGDB)
- - 🚯 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
+ - 🚖 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
+ - 🚯 [Adding expressions to a cat](http://9gag.com/gag/armm0MB)
+ - 🚯 [Life hacks](http://9gag.com/gag/awZZjOx)<!-- MEMES:END -->
 
 --- 
 
