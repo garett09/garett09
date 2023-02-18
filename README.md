@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are no excuses to wear new shoes.](http://9gag.com/gag/awZZepR)
- - 🚯 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
+ - 🚖 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
+ - 🚯 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
 
 --- 
 
