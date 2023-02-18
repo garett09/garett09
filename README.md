@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [KV128 Storm Surge completed, it&#39;s a fun and challenging model to paint.](http://9gag.com/gag/armm206)
- - 🚯 [Modern Skyrim Tavern](http://9gag.com/gag/a5XX5jq)
- - 🚯 [The landlord doesn&#39;t care whether you freeze to death either](http://9gag.com/gag/aA00O5L)<!-- MEMES:END -->
+ - 🚖 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
+ - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - 🚯 [There are no excuses to wear new shoes.](http://9gag.com/gag/awZZepR)<!-- MEMES:END -->
 
 --- 
 
