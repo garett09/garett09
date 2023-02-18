@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-472-3286235/)
- - [US regulators expanding their crypto investigations has led some companies to look to financial hubs overseas, including Singapore, Hong Kong, Europe, and Dubai &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p9#a230218p9)
- - [Samsung Galaxy Watch 5 Pro revisited: The good and the bad six months later](https://www.androidauthority.com/galaxy-watch-5-pro-review-revisited-3282262/)<!-- TECH:END -->
+ - [Presidents Day Sales 2023: Best Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
+ - [US regulators expanding their crypto investigations has led some companies to look to financial hubs overseas, including Singapore, Hong Kong, Europe, and Dubai &lpar;Bloomberg&rpar;](http://www.techmeme.com/230218/p9#a230218p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
