@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more men like this](http://9gag.com/gag/a9qqX4L)
- - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
- - 🚯 [Good! Because today&#39;s leg day!](http://9gag.com/gag/aGEE6LX)<!-- MEMES:END -->
+ - 🚖 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - 🚯 [Good! Because today&#39;s leg day!](http://9gag.com/gag/aGEE6LX)
+ - 🚯 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 --- 
 
