@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nevers never had a chance — and still doesn’t, even with unaired episodes streaming for free](https://www.polygon.com/23598491/the-nevers-season-1-free-online-unaired-episodes)
- - [Microsoft Reportedly Made An AI That Plays Minecraft For You](https://kotaku.com/microsoft-minecraft-ai-tech-demo-voice-commands-1850131169)
- - [The 5 best sci-fi movies to watch on Netflix in February](https://www.polygon.com/what-to-watch/2023/2/18/23597682/best-sci-fi-movies-netflix-february-2023)<!-- GAME:END -->
+ - [Diablo 4 open beta confirmed for March](https://www.polygon.com/23605534/diablo-4-open-beta-release-date-early-access-blizzard)
+ - [Diablo IV Open Beta Dates Announced](https://news.xbox.com/en-us/2023/02/18/diablo-iv-open-beta-dates-announced/)
+ - [The Nevers never had a chance — and still doesn’t, even with unaired episodes streaming for free](https://www.polygon.com/23598491/the-nevers-season-1-free-online-unaired-episodes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
