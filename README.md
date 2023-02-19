@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best price yet on the Fossil Machine Gen 6 Hybrid, and more smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [Redditor would have died on the couch, if Apple Watch didn&#39;t sound the alarm](https://appleinsider.com/articles/23/02/19/apple-watch-owner-saved-from-fatal-internal-bleeding-after-napping?utm_medium=rss)
- - [How to keep an ancient Mac mini running](https://appleinsider.com/inside/mac/tips/how-to-refurbish-and-keep-an-ancient-mac-mini-running?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: KKR-owned BMC Software confidentially filed for a US IPO seeking a valuation of up to $15B; KKR acquired BMC in 2018 for $8.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230219/p5#a230219p5)
+ - [Apple&#39;s AI event was mostly a team-building exercise](https://appleinsider.com/articles/23/02/19/apples-ai-event-was-mostly-a-team-building-exercise?utm_medium=rss)
+ - [Netflix&#39;s &#39;You&#39; Season 4, Part 2 Trailer Brings Stunning Cameo     - CNET](https://www.cnet.com/culture/entertainment/netflixs-you-season-4-part-2-trailer-reveals-surprise-cameo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
