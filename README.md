@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Budga!](http://9gag.com/gag/aEqqb8N)
- - 🚯 [There is fruit inside the edge of cactus \ud83c\udf35](http://9gag.com/gag/aDYYLBO)
- - 🚯 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)<!-- MEMES:END -->
+ - 🚖 [D\u00f6uble entendre](http://9gag.com/gag/ay22w9X)
+ - 🚯 [One day the line between lies and truth will disappear.](http://9gag.com/gag/awZZpKB)
+ - 🚯 [Dude exploring a creek tunnel](http://9gag.com/gag/a7qqm2w)<!-- MEMES:END -->
 
 --- 
 
