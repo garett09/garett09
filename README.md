@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey OnePlus, this isn’t how you do charging in 2023](https://www.androidauthority.com/oneplus-charging-makes-no-sense-3270056/)
- - [Apple Watch owner saved from fatal internal bleeding after napping](https://appleinsider.com/articles/23/02/19/apple-watch-owner-saved-from-fatal-internal-bleeding-after-napping?utm_medium=rss)
- - [A Pink Heart Isn&#39;t the Only New Emoji Coming in iOS 16.4     - CNET](https://www.cnet.com/tech/services-and-software/a-pink-heart-isnt-the-only-new-emoji-coming-in-ios-16-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March of the Machine Preview: First Look at Magic&#39;s Multiversal Conflict     - CNET](https://www.cnet.com/culture/entertainment/march-of-the-machine-preview-first-look-at-magics-multiversal-conflict/#ftag=CAD590a51e)
+ - [10-Year Mortgage Rates for February 2023     - CNET](https://www.cnet.com/personal-finance/mortgages/10-year-mortgage-rates/#ftag=CAD590a51e)
+ - [Hey OnePlus, this isn’t how you do charging in 2023](https://www.androidauthority.com/oneplus-charging-makes-no-sense-3270056/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
