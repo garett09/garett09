@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Unlock Your iPhone With a Security Key](https://www.wired.com/story/how-to-unlock-iphone-physical-security-key/)
  - [Daily deals Feb. 19: $200 off 24-inch iMac, $50 off AirPods Pro, $150 off Apple Studio Display, more](https://appleinsider.com/articles/23/02/19/daily-deals-feb-19-200-off-24-inch-imac-50-off-airpods-pro-150-off-apple-studio-display-more?utm_medium=rss)
- - [The best Bluetooth headphones can be ruined by a simple, elusive setting](https://www.androidauthority.com/bluetooth-audio-codec-toggles-hidden-3272830/)
- - [JBL Pulse 5 Review: Fun to Look at and Listen to](https://www.wired.com/review/jbl-pulse-5/)<!-- TECH:END -->
+ - [The best Bluetooth headphones can be ruined by a simple, elusive setting](https://www.androidauthority.com/bluetooth-audio-codec-toggles-hidden-3272830/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
