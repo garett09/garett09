@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [See anime spaceship sim Jumplight Odyssey&#39;s gameplay reveal](https://www.pcgamer.com/see-anime-spaceship-sim-jumplight-odysseys-gameplay-reveal)
- - [Dark Pinocchio soulslike Lies of P is coming out this year](https://www.pcgamer.com/dark-pinocchio-soulslike-lies-of-p-is-coming-out-this-year)
- - [GOG&#39;s giving away a NSFW hospital sim called &#39;Biing&#39; this weekend](https://www.pcgamer.com/gogs-giving-away-a-nsfw-hospital-sim-called-biing-this-weekend)<!-- GAME:END -->
+ - [Great moments in PC gaming: Being thrown out a window in Gunpoint](https://www.pcgamer.com/great-moments-in-pc-gaming-being-thrown-out-a-window-in-gunpoint)
+ - [Fighter management sim Punch Club gets a sequel](https://www.pcgamer.com/fighter-management-sim-punch-club-gets-a-sequel)
+ - [See anime spaceship sim Jumplight Odyssey&#39;s gameplay reveal](https://www.pcgamer.com/see-anime-spaceship-sim-jumplight-odysseys-gameplay-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
