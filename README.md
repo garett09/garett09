@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
- - 🚯 [Starlink satellites that are currently orbiting the Earth as of now!](http://9gag.com/gag/anzzZyV)
- - 🚯 [Ouch.](http://9gag.com/gag/aWGG3o3)<!-- MEMES:END -->
+ - 🚖 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
+ - 🚯 [Ouch.](http://9gag.com/gag/aWGG3o3)
+ - 🚯 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)<!-- MEMES:END -->
 
 --- 
 
