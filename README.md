@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best price yet on the Fossil Machine Gen 6 Hybrid, and more smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
  - [Redditor would have died on the couch, if Apple Watch didn&#39;t sound the alarm](https://appleinsider.com/articles/23/02/19/apple-watch-owner-saved-from-fatal-internal-bleeding-after-napping?utm_medium=rss)
- - [How to keep an ancient Mac mini running](https://appleinsider.com/inside/mac/tips/how-to-refurbish-and-keep-an-ancient-mac-mini-running?utm_medium=rss)
- - [March of the Machine First Spoilers     - CNET](https://www.cnet.com/culture/entertainment/march-of-the-machine-first-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to keep an ancient Mac mini running](https://appleinsider.com/inside/mac/tips/how-to-refurbish-and-keep-an-ancient-mac-mini-running?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
