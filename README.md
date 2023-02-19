@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
- - 🚯 [Wise men say only fools rush in...](http://9gag.com/gag/aREE9j2)
- - 🚯 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
+ - 🚖 [Wise men say only fools rush in...](http://9gag.com/gag/aREE9j2)
+ - 🚯 [Maybe I was just horny](http://9gag.com/gag/aBddo32)
+ - 🚯 [Thanks kid](http://9gag.com/gag/a2KKGOY)<!-- MEMES:END -->
 
 --- 
 
