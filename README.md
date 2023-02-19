@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple AirPods Pro 2 for $199.99, the cheapest price to date](https://appleinsider.com/articles/23/02/19/get-apple-airpods-pro-2-for-19999-the-cheapest-price-to-date?utm_medium=rss)
- - [How to refurbish and keep an ancient Mac mini running](https://appleinsider.com/inside/mac/tips/how-to-refurbish-and-keep-an-ancient-mac-mini-running?utm_medium=rss)
- - [Meta Verified is Mark Zuckerberg&#39;s $11.99 competitor to Twitter Blue](https://appleinsider.com/articles/23/02/19/meta-verified-is-mark-zuckerbergs-1199-competitor-to-twitter-blue?utm_medium=rss)<!-- TECH:END -->
+ - [Hey OnePlus, this isn’t how you do charging in 2023](https://www.androidauthority.com/oneplus-charging-makes-no-sense-3270056/)
+ - [Apple Watch owner saved from fatal internal bleeding after napping](https://appleinsider.com/articles/23/02/19/apple-watch-owner-saved-from-fatal-internal-bleeding-after-napping?utm_medium=rss)
+ - [A Pink Heart Isn&#39;t the Only New Emoji Coming in iOS 16.4     - CNET](https://www.cnet.com/tech/services-and-software/a-pink-heart-isnt-the-only-new-emoji-coming-in-ios-16-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
