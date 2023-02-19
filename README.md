@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #610: Sunday, February 19](https://www.pcgamer.com/wordle-hint-answer-today-610-february-19)
  - [Great moments in PC gaming: Being thrown out a window in Gunpoint](https://www.pcgamer.com/great-moments-in-pc-gaming-being-thrown-out-a-window-in-gunpoint)
- - [Fighter management sim Punch Club gets a sequel](https://www.pcgamer.com/fighter-management-sim-punch-club-gets-a-sequel)
- - [See anime spaceship sim Jumplight Odyssey&#39;s gameplay reveal](https://www.pcgamer.com/see-anime-spaceship-sim-jumplight-odysseys-gameplay-reveal)<!-- GAME:END -->
+ - [Fighter management sim Punch Club gets a sequel](https://www.pcgamer.com/fighter-management-sim-punch-club-gets-a-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
