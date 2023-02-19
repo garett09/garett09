@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The managers we deserve](http://9gag.com/gag/a044g1Q)
- - 🚯 [Giving a dog a second chance in life](http://9gag.com/gag/a7qqmnx)
- - 🚯 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)<!-- MEMES:END -->
+ - 🚖 [&gt;opens a fresh box of actions &gt;look inside &gt;consequences](http://9gag.com/gag/abvvdQ8)
+ - 🚯 [First time being robbed ?](http://9gag.com/gag/az22y6p)
+ - 🚯 [Insert title here](http://9gag.com/gag/a6qq6Bq)<!-- MEMES:END -->
 
 --- 
 
