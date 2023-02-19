@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Unlock Your iPhone With a Security Key](https://www.wired.com/story/how-to-unlock-iphone-physical-security-key/)
- - [Daily deals Feb. 19: $200 off 24-inch iMac, $50 off AirPods Pro, $150 off Apple Studio Display, more](https://appleinsider.com/articles/23/02/19/daily-deals-feb-19-200-off-24-inch-imac-50-off-airpods-pro-150-off-apple-studio-display-more?utm_medium=rss)
- - [The best Bluetooth headphones can be ruined by a simple, elusive setting](https://www.androidauthority.com/bluetooth-audio-codec-toggles-hidden-3272830/)<!-- TECH:END -->
+ - [The Pixel 7 Pro is my ultimate phone camera for concerts](https://www.androidauthority.com/google-pixel-7-pro-concert-camera-3243003/)
+ - [The 7 Best Chromebooks for Every Budget &lpar;2023&rpar;: 2-in-1, Clamshell, Tablets](https://www.wired.com/gallery/best-chromebooks/)
+ - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
