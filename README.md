@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dark Pinocchio soulslike Lies of P is coming out this year](https://www.pcgamer.com/dark-pinocchio-soulslike-lies-of-p-is-coming-out-this-year)
  - [GOG&#39;s giving away a NSFW hospital sim called &#39;Biing&#39; this weekend](https://www.pcgamer.com/gogs-giving-away-a-nsfw-hospital-sim-called-biing-this-weekend)
- - [Vangers dressed like a racing game, but it was really a decent into madness](https://www.pcgamer.com/saturday-crapshoot-vangers)
- - [Rainbow Six Siege is going to start doing evil things to mouse and keyboard players on console](https://www.pcgamer.com/rainbow-six-siege-is-going-to-start-doing-evil-things-to-mouse-and-keyboard-players-on-console)<!-- GAME:END -->
+ - [Vangers dressed like a racing game, but it was really a decent into madness](https://www.pcgamer.com/saturday-crapshoot-vangers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
