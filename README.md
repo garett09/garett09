@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [An AI that plays Minecraft for you got made, but it won&#39;t be released](https://www.pcgamer.com/an-ai-that-plays-minecraft-for-you-got-made-but-it-wont-be-released)
  - [The goriest action movie I’ve ever seen is now available to watch at home](https://www.polygon.com/23602798/project-wolf-hunting-gory-action-horror-movie)
- - [The people behind PUBG believe the extraction shooter is the next big thing](https://www.polygon.com/23604742/extraction-shooter-battle-royale-pubg-fortnite-call-of-duty-dmz)
- - [Our big Ant-Man and the Wasp: Quantumania questions, and some key answers](https://www.polygon.com/23604573/ant-man-and-the-wasp-quantumania-questions-who-dies)<!-- GAME:END -->
+ - [The people behind PUBG believe the extraction shooter is the next big thing](https://www.polygon.com/23604742/extraction-shooter-battle-royale-pubg-fortnite-call-of-duty-dmz)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
