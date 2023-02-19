@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this normal?](http://9gag.com/gag/a9qq0M6)
+ - 🚖 [Wise men say only fools rush in...](http://9gag.com/gag/aREE9j2)
  - 🚯 [It is known](http://9gag.com/gag/awZZ8W4)
- - 🚯 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
+ - 🚯 [Nature is brutal](http://9gag.com/gag/a9qqVz6)<!-- MEMES:END -->
 
 --- 
 
