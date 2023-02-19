@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Money is money](http://9gag.com/gag/avQQDrW)
- - 🚯 [It&#39;s a vicious cycle.](http://9gag.com/gag/aA005Qg)
- - 🚯 [This cat angrily protecting its trunk full of watermelons](http://9gag.com/gag/aKEELpO)<!-- MEMES:END -->
+ - 🚖 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - 🚯 [Seriously?](http://9gag.com/gag/aREEGDB)
+ - 🚯 [Wise men say only fools rush in...](http://9gag.com/gag/aREE9j2)<!-- MEMES:END -->
 
 --- 
 
