@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Will you?](http://9gag.com/gag/a9qqexW)
- - 🚯 [Gonna cry?](http://9gag.com/gag/aKEEX2b)
- - 🚯 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)<!-- MEMES:END -->
+ - 🚖 [Seriously?](http://9gag.com/gag/aREEGDB)
+ - 🚯 [Thanks kid](http://9gag.com/gag/a2KKGOY)
+ - 🚯 [First time being robbed ?](http://9gag.com/gag/az22y6p)<!-- MEMES:END -->
 
 --- 
 
