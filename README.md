@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege is revamping riot shields and overhauling the new player experience in 2023](https://www.pcgamer.com/rainbow-six-siege-is-revamping-riot-shields-and-overhauling-the-new-player-experience-in-2023)
- - [An AI that plays Minecraft for you got made, but it won&#39;t be released](https://www.pcgamer.com/an-ai-that-plays-minecraft-for-you-got-made-but-it-wont-be-released)
- - [The goriest action movie I’ve ever seen is now available to watch at home](https://www.polygon.com/23602798/project-wolf-hunting-gory-action-horror-movie)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 20, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-20-2023)
+ - [Legend Of Zelda: Tears Of The Kingdom Art Book Leaks Months Ahead Of Release](https://kotaku.com/legend-zelda-tears-kingdom-spoilers-art-book-leak-1850134905)
+ - [Redfall production designer: &#39;Making a large, open world game, that was breaking the mold for us&#39;](https://www.pcgamer.com/redfall-production-designer-making-a-large-open-world-game-that-was-breaking-the-mold-for-us)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
