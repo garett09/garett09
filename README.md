@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously?](http://9gag.com/gag/aREEGDB)
- - 🚯 [Thanks kid](http://9gag.com/gag/a2KKGOY)
- - 🚯 [First time being robbed ?](http://9gag.com/gag/az22y6p)<!-- MEMES:END -->
+ - 🚖 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
+ - 🚯 [DK Metcalf can fly](http://9gag.com/gag/aOxxnPR)
+ - 🚯 [Olivia Taylor Dudley](http://9gag.com/gag/aWGG5G4)<!-- MEMES:END -->
 
 --- 
 
