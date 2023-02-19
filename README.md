@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 7 Pro is my ultimate phone camera for concerts](https://www.androidauthority.com/google-pixel-7-pro-concert-camera-3243003/)
- - [The 7 Best Chromebooks for Every Budget &lpar;2023&rpar;: 2-in-1, Clamshell, Tablets](https://www.wired.com/gallery/best-chromebooks/)
- - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Tonor TC30 review: Easy audio recording for thrifty newbies](https://appleinsider.com/articles/23/02/19/tonor-tc30-review-easy-audio-recording-for-thrifty-newbies?utm_medium=rss)
+ - [Apple MLS Season Pass: How to Watch, Stream Major League Soccer This Season     - CNET](https://www.cnet.com/tech/services-and-software/apple-mls-season-pass-how-to-watch-stream-major-league-soccer-this-season/#ftag=CAD590a51e)
+ - [Snag These Ultracheap Bluetooth Earbuds While They&#39;re 80% Off at Amazon     - CNET](https://www.cnet.com/deals/snag-these-ultra-cheap-bluetooth-earbuds-while-theyre-80-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
