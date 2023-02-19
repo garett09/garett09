@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 🚯 [Seriously?](http://9gag.com/gag/aREEGDB)
- - 🚯 [Wise men say only fools rush in...](http://9gag.com/gag/aREE9j2)<!-- MEMES:END -->
+ - 🚖 [Will you?](http://9gag.com/gag/a9qqexW)
+ - 🚯 [Gonna cry?](http://9gag.com/gag/aKEEX2b)
+ - 🚯 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)<!-- MEMES:END -->
 
 --- 
 
