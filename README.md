@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [March of the Machine Preview: First Look at Magic&#39;s Multiversal Conflict     - CNET](https://www.cnet.com/culture/entertainment/march-of-the-machine-preview-first-look-at-magics-multiversal-conflict/#ftag=CAD590a51e)
- - [10-Year Mortgage Rates for February 2023     - CNET](https://www.cnet.com/personal-finance/mortgages/10-year-mortgage-rates/#ftag=CAD590a51e)
- - [Hey OnePlus, this isn’t how you do charging in 2023](https://www.androidauthority.com/oneplus-charging-makes-no-sense-3270056/)<!-- TECH:END -->
+ - [Redditor would have died on the couch, if Apple Watch didn&#39;t sound the alarm](https://appleinsider.com/articles/23/02/19/apple-watch-owner-saved-from-fatal-internal-bleeding-after-napping?utm_medium=rss)
+ - [How to keep an ancient Mac mini running](https://appleinsider.com/inside/mac/tips/how-to-refurbish-and-keep-an-ancient-mac-mini-running?utm_medium=rss)
+ - [March of the Machine First Spoilers     - CNET](https://www.cnet.com/culture/entertainment/march-of-the-machine-first-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
