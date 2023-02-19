@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
+ - 🚖 [The great garbage patch.](http://9gag.com/gag/amAAZ76)
  - 🚯 [Is this normal?](http://9gag.com/gag/a9qq0M6)
- - 🚯 [The spirit is willing, but the flesh won&#39;t quite obey. Go up, you son of a b*tch. GO UP!!!](http://9gag.com/gag/a8qqvLd)<!-- MEMES:END -->
+ - 🚯 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)<!-- MEMES:END -->
 
 --- 
 
