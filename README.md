@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, Lab-Grown Meat Is Vegan](https://www.wired.com/story/lab-grown-meat-vegan-ethics-environment/)
- - [A look at e-scooter sharing startups in Europe, like Bolt, which raised $1.9B, amid some city bans and questions about the vehicles&#39; environmental credentials &lpar;Sifted&rpar;](http://www.techmeme.com/230219/p3#a230219p3)
- - [A preview of Gonzalez v. Google SCOTUS case and a look at the Israeli nonprofit Shurat HaDin that is arguing the case against Google at the February 21 hearing &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230219/p2#a230219p2)<!-- TECH:END -->
+ - [Daily deals Feb. 19: $200 off 24-inch iMac, $50 off AirPods Pro, $150 off Apple Studio Display, more](https://appleinsider.com/articles/23/02/19/daily-deals-feb-19-200-off-24-inch-imac-50-off-airpods-pro-150-off-apple-studio-display-more?utm_medium=rss)
+ - [The best Bluetooth headphones can be ruined by a simple, elusive setting](https://www.androidauthority.com/bluetooth-audio-codec-toggles-hidden-3272830/)
+ - [JBL Pulse 5 Review: Fun to Look at and Listen to](https://www.wired.com/review/jbl-pulse-5/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
