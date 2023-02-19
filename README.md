@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our big Ant-Man and the Wasp: Quantumania questions, and some key answers](https://www.polygon.com/23604573/ant-man-and-the-wasp-quantumania-questions-who-dies)
- - [Wordle hint and answer #610: Sunday, February 19](https://www.pcgamer.com/wordle-hint-answer-today-610-february-19)
- - [Great moments in PC gaming: Being thrown out a window in Gunpoint](https://www.pcgamer.com/great-moments-in-pc-gaming-being-thrown-out-a-window-in-gunpoint)<!-- GAME:END -->
+ - [The goriest action movie I’ve ever seen is now available to watch at home](https://www.polygon.com/23602798/project-wolf-hunting-gory-action-horror-movie)
+ - [The people behind PUBG believe the extraction shooter is the next big thing](https://www.polygon.com/23604742/extraction-shooter-battle-royale-pubg-fortnite-call-of-duty-dmz)
+ - [Our big Ant-Man and the Wasp: Quantumania questions, and some key answers](https://www.polygon.com/23604573/ant-man-and-the-wasp-quantumania-questions-who-dies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
