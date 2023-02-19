@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&gt;opens a fresh box of actions &gt;look inside &gt;consequences](http://9gag.com/gag/abvvdQ8)
- - 🚯 [First time being robbed ?](http://9gag.com/gag/az22y6p)
- - 🚯 [Insert title here](http://9gag.com/gag/a6qq6Bq)<!-- MEMES:END -->
+ - 🚖 [Nature is brutal](http://9gag.com/gag/a9qqVz6)
+ - 🚯 [Flight attendant has enough your your bullshit](http://9gag.com/gag/aL11V1P)
+ - 🚯 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
 
 --- 
 
