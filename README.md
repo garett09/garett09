@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [WhatsApp adds picture-in-picture video calls to iOS app](https://appleinsider.com/articles/23/02/18/whatsapp-adds-picture-in-picture-video-calls-to-ios-app?utm_medium=rss)
- - [A human player beat a top-ranked AI system in 14 out 15 games of Go, using tactics suggested by a computer program that had probed the AI system for weaknesses &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230218/p12#a230218p12)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 6 Drop on HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-6-drop-on-hbo-max/#ftag=CAD590a51e)
+ - [Lion Eclipse charger review: Powerful, but flawed](https://appleinsider.com/articles/23/02/18/lion-eclipse-charger-review-powerful-but-flawed?utm_medium=rss)
+ - [13 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
