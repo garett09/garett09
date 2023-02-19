@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A preview of Gonzalez v. Google SCOTUS case and a look at the Israeli nonprofit Shurat HaDin that is arguing the case against Google at the February 21 hearing &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230219/p2#a230219p2)
  - [Research: total USD invested in Chinese startups fell by ~75% in 2022; 19% of the total capital put into Chinese startups was in USD, compared to 39% in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/230219/p1#a230219p1)
- - [A look at You.com, Andi, and Perplexity, three startups that started offering chatbot-enhanced search tools before the new Bing and Google&#39;s Bard came along &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230218/p13#a230218p13)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at You.com, Andi, and Perplexity, three startups that started offering chatbot-enhanced search tools before the new Bing and Google&#39;s Bard came along &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230218/p13#a230218p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
