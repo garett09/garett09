@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nature is brutal](http://9gag.com/gag/a9qqVz6)
- - 🚯 [Flight attendant has enough your your bullshit](http://9gag.com/gag/aL11V1P)
+ - 🚖 [Is this normal?](http://9gag.com/gag/a9qq0M6)
+ - 🚯 [It is known](http://9gag.com/gag/awZZ8W4)
  - 🚯 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
 
 --- 
