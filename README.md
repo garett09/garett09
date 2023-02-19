@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 4 revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-z-flip-4-review-revisited-3280936/)
- - [How to use Google Authenticator on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-google-authenticator-on-iphone-and-ipad?utm_medium=rss)
- - [Meta rolls out Meta Verified subscription service, offering a blue badge, impersonation protection, and more, for $12/month on the web, or $15/month on iOS &lpar;Mark Zuckerberg/Facebook&rpar;](http://www.techmeme.com/230219/p4#a230219p4)<!-- TECH:END -->
+ - [Get Apple AirPods Pro 2 for $199.99, the cheapest price to date](https://appleinsider.com/articles/23/02/19/get-apple-airpods-pro-2-for-19999-the-cheapest-price-to-date?utm_medium=rss)
+ - [How to refurbish and keep an ancient Mac mini running](https://appleinsider.com/inside/mac/tips/how-to-refurbish-and-keep-an-ancient-mac-mini-running?utm_medium=rss)
+ - [Meta Verified is Mark Zuckerberg&#39;s $11.99 competitor to Twitter Blue](https://appleinsider.com/articles/23/02/19/meta-verified-is-mark-zuckerbergs-1199-competitor-to-twitter-blue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
