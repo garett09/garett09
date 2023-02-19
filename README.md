@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The secret ingredient is...](http://9gag.com/gag/aREE8mG)
- - 🚯 [DK Metcalf can fly](http://9gag.com/gag/aOxxnPR)
- - 🚯 [Olivia Taylor Dudley](http://9gag.com/gag/aWGG5G4)<!-- MEMES:END -->
+ - 🚖 [The managers we deserve](http://9gag.com/gag/a044g1Q)
+ - 🚯 [Giving a dog a second chance in life](http://9gag.com/gag/a7qqmnx)
+ - 🚯 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)<!-- MEMES:END -->
 
 --- 
 
