@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The great garbage patch.](http://9gag.com/gag/amAAZ76)
- - 🚯 [Is this normal?](http://9gag.com/gag/a9qq0M6)
- - 🚯 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)<!-- MEMES:END -->
+ - 🚖 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
+ - 🚯 [Starlink satellites that are currently orbiting the Earth as of now!](http://9gag.com/gag/anzzZyV)
+ - 🚯 [Ouch.](http://9gag.com/gag/aWGG3o3)<!-- MEMES:END -->
 
 --- 
 
