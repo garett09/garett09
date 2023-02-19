@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 6 Drop on HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-6-drop-on-hbo-max/#ftag=CAD590a51e)
- - [Lion Eclipse charger review: Powerful, but flawed](https://appleinsider.com/articles/23/02/18/lion-eclipse-charger-review-powerful-but-flawed?utm_medium=rss)
- - [13 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [A look at You.com, Andi, and Perplexity, three startups that started offering chatbot-enhanced search tools before the new Bing and Google&#39;s Bard came along &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230218/p13#a230218p13)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 6 Drop on HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-6-drop-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
