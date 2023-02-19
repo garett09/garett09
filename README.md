@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [DK Metcalf can fly](http://9gag.com/gag/aOxxnPR)
- - 🚯 [No rain in 70 years](http://9gag.com/gag/aeQQydO)
- - 🚯 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)<!-- MEMES:END -->
+ - 🚖 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
+ - 🚯 [Is this normal?](http://9gag.com/gag/a9qq0M6)
+ - 🚯 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
 
 --- 
 
