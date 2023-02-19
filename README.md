@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [D\u00f6uble entendre](http://9gag.com/gag/ay22w9X)
- - 🚯 [One day the line between lies and truth will disappear.](http://9gag.com/gag/awZZpKB)
- - 🚯 [Dude exploring a creek tunnel](http://9gag.com/gag/a7qqm2w)<!-- MEMES:END -->
+ - 🚖 [No rain in 70 years](http://9gag.com/gag/aeQQydO)
+ - 🚯 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
+ - 🚯 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)<!-- MEMES:END -->
 
 --- 
 
