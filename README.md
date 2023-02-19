@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tonor TC30 review: Easy audio recording for thrifty newbies](https://appleinsider.com/articles/23/02/19/tonor-tc30-review-easy-audio-recording-for-thrifty-newbies?utm_medium=rss)
- - [Apple MLS Season Pass: How to Watch, Stream Major League Soccer This Season     - CNET](https://www.cnet.com/tech/services-and-software/apple-mls-season-pass-how-to-watch-stream-major-league-soccer-this-season/#ftag=CAD590a51e)
- - [Snag These Ultracheap Bluetooth Earbuds While They&#39;re 80% Off at Amazon     - CNET](https://www.cnet.com/deals/snag-these-ultra-cheap-bluetooth-earbuds-while-theyre-80-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 4 revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-z-flip-4-review-revisited-3280936/)
+ - [How to use Google Authenticator on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-google-authenticator-on-iphone-and-ipad?utm_medium=rss)
+ - [Meta rolls out Meta Verified subscription service, offering a blue badge, impersonation protection, and more, for $12/month on the web, or $15/month on iOS &lpar;Mark Zuckerberg/Facebook&rpar;](http://www.techmeme.com/230219/p4#a230219p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
