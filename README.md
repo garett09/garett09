@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Wharton School professor whose classes required using ChatGPT to write essays says students fact-checked and quickly understood AI&#39;s accuracy and bias issues &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/230220/p11#a230220p11)
- - [One UI 5.1 gets inspiration from Apple’s iOS 16, but is it doing it better?](https://www.androidauthority.com/samsung-one-ui-5-vs-apple-ios-16-3285961/)
- - [Here’s how to secure your Twitter account without paying for Blue](https://www.theverge.com/23606430/how-to-secure-twitter-account-2fa-without-blue)<!-- TECH:END -->
+ - [Presidents&#39; Day deals: Apple Pencil $79, Apple Watch SE $199, $80 off iPad Pro &amp; more](https://appleinsider.com/articles/23/02/20/presidents-day-deals-apple-pencil-79-apple-watch-se-199-80-off-ipad-pro-more?utm_medium=rss)
+ - [How to Protect Yourself from Twitter’s 2FA Crackdown](https://www.wired.com/story/twitter-2fa-sms-alternatives-twitter-blue/)
+ - [Samsung Galaxy XCover 6 Pro review: Rugged refined](https://www.androidauthority.com/samsung-galaxy-xcover6-pro-review-3270687/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
