@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - 🚯 [Sumerian tablet that&#39;s around 3k years old being destroyed by ISIS as it doesn&#39;t confirm to their beliefs](http://9gag.com/gag/anzz6oz)
+ - 🚖 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)
+ - 🚯 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)
  - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
 
 --- 
