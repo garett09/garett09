@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: KKR-owned BMC Software confidentially filed for a US IPO seeking a valuation of up to $15B; KKR acquired BMC in 2018 for $8.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230219/p5#a230219p5)
- - [Apple&#39;s AI event was mostly a team-building exercise](https://appleinsider.com/articles/23/02/19/apples-ai-event-was-mostly-a-team-building-exercise?utm_medium=rss)
- - [Netflix&#39;s &#39;You&#39; Season 4, Part 2 Trailer Brings Stunning Cameo     - CNET](https://www.cnet.com/culture/entertainment/netflixs-you-season-4-part-2-trailer-reveals-surprise-cameo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I&#39;m the Last Person on Earth Still Buying CDs. Here&#39;s Why...     - CNET](https://www.cnet.com/culture/entertainment/im-the-last-person-on-earth-still-buying-cds-heres-why/#ftag=CAD590a51e)
+ - [I Took Cold Showers Every Day For a Year. Here&#39;s What I Learned     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-every-day-for-a-year-heres-what-i-learned/#ftag=CAD590a51e)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
