@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You’re happy to give up wireless charging on one condition](https://www.androidauthority.com/wireless-charging-poll-results-3287060/)
- - [The OnePlus foldable might not be a rebranded Oppo Find N2](https://www.androidauthority.com/oneplus-foldable-oppo-find-n2-3287058/)
- - [Twitter has faced at least nine lawsuits in recent months from landlords, consultants, and vendors demanding payments totaling $14M+ for unpaid bills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p1#a230220p1)<!-- TECH:END -->
+ - [An interview with Geekbench creator John Poole on making the tool cross-platform from the start, what&#39;s new in Geekbench 6, why benchmarking matters, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230220/p2#a230220p2)
+ - [Daily Authority: 🎸 Google’s smash hit concert phone](https://www.androidauthority.com/daily-authority-february-20-2023-3287028/)
+ - [You told us: You’re happy to give up wireless charging on one condition](https://www.androidauthority.com/wireless-charging-poll-results-3287060/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
