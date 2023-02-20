@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)
- - 🚯 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
+ - 🚖 [RIP](http://9gag.com/gag/a6qq0j9)
+ - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
+ - 🚯 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)<!-- MEMES:END -->
 
 --- 
 
