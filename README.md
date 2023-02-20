@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Company of Heroes 3&#39;s twin campaigns offer classic RTS action and a whole new way to play](https://www.pcgamer.com/company-of-heroes-3s-twin-campaigns-offer-classic-rts-action-and-a-whole-new-way-to-play)
- - [Gran Turismo 7 Update 1.29 includes PS VR2 upgrade, a race against superhuman AI, a classic GT track and 5 new cars](https://blog.playstation.com/2023/02/20/gran-turismo-7-update-1-29-includes-ps-vr2-upgrade-a-race-against-superhuman-ai-a-classic-gt-track-and-5-new-cars/)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
+ - [Crypto Shilling Costs Yet Another Celebrity A Million Dollars](https://kotaku.com/crypto-ethereum-paul-pierce-sec-fine-million-dollars-1850136219)
+ - [Outsmart your friends and an eccentric mastermind in Escape First Alchemist](https://www.pcgamer.com/outsmart-your-friends-and-an-eccentric-mastermind-in-escape-first-alchemist)
+ - [Persona 5 Can’t Handle Queer Relationships](https://kotaku.com/persona-5-royal-confidant-ryuji-joker-romance-gay-1850129012)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
