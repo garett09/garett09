@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
- - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
+ - 🚖 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
+ - 🚯 [Sumerian tablet that&#39;s around 3k years old being destroyed by ISIS as it doesn&#39;t confirm to their beliefs](http://9gag.com/gag/anzz6oz)
+ - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
 
 --- 
 
