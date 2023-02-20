@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Zelda All But Confirmed After Copyright Strikes](https://kotaku.com/lego-zelda-tears-of-the-kingdom-deku-youtube-copyright-1850136690)
- - [Where to find the Phoenix in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-phoenix-location)
- - [A human has beat an AI in possibly the most complex board game ever](https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever)<!-- GAME:END -->
+ - [Thanos has nothing on The Fifth Element’s Zorg](https://www.polygon.com/23589322/fifth-element-zorg)
+ - [Company of Heroes 3 review](https://www.pcgamer.com/company-of-heroes-3-review)
+ - [Company of Heroes 3 propels real-time strategy past the real-time part](https://www.polygon.com/reviews/23607125/company-of-heroes-3-review-factions-release-date-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
