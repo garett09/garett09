@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
+ - 🚖 [Still waiting ...](http://9gag.com/gag/aEqq3DM)
  - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [RIP](http://9gag.com/gag/a6qq0j9)<!-- MEMES:END -->
+ - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
 
 --- 
 
