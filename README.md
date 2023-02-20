@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this normal?](http://9gag.com/gag/a9qq0M6)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)<!-- MEMES:END -->
+ - 🚖 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)
+ - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
+ - 🚯 [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)<!-- MEMES:END -->
 
 --- 
 
