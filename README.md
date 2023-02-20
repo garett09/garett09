@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us apocalypse’s most underrated tool? A menstrual cup](https://www.polygon.com/23604389/last-of-us-ellie-period-representation-tampax-divacup)
- - [Skyrim mod adds Doctor Who&#39;s weeping angels in case you feel like wetting yourself](https://www.pcgamer.com/skyrim-mod-adds-doctor-whos-weeping-angels-in-case-you-feel-like-wetting-yourself)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [Razer&#39;s new BlackWidow V4 Pro wireless gaming keyboard is a beast with a price to match](https://www.pcgamer.com/razers-new-blackwidow-v4-pro-wireless-gaming-keyboard-is-a-beast-with-a-price-to-match)
+ - [This Lemmings-like platformer drove me to the brink &lpar;in a good way&rpar; trying to rescue its hapless astronauts](https://www.pcgamer.com/this-lemmings-like-platformer-drove-me-to-the-brink-in-a-good-way-trying-to-rescue-its-hapless-astronauts)
+ - [I would watch an entire show about The Last of Us’ grumpy old couple](https://www.polygon.com/23602639/last-us-episode-6-old-couple-actors-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
