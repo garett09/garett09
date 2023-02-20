@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stallone &amp; family then vs now](http://9gag.com/gag/az22vPz)
- - 🚯 [Ouch.](http://9gag.com/gag/aWGG3o3)
- - 🚯 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)<!-- MEMES:END -->
+ - 🚖 [Ouch.](http://9gag.com/gag/aWGG3o3)
+ - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
+ - 🚯 [The great garbage patch.](http://9gag.com/gag/amAAZ76)<!-- MEMES:END -->
 
 --- 
 
