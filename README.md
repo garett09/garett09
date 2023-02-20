@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A human has beat an AI in possibly the most complex board game ever](https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever)
- - [Making a videogame and running a circus have more in common than you think](https://www.pcgamer.com/making-a-videogame-and-running-a-circus-have-more-in-common-than-you-think)
- - [All hail Garlic Jr., the only Dragon Ball villain who actually won &lpar;kinda&rpar;](https://www.polygon.com/23592933/dragon-ball-z-garlic-jr-saga-winner-dbz-fights)<!-- GAME:END -->
+ - [Lego Zelda All But Confirmed After Copyright Strikes](https://kotaku.com/lego-zelda-tears-of-the-kingdom-deku-youtube-copyright-1850136690)
+ - [Where to find the Phoenix in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-phoenix-location)
+ - [A human has beat an AI in possibly the most complex board game ever](https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
