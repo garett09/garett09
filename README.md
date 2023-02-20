@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A demon rat and a duck star in this buddy cop RPG](https://www.pcgamer.com/a-demon-rat-and-a-duck-star-in-this-buddy-cop-rpg)
- - [This randomizer mod reshuffles classic shooters like Duke 3D, Blood, and Shadow Warrior](https://www.pcgamer.com/this-randomizer-mod-reshuffles-classic-shooters-like-duke-3d-blood-and-shadow-warrior)
- - [It&#39;s better to reign in hell, so check the trailer for a strategy game about conquering it](https://www.pcgamer.com/its-better-to-reign-in-hell-so-check-the-trailer-for-a-strategy-game-about-conquering-it)<!-- GAME:END -->
+ - [The Last of Us apocalypse’s most underrated tool? A menstrual cup](https://www.polygon.com/23604389/last-of-us-ellie-period-representation-tampax-divacup)
+ - [Skyrim mod adds Doctor Who&#39;s weeping angels in case you feel like wetting yourself](https://www.pcgamer.com/skyrim-mod-adds-doctor-whos-weeping-angels-in-case-you-feel-like-wetting-yourself)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
