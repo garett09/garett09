@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What were they expecting?](http://9gag.com/gag/a2KK34p)
- - 🚯 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
- - 🚯 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)<!-- MEMES:END -->
+ - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
+ - 🚯 [Bro, wtf](http://9gag.com/gag/avQQjdX)
+ - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
 
 --- 
 
