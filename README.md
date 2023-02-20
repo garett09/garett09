@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Good Ending](http://9gag.com/gag/aKEEM0g)
- - 🚯 [We want privacy! Stop looking at us!](http://9gag.com/gag/abvvnjX)
- - 🚯 [Dude got cremated](http://9gag.com/gag/awZZp4r)<!-- MEMES:END -->
+ - 🚖 [Kayla Lemieux](http://9gag.com/gag/az22W7N)
+ - 🚯 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)
+ - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
 
 --- 
 
