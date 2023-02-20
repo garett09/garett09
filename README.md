@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Presidents&#39; Day deals: Apple Pencil $79, Apple Watch SE $199, $80 off iPad Pro &amp; more](https://appleinsider.com/articles/23/02/20/presidents-day-deals-apple-pencil-79-apple-watch-se-199-80-off-ipad-pro-more?utm_medium=rss)
- - [How to Protect Yourself from Twitter’s 2FA Crackdown](https://www.wired.com/story/twitter-2fa-sms-alternatives-twitter-blue/)
- - [Samsung Galaxy XCover 6 Pro review: Rugged refined](https://www.androidauthority.com/samsung-galaxy-xcover6-pro-review-3270687/)<!-- TECH:END -->
+ - [A Stroke Paralyzed Her Arm. This Implant Let Her Use It Again](https://www.wired.com/story/spinal-implant-stroke-recovery/)
+ - [Sealed, original iPhone is now worth more than a Tesla Model Y](https://appleinsider.com/articles/23/02/20/seller-of-original-sealed-iphone-can-buy-a-nice-suv-with-the-proceeds?utm_medium=rss)
+ - [A profile of Synchron, a startup set to trial inserting brain implants via blood vessels, helping those with limited physical mobility use cursors and devices &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230220/p15#a230220p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
