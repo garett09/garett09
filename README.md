@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter has faced at least nine lawsuits in recent months from landlords, consultants, and vendors demanding payments totaling $14M+ for unpaid bills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p1#a230220p1)
- - [One UI 5.1 update off to a rough start as users report severe battery drain](https://www.androidauthority.com/one-ui-5-1-battery-drain-bugs-3287045/)
- - [Android phones in this country could be very different from global markets](https://www.androidauthority.com/android-phones-india-global-markets-changes-3287043/)<!-- TECH:END -->
+ - [You told us: You’re happy to give up wireless charging on one condition](https://www.androidauthority.com/wireless-charging-poll-results-3287060/)
+ - [The OnePlus foldable might not be a rebranded Oppo Find N2](https://www.androidauthority.com/oneplus-foldable-oppo-find-n2-3287058/)
+ - [Twitter has faced at least nine lawsuits in recent months from landlords, consultants, and vendors demanding payments totaling $14M+ for unpaid bills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p1#a230220p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
