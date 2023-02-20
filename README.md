@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Geekbench creator John Poole on making the tool cross-platform from the start, what&#39;s new in Geekbench 6, why benchmarking matters, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230220/p2#a230220p2)
- - [Daily Authority: 🎸 Google’s smash hit concert phone](https://www.androidauthority.com/daily-authority-february-20-2023-3287028/)
- - [You told us: You’re happy to give up wireless charging on one condition](https://www.androidauthority.com/wireless-charging-poll-results-3287060/)<!-- TECH:END -->
+ - [Semiconductor industry supply giant Applied Materials predicts a $250M hit in Q2 after a ransomware attack at an unnamed supplier, likely MKS Instruments &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230220/p4#a230220p4)
+ - [Samsung’s Camera Assistant app is now available on older Galaxy flagships](https://www.androidauthority.com/samsung-camera-assistant-app-update-3282517/)
+ - [Hedge fund Galois Capital, which managed ~$200M in 2022, shutters, returns investor money, and sells claims for $0.16 after half its assets were trapped on FTX &lpar;Laurence Fletcher/Financial Times&rpar;](http://www.techmeme.com/230220/p3#a230220p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
