@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Presidents Day sales happening now](https://www.theverge.com/23601592/best-presidents-day-sales-2023-tvs-laptops-headphones-robot-vacuums-gaming-deal)
- - [Exploring likely reasons the new Bing is reckless, like debuting with insufficient RLHF, or reinforcement learning with human feedback, compared to ChatGPT &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230220/p17#a230220p17)
- - [Amazon just issued a $200 price cut on Apple&#39;s iPad Pro, plus up to 43% off Macs &amp; Beats](https://appleinsider.com/articles/23/02/20/amazon-just-issued-a-200-price-cut-on-apples-ipad-pro-plus-up-to-43-off-macs-beats?utm_medium=rss)<!-- TECH:END -->
+ - [Google rolls out new Memory Saver and Energy Saver features, turned on by default, for Chrome on macOS, Windows, and ChromeOS &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/230220/p19#a230220p19)
+ - [Apple Support users hit by &#39;Invalid URL&#39; issue when seeking help](https://appleinsider.com/articles/23/02/20/apple-support-users-hit-by-invalid-url-issue-when-seeking-help?utm_medium=rss)
+ - [Many Microsoft Outlook users say inboxes have been flooded with spam emails for many hours, as filters appear broken; others have reported the issue for months &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230220/p18#a230220p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
