@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP](http://9gag.com/gag/a6qq0j9)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)<!-- MEMES:END -->
+ - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
+ - 🚯 [For the film Saving Private Ryan, Steven Spielberg made actor Tom Sizemore an offer: he\u2019d cast him in the film if the actor agreed to daily drug tests. Spielberg said he\u2019d recast and reshoot the entire film if Tom failed even one drug test.](http://9gag.com/gag/aGEEmDz)
+ - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)<!-- MEMES:END -->
 
 --- 
 
