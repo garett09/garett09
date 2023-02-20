@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-Level VR Gaming: Zenith’s New Trailer and PS VR2 Features](https://blog.playstation.com/2023/02/20/next-level-vr-gaming-zeniths-new-trailer-and-ps-vr2-features/)
- - [Sega arrives late to Japan&#39;s pay-hike party, bumping employee salaries by 30%](https://www.pcgamer.com/sega-arrives-late-to-japans-pay-hike-party-bumping-employee-salaries-by-30)
- - [Wordle hint and answer #611: Monday, February 20](https://www.pcgamer.com/wordle-hint-answer-today-611-february-20)<!-- GAME:END -->
+ - [Company of Heroes 3&#39;s twin campaigns offer classic RTS action and a whole new way to play](https://www.pcgamer.com/company-of-heroes-3s-twin-campaigns-offer-classic-rts-action-and-a-whole-new-way-to-play)
+ - [Gran Turismo 7 Update 1.29 includes PS VR2 upgrade, a race against superhuman AI, a classic GT track and 5 new cars](https://blog.playstation.com/2023/02/20/gran-turismo-7-update-1-29-includes-ps-vr2-upgrade-a-race-against-superhuman-ai-a-classic-gt-track-and-5-new-cars/)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
