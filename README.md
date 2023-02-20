@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [The great garbage patch.](http://9gag.com/gag/amAAZ76)<!-- MEMES:END -->
+ - 🚖 [The Good Ending](http://9gag.com/gag/aKEEM0g)
+ - 🚯 [Dude got cremated](http://9gag.com/gag/awZZp4r)
+ - 🚯 [Older women and their hypocrisy](http://9gag.com/gag/aEqq45e)<!-- MEMES:END -->
 
 --- 
 
