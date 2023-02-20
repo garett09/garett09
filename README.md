@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Good Ending](http://9gag.com/gag/aKEEM0g)
- - 🚯 [Dude got cremated](http://9gag.com/gag/awZZp4r)
- - 🚯 [Older women and their hypocrisy](http://9gag.com/gag/aEqq45e)<!-- MEMES:END -->
+ - 🚖 [Older women and their hypocrisy](http://9gag.com/gag/aEqq45e)
+ - 🚯 [Guess alcohol is the safest choice...](http://9gag.com/gag/aYVV38O)
+ - 🚯 [Waaagh](http://9gag.com/gag/a4ooXNA)<!-- MEMES:END -->
 
 --- 
 
