@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s always the bigger one](http://9gag.com/gag/aQEE0nq)
- - 🚯 [Not all Priests are bad... some are bro&#39;s](http://9gag.com/gag/aREEnV7)
+ - 🚖 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
+ - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
  - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
 
 --- 
