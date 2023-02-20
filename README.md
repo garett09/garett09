@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huge cover display could appear on Galaxy Z Flip 5, larger than Find N2 Flip’s](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-display-3287252/)
- - [As ChatGPT and generative AI explode in popularity, CEOs, engineers, executives, and other employees at myriad companies begin experimenting with the tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p16#a230220p16)
- - [Shigeru Miyamoto is working with his hands again](https://www.theverge.com/23604504/shigeru-miyamoto-interview-super-nintendo-world)<!-- TECH:END -->
+ - [The best Presidents Day sales happening now](https://www.theverge.com/23601592/best-presidents-day-sales-2023-tvs-laptops-headphones-robot-vacuums-gaming-deal)
+ - [Exploring likely reasons the new Bing is reckless, like debuting with insufficient RLHF, or reinforcement learning with human feedback, compared to ChatGPT &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230220/p17#a230220p17)
+ - [Amazon just issued a $200 price cut on Apple&#39;s iPad Pro, plus up to 43% off Macs &amp; Beats](https://appleinsider.com/articles/23/02/20/amazon-just-issued-a-200-price-cut-on-apples-ipad-pro-plus-up-to-43-off-macs-beats?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
