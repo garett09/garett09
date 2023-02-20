@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)
- - 🚯 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
- - 🚯 [Starlink satellites that are currently orbiting the Earth as of now!](http://9gag.com/gag/anzzZyV)<!-- MEMES:END -->
+ - 🚖 [How can anyone actually fall for this?](http://9gag.com/gag/awZZ2YW)
+ - 🚯 [Ballon rides are always fun](http://9gag.com/gag/awZZDLR)
+ - 🚯 [This bathroom stall that you can&#39;t enter without acrobatics](http://9gag.com/gag/az22wmz)<!-- MEMES:END -->
 
 --- 
 
