@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP](http://9gag.com/gag/a6qq0j9)
- - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - 🚯 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)<!-- MEMES:END -->
+ - 🚖 [Is this normal?](http://9gag.com/gag/a9qq0M6)
+ - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)<!-- MEMES:END -->
 
 --- 
 
