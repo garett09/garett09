@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yall are cruel](http://9gag.com/gag/aEqq92O)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)<!-- MEMES:END -->
+ - 🚖 [It&#39;s always the bigger one](http://9gag.com/gag/aQEE0nq)
+ - 🚯 [Not all Priests are bad... some are bro&#39;s](http://9gag.com/gag/aREEnV7)
+ - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
 
 --- 
 
