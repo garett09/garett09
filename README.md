@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crypto Shilling Costs Yet Another Celebrity A Million Dollars](https://kotaku.com/crypto-ethereum-paul-pierce-sec-fine-million-dollars-1850136219)
- - [Outsmart your friends and an eccentric mastermind in Escape First Alchemist](https://www.pcgamer.com/outsmart-your-friends-and-an-eccentric-mastermind-in-escape-first-alchemist)
- - [Persona 5 Can’t Handle Queer Relationships](https://kotaku.com/persona-5-royal-confidant-ryuji-joker-romance-gay-1850129012)<!-- GAME:END -->
+ - [A human has beat an AI in possibly the most complex board game ever](https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever)
+ - [Making a videogame and running a circus have more in common than you think](https://www.pcgamer.com/making-a-videogame-and-running-a-circus-have-more-in-common-than-you-think)
+ - [All hail Garlic Jr., the only Dragon Ball villain who actually won &lpar;kinda&rpar;](https://www.polygon.com/23592933/dragon-ball-z-garlic-jr-saga-winner-dbz-fights)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
