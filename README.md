@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We want privacy! Stop looking at us!](http://9gag.com/gag/abvvnjX)
- - 🚯 [Lol](http://9gag.com/gag/a1PPj92)
- - 🚯 [The Good Ending](http://9gag.com/gag/aKEEM0g)<!-- MEMES:END -->
+ - 🚖 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)
+ - 🚯 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
+ - 🚯 [Starlink satellites that are currently orbiting the Earth as of now!](http://9gag.com/gag/anzzZyV)<!-- MEMES:END -->
 
 --- 
 
