@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple scores Bafta win for best British short animation](https://appleinsider.com/articles/23/02/20/apple-scores-bafta-win-for-best-british-short-animation?utm_medium=rss)
- - [NBA star Paul Pierce fined $1.4 million for promoting Emax cryptocurrency](https://www.theverge.com/2023/2/20/23607017/paul-pierce-nba-sec-fines-emax-ethereummax-cryptocurrency-promotion)
- - [A look at Meta&#39;s &quot;The Cube&quot;, a cubicle made of felt-like recycled PET plastic that absorbs sound and blocks distractions, rolling out to Meta&#39;s offices globally &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p6#a230220p6)<!-- TECH:END -->
+ - [Boyfriend tracking girlfriend with AirTag ends predictably](https://appleinsider.com/articles/23/02/20/boyfriend-tracking-girlfriend-with-airtag-ends-predictably?utm_medium=rss)
+ - [Seller of original &amp; sealed iPhone can buy a nice SUV with the proceeds](https://appleinsider.com/articles/23/02/20/seller-of-original-sealed-iphone-can-buy-a-nice-suv-with-the-proceeds?utm_medium=rss)
+ - [Decentralized wireless communication network Helium plans to move to Solana on March 27 after 81% of its community voted in favor of migration in September 2022 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230220/p8#a230220p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
