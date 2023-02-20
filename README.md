@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Older women and their hypocrisy](http://9gag.com/gag/aEqq45e)
- - 🚯 [Guess alcohol is the safest choice...](http://9gag.com/gag/aYVV38O)
- - 🚯 [Waaagh](http://9gag.com/gag/a4ooXNA)<!-- MEMES:END -->
+ - 🚖 [What were they expecting?](http://9gag.com/gag/a2KK34p)
+ - 🚯 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
+ - 🚯 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)<!-- MEMES:END -->
 
 --- 
 
