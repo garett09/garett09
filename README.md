@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Apple Watch ban unlikely as Apple fights patent claim](https://appleinsider.com/articles/23/02/20/us-apple-watch-ban-unlikely-as-apple-fights-patent-claim?utm_medium=rss)
- - [Is OnePlus pulling a Nothing with its next concept phone?](https://www.androidauthority.com/oneplus-11-concept-images-3287189/)
- - [A social media post by two academics at the Chinese Academy of Sciences outlines plans to circumvent US chip sanctions, including patents on next-gen chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/230220/p9#a230220p9)<!-- TECH:END -->
+ - [A Wharton School professor whose classes required using ChatGPT to write essays says students fact-checked and quickly understood AI&#39;s accuracy and bias issues &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/230220/p11#a230220p11)
+ - [One UI 5.1 gets inspiration from Apple’s iOS 16, but is it doing it better?](https://www.androidauthority.com/samsung-one-ui-5-vs-apple-ios-16-3285961/)
+ - [Here’s how to secure your Twitter account without paying for Blue](https://www.theverge.com/23606430/how-to-secure-twitter-account-2fa-without-blue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
