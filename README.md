@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How can anyone actually fall for this?](http://9gag.com/gag/awZZ2YW)
- - 🚯 [Ballon rides are always fun](http://9gag.com/gag/awZZDLR)
- - 🚯 [This bathroom stall that you can&#39;t enter without acrobatics](http://9gag.com/gag/az22wmz)<!-- MEMES:END -->
+ - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
+ - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [The great garbage patch.](http://9gag.com/gag/amAAZ76)<!-- MEMES:END -->
 
 --- 
 
