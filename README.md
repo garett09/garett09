@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boyfriend tracking girlfriend with AirTag ends predictably](https://appleinsider.com/articles/23/02/20/boyfriend-tracking-girlfriend-with-airtag-ends-predictably?utm_medium=rss)
- - [Seller of original &amp; sealed iPhone can buy a nice SUV with the proceeds](https://appleinsider.com/articles/23/02/20/seller-of-original-sealed-iphone-can-buy-a-nice-suv-with-the-proceeds?utm_medium=rss)
- - [Decentralized wireless communication network Helium plans to move to Solana on March 27 after 81% of its community voted in favor of migration in September 2022 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230220/p8#a230220p8)<!-- TECH:END -->
+ - [US Apple Watch ban unlikely as Apple fights patent claim](https://appleinsider.com/articles/23/02/20/us-apple-watch-ban-unlikely-as-apple-fights-patent-claim?utm_medium=rss)
+ - [Is OnePlus pulling a Nothing with its next concept phone?](https://www.androidauthority.com/oneplus-11-concept-images-3287189/)
+ - [A social media post by two academics at the Chinese Academy of Sciences outlines plans to circumvent US chip sanctions, including patents on next-gen chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/230220/p9#a230220p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
