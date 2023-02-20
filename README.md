@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)
- - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
- - 🚯 [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)<!-- MEMES:END -->
+ - 🚖 [RIP](http://9gag.com/gag/a6qq0j9)
+ - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)<!-- MEMES:END -->
 
 --- 
 
