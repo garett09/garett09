@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Semiconductor industry supply giant Applied Materials predicts a $250M hit in Q2 after a ransomware attack at an unnamed supplier, likely MKS Instruments &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230220/p4#a230220p4)
- - [Samsung’s Camera Assistant app is now available on older Galaxy flagships](https://www.androidauthority.com/samsung-camera-assistant-app-update-3282517/)
- - [Hedge fund Galois Capital, which managed ~$200M in 2022, shutters, returns investor money, and sells claims for $0.16 after half its assets were trapped on FTX &lpar;Laurence Fletcher/Financial Times&rpar;](http://www.techmeme.com/230220/p3#a230220p3)<!-- TECH:END -->
+ - [Apple scores Bafta win for best British short animation](https://appleinsider.com/articles/23/02/20/apple-scores-bafta-win-for-best-british-short-animation?utm_medium=rss)
+ - [NBA star Paul Pierce fined $1.4 million for promoting Emax cryptocurrency](https://www.theverge.com/2023/2/20/23607017/paul-pierce-nba-sec-fines-emax-ethereummax-cryptocurrency-promotion)
+ - [A look at Meta&#39;s &quot;The Cube&quot;, a cubicle made of felt-like recycled PET plastic that absorbs sound and blocks distractions, rolling out to Meta&#39;s offices globally &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p6#a230220p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
