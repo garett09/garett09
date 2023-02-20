@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX is offering a ‘Global Roaming Service’ for internet anywhere on land](https://www.androidauthority.com/starlink-global-roaming-3287029/)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 6 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-6-hit-hbo-max/#ftag=CAD590a51e)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter has faced at least nine lawsuits in recent months from landlords, consultants, and vendors demanding payments totaling $14M+ for unpaid bills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p1#a230220p1)
+ - [One UI 5.1 update off to a rough start as users report severe battery drain](https://www.androidauthority.com/one-ui-5-1-battery-drain-bugs-3287045/)
+ - [Android phones in this country could be very different from global markets](https://www.androidauthority.com/android-phones-india-global-markets-changes-3287043/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
