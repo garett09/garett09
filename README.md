@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Stroke Paralyzed Her Arm. This Implant Let Her Use It Again](https://www.wired.com/story/spinal-implant-stroke-recovery/)
- - [Sealed, original iPhone is now worth more than a Tesla Model Y](https://appleinsider.com/articles/23/02/20/seller-of-original-sealed-iphone-can-buy-a-nice-suv-with-the-proceeds?utm_medium=rss)
- - [A profile of Synchron, a startup set to trial inserting brain implants via blood vessels, helping those with limited physical mobility use cursors and devices &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230220/p15#a230220p15)<!-- TECH:END -->
+ - [Huge cover display could appear on Galaxy Z Flip 5, larger than Find N2 Flip’s](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-display-3287252/)
+ - [As ChatGPT and generative AI explode in popularity, CEOs, engineers, executives, and other employees at myriad companies begin experimenting with the tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p16#a230220p16)
+ - [Shigeru Miyamoto is working with his hands again](https://www.theverge.com/23604504/shigeru-miyamoto-interview-super-nintendo-world)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
