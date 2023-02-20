@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
- - 🚯 [Bro, wtf](http://9gag.com/gag/avQQjdX)
- - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
+ - 🚖 [Sometimes we get not what we expect](http://9gag.com/gag/aNwwXLw)
+ - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [RIP](http://9gag.com/gag/a6qq0j9)<!-- MEMES:END -->
 
 --- 
 
