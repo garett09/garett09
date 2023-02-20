@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ouch.](http://9gag.com/gag/aWGG3o3)
- - 🚯 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - 🚯 [The great garbage patch.](http://9gag.com/gag/amAAZ76)<!-- MEMES:END -->
+ - 🚖 [The Good Ending](http://9gag.com/gag/aKEEM0g)
+ - 🚯 [We want privacy! Stop looking at us!](http://9gag.com/gag/abvvnjX)
+ - 🚯 [Dude got cremated](http://9gag.com/gag/awZZp4r)<!-- MEMES:END -->
 
 --- 
 
