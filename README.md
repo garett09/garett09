@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ChatGPT Reincarnation of the Marquis de Sade Is Coming](https://www.wired.com/story/generative-ai-marquis-de-sade-chatgpt/)
- - [A New Kind of Bug Spells Trouble for iOS and macOS Security](https://www.wired.com/story/trellix-ios-macos-bug-nspredicate/)
- - [Hackers stole data center logins for Apple, Microsoft, and many more](https://appleinsider.com/articles/23/02/21/hackers-stole-data-center-logins-for-apple-microsoft-and-many-more?utm_medium=rss)<!-- TECH:END -->
+ - [How to Install the Google Play Store on an Amazon Fire Tablet &lpar;2023&rpar;](https://www.wired.com/story/how-to-install-google-play-store-on-amazon-fire-tablet/)
+ - [Wild Hearts Seems All Too Familiar     - CNET](https://www.cnet.com/tech/gaming/wild-hearts-seems-all-too-familiar/#ftag=CAD590a51e)
+ - [Movement Snacks: Why Taking Breaks to Flail About Is Good for Your Health     - CNET](https://www.cnet.com/health/fitness/movement-snacks-why-taking-breaks-to-flail-about-is-good-for-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
