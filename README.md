@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon&#39;s stock decline over the past year has roiled its stock-heavy compensation plans, causing pay in 2023 to drop by 15%-50% below Amazon&#39;s targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230221/p9#a230221p9)
- - [Meet the Superusers Behind IMDb, the Internet’s Favorite Movie Site](https://www.wired.com/story/superusers-behind-imdb-the-internets-favorite-movie-site/)
- - [Meta plans to update its TOS for Facebook, Instagram, and WhatsApp users in the UK and will begin moving those users from its Irish subsidiary to US agreements &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230221/p8#a230221p8)<!-- TECH:END -->
+ - [PhoneSuit Elite Mag Review: Ergonomic and efficient battery](https://appleinsider.com/articles/23/02/21/phonesuit-elite-mag-review-ergonomic-and-efficient-battery?utm_medium=rss)
+ - [Sony rolls out its GT Sophy AI to Gran Turismo 7, an experiment announced in February 2022, letting players race against Sophy in GT Sophy Race Together mode &lpar;Jonathan M. Gitlin/Ars Technica&rpar;](http://www.techmeme.com/230221/p10#a230221p10)
+ - [This Lab-Grown Skin Could Revolutionize Transplants](https://www.wired.com/story/this-lab-grown-skin-could-revolutionize-transplants/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
