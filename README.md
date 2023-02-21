@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
- - 🚯 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)
- - 🚯 [Death Penalty - N1260C](http://9gag.com/gag/aL11qb5)<!-- MEMES:END -->
+ - 🚖 [RIP](http://9gag.com/gag/a6qq0j9)
+ - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
+ - 🚯 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)<!-- MEMES:END -->
 
 --- 
 
