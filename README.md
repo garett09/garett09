@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
- - 🚯 [Always use 2 fingers to grab hands i mean](http://9gag.com/gag/ap99M98)
- - 🚯 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)<!-- MEMES:END -->
+ - 🚖 [Wise words....](http://9gag.com/gag/aA00oA0)
+ - 🚯 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)
+ - 🚯 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)<!-- MEMES:END -->
 
 --- 
 
