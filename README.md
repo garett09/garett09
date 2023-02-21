@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
- - 🚯 [RIP](http://9gag.com/gag/a6qq0j9)<!-- MEMES:END -->
+ - 🚖 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
+ - 🚯 [Always use 2 fingers to grab hands i mean](http://9gag.com/gag/ap99M98)
+ - 🚯 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)<!-- MEMES:END -->
 
 --- 
 
