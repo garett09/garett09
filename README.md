@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BenQ Mobiuz EX240](https://www.pcgamer.com/benq-mobiuz-ex240)
- - [The first RTX 4060 gaming laptop prices are... actually kind of okay](https://www.pcgamer.com/the-first-rtx-4060-gaming-laptop-prices-are-actually-kind-of-okay)
- - [Coming to Xbox Game Pass: Wo Long: Fallen Dynasty, Soul Hackers 2, F1 22, and Merge &amp; Blade](https://news.xbox.com/en-us/2023/02/21/game-pass-february-2023-wave-2-announce/)<!-- GAME:END -->
+ - [11 things you should know before starting Like a Dragon: Ishin!](https://www.polygon.com/guides/23604878/like-a-dragon-ishin-beginners-guide-tips-tricks)
+ - [How Star Wars: Tales from the Galaxy’s Edge – Enhanced Edition provides an incredibly immersive experience on PS VR2](https://blog.playstation.com/2023/02/21/how-star-wars-tales-from-the-galaxys-edge-enhanced-edition-provides-an-incredibly-immersive-experience-on-ps-vr2/)
+ - [Creed: Rise to Glory – Championship Edition steps into the ring on PS VR2 April 4](https://blog.playstation.com/2023/02/21/creed-rise-to-glory-championship-edition-steps-into-the-ring-on-ps-vr2-april-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
