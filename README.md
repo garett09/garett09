@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro, wtf](http://9gag.com/gag/avQQjdX)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)<!-- MEMES:END -->
+ - 🚖 [Science, b*tch!](http://9gag.com/gag/aBdd7eD)
+ - 🚯 [Dog doesn&#39;t like the store keeper](http://9gag.com/gag/aBddqMA)
+ - 🚯 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)<!-- MEMES:END -->
 
 --- 
 
