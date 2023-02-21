@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mumbai-based Mintoak, which lets banks deploy and scale services like payments and lending to their SMB customers, raised a $20M Series A led by PayPal Ventures &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/230220/p25#a230220p25)
  - [Linus Torvalds releases Linux 6.2, the first mainstream Linux kernel to support Apple&#39;s M1 chips, which is expected to become Ubuntu 23.04&#39;s default kernel &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/230220/p24#a230220p24)
- - [After global big tech tax fails, France looks to EU for help](https://appleinsider.com/articles/23/02/21/after-global-big-tech-tax-fails-france-looks-to-eu-for-help?utm_medium=rss)
- - [Samsung says that weird thing on the Galaxy S23 Ultra’s display is not a defect](https://www.androidauthority.com/samsung-galaxy-s23-ultra-display-defect-3287461/)<!-- TECH:END -->
+ - [After global big tech tax fails, France looks to EU for help](https://appleinsider.com/articles/23/02/21/after-global-big-tech-tax-fails-france-looks-to-eu-for-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
