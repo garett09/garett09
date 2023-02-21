@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tabletop-ish RPG For the King 2 is looking good in a new trailer](https://www.pcgamer.com/tabletop-ish-rpg-for-the-king-2-is-looking-good-in-a-new-trailer)
- - [Chrono Cross&#39; Wonky Port Finally Getting Some Fixes](https://kotaku.com/chrono-cross-rpg-jrpg-square-enix-switch-fix-update-1850138453)
- - [It Is Finally Time For A New Civilization Game](https://kotaku.com/sid-meier-civilization-vi-vii-2k-firaxis-4x-announce-1850138311)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/20/this-weeks-deals-with-gold-and-spotlight-sale-263/)
+ - [This VR mod uses LEDs to increase your field of view](https://www.pcgamer.com/this-vr-mod-uses-leds-to-increase-your-field-of-view)
+ - [Tabletop-ish RPG For the King 2 is looking good in a new trailer](https://www.pcgamer.com/tabletop-ish-rpg-for-the-king-2-is-looking-good-in-a-new-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
