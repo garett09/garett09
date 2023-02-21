@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)
- - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
+ - 🚖 [Is this even legal?](http://9gag.com/gag/aREBwAG)
+ - 🚯 [Appetizer](http://9gag.com/gag/a9qq3Qo)
+ - 🚯 [Shut the f**k up Jennifer.](http://9gag.com/gag/aOx8K6y)<!-- MEMES:END -->
 
 --- 
 
