@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)
- - [Linux 6.2 includes M1 Mac support, but it&#39;s not fully ready to use](https://appleinsider.com/articles/23/02/21/linux-62-includes-m1-mac-support-but-its-not-fully-ready-to-use?utm_medium=rss)
- - [&#39;Car Keys Tests&#39; app surfaces on App Store](https://appleinsider.com/articles/23/02/21/car-keys-tests-app-surfaces-on-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Linus Torvalds releases Linux 6.2, the first mainstream Linux kernel to support Apple&#39;s M1 chips, which is expected to become Ubuntu 23.04&#39;s default kernel &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/230220/p24#a230220p24)
+ - [After global big tech tax fails, France looks to EU for help](https://appleinsider.com/articles/23/02/21/after-global-big-tech-tax-fails-france-looks-to-eu-for-help?utm_medium=rss)
+ - [Samsung says that weird thing on the Galaxy S23 Ultra’s display is not a defect](https://www.androidauthority.com/samsung-galaxy-s23-ultra-display-defect-3287461/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
