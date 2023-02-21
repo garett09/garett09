@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wise words....](http://9gag.com/gag/aA00oA0)
- - 🚯 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)
- - 🚯 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)<!-- MEMES:END -->
+ - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
+ - 🚯 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)
+ - 🚯 [Death Penalty - N1260C](http://9gag.com/gag/aL11qb5)<!-- MEMES:END -->
 
 --- 
 
