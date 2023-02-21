@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Intel Meteor Lake explainer: allow me to clear up any confusion](https://www.pcgamer.com/the-intel-meteor-lake-explainer-allow-me-to-clear-up-any-confusion)
- - [Atomic Heart has launched without ray tracing despite featuring in multiple Nvidia tech demos](https://www.pcgamer.com/atomic-heart-has-launched-without-ray-tracing-despite-featuring-in-multiple-nvidia-tech-demos)
- - [Tyrel Jackson Williams doesn’t fault your Disney fandom, but maybe watch Party Down](https://www.polygon.com/23604114/tyrel-jackson-williams-interview-party-down-lab-rats)<!-- GAME:END -->
+ - [8 things to know before starting Atomic Heart](https://www.polygon.com/guides/23607532/atomic-heart-beginners-guide-tips-tricks-puzzles-skills-upgrades)
+ - [The New JoJo Manga Proves Hirohiko Araki Still Has The Midas Touch](https://kotaku.com/jojos-bizarre-adventure-jjba-jojolands-jodio-dragona-1850130485)
+ - [Pokémon Go Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
