@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Planes, drones, and LIDAR: How EA Sports built the courses of its PGA Tour game](https://www.polygon.com/23608264/ea-sports-pga-tour-preview-course-list-augusta-national-los-angeles-country-club)
- - [The Last Of Us Show Fans Are Freaking Out About Dina Right Now](https://kotaku.com/the-last-of-us-dina-e6-who-is-paolina-van-kleef-tlou2-1850139823)
- - [Where to use Sea Treasures Tokens in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-sea-treasures-tokens)<!-- GAME:END -->
+ - [The Intel Meteor Lake explainer: allow me to clear up any confusion](https://www.pcgamer.com/the-intel-meteor-lake-explainer-allow-me-to-clear-up-any-confusion)
+ - [Atomic Heart has launched without ray tracing despite featuring in multiple Nvidia tech demos](https://www.pcgamer.com/atomic-heart-has-launched-without-ray-tracing-despite-featuring-in-multiple-nvidia-tech-demos)
+ - [Tyrel Jackson Williams doesn’t fault your Disney fandom, but maybe watch Party Down](https://www.polygon.com/23604114/tyrel-jackson-williams-interview-party-down-lab-rats)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
