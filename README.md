@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The great garbage patch.](http://9gag.com/gag/amAAZ76)
- - 🚯 [What could go wrong while harassing a poor vendor](http://9gag.com/gag/anzzpw0)
- - 🚯 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)<!-- MEMES:END -->
+ - 🚖 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)
+ - 🚯 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
+ - 🚯 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)<!-- MEMES:END -->
 
 --- 
 
