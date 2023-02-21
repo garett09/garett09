@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wireless ISP Starry is filing for bankruptcy](https://www.theverge.com/2023/2/21/23608940/starry-bankruptcy-chapter-11-wireless-internet-service-provider)
- - [President Biden upholds potential Apple Watch ban](https://appleinsider.com/articles/23/02/21/president-biden-upholds-potential-apple-watch-ban?utm_medium=rss)
- - [Microsoft recruited Nintendo and Nvidia to help fight Sony over the Activision deal](https://www.theverge.com/2023/2/21/23608634/microsoft-activision-blizzard-deal-nintendo-nvidia-partners)<!-- TECH:END -->
+ - [Medical tech company AliveCor, which accused Apple of patent infringement, claims Biden upheld an ITC ruling that may result in an import ban on the Apple Watch &lpar;Karl Evers-Hillstrom/The Hill&rpar;](http://www.techmeme.com/230221/p27#a230221p27)
+ - [Biden won’t stop a potential ban on importing Apple Watches](https://www.theverge.com/2023/2/21/23608810/apple-watch-alivecor-biden-itc-import-ban)
+ - [Meta Quest&#39;s New Hand Tracking Update Adds Button Tapping And Maybe Better Typing     - CNET](https://www.cnet.com/tech/computing/meta-quests-new-hand-tracking-update-adds-button-tapping-and-maybe-better-typing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
