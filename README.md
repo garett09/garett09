@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After more than 2 years of updates, Assassin&#39;s Creed Valhalla&#39;s final patch is out today](https://www.pcgamer.com/after-more-than-2-years-of-updates-assassins-creed-valhallas-final-patch-is-out-today)
- - [Major sci-fi magazine halts submissions due to flood of stories written by AI chatbots](https://www.pcgamer.com/major-sci-fi-magazine-halts-submissions-due-to-flood-of-stories-written-by-ai-chatbots)
- - [Capcom will give its first Street Fighter 6 champ a massive million-dollar prize](https://www.pcgamer.com/capcom-will-give-its-first-street-fighter-6-champ-a-massive-million-dollar-prize)<!-- GAME:END -->
+ - [The union organising Activision told the EU that life would be much better under Microsoft](https://www.pcgamer.com/the-union-organising-activision-told-the-eu-that-life-would-be-much-better-under-microsoft)
+ - [Corsair HS55 Wireless](https://www.pcgamer.com/corsair-hs55-wireless-review)
+ - [Here&#39;s every landing platform in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-landing-platforms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
