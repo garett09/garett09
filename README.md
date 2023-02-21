@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It Is Finally Time For A New Civilization Game](https://kotaku.com/sid-meier-civilization-vi-vii-2k-firaxis-4x-announce-1850138311)
  - [How to use the scanner in Atomic Heart](https://www.polygon.com/guides/23606334/atomic-heart-scanner-tutorial-how-to-bug-r1-rb)
- - [Facebook and Instagram are getting paid verification badges, just like Twitter](https://www.pcgamer.com/facebook-and-instagram-are-getting-paid-verification-badges-just-like-twitter)
- - [Here&#39;s a demo for a collectathon platformer that fell right out of 1999](https://www.pcgamer.com/heres-a-demo-for-a-collectathon-platformer-that-fell-right-out-of-1999)<!-- GAME:END -->
+ - [Facebook and Instagram are getting paid verification badges, just like Twitter](https://www.pcgamer.com/facebook-and-instagram-are-getting-paid-verification-badges-just-like-twitter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
