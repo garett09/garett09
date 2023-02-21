@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Install the Google Play Store on an Amazon Fire Tablet &lpar;2023&rpar;](https://www.wired.com/story/how-to-install-google-play-store-on-amazon-fire-tablet/)
- - [Wild Hearts Seems All Too Familiar     - CNET](https://www.cnet.com/tech/gaming/wild-hearts-seems-all-too-familiar/#ftag=CAD590a51e)
- - [Movement Snacks: Why Taking Breaks to Flail About Is Good for Your Health     - CNET](https://www.cnet.com/health/fitness/movement-snacks-why-taking-breaks-to-flail-about-is-good-for-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Microsoft forum post from November 23, 2022 describes AI chatbot Sydney &quot;misbehaving&quot; and being &quot;so rude&quot;, suggesting the company knew about its quirks &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230221/p16#a230221p16)
+ - [Do you need a smart water bottle? The basics of hydrating smarter](https://www.androidauthority.com/smart-water-bottle-3285959/)
+ - [The Myth of the Psychopathic Personality Refuses to Die](https://www.wired.com/story/psychopathy-psychology-bryan-kohberger/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
