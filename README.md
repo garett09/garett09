@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden upholds potential Apple Watch ban](https://appleinsider.com/articles/23/02/21/president-biden-upholds-potential-apple-watch-ban?utm_medium=rss)
- - [iPhone 15 could finally have more than a measly 6GB of RAM](https://www.androidauthority.com/iphone-15-ram-3287743/)
- - [Android is in big trouble as Gen Z increasingly prefer iPhones](https://www.androidauthority.com/gen-z-android-3287750/)<!-- TECH:END -->
+ - [Meta Verified Shows a Company Running Out of Ideas](https://www.wired.com/story/meta-verified-instagram-facebook-twitter-out-of-ideas/)
+ - [Sci-fi outlet Clarkesworld suspends short story submissions, citing a surge in AI-generated stories, saying those who submit as looking to make &quot;a quick buck&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230221/p20#a230221p20)
+ - [A researcher found a now-secure US DOD Azure database that wasn&#39;t password protected and had years worth of military emails with sensitive personnel info &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230221/p19#a230221p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
