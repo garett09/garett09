@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Ultimate Friends &amp; Family Plan Expands to Six New Countries](https://news.xbox.com/en-us/2023/02/21/xbox-game-pass-ultimate-friends-family-plan-expands-to-six-new-countries/)
- - [Microsoft announces 10-year deal with Nvidia to bring Xbox PC games to GeForce Now](https://www.pcgamer.com/microsoft-announces-10-year-deal-with-nvidia-to-bring-xbox-pc-games-to-geforce-now)
- - [Gran Turismo 7 adds VR, ‘superhuman’ AI, and the coolest car of all time](https://www.polygon.com/23608793/gran-turismo-7-patch-1-29-vr-but-more-importantly-citroen-ds)<!-- GAME:END -->
+ - [Survival game Sons of the Forest shows off co-op base-building, fleshy nightmares](https://www.pcgamer.com/survival-game-sons-of-the-forest-shows-off-co-op-base-building-fleshy-nightmares)
+ - [The Full Story Behind That Spinning Cat You&#39;re Seeing Everywhere Now](https://kotaku.com/maxwell-spinning-cat-explain-real-name-jess-garys-mod-1850142446)
+ - [How to complete every bond in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608883/like-a-dragon-ishin-bonds-guide-locations-rewards-tasks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
