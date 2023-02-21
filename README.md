@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)
- - 🚯 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - 🚯 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)<!-- MEMES:END -->
+ - 🚖 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
+ - 🚯 [RIP](http://9gag.com/gag/a6qq0j9)<!-- MEMES:END -->
 
 --- 
 
