@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP](http://9gag.com/gag/a6qq0j9)
- - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
- - 🚯 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)<!-- MEMES:END -->
+ - 🚖 [Sunday love](http://9gag.com/gag/ajVVppq)
+ - 🚯 [Kirti Sanon](http://9gag.com/gag/ap99OmW)
+ - 🚯 [It&#39;s called Chaotic and back then it was really cool](http://9gag.com/gag/armmY9y)<!-- MEMES:END -->
 
 --- 
 
