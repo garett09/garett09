@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you know how much a slave cost back then?](http://9gag.com/gag/agom35K)
- - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
- - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
+ - 🚖 [Is this even legal?](http://9gag.com/gag/aREBwAG)
+ - 🚯 [Interesting wheel of](http://9gag.com/gag/aEq0deO)
+ - 🚯 [Good to know the brakes are functional](http://9gag.com/gag/a1PmpG6)<!-- MEMES:END -->
 
 --- 
 
