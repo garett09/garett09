@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Appetizer](http://9gag.com/gag/a9qq3Qo)
- - 🚯 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)
- - 🚯 [Death Penalty - N1260C](http://9gag.com/gag/aL11qb5)<!-- MEMES:END -->
+ - 🚖 [Icelandic women can be very direct.](http://9gag.com/gag/aqeeqGY)
+ - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
 
 --- 
 
