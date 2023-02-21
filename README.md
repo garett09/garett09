@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sunday love](http://9gag.com/gag/ajVVppq)
- - 🚯 [Kirti Sanon](http://9gag.com/gag/ap99OmW)
- - 🚯 [It&#39;s called Chaotic and back then it was really cool](http://9gag.com/gag/armmY9y)<!-- MEMES:END -->
+ - 🚖 [Biden just arrived in Kyiv???](http://9gag.com/gag/anzz6dE)
+ - 🚯 [Witch torture &#39;devices&#39;](http://9gag.com/gag/aZDDeXn)
+ - 🚯 [No nothing](http://9gag.com/gag/aeQQLqj)<!-- MEMES:END -->
 
 --- 
 
