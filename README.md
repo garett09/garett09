@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Verified Shows a Company Running Out of Ideas](https://www.wired.com/story/meta-verified-instagram-facebook-twitter-out-of-ideas/)
- - [Sci-fi outlet Clarkesworld suspends short story submissions, citing a surge in AI-generated stories, saying those who submit as looking to make &quot;a quick buck&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230221/p20#a230221p20)
- - [A researcher found a now-secure US DOD Azure database that wasn&#39;t password protected and had years worth of military emails with sensitive personnel info &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230221/p19#a230221p19)<!-- TECH:END -->
+ - [Act fast: Samsung’s Pokémon gear is back in stock after selling out in 24 hours](https://www.androidauthority.com/samsung-pokemon-3287840/)
+ - [Can you share Apple TV Plus with others?](https://www.androidauthority.com/share-apple-tv-plus-3287355/)
+ - [Amazon expands its partnership with Open AI-rival Hugging Face, which will use AWS to build its next gen LLM and will have its tools offered to AWS customers &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230221/p24#a230221p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
