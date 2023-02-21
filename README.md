@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medical tech company AliveCor, which accused Apple of patent infringement, claims Biden upheld an ITC ruling that may result in an import ban on the Apple Watch &lpar;Karl Evers-Hillstrom/The Hill&rpar;](http://www.techmeme.com/230221/p27#a230221p27)
- - [Biden won’t stop a potential ban on importing Apple Watches](https://www.theverge.com/2023/2/21/23608810/apple-watch-alivecor-biden-itc-import-ban)
- - [Meta Quest&#39;s New Hand Tracking Update Adds Button Tapping And Maybe Better Typing     - CNET](https://www.cnet.com/tech/computing/meta-quests-new-hand-tracking-update-adds-button-tapping-and-maybe-better-typing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase reports Q4 revenue down 75% YoY to $629M, vs. $590M est., a $557M net loss, and 8.3M monthly transacting users, vs. 8.22M est. and down from 8.5M in Q3 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230221/p29#a230221p29)
+ - [Sources: the FTC won&#39;t challenge Amazon&#39;s $3.49B acquisition of One Medical parent company 1Life Healthcare, which will allow the deal to close later this week &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230221/p28#a230221p28)
+ - [The Supreme Court Could Radically Reshape Online Speech     - CNET](https://www.cnet.com/news/politics/the-supreme-court-could-radically-reshape-online-speech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
