@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Act fast: Samsung’s Pokémon gear is back in stock after selling out in 24 hours](https://www.androidauthority.com/samsung-pokemon-3287840/)
- - [Can you share Apple TV Plus with others?](https://www.androidauthority.com/share-apple-tv-plus-3287355/)
- - [Amazon expands its partnership with Open AI-rival Hugging Face, which will use AWS to build its next gen LLM and will have its tools offered to AWS customers &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230221/p24#a230221p24)<!-- TECH:END -->
+ - [Wireless ISP Starry is filing for bankruptcy](https://www.theverge.com/2023/2/21/23608940/starry-bankruptcy-chapter-11-wireless-internet-service-provider)
+ - [President Biden upholds potential Apple Watch ban](https://appleinsider.com/articles/23/02/21/president-biden-upholds-potential-apple-watch-ban?utm_medium=rss)
+ - [Microsoft recruited Nintendo and Nvidia to help fight Sony over the Activision deal](https://www.theverge.com/2023/2/21/23608634/microsoft-activision-blizzard-deal-nintendo-nvidia-partners)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
