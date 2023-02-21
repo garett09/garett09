@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
- - 🚯 [Best restaurant in town](http://9gag.com/gag/aYVV3rx)
- - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)<!-- MEMES:END -->
+ - 🚖 [The great garbage patch.](http://9gag.com/gag/amAAZ76)
+ - 🚯 [What could go wrong while harassing a poor vendor](http://9gag.com/gag/anzzpw0)
+ - 🚯 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)<!-- MEMES:END -->
 
 --- 
 
