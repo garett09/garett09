@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Icelandic women can be very direct.](http://9gag.com/gag/aqeeqGY)
- - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 🚖 [Do you know how much a slave cost back then?](http://9gag.com/gag/agom35K)
+ - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
  - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
 
 --- 
