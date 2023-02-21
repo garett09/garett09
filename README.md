@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It Is Finally Time For A New Civilization Game](https://kotaku.com/sid-meier-civilization-vi-vii-2k-firaxis-4x-announce-1850138311)
- - [How to use the scanner in Atomic Heart](https://www.polygon.com/guides/23606334/atomic-heart-scanner-tutorial-how-to-bug-r1-rb)
- - [Facebook and Instagram are getting paid verification badges, just like Twitter](https://www.pcgamer.com/facebook-and-instagram-are-getting-paid-verification-badges-just-like-twitter)<!-- GAME:END -->
+ - [Tabletop-ish RPG For the King 2 is looking good in a new trailer](https://www.pcgamer.com/tabletop-ish-rpg-for-the-king-2-is-looking-good-in-a-new-trailer)
+ - [Chrono Cross&#39; Wonky Port Finally Getting Some Fixes](https://kotaku.com/chrono-cross-rpg-jrpg-square-enix-switch-fix-update-1850138453)
+ - [It Is Finally Time For A New Civilization Game](https://kotaku.com/sid-meier-civilization-vi-vii-2k-firaxis-4x-announce-1850138311)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
