@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.3 no longer signed by Apple just as new security patch notes are revealed](https://appleinsider.com/articles/23/02/20/ios-163-no-longer-signed-by-apple-just-as-new-security-patch-notes-are-revealed?utm_medium=rss)
- - [Diablo 4 Open Beta Starts in March     - CNET](https://www.cnet.com/tech/gaming/diablo-4-open-beta-starts-in-march/#ftag=CAD590a51e)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2023     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ride-hailing service inDrive, whose gross revenue increased 88% in 2022, raised $150M in debt that links repayment to its performance, from General Catalyst &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/230220/p23#a230220p23)
+ - [Newly Detected Auroras on Jupiter&#39;s Moons Put on Stunning Show     - CNET](https://www.cnet.com/science/space/newly-detected-auroras-on-jupiters-biggest-moons-put-on-stunning-show/#ftag=CAD590a51e)
+ - [This Might Be the Oldest Roman Sex Toy Ever Found     - CNET](https://www.cnet.com/science/this-might-be-the-oldest-roman-sex-toy-ever-found/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
