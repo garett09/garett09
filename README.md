@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
- - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
+ - 🚖 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)
+ - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
 
 --- 
 
