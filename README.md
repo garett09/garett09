@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ampere: streamers will spend $8.5B on sports rights across 17 countries in 2023, up 64% YoY; DAZN accounted for 54% of streamers&#39; 2022 sports rights spending &lpar;Karlene Lukovitz/MediaPost&rpar;](http://www.techmeme.com/230221/p5#a230221p5)
- - [Microsoft President Brad Smith says the company signed a binding, 10-year contract to bring Call of Duty games to Nintendo consoles on the same day as Xbox &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230221/p4#a230221p4)
- - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Amazon&#39;s stock decline over the past year has roiled its stock-heavy compensation plans, causing pay in 2023 to drop by 15%-50% below Amazon&#39;s targets &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230221/p9#a230221p9)
+ - [Meet the Superusers Behind IMDb, the Internet’s Favorite Movie Site](https://www.wired.com/story/superusers-behind-imdb-the-internets-favorite-movie-site/)
+ - [Meta plans to update its TOS for Facebook, Instagram, and WhatsApp users in the UK and will begin moving those users from its Irish subsidiary to US agreements &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230221/p8#a230221p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
