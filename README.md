@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 things to know before starting Atomic Heart](https://www.polygon.com/guides/23607532/atomic-heart-beginners-guide-tips-tricks-puzzles-skills-upgrades)
- - [The New JoJo Manga Proves Hirohiko Araki Still Has The Midas Touch](https://kotaku.com/jojos-bizarre-adventure-jjba-jojolands-jodio-dragona-1850130485)
- - [Pokémon Go Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards)<!-- GAME:END -->
+ - [Destiny 2 cheat maker owes Bungie $4.4M after judge rules it violated the DMCA](https://www.pcgamer.com/destiny-2-cheat-maker-owes-bungie-dollar44m-after-judge-rules-it-violated-the-dmca)
+ - [This implant lets those with severe paralysis send texts and use the internet with just their minds](https://www.pcgamer.com/this-implant-lets-those-with-severe-paralysis-send-texts-and-use-the-internet-with-just-their-minds)
+ - [Mega Man X DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2023/02/21/mega-man-x-dlc-available-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
