@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Science, b*tch!](http://9gag.com/gag/aBdd7eD)
- - 🚯 [Dog doesn&#39;t like the store keeper](http://9gag.com/gag/aBddqMA)
- - 🚯 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)<!-- MEMES:END -->
+ - 🚖 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)
+ - 🚯 [Best restaurant in town](http://9gag.com/gag/aYVV3rx)
+ - 🚯 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)<!-- MEMES:END -->
 
 --- 
 
