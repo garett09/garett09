@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere: streamers will spend $8.5B on sports rights across 17 countries in 2023, up 64% YoY; DAZN accounted for 54% of streamers&#39; 2022 sports rights spending &lpar;Karlene Lukovitz/MediaPost&rpar;](http://www.techmeme.com/230221/p5#a230221p5)
  - [Microsoft President Brad Smith says the company signed a binding, 10-year contract to bring Call of Duty games to Nintendo consoles on the same day as Xbox &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230221/p4#a230221p4)
- - [The first Snapdragon 8 Gen 2 foldable might not come from Samsung](https://www.androidauthority.com/snapdragon-8-gen-2-foldable-phone-3287508/)
- - [Poll: Do you use an authenticator app?](https://www.androidauthority.com/authenticator-apps-poll-3287494/)<!-- TECH:END -->
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
