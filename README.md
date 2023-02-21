@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The union organising Activision told the EU that life would be much better under Microsoft](https://www.pcgamer.com/the-union-organising-activision-told-the-eu-that-life-would-be-much-better-under-microsoft)
- - [Corsair HS55 Wireless](https://www.pcgamer.com/corsair-hs55-wireless-review)
- - [Here&#39;s every landing platform in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-landing-platforms)<!-- GAME:END -->
+ - [BenQ Mobiuz EX240](https://www.pcgamer.com/benq-mobiuz-ex240)
+ - [The first RTX 4060 gaming laptop prices are... actually kind of okay](https://www.pcgamer.com/the-first-rtx-4060-gaming-laptop-prices-are-actually-kind-of-okay)
+ - [Coming to Xbox Game Pass: Wo Long: Fallen Dynasty, Soul Hackers 2, F1 22, and Merge &amp; Blade](https://news.xbox.com/en-us/2023/02/21/game-pass-february-2023-wave-2-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
