@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this even legal?](http://9gag.com/gag/aREBwAG)
- - 🚯 [Appetizer](http://9gag.com/gag/a9qq3Qo)
- - 🚯 [Shut the f**k up Jennifer.](http://9gag.com/gag/aOx8K6y)<!-- MEMES:END -->
+ - 🚖 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
 
 --- 
 
