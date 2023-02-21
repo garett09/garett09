@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
- - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
- - 🚯 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)<!-- MEMES:END -->
+ - 🚯 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
 
 --- 
 
