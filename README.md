@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Microsoft forum post from November 23, 2022 describes AI chatbot Sydney &quot;misbehaving&quot; and being &quot;so rude&quot;, suggesting the company knew about its quirks &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230221/p16#a230221p16)
- - [Do you need a smart water bottle? The basics of hydrating smarter](https://www.androidauthority.com/smart-water-bottle-3285959/)
- - [The Myth of the Psychopathic Personality Refuses to Die](https://www.wired.com/story/psychopathy-psychology-bryan-kohberger/)<!-- TECH:END -->
+ - [Apple still the brightest point in gloomy global PC market](https://appleinsider.com/articles/23/02/21/apple-still-the-brightest-point-in-gloomy-global-pc-market?utm_medium=rss)
+ - [Save almost $300 on the Tab S7 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [The European Commission plans to propose a law in Q2 2023 to improve cooperation by national regulators on cross-border investigations into GDPR violations &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230221/p17#a230221p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
