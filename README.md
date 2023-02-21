@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #612: Tuesday, February 21](https://www.pcgamer.com/wordle-hint-answer-today-612-february-21)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/20/this-weeks-deals-with-gold-and-spotlight-sale-263/)
- - [This VR mod uses LEDs to increase your field of view](https://www.pcgamer.com/this-vr-mod-uses-leds-to-increase-your-field-of-view)<!-- GAME:END -->
+ - [After more than 2 years of updates, Assassin&#39;s Creed Valhalla&#39;s final patch is out today](https://www.pcgamer.com/after-more-than-2-years-of-updates-assassins-creed-valhallas-final-patch-is-out-today)
+ - [Major sci-fi magazine halts submissions due to flood of stories written by AI chatbots](https://www.pcgamer.com/major-sci-fi-magazine-halts-submissions-due-to-flood-of-stories-written-by-ai-chatbots)
+ - [Capcom will give its first Street Fighter 6 champ a massive million-dollar prize](https://www.pcgamer.com/capcom-will-give-its-first-street-fighter-6-champ-a-massive-million-dollar-prize)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
