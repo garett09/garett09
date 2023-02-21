@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PhoneSuit Elite Mag Review: Ergonomic and efficient battery](https://appleinsider.com/articles/23/02/21/phonesuit-elite-mag-review-ergonomic-and-efficient-battery?utm_medium=rss)
- - [Sony rolls out its GT Sophy AI to Gran Turismo 7, an experiment announced in February 2022, letting players race against Sophy in GT Sophy Race Together mode &lpar;Jonathan M. Gitlin/Ars Technica&rpar;](http://www.techmeme.com/230221/p10#a230221p10)
- - [This Lab-Grown Skin Could Revolutionize Transplants](https://www.wired.com/story/this-lab-grown-skin-could-revolutionize-transplants/)<!-- TECH:END -->
+ - [The ChatGPT Reincarnation of the Marquis de Sade Is Coming](https://www.wired.com/story/generative-ai-marquis-de-sade-chatgpt/)
+ - [A New Kind of Bug Spells Trouble for iOS and macOS Security](https://www.wired.com/story/trellix-ios-macos-bug-nspredicate/)
+ - [Hackers stole data center logins for Apple, Microsoft, and many more](https://appleinsider.com/articles/23/02/21/hackers-stole-data-center-logins-for-apple-microsoft-and-many-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
