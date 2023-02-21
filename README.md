@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 things you should know before starting Like a Dragon: Ishin!](https://www.polygon.com/guides/23604878/like-a-dragon-ishin-beginners-guide-tips-tricks)
- - [How Star Wars: Tales from the Galaxy’s Edge – Enhanced Edition provides an incredibly immersive experience on PS VR2](https://blog.playstation.com/2023/02/21/how-star-wars-tales-from-the-galaxys-edge-enhanced-edition-provides-an-incredibly-immersive-experience-on-ps-vr2/)
- - [Creed: Rise to Glory – Championship Edition steps into the ring on PS VR2 April 4](https://blog.playstation.com/2023/02/21/creed-rise-to-glory-championship-edition-steps-into-the-ring-on-ps-vr2-april-4/)<!-- GAME:END -->
+ - [Planes, drones, and LIDAR: How EA Sports built the courses of its PGA Tour game](https://www.polygon.com/23608264/ea-sports-pga-tour-preview-course-list-augusta-national-los-angeles-country-club)
+ - [The Last Of Us Show Fans Are Freaking Out About Dina Right Now](https://kotaku.com/the-last-of-us-dina-e6-who-is-paolina-van-kleef-tlou2-1850139823)
+ - [Where to use Sea Treasures Tokens in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-sea-treasures-tokens)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
