@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked images reveal new Dynamic Island-like feature for Android](https://www.androidauthority.com/realme-dynamic-island-clone-3288152/)
- - [Samsung Galaxy Note 20 variants starting to get One UI 5.1](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
- - [Microsoft Previews New Bing and Edge Mobile Apps, Bing for Skype     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-previews-new-bing-and-edge-mobile-apps-bing-for-skype/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple inching closer to noninvasive blood glucose testing tech](https://appleinsider.com/articles/23/02/22/apple-inching-closer-to-noninvasive-blood-glucose-testing-tech?utm_medium=rss)
+ - [Sources: Apple hit major milestones in a Jobs-era project to develop noninvasive blood glucose monitoring, as part of its Google X-like Exploratory Design Group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230222/p24#a230222p24)
+ - [Amazon Closes $3.9B Deal for Health Company Medical One     - CNET](https://www.cnet.com/tech/services-and-software/amazon-closes-3-9b-deal-for-health-company-medical-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
