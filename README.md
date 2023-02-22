@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
- - 🚯 [Appetizer](http://9gag.com/gag/a9qq3Qo)
- - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
+ - 🚖 [No, I don\u00b4t](http://9gag.com/gag/avQy2qd)
+ - 🚯 [Add sound/subtitles](http://9gag.com/gag/avQyZNb)
+ - 🚯 [Well, the pot brownies just kicked in...](http://9gag.com/gag/avQyZPM)<!-- MEMES:END -->
 
 --- 
 
