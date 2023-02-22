@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No, I don\u00b4t](http://9gag.com/gag/avQy2qd)
- - 🚯 [Add sound/subtitles](http://9gag.com/gag/avQyZNb)
- - 🚯 [Well, the pot brownies just kicked in...](http://9gag.com/gag/avQyZPM)<!-- MEMES:END -->
+ - 🚖 [How it started...](http://9gag.com/gag/aXnPbqP)
+ - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
+ - 🚯 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
 
 --- 
 
