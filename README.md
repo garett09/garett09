@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [It/it](http://9gag.com/gag/aoKKb1n)
- - 🚯 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
+ - 🚯 [Scientific Science](http://9gag.com/gag/aOxxgNM)
+ - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 --- 
 
