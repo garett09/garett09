@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)
- - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
+ - 🚖 [2022 nz data](http://9gag.com/gag/a044mjZ)
+ - 🚯 [Would you like to get ratatouilled? Yes \ud83d\uddff\ud83c\udf77](http://9gag.com/gag/a8qqrGe)
+ - 🚯 [What do you call this posture?](http://9gag.com/gag/aNwwxz4)<!-- MEMES:END -->
 
 --- 
 
