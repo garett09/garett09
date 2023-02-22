@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it started...](http://9gag.com/gag/aXnPbqP)
- - 🚯 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
- - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
+ - 🚖 [I&#39;d rage tbh](http://9gag.com/gag/a7qoyBm)
+ - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 🚯 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)<!-- MEMES:END -->
 
 --- 
 
