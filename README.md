@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVO 2023 lineup features Street Fighter 6, and the surprise announcement of a fighting game classic](https://www.pcgamer.com/evo-2023-lineup-features-street-fighter-6-and-the-surprise-announcement-of-a-fighting-game-classic)
- - [Wild Hearts devs fix the hellish RX 7900 XTX &#39;disco lights&#39; headache](https://www.pcgamer.com/wild-hearts-devs-fix-the-hellish-rx-7900-xtx-disco-lights-headache)
- - [Where to pre-order The Last of Us Part 1 on PC](https://www.polygon.com/deals/23608963/last-of-us-part-1-pc-pre-order-steam-epic-collectors-edition)<!-- GAME:END -->
+ - [A new generation of virtual reality gaming is here](https://blog.playstation.com/2023/02/22/a-new-generation-of-virtual-reality-gaming-is-here/)
+ - [No Man’s Sky: Fractal Update is available today](https://news.xbox.com/en-us/2023/02/22/no-mans-sky-fractal/)
+ - [No Man’s Sky’s Fractal update: New ship and new features get ready for PSVR 2](https://www.polygon.com/23609322/no-mans-sky-fractal-update-utopia-speeder-virtual-reality)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
