@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple inching closer to noninvasive blood glucose testing tech](https://appleinsider.com/articles/23/02/22/apple-inching-closer-to-noninvasive-blood-glucose-testing-tech?utm_medium=rss)
- - [Sources: Apple hit major milestones in a Jobs-era project to develop noninvasive blood glucose monitoring, as part of its Google X-like Exploratory Design Group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230222/p24#a230222p24)
- - [Amazon Closes $3.9B Deal for Health Company Medical One     - CNET](https://www.cnet.com/tech/services-and-software/amazon-closes-3-9b-deal-for-health-company-medical-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge rules NBA Top Shot Moments NFTs, on the Flow PoS blockchain, may be securities and refuses to dismiss a lawsuit against Dapper Labs for offering them &lpar;CoinDesk&rpar;](http://www.techmeme.com/230222/p26#a230222p26)
+ - [Galaxy Z Fold 5 gets speedy storage upgrade, but the Flip 5 may get left behind](https://www.androidauthority.com/galaxy-z-flip-5-storage-3288228/)
+ - [Apple Mac Mini M2 review: Is the cheapest Mac worth it?](https://www.androidauthority.com/apple-mac-mini-m2-review-3287705/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
