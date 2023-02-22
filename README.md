@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked documents detail how shadowy cybersecurity firm S2T is selling surveillance tools to clients with a track record of spying on journalists and dissidents &lpar;Phineas Rueckert/Forbidden Stories&rpar;](http://www.techmeme.com/230222/p3#a230222p3)
  - [Q&amp;A with David Wakeling of Allen &amp; Overy, one of world&#39;s largest law firms, on using using OpenAI-developed generative AI tool Harvey to write legal documents &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230222/p2#a230222p2)
- - [Samsung Galaxy S23 FE may not get Qualcomm’s latest and greatest chip](https://www.androidauthority.com/samsung-galaxy-s23-fe-chip-3288086/)
- - [External display size could be the next battleground for foldable flip phones](https://www.theverge.com/2023/2/22/23609918/samsung-z-flip-5-motorola-razr-5-larger-cover-display-leaks-rumors)<!-- TECH:END -->
+ - [Samsung Galaxy S23 FE may not get Qualcomm’s latest and greatest chip](https://www.androidauthority.com/samsung-galaxy-s23-fe-chip-3288086/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
