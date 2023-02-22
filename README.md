@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scientific Science](http://9gag.com/gag/aOxxgNM)
- - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
- - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
+ - 🚖 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
+ - 🚯 [Appetizer](http://9gag.com/gag/a9qq3Qo)
+ - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 --- 
 
