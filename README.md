@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
- - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)<!-- MEMES:END -->
+ - 🚖 [Hey! Stop it!](http://9gag.com/gag/anz7Y7o)
+ - 🚯 [Some people have way too much free time](http://9gag.com/gag/abvAXrr)
+ - 🚯 [Your daily dose of cats](http://9gag.com/gag/aQEzPnd)<!-- MEMES:END -->
 
 --- 
 
