@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC has now issued dozens of enforcement actions to crypto companies, moves critics say let the agency shape crypto without a direct system of regulations &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230222/p12#a230222p12)
- - [Replace the Leather in Your Wallet With Seafood Waste](https://www.wired.com/story/tomtex-chitosan-leather-alternative/)
- - [Finch, which helps companies connect to HR apps, services, and systems, raised a $40M Series B co-led by General Catalyst and Menlo, taking its funding to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230222/p11#a230222p11)<!-- TECH:END -->
+ - [Ahead of its Stream On event, Spotify launches an AI-powered feature called DJ, offering curated music and spoken commentary in a &quot;stunningly realistic voice&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230222/p15#a230222p15)
+ - [Android’s new Fast Pair setup process is awesome on the Galaxy S23](https://www.androidauthority.com/android-fast-pair-setup-samsung-galaxy-s23-3286497/)
+ - [4 Best Indoor Security Cameras &lpar;2023&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
