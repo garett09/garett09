@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix tried to make a British Get Out, but it went wrong](https://www.polygon.com/reviews/23609269/netflix-the-strays-review-jordan-peele-get-out-us)
- - [A24 is auctioning an actual butt-plug trophy from Everything Everywhere All At Once](https://www.polygon.com/23610605/a24-auction-everything-everywhere-all-at-once-butt-plug-trophy-raccacoonie)
- - [15 Big Destiny 2 Changes Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-campaign-difficulty-strand-exotics-1850145813)<!-- GAME:END -->
+ - [8 Games most likely to melt your PC in 2023](https://www.pcgamer.com/8-games-most-likely-to-melt-your-pc-in-2023)
+ - [The ultimate Adventure Time Bubbline watchlist, for all the gay romance](https://www.polygon.com/23608762/adventure-time-episodes-bubbline-marceline-bubblegum)
+ - [The Creator Of PlayStation&#39;s Iconic Logo Sound Has Passed Away](https://kotaku.com/playstation-logo-sound-tohru-okada-the-moonriders-ps5-1850146426)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
