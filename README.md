@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [How it started...](http://9gag.com/gag/aXnPbqP)
- - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
- - 🚯 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
+ - 🚯 [Scientific Science](http://9gag.com/gag/aOxxgNM)
+ - 🚯 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)<!-- MEMES:END -->
 
 --- 
 
