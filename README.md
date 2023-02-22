@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waterboarding in Dubai looks fun. No idea why they say it is bad in guantanamo bay](http://9gag.com/gag/aBdyReD)
- - 🚯 [Mass Casualty Event as Explosions Occur at Manufacturing Plant in Bedford, Ohio!...what is going on in Ohio?](http://9gag.com/gag/aVbvzod)
- - 🚯 [Eddie Izzard spotted during Putins speech](http://9gag.com/gag/agom3dw)<!-- MEMES:END -->
+ - 🚖 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 🚯 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
+ - 🚯 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)<!-- MEMES:END -->
 
 --- 
 
