@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RPG Elements In Hogwarts Legacy Undermine Its Magic](https://kotaku.com/hogwarts-legacy-revelio-chime-unforgivable-curses-harry-1850145229)
- - [Why Blood Bowl 3 Is the Best Place to Jump Into the Series](https://news.xbox.com/en-us/2023/02/22/blood-bowl-3-launch/)
- - [12 anime to catch up on for 2023’s biggest releases](https://www.polygon.com/23560479/2023-best-anime-to-catch-up-on-demon-slayer-jujutsu-kaisen)<!-- GAME:END -->
+ - [Darktide’s first major patch fixes everything wrong with its loot](https://www.polygon.com/23610437/warhammer-40k-darktide-patch-4-blessings-omnissiah-crafting-loot)
+ - [A Fox, a Sword and a Shield: the Only Ingredients you Need to Become a Hero](https://news.xbox.com/en-us/2023/02/22/the-only-ingredients-you-need-to-become-a-hero/)
+ - [The Legend of Zelda: Link’s Awakening committed a narrative sin — and got away with it](https://www.polygon.com/zelda/23609051/the-legend-of-zelda-links-awakening-nintendo-switch-online-ending)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
