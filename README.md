@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival game Sons of the Forest shows off co-op base-building, fleshy nightmares](https://www.pcgamer.com/survival-game-sons-of-the-forest-shows-off-co-op-base-building-fleshy-nightmares)
- - [The Full Story Behind That Spinning Cat You&#39;re Seeing Everywhere Now](https://kotaku.com/maxwell-spinning-cat-explain-real-name-jess-garys-mod-1850142446)
- - [How to complete every bond in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608883/like-a-dragon-ishin-bonds-guide-locations-rewards-tasks)<!-- GAME:END -->
+ - [After Elden Ring released, The Lords of the Fallen devs realized one of their bosses was &#39;nearly identical to Malenia&#39;](https://www.pcgamer.com/after-elden-ring-released-the-lords-of-the-fallen-devs-realized-one-of-their-bosses-was-nearly-identical-to-malenia)
+ - [Minecraft sniffer: what we know about the new forager friends](https://www.pcgamer.com/minecraft-sniffer-guide)
+ - [After Five Years, Gloomhaven Loses Top Spot On BoardGameGeek&#39;s Charts](https://kotaku.com/gloomhaven-brass-birmingham-bgg-rating-review-charts-1850142919)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
