@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d rage tbh](http://9gag.com/gag/a7qoyBm)
- - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 🚯 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)<!-- MEMES:END -->
+ - 🚖 [Salaminho](http://9gag.com/gag/aYVQNVw)
+ - 🚯 [Lara Spengler](http://9gag.com/gag/aZDZb7p)
+ - 🚯 [We&#39;re muthalik now](http://9gag.com/gag/ajVPY3w)<!-- MEMES:END -->
 
 --- 
 
