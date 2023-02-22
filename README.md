@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen Carpenter 1970\u2019s shredding on the drums](http://9gag.com/gag/aZDZqVp)
- - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
- - 🚯 [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)<!-- MEMES:END -->
+ - 🚖 [It/it](http://9gag.com/gag/aoKKb1n)
+ - 🚯 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
+ - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
 
 --- 
 
