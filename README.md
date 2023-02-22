@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkey&#39;s telecoms watchdog BTK blocks access to Eksi Sozluk, one of the country&#39;s biggest social media sites; pro-government media celebrated the move &lpar;Ugur Yilmaz/Bloomberg&rpar;](http://www.techmeme.com/230222/p9#a230222p9)
- - [Supreme Court admits they&#39;re not the best choice to decide the future of the internet](https://appleinsider.com/articles/23/02/22/supreme-court-admits-theyre-not-the-best-choice-to-decide-the-future-of-the-internet?utm_medium=rss)
- - [Uber launches a redesigned version of its app globally, including adding a simpler homescreen, a Services tab, and live tracking on iOS 16 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230222/p8#a230222p8)<!-- TECH:END -->
+ - [The SEC has now issued dozens of enforcement actions to crypto companies, moves critics say let the agency shape crypto without a direct system of regulations &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230222/p12#a230222p12)
+ - [Replace the Leather in Your Wallet With Seafood Waste](https://www.wired.com/story/tomtex-chitosan-leather-alternative/)
+ - [Finch, which helps companies connect to HR apps, services, and systems, raised a $40M Series B co-led by General Catalyst and Menlo, taking its funding to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230222/p11#a230222p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
