@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey! Stop it!](http://9gag.com/gag/anz7Y7o)
- - 🚯 [Some people have way too much free time](http://9gag.com/gag/abvAXrr)
- - 🚯 [Your daily dose of cats](http://9gag.com/gag/aQEzPnd)<!-- MEMES:END -->
+ - 🚖 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)
+ - 🚯 [It/it](http://9gag.com/gag/aoKKb1n)
+ - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
 
 --- 
 
