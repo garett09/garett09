@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ&#39;s Public Integrity Section is looking into possible campaign-finance violations by Sam Bankman-Fried or his associates &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/230221/p31#a230221p31)
- - [This Galaxy Z Flip rival could have a display that covers the entire front panel](https://www.androidauthority.com/motorola-razr-cover-display-3287891/)
- - [YouTube Music rolls out a redesigned radio feature, allowing users to pick up to 30 artists when creating a station, apply filters to change the mood, and more &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230221/p30#a230221p30)<!-- TECH:END -->
+ - [Elon Musk keeps laying off Twitter employees after saying cuts were done](https://www.theverge.com/2023/2/21/23609522/elon-musk-more-twitter-layoffs-sales-engineering-ads-google-revamp)
+ - [Bomb threats made via AirDrop ground flight](https://appleinsider.com/articles/23/02/22/bomb-threats-made-via-airdrop-ground-flight?utm_medium=rss)
+ - [Researchers were able to uniquely identify VR users with 94% accuracy from only 100 seconds of motion data, using anonymized data from 50K+ Beat Saber players &lpar;Louis Rosenberg/VentureBeat&rpar;](http://www.techmeme.com/230221/p33#a230221p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
