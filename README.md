@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Possible Mac Pro &#39;compute module&#39; discovered in iOS 16.4 code](https://appleinsider.com/articles/23/02/22/possible-mac-pro-compute-module-discovered-in-ios-164-code?utm_medium=rss)
- - [Letter: the US Copyright Office says AI-generated images in a graphic novel, created using Midjourney, should not have been granted copyright protection &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230222/p31#a230222p31)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [iPhone 15 display &amp; USB-C port shown off in leaked photos](https://appleinsider.com/articles/23/02/22/iphone-15-display-usb-c-port-shown-off-in-leaked-photos?utm_medium=rss)
+ - [Nvidia is still making billions in Q4 2023 despite a giant drop in PC demand](https://www.theverge.com/23608886/nvidia-q4-2023-earnings)
+ - [Tesla Returns to California for New Engineering Headquarters     - CNET](https://www.cnet.com/roadshow/news/tesla-returns-to-california-for-new-engineering-headquarters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
