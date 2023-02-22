@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Games most likely to melt your PC in 2023](https://www.pcgamer.com/8-games-most-likely-to-melt-your-pc-in-2023)
- - [The ultimate Adventure Time Bubbline watchlist, for all the gay romance](https://www.polygon.com/23608762/adventure-time-episodes-bubbline-marceline-bubblegum)
- - [The Creator Of PlayStation&#39;s Iconic Logo Sound Has Passed Away](https://kotaku.com/playstation-logo-sound-tohru-okada-the-moonriders-ps5-1850146426)<!-- GAME:END -->
+ - [PlayStation VR 2’s game library is already getting stronger, and I’m excited](https://www.polygon.com/reviews/23601086/playstation-vr-2-review-ps5-release-date-price-horizon-vr-call-of-the-mountain)
+ - [Wanted: Dead Is 2023&#39;s Jankiest Game, And I Love It](https://kotaku.com/wanted-dead-review-ps5-game-ninja-gaiden-devils-third-1850146518)
+ - [These are the 11 seasonal weapons you need to get before Lightfall launches](https://www.pcgamer.com/destiny-2-best-seasonal-weapons-prepare-for-lightfall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
