@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frustrated by failures on Capitol Hill, tech privacy advocates are turning to legislation at state level to bolster online privacy, including in Illinois and NY &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/230222/p22#a230222p22)
- - [Daily Deals Feb. 22: 13-inch MacBook Pro for $475, $190 off iPhone 13 Pro Max, Apple TV for $79 &amp; more](https://appleinsider.com/articles/23/02/22/daily-deals-feb-22-13-inch-macbook-pro-for-475-190-off-iphone-13-pro-max-apple-tv-for-79-more?utm_medium=rss)
- - [Bing mobile app brings ChatGPT searches to iPhone app](https://appleinsider.com/articles/23/02/22/bing-mobile-app-brings-chatgpt-searches-to-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked images reveal new Dynamic Island-like feature for Android](https://www.androidauthority.com/realme-dynamic-island-clone-3288152/)
+ - [Samsung Galaxy Note 20 variants starting to get One UI 5.1](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [Microsoft Previews New Bing and Edge Mobile Apps, Bing for Skype     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-previews-new-bing-and-edge-mobile-apps-bing-for-skype/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
