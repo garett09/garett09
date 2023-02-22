@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Salaminho](http://9gag.com/gag/aYVQNVw)
- - 🚯 [Lara Spengler](http://9gag.com/gag/aZDZb7p)
- - 🚯 [We&#39;re muthalik now](http://9gag.com/gag/ajVPY3w)<!-- MEMES:END -->
+ - 🚖 [Waterboarding in Dubai looks fun. No idea why they say it is bad in guantanamo bay](http://9gag.com/gag/aBdyReD)
+ - 🚯 [Mass Casualty Event as Explosions Occur at Manufacturing Plant in Bedford, Ohio!...what is going on in Ohio?](http://9gag.com/gag/aVbvzod)
+ - 🚯 [Eddie Izzard spotted during Putins speech](http://9gag.com/gag/agom3dw)<!-- MEMES:END -->
 
 --- 
 
