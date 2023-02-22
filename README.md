@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz partners with Google to bring navigation software and YouTube to its next-gen car OS and strikes a multibillion-dollar sensor deal with Luminar &lpar;Reuters&rpar;](http://www.techmeme.com/230222/p27#a230222p27)
- - [See the Moon, Venus and Jupiter Cozy Up in Tonight&#39;s Sky     - CNET](https://www.cnet.com/science/space/see-the-moon-venus-and-jupiter-cozy-up-in-sky-tonight/#ftag=CAD590a51e)
- - [OmniFocus 3 review: Exceptionally powerful To Do app](https://appleinsider.com/articles/23/02/22/omnifocus-3-review-exceptionally-powerful-to-do-app?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix’s new NFL docuseries starring Patrick Mahomes debuts this summer](https://www.theverge.com/2023/2/22/23610867/netflix-nfl-quarterback-docuseries-patrick-mahomes)
+ - [Stripe expands Tap to Pay to Android in six countries, supporting payment methods via Google Pay, Mastercard, Visa, and American Express debit and credit cards &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230222/p28#a230222p28)
+ - [Razer launches new Blade 15, and it’s still 16:9](https://www.theverge.com/2023/2/22/23610614/razer-blade-15-2023-update-intel-nvidia-qhd)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
