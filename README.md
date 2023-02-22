@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When will Ant-Man and the Wasp: Quantumania come to Disney Plus?](https://www.polygon.com/2023/2/22/23610159/ant-man-and-the-wasp-quantumania-streaming-disney-plus)
- - [I made the perfect PC battle station in this gaming setup sim](https://www.polygon.com/gaming/23608855/my-dream-setup-pc-gaming-battle-station-sim-build-mode)
- - [Will Smith takes to TikTok to keep the Oscar Slap Saga going](https://www.polygon.com/23610117/will-smith-oscar-tiktok-slap)<!-- GAME:END -->
+ - [The RPG Elements In Hogwarts Legacy Undermine Its Magic](https://kotaku.com/hogwarts-legacy-revelio-chime-unforgivable-curses-harry-1850145229)
+ - [Why Blood Bowl 3 Is the Best Place to Jump Into the Series](https://news.xbox.com/en-us/2023/02/22/blood-bowl-3-launch/)
+ - [12 anime to catch up on for 2023’s biggest releases](https://www.polygon.com/23560479/2023-best-anime-to-catch-up-on-demon-slayer-jujutsu-kaisen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
