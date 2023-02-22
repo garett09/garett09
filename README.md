@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk keeps laying off Twitter employees after saying cuts were done](https://www.theverge.com/2023/2/21/23609522/elon-musk-more-twitter-layoffs-sales-engineering-ads-google-revamp)
- - [Bomb threats made via AirDrop ground flight](https://appleinsider.com/articles/23/02/22/bomb-threats-made-via-airdrop-ground-flight?utm_medium=rss)
- - [Researchers were able to uniquely identify VR users with 94% accuracy from only 100 seconds of motion data, using anonymized data from 50K+ Beat Saber players &lpar;Louis Rosenberg/VentureBeat&rpar;](http://www.techmeme.com/230221/p33#a230221p33)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Just Made a &#39;Game of Thrones&#39;-esque Mistake     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-just-made-a-game-of-thrones-esque-mistake/#ftag=CAD590a51e)
+ - [&#39;Mighty DOOM&#39; top-down shooter coming to iPhone March 21](https://appleinsider.com/articles/23/02/22/mighty-doom-top-down-shooter-coming-to-iphone-march-21?utm_medium=rss)
+ - [Sources: Twitter laid off dozens of sales and engineering staff last week, as Musk gave a one-week deadline to make its ad targeting work like Google search ads &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230221/p35#a230221p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
