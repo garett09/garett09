@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Darktide’s first major patch fixes everything wrong with its loot](https://www.polygon.com/23610437/warhammer-40k-darktide-patch-4-blessings-omnissiah-crafting-loot)
- - [A Fox, a Sword and a Shield: the Only Ingredients you Need to Become a Hero](https://news.xbox.com/en-us/2023/02/22/the-only-ingredients-you-need-to-become-a-hero/)
- - [The Legend of Zelda: Link’s Awakening committed a narrative sin — and got away with it](https://www.polygon.com/zelda/23609051/the-legend-of-zelda-links-awakening-nintendo-switch-online-ending)<!-- GAME:END -->
+ - [Netflix tried to make a British Get Out, but it went wrong](https://www.polygon.com/reviews/23609269/netflix-the-strays-review-jordan-peele-get-out-us)
+ - [A24 is auctioning an actual butt-plug trophy from Everything Everywhere All At Once](https://www.polygon.com/23610605/a24-auction-everything-everywhere-all-at-once-butt-plug-trophy-raccacoonie)
+ - [15 Big Destiny 2 Changes Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-campaign-difficulty-strand-exotics-1850145813)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
