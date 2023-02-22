@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 🚖 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)
  - 🚯 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
+ - 🚯 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 --- 
 
