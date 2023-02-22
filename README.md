@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The film studio behind Get Out and The Purge is going to make &#39;original, horror-themed&#39; games](https://www.pcgamer.com/the-film-studio-behind-get-out-and-the-purge-is-going-to-make-original-horror-themed-games)
- - [Intel&#39;s reported 3nm chip deferment hints at a delay to Arrow Lake CPUs](https://www.pcgamer.com/intels-reported-3nm-chip-deferment-hints-at-a-delay-to-arrow-lake-cpus)
- - [Task Manager&#39;s most useful function could soon be a right click away](https://www.pcgamer.com/task-managers-most-useful-function-could-soon-be-a-right-click-away)<!-- GAME:END -->
+ - [EVO 2023 lineup features Street Fighter 6, and the surprise announcement of a fighting game classic](https://www.pcgamer.com/evo-2023-lineup-features-street-fighter-6-and-the-surprise-announcement-of-a-fighting-game-classic)
+ - [Wild Hearts devs fix the hellish RX 7900 XTX &#39;disco lights&#39; headache](https://www.pcgamer.com/wild-hearts-devs-fix-the-hellish-rx-7900-xtx-disco-lights-headache)
+ - [Where to pre-order The Last of Us Part 1 on PC](https://www.polygon.com/deals/23608963/last-of-us-part-1-pc-pre-order-steam-epic-collectors-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
