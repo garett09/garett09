@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules NBA Top Shot Moments NFTs, on the Flow PoS blockchain, may be securities and refuses to dismiss a lawsuit against Dapper Labs for offering them &lpar;CoinDesk&rpar;](http://www.techmeme.com/230222/p26#a230222p26)
- - [Galaxy Z Fold 5 gets speedy storage upgrade, but the Flip 5 may get left behind](https://www.androidauthority.com/galaxy-z-flip-5-storage-3288228/)
- - [Apple Mac Mini M2 review: Is the cheapest Mac worth it?](https://www.androidauthority.com/apple-mac-mini-m2-review-3287705/)<!-- TECH:END -->
+ - [Mercedes-Benz partners with Google to bring navigation software and YouTube to its next-gen car OS and strikes a multibillion-dollar sensor deal with Luminar &lpar;Reuters&rpar;](http://www.techmeme.com/230222/p27#a230222p27)
+ - [See the Moon, Venus and Jupiter Cozy Up in Tonight&#39;s Sky     - CNET](https://www.cnet.com/science/space/see-the-moon-venus-and-jupiter-cozy-up-in-sky-tonight/#ftag=CAD590a51e)
+ - [OmniFocus 3 review: Exceptionally powerful To Do app](https://appleinsider.com/articles/23/02/22/omnifocus-3-review-exceptionally-powerful-to-do-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
