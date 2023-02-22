@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it started...](http://9gag.com/gag/aXnPbqP)
- - 🚯 [Scientific Science](http://9gag.com/gag/aOxxgNM)
- - 🚯 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)<!-- MEMES:END -->
+ - 🚖 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
+ - 🚯 [Ok so lets go LSD](http://9gag.com/gag/a4oPd7v)
+ - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
 
 --- 
 
