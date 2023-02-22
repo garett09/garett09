@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 🚯 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
- - 🚯 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)<!-- MEMES:END -->
+ - 🚖 [Boom](http://9gag.com/gag/a9qyPbo)
+ - 🚯 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
+ - 🚯 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
 
 --- 
 
