@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new generation of virtual reality gaming is here](https://blog.playstation.com/2023/02/22/a-new-generation-of-virtual-reality-gaming-is-here/)
- - [No Man’s Sky: Fractal Update is available today](https://news.xbox.com/en-us/2023/02/22/no-mans-sky-fractal/)
- - [No Man’s Sky’s Fractal update: New ship and new features get ready for PSVR 2](https://www.polygon.com/23609322/no-mans-sky-fractal-update-utopia-speeder-virtual-reality)<!-- GAME:END -->
+ - [No Man’s Sky Fractal update brings PS VR2 support, new Expedition, starship](https://blog.playstation.com/2023/02/22/no-mans-sky-fractal-update-brings-ps-vr2-support-new-expedition-starship/)
+ - [No Man’s Sky Fractal update brings PS VR2 support, new Expedition, starship](https://blog.playstation.com/2023/02/22/no-mans-sky-fractal-update-brings-ps-vr2-support-new-expedition-starship/)
+ - [Aggretsuko’s lead finally got her shit together — now it’s her loser boyfriend’s turn](https://www.polygon.com/23609184/aggretsuko-season-5-review-haida-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
