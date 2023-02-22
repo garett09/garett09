@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of its Stream On event, Spotify launches an AI-powered feature called DJ, offering curated music and spoken commentary in a &quot;stunningly realistic voice&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230222/p15#a230222p15)
- - [Android’s new Fast Pair setup process is awesome on the Galaxy S23](https://www.androidauthority.com/android-fast-pair-setup-samsung-galaxy-s23-3286497/)
- - [4 Best Indoor Security Cameras &lpar;2023&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
+ - [Mac &amp; Windows owners have to contend with different kinds of malware](https://appleinsider.com/articles/23/02/22/mac-windows-owners-have-to-contend-with-different-kinds-of-malware?utm_medium=rss)
+ - [What Is Quantum Computing? The Complete WIRED Guide](https://www.wired.com/story/wired-guide-to-quantum-computing/)
+ - [8 Best Outdoor Security Cameras &lpar;2023&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
