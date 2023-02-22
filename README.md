@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac &amp; Windows owners have to contend with different kinds of malware](https://appleinsider.com/articles/23/02/22/mac-windows-owners-have-to-contend-with-different-kinds-of-malware?utm_medium=rss)
- - [What Is Quantum Computing? The Complete WIRED Guide](https://www.wired.com/story/wired-guide-to-quantum-computing/)
- - [8 Best Outdoor Security Cameras &lpar;2023&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)<!-- TECH:END -->
+ - [Frustrated by failures on Capitol Hill, tech privacy advocates are turning to legislation at state level to bolster online privacy, including in Illinois and NY &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/230222/p22#a230222p22)
+ - [Daily Deals Feb. 22: 13-inch MacBook Pro for $475, $190 off iPhone 13 Pro Max, Apple TV for $79 &amp; more](https://appleinsider.com/articles/23/02/22/daily-deals-feb-22-13-inch-macbook-pro-for-475-190-off-iphone-13-pro-max-apple-tv-for-79-more?utm_medium=rss)
+ - [Bing mobile app brings ChatGPT searches to iPhone app](https://appleinsider.com/articles/23/02/22/bing-mobile-app-brings-chatgpt-searches-to-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
