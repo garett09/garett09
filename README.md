@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)
- - 🚯 [It/it](http://9gag.com/gag/aoKKb1n)
- - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
+ - 🚖 [Scientific Science](http://9gag.com/gag/aOxxgNM)
+ - 🚯 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
+ - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
 
 --- 
 
