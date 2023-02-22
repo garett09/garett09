@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked documents detail how shadowy cybersecurity firm S2T is selling surveillance tools to clients with a track record of spying on journalists and dissidents &lpar;Phineas Rueckert/Forbidden Stories&rpar;](http://www.techmeme.com/230222/p3#a230222p3)
- - [Q&amp;A with David Wakeling of Allen &amp; Overy, one of world&#39;s largest law firms, on using using OpenAI-developed generative AI tool Harvey to write legal documents &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230222/p2#a230222p2)
- - [Samsung Galaxy S23 FE may not get Qualcomm’s latest and greatest chip](https://www.androidauthority.com/samsung-galaxy-s23-fe-chip-3288086/)<!-- TECH:END -->
+ - [Turkey&#39;s telecoms watchdog BTK blocks access to Eksi Sozluk, one of the country&#39;s biggest social media sites; pro-government media celebrated the move &lpar;Ugur Yilmaz/Bloomberg&rpar;](http://www.techmeme.com/230222/p9#a230222p9)
+ - [Supreme Court admits they&#39;re not the best choice to decide the future of the internet](https://appleinsider.com/articles/23/02/22/supreme-court-admits-theyre-not-the-best-choice-to-decide-the-future-of-the-internet?utm_medium=rss)
+ - [Uber launches a redesigned version of its app globally, including adding a simpler homescreen, a Services tab, and live tracking on iOS 16 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230222/p8#a230222p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
