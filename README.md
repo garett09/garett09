@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
+ - 🚖 [Karen Carpenter 1970\u2019s shredding on the drums](http://9gag.com/gag/aZDZqVp)
  - 🚯 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
  - 🚯 [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)<!-- MEMES:END -->
 
