@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Fractal update brings PS VR2 support, new Expedition, starship](https://blog.playstation.com/2023/02/22/no-mans-sky-fractal-update-brings-ps-vr2-support-new-expedition-starship/)
- - [No Man’s Sky Fractal update brings PS VR2 support, new Expedition, starship](https://blog.playstation.com/2023/02/22/no-mans-sky-fractal-update-brings-ps-vr2-support-new-expedition-starship/)
- - [Aggretsuko’s lead finally got her shit together — now it’s her loser boyfriend’s turn](https://www.polygon.com/23609184/aggretsuko-season-5-review-haida-netflix)<!-- GAME:END -->
+ - [When will Ant-Man and the Wasp: Quantumania come to Disney Plus?](https://www.polygon.com/2023/2/22/23610159/ant-man-and-the-wasp-quantumania-streaming-disney-plus)
+ - [I made the perfect PC battle station in this gaming setup sim](https://www.polygon.com/gaming/23608855/my-dream-setup-pc-gaming-battle-station-sim-build-mode)
+ - [Will Smith takes to TikTok to keep the Oscar Slap Saga going](https://www.polygon.com/23610117/will-smith-oscar-tiktok-slap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
