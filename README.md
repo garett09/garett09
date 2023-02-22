@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s new NFL docuseries starring Patrick Mahomes debuts this summer](https://www.theverge.com/2023/2/22/23610867/netflix-nfl-quarterback-docuseries-patrick-mahomes)
- - [Stripe expands Tap to Pay to Android in six countries, supporting payment methods via Google Pay, Mastercard, Visa, and American Express debit and credit cards &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230222/p28#a230222p28)
- - [Razer launches new Blade 15, and it’s still 16:9](https://www.theverge.com/2023/2/22/23610614/razer-blade-15-2023-update-intel-nvidia-qhd)<!-- TECH:END -->
+ - [Possible Mac Pro &#39;compute module&#39; discovered in iOS 16.4 code](https://appleinsider.com/articles/23/02/22/possible-mac-pro-compute-module-discovered-in-ios-164-code?utm_medium=rss)
+ - [Letter: the US Copyright Office says AI-generated images in a graphic novel, created using Midjourney, should not have been granted copyright protection &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230222/p31#a230222p31)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
