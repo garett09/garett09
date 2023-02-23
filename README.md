@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block reports Q4 revenue up 15% YoY to $4.65B, vs. $4.61B est., Square gross profit up 22% YoY to $801M, and Cash App gross profit up 64% YoY to $848M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230223/p42#a230223p42)
- - [Doc: NFT startup Dapper Labs, which raised $600M+, lays off 20% of staff, after laying off ~134 staff, or ~22% of it&#39;s workforce, in November 2022 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230223/p41#a230223p41)
- - [&#39;It&#39; Prequel Series Coming to Terrify You on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/it-prequel-series-coming-to-terrify-you-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Warner Bros. is making ‘multiple Lord of the Rings movies’](https://www.theverge.com/2023/2/23/23612590/lord-of-the-rings-movies-warner-bros-new-line-cinema-announcement)
+ - [Source: the DOJ is preparing to file an antitrust suit to block Adobe&#39;s Figma acquisition as soon as next month; Adobe says it expects to close the deal in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230223/p43#a230223p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
