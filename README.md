@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shinji Mikami departs Bethesda’s Tango Gameworks](https://www.polygon.com/23611036/shinji-mikami-quits-tango-gameworks-bethesda-microsoft-evil-within)
- - [Company of Heroes 3 factions and battlegroups guide](https://www.pcgamer.com/company-of-heroes-3-factions-and-battlegroups-guide)
- - [Everything you need to know about Octopath Traveler II, out Feb 24](https://blog.playstation.com/2023/02/23/everything-you-need-to-know-about-octopath-traveler-ii-out-feb-24/)<!-- GAME:END -->
+ - [Viola Davis’ last-minute change to The Woman King made it a much better movie](https://www.polygon.com/23610956/woman-king-viola-davis-character-changes)
+ - [Singapore detains teens under controversial act after they played on ISIS-themed Roblox servers](https://www.pcgamer.com/singapore-detains-teens-under-controversial-act-after-they-played-on-isis-themed-roblox-servers)
+ - [An RTX 4090 gaming laptop feels entirely unnecessary when a mobile RTX 4080 can actually beat it](https://www.pcgamer.com/an-rtx-4090-gaming-laptop-feels-entirely-unnecessary-when-a-mobile-rtx-4080-can-actually-beat-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
