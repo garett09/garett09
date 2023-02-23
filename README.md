@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells Castlevania DLC will allow you to play as Richter Belmont](https://www.polygon.com/23612229/dead-cells-castlevania-dlc-richter-belmont)
- - [Free Play Days – Bloodstained: Ritual of the Night, Destiny 2: The Witch Queen, and Dragon Ball: The Breakers](https://news.xbox.com/en-us/2023/02/23/free-play-days-bloodstained-ritual-of-the-night-destiny-2-the-witch-queen-and-dragon-ball-the-breakers/)
- - [The Wreck is an Upcoming “Reality-Inspired Game”… What Does That Mean?](https://news.xbox.com/en-us/2023/02/23/the-wreck-launching-march-14-on-xbox/)<!-- GAME:END -->
+ - [Dive into the jungle with Green Hell VR on PlayStation VR2, out 2023￼](https://blog.playstation.com/2023/02/23/dive-into-the-jungle-with-green-hell-vr-on-playstation-vr2-out-2023%ef%bf%bc/)
+ - [Where to find every Memoir in Like a Dragon: Ishin!](https://www.polygon.com/guides/23612411/like-a-dragon-ishin-memoirs-locations-list)
+ - [Atmospheric sci-fi western roguelike The Foglands launches on PS VR2 this year](https://blog.playstation.com/2023/02/23/atmospheric-sci-fi-western-roguelike-the-foglands-launches-on-ps-vr2-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
