@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based chip startup Chain Reaction, which plans to begin mass producing its blockchain chip Electrum, raised $70M led by Morgan Creek Digital &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230223/p16#a230223p16)
- - [Samsung announces a standardized 5G Non-Terrestrial Network &lpar;NTN&rpar; modem that will enable two-way communication between smartphones and satellites &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230223/p15#a230223p15)
- - [A future HomePod could bend, and wrap around a surface](https://appleinsider.com/articles/23/02/23/a-future-homepod-could-bend-and-wrap-around-a-surface?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix cut subscriptions prices on certain tiers in more than 36 countries globally, in some cases halving the cost; Netflix operates in 190+ countries &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/230223/p20#a230223p20)
+ - [Tested: Is the Snapdragon Gen 2 for Galaxy better than other Gen 2s?](https://www.androidauthority.com/snapdragon-gen-2-for-galaxy-tested-3287151/)
+ - [The European Commission opens a consultation on Europe&#39;s telecoms sector, a process that could see Google, Apple, Meta, and others contribute to network costs &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230223/p19#a230223p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
