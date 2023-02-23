@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Ecuador, they began to build buildings from cocaine. The cocaine is mixed with cement, sand and water and then placed in the foundation of a building in a method of disposal called encapsulation. It&#39;s four times faster than burning.](http://9gag.com/gag/aA0yPg9)
- - 🚯 [Treasure hunt](http://9gag.com/gag/aDY2Gd9)
- - 🚯 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)<!-- MEMES:END -->
+ - 🚖 [How to read brail](http://9gag.com/gag/a6qZdpe)
+ - 🚯 [Come on man tf!](http://9gag.com/gag/aZDZp3X)
+ - 🚯 [Is this true about asian women?](http://9gag.com/gag/a3Z4B0v)<!-- MEMES:END -->
 
 --- 
 
