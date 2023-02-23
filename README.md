@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How am I just now learning about the cops whose job is to play Fortnite?](https://www.pcgamer.com/how-am-i-just-now-learning-about-the-cops-whose-job-is-to-play-fortnite)
- - [The Finals is holding a closed beta next month, here&#39;s how to sign up to try our most anticipated FPS of 2023](https://www.pcgamer.com/the-finals-closed-beta)
- - [Forza Horizon 5 Rally Adventure Available March 29](https://news.xbox.com/en-us/2023/02/23/forza-horizon-5-rally-adventure-available-march-29/)<!-- GAME:END -->
+ - [Rust Console Edition Gets a Major Update – Power Surge!](https://news.xbox.com/en-us/2023/02/23/rust-console-edition-power-surge-update/)
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
+ - [The Big Ways The Last Of Us Show Changes The Game’s Lore](https://kotaku.com/the-last-of-us-hbo-lore-changes-tendrils-mycology-tess-1850019712)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
