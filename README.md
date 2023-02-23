@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix cut subscriptions prices on certain tiers in more than 36 countries globally, in some cases halving the cost; Netflix operates in 190+ countries &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/230223/p20#a230223p20)
- - [Tested: Is the Snapdragon Gen 2 for Galaxy better than other Gen 2s?](https://www.androidauthority.com/snapdragon-gen-2-for-galaxy-tested-3287151/)
- - [The European Commission opens a consultation on Europe&#39;s telecoms sector, a process that could see Google, Apple, Meta, and others contribute to network costs &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230223/p19#a230223p19)<!-- TECH:END -->
+ - [Coinbase launches Base, a Layer 2 network using Optimism&#39;s OP Stack, offering access to Ethereum, Solana, and others, and has no plans for new network tokens &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230223/p24#a230223p24)
+ - [macOS targeted by evasive crypto-jacking malware](https://appleinsider.com/articles/23/02/23/macos-targeted-by-evasive-crypto-jacking-malware?utm_medium=rss)
+ - [Binance shut down the derivative trading accounts of retail users in Australia after an investigation found customers were misclassified as wholesale investors &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/230223/p23#a230223p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
