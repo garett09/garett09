@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 leaks in renders: No more notch!](https://www.androidauthority.com/apple-iphone-15-renders-design-3288567/)
- - [Indian Web3 gaming startup Kratos Studios, which lets developers design quests for gamers and more, raised a $20M seed led by Accel at a $150M valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230223/p3#a230223p3)
- - [Social media&#39;s new era of a &quot;pay-to-play&quot; model turns features such as security, visibility, and technical support that users expect for free into premium items &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230223/p2#a230223p2)<!-- TECH:END -->
+ - [Vivaldi on Android will now let users play YouTube videos in the background](https://www.androidauthority.com/vivaldi-browser-android-3287804/)
+ - [Samsung’s Bixby can now clone your voice to answer your calls](https://www.androidauthority.com/samsung-bixby-text-calling-3288581/)
+ - [Internal FAQ: Google asks cloud employees and partners in its five largest US locations to share desks starting in Q2 and work from office on alternate days &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230223/p4#a230223p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
