@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the jungle with Green Hell VR on PlayStation VR2, out 2023￼](https://blog.playstation.com/2023/02/23/dive-into-the-jungle-with-green-hell-vr-on-playstation-vr2-out-2023%ef%bf%bc/)
- - [Where to find every Memoir in Like a Dragon: Ishin!](https://www.polygon.com/guides/23612411/like-a-dragon-ishin-memoirs-locations-list)
- - [Atmospheric sci-fi western roguelike The Foglands launches on PS VR2 this year](https://blog.playstation.com/2023/02/23/atmospheric-sci-fi-western-roguelike-the-foglands-launches-on-ps-vr2-this-year/)<!-- GAME:END -->
+ - [New Lord of the Rings movies are on their way](https://www.polygon.com/23612553/new-lord-rings-movies-lotr)
+ - [Our most anticipated game of 2023 is launching August 31](https://www.pcgamer.com/our-most-anticipated-game-of-2023-is-launching-august-31)
+ - [Suicide Squad: Kill the Justice League is definitely not an Arkham Asylum sequel](https://www.polygon.com/23612420/suicide-squad-kill-the-justice-league-release-date-co-op-gameplay-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
