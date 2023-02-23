@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Sells 20 Million Copies, Makes Excellent Point](https://kotaku.com/elden-ring-sales-figures-20-million-god-of-war-jedi-1850147702)
- - [Sega&#39;s Iconic Akihabara Arcade is Being Taken Over By A Rival](https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396)
- - [Warhammer 40,000: Battlesector shows how a Warhammer game should be done](https://www.pcgamer.com/warhammer-40000-battlesector-shows-how-a-warhammer-game-should-be-done)<!-- GAME:END -->
+ - [Quest v50 update adds poking and prodding](https://www.pcgamer.com/quest-v50-update-adds-poking-and-prodding)
+ - [Assassin&#39;s Creed Bug From 2020 Is Finally Getting Fixed](https://kotaku.com/assassins-creed-syndicate-ubisoft-ps4-ps5-bug-glitch-1850148135)
+ - [How to solve the Hogwarts Legacy chess puzzles](https://www.pcgamer.com/hogwarts-legacy-chess-puzzle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
