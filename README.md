@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Part 13 of our ongoing series Knoxville Gas Station Enhancement Pills: The Beast](https://www.reddit.com/r/funny/comments/11a7t0b/part_13_of_our_ongoing_series_knoxville_gas/)
- - 🚯 [PAIGE NO](https://www.reddit.com/r/funny/comments/11a7gdz/paige_no/)
- - 🚯 [Separate art from the artist](https://www.reddit.com/r/memes/comments/11a6wfd/separate_art_from_the_artist/)<!-- MEMES:END -->
+ - 🚖 [Parked at the Airport right next to my house!](https://www.reddit.com/r/funny/comments/11a9q0v/parked_at_the_airport_right_next_to_my_house/)
+ - 🚯 [To smile](https://www.reddit.com/r/funny/comments/11a8n3n/to_smile/)
+ - 🚯 [My Dad&#39;s Garage Organization](https://www.reddit.com/r/funny/comments/11a87nn/my_dads_garage_organization/)<!-- MEMES:END -->
 
 --- 
 
