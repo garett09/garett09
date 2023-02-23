@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky&#39;s 163rd update brings a VR overhaul, new quests, and your own personal Guinness World Records book](https://www.pcgamer.com/no-mans-skys-163rd-update-brings-a-vr-overhaul-new-quests-and-your-own-personal-guinness-world-records-book)
- - [Nvidia predicts AI models one million times more powerful than ChatGPT within 10 years](https://www.pcgamer.com/nvidia-predicts-ai-models-one-million-times-more-powerful-than-chatgpt-within-10-years)
- - [I make no apologies for the geeky pleasure I get watching a 56-core CPU just monster this benchmark](https://www.pcgamer.com/i-make-no-apologies-for-the-geeky-pleasure-i-get-watching-a-56-core-cpu-monster-this-benchmark)<!-- GAME:END -->
+ - [The Last of Us is finding apocalyptic meaning where The Walking Dead couldn’t](https://www.polygon.com/23610810/last-us-joel-walking-dead-rick-differences)
+ - [You already speak fluent computer code according to Nvidia&#39;s CEO](https://www.pcgamer.com/you-already-speak-fluent-computer-code-according-to-nvidias-ceo)
+ - [I&#39;ve been playing tabletop RPGs for 20 years, and these are the D&amp;D alternatives I recommend](https://www.pcgamer.com/the-best-DnD-alternatives)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
