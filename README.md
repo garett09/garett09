@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Vitally, whose customer success software combines productivity and collaboration tools, raised a $30M Series B, taking its total funding to $40.6M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230223/p39#a230223p39)
- - [The Absolute Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-to-stream-now-on-hbo-max/#ftag=CAD590a51e)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Block reports Q4 revenue up 15% YoY to $4.65B, vs. $4.61B est., Square gross profit up 22% YoY to $801M, and Cash App gross profit up 64% YoY to $848M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230223/p42#a230223p42)
+ - [Doc: NFT startup Dapper Labs, which raised $600M+, lays off 20% of staff, after laying off ~134 staff, or ~22% of it&#39;s workforce, in November 2022 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230223/p41#a230223p41)
+ - [&#39;It&#39; Prequel Series Coming to Terrify You on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/it-prequel-series-coming-to-terrify-you-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
