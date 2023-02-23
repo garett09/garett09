@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [Alphabet Reportedly Lays Off Robots That Cleaned Cafeterias     - CNET](https://www.cnet.com/news/alphabet-reportedly-lays-off-robots-that-cleaned-cafeterias/#ftag=CAD590a51e)
- - [Leaked iPhone 15 CAD files reveal larger 6.2-inch display, Dynamic Island, USB-C charging port, and more, after iPhone 15 Pro CAD files leaked last week &lpar;Max Weinbach/9to5Mac&rpar;](http://www.techmeme.com/230222/p34#a230222p34)<!-- TECH:END -->
+ - [Google tests blocking news content in Search for fewer than 4% of Canadian users for about five weeks, a potential response to Canada&#39;s proposed Online News Act &lpar;Mickey Djuric/The Canadian Press News&rpar;](http://www.techmeme.com/230222/p35#a230222p35)
+ - [ChatGPT Reworked My Dating Profile. Look What Happened     - CNET](https://www.cnet.com/culture/internet/chatgpt-rewrote-my-dating-profile-look-what-happened/#ftag=CAD590a51e)
+ - [The US Copyright Office says you can’t copyright Midjourney AI-generated images](https://www.theverge.com/2023/2/22/23611278/midjourney-ai-copyright-office-kristina-kashtanova)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
