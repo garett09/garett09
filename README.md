@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boom](http://9gag.com/gag/a9qyPbo)
- - 🚯 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
+ - 🚖 [Appetizer](http://9gag.com/gag/a9qq3Qo)
+ - 🚯 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
  - 🚯 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
 
 --- 
