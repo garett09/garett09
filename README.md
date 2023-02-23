@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of mismanagement and commingling funds, Binance plans to shift to a &quot;semi-automated&quot; model for handling reserves of its so-called B-Tokens &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230223/p8#a230223p8)
- - [Sources: DOJ officials have met with Google&#39;s competitors and customers for an antitrust lawsuit over Google Maps and location data that could be filed in 2023 &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230223/p7#a230223p7)
- - [Filings: the SEC and NYDFS oppose Voyager&#39;s plan to sell assets to Binance.US for $1.02B, alleging the sale of unregistered securities, like Voyager&#39;s VGX token &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230223/p6#a230223p6)<!-- TECH:END -->
+ - [Microsoft appears to have updated the new Bing to end chats following prompts mentioning &quot;feelings&quot; or &quot;Sydney&quot;, after adding tighter controls on February 17 &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230223/p12#a230223p12)
+ - [The Battle for the Soul of Buy Nothing](https://www.wired.com/story/the-battle-for-buy-nothing/)
+ - [Spotify tests &quot;token-enabled playlists&quot;, letting some NFT holders connect their wallets and listen to curated music, starting on Android in select countries &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230223/p11#a230223p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
