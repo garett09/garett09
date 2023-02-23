@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lord of the Rings movies are on their way](https://www.polygon.com/23612553/new-lord-rings-movies-lotr)
- - [Our most anticipated game of 2023 is launching August 31](https://www.pcgamer.com/our-most-anticipated-game-of-2023-is-launching-august-31)
- - [Suicide Squad: Kill the Justice League is definitely not an Arkham Asylum sequel](https://www.polygon.com/23612420/suicide-squad-kill-the-justice-league-release-date-co-op-gameplay-trailer)<!-- GAME:END -->
+ - [Microsoft Flight Simulator: World Update XII Takes Us To New Zealand with Captivating Fidelity](https://news.xbox.com/en-us/2023/02/23/microsoft-flight-simulator-new-zealand-update/)
+ - [The 5 best horror movies to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/23/23610626/best-horror-movies-netflix-watch-february-2023)
+ - [Mortal Kombat 12 is &#39;set for release this year&#39; according to investors call](https://www.pcgamer.com/mortal-kombat-12-is-set-for-release-this-year-according-to-investors-call)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
