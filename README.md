@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)
- - 🚯 [No, no, he&#39;s got a point](http://9gag.com/gag/armyemB)
- - 🚯 [Did the Ring inventors every imagine it would be used this way?](http://9gag.com/gag/axoyZN2)<!-- MEMES:END -->
+ - 🚖 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
+ - 🚯 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
+ - 🚯 [Wholesome Commercials](http://9gag.com/gag/a04epvZ)<!-- MEMES:END -->
 
 --- 
 
