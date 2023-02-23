@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its superseding indictment, the US charges that SBF and two unnamed FTX executives made 300+ &quot;unlawful&quot; political donations, including using customer funds &lpar;New York Times&rpar;](http://www.techmeme.com/230223/p33#a230223p33)
- - [The Pixel’s Magic Eraser is now coming to all Android phones &lpar;and iPhones&rpar;](https://www.androidauthority.com/magic-eraser-android-phones-iphones-3288373/)
- - [Should Algorithms Control Nuclear Weapons Launch Codes? The US Says No](https://www.wired.com/story/fast-forward-should-algorithms-control-nuclear-launch-codes-the-us-says-no/)<!-- TECH:END -->
+ - [OnePlus Nord 3 details leak again, and this time it’s for real, probably](https://www.androidauthority.com/oneplus-nord-3-specs-3288699/)
+ - [Meta reforms its penalty system based on Oversight Board recommendations, focusing more on explanations of policy and less on penalizing users with &quot;timeouts&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230223/p36#a230223p36)
+ - [Google&#39;s Magic Eraser photo tool is coming to iPhone](https://appleinsider.com/articles/23/02/23/googles-magic-eraser-photo-tool-is-coming-to-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
