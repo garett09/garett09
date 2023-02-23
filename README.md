@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
- - 🚯 [A moment of silence for our fallen brother.](http://9gag.com/gag/a6qZ74L)
- - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
+ - 🚖 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)
+ - 🚯 [No, no, he&#39;s got a point](http://9gag.com/gag/armyemB)
+ - 🚯 [Did the Ring inventors every imagine it would be used this way?](http://9gag.com/gag/axoyZN2)<!-- MEMES:END -->
 
 --- 
 
