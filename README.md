@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Ivan Sutherland, who created Sketchpad, a breakthrough in interactive computer graphics for which he earned his PhD from MIT in 1963 &lpar;David C. Brock/CHM&rpar;](http://www.techmeme.com/230223/p5#a230223p5)
- - [Daily Authority: 🤝 The Galaxy S23’s best new feature?](https://www.androidauthority.com/daily-authority-february-23-2023-3288564/)
- - [Vivaldi on Android will now let users play YouTube videos in the background](https://www.androidauthority.com/vivaldi-browser-android-3287804/)<!-- TECH:END -->
+ - [After years of mismanagement and commingling funds, Binance plans to shift to a &quot;semi-automated&quot; model for handling reserves of its so-called B-Tokens &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230223/p8#a230223p8)
+ - [Sources: DOJ officials have met with Google&#39;s competitors and customers for an antitrust lawsuit over Google Maps and location data that could be filed in 2023 &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230223/p7#a230223p7)
+ - [Filings: the SEC and NYDFS oppose Voyager&#39;s plan to sell assets to Binance.US for $1.02B, alleging the sale of unregistered securities, like Voyager&#39;s VGX token &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230223/p6#a230223p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
