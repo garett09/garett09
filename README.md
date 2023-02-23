@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
- - 🚯 [So when was the real Putin, yesterday or today?](http://9gag.com/gag/ay2N0gr)
- - 🚯 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)<!-- MEMES:END -->
+ - 🚖 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
+ - 🚯 [A moment of silence for our fallen brother.](http://9gag.com/gag/a6qZ74L)
+ - 🚯 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
 
 --- 
 
