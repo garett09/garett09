@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would be hesitant to tell people where I worked if I worked for this company](https://www.reddit.com/r/funny/comments/11a055d/i_would_be_hesitant_to_tell_people_where_i_worked/)
- - 🚯 [Become ungovernable.](https://www.reddit.com/r/funny/comments/119zt9w/become_ungovernable/)
- - 🚯 [My 3 year old drew me, and her mom won&#39;t stop laughing at me.](https://www.reddit.com/r/funny/comments/119z0jt/my_3_year_old_drew_me_and_her_mom_wont_stop/)<!-- MEMES:END -->
+ - 🚖 [Bad dawg](https://www.reddit.com/r/funny/comments/11a21rh/bad_dawg/)
+ - 🚯 [As an adult, I will go to great lengths to recreate a feeling as good as this.](https://www.reddit.com/r/funny/comments/11a1b78/as_an_adult_i_will_go_to_great_lengths_to/)
+ - 🚯 [Work smarter not harder](https://www.reddit.com/r/memes/comments/11a0ui4/work_smarter_not_harder/)<!-- MEMES:END -->
 
 --- 
 
