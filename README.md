@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Pro M2 Pro review &lpar;16-inch, 2023&rpar;: Rapidly approaching perfection](https://www.androidauthority.com/apple-macbook-pro-m2-pro-review-3287203/)
- - [Everything You Need to Know About the Smart Home &lpar;2023&rpar;: Ecosystems, Tips, and More](https://www.wired.com/story/how-to-set-up-smart-home/)
- - [Valve recently patched a Dota 2 exploit used by third-party cheating clients, created a honeypot to catch them, and banned over 40,000 accounts &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230223/p28#a230223p28)<!-- TECH:END -->
+ - [Source.ag, which uses AI to help commercial greenhouse crop growers maximize their yields, raised a $23M Series A, bringing its total funding to $33M &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/230223/p30#a230223p30)
+ - [Unlock your writing potential with Scrivener 3 - now 50% off for Mac or Windows](https://appleinsider.com/articles/23/02/23/unlock-your-writing-potential-with-scrivener-3---now-50-off-for-mac-or-windows?utm_medium=rss)
+ - [Batteries Are Ukraine’s Secret Weapon Against Russia](https://www.wired.com/story/ukraine-russia-power-grid-batteries/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
