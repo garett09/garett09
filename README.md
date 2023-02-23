@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the Sad Story of Iris and the Giant on March 2](https://news.xbox.com/en-us/2023/02/23/dive-into-the-sad-story-of-iris-and-the-giant-on-march-2/)
- - [Arctic survival sim The Pale Beyond is as messy as it is compelling](https://www.polygon.com/reviews/23607299/the-pale-beyond-review-survival-management-sim-rpg-release-date-pc)
- - [Shinji Mikami, Resident Evil Mastermind, Leaving Studio He Founded](https://kotaku.com/shinji-mikami-tango-gameworks-evil-within-ghostwire-1850150056)<!-- GAME:END -->
+ - [How am I just now learning about the cops whose job is to play Fortnite?](https://www.pcgamer.com/how-am-i-just-now-learning-about-the-cops-whose-job-is-to-play-fortnite)
+ - [The Finals is holding a closed beta next month, here&#39;s how to sign up to try our most anticipated FPS of 2023](https://www.pcgamer.com/the-finals-closed-beta)
+ - [Forza Horizon 5 Rally Adventure Available March 29](https://news.xbox.com/en-us/2023/02/23/forza-horizon-5-rally-adventure-available-march-29/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
