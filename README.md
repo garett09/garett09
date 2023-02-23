@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
- - 🚯 [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
- - 🚯 [Wholesome Commercials](http://9gag.com/gag/a04epvZ)<!-- MEMES:END -->
+ - 🚖 [AutoCorrect Is Going To Die If This Keeps Up.](http://9gag.com/gag/ajVPr2g)
+ - 🚯 [Sibling stuff](http://9gag.com/gag/ay2N5AM)
+ - 🚯 [Sex is Injurious to Health &lpar;YouTube: East India Comedy&rpar;](http://9gag.com/gag/a04ePWZ)<!-- MEMES:END -->
 
 --- 
 
