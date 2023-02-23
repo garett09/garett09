@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked iPhone 15 CAD files reveal larger 6.2-inch display, Dynamic Island, USB-C charging port, and more, after iPhone 15 Pro CAD files leaked last week &lpar;Max Weinbach/9to5Mac&rpar;](http://www.techmeme.com/230222/p34#a230222p34)
- - [A look at Twitter v. Taamneh and the US Supreme Court&#39;s struggle to determine whether social media companies can be held responsible for aiding terrorism &lpar;Bloomberg&rpar;](http://www.techmeme.com/230222/p33#a230222p33)
- - [More People Need to Watch This Overlooked Netflix Sci-Fi Series     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-overlooked-netflix-sci-fi-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
+ - [Alphabet Reportedly Lays Off Robots That Cleaned Cafeterias     - CNET](https://www.cnet.com/news/alphabet-reportedly-lays-off-robots-that-cleaned-cafeterias/#ftag=CAD590a51e)
+ - [Leaked iPhone 15 CAD files reveal larger 6.2-inch display, Dynamic Island, USB-C charging port, and more, after iPhone 15 Pro CAD files leaked last week &lpar;Max Weinbach/9to5Mac&rpar;](http://www.techmeme.com/230222/p34#a230222p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
