@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We adopted puppies and our 13 year old dog’s face says it all 😂](https://www.reddit.com/r/funny/comments/11a4txs/we_adopted_puppies_and_our_13_year_old_dogs_face/)
- - 🚯 [It&#39;s the morally correct option](https://www.reddit.com/r/memes/comments/11a3uby/its_the_morally_correct_option/)
- - 🚯 [Brendan Fraser at the BAFTA Awards](https://www.reddit.com/r/funny/comments/11a3jo5/brendan_fraser_at_the_bafta_awards/)<!-- MEMES:END -->
+ - 🚖 [Part 13 of our ongoing series Knoxville Gas Station Enhancement Pills: The Beast](https://www.reddit.com/r/funny/comments/11a7t0b/part_13_of_our_ongoing_series_knoxville_gas/)
+ - 🚯 [PAIGE NO](https://www.reddit.com/r/funny/comments/11a7gdz/paige_no/)
+ - 🚯 [Separate art from the artist](https://www.reddit.com/r/memes/comments/11a6wfd/separate_art_from_the_artist/)<!-- MEMES:END -->
 
 --- 
 
