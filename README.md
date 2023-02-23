@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There are 22 Geralts, and we ranked them all](https://www.pcgamer.com/geralt-ranking-witcher)
- - [TikTok videos are using AI tools to turn Biden, Trump, and Obama into Discord goblins](https://www.polygon.com/23610381/presidents-play-minecraft-ai-voice-meme-joe-biden-trump)
- - [The Best And Worst Part Of Every Grand Theft Auto](https://kotaku.com/gta-v-online-rockstar-ranking-open-world-vice-city-1850147274)<!-- GAME:END -->
+ - [Elden Ring Sells 20 Million Copies, Makes Excellent Point](https://kotaku.com/elden-ring-sales-figures-20-million-god-of-war-jedi-1850147702)
+ - [Sega&#39;s Iconic Akihabara Arcade is Being Taken Over By A Rival](https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396)
+ - [Warhammer 40,000: Battlesector shows how a Warhammer game should be done](https://www.pcgamer.com/warhammer-40000-battlesector-shows-how-a-warhammer-game-should-be-done)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
