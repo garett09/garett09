@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [glitch in the matrix](https://www.reddit.com/r/memes/comments/11a2e6x/glitch_in_the_matrix/)
- - 🚯 [Bad dawg](https://www.reddit.com/r/funny/comments/11a21rh/bad_dawg/)
- - 🚯 [As an adult, I will go to great lengths to recreate a feeling as good as this.](https://www.reddit.com/r/funny/comments/11a1b78/as_an_adult_i_will_go_to_great_lengths_to/)<!-- MEMES:END -->
+ - 🚖 [We adopted puppies and our 13 year old dog’s face says it all 😂](https://www.reddit.com/r/funny/comments/11a4txs/we_adopted_puppies_and_our_13_year_old_dogs_face/)
+ - 🚯 [i don&#39;t think the cat understands the litter box](https://www.reddit.com/r/funny/comments/11a46uq/i_dont_think_the_cat_understands_the_litter_box/)
+ - 🚯 [Brendan Fraser at the BAFTA Awards](https://www.reddit.com/r/funny/comments/11a3jo5/brendan_fraser_at_the_bafta_awards/)<!-- MEMES:END -->
 
 --- 
 
