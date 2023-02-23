@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us is finding apocalyptic meaning where The Walking Dead couldn’t](https://www.polygon.com/23610810/last-us-joel-walking-dead-rick-differences)
- - [You already speak fluent computer code according to Nvidia&#39;s CEO](https://www.pcgamer.com/you-already-speak-fluent-computer-code-according-to-nvidias-ceo)
- - [I&#39;ve been playing tabletop RPGs for 20 years, and these are the D&amp;D alternatives I recommend](https://www.pcgamer.com/the-best-DnD-alternatives)<!-- GAME:END -->
+ - [Shinji Mikami departs Bethesda’s Tango Gameworks](https://www.polygon.com/23611036/shinji-mikami-quits-tango-gameworks-bethesda-microsoft-evil-within)
+ - [Company of Heroes 3 factions and battlegroups guide](https://www.pcgamer.com/company-of-heroes-3-factions-and-battlegroups-guide)
+ - [Everything you need to know about Octopath Traveler II, out Feb 24](https://blog.playstation.com/2023/02/23/everything-you-need-to-know-about-octopath-traveler-ii-out-feb-24/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
