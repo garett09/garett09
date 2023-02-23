@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad dawg](https://www.reddit.com/r/funny/comments/11a21rh/bad_dawg/)
- - 🚯 [As an adult, I will go to great lengths to recreate a feeling as good as this.](https://www.reddit.com/r/funny/comments/11a1b78/as_an_adult_i_will_go_to_great_lengths_to/)
- - 🚯 [Work smarter not harder](https://www.reddit.com/r/memes/comments/11a0ui4/work_smarter_not_harder/)<!-- MEMES:END -->
+ - 🚖 [glitch in the matrix](https://www.reddit.com/r/memes/comments/11a2e6x/glitch_in_the_matrix/)
+ - 🚯 [Bad dawg](https://www.reddit.com/r/funny/comments/11a21rh/bad_dawg/)
+ - 🚯 [As an adult, I will go to great lengths to recreate a feeling as good as this.](https://www.reddit.com/r/funny/comments/11a1b78/as_an_adult_i_will_go_to_great_lengths_to/)<!-- MEMES:END -->
 
 --- 
 
