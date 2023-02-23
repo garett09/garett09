@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Viola Davis’ last-minute change to The Woman King made it a much better movie](https://www.polygon.com/23610956/woman-king-viola-davis-character-changes)
- - [Singapore detains teens under controversial act after they played on ISIS-themed Roblox servers](https://www.pcgamer.com/singapore-detains-teens-under-controversial-act-after-they-played-on-isis-themed-roblox-servers)
- - [An RTX 4090 gaming laptop feels entirely unnecessary when a mobile RTX 4080 can actually beat it](https://www.pcgamer.com/an-rtx-4090-gaming-laptop-feels-entirely-unnecessary-when-a-mobile-rtx-4080-can-actually-beat-it)<!-- GAME:END -->
+ - [Dive into the Sad Story of Iris and the Giant on March 2](https://news.xbox.com/en-us/2023/02/23/dive-into-the-sad-story-of-iris-and-the-giant-on-march-2/)
+ - [Arctic survival sim The Pale Beyond is as messy as it is compelling](https://www.polygon.com/reviews/23607299/the-pale-beyond-review-survival-management-sim-rpg-release-date-pc)
+ - [Shinji Mikami, Resident Evil Mastermind, Leaving Studio He Founded](https://kotaku.com/shinji-mikami-tango-gameworks-evil-within-ghostwire-1850150056)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
