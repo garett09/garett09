@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rust Console Edition Gets a Major Update – Power Surge!](https://news.xbox.com/en-us/2023/02/23/rust-console-edition-power-surge-update/)
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
- - [The Big Ways The Last Of Us Show Changes The Game’s Lore](https://kotaku.com/the-last-of-us-hbo-lore-changes-tendrils-mycology-tess-1850019712)<!-- GAME:END -->
+ - [Dead Cells Castlevania DLC will allow you to play as Richter Belmont](https://www.polygon.com/23612229/dead-cells-castlevania-dlc-richter-belmont)
+ - [Free Play Days – Bloodstained: Ritual of the Night, Destiny 2: The Witch Queen, and Dragon Ball: The Breakers](https://news.xbox.com/en-us/2023/02/23/free-play-days-bloodstained-ritual-of-the-night-destiny-2-the-witch-queen-and-dragon-ball-the-breakers/)
+ - [The Wreck is an Upcoming “Reality-Inspired Game”… What Does That Mean?](https://news.xbox.com/en-us/2023/02/23/the-wreck-launching-march-14-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
