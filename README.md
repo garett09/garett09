@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Appetizer](http://9gag.com/gag/a9qq3Qo)
- - 🚯 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
- - 🚯 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
+ - 🚖 [No words](http://9gag.com/gag/amAoLNX)
+ - 🚯 [This is a troll...right? Please?](http://9gag.com/gag/aqey4vp)
+ - 🚯 [I&#39;ll pass](http://9gag.com/gag/aGEy9q6)<!-- MEMES:END -->
 
 --- 
 
