@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hans?!](http://9gag.com/gag/avQynBn)
- - 🚯 [`Ok let&#39;s go!`](http://9gag.com/gag/ap9RL9b)
+ - 🚖 [In Ecuador, they began to build buildings from cocaine. The cocaine is mixed with cement, sand and water and then placed in the foundation of a building in a method of disposal called encapsulation. It&#39;s four times faster than burning.](http://9gag.com/gag/aA0yPg9)
+ - 🚯 [Treasure hunt](http://9gag.com/gag/aDY2Gd9)
  - 🚯 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)<!-- MEMES:END -->
 
 --- 
