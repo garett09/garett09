@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two Karens asking for the Manager. GET OUT!](http://9gag.com/gag/anz7q8q)
- - 🚯 [Show some respect for these people](http://9gag.com/gag/anz7qME)
- - 🚯 [Hera Pheri 3 finally happening with the original trio starcast...](http://9gag.com/gag/anz7qRV)<!-- MEMES:END -->
+ - 🚖 [Hans?!](http://9gag.com/gag/avQynBn)
+ - 🚯 [`Ok let&#39;s go!`](http://9gag.com/gag/ap9RL9b)
+ - 🚯 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)<!-- MEMES:END -->
 
 --- 
 
