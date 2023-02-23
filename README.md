@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to read brail](http://9gag.com/gag/a6qZdpe)
- - 🚯 [Come on man tf!](http://9gag.com/gag/aZDZp3X)
- - 🚯 [Is this true about asian women?](http://9gag.com/gag/a3Z4B0v)<!-- MEMES:END -->
+ - 🚖 [My 3 year old drew me, and her mom won&#39;t stop laughing at me.](https://www.reddit.com/r/funny/comments/119z0jt/my_3_year_old_drew_me_and_her_mom_wont_stop/)
+ - 🚯 [Taste like the nastiest toilet water 🤢](https://www.reddit.com/r/memes/comments/119yn4f/taste_like_the_nastiest_toilet_water/)
+ - 🚯 [I told my friend to go touch grass and received this gem in return.](https://www.reddit.com/r/funny/comments/119xv3t/i_told_my_friend_to_go_touch_grass_and_received/)<!-- MEMES:END -->
 
 --- 
 
