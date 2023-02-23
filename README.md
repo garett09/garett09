@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 3 details leak again, and this time it’s for real, probably](https://www.androidauthority.com/oneplus-nord-3-specs-3288699/)
- - [Meta reforms its penalty system based on Oversight Board recommendations, focusing more on explanations of policy and less on penalizing users with &quot;timeouts&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230223/p36#a230223p36)
- - [Google&#39;s Magic Eraser photo tool is coming to iPhone](https://appleinsider.com/articles/23/02/23/googles-magic-eraser-photo-tool-is-coming-to-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Synology’s Darth Vader-like router taught me how to control my home network](https://www.androidauthority.com/synology-wrx560-review-3285657/)
+ - [Jamf says it found Mac cryptomining malware in pirate copies of Final Cut Pro, warns Apple Silicon Macs&#39; power makes them popular targets for cryptojacking &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230223/p37#a230223p37)
+ - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
