@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyday Robots will no longer be a separate project within Alphabet and some of its tech and staff will be consolidated into Google Research robotics efforts &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230222/p37#a230222p37)
- - [Samsung expands Bixby Text Call, which answers calls via text-to-speech, to English and unveils Custom Voice Creator, which clones the user&#39;s voice, in Korean &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230222/p36#a230222p36)
- - [Netflix: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-absolute-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s mixed reality headset development taken over by Chinese supplier](https://appleinsider.com/articles/23/02/23/apples-mixed-reality-headset-development-taken-over-by-chinese-supplier?utm_medium=rss)
+ - [Sources: Chinese Luxshare took over AR development team for Apple&#39;s headset in Shanghai from Taiwan&#39;s Pegatron; Foxconn to make second gen, mass market version &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230222/p38#a230222p38)
+ - [Everyday Robots will no longer be a separate project within Alphabet and some of its tech and staff will be consolidated into Google Research robotics efforts &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230222/p37#a230222p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
