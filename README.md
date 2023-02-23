@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s mixed reality headset development taken over by Chinese supplier](https://appleinsider.com/articles/23/02/23/apples-mixed-reality-headset-development-taken-over-by-chinese-supplier?utm_medium=rss)
- - [Sources: Chinese Luxshare took over AR development team for Apple&#39;s headset in Shanghai from Taiwan&#39;s Pegatron; Foxconn to make second gen, mass market version &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230222/p38#a230222p38)
- - [Everyday Robots will no longer be a separate project within Alphabet and some of its tech and staff will be consolidated into Google Research robotics efforts &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230222/p37#a230222p37)<!-- TECH:END -->
+ - [Samsung announces satellite communication tech for smartphones](https://www.androidauthority.com/samsung-smartphone-satellite-connectivity-3288560/)
+ - [iPhone 15 OLED display chips might get an upgrade](https://appleinsider.com/articles/23/02/23/iphone-15-oled-display-chips-might-get-an-upgrade?utm_medium=rss)
+ - [US-based DNA Diagnostics Center settled a pair of AG lawsuits after hackers stole data on 2.1M people in 2021 from a &quot;legacy&quot; database the company forgot it had &lpar;Jude Karabus/The Register&rpar;](http://www.techmeme.com/230223/p1#a230223p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
