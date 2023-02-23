@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AutoCorrect Is Going To Die If This Keeps Up.](http://9gag.com/gag/ajVPr2g)
- - 🚯 [Sibling stuff](http://9gag.com/gag/ay2N5AM)
- - 🚯 [Sex is Injurious to Health &lpar;YouTube: East India Comedy&rpar;](http://9gag.com/gag/a04ePWZ)<!-- MEMES:END -->
+ - 🚖 [Two Karens asking for the Manager. GET OUT!](http://9gag.com/gag/anz7q8q)
+ - 🚯 [Show some respect for these people](http://9gag.com/gag/anz7qME)
+ - 🚯 [Hera Pheri 3 finally happening with the original trio starcast...](http://9gag.com/gag/anz7qRV)<!-- MEMES:END -->
 
 --- 
 
