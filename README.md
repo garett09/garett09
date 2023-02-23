@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synology’s Darth Vader-like router taught me how to control my home network](https://www.androidauthority.com/synology-wrx560-review-3285657/)
- - [Jamf says it found Mac cryptomining malware in pirate copies of Final Cut Pro, warns Apple Silicon Macs&#39; power makes them popular targets for cryptojacking &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230223/p37#a230223p37)
- - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)<!-- TECH:END -->
+ - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
+ - [Google TV Update Adds New Navigation Features     - CNET](https://www.cnet.com/tech/services-and-software/google-tv-update-adds-new-navigation-features/#ftag=CAD590a51e)
+ - [Google expands Magic Eraser, which lets users remove parts of a picture, from Pixel devices to Google One subscribers using Google Photos on Android or iOS &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230223/p38#a230223p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
