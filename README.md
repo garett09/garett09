@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase launches Base, a Layer 2 network using Optimism&#39;s OP Stack, offering access to Ethereum, Solana, and others, and has no plans for new network tokens &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230223/p24#a230223p24)
- - [macOS targeted by evasive crypto-jacking malware](https://appleinsider.com/articles/23/02/23/macos-targeted-by-evasive-crypto-jacking-malware?utm_medium=rss)
- - [Binance shut down the derivative trading accounts of retail users in Australia after an investigation found customers were misclassified as wholesale investors &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/230223/p23#a230223p23)<!-- TECH:END -->
+ - [Apple MacBook Pro M2 Pro review &lpar;16-inch, 2023&rpar;: Rapidly approaching perfection](https://www.androidauthority.com/apple-macbook-pro-m2-pro-review-3287203/)
+ - [Everything You Need to Know About the Smart Home &lpar;2023&rpar;: Ecosystems, Tips, and More](https://www.wired.com/story/how-to-set-up-smart-home/)
+ - [Valve recently patched a Dota 2 exploit used by third-party cheating clients, created a honeypot to catch them, and banned over 40,000 accounts &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230223/p28#a230223p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
