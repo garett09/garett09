@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you find a bug in the Physics](http://9gag.com/gag/a04eKQd)
- - 🚯 [We can&#39;t have good things](http://9gag.com/gag/aPgA9LR)
- - 🚯 [Nature can be scary](http://9gag.com/gag/aMEVjoG)<!-- MEMES:END -->
+ - 🚖 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
+ - 🚯 [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
+ - 🚯 [Seattle I5 Union Street Exit](http://9gag.com/gag/a4oP7vQ)<!-- MEMES:END -->
 
 --- 
 
