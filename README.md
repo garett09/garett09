@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many Apple online services experienced extended outage [u]](https://appleinsider.com/articles/23/02/23/nearly-every-apple-online-service-is-down-in-ongoing-global-outage?utm_medium=rss)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [Every James Bond Movie, Ranked     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
+ - [These Lovable Bald Eagles Are Relationship Goals     - CNET](https://www.cnet.com/science/biology/these-lovable-bald-eagles-are-relationship-goals/#ftag=CAD590a51e)
+ - [All the 2023 Video Game Release Dates You Need to Know     - CNET](https://www.cnet.com/tech/gaming/all-the-2023-video-game-release-dates-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
