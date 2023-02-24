@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This mannequin’s pose](https://www.reddit.com/r/funny/comments/11asn6v/this_mannequins_pose/)
- - 🚯 [absolute sensory overload](https://www.reddit.com/r/memes/comments/11arhhm/absolute_sensory_overload/)
- - 🚯 [The bathroom poet strikes again](https://www.reddit.com/r/funny/comments/11aqs2l/the_bathroom_poet_strikes_again/)<!-- MEMES:END -->
+ - 🚖 [I’m not normally one for conspiracy theories, but this is pretty compelling](https://www.reddit.com/r/funny/comments/11atnkt/im_not_normally_one_for_conspiracy_theories_but/)
+ - 🚯 [Exits? Saw this while working at a site, made me chuckle.](https://www.reddit.com/r/funny/comments/11at9la/exits_saw_this_while_working_at_a_site_made_me/)
+ - 🚯 [You are going to be in so much trouble when we get home](https://www.reddit.com/r/memes/comments/11at3lt/you_are_going_to_be_in_so_much_trouble_when_we/)<!-- MEMES:END -->
 
 --- 
 
