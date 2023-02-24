@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#39;ve come full circle](https://www.reddit.com/r/funny/comments/11af8hl/weve_come_full_circle/)
- - 🚯 [Wait a minute…](https://www.reddit.com/r/memes/comments/11aevmf/wait_a_minute/)
- - 🚯 [This has to be the worst take I&#39;ve ever seen.](https://www.reddit.com/r/memes/comments/11adnk1/this_has_to_be_the_worst_take_ive_ever_seen/)<!-- MEMES:END -->
+ - 🚖 [My friend and I spoke about his lights. He said he liked the blue color. I don&#39;t think he knows. 😏](https://www.reddit.com/r/funny/comments/11aijf3/my_friend_and_i_spoke_about_his_lights_he_said_he/)
+ - 🚯 [I can&#39;t believe this license plate is real](https://www.reddit.com/r/funny/comments/11ahpyi/i_cant_believe_this_license_plate_is_real/)
+ - 🚯 [Someone drew a penis on my car.. well kinda](https://www.reddit.com/r/funny/comments/11ahctv/someone_drew_a_penis_on_my_car_well_kinda/)<!-- MEMES:END -->
 
 --- 
 
