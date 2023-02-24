@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Game Releases, Microsoft Flight Sim Goes to Hobbiton, and More](https://news.xbox.com/en-us/2023/02/24/this-week-on-xbox-new-game-releases-microsoft-flight-sim-goes-to-hobbiton-and-more/)
- - [Official PlayStation Podcast Episode 450: Squad Up](https://blog.playstation.com/2023/02/24/official-playstation-podcast-episode-450-squad-up/)
- - [Switch Appears To Add ‘Groomer,’ Mass Shooters To Banned Word List](https://kotaku.com/nintendo-switch-banned-word-uvalde-sandy-hook-nazi-1850157108)<!-- GAME:END -->
+ - [How to launch a rocket in Kerbal Space Program 2](https://www.polygon.com/guides/23612523/kerbal-space-program-2-how-to-launch-rocket-guide)
+ - [How to delete parts in Kerbal Space Program 2](https://www.polygon.com/guides/23612474/erbal-space-program-2-how-to-delete-parts)
+ - [Overwatch 2 Hero Pick Rates Show Most Players Don’t Care About The Meta](https://kotaku.com/overwatch-2-pick-win-rates-season-3-kiriko-cassidy-tank-1850157475)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
