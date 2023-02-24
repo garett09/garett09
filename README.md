@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra didn&#39;t beat the iPhone 13 Pro in camera test](https://appleinsider.com/articles/23/02/24/samsung-galaxy-s23-ultra-didnt-beat-the-iphone-13-pro-in-camera-test?utm_medium=rss)
- - [Nimble Champ portable charger review: Small and mighty](https://appleinsider.com/articles/23/02/24/nimble-champ-portable-charger-review-small-and-mighty?utm_medium=rss)
- - [A year after Russia&#39;s invasion, a look at the unprecedented cyberdefence effort by Ukraine and its allies against Russian wiper malware and other attacks &lpar;CyberScoop&rpar;](http://www.techmeme.com/230224/p12#a230224p12)<!-- TECH:END -->
+ - [OpenAI details its preparations for &quot;if AGI is successfully created&quot;, including being cautious with its models and operating as if the risks are existential &lpar;Sam Altman/OpenAI&rpar;](http://www.techmeme.com/230224/p13#a230224p13)
+ - [Amazon slashes the price of Beats Fit Pro in brand-new colors](https://appleinsider.com/articles/23/02/24/amazon-slashes-the-price-of-beats-fit-pro-in-brand-new-colors?utm_medium=rss)
+ - [&#39;Cocaine Bear&#39; Review: Jaws With Claws!     - CNET](https://www.cnet.com/culture/entertainment/cocaine-bear-review-jaws-with-claws/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
