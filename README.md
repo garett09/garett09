@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator: World Update XII Takes Us To New Zealand with Captivating Fidelity](https://news.xbox.com/en-us/2023/02/23/microsoft-flight-simulator-new-zealand-update/)
- - [The 5 best horror movies to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/23/23610626/best-horror-movies-netflix-watch-february-2023)
- - [Mortal Kombat 12 is &#39;set for release this year&#39; according to investors call](https://www.pcgamer.com/mortal-kombat-12-is-set-for-release-this-year-according-to-investors-call)<!-- GAME:END -->
+ - [RIP John Motson, 1945-2023](https://kotaku.com/john-motson-rip-fifa-ea-sports-commentator-bbc-football-1850152454)
+ - [Sons of the Forest: How to save your game](https://www.pcgamer.com/sons-of-the-forest-how-to-save-your-game)
+ - [The Resident Evil 4 Remake messes with the timeline and teases Mercenaries return in its latest trailer](https://www.pcgamer.com/the-resident-evil-4-remake-messes-with-the-timeline-and-teases-mercenaries-return-in-its-latest-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
