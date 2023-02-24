@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The English language is a mystery to some people](https://www.reddit.com/r/memes/comments/11aly88/the_english_language_is_a_mystery_to_some_people/)
- - 🚯 [Aldi Sculpting Facial Roller. ‘Vibrating’ Sculpting Facial Roller.](https://www.reddit.com/r/funny/comments/11al0dk/aldi_sculpting_facial_roller_vibrating_sculpting/)
- - 🚯 [I see it.](https://www.reddit.com/r/funny/comments/11ajh0z/i_see_it/)<!-- MEMES:END -->
+ - 🚖 [Local Council posted these around the local sports hub. Guess it is only allowed in dirty areas?](https://www.reddit.com/r/funny/comments/11am3nt/local_council_posted_these_around_the_local/)
+ - 🚯 [The English language is a mystery to some people](https://www.reddit.com/r/memes/comments/11aly88/the_english_language_is_a_mystery_to_some_people/)
+ - 🚯 [Aldi Sculpting Facial Roller. ‘Vibrating’ Sculpting Facial Roller.](https://www.reddit.com/r/funny/comments/11al0dk/aldi_sculpting_facial_roller_vibrating_sculpting/)<!-- MEMES:END -->
 
 --- 
 
