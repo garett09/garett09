@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple plans a cheaper second-gen AR/MR headset with two high-end and low-end models, built by Luxcaseict and Foxconn, respectively, likely coming in 2025 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230224/p2#a230224p2)
- - [9 People Hold the Internet’s Fate in Their Hands](https://www.wired.com/story/scotus-section-230/)
- - [Amazon Has a Donkey Meat Problem](https://www.wired.com/story/amazon-donkey-meat-california/)<!-- TECH:END -->
+ - [How to watch Major League Soccer opening weekend for free](https://appleinsider.com/inside/iphone/tips/how-to-watch-major-league-soccer-opening-weekend-for-free?utm_medium=rss)
+ - [How the founders of the Buy Nothing Project, which grew via Facebook Groups of neighbors exchanging free stuff, built their own app amid member resentment &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230224/p3#a230224p3)
+ - [Human Art Already Has So Much In Common With AI](https://www.wired.com/story/generative-art-algorithms-creativity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
