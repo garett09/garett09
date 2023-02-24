@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Ericsson plans to lay off 8,500 of its 105K+ employees, or 8% of its staff; in December, the company said it would cut costs by ~$880M by the end of 2023 &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230224/p5#a230224p5)
- - [Any iPhone can get satellite communications with this gadget](https://appleinsider.com/articles/23/02/24/any-iphone-can-get-satellite-communications-with-this-gadget?utm_medium=rss)
- - [Score Samsung&#39;s Budget-Friendly A7 Lite Tablet for Just $110 Today Only     - CNET](https://www.cnet.com/deals/score-samsungs-budget-friendly-a7-lite-tablet-110/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to take a screenshot on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-take-a-screenshot-on-apple-watch?utm_medium=rss)
+ - [Remembering Steve Jobs on his 68th birthday](https://appleinsider.com/articles/20/02/24/remembering-steve-jobs-on-what-would-be-his-65th-birthday?utm_medium=rss)
+ - [Leaked image reveals Bose’s next noise-cancelling headphones](https://www.androidauthority.com/bose-quietcomfort-ultra-3289164/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
