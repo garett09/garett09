@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lincoln, Nebraska-based Spreetail, which offers logistics, customer support, and content services to e-commerce brands, raised $208M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230223/p46#a230223p46)
- - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [These Lovable Bald Eagles Are Relationship Goals     - CNET](https://www.cnet.com/science/biology/these-lovable-bald-eagles-are-relationship-goals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)
+ - [London-based Metomic, which uses AI to detect data leaks in SaaS apps like Slack and Jira, raised a $20M Series A led by Evolution Equity Partners &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230223/p47#a230223p47)
+ - [The best iPhone deals: Get a free iPhone 14 Pro with trade-in](https://www.androidauthority.com/best-iphone-deals-1117011/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
