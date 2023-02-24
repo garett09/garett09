@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
- - 🚯 [I&#39;m p*ssed off and mad about it!](http://9gag.com/gag/aVbvYEO)
- - 🚯 [This wisdom tooth&#39;s root.](http://9gag.com/gag/aVbvYLw)<!-- MEMES:END -->
+ - 🚖 [Slovenia doesn&#39;t play.](http://9gag.com/gag/aL1njd5)
+ - 🚯 [Is that good?](http://9gag.com/gag/aDY2xnO)
+ - 🚯 [Nature can be scary](http://9gag.com/gag/aMEVjoG)<!-- MEMES:END -->
 
 --- 
 
