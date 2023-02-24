@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to launch a rocket in Kerbal Space Program 2](https://www.polygon.com/guides/23612523/kerbal-space-program-2-how-to-launch-rocket-guide)
- - [How to delete parts in Kerbal Space Program 2](https://www.polygon.com/guides/23612474/erbal-space-program-2-how-to-delete-parts)
- - [Overwatch 2 Hero Pick Rates Show Most Players Don’t Care About The Meta](https://kotaku.com/overwatch-2-pick-win-rates-season-3-kiriko-cassidy-tank-1850157475)<!-- GAME:END -->
+ - [Tales Of Symphonia Switch Remaster Is A Major Bummer, Devs Apologize](https://kotaku.com/tales-symphonia-switch-remaster-framerate-patch-jrpg-1850157873)
+ - [Baldur’s Gate 3 hits PS5 and PC this summer, but not Xbox](https://www.polygon.com/23613558/baldurs-gate-3-release-date-ps5-pc-xbox)
+ - [I tried the &#39;world&#39;s first crypto-backed energy drink,&#39; and it tastes like it was secreted from the blockchain](https://www.pcgamer.com/i-tried-the-worlds-first-crypto-backed-energy-drink-and-it-tastes-like-it-was-secreted-from-the-blockchain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
