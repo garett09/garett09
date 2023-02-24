@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Android phone with built-in two-way satellite texting is here](https://www.androidauthority.com/motorola-defy-2-cat-s-75-3289000/)
- - [MediaTek announces satellite chip that can be used with any 4G/5G smartphone](https://www.androidauthority.com/mediatek-satellite-chip-3288741/)
- - [How Ukraine’s Trains Kept Running Despite Bombs, Blackouts, and Biden](https://www.wired.com/story/how-ukraines-trains-kept-running-despite-bombs-blackouts-and-biden/)<!-- TECH:END -->
+ - [Google blocks news content for some Canadians in response to proposed rules](https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18)
+ - [Your Android phone might soon be able to generate AI images in seconds](https://www.androidauthority.com/qualcomm-android-ai-image-generation-3289045/)
+ - [First Android phone with built-in two-way satellite texting is here](https://www.androidauthority.com/motorola-defy-2-cat-s-75-3289000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
