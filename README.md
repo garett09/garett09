@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
- - 🚯 [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
- - 🚯 [Seattle I5 Union Street Exit](http://9gag.com/gag/a4oP7vQ)<!-- MEMES:END -->
+ - 🚯 [I&#39;m p*ssed off and mad about it!](http://9gag.com/gag/aVbvYEO)
+ - 🚯 [This wisdom tooth&#39;s root.](http://9gag.com/gag/aVbvYLw)<!-- MEMES:END -->
 
 --- 
 
