@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin BoostCharge Pro 3-in-1 review: Wireless charging pad for everything Apple](https://www.androidauthority.com/belkin-boostcharge-pro-3-in-1-wireless-charging-pad-magsafe-review-3288534/)
- - [The 35 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 40 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra didn&#39;t beat the iPhone 13 Pro in camera test](https://appleinsider.com/articles/23/02/24/samsung-galaxy-s23-ultra-didnt-beat-the-iphone-13-pro-in-camera-test?utm_medium=rss)
+ - [Nimble Champ portable charger review: Small and mighty](https://appleinsider.com/articles/23/02/24/nimble-champ-portable-charger-review-small-and-mighty?utm_medium=rss)
+ - [A year after Russia&#39;s invasion, a look at the unprecedented cyberdefence effort by Ukraine and its allies against Russian wiper malware and other attacks &lpar;CyberScoop&rpar;](http://www.techmeme.com/230224/p12#a230224p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
