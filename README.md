@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases a new foundational LLM called Large Language Model Meta AI, or LLaMA, available in sizes ranging from 7B to 65B parameters, to help AI researchers &lpar;Meta AI&rpar;](http://www.techmeme.com/230224/p7#a230224p7)
- - [&#39;Dune Messiah&#39; Feels Like a First Draft](https://www.wired.com/2023/02/geeks-guide-dune-messiah/)
- - [Who Should You Believe When Chatbots Go Wild?](https://www.wired.com/story/plaintext-who-should-you-believe-when-chatbots-go-wild/)<!-- TECH:END -->
+ - [Financial institutions like BofA, Citigroup, Deutsche Bank, Goldman Sachs, Wells Fargo, and JPMorgan Chase are restricting internal use of tools like ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/230224/p8#a230224p8)
+ - [Save 33% on the Pixel 6a, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Meta releases a new foundational LLM called Large Language Model Meta AI, or LLaMA, available in sizes ranging from 7B to 65B parameters, to help AI researchers &lpar;Meta AI&rpar;](http://www.techmeme.com/230224/p7#a230224p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
