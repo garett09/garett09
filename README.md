@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Warner Bros. is making ‘multiple Lord of the Rings movies’](https://www.theverge.com/2023/2/23/23612590/lord-of-the-rings-movies-warner-bros-new-line-cinema-announcement)
- - [Source: the DOJ is preparing to file an antitrust suit to block Adobe&#39;s Figma acquisition as soon as next month; Adobe says it expects to close the deal in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230223/p43#a230223p43)<!-- TECH:END -->
+ - [Many Apple online services experienced extended outage [u]](https://appleinsider.com/articles/23/02/23/nearly-every-apple-online-service-is-down-in-ongoing-global-outage?utm_medium=rss)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [Every James Bond Movie, Ranked     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
