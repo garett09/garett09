@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The bathroom poet strikes again](https://www.reddit.com/r/funny/comments/11aqs2l/the_bathroom_poet_strikes_again/)
- - 🚯 [Who though this was good branding?](https://www.reddit.com/r/funny/comments/11apwk5/who_though_this_was_good_branding/)
- - 🚯 [Ain’t gonna happen](https://www.reddit.com/r/memes/comments/11apur0/aint_gonna_happen/)<!-- MEMES:END -->
+ - 🚖 [This mannequin’s pose](https://www.reddit.com/r/funny/comments/11asn6v/this_mannequins_pose/)
+ - 🚯 [absolute sensory overload](https://www.reddit.com/r/memes/comments/11arhhm/absolute_sensory_overload/)
+ - 🚯 [The bathroom poet strikes again](https://www.reddit.com/r/funny/comments/11aqs2l/the_bathroom_poet_strikes_again/)<!-- MEMES:END -->
 
 --- 
 
