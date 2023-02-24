@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the rope gun for the zipline in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-rope-gun-zipline-location)
- - [Call of Duty will get a full, all-new game in 2023, says report](https://www.polygon.com/23613882/call-of-duty-2023-game-modern-warfare-new)
- - [Where to find the rebreather in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-rebreather-location)<!-- GAME:END -->
+ - [This Week on Xbox: New Game Releases, Microsoft Flight Sim Goes to Hobbiton, and More](https://news.xbox.com/en-us/2023/02/24/this-week-on-xbox-new-game-releases-microsoft-flight-sim-goes-to-hobbiton-and-more/)
+ - [Official PlayStation Podcast Episode 450: Squad Up](https://blog.playstation.com/2023/02/24/official-playstation-podcast-episode-450-squad-up/)
+ - [Switch Appears To Add ‘Groomer,’ Mass Shooters To Banned Word List](https://kotaku.com/nintendo-switch-banned-word-uvalde-sandy-hook-nazi-1850157108)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
