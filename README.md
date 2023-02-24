@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harvey Weinstein was sentenced to 16 years in prison](http://9gag.com/gag/aeQ9e5q)
- - 🚯 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
- - 🚯 [Lolololol](http://9gag.com/gag/aKEG2Yj)<!-- MEMES:END -->
+ - 🚖 [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
+ - 🚯 [This wisdom tooth&#39;s root.](http://9gag.com/gag/aVbvYLw)
+ - 🚯 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)<!-- MEMES:END -->
 
 --- 
 
