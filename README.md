@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DSLR-like Razer Kiyo Pro Ultra is the overkill king of 4K webcams](https://www.androidauthority.com/razer-kiyo-pro-ultra-review-3275721/)
- - [If both your iPhone and passcode get stolen, you&#39;re in deep trouble](https://appleinsider.com/articles/23/02/24/if-both-your-iphone-and-passcode-get-stolen-youre-in-deep-trouble?utm_medium=rss)
- - [Canada&#39;s second-largest telecom TELUS is investigating a potential data breach after a hacker put up private GitHub repositories and payroll records for sale &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230224/p9#a230224p9)<!-- TECH:END -->
+ - [Belkin BoostCharge Pro 3-in-1 review: Wireless charging pad for everything Apple](https://www.androidauthority.com/belkin-boostcharge-pro-3-in-1-wireless-charging-pad-magsafe-review-3288534/)
+ - [The 35 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 40 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
