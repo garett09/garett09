@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details its preparations for &quot;if AGI is successfully created&quot;, including being cautious with its models and operating as if the risks are existential &lpar;Sam Altman/OpenAI&rpar;](http://www.techmeme.com/230224/p13#a230224p13)
- - [Amazon slashes the price of Beats Fit Pro in brand-new colors](https://appleinsider.com/articles/23/02/24/amazon-slashes-the-price-of-beats-fit-pro-in-brand-new-colors?utm_medium=rss)
- - [&#39;Cocaine Bear&#39; Review: Jaws With Claws!     - CNET](https://www.cnet.com/culture/entertainment/cocaine-bear-review-jaws-with-claws/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Out in Space Lies a Mysterious, Massive Planet That Shouldn&#39;t Exist     - CNET](https://www.cnet.com/science/space/out-in-space-lies-a-mysterious-massive-planet-that-shouldnt-exist/#ftag=CAD590a51e)
+ - [Jump Crypto recovers 120,000 ether, worth $140M, stolen during the 2022 Wormhole exploit after Oasis upgraded a DeFi contract following a UK high court order &lpar;Jon Rice/Blockworks&rpar;](http://www.techmeme.com/230224/p15#a230224p15)
+ - [Politwoops, a ProPublica project that tracked and archived politicians&#39; deleted tweets since 2012, is shutting down as the required Twitter tools no longer work &lpar;Derek Willis/ProPublica&rpar;](http://www.techmeme.com/230224/p14#a230224p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
