@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart Fans Aghast To Learn About Secret Points That Tilt The Scales](https://kotaku.com/mario-kart-super-circuit-yoshi-bowser-mario-peach-luigi-1850155523)
- - [The Next Pokémon Animation Looks Incredible](https://kotaku.com/pokemon-journey-of-dreams-animated-short-shanghai-weibo-1850155330)
- - [The Day Before&#39;s calendar app nemesis confirms it owns disputed copyright, would like you to know it&#39;s been around for 13 years](https://www.pcgamer.com/the-day-befores-calendar-app-nemesis-confirms-it-owns-disputed-copyright-would-like-you-to-know-its-been-around-for-13-years)<!-- GAME:END -->
+ - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)
+ - [All Physical 100 challenges, definitively ranked](https://www.polygon.com/23610749/physical-100-challenges-ranked)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
