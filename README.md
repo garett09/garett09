@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My friend and I spoke about his lights. He said he liked the blue color. I don&#39;t think he knows. 😏](https://www.reddit.com/r/funny/comments/11aijf3/my_friend_and_i_spoke_about_his_lights_he_said_he/)
- - 🚯 [I can&#39;t believe this license plate is real](https://www.reddit.com/r/funny/comments/11ahpyi/i_cant_believe_this_license_plate_is_real/)
- - 🚯 [Someone drew a penis on my car.. well kinda](https://www.reddit.com/r/funny/comments/11ahctv/someone_drew_a_penis_on_my_car_well_kinda/)<!-- MEMES:END -->
+ - 🚖 [What’s your ideal combination?](https://www.reddit.com/r/memes/comments/11aixe0/whats_your_ideal_combination/)
+ - 🚯 [My friend and I spoke about his lights. He said he liked the blue color. I don&#39;t think he knows. 😏](https://www.reddit.com/r/funny/comments/11aijf3/my_friend_and_i_spoke_about_his_lights_he_said_he/)
+ - 🚯 [I can&#39;t believe this license plate is real](https://www.reddit.com/r/funny/comments/11ahpyi/i_cant_believe_this_license_plate_is_real/)<!-- MEMES:END -->
 
 --- 
 
