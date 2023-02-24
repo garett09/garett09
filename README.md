@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)
- - [Many Apple online services experienced extended outage [u]](https://appleinsider.com/articles/23/02/23/nearly-every-apple-online-service-is-down-in-ongoing-global-outage?utm_medium=rss)
- - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: Apple plans a cheaper second-gen AR/MR headset with two high-end and low-end models, built by Luxcaseict and Foxconn, respectively, likely coming in 2025 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230224/p2#a230224p2)
+ - [9 People Hold the Internet’s Fate in Their Hands](https://www.wired.com/story/scotus-section-230/)
+ - [Amazon Has a Donkey Meat Problem](https://www.wired.com/story/amazon-donkey-meat-california/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
