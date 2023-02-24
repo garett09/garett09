@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)
- - [All Physical 100 challenges, definitively ranked](https://www.polygon.com/23610749/physical-100-challenges-ranked)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [The best SSDs for Xbox Series X](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)
+ - [The First Few Hours With Steam Hit Sons Of The Forest, A Terrifying Survival Horror](https://kotaku.com/sons-of-the-forest-steam-pc-survival-horror-crafting-1850156293)
+ - [Overwatch Players Want The Mei Murder Grenade To Be Real](https://kotaku.com/overwatch-2-cassidy-changes-mei-skins-disabled-grenade-1850156206)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
