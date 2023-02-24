@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I’m not sure if this is meant to be enticing or deterring 🤔 🤦🏽‍♂️](https://www.reddit.com/r/funny/comments/11aaeov/im_not_sure_if_this_is_meant_to_be_enticing_or/)
- - 🚯 [Parked at the Airport right next to my house!](https://www.reddit.com/r/funny/comments/11a9q0v/parked_at_the_airport_right_next_to_my_house/)
- - 🚯 [Me: Black and green](https://www.reddit.com/r/memes/comments/11a9ibr/me_black_and_green/)<!-- MEMES:END -->
+ - 🚖 [The auto fill for a single @ character](https://www.reddit.com/r/funny/comments/11adixg/the_auto_fill_for_a_single_character/)
+ - 🚯 [Kids will be kids](https://www.reddit.com/r/funny/comments/11adh8p/kids_will_be_kids/)
+ - 🚯 [Ducttape can fix it](https://www.reddit.com/r/funny/comments/11acftf/ducttape_can_fix_it/)<!-- MEMES:END -->
 
 --- 
 
