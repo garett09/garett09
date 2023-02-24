@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best SSDs for Xbox Series X](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)
- - [The First Few Hours With Steam Hit Sons Of The Forest, A Terrifying Survival Horror](https://kotaku.com/sons-of-the-forest-steam-pc-survival-horror-crafting-1850156293)
- - [Overwatch Players Want The Mei Murder Grenade To Be Real](https://kotaku.com/overwatch-2-cassidy-changes-mei-skins-disabled-grenade-1850156206)<!-- GAME:END -->
+ - [Where to find the rope gun for the zipline in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-rope-gun-zipline-location)
+ - [Call of Duty will get a full, all-new game in 2023, says report](https://www.polygon.com/23613882/call-of-duty-2023-game-modern-warfare-new)
+ - [Where to find the rebreather in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-rebreather-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
