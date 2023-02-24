@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slovenia doesn&#39;t play.](http://9gag.com/gag/aL1njd5)
- - 🚯 [Is that good?](http://9gag.com/gag/aDY2xnO)
- - 🚯 [Nature can be scary](http://9gag.com/gag/aMEVjoG)<!-- MEMES:END -->
+ - 🚖 [Harvey Weinstein was sentenced to 16 years in prison](http://9gag.com/gag/aeQ9e5q)
+ - 🚯 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
+ - 🚯 [Lolololol](http://9gag.com/gag/aKEG2Yj)<!-- MEMES:END -->
 
 --- 
 
