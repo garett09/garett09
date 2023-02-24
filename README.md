@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ampler Axel e-bike review: this is the way](https://www.theverge.com/23611678/ampler-electric-bike-review-sporty-commuter-europe)
- - [Should you wait for the Google Pixel 8 or buy the Samsung Galaxy S23?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-3285685/)
- - [&#39;The Last of Us&#39; Episode 6 Editing Error Spotted By Viewers     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-6-editing-error-spotted-by-viewers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First Android phone with built-in two-way satellite texting is here](https://www.androidauthority.com/motorola-defy-2-cat-s-75-3289000/)
+ - [MediaTek announces satellite chip that can be used with any 4G/5G smartphone](https://www.androidauthority.com/mediatek-satellite-chip-3288741/)
+ - [How Ukraine’s Trains Kept Running Despite Bombs, Blackouts, and Biden](https://www.wired.com/story/how-ukraines-trains-kept-running-despite-bombs-blackouts-and-biden/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
