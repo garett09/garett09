@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Should You Believe When Chatbots Go Wild?](https://www.wired.com/story/plaintext-who-should-you-believe-when-chatbots-go-wild/)
- - [&#39;The Last of Us&#39; Signals the End of an Era](https://www.wired.com/story/last-of-us-end-of-an-era/)
- - [iPhone 15 with USB-C, iOS 16.4 Features, noninvasive testing for diabetics, more](https://appleinsider.com/articles/23/02/24/iphone-15-with-usb-c-ios-164-features-noninvasive-testing-for-diabetics-more?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Ericsson plans to lay off 8,500 of its 105K+ employees, or 8% of its staff; in December, the company said it would cut costs by ~$880M by the end of 2023 &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230224/p5#a230224p5)
+ - [Any iPhone can get satellite communications with this gadget](https://appleinsider.com/articles/23/02/24/any-iphone-can-get-satellite-communications-with-this-gadget?utm_medium=rss)
+ - [Score Samsung&#39;s Budget-Friendly A7 Lite Tablet for Just $110 Today Only     - CNET](https://www.cnet.com/deals/score-samsungs-budget-friendly-a7-lite-tablet-110/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
