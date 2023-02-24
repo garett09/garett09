@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To whoever owns this car:](https://www.reddit.com/r/funny/comments/11akw9v/to_whoever_owns_this_car/)
- - 🚯 [I see it.](https://www.reddit.com/r/funny/comments/11ajh0z/i_see_it/)
- - 🚯 [Everywhere I look](https://www.reddit.com/r/memes/comments/11ajfzr/everywhere_i_look/)<!-- MEMES:END -->
+ - 🚖 [The English language is a mystery to some people](https://www.reddit.com/r/memes/comments/11aly88/the_english_language_is_a_mystery_to_some_people/)
+ - 🚯 [Aldi Sculpting Facial Roller. ‘Vibrating’ Sculpting Facial Roller.](https://www.reddit.com/r/funny/comments/11al0dk/aldi_sculpting_facial_roller_vibrating_sculpting/)
+ - 🚯 [I see it.](https://www.reddit.com/r/funny/comments/11ajh0z/i_see_it/)<!-- MEMES:END -->
 
 --- 
 
