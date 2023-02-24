@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lincoln, Nebraska-based Spreetail, which offers logistics, customer support, and content services to e-commerce brands, raised $208M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230223/p46#a230223p46)
  - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [These Lovable Bald Eagles Are Relationship Goals     - CNET](https://www.cnet.com/science/biology/these-lovable-bald-eagles-are-relationship-goals/#ftag=CAD590a51e)
- - [All the 2023 Video Game Release Dates You Need to Know     - CNET](https://www.cnet.com/tech/gaming/all-the-2023-video-game-release-dates-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Lovable Bald Eagles Are Relationship Goals     - CNET](https://www.cnet.com/science/biology/these-lovable-bald-eagles-are-relationship-goals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
