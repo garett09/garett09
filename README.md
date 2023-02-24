@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Romero honoured alongside the teacher who made world&#39;s first edutainment game](https://www.pcgamer.com/john-romero-honoured-alongside-the-teacher-who-made-worlds-first-edutainment-game)
- - [The best Alien game that isn&#39;t an Alien game is free for a week](https://www.pcgamer.com/the-best-alien-game-that-isnt-an-alien-game-is-free-for-a-week)
- - [ASRock B650E PG-ITX WiFi](https://www.pcgamer.com/asrock-b650e-pg-itx-motherboard-review)<!-- GAME:END -->
+ - [A nitty gritty look at PowerWash Simulator’s Final Fantasy VII content, out March 2](https://blog.playstation.com/2023/02/24/a-nitty-gritty-look-at-powerwash-simulators-final-fantasy-vii-content-out-march-2/)
+ - [iBUYPOWER celebrates the launch of the HYTE Y40 Case with two new RDY systems](https://www.pcgamer.com/ibuypower-celebrates-the-launch-of-the-hyte-y40-case-with-two-new-rdy-systems)
+ - [Kerbal Space Program 2 delivers a hell of a rush](https://www.polygon.com/23612194/kerbal-space-program-2-early-access-release-date-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
