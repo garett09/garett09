@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to take a screenshot on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-take-a-screenshot-on-apple-watch?utm_medium=rss)
- - [Remembering Steve Jobs on his 68th birthday](https://appleinsider.com/articles/20/02/24/remembering-steve-jobs-on-what-would-be-his-65th-birthday?utm_medium=rss)
- - [Leaked image reveals Bose’s next noise-cancelling headphones](https://www.androidauthority.com/bose-quietcomfort-ultra-3289164/)<!-- TECH:END -->
+ - [Meta releases a new foundational LLM called Large Language Model Meta AI, or LLaMA, available in sizes ranging from 7B to 65B parameters, to help AI researchers &lpar;Meta AI&rpar;](http://www.techmeme.com/230224/p7#a230224p7)
+ - [&#39;Dune Messiah&#39; Feels Like a First Draft](https://www.wired.com/2023/02/geeks-guide-dune-messiah/)
+ - [Who Should You Believe When Chatbots Go Wild?](https://www.wired.com/story/plaintext-who-should-you-believe-when-chatbots-go-wild/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
