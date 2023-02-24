@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock B650E PG-ITX WiFi](https://www.pcgamer.com/asrock-b650e-pg-itx-motherboard-review)
- - [Intel CEO slams Arrow Lake CPU delay rumours](https://www.pcgamer.com/intel-ceo-slams-arrow-lake-cpu-delay-rumours)
- - [Wordle hint and answer #615: Friday, February 24](https://www.pcgamer.com/wordle-hint-answer-today-615-february-24)<!-- GAME:END -->
+ - [John Romero honoured alongside the teacher who made world&#39;s first edutainment game](https://www.pcgamer.com/john-romero-honoured-alongside-the-teacher-who-made-worlds-first-edutainment-game)
+ - [The best Alien game that isn&#39;t an Alien game is free for a week](https://www.pcgamer.com/the-best-alien-game-that-isnt-an-alien-game-is-free-for-a-week)
+ - [ASRock B650E PG-ITX WiFi](https://www.pcgamer.com/asrock-b650e-pg-itx-motherboard-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
