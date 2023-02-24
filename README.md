@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Major League Soccer opening weekend for free](https://appleinsider.com/inside/iphone/tips/how-to-watch-major-league-soccer-opening-weekend-for-free?utm_medium=rss)
- - [How the founders of the Buy Nothing Project, which grew via Facebook Groups of neighbors exchanging free stuff, built their own app amid member resentment &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230224/p3#a230224p3)
- - [Human Art Already Has So Much In Common With AI](https://www.wired.com/story/generative-art-algorithms-creativity/)<!-- TECH:END -->
+ - [Who Should You Believe When Chatbots Go Wild?](https://www.wired.com/story/plaintext-who-should-you-believe-when-chatbots-go-wild/)
+ - [&#39;The Last of Us&#39; Signals the End of an Era](https://www.wired.com/story/last-of-us-end-of-an-era/)
+ - [iPhone 15 with USB-C, iOS 16.4 Features, noninvasive testing for diabetics, more](https://appleinsider.com/articles/23/02/24/iphone-15-with-usb-c-ios-164-features-noninvasive-testing-for-diabetics-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
