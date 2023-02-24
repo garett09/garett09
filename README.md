@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A nitty gritty look at PowerWash Simulator’s Final Fantasy VII content, out March 2](https://blog.playstation.com/2023/02/24/a-nitty-gritty-look-at-powerwash-simulators-final-fantasy-vii-content-out-march-2/)
- - [iBUYPOWER celebrates the launch of the HYTE Y40 Case with two new RDY systems](https://www.pcgamer.com/ibuypower-celebrates-the-launch-of-the-hyte-y40-case-with-two-new-rdy-systems)
- - [Kerbal Space Program 2 delivers a hell of a rush](https://www.polygon.com/23612194/kerbal-space-program-2-early-access-release-date-impressions)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 27 to March 3](https://news.xbox.com/en-us/2023/02/24/next-week-on-xbox-new-games-for-february-27-to-march-3/)
+ - [If every franchise needs a kid, at least Star Trek: Picard does it well](https://www.polygon.com/23612257/star-trek-picard-son-spoiler)
+ - [Captain Pikachu’s reporting for duty in the new Pokémon anime](https://www.polygon.com/pokemon/23613332/pokemon-anime-new-pikachu-professor-friede)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
