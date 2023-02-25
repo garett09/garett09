@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cheapest way to preserve food . 6 months preserved grapes &lpar;still fresh&rpar;](http://9gag.com/gag/a8q7pZd)
- - 🚯 [Another angle.](http://9gag.com/gag/aGEy0yn)
- - 🚯 [I was today years old when I found out this is not normal vision](http://9gag.com/gag/aQEzM07)<!-- MEMES:END -->
+ - 🚖 [Girlfriends](http://9gag.com/gag/abvApoX)
+ - 🚯 [What can you even say](http://9gag.com/gag/agomLzW)
+ - 🚯 [Thomas Wedders, also known as Thomas Wadhouse, born in Yorkshire, England, circa 1730, was a performer in various circus sideshows in the mid-18th century. He is chiefly known for having the world&#39;s longest nose, allegedly measuring 7.8 inches &lpar;20 cm&rpar; long.](http://9gag.com/gag/armybQ6)<!-- MEMES:END -->
 
 --- 
 
