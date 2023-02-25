@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Tried Vertu’s ‘Web3’ Phone. It Scared Us](https://www.wired.com/story/we-tried-vertus-web3-phone-it-scared-us/)
- - [Best Cheap Gear Under $200 &lpar;2023&rpar;: Speakers, Bags, Kitchen Gear, and More](https://www.wired.com/gallery/our-favorite-gear-under-200-dollars/)
- - [10 Best Deals: Camping, Hiking, and Fitness Gear](https://www.wired.com/story/weekend-deals-february-25-2023/)<!-- TECH:END -->
+ - [iPhone 15 Pro Max camera bump could go on a diet](https://appleinsider.com/articles/23/02/25/iphone-15-pro-max-camera-bump-could-go-on-a-diet?utm_medium=rss)
+ - [Hey Google, I should be able to pair a Pixel Watch and Fitbit to the same phone](https://www.androidauthority.com/pixel-watch-fitbit-one-account-phone-3282596/)
+ - [The Best Gear for Small Kitchens &lpar;2023&rpar;: Storage, Cookware, and Other Tips](https://www.wired.com/story/best-gear-for-small-kitchens/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
