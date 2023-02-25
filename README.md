@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sequoia resigned from Citizen&#39;s board, after the startup offered a &quot;pay to play&quot; deal obliging existing investors to participate in a new funding round &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/230225/p13#a230225p13)
  - [9 Best Speakers for Kids: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)
- - [Experts caution the proliferation of unmanned aerial vehicles is driving militaries in Ukraine and beyond toward automation, creating a dangerous slippery slope &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230225/p12#a230225p12)
- - [Frankenstein’s earbuds would sound monstrously good](https://www.androidauthority.com/frankensteins-best-earbud-features-3280389/)<!-- TECH:END -->
+ - [Experts caution the proliferation of unmanned aerial vehicles is driving militaries in Ukraine and beyond toward automation, creating a dangerous slippery slope &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230225/p12#a230225p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
