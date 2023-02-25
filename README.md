@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to integrate its logistics network and SaaS tools with India&#39;s Open Network for Digital Commerce, after Paytm and others committed to joining ONDC &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230224/p16#a230224p16)
- - [Best Mattress in a Box for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes and Marvel Cameo, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-marvel-cameo-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Consultant&#39; Finale Recap: Regus Gets Results     - CNET](https://www.cnet.com/culture/entertainment/the-consultant-finale-recap-regus-gets-results/#ftag=CAD590a51e)
+ - [The Best LastPass Alternative in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)
+ - [Amazon plans to integrate its logistics network and SaaS tools with India&#39;s Open Network for Digital Commerce, after Paytm and others committed to joining ONDC &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230224/p16#a230224p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
