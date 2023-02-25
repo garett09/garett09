@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sequoia resigned from Citizen&#39;s board, after the startup offered a &quot;pay to play&quot; deal obliging existing investors to participate in a new funding round &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/230225/p13#a230225p13)
- - [9 Best Speakers for Kids: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)
- - [Experts caution the proliferation of unmanned aerial vehicles is driving militaries in Ukraine and beyond toward automation, creating a dangerous slippery slope &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230225/p12#a230225p12)<!-- TECH:END -->
+ - [Hidden AirTags used to investigate Singapore recycling failures](https://appleinsider.com/articles/23/02/25/hidden-airtags-used-to-investigate-singapore-recycling-failures?utm_medium=rss)
+ - [Report: 69,190 semiconductor patents were filed globally in 2022, up 9% YoY; China accounted for 55% of filings, the US accounted for 26%, and UK for 0.26% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230225/p14#a230225p14)
+ - [Star Trek: Picard’s season three premiere is free to watch online](https://www.theverge.com/2023/2/25/23614903/star-trek-picard-season-three-premiere-watch-free-paramount)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
