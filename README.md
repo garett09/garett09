@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia launches trio of phones focused on repairability, durability, and imaging](https://www.androidauthority.com/new-nokia-budget-phones-3289425/)
- - [Spotify’s AI DJ Has No Soul](https://www.wired.com/story/spotify-ai-dj/)
- - [Security News This Week: Sensitive US Military Emails Exposed](https://www.wired.com/story/us-military-email-leak/)<!-- TECH:END -->
+ - [Daily deals Feb. 25: $549 M2 Mac mini, $219 Apple Watch SE, a Beats Fit Pro offer, and more](https://appleinsider.com/articles/23/02/25/daily-deals-feb-25-549-m2-mac-mini-219-apple-watch-se-a-beats-fit-pro-offer-and-more?utm_medium=rss)
+ - [How Weight-Loss Solutions for Children Highlight the Complexity of Obesity     - CNET](https://www.cnet.com/health/medical/how-weight-loss-solutions-for-children-highlight-the-complexity-of-obesity/#ftag=CAD590a51e)
+ - [How thieves are watching iPhone owners publicly tap their passcodes to lock victims out of accounts, access data, and loot financial apps after stealing devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230225/p7#a230225p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
