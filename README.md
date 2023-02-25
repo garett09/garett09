@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Frankenstein’s earbuds would sound monstrously good](https://www.androidauthority.com/frankensteins-best-earbud-features-3280389/)
  - [The skirmishes over generative AI show how tech companies have become political lightning rods, as even efforts to steer AI away from politics can appear biased &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230225/p11#a230225p11)
- - [Best laser printers for Mac in 2023: revolutionize your printing experience](https://appleinsider.com/inside/mac/best/best-laser-printer-for-mac?utm_medium=rss)
- - [HMD Global announces the &amp;pound;150 Nokia G22, claims users will be able to replace its battery in around 5 minutes and screen in 20 minutes using a kit from iFixit &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230225/p10#a230225p10)<!-- TECH:END -->
+ - [Best laser printers for Mac in 2023: revolutionize your printing experience](https://appleinsider.com/inside/mac/best/best-laser-printer-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
