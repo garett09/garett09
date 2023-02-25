@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They aren&#39;t even trying. This will lead to nothing, and pedophiles will walk free.](http://9gag.com/gag/a5XQrnN)
- - 🚯 [Botstuff? or is some poor soul &lpar;or just poor&rpar; creating multiple accounts to post the same links?](http://9gag.com/gag/aA0ydqZ)
- - 🚯 [Eating out is okay I guess](http://9gag.com/gag/aPgABWq)<!-- MEMES:END -->
+ - 🚖 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
+ - 🚯 [Lolololol](http://9gag.com/gag/aKEG2Yj)
+ - 🚯 [A simple database for academic purposes](http://9gag.com/gag/a7qo3Q2)<!-- MEMES:END -->
 
 --- 
 
