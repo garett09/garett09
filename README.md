@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #616: Saturday, February 25](https://www.pcgamer.com/wordle-hint-answer-today-616-february-25)
  - [Overwatch 2 director confirms what we already knew: the &#39;meta&#39; isn&#39;t all that important](https://www.pcgamer.com/overwatch-2-director-confirms-what-we-already-knew-the-meta-isnt-all-that-important)
- - [The Street Fighter 6 trailers are getting me hyped to once again pretend I&#39;m finally going to get good at Street Fighter](https://www.pcgamer.com/street-fighter-6-cammy-zangief-lily)
- - [How to complete every bond in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608883/like-a-dragon-ishin-bonds-guide-locations-rewards-tasks)<!-- GAME:END -->
+ - [The Street Fighter 6 trailers are getting me hyped to once again pretend I&#39;m finally going to get good at Street Fighter](https://www.pcgamer.com/street-fighter-6-cammy-zangief-lily)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
