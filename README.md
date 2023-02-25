@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Consultant&#39; Finale Recap: Regus Gets Results     - CNET](https://www.cnet.com/culture/entertainment/the-consultant-finale-recap-regus-gets-results/#ftag=CAD590a51e)
- - [The Best LastPass Alternative in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)
- - [Amazon plans to integrate its logistics network and SaaS tools with India&#39;s Open Network for Digital Commerce, after Paytm and others committed to joining ONDC &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230224/p16#a230224p16)<!-- TECH:END -->
+ - [Best OTA DVR for Cord Cutters     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
+ - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)
+ - [Best Unlimited Internet Plans With No Data Caps     - CNET](https://www.cnet.com/news/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
