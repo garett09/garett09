@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD Global announces the &amp;pound;150 Nokia G22, claims users will be able to replace its battery in around 5 minutes and screen in 20 minutes using a kit from iFixit &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230225/p10#a230225p10)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-473-3289404/)
- - [The Weekly Authority: 🐣 Weighty Pixel Fold, eggsorbitant prices, and more](https://www.androidauthority.com/the-weekly-authority-february-25-2023-233-3287163/)<!-- TECH:END -->
+ - [The skirmishes over generative AI show how tech companies have become political lightning rods, as even efforts to steer AI away from politics can appear biased &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230225/p11#a230225p11)
+ - [Best laser printers for Mac in 2023: revolutionize your printing experience](https://appleinsider.com/inside/mac/best/best-laser-printer-for-mac?utm_medium=rss)
+ - [HMD Global announces the &amp;pound;150 Nokia G22, claims users will be able to replace its battery in around 5 minutes and screen in 20 minutes using a kit from iFixit &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230225/p10#a230225p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
