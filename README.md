@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
- - 🚯 [Please come in](http://9gag.com/gag/aNwDgor)
- - 🚯 [It is Thursday my dudes.](http://9gag.com/gag/awZyVXr)<!-- MEMES:END -->
+ - 🚖 [Ride with superman](http://9gag.com/gag/amAoBw4)
+ - 🚯 [Fear is proof of a degenerate mind.](http://9gag.com/gag/aDY21zN)
+ - 🚯 [Nature can be scary](http://9gag.com/gag/aMEVjoG)<!-- MEMES:END -->
 
 --- 
 
