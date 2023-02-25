@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Internet Reacts To Street Fighter 6&#39;s New Cammy](https://kotaku.com/street-fighter-6-cammy-white-stretch-trailer-reaction-1850158109)
  - [The wizard of gaming psychedelia is back on his bullshit](https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade)
- - [The Yakuza Devs Are Stunting On The Entire Gaming Industry](https://kotaku.com/ryu-ga-gotoku-yakuza-like-a-dragon-devs-fashion-drip-1850157702)
- - [Polygon Court: Did Titanic get the wrong ending?](https://www.polygon.com/23613387/titanic-alternate-ending-meaning)<!-- GAME:END -->
+ - [The Yakuza Devs Are Stunting On The Entire Gaming Industry](https://kotaku.com/ryu-ga-gotoku-yakuza-like-a-dragon-devs-fashion-drip-1850157702)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
