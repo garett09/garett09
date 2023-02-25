@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
- - 🚯 [The only good use of AI](http://9gag.com/gag/ajVP5Q8)
- - 🚯 [Not my fault\u2026 I think](http://9gag.com/gag/aA0yDbZ)<!-- MEMES:END -->
+ - 🚖 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
+ - 🚯 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
+ - 🚯 [The only good use of AI](http://9gag.com/gag/ajVP5Q8)<!-- MEMES:END -->
 
 --- 
 
