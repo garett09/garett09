@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max camera bump could go on a diet](https://appleinsider.com/articles/23/02/25/iphone-15-pro-max-camera-bump-could-go-on-a-diet?utm_medium=rss)
- - [Hey Google, I should be able to pair a Pixel Watch and Fitbit to the same phone](https://www.androidauthority.com/pixel-watch-fitbit-one-account-phone-3282596/)
- - [The Best Gear for Small Kitchens &lpar;2023&rpar;: Storage, Cookware, and Other Tips](https://www.wired.com/story/best-gear-for-small-kitchens/)<!-- TECH:END -->
+ - [Nokia launches trio of phones focused on repairability, durability, and imaging](https://www.androidauthority.com/new-nokia-budget-phones-3289425/)
+ - [Spotify’s AI DJ Has No Soul](https://www.wired.com/story/spotify-ai-dj/)
+ - [Security News This Week: Sensitive US Military Emails Exposed](https://www.wired.com/story/us-military-email-leak/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
