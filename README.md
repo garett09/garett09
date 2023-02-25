@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
- - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)
- - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
+ - 🚖 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
+ - 🚯 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
+ - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)<!-- MEMES:END -->
 
 --- 
 
