@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales Of Symphonia Switch Remaster Is A Major Bummer, Devs Apologize](https://kotaku.com/tales-symphonia-switch-remaster-framerate-patch-jrpg-1850157873)
- - [Baldur’s Gate 3 hits PS5 and PC this summer, but not Xbox](https://www.polygon.com/23613558/baldurs-gate-3-release-date-ps5-pc-xbox)
- - [I tried the &#39;world&#39;s first crypto-backed energy drink,&#39; and it tastes like it was secreted from the blockchain](https://www.pcgamer.com/i-tried-the-worlds-first-crypto-backed-energy-drink-and-it-tastes-like-it-was-secreted-from-the-blockchain)<!-- GAME:END -->
+ - [The Street Fighter 6 trailers are getting me hyped to once again pretend I&#39;m finally going to get good at Street Fighter](https://www.pcgamer.com/street-fighter-6-cammy-zangief-lily)
+ - [How to complete every bond in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608883/like-a-dragon-ishin-bonds-guide-locations-rewards-tasks)
+ - [How to befriend Virginia in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-virginia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
