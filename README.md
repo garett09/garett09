@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)
- - 🚯 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
+ - 🚖 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
+ - 🚯 [The only good use of AI](http://9gag.com/gag/ajVP5Q8)
  - 🚯 [Not my fault\u2026 I think](http://9gag.com/gag/aA0yDbZ)<!-- MEMES:END -->
 
 --- 
