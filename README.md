@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
- - 🚯 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
- - 🚯 [Perhaps I&#39;m a slowpoke here, but I can&#39;t be the only one. It really is that bad, isn&#39;t it? You better move out while you still can.](http://9gag.com/gag/aZDZ0bV)<!-- MEMES:END -->
+ - 🚖 [Little Pete sneaks into East Palestine at 7 am before the angry residents get up and does a photo op with the bureaucracy.](http://9gag.com/gag/a2KvdG9)
+ - 🚯 [Elite Europeans](http://9gag.com/gag/aL1njwM)
+ - 🚯 [There&#39;s no way this guy was ever serious. He&#39;s just trolling right? ...Right?](http://9gag.com/gag/ajVPEEQ)<!-- MEMES:END -->
 
 --- 
 
