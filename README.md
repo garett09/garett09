@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch these movies before they leave streaming at the end of February](https://www.polygon.com/what-to-watch/2023/2/25/23607079/best-movies-netflix-amazon-hulu-hbo-leaving-february-2023)
- - [How to get Primal Energy for Kyogre and Groudon’s Primal Reversion in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23611639/primal-kyogre-primal-groudon-primal-reversion-energy)
- - [How to get Torkoal, Tropius, and Relicanth in Pokémon Go this weekend](https://www.polygon.com/pokemon-go-guide/2023/2/25/23612318/torkoal-tropius-relicanth-regional-10km-egg)<!-- GAME:END -->
+ - [Polygon Court: Did Titanic get the wrong ending?](https://www.polygon.com/23613387/titanic-alternate-ending-meaning)
+ - [This Shiny Pokémon May Have A Competitive Advantage In Scarlet And Violet](https://kotaku.com/shiny-pokemon-scarlet-violet-tatsugiri-dondozo-wolfey-1850157723)
+ - [Watch these movies before they leave streaming at the end of February](https://www.polygon.com/what-to-watch/2023/2/25/23607079/best-movies-netflix-amazon-hulu-hbo-leaving-february-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
