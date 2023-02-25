@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon Court: Did Titanic get the wrong ending?](https://www.polygon.com/23613387/titanic-alternate-ending-meaning)
- - [This Shiny Pokémon May Have A Competitive Advantage In Scarlet And Violet](https://kotaku.com/shiny-pokemon-scarlet-violet-tatsugiri-dondozo-wolfey-1850157723)
- - [Watch these movies before they leave streaming at the end of February](https://www.polygon.com/what-to-watch/2023/2/25/23607079/best-movies-netflix-amazon-hulu-hbo-leaving-february-2023)<!-- GAME:END -->
+ - [The wizard of gaming psychedelia is back on his bullshit](https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade)
+ - [The Yakuza Devs Are Stunting On The Entire Gaming Industry](https://kotaku.com/ryu-ga-gotoku-yakuza-like-a-dragon-devs-fashion-drip-1850157702)
+ - [Polygon Court: Did Titanic get the wrong ending?](https://www.polygon.com/23613387/titanic-alternate-ending-meaning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
