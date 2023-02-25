@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another kind of sheeple](http://9gag.com/gag/ap9RvZM)
- - 🚯 [Just a neutral reminder: Almost 2 years ago, judge it how you want. Peace was never an option for them.](http://9gag.com/gag/ap9Rvwb)
- - 🚯 [A purrfect fit!](http://9gag.com/gag/ap9RvzE)<!-- MEMES:END -->
+ - 🚖 [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
+ - 🚯 [UPS driver wasn&#39;t even going to attempt to deliver. Didn&#39;t bring box. Didn&#39;t knock.](http://9gag.com/gag/aYVQ71O)
+ - 🚯 [A simple database for academic purposes](http://9gag.com/gag/a7qo3Q2)<!-- MEMES:END -->
 
 --- 
 
