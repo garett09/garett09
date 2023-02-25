@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC drops its administrative trial to block Meta&#39;s acquisition of Within less than a month after its federal court loss, handing a final victory to Meta &lpar;Jan Wolfe/Wall Street Journal&rpar;](http://www.techmeme.com/230225/p1#a230225p1)
  - [Best OTA DVR for Cord Cutters     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)
- - [Best Unlimited Internet Plans With No Data Caps     - CNET](https://www.cnet.com/news/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
