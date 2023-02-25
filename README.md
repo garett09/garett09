@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #616: Saturday, February 25](https://www.pcgamer.com/wordle-hint-answer-today-616-february-25)
- - [Overwatch 2 director confirms what we already knew: the &#39;meta&#39; isn&#39;t all that important](https://www.pcgamer.com/overwatch-2-director-confirms-what-we-already-knew-the-meta-isnt-all-that-important)
- - [The Street Fighter 6 trailers are getting me hyped to once again pretend I&#39;m finally going to get good at Street Fighter](https://www.pcgamer.com/street-fighter-6-cammy-zangief-lily)<!-- GAME:END -->
+ - [How to get Primal Energy for Kyogre and Groudon’s Primal Reversion in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23611639/primal-kyogre-primal-groudon-primal-reversion-energy)
+ - [How to get Torkoal, Tropius, and Relicanth in Pokémon Go this weekend](https://www.polygon.com/pokemon-go-guide/2023/2/25/23612318/torkoal-tropius-relicanth-regional-10km-egg)
+ - [Pokémon Go Deoxys weakness, counters, and best moveset](https://www.polygon.com/pokemon-go-guide/2019/9/9/20857492/deoxys-counters-weakness-best-movesets-normal-attack-speed-defense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
