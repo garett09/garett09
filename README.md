@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elliptic: pro-Ukraine causes received $200M+ in crypto donations in the last year, with $80M+ sent directly to Ukraine&#39;s government; Russian entities got ~$5M &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230225/p8#a230225p8)
- - [Tackle Muscle Aches With This $64 Massage Gun &lpar;Save $136&rpar;     - CNET](https://www.cnet.com/deals/tackle-muscle-aches-with-this-64-massage-gun-save-136/#ftag=CAD590a51e)
- - [Samsung Opens 2023 TV Pricing With Neo QLED TVs Starting at $1,200     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-opens-2023-tv-pricing-with-neo-qled-tvs-starting-at-1200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HMD Global announces the &amp;pound;150 Nokia G22, claims users will be able to replace its battery in around 5 minutes and screen in 20 minutes using a kit from iFixit &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230225/p10#a230225p10)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-473-3289404/)
+ - [The Weekly Authority: 🐣 Weighty Pixel Fold, eggsorbitant prices, and more](https://www.androidauthority.com/the-weekly-authority-february-25-2023-233-3287163/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
