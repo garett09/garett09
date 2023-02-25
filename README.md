@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ride with superman](http://9gag.com/gag/amAoBw4)
- - 🚯 [Fear is proof of a degenerate mind.](http://9gag.com/gag/aDY21zN)
- - 🚯 [Nature can be scary](http://9gag.com/gag/aMEVjoG)<!-- MEMES:END -->
+ - 🚖 [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
+ - 🚯 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
+ - 🚯 [The cheapest way to preserve food . 6 months preserved grapes &lpar;still fresh&rpar;](http://9gag.com/gag/a8q7pZd)<!-- MEMES:END -->
 
 --- 
 
