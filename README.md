@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC drops its administrative trial to block Meta&#39;s acquisition of Within less than a month after its federal court loss, handing a final victory to Meta &lpar;Jan Wolfe/Wall Street Journal&rpar;](http://www.techmeme.com/230225/p1#a230225p1)
- - [Best OTA DVR for Cord Cutters     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A major outage has taken down Dish Network&#39;s websites, apps, and customer support systems; remote employees have been cut off from accessing their work systems &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230225/p3#a230225p3)
+ - [TikTok&#39;s test in Australia that limits some users&#39; access to licensed music is to study what is trending, how users access its service, and more, per a source &lpar;Glenn Peoples/Billboard&rpar;](http://www.techmeme.com/230225/p2#a230225p2)
+ - [The US FTC drops its administrative trial to block Meta&#39;s acquisition of Within less than a month after its federal court loss, handing a final victory to Meta &lpar;Jan Wolfe/Wall Street Journal&rpar;](http://www.techmeme.com/230225/p1#a230225p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
