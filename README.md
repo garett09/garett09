@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not my fault\u2026 I think](http://9gag.com/gag/aA0yDbZ)
- - 🚯 [Lolololol](http://9gag.com/gag/aKEG2Yj)
- - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
+ - 🚖 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
+ - 🚯 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
+ - 🚯 [Perhaps I&#39;m a slowpoke here, but I can&#39;t be the only one. It really is that bad, isn&#39;t it? You better move out while you still can.](http://9gag.com/gag/aZDZ0bV)<!-- MEMES:END -->
 
 --- 
 
