@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
- - 🚯 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
- - 🚯 [The only good use of AI](http://9gag.com/gag/ajVP5Q8)<!-- MEMES:END -->
+ - 🚖 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
+ - 🚯 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
+ - 🚯 [Ever heard gamers say: There is hardly no cheaters. I&#39;ve played for years and only seen 1 cheater. You just suck get better.](http://9gag.com/gag/aWG4m2q)<!-- MEMES:END -->
 
 --- 
 
