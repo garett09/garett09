@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch confirms Christ Jesus is better at deflecting missiles than ninja-cyborg Genji](https://www.pcgamer.com/overwatch-confirms-christ-jesus-is-better-at-deflecting-missiles-than-ninja-cyborg-genji)
- - [The indie animated movie Lamya’s Poem is a hidden gem](https://www.polygon.com/23611901/lamyas-poem-review-animated-movie)
- - [The Internet Reacts To Street Fighter 6&#39;s New Cammy](https://kotaku.com/street-fighter-6-cammy-white-stretch-trailer-reaction-1850158109)<!-- GAME:END -->
+ - [Star Warped was a parody that went through funny and came out the other side](https://www.pcgamer.com/saturday-crapshoot-star-warped)
+ - [107 Elden Ring bosses, ranked](https://www.pcgamer.com/107-elden-ring-bosses-ranked)
+ - [Overwatch confirms Christ Jesus is better at deflecting missiles than ninja-cyborg Genji](https://www.pcgamer.com/overwatch-confirms-christ-jesus-is-better-at-deflecting-missiles-than-ninja-cyborg-genji)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
