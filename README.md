@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Feb. 25: $549 M2 Mac mini, $219 Apple Watch SE, a Beats Fit Pro offer, and more](https://appleinsider.com/articles/23/02/25/daily-deals-feb-25-549-m2-mac-mini-219-apple-watch-se-a-beats-fit-pro-offer-and-more?utm_medium=rss)
- - [How Weight-Loss Solutions for Children Highlight the Complexity of Obesity     - CNET](https://www.cnet.com/health/medical/how-weight-loss-solutions-for-children-highlight-the-complexity-of-obesity/#ftag=CAD590a51e)
- - [How thieves are watching iPhone owners publicly tap their passcodes to lock victims out of accounts, access data, and loot financial apps after stealing devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230225/p7#a230225p7)<!-- TECH:END -->
+ - [Elliptic: pro-Ukraine causes received $200M+ in crypto donations in the last year, with $80M+ sent directly to Ukraine&#39;s government; Russian entities got ~$5M &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230225/p8#a230225p8)
+ - [Tackle Muscle Aches With This $64 Massage Gun &lpar;Save $136&rpar;     - CNET](https://www.cnet.com/deals/tackle-muscle-aches-with-this-64-massage-gun-save-136/#ftag=CAD590a51e)
+ - [Samsung Opens 2023 TV Pricing With Neo QLED TVs Starting at $1,200     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-opens-2023-tv-pricing-with-neo-qled-tvs-starting-at-1200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
