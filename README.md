@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
- - 🚯 [Lolololol](http://9gag.com/gag/aKEG2Yj)
- - 🚯 [A simple database for academic purposes](http://9gag.com/gag/a7qo3Q2)<!-- MEMES:END -->
+ - 🚖 [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
+ - 🚯 [Please come in](http://9gag.com/gag/aNwDgor)
+ - 🚯 [It is Thursday my dudes.](http://9gag.com/gag/awZyVXr)<!-- MEMES:END -->
 
 --- 
 
