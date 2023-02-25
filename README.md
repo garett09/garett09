@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lolololol](http://9gag.com/gag/aKEG2Yj)
- - 🚯 [Not my fault\u2026 I think](http://9gag.com/gag/aA0yDbZ)
- - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
+ - 🚖 [\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b](http://9gag.com/gag/a9qypjK)
+ - 🚯 [Baking Bread](http://9gag.com/gag/aBdyxdZ)
+ - 🚯 [Painted cockroaches](http://9gag.com/gag/aKEGV7g)<!-- MEMES:END -->
 
 --- 
 
