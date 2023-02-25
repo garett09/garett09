@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Warped was a parody that went through funny and came out the other side](https://www.pcgamer.com/saturday-crapshoot-star-warped)
- - [107 Elden Ring bosses, ranked](https://www.pcgamer.com/107-elden-ring-bosses-ranked)
- - [Overwatch confirms Christ Jesus is better at deflecting missiles than ninja-cyborg Genji](https://www.pcgamer.com/overwatch-confirms-christ-jesus-is-better-at-deflecting-missiles-than-ninja-cyborg-genji)<!-- GAME:END -->
+ - [It looks like EA is already considering Dead Space 2 and 3 remakes](https://www.pcgamer.com/it-looks-like-ea-is-already-considering-dead-space-2-and-3-remakes)
+ - [Selling 2 million copies in 24 hours, Sons of the Forest is definitely a hit](https://www.pcgamer.com/selling-2-million-copies-in-24-hours-sons-of-the-forest-is-definitely-a-hit)
+ - [Star Warped was a parody that went through funny and came out the other side](https://www.pcgamer.com/saturday-crapshoot-star-warped)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
