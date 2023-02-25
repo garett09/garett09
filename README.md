@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girlfriends](http://9gag.com/gag/abvApoX)
- - 🚯 [What can you even say](http://9gag.com/gag/agomLzW)
- - 🚯 [Thomas Wedders, also known as Thomas Wadhouse, born in Yorkshire, England, circa 1730, was a performer in various circus sideshows in the mid-18th century. He is chiefly known for having the world&#39;s longest nose, allegedly measuring 7.8 inches &lpar;20 cm&rpar; long.](http://9gag.com/gag/armybQ6)<!-- MEMES:END -->
+ - 🚖 [Not my fault\u2026 I think](http://9gag.com/gag/aA0yDbZ)
+ - 🚯 [Lolololol](http://9gag.com/gag/aKEG2Yj)
+ - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
 
 --- 
 
