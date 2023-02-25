@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frankenstein’s earbuds would sound monstrously good](https://www.androidauthority.com/frankensteins-best-earbud-features-3280389/)
- - [The skirmishes over generative AI show how tech companies have become political lightning rods, as even efforts to steer AI away from politics can appear biased &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230225/p11#a230225p11)
- - [Best laser printers for Mac in 2023: revolutionize your printing experience](https://appleinsider.com/inside/mac/best/best-laser-printer-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [9 Best Speakers for Kids: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)
+ - [Experts caution the proliferation of unmanned aerial vehicles is driving militaries in Ukraine and beyond toward automation, creating a dangerous slippery slope &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230225/p12#a230225p12)
+ - [Frankenstein’s earbuds would sound monstrously good](https://www.androidauthority.com/frankensteins-best-earbud-features-3280389/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
