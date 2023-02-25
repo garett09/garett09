@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto analytics firm Inca Digital: Huobi and KuCoin still allow traders to transact with debit cards issued by sanctioned Russian banks on their P2P platforms &lpar;Politico&rpar;](http://www.techmeme.com/230225/p5#a230225p5)
  - [A look at the Nvidia A100, a ~$10K GPU that has become a critical tool for generative AI; Nvidia has an estimated 95% market share of machine learning GPUs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230225/p4#a230225p4)
- - [A major outage has taken down Dish Network&#39;s websites, apps, and customer support systems; remote employees have been cut off from accessing their work systems &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230225/p3#a230225p3)
- - [TikTok&#39;s test in Australia that limits some users&#39; access to licensed music is to study what is trending, how users access its service, and more, per a source &lpar;Glenn Peoples/Billboard&rpar;](http://www.techmeme.com/230225/p2#a230225p2)<!-- TECH:END -->
+ - [A major outage has taken down Dish Network&#39;s websites, apps, and customer support systems; remote employees have been cut off from accessing their work systems &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230225/p3#a230225p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
