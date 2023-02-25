@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really?](http://9gag.com/gag/aqeyK3v)
- - 🚯 [Dam good times, eh? \ud83e\uddab](http://9gag.com/gag/aqeyKER)
- - 🚯 [I\u2019m calling le police](http://9gag.com/gag/aqeyKKR)<!-- MEMES:END -->
+ - 🚖 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
+ - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)
+ - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
 
 --- 
 
