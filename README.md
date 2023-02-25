@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
- - 🚯 [Birds in Mexico suddenly stop flying](http://9gag.com/gag/aMEVYvG)
- - 🚯 [The cheapest way to preserve food . 6 months preserved grapes &lpar;still fresh&rpar;](http://9gag.com/gag/a8q7pZd)<!-- MEMES:END -->
+ - 🚖 [The cheapest way to preserve food . 6 months preserved grapes &lpar;still fresh&rpar;](http://9gag.com/gag/a8q7pZd)
+ - 🚯 [Another angle.](http://9gag.com/gag/aGEy0yn)
+ - 🚯 [I was today years old when I found out this is not normal vision](http://9gag.com/gag/aQEzM07)<!-- MEMES:END -->
 
 --- 
 
