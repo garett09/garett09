@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little Pete sneaks into East Palestine at 7 am before the angry residents get up and does a photo op with the bureaucracy.](http://9gag.com/gag/a2KvdG9)
- - 🚯 [Elite Europeans](http://9gag.com/gag/aL1njwM)
- - 🚯 [There&#39;s no way this guy was ever serious. He&#39;s just trolling right? ...Right?](http://9gag.com/gag/ajVPEEQ)<!-- MEMES:END -->
+ - 🚖 [Lolololol](http://9gag.com/gag/aKEG2Yj)
+ - 🚯 [Not my fault\u2026 I think](http://9gag.com/gag/aA0yDbZ)
+ - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
 
 --- 
 
