@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto analytics firm Inca Digital: Huobi and KuCoin still allow traders to transact with debit cards issued by sanctioned Russian banks on their P2P platforms &lpar;Politico&rpar;](http://www.techmeme.com/230225/p5#a230225p5)
- - [A look at the Nvidia A100, a ~$10K GPU that has become a critical tool for generative AI; Nvidia has an estimated 95% market share of machine learning GPUs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230225/p4#a230225p4)
- - [A major outage has taken down Dish Network&#39;s websites, apps, and customer support systems; remote employees have been cut off from accessing their work systems &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230225/p3#a230225p3)<!-- TECH:END -->
+ - [We Tried Vertu’s ‘Web3’ Phone. It Scared Us](https://www.wired.com/story/we-tried-vertus-web3-phone-it-scared-us/)
+ - [Best Cheap Gear Under $200 &lpar;2023&rpar;: Speakers, Bags, Kitchen Gear, and More](https://www.wired.com/gallery/our-favorite-gear-under-200-dollars/)
+ - [10 Best Deals: Camping, Hiking, and Fitness Gear](https://www.wired.com/story/weekend-deals-february-25-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
