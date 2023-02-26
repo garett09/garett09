@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massdrop x Sennheiser HD 58X Jubilee review: Headphones for serious listening](https://appleinsider.com/articles/23/02/26/massdrop-x-sennheiser-hd-58x-jubilee-review-headphones-for-serious-listening?utm_medium=rss)
- - [Reports: 50+ Twitter staff were laid off over the weekend, including Twitter&#39;s product lead Esther Crawford, and Revue founder Martijn de Kuijper &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230226/p7#a230226p7)
- - [MWC 2023: all the phones, gadgets, and announcements coming out of Barcelona](https://www.theverge.com/23611644/mwc-barcelona-2023-news-rumors-products-announcements)<!-- TECH:END -->
+ - [Video: This Lenovo laptop doubles its screen size at the touch of a button](https://www.androidauthority.com/lenovo-rollable-screen-laptop-concept-3289909/)
+ - [Lenovo launches a slew of laptops, including one made out of food](https://www.androidauthority.com/lenovo-mwc-2023-3289847/)
+ - [Massdrop x Sennheiser HD 58X Jubilee review: Headphones for serious listening](https://appleinsider.com/articles/23/02/26/massdrop-x-sennheiser-hd-58x-jubilee-review-headphones-for-serious-listening?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
