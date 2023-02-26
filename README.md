@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Esther Crawford, who became one of the most influential leaders at Twitter after Musk&#39;s takeover, is out as Director of Product Management &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/230226/p6#a230226p6)
- - [Casely iPhone case review: rigid &amp; colorful](https://appleinsider.com/articles/23/02/26/casely-iphone-case-review-rigid-colorful?utm_medium=rss)
- - [Free Over-the-Air TV Is Getting a 4K Makeover     - CNET](https://www.cnet.com/tech/home-entertainment/free-over-the-air-tv-is-getting-a-4k-makeover/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter Blue head Esther Crawford is reportedly out at Twitter](https://www.theverge.com/2023/2/26/23615841/twitter-blue-esther-crawford-layoffs)
+ - [Apple TV+&#39;s &#39;The Boy, the Mole, the Fox and the Horse&#39; wins four Annie awards](https://appleinsider.com/articles/23/02/26/apple-tv-the-boy-the-mole-the-fox-and-the-horse-wins-two-annie-awards?utm_medium=rss)
+ - [Source: Esther Crawford, who has become one of the most influential leaders at Twitter after Musk&#39;s takeover, is out as chief executive of Twitter Payments &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/230226/p6#a230226p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
