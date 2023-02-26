@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`That&#39;s not how I remember it` - every toxic parent](http://9gag.com/gag/ajVPgzG)
- - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)
- - 🚯 [Bouncer for a moment](http://9gag.com/gag/aNwDgx6)<!-- MEMES:END -->
+ - 🚖 [On the anniversary of the Russian attack on Ukraine, a wrecked tank &lpar;Typ T-72&rpar; was placed in front of the Russian Embassy in Berlin - a memorial against the war.](http://9gag.com/gag/a4oP7oA)
+ - 🚯 [This isn\u2019t real, this is rendered via Unreal Engine 5](http://9gag.com/gag/aGEydwn)
+ - 🚯 [Do whatever you want all the time](http://9gag.com/gag/aXnPgp9)<!-- MEMES:END -->
 
 --- 
 
