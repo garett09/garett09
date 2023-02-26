@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Context](http://9gag.com/gag/aEq00VG)
- - 🚯 [You&#39;re not my mom](http://9gag.com/gag/avQyyrO)
- - 🚯 [God bless you Bruce Willis.](http://9gag.com/gag/aGEyyjZ)<!-- MEMES:END -->
+ - 🚖 [Clown world](http://9gag.com/gag/aBdyg3Z)
+ - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)
+ - 🚯 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)<!-- MEMES:END -->
 
 --- 
 
