@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Dish Network has been hit by a cyberattack &quot;by an outside bad actor&quot; and the company is working with an external vendor to resolve the issue &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230225/p18#a230225p18)
- - [Boston-based Electra Vehicles, which provides AI-based cloud and onboard software for EV battery systems optimization, raised $21M led by United Ventures &lpar;Silicon Canals&rpar;](http://www.techmeme.com/230225/p17#a230225p17)
- - [Flash deal: Apple&#39;s new MacBook Pro 14-inch drops to $1,799, a record low price](https://appleinsider.com/articles/23/02/26/flash-deal-apples-new-macbook-pro-14-inch-drops-to-1799-a-record-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [How the potential of voice as a platform was wasted: closed ecosystems, overly ambitious claims, distorted monopolistic incentives, and too much capital &lpar;Ranjan Roy/Margins&rpar;](http://www.techmeme.com/230226/p2#a230226p2)
+ - [The recovery of ~120,000 stolen ether by Jump and Oasis demonstrates the centralization of DeFi enabled by multisig-controlled upgradable smart contracts &lpar;Molly White&rpar;](http://www.techmeme.com/230226/p1#a230226p1)
+ - [Sources: Dish Network has been hit by a cyberattack &quot;by an outside bad actor&quot; and the company is working with an external vendor to resolve the issue &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230225/p18#a230225p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
