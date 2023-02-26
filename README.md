@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #617: Sunday, February 26](https://www.pcgamer.com/wordle-hint-answer-today-617-february-26)
- - [Dragon Age: Origins deserves remaster with &#39;extra-realistic slimy nipple textures&#39;, says lead writer](https://www.pcgamer.com/dragon-age-origins-deserves-remaster-with-extra-realistic-slimy-nipple-textures-says-lead-writer)
- - [Blood Bowl 3 devs address complaints, hand out free stuff](https://www.pcgamer.com/blood-bowl-3-devs-address-complaints-hand-out-free-stuff)<!-- GAME:END -->
+ - [Pokémon Go Latios and Latias Photo Safari steps, how to catch in the wild](https://www.polygon.com/pokemon-go-guide/2023/2/25/23614527/latios-latias-photo-safari-catch-wild)
+ - [Pokémon Go ‘Chasing Legends’ Special Research Tasks, choose a path Cacnea, Gulpin or Surskit rewards](https://www.polygon.com/pokemon-go-guide/23613860/chasing-legends-research-choose-a-path-cacnea-gulpin-surskit)
+ - [Pokémon Go Tour: Hoenn event guide](https://www.polygon.com/pokemon-go-guide/2023/2/25/23612365/go-tour-hoenn-ticket-habitat-schedule-bonuses-challenge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
