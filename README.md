@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
- - 🚯 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
- - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)<!-- MEMES:END -->
+ - 🚖 [Officer purposefully damages property while conducting a house search](http://9gag.com/gag/ap9R22E)
+ - 🚯 [Taxi driver crashes into police car to get attention of and escape kidnapping](http://9gag.com/gag/az2xepm)
+ - 🚯 [On Clipperton Island, &lpar;a small island in the pacific&rpar;, if you drop street view in a specific spot, this happens.](http://9gag.com/gag/armyVxX)<!-- MEMES:END -->
 
 --- 
 
