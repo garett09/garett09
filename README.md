@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Officer purposefully damages property while conducting a house search](http://9gag.com/gag/ap9R22E)
- - 🚯 [Taxi driver crashes into police car to get attention of and escape kidnapping](http://9gag.com/gag/az2xepm)
- - 🚯 [On Clipperton Island, &lpar;a small island in the pacific&rpar;, if you drop street view in a specific spot, this happens.](http://9gag.com/gag/armyVxX)<!-- MEMES:END -->
+ - 🚖 [UPS driver wasn&#39;t even going to attempt to deliver. Didn&#39;t bring box. Didn&#39;t knock.](http://9gag.com/gag/aYVQ71O)
+ - 🚯 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/a3Z4Kp8)
+ - 🚯 [Officer purposefully damages property while conducting a house search](http://9gag.com/gag/ap9R22E)<!-- MEMES:END -->
 
 --- 
 
