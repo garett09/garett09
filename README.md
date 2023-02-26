@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lincoln t\u00fcnnel](http://9gag.com/gag/aEq0q5o)
- - 🚯 [NASCAR with the third degree burn](http://9gag.com/gag/amAovBy)
- - 🚯 [This is what the world was meant for](http://9gag.com/gag/aGEygmz)<!-- MEMES:END -->
+ - 🚖 [Her neck tho](http://9gag.com/gag/aWG4gpq)
+ - 🚯 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
+ - 🚯 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)<!-- MEMES:END -->
 
 --- 
 
