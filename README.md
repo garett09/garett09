@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blood Bowl 3 devs address complaints, hand out free stuff](https://www.pcgamer.com/blood-bowl-3-devs-address-complaints-hand-out-free-stuff)
  - [Yeah, it&#39;s time to replay Elden Ring](https://www.pcgamer.com/yeah-its-time-to-replay-elden-ring)
- - [Police discovered a secret crypto-mining operation beneath a US high school](https://www.pcgamer.com/police-discovered-a-secret-crypto-mining-operation-beneath-a-us-high-school)
- - [It looks like EA is already considering Dead Space 2 and 3 remakes](https://www.pcgamer.com/it-looks-like-ea-is-already-considering-dead-space-2-and-3-remakes)<!-- GAME:END -->
+ - [Police discovered a secret crypto-mining operation beneath a US high school](https://www.pcgamer.com/police-discovered-a-secret-crypto-mining-operation-beneath-a-us-high-school)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
