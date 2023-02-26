@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hidden AirTags used to investigate Singapore recycling failures](https://appleinsider.com/articles/23/02/25/hidden-airtags-used-to-investigate-singapore-recycling-failures?utm_medium=rss)
- - [Report: 69,190 semiconductor patents were filed globally in 2022, up 9% YoY; China accounted for 55% of filings, the US accounted for 26%, and UK for 0.26% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230225/p14#a230225p14)
- - [Star Trek: Picard’s season three premiere is free to watch online](https://www.theverge.com/2023/2/25/23614903/star-trek-picard-season-three-premiere-watch-free-paramount)<!-- TECH:END -->
+ - [Q&amp;A with sci-fi author Neal Stephenson about inventing the metaverse concept, his blockchain startup Lamina1, not using ChatGPT to help write novels, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230225/p15#a230225p15)
+ - [Hidden AirTags crucial in Singapore recycling failure investigation](https://appleinsider.com/articles/23/02/25/hidden-airtags-used-to-investigate-singapore-recycling-failures?utm_medium=rss)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes and Marvel Cameo, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-marvel-cameo-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
