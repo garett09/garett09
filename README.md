@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A study on ADHD by University of Central Florida](http://9gag.com/gag/amAoPz9)
- - 🚯 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
- - 🚯 [Why does a 13 and 14 year old has a gun?](http://9gag.com/gag/aL1nnKx)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t even used their own games](http://9gag.com/gag/aREBLPy)
+ - 🚯 [This is what the world was meant for](http://9gag.com/gag/aGEygmz)
+ - 🚯 [A study on ADHD by University of Central Florida](http://9gag.com/gag/amAoPz9)<!-- MEMES:END -->
 
 --- 
 
