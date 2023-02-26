@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Atomic Heart could have been the next BioShock](https://www.polygon.com/23614033/atomic-heart-bioshock-opinion)
  - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)
- - [Diablo is haute as hell at Milan Fashion Week](https://www.polygon.com/23614687/diablo-4-milan-fashion-week-han-kjobenhavn)
- - [The Outwaters breaks the found-footage rules in squirmy ways](https://www.polygon.com/23611900/the-outwaters-review-horror-movie)<!-- GAME:END -->
+ - [Diablo is haute as hell at Milan Fashion Week](https://www.polygon.com/23614687/diablo-4-milan-fashion-week-han-kjobenhavn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
