@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Study people\u2026 the future is dark\u2026.](http://9gag.com/gag/amAoPj6)
- - 🚯 [No Matter what you do, you can&#39;t get rid of the shippers](http://9gag.com/gag/amAoPmv)
- - 🚯 [Different ways to breathe in the animal kingdom](http://9gag.com/gag/amAogQ4)<!-- MEMES:END -->
+ - 🚖 [What the hell did he do?](http://9gag.com/gag/aGEyZ1z)
+ - 🚯 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
+ - 🚯 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)<!-- MEMES:END -->
 
 --- 
 
