@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Bing Chat on mobile, and I’m not going back to Google Assistant](https://www.androidauthority.com/bing-chat-google-assistant-3289146/)
- - [Picade Review: A DIY Mini Arcade Cabinet](https://www.wired.com/review/picade/)
- - [No, the James Webb Space Telescope Hasn’t Broken Cosmology](https://www.wired.com/story/no-the-james-webb-space-telescope-hasnt-broken-cosmology/)<!-- TECH:END -->
+ - [I Got a Destiny 2 Rocket Launcher and It’s My Whole Life Now](https://www.wired.com/story/destiny-2-gjallarhorn-nerf-rocket-launcher/)
+ - [Daily deals Feb. 26: $249 10.2-inch iPad, $200 off M2 MacBook Air, $1,500 off 55-inch Samsung Odyssey Ark curved monitor, more](https://appleinsider.com/articles/23/02/26/daily-deals-feb-26-249-102-inch-ipad-200-off-m2-macbook-air-1500-off-55-inch-samsung-odyssey-ark-curved-monitor-more?utm_medium=rss)
+ - [I tried Bing Chat on mobile, and I’m not going back to Google Assistant](https://www.androidauthority.com/bing-chat-google-assistant-3289146/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
