@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Organic Mattresses and Toppers &lpar;2023&rpar;: Nontoxic, Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [Some AI companies are hiring &quot;prompt engineers&quot;, who create and refine text prompts for AI systems to understand their faults and coax optimal results &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230226/p4#a230226p4)
- - [I Got a Destiny 2 Rocket Launcher and It’s My Whole Life Now](https://www.wired.com/story/destiny-2-gjallarhorn-nerf-rocket-launcher/)<!-- TECH:END -->
+ - [Apple&#39;s AR headset probably won&#39;t need an iPhone to function](https://appleinsider.com/articles/23/02/26/apples-ar-headset-probably-wont-need-an-iphone-to-function?utm_medium=rss)
+ - [Inside Apple Exploratory Design Group, which works on a glucose monitor, other advanced tech, and was behind some of the chip and battery tech in iPhones, Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230226/p5#a230226p5)
+ - [Xiaomi 13 Pro hands-on impressions: Lucky number 13?](https://www.androidauthority.com/xiaomi-13-pro-hands-on-3287234/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
