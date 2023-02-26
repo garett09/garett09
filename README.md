@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Editors at some literary magazines say they are getting overwhelmed by AI-generated submissions, potentially crowding out genuine submissions from newer writers &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230226/p3#a230226p3)
  - [How the potential of voice as a platform was wasted: closed ecosystems, overly ambitious claims, distorted monopolistic incentives, and too much capital &lpar;Ranjan Roy/Margins&rpar;](http://www.techmeme.com/230226/p2#a230226p2)
- - [The recovery of ~120,000 stolen ether by Jump and Oasis demonstrates the centralization of DeFi enabled by multisig-controlled upgradable smart contracts &lpar;Molly White&rpar;](http://www.techmeme.com/230226/p1#a230226p1)
- - [Sources: Dish Network has been hit by a cyberattack &quot;by an outside bad actor&quot; and the company is working with an external vendor to resolve the issue &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230225/p18#a230225p18)<!-- TECH:END -->
+ - [The recovery of ~120,000 stolen ether by Jump and Oasis demonstrates the centralization of DeFi enabled by multisig-controlled upgradable smart contracts &lpar;Molly White&rpar;](http://www.techmeme.com/230226/p1#a230226p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
