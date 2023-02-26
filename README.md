@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with sci-fi author Neal Stephenson about inventing the metaverse concept, his blockchain startup Lamina1, not using ChatGPT to help write novels, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230225/p15#a230225p15)
- - [Hidden AirTags crucial in Singapore recycling failure investigation](https://appleinsider.com/articles/23/02/25/hidden-airtags-used-to-investigate-singapore-recycling-failures?utm_medium=rss)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes and Marvel Cameo, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-marvel-cameo-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As AI tools and CGI creations get better at pretending to be human, some creators say they are often being asked to prove that they&#39;re human &lpar;Kate Lindsay/The Verge&rpar;](http://www.techmeme.com/230225/p16#a230225p16)
+ - [Best Google Pixel Deals: Up to $1,000 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Q&amp;A with sci-fi author Neal Stephenson about inventing the metaverse concept, his blockchain startup Lamina1, not using ChatGPT to help write novels, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230225/p15#a230225p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
