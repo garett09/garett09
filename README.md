@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam&#39;s &lpar;Formerly&rpar; &#39;Most Hyped&#39; Zombie Game Is In The Weirdest Legal Battle](https://kotaku.com/the-day-before-steam-zombie-vaporware-trademark-name-pc-1850161449)
  - [Rough PC performance can&#39;t keep me from loving Wo Long&#39;s Wuxia action](https://www.pcgamer.com/rough-pc-performance-cant-keep-me-from-loving-wo-longs-wuxia-action)
- - [Atomic Heart could have been the next BioShock](https://www.polygon.com/23614033/atomic-heart-bioshock-opinion)
- - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
+ - [Atomic Heart could have been the next BioShock](https://www.polygon.com/23614033/atomic-heart-bioshock-opinion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
