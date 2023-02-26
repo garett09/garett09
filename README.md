@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
- - 🚯 [Humanity has no price](http://9gag.com/gag/aEq08Mn)
- - 🚯 [Taxi driver crashes into police car to get attention of and escape kidnapping](http://9gag.com/gag/az2xepm)<!-- MEMES:END -->
+ - 🚖 [God bless Japan for still providing us good not woke content](http://9gag.com/gag/avQyQgE)
+ - 🚯 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
+ - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)<!-- MEMES:END -->
 
 --- 
 
