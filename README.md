@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cosplay:D](http://9gag.com/gag/aEq0Pyn)
- - 🚯 [Squealing angry NPCs incoming](http://9gag.com/gag/ap9RGGB)
- - 🚯 [UBlock Origin + Windows Defender + Common sense is all you need](http://9gag.com/gag/a1PmoND)<!-- MEMES:END -->
+ - 🚖 [Study people\u2026 the future is dark\u2026.](http://9gag.com/gag/amAoPj6)
+ - 🚯 [No Matter what you do, you can&#39;t get rid of the shippers](http://9gag.com/gag/amAoPmv)
+ - 🚯 [Different ways to breathe in the animal kingdom](http://9gag.com/gag/amAogQ4)<!-- MEMES:END -->
 
 --- 
 
