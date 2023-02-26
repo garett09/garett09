@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Officer purposefully damages property while conducting a house search](http://9gag.com/gag/ap9R22E)
- - 🚯 [A simple database for academic purposes](http://9gag.com/gag/a7qo3Q2)
- - 🚯 [No wonder things like these happen when majority of them think that it&#39;s not okay to be white... How much are you willing to take before you have to admit the fact that you have a problem with certain demographic.](http://9gag.com/gag/a8q71AO)<!-- MEMES:END -->
+ - 🚖 [Cosplay:D](http://9gag.com/gag/aEq0Pyn)
+ - 🚯 [Squealing angry NPCs incoming](http://9gag.com/gag/ap9RGGB)
+ - 🚯 [UBlock Origin + Windows Defender + Common sense is all you need](http://9gag.com/gag/a1PmoND)<!-- MEMES:END -->
 
 --- 
 
