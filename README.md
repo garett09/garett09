@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On the anniversary of the Russian attack on Ukraine, a wrecked tank &lpar;Typ T-72&rpar; was placed in front of the Russian Embassy in Berlin - a memorial against the war.](http://9gag.com/gag/a4oP7oA)
- - 🚯 [This isn\u2019t real, this is rendered via Unreal Engine 5](http://9gag.com/gag/aGEydwn)
- - 🚯 [Do whatever you want all the time](http://9gag.com/gag/aXnPgp9)<!-- MEMES:END -->
+ - 🚖 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
+ - 🚯 [Humanity has no price](http://9gag.com/gag/aEq08Mn)
+ - 🚯 [Taxi driver crashes into police car to get attention of and escape kidnapping](http://9gag.com/gag/az2xepm)<!-- MEMES:END -->
 
 --- 
 
