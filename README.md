@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rough PC performance can&#39;t keep me from loving Wo Long&#39;s Wuxia action](https://www.pcgamer.com/rough-pc-performance-cant-keep-me-from-loving-wo-longs-wuxia-action)
  - [Atomic Heart could have been the next BioShock](https://www.polygon.com/23614033/atomic-heart-bioshock-opinion)
- - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)
- - [Diablo is haute as hell at Milan Fashion Week](https://www.polygon.com/23614687/diablo-4-milan-fashion-week-han-kjobenhavn)<!-- GAME:END -->
+ - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
