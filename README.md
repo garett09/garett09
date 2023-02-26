@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell did he do?](http://9gag.com/gag/aGEyZ1z)
- - 🚯 [Winning 3.6M on roulette with friends.](http://9gag.com/gag/avQyoPE)
- - 🚯 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)<!-- MEMES:END -->
+ - 🚖 [THE DEMOCRATICALLY ELECTED PRIME MINISTER OF CANADA : JUSTIN TRUDEAU](http://9gag.com/gag/aGEydeK)
+ - 🚯 [Ukranian Suhoi 27 pilot, emotional salute departure from Romanian airbase knowing he will return to a conflict zone. He was lost in the first hours of the invasion on 24 February.](http://9gag.com/gag/aGEyyN6)
+ - 🚯 [Biwi ke nakhree ufffff](http://9gag.com/gag/az2xmDp)<!-- MEMES:END -->
 
 --- 
 
