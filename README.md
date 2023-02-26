@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#39;t even used their own games](http://9gag.com/gag/aREBLPy)
- - 🚯 [This is what the world was meant for](http://9gag.com/gag/aGEygmz)
- - 🚯 [A study on ADHD by University of Central Florida](http://9gag.com/gag/amAoPz9)<!-- MEMES:END -->
+ - 🚖 [Lincoln t\u00fcnnel](http://9gag.com/gag/aEq0q5o)
+ - 🚯 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
+ - 🚯 [This is what the world was meant for](http://9gag.com/gag/aGEygmz)<!-- MEMES:END -->
 
 --- 
 
