@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blockstar](http://9gag.com/gag/aeQ9gwp)
- - 🚯 [We have winner in stereotype bingo](http://9gag.com/gag/amAoPe2)
- - 🚯 [That&#39;s enough internet for today](http://9gag.com/gag/awZyM9r)<!-- MEMES:END -->
+ - 🚖 [Context](http://9gag.com/gag/aEq00VG)
+ - 🚯 [You&#39;re not my mom](http://9gag.com/gag/avQyyrO)
+ - 🚯 [God bless you Bruce Willis.](http://9gag.com/gag/aGEyyjZ)<!-- MEMES:END -->
 
 --- 
 
