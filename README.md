@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outwaters breaks the found-footage rules in squirmy ways](https://www.polygon.com/23611900/the-outwaters-review-horror-movie)
- - [Vallejo created 20 new paint colors for your D&amp;D miniatures](https://www.polygon.com/23601034/dnd-dungeons-dragons-new-paint-colors)
- - [Pokémon Go Latios and Latias Photo Safari steps, how to catch in the wild](https://www.polygon.com/pokemon-go-guide/2023/2/25/23614527/latios-latias-photo-safari-catch-wild)<!-- GAME:END -->
+ - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)
+ - [Diablo is haute as hell at Milan Fashion Week](https://www.polygon.com/23614687/diablo-4-milan-fashion-week-han-kjobenhavn)
+ - [The Outwaters breaks the found-footage rules in squirmy ways](https://www.polygon.com/23611900/the-outwaters-review-horror-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
