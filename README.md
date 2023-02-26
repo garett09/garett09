@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Blue head Esther Crawford is reportedly out at Twitter](https://www.theverge.com/2023/2/26/23615841/twitter-blue-esther-crawford-layoffs)
- - [Apple TV+&#39;s &#39;The Boy, the Mole, the Fox and the Horse&#39; wins four Annie awards](https://appleinsider.com/articles/23/02/26/apple-tv-the-boy-the-mole-the-fox-and-the-horse-wins-two-annie-awards?utm_medium=rss)
- - [Source: Esther Crawford, who has become one of the most influential leaders at Twitter after Musk&#39;s takeover, is out as chief executive of Twitter Payments &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/230226/p6#a230226p6)<!-- TECH:END -->
+ - [Massdrop x Sennheiser HD 58X Jubilee review: Headphones for serious listening](https://appleinsider.com/articles/23/02/26/massdrop-x-sennheiser-hd-58x-jubilee-review-headphones-for-serious-listening?utm_medium=rss)
+ - [Reports: 50+ Twitter staff were laid off over the weekend, including Twitter&#39;s product lead Esther Crawford, and Revue founder Martijn de Kuijper &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230226/p7#a230226p7)
+ - [MWC 2023: all the phones, gadgets, and announcements coming out of Barcelona](https://www.theverge.com/23611644/mwc-barcelona-2023-news-rumors-products-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
