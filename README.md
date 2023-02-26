@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should I Learn Coding as a Second Language?](https://www.wired.com/story/should-i-learn-coding-as-a-second-language/)
- - [Editors at some literary magazines say they are getting overwhelmed by AI-generated submissions, potentially crowding out genuine submissions from newer writers &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230226/p3#a230226p3)
- - [How the potential of voice as a platform was wasted: closed ecosystems, overly ambitious claims, distorted monopolistic incentives, and too much capital &lpar;Ranjan Roy/Margins&rpar;](http://www.techmeme.com/230226/p2#a230226p2)<!-- TECH:END -->
+ - [I tried Bing Chat on mobile, and I’m not going back to Google Assistant](https://www.androidauthority.com/bing-chat-google-assistant-3289146/)
+ - [Picade Review: A DIY Mini Arcade Cabinet](https://www.wired.com/review/picade/)
+ - [No, the James Webb Space Telescope Hasn’t Broken Cosmology](https://www.wired.com/story/no-the-james-webb-space-telescope-hasnt-broken-cosmology/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
