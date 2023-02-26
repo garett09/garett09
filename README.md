@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #617: Sunday, February 26](https://www.pcgamer.com/wordle-hint-answer-today-617-february-26)
  - [Dragon Age: Origins deserves remaster with &#39;extra-realistic slimy nipple textures&#39;, says lead writer](https://www.pcgamer.com/dragon-age-origins-deserves-remaster-with-extra-realistic-slimy-nipple-textures-says-lead-writer)
- - [Blood Bowl 3 devs address complaints, hand out free stuff](https://www.pcgamer.com/blood-bowl-3-devs-address-complaints-hand-out-free-stuff)
- - [Yeah, it&#39;s time to replay Elden Ring](https://www.pcgamer.com/yeah-its-time-to-replay-elden-ring)<!-- GAME:END -->
+ - [Blood Bowl 3 devs address complaints, hand out free stuff](https://www.pcgamer.com/blood-bowl-3-devs-address-complaints-hand-out-free-stuff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
