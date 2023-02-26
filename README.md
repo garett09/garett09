@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new TCL tablet has a screen that looks and feels like paper](https://www.androidauthority.com/tcl-nxtpaper-11-mwc-2023-3289075/)
- - [TCL NXTPAPER 11 hands-on: Glare today, gone tomorrow](https://www.androidauthority.com/tcl-nxtpaper-11-hands-on-3289054/)
- - [Apple&#39;s AR headset probably won&#39;t need an iPhone to function](https://appleinsider.com/articles/23/02/26/apples-ar-headset-probably-wont-need-an-iphone-to-function?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+&#39;s &#39;The Boy, the Mole, the Fox and the Horse&#39; wins two Annie awards](https://appleinsider.com/articles/23/02/26/apple-tv-the-boy-the-mole-the-fox-and-the-horse-wins-two-annie-awards?utm_medium=rss)
+ - [Dish Network’s internal systems are so broken some employees haven’t worked in over a day](https://www.theverge.com/2023/2/24/23613737/dish-outage-internal-system-issue-boost-mobile-genesis)
+ - [This new TCL tablet has a screen that looks and feels like paper](https://www.androidauthority.com/tcl-nxtpaper-11-mwc-2023-3289075/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
