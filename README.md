@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: Apple&#39;s new MacBook Pro 14-inch drops to $1,799, a record low price](https://appleinsider.com/articles/23/02/26/flash-deal-apples-new-macbook-pro-14-inch-drops-to-1799-a-record-low-price?utm_medium=rss)
  - [As AI tools and CGI creations get better at pretending to be human, some creators say they are often being asked to prove that they&#39;re human &lpar;Kate Lindsay/The Verge&rpar;](http://www.techmeme.com/230225/p16#a230225p16)
- - [Best Google Pixel Deals: Up to $1,000 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Q&amp;A with sci-fi author Neal Stephenson about inventing the metaverse concept, his blockchain startup Lamina1, not using ChatGPT to help write novels, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230225/p15#a230225p15)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Up to $1,000 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
