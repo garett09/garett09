@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vallejo created 20 new paint colors for your D&amp;D miniatures](https://www.polygon.com/23601034/dnd-dungeons-dragons-new-paint-colors)
  - [Pokémon Go Latios and Latias Photo Safari steps, how to catch in the wild](https://www.polygon.com/pokemon-go-guide/2023/2/25/23614527/latios-latias-photo-safari-catch-wild)
- - [Pokémon Go ‘Chasing Legends’ Special Research Tasks, choose a path Cacnea, Gulpin or Surskit rewards](https://www.polygon.com/pokemon-go-guide/23613860/chasing-legends-research-choose-a-path-cacnea-gulpin-surskit)
- - [Pokémon Go Tour: Hoenn event guide](https://www.polygon.com/pokemon-go-guide/2023/2/25/23612365/go-tour-hoenn-ticket-habitat-schedule-bonuses-challenge)<!-- GAME:END -->
+ - [Pokémon Go ‘Chasing Legends’ Special Research Tasks, choose a path Cacnea, Gulpin or Surskit rewards](https://www.polygon.com/pokemon-go-guide/23613860/chasing-legends-research-choose-a-path-cacnea-gulpin-surskit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
