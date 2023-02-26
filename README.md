@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like EA is already considering Dead Space 2 and 3 remakes](https://www.pcgamer.com/it-looks-like-ea-is-already-considering-dead-space-2-and-3-remakes)
- - [Selling 2 million copies in 24 hours, Sons of the Forest is definitely a hit](https://www.pcgamer.com/selling-2-million-copies-in-24-hours-sons-of-the-forest-is-definitely-a-hit)
- - [Star Warped was a parody that went through funny and came out the other side](https://www.pcgamer.com/saturday-crapshoot-star-warped)<!-- GAME:END -->
+ - [Yeah, it&#39;s time to replay Elden Ring](https://www.pcgamer.com/yeah-its-time-to-replay-elden-ring)
+ - [Police discovered a secret crypto-mining operation beneath a US high school](https://www.pcgamer.com/police-discovered-a-secret-crypto-mining-operation-beneath-a-us-high-school)
+ - [It looks like EA is already considering Dead Space 2 and 3 remakes](https://www.pcgamer.com/it-looks-like-ea-is-already-considering-dead-space-2-and-3-remakes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
