@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Could this help our mental well-being, to do this again? For real, not that virtual B.S. from &#39;21.](http://9gag.com/gag/amAoB62)
- - 🚯 [Yay Paisanos, it&#39;s the sh*t show...... wow](http://9gag.com/gag/amAoAX2)
- - 🚯 [Cheddar Baldwin](http://9gag.com/gag/amAoAYX)<!-- MEMES:END -->
+ - 🚖 [Blockstar](http://9gag.com/gag/aeQ9gwp)
+ - 🚯 [We have winner in stereotype bingo](http://9gag.com/gag/amAoPe2)
+ - 🚯 [That&#39;s enough internet for today](http://9gag.com/gag/awZyM9r)<!-- MEMES:END -->
 
 --- 
 
