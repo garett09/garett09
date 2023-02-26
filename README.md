@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+&#39;s &#39;The Boy, the Mole, the Fox and the Horse&#39; wins two Annie awards](https://appleinsider.com/articles/23/02/26/apple-tv-the-boy-the-mole-the-fox-and-the-horse-wins-two-annie-awards?utm_medium=rss)
- - [Dish Network’s internal systems are so broken some employees haven’t worked in over a day](https://www.theverge.com/2023/2/24/23613737/dish-outage-internal-system-issue-boost-mobile-genesis)
- - [This new TCL tablet has a screen that looks and feels like paper](https://www.androidauthority.com/tcl-nxtpaper-11-mwc-2023-3289075/)<!-- TECH:END -->
+ - [Source: Esther Crawford, who became one of the most influential leaders at Twitter after Musk&#39;s takeover, is out as Director of Product Management &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/230226/p6#a230226p6)
+ - [Casely iPhone case review: rigid &amp; colorful](https://appleinsider.com/articles/23/02/26/casely-iphone-case-review-rigid-colorful?utm_medium=rss)
+ - [Free Over-the-Air TV Is Getting a 4K Makeover     - CNET](https://www.cnet.com/tech/home-entertainment/free-over-the-air-tv-is-getting-a-4k-makeover/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
