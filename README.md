@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
- - 🚯 [NASCAR with the third degree burn](http://9gag.com/gag/amAovBy)
- - 🚯 [Her neck tho](http://9gag.com/gag/aWG4gpq)<!-- MEMES:END -->
+ - 🚖 [Shrimp and gai lan &lpar;Chinese broccoli&rpar;](http://9gag.com/gag/ap9R5m8)
+ - 🚯 [One week after the anniversary of the Marjory Stoneman Douglas H.S. shooting a school in Florida is raffling off a rifle.](http://9gag.com/gag/ap9R9MW)
+ - 🚯 [Scene from the 100-year-old film LA Roue &lpar;1923&rpar;, tracking shot that was way ahead of its time](http://9gag.com/gag/ap9R9Wp)<!-- MEMES:END -->
 
 --- 
 
