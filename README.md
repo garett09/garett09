@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR headset probably won&#39;t need an iPhone to function](https://appleinsider.com/articles/23/02/26/apples-ar-headset-probably-wont-need-an-iphone-to-function?utm_medium=rss)
- - [Inside Apple Exploratory Design Group, which works on a glucose monitor, other advanced tech, and was behind some of the chip and battery tech in iPhones, Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230226/p5#a230226p5)
- - [Xiaomi 13 Pro hands-on impressions: Lucky number 13?](https://www.androidauthority.com/xiaomi-13-pro-hands-on-3287234/)<!-- TECH:END -->
+ - [This new TCL tablet has a screen that looks and feels like paper](https://www.androidauthority.com/tcl-nxtpaper-11-mwc-2023-3289075/)
+ - [TCL NXTPAPER 11 hands-on: Glare today, gone tomorrow](https://www.androidauthority.com/tcl-nxtpaper-11-hands-on-3289054/)
+ - [Apple&#39;s AR headset probably won&#39;t need an iPhone to function](https://appleinsider.com/articles/23/02/26/apples-ar-headset-probably-wont-need-an-iphone-to-function?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
