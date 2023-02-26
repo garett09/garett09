@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God bless Japan for still providing us good not woke content](http://9gag.com/gag/avQyQgE)
- - 🚯 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
- - 🚯 [How to get a gf](http://9gag.com/gag/a9qyERo)<!-- MEMES:END -->
+ - 🚖 [Officer purposefully damages property while conducting a house search](http://9gag.com/gag/ap9R22E)
+ - 🚯 [A simple database for academic purposes](http://9gag.com/gag/a7qo3Q2)
+ - 🚯 [No wonder things like these happen when majority of them think that it&#39;s not okay to be white... How much are you willing to take before you have to admit the fact that you have a problem with certain demographic.](http://9gag.com/gag/a8q71AO)<!-- MEMES:END -->
 
 --- 
 
