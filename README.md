@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)
- - 🚯 [The forbidden oreo](http://9gag.com/gag/az2xxBp)
+ - 🚖 [A study on ADHD by University of Central Florida](http://9gag.com/gag/amAoPz9)
+ - 🚯 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
  - 🚯 [Why does a 13 and 14 year old has a gun?](http://9gag.com/gag/aL1nnKx)<!-- MEMES:END -->
 
 --- 
