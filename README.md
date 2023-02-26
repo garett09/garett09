@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [THE DEMOCRATICALLY ELECTED PRIME MINISTER OF CANADA : JUSTIN TRUDEAU](http://9gag.com/gag/aGEydeK)
- - 🚯 [Ukranian Suhoi 27 pilot, emotional salute departure from Romanian airbase knowing he will return to a conflict zone. He was lost in the first hours of the invasion on 24 February.](http://9gag.com/gag/aGEyyN6)
- - 🚯 [Biwi ke nakhree ufffff](http://9gag.com/gag/az2xmDp)<!-- MEMES:END -->
+ - 🚖 [When you thought you&#39;re the main character but you&#39;re actually just an NPC](http://9gag.com/gag/ap9RGN9)
+ - 🚯 [NASCAR with the third degree burn](http://9gag.com/gag/amAovBy)
+ - 🚯 [Her neck tho](http://9gag.com/gag/aWG4gpq)<!-- MEMES:END -->
 
 --- 
 
