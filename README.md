@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Apple didn&#39;t pay for the iPhone to benchmark better](https://appleinsider.com/articles/23/02/27/no-apple-didnt-pay-for-the-iphone-to-benchmark-better?utm_medium=rss)
- - [Record-low price on the SKAGEN Falster Gen 6, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [Memo: the Canadian government will ban TikTok from all federal mobile devices, effective March 1, &quot;to ensure the security and protection of government systems&quot; &lpar;Christopher Nardi/National Post&rpar;](http://www.techmeme.com/230227/p19#a230227p19)<!-- TECH:END -->
+ - [Apple HomePod &lpar;2nd generation&rpar; review: The best speaker in Apple’s walled garden](https://www.androidauthority.com/apple-homepod-2nd-generation-review-3287254/)
+ - [Coinbase will suspend trading for Binance USD Stablecoin on March 13, as it doesn&#39;t meet its listing standards; users will still be able to access their BUSD &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/230227/p20#a230227p20)
+ - [Samsung could be working on a Galaxy smart ring and AR glasses](https://www.androidauthority.com/samsung-smart-ring-3290342/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
