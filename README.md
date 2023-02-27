@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Xiaomi Wireless AR Smart Glass Explorer Edition, featuring two micro-OLED screens, three front-facing cameras, and weighing 126g, in prototype &lpar;Ben Sin/XDA Developers&rpar;](http://www.techmeme.com/230227/p3#a230227p3)
- - [Filing: China Renaissance says founder Bao Fan is &quot;co-operating in an investigation&quot;, more than a week after disclosing his unexplained disappearance &lpar;Hudson Lockett/Financial Times&rpar;](http://www.techmeme.com/230227/p2#a230227p2)
- - [You told us: Most of you use this solution for two-factor authentication](https://www.androidauthority.com/two-factor-authentication-apps-poll-results-3290090/)<!-- TECH:END -->
+ - [Color-changing phone allows you to choose from 1,600 different colors at will](https://www.androidauthority.com/tecno-chameleon-3290119/)
+ - [Google announces new features for Android, ChromeOS, and Wear OS, including Fast Pair support for Chromebooks, Keep shortcuts, and Wear OS accessibility modes &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230227/p6#a230227p6)
+ - [Sources: Tencent established a team to work on &quot;HunyuanAide&quot;, a ChatGPT-style chatbot using Tencent&#39;s Hunyuan training model, following Alibaba and Baidu &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230227/p5#a230227p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
