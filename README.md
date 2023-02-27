@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [16 years old Wehrmacht soldier captured by US troops, 03.04.1945](http://9gag.com/gag/a2KvvAe)
- - 🚯 [The opposite](http://9gag.com/gag/abvAvjv)
- - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
+ - 🚖 [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)
+ - 🚯 [How inspirational!](http://9gag.com/gag/aBdy6eQ)
+ - 🚯 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
 
 --- 
 
