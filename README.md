@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 9 best 4K releases in March](https://www.polygon.com/entertainment/23601562/best-bluray-4k-uhd-disc-review-march-2023)
- - [Sons of the Forest fish traps sure seem to be broken right now](https://www.pcgamer.com/sons-of-the-forest-how-to-fish-trap)
- - [Kirby’s Return To Dream Land Deluxe Is Great On Switch](https://kotaku.com/kirbys-return-to-dream-land-deluxe-nintendo-switch-wii-1850165274)<!-- GAME:END -->
+ - [The best discard decks in Marvel Snap and how to play them](https://www.polygon.com/guides/23613497/marvel-snap-discard-decks-best-how-to-modok-hela)
+ - [New Netflix Must-Watch Reality Show Is Now Steeped In Assault Allegations](https://kotaku.com/netflix-physical-100-show-allegation-assault-squid-game-1850164031)
+ - [Where to find the armsmaster rusty weapons in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23617445/rusty-weapons-location-armsmaster-skills-unlock-staff-bow-dagger-polearm-sword-axe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
