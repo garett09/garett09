@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s &lpar;Formerly&rpar; &#39;Most Hyped&#39; Zombie Game Is In The Weirdest Legal Battle](https://kotaku.com/the-day-before-steam-zombie-vaporware-trademark-name-pc-1850161449)
- - [Rough PC performance can&#39;t keep me from loving Wo Long&#39;s Wuxia action](https://www.pcgamer.com/rough-pc-performance-cant-keep-me-from-loving-wo-longs-wuxia-action)
- - [Atomic Heart could have been the next BioShock](https://www.polygon.com/23614033/atomic-heart-bioshock-opinion)<!-- GAME:END -->
+ - [Illegal Crypto Mining Operation Found Hidden Under High School](https://kotaku.com/crypto-mining-bitcoin-illegal-arrested-boston-gpu-1850161619)
+ - [Half-Life 2&#39;s face models include a legendary DJ and an actual dead body](https://www.pcgamer.com/half-life-2s-face-models-include-a-legendary-dj-and-an-actual-dead-body)
+ - [Only FromSoftware could&#39;ve spun Elden Ring&#39;s broken quests into a post-launch treasure hunt](https://www.pcgamer.com/only-fromsoftware-couldve-spun-elden-rings-broken-quests-into-a-post-launch-treasure-hunt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
