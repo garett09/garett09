@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Color-changing phone allows you to choose from 1,600 different colors at will](https://www.androidauthority.com/tecno-chameleon-3290119/)
- - [Google announces new features for Android, ChromeOS, and Wear OS, including Fast Pair support for Chromebooks, Keep shortcuts, and Wear OS accessibility modes &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230227/p6#a230227p6)
- - [Sources: Tencent established a team to work on &quot;HunyuanAide&quot;, a ChatGPT-style chatbot using Tencent&#39;s Hunyuan training model, following Alibaba and Baidu &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230227/p5#a230227p5)<!-- TECH:END -->
+ - [Xiaomi launches prototype AR glasses that pair with a phone with just a tap](https://www.androidauthority.com/xiaomi-wireless-ar-glass-discovery-edition-3290147/)
+ - [Apple&#39;s 5G modem is going to debut sooner than expected, says Qualcomm CEO](https://appleinsider.com/articles/23/02/27/apples-5g-modem-is-going-to-debut-sooner-than-expected-says-qualcomm-ceo?utm_medium=rss)
+ - [The Amazonification of Buying a New Car](https://www.wired.com/story/the-amazonification-of-buying-a-new-car/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
