@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)
- - 🚯 [Speechless #15](http://9gag.com/gag/ajVPBqQ)
- - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
+ - 🚖 [Thank you some random person](http://9gag.com/gag/adPBnjj)
+ - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)
+ - 🚯 [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)<!-- MEMES:END -->
 
 --- 
 
