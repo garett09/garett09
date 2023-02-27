@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An 84-year-old Seattle woman refused $1 million for her house so they built a mall around it.](http://9gag.com/gag/aqeye3R)
- - 🚯 [Pleasant driving &lpar;event if third person view&rpar;](http://9gag.com/gag/amAo10v)
- - 🚯 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
+ - 🚖 [Faces... Caricatures...](http://9gag.com/gag/aoKyM6w)
+ - 🚯 [The opposite](http://9gag.com/gag/abvAvjv)
+ - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
 
 --- 
 
