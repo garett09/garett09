@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Ryzen 9 7950X3D](https://www.pcgamer.com/amd-ryzen-9-7950x3d-review-benchmarks)
- - [Command the mechanized might of the Axis in Company of Heroes 3](https://www.pcgamer.com/command-the-mechanized-might-of-the-axis-in-company-of-heroes-3)
- - [Crime Boss: Rockay City&#39;s FPS heists are the GTA we have at home](https://www.pcgamer.com/crime-boss-rockay-citys-fps-heists-are-the-gta-we-have-at-home)<!-- GAME:END -->
+ - [Pokémon Sleep wakes up, will be released this summer](https://www.polygon.com/pokemon/21058244/pokemon-sleep-release-date-trailer)
+ - [Everything announced at February’s Pokémon Presents](https://www.polygon.com/pokemon/23616619/pokemon-presents-day-2023-direct-announcements-all-trailers)
+ - [How to make a sled in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-sled-3d-printer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
