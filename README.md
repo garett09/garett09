@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.4 features, Sonos Era rumors, and more](https://appleinsider.com/articles/23/02/27/ios-164-features-sonos-era-rumors-and-more?utm_medium=rss)
- - [Arnold Schwarzenegger returns to his action movie roots in Netflix’s FUBAR](https://www.theverge.com/23616618/arnold-schwarzenegger-netflix-fubar-trailer)
- - [Pokémon Violet and Scarlet’s first expansion is coming later this year](https://www.theverge.com/23616694/pokemon-violet-and-scarlet-dlc-expansion-trailer-nintendo-switch)<!-- TECH:END -->
+ - [Four years after announcement, &#39;Pokemon Sleep&#39; is coming soon](https://appleinsider.com/articles/23/02/27/four-years-after-announcement-pokemon-sleep-is-coming-soon?utm_medium=rss)
+ - [Apple surrenders one hour of profit to Russia for antitrust violations](https://appleinsider.com/articles/23/02/27/apple-surrenders-one-hour-of-profit-to-russia-for-antitrust-violations?utm_medium=rss)
+ - [Daily Deals Feb. 27: iPad mini for $299, Samsung Galaxy Tab 23% off &amp; more](https://appleinsider.com/articles/23/02/27/daily-deals-feb-27-ipad-mini-for-299-samsung-galaxy-tab-23-off-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
