@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s when Destiny 2 Lightfall releases in your timezone](https://www.pcgamer.com/destiny-2-lightfall-release-times-unlock)
  - [Atomic Heart devs apologise for racist cartoon clip and promise edits](https://www.pcgamer.com/atomic-heart-devs-apologise-for-racist-cartoon-clip-and-promise-edits)
- - [Wordle hint and answer #618: Monday, February 27](https://www.pcgamer.com/wordle-hint-answer-today-618-february-27)
- - [Atomic Heart mods are here](https://www.pcgamer.com/atomic-heart-mods-are-here)<!-- GAME:END -->
+ - [Wordle hint and answer #618: Monday, February 27](https://www.pcgamer.com/wordle-hint-answer-today-618-february-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
