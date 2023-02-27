@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [To achieve its chip moonshot, Commerce Secretary Gina Raimondo says the US must reform its education system and triple graduates in chip-related fields by 2032 &lpar;Rana Foroohar/Financial Times&rpar;](http://www.techmeme.com/230227/p12#a230227p12)
- - [You Can Turn Your Backyard Into a Biodiversity Hotspot](https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/)
- - [The Dream of Mini Nuclear Plants Hangs in the Balance](https://www.wired.com/story/the-dream-of-mini-nuclear-plants-hangs-in-the-balance/)<!-- TECH:END -->
+ - [Snap plans to release a Snapchat chatbot, called &quot;My AI&quot;, powered by OpenAI&#39;s ChatGPT, pinned to the app&#39;s chat tab, available initially to Plus subscribers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230227/p13#a230227p13)
+ - [Nikon Z 30 Review: A Perfect Starter Camera for Vloggers](https://www.wired.com/review/nikon-z-30/)
+ - [Sci-Fi Publishers Are Bracing for an AI Battle](https://www.wired.com/story/sci-fi-story-submissions-generative-ai-problem/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
