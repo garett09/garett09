@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple HomePod &lpar;2nd generation&rpar; review: The best speaker in Apple’s walled garden](https://www.androidauthority.com/apple-homepod-2nd-generation-review-3287254/)
- - [Coinbase will suspend trading for Binance USD Stablecoin on March 13, as it doesn&#39;t meet its listing standards; users will still be able to access their BUSD &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/230227/p20#a230227p20)
- - [Samsung could be working on a Galaxy smart ring and AR glasses](https://www.androidauthority.com/samsung-smart-ring-3290342/)<!-- TECH:END -->
+ - [Blaze cripples Apple India&#39;s Lightning cable production factory](https://appleinsider.com/articles/23/02/27/blaze-cripples-apple-indias-lightning-cable-production-factory?utm_medium=rss)
+ - [Delaware-based Pagos, a payments startup with clients like Adobe, Eventbrite, GoFundMe, and Warner Bros. Discovery, raised a $34M Series A led by Arbor Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230227/p22#a230227p22)
+ - [Togepi and Snorlax Pokemon Squishmallows Are Coming: What to Know     - CNET](https://www.cnet.com/culture/togepi-and-snorlax-pokemon-squishmallows-are-coming-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
