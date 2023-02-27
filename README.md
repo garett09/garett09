@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Home run](http://9gag.com/gag/aDY28Xx)
- - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
+ - 🚖 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
+ - 🚯 [Zelenskyy puts on an earpiece when told the question will be in Russian. The woman reporter thensays that the next question will be in Ukrainian and he removes the translator earpiece and says, `wonderful.` Trolling at the highest level. fyi-he is native Russian speaker or was.](http://9gag.com/gag/aWG4LVd)
+ - 🚯 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 --- 
 
