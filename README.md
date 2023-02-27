@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 Ultra may be having problems connecting to Wi-Fi](https://www.androidauthority.com/galaxy-s23-ultra-wi-fi-3290269/)
- - [iPhone SE 4 development lurches back to life with new tech](https://appleinsider.com/articles/23/02/27/iphone-se-4-development-lurches-back-to-life-with-new-tech?utm_medium=rss)
- - [Elon Musk says remaining Twitter employees will receive ‘very significant’ stock awards on March 24th](https://www.theverge.com/2023/2/27/23616933/elon-musk-twitter-employees-stock-awards-march-after-more-layoffs)<!-- TECH:END -->
+ - [No, Apple didn&#39;t pay for the iPhone to benchmark better](https://appleinsider.com/articles/23/02/27/no-apple-didnt-pay-for-the-iphone-to-benchmark-better?utm_medium=rss)
+ - [Record-low price on the SKAGEN Falster Gen 6, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [Memo: the Canadian government will ban TikTok from all federal mobile devices, effective March 1, &quot;to ensure the security and protection of government systems&quot; &lpar;Christopher Nardi/National Post&rpar;](http://www.techmeme.com/230227/p19#a230227p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
