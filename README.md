@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At this point i&#39;m afraid to ask](http://9gag.com/gag/aZDZrvn)
- - 🚯 [Three thousand](http://9gag.com/gag/ajVPVx8)
- - 🚯 [Metaphor visits reality](http://9gag.com/gag/anz7gzn)<!-- MEMES:END -->
+ - 🚖 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)
+ - 🚯 [On Clipperton Island, &lpar;a small island in the pacific&rpar;, if you drop street view in a specific spot, this happens.](http://9gag.com/gag/armyVxX)<!-- MEMES:END -->
 
 --- 
 
