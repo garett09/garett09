@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surgically Rejected](http://9gag.com/gag/az2xx6q)
- - 🚯 [If you know you know](http://9gag.com/gag/a9qy6K1)
- - 🚯 [The frustration](http://9gag.com/gag/aWG44yA)<!-- MEMES:END -->
+ - 🚖 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - 🚯 [Faces... Caricatures...](http://9gag.com/gag/aoKyM6w)
+ - 🚯 [16 years old Wehrmacht soldier captured by US troops, 03.04.1945](http://9gag.com/gag/a2KvvAe)<!-- MEMES:END -->
 
 --- 
 
