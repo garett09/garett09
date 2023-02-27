@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Faces... Caricatures...](http://9gag.com/gag/aoKyM6w)
+ - 🚖 [16 years old Wehrmacht soldier captured by US troops, 03.04.1945](http://9gag.com/gag/a2KvvAe)
  - 🚯 [The opposite](http://9gag.com/gag/abvAvjv)
  - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
 
