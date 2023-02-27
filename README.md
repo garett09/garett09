@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four years after announcement, &#39;Pokemon Sleep&#39; is coming soon](https://appleinsider.com/articles/23/02/27/four-years-after-announcement-pokemon-sleep-is-coming-soon?utm_medium=rss)
- - [Apple surrenders one hour of profit to Russia for antitrust violations](https://appleinsider.com/articles/23/02/27/apple-surrenders-one-hour-of-profit-to-russia-for-antitrust-violations?utm_medium=rss)
- - [Daily Deals Feb. 27: iPad mini for $299, Samsung Galaxy Tab 23% off &amp; more](https://appleinsider.com/articles/23/02/27/daily-deals-feb-27-ipad-mini-for-299-samsung-galaxy-tab-23-off-more?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S23 Ultra may be having problems connecting to Wi-Fi](https://www.androidauthority.com/galaxy-s23-ultra-wi-fi-3290269/)
+ - [iPhone SE 4 development lurches back to life with new tech](https://appleinsider.com/articles/23/02/27/iphone-se-4-development-lurches-back-to-life-with-new-tech?utm_medium=rss)
+ - [Elon Musk says remaining Twitter employees will receive ‘very significant’ stock awards on March 24th](https://www.theverge.com/2023/2/27/23616933/elon-musk-twitter-employees-stock-awards-march-after-more-layoffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
