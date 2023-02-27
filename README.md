@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
- - 🚯 [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
- - 🚯 [If you know you know](http://9gag.com/gag/a9qy6K1)<!-- MEMES:END -->
+ - 🚖 [At this point i&#39;m afraid to ask](http://9gag.com/gag/aZDZrvn)
+ - 🚯 [Three thousand](http://9gag.com/gag/ajVPVx8)
+ - 🚯 [Metaphor visits reality](http://9gag.com/gag/anz7gzn)<!-- MEMES:END -->
 
 --- 
 
