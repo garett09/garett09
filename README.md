@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches nine new Android features at Mobile World Congress](https://www.androidauthority.com/new-android-features-mwc-2023-3289623/)
- - [OnePlus&#39; First Tablet is Sleek, Green and Coming in April     - CNET](https://www.cnet.com/tech/computing/oneplus-first-tablet-is-sleek-green-and-coming-in-april/#ftag=CAD590a51e)
- - [OnePlus 11 Concept hands-on: Liquid cooling is neat, but does it work?](https://www.androidauthority.com/oneplus-11-concept-hands-on-3289677/)<!-- TECH:END -->
+ - [Hands-on with the Xiaomi Wireless AR Smart Glass Explorer Edition, featuring two micro-OLED screens, three front-facing cameras, and weighing 126g, in prototype &lpar;Ben Sin/XDA Developers&rpar;](http://www.techmeme.com/230227/p3#a230227p3)
+ - [Filing: China Renaissance says founder Bao Fan is &quot;co-operating in an investigation&quot;, more than a week after disclosing his unexplained disappearance &lpar;Hudson Lockett/Financial Times&rpar;](http://www.techmeme.com/230227/p2#a230227p2)
+ - [You told us: Most of you use this solution for two-factor authentication](https://www.androidauthority.com/two-factor-authentication-apps-poll-results-3290090/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
