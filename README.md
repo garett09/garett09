@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Illegal Crypto Mining Operation Found Hidden Under High School](https://kotaku.com/crypto-mining-bitcoin-illegal-arrested-boston-gpu-1850161619)
- - [Half-Life 2&#39;s face models include a legendary DJ and an actual dead body](https://www.pcgamer.com/half-life-2s-face-models-include-a-legendary-dj-and-an-actual-dead-body)
- - [Only FromSoftware could&#39;ve spun Elden Ring&#39;s broken quests into a post-launch treasure hunt](https://www.pcgamer.com/only-fromsoftware-couldve-spun-elden-rings-broken-quests-into-a-post-launch-treasure-hunt)<!-- GAME:END -->
+ - [Microsoft&#39;s shoddy Bing AI chatbot has been in the making for at least 6 years](https://www.pcgamer.com/microsofts-shoddy-bing-ai-chatbot-has-been-in-the-making-for-at-least-6-years)
+ - [It&#39;s a platformer about a cute turtle and duck, what more do you want?](https://www.pcgamer.com/its-a-platformer-about-a-cute-turtle-and-duck-what-more-do-you-want)
+ - [Get stuck in the ice and struggle to survive in this story-rich management game](https://www.pcgamer.com/get-stuck-in-the-ice-and-struggle-to-survive-in-this-story-rich-management-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
