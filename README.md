@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Nokia has a new logo. Do you like it?](https://www.androidauthority.com/nokia-new-logo-poll-3290058/)
- - [Weird! A YouTube video is forcing the Pixel 7/7 Pro to reboot spontaneously](https://www.androidauthority.com/pixel-7-youtube-video-reboot-bug-3290054/)
- - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 7 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-7-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Satellite connectivity on Android phones is about to go far and wide](https://www.androidauthority.com/qualcomm-snapdragon-satellite-android-phones-3290051/)
+ - [Xiaomi reveals MIUI 14 global release schedule and eligible devices](https://www.androidauthority.com/miui-14-global-release-schedule-eligible-devices-3290067/)
+ - [Poll: Nokia has a new logo. Do you like it?](https://www.androidauthority.com/nokia-new-logo-poll-3290058/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
