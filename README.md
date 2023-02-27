@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kerbal Space Program 2&#39;s early access launch is only for seasoned astronauts](https://www.pcgamer.com/kerbal-space-program-2s-early-access-launch-is-only-for-seasoned-astronauts)
- - [New Netflix Must-Watch Reality Show Is Now Steeped In Assault Allegations](https://kotaku.com/netflix-physical-100-show-allegation-assault-squid-game-1850164031)
- - [Spice, worms, and water: First details on the upcoming Dune MMO&#39;s survival systems](https://www.pcgamer.com/spice-worms-and-water-first-details-on-the-upcoming-dune-mmos-survival-systems)<!-- GAME:END -->
+ - [Beyond Good And Evil 2 Studio Head No Longer At Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-montpellier-assassins-creed-1850164420)
+ - [You can clone Kelvin and other NPCs in Sons of the Forest with this simple command](https://www.pcgamer.com/you-can-clone-kelvin-and-other-npcs-in-sons-of-the-forest-with-this-simple-command)
+ - [Mystery Mortal Kombat 11 Turbo Teabagging Troll Wows At Pro Tourney](https://kotaku.com/mortal-kombat-11-tournament-rips-arena-is-free-teabag-1850164387)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
