@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lincoln t\u00fcnnel](http://9gag.com/gag/aEq0q5o)
- - 🚯 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
- - 🚯 [This is what the world was meant for](http://9gag.com/gag/aGEygmz)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t even used their own games](http://9gag.com/gag/aREBLPy)
+ - 🚯 [Special trivia for today](http://9gag.com/gag/amAoor2)
+ - 🚯 [NASCAR with the third degree burn](http://9gag.com/gag/amAovBy)<!-- MEMES:END -->
 
 --- 
 
