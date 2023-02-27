@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
- - 🚯 [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
- - 🚯 [Surgically Rejected](http://9gag.com/gag/az2xx6q)<!-- MEMES:END -->
+ - 🚖 [Surgically Rejected](http://9gag.com/gag/az2xx6q)
+ - 🚯 [If you know you know](http://9gag.com/gag/a9qy6K1)
+ - 🚯 [The frustration](http://9gag.com/gag/aWG44yA)<!-- MEMES:END -->
 
 --- 
 
