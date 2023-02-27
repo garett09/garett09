@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The MCU keeps copying the Star Wars prequels](https://www.polygon.com/23613852/marvel-movies-star-wars-influences-ant-man-quantumania)
- - [Pokémon Scarlet and Violet Walking Wake 5-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23616774/walking-wake-counters-5-star-raid-how-to-get)
- - [Destiny 2 Lightfall release time, and when will Destiny 2 servers be back online](https://www.polygon.com/destiny-2-guide-walkthrough/2023/2/27/23616487/lightfall-release-time-pt-et-gmt-cet-servers-back-online-preload)<!-- GAME:END -->
+ - [Call of Duty’s stand-alone game for 2023 is more Modern Warfare 2](https://www.polygon.com/23613882/call-of-duty-2023-game-modern-warfare-new)
+ - [Battle your Way through the Void in Neo-Noir Love Story El Paso, Elsewhere](https://news.xbox.com/en-us/2023/02/27/neo-noir-love-story-el-paso-elsewhere/)
+ - [Oops, Windows 11 upgrades were offered to ineligible PCs](https://www.pcgamer.com/oops-windows-11-upgrades-were-offered-to-ineligible-pcs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
