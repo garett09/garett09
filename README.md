@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is forming a team to get generative AI into products, led by Ahmad Al-Dahle, who worked at Apple before joining Meta in 2020 and will report to Chris Cox &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230227/p23#a230227p23)
- - [iPhone SE 4 Reportedly Back in Development With Apple-Built 5G Modem     - CNET](https://www.cnet.com/tech/mobile/iphone-se-4-reportedly-back-in-development-with-apple-built-5g-modem/#ftag=CAD590a51e)
- - [Save big on Apple at Amazon: up to $500 off with these top deals](https://appleinsider.com/articles/23/02/27/save-big-on-apple-at-amazon-up-to-500-off-with-these-top-deals?utm_medium=rss)<!-- TECH:END -->
+ - [The best Visible deals: Get a $200 gift card with the Galaxy S23](https://www.androidauthority.com/best-visible-deals-1096134/)
+ - [Zoom reports Q4 revenue up 4% YoY to $1.12B, vs. $1.1B est., Enterprise revenue up 18% YoY to $636.1M, Enterprise customers up 12% YoY to ~213K; ZM jumps 6%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230227/p24#a230227p24)
+ - [Best Headphone and Earbuds Deals     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
