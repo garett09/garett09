@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
+ - 🚖 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
  - 🚯 [Im 25 btw. We work together for 3 years and always were like friends in there. But people who found out about our relationship have suddenly started talk like shit to me about her and she told me a few incidents about them talking to her shit about me.](http://9gag.com/gag/agomOKv)
  - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
 
