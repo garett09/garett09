@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty’s stand-alone game for 2023 is more Modern Warfare 2](https://www.polygon.com/23613882/call-of-duty-2023-game-modern-warfare-new)
- - [Battle your Way through the Void in Neo-Noir Love Story El Paso, Elsewhere](https://news.xbox.com/en-us/2023/02/27/neo-noir-love-story-el-paso-elsewhere/)
- - [Oops, Windows 11 upgrades were offered to ineligible PCs](https://www.pcgamer.com/oops-windows-11-upgrades-were-offered-to-ineligible-pcs)<!-- GAME:END -->
+ - [Kerbal Space Program 2&#39;s early access launch is only for seasoned astronauts](https://www.pcgamer.com/kerbal-space-program-2s-early-access-launch-is-only-for-seasoned-astronauts)
+ - [New Netflix Must-Watch Reality Show Is Now Steeped In Assault Allegations](https://kotaku.com/netflix-physical-100-show-allegation-assault-squid-game-1850164031)
+ - [Spice, worms, and water: First details on the upcoming Dune MMO&#39;s survival systems](https://www.pcgamer.com/spice-worms-and-water-first-details-on-the-upcoming-dune-mmos-survival-systems)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
