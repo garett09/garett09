@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi launches prototype AR glasses that pair with a phone with just a tap](https://www.androidauthority.com/xiaomi-wireless-ar-glass-discovery-edition-3290147/)
- - [Apple&#39;s 5G modem is going to debut sooner than expected, says Qualcomm CEO](https://appleinsider.com/articles/23/02/27/apples-5g-modem-is-going-to-debut-sooner-than-expected-says-qualcomm-ceo?utm_medium=rss)
- - [The Amazonification of Buying a New Car](https://www.wired.com/story/the-amazonification-of-buying-a-new-car/)<!-- TECH:END -->
+ - [To achieve its chip moonshot, Commerce Secretary Gina Raimondo says the US must reform its education system and triple graduates in chip-related fields by 2032 &lpar;Rana Foroohar/Financial Times&rpar;](http://www.techmeme.com/230227/p12#a230227p12)
+ - [You Can Turn Your Backyard Into a Biodiversity Hotspot](https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/)
+ - [The Dream of Mini Nuclear Plants Hangs in the Balance](https://www.wired.com/story/the-dream-of-mini-nuclear-plants-hangs-in-the-balance/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
