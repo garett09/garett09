@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [The Last of Us’ biggest Easter egg is its smallest shot](https://www.polygon.com/23613832/last-us-episode-7-easter-egg-dawn-wolf-part-2-twilight)
- - [The Last Of Us Episode 7 Recap: Just Like Heaven](https://kotaku.com/the-last-of-us-episode-7-recap-just-like-heaven-1850161819)
+ - [The Last Of Us Episode 7 Recap: Just Like Heaven](https://kotaku.com/last-of-us-tlou-s1e7-left-behind-ellie-riley-hbo-mall-1850161819)
  - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
