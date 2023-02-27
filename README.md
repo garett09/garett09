@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - 🚯 [If you know you know](http://9gag.com/gag/a9qy6K1)<!-- MEMES:END -->
+ - 🚖 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
+ - 🚯 [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
+ - 🚯 [Surgically Rejected](http://9gag.com/gag/az2xx6q)<!-- MEMES:END -->
 
 --- 
 
