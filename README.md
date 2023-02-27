@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Introduces the World’s Heaviest Aircraft, the Antonov AN-225 Mriya](https://news.xbox.com/en-us/2023/02/27/microsoft-flight-simulator-antonov-an-225-mriya/)
- - [The Mandalorian season 3 trailer brings the fight to the surface of Mandalore](https://www.polygon.com/star-wars/23616840/the-mandalorian-season-3-trailer-mandalore)
- - [Pokémon Trading Card Game Classic Lets You Have A Holo Charizard Again](https://kotaku.com/pokemon-trading-card-game-classic-charizard-venasaur-1850162948)<!-- GAME:END -->
+ - [The MCU keeps copying the Star Wars prequels](https://www.polygon.com/23613852/marvel-movies-star-wars-influences-ant-man-quantumania)
+ - [Pokémon Scarlet and Violet Walking Wake 5-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23616774/walking-wake-counters-5-star-raid-how-to-get)
+ - [Destiny 2 Lightfall release time, and when will Destiny 2 servers be back online](https://www.polygon.com/destiny-2-guide-walkthrough/2023/2/27/23616487/lightfall-release-time-pt-et-gmt-cet-servers-back-online-preload)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
