@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmmm yes very distinguished](http://9gag.com/gag/a5XQ1pV)
- - 🚯 [Special trivia for today](http://9gag.com/gag/amAoor2)
- - 🚯 [Pleasant driving &lpar;event if third person view&rpar;](http://9gag.com/gag/amAo10v)<!-- MEMES:END -->
+ - 🚖 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)
+ - 🚯 [If you know you know](http://9gag.com/gag/a9qy6K1)<!-- MEMES:END -->
 
 --- 
 
