@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blaze cripples Apple India&#39;s Lightning cable production factory](https://appleinsider.com/articles/23/02/27/blaze-cripples-apple-indias-lightning-cable-production-factory?utm_medium=rss)
- - [Delaware-based Pagos, a payments startup with clients like Adobe, Eventbrite, GoFundMe, and Warner Bros. Discovery, raised a $34M Series A led by Arbor Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230227/p22#a230227p22)
- - [Togepi and Snorlax Pokemon Squishmallows Are Coming: What to Know     - CNET](https://www.cnet.com/culture/togepi-and-snorlax-pokemon-squishmallows-are-coming-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta is forming a team to get generative AI into products, led by Ahmad Al-Dahle, who worked at Apple before joining Meta in 2020 and will report to Chris Cox &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230227/p23#a230227p23)
+ - [iPhone SE 4 Reportedly Back in Development With Apple-Built 5G Modem     - CNET](https://www.cnet.com/tech/mobile/iphone-se-4-reportedly-back-in-development-with-apple-built-5g-modem/#ftag=CAD590a51e)
+ - [Save big on Apple at Amazon: up to $500 off with these top deals](https://appleinsider.com/articles/23/02/27/save-big-on-apple-at-amazon-up-to-500-off-with-these-top-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
