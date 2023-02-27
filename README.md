@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#39;t even used their own games](http://9gag.com/gag/aREBLPy)
- - 🚯 [Special trivia for today](http://9gag.com/gag/amAoor2)
- - 🚯 [NASCAR with the third degree burn](http://9gag.com/gag/amAovBy)<!-- MEMES:END -->
+ - 🚖 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
+ - 🚯 [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
+ - 🚯 [If you know you know](http://9gag.com/gag/a9qy6K1)<!-- MEMES:END -->
 
 --- 
 
