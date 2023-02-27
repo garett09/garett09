@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap plans to release a Snapchat chatbot, called &quot;My AI&quot;, powered by OpenAI&#39;s ChatGPT, pinned to the app&#39;s chat tab, available initially to Plus subscribers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230227/p13#a230227p13)
- - [Nikon Z 30 Review: A Perfect Starter Camera for Vloggers](https://www.wired.com/review/nikon-z-30/)
- - [Sci-Fi Publishers Are Bracing for an AI Battle](https://www.wired.com/story/sci-fi-story-submissions-generative-ai-problem/)<!-- TECH:END -->
+ - [iOS 16.4 features, Sonos Era rumors, and more](https://appleinsider.com/articles/23/02/27/ios-164-features-sonos-era-rumors-and-more?utm_medium=rss)
+ - [Arnold Schwarzenegger returns to his action movie roots in Netflix’s FUBAR](https://www.theverge.com/23616618/arnold-schwarzenegger-netflix-fubar-trailer)
+ - [Pokémon Violet and Scarlet’s first expansion is coming later this year](https://www.theverge.com/23616694/pokemon-violet-and-scarlet-dlc-expansion-trailer-nintendo-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
