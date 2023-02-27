@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s shoddy Bing AI chatbot has been in the making for at least 6 years](https://www.pcgamer.com/microsofts-shoddy-bing-ai-chatbot-has-been-in-the-making-for-at-least-6-years)
- - [It&#39;s a platformer about a cute turtle and duck, what more do you want?](https://www.pcgamer.com/its-a-platformer-about-a-cute-turtle-and-duck-what-more-do-you-want)
- - [Get stuck in the ice and struggle to survive in this story-rich management game](https://www.pcgamer.com/get-stuck-in-the-ice-and-struggle-to-survive-in-this-story-rich-management-game)<!-- GAME:END -->
+ - [The Last of Us’ biggest Easter egg is its smallest shot](https://www.polygon.com/23613832/last-us-episode-7-easter-egg-dawn-wolf-part-2-twilight)
+ - [The Last Of Us Episode 7 Recap: Just Like Heaven](https://kotaku.com/the-last-of-us-episode-7-recap-just-like-heaven-1850161819)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
