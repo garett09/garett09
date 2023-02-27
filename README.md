@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
- - 🚯 [Im 25 btw. We work together for 3 years and always were like friends in there. But people who found out about our relationship have suddenly started talk like shit to me about her and she told me a few incidents about them talking to her shit about me.](http://9gag.com/gag/agomOKv)
+ - 🚖 [Home run](http://9gag.com/gag/aDY28Xx)
+ - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
  - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
 
 --- 
