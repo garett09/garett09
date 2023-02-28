@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Children seeing a camera for the first time in 1901.](http://9gag.com/gag/a8q7D5Y)
- - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - 🚯 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
+ - 🚖 [Amsterdam](http://9gag.com/gag/aVbvmM8)
+ - 🚯 [Speechless #15](http://9gag.com/gag/ajVPBqQ)
+ - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
 
 --- 
 
