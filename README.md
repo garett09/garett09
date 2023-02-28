@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Expansion Announced, Called Shadow of the Erdtree](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)
- - [PC Game Pass Preview is Available for Insiders in 40 New Countries](https://news.xbox.com/en-us/2023/02/28/pc-game-pass-preview-40-new-countries/)
- - [Wordle hint and answer #619: Tuesday, February 28](https://www.pcgamer.com/wordle-hint-answer-today-619-february-28)<!-- GAME:END -->
+ - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)
+ - [Staff at Ubisoft&#39;s Beyond Good and Evil 2 studio are reportedly at breaking point](https://www.pcgamer.com/staff-at-ubisofts-beyond-good-and-evil-2-studio-are-reportedly-at-breaking-point)
+ - [Where to find the winter jacket in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-winter-jacket-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
