@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How inspirational!](http://9gag.com/gag/aBdy6eQ)
- - 🚯 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)
+ - 🚖 [They killed him because he told the truth. John McAfee everyone...](http://9gag.com/gag/abvAxPp)
+ - 🚯 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
  - 🚯 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
 
 --- 
