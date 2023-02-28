@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former FTX Director of Engineering Nishad Singh will plead guilty to three US fraud charges, according to his lawyer, becoming the latest executive to cooperate &lpar;Reuters&rpar;](http://www.techmeme.com/230228/p18#a230228p18)
- - [Chrome tweaked to improve memory use &amp; battery life on MacBook](https://appleinsider.com/articles/23/02/28/chrome-tweaked-to-improve-memory-use-battery-life-on-macbook?utm_medium=rss)
- - [India’s YouTube Vigilante Is Wanted for Murder](https://www.wired.com/story/indias-youtube-vigilante-monu-manesar-murder/)<!-- TECH:END -->
+ - [The LastPass hack saga just keeps getting worse](https://appleinsider.com/articles/23/02/28/the-lastpass-hack-saga-just-keeps-getting-worse?utm_medium=rss)
+ - [Temporal, which offers an open-source microservices orchestration service, raised a $75M &quot;Series B-Prime&quot; at a $1.5B+ valuation, following a $103M Series B &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230228/p22#a230228p22)
+ - [Memo: Dish CEO Erik Carlson tells staff that data was stolen in a cyberattack that has kept its systems down for days; DISH falls over 7% in intraday trading &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230228/p21#a230228p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
