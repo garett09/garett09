@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
- - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 🚯 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)<!-- MEMES:END -->
+ - 🚖 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 🚯 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)
+ - 🚯 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
 
 --- 
 
