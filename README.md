@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smells like savings](http://9gag.com/gag/a2Kv899)
- - 🚯 [Thank you some random person](http://9gag.com/gag/adPBnjj)
+ - 🚖 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
+ - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
  - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
 
 --- 
