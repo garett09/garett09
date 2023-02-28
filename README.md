@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Marshals Service suffered a ransomware attack and data theft on a &quot;stand-alone USMS system&quot;; source: breach didn&#39;t affect the witness protection database &lpar;NBC News&rpar;](http://www.techmeme.com/230227/p29#a230227p29)
- - [Apple allegedly testing Siri in Hebrew on HomePod for possible Israel launch](https://appleinsider.com/articles/23/02/28/apple-allegedly-testing-siri-in-hebrew-on-homepod-for-possible-israel-launch?utm_medium=rss)
- - [OnePlus Nord 3 will be a rebranded phone, claims new leak &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-specs-launch-date-3288699/)<!-- TECH:END -->
+ - [LastPass: hackers stole password vault data in 2022 by exploiting an RCE flaw in third-party software to install a keylogger on a DevOps engineer&#39;s computer &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230227/p30#a230227p30)
+ - [The US Marshals Service suffered &quot;a ransomware and data exfiltration event&quot; on a standalone system; a source says the witness protection database was not hit &lpar;NBC News&rpar;](http://www.techmeme.com/230227/p29#a230227p29)
+ - [Apple allegedly testing Siri in Hebrew on HomePod for possible Israel launch](https://appleinsider.com/articles/23/02/28/apple-allegedly-testing-siri-in-hebrew-on-homepod-for-possible-israel-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
