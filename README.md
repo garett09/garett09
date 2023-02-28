@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After declining Twitter engagement, a writer games the For You algorithm, which he suspected was using invisible subreddits via Topics to organize tweets &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/230228/p11#a230228p11)
- - [Apple wants to shift the mindsets of doctors and patients, says Health VP](https://appleinsider.com/articles/23/02/28/apple-wants-to-shift-the-mindsets-of-doctors-and-patients-says-health-vp?utm_medium=rss)
- - [Hyper Thunderbolt 4 Power Hub review: Fast connectivity for demanding users](https://appleinsider.com/articles/23/02/28/hyper-thunderbolt-4-power-hub-review-fast-connectivity-for-demanding-users?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the Biden administration considers revoking export licenses to US suppliers to Huawei, such as Qualcomm and Intel, impacting 4G and 5G devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230228/p13#a230228p13)
+ - [iPhone 16 Pro stilll rumored to gain under-display Face ID](https://appleinsider.com/articles/23/02/28/under-display-face-id-still-in-the-cards-for-the-iphone-16-pro?utm_medium=rss)
+ - [Apple Music violates EU antitrust laws, $39 billion fine possible](https://appleinsider.com/articles/23/02/28/apple-music-violates-eu-antitrust-laws-39-billion-fine-possible?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
