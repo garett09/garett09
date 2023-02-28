@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cotton Candy Vibes](http://9gag.com/gag/aWG4oW3)
- - 🚯 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - 🚖 [Why does a 13 and 14 year old has a gun?](http://9gag.com/gag/aL1nnKx)
+ - 🚯 [This is nothing...](http://9gag.com/gag/axoyO1p)
  - 🚯 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 --- 
