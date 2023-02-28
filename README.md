@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plugable&#39;s new docking stations bring three displays to M1 Macs](https://appleinsider.com/articles/23/02/28/plugables-new-docking-stations-bring-three-displays-to-m1-macs?utm_medium=rss)
- - [No cell coverage? No problem. Any phone can text over satellite with this gadget](https://www.androidauthority.com/motorola-defy-satellite-link-3290893/)
- - [Qualcomm&#39;s M2-beating chip probably won&#39;t arrive until after M3 drops](https://appleinsider.com/articles/23/02/28/qualcomms-m2-beating-chip-probably-wont-arrive-until-after-m3-drops?utm_medium=rss)<!-- TECH:END -->
+ - [This cool face-unlock sensor sits under the display and can be used for payments](https://www.androidauthority.com/trinamix-under-display-face-unlock-3290701/)
+ - [65% off the Google Nest Wi-Fi, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
+ - [TECNO Phantom V Fold hands-on impressions: Showing spirit](https://www.androidauthority.com/tecno-phantom-v-fold-hands-on-3289899/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
