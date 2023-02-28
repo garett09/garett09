@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 16 won’t be delayed ‘unless a meteor falls on Japan’](https://www.polygon.com/23610636/final-fantasy-16-release-date-no-delay-square-enix)
- - [Chainsaw Man X Goddess of Victory: Nikke is now live on PC](https://www.pcgamer.com/chainsaw-man-x-goddess-of-victory-nikke-is-now-live-on-pc)
- - [Inside the F1 team treating esports like a Formula One Grand Prix](https://www.pcgamer.com/alpine-esports-sim-racing-formula-one-data)<!-- GAME:END -->
+ - [For Michael B. Jordan, Creed III’s anime influence goes way beyond the fights](https://www.polygon.com/23617380/michael-b-jordan-creed-3-interview-anime)
+ - [Players’ Choice: Best of PS5 – The Winners](https://blog.playstation.com/2023/02/28/players-choice-best-of-ps5-the-winners/)
+ - [Players’ Choice: Best of PS5 – The Winners](https://blog.playstation.com/2023/02/28/players-choice-best-of-ps5-the-winners/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
