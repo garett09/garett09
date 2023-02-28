@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)
- - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 🚯 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
+ - 🚖 [Hmm](http://9gag.com/gag/a8q72eY)
+ - 🚯 [It should\u2026](http://9gag.com/gag/avQyxRZ)
+ - 🚯 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
 
 --- 
 
