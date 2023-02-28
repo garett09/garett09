@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The LastPass hack saga just keeps getting worse](https://appleinsider.com/articles/23/02/28/the-lastpass-hack-saga-just-keeps-getting-worse?utm_medium=rss)
- - [Temporal, which offers an open-source microservices orchestration service, raised a $75M &quot;Series B-Prime&quot; at a $1.5B+ valuation, following a $103M Series B &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230228/p22#a230228p22)
- - [Memo: Dish CEO Erik Carlson tells staff that data was stolen in a cyberattack that has kept its systems down for days; DISH falls over 7% in intraday trading &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230228/p21#a230228p21)<!-- TECH:END -->
+ - [US-based MKS Instruments, a little-known but key chip equipment supplier, says a &quot;ransomware event&quot; on &quot;production-related systems&quot; will cause delays into March &lpar;Financial Times&rpar;](http://www.techmeme.com/230228/p23#a230228p23)
+ - [Biden’s $39 billion semiconductor project is open for business](https://www.theverge.com/2023/2/28/23618885/semiconductor-chip-manufacturing-commerce-biden-white-house)
+ - [How to play &#39;Destiny 2 - Lightfall&#39; on your iPhone, iPad, or Mac](https://appleinsider.com/inside/ios/tips/how-to-play-destiny-2---lightfall-on-your-iphone-ipad-or-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
