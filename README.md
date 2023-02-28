@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House gives federal agencies 30 days to ensure they do not have TikTok installed on government devices and adjust IT contracts with vendors accordingly &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230227/p25#a230227p25)
- - [See Glorious Green and Red Aurora Shimmer in Stunning Video     - CNET](https://www.cnet.com/science/space/see-glorious-green-and-red-aurora-shimmer-in-stunning-video/#ftag=CAD590a51e)
- - [Pedro Pascal Plays a Rugged Space Explorer In This Vibey Sci-Fi Gem     - CNET](https://www.cnet.com/culture/entertainment/pedro-pascal-plays-a-rugged-space-explorer-in-this-vibey-sci-fi-gem/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to ChatGPT &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230227/p27#a230227p27)
+ - [DCG reports 2022 revenue of $719M and a loss of $1.1B as the firm struggled with plunging crypto prices and the restructuring of its lending platform, Genesis &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/230227/p26#a230227p26)
+ - [&#39;Ted Lasso&#39; on Apple TV Plus: It&#39;s Ted vs. Nate in Season 3 Trailer     - CNET](https://www.cnet.com/culture/entertainment/ted-lasso-on-apple-tv-plus-its-ted-vs-nate-in-season-3-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
