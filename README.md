@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They killed him because he told the truth. John McAfee everyone...](http://9gag.com/gag/abvAxPp)
- - 🚯 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
- - 🚯 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
+ - 🚖 [Chyna.](http://9gag.com/gag/amAoVo4)
+ - 🚯 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)
+ - 🚯 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
 
 --- 
 
