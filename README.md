@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 4 years, Destiny 2&#39;s Cayde-6 finally gets the memorial he deserves](https://www.pcgamer.com/after-4-years-destiny-2s-cayde-6-finally-gets-the-memorial-he-deserves)
- - [Five Nights At Freddy’s Movie Set Spotted In The Wild](https://kotaku.com/five-nights-at-freddys-fnaf-movie-set-blumhouse-m3gan-1850169388)
- - [How to get water and a water flask in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-water-collector-flask)<!-- GAME:END -->
+ - [Where to buy the Pokémon Go Plus Plus device](https://www.polygon.com/deals/23616814/where-to-buy-pokemon-go-plus-tracker)
+ - [Final Fantasy XVI Producer Doesn&#39;t Seem To Love The Term &#39;JRPG&#39;](https://kotaku.com/ff16-yoshi-p-jrpg-square-enix-yoshida-previews-ps5-1850169822)
+ - [Dead Ringers on Amazon looks even more horrifying than the 1988 original](https://www.polygon.com/23619211/dead-ringers-rachel-weisz-teaser-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
