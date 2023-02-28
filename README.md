@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft expands Xbox Game Pass to 40 new countries, including in Latin America, the Middle East, and Eastern Europe, taking its total to 86 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230228/p6#a230228p6)
- - [Amazon announces &quot;regular, free&quot; updates for the Kindle Scribe, starting with new brush types and organization tools, to address the device&#39;s mediocre software &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230228/p5#a230228p5)
- - [I used an offline AI to generate an image of a puppy retriever on a phone](https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/)<!-- TECH:END -->
+ - [The Mining Industry’s Next Frontier Is Deep, Deep Under the Sea](https://www.wired.com/story/deep-sea-mining-electric-vehicle-battery/)
+ - [OnePlus confirms launch details for upcoming foldable phone](https://www.androidauthority.com/oneplus-foldable-launch-3290622/)
+ - [Access Now: in 2022, 35 countries instituted internet shutdowns at least 187 times, led by India with 84 disruptions, Russia causing 22 in Ukraine, and more &lpar;Niha Masih/Washington Post&rpar;](http://www.techmeme.com/230228/p9#a230228p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
