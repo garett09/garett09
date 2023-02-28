@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)
- - [Staff at Ubisoft&#39;s Beyond Good and Evil 2 studio are reportedly at breaking point](https://www.pcgamer.com/staff-at-ubisofts-beyond-good-and-evil-2-studio-are-reportedly-at-breaking-point)
- - [Where to find the winter jacket in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-winter-jacket-location)<!-- GAME:END -->
+ - [Elden Ring Is Getting An Expansion That May Go Into Its Biggest Mystery: Miquella](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)
+ - [Staff at Ubisoft&#39;s Beyond Good and Evil 2 studio are reportedly at breaking point](https://www.pcgamer.com/staff-at-ubisofts-beyond-good-and-evil-2-studio-are-reportedly-at-breaking-point)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
