@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin BoostCharge Pro for Apple Watch review: Reliable, portable fast charging](https://www.androidauthority.com/belkin-boostcharge-pro-portable-fast-charger-apple-watch-review-3287937/)
- - [Jackbox 9 is now available in French, Italian, German, and two types of Spanish](https://www.theverge.com/2023/2/28/23618982/jackbox-9-party-game-translation-languages)
- - [Decentralized social network Bluesky debuts in the iOS App Store as an invite-only beta; Twitter started Bluesky in 2019 and spun off the project in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230228/p26#a230228p26)<!-- TECH:END -->
+ - [Everything new in iOS 16.4 beta 2](https://appleinsider.com/articles/23/02/28/everything-new-in-ios-164-beta-2?utm_medium=rss)
+ - [HP reports Q1 revenue down 18.8% YoY to $13.8B, vs. $14.12B est., Personal Systems revenue down 24% YoY to $9.2B, and Printing revenue down 5% YoY to $4.6B &lpar;Reuters&rpar;](http://www.techmeme.com/230228/p28#a230228p28)
+ - [Google Wallet on Wear OS is rolling out support to more countries](https://www.androidauthority.com/google-wallet-countries-3291116/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
