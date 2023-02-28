@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases a Windows 11 update, adding the new AI-powered Bing search to the taskbar, Phone Link for iOS, screen recording, Notepad tabs, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230228/p15#a230228p15)
- - [Apple suppliers in a rush to leave China, says ex-AirPods Pro maker](https://appleinsider.com/articles/23/02/28/apple-suppliers-in-a-rush-to-leave-china-says-ex-airpods-pro-maker?utm_medium=rss)
- - [Pixelmator Pro improves video features, adds green screen removal](https://appleinsider.com/articles/23/02/28/pixelmator-pro-improves-video-features-adds-green-screen-removal?utm_medium=rss)<!-- TECH:END -->
+ - [Plugable&#39;s new docking stations bring three displays to M1 Macs](https://appleinsider.com/articles/23/02/28/plugables-new-docking-stations-bring-three-displays-to-m1-macs?utm_medium=rss)
+ - [No cell coverage? No problem. Any phone can text over satellite with this gadget](https://www.androidauthority.com/motorola-defy-satellite-link-3290893/)
+ - [Qualcomm&#39;s M2-beating chip probably won&#39;t arrive until after M3 drops](https://appleinsider.com/articles/23/02/28/qualcomms-m2-beating-chip-probably-wont-arrive-until-after-m3-drops?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
