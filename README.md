@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why does a 13 and 14 year old has a gun?](http://9gag.com/gag/aL1nnKx)
- - 🚯 [This is nothing...](http://9gag.com/gag/axoyO1p)
- - 🚯 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
+ - 🚖 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - 🚯 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
+ - 🚯 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
 
 --- 
 
