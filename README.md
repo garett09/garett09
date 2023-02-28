@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For Michael B. Jordan, Creed III’s anime influence goes way beyond the fights](https://www.polygon.com/23617380/michael-b-jordan-creed-3-interview-anime)
- - [Players’ Choice: Best of PS5 – The Winners](https://blog.playstation.com/2023/02/28/players-choice-best-of-ps5-the-winners/)
- - [Players’ Choice: Best of PS5 – The Winners](https://blog.playstation.com/2023/02/28/players-choice-best-of-ps5-the-winners/)<!-- GAME:END -->
+ - [Xbox Games With Gold March titles: World War 2 strategy and creepy indie adventures](https://www.polygon.com/23144247/xbox-free-games-with-gold-march-2023-xbox-one-xbox-360)
+ - [Worlds Beyond Number is the next big breakout actual play podcast](https://www.polygon.com/23613815/worlds-beyond-number-dnd-podcast-actual-play-interview-iyengar-brennan-lee-mulligan-ishii-wilson)
+ - [Where to find Atomic Heart’s testing grounds](https://www.polygon.com/guides/23614054/atomic-heart-testing-grounds-polygons-terminals-weapon-blueprints-facility-3826)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
