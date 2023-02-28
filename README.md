@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Biden administration considers revoking export licenses to US suppliers to Huawei, such as Qualcomm and Intel, impacting 4G and 5G devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230228/p13#a230228p13)
- - [iPhone 16 Pro stilll rumored to gain under-display Face ID](https://appleinsider.com/articles/23/02/28/under-display-face-id-still-in-the-cards-for-the-iphone-16-pro?utm_medium=rss)
- - [Apple Music violates EU antitrust laws, $39 billion fine possible](https://appleinsider.com/articles/23/02/28/apple-music-violates-eu-antitrust-laws-39-billion-fine-possible?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft releases a Windows 11 update, adding the new AI-powered Bing search to the taskbar, Phone Link for iOS, screen recording, Notepad tabs, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230228/p15#a230228p15)
+ - [Apple suppliers in a rush to leave China, says ex-AirPods Pro maker](https://appleinsider.com/articles/23/02/28/apple-suppliers-in-a-rush-to-leave-china-says-ex-airpods-pro-maker?utm_medium=rss)
+ - [Pixelmator Pro improves video features, adds green screen removal](https://appleinsider.com/articles/23/02/28/pixelmator-pro-improves-video-features-adds-green-screen-removal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
