@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mining Industry’s Next Frontier Is Deep, Deep Under the Sea](https://www.wired.com/story/deep-sea-mining-electric-vehicle-battery/)
- - [OnePlus confirms launch details for upcoming foldable phone](https://www.androidauthority.com/oneplus-foldable-launch-3290622/)
- - [Access Now: in 2022, 35 countries instituted internet shutdowns at least 187 times, led by India with 84 disruptions, Russia causing 22 in Ukraine, and more &lpar;Niha Masih/Washington Post&rpar;](http://www.techmeme.com/230228/p9#a230228p9)<!-- TECH:END -->
+ - [After declining Twitter engagement, a writer games the For You algorithm, which he suspected was using invisible subreddits via Topics to organize tweets &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/230228/p11#a230228p11)
+ - [Apple wants to shift the mindsets of doctors and patients, says Health VP](https://appleinsider.com/articles/23/02/28/apple-wants-to-shift-the-mindsets-of-doctors-and-patients-says-health-vp?utm_medium=rss)
+ - [Hyper Thunderbolt 4 Power Hub review: Fast connectivity for demanding users](https://appleinsider.com/articles/23/02/28/hyper-thunderbolt-4-power-hub-review-fast-connectivity-for-demanding-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
