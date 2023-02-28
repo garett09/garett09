@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thought 240W was fast? Redmi now has 300W charging tech!](https://www.androidauthority.com/redmi-300w-fast-charging-3290710/)
- - [The Oscars 2023: Nominations, When the Show Takes Place, How to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-oscars-2023-nominations-when-the-show-takes-place-how-to-watch/#ftag=CAD590a51e)
- - [Gmail’s client-side encryption is now available to more businesses](https://www.theverge.com/2023/2/28/23617954/gmail-client-side-encryption-email-general-availability)<!-- TECH:END -->
+ - [Microsoft expands Xbox Game Pass to 40 new countries, including in Latin America, the Middle East, and Eastern Europe, taking its total to 86 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230228/p6#a230228p6)
+ - [Amazon announces &quot;regular, free&quot; updates for the Kindle Scribe, starting with new brush types and organization tools, to address the device&#39;s mediocre software &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230228/p5#a230228p5)
+ - [I used an offline AI to generate an image of a puppy retriever on a phone](https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
