@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
- - 🚯 [Beer is a sin](http://9gag.com/gag/aPgAeoq)
- - 🚯 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
+ - 🚖 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 🚯 [They killed him because he told the truth. John McAfee everyone...](http://9gag.com/gag/abvAxPp)
+ - 🚯 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)<!-- MEMES:END -->
 
 --- 
 
