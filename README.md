@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor is the next brand to offer a longer software update policy](https://www.androidauthority.com/honor-update-policy-2023-3289986/)
- - [AI pioneer and UCSD professor Terry Sejnowski argues that AI chatbots are often prodded into producing strange results by the people who are using them &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230228/p2#a230228p2)
- - [You can now talk to ChatGPT on Snapchat, but don’t reveal any secrets](https://www.androidauthority.com/snapchat-chatgpt-my-ai-3290653/)<!-- TECH:END -->
+ - [Thought 240W was fast? Redmi now has 300W charging tech!](https://www.androidauthority.com/redmi-300w-fast-charging-3290710/)
+ - [The Oscars 2023: Nominations, When the Show Takes Place, How to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-oscars-2023-nominations-when-the-show-takes-place-how-to-watch/#ftag=CAD590a51e)
+ - [Gmail’s client-side encryption is now available to more businesses](https://www.theverge.com/2023/2/28/23617954/gmail-client-side-encryption-email-general-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
