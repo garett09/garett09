@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get The Witcher’s Geralt skin in Fortnite](https://www.polygon.com/fortnite-guide/23589065/the-witcher-skin-geralt-of-rivia-get-unlock-challenges)
- - [Naruto Game Series, Ranked From Worst To Best](https://kotaku.com/naruto-games-ranked-shippuden-ninja-storm-broken-bond-1850168272)
- - [Where to find the GPS locators in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-gps-locators)<!-- GAME:END -->
+ - [Chihiro finds her way home in Spirited Away stage play movie trailer](https://www.polygon.com/23618818/spirited-away-stage-play-movie-release-date-trailer-ghibli-fest)
+ - [Xbox boss Phil Spencer somehow managed to 100% Vampire Survivors while managing the biggest videogame acquisition in history](https://www.pcgamer.com/xbox-boss-phil-spencer-somehow-managed-to-100-vampire-survivors-while-managing-the-biggest-videogame-acquisition-in-history)
+ - [Marvel still doesn’t know what to do with its most popular hero, Spider-Man](https://www.polygon.com/23617429/marvel-spider-man-comics-boo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
