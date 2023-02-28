@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy the Pokémon Go Plus Plus device](https://www.polygon.com/deals/23616814/where-to-buy-pokemon-go-plus-tracker)
- - [Final Fantasy XVI Producer Doesn&#39;t Seem To Love The Term &#39;JRPG&#39;](https://kotaku.com/ff16-yoshi-p-jrpg-square-enix-yoshida-previews-ps5-1850169822)
- - [Dead Ringers on Amazon looks even more horrifying than the 1988 original](https://www.polygon.com/23619211/dead-ringers-rachel-weisz-teaser-trailer-release-date)<!-- GAME:END -->
+ - [How to get Defiant Keys in Destiny 2&#39;s Season of Defiance](https://www.pcgamer.com/destiny-2-defiant-keys)
+ - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
+ - [How to get the shotgun in Sons of the Forest](https://www.polygon.com/guides/23619151/sons-of-the-forest-shotgun-ammo-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
