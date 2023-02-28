@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm](http://9gag.com/gag/a8q72eY)
- - 🚯 [It should\u2026](http://9gag.com/gag/avQyxRZ)
- - 🚯 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
+ - 🚖 [Beer is a sin](http://9gag.com/gag/aPgAeoq)
+ - 🚯 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
+ - 🚯 [Good question.](http://9gag.com/gag/aDY2VEB)<!-- MEMES:END -->
 
 --- 
 
