@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best discard decks in Marvel Snap and how to play them](https://www.polygon.com/guides/23613497/marvel-snap-discard-decks-best-how-to-modok-hela)
- - [New Netflix Must-Watch Reality Show Is Now Steeped In Assault Allegations](https://kotaku.com/netflix-physical-100-show-allegation-assault-squid-game-1850164031)
- - [Where to find the armsmaster rusty weapons in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23617445/rusty-weapons-location-armsmaster-skills-unlock-staff-bow-dagger-polearm-sword-axe)<!-- GAME:END -->
+ - [Oldest Known Miyamoto Interview Reveals Nintendo Staff Loved…Donkey Kong Jr. Math](https://kotaku.com/miyamoto-interview-mario-zelda-endo-namco-xevious-1850166035)
+ - [At Least $100,000 Worth Of Magic Cards Dumped In Landfill](https://kotaku.com/magic-the-gathering-cards-landfill-dump-destroyed-texas-1850165964)
+ - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
