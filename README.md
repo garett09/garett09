@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games With Gold March titles: World War 2 strategy and creepy indie adventures](https://www.polygon.com/23144247/xbox-free-games-with-gold-march-2023-xbox-one-xbox-360)
- - [Worlds Beyond Number is the next big breakout actual play podcast](https://www.polygon.com/23613815/worlds-beyond-number-dnd-podcast-actual-play-interview-iyengar-brennan-lee-mulligan-ishii-wilson)
- - [Where to find Atomic Heart’s testing grounds](https://www.polygon.com/guides/23614054/atomic-heart-testing-grounds-polygons-terminals-weapon-blueprints-facility-3826)<!-- GAME:END -->
+ - [How to get The Witcher’s Geralt skin in Fortnite](https://www.polygon.com/fortnite-guide/23589065/the-witcher-skin-geralt-of-rivia-get-unlock-challenges)
+ - [Naruto Game Series, Ranked From Worst To Best](https://kotaku.com/naruto-games-ranked-shippuden-ninja-storm-broken-bond-1850168272)
+ - [Where to find the GPS locators in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-gps-locators)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
