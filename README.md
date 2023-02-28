@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This cool face-unlock sensor sits under the display and can be used for payments](https://www.androidauthority.com/trinamix-under-display-face-unlock-3290701/)
- - [65% off the Google Nest Wi-Fi, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
- - [TECNO Phantom V Fold hands-on impressions: Showing spirit](https://www.androidauthority.com/tecno-phantom-v-fold-hands-on-3289899/)<!-- TECH:END -->
+ - [Former FTX Director of Engineering Nishad Singh will plead guilty to three US fraud charges, according to his lawyer, becoming the latest executive to cooperate &lpar;Reuters&rpar;](http://www.techmeme.com/230228/p18#a230228p18)
+ - [Chrome tweaked to improve memory use &amp; battery life on MacBook](https://appleinsider.com/articles/23/02/28/chrome-tweaked-to-improve-memory-use-battery-life-on-macbook?utm_medium=rss)
+ - [India’s YouTube Vigilante Is Wanted for Murder](https://www.wired.com/story/indias-youtube-vigilante-monu-manesar-murder/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
