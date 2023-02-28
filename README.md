@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Speechless #15](http://9gag.com/gag/ajVPBqQ)
- - 🚯 [Amsterdam](http://9gag.com/gag/aVbvmM8)
- - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
+ - 🚖 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
+ - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 🚯 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)<!-- MEMES:END -->
 
 --- 
 
