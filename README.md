@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
- - 🚯 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
- - 🚯 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
+ - 🚖 [Children seeing a camera for the first time in 1901.](http://9gag.com/gag/a8q7D5Y)
+ - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)
+ - 🚯 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
 
 --- 
 
