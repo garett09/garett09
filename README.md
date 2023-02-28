@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 🚯 [They killed him because he told the truth. John McAfee everyone...](http://9gag.com/gag/abvAxPp)
- - 🚯 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)<!-- MEMES:END -->
+ - 🚖 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)
+ - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 🚯 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 --- 
 
