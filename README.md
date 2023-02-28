@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chyna.](http://9gag.com/gag/amAoVo4)
- - 🚯 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)
- - 🚯 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
+ - 🚖 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
+ - 🚯 [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)
+ - 🚯 [Chyna.](http://9gag.com/gag/amAoVo4)<!-- MEMES:END -->
 
 --- 
 
