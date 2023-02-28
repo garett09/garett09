@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Quantumania writer says Kang Dynasty demanded the anti-Thanos](https://www.polygon.com/23616949/kang-ant-man-quantumania-avengers-kang-dynasty-arc-jeff-loveness)
- - [Pokémon Go Spotlight Hour: Can Slakoth be shiny?](https://www.polygon.com/pokemon-go-guide/23618690/can-slakoth-be-shiny-spotlight-hour-february)
- - [Final Fantasy XVI Previews Reveal Series’ Pivot Toward All-Out Action](https://kotaku.com/final-fantasy-xvi-square-enix-ff16-preview-action-1850169086)<!-- GAME:END -->
+ - [After 4 years, Destiny 2&#39;s Cayde-6 finally gets the memorial he deserves](https://www.pcgamer.com/after-4-years-destiny-2s-cayde-6-finally-gets-the-memorial-he-deserves)
+ - [Five Nights At Freddy’s Movie Set Spotted In The Wild](https://kotaku.com/five-nights-at-freddys-fnaf-movie-set-blumhouse-m3gan-1850169388)
+ - [How to get water and a water flask in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-water-collector-flask)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
