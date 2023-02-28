@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)
- - [Elden Ring Is Getting An Expansion That May Go Into Its Biggest Mystery: Miquella](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)
- - [Staff at Ubisoft&#39;s Beyond Good and Evil 2 studio are reportedly at breaking point](https://www.pcgamer.com/staff-at-ubisofts-beyond-good-and-evil-2-studio-are-reportedly-at-breaking-point)<!-- GAME:END -->
+ - [Final Fantasy 16 won’t be delayed ‘unless a meteor falls on Japan’](https://www.polygon.com/23610636/final-fantasy-16-release-date-no-delay-square-enix)
+ - [Chainsaw Man X Goddess of Victory: Nikke is now live on PC](https://www.pcgamer.com/chainsaw-man-x-goddess-of-victory-nikke-is-now-live-on-pc)
+ - [Inside the F1 team treating esports like a Formula One Grand Prix](https://www.pcgamer.com/alpine-esports-sim-racing-formula-one-data)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
