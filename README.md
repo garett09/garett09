@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo Was On The Catwalk At Milan Fashion Week](https://kotaku.com/diablo-blizzard-milan-fashion-week-runway-catwalk-pc-1850166228)
  - [Oldest Known Miyamoto Interview Reveals Nintendo Staff Loved…Donkey Kong Jr. Math](https://kotaku.com/miyamoto-interview-mario-zelda-endo-namco-xevious-1850166035)
- - [At Least $100,000 Worth Of Magic Cards Dumped In Landfill](https://kotaku.com/magic-the-gathering-cards-landfill-dump-destroyed-texas-1850165964)
- - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)<!-- GAME:END -->
+ - [At Least $100,000 Worth Of Magic Cards Dumped In Landfill](https://kotaku.com/magic-the-gathering-cards-landfill-dump-destroyed-texas-1850165964)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
