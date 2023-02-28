@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US-based MKS Instruments, a little-known but key chip equipment supplier, says a &quot;ransomware event&quot; on &quot;production-related systems&quot; will cause delays into March &lpar;Financial Times&rpar;](http://www.techmeme.com/230228/p23#a230228p23)
- - [Biden’s $39 billion semiconductor project is open for business](https://www.theverge.com/2023/2/28/23618885/semiconductor-chip-manufacturing-commerce-biden-white-house)
- - [How to play &#39;Destiny 2 - Lightfall&#39; on your iPhone, iPad, or Mac](https://appleinsider.com/inside/ios/tips/how-to-play-destiny-2---lightfall-on-your-iphone-ipad-or-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Say sayonara to blurry photos thanks to this sharp camera tech](https://www.androidauthority.com/prophesee-metavision-image-sensor-3291007/)
+ - [Target &amp; Apple partner for more retail shopping experiences](https://appleinsider.com/articles/23/02/28/target-apple-partner-for-more-retail-shopping-experiences?utm_medium=rss)
+ - [Typeface, which offers generative AI tools for marketing, emerges from stealth with $65M from Lightspeed Venture Partners, GV, M12, and Menlo Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230228/p24#a230228p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
