@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have arrived at your destination](http://9gag.com/gag/aBdyP1O)
- - 🚯 [Smells like savings](http://9gag.com/gag/a2Kv899)
- - 🚯 [And they do](http://9gag.com/gag/adPBQbd)<!-- MEMES:END -->
+ - 🚖 [Smells like savings](http://9gag.com/gag/a2Kv899)
+ - 🚯 [Thank you some random person](http://9gag.com/gag/adPBnjj)
+ - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
 
 --- 
 
