@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Say sayonara to blurry photos thanks to this sharp camera tech](https://www.androidauthority.com/prophesee-metavision-image-sensor-3291007/)
- - [Target &amp; Apple partner for more retail shopping experiences](https://appleinsider.com/articles/23/02/28/target-apple-partner-for-more-retail-shopping-experiences?utm_medium=rss)
- - [Typeface, which offers generative AI tools for marketing, emerges from stealth with $65M from Lightspeed Venture Partners, GV, M12, and Menlo Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230228/p24#a230228p24)<!-- TECH:END -->
+ - [Belkin BoostCharge Pro for Apple Watch review: Reliable, portable fast charging](https://www.androidauthority.com/belkin-boostcharge-pro-portable-fast-charger-apple-watch-review-3287937/)
+ - [Jackbox 9 is now available in French, Italian, German, and two types of Spanish](https://www.theverge.com/2023/2/28/23618982/jackbox-9-party-game-translation-languages)
+ - [Decentralized social network Bluesky debuts in the iOS App Store as an invite-only beta; Twitter started Bluesky in 2019 and spun off the project in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230228/p26#a230228p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
