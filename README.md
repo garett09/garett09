@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
- - 🚯 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 🚯 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
+ - 🚖 [Cotton Candy Vibes](http://9gag.com/gag/aWG4oW3)
+ - 🚯 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - 🚯 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 --- 
 
