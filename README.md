@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Square Enix snuffs out Luminous, the studio behind Forspoken](https://www.pcgamer.com/square-enix-snuffs-out-luminous-the-studio-behind-forspoken)
  - [Pokemon Go leader counters for Sierra, Arlo, and Cliff in March 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Pokémon Go Rocket Giovanni counters, team in March 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [PlayStation VR 2 games releasing in March, all upcoming titles for 2023](https://www.polygon.com/23562760/psvr-2-release-date-launch-games-ps5)<!-- GAME:END -->
+ - [Pokémon Go Rocket Giovanni counters, team in March 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
