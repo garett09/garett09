@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
- - 🚯 [Take your time](http://9gag.com/gag/az2xRXK)
- - 🚯 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)<!-- MEMES:END -->
+ - 🚖 [Blimey](http://9gag.com/gag/a04eOAz)
+ - 🚯 [Accurate](http://9gag.com/gag/aWG4b53)
+ - 🚯 [Trust the science.](http://9gag.com/gag/adPBRzj)<!-- MEMES:END -->
 
 --- 
 
