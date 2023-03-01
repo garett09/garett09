@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To show off a gun](http://9gag.com/gag/awZyvyr)
- - 🚯 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
- - 🚯 [B\u00f6nnie &amp; Clyde](http://9gag.com/gag/aMEVqpV)<!-- MEMES:END -->
+ - 🚖 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
+ - 🚯 [Equality?](http://9gag.com/gag/aOx8DNM)
+ - 🚯 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
 
 --- 
 
