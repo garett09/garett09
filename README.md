@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)
- - [Fortnite Is Adding Cyborgs To The Rocky Universe](https://kotaku.com/rocky-creed-iii-fortnite-skin-michael-b-jordan-anime-1850170535)
- - [Call of Duty’s fox boy is packing some real heat](https://www.polygon.com/23619121/call-of-duty-modern-warfare-warzone-2-hutch-skin-penis)<!-- GAME:END -->
+ - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2023/02/28/mega-march-promotion-comes-to-playstation-store-3/)
+ - [Sons of the Forest weapons and gun locations](https://www.pcgamer.com/sons-of-the-forest-weapons-gun-locations)
+ - [Activision Accused Of Illegally Firing QA Testers Over Remote Work Protest](https://kotaku.com/activision-accused-of-illegally-fired-qa-testers-over-r-1850171073)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
