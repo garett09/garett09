@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
- - 🚯 [Chyna.](http://9gag.com/gag/amAoVo4)
- - 🚯 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)<!-- MEMES:END -->
+ - 🚖 [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
+ - 🚯 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
+ - 🚯 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
 
 --- 
 
