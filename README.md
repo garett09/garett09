@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV Little Ladies’ Day 2023 event guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/3/1/23620616/ffxiv-little-ladies-day-2023-fan-fare-emote-orchestrion)
- - [Time has redeemed Dark Souls 2](https://www.pcgamer.com/time-has-redeemed-dark-souls-2)
- - [MLB The Show 23 is Bringing the Heat with Tons of New Updates and Features](https://news.xbox.com/en-us/2023/03/01/mlb-the-show-23-is-bringing-the-heat-with-tons-of-new-updates-and-features/)<!-- GAME:END -->
+ - [How Modding Passion Brought UGC-Focused Leap to Life – Available Now](https://news.xbox.com/en-us/2023/03/01/how-modding-brought-leap-to-life/)
+ - [Oda’s AI-‘written’ One Piece chapter weirdly makes sense](https://www.polygon.com/23620489/ai-written-one-piece-chapter-eiichiro-oda-chatgpt)
+ - [Free Horror Game Is A Corrupted, Nightmare Version Of N64&#39;s Goldeneye](https://kotaku.com/free-horror-game-fps-shooter-goldeneye-n64-007-glitch-1850173904)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
