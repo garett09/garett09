@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft brings ChatGPT-powered Bing and iMessage support to Windows](https://www.androidauthority.com/microsoft-bing-ai-imessage-windows-11-3291322/)
- - [OnePus 11 cracks under pressure in durability test](https://www.androidauthority.com/oneplus-11-durability-test-3291319/)
- - [Email: FTX&#39;s derivatives exchange LedgerX tells clients to send domestic wire transfers to Signature Bank instead of Silvergate Bank going forward &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p2#a230301p2)<!-- TECH:END -->
+ - [South Korean e-commerce giant Coupang reports Q4 revenue up 4.9% YoY to $5.33B and active customers up 1% YoY to 18.1M, both below estimates &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230301/p4#a230301p4)
+ - [Hands-on with the Nothing Phone clone: Not so lit](https://www.androidauthority.com/unihertz-luna-hands-on-3291326/)
+ - [Daily Authority: ♨️ Rounding up the best tech from MWC 2023](https://www.androidauthority.com/daily-authority-march-1-2023-3291307/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
