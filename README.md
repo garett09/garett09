@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality?](http://9gag.com/gag/aOx8DNM)
- - 🚯 [Not even the movies are going to need make-up artists in production anymore](http://9gag.com/gag/aeQ9Wy5)
- - 🚯 [Ooh Apple](http://9gag.com/gag/aOx8jxy)<!-- MEMES:END -->
+ - 🚖 [B\u00f6nnie &amp; Clyde](http://9gag.com/gag/aMEVqpV)
+ - 🚯 [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - 🚯 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)<!-- MEMES:END -->
 
 --- 
 
