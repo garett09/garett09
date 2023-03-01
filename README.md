@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blimey](http://9gag.com/gag/a04eOAz)
- - 🚯 [Accurate](http://9gag.com/gag/aWG4b53)
- - 🚯 [Trust the science.](http://9gag.com/gag/adPBRzj)<!-- MEMES:END -->
+ - 🚖 [Drunken yahoo&#39;s in the lift](http://9gag.com/gag/ap9RVA8)
+ - 🚯 [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)
+ - 🚯 [To show off a gun](http://9gag.com/gag/awZyvyr)<!-- MEMES:END -->
 
 --- 
 
