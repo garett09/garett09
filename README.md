@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best microSD cards for the Nintendo Switch](https://www.polygon.com/deals/23620667/best-micro-sd-cards-nintendo-switch-lite-oled)
- - [Your dog will steal even more hearts in these Persona 5 Royal pet accessories](https://www.polygon.com/deals/23618987/persona-5-royal-pet-accessories-where-to-buy)
- - [Here Are All The Metroid Prime Remastered Morph Ball Tips You Need](https://kotaku.com/metroid-prime-remastered-switch-boost-ball-tips-upgrade-1850174287)<!-- GAME:END -->
+ - [How to get the golden armor and katana in Sons of the Forest](https://www.polygon.com/guides/23619451/sons-of-the-forest-golden-armor-katana-location-where-to-find)
+ - [After Four Years, The Pokémon Sleep App Is Finally Real](https://kotaku.com/what-is-pokemon-sleep-release-date-app-ios-android-1850162624)
+ - [The best microSD cards for the Nintendo Switch](https://www.polygon.com/deals/23620667/best-micro-sd-cards-nintendo-switch-lite-oled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
