@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Headlong puzzle in Destiny 2: Lightfall](https://www.pcgamer.com/destiny-2-headlong-puzzle-harpies)
- - [All the big new games coming out in March](https://www.polygon.com/23618922/new-video-games-march-2023-release-dates)
- - [You wish your relationship was as intimate as me and my low profile keyboard](https://www.pcgamer.com/you-wish-your-relationship-was-as-intimate-as-mine-and-my-low-profile-keyboards)<!-- GAME:END -->
+ - [Sure looks like the next Gears of War is ramping up production](https://www.pcgamer.com/sure-looks-like-the-next-gears-of-war-is-ramping-up-production)
+ - [The face of Final Fantasy doesn&#39;t like the term JRPG, once considered it &#39;discriminatory&#39;](https://www.pcgamer.com/the-face-of-final-fantasy-doesnt-like-the-term-jrpg-once-considered-it-discriminatory)
+ - [Players’ Choice: Vote for February 2023’s best new game](https://blog.playstation.com/2023/03/01/players-choice-vote-for-february-2023s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
