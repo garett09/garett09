@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn...](http://9gag.com/gag/aGEyOBz)
- - 🚯 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
- - 🚯 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)<!-- MEMES:END -->
+ - 🚖 [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)
+ - 🚯 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)
+ - 🚯 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
 
 --- 
 
