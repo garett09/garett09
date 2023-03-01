@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Find Flamingos Acting Like Cliquey High Schoolers     - CNET](https://www.cnet.com/science/biology/scientists-find-flamingos-acting-like-cliquey-high-schoolers/#ftag=CAD590a51e)
- - [New App Store benchmarks let devs compare app performance to peers](https://appleinsider.com/articles/23/03/01/new-app-store-benchmarks-let-devs-compare-app-performance-to-peers?utm_medium=rss)
- - [Save on Tax Software Like H&amp;R Block, TurboTax and More Ahead of Deadline Day     - CNET](https://www.cnet.com/deals/save-on-tax-software-like-h-r-block-turbotax-and-more-ahead-of-deadline-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GitHub&#39;s free secret scanning alerts service, which notifies users of potential repository leaks, hits general availability, after a December 2022 beta release &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230301/p27#a230301p27)
+ - [How T-Mobile, Verizon and Others Are Fighting the Climate Crisis     - CNET](https://www.cnet.com/tech/mobile/what-is-your-phone-carrier-doing-about-the-climate-crisis/#ftag=CAD590a51e)
+ - [Nothing Phone 2 Is Coming to the US With a Big Boost     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2-is-coming-to-the-us-with-a-big-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
