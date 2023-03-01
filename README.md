@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, YouTube head Neal Mohan outlined his key priorities and teases upcoming features, including generative AI tools for creators and Shorts updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230301/p13#a230301p13)
- - [Rad Power’s new e-bike and trailer system might convince you to sell your car](https://www.androidauthority.com/rad-power-radrunner-3-plus-3289080/)
- - [I Asked an Algorithm to Optimize My Life. Here&#39;s What Happened](https://www.wired.com/story/i-asked-an-algorithm-to-optimize-my-life/)<!-- TECH:END -->
+ - [The House Foreign Affairs Committee votes 24 to 16 to give President Joe Biden the power to ban TikTok and other apps; committee Democrats opposed the bill &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230301/p16#a230301p16)
+ - [Sources: Elliott Management nominated a slate of directors for Salesforce&#39;s board, likely including Elliott&#39;s Jesse Cohn, ahead of the company&#39;s Q4 earnings &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230301/p15#a230301p15)
+ - [Microsoft&#39;s Windows 11 announcement, adding the new Bing &quot;directly into the taskbar&quot;, was wildly misleading as using Bing Chat still requires opening Edge &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230301/p14#a230301p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
