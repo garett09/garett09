@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sure looks like the next Gears of War is ramping up production](https://www.pcgamer.com/sure-looks-like-the-next-gears-of-war-is-ramping-up-production)
- - [The face of Final Fantasy doesn&#39;t like the term JRPG, once considered it &#39;discriminatory&#39;](https://www.pcgamer.com/the-face-of-final-fantasy-doesnt-like-the-term-jrpg-once-considered-it-discriminatory)
- - [Players’ Choice: Vote for February 2023’s best new game](https://blog.playstation.com/2023/03/01/players-choice-vote-for-february-2023s-best-new-game/)<!-- GAME:END -->
+ - [Ford files patent to allow self-driving cars to drive away from their owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
+ - [Phantom Brigade can’t convey the nuances of its own subversive mech combat](https://www.polygon.com/reviews/23619369/phantom-brigade-review-turn-based-tactics-mech-combat-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
