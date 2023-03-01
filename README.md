@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - 🚯 [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)
- - 🚯 [Me neither. .](http://9gag.com/gag/az2xQ9z)<!-- MEMES:END -->
+ - 🚖 [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - 🚯 [What can you do...](http://9gag.com/gag/agomdoq)
+ - 🚯 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
 
 --- 
 
