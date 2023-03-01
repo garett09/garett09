@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CodaMetrix, which uses AI to automate the process of translating patient records into codes for health care providers, raised a $55M Series A led by SignalFire &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/230228/p36#a230228p36)
- - [Sources: Salesforce is still paying Matthew McConaughey $10M a year to act as a &quot;creative adviser&quot; despite thousands of layoffs and multiple activist investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230228/p35#a230228p35)
- - [Dell updates the XPS 15 and 17 laptops with Intel&#39;s 13th-Gen H-series CPUs and Nvidia&#39;s RTX 40-series GPUs, starting at $2,949 and $3,399, available on March 2 &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230228/p34#a230228p34)<!-- TECH:END -->
+ - [Profile of BitMEX co-founder Arthur Hayes, who served six months of house arrest for US Bank Secrecy Act violations; sources say he&#39;s still in control of BitMEX &lpar;Jen Wieczner/New York Magazine&rpar;](http://www.techmeme.com/230301/p1#a230301p1)
+ - [Google Welcomes March Madness With Slam Dunk Yoodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-march-madness-with-slam-dunk-yoodle/#ftag=CAD590a51e)
+ - [UFC 285 Jon Jones vs. Ciryl Gane: How to Watch the Livestream, Main Event Start Time     - CNET](https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-how-to-watch-the-livestream-main-event-start-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
