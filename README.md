@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The follow-up to clever &#39;narrative roguelike&#39; Road 96 seems slim on variety and consequence](https://www.pcgamer.com/the-follow-up-to-clever-narrative-roguelike-road-96-seems-slim-on-variety-and-consequence)
- - [Twitch Streamer Kai Cenat Bodies Subscriber World Record During Black History Month](https://kotaku.com/twitch-streamer-kai-cenat-top-subscribed-record-ludwig-1850173194)
- - [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/legend-of-zelda-chronological-timeline-tears-of-the-kingdom-totk-breath-of-the-wild-botw-sequel)<!-- GAME:END -->
+ - [FFXIV Little Ladies’ Day 2023 event guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/3/1/23620616/ffxiv-little-ladies-day-2023-fan-fare-emote-orchestrion)
+ - [Time has redeemed Dark Souls 2](https://www.pcgamer.com/time-has-redeemed-dark-souls-2)
+ - [MLB The Show 23 is Bringing the Heat with Tons of New Updates and Features](https://news.xbox.com/en-us/2023/03/01/mlb-the-show-23-is-bringing-the-heat-with-tons-of-new-updates-and-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
