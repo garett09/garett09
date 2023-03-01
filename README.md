@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Modding Passion Brought UGC-Focused Leap to Life – Available Now](https://news.xbox.com/en-us/2023/03/01/how-modding-brought-leap-to-life/)
- - [Oda’s AI-‘written’ One Piece chapter weirdly makes sense](https://www.polygon.com/23620489/ai-written-one-piece-chapter-eiichiro-oda-chatgpt)
- - [Free Horror Game Is A Corrupted, Nightmare Version Of N64&#39;s Goldeneye](https://kotaku.com/free-horror-game-fps-shooter-goldeneye-n64-007-glitch-1850173904)<!-- GAME:END -->
+ - [The best microSD cards for the Nintendo Switch](https://www.polygon.com/deals/23620667/best-micro-sd-cards-nintendo-switch-lite-oled)
+ - [Your dog will steal even more hearts in these Persona 5 Royal pet accessories](https://www.polygon.com/deals/23618987/persona-5-royal-pet-accessories-where-to-buy)
+ - [Here Are All The Metroid Prime Remastered Morph Ball Tips You Need](https://kotaku.com/metroid-prime-remastered-switch-boost-ball-tips-upgrade-1850174287)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
