@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brown](http://9gag.com/gag/aeQ97Np)
- - 🚯 [Drunken yahoo&#39;s in the lift](http://9gag.com/gag/ap9RVA8)
- - 🚯 [To show off a gun](http://9gag.com/gag/awZyvyr)<!-- MEMES:END -->
+ - 🚖 [Every damm time](http://9gag.com/gag/ay2NPry)
+ - 🚯 [To show off a gun](http://9gag.com/gag/awZyvyr)
+ - 🚯 [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)<!-- MEMES:END -->
 
 --- 
 
