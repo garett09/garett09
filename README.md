@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Mac Pro is coming, confirms Apple exec](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
- - [What is iPhone Clean Energy Charging, and what you need to know](https://appleinsider.com/articles/23/03/01/iphone-clean-energy-charging---everything-you-need-to-know?utm_medium=rss)
- - [How AI Could Transform Email](https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/)<!-- TECH:END -->
+ - [In a letter, YouTube head Neal Mohan outlined his key priorities and teases upcoming features, including generative AI tools for creators and Shorts updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230301/p13#a230301p13)
+ - [Rad Power’s new e-bike and trailer system might convince you to sell your car](https://www.androidauthority.com/rad-power-radrunner-3-plus-3289080/)
+ - [I Asked an Algorithm to Optimize My Life. Here&#39;s What Happened](https://www.wired.com/story/i-asked-an-algorithm-to-optimize-my-life/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
