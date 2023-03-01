@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battery replacement costs surge for iPhones, iPads &amp; Macs](https://appleinsider.com/articles/23/03/01/battery-replacement-costs-surge-for-iphones-ipads-macs?utm_medium=rss)
- - [The Pixel Buds Pro and Pixel Buds A-Series could get a ‘Sky Blue’ version](https://www.androidauthority.com/sky-blue-pixel-buds-3291567/)
- - [Following criticism, OpenAI says it won&#39;t use data submitted through its API for &quot;service improvements&quot;, including AI model training, unless a customer opts in &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230301/p24#a230301p24)<!-- TECH:END -->
+ - [Scientists Find Flamingos Acting Like Cliquey High Schoolers     - CNET](https://www.cnet.com/science/biology/scientists-find-flamingos-acting-like-cliquey-high-schoolers/#ftag=CAD590a51e)
+ - [New App Store benchmarks let devs compare app performance to peers](https://appleinsider.com/articles/23/03/01/new-app-store-benchmarks-let-devs-compare-app-performance-to-peers?utm_medium=rss)
+ - [Save on Tax Software Like H&amp;R Block, TurboTax and More Ahead of Deadline Day     - CNET](https://www.cnet.com/deals/save-on-tax-software-like-h-r-block-turbotax-and-more-ahead-of-deadline-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
