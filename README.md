@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)
- - 🚯 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)
- - 🚯 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
+ - 🚖 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
+ - 🚯 [Equality?](http://9gag.com/gag/aOx8DNM)
+ - 🚯 [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)<!-- MEMES:END -->
 
 --- 
 
