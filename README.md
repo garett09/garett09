@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ford files patent to allow self-driving cars to drive away from their owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
- - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
- - [Phantom Brigade can’t convey the nuances of its own subversive mech combat](https://www.polygon.com/reviews/23619369/phantom-brigade-review-turn-based-tactics-mech-combat-pc)<!-- GAME:END -->
+ - [Where to watch every Oscar-nominated movie](https://www.polygon.com/23567506/oscar-movies-2023-netflix-where-to-watch-stream-amazon-hulu-hbo)
+ - [The Mandalorian’s season 3 premiere quietly teases a huge part of Star Wars’ future](https://www.polygon.com/star-wars/23620250/mandalorian-purrgil-hyperspace-whales-star-wars-ahsoka-ezra-thrawn)
+ - [PlayStation and LeBron James team up on limited edition PlayStation 5 accessories](https://blog.playstation.com/2023/03/01/playstation-and-lebron-james-team-up-on-limited-edition-playstation-5-accessories/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
