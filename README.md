@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
- - 🚯 [Some people are nuts](http://9gag.com/gag/aqeyARv)
- - 🚯 [Brown](http://9gag.com/gag/aeQ97Np)<!-- MEMES:END -->
+ - 🚖 [Brown](http://9gag.com/gag/aeQ97Np)
+ - 🚯 [Drunken yahoo&#39;s in the lift](http://9gag.com/gag/ap9RVA8)
+ - 🚯 [To show off a gun](http://9gag.com/gag/awZyvyr)<!-- MEMES:END -->
 
 --- 
 
