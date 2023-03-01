@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
- - 🚯 [Equality?](http://9gag.com/gag/aOx8DNM)
- - 🚯 [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)<!-- MEMES:END -->
+ - 🚖 [Chicago Mayor Lori Lightfoot &lpar;AKA Beetlejuice&rpar; is voted out of office by the people](http://9gag.com/gag/amAoRdV)
+ - 🚯 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
+ - 🚯 [What a chum](http://9gag.com/gag/aA0yXxZ)<!-- MEMES:END -->
 
 --- 
 
