@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Sony Bravia TVs have Apple TV, AirPlay 2, HomeKit &amp; more](https://appleinsider.com/articles/23/03/01/new-sony-bravia-tvs-have-apple-tv-airplay-2-homekit-more?utm_medium=rss)
- - [Amazon&#39;s Ring names Elizabeth Hamren as CEO, replacing Ring founder Jamie Siminoff, who remains as chief inventor; Hamren is a former Meta and Microsoft exec &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230301/p22#a230301p22)
- - [Get Up to 47% off Denali Tools and Accessories at Amazon     - CNET](https://www.cnet.com/deals/get-up-to-47-off-denali-tools-and-accessories-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Battery replacement costs surge for iPhones, iPads &amp; Macs](https://appleinsider.com/articles/23/03/01/battery-replacement-costs-surge-for-iphones-ipads-macs?utm_medium=rss)
+ - [The Pixel Buds Pro and Pixel Buds A-Series could get a ‘Sky Blue’ version](https://www.androidauthority.com/sky-blue-pixel-buds-3291567/)
+ - [Following criticism, OpenAI says it won&#39;t use data submitted through its API for &quot;service improvements&quot;, including AI model training, unless a customer opts in &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230301/p24#a230301p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
