@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - 🚯 [What can you do...](http://9gag.com/gag/agomdoq)
- - 🚯 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
+ - 🚯 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 🚯 [Perfect woman](http://9gag.com/gag/aMEVyNA)<!-- MEMES:END -->
 
 --- 
 
