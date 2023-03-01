@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS Rapid Security Response update sent to iOS 16.4 beta testers](https://appleinsider.com/articles/23/03/01/new-ios-rapid-security-response-update-sent-to-ios-164-beta-testers?utm_medium=rss)
- - [Snowflake reports Q4 revenue up 53% YoY to $589M, vs. $576M est., and FY 2024 guidance below est., and authorizes a $2B share buyback program; SNOW drops 5%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230301/p29#a230301p29)
- - [Salesforce reports Q4 revenue up 14% YoY to $8.38B vs. $7.99B est., Q1 revenue guidance above est., and a share buyback program increase to $20B; CRM jumps 13%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230301/p28#a230301p28)<!-- TECH:END -->
+ - [New iOS Rapid Security Response update sent to iOS 16.4 &amp; macOS 13.3 beta testers](https://appleinsider.com/articles/23/03/01/new-ios-rapid-security-response-update-sent-to-ios-164-beta-testers?utm_medium=rss)
+ - [Rare, Jurassic-Era Giant Insect Discovered at Arkansas Walmart     - CNET](https://www.cnet.com/science/biology/rare-jurassic-era-giant-insect-discovered-at-arkansas-walmart/#ftag=CAD590a51e)
+ - [UFC 285 Jon Jones vs. Ciryl Gane Livestream: How to Watch, Main Event Start Time     - CNET](https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-livestream-how-to-watch-main-event-start-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
