@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean e-commerce giant Coupang reports Q4 revenue up 4.9% YoY to $5.33B and active customers up 1% YoY to 18.1M, both below estimates &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230301/p4#a230301p4)
- - [Hands-on with the Nothing Phone clone: Not so lit](https://www.androidauthority.com/unihertz-luna-hands-on-3291326/)
- - [Daily Authority: ♨️ Rounding up the best tech from MWC 2023](https://www.androidauthority.com/daily-authority-march-1-2023-3291307/)<!-- TECH:END -->
+ - [How the proliferation of shock sites like Goatse, which can be traced back to Rotten.com, defined the modern internet era and informed how we use the web today &lpar;Blake Hester/VICE&rpar;](http://www.techmeme.com/230301/p7#a230301p7)
+ - [After a lengthy, unexplained outage over the weekend due to an update, Solana Labs plans to improve its upgrade process to ensure reliability and uptime &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230301/p6#a230301p6)
+ - [London-based Revolut reports &amp;pound;636M in 2021 revenue, a third coming from its crypto trading business, and a &amp;pound;26M net profit, up from a &amp;pound;223M loss in 2020 &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230301/p5#a230301p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
