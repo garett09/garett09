@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nansen: investors pulled $6B+ out of the BUSD stablecoin in the past month after US regulatory pressure; BUSD was ~40% of Binance&#39;s trading volume in December &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230301/p11#a230301p11)
- - [TikTok adds new well-being features for teens and others, including screen time controls, default settings for teens, and expanded Family Pairing &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230301/p10#a230301p10)
- - [Twitter users globally report multiple outages for over an hour, including its timeline failing to load on web and mobile; most users can still tweet &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230301/p9#a230301p9)<!-- TECH:END -->
+ - [A new Mac Pro is coming, confirms Apple exec](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
+ - [What is iPhone Clean Energy Charging, and what you need to know](https://appleinsider.com/articles/23/03/01/iphone-clean-energy-charging---everything-you-need-to-know?utm_medium=rss)
+ - [How AI Could Transform Email](https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
