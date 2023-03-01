@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
- - 🚯 [Equality?](http://9gag.com/gag/aOx8DNM)
+ - 🚖 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
+ - 🚯 [Take your time](http://9gag.com/gag/az2xRXK)
  - 🚯 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)<!-- MEMES:END -->
 
 --- 
