@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)
- - 🚯 [Tourettes cutie](http://9gag.com/gag/agomxzr)
- - 🚯 [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)<!-- MEMES:END -->
+ - 🚖 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 🚯 [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)
+ - 🚯 [Me neither. .](http://9gag.com/gag/az2xQ9z)<!-- MEMES:END -->
 
 --- 
 
