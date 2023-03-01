@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Christos Rammos, a key investigator of the spyware scandal that has engulfed Greek politics and PM Kyriakos Mitsotakis since summer 2022 &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/230301/p19#a230301p19)
- - [&#39;The Mandalorian&#39; Season 3 Schedule: Episode 1 Lands on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-schedule-episode-1-lands-on-disney-plus/#ftag=CAD590a51e)
- - [A look at Russia&#39;s cyberattack on Viasat&#39;s KA-SAT network in February 2022, leading some countries and the satellite industry to rethink satellite cybersecurity &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230301/p18#a230301p18)<!-- TECH:END -->
+ - [A new Mac Pro is coming, confirms Apple exec](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
+ - [OpenAI, founded as a nonprofit to focus on creating a &quot;positive human impact&quot;, now operates as a closed-source and for-profit entity as ChatGPT explodes &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230301/p20#a230301p20)
+ - [Scientists Find Flamingo Friend Groups Can Get Pretty Cliquey     - CNET](https://www.cnet.com/science/biology/scientists-find-flamingo-friend-groups-can-get-pretty-cliquey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
