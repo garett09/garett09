@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro vs Samsung Galaxy S23 Ultra - compared](https://appleinsider.com/articles/23/02/28/iphone-14-pro-vs-samsung-galaxy-s23-ultra---compared?utm_medium=rss)
- - [Twitter changes its violent speech policy to ban users from voicing &quot;wishes of harm&quot; on people, a policy reversal, as well as homes and essential infrastructure &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230228/p29#a230228p29)
- - [Everything new in iOS 16.4 beta 2](https://appleinsider.com/articles/23/02/28/everything-new-in-ios-164-beta-2?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with iHeartMedia&#39;s Conal Byrne on overseeing podcasting at the company, the industry maturing, RSS, radio and podcast ads, subscriptions, and exclusivity &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230228/p30#a230228p30)
+ - [Jude Law Is Captain Hook in Disney&#39;s &#39;Peter Pan &amp; Wendy&#39; Trailer     - CNET](https://www.cnet.com/culture/entertainment/jude-law-is-captain-hook-in-disneys-peter-pan-wendy-trailer/#ftag=CAD590a51e)
+ - [Best Wi-Fi Extenders of 2023: Top Picks Tested and Compared     - CNET](https://www.cnet.com/news/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
