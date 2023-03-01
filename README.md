@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
- - 🚯 [Equality?](http://9gag.com/gag/aOx8DNM)
- - 🚯 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
+ - 🚖 [Equality?](http://9gag.com/gag/aOx8DNM)
+ - 🚯 [Not even the movies are going to need make-up artists in production anymore](http://9gag.com/gag/aeQ9Wy5)
+ - 🚯 [Ooh Apple](http://9gag.com/gag/aOx8jxy)<!-- MEMES:END -->
 
 --- 
 
