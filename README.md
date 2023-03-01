@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the golden armor and katana in Sons of the Forest](https://www.polygon.com/guides/23619451/sons-of-the-forest-golden-armor-katana-location-where-to-find)
- - [After Four Years, The Pokémon Sleep App Is Finally Real](https://kotaku.com/what-is-pokemon-sleep-release-date-app-ios-android-1850162624)
- - [The best microSD cards for the Nintendo Switch](https://www.polygon.com/deals/23620667/best-micro-sd-cards-nintendo-switch-lite-oled)<!-- GAME:END -->
+ - [Dune-meets-Destiny action game Atlas Fallen gets May release](https://www.polygon.com/23620954/atlas-fallen-game-release-date)
+ - [Verizon Customers Can Grab An Xbox Series S For Only $150](https://kotaku.com/xbox-series-s-150-half-verizon-deal-microsoft-game-pass-1850175321)
+ - [How to get the golden armor and katana in Sons of the Forest](https://www.polygon.com/guides/23619451/sons-of-the-forest-golden-armor-katana-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
