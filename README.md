@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every damm time](http://9gag.com/gag/ay2NPry)
- - 🚯 [To show off a gun](http://9gag.com/gag/awZyvyr)
- - 🚯 [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)<!-- MEMES:END -->
+ - 🚖 [To show off a gun](http://9gag.com/gag/awZyvyr)
+ - 🚯 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
+ - 🚯 [B\u00f6nnie &amp; Clyde](http://9gag.com/gag/aMEVqpV)<!-- MEMES:END -->
 
 --- 
 
