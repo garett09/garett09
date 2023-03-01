@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to watch every Oscar-nominated movie](https://www.polygon.com/23567506/oscar-movies-2023-netflix-where-to-watch-stream-amazon-hulu-hbo)
- - [The Mandalorian’s season 3 premiere quietly teases a huge part of Star Wars’ future](https://www.polygon.com/star-wars/23620250/mandalorian-purrgil-hyperspace-whales-star-wars-ahsoka-ezra-thrawn)
- - [PlayStation and LeBron James team up on limited edition PlayStation 5 accessories](https://blog.playstation.com/2023/03/01/playstation-and-lebron-james-team-up-on-limited-edition-playstation-5-accessories/)<!-- GAME:END -->
+ - [The follow-up to clever &#39;narrative roguelike&#39; Road 96 seems slim on variety and consequence](https://www.pcgamer.com/the-follow-up-to-clever-narrative-roguelike-road-96-seems-slim-on-variety-and-consequence)
+ - [Twitch Streamer Kai Cenat Bodies Subscriber World Record During Black History Month](https://kotaku.com/twitch-streamer-kai-cenat-top-subscribed-record-ludwig-1850173194)
+ - [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/legend-of-zelda-chronological-timeline-tears-of-the-kingdom-totk-breath-of-the-wild-botw-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
