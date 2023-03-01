@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2023/02/28/mega-march-promotion-comes-to-playstation-store-3/)
- - [Sons of the Forest weapons and gun locations](https://www.pcgamer.com/sons-of-the-forest-weapons-gun-locations)
- - [Activision Accused Of Illegally Firing QA Testers Over Remote Work Protest](https://kotaku.com/activision-accused-of-illegally-fired-qa-testers-over-r-1850171073)<!-- GAME:END -->
+ - [Sons of the Forest is the funniest videogame on the internet right now](https://www.pcgamer.com/sons-of-the-forest-is-the-funniest-videogame-on-the-internet-right-now)
+ - [Gorgeous Pokémon, Anime Sneakers Are Too Good For Nike](https://kotaku.com/nike-dunk-jordan-pokemon-dragon-ball-sailor-moon-anime-1850170814)
+ - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2023/02/28/mega-march-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
