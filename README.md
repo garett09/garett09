@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch out eSIM, iSIM is coming for your lunch](https://www.androidauthority.com/qualcomm-isim-snapdragon-8-gen-2-3291316/)
  - [Profile of BitMEX co-founder Arthur Hayes, who served six months of house arrest for US Bank Secrecy Act violations; sources say he&#39;s still in control of BitMEX &lpar;Jen Wieczner/New York Magazine&rpar;](http://www.techmeme.com/230301/p1#a230301p1)
- - [Google Welcomes March Madness With Slam Dunk Yoodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-march-madness-with-slam-dunk-yoodle/#ftag=CAD590a51e)
- - [UFC 285 Jon Jones vs. Ciryl Gane: How to Watch the Livestream, Main Event Start Time     - CNET](https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-how-to-watch-the-livestream-main-event-start-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Welcomes March Madness With Slam Dunk Yoodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-march-madness-with-slam-dunk-yoodle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
