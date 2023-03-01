@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune-meets-Destiny action game Atlas Fallen gets May release](https://www.polygon.com/23620954/atlas-fallen-game-release-date)
- - [Verizon Customers Can Grab An Xbox Series S For Only $150](https://kotaku.com/xbox-series-s-150-half-verizon-deal-microsoft-game-pass-1850175321)
- - [How to get the golden armor and katana in Sons of the Forest](https://www.polygon.com/guides/23619451/sons-of-the-forest-golden-armor-katana-location-where-to-find)<!-- GAME:END -->
+ - [The &#39;Lebron James&#39; PlayStation 5 Looks Bad!](https://kotaku.com/lebron-james-playstation-5-ps5-sony-console-controller-1850175507)
+ - [Dune spinoff series shuts down, loses its director and star](https://www.polygon.com/23621097/dune-the-sisterhood-hiatus-hbo-max-denis-villeneuve)
+ - [That was quick: Speedrunner beats Sons of the Forest in under 9 minutes](https://www.pcgamer.com/that-was-quick-speedrunner-beats-sons-of-the-forest-in-under-9-minutes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
