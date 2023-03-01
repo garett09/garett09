@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with iHeartMedia&#39;s Conal Byrne on overseeing podcasting at the company, the industry maturing, RSS, radio and podcast ads, subscriptions, and exclusivity &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230228/p30#a230228p30)
- - [Jude Law Is Captain Hook in Disney&#39;s &#39;Peter Pan &amp; Wendy&#39; Trailer     - CNET](https://www.cnet.com/culture/entertainment/jude-law-is-captain-hook-in-disneys-peter-pan-wendy-trailer/#ftag=CAD590a51e)
- - [Best Wi-Fi Extenders of 2023: Top Picks Tested and Compared     - CNET](https://www.cnet.com/news/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal roadmap: Meta to release three new Quest headsets, smart glasses with a display in 2025 alongside a neural interface smartwatch, and AR glasses in 2027 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230228/p33#a230228p33)
+ - [Robotics startup Fulfil, which offers automated micro-fulfillment centers for online grocers, emerges from stealth with a $60M Series B led by Eclipse &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230228/p32#a230228p32)
+ - [Google Fi Reportedly Drops US Cellular, Leaving T-Mobile As Last Network     - CNET](https://www.cnet.com/tech/mobile/google-fi-reportedly-drops-us-cellular-leaving-t-mobile-as-last-network/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
