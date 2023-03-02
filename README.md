@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of former FTX engineering chief Nishad Singh; filings show Singh owned 7.8% of FTX US, 10% of FTX Ventures, and 44M shares in the main exchange &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p4#a230302p4)
- - [Google Assistant forgot how to control smart home devices &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/google-assistant-smart-home-3290958/)
- - [Fujifilm announces the new Instax Mini 12 instant camera](https://www.theverge.com/2023/3/2/23616759/fujifilm-instax-mini-12-instax-mini-11-instant-camera)<!-- TECH:END -->
+ - [China stalls Softbank deal to hang on to Arm](https://appleinsider.com/articles/23/03/02/china-stalls-softbank-deal-to-hang-on-to-arm?utm_medium=rss)
+ - [A profile of Emily M. Bender, a computational linguist at the University of Washington who co-wrote a paper in 2020 to illustrate what LLMs can and cannot do &lpar;Elizabeth Weil/New York Magazine&rpar;](http://www.techmeme.com/230302/p7#a230302p7)
+ - [The Lie Detector Was Never Very Good at Telling the Truth](https://www.wired.com/story/lie-detector-never-very-good-at-telling-truth/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
