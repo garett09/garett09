@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recording for social media](http://9gag.com/gag/anz7Gn5)
- - 🚯 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
- - 🚯 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
+ - 🚖 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - 🚯 [Cap?](http://9gag.com/gag/amAonE9)
+ - 🚯 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
 
 --- 
 
