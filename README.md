@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU regulators seem likely to approve Microsoft&#39;s acquisition of Activision Blizzard, satisfied by the company&#39;s Nintendo and Nvidia licensing deals &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230302/p18#a230302p18)
- - [HyperDrive Thunderbolt 3 Mobile Dock review: Convenient port expansion for MacBook Pro](https://appleinsider.com/articles/23/03/02/hyperdrive-thunderbolt-3-mobile-dock-review-convenient-port-expansion-for-macbook-pro?utm_medium=rss)
- - [Casetify celebrates &#39;The Mandalorian&#39; with iPhone cases and more](https://appleinsider.com/articles/23/03/02/casetify-celebrates-the-mandalorian-with-iphone-cases-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [NYC-based SpotDraft, which develops contract lifecycle management software, raised a $26M Series A led by Premji Invest, bringing its total funding to $30.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230302/p19#a230302p19)
+ - [US Technological Dominance Is Not What It Used to Be](https://www.wired.com/story/us-technological-dominance-is-not-what-it-used-to-be/)
+ - [iPhone 15 Pro Max: What it looks like and when it&#39;s coming](https://appleinsider.com/articles/23/03/02/iphone-15-pro-max-what-it-looks-like-and-when-its-coming?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
