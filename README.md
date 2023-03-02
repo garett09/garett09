@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;Lebron James&#39; PlayStation 5 Looks Bad!](https://kotaku.com/lebron-james-playstation-5-ps5-sony-console-controller-1850175507)
- - [Dune spinoff series shuts down, loses its director and star](https://www.polygon.com/23621097/dune-the-sisterhood-hiatus-hbo-max-denis-villeneuve)
- - [That was quick: Speedrunner beats Sons of the Forest in under 9 minutes](https://www.pcgamer.com/that-was-quick-speedrunner-beats-sons-of-the-forest-in-under-9-minutes)<!-- GAME:END -->
+ - [And the award for the saddest patch notes ever goes to Babylon&#39;s Fall](https://www.pcgamer.com/and-the-award-for-the-saddest-patch-notes-ever-goes-to-babylons-fall)
+ - [The PC games, betas, and events we&#39;re most excited about in March](https://www.pcgamer.com/march-2023-game-release-calendar)
+ - [Rainbow Six Siege player hacks drone that hacks drones to somehow kill player with their own claymore](https://www.pcgamer.com/rainbow-six-siege-player-hacks-drone-that-hacks-drones-to-somehow-kill-player-with-their-own-claymore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
