@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Wonders 4 let me put an evil frog in charge of some cannibal rats and I&#39;m now living my best life](https://www.pcgamer.com/age-of-wonders-4-let-me-put-an-evil-frog-in-charge-of-some-cannibal-rats-and-im-now-living-my-best-life)
- - [PowerWash Simulator: Fight Grime in the World of Final Fantasy with the Free Midgar Special Pack](https://news.xbox.com/en-us/2023/03/02/powerwash-simulator-fight-grime-in-the-world-of-final-fantasy-with-the-free-midgar-special-pack/)
- - [Disguised Toast is expanding beyond streaming, but it’s coming at a cost](https://www.polygon.com/23619393/disguised-toast-twitch-streamer-valorant-dsg)<!-- GAME:END -->
+ - [The Ant-Man movies have been a big influence on the MCU](https://www.polygon.com/23617440/ant-man-marvel-cinematic-universe-mcu)
+ - [Overwatch 2: Check Out the Kiriko One-Punch Man Collaboration Skin &lpar;and How It Was Made&rpar;](https://news.xbox.com/en-us/2023/03/02/overwatch-2-kiriko-one-punch-man-skin/)
+ - [Spotted in the wild: an actually good video game shirt](https://www.polygon.com/deals/23616658/uniqlo-katamari-damacy-video-game-shirts-moma)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
