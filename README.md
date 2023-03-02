@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
- - 🚯 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - 🚯 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
+ - 🚖 [The Chinese cargo ship Yong Xing 56 sank in the Strait of Tartary off the coast of Sakhalin, the ship was carrying 29,000 tons of anonymous cargo. It was forbidden to reload the freight since content would become visible, pumps failed and it sank. Good riddance.](http://9gag.com/gag/a04ezLL)
+ - 🚯 [Perfect woman](http://9gag.com/gag/aMEVyNA)
+ - 🚯 [My pleasure, WAIT A SECOND!](http://9gag.com/gag/a4oPrWZ)<!-- MEMES:END -->
 
 --- 
 
