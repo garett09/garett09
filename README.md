@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect woman](http://9gag.com/gag/aMEVyNA)
+ - 🚖 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)
  - 🚯 [Ooh Apple](http://9gag.com/gag/aOx8jxy)
- - 🚯 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)<!-- MEMES:END -->
+ - 🚯 [Not even the movies are going to need make-up artists in production anymore](http://9gag.com/gag/aeQ9Wy5)<!-- MEMES:END -->
 
 --- 
 
