@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email app BlueMail&#39;s co-founder says Apple blocked an update that added ChatGPT-powered features over inappropriate content concerns, requiring a 17+ age limit &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p13#a230302p13)
- - [Hands on with VR and AR for work: A currently insane view of the future](https://appleinsider.com/articles/23/03/02/hands-on-with-vr-and-ar-for-work-a-currently-insane-view-of-the-future?utm_medium=rss)
- - [Platforms Can Optimize for Metrics Beyond Engagement](https://www.wired.com/story/platforms-engagement-research-meta/)<!-- TECH:END -->
+ - [Survivors Suffer When Judges Misunderstand Social Media](https://www.wired.com/story/judges-criminal-justice-social-media/)
+ - [Samsung Galaxy Book3 Ultra Review: High Power, High Price](https://www.wired.com/review/review-samsung-galaxy-book3-ultra/)
+ - [Sources: the FDA rejected Neuralink&#39;s trial application, citing dozens of issues to resolve before human testing, including the device&#39;s battery and removal &lpar;Reuters&rpar;](http://www.techmeme.com/230302/p15#a230302p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
