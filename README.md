@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China stalls Softbank deal to hang on to Arm](https://appleinsider.com/articles/23/03/02/china-stalls-softbank-deal-to-hang-on-to-arm?utm_medium=rss)
- - [A profile of Emily M. Bender, a computational linguist at the University of Washington who co-wrote a paper in 2020 to illustrate what LLMs can and cannot do &lpar;Elizabeth Weil/New York Magazine&rpar;](http://www.techmeme.com/230302/p7#a230302p7)
- - [The Lie Detector Was Never Very Good at Telling the Truth](https://www.wired.com/story/lie-detector-never-very-good-at-telling-truth/)<!-- TECH:END -->
+ - [Snap plans to let Snapchat users pause Streaks by buying Streak Restores for $0.99 each time and will soon let Snapchat+ subscribers pause Streaks indefinitely &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230302/p9#a230302p9)
+ - [How to restart Apple Watch in watchOS 9](https://appleinsider.com/inside/apple-watch/tips/how-to-restart-apple-watch-in-watchos-9?utm_medium=rss)
+ - [Garmin’s Forerunner 265 and 965 are bright additions to the lineup, literally](https://www.androidauthority.com/garmin-forerunner-265-3290599/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
