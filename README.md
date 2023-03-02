@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Childhood ruined](http://9gag.com/gag/aDY2Lnx)
+ - 🚖 [....yeah....uh.... NOPE!](http://9gag.com/gag/a6qZxzb)
  - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
  - 🚯 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)<!-- MEMES:END -->
 
