@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based SpotDraft, which develops contract lifecycle management software, raised a $26M Series A led by Premji Invest, bringing its total funding to $30.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230302/p19#a230302p19)
- - [US Technological Dominance Is Not What It Used to Be](https://www.wired.com/story/us-technological-dominance-is-not-what-it-used-to-be/)
- - [iPhone 15 Pro Max: What it looks like and when it&#39;s coming](https://appleinsider.com/articles/23/03/02/iphone-15-pro-max-what-it-looks-like-and-when-its-coming?utm_medium=rss)<!-- TECH:END -->
+ - [Teladoc Health, which runs BetterHelp, settles with the FTC for $7.8M and agrees to stop sharing data with Meta, Snap, and other companies for ad purposes &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/230302/p20#a230302p20)
+ - [Dead by Daylight’s getting a movie](https://www.theverge.com/2023/3/2/23622118/dead-by-daylight-movie-blumhouse-behaviour-interactive)
+ - [If you&#39;re a developer, Setapp wants to hear from you about Mac apps](https://appleinsider.com/articles/23/03/02/if-youre-a-developer-setapp-wants-to-hear-from-you-about-mac-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
