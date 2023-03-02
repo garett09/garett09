@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survivors Suffer When Judges Misunderstand Social Media](https://www.wired.com/story/judges-criminal-justice-social-media/)
- - [Samsung Galaxy Book3 Ultra Review: High Power, High Price](https://www.wired.com/review/review-samsung-galaxy-book3-ultra/)
- - [Sources: the FDA rejected Neuralink&#39;s trial application, citing dozens of issues to resolve before human testing, including the device&#39;s battery and removal &lpar;Reuters&rpar;](http://www.techmeme.com/230302/p15#a230302p15)<!-- TECH:END -->
+ - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
+ - [13 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
+ - [Upgrade your Galaxy S23 protection with UAG’s Magnet Module cases](https://www.androidauthority.com/galaxy-s23-uag-magnet-module-cases-3288979/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
