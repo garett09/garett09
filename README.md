@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cap?](http://9gag.com/gag/amAonE9)
- - 🚯 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
+ - 🚖 [Childhood ruined](http://9gag.com/gag/aDY2Lnx)
+ - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 🚯 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)<!-- MEMES:END -->
 
 --- 
 
