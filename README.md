@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Mandalorian’s Gorian Shard is a great Christmas tree-shaped character and a terrible pirate](https://www.polygon.com/23620615/mandalorian-gorian-shard-season-3-pirate-race-idiot)
  - [And the award for the saddest patch notes ever goes to Babylon&#39;s Fall](https://www.pcgamer.com/and-the-award-for-the-saddest-patch-notes-ever-goes-to-babylons-fall)
- - [The PC games, betas, and events we&#39;re most excited about in March](https://www.pcgamer.com/march-2023-game-release-calendar)
- - [Rainbow Six Siege player hacks drone that hacks drones to somehow kill player with their own claymore](https://www.pcgamer.com/rainbow-six-siege-player-hacks-drone-that-hacks-drones-to-somehow-kill-player-with-their-own-claymore)<!-- GAME:END -->
+ - [The PC games, betas, and events we&#39;re most excited about in March](https://www.pcgamer.com/march-2023-game-release-calendar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
