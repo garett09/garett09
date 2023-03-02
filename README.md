@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to the new PC Gamer podcast](https://www.pcgamer.com/welcome-to-the-new-pc-gamer-podcast)
- - [Halo Infinite: Forge Beta Passes 1 Million Creations](https://news.xbox.com/en-us/2023/03/02/halo-infinite-forge-beta-1-million-creations/)
- - [Grey’s Anatomy can and should get messier without Meredith](https://www.polygon.com/23620537/greys-anatomy-season-19-cast-meredith-ellen-pompeo)<!-- GAME:END -->
+ - [Creepy-Cute Indie Adventure Meg’s Monster Now Available on Xbox Series X and Xbox One](https://news.xbox.com/en-us/2023/03/02/megs-monster-now-available-on-xbox-series-x-and-xbox-one/)
+ - [The best anime of 2023 so far](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)
+ - [Resident Evil 4 remake makes Leon’s knife and attaché case a much bigger deal](https://www.polygon.com/23621963/resident-evil-4-preview-gameplay-knife-briefcase)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
