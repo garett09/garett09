@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [A look at India&#39;s homegrown digital payments system UPI, which is run by a nonprofit organization NPCI and is now used by ~300M individuals and 50M merchants &lpar;New York Times&rpar;](http://www.techmeme.com/230301/p36#a230301p36)
- - [Analysis: at least eight companies that went public via SPACs filed for bankruptcy since June 2022, almost 100 are spending unsustainably, and 73 trade below $1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p35#a230301p35)
- - [Apptopia: so far in 2023, TikTok has generated $205M more in IAP revenue than Facebook, Instagram, Snapchat, and Twitter combined &lpar;John Koetsier/Forbes&rpar;](http://www.techmeme.com/230301/p34#a230301p34)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Episode 7 Recap: Absolutely Heartbreaking Neon Adventure     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-7-recap-absolutely-heartbreaking-neon-adventure/#ftag=CAD590a51e)
+ - [Analysis: at least eight companies that went public via SPACs filed for bankruptcy since June 2022, almost 100 are spending unsustainably, and 73 trade below $1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p35#a230301p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
