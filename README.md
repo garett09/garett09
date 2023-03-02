@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Telltale delays the Wolf Among Us 2 till at least next year, because if it&#39;s half-baked &#39;we&#39;re going to get torn to shreds&#39;](https://www.pcgamer.com/telltale-delays-the-wolf-among-us-2-till-at-least-next-year-because-if-its-half-baked-were-going-to-get-torn-to-shreds)
- - [These gloriously atrocious volume control designs are sending me](https://www.pcgamer.com/these-gloriously-atrocious-volume-control-designs-are-sending-me)
- - [How to build a defensive wall in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-defensive-wall)<!-- GAME:END -->
+ - [How to get Terminal Overload keys in Destiny 2: Lightfall](https://www.pcgamer.com/destiny-2-terminal-overload-keys-rotation)
+ - [Engineers teach their 1-milliwatt neural chip to play Doom, say this is serious work yo, everyone nods](https://www.pcgamer.com/engineers-teach-their-1-milliwatt-neural-chip-to-play-doom-say-this-is-serious-work-yo-everyone-nods)
+ - [Mario Day ‘Choose One’ Switch Bundle comes with a free game](https://www.polygon.com/23621906/nintendo-switch-bundle-mario-day-choose-one-free-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
