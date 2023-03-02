@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - 🚯 [Brown](http://9gag.com/gag/aeQ97Np)
- - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
+ - 🚖 [Here in Brazil, politicians voted to raise their own salary, and now senators voted and approved working 3 days a week, 3 weeks a month. Is it like this in your country too? I feel like an idiot working 44 hours a week and paying taxes.](http://9gag.com/gag/aoKyGgx)
+ - 🚯 [Wife pranks her husband in the most wholesome way](http://9gag.com/gag/amAoK94)
+ - 🚯 [JK Rowling is based.](http://9gag.com/gag/aOx8AOM)<!-- MEMES:END -->
 
 --- 
 
