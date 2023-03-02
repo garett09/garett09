@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Decline of the Simpsons](http://9gag.com/gag/a3Z4NMr)
- - 🚯 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - 🚯 [Brown](http://9gag.com/gag/aeQ97Np)<!-- MEMES:END -->
+ - 🚖 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 🚯 [Recording for social media](http://9gag.com/gag/anz7Gn5)
+ - 🚯 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
 
 --- 
 
