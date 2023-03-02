@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Decline of the Simpsons](http://9gag.com/gag/a3Z4NMr)
- - 🚯 [Cap?](http://9gag.com/gag/amAonE9)
- - 🚯 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
+ - 🚖 [Wife pranks her husband in the most wholesome way](http://9gag.com/gag/amAoK94)
+ - 🚯 [Cottage Cheese Cover Up](http://9gag.com/gag/a8q7QEO)
+ - 🚯 [Shock](http://9gag.com/gag/adPBd2B)<!-- MEMES:END -->
 
 --- 
 
