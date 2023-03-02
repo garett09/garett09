@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues second 16.4 firmware beta for Studio Display](https://appleinsider.com/articles/23/03/02/apple-issues-second-164-firmware-beta-for-studio-display?utm_medium=rss)
- - [A look at TikTok&#39;s viral Bold Glamour filter, which an expert says likely uses generative adversarial networks, amid fears the tool may hurt users&#39; self-esteem &lpar;The Verge&rpar;](http://www.techmeme.com/230302/p23#a230302p23)
- - [Buy Pizza Hut today with Apple Pay to get $5 off your next order](https://appleinsider.com/articles/23/03/02/buy-pizza-hut-today-with-apple-pay-to-get-5-off-your-next-order?utm_medium=rss)<!-- TECH:END -->
+ - [16 Best Deals on Home Office Gear: Portable Monitors, Desks, Power Strips](https://www.wired.com/story/midweek-deals-030223/)
+ - [Google Keep’s new Android widget makes it easier to check off items on your to-do list](https://www.theverge.com/2023/2/27/23614281/google-keep-single-note-widget-checklist-interactive)
+ - [The best Boost Mobile deals: Get a free Galaxy A23 5G when you switch](https://www.androidauthority.com/best-boost-mobile-deals-839972/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
