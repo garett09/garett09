@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap plans to let Snapchat users pause Streaks by buying Streak Restores for $0.99 each time and will soon let Snapchat+ subscribers pause Streaks indefinitely &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230302/p9#a230302p9)
- - [How to restart Apple Watch in watchOS 9](https://appleinsider.com/inside/apple-watch/tips/how-to-restart-apple-watch-in-watchos-9?utm_medium=rss)
- - [Garmin’s Forerunner 265 and 965 are bright additions to the lineup, literally](https://www.androidauthority.com/garmin-forerunner-265-3290599/)<!-- TECH:END -->
+ - [Email app BlueMail&#39;s co-founder says Apple blocked an update that added ChatGPT-powered features over inappropriate content concerns, requiring a 17+ age limit &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p13#a230302p13)
+ - [Hands on with VR and AR for work: A currently insane view of the future](https://appleinsider.com/articles/23/03/02/hands-on-with-vr-and-ar-for-work-a-currently-insane-view-of-the-future?utm_medium=rss)
+ - [Platforms Can Optimize for Metrics Beyond Engagement](https://www.wired.com/story/platforms-engagement-research-meta/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
