@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saved by the bell](http://9gag.com/gag/aGEy69z)
- - 🚯 [Perfect woman](http://9gag.com/gag/aMEVyNA)
- - 🚯 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)<!-- MEMES:END -->
+ - 🚖 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
+ - 🚯 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 🚯 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
 
 --- 
 
