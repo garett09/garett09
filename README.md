@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [Welcome to the Jüngle – The Last Worker and PS VR2](https://blog.playstation.com/2023/03/02/welcome-to-the-jungle-the-last-worker-and-ps-vr2/)
- - [Free Play Days – Diablo III: Eternal Collection, Train Life: A Railway Simulator, and Human Fall Flat](https://news.xbox.com/en-us/2023/03/02/free-play-days-diablo-iii-eternal-collection-train-life-a-railway-simulator-and-human-fall-flat/)<!-- GAME:END -->
+ - [Age of Wonders 4 let me put an evil frog in charge of some cannibal rats and I&#39;m now living my best life](https://www.pcgamer.com/age-of-wonders-4-let-me-put-an-evil-frog-in-charge-of-some-cannibal-rats-and-im-now-living-my-best-life)
+ - [PowerWash Simulator: Fight Grime in the World of Final Fantasy with the Free Midgar Special Pack](https://news.xbox.com/en-us/2023/03/02/powerwash-simulator-fight-grime-in-the-world-of-final-fantasy-with-the-free-midgar-special-pack/)
+ - [Disguised Toast is expanding beyond streaming, but it’s coming at a cost](https://www.polygon.com/23619393/disguised-toast-twitch-streamer-valorant-dsg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
