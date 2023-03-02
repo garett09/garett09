@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wo Long: Fallen Dynasty review](https://www.pcgamer.com/wo-long-fallen-dynasty-review)
- - [Wo Long: Fallen Dynasty brings Sekiro’s combat to a mesmerizing new world](https://www.polygon.com/reviews/23621083/wo-long-fallen-dynasty-review-dark-souls-sekiro-bosses-release-date-ps5-xbox)
- - [Wo Long: Fallen Dynasty: The Kotaku Review](https://kotaku.com/wo-long-fallen-dynasty-review-ps5-soulslike-nioh-sekiro-1850176726)<!-- GAME:END -->
+ - [PC Gamer UK April issue on sale now: Warframe: The Duviri Paradox](https://www.pcgamer.com/pc-gamer-uk-april-issue-on-sale-now-warframe-the-duviri-paradox)
+ - [You&#39;ve got one week to nab 69 games for $30, and for a good cause too](https://www.pcgamer.com/youve-got-one-week-to-nab-69-games-for-dollar30-and-for-a-good-cause-too)
+ - [&#39;I was deranged&#39;—Half-Life writer&#39;s regret at publishing Episode 3 story](https://www.pcgamer.com/i-was-derangedhalf-life-writers-regret-at-publishing-episode-3-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
