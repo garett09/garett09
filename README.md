@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Terminal Overload keys in Destiny 2: Lightfall](https://www.pcgamer.com/destiny-2-terminal-overload-keys-rotation)
- - [Engineers teach their 1-milliwatt neural chip to play Doom, say this is serious work yo, everyone nods](https://www.pcgamer.com/engineers-teach-their-1-milliwatt-neural-chip-to-play-doom-say-this-is-serious-work-yo-everyone-nods)
- - [Mario Day ‘Choose One’ Switch Bundle comes with a free game](https://www.polygon.com/23621906/nintendo-switch-bundle-mario-day-choose-one-free-game)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
+ - [Welcome to the Jüngle – The Last Worker and PS VR2](https://blog.playstation.com/2023/03/02/welcome-to-the-jungle-the-last-worker-and-ps-vr2/)
+ - [Free Play Days – Diablo III: Eternal Collection, Train Life: A Railway Simulator, and Human Fall Flat](https://news.xbox.com/en-us/2023/03/02/free-play-days-diablo-iii-eternal-collection-train-life-a-railway-simulator-and-human-fall-flat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
