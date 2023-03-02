@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple high-yield Savings account one step closer to launch](https://appleinsider.com/articles/23/03/02/apple-high-yield-savings-account-one-step-closer-to-launch?utm_medium=rss)
- - [iPhone global sell-through improved in January, still declining overall](https://appleinsider.com/articles/23/03/02/iphone-global-sell-through-improved-in-january-still-declining-overall?utm_medium=rss)
- - [Filing: crypto-friendly bank Silvergate delays its annual report and cites investigations from regulators, Congress, and the US DOJ; its stock plunges 30%+ &lpar;CoinDesk&rpar;](http://www.techmeme.com/230301/p31#a230301p31)<!-- TECH:END -->
+ - [Microsoft researchers unveil Kosmos-1, a multimodal LLM they claim can understand image content, pass IQ tests, and more and accepts a variety of input formats &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230301/p33#a230301p33)
+ - [Multiple mall shootings prompt Apple Store closure in North Carolina](https://appleinsider.com/articles/23/03/02/multiple-mall-shootings-prompt-apple-store-closure-in-north-carolina?utm_medium=rss)
+ - [&#39;The Mandalorian&#39; Season 3 Episode 1 Recap: Baby Yoda Meets &#39;Pirates of the Caribbean&#39;     - CNET](https://www.cnet.com/culture/the-mandalorian-season-3-recap-baby-yoda-meets-pirates-of-the-caribbean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
