@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Special forces](http://9gag.com/gag/aGEy62w)
- - 🚯 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - 🚖 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - 🚯 [Brown](http://9gag.com/gag/aeQ97Np)
  - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
 
 --- 
