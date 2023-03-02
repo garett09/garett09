@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Half-Life 2 Writer Now Regrets Releasing Episode Three Summary](https://kotaku.com/half-life-episode-2-epistle-3-regret-marc-laidlaw-valve-1850180845)
- - [Pathfinder’s Tian Xia setting is back with a horror-themed campaign](https://www.polygon.com/tabletop-games/23622697/pathfinder-tian-xia-adventure-path-announcement)
- - [Genshin Impact’s Most Controversial New Character Is Nearly Unplayable](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-dehya-leaks-nerf-1850180828)<!-- GAME:END -->
+ - [Casting spells with my voice in Hogwarts Legacy is very silly, kinda cool](https://www.pcgamer.com/casting-spells-with-my-voice-in-hogwarts-legacy-is-very-silly-kinda-cool)
+ - [Wait, the new Hellboy movie might actually be good](https://www.polygon.com/23622698/hellboy-movie-crooked-man-might-actually-be-good)
+ - [Get 72 Games For 30 Bucks In Syria-Turkey Relief Bundle](https://kotaku.com/humble-bundle-gotham-knights-xcom-syria-turkey-relief-1850181349)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
