@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creepy-Cute Indie Adventure Meg’s Monster Now Available on Xbox Series X and Xbox One](https://news.xbox.com/en-us/2023/03/02/megs-monster-now-available-on-xbox-series-x-and-xbox-one/)
- - [The best anime of 2023 so far](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)
- - [Resident Evil 4 remake makes Leon’s knife and attaché case a much bigger deal](https://www.polygon.com/23621963/resident-evil-4-preview-gameplay-knife-briefcase)<!-- GAME:END -->
+ - [Strategic Mind: Spectre of Communism is Coming to Xbox – Will the Soviets Win?](https://news.xbox.com/en-us/2023/03/02/strategic-mind-spectre-of-communism-coming-to-xbox/)
+ - [Redditors Find Popular YouTuber Ludwig&#39;s Stolen Rare Car In 24 Hours](https://kotaku.com/youtube-streamer-ludwig-stolen-subaru-truck-reddit-1850180401)
+ - [Overwatch 2 One-Punch Man collab continues with Kiriko as Terrible Tornado](https://www.polygon.com/23622474/overwatch-2-one-punch-man-release-date-kiriko-terrible-tornado)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
