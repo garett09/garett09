@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
- - [13 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
- - [Upgrade your Galaxy S23 protection with UAG’s Magnet Module cases](https://www.androidauthority.com/galaxy-s23-uag-magnet-module-cases-3288979/)<!-- TECH:END -->
+ - [Sources: EU regulators seem likely to approve Microsoft&#39;s acquisition of Activision Blizzard, satisfied by the company&#39;s Nintendo and Nvidia licensing deals &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230302/p18#a230302p18)
+ - [HyperDrive Thunderbolt 3 Mobile Dock review: Convenient port expansion for MacBook Pro](https://appleinsider.com/articles/23/03/02/hyperdrive-thunderbolt-3-mobile-dock-review-convenient-port-expansion-for-macbook-pro?utm_medium=rss)
+ - [Casetify celebrates &#39;The Mandalorian&#39; with iPhone cases and more](https://appleinsider.com/articles/23/03/02/casetify-celebrates-the-mandalorian-with-iphone-cases-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
