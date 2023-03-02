@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meta&#39;s hardware roadmap includes multiple new Quest headsets, and more emphasis on AR](https://www.pcgamer.com/metas-hardware-roadmap-includes-multiple-new-quest-headsets-and-more-emphasis-on-ar)
  - [The Mandalorian’s Gorian Shard is a great Christmas tree-shaped character and a terrible pirate](https://www.polygon.com/23620615/mandalorian-gorian-shard-season-3-pirate-race-idiot)
- - [And the award for the saddest patch notes ever goes to Babylon&#39;s Fall](https://www.pcgamer.com/and-the-award-for-the-saddest-patch-notes-ever-goes-to-babylons-fall)
- - [The PC games, betas, and events we&#39;re most excited about in March](https://www.pcgamer.com/march-2023-game-release-calendar)<!-- GAME:END -->
+ - [And the award for the saddest patch notes ever goes to Babylon&#39;s Fall](https://www.pcgamer.com/and-the-award-for-the-saddest-patch-notes-ever-goes-to-babylons-fall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
