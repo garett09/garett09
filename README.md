@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - 🚯 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - 🚯 [Perfect woman](http://9gag.com/gag/aMEVyNA)<!-- MEMES:END -->
+ - 🚖 [Perfect woman](http://9gag.com/gag/aMEVyNA)
+ - 🚯 [Ooh Apple](http://9gag.com/gag/aOx8jxy)
+ - 🚯 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)<!-- MEMES:END -->
 
 --- 
 
