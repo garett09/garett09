@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [....yeah....uh.... NOPE!](http://9gag.com/gag/a6qZxzb)
- - 🚯 [Recording for social media](http://9gag.com/gag/anz7Gn5)
- - 🚯 [Cap?](http://9gag.com/gag/amAonE9)<!-- MEMES:END -->
+ - 🚯 [I dug and I hit g&lpar;old&rpar;](http://9gag.com/gag/avQyVVq)
+ - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
 
 --- 
 
