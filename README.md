@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ant-Man movies have been a big influence on the MCU](https://www.polygon.com/23617440/ant-man-marvel-cinematic-universe-mcu)
- - [Overwatch 2: Check Out the Kiriko One-Punch Man Collaboration Skin &lpar;and How It Was Made&rpar;](https://news.xbox.com/en-us/2023/03/02/overwatch-2-kiriko-one-punch-man-skin/)
- - [Spotted in the wild: an actually good video game shirt](https://www.polygon.com/deals/23616658/uniqlo-katamari-damacy-video-game-shirts-moma)<!-- GAME:END -->
+ - [Welcome to the new PC Gamer podcast](https://www.pcgamer.com/welcome-to-the-new-pc-gamer-podcast)
+ - [Halo Infinite: Forge Beta Passes 1 Million Creations](https://news.xbox.com/en-us/2023/03/02/halo-infinite-forge-beta-1-million-creations/)
+ - [Grey’s Anatomy can and should get messier without Meredith](https://www.polygon.com/23620537/greys-anatomy-season-19-cast-meredith-ellen-pompeo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
