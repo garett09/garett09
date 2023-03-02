@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - 🚯 [Recording for social media](http://9gag.com/gag/anz7Gn5)
+ - 🚖 [The Decline of the Simpsons](http://9gag.com/gag/a3Z4NMr)
+ - 🚯 [Cap?](http://9gag.com/gag/amAonE9)
  - 🚯 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
 
 --- 
