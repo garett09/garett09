@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [B\u00f6nnie &amp; Clyde](http://9gag.com/gag/aMEVqpV)
- - 🚯 [My pleasure, WAIT A SECOND!](http://9gag.com/gag/a4oPrWZ)
- - 🚯 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
+ - 🚖 [The Decline of the Simpsons](http://9gag.com/gag/a3Z4NMr)
+ - 🚯 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - 🚯 [Brown](http://9gag.com/gag/aeQ97Np)<!-- MEMES:END -->
 
 --- 
 
