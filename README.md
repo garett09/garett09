@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strategic Mind: Spectre of Communism is Coming to Xbox – Will the Soviets Win?](https://news.xbox.com/en-us/2023/03/02/strategic-mind-spectre-of-communism-coming-to-xbox/)
- - [Redditors Find Popular YouTuber Ludwig&#39;s Stolen Rare Car In 24 Hours](https://kotaku.com/youtube-streamer-ludwig-stolen-subaru-truck-reddit-1850180401)
- - [Overwatch 2 One-Punch Man collab continues with Kiriko as Terrible Tornado](https://www.polygon.com/23622474/overwatch-2-one-punch-man-release-date-kiriko-terrible-tornado)<!-- GAME:END -->
+ - [Former Half-Life 2 Writer Now Regrets Releasing Episode Three Summary](https://kotaku.com/half-life-episode-2-epistle-3-regret-marc-laidlaw-valve-1850180845)
+ - [Pathfinder’s Tian Xia setting is back with a horror-themed campaign](https://www.polygon.com/tabletop-games/23622697/pathfinder-tian-xia-adventure-path-announcement)
+ - [Genshin Impact’s Most Controversial New Character Is Nearly Unplayable](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-dehya-leaks-nerf-1850180828)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
