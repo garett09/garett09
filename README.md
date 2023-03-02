@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of former FTX engineering chief Nishad Singh; filings show Singh owned 7.8% of FTX US, 10% of FTX Ventures, and 44M shares in the main exchange &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p4#a230302p4)
  - [Google Assistant forgot how to control smart home devices &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/google-assistant-smart-home-3290958/)
- - [Fujifilm announces the new Instax Mini 12 instant camera](https://www.theverge.com/2023/3/2/23616759/fujifilm-instax-mini-12-instax-mini-11-instant-camera)
- - [A history of Xerox Alto, a computer that debuted in the early spring of 1973 at PARC and presaged personal, interactive, networked, and graphical computing &lpar;David C. Brock/IEEE Spectrum&rpar;](http://www.techmeme.com/230302/p3#a230302p3)<!-- TECH:END -->
+ - [Fujifilm announces the new Instax Mini 12 instant camera](https://www.theverge.com/2023/3/2/23616759/fujifilm-instax-mini-12-instax-mini-11-instant-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
