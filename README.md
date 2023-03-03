@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it](http://9gag.com/gag/abvALOp)
- - 🚯 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)
- - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
+ - 🚖 [Ninja Woman is too strong](http://9gag.com/gag/amAow99)
+ - 🚯 [Super cat training](http://9gag.com/gag/a8q7OGO)
+ - 🚯 [Belarusian partisans blowing up russian airborne early warning plane &lpar;video from the one with the explosives&rpar;](http://9gag.com/gag/a2KvpOZ)<!-- MEMES:END -->
 
 --- 
 
