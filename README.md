@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals March 3: 20% off Eve Outdoor Cam &amp; Eve Room, 45% off Apple iPod nano, 80% off Lefant Robot Vacuum &amp; more](https://appleinsider.com/articles/23/03/03/daily-deals-march-3-20-off-eve-outdoor-cam-eve-room-45-off-apple-ipod-nano-80-off-lefant-robot-vacuum-more?utm_medium=rss)
- - [Meta cuts the price of Quest Pro, its mixed and virtual reality headset focused on business users, from $1,500 to $1,000; 256GB Quest 2 drops from $500 to $430 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230303/p6#a230303p6)
- - [Sonos is hosting another refurbished soundbar and speaker sale](https://www.theverge.com/2023/3/3/23622746/sonos-arc-sl-roam-one-speaker-soundbar-deal-sale)<!-- TECH:END -->
+ - [Mario Kart 8 and Splatoon on the Wii U go offline due to vulnerability](https://www.theverge.com/2023/3/3/23623618/nintendo-wii-u-mario-kart-8-splatoon-offline-vulnerability-exploit)
+ - [Inside Apple Irvine Spectrum Center retail store: The new Silicon Valley](https://appleinsider.com/articles/23/03/03/inside-apple-irvine-spectrum-center-retail-store-the-new-silicon-valley?utm_medium=rss)
+ - [Sources: Founders Fund cut the size of its Fund VIII, which hasn&#39;t begun deploying capital, from ~$1.8B to ~$900M; the money will be pushed to its ninth fund &lpar;Axios&rpar;](http://www.techmeme.com/230303/p7#a230303p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
