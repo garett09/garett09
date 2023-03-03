@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Releases Galore! Destiny 2: Lightfall, Wo Long: Fallen Dynasty, and More](https://news.xbox.com/en-us/2023/03/03/this-week-on-xbox-new-releases-galore-destiny-2-lightfall-wo-long-fallen-dynasty-and-more/)
- - [RuneScape player finally pulls off ridiculous ironman challenge he set for himself 8 years ago: &#39;Life? No.&#39;](https://www.pcgamer.com/runescape-player-finally-pulls-off-ridiculous-ironman-challenge-he-set-for-himself-8-years-ago-life-no)
- - [Nintendo Switch game turns a roll of toilet paper into your controller](https://www.polygon.com/23624233/nintendo-switch-toilet-paper-game-controller-japan-trailer)<!-- GAME:END -->
+ - [9 Ridiculously Iconic Video Game Outfit Changes](https://kotaku.com/best-video-game-outfit-changes-bayonetta-kirby-switch-1850186337)
+ - [Despite music being just &#39;a hobby&#39; this composer co-created one of the year&#39;s best soundtracks](https://www.pcgamer.com/despite-music-being-just-a-hobby-this-composer-co-created-one-of-the-years-best-soundtracks)
+ - [Demi Lovato takes on Ghostface in music video for Scream 6](https://www.polygon.com/23624314/demi-lovato-scream-6-song-music-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
