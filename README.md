@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - 🚯 [Yooo! Avocado prices just went through the f**king roof, y\u2019all.](http://9gag.com/gag/aMEVDnA)<!-- MEMES:END -->
+ - 🚖 [My white Boss, told me to rest. The project can wait for another hour before we get started. Good guy boss.](http://9gag.com/gag/aDY2e47)
+ - 🚯 [Special forces](http://9gag.com/gag/aGEy62w)
+ - 🚯 [Double knot it.](http://9gag.com/gag/a3Z4X83)<!-- MEMES:END -->
 
 --- 
 
