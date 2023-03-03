@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT vs Bing Chat: What’s the difference and which one to use?](https://www.androidauthority.com/chatgpt-vs-bing-chat-3292126/)
- - [Daily Authority: 🤯 Pixel Watch components cost what now?](https://www.androidauthority.com/daily-authority-march-3-2023-3292411/)
- - [Foxconn to build $700 million iPhone plant in India](https://appleinsider.com/articles/23/03/03/foxconn-to-build-700-million-iphone-plant-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [You can get a prorated Twitterific &amp; Tweetbot refund, but please don&#39;t](https://appleinsider.com/articles/23/03/03/you-can-get-a-prorated-twitterific-tweetbot-refund-but-please-dont?utm_medium=rss)
+ - [Welcome to the Museum of the Future AI Apocalypse](https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/)
+ - [As Kenya’s Crops Fail, a Fight Over GMOs Rages](https://www.wired.com/story/kenya-gmo-approval/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
