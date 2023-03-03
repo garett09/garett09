@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clean Energy Charging drama, Mac Pro is coming, Apple&#39;s secret project shop](https://appleinsider.com/articles/23/03/03/clean-energy-charging-drama-mac-pro-is-coming-apples-secret-project-shop?utm_medium=rss)
- - [A Native Son of Palo Alto Thinks His Hometown Will Kill Us All](https://www.wired.com/story/plaintext-a-native-son-of-palo-alto-thinks-his-hometown-will-kill-us-all/)
- - [Netflix’s New Chris Rock Special Revives an Old Idea: Live TV](https://www.wired.com/story/netflix-chris-rock-selective-outrage-live-tv/)<!-- TECH:END -->
+ - [Are free streaming services enough or is Netflix still a must?](https://www.androidauthority.com/are-free-streaming-services-enough-is-netflix-still-a-must-3291081/)
+ - [Fujifilm X-T5 Review: Retro Appeal](https://www.wired.com/review/fujifilm-x-t5-mirrorless-camera/)
+ - [Morgan Stanley raises Apple target price to $180](https://appleinsider.com/articles/23/03/03/morgan-stanley-raises-apple-target-price-to-180?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
