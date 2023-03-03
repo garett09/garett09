@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Toilet Paper Switch Game Is Unlike Anything You’ve Seen Before](https://kotaku.com/toilet-paper-nintendo-switch-wii-joy-con-eshop-1850184436)
- - [The best Riker episodes of Star Trek, without question](https://www.polygon.com/23619045/best-star-trek-episodes-riker)
- - [Share of the Week: The Last of Us Part I – Left Behind](https://blog.playstation.com/2023/03/03/share-of-the-week-the-last-of-us-part-i-left-behind-2/)<!-- GAME:END -->
+ - [When does Marvel Snap’s March 2023 season ‘Days of Future Past’ launch?](https://www.polygon.com/marvel-snap-guides/23623738/march-2023-season-release-time-date-new-cards-locations)
+ - [Stardew Valley Shows No Signs Of Slowing Down 7 Years On](https://kotaku.com/stardew-valley-haunted-chocolatier-cozy-game-switch-1850184459)
+ - [One of the great RPG battle systems returns in Octopath Traveler 2](https://www.polygon.com/23622020/octopath-traveler-2-rpg-battle-system-break-boost-characters-skills)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
