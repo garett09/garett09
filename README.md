@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cap?](http://9gag.com/gag/amAonE9)
- - 🚯 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
- - 🚯 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)<!-- MEMES:END -->
+ - 🚖 [Wait for it](http://9gag.com/gag/abvALOp)
+ - 🚯 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)
+ - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
 
 --- 
 
