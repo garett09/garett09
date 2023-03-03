@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kowalski?](http://9gag.com/gag/aKEGLQg)
+ - 🚖 [Wait for it](http://9gag.com/gag/abvALOp)
  - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)
- - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
+ - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
 
 --- 
 
