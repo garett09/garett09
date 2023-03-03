@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 6 to 10](https://news.xbox.com/en-us/2023/03/03/next-week-on-xbox-new-games-for-march-6-to-10/)
- - [The last 20 minutes of Daisy Jones &amp; The Six’s premiere are electric](https://www.polygon.com/23622602/daisy-jones-six-review-premiere-songs)
- - [One of Bing&#39;s new ChatGPT personalities wrote me some seriously puggy fanfic](https://www.pcgamer.com/one-of-bings-new-chatgpt-personalities-wrote-me-some-seriously-puggy-fanfic)<!-- GAME:END -->
+ - [How content warnings became invaluable in modern games](https://www.polygon.com/23622467/content-warnings-dead-space-chicory-ikenfell)
+ - [The First Pokémon Season Without Ash Gets First Real Trailer](https://kotaku.com/pokemon-anime-trailer-liko-roy-ash-pikachu-sprigatito-1850184012)
+ - [Asus ROG Strix B760-F Gaming WiFi](https://www.pcgamer.com/asus-rog-strix-b760-f-gaming-wifi-motherboard-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
