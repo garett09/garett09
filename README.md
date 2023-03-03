@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Fusion will be the next GBA game on Switch Online](https://www.polygon.com/23623371/metroid-fusion-gba-switch-online-expansion-pack-release-date)
- - [LG trash talks Samsung for OLED burn-in issues](https://www.pcgamer.com/lg-trash-talks-samsung-for-oled-burn-in-issues)
- - [Wordle hint and answer #622: Friday, March 3](https://www.pcgamer.com/wordle-hint-answer-today-622-march-3)<!-- GAME:END -->
+ - [Rode NTH-100M](https://www.pcgamer.com/rode-nth-100m-gaming-headset-review)
+ - [No Vampire Survivors sequel for us unless its creator comes up with something &#39;radically new&#39;](https://www.pcgamer.com/no-vampire-survivors-sequel-for-us-unless-its-creator-comes-up-with-something-radically-new)
+ - [Valve just enabled native ray tracing on the Steam Deck and it actually looks pretty wild](https://www.pcgamer.com/valve-just-enabled-native-ray-tracing-on-the-steam-deck-and-it-actually-looks-pretty-wild)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
