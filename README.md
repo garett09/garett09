@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ninja Woman is too strong](http://9gag.com/gag/amAow99)
- - 🚯 [Super cat training](http://9gag.com/gag/a8q7OGO)
- - 🚯 [Belarusian partisans blowing up russian airborne early warning plane &lpar;video from the one with the explosives&rpar;](http://9gag.com/gag/a2KvpOZ)<!-- MEMES:END -->
+ - 🚖 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
 
 --- 
 
