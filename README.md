@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - 🚯 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
- - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
+ - 🚖 [Stair dust corners introduced at the end of the 19th century to make sweeping easier. They keep dust from accumulating in the corners](http://9gag.com/gag/aeQ9wLb)
+ - 🚯 [Lavrov says The War that was started against us and even in &#39;friendly&#39; India they start laughing at him](http://9gag.com/gag/aGEyQRw)
+ - 🚯 [I dug and I hit g&lpar;old&rpar;](http://9gag.com/gag/avQyVVq)<!-- MEMES:END -->
 
 --- 
 
