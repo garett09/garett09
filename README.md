@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.4 will support faster 5G on T-Mobile](https://appleinsider.com/articles/23/03/03/ios-164-will-support-faster-5g-on-t-mobile?utm_medium=rss)
- - [What Will Ethical Space Exploration Look Like?](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
- - [What to Do When Netflix Won’t Let You Share Your Password](https://www.wired.com/story/netflix-password-crackdown-what-do/)<!-- TECH:END -->
+ - [Clean Energy Charging drama, Mac Pro is coming, Apple&#39;s secret project shop](https://appleinsider.com/articles/23/03/03/clean-energy-charging-drama-mac-pro-is-coming-apples-secret-project-shop?utm_medium=rss)
+ - [A Native Son of Palo Alto Thinks His Hometown Will Kill Us All](https://www.wired.com/story/plaintext-a-native-son-of-palo-alto-thinks-his-hometown-will-kill-us-all/)
+ - [Netflix’s New Chris Rock Special Revives an Old Idea: Live TV](https://www.wired.com/story/netflix-chris-rock-selective-outrage-live-tv/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
