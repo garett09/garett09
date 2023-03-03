@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Casting spells with my voice in Hogwarts Legacy is very silly, kinda cool](https://www.pcgamer.com/casting-spells-with-my-voice-in-hogwarts-legacy-is-very-silly-kinda-cool)
- - [Wait, the new Hellboy movie might actually be good](https://www.polygon.com/23622698/hellboy-movie-crooked-man-might-actually-be-good)
- - [Get 72 Games For 30 Bucks In Syria-Turkey Relief Bundle](https://kotaku.com/humble-bundle-gotham-knights-xcom-syria-turkey-relief-1850181349)<!-- GAME:END -->
+ - [People just won&#39;t stop buying RTX 3060 graphics cards](https://www.pcgamer.com/people-just-wont-stop-buying-rtx-3060-graphics-cards)
+ - [Why Are Video Games So Afraid Of Everyday Life?](https://kotaku.com/video-games-real-world-gta-yakuza-animal-crossing-sims-1850176394)
+ - [Nvidia driver&#39;s &#39;csgos2.exe&#39; reference reinvigorates CS:GO update speculation](https://www.pcgamer.com/nvidia-drivers-csgos2exe-reference-reinvigorates-csgo-update-speculation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
