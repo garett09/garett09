@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
+ - 🚖 [Special forces](http://9gag.com/gag/aGEy62w)
+ - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 🚯 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
 
 --- 
 
