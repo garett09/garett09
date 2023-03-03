@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Amazon plans to close eight Go convenience stores in Seattle, New York City, and San Francisco, as it reevaluates its brick-and-mortar strategy and cuts costs &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230303/p12#a230303p12)
- - [In the Shadow of Chernobyl, a Pack of Dogs Unlike Any Other Roams the Wasteland     - CNET](https://www.cnet.com/science/biology/in-the-shadow-of-chernobyl-a-pack-of-dogs-unlike-any-other-roams-the-wasteland/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google hired a law firm for a civil rights and racial equity audit into its services and policies, after years of pressure from advocates and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
+ - [Sources: Character.AI, which uses LLMs to let users chat with famous people like Shakespeare, raised between $200M and $250M led by a16z at a ~$1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/230303/p14#a230303p14)
+ - [Amazon’s HQ2 Aimed to Show Tech Can Boost Cities. Now It’s on Pause](https://www.wired.com/story/amazons-hq2-aimed-to-show-tech-can-boost-cities-now-its-on-pause/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
