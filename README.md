@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Marvel Snap’s March 2023 season ‘Days of Future Past’ launch?](https://www.polygon.com/marvel-snap-guides/23623738/march-2023-season-release-time-date-new-cards-locations)
- - [Stardew Valley Shows No Signs Of Slowing Down 7 Years On](https://kotaku.com/stardew-valley-haunted-chocolatier-cozy-game-switch-1850184459)
- - [One of the great RPG battle systems returns in Octopath Traveler 2](https://www.polygon.com/23622020/octopath-traveler-2-rpg-battle-system-break-boost-characters-skills)<!-- GAME:END -->
+ - [The Sims 4: Growing Together fleshes out every stage of a Sim’s life](https://www.polygon.com/23622665/the-sims-4-growing-together-first-look-release-date-infant-toddler)
+ - [The Sims 4 makes family planning easier with Science Babies](https://www.polygon.com/23621676/the-sims-4-growing-together-expansion-pack-science-babies)
+ - [Everything That&#39;s Coming To The Sims 4 Will Make For Some Juicy Family Drama](https://kotaku.com/sims-4-babies-update-growing-together-expansion-pack-1850184994)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
