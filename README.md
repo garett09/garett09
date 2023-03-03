@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfection.](http://9gag.com/gag/aVbv57O)
- - 🚯 [Jim Carrey gives a back-handed compliment to Margot Robbie](http://9gag.com/gag/a8q793p)
- - 🚯 [I can guarantee the person melting the ice has a bicycle mustache.](http://9gag.com/gag/aNwDX9G)<!-- MEMES:END -->
+ - 🚖 [Cap?](http://9gag.com/gag/amAonE9)
+ - 🚯 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
+ - 🚯 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)<!-- MEMES:END -->
 
 --- 
 
