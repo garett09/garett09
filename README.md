@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stair dust corners introduced at the end of the 19th century to make sweeping easier. They keep dust from accumulating in the corners](http://9gag.com/gag/aeQ9wLb)
- - 🚯 [Lavrov says The War that was started against us and even in &#39;friendly&#39; India they start laughing at him](http://9gag.com/gag/aGEyQRw)
- - 🚯 [I dug and I hit g&lpar;old&rpar;](http://9gag.com/gag/avQyVVq)<!-- MEMES:END -->
+ - 🚖 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
+ - 🚯 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)
+ - 🚯 [Just one, that&#39;ll be all..](http://9gag.com/gag/aQEz5od)<!-- MEMES:END -->
 
 --- 
 
