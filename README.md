@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Ridiculously Iconic Video Game Outfit Changes](https://kotaku.com/best-video-game-outfit-changes-bayonetta-kirby-switch-1850186337)
- - [Despite music being just &#39;a hobby&#39; this composer co-created one of the year&#39;s best soundtracks](https://www.pcgamer.com/despite-music-being-just-a-hobby-this-composer-co-created-one-of-the-years-best-soundtracks)
- - [Demi Lovato takes on Ghostface in music video for Scream 6](https://www.polygon.com/23624314/demi-lovato-scream-6-song-music-video)<!-- GAME:END -->
+ - [Attack on Titan Final Season Part 3’s first episode is now on Crunchyroll](https://www.polygon.com/2023/3/3/23624132/attack-titan-final-season-part-3-first-episode-release-time-date-crunchyroll)
+ - [That ‘AI-Generated’ Anime Is A Slap In The Face To Pro Animators](https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624)
+ - [Pathfinder Developer Bans AI Art, Takes A Hard Stance](https://kotaku.com/paizo-pathfinder-artificial-intelligence-art-ban-rule-1850186576)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
