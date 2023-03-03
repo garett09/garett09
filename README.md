@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not for marketing, but its amazing](http://9gag.com/gag/aVbv4NO)
+ - 🚖 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
  - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
+ - 🚯 [Yooo! Avocado prices just went through the f**king roof, y\u2019all.](http://9gag.com/gag/aMEVDnA)<!-- MEMES:END -->
 
 --- 
 
