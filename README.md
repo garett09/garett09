@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How content warnings became invaluable in modern games](https://www.polygon.com/23622467/content-warnings-dead-space-chicory-ikenfell)
- - [The First Pokémon Season Without Ash Gets First Real Trailer](https://kotaku.com/pokemon-anime-trailer-liko-roy-ash-pikachu-sprigatito-1850184012)
- - [Asus ROG Strix B760-F Gaming WiFi](https://www.pcgamer.com/asus-rog-strix-b760-f-gaming-wifi-motherboard-review)<!-- GAME:END -->
+ - [Toilet Paper Switch Game Is Unlike Anything You’ve Seen Before](https://kotaku.com/toilet-paper-nintendo-switch-wii-joy-con-eshop-1850184436)
+ - [The best Riker episodes of Star Trek, without question](https://www.polygon.com/23619045/best-star-trek-episodes-riker)
+ - [Share of the Week: The Last of Us Part I – Left Behind](https://blog.playstation.com/2023/03/03/share-of-the-week-the-last-of-us-part-i-left-behind-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
