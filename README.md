@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
- - 🚯 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)
- - 🚯 [Just one, that&#39;ll be all..](http://9gag.com/gag/aQEz5od)<!-- MEMES:END -->
+ - 🚖 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)
+ - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 🚯 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)<!-- MEMES:END -->
 
 --- 
 
