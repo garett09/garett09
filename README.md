@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it](http://9gag.com/gag/abvALOp)
- - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)
- - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
+ - 🚖 [Perfection.](http://9gag.com/gag/aVbv57O)
+ - 🚯 [Jim Carrey gives a back-handed compliment to Margot Robbie](http://9gag.com/gag/a8q793p)
+ - 🚯 [I can guarantee the person melting the ice has a bicycle mustache.](http://9gag.com/gag/aNwDX9G)<!-- MEMES:END -->
 
 --- 
 
