@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #622: Friday, March 3](https://www.pcgamer.com/wordle-hint-answer-today-622-march-3)
- - [How to beat Zhang Liang, Wo Long: Fallen Dynasty’s infuriating jerk of a first boss](https://www.polygon.com/guides/23622612/wo-long-zhang-liang-first-boss-fight-strategy-guide)
- - [Let’s dissect Wo Long: Fallen Dynasty’s baffling gear system](https://www.polygon.com/guides/23622454/wo-long-fallen-dynasty-gear-equipment-stats-stars-rarity-upgrades)<!-- GAME:END -->
+ - [Metroid Fusion will be the next GBA game on Switch Online](https://www.polygon.com/23623371/metroid-fusion-gba-switch-online-expansion-pack-release-date)
+ - [LG trash talks Samsung for OLED burn-in issues](https://www.pcgamer.com/lg-trash-talks-samsung-for-oled-burn-in-issues)
+ - [Wordle hint and answer #622: Friday, March 3](https://www.pcgamer.com/wordle-hint-answer-today-622-march-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
