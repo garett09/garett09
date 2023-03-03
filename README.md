@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never smell your own farts to much.](http://9gag.com/gag/aOx8A32)
- - 🚯 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
- - 🚯 [Ukrainian drone enters ruusian airspace and lands on a plane](http://9gag.com/gag/aBdybbx)<!-- MEMES:END -->
+ - 🚖 [Why? Why? Why? Oh that&#39;s why?](http://9gag.com/gag/aPgApgK)
+ - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 🚯 [Not for marketing, but its amazing](http://9gag.com/gag/aVbv4NO)<!-- MEMES:END -->
 
 --- 
 
