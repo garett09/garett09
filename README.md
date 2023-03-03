@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are free streaming services enough or is Netflix still a must?](https://www.androidauthority.com/are-free-streaming-services-enough-is-netflix-still-a-must-3291081/)
- - [Fujifilm X-T5 Review: Retro Appeal](https://www.wired.com/review/fujifilm-x-t5-mirrorless-camera/)
- - [Morgan Stanley raises Apple target price to $180](https://appleinsider.com/articles/23/03/03/morgan-stanley-raises-apple-target-price-to-180?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals March 3: 20% off Eve Outdoor Cam &amp; Eve Room, 45% off Apple iPod nano, 80% off Lefant Robot Vacuum &amp; more](https://appleinsider.com/articles/23/03/03/daily-deals-march-3-20-off-eve-outdoor-cam-eve-room-45-off-apple-ipod-nano-80-off-lefant-robot-vacuum-more?utm_medium=rss)
+ - [Meta cuts the price of Quest Pro, its mixed and virtual reality headset focused on business users, from $1,500 to $1,000; 256GB Quest 2 drops from $500 to $430 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230303/p6#a230303p6)
+ - [Sonos is hosting another refurbished soundbar and speaker sale](https://www.theverge.com/2023/3/3/23622746/sonos-arc-sl-roam-one-speaker-soundbar-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
