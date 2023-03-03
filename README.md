@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4: Growing Together fleshes out every stage of a Sim’s life](https://www.polygon.com/23622665/the-sims-4-growing-together-first-look-release-date-infant-toddler)
- - [The Sims 4 makes family planning easier with Science Babies](https://www.polygon.com/23621676/the-sims-4-growing-together-expansion-pack-science-babies)
- - [Everything That&#39;s Coming To The Sims 4 Will Make For Some Juicy Family Drama](https://kotaku.com/sims-4-babies-update-growing-together-expansion-pack-1850184994)<!-- GAME:END -->
+ - [Attack on Titan Final Season Part 3’s first episode is arriving later than fans expected](https://www.polygon.com/2023/3/3/23624132/attack-titan-final-season-part-3-first-episode-release-time-date-crunchyroll)
+ - [Bad news! Warhammer 40K’s grimdark setting is now even worse!](https://www.polygon.com/23622007/warhammer-40k-arks-of-omen-angron-lore-choral-engine)
+ - [12 Wo Long: Fallen Dynasty Tips For Surviving In A Fantastical, Feudal China](https://kotaku.com/wo-long-fallen-dynasty-tips-deflect-summon-fatal-strike-1850185584)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
