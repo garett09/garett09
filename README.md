@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get a prorated Twitterific &amp; Tweetbot refund, but please don&#39;t](https://appleinsider.com/articles/23/03/03/you-can-get-a-prorated-twitterific-tweetbot-refund-but-please-dont?utm_medium=rss)
- - [Welcome to the Museum of the Future AI Apocalypse](https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/)
- - [As Kenya’s Crops Fail, a Fight Over GMOs Rages](https://www.wired.com/story/kenya-gmo-approval/)<!-- TECH:END -->
+ - [iOS 16.4 will support faster 5G on T-Mobile](https://appleinsider.com/articles/23/03/03/ios-164-will-support-faster-5g-on-t-mobile?utm_medium=rss)
+ - [What Will Ethical Space Exploration Look Like?](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
+ - [What to Do When Netflix Won’t Let You Share Your Password](https://www.wired.com/story/netflix-password-crackdown-what-do/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
