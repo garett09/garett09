@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Attack on Titan Final Season Part 3’s first episode is arriving later than fans expected](https://www.polygon.com/2023/3/3/23624132/attack-titan-final-season-part-3-first-episode-release-time-date-crunchyroll)
- - [Bad news! Warhammer 40K’s grimdark setting is now even worse!](https://www.polygon.com/23622007/warhammer-40k-arks-of-omen-angron-lore-choral-engine)
- - [12 Wo Long: Fallen Dynasty Tips For Surviving In A Fantastical, Feudal China](https://kotaku.com/wo-long-fallen-dynasty-tips-deflect-summon-fatal-strike-1850185584)<!-- GAME:END -->
+ - [This Week on Xbox: New Releases Galore! Destiny 2: Lightfall, Wo Long: Fallen Dynasty, and More](https://news.xbox.com/en-us/2023/03/03/this-week-on-xbox-new-releases-galore-destiny-2-lightfall-wo-long-fallen-dynasty-and-more/)
+ - [RuneScape player finally pulls off ridiculous ironman challenge he set for himself 8 years ago: &#39;Life? No.&#39;](https://www.pcgamer.com/runescape-player-finally-pulls-off-ridiculous-ironman-challenge-he-set-for-himself-8-years-ago-life-no)
+ - [Nintendo Switch game turns a roll of toilet paper into your controller](https://www.polygon.com/23624233/nintendo-switch-toilet-paper-game-controller-japan-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
