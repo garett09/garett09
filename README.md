@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Kowalski?](http://9gag.com/gag/aKEGLQg)
  - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)
- - 🚯 [Why? Why? Why? Oh that&#39;s why?](http://9gag.com/gag/aPgApgK)<!-- MEMES:END -->
+ - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
 
 --- 
 
