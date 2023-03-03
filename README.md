@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell reports Q4 revenue down 11% YoY to $25B, commercial PC revenue down 17% YoY to $10.7B, and names Yvonne McGill to replace CFO Tom Sweet, effective August 5 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230302/p28#a230302p28)
- - [Metroid Fusion is coming to Nintendo Switch Online next week](https://www.theverge.com/2023/3/2/23623015/metroid-fusion-nintendo-switch-online)
- - [Memo: CNET EIC Connie Guglielmo, who defended CNET&#39;s use of AI tools, plans to step down to become Red Ventures&#39; SVP of AI content strategy and editor-at-large &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230302/p27#a230302p27)<!-- TECH:END -->
+ - [Sources: Foxconn plans to invest ~$700M on a new plant to make iPhone parts on a 300-acre site in Bengaluru, India; the plant is expected to create 100K jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/230302/p33#a230302p33)
+ - [Shef, a chef-to-consumer marketplace, raised a $73.5M Series B in June 2022, including $7M in debt, led by CRV with participation from a16z and Amex Ventures &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230302/p32#a230302p32)
+ - [HPE acquires cloud security startup Axis Security, reportedly for $500M, via HPE&#39;s subsidiary Aruba; Axis has raised $100M in funding to date &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/230302/p31#a230302p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
