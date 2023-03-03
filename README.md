@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel moves to a two-year cadence for data center GPU releases, canceling the Rialto Bridge series and delaying its next release, Falcon Shores, to 2025 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230303/p16#a230303p16)
  - [Sources: Google hired a law firm for a civil rights and racial equity audit into its services and policies, after years of pressure from advocates and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
- - [Sources: Character.AI, which uses LLMs to let users chat with famous people like Shakespeare, raised between $200M and $250M led by a16z at a ~$1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/230303/p14#a230303p14)
- - [Amazon’s HQ2 Aimed to Show Tech Can Boost Cities. Now It’s on Pause](https://www.wired.com/story/amazons-hq2-aimed-to-show-tech-can-boost-cities-now-its-on-pause/)<!-- TECH:END -->
+ - [Best BNPL Apps     - CNET](https://www.cnet.com/personal-finance/loans/best-buy-now-pay-later-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
