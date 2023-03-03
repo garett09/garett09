@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Kowalski?](http://9gag.com/gag/aKEGLQg)
- - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 🚯 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
+ - 🚯 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)
+ - 🚯 [Why? Why? Why? Oh that&#39;s why?](http://9gag.com/gag/aPgApgK)<!-- MEMES:END -->
 
 --- 
 
