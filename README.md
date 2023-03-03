@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2 months of Xbox Game Pass Ultimate for just $9.99, and more great Xbox deals](https://www.androidauthority.com/best-xbox-deals-1118171/)
- - [HPE reports Q1 revenue up 12% YoY to $7.8B, vs. $7.45B est., HPC &amp; AI revenue up 34% YoY to $1.1B, and Q2 revenue guidance above estimates &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230302/p24#a230302p24)
- - [16 Best Deals on Home Office Gear: Portable Monitors, Desks, Power Strips](https://www.wired.com/story/midweek-deals-030223/)<!-- TECH:END -->
+ - [Dell reports Q4 revenue down 11% YoY to $25B, commercial PC revenue down 17% YoY to $10.7B, and names Yvonne McGill to replace CFO Tom Sweet, effective August 5 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230302/p28#a230302p28)
+ - [Metroid Fusion is coming to Nintendo Switch Online next week](https://www.theverge.com/2023/3/2/23623015/metroid-fusion-nintendo-switch-online)
+ - [Memo: CNET EIC Connie Guglielmo, who defended CNET&#39;s use of AI tools, plans to step down to become Red Ventures&#39; SVP of AI content strategy and editor-at-large &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230302/p27#a230302p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
