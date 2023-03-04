@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose -- February 2023 in review](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)
- - [BidenCash, a dark web site dealing in stolen credit and debit cards, leaks a free database of 2M+ cards revealing emails, card expiry dates, CVV codes, and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230304/p6#a230304p6)
- - [The LastPass Hack Somehow Gets Worse](https://www.wired.com/story/lastpass-engineer-breach-security-roundup/)<!-- TECH:END -->
+ - [Sony Xperia I IV review revisited: The good and bad six months later](https://www.androidauthority.com/sony-xperia-i-iv-review-revistited-3275286/)
+ - [Garmin Vivomove Trend Review: Wireless Charging!](https://www.wired.com/review/garmin-vivomove-trend/)
+ - [How to Get Your Unruly Toddler to Sleep](https://www.wired.com/story/how-to-get-your-unruly-toddler-to-sleep/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
