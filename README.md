@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
- - 🚯 [He lives in a skip and only pays \u00a350 on rent a month.](http://9gag.com/gag/a3Z4Xo8)<!-- MEMES:END -->
+ - 🚖 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)
+ - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
+ - 🚯 [Childhood ruined](http://9gag.com/gag/aDY2Lnx)<!-- MEMES:END -->
 
 --- 
 
