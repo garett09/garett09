@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-474-3292173/)
  - [The best apps for Apple CarPlay](https://appleinsider.com/inside/carplay/best/the-best-apps-for-apple-carplay?utm_medium=rss)
- - [US adds China&#39;s Inspur, one of the world&#39;s largest server makers that has joint ventures with IBM and Cisco, to an Entity List, limiting its access to US tech &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/230304/p7#a230304p7)
- - [I don’t think Meta knows it’s a game company](https://www.theverge.com/2023/3/4/23623081/meta-quest-3-ps3-xbox-one-video-games-yikes)<!-- TECH:END -->
+ - [US adds China&#39;s Inspur, one of the world&#39;s largest server makers that has joint ventures with IBM and Cisco, to an Entity List, limiting its access to US tech &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/230304/p7#a230304p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
