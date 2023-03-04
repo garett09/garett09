@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)
- - 🚯 [Top 10 of the worst ways to die](http://9gag.com/gag/a4oPgbQ)<!-- MEMES:END -->
+ - 🚖 [I fell down the stairs](http://9gag.com/gag/aGEyWGZ)
+ - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
 
 --- 
 
