@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring says new users of Ring Alarm will have to pay for a Ring Protect plan costing $3.99+ per month to access existing free features, starting March 29 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230303/p24#a230303p24)
- - [An NLRB director rules that Google is a &quot;joint employer&quot; with YouTube subcontractor Cognizant and must bargain with Cognizant workers if they vote to unionize &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230303/p23#a230303p23)
- - [Ryan Breslow sues Mark Phillips, a convicted fraudster he hired to build his social impact DAO, accusing him of stealing ~$10.5M of the project&#39;s seed funding &lpar;Forbes&rpar;](http://www.techmeme.com/230303/p22#a230303p22)<!-- TECH:END -->
+ - [San Jose-based Vintra, whose software is used by the IRS, police, and more, claims its &quot;co-appearance&quot; AI can mark interactions between people caught on camera &lpar;Noah Bierman/Los Angeles Times&rpar;](http://www.techmeme.com/230304/p2#a230304p2)
+ - [Reid Hoffman leaves the nonprofit board of OpenAI, citing a desire to invest in companies using OpenAI&#39;s tech, which he says could cause a conflict of interest &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230304/p1#a230304p1)
+ - [Ring says new users of Ring Alarm will have to pay for a Ring Protect plan costing $3.99+ per month to access existing free features, starting March 29 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230303/p24#a230303p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
