@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [Childhood ruined](http://9gag.com/gag/aDY2Lnx)
+ - 🚖 [How Inflation look like in Germany!! Can\u2019t imagine how it looks in Venezuela, Argentina, Lebanon, Zimbabwe\u2026](http://9gag.com/gag/axoyq1L)
+ - 🚯 [Works](http://9gag.com/gag/aA0y8Qd)
  - 🚯 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)<!-- MEMES:END -->
 
 --- 
