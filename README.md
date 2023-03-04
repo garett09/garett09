@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A couple of mouthwatering gyros with fries](http://9gag.com/gag/anz7PoB)
- - 🚯 [People...](http://9gag.com/gag/a9qyGvW)
- - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
+ - 🚖 [France, screening of the film Creed III ---- &lpar;Ivry-sur-Seine&rpar;](http://9gag.com/gag/avQyKYM)
+ - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 🚯 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)<!-- MEMES:END -->
 
 --- 
 
