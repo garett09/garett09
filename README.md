@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to go back in time on Google Earth](https://www.androidauthority.com/go-back-in-time-google-earth-3287024/)
  - [Q&amp;A with OpenAI&#39;s Sandhini Agarwal, Liam Fedus, Jan Leike, and co-founder John Schulman on training ChatGPT, dealing with virality, fixing problems, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230304/p4#a230304p4)
- - [Some UK officials and SoftBank staff blame onerous FCA rules, complexity and cost, inflexibility, and political chaos for Arm&#39;s decision to shun London listing &lpar;Financial Times&rpar;](http://www.techmeme.com/230304/p3#a230304p3)
- - [San Jose-based Vintra, whose software is used by the IRS, police, and more, claims its &quot;co-appearance&quot; AI can mark interactions between people caught on camera &lpar;Noah Bierman/Los Angeles Times&rpar;](http://www.techmeme.com/230304/p2#a230304p2)<!-- TECH:END -->
+ - [Some UK officials and SoftBank staff blame onerous FCA rules, complexity and cost, inflexibility, and political chaos for Arm&#39;s decision to shun London listing &lpar;Financial Times&rpar;](http://www.techmeme.com/230304/p3#a230304p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
