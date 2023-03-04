@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia I IV review revisited: The good and bad six months later](https://www.androidauthority.com/sony-xperia-i-iv-review-revistited-3275286/)
- - [Garmin Vivomove Trend Review: Wireless Charging!](https://www.wired.com/review/garmin-vivomove-trend/)
- - [How to Get Your Unruly Toddler to Sleep](https://www.wired.com/story/how-to-get-your-unruly-toddler-to-sleep/)<!-- TECH:END -->
+ - [The best apps for Apple CarPlay](https://appleinsider.com/inside/carplay/best/the-best-apps-for-apple-carplay?utm_medium=rss)
+ - [US adds China&#39;s Inspur, one of the world&#39;s largest server makers that has joint ventures with IBM and Cisco, to an Entity List, limiting its access to US tech &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/230304/p7#a230304p7)
+ - [I don’t think Meta knows it’s a game company](https://www.theverge.com/2023/3/4/23623081/meta-quest-3-ps3-xbox-one-video-games-yikes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
