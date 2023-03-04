@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)
- - 🚯 [How many women can you handle?](http://9gag.com/gag/a4oP0r1)
- - 🚯 [I see one little girl in this picture and it is not the legend in red.](http://9gag.com/gag/a3Z4rYv)<!-- MEMES:END -->
+ - 🚖 [A couple of mouthwatering gyros with fries](http://9gag.com/gag/anz7PoB)
+ - 🚯 [People...](http://9gag.com/gag/a9qyGvW)
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
 
 --- 
 
