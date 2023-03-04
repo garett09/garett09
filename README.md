@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon suspends Virginia HQ2 construction in latest cost-cutting move](https://www.theverge.com/2023/3/4/23624965/amazon-suspends-hq2-construction-headquarters-virginia)
- - [A profile of Slack CEO Lidiane Jones, who was a Sonos VP of software management before joining Salesforce, as she leads Slack through its &quot;biggest product year&quot; &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230304/p8#a230304p8)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-474-3292173/)<!-- TECH:END -->
+ - [Should you get a robot vacuum, or a smart stand-up vac?](https://www.androidauthority.com/robot-vacuum-vs-smart-stand-up-vac-3274900/)
+ - [Sparkee portable charger review: Two portable chargers in one](https://appleinsider.com/articles/23/03/04/sparkee-portable-charger-review-two-portable-chargers-in-one?utm_medium=rss)
+ - [Singapore-based e-commerce aggregator Una Brands raised a $30M pre-Series C, following a $30M Series B in September 2022, bringing its total funding to $100M+ &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230304/p9#a230304p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
