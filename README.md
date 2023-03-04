@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A cross-counter punch ties Creed III to one of anime’s greatest tropes](https://www.polygon.com/23622546/creed-3-ending-punch-scene-naruto-dragon-ball-z-ashita-no-joe)
  - [Can the act of reviving an obscure game be… art?](https://www.polygon.com/23623891/c-smash-vrs-cosmic-smash-psvr2-preview)
- - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;March 2023&rpar;](https://www.polygon.com/what-to-watch/2023/3/4/23616686/best-new-movies-netflix-amazon-prime-hbo-hulu-march-2023)
- - [Anime Awards 2023 name Cyberpunk: Edgerunners as Anime of the Year](https://www.polygon.com/23624896/anime-awards-2023-winners-list-cyberpunk-attack-on-titan-spy-family)<!-- GAME:END -->
+ - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;March 2023&rpar;](https://www.polygon.com/what-to-watch/2023/3/4/23616686/best-new-movies-netflix-amazon-prime-hbo-hulu-march-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
