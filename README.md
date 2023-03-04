@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has approved a ChatGPT-powered version of the BlueMail app, after its creator Blix assured Apple that the update includes content moderation &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230303/p20#a230303p20)
  - [Sources: last month, Amazon threatened to withhold payments for advertising it runs on Twitter, as the social network refused to pay its AWS bills for months &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230303/p19#a230303p19)
- - [Silvergate says it&#39;s discontinuing the Silvergate Exchange Network, an instant settlement service that its clients could use to move money to crypto exchanges &lpar;CoinDesk&rpar;](http://www.techmeme.com/230303/p18#a230303p18)
- - [Apple’s business-oriented ‘Mac notebook upgrade program’ has been discontinued](https://www.theverge.com/2023/3/3/23624389/apple-m1-mac-notebook-upgrade-program-discontinued-small-business)<!-- TECH:END -->
+ - [Silvergate says it&#39;s discontinuing the Silvergate Exchange Network, an instant settlement service that its clients could use to move money to crypto exchanges &lpar;CoinDesk&rpar;](http://www.techmeme.com/230303/p18#a230303p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
