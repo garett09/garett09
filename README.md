@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is good at making VR hardware but is ignoring its core gamer audience, as it&#39;s not clear the company realizes that games are driving its VR business &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230304/p11#a230304p11)
  - [How to File Your Taxes for Free in 2023     - CNET](https://www.cnet.com/personal-finance/taxes/best-free-tax-filing-options/#ftag=CAD590a51e)
- - [Bing Chat appears to have a hidden Celebrity mode, in which the chatbot answers questions while impersonating Biden, Trump, Tom Cruise, and other famous people &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230304/p10#a230304p10)
- - [Best Laptop 2023: The 13 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bing Chat appears to have a hidden Celebrity mode, in which the chatbot answers questions while impersonating Biden, Trump, Tom Cruise, and other famous people &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230304/p10#a230304p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
