@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 🌍 The best of MWC 2023](https://www.androidauthority.com/the-weekly-authority-march-4-2023-234-3291972/)
- - [The High-Stakes Blame Game in the White House Cybersecurity Plan](https://www.wired.com/story/white-house-national-cybersecurity-strategy/)
- - [11 Best Deals: Sex Toys and Indestructible Tights and Other Apparel](https://www.wired.com/story/weekend-deals-march-4-2023/)<!-- TECH:END -->
+ - [Should you wait for the Google Pixel 8 Pro or buy the Samsung Galaxy S23 Ultra?](https://www.androidauthority.com/google-pixel-8-pro-vs-samsung-galaxy-s23-ultra-3288654/)
+ - [What to Do When Your Boss Is Spying on You](https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/)
+ - [Amazon Halo Rise Review: Sleep Tracker and Alarm](https://www.wired.com/review/amazon-halo-rise/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
