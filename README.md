@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)
- - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - 🚯 [Childhood ruined](http://9gag.com/gag/aDY2Lnx)<!-- MEMES:END -->
+ - 🚖 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)
+ - 🚯 [Childhood ruined](http://9gag.com/gag/aDY2Lnx)
+ - 🚯 [How Inflation look like in Germany!! Can\u2019t imagine how it looks in Venezuela, Argentina, Lebanon, Zimbabwe\u2026](http://9gag.com/gag/axoyq1L)<!-- MEMES:END -->
 
 --- 
 
