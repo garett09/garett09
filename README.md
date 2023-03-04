@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to File Your Taxes for Free in 2023     - CNET](https://www.cnet.com/personal-finance/taxes/best-free-tax-filing-options/#ftag=CAD590a51e)
  - [Bing Chat appears to have a hidden Celebrity mode, in which the chatbot answers questions while impersonating Biden, Trump, Tom Cruise, and other famous people &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230304/p10#a230304p10)
- - [Should you get a robot vacuum, or a smart stand-up vac?](https://www.androidauthority.com/robot-vacuum-vs-smart-stand-up-vac-3274900/)
- - [Sparkee portable charger review: Two portable chargers in one](https://appleinsider.com/articles/23/03/04/sparkee-portable-charger-review-two-portable-chargers-in-one?utm_medium=rss)<!-- TECH:END -->
+ - [Best Laptop 2023: The 13 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
