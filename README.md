@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel moves to a two-year cadence for data center GPU releases, canceling the Rialto Bridge series and delaying its next release, Falcon Shores, to 2025 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230303/p16#a230303p16)
- - [Sources: Google hired a law firm for a civil rights and racial equity audit into its services and policies, after years of pressure from advocates and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
- - [Best BNPL Apps     - CNET](https://www.cnet.com/personal-finance/loans/best-buy-now-pay-later-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: last month, Amazon threatened to withhold payments for advertising it runs on Twitter, as the social network refused to pay its AWS bills for months &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230303/p19#a230303p19)
+ - [Silvergate says it&#39;s discontinuing the Silvergate Exchange Network, an instant settlement service that its clients could use to move money to crypto exchanges &lpar;CoinDesk&rpar;](http://www.techmeme.com/230303/p18#a230303p18)
+ - [Apple’s business-oriented ‘Mac notebook upgrade program’ has been discontinued](https://www.theverge.com/2023/3/3/23624389/apple-m1-mac-notebook-upgrade-program-discontinued-small-business)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
