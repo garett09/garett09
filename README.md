@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Buds Pro 2 review: Flagship buds with a mid-tier price tag](https://www.androidauthority.com/oneplus-buds-pro-2-review-3286258/)
- - [The US imposes new rules requiring that CHIPS Act beneficiaries agree not to expand manufacturing capacity in &quot;countries of concern&quot;, like China, for 10 years &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230304/p5#a230304p5)
- - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Weekly Authority: 🌍 The best of MWC 2023](https://www.androidauthority.com/the-weekly-authority-march-4-2023-234-3291972/)
+ - [The High-Stakes Blame Game in the White House Cybersecurity Plan](https://www.wired.com/story/white-house-national-cybersecurity-strategy/)
+ - [11 Best Deals: Sex Toys and Indestructible Tights and Other Apparel](https://www.wired.com/story/weekend-deals-march-4-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
