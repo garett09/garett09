@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many women can you handle?](http://9gag.com/gag/a4oP0r1)
- - 🚯 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)
- - 🚯 [I see one little girl in this picture and it is not the legend in red.](http://9gag.com/gag/a3Z4rYv)<!-- MEMES:END -->
+ - 🚖 [I\u2019m no expert but\u2026](http://9gag.com/gag/a7qoYN2)
+ - 🚯 [The comedic timing of `Good news, he&#39;s got plenty of other rackets`](http://9gag.com/gag/abvALA9)
+ - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)<!-- MEMES:END -->
 
 --- 
 
