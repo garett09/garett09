@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 🚖 [How many women can you handle?](http://9gag.com/gag/a4oP0r1)
  - 🚯 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)
- - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
+ - 🚯 [I see one little girl in this picture and it is not the legend in red.](http://9gag.com/gag/a3Z4rYv)<!-- MEMES:END -->
 
 --- 
 
