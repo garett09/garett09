@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #623: Saturday, March 4](https://www.pcgamer.com/wordle-hint-answer-today-623-march-4)
  - [Square Enix&#39;s crypto-loving president likely to be ousted in favor of a different, still crypto-loving president](https://www.pcgamer.com/square-enixs-crypto-loving-president-likely-to-be-ousted-in-favor-of-a-different-still-crypto-loving-president)
- - [Town Using $20K Of Covid Relief Cash On TMNT Manhole Covers](https://kotaku.com/tmnt-manhole-covers-teenage-mutant-ninja-turtles-1850187000)
- - [That ‘AI-Generated’ Anime Is A Slap In The Face To Pro Animators](https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624)<!-- GAME:END -->
+ - [Town Using $20K Of Covid Relief Cash On TMNT Manhole Covers](https://kotaku.com/tmnt-manhole-covers-teenage-mutant-ninja-turtles-1850187000)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
