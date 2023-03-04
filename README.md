@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [Do you want children to KO each other, because that is how you get children to KO each other.](http://9gag.com/gag/aDY2LZx)
- - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)<!-- MEMES:END -->
+ - 🚖 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
+ - 🚯 [Got me thinking](http://9gag.com/gag/a04erVL)
+ - 🚯 [Top 10 of the worst ways to die](http://9gag.com/gag/a4oPgbQ)<!-- MEMES:END -->
 
 --- 
 
