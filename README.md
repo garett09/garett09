@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Attack on Titan Final Season Part 3’s first episode is now on Crunchyroll](https://www.polygon.com/2023/3/3/23624132/attack-titan-final-season-part-3-first-episode-release-time-date-crunchyroll)
- - [That ‘AI-Generated’ Anime Is A Slap In The Face To Pro Animators](https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624)
- - [Pathfinder Developer Bans AI Art, Takes A Hard Stance](https://kotaku.com/paizo-pathfinder-artificial-intelligence-art-ban-rule-1850186576)<!-- GAME:END -->
+ - [Square Enix&#39;s crypto-loving president likely to be ousted in favor of a different, still crypto-loving president](https://www.pcgamer.com/square-enixs-crypto-loving-president-likely-to-be-ousted-in-favor-of-a-different-still-crypto-loving-president)
+ - [Town Using $20K Of Covid Relief Cash On TMNT Manhole Covers](https://kotaku.com/tmnt-manhole-covers-teenage-mutant-ninja-turtles-1850187000)
+ - [That ‘AI-Generated’ Anime Is A Slap In The Face To Pro Animators](https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
