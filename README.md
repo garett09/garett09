@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electronic Frontier Foundation](http://9gag.com/gag/a8q7g2V)
- - 🚯 [Omfg LoL!!!](http://9gag.com/gag/a8q7RW3)
- - 🚯 [I see one little girl in this picture and it is not the legend in red.](http://9gag.com/gag/a3Z4rYv)<!-- MEMES:END -->
+ - 🚖 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 🚯 [It doesn&#39;t often end like this.](http://9gag.com/gag/aEq0m2o)
+ - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
 
 --- 
 
