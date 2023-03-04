@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [David was being aggressive](http://9gag.com/gag/aREBbO5)
- - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)
- - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)<!-- MEMES:END -->
+ - 🚖 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
+ - 🚯 [He lives in a skip and only pays \u00a350 on rent a month.](http://9gag.com/gag/a3Z4Xo8)<!-- MEMES:END -->
 
 --- 
 
