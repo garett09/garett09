@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Inflation look like in Germany!! Can\u2019t imagine how it looks in Venezuela, Argentina, Lebanon, Zimbabwe\u2026](http://9gag.com/gag/axoyq1L)
- - 🚯 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)<!-- MEMES:END -->
+ - 🚖 [Works](http://9gag.com/gag/aA0y8Qd)
+ - 🚯 [Do you want children to KO each other, because that is how you get children to KO each other.](http://9gag.com/gag/aDY2LZx)
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)<!-- MEMES:END -->
 
 --- 
 
