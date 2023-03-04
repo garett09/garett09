@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to go back in time on Google Earth](https://www.androidauthority.com/go-back-in-time-google-earth-3287024/)
- - [Q&amp;A with OpenAI&#39;s Sandhini Agarwal, Liam Fedus, Jan Leike, and co-founder John Schulman on training ChatGPT, dealing with virality, fixing problems, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230304/p4#a230304p4)
- - [Some UK officials and SoftBank staff blame onerous FCA rules, complexity and cost, inflexibility, and political chaos for Arm&#39;s decision to shun London listing &lpar;Financial Times&rpar;](http://www.techmeme.com/230304/p3#a230304p3)<!-- TECH:END -->
+ - [OnePlus Buds Pro 2 review: Flagship buds with a mid-tier price tag](https://www.androidauthority.com/oneplus-buds-pro-2-review-3286258/)
+ - [The US imposes new rules requiring that CHIPS Act beneficiaries agree not to expand manufacturing capacity in &quot;countries of concern&quot;, like China, for 10 years &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230304/p5#a230304p5)
+ - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
