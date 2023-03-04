@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - 🚯 [Got me thinking](http://9gag.com/gag/a04erVL)
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)
  - 🚯 [Top 10 of the worst ways to die](http://9gag.com/gag/a4oPgbQ)<!-- MEMES:END -->
 
 --- 
