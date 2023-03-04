@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valorant’s new Agent Gekko can remotely plant or defuse the Spike](https://www.polygon.com/23624325/valorant-gekko-new-agent-ability-kit-ultimate-reveal-trailer)
  - [Apple’s retrofuturistic Hello Tomorrow! has become the ultimate crypto show](https://www.polygon.com/23623000/hello-tomorrow-review-crypto-bro)
- - [A cross-counter punch ties Creed III to one of anime’s greatest tropes](https://www.polygon.com/23622546/creed-3-ending-punch-scene-naruto-dragon-ball-z-ashita-no-joe)
- - [Can the act of reviving an obscure game be… art?](https://www.polygon.com/23623891/c-smash-vrs-cosmic-smash-psvr2-preview)<!-- GAME:END -->
+ - [A cross-counter punch ties Creed III to one of anime’s greatest tropes](https://www.polygon.com/23622546/creed-3-ending-punch-scene-naruto-dragon-ball-z-ashita-no-joe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
