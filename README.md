@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Puss in Boots: The Last Wish’s directors let Shrek inspire the series’ reinvention](https://www.polygon.com/23619268/puss-in-boots-the-last-wish-shrek-animation-interview)
- - [Valorant’s new Agent Gekko can remotely plant or defuse the Spike](https://www.polygon.com/23624325/valorant-gekko-new-agent-ability-kit-ultimate-reveal-trailer)
- - [Apple’s retrofuturistic Hello Tomorrow! has become the ultimate crypto show](https://www.polygon.com/23623000/hello-tomorrow-review-crypto-bro)<!-- GAME:END -->
+ - [Choose An Enemy was a first-person puncher with some pretty weaksauce nemeses](https://www.pcgamer.com/saturday-crapshoot-choose-an-enemy)
+ - [This gruesome RPG is combining biological horror with the claustrophobic labyrinths of PC gaming&#39;s past](https://www.pcgamer.com/this-gruesome-rpg-is-combining-biological-horror-with-the-claustrophobic-labyrinths-of-pc-gamings-past)
+ - [Warframe&#39;s next expansion is a bizarre roguelike journey into a villain&#39;s psyche](https://www.pcgamer.com/warframes-next-expansion-is-a-bizarre-roguelike-journey-into-a-villains-psyche)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
