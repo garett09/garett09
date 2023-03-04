@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bing Chat appears to have a hidden Celebrity mode, in which the chatbot answers questions while impersonating Biden, Trump, Tom Cruise, and other famous people &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230304/p10#a230304p10)
  - [Should you get a robot vacuum, or a smart stand-up vac?](https://www.androidauthority.com/robot-vacuum-vs-smart-stand-up-vac-3274900/)
- - [Sparkee portable charger review: Two portable chargers in one](https://appleinsider.com/articles/23/03/04/sparkee-portable-charger-review-two-portable-chargers-in-one?utm_medium=rss)
- - [Singapore-based e-commerce aggregator Una Brands raised a $30M pre-Series C, following a $30M Series B in September 2022, bringing its total funding to $100M+ &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230304/p9#a230304p9)<!-- TECH:END -->
+ - [Sparkee portable charger review: Two portable chargers in one](https://appleinsider.com/articles/23/03/04/sparkee-portable-charger-review-two-portable-chargers-in-one?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
