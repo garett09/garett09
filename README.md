@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Jose-based Vintra, whose software is used by the IRS, police, and more, claims its &quot;co-appearance&quot; AI can mark interactions between people caught on camera &lpar;Noah Bierman/Los Angeles Times&rpar;](http://www.techmeme.com/230304/p2#a230304p2)
- - [Reid Hoffman leaves the nonprofit board of OpenAI, citing a desire to invest in companies using OpenAI&#39;s tech, which he says could cause a conflict of interest &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230304/p1#a230304p1)
- - [Ring says new users of Ring Alarm will have to pay for a Ring Protect plan costing $3.99+ per month to access existing free features, starting March 29 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230303/p24#a230303p24)<!-- TECH:END -->
+ - [Q&amp;A with OpenAI&#39;s Sandhini Agarwal, Liam Fedus, Jan Leike, and co-founder John Schulman on training ChatGPT, dealing with virality, fixing problems, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230304/p4#a230304p4)
+ - [Some UK officials and SoftBank staff blame onerous FCA rules, complexity and cost, inflexibility, and political chaos for Arm&#39;s decision to shun London listing &lpar;Financial Times&rpar;](http://www.techmeme.com/230304/p3#a230304p3)
+ - [San Jose-based Vintra, whose software is used by the IRS, police, and more, claims its &quot;co-appearance&quot; AI can mark interactions between people caught on camera &lpar;Noah Bierman/Los Angeles Times&rpar;](http://www.techmeme.com/230304/p2#a230304p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
