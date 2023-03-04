@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Inflation look like in Germany!! Can\u2019t imagine how it looks in Venezuela, Argentina, Lebanon, Zimbabwe\u2026](http://9gag.com/gag/axoyq1L)
- - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)
- - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)<!-- MEMES:END -->
+ - 🚖 [People...](http://9gag.com/gag/a9qyGvW)
+ - 🚯 [How Inflation look like in Germany!! Can\u2019t imagine how it looks in Venezuela, Argentina, Lebanon, Zimbabwe\u2026](http://9gag.com/gag/axoyq1L)
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
 
 --- 
 
