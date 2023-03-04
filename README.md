@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)
- - 🚯 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)<!-- MEMES:END -->
+ - 🚖 [David was being aggressive](http://9gag.com/gag/aREBbO5)
+ - 🚯 [Wait for it](http://9gag.com/gag/abvALOp)
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)<!-- MEMES:END -->
 
 --- 
 
