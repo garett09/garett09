@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [France, screening of the film Creed III ---- &lpar;Ivry-sur-Seine&rpar;](http://9gag.com/gag/avQyKYM)
- - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 🚯 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)<!-- MEMES:END -->
+ - 🚖 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 🚯 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
 
 --- 
 
