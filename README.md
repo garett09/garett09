@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ryan Breslow sues Mark Phillips, a convicted fraudster he hired to build his social impact DAO, accusing him of stealing ~$10.5M of the project&#39;s seed funding &lpar;Forbes&rpar;](http://www.techmeme.com/230303/p22#a230303p22)
- - [Sources: in an update to investors, Twitter reports a 40% YoY decline in both revenue and adjusted earnings for December 2022, as advertisers fled the company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230303/p21#a230303p21)
- - [How to Watch &#39;Attack on Titan Final Season&#39; Part 3     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-attack-on-titan-final-season-part-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring says new users of Ring Alarm will have to pay for a Ring Protect plan costing $3.99+ per month to access existing free features, starting March 29 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230303/p24#a230303p24)
+ - [An NLRB director rules that Google is a &quot;joint employer&quot; with YouTube subcontractor Cognizant and must bargain with Cognizant workers if they vote to unionize &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230303/p23#a230303p23)
+ - [Ryan Breslow sues Mark Phillips, a convicted fraudster he hired to build his social impact DAO, accusing him of stealing ~$10.5M of the project&#39;s seed funding &lpar;Forbes&rpar;](http://www.techmeme.com/230303/p22#a230303p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
