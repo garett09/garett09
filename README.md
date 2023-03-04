@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you wait for the Google Pixel 8 Pro or buy the Samsung Galaxy S23 Ultra?](https://www.androidauthority.com/google-pixel-8-pro-vs-samsung-galaxy-s23-ultra-3288654/)
- - [What to Do When Your Boss Is Spying on You](https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/)
- - [Amazon Halo Rise Review: Sleep Tracker and Alarm](https://www.wired.com/review/amazon-halo-rise/)<!-- TECH:END -->
+ - [Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose -- February 2023 in review](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)
+ - [BidenCash, a dark web site dealing in stolen credit and debit cards, leaks a free database of 2M+ cards revealing emails, card expiry dates, CVV codes, and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230304/p6#a230304p6)
+ - [The LastPass Hack Somehow Gets Worse](https://www.wired.com/story/lastpass-engineer-breach-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
