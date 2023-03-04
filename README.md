@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Puss in Boots: The Last Wish’s directors let Shrek inspire the series’ reinvention](https://www.polygon.com/23619268/puss-in-boots-the-last-wish-shrek-animation-interview)
  - [Valorant’s new Agent Gekko can remotely plant or defuse the Spike](https://www.polygon.com/23624325/valorant-gekko-new-agent-ability-kit-ultimate-reveal-trailer)
- - [Apple’s retrofuturistic Hello Tomorrow! has become the ultimate crypto show](https://www.polygon.com/23623000/hello-tomorrow-review-crypto-bro)
- - [A cross-counter punch ties Creed III to one of anime’s greatest tropes](https://www.polygon.com/23622546/creed-3-ending-punch-scene-naruto-dragon-ball-z-ashita-no-joe)<!-- GAME:END -->
+ - [Apple’s retrofuturistic Hello Tomorrow! has become the ultimate crypto show](https://www.polygon.com/23623000/hello-tomorrow-review-crypto-bro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
