@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He hates it here, part 3000](http://9gag.com/gag/a1Pmjq6)
- - 🚯 [Got me thinking](http://9gag.com/gag/a04erVL)
- - 🚯 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
+ - 🚖 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)
+ - 🚯 [Works](http://9gag.com/gag/aA0y8Qd)
+ - 🚯 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)<!-- MEMES:END -->
 
 --- 
 
