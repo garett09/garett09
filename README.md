@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher remake studio is also making an isometric RPG with turn-based combat](https://www.pcgamer.com/the-witcher-remake-studio-is-also-making-an-isometric-rpg-with-turn-based-combat)
  - [You can now pre-order Lego’s gigantic Lord of the Rings: Rivendell set](https://www.polygon.com/deals/23620620/lego-lord-of-the-rings-lotr-rivendell-set-order-where-to-buy)
- - [Skyrim mod adds AI voice acting for all the Dragonborn&#39;s dialogue](https://www.pcgamer.com/skyrim-mod-adds-ai-voice-acting-for-all-the-dragonborns-dialogue)
- - [Young workers don&#39;t know how to use office printers, scanners, ancient desktop PCs](https://www.pcgamer.com/young-workers-dont-know-how-to-use-office-printers-scanners-ancient-desktop-pcs)<!-- GAME:END -->
+ - [Skyrim mod adds AI voice acting for all the Dragonborn&#39;s dialogue](https://www.pcgamer.com/skyrim-mod-adds-ai-voice-acting-for-all-the-dragonborns-dialogue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
