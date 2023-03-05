@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Choose An Enemy was a first-person puncher with some pretty weaksauce nemeses](https://www.pcgamer.com/saturday-crapshoot-choose-an-enemy)
- - [This gruesome RPG is combining biological horror with the claustrophobic labyrinths of PC gaming&#39;s past](https://www.pcgamer.com/this-gruesome-rpg-is-combining-biological-horror-with-the-claustrophobic-labyrinths-of-pc-gamings-past)
- - [Warframe&#39;s next expansion is a bizarre roguelike journey into a villain&#39;s psyche](https://www.pcgamer.com/warframes-next-expansion-is-a-bizarre-roguelike-journey-into-a-villains-psyche)<!-- GAME:END -->
+ - [Young workers don&#39;t know how to use office printers, scanners, ancient desktop PCs](https://www.pcgamer.com/young-workers-dont-know-how-to-use-office-printers-scanners-ancient-desktop-pcs)
+ - [Sons of the Forest devs have &quot;big plans&quot; for AI buddies Kelvin and Virginia](https://www.pcgamer.com/sons-of-the-forest-devs-have-big-plans-for-ai-buddies-kelvin-and-virginia)
+ - [Deleted Artstation page purportedly shows another unrealized version of Doom 4](https://www.pcgamer.com/deleted-artstation-page-purportedly-shows-another-unrealized-version-of-doom-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
