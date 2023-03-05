@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
- - 🚯 [He lives in a skip and only pays \u00a350 on rent a month.](http://9gag.com/gag/a3Z4Xo8)
- - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)<!-- MEMES:END -->
+ - 🚖 [Building a hobby-shelter while camping in Kelowna](http://9gag.com/gag/aQEzYo8)
+ - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
+ - 🚯 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)<!-- MEMES:END -->
 
 --- 
 
