@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I retrofitted my blinds to make them smart, and it’s been awesome](https://www.androidauthority.com/switchbot-blind-tilt-3286627/)
- - [Sources and docs: Binance and Binance.US have been more intertwined than disclosed, sharing staff, finances, and an affiliated entity to buy and sell crypto &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230305/p6#a230305p6)
- - [8 best laptop stands for Apple&#39;s MacBook Pro &amp; MacBook Air](https://appleinsider.com/inside/macbook-pro/best/best-laptop-stand?utm_medium=rss)<!-- TECH:END -->
+ - [Best Xbox Controller for 2023: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)
+ - [4K TV Deals: Great Prices on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
