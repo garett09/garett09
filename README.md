@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skyrim mod adds AI voice acting for all the Dragonborn&#39;s dialogue](https://www.pcgamer.com/skyrim-mod-adds-ai-voice-acting-for-all-the-dragonborns-dialogue)
  - [Young workers don&#39;t know how to use office printers, scanners, ancient desktop PCs](https://www.pcgamer.com/young-workers-dont-know-how-to-use-office-printers-scanners-ancient-desktop-pcs)
- - [Sons of the Forest devs have &quot;big plans&quot; for AI buddies Kelvin and Virginia](https://www.pcgamer.com/sons-of-the-forest-devs-have-big-plans-for-ai-buddies-kelvin-and-virginia)
- - [Deleted Artstation page purportedly shows another unrealized version of Doom 4](https://www.pcgamer.com/deleted-artstation-page-purportedly-shows-another-unrealized-version-of-doom-4)<!-- GAME:END -->
+ - [Sons of the Forest devs have &quot;big plans&quot; for AI buddies Kelvin and Virginia](https://www.pcgamer.com/sons-of-the-forest-devs-have-big-plans-for-ai-buddies-kelvin-and-virginia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
