@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [HANS!!!](http://9gag.com/gag/a3Z46m5)
- - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
- - 🚯 [Apparently this is the most humane way to kill a squid.](http://9gag.com/gag/a6qZ0nN)<!-- MEMES:END -->
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
+ - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)<!-- MEMES:END -->
 
 --- 
 
