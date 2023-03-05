@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This poor dog risked it all to be saved by someone.](http://9gag.com/gag/aeQ9nRW)
- - 🚯 [Help make black riders safe](http://9gag.com/gag/aMEV3BV)
- - 🚯 [Nice and satisfying sound.](http://9gag.com/gag/armyj70)<!-- MEMES:END -->
+ - 🚖 [Works](http://9gag.com/gag/aA0y8Qd)
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
+ - 🚯 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)<!-- MEMES:END -->
 
 --- 
 
