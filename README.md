@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of the EU Cyber Resilience Act, which covers every connected device and almost all software, causing open-source developers to worry about its scope &lpar;Bert Hubert/Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/230305/p4#a230305p4)
- - [When It Comes to OnlyFans, Humans Can Outcompete AI](https://www.wired.com/story/when-it-comes-to-onlyfans-humans-can-outcompete-ai/)
- - [Meta, Twitter, and Snapchat&#39;s subscription fees and features are aimed at professional creators filling social feeds because regular users post too infrequently &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230305/p3#a230305p3)<!-- TECH:END -->
+ - [Daily deals March 5: $50 off iPad Pro Magic Keyboard, $50 off AirPods Pro, $200 off Roborock S7 MaxV robot vacuum, more!](https://appleinsider.com/articles/23/03/05/daily-deals-march-5-50-off-ipad-pro-magic-keyboard-50-off-airpods-pro-200-off-roborock-s7-maxv-robot-vacuum-more?utm_medium=rss)
+ - [Ears-on with Bluetooth Auracast: Multi-device audio made easy](https://www.androidauthority.com/bluetooth-auracast-3291345/)
+ - [Mathematicians Roll the Dice and Get Rock-Paper-Scissors](https://www.wired.com/story/mathematicians-roll-the-dice-and-get-rock-paper-scissors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
