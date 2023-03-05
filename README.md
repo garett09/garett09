@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For all those people, who are afraid of nuclear war. This is a Ukrainian city Maryinka, not far from Donetsk. It isn&#39;t a nuke result, but systematic missle and artillery attacks.](http://9gag.com/gag/ajVPoE1)
- - 🚯 [1 year ago, `second army of the world` decided to use an elevator to reach UAF soldiers, who turned off electricity and captured them.](http://9gag.com/gag/aA0yoj2)
- - 🚯 [He Shat](http://9gag.com/gag/a4oPvZ6)<!-- MEMES:END -->
+ - 🚖 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)
+ - 🚯 [People...](http://9gag.com/gag/a9qyGvW)
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
 
 --- 
 
