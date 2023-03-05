@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Having a Bad Day ? It always could be worse](http://9gag.com/gag/aeQ9ow5)
- - 🚯 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [People...](http://9gag.com/gag/a9qyGvW)<!-- MEMES:END -->
+ - 🚖 [This poor dog risked it all to be saved by someone.](http://9gag.com/gag/aeQ9nRW)
+ - 🚯 [Help make black riders safe](http://9gag.com/gag/aMEV3BV)
+ - 🚯 [Nice and satisfying sound.](http://9gag.com/gag/armyj70)<!-- MEMES:END -->
 
 --- 
 
