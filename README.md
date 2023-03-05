@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investor letter: Multicoin Capital&#39;s hedge fund lost 91.4% in 2022; in November it said 10% of assets were stuck on FTX and it had exposure to FTT, SOL, and SRM &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230304/p14#a230304p14)
  - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Reports and sources: the US prepares a program that could ban US investment in some sectors in China, such as advanced semiconductors, quantum computing, and AI &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/230304/p13#a230304p13)
- - [&#39;Drive to Survive&#39; producers set to make MLS documentaries for Apple TV+](https://appleinsider.com/articles/23/03/05/drive-to-survive-producers-set-to-make-mls-documentaries-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Reports and sources: the US prepares a program that could ban US investment in some sectors in China, such as advanced semiconductors, quantum computing, and AI &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/230304/p13#a230304p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
