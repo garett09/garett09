@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Portals, how do they work?](http://9gag.com/gag/aQEzYEz)
- - 🚯 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
- - 🚯 [Some tests](http://9gag.com/gag/anz7Amo)<!-- MEMES:END -->
+ - 🚖 [Recognizing signs of a stroke awareness video.](http://9gag.com/gag/aYVGj0O)
+ - 🚯 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
+ - 🚯 [She now has catastrophic and permanent injuries.](http://9gag.com/gag/abve3bv)<!-- MEMES:END -->
 
 --- 
 
