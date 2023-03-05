@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get a female roommate they said](http://9gag.com/gag/a1Pm6GY)
- - 🚯 [People...](http://9gag.com/gag/a9qyGvW)
- - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
+ - 🚖 [That bug just got into a another dimension](http://9gag.com/gag/aMEVLWP)
+ - 🚯 [I fell down the stairs](http://9gag.com/gag/aGEyWGZ)
+ - 🚯 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)<!-- MEMES:END -->
 
 --- 
 
