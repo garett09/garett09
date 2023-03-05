@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recognizing signs of a stroke awareness video.](http://9gag.com/gag/aYVGj0O)
+ - 🚖 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)
  - 🚯 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
- - 🚯 [She now has catastrophic and permanent injuries.](http://9gag.com/gag/abve3bv)<!-- MEMES:END -->
+ - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)<!-- MEMES:END -->
 
 --- 
 
