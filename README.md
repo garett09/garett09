@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Twitter, and Snapchat&#39;s subscription fees and features are aimed at professional creators filling social feeds because regular users post too infrequently &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230305/p3#a230305p3)
- - [A presentation in FTX&#39;s Chapter 11 case shows the exchange has identified assets of ~$2.2B in FTX.com wallets and a ~$9.3B net borrowing by Alameda Research &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230305/p2#a230305p2)
- - [An analysis of the top 100 cited AI papers per year from 2020 to 2022 shows US-based AI research as the most impactful and Google the dominant organization &lpar;Sergi Castella i Sap&amp;eacute;/Zeta Alpha&rpar;](http://www.techmeme.com/230305/p1#a230305p1)<!-- TECH:END -->
+ - [An analysis of the EU Cyber Resilience Act, which covers every connected device and almost all software, causing open-source developers to worry about its scope &lpar;Bert Hubert/Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/230305/p4#a230305p4)
+ - [When It Comes to OnlyFans, Humans Can Outcompete AI](https://www.wired.com/story/when-it-comes-to-onlyfans-humans-can-outcompete-ai/)
+ - [Meta, Twitter, and Snapchat&#39;s subscription fees and features are aimed at professional creators filling social feeds because regular users post too infrequently &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230305/p3#a230305p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
