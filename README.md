@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 best laptop stands for Apple&#39;s MacBook Pro &amp; MacBook Air](https://appleinsider.com/inside/macbook-pro/best/best-laptop-stand?utm_medium=rss)
- - [How to add music to your Apple Watch Using Apple Music](https://appleinsider.com/inside/apple-watch/tips/how-to-add-music-to-your-apple-watch-using-apple-music?utm_medium=rss)
- - [The most exciting Android versions, ranked](https://www.androidauthority.com/android-versions-ranked-3287148/)<!-- TECH:END -->
+ - [I retrofitted my blinds to make them smart, and it’s been awesome](https://www.androidauthority.com/switchbot-blind-tilt-3286627/)
+ - [Sources and docs: Binance and Binance.US have been more intertwined than disclosed, sharing staff, finances, and an affiliated entity to buy and sell crypto &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230305/p6#a230305p6)
+ - [8 best laptop stands for Apple&#39;s MacBook Pro &amp; MacBook Air](https://appleinsider.com/inside/macbook-pro/best/best-laptop-stand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
