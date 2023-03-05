@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)
- - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
- - 🚯 [\u201cWe having a great time\u201d](http://9gag.com/gag/a9qyGVK)<!-- MEMES:END -->
+ - 🚖 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
+ - 🚯 [He lives in a skip and only pays \u00a350 on rent a month.](http://9gag.com/gag/a3Z4Xo8)
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)<!-- MEMES:END -->
 
 --- 
 
