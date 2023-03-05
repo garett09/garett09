@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New 24-inch iMac in production testing, but won&#39;t ship until late 2023](https://appleinsider.com/articles/23/03/05/new-24-inch-imac-in-production-testing-but-wont-ship-until-late-2023?utm_medium=rss)
- - [Google Pixel Watch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)
- - [6 Best Cordless Vacuums &lpar;2023&rpar;: For Carpet, Hardwood, and Hard-to-Reach Areas](https://www.wired.com/gallery/best-cordless-vacuums/)<!-- TECH:END -->
+ - [The most exciting Android versions, ranked](https://www.androidauthority.com/android-versions-ranked-3287148/)
+ - [Inside Apple World Trade Center: Traditional design, unique interior](https://appleinsider.com/articles/23/03/05/inside-apple-world-trade-center-traditional-design-unique-interior?utm_medium=rss)
+ - [You Might Be Using Your Electric Toothbrush Wrong     - CNET](https://www.cnet.com/health/personal-care/you-might-be-using-your-electric-toothbrush-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
