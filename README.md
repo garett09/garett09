@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of the top 100 cited AI papers per year from 2020 to 2022 shows US-based AI research as the most impactful and Google the dominant organization &lpar;Sergi Castella i Sap&amp;eacute;/Zeta Alpha&rpar;](http://www.techmeme.com/230305/p1#a230305p1)
  - [Current and former Dapper Labs staff say bullying and lavish spending by CEO Roham Gharegozlou has hurt the NFT startup amid layoffs and a prolonged bear market &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230304/p15#a230304p15)
- - [Investor letter: Multicoin Capital&#39;s hedge fund lost 91.4% in 2022; in November it said 10% of assets were stuck on FTX and it had exposure to FTT, SOL, and SRM &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230304/p14#a230304p14)
- - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investor letter: Multicoin Capital&#39;s hedge fund lost 91.4% in 2022; in November it said 10% of assets were stuck on FTX and it had exposure to FTT, SOL, and SRM &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230304/p14#a230304p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
