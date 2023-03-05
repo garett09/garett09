@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Africans why are you like this? &lpar;Johannesburg yesterday&rpar;](http://9gag.com/gag/aA0yoeg)
- - 🚯 [Youuuuu shall not pass!!!](http://9gag.com/gag/aDY2B5d)
- - 🚯 [Elephant dying of thirst due to drought saved by animal wildlife reserve doing a patrol on the desert. Do not waste water.](http://9gag.com/gag/anzOeez)<!-- MEMES:END -->
+ - 🚖 [HANS!!!](http://9gag.com/gag/a3Z46m5)
+ - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
+ - 🚯 [Apparently this is the most humane way to kill a squid.](http://9gag.com/gag/a6qZ0nN)<!-- MEMES:END -->
 
 --- 
 
