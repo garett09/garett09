@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Xbox Controller for 2023: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)
- - [4K TV Deals: Great Prices on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [21 Best Vinyl Accessories &lpar;2023&rpar;: Cleaning Gear, Mats, Displays, and More](https://www.wired.com/gallery/best-vinyl-accessories/)
+ - [Victrola Stream Onyx review: The unofficial Sonos wireless turntable](https://appleinsider.com/articles/23/03/05/victrola-stream-onyx-review-the-unofficial-sonos-wireless-turntable?utm_medium=rss)
+ - [Best Xbox Controller for 2023: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
