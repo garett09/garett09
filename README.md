@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [5 shows like Fleabag that prove there’s nothing better than a dirtbag lead](https://www.polygon.com/what-to-watch/23617144/tv-shows-like-fleabag-watch-streaming)
  - [Wordle hint and answer #624: Sunday, March 5](https://www.pcgamer.com/wordle-hint-answer-today-624-march-5)
- - [The Witcher remake studio is also making an isometric RPG with turn-based combat](https://www.pcgamer.com/the-witcher-remake-studio-is-also-making-an-isometric-rpg-with-turn-based-combat)
- - [You can now pre-order Lego’s gigantic Lord of the Rings: Rivendell set](https://www.polygon.com/deals/23620620/lego-lord-of-the-rings-lotr-rivendell-set-order-where-to-buy)<!-- GAME:END -->
+ - [The Witcher remake studio is also making an isometric RPG with turn-based combat](https://www.pcgamer.com/the-witcher-remake-studio-is-also-making-an-isometric-rpg-with-turn-based-combat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
