@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prometheus’ fake TED Talk could not predict how we feel about tech billionaires](https://www.polygon.com/23621063/prometheus-weyland-ted-talk)
- - [5 shows like Fleabag that prove there’s nothing better than a dirtbag lead](https://www.polygon.com/what-to-watch/23617144/tv-shows-like-fleabag-watch-streaming)
- - [Wordle hint and answer #624: Sunday, March 5](https://www.pcgamer.com/wordle-hint-answer-today-624-march-5)<!-- GAME:END -->
+ - [When does Halo Infinite season 3 launch?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/3/5/23618680/season-3-launch-date-time-echoes-within)
+ - [Here&#39;s a little puzzle game about being a consultant for pirates](https://www.pcgamer.com/heres-a-little-puzzle-game-about-being-a-consultant-for-pirates)
+ - [Prometheus’ fake TED Talk could not predict how we feel about tech billionaires](https://www.polygon.com/23621063/prometheus-weyland-ted-talk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
