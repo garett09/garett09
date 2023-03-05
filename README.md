@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To love another person is to see the face of God](http://9gag.com/gag/aZDZ9NW)
- - 🚯 [Keep your co*ck in my mouth wife!!](http://9gag.com/gag/aBdyD7x)
- - 🚯 [Youuuuu shall not pass!!!](http://9gag.com/gag/aDY2B5d)<!-- MEMES:END -->
+ - 🚖 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)
+ - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
+ - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)<!-- MEMES:END -->
 
 --- 
 
