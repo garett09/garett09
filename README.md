@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most exciting Android versions, ranked](https://www.androidauthority.com/android-versions-ranked-3287148/)
- - [Inside Apple World Trade Center: Traditional design, unique interior](https://appleinsider.com/articles/23/03/05/inside-apple-world-trade-center-traditional-design-unique-interior?utm_medium=rss)
- - [You Might Be Using Your Electric Toothbrush Wrong     - CNET](https://www.cnet.com/health/personal-care/you-might-be-using-your-electric-toothbrush-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 best laptop stands for Apple&#39;s MacBook Pro &amp; MacBook Air](https://appleinsider.com/inside/macbook-pro/best/best-laptop-stand?utm_medium=rss)
+ - [How to add music to your Apple Watch Using Apple Music](https://appleinsider.com/inside/apple-watch/tips/how-to-add-music-to-your-apple-watch-using-apple-music?utm_medium=rss)
+ - [The most exciting Android versions, ranked](https://www.androidauthority.com/android-versions-ranked-3287148/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
