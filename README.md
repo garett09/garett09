@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)
- - 🚯 [I fell down the stairs](http://9gag.com/gag/aGEyWGZ)<!-- MEMES:END -->
+ - 🚖 [Having a Bad Day ? It always could be worse](http://9gag.com/gag/aeQ9ow5)
+ - 🚯 [Works](http://9gag.com/gag/aA0y8Qd)
+ - 🚯 [People...](http://9gag.com/gag/a9qyGvW)<!-- MEMES:END -->
 
 --- 
 
