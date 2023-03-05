@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Works](http://9gag.com/gag/aA0y8Qd)
- - 🚯 [Based Luna Lovegood](http://9gag.com/gag/a9qyxd1)
+ - 🚖 [Witches, it&#39;s always witches](http://9gag.com/gag/aQEzY3W)
+ - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)
  - 🚯 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)<!-- MEMES:END -->
 
 --- 
