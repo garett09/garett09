@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of the top 100 cited AI papers per year from 2020 to 2022 shows US-based AI research as the most impactful and Google the dominant organization &lpar;Sergi Castella i Sap&amp;eacute;/Zeta Alpha&rpar;](http://www.techmeme.com/230305/p1#a230305p1)
- - [Current and former Dapper Labs staff say bullying and lavish spending by CEO Roham Gharegozlou has hurt the NFT startup amid layoffs and a prolonged bear market &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230304/p15#a230304p15)
- - [Investor letter: Multicoin Capital&#39;s hedge fund lost 91.4% in 2022; in November it said 10% of assets were stuck on FTX and it had exposure to FTT, SOL, and SRM &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230304/p14#a230304p14)<!-- TECH:END -->
+ - [Meta, Twitter, and Snapchat&#39;s subscription fees and features are aimed at professional creators filling social feeds because regular users post too infrequently &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/230305/p3#a230305p3)
+ - [A presentation in FTX&#39;s Chapter 11 case shows the exchange has identified assets of ~$2.2B in FTX.com wallets and a ~$9.3B net borrowing by Alameda Research &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230305/p2#a230305p2)
+ - [An analysis of the top 100 cited AI papers per year from 2020 to 2022 shows US-based AI research as the most impactful and Google the dominant organization &lpar;Sergi Castella i Sap&amp;eacute;/Zeta Alpha&rpar;](http://www.techmeme.com/230305/p1#a230305p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
