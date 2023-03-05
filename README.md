@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Witches, it&#39;s always witches](http://9gag.com/gag/aQEzY3W)
+ - 🚖 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)
  - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)
- - 🚯 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)<!-- MEMES:END -->
+ - 🚯 [Strange Behaviour](http://9gag.com/gag/armywxd)<!-- MEMES:END -->
 
 --- 
 
