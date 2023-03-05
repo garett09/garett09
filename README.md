@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See, it&#39;s not too small](http://9gag.com/gag/aL1nq8V)
- - 🚯 [Old cartoons were the best](http://9gag.com/gag/aPgAOeB)
- - 🚯 [Hold up.](http://9gag.com/gag/aQEzYd8)<!-- MEMES:END -->
+ - 🚖 [Africans why are you like this? &lpar;Johannesburg yesterday&rpar;](http://9gag.com/gag/aA0yoeg)
+ - 🚯 [Youuuuu shall not pass!!!](http://9gag.com/gag/aDY2B5d)
+ - 🚯 [Elephant dying of thirst due to drought saved by animal wildlife reserve doing a patrol on the desert. Do not waste water.](http://9gag.com/gag/anzOeez)<!-- MEMES:END -->
 
 --- 
 
