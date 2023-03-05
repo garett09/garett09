@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This offbeat FPS traps you in an arena shooter-themed afterlife where something is going horribly wrong](https://www.pcgamer.com/this-offbeat-fps-traps-you-in-an-arena-shooter-themed-afterlife-where-something-is-going-horribly-wrong)
  - [When does Halo Infinite season 3 launch?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/3/5/23618680/season-3-launch-date-time-echoes-within)
- - [Here&#39;s a little puzzle game about being a consultant for pirates](https://www.pcgamer.com/heres-a-little-puzzle-game-about-being-a-consultant-for-pirates)
- - [Prometheus’ fake TED Talk could not predict how we feel about tech billionaires](https://www.polygon.com/23621063/prometheus-weyland-ted-talk)<!-- GAME:END -->
+ - [Here&#39;s a little puzzle game about being a consultant for pirates](https://www.pcgamer.com/heres-a-little-puzzle-game-about-being-a-consultant-for-pirates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
