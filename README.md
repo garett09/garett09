@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #624: Sunday, March 5](https://www.pcgamer.com/wordle-hint-answer-today-624-march-5)
  - [The Witcher remake studio is also making an isometric RPG with turn-based combat](https://www.pcgamer.com/the-witcher-remake-studio-is-also-making-an-isometric-rpg-with-turn-based-combat)
- - [You can now pre-order Lego’s gigantic Lord of the Rings: Rivendell set](https://www.polygon.com/deals/23620620/lego-lord-of-the-rings-lotr-rivendell-set-order-where-to-buy)
- - [Skyrim mod adds AI voice acting for all the Dragonborn&#39;s dialogue](https://www.pcgamer.com/skyrim-mod-adds-ai-voice-acting-for-all-the-dragonborns-dialogue)<!-- GAME:END -->
+ - [You can now pre-order Lego’s gigantic Lord of the Rings: Rivendell set](https://www.polygon.com/deals/23620620/lego-lord-of-the-rings-lotr-rivendell-set-order-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
