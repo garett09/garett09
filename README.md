@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)
- - 🚯 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
- - 🚯 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)<!-- MEMES:END -->
+ - 🚖 [Portals, how do they work?](http://9gag.com/gag/aQEzYEz)
+ - 🚯 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
+ - 🚯 [Some tests](http://9gag.com/gag/anz7Amo)<!-- MEMES:END -->
 
 --- 
 
