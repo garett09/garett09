@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is good at making VR hardware but is ignoring its core gamer audience, as it&#39;s not clear the company realizes that games are driving its VR business &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230304/p11#a230304p11)
- - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [The 12 Best Sunscreens to Protect Your Skin in 2023     - CNET](https://www.cnet.com/health/personal-care/best-sunscreen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Reports and sources: the US prepares a program that could ban US investment in some sectors in China, such as advanced semiconductors, quantum computing, and AI &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/230304/p13#a230304p13)
+ - [&#39;Drive to Survive&#39; producers set to make MLS documentaries for Apple TV+](https://appleinsider.com/articles/23/03/05/drive-to-survive-producers-set-to-make-mls-documentaries-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
