@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Building a hobby-shelter while camping in Kelowna](http://9gag.com/gag/aQEzYo8)
- - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
- - 🚯 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)<!-- MEMES:END -->
+ - 🚖 [See, it&#39;s not too small](http://9gag.com/gag/aL1nq8V)
+ - 🚯 [Old cartoons were the best](http://9gag.com/gag/aPgAOeB)
+ - 🚯 [Hold up.](http://9gag.com/gag/aQEzYd8)<!-- MEMES:END -->
 
 --- 
 
