@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Vinyl Accessories &lpar;2023&rpar;: Cleaning Gear, Mats, Displays, and More](https://www.wired.com/gallery/best-vinyl-accessories/)
- - [Victrola Stream Onyx review: The unofficial Sonos wireless turntable](https://appleinsider.com/articles/23/03/05/victrola-stream-onyx-review-the-unofficial-sonos-wireless-turntable?utm_medium=rss)
- - [Best Xbox Controller for 2023: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Ask Jeeves&#39; co-creator Garrett Gruener, who says his original idea was similar to the chatbots Microsoft and Google are trying to build today &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/230305/p7#a230305p7)
+ - [New 24-inch iMac in production testing, but won&#39;t ship until late 2023](https://appleinsider.com/articles/23/03/05/new-24-inch-imac-in-production-testing-but-wont-ship-until-late-2023?utm_medium=rss)
+ - [iPhone 15 glass leak shows Dynamic Island and curved bezels on all models](https://appleinsider.com/articles/23/03/05/iphone-15-glass-leak-shows-dynamic-island-and-curved-bezels-on-all-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
