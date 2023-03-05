@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Set a Custom Ringtone Once and for All](https://www.wired.com/story/how-to-set-custom-ringtone-iphone-android/)
- - [Wyze Mesh Router and Router Pro Review: Can Wyze Conquer Wi-Fi?](https://www.wired.com/review/wyze-mesh-router-pro/)
- - [Daily deals March 5: $50 off iPad Pro Magic Keyboard, $50 off AirPods Pro, $200 off Roborock S7 MaxV robot vacuum, more!](https://appleinsider.com/articles/23/03/05/daily-deals-march-5-50-off-ipad-pro-magic-keyboard-50-off-airpods-pro-200-off-roborock-s7-maxv-robot-vacuum-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Watch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)
+ - [6 Best Cordless Vacuums &lpar;2023&rpar;: For Carpet, Hardwood, and Hard-to-Reach Areas](https://www.wired.com/gallery/best-cordless-vacuums/)
+ - [Sources: Apple&#39;s new 24&quot; iMacs are in engineering validation testing, will likely launch in H2 2023 with the M3 chip and same exterior design as the old iMacs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230305/p5#a230305p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
