@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Incredible Elden Ring Paper Model Recreates Leyndell](https://kotaku.com/elden-ring-leyndell-royal-capital-papercraft-model-1850192399)
- - [WWE 2K23 season pass will add another 25 wrestlers](https://www.polygon.com/23627192/wwe-2k23-season-pass-dlc-price-superstars-list-roster)
- - [League of Legends’ new champion, Milio, is a plucky kid with fire blobs](https://www.polygon.com/23623782/league-of-legends-milio-abilities-kit-ultimate-passive-new-champion-reveal)<!-- GAME:END -->
+ - [Why are War Thunder images appearing in the background of Russian propaganda clips?](https://www.pcgamer.com/why-are-war-thunder-images-appearing-in-the-background-of-russian-propaganda-clips)
+ - [Overwatch 2 x One-Punch Man Genos-Genji skin revealed](https://blog.playstation.com/2023/03/06/overwatch-2-x-one-punch-man-genos-genji-skin-revealed/)
+ - [FIFA 23 adds 12 women’s soccer teams with the NWSL](https://www.polygon.com/23622718/fifa-23-womens-teams-clubs-roster-nwsl-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
