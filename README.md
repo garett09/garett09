@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agoQ3zr)
- - 🚯 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 🚯 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
+ - 🚖 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
+ - 🚯 [The amount of misconception or arrogance some people have !](http://9gag.com/gag/a7q8yXb)
+ - 🚯 [Thats pretty fu** cool](http://9gag.com/gag/aA0Qrqg)<!-- MEMES:END -->
 
 --- 
 
