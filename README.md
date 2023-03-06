@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HANS!!!](http://9gag.com/gag/a3Z46m5)
- - 🚯 [Africans why are you like this? &lpar;Johannesburg yesterday&rpar;](http://9gag.com/gag/aA0yoeg)
- - 🚯 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)<!-- MEMES:END -->
+ - 🚖 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - 🚯 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)
+ - 🚯 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)<!-- MEMES:END -->
 
 --- 
 
