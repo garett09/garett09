@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Teenage Mutant Ninja Turtles movie looks unexpectedly gorgeous](https://www.polygon.com/23627134/teenage-mutant-ninja-turtles-movie-mutant-mayhem-trailer-animation-cast-release-date)
- - [The Last of Us shows off the worst cannibalism I’ve ever seen](https://www.polygon.com/23623914/last-us-cannibals-bad-you-should-feel-bad)
- - [All Destiny 2 action figure locations in Neomuna](https://www.pcgamer.com/destiny-2-action-figures-locations)<!-- GAME:END -->
+ - [This Incredible Elden Ring Paper Model Recreates Leyndell](https://kotaku.com/elden-ring-leyndell-royal-capital-papercraft-model-1850192399)
+ - [WWE 2K23 season pass will add another 25 wrestlers](https://www.polygon.com/23627192/wwe-2k23-season-pass-dlc-price-superstars-list-roster)
+ - [League of Legends’ new champion, Milio, is a plucky kid with fire blobs](https://www.polygon.com/23623782/league-of-legends-milio-abilities-kit-ultimate-passive-new-champion-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
