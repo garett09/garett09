@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 🚯 [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)
- - 🚯 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)<!-- MEMES:END -->
+ - 🚖 [Women](http://9gag.com/gag/aeQ4N8B)
+ - 🚯 [Keep it up Ukraine!!](http://9gag.com/gag/a04o9pQ)
+ - 🚯 [The golden age of western animation](http://9gag.com/gag/a2KvQjO)<!-- MEMES:END -->
 
 --- 
 
