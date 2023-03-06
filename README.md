@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces Dynamics 365 Copilot, built using OpenAI&#39;s tech, helping draft contextual chat and email answers and more, rolling out in preview &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230306/p11#a230306p11)
- - [Nemo Dagger Osmo 3P Tent Review &lpar;2023&rpar;: Lightweight, Roomy, and Ecofriendly](https://www.wired.com/review/nemo-dagger-osmo-3p-tent-2023/)
- - [Why refurbished iPhones are the smart choice for budget-conscious buyers](https://appleinsider.com/articles/23/03/06/why-refurbished-iphones-are-the-smart-choice-for-budget-conscious-buyers?utm_medium=rss)<!-- TECH:END -->
+ - [How buy now, pay later services became a popular target for fraudsters, sometimes helped by companies having a loose underwriting process for applications &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230306/p13#a230306p13)
+ - [Apple struggles to break free from Samsung display reliance](https://appleinsider.com/articles/23/03/06/apple-struggles-to-break-free-from-samsung-display-reliance?utm_medium=rss)
+ - [Focal Bathys Review: The Ultimate](https://www.wired.com/review/focal-bathys/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
