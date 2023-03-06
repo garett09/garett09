@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You have to see this amazing fan-made Star Trek Shuttle PC](https://www.pcgamer.com/you-have-to-see-this-amazing-fan-made-star-trek-shuttle-pc)
  - [The SteelSeries Destiny 2: Lightfall themed peripherals are gorgeous](https://www.pcgamer.com/the-steelseries-destiny-2-lightfall-themed-peripherals-are-gorgeous)
- - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
