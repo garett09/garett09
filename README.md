@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - 🚯 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
- - 🚯 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)<!-- MEMES:END -->
+ - 🚖 [HANS!!!](http://9gag.com/gag/a3Z46m5)
+ - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
+ - 🚯 [To love another person is to see the face of God](http://9gag.com/gag/aZDZ9NW)<!-- MEMES:END -->
 
 --- 
 
