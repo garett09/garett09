@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Privacy Hero&#39;s Final Wish: An Institute to Redirect AI&#39;s Future](https://www.wired.com/story/peter-eckersley-ai-objectives-institute/)
- - [An interview with Ask Jeeves&#39; co-creator Garrett Gruener, who says his original idea was similar to the chatbots Microsoft and Google are trying to build today &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/230305/p7#a230305p7)
- - [New 24-inch iMac in production testing, but won&#39;t ship until late 2023](https://appleinsider.com/articles/23/03/05/new-24-inch-imac-in-production-testing-but-wont-ship-until-late-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Siri co-creator Adam Cheyer says generative AI will spur an assistant voice renaissance; Satya Nadella says Cortana, Alexa, Siri, Google Assistant &quot;don&#39;t work&quot; &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230305/p9#a230305p9)
+ - [iPhone 14 Leather Case range to add two colors this spring](https://appleinsider.com/articles/23/03/05/iphone-14-leather-case-range-to-add-two-colors-this-spring?utm_medium=rss)
+ - [Scammers are using voice-cloning AI to impersonate family members in distress, sometimes spoofing specific numbers to further the ruse, and victims fall for it &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230305/p8#a230305p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
