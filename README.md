@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank&#39;s Arm hopes to raise $8B+ at a $50B+ valuation in its US IPO, which is expected later in 2023 after a confidential filing in late April &lpar;Reuters&rpar;](http://www.techmeme.com/230306/p2#a230306p2)
- - [This is our first &lpar;unofficial&rpar; look at the Xiaomi Mi Band 8](https://www.androidauthority.com/xiaomi-mi-band-8-leak-3293026/)
- - [Users report Pixel Watch is not on time sometimes](https://www.androidauthority.com/pixel-watch-alarm-late-3293027/)<!-- TECH:END -->
+ - [Abu Dhabi-based data analytics firm Presight AI, owned by AI and cloud computing company G42, plans to raise $495M at a ~$2B valuation in an IPO on March 13 &lpar;Shaji Mathew/Bloomberg&rpar;](http://www.techmeme.com/230306/p3#a230306p3)
+ - [Samsung could be working on a custom CPU for its phones](https://www.androidauthority.com/samsung-custom-cpu-smartphones-3293040/)
+ - [Sources: SoftBank&#39;s Arm hopes to raise $8B+ at a $50B+ valuation in its US IPO, which is expected later in 2023 after a confidential filing in late April &lpar;Reuters&rpar;](http://www.techmeme.com/230306/p2#a230306p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
