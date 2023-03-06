@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HANS!!!](http://9gag.com/gag/a3Z46m5)
- - 🚯 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
- - 🚯 [To love another person is to see the face of God](http://9gag.com/gag/aZDZ9NW)<!-- MEMES:END -->
+ - 🚖 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)
+ - 🚯 [Here in UK we like to be unique.](http://9gag.com/gag/aNwDxX3)<!-- MEMES:END -->
 
 --- 
 
