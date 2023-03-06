@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 🚯 [She now has catastrophic and permanent injuries.](http://9gag.com/gag/abve3bv)
- - 🚯 [To love another person is to see the face of God](http://9gag.com/gag/aZDZ9NW)<!-- MEMES:END -->
+ - 🚖 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)
+ - 🚯 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
+ - 🚯 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)<!-- MEMES:END -->
 
 --- 
 
