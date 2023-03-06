@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wo Long: Fallen Dynasty’s Most Frustrating Enemy Can Go To Hell](https://kotaku.com/wo-long-fallen-dynasty-hard-dual-sword-assassin-1850194022)
- - [These 4 Horror Titles Are The Ultimate Anti-Cozy Games](https://kotaku.com/best-horror-video-games-steam-amnesia-outlast-pc-1850194078)
- - [Pokémon Fans Love This Gym Leader Because He&#39;s Just Like You, FR](https://kotaku.com/pokemon-scarlet-violet-larry-gym-leader-elite-four-1850194159)<!-- GAME:END -->
+ - [Here&#39;s how to sign up for the closed beta of The Finals, our most anticipated FPS of 2023](https://www.pcgamer.com/the-finals-closed-beta)
+ - [Redfall will get full cross-play on Xbox, Steam, and Epic Games Store](https://www.polygon.com/23627953/redfall-cross-play-xbox-steam-pc-epic-games-store-game-pass-bethesda-arkane)
+ - [Blizzard filled a deconsecrated French church with Diablo 4 murals](https://www.pcgamer.com/blizzard-filled-a-deconsecrated-french-church-with-diablo-4-murals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
