@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - 🚯 [I woodn\u2018t do that\u2026](http://9gag.com/gag/anzOqNz)
+ - 🚖 [Recognizing signs of a stroke awareness video.](http://9gag.com/gag/aYVGj0O)
+ - 🚯 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
  - 🚯 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
 
 --- 
