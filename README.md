@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2 chipset accidentally confirmed by Qualcomm exec](https://www.androidauthority.com/nothing-phone-2-chipset-3293121/)
- - [The EU says WhatsApp agreed to increase transparency over its privacy policy changes from 2021, letting users reject the rules, limiting data sharing, and more &lpar;Reuters&rpar;](http://www.techmeme.com/230306/p8#a230306p8)
- - [Confirmed: The Nothing Ear 2 officially has a launch date](https://www.androidauthority.com/nothing-ear-2-launch-date-3293112/)<!-- TECH:END -->
+ - [iPhone SE 4 may get screens from Apple&#39;s newest OLED supplier](https://appleinsider.com/articles/23/03/06/iphone-se-4-may-get-screens-from-apples-newest-oled-supplier?utm_medium=rss)
+ - [German police, Europol, FBI, and Ukrainian authorities disrupt a ransomware gang that deployed DoppelPaymer; Europol says US victims paid out &amp;euro;40M+ in 2019-2021 &lpar;Associated Press&rpar;](http://www.techmeme.com/230306/p10#a230306p10)
+ - [Startups Want to Cash In on the US Student Debt Crisis](https://www.wired.com/story/startups-want-to-cash-in-on-the-us-student-debt-crisis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
