@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [16 years later, a new Dragon Ball Budokai Tenkaichi game is happening](https://www.pcgamer.com/16-years-later-a-new-dragon-ball-budokai-tenkaichi-game-is-happening)
- - [The Olympics is putting on an esports event without any actual esports games](https://www.pcgamer.com/the-olympics-is-putting-on-an-esports-event-without-any-actual-esports-games)
- - [How Intel caught up to AMD&#39;s graphics card sales: Bad maths](https://www.pcgamer.com/how-intel-caught-up-to-amds-graphics-card-sales-bad-maths)<!-- GAME:END -->
+ - [Steam&#39;s most hardcore city builder overcomes Trotskyite sabotage to return to the platform](https://www.pcgamer.com/steams-most-hardcore-city-builder-overcomes-trotskyite-sabotage-to-return-to-the-platform)
+ - [Dominate the battlefield from the sea and the sky in Company of Heroes 3](https://www.pcgamer.com/dominate-the-battlefield-from-the-sea-and-the-sky-in-company-of-heroes-3)
+ - [Dead Cells’ Return to Castlevania DLC is joyous roguelike fan service](https://www.polygon.com/reviews/23624279/dead-cells-return-to-castlevania-dlc-review-roguelike-release-date-switch-ps5-pc-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
