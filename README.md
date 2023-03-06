@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outlook on Mac Goes Free, New Features Coming     - CNET](https://www.cnet.com/tech/services-and-software/outlook-on-mac-goes-free-new-features-coming/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hbo-max/#ftag=CAD590a51e)
- - [Scammers are using AI voices to steal millions by impersonating loved ones](https://www.androidauthority.com/ai-voice-scams-3293324/)<!-- TECH:END -->
+ - [At an all-hands last week, Sundar Pichai defended Google Cloud&#39;s new desk-sharing policy; an exec says ~35% of staff are in the office at least four days a week &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230306/p20#a230306p20)
+ - [New iPhone 14 color &#39;imminent&#39; says leaker](https://appleinsider.com/articles/23/03/06/new-iphone-14-color-imminent-says-leaker?utm_medium=rss)
+ - [The best Samsung Galaxy deals: Save up to $800 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
