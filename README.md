@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: around 20 leaders at Clubhouse have left over the past year, including hires from Meta, Google, and others; Clubhouse continues to add &quot;top talent&quot; &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230306/p6#a230306p6)
- - [Sources: China plans to create an agency to manage the country&#39;s data stores, shifting from multiple ministries, seeking to streamline its regulatory structure &lpar;Keith Zhai/Wall Street Journal&rpar;](http://www.techmeme.com/230306/p5#a230306p5)
- - [Daily Authority: 👊 Galaxy S23 packs a punch](https://www.androidauthority.com/daily-authority-march-6-2023-3293057/)<!-- TECH:END -->
+ - [Nothing Phone 2 chipset accidentally confirmed by Qualcomm exec](https://www.androidauthority.com/nothing-phone-2-chipset-3293121/)
+ - [The EU says WhatsApp agreed to increase transparency over its privacy policy changes from 2021, letting users reject the rules, limiting data sharing, and more &lpar;Reuters&rpar;](http://www.techmeme.com/230306/p8#a230306p8)
+ - [Confirmed: The Nothing Ear 2 officially has a launch date](https://www.androidauthority.com/nothing-ear-2-launch-date-3293112/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
