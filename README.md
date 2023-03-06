@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)
- - 🚯 [To love another person is to see the face of God](http://9gag.com/gag/aZDZ9NW)
- - 🚯 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)<!-- MEMES:END -->
+ - 🚖 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
+ - 🚯 [I woodn\u2018t do that\u2026](http://9gag.com/gag/anzOqNz)
+ - 🚯 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
 
 --- 
 
