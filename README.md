@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wix &amp; Stripe partner to bring iPhone &#39;Tap to Pay&#39; to businesses](https://appleinsider.com/articles/23/03/06/wix-stripe-partner-to-bring-iphone-tap-to-pay-to-businesses?utm_medium=rss)
- - [Analysis: Amazon had $38B in 2022 ad revenue, more than the entire global newspaper industry and likely above Prime, leading to questions over ads and marketing &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230306/p15#a230306p15)
- - [The Food System Is Awful for the Climate. It Doesn’t Have to Be](https://www.wired.com/story/the-food-system-is-awful-for-the-climate-it-doesnt-have-to-be/)<!-- TECH:END -->
+ - [Best productivity apps for iPhone &amp; iPad to crush your goals in 2023](https://appleinsider.com/inside/iphone/best/best-productivity-apps-for-iphone-ipad?utm_medium=rss)
+ - [Huawei allegedly caught tracking MWC 2023 visitors at its exhibit](https://www.androidauthority.com/mwc-huawei-tracking-3293197/)
+ - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
