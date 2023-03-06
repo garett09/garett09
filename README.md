@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why are War Thunder images appearing in the background of Russian propaganda clips?](https://www.pcgamer.com/why-are-war-thunder-images-appearing-in-the-background-of-russian-propaganda-clips)
- - [Overwatch 2 x One-Punch Man Genos-Genji skin revealed](https://blog.playstation.com/2023/03/06/overwatch-2-x-one-punch-man-genos-genji-skin-revealed/)
- - [FIFA 23 adds 12 women’s soccer teams with the NWSL](https://www.polygon.com/23622718/fifa-23-womens-teams-clubs-roster-nwsl-release-date)<!-- GAME:END -->
+ - [Cities: Skylines 2 launching later this year](https://www.polygon.com/23627493/cities-skylines-2-release-date-trailer-announced-sequel)
+ - [Old G4 Review Is Forcing Gaming To Reckon With Its Racist JRPG Past](https://kotaku.com/g4-jrpg-racist-baten-kaitos-origins-final-fantasy-1850193005)
+ - [Overwatch 2’s One-Punch Man crossover adds Genos Genji](https://www.polygon.com/23627503/overwatch-2-one-punch-man-genos-genji)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
