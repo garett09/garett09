@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines 2 launching later this year](https://www.polygon.com/23627493/cities-skylines-2-release-date-trailer-announced-sequel)
- - [Old G4 Review Is Forcing Gaming To Reckon With Its Racist JRPG Past](https://kotaku.com/g4-jrpg-racist-baten-kaitos-origins-final-fantasy-1850193005)
- - [Overwatch 2’s One-Punch Man crossover adds Genos Genji](https://www.polygon.com/23627503/overwatch-2-one-punch-man-genos-genji)<!-- GAME:END -->
+ - [Last Of Us Is Happening For Real, Blame Jack Daniels Whiskey](https://kotaku.com/last-of-us-hbo-fungus-tennessee-lincoln-county-whiskey-1850193465)
+ - [The Mummy: Tomb of the Dragon Emperor is the only Oscars 2023 catchup movie you need](https://www.polygon.com/23624131/oscars-2023-michelle-yeoh-brendan-fraser-mummy-3-tomb-of-the-dragon-emperor)
+ - [The 21 best roguelikes](https://www.polygon.com/what-to-play/23313023/best-roguelikes-on-nintendo-switch-steam-playstation-xbox-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
