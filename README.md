@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s most hardcore city builder overcomes Trotskyite sabotage to return to the platform](https://www.pcgamer.com/steams-most-hardcore-city-builder-overcomes-trotskyite-sabotage-to-return-to-the-platform)
- - [Dominate the battlefield from the sea and the sky in Company of Heroes 3](https://www.pcgamer.com/dominate-the-battlefield-from-the-sea-and-the-sky-in-company-of-heroes-3)
- - [Dead Cells’ Return to Castlevania DLC is joyous roguelike fan service](https://www.polygon.com/reviews/23624279/dead-cells-return-to-castlevania-dlc-review-roguelike-release-date-switch-ps5-pc-xbox)<!-- GAME:END -->
+ - [The new Teenage Mutant Ninja Turtles movie looks unexpectedly gorgeous](https://www.polygon.com/23627134/teenage-mutant-ninja-turtles-movie-mutant-mayhem-trailer-animation-cast-release-date)
+ - [The Last of Us shows off the worst cannibalism I’ve ever seen](https://www.polygon.com/23623914/last-us-cannibals-bad-you-should-feel-bad)
+ - [All Destiny 2 action figure locations in Neomuna](https://www.pcgamer.com/destiny-2-action-figures-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
