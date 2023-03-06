@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How buy now, pay later services became a popular target for fraudsters, sometimes helped by companies having a loose underwriting process for applications &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230306/p13#a230306p13)
- - [Apple struggles to break free from Samsung display reliance](https://appleinsider.com/articles/23/03/06/apple-struggles-to-break-free-from-samsung-display-reliance?utm_medium=rss)
- - [Focal Bathys Review: The Ultimate](https://www.wired.com/review/focal-bathys/)<!-- TECH:END -->
+ - [Wix &amp; Stripe partner to bring iPhone &#39;Tap to Pay&#39; to businesses](https://appleinsider.com/articles/23/03/06/wix-stripe-partner-to-bring-iphone-tap-to-pay-to-businesses?utm_medium=rss)
+ - [Analysis: Amazon had $38B in 2022 ad revenue, more than the entire global newspaper industry and likely above Prime, leading to questions over ads and marketing &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230306/p15#a230306p15)
+ - [The Food System Is Awful for the Climate. It Doesn’t Have to Be](https://www.wired.com/story/the-food-system-is-awful-for-the-climate-it-doesnt-have-to-be/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
