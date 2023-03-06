@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
- - 🚯 [The amount of misconception or arrogance some people have !](http://9gag.com/gag/a7q8yXb)
- - 🚯 [Thats pretty fu** cool](http://9gag.com/gag/aA0Qrqg)<!-- MEMES:END -->
+ - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
+ - 🚯 [Totally happened](http://9gag.com/gag/aBdZ34Q)
+ - 🚯 [Nice](http://9gag.com/gag/aMEdrX1)<!-- MEMES:END -->
 
 --- 
 
