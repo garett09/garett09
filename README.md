@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agoQ3zr)
- - 🚯 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - 🚯 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
+ - 🚯 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
+ - 🚯 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
 
 --- 
 
