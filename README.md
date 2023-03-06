@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study of 13M+ Facebook posts in the run-up to the 2020 US elections found that 23% of the sampled posts with political images contained misinformation &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230306/p1#a230306p1)
- - [Nothing speaker leak shows off a peculiar design](https://www.androidauthority.com/nothing-speaker-3293017/)
- - [Apple’s big Mac plans revealed: From iMac to touchscreen MacBook](https://www.androidauthority.com/apple-imac-macbook-3290989/)<!-- TECH:END -->
+ - [This is our first &lpar;unofficial&rpar; look at the Xiaomi Mi Band 8](https://www.androidauthority.com/xiaomi-mi-band-8-leak-3293026/)
+ - [Users report Pixel Watch is not on time sometimes](https://www.androidauthority.com/pixel-watch-alarm-late-3293027/)
+ - [A study of 13M+ Facebook posts in the run-up to the 2020 US elections found that 23% of the sampled posts with political images contained misinformation &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230306/p1#a230306p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
