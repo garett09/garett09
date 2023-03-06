@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases second Rapid Security Response in iOS 16.4 beta](https://appleinsider.com/articles/23/03/06/apple-releases-second-rapid-security-response-in-ios-164-beta?utm_medium=rss)
- - [$57 off the Sony WH-1000XM5, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Apple releases tvOS 16.3.3 to fix Siri Remote issue](https://appleinsider.com/articles/23/03/06/apple-releases-tvos-1633-to-fix-siri-remote-issue?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch &#39;Survivor&#39;: Stream Season 44 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-44-from-anywhere/#ftag=CAD590a51e)
+ - [Troy Baker doesn’t really think The Last of Us has villains](https://www.theverge.com/2023/3/6/23627597/the-last-of-us-troy-baker-interview)
+ - [Apple Fitness+ spotlights Miley Cyrus, Mariah Carey, Shania Twain](https://appleinsider.com/articles/23/03/06/apple-fitness-spotlights-miley-cyrus-mariah-carey-shania-twain?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
