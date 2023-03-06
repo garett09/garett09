@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch &#39;Survivor&#39;: Stream Season 44 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-44-from-anywhere/#ftag=CAD590a51e)
- - [Troy Baker doesn’t really think The Last of Us has villains](https://www.theverge.com/2023/3/6/23627597/the-last-of-us-troy-baker-interview)
- - [Apple Fitness+ spotlights Miley Cyrus, Mariah Carey, Shania Twain](https://appleinsider.com/articles/23/03/06/apple-fitness-spotlights-miley-cyrus-mariah-carey-shania-twain?utm_medium=rss)<!-- TECH:END -->
+ - [Outlook on Mac Goes Free, New Features Coming     - CNET](https://www.cnet.com/tech/services-and-software/outlook-on-mac-goes-free-new-features-coming/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hbo-max/#ftag=CAD590a51e)
+ - [Scammers are using AI voices to steal millions by impersonating loved ones](https://www.androidauthority.com/ai-voice-scams-3293324/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
