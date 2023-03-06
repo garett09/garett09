@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
- - 🚯 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)
+ - 🚖 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
+ - 🚯 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
  - 🚯 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)<!-- MEMES:END -->
 
 --- 
