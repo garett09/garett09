@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Of Us Is Happening For Real, Blame Jack Daniels Whiskey](https://kotaku.com/last-of-us-hbo-fungus-tennessee-lincoln-county-whiskey-1850193465)
- - [The Mummy: Tomb of the Dragon Emperor is the only Oscars 2023 catchup movie you need](https://www.polygon.com/23624131/oscars-2023-michelle-yeoh-brendan-fraser-mummy-3-tomb-of-the-dragon-emperor)
- - [The 21 best roguelikes](https://www.polygon.com/what-to-play/23313023/best-roguelikes-on-nintendo-switch-steam-playstation-xbox-pc)<!-- GAME:END -->
+ - [Wo Long: Fallen Dynasty’s Most Frustrating Enemy Can Go To Hell](https://kotaku.com/wo-long-fallen-dynasty-hard-dual-sword-assassin-1850194022)
+ - [These 4 Horror Titles Are The Ultimate Anti-Cozy Games](https://kotaku.com/best-horror-video-games-steam-amnesia-outlast-pc-1850194078)
+ - [Pokémon Fans Love This Gym Leader Because He&#39;s Just Like You, FR](https://kotaku.com/pokemon-scarlet-violet-larry-gym-leader-elite-four-1850194159)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
