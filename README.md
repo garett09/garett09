@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Soviet City-Builder Back On Steam After Rogue Fan&#39;s DMCA Spree](https://kotaku.com/workers-resources-soviet-republic-pc-dmca-city-builder-1850190837)
- - [Five new Steam games you probably missed &lpar;March 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-6-2023)
- - [RIP Tom Sizemore, 1961-2023](https://kotaku.com/rip-tom-sizemore-died-grand-theft-auto-vice-city-gta-1850190893)<!-- GAME:END -->
+ - [Check out this deckbuilder that uses poker hands for combat resolution](https://www.pcgamer.com/check-out-this-deckbuilder-that-uses-poker-hands-for-combat-resolution)
+ - [The Lucky Seven Strips Tactics Gaming To Its Bones](https://kotaku.com/zachtronics-card-game-solitaire-tactical-lucky-seven-1850182537)
+ - [The Elden Ring player who fought its hardest boss over and over until an expansion announcement is hanging up his sword: &quot;I had been doing it so long&quot;](https://www.pcgamer.com/the-elden-ring-player-who-fought-its-hardest-boss-over-and-over-until-an-expansion-announcement-is-hanging-up-his-sword-i-had-been-doing-it-so-long)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
