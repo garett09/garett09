@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Outlook for Mac free](https://appleinsider.com/articles/23/03/06/microsoft-makes-outlook-for-mac-free?utm_medium=rss)
- - [Some Twitter services were down, like loading images and TweetDeck; clicking a link in a tweet gave the error &quot;your current API plan does not include access&quot; &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230306/p16#a230306p16)
- - [Twitter’s busted again](https://www.theverge.com/2023/3/6/23627444/twitter-down-outage-images-links-error-message-api)<!-- TECH:END -->
+ - [Apple releases second Rapid Security Response in iOS 16.4 beta](https://appleinsider.com/articles/23/03/06/apple-releases-second-rapid-security-response-in-ios-164-beta?utm_medium=rss)
+ - [$57 off the Sony WH-1000XM5, and more great headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Apple releases tvOS 16.3.3 to fix Siri Remote issue](https://appleinsider.com/articles/23/03/06/apple-releases-tvos-1633-to-fix-siri-remote-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
