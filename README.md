@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abu Dhabi-based data analytics firm Presight AI, owned by AI and cloud computing company G42, plans to raise $495M at a ~$2B valuation in an IPO on March 13 &lpar;Shaji Mathew/Bloomberg&rpar;](http://www.techmeme.com/230306/p3#a230306p3)
- - [Samsung could be working on a custom CPU for its phones](https://www.androidauthority.com/samsung-custom-cpu-smartphones-3293040/)
- - [Sources: SoftBank&#39;s Arm hopes to raise $8B+ at a $50B+ valuation in its US IPO, which is expected later in 2023 after a confidential filing in late April &lpar;Reuters&rpar;](http://www.techmeme.com/230306/p2#a230306p2)<!-- TECH:END -->
+ - [Sources: around 20 leaders at Clubhouse have left over the past year, including hires from Meta, Google, and others; Clubhouse continues to add &quot;top talent&quot; &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230306/p6#a230306p6)
+ - [Sources: China plans to create an agency to manage the country&#39;s data stores, shifting from multiple ministries, seeking to streamline its regulatory structure &lpar;Keith Zhai/Wall Street Journal&rpar;](http://www.techmeme.com/230306/p5#a230306p5)
+ - [Daily Authority: 👊 Galaxy S23 packs a punch](https://www.androidauthority.com/daily-authority-march-6-2023-3293057/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
