@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
- - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)
- - 🚯 [Here in UK we like to be unique.](http://9gag.com/gag/aNwDxX3)<!-- MEMES:END -->
+ - 🚖 [Here in UK we like to be unique.](http://9gag.com/gag/aNwDxX3)
+ - 🚯 [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)
+ - 🚯 [HANS!!!](http://9gag.com/gag/a3Z46m5)<!-- MEMES:END -->
 
 --- 
 
