@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This offbeat FPS traps you in an arena shooter-themed afterlife where something is going horribly wrong](https://www.pcgamer.com/this-offbeat-fps-traps-you-in-an-arena-shooter-themed-afterlife-where-something-is-going-horribly-wrong)
- - [When does Halo Infinite season 3 launch?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/3/5/23618680/season-3-launch-date-time-echoes-within)
- - [Here&#39;s a little puzzle game about being a consultant for pirates](https://www.pcgamer.com/heres-a-little-puzzle-game-about-being-a-consultant-for-pirates)<!-- GAME:END -->
+ - [Soviet City-Builder Back On Steam After Rogue Fan&#39;s DMCA Spree](https://kotaku.com/workers-resources-soviet-republic-pc-dmca-city-builder-1850190837)
+ - [Five new Steam games you probably missed &lpar;March 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-6-2023)
+ - [RIP Tom Sizemore, 1961-2023](https://kotaku.com/rip-tom-sizemore-died-grand-theft-auto-vice-city-gta-1850190893)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
