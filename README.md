@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Intel caught up to AMD&#39;s graphics card sales: Bad maths](https://www.pcgamer.com/how-intel-caught-up-to-amds-graphics-card-sales-bad-maths)
- - [Dead by Daylight is inevitably becoming a horror movie](https://www.pcgamer.com/dead-by-daylight-is-inevitably-becoming-a-horror-movie)
- - [Wordle hint and answer #625: Monday, March 6](https://www.pcgamer.com/wordle-hint-answer-today-625-march-6)<!-- GAME:END -->
+ - [16 years later, a new Dragon Ball Budokai Tenkaichi game is happening](https://www.pcgamer.com/16-years-later-a-new-dragon-ball-budokai-tenkaichi-game-is-happening)
+ - [The Olympics is putting on an esports event without any actual esports games](https://www.pcgamer.com/the-olympics-is-putting-on-an-esports-event-without-any-actual-esports-games)
+ - [How Intel caught up to AMD&#39;s graphics card sales: Bad maths](https://www.pcgamer.com/how-intel-caught-up-to-amds-graphics-card-sales-bad-maths)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
