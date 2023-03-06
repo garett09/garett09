@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recognizing signs of a stroke awareness video.](http://9gag.com/gag/aYVGj0O)
- - 🚯 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - 🚯 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
+ - 🚖 [Women](http://9gag.com/gag/aeQ4N8B)
+ - 🚯 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
+ - 🚯 [She now has catastrophic and permanent injuries.](http://9gag.com/gag/abve3bv)<!-- MEMES:END -->
 
 --- 
 
