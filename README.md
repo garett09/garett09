@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s how to sign up for the closed beta of The Finals, our most anticipated FPS of 2023](https://www.pcgamer.com/the-finals-closed-beta)
- - [Redfall will get full cross-play on Xbox, Steam, and Epic Games Store](https://www.polygon.com/23627953/redfall-cross-play-xbox-steam-pc-epic-games-store-game-pass-bethesda-arkane)
- - [Blizzard filled a deconsecrated French church with Diablo 4 murals](https://www.pcgamer.com/blizzard-filled-a-deconsecrated-french-church-with-diablo-4-murals)<!-- GAME:END -->
+ - [Overwatch 2 scientist confirms it&#39;s not just you, Cassidy&#39;s ultimate sucks](https://www.pcgamer.com/overwatch-2-scientist-confirms-its-not-just-you-cassidys-ultimate-sucks)
+ - [Creed 3’s box office returns are already breaking records](https://www.polygon.com/23627357/creed-3-box-office-total-rocky-sports-movies)
+ - [Why a Vanderpump Rules breakup is the Red Wedding of reality TV](https://www.polygon.com/23627721/vanderpump-rules-tom-sandoval-ariana-madix-breakup-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
