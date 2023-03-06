@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 🚯 [Here in UK we like to be unique.](http://9gag.com/gag/aNwDxX3)
- - 🚯 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)<!-- MEMES:END -->
+ - 🚖 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
+ - 🚯 [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)
+ - 🚯 [Here in UK we like to be unique.](http://9gag.com/gag/aNwDxX3)<!-- MEMES:END -->
 
 --- 
 
