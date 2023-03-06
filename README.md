@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)
- - 🚯 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
- - 🚯 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)<!-- MEMES:END -->
+ - 🚖 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
+ - 🚯 [My mother died today after hell of a fight against cancer. I am in pieces, but you all keep me up for now. F**k you, and I will see you tomorrow.](http://9gag.com/gag/ay2q5xV)
+ - 🚯 [Russian propaganda has outdone itself again. A Dombas woman complains that they have been shelled for nine years. As evidence from the last shelling, she shows a spare part for a Mercedes car. It turns out that for nine years Dombas was bombarded with spare parts for Mercedes.](http://9gag.com/gag/a04oLZv)<!-- MEMES:END -->
 
 --- 
 
