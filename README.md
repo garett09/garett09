@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #625: Monday, March 6](https://www.pcgamer.com/wordle-hint-answer-today-625-march-6)
- - [The Last Of Us Episode 8 Recap: Joel And Ellie&#39;s Most Desperate Hour](https://kotaku.com/last-of-us-tlou-recap-s1e8-david-james-troy-baker-ellie-1850191358)
- - [Larian confirms Baldur&#39;s Gate 3 early access owners get Digital Deluxe Edition upgrade free](https://www.pcgamer.com/larian-confirms-baldurs-gate-3-early-access-owners-get-digital-deluxe-edition-upgrade-free)<!-- GAME:END -->
+ - [How Intel caught up to AMD&#39;s graphics card sales: Bad maths](https://www.pcgamer.com/how-intel-caught-up-to-amds-graphics-card-sales-bad-maths)
+ - [Dead by Daylight is inevitably becoming a horror movie](https://www.pcgamer.com/dead-by-daylight-is-inevitably-becoming-a-horror-movie)
+ - [Wordle hint and answer #625: Monday, March 6](https://www.pcgamer.com/wordle-hint-answer-today-625-march-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
