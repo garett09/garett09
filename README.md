@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sons of the Forest’s wildest fan theories, explained](https://www.polygon.com/23627376/sons-forest-ending-theories-explained-cube-timmy-eric)
- - [Here&#39;s Why Resident Evil 4 Remake Is Powering Up Your Humble Knife](https://kotaku.com/resident-evil-4-remake-qte-change-knife-melee-leon-1850197964)
- - [GOG is discounting cyberpunk games by up to 90%](https://www.polygon.com/deals/23627454/gog-cyberpunk-game-deal-sale)<!-- GAME:END -->
+ - [Disney’s largely forgotten wartime shorts, ranked](https://www.polygon.com/century-of-disney/23622082/disney-package-films-wartime-shorts-ranked-make-mine-music)
+ - [Finally, a 3D printer that prints chocolate](https://www.pcgamer.com/finally-a-3d-printer-that-prints-chocolate)
+ - [Twitch starts to address &#39;deepfake porn&#39;, and the first thing to go is that phrase](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
