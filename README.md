@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 🚯 [Totally happened](http://9gag.com/gag/aBdZ34Q)
- - 🚯 [Nice](http://9gag.com/gag/aMEdrX1)<!-- MEMES:END -->
+ - 🚖 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - 🚯 [Rent?](http://9gag.com/gag/aYVGwg2)
+ - 🚯 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
 
 --- 
 
