@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
+ - 🚖 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
+ - 🚯 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - 🚯 [Please bring back real girls](http://9gag.com/gag/az25V5j)<!-- MEMES:END -->
 
 --- 
 
