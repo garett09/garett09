@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Finally Addresses Porn Deepfake Scandal Over A Month Later](https://kotaku.com/twitch-deepfake-statement-atrioc-qtcinderella-pokimane-1850199352)
- - [Master Chief is here to teach you how to file your taxes](https://www.polygon.com/23629002/master-chief-artificial-intelligence-voice-over-taxes)
- - [Rainbow Six Siege mouse spoofers scramble to support forums after new anticheat &#39;Mousetrap&#39; unexpectedly kicks in](https://www.pcgamer.com/rainbow-six-siege-mouse-spoofers-scramble-to-support-forums-after-new-anticheat-mousetrap-unexpectedly-kicks-in)<!-- GAME:END -->
+ - [Wo Long’s Extensive Character Creator Encourages Experimentation](https://kotaku.com/wo-long-fallen-dynasty-character-creator-team-ninja-1850198677)
+ - [Take-Two confirms layoffs following &#39;exponential growth in recent years&#39;](https://www.pcgamer.com/take-two-confirms-layoffs-following-exponential-growth-in-recent-years)
+ - [Genshin Impact’s Female Characters Deserve Better Storylines](https://kotaku.com/genshin-impact-hoyoverse-female-characters-dehya-1850199595)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
