@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US senators unveil the bipartisan RESTRICT Act to let the US ban foreign-linked makers of apps and electronics the Commerce Dept. deems a national security risk &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230307/p24#a230307p24)
- - [New GarageBand 10.4.8 update fixes unknown security flaws](https://appleinsider.com/articles/23/03/07/new-garageband-1048-update-fixes-unknown-security-flaws?utm_medium=rss)
- - [Google plans to retire overlay ads on YouTube videos starting on April 6 to &quot;improve the viewer experience and shift engagement to higher performing ad formats&quot; &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/230307/p23#a230307p23)<!-- TECH:END -->
+ - [Everything new in iOS 16.4 beta 3](https://appleinsider.com/articles/23/03/07/everything-new-in-ios-164-beta-3?utm_medium=rss)
+ - [Deal: Just $49.99 for Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)
+ - [Docs: the FTC demanded Twitter turn over internal messages related to Musk, information about layoffs and journalists with access to company records, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230307/p26#a230307p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
