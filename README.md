@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: in 2022, Apple had eight of the top 10 best-selling smartphones, led by the iPhone 13 and 13 Pro Max; Samsung&#39;s Galaxy A13 was 4th and A03 came 10th &lpar;Harshit Rastogi/Counterpoint Research&rpar;](http://www.techmeme.com/230307/p9#a230307p9)
- - [ProMotion &amp; Always-On display limited to iPhone 15 Pro models, claims rumor](https://appleinsider.com/articles/23/03/07/promotion-always-on-will-be-exclusive-to-iphone-15-pro-models?utm_medium=rss)
- - [What’s Up With M.O.D.O.K. in &#39;Ant-Man and the Wasp: Quantumania&#39;?](https://www.wired.com/story/ant-man-and-the-wasp-quantumania-modok/)<!-- TECH:END -->
+ - [Salesforce announces Einstein GPT, bringing OpenAI-based generative AI to Customer 360, Slack, Tableau, and its other products using data from its Data Cloud &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230307/p11#a230307p11)
+ - [Atomi Alpha Review: Pretty but Flawed](https://www.wired.com/review/atomi-alpha/)
+ - [TikTok’s Screen-Time Limits Are the Real Distraction](https://www.wired.com/story/tiktok-screen-time-limits-distraction-anxiety/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
