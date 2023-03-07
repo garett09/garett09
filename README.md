@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [Mathematician](http://9gag.com/gag/axoWZg1)<!-- MEMES:END -->
+ - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
+ - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - 🚯 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)<!-- MEMES:END -->
 
 --- 
 
