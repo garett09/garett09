@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
- - 🚯 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
- - 🚯 [Please bring back real girls](http://9gag.com/gag/az25V5j)<!-- MEMES:END -->
+ - 🚖 [The amount of misconception or arrogance some people have !](http://9gag.com/gag/a7q8yXb)
+ - 🚯 [Pronouns are Bro/Bruh. Sexual Preference is your Mom](http://9gag.com/gag/avQWPnZ)
+ - 🚯 [Toothpaste](http://9gag.com/gag/aGELReX)<!-- MEMES:END -->
 
 --- 
 
