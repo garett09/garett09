@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Guilty Gear -Strive-, Sid Meier’s Civilization 6, Valheim, and More](https://news.xbox.com/en-us/2023/03/07/game-pass-march-2023-wave-1-announce/)
- - [Someone spotted a massive easter egg in the Cities: Skylines 2 trailer](https://www.pcgamer.com/someone-spotted-a-massive-easter-egg-in-the-cities-skylines-2-trailer)
- - [How to beat Zhang Liang, Wo Long: Fallen Dynasty&#39;s first boss](https://www.pcgamer.com/wo-long-fallen-dynasty-first-boss-zhang-liang)<!-- GAME:END -->
+ - [Gloomhaven’s sequel is so big they hired a submarine engineer to fit it inside the box](https://www.polygon.com/23627767/gloomhaven-sequel-frosthaven-big-box-submarine-engineer)
+ - [The biggest new and returning TV shows coming in 2023](https://www.polygon.com/23528392/biggest-new-tv-shows-2023-upcoming)
+ - [The 2023 movie preview](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
