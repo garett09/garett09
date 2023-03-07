@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 🚯 [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)<!-- MEMES:END -->
+ - 🚯 [Is this the Future?](http://9gag.com/gag/ap91E3b)
+ - 🚯 [I mean...](http://9gag.com/gag/az25jZj)<!-- MEMES:END -->
 
 --- 
 
