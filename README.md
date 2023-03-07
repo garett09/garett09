@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [Is this the Future?](http://9gag.com/gag/ap91E3b)
- - 🚯 [I mean...](http://9gag.com/gag/az25jZj)<!-- MEMES:END -->
+ - 🚖 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [Mathematician](http://9gag.com/gag/axoWZg1)<!-- MEMES:END -->
 
 --- 
 
