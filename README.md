@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #626: Tuesday, March 7](https://www.pcgamer.com/wordle-hint-answer-today-626-march-7)
- - [SSDs shot into space to help with ISS computing](https://www.pcgamer.com/ssds-shot-into-space-to-help-with-iss-computing)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/06/this-weeks-deals-with-gold-and-spotlight-sale-265/)<!-- GAME:END -->
+ - [Microsoft and Intel follow Nvidia with their own streaming video upscaling tools](https://www.pcgamer.com/microsoft-and-intel-follow-nvidia-with-their-own-streaming-video-upscaling-tools)
+ - [Tarkov publicly shames 6,700 &#39;scum of the earth&#39; cheaters by publishing their nicknames after banning them](https://www.pcgamer.com/tarkov-publicly-shames-6700-scum-of-the-earth-cheaters-by-publishing-their-nicknames-after-banning-them)
+ - [MSI MEG Trident X2](https://www.pcgamer.com/msi-trident-meg-x2-gaming-pc-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
