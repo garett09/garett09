@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At an all-hands last week, Sundar Pichai defended Google Cloud&#39;s new desk-sharing policy; an exec says ~35% of staff are in the office at least four days a week &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230306/p20#a230306p20)
- - [New iPhone 14 color &#39;imminent&#39; says leaker](https://appleinsider.com/articles/23/03/06/new-iphone-14-color-imminent-says-leaker?utm_medium=rss)
- - [The best Samsung Galaxy deals: Save up to $800 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
+ - [Best Home COVID Tests     - CNET](https://www.cnet.com/health/medical/best-home-covid-19-tests/#ftag=CAD590a51e)
+ - [French expense management software maker N2F raised &amp;euro;24M from PSG Equity, and says it processes 1M+ expense reports a month for 10K+ businesses in 86+ countries &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230306/p22#a230306p22)
+ - [Atlassian is cutting 500 jobs, about 5% of its workforce; filing: the company will incur about $70M to $75M in restructuring costs through the end of June &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230306/p21#a230306p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
