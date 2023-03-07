@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
- - 🚯 [I mean...](http://9gag.com/gag/az25jZj)
- - 🚯 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)<!-- MEMES:END -->
+ - 🚖 [Perfect timing](http://9gag.com/gag/a9qzPjj)
+ - 🚯 [This is why I don&#39;t want a cat](http://9gag.com/gag/aVbgP1y)
+ - 🚯 [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)<!-- MEMES:END -->
 
 --- 
 
