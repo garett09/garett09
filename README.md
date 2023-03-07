@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s largely forgotten wartime shorts, ranked](https://www.polygon.com/century-of-disney/23622082/disney-package-films-wartime-shorts-ranked-make-mine-music)
- - [Finally, a 3D printer that prints chocolate](https://www.pcgamer.com/finally-a-3d-printer-that-prints-chocolate)
- - [Twitch starts to address &#39;deepfake porn&#39;, and the first thing to go is that phrase](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase)<!-- GAME:END -->
+ - [Where to unlock the Loporrit tribe quests in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23629041/loporrit-tribe-quest-unlock-location-rewards)
+ - [How to unlock the Eureka Orthos deep dungeon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23627966/eureka-orthos-deep-dungeon-unlock-location-mor-dhona)
+ - [The Skull Merchant Comes to Dead by Daylight: A Beginner’s Guide](https://news.xbox.com/en-us/2023/03/07/the-skull-merchant-comes-to-dead-by-daylight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
