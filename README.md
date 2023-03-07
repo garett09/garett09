@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Report: Ireland&#39;s DPC concluded 17 large inquiries in 2022 resulting in &amp;euro;1B+ fines; 10K+ cases were concluded last year, including 246 cross-border complaints &lpar;Vish Gain/Silicon Republic&rpar;](http://www.techmeme.com/230307/p3#a230307p3)
- - [We asked, you told us: You’d ditch Google Assistant for Bing Chat](https://www.androidauthority.com/ditch-google-assistant-bing-chat-poll-results-3293550/)
- - [South Korea&#39;s trade minister says the US CHIPS Act has many preconditions for companies to receive incentive funds and compliance will take much time and effort &lpar;Bloomberg&rpar;](http://www.techmeme.com/230307/p2#a230307p2)<!-- TECH:END -->
+ - [The 13 Best Weed Accessories and Gadgets     - CNET](https://www.cnet.com/culture/best-weed-accessories/#ftag=CAD590a51e)
+ - [We asked, you told us: You’d ditch Google Assistant for Bing Chat](https://www.androidauthority.com/ditch-google-assistant-bing-chat-poll-results-3293550/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
