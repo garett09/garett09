@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect timing](http://9gag.com/gag/a9qzPjj)
- - 🚯 [This is why I don&#39;t want a cat](http://9gag.com/gag/aVbgP1y)
- - 🚯 [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)<!-- MEMES:END -->
+ - 🚖 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
+ - 🚯 [Is this the Future?](http://9gag.com/gag/ap91E3b)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
 
 --- 
 
