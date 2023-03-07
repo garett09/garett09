@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Autonomous trucking company Embark lays off about 70% of its employees and says remaining staff will focus on winding down day-to-day operations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230306/p25#a230306p25)
  - [Up to $116 off Fossil wearables, and more smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [Sources: Meta plans to cut thousands of jobs as soon as this week, after it eliminated 13%, or 11,000 jobs in November 2023 in its first major layoff &lpar;Bloomberg&rpar;](http://www.techmeme.com/230306/p24#a230306p24)
- - [New rumors clash over 15-inch MacBook Air release date](https://appleinsider.com/articles/23/03/07/conflicting-rumors-battle-over-15-inch-macbook-air-timing?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta plans to cut thousands of jobs as soon as this week, after it eliminated 13%, or 11,000 jobs in November 2023 in its first major layoff &lpar;Bloomberg&rpar;](http://www.techmeme.com/230306/p24#a230306p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
