@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything new in iOS 16.4 beta 3](https://appleinsider.com/articles/23/03/07/everything-new-in-ios-164-beta-3?utm_medium=rss)
- - [Deal: Just $49.99 for Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)
- - [Docs: the FTC demanded Twitter turn over internal messages related to Musk, information about layoffs and journalists with access to company records, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230307/p26#a230307p26)<!-- TECH:END -->
+ - [Source: Silvergate is in talks with FDIC officials about ways to avoid a shutdown, including lining up crypto-industry investors to help shore up its liquidity &lpar;Bloomberg&rpar;](http://www.techmeme.com/230307/p31#a230307p31)
+ - [A look at the growing social media dubbing industry, which is helping MrBeast and other YouTubers reach global audiences and monetize videos in many languages &lpar;Rest of World&rpar;](http://www.techmeme.com/230307/p30#a230307p30)
+ - [CrowdStrike reports Q4 revenue up 48% YoY to $637M, vs. $625M est., record $222M net new ARR, and a record 1,873 net new subscription customers; CRWD jumps 5%+ &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/230307/p29#a230307p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
