@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home COVID Tests     - CNET](https://www.cnet.com/health/medical/best-home-covid-19-tests/#ftag=CAD590a51e)
- - [French expense management software maker N2F raised &amp;euro;24M from PSG Equity, and says it processes 1M+ expense reports a month for 10K+ businesses in 86+ countries &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230306/p22#a230306p22)
- - [Atlassian is cutting 500 jobs, about 5% of its workforce; filing: the company will incur about $70M to $75M in restructuring costs through the end of June &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230306/p21#a230306p21)<!-- TECH:END -->
+ - [New rumors clash over 15-inch MacBook Air release date](https://appleinsider.com/articles/23/03/07/conflicting-rumors-battle-over-15-inch-macbook-air-timing?utm_medium=rss)
+ - [Alex Gibney is making a documentary about Elon Musk](https://www.theverge.com/2023/3/6/23628238/elon-musk-alex-gibney-documentary-announced)
+ - [Yuga Labs says the auction of its Bitcoin NFT project TwelveFold generated 735.7 BTC, about $16.5M; 288 out of 3,246 total bidders were awarded NFTs &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230306/p23#a230306p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
