@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
- - 🚯 [Is this the Future?](http://9gag.com/gag/ap91E3b)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
+ - 🚖 [Confirmation on the name of the hero. RIP](http://9gag.com/gag/ap91ven)
+ - 🚯 [Totally happened](http://9gag.com/gag/aBdZ34Q)
+ - 🚯 [Pronouns are Bro/Bruh. Sexual Preference is your Mom](http://9gag.com/gag/avQWPnZ)<!-- MEMES:END -->
 
 --- 
 
