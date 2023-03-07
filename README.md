@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third developer betas for iOS 16.4 and iPadOS 16.4](https://appleinsider.com/articles/23/03/07/apple-seeds-third-developer-betas-for-ios-164-and-ipados-164?utm_medium=rss)
- - [Apple issues third developer beta of macOS Ventura 13.3](https://appleinsider.com/articles/23/03/07/apple-issues-third-developer-beta-of-macos-ventura-133?utm_medium=rss)
- - [Apple&#39;s musical comedy &#39;Schmigadoon!&#39; premieres on April 5](https://appleinsider.com/articles/23/03/07/apples-musical-comedy-schmigadoon-premieres-on-april-5?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy A54 and A34 price leak shows big increase, but maybe not in US](https://www.androidauthority.com/galaxy-a54-a34-leak-2-3293771/)
+ - [Up to $800 off the Galaxy S23, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Jason Sudeikis thinks &#39;Ted Lasso&#39; spin-offs are a possibility](https://appleinsider.com/articles/23/03/07/jason-sudeikis-thinks-ted-lasso-spin-offs-are-a-possibility?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
