@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Zhang Liang, Wo Long: Fallen Dynasty&#39;s first boss](https://www.pcgamer.com/wo-long-fallen-dynasty-first-boss-zhang-liang)
- - [Microsoft and Intel follow Nvidia with their own streaming video upscaling tools](https://www.pcgamer.com/microsoft-and-intel-follow-nvidia-with-their-own-streaming-video-upscaling-tools)
- - [Tarkov publicly shames 6,700 &#39;scum of the earth&#39; cheaters by publishing their nicknames after banning them](https://www.pcgamer.com/tarkov-publicly-shames-6700-scum-of-the-earth-cheaters-by-publishing-their-nicknames-after-banning-them)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Guilty Gear -Strive-, Sid Meier’s Civilization 6, Valheim, and More](https://news.xbox.com/en-us/2023/03/07/game-pass-march-2023-wave-1-announce/)
+ - [Someone spotted a massive easter egg in the Cities: Skylines 2 trailer](https://www.pcgamer.com/someone-spotted-a-massive-easter-egg-in-the-cities-skylines-2-trailer)
+ - [How to beat Zhang Liang, Wo Long: Fallen Dynasty&#39;s first boss](https://www.pcgamer.com/wo-long-fallen-dynasty-first-boss-zhang-liang)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
