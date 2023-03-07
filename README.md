@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wo Long’s Extensive Character Creator Encourages Experimentation](https://kotaku.com/wo-long-fallen-dynasty-character-creator-team-ninja-1850198677)
- - [Take-Two confirms layoffs following &#39;exponential growth in recent years&#39;](https://www.pcgamer.com/take-two-confirms-layoffs-following-exponential-growth-in-recent-years)
- - [Genshin Impact’s Female Characters Deserve Better Storylines](https://kotaku.com/genshin-impact-hoyoverse-female-characters-dehya-1850199595)<!-- GAME:END -->
+ - [YouTube’s New Profanity Policy Will Let You Cuss A Bit More](https://kotaku.com/youtube-profanity-policy-guideline-changes-1850200165)
+ - [Taika Waititi is still making a Star Wars movie, unlike Kevin Feige](https://www.polygon.com/star-wars/23629578/star-wars-movies-kevin-feige-taika-waititi-rian-johnson-release-date)
+ - [Incredibly Rare Pokémon Card Auctioned For $480,000, Nobody Bids](https://kotaku.com/pokemon-card-illustrator-pikachu-charizard-ebay-auction-1850200024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
