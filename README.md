@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 🚯 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)<!-- MEMES:END -->
+ - 🚖 [Old but Gold](http://9gag.com/gag/aBdZw32)
+ - 🚯 [Realistic Lofi Girl](http://9gag.com/gag/avQWnoZ)
+ - 🚯 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)<!-- MEMES:END -->
 
 --- 
 
