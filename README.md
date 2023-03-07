@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Totally happened](http://9gag.com/gag/aBdZ34Q)
- - 🚯 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
- - 🚯 [What now?](http://9gag.com/gag/a1P7ZPv)<!-- MEMES:END -->
+ - 🚖 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)
+ - 🚯 [Please bring back real girls](http://9gag.com/gag/az25V5j)
+ - 🚯 [Could be.](http://9gag.com/gag/a04oYYL)<!-- MEMES:END -->
 
 --- 
 
