@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats pretty fu** cool](http://9gag.com/gag/aA0Qrqg)
- - 🚯 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - 🚯 [Rent?](http://9gag.com/gag/aYVGwg2)<!-- MEMES:END -->
+ - 🚖 [Rent?](http://9gag.com/gag/aYVGwg2)
+ - 🚯 [Picking up his buddy from the airport](http://9gag.com/gag/aXnLXmg)
+ - 🚯 [Mathematician](http://9gag.com/gag/axoWZg1)<!-- MEMES:END -->
 
 --- 
 
