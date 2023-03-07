@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom&#39;s reaction when she realizes her son is the pilot of her flight](http://9gag.com/gag/aA0yngZ)
+ - 🚖 [Thats pretty fu** cool](http://9gag.com/gag/aA0Qrqg)
  - 🚯 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - 🚯 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
+ - 🚯 [Rent?](http://9gag.com/gag/aYVGwg2)<!-- MEMES:END -->
 
 --- 
 
