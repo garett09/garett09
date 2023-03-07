@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Little Snitch 5.5 review: Real-time connection monitoring](https://appleinsider.com/articles/23/03/07/little-snitch-55-review-real-time-connection-monitoring?utm_medium=rss)
- - [This Is a Philosopher on Drugs](https://www.wired.com/story/this-is-a-philosopher-on-drugs/)
- - [YouTube, Facebook, and Instagram helped Monu Manesar, an Indian cow vigilante wanted in connection to two murders, thrive despite violent and Islamophobic posts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230307/p7#a230307p7)<!-- TECH:END -->
+ - [Analysis: in 2022, Apple had eight of the top 10 best-selling smartphones, led by the iPhone 13 and 13 Pro Max; Samsung&#39;s Galaxy A13 was 4th and A03 came 10th &lpar;Harshit Rastogi/Counterpoint Research&rpar;](http://www.techmeme.com/230307/p9#a230307p9)
+ - [ProMotion &amp; Always-On display limited to iPhone 15 Pro models, claims rumor](https://appleinsider.com/articles/23/03/07/promotion-always-on-will-be-exclusive-to-iphone-15-pro-models?utm_medium=rss)
+ - [What’s Up With M.O.D.O.K. in &#39;Ant-Man and the Wasp: Quantumania&#39;?](https://www.wired.com/story/ant-man-and-the-wasp-quantumania-modok/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
