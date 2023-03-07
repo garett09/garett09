@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 scientist confirms it&#39;s not just you, Cassidy&#39;s ultimate sucks](https://www.pcgamer.com/overwatch-2-scientist-confirms-its-not-just-you-cassidys-ultimate-sucks)
- - [Creed 3’s box office returns are already breaking records](https://www.polygon.com/23627357/creed-3-box-office-total-rocky-sports-movies)
- - [Why a Vanderpump Rules breakup is the Red Wedding of reality TV](https://www.polygon.com/23627721/vanderpump-rules-tom-sandoval-ariana-madix-breakup-explained)<!-- GAME:END -->
+ - [Chill Japanese Classic Is Finally Getting An English Translation](https://kotaku.com/boku-no-natsuyasumi-2-english-translation-patch-ps1-1850194847)
+ - [Evidence is mounting for an upcoming Minecraft Bedrock world editor mode](https://www.pcgamer.com/evidence-is-mounting-for-an-upcoming-minecraft-bedrock-world-editor-mode)
+ - [Paradox Announces Cities: Skylines 2, Plus Loads Of Other Stuff](https://kotaku.com/cities-skylines-2-paradox-lamplighters-xcom-ck3-pc-new-1850194992)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
