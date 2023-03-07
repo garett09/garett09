@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The amount of misconception or arrogance some people have !](http://9gag.com/gag/a7q8yXb)
- - 🚯 [Pronouns are Bro/Bruh. Sexual Preference is your Mom](http://9gag.com/gag/avQWPnZ)
- - 🚯 [Toothpaste](http://9gag.com/gag/aGELReX)<!-- MEMES:END -->
+ - 🚖 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
+ - 🚯 [Is this the Future?](http://9gag.com/gag/ap91E3b)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
 
 --- 
 
