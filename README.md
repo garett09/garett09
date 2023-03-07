@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Electric Blue Apple Watch Strap review: A limited edition color that pops](https://appleinsider.com/articles/23/03/07/nomad-electric-blue-apple-watch-strap-review-a-limited-edition-color-that-pops?utm_medium=rss)
- - [AirPods Pro 2 are on sale for $199 at Verizon, beating Amazon by $35](https://appleinsider.com/articles/23/03/07/airpods-pro-2-are-on-sale-for-199-at-verizon-beating-amazon-by-35?utm_medium=rss)
- - [Cheeky! This phone has a ‘plump butt’ beauty filter.](https://www.androidauthority.com/plump-butt-beauty-filter-smartphones-3293627/)<!-- TECH:END -->
+ - [Apple seeds third developer betas for iOS 16.4 and iPadOS 16.4](https://appleinsider.com/articles/23/03/07/apple-seeds-third-developer-betas-for-ios-164-and-ipados-164?utm_medium=rss)
+ - [Apple issues third developer beta of macOS Ventura 13.3](https://appleinsider.com/articles/23/03/07/apple-issues-third-developer-beta-of-macos-ventura-133?utm_medium=rss)
+ - [Apple&#39;s musical comedy &#39;Schmigadoon!&#39; premieres on April 5](https://appleinsider.com/articles/23/03/07/apples-musical-comedy-schmigadoon-premieres-on-april-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
