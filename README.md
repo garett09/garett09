@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked iPhone 15 Pro photos show indent for new volume control](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)
- - [Say ‘goodbye’ to the Sonos One and ‘hello’ to a new Sonos Era](https://www.androidauthority.com/sonos-era-300-era-100-3292988/)
- - [Sonos Era 100 and Era 300: New Speakers, New Name](https://www.wired.com/story/sonos-launches-2-speakers-to-kick-off-a-new-era/)<!-- TECH:END -->
+ - [14 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [Overhaul, which uses AI to help secure physical supply chains for freight companies, raised a $38M Series A led by Edison Partners and $35M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p16#a230307p16)
+ - [Purported iPhone 15 Pro photos show indent for rumored new volume control [u]](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
