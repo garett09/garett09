@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the upcoming 15&quot; and 13&quot; MacBook Airs, as well as a refreshed 13&quot; MacBook Pro, will feature the new M3 chip, which will have 8 cores like the M1 and M2 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230307/p17#a230307p17)
- - [Apple Pay is coming to South Korea very soon](https://appleinsider.com/articles/23/03/07/apple-pay-is-coming-to-south-korea-very-soon?utm_medium=rss)
- - [The MoonSwatch Mission to Moonshine Gold Is Limited in Every Way](https://www.wired.com/story/the-moonswatch-mission-to-moonshine-gold-is-limited-in-every-way/)<!-- TECH:END -->
+ - [Nomad Electric Blue Apple Watch Strap review: A limited edition color that pops](https://appleinsider.com/articles/23/03/07/nomad-electric-blue-apple-watch-strap-review-a-limited-edition-color-that-pops?utm_medium=rss)
+ - [AirPods Pro 2 are on sale for $199 at Verizon, beating Amazon by $35](https://appleinsider.com/articles/23/03/07/airpods-pro-2-are-on-sale-for-199-at-verizon-beating-amazon-by-35?utm_medium=rss)
+ - [Cheeky! This phone has a ‘plump butt’ beauty filter.](https://www.androidauthority.com/plump-butt-beauty-filter-smartphones-3293627/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
