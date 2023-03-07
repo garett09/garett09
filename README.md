@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Ocarina of Time’s Hyrule makes for a wild Mario Kart 8 track](https://www.polygon.com/zelda/23628808/zelda-ocarina-of-time-mario-kart-8-mod)
- - [Guilty Gear Strive Offers a New Fighting Game Experience for Xbox Fans](https://news.xbox.com/en-us/2023/03/07/guilty-gear-strive-xbox-gamepass/)
- - [The cinematic BioWare-style RPG is dead, it just doesn&#39;t know it yet](https://www.pcgamer.com/the-cinematic-bioware-style-rpg-is-dead-it-just-doesnt-know-it-yet)<!-- GAME:END -->
+ - [Sons of the Forest’s wildest fan theories, explained](https://www.polygon.com/23627376/sons-forest-ending-theories-explained-cube-timmy-eric)
+ - [Here&#39;s Why Resident Evil 4 Remake Is Powering Up Your Humble Knife](https://kotaku.com/resident-evil-4-remake-qte-change-knife-melee-leon-1850197964)
+ - [GOG is discounting cyberpunk games by up to 90%](https://www.polygon.com/deals/23627454/gog-cyberpunk-game-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
