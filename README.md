@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
- - 🚯 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - 🚯 [Rent?](http://9gag.com/gag/aYVGwg2)<!-- MEMES:END -->
+ - 🚖 [Totally happened](http://9gag.com/gag/aBdZ34Q)
+ - 🚯 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
+ - 🚯 [What now?](http://9gag.com/gag/a1P7ZPv)<!-- MEMES:END -->
 
 --- 
 
