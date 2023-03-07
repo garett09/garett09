@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
- - 🚯 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)<!-- MEMES:END -->
+ - 🚖 [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)
+ - 🚯 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
+ - 🚯 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)<!-- MEMES:END -->
 
 --- 
 
