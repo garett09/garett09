@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 20 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Pixel Buds Pro now have spatial audio with head-tracking support](https://www.androidauthority.com/pixel-buds-spatial-audio-3293820/)
- - [Biden FCC nominee Gigi Sohn tells the White House she is dropping out, after her nomination stalled for 16 months amid industry opposition and personal attacks &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230307/p22#a230307p22)<!-- TECH:END -->
+ - [US senators unveil the bipartisan RESTRICT Act to let the US ban foreign-linked makers of apps and electronics the Commerce Dept. deems a national security risk &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230307/p24#a230307p24)
+ - [New GarageBand 10.4.8 update fixes unknown security flaws](https://appleinsider.com/articles/23/03/07/new-garageband-1048-update-fixes-unknown-security-flaws?utm_medium=rss)
+ - [Google plans to retire overlay ads on YouTube videos starting on April 6 to &quot;improve the viewer experience and shift engagement to higher performing ad formats&quot; &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/230307/p23#a230307p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
