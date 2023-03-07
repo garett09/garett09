@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to unlock the Loporrit tribe quests in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23629041/loporrit-tribe-quest-unlock-location-rewards)
- - [How to unlock the Eureka Orthos deep dungeon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23627966/eureka-orthos-deep-dungeon-unlock-location-mor-dhona)
- - [The Skull Merchant Comes to Dead by Daylight: A Beginner’s Guide](https://news.xbox.com/en-us/2023/03/07/the-skull-merchant-comes-to-dead-by-daylight/)<!-- GAME:END -->
+ - [Twitch Finally Addresses Porn Deepfake Scandal Over A Month Later](https://kotaku.com/twitch-deepfake-statement-atrioc-qtcinderella-pokimane-1850199352)
+ - [Master Chief is here to teach you how to file your taxes](https://www.polygon.com/23629002/master-chief-artificial-intelligence-voice-over-taxes)
+ - [Rainbow Six Siege mouse spoofers scramble to support forums after new anticheat &#39;Mousetrap&#39; unexpectedly kicks in](https://www.pcgamer.com/rainbow-six-siege-mouse-spoofers-scramble-to-support-forums-after-new-anticheat-mousetrap-unexpectedly-kicks-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
