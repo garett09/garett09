@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
- - 🚯 [Is this the Future?](http://9gag.com/gag/ap91E3b)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
+ - 🚖 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - 🚯 [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)<!-- MEMES:END -->
 
 --- 
 
