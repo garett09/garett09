@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [Overhaul, which uses AI to help secure physical supply chains for freight companies, raised a $38M Series A led by Edison Partners and $35M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p16#a230307p16)
- - [Purported iPhone 15 Pro photos show indent for rumored new volume control [u]](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the upcoming 15&quot; and 13&quot; MacBook Airs, as well as a refreshed 13&quot; MacBook Pro, will feature the new M3 chip, which will have 8 cores like the M1 and M2 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230307/p17#a230307p17)
+ - [Apple Pay is coming to South Korea very soon](https://appleinsider.com/articles/23/03/07/apple-pay-is-coming-to-south-korea-very-soon?utm_medium=rss)
+ - [The MoonSwatch Mission to Moonshine Gold Is Limited in Every Way](https://www.wired.com/story/the-moonswatch-mission-to-moonshine-gold-is-limited-in-every-way/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
