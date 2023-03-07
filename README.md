@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)
- - 🚯 [Please bring back real girls](http://9gag.com/gag/az25V5j)
- - 🚯 [Could be.](http://9gag.com/gag/a04oYYL)<!-- MEMES:END -->
+ - 🚖 [Mom&#39;s reaction when she realizes her son is the pilot of her flight](http://9gag.com/gag/aA0yngZ)
+ - 🚯 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - 🚯 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
 
 --- 
 
