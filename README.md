@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - 🚯 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
- - 🚯 [What the hell is even that](http://9gag.com/gag/aPgx6PG)<!-- MEMES:END -->
+ - 🚖 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
 
 --- 
 
