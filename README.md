@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to beat Zhang Liang, Wo Long: Fallen Dynasty&#39;s first boss](https://www.pcgamer.com/wo-long-fallen-dynasty-first-boss-zhang-liang)
  - [Microsoft and Intel follow Nvidia with their own streaming video upscaling tools](https://www.pcgamer.com/microsoft-and-intel-follow-nvidia-with-their-own-streaming-video-upscaling-tools)
- - [Tarkov publicly shames 6,700 &#39;scum of the earth&#39; cheaters by publishing their nicknames after banning them](https://www.pcgamer.com/tarkov-publicly-shames-6700-scum-of-the-earth-cheaters-by-publishing-their-nicknames-after-banning-them)
- - [MSI MEG Trident X2](https://www.pcgamer.com/msi-trident-meg-x2-gaming-pc-review)<!-- GAME:END -->
+ - [Tarkov publicly shames 6,700 &#39;scum of the earth&#39; cheaters by publishing their nicknames after banning them](https://www.pcgamer.com/tarkov-publicly-shames-6700-scum-of-the-earth-cheaters-by-publishing-their-nicknames-after-banning-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
