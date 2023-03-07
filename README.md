@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce announces Einstein GPT, bringing OpenAI-based generative AI to Customer 360, Slack, Tableau, and its other products using data from its Data Cloud &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230307/p11#a230307p11)
- - [Atomi Alpha Review: Pretty but Flawed](https://www.wired.com/review/atomi-alpha/)
- - [TikTok’s Screen-Time Limits Are the Real Distraction](https://www.wired.com/story/tiktok-screen-time-limits-distraction-anxiety/)<!-- TECH:END -->
+ - [Leaked iPhone 15 Pro photos show indent for new volume control](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)
+ - [Say ‘goodbye’ to the Sonos One and ‘hello’ to a new Sonos Era](https://www.androidauthority.com/sonos-era-300-era-100-3292988/)
+ - [Sonos Era 100 and Era 300: New Speakers, New Name](https://www.wired.com/story/sonos-launches-2-speakers-to-kick-off-a-new-era/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
