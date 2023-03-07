@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Announces A Solid Month For Game Pass, Adding Dead Space And More](https://kotaku.com/xbox-game-pass-new-games-march-dead-space-sims-halo-1850197148)
- - [All Quiet on the Western Front is actually the Oscars’ horror contender](https://www.polygon.com/23627947/all-quiet-on-the-western-front-oscars-2023-best-picture-nominee)
- - [Sniper Elite 5 – Season Two Available Today and Includes New Campaign Mission, Free Content, and More](https://news.xbox.com/en-us/2023/03/07/sniper-elite-5-season-two-available-today-and-includes-new-campaign-mission-free-content-and-more/)<!-- GAME:END -->
+ - [Zelda: Ocarina of Time’s Hyrule makes for a wild Mario Kart 8 track](https://www.polygon.com/zelda/23628808/zelda-ocarina-of-time-mario-kart-8-mod)
+ - [Guilty Gear Strive Offers a New Fighting Game Experience for Xbox Fans](https://news.xbox.com/en-us/2023/03/07/guilty-gear-strive-xbox-gamepass/)
+ - [The cinematic BioWare-style RPG is dead, it just doesn&#39;t know it yet](https://www.pcgamer.com/the-cinematic-bioware-style-rpg-is-dead-it-just-doesnt-know-it-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
