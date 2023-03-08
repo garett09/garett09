@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, A Persona-Type RPG Where You Play As The Golden Girls](https://kotaku.com/persona-5-the-golden-girls-jrpg-free-betty-white-1850204203)
- - [Hunt: Showdown&#39;s finally adding the roaming bosses fans have been clamouring for](https://www.pcgamer.com/hunt-showdowns-finally-adding-the-roaming-bosses-fans-have-been-clamouring-for)
- - [League of Legends MMO producer leaves Riot: &#39;It&#39;s the right time to hand over the reigns&#39;](https://www.pcgamer.com/league-of-legends-mmo-producer-leaves-riot-its-the-right-time-to-hand-over-the-reigns)<!-- GAME:END -->
+ - [Hands On With The Japanese Horror Game Fans Waited 15 Years For](https://kotaku.com/fatal-frame-mask-of-the-lunar-eclipse-switch-review-1850204725)
+ - [The Outer Worlds, 2019&#39;s Great RPG, Has A Busted New-Gen Update](https://kotaku.com/outer-worlds-next-gen-upgrade-ps5-framerate-game-pass-1850204648)
+ - [One of the worst PC ports of the year has started its redemption arc](https://www.pcgamer.com/one-of-the-worst-pc-ports-of-the-year-has-started-its-redemption-arc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
