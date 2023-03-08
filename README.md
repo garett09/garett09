@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [VPN access now open to all Google One subscribers](https://appleinsider.com/articles/23/03/08/vpn-access-now-open-to-all-google-one-subscribers?utm_medium=rss)
- - [Second Android 14 developer preview launches: Here are the new features](https://www.androidauthority.com/android-14-dp2-3294274/)<!-- TECH:END -->
+ - [Android 14 will allow you to use camera and screen flashes for notifications](https://www.androidauthority.com/android-14-notifications-3294421/)
+ - [Microplastics Are Polluting the Ocean at a Shocking Rate](https://www.wired.com/story/microplastics-are-polluting-the-ocean-at-a-shocking-rate/)
+ - [Spotify redesigns the core homescreen of its app with a TikTok-like vertical scroll of albums, video podcasts, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230308/p24#a230308p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
