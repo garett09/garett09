@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 will allow you to use camera and screen flashes for notifications](https://www.androidauthority.com/android-14-notifications-3294421/)
- - [Microplastics Are Polluting the Ocean at a Shocking Rate](https://www.wired.com/story/microplastics-are-polluting-the-ocean-at-a-shocking-rate/)
- - [Spotify redesigns the core homescreen of its app with a TikTok-like vertical scroll of albums, video podcasts, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230308/p24#a230308p24)<!-- TECH:END -->
+ - [Letter: the Netherlands plans new restrictions on exports of advanced chipmaking machines amid US pressure to limit China&#39;s access to semiconductor technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/230308/p25#a230308p25)
+ - [Google Translate on the web can now translate text within images](https://www.androidauthority.com/google-translate-web-3294410/)
+ - [Spotify&#39;s new design looks like TikTok](https://appleinsider.com/articles/23/03/08/spotifys-new-design-looks-like-tiktok?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
