@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Festival of Colors’ 2023 event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2023/3/8/23630716/festival-colors-collection-challenge-bruxish-mega-medicham)
- - [I am begging you to stop adding loot to games that don&#39;t need it](https://www.pcgamer.com/i-am-begging-you-to-stop-adding-loot-to-games-that-dont-need-it)
- - [&#39;Manufacturers will put a screen on anything&#39; I say staring at a distro plate with a 7-inch monitor built in](https://www.pcgamer.com/manufacturers-will-put-a-screen-on-anything-i-say-staring-at-a-distro-plate-with-a-7-inch-monitor-built-in)<!-- GAME:END -->
+ - [How to finish ‘The Variable’ and get Vexcalibur in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23629311/vexcalibur-the-variable-avalon-secret-mission)
+ - [Wargroove 2 is mixing up Advance Wars tactics with pirates and giant squids](https://www.polygon.com/23630774/wargroove-2-nintendo-switch-pc-steam-announcement)
+ - [Here’s where you can pre-order Star Wars Jedi: Survivor](https://www.polygon.com/deals/23629409/star-wars-jedi-survivor-pre-order-buy-guide-ea-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
