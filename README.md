@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [65’s directors want to break Jurassic Park’s ‘monopoly on dinosaurs’](https://www.polygon.com/23629452/65-director-interview-dinosaur-movies-jurassic-park)
- - [We challenged ProZD to a card game](https://www.polygon.com/videos/2023/3/8/23630458/battle-spirits-saga-prozd-game)
- - [Xbox Celebrates Women in Gaming this International Women’s Day](https://news.xbox.com/en-us/2023/03/08/xbox-celebrates-women-in-gaming-this-international-womens-day/)<!-- GAME:END -->
+ - [Pokémon Go ‘Festival of Colors’ 2023 event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2023/3/8/23630716/festival-colors-collection-challenge-bruxish-mega-medicham)
+ - [I am begging you to stop adding loot to games that don&#39;t need it](https://www.pcgamer.com/i-am-begging-you-to-stop-adding-loot-to-games-that-dont-need-it)
+ - [&#39;Manufacturers will put a screen on anything&#39; I say staring at a distro plate with a 7-inch monitor built in](https://www.pcgamer.com/manufacturers-will-put-a-screen-on-anything-i-say-staring-at-a-distro-plate-with-a-7-inch-monitor-built-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
