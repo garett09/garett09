@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
- - 🚯 [Guess I&#39;m the bad guy now](http://9gag.com/gag/aZDnBoX)
- - 🚯 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
+ - 🚖 [Truth said](http://9gag.com/gag/aBdZ8xz)
+ - 🚯 [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
+ - 🚯 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
 
 --- 
 
