@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - 🚯 [We are not equal](http://9gag.com/gag/aWGp69Z)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
+ - 🚖 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
+ - 🚯 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
+ - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)<!-- MEMES:END -->
 
 --- 
 
