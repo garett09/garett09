@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excellent trolling](http://9gag.com/gag/aXnLvQz)
+ - 🚖 [While dad was asleep](http://9gag.com/gag/a6qDbEq)
  - 🚯 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
- - 🚯 [There is a slight chance that we can smile again after 20 years. Elections are probably on May 14. Wish us luck against Erdogan.](http://9gag.com/gag/avQW74Z)<!-- MEMES:END -->
+ - 🚯 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)<!-- MEMES:END -->
 
 --- 
 
