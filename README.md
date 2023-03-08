@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer confirms that one of its document servers was breached, after a hacker listed 160GB of data for sale allegedly containing confidential documents and files &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/230307/p35#a230307p35)
- - [Twitter lets the certificate for its Tor onion site expire, effectively killing off the privacy- and speech-protecting service a year after it launched &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230307/p34#a230307p34)
- - [Sources describe how Google stalled the release of a powerful chatbot for years due to the risk AI demos could pose to its reputation and search ads business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230307/p33#a230307p33)<!-- TECH:END -->
+ - [The FTC’s Twitter privacy investigations have ramped up since Elon Musk’s takeover](https://www.theverge.com/2023/3/7/23629816/twitter-elon-musk-ftc-consent-decree)
+ - [How effective altruism, championed by SBF before he dismissed it as a dodge, and doomsday scenarios, like killer rogue AI, became Silicon Valley obsessions &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230307/p36#a230307p36)
+ - [Acer confirms that one of its document servers was breached, after a hacker listed 160GB of data for sale allegedly containing confidential documents and files &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/230307/p35#a230307p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
