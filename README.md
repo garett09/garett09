@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
- - 🚯 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
- - 🚯 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)<!-- MEMES:END -->
+ - 🚖 [Best transformation](http://9gag.com/gag/aMEdwgR)
+ - 🚯 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)
+ - 🚯 [Picking up his buddy from the airport](http://9gag.com/gag/aXnLXmg)<!-- MEMES:END -->
 
 --- 
 
