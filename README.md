@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As tech giants cut back, staff working on big bets and moonshots, like Amazon&#39;s Alexa and Google&#39;s X, were heavily impacted; Meta&#39;s Reality Labs is an exception &lpar;New York Times&rpar;](http://www.techmeme.com/230308/p18#a230308p18)
- - [The US Air Force Is Moving Fast on AI-Piloted Fighter Jets](https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/)
- - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google expands its One VPN service to all Google One plans, starting at $1.99 per month, and adds dark web monitoring for stolen information &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230308/p21#a230308p21)
+ - [Humane, founded by two longtime ex-Apple executives, raised $100M and announces OpenAI and Microsoft partnerships; patents suggest work on a wearable device &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230308/p20#a230308p20)
+ - [At CPAC 2023, Google, Meta, Twitter, and other tech giants remained central villains, including a Section 230 repeal panel; Truth Social and GETTR were absent &lpar;Tom McKay/Rolling Stone&rpar;](http://www.techmeme.com/230308/p19#a230308p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
