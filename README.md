@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - 🚯 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
+ - 🚖 [Excellent trolling](http://9gag.com/gag/aXnLvQz)
+ - 🚯 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
+ - 🚯 [There is a slight chance that we can smile again after 20 years. Elections are probably on May 14. Wish us luck against Erdogan.](http://9gag.com/gag/avQW74Z)<!-- MEMES:END -->
 
 --- 
 
