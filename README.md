@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
- - 🚯 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
- - 🚯 [Mathematician](http://9gag.com/gag/axoWZg1)<!-- MEMES:END -->
+ - 🚖 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)<!-- MEMES:END -->
 
 --- 
 
