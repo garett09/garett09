@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands its One VPN service to all Google One plans, starting at $1.99 per month, and adds dark web monitoring for stolen information &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230308/p21#a230308p21)
- - [Humane, founded by two longtime ex-Apple executives, raised $100M and announces OpenAI and Microsoft partnerships; patents suggest work on a wearable device &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230308/p20#a230308p20)
- - [At CPAC 2023, Google, Meta, Twitter, and other tech giants remained central villains, including a Section 230 repeal panel; Truth Social and GETTR were absent &lpar;Tom McKay/Rolling Stone&rpar;](http://www.techmeme.com/230308/p19#a230308p19)<!-- TECH:END -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [VPN access now open to all Google One subscribers](https://appleinsider.com/articles/23/03/08/vpn-access-now-open-to-all-google-one-subscribers?utm_medium=rss)
+ - [Second Android 14 developer preview launches: Here are the new features](https://www.androidauthority.com/android-14-dp2-3294274/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
