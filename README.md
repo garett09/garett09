@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best transformation](http://9gag.com/gag/aMEdwgR)
- - 🚯 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)
- - 🚯 [Picking up his buddy from the airport](http://9gag.com/gag/aXnLXmg)<!-- MEMES:END -->
+ - 🚖 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - 🚯 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
 
 --- 
 
