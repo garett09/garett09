@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)
- - [Tesla under investigation after Model Y steering wheels fall off](https://www.theverge.com/2023/3/8/23630358/tesla-steering-wheel-bolt-nhtsa-model-y)
- - [A look at the AI Education Project, a nonprofit backed by Microsoft, Google, OpenAI, and others that offers resources to boost AI literacy in low-income schools &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230308/p17#a230308p17)<!-- TECH:END -->
+ - [As tech giants cut back, staff working on big bets and moonshots, like Amazon&#39;s Alexa and Google&#39;s X, were heavily impacted; Meta&#39;s Reality Labs is an exception &lpar;New York Times&rpar;](http://www.techmeme.com/230308/p18#a230308p18)
+ - [The US Air Force Is Moving Fast on AI-Piloted Fighter Jets](https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/)
+ - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
