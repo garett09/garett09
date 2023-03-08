@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase announces a &quot;Wallet-as-a-Service&quot; product, offering APIs to help companies create customizable wallets for their apps more easily &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230308/p16#a230308p16)
- - [The excellent Galaxy S23 has me excited for the S23 FE](https://www.androidauthority.com/galaxy-s23-fe-opinion-3292422/)
- - [Immersive Video Games Are Coming to a Theater Near You](https://www.wired.com/story/immersive-gameboxes-irl-cooperative-gaming/)<!-- TECH:END -->
+ - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)
+ - [Tesla under investigation after Model Y steering wheels fall off](https://www.theverge.com/2023/3/8/23630358/tesla-steering-wheel-bolt-nhtsa-model-y)
+ - [A look at the AI Education Project, a nonprofit backed by Microsoft, Google, OpenAI, and others that offers resources to boost AI literacy in low-income schools &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230308/p17#a230308p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
