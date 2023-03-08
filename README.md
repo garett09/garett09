@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)<!-- MEMES:END -->
+ - 🚖 [Still earning loads!!](http://9gag.com/gag/a2KMYgO)
+ - 🚯 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
 
 --- 
 
