@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still earning loads!!](http://9gag.com/gag/a2KMYgO)
- - 🚯 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
+ - 🚖 [Angle drill for hard-to-reach places](http://9gag.com/gag/a8qAp7Z)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)<!-- MEMES:END -->
 
 --- 
 
