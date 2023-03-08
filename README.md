@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [While dad was asleep](http://9gag.com/gag/a6qDbEq)
+ - 🚖 [Excellent trolling](http://9gag.com/gag/aXnLvQz)
  - 🚯 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
- - 🚯 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)<!-- MEMES:END -->
+ - 🚯 [Truth said](http://9gag.com/gag/aBdZ8xz)<!-- MEMES:END -->
 
 --- 
 
