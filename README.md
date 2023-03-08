@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Least we got one to speak against it.](http://9gag.com/gag/a8qAyDV)
- - 🚯 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
- - 🚯 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)<!-- MEMES:END -->
+ - 🚖 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
+ - 🚯 [She&#39;s trying again..](http://9gag.com/gag/ap91p0W)
+ - 🚯 [I mean...](http://9gag.com/gag/az25jZj)<!-- MEMES:END -->
 
 --- 
 
