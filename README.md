@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
- - 🚯 [We are not equal](http://9gag.com/gag/aWGp69Z)
- - 🚯 [Best transformation](http://9gag.com/gag/aMEdwgR)<!-- MEMES:END -->
+ - 🚖 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
+ - 🚯 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
+ - 🚯 [Mathematician](http://9gag.com/gag/axoWZg1)<!-- MEMES:END -->
 
 --- 
 
