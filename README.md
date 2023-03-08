@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I do not know why the Mandalorian wants his weird baptism](https://www.polygon.com/23629737/mandalorian-living-waters-explainer-bath-no)
- - [The Mandalorian’s Bo-Katan is key to understanding Mandalore’s complicated history](https://www.polygon.com/star-wars/23629533/mandalorian-bo-katan-kryze-satine-mandalore)
- - [Storing trillions of your Discord messages is waaaaay harder than you thought](https://www.pcgamer.com/storing-trillions-of-your-discord-messages-is-waaaaay-harder-than-you-thought)<!-- GAME:END -->
+ - [Team Ninja rolls out fix for Wo Long: Fallen Dynasty PC problems](https://www.polygon.com/23630472/wo-long-fallen-dynasty-pc-patch-notes-steam)
+ - [Overwatch 2 Fixes Cow Balloon, Game Is Good Again](https://kotaku.com/overwatch-2-busan-cow-balloon-dance-bug-fixed-patch-1850202552)
+ - [World of Warcraft will go underground in Dragonflight’s first big patch](https://www.polygon.com/23630474/world-of-warcraft-dragonflight-patch-update-embers-neltharion-zaralek-cavern)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
