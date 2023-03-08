@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Angle drill for hard-to-reach places](http://9gag.com/gag/a8qAp7Z)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)<!-- MEMES:END -->
+ - 🚖 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - 🚯 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 --- 
 
