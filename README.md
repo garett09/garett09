@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please bring back real girls](http://9gag.com/gag/az25V5j)
- - 🚯 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
- - 🚯 [Whale sounds](http://9gag.com/gag/abveZ39)<!-- MEMES:END -->
+ - 🚖 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
+ - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 🚯 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)<!-- MEMES:END -->
 
 --- 
 
