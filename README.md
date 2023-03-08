@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s free upgrade didn&#39;t make me buy the RPG, but this sure as hell did](https://www.pcgamer.com/baldurs-gate-3s-free-upgrade-is-great-but-its-not-why-i-just-bought-early-access)
- - [That 2D League of Legends RPG from the Moonlighter devs just got an imminent release date and a gameplay trailer](https://www.pcgamer.com/that-2d-league-of-legends-rpg-from-the-moonlighter-devs-just-got-an-imminent-release-date-and-a-gameplay-trailer)
- - [AMD could offer &#39;an exciting sneak peek&#39; of FSR 3 at GDC event on March 23](https://www.pcgamer.com/amd-could-offer-an-exciting-sneak-peek-of-fsr-3-at-gdc-event-on-march-23)<!-- GAME:END -->
+ - [Storing trillions of your Discord messages is waaaaay harder than you thought](https://www.pcgamer.com/storing-trillions-of-your-discord-messages-is-waaaaay-harder-than-you-thought)
+ - [Fast, action-packed and endlessly replayable: This MMO from the teams behind Warframe and Darksiders is a feast of co-op dungeoneering](https://www.pcgamer.com/fast-action-packed-and-endlessly-replayable-this-mmo-from-the-teams-behind-warframe-and-darksiders-is-a-feast-of-co-op-dungeoneering)
+ - [Roguelike Have a Nice Death starts strong — but does it have a long game?](https://www.polygon.com/23629569/have-a-nice-death-roguelike-release-date-impressions-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
