@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - 🚯 [Would](http://9gag.com/gag/aoKW9nX)
- - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
+ - 🚖 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
+ - 🚯 [Guess I&#39;m the bad guy now](http://9gag.com/gag/aZDnBoX)
+ - 🚯 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 --- 
 
