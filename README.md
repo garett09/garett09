@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to finish ‘The Variable’ and get Vexcalibur in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23629311/vexcalibur-the-variable-avalon-secret-mission)
- - [Wargroove 2 is mixing up Advance Wars tactics with pirates and giant squids](https://www.polygon.com/23630774/wargroove-2-nintendo-switch-pc-steam-announcement)
- - [Here’s where you can pre-order Star Wars Jedi: Survivor](https://www.polygon.com/deals/23629409/star-wars-jedi-survivor-pre-order-buy-guide-ea-play)<!-- GAME:END -->
+ - [Finally, A Persona-Type RPG Where You Play As The Golden Girls](https://kotaku.com/persona-5-the-golden-girls-jrpg-free-betty-white-1850204203)
+ - [Hunt: Showdown&#39;s finally adding the roaming bosses fans have been clamouring for](https://www.pcgamer.com/hunt-showdowns-finally-adding-the-roaming-bosses-fans-have-been-clamouring-for)
+ - [League of Legends MMO producer leaves Riot: &#39;It&#39;s the right time to hand over the reigns&#39;](https://www.pcgamer.com/league-of-legends-mmo-producer-leaves-riot-its-the-right-time-to-hand-over-the-reigns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
