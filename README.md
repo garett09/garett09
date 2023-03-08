@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 🚯 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
- - 🚯 [Malcom X peering out of his window after receiving several death threats by the Nation Of Islam after he exposed his former mentor Elijah Muhammad for having children with underage girls. His house was later firebombed and he was later killed on the orders of Muhammad.](http://9gag.com/gag/aeQ4NDB)<!-- MEMES:END -->
+ - 🚖 [Every father immediately understood the dark place Joe went to\u2026](http://9gag.com/gag/a9qzWg6)
+ - 🚯 [What now?](http://9gag.com/gag/a1P7ZPv)
+ - 🚯 [The worse he can said is no](http://9gag.com/gag/aGEL0Bz)<!-- MEMES:END -->
 
 --- 
 
