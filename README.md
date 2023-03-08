@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - 🚖 [Please bring back real girls](http://9gag.com/gag/az25V5j)
  - 🚯 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
- - 🚯 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
+ - 🚯 [Whale sounds](http://9gag.com/gag/abveZ39)<!-- MEMES:END -->
 
 --- 
 
