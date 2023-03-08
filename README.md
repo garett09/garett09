@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excellent trolling](http://9gag.com/gag/aXnLvQz)
- - 🚯 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
- - 🚯 [Truth said](http://9gag.com/gag/aBdZ8xz)<!-- MEMES:END -->
+ - 🚖 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
+ - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
+ - 🚯 [Nice doing business with you](http://9gag.com/gag/aKE1D03)<!-- MEMES:END -->
 
 --- 
 
