@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Lightfall’s First Secret Exotic Mission Is A Great One](https://kotaku.com/destiny-2-lightfall-exotic-quest-vexcalibur-guide-1850200643)
- - [An Exploration Of The Ways Our Cities Hate The Young &amp; The Homeless](https://kotaku.com/exclusionary-design-hostile-architecture-video-game-pc-1850200584)
- - [A beginner&#39;s guide to Path of Exile, a dense, complicated, but rewarding ARPG](https://www.pcgamer.com/path-of-exile-beginners-guide)<!-- GAME:END -->
+ - [This software lets you dip your toes into Quantum computing for free](https://www.pcgamer.com/this-software-lets-you-dip-your-toes-into-quantum-computing-for-free)
+ - [Crash Landing](https://kotaku.com/anshuman-kashyap-rockstar-art-concept-illustration-1850200880)
+ - [Phantom Brigade, A New Turn-Based Tactics Game, Rules](https://kotaku.com/phantom-brigade-a-new-turn-based-tactics-game-rules-1845710612)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
