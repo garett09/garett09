@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo launches OpenAI- and Anthropic-powered DuckAssist in beta, using Wikipedia, Encyclopedia Britannica, and other sources to summarize answers &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230308/p13#a230308p13)
- - [An interview with Valve designer Lawrence Yang and engineer Pierre-Loup Griffais on the Steam Deck after one year, community-driven improvements, and more &lpar;James Archer/Rock, Paper, Shotgun&rpar;](http://www.techmeme.com/230308/p12#a230308p12)
- - [Doctor Unions Are Good for Your Health](https://www.wired.com/story/health-doctor-unions/)<!-- TECH:END -->
+ - [Coinbase announces a &quot;Wallet-as-a-Service&quot; product, offering APIs to help companies create customizable wallets for their apps more easily &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230308/p16#a230308p16)
+ - [The excellent Galaxy S23 has me excited for the S23 FE](https://www.androidauthority.com/galaxy-s23-fe-opinion-3292422/)
+ - [Immersive Video Games Are Coming to a Theater Near You](https://www.wired.com/story/immersive-gameboxes-irl-cooperative-gaming/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
