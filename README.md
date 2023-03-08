@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Silvergate is in talks with FDIC officials about ways to avoid a shutdown, including lining up crypto-industry investors to help shore up its liquidity &lpar;Bloomberg&rpar;](http://www.techmeme.com/230307/p31#a230307p31)
- - [A look at the growing social media dubbing industry, which is helping MrBeast and other YouTubers reach global audiences and monetize videos in many languages &lpar;Rest of World&rpar;](http://www.techmeme.com/230307/p30#a230307p30)
- - [CrowdStrike reports Q4 revenue up 48% YoY to $637M, vs. $625M est., record $222M net new ARR, and a record 1,873 net new subscription customers; CRWD jumps 5%+ &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/230307/p29#a230307p29)<!-- TECH:END -->
+ - [Acer confirms that one of its document servers was breached, after a hacker listed 160GB of data for sale allegedly containing confidential documents and files &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/230307/p35#a230307p35)
+ - [Twitter lets the certificate for its Tor onion site expire, effectively killing off the privacy- and speech-protecting service a year after it launched &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230307/p34#a230307p34)
+ - [Sources describe how Google stalled the release of a powerful chatbot for years due to the risk AI demos could pose to its reputation and search ads business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230307/p33#a230307p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
