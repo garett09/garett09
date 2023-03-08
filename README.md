@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Ninja rolls out fix for Wo Long: Fallen Dynasty PC problems](https://www.polygon.com/23630472/wo-long-fallen-dynasty-pc-patch-notes-steam)
- - [Overwatch 2 Fixes Cow Balloon, Game Is Good Again](https://kotaku.com/overwatch-2-busan-cow-balloon-dance-bug-fixed-patch-1850202552)
- - [World of Warcraft will go underground in Dragonflight’s first big patch](https://www.polygon.com/23630474/world-of-warcraft-dragonflight-patch-update-embers-neltharion-zaralek-cavern)<!-- GAME:END -->
+ - [65’s directors want to break Jurassic Park’s ‘monopoly on dinosaurs’](https://www.polygon.com/23629452/65-director-interview-dinosaur-movies-jurassic-park)
+ - [We challenged ProZD to a card game](https://www.polygon.com/videos/2023/3/8/23630458/battle-spirits-saga-prozd-game)
+ - [Xbox Celebrates Women in Gaming this International Women’s Day](https://news.xbox.com/en-us/2023/03/08/xbox-celebrates-women-in-gaming-this-international-womens-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
