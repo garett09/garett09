@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every father immediately understood the dark place Joe went to\u2026](http://9gag.com/gag/a9qzWg6)
- - 🚯 [What now?](http://9gag.com/gag/a1P7ZPv)
- - 🚯 [The worse he can said is no](http://9gag.com/gag/aGEL0Bz)<!-- MEMES:END -->
+ - 🚖 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
+ - 🚯 [We are not equal](http://9gag.com/gag/aWGp69Z)
+ - 🚯 [Best transformation](http://9gag.com/gag/aMEdwgR)<!-- MEMES:END -->
 
 --- 
 
