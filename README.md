@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer III celebrates Immortal Empires with free weekend](https://www.pcgamer.com/total-war-warhammer-iii-celebrates-immortal-empires-with-free-weekend)
- - [Play the Roguelike Board Game, Repel the Enemy and Defend the Rook on March 16th](https://news.xbox.com/en-us/2023/03/09/repel-the-enemy-and-defend-the-rook-on-march-16th/)
- - [Oscar nominees drew their characters winning, and it’s the absolute best](https://www.polygon.com/23632317/oscars-2023-best-animation-nominees-interviews)<!-- GAME:END -->
+ - [Naruto Is Finally Ending Now &lpar;And Hopefully The Fandom Wars, Too&rpar;](https://kotaku.com/naruto-boruto-anime-ending-fandom-one-piece-discourse-1850208953)
+ - [Free Play Days – Tom Clancy’s Rainbow Six Siege, WRC Generations, Dead by Daylight, and Cities: Skylines – Xbox One Edition](https://news.xbox.com/en-us/2023/03/09/free-play-days-tom-clancys-rainbow-six-siege-wrc-generations-dead-by-daylight-and-cities-skylines-xbox-one-edition/)
+ - [Report: Suicide Squad Game Delayed Again After Negative Fan Reaction](https://kotaku.com/dc-suicide-squad-delay-kill-the-justice-league-batman-1850208924)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
