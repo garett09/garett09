@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: some Pinterest users are creating sex-themed image boards of kids and the company&#39;s algorithm is curating such content for adults who seek it out &lpar;Jesselyn Cook/NBC News&rpar;](http://www.techmeme.com/230309/p24#a230309p24)
  - [Railsr, the UK-based embedded finance tech startup formerly called Railsbank, goes into bankruptcy under new consortium owner; it was valued at ~$1B in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230309/p23#a230309p23)
- - [Reddit plans to shut down its Clubhouse-style live audio tool Reddit Talk on March 21, saying adding audio needs &quot;significant work&quot;; Talk launched in April 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230309/p22#a230309p22)
- - [&#39;The Last of Us&#39; Is a Parable for Pandemic Parents](https://www.wired.com/story/last-of-uscovid-19-pandemic-parenting/)<!-- TECH:END -->
+ - [You may never notice, but Peloton and iFit equipment just got hit with an import ban](https://www.theverge.com/2023/3/9/23632158/peloton-ifit-dish-itc-import-ban-streaming-fitness)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
