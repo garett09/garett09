@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Foreigner asking in Germany like](http://9gag.com/gag/aKE1x7j)
- - 🚯 [South Park: Harry and Meghan&#39;s Worldwide Privacy Tour !](http://9gag.com/gag/aPgxRxQ)
- - 🚯 [One thing lead to another.](http://9gag.com/gag/a2KMR1e)<!-- MEMES:END -->
+ - 🚖 [Because it\u2019s too f*kin expensive](http://9gag.com/gag/a2KMZpe)
+ - 🚯 [Why?](http://9gag.com/gag/axoW76M)
+ - 🚯 [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)<!-- MEMES:END -->
 
 --- 
 
