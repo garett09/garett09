@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Mine would be splinter](http://9gag.com/gag/a5XVMQy)
  - 🚯 [This stressball stresses me out](http://9gag.com/gag/ap91mon)
- - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)<!-- MEMES:END -->
+ - 🚯 [Can&#39;t explain this to the insurance people](http://9gag.com/gag/aREL0v2)<!-- MEMES:END -->
 
 --- 
 
