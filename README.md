@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mine would be splinter](http://9gag.com/gag/a5XVMQy)
- - 🚯 [This stressball stresses me out](http://9gag.com/gag/ap91mon)
- - 🚯 [Can&#39;t explain this to the insurance people](http://9gag.com/gag/aREL0v2)<!-- MEMES:END -->
+ - 🚖 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - 🚯 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
+ - 🚯 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 --- 
 
