@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: some Pinterest users are creating sex-themed image boards of kids and the company&#39;s algorithm is curating such content for adults who seek it out &lpar;Jesselyn Cook/NBC News&rpar;](http://www.techmeme.com/230309/p24#a230309p24)
- - [Railsr, the UK-based embedded finance tech startup formerly called Railsbank, goes into bankruptcy under new consortium owner; it was valued at ~$1B in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230309/p23#a230309p23)
- - [You may never notice, but Peloton and iFit equipment just got hit with an import ban](https://www.theverge.com/2023/3/9/23632158/peloton-ifit-dish-itc-import-ban-streaming-fitness)<!-- TECH:END -->
+ - [WhatsApp Has Started a Fight With the UK About Encryption](https://www.wired.com/story/whatsapp-online-safety-uk-encryption/)
+ - [The 10 Best Shows on HBO Max Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [8 shows like The Last of Us to check out while we wait for season 2](https://www.androidauthority.com/shows-like-the-last-of-us-hbo-max-3293779/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
