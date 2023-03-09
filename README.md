@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
- - 🚯 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
+ - 🚖 [Foreigner asking in Germany like](http://9gag.com/gag/aKE1x7j)
+ - 🚯 [South Park: Harry and Meghan&#39;s Worldwide Privacy Tour !](http://9gag.com/gag/aPgxRxQ)
+ - 🚯 [One thing lead to another.](http://9gag.com/gag/a2KMR1e)<!-- MEMES:END -->
 
 --- 
 
