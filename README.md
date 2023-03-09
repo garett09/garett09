@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truth said](http://9gag.com/gag/aBdZ8xz)
- - 🚯 [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
- - 🚯 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
+ - 🚖 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
+ - 🚯 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - 🚯 [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)<!-- MEMES:END -->
 
 --- 
 
