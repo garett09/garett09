@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nothing has changed since Party Down went off the air](https://www.polygon.com/23630985/party-down-season-3-review)
- - [The horror game Do You See Sparky? blends Phasmophobia with one creepy-looking doll](https://www.polygon.com/23631385/do-you-see-sparky-horror-video-game-announcement-trailer)
- - [For the first time in World of Warcraft&#39;s history, Horde and Alliance players will be able to join the same guild](https://www.pcgamer.com/for-the-first-time-in-world-of-warcrafts-history-horde-and-alliance-players-will-be-able-to-join-the-same-guild)<!-- GAME:END -->
+ - [The must-watch anime to look out for in spring 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
+ - [Epic launches self-publishing tools, calls out Valve again: &#39;Steam has created a real problem for the industry&#39;](https://www.pcgamer.com/epic-games-store-self-publishing)
+ - [Epic gave away &#39;nearly 700 million&#39; free games last year, will keep it going this year](https://www.pcgamer.com/epic-games-store-2023-free-program)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
