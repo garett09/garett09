@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s Every Single Video Game Remake You Can Play In 2023](https://kotaku.com/video-game-releases-2023-re4-silent-hill-switch-ps5-pc-1850209433)
- - [How to get binoculars in Sons of the Forest](https://www.polygon.com/guides/23632811/sons-of-the-forest-binoculars-location-where-to-find-patch-01)
- - [New RoboCop game isn’t just about violence — you can also hand out parking tickets](https://www.polygon.com/23632701/robocop-rogue-city-release-date-gameplay)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League is reportedly delayed](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-is-reportedly-delayed)
+ - [The Last of Us Part 1’s PC requirements might leave some gamers feeling Left Behind](https://www.polygon.com/deals/23632783/last-us-part-one-pc-features-specs-system-requirements)
+ - [Capcom showcases RE4 Remake, Monster Hunter, and Mega Man in a new livestream](https://www.polygon.com/23632861/when-is-capcom-showcase-livestream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
