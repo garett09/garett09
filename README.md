@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔎 The fall and rise of Bing &lpar;?&rpar;](https://www.androidauthority.com/daily-authority-march-9-2023-3294089/)
- - [Samsung rolls out March security update for Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Radisys Corp., a unit of Jio Platforms, will buy US-based communications equipment maker Mimosa Networks for $60M, with the deal expected to close in Q3 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230309/p4#a230309p4)<!-- TECH:END -->
+ - [An interview with Nvidia CEO Jensen Huang on the company&#39;s role in the generative AI explosion, H100&#39;s transformer engine, US-China trade tensions, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230309/p6#a230309p6)
+ - [Milton Keynes-based Envisics, which is building hologram tech for in-car monitors, raised a $50M+ Series C at a $500M valuation, up from ~$250M in October 2020 &lpar;Peter Campbell/Financial Times&rpar;](http://www.techmeme.com/230309/p5#a230309p5)
+ - [Daily Authority: 🔎 The fall and rise of Bing &lpar;?&rpar;](https://www.androidauthority.com/daily-authority-march-9-2023-3294089/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
