@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
- - 🚯 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
- - 🚯 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
+ - 🚖 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)
+ - 🚯 [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
+ - 🚯 [Comedy Central fears them more than Xi Jinping.](http://9gag.com/gag/aA0QxDZ)<!-- MEMES:END -->
 
 --- 
 
