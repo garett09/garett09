@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [While dad was asleep](http://9gag.com/gag/a6qDbEq)
- - 🚯 [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
- - 🚯 [Ferrari spent millions developing a Mazda MX-30](http://9gag.com/gag/armWVeK)<!-- MEMES:END -->
+ - 🚖 [Mine would be splinter](http://9gag.com/gag/a5XVMQy)
+ - 🚯 [This stressball stresses me out](http://9gag.com/gag/ap91mon)
+ - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)<!-- MEMES:END -->
 
 --- 
 
