@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $150 on the Galaxy Watch 4 Classic, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [Epic Games lets developers self-publish to Epic Games Store, taking a 12% commission on game sales and no cut of IAP if developers use their own payment methods &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230309/p16#a230309p16)
- - [Apple launches Apple Music Classical app](https://appleinsider.com/articles/23/03/09/apple-launches-apple-music-classical-app?utm_medium=rss)<!-- TECH:END -->
+ - [SoundCloud names Eliah Seton as its new CEO, effective immediately; Seton succeeds Michael Weissman, who had been CEO since 2021 &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230309/p21#a230309p21)
+ - [Microsoft makes ChatGPT available in its own Azure OpenAI service, letting developers and businesses add the conversational AI to their apps and services &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230309/p20#a230309p20)
+ - [Yes, ChatGPT Is Coming for Your Office Job](https://www.wired.com/story/yes-chatgpt-is-coming-for-your-office-job/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
