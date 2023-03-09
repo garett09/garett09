@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Good and Bad of ChatGPT in Schools](https://www.wired.com/story/gadget-lab-podcast-589/)
- - [An Apple manufacturer&#39;s VP has quit after talking about China exodus](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)
- - [Apple wants you to wave at your devices to shut them all up](https://appleinsider.com/articles/23/03/09/apple-wants-you-to-wave-at-your-devices-to-shut-them-all-up?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Audiophile Gear &lpar;2023&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
+ - [An AI ‘Sexbot’ Fed My Hidden Desires—and Then Refused to Play](https://www.wired.com/story/replika-chatbot-sexuality-ai/)
+ - [How to build your own RAID for macOS on a budget](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-raid-for-macos-on-a-budget?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
