@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [For the first time in World of Warcraft&#39;s history, Horde and Alliance players will be able to join the same guild](https://www.pcgamer.com/for-the-first-time-in-world-of-warcrafts-history-horde-and-alliance-players-will-be-able-to-join-the-same-guild)
  - [Advance Wars-like tactics game Wargroove is getting a sequel and yes, the armoured pups are back](https://www.pcgamer.com/advance-wars-like-tactics-game-wargroove-is-getting-a-sequel-and-yes-the-armoured-pups-are-back)
- - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)
- - [Suck it up, Valve&#39;s going to make us wait years for Steam Deck 2](https://www.pcgamer.com/suck-it-up-valves-going-to-make-us-wait-years-for-steam-deck-2)<!-- GAME:END -->
+ - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
