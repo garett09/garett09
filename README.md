@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
- - 🚯 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)<!-- MEMES:END -->
+ - 🚖 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)
+ - 🚯 [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
+ - 🚯 [Street view goes bbbbbrrrrrrrrrrrrr](http://9gag.com/gag/aPgx97B)<!-- MEMES:END -->
 
 --- 
 
