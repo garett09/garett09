@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How deflect difficulty works in Wo Long: Fallen Dynasty](https://www.pcgamer.com/wo-long-fallen-dynasty-deflect-difficulty)
- - [Sabrent 6-Port Steam Deck Dock](https://www.pcgamer.com/sabrent-6-port-steam-deck-dock-review)
- - [Call of Duty: Modern Warfare II and Warzone 2.0 Season 02 Reloaded arrives March 15](https://blog.playstation.com/2023/03/09/call-of-duty-modern-warfare-ii-and-warzone-2-0-season-02-reloaded-arrives-march-15/)<!-- GAME:END -->
+ - [Total War: Warhammer III celebrates Immortal Empires with free weekend](https://www.pcgamer.com/total-war-warhammer-iii-celebrates-immortal-empires-with-free-weekend)
+ - [Play the Roguelike Board Game, Repel the Enemy and Defend the Rook on March 16th](https://news.xbox.com/en-us/2023/03/09/repel-the-enemy-and-defend-the-rook-on-march-16th/)
+ - [Oscar nominees drew their characters winning, and it’s the absolute best](https://www.polygon.com/23632317/oscars-2023-best-animation-nominees-interviews)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
