@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Naruto Is Finally Ending Now &lpar;And Hopefully The Fandom Wars, Too&rpar;](https://kotaku.com/naruto-boruto-anime-ending-fandom-one-piece-discourse-1850208953)
- - [Free Play Days – Tom Clancy’s Rainbow Six Siege, WRC Generations, Dead by Daylight, and Cities: Skylines – Xbox One Edition](https://news.xbox.com/en-us/2023/03/09/free-play-days-tom-clancys-rainbow-six-siege-wrc-generations-dead-by-daylight-and-cities-skylines-xbox-one-edition/)
- - [Report: Suicide Squad Game Delayed Again After Negative Fan Reaction](https://kotaku.com/dc-suicide-squad-delay-kill-the-justice-league-batman-1850208924)<!-- GAME:END -->
+ - [Here’s Every Single Video Game Remake You Can Play In 2023](https://kotaku.com/video-game-releases-2023-re4-silent-hill-switch-ps5-pc-1850209433)
+ - [How to get binoculars in Sons of the Forest](https://www.polygon.com/guides/23632811/sons-of-the-forest-binoculars-location-where-to-find-patch-01)
+ - [New RoboCop game isn’t just about violence — you can also hand out parking tickets](https://www.polygon.com/23632701/robocop-rogue-city-release-date-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
