@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese AI surveillance firms iFlytek and SenseTime are evading US sanctions to access high-end chips through cloud providers and other intermediaries &lpar;Financial Times&rpar;](http://www.techmeme.com/230309/p2#a230309p2)
  - [Poll: How do you primarily use Spotify?](https://www.androidauthority.com/how-use-spotify-poll-3294648/)
- - [Experts criticize Koko, a mental health nonprofit, for directing some at-risk users on Facebook, Tumblr, Discord, and other platforms to a chatbot for a study &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230309/p1#a230309p1)
- - [Microsoft says it crossed 100M DAUs for Bing and the new Bing preview has millions of active users, of which roughly a third are new to the search engine &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230308/p38#a230308p38)<!-- TECH:END -->
+ - [Experts criticize Koko, a mental health nonprofit, for directing some at-risk users on Facebook, Tumblr, Discord, and other platforms to a chatbot for a study &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230309/p1#a230309p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
