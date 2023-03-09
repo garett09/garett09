@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because it\u2019s too f*kin expensive](http://9gag.com/gag/a2KMZpe)
- - 🚯 [Why?](http://9gag.com/gag/axoW76M)
- - 🚯 [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)<!-- MEMES:END -->
+ - 🚖 [Nice doing business with you](http://9gag.com/gag/aKE1D03)
+ - 🚯 [Fat people be like](http://9gag.com/gag/aWGp1L4)
+ - 🚯 [One thing lead to another.](http://9gag.com/gag/a2KMR1e)<!-- MEMES:END -->
 
 --- 
 
