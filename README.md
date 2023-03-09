@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congressman Darin LaHood Says FBI Targeted Him With Unlawful &#39;Backdoor&#39; Searches](https://www.wired.com/story/darin-lahood-fbi-backdoor-search/)
- - [Oracle reports Q3 revenue up 18% YoY to $12.39B, vs. $12.42B est., and cloud services and license support revenue up 17% YoY to $8.9B &lpar;Reuters&rpar;](http://www.techmeme.com/230309/p29#a230309p29)
- - [New York AG files suit against KuCoin, alleging the crypto exchange offers tokens, including ETH, that meet the definition of a security, without registering &lpar;CoinDesk&rpar;](http://www.techmeme.com/230309/p28#a230309p28)<!-- TECH:END -->
+ - [Amazon’s plans for a Creed cinematic universe might lead to an anime series](https://www.theverge.com/2023/3/9/23632919/amazon-creed-cinematic-universe-michael-b-jordan)
+ - [Suicide Squad: Kill the Justice League Reportedly Delayed Again     - CNET](https://www.cnet.com/tech/gaming/suicide-squad-kill-the-justice-league-reportedly-delayed-again/#ftag=CAD590a51e)
+ - [Here’s the final trailer for The Super Mario Bros. Movie](https://www.theverge.com/23589501/super-mario-bros-movie-final-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
