@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoundCloud names Eliah Seton as its new CEO, effective immediately; Seton succeeds Michael Weissman, who had been CEO since 2021 &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230309/p21#a230309p21)
- - [Microsoft makes ChatGPT available in its own Azure OpenAI service, letting developers and businesses add the conversational AI to their apps and services &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230309/p20#a230309p20)
- - [Yes, ChatGPT Is Coming for Your Office Job](https://www.wired.com/story/yes-chatgpt-is-coming-for-your-office-job/)<!-- TECH:END -->
+ - [Railsr, the UK-based embedded finance tech startup formerly called Railsbank, goes into bankruptcy under new consortium owner; it was valued at ~$1B in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230309/p23#a230309p23)
+ - [Reddit plans to shut down its Clubhouse-style live audio tool Reddit Talk on March 21, saying adding audio needs &quot;significant work&quot;; Talk launched in April 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230309/p22#a230309p22)
+ - [&#39;The Last of Us&#39; Is a Parable for Pandemic Parents](https://www.wired.com/story/last-of-uscovid-19-pandemic-parenting/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
