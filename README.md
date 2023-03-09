@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you???](http://9gag.com/gag/aqeRn5Y)
- - 🚯 [I can&#39;t even sleep anymore](http://9gag.com/gag/a4onEnZ)
- - 🚯 [Happy birthday](http://9gag.com/gag/aL1Lpjg)<!-- MEMES:END -->
+ - 🚖 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
+ - 🚯 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
+ - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)<!-- MEMES:END -->
 
 --- 
 
