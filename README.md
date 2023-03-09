@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
- - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
- - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
+ - 🚖 [Thank you???](http://9gag.com/gag/aqeRn5Y)
+ - 🚯 [I can&#39;t even sleep anymore](http://9gag.com/gag/a4onEnZ)
+ - 🚯 [Happy birthday](http://9gag.com/gag/aL1Lpjg)<!-- MEMES:END -->
 
 --- 
 
