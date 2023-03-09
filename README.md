@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All of them doing self-insert character, but who is the fail here, i wonder](http://9gag.com/gag/aPgx7nG)
- - 🚯 [During his inauguration speech, the new President of the Czech Republic recalled the injustice of World War II on Czechoslovakia and called for continued support for Ukraine until its victory](http://9gag.com/gag/a8qAGzZ)
- - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)<!-- MEMES:END -->
+ - 🚖 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
+ - 🚯 [We live in a society](http://9gag.com/gag/avQWOBE)
+ - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
 
 --- 
 
