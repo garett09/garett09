@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On the Trail of the Fentanyl King](https://www.wired.com/story/on-the-trail-of-the-fentanyl-king/)
- - [An interview with Google Cloud&#39;s Jack Buser on Google&#39;s post-Stadia gaming strategy, dubbed Google Cloud for Live Games, hoping to help companies scale games &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230309/p8#a230309p8)
- - [Goertek VP resigns after saying suppliers are leaving China](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Plus review: This one is just right](https://www.androidauthority.com/samsung-galaxy-s23-plus-review-3288761/)
+ - [A look at VISTA X-62A, an AI-operated F-16 test jet, considered to be a crucial first step toward US Air Force&#39;s plans to build unmanned combat aerial vehicles &lpar;Tom Ward/Wired&rpar;](http://www.techmeme.com/230309/p11#a230309p11)
+ - [No One Knows if You Need Another Covid Booster](https://www.wired.com/story/cellular-immunity-covid-boosters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
