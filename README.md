@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Plus review: This one is just right](https://www.androidauthority.com/samsung-galaxy-s23-plus-review-3288761/)
- - [A look at VISTA X-62A, an AI-operated F-16 test jet, considered to be a crucial first step toward US Air Force&#39;s plans to build unmanned combat aerial vehicles &lpar;Tom Ward/Wired&rpar;](http://www.techmeme.com/230309/p11#a230309p11)
- - [No One Knows if You Need Another Covid Booster](https://www.wired.com/story/cellular-immunity-covid-boosters/)<!-- TECH:END -->
+ - [The Good and Bad of ChatGPT in Schools](https://www.wired.com/story/gadget-lab-podcast-589/)
+ - [An Apple manufacturer&#39;s VP has quit after talking about China exodus](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)
+ - [Apple wants you to wave at your devices to shut them all up](https://appleinsider.com/articles/23/03/09/apple-wants-you-to-wave-at-your-devices-to-shut-them-all-up?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
