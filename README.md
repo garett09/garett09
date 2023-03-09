@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - 🚯 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
- - 🚯 [We are not equal](http://9gag.com/gag/aWGp69Z)<!-- MEMES:END -->
+ - 🚖 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
+ - 🚯 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)<!-- MEMES:END -->
 
 --- 
 
