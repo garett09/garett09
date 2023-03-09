@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark and Darker studio raided by police following &#39;stolen&#39; code allegations](https://www.pcgamer.com/dark-and-darker-studio-raided-by-police-following-stolen-code-allegations)
- - [House of the Dragon’s five new dragons could hint at season 2’s storyline](https://www.polygon.com/23631284/house-dragon-season-2-plot-game-of-thrones-teaser-winds-of-winter)
- - [New Lego Jurassic Park Set Contains Giant Pile Of Poop](https://kotaku.com/lego-jurassic-park-poop-pile-30th-anniversary-new-sets-1850205208)<!-- GAME:END -->
+ - [Inkulinati Is A Beautiful Tactics Game](https://kotaku.com/inkulinati-pc-xbox-medieval-art-manuscript-impressions-1850205499)
+ - [Police Raid Studio Accused Of Stealing &#39;Assets &amp; Personnel&#39; From Rival](https://kotaku.com/dark-and-darker-mmo-steam-nexon-police-raid-crime-leak-1850205223)
+ - [Sony Sounds More Paranoid Than Ever About Xbox Owning Call Of Duty [Update]](https://kotaku.com/sony-xbox-call-of-duty-activision-deal-merger-cma-buggy-1850204459)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
