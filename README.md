@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice doing business with you](http://9gag.com/gag/aKE1D03)
- - 🚯 [Fat people be like](http://9gag.com/gag/aWGp1L4)
- - 🚯 [One thing lead to another.](http://9gag.com/gag/a2KMR1e)<!-- MEMES:END -->
+ - 🚖 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
+ - 🚯 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
+ - 🚯 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
 
 --- 
 
