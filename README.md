@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah-based Consensus, which helps companies make personalized customer demos, raised $110M from Sumeru Equity Partners, bringing its total funding to $139M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230308/p33#a230308p33)
- - [Uh-oh! The crypto collapse has reached the real financial system](https://www.theverge.com/2023/3/4/23623964/crypto-silvergate-bank-run-stablecoins-dollars)
- - [The best Roku deals: Save $200 on a Roku smart TV](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
+ - [Third Studio Display 16.4 firmware beta now available](https://appleinsider.com/articles/23/03/09/third-studio-display-164-firmware-beta-now-available?utm_medium=rss)
+ - [The FBI is probing a data breach of DC Health Link servers impacting thousands, including US House members and staff; some data is already up for sale online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230308/p34#a230308p34)
+ - [Best Noise-Canceling Headphones Under $100 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
