@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in spring 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
- - [Epic launches self-publishing tools, calls out Valve again: &#39;Steam has created a real problem for the industry&#39;](https://www.pcgamer.com/epic-games-store-self-publishing)
- - [Epic gave away &#39;nearly 700 million&#39; free games last year, will keep it going this year](https://www.pcgamer.com/epic-games-store-2023-free-program)<!-- GAME:END -->
+ - [Activision’s Poster-In-Chief Gives Wild Look Inside Microsoft Sony Fight](https://kotaku.com/activision-call-duty-mwii-sony-microsoft-playstation-1850207404)
+ - [Discord is injecting AI into every server, starting with ChatGPT](https://www.pcgamer.com/discord-is-injecting-ai-into-every-server-starting-with-chatgpt)
+ - [Inside the development of the latest PS5 system software update](https://blog.playstation.com/2023/03/09/inside-the-development-of-the-latest-ps5-system-software-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
