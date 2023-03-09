@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Apple Music Classical app](https://appleinsider.com/articles/23/03/09/apple-launches-apple-music-classical-app?utm_medium=rss)
- - [Apple announces Apple Music Classical, offering over 5M tracks, available for pre-order now as part of an Apple Music subscription, launching on March 28 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230309/p15#a230309p15)
- - [7 Best Cloud Storage Services &lpar;2023&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)<!-- TECH:END -->
+ - [Save $150 on the Galaxy Watch 4 Classic, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [Epic Games lets developers self-publish to Epic Games Store, taking a 12% commission on game sales and no cut of IAP if developers use their own payment methods &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230309/p16#a230309p16)
+ - [Apple launches Apple Music Classical app](https://appleinsider.com/articles/23/03/09/apple-launches-apple-music-classical-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
