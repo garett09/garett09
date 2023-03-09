@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - 🚯 [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
- - 🚯 [Super Mario wears a hat because his creator, Shigeru Miyamoto, couldn&#39;t draw hair](http://9gag.com/gag/aOx2rPv)<!-- MEMES:END -->
+ - 🚯 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
+ - 🚯 [We are not equal](http://9gag.com/gag/aWGp69Z)<!-- MEMES:END -->
 
 --- 
 
