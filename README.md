@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese AI surveillance firms iFlytek and SenseTime are evading US sanctions to access high-end chips through cloud providers and other intermediaries &lpar;Financial Times&rpar;](http://www.techmeme.com/230309/p2#a230309p2)
- - [Poll: How do you primarily use Spotify?](https://www.androidauthority.com/how-use-spotify-poll-3294648/)
- - [Experts criticize Koko, a mental health nonprofit, for directing some at-risk users on Facebook, Tumblr, Discord, and other platforms to a chatbot for a study &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230309/p1#a230309p1)<!-- TECH:END -->
+ - [Samsung rolls out March security update for Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
+ - [Radisys Corp., a unit of Jio Platforms, will buy US-based communications equipment maker Mimosa Networks for $60M, with the deal expected to close in Q3 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230309/p4#a230309p4)
+ - [The White House&#39;s proposed budget will include a provision to close tax loss harvesting on crypto transactions, with the change expected to raise up to $24B &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230309/p3#a230309p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
