@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
- - 🚯 [We live in a society](http://9gag.com/gag/avQWOBE)
+ - 🚖 [Completely Normal Phenomenon](http://9gag.com/gag/aL1LwNA)
+ - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
  - 🚯 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
 
 --- 
