@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games Store launches self-publishing, requires cross-play for multiplayer games](https://www.polygon.com/23632223/epic-games-store-self-publishing-pc-cross-play)
- - [Jennifer Lawrence’s new raunchy comedy looks absolutely hilarious](https://www.polygon.com/23632298/no-hard-feelings-trailer-release-date-jennifer-lawrence)
- - [The best Steven Spielberg movies, according to us](https://www.polygon.com/23631001/best-steven-spielberg-movies)<!-- GAME:END -->
+ - [How deflect difficulty works in Wo Long: Fallen Dynasty](https://www.pcgamer.com/wo-long-fallen-dynasty-deflect-difficulty)
+ - [Sabrent 6-Port Steam Deck Dock](https://www.pcgamer.com/sabrent-6-port-steam-deck-dock-review)
+ - [Call of Duty: Modern Warfare II and Warzone 2.0 Season 02 Reloaded arrives March 15](https://blog.playstation.com/2023/03/09/call-of-duty-modern-warfare-ii-and-warzone-2-0-season-02-reloaded-arrives-march-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
