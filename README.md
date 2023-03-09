@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - 🚯 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
- - 🚯 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
+ - 🚖 [All of them doing self-insert character, but who is the fail here, i wonder](http://9gag.com/gag/aPgx7nG)
+ - 🚯 [During his inauguration speech, the new President of the Czech Republic recalled the injustice of World War II on Czechoslovakia and called for continued support for Ukraine until its victory](http://9gag.com/gag/a8qAGzZ)
+ - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)<!-- MEMES:END -->
 
 --- 
 
