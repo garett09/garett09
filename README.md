@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK police shocked to discover taser disguised as iPhone](https://appleinsider.com/articles/23/03/08/uk-police-shocked-to-discover-taser-disguised-as-iphone?utm_medium=rss)
- - [Sources: Anthropic, which focuses on researching AI safety, raised $300M led by Spark Capital at a $4.1B pre-money valuation, after Google invested $400M &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230308/p31#a230308p31)
- - [Android 14 is hiding an emoji wallpaper maker for the Pixel](https://www.androidauthority.com/android-14-wallpaper-maker-3294502/)<!-- TECH:END -->
+ - [Utah-based Consensus, which helps companies make personalized customer demos, raised $110M from Sumeru Equity Partners, bringing its total funding to $139M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230308/p33#a230308p33)
+ - [Uh-oh! The crypto collapse has reached the real financial system](https://www.theverge.com/2023/3/4/23623964/crypto-silvergate-bank-run-stablecoins-dollars)
+ - [The best Roku deals: Save $200 on a Roku smart TV](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
