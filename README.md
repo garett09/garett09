@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Nvidia CEO Jensen Huang on the company&#39;s role in the generative AI explosion, H100&#39;s transformer engine, US-China trade tensions, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230309/p6#a230309p6)
- - [Milton Keynes-based Envisics, which is building hologram tech for in-car monitors, raised a $50M+ Series C at a $500M valuation, up from ~$250M in October 2020 &lpar;Peter Campbell/Financial Times&rpar;](http://www.techmeme.com/230309/p5#a230309p5)
- - [Daily Authority: 🔎 The fall and rise of Bing &lpar;?&rpar;](https://www.androidauthority.com/daily-authority-march-9-2023-3294089/)<!-- TECH:END -->
+ - [On the Trail of the Fentanyl King](https://www.wired.com/story/on-the-trail-of-the-fentanyl-king/)
+ - [An interview with Google Cloud&#39;s Jack Buser on Google&#39;s post-Stadia gaming strategy, dubbed Google Cloud for Live Games, hoping to help companies scale games &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230309/p8#a230309p8)
+ - [Goertek VP resigns after saying suppliers are leaving China](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
