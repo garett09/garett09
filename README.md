@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
- - 🚯 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - 🚖 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
+ - 🚯 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)
  - 🚯 [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)<!-- MEMES:END -->
 
 --- 
