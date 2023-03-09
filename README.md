@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision’s Poster-In-Chief Gives Wild Look Inside Microsoft Sony Fight](https://kotaku.com/activision-call-duty-mwii-sony-microsoft-playstation-1850207404)
- - [Discord is injecting AI into every server, starting with ChatGPT](https://www.pcgamer.com/discord-is-injecting-ai-into-every-server-starting-with-chatgpt)
- - [Inside the development of the latest PS5 system software update](https://blog.playstation.com/2023/03/09/inside-the-development-of-the-latest-ps5-system-software-update/)<!-- GAME:END -->
+ - [Epic Games Store launches self-publishing, requires cross-play for multiplayer games](https://www.polygon.com/23632223/epic-games-store-self-publishing-pc-cross-play)
+ - [Jennifer Lawrence’s new raunchy comedy looks absolutely hilarious](https://www.polygon.com/23632298/no-hard-feelings-trailer-release-date-jennifer-lawrence)
+ - [The best Steven Spielberg movies, according to us](https://www.polygon.com/23631001/best-steven-spielberg-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
