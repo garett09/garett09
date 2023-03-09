@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Audiophile Gear &lpar;2023&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)
- - [An AI ‘Sexbot’ Fed My Hidden Desires—and Then Refused to Play](https://www.wired.com/story/replika-chatbot-sexuality-ai/)
- - [How to build your own RAID for macOS on a budget](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-raid-for-macos-on-a-budget?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches Apple Music Classical app](https://appleinsider.com/articles/23/03/09/apple-launches-apple-music-classical-app?utm_medium=rss)
+ - [Apple announces Apple Music Classical, offering over 5M tracks, available for pre-order now as part of an Apple Music subscription, launching on March 28 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230309/p15#a230309p15)
+ - [7 Best Cloud Storage Services &lpar;2023&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
