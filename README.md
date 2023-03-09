@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp Has Started a Fight With the UK About Encryption](https://www.wired.com/story/whatsapp-online-safety-uk-encryption/)
- - [The 10 Best Shows on HBO Max Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [8 shows like The Last of Us to check out while we wait for season 2](https://www.androidauthority.com/shows-like-the-last-of-us-hbo-max-3293779/)<!-- TECH:END -->
+ - [GM will give the majority of its US team cash if they quit in the next two weeks](https://www.theverge.com/2023/3/9/23632493/gm-buyouts-ev-transition-layoffs-cost-cutting)
+ - [Over 30 of the best Chromebook deals available right now](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [This M2 Max MacBook Pro with 64GB RAM is $200 off &amp; in stock](https://appleinsider.com/articles/23/03/09/this-m2-max-macbook-pro-with-64gb-ram-is-200-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
