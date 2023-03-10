@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
- - 🚯 [Lmao](http://9gag.com/gag/aYVGoX0)
- - 🚯 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)<!-- MEMES:END -->
+ - 🚖 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
+ - 🚯 [We live in a society](http://9gag.com/gag/avQWOBE)
+ - 🚯 [Madlad does the world a service](http://9gag.com/gag/aKE1m6W)<!-- MEMES:END -->
 
 --- 
 
