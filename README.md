@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)
- - 🚯 [Natural antidepressant](http://9gag.com/gag/anzOgBn)
- - 🚯 [Trippy](http://9gag.com/gag/aNwLpZb)<!-- MEMES:END -->
+ - 🚖 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
+ - 🚯 [Bill Burr was right](http://9gag.com/gag/aOx2xpy)
+ - 🚯 [Guy robs AutoZone in Detroit. Store employees say this isn&#39;t the first time he did this. He&#39;s a repeat offender who has done this several times already.](http://9gag.com/gag/anzOg2z)<!-- MEMES:END -->
 
 --- 
 
