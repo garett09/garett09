@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
- - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
+ - 🚖 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
+ - 🚯 [And action!](http://9gag.com/gag/aBdZneZ)
+ - 🚯 [Resist if you can](http://9gag.com/gag/a4on3AA)<!-- MEMES:END -->
 
 --- 
 
