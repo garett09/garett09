@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Become Mega in Fortnite Battle Royale Chapter 4 Season 2](https://blog.playstation.com/2023/03/10/become-mega-in-fortnite-battle-royale-chapter-4-season-2/)
- - [One Big Game: UK Game Studios Tackle 24-Hour Football Match for SpecialEffect](https://news.xbox.com/en-us/2023/03/10/one-big-game-rare-playground-soccer-football-charity-specialeffect/)
- - [We have been dying to talk about part 2 of You season 4](https://www.polygon.com/reviews/23632369/you-season-4-part-2-spoilers-review)<!-- GAME:END -->
+ - [PlayStation Store: February 2023’s top downloads](https://blog.playstation.com/2023/03/10/playstation-store-february-2023s-top-downloads/)
+ - [PlayStation Store: February 2023’s top downloads](https://blog.playstation.com/2023/03/10/playstation-store-february-2023s-top-downloads/)
+ - [Next Week on Xbox: New Games for March 13 to 17](https://news.xbox.com/en-us/2023/03/10/next-week-on-xbox-new-games-for-march-13-to-17/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
