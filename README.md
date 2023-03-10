@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
- - 🚯 [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
+ - 🚖 [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)
+ - 🚯 [Natural antidepressant](http://9gag.com/gag/anzOgBn)
  - 🚯 [Trippy](http://9gag.com/gag/aNwLpZb)<!-- MEMES:END -->
 
 --- 
