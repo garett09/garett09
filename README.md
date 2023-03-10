@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
- - 🚯 [We live in a society](http://9gag.com/gag/avQWOBE)
- - 🚯 [Madlad does the world a service](http://9gag.com/gag/aKE1m6W)<!-- MEMES:END -->
+ - 🚖 [I can&#39;t even sleep anymore](http://9gag.com/gag/a4onEnZ)
+ - 🚯 [Is this what happiness looks like?](http://9gag.com/gag/a3ZGwje)
+ - 🚯 [That&#39;s cooking oil!](http://9gag.com/gag/anzOQmz)<!-- MEMES:END -->
 
 --- 
 
