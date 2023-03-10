@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Preorders start for iPhone 14 &amp; iPhone 14 Pro in yellow](https://appleinsider.com/articles/23/03/10/preorders-start-for-iphone-14-iphone-14-pro-in-yellow?utm_medium=rss)
- - [Sources: after lobbying by Apple, Foxconn, and others, India&#39;s Karnataka state will allow two-shift production and 12-hour shifts, similar to practices in China &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p5#a230310p5)
- - [On Asphyxiation From Trains and Other Inaccurate Predictions](https://www.wired.com/story/technology-predictions-history/)<!-- TECH:END -->
+ - [First new iPhone 14 reviews try to benchmark yellow](https://appleinsider.com/articles/23/03/10/first-new-iphone-14-reviews-try-to-benchmark-yellow?utm_medium=rss)
+ - [Sources: Silicon Valley Bank Financial is in talks to sell itself after attempts to raise capital failed &lpar;CNBC&rpar;](http://www.techmeme.com/230310/p7#a230310p7)
+ - [The Netherlands, like ASML, is trying to find a middle ground between the US and China on chip sanctions, with recent plans stopping short of Biden&#39;s 2022 rules &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/230310/p6#a230310p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
