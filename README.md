@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
- - 🚯 [And action!](http://9gag.com/gag/aBdZneZ)
- - 🚯 [Resist if you can](http://9gag.com/gag/a4on3AA)<!-- MEMES:END -->
+ - 🚖 [Hey you ! Yeah you ! Tell me !!!](http://9gag.com/gag/abvez9E)
+ - 🚯 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
+ - 🚯 [Making his dads day](http://9gag.com/gag/a1P71rD)<!-- MEMES:END -->
 
 --- 
 
