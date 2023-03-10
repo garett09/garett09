@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this what happiness looks like?](http://9gag.com/gag/a3ZGwje)
- - 🚯 [Ferrari spent millions developing a Mazda MX-30](http://9gag.com/gag/armWVeK)
- - 🚯 [Didn&#39;t know you could read](http://9gag.com/gag/aKE16qj)<!-- MEMES:END -->
+ - 🚖 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
 
 --- 
 
