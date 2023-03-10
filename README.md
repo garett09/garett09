@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [March Madness 2023: Selection Sunday, Tournament Schedule, Bracket, How to Watch and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-selection-sunday-tournament-schedule-bracket-how-to-watch-and-more/#ftag=CAD590a51e)
- - [Meet the Teens Who Live and Breathe Robots     - CNET](https://www.cnet.com/science/meet-the-teens-who-live-and-breathe-robots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 37 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 42 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [A closer look at the rapid collapse of Silicon Valley Bank, the 16th largest bank in the US &lpar;Marc Rubinstein/Net Interest&rpar;](http://www.techmeme.com/230310/p15#a230310p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
