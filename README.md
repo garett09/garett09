@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
  - 🚯 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
- - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
+ - 🚯 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
 
 --- 
 
