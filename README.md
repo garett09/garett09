@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: February 2023’s top downloads](https://blog.playstation.com/2023/03/10/playstation-store-february-2023s-top-downloads/)
- - [PlayStation Store: February 2023’s top downloads](https://blog.playstation.com/2023/03/10/playstation-store-february-2023s-top-downloads/)
- - [Next Week on Xbox: New Games for March 13 to 17](https://news.xbox.com/en-us/2023/03/10/next-week-on-xbox-new-games-for-march-13-to-17/)<!-- GAME:END -->
+ - [I&#39;m too big of a wuss for horror games, but they&#39;re so goddamn incredible I can&#39;t stay away](https://www.pcgamer.com/im-too-big-of-a-wuss-for-horror-games-but-theyre-so-goddamn-incredible-i-cant-stay-away)
+ - [Wah! It’s Wario Day, too](https://www.polygon.com/deals/2023/3/10/23632076/wario-day-mario-gifts)
+ - [GTA RP: How to play on GTA 5 roleplaying servers](https://www.pcgamer.com/gta-rp-roleplay-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
