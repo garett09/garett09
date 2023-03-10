@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will launch HomePod with 7-inch screen in 2024, says Kuo](https://appleinsider.com/articles/23/03/10/apple-will-launch-homepod-with-screen-in-2024-says-kuo?utm_medium=rss)
- - [Motorola Razr 2023 live image leak is giving us OG Razr V3 vibes](https://www.androidauthority.com/motorola-razr-2023-live-image-3295119/)
- - [Kuo: Apple will unveil a redesigned HomePod with a built-in 7-inch display in H1 2024, enabling tighter integration with Apple&#39;s other hardware products &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230310/p2#a230310p2)<!-- TECH:END -->
+ - [Bitcoin falls ~8% to ~$19,900, a near two-month low, and ether falls 8%+ to ~$1,400, after a selloff of US stocks, rising interest rates, and troubles at SVB &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230310/p3#a230310p3)
+ - [Get Ready to Meet the ChatGPT Clones](https://www.wired.com/story/get-ready-to-meet-the-chatgpt-clones/)
+ - [The World’s First 3D-Printed Rocket Is About to Launch](https://www.wired.com/story/the-worlds-first-3d-printed-rocket-is-about-to-launch-relativity-space/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
