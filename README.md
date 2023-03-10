@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 37 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 42 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [A closer look at the rapid collapse of Silicon Valley Bank, the 16th largest bank in the US &lpar;Marc Rubinstein/Net Interest&rpar;](http://www.techmeme.com/230310/p15#a230310p15)<!-- TECH:END -->
+ - [Sources: Twitter&#39;s Enterprise Packages for API access start at $42K/month for 50M tweets, or ~0.3% of its monthly output, 25K filters, and 50K archive queries &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230310/p16#a230310p16)
+ - [Fortnite Goes Mega in Chapter 4, Season 2     - CNET](https://www.cnet.com/tech/gaming/fortnite-goes-mega-in-chapter-4-season-2/#ftag=CAD590a51e)
+ - [Apple&#39;s new yellow iPhone 14 is up to $1,000 off with preorder deals](https://appleinsider.com/articles/23/03/10/apples-new-yellow-iphone-14-is-up-to-1000-off-with-preorder-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
