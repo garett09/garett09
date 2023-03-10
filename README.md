@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His barber did him dirty](http://9gag.com/gag/amAWAg2)
- - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
- - 🚯 [Dutch Milkmaid](http://9gag.com/gag/aMEdEwX)<!-- MEMES:END -->
+ - 🚖 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
+ - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
+ - 🚯 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)<!-- MEMES:END -->
 
 --- 
 
