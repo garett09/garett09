@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s plans for a Creed cinematic universe might lead to an anime series](https://www.theverge.com/2023/3/9/23632919/amazon-creed-cinematic-universe-michael-b-jordan)
- - [Suicide Squad: Kill the Justice League Reportedly Delayed Again     - CNET](https://www.cnet.com/tech/gaming/suicide-squad-kill-the-justice-league-reportedly-delayed-again/#ftag=CAD590a51e)
- - [Here’s the final trailer for The Super Mario Bros. Movie](https://www.theverge.com/23589501/super-mario-bros-movie-final-trailer)<!-- TECH:END -->
+ - [Matchday, a Web3 and mobile gaming startup developing casual soccer games licensed by FIFA, raised a $21M seed from Lionel Messi&#39;s Play Time and others &lpar;Chris Morris/Fast Company&rpar;](http://www.techmeme.com/230309/p31#a230309p31)
+ - [Apple TV+ comedy &#39;Shrinking&#39; gets season two renewal](https://appleinsider.com/articles/23/03/10/apple-tv-comedy-shrinking-gets-season-two-renewal?utm_medium=rss)
+ - [Apple&#39;s App Store pricing gets a major overhaul](https://appleinsider.com/articles/23/03/09/apples-app-store-pricing-gets-a-major-overhaul?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
