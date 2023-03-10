@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
- - 🚯 [Bill Burr was right](http://9gag.com/gag/aOx2xpy)
- - 🚯 [Guy robs AutoZone in Detroit. Store employees say this isn&#39;t the first time he did this. He&#39;s a repeat offender who has done this several times already.](http://9gag.com/gag/anzOg2z)<!-- MEMES:END -->
+ - 🚖 [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
+ - 🚯 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
+ - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
 
 --- 
 
