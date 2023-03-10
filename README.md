@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: Chinese game developers accounted for 40 of the world&#39;s top 100 mobile game publishers by revenue in February, bringing in ~$1.85B &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230310/p9#a230310p9)
- - [Labodet MagSafe Ring review: The strongest magnetic grip around](https://appleinsider.com/articles/23/03/10/labodet-magsafe-ring-review-the-strongest-magnetic-grip-around?utm_medium=rss)
- - [Deals: up to $500 off MacBook Pros, $130 off iPhone 13 Pro Max, 35% off Apple Watch, more](https://appleinsider.com/articles/23/03/10/deals-up-to-500-off-macbook-pros-130-off-iphone-13-pro-max-35-off-apple-watch-more?utm_medium=rss)<!-- TECH:END -->
+ - [Last Year&#39;s Sci-Fi Was More Genre-Bending Than Ever](https://www.wired.com/2023/03/geeks-guide-best-sci-fi-2022/)
+ - [California regulators close Silicon Valley Bank and appoint the FDIC as receiver to protect insured deposits &lpar;CNBC&rpar;](http://www.techmeme.com/230310/p11#a230310p11)
+ - [AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal](https://www.androidauthority.com/microsoft-gpt4-update-3295203/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
