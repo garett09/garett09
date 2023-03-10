@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German states Bavaria and North Rhine-Westphalia are reviewing how police use Palantir&#39;s tech after a court ruled laws on data mining by police were too broad &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p12#a230310p12)
- - [Apple got everything it wanted at the annual shareholder meeting](https://appleinsider.com/articles/23/03/10/apple-got-everything-it-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)
- - [Twitter’s $42,000-per-Month API Prices Out Nearly Everyone](https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/)<!-- TECH:END -->
+ - [Google Pixel 8: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [March Madness 2023: Selection Sunday, Tournament Schedule, Bracket, How to Watch and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-selection-sunday-tournament-schedule-bracket-how-to-watch-and-more/#ftag=CAD590a51e)
+ - [Meet the Teens Who Live and Breathe Robots     - CNET](https://www.cnet.com/science/meet-the-teens-who-live-and-breathe-robots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
