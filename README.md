@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
- - 🚯 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
- - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)<!-- MEMES:END -->
+ - 🚖 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
+ - 🚯 [Lmao](http://9gag.com/gag/aYVGoX0)
+ - 🚯 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)<!-- MEMES:END -->
 
 --- 
 
