@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s Switch OLED is $50 off and includes $140 worth of extras at Sam’s Club](https://www.polygon.com/deals/2023/3/10/23634363/nintendo-switch-oled-deal-accessories-bundle-sams-club)
- - [This Week on Xbox: Starfield’s Release Revealed, Huge Game Announces, and More](https://news.xbox.com/en-us/2023/03/10/this-week-on-xbox-starfields-release-revealed-huge-game-announces-and-more/)
- - [Stranger Things Actor Says She&#39;s Streaming On Twitch More Due To Industry Sexual Harassment](https://kotaku.com/stranger-things-twitch-streaming-sexual-harassment-1850213893)<!-- GAME:END -->
+ - [Fortnite drops Windows 7 and 8 support](https://www.pcgamer.com/fortnite-drops-windows-7-and-8-support)
+ - [I Won&#39;t Be Silenced: Colin Farrell&#39;s New Penguin Look Gives Sexy Italian Man](https://kotaku.com/colin-farrell-penguin-show-hbox-max-set-pics-1850213829)
+ - [I Played The Next Promising Soulslike So You Don’t Have To](https://kotaku.com/clash-artifacts-chaos-review-buggy-soulslike-zeno-ace-1850213994)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
