@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Resist if you can](http://9gag.com/gag/a4on3AA)
- - 🚯 [Making his dads day](http://9gag.com/gag/a1P71rD)
- - 🚯 [Guy robs AutoZone in Detroit. Store employees say this isn&#39;t the first time he did this. He&#39;s a repeat offender who has done this several times already.](http://9gag.com/gag/anzOg2z)<!-- MEMES:END -->
+ - 🚖 [This guy have 36 wow accounts and raids with himself, because he hates to rely on strangers](http://9gag.com/gag/aOx20nR)
+ - 🚯 [Hey you ! Yeah you ! Tell me !!!](http://9gag.com/gag/abvez9E)
+ - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
 
 --- 
 
