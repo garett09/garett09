@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [His barber did him dirty](http://9gag.com/gag/amAWAg2)
- - 🚯 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
+ - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
  - 🚯 [Dutch Milkmaid](http://9gag.com/gag/aMEdEwX)<!-- MEMES:END -->
 
 --- 
