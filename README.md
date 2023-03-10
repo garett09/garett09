@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can&#39;t even sleep anymore](http://9gag.com/gag/a4onEnZ)
- - 🚯 [Is this what happiness looks like?](http://9gag.com/gag/a3ZGwje)
- - 🚯 [That&#39;s cooking oil!](http://9gag.com/gag/anzOQmz)<!-- MEMES:END -->
+ - 🚖 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
+ - 🚯 [Resist if you can](http://9gag.com/gag/a4on3AA)
+ - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)<!-- MEMES:END -->
 
 --- 
 
