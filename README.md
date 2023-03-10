@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matchday, a Web3 and mobile gaming startup developing casual soccer games licensed by FIFA, raised a $21M seed from Lionel Messi&#39;s Play Time and others &lpar;Chris Morris/Fast Company&rpar;](http://www.techmeme.com/230309/p31#a230309p31)
- - [Apple TV+ comedy &#39;Shrinking&#39; gets season two renewal](https://appleinsider.com/articles/23/03/10/apple-tv-comedy-shrinking-gets-season-two-renewal?utm_medium=rss)
- - [Apple&#39;s App Store pricing gets a major overhaul](https://appleinsider.com/articles/23/03/09/apples-app-store-pricing-gets-a-major-overhaul?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Meta pauses Reels Play bonuses in the US; launched in 2021, the program promised Facebook and Instagram creators up to $35K a month based on view counts &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230309/p32#a230309p32)
+ - [Reddit is sunsetting its Clubhouse clone](https://www.theverge.com/2023/3/9/23633172/reddit-talk-sunset-audio-clubhouse)
+ - [Can You Write Off Crypto Losses on Your Taxes?     - CNET](https://www.cnet.com/personal-finance/taxes/crypto-loss-tax-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
