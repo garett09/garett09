@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy have 36 wow accounts and raids with himself, because he hates to rely on strangers](http://9gag.com/gag/aOx20nR)
- - 🚯 [Hey you ! Yeah you ! Tell me !!!](http://9gag.com/gag/abvez9E)
- - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
+ - 🚖 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
+ - 🚯 [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
+ - 🚯 [Trippy](http://9gag.com/gag/aNwLpZb)<!-- MEMES:END -->
 
 --- 
 
