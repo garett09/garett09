@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m too big of a wuss for horror games, but they&#39;re so goddamn incredible I can&#39;t stay away](https://www.pcgamer.com/im-too-big-of-a-wuss-for-horror-games-but-theyre-so-goddamn-incredible-i-cant-stay-away)
- - [Wah! It’s Wario Day, too](https://www.polygon.com/deals/2023/3/10/23632076/wario-day-mario-gifts)
- - [GTA RP: How to play on GTA 5 roleplaying servers](https://www.pcgamer.com/gta-rp-roleplay-how-to)<!-- GAME:END -->
+ - [Share of the Week: Heroines](https://blog.playstation.com/2023/03/10/share-of-the-week-heroines/)
+ - [Knives Out: Talking Resident Evil 4’s Updated Combat with the Game’s Producer](https://news.xbox.com/en-us/2023/03/10/talking-resident-evil-4-updated-combat/)
+ - [I&#39;m beyond excited that Ghost Trick, one of the greatest DS games, is finally coming to PC on June 30](https://www.pcgamer.com/im-beyond-excited-that-ghost-trick-one-of-the-greatest-ds-games-is-finally-coming-to-pc-on-june-30)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
