@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
- - 🚯 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
- - 🚯 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)<!-- MEMES:END -->
+ - 🚖 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
+ - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
+ - 🚯 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)<!-- MEMES:END -->
 
 --- 
 
