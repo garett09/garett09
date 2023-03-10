@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the binoculars in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-binoculars-location)
- - [This physics-heavy, melee-focused immersive sim reminds me of Deus Ex: Invisible War in all the right ways](https://www.pcgamer.com/this-physics-heavy-melee-focused-immersive-sim-reminds-me-of-deus-ex-invisible-war-in-all-the-right-ways)
- - [Where to find the hang glider in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-hang-glider-location)<!-- GAME:END -->
+ - [The best Mario Day deals on toys and Legos](https://www.polygon.com/deals/2023/3/10/23631200/best-mario-day-deals-toys-legos-amiibo-plushies)
+ - [Fortnite Chapter 4 Season 2 battle pass skins list, including Thunder, Imani and Mizuki](https://www.polygon.com/fortnite-guide/23633615/chapter-4-season-2-battle-pass-skins-thunder-imani-mizuki-stray)
+ - [Nintendo’s ‘Choose One’ Switch bundle that comes with a free game is now available](https://www.polygon.com/23621906/nintendo-switch-bundle-mario-day-choose-one-free-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
