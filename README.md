@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last Year&#39;s Sci-Fi Was More Genre-Bending Than Ever](https://www.wired.com/2023/03/geeks-guide-best-sci-fi-2022/)
- - [California regulators close Silicon Valley Bank and appoint the FDIC as receiver to protect insured deposits &lpar;CNBC&rpar;](http://www.techmeme.com/230310/p11#a230310p11)
- - [AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal](https://www.androidauthority.com/microsoft-gpt4-update-3295203/)<!-- TECH:END -->
+ - [German states Bavaria and North Rhine-Westphalia are reviewing how police use Palantir&#39;s tech after a court ruled laws on data mining by police were too broad &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p12#a230310p12)
+ - [Apple got everything it wanted at the annual shareholder meeting](https://appleinsider.com/articles/23/03/10/apple-got-everything-it-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)
+ - [Twitter’s $42,000-per-Month API Prices Out Nearly Everyone](https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
