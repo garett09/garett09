@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Just Dropped A Resident Evil 4 Remake Demo](https://kotaku.com/capcom-resident-evil-4-remake-demo-release-date-re4-1850210001)
- - [The Xbox Series X is $50 off at Verizon](https://www.polygon.com/deals/2023/3/9/23632971/xbox-series-x-discount-deal-verizon)
- - [Final Super Mario Bros. Movie Trailer Debuts At Nintendo Direct](https://kotaku.com/super-mario-bros-movie-final-trailer-jack-black-pratt-1850090442)<!-- GAME:END -->
+ - [Resident Evil 4 remake just got its aptly titled Chainsaw demo](https://www.pcgamer.com/resident-evil-4-remake-just-got-its-aptly-titled-chainsaw-demo)
+ - [The same devs who ported A Link to the Past to PC are reverse-engineering another SNES classic](https://www.pcgamer.com/the-same-devs-who-ported-a-link-to-the-past-to-pc-are-reverse-engineering-another-snes-classic)
+ - [Here&#39;s the thing: Battlefield 2042 is really good now](https://www.pcgamer.com/heres-the-thing-battlefield-2042-is-really-good-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
