@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s CMA closes its antitrust probe into Google and Meta&#39;s alleged Jedi Blue deal on online ads, following a similar decision made by its EU counterparts &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230310/p8#a230310p8)
- - [55 Best Podcasts &lpar;2023&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
- - [How to Watch the 2023 Oscar Best Picture Nominees](https://www.wired.com/story/how-to-watch-2023-oscar-nominee-best-picture-movies-online/)<!-- TECH:END -->
+ - [Sensor Tower: Chinese game developers accounted for 40 of the world&#39;s top 100 mobile game publishers by revenue in February, bringing in ~$1.85B &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230310/p9#a230310p9)
+ - [Labodet MagSafe Ring review: The strongest magnetic grip around](https://appleinsider.com/articles/23/03/10/labodet-magsafe-ring-review-the-strongest-magnetic-grip-around?utm_medium=rss)
+ - [Deals: up to $500 off MacBook Pros, $130 off iPhone 13 Pro Max, 35% off Apple Watch, more](https://appleinsider.com/articles/23/03/10/deals-up-to-500-off-macbook-pros-130-off-iphone-13-pro-max-35-off-apple-watch-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
