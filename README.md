@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
- - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
- - 🚯 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)<!-- MEMES:END -->
+ - 🚖 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
+ - 🚯 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
+ - 🚯 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)<!-- MEMES:END -->
 
 --- 
 
