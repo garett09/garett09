@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to watch every Scream movie](https://www.polygon.com/23584953/watch-scream-movies-streaming-netflix-paramount-plus)
- - [United 1944 is a WW2 shooter where you make your own guns](https://www.pcgamer.com/united-1944-is-a-ww2-shooter-where-you-make-your-own-guns)
- - [Pokémon Go Elite Raids, explained](https://www.polygon.com/pokemon-go-guide/23634108/elite-raids-hoopa-regidrago-regieleki-pass-egg-timer)<!-- GAME:END -->
+ - [Nintendo’s Switch OLED is $50 off and includes $140 worth of extras at Sam’s Club](https://www.polygon.com/deals/2023/3/10/23634363/nintendo-switch-oled-deal-accessories-bundle-sams-club)
+ - [This Week on Xbox: Starfield’s Release Revealed, Huge Game Announces, and More](https://news.xbox.com/en-us/2023/03/10/this-week-on-xbox-starfields-release-revealed-huge-game-announces-and-more/)
+ - [Stranger Things Actor Says She&#39;s Streaming On Twitch More Due To Industry Sexual Harassment](https://kotaku.com/stranger-things-twitch-streaming-sexual-harassment-1850213893)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
