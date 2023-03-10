@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Heroines](https://blog.playstation.com/2023/03/10/share-of-the-week-heroines/)
- - [Knives Out: Talking Resident Evil 4’s Updated Combat with the Game’s Producer](https://news.xbox.com/en-us/2023/03/10/talking-resident-evil-4-updated-combat/)
- - [I&#39;m beyond excited that Ghost Trick, one of the greatest DS games, is finally coming to PC on June 30](https://www.pcgamer.com/im-beyond-excited-that-ghost-trick-one-of-the-greatest-ds-games-is-finally-coming-to-pc-on-june-30)<!-- GAME:END -->
+ - [Netflix’s Luther movie makes the Idris Elba cop show bigger, wilder, weirder, and uglier](https://www.polygon.com/23632659/luther-fallen-sun-review-netflix-movie-idris-elba)
+ - [The Gamer’s Guide to the New AI-Powered Bing](https://news.xbox.com/en-us/2023/03/10/the-gamers-guide-to-the-new-ai-powered-bing/)
+ - [Let&#39;s Rank The Mario Kart Games, Worst To Best](https://kotaku.com/lets-rank-the-mario-kart-games-worst-to-best-1842892038)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
