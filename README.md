@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey you ! Yeah you ! Tell me !!!](http://9gag.com/gag/abvez9E)
- - 🚯 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
- - 🚯 [Making his dads day](http://9gag.com/gag/a1P71rD)<!-- MEMES:END -->
+ - 🚖 [Resist if you can](http://9gag.com/gag/a4on3AA)
+ - 🚯 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - 🚯 [This guy have 36 wow accounts and raids with himself, because he hates to rely on strangers](http://9gag.com/gag/aOx20nR)<!-- MEMES:END -->
 
 --- 
 
