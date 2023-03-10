@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin falls ~8% to ~$19,900, a near two-month low, and ether falls 8%+ to ~$1,400, after a selloff of US stocks, rising interest rates, and troubles at SVB &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230310/p3#a230310p3)
- - [Get Ready to Meet the ChatGPT Clones](https://www.wired.com/story/get-ready-to-meet-the-chatgpt-clones/)
- - [The World’s First 3D-Printed Rocket Is About to Launch](https://www.wired.com/story/the-worlds-first-3d-printed-rocket-is-about-to-launch-relativity-space/)<!-- TECH:END -->
+ - [Preorders start for iPhone 14 &amp; iPhone 14 Pro in yellow](https://appleinsider.com/articles/23/03/10/preorders-start-for-iphone-14-iphone-14-pro-in-yellow?utm_medium=rss)
+ - [Sources: after lobbying by Apple, Foxconn, and others, India&#39;s Karnataka state will allow two-shift production and 12-hour shifts, similar to practices in China &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p5#a230310p5)
+ - [On Asphyxiation From Trains and Other Inaccurate Predictions](https://www.wired.com/story/technology-predictions-history/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
