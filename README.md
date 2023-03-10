@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First new iPhone 14 reviews try to benchmark yellow](https://appleinsider.com/articles/23/03/10/first-new-iphone-14-reviews-try-to-benchmark-yellow?utm_medium=rss)
- - [Sources: Silicon Valley Bank Financial is in talks to sell itself after attempts to raise capital failed &lpar;CNBC&rpar;](http://www.techmeme.com/230310/p7#a230310p7)
- - [The Netherlands, like ASML, is trying to find a middle ground between the US and China on chip sanctions, with recent plans stopping short of Biden&#39;s 2022 rules &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/230310/p6#a230310p6)<!-- TECH:END -->
+ - [The UK&#39;s CMA closes its antitrust probe into Google and Meta&#39;s alleged Jedi Blue deal on online ads, following a similar decision made by its EU counterparts &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230310/p8#a230310p8)
+ - [55 Best Podcasts &lpar;2023&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
+ - [How to Watch the 2023 Oscar Best Picture Nominees](https://www.wired.com/story/how-to-watch-2023-oscar-nominee-best-picture-movies-online/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
