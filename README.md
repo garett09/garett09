@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helicopter legs.](http://9gag.com/gag/aDY7YwN)
- - 🚯 [After 20+ years of buying insulin on Craigslist or simply going without.. Americans can now get all this for $35](http://9gag.com/gag/avQWyYX)
- - 🚯 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)<!-- MEMES:END -->
+ - 🚖 [9gag giveth, 9gag taketh away &lpar;info in comments&rpar;](http://9gag.com/gag/aBdZLOz)
+ - 🚯 [Love this guy!](http://9gag.com/gag/axoWv5K)
+ - 🚯 [An infinite Lego domino ring!](http://9gag.com/gag/a7q8eWq)<!-- MEMES:END -->
 
 --- 
 
