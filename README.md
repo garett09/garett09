@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Standing Desks of 2023     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Circle&#39;s USDC sees $1B in net redemptions since SVB&#39;s shutdown and is slightly depegged, after Circle said SVB is one of six banks managing USDC cash reserves &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230310/p23#a230310p23)
- - [iPhones May Not Get Under-Display Face ID Until 2025     - CNET](https://www.cnet.com/tech/mobile/iphones-may-not-get-under-display-face-id-until-2025/#ftag=CAD590a51e)
- - [Filing: crypto lender BlockFi, which filed for bankruptcy protection in November 2022, has $227M in uninsured funds in Silicon Valley Bank &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230310/p22#a230310p22)<!-- TECH:END -->
+ - [Best Budget TV for 2023: Cheap TVs from Vizio, TCL, Hisense and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-budget-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
