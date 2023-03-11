@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dungeons &amp; Dragons: Honor Among Thieves is everything a D&amp;D fan could want](https://www.polygon.com/23635507/dungeons-dragons-honor-among-thieves-sxsw-review-spoiler-free)
  - [65’s twist makes the dino-fighting movie just a little more interesting](https://www.polygon.com/23634010/65-adam-driver-interview-twist-time-travel-aliens)
- - [Cliff Bleszinski once considered making Gears of War 4 an FPS: &#39;Can you imagine chainsawing a Locust in first person?&#39;](https://www.pcgamer.com/cliff-bleszinski-once-considered-making-gears-of-war-4-an-fps-can-you-imagine-chainsawing-a-locust-in-first-person)
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
+ - [Cliff Bleszinski once considered making Gears of War 4 an FPS: &#39;Can you imagine chainsawing a Locust in first person?&#39;](https://www.pcgamer.com/cliff-bleszinski-once-considered-making-gears-of-war-4-an-fps-can-you-imagine-chainsawing-a-locust-in-first-person)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
