@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some hedge funds are offering to buy startups&#39; deposits at SVB for 60 to 80 cents on the dollar; Filing: ~96% of deposits as of Dec. 31 were uninsured &lpar;Semafor&rpar;](http://www.techmeme.com/230311/p14#a230311p14)
- - [SBV collapse led to finger-pointing, as some crypto advocates preach and scold while some investors argue crypto collapses set the stage for SVB&#39;s collapse &lpar;New York Times&rpar;](http://www.techmeme.com/230311/p13#a230311p13)
- - [iOS 16 Has a Hidden Photo Tool That&#39;s Like Photoshop for Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-has-a-hidden-photo-tool-thats-like-photoshop-for-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta says it plans to block Canadians&#39; ability to view or share news content on Facebook and Instagram if the country&#39;s proposed Online News Act becomes law &lpar;Marie Woolf/Globe and Mail&rpar;](http://www.techmeme.com/230311/p16#a230311p16)
+ - [An interview with Gowalla co-founder and CEO Josh Williams as he re-launches his location-based social networking app at SXSW, 14 years after its debut &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230311/p15#a230311p15)
+ - [Why You Won&#39;t Be Buying a Rollable Phone Anytime Soon     - CNET](https://www.cnet.com/tech/mobile/why-you-wont-be-buying-a-rollable-phone-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
