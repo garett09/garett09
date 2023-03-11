@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Roku held ~26% of its $1.9B in cash and equivalents at SVB, &quot;largely uninsured&quot;, and says the remaining amount will be sufficient for at least 12 months &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230310/p20#a230310p20)
- - [6 Best Weightlifting Shoes for 2023     - CNET](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [Sources: Meta plans multiple rounds of layoffs over the coming months that in total would be roughly the same magnitude as its ~13% cut in November 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230310/p19#a230310p19)<!-- TECH:END -->
+ - [Filing: crypto lender BlockFi, which filed for bankruptcy protection in November 2022, has $227M in uninsured funds in Silicon Valley Bank &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230310/p22#a230310p22)
+ - [Q&amp;A with Xerox CEO Steve Bandrowczak on the company&#39;s 100+ year history, printing, IT services, automation, the Palo Alto Research Center, CareAR, M&amp;A, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230310/p21#a230310p21)
+ - [Filing: Roku held ~26% of its $1.9B in cash and equivalents at SVB, &quot;largely uninsured&quot;, and says the remaining amount will be sufficient for at least 12 months &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230310/p20#a230310p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
