@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine](http://9gag.com/gag/aVbggMy)
- - 🚯 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
- - 🚯 [Oh boi.](http://9gag.com/gag/aeQ499W)<!-- MEMES:END -->
+ - 🚖 [Court in Australia acquitted a 31yo teacher for boinking multiple times with her 16yo student](http://9gag.com/gag/aZDnZMn)
+ - 🚯 [Didn&#39;t know you could read](http://9gag.com/gag/aKE16qj)
+ - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
 
 --- 
 
