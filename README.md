@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans multiple rounds of layoffs over the coming months that in total would be roughly of the same magnitude as the ~13% cut of November 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230310/p19#a230310p19)
- - [Android 13 QPR3 Beta 1 arrives next week, Google changes its release process](https://www.androidauthority.com/android-13-qpr3-beta-1-3295329/)
- - [How startup founders are reacting to Silicon Valley Bank&#39;s collapse, as some worry about frozen funds, operating expenses, and paying employees full salaries &lpar;TechCrunch&rpar;](http://www.techmeme.com/230310/p18#a230310p18)<!-- TECH:END -->
+ - [Filing: Roku held ~26% of its $1.9B in cash and equivalents at SVB, &quot;largely uninsured&quot;, and says the remaining amount will be sufficient for at least 12 months &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230310/p20#a230310p20)
+ - [6 Best Weightlifting Shoes for 2023     - CNET](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
+ - [Sources: Meta plans multiple rounds of layoffs over the coming months that in total would be roughly the same magnitude as its ~13% cut in November 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230310/p19#a230310p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
