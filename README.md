@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9gag giveth, 9gag taketh away &lpar;info in comments&rpar;](http://9gag.com/gag/aBdZLOz)
- - 🚯 [Love this guy!](http://9gag.com/gag/axoWv5K)
- - 🚯 [An infinite Lego domino ring!](http://9gag.com/gag/a7q8eWq)<!-- MEMES:END -->
+ - 🚖 [Hornet nest removal, Brazilian style.](http://9gag.com/gag/aQEgg1r)
+ - 🚯 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
+ - 🚯 [In the Balkans democracy gives you extra seconds.](http://9gag.com/gag/a5XVXDG)<!-- MEMES:END -->
 
 --- 
 
