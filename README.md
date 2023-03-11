@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 revisited: The good and the bad six months later](https://www.androidauthority.com/apple-watch-series-8-review-revisited-3294053/)
- - [LinkedIn&#39;s decision to publish posts written with the help of AI to provoke discussions is a milestone and may herald the start of semiautomated social networks &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230311/p8#a230311p8)
- - [How a Catholic Group Doxed Gay Priests](https://www.wired.com/story/catholic-priest-doxing-security-roundup/)<!-- TECH:END -->
+ - [Roblox and other companies disclose their exposure to SVB in SEC filings; Roblox says ~5% of its $3B cash and securities balance was held at SVB as of Feb. 28 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230311/p9#a230311p9)
+ - [Inside Apple Birmingham: preserving a 144-year-old building](https://appleinsider.com/articles/23/03/11/inside-apple-birmingham-preserving-a-144-year-old-building?utm_medium=rss)
+ - [Apple Watch Series 8 revisited: The good and the bad six months later](https://www.androidauthority.com/apple-watch-series-8-review-revisited-3294053/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
