@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hornet nest removal, Brazilian style.](http://9gag.com/gag/aQEgg1r)
- - 🚯 [Gender Equality \u2615](http://9gag.com/gag/ay2qq0b)
- - 🚯 [Go woke or go broke](http://9gag.com/gag/a7q8o9A)<!-- MEMES:END -->
+ - 🚖 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
+ - 🚯 [Posting Mainly to save but might be useful for some](http://9gag.com/gag/a1P7r3v)
+ - 🚯 [Bless these woke folks](http://9gag.com/gag/abveepr)<!-- MEMES:END -->
 
 --- 
 
