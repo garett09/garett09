@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the hang glider in Sons of the Forest](https://www.polygon.com/guides/23632728/sons-of-the-forest-hang-glider-location-where-to-find)
- - [I&#39;m convinced World of Warcraft is about to surprise us with its first ranged support class](https://www.pcgamer.com/im-convinced-world-of-warcraft-is-about-to-surprise-us-with-its-first-ranged-support-class)
- - [The Super Mario Bros. Movie cast sang the theme song together, somehow](https://www.polygon.com/23634118/super-mario-bros-movie-jimmy-fallon-tonight-show-sing)<!-- GAME:END -->
+ - [The Outlast Trials will finally launch into early access in May](https://www.pcgamer.com/the-outlast-trials-will-finally-launch-into-early-access-in-may)
+ - [Puss in Boots: The Last Wish, Netflix’s Luther movie, and every new movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/3/10/23627033/new-movies-watch-puss-boots-last-wish-netflix-luther-fallen-sun-80-for-brady)
+ - [Someone Created A Ride In Roller Coaster Tycoon 2 That Will Outlast Our Actual Universe](https://kotaku.com/rct2-roller-coaster-tycoon-2-universe-longest-ride-vos-1850214660)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
