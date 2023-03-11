@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
- - 🚯 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)
- - 🚯 [Nothing to see here. Just the second army Specnaz training, they train you to wheeeeee your way down the stairs to eat 5.56](http://9gag.com/gag/aGELn66)<!-- MEMES:END -->
+ - 🚖 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
+ - 🚯 [There fat, spoiled, entitled, useless POS](http://9gag.com/gag/a8qA1oY)
+ - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
 
 --- 
 
