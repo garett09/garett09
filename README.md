@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #630: Saturday, March 11](https://www.pcgamer.com/wordle-hint-answer-today-630-march-11)
  - [The Outlast Trials will finally launch into early access in May](https://www.pcgamer.com/the-outlast-trials-will-finally-launch-into-early-access-in-may)
- - [Puss in Boots: The Last Wish, Netflix’s Luther movie, and every new movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/3/10/23627033/new-movies-watch-puss-boots-last-wish-netflix-luther-fallen-sun-80-for-brady)
- - [Someone Created A Ride In Roller Coaster Tycoon 2 That Will Outlast Our Actual Universe](https://kotaku.com/rct2-roller-coaster-tycoon-2-universe-longest-ride-vos-1850214660)<!-- GAME:END -->
+ - [Puss in Boots: The Last Wish, Netflix’s Luther movie, and every new movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/3/10/23627033/new-movies-watch-puss-boots-last-wish-netflix-luther-fallen-sun-80-for-brady)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
