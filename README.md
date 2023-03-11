@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Resist if you can](http://9gag.com/gag/a4on3AA)
- - 🚯 [Mother of the year](http://9gag.com/gag/aMEdB8V)
- - 🚯 [Dog Beatbox](http://9gag.com/gag/a2KM16d)<!-- MEMES:END -->
+ - 🚖 [No need to buy natural gas anymore](http://9gag.com/gag/aoKWKdm)
+ - 🚯 [Hornet nest removal, Brazilian style.](http://9gag.com/gag/aQEgg1r)
+ - 🚯 [Corporate Zoo](http://9gag.com/gag/anzOzWL)<!-- MEMES:END -->
 
 --- 
 
