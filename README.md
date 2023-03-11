@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Court in Australia acquitted a 31yo teacher for boinking multiple times with her 16yo student](http://9gag.com/gag/aZDnZMn)
- - 🚯 [Didn&#39;t know you could read](http://9gag.com/gag/aKE16qj)
- - 🚯 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
+ - 🚖 [Hornet nest removal, Brazilian style.](http://9gag.com/gag/aQEgg1r)
+ - 🚯 [Gender Equality \u2615](http://9gag.com/gag/ay2qq0b)
+ - 🚯 [Go woke or go broke](http://9gag.com/gag/a7q8o9A)<!-- MEMES:END -->
 
 --- 
 
