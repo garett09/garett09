@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
- - 🚯 [Oppressive North Korea, Singing `I Want To Break Free` By Queen at an official concert for Leader Kim Jong-Un. This is the timeline we&#39;re on.](http://9gag.com/gag/aBdZnwA)
- - 🚯 [A son reunited with her mom after many years apart](http://9gag.com/gag/aoKWVZm)<!-- MEMES:END -->
+ - 🚖 [A son reunited with her mom after many years apart](http://9gag.com/gag/aoKWVZm)
+ - 🚯 [There fat, spoiled, entitled, useless POS](http://9gag.com/gag/a8qA1oY)
+ - 🚯 [After 20+ years of buying insulin on Craigslist or simply going without.. Americans can now get all this for $35](http://9gag.com/gag/avQWyYX)<!-- MEMES:END -->
 
 --- 
 
