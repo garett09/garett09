@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta go fast](http://9gag.com/gag/aQEgXPe)
- - 🚯 [After 20+ years of buying insulin on Craigslist or simply going without.. Americans can now get all this for $35](http://9gag.com/gag/avQWyYX)
- - 🚯 [No need to buy natural gas anymore](http://9gag.com/gag/aoKWKdm)<!-- MEMES:END -->
+ - 🚖 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
+ - 🚯 [Oppressive North Korea, Singing `I Want To Break Free` By Queen at an official concert for Leader Kim Jong-Un. This is the timeline we&#39;re on.](http://9gag.com/gag/aBdZnwA)
+ - 🚯 [A son reunited with her mom after many years apart](http://9gag.com/gag/aoKWVZm)<!-- MEMES:END -->
 
 --- 
 
