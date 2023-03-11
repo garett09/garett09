@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do smart scales work? Everything you need to know about smart weight watching](https://www.androidauthority.com/do-smart-scales-work-3289417/)
- - [Twitter is in decline and less stable under Elon Musk, echoing LiveJournal and Tumblr falling apart under new ownership that didn&#39;t understand their communities &lpar;Gita Jackson/The Verge&rpar;](http://www.techmeme.com/230311/p12#a230311p12)
- - [HP is blocking third-party printer ink again](https://www.theverge.com/2023/3/11/23635168/hp-printer-update-brick-third-party-ink-dynamic-security)<!-- TECH:END -->
+ - [SBV collapse led to finger-pointing, as some crypto advocates preach and scold while some investors argue crypto collapses set the stage for SVB&#39;s collapse &lpar;New York Times&rpar;](http://www.techmeme.com/230311/p13#a230311p13)
+ - [iOS 16 Has a Hidden Photo Tool That&#39;s Like Photoshop for Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-has-a-hidden-photo-tool-thats-like-photoshop-for-your-iphone/#ftag=CAD590a51e)
+ - [Get Apple&#39;s MacBook Pro 14-inch with 32GB RAM for just $1,949](https://appleinsider.com/articles/23/03/11/get-apples-macbook-pro-14-inch-with-32gb-ram-for-just-1949?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
