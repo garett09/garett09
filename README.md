@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix this March](https://www.polygon.com/what-to-watch/2023/3/11/23627816/best-thriller-movies-netflix-watch-march-2023)
- - [Wordle hint and answer #630: Saturday, March 11](https://www.pcgamer.com/wordle-hint-answer-today-630-march-11)
- - [The Outlast Trials will finally launch into early access in May](https://www.pcgamer.com/the-outlast-trials-will-finally-launch-into-early-access-in-may)<!-- GAME:END -->
+ - [Does the end of Creed III cheat Adonis out of what he deserves?](https://www.polygon.com/23634442/adonis-creed-vs-dame-ending-creed-3)
+ - [Super Mario 64 Fans Have Tried To Get This 1-Up Without Dying For Over 20 Years](https://kotaku.com/super-mario-64-youtube-sm64-nintendo-secret-1up-hidden-1850214597)
+ - [The 5 best thrillers to watch on Netflix this March](https://www.polygon.com/what-to-watch/2023/3/11/23627816/best-thriller-movies-netflix-watch-march-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
