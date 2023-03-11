@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle says $3.3B of ~$40B USDC reserves remain at SVB and invites users to participate in the USDC gift distribution to make up for negative market sentiment &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230310/p24#a230310p24)
- - [Best Gaming Keyboard Under $100 for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-keyboard-under-100/#ftag=CAD590a51e)
- - [Best Standing Desks of 2023     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta plans to divest from Kustomer, which it reportedly acquired for ~$1B; sources: the startup&#39;s revenue has flattened while burning through ~$200M since 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230311/p2#a230311p2)
+ - [Coinbase says it is &quot;temporarily pausing&quot; conversions of USDC into USD during the weekend; USDC traded at ~$0.90 as investors reacted to Circle&#39;s SVB exposure &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230311/p1#a230311p1)
+ - [Circle says $3.3B of ~$40B USDC reserves remain at Silicon Valley Bank and it will follow guidance provided by state and federal regulators &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230310/p24#a230310p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
