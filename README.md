@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: some hedge funds are offering to buy startups&#39; deposits at SVB for 60 to 80 cents on the dollar; Filing: ~96% of deposits as of Dec. 31 were uninsured &lpar;Semafor&rpar;](http://www.techmeme.com/230311/p14#a230311p14)
  - [SBV collapse led to finger-pointing, as some crypto advocates preach and scold while some investors argue crypto collapses set the stage for SVB&#39;s collapse &lpar;New York Times&rpar;](http://www.techmeme.com/230311/p13#a230311p13)
- - [iOS 16 Has a Hidden Photo Tool That&#39;s Like Photoshop for Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-has-a-hidden-photo-tool-thats-like-photoshop-for-your-iphone/#ftag=CAD590a51e)
- - [Get Apple&#39;s MacBook Pro 14-inch with 32GB RAM for just $1,949](https://appleinsider.com/articles/23/03/11/get-apples-macbook-pro-14-inch-with-32gb-ram-for-just-1949?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 16 Has a Hidden Photo Tool That&#39;s Like Photoshop for Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-has-a-hidden-photo-tool-thats-like-photoshop-for-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
