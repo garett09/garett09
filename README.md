@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 📅 Google I/O 2023 date confirmed](https://www.androidauthority.com/the-weekly-authority-march-11-2023-235-3293689/)
- - [13 Best Deals: Desks, Monitors, Headphones](https://www.wired.com/story/weekend-deals-march-11-2023/)
- - [The Daylight Saving Time Mess Just Won&#39;t Go Away](https://www.wired.com/story/2023-daylight-saving-time/)<!-- TECH:END -->
+ - [Daily deals March 11: $20 off AirPods Pro 2, $600 off Sennheiser HD 800 S headphones, 41% off iRobot Roomba s9+, more](https://appleinsider.com/articles/23/03/11/daily-deals-march-11-20-off-airpods-pro-2-600-off-sennheiser-hd-800-s-headphones-41-off-irobot-roomba-s9-more?utm_medium=rss)
+ - [4 awesome Samsung camera features I want to see on the Pixel 8](https://www.androidauthority.com/awesome-samsung-camera-features-wishlist-google-pixel-8-3290879/)
+ - [As Millions of Solar Panels Age Out, Recyclers Hope to Cash In](https://www.wired.com/story/as-millions-of-solar-panels-age-out-recyclers-hope-to-cash-in/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
