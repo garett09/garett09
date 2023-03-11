@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European telcos ramp up pressure on EU regulators to consider a framework where Google, Netflix, Meta, Apple, Amazon, and Microsoft help cover network costs &lpar;CNBC&rpar;](http://www.techmeme.com/230311/p5#a230311p5)
- - [A look at Sumplete, a game ChatGPT claimed it &quot;invented&quot; after being prompted to create Sudoku-like puzzles and is identical to at least one other mobile game &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/230311/p4#a230311p4)
- - [Filing: SVB investors and depositors tried to pull $42B on March 9; the bank had a negative cash balance of $958M on March 9, per an order for taking possession &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230311/p3#a230311p3)<!-- TECH:END -->
+ - [The Weekly Authority: 📅 Google I/O 2023 date confirmed](https://www.androidauthority.com/the-weekly-authority-march-11-2023-235-3293689/)
+ - [13 Best Deals: Desks, Monitors, Headphones](https://www.wired.com/story/weekend-deals-march-11-2023/)
+ - [The Daylight Saving Time Mess Just Won&#39;t Go Away](https://www.wired.com/story/2023-daylight-saving-time/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
