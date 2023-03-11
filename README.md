@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Resist if you can](http://9gag.com/gag/a4on3AA)
- - 🚯 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
- - 🚯 [There fat, spoiled, entitled, useless POS](http://9gag.com/gag/a8qA1oY)<!-- MEMES:END -->
+ - 🚖 [Oppressive North Korea, Singing `I Want To Break Free` By Queen at an official concert for Leader Kim Jong-Un. This is the timeline we&#39;re on.](http://9gag.com/gag/aBdZnwA)
+ - 🚯 [Didn&#39;t know you could read](http://9gag.com/gag/aKE16qj)
+ - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
 
 --- 
 
