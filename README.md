@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Catholic Group Doxed Gay Priests](https://www.wired.com/story/catholic-priest-doxing-security-roundup/)
- - [Silicon Valley Has a FOMO Problem](https://www.wired.com/story/silicon-valley-fomo-spotify-tiktok/)
- - [How to Watch the 2023 Oscars](https://www.wired.com/story/how-to-watch-the-oscars-academy-awards-2023/)<!-- TECH:END -->
+ - [Apple Watch Series 8 revisited: The good and the bad six months later](https://www.androidauthority.com/apple-watch-series-8-review-revisited-3294053/)
+ - [LinkedIn&#39;s decision to publish posts written with the help of AI to provoke discussions is a milestone and may herald the start of semiautomated social networks &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230311/p8#a230311p8)
+ - [How a Catholic Group Doxed Gay Priests](https://www.wired.com/story/catholic-priest-doxing-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
