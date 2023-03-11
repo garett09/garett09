@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s smartphone &#39;space zoom&#39; may lean heavily on AI for moon shots](https://appleinsider.com/articles/23/03/11/samsungs-smartphone-space-zoom-may-lean-heavily-on-ai-for-moon-shots?utm_medium=rss)
  - [Meta says it plans to block Canadians&#39; ability to view or share news content on Facebook and Instagram if the country&#39;s proposed Online News Act becomes law &lpar;Marie Woolf/Globe and Mail&rpar;](http://www.techmeme.com/230311/p16#a230311p16)
- - [An interview with Gowalla co-founder and CEO Josh Williams as he re-launches his location-based social networking app at SXSW, 14 years after its debut &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230311/p15#a230311p15)
- - [Why You Won&#39;t Be Buying a Rollable Phone Anytime Soon     - CNET](https://www.cnet.com/tech/mobile/why-you-wont-be-buying-a-rollable-phone-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Gowalla co-founder and CEO Josh Williams as he re-launches his location-based social networking app at SXSW, 14 years after its debut &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230311/p15#a230311p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
