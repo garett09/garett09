@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Does the end of Creed III cheat Adonis out of what he deserves?](https://www.polygon.com/23634442/adonis-creed-vs-dame-ending-creed-3)
- - [Super Mario 64 Fans Have Tried To Get This 1-Up Without Dying For Over 20 Years](https://kotaku.com/super-mario-64-youtube-sm64-nintendo-secret-1up-hidden-1850214597)
- - [The 5 best thrillers to watch on Netflix this March](https://www.polygon.com/what-to-watch/2023/3/11/23627816/best-thriller-movies-netflix-watch-march-2023)<!-- GAME:END -->
+ - [Is Patch Quest a roguelike, Metroidvania, bullet hell, or Pokémon-like? Yes](https://www.polygon.com/reviews/23630629/patch-quest-review-roguelike-metroidvania-pokemon-steam)
+ - [Revisiting The Last Of Us Game&#39;s Haunting Ending Before The Show&#39;s Finale](https://kotaku.com/the-last-of-us-tlou-ending-joel-ellie-cure-hbo-show-1850214609)
+ - [Does the end of Creed III cheat Adonis out of what he deserves?](https://www.polygon.com/23634442/adonis-creed-vs-dame-ending-creed-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
