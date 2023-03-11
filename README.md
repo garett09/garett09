@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
+ - 🚖 [A son reunited with her mom after many years apart](http://9gag.com/gag/aoKWVZm)
  - 🚯 [There fat, spoiled, entitled, useless POS](http://9gag.com/gag/a8qA1oY)
- - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
+ - 🚯 [After 20+ years of buying insulin on Craigslist or simply going without.. Americans can now get all this for $35](http://9gag.com/gag/avQWyYX)<!-- MEMES:END -->
 
 --- 
 
