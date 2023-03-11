@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hornet nest removal, Brazilian style.](http://9gag.com/gag/aQEgg1r)
- - 🚯 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
- - 🚯 [In the Balkans democracy gives you extra seconds.](http://9gag.com/gag/a5XVXDG)<!-- MEMES:END -->
+ - 🚖 [Big boom time coming ?](http://9gag.com/gag/avQWe0M)
+ - 🚯 [No need to buy natural gas anymore](http://9gag.com/gag/aoKWKdm)
+ - 🚯 [Italian boyfriend challenged not to gesture while speaking](http://9gag.com/gag/aDY78bO)<!-- MEMES:END -->
 
 --- 
 
