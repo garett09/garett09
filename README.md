@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
- - 🚯 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
- - 🚯 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)<!-- MEMES:END -->
+ - 🚖 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
+ - 🚯 [Trippy](http://9gag.com/gag/aNwLpZb)
+ - 🚯 [Uhoh\u2026](http://9gag.com/gag/ap919G5)<!-- MEMES:END -->
 
 --- 
 
