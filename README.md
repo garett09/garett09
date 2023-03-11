@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets get the weekend started](http://9gag.com/gag/ay2qNKW)
- - 🚯 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
- - 🚯 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)<!-- MEMES:END -->
+ - 🚖 [Imagine](http://9gag.com/gag/aVbggMy)
+ - 🚯 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
+ - 🚯 [Oh boi.](http://9gag.com/gag/aeQ499W)<!-- MEMES:END -->
 
 --- 
 
