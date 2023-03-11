@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European telcos ramp up pressure on EU regulators to consider a framework where Google, Netflix, Meta, Apple, Amazon, and Microsoft help cover network costs &lpar;CNBC&rpar;](http://www.techmeme.com/230311/p5#a230311p5)
  - [A look at Sumplete, a game ChatGPT claimed it &quot;invented&quot; after being prompted to create Sudoku-like puzzles and is identical to at least one other mobile game &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/230311/p4#a230311p4)
- - [Filing: SVB investors and depositors tried to pull $42B on March 9; the bank had a negative cash balance of $958M on March 9, per an order for taking possession &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230311/p3#a230311p3)
- - [Meta plans to divest from Kustomer, which it reportedly acquired for ~$1B; sources: the startup&#39;s revenue has flattened while burning through ~$200M since 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230311/p2#a230311p2)<!-- TECH:END -->
+ - [Filing: SVB investors and depositors tried to pull $42B on March 9; the bank had a negative cash balance of $958M on March 9, per an order for taking possession &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230311/p3#a230311p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
