@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Standing Desks of 2023     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Circle&#39;s USDC sees $1B in net redemptions since SVB&#39;s shutdown and is slightly depegged, after Circle said SVB is one of six banks managing USDC cash reserves &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230310/p23#a230310p23)
- - [Best Budget TV for 2023: Cheap TVs from Vizio, TCL, Hisense and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-budget-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Circle says $3.3B of ~$40B USDC reserves remain at SVB and invites users to participate in the USDC gift distribution to make up for negative market sentiment &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230310/p24#a230310p24)
+ - [Best Gaming Keyboard Under $100 for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-keyboard-under-100/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2023     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
