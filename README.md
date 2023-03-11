@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox and other companies disclose their exposure to SVB in SEC filings; Roblox says ~5% of its $3B cash and securities balance was held at SVB as of Feb. 28 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230311/p9#a230311p9)
- - [Inside Apple Birmingham: preserving a 144-year-old building](https://appleinsider.com/articles/23/03/11/inside-apple-birmingham-preserving-a-144-year-old-building?utm_medium=rss)
- - [Apple Watch Series 8 revisited: The good and the bad six months later](https://www.androidauthority.com/apple-watch-series-8-review-revisited-3294053/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-475-3294903/)
+ - [Brazil is seizing shipments of Flipper Zero, a $169 portable security penetration testing tool for wireless devices, due to its alleged use in criminal activity &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230311/p10#a230311p10)
+ - [Grab This Bella Pro Series Air Fryer for $20 -- Today Only     - CNET](https://www.cnet.com/deals/save-on-bella-pro-series-analog-air-fryer-20-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
