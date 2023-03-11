@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oppressive North Korea, Singing `I Want To Break Free` By Queen at an official concert for Leader Kim Jong-Un. This is the timeline we&#39;re on.](http://9gag.com/gag/aBdZnwA)
- - 🚯 [Didn&#39;t know you could read](http://9gag.com/gag/aKE16qj)
- - 🚯 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
+ - 🚖 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
+ - 🚯 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)
+ - 🚯 [Nothing to see here. Just the second army Specnaz training, they train you to wheeeeee your way down the stairs to eat 5.56](http://9gag.com/gag/aGELn66)<!-- MEMES:END -->
 
 --- 
 
