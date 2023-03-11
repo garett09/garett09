@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: crypto lender BlockFi, which filed for bankruptcy protection in November 2022, has $227M in uninsured funds in Silicon Valley Bank &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230310/p22#a230310p22)
- - [Q&amp;A with Xerox CEO Steve Bandrowczak on the company&#39;s 100+ year history, printing, IT services, automation, the Palo Alto Research Center, CareAR, M&amp;A, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230310/p21#a230310p21)
- - [Filing: Roku held ~26% of its $1.9B in cash and equivalents at SVB, &quot;largely uninsured&quot;, and says the remaining amount will be sufficient for at least 12 months &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230310/p20#a230310p20)<!-- TECH:END -->
+ - [Circle&#39;s USDC sees $1B in net redemptions since SVB&#39;s shutdown and is slightly depegged, after Circle said SVB is one of six banks managing USDC cash reserves &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230310/p23#a230310p23)
+ - [iPhones May Not Get Under-Display Face ID Until 2025     - CNET](https://www.cnet.com/tech/mobile/iphones-may-not-get-under-display-face-id-until-2025/#ftag=CAD590a51e)
+ - [Filing: crypto lender BlockFi, which filed for bankruptcy protection in November 2022, has $227M in uninsured funds in Silicon Valley Bank &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230310/p22#a230310p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
