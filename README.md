@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Founders fear that the collapse of SVB, which had branches in the UK, Canada, China, Germany, India, Israel, and more, could wipe out startups around the world &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230311/p11#a230311p11)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-475-3294903/)
- - [Brazil is seizing shipments of Flipper Zero, a $169 portable security penetration testing tool for wireless devices, due to its alleged use in criminal activity &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230311/p10#a230311p10)
- - [Grab This Bella Pro Series Air Fryer for $20 -- Today Only     - CNET](https://www.cnet.com/deals/save-on-bella-pro-series-analog-air-fryer-20-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazil is seizing shipments of Flipper Zero, a $169 portable security penetration testing tool for wireless devices, due to its alleged use in criminal activity &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230311/p10#a230311p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
