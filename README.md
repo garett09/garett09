@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
  - [Kakegurui Creator&#39;s New &#39;Death Game&#39; Anime Might Be The Sleeper Hit Of 2023](https://kotaku.com/high-card-kakegurui-crunchyroll-anime-2023-impressions-1850209983)
- - [Is Patch Quest a roguelike, Metroidvania, bullet hell, or Pokémon-like? Yes](https://www.polygon.com/reviews/23630629/patch-quest-review-roguelike-metroidvania-pokemon-steam)
- - [Revisiting The Last Of Us Game&#39;s Haunting Ending Before The Show&#39;s Finale](https://kotaku.com/the-last-of-us-tlou-ending-joel-ellie-cure-hbo-show-1850214609)<!-- GAME:END -->
+ - [Is Patch Quest a roguelike, Metroidvania, bullet hell, or Pokémon-like? Yes](https://www.polygon.com/reviews/23630629/patch-quest-review-roguelike-metroidvania-pokemon-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
