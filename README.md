@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
- - 🚯 [Posting Mainly to save but might be useful for some](http://9gag.com/gag/a1P7r3v)
- - 🚯 [Bless these woke folks](http://9gag.com/gag/abveepr)<!-- MEMES:END -->
+ - 🚖 [Resist if you can](http://9gag.com/gag/a4on3AA)
+ - 🚯 [Mother of the year](http://9gag.com/gag/aMEdB8V)
+ - 🚯 [Dog Beatbox](http://9gag.com/gag/a2KM16d)<!-- MEMES:END -->
 
 --- 
 
