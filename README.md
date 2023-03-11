@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders fear that the collapse of SVB, which had branches in the UK, Canada, China, Germany, India, Israel, and more, could wipe out startups around the world &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230311/p11#a230311p11)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-475-3294903/)
- - [Brazil is seizing shipments of Flipper Zero, a $169 portable security penetration testing tool for wireless devices, due to its alleged use in criminal activity &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230311/p10#a230311p10)<!-- TECH:END -->
+ - [Do smart scales work? Everything you need to know about smart weight watching](https://www.androidauthority.com/do-smart-scales-work-3289417/)
+ - [Twitter is in decline and less stable under Elon Musk, echoing LiveJournal and Tumblr falling apart under new ownership that didn&#39;t understand their communities &lpar;Gita Jackson/The Verge&rpar;](http://www.techmeme.com/230311/p12#a230311p12)
+ - [HP is blocking third-party printer ink again](https://www.theverge.com/2023/3/11/23635168/hp-printer-update-brick-third-party-ink-dynamic-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
