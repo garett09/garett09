@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)
- - 🚯 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
- - 🚯 [Resist if you can](http://9gag.com/gag/a4on3AA)<!-- MEMES:END -->
+ - 🚖 [Lets get the weekend started](http://9gag.com/gag/ay2qNKW)
+ - 🚯 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
+ - 🚯 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)<!-- MEMES:END -->
 
 --- 
 
