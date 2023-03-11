@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What happens when you repurpose H. R. Giger art to make a game? You get Dark Seed](https://www.pcgamer.com/saturday-crapshoot-darkseed)
  - [I downloaded &#39;The Elder Scrolls 6&#39; but I&#39;m starting to think it might not really be The Elder Scrolls 6](https://www.pcgamer.com/i-downloaded-the-elder-scrolls-6-but-im-starting-to-think-it-might-not-really-be-the-elder-scrolls-6)
- - [Dungeons &amp; Dragons: Honor Among Thieves is everything a D&amp;D fan could want](https://www.polygon.com/23635507/dungeons-dragons-honor-among-thieves-sxsw-review-spoiler-free)
- - [65’s twist makes the dino-fighting movie just a little more interesting](https://www.polygon.com/23634010/65-adam-driver-interview-twist-time-travel-aliens)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons: Honor Among Thieves is everything a D&amp;D fan could want](https://www.polygon.com/23635507/dungeons-dragons-honor-among-thieves-sxsw-review-spoiler-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
