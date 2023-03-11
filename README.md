@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In the Balkans democracy gives you extra seconds.](http://9gag.com/gag/a5XVXDG)
- - 🚯 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
- - 🚯 [Oppressive North Korea, Singing `I Want To Break Free` By Queen at an official concert for Leader Kim Jong-Un. This is the timeline we&#39;re on.](http://9gag.com/gag/aBdZnwA)<!-- MEMES:END -->
+ - 🚖 [Resist if you can](http://9gag.com/gag/a4on3AA)
+ - 🚯 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
+ - 🚯 [There fat, spoiled, entitled, useless POS](http://9gag.com/gag/a8qA1oY)<!-- MEMES:END -->
 
 --- 
 
