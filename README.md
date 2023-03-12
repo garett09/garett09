@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
- - 🚯 [Hehe](http://9gag.com/gag/aDY7V0N)
- - 🚯 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)<!-- MEMES:END -->
+ - 🚖 [Cat at the vets office](http://9gag.com/gag/aqeRx8L)
+ - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
+ - 🚯 [The explanation didn\u2019t make it any better](http://9gag.com/gag/agoQ1dn)<!-- MEMES:END -->
 
 --- 
 
