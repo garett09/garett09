@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SVB draws support from 300+ VC firms, including General Catalyst, while 1,200+ founders and CEOs sign a Y Combinator petition asking the US Congress to act &lpar;Bloomberg&rpar;](http://www.techmeme.com/230311/p20#a230311p20)
  - [Worried that cloud giants offer concentrated targets, the US plans to regulate the security practices of cloud providers like Amazon, Microsoft, and Google &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/230311/p19#a230311p19)
- - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-shows-to-watch-march-2023/#ftag=CAD590a51e)
- - [It looks like Samsung is cheating on &#39;space zoom&#39; moon photos](https://appleinsider.com/articles/23/03/11/samsungs-smartphone-space-zoom-may-lean-heavily-on-ai-for-moon-shots?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-shows-to-watch-march-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
