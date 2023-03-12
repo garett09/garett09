@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Butterfly](http://9gag.com/gag/a9qz8n0)
- - 🚯 [Pomegranate juice in Baghdad](http://9gag.com/gag/az25Ojp)
- - 🚯 [Perfectly said. When in Rome, do as the romans do](http://9gag.com/gag/avQWE85)<!-- MEMES:END -->
+ - 🚖 [I am done hope you enjoy it.](http://9gag.com/gag/aRELMLM)
+ - 🚯 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)
+ - 🚯 [Chinese lawmakers rise and clap for Xi Jinping as he wins the vote in the National People\u2019s Congress 2,952-0 for a third five-year term](http://9gag.com/gag/amAWWYX)<!-- MEMES:END -->
 
 --- 
 
