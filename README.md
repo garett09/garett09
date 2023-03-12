@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Creative Sensemore Air review: Great, when they connect properly](https://appleinsider.com/articles/23/03/12/creative-sensemore-air-review-great-when-they-connect-properly?utm_medium=rss)
- - [An average router ruined my smart home, especially my Nest speakers](https://www.androidauthority.com/bad-router-ruin-smart-home-3294785/)
- - [10 Best Apple 3-in-1 Wireless Chargers &lpar;2023&rpar;: For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
+ - [Flat Screen TV Sale at Best Buy Knocks Up to $700 Off Top-Rated Models     - CNET](https://www.cnet.com/deals/flat-screen-tv-sale-at-best-buy-knocks-up-to-700-off-top-rated-models/#ftag=CAD590a51e)
+ - [11 New iPhone Feature You Should Be Using if You&#39;re Not Already     - CNET](https://www.cnet.com/tech/mobile/11-new-iphone-feature-you-should-be-using-if-youre-not-already/#ftag=CAD590a51e)
+ - [US Treasury Secretary Janet Yellen on SVB: we are trying to meet the needs of depositors, but are not looking to bail out investors and owners of large banks &lpar;CBS News&rpar;](http://www.techmeme.com/230312/p5#a230312p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
