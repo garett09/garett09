@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FDIC started an auction late Saturday for SVB and final bids will be due by Sunday afternoon; it&#39;s possible that no deal will be reached &lpar;Matthew Monks/Bloomberg&rpar;](http://www.techmeme.com/230312/p7#a230312p7)
- - [How to use ChatGPT on Mac](https://appleinsider.com/inside/macos/tips/how-to-use-chatgpt-on-mac?utm_medium=rss)
- - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
+ - [How to use Smart Annotations on iPad](https://appleinsider.com/inside/ipad/tips/how-to-use-smart-annotations-on-ipad?utm_medium=rss)
+ - [This MagSafe grip made my Pixel 7 Pro feel like a DSLR camera](https://www.androidauthority.com/shiftcam-snapgrip-magsafe-grip-review-3285696/)
+ - [Best Gifts Under $250 for 2023     - CNET](https://www.cnet.com/tech/best-gifts-under-250/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
