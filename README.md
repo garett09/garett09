@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flat Screen TV Sale at Best Buy Knocks Up to $700 Off Top-Rated Models     - CNET](https://www.cnet.com/deals/flat-screen-tv-sale-at-best-buy-knocks-up-to-700-off-top-rated-models/#ftag=CAD590a51e)
- - [11 New iPhone Feature You Should Be Using if You&#39;re Not Already     - CNET](https://www.cnet.com/tech/mobile/11-new-iphone-feature-you-should-be-using-if-youre-not-already/#ftag=CAD590a51e)
- - [US Treasury Secretary Janet Yellen on SVB: we are trying to meet the needs of depositors, but are not looking to bail out investors and owners of large banks &lpar;CBS News&rpar;](http://www.techmeme.com/230312/p5#a230312p5)<!-- TECH:END -->
+ - [How to use ChatGPT on Mac](https://appleinsider.com/inside/macos/tips/how-to-use-chatgpt-on-mac?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [A look at the unusually high executive turnover at Apple, which has lost 11 key people just below the Senior VP level, since the second half of 2022 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230312/p6#a230312p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
