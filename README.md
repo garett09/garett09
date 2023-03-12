@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I won&#39;t say no to an out-of-the-blue update to this three-year-old, free, Mario-themed FPS demo](https://www.pcgamer.com/i-wont-say-no-to-an-out-of-the-blue-update-to-this-three-year-old-free-mario-themed-fps-demo)
- - [Bans for 46 players in cheating case hit Dota 2 esports, including 21 lifetime bans](https://www.pcgamer.com/bans-for-46-players-21-for-life-in-esports-cheating-case-hit-dota-2-community)
- - [STALKER 2 developer suffers Russia-linked security breach: &#39;We have been enduring constant cyberattacks for more than a year now&#39;](https://www.pcgamer.com/stalker-2-developer-suffers-russia-linked-security-breach-we-have-been-enduring-constant-cyberattacks-for-more-than-a-year-now)<!-- GAME:END -->
+ - [Here are the 2023 Oscar nominations — and the winners are incoming](https://www.polygon.com/23568882/oscars-2023-winners-list-academy-awards-nominations)
+ - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)
+ - [I won&#39;t say no to an out-of-the-blue update to this three-year-old, free, Mario-themed FPS demo](https://www.pcgamer.com/i-wont-say-no-to-an-out-of-the-blue-update-to-this-three-year-old-free-mario-themed-fps-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
