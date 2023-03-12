@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 models show size differences compared to iPhone 14 cases](https://appleinsider.com/articles/23/03/12/iphone-15-models-show-size-differences-compared-to-iphone-14-cases?utm_medium=rss)
- - [Etsy is delaying seller payouts following Silicon Valley Bank’s collapse](https://www.theverge.com/2023/3/12/23636379/etsy-delaying-seller-payouts-silicon-valley-bank-collapse)
- - [The Best Fantasy Movies on Prime Video You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-movies-on-prime-video-you-can-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oscars 2023: all the latest from film’s biggest awards show](https://www.theverge.com/2023/3/12/23633820/oscars-2023-news-winners)
+ - [Signature Bank is closed by regulators, the third US bank failure in a week](https://www.theverge.com/2023/3/12/23636780/crypto-collapse-fdic-treasury-shut-down-signature-bank)
+ - [New York shuts down Signature Bank as US regulators cite a &quot;systemic risk exception&quot; like for SVB, announcing all of Signature&#39;s depositors will be &quot;made whole&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/230312/p11#a230312p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
